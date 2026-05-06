@@ -1,5 +1,230 @@
 [
   {
+    "id": "feb66ead68e4",
+    "slug": "뷰웍스-1분기-매출-582억원영업이익-4배-증가-834305",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T16:57:40.100Z",
+    "updatedAt": "2026-05-06T16:57:40.100Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12037499",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12037499",
+    "titleFingerprint": "1a2a0d879e01a741fcfcf4d2350ad54d27f77a6e",
+    "dedupKeys": [
+      "feb66ead68e4de7c298986016f75ee2a691d1c40",
+      "1a2a0d879e01a741fcfcf4d2350ad54d27f77a6e",
+      "c1adb6856e0ad4f332effac9e3262c739be3cfd7"
+    ],
+    "imageUrl": "/images/articles/feb66ead68e4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "뷰웍스 1분기 매출 582억원, 영상솔루션 수요에 영업이익 4배 증가",
+        "excerpt": "의료·산업용 영상솔루션 기업 뷰웍스가 6일 잠정 공시한 1분기 연결 매출은 582억원으로, 소동물 실험용 영상 솔루션과 산업용 머신비전 수요 증가 속 영업이익이 4배 늘었다.",
+        "body": "의료 및 산업용 영상솔루션 전문기업 뷰웍스는 6일 잠정 공시를 통해 1분기 연결 기준 매출액이 582억원을 기록했다고 밝혔다. 이번 실적은 소동물 실험용 영상 솔루션과 산업용 머신비전 등 주요 제품군의 수요 증가가 배경으로 제시됐다. 회사의 1분기 영업이익은 전년 동기 대비 4배 증가한 것으로 전해졌다. 의료 영상과 산업용 검사 분야에서 영상 솔루션 수요가 확대되는 가운데, 뷰웍스의 분기 실적은 관련 사업 흐름을 보여주는 지표로 해석된다. 다만 이번 수치는 잠정 공시 기준이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Vieworks Q1 sales reach 58.2 billion won as operating profit quadruples",
+        "excerpt": "Vieworks said in a May 6 preliminary filing that Q1 consolidated sales reached 58.2 billion won, with operating profit rising fourfold amid demand for small-animal imaging and machine vision solutions.",
+        "body": "Vieworks, a company specializing in medical and industrial imaging solutions, said in a preliminary disclosure on May 6 that its first-quarter consolidated sales totaled 58.2 billion won. The results were attributed to rising demand for key product lines, including imaging solutions for small-animal experiments and industrial machine vision. The company’s first-quarter operating profit reportedly increased fourfold from a year earlier. As demand for imaging solutions expands across medical imaging and industrial inspection, Vieworks’ quarterly results offer a snapshot of the trend in those businesses. The figures are based on a preliminary filing. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ビューウォークス第1四半期売上582億ウォン、営業利益は4倍に増加",
+        "excerpt": "医療・産業用映像ソリューション企業のビューウォークスは6日、暫定公示で第1四半期連結売上高が582億ウォンとなり、需要増を背景に営業利益が4倍になったと明らかにした。",
+        "body": "医療および産業用映像ソリューションを手がけるビューウォークスは6日、暫定公示を通じて第1四半期の連結売上高が582億ウォンを記録したと発表した。今回の業績については、小動物実験用映像ソリューションや産業用マシンビジョンなど主要製品群の需要増加が背景として示された。同社の第1四半期営業利益は前年同期比で4倍に増加したと伝えられている。医療映像と産業用検査分野で映像ソリューション需要が広がる中、ビューウォークスの四半期業績は関連事業の流れを示す指標と受け止められる。ただし、今回の数値は暫定公示ベースである。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Vieworks一季度销售额582亿韩元，营业利润增长四倍",
+        "excerpt": "医疗及工业影像解决方案企业Vieworks于6日临时公告称，一季度合并销售额为582亿韩元，受小动物实验影像方案和工业机器视觉需求增加推动，营业利润增长四倍。",
+        "body": "医疗及工业影像解决方案专业企业Vieworks于6日通过临时公告表示，第一季度合并销售额达到582亿韩元。公司说明，本次业绩的背景是小动物实验用影像解决方案、工业机器视觉等主要产品线需求增加。据报道，Vieworks第一季度营业利润同比增长四倍。随着医疗影像和工业检测领域对影像解决方案的需求扩大，Vieworks的季度业绩被视为反映相关业务走势的指标。不过，本次数值基于临时公告。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Vieworks factura 58.200 millones de wones en el 1T y cuadruplica beneficio operativo",
+        "excerpt": "Vieworks informó el 6 de mayo, en una comunicación provisional, que sus ventas consolidadas del primer trimestre fueron de 58.200 millones de wones, con beneficio operativo cuatro veces mayor por demanda en imagen y visión industrial.",
+        "body": "Vieworks, empresa especializada en soluciones de imagen para usos médicos e industriales, informó el 6 de mayo mediante una comunicación provisional que sus ventas consolidadas del primer trimestre alcanzaron 58.200 millones de wones. La compañía señaló como contexto el aumento de la demanda de líneas clave, incluidas soluciones de imagen para experimentos con animales pequeños y visión artificial industrial. Su beneficio operativo del primer trimestre habría crecido cuatro veces frente al mismo periodo del año anterior. En un entorno de mayor demanda de soluciones de imagen para diagnóstico médico e inspección industrial, estos resultados trimestrales muestran la evolución de esas áreas de negocio. Las cifras son provisionales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Vieworks registra 58,2 bilhões de won em vendas no 1º tri e lucro operacional quadruplica",
+        "excerpt": "A Vieworks informou em 6 de maio, em divulgação preliminar, que as vendas consolidadas do 1º trimestre somaram 58,2 bilhões de won, com lucro operacional quatro vezes maior diante da demanda por imagem e visão industrial.",
+        "body": "A Vieworks, empresa especializada em soluções de imagem para os setores médico e industrial, informou em 6 de maio, por meio de divulgação preliminar, que suas vendas consolidadas no primeiro trimestre chegaram a 58,2 bilhões de won. O desempenho foi associado ao aumento da demanda por linhas importantes, como soluções de imagem para experimentos com pequenos animais e visão de máquina industrial. O lucro operacional do primeiro trimestre teria aumentado quatro vezes em relação ao mesmo período do ano anterior. Com a expansão da demanda por soluções de imagem em imagem médica e inspeção industrial, os resultados trimestrais da Vieworks refletem o movimento desses negócios. Os números são preliminares. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Vieworks erzielt im ersten Quartal 58,2 Mrd. Won Umsatz, operativer Gewinn vervierfacht",
+        "excerpt": "Vieworks meldete am 6. Mai vorläufige Zahlen: Der konsolidierte Umsatz im ersten Quartal lag bei 58,2 Mrd. Won, während der operative Gewinn dank Nachfrage nach Bildgebung und Machine Vision auf das Vierfache stieg.",
+        "body": "Vieworks, ein Spezialist für medizinische und industrielle Bildgebungslösungen, teilte am 6. Mai in einer vorläufigen Meldung mit, dass der konsolidierte Umsatz im ersten Quartal 58,2 Mrd. Won erreichte. Als Hintergrund wurden eine stärkere Nachfrage nach wichtigen Produktgruppen wie Bildgebungslösungen für Kleintierexperimente und industrieller Machine Vision genannt. Der operative Gewinn des Unternehmens im ersten Quartal soll sich gegenüber dem Vorjahreszeitraum vervierfacht haben. Da die Nachfrage nach Bildgebungslösungen in der medizinischen Bildgebung und der industriellen Prüfung zunimmt, gelten die Quartalszahlen von Vieworks als Hinweis auf die Entwicklung dieser Geschäftsbereiche. Die Zahlen sind vorläufig. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Vieworks réalise 58,2 milliards de wons de ventes au T1, bénéfice opérationnel multiplié par quatre",
+        "excerpt": "Vieworks a indiqué le 6 mai, dans une publication provisoire, que son chiffre d’affaires consolidé du premier trimestre atteignait 58,2 milliards de wons, avec un bénéfice opérationnel multiplié par quatre grâce à la demande en imagerie et vision industrielle.",
+        "body": "Vieworks, entreprise spécialisée dans les solutions d’imagerie médicale et industrielle, a annoncé le 6 mai dans une publication provisoire que son chiffre d’affaires consolidé du premier trimestre s’élevait à 58,2 milliards de wons. Cette performance s’explique par la hausse de la demande pour des gammes clés, notamment les solutions d’imagerie destinées aux expériences sur petits animaux et la vision industrielle. Le bénéfice opérationnel du premier trimestre aurait été multiplié par quatre par rapport à la même période de l’an dernier. Alors que la demande en imagerie médicale et en inspection industrielle progresse, les résultats trimestriels de Vieworks illustrent l’évolution de ces activités. Les chiffres restent provisoires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فيووركس تسجل مبيعات فصلية بـ58.2 مليار وون وأرباح التشغيل ترتفع أربعة أضعاف",
+        "excerpt": "أعلنت فيووركس في إفصاح أولي يوم 6 مايو أن مبيعاتها الموحدة في الربع الأول بلغت 58.2 مليار وون، مع ارتفاع أرباح التشغيل أربعة أضعاف بدعم الطلب على حلول تصوير الحيوانات الصغيرة والرؤية الصناعية.",
+        "body": "أعلنت شركة فيووركس، المتخصصة في حلول التصوير الطبي والصناعي، في إفصاح أولي يوم 6 مايو أن مبيعاتها الموحدة في الربع الأول بلغت 58.2 مليار وون. وجاءت النتائج في ظل زيادة الطلب على خطوط منتجات رئيسية، من بينها حلول التصوير لتجارب الحيوانات الصغيرة والرؤية الآلية الصناعية. وذكرت التقارير أن أرباح التشغيل في الربع الأول ارتفعت أربعة أضعاف مقارنة بالفترة نفسها من العام السابق. ومع توسع الطلب على حلول التصوير في مجالي التصوير الطبي والفحص الصناعي، تعكس نتائج فيووركس الفصلية اتجاه هذه الأنشطة. وتستند الأرقام إلى إفصاح أولي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Vieworks की पहली तिमाही बिक्री 58.2 अरब वॉन, परिचालन लाभ चार गुना बढ़ा",
+        "excerpt": "Vieworks ने 6 मई की प्रारंभिक फाइलिंग में बताया कि पहली तिमाही की समेकित बिक्री 58.2 अरब वॉन रही, जबकि छोटे पशु प्रयोग इमेजिंग समाधान और औद्योगिक मशीन विजन की मांग से परिचालन लाभ चार गुना बढ़ा।",
+        "body": "चिकित्सा और औद्योगिक इमेजिंग समाधान में विशेषज्ञ Vieworks ने 6 मई को प्रारंभिक खुलासे में कहा कि पहली तिमाही में उसकी समेकित बिक्री 58.2 अरब वॉन रही। कंपनी के प्रदर्शन की पृष्ठभूमि में छोटे पशु प्रयोगों के लिए इमेजिंग समाधान और औद्योगिक मशीन विजन जैसे प्रमुख उत्पाद समूहों की मांग में वृद्धि बताई गई। पहली तिमाही में कंपनी का परिचालन लाभ पिछले वर्ष की समान अवधि की तुलना में चार गुना बढ़ा। चिकित्सा इमेजिंग और औद्योगिक निरीक्षण क्षेत्रों में इमेजिंग समाधान की मांग बढ़ने के बीच, Vieworks के तिमाही परिणाम संबंधित कारोबार की दिशा दिखाते हैं। ये आंकड़े प्रारंभिक फाइलिंग पर आधारित हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Vieworks raih penjualan kuartal I 58,2 miliar won, laba operasi naik empat kali",
+        "excerpt": "Vieworks menyatakan dalam pengungkapan sementara pada 6 Mei bahwa penjualan konsolidasian kuartal I mencapai 58,2 miliar won, dengan laba operasi naik empat kali seiring permintaan solusi pencitraan hewan kecil dan machine vision industri.",
+        "body": "Vieworks, perusahaan spesialis solusi pencitraan medis dan industri, menyampaikan dalam pengungkapan sementara pada 6 Mei bahwa penjualan konsolidasian kuartal pertama mencapai 58,2 miliar won. Kinerja ini dikaitkan dengan meningkatnya permintaan pada lini produk utama, termasuk solusi pencitraan untuk eksperimen hewan kecil dan machine vision industri. Laba operasi kuartal pertama perusahaan dilaporkan naik empat kali dibanding periode yang sama tahun sebelumnya. Di tengah meluasnya permintaan solusi pencitraan untuk pencitraan medis dan inspeksi industri, hasil kuartalan Vieworks menjadi gambaran arah bisnis terkait. Angka tersebut masih berdasarkan pengungkapan sementara. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e1e929c9cb67",
+    "slug": "삼성전자-성과급-갈등-해법거버넌스포럼-eva-대신-장기주식보상으로-999657",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T16:56:33.869Z",
+    "updatedAt": "2026-05-06T16:56:33.869Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037501",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037501",
+    "titleFingerprint": "1114125454583212c26a00b5430085c25f1091f9",
+    "dedupKeys": [
+      "e1e929c9cb6740d656da91796f67c100064e4c9f",
+      "1114125454583212c26a00b5430085c25f1091f9",
+      "28f967d3c66d3f36e1c42782b91456b9153e1b20"
+    ],
+    "imageUrl": "/images/articles/e1e929c9cb67.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 성과급 갈등 해법, 거버넌스포럼이 제안한 장기주식보상 전환",
+        "excerpt": "한국기업거버넌스포럼은 삼성전자 성과급 갈등의 해법으로 EVA 중심의 복잡하고 불투명한 평가 방식 대신 임직원이 장기 주주로 참여하는 주식보상 체계를 제안했다.",
+        "body": "한국기업거버넌스포럼은 삼성전자의 성과급 갈등과 관련해 기존 성과평가 방식을 폐기하고 장기주식보상 체계로 전환해야 한다고 제안했다. 포럼은 복잡하고 불투명하다는 지적을 받는 EVA 기반 평가 대신, 임직원이 장기 주주로 참여하는 구조가 필요하다고 밝혔다. 핵심은 주식보상을 통해 직원과 주주의 이해를 일치시키는 것이다. 포럼의 제안은 성과급 산정 방식의 신뢰성과 보상 구조의 지속 가능성을 높이는 방안으로 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Bonus Dispute: Governance Forum Urges Long-Term Stock Pay",
+        "excerpt": "The Korea Corporate Governance Forum proposed that Samsung Electronics replace its complex EVA-based performance system with long-term stock compensation aligning employees and shareholders.",
+        "body": "The Korea Corporate Governance Forum proposed a solution to Samsung Electronics’ bonus dispute, calling for the company to scrap its existing performance evaluation method and shift to a long-term stock compensation system. The forum said the EVA-based approach, criticized as complex and opaque, should be replaced by a structure in which employees participate as long-term shareholders. The central point is to align employee and shareholder interests through stock-based pay. The proposal was presented as a way to improve trust in bonus calculation and the sustainability of compensation. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子の成果給対立、ガバナンスフォーラムが長期株式報酬を提案",
+        "excerpt": "韓国企業ガバナンスフォーラムは、サムスン電子の成果給対立の解決策として、複雑で不透明なEVA中心の評価方式に代わり長期株式報酬制度を提案した。",
+        "body": "韓国企業ガバナンスフォーラムは、サムスン電子の成果給をめぐる対立について、既存の成果評価方式を廃止し、長期株式報酬制度へ転換すべきだと提案した。フォーラムは、複雑で不透明だと指摘されるEVA基準の評価に代えて、役職員が長期株主として参加する仕組みが必要だとした。要点は、株式報酬を通じて従業員と株主の利害を一致させることにある。この提案は、成果給算定方式への信頼性と報酬構造の持続可能性を高める案として示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子绩效奖金争议解法：治理论坛建议转向长期股票薪酬",
+        "excerpt": "韩国企业治理论坛提出，三星电子应废除以EVA为中心、复杂且不透明的绩效评估方式，改用让员工以长期股东身份参与的股票薪酬体系。",
+        "body": "韩国企业治理论坛就三星电子绩效奖金争议提出方案，建议公司废除现有绩效评估方式，转向长期股票薪酬体系。论坛表示，应以员工和管理层作为长期股东参与的结构，取代被指复杂且不透明的EVA基础评估。其核心在于通过股票薪酬使员工与股东利益保持一致。该建议被提出为提升绩效奖金计算方式可信度、增强薪酬结构可持续性的方案。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y la disputa por bonos: foro propone pago accionario a largo plazo",
+        "excerpt": "El Foro de Gobierno Corporativo de Corea propuso que Samsung Electronics sustituya su evaluación EVA, compleja y opaca, por compensación en acciones de largo plazo para alinear a empleados y accionistas.",
+        "body": "El Foro de Gobierno Corporativo de Corea propuso una salida a la disputa por los bonos de Samsung Electronics: eliminar el actual sistema de evaluación del desempeño y pasar a un esquema de compensación en acciones a largo plazo. El foro sostuvo que el modelo basado en EVA, señalado como complejo y poco transparente, debería reemplazarse por una estructura en la que empleados y directivos participen como accionistas de largo plazo. El punto central es alinear los intereses de empleados y accionistas mediante pagos en acciones. La propuesta fue presentada como una forma de elevar la confianza en el cálculo de bonos y la sostenibilidad del sistema de compensación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bônus da Samsung Electronics: fórum propõe ações de longo prazo no lugar do EVA",
+        "excerpt": "O Fórum de Governança Corporativa da Coreia propôs que a Samsung Electronics troque a avaliação baseada em EVA, vista como complexa e opaca, por remuneração em ações de longo prazo.",
+        "body": "O Fórum de Governança Corporativa da Coreia apresentou uma proposta para o conflito sobre bônus na Samsung Electronics: abandonar o atual método de avaliação de desempenho e migrar para um sistema de remuneração em ações de longo prazo. Segundo o fórum, a avaliação baseada em EVA, criticada por ser complexa e pouco transparente, deve dar lugar a uma estrutura em que funcionários e executivos participem como acionistas de longo prazo. O objetivo central é alinhar os interesses de empregados e acionistas por meio de remuneração em ações. A proposta foi apresentada como forma de ampliar a confiança no cálculo dos bônus e a sustentabilidade do modelo de compensação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics Bonusstreit: Forum empfiehlt langfristige Aktienvergütung",
+        "excerpt": "Das Korea Corporate Governance Forum schlug vor, dass Samsung Electronics sein komplexes, intransparentes EVA-Bewertungssystem durch langfristige Aktienvergütung ersetzt.",
+        "body": "Das Korea Corporate Governance Forum hat im Streit um Bonuszahlungen bei Samsung Electronics vorgeschlagen, die bisherige Leistungsbewertung abzuschaffen und auf ein System langfristiger Aktienvergütung umzusteigen. Das Forum erklärte, der EVA-basierte Ansatz, der als komplex und intransparent kritisiert wird, solle durch eine Struktur ersetzt werden, in der Beschäftigte und Führungskräfte als langfristige Aktionäre beteiligt sind. Kernpunkt ist, die Interessen von Mitarbeitenden und Aktionären über Aktienvergütung anzugleichen. Der Vorschlag wurde als Weg dargestellt, das Vertrauen in die Bonusberechnung und die Nachhaltigkeit der Vergütungsstruktur zu stärken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics: le forum de gouvernance propose des actions à long terme",
+        "excerpt": "Le Korea Corporate Governance Forum propose à Samsung Electronics de remplacer son évaluation EVA, jugée complexe et opaque, par une rémunération en actions à long terme.",
+        "body": "Le Korea Corporate Governance Forum a proposé une solution au conflit sur les primes chez Samsung Electronics: supprimer la méthode actuelle d’évaluation de la performance et adopter un système de rémunération en actions à long terme. Le forum estime que l’approche fondée sur l’EVA, critiquée pour sa complexité et son manque de transparence, devrait être remplacée par une structure dans laquelle salariés et dirigeants participent comme actionnaires de long terme. L’objectif central est d’aligner les intérêts des employés et des actionnaires grâce à la rémunération en actions. La proposition est présentée comme un moyen de renforcer la confiance dans le calcul des primes et la durabilité du système de rémunération. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "نزاع مكافآت سامسونغ إلكترونيكس: منتدى الحوكمة يقترح تعويضات أسهم طويلة الأجل",
+        "excerpt": "اقترح منتدى حوكمة الشركات الكوري أن تستبدل سامسونغ إلكترونيكس نظام تقييم الأداء القائم على EVA، الموصوف بالمعقد وغير الشفاف، بتعويضات أسهم طويلة الأجل.",
+        "body": "اقترح منتدى حوكمة الشركات الكوري حلا لنزاع مكافآت سامسونغ إلكترونيكس، داعيا الشركة إلى إلغاء طريقة تقييم الأداء الحالية والتحول إلى نظام تعويضات أسهم طويلة الأجل. وقال المنتدى إن النهج القائم على EVA، والذي يواجه انتقادات بسبب تعقيده وضعف شفافيته، يجب أن يستبدل بهيكل يشارك فيه الموظفون والمديرون كمساهمين على المدى الطويل. ويتمثل جوهر الاقتراح في مواءمة مصالح الموظفين والمساهمين عبر التعويض بالأسهم. وقدم الاقتراح كوسيلة لتعزيز الثقة في احتساب المكافآت واستدامة هيكل التعويضات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics बोनस विवाद: गवर्नेंस फोरम ने दी दीर्घकालिक शेयर वेतन की सलाह",
+        "excerpt": "Korea Corporate Governance Forum ने Samsung Electronics से जटिल और अपारदर्शी EVA आधारित प्रदर्शन मूल्यांकन हटाकर कर्मचारियों को दीर्घकालिक शेयरधारक बनाने वाली शेयर क्षतिपूर्ति प्रणाली अपनाने को कहा।",
+        "body": "Korea Corporate Governance Forum ने Samsung Electronics के बोनस विवाद पर समाधान सुझाते हुए कहा कि कंपनी को मौजूदा प्रदर्शन मूल्यांकन पद्धति हटाकर दीर्घकालिक शेयर क्षतिपूर्ति प्रणाली अपनानी चाहिए। फोरम के अनुसार, जटिल और अपारदर्शी माने जाने वाले EVA आधारित मूल्यांकन की जगह ऐसी संरचना होनी चाहिए जिसमें कर्मचारी और अधिकारी दीर्घकालिक शेयरधारक के रूप में भाग लें। इसका मुख्य उद्देश्य शेयर आधारित भुगतान के जरिए कर्मचारियों और शेयरधारकों के हितों को एक करना है। यह प्रस्ताव बोनस गणना की विश्वसनीयता और क्षतिपूर्ति ढांचे की स्थिरता बढ़ाने के उपाय के रूप में रखा गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Konflik Bonus Samsung Electronics: Forum Usul Kompensasi Saham Jangka Panjang",
+        "excerpt": "Korea Corporate Governance Forum mengusulkan Samsung Electronics mengganti penilaian kinerja berbasis EVA yang kompleks dan tidak transparan dengan kompensasi saham jangka panjang.",
+        "body": "Korea Corporate Governance Forum mengusulkan solusi atas konflik bonus di Samsung Electronics dengan meminta perusahaan menghapus metode penilaian kinerja yang ada dan beralih ke sistem kompensasi saham jangka panjang. Forum tersebut menilai pendekatan berbasis EVA, yang dikritik karena kompleks dan tidak transparan, perlu diganti dengan struktur yang membuat karyawan dan eksekutif ikut berperan sebagai pemegang saham jangka panjang. Intinya adalah menyelaraskan kepentingan karyawan dan pemegang saham melalui kompensasi berbasis saham. Usulan ini disampaikan sebagai cara meningkatkan kepercayaan pada perhitungan bonus dan keberlanjutan struktur kompensasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "58f01a9f3ff1",
+    "slug": "속보-7천피-시대-열린-코스피65-급등한-7384로-장-마감-237173",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T16:55:32.758Z",
+    "updatedAt": "2026-05-06T16:55:32.758Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037512",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037512",
+    "titleFingerprint": "78ac1e88ab1f5c8b7cefb695bca533a2211d2819",
+    "dedupKeys": [
+      "58f01a9f3ff1d06bc3bbae5daa08c6a60ad8ec38",
+      "78ac1e88ab1f5c8b7cefb695bca533a2211d2819",
+      "060b6f219942e175c8e5b0ce1663a8356516cf54"
+    ],
+    "imageUrl": "/images/articles/58f01a9f3ff1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7384 마감, 반도체주 급등에 ‘7천피’ 시대 열렸다",
+        "excerpt": "코스피가 6일 7090선에서 출발한 뒤 상승폭을 키워 6.5% 급등한 7384로 마감했다. 반도체주 강세와 미국·이란 협상 기대감이 지수 상승을 이끌었다.",
+        "body": "코스피가 6일 7000선을 넘어 7300선에서 장을 마쳤다. 이날 지수는 7090선에서 출발한 뒤 상승폭을 확대했고, 전 거래일 대비 6.5% 급등한 7384로 마감했다. 반도체주 강세가 시장 흐름을 주도했다. 삼성전자와 SK하이닉스는 10~14%대 급등하며 나란히 52주 신고가를 경신했다. 미국과 이란의 협상 기대감도 투자심리에 영향을 준 요인으로 거론됐다. 코스피가 7000선을 돌파한 뒤 7300선까지 올라서면서 국내 증시의 단기 흐름은 반도체 대형주와 대외 변수에 계속 좌우될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Closes at 7,384 as Chip Stocks Surge and 7,000 Era Begins",
+        "excerpt": "The KOSPI started near 7,090 on the 6th, widened gains and closed up 6.5% at 7,384, led by semiconductor strength and hopes for U.S.-Iran talks.",
+        "body": "The KOSPI crossed the 7,000 mark on the 6th and ended the session in the 7,300 range. The index began around 7,090, extended its advance during trading and closed at 7,384, up 6.5% from the previous session. Semiconductor shares led the market’s move. Samsung Electronics and SK Hynix jumped in the 10% to 14% range and both renewed their 52-week highs. Expectations for negotiations between the United States and Iran were also cited as a factor supporting investor sentiment. After breaking above 7,000 and reaching the 7,300 level, the KOSPI’s near-term direction is expected to remain tied to major chip stocks and external variables. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI7384で終了、半導体株急騰で「7000時代」入り",
+        "excerpt": "KOSPIは6日、7090台で始まった後に上げ幅を広げ、6.5%急騰の7384で終了した。半導体株高と米国・イラン協議への期待が支えた。",
+        "body": "KOSPIは6日、7000を突破し、7300台で取引を終えた。この日の指数は7090台で始まり、その後上げ幅を拡大し、前営業日比6.5%高の7384で引けた。市場の流れを主導したのは半導体株だった。サムスン電子とSKハイニックスは10〜14%台の急騰となり、そろって52週高値を更新した。米国とイランの協議への期待も投資心理を支えた要因として挙げられた。KOSPIが7000を突破し7300台まで上昇したことで、国内株式市場の短期的な動きは半導体大型株と対外要因に引き続き左右される見通しだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI收于7384点，半导体股大涨开启“7000点时代”",
+        "excerpt": "KOSPI于6日从7090点附近开盘后扩大涨幅，最终大涨6.5%收于7384点。半导体股走强及美伊谈判期待推动指数上行。",
+        "body": "KOSPI于6日突破7000点，并在7300点区间收盘。当天指数从7090点附近开盘后继续扩大涨幅，较前一交易日大涨6.5%，收于7384点。半导体股的强势主导了市场走势。三星电子和SK海力士上涨10%至14%区间，并双双刷新52周新高。美国与伊朗谈判的期待也被认为是影响投资情绪的因素。随着KOSPI突破7000点并升至7300点区间，韩国股市短期走势预计仍将受到大型半导体股和外部变量影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cierra en 7.384 tras salto de chips y abre la era de 7.000",
+        "excerpt": "El KOSPI arrancó el día 6 cerca de 7.090, amplió ganancias y cerró con un alza del 6,5% en 7.384, impulsado por semiconductores y expectativas de diálogo EE. UU.-Irán.",
+        "body": "El KOSPI superó el nivel de 7.000 puntos el día 6 y terminó la sesión en la zona de 7.300. El índice comenzó cerca de 7.090, amplió sus ganancias durante la jornada y cerró en 7.384, un avance del 6,5% frente a la sesión anterior. Las acciones de semiconductores lideraron el movimiento del mercado. Samsung Electronics y SK Hynix subieron entre un 10% y un 14% y renovaron juntas sus máximos de 52 semanas. Las expectativas de negociaciones entre Estados Unidos e Irán también fueron citadas como un factor para el ánimo inversor. Tras superar 7.000 y avanzar hasta 7.300, el rumbo inmediato del KOSPI dependerá de los grandes valores de chips y de variables externas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI fecha a 7.384 com salto de chips e inaugura era dos 7.000",
+        "excerpt": "O KOSPI abriu no dia 6 perto de 7.090, ampliou ganhos e fechou em alta de 6,5%, a 7.384, apoiado por semicondutores e expectativas de negociação EUA-Irã.",
+        "body": "O KOSPI ultrapassou a marca de 7.000 pontos no dia 6 e encerrou o pregão na faixa dos 7.300. O índice começou perto de 7.090, ampliou a alta ao longo da sessão e fechou a 7.384, avanço de 6,5% ante o pregão anterior. As ações de semicondutores lideraram o movimento do mercado. Samsung Electronics e SK Hynix dispararam entre 10% e 14% e renovaram juntas suas máximas de 52 semanas. A expectativa por negociações entre Estados Unidos e Irã também foi apontada como fator de apoio ao sentimento dos investidores. Depois de romper 7.000 e chegar à faixa dos 7.300, o KOSPI deve seguir influenciado por grandes ações de chips e variáveis externas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI schließt bei 7.384, Chipwerte treiben Sprung über 7.000",
+        "excerpt": "Der KOSPI startete am 6. nahe 7.090, baute seine Gewinne aus und schloss 6,5% höher bei 7.384. Starke Halbleiterwerte und Hoffnungen auf US-Iran-Gespräche stützten den Markt.",
+        "body": "Der KOSPI überschritt am 6. die Marke von 7.000 Punkten und beendete den Handel im Bereich von 7.300. Der Index startete nahe 7.090, weitete seine Gewinne im Verlauf aus und schloss bei 7.384, ein Plus von 6,5% gegenüber der vorherigen Sitzung. Halbleiteraktien bestimmten die Marktbewegung. Samsung Electronics und SK Hynix sprangen um 10% bis 14% und erreichten beide neue 52-Wochen-Hochs. Auch Erwartungen an Verhandlungen zwischen den USA und Iran wurden als Faktor für die Anlegerstimmung genannt. Nach dem Ausbruch über 7.000 und dem Anstieg auf 7.300 dürfte die kurzfristige Richtung des KOSPI weiter von großen Chipwerten und externen Variablen abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KOSPI clôture à 7 384, les puces propulsent l’ère des 7 000",
+        "excerpt": "Le KOSPI a débuté le 6 autour de 7 090, a accentué sa hausse et a clôturé en bond de 6,5% à 7 384, porté par les semi-conducteurs et l’espoir de discussions États-Unis-Iran.",
+        "body": "Le KOSPI a franchi le seuil des 7 000 points le 6 et a terminé la séance dans la zone des 7 300. L’indice a ouvert autour de 7 090, puis a élargi ses gains avant de clôturer à 7 384, en hausse de 6,5% par rapport à la séance précédente. Les valeurs des semi-conducteurs ont mené le mouvement. Samsung Electronics et SK Hynix ont bondi de 10% à 14% et ont toutes deux inscrit un nouveau plus haut sur 52 semaines. Les attentes autour de négociations entre les États-Unis et l’Iran ont aussi été citées comme un soutien au sentiment des investisseurs. Après le passage au-dessus de 7 000 et la montée vers 7 300, l’évolution à court terme du KOSPI devrait rester liée aux grands titres des puces et aux variables externes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند 7384 نقطة مع قفزة أسهم الرقائق وبداية عصر 7000",
+        "excerpt": "بدأ مؤشر كوسبي يوم 6 قرب 7090 نقطة ثم وسع مكاسبه وأغلق مرتفعا 6.5% عند 7384، مدعوما بقوة أسهم أشباه الموصلات وتوقعات محادثات أميركية إيرانية.",
+        "body": "تجاوز مؤشر كوسبي مستوى 7000 نقطة يوم 6 وأنهى الجلسة في نطاق 7300 نقطة. بدأ المؤشر قرب 7090 نقطة، ثم وسع مكاسبه خلال التداول وأغلق عند 7384 نقطة، مرتفعا 6.5% عن الجلسة السابقة. وقادت أسهم أشباه الموصلات حركة السوق. فقد قفز سهما سامسونغ إلكترونيكس وإس كيه هاينكس بنسبة بين 10% و14%، وسجلا معا أعلى مستوى خلال 52 أسبوعا. كما ذُكرت توقعات المفاوضات بين الولايات المتحدة وإيران كعامل مؤثر في معنويات المستثمرين. وبعد اختراق مستوى 7000 والصعود إلى نطاق 7300، من المتوقع أن يظل اتجاه كوسبي القصير الأجل مرتبطا بأسهم الرقائق الكبرى والعوامل الخارجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,384 पर बंद, चिप शेयरों की तेजी से 7,000 युग की शुरुआत",
+        "excerpt": "KOSPI ने 6 तारीख को 7,090 के पास शुरुआत की, फिर बढ़त बढ़ाते हुए 6.5% उछलकर 7,384 पर बंद हुआ। सेमीकंडक्टर शेयरों और अमेरिका-ईरान वार्ता की उम्मीद ने तेजी को सहारा दिया।",
+        "body": "KOSPI ने 6 तारीख को 7,000 का स्तर पार किया और 7,300 के दायरे में सत्र समाप्त किया। सूचकांक ने 7,090 के पास शुरुआत की, कारोबार के दौरान बढ़त बढ़ाई और पिछले सत्र से 6.5% ऊपर 7,384 पर बंद हुआ। बाजार की चाल का नेतृत्व सेमीकंडक्टर शेयरों ने किया। Samsung Electronics और SK Hynix में 10% से 14% तक की तेज बढ़त दर्ज हुई और दोनों ने 52 सप्ताह के नए उच्च स्तर बनाए। अमेरिका और ईरान के बीच बातचीत की उम्मीद को भी निवेशक धारणा को प्रभावित करने वाला कारक बताया गया। 7,000 से ऊपर निकलकर 7,300 तक पहुंचने के बाद KOSPI की निकट अवधि की दिशा बड़े चिप शेयरों और बाहरी कारकों से जुड़ी रहने की संभावना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Ditutup 7.384, Saham Chip Melonjak dan Era 7.000 Dimulai",
+        "excerpt": "KOSPI pada tanggal 6 dibuka di sekitar 7.090, memperlebar kenaikan, lalu ditutup naik 6,5% di 7.384, ditopang saham semikonduktor dan harapan negosiasi AS-Iran.",
+        "body": "KOSPI menembus level 7.000 pada tanggal 6 dan mengakhiri perdagangan di kisaran 7.300. Indeks dibuka di sekitar 7.090, memperbesar kenaikan sepanjang sesi, lalu ditutup di 7.384 atau naik 6,5% dari sesi sebelumnya. Saham semikonduktor memimpin pergerakan pasar. Samsung Electronics dan SK Hynix melonjak di kisaran 10% hingga 14% dan sama-sama memperbarui level tertinggi 52 minggu. Harapan atas negosiasi antara Amerika Serikat dan Iran juga disebut sebagai faktor yang memengaruhi sentimen investor. Setelah menembus 7.000 dan naik ke area 7.300, arah jangka pendek KOSPI diperkirakan tetap dipengaruhi saham chip besar dan variabel eksternal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "44170cfef141",
     "slug": "코스피-6대-급등-사상-첫-7380대-마감-944354",
     "channelId": "STOCKS",
