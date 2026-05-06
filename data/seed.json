@@ -1,5 +1,230 @@
 [
   {
+    "id": "ef6abf1a8a11",
+    "slug": "실적-랠리-이끄는-단-하나의-단어k증시-여전히-저평가-374370",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T22:12:58.173Z",
+    "updatedAt": "2026-05-06T22:12:58.173Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050696901",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050696901",
+    "titleFingerprint": "13d85404bd5d2f223f339b538be3637fc3620f9d",
+    "dedupKeys": [
+      "ef6abf1a8a11cb358e3367e3d4f49612acfff951",
+      "13d85404bd5d2f223f339b538be3637fc3620f9d",
+      "d94fc465f6b9df7410c29f2ba9dd32e349d3a97a"
+    ],
+    "imageUrl": "/images/articles/ef6abf1a8a11.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파에도 저평가론 부상…실적과 반도체가 이끈 K증시 랠리",
+        "excerpt": "한국경제에 따르면 2026년 5월 6일 코스피가 7000선을 넘어 7384.56에 마감했고, 반도체 실적 기대와 낮은 선행 PER이 저평가론을 키웠다.",
+        "body": "2026년 5월 6일 코스피지수는 외국인 매수세와 반도체 대형주의 급등에 힘입어 7000선을 돌파하고 전 거래일보다 6.45% 오른 7384.56에 마감했다. 장중에는 7426.60까지 올랐고, 외국인은 3조1357억원어치를 순매수했다. 삼성전자는 14.41%, SK하이닉스는 10.64% 상승했다. 한국경제에 따르면 코스피 12개월 선행 PER은 8.1배로 S&P500 20.7배, 닛케이225 22.7배보다 낮다. 대신증권은 선행 PER 9배 적용 시 코스피가 8695에 이를 수 있다고 봤고, 일부에서는 1만피 가능성도 거론됐다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Tops 7,000 Yet Valuation Debate Grows as Earnings and Chips Drive Rally",
+        "excerpt": "According to Hankyung, on May 6, 2026, the KOSPI closed at 7,384.56 after passing 7,000, as chip earnings hopes and a low forward PER fueled undervaluation arguments.",
+        "body": "On May 6, 2026, the KOSPI broke above 7,000 and closed 6.45% higher at 7,384.56, led by strong foreign buying and sharp gains in major semiconductor stocks. The index reached 7,426.60 intraday, while foreign investors net bought 3.1357 trillion won. Samsung Electronics rose 14.41% and SK Hynix gained 10.64%. Hankyung reported that the KOSPI’s 12-month forward PER was 8.1 times, below the S&P 500 at 20.7 times and the Nikkei 225 at 22.7 times. Daishin Securities said a 9 times forward PER would imply 8,695 for the KOSPI, while some raised the possibility of 10,000. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIが7000突破後も割安論、業績と半導体が韓国株ラリーを主導",
+        "excerpt": "韓国経済新聞によると、2026年5月6日にKOSPIは7000を突破し7384.56で終了、半導体業績期待と低い予想PERが割安論を強めた。",
+        "body": "2026年5月6日、KOSPI指数は外国人投資家の買いと半導体大型株の急伸を背景に7000を突破し、前営業日比6.45%高の7384.56で取引を終えた。取引時間中には7426.60まで上昇し、外国人は3兆1357億ウォンを純買いした。サムスン電子は14.41%、SKハイニックスは10.64%上昇した。韓国経済新聞によると、KOSPIの12カ月先予想PERは8.1倍で、S&P500の20.7倍、日経225の22.7倍を下回る。大信証券は予想PER9倍ならKOSPIは8695に達し得るとし、一部では1万台の可能性も言及された。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI突破7000点后仍被称低估，业绩与半导体推动韩股上涨",
+        "excerpt": "据韩国经济新闻报道，2026年5月6日KOSPI突破7000点并收于7384.56点，半导体业绩预期和较低远期市盈率强化低估判断。",
+        "body": "2026年5月6日，KOSPI指数在外资买盘和半导体大型股大涨带动下突破7000点，较前一交易日上涨6.45%，收于7384.56点。盘中一度升至7426.60点，外资净买入3.1357万亿韩元。三星电子上涨14.41%，SK海力士上涨10.64%。据韩国经济新闻报道，KOSPI的12个月远期市盈率为8.1倍，低于标普500的20.7倍和日经225的22.7倍。Daishin证券认为，若按9倍远期市盈率计算，KOSPI可达8695点，部分观点还提到1万点可能性。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El KOSPI supera 7.000 y sigue el debate de infravaloración por beneficios y chips",
+        "excerpt": "Según Hankyung, el 6 de mayo de 2026 el KOSPI cerró en 7.384,56 tras superar 7.000, con expectativas de beneficios en chips y bajo PER futuro.",
+        "body": "El 6 de mayo de 2026, el KOSPI superó los 7.000 puntos y cerró con una subida del 6,45%, en 7.384,56, impulsado por fuertes compras extranjeras y alzas de grandes valores de semiconductores. En la sesión tocó 7.426,60 y los inversores extranjeros compraron en neto 3,1357 billones de wones. Samsung Electronics subió 14,41% y SK Hynix 10,64%. Según Hankyung, el PER futuro a 12 meses del KOSPI fue de 8,1 veces, por debajo del S&P 500, con 20,7, y del Nikkei 225, con 22,7. Daishin Securities estimó que con un PER de 9 veces el índice llegaría a 8.695, mientras algunos mencionaron la opción de 10.000. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI passa de 7.000, mas tese de desconto cresce com lucros e semicondutores",
+        "excerpt": "Segundo o Hankyung, em 6 de maio de 2026 o KOSPI fechou em 7.384,56 após superar 7.000, apoiado por expectativa de lucros em chips e PER baixo.",
+        "body": "Em 6 de maio de 2026, o KOSPI rompeu os 7.000 pontos e fechou em alta de 6,45%, a 7.384,56, impulsionado por forte compra estrangeira e pela disparada de grandes ações de semicondutores. No intradia, chegou a 7.426,60, enquanto estrangeiros compraram 3,1357 trilhões de won em termos líquidos. Samsung Electronics subiu 14,41% e SK Hynix avançou 10,64%. Segundo o Hankyung, o PER projetado de 12 meses do KOSPI era de 8,1 vezes, abaixo do S&P 500, em 20,7, e do Nikkei 225, em 22,7. A Daishin Securities disse que um PER de 9 vezes implicaria 8.695 pontos, e alguns citaram a possibilidade de 10.000. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI über 7.000, doch Unterbewertung bleibt Thema: Gewinne und Chips treiben Rally",
+        "excerpt": "Laut Hankyung schloss der KOSPI am 6. Mai 2026 nach dem Sprung über 7.000 bei 7.384,56, gestützt von Chip-Gewinnerwartungen und niedrigem Forward-KGV.",
+        "body": "Am 6. Mai 2026 durchbrach der KOSPI die Marke von 7.000 Punkten und schloss dank starker Käufe aus dem Ausland sowie kräftiger Gewinne großer Halbleiterwerte 6,45% höher bei 7.384,56. Im Tagesverlauf stieg der Index bis auf 7.426,60, während ausländische Anleger netto 3,1357 Billionen Won kauften. Samsung Electronics legte 14,41% zu, SK Hynix 10,64%. Laut Hankyung lag das 12-Monats-Forward-KGV des KOSPI bei 8,1 und damit unter dem S&P 500 mit 20,7 sowie dem Nikkei 225 mit 22,7. Daishin Securities sah bei einem Forward-KGV von 9 ein Niveau von 8.695 Punkten, vereinzelt wurde auch 10.000 genannt. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI dépasse 7.000 mais reste jugé décoté grâce aux bénéfices et aux puces",
+        "excerpt": "Selon Hankyung, le 6 mai 2026, le KOSPI a clôturé à 7.384,56 après avoir franchi 7.000, porté par les bénéfices attendus des puces et un PER bas.",
+        "body": "Le 6 mai 2026, le KOSPI a franchi les 7.000 points et clôturé en hausse de 6,45% à 7.384,56, soutenu par de forts achats étrangers et la progression des grandes valeurs des semi-conducteurs. En séance, l’indice a atteint 7.426,60, tandis que les investisseurs étrangers ont acheté pour 3.1357 billions de wons en net. Samsung Electronics a gagné 14,41% et SK Hynix 10,64%. Selon Hankyung, le PER prévisionnel à 12 mois du KOSPI était de 8,1 fois, inférieur au S&P 500 à 20,7 fois et au Nikkei 225 à 22,7 fois. Daishin Securities a estimé qu’un PER de 9 fois impliquerait 8.695 points, et certains ont évoqué 10.000. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7000 نقطة ومع ذلك تتصاعد حجة انخفاض التقييم بدعم الأرباح والرقائق",
+        "excerpt": "بحسب هانكيونغ، أغلق كوسبي في 6 مايو 2026 عند 7384.56 بعد تجاوز 7000، مع دعم توقعات أرباح أشباه الموصلات وانخفاض مكرر الربحية الآجل.",
+        "body": "في 6 مايو 2026 تجاوز مؤشر كوسبي مستوى 7000 نقطة وأغلق مرتفعا 6.45% عند 7384.56، بدعم من مشتريات أجنبية قوية وصعود حاد في أسهم أشباه الموصلات الكبرى. وبلغ المؤشر خلال الجلسة 7426.60، بينما اشترى المستثمرون الأجانب صافيا بقيمة 3.1357 تريليون وون. ارتفع سهم سامسونغ إلكترونيكس 14.41% وسهم إس كيه هاينكس 10.64%. وذكرت هانكيونغ أن مكرر الربحية الآجل لـ12 شهرا لكوسبي بلغ 8.1 مرة، دون S&P 500 عند 20.7 مرة ونيكاي 225 عند 22.7 مرة. وقدرت دايشين للأوراق المالية أن مكررا عند 9 مرات يعني 8695 نقطة، مع طرح احتمال 10000 نقطة في بعض الآراء. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 7,000 के पार, फिर भी कम मूल्यांकन की चर्चा; आय और चिप शेयरों ने रैली चलाई",
+        "excerpt": "Hankyung के अनुसार 6 मई 2026 को KOSPI 7,000 पार कर 7,384.56 पर बंद हुआ, जहां चिप आय की उम्मीद और कम फॉरवर्ड PER ने अंडरवैल्यूएशन तर्क को बल दिया।",
+        "body": "6 मई 2026 को KOSPI सूचकांक विदेशी खरीद और बड़े सेमीकंडक्टर शेयरों की तेज बढ़त के सहारे 7,000 के ऊपर गया और 6.45% चढ़कर 7,384.56 पर बंद हुआ। दिन में यह 7,426.60 तक पहुंचा, जबकि विदेशी निवेशकों ने 3.1357 ट्रिलियन वॉन की शुद्ध खरीद की। Samsung Electronics 14.41% और SK Hynix 10.64% चढ़े। Hankyung के अनुसार KOSPI का 12 माह अग्रिम PER 8.1 गुना था, जो S&P 500 के 20.7 गुना और Nikkei 225 के 22.7 गुना से कम है। Daishin Securities ने कहा कि 9 गुना अग्रिम PER पर KOSPI 8,695 तक पहुंच सकता है, और कुछ ने 10,000 की संभावना भी उठाई। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.000, Namun Isu Murah Tetap Menguat Berkat Laba dan Chip",
+        "excerpt": "Menurut Hankyung, pada 6 Mei 2026 KOSPI ditutup di 7.384,56 setelah menembus 7.000, didorong harapan laba semikonduktor dan PER forward rendah.",
+        "body": "Pada 6 Mei 2026, indeks KOSPI menembus 7.000 dan ditutup naik 6,45% ke 7.384,56, didorong pembelian asing yang kuat dan lonjakan saham semikonduktor utama. Dalam perdagangan intraday indeks sempat mencapai 7.426,60, sementara investor asing membukukan beli bersih 3,1357 triliun won. Samsung Electronics naik 14,41% dan SK Hynix 10,64%. Menurut Hankyung, PER forward 12 bulan KOSPI berada di 8,1 kali, lebih rendah dari S&P 500 sebesar 20,7 kali dan Nikkei 225 sebesar 22,7 kali. Daishin Securities menilai PER 9 kali menyiratkan KOSPI di 8.695, sementara sebagian pihak menyebut peluang 10.000. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "f5af8fa6eedf",
+    "slug": "짭짤한-멤버십-수익코스트코-고물가에도-고공행진-348854",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T22:11:44.969Z",
+    "updatedAt": "2026-05-06T22:11:44.969Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050696751",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050696751",
+    "titleFingerprint": "40c1f0869ab875fbd2d33c313c59f2a79a32e093",
+    "dedupKeys": [
+      "f5af8fa6eedf9b34a93061c45a7770752229fc69",
+      "40c1f0869ab875fbd2d33c313c59f2a79a32e093",
+      "2738f036388315edc45f5df78044d5d9c655bd02"
+    ],
+    "imageUrl": "/images/articles/f5af8fa6eedf.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스트코 주가 고공행진, 고물가에도 멤버십 수익이 만든 방어력",
+        "excerpt": "코스트코홀세일은 2026년 5월 5일까지 올해 주가가 약 19% 오르며 S&P500을 웃돌았다. 멤버십 갱신율과 디지털 성장, 출점 확대가 고물가 우려를 상쇄했다.",
+        "body": "미국 창고형 할인마트 코스트코홀세일은 고물가에 따른 실적 우려에도 2026년 5월 5일 현지시간 기준 올해 주가가 약 19% 상승했다. 같은 기간 S&P500 상승률 5.84%를 크게 웃돈 흐름이다. 배경에는 골드스타 연 65달러, 이그제큐티브 연 130달러로 나뉜 멤버십 모델이 있다. 유료 회원 8219만 명 중 4040만 명이 이그제큐티브 회원이며 갱신율은 약 90%다. 2026회계연도 2분기 매출은 696억달러로 전년 대비 9.2%, 순이익은 20억3500만달러로 13.8% 늘었다. 디지털 동일매장 매출도 22% 증가했고, 회사는 올해 신규 매장 28개를 열 계획이다. hankyung.com은 안정적인 멤버십 수익과 글로벌 출점이 코스트코를 경기방어적 성장주로 재평가하게 만든 요인이라고 전했다."
+      },
+      "en": {
+        "title": "Costco Stock Keeps Climbing as Membership Revenue Offsets Inflation Pressure",
+        "excerpt": "Costco Wholesale shares had risen about 19% in 2026 through May 5, outperforming the S&P 500 as membership renewals, digital sales growth and store expansion eased inflation concerns.",
+        "body": "Costco Wholesale, the U.S. warehouse retailer, continued to rise despite concerns that high inflation could weigh on earnings. As of May 5, 2026 local time, its stock was up about 19% for the year, well above the S&P 500’s 5.84% gain. The driver is its membership model: Gold Star costs $65 a year and Executive costs $130. Of 82.19 million paid members, 40.40 million are Executive members, and the renewal rate is about 90%. In the second quarter of fiscal 2026, revenue rose 9.2% year over year to $69.6 billion, while net income increased 13.8% to $2.035 billion. Digital comparable sales grew 22%, and Costco plans to open 28 new stores this fiscal year. hankyung.com reported that stable membership revenue and global expansion are leading the market to reassess Costco as a defensive growth stock."
+      },
+      "ja": {
+        "title": "コストコ株が高値圏維持、インフレ下でも会員収益が支える成長力",
+        "excerpt": "コストコホールセールの株価は2026年5月5日までに年初来約19%上昇し、S&P500を上回った。会員更新率、デジタル販売、出店拡大が物価高懸念を和らげている。",
+        "body": "米倉庫型小売りのコストコホールセールは、物価高による業績懸念にもかかわらず株価上昇を続けている。2026年5月5日現地時間までの年初来上昇率は約19%で、同期間のS&P500の5.84%を大きく上回った。背景には年会費65ドルのゴールドスター、130ドルのエグゼクティブに分かれる会員モデルがある。有料会員8219万人のうち4040万人がエグゼクティブ会員で、更新率は約90%に達する。2026会計年度第2四半期の売上高は前年同期比9.2%増の696億ドル、純利益は13.8%増の20億3500万ドルだった。デジタル既存店売上高は22%増え、同年度に新規28店を開く計画だ。hankyung.comは、安定した会員収益と世界的な出店が、コストコを景気防御的な成長株として再評価させていると伝えた。"
+      },
+      "zh": {
+        "title": "Costco股价持续走高，高通胀下会员收入撑起防御型增长",
+        "excerpt": "截至2026年5月5日，Costco Wholesale今年股价上涨约19%，跑赢S&P 500。会员续费率、数字销售增长和全球开店缓解了高通胀带来的业绩担忧。",
+        "body": "美国仓储式零售商Costco Wholesale在高通胀引发业绩担忧的背景下，股价仍延续上涨。截至2026年5月5日当地时间，该股今年累计上涨约19%，明显高于同期S&P 500的5.84%。其支撑来自会员模式：Gold Star年费65美元，Executive年费130美元。在8219万付费会员中，4040万为Executive会员，续费率约90%。2026财年第二季度，公司营收同比增长9.2%至696亿美元，净利润增长13.8%至20.35亿美元。数字同店销售增长22%，公司计划在本财年新增28家门店。hankyung.com报道称，稳定的会员收入和全球扩店使市场重新将Costco视为防御型成长股。"
+      },
+      "es": {
+        "title": "Costco sube en bolsa pese a la inflación gracias al impulso de sus membresías",
+        "excerpt": "Las acciones de Costco Wholesale avanzaban cerca de 19% en 2026 hasta el 5 de mayo y superaban al S&P 500, apoyadas por renovaciones de membresía, ventas digitales y expansión de tiendas.",
+        "body": "Costco Wholesale, la cadena estadounidense de clubes de almacén, mantuvo su avance bursátil pese a las dudas sobre el impacto de la inflación en sus resultados. Al 5 de mayo de 2026, hora local, la acción subía cerca de 19% en el año, muy por encima del 5,84% del S&P 500. La base es su modelo de membresía: Gold Star cuesta 65 dólares al año y Executive, 130 dólares. De 82,19 millones de miembros de pago, 40,40 millones pertenecen al plan Executive, y la tasa de renovación ronda el 90%. En el segundo trimestre fiscal de 2026, los ingresos crecieron 9,2% interanual hasta 69.600 millones de dólares y el beneficio neto aumentó 13,8% hasta 2.035 millones. Las ventas digitales comparables subieron 22% y Costco prevé abrir 28 tiendas nuevas este año fiscal. hankyung.com informó que los ingresos estables por membresías y la expansión global explican la reevaluación de Costco como acción de crecimiento defensivo."
+      },
+      "pt": {
+        "title": "Costco avança na bolsa com receita de membresias apesar da inflação elevada",
+        "excerpt": "As ações da Costco Wholesale subiam cerca de 19% em 2026 até 5 de maio, acima do S&P 500, com apoio de renovações de membros, crescimento digital e expansão de lojas.",
+        "body": "A Costco Wholesale, varejista americana de clubes de armazém, continuou em alta apesar das preocupações com o efeito da inflação sobre os resultados. Até 5 de maio de 2026, no horário local, a ação acumulava ganho de cerca de 19% no ano, bem acima dos 5,84% do S&P 500. O suporte vem do modelo de membresia: o plano Gold Star custa 65 dólares por ano e o Executive, 130 dólares. Dos 82,19 milhões de membros pagos, 40,40 milhões são Executive, e a taxa de renovação chega a cerca de 90%. No segundo trimestre fiscal de 2026, a receita cresceu 9,2% na comparação anual, para 69,6 bilhões de dólares, e o lucro líquido subiu 13,8%, para 2,035 bilhões. As vendas digitais comparáveis avançaram 22%, e a empresa planeja abrir 28 novas lojas no ano fiscal. Segundo hankyung.com, a receita estável de membresias e a expansão global levam o mercado a reavaliar a Costco como ação defensiva de crescimento."
+      },
+      "de": {
+        "title": "Costco-Aktie steigt trotz Inflation, weil Mitgliedsbeiträge stabile Gewinne liefern",
+        "excerpt": "Die Costco-Wholesale-Aktie lag 2026 bis zum 5. Mai rund 19% im Plus und übertraf den S&P 500. Hohe Verlängerungsraten, digitales Wachstum und neue Filialen stützen den Kurs.",
+        "body": "Costco Wholesale, der US-Lagerhausdiscounter, setzte seinen Börsenlauf trotz Sorgen über hohe Inflation fort. Bis zum 5. Mai 2026 Ortszeit stieg die Aktie im laufenden Jahr um rund 19% und lag damit deutlich über dem Plus des S&P 500 von 5,84%. Grundlage ist das Mitgliedsmodell: Gold Star kostet 65 Dollar pro Jahr, Executive 130 Dollar. Von 82,19 Millionen zahlenden Mitgliedern gehören 40,40 Millionen zur Executive-Stufe; die Verlängerungsrate liegt bei etwa 90%. Im zweiten Quartal des Geschäftsjahres 2026 stieg der Umsatz um 9,2% auf 69,6 Milliarden Dollar, der Nettogewinn um 13,8% auf 2,035 Milliarden Dollar. Die digitalen vergleichbaren Umsätze wuchsen um 22%, und Costco plant im Geschäftsjahr 28 neue Märkte. hankyung.com berichtete, stabile Mitgliedserträge und globale Expansion führten dazu, dass Costco als defensiver Wachstumswert neu bewertet werde."
+      },
+      "fr": {
+        "title": "Costco progresse en Bourse malgré l’inflation grâce aux revenus d’adhésion",
+        "excerpt": "L’action Costco Wholesale gagnait environ 19% en 2026 au 5 mai, devant le S&P 500, portée par les renouvellements d’adhésion, les ventes numériques et l’expansion du réseau.",
+        "body": "Costco Wholesale, le distributeur américain de type entrepôt, a poursuivi sa hausse en Bourse malgré les craintes liées à l’inflation. Au 5 mai 2026, heure locale, le titre gagnait environ 19% depuis le début de l’année, contre 5,84% pour le S&P 500. Son socle est le modèle d’adhésion: Gold Star coûte 65 dollars par an et Executive 130 dollars. Sur 82,19 millions de membres payants, 40,40 millions sont Executive, et le taux de renouvellement avoisine 90%. Au deuxième trimestre de l’exercice 2026, le chiffre d’affaires a progressé de 9,2% sur un an à 69,6 milliards de dollars, tandis que le bénéfice net a augmenté de 13,8% à 2,035 milliards. Les ventes comparables numériques ont bondi de 22%, et Costco prévoit d’ouvrir 28 nouveaux magasins sur l’exercice. Selon hankyung.com, la stabilité des revenus d’adhésion et l’expansion mondiale expliquent la réévaluation de Costco comme valeur de croissance défensive."
+      },
+      "ar": {
+        "title": "سهم كوستكو يواصل الصعود رغم التضخم بفضل إيرادات العضوية المستقرة",
+        "excerpt": "ارتفع سهم كوستكو وولسيل بنحو 19% في 2026 حتى 5 مايو، متفوقا على S&P 500، مع دعم من تجديد العضويات ونمو المبيعات الرقمية وخطط افتتاح متاجر جديدة.",
+        "body": "واصلت كوستكو وولسيل، سلسلة متاجر المستودعات الأميركية، صعودها في السوق رغم المخاوف من ضغط التضخم المرتفع على الأرباح. وحتى 5 مايو 2026 بالتوقيت المحلي، ارتفع السهم بنحو 19% منذ بداية العام، مقابل 5.84% لمؤشر S&P 500. يستند الأداء إلى نموذج العضوية: تبلغ رسوم Gold Star السنوية 65 دولارا، وExecutive 130 دولارا. ومن بين 82.19 مليون عضو مدفوع، هناك 40.40 مليون عضو في فئة Executive، فيما يبلغ معدل التجديد نحو 90%. في الربع الثاني من السنة المالية 2026، زادت الإيرادات 9.2% على أساس سنوي إلى 69.6 مليار دولار، وارتفع صافي الربح 13.8% إلى 2.035 مليار دولار. كما نمت المبيعات الرقمية المماثلة 22%، وتخطط الشركة لافتتاح 28 متجرا جديدا هذا العام المالي. وذكرت hankyung.com أن إيرادات العضوية المستقرة والتوسع العالمي يدفعان السوق إلى إعادة تقييم كوستكو كسهم نمو دفاعي."
+      },
+      "hi": {
+        "title": "महंगाई के बावजूद Costco शेयर चढ़ा, सदस्यता आय से मिली स्थिर बढ़त",
+        "excerpt": "Costco Wholesale का शेयर 5 मई 2026 तक इस साल करीब 19% चढ़ा और S&P 500 से आगे रहा। सदस्यता नवीनीकरण, डिजिटल बिक्री और नए स्टोर विस्तार ने महंगाई की चिंता कम की।",
+        "body": "अमेरिकी वेयरहाउस रिटेलर Costco Wholesale ने ऊंची महंगाई से कमाई पर दबाव की आशंका के बावजूद शेयर बाजार में बढ़त बनाए रखी। 5 मई 2026 स्थानीय समय तक इसका शेयर इस साल करीब 19% चढ़ा, जबकि S&P 500 की बढ़त 5.84% रही। आधार इसका सदस्यता मॉडल है: Gold Star की वार्षिक फीस 65 डॉलर और Executive की 130 डॉलर है। 8.219 करोड़ भुगतान करने वाले सदस्यों में 4.040 करोड़ Executive सदस्य हैं, और नवीनीकरण दर करीब 90% है। वित्त वर्ष 2026 की दूसरी तिमाही में राजस्व सालाना 9.2% बढ़कर 69.6 अरब डॉलर हुआ, जबकि शुद्ध लाभ 13.8% बढ़कर 2.035 अरब डॉलर रहा। डिजिटल समान-स्टोर बिक्री 22% बढ़ी और कंपनी इस वित्त वर्ष में 28 नए स्टोर खोलने की योजना बना रही है। hankyung.com के अनुसार, स्थिर सदस्यता आय और वैश्विक विस्तार से बाजार Costco को रक्षात्मक ग्रोथ स्टॉक के रूप में फिर से देख रहा है।"
+      },
+      "id": {
+        "title": "Saham Costco Terus Naik Saat Inflasi, Ditopang Pendapatan Keanggotaan",
+        "excerpt": "Saham Costco Wholesale naik sekitar 19% sepanjang 2026 hingga 5 Mei dan mengungguli S&P 500, didukung pembaruan keanggotaan, pertumbuhan digital, serta ekspansi gerai.",
+        "body": "Costco Wholesale, peritel gudang asal Amerika Serikat, terus mencatat kenaikan saham meski ada kekhawatiran inflasi tinggi menekan kinerja. Hingga 5 Mei 2026 waktu setempat, sahamnya naik sekitar 19% sejak awal tahun, jauh di atas kenaikan S&P 500 sebesar 5,84%. Penopangnya adalah model keanggotaan: Gold Star berbiaya 65 dolar AS per tahun dan Executive 130 dolar AS. Dari 82,19 juta anggota berbayar, 40,40 juta merupakan anggota Executive, dengan tingkat pembaruan sekitar 90%. Pada kuartal kedua tahun fiskal 2026, pendapatan naik 9,2% secara tahunan menjadi 69,6 miliar dolar AS, sementara laba bersih meningkat 13,8% menjadi 2,035 miliar dolar AS. Penjualan toko sebanding berbasis digital tumbuh 22%, dan Costco berencana membuka 28 gerai baru tahun fiskal ini. hankyung.com melaporkan bahwa pendapatan keanggotaan yang stabil dan ekspansi global membuat pasar menilai ulang Costco sebagai saham pertumbuhan defensif."
+      }
+    }
+  },
+  {
+    "id": "9c963abf63fc",
+    "slug": "캐즘-뚫고-시총-2조-위안-돌파catl-기술-초격차로-배터리-패권-굳힌다-655223",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T22:10:27.537Z",
+    "updatedAt": "2026-05-06T22:10:27.538Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605069837i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605069837i",
+    "titleFingerprint": "6dd2ab6dfb3235abe7bea2db63f0f1807a2c3860",
+    "dedupKeys": [
+      "9c963abf63fc2f189345804af85bb57697e58131",
+      "6dd2ab6dfb3235abe7bea2db63f0f1807a2c3860",
+      "c647ab17954a9fbb8a6b053499880421a1747aa5"
+    ],
+    "imageUrl": "/images/articles/9c963abf63fc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "CATL 시총 2조 위안 돌파…기술 초격차로 배터리 패권 강화",
+        "excerpt": "CATL이 ‘캐즘’을 뚫고 시가총액 2조 위안을 넘어섰다. 기술 초격차를 앞세워 글로벌 배터리 시장에서 주도권을 굳히는 흐름이 부각됐다.",
+        "body": "CATL이 전기차·배터리 시장의 ‘캐즘’을 뚫고 시가총액 2조 위안을 돌파했다. 원문은 CATL이 기술 초격차를 기반으로 배터리 패권을 굳히고 있다는 점에 주목했다. 시총 2조 위안 돌파는 시장이 CATL의 기술 경쟁력과 업계 지위를 높게 평가하고 있음을 보여주는 핵심 지표로 제시됐다. 배터리 산업에서 기술 격차가 경쟁 구도를 가르는 가운데, CATL의 시장 영향력은 더욱 강화되는 흐름이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "CATL Tops 2 Trillion Yuan Market Value, Tightening Battery Lead",
+        "excerpt": "CATL has crossed a 2 trillion yuan market capitalization after breaking through the industry “chasm,” highlighting its widening technology lead in batteries.",
+        "body": "CATL has surpassed 2 trillion yuan in market capitalization after breaking through the electric vehicle and battery market “chasm.” The original report focused on how CATL is reinforcing its battery dominance through a wide technology gap. The 2 trillion yuan valuation was presented as a key sign that the market is recognizing CATL’s technological competitiveness and industry position. As technology differences increasingly shape competition in the battery sector, CATL’s market influence is becoming stronger. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "CATL時価総額2兆元突破、技術格差で電池覇権を強化",
+        "excerpt": "CATLが「キャズム」を突破し、時価総額2兆元を超えた。技術面での大きな優位を背景に、電池市場での主導権強化が注目されている。",
+        "body": "CATLは電気自動車・電池市場の「キャズム」を突破し、時価総額2兆元を超えた。原文は、CATLが技術面での大きな格差を基盤に電池分野での覇権を固めている点に注目した。時価総額2兆元突破は、市場がCATLの技術競争力と業界での地位を高く評価していることを示す主要な指標として示された。電池産業では技術格差が競争構図を左右するなか、CATLの市場影響力はさらに強まる流れだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "宁德时代市值突破2万亿元，以技术优势巩固电池主导权",
+        "excerpt": "宁德时代突破行业“鸿沟”，市值超过2万亿元。其凭借技术领先优势，在全球电池市场巩固主导地位的趋势受到关注。",
+        "body": "宁德时代突破电动汽车和电池市场的“鸿沟”，市值超过2万亿元。原文关注的是，宁德时代正以技术上的明显领先优势巩固其电池领域主导地位。市值突破2万亿元被视为一个关键指标，显示市场正在高度评价宁德时代的技术竞争力和行业地位。随着电池产业中技术差距日益影响竞争格局，宁德时代的市场影响力正进一步增强。来源: hankyung.com"
+      },
+      "es": {
+        "title": "CATL supera los 2 billones de yuanes y refuerza su dominio en baterías",
+        "excerpt": "CATL superó una capitalización de mercado de 2 billones de yuanes tras atravesar el “abismo” del sector, impulsada por su ventaja tecnológica en baterías.",
+        "body": "CATL superó los 2 billones de yuanes en capitalización de mercado tras atravesar el “abismo” del mercado de vehículos eléctricos y baterías. El texto original destacó que CATL está consolidando su dominio en baterías gracias a una amplia brecha tecnológica. Ese valor de mercado fue presentado como una señal clave de que los inversores reconocen su competitividad tecnológica y su posición en la industria. En un sector donde la diferencia tecnológica define la competencia, la influencia de CATL sigue fortaleciéndose. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "CATL passa de 2 trilhões de yuans e reforça liderança em baterias",
+        "excerpt": "A CATL superou 2 trilhões de yuans em valor de mercado após vencer o “abismo” do setor, destacando sua vantagem tecnológica em baterias.",
+        "body": "A CATL ultrapassou 2 trilhões de yuans em valor de mercado depois de atravessar o “abismo” do mercado de veículos elétricos e baterias. O texto original destacou que a empresa está consolidando sua liderança em baterias com base em uma ampla vantagem tecnológica. A marca de 2 trilhões de yuans foi apresentada como um indicador central de que o mercado valoriza a competitividade tecnológica e a posição da CATL no setor. Com a tecnologia definindo a competição em baterias, sua influência tende a se fortalecer. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "CATL übersteigt 2 Billionen Yuan Börsenwert und stärkt Batterie-Führung",
+        "excerpt": "CATL hat nach dem Überwinden des Branchen-„Chasm“ einen Börsenwert von 2 Billionen Yuan erreicht und baut seinen technologischen Vorsprung aus.",
+        "body": "CATL hat im Markt für Elektrofahrzeuge und Batterien den sogenannten „Chasm“ überwunden und einen Börsenwert von mehr als 2 Billionen Yuan erreicht. Der Originalbericht hebt hervor, dass CATL seine Stellung in der Batteriebranche durch einen deutlichen technologischen Vorsprung festigt. Die Marke von 2 Billionen Yuan wurde als zentrales Signal gewertet, dass der Markt die technologische Wettbewerbsfähigkeit und Branchenposition von CATL anerkennt. Da Technologieunterschiede den Wettbewerb prägen, nimmt der Markteinfluss von CATL weiter zu. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "CATL dépasse 2 000 milliards de yuans et consolide son avance batterie",
+        "excerpt": "CATL a franchi le seuil de 2 000 milliards de yuans de capitalisation après avoir dépassé le “chasm” du secteur, porté par son avantage technologique.",
+        "body": "CATL a dépassé 2 000 milliards de yuans de capitalisation boursière après avoir franchi le “chasm” du marché des véhicules électriques et des batteries. Le texte original souligne que CATL consolide sa domination dans les batteries grâce à un net écart technologique. Ce seuil de valorisation est présenté comme un indicateur clé de la reconnaissance par le marché de sa compétitivité technologique et de sa position sectorielle. Dans une industrie où la technologie façonne la concurrence, l’influence de CATL continue de se renforcer. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "CATL تتجاوز قيمة سوقية قدرها تريليونا يوان وتعزز هيمنتها في البطاريات",
+        "excerpt": "تجاوزت CATL حاجز تريليوني يوان في القيمة السوقية بعد عبور “فجوة” القطاع، مع إبراز تفوقها التقني في سوق البطاريات.",
+        "body": "تجاوزت CATL قيمة سوقية قدرها تريليونا يوان بعد عبور “فجوة” سوق المركبات الكهربائية والبطاريات. وركز النص الأصلي على أن CATL تعزز هيمنتها في البطاريات اعتمادا على فجوة تقنية واسعة. وقد عُدّ تجاوز مستوى تريليوني يوان مؤشرا رئيسيا على أن السوق يقيّم بقوة تنافسية الشركة التقنية ومكانتها في الصناعة. وفي قطاع أصبحت فيه الفروق التقنية عاملا حاسما في المنافسة، يتجه نفوذ CATL في السوق إلى مزيد من القوة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "CATL का बाजार मूल्य 2 ट्रिलियन युआन के पार, बैटरी बढ़त मजबूत",
+        "excerpt": "CATL ने उद्योग की ‘कैज़्म’ चुनौती पार कर 2 ट्रिलियन युआन से अधिक बाजार मूल्य हासिल किया, जिससे बैटरी तकनीक में उसकी बढ़त सामने आई।",
+        "body": "CATL ने इलेक्ट्रिक वाहन और बैटरी बाजार की ‘कैज़्म’ चुनौती पार करते हुए 2 ट्रिलियन युआन से अधिक बाजार पूंजीकरण हासिल किया। मूल रिपोर्ट ने इस बात पर ध्यान दिया कि CATL अपनी बड़ी तकनीकी बढ़त के आधार पर बैटरी क्षेत्र में प्रभुत्व मजबूत कर रही है। 2 ट्रिलियन युआन का स्तर इस संकेत के रूप में रखा गया कि बाजार कंपनी की तकनीकी प्रतिस्पर्धा और उद्योग में स्थिति को ऊंचा मान रहा है। बैटरी उद्योग में तकनीकी अंतर प्रतिस्पर्धा तय कर रहा है, इसलिए CATL का प्रभाव और मजबूत दिख रहा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "CATL Tembus Nilai Pasar 2 Triliun Yuan, Perkuat Dominasi Baterai",
+        "excerpt": "CATL menembus kapitalisasi pasar 2 triliun yuan setelah melewati “chasm” industri, menyoroti keunggulan teknologinya di pasar baterai.",
+        "body": "CATL menembus kapitalisasi pasar 2 triliun yuan setelah melewati “chasm” di pasar kendaraan listrik dan baterai. Teks asli menyoroti bahwa CATL memperkuat dominasi baterai melalui kesenjangan teknologi yang lebar. Pencapaian nilai pasar 2 triliun yuan dipaparkan sebagai indikator utama bahwa pasar menilai tinggi daya saing teknologi dan posisi CATL di industri. Saat kesenjangan teknologi semakin menentukan persaingan di sektor baterai, pengaruh pasar CATL terus menguat. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "11e5772ff12a",
     "slug": "삼전만-폭등한-게-아니었네무더기-상한가-이유-알고보니-분석-987445",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Era 7.000: Indeks Ketakutan Melonjak, Saldo Short Selling Tembus ₩20 T",
         "excerpt": "Hankyoreh melaporkan bahwa saat KOSPI memasuki era 7.000, indeks ketakutan pasar naik ke level luar biasa dan saldo short selling melampaui 20 triliun won, menyoroti kewaspadaan pasar.",
         "body": "Menurut Hankyoreh, saat KOSPI memasuki era 7.000, indeks ketakutan di pasar saham juga naik ke level luar biasa. Laporan yang sama menyebut saldo short selling telah melampaui 20 triliun won. Intinya, meski indeks berada dalam fase penguatan, investor tetap mencermati kemungkinan peningkatan volatilitas, sementara kenaikan saldo short selling ikut disebut sebagai indikator kewaspadaan pasar. Level simbolis KOSPI 7.000, kenaikan indeks ketakutan, dan saldo short selling di atas 20 triliun won kini sama-sama menjadi perhatian dalam membaca arah pasar berikutnya. Sumber: Hankyoreh."
-      }
-    }
-  },
-  {
-    "id": "6a9148084d31",
-    "slug": "속보7000선-돌파-코스피-급등에-매수-사이드카-발동---경향신문-861612",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:04:35.670Z",
-    "updatedAt": "2026-05-06T08:04:35.670Z",
-    "sourceName": "경향신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ObzBRRXMzNnliZ01UOWI5LURiVVdSNWVTelFIQnZLMEl2d2NYRTdPemU2NzFxQzNqVVFYYkJPM1dZb1k0cWRPdjFuWTBiREkxNXdDRHBpcEdEd9IBX0FVX3lxTFA3QWt3cTF3czVtUzNNNWJWMzZDX3VJMlRtVDBaNEtzWXdKYjNYRmJwR1dSV0dTQnRVRHhvQXZKbGx2Zjl5WUdma3pkaGFRM19aVEFaeXZPT0Q5WnVkQkhR?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ObzBRRXMzNnliZ01UOWI5LURiVVdSNWVTelFIQnZLMEl2d2NYRTdPemU2NzFxQzNqVVFYYkJPM1dZb1k0cWRPdjFuWTBiREkxNXdDRHBpcEdEd9IBX0FVX3lxTFA3QWt3cTF3czVtUzNNNWJWMzZDX3VJMlRtVDBaNEtzWXdKYjNYRmJwR1dSV0dTQnRVRHhvQXZKbGx2Zjl5WUdma3pkaGFRM19aVEFaeXZPT0Q5WnVkQkhR?oc=5",
-    "titleFingerprint": "f8a53fec043ee51d0554c4428be9c003c38ee1ad",
-    "dedupKeys": [
-      "6a9148084d31e7ff98b730f6d7bff68f516635b7",
-      "f8a53fec043ee51d0554c4428be9c003c38ee1ad",
-      "89a071fcbc0a7adb6c438f14ccbb7ea71bea4e20"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000선 돌파 급등, 매수 사이드카 발동 소식에 시장 주목",
-        "excerpt": "경향신문에 따르면 코스피가 7000선을 돌파하며 급등하자 매수 사이드카가 발동됐다. 지수 급등과 관련한 시장 대응이 투자자 관심을 모으고 있다.",
-        "body": "코스피가 7000선을 돌파하며 급등하자 매수 사이드카가 발동됐다고 경향신문이 보도했다. 이번 소식은 지수의 빠른 상승 흐름 속에서 전해졌다.\n\n보도 제목에 따르면 핵심 수치는 코스피 7000선 돌파다. 매수 사이드카 발동은 코스피 급등과 함께 언급됐으며, 시장 움직임이 단기간에 크게 부각된 상황으로 정리된다.\n\n이번 보도는 국내 증시의 급등 흐름과 이에 따른 시장 대응에 투자자 관심이 집중되고 있음을 보여준다. 원문에 구체적인 관계자 코멘트나 추가 수치는 제시되지 않았다.\n출처: 경향신문"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 in Sharp Rally, Buy Sidecar Trigger Draws Market Focus",
-        "excerpt": "According to Kyunghyang Shinmun, a buy sidecar was triggered after the KOSPI surged past the 7,000 mark, putting the rapid index move in the spotlight.",
-        "body": "Kyunghyang Shinmun reported that a buy sidecar was triggered after the KOSPI broke above the 7,000 mark in a sharp rally. The news came as the index’s rapid rise drew immediate market attention.\n\nThe key figure in the report is the KOSPI’s move beyond 7,000. The buy sidecar activation was cited alongside the strong rise, highlighting a market move that stood out over a short period.\n\nThe report points to investor focus on the domestic stock market’s surge and the market response that followed. The original item did not include additional figures or comments from officials.\nSource: Kyunghyang Shinmun"
-      },
-      "ja": {
-        "title": "KOSPIが7000突破で急騰、買いサイドカー発動に市場の関心集中",
-        "excerpt": "京郷新聞によると、KOSPIが7000の大台を突破して急騰したことを受け、買いサイドカーが発動された。急速な指数上昇が注目されている。",
-        "body": "京郷新聞は、KOSPIが7000の大台を突破して急騰したことを受け、買いサイドカーが発動されたと報じた。指数の急速な上昇局面で伝えられたニュースだ。\n\n報道の中心となる数値は、KOSPIの7000突破である。買いサイドカーの発動はKOSPI急騰とともに示され、短時間で市場の動きが大きく浮上した状況と整理される。\n\n今回の報道は、韓国株式市場の急騰とそれに伴う市場対応に投資家の関心が集まっていることを示している。原文には関係者コメントや追加の具体的数値は示されていない。\n出典: 京郷新聞"
-      },
-      "zh": {
-        "title": "KOSPI突破7000点急涨，买入Sidecar启动引发市场关注",
-        "excerpt": "据《京乡新闻》报道，KOSPI突破7000点并快速上涨后，买入Sidecar被启动。指数急升及相关市场应对受到投资者关注。",
-        "body": "《京乡新闻》报道称，KOSPI突破7000点并出现急涨后，买入Sidecar被启动。该消息是在指数快速上行的背景下传出。\n\n报道中的核心数字是KOSPI突破7000点。买入Sidecar启动与KOSPI急涨同时被提及，显示短时间内市场走势明显受到关注。\n\n这则报道表明，韩国股市的快速上涨以及随之出现的市场应对正吸引投资者目光。原文未提供更多具体数据，也未列出相关人士评论。\n来源: 京乡新闻"
-      },
-      "es": {
-        "title": "KOSPI supera los 7.000 puntos en fuerte subida y activa sidecar de compra",
-        "excerpt": "Según Kyunghyang Shinmun, el KOSPI superó los 7.000 puntos en una fuerte subida y se activó un sidecar de compra, situando el movimiento del mercado bajo atención.",
-        "body": "Kyunghyang Shinmun informó que se activó un sidecar de compra después de que el KOSPI superara los 7.000 puntos en una fuerte subida. La noticia llegó en medio de un rápido avance del índice.\n\nLa cifra central del reporte es el cruce del nivel de 7.000 puntos por parte del KOSPI. La activación del sidecar de compra fue mencionada junto con el repunte del índice, destacando un movimiento del mercado que ganó relevancia en poco tiempo.\n\nEl reporte muestra que la atención de los inversores se concentra en el alza de la bolsa surcoreana y en la respuesta del mercado. El texto original no incluyó más cifras ni comentarios de funcionarios.\nFuente: Kyunghyang Shinmun"
-      },
-      "pt": {
-        "title": "KOSPI passa dos 7.000 pontos em forte alta e aciona sidecar de compra",
-        "excerpt": "Segundo o Kyunghyang Shinmun, o KOSPI rompeu a marca de 7.000 pontos em forte alta e um sidecar de compra foi acionado, atraindo atenção do mercado.",
-        "body": "O Kyunghyang Shinmun informou que um sidecar de compra foi acionado depois que o KOSPI ultrapassou a marca de 7.000 pontos em forte alta. A notícia surgiu em meio ao avanço rápido do índice.\n\nO principal número do relato é a superação dos 7.000 pontos pelo KOSPI. O acionamento do sidecar de compra foi citado junto com a disparada do índice, destacando um movimento de mercado que ganhou visibilidade em curto período.\n\nA reportagem mostra que investidores acompanham de perto a alta do mercado acionário sul-coreano e a resposta do mercado. O texto original não trouxe números adicionais nem comentários de autoridades.\nFonte: Kyunghyang Shinmun"
-      },
-      "de": {
-        "title": "KOSPI springt über 7.000 Punkte, Kauf-Sidecar nach Rally ausgelöst",
-        "excerpt": "Laut Kyunghyang Shinmun wurde ein Kauf-Sidecar ausgelöst, nachdem der KOSPI in einer starken Rally die Marke von 7.000 Punkten überschritten hatte.",
-        "body": "Kyunghyang Shinmun berichtete, dass ein Kauf-Sidecar ausgelöst wurde, nachdem der KOSPI in einer starken Rally die Marke von 7.000 Punkten überschritten hatte. Die Meldung kam während eines schnellen Anstiegs des Index.\n\nDie zentrale Zahl des Berichts ist der Sprung des KOSPI über 7.000 Punkte. Die Aktivierung des Kauf-Sidecars wurde zusammen mit dem starken Kursanstieg genannt und verweist auf eine Marktbewegung, die in kurzer Zeit deutlich hervortrat.\n\nDer Bericht zeigt, dass Anleger die Rally am südkoreanischen Aktienmarkt und die folgende Marktreaktion genau verfolgen. Weitere Kennzahlen oder Aussagen von Verantwortlichen wurden im Original nicht genannt.\nQuelle: Kyunghyang Shinmun"
-      },
-      "fr": {
-        "title": "Le KOSPI dépasse 7 000 points en forte hausse, un sidecar d’achat activé",
-        "excerpt": "Selon Kyunghyang Shinmun, le KOSPI a dépassé les 7 000 points dans une forte hausse, entraînant l’activation d’un sidecar d’achat et l’attention du marché.",
-        "body": "Kyunghyang Shinmun a rapporté qu’un sidecar d’achat a été activé après que le KOSPI a dépassé les 7 000 points dans une forte hausse. L’information est intervenue alors que l’indice progressait rapidement.\n\nLe chiffre central du rapport est le passage du KOSPI au-dessus de 7 000 points. L’activation du sidecar d’achat a été mentionnée avec la flambée de l’indice, soulignant un mouvement de marché devenu notable en peu de temps.\n\nCe reportage montre que les investisseurs se concentrent sur la hausse du marché boursier sud-coréen et sur la réponse du marché. Le texte original ne fournit pas d’autres chiffres ni de commentaire de responsables.\nSource: Kyunghyang Shinmun"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 نقطة بقفزة حادة وتفعيل سايدكار الشراء يلفت الأنظار",
-        "excerpt": "بحسب صحيفة كيونغ هيانغ شينمون، تم تفعيل سايدكار الشراء بعدما تجاوز مؤشر كوسبي مستوى 7000 نقطة مسجلا صعودا حادا، ما جذب اهتمام السوق.",
-        "body": "أفادت صحيفة كيونغ هيانغ شينمون بأنه تم تفعيل سايدكار الشراء بعدما تجاوز مؤشر كوسبي مستوى 7000 نقطة في صعود حاد. وجاءت الأنباء وسط ارتفاع سريع للمؤشر.\n\nالرقم الأساسي في التقرير هو تجاوز كوسبي حاجز 7000 نقطة. وقد ورد تفعيل سايدكار الشراء إلى جانب الارتفاع الحاد للمؤشر، ما يبرز حركة سوقية لافتة خلال فترة قصيرة.\n\nيشير التقرير إلى تركيز المستثمرين على صعود سوق الأسهم الكورية الجنوبية والاستجابة السوقية المرتبطة به. ولم يتضمن النص الأصلي أرقاما إضافية أو تعليقات من مسؤولين.\nالمصدر: كيونغ هيانغ شينمون"
-      },
-      "hi": {
-        "title": "KOSPI 7,000 के पार तेज उछला, खरीद साइडकार लागू होने पर बाजार की नजर",
-        "excerpt": "क्युनघ्यांग शिनमुन के अनुसार, KOSPI के 7,000 अंक पार कर तेज उछलने के बाद खरीद साइडकार लागू हुआ, जिससे सूचकांक की तेज चाल पर ध्यान गया।",
-        "body": "क्युनघ्यांग शिनमुन ने बताया कि KOSPI के 7,000 अंक के स्तर को पार कर तेज उछलने के बाद खरीद साइडकार लागू किया गया। यह खबर सूचकांक में तेज बढ़त के दौरान आई।\n\nरिपोर्ट का मुख्य आंकड़ा KOSPI का 7,000 अंक से ऊपर जाना है। खरीद साइडकार लागू होने की बात KOSPI की तेज बढ़त के साथ सामने आई, जिससे कम समय में बाजार की चाल प्रमुख रूप से उभरी।\n\nयह रिपोर्ट दिखाती है कि निवेशकों का ध्यान दक्षिण कोरियाई शेयर बाजार की तेज बढ़त और उससे जुड़ी बाजार प्रतिक्रिया पर केंद्रित है। मूल पाठ में अतिरिक्त आंकड़े या अधिकारियों की टिप्पणी शामिल नहीं थी।\nस्रोत: क्युनघ्यांग शिनमुन"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000 dalam Lonjakan Tajam, Sidecar Beli Diaktifkan",
-        "excerpt": "Menurut Kyunghyang Shinmun, sidecar beli diaktifkan setelah KOSPI melonjak dan menembus level 7.000, membuat pergerakan cepat indeks menjadi sorotan pasar.",
-        "body": "Kyunghyang Shinmun melaporkan bahwa sidecar beli diaktifkan setelah KOSPI menembus level 7.000 dalam lonjakan tajam. Kabar ini muncul saat indeks bergerak naik dengan cepat.\n\nAngka utama dalam laporan tersebut adalah KOSPI yang melewati level 7.000. Aktivasi sidecar beli disebut bersama dengan lonjakan KOSPI, menandai pergerakan pasar yang menonjol dalam waktu singkat.\n\nLaporan ini menunjukkan perhatian investor terhadap kenaikan pasar saham Korea Selatan dan respons pasar yang menyertainya. Teks asli tidak memuat angka tambahan atau komentar dari pihak terkait.\nSumber: Kyunghyang Shinmun"
-      }
-    }
-  },
-  {
-    "id": "412d7b19962b",
-    "slug": "코스피-7000-집-판-돈까지-증시로-부동산-불패-신화-꺾고-머니무브-폭발---조선비즈---chosunbiz-717481",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:03:34.560Z",
-    "updatedAt": "2026-05-06T08:03:34.560Z",
-    "sourceName": "Chosunbiz",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkRyWTYycHZFZ05SdkJiMWlwenJidEFxeW9ZVTZfSnAzcTVHTGtXZkU2QndEN2RUeDkwVkFUWWdpX0o3WTc2bUJRNnhBTDJQT09IOWdlTkljOVU1aVo5MkJJbFprSGRxSWROQ25zeVBlT0FrZFAxaTJaNHZEWlhmOHdEc1BNb3c40gGcAUFVX3lxTFAwRFV1SHR4WkpyX0h6bVYtZmN6Rnc2ckNNdGtwQVVOaHdEdkgxaXpaQkZDTE9iOEhrd0J2UEVtUm1vVHRjUTNfRzdLMGtnUmlUYWNPUE1hOWhPNGpUc2x3VE1uUUoyMWdlcnRfdlRMN1plTy1SV3Z0TV9yQUtqTnotN1dyUnFPRG9Ca2lUOUxJSVpDQkFiMkFIcFprYg?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkRyWTYycHZFZ05SdkJiMWlwenJidEFxeW9ZVTZfSnAzcTVHTGtXZkU2QndEN2RUeDkwVkFUWWdpX0o3WTc2bUJRNnhBTDJQT09IOWdlTkljOVU1aVo5MkJJbFprSGRxSWROQ25zeVBlT0FrZFAxaTJaNHZEWlhmOHdEc1BNb3c40gGcAUFVX3lxTFAwRFV1SHR4WkpyX0h6bVYtZmN6Rnc2ckNNdGtwQVVOaHdEdkgxaXpaQkZDTE9iOEhrd0J2UEVtUm1vVHRjUTNfRzdLMGtnUmlUYWNPUE1hOWhPNGpUc2x3VE1uUUoyMWdlcnRfdlRMN1plTy1SV3Z0TV9yQUtqTnotN1dyUnFPRG9Ca2lUOUxJSVpDQkFiMkFIcFprYg?oc=5",
-    "titleFingerprint": "abb55121c20758a302c50df3884f6cf0b4e3d750",
-    "dedupKeys": [
-      "412d7b19962b4d18230e198e24f6c130915b2a79",
-      "abb55121c20758a302c50df3884f6cf0b4e3d750",
-      "d891d4fef7e649e9d4bb79a9afde6e8d1c0edc4f"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 기대 속 집 판 돈까지 증시로, 부동산 불패 흔든 머니무브",
-        "excerpt": "Chosunbiz는 코스피 7000 기대가 커지는 가운데 부동산 불패 인식이 약해지며 집을 판 자금까지 증시로 향하는 머니무브가 확산되고 있다고 보도했다.",
-        "body": "코스피 7000 기대가 부각되는 가운데, Chosunbiz는 투자자 자금이 부동산에서 주식시장으로 이동하는 흐름을 보도했다. 기사 제목은 집을 판 돈까지 증시로 들어가고 있다고 전했다.\n\n보도는 오랫동안 이어진 ‘부동산 불패’ 인식이 흔들리면서 머니무브가 폭발적으로 나타나고 있다는 점을 핵심으로 짚었다. 주식시장에 대한 기대가 커지는 상황에서 부동산 중심 자산 배분에도 변화가 감지된다는 내용이다.\n\n다만 제공된 원문 요약에는 구체적인 거래 규모나 개별 투자자 사례, 관계자 발언은 포함되지 않았다. 이번 흐름은 코스피 상승 기대와 부동산 선호 약화가 맞물린 현상으로 소개됐다.\n\n출처: Chosunbiz"
-      },
-      "en": {
-        "title": "KOSPI 7000 hopes fuel stock money move as home-sale cash shifts from property",
-        "excerpt": "Chosunbiz reported that, amid rising expectations for KOSPI 7000, a weakening belief in unbeatable real estate is pushing even home-sale proceeds into stocks.",
-        "body": "Amid growing attention on the possibility of KOSPI 7000, Chosunbiz reported a shift of investor money from real estate into the stock market. The report said even proceeds from home sales are flowing into equities.\n\nThe article focused on a rapid “money move” as the long-held belief that real estate always wins shows signs of weakening. With expectations for the stock market rising, changes are also being seen in asset allocation that had long centered on property.\n\nThe provided summary did not include specific transaction amounts, individual investor cases, or direct comments from officials. The trend was presented as a result of stronger hopes for KOSPI gains and softer preference for real estate.\n\nSource: Chosunbiz"
-      },
-      "ja": {
-        "title": "KOSPI7000期待で住宅売却資金も株式市場へ、不動産神話揺らす資金移動",
-        "excerpt": "Chosunbizは、KOSPI7000への期待が高まる中、不動産不敗の認識が弱まり、住宅売却資金まで株式市場に向かう資金移動が広がっていると報じた。",
-        "body": "KOSPI7000への期待が注目される中、Chosunbizは投資資金が不動産から株式市場へ移る流れを報じた。記事の見出しは、住宅を売った資金まで株式市場に入っていると伝えている。\n\n報道は、長く続いた「不動産不敗」という認識が揺らぎ、資金移動が急速に広がっている点を中心に取り上げた。株式市場への期待が高まる状況で、不動産中心だった資産配分にも変化が見られるという内容だ。\n\n提供された原文要約には、具体的な取引規模や個別投資家の事例、関係者の発言は含まれていない。この動きはKOSPI上昇期待と不動産選好の弱まりが重なった現象として紹介された。\n\n出典: Chosunbiz"
-      },
-      "zh": {
-        "title": "KOSPI 7000预期升温，卖房资金也流入股市冲击房地产神话",
-        "excerpt": "Chosunbiz报道称，在KOSPI 7000预期升温之际，房地产不败观念走弱，连卖房所得资金也流向股市，资金迁移正在扩大。",
-        "body": "在KOSPI 7000预期受到关注之际，Chosunbiz报道了投资者资金从房地产转向股票市场的趋势。报道标题称，连卖房所得资金也正在进入股市。\n\n报道重点指出，长期存在的“房地产不败”认知正在动摇，资金迁移快速显现。随着对股票市场的期待上升，过去以房地产为中心的资产配置也出现变化迹象。\n\n提供的原文摘要未包含具体交易规模、个别投资者案例或相关人士发言。该趋势被描述为KOSPI上涨预期与房地产偏好减弱共同作用下出现的现象。\n\n来源: Chosunbiz"
-      },
-      "es": {
-        "title": "Expectativa KOSPI 7000 lleva dinero de viviendas vendidas a bolsa y sacude el mito inmobiliario",
-        "excerpt": "Chosunbiz informó que, con mayores expectativas sobre KOSPI 7000, se debilita la fe en el sector inmobiliario y hasta el dinero de casas vendidas va a acciones.",
-        "body": "En medio de la atención sobre la posibilidad de KOSPI 7000, Chosunbiz informó de un movimiento de dinero de los inversionistas desde el sector inmobiliario hacia el mercado bursátil. El titular señaló que incluso los fondos obtenidos por la venta de viviendas están entrando en acciones.\n\nEl reporte destacó una rápida migración de capital mientras se debilita la creencia de que el inmobiliario siempre gana. Con mayores expectativas sobre la bolsa, también se observan cambios en una asignación de activos que durante mucho tiempo estuvo centrada en propiedades.\n\nEl resumen proporcionado no incluyó montos concretos, casos individuales de inversionistas ni comentarios de responsables. La tendencia fue presentada como resultado de expectativas de alza del KOSPI y una menor preferencia por bienes raíces.\n\nFuente: Chosunbiz"
-      },
-      "pt": {
-        "title": "Expectativa de KOSPI 7000 leva dinheiro de casas vendidas à bolsa e abala mito imobiliário",
-        "excerpt": "A Chosunbiz informou que, com a expectativa de KOSPI 7000, a crença na força invencível dos imóveis enfraquece e até recursos de casas vendidas vão para ações.",
-        "body": "Em meio à atenção sobre a possibilidade de KOSPI 7000, a Chosunbiz relatou uma migração de recursos de investidores do mercado imobiliário para a bolsa. A manchete afirmou que até dinheiro obtido com a venda de casas está entrando em ações.\n\nA reportagem destacou um rápido “money move” enquanto enfraquece a percepção de que os imóveis sempre vencem. Com expectativas maiores para o mercado acionário, também são percebidas mudanças na alocação de ativos antes centrada em propriedades.\n\nO resumo fornecido não incluiu valores específicos, casos individuais de investidores nem falas de autoridades. A tendência foi apresentada como resultado da expectativa de alta do KOSPI combinada à menor preferência por imóveis.\n\nFonte: Chosunbiz"
-      },
-      "de": {
-        "title": "KOSPI-7000-Erwartung lenkt Hausverkaufsgeld in Aktien und erschüttert Immobilienmythos",
-        "excerpt": "Chosunbiz berichtete, dass bei wachsender KOSPI-7000-Erwartung der Glaube an Immobilien nachlässt und selbst Erlöse aus Hausverkäufen in Aktien fließen.",
-        "body": "Während die Möglichkeit eines KOSPI von 7000 stärker in den Fokus rückt, berichtete Chosunbiz über eine Verlagerung von Anlegergeldern aus Immobilien in den Aktienmarkt. Die Überschrift sagte, dass sogar Erlöse aus Hausverkäufen in Aktien fließen.\n\nDer Bericht stellte eine schnelle Geldbewegung in den Mittelpunkt, während der lange bestehende Glaube an die Unbesiegbarkeit von Immobilien ins Wanken gerät. Mit steigenden Erwartungen an den Aktienmarkt zeigen sich auch Veränderungen in einer Vermögensaufteilung, die lange auf Immobilien ausgerichtet war.\n\nDie bereitgestellte Zusammenfassung enthielt keine konkreten Transaktionsvolumen, Einzelfälle von Anlegern oder Aussagen von Beteiligten. Der Trend wurde als Zusammenspiel von KOSPI-Aufwärtserwartungen und nachlassender Immobilienpräferenz dargestellt.\n\nQuelle: Chosunbiz"
-      },
-      "fr": {
-        "title": "L’espoir d’un KOSPI à 7000 pousse l’argent des ventes immobilières vers les actions",
-        "excerpt": "Chosunbiz rapporte qu’avec l’espoir d’un KOSPI à 7000, la croyance dans l’immobilier invincible faiblit et même l’argent de maisons vendues va vers la Bourse.",
-        "body": "Alors que l’hypothèse d’un KOSPI à 7000 attire l’attention, Chosunbiz a rapporté un déplacement des capitaux des investisseurs de l’immobilier vers le marché actions. Le titre indique que même les fonds issus de ventes de logements entrent en Bourse.\n\nL’article met l’accent sur un mouvement rapide de capitaux tandis que s’affaiblit la croyance longtemps dominante dans l’immobilier invincible. Avec des attentes plus fortes envers le marché actions, des changements apparaissent aussi dans une allocation d’actifs longtemps centrée sur la pierre.\n\nLe résumé fourni ne mentionne pas de montant précis, de cas individuel d’investisseur ni de commentaire de responsable. Cette tendance est présentée comme le résultat d’attentes de hausse du KOSPI et d’un moindre attrait pour l’immobilier.\n\nSource: Chosunbiz"
-      },
-      "ar": {
-        "title": "توقعات كوسبي 7000 تدفع أموال بيع المنازل إلى الأسهم وتهز أسطورة العقار",
-        "excerpt": "ذكرت Chosunbiz أنه مع تصاعد توقعات كوسبي 7000، يتراجع الاعتقاد بتفوق العقار الدائم، وتتجه حتى عائدات بيع المنازل إلى سوق الأسهم.",
-        "body": "مع تزايد الاهتمام بإمكان وصول كوسبي إلى 7000، أفادت Chosunbiz بانتقال أموال المستثمرين من العقارات إلى سوق الأسهم. وقال العنوان إن حتى عائدات بيع المنازل تدخل إلى الأسهم.\n\nركز التقرير على حركة أموال سريعة مع اهتزاز الاعتقاد الطويل بأن العقار لا يخسر. وفي ظل ارتفاع التوقعات لسوق الأسهم، تظهر أيضا مؤشرات تغير في توزيع الأصول الذي كان متمحورا حول العقارات.\n\nلم يتضمن الملخص المقدم أحجام تداول محددة أو حالات لمستثمرين بعينهم أو تصريحات لمسؤولين. وقد عُرض الاتجاه بوصفه نتيجة لتوقعات صعود كوسبي وتراجع تفضيل العقارات.\n\nالمصدر: Chosunbiz"
-      },
-      "hi": {
-        "title": "KOSPI 7000 की उम्मीद में घर बेचने का पैसा भी शेयरों में, रियल एस्टेट मिथक कमजोर",
-        "excerpt": "Chosunbiz ने बताया कि KOSPI 7000 की उम्मीद बढ़ने के बीच रियल एस्टेट की अजेयता पर भरोसा कमजोर हो रहा है और घर बेचने की रकम भी शेयर बाजार में जा रही है।",
-        "body": "KOSPI 7000 की संभावना पर बढ़ते ध्यान के बीच, Chosunbiz ने निवेशकों के धन के रियल एस्टेट से शेयर बाजार की ओर जाने की प्रवृत्ति की रिपोर्ट की। शीर्षक में कहा गया कि घर बेचने से मिली रकम तक शेयरों में लग रही है।\n\nरिपोर्ट ने लंबे समय से चले आ रहे इस विश्वास के कमजोर होने को रेखांकित किया कि रियल एस्टेट हमेशा जीतता है। शेयर बाजार को लेकर उम्मीदें बढ़ने के साथ, संपत्ति आवंटन में भी बदलाव दिख रहा है जो लंबे समय से रियल एस्टेट केंद्रित था।\n\nदिए गए मूल सारांश में कोई विशिष्ट लेनदेन राशि, व्यक्तिगत निवेशक उदाहरण या संबंधित पक्षों की टिप्पणी शामिल नहीं थी। इस रुझान को KOSPI में बढ़त की उम्मीद और रियल एस्टेट पसंद में कमी के संयुक्त परिणाम के रूप में पेश किया गया।\n\nस्रोत: Chosunbiz"
-      },
-      "id": {
-        "title": "Harapan KOSPI 7000 dorong uang hasil jual rumah ke saham, guncang mitos properti",
-        "excerpt": "Chosunbiz melaporkan bahwa saat harapan KOSPI 7000 meningkat, keyakinan pada properti yang selalu unggul melemah dan dana hasil penjualan rumah masuk ke saham.",
-        "body": "Di tengah meningkatnya perhatian pada kemungkinan KOSPI 7000, Chosunbiz melaporkan arus dana investor dari properti ke pasar saham. Judul laporan menyebutkan bahwa bahkan dana hasil penjualan rumah ikut masuk ke saham.\n\nLaporan itu menyoroti pergerakan dana yang cepat ketika keyakinan lama bahwa properti selalu menang mulai goyah. Dengan ekspektasi terhadap pasar saham yang meningkat, perubahan juga terlihat pada alokasi aset yang selama ini berpusat pada properti.\n\nRingkasan asli yang diberikan tidak memuat angka transaksi spesifik, contoh investor individual, atau komentar pihak terkait. Tren ini diperkenalkan sebagai fenomena yang muncul dari harapan kenaikan KOSPI dan melemahnya preferensi terhadap properti.\n\nSumber: Chosunbiz"
-      }
-    }
-  },
-  {
-    "id": "4b88288e34e1",
-    "slug": "장중시황-코스피-최고치-경신-속-상승세한때-7400선-돌파---브릿지경제-863487",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:02:16.486Z",
-    "updatedAt": "2026-05-06T08:02:16.486Z",
-    "sourceName": "브릿지경제",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MUNPWl8yc0lqV191T0hjZDdwRFV6blZvMTh4YjJmall0SmJBRjUyU0xYeE5hOFRuOURuVjY0SElsekxLaWFOYXN0MHQ4bGg0VUVpVlNrcGdjdw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MUNPWl8yc0lqV191T0hjZDdwRFV6blZvMTh4YjJmall0SmJBRjUyU0xYeE5hOFRuOURuVjY0SElsekxLaWFOYXN0MHQ4bGg0VUVpVlNrcGdjdw?oc=5",
-    "titleFingerprint": "d845c760cde1a36acff3a02d208176c9eeaaa7ce",
-    "dedupKeys": [
-      "4b88288e34e15589a28036c4dad41a6050a0f3a5",
-      "d845c760cde1a36acff3a02d208176c9eeaaa7ce",
-      "53a56e73e453121bd4518aad45876984b3d4eda2"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 장중 최고치 경신, 한때 7400선 돌파하며 상승세",
-        "excerpt": "브릿지경제에 따르면 코스피는 장중 최고치를 새로 쓰며 상승세를 이어갔고, 거래 중 한때 7400선을 돌파한 것으로 전해졌다.",
-        "body": "코스피가 장중 거래에서 최고치를 경신하며 상승세를 보였다고 브릿지경제가 보도했다. 지수는 장중 한때 7400선을 돌파하며 시장의 관심을 모았다.\n\n이번 보도는 코스피가 장중시황에서 강세 흐름을 나타냈다는 점에 초점을 맞췄다. 핵심 수치는 ‘최고치 경신’과 ‘한때 7400선 돌파’로, 지수 흐름이 상승 쪽으로 기울었음을 보여준다.\n\n다만 원문 요약에는 상승 배경이나 업종별 흐름, 투자 주체별 매매 동향, 관계자 발언 등 추가 정보는 제시되지 않았다. 투자자는 후속 장중 흐름과 종가 기준 지수 변화를 함께 확인할 필요가 있다.\n출처: 브릿지경제"
-      },
-      "en": {
-        "title": "KOSPI Hits Intraday Record, Briefly Breaks Above 7,400",
-        "excerpt": "According to Bridge Economy, the KOSPI extended gains after setting a fresh intraday high and briefly moved above the 7,400 level during trading.",
-        "body": "The KOSPI rose in intraday trading after setting a new record high, Bridge Economy reported. The index briefly crossed the 7,400 mark during the session, drawing market attention.\n\nThe report focused on the KOSPI’s firm tone in the intraday market update. The key points were the new intraday high and the temporary move above 7,400, indicating that the index was trading with upward momentum.\n\nThe original summary did not provide additional details on the reasons behind the rise, sector performance, investor trading flows, or comments from market officials. Investors may need to monitor later intraday movement and the closing level for further confirmation.\nSource: Bridge Economy"
-      },
-      "ja": {
-        "title": "KOSPIが取引時間中に最高値更新、一時7400台を突破",
-        "excerpt": "ブリッジ経済によると、KOSPIは取引時間中に最高値を更新して上昇基調を続け、一時7400台を突破したと伝えられた。",
-        "body": "KOSPIが取引時間中に最高値を更新し、上昇基調を示したとブリッジ経済が報じた。指数は一時7400台を突破し、市場の注目を集めた。\n\n今回の報道は、KOSPIが場中市況で強い動きを見せた点に焦点を当てている。主な数値は「最高値更新」と「一時7400台突破」で、指数の流れが上向きだったことを示している。\n\nただし、原文の要約では上昇の背景、業種別の動き、投資主体別の売買動向、関係者コメントなどの追加情報は示されていない。投資家はその後の場中推移と終値ベースの変化を確認する必要がある。\n出典: ブリッジ経済"
-      },
-      "zh": {
-        "title": "KOSPI盘中刷新高点，指数一度突破7400点关口",
-        "excerpt": "据Bridge Economy报道，KOSPI在盘中刷新最高纪录并延续涨势，交易过程中指数一度突破7400点关口。",
-        "body": "据Bridge Economy报道，KOSPI在盘中交易中刷新最高纪录，并呈现上涨走势。指数在交易过程中一度突破7400点关口，引发市场关注。\n\n这篇盘中行情报道的重点，是KOSPI在交易时段内表现出强势。核心信息包括“刷新最高点”和“一度突破7400点”，显示指数走势偏向上行。\n\n不过，原文摘要未提供上涨原因、行业表现、不同投资主体买卖动向或相关人士评论等更多细节。投资者仍需关注后续盘中走势以及收盘水平的变化。\n来源: Bridge Economy"
-      },
-      "es": {
-        "title": "El KOSPI marca récord intradía y supera brevemente los 7.400 puntos",
-        "excerpt": "Según Bridge Economy, el KOSPI mantuvo una tendencia alcista tras renovar su máximo intradía y llegó a superar brevemente el nivel de 7.400 puntos.",
-        "body": "El KOSPI subió durante la sesión y renovó su máximo intradía, informó Bridge Economy. El índice llegó a superar brevemente el nivel de 7.400 puntos, atrayendo la atención del mercado.\n\nLa información se centró en el tono firme del KOSPI dentro del informe de mercado intradía. Los datos clave fueron el nuevo máximo y el avance temporal por encima de 7.400 puntos, señales de una evolución al alza.\n\nEl resumen original no incluyó detalles adicionales sobre las causas de la subida, el comportamiento por sectores, los flujos de negociación por tipo de inversor ni comentarios de fuentes del mercado. Los inversores deberán seguir la evolución intradía posterior y el cierre del índice.\nFuente: Bridge Economy"
-      },
-      "pt": {
-        "title": "KOSPI renova máxima intradiária e supera 7.400 pontos por instantes",
-        "excerpt": "Segundo a Bridge Economy, o KOSPI manteve viés de alta após renovar sua máxima intradiária e chegou a superar brevemente o nível de 7.400 pontos.",
-        "body": "O KOSPI avançou durante o pregão e renovou sua máxima intradiária, informou a Bridge Economy. O índice chegou a superar brevemente a marca de 7.400 pontos, chamando a atenção do mercado.\n\nA reportagem destacou o movimento firme do KOSPI na atualização intradiária. Os principais pontos foram a renovação da máxima e a passagem temporária acima de 7.400 pontos, indicando uma trajetória de alta no momento citado.\n\nO resumo original não trouxe detalhes adicionais sobre os motivos da alta, o desempenho por setor, os fluxos de compra e venda por tipo de investidor ou comentários de representantes do mercado. Investidores devem acompanhar a evolução posterior e o fechamento do índice.\nFonte: Bridge Economy"
-      },
-      "de": {
-        "title": "KOSPI erreicht Intraday-Rekord und steigt zeitweise über 7.400 Punkte",
-        "excerpt": "Laut Bridge Economy setzte der KOSPI seine Gewinne nach einem neuen Intraday-Hoch fort und überschritt im Handel zeitweise die Marke von 7.400 Punkten.",
-        "body": "Der KOSPI legte im Intraday-Handel zu und markierte ein neues Rekordhoch, berichtete Bridge Economy. Der Index überschritt während der Sitzung zeitweise die Marke von 7.400 Punkten und rückte damit in den Fokus des Marktes.\n\nDer Bericht konzentrierte sich auf die starke Tendenz des KOSPI in der laufenden Handelssitzung. Die zentralen Angaben waren das neue Hoch und der kurzzeitige Anstieg über 7.400 Punkte, was auf eine aufwärtsgerichtete Bewegung hinweist.\n\nDie ursprüngliche Zusammenfassung nannte keine weiteren Details zu den Gründen des Anstiegs, zur Branchenentwicklung, zu Handelsströmen nach Investorengruppen oder zu Kommentaren von Marktteilnehmern. Anleger sollten den weiteren Verlauf und den Schlussstand beobachten.\nQuelle: Bridge Economy"
-      },
-      "fr": {
-        "title": "Le KOSPI signe un record intrajournalier et dépasse brièvement 7 400 points",
-        "excerpt": "Selon Bridge Economy, le KOSPI a poursuivi sa hausse après avoir inscrit un nouveau record intrajournalier et a brièvement dépassé les 7 400 points.",
-        "body": "Le KOSPI a progressé en séance et inscrit un nouveau record intrajournalier, a rapporté Bridge Economy. L’indice a brièvement dépassé le seuil des 7 400 points, attirant l’attention du marché.\n\nL’article s’est concentré sur la fermeté du KOSPI dans le point de marché intrajournalier. Les éléments clés sont le nouveau record et le passage temporaire au-dessus de 7 400 points, ce qui indique une orientation haussière au moment évoqué.\n\nLe résumé original ne fournit pas de détails supplémentaires sur les raisons de la hausse, les performances sectorielles, les flux par catégorie d’investisseurs ou les commentaires de responsables du marché. Les investisseurs devront suivre la suite de la séance et le niveau de clôture.\nSource: Bridge Economy"
-      },
-      "ar": {
-        "title": "كوسبي يسجل قمة خلال الجلسة ويتجاوز مؤقتا مستوى 7400 نقطة",
-        "excerpt": "بحسب Bridge Economy، واصل مؤشر كوسبي ارتفاعه بعد تسجيل مستوى قياسي جديد خلال الجلسة، وتجاوز مؤقتا حاجز 7400 نقطة أثناء التداول.",
-        "body": "ارتفع مؤشر كوسبي خلال التداولات وسجل مستوى قياسيا جديدا أثناء الجلسة، بحسب ما أوردته Bridge Economy. وتجاوز المؤشر مؤقتا مستوى 7400 نقطة خلال التعاملات، ما جذب اهتمام السوق.\n\nركز التقرير على الزخم الإيجابي للمؤشر في تحديث السوق خلال الجلسة. وتمثلت المعلومات الأساسية في تسجيل قمة جديدة وتجاوز مستوى 7400 نقطة لفترة قصيرة، وهو ما يشير إلى اتجاه صاعد في الحركة المذكورة.\n\nولم يقدم ملخص الخبر الأصلي تفاصيل إضافية عن أسباب الارتفاع أو أداء القطاعات أو اتجاهات التداول حسب فئات المستثمرين أو تصريحات من مسؤولين في السوق. لذلك يحتاج المستثمرون إلى متابعة الحركة اللاحقة ومستوى الإغلاق.\nالمصدر: Bridge Economy"
-      },
-      "hi": {
-        "title": "KOSPI ने इंट्राडे रिकॉर्ड बनाया, कुछ समय के लिए 7,400 के ऊपर गया",
-        "excerpt": "Bridge Economy के अनुसार, KOSPI ने नया इंट्राडे उच्च स्तर बनाते हुए बढ़त जारी रखी और कारोबार के दौरान कुछ समय के लिए 7,400 अंक के ऊपर चला गया।",
-        "body": "Bridge Economy ने बताया कि KOSPI ने इंट्राडे कारोबार में नया रिकॉर्ड उच्च स्तर बनाया और बढ़त के साथ कारोबार करता दिखा। सूचकांक सत्र के दौरान कुछ समय के लिए 7,400 अंक के स्तर से ऊपर चला गया, जिससे बाजार का ध्यान उस पर गया।\n\nरिपोर्ट का मुख्य फोकस इंट्राडे बाजार अपडेट में KOSPI की मजबूत चाल पर था। प्रमुख तथ्य नया उच्च स्तर और 7,400 अंक से ऊपर की अस्थायी बढ़त रहे, जो उस समय सूचकांक की ऊपर की दिशा को दिखाते हैं।\n\nमूल सारांश में तेजी के कारण, क्षेत्रवार प्रदर्शन, निवेशक वर्गों की खरीद-बिक्री या किसी संबंधित व्यक्ति की टिप्पणी जैसी अतिरिक्त जानकारी नहीं दी गई। निवेशकों को आगे की इंट्राडे चाल और बंद स्तर पर भी नजर रखनी होगी।\nस्रोत: Bridge Economy"
-      },
-      "id": {
-        "title": "KOSPI Cetak Rekor Intraday, Sempat Tembus Level 7.400",
-        "excerpt": "Menurut Bridge Economy, KOSPI melanjutkan penguatan setelah mencetak rekor intraday baru dan sempat bergerak menembus level 7.400 dalam perdagangan.",
-        "body": "KOSPI menguat dalam perdagangan intraday setelah mencetak rekor tertinggi baru, lapor Bridge Economy. Indeks tersebut sempat menembus level 7.400 selama sesi berjalan dan menarik perhatian pasar.\n\nLaporan ini menyoroti nada kuat KOSPI dalam pembaruan pasar intraday. Poin utamanya adalah pembaruan rekor tertinggi dan pergerakan sementara di atas 7.400, yang menunjukkan arah indeks condong naik pada saat itu.\n\nNamun, ringkasan asli tidak memuat rincian tambahan mengenai penyebab kenaikan, kinerja sektoral, arus transaksi berdasarkan pelaku investor, atau komentar pihak terkait. Investor perlu memantau pergerakan intraday lanjutan dan posisi penutupan indeks.\nSumber: Bridge Economy"
       }
     }
   }
