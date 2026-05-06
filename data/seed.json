@@ -1,5 +1,230 @@
 [
   {
+    "id": "559c3c033a9e",
+    "slug": "3년-주기로-쏟아지는-코스닥-etf-왜-466120",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T12:58:02.725Z",
+    "updatedAt": "2026-05-06T12:58:02.725Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037744",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037744",
+    "titleFingerprint": "7f273d4313b2387656e9373ac97e866eb2d026d0",
+    "dedupKeys": [
+      "559c3c033a9e5db43b0c5ce72a252392db0734a9",
+      "7f273d4313b2387656e9373ac97e866eb2d026d0",
+      "abc0cc36f213bfaadb84ac3c892ced0c3ce17d28"
+    ],
+    "imageUrl": "/images/articles/559c3c033a9e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스닥 ETF 3년 주기 재현, 시장 열기 속 추종 상품 상장 러시",
+        "excerpt": "코스닥 시장이 다시 달아오르면서 이를 추종하는 ETF가 줄줄이 상장되고 있다. 코스닥이 주목받을 때마다 유사 상품이 단기간 집중되는 3년 주기 흐름이 반복되는 모습이다.",
+        "body": "코스닥 시장이 달아오르자 이를 추종하는 상장지수펀드(ETF)가 또다시 줄줄이 상장되고 있다. 최근 시장 관심이 코스닥으로 쏠리면서 운용사들이 관련 지수를 따르는 상품을 잇달아 내놓는 흐름이다. 배경에는 코스닥이 주목받을 때마다 유사 ETF가 단기간에 집중 출시됐다가 이후 투자자 발길이 끊기는 패턴이 있다. 이른바 ‘3년 주기’로 불리는 현상이 다시 나타난 것이다. 시장 열기가 상품 공급을 빠르게 늘리는 계기가 되지만, 관심이 식은 뒤에는 유사 상품 간 차별성과 지속 수요가 관건으로 남는다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSDAQ ETF Three-Year Cycle Returns as Market Heat Sparks Listing Rush",
+        "excerpt": "As the KOSDAQ market heats up again, ETFs tracking it are being listed one after another, repeating a three-year pattern in which similar products appear quickly whenever the market draws attention.",
+        "body": "As the KOSDAQ market heats up, exchange-traded funds tracking it are once again being listed in succession. With market attention recently shifting toward KOSDAQ, asset managers are rolling out products tied to related indexes. The background is a repeated pattern: whenever KOSDAQ attracts attention, similar ETFs are launched within a short period, only for investor interest to fade later. This phenomenon, often described as a “three-year cycle,” appears to be emerging again. Market momentum can quickly expand product supply, but after interest cools, differentiation among similar funds and sustained demand become the key issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "コスダックETFの3年周期再来、市場過熱で連動商品が上場ラッシュ",
+        "excerpt": "コスダック市場が再び熱を帯び、同市場に連動するETFが相次いで上場している。注目が集まるたびに類似商品が短期集中する3年周期の流れが繰り返されている。",
+        "body": "コスダック市場が熱を帯びるなか、同市場に連動する上場投資信託（ETF）が再び相次いで上場している。最近、市場の関心がコスダックに向かい、運用会社が関連指数に連動する商品を次々と投入しているためだ。背景には、コスダックが注目されるたびに類似ETFが短期間で集中して発売され、その後は投資家の足が遠のくというパターンがある。いわゆる「3年周期」と呼ばれる現象が再び表れている形だ。市場の熱気は商品供給を素早く増やすきっかけとなるが、関心が冷めた後は類似商品間の差別化と持続的な需要が課題として残る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSDAQ ETF三年周期重现，市场升温带动跟踪产品密集上市",
+        "excerpt": "随着KOSDAQ市场再度升温，跟踪该市场的ETF接连上市。每当KOSDAQ受到关注，类似产品便在短期内集中推出的三年周期走势正在重复。",
+        "body": "随着KOSDAQ市场升温，跟踪该市场的交易所交易基金（ETF）再次接连上市。近期市场关注度转向KOSDAQ，资产管理公司陆续推出跟踪相关指数的产品。其背景在于一种反复出现的模式：每当KOSDAQ受到关注，类似ETF便会在短时间内集中推出，但随后投资者兴趣又逐渐减少。这一被称为“三年周期”的现象似乎正在再次出现。市场热度会迅速推动产品供给增加，但在关注降温后，类似产品之间的差异化以及持续需求将成为关键问题。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "ETF del KOSDAQ reactivan ciclo de tres años con nueva ola de listados",
+        "excerpt": "Con el mercado KOSDAQ volviendo a calentarse, los ETF que lo siguen se listan uno tras otro. Se repite el patrón de tres años en que productos similares se concentran cuando el mercado gana atención.",
+        "body": "A medida que el mercado KOSDAQ se calienta, los fondos cotizados en bolsa (ETF) que lo siguen vuelven a listarse en cadena. La atención reciente del mercado se ha desplazado hacia el KOSDAQ, y las gestoras están lanzando productos vinculados a índices relacionados. El trasfondo es un patrón repetido: cada vez que el KOSDAQ atrae atención, ETF similares aparecen en poco tiempo, pero después el interés de los inversionistas se reduce. El fenómeno conocido como “ciclo de tres años” parece estar reapareciendo. El impulso del mercado puede ampliar rápido la oferta de productos, pero cuando la atención se enfría, la diferenciación entre fondos similares y la demanda sostenida quedan como cuestiones clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "ETFs do KOSDAQ retomam ciclo de três anos com nova onda de listagens",
+        "excerpt": "Com o mercado KOSDAQ voltando a aquecer, ETFs que o acompanham estão sendo listados em sequência. Repete-se o padrão de três anos em que produtos similares surgem rapidamente quando o mercado ganha atenção.",
+        "body": "Com o aquecimento do mercado KOSDAQ, fundos de índice negociados em bolsa (ETFs) que o acompanham voltam a ser listados em sequência. Recentemente, a atenção do mercado se voltou para o KOSDAQ, e gestoras passaram a lançar produtos ligados a índices relacionados. O contexto é um padrão recorrente: sempre que o KOSDAQ recebe destaque, ETFs semelhantes são lançados em curto período, mas depois o interesse dos investidores diminui. O fenômeno conhecido como “ciclo de três anos” parece surgir novamente. O calor do mercado pode ampliar rapidamente a oferta de produtos, mas, quando a atenção esfria, a diferenciação entre fundos similares e a demanda contínua tornam-se pontos centrais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSDAQ-ETFs: Drei-Jahres-Zyklus kehrt mit neuer Listing-Welle zurück",
+        "excerpt": "Da sich der KOSDAQ-Markt erneut aufheizt, werden ETFs, die ihn abbilden, nacheinander gelistet. Damit wiederholt sich ein Drei-Jahres-Muster, bei dem ähnliche Produkte bei steigender Aufmerksamkeit rasch erscheinen.",
+        "body": "Während sich der KOSDAQ-Markt aufheizt, werden börsengehandelte Fonds (ETFs), die ihn abbilden, erneut in schneller Folge gelistet. Zuletzt richtete sich die Aufmerksamkeit des Marktes stärker auf den KOSDAQ, und Vermögensverwalter bringen Produkte auf den Markt, die entsprechenden Indizes folgen. Hintergrund ist ein wiederkehrendes Muster: Immer wenn der KOSDAQ Beachtung findet, werden ähnliche ETFs in kurzer Zeit konzentriert aufgelegt, doch später lässt das Interesse der Anleger nach. Das als „Drei-Jahres-Zyklus“ bezeichnete Phänomen scheint nun erneut aufzutreten. Die Marktstimmung kann das Produktangebot rasch ausweiten, doch nach dem Abkühlen des Interesses bleiben Differenzierung und nachhaltige Nachfrage die entscheidenden Fragen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les ETF KOSDAQ relancent leur cycle de trois ans avec une vague de cotations",
+        "excerpt": "Alors que le marché KOSDAQ se réchauffe de nouveau, les ETF qui le suivent sont cotés les uns après les autres. Le schéma de trois ans, marqué par une concentration rapide de produits similaires, se répète.",
+        "body": "Alors que le marché KOSDAQ se réchauffe, les fonds indiciels cotés (ETF) qui le suivent sont de nouveau introduits en série. L’attention récente du marché se porte sur le KOSDAQ, et les sociétés de gestion lancent des produits liés à des indices correspondants. Le contexte est celui d’un schéma récurrent: chaque fois que le KOSDAQ attire l’attention, des ETF similaires sont lancés sur une courte période, puis l’intérêt des investisseurs s’essouffle. Le phénomène souvent qualifié de «cycle de trois ans» semble réapparaître. L’élan du marché peut rapidement accroître l’offre de produits, mais lorsque l’attention retombe, la différenciation entre produits similaires et la demande durable deviennent les enjeux clés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صناديق KOSDAQ المتداولة تعيد دورة الثلاث سنوات مع موجة إدراج جديدة",
+        "excerpt": "مع عودة الزخم إلى سوق KOSDAQ، تُدرج صناديق ETF التي تتبعه تباعا. ويتكرر نمط الثلاث سنوات الذي تظهر فيه منتجات مشابهة بسرعة كلما حظي السوق بالاهتمام.",
+        "body": "مع ارتفاع حرارة سوق KOSDAQ، تعود الصناديق المتداولة في البورصة (ETF) التي تتبعه إلى الإدراج تباعا. فقد اتجه اهتمام السوق مؤخرا نحو KOSDAQ، وبدأت شركات إدارة الأصول طرح منتجات مرتبطة بمؤشرات ذات صلة. وتكمن الخلفية في نمط متكرر: كلما جذب KOSDAQ الانتباه، تُطرح صناديق ETF مشابهة خلال فترة قصيرة، ثم يتراجع إقبال المستثمرين لاحقا. ويبدو أن الظاهرة المعروفة باسم «دورة الثلاث سنوات» تظهر من جديد. يمكن لزخم السوق أن يزيد المعروض من المنتجات بسرعة، لكن بعد تراجع الاهتمام تبقى القدرة على التمييز بين المنتجات المتشابهة واستمرار الطلب عاملين حاسمين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSDAQ ETF में तीन साल का चक्र फिर दिखा, बाजार गर्माते ही लिस्टिंग तेज",
+        "excerpt": "KOSDAQ बाजार फिर गर्माने के साथ उसे ट्रैक करने वाले ETF एक के बाद एक सूचीबद्ध हो रहे हैं। जब भी KOSDAQ पर ध्यान बढ़ता है, समान उत्पाद तेजी से आने वाला तीन साल का पैटर्न दोहरता दिखता है।",
+        "body": "KOSDAQ बाजार के गर्माने के साथ उसे ट्रैक करने वाले एक्सचेंज ट्रेडेड फंड (ETF) फिर से लगातार सूचीबद्ध हो रहे हैं। हाल में बाजार का ध्यान KOSDAQ की ओर गया है, और एसेट मैनेजर संबंधित सूचकांकों का अनुसरण करने वाले उत्पाद ला रहे हैं। पृष्ठभूमि में एक दोहराया गया पैटर्न है: जब भी KOSDAQ पर ध्यान जाता है, समान ETF थोड़े समय में बड़ी संख्या में पेश होते हैं, लेकिन बाद में निवेशकों की रुचि घट जाती है। इसे अक्सर “तीन साल का चक्र” कहा जाता है, और यह फिर उभरता दिख रहा है। बाजार की गर्मी उत्पाद आपूर्ति को तेजी से बढ़ा सकती है, लेकिन रुचि कम होने के बाद समान फंडों में भिन्नता और टिकाऊ मांग अहम सवाल बन जाते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "ETF KOSDAQ Masuki Lagi Siklus Tiga Tahun Saat Pasar Memanas",
+        "excerpt": "Saat pasar KOSDAQ kembali memanas, ETF yang melacaknya terus tercatat satu demi satu. Pola tiga tahunan, ketika produk serupa muncul cepat setiap kali KOSDAQ menarik perhatian, kembali terlihat.",
+        "body": "Ketika pasar KOSDAQ memanas, dana yang diperdagangkan di bursa (ETF) yang melacaknya kembali tercatat secara beruntun. Perhatian pasar belakangan mengarah ke KOSDAQ, dan manajer aset meluncurkan produk yang mengikuti indeks terkait. Latar belakangnya adalah pola yang berulang: setiap kali KOSDAQ menjadi sorotan, ETF serupa muncul dalam waktu singkat, lalu minat investor kemudian menurun. Fenomena yang disebut sebagai “siklus tiga tahun” itu tampak kembali terjadi. Antusiasme pasar dapat cepat memperbesar pasokan produk, tetapi setelah perhatian mereda, diferensiasi di antara produk serupa dan permintaan yang berkelanjutan menjadi isu utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ee83fb435ca3",
+    "slug": "미국-주식-돋보기-ai-수혜주-컴포트시스템스-연초-대비-주가-96-폭등-693004",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T12:56:48.579Z",
+    "updatedAt": "2026-05-06T12:56:48.579Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037748",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037748",
+    "titleFingerprint": "cc159b8ccb844ded1f5576e2eae65b092041ad04",
+    "dedupKeys": [
+      "ee83fb435ca3272a63423e64f27e27eea56f3042",
+      "cc159b8ccb844ded1f5576e2eae65b092041ad04",
+      "9843941198ad8cbffd3a6d9aab57e707acf2771f"
+    ],
+    "imageUrl": "/images/articles/ee83fb435ca3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 데이터센터 수혜주 컴포트시스템스, 연초 대비 주가 96% 급등",
+        "excerpt": "컴포트시스템스USA가 AI 데이터센터 투자 확대의 수혜주로 주목받으며 월가 눈높이가 올라가고, 연초 대비 주가가 96% 급등했다.",
+        "body": "기계·전기·배관(MEP) 설비 전문 업체 컴포트시스템스USA가 인공지능(AI) 데이터센터 투자 확대의 수혜주로 부각되며 월가의 평가가 상향 조정되고 있다. 빅테크 기업들을 중심으로 AI 데이터센터 투자가 늘어나면서 관련 설비를 담당하는 기업에 대한 관심도 커진 영향이다. 원문에 따르면 컴포트시스템스USA의 주가는 연초 대비 96% 급등했다. MEP 설비는 데이터센터 구축에 필요한 핵심 인프라와 맞닿아 있어 투자 확대 흐름이 실적 기대를 높이는 배경으로 거론된다. 향후 관건은 AI 데이터센터 투자 증가세가 지속되며 해당 수요가 얼마나 이어질지다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Data Center Beneficiary Comfort Systems Jumps 96% Year to Date",
+        "excerpt": "Comfort Systems USA is drawing Wall Street attention as AI data center investment expands, with its share price up 96% year to date.",
+        "body": "Comfort Systems USA, a specialist in mechanical, electrical and plumbing, or MEP, systems, is gaining attention as a beneficiary of expanding artificial intelligence data center investment. Wall Street expectations for the company are being raised as Big Tech companies increase spending on AI data centers, lifting interest in firms that provide related infrastructure. According to the original report, Comfort Systems USA’s share price has surged 96% since the start of the year. MEP systems are closely tied to essential infrastructure for data center construction, making the investment cycle a key reason behind higher performance expectations. The outlook depends on how long AI data center investment growth continues and how much related demand follows. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIデータセンター関連のコンフォート・システムズ、年初来96％急騰",
+        "excerpt": "コンフォート・システムズUSAはAIデータセンター投資拡大の恩恵を受ける銘柄として注目され、株価は年初来96％上昇した。",
+        "body": "機械・電気・配管（MEP）設備を手がけるコンフォート・システムズUSAが、人工知能（AI）データセンター投資拡大の恩恵を受ける銘柄として浮上し、ウォール街の評価が引き上げられている。ビッグテック企業を中心にAIデータセンターへの投資が増え、関連設備を担う企業への関心も高まっているためだ。原文によると、同社株は年初来で96％急騰した。MEP設備はデータセンター建設に必要な中核インフラと関係が深く、投資拡大が業績期待を押し上げる背景として挙げられている。今後はAIデータセンター投資の増加が続き、関連需要がどこまで持続するかが焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI数据中心受益股Comfort Systems年初以来大涨96%",
+        "excerpt": "Comfort Systems USA因AI数据中心投资扩大受到华尔街关注，作为相关受益股，其股价年初以来已上涨96%。",
+        "body": "专注于机械、电气和管道（MEP）设施的Comfort Systems USA，正因人工智能（AI）数据中心投资扩大而被视为受益股，华尔街对其评价也在上调。随着大型科技企业加大AI数据中心投资，负责相关基础设施的公司受到更多关注。原文称，Comfort Systems USA股价自年初以来已大涨96%。MEP设施与数据中心建设所需的核心基础设施密切相关，因此投资扩大被认为是推高业绩预期的背景。后续关键在于AI数据中心投资增长能否持续，以及相关需求能够延续多久。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Comfort Systems, favorecida por centros de datos de IA, sube 96% en el año",
+        "excerpt": "Comfort Systems USA gana atención en Wall Street por la expansión de la inversión en centros de datos de IA, con una acción que sube 96% en el año.",
+        "body": "Comfort Systems USA, empresa especializada en instalaciones mecánicas, eléctricas y de plomería, conocidas como MEP, está destacando como beneficiaria de la expansión de la inversión en centros de datos de inteligencia artificial. Las expectativas de Wall Street sobre la compañía se están elevando a medida que las grandes tecnológicas aumentan el gasto en centros de datos de IA, lo que impulsa el interés por firmas que proveen infraestructura relacionada. Según el informe original, la acción de Comfort Systems USA ha subido 96% desde comienzos de año. Las instalaciones MEP están ligadas a la infraestructura esencial para construir centros de datos, por lo que el ciclo de inversión respalda las expectativas de resultados. La perspectiva dependerá de cuánto continúe el crecimiento de esa inversión y de la demanda asociada. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Comfort Systems salta 96% no ano com impulso de data centers de IA",
+        "excerpt": "A Comfort Systems USA chama atenção em Wall Street com a expansão dos investimentos em data centers de IA, enquanto suas ações sobem 96% no ano.",
+        "body": "A Comfort Systems USA, especializada em sistemas mecânicos, elétricos e hidráulicos, conhecidos como MEP, vem sendo vista como beneficiária da expansão dos investimentos em data centers de inteligência artificial. As expectativas de Wall Street para a companhia estão sendo elevadas à medida que grandes empresas de tecnologia ampliam os gastos com data centers de IA, aumentando o interesse por fornecedores de infraestrutura relacionada. Segundo a reportagem original, as ações da Comfort Systems USA subiram 96% desde o início do ano. Os sistemas MEP estão ligados à infraestrutura essencial para a construção de data centers, o que ajuda a explicar a melhora nas expectativas de desempenho. O ponto central será saber por quanto tempo o investimento em data centers de IA e a demanda associada continuarão crescendo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Comfort Systems profitiert von KI-Rechenzentren: Aktie seit Jahresbeginn 96% höher",
+        "excerpt": "Comfort Systems USA rückt wegen steigender Investitionen in KI-Rechenzentren in den Fokus der Wall Street; die Aktie liegt seit Jahresbeginn 96% im Plus.",
+        "body": "Comfort Systems USA, ein Spezialist für mechanische, elektrische und sanitäre Anlagen, kurz MEP, wird zunehmend als Profiteur wachsender Investitionen in Rechenzentren für künstliche Intelligenz gesehen. Die Erwartungen der Wall Street an das Unternehmen steigen, da große Technologiekonzerne ihre Ausgaben für KI-Rechenzentren ausweiten und damit das Interesse an Anbietern entsprechender Infrastruktur erhöhen. Dem Originalbericht zufolge ist die Aktie von Comfort Systems USA seit Jahresbeginn um 96% gestiegen. MEP-Anlagen sind eng mit der grundlegenden Infrastruktur für den Bau von Rechenzentren verbunden, weshalb der Investitionsanstieg als Hintergrund für höhere Ergebniserwartungen genannt wird. Entscheidend bleibt, wie lange die Investitionen in KI-Rechenzentren und die damit verbundene Nachfrage anhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Comfort Systems, portée par les centres de données IA, grimpe de 96% cette année",
+        "excerpt": "Comfort Systems USA attire l’attention de Wall Street avec l’essor des investissements dans les centres de données IA, son action gagnant 96% depuis janvier.",
+        "body": "Comfort Systems USA, spécialiste des installations mécaniques, électriques et de plomberie, ou MEP, apparaît comme une bénéficiaire de l’expansion des investissements dans les centres de données dédiés à l’intelligence artificielle. Les attentes de Wall Street envers l’entreprise sont relevées alors que les grands groupes technologiques augmentent leurs dépenses dans les centres de données IA, ce qui renforce l’intérêt pour les fournisseurs d’infrastructures liées. Selon l’article original, l’action de Comfort Systems USA a bondi de 96% depuis le début de l’année. Les installations MEP sont étroitement liées aux infrastructures essentielles à la construction de centres de données, un facteur qui soutient les attentes de performance. La suite dépendra de la durée de la croissance des investissements dans les centres de données IA et de la demande associée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كومفورت سيستمز تستفيد من مراكز بيانات الذكاء الاصطناعي وتقفز 96% هذا العام",
+        "excerpt": "تحظى كومفورت سيستمز USA باهتمام وول ستريت مع توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي، وقفز سهمها 96% منذ بداية العام.",
+        "body": "تبرز كومفورت سيستمز USA، المتخصصة في أنظمة الميكانيكا والكهرباء والسباكة المعروفة باسم MEP، كإحدى الشركات المستفيدة من توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي. وترتفع تقديرات وول ستريت للشركة مع زيادة شركات التكنولوجيا الكبرى إنفاقها على مراكز بيانات الذكاء الاصطناعي، ما يعزز الاهتمام بالشركات التي توفر البنية التحتية المرتبطة بها. ووفق التقرير الأصلي، قفز سهم كومفورت سيستمز USA بنسبة 96% منذ بداية العام. وترتبط أنظمة MEP بالبنية الأساسية اللازمة لبناء مراكز البيانات، لذلك يعد اتساع الاستثمار عاملا وراء ارتفاع توقعات الأداء. وسيعتمد المسار المقبل على مدى استمرار نمو استثمارات مراكز بيانات الذكاء الاصطناعي والطلب المرتبط بها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI डेटा सेंटर लाभार्थी Comfort Systems के शेयर इस साल 96% उछले",
+        "excerpt": "Comfort Systems USA AI डेटा सेंटर निवेश बढ़ने से वॉल स्ट्रीट के फोकस में है, और उसके शेयर साल की शुरुआत से 96% चढ़ चुके हैं।",
+        "body": "मैकेनिकल, इलेक्ट्रिकल और प्लंबिंग यानी MEP प्रणालियों में विशेषज्ञ Comfort Systems USA कृत्रिम बुद्धिमत्ता डेटा सेंटर निवेश के विस्तार से लाभ पाने वाली कंपनी के रूप में उभर रही है। बड़ी टेक कंपनियों द्वारा AI डेटा सेंटर पर खर्च बढ़ाने के साथ वॉल स्ट्रीट में कंपनी को लेकर उम्मीदें ऊपर जा रही हैं, जिससे संबंधित इंफ्रास्ट्रक्चर उपलब्ध कराने वाली कंपनियों में रुचि बढ़ी है। मूल रिपोर्ट के अनुसार, Comfort Systems USA के शेयर साल की शुरुआत से 96% उछल चुके हैं। MEP प्रणालियां डेटा सेंटर निर्माण के लिए जरूरी बुनियादी ढांचे से सीधे जुड़ी हैं, इसलिए निवेश विस्तार को प्रदर्शन अपेक्षाओं में सुधार की वजह माना जा रहा है। आगे का फोकस इस पर रहेगा कि AI डेटा सेंटर निवेश की वृद्धि और उससे जुड़ी मांग कितनी देर तक जारी रहती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Comfort Systems Diuntungkan Data Center AI, Saham Melonjak 96% Tahun Ini",
+        "excerpt": "Comfort Systems USA menjadi sorotan Wall Street seiring perluasan investasi data center AI, dengan harga saham naik 96% sejak awal tahun.",
+        "body": "Comfort Systems USA, perusahaan spesialis sistem mekanikal, elektrikal, dan perpipaan atau MEP, semakin dipandang sebagai penerima manfaat dari perluasan investasi data center kecerdasan buatan. Ekspektasi Wall Street terhadap perusahaan ini meningkat karena perusahaan teknologi besar menambah investasi pada data center AI, sehingga perhatian pada penyedia infrastruktur terkait ikut menguat. Menurut laporan asli, saham Comfort Systems USA telah melonjak 96% sejak awal tahun. Sistem MEP berkaitan erat dengan infrastruktur inti yang dibutuhkan dalam pembangunan data center, sehingga perluasan investasi menjadi latar belakang meningkatnya harapan kinerja. Ke depan, fokusnya adalah apakah pertumbuhan investasi data center AI dan permintaan terkait dapat terus berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c5caf4ac7399",
+    "slug": "ai반도체-수혜를-받기-시작했다-기판업체-lg이노텍-매경-자이앤트-스톡커-987994",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T12:55:45.786Z",
+    "updatedAt": "2026-05-06T12:55:45.786Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12038098",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12038098",
+    "titleFingerprint": "6b84e0f64a987dd675366ae1153747e59cc5c51c",
+    "dedupKeys": [
+      "c5caf4ac7399c215041ca4bfafa305d31434b86e",
+      "6b84e0f64a987dd675366ae1153747e59cc5c51c",
+      "ea756dafd89e5e3dfe5d82d674f87af7e5380d67"
+    ],
+    "imageUrl": "/images/articles/c5caf4ac7399.png",
+    "i18n": {
+      "ko": {
+        "title": "LG이노텍, AI반도체 호황 수혜 기판업체로 주목",
+        "excerpt": "매일경제 증권부 홍순빈 기자가 매경 자이앤트-스톡커에서 AI반도체 호황 속 반도체기판 업체 LG이노텍과 삼성전기를 집중 분석했다.",
+        "body": "매일경제신문 증권부 홍순빈 기자는 매경 자이앤트-스톡커에서 AI반도체 호황을 누리고 있는 반도체기판 업체 LG이노텍과 삼성전기를 집중 분석했다. 이번 콘텐츠는 저서 ‘최소한의 주식투자’를 쓴 홍 기자가 진행한 분석으로, AI반도체 시장 확대가 관련 기판업체에 어떤 관심을 불러오는지 다뤘다. 원문 요약은 막대한 데이터 처리 수요와 AI반도체 호황을 배경으로 LG이노텍이 수혜를 받기 시작했다는 점을 제목에 내세웠다. 투자자들은 반도체기판 업체의 역할과 향후 시장 흐름을 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Innotek Draws Attention as AI Chip Boom Reaches Substrate Makers",
+        "excerpt": "Maeil Business reporter Hong Soon-bin analyzed LG Innotek and Samsung Electro-Mechanics on Giant Stocker as AI chip demand highlights semiconductor substrate firms.",
+        "body": "Hong Soon-bin, a securities desk reporter at Maeil Business Newspaper and author of ‘Minimum Stock Investment,’ analyzed semiconductor substrate companies LG Innotek and Samsung Electro-Mechanics on Maeil Business Giant Stocker. The segment focused on companies benefiting from the AI semiconductor boom and examined how rising interest in AI chips is drawing attention to related substrate makers. The original summary highlighted LG Innotek as a substrate company that has begun receiving benefits from the AI chip cycle. Investors may need to watch the role of semiconductor substrate firms and related market trends. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LGイノテック、AI半導体ブームの恩恵受ける基板企業として注目",
+        "excerpt": "毎日経済新聞の洪淳彬記者が、メギョン・ジャイアント・ストッカーでAI半導体好況下のLGイノテックとサムスン電機を分析した。",
+        "body": "毎日経済新聞証券部の洪淳彬記者は、メギョン・ジャイアント・ストッカーで、AI半導体ブームの恩恵を受けている半導体基板企業LGイノテックとサムスン電機を集中的に分析した。洪記者は『最小限の株式投資』の著者であり、今回の内容ではAI半導体市場の拡大が関連基板企業への関心につながっている点を取り上げた。原文の要約は、LGイノテックがAI半導体好況の恩恵を受け始めた基板企業であることを示している。投資家は半導体基板企業の役割と市場の流れを確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG Innotek受AI半导体热潮带动，基板企业受关注",
+        "excerpt": "《每日经济新闻》证券部记者洪淳彬在Maeil Giant Stocker中，重点分析了AI半导体景气下的LG Innotek和三星电机。",
+        "body": "《每日经济新闻》证券部记者洪淳彬在Maeil Giant Stocker节目中，重点分析了受AI半导体景气影响的半导体基板企业LG Innotek和三星电机。洪记者是《最低限度的股票投资》一书作者，本次分析围绕AI半导体市场扩大如何带动相关基板企业受到关注展开。原文摘要指出，LG Innotek作为基板企业，已开始受益于AI半导体热潮。投资者需要关注半导体基板企业在产业链中的作用以及相关市场走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Innotek gana foco como proveedor de sustratos ante auge de chips de IA",
+        "excerpt": "Hong Soon-bin, de Maeil Business, analizó en Giant Stocker a LG Innotek y Samsung Electro-Mechanics por el auge de semiconductores de IA.",
+        "body": "Hong Soon-bin, reportero de la sección de valores de Maeil Business Newspaper y autor de ‘Minimum Stock Investment’, analizó en Maeil Giant Stocker a las empresas de sustratos para semiconductores LG Innotek y Samsung Electro-Mechanics. El contenido se centró en compañías que están recibiendo atención por el auge de los semiconductores de IA y en cómo la expansión de ese mercado se relaciona con los fabricantes de sustratos. El resumen original destacó que LG Innotek ha comenzado a beneficiarse de esta tendencia. Los inversores deben observar el papel de estas empresas y la evolución del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "LG Innotek atrai atenção com alta dos chips de IA no setor de substratos",
+        "excerpt": "Hong Soon-bin, do Maeil Business, analisou no Giant Stocker LG Innotek e Samsung Electro-Mechanics em meio ao avanço dos semicondutores de IA.",
+        "body": "Hong Soon-bin, repórter da editoria de valores mobiliários do Maeil Business Newspaper e autor de ‘Minimum Stock Investment’, analisou no Maeil Giant Stocker as empresas de substratos para semicondutores LG Innotek e Samsung Electro-Mechanics. O conteúdo abordou companhias que recebem atenção com o boom dos semicondutores de IA e como a expansão desse mercado afeta o interesse por fabricantes de substratos. O resumo original destacou que a LG Innotek começou a se beneficiar dessa tendência. Investidores devem acompanhar o papel dessas empresas e o fluxo do mercado relacionado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Innotek rückt als Substratfirma im KI-Chip-Boom in den Fokus",
+        "excerpt": "Maeil-Business-Reporter Hong Soon-bin analysierte bei Giant Stocker LG Innotek und Samsung Electro-Mechanics im Umfeld des KI-Halbleiterbooms.",
+        "body": "Hong Soon-bin, Reporter des Wertpapierressorts der Maeil Business Newspaper und Autor von ‘Minimum Stock Investment’, analysierte bei Maeil Giant Stocker die Halbleitersubstrat-Unternehmen LG Innotek und Samsung Electro-Mechanics. Der Beitrag befasste sich mit Firmen, die durch den Boom bei KI-Halbleitern Aufmerksamkeit erhalten, und damit, wie die Ausweitung dieses Marktes relevante Substrathersteller betrifft. Die ursprüngliche Zusammenfassung stellte LG Innotek als ein Unternehmen heraus, das beginnt, von dieser Entwicklung zu profitieren. Anleger sollten die Rolle der Substratfirmen und die weitere Marktentwicklung prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Innotek attire l’attention avec l’essor des puces IA et des substrats",
+        "excerpt": "Hong Soon-bin, journaliste chez Maeil Business, a analysé dans Giant Stocker LG Innotek et Samsung Electro-Mechanics face au boom des semi-conducteurs IA.",
+        "body": "Hong Soon-bin, journaliste au service marchés de Maeil Business Newspaper et auteur de ‘Minimum Stock Investment’, a analysé dans Maeil Giant Stocker les fabricants de substrats pour semi-conducteurs LG Innotek et Samsung Electro-Mechanics. Le contenu s’est concentré sur les sociétés mises en avant par le boom des semi-conducteurs d’IA et sur la manière dont l’expansion de ce marché attire l’attention vers les fabricants de substrats. Le résumé original souligne que LG Innotek commence à bénéficier de cette tendance. Les investisseurs doivent suivre le rôle de ces entreprises et l’évolution du marché concerné. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إل جي إنوتك تحت الأنظار مع استفادة شركات الركائز من طفرة رقائق الذكاء الاصطناعي",
+        "excerpt": "حلل الصحفي هونغ سون-بين من Maeil Business في برنامج Giant Stocker شركتي LG Innotek وSamsung Electro-Mechanics وسط ازدهار أشباه موصلات الذكاء الاصطناعي.",
+        "body": "حلل هونغ سون-بين، صحفي قسم الأوراق المالية في Maeil Business Newspaper ومؤلف كتاب ‘Minimum Stock Investment’، في برنامج Maeil Giant Stocker شركتي ركائز أشباه الموصلات LG Innotek وSamsung Electro-Mechanics. وركز المحتوى على الشركات التي تحظى بالاهتمام مع طفرة أشباه موصلات الذكاء الاصطناعي، وعلى كيفية ارتباط توسع هذا السوق بصانعي الركائز. وأبرز ملخص النص الأصلي أن LG Innotek بدأت تتلقى فوائد من هذه الموجة. لذلك يحتاج المستثمرون إلى متابعة دور شركات ركائز أشباه الموصلات واتجاهات السوق المرتبطة بها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI चिप तेजी से LG Innotek पर फोकस, सब्सट्रेट कंपनियां चर्चा में",
+        "excerpt": "Maeil Business के रिपोर्टर Hong Soon-bin ने Giant Stocker में AI सेमीकंडक्टर तेजी के बीच LG Innotek और Samsung Electro-Mechanics का विश्लेषण किया।",
+        "body": "Maeil Business Newspaper के सिक्योरिटीज डेस्क रिपोर्टर और ‘Minimum Stock Investment’ के लेखक Hong Soon-bin ने Maeil Giant Stocker में सेमीकंडक्टर सब्सट्रेट कंपनियों LG Innotek और Samsung Electro-Mechanics का विश्लेषण किया। यह सामग्री उन कंपनियों पर केंद्रित थी जिन्हें AI सेमीकंडक्टर तेजी के कारण ध्यान मिल रहा है, और इसने बताया कि AI चिप बाजार का विस्तार संबंधित सब्सट्रेट निर्माताओं को कैसे चर्चा में ला रहा है। मूल सारांश ने LG Innotek को ऐसी सब्सट्रेट कंपनी बताया जो इस तेजी से लाभ पाना शुरू कर रही है। निवेशकों को इन कंपनियों की भूमिका और बाजार प्रवाह पर नजर रखनी चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "LG Innotek Disorot Saat Produsen Substrat Mulai Terdorong Boom Chip AI",
+        "excerpt": "Reporter Maeil Business Hong Soon-bin menganalisis LG Innotek dan Samsung Electro-Mechanics di Giant Stocker di tengah boom semikonduktor AI.",
+        "body": "Hong Soon-bin, reporter desk sekuritas Maeil Business Newspaper dan penulis ‘Minimum Stock Investment’, menganalisis perusahaan substrat semikonduktor LG Innotek dan Samsung Electro-Mechanics di Maeil Giant Stocker. Konten ini menyoroti perusahaan yang mendapat perhatian karena boom semikonduktor AI, serta bagaimana perluasan pasar AI chip berkaitan dengan produsen substrat. Ringkasan asli menampilkan LG Innotek sebagai perusahaan substrat yang mulai menerima manfaat dari tren tersebut. Investor perlu mencermati peran perusahaan substrat semikonduktor dan arah pasar terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "ceb768e66e9c",
     "slug": "센트로이드-더피플라이프-품는다-263916",
     "channelId": "STOCKS",
@@ -690,7 +915,7 @@
       "6eb4927f2ac8fce412c8dbe4cce51a3852f2884c",
       "c238146b595d6a65b46f6e022d128f5f10f451f6"
     ],
-    "imageUrl": "/images/articles/509cdecc93c0.jpg",
+    "imageUrl": "",
     "i18n": {
       "ko": {
         "title": "코스피 7400 돌파, 반도체 랠리에 1만피 기대감까지 확산",
@@ -765,7 +990,7 @@
       "803a13e8f4797acd639e9618d6efc2fcb2c4f94d",
       "73a11f0b0db759fd1542f9b5240f7898186acf6b"
     ],
-    "imageUrl": "/images/articles/610754092272.jpg",
+    "imageUrl": "",
     "i18n": {
       "ko": {
         "title": "코스피 7000 돌파 눈앞, 공매도 잔고 20조 사상 최대 속 현대차 1위",
@@ -840,7 +1065,7 @@
       "345d155ca470ccc7c1ef830784c6a945a9b1ae11",
       "c22ba3948decd4e753d3aba925fbfaaaf74a0941"
     ],
-    "imageUrl": "/images/articles/65542bb9b44c.jpg",
+    "imageUrl": "",
     "i18n": {
       "ko": {
         "title": "외국인 몰려온 한국 증시, 코인 투자자 관심도 코스피로 이동",
@@ -915,7 +1140,7 @@
       "e5c40617c69c4be29b0701dae2c20f32be175798",
       "307852029618000f319e10ce2e39e63b0a0c3c99"
     ],
-    "imageUrl": "/images/articles/b9e56c0c454d.jpg",
+    "imageUrl": "",
     "i18n": {
       "ko": {
         "title": "코스피 7,000 돌파, 삼성전자·SK하이닉스 강세에 시장 주목",
@@ -990,7 +1215,7 @@
       "99d1292275feb1b3d79f0773e111d0e71a70f698",
       "4827a86c0399e244217087e32f591dd7b96cc9f2"
     ],
-    "imageUrl": "/images/articles/a85734db530f.jpg",
+    "imageUrl": "",
     "i18n": {
       "ko": {
         "title": "코스피 7,000 돌파, 외국인 이틀간 6조원 순매수와 삼전·SK하이닉스 집중 매수",
@@ -1065,7 +1290,7 @@
       "65e90976e14aeb27e3db7400c2028ba1670884f6",
       "dfbb5ccc521ec3a55f3ea3e258f90abc5d21ec00"
     ],
-    "imageUrl": "/images/articles/7a8fdf8965c6.jpg",
+    "imageUrl": "",
     "i18n": {
       "ko": {
         "title": "코스피 7천 시대 공포지수 급등, 공매도 잔고 20조 돌파",
