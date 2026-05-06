@@ -1,5 +1,230 @@
 [
   {
+    "id": "3d78b8b7b9d1",
+    "slug": "삼성전자-25만원sk하이닉스-160만원-터치나란히-신고가-219478",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T21:20:18.207Z",
+    "updatedAt": "2026-05-06T21:20:18.207Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037053",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037053",
+    "titleFingerprint": "01db766d7b84b7077e8c6e9e7dc6094a356d91b7",
+    "dedupKeys": [
+      "3d78b8b7b9d1f9333da83eed8ab4b2f8bb60f4f5",
+      "01db766d7b84b7077e8c6e9e7dc6094a356d91b7",
+      "fe011aaf5e7fb82ef2920ae68c9142cd1a8b13dd"
+    ],
+    "imageUrl": "/images/articles/3d78b8b7b9d1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 25만원·SK하이닉스 160만원 터치, 반도체 투톱 신고가",
+        "excerpt": "삼성전자와 SK하이닉스가 6일 장 초반 나란히 8%대 급등하며 각각 25만원, 160만원을 터치했다. 미국 증시 훈풍과 반도체 업황 개선 기대가 국내 증시를 끌어올렸다.",
+        "body": "6일 장 초반 국내 증시에서 ‘반도체 투톱’ 삼성전자와 SK하이닉스가 나란히 8%대 급등하며 신고가를 경신했다. 삼성전자는 25만원, SK하이닉스는 160만원을 터치하며 시장의 관심을 모았다. 이번 상승은 미국 증시의 훈풍과 글로벌 반도체 업황 개선 기대가 맞물린 결과로 풀이된다. 두 대형 반도체주의 강세는 국내 증시 전반을 끌어올리는 요인으로 작용했다. 반도체 업황 회복 기대가 이어질 경우 관련 대형주의 주가 흐름과 국내 증시 방향성에 대한 관심도 커질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Touches 250,000 Won, SK Hynix Hits 1.6 Million Won",
+        "excerpt": "Samsung Electronics and SK Hynix jumped more than 8% early on May 6, touching 250,000 won and 1.6 million won respectively, as U.S. market strength and chip-sector hopes lifted Korean stocks.",
+        "body": "In early trading on May 6, South Korea’s two leading semiconductor stocks, Samsung Electronics and SK Hynix, both surged by more than 8% and reached record highs. Samsung Electronics touched 250,000 won, while SK Hynix reached 1.6 million won, drawing strong market attention. The rise came as positive momentum from the U.S. stock market combined with expectations for improvement in the global semiconductor industry. The strength in the two major chip names helped lift the broader domestic stock market. If expectations for a chip-sector recovery continue, investors are likely to keep watching these large-cap stocks and the direction of Korean equities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子25万ウォン、SKハイニックス160万ウォンに到達",
+        "excerpt": "サムスン電子とSKハイニックスは6日の取引序盤にそろって8%台急騰し、それぞれ25万ウォン、160万ウォンを付けた。米国株高と半導体市況改善期待が韓国株を押し上げた。",
+        "body": "6日の韓国株式市場の取引序盤で、「半導体ツートップ」とされるサムスン電子とSKハイニックスがそろって8%台急騰し、過去最高値を更新した。サムスン電子は25万ウォン、SKハイニックスは160万ウォンに到達し、市場の注目を集めた。今回の上昇は、米国株式市場の追い風と世界的な半導体市況改善への期待が重なった結果と受け止められている。大型半導体株2銘柄の強さは、韓国株式市場全体を押し上げる要因となった。半導体市況回復への期待が続けば、関連大型株の値動きと韓国株の方向性への関心も高まりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子触及25万韩元，SK海力士升至160万韩元创新高",
+        "excerpt": "5月6日早盘，三星电子和SK海力士双双大涨逾8%，分别触及25万韩元和160万韩元。美国股市暖风与全球半导体景气改善预期提振韩国股市。",
+        "body": "5月6日早盘，韩国股市中被称为“半导体双巨头”的三星电子和SK海力士双双大涨逾8%，并刷新历史高点。三星电子触及25万韩元，SK海力士升至160万韩元，吸引市场关注。此次上涨被认为是美国股市向好与全球半导体行业景气改善预期共同作用的结果。两大半导体权重股走强，也成为推动韩国整体股市上行的因素。若半导体行业复苏预期延续，相关大型股走势以及韩国股市方向将继续受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics toca 250.000 wones y SK Hynix llega a 1,6 millones",
+        "excerpt": "Samsung Electronics y SK Hynix subieron más de un 8% al inicio de la sesión del 6 de mayo, tocando 250.000 y 1,6 millones de wones, impulsadas por Wall Street y expectativas del sector chip.",
+        "body": "Al inicio de la sesión del 6 de mayo, las dos grandes acciones surcoreanas de semiconductores, Samsung Electronics y SK Hynix, subieron más de un 8% y marcaron nuevos máximos. Samsung Electronics tocó los 250.000 wones, mientras que SK Hynix alcanzó los 1,6 millones de wones, concentrando la atención del mercado. El avance se produjo por la combinación del buen tono de la bolsa estadounidense y las expectativas de mejora en la industria global de semiconductores. La fortaleza de ambos grandes valores del sector ayudó a impulsar al conjunto del mercado surcoreano. Si continúan las expectativas de recuperación del ciclo de chips, aumentará el interés por estas acciones de gran capitalización y por la dirección de la bolsa local. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics toca 250 mil won e SK Hynix chega a 1,6 milhão",
+        "excerpt": "Samsung Electronics e SK Hynix avançaram mais de 8% no início do pregão de 6 de maio, tocando 250 mil e 1,6 milhão de won, com apoio de Wall Street e expectativas para semicondutores.",
+        "body": "No início do pregão de 6 de maio, as duas principais ações sul-coreanas de semicondutores, Samsung Electronics e SK Hynix, subiram mais de 8% e renovaram máximas. A Samsung Electronics tocou 250 mil won, enquanto a SK Hynix chegou a 1,6 milhão de won, atraindo atenção do mercado. O movimento refletiu a combinação do bom desempenho do mercado acionário dos Estados Unidos com expectativas de melhora no setor global de semicondutores. A força das duas grandes empresas de chips ajudou a impulsionar a bolsa sul-coreana como um todo. Se as expectativas de recuperação do setor continuarem, os investidores devem acompanhar de perto essas ações de grande porte e a direção do mercado local. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics bei 250.000 Won, SK Hynix bei 1,6 Mio. Won",
+        "excerpt": "Samsung Electronics und SK Hynix stiegen am 6. Mai im frühen Handel jeweils um mehr als 8% und erreichten 250.000 Won bzw. 1,6 Mio. Won. Rückenwind aus den USA und Chip-Hoffnungen hoben Koreas Markt.",
+        "body": "Im frühen Handel am 6. Mai legten die beiden führenden südkoreanischen Halbleiterwerte Samsung Electronics und SK Hynix jeweils um mehr als 8% zu und erreichten neue Höchststände. Samsung Electronics berührte 250.000 Won, während SK Hynix auf 1,6 Mio. Won stieg und damit die Aufmerksamkeit des Marktes auf sich zog. Der Anstieg wurde durch positive Impulse vom US-Aktienmarkt und Erwartungen einer Verbesserung der globalen Halbleiterbranche begünstigt. Die Stärke der beiden großen Chipwerte trug dazu bei, den breiteren südkoreanischen Aktienmarkt nach oben zu ziehen. Halten die Erholungserwartungen für die Branche an, dürften die Kursentwicklung dieser Schwergewichte und die Richtung des koreanischen Marktes im Fokus bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics touche 250 000 wons, SK Hynix atteint 1,6 million",
+        "excerpt": "Samsung Electronics et SK Hynix ont bondi de plus de 8% en début de séance le 6 mai, touchant 250 000 wons et 1,6 million de wons, soutenus par Wall Street et l’espoir sur les semi-conducteurs.",
+        "body": "En début de séance le 6 mai, les deux principaux titres sud-coréens des semi-conducteurs, Samsung Electronics et SK Hynix, ont bondi de plus de 8% et inscrit de nouveaux plus hauts. Samsung Electronics a touché 250 000 wons, tandis que SK Hynix a atteint 1,6 million de wons, attirant l’attention du marché. Cette hausse s’explique par la combinaison du climat favorable à Wall Street et des attentes d’amélioration de la conjoncture mondiale des semi-conducteurs. La vigueur de ces deux grandes valeurs du secteur a contribué à soutenir l’ensemble du marché boursier sud-coréen. Si les attentes de reprise du secteur se maintiennent, l’évolution de ces grandes capitalisations et l’orientation de la Bourse coréenne resteront suivies de près. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس تلامس 250 ألف وون وSK هاينكس تبلغ 1.6 مليون",
+        "excerpt": "قفزت سامسونغ إلكترونيكس وSK هاينكس بأكثر من 8% في بداية تداولات 6 مايو، لتلامسا 250 ألف و1.6 مليون وون، بدعم من قوة الأسهم الأميركية وتوقعات تحسن أشباه الموصلات.",
+        "body": "في بداية تداولات 6 مايو، ارتفع سهما سامسونغ إلكترونيكس وSK هاينكس، وهما أبرز شركتين كوريتين في قطاع أشباه الموصلات، بأكثر من 8% وسجلا مستويات قياسية جديدة. لامست سامسونغ إلكترونيكس مستوى 250 ألف وون، بينما بلغت SK هاينكس 1.6 مليون وون، ما جذب اهتمام السوق. وجاء الصعود نتيجة تلاقي الزخم الإيجابي في سوق الأسهم الأميركية مع توقعات تحسن أوضاع قطاع أشباه الموصلات عالميا. وأسهمت قوة السهمين الكبيرين في دفع السوق الكورية الأوسع إلى الارتفاع. وإذا استمرت توقعات تعافي القطاع، فمن المرجح أن تبقى تحركات هذه الأسهم الكبرى واتجاه السوق الكورية محل متابعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics 250,000 वॉन पर, SK Hynix 1.6 मिलियन वॉन तक पहुंचा",
+        "excerpt": "Samsung Electronics और SK Hynix ने 6 मई की शुरुआती ट्रेडिंग में 8% से अधिक छलांग लगाई और क्रमशः 250,000 वॉन तथा 1.6 मिलियन वॉन को छुआ। अमेरिकी बाजार और चिप सेक्टर की उम्मीदों ने कोरियाई शेयरों को उठाया।",
+        "body": "6 मई की शुरुआती ट्रेडिंग में दक्षिण कोरिया के दो प्रमुख सेमीकंडक्टर शेयर, Samsung Electronics और SK Hynix, 8% से अधिक चढ़े और नए उच्च स्तर पर पहुंचे। Samsung Electronics ने 250,000 वॉन को छुआ, जबकि SK Hynix 1.6 मिलियन वॉन तक पहुंचा, जिससे बाजार का ध्यान इन शेयरों पर गया। यह तेजी अमेरिकी शेयर बाजार की मजबूती और वैश्विक सेमीकंडक्टर उद्योग में सुधार की उम्मीदों के मेल से आई। दोनों बड़े चिप शेयरों की मजबूती ने व्यापक घरेलू शेयर बाजार को ऊपर उठाने में मदद की। यदि सेमीकंडक्टर क्षेत्र में सुधार की उम्मीद बनी रहती है, तो इन बड़े शेयरों की चाल और कोरियाई बाजार की दिशा पर नजर बनी रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics Sentuh 250.000 Won, SK Hynix Tembus 1,6 Juta Won",
+        "excerpt": "Samsung Electronics dan SK Hynix melonjak lebih dari 8% pada awal perdagangan 6 Mei, masing-masing menyentuh 250.000 won dan 1,6 juta won, didorong sentimen Wall Street dan harapan sektor chip.",
+        "body": "Pada awal perdagangan 6 Mei, dua saham utama semikonduktor Korea Selatan, Samsung Electronics dan SK Hynix, sama-sama melonjak lebih dari 8% dan mencetak rekor tertinggi baru. Samsung Electronics menyentuh 250.000 won, sementara SK Hynix mencapai 1,6 juta won, menarik perhatian pasar. Kenaikan ini dipandang terjadi karena sentimen positif dari pasar saham Amerika Serikat berpadu dengan harapan membaiknya industri semikonduktor global. Penguatan dua saham chip berkapitalisasi besar itu ikut mengangkat pasar saham domestik secara lebih luas. Jika harapan pemulihan sektor semikonduktor berlanjut, pergerakan saham-saham besar terkait dan arah pasar Korea akan tetap menjadi fokus. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "846cb9fed869",
+    "slug": "떨어질-때마다-물-타던-비트코인-대부18조-손실에-잘못-생각했다-843257",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T21:19:15.990Z",
+    "updatedAt": "2026-05-06T21:19:15.991Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037073",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037073",
+    "titleFingerprint": "b71d911e58f0c9bdc94d5d450dc03008340c8d50",
+    "dedupKeys": [
+      "846cb9fed86909c0965d477b3c1fc424a0abbf2b",
+      "b71d911e58f0c9bdc94d5d450dc03008340c8d50",
+      "614d668d0e1860f7f537533f7b55e0af31652315"
+    ],
+    "imageUrl": "/images/articles/846cb9fed869.png",
+    "i18n": {
+      "ko": {
+        "title": "비트코인 대부 세일러, 18조 손실에 전략 수정 시사",
+        "excerpt": "비트코인 하락으로 실적 전망에 먹구름이 낀 가운데 세일러가 기존 맹신에서 벗어나 유연해지겠다고 밝히며 보유 전략 변화 가능성을 내비쳤다.",
+        "body": "비트코인 하락세가 이어지면서 ‘비트코인 대부’로 불리는 세일러의 투자 전략과 실적 전망에 부담이 커졌다. 원문에 따르면 세일러는 18조원 규모 손실을 두고 “잘못 생각했다”는 취지로 언급하며, 맹신에서 벗어나 더 유연해지겠다고 밝혔다. 그는 평균 매입가 7만5500달러 수준의 비트코인 81만개를 보유한 것으로 전해졌다. 고배당 상품 STRC는 연 11.5% 배당을 내세우며 배당 주기를 월 2회로 조정했다. 관련 주가는 시간외 거래에서 4%대 움직임을 보였다. 비트코인 가격 변동이 보유 자산 가치와 투자 심리에 직접 영향을 주는 만큼 향후 전략 조정 여부가 시장의 관심사로 남아 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Bitcoin backer Saylor signals shift after 18 trillion won loss",
+        "excerpt": "As Bitcoin’s decline clouds earnings prospects, Saylor said he would move away from blind conviction and become more flexible, hinting at a possible strategy shift.",
+        "body": "As Bitcoin continued to fall, pressure grew on the investment strategy and earnings outlook of Saylor, often described as a major Bitcoin backer. According to the original report, Saylor addressed a loss of about 18 trillion won and said in effect that he had “thought wrongly,” adding that he would move away from blind belief and become more flexible. He is reported to hold 810,000 bitcoins at an average purchase price of $75,500. The high-dividend STRC product, offering an annual 11.5% payout, adjusted its dividend schedule to twice a month. Related shares moved by around 4% in after-hours trading. Because Bitcoin price swings directly affect asset value and investor sentiment, whether the strategy changes remains a market focus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ビットコインの後ろ盾セイラー氏、18兆ウォン損失で戦略修正示唆",
+        "excerpt": "ビットコイン下落で業績見通しに不透明感が広がる中、セイラー氏は盲信から離れ柔軟になると述べ、保有戦略の変化を示唆した。",
+        "body": "ビットコインの下落が続くなか、「ビットコインの大物」とされるセイラー氏の投資戦略と業績見通しへの負担が強まっている。原文によると、セイラー氏は18兆ウォン規模の損失について「考えが間違っていた」との趣旨で言及し、盲信から抜け出してより柔軟になると述べた。同氏は平均取得価格7万5500ドル水準のビットコインを81万枚保有していると伝えられた。高配当商品STRCは年11.5%の配当を掲げ、配当頻度を月2回に調整した。関連株価は時間外取引で4%台の動きを見せた。ビットコイン価格の変動が保有資産価値と投資心理に直接影響するため、今後の戦略修正の有無が市場の関心事となっている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "比特币支持者塞勒18万亿韩元亏损后暗示调整策略",
+        "excerpt": "随着比特币下跌令业绩前景承压，塞勒表示将摆脱盲目信念、变得更灵活，暗示其持有策略可能出现变化。",
+        "body": "随着比特币持续下跌，被称为“比特币大佬”的塞勒其投资策略和业绩前景承受更大压力。原文称，塞勒在谈到约18万亿韩元规模的亏损时表示，自己此前“想错了”，并称将摆脱盲信、变得更加灵活。据报道，他持有81万枚比特币，平均买入价约为7.55万美元。高股息产品STRC主打年化11.5%的股息，并将派息频率调整为每月两次。相关股票在盘后交易中出现约4%的波动。由于比特币价格变化会直接影响持有资产价值和投资情绪，后续策略是否调整仍是市场关注焦点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Saylor, referente de Bitcoin, sugiere giro tras pérdida de 18 billones de wones",
+        "excerpt": "La caída de Bitcoin ensombrece las perspectivas de resultados y Saylor afirmó que dejará atrás la fe ciega para actuar con más flexibilidad.",
+        "body": "La caída sostenida de Bitcoin elevó la presión sobre la estrategia de inversión y las perspectivas de resultados de Saylor, descrito como un referente de Bitcoin. Según el texto original, Saylor se refirió a una pérdida de unos 18 billones de wones y dijo, en esencia, que había “pensado mal”, añadiendo que dejaría la fe ciega y sería más flexible. Se informó que posee 810.000 bitcoins a un precio medio de compra de 75.500 dólares. El producto de alto dividendo STRC, con una rentabilidad anual del 11,5%, ajustó su calendario de pagos a dos veces al mes. Las acciones relacionadas se movieron alrededor de un 4% en operaciones fuera de horario. Dado que las variaciones de Bitcoin afectan directamente el valor de los activos y el ánimo inversor, el posible ajuste de estrategia sigue bajo atención del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Saylor, nome forte do Bitcoin, sinaliza mudança após perda de 18 trilhões de wons",
+        "excerpt": "Com a queda do Bitcoin pesando sobre as perspectivas de resultados, Saylor disse que deixará a crença rígida e adotará uma postura mais flexível.",
+        "body": "A queda contínua do Bitcoin aumentou a pressão sobre a estratégia de investimento e as perspectivas de resultados de Saylor, apontado como um grande nome do Bitcoin. Segundo o texto original, Saylor comentou uma perda de cerca de 18 trilhões de wons e disse, em essência, que havia “pensado de forma errada”, acrescentando que deixaria a crença cega e seria mais flexível. Ele teria 810.000 bitcoins, com preço médio de compra de US$ 75.500. O produto de alto dividendo STRC, com pagamento anual de 11,5%, ajustou a distribuição para duas vezes por mês. As ações relacionadas oscilaram cerca de 4% no after-market. Como a variação do preço do Bitcoin afeta diretamente o valor dos ativos e o sentimento dos investidores, uma possível revisão da estratégia segue no foco do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Bitcoin-Befürworter Saylor deutet nach 18 Billionen Won Verlust Kurswechsel an",
+        "excerpt": "Der Bitcoin-Rückgang belastet die Ergebnisperspektiven, während Saylor ankündigt, sich von blindem Vertrauen zu lösen und flexibler zu handeln.",
+        "body": "Der anhaltende Rückgang von Bitcoin erhöht den Druck auf die Anlagestrategie und die Ergebnisaussichten von Saylor, der als wichtiger Bitcoin-Befürworter gilt. Laut dem Ausgangsbericht äußerte sich Saylor zu einem Verlust von rund 18 Billionen Won und sagte sinngemäß, er habe „falsch gedacht“. Zugleich kündigte er an, sich von blindem Glauben zu lösen und flexibler zu werden. Berichtet wird, dass er 810.000 Bitcoin zu einem durchschnittlichen Kaufpreis von 75.500 Dollar hält. Das hochverzinsliche Produkt STRC, das eine jährliche Ausschüttung von 11,5% bietet, stellte den Dividendenrhythmus auf zweimal monatlich um. Die entsprechenden Aktien bewegten sich im nachbörslichen Handel um rund 4%. Da Bitcoin-Schwankungen den Wert der Bestände und die Anlegerstimmung direkt beeinflussen, bleibt eine mögliche Strategieanpassung im Blick des Marktes. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Saylor, figure du Bitcoin, évoque un virage après 18 billions de wons de pertes",
+        "excerpt": "La baisse du Bitcoin assombrit les perspectives de résultats, tandis que Saylor dit vouloir quitter la croyance aveugle et agir avec plus de flexibilité.",
+        "body": "La poursuite de la baisse du Bitcoin accroît la pression sur la stratégie d’investissement et les perspectives de résultats de Saylor, présenté comme une figure majeure du Bitcoin. Selon le texte original, Saylor a évoqué une perte d’environ 18 billions de wons et a indiqué, en substance, qu’il avait “mal pensé”, ajoutant qu’il voulait sortir d’une croyance aveugle et devenir plus flexible. Il détiendrait 810.000 bitcoins à un prix moyen d’achat de 75.500 dollars. Le produit à haut dividende STRC, qui met en avant un rendement annuel de 11,5%, a ajusté son rythme de versement à deux fois par mois. Les actions liées ont évolué d’environ 4% dans les échanges après clôture. Comme les variations du Bitcoin influencent directement la valeur des actifs détenus et le sentiment des investisseurs, une éventuelle adaptation de stratégie reste surveillée par le marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سايلور داعم بيتكوين يلمح لتعديل الاستراتيجية بعد خسارة 18 تريليون وون",
+        "excerpt": "مع تراجع بيتكوين وتزايد الضبابية حول توقعات الأرباح، قال سايلور إنه سيتخلى عن الإيمان المطلق ويتحرك بمرونة أكبر.",
+        "body": "مع استمرار تراجع بيتكوين، زاد الضغط على استراتيجية الاستثمار وتوقعات الأداء لدى سايلور، الذي يوصف بأنه من أبرز داعمي بيتكوين. وبحسب النص الأصلي، تحدث سايلور عن خسارة تقارب 18 تريليون وون وقال بما معناه إنه “كان يفكر بشكل خاطئ”، مضيفا أنه سيتجاوز الإيمان الأعمى ويصبح أكثر مرونة. وورد أنه يمتلك 810 آلاف بيتكوين بمتوسط سعر شراء يبلغ 75,500 دولار. أما منتج STRC عالي التوزيعات، الذي يطرح عائدا سنويا قدره 11.5%، فقد عدل وتيرة التوزيع إلى مرتين شهريا. وتحركت الأسهم المرتبطة به بنحو 4% في تداولات ما بعد الإغلاق. وبما أن تقلب سعر بيتكوين يؤثر مباشرة في قيمة الأصول ومعنويات المستثمرين، فإن احتمال تعديل الاستراتيجية يبقى محل اهتمام السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "बिटकॉइन समर्थक सेलर ने 18 ट्रिलियन वॉन नुकसान के बाद रणनीति बदलाव के संकेत दिए",
+        "excerpt": "बिटकॉइन में गिरावट से आय 전망 पर दबाव बढ़ा है और सेलर ने कहा कि वे अंधविश्वास से हटकर अधिक लचीला रुख अपनाएंगे।",
+        "body": "बिटकॉइन में लगातार गिरावट से सेलर की निवेश रणनीति और आय 전망 पर दबाव बढ़ गया है, जिन्हें बिटकॉइन के प्रमुख समर्थक के रूप में देखा जाता है। मूल रिपोर्ट के अनुसार, सेलर ने लगभग 18 ट्रिलियन वॉन के नुकसान पर कहा कि उन्होंने “गलत सोचा था” और जोड़ा कि वे अंधविश्वास से बाहर निकलकर अधिक लचीले होंगे। बताया गया कि उनके पास 75,500 डॉलर के औसत खरीद मूल्य पर 810,000 बिटकॉइन हैं। उच्च लाभांश उत्पाद STRC, जो सालाना 11.5% भुगतान पेश करता है, ने लाभांश चक्र को महीने में दो बार कर दिया। संबंधित शेयरों में आफ्टर-आवर्स ट्रेडिंग में लगभग 4% की हलचल रही। क्योंकि बिटकॉइन की कीमत में बदलाव सीधे होल्डिंग के मूल्य और निवेशक धारणा को प्रभावित करता है, इसलिए आगे की रणनीति में बदलाव बाजार के लिए अहम मुद्दा बना हुआ है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pendukung Bitcoin Saylor isyaratkan ubah strategi usai rugi 18 triliun won",
+        "excerpt": "Penurunan Bitcoin membayangi prospek kinerja, sementara Saylor mengatakan akan keluar dari keyakinan buta dan menjadi lebih fleksibel.",
+        "body": "Penurunan Bitcoin yang berlanjut menambah tekanan pada strategi investasi dan prospek kinerja Saylor, yang dikenal sebagai salah satu pendukung utama Bitcoin. Menurut teks asli, Saylor menyinggung kerugian sekitar 18 triliun won dan mengatakan pada intinya bahwa ia “berpikir keliru”, sambil menyatakan akan keluar dari keyakinan buta dan menjadi lebih fleksibel. Ia dilaporkan memegang 810.000 bitcoin dengan harga beli rata-rata 75.500 dolar AS. Produk dividen tinggi STRC, yang menawarkan imbal hasil tahunan 11,5%, menyesuaikan jadwal dividen menjadi dua kali sebulan. Saham terkait bergerak sekitar 4% dalam perdagangan setelah jam bursa. Karena perubahan harga Bitcoin langsung memengaruhi nilai aset dan sentimen investor, kemungkinan penyesuaian strategi tetap menjadi perhatian pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0041f4bf291c",
+    "slug": "하이닉스-40-담았다더니경고-먹어도-지르고-보는-etf-과장-광고-787854",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T21:18:10.164Z",
+    "updatedAt": "2026-05-06T21:18:10.164Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12038530",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038530",
+    "titleFingerprint": "f5f41daae2750a99b073485f021103a52ea936e8",
+    "dedupKeys": [
+      "0041f4bf291c8ce6aecf9f9fdfef0e99b1f3854e",
+      "f5f41daae2750a99b073485f021103a52ea936e8",
+      "c1d5085f26d342dca881f6fbc1c8f33514c87a92"
+    ],
+    "imageUrl": "/images/articles/0041f4bf291c.png",
+    "i18n": {
+      "ko": {
+        "title": "ETF 과장 광고 논란, 하이닉스 비중·스페이스X 편입 홍보 도마",
+        "excerpt": "신한 ‘AI반도체톱2플러스’와 하나 ‘우주 항공 ETF’ 광고가 하이닉스 비중과 스페이스X 편입을 앞세운 홍보로 논란이 되며 당국 점검 대상에 올랐다.",
+        "body": "국내 ETF 시장에서 일부 운용사의 상품 광고가 실제 투자 비중이나 편입 내용을 과도하게 부각했다는 논란이 제기됐다. 신한자산운용의 ‘AI반도체톱2플러스’는 SK하이닉스 비중을 크게 담은 것처럼 홍보한 점이 문제로 거론됐고, 하나자산운용의 ‘우주 항공 ETF’는 스페이스X를 편입했다는 점을 앞세워 투자자 관심을 끌었다. 원문은 직장인 투자자 사례를 통해 ETF 광고 문구가 상품 구조를 충분히 이해하지 못한 투자자에게 영향을 줄 수 있다고 전했다. 금융당국은 이런 ETF 광고를 ‘집중 점검 대상’으로 지목했다. 향후 ETF 판매와 홍보 과정에서 편입 비중, 기초지수, 실제 투자 대상에 대한 설명 책임이 더 엄격해질 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "ETF Ad Controversy Puts Hynix Weighting and SpaceX Promotion Under Scrutiny",
+        "excerpt": "Ads for Shinhan’s AI Semiconductor Top 2 Plus and Hana’s space aviation ETF drew scrutiny over promotions highlighting Hynix exposure and SpaceX inclusion.",
+        "body": "A controversy has emerged in South Korea’s ETF market over whether some asset managers’ product ads overstated actual holdings or investment exposure. Shinhan Asset Management’s ‘AI Semiconductor Top 2 Plus’ was cited for promotional wording that made its SK Hynix weighting appear especially large, while Hana Asset Management’s space aviation ETF drew attention by stressing that it included SpaceX. The original report used the case of an office worker investor to show how ETF advertising language can influence investors who may not fully understand a product’s structure. Financial authorities identified such ETF ads as a target for intensive inspection. Going forward, explanations of holding ratios, underlying indexes and actual investment targets in ETF sales and promotion may face stricter scrutiny. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ETF誇大広告問題、ハイニックス比率とスペースX組み入れ宣伝に焦点",
+        "excerpt": "新韓の「AI半導体トップ2プラス」とハナの宇宙航空ETFが、ハイニックス比率やスペースX組み入れを強調した宣伝で当局の点検対象となった。",
+        "body": "韓国のETF市場で、一部運用会社の商品広告が実際の投資比率や組み入れ内容を過度に強調したとの議論が浮上した。新韓資産運用の「AI半導体トップ2プラス」は、SKハイニックスの比率を大きく組み入れたかのように宣伝した点が問題視され、ハナ資産運用の宇宙航空ETFはスペースXを組み入れた点を前面に出して投資家の関心を集めた。原文は会社員投資家の事例を通じ、ETF広告の文言が商品構造を十分に理解していない投資家に影響し得ると伝えた。金融当局はこうしたETF広告を「集中点検対象」に指定した。今後、ETFの販売・宣伝では組み入れ比率、基礎指数、実際の投資対象に関する説明責任がより厳しくなる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "ETF夸大广告争议升温，海力士权重与SpaceX纳入宣传受关注",
+        "excerpt": "新韩“AI半导体Top2 Plus”和韩亚宇宙航空ETF因突出宣传海力士权重及纳入SpaceX，被监管部门列为重点检查对象。",
+        "body": "韩国ETF市场出现争议，部分资管公司的产品广告被指过度突出实际投资权重或纳入内容。新韩资产运用的“AI半导体Top2 Plus”因宣传语让人感觉SK海力士占比较高而受到关注，韩亚资产运用的宇宙航空ETF则以纳入SpaceX为卖点吸引投资者。原文通过一名上班族投资者的案例指出，ETF广告措辞可能影响尚未充分理解产品结构的投资者。金融监管部门已将此类ETF广告列为“重点检查对象”。未来，在ETF销售和宣传过程中，关于持仓比例、基础指数以及实际投资对象的说明责任可能会更严格。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Publicidad exagerada de ETF: pesan Hynix y la promoción de SpaceX",
+        "excerpt": "Los anuncios del ETF AI Semiconductor Top 2 Plus de Shinhan y del ETF espacial de Hana quedaron bajo revisión por destacar Hynix y la inclusión de SpaceX.",
+        "body": "En el mercado surcoreano de ETF surgió una polémica por anuncios de algunas gestoras que habrían resaltado en exceso el peso real de inversión o los activos incluidos. El ‘AI Semiconductor Top 2 Plus’ de Shinhan Asset Management fue señalado por promocionar su exposición a SK Hynix como si tuviera un peso elevado, mientras que el ETF de aviación espacial de Hana Asset Management atrajo atención al destacar que incluía SpaceX. El reporte original presentó el caso de un trabajador inversor para mostrar que el lenguaje publicitario de los ETF puede influir en quienes no comprenden por completo la estructura del producto. Las autoridades financieras identificaron estos anuncios como objetivo de “inspección intensiva”. En adelante, la explicación de pesos, índices subyacentes y activos reales en la venta y promoción de ETF podría volverse más estricta. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Publicidade exagerada de ETFs mira peso da Hynix e promoção da SpaceX",
+        "excerpt": "Anúncios do AI Semiconductor Top 2 Plus da Shinhan e do ETF aeroespacial da Hana foram questionados por destacar Hynix e a inclusão da SpaceX.",
+        "body": "No mercado sul-coreano de ETFs, surgiu uma controvérsia sobre anúncios de algumas gestoras que teriam enfatizado demais a composição real ou a exposição dos produtos. O ‘AI Semiconductor Top 2 Plus’ da Shinhan Asset Management foi citado por uma promoção que fazia o peso da SK Hynix parecer elevado, enquanto o ETF de aviação espacial da Hana Asset Management chamou atenção ao destacar a inclusão da SpaceX. A reportagem original usou o caso de um investidor assalariado para mostrar como a linguagem publicitária de ETFs pode influenciar quem não entende totalmente a estrutura do produto. As autoridades financeiras classificaram esses anúncios como alvo de “inspeção intensiva”. Daqui em diante, explicações sobre pesos, índice de referência e ativos reais em vendas e promoções de ETFs podem ser cobradas com mais rigor. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "ETF-Werbung in der Kritik: Hynix-Gewichtung und SpaceX-Hinweis geprüft",
+        "excerpt": "Werbung für Shinhan AI Semiconductor Top 2 Plus und Hanas Raumfahrt-ETF steht wegen betonter Hynix-Gewichtung und SpaceX-Aufnahme im Fokus der Aufsicht.",
+        "body": "Im südkoreanischen ETF-Markt ist eine Debatte darüber entstanden, ob einige Vermögensverwalter in Produktwerbung tatsächliche Gewichtungen oder Bestandteile übermäßig hervorgehoben haben. Beim ‘AI Semiconductor Top 2 Plus’ von Shinhan Asset Management wurde kritisiert, dass die Werbung den Anteil von SK Hynix besonders groß erscheinen ließ. Hanas Raumfahrt-ETF warb unterdessen mit der Aufnahme von SpaceX und zog damit Anlegerinteresse auf sich. Der Originalbericht schilderte den Fall eines angestellten Investors und zeigte, dass ETF-Werbeaussagen Anleger beeinflussen können, die die Produktstruktur nicht vollständig verstehen. Die Finanzaufsicht stufte solche ETF-Werbung als Ziel einer intensiven Prüfung ein. Künftig könnten Angaben zu Gewichtungen, Basisindex und tatsächlichen Anlagezielen bei ETF-Vertrieb und Werbung strenger kontrolliert werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Publicité d’ETF sous surveillance: Hynix et SpaceX au cœur des critiques",
+        "excerpt": "Les publicités du AI Semiconductor Top 2 Plus de Shinhan et de l’ETF spatial de Hana sont visées pour avoir mis en avant Hynix et l’inclusion de SpaceX.",
+        "body": "Sur le marché sud-coréen des ETF, une controverse est apparue autour de publicités de certaines sociétés de gestion accusées de mettre excessivement en avant les pondérations réelles ou les titres inclus. Le ‘AI Semiconductor Top 2 Plus’ de Shinhan Asset Management a été cité pour une promotion laissant penser que le poids de SK Hynix était important, tandis que l’ETF spatial de Hana Asset Management a attiré l’attention en soulignant l’inclusion de SpaceX. L’article original s’appuie sur le cas d’un salarié investisseur pour montrer que les formulations publicitaires des ETF peuvent influencer des investisseurs ne comprenant pas pleinement la structure du produit. Les autorités financières ont désigné ces publicités comme cible d’une “inspection intensive”. À l’avenir, les explications sur les pondérations, l’indice sous-jacent et les actifs réellement visés pourraient être contrôlées plus strictement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جدل إعلانات صناديق ETF: وزن هاينكس والترويج لسبيسX تحت الرقابة",
+        "excerpt": "إعلانات صندوق شينهان AI Semiconductor Top 2 Plus وصندوق هانا للفضاء أثارت جدلا بسبب إبراز وزن هاينكس وإدراج سبيسX ضمن مواد الترويج.",
+        "body": "أثار سوق صناديق ETF في كوريا الجنوبية جدلا بعدما وُجهت انتقادات إلى بعض شركات الإدارة بسبب إبرازها المفرط لنسب الاستثمار الفعلية أو مكونات المنتجات في الإعلانات. فقد أُشير إلى صندوق ‘AI Semiconductor Top 2 Plus’ التابع لشينهان لإيحاء حملته بأن وزن SK Hynix كبير، بينما جذب صندوق هانا للطيران والفضاء اهتمام المستثمرين عبر الترويج لإدراج SpaceX. وذكر التقرير الأصلي حالة موظف مستثمر ليوضح أن عبارات إعلانات ETF قد تؤثر في مستثمرين لا يفهمون بنية المنتج بالكامل. وحددت السلطات المالية هذه الإعلانات باعتبارها هدفا لـ“فحص مركز”. وقد تصبح التفسيرات المتعلقة بنسب المكونات والمؤشرات الأساسية وأهداف الاستثمار الفعلية أكثر صرامة في بيع وتسويق صناديق ETF. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ETF विज्ञापन विवाद: Hynix वजन और SpaceX प्रचार पर नियामकीय नजर",
+        "excerpt": "Shinhan के AI Semiconductor Top 2 Plus और Hana के अंतरिक्ष ETF के विज्ञापन Hynix वजन तथा SpaceX शामिल करने के प्रचार के कारण जांच के दायरे में आए।",
+        "body": "दक्षिण कोरिया के ETF बाजार में कुछ एसेट मैनेजरों के उत्पाद विज्ञापनों को लेकर विवाद उठा है कि उन्होंने वास्तविक निवेश वजन या शामिल परिसंपत्तियों को जरूरत से ज्यादा उभारा। Shinhan Asset Management के ‘AI Semiconductor Top 2 Plus’ पर SK Hynix के वजन को बड़ा दिखाने जैसा प्रचार करने का मुद्दा उठा, जबकि Hana Asset Management के अंतरिक्ष और विमानन ETF ने SpaceX को शामिल करने की बात आगे रखकर निवेशकों का ध्यान खींचा। मूल रिपोर्ट ने एक नौकरीपेशा निवेशक के उदाहरण से बताया कि ETF विज्ञापन की भाषा उन निवेशकों को प्रभावित कर सकती है जो उत्पाद संरचना पूरी तरह नहीं समझते। वित्तीय अधिकारियों ने ऐसे ETF विज्ञापनों को “केंद्रित जांच” का लक्ष्य बताया। आगे ETF बिक्री और प्रचार में होल्डिंग अनुपात, आधार सूचकांक और वास्तविक निवेश लक्ष्य की व्याख्या पर अधिक सख्ती हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Iklan ETF Berlebihan Disorot: Bobot Hynix dan Promosi SpaceX Jadi Isu",
+        "excerpt": "Iklan AI Semiconductor Top 2 Plus milik Shinhan dan ETF antariksa Hana dipersoalkan karena menonjolkan bobot Hynix serta masuknya SpaceX dalam promosi.",
+        "body": "Di pasar ETF Korea Selatan, muncul kontroversi karena sebagian iklan produk manajer aset dinilai terlalu menonjolkan bobot investasi aktual atau isi portofolio. ‘AI Semiconductor Top 2 Plus’ milik Shinhan Asset Management disebut bermasalah karena promosinya membuat bobot SK Hynix tampak besar, sementara ETF ruang angkasa dan penerbangan milik Hana Asset Management menarik minat investor dengan menekankan masuknya SpaceX. Laporan asli menggunakan contoh seorang pekerja kantoran yang berinvestasi untuk menunjukkan bahwa bahasa iklan ETF dapat memengaruhi investor yang belum sepenuhnya memahami struktur produk. Otoritas keuangan menetapkan iklan ETF seperti ini sebagai sasaran “pemeriksaan intensif”. Ke depan, penjelasan tentang bobot kepemilikan, indeks acuan, dan target investasi nyata dalam penjualan serta promosi ETF dapat diperketat. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f8d12e5961a4",
     "slug": "코스피-폭주에-증권주도-불기둥미래에셋증권-12대-상승-매경-자이앤트-650955",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI 7000: Investor Ritel dan ETF Jadi Penggerak Utama Pasar",
         "excerpt": "Kyunghyang Shinmun menyoroti investor ritel dan ETF sebagai inti pembahasan KOSPI 7000. Investor individu mendorong pasar, sementara ETF menjadi bahan bakar arus dana.",
         "body": "Kyunghyang Shinmun melaporkan bahwa investor ritel dan ETF memainkan peran penting dalam tren pasar saham Korea Selatan terkait KOSPI 7000. Menurut laporan itu, investor individu mendorong pasar, sementara ETF berperan sebagai bahan bakar bagi masuknya dana.\n\nBerdasarkan laporan tersebut, tokoh utama dalam pembahasan KOSPI 7000 bukanlah lembaga tertentu atau satu saham, melainkan investor ritel dan ETF. Partisipasi individu memengaruhi arah pasar, dan ETF membantu memperluas arus modal sebagai instrumen investasi terdiversifikasi.\n\nTren ini menunjukkan meningkatnya pengaruh dana individu dan produk ETF di pasar saham Korea Selatan. Laporan asli berfokus pada peran individu dan ETF sebagai penggerak pasar, tanpa menyajikan angka masa depan atau proyeksi tambahan.\n\nSumber: Kyunghyang Shinmun"
-      }
-    }
-  },
-  {
-    "id": "b9231458f31e",
-    "slug": "코스피-7000-시대경제는-어렵다는데-주가는-왜-자꾸-오를까---농민신문-674326",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:58:02.922Z",
-    "updatedAt": "2026-05-06T07:58:02.922Z",
-    "sourceName": "농민신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MnBRU1A1SnhWMVNaSmJsLUlGejA0aXQ2OFV6WWVkOHByY1VUdEc3VmpkWFl3b1E2eUwzcVlLZm9ia3oyYWFVTlpPNnQwUEROTjEtdWJJY01Jdw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05MnBRU1A1SnhWMVNaSmJsLUlGejA0aXQ2OFV6WWVkOHByY1VUdEc3VmpkWFl3b1E2eUwzcVlLZm9ia3oyYWFVTlpPNnQwUEROTjEtdWJJY01Jdw?oc=5",
-    "titleFingerprint": "01992b08bcf876c540fb872071433dde619bfffc",
-    "dedupKeys": [
-      "b9231458f31ec1bbf6139eb6893899de0a21e44b",
-      "01992b08bcf876c540fb872071433dde619bfffc",
-      "d8420311d83b7cbc3cbbb9786a98a15e413a4ae2"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 시대 개막, 체감경기 부진에도 주가가 오르는 이유",
-        "excerpt": "농민신문은 5월 6일 코스피가 7300선을 돌파하며 7000 시대에 들어선 배경으로 가계부채 완화, 반도체 수출 호조, AI 수요 확대를 짚었다.",
-        "body": "5월 6일 코스피가 7300선을 돌파하며 ‘코스피 7000 시대’가 열렸다고 농민신문이 보도했다. 체감경기는 여전히 어렵지만 주식시장은 수출 대기업을 중심으로 강세를 이어가고 있다.\n\n기사에 따르면 한국은행의 2025년 자금순환 잠정치에서 GDP 대비 가계부채비율은 2025년 3분기 89.3%에서 연말 88.6%로 낮아졌다. 규제에 따른 부채 축소가 진행되는 가운데, 코스피 비중이 큰 삼성전자·SK하이닉스·현대차 등 수출 대기업과 반도체 업황이 상승 배경으로 제시됐다.\n\n홍춘욱 프리즘 투자자문 대표는 수출이 잘되면 기업 실적과 매수세가 개선돼 주가가 오른다고 설명했다. 그는 미국 제조업 수요 등을 볼 때 단기간 수출 경기가 나빠질 가능성은 낮다며, 포모를 느낄수록 글로벌 주식·채권·달러·금 등 분산 투자가 필요하다고 조언했다.\n출처: 농민신문"
-      },
-      "en": {
-        "title": "KOSPI 7000 Era Begins: Why Stocks Keep Rising Despite Weak Sentiment",
-        "excerpt": "Nongmin Newspaper reported on May 6 that the KOSPI topped 7,300, citing easing household debt, strong semiconductor exports and rising AI-driven demand as key factors.",
-        "body": "On May 6, the KOSPI broke above 7,300, opening what Nongmin Newspaper called the “KOSPI 7000 era.” While consumers still feel economic strain, the stock market continues to rise, led by major export companies.\n\nAccording to the report, Bank of Korea preliminary flow-of-funds data for 2025 showed the household debt-to-GDP ratio falling from 89.3% in the third quarter of 2025 to 88.6% at year-end. Debt reduction driven by regulations, together with strength in exporters such as Samsung Electronics, SK Hynix and Hyundai Motor, and a favorable semiconductor cycle, was cited as a backdrop for the rally.\n\nHong Chun-wook, CEO of Prism Investment Advisory, said strong exports improve corporate earnings and attract buying, lifting share prices. He added that U.S. manufacturing demand suggests exports are unlikely to weaken sharply in the short term, and advised diversified investment across global stocks, bonds, dollars and gold.\nSource: Nongmin Newspaper"
-      },
-      "ja": {
-        "title": "KOSPI7000時代が到来、景気不安でも株価が上がる理由",
-        "excerpt": "農民新聞は5月6日、KOSPIが7300台を突破し7000時代に入った背景として、家計債務の緩和、半導体輸出の好調、AI需要の拡大を挙げた。",
-        "body": "農民新聞は5月6日、KOSPIが7300台を突破し、「KOSPI7000時代」が開かれたと報じた。体感景気はなお厳しいものの、株式市場は輸出大企業を中心に上昇を続けている。\n\n記事によると、韓国銀行の2025年資金循環暫定値で、GDP比の家計債務比率は2025年第3四半期の89.3%から年末には88.6%へ低下した。規制による債務縮小が進む中、KOSPIで比重の大きいサムスン電子、SKハイニックス、現代自動車などの輸出大企業と半導体市況が上昇要因として示された。\n\nプリズム投資顧問の洪春旭代表は、輸出が好調なら企業業績と買い需要が改善し、株価が上がると説明した。米国製造業需要などを踏まえると短期的に輸出景気が悪化する可能性は低いとし、グローバル株式、債券、ドル、金などへの分散投資を助言した。\n出典: 農民新聞"
-      },
-      "zh": {
-        "title": "KOSPI迈入7000时代：经济承压下股价为何继续上涨",
-        "excerpt": "《农民新闻》5月6日报道，KOSPI突破7300点并进入7000时代，原因包括家庭债务缓和、半导体出口强劲以及AI需求扩大。",
-        "body": "《农民新闻》报道称，5月6日KOSPI突破7300点，开启所谓“KOSPI 7000时代”。尽管民众体感经济仍然困难，韩国股市仍在以出口型大型企业为中心延续涨势。\n\n报道指出，根据韩国银行2025年资金循环初步数据，家庭债务占GDP比率从2025年第三季度的89.3%降至年末的88.6%。在监管推动去杠杆的同时，三星电子、SK海力士、现代汽车等在KOSPI中权重较高的出口企业，以及半导体景气，被列为股市上涨背景。\n\nPrism Investment Advisory代表洪春旭表示，出口向好会改善企业业绩并带来强劲买盘，从而推高股价。他认为，从美国制造业需求等指标看，短期内出口景气恶化的可能性较低，并建议在全球股票、债券、美元和黄金等资产间分散投资。\n来源: 农民新闻"
-      },
-      "es": {
-        "title": "El KOSPI entra en la era de los 7000: por qué sube pese a la economía débil",
-        "excerpt": "Nongmin Newspaper informó el 6 de mayo que el KOSPI superó los 7300 puntos por menor deuda familiar, fortaleza exportadora de semiconductores y mayor demanda ligada a la IA.",
-        "body": "El 6 de mayo, el KOSPI superó los 7300 puntos y abrió lo que Nongmin Newspaper describió como la “era del KOSPI 7000”. Aunque la economía percibida por los hogares sigue siendo difícil, la bolsa mantiene su avance liderada por grandes exportadoras.\n\nSegún el artículo, los datos preliminares de flujo de fondos de 2025 del Banco de Corea mostraron que la deuda de los hogares frente al PIB bajó del 89,3% en el tercer trimestre de 2025 al 88,6% al cierre del año. La reducción de deuda por regulaciones, junto con el peso de Samsung Electronics, SK Hynix y Hyundai Motor y el buen ciclo de semiconductores, explica parte del alza.\n\nHong Chun-wook, director de Prism Investment Advisory, dijo que las exportaciones sólidas mejoran beneficios y compras, elevando las acciones. Añadió que la demanda manufacturera de Estados Unidos sugiere bajo riesgo de deterioro exportador a corto plazo y recomendó diversificar en acciones globales, bonos, dólares y oro.\nFuente: Nongmin Newspaper"
-      },
-      "pt": {
-        "title": "KOSPI chega à era dos 7000: por que as ações sobem com economia fraca",
-        "excerpt": "O Nongmin Newspaper informou em 6 de maio que o KOSPI passou de 7300 pontos, apoiado por alívio da dívida familiar, exportações fortes de semicondutores e demanda de IA.",
-        "body": "Em 6 de maio, o KOSPI superou os 7300 pontos e abriu o que o Nongmin Newspaper chamou de “era KOSPI 7000”. Embora a percepção sobre a economia continue difícil, o mercado acionário avança liderado por grandes exportadoras.\n\nSegundo a reportagem, dados preliminares de fluxo de fundos de 2025 do Banco da Coreia mostraram que a relação dívida das famílias/PIB caiu de 89,3% no terceiro trimestre de 2025 para 88,6% no fim do ano. A desalavancagem causada por regulações, somada ao peso de Samsung Electronics, SK Hynix e Hyundai Motor e ao ciclo favorável dos semicondutores, foi apontada como base da alta.\n\nHong Chun-wook, CEO da Prism Investment Advisory, afirmou que exportações fortes melhoram lucros corporativos e atraem compras, elevando as ações. Ele disse que a demanda industrial dos EUA indica baixa chance de piora exportadora no curto prazo e recomendou diversificação em ações globais, títulos, dólar e ouro.\nFonte: Nongmin Newspaper"
-      },
-      "de": {
-        "title": "KOSPI startet in die 7000er-Ära: Warum Aktien trotz schwacher Konjunktur steigen",
-        "excerpt": "Nongmin Newspaper berichtete am 6. Mai, dass der KOSPI über 7300 Punkte stieg. Als Gründe gelten sinkende Haushaltsverschuldung, starke Chip-Exporte und KI-Nachfrage.",
-        "body": "Am 6. Mai überschritt der KOSPI die Marke von 7300 Punkten und eröffnete laut Nongmin Newspaper die “KOSPI-7000-Ära”. Obwohl viele Haushalte die Wirtschaft weiter als schwierig empfinden, steigt der Aktienmarkt vor allem dank großer Exportunternehmen.\n\nDem Bericht zufolge sank die Haushaltsverschuldung im Verhältnis zum BIP nach vorläufigen Daten der Bank of Korea für 2025 von 89,3% im dritten Quartal 2025 auf 88,6% zum Jahresende. Regulierung bedingter Schuldenabbau, die hohe Gewichtung von Samsung Electronics, SK Hynix und Hyundai Motor sowie der starke Halbleiterzyklus wurden als Hintergrund genannt.\n\nHong Chun-wook, CEO von Prism Investment Advisory, sagte, starke Exporte verbesserten Unternehmensgewinne und Kaufinteresse und trieben so Aktienkurse. Die US-Industrienachfrage spreche kurzfristig gegen eine deutliche Exportabkühlung; Anleger sollten global in Aktien, Anleihen, Dollar und Gold streuen.\nQuelle: Nongmin Newspaper"
-      },
-      "fr": {
-        "title": "Le KOSPI entre dans l’ère des 7000: pourquoi les actions montent malgré la faiblesse économique",
-        "excerpt": "Nongmin Newspaper a rapporté le 6 mai que le KOSPI avait dépassé 7300 points, porté par l’allègement de la dette des ménages, les exportations de puces et la demande liée à l’IA.",
-        "body": "Le 6 mai, le KOSPI a franchi 7300 points, ouvrant ce que Nongmin Newspaper a appelé “l’ère du KOSPI 7000”. Malgré une économie ressentie comme difficile par les ménages, le marché actions poursuit sa hausse autour des grands exportateurs.\n\nSelon l’article, les données provisoires 2025 de flux financiers de la Banque de Corée montrent que la dette des ménages rapportée au PIB est passée de 89,3% au troisième trimestre 2025 à 88,6% en fin d’année. Le désendettement lié aux régulations, le poids de Samsung Electronics, SK Hynix et Hyundai Motor, ainsi que la vigueur des semi-conducteurs, expliquent cette dynamique.\n\nHong Chun-wook, dirigeant de Prism Investment Advisory, a indiqué que de bonnes exportations améliorent les bénéfices et attirent les achats, ce qui soutient les cours. Il estime que la demande manufacturière américaine limite le risque de baisse rapide des exportations et recommande une diversification entre actions mondiales, obligations, dollar et or.\nSource: Nongmin Newspaper"
-      },
-      "ar": {
-        "title": "مؤشر كوسبي يدخل عصر 7000 نقطة: لماذا ترتفع الأسهم رغم ضعف الاقتصاد؟",
-        "excerpt": "ذكرت صحيفة نونغمين في 6 مايو أن كوسبي تجاوز 7300 نقطة، مستندا إلى تراجع ديون الأسر وقوة صادرات أشباه الموصلات وزيادة الطلب المرتبط بالذكاء الاصطناعي.",
-        "body": "في 6 مايو، تجاوز مؤشر كوسبي مستوى 7300 نقطة، لتبدأ ما وصفته صحيفة نونغمين بأنه “عصر كوسبي 7000”. ورغم أن الشعور العام بالاقتصاد لا يزال صعبا، يواصل سوق الأسهم الصعود بقيادة الشركات الكبرى المصدرة.\n\nوبحسب التقرير، أظهرت بيانات تدفق الأموال الأولية لعام 2025 الصادرة عن بنك كوريا أن نسبة ديون الأسر إلى الناتج المحلي الإجمالي انخفضت من 89.3% في الربع الثالث من 2025 إلى 88.6% في نهاية العام. وذُكرت إجراءات خفض الديون الناتجة عن التنظيمات، إلى جانب وزن سامسونغ إلكترونيكس وSK هاينكس وهيونداي موتور وقوة قطاع أشباه الموصلات، كخلفية للصعود.\n\nوقال هونغ تشون ووك، رئيس Prism Investment Advisory، إن قوة الصادرات تحسن أرباح الشركات وتجذب الشراء، ما يرفع الأسعار. وأضاف أن طلب التصنيع في الولايات المتحدة يشير إلى احتمال ضعيف لتدهور الصادرات قريبا، ونصح بتنويع الاستثمار بين الأسهم العالمية والسندات والدولار والذهب.\nالمصدر: صحيفة نونغمين"
-      },
-      "hi": {
-        "title": "KOSPI 7000 दौर शुरू: कमजोर अर्थव्यवस्था के बीच शेयर क्यों चढ़ रहे हैं",
-        "excerpt": "Nongmin Newspaper ने 6 मई को बताया कि KOSPI 7300 के पार गया। इसके पीछे घरेलू कर्ज में कमी, सेमीकंडक्टर निर्यात की मजबूती और AI मांग को प्रमुख कारण बताया गया।",
-        "body": "6 मई को KOSPI 7300 के स्तर से ऊपर चला गया और Nongmin Newspaper ने इसे “KOSPI 7000 युग” की शुरुआत बताया। आम लोगों को अर्थव्यवस्था अभी भी कमजोर लग रही है, लेकिन शेयर बाजार बड़े निर्यातकों के सहारे बढ़त बनाए हुए है।\n\nरिपोर्ट के अनुसार, बैंक ऑफ कोरिया के 2025 के प्रारंभिक फंड फ्लो आंकड़ों में GDP के मुकाबले घरेलू कर्ज अनुपात 2025 की तीसरी तिमाही के 89.3% से घटकर साल के अंत में 88.6% हो गया। नियमों से कर्ज घटने की प्रक्रिया, Samsung Electronics, SK Hynix और Hyundai Motor जैसी बड़ी निर्यात कंपनियों का भार, और सेमीकंडक्टर उद्योग की मजबूती को तेजी की पृष्ठभूमि बताया गया।\n\nPrism Investment Advisory के CEO Hong Chun-wook ने कहा कि मजबूत निर्यात कंपनियों की आय और खरीदारी को बढ़ाता है, जिससे शेयर चढ़ते हैं। उन्होंने कहा कि अमेरिकी विनिर्माण मांग को देखते हुए अल्प अवधि में निर्यात के कमजोर होने की संभावना कम है और वैश्विक शेयरों, बॉन्ड, डॉलर और सोने में विविध निवेश की सलाह दी।\nस्रोत: Nongmin Newspaper"
-      },
-      "id": {
-        "title": "KOSPI Masuki Era 7000: Mengapa Saham Naik Saat Ekonomi Terasa Berat",
-        "excerpt": "Nongmin Newspaper melaporkan pada 6 Mei bahwa KOSPI menembus 7300, didorong pelonggaran utang rumah tangga, ekspor semikonduktor yang kuat, dan permintaan AI.",
-        "body": "Pada 6 Mei, KOSPI menembus level 7300 dan membuka apa yang disebut Nongmin Newspaper sebagai “era KOSPI 7000”. Meski kondisi ekonomi masih terasa berat bagi masyarakat, pasar saham terus naik dipimpin perusahaan eksportir besar.\n\nMenurut laporan itu, data sementara arus dana 2025 dari Bank of Korea menunjukkan rasio utang rumah tangga terhadap PDB turun dari 89,3% pada kuartal III 2025 menjadi 88,6% pada akhir tahun. Penurunan utang akibat regulasi, besarnya bobot Samsung Electronics, SK Hynix dan Hyundai Motor, serta siklus semikonduktor yang kuat menjadi latar penguatan indeks.\n\nHong Chun-wook, CEO Prism Investment Advisory, mengatakan ekspor yang kuat memperbaiki laba perusahaan dan menarik aksi beli sehingga harga saham naik. Ia menilai permintaan manufaktur AS membuat pelemahan ekspor dalam jangka pendek kecil kemungkinannya, dan menyarankan diversifikasi ke saham global, obligasi, dolar, dan emas.\nSumber: Nongmin Newspaper"
-      }
-    }
-  },
-  {
-    "id": "aca0a87b0974",
-    "slug": "경제상황판-가리킨-정청래-단군-이래-가장-높은-코스피경이로운-수치---연합인포맥스-977329",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:56:35.117Z",
-    "updatedAt": "2026-05-06T07:56:35.117Z",
-    "sourceName": "연합인포맥스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xX2FONXZFSnc5R1JtZW1GN0JscFlDN3d3ckVpeXU5cGN2T2hUVmRwS0pqcnVnbi03WGRoN3h2UWdmTTVhcHgtaE8wQU9ydGdLVUU0WGhfV1pZZ0p4T29CNlBRelJpdnJHTmdUNUdYN2Y?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xX2FONXZFSnc5R1JtZW1GN0JscFlDN3d3ckVpeXU5cGN2T2hUVmRwS0pqcnVnbi03WGRoN3h2UWdmTTVhcHgtaE8wQU9ydGdLVUU0WGhfV1pZZ0p4T29CNlBRelJpdnJHTmdUNUdYN2Y?oc=5",
-    "titleFingerprint": "4044e955fe2dc5e9ac176ea6946f1198e92f9425",
-    "dedupKeys": [
-      "aca0a87b0974ecf7aedd7508e02e73c937804a33",
-      "4044e955fe2dc5e9ac176ea6946f1198e92f9425",
-      "aa0eeec884204f5597a45c3803747a7037c80b33"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "정청래, 경제상황판 보며 코스피 최고치 언급…“경이로운 수치”",
-        "excerpt": "정청래가 경제상황판을 가리키며 코스피가 ‘단군 이래 가장 높은’ 수준이라고 언급했다. 연합인포맥스 보도에 따르면 그는 해당 수치를 경이롭다고 평가했다.",
-        "body": "정청래가 경제상황판을 가리키며 코스피가 ‘단군 이래 가장 높은’ 수준이라고 말했다고 연합인포맥스가 보도했다. 그는 해당 수치를 두고 “경이로운 수치”라고 표현했다.\n\n보도에 따르면 정청래의 발언은 경제상황판에 표시된 코스피 흐름을 언급하는 과정에서 나왔다. 기사 제목은 코스피가 역사적으로 매우 높은 수준에 올라섰다는 점을 핵심으로 전했다.\n\n이번 발언은 국내 주식시장 지표인 코스피가 정치권의 경제 상황 평가에서도 주요 참고 지표로 다뤄지고 있음을 보여준다. 다만 원문 요약에는 추가 수치나 구체적인 일정, 후속 전망은 제시되지 않았다.\n\n출처: 연합인포맥스"
-      },
-      "en": {
-        "title": "Chung Chung-rae Cites Record-High KOSPI on Economic Board",
-        "excerpt": "Chung Chung-rae pointed to an economic status board and said the KOSPI was at its highest level “since Dangun,” calling the figure remarkable, Yonhap Infomax reported.",
-        "body": "Yonhap Infomax reported that Chung Chung-rae pointed to an economic status board and said the KOSPI was at its highest level “since Dangun.” He described the figure as a “remarkable number.”\n\nAccording to the report, Chung’s remarks came as he referred to the KOSPI trend shown on the economic board. The headline emphasized that the benchmark index had reached an exceptionally high historical level.\n\nThe comment shows that the KOSPI, South Korea’s main stock market indicator, is also being cited in political assessments of economic conditions. The provided original summary did not include additional figures, a detailed schedule, or further outlook.\n\nSource: Yonhap Infomax"
-      },
-      "ja": {
-        "title": "鄭清来氏、経済状況板でKOSPI最高水準に言及「驚異的な数値」",
-        "excerpt": "鄭清来氏は経済状況板を指し、KOSPIが「檀君以来最も高い」水準だと述べた。聯合インフォマックスによると、同氏はその数値を驚異的と評価した。",
-        "body": "聯合インフォマックスは、鄭清来氏が経済状況板を指し、KOSPIが「檀君以来最も高い」水準だと述べたと報じた。同氏はその数値について「驚異的な数値」と表現した。\n\n報道によると、鄭氏の発言は経済状況板に示されたKOSPIの動きを取り上げる過程で出たものだ。記事の見出しは、KOSPIが歴史的に非常に高い水準に達した点を中心に伝えた。\n\n今回の発言は、韓国株式市場の主要指標であるKOSPIが、政界の経済状況評価でも重要な参考指標として扱われていることを示す。ただし、原文の要約には追加の数値や具体的な日程、今後の見通しは示されていない。\n\n出典: 聯合インフォマックス"
-      },
-      "zh": {
-        "title": "郑清来指向经济状况板谈KOSPI高位：称为“惊人数字”",
-        "excerpt": "据韩联社Infomax报道，郑清来指向经济状况板，称KOSPI处于“檀君以来最高”水平，并评价相关数字令人惊叹。",
-        "body": "据韩联社Infomax报道，郑清来指向经济状况板，称KOSPI处于“檀君以来最高”的水平。他将这一数字形容为“惊人的数字”。\n\n报道称，郑清来的表态是在提及经济状况板上显示的KOSPI走势时作出的。报道标题重点传达了KOSPI升至历史上非常高水平这一信息。\n\n这一发言显示，作为韩国股市主要指标的KOSPI，也被用于政界对经济状况的评价之中。不过，原文摘要未提供更多具体数值、详细时间安排或后续展望。\n\n来源: 韩联社Infomax"
-      },
-      "es": {
-        "title": "Chung Chung-rae destaca el KOSPI en máximo histórico ante un panel económico",
-        "excerpt": "Chung Chung-rae señaló un panel de situación económica y dijo que el KOSPI estaba en su nivel más alto “desde Dangun”, calificando la cifra de asombrosa, según Yonhap Infomax.",
-        "body": "Yonhap Infomax informó que Chung Chung-rae señaló un panel de situación económica y dijo que el KOSPI estaba en su nivel más alto “desde Dangun”. También describió la cifra como un “número asombroso”.\n\nSegún el reporte, sus comentarios surgieron al referirse a la evolución del KOSPI mostrada en el panel económico. El titular destacó que el índice había alcanzado un nivel históricamente muy elevado.\n\nLa declaración muestra que el KOSPI, principal indicador bursátil de Corea del Sur, también se usa como referencia en evaluaciones políticas sobre la situación económica. El resumen original no incluyó cifras adicionales, una agenda específica ni perspectivas posteriores.\n\nFuente: Yonhap Infomax"
-      },
-      "pt": {
-        "title": "Chung Chung-rae cita KOSPI em nível histórico ao apontar painel econômico",
-        "excerpt": "Chung Chung-rae apontou para um painel de situação econômica e disse que o KOSPI estava no nível mais alto “desde Dangun”, chamando o número de impressionante, segundo a Yonhap Infomax.",
-        "body": "A Yonhap Infomax informou que Chung Chung-rae apontou para um painel de situação econômica e disse que o KOSPI estava no nível mais alto “desde Dangun”. Ele classificou o dado como um “número impressionante”.\n\nSegundo a reportagem, a fala ocorreu enquanto Chung mencionava o movimento do KOSPI exibido no painel econômico. O título destacou que o índice havia alcançado um patamar historicamente muito elevado.\n\nO comentário mostra que o KOSPI, principal indicador do mercado acionário sul-coreano, também é usado como referência em avaliações políticas sobre a economia. O resumo original não apresentou números adicionais, calendário específico ou projeções posteriores.\n\nFonte: Yonhap Infomax"
-      },
-      "de": {
-        "title": "Chung Chung-rae verweist auf KOSPI-Höchststand an Wirtschaftstafel",
-        "excerpt": "Chung Chung-rae zeigte auf eine Wirtschaftslage-Tafel und sagte, der KOSPI liege auf dem höchsten Niveau „seit Dangun“. Laut Yonhap Infomax nannte er die Zahl bemerkenswert.",
-        "body": "Yonhap Infomax berichtete, dass Chung Chung-rae auf eine Wirtschaftslage-Tafel zeigte und sagte, der KOSPI liege auf dem höchsten Niveau „seit Dangun“. Er bezeichnete den Wert als eine „bemerkenswerte Zahl“.\n\nDem Bericht zufolge fielen Chungs Äußerungen, als er auf die an der Wirtschaftstafel gezeigte Entwicklung des KOSPI einging. Die Überschrift stellte heraus, dass der Index ein historisch sehr hohes Niveau erreicht habe.\n\nDie Aussage zeigt, dass der KOSPI, der wichtigste Aktienmarktindikator Südkoreas, auch in politischen Bewertungen der Wirtschaftslage als Referenz dient. Die ursprüngliche Zusammenfassung enthielt keine weiteren Zahlen, keinen konkreten Zeitplan und keinen zusätzlichen Ausblick.\n\nQuelle: Yonhap Infomax"
-      },
-      "fr": {
-        "title": "Chung Chung-rae souligne un KOSPI au plus haut sur un tableau économique",
-        "excerpt": "Chung Chung-rae a désigné un tableau de situation économique et déclaré que le KOSPI était à son plus haut niveau « depuis Dangun », qualifiant le chiffre de remarquable, selon Yonhap Infomax.",
-        "body": "Yonhap Infomax a rapporté que Chung Chung-rae avait désigné un tableau de situation économique et déclaré que le KOSPI se trouvait à son plus haut niveau « depuis Dangun ». Il a qualifié ce chiffre de « remarquable ».\n\nSelon le reportage, ses propos ont été tenus alors qu’il évoquait l’évolution du KOSPI affichée sur le tableau économique. Le titre mettait l’accent sur le fait que l’indice avait atteint un niveau historiquement très élevé.\n\nCette déclaration montre que le KOSPI, principal indicateur du marché boursier sud-coréen, sert aussi de référence dans les évaluations politiques de la situation économique. Le résumé original ne fournit pas de chiffres supplémentaires, de calendrier précis ni de perspectives ultérieures.\n\nSource: Yonhap Infomax"
-      },
-      "ar": {
-        "title": "تشونغ تشونغ-ريه يشير إلى لوحة اقتصادية ويتحدث عن مستوى قياسي لكوسبي",
-        "excerpt": "أشار تشونغ تشونغ-ريه إلى لوحة للوضع الاقتصادي وقال إن مؤشر كوسبي عند أعلى مستوى «منذ دانغون»، واصفا الرقم بأنه لافت، وفق تقرير يونهاب إنفوماكس.",
-        "body": "ذكرت يونهاب إنفوماكس أن تشونغ تشونغ-ريه أشار إلى لوحة للوضع الاقتصادي وقال إن مؤشر كوسبي عند أعلى مستوى «منذ دانغون». ووصف الرقم بأنه «رقم لافت».\n\nوبحسب التقرير، جاءت تصريحات تشونغ أثناء حديثه عن حركة مؤشر كوسبي المعروضة على اللوحة الاقتصادية. وركز العنوان على أن المؤشر وصل إلى مستوى مرتفع للغاية من منظور تاريخي.\n\nتظهر هذه التصريحات أن كوسبي، وهو المؤشر الرئيسي لسوق الأسهم في كوريا الجنوبية، يستخدم أيضا كمرجع في تقييمات الأوساط السياسية للوضع الاقتصادي. ولم يتضمن الملخص الأصلي أرقاما إضافية أو جدولا زمنيا محددا أو توقعات لاحقة.\n\nالمصدر: يونهاب إنفوماكس"
-      },
-      "hi": {
-        "title": "चुंग चुंग-रे ने आर्थिक बोर्ड पर KOSPI के उच्च स्तर का उल्लेख किया",
-        "excerpt": "योनहाप इन्फोमैक्स के अनुसार, चुंग चुंग-रे ने आर्थिक स्थिति बोर्ड की ओर इशारा करते हुए कहा कि KOSPI ‘डांगुन के बाद सबसे ऊंचे’ स्तर पर है और इसे उल्लेखनीय आंकड़ा बताया।",
-        "body": "योनहाप इन्फोमैक्स ने बताया कि चुंग चुंग-रे ने आर्थिक स्थिति बोर्ड की ओर इशारा करते हुए कहा कि KOSPI ‘डांगुन के बाद सबसे ऊंचे’ स्तर पर है। उन्होंने इस आंकड़े को “उल्लेखनीय संख्या” बताया।\n\nरिपोर्ट के अनुसार, चुंग की टिप्पणी आर्थिक बोर्ड पर दिखाए गए KOSPI के रुझान का उल्लेख करते समय आई। शीर्षक ने इस बात पर जोर दिया कि सूचकांक ऐतिहासिक रूप से बहुत ऊंचे स्तर पर पहुंचा है।\n\nयह बयान दिखाता है कि दक्षिण कोरिया के प्रमुख शेयर बाजार संकेतक KOSPI को राजनीतिक स्तर पर आर्थिक स्थिति के आकलन में भी संदर्भ के रूप में देखा जा रहा है। मूल सारांश में अतिरिक्त आंकड़े, कोई विशिष्ट समय-सारिणी या आगे का दृष्टिकोण नहीं दिया गया।\n\nस्रोत: योनहाप इन्फोमैक्स"
-      },
-      "id": {
-        "title": "Chung Chung-rae Soroti KOSPI Tertinggi di Papan Kondisi Ekonomi",
-        "excerpt": "Chung Chung-rae menunjuk papan kondisi ekonomi dan menyebut KOSPI berada di level tertinggi ‘sejak Dangun’. Menurut Yonhap Infomax, ia menilai angka itu menakjubkan.",
-        "body": "Yonhap Infomax melaporkan bahwa Chung Chung-rae menunjuk papan kondisi ekonomi dan mengatakan KOSPI berada di level tertinggi “sejak Dangun”. Ia menyebut angka tersebut sebagai “angka yang menakjubkan”.\n\nMenurut laporan itu, pernyataan Chung muncul saat ia menyinggung pergerakan KOSPI yang ditampilkan pada papan ekonomi. Judul berita menekankan bahwa indeks tersebut berada pada tingkat yang sangat tinggi secara historis.\n\nKomentar ini menunjukkan bahwa KOSPI, indikator utama pasar saham Korea Selatan, juga menjadi rujukan dalam penilaian politik atas kondisi ekonomi. Ringkasan asli tidak memuat angka tambahan, jadwal rinci, atau prospek lanjutan.\n\nSumber: Yonhap Infomax"
-      }
-    }
-  },
-  {
-    "id": "41f8733c4570",
-    "slug": "코스피-꿈의-7천-넘어-장중-7300-돌파매수-사이드카-발동---한겨레-833741",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:55:20.003Z",
-    "updatedAt": "2026-05-06T07:55:20.003Z",
-    "sourceName": "한겨레",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90RlF1WHJEb2IySi1ZMTg4NVNIc0ZpeHgtMmRHWUdiVExMcmFseS00SWg3LWZRcWwzeUU3MUprY1RuSUw1WmxaS2dwQTNOTmhTenQ1UUloQW5HSC12cXF2b0xuMlQ1VmM?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90RlF1WHJEb2IySi1ZMTg4NVNIc0ZpeHgtMmRHWUdiVExMcmFseS00SWg3LWZRcWwzeUU3MUprY1RuSUw1WmxaS2dwQTNOTmhTenQ1UUloQW5HSC12cXF2b0xuMlQ1VmM?oc=5",
-    "titleFingerprint": "7c237fd445981a896526964e8ebab68c770850b9",
-    "dedupKeys": [
-      "41f8733c45703ff4de87721a5c5e3b5fc1bdcb67",
-      "7c237fd445981a896526964e8ebab68c770850b9",
-      "0219dbb04725d7b1340650bc5bdcbc247cf0f98c"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7300 장중 돌파, ‘꿈의 7천’ 넘어 매수 사이드카 발동",
-        "excerpt": "한겨레는 코스피가 장중 ‘꿈의 7천’으로 불린 7000선을 넘어 7300까지 돌파했고, 급격한 매수세 속에 매수 사이드카가 발동됐다고 보도했다.",
-        "body": "코스피가 장중 7000선을 넘어 7300까지 돌파했다고 한겨레가 보도했다. 보도에 따르면 지수 급등 과정에서 매수 사이드카도 발동됐다.\n\n이번 보도는 코스피가 ‘꿈의 7천’으로 불린 7000선을 넘어섰다는 점과, 장중 7300선까지 올라섰다는 사실을 핵심으로 전했다. 시장에서는 매수세가 강하게 유입되며 지수 흐름이 빠르게 확대된 것으로 보도됐다.\n\n한겨레는 코스피의 장중 급등과 매수 사이드카 발동을 함께 전하며 국내 증시 흐름에 대한 관심이 커지고 있음을 보여줬다. 구체적인 후속 전망이나 관계자 발언은 원문 요약에 포함되지 않았다.\n출처: 한겨레"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,300 Intraday After Crossing ‘Dream’ 7,000, Buy Sidecar Triggered",
-        "excerpt": "Hankyoreh reported that South Korea’s KOSPI crossed the symbolic 7,000 level and broke above 7,300 intraday, with a buy-side sidecar triggered amid strong buying momentum.",
-        "body": "The KOSPI crossed the 7,000 mark and rose above 7,300 during intraday trading, according to Hankyoreh. The report said a buy-side sidecar was also triggered during the sharp move higher.\n\nThe report focused on the index moving beyond the so-called “dream 7,000” level and then reaching the 7,300 range within the session. It said strong buying pressure accompanied the rapid rise in the benchmark index.\n\nHankyoreh reported the intraday surge and the buy-side sidecar together, underscoring heightened attention on South Korea’s stock market. No additional outlook or direct stakeholder comments were included in the original summary.\nSource: Hankyoreh"
-      },
-      "ja": {
-        "title": "KOSPIが取引時間中に7300突破、「夢の7000」超えで買いサイドカー発動",
-        "excerpt": "ハンギョレは、KOSPIが取引時間中に「夢の7000」と呼ばれる7000台を超えて7300を突破し、強い買いの流れの中で買いサイドカーが発動されたと報じた。",
-        "body": "KOSPIが取引時間中に7000を超え、7300まで突破したとハンギョレが報じた。報道によると、指数が急上昇する過程で買いサイドカーも発動された。\n\n今回の報道は、KOSPIが「夢の7000」と呼ばれた水準を上回り、取引時間中に7300台まで上昇した点を中心に伝えた。市場では強い買いが入り、指数の動きが急速に広がったと報じられた。\n\nハンギョレは、KOSPIの取引時間中の急騰と買いサイドカー発動をあわせて伝え、韓国株式市場への関心が高まっていることを示した。具体的な今後の見通しや関係者発言は原文要約に含まれていない。\n出典: ハンギョレ"
-      },
-      "zh": {
-        "title": "KOSPI盘中突破7300点，越过“梦想7000点”并触发买入Sidecar",
-        "excerpt": "《韩民族日报》报道称，KOSPI盘中越过被称为“梦想7000点”的关口并突破7300点，在强劲买盘推动下触发了买入Sidecar机制。",
-        "body": "据《韩民族日报》报道，KOSPI盘中越过7000点，并进一步突破7300点。报道称，在指数快速上涨过程中，买入Sidecar机制也被触发。\n\n该报道的重点是，KOSPI突破了被称为“梦想7000点”的关口，并在盘中升至7300点上方。报道还提到，市场买盘强劲流入，推动指数走势迅速扩大。\n\n《韩民族日报》同时报道了KOSPI盘中急涨和买入Sidecar触发，显示韩国股市走势正受到更高关注。原文摘要未包含进一步展望或相关人士评论。\n来源: 韩民族日报"
-      },
-      "es": {
-        "title": "El KOSPI supera 7.300 puntos intradía tras cruzar los ‘soñados’ 7.000",
-        "excerpt": "Hankyoreh informó que el KOSPI cruzó en la sesión el nivel simbólico de 7.000 puntos y superó los 7.300, mientras se activó un sidecar de compra por el fuerte impulso comprador.",
-        "body": "El KOSPI superó el nivel de 7.000 puntos y llegó a rebasar los 7.300 durante la sesión, informó Hankyoreh. Según el reporte, también se activó un sidecar de compra durante el fuerte avance del índice.\n\nLa información destacó que el KOSPI dejó atrás el nivel conocido como los “soñados 7.000” y alcanzó la zona de 7.300 puntos intradía. El reporte señaló que una fuerte entrada de compras acompañó la rápida expansión del movimiento del índice.\n\nHankyoreh informó conjuntamente del salto intradía del KOSPI y de la activación del sidecar de compra, reflejando una mayor atención sobre la bolsa surcoreana. El resumen original no incluyó previsiones adicionales ni comentarios de partes relacionadas.\nFuente: Hankyoreh"
-      },
-      "pt": {
-        "title": "KOSPI rompe 7.300 pontos no intradia após superar os ‘sonhados’ 7.000",
-        "excerpt": "O Hankyoreh informou que o KOSPI superou no intradia o nível simbólico de 7.000 pontos e passou de 7.300, com acionamento de sidecar de compra em meio à forte pressão compradora.",
-        "body": "O KOSPI ultrapassou a marca de 7.000 pontos e chegou a romper os 7.300 durante o pregão, informou o Hankyoreh. Segundo a reportagem, um sidecar de compra também foi acionado durante a forte alta do índice.\n\nA notícia destacou que o KOSPI superou o nível chamado de “sonhados 7.000” e avançou até a faixa de 7.300 pontos no intradia. O relato indicou que uma forte entrada de compras acompanhou a rápida expansão do movimento do índice.\n\nO Hankyoreh noticiou ao mesmo tempo a disparada intradiária do KOSPI e o acionamento do sidecar de compra, mostrando maior atenção ao mercado acionário sul-coreano. O resumo original não trouxe projeções adicionais nem comentários de fontes envolvidas.\nFonte: Hankyoreh"
-      },
-      "de": {
-        "title": "KOSPI steigt intraday über 7.300 nach Sprung über die ‘Traummarke’ 7.000",
-        "excerpt": "Hankyoreh berichtete, dass der KOSPI intraday die symbolische Marke von 7.000 Punkten überschritt und über 7.300 stieg; zugleich wurde bei starkem Kaufdruck ein Buy-Sidecar ausgelöst.",
-        "body": "Der KOSPI hat im Intraday-Handel die Marke von 7.000 Punkten überschritten und ist über 7.300 gestiegen, berichtete Hankyoreh. Dem Bericht zufolge wurde während des starken Anstiegs auch ein Buy-Sidecar ausgelöst.\n\nIm Mittelpunkt stand, dass der Index die sogenannte “Traummarke 7.000” hinter sich ließ und innerhalb der Sitzung den Bereich von 7.300 Punkten erreichte. Laut Bericht floss starke Kaufnachfrage in den Markt, wodurch sich die Bewegung des Index rasch ausweitete.\n\nHankyoreh meldete den Intraday-Sprung des KOSPI und die Auslösung des Buy-Sidecars gemeinsam und zeigte damit das wachsende Interesse am südkoreanischen Aktienmarkt. Weitere Ausblicke oder Aussagen von Beteiligten enthielt die ursprüngliche Zusammenfassung nicht.\nQuelle: Hankyoreh"
-      },
-      "fr": {
-        "title": "Le KOSPI dépasse 7 300 en séance après avoir franchi le seuil ‘rêvé’ des 7 000",
-        "excerpt": "Hankyoreh a rapporté que le KOSPI a franchi en séance le seuil symbolique des 7 000 points puis dépassé 7 300, avec le déclenchement d’un sidecar d’achat porté par de forts achats.",
-        "body": "Le KOSPI a franchi la barre des 7 000 points et dépassé 7 300 en séance, a rapporté Hankyoreh. Selon le média, un sidecar d’achat a également été déclenché pendant la forte progression de l’indice.\n\nLe reportage a mis l’accent sur le passage du KOSPI au-dessus du niveau qualifié de “7 000 rêvés”, puis sur son avancée jusqu’à la zone des 7 300 points en séance. Il a indiqué qu’un fort courant acheteur avait accompagné l’accélération rapide de l’indice.\n\nHankyoreh a présenté ensemble la hausse intrajournalière du KOSPI et le déclenchement du sidecar d’achat, signe d’une attention accrue portée au marché actions sud-coréen. Le résumé original ne contenait pas de perspectives supplémentaires ni de commentaires de responsables.\nSource: Hankyoreh"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7300 نقطة خلال الجلسة بعد عبور حاجز 7000 ‘الحلم’",
-        "excerpt": "ذكرت هانكيوريه أن مؤشر كوسبي تجاوز خلال التداول مستوى 7000 الرمزي وصعد فوق 7300 نقطة، مع تفعيل سايدكار شراء وسط زخم قوي من عمليات الشراء.",
-        "body": "تجاوز مؤشر كوسبي مستوى 7000 نقطة خلال التداول وصعد فوق 7300 نقطة، بحسب ما ذكرت هانكيوريه. وأفاد التقرير بأن سايدكار شراء تم تفعيله أيضا أثناء الارتفاع الحاد للمؤشر.\n\nوركز التقرير على أن كوسبي تخطى المستوى الذي وُصف بأنه “حلم 7000”، ثم وصل خلال الجلسة إلى نطاق 7300 نقطة. وذكر أن تدفقات شراء قوية رافقت التوسع السريع في حركة المؤشر.\n\nونقلت هانكيوريه خبر الصعود الحاد لكوسبي خلال الجلسة وتفعيل سايدكار الشراء معا، بما يعكس تنامي الاهتمام بسوق الأسهم الكورية الجنوبية. ولم يتضمن الملخص الأصلي توقعات إضافية أو تصريحات من أطراف معنية.\nالمصدر: هانكيوريه"
-      },
-      "hi": {
-        "title": "KOSPI ने इंट्राडे में 7,300 पार किया, ‘सपनों के 7,000’ के बाद बाय साइडकार सक्रिय",
-        "excerpt": "हैंक्योरेह ने बताया कि KOSPI ने इंट्राडे कारोबार में ‘सपनों के 7,000’ कहे जाने वाले स्तर को पार कर 7,300 से ऊपर छलांग लगाई और मजबूत खरीदारी के बीच बाय साइडकार सक्रिय हुआ।",
-        "body": "हैंक्योरेह के अनुसार, KOSPI ने इंट्राडे कारोबार में 7,000 का स्तर पार किया और 7,300 से ऊपर पहुंच गया। रिपोर्ट में कहा गया कि सूचकांक की तेज बढ़त के दौरान बाय साइडकार भी सक्रिय किया गया।\n\nरिपोर्ट का मुख्य बिंदु यह था कि KOSPI ने ‘सपनों के 7,000’ कहे जाने वाले स्तर को पीछे छोड़ा और सत्र के दौरान 7,300 के स्तर तक चढ़ गया। बताया गया कि मजबूत खरीदारी प्रवाह के साथ सूचकांक की चाल तेजी से विस्तृत हुई।\n\nहैंक्योरेह ने KOSPI की इंट्राडे तेजी और बाय साइडकार सक्रिय होने की खबर साथ में दी, जिससे दक्षिण कोरियाई शेयर बाजार पर बढ़ते ध्यान का संकेत मिलता है। मूल सारांश में आगे का अनुमान या संबंधित पक्षों की टिप्पणी शामिल नहीं थी।\nस्रोत: हैंक्योरेह"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.300 Intraday Setelah Lewati ‘Impian’ 7.000, Sidecar Beli Aktif",
-        "excerpt": "Hankyoreh melaporkan KOSPI menembus level simbolis 7.000 dalam perdagangan intraday dan melewati 7.300, sementara sidecar beli diaktifkan di tengah kuatnya arus pembelian.",
-        "body": "KOSPI melewati level 7.000 dan menembus 7.300 dalam perdagangan intraday, menurut laporan Hankyoreh. Laporan itu menyebut sidecar beli juga diaktifkan selama kenaikan tajam indeks.\n\nBerita tersebut menyoroti KOSPI yang melampaui level yang disebut sebagai “impian 7.000” dan naik hingga area 7.300 dalam sesi perdagangan. Laporan itu menyebut arus beli yang kuat menyertai pergerakan indeks yang berkembang cepat.\n\nHankyoreh melaporkan lonjakan intraday KOSPI bersamaan dengan aktivasi sidecar beli, menunjukkan meningkatnya perhatian terhadap pasar saham Korea Selatan. Ringkasan asli tidak memuat prospek lanjutan atau komentar pihak terkait.\nSumber: Hankyoreh"
       }
     }
   }
