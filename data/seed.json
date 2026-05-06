@@ -1,5 +1,230 @@
 [
   {
+    "id": "509cdecc93c0",
+    "slug": "팔았는데-왜-더-올라코스피-사상최고-찍고-1만피까지---vdaumnet-314483",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T10:33:50.652Z",
+    "updatedAt": "2026-05-06T10:33:50.652Z",
+    "sourceName": "v.daum.net",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01MFRYUXFLV1UzN1czQmt0UC1hZXdyMnZrUFlKU19RZXl1ZDlWVHd6TGd4NUtOMTQ4WDBsMTJzb2ZpWmVKRHNEaHJBWXlGeDA?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01MFRYUXFLV1UzN1czQmt0UC1hZXdyMnZrUFlKU19RZXl1ZDlWVHd6TGd4NUtOMTQ4WDBsMTJzb2ZpWmVKRHNEaHJBWXlGeDA?oc=5",
+    "titleFingerprint": "6eb4927f2ac8fce412c8dbe4cce51a3852f2884c",
+    "dedupKeys": [
+      "509cdecc93c0f7a61fe31f27c44f7deb4ce526a1",
+      "6eb4927f2ac8fce412c8dbe4cce51a3852f2884c",
+      "c238146b595d6a65b46f6e022d128f5f10f451f6"
+    ],
+    "imageUrl": "/images/articles/509cdecc93c0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7400 돌파, 반도체 랠리에 1만피 기대감까지 확산",
+        "excerpt": "6일 코스피가 사상 처음 장중 7400선을 넘고 7384로 마감하자 증권가가 반도체 실적 개선과 낮은 PER을 근거로 상단 전망을 높였다.",
+        "body": "6일 한국거래소에 따르면 코스피는 사상 처음 장중 7400선을 돌파한 뒤 7384로 거래를 마쳤다. 상승세는 삼성전자와 SK하이닉스 등 반도체 대형주가 이끌었다. 삼성전자는 장 초반 25만원선을 넘나들었고, 2026년 선행 PER은 약 4.6배로 추정됐다. SK하이닉스는 150만원을 돌파하며 시가총액 1000조원을 넘었다. 대신증권은 코스피 평균 PER이 7.15배라며 PER 10배 적용 시 9660선까지 가능하다고 분석했다. 신한투자증권은 올해 예상 밴드를 6000~8600으로 제시했다. 출처: v.daum.net"
+      },
+      "en": {
+        "title": "KOSPI Breaks 7,400 as Chip Rally Fuels Talk of 10,000 Milestone",
+        "excerpt": "On May 6, the KOSPI topped 7,400 intraday for the first time and closed at 7,384, prompting brokerages to raise forecasts on chip earnings and low PER levels.",
+        "body": "According to the Korea Exchange on May 6, the KOSPI crossed the 7,400 mark intraday for the first time and finished at 7,384. The rally was led by major semiconductor stocks including Samsung Electronics and SK Hynix. Samsung Electronics hovered around 250,000 won early in the session, with its 2026 forward PER estimated at about 4.6 times. SK Hynix surpassed 1.5 million won and its market value topped 1,000 trillion won. Daishin Securities said the KOSPI’s average PER was 7.15 times and estimated the index could reach 9,660 if a 10 times PER is applied. Shinhan Securities set this year’s expected range at 6,000 to 8,600. Source: v.daum.net"
+      },
+      "ja": {
+        "title": "KOSPIが7400突破、半導体株ラリーで1万台期待も拡大",
+        "excerpt": "5月6日、KOSPIは史上初めて取引時間中に7400を上回り7384で終了し、証券各社は半導体業績改善と低PERを根拠に見通しを引き上げた。",
+        "body": "韓国取引所によると、5月6日のKOSPIは史上初めて取引時間中に7400を突破し、7384で取引を終えた。上昇を主導したのはサムスン電子とSKハイニックスなど半導体大型株だった。サムスン電子は寄り付き直後に25万ウォン前後で推移し、2026年予想PERは約4.6倍と推定された。SKハイニックスは150万ウォンを突破し、時価総額は1000兆ウォンを超えた。大信証券はKOSPI平均PERが7.15倍で、10倍を適用すれば9660まで上昇可能と分析した。新韓投資証券は今年の予想レンジを6000から8600とした。出典: v.daum.net"
+      },
+      "zh": {
+        "title": "KOSPI突破7400点，半导体行情推升一万点预期",
+        "excerpt": "5月6日，KOSPI史上首次盘中升破7400点并收于7384点，券商因半导体业绩改善和较低市盈率上调指数展望。",
+        "body": "据韩国交易所5月6日消息，KOSPI史上首次盘中突破7400点，最终收于7384点。本轮上涨由三星电子、SK海力士等半导体大型股带动。三星电子早盘一度在25万韩元附近波动，按当前股价估算，其2026年预期市盈率约为4.6倍。SK海力士股价突破150万韩元，市值超过1000万亿韩元。大信证券称，目前KOSPI上市公司平均市盈率为7.15倍，若适用10倍市盈率，指数可升至9660点。新韩投资证券给出的今年预期区间为6000至8600点。来源: v.daum.net"
+      },
+      "es": {
+        "title": "KOSPI supera 7.400 puntos y el rally de chips aviva meta de 10.000",
+        "excerpt": "El 6 de mayo, el KOSPI superó por primera vez los 7.400 puntos intradía y cerró en 7.384, mientras las casas de bolsa elevaron previsiones por semiconductores y bajo PER.",
+        "body": "Según la Bolsa de Corea, el 6 de mayo el KOSPI superó por primera vez los 7.400 puntos durante la sesión y cerró en 7.384. El avance fue liderado por grandes valores de semiconductores como Samsung Electronics y SK Hynix. Samsung Electronics rondó los 250.000 wones al inicio de la jornada y su PER adelantado para 2026 se estimó en unas 4,6 veces. SK Hynix superó 1,5 millones de wones y su capitalización rebasó los 1.000 billones de wones. Daishin Securities indicó que el PER medio del KOSPI es de 7,15 veces y que, con 10 veces, el índice podría llegar a 9.660. Shinhan Securities situó el rango anual en 6.000 a 8.600. Fuente: v.daum.net"
+      },
+      "pt": {
+        "title": "KOSPI rompe 7.400 pontos e rali dos chips eleva aposta em 10.000",
+        "excerpt": "Em 6 de maio, o KOSPI passou de 7.400 pontos intradia pela primeira vez e fechou em 7.384, levando corretoras a elevar projeções com lucro de chips e PER baixo.",
+        "body": "Segundo a Bolsa da Coreia, em 6 de maio o KOSPI ultrapassou pela primeira vez os 7.400 pontos durante o pregão e encerrou a 7.384. A alta foi puxada por grandes ações de semicondutores, incluindo Samsung Electronics e SK Hynix. A Samsung Electronics oscilou perto de 250.000 wons no início da sessão, com PER projetado para 2026 estimado em cerca de 4,6 vezes. A SK Hynix superou 1,5 milhão de wons e passou de 1.000 trilhões de wons em valor de mercado. A Daishin Securities disse que o PER médio do KOSPI é 7,15 vezes e que, com 10 vezes, o índice poderia chegar a 9.660. A Shinhan Securities projetou faixa de 6.000 a 8.600 neste ano. Fonte: v.daum.net"
+      },
+      "de": {
+        "title": "KOSPI steigt über 7.400 Punkte, Chip-Rally nährt Ziel von 10.000",
+        "excerpt": "Am 6. Mai überschritt der KOSPI erstmals intraday 7.400 Punkte und schloss bei 7.384, worauf Broker wegen Chip-Gewinnen und niedriger KGVs höhere Ziele nannten.",
+        "body": "Nach Angaben der Korea Exchange überschritt der KOSPI am 6. Mai erstmals im Tagesverlauf die Marke von 7.400 Punkten und schloss bei 7.384. Getrieben wurde der Anstieg von großen Halbleiterwerten wie Samsung Electronics und SK Hynix. Samsung Electronics bewegte sich zu Handelsbeginn um 250.000 Won, das erwartete KGV für 2026 wurde auf rund 4,6 geschätzt. SK Hynix stieg über 1,5 Millionen Won, die Marktkapitalisierung übertraf 1.000 Billionen Won. Daishin Securities bezifferte das durchschnittliche KGV des KOSPI auf 7,15 und sieht bei einem KGV von 10 Potenzial bis 9.660 Punkte. Shinhan Securities nannte für dieses Jahr eine Spanne von 6.000 bis 8.600. Quelle: v.daum.net"
+      },
+      "fr": {
+        "title": "Le KOSPI dépasse 7 400 points, les puces relancent l’objectif 10 000",
+        "excerpt": "Le 6 mai, le KOSPI a franchi 7 400 points en séance pour la première fois et clôturé à 7 384, les courtiers relevant leurs vues grâce aux semi-conducteurs et au PER bas.",
+        "body": "Selon la Korea Exchange, le 6 mai, le KOSPI a dépassé pour la première fois les 7 400 points en séance avant de clôturer à 7 384. La hausse a été menée par les grandes valeurs des semi-conducteurs, dont Samsung Electronics et SK Hynix. Samsung Electronics évoluait autour de 250 000 wons en début de séance, avec un PER prospectif 2026 estimé à environ 4,6 fois. SK Hynix a dépassé 1,5 million de wons et sa capitalisation a franchi 1 000 billions de wons. Daishin Securities indique que le PER moyen du KOSPI est de 7,15 fois et qu’un PER de 10 fois pourrait porter l’indice à 9 660. Shinhan Securities prévoit une fourchette annuelle de 6 000 à 8 600. Source: v.daum.net"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7400 نقطة مع صعود الرقائق وحديث عن مستوى 10000",
+        "excerpt": "في 6 مايو، تجاوز مؤشر كوسبي 7400 نقطة خلال الجلسة لأول مرة وأغلق عند 7384، ما دفع شركات الوساطة لرفع توقعاتها بفعل أرباح الرقائق وانخفاض مكرر الربحية.",
+        "body": "وفق بورصة كوريا، تجاوز مؤشر كوسبي في 6 مايو مستوى 7400 نقطة خلال الجلسة لأول مرة، ثم أغلق عند 7384. قاد الصعود كبار أسهم أشباه الموصلات، ومنها سامسونغ إلكترونيكس وSK هاينكس. تحرك سهم سامسونغ إلكترونيكس قرب 250 ألف وون في بداية التداول، وقدر مكرر الربحية المستقبلي لعام 2026 بنحو 4.6 مرات. كما تجاوز سهم SK هاينكس 1.5 مليون وون، وارتفعت قيمته السوقية فوق 1000 تريليون وون. قالت دايشين للأوراق المالية إن متوسط مكرر ربحية كوسبي يبلغ 7.15 مرات، وقد يصل المؤشر إلى 9660 إذا طبق مكرر 10 مرات. وحددت شينهان للاستثمار نطاق هذا العام بين 6000 و8600. المصدر: v.daum.net"
+      },
+      "hi": {
+        "title": "KOSPI 7,400 के पार, चिप शेयरों की तेजी से 10,000 की चर्चा तेज",
+        "excerpt": "6 मई को KOSPI पहली बार कारोबार के दौरान 7,400 के ऊपर गया और 7,384 पर बंद हुआ, जिसके बाद ब्रोकरेज ने चिप आय सुधार और कम PER के आधार पर अनुमान बढ़ाए।",
+        "body": "कोरिया एक्सचेंज के अनुसार, 6 मई को KOSPI पहली बार कारोबार के दौरान 7,400 अंक के पार गया और 7,384 पर बंद हुआ। तेजी की अगुवाई Samsung Electronics और SK Hynix जैसे बड़े सेमीकंडक्टर शेयरों ने की। Samsung Electronics शुरुआती कारोबार में 250,000 वॉन के आसपास रहा और 2026 का अग्रिम PER करीब 4.6 गुना आंका गया। SK Hynix 1.5 मिलियन वॉन से ऊपर गया और उसका बाजार मूल्य 1,000 ट्रिलियन वॉन से अधिक हो गया। Daishin Securities ने कहा कि KOSPI का औसत PER 7.15 गुना है और 10 गुना PER लगाने पर सूचकांक 9,660 तक जा सकता है। Shinhan Securities ने इस साल की अपेक्षित रेंज 6,000 से 8,600 बताई। स्रोत: v.daum.net"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7.400, Reli Chip Picu Harapan Menuju 10.000",
+        "excerpt": "Pada 6 Mei, KOSPI untuk pertama kalinya menembus 7.400 intraday dan ditutup di 7.384, membuat sekuritas menaikkan proyeksi karena laba chip dan PER rendah.",
+        "body": "Menurut Korea Exchange, pada 6 Mei KOSPI untuk pertama kalinya menembus level 7.400 dalam perdagangan intraday dan ditutup di 7.384. Kenaikan dipimpin saham semikonduktor besar seperti Samsung Electronics dan SK Hynix. Samsung Electronics bergerak di sekitar 250.000 won pada awal sesi, dengan PER forward 2026 diperkirakan sekitar 4,6 kali. SK Hynix menembus 1,5 juta won dan kapitalisasi pasarnya melewati 1.000 triliun won. Daishin Securities menyebut rata-rata PER KOSPI 7,15 kali dan menilai indeks bisa mencapai 9.660 jika PER 10 kali diterapkan. Shinhan Securities menetapkan kisaran tahun ini di 6.000 hingga 8.600. Sumber: v.daum.net"
+      }
+    }
+  },
+  {
+    "id": "610754092272",
+    "slug": "코스피-7000-돌파-눈앞공매도-잔고-20조-사상-최대-1위는-현대차---jtbc-232839",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T10:32:44.862Z",
+    "updatedAt": "2026-05-06T10:32:44.862Z",
+    "sourceName": "JTBC",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wajR3RGZaWDZPOXBOTEVEamI4TGhnTkt0dExnTFF1bFFaZ1BLMm1TZE9EcnhleGU3VXpOYVZHaC1SQ1BPeC1KM3dReElDV1QyWjlPbg?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wajR3RGZaWDZPOXBOTEVEamI4TGhnTkt0dExnTFF1bFFaZ1BLMm1TZE9EcnhleGU3VXpOYVZHaC1SQ1BPeC1KM3dReElDV1QyWjlPbg?oc=5",
+    "titleFingerprint": "803a13e8f4797acd639e9618d6efc2fcb2c4f94d",
+    "dedupKeys": [
+      "610754092272180882cab2cb046c1c74e2f0df0d",
+      "803a13e8f4797acd639e9618d6efc2fcb2c4f94d",
+      "73a11f0b0db759fd1542f9b5240f7898186acf6b"
+    ],
+    "imageUrl": "/images/articles/610754092272.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파 눈앞, 공매도 잔고 20조 사상 최대 속 현대차 1위",
+        "excerpt": "JTBC에 따르면 코스피가 7000 돌파를 눈앞에 둔 가운데 국내 증시 공매도 잔고가 20조원으로 사상 최대치를 기록했고, 현대차가 잔고 1위에 올랐다.",
+        "body": "코스피가 7000선 돌파를 눈앞에 둔 가운데 국내 증시의 공매도 잔고가 20조원에 이르며 사상 최대 수준을 기록했다고 JTBC가 보도했다. 보도에 따르면 공매도 잔고 1위 종목은 현대차로 나타났다. 공매도 잔고는 향후 주가 하락을 예상하고 빌린 주식을 매도한 뒤 아직 갚지 않은 물량의 규모를 뜻한다. 지수가 고점을 향해 가는 상황에서 공매도 잔고가 함께 불어난 점은 투자자들의 관심을 키우는 요인이다. 다만 원문은 코스피 7000선 접근, 공매도 잔고 20조원, 현대차 1위라는 수치를 중심으로 전했다. 출처: JTBC."
+      },
+      "en": {
+        "title": "KOSPI Nears 7,000 as Short-Selling Balance Hits Record 20 Trillion Won, Hyundai Motor Leads",
+        "excerpt": "According to JTBC, as the KOSPI approaches the 7,000 mark, South Korea’s short-selling balance has reached a record 20 trillion won, with Hyundai Motor ranking first.",
+        "body": "The KOSPI is nearing a breakthrough of the 7,000 level, while the short-selling balance in South Korea’s stock market has reached 20 trillion won, a record high, JTBC reported. According to the report, Hyundai Motor ranked first by short-selling balance. A short-selling balance refers to the amount of borrowed shares that have been sold in expectation of a future price decline and have not yet been repaid. The increase in short-selling positions while the index moves toward a high point is drawing investor attention. The original report focused on the KOSPI’s approach to 7,000, the 20 trillion won short-selling balance, and Hyundai Motor’s top ranking. Source: JTBC."
+      },
+      "ja": {
+        "title": "KOSPI 7000突破目前、空売り残高20兆ウォンで過去最大、首位は現代自動車",
+        "excerpt": "JTBCによると、KOSPIが7000突破を目前にする中、韓国株式市場の空売り残高は20兆ウォンと過去最大を記録し、現代自動車が1位となった。",
+        "body": "KOSPIが7000台突破を目前にする中、韓国株式市場の空売り残高が20兆ウォンに達し、過去最大水準を記録したとJTBCが報じた。報道によると、空売り残高1位の銘柄は現代自動車だった。空売り残高とは、将来の株価下落を見込んで借りた株式を売却した後、まだ返済していない数量の規模を指す。指数が高値に向かう局面で空売り残高も膨らんでいる点は、投資家の関心を集めている。ただし原文は、KOSPIの7000接近、空売り残高20兆ウォン、現代自動車1位という数値を中心に伝えた。出典: JTBC。"
+      },
+      "zh": {
+        "title": "KOSPI逼近7000点，卖空余额20万亿韩元创纪录，现代汽车居首",
+        "excerpt": "据JTBC报道，在KOSPI逼近7000点之际，韩国股市卖空余额达到20万亿韩元，创历史最高纪录，现代汽车位居第一。",
+        "body": "据JTBC报道，KOSPI正逼近7000点关口，与此同时，韩国股市卖空余额达到20万亿韩元，创下历史最高水平。报道称，卖空余额排名第一的股票是现代汽车。卖空余额是指投资者预期股价未来下跌，借入股票并卖出后尚未归还的规模。在指数走向高位的同时，卖空余额也随之扩大，这成为投资者关注的因素。不过，原文主要围绕KOSPI接近7000点、卖空余额20万亿韩元以及现代汽车排名第一等数据展开。来源：JTBC。"
+      },
+      "es": {
+        "title": "El KOSPI roza los 7.000 puntos y el saldo de ventas en corto alcanza récord de 20 billones de wones",
+        "excerpt": "Según JTBC, mientras el KOSPI se acerca a los 7.000 puntos, el saldo de ventas en corto en Corea del Sur llegó a un récord de 20 billones de wones, liderado por Hyundai Motor.",
+        "body": "El KOSPI se aproxima a superar los 7.000 puntos, mientras el saldo de ventas en corto del mercado bursátil surcoreano alcanzó los 20 billones de wones, un máximo histórico, informó JTBC. Según el reporte, Hyundai Motor ocupa el primer lugar por saldo de ventas en corto. Este saldo se refiere al volumen de acciones prestadas que fueron vendidas ante la expectativa de una futura caída del precio y que aún no han sido devueltas. El aumento de estas posiciones mientras el índice avanza hacia niveles altos atrae la atención de los inversores. El texto original se centró en la cercanía del KOSPI a 7.000, el saldo de 20 billones de wones y el liderazgo de Hyundai Motor. Fuente: JTBC."
+      },
+      "pt": {
+        "title": "KOSPI perto de 7.000 pontos, saldo de venda a descoberto bate recorde de 20 trilhões de wons",
+        "excerpt": "Segundo a JTBC, enquanto o KOSPI se aproxima dos 7.000 pontos, o saldo de vendas a descoberto na Coreia do Sul atingiu recorde de 20 trilhões de wons, com a Hyundai Motor em primeiro lugar.",
+        "body": "O KOSPI está perto de romper a marca de 7.000 pontos, enquanto o saldo de vendas a descoberto no mercado acionário sul-coreano chegou a 20 trilhões de wons, o maior nível da história, informou a JTBC. Segundo a reportagem, a Hyundai Motor aparece em primeiro lugar em saldo de vendas a descoberto. Esse saldo representa o volume de ações tomadas emprestadas e vendidas com expectativa de queda futura do preço, mas ainda não devolvidas. O avanço dessas posições ao mesmo tempo em que o índice se aproxima de patamares elevados chama a atenção dos investidores. O texto original destacou o KOSPI perto de 7.000, o saldo de 20 trilhões de wons e a liderança da Hyundai Motor. Fonte: JTBC."
+      },
+      "de": {
+        "title": "KOSPI kurz vor 7.000 Punkten, Leerverkaufsbestand erreicht Rekord von 20 Billionen Won",
+        "excerpt": "Laut JTBC nähert sich der KOSPI der Marke von 7.000 Punkten, während der Leerverkaufsbestand in Südkorea mit 20 Billionen Won ein Rekordhoch erreicht; Hyundai Motor liegt vorn.",
+        "body": "Der KOSPI steht kurz davor, die Marke von 7.000 Punkten zu überschreiten, während der Leerverkaufsbestand am südkoreanischen Aktienmarkt 20 Billionen Won erreicht hat und damit auf einem historischen Höchststand liegt, berichtete JTBC. Dem Bericht zufolge steht Hyundai Motor beim Leerverkaufsbestand an erster Stelle. Dieser Bestand beschreibt das Volumen geliehener Aktien, die in Erwartung fallender Kurse verkauft und noch nicht zurückgegeben wurden. Dass diese Positionen zunehmen, während der Index auf hohe Niveaus zusteuert, rückt sie in den Fokus der Anleger. Der Originalbericht konzentrierte sich auf die Annäherung des KOSPI an 7.000 Punkte, den Bestand von 20 Billionen Won und Hyundai Motor auf Rang eins. Quelle: JTBC."
+      },
+      "fr": {
+        "title": "Le KOSPI approche 7 000 points, les ventes à découvert atteignent un record de 20 000 milliards de wons",
+        "excerpt": "Selon JTBC, alors que le KOSPI approche les 7 000 points, le solde des ventes à découvert en Corée du Sud atteint un record de 20 000 milliards de wons, Hyundai Motor arrivant en tête.",
+        "body": "Le KOSPI est sur le point de franchir les 7 000 points, tandis que le solde des ventes à découvert sur le marché sud-coréen a atteint 20 000 milliards de wons, un niveau record, a rapporté JTBC. Selon le média, Hyundai Motor occupe la première place pour ce solde. Celui-ci désigne le volume d’actions empruntées puis vendues dans l’attente d’une baisse future des cours, mais qui n’ont pas encore été restituées. La hausse de ces positions alors que l’indice se dirige vers des niveaux élevés retient l’attention des investisseurs. L’article original met l’accent sur le KOSPI proche de 7 000, le solde de 20 000 milliards de wons et la première place de Hyundai Motor. Source : JTBC."
+      },
+      "ar": {
+        "title": "كوسبي يقترب من 7000 نقطة ورصيد البيع على المكشوف يبلغ رقما قياسيا عند 20 تريليون وون",
+        "excerpt": "بحسب JTBC، يقترب مؤشر كوسبي من مستوى 7000 نقطة، فيما بلغ رصيد البيع على المكشوف في كوريا الجنوبية مستوى قياسيا قدره 20 تريليون وون، وتصدرت هيونداي موتور القائمة.",
+        "body": "أفادت JTBC بأن مؤشر كوسبي يقترب من اختراق مستوى 7000 نقطة، بينما وصل رصيد البيع على المكشوف في سوق الأسهم الكورية الجنوبية إلى 20 تريليون وون، وهو أعلى مستوى على الإطلاق. ووفقا للتقرير، جاءت هيونداي موتور في المرتبة الأولى من حيث رصيد البيع على المكشوف. ويشير هذا الرصيد إلى حجم الأسهم المقترضة التي تم بيعها توقعا لانخفاض السعر مستقبلا ولم تتم إعادتها بعد. ويجذب تضخم هذه المراكز في وقت يتحرك فيه المؤشر نحو مستويات مرتفعة اهتمام المستثمرين. وركز التقرير الأصلي على اقتراب كوسبي من 7000 نقطة، ورصيد 20 تريليون وون، وتصدر هيونداي موتور. المصدر: JTBC."
+      },
+      "hi": {
+        "title": "KOSPI 7,000 के करीब, शॉर्ट सेलिंग बैलेंस 20 ट्रिलियन वॉन के रिकॉर्ड पर, Hyundai Motor शीर्ष पर",
+        "excerpt": "JTBC के अनुसार, KOSPI 7,000 अंक के करीब पहुंच रहा है, जबकि दक्षिण कोरिया में शॉर्ट सेलिंग बैलेंस रिकॉर्ड 20 ट्रिलियन वॉन पर पहुंच गया है और Hyundai Motor पहले स्थान पर है।",
+        "body": "JTBC ने बताया कि KOSPI 7,000 अंक के स्तर को पार करने के करीब है, जबकि दक्षिण कोरियाई शेयर बाजार में शॉर्ट सेलिंग बैलेंस 20 ट्रिलियन वॉन तक पहुंच गया है, जो अब तक का सबसे ऊंचा स्तर है। रिपोर्ट के अनुसार, शॉर्ट सेलिंग बैलेंस में Hyundai Motor पहले स्थान पर रही। शॉर्ट सेलिंग बैलेंस उस मात्रा को दर्शाता है जिसमें निवेशक भविष्य में कीमत गिरने की उम्मीद से उधार लिए गए शेयर बेचते हैं और जिन्हें अभी वापस नहीं किया गया है। सूचकांक के ऊंचे स्तर की ओर बढ़ते समय ऐसे बैलेंस का बढ़ना निवेशकों का ध्यान खींच रहा है। मूल रिपोर्ट ने KOSPI के 7,000 के करीब पहुंचने, 20 ट्रिलियन वॉन के बैलेंस और Hyundai Motor की शीर्ष स्थिति पर ध्यान दिया। स्रोत: JTBC."
+      },
+      "id": {
+        "title": "KOSPI Mendekati 7.000, Saldo Short Selling Capai Rekor 20 Triliun Won, Hyundai Motor Teratas",
+        "excerpt": "Menurut JTBC, saat KOSPI mendekati level 7.000, saldo short selling di pasar saham Korea Selatan mencapai rekor 20 triliun won, dengan Hyundai Motor berada di peringkat pertama.",
+        "body": "KOSPI mendekati penembusan level 7.000, sementara saldo short selling di pasar saham Korea Selatan mencapai 20 triliun won, level tertinggi sepanjang sejarah, lapor JTBC. Menurut laporan tersebut, Hyundai Motor berada di posisi pertama berdasarkan saldo short selling. Saldo short selling mengacu pada nilai saham pinjaman yang telah dijual dengan ekspektasi harga akan turun di masa depan dan belum dikembalikan. Kenaikan saldo ini ketika indeks bergerak menuju level tinggi menjadi perhatian investor. Laporan asli berfokus pada KOSPI yang mendekati 7.000, saldo short selling 20 triliun won, dan posisi teratas Hyundai Motor. Sumber: JTBC."
+      }
+    }
+  },
+  {
+    "id": "65542bb9b44c",
+    "slug": "코인하던-친구들-이제-코스피-간다외국인-몰려온-韓증시---vdaumnet-478736",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T10:31:47.968Z",
+    "updatedAt": "2026-05-06T10:31:47.968Z",
+    "sourceName": "v.daum.net",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NTzhjRjNhSTJPb1hxYWhPN0tJOG1kRDFxckE4VGlyNU02VnZPWTU5UGdhVVJBVXVDakxkMDhEOTF4SXFVRlhFZm5fUVZOeWM?oc=5",
+    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NTzhjRjNhSTJPb1hxYWhPN0tJOG1kRDFxckE4VGlyNU02VnZPWTU5UGdhVVJBVXVDakxkMDhEOTF4SXFVRlhFZm5fUVZOeWM?oc=5",
+    "titleFingerprint": "345d155ca470ccc7c1ef830784c6a945a9b1ae11",
+    "dedupKeys": [
+      "65542bb9b44c91d932631c938227c9dbc02b2e52",
+      "345d155ca470ccc7c1ef830784c6a945a9b1ae11",
+      "c22ba3948decd4e753d3aba925fbfaaaf74a0941"
+    ],
+    "imageUrl": "/images/articles/65542bb9b44c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "외국인 몰려온 한국 증시, 코인 투자자 관심도 코스피로 이동",
+        "excerpt": "v.daum.net은 최근 한국 증시에 외국인 투자자가 몰리고, 코인 투자에 집중하던 일부 투자자들의 관심이 코스피로 향하고 있다고 전했다.",
+        "body": "최근 한국 증시에 외국인 투자자가 몰리고 있다는 보도가 나왔다. v.daum.net은 ‘코인하던 친구들 이제 코스피 간다’는 표현을 통해 가상자산 투자에 익숙했던 일부 투자자들의 관심이 코스피로 이동하는 분위기를 전했다. 보도는 외국인 자금 유입이 한국 증시의 주요 흐름으로 부각되고 있음을 짚었다. 가상자산 투자자들의 관심 변화와 외국인 매수세가 맞물리면서 국내 주식시장에 대한 주목도도 커지는 모습이다. 다만 향후 흐름은 실제 자금 유입과 시장 반응을 지켜볼 필요가 있다. 출처: v.daum.net"
+      },
+      "en": {
+        "title": "Foreign Investors Crowd Into Korean Stocks as Crypto Traders Eye KOSPI",
+        "excerpt": "v.daum.net reported that foreign investors are moving into South Korea’s stock market while some crypto-focused investors are turning their attention to the KOSPI.",
+        "body": "A recent report says foreign investors are flowing into South Korea’s stock market. v.daum.net described the mood with the phrase that friends who used to trade crypto are now heading to the KOSPI, pointing to a shift in attention among some investors familiar with digital assets. The report highlights foreign capital inflows as a notable theme in the Korean equity market. As interest from crypto investors and foreign buying activity overlap, attention on domestic stocks is rising. Future direction, however, will depend on actual fund flows and market reaction. Source: v.daum.net"
+      },
+      "ja": {
+        "title": "外国人が韓国株に流入、暗号資産投資家の関心もKOSPIへ",
+        "excerpt": "v.daum.netは、韓国株式市場に外国人投資家が集まり、暗号資産に注目していた一部投資家の関心がKOSPIへ向かっていると報じた。",
+        "body": "韓国株式市場に外国人投資家が集まっているとの報道が出た。v.daum.netは「コインをしていた友人たちが今はKOSPIへ行く」という表現で、暗号資産投資に慣れた一部投資家の関心がKOSPIへ移っている雰囲気を伝えた。報道は、外国人資金の流入が韓国株市場の主要な流れとして浮上している点を示している。暗号資産投資家の関心変化と外国人の買いが重なり、国内株式市場への注目度も高まっている。今後の動きは実際の資金流入と市場反応を見極める必要がある。出典: v.daum.net"
+      },
+      "zh": {
+        "title": "外资涌入韩国股市，币圈投资者关注转向KOSPI",
+        "excerpt": "v.daum.net报道称，外国投资者正涌入韩国股市，同时部分原本关注加密货币的投资者也将目光转向KOSPI。",
+        "body": "近日有报道称，外国投资者正涌入韩国股市。v.daum.net以“做币的朋友现在去KOSPI了”这一说法，描述了一些熟悉加密资产投资的投资者把关注点转向KOSPI的市场氛围。报道指出，外资流入正成为韩国股市受到关注的重要动向。随着加密资产投资者兴趣变化与外国买盘同时出现，韩国国内股票市场的关注度也在上升。不过，后续走势仍需观察实际资金流入和市场反应。来源: v.daum.net"
+      },
+      "es": {
+        "title": "Extranjeros llegan a la bolsa coreana y criptoinversores miran al KOSPI",
+        "excerpt": "v.daum.net informó que los inversores extranjeros están entrando en la bolsa surcoreana, mientras algunos inversores centrados en cripto miran ahora al KOSPI.",
+        "body": "Un informe reciente señala que los inversores extranjeros están llegando al mercado bursátil de Corea del Sur. v.daum.net describió el ambiente con la frase de que los amigos que operaban con criptomonedas ahora van al KOSPI, reflejando un cambio de atención entre algunos inversores familiarizados con los activos digitales. El reporte destaca la entrada de capital extranjero como una tendencia relevante para la bolsa coreana. Al coincidir ese interés con compras extranjeras, aumenta la atención sobre las acciones locales. La evolución dependerá de los flujos reales y de la reacción del mercado. Fuente: v.daum.net"
+      },
+      "pt": {
+        "title": "Estrangeiros avançam na bolsa coreana e criptoinvestidores miram o KOSPI",
+        "excerpt": "O v.daum.net informou que investidores estrangeiros estão entrando no mercado acionário sul-coreano, enquanto parte dos investidores de cripto volta atenção ao KOSPI.",
+        "body": "Um relatório recente indica que investidores estrangeiros estão entrando no mercado de ações da Coreia do Sul. O v.daum.net descreveu o momento com a frase de que amigos que negociavam criptomoedas agora vão para o KOSPI, apontando uma mudança de interesse entre alguns investidores familiarizados com ativos digitais. A reportagem destaca a entrada de capital estrangeiro como um tema importante para a bolsa coreana. Com a mudança de foco de investidores de cripto e compras estrangeiras ocorrendo ao mesmo tempo, cresce a atenção sobre as ações locais. A direção futura dependerá dos fluxos reais e da reação do mercado. Fonte: v.daum.net"
+      },
+      "de": {
+        "title": "Ausländer strömen in Koreas Aktienmarkt, Krypto-Anleger blicken auf KOSPI",
+        "excerpt": "v.daum.net berichtete, dass ausländische Anleger in Südkoreas Aktienmarkt drängen, während einige bisherige Krypto-Anleger ihr Interesse auf den KOSPI richten.",
+        "body": "Ein aktueller Bericht meldet, dass ausländische Anleger in den südkoreanischen Aktienmarkt strömen. v.daum.net beschrieb die Stimmung mit der Aussage, dass Freunde, die früher mit Kryptowährungen handelten, nun zum KOSPI gehen. Damit wird ein Aufmerksamkeitswechsel bei einigen mit digitalen Vermögenswerten vertrauten Anlegern deutlich. Der Bericht hebt ausländische Kapitalzuflüsse als wichtiges Thema am koreanischen Aktienmarkt hervor. Wenn das veränderte Interesse von Krypto-Anlegern und ausländische Käufe zusammenkommen, steigt die Aufmerksamkeit für heimische Aktien. Der weitere Verlauf hängt von tatsächlichen Zuflüssen und Marktreaktionen ab. Quelle: v.daum.net"
+      },
+      "fr": {
+        "title": "Les étrangers affluent vers la Bourse coréenne, les crypto-investisseurs regardent le KOSPI",
+        "excerpt": "v.daum.net a rapporté que les investisseurs étrangers affluent vers le marché boursier sud-coréen, tandis que certains investisseurs crypto se tournent vers le KOSPI.",
+        "body": "Un récent article indique que les investisseurs étrangers affluent vers le marché boursier sud-coréen. v.daum.net a résumé l’ambiance en disant que des amis qui faisaient du crypto se dirigent désormais vers le KOSPI, signe d’un déplacement de l’attention chez certains investisseurs habitués aux actifs numériques. Le reportage présente les flux de capitaux étrangers comme un thème notable pour les actions coréennes. Avec ce changement d’intérêt et les achats étrangers, l’attention portée au marché local augmente. La suite dépendra toutefois des flux réels et de la réaction du marché. Source: v.daum.net"
+      },
+      "ar": {
+        "title": "الأجانب يتجهون إلى الأسهم الكورية واهتمام مستثمري الكريبتو ينتقل إلى كوسبي",
+        "excerpt": "أفاد v.daum.net بأن المستثمرين الأجانب يتدفقون إلى سوق الأسهم الكورية الجنوبية، بينما يتجه اهتمام بعض مستثمري العملات الرقمية إلى مؤشر كوسبي.",
+        "body": "ذكر تقرير حديث أن المستثمرين الأجانب يتدفقون إلى سوق الأسهم في كوريا الجنوبية. ونقل v.daum.net الأجواء بعبارة تفيد بأن الأصدقاء الذين كانوا يتداولون العملات الرقمية يتجهون الآن إلى كوسبي، في إشارة إلى تحول اهتمام بعض المستثمرين المعتادين على الأصول الرقمية. ويبرز التقرير تدفق الأموال الأجنبية بوصفه اتجاها لافتا في السوق الكورية. ومع تزامن تغير اهتمام مستثمري الكريبتو مع الشراء الأجنبي، يزداد التركيز على الأسهم المحلية. لكن المسار المقبل سيعتمد على التدفقات الفعلية ورد فعل السوق. المصدر: v.daum.net"
+      },
+      "hi": {
+        "title": "कोरियाई शेयर बाजार में विदेशी निवेशक उमड़े, क्रिप्टो निवेशकों की नजर KOSPI पर",
+        "excerpt": "v.daum.net ने बताया कि विदेशी निवेशक दक्षिण कोरिया के शेयर बाजार में आ रहे हैं, जबकि क्रिप्टो पर केंद्रित कुछ निवेशकों का ध्यान KOSPI की ओर जा रहा है।",
+        "body": "हालिया रिपोर्ट के अनुसार दक्षिण कोरिया के शेयर बाजार में विदेशी निवेशक बढ़ती दिलचस्पी दिखा रहे हैं। v.daum.net ने माहौल को इस तरह बताया कि जो दोस्त पहले क्रिप्टो करते थे, वे अब KOSPI की ओर जा रहे हैं। यह डिजिटल संपत्तियों से परिचित कुछ निवेशकों के ध्यान में बदलाव को दिखाता है। रिपोर्ट में विदेशी पूंजी प्रवाह को कोरियाई शेयर बाजार की प्रमुख गतिविधि के रूप में रेखांकित किया गया। क्रिप्टो निवेशकों की रुचि बदलने और विदेशी खरीदारी के साथ घरेलू शेयरों पर ध्यान बढ़ रहा है। आगे की दिशा वास्तविक धन प्रवाह और बाजार प्रतिक्रिया पर निर्भर करेगी। स्रोत: v.daum.net"
+      },
+      "id": {
+        "title": "Investor asing masuk bursa Korea, peminat kripto mulai melirik KOSPI",
+        "excerpt": "v.daum.net melaporkan investor asing berdatangan ke pasar saham Korea Selatan, sementara sebagian investor yang fokus pada kripto kini mengalihkan perhatian ke KOSPI.",
+        "body": "Laporan terbaru menyebut investor asing berdatangan ke pasar saham Korea Selatan. v.daum.net menggambarkan suasana itu dengan ungkapan bahwa teman-teman yang dulu bermain kripto kini menuju KOSPI, menandai pergeseran perhatian sebagian investor yang akrab dengan aset digital. Laporan tersebut menyoroti arus dana asing sebagai tema penting di pasar saham Korea. Saat perubahan minat investor kripto bertemu dengan aksi beli asing, perhatian terhadap saham domestik ikut meningkat. Namun arah berikutnya masih perlu dilihat dari arus dana nyata dan reaksi pasar. Sumber: v.daum.net"
+      }
+    }
+  },
+  {
     "id": "b9e56c0c454d",
     "slug": "코스피-단숨에-7천-뚫었다삼전닉스-훨훨---mbc-뉴스-444783",
     "channelId": "STOCKS",
