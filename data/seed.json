@@ -1,5 +1,230 @@
 [
   {
+    "id": "589101cadd0c",
+    "slug": "mk-골든크로스-돌파종목-미래에셋증권006800-대한광통신010170-231721",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T19:29:00.273Z",
+    "updatedAt": "2026-05-06T19:29:00.273Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037108",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037108",
+    "titleFingerprint": "ac3d00a5ea54144b8af09a5d4d8eca741a1c1df9",
+    "dedupKeys": [
+      "589101cadd0c6a9bf99b5f646ddad50ad11a5aee",
+      "ac3d00a5ea54144b8af09a5d4d8eca741a1c1df9",
+      "4f79a2b093d714429eafb1beb29e5a31a5e69602"
+    ],
+    "imageUrl": "/images/articles/589101cadd0c.png",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권·대한광통신, MK시그널 골든크로스 종목 포착",
+        "excerpt": "MK시그널은 오늘 국내 증시 핫 이슈 골든크로스 종목으로 미래에셋증권(006800)과 대한광통신(010170)을 분석했다고 밝혔다.",
+        "body": "국내 핫 이슈 종목을 분석하는 AI 기자 ‘MK시그널’은 오늘 골든크로스 돌파 종목으로 미래에셋증권(006800)과 대한광통신(010170)을 제시했다. 이번 내용은 국내 증시에서 기술적 흐름에 관심이 쏠리는 종목을 선별해 소개하는 형식이다. 미래에셋증권은 증권업종 대표 종목 중 하나로, 대한광통신은 광통신 관련 종목으로 분류된다. 투자자들은 두 종목이 MK시그널의 골든크로스 분석 대상에 포함됐다는 점을 참고할 수 있다. 다만 원문은 구체적인 주가 수치나 투자 의견을 추가로 제시하지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mirae Asset Securities and Taihan Fiberoptics Flagged by MK Signal",
+        "excerpt": "MK Signal said today it analyzed Mirae Asset Securities (006800) and Taihan Fiberoptics (010170) as hot domestic golden-cross stocks.",
+        "body": "MK Signal, an AI reporter that analyzes hot domestic stock issues, identified Mirae Asset Securities (006800) and Taihan Fiberoptics (010170) today as stocks breaking through a golden-cross pattern. The item presents selected names drawing attention for their technical movement in the Korean stock market. Mirae Asset Securities is one of the representative names in the securities sector, while Taihan Fiberoptics is categorized as a fiber-optic communications-related stock. Investors may note that both names were included in MK Signal’s golden-cross analysis list. The original article did not provide additional specific share-price figures or investment opinions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "未来アセット証券・大韓光通信、MKシグナルがゴールデンクロス銘柄に選定",
+        "excerpt": "MKシグナルは本日、韓国株の注目ゴールデンクロス銘柄として未来アセット証券(006800)と大韓光通信(010170)を分析したと伝えた。",
+        "body": "韓国の注目銘柄を分析するAI記者「MKシグナル」は本日、ゴールデンクロス突破銘柄として未来アセット証券(006800)と大韓光通信(010170)を提示した。今回の記事は、韓国株式市場でテクニカルな流れに関心が集まる銘柄を選別して紹介する形式だ。未来アセット証券は証券業種の代表的な銘柄の一つで、大韓光通信は光通信関連銘柄に分類される。投資家は両銘柄がMKシグナルのゴールデンクロス分析対象に含まれた点を参考にできる。ただし原文では、具体的な株価数値や投資判断は追加で示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "未来资产证券、大韩光通信入选MK Signal黄金交叉关注股",
+        "excerpt": "MK Signal今日表示，已将未来资产证券(006800)和大韩光通信(010170)作为韩国市场热门黄金交叉股票进行分析。",
+        "body": "分析韩国热门股票议题的AI记者“MK Signal”今日提出，未来资产证券(006800)和大韩光通信(010170)为黄金交叉突破股票。该内容以筛选并介绍韩国股市中技术走势受到关注的股票为形式。未来资产证券是证券行业的代表性股票之一，大韩光通信则被归类为光通信相关股票。投资者可参考这两只股票被纳入MK Signal黄金交叉分析对象这一事实。不过，原文并未进一步提供具体股价数据或投资意见。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mirae Asset Securities y Taihan Fiberoptics, en foco por cruce dorado",
+        "excerpt": "MK Signal informó hoy que analizó a Mirae Asset Securities (006800) y Taihan Fiberoptics (010170) como acciones coreanas de cruce dorado.",
+        "body": "MK Signal, periodista de IA que analiza acciones de actualidad en Corea del Sur, presentó hoy a Mirae Asset Securities (006800) y Taihan Fiberoptics (010170) como valores que superan un cruce dorado. El contenido selecciona y presenta nombres que atraen atención por su evolución técnica en el mercado bursátil coreano. Mirae Asset Securities es una de las compañías representativas del sector de valores, mientras que Taihan Fiberoptics se clasifica como una acción vinculada a comunicaciones ópticas. Los inversores pueden tomar nota de que ambas fueron incluidas en el análisis de cruce dorado de MK Signal. El texto original no añadió cifras concretas de precio ni opiniones de inversión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mirae Asset Securities e Taihan Fiberoptics entram no radar da MK Signal",
+        "excerpt": "A MK Signal informou hoje que analisou Mirae Asset Securities (006800) e Taihan Fiberoptics (010170) como ações sul-coreanas de cruzamento dourado.",
+        "body": "A MK Signal, repórter de IA que analisa ações em destaque na Coreia do Sul, apontou hoje Mirae Asset Securities (006800) e Taihan Fiberoptics (010170) como papéis que romperam um cruzamento dourado. O conteúdo seleciona e apresenta nomes que chamam atenção por seu movimento técnico no mercado acionário coreano. Mirae Asset Securities é uma das representantes do setor de valores mobiliários, enquanto Taihan Fiberoptics é classificada como ação ligada a comunicações ópticas. Investidores podem observar que ambas foram incluídas na análise de cruzamento dourado da MK Signal. O texto original não trouxe números específicos de preço nem recomendação de investimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mirae Asset Securities und Taihan Fiberoptics bei MK Signal im Fokus",
+        "excerpt": "MK Signal erklärte heute, Mirae Asset Securities (006800) und Taihan Fiberoptics (010170) als koreanische Golden-Cross-Aktien analysiert zu haben.",
+        "body": "MK Signal, ein KI-Reporter für aktuelle südkoreanische Aktien, nannte heute Mirae Asset Securities (006800) und Taihan Fiberoptics (010170) als Titel mit Golden-Cross-Ausbruch. Der Beitrag stellt ausgewählte Aktien vor, deren technische Entwicklung am koreanischen Aktienmarkt Aufmerksamkeit erhält. Mirae Asset Securities zählt zu den repräsentativen Werten der Wertpapierbranche, während Taihan Fiberoptics als Aktie aus dem Bereich optische Kommunikation eingeordnet wird. Anleger können berücksichtigen, dass beide Titel in die Golden-Cross-Analyse von MK Signal aufgenommen wurden. Der Originaltext enthielt keine zusätzlichen konkreten Kurszahlen oder Anlageeinschätzungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Mirae Asset Securities et Taihan Fiberoptics repérés par MK Signal",
+        "excerpt": "MK Signal a indiqué aujourd’hui avoir analysé Mirae Asset Securities (006800) et Taihan Fiberoptics (010170) comme valeurs coréennes à croisement doré.",
+        "body": "MK Signal, journaliste IA qui analyse les valeurs coréennes en vue, a présenté aujourd’hui Mirae Asset Securities (006800) et Taihan Fiberoptics (010170) comme des titres franchissant un croisement doré. L’article sélectionne et présente des actions attirant l’attention pour leur évolution technique sur le marché boursier coréen. Mirae Asset Securities fait partie des valeurs représentatives du secteur des titres financiers, tandis que Taihan Fiberoptics est classée parmi les actions liées aux communications optiques. Les investisseurs peuvent noter que les deux titres figurent dans l’analyse de croisement doré de MK Signal. Le texte original ne fournit pas de chiffres précis de cours ni d’avis d’investissement supplémentaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ميراي أسيت سيكيوريتيز وتايهان فايبر أوبتكس ضمن رصد MK Signal",
+        "excerpt": "قالت MK Signal اليوم إنها حللت سهمي Mirae Asset Securities (006800) وTaihan Fiberoptics (010170) كأسهم كورية ساخنة بنمط التقاطع الذهبي.",
+        "body": "حددت MK Signal، وهي مراسل ذكاء اصطناعي يحلل الأسهم الكورية ذات الاهتمام، اليوم سهمي Mirae Asset Securities (006800) وTaihan Fiberoptics (010170) كأسهم اخترقت نمط التقاطع الذهبي. يعرض المحتوى أسماء مختارة تحظى باهتمام في سوق الأسهم الكورية بسبب حركتها الفنية. تعد Mirae Asset Securities من الأسماء الممثلة لقطاع الأوراق المالية، بينما تصنف Taihan Fiberoptics كسهم مرتبط باتصالات الألياف الضوئية. يمكن للمستثمرين ملاحظة إدراج السهمين ضمن تحليل التقاطع الذهبي لدى MK Signal. ولم يورد النص الأصلي أرقاما محددة إضافية للأسعار أو آراء استثمارية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Mirae Asset Securities और Taihan Fiberoptics MK Signal की नजर में",
+        "excerpt": "MK Signal ने आज कहा कि उसने Mirae Asset Securities (006800) और Taihan Fiberoptics (010170) को कोरियाई गोल्डन-क्रॉस शेयरों के रूप में विश्लेषित किया।",
+        "body": "घरेलू कोरियाई शेयरों के प्रमुख मुद्दों का विश्लेषण करने वाले AI रिपोर्टर ‘MK Signal’ ने आज Mirae Asset Securities (006800) और Taihan Fiberoptics (010170) को गोल्डन-क्रॉस ब्रेकआउट शेयरों के रूप में पेश किया। यह सामग्री कोरियाई शेयर बाजार में तकनीकी चाल के कारण ध्यान खींचने वाले चुनिंदा शेयरों को प्रस्तुत करती है। Mirae Asset Securities प्रतिभूति क्षेत्र के प्रतिनिधि शेयरों में से एक है, जबकि Taihan Fiberoptics को ऑप्टिकल कम्युनिकेशन से जुड़े शेयर के रूप में वर्गीकृत किया जाता है। निवेशक यह देख सकते हैं कि दोनों नाम MK Signal के गोल्डन-क्रॉस विश्लेषण में शामिल हैं। मूल लेख में अतिरिक्त विशिष्ट शेयर मूल्य आंकड़े या निवेश राय नहीं दी गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Mirae Asset Securities dan Taihan Fiberoptics Masuk Pantauan MK Signal",
+        "excerpt": "MK Signal hari ini menyatakan telah menganalisis Mirae Asset Securities (006800) dan Taihan Fiberoptics (010170) sebagai saham golden cross Korea.",
+        "body": "MK Signal, reporter AI yang menganalisis saham isu panas domestik Korea, hari ini menyebut Mirae Asset Securities (006800) dan Taihan Fiberoptics (010170) sebagai saham yang menembus pola golden cross. Konten ini memilih dan memperkenalkan saham yang menarik perhatian karena pergerakan teknikal di pasar saham Korea. Mirae Asset Securities merupakan salah satu saham representatif di sektor sekuritas, sementara Taihan Fiberoptics diklasifikasikan sebagai saham terkait komunikasi optik. Investor dapat mencermati bahwa kedua saham tersebut masuk dalam objek analisis golden cross MK Signal. Artikel asli tidak menambahkan angka harga saham tertentu maupun opini investasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "48d10bba9222",
+    "slug": "mk시그널-디케이티-it-oled-실적-견인-및-로봇-신사업-성장-등에-주가-상승세-k시그널-추천-후-상승률-811986",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T19:28:05.881Z",
+    "updatedAt": "2026-05-06T19:28:05.881Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037109",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037109",
+    "titleFingerprint": "76c06c7ffa588bc11ba71ada705401a4159bebb6",
+    "dedupKeys": [
+      "48d10bba9222037270dd01f64ce2b22844d3b2eb",
+      "76c06c7ffa588bc11ba71ada705401a4159bebb6",
+      "9bfd5aa6e558efeb5f1fa0769a094416179141e1"
+    ],
+    "imageUrl": "/images/articles/48d10bba9222.png",
+    "i18n": {
+      "ko": {
+        "title": "디케이티 주가 상승세, IT OLED 실적·로봇 신사업 기대 부각",
+        "excerpt": "5월 6일 디케이티(290550)가 장 초반 27,200원에 거래되며 상승세를 보였다. IT OLED 실적 견인과 로봇 신사업 성장 기대가 주가 흐름의 배경으로 제시됐다.",
+        "body": "5월 6일 디케이티(290550)가 장 초반 상승세를 보였다. 전 거래일 디케이티 주가는 종가 기준 26,550원으로 마감했으며, 이날 오전 9시 12분 기준 현재가는 27,200원으로 제시됐다. 원문은 IT OLED 부문 실적 견인과 로봇 신사업 성장 등이 주가 상승 배경으로 거론됐다고 전했다. 또한 K시그널 추천 이후 상승률이 18.25%를 기록했다는 점도 함께 언급됐다. 관련 수치와 주가 흐름은 디케이티에 대한 투자자 관심이 이어지고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "DKT Shares Rise as IT OLED Results and Robot Business Draw Attention",
+        "excerpt": "On May 6, DKT (290550) traded at 27,200 won in early trading, extending gains as IT OLED performance and growth in its new robot business were cited as key factors.",
+        "body": "On May 6, DKT (290550) moved higher in early trading. The stock closed the previous session at 26,550 won, and its current price was reported at 27,200 won as of 9:12 a.m. The original report said the share price was being supported by earnings momentum from the IT OLED business and growth in the company’s new robot business. It also noted that the stock had risen 18.25% since being recommended by K Signal. These figures show continued investor attention on DKT’s recent stock movement. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ディーケーティー株が上昇、IT OLED実績とロボット新事業に注目",
+        "excerpt": "5月6日、ディーケーティー（290550）は序盤に27,200ウォンで取引され上昇した。IT OLEDの実績寄与とロボット新事業の成長期待が背景とされた。",
+        "body": "5月6日、ディーケーティー（290550）が取引序盤に上昇した。前取引日の同社株価は終値基準で26,550ウォンで引け、この日の午前9時12分時点の現在値は27,200ウォンと示された。原文では、IT OLED部門の実績けん引とロボット新事業の成長などが株価上昇の背景として挙げられた。また、Kシグナルの推奨後の上昇率が18.25%を記録した点も言及された。関連数値と株価の流れは、ディーケーティーへの投資家の関心が続いていることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "DKT股价走高，IT OLED业绩与机器人新业务受关注",
+        "excerpt": "5月6日，DKT（290550）早盘报27,200韩元并呈上涨走势。IT OLED业绩带动及机器人新业务成长被列为股价上涨背景。",
+        "body": "5月6日，DKT（290550）早盘呈现上涨走势。前一交易日DKT股价以收盘价26,550韩元结束交易，而当天上午9时12分的当前价格为27,200韩元。原文称，IT OLED部门的业绩带动以及机器人新业务成长等因素被提及为股价上涨背景。同时，报道还提到该股在K Signal推荐后涨幅达到18.25%。相关数据和股价表现显示，投资者对DKT的关注仍在延续。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Sube DKT por resultados de IT OLED y crecimiento del negocio robótico",
+        "excerpt": "El 6 de mayo, DKT (290550) cotizaba a 27.200 wones al inicio de la sesión. El avance se vinculó con el impulso de IT OLED y el crecimiento de su nuevo negocio robótico.",
+        "body": "El 6 de mayo, DKT (290550) mostró una tendencia alcista en las primeras operaciones. La acción cerró la sesión anterior en 26.550 wones y, a las 9:12 a.m., se situaba en 27.200 wones. El informe original señaló que el avance del precio estuvo relacionado con el aporte de resultados del negocio IT OLED y el crecimiento del nuevo negocio de robótica. También indicó que, desde la recomendación de K Signal, la acción acumuló una subida del 18,25%. Estas cifras reflejan que el interés de los inversores por DKT continúa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações da DKT sobem com IT OLED e novo negócio de robótica em foco",
+        "excerpt": "Em 6 de maio, a DKT (290550) era negociada a 27.200 wons no início do pregão. O avanço foi associado ao desempenho de IT OLED e ao crescimento do novo negócio de robótica.",
+        "body": "Em 6 de maio, a DKT (290550) apresentou alta no início do pregão. No dia anterior, as ações da companhia fecharam a 26.550 wons, enquanto o preço atual foi informado em 27.200 wons às 9h12. A reportagem original citou o impulso dos resultados do segmento de IT OLED e o crescimento do novo negócio de robótica como fatores por trás da alta das ações. Também mencionou que o papel acumulou valorização de 18,25% após a recomendação do K Signal. Os dados indicam que o interesse dos investidores pela DKT continua. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "DKT-Aktie steigt: IT-OLED-Ergebnisse und Robotikgeschäft im Fokus",
+        "excerpt": "Am 6. Mai notierte DKT (290550) im frühen Handel bei 27.200 Won. Als Gründe wurden die Entwicklung im IT-OLED-Geschäft und Wachstum im neuen Robotikgeschäft genannt.",
+        "body": "Am 6. Mai zeigte die Aktie von DKT (290550) im frühen Handel eine Aufwärtsbewegung. Am vorherigen Handelstag hatte sie bei 26.550 Won geschlossen; um 9:12 Uhr wurde der aktuelle Kurs mit 27.200 Won angegeben. Der Originalbericht nannte den Ergebnisbeitrag des IT-OLED-Bereichs sowie das Wachstum des neuen Robotikgeschäfts als Hintergründe für den Kursanstieg. Zudem wurde erwähnt, dass die Aktie seit der Empfehlung durch K Signal um 18,25% gestiegen ist. Die genannten Zahlen zeigen anhaltendes Anlegerinteresse an DKT. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "DKT progresse, porté par l’IT OLED et le nouveau secteur robotique",
+        "excerpt": "Le 6 mai, DKT (290550) s’échangeait à 27 200 wons en début de séance. La hausse a été associée aux performances IT OLED et à la croissance de son activité robotique.",
+        "body": "Le 6 mai, DKT (290550) a affiché une tendance haussière en début de séance. L’action avait clôturé la séance précédente à 26 550 wons, tandis que son prix actuel était indiqué à 27 200 wons à 9h12. Le rapport original a cité la contribution des résultats du segment IT OLED et la croissance de la nouvelle activité robotique comme éléments expliquant la hausse du titre. Il a également mentionné une progression de 18,25% depuis la recommandation de K Signal. Ces chiffres montrent que l’intérêt des investisseurs pour DKT se poursuit. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ارتفاع سهم DKT بدعم من أداء IT OLED ونمو نشاط الروبوتات",
+        "excerpt": "في 6 مايو، جرى تداول سهم DKT (290550) عند 27,200 وون في التعاملات المبكرة، مع الإشارة إلى أداء IT OLED ونمو نشاط الروبوتات الجديد كخلفية للصعود.",
+        "body": "في 6 مايو، أظهر سهم DKT (290550) اتجاها صاعدا في التعاملات المبكرة. كان السهم قد أغلق في الجلسة السابقة عند 26,550 وون، بينما بلغ السعر الحالي 27,200 وون في الساعة 9:12 صباحا. وذكر التقرير الأصلي أن دعم النتائج من قطاع IT OLED ونمو نشاط الروبوتات الجديد طُرحا كخلفية لارتفاع السعر. كما أشار إلى أن السهم سجل ارتفاعا بنسبة 18.25% منذ توصية K Signal. وتوضح هذه الأرقام استمرار اهتمام المستثمرين بحركة سهم DKT. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "DKT शेयर चढ़ा, IT OLED प्रदर्शन और रोबोट कारोबार पर ध्यान",
+        "excerpt": "6 मई को DKT (290550) शुरुआती कारोबार में 27,200 वॉन पर था। IT OLED प्रदर्शन और नए रोबोट व्यवसाय की वृद्धि को शेयर की तेजी की पृष्ठभूमि बताया गया।",
+        "body": "6 मई को DKT (290550) ने शुरुआती कारोबार में बढ़त दिखाई। पिछले कारोबारी दिन DKT का शेयर 26,550 वॉन पर बंद हुआ था, जबकि सुबह 9:12 बजे इसका वर्तमान भाव 27,200 वॉन बताया गया। मूल रिपोर्ट के अनुसार, IT OLED खंड के प्रदर्शन से मिली गति और नए रोबोट व्यवसाय की वृद्धि को शेयर मूल्य में तेजी की पृष्ठभूमि के रूप में उल्लेखित किया गया। रिपोर्ट में यह भी कहा गया कि K Signal की सिफारिश के बाद शेयर में 18.25% की बढ़त दर्ज हुई। ये आंकड़े DKT को लेकर निवेशकों की जारी रुचि दिखाते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham DKT Menguat, Kinerja IT OLED dan Bisnis Robot Jadi Sorotan",
+        "excerpt": "Pada 6 Mei, DKT (290550) diperdagangkan di 27.200 won pada awal sesi. Kinerja IT OLED dan pertumbuhan bisnis robot baru disebut sebagai latar kenaikan saham.",
+        "body": "Pada 6 Mei, DKT (290550) menunjukkan tren kenaikan pada awal perdagangan. Pada sesi sebelumnya, saham DKT ditutup di 26.550 won, sementara harga terkini pada pukul 09.12 tercatat 27.200 won. Laporan asli menyebut kinerja dari segmen IT OLED dan pertumbuhan bisnis robot baru sebagai latar belakang kenaikan harga saham. Laporan itu juga mencatat bahwa saham telah naik 18,25% sejak direkomendasikan oleh K Signal. Angka-angka tersebut menunjukkan minat investor terhadap pergerakan saham DKT masih berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cf1b94cea2b8",
+    "slug": "1억으로-156억-만들었다증권가-전설이-된-섬소년-288085",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T19:27:08.281Z",
+    "updatedAt": "2026-05-06T19:27:08.281Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037620",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037620",
+    "titleFingerprint": "ad7ef7e0dbf5d5be176da261d46f4aaf17f8317c",
+    "dedupKeys": [
+      "cf1b94cea2b87dcfa19e57e0b46f67a8c89e7175",
+      "ad7ef7e0dbf5d5be176da261d46f4aaf17f8317c",
+      "7b0efca38d56f43cf8758f7528ad8fb54c19bae8"
+    ],
+    "imageUrl": "/images/articles/cf1b94cea2b8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "강방천 투자 신화, 1억을 156억으로 키운 ‘섬소년’의 전설",
+        "excerpt": "매경플러스 ‘한국의 위대한 투자자’ 첫 주인공으로 강방천 에셋플러스자산운용 설립자가 소개되며, 1억을 156억으로 키운 투자 이력이 조명됐다.",
+        "body": "매경플러스는 ‘한국의 위대한 투자자’ 시리즈 첫 주인공으로 강방천 에셋플러스자산운용 설립자를 소개했다. 원문은 ‘강방천 1편-전설의 시작’이라는 제목 아래, 그가 한국 투자업계의 살아 있는 전설로 평가받는 인물이라고 전했다. 핵심 수치로는 1억 원을 156억 원으로 키운 투자 이력이 제시됐다. ‘섬소년’으로 불린 인물이 증권가의 전설이 되기까지의 출발점을 다루는 구성이다. 이번 소개는 한국 투자자 시리즈의 첫 회라는 점에서 강방천의 투자 여정과 업계 내 상징성을 조명한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kang Bang-cheon’s Investing Legend: From 100 Million Won to 15.6 Billion",
+        "excerpt": "MaeKyung Plus introduced AssetPlus founder Kang Bang-cheon as the first figure in its “Great Korean Investors” series, highlighting his record of turning 100 million won into 15.6 billion won.",
+        "body": "MaeKyung Plus introduced Kang Bang-cheon, founder of AssetPlus Asset Management, as the first subject of its “Great Korean Investors” series. Under the theme “Kang Bang-cheon Part 1: The Beginning of a Legend,” the original article described him as a living legend in Korea’s investment industry. The key figure presented was his investment record of growing 100 million won into 15.6 billion won. The piece frames the starting point of how a so-called island boy became a legend in the securities world. As the opening installment of the investor series, it focuses on Kang’s investment journey and symbolic status in the industry. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "姜芳天氏の投資伝説、1億ウォンを156億ウォンに育てた島の少年",
+        "excerpt": "毎経プラスの「韓国の偉大な投資家」シリーズ第1回に、AssetPlus資産運用創業者の姜芳天氏が登場し、1億ウォンを156億ウォンに増やした投資歴が注目された。",
+        "body": "毎経プラスは「韓国の偉大な投資家」シリーズの最初の人物として、AssetPlus資産運用創業者の姜芳天氏を紹介した。原文は「姜芳天 第1編・伝説の始まり」という構成で、同氏を韓国投資業界の生きた伝説と伝えている。中心となる数字は、1億ウォンを156億ウォンに育てた投資実績だ。「島の少年」と呼ばれた人物が証券街の伝説になるまでの出発点を扱っている。シリーズ第1回として、姜氏の投資の歩みと業界内での象徴性を照らし出す内容だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "姜芳天投资传奇：从1亿韩元做到156亿韩元的“岛少年”",
+        "excerpt": "每日经济Plus在“韩国伟大投资者”系列首篇中介绍AssetPlus资产管理创始人姜芳天，并聚焦其将1亿韩元增至156亿韩元的投资经历。",
+        "body": "每日经济Plus将AssetPlus资产管理创始人姜芳天作为“韩国伟大投资者”系列的首位主人公介绍。原文以“姜芳天第1篇：传奇的开始”为主题，称他是韩国投资业界的活着的传奇。文章提出的核心数字是，他曾将1亿韩元增至156亿韩元。这一内容讲述了被称为“岛少年”的人物如何走向证券界传奇的起点。作为该投资者系列的开篇，文章重点呈现姜芳天的投资历程及其在行业中的象征意义。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La leyenda inversora de Kang Bang-cheon: de 100 millones a 15.600 millones de wones",
+        "excerpt": "MaeKyung Plus presentó al fundador de AssetPlus, Kang Bang-cheon, como primer protagonista de “Grandes inversores de Corea”, destacando cómo convirtió 100 millones de wones en 15.600 millones.",
+        "body": "MaeKyung Plus presentó a Kang Bang-cheon, fundador de AssetPlus Asset Management, como el primer protagonista de su serie “Grandes inversores de Corea”. Bajo el enfoque “Kang Bang-cheon, parte 1: el inicio de una leyenda”, el texto original lo describe como una leyenda viva del sector inversor coreano. La cifra central es su historial de haber convertido 100 millones de wones en 15.600 millones de wones. El artículo aborda el punto de partida de cómo un llamado chico de una isla llegó a ser una leyenda en el mercado de valores. Como primera entrega de la serie, destaca su trayectoria inversora y su valor simbólico en la industria. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "A lenda de Kang Bang-cheon: de 100 milhões para 15,6 bilhões de won",
+        "excerpt": "O MaeKyung Plus apresentou Kang Bang-cheon, fundador da AssetPlus, como o primeiro nome da série “Grandes Investidores da Coreia”, destacando sua trajetória de 100 milhões para 15,6 bilhões de won.",
+        "body": "O MaeKyung Plus apresentou Kang Bang-cheon, fundador da AssetPlus Asset Management, como o primeiro personagem da série “Grandes Investidores da Coreia”. Com o tema “Kang Bang-cheon, parte 1: o início da lenda”, o texto original o descreve como uma lenda viva do setor de investimentos coreano. O principal número citado é o histórico de transformar 100 milhões de won em 15,6 bilhões de won. A matéria trata do ponto de partida de como um chamado garoto da ilha se tornou uma lenda do mercado de valores. Como abertura da série, destaca sua jornada de investimento e seu simbolismo no setor. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kang Bang-cheons Anlegerlegende: Von 100 Millionen auf 15,6 Milliarden Won",
+        "excerpt": "MaeKyung Plus stellt AssetPlus-Gründer Kang Bang-cheon als ersten Protagonisten der Reihe “Große koreanische Investoren” vor und beleuchtet seinen Weg von 100 Millionen auf 15,6 Milliarden Won.",
+        "body": "MaeKyung Plus stellte Kang Bang-cheon, Gründer von AssetPlus Asset Management, als ersten Protagonisten der Reihe “Große koreanische Investoren” vor. Der Originalbeitrag steht unter dem Thema “Kang Bang-cheon Teil 1: Der Beginn einer Legende” und beschreibt ihn als lebende Legende der koreanischen Investmentbranche. Die zentrale Zahl ist seine Bilanz, 100 Millionen Won auf 15,6 Milliarden Won vermehrt zu haben. Der Beitrag zeigt den Ausgangspunkt, wie ein sogenannter Inseljunge zur Legende der Börsenwelt wurde. Als Auftakt der Serie beleuchtet er Kangs Anlageweg und seine symbolische Bedeutung in der Branche. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La légende Kang Bang-cheon: de 100 millions à 15,6 milliards de wons",
+        "excerpt": "MaeKyung Plus présente Kang Bang-cheon, fondateur d’AssetPlus, comme premier portrait de la série “Grands investisseurs coréens”, en soulignant son passage de 100 millions à 15,6 milliards de wons.",
+        "body": "MaeKyung Plus a présenté Kang Bang-cheon, fondateur d’AssetPlus Asset Management, comme le premier protagoniste de sa série “Grands investisseurs coréens”. Sous le thème “Kang Bang-cheon, partie 1: le début d’une légende”, l’article original le décrit comme une légende vivante du secteur coréen de l’investissement. Le chiffre clé avancé est son parcours consistant à faire passer 100 millions de wons à 15,6 milliards de wons. Le texte revient sur le point de départ d’un homme surnommé garçon d’une île devenu légende du monde des valeurs mobilières. Cette première livraison met en lumière son parcours d’investisseur et sa portée symbolique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسطورة كانغ بانغ تشون الاستثمارية: من 100 مليون إلى 15.6 مليار وون",
+        "excerpt": "قدمت MaeKyung Plus مؤسس AssetPlus كانغ بانغ تشون كأول شخصية في سلسلة “كبار المستثمرين في كوريا”، مسلطة الضوء على تحويله 100 مليون وون إلى 15.6 مليار وون.",
+        "body": "قدمت MaeKyung Plus كانغ بانغ تشون، مؤسس AssetPlus Asset Management، كأول شخصية في سلسلة “كبار المستثمرين في كوريا”. وجاء النص الأصلي تحت عنوان “كانغ بانغ تشون، الجزء الأول: بداية الأسطورة”، واصفا إياه بأنه أسطورة حية في قطاع الاستثمار الكوري. الرقم المحوري في القصة هو سجله في تنمية 100 مليون وون إلى 15.6 مليار وون. ويتناول المقال نقطة البداية لشخص وُصف بأنه فتى من جزيرة قبل أن يصبح أسطورة في عالم الأوراق المالية. وباعتباره افتتاح السلسلة، يركز النص على مسيرته الاستثمارية ومكانته الرمزية في القطاع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कांग बांग-चॉन की निवेश गाथा: 10 करोड़ वॉन से 1560 करोड़ वॉन तक",
+        "excerpt": "MaeKyung Plus ने AssetPlus के संस्थापक कांग बांग-चॉन को “कोरिया के महान निवेशक” श्रृंखला का पहला चेहरा बताया और 10 करोड़ वॉन को 1560 करोड़ वॉन बनाने की उनकी निवेश यात्रा पर रोशनी डाली।",
+        "body": "MaeKyung Plus ने AssetPlus Asset Management के संस्थापक कांग बांग-चॉन को “कोरिया के महान निवेशक” श्रृंखला के पहले प्रमुख व्यक्तित्व के रूप में प्रस्तुत किया। मूल लेख “कांग बांग-चॉन भाग 1: दंतकथा की शुरुआत” के रूप में उन्हें कोरियाई निवेश उद्योग की जीवित दंतकथा बताता है। लेख में मुख्य संख्या यह है कि उन्होंने 10 करोड़ वॉन को 1560 करोड़ वॉन तक बढ़ाया। यह सामग्री उस शुरुआती बिंदु को दिखाती है जहां एक द्वीप के लड़के कहे गए व्यक्ति ने प्रतिभूति जगत की दंतकथा का रूप लिया। श्रृंखला की पहली कड़ी के रूप में लेख उनकी निवेश यात्रा और उद्योग में प्रतीकात्मक स्थिति पर केंद्रित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Legenda Investasi Kang Bang-cheon: Dari 100 Juta Menjadi 15,6 Miliar Won",
+        "excerpt": "MaeKyung Plus memperkenalkan pendiri AssetPlus Kang Bang-cheon sebagai tokoh pertama seri “Investor Hebat Korea”, menyoroti rekam jejaknya mengubah 100 juta won menjadi 15,6 miliar won.",
+        "body": "MaeKyung Plus memperkenalkan Kang Bang-cheon, pendiri AssetPlus Asset Management, sebagai tokoh pertama dalam seri “Investor Hebat Korea”. Artikel asli bertema “Kang Bang-cheon Bagian 1: Awal Sebuah Legenda” dan menyebutnya sebagai legenda hidup di industri investasi Korea. Angka utama yang disampaikan adalah rekam jejaknya mengembangkan 100 juta won menjadi 15,6 miliar won. Tulisan itu membahas titik awal bagaimana sosok yang disebut anak pulau menjadi legenda di dunia sekuritas. Sebagai pembuka seri, artikel ini menyoroti perjalanan investasi Kang dan makna simbolisnya di industri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "cb20f018abdd",
     "slug": "칠천피-경사에도여전히-싼-삼전닉스-나는-배고프다-주식-초고수는-지금-156550",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Dana Pensiun Nasional Korea Diminta Naikkan Porsi KOSPI, KCMI Soroti Alokasi Strategis",
         "excerpt": "Korea Capital Market Institute menyatakan National Pension Service perlu menaikkan porsi KOSPI dan memperluas alokasi aset strategis, menurut Maeil Business Market.",
         "body": "Korea Capital Market Institute menyatakan National Pension Service perlu meningkatkan porsi KOSPI dan memperkuat alokasi aset strategis, menurut Maeil Business Market. Rekomendasi ini terkait pembahasan mengenai arah investasi saham domestik dan strategi alokasi aset dana pensiun tersebut.\n\nMenurut laporan itu, inti pernyataannya adalah National Pension Service sebaiknya menaikkan eksposur terhadap KOSPI. Selain itu, disebutkan pula perlunya memperluas alokasi aset strategis sebagai kerangka jangka menengah hingga panjang, bukan hanya berdasarkan keputusan pengelolaan jangka pendek.\n\nPernyataan ini muncul di tengah perhatian pasar terhadap peran dana pensiun di pasar saham domestik dan kondisi penawaran-permintaan KOSPI. Ringkasan asli tidak memuat rincian mengenai besaran kenaikan atau waktu pelaksanaan.\n\nSumber: Maeil Business Market"
-      }
-    }
-  },
-  {
-    "id": "9ef18295ac93",
-    "slug": "코스피-3000p-뛸-동안-고작-300p-올라삼천닥은-언제칠천피-시대---뉴시스-864663",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:46:55.427Z",
-    "updatedAt": "2026-05-06T07:46:55.427Z",
-    "sourceName": "뉴시스",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PcXl1Nzg5eUpCd3ZtWXNtMXNDOGxRZzFQbUpyQml1TVFmZndQWGdfb09fb2NGM3Y1VmFMR3lZZzB1Z08yM1Y1RVVSUF9Hd20xcUlsYnFoMmJ0bzBWelZCVNIBeEFVX3lxTE0wam53dHFEa3V5OGxYalhTUGtwMXUyb2FnZ1dSRWczTWNWWUxzV0twclgzcnNiR1lfdXBhbGhpQ0RYZkJxSk9iOTZrNTNITWtMNmcyRk9tT3A4X3Q5ZXRxSFYtNWQxVmU1WUhZQ29ERGpoVUc4S3lDYg?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PcXl1Nzg5eUpCd3ZtWXNtMXNDOGxRZzFQbUpyQml1TVFmZndQWGdfb09fb2NGM3Y1VmFMR3lZZzB1Z08yM1Y1RVVSUF9Hd20xcUlsYnFoMmJ0bzBWelZCVNIBeEFVX3lxTE0wam53dHFEa3V5OGxYalhTUGtwMXUyb2FnZ1dSRWczTWNWWUxzV0twclgzcnNiR1lfdXBhbGhpQ0RYZkJxSk9iOTZrNTNITWtMNmcyRk9tT3A4X3Q5ZXRxSFYtNWQxVmU1WUhZQ29ERGpoVUc4S3lDYg?oc=5",
-    "titleFingerprint": "ca7548279313d92b0a6a08610a0a02d15f3465b0",
-    "dedupKeys": [
-      "9ef18295ac9371f528d7f7865c6235de7e339136",
-      "ca7548279313d92b0a6a08610a0a02d15f3465b0",
-      "654ecc3d49f3d7c5aad495990b005c25e1366e09"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 300포인트 상승에 그친 이유, ‘삼천닥’ 기대는 언제 현실화되나",
-        "excerpt": "뉴시스는 ‘칠천피 시대’ 흐름 속에서 코스피가 3000포인트 오르는 동안 코스닥은 300포인트 상승에 그친 시장 격차를 조명했다.",
-        "body": "뉴시스는 ‘칠천피 시대’를 다룬 기사에서 코스피가 3000포인트 오르는 동안 코스닥은 300포인트 상승에 그쳤다는 점을 짚으며 ‘삼천닥’ 기대가 언제 현실화될지 주목했다.\n\n기사 제목은 대형주 중심의 코스피 상승 흐름과 비교해 코스닥의 오름폭이 제한적이었다는 시장 격차를 핵심 수치로 제시했다. 코스피 3000포인트 상승과 코스닥 300포인트 상승이라는 대비가 ‘칠천피 시대’ 논의의 배경으로 다뤄졌다.\n\n이에 따라 투자자 관심은 코스닥이 상대적 부진을 벗어나 ‘삼천닥’으로 불리는 3000선 기대에 다가설 수 있는지에 모인다. 원문은 코스피와 코스닥 간 온도 차를 중심으로 시장 흐름을 설명했다.\n출처: 뉴시스"
-      },
-      "en": {
-        "title": "KOSDAQ’s 300-Point Gain Raises Question: When Will ‘Samcheondak’ Arrive?",
-        "excerpt": "Newsis highlighted the market gap in the ‘7,000 KOSPI era,’ noting that while the KOSPI rose 3,000 points, the KOSDAQ gained only 300 points.",
-        "body": "Newsis, in an article on the ‘7,000 KOSPI era,’ noted that while the KOSPI climbed 3,000 points, the KOSDAQ rose only 300 points, drawing attention to when expectations for ‘Samcheondak’ may become reality.\n\nThe headline presented the contrast between the KOSPI’s rise, led by large-cap stocks, and the more limited advance in the KOSDAQ through key figures. The comparison of a 3,000-point KOSPI gain and a 300-point KOSDAQ gain framed the discussion around the ‘7,000 KOSPI era.’\n\nInvestor attention therefore turns to whether the KOSDAQ can move beyond relative weakness and approach the 3,000 level known as ‘Samcheondak.’ The original article focused on the differing momentum between the KOSPI and KOSDAQ.\nSource: Newsis"
-      },
-      "ja": {
-        "title": "コスダック300ポイント上昇止まり、『三千ダック』期待はいつ現実に",
-        "excerpt": "ニューシスは「七千ピ時代」の流れの中で、KOSPIが3000ポイント上昇する一方、KOSDAQは300ポイント上昇にとどまった市場格差を伝えた。",
-        "body": "ニューシスは「七千ピ時代」を扱った記事で、KOSPIが3000ポイント上昇する間、KOSDAQは300ポイントの上昇にとどまった点を指摘し、「三千ダック」への期待がいつ現実化するかに注目した。\n\n記事の見出しは、大型株中心のKOSPI上昇の流れと比べ、KOSDAQの上げ幅が限定的だったという市場の差を主要な数字で示した。KOSPIの3000ポイント上昇とKOSDAQの300ポイント上昇という対比が、「七千ピ時代」論議の背景として扱われた。\n\nこれにより投資家の関心は、KOSDAQが相対的な低迷を抜け出し、「三千ダック」と呼ばれる3000台への期待に近づけるかに集まっている。原文はKOSPIとKOSDAQの温度差を中心に市場の流れを説明した。\n出典: ニューシス"
-      },
-      "zh": {
-        "title": "KOSDAQ仅涨300点，“三千达克”期待何时成为现实？",
-        "excerpt": "纽西斯在“七千PI时代”报道中指出，KOSPI上涨3000点期间，KOSDAQ仅上涨300点，凸显韩国股市板块间的差距。",
-        "body": "纽西斯在有关“七千PI时代”的报道中指出，KOSPI上涨3000点的同时，KOSDAQ仅上涨300点，并关注所谓“三千达克”的期待何时能够成为现实。\n\n报道标题以关键数字呈现了市场差距：与以大型股为中心的KOSPI上涨走势相比，KOSDAQ的涨幅相对有限。KOSPI上涨3000点与KOSDAQ上涨300点的对比，成为“七千PI时代”讨论的背景。\n\n因此，投资者关注的焦点在于KOSDAQ能否摆脱相对低迷，并接近被称为“三千达克”的3000点期待。原文围绕KOSPI与KOSDAQ之间的温差解释了市场走势。\n来源: 纽西斯"
-      },
-      "es": {
-        "title": "KOSDAQ solo sube 300 puntos: ¿cuándo llegará el esperado ‘Samcheondak’?",
-        "excerpt": "Newsis destacó la brecha del mercado en la era del ‘KOSPI 7000’: mientras el KOSPI subió 3000 puntos, el KOSDAQ avanzó apenas 300 puntos.",
-        "body": "Newsis, en un artículo sobre la era del ‘KOSPI 7000’, señaló que mientras el KOSPI subió 3000 puntos, el KOSDAQ avanzó solo 300 puntos, poniendo el foco en cuándo podría hacerse realidad la expectativa del ‘Samcheondak’.\n\nEl titular presentó con cifras clave la diferencia entre el avance del KOSPI, centrado en grandes valores, y el crecimiento más limitado del KOSDAQ. La comparación entre una subida de 3000 puntos del KOSPI y una de 300 puntos del KOSDAQ sirvió como contexto del debate sobre la era del ‘KOSPI 7000’.\n\nAsí, la atención de los inversores se dirige a si el KOSDAQ podrá superar su debilidad relativa y acercarse al nivel de 3000 conocido como ‘Samcheondak’. El texto original explicó el mercado a partir del contraste entre KOSPI y KOSDAQ.\nFuente: Newsis"
-      },
-      "pt": {
-        "title": "KOSDAQ sobe só 300 pontos: quando a meta ‘Samcheondak’ pode chegar?",
-        "excerpt": "A Newsis destacou a diferença no mercado durante a era do ‘KOSPI 7000’: enquanto o KOSPI avançou 3000 pontos, o KOSDAQ subiu apenas 300 pontos.",
-        "body": "A Newsis, em uma reportagem sobre a era do ‘KOSPI 7000’, observou que enquanto o KOSPI subiu 3000 pontos, o KOSDAQ avançou apenas 300 pontos, chamando atenção para quando a expectativa do ‘Samcheondak’ poderá se tornar realidade.\n\nO título apresentou, por meio de números centrais, a diferença entre a alta do KOSPI, impulsionada por grandes ações, e o avanço mais limitado do KOSDAQ. A comparação entre a alta de 3000 pontos do KOSPI e a de 300 pontos do KOSDAQ serviu de pano de fundo para a discussão sobre a era do ‘KOSPI 7000’.\n\nCom isso, o foco dos investidores recai sobre se o KOSDAQ conseguirá sair da fraqueza relativa e se aproximar do nível de 3000 conhecido como ‘Samcheondak’. O texto original explicou o mercado pela diferença de ritmo entre KOSPI e KOSDAQ.\nFonte: Newsis"
-      },
-      "de": {
-        "title": "KOSDAQ steigt nur 300 Punkte: Wann wird ‘Samcheondak’ Realität?",
-        "excerpt": "Newsis beleuchtete die Marktlücke in der ‘KOSPI-7000-Ära’: Während der KOSPI um 3000 Punkte stieg, legte der KOSDAQ nur 300 Punkte zu.",
-        "body": "Newsis wies in einem Artikel zur ‘KOSPI-7000-Ära’ darauf hin, dass der KOSPI um 3000 Punkte zulegte, während der KOSDAQ nur 300 Punkte stieg, und rückte die Frage in den Fokus, wann die Erwartung eines ‘Samcheondak’ Wirklichkeit werden könnte.\n\nDie Überschrift stellte die Marktdifferenz mit zentralen Zahlen dar: Der von großen Aktien geprägte Anstieg des KOSPI stand einem deutlich begrenzteren Zuwachs des KOSDAQ gegenüber. Der Vergleich zwischen 3000 Punkten beim KOSPI und 300 Punkten beim KOSDAQ bildete den Hintergrund der Diskussion über die ‘KOSPI-7000-Ära’.\n\nDamit richtet sich das Interesse der Anleger darauf, ob der KOSDAQ seine relative Schwäche überwinden und sich der als ‘Samcheondak’ bezeichneten Marke von 3000 Punkten nähern kann. Der Originaltext erklärte die Marktbewegung anhand des Unterschieds zwischen KOSPI und KOSDAQ.\nQuelle: Newsis"
-      },
-      "fr": {
-        "title": "Le KOSDAQ limité à 300 points: quand le ‘Samcheondak’ arrivera-t-il?",
-        "excerpt": "Newsis a souligné l’écart de marché dans l’ère du ‘KOSPI 7000’: alors que le KOSPI a gagné 3000 points, le KOSDAQ n’a progressé que de 300 points.",
-        "body": "Newsis, dans un article consacré à l’ère du ‘KOSPI 7000’, a relevé que le KOSPI avait gagné 3000 points tandis que le KOSDAQ ne progressait que de 300 points, attirant l’attention sur le moment où l’attente du ‘Samcheondak’ pourrait se concrétiser.\n\nLe titre présente, à partir de chiffres clés, l’écart entre la hausse du KOSPI portée par les grandes capitalisations et la progression plus limitée du KOSDAQ. La comparaison entre une hausse de 3000 points du KOSPI et de 300 points du KOSDAQ sert de contexte au débat sur l’ère du ‘KOSPI 7000’.\n\nL’attention des investisseurs se porte donc sur la capacité du KOSDAQ à sortir de sa faiblesse relative et à se rapprocher du niveau de 3000 appelé ‘Samcheondak’. Le texte original explique le marché autour du contraste entre KOSPI et KOSDAQ.\nSource: Newsis"
-      },
-      "ar": {
-        "title": "كوسداك يكتفي بـ300 نقطة: متى يصبح ‘سام تشون داك’ واقعا؟",
-        "excerpt": "سلطت نيوسيس الضوء على فجوة السوق في سياق ‘عصر كوسبي 7000’، إذ ارتفع كوسبي 3000 نقطة بينما صعد كوسداك 300 نقطة فقط.",
-        "body": "ذكرت نيوسيس في تقرير عن ‘عصر كوسبي 7000’ أن مؤشر كوسبي ارتفع 3000 نقطة، بينما اكتفى كوسداك بارتفاع قدره 300 نقطة، ما جعل السؤال مطروحا حول موعد تحقق توقعات ‘سام تشون داك’.\n\nقدم العنوان الفارق في السوق عبر أرقام رئيسية، إذ قارن بين صعود كوسبي المرتبط بالأسهم الكبرى وبين الارتفاع المحدود نسبيا لكوسداك. وشكلت المقارنة بين ارتفاع كوسبي 3000 نقطة وصعود كوسداك 300 نقطة خلفية للنقاش حول ‘عصر كوسبي 7000’.\n\nلذلك يتجه اهتمام المستثمرين إلى ما إذا كان كوسداك سيتمكن من تجاوز ضعفه النسبي والاقتراب من مستوى 3000 المعروف باسم ‘سام تشون داك’. وركز النص الأصلي على اختلاف الزخم بين كوسبي وكوسداك في شرح حركة السوق.\nالمصدر: نيوسيس"
-      },
-      "hi": {
-        "title": "KOSDAQ सिर्फ 300 अंक चढ़ा, ‘Samcheondak’ की उम्मीद कब होगी पूरी?",
-        "excerpt": "न्यूजिस ने ‘KOSPI 7000 युग’ के संदर्भ में बाजार अंतर को रेखांकित किया: KOSPI 3000 अंक चढ़ा, जबकि KOSDAQ केवल 300 अंक बढ़ा।",
-        "body": "न्यूजिस ने ‘KOSPI 7000 युग’ पर अपनी रिपोर्ट में बताया कि KOSPI के 3000 अंक चढ़ने के दौरान KOSDAQ केवल 300 अंक बढ़ा, जिससे ‘Samcheondak’ की उम्मीद कब वास्तविकता बनेगी, इस पर ध्यान गया।\n\nशीर्षक ने प्रमुख आंकड़ों के जरिए बाजार का अंतर दिखाया। बड़ी कंपनियों के शेयरों पर केंद्रित KOSPI की बढ़त की तुलना में KOSDAQ की तेजी सीमित रही। KOSPI की 3000 अंक की बढ़त और KOSDAQ की 300 अंक की बढ़त का अंतर ‘KOSPI 7000 युग’ की चर्चा की पृष्ठभूमि बना।\n\nइसलिए निवेशकों की नजर इस बात पर है कि क्या KOSDAQ अपनी सापेक्ष कमजोरी से निकलकर 3000 स्तर, जिसे ‘Samcheondak’ कहा जाता है, के करीब पहुंच सकता है। मूल लेख ने KOSPI और KOSDAQ के बीच अंतर के आधार पर बाजार प्रवाह को समझाया।\nस्रोत: न्यूजिस"
-      },
-      "id": {
-        "title": "KOSDAQ Hanya Naik 300 Poin, Kapan Harapan ‘Samcheondak’ Terwujud?",
-        "excerpt": "Newsis menyoroti kesenjangan pasar dalam era ‘KOSPI 7000’: saat KOSPI naik 3000 poin, KOSDAQ hanya bertambah 300 poin.",
-        "body": "Newsis, dalam artikel tentang era ‘KOSPI 7000’, mencatat bahwa ketika KOSPI naik 3000 poin, KOSDAQ hanya bertambah 300 poin, sehingga perhatian tertuju pada kapan harapan ‘Samcheondak’ dapat menjadi kenyataan.\n\nJudul artikel menampilkan kesenjangan pasar melalui angka utama, yaitu perbedaan antara kenaikan KOSPI yang berpusat pada saham berkapitalisasi besar dan kenaikan KOSDAQ yang lebih terbatas. Perbandingan kenaikan KOSPI sebesar 3000 poin dan KOSDAQ sebesar 300 poin menjadi latar pembahasan era ‘KOSPI 7000’.\n\nDengan demikian, perhatian investor tertuju pada apakah KOSDAQ dapat keluar dari kelemahan relatif dan mendekati level 3000 yang disebut ‘Samcheondak’. Artikel asli menjelaskan arah pasar dengan menyoroti perbedaan momentum antara KOSPI dan KOSDAQ.\nSumber: Newsis"
-      }
-    }
-  },
-  {
-    "id": "21ffb1ce90c4",
-    "slug": "與-코스피7000-돌파에-경이로운-수치李대통령-국정-신뢰가-상승-작용---vdaumnet-745712",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:45:52.008Z",
-    "updatedAt": "2026-05-06T07:45:52.008Z",
-    "sourceName": "v.daum.net",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qdkw3NlBNMkVtTTNSVUhUVUZkUGNpSWJDTlY0NFRVR1pENzhVVGw5RjMxR181YjFHX3d6cEI5ZHgxRjdoSVZxdzhKeFJYVmc?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qdkw3NlBNMkVtTTNSVUhUVUZkUGNpSWJDTlY0NFRVR1pENzhVVGw5RjMxR181YjFHX3d6cEI5ZHgxRjdoSVZxdzhKeFJYVmc?oc=5",
-    "titleFingerprint": "fba61d50f189d73e8f4c045c5ff107de9f41583c",
-    "dedupKeys": [
-      "21ffb1ce90c4a86588660b5dca8cba0872d5d847",
-      "fba61d50f189d73e8f4c045c5ff107de9f41583c",
-      "08bd3bc2a358c573e00882242804de81e937177b"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 돌파에 여당 “경이로운 수치”…李대통령 신뢰 효과 주목",
-        "excerpt": "여당은 코스피가 7000선을 돌파한 데 대해 경이로운 수치라고 평가하며, 이재명 대통령의 국정 운영에 대한 신뢰가 증시 상승에 작용했다고 밝혔다.",
-        "body": "여당은 코스피가 7000선을 돌파한 것과 관련해 “경이로운 수치”라고 평가했다. 여당은 이재명 대통령의 국정 운영에 대한 신뢰가 주식시장 상승에 긍정적으로 작용했다고 밝혔다.\n\n이번 발언은 코스피 지수가 7000선을 넘어섰다는 소식에 대한 정치권의 반응으로 나왔다. 원문은 여당이 해당 수치를 이례적 성과로 평가하며, 대통령 국정 신뢰와 시장 흐름을 연결해 언급했다고 전했다.\n\n여당은 증시 상승 흐름을 국정 운영 신뢰와 맞물린 결과로 해석했다. 다만 원문에 제시된 내용은 여당의 평가와 코스피 7000 돌파 사실에 한정돼 있다.\n\n출처: v.daum.net"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 as Ruling Party Calls It “Remarkable,” Cites Trust in Lee",
-        "excerpt": "South Korea’s ruling party described the KOSPI’s move above 7,000 as a remarkable figure, saying confidence in President Lee’s administration helped support the stock market rise.",
-        "body": "South Korea’s ruling party called the KOSPI’s break above the 7,000 mark a “remarkable figure.” It said confidence in President Lee Jae-myung’s administration had positively contributed to the rise in the stock market.\n\nThe comment came as a political response to news that the KOSPI index had surpassed 7,000. According to the original report, the ruling party framed the level as an unusual achievement and linked the market move to public trust in the president’s governance.\n\nThe ruling party interpreted the stock market’s upward trend as connected to confidence in state affairs. The original information is limited to the ruling party’s assessment and the KOSPI’s move above 7,000.\n\nSource: v.daum.net"
-      },
-      "ja": {
-        "title": "KOSPI 7000突破に与党「驚異的な数値」李大統領への信頼効果を強調",
-        "excerpt": "与党はKOSPIが7000を突破したことについて驚異的な数値だと評価し、李在明大統領の国政運営への信頼が株価上昇に作用したと述べた。",
-        "body": "与党は、KOSPIが7000の大台を突破したことについて「驚異的な数値」だと評価した。与党は、李在明大統領の国政運営に対する信頼が株式市場の上昇に前向きに作用したと述べた。\n\nこの発言は、KOSPI指数が7000を上回ったというニュースに対する政治圏の反応として出たものだ。原文は、与党がこの水準を異例の成果と評価し、大統領の国政信頼と市場の流れを結び付けて言及したと伝えた。\n\n与党は株式市場の上昇基調を、国政運営への信頼と連動した結果として解釈した。ただし原文で示された内容は、与党の評価とKOSPI 7000突破の事実に限られている。\n\n出典: v.daum.net"
-      },
-      "zh": {
-        "title": "KOSPI突破7000点，执政党称“惊人数字”并提及李总统信任效应",
-        "excerpt": "韩国执政党评价KOSPI突破7000点为惊人数字，并表示对李在明总统施政的信任对股市上涨产生了积极作用。",
-        "body": "韩国执政党就KOSPI突破7000点表示，这是“惊人的数字”。执政党称，对李在明总统施政的信任对股市上涨起到了积极作用。\n\n这一表态是韩国政界对KOSPI指数升破7000点消息的回应。原文称，执政党将这一点位评价为罕见成果，并把总统施政信任与市场走势联系起来。\n\n执政党把股市上升趋势解读为与国政运营信任相互作用的结果。不过，原文所提供的信息仅限于执政党的评价以及KOSPI突破7000点这一事实。\n\n来源: v.daum.net"
-      },
-      "es": {
-        "title": "El KOSPI supera los 7.000 y el partido gobernante lo llama “una cifra notable”",
-        "excerpt": "El partido gobernante de Corea del Sur calificó la subida del KOSPI por encima de 7.000 como una cifra notable y vinculó el avance con la confianza en el presidente Lee.",
-        "body": "El partido gobernante de Corea del Sur calificó la superación de los 7.000 puntos por parte del KOSPI como “una cifra notable”. También afirmó que la confianza en la gestión del presidente Lee Jae-myung contribuyó de forma positiva al alza del mercado bursátil.\n\nLa declaración surgió como reacción política a la noticia de que el índice KOSPI había rebasado los 7.000 puntos. Según el reporte original, el partido gobernante presentó el nivel como un logro inusual y lo relacionó con la confianza en la administración presidencial.\n\nEl partido interpretó la tendencia alcista de la bolsa como un resultado conectado con la confianza en la gestión estatal. La información original se limita a esa valoración y al hecho de que el KOSPI superó los 7.000 puntos.\n\nFuente: v.daum.net"
-      },
-      "pt": {
-        "title": "KOSPI supera 7.000 e partido governista chama marca de “número notável”",
-        "excerpt": "O partido governista da Coreia do Sul classificou a alta do KOSPI acima de 7.000 como um número notável e associou o avanço à confiança no governo do presidente Lee.",
-        "body": "O partido governista da Coreia do Sul classificou a superação dos 7.000 pontos pelo KOSPI como um “número notável”. A legenda afirmou que a confiança na administração do presidente Lee Jae-myung contribuiu positivamente para a alta do mercado acionário.\n\nA declaração veio como reação política à notícia de que o índice KOSPI havia ultrapassado a marca de 7.000 pontos. Segundo o texto original, o partido governista avaliou o patamar como um resultado incomum e relacionou o movimento do mercado à confiança na condução do governo.\n\nO partido interpretou a tendência de alta da bolsa como ligada à confiança na gestão nacional. A informação original se limita à avaliação do partido e ao fato de o KOSPI ter superado 7.000 pontos.\n\nFonte: v.daum.net"
-      },
-      "de": {
-        "title": "KOSPI steigt über 7.000: Regierungspartei nennt Marke „bemerkenswert“",
-        "excerpt": "Die südkoreanische Regierungspartei bewertete den Anstieg des KOSPI über 7.000 als bemerkenswerte Zahl und verwies auf Vertrauen in Präsident Lees Regierungsführung.",
-        "body": "Die südkoreanische Regierungspartei hat den Sprung des KOSPI über die Marke von 7.000 Punkten als „bemerkenswerte Zahl“ bewertet. Sie erklärte, das Vertrauen in die Amtsführung von Präsident Lee Jae-myung habe positiv zur Entwicklung am Aktienmarkt beigetragen.\n\nDie Äußerung erfolgte als politische Reaktion auf die Nachricht, dass der KOSPI-Index 7.000 Punkte überschritten hat. Dem Originalbericht zufolge wertete die Regierungspartei dieses Niveau als außergewöhnliches Ergebnis und stellte einen Zusammenhang mit dem Vertrauen in die Regierung des Präsidenten her.\n\nDie Partei deutete den Aufwärtstrend an der Börse als Ergebnis, das mit Vertrauen in die Staatsführung verbunden sei. Die ursprünglichen Angaben beschränken sich auf diese Bewertung und den KOSPI-Anstieg über 7.000 Punkte.\n\nQuelle: v.daum.net"
-      },
-      "fr": {
-        "title": "Le KOSPI dépasse 7 000, le parti au pouvoir salue un “chiffre remarquable”",
-        "excerpt": "Le parti au pouvoir en Corée du Sud a qualifié le passage du KOSPI au-dessus de 7 000 de chiffre remarquable, liant cette hausse à la confiance envers le président Lee.",
-        "body": "Le parti au pouvoir en Corée du Sud a qualifié le dépassement des 7 000 points par le KOSPI de “chiffre remarquable”. Il a estimé que la confiance dans la conduite des affaires de l’État par le président Lee Jae-myung avait contribué positivement à la hausse du marché boursier.\n\nCette déclaration est intervenue comme une réaction politique à l’annonce du passage de l’indice KOSPI au-dessus de 7 000 points. Selon l’article original, le parti au pouvoir a présenté ce niveau comme un résultat inhabituel et l’a relié à la confiance dans la gouvernance présidentielle.\n\nLe parti a interprété la tendance haussière de la Bourse comme liée à la confiance dans la gestion nationale. Les informations d’origine se limitent à cette évaluation et au fait que le KOSPI a dépassé 7 000 points.\n\nSource: v.daum.net"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 والحزب الحاكم يصف الرقم بـ“المذهل” ويربطه بثقة لي",
-        "excerpt": "وصف الحزب الحاكم في كوريا الجنوبية تجاوز مؤشر كوسبي مستوى 7000 بأنه رقم مذهل، وقال إن الثقة في إدارة الرئيس لي كان لها أثر إيجابي في صعود السوق.",
-        "body": "وصف الحزب الحاكم في كوريا الجنوبية تجاوز مؤشر كوسبي مستوى 7000 نقطة بأنه “رقم مذهل”. وقال الحزب إن الثقة في إدارة الرئيس لي جاي ميونغ لشؤون الدولة أسهمت بشكل إيجابي في صعود سوق الأسهم.\n\nوجاء هذا التصريح كرد فعل سياسي على خبر تجاوز مؤشر كوسبي حاجز 7000 نقطة. ووفق النص الأصلي، قيّم الحزب الحاكم هذا المستوى باعتباره إنجازا لافتا، وربط حركة السوق بالثقة في إدارة الرئيس.\n\nفسر الحزب الحاكم الاتجاه الصاعد في سوق الأسهم على أنه نتيجة مرتبطة بالثقة في إدارة شؤون الدولة. وتقتصر المعلومات الواردة في الأصل على تقييم الحزب وحقيقة تجاوز كوسبي مستوى 7000 نقطة.\n\nالمصدر: v.daum.net"
-      },
-      "hi": {
-        "title": "KOSPI 7,000 के पार, सत्तारूढ़ दल ने बताया “अद्भुत आंकड़ा”",
-        "excerpt": "दक्षिण कोरिया के सत्तारूढ़ दल ने KOSPI के 7,000 से ऊपर जाने को अद्भुत आंकड़ा बताया और कहा कि राष्ट्रपति ली के शासन पर भरोसे ने बाजार की तेजी में भूमिका निभाई।",
-        "body": "दक्षिण कोरिया के सत्तारूढ़ दल ने KOSPI के 7,000 अंक के स्तर को पार करने को “अद्भुत आंकड़ा” बताया। दल ने कहा कि राष्ट्रपति ली जे-म्युंग के शासन संचालन पर भरोसे ने शेयर बाजार की बढ़त पर सकारात्मक प्रभाव डाला।\n\nयह बयान KOSPI सूचकांक के 7,000 से ऊपर जाने की खबर पर राजनीतिक प्रतिक्रिया के रूप में आया। मूल रिपोर्ट के अनुसार, सत्तारूढ़ दल ने इस स्तर को असाधारण उपलब्धि के रूप में देखा और बाजार की चाल को राष्ट्रपति के शासन पर भरोसे से जोड़ा।\n\nदल ने शेयर बाजार की तेजी को राष्ट्रीय प्रशासन पर भरोसे से जुड़ा परिणाम बताया। हालांकि मूल जानकारी सत्तारूढ़ दल के आकलन और KOSPI के 7,000 पार करने के तथ्य तक सीमित है।\n\nस्रोत: v.daum.net"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000, Partai Berkuasa Sebut “Angka Menakjubkan”",
-        "excerpt": "Partai berkuasa Korea Selatan menilai KOSPI yang menembus 7.000 sebagai angka menakjubkan dan menyebut kepercayaan pada pemerintahan Presiden Lee ikut mendorong pasar saham.",
-        "body": "Partai berkuasa Korea Selatan menyebut KOSPI yang menembus level 7.000 sebagai “angka menakjubkan”. Partai itu mengatakan kepercayaan terhadap pemerintahan Presiden Lee Jae-myung memberi pengaruh positif terhadap kenaikan pasar saham.\n\nPernyataan tersebut muncul sebagai respons politik atas kabar bahwa indeks KOSPI telah melampaui level 7.000. Menurut laporan asli, partai berkuasa menilai level itu sebagai capaian yang tidak biasa dan mengaitkan pergerakan pasar dengan kepercayaan terhadap pemerintahan presiden.\n\nPartai berkuasa menafsirkan tren kenaikan bursa sebagai hasil yang terkait dengan kepercayaan pada pengelolaan negara. Informasi asli terbatas pada penilaian partai dan fakta bahwa KOSPI menembus 7.000.\n\nSumber: v.daum.net"
-      }
-    }
-  },
-  {
-    "id": "6892c8d524e5",
-    "slug": "코스피-7000-돌파에-정청래-李-국정-신뢰-덕분국힘도-동참하길---조선일보-947917",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:44:28.294Z",
-    "updatedAt": "2026-05-06T07:44:28.294Z",
-    "sourceName": "조선일보",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHZHN0NaazQ3N3ZPcG9CRVQ3ZFJ2bXBVYVRBcDR1X1phWjVaQ0lPU184TGVVaDRYanVuU05jN3VNcGxwX3VWTTBMajB0X0sxeUlza19UUjhzMHJrUVVXaFRPbEdESDg0S3M4ejFfU0hIN0paWWZveGNETGY2VzJMNXc0UUVndw?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHZHN0NaazQ3N3ZPcG9CRVQ3ZFJ2bXBVYVRBcDR1X1phWjVaQ0lPU184TGVVaDRYanVuU05jN3VNcGxwX3VWTTBMajB0X0sxeUlza19UUjhzMHJrUVVXaFRPbEdESDg0S3M4ejFfU0hIN0paWWZveGNETGY2VzJMNXc0UUVndw?oc=5",
-    "titleFingerprint": "f20775eb96abd95f81f21874895e00863ef6565f",
-    "dedupKeys": [
-      "6892c8d524e5b16fe7d576bdc96a84962092ca30",
-      "f20775eb96abd95f81f21874895e00863ef6565f",
-      "5e574b9d303d2e96c21fbba8a06feae44c3abd34"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 돌파에 정청래 “李 국정 신뢰 덕분”…국힘 동참 촉구",
-        "excerpt": "정청래 더불어민주당 대표는 코스피가 7000선을 돌파한 것과 관련해 李 국정 신뢰가 반영된 결과라고 평가하며 국민의힘의 동참을 촉구했다.",
-        "body": "코스피가 7000선을 돌파한 가운데 정청래 더불어민주당 대표가 이를 李 국정에 대한 신뢰 덕분이라고 평가했다고 조선일보가 보도했다. 정 대표는 국민의힘도 이러한 흐름에 동참하길 바란다는 뜻을 밝혔다.\n\n보도에 따르면 이번 발언은 코스피 7000 돌파라는 시장 흐름을 정치권의 국정 신뢰 평가와 연결한 것이다. 원문은 정 대표가 李 국정 운영에 대한 신뢰가 증시에 반영됐다는 취지로 언급했다고 전했다.\n\n정 대표의 발언은 증시 상승을 둘러싼 정치권 해석과 함께 여야 협력 메시지로 읽힌다. 다만 보도에서 추가적인 정책 내용이나 구체적 시장 전망은 제시되지 않았다.\n\n출처: 조선일보"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 as Chung Cheong-rae Credits Trust in Lee’s Governance",
-        "excerpt": "Democratic Party leader Chung Cheong-rae said the KOSPI’s rise above 7,000 reflected confidence in Lee’s governance and urged the People Power Party to join the momentum.",
-        "body": "The KOSPI has surpassed the 7,000 mark, and Democratic Party leader Chung Cheong-rae said the move was thanks to trust in Lee’s governance, according to the Chosun Ilbo. Chung also said he hoped the People Power Party would join the trend.\n\nAccording to the report, the remark linked the market milestone of KOSPI 7,000 with a political assessment of confidence in state affairs. The original article said Chung described the stock market move as reflecting trust in Lee’s governing performance.\n\nChung’s comments can be read as both a political interpretation of the market rally and a message calling for cooperation between ruling and opposition parties. The report did not provide additional policy details or a specific market outlook.\n\nSource: Chosun Ilbo"
-      },
-      "ja": {
-        "title": "KOSPI 7000突破、鄭清来氏「李政権への信頼のおかげ」と国民の力に参加促す",
-        "excerpt": "共に民主党の鄭清来代表は、KOSPIが7000を突破したことについて、李氏の国政への信頼が反映された結果だと評価し、国民の力にも同調を求めた。",
-        "body": "KOSPIが7000の大台を突破する中、共に民主党の鄭清来代表が、これは李氏の国政に対する信頼のおかげだと評価したと朝鮮日報が報じた。鄭代表は、国民の力もこの流れに加わってほしいとの考えを示した。\n\n報道によると、今回の発言はKOSPI 7000突破という市場の動きを、政治圏における国政信頼の評価と結び付けたものだ。原文は、鄭代表が李氏の国政運営への信頼が株式市場に反映されたとの趣旨で述べたと伝えた。\n\n鄭代表の発言は、株価上昇をめぐる政治的解釈であると同時に、与野党協力を促すメッセージとも受け止められる。ただし報道では、追加の政策内容や具体的な市場見通しは示されていない。\n\n出典: 朝鮮日報"
-      },
-      "zh": {
-        "title": "KOSPI突破7000点，郑清来称“得益于对李氏国政的信任”并促国民力量参与",
-        "excerpt": "共同民主党代表郑清来就KOSPI突破7000点表示，这是对李氏国政信任的体现，并呼吁国民力量也加入这一趋势。",
-        "body": "据《朝鲜日报》报道，在KOSPI突破7000点之际，共同民主党代表郑清来评价称，这是得益于对李氏国政的信任。郑清来还表示，希望国民力量也能参与这一趋势。\n\n报道称，此番表态将KOSPI突破7000点这一市场走势，与政界对国政信任的评价联系起来。原文称，郑清来以李氏国政运营所获得的信任反映在股市中这一主旨作出发言。\n\n郑清来的发言可被解读为围绕股市上涨的政治性解释，同时也是呼吁朝野合作的信息。不过报道未提出更多政策内容或具体市场展望。\n\n来源: 朝鲜日报"
-      },
-      "es": {
-        "title": "El KOSPI supera los 7.000 puntos y Chung atribuye el hito a la confianza en Lee",
-        "excerpt": "Chung Cheong-rae, líder del Partido Democrático, dijo que el KOSPI por encima de 7.000 refleja confianza en la gestión de Lee y pidió al Partido del Poder Popular sumarse.",
-        "body": "El KOSPI superó la barrera de los 7.000 puntos y Chung Cheong-rae, líder del Partido Democrático, afirmó que el avance se debe a la confianza en la gestión de Lee, informó Chosun Ilbo. Chung también expresó su deseo de que el Partido del Poder Popular se sume a esta corriente.\n\nSegún el reporte, la declaración vinculó el hito bursátil del KOSPI en 7.000 puntos con una evaluación política de la confianza en los asuntos de Estado. El artículo original señaló que Chung dijo que la confianza en la conducción de Lee se reflejó en el mercado accionario.\n\nSus comentarios pueden leerse como una interpretación política del alza bursátil y como un mensaje de cooperación entre oficialismo y oposición. El reporte no ofreció detalles adicionales de política ni una previsión concreta del mercado.\n\nFuente: Chosun Ilbo"
-      },
-      "pt": {
-        "title": "KOSPI supera 7.000 pontos e Chung atribui alta à confiança na gestão de Lee",
-        "excerpt": "Chung Cheong-rae, líder do Partido Democrático, disse que o KOSPI acima de 7.000 reflete confiança na gestão de Lee e pediu que o Partido do Poder Popular participe.",
-        "body": "O KOSPI superou a marca de 7.000 pontos, e Chung Cheong-rae, líder do Partido Democrático, afirmou que o avanço ocorreu graças à confiança na gestão de Lee, informou o Chosun Ilbo. Chung também disse esperar que o Partido do Poder Popular se junte a esse movimento.\n\nSegundo a reportagem, a declaração relacionou o marco de 7.000 pontos do KOSPI a uma avaliação política sobre confiança nos assuntos de Estado. O texto original afirmou que Chung mencionou que a confiança na condução de Lee se refletiu no mercado acionário.\n\nA fala de Chung pode ser lida como uma interpretação política da alta da bolsa e como uma mensagem de cooperação entre governo e oposição. A reportagem não apresentou detalhes adicionais de política nem uma perspectiva específica para o mercado.\n\nFonte: Chosun Ilbo"
-      },
-      "de": {
-        "title": "KOSPI steigt über 7.000 Punkte: Chung verweist auf Vertrauen in Lees Regierung",
-        "excerpt": "Chung Cheong-rae, Chef der Demokratischen Partei, sagte, der KOSPI über 7.000 spiegele Vertrauen in Lees Regierungsführung wider, und rief die People Power Party zur Beteiligung auf.",
-        "body": "Der KOSPI hat die Marke von 7.000 Punkten überschritten, und Chung Cheong-rae, Vorsitzender der Demokratischen Partei, führte dies auf das Vertrauen in Lees Regierungsführung zurück, berichtete Chosun Ilbo. Chung sagte zudem, er hoffe, dass sich auch die People Power Party diesem Trend anschließe.\n\nDem Bericht zufolge verband die Äußerung den Marktschritt über 7.000 Punkte mit einer politischen Bewertung des Vertrauens in die Staatsführung. Im Original hieß es, Chung habe erklärt, das Vertrauen in Lees Regierungshandeln spiegele sich am Aktienmarkt wider.\n\nChungs Aussage kann als politische Deutung des Börsenanstiegs und zugleich als Botschaft für Zusammenarbeit zwischen Regierung und Opposition verstanden werden. Weitere politische Details oder eine konkrete Marktprognose nannte der Bericht nicht.\n\nQuelle: Chosun Ilbo"
-      },
-      "fr": {
-        "title": "Le KOSPI dépasse 7 000 points, Chung y voit la confiance dans la gouvernance de Lee",
-        "excerpt": "Chung Cheong-rae, chef du Parti démocrate, a déclaré que le KOSPI au-dessus de 7 000 reflétait la confiance dans la gouvernance de Lee et a appelé le People Power Party à suivre.",
-        "body": "Le KOSPI a franchi le seuil des 7 000 points, et Chung Cheong-rae, chef du Parti démocrate, a estimé que cette progression était due à la confiance dans la gouvernance de Lee, selon le Chosun Ilbo. Chung a aussi dit souhaiter que le People Power Party se joigne à cette dynamique.\n\nSelon le reportage, cette déclaration relie le cap boursier des 7 000 points à une lecture politique de la confiance accordée à la conduite des affaires de l’État. L’article original indique que Chung a présenté la hausse comme le reflet de la confiance dans la gestion de Lee.\n\nSes propos peuvent être compris comme une interprétation politique de la progression du marché et comme un message de coopération entre majorité et opposition. Le reportage ne donne pas d’autres détails de politique ni de prévision précise du marché.\n\nSource: Chosun Ilbo"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 نقطة وتشونغ يعزو الصعود إلى الثقة في إدارة لي",
-        "excerpt": "قال زعيم الحزب الديمقراطي تشونغ تشونغ-ري إن تجاوز مؤشر كوسبي مستوى 7000 يعكس الثقة في إدارة لي لشؤون الدولة، داعيا حزب قوة الشعب إلى الانضمام إلى هذا المسار.",
-        "body": "تجاوز مؤشر كوسبي مستوى 7000 نقطة، وقال زعيم الحزب الديمقراطي تشونغ تشونغ-ري إن ذلك جاء بفضل الثقة في إدارة لي لشؤون الدولة، بحسب ما أوردت صحيفة تشوسون إلبو. وأضاف تشونغ أنه يأمل أن ينضم حزب قوة الشعب أيضا إلى هذا الاتجاه.\n\nووفقا للتقرير، ربطت هذه التصريحات بين بلوغ كوسبي مستوى 7000 وبين تقييم سياسي للثقة في إدارة شؤون الدولة. وذكر النص الأصلي أن تشونغ تحدث بمعنى أن الثقة في أداء لي الحكومي انعكست في سوق الأسهم.\n\nيمكن قراءة تصريحات تشونغ كتفسير سياسي لصعود السوق، وكذلك كرسالة تدعو إلى التعاون بين السلطة والمعارضة. ولم يورد التقرير تفاصيل سياسية إضافية أو توقعات محددة للسوق.\n\nالمصدر: تشوسون إلبو"
-      },
-      "hi": {
-        "title": "KOSPI 7,000 के पार, चुंग ने ली के शासन पर भरोसे को बताया वजह",
-        "excerpt": "डेमोक्रेटिक पार्टी नेता चुंग चेओंग-रे ने कहा कि KOSPI का 7,000 से ऊपर जाना ली के शासन पर भरोसे को दिखाता है और पीपुल पावर पार्टी से भी साथ आने की अपील की।",
-        "body": "KOSPI ने 7,000 का स्तर पार कर लिया है और डेमोक्रेटिक पार्टी के नेता चुंग चेओंग-रे ने कहा कि यह ली के शासन पर भरोसे की वजह से हुआ, चोसुन इल्बो ने रिपोर्ट किया। चुंग ने यह भी कहा कि उन्हें उम्मीद है कि पीपुल पावर पार्टी भी इस रुझान में शामिल होगी।\n\nरिपोर्ट के अनुसार, यह टिप्पणी KOSPI के 7,000 पार करने की बाजार चाल को राज्य संचालन में भरोसे के राजनीतिक आकलन से जोड़ती है। मूल लेख में कहा गया कि चुंग ने इस आशय से बात की कि ली के शासन संचालन पर भरोसा शेयर बाजार में दिखा।\n\nचुंग की टिप्पणी को बाजार की तेजी की राजनीतिक व्याख्या और सत्ता-विपक्ष सहयोग के संदेश के रूप में पढ़ा जा सकता है। रिपोर्ट में अतिरिक्त नीतिगत विवरण या बाजार को लेकर कोई ठोस 전망 नहीं दिया गया।\n\nस्रोत: चोसुन इल्बो"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000, Chung Sebut Berkat Kepercayaan pada Pemerintahan Lee",
-        "excerpt": "Ketua Partai Demokrat Chung Cheong-rae mengatakan KOSPI yang menembus 7.000 mencerminkan kepercayaan pada pemerintahan Lee dan meminta People Power Party ikut serta.",
-        "body": "KOSPI menembus level 7.000, dan Ketua Partai Demokrat Chung Cheong-rae menilai capaian itu berkat kepercayaan terhadap pemerintahan Lee, lapor Chosun Ilbo. Chung juga menyampaikan harapan agar People Power Party ikut bergabung dalam arus tersebut.\n\nMenurut laporan itu, pernyataan tersebut mengaitkan pergerakan pasar berupa KOSPI 7.000 dengan penilaian politik atas kepercayaan pada urusan kenegaraan. Artikel asli menyebut Chung berbicara dengan maksud bahwa kepercayaan terhadap pengelolaan pemerintahan Lee tercermin di pasar saham.\n\nKomentar Chung dapat dibaca sebagai tafsir politik atas kenaikan bursa sekaligus pesan kerja sama antara kubu pemerintah dan oposisi. Laporan itu tidak memuat rincian kebijakan tambahan atau prospek pasar yang spesifik.\n\nSumber: Chosun Ilbo"
       }
     }
   }
