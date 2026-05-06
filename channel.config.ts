@@ -11,11 +11,11 @@ export const channel = {
   keywords: ['주식', '코스피', '나스닥', 'S&P500', '종목분석', '실적'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
   rssSources: [
-    { url: 'https://news.google.com/rss/search?q=%EC%BD%94%EC%8A%A4%ED%94%BC&hl=ko&gl=KR&ceid=KR:ko', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=%EC%A3%BC%EC%8B%9D+%EC%A2%85%EB%AA%A9&hl=ko&gl=KR&ceid=KR:ko', category: 'analysis' },
-    { url: 'https://news.google.com/rss/search?q=stock+market&hl=en&gl=US&ceid=US:en', category: 'market' },
-    { url: 'https://news.google.com/rss/search?q=earnings+report&hl=en&gl=US&ceid=US:en', category: 'breaking' },
-    { url: 'https://news.google.com/rss/search?q=Nasdaq+S%26P+500&hl=en&gl=US&ceid=US:en', category: 'market' }
+    { url: 'https://www.mk.co.kr/rss/50200011/', category: 'market' },
+    { url: 'https://www.hankyung.com/feed/finance', category: 'breaking' },
+    { url: 'https://rss.mt.co.kr/mt_securities.xml', category: 'analysis' },
+    { url: 'https://rss.donga.com/economy.xml', category: 'policy' },
+    { url: 'https://www.yna.co.kr/rss/economy.xml', category: 'analysis' }
   ] as RSSSource[],
   categories: [
     { slug: 'breaking', name: { ko: '속보', en: 'Breaking', ja: '速報', zh: '快讯', es: 'Última hora', pt: 'Última hora', de: 'Eilmeldung', fr: 'Dernières', ar: 'عاجل', hi: 'ब्रेकिंग', id: 'Terbaru' } },
