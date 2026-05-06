@@ -1,5 +1,230 @@
 [
   {
+    "id": "11e5772ff12a",
+    "slug": "삼전만-폭등한-게-아니었네무더기-상한가-이유-알고보니-분석-987445",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T21:47:49.689Z",
+    "updatedAt": "2026-05-06T21:47:49.689Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050692366",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050692366",
+    "titleFingerprint": "b93603d84f459c495ce84fa56a1e89b61055e061",
+    "dedupKeys": [
+      "11e5772ff12ac5e76b631cfdac184b43022f727e",
+      "b93603d84f459c495ce84fa56a1e89b61055e061",
+      "5895c4a4c5ce0bb906dc01990f21b458f10db3b7"
+    ],
+    "imageUrl": "/images/articles/11e5772ff12a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "유리기판주 무더기 상한가, 애플·삼성전자·인텔 협력 기대가 불붙였다",
+        "excerpt": "6일 국내 증시에서 SKC와 HB테크놀러지 등 유리기판 관련주가 동반 급등했다. 애플이 칩 공급 부족 대응을 위해 삼성전자·인텔과 협력 논의를 시작했다는 소식이 투자심리를 자극했다.",
+        "body": "6일 한국거래소에 따르면 유리기판 테마 관련 종목들이 국내 증시에서 동반 급등했다. SKC는 전일 대비 3만7200원, 30.00% 오른 16만1200원에 마감했고 HB테크놀러지는 925원, 29.89% 상승한 4020원에 거래를 마쳤다. 배경에는 애플이 칩 공급 부족에 대응하기 위해 삼성전자 및 인텔과 협력 방안을 논의했다는 소식이 있었다. SKC 자회사 앱솔릭스는 어플라이드머티리얼즈와 함께 유리기판 양산에 도전하고 있으며 AMD와 AWS 등이 시제품을 테스트 중인 것으로 전해졌다. 삼성전자도 14.41%, SK하이닉스도 10.64% 올랐다. 한국경제는 유리기판이 AI 반도체 고도화를 위한 핵심 소재로 주목받고 있지만 가공 난도가 높다고 전했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Glass Substrate Stocks Hit Limit-Up as Apple, Samsung and Intel Hopes Lift Sentiment",
+        "excerpt": "On May 6, Korean glass substrate-related stocks including SKC and HB Technology surged together after reports that Apple began talks with Samsung Electronics and Intel to address chip supply shortages.",
+        "body": "According to the Korea Exchange on May 6, glass substrate-themed stocks surged across the Korean market. SKC closed at 161,200 won, up 37,200 won or 30.00% from the previous session, while HB Technology ended at 4,020 won, up 925 won or 29.89%. The rally followed reports that Apple had begun discussing cooperation with Samsung Electronics and Intel to respond to chip supply shortages. SKC subsidiary Absolics, established with Applied Materials, is pursuing mass production of glass substrates, and prototypes are reportedly being tested by AMD and AWS. Samsung Electronics rose 14.41%, while SK Hynix gained 10.64%. Korea Economic Daily said glass substrates are drawing attention as a key material for advanced AI semiconductors, though processing remains difficult. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ガラス基板株が相次ぎストップ高、アップル・サムスン・インテル協力期待が材料に",
+        "excerpt": "5月6日の韓国株式市場で、SKCやHBテクノロジーなどガラス基板関連株が一斉に急騰した。アップルが半導体供給不足への対応でサムスン電子、インテルと協議を始めたとの報道が投資心理を刺激した。",
+        "body": "5月6日の韓国取引所によると、ガラス基板テーマ関連銘柄が韓国市場でそろって急騰した。SKCは前日比3万7200ウォン、30.00%高の16万1200ウォンで引け、HBテクノロジーは925ウォン、29.89%高の4020ウォンで取引を終えた。背景には、アップルが半導体供給不足に対応するためサムスン電子およびインテルと協力策を協議したとのニュースがある。SKC子会社のAbsolicsはアプライドマテリアルズとガラス基板の量産に挑んでおり、AMDやAWSが試作品をテスト中と伝えられた。サムスン電子は14.41%、SKハイニックスは10.64%上昇した。韓国経済新聞は、ガラス基板がAI半導体高度化の中核素材として注目される一方、加工難度は高いと報じた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "玻璃基板股集体涨停，苹果、三星电子与英特尔合作预期点燃行情",
+        "excerpt": "5月6日，韩国股市中SKC、HB Technology等玻璃基板相关股票集体大涨。消息称苹果为应对芯片供应短缺，已开始与三星电子和英特尔讨论合作，提振了投资情绪。",
+        "body": "据韩国交易所5月6日消息，韩国股市玻璃基板主题相关股票集体大涨。SKC较前一交易日上涨37200韩元，涨幅30.00%，收于161200韩元；HB Technology上涨925韩元，涨幅29.89%，收于4020韩元。上涨背景是有消息称，苹果为应对芯片供应短缺，正与三星电子和英特尔讨论合作方案。SKC与应用材料合资设立的子公司Absolics正在挑战玻璃基板量产，AMD和AWS等据称正在测试其样品。三星电子上涨14.41%，SK海力士上涨10.64%。《韩国经济新闻》称，玻璃基板作为推动AI半导体升级的关键材料受到关注，但加工难度较高。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Acciones de sustratos de vidrio se disparan por expectativa Apple-Samsung-Intel",
+        "excerpt": "El 6 de mayo, acciones coreanas vinculadas a sustratos de vidrio, como SKC y HB Technology, subieron con fuerza tras conocerse que Apple inició conversaciones con Samsung Electronics e Intel por la escasez de chips.",
+        "body": "Según la Bolsa de Corea, el 6 de mayo las acciones relacionadas con sustratos de vidrio subieron de forma conjunta en el mercado surcoreano. SKC cerró en 161.200 wones, un alza de 37.200 wones o 30,00% frente a la sesión previa, mientras HB Technology terminó en 4.020 wones, con avance de 925 wones o 29,89%. El impulso llegó tras informes de que Apple comenzó a discutir cooperación con Samsung Electronics e Intel para responder a la escasez de chips. Absolics, filial de SKC creada con Applied Materials, busca producir sustratos de vidrio en masa, y AMD y AWS estarían probando prototipos. Samsung Electronics subió 14,41% y SK Hynix ganó 10,64%. Korea Economic Daily indicó que los sustratos de vidrio atraen atención como material clave para chips de IA avanzados, aunque su procesamiento es difícil. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Ações de substrato de vidro disparam com aposta em Apple, Samsung e Intel",
+        "excerpt": "Em 6 de maio, ações sul-coreanas ligadas a substratos de vidro, como SKC e HB Technology, avançaram em bloco após notícias de que a Apple iniciou conversas com Samsung Electronics e Intel para lidar com a falta de chips.",
+        "body": "Segundo a Bolsa da Coreia, em 6 de maio as ações ligadas ao tema de substratos de vidro dispararam no mercado sul-coreano. A SKC fechou a 161.200 won, alta de 37.200 won ou 30,00% ante o pregão anterior, enquanto a HB Technology encerrou a 4.020 won, avanço de 925 won ou 29,89%. O movimento veio após notícias de que a Apple começou a discutir cooperação com Samsung Electronics e Intel para enfrentar a escassez de chips. A Absolics, subsidiária da SKC criada com a Applied Materials, busca a produção em massa de substratos de vidro, e AMD e AWS estariam testando protótipos. A Samsung Electronics subiu 14,41%, e a SK Hynix ganhou 10,64%. O Korea Economic Daily afirmou que substratos de vidro ganham atenção como material-chave para semicondutores de IA avançados, embora o processamento seja difícil. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Glas-Substrat-Aktien springen wegen Apple-, Samsung- und Intel-Hoffnung stark an",
+        "excerpt": "Am 6. Mai legten südkoreanische Glas-Substrat-Aktien wie SKC und HB Technology gemeinsam kräftig zu. Berichte über Gespräche von Apple mit Samsung Electronics und Intel wegen Chipengpässen stützten die Stimmung.",
+        "body": "Nach Angaben der Korea Exchange vom 6. Mai sind Glas-Substrat-Titel am südkoreanischen Markt geschlossen stark gestiegen. SKC schloss bei 161.200 Won, ein Plus von 37.200 Won oder 30,00% gegenüber dem Vortag, während HB Technology bei 4.020 Won endete, plus 925 Won oder 29,89%. Auslöser waren Berichte, wonach Apple zur Bewältigung von Chipengpässen Kooperationsmöglichkeiten mit Samsung Electronics und Intel bespricht. Die SKC-Tochter Absolics, gemeinsam mit Applied Materials gegründet, arbeitet an der Massenproduktion von Glas-Substraten; Prototypen werden Berichten zufolge von AMD und AWS getestet. Samsung Electronics stieg um 14,41%, SK Hynix um 10,64%. Korea Economic Daily berichtete, Glas-Substrate rückten als Schlüsselmaterial für fortschrittliche KI-Halbleiter in den Fokus, seien aber schwer zu verarbeiten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les actions liées aux substrats de verre bondissent avec l’espoir Apple-Samsung-Intel",
+        "excerpt": "Le 6 mai, les valeurs sud-coréennes liées aux substrats de verre, dont SKC et HB Technology, ont fortement progressé après des informations sur des discussions d’Apple avec Samsung Electronics et Intel face à la pénurie de puces.",
+        "body": "Selon la Korea Exchange, les valeurs liées aux substrats de verre ont bondi ensemble le 6 mai sur le marché sud-coréen. SKC a clôturé à 161 200 wons, en hausse de 37 200 wons, soit 30,00% par rapport à la veille, tandis que HB Technology a terminé à 4 020 wons, en progression de 925 wons, soit 29,89%. Le mouvement fait suite à des informations selon lesquelles Apple aurait commencé à discuter d’une coopération avec Samsung Electronics et Intel pour répondre à la pénurie de puces. Absolics, filiale de SKC créée avec Applied Materials, vise la production de masse de substrats de verre, et AMD ainsi qu’AWS testeraient des prototypes. Samsung Electronics a gagné 14,41% et SK Hynix 10,64%. Korea Economic Daily a indiqué que les substrats de verre attirent l’attention comme matériau clé pour les semi-conducteurs d’IA avancés, même si leur traitement reste difficile. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أسهم ركائز الزجاج تقفز مع آمال تعاون آبل وسامسونغ وإنتل في الرقائق",
+        "excerpt": "في 6 مايو، قفزت أسهم كورية مرتبطة بركائز الزجاج مثل SKC وHB Technology بعد تقارير تفيد بأن آبل بدأت محادثات مع سامسونغ إلكترونيكس وإنتل لمعالجة نقص إمدادات الرقائق.",
+        "body": "وفقاً لبورصة كوريا في 6 مايو، ارتفعت أسهم قطاع ركائز الزجاج في السوق الكورية بشكل جماعي. أغلقت SKC عند 161200 وون، بزيادة 37200 وون أو 30.00% عن الجلسة السابقة، فيما أنهت HB Technology التداول عند 4020 وون، مرتفعة 925 وون أو 29.89%. وجاء الصعود بعد تقارير أفادت بأن آبل بدأت بحث التعاون مع سامسونغ إلكترونيكس وإنتل للتعامل مع نقص إمدادات الرقائق. وتسعى Absolics، التابعة لـSKC والمقامة مع Applied Materials، إلى الإنتاج الكمي لركائز الزجاج، ويقال إن AMD وAWS تختبران نماذج أولية. وارتفعت سامسونغ إلكترونيكس 14.41%، كما صعدت SK Hynix بنسبة 10.64%. وذكرت Korea Economic Daily أن ركائز الزجاج تحظى بالاهتمام كمادة أساسية لتطوير أشباه موصلات الذكاء الاصطناعي، رغم صعوبة معالجتها. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "ग्लास सब्सट्रेट शेयरों में तेज उछाल, Apple-Samsung-Intel सहयोग की उम्मीद से तेजी",
+        "excerpt": "6 मई को कोरियाई बाजार में SKC और HB Technology जैसे ग्लास सब्सट्रेट संबंधित शेयरों में एक साथ तेज उछाल आया। रिपोर्टों के अनुसार Apple ने चिप आपूर्ति कमी से निपटने के लिए Samsung Electronics और Intel से बातचीत शुरू की।",
+        "body": "कोरिया एक्सचेंज के अनुसार 6 मई को ग्लास सब्सट्रेट थीम से जुड़े शेयर कोरियाई बाजार में एक साथ तेजी से चढ़े। SKC पिछले सत्र से 37,200 वोन यानी 30.00% बढ़कर 161,200 वोन पर बंद हुआ, जबकि HB Technology 925 वोन यानी 29.89% चढ़कर 4,020 वोन पर बंद हुआ। तेजी की वजह यह खबर रही कि Apple ने चिप आपूर्ति की कमी से निपटने के लिए Samsung Electronics और Intel के साथ सहयोग पर चर्चा शुरू की है। SKC की सहायक Absolics, जिसे Applied Materials के साथ बनाया गया है, ग्लास सब्सट्रेट के बड़े पैमाने पर उत्पादन की कोशिश कर रही है और AMD तथा AWS कथित तौर पर प्रोटोटाइप का परीक्षण कर रहे हैं। Samsung Electronics 14.41% और SK Hynix 10.64% बढ़े। Korea Economic Daily ने बताया कि ग्लास सब्सट्रेट उन्नत AI सेमीकंडक्टर के लिए प्रमुख सामग्री के रूप में ध्यान खींच रहे हैं, हालांकि उनकी प्रोसेसिंग कठिन है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham Substrat Kaca Melonjak, Harapan Apple-Samsung-Intel Dorong Sentimen",
+        "excerpt": "Pada 6 Mei, saham Korea terkait substrat kaca seperti SKC dan HB Technology naik serempak setelah kabar Apple mulai membahas kerja sama dengan Samsung Electronics dan Intel untuk mengatasi kekurangan chip.",
+        "body": "Menurut Korea Exchange pada 6 Mei, saham bertema substrat kaca melonjak bersama di pasar Korea. SKC ditutup di 161.200 won, naik 37.200 won atau 30,00% dari sesi sebelumnya, sementara HB Technology berakhir di 4.020 won, naik 925 won atau 29,89%. Kenaikan terjadi setelah kabar bahwa Apple mulai membahas kerja sama dengan Samsung Electronics dan Intel untuk merespons kekurangan pasokan chip. Anak usaha SKC, Absolics, yang didirikan bersama Applied Materials, sedang mengejar produksi massal substrat kaca, dan prototipenya disebut sedang diuji oleh AMD dan AWS. Samsung Electronics naik 14,41%, sedangkan SK Hynix menguat 10,64%. Korea Economic Daily menyebut substrat kaca menarik perhatian sebagai material kunci untuk semikonduktor AI yang lebih maju, meski proses pengolahannya sulit. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "43fa19b30a86",
+    "slug": "미국-이란-종전-합의-임박더-달리는-반도체-빈난새의-개장전요것만-996697",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T21:46:38.062Z",
+    "updatedAt": "2026-05-06T21:46:38.062Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605069997i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605069997i",
+    "titleFingerprint": "feff1913cb5bb1d758a6cf4cb23344791fbcd98d",
+    "dedupKeys": [
+      "43fa19b30a86702b43df96cbc3b99ff31f95ebc9",
+      "feff1913cb5bb1d758a6cf4cb23344791fbcd98d",
+      "7c6443919b3e0e2350888877fd958dd62387718c"
+    ],
+    "imageUrl": "/images/articles/43fa19b30a86.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국-이란 종전 합의 임박에 반도체 랠리 가속, 유가 급락·미 증시 상승까지",
+        "excerpt": "6일 현지시간 백악관이 이란과 종전 및 핵 협상 틀을 담은 MOU 체결에 근접했다는 보도가 나오며 유가가 급락하고 반도체 랠리와 미 증시 상승세가 이어졌다.",
+        "body": "6일 현지시간 미국 증시 개장 전, 백악관이 이란과 전쟁 종결 및 핵 협상 틀 마련을 위한 14개 항의 한 페이지 분량 MOU 체결에 근접했다는 보도가 나왔다. 이란은 미국 제안을 검토 중이며 파키스탄을 통해 입장을 전달할 계획이라고 밝혔다. 합의안에는 이란의 우라늄 농축 12~15년 중단, 미국의 제재 해제와 동결 자금 방출, 호르무즈 해협 통행 제한 상호 해제 등이 포함된 것으로 알려졌다. 트럼프 대통령은 이란이 합의를 이행하면 군사 작전 ‘에픽 퓨리’를 종료하겠다고 했고, 시장은 사실상 종전 국면으로 해석했다. 국제유가는 일제히 7% 급락했고 미국 3대 지수는 1% 이상 상승 출발했다. 필라델피아반도체지수는 25거래일 동안 50% 이상 올라 2000년 닷컴버블 정점 이후 가장 빠른 상승 속도를 기록했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "US-Iran Deal Nears as Chip Rally Extends and Oil Prices Slide",
+        "excerpt": "Ahead of the U.S. open on May 6, reports that Washington and Tehran were near an MOU on ending the war and framing nuclear talks sent oil lower and lifted chip shares.",
+        "body": "Ahead of the U.S. market open on May 6 local time, reports said the White House was close to signing a one-page, 14-point MOU with Iran to end the war and set a framework for nuclear negotiations. Iran said it was reviewing the U.S. proposal and planned to respond through Pakistan. The draft reportedly includes a 12- to 15-year pause in Iran’s uranium enrichment, U.S. sanctions relief and release of frozen funds, and mutual easing of restrictions on traffic through the Strait of Hormuz. President Donald Trump said he would end the military operation “Epic Fury” if Iran implemented the deal. Markets treated the news as a de facto move toward ending the conflict: oil prices fell 7%, while the three major U.S. indexes opened more than 1% higher. The Philadelphia Semiconductor Index has risen more than 50% in 25 trading days, its fastest pace since the 2000 dot-com peak. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "米イラン終戦合意接近で半導体ラリー加速、原油急落と米株高も",
+        "excerpt": "現地時間6日、米国とイランが終戦と核協議の枠組みを盛り込むMOU締結に近づいたとの報道を受け、原油は急落し半導体株と米株は上昇した。",
+        "body": "現地時間6日の米国株式市場の取引開始前、ホワイトハウスがイランと戦争終結および核協議の枠組みを定める14項目、1ページのMOU締結に近づいていると報じられた。イランは米国案を検討中で、パキスタンを通じて立場を伝える計画だと明らかにした。案には、イランのウラン濃縮を12～15年停止すること、米国による制裁解除と凍結資金の放出、ホルムズ海峡の通行制限の相互解除などが含まれるとされる。トランプ大統領は、イランが合意を履行すれば軍事作戦「エピック・フューリー」を終了すると述べた。市場は事実上の終戦局面と受け止め、国際原油価格は一斉に7%急落し、米主要3指数は1%以上高く始まった。フィラデルフィア半導体指数は25営業日で50%以上上昇し、2000年のドットコムバブル頂点以降で最速の上昇ペースを記録した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "美伊停战协议接近达成，半导体涨势加速并带动美股上行",
+        "excerpt": "当地时间6日，白宫接近与伊朗签署涉及停战和核谈框架的MOU的消息传出后，国际油价急跌，半导体板块延续涨势，美国股指高开。",
+        "body": "当地时间5月6日美股开盘前，有报道称白宫接近与伊朗签署一份包含14项内容、篇幅为一页的MOU，以结束战争并建立核谈判框架。伊朗表示正在审查美国提案，并计划通过巴基斯坦转达立场。协议草案据称包括伊朗暂停铀浓缩12至15年、美国解除制裁并释放被冻结资金，以及双方解除霍尔木兹海峡通行限制等内容。特朗普总统表示，如果伊朗履行协议，将结束“Epic Fury”军事行动。市场将这一消息解读为事实上进入终战阶段，国际油价同步大跌7%，美国三大股指开盘涨幅超过1%。费城半导体指数在25个交易日内上涨逾50%，创下2000年互联网泡沫高点以来最快上涨速度。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Acuerdo EE.UU.-Irán se acerca y acelera el rally de chips con caída del petróleo",
+        "excerpt": "El 6 de mayo, antes de la apertura en Wall Street, un posible MOU entre EE.UU. e Irán para terminar la guerra y encauzar negociaciones nucleares hundió el petróleo e impulsó semiconductores.",
+        "body": "Antes de la apertura de la bolsa estadounidense el 6 de mayo, hora local, se informó que la Casa Blanca estaba cerca de firmar con Irán un MOU de una página y 14 puntos para poner fin a la guerra y establecer un marco de negociaciones nucleares. Irán dijo que revisaba la propuesta de EE.UU. y que planeaba responder a través de Pakistán. El borrador incluiría una suspensión de 12 a 15 años del enriquecimiento de uranio iraní, el levantamiento de sanciones de EE.UU., la liberación de fondos congelados y la eliminación mutua de restricciones al tránsito por el estrecho de Ormuz. Donald Trump dijo que terminaría la operación militar “Epic Fury” si Irán cumplía el acuerdo. El mercado interpretó la noticia como una fase de terminación de facto del conflicto: el petróleo cayó 7% y los tres principales índices de EE.UU. abrieron con alzas superiores al 1%. El índice de semiconductores de Filadelfia subió más de 50% en 25 sesiones. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Acordo EUA-Irã se aproxima e impulsiona chips enquanto petróleo despenca",
+        "excerpt": "Em 6 de maio, antes da abertura dos EUA, relatos de um MOU entre Washington e Teerã para encerrar a guerra e estruturar conversas nucleares derrubaram o petróleo e elevaram ações de chips.",
+        "body": "Antes da abertura do mercado dos EUA em 6 de maio, no horário local, foi noticiado que a Casa Branca estava perto de assinar com o Irã um MOU de uma página, com 14 pontos, para encerrar a guerra e criar uma estrutura para negociações nucleares. O Irã disse que avalia a proposta dos EUA e pretende responder por meio do Paquistão. O texto incluiria pausa de 12 a 15 anos no enriquecimento de urânio iraniano, alívio de sanções pelos EUA, liberação de recursos congelados e retirada mútua de restrições ao tráfego no estreito de Ormuz. Donald Trump afirmou que encerraria a operação militar “Epic Fury” se o Irã cumprisse o acordo. O mercado leu a notícia como uma etapa de término de fato do conflito: o petróleo caiu 7% e os três principais índices dos EUA abriram em alta de mais de 1%. O índice de semicondutores da Filadélfia subiu mais de 50% em 25 pregões. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "US-Iran-Abkommen rückt näher: Chip-Rally beschleunigt, Ölpreise fallen",
+        "excerpt": "Vor US-Börsenstart am 6. Mai sorgten Berichte über ein mögliches MOU zwischen Washington und Teheran zur Beendigung des Kriegs und zu Atomgesprächen für fallende Ölpreise und steigende Chipwerte.",
+        "body": "Vor der Eröffnung des US-Aktienmarkts am 6. Mai Ortszeit wurde berichtet, dass das Weiße Haus kurz vor der Unterzeichnung eines einseitigen, 14 Punkte umfassenden MOU mit Iran steht, um den Krieg zu beenden und einen Rahmen für Atomverhandlungen zu schaffen. Iran erklärte, den US-Vorschlag zu prüfen und seine Antwort über Pakistan übermitteln zu wollen. Der Entwurf soll eine 12- bis 15-jährige Aussetzung der iranischen Urananreicherung, die Aufhebung von US-Sanktionen und Freigabe eingefrorener Gelder sowie eine gegenseitige Lockerung von Beschränkungen in der Straße von Hormus enthalten. Präsident Donald Trump sagte, er werde die Militäroperation „Epic Fury“ beenden, wenn Iran die Vereinbarung umsetze. Die Märkte werteten die Meldung als faktische Annäherung an ein Kriegsende: Ölpreise fielen um 7%, die drei großen US-Indizes eröffneten mehr als 1% höher. Der Philadelphia Semiconductor Index stieg in 25 Handelstagen um über 50%. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Accord États-Unis-Iran proche: les semi-conducteurs montent, le pétrole chute",
+        "excerpt": "Le 6 mai, avant l’ouverture américaine, des informations sur un MOU entre Washington et Téhéran pour finir la guerre et encadrer les discussions nucléaires ont fait baisser le pétrole et monter les puces.",
+        "body": "Avant l’ouverture des marchés américains le 6 mai, heure locale, il a été rapporté que la Maison Blanche était proche de signer avec l’Iran un MOU d’une page et de 14 points visant à mettre fin à la guerre et à établir un cadre de négociations nucléaires. L’Iran a indiqué examiner la proposition américaine et prévoir de transmettre sa position par l’intermédiaire du Pakistan. Le projet inclurait une suspension de 12 à 15 ans de l’enrichissement d’uranium iranien, la levée de sanctions américaines, le déblocage de fonds gelés et la suppression réciproque de restrictions dans le détroit d’Ormuz. Donald Trump a déclaré qu’il mettrait fin à l’opération militaire « Epic Fury » si l’Iran appliquait l’accord. Les marchés ont interprété l’information comme une phase de fin de conflit de facto: le pétrole a chuté de 7% et les trois grands indices américains ont ouvert en hausse de plus de 1%. L’indice Philadelphia Semiconductor a gagné plus de 50% en 25 séances. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "اقتراب اتفاق أميركي إيراني يدعم موجة الرقائق مع هبوط حاد في النفط",
+        "excerpt": "قبل افتتاح السوق الأميركية في 6 مايو بالتوقيت المحلي، دفعت تقارير عن اقتراب واشنطن وطهران من مذكرة تفاهم لإنهاء الحرب وتأطير المحادثات النووية النفط للهبوط وأسهم الرقائق للصعود.",
+        "body": "قبل افتتاح السوق الأميركية في 6 مايو بالتوقيت المحلي، أفادت تقارير بأن البيت الأبيض يقترب من توقيع مذكرة تفاهم من صفحة واحدة و14 بندا مع إيران لإنهاء الحرب ووضع إطار للمفاوضات النووية. وقالت إيران إنها تراجع المقترح الأميركي وتعتزم نقل موقفها عبر باكستان. ويتضمن المسودة، بحسب التقارير، وقف تخصيب اليورانيوم في إيران لمدة 12 إلى 15 عاما، ورفع العقوبات الأميركية والإفراج عن الأموال المجمدة، ورفع القيود المتبادلة على المرور في مضيق هرمز. وقال الرئيس دونالد ترامب إنه سينهي العملية العسكرية “Epic Fury” إذا نفذت إيران الاتفاق. وفسرت الأسواق الخبر كدخول فعلي في مرحلة إنهاء الحرب، فهبطت أسعار النفط العالمية 7%، وافتتحت المؤشرات الأميركية الثلاثة الرئيسية على ارتفاع يفوق 1%. وارتفع مؤشر فيلادلفيا لأشباه الموصلات بأكثر من 50% خلال 25 جلسة تداول. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "अमेरिका-ईरान समझौता करीब, चिप शेयरों की तेजी बढ़ी और तेल फिसला",
+        "excerpt": "स्थानीय समय 6 मई को अमेरिकी बाजार खुलने से पहले युद्ध खत्म करने और परमाणु वार्ता की रूपरेखा वाले संभावित अमेरिका-ईरान MOU की खबर से तेल गिरा और सेमीकंडक्टर शेयर चढ़े।",
+        "body": "स्थानीय समय 6 मई को अमेरिकी शेयर बाजार खुलने से पहले रिपोर्ट आई कि व्हाइट हाउस ईरान के साथ युद्ध समाप्त करने और परमाणु वार्ता की रूपरेखा तय करने के लिए 14 बिंदुओं वाले एक पृष्ठ के MOU पर हस्ताक्षर के करीब है। ईरान ने कहा कि वह अमेरिकी प्रस्ताव की समीक्षा कर रहा है और पाकिस्तान के जरिये अपना रुख बताएगा। मसौदे में ईरान द्वारा 12 से 15 साल तक यूरेनियम संवर्धन रोकना, अमेरिका द्वारा प्रतिबंध हटाना और जमे हुए धन को जारी करना, तथा होर्मुज जलडमरूमध्य में आवागमन प्रतिबंधों को परस्पर हटाना शामिल बताया गया। राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि ईरान समझौता लागू करता है तो सैन्य अभियान “Epic Fury” समाप्त होगा। बाजार ने इसे युद्ध समाप्ति की वास्तविक दिशा माना: अंतरराष्ट्रीय तेल कीमतें 7% गिरीं और अमेरिका के तीन प्रमुख सूचकांक 1% से अधिक बढ़कर खुले। फिलाडेल्फिया सेमीकंडक्टर इंडेक्स 25 कारोबारी दिनों में 50% से अधिक चढ़ा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Kesepakatan AS-Iran Makin Dekat, Reli Chip Berlanjut Saat Harga Minyak Jatuh",
+        "excerpt": "Pada 6 Mei sebelum pembukaan bursa AS, kabar MOU Washington-Teheran untuk mengakhiri perang dan membingkai negosiasi nuklir menekan minyak serta mengangkat saham semikonduktor.",
+        "body": "Menjelang pembukaan pasar saham AS pada 6 Mei waktu setempat, dilaporkan bahwa Gedung Putih hampir menandatangani MOU satu halaman berisi 14 poin dengan Iran untuk mengakhiri perang dan membentuk kerangka negosiasi nuklir. Iran mengatakan sedang meninjau proposal AS dan berencana menyampaikan sikapnya melalui Pakistan. Draf tersebut disebut mencakup penghentian pengayaan uranium Iran selama 12 hingga 15 tahun, pencabutan sanksi AS dan pencairan dana beku, serta pencabutan bersama pembatasan lalu lintas di Selat Hormuz. Presiden Donald Trump mengatakan operasi militer “Epic Fury” akan diakhiri jika Iran menjalankan kesepakatan. Pasar menilai kabar itu sebagai fase de facto menuju akhir perang: harga minyak global turun 7%, sementara tiga indeks utama AS dibuka naik lebih dari 1%. Indeks Philadelphia Semiconductor naik lebih dari 50% dalam 25 hari perdagangan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "aee0e2b28618",
+    "slug": "sk스퀘어-하이닉스-열풍-타고-황제주-등극11대-급등-287798",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-06T21:45:15.487Z",
+    "updatedAt": "2026-05-06T21:45:15.488Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12037029",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037029",
+    "titleFingerprint": "32ae32c4c5879214e45275335d9447c89978211f",
+    "dedupKeys": [
+      "aee0e2b28618175270d6235f3f87f2b93e972862",
+      "32ae32c4c5879214e45275335d9447c89978211f",
+      "b9a004b1e5e502a0866997bce9b295f367b7901f"
+    ],
+    "imageUrl": "/images/articles/aee0e2b28618.png",
+    "i18n": {
+      "ko": {
+        "title": "SK스퀘어, SK하이닉스 강세에 11%대 급등하며 ‘황제주’ 등극",
+        "excerpt": "SK스퀘어가 6일 오전 SK하이닉스 강세에 힘입어 전일 대비 11.40% 오른 110만원대에 거래되며 주당 100만원 이상 ‘황제주’에 올라섰다.",
+        "body": "SK스퀘어가 6일 오전 장 초반 SK하이닉스 강세에 힘입어 급등하며 ‘황제주’에 올랐다. 매일경제 보도에 따르면 이날 오전 9시 14분 현재 SK스퀘어는 전일 대비 11만3000원, 11.40% 오른 110만원대에 거래됐다. ‘황제주’는 통상 주당 가격이 100만원을 넘는 종목을 가리킨다. 이번 상승은 SK하이닉스 주가 강세가 SK스퀘어 투자심리에 영향을 준 흐름으로 풀이된다. 시장은 SK하이닉스 관련 기대가 SK스퀘어 주가에 계속 반영될지 주목하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SK Square Jumps Over 11% as SK Hynix Strength Lifts Shares Above W1 Million",
+        "excerpt": "SK Square rose 11.40% on the morning of May 6, trading in the 1.1 million won range as strength in SK Hynix helped it join Korea’s so-called “emperor stock” ranks.",
+        "body": "SK Square surged in early trading on May 6, lifted by strength in SK Hynix, and became an “emperor stock,” a Korean market term for shares priced above 1 million won each. According to Maeil Business Newspaper, SK Square was trading at around the 1.1 million won level as of 9:14 a.m., up 113,000 won, or 11.40%, from the previous session. The move reflects stronger investor sentiment tied to SK Hynix’s share performance. Market attention is now on whether expectations linked to SK Hynix will continue to be reflected in SK Square’s stock price. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKスクエア、SKハイニックス高に連動し11％台急騰で「皇帝株」入り",
+        "excerpt": "SKスクエアは6日午前、SKハイニックスの強さを追い風に前日比11.40％上昇し、110万ウォン台で取引され、1株100万ウォン超の「皇帝株」となった。",
+        "body": "SKスクエアは6日午前の取引序盤、SKハイニックス株の強さを背景に急騰し、「皇帝株」となった。毎日経済の報道によると、同日午前9時14分時点でSKスクエアは前日比11万3000ウォン、11.40％高の110万ウォン台で取引された。「皇帝株」は通常、1株当たり価格が100万ウォンを超える銘柄を指す。今回の上昇は、SKハイニックスの株価強勢がSKスクエアへの投資心理に影響した流れとみられる。市場は関連期待が株価に引き続き反映されるか注目している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "SK Square受SK海力士强势带动大涨逾11%，跻身“皇帝股”",
+        "excerpt": "SK Square 6日上午受SK海力士股价走强带动，较前一交易日上涨11.40%，在110万韩元区间交易，成为每股超过100万韩元的“皇帝股”。",
+        "body": "SK Square在6日上午开盘初段受SK海力士强势带动大幅上涨，跻身韩国市场所谓“皇帝股”。据《每日经济》报道，截至当天上午9时14分，SK Square较前一交易日上涨11.3万韩元，涨幅11.40%，在110万韩元区间交易。“皇帝股”通常指每股价格超过100万韩元的股票。此次上涨被视为SK海力士股价走强影响SK Square投资情绪的结果。市场正关注与SK海力士相关的期待是否会继续反映在SK Square股价中。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "SK Square sube más del 11% impulsada por SK Hynix y supera el millón de wones",
+        "excerpt": "SK Square avanzó un 11,40% en la mañana del 6 de mayo, apoyada por la fortaleza de SK Hynix, y cotizó en la zona de 1,1 millones de wones por acción.",
+        "body": "SK Square se disparó en las primeras operaciones del 6 de mayo, impulsada por la fortaleza de SK Hynix, y entró en la categoría de las llamadas “acciones emperador” en Corea. Según Maeil Business Newspaper, a las 9:14 a. m. la acción subía 113.000 wones, un 11,40% frente a la sesión anterior, y cotizaba en la zona de 1,1 millones de wones. El término se usa habitualmente para acciones cuyo precio supera 1 millón de wones por título. El alza refleja un mejor ánimo inversor ligado al desempeño de SK Hynix. El mercado observa si esas expectativas seguirán reflejándose en SK Square. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "SK Square salta mais de 11% com força da SK Hynix e supera 1 milhão de wones",
+        "excerpt": "A SK Square subiu 11,40% na manhã de 6 de maio, apoiada pela valorização da SK Hynix, e passou a negociar na faixa de 1,1 milhão de wones por ação.",
+        "body": "A SK Square disparou no início do pregão de 6 de maio, impulsionada pela força da SK Hynix, e entrou no grupo das chamadas “ações imperador” na Coreia. Segundo o Maeil Business Newspaper, às 9h14 a ação subia 113.000 wones, ou 11,40% ante o fechamento anterior, sendo negociada na faixa de 1,1 milhão de wones. O termo costuma designar papéis cotados acima de 1 milhão de wones por ação. A alta indica melhora no sentimento dos investidores relacionada ao desempenho da SK Hynix. O mercado acompanha se essas expectativas continuarão refletidas na SK Square. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SK Square steigt dank SK Hynix um mehr als 11% und überschreitet 1 Mio. Won",
+        "excerpt": "SK Square legte am Morgen des 6. Mai um 11,40% zu und wurde durch die Stärke von SK Hynix in den Bereich von 1,1 Millionen Won je Aktie getrieben.",
+        "body": "SK Square ist am frühen Handelstag des 6. Mai stark gestiegen, gestützt durch die Kursstärke von SK Hynix, und wurde damit zu einer sogenannten „Kaiseraktie“ am koreanischen Markt. Laut Maeil Business Newspaper notierte SK Square um 9:14 Uhr bei rund 1,1 Millionen Won, ein Plus von 113.000 Won oder 11,40% gegenüber dem Vortag. Der Begriff bezeichnet üblicherweise Aktien mit einem Kurs von mehr als 1 Million Won je Anteil. Der Anstieg zeigt, dass die Stärke von SK Hynix die Anlegerstimmung gegenüber SK Square beeinflusste. Der Markt beobachtet nun, ob diese Erwartungen weiter eingepreist werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "SK Square bondit de plus de 11% avec SK Hynix et dépasse 1 million de wons",
+        "excerpt": "SK Square a gagné 11,40% dans la matinée du 6 mai, soutenue par la vigueur de SK Hynix, et s’est échangée autour de 1,1 million de wons par action.",
+        "body": "SK Square a fortement progressé en début de séance le 6 mai, portée par la vigueur de SK Hynix, et a rejoint les valeurs dites “actions empereur” en Corée. Selon Maeil Business Newspaper, à 9h14, le titre gagnait 113.000 wons, soit 11,40% par rapport à la veille, pour évoluer dans la zone de 1,1 million de wons. Cette expression désigne généralement les actions dont le prix dépasse 1 million de wons par titre. La hausse traduit un sentiment d’investissement renforcé par la performance de SK Hynix. Le marché surveille si ces attentes continueront de se refléter dans SK Square. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم SK Square يقفز بأكثر من 11% بدعم SK Hynix ويتجاوز مليون وون",
+        "excerpt": "ارتفع سهم SK Square صباح 6 مايو بنسبة 11.40% مدعوما بقوة SK Hynix، ليتداول في نطاق 1.1 مليون وون ويصبح من الأسهم التي تتجاوز مليون وون للسهم.",
+        "body": "قفز سهم SK Square في التعاملات المبكرة يوم 6 مايو بدعم من قوة سهم SK Hynix، لينضم إلى ما يعرف في السوق الكورية باسم “أسهم الإمبراطور”، أي الأسهم التي يتجاوز سعرها مليون وون للسهم. وبحسب صحيفة Maeil Business Newspaper، كان السهم عند الساعة 9:14 صباحا مرتفعا 113 ألف وون، أو 11.40% عن الجلسة السابقة، ويتداول في نطاق 1.1 مليون وون. ويعكس الصعود تحسن معنويات المستثمرين المرتبطة بأداء SK Hynix. ويراقب السوق ما إذا كانت التوقعات المرتبطة بـ SK Hynix ستظل منعكسة في سعر SK Square. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SK Hynix की मजबूती से SK Square 11% से अधिक उछला, 10 लाख वॉन के पार",
+        "excerpt": "SK Square 6 मई की सुबह SK Hynix की मजबूती के सहारे 11.40% चढ़कर 11 लाख वॉन के दायरे में कारोबार कर रहा था और 10 लाख वॉन से ऊपर पहुंच गया।",
+        "body": "SK Square 6 मई की शुरुआती ट्रेडिंग में SK Hynix की मजबूती से तेज उछला और कोरियाई बाजार में तथाकथित “एम्परर स्टॉक” बन गया। Maeil Business Newspaper के अनुसार, सुबह 9:14 बजे SK Square पिछले सत्र से 113,000 वॉन, यानी 11.40%, बढ़कर 11 लाख वॉन के दायरे में कारोबार कर रहा था। यह शब्द आम तौर पर उन शेयरों के लिए इस्तेमाल होता है जिनकी कीमत प्रति शेयर 10 लाख वॉन से अधिक होती है। यह तेजी SK Hynix के मजबूत शेयर प्रदर्शन से SK Square के प्रति निवेशक भावना में सुधार को दिखाती है। बाजार देख रहा है कि यह अपेक्षा आगे भी शेयर मूल्य में दिखेगी या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "SK Square Melonjak Lebih dari 11% Berkat SK Hynix, Tembus 1 Juta Won",
+        "excerpt": "SK Square naik 11,40% pada pagi 6 Mei, ditopang penguatan SK Hynix, dan diperdagangkan di kisaran 1,1 juta won per saham sebagai “saham kaisar”.",
+        "body": "SK Square melonjak pada awal perdagangan 6 Mei, terdorong penguatan SK Hynix, dan masuk kategori yang di Korea disebut “saham kaisar”. Menurut Maeil Business Newspaper, pada pukul 09.14 saham SK Square naik 113.000 won, atau 11,40% dibanding sesi sebelumnya, dan diperdagangkan di kisaran 1,1 juta won. Istilah tersebut umumnya merujuk pada saham dengan harga di atas 1 juta won per lembar. Kenaikan ini menunjukkan sentimen investor terhadap SK Square dipengaruhi oleh kekuatan saham SK Hynix. Pasar mencermati apakah ekspektasi terkait SK Hynix akan terus tercermin pada harga SK Square. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "3d78b8b7b9d1",
     "slug": "삼성전자-25만원sk하이닉스-160만원-터치나란히-신고가-219478",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Cetak Rekor Intraday, Sempat Tembus Level 7.400",
         "excerpt": "Menurut Bridge Economy, KOSPI melanjutkan penguatan setelah mencetak rekor intraday baru dan sempat bergerak menembus level 7.400 dalam perdagangan.",
         "body": "KOSPI menguat dalam perdagangan intraday setelah mencetak rekor tertinggi baru, lapor Bridge Economy. Indeks tersebut sempat menembus level 7.400 selama sesi berjalan dan menarik perhatian pasar.\n\nLaporan ini menyoroti nada kuat KOSPI dalam pembaruan pasar intraday. Poin utamanya adalah pembaruan rekor tertinggi dan pergerakan sementara di atas 7.400, yang menunjukkan arah indeks condong naik pada saat itu.\n\nNamun, ringkasan asli tidak memuat rincian tambahan mengenai penyebab kenaikan, kinerja sektoral, arus transaksi berdasarkan pelaku investor, atau komentar pihak terkait. Investor perlu memantau pergerakan intraday lanjutan dan posisi penutupan indeks.\nSumber: Bridge Economy"
-      }
-    }
-  },
-  {
-    "id": "48d9aae71bb1",
-    "slug": "코스피-사상-첫-7000돌파매수-사이드카-발동---대구mbc-652041",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:01:13.429Z",
-    "updatedAt": "2026-05-06T08:01:13.429Z",
-    "sourceName": "대구MBC",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oa3hyb2pZSmw2N19ia2xkVzViclRFWjZVZGNBYVJsTEd6OTV0SmNXbkJTbHh2SkhmdFhEYWJhdFV6ZDhMVUdyVmRnNlc?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oa3hyb2pZSmw2N19ia2xkVzViclRFWjZVZGNBYVJsTEd6OTV0SmNXbkJTbHh2SkhmdFhEYWJhdFV6ZDhMVUdyVmRnNlc?oc=5",
-    "titleFingerprint": "59fb0cec691c592b5180d419b27c5fcc10ce1102",
-    "dedupKeys": [
-      "48d9aae71bb15222d9c57e4cf931aa0cf672130e",
-      "59fb0cec691c592b5180d419b27c5fcc10ce1102",
-      "5bbdcd67079016417ac980b1c23a235900b4ab21"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상 첫 7,000 돌파, 매수 사이드카 발동 소식",
-        "excerpt": "대구MBC는 코스피가 사상 처음으로 7,000선을 돌파했고, 이에 따라 매수 사이드카가 발동됐다고 보도했다.",
-        "body": "코스피가 사상 처음으로 7,000선을 돌파했다고 대구MBC가 보도했다. 보도에 따르면 이 과정에서 매수 사이드카도 발동됐다.\n\n이번 소식의 핵심 수치는 코스피 7,000선이다. 대구MBC 원문 제목은 코스피의 사상 첫 7,000 돌파와 매수 사이드카 발동을 함께 전했다.\n\n제공된 원문 요약에는 추가 지수 흐름, 발동 시각, 거래 규모, 관계자 발언 등 세부 내용은 포함되지 않았다. 투자자들은 후속 보도를 통해 시장 상황을 확인할 필요가 있다.\n\n출처: 대구MBC"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,000 for First Time as Buy Sidecar Is Triggered",
-        "excerpt": "Daegu MBC reported that the KOSPI crossed the 7,000 mark for the first time in history, with a buy-side sidecar also triggered.",
-        "body": "The KOSPI surpassed the 7,000 mark for the first time in its history, according to Daegu MBC. The report said a buy-side sidecar was also triggered during the move.\n\nThe key figure in the report is the KOSPI’s 7,000 level. Daegu MBC’s headline linked the market’s first-ever break above 7,000 with the activation of a buy-side sidecar.\n\nThe provided summary did not include further details such as the exact timing, trading volume, subsequent index movement, or comments from officials. Investors may need to follow later reports for more market context.\n\nSource: Daegu MBC"
-      },
-      "ja": {
-        "title": "KOSPIが史上初の7,000突破、買いサイドカー発動",
-        "excerpt": "大邱MBCは、KOSPIが史上初めて7,000の大台を突破し、これに伴い買いサイドカーが発動されたと報じた。",
-        "body": "KOSPIが史上初めて7,000の大台を突破したと、大邱MBCが報じた。報道によると、この動きの中で買いサイドカーも発動された。\n\n今回のニュースで示された中心的な数値はKOSPIの7,000水準だ。大邱MBCの見出しは、KOSPIの史上初の7,000突破と買いサイドカー発動をあわせて伝えた。\n\n提供された要約には、発動時刻、取引規模、その後の指数推移、関係者コメントなどの詳細は含まれていない。投資家は続報で市場状況を確認する必要がある。\n\n出典: 大邱MBC"
-      },
-      "zh": {
-        "title": "KOSPI史上首次突破7,000点，买入Sidecar启动",
-        "excerpt": "大邱MBC报道称，KOSPI史上首次突破7,000点，并在这一过程中启动了买入Sidecar机制。",
-        "body": "据大邱MBC报道，KOSPI史上首次突破7,000点。报道称，在这一过程中，买入Sidecar也已启动。\n\n本次消息的核心数字是KOSPI的7,000点关口。大邱MBC的标题同时提到了KOSPI首次突破7,000点以及买入Sidecar启动。\n\n所提供的原文摘要未包含具体启动时间、成交规模、后续指数走势或相关人士评论等更多细节。投资者仍需通过后续报道确认市场情况。\n\n来源: 大邱MBC"
-      },
-      "es": {
-        "title": "KOSPI supera los 7.000 por primera vez y activa sidecar comprador",
-        "excerpt": "Daegu MBC informó que el KOSPI superó por primera vez en la historia el nivel de 7.000 puntos y que se activó un sidecar comprador.",
-        "body": "El KOSPI superó por primera vez en su historia el nivel de 7.000 puntos, según informó Daegu MBC. De acuerdo con el reporte, durante ese movimiento también se activó un sidecar comprador.\n\nLa cifra central de la noticia es el umbral de 7.000 puntos del KOSPI. El titular de Daegu MBC vinculó el primer avance histórico por encima de ese nivel con la activación del sidecar comprador.\n\nEl resumen proporcionado no incluye más detalles sobre la hora de activación, el volumen negociado, la evolución posterior del índice ni comentarios de responsables. Los inversores deberán revisar reportes posteriores para más contexto.\n\nFuente: Daegu MBC"
-      },
-      "pt": {
-        "title": "KOSPI supera 7.000 pela primeira vez e aciona sidecar de compra",
-        "excerpt": "A Daegu MBC informou que o KOSPI ultrapassou pela primeira vez na história o nível de 7.000 pontos, com acionamento de sidecar de compra.",
-        "body": "O KOSPI ultrapassou pela primeira vez em sua história o nível de 7.000 pontos, informou a Daegu MBC. Segundo a reportagem, um sidecar de compra também foi acionado durante o movimento.\n\nO principal número da notícia é a marca de 7.000 pontos do KOSPI. O título da Daegu MBC destacou ao mesmo tempo a primeira superação histórica desse nível e o acionamento do sidecar de compra.\n\nO resumo fornecido não traz detalhes adicionais sobre horário de acionamento, volume negociado, movimento posterior do índice ou comentários de autoridades. Investidores podem precisar acompanhar novas reportagens para mais contexto.\n\nFonte: Daegu MBC"
-      },
-      "de": {
-        "title": "KOSPI steigt erstmals über 7.000, Kauf-Sidecar ausgelöst",
-        "excerpt": "Daegu MBC berichtete, dass der KOSPI erstmals in seiner Geschichte die Marke von 7.000 Punkten überschritten hat und ein Kauf-Sidecar ausgelöst wurde.",
-        "body": "Der KOSPI hat erstmals in seiner Geschichte die Marke von 7.000 Punkten überschritten, berichtete Daegu MBC. Dem Bericht zufolge wurde während dieser Bewegung auch ein Kauf-Sidecar ausgelöst.\n\nDie zentrale Zahl der Meldung ist die 7.000-Punkte-Marke des KOSPI. Die Überschrift von Daegu MBC nannte sowohl den erstmaligen Durchbruch über 7.000 Punkte als auch die Auslösung des Kauf-Sidecars.\n\nDie bereitgestellte Zusammenfassung enthält keine weiteren Angaben zu Auslösungszeitpunkt, Handelsvolumen, späterem Indexverlauf oder Kommentaren von Verantwortlichen. Anleger sollten Folgeberichte für mehr Marktkontext prüfen.\n\nQuelle: Daegu MBC"
-      },
-      "fr": {
-        "title": "Le KOSPI franchit 7 000 pour la première fois, sidecar acheteur activé",
-        "excerpt": "Daegu MBC a rapporté que le KOSPI a franchi pour la première fois le seuil des 7 000 points, avec l’activation d’un sidecar acheteur.",
-        "body": "Le KOSPI a franchi pour la première fois de son histoire le seuil des 7 000 points, selon Daegu MBC. Le reportage indique qu’un sidecar acheteur a également été activé durant ce mouvement.\n\nLe chiffre central de cette information est le niveau de 7 000 points du KOSPI. Le titre de Daegu MBC associe ce premier franchissement historique à l’activation du sidecar acheteur.\n\nLe résumé fourni ne contient pas d’autres précisions sur l’heure d’activation, les volumes échangés, l’évolution ultérieure de l’indice ou des commentaires de responsables. Les investisseurs devront suivre les prochains reportages pour davantage de contexte.\n\nSource: Daegu MBC"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7,000 لأول مرة وتفعيل سايدكار الشراء",
-        "excerpt": "ذكرت دايغو MBC أن مؤشر كوسبي تجاوز مستوى 7,000 نقطة لأول مرة في تاريخه، مع تفعيل سايدكار الشراء خلال التحرك.",
-        "body": "تجاوز مؤشر كوسبي مستوى 7,000 نقطة لأول مرة في تاريخه، بحسب ما أفادت دايغو MBC. وذكر التقرير أن سايدكار الشراء تم تفعيله أيضا خلال هذا التحرك.\n\nالرقم الأساسي في الخبر هو مستوى 7,000 نقطة لمؤشر كوسبي. وجمع عنوان دايغو MBC بين الاختراق التاريخي الأول لهذا المستوى وتفعيل سايدكار الشراء.\n\nلا يتضمن الملخص المقدم تفاصيل إضافية عن توقيت التفعيل أو حجم التداول أو حركة المؤشر اللاحقة أو تصريحات مسؤولين. وقد يحتاج المستثمرون إلى متابعة التقارير اللاحقة لفهم وضع السوق بصورة أوسع.\n\nالمصدر: دايغو MBC"
-      },
-      "hi": {
-        "title": "KOSPI पहली बार 7,000 के पार, खरीद साइडकार हुआ सक्रिय",
-        "excerpt": "Daegu MBC ने बताया कि KOSPI इतिहास में पहली बार 7,000 अंक के स्तर को पार कर गया और इस दौरान खरीद साइडकार सक्रिय हुआ।",
-        "body": "Daegu MBC के अनुसार, KOSPI इतिहास में पहली बार 7,000 अंक के स्तर को पार कर गया। रिपोर्ट में कहा गया कि इस दौरान खरीद साइडकार भी सक्रिय हुआ।\n\nइस खबर का मुख्य आंकड़ा KOSPI का 7,000 अंक स्तर है। Daegu MBC के शीर्षक में KOSPI के पहली बार 7,000 से ऊपर जाने और खरीद साइडकार सक्रिय होने, दोनों बातों को साथ रखा गया।\n\nदिए गए सारांश में सक्रिय होने का समय, कारोबार का आकार, बाद की सूचकांक चाल या अधिकारियों की टिप्पणी जैसी अतिरिक्त जानकारी शामिल नहीं है। निवेशकों को बाजार की स्थिति के लिए आगे की रिपोर्ट देखनी पड़ सकती है।\n\nस्रोत: Daegu MBC"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.000 untuk Pertama Kali, Sidecar Beli Aktif",
-        "excerpt": "Daegu MBC melaporkan KOSPI menembus level 7.000 untuk pertama kalinya dalam sejarah, disertai aktivasi sidecar beli.",
-        "body": "KOSPI menembus level 7.000 untuk pertama kalinya dalam sejarah, menurut laporan Daegu MBC. Laporan itu menyebut sidecar beli juga aktif selama pergerakan tersebut.\n\nAngka utama dalam kabar ini adalah level 7.000 pada KOSPI. Judul Daegu MBC mengaitkan penembusan pertama kali di atas 7.000 dengan aktivasi sidecar beli.\n\nRingkasan yang diberikan tidak memuat rincian tambahan seperti waktu aktivasi, volume perdagangan, pergerakan indeks berikutnya, atau komentar pihak terkait. Investor perlu mengikuti laporan lanjutan untuk memahami kondisi pasar lebih lanjut.\n\nSumber: Daegu MBC"
-      }
-    }
-  },
-  {
-    "id": "a0fcbfc9ead4",
-    "slug": "코스피-최고치-경신-랠리삼성전자sk하이닉스가-주도-마감시황---에너지경제신문-853520",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T08:00:21.594Z",
-    "updatedAt": "2026-05-06T08:00:21.594Z",
-    "sourceName": "에너지경제신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RRWpFcmRrSGxNR3ZSRkpMc1RsSnRwU0R2eFdOTURZZUkzS2VQcFVIMndRV1FwYjJwckR1VWVsNnFzczRBbzllQVZ1d3B0cEhnNHJtRHFZVUVQRnJBcS1BY3FDVQ?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RRWpFcmRrSGxNR3ZSRkpMc1RsSnRwU0R2eFdOTURZZUkzS2VQcFVIMndRV1FwYjJwckR1VWVsNnFzczRBbzllQVZ1d3B0cEhnNHJtRHFZVUVQRnJBcS1BY3FDVQ?oc=5",
-    "titleFingerprint": "da7bac9454fee8250e19ed18f923258f4f0b483e",
-    "dedupKeys": [
-      "a0fcbfc9ead4a88ec57a94412987659248ab1f02",
-      "da7bac9454fee8250e19ed18f923258f4f0b483e",
-      "afd785d174c24de5794452517526fb038f146e2c"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 최고치 경신 랠리, 삼성전자·SK하이닉스 주도한 마감 흐름",
-        "excerpt": "코스피가 마감 시황에서 최고치 경신 랠리를 이어갔고, 삼성전자와 SK하이닉스가 흐름을 이끌었다고 에너지경제신문이 전했다.",
-        "body": "코스피가 이날 마감 시황에서 최고치 경신 랠리를 보였다. 에너지경제신문은 삼성전자와 SK하이닉스가 지수 흐름을 주도했다고 전했다.\n\n이번 흐름은 국내 증시에서 대형 반도체주의 영향력이 다시 부각된 장면으로 정리된다. 제공된 원문 요약에는 구체적인 지수 종가나 상승 폭 등 세부 수치는 포함되지 않았다.\n\n삼성전자와 SK하이닉스가 코스피 랠리를 이끈 만큼, 투자자 관심은 대형 기술주 중심의 수급과 향후 지수 흐름에 모일 수 있다. 다만 원문 요약에 별도 관계자 코멘트는 제시되지 않았다.\n\n출처: 에너지경제신문"
-      },
-      "en": {
-        "title": "KOSPI Hits Fresh Record as Samsung Electronics and SK Hynix Lead Close",
-        "excerpt": "The KOSPI extended a record-setting rally at the close, led by Samsung Electronics and SK Hynix, according to Energy Economy Newspaper.",
-        "body": "The KOSPI posted a record-setting rally in the closing market session. Energy Economy Newspaper reported that Samsung Electronics and SK Hynix led the index’s move.\n\nThe development highlights the renewed influence of major semiconductor stocks in South Korea’s equity market. The source summary did not include specific closing index levels or the size of the gain.\n\nWith Samsung Electronics and SK Hynix driving the KOSPI rally, investor attention may center on trading flows around large technology stocks and the next direction of the index. No separate stakeholder comment was included in the source summary.\n\nSource: Energy Economy Newspaper"
-      },
-      "ja": {
-        "title": "KOSPIが最高値更新ラリー、サムスン電子とSKハイニックスが主導",
-        "excerpt": "KOSPIは大引け時点で最高値更新ラリーを続け、サムスン電子とSKハイニックスが相場を主導したとエネルギー経済新聞が伝えた。",
-        "body": "KOSPIはこの日の大引け市況で、最高値を更新するラリーを示した。エネルギー経済新聞は、サムスン電子とSKハイニックスが指数の流れを主導したと報じた。\n\n今回の動きは、韓国株式市場で大型半導体株の影響力が改めて浮き彫りになった場面と整理できる。提供された原文要約には、具体的な終値や上昇幅などの詳細な数値は含まれていない。\n\nサムスン電子とSKハイニックスがKOSPIのラリーをけん引しただけに、投資家の関心は大型ハイテク株を中心とした需給と今後の指数動向に向かう可能性がある。ただし原文要約には関係者コメントは示されていない。\n\n出典: エネルギー経済新聞"
-      },
-      "zh": {
-        "title": "KOSPI刷新最高点行情，三星电子与SK海力士领涨收盘走势",
-        "excerpt": "KOSPI在收盘行情中延续刷新最高点的涨势，三星电子和SK海力士主导指数表现，能源经济新闻报道称。",
-        "body": "KOSPI在当天收盘行情中出现刷新最高点的上涨走势。能源经济新闻报道称，三星电子和SK海力士主导了指数表现。\n\n这一走势显示出韩国股市中大型半导体股的影响力再次受到关注。所提供的原文摘要未包含具体收盘点位、涨幅等详细数据。\n\n由于三星电子和SK海力士带动KOSPI上涨，投资者关注点可能集中在大型科技股的资金流向以及后续指数走势。不过，原文摘要中未提供相关人士评论。\n\n来源：能源经济新闻"
-      },
-      "es": {
-        "title": "KOSPI marca nuevo máximo en rally liderado por Samsung y SK Hynix",
-        "excerpt": "El KOSPI prolongó al cierre un rally de máximos, impulsado por Samsung Electronics y SK Hynix, informó Energy Economy Newspaper.",
-        "body": "El KOSPI mostró en la sesión de cierre un rally con renovación de máximos. Energy Economy Newspaper informó que Samsung Electronics y SK Hynix lideraron el movimiento del índice.\n\nLa evolución subraya de nuevo la influencia de las grandes acciones de semiconductores en el mercado bursátil surcoreano. El resumen original proporcionado no incluyó el nivel concreto de cierre del índice ni la magnitud del avance.\n\nDado que Samsung Electronics y SK Hynix impulsaron el rally del KOSPI, la atención de los inversores puede centrarse en los flujos hacia grandes tecnológicas y en la próxima dirección del índice. El resumen original no presentó comentarios de partes relacionadas.\n\nFuente: Energy Economy Newspaper"
-      },
-      "pt": {
-        "title": "KOSPI renova máxima em rali liderado por Samsung Electronics e SK Hynix",
-        "excerpt": "O KOSPI ampliou no fechamento um rali de renovação de máxima, liderado por Samsung Electronics e SK Hynix, informou o Energy Economy Newspaper.",
-        "body": "O KOSPI apresentou, no fechamento, um rali com renovação de máxima. O Energy Economy Newspaper informou que Samsung Electronics e SK Hynix lideraram o movimento do índice.\n\nO desempenho destaca novamente a influência das grandes ações de semicondutores no mercado acionário sul-coreano. O resumo original fornecido não incluiu o nível exato de fechamento do índice nem a dimensão da alta.\n\nComo Samsung Electronics e SK Hynix impulsionaram o rali do KOSPI, a atenção dos investidores pode se concentrar nos fluxos ligados às grandes empresas de tecnologia e na próxima direção do índice. O resumo original não trouxe comentários de representantes.\n\nFonte: Energy Economy Newspaper"
-      },
-      "de": {
-        "title": "KOSPI erreicht Rekordhoch-Rally, Samsung Electronics und SK Hynix führen",
-        "excerpt": "Der KOSPI setzte zum Handelsschluss seine Rekordhoch-Rally fort, angeführt von Samsung Electronics und SK Hynix, berichtete Energy Economy Newspaper.",
-        "body": "Der KOSPI zeigte zum Handelsschluss eine Rally mit einem neuen Rekordhoch. Energy Economy Newspaper berichtete, dass Samsung Electronics und SK Hynix die Bewegung des Index anführten.\n\nDie Entwicklung unterstreicht erneut den Einfluss großer Halbleiterwerte am südkoreanischen Aktienmarkt. In der bereitgestellten Originalzusammenfassung wurden weder ein konkreter Schlussstand des Index noch die Höhe des Anstiegs genannt.\n\nDa Samsung Electronics und SK Hynix die KOSPI-Rally trugen, dürfte sich die Aufmerksamkeit der Anleger auf Kapitalflüsse in große Technologiewerte und die weitere Richtung des Index richten. Ein gesonderter Kommentar von Beteiligten wurde in der Originalzusammenfassung nicht aufgeführt.\n\nQuelle: Energy Economy Newspaper"
-      },
-      "fr": {
-        "title": "Le KOSPI bat un record, porté en clôture par Samsung Electronics et SK Hynix",
-        "excerpt": "Le KOSPI a poursuivi en clôture un rally de record, mené par Samsung Electronics et SK Hynix, selon Energy Economy Newspaper.",
-        "body": "Le KOSPI a affiché en clôture un rally marqué par un nouveau record. Energy Economy Newspaper a rapporté que Samsung Electronics et SK Hynix avaient mené le mouvement de l’indice.\n\nCette évolution met de nouveau en évidence le poids des grandes valeurs des semi-conducteurs sur le marché actions sud-coréen. Le résumé original fourni ne mentionnait ni niveau précis de clôture de l’indice ni ampleur de la hausse.\n\nSamsung Electronics et SK Hynix ayant entraîné le rally du KOSPI, l’attention des investisseurs pourrait se porter sur les flux autour des grandes valeurs technologiques et sur la prochaine direction de l’indice. Aucun commentaire distinct de responsable n’était présenté dans le résumé original.\n\nSource: Energy Economy Newspaper"
-      },
-      "ar": {
-        "title": "كوسبي يسجل موجة قياسية جديدة بقيادة سامسونغ إلكترونيكس وSK هاينكس",
-        "excerpt": "واصل مؤشر كوسبي موجة تسجيل مستويات قياسية عند الإغلاق، بقيادة سامسونغ إلكترونيكس وSK هاينكس، بحسب صحيفة إنرجي إيكونومي.",
-        "body": "سجل مؤشر كوسبي في تعاملات الإغلاق موجة صعود مع تجديد مستوى قياسي. وذكرت صحيفة إنرجي إيكونومي أن سامسونغ إلكترونيكس وSK هاينكس قادتا حركة المؤشر.\n\nيعكس هذا التحرك بروز تأثير أسهم أشباه الموصلات الكبرى مجددا في سوق الأسهم الكورية الجنوبية. ولم يتضمن ملخص المصدر المقدم مستوى إغلاق محددا للمؤشر أو حجم الارتفاع.\n\nوبما أن سامسونغ إلكترونيكس وSK هاينكس قادتا موجة كوسبي، فقد يتركز اهتمام المستثمرين على تدفقات التداول حول أسهم التكنولوجيا الكبرى واتجاه المؤشر لاحقا. ولم يرد في ملخص المصدر تعليق منفصل من أي جهة معنية.\n\nالمصدر: صحيفة إنرجي إيكونومي"
-      },
-      "hi": {
-        "title": "KOSPI ने रिकॉर्ड रैली बढ़ाई, Samsung Electronics और SK Hynix रहे अगुआ",
-        "excerpt": "KOSPI ने बंद भाव के दौरान रिकॉर्ड स्तरों की रैली जारी रखी, जिसमें Samsung Electronics और SK Hynix ने सूचकांक को आगे बढ़ाया, Energy Economy Newspaper ने बताया।",
-        "body": "KOSPI ने दिन के बंद सत्र में रिकॉर्ड स्तरों को छूने वाली रैली दिखाई। Energy Economy Newspaper के अनुसार, Samsung Electronics और SK Hynix ने सूचकांक की चाल का नेतृत्व किया।\n\nयह चाल दक्षिण कोरिया के शेयर बाजार में बड़े सेमीकंडक्टर शेयरों के प्रभाव को फिर से रेखांकित करती है। उपलब्ध कराए गए मूल सारांश में सूचकांक का ठोस बंद स्तर या बढ़त का आकार शामिल नहीं था।\n\nSamsung Electronics और SK Hynix द्वारा KOSPI रैली को आगे बढ़ाने के कारण निवेशकों का ध्यान बड़ी टेक कंपनियों के आसपास के प्रवाह और सूचकांक की अगली दिशा पर रह सकता है। मूल सारांश में किसी संबंधित पक्ष की अलग टिप्पणी नहीं दी गई।\n\nस्रोत: Energy Economy Newspaper"
-      },
-      "id": {
-        "title": "KOSPI Cetak Rekor Baru, Reli Dipimpin Samsung Electronics dan SK Hynix",
-        "excerpt": "KOSPI memperpanjang reli pencetakan rekor pada penutupan, dipimpin Samsung Electronics dan SK Hynix, menurut Energy Economy Newspaper.",
-        "body": "KOSPI menunjukkan reli pencetakan rekor baru pada sesi penutupan. Energy Economy Newspaper melaporkan bahwa Samsung Electronics dan SK Hynix memimpin pergerakan indeks tersebut.\n\nPergerakan ini kembali menyoroti pengaruh saham semikonduktor besar di pasar saham Korea Selatan. Ringkasan sumber yang diberikan tidak memuat level penutupan indeks secara spesifik maupun besaran kenaikannya.\n\nKarena Samsung Electronics dan SK Hynix mendorong reli KOSPI, perhatian investor dapat tertuju pada arus perdagangan di sekitar saham teknologi besar dan arah indeks berikutnya. Ringkasan sumber tidak menyertakan komentar terpisah dari pihak terkait.\n\nSumber: Energy Economy Newspaper"
-      }
-    }
-  },
-  {
-    "id": "d110fa658187",
-    "slug": "코스피-7000-주인공은-개인과-etf개인이-밀고-etf가-연료-역할---경향신문-305885",
-    "channelId": "STOCKS",
-    "category": "breaking",
-    "publishedAt": "2026-05-06T07:59:17.254Z",
-    "updatedAt": "2026-05-06T07:59:17.254Z",
-    "sourceName": "경향신문",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTkhsYkNWVThaNUEzQWJjYnhoSGZzaF8wbFAyZmluUEJqMV9oWVYxRWVBcjg1WWQ0T01qbzdGZGhwSFJaOHUtcUxQazlzN0Q3T2VOLTBvTlplQdIBX0FVX3lxTFBWcWc1el9XTTJkUnBqUWVLMTRGaEpBZERxV1duaGtzVlJieE93OEhTRlh1WE8weWcxRFlpUy1sdWRnWGI0TjFVN1NuWmZ1My1FY3o4MjZoTVZoV2FJek8w?oc=5",
-    "canonicalUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTkhsYkNWVThaNUEzQWJjYnhoSGZzaF8wbFAyZmluUEJqMV9oWVYxRWVBcjg1WWQ0T01qbzdGZGhwSFJaOHUtcUxQazlzN0Q3T2VOLTBvTlplQdIBX0FVX3lxTFBWcWc1el9XTTJkUnBqUWVLMTRGaEpBZERxV1duaGtzVlJieE93OEhTRlh1WE8weWcxRFlpUy1sdWRnWGI0TjFVN1NuWmZ1My1FY3o4MjZoTVZoV2FJek8w?oc=5",
-    "titleFingerprint": "6cce62415f499070b44f016116c7b2c1ba5838dd",
-    "dedupKeys": [
-      "d110fa65818792aef2784611b0e540b0f9ad8719",
-      "6cce62415f499070b44f016116c7b2c1ba5838dd",
-      "b78ad4e553802624ac0f0ea2dc8c887fac683f0c"
-    ],
-    "imageUrl": "",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000 전망, 개인투자자와 ETF가 만든 증시 동력",
-        "excerpt": "경향신문은 코스피 7000 논의의 핵심 주체로 개인투자자와 ETF를 짚었다. 개인 매수세가 시장을 밀고 ETF가 자금 유입의 연료 역할을 했다는 분석이다.",
-        "body": "경향신문은 코스피 7000을 둘러싼 국내 증시 흐름에서 개인투자자와 ETF가 핵심 역할을 했다고 보도했다. 개인이 시장을 밀어 올리고, ETF가 자금 유입의 연료 역할을 했다는 설명이다.\n\n보도에 따르면 코스피 7000 논의의 주인공은 특정 기관이나 단일 종목이 아니라 개인투자자와 ETF로 요약된다. 개인의 투자 참여가 시장 방향에 영향을 주고, ETF는 분산 투자 수단으로 자금 흐름을 확대하는 배경이 됐다.\n\n이 흐름은 국내 주식시장에서 개인 자금과 ETF 상품의 영향력이 커졌음을 보여준다. 다만 원문은 개인과 ETF의 역할을 중심으로 시장 동력을 설명하며, 향후 수치나 추가 전망은 별도로 제시하지 않았다.\n\n출처: 경향신문"
-      },
-      "en": {
-        "title": "KOSPI 7000 Outlook: Retail Investors and ETFs Drive Market Momentum",
-        "excerpt": "Kyunghyang Shinmun highlighted retail investors and ETFs as central to the KOSPI 7000 discussion, saying individuals pushed the market while ETFs acted as funding fuel.",
-        "body": "Kyunghyang Shinmun reported that retail investors and ETFs played key roles in the domestic stock market trend surrounding KOSPI 7000. The report said individual investors pushed the market higher, while ETFs served as fuel for fund inflows.\n\nAccording to the report, the main actors in the KOSPI 7000 discussion were not a single institution or stock, but retail investors and ETFs. Individual participation affected market direction, and ETFs helped broaden capital flows as diversified investment vehicles.\n\nThe trend shows the growing influence of retail money and ETF products in South Korea’s stock market. The original report focused on the roles of individuals and ETFs as market drivers and did not present separate future figures or additional forecasts.\n\nSource: Kyunghyang Shinmun"
-      },
-      "ja": {
-        "title": "KOSPI 7000展望、個人投資家とETFが市場の原動力に",
-        "excerpt": "京郷新聞は、KOSPI 7000をめぐる議論の中心に個人投資家とETFがあると報じた。個人が相場を押し上げ、ETFが資金流入の燃料役を担ったという分析だ。",
-        "body": "京郷新聞は、KOSPI 7000をめぐる韓国株式市場の流れで、個人投資家とETFが重要な役割を果たしたと報じた。個人が市場を押し上げ、ETFが資金流入の燃料役を担ったという説明だ。\n\n報道によると、KOSPI 7000論議の主役は特定の機関や単一銘柄ではなく、個人投資家とETFに要約される。個人の投資参加が市場の方向に影響を与え、ETFは分散投資手段として資金の流れを広げる背景となった。\n\nこの流れは、韓国株式市場で個人資金とETF商品の影響力が高まっていることを示す。原文は個人とETFの役割を中心に市場の動力を説明しており、今後の数値や追加見通しは別途示していない。\n\n出典: 京郷新聞"
-      },
-      "zh": {
-        "title": "KOSPI 7000展望：个人投资者与ETF成为市场动力",
-        "excerpt": "《京乡新闻》指出，KOSPI 7000讨论的核心是个人投资者和ETF。个人买盘推动市场，ETF则扮演资金流入燃料的角色。",
-        "body": "《京乡新闻》报道称，在围绕KOSPI 7000的韩国股市走势中，个人投资者和ETF发挥了关键作用。报道称，个人投资者推动市场上行，ETF则成为资金流入的燃料。\n\n根据报道，KOSPI 7000讨论的主角并非某一机构或单一股票，而是个人投资者和ETF。个人投资参与影响市场方向，ETF作为分散投资工具，成为扩大资金流动的背景。\n\n这一走势显示，个人资金和ETF产品在韩国股市中的影响力正在扩大。不过，原文主要围绕个人和ETF的作用解释市场动力，并未另行提出未来数值或更多展望。\n\n来源：京乡新闻"
-      },
-      "es": {
-        "title": "KOSPI 7000: inversores minoristas y ETF impulsan el mercado",
-        "excerpt": "Kyunghyang Shinmun señaló a los inversores minoristas y los ETF como ejes del debate sobre el KOSPI 7000: los particulares empujaron el mercado y los ETF aportaron combustible financiero.",
-        "body": "Kyunghyang Shinmun informó que los inversores minoristas y los ETF desempeñaron un papel clave en la tendencia del mercado bursátil surcoreano en torno al KOSPI 7000. Según el reporte, los particulares impulsaron el mercado, mientras los ETF actuaron como combustible para la entrada de fondos.\n\nDe acuerdo con la información, los protagonistas del debate sobre el KOSPI 7000 no fueron una institución concreta ni una sola acción, sino los inversores minoristas y los ETF. La participación individual influyó en la dirección del mercado, y los ETF ampliaron los flujos de capital como instrumentos de inversión diversificada.\n\nEsta dinámica muestra la creciente influencia del dinero minorista y de los productos ETF en la bolsa surcoreana. El texto original se centró en explicar esos motores y no presentó cifras futuras ni previsiones adicionales.\n\nFuente: Kyunghyang Shinmun"
-      },
-      "pt": {
-        "title": "KOSPI 7000: investidores individuais e ETFs ganham papel central",
-        "excerpt": "O Kyunghyang Shinmun destacou investidores individuais e ETFs como centrais no debate sobre o KOSPI 7000, com pessoas físicas empurrando o mercado e ETFs alimentando fluxos de recursos.",
-        "body": "O Kyunghyang Shinmun informou que investidores individuais e ETFs tiveram papel essencial na tendência do mercado acionário sul-coreano em torno do KOSPI 7000. Segundo a reportagem, os investidores pessoas físicas impulsionaram o mercado, enquanto os ETFs atuaram como combustível para a entrada de recursos.\n\nDe acordo com o texto, os protagonistas da discussão sobre o KOSPI 7000 não foram uma instituição específica nem uma única ação, mas os investidores individuais e os ETFs. A participação individual influenciou a direção do mercado, e os ETFs ampliaram os fluxos de capital como instrumentos de investimento diversificado.\n\nEsse movimento mostra a maior influência do dinheiro individual e dos produtos ETF na bolsa sul-coreana. A reportagem original explicou o impulso do mercado com foco nesses dois fatores e não apresentou números futuros ou novas projeções.\n\nFonte: Kyunghyang Shinmun"
-      },
-      "de": {
-        "title": "KOSPI 7000: Privatanleger und ETFs werden zum Markttreiber",
-        "excerpt": "Kyunghyang Shinmun stellte Privatanleger und ETFs in den Mittelpunkt der KOSPI-7000-Debatte: Privatanleger trieben den Markt, ETFs wirkten als Treibstoff für Kapitalzuflüsse.",
-        "body": "Kyunghyang Shinmun berichtete, dass Privatanleger und ETFs in der Entwicklung des südkoreanischen Aktienmarkts rund um den KOSPI 7000 eine Schlüsselrolle spielten. Dem Bericht zufolge schoben Privatanleger den Markt an, während ETFs als Treibstoff für Mittelzuflüsse dienten.\n\nLaut Bericht waren die Hauptakteure der KOSPI-7000-Diskussion weder eine bestimmte Institution noch eine einzelne Aktie, sondern Privatanleger und ETFs. Die Beteiligung einzelner Anleger beeinflusste die Marktrichtung, und ETFs erweiterten als diversifizierte Anlageinstrumente die Kapitalströme.\n\nDiese Entwicklung zeigt den wachsenden Einfluss privater Mittel und von ETF-Produkten am südkoreanischen Aktienmarkt. Der Originalbericht erklärte die Marktdynamik vor allem über diese beiden Faktoren und nannte keine gesonderten Zukunftszahlen oder zusätzlichen Prognosen.\n\nQuelle: Kyunghyang Shinmun"
-      },
-      "fr": {
-        "title": "KOSPI 7000 : particuliers et ETF au cœur de l’élan boursier",
-        "excerpt": "Kyunghyang Shinmun place les investisseurs particuliers et les ETF au centre du débat sur le KOSPI 7000, les premiers poussant le marché et les seconds alimentant les flux de capitaux.",
-        "body": "Kyunghyang Shinmun a rapporté que les investisseurs particuliers et les ETF ont joué un rôle clé dans la dynamique du marché boursier sud-coréen autour du KOSPI 7000. Selon l’article, les particuliers ont poussé le marché, tandis que les ETF ont servi de carburant aux entrées de capitaux.\n\nD’après le reportage, les principaux acteurs du débat sur le KOSPI 7000 ne sont ni une institution précise ni une action unique, mais les investisseurs particuliers et les ETF. La participation individuelle a influencé l’orientation du marché, et les ETF ont élargi les flux financiers comme outils d’investissement diversifié.\n\nCette tendance montre l’influence croissante de l’argent des particuliers et des produits ETF sur la Bourse sud-coréenne. Le texte original s’est concentré sur ces rôles comme moteurs du marché et n’a pas présenté de chiffres futurs ni de prévisions supplémentaires.\n\nSource : Kyunghyang Shinmun"
-      },
-      "ar": {
-        "title": "مؤشر كوسبي 7000: الأفراد وصناديق ETF يقودان زخم السوق",
-        "excerpt": "ذكرت صحيفة كيونغهيانغ شينمون أن المستثمرين الأفراد وصناديق ETF يقفان في قلب نقاش كوسبي 7000، إذ دفع الأفراد السوق وعملت الصناديق كوقود لتدفق الأموال.",
-        "body": "أفادت صحيفة كيونغهيانغ شينمون بأن المستثمرين الأفراد وصناديق ETF أدوا دورا رئيسيا في اتجاه سوق الأسهم الكورية الجنوبية المرتبط بمؤشر كوسبي 7000. وقال التقرير إن الأفراد دفعوا السوق إلى الأعلى، بينما عملت صناديق ETF كوقود لتدفقات الأموال.\n\nوبحسب التقرير، فإن أبطال نقاش كوسبي 7000 ليسوا مؤسسة بعينها أو سهما واحدا، بل المستثمرون الأفراد وصناديق ETF. فقد أثرت مشاركة الأفراد في اتجاه السوق، وساعدت صناديق ETF، كأدوات استثمار متنوعة، على توسيع حركة رؤوس الأموال.\n\nيعكس هذا المسار تنامي تأثير أموال الأفراد ومنتجات ETF في سوق الأسهم الكورية الجنوبية. وركز النص الأصلي على شرح قوة السوق من خلال دور الأفراد وصناديق ETF، ولم يقدم أرقاما مستقبلية أو توقعات إضافية.\n\nالمصدر: كيونغهيانغ شينمون"
-      },
-      "hi": {
-        "title": "KOSPI 7000 की चर्चा में खुदरा निवेशक और ETF बने बाजार की ताकत",
-        "excerpt": "क्युनघयांग शिनमुन ने KOSPI 7000 पर चर्चा में खुदरा निवेशकों और ETF को अहम बताया। व्यक्तियों ने बाजार को आगे बढ़ाया और ETF ने फंड प्रवाह के ईंधन की भूमिका निभाई।",
-        "body": "क्युनघयांग शिनमुन ने रिपोर्ट किया कि KOSPI 7000 से जुड़ी दक्षिण कोरियाई शेयर बाजार की चाल में खुदरा निवेशकों और ETF ने प्रमुख भूमिका निभाई। रिपोर्ट के अनुसार, व्यक्तिगत निवेशकों ने बाजार को ऊपर धकेला, जबकि ETF ने फंड प्रवाह के ईंधन की तरह काम किया।\n\nरिपोर्ट के मुताबिक, KOSPI 7000 की चर्चा के मुख्य पात्र कोई विशेष संस्था या एकल शेयर नहीं, बल्कि खुदरा निवेशक और ETF हैं। व्यक्तिगत भागीदारी ने बाजार की दिशा को प्रभावित किया, और ETF ने विविध निवेश साधन के रूप में पूंजी प्रवाह को बढ़ाने की पृष्ठभूमि बनाई।\n\nयह रुझान दक्षिण कोरिया के शेयर बाजार में व्यक्तिगत धन और ETF उत्पादों के बढ़ते प्रभाव को दिखाता है। मूल रिपोर्ट ने बाजार की ऊर्जा को व्यक्तियों और ETF की भूमिका के आधार पर समझाया और आगे के आंकड़े या अतिरिक्त अनुमान अलग से नहीं दिए।\n\nस्रोत: क्युनघयांग शिनमुन"
-      },
-      "id": {
-        "title": "KOSPI 7000: Investor Ritel dan ETF Jadi Penggerak Utama Pasar",
-        "excerpt": "Kyunghyang Shinmun menyoroti investor ritel dan ETF sebagai inti pembahasan KOSPI 7000. Investor individu mendorong pasar, sementara ETF menjadi bahan bakar arus dana.",
-        "body": "Kyunghyang Shinmun melaporkan bahwa investor ritel dan ETF memainkan peran penting dalam tren pasar saham Korea Selatan terkait KOSPI 7000. Menurut laporan itu, investor individu mendorong pasar, sementara ETF berperan sebagai bahan bakar bagi masuknya dana.\n\nBerdasarkan laporan tersebut, tokoh utama dalam pembahasan KOSPI 7000 bukanlah lembaga tertentu atau satu saham, melainkan investor ritel dan ETF. Partisipasi individu memengaruhi arah pasar, dan ETF membantu memperluas arus modal sebagai instrumen investasi terdiversifikasi.\n\nTren ini menunjukkan meningkatnya pengaruh dana individu dan produk ETF di pasar saham Korea Selatan. Laporan asli berfokus pada peran individu dan ETF sebagai penggerak pasar, tanpa menyajikan angka masa depan atau proyeksi tambahan.\n\nSumber: Kyunghyang Shinmun"
       }
     }
   }
