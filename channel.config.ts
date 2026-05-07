@@ -6,7 +6,7 @@ export const channel = {
   name: '글로벌스톡펄스',
   tagline: '코스피·S&P·나스닥 종목과 시장을 한눈에',
   description: '한국·미국·일본·중국 주식시장 동향과 종목 분석을 초등생도 이해할 수 있게 풀어드립니다.',
-  domain: 'stockwave.live',
+  domain: 'stocks-news-brown.vercel.app',
   accent: 'orange',
   keywords: ['주식', '코스피', '나스닥', 'S&P500', '종목분석', '실적'],
   geo: { country: 'KR', region: 'Asia', primaryCity: 'Seoul' },
