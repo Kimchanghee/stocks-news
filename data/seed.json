@@ -1,5 +1,230 @@
 [
   {
+    "id": "536a28968c0f",
+    "slug": "7천피-넘어선-증시-지금이라도-담을-주식-있다는데원전증권주-주목-465204",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T12:59:09.417Z",
+    "updatedAt": "2026-05-07T12:59:09.417Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039422",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039422",
+    "titleFingerprint": "2471996b9d96993efa9c76429c022c3dd0a5ec4c",
+    "dedupKeys": [
+      "536a28968c0f3a98e8d105aaa9c8759ddbe19375",
+      "2471996b9d96993efa9c76429c022c3dd0a5ec4c",
+      "949f5a0fa626eff3b85be55d091a3907e8aa3c63"
+    ],
+    "imageUrl": "/images/articles/536a28968c0f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파 이후 주목할 주식은 원전·증권·반도체 소부장",
+        "excerpt": "올해 삼성전자와 SK하이닉스 주도로 코스피가 7000선을 넘어선 가운데 증권가는 전력 부족, 머니 무브, 반도체 온기를 근거로 원전·증권·소부장주를 주목했다.",
+        "body": "올해 삼성전자와 SK하이닉스를 앞세운 국내 증시가 코스피 7000선을 넘어선 가운데, 증권가는 지금이라도 관심을 둘 업종으로 원전, 증권, 반도체 소재·부품·장비주를 제시했다. 배경에는 전력 부족에 따른 소형모듈원전(SMR) 확대 필요성, 증시 상승과 자금 이동에 올라탄 증권주의 수혜 가능성, 반도체 대형주 강세가 소부장 기업으로 확산될 수 있다는 기대가 있다. 코스피가 사상적 고점을 높인 상황에서도 업종별 온도 차가 뚜렷한 만큼 투자자들은 전력 인프라, 금융시장 거래 활성화, 반도체 공급망 관련 흐름을 함께 살필 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "After Kospi Tops 7,000, Nuclear, Brokerage and Chip Supplier Stocks Draw Focus",
+        "excerpt": "With Samsung Electronics and SK Hynix leading the Kospi above 7,000 this year, brokerages pointed to nuclear power, securities firms and chip suppliers as sectors to watch.",
+        "body": "As South Korea’s stock market, led this year by Samsung Electronics and SK Hynix, pushed the Kospi past the 7,000 mark, brokerages highlighted nuclear power, securities firms and semiconductor materials, parts and equipment stocks as areas that may still merit attention. The rationale cited includes the need to expand small modular reactors amid power shortages, potential benefits for brokerage shares from market gains and money movement, and expectations that strength in major semiconductor names could spread to supply-chain companies. With the Kospi reaching a new high, investors are watching power infrastructure, active financial markets and semiconductor supply-chain trends. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI 7000突破後に注目、原発・証券・半導体素材部品装備株",
+        "excerpt": "今年、サムスン電子とSKハイニックスが主導してKOSPIが7000を超える中、証券街は電力不足や資金移動、半導体の波及を理由に関連業種を注目した。",
+        "body": "今年、サムスン電子とSKハイニックスを中心に韓国株式市場のKOSPIが7000台を突破する中、証券街は今からでも関心を向ける業種として原発、証券、半導体の素材・部品・装備関連株を挙げた。背景には、電力不足に伴う小型モジュール炉（SMR）拡大の必要性、株式市場の上昇と資金移動に乗る証券株の恩恵、半導体大型株の強さが関連企業へ広がるとの期待がある。高値圏でも業種ごとの差があるため、投資家は電力インフラ、金融市場の活性化、半導体供給網の流れを確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Kospi突破7000点后，核电、券商和半导体材料设备股受关注",
+        "excerpt": "今年三星电子和SK海力士带动Kospi升破7000点之际，券商基于电力短缺、资金流动和半导体景气扩散关注相关板块。",
+        "body": "今年，在三星电子和SK海力士带动下，韩国股市Kospi指数突破7000点。券商认为，即使在当前阶段，核电、券商股以及半导体材料、零部件和设备股仍是值得关注的行业。其背景包括电力短缺下扩大采用小型模块化反应堆（SMR）的必要性，股市上涨和资金流动可能给券商股带来的受益，以及大型半导体股走强可能向供应链企业扩散的预期。随着Kospi创出高位，投资者需要同时关注电力基础设施、金融市场交易活跃度和半导体供应链趋势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Tras el Kospi sobre 7.000, miran nuclear, valores bursátiles y proveedores de chips",
+        "excerpt": "Con Samsung Electronics y SK Hynix impulsando este año al Kospi por encima de 7.000, las firmas bursátiles señalan nuclear, corredurías y proveedores de semiconductores.",
+        "body": "La bolsa surcoreana, liderada este año por Samsung Electronics y SK Hynix, superó los 7.000 puntos en el Kospi, y las firmas bursátiles señalaron que aún hay sectores a observar: energía nuclear, sociedades de valores y empresas de materiales, piezas y equipos para semiconductores. El contexto incluye la necesidad de ampliar los reactores modulares pequeños (SMR) por la escasez de energía, el posible beneficio de las acciones de corredurías por el alza del mercado y el movimiento de dinero, y la expectativa de que la fortaleza de los grandes fabricantes de chips se extienda a la cadena de suministro. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Após Kospi passar de 7.000, foco vai para nuclear, corretoras e fornecedores de chips",
+        "excerpt": "Com Samsung Electronics e SK Hynix levando o Kospi acima de 7.000 neste ano, corretoras destacam energia nuclear, ações de corretoras e fornecedores de semicondutores.",
+        "body": "A bolsa sul-coreana, liderada neste ano por Samsung Electronics e SK Hynix, levou o Kospi a superar a marca de 7.000 pontos. Nesse cenário, casas de análise apontam energia nuclear, ações de corretoras e empresas de materiais, peças e equipamentos para semicondutores como setores que ainda merecem atenção. A avaliação se apoia na necessidade de ampliar pequenos reatores modulares (SMR) diante da escassez de energia, no possível ganho das corretoras com a alta do mercado e a movimentação de recursos, e na expectativa de que a força das grandes fabricantes de chips alcance a cadeia de suprimentos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Nach Kospi über 7.000 rücken Atomkraft, Broker und Chip-Zulieferer in den Fokus",
+        "excerpt": "Samsung Electronics und SK Hynix trieben den Kospi in diesem Jahr über 7.000; Analysten nennen Atomkraft, Wertpapierhäuser und Halbleiterzulieferer als Beobachtungsfelder.",
+        "body": "Der südkoreanische Aktienmarkt hat, angeführt von Samsung Electronics und SK Hynix, den Kospi in diesem Jahr über die Marke von 7.000 Punkten getragen. Wertpapierhäuser verweisen nun auf Atomkraft, Brokeraktien sowie Anbieter von Materialien, Teilen und Ausrüstung für Halbleiter als Branchen, die weiter Beachtung finden. Als Gründe gelten der Bedarf an mehr kleinen modularen Reaktoren (SMR) wegen Stromknappheit, mögliche Vorteile für Wertpapierfirmen durch steigende Märkte und Kapitalbewegungen sowie die Erwartung, dass die Stärke großer Chipwerte auf Zulieferer übergreift. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Après un Kospi au-dessus de 7 000, nucléaire, courtiers et fournisseurs de puces suivis",
+        "excerpt": "Samsung Electronics et SK Hynix ont porté le Kospi au-delà de 7 000 cette année; les analystes citent le nucléaire, les courtiers et les fournisseurs de semi-conducteurs.",
+        "body": "Le marché boursier sud-coréen, porté cette année par Samsung Electronics et SK Hynix, a vu le Kospi dépasser le seuil de 7 000 points. Dans ce contexte, les maisons de courtage mettent en avant le nucléaire, les valeurs de sociétés de titres et les entreprises de matériaux, pièces et équipements pour semi-conducteurs comme secteurs à suivre. Les raisons évoquées sont le besoin d’élargir les petits réacteurs modulaires (SMR) face au manque d’électricité, les gains possibles des courtiers avec la hausse du marché et les mouvements de capitaux, ainsi que l’espoir d’une diffusion de la vigueur des grands fabricants de puces vers la chaîne d’approvisionnement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بعد تجاوز كوسبي 7000 نقطة، التركيز على النووي وشركات الوساطة وموردي الرقائق",
+        "excerpt": "مع قيادة سامسونغ إلكترونيكس وSK هاينكس لمؤشر كوسبي فوق 7000 هذا العام، لفتت شركات الأوراق المالية إلى النووي والوساطة وموردي أشباه الموصلات.",
+        "body": "تجاوز سوق الأسهم الكوري الجنوبي، بقيادة سامسونغ إلكترونيكس وSK هاينكس هذا العام، مستوى 7000 نقطة في مؤشر كوسبي. وفي هذا السياق، أشارت شركات الأوراق المالية إلى قطاعات ما زالت تستحق المتابعة، وهي الطاقة النووية، وأسهم شركات الوساطة، وشركات مواد وأجزاء ومعدات أشباه الموصلات. ويستند ذلك إلى الحاجة لتوسيع المفاعلات المعيارية الصغيرة بسبب نقص الكهرباء، واحتمال استفادة أسهم الوساطة من صعود السوق وحركة الأموال، وتوقع انتقال قوة شركات الرقائق الكبرى إلى شركات سلسلة الإمداد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Kospi 7,000 के बाद परमाणु, ब्रोकरेज और चिप आपूर्तिकर्ता शेयरों पर नजर",
+        "excerpt": "इस साल Samsung Electronics और SK Hynix की अगुवाई में Kospi 7,000 के पार गया, जबकि ब्रोकरेज ने बिजली कमी, मनी मूव और सेमीकंडक्टर असर को आधार बताया।",
+        "body": "इस साल Samsung Electronics और SK Hynix की अगुवाई में दक्षिण कोरिया का शेयर बाजार Kospi 7,000 अंक से ऊपर निकल गया। इस माहौल में ब्रोकरेज जगत ने ऐसे क्षेत्रों के रूप में परमाणु ऊर्जा, सिक्योरिटीज कंपनियों और सेमीकंडक्टर सामग्री, पुर्जे व उपकरण कंपनियों का उल्लेख किया जिन पर अब भी ध्यान दिया जा सकता है। आधार यह है कि बिजली की कमी के बीच छोटे मॉड्यूलर रिएक्टरों (SMR) का विस्तार जरूरी माना जा रहा है, बाजार की तेजी और धन प्रवाह से ब्रोकरेज शेयरों को लाभ मिल सकता है, और बड़ी सेमीकंडक्टर कंपनियों की मजबूती आपूर्ति श्रृंखला तक फैल सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Setelah Kospi Tembus 7.000, Saham Nuklir, Sekuritas, dan Pemasok Chip Disorot",
+        "excerpt": "Dengan Samsung Electronics dan SK Hynix mendorong Kospi melewati 7.000 tahun ini, kalangan sekuritas menyoroti nuklir, saham sekuritas, dan pemasok semikonduktor.",
+        "body": "Pasar saham Korea Selatan, dipimpin tahun ini oleh Samsung Electronics dan SK Hynix, membawa indeks Kospi menembus level 7.000. Dalam kondisi itu, kalangan sekuritas menyebut energi nuklir, saham perusahaan sekuritas, serta emiten bahan, komponen, dan peralatan semikonduktor sebagai sektor yang masih layak dicermati. Alasannya mencakup kebutuhan memperluas reaktor modular kecil (SMR) akibat kekurangan listrik, potensi manfaat bagi saham sekuritas dari kenaikan pasar dan perpindahan dana, serta harapan bahwa penguatan saham semikonduktor besar menyebar ke rantai pasok. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "78c9930b9625",
+    "slug": "삼정kpmg영림원소프트랩-회계감사-환경-개선-mou-186892",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T12:58:08.091Z",
+    "updatedAt": "2026-05-07T12:58:08.091Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039937",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039937",
+    "titleFingerprint": "71c913940dfe33f1b3bc55baae9b848b51158ac3",
+    "dedupKeys": [
+      "78c9930b9625a3c6728dd402e34ba9f19b9e24af",
+      "71c913940dfe33f1b3bc55baae9b848b51158ac3",
+      "fd9e5392cee362f05a3f75be871db1d92d343aa5"
+    ],
+    "imageUrl": "/images/articles/78c9930b9625.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼정KPMG·영림원소프트랩, 회계감사 대응 개선 MOU 체결",
+        "excerpt": "삼정KPMG와 영림원소프트랩은 7일 기업의 회계감사 대응 환경을 개선하고 관련 시장 확대를 추진하기 위한 업무협약을 체결했다고 밝혔다.",
+        "body": "삼정KPMG와 영림원소프트랩은 7일 기업의 회계감사 대응 환경을 개선하고 시장 확대를 추진하기 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 기업이 회계감사에 대응하는 과정에서 효율성과 정확성을 함께 높이는 데 초점을 맞췄다. 양사는 협약을 통해 감사 대응 업무 환경을 개선하고 관련 서비스 활용 기반을 넓히는 방향으로 협력할 계획이다. 회계감사 대응 과정의 체계화가 필요한 기업에는 업무 부담을 줄이고 자료 대응의 정확도를 높이는 계기가 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samjong KPMG, Younglimwon Soft Lab Sign MOU to Improve Audit Response",
+        "excerpt": "Samjong KPMG and Younglimwon Soft Lab said on the 7th they signed an MOU to improve companies’ audit response environment and expand the related market.",
+        "body": "Samjong KPMG and Younglimwon Soft Lab said on the 7th that they signed a memorandum of understanding to improve companies’ accounting audit response environment and pursue market expansion. The agreement focuses on raising both efficiency and accuracy in the way companies respond to audits. Through the MOU, the two companies plan to cooperate on improving audit response workflows and broadening the foundation for related service use. For companies that need a more systematic audit response process, the partnership could help reduce work burdens and improve the accuracy of document handling. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "三亭KPMG・永林院ソフトラボ、会計監査対応改善でMOU締結",
+        "excerpt": "三亭KPMGと永林院ソフトラボは7日、企業の会計監査対応環境を改善し、関連市場の拡大を進めるための業務協約を締結したと発表した。",
+        "body": "三亭KPMGと永林院ソフトラボは7日、企業の会計監査対応環境を改善し、市場拡大を進めるための業務協約（MOU）を締結したと発表した。今回の協約は、企業が会計監査に対応する過程で効率性と正確性を同時に高めることに焦点を当てている。両社は協約を通じて、監査対応業務環境を改善し、関連サービスの活用基盤を広げる方向で協力する計画だ。会計監査対応プロセスの体系化が必要な企業にとって、業務負担の軽減と資料対応の正確性向上につながる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三井KPMG与永林院Soft Lab签署MOU，改善会计审计应对环境",
+        "excerpt": "三井KPMG和永林院Soft Lab 7日表示，双方已签署业务协议，以改善企业会计审计应对环境并推动相关市场扩大。",
+        "body": "三井KPMG和永林院Soft Lab 7日表示，双方已签署业务协议（MOU），以改善企业会计审计应对环境并推动市场扩大。此次协议的重点，是在企业应对会计审计的过程中同时提升效率和准确性。两家公司计划通过该协议合作改善审计应对业务环境，并扩大相关服务的使用基础。对于需要将会计审计应对流程系统化的企业而言，这可能有助于降低业务负担，并提高资料应对的准确度。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samjong KPMG y Younglimwon Soft Lab firman MOU para mejorar auditorías",
+        "excerpt": "Samjong KPMG y Younglimwon Soft Lab anunciaron el día 7 un MOU para mejorar el entorno de respuesta de las empresas a auditorías contables y ampliar el mercado.",
+        "body": "Samjong KPMG y Younglimwon Soft Lab anunciaron el día 7 que firmaron un memorando de entendimiento para mejorar el entorno de respuesta de las empresas ante auditorías contables y promover la expansión del mercado. El acuerdo se centra en elevar al mismo tiempo la eficiencia y la precisión durante el proceso de respuesta a auditorías. Las dos compañías planean cooperar para mejorar el entorno operativo de dicha respuesta y ampliar la base de uso de servicios relacionados. Para las empresas que necesitan sistematizar sus procesos de auditoría, la alianza puede ayudar a reducir cargas de trabajo y mejorar la precisión en la gestión de documentos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samjong KPMG e Younglimwon Soft Lab assinam MOU para melhorar auditorias",
+        "excerpt": "A Samjong KPMG e a Younglimwon Soft Lab informaram no dia 7 que assinaram um MOU para melhorar a resposta das empresas a auditorias contábeis e ampliar o mercado.",
+        "body": "A Samjong KPMG e a Younglimwon Soft Lab informaram no dia 7 que assinaram um memorando de entendimento para melhorar o ambiente de resposta das empresas a auditorias contábeis e promover a expansão do mercado. O acordo tem foco em elevar, ao mesmo tempo, a eficiência e a precisão no processo de resposta a auditorias. As duas empresas planejam cooperar para melhorar o ambiente operacional dessa resposta e ampliar a base de uso de serviços relacionados. Para companhias que precisam estruturar melhor esse processo, a parceria pode reduzir cargas de trabalho e aumentar a precisão no tratamento de documentos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samjong KPMG und Younglimwon Soft Lab schließen MOU für bessere Audits",
+        "excerpt": "Samjong KPMG und Younglimwon Soft Lab teilten am 7. mit, dass sie ein MOU zur Verbesserung der Prüfungsreaktion von Unternehmen und zur Marktausweitung unterzeichnet haben.",
+        "body": "Samjong KPMG und Younglimwon Soft Lab teilten am 7. mit, dass sie eine Absichtserklärung unterzeichnet haben, um das Umfeld für die Reaktion von Unternehmen auf Rechnungsprüfungen zu verbessern und eine Marktausweitung voranzutreiben. Die Vereinbarung konzentriert sich darauf, Effizienz und Genauigkeit im Prüfungsprozess zugleich zu erhöhen. Beide Unternehmen wollen zusammenarbeiten, um Arbeitsabläufe bei der Prüfungsreaktion zu verbessern und die Nutzungsbasis verwandter Dienste zu erweitern. Für Unternehmen, die ihre Audit-Prozesse systematisieren müssen, kann dies die Arbeitsbelastung senken und die Genauigkeit bei der Dokumentenbearbeitung verbessern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samjong KPMG et Younglimwon Soft Lab signent un MOU sur les audits",
+        "excerpt": "Samjong KPMG et Younglimwon Soft Lab ont annoncé le 7 avoir signé un MOU pour améliorer la réponse des entreprises aux audits comptables et élargir le marché.",
+        "body": "Samjong KPMG et Younglimwon Soft Lab ont annoncé le 7 avoir signé un protocole d’accord afin d’améliorer l’environnement de réponse des entreprises aux audits comptables et de favoriser l’expansion du marché. L’accord vise à renforcer à la fois l’efficacité et l’exactitude dans le processus de réponse aux audits. Les deux sociétés prévoient de coopérer pour améliorer l’environnement de travail lié à cette réponse et élargir la base d’utilisation des services concernés. Pour les entreprises qui doivent structurer leur réponse aux audits comptables, ce partenariat peut contribuer à réduire la charge de travail et à améliorer la précision du traitement des documents. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامجونغ KPMG ويونغليم وون سوفت لاب توقعان مذكرة لتحسين التدقيق",
+        "excerpt": "أعلنت سامجونغ KPMG ويونغليم وون سوفت لاب في اليوم السابع توقيع مذكرة تفاهم لتحسين بيئة استجابة الشركات للتدقيق المحاسبي وتوسيع السوق ذات الصلة.",
+        "body": "أعلنت سامجونغ KPMG ويونغليم وون سوفت لاب في اليوم السابع توقيع مذكرة تفاهم لتحسين بيئة استجابة الشركات للتدقيق المحاسبي ودفع توسع السوق. وتركز الاتفاقية على رفع الكفاءة والدقة معا في عملية تعامل الشركات مع متطلبات التدقيق. وتخطط الشركتان للتعاون من أجل تحسين بيئة أعمال الاستجابة للتدقيق وتوسيع قاعدة استخدام الخدمات ذات الصلة. وبالنسبة إلى الشركات التي تحتاج إلى تنظيم عملية الاستجابة للتدقيق المحاسبي، يمكن أن تسهم هذه الشراكة في تقليل عبء العمل وتحسين دقة التعامل مع الوثائق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samjong KPMG और Younglimwon Soft Lab ने ऑडिट सुधार के लिए MOU किया",
+        "excerpt": "Samjong KPMG और Younglimwon Soft Lab ने 7 तारीख को कहा कि उन्होंने कंपनियों के लेखा ऑडिट प्रतिक्रिया माहौल को सुधारने और संबंधित बाजार बढ़ाने के लिए MOU किया है।",
+        "body": "Samjong KPMG और Younglimwon Soft Lab ने 7 तारीख को बताया कि उन्होंने कंपनियों के लेखा ऑडिट प्रतिक्रिया माहौल को सुधारने और बाजार विस्तार को आगे बढ़ाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए हैं। यह समझौता ऑडिट के जवाब की प्रक्रिया में कंपनियों की दक्षता और सटीकता दोनों बढ़ाने पर केंद्रित है। दोनों कंपनियां ऑडिट प्रतिक्रिया से जुड़े कार्य माहौल को बेहतर बनाने और संबंधित सेवाओं के उपयोग का आधार बढ़ाने के लिए सहयोग करेंगी। जिन कंपनियों को लेखा ऑडिट प्रतिक्रिया प्रक्रिया को अधिक व्यवस्थित करने की जरूरत है, उनके लिए यह कार्यभार घटाने और दस्तावेजी प्रतिक्रिया की सटीकता बढ़ाने में मदद कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samjong KPMG dan Younglimwon Soft Lab Teken MOU Perbaikan Audit",
+        "excerpt": "Samjong KPMG dan Younglimwon Soft Lab pada tanggal 7 menyatakan telah menandatangani MOU untuk memperbaiki lingkungan respons audit akuntansi perusahaan dan memperluas pasar.",
+        "body": "Samjong KPMG dan Younglimwon Soft Lab pada tanggal 7 menyatakan telah menandatangani nota kesepahaman untuk memperbaiki lingkungan respons perusahaan terhadap audit akuntansi dan mendorong perluasan pasar. Kesepakatan ini berfokus pada peningkatan efisiensi dan akurasi secara bersamaan dalam proses perusahaan merespons audit. Melalui MOU tersebut, kedua perusahaan berencana bekerja sama memperbaiki lingkungan kerja respons audit dan memperluas dasar pemanfaatan layanan terkait. Bagi perusahaan yang perlu menata proses respons audit akuntansi secara lebih sistematis, kerja sama ini dapat membantu mengurangi beban kerja dan meningkatkan akurasi penanganan dokumen. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c20bb24edb39",
+    "slug": "pwc컨설팅-k배터리-전고체로-피지컬-ai-분야-주도권-확보를-732699",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T12:57:08.594Z",
+    "updatedAt": "2026-05-07T12:57:08.594Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039953",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039953",
+    "titleFingerprint": "17335755339834e2963248d98b1502b3cba91f8a",
+    "dedupKeys": [
+      "c20bb24edb395cbb616c2b719b71180ee0b49445",
+      "17335755339834e2963248d98b1502b3cba91f8a",
+      "358437b30e85dbef72015a8c470d89cf770a3fc3"
+    ],
+    "imageUrl": "/images/articles/c20bb24edb39.png",
+    "i18n": {
+      "ko": {
+        "title": "전고체 배터리로 피지컬 AI 주도권 잡나, PwC컨설팅 K배터리에 제언",
+        "excerpt": "PwC컨설팅은 로봇·드론 등 피지컬 AI 상용화 과정에서 배터리 작동 시간이 핵심 제약으로 떠오르며 K배터리가 전고체와 국제 표준 경쟁에 주목해야 한다고 밝혔다.",
+        "body": "PwC컨설팅은 로봇·드론 등 ‘피지컬 AI’가 본격 상용화 단계로 나아가는 과정에서 배터리가 가장 큰 제약으로 떠오르고 있다고 진단했다. 특히 전고체 배터리는 작동 시간이 성패를 좌우할 핵심 기술로 거론됐다. 기술이 아직 초기 단계인 만큼 향후 시장 주도권은 제품 성능뿐 아니라 국제 표준 경쟁에서 누가 앞서가느냐에 따라 달라질 수 있다는 점도 부각됐다. K배터리 업계에는 전고체 배터리 개발과 표준화 대응을 통해 피지컬 AI 분야의 주도권을 확보해야 한다는 제언이 나왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Solid-State Batteries Put K-Battery in Race to Lead Physical AI, PwC Says",
+        "excerpt": "PwC Consulting said battery operating time is becoming a key constraint as robots and drones move toward commercialization, urging K-battery firms to focus on solid-state technology and standards.",
+        "body": "PwC Consulting said batteries are emerging as the biggest constraint as “physical AI,” including robots and drones, moves toward full commercialization. Solid-state batteries were identified as a core technology because operating time could determine success or failure. Since the technology remains at an early stage, future leadership may depend not only on product performance but also on who moves ahead in the race to set international standards. The report advised K-battery companies to secure leadership in physical AI by advancing solid-state battery development and responding to standardization efforts. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "全固体電池でフィジカルAI主導権へ、PwCがKバッテリーに提言",
+        "excerpt": "PwCコンサルティングは、ロボットやドローンなどフィジカルAIの商用化で稼働時間が制約となり、Kバッテリーは全固体電池と国際標準競争に注目すべきだと述べた。",
+        "body": "PwCコンサルティングは、ロボットやドローンなどの「フィジカルAI」が本格的な商用化段階へ進む過程で、バッテリーが最大の制約として浮上していると診断した。特に全固体電池は、稼働時間が成否を左右する中核技術として挙げられた。技術はまだ初期段階にあるため、今後の市場主導権は製品性能だけでなく、国際標準競争で誰が先行するかによって変わり得る点も強調された。Kバッテリー業界には、全固体電池の開発と標準化対応を通じてフィジカルAI分野の主導権を確保すべきだとの提言が示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "固态电池成Physical AI关键，PwC建议K电池抢占主导权",
+        "excerpt": "PwC咨询表示，机器人、无人机等Physical AI走向商业化时，电池续航正成为核心制约，K电池应关注固态电池和国际标准竞争。",
+        "body": "PwC咨询认为，机器人、无人机等“Physical AI”迈向全面商业化的过程中，电池正成为最大的制约因素。尤其是固态电池，被视为决定运行时间并影响成败的核心技术。由于该技术仍处于早期阶段，未来市场主导权不仅取决于产品性能，也可能取决于谁能在国际标准竞争中领先。报道指出，K电池行业需要通过推进固态电池开发并应对标准化竞争，在Physical AI领域 확보主导权。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baterías de estado sólido, la vía de K-Battery para liderar la IA física, según PwC",
+        "excerpt": "PwC Consulting señaló que la autonomía de las baterías es una limitación clave para robots y drones en la comercialización de la IA física, y pidió a K-Battery enfocarse en estado sólido y estándares.",
+        "body": "PwC Consulting afirmó que las baterías se están convirtiendo en la mayor limitación a medida que la “IA física”, incluidos robots y drones, avanza hacia una comercialización plena. En particular, las baterías de estado sólido fueron señaladas como una tecnología central porque el tiempo de operación puede decidir el éxito o el fracaso. Como la tecnología aún está en una fase inicial, el liderazgo futuro del mercado puede depender no solo del rendimiento del producto, sino también de quién tome ventaja en la competencia por estándares internacionales. La recomendación para la industria K-Battery fue asegurar liderazgo en IA física mediante el desarrollo de baterías de estado sólido y la respuesta a la estandarización. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Baterias de estado sólido podem dar liderança à K-Battery em IA física, diz PwC",
+        "excerpt": "A PwC Consulting afirmou que a autonomia das baterias se torna uma restrição central na comercialização de robôs e drones, recomendando foco em estado sólido e padrões internacionais.",
+        "body": "A PwC Consulting avaliou que as baterias estão surgindo como a maior restrição à medida que a “IA física”, incluindo robôs e drones, avança para uma fase de comercialização plena. As baterias de estado sólido foram apontadas como uma tecnologia essencial, pois o tempo de operação pode determinar sucesso ou fracasso. Como a tecnologia ainda está em estágio inicial, a liderança futura pode depender não apenas do desempenho dos produtos, mas também de quem avançar na competição por padrões internacionais. A recomendação ao setor K-Battery foi buscar liderança em IA física por meio do desenvolvimento de baterias de estado sólido e da resposta à padronização. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Festkörperbatterien als Schlüssel für K-Battery-Führung bei Physical AI, sagt PwC",
+        "excerpt": "PwC Consulting sieht die Batterielaufzeit als zentrale Hürde für die Kommerzialisierung von Robotern und Drohnen und rät K-Battery zu Festkörpertechnik und internationaler Standardisierung.",
+        "body": "PwC Consulting erklärte, dass Batterien zur größten Einschränkung werden, während sich „Physical AI“ wie Roboter und Drohnen der breiten Kommerzialisierung nähert. Besonders Festkörperbatterien wurden als Schlüsseltechnologie genannt, weil die Betriebsdauer über Erfolg oder Misserfolg entscheiden kann. Da sich die Technologie noch in einem frühen Stadium befindet, dürfte künftige Marktführerschaft nicht nur von der Produktleistung abhängen, sondern auch davon, wer im Wettbewerb um internationale Standards vorne liegt. Der K-Battery-Branche wurde empfohlen, durch Festkörperentwicklung und Standardisierungsarbeit Führungsanspruch im Bereich Physical AI zu sichern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Batteries solides: PwC voit une chance pour K-Battery de mener l’IA physique",
+        "excerpt": "PwC Consulting estime que l’autonomie des batteries devient une contrainte majeure pour la commercialisation des robots et drones, et appelle K-Battery à miser sur le solide et les standards.",
+        "body": "PwC Consulting a estimé que les batteries deviennent la principale contrainte alors que l’« IA physique », notamment les robots et les drones, avance vers une commercialisation à grande échelle. Les batteries solides ont été désignées comme une technologie clé, car la durée de fonctionnement peut déterminer le succès ou l’échec. La technologie étant encore à un stade précoce, le leadership futur pourrait dépendre non seulement des performances des produits, mais aussi de l’avance prise dans la concurrence autour des standards internationaux. Le secteur K-Battery est donc invité à renforcer le développement des batteries solides et sa réponse à la standardisation afin de prendre la tête de l’IA physique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "البطاريات الصلبة مفتاح K-Battery لقيادة الذكاء الاصطناعي الفيزيائي وفق PwC",
+        "excerpt": "قالت PwC Consulting إن زمن تشغيل البطاريات أصبح قيدا رئيسيا مع توجه الروبوتات والطائرات المسيرة نحو التسويق، داعية K-Battery للتركيز على البطاريات الصلبة والمعايير الدولية.",
+        "body": "قالت PwC Consulting إن البطاريات تبرز كأكبر قيد مع انتقال «الذكاء الاصطناعي الفيزيائي»، بما في ذلك الروبوتات والطائرات المسيرة، إلى مرحلة التسويق الفعلي. وجرى طرح البطاريات الصلبة كتقنية محورية لأن مدة التشغيل قد تحدد النجاح أو الفشل. وبما أن التقنية لا تزال في مرحلة مبكرة، فإن قيادة السوق مستقبلا قد لا تعتمد فقط على أداء المنتج، بل أيضا على الجهة التي تتقدم في سباق المعايير الدولية. وجاءت التوصية لقطاع K-Battery بأن يؤمن موقعا قياديا في الذكاء الاصطناعي الفيزيائي عبر تطوير البطاريات الصلبة والاستجابة لمسار التقييس. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सॉलिड-स्टेट बैटरी से Physical AI में K-Battery की बढ़त, PwC की सलाह",
+        "excerpt": "PwC Consulting ने कहा कि रोबोट और ड्रोन जैसी Physical AI सेवाओं के व्यावसायीकरण में बैटरी संचालन समय मुख्य बाधा बन रहा है, इसलिए K-Battery को सॉलिड-स्टेट और वैश्विक मानकों पर ध्यान देना चाहिए।",
+        "body": "PwC Consulting ने आकलन किया कि रोबोट और ड्रोन जैसी “Physical AI” तकनीकें जब पूर्ण व्यावसायीकरण की ओर बढ़ रही हैं, तब बैटरी सबसे बड़ी बाधा के रूप में सामने आ रही है। खासकर सॉलिड-स्टेट बैटरी को ऐसी प्रमुख तकनीक बताया गया, जिसमें संचालन समय सफलता या विफलता तय कर सकता है। क्योंकि यह तकनीक अभी शुरुआती चरण में है, भविष्य की बाजार बढ़त केवल उत्पाद प्रदर्शन पर नहीं, बल्कि अंतरराष्ट्रीय मानक तय करने की प्रतिस्पर्धा में आगे रहने पर भी निर्भर हो सकती है। K-Battery उद्योग को सॉलिड-स्टेट बैटरी विकास और मानकीकरण 대응 के जरिए Physical AI क्षेत्र में नेतृत्व हासिल करने की सलाह दी गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Baterai Solid-State Jadi Kunci K-Battery Pimpin Physical AI, Kata PwC",
+        "excerpt": "PwC Consulting menyebut durasi operasi baterai menjadi kendala utama saat robot dan drone menuju komersialisasi Physical AI, sehingga K-Battery perlu fokus pada solid-state dan standar internasional.",
+        "body": "PwC Consulting menilai baterai menjadi kendala terbesar ketika “Physical AI”, termasuk robot dan drone, bergerak menuju tahap komersialisasi penuh. Baterai solid-state disebut sebagai teknologi inti karena durasi operasi dapat menentukan keberhasilan atau kegagalan. Karena teknologinya masih berada pada tahap awal, kepemimpinan pasar ke depan dapat bergantung bukan hanya pada kinerja produk, tetapi juga pada siapa yang lebih unggul dalam persaingan standar internasional. Industri K-Battery disarankan mengamankan posisi utama di bidang Physical AI melalui pengembangan baterai solid-state dan respons terhadap standardisasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "72c0feb27bdb",
     "slug": "10년-수익률-보니-대만-자취엔-415-vs-한국-코스피-279-254946",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Samsung Electronics Sentuh 250.000 Won, SK Hynix Tembus 1,6 Juta Won",
         "excerpt": "Samsung Electronics dan SK Hynix melonjak lebih dari 8% pada awal perdagangan 6 Mei, masing-masing menyentuh 250.000 won dan 1,6 juta won, didorong sentimen Wall Street dan harapan sektor chip.",
         "body": "Pada awal perdagangan 6 Mei, dua saham utama semikonduktor Korea Selatan, Samsung Electronics dan SK Hynix, sama-sama melonjak lebih dari 8% dan mencetak rekor tertinggi baru. Samsung Electronics menyentuh 250.000 won, sementara SK Hynix mencapai 1,6 juta won, menarik perhatian pasar. Kenaikan ini dipandang terjadi karena sentimen positif dari pasar saham Amerika Serikat berpadu dengan harapan membaiknya industri semikonduktor global. Penguatan dua saham chip berkapitalisasi besar itu ikut mengangkat pasar saham domestik secara lebih luas. Jika harapan pemulihan sektor semikonduktor berlanjut, pergerakan saham-saham besar terkait dan arah pasar Korea akan tetap menjadi fokus. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "846cb9fed869",
-    "slug": "떨어질-때마다-물-타던-비트코인-대부18조-손실에-잘못-생각했다-843257",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T21:19:15.990Z",
-    "updatedAt": "2026-05-06T21:19:15.991Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037073",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037073",
-    "titleFingerprint": "b71d911e58f0c9bdc94d5d450dc03008340c8d50",
-    "dedupKeys": [
-      "846cb9fed86909c0965d477b3c1fc424a0abbf2b",
-      "b71d911e58f0c9bdc94d5d450dc03008340c8d50",
-      "614d668d0e1860f7f537533f7b55e0af31652315"
-    ],
-    "imageUrl": "/images/articles/846cb9fed869.png",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 대부 세일러, 18조 손실에 전략 수정 시사",
-        "excerpt": "비트코인 하락으로 실적 전망에 먹구름이 낀 가운데 세일러가 기존 맹신에서 벗어나 유연해지겠다고 밝히며 보유 전략 변화 가능성을 내비쳤다.",
-        "body": "비트코인 하락세가 이어지면서 ‘비트코인 대부’로 불리는 세일러의 투자 전략과 실적 전망에 부담이 커졌다. 원문에 따르면 세일러는 18조원 규모 손실을 두고 “잘못 생각했다”는 취지로 언급하며, 맹신에서 벗어나 더 유연해지겠다고 밝혔다. 그는 평균 매입가 7만5500달러 수준의 비트코인 81만개를 보유한 것으로 전해졌다. 고배당 상품 STRC는 연 11.5% 배당을 내세우며 배당 주기를 월 2회로 조정했다. 관련 주가는 시간외 거래에서 4%대 움직임을 보였다. 비트코인 가격 변동이 보유 자산 가치와 투자 심리에 직접 영향을 주는 만큼 향후 전략 조정 여부가 시장의 관심사로 남아 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Bitcoin backer Saylor signals shift after 18 trillion won loss",
-        "excerpt": "As Bitcoin’s decline clouds earnings prospects, Saylor said he would move away from blind conviction and become more flexible, hinting at a possible strategy shift.",
-        "body": "As Bitcoin continued to fall, pressure grew on the investment strategy and earnings outlook of Saylor, often described as a major Bitcoin backer. According to the original report, Saylor addressed a loss of about 18 trillion won and said in effect that he had “thought wrongly,” adding that he would move away from blind belief and become more flexible. He is reported to hold 810,000 bitcoins at an average purchase price of $75,500. The high-dividend STRC product, offering an annual 11.5% payout, adjusted its dividend schedule to twice a month. Related shares moved by around 4% in after-hours trading. Because Bitcoin price swings directly affect asset value and investor sentiment, whether the strategy changes remains a market focus. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ビットコインの後ろ盾セイラー氏、18兆ウォン損失で戦略修正示唆",
-        "excerpt": "ビットコイン下落で業績見通しに不透明感が広がる中、セイラー氏は盲信から離れ柔軟になると述べ、保有戦略の変化を示唆した。",
-        "body": "ビットコインの下落が続くなか、「ビットコインの大物」とされるセイラー氏の投資戦略と業績見通しへの負担が強まっている。原文によると、セイラー氏は18兆ウォン規模の損失について「考えが間違っていた」との趣旨で言及し、盲信から抜け出してより柔軟になると述べた。同氏は平均取得価格7万5500ドル水準のビットコインを81万枚保有していると伝えられた。高配当商品STRCは年11.5%の配当を掲げ、配当頻度を月2回に調整した。関連株価は時間外取引で4%台の動きを見せた。ビットコイン価格の変動が保有資産価値と投資心理に直接影響するため、今後の戦略修正の有無が市場の関心事となっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "比特币支持者塞勒18万亿韩元亏损后暗示调整策略",
-        "excerpt": "随着比特币下跌令业绩前景承压，塞勒表示将摆脱盲目信念、变得更灵活，暗示其持有策略可能出现变化。",
-        "body": "随着比特币持续下跌，被称为“比特币大佬”的塞勒其投资策略和业绩前景承受更大压力。原文称，塞勒在谈到约18万亿韩元规模的亏损时表示，自己此前“想错了”，并称将摆脱盲信、变得更加灵活。据报道，他持有81万枚比特币，平均买入价约为7.55万美元。高股息产品STRC主打年化11.5%的股息，并将派息频率调整为每月两次。相关股票在盘后交易中出现约4%的波动。由于比特币价格变化会直接影响持有资产价值和投资情绪，后续策略是否调整仍是市场关注焦点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Saylor, referente de Bitcoin, sugiere giro tras pérdida de 18 billones de wones",
-        "excerpt": "La caída de Bitcoin ensombrece las perspectivas de resultados y Saylor afirmó que dejará atrás la fe ciega para actuar con más flexibilidad.",
-        "body": "La caída sostenida de Bitcoin elevó la presión sobre la estrategia de inversión y las perspectivas de resultados de Saylor, descrito como un referente de Bitcoin. Según el texto original, Saylor se refirió a una pérdida de unos 18 billones de wones y dijo, en esencia, que había “pensado mal”, añadiendo que dejaría la fe ciega y sería más flexible. Se informó que posee 810.000 bitcoins a un precio medio de compra de 75.500 dólares. El producto de alto dividendo STRC, con una rentabilidad anual del 11,5%, ajustó su calendario de pagos a dos veces al mes. Las acciones relacionadas se movieron alrededor de un 4% en operaciones fuera de horario. Dado que las variaciones de Bitcoin afectan directamente el valor de los activos y el ánimo inversor, el posible ajuste de estrategia sigue bajo atención del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Saylor, nome forte do Bitcoin, sinaliza mudança após perda de 18 trilhões de wons",
-        "excerpt": "Com a queda do Bitcoin pesando sobre as perspectivas de resultados, Saylor disse que deixará a crença rígida e adotará uma postura mais flexível.",
-        "body": "A queda contínua do Bitcoin aumentou a pressão sobre a estratégia de investimento e as perspectivas de resultados de Saylor, apontado como um grande nome do Bitcoin. Segundo o texto original, Saylor comentou uma perda de cerca de 18 trilhões de wons e disse, em essência, que havia “pensado de forma errada”, acrescentando que deixaria a crença cega e seria mais flexível. Ele teria 810.000 bitcoins, com preço médio de compra de US$ 75.500. O produto de alto dividendo STRC, com pagamento anual de 11,5%, ajustou a distribuição para duas vezes por mês. As ações relacionadas oscilaram cerca de 4% no after-market. Como a variação do preço do Bitcoin afeta diretamente o valor dos ativos e o sentimento dos investidores, uma possível revisão da estratégia segue no foco do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Bitcoin-Befürworter Saylor deutet nach 18 Billionen Won Verlust Kurswechsel an",
-        "excerpt": "Der Bitcoin-Rückgang belastet die Ergebnisperspektiven, während Saylor ankündigt, sich von blindem Vertrauen zu lösen und flexibler zu handeln.",
-        "body": "Der anhaltende Rückgang von Bitcoin erhöht den Druck auf die Anlagestrategie und die Ergebnisaussichten von Saylor, der als wichtiger Bitcoin-Befürworter gilt. Laut dem Ausgangsbericht äußerte sich Saylor zu einem Verlust von rund 18 Billionen Won und sagte sinngemäß, er habe „falsch gedacht“. Zugleich kündigte er an, sich von blindem Glauben zu lösen und flexibler zu werden. Berichtet wird, dass er 810.000 Bitcoin zu einem durchschnittlichen Kaufpreis von 75.500 Dollar hält. Das hochverzinsliche Produkt STRC, das eine jährliche Ausschüttung von 11,5% bietet, stellte den Dividendenrhythmus auf zweimal monatlich um. Die entsprechenden Aktien bewegten sich im nachbörslichen Handel um rund 4%. Da Bitcoin-Schwankungen den Wert der Bestände und die Anlegerstimmung direkt beeinflussen, bleibt eine mögliche Strategieanpassung im Blick des Marktes. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Saylor, figure du Bitcoin, évoque un virage après 18 billions de wons de pertes",
-        "excerpt": "La baisse du Bitcoin assombrit les perspectives de résultats, tandis que Saylor dit vouloir quitter la croyance aveugle et agir avec plus de flexibilité.",
-        "body": "La poursuite de la baisse du Bitcoin accroît la pression sur la stratégie d’investissement et les perspectives de résultats de Saylor, présenté comme une figure majeure du Bitcoin. Selon le texte original, Saylor a évoqué une perte d’environ 18 billions de wons et a indiqué, en substance, qu’il avait “mal pensé”, ajoutant qu’il voulait sortir d’une croyance aveugle et devenir plus flexible. Il détiendrait 810.000 bitcoins à un prix moyen d’achat de 75.500 dollars. Le produit à haut dividende STRC, qui met en avant un rendement annuel de 11,5%, a ajusté son rythme de versement à deux fois par mois. Les actions liées ont évolué d’environ 4% dans les échanges après clôture. Comme les variations du Bitcoin influencent directement la valeur des actifs détenus et le sentiment des investisseurs, une éventuelle adaptation de stratégie reste surveillée par le marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سايلور داعم بيتكوين يلمح لتعديل الاستراتيجية بعد خسارة 18 تريليون وون",
-        "excerpt": "مع تراجع بيتكوين وتزايد الضبابية حول توقعات الأرباح، قال سايلور إنه سيتخلى عن الإيمان المطلق ويتحرك بمرونة أكبر.",
-        "body": "مع استمرار تراجع بيتكوين، زاد الضغط على استراتيجية الاستثمار وتوقعات الأداء لدى سايلور، الذي يوصف بأنه من أبرز داعمي بيتكوين. وبحسب النص الأصلي، تحدث سايلور عن خسارة تقارب 18 تريليون وون وقال بما معناه إنه “كان يفكر بشكل خاطئ”، مضيفا أنه سيتجاوز الإيمان الأعمى ويصبح أكثر مرونة. وورد أنه يمتلك 810 آلاف بيتكوين بمتوسط سعر شراء يبلغ 75,500 دولار. أما منتج STRC عالي التوزيعات، الذي يطرح عائدا سنويا قدره 11.5%، فقد عدل وتيرة التوزيع إلى مرتين شهريا. وتحركت الأسهم المرتبطة به بنحو 4% في تداولات ما بعد الإغلاق. وبما أن تقلب سعر بيتكوين يؤثر مباشرة في قيمة الأصول ومعنويات المستثمرين، فإن احتمال تعديل الاستراتيجية يبقى محل اهتمام السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "बिटकॉइन समर्थक सेलर ने 18 ट्रिलियन वॉन नुकसान के बाद रणनीति बदलाव के संकेत दिए",
-        "excerpt": "बिटकॉइन में गिरावट से आय 전망 पर दबाव बढ़ा है और सेलर ने कहा कि वे अंधविश्वास से हटकर अधिक लचीला रुख अपनाएंगे।",
-        "body": "बिटकॉइन में लगातार गिरावट से सेलर की निवेश रणनीति और आय 전망 पर दबाव बढ़ गया है, जिन्हें बिटकॉइन के प्रमुख समर्थक के रूप में देखा जाता है। मूल रिपोर्ट के अनुसार, सेलर ने लगभग 18 ट्रिलियन वॉन के नुकसान पर कहा कि उन्होंने “गलत सोचा था” और जोड़ा कि वे अंधविश्वास से बाहर निकलकर अधिक लचीले होंगे। बताया गया कि उनके पास 75,500 डॉलर के औसत खरीद मूल्य पर 810,000 बिटकॉइन हैं। उच्च लाभांश उत्पाद STRC, जो सालाना 11.5% भुगतान पेश करता है, ने लाभांश चक्र को महीने में दो बार कर दिया। संबंधित शेयरों में आफ्टर-आवर्स ट्रेडिंग में लगभग 4% की हलचल रही। क्योंकि बिटकॉइन की कीमत में बदलाव सीधे होल्डिंग के मूल्य और निवेशक धारणा को प्रभावित करता है, इसलिए आगे की रणनीति में बदलाव बाजार के लिए अहम मुद्दा बना हुआ है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Pendukung Bitcoin Saylor isyaratkan ubah strategi usai rugi 18 triliun won",
-        "excerpt": "Penurunan Bitcoin membayangi prospek kinerja, sementara Saylor mengatakan akan keluar dari keyakinan buta dan menjadi lebih fleksibel.",
-        "body": "Penurunan Bitcoin yang berlanjut menambah tekanan pada strategi investasi dan prospek kinerja Saylor, yang dikenal sebagai salah satu pendukung utama Bitcoin. Menurut teks asli, Saylor menyinggung kerugian sekitar 18 triliun won dan mengatakan pada intinya bahwa ia “berpikir keliru”, sambil menyatakan akan keluar dari keyakinan buta dan menjadi lebih fleksibel. Ia dilaporkan memegang 810.000 bitcoin dengan harga beli rata-rata 75.500 dolar AS. Produk dividen tinggi STRC, yang menawarkan imbal hasil tahunan 11,5%, menyesuaikan jadwal dividen menjadi dua kali sebulan. Saham terkait bergerak sekitar 4% dalam perdagangan setelah jam bursa. Karena perubahan harga Bitcoin langsung memengaruhi nilai aset dan sentimen investor, kemungkinan penyesuaian strategi tetap menjadi perhatian pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0041f4bf291c",
-    "slug": "하이닉스-40-담았다더니경고-먹어도-지르고-보는-etf-과장-광고-787854",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T21:18:10.164Z",
-    "updatedAt": "2026-05-06T21:18:10.164Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038530",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038530",
-    "titleFingerprint": "f5f41daae2750a99b073485f021103a52ea936e8",
-    "dedupKeys": [
-      "0041f4bf291c8ce6aecf9f9fdfef0e99b1f3854e",
-      "f5f41daae2750a99b073485f021103a52ea936e8",
-      "c1d5085f26d342dca881f6fbc1c8f33514c87a92"
-    ],
-    "imageUrl": "/images/articles/0041f4bf291c.png",
-    "i18n": {
-      "ko": {
-        "title": "ETF 과장 광고 논란, 하이닉스 비중·스페이스X 편입 홍보 도마",
-        "excerpt": "신한 ‘AI반도체톱2플러스’와 하나 ‘우주 항공 ETF’ 광고가 하이닉스 비중과 스페이스X 편입을 앞세운 홍보로 논란이 되며 당국 점검 대상에 올랐다.",
-        "body": "국내 ETF 시장에서 일부 운용사의 상품 광고가 실제 투자 비중이나 편입 내용을 과도하게 부각했다는 논란이 제기됐다. 신한자산운용의 ‘AI반도체톱2플러스’는 SK하이닉스 비중을 크게 담은 것처럼 홍보한 점이 문제로 거론됐고, 하나자산운용의 ‘우주 항공 ETF’는 스페이스X를 편입했다는 점을 앞세워 투자자 관심을 끌었다. 원문은 직장인 투자자 사례를 통해 ETF 광고 문구가 상품 구조를 충분히 이해하지 못한 투자자에게 영향을 줄 수 있다고 전했다. 금융당국은 이런 ETF 광고를 ‘집중 점검 대상’으로 지목했다. 향후 ETF 판매와 홍보 과정에서 편입 비중, 기초지수, 실제 투자 대상에 대한 설명 책임이 더 엄격해질 가능성이 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "ETF Ad Controversy Puts Hynix Weighting and SpaceX Promotion Under Scrutiny",
-        "excerpt": "Ads for Shinhan’s AI Semiconductor Top 2 Plus and Hana’s space aviation ETF drew scrutiny over promotions highlighting Hynix exposure and SpaceX inclusion.",
-        "body": "A controversy has emerged in South Korea’s ETF market over whether some asset managers’ product ads overstated actual holdings or investment exposure. Shinhan Asset Management’s ‘AI Semiconductor Top 2 Plus’ was cited for promotional wording that made its SK Hynix weighting appear especially large, while Hana Asset Management’s space aviation ETF drew attention by stressing that it included SpaceX. The original report used the case of an office worker investor to show how ETF advertising language can influence investors who may not fully understand a product’s structure. Financial authorities identified such ETF ads as a target for intensive inspection. Going forward, explanations of holding ratios, underlying indexes and actual investment targets in ETF sales and promotion may face stricter scrutiny. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ETF誇大広告問題、ハイニックス比率とスペースX組み入れ宣伝に焦点",
-        "excerpt": "新韓の「AI半導体トップ2プラス」とハナの宇宙航空ETFが、ハイニックス比率やスペースX組み入れを強調した宣伝で当局の点検対象となった。",
-        "body": "韓国のETF市場で、一部運用会社の商品広告が実際の投資比率や組み入れ内容を過度に強調したとの議論が浮上した。新韓資産運用の「AI半導体トップ2プラス」は、SKハイニックスの比率を大きく組み入れたかのように宣伝した点が問題視され、ハナ資産運用の宇宙航空ETFはスペースXを組み入れた点を前面に出して投資家の関心を集めた。原文は会社員投資家の事例を通じ、ETF広告の文言が商品構造を十分に理解していない投資家に影響し得ると伝えた。金融当局はこうしたETF広告を「集中点検対象」に指定した。今後、ETFの販売・宣伝では組み入れ比率、基礎指数、実際の投資対象に関する説明責任がより厳しくなる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "ETF夸大广告争议升温，海力士权重与SpaceX纳入宣传受关注",
-        "excerpt": "新韩“AI半导体Top2 Plus”和韩亚宇宙航空ETF因突出宣传海力士权重及纳入SpaceX，被监管部门列为重点检查对象。",
-        "body": "韩国ETF市场出现争议，部分资管公司的产品广告被指过度突出实际投资权重或纳入内容。新韩资产运用的“AI半导体Top2 Plus”因宣传语让人感觉SK海力士占比较高而受到关注，韩亚资产运用的宇宙航空ETF则以纳入SpaceX为卖点吸引投资者。原文通过一名上班族投资者的案例指出，ETF广告措辞可能影响尚未充分理解产品结构的投资者。金融监管部门已将此类ETF广告列为“重点检查对象”。未来，在ETF销售和宣传过程中，关于持仓比例、基础指数以及实际投资对象的说明责任可能会更严格。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Publicidad exagerada de ETF: pesan Hynix y la promoción de SpaceX",
-        "excerpt": "Los anuncios del ETF AI Semiconductor Top 2 Plus de Shinhan y del ETF espacial de Hana quedaron bajo revisión por destacar Hynix y la inclusión de SpaceX.",
-        "body": "En el mercado surcoreano de ETF surgió una polémica por anuncios de algunas gestoras que habrían resaltado en exceso el peso real de inversión o los activos incluidos. El ‘AI Semiconductor Top 2 Plus’ de Shinhan Asset Management fue señalado por promocionar su exposición a SK Hynix como si tuviera un peso elevado, mientras que el ETF de aviación espacial de Hana Asset Management atrajo atención al destacar que incluía SpaceX. El reporte original presentó el caso de un trabajador inversor para mostrar que el lenguaje publicitario de los ETF puede influir en quienes no comprenden por completo la estructura del producto. Las autoridades financieras identificaron estos anuncios como objetivo de “inspección intensiva”. En adelante, la explicación de pesos, índices subyacentes y activos reales en la venta y promoción de ETF podría volverse más estricta. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Publicidade exagerada de ETFs mira peso da Hynix e promoção da SpaceX",
-        "excerpt": "Anúncios do AI Semiconductor Top 2 Plus da Shinhan e do ETF aeroespacial da Hana foram questionados por destacar Hynix e a inclusão da SpaceX.",
-        "body": "No mercado sul-coreano de ETFs, surgiu uma controvérsia sobre anúncios de algumas gestoras que teriam enfatizado demais a composição real ou a exposição dos produtos. O ‘AI Semiconductor Top 2 Plus’ da Shinhan Asset Management foi citado por uma promoção que fazia o peso da SK Hynix parecer elevado, enquanto o ETF de aviação espacial da Hana Asset Management chamou atenção ao destacar a inclusão da SpaceX. A reportagem original usou o caso de um investidor assalariado para mostrar como a linguagem publicitária de ETFs pode influenciar quem não entende totalmente a estrutura do produto. As autoridades financeiras classificaram esses anúncios como alvo de “inspeção intensiva”. Daqui em diante, explicações sobre pesos, índice de referência e ativos reais em vendas e promoções de ETFs podem ser cobradas com mais rigor. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "ETF-Werbung in der Kritik: Hynix-Gewichtung und SpaceX-Hinweis geprüft",
-        "excerpt": "Werbung für Shinhan AI Semiconductor Top 2 Plus und Hanas Raumfahrt-ETF steht wegen betonter Hynix-Gewichtung und SpaceX-Aufnahme im Fokus der Aufsicht.",
-        "body": "Im südkoreanischen ETF-Markt ist eine Debatte darüber entstanden, ob einige Vermögensverwalter in Produktwerbung tatsächliche Gewichtungen oder Bestandteile übermäßig hervorgehoben haben. Beim ‘AI Semiconductor Top 2 Plus’ von Shinhan Asset Management wurde kritisiert, dass die Werbung den Anteil von SK Hynix besonders groß erscheinen ließ. Hanas Raumfahrt-ETF warb unterdessen mit der Aufnahme von SpaceX und zog damit Anlegerinteresse auf sich. Der Originalbericht schilderte den Fall eines angestellten Investors und zeigte, dass ETF-Werbeaussagen Anleger beeinflussen können, die die Produktstruktur nicht vollständig verstehen. Die Finanzaufsicht stufte solche ETF-Werbung als Ziel einer intensiven Prüfung ein. Künftig könnten Angaben zu Gewichtungen, Basisindex und tatsächlichen Anlagezielen bei ETF-Vertrieb und Werbung strenger kontrolliert werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Publicité d’ETF sous surveillance: Hynix et SpaceX au cœur des critiques",
-        "excerpt": "Les publicités du AI Semiconductor Top 2 Plus de Shinhan et de l’ETF spatial de Hana sont visées pour avoir mis en avant Hynix et l’inclusion de SpaceX.",
-        "body": "Sur le marché sud-coréen des ETF, une controverse est apparue autour de publicités de certaines sociétés de gestion accusées de mettre excessivement en avant les pondérations réelles ou les titres inclus. Le ‘AI Semiconductor Top 2 Plus’ de Shinhan Asset Management a été cité pour une promotion laissant penser que le poids de SK Hynix était important, tandis que l’ETF spatial de Hana Asset Management a attiré l’attention en soulignant l’inclusion de SpaceX. L’article original s’appuie sur le cas d’un salarié investisseur pour montrer que les formulations publicitaires des ETF peuvent influencer des investisseurs ne comprenant pas pleinement la structure du produit. Les autorités financières ont désigné ces publicités comme cible d’une “inspection intensive”. À l’avenir, les explications sur les pondérations, l’indice sous-jacent et les actifs réellement visés pourraient être contrôlées plus strictement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "جدل إعلانات صناديق ETF: وزن هاينكس والترويج لسبيسX تحت الرقابة",
-        "excerpt": "إعلانات صندوق شينهان AI Semiconductor Top 2 Plus وصندوق هانا للفضاء أثارت جدلا بسبب إبراز وزن هاينكس وإدراج سبيسX ضمن مواد الترويج.",
-        "body": "أثار سوق صناديق ETF في كوريا الجنوبية جدلا بعدما وُجهت انتقادات إلى بعض شركات الإدارة بسبب إبرازها المفرط لنسب الاستثمار الفعلية أو مكونات المنتجات في الإعلانات. فقد أُشير إلى صندوق ‘AI Semiconductor Top 2 Plus’ التابع لشينهان لإيحاء حملته بأن وزن SK Hynix كبير، بينما جذب صندوق هانا للطيران والفضاء اهتمام المستثمرين عبر الترويج لإدراج SpaceX. وذكر التقرير الأصلي حالة موظف مستثمر ليوضح أن عبارات إعلانات ETF قد تؤثر في مستثمرين لا يفهمون بنية المنتج بالكامل. وحددت السلطات المالية هذه الإعلانات باعتبارها هدفا لـ“فحص مركز”. وقد تصبح التفسيرات المتعلقة بنسب المكونات والمؤشرات الأساسية وأهداف الاستثمار الفعلية أكثر صرامة في بيع وتسويق صناديق ETF. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ETF विज्ञापन विवाद: Hynix वजन और SpaceX प्रचार पर नियामकीय नजर",
-        "excerpt": "Shinhan के AI Semiconductor Top 2 Plus और Hana के अंतरिक्ष ETF के विज्ञापन Hynix वजन तथा SpaceX शामिल करने के प्रचार के कारण जांच के दायरे में आए।",
-        "body": "दक्षिण कोरिया के ETF बाजार में कुछ एसेट मैनेजरों के उत्पाद विज्ञापनों को लेकर विवाद उठा है कि उन्होंने वास्तविक निवेश वजन या शामिल परिसंपत्तियों को जरूरत से ज्यादा उभारा। Shinhan Asset Management के ‘AI Semiconductor Top 2 Plus’ पर SK Hynix के वजन को बड़ा दिखाने जैसा प्रचार करने का मुद्दा उठा, जबकि Hana Asset Management के अंतरिक्ष और विमानन ETF ने SpaceX को शामिल करने की बात आगे रखकर निवेशकों का ध्यान खींचा। मूल रिपोर्ट ने एक नौकरीपेशा निवेशक के उदाहरण से बताया कि ETF विज्ञापन की भाषा उन निवेशकों को प्रभावित कर सकती है जो उत्पाद संरचना पूरी तरह नहीं समझते। वित्तीय अधिकारियों ने ऐसे ETF विज्ञापनों को “केंद्रित जांच” का लक्ष्य बताया। आगे ETF बिक्री और प्रचार में होल्डिंग अनुपात, आधार सूचकांक और वास्तविक निवेश लक्ष्य की व्याख्या पर अधिक सख्ती हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Iklan ETF Berlebihan Disorot: Bobot Hynix dan Promosi SpaceX Jadi Isu",
-        "excerpt": "Iklan AI Semiconductor Top 2 Plus milik Shinhan dan ETF antariksa Hana dipersoalkan karena menonjolkan bobot Hynix serta masuknya SpaceX dalam promosi.",
-        "body": "Di pasar ETF Korea Selatan, muncul kontroversi karena sebagian iklan produk manajer aset dinilai terlalu menonjolkan bobot investasi aktual atau isi portofolio. ‘AI Semiconductor Top 2 Plus’ milik Shinhan Asset Management disebut bermasalah karena promosinya membuat bobot SK Hynix tampak besar, sementara ETF ruang angkasa dan penerbangan milik Hana Asset Management menarik minat investor dengan menekankan masuknya SpaceX. Laporan asli menggunakan contoh seorang pekerja kantoran yang berinvestasi untuk menunjukkan bahwa bahasa iklan ETF dapat memengaruhi investor yang belum sepenuhnya memahami struktur produk. Otoritas keuangan menetapkan iklan ETF seperti ini sebagai sasaran “pemeriksaan intensif”. Ke depan, penjelasan tentang bobot kepemilikan, indeks acuan, dan target investasi nyata dalam penjualan serta promosi ETF dapat diperketat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f8d12e5961a4",
-    "slug": "코스피-폭주에-증권주도-불기둥미래에셋증권-12대-상승-매경-자이앤트-650955",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T20:48:22.601Z",
-    "updatedAt": "2026-05-06T20:48:22.601Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12037074",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12037074",
-    "titleFingerprint": "3ce40fc3a3081133c8082f825ba5f59322554432",
-    "dedupKeys": [
-      "f8d12e5961a41d5d489332d2f72145e2b707c137",
-      "3ce40fc3a3081133c8082f825ba5f59322554432",
-      "df79566ccc2e8059bf848e69861f029ca81c194e"
-    ],
-    "imageUrl": "/images/articles/f8d12e5961a4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7000선 돌파에 증권주 강세…미래에셋증권 12%대 급등",
-        "excerpt": "6일 오전 코스피지수가 7000선을 넘어서자 국내 증권주가 동반 강세를 보였고, 미래에셋증권은 오전 9시27분 전 거래일보다 12.23% 오른 7만8900원에 거래됐다.",
-        "body": "6일 오전 코스피지수가 7000선을 넘어서면서 국내 증권주가 강세를 보이고 있다. 이날 오전 9시27분 기준 미래에셋증권은 전 거래일보다 8600원, 12.23% 오른 7만8900원에 거래됐다. 지수의 급등 흐름이 증권업종 투자심리에 영향을 준 것으로 풀이된다. 원문은 코스피 7000선 돌파와 함께 증권주 전반의 상승세를 전했으며, 특히 미래에셋증권의 두 자릿수 상승률을 주요 사례로 제시했다. 향후 흐름은 코스피지수의 움직임과 증권주 수급에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kospi Tops 7,000 as Brokerage Shares Rally, Mirae Asset Jumps 12%",
-        "excerpt": "On the morning of May 6, South Korean brokerage shares strengthened after the Kospi moved above 7,000, with Mirae Asset Securities trading at 78,900 won, up 12.23% from the previous session, at 9:27 a.m.",
-        "body": "South Korean brokerage shares rose on the morning of May 6 as the Kospi index climbed above the 7,000 mark. As of 9:27 a.m., Mirae Asset Securities was trading at 78,900 won, up 8,600 won, or 12.23%, from the previous session. The sharp move in the index appeared to support investor sentiment toward the securities sector. The original report said brokerage stocks broadly gained after the Kospi crossed 7,000, citing Mirae Asset Securities’ double-digit advance as a key example. Future moves may depend on the Kospi’s direction and trading flows in brokerage shares. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7000突破、証券株が上昇…未来アセット証券は12％台急騰",
-        "excerpt": "6日午前、KOSPI指数が7000を上回ると韓国の証券株がそろって強含み、未来アセット証券は午前9時27分時点で前営業日比12.23％高の7万8900ウォンで取引された。",
-        "body": "6日午前、KOSPI指数が7000を上回ったことで、韓国の証券株が強い動きを見せている。午前9時27分時点で、未来アセット証券は前営業日より8600ウォン、12.23％高い7万8900ウォンで取引された。指数の急上昇が証券業種への投資心理に影響したとみられる。原文はKOSPIの7000突破とともに証券株全般の上昇を伝え、特に未来アセット証券の二桁上昇率を主要な例として示した。今後の動きはKOSPI指数の推移と証券株の需給に左右される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Kospi突破7000点带动券商股走强，未来资产证券涨逾12%",
-        "excerpt": "5月6日上午，Kospi指数突破7000点后，韩国券商股同步走强；截至上午9时27分，未来资产证券较上一交易日上涨12.23%，报78900韩元。",
-        "body": "5月6日上午，随着Kospi指数突破7000点，韩国券商股呈现强势。截至上午9时27分，未来资产证券较上一交易日上涨8600韩元，涨幅为12.23%，报78900韩元。指数快速上行被认为影响了投资者对证券行业的情绪。原文报道称，在Kospi站上7000点的同时，券商股整体上涨，并将未来资产证券的两位数涨幅作为主要案例。后续走势可能取决于Kospi指数表现以及券商股资金供需变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kospi supera los 7.000 puntos y las casas de bolsa suben: Mirae gana 12%",
-        "excerpt": "La mañana del 6 de mayo, las acciones de valores en Corea del Sur avanzaron tras superar el Kospi los 7.000 puntos; Mirae Asset Securities cotizaba a 78.900 wones a las 9:27, un 12,23% más.",
-        "body": "Las acciones de firmas de valores en Corea del Sur subieron la mañana del 6 de mayo después de que el índice Kospi superara los 7.000 puntos. A las 9:27, Mirae Asset Securities cotizaba a 78.900 wones, 8.600 wones más que en la sesión anterior, con un alza del 12,23%. El fuerte avance del índice habría influido en el ánimo inversor hacia el sector bursátil. El informe original señaló ganancias generalizadas entre las acciones de valores tras el cruce del Kospi por encima de 7.000 y destacó el avance de doble dígito de Mirae Asset Securities como ejemplo principal. La evolución futura puede depender del Kospi y de los flujos hacia estas acciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kospi supera 7.000 pontos e corretoras sobem; Mirae Asset avança 12%",
-        "excerpt": "Na manhã de 6 de maio, ações de corretoras sul-coreanas ganharam força após o Kospi passar dos 7.000 pontos; às 9h27, Mirae Asset Securities subia 12,23%, a 78.900 won.",
-        "body": "As ações de corretoras na Coreia do Sul avançaram na manhã de 6 de maio, depois que o índice Kospi ultrapassou a marca de 7.000 pontos. Às 9h27, Mirae Asset Securities era negociada a 78.900 won, alta de 8.600 won, ou 12,23%, em relação ao pregão anterior. A forte alta do índice parece ter influenciado o sentimento dos investidores em relação ao setor de valores mobiliários. A reportagem original informou ganhos amplos nas ações de corretoras após o Kospi superar 7.000 pontos e citou a alta de dois dígitos da Mirae Asset Securities como principal exemplo. Os próximos movimentos podem depender do Kospi e dos fluxos nas ações do setor. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kospi steigt über 7.000 Punkte, Brokeraktien legen zu: Mirae plus 12%",
-        "excerpt": "Am Morgen des 6. Mai zogen südkoreanische Brokeraktien an, nachdem der Kospi über 7.000 Punkte gestiegen war; Mirae Asset Securities notierte um 9:27 Uhr bei 78.900 Won, 12,23% höher.",
-        "body": "Südkoreanische Brokeraktien legten am Morgen des 6. Mai zu, nachdem der Kospi-Index die Marke von 7.000 Punkten überschritten hatte. Um 9:27 Uhr wurde Mirae Asset Securities bei 78.900 Won gehandelt, 8.600 Won oder 12,23% über dem Schlussstand der vorherigen Sitzung. Der starke Anstieg des Index dürfte die Anlegerstimmung gegenüber dem Wertpapiersektor beeinflusst haben. Der Originalbericht meldete breite Kursgewinne bei Brokeraktien nach dem Kospi-Sprung über 7.000 und nannte den zweistelligen Anstieg von Mirae Asset Securities als wichtiges Beispiel. Der weitere Verlauf kann von der Kospi-Entwicklung und den Kapitalflüssen in Brokeraktien abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le Kospi franchit 7 000 points et les courtiers montent, Mirae bondit de 12%",
-        "excerpt": "Le matin du 6 mai, les valeurs de courtage sud-coréennes ont progressé après le passage du Kospi au-dessus de 7 000 points; à 9h27, Mirae Asset Securities gagnait 12,23%, à 78 900 wons.",
-        "body": "Les actions de courtage sud-coréennes ont progressé le matin du 6 mai, alors que l’indice Kospi dépassait le seuil des 7 000 points. À 9h27, Mirae Asset Securities se négociait à 78 900 wons, en hausse de 8 600 wons, soit 12,23%, par rapport à la séance précédente. La forte montée de l’indice semble avoir soutenu le sentiment des investisseurs envers le secteur des valeurs mobilières. L’article original a indiqué une progression générale des titres de courtage après le franchissement des 7 000 points par le Kospi, en mettant en avant la hausse à deux chiffres de Mirae Asset Securities. La suite pourrait dépendre de l’évolution du Kospi et des flux sur ces titres. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7000 نقطة وأسهم الوساطة تصعد، وميراي أسيت تقفز 12%",
-        "excerpt": "في صباح 6 مايو، ارتفعت أسهم شركات الوساطة الكورية الجنوبية بعد تجاوز مؤشر كوسبي مستوى 7000 نقطة، وتداول سهم ميراي أسيت سيكيوريتيز عند 78900 وون في 9:27 صباحا بزيادة 12.23%.",
-        "body": "ارتفعت أسهم شركات الوساطة في كوريا الجنوبية صباح 6 مايو مع صعود مؤشر كوسبي فوق مستوى 7000 نقطة. وبحلول الساعة 9:27 صباحا، جرى تداول سهم ميراي أسيت سيكيوريتيز عند 78900 وون، مرتفعا 8600 وون أو 12.23% عن الجلسة السابقة. ويبدو أن الارتفاع الحاد في المؤشر أثر في معنويات المستثمرين تجاه قطاع الأوراق المالية. وذكر التقرير الأصلي أن أسهم الوساطة سجلت مكاسب واسعة بعد تجاوز كوسبي مستوى 7000، مع إبراز الصعود ذي الرقمين في سهم ميراي أسيت سيكيوريتيز كمثال رئيسي. وقد تعتمد التحركات المقبلة على اتجاه كوسبي وتدفقات التداول في أسهم الوساطة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kospi 7,000 के पार, ब्रोकरेज शेयर चढ़े; Mirae Asset में 12% उछाल",
-        "excerpt": "6 मई की सुबह Kospi सूचकांक 7,000 के ऊपर जाने के बाद दक्षिण कोरियाई ब्रोकरेज शेयरों में तेजी आई; सुबह 9:27 बजे Mirae Asset Securities 12.23% बढ़कर 78,900 वोन पर था।",
-        "body": "6 मई की सुबह Kospi सूचकांक 7,000 के स्तर से ऊपर निकलने के बाद दक्षिण कोरिया के ब्रोकरेज शेयरों में मजबूती दिखी। सुबह 9:27 बजे Mirae Asset Securities पिछले सत्र से 8,600 वोन, यानी 12.23%, बढ़कर 78,900 वोन पर कारोबार कर रहा था। सूचकांक की तेज बढ़त ने प्रतिभूति क्षेत्र को लेकर निवेशक भावना को प्रभावित किया माना जा रहा है। मूल रिपोर्ट में कहा गया कि Kospi के 7,000 पार करने के साथ ब्रोकरेज शेयरों में व्यापक तेजी आई, और Mirae Asset Securities की दो अंकों की बढ़त को प्रमुख उदाहरण के रूप में बताया गया। आगे की चाल Kospi की दिशा और ब्रोकरेज शेयरों में मांग-आपूर्ति पर निर्भर कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kospi Tembus 7.000, Saham Sekuritas Menguat; Mirae Asset Naik 12%",
-        "excerpt": "Pada pagi 6 Mei, saham sekuritas Korea Selatan menguat setelah Kospi melewati 7.000; pukul 09.27, Mirae Asset Securities diperdagangkan di 78.900 won, naik 12,23% dari sesi sebelumnya.",
-        "body": "Saham sekuritas di Korea Selatan menguat pada pagi 6 Mei setelah indeks Kospi menembus level 7.000. Pada pukul 09.27, Mirae Asset Securities diperdagangkan di 78.900 won, naik 8.600 won atau 12,23% dibanding sesi sebelumnya. Kenaikan tajam indeks tersebut dipandang memengaruhi sentimen investor terhadap sektor sekuritas. Laporan asli menyebut saham-saham sekuritas secara umum naik setelah Kospi melewati 7.000, dengan kenaikan dua digit Mirae Asset Securities sebagai contoh utama. Pergerakan berikutnya dapat bergantung pada arah Kospi dan arus transaksi di saham sekuritas. Sumber: mk.co.kr"
       }
     }
   }
