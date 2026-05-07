@@ -1,5 +1,230 @@
 [
   {
+    "id": "07a4688b954c",
+    "slug": "수수료-0원가상자산-거래소-okx-美-토큰-주식-260종-거래-시작-195000",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T16:23:27.553Z",
+    "updatedAt": "2026-05-07T16:23:27.553Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12038775",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038775",
+    "titleFingerprint": "3c25783ba2c06e2f30cfeeb31f9ab254980213ff",
+    "dedupKeys": [
+      "07a4688b954c343ca175381617e4c28d21e7bc51",
+      "3c25783ba2c06e2f30cfeeb31f9ab254980213ff",
+      "0a01bb06317d9b102b5668d32a87ec58c5b8138a"
+    ],
+    "imageUrl": "/images/articles/07a4688b954c.png",
+    "i18n": {
+      "ko": {
+        "title": "OKX, 수수료 0원 앞세워 美 토큰 주식 260종 거래 시작",
+        "excerpt": "가상자산 거래소 OKX가 온도파이낸스와 협업해 미국 토큰 주식 260여 종 거래를 시작하고, 테슬라·엔비디아 등을 USDT로 최소 20달러부터 매매할 수 있게 했다.",
+        "body": "가상자산 거래소 OKX가 온도파이낸스와 협업해 미국 토큰 주식 260여 종 거래를 시작했다. 이용자는 USDT로 테슬라와 엔비디아 등 주요 미국 주식을 직접 매매할 수 있으며, 최소 거래 금액은 20달러부터다. OKX는 출시를 기념해 수수료 0원 혜택을 내세웠다. 이번 서비스는 전 세계 가상자산 시장에서 실물자산 토큰화, 즉 RWA 트렌드가 확산되는 흐름 속에서 나왔다. 토큰 주식 지원 종목 확대는 가상자산 기반 투자 접근성을 넓히는 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "OKX Starts Trading 260 Tokenized U.S. Stocks With Zero Fees",
+        "excerpt": "Crypto exchange OKX has teamed with Ondo Finance to launch trading in about 260 tokenized U.S. stocks, allowing USDT purchases of Tesla, Nvidia and others from a minimum of $20.",
+        "body": "Crypto exchange OKX has begun trading about 260 tokenized U.S. stocks in collaboration with Ondo Finance. Users can buy and sell major U.S. stocks such as Tesla and Nvidia directly with USDT, with a minimum transaction amount starting at $20. OKX is promoting zero-fee trading to mark the launch. The service comes as real-world asset tokenization, or RWA, gains traction across the global crypto market. The expanded support for tokenized stocks is drawing attention as an example of broader investment access through crypto-based infrastructure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "OKX、手数料ゼロで米国トークン株260銘柄の取引開始",
+        "excerpt": "暗号資産取引所OKXはOndo Financeと協業し、米国トークン株約260銘柄の取引を開始。テスラやエヌビディアをUSDTで20ドルから売買できる。",
+        "body": "暗号資産取引所OKXは、Ondo Financeとの協業により、米国トークン株約260銘柄の取引を開始した。利用者はUSDTを使い、テスラやエヌビディアなど主要な米国株を直接売買でき、最低取引額は20ドルからとなる。OKXはサービス開始を記念し、手数料ゼロを打ち出している。今回のサービスは、世界の暗号資産市場で実物資産のトークン化、いわゆるRWAの流れが広がる中で登場した。対応銘柄の拡大は、暗号資産を基盤にした投資アクセスを広げる事例として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "OKX零手续费上线260种美国代币化股票交易",
+        "excerpt": "加密资产交易所OKX与Ondo Finance合作，推出约260种美国代币化股票交易，用户可用USDT以最低20美元买卖特斯拉、英伟达等股票。",
+        "body": "加密资产交易所OKX与Ondo Finance合作，开始提供约260种美国代币化股票交易。用户可使用USDT直接买卖特斯拉、英伟达等主要美国股票，最低交易金额为20美元。OKX为纪念上线推出零手续费优惠。该服务是在全球加密资产市场中，现实世界资产代币化即RWA趋势扩散的背景下推出的。代币化股票支持范围扩大，被视为通过加密资产基础设施拓宽投资渠道的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "OKX lanza 260 acciones tokenizadas de EE. UU. con comisión cero",
+        "excerpt": "El exchange de criptoactivos OKX se asoció con Ondo Finance para ofrecer unas 260 acciones tokenizadas de EE. UU., incluidas Tesla y Nvidia, negociables con USDT desde 20 dólares.",
+        "body": "El exchange de criptoactivos OKX inició la negociación de unas 260 acciones tokenizadas de Estados Unidos en colaboración con Ondo Finance. Los usuarios pueden comprar y vender directamente acciones estadounidenses importantes, como Tesla y Nvidia, usando USDT, con un monto mínimo de 20 dólares. OKX promociona comisiones cero con motivo del lanzamiento. El servicio llega mientras la tokenización de activos del mundo real, conocida como RWA, gana presencia en el mercado global de criptoactivos. La ampliación de acciones tokenizadas respaldadas destaca como un caso de mayor acceso a la inversión mediante infraestructura cripto. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "OKX inicia negociação de 260 ações tokenizadas dos EUA sem taxa",
+        "excerpt": "A corretora de criptoativos OKX fez parceria com a Ondo Finance para lançar cerca de 260 ações tokenizadas dos EUA, permitindo comprar Tesla, Nvidia e outras com USDT a partir de US$ 20.",
+        "body": "A corretora de criptoativos OKX começou a negociar cerca de 260 ações tokenizadas dos Estados Unidos em colaboração com a Ondo Finance. Os usuários podem comprar e vender diretamente ações importantes dos EUA, como Tesla e Nvidia, usando USDT, com valor mínimo de US$ 20. A OKX promove taxa zero para marcar o lançamento. O serviço surge em meio à expansão global da tokenização de ativos do mundo real, conhecida como RWA, no mercado de criptoativos. A ampliação dos ativos suportados chama atenção como exemplo de maior acesso a investimentos por meio de infraestrutura baseada em cripto. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "OKX startet 260 tokenisierte US-Aktien mit null Gebühren",
+        "excerpt": "Die Kryptobörse OKX startet mit Ondo Finance den Handel von rund 260 tokenisierten US-Aktien. Tesla, Nvidia und weitere Titel sind per USDT ab mindestens 20 Dollar handelbar.",
+        "body": "Die Kryptobörse OKX hat in Zusammenarbeit mit Ondo Finance den Handel von rund 260 tokenisierten US-Aktien gestartet. Nutzer können wichtige US-Aktien wie Tesla und Nvidia direkt mit USDT kaufen und verkaufen; der Mindestbetrag liegt bei 20 Dollar. Zum Start wirbt OKX mit gebührenfreiem Handel. Der Dienst kommt in einer Phase, in der die Tokenisierung realer Vermögenswerte, auch RWA genannt, im globalen Kryptomarkt an Bedeutung gewinnt. Die erweiterte Unterstützung tokenisierter Aktien gilt als Beispiel für breiteren Investmentzugang über kryptobasierte Infrastruktur. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "OKX lance 260 actions américaines tokenisées sans frais",
+        "excerpt": "La plateforme crypto OKX s’associe à Ondo Finance pour lancer environ 260 actions américaines tokenisées, dont Tesla et Nvidia, négociables en USDT à partir de 20 dollars.",
+        "body": "La plateforme d’échange de cryptoactifs OKX a commencé à proposer environ 260 actions américaines tokenisées en collaboration avec Ondo Finance. Les utilisateurs peuvent acheter et vendre directement de grandes actions américaines comme Tesla et Nvidia avec de l’USDT, pour un montant minimum de 20 dollars. OKX met en avant l’absence de frais à l’occasion du lancement. Ce service arrive alors que la tokenisation d’actifs du monde réel, ou RWA, se développe sur le marché mondial des cryptoactifs. L’élargissement des actions tokenisées prises en charge attire l’attention comme exemple d’accès accru à l’investissement via une infrastructure crypto. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "OKX تبدأ تداول 260 سهما أمريكيا مرمزا برسوم صفرية",
+        "excerpt": "أطلقت منصة تداول الأصول المشفرة OKX، بالتعاون مع Ondo Finance، تداول نحو 260 سهما أمريكيا مرمزا، مع إتاحة شراء تسلا وإنفيديا وغيرها بعملة USDT ابتداء من 20 دولارا.",
+        "body": "بدأت منصة تداول الأصول المشفرة OKX، بالتعاون مع Ondo Finance، تداول نحو 260 سهما أمريكيا مرمزا. ويمكن للمستخدمين شراء وبيع أسهم أمريكية رئيسية مثل تسلا وإنفيديا مباشرة باستخدام USDT، على أن يبدأ الحد الأدنى للتداول من 20 دولارا. وتطرح OKX ميزة الرسوم الصفرية بمناسبة الإطلاق. تأتي الخدمة في ظل اتساع اتجاه ترميز الأصول الواقعية، المعروف باسم RWA، في سوق الأصول المشفرة العالمي. ويبرز توسيع دعم الأسهم المرمزة كحالة توسع في الوصول إلى الاستثمار عبر بنية قائمة على الأصول المشفرة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "OKX ने शून्य शुल्क के साथ 260 अमेरिकी टोकन शेयरों की ट्रेडिंग शुरू की",
+        "excerpt": "क्रिप्टो एक्सचेंज OKX ने Ondo Finance के साथ मिलकर करीब 260 अमेरिकी टोकन शेयरों की ट्रेडिंग शुरू की है, जिसमें Tesla और Nvidia को USDT से न्यूनतम 20 डॉलर में खरीदा-बेचा जा सकेगा।",
+        "body": "क्रिप्टो एसेट एक्सचेंज OKX ने Ondo Finance के सहयोग से करीब 260 अमेरिकी टोकन शेयरों की ट्रेडिंग शुरू की है। उपयोगकर्ता USDT के जरिए Tesla और Nvidia जैसे प्रमुख अमेरिकी शेयरों को सीधे खरीद और बेच सकते हैं, और न्यूनतम ट्रेडिंग राशि 20 डॉलर से शुरू होती है। लॉन्च के अवसर पर OKX शून्य शुल्क की सुविधा दे रहा है। यह सेवा ऐसे समय आई है जब वैश्विक क्रिप्टो बाजार में वास्तविक दुनिया की परिसंपत्तियों के टोकनकरण, यानी RWA, का रुझान फैल रहा है। टोकन शेयरों के समर्थन का विस्तार क्रिप्टो आधारित ढांचे के जरिए निवेश पहुंच बढ़ाने के उदाहरण के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "OKX Mulai Perdagangan 260 Saham Token AS dengan Biaya Nol",
+        "excerpt": "Bursa aset kripto OKX bekerja sama dengan Ondo Finance untuk meluncurkan sekitar 260 saham token AS, memungkinkan Tesla, Nvidia, dan lainnya diperdagangkan dengan USDT mulai dari 20 dolar.",
+        "body": "Bursa aset kripto OKX mulai memperdagangkan sekitar 260 saham token Amerika Serikat melalui kerja sama dengan Ondo Finance. Pengguna dapat membeli dan menjual langsung saham utama AS seperti Tesla dan Nvidia menggunakan USDT, dengan nilai transaksi minimum mulai dari 20 dolar. OKX menawarkan biaya nol untuk menandai peluncuran ini. Layanan tersebut hadir ketika tokenisasi aset dunia nyata, atau RWA, semakin meluas di pasar aset kripto global. Perluasan dukungan saham token menjadi perhatian sebagai contoh meningkatnya akses investasi melalui infrastruktur berbasis kripto. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "66a085dbeb37",
+    "slug": "유진투자증권-롯데관광개발-수익성-개선-기대성수기에-진입-863558",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T16:22:37.577Z",
+    "updatedAt": "2026-05-07T16:22:37.577Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039046",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039046",
+    "titleFingerprint": "7f2aaa617515208dfa89944c17f1892d7ab83604",
+    "dedupKeys": [
+      "66a085dbeb37c06897ae372287913da345146d5c",
+      "7f2aaa617515208dfa89944c17f1892d7ab83604",
+      "d04c4069775e98862cd83ecf2474b5d09095ec36"
+    ],
+    "imageUrl": "/images/articles/66a085dbeb37.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데관광개발 수익성 개선 기대, 유진투자증권 매수 의견 유지",
+        "excerpt": "유진투자증권은 7일 롯데관광개발이 성수기에 진입하며 수익성 개선이 기대된다고 보고 투자의견 매수와 목표주가 3만2000원을 유지했다.",
+        "body": "유진투자증권은 7일 롯데관광개발에 대해 성수기 진입에 따른 수익성 개선이 기대된다며 투자의견 ‘매수’와 목표주가 3만2000원을 유지했다. 이번 분석은 롯데관광개발의 실적 흐름과 영업이익 개선 가능성에 초점을 맞췄다. 유진투자증권은 올해 영업이익이 전년 동기 대비 개선될 것으로 봤으며, 성수기 효과가 수익성 회복 기대를 뒷받침하는 요인으로 제시됐다. 투자자들은 향후 실적 발표와 성수기 매출 흐름을 통해 개선세 지속 여부를 확인할 필요가 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lotte Tour Development Profitability Outlook Backs Eugene’s Buy Rating",
+        "excerpt": "Eugene Investment & Securities said on May 7 that Lotte Tour Development is expected to improve profitability as it enters peak season, maintaining a Buy rating and KRW 32,000 target price.",
+        "body": "Eugene Investment & Securities said on May 7 that it maintained its Buy rating and KRW 32,000 target price on Lotte Tour Development, citing expectations for improved profitability as the company enters peak season. The assessment focused on Lotte Tour Development’s earnings trend and potential operating profit improvement. Eugene Investment & Securities said this year’s operating profit is expected to improve from the same period a year earlier, with the peak-season effect presented as a factor supporting profitability recovery expectations. Investors may need to watch upcoming earnings releases and peak-season sales trends to confirm whether the improvement continues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロッテ観光開発の収益性改善に期待、ユージン投資証券が買い継続",
+        "excerpt": "ユージン投資証券は7日、ロッテ観光開発が繁忙期入りで収益性改善が期待されるとして、投資判断「買い」と目標株価3万2000ウォンを維持した。",
+        "body": "ユージン投資証券は7日、ロッテ観光開発について、繁忙期入りに伴う収益性改善が期待されるとして、投資判断「買い」と目標株価3万2000ウォンを維持した。今回の分析は、ロッテ観光開発の業績動向と営業利益の改善可能性に焦点を当てたものだ。ユージン投資証券は、今年の営業利益が前年同期比で改善すると見ており、繁忙期効果が収益性回復への期待を支える要因として示された。投資家は今後の決算発表と繁忙期の売上動向を通じて、改善傾向が続くか確認する必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "乐天观光开发盈利改善受期待，Eugene维持买入评级",
+        "excerpt": "Eugene投资证券7日表示，乐天观光开发进入旺季后盈利能力有望改善，因此维持买入评级和3.2万韩元目标价。",
+        "body": "Eugene投资证券7日表示，因乐天观光开发进入旺季后盈利能力有望改善，维持对该公司的“买入”投资评级和3.2万韩元目标价。此次分析聚焦于乐天观光开发的业绩走势以及营业利润改善的可能性。Eugene投资证券认为，公司今年营业利润将较去年同期改善，旺季效应被视为支撑盈利能力恢复预期的因素。投资者后续需通过业绩发布和旺季销售走势，确认改善趋势能否持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lotte Tour Development: Eugene mantiene compra por mejora de rentabilidad",
+        "excerpt": "Eugene Investment & Securities dijo el 7 de mayo que Lotte Tour Development podría mejorar su rentabilidad al entrar en temporada alta, y mantuvo compra y precio objetivo de 32.000 wones.",
+        "body": "Eugene Investment & Securities informó el 7 de mayo que mantiene su recomendación de “compra” y su precio objetivo de 32.000 wones para Lotte Tour Development, al esperar una mejora de la rentabilidad con la entrada en temporada alta. El análisis se centró en la evolución de resultados de Lotte Tour Development y en la posibilidad de una mejora del beneficio operativo. La firma prevé que el beneficio operativo de este año mejore frente al mismo periodo del año anterior, y señaló el efecto de la temporada alta como un factor que respalda la expectativa de recuperación de la rentabilidad. Los inversores deberán observar los próximos resultados y las ventas de temporada alta para confirmar si la mejora continúa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lotte Tour Development: Eugene mantém compra com melhora de rentabilidade",
+        "excerpt": "A Eugene Investment & Securities disse em 7 de maio que espera melhora da rentabilidade da Lotte Tour Development na alta temporada, mantendo compra e preço-alvo de 32.000 wones.",
+        "body": "A Eugene Investment & Securities afirmou em 7 de maio que manteve a recomendação de “compra” e o preço-alvo de 32.000 wones para a Lotte Tour Development, citando expectativas de melhora da rentabilidade com a entrada na alta temporada. A análise se concentrou na trajetória de resultados da empresa e na possibilidade de avanço do lucro operacional. A corretora avaliou que o lucro operacional deste ano deve melhorar em relação ao mesmo período do ano anterior, com o efeito da alta temporada apresentado como fator de apoio à recuperação da rentabilidade. Investidores devem acompanhar os próximos resultados e o fluxo de vendas da alta temporada para verificar se a melhora se mantém. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lotte Tour Development: Eugene hält Kaufempfehlung wegen Margenhoffnung",
+        "excerpt": "Eugene Investment & Securities erklärte am 7. Mai, dass Lotte Tour Development mit Beginn der Hochsaison bessere Profitabilität erwarten lässt, und bestätigte Buy sowie ein Kursziel von 32.000 Won.",
+        "body": "Eugene Investment & Securities teilte am 7. Mai mit, die Kaufempfehlung und das Kursziel von 32.000 Won für Lotte Tour Development beizubehalten. Begründet wurde dies mit Erwartungen auf eine bessere Profitabilität, da das Unternehmen in die Hochsaison eintritt. Die Analyse konzentrierte sich auf die Ergebnisentwicklung von Lotte Tour Development und die mögliche Verbesserung des operativen Gewinns. Eugene Investment & Securities erwartet, dass der operative Gewinn in diesem Jahr gegenüber dem Vorjahreszeitraum steigt; der Hochsaisoneffekt wurde als unterstützender Faktor für die Erholung der Profitabilität genannt. Anleger sollten kommende Ergebnisse und Umsatztrends in der Hochsaison beobachten, um die Fortsetzung der Verbesserung zu prüfen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lotte Tour Development: Eugene maintient l’achat grâce à la rentabilité",
+        "excerpt": "Eugene Investment & Securities a indiqué le 7 mai attendre une amélioration de la rentabilité de Lotte Tour Development avec l’entrée en haute saison, en maintenant achat et objectif de 32 000 wons.",
+        "body": "Eugene Investment & Securities a indiqué le 7 mai maintenir sa recommandation « achat » et son objectif de cours de 32 000 wons sur Lotte Tour Development, en raison d’attentes d’amélioration de la rentabilité avec l’entrée en haute saison. L’analyse porte sur l’évolution des résultats de Lotte Tour Development et sur la possibilité d’une amélioration du résultat opérationnel. La société de courtage estime que le résultat opérationnel de cette année devrait progresser par rapport à la même période de l’an dernier, l’effet de la haute saison étant présenté comme un facteur soutenant les attentes de redressement de la rentabilité. Les investisseurs devront suivre les prochaines publications de résultats et les ventes de haute saison pour confirmer la poursuite de cette amélioration. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تحسن ربحية Lotte Tour Development يدعم إبقاء Eugene على توصية الشراء",
+        "excerpt": "قالت Eugene Investment & Securities في 7 مايو إن ربحية Lotte Tour Development مرشحة للتحسن مع دخول موسم الذروة، وأبقت توصية الشراء والسعر المستهدف عند 32 ألف وون.",
+        "body": "قالت Eugene Investment & Securities في 7 مايو إنها أبقت على توصية «شراء» والسعر المستهدف البالغ 32 ألف وون لسهم Lotte Tour Development، مستندة إلى توقعات بتحسن الربحية مع دخول الشركة موسم الذروة. وركز التحليل على مسار نتائج Lotte Tour Development وإمكان تحسن الربح التشغيلي. وترى Eugene Investment & Securities أن الربح التشغيلي لهذا العام سيتحسن مقارنة بالفترة نفسها من العام السابق، مع اعتبار أثر موسم الذروة عاملا يدعم توقعات تعافي الربحية. وينبغي للمستثمرين متابعة نتائج الشركة المقبلة واتجاهات المبيعات خلال موسم الذروة للتحقق من استمرار التحسن. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Lotte Tour Development की लाभप्रदता पर उम्मीद, Eugene ने Buy कायम रखा",
+        "excerpt": "Eugene Investment & Securities ने 7 मई को कहा कि पीक सीजन में प्रवेश से Lotte Tour Development की लाभप्रदता सुधरने की उम्मीद है, इसलिए Buy रेटिंग और 32,000 वोन लक्ष्य मूल्य बरकरार है।",
+        "body": "Eugene Investment & Securities ने 7 मई को Lotte Tour Development पर अपनी ‘Buy’ रेटिंग और 32,000 वोन का लक्ष्य मूल्य बनाए रखा। कंपनी के पीक सीजन में प्रवेश के साथ लाभप्रदता में सुधार की उम्मीद को इसका आधार बताया गया। यह विश्लेषण Lotte Tour Development के प्रदर्शन रुझान और परिचालन लाभ में सुधार की संभावना पर केंद्रित था। Eugene Investment & Securities का मानना है कि इस वर्ष परिचालन लाभ पिछले वर्ष की समान अवधि की तुलना में सुधरेगा, और पीक सीजन का प्रभाव लाभप्रदता में सुधार की उम्मीद को सहारा देने वाला कारक है। निवेशकों को आगे की आय घोषणाओं और पीक सीजन बिक्री रुझानों से यह देखना होगा कि सुधार जारी रहता है या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lotte Tour Development Diharapkan Lebih Profitabel, Eugene Pertahankan Beli",
+        "excerpt": "Eugene Investment & Securities pada 7 Mei menilai profitabilitas Lotte Tour Development berpeluang membaik saat memasuki musim puncak, dengan peringkat beli dan target harga 32.000 won dipertahankan.",
+        "body": "Eugene Investment & Securities pada 7 Mei menyatakan tetap mempertahankan rekomendasi “beli” dan target harga 32.000 won untuk Lotte Tour Development, dengan alasan ekspektasi perbaikan profitabilitas saat perusahaan memasuki musim puncak. Analisis ini berfokus pada tren kinerja Lotte Tour Development dan potensi perbaikan laba operasi. Eugene Investment & Securities memperkirakan laba operasi tahun ini akan membaik dibanding periode yang sama tahun sebelumnya, sementara efek musim puncak disebut sebagai faktor yang mendukung harapan pemulihan profitabilitas. Investor perlu mencermati laporan kinerja berikutnya dan tren penjualan musim puncak untuk memastikan apakah perbaikan berlanjut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "d38e6405e056",
+    "slug": "한국투자증권-jp모간-미국테크-펀드-출시-604143",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T16:21:40.926Z",
+    "updatedAt": "2026-05-07T16:21:40.926Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12039168",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039168",
+    "titleFingerprint": "9b6f7d435f380165412abe4ca61759a577567e6e",
+    "dedupKeys": [
+      "d38e6405e05683792e64c1427289479f1624582d",
+      "9b6f7d435f380165412abe4ca61759a577567e6e",
+      "23798ec14d4c90a0a662ed59b73926f469346379"
+    ],
+    "imageUrl": "/images/articles/d38e6405e056.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국투자증권, JP모간 미국테크 펀드 출시…미국 기술주 집중 투자",
+        "excerpt": "한국투자증권은 7일 JP모간자산운용과 협력해 미국 기술주에 집중 투자하는 ‘한국투자 JP모간 미국테크 증권자투자신탁’을 출시한다고 밝혔다.",
+        "body": "한국투자증권은 7일 글로벌 자산운용사 JP모간자산운용과 협력해 미국 기술주에 집중 투자하는 ‘한국투자 JP모간 미국테크 증권자투자신탁’을 출시한다고 밝혔다. 이 펀드는 미국 테크 섹터에 투자 기회를 찾는 투자자를 대상으로 한 상품이다. 한국투자증권은 JP모간자산운용과의 협업을 통해 해외 기술주 투자 수요에 대응한다는 설명이다. 미국 기술주에 대한 관심이 이어지는 가운데, 이번 펀드는 관련 자산에 집중 투자하는 선택지로 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Launches JPMorgan US Tech Fund Focused on Tech Stocks",
+        "excerpt": "Korea Investment & Securities said on the 7th it will launch a fund with JPMorgan Asset Management that focuses on investing in U.S. technology stocks.",
+        "body": "Korea Investment & Securities said on the 7th that it will launch the ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ in cooperation with global asset manager JPMorgan Asset Management. The fund is designed for investors seeking exposure to U.S. technology stocks. Korea Investment & Securities said the collaboration with JPMorgan Asset Management is aimed at responding to demand for overseas technology-stock investment. As interest in U.S. tech stocks continues, the fund is being presented as an option focused on related assets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国投資証券、JPモルガン米国テックファンドを発売へ",
+        "excerpt": "韓国投資証券は7日、JPモルガン・アセット・マネジメントと協力し、米国技術株に集中投資するファンドを発売すると発表した。",
+        "body": "韓国投資証券は7日、グローバル資産運用会社のJPモルガン・アセット・マネジメントと協力し、米国技術株に集中投資する「韓国投資JPモルガン米国テック証券子投資信託」を発売すると明らかにした。同ファンドは、米国テックセクターへの投資機会を探す投資家向けの商品だ。韓国投資証券は、JPモルガン・アセット・マネジメントとの協業を通じ、海外技術株投資の需要に対応する考えだ。米国技術株への関心が続くなか、関連資産に集中投資する選択肢として示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国投资证券推出JP摩根美国科技基金，聚焦美股科技股",
+        "excerpt": "韩国投资证券7日表示，将与JP摩根资产管理合作，推出集中投资美国科技股的“韩国投资JP摩根美国科技证券子投资信托”。",
+        "body": "韩国投资证券7日表示，将与全球资产管理公司JP摩根资产管理合作，推出集中投资美国科技股的“韩国投资JP摩根美国科技证券子投资信托”。该基金面向寻求美国科技板块投资机会的投资者。韩国投资证券称，通过与JP摩根资产管理合作，将回应市场对海外科技股投资的需求。在投资者持续关注美国科技股的背景下，该基金被提出为集中配置相关资产的选择之一。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment lanza fondo JPMorgan US Tech centrado en tecnológicas de EE. UU.",
+        "excerpt": "Korea Investment & Securities anunció el día 7 que lanzará, junto con JPMorgan Asset Management, un fondo enfocado en acciones tecnológicas estadounidenses.",
+        "body": "Korea Investment & Securities anunció el día 7 que lanzará el ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ en colaboración con la gestora global JPMorgan Asset Management. El fondo está dirigido a inversores que buscan oportunidades en acciones tecnológicas de Estados Unidos. La compañía explicó que la cooperación con JPMorgan Asset Management busca responder a la demanda de inversión en tecnológicas extranjeras. En un contexto de interés sostenido por las tecnológicas estadounidenses, el fondo se presenta como una opción centrada en esos activos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment lança fundo JPMorgan US Tech focado em tecnologia dos EUA",
+        "excerpt": "A Korea Investment & Securities informou no dia 7 que lançará, com a JPMorgan Asset Management, um fundo concentrado em ações de tecnologia dos EUA.",
+        "body": "A Korea Investment & Securities informou no dia 7 que lançará o ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ em cooperação com a gestora global JPMorgan Asset Management. O fundo é voltado a investidores que buscam oportunidades em ações de tecnologia dos Estados Unidos. A empresa afirmou que a parceria com a JPMorgan Asset Management busca atender à demanda por investimento em ações de tecnologia no exterior. Com o interesse contínuo por empresas de tecnologia dos EUA, o fundo é apresentado como uma opção concentrada nesses ativos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment startet JPMorgan US-Tech-Fonds für US-Technologieaktien",
+        "excerpt": "Korea Investment & Securities teilte am 7. mit, gemeinsam mit JPMorgan Asset Management einen Fonds mit Fokus auf US-Technologieaktien aufzulegen.",
+        "body": "Korea Investment & Securities teilte am 7. mit, in Zusammenarbeit mit dem globalen Vermögensverwalter JPMorgan Asset Management den ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ aufzulegen. Der Fonds richtet sich an Anleger, die Investitionsmöglichkeiten in US-Technologieaktien suchen. Korea Investment & Securities erklärte, die Kooperation mit JPMorgan Asset Management solle der Nachfrage nach Anlagen in ausländische Technologiewerte begegnen. Angesichts des anhaltenden Interesses an US-Technologieaktien wird der Fonds als fokussierte Option für entsprechende Vermögenswerte vorgestellt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment lance un fonds JPMorgan US Tech axé sur la technologie américaine",
+        "excerpt": "Korea Investment & Securities a annoncé le 7 le lancement, avec JPMorgan Asset Management, d’un fonds concentré sur les actions technologiques américaines.",
+        "body": "Korea Investment & Securities a annoncé le 7 qu’elle lancerait le ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ en coopération avec le gestionnaire d’actifs mondial JPMorgan Asset Management. Ce fonds s’adresse aux investisseurs recherchant une exposition aux actions technologiques américaines. Korea Investment & Securities explique que cette collaboration avec JPMorgan Asset Management vise à répondre à la demande d’investissement dans les valeurs technologiques étrangères. Alors que l’intérêt pour les actions technologiques américaines se poursuit, le fonds est présenté comme une option centrée sur ces actifs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت تطلق صندوق JPمورغان للتكنولوجيا الأمريكية",
+        "excerpt": "قالت كوريا إنفستمنت آند سيكيوريتيز في السابع إنها ستطلق، بالتعاون مع جيه بي مورغان لإدارة الأصول، صندوقا يركز على أسهم التكنولوجيا الأمريكية.",
+        "body": "قالت كوريا إنفستمنت آند سيكيوريتيز في السابع إنها ستطلق صندوق ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ بالتعاون مع شركة إدارة الأصول العالمية جيه بي مورغان لإدارة الأصول. ويستهدف الصندوق المستثمرين الباحثين عن فرص في أسهم التكنولوجيا الأمريكية. وأوضحت الشركة أن التعاون مع جيه بي مورغان لإدارة الأصول يهدف إلى تلبية الطلب على الاستثمار في أسهم التكنولوجيا الخارجية. ومع استمرار الاهتمام بأسهم التكنولوجيا الأمريكية، يقدم الصندوق كخيار يركز على هذه الأصول. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया इन्वेस्टमेंट ने JPMorgan US Tech फंड लॉन्च करने की घोषणा की",
+        "excerpt": "कोरिया इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 तारीख को कहा कि वह JPMorgan Asset Management के साथ अमेरिकी टेक शेयरों पर केंद्रित फंड लॉन्च करेगी।",
+        "body": "कोरिया इन्वेस्टमेंट एंड सिक्योरिटीज ने 7 तारीख को कहा कि वह वैश्विक परिसंपत्ति प्रबंधक JPMorgan Asset Management के सहयोग से ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ लॉन्च करेगी। यह फंड उन निवेशकों के लिए है जो अमेरिकी टेक्नोलॉजी शेयरों में निवेश के अवसर तलाश रहे हैं। कंपनी ने कहा कि JPMorgan Asset Management के साथ सहयोग के जरिए वह विदेशी टेक शेयरों में निवेश मांग का जवाब देगी। अमेरिकी टेक शेयरों में जारी रुचि के बीच, यह फंड संबंधित परिसंपत्तियों पर केंद्रित विकल्प के रूप में पेश किया गया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Investment Luncurkan Dana JPMorgan US Tech Fokus Saham Teknologi AS",
+        "excerpt": "Korea Investment & Securities pada tanggal 7 menyatakan akan meluncurkan dana bersama JPMorgan Asset Management yang berfokus pada saham teknologi AS.",
+        "body": "Korea Investment & Securities pada tanggal 7 menyatakan akan meluncurkan ‘Korea Investment JPMorgan US Tech Securities Feeder Investment Trust’ bekerja sama dengan manajer aset global JPMorgan Asset Management. Dana ini ditujukan bagi investor yang mencari peluang pada saham teknologi Amerika Serikat. Korea Investment & Securities menjelaskan bahwa kolaborasi dengan JPMorgan Asset Management dilakukan untuk merespons permintaan investasi pada saham teknologi luar negeri. Di tengah berlanjutnya minat terhadap saham teknologi AS, dana ini ditawarkan sebagai pilihan yang berfokus pada aset terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "7e911436b437",
     "slug": "로봇이-스스로-배우고-알아서-협업까지-209778",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI 7000: Regulator Korea Gelar Rapat Awal Atur Finfluencer Ilegal",
         "excerpt": "Setelah KOSPI pertama kali menembus 7000 pada 6 Mei 2026, Komisi Jasa Keuangan Korea menggelar rapat awal untuk meninjau aturan finfluencer ilegal.",
         "body": "Saat KOSPI pertama kali menembus 7000 pada 6 Mei 2026 dan minat investor meningkat, Komisi Jasa Keuangan Korea Selatan mulai merespons finfluencer ilegal secara formal. FSC menggelar rapat pertama untuk memperbaiki sistem regulasi atas perilaku ilegal finfluencer, dipimpin Byun Je-ho, direktur jenderal biro pasar modal. Rapat itu meninjau pola utama seperti memimpin perdagangan tidak adil, memberikan informasi investasi yang tidak tepat, dan merekomendasikan saham tertentu tanpa registrasi, serta apakah kerangka saat ini dapat menindaknya. Aktivitas nasihat investasi semu tanpa registrasi berpotensi melanggar Pasal 101 Undang-Undang Pasar Modal, tetapi ada catatan soal keterbatasan penindakan aktif. Otoritas juga akan mengkaji konflik kepentingan dan kasus luar negeri, sambil memakai sistem pemantauan real-time berbasis AI serta tim monitoring khusus FSS. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "8d443c7f21b3",
-    "slug": "호르무즈-열리나sp500나스닥-사상-최고치-뉴욕증시-브리핑-209170",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T22:58:56.969Z",
-    "updatedAt": "2026-05-06T22:58:56.969Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050701286",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050701286",
-    "titleFingerprint": "e6ea6c904119a85285e178fba1101ef70e511fc1",
-    "dedupKeys": [
-      "8d443c7f21b349c3888e970a8bd3ce989ba1f421",
-      "e6ea6c904119a85285e178fba1101ef70e511fc1",
-      "c4e69054032d1336222c96a3303b280ab820b275"
-    ],
-    "imageUrl": "/images/articles/8d443c7f21b3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호르무즈 개방 기대 속 S&P500·나스닥 사상 최고치",
-        "excerpt": "뉴욕증시 브리핑에 따르면 호르무즈 해협 개방 가능성이 주목되는 가운데 S&P500과 나스닥이 사상 최고치를 기록했다.",
-        "body": "뉴욕증시 브리핑은 호르무즈 해협이 열릴 가능성이 거론되는 가운데 미국 증시에서 S&P500과 나스닥이 사상 최고치를 기록했다고 전했다. 원문 제목이 제시한 핵심은 호르무즈 이슈와 뉴욕 증시의 주요 지수 흐름이다. 관련 수치로는 S&P500과 나스닥의 사상 최고치가 명시됐으며, 다우지수 등 다른 지표나 세부 등락률은 제공되지 않았다. 이번 보도는 지정학적 변수와 미국 기술주 중심 지수의 강세가 함께 주목받는 상황을 보여준다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "S&P 500, Nasdaq Hit Records as Hormuz Reopening Hopes Draw Focus",
-        "excerpt": "According to a New York stock market briefing, the S&P 500 and Nasdaq reached record highs as attention turned to the possibility of the Strait of Hormuz reopening.",
-        "body": "A New York stock market briefing reported that the S&P 500 and Nasdaq reached record highs while the possibility of the Strait of Hormuz reopening drew attention. The key point in the original headline is the link between the Hormuz issue and the movement of major U.S. equity indexes. The stated figures are the record highs for the S&P 500 and Nasdaq; details such as the Dow Jones Industrial Average or exact percentage moves were not provided. The report highlights how a geopolitical variable and strength in major U.S. stock indexes were watched together. Source: quoted from hankyung.com."
-      },
-      "ja": {
-        "title": "ホルムズ開放期待でS&P500・ナスダックが最高値",
-        "excerpt": "ニューヨーク株式市場ブリーフィングによると、ホルムズ海峡の開放可能性が注目される中、S&P500とナスダックが過去最高値を記録した。",
-        "body": "ニューヨーク株式市場ブリーフィングは、ホルムズ海峡が開かれる可能性が取り沙汰される中、米国市場でS&P500とナスダックが過去最高値を記録したと伝えた。原文の見出しが示す核心は、ホルムズ問題とニューヨーク株式市場の主要指数の動きである。関連数値としてはS&P500とナスダックの最高値が明示されており、ダウ平均など他の指標や具体的な騰落率は示されていない。今回の報道は、地政学的要因と米主要株価指数の強さが同時に注目された状況を示している。出典: hankyung.com引用。"
-      },
-      "zh": {
-        "title": "霍尔木兹开放预期升温，S&P500和纳指创历史新高",
-        "excerpt": "据纽约股市简报报道，在霍尔木兹海峡可能开放受到关注之际，S&P500指数和纳斯达克指数创下历史新高。",
-        "body": "纽约股市简报称，在霍尔木兹海峡可能开放受到市场关注的背景下，美国股市中S&P500指数和纳斯达克指数创下历史新高。原文标题的核心信息是霍尔木兹议题与纽约股市主要指数走势同时被提及。已明确的相关数据是S&P500和纳斯达克创下历史最高水平；道琼斯指数等其他指标以及具体涨跌幅并未提供。该报道显示，地缘政治变量与美国主要股指强势表现被同时关注。来源：引用自 hankyung.com。"
-      },
-      "es": {
-        "title": "S&P 500 y Nasdaq marcan récords ante expectativas sobre Ormuz",
-        "excerpt": "Según un informe bursátil de Nueva York, el S&P 500 y el Nasdaq alcanzaron máximos históricos mientras crecía la atención sobre una posible reapertura del estrecho de Ormuz.",
-        "body": "Un informe bursátil de Nueva York señaló que el S&P 500 y el Nasdaq alcanzaron máximos históricos mientras se mencionaba la posibilidad de que el estrecho de Ormuz se abriera. El punto central del titular original es la relación entre el tema de Ormuz y el desempeño de los principales índices de Wall Street. Los datos indicados son los récords del S&P 500 y del Nasdaq; no se proporcionaron detalles sobre el Dow Jones ni porcentajes concretos de variación. La información muestra que un factor geopolítico y la fortaleza de los principales índices estadounidenses fueron observados al mismo tiempo. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "S&P 500 e Nasdaq batem recordes com foco em possível abertura de Ormuz",
-        "excerpt": "Segundo um briefing do mercado de Nova York, S&P 500 e Nasdaq atingiram máximas históricas enquanto a possível abertura do estreito de Ormuz ganhava atenção.",
-        "body": "Um briefing do mercado acionário de Nova York informou que o S&P 500 e o Nasdaq atingiram máximas históricas enquanto era discutida a possibilidade de abertura do estreito de Ormuz. O ponto central do título original é a ligação entre a questão de Ormuz e o movimento dos principais índices dos EUA. Os dados citados são os recordes do S&P 500 e do Nasdaq; detalhes sobre o Dow Jones ou variações percentuais específicas não foram fornecidos. A reportagem mostra que uma variável geopolítica e a força dos principais índices americanos foram acompanhadas em conjunto. Fonte: citação de hankyung.com."
-      },
-      "de": {
-        "title": "S&P 500 und Nasdaq auf Rekordhoch bei Fokus auf Hormus",
-        "excerpt": "Laut einem New Yorker Börsenbriefing erreichten S&P 500 und Nasdaq Rekordstände, während die mögliche Öffnung der Straße von Hormus in den Blick rückte.",
-        "body": "Ein New Yorker Börsenbriefing berichtete, dass S&P 500 und Nasdaq Rekordstände erreichten, während die Möglichkeit einer Öffnung der Straße von Hormus thematisiert wurde. Der Kern der ursprünglichen Überschrift ist die Verbindung zwischen dem Hormus-Thema und der Entwicklung wichtiger US-Aktienindizes. Als konkrete Angaben werden die Rekordhochs von S&P 500 und Nasdaq genannt; Details zum Dow Jones oder genaue prozentuale Veränderungen wurden nicht bereitgestellt. Der Bericht zeigt, dass ein geopolitischer Faktor und die Stärke wichtiger US-Indizes zugleich beobachtet wurden. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "S&P 500 et Nasdaq au plus haut avec l’attention sur Ormuz",
-        "excerpt": "Selon un point sur la Bourse de New York, le S&P 500 et le Nasdaq ont atteint des records alors que la possible ouverture du détroit d’Ormuz attirait l’attention.",
-        "body": "Un point sur la Bourse de New York a rapporté que le S&P 500 et le Nasdaq ont atteint des niveaux records alors que la possibilité d’une ouverture du détroit d’Ormuz était évoquée. L’élément central du titre original est le lien entre le dossier d’Ormuz et l’évolution des grands indices américains. Les données mentionnées sont les records du S&P 500 et du Nasdaq; aucun détail n’a été fourni sur le Dow Jones ni sur des variations chiffrées précises. Le reportage montre qu’un facteur géopolitique et la vigueur des principaux indices américains ont été observés simultanément. Source: cité de hankyung.com."
-      },
-      "ar": {
-        "title": "S&P 500 وناسداك يسجلان قمما قياسية وسط ترقب بشأن هرمز",
-        "excerpt": "وفقا لموجز عن بورصة نيويورك، سجل مؤشرا S&P 500 وناسداك مستويين قياسيين مع تزايد الاهتمام بإمكانية فتح مضيق هرمز.",
-        "body": "أفاد موجز عن بورصة نيويورك بأن مؤشري S&P 500 وناسداك سجلا مستويين قياسيين في الوقت الذي جرى فيه تسليط الضوء على احتمال فتح مضيق هرمز. وتتمثل النقطة الأساسية في العنوان الأصلي في الربط بين قضية هرمز وحركة المؤشرات الرئيسية في السوق الأميركية. أما الأرقام المذكورة فهي القمم القياسية لمؤشري S&P 500 وناسداك، بينما لم تقدم تفاصيل عن مؤشر داو جونز أو نسب التغير المحددة. ويظهر التقرير أن عاملا جيوسياسيا وقوة المؤشرات الأميركية الرئيسية كانا موضع متابعة في الوقت نفسه. المصدر: نقلا عن hankyung.com."
-      },
-      "hi": {
-        "title": "हॉर्मुज पर उम्मीदों के बीच S&P 500 और नैस्डैक रिकॉर्ड ऊंचाई पर",
-        "excerpt": "न्यूयॉर्क शेयर बाजार ब्रीफिंग के अनुसार, हॉर्मुज जलडमरूमध्य खुलने की संभावना पर ध्यान के बीच S&P 500 और नैस्डैक रिकॉर्ड ऊंचाई पर पहुंचे।",
-        "body": "न्यूयॉर्क शेयर बाजार ब्रीफिंग ने बताया कि हॉर्मुज जलडमरूमध्य के खुलने की संभावना पर चर्चा के बीच अमेरिकी बाजार में S&P 500 और नैस्डैक रिकॉर्ड ऊंचाई पर पहुंच गए। मूल शीर्षक का मुख्य बिंदु हॉर्मुज मुद्दे और न्यूयॉर्क शेयर बाजार के प्रमुख सूचकांकों की चाल को साथ रखना है। उपलब्ध संबंधित जानकारी में S&P 500 और नैस्डैक के रिकॉर्ड स्तर का उल्लेख है; डाउ जोन्स या सटीक प्रतिशत बदलाव जैसे विवरण प्रदान नहीं किए गए। यह रिपोर्ट दिखाती है कि भू-राजनीतिक कारक और प्रमुख अमेरिकी सूचकांकों की मजबूती साथ-साथ देखी गई। स्रोत: hankyung.com से उद्धृत।"
-      },
-      "id": {
-        "title": "S&P 500 dan Nasdaq Cetak Rekor saat Isu Hormuz Jadi Fokus",
-        "excerpt": "Menurut briefing bursa New York, S&P 500 dan Nasdaq mencapai rekor tertinggi ketika perhatian tertuju pada kemungkinan dibukanya Selat Hormuz.",
-        "body": "Briefing bursa New York melaporkan bahwa S&P 500 dan Nasdaq mencetak rekor tertinggi ketika kemungkinan dibukanya Selat Hormuz menjadi perhatian. Pokok utama dalam judul asli adalah hubungan antara isu Hormuz dan pergerakan indeks utama saham AS. Data yang disebutkan adalah rekor tertinggi S&P 500 dan Nasdaq; rincian mengenai Dow Jones atau persentase perubahan yang tepat tidak disediakan. Laporan ini menunjukkan bahwa variabel geopolitik dan kekuatan indeks utama Amerika Serikat menjadi sorotan pada saat yang sama. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "e407117cc0d4",
-    "slug": "셀트리온-美-공장-매출-반영으로-성장-지속될-것목표가-다올-843737",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T22:58:00.771Z",
-    "updatedAt": "2026-05-06T22:58:00.771Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050701956",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050701956",
-    "titleFingerprint": "402303386791788ca741e926ff5e5273bfef7944",
-    "dedupKeys": [
-      "e407117cc0d4c787fa49237a7782a7a6444f3603",
-      "402303386791788ca741e926ff5e5273bfef7944",
-      "0802ddad983506f6baa89db452911c05be1bc0f2"
-    ],
-    "imageUrl": "/images/articles/e407117cc0d4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "셀트리온 목표가 상향, 미국 공장 매출 반영에 성장 기대 확대",
-        "excerpt": "다올투자증권은 셀트리온의 미국 생산시설 매출 반영과 수익성 개선 가능성을 근거로 성장 지속 전망을 제시하며 목표가를 올렸다.",
-        "body": "다올투자증권은 셀트리온에 대해 미국 공장 매출 반영이 본격화되며 성장세가 이어질 것으로 보고 목표주가를 상향했다. 셀트리온은 미국 뉴저지주 브랜치버그 소재 생산시설 인수를 마무리했고, 인수 직후 릴리 바이오의약품 위탁생산(CMO)에 돌입했다. 한국경제 보도에 따르면 해당 CMO 규모는 약 6787억원이다. 회사는 현지 생산시설을 통해 미국 관세 리스크를 낮추고 CDMO 사업을 확대할 계획이다. 다올은 미국 공장 매출과 신규 제품 중심의 성장이 실적 개선 요인이 될 것으로 봤다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Celltrion Target Raised as U.S. Plant Revenue Boosts Growth Outlook",
-        "excerpt": "Daol Investment & Securities raised its target for Celltrion, citing expected revenue recognition from its U.S. manufacturing site and continued earnings growth.",
-        "body": "Daol Investment & Securities raised its target price for Celltrion, saying growth is likely to continue as revenue from the company’s U.S. plant begins to be reflected. Celltrion completed the acquisition of a production facility in Branchburg, New Jersey, and began contract manufacturing for Eli Lilly biopharmaceutical products immediately after the deal. According to Hankyung, the CMO contract is worth about 678.7 billion won. The company plans to reduce U.S. tariff risk through local production and expand its CDMO business. Daol viewed U.S. plant revenue and new product-led growth as factors supporting earnings improvement. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "セルトリオン目標株価引き上げ、米工場売上反映で成長期待",
-        "excerpt": "ダオル投資証券は、セルトリオンの米国生産施設の売上反映と収益性改善の可能性を理由に、成長継続を見込み目標株価を引き上げた。",
-        "body": "ダオル投資証券は、セルトリオンについて米国工場の売上反映が本格化し、成長が続くとみて目標株価を引き上げた。セルトリオンは米ニュージャージー州ブランチバーグの生産施設買収を完了し、買収直後からイーライリリーのバイオ医薬品受託生産に入った。韓国経済新聞によると、同CMOの規模は約6787億ウォン。会社は現地生産施設を通じて米国関税リスクを抑え、CDMO事業を拡大する計画だ。ダオルは米工場売上と新製品中心の成長を業績改善要因と見ている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "赛特瑞恩目标价上调，美国工厂收入纳入提升增长预期",
-        "excerpt": "Daol投资证券认为，赛特瑞恩美国生产设施收入将反映在业绩中，并有望改善盈利能力，因此上调目标价并维持增长判断。",
-        "body": "Daol投资证券上调赛特瑞恩目标价，认为随着美国工厂收入开始反映，公司增长势头将持续。赛特瑞恩已完成收购位于美国新泽西州Branchburg的生产设施，并在收购后立即启动礼来生物医药产品的CMO业务。据《韩国经济》报道，该CMO规模约为6787亿韩元。公司计划通过美国本地生产降低关税风险，并扩大CDMO业务。Daol认为，美国工厂收入和以新产品为中心的增长将成为业绩改善因素。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Celltrion sube su precio objetivo por ingresos de planta en EE. UU.",
-        "excerpt": "Daol Investment & Securities elevó su precio objetivo para Celltrion al prever que los ingresos de su planta estadounidense y la mejora de rentabilidad sostendrán el crecimiento.",
-        "body": "Daol Investment & Securities elevó el precio objetivo de Celltrion al considerar que el crecimiento continuará a medida que se reflejen los ingresos de su planta en Estados Unidos. Celltrion completó la adquisición de una instalación de producción en Branchburg, Nueva Jersey, y comenzó de inmediato la fabricación por contrato de productos biofarmacéuticos de Eli Lilly. Según Hankyung, el contrato CMO asciende a unos 678.700 millones de wones. La empresa planea reducir el riesgo arancelario en EE. UU. mediante producción local y ampliar su negocio CDMO. Daol ve los ingresos de la planta estadounidense y los nuevos productos como motores de mejora de resultados. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Celltrion tem preço-alvo elevado com receita de fábrica nos EUA",
-        "excerpt": "A Daol Investment & Securities elevou o preço-alvo da Celltrion, citando a receita esperada da unidade nos EUA e a possibilidade de melhora na rentabilidade.",
-        "body": "A Daol Investment & Securities elevou o preço-alvo da Celltrion ao avaliar que o crescimento deve continuar com a incorporação da receita da fábrica nos Estados Unidos. A Celltrion concluiu a aquisição de uma unidade de produção em Branchburg, Nova Jersey, e iniciou imediatamente a fabricação contratada de biofármacos da Eli Lilly. Segundo o Hankyung, o contrato CMO tem valor de cerca de 678,7 bilhões de won. A empresa pretende reduzir riscos tarifários nos EUA com produção local e ampliar o negócio de CDMO. Para a Daol, a receita da fábrica americana e o crescimento de novos produtos apoiam a melhora dos resultados. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Celltrion-Kursziel steigt, US-Werkumsatz stützt Wachstumsausblick",
-        "excerpt": "Daol Investment & Securities hob das Kursziel für Celltrion an und verwies auf erwartete Umsätze aus dem US-Werk sowie mögliche Verbesserungen der Profitabilität.",
-        "body": "Daol Investment & Securities hat das Kursziel für Celltrion angehoben, da sich nach Einschätzung des Hauses Umsätze aus dem US-Werk zunehmend in den Zahlen niederschlagen und das Wachstum anhalten dürfte. Celltrion schloss die Übernahme einer Produktionsanlage in Branchburg im US-Bundesstaat New Jersey ab und begann unmittelbar danach mit der Auftragsfertigung von Biopharmazeutika für Eli Lilly. Laut Hankyung hat der CMO-Auftrag ein Volumen von rund 678,7 Milliarden Won. Das Unternehmen will durch lokale Produktion US-Zollrisiken senken und das CDMO-Geschäft ausbauen. Daol sieht US-Werkumsätze und neue Produkte als Treiber der Ergebnisverbesserung. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Celltrion relevé par Daol grâce aux revenus de son usine américaine",
-        "excerpt": "Daol Investment & Securities a relevé son objectif sur Celltrion, citant l’intégration attendue des revenus de l’usine américaine et une amélioration possible de la rentabilité.",
-        "body": "Daol Investment & Securities a relevé son objectif de cours sur Celltrion, estimant que la croissance devrait se poursuivre avec la prise en compte des revenus de l’usine américaine. Celltrion a finalisé l’acquisition d’un site de production à Branchburg, dans le New Jersey, puis a immédiatement lancé la fabrication sous contrat de produits biopharmaceutiques pour Eli Lilly. Selon Hankyung, le contrat CMO représente environ 678,7 milliards de wons. L’entreprise prévoit de réduire le risque tarifaire américain grâce à la production locale et d’étendre son activité CDMO. Daol considère les revenus de l’usine américaine et les nouveaux produits comme des facteurs d’amélioration des résultats. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لسيلتريون مع إدراج إيرادات مصنعها الأمريكي",
-        "excerpt": "رفعت داول للاستثمار والأوراق المالية السعر المستهدف لسيلتريون، مستندة إلى توقع انعكاس إيرادات منشأتها الأمريكية وتحسن الربحية واستمرار النمو.",
-        "body": "رفعت داول للاستثمار والأوراق المالية السعر المستهدف لسيلتريون، معتبرة أن النمو سيستمر مع بدء انعكاس إيرادات المصنع الأمريكي في النتائج. أكملت سيلتريون الاستحواذ على منشأة إنتاج في برانشبرغ بولاية نيوجيرسي، وبدأت مباشرة تصنيع أدوية حيوية بعقد لصالح إيلاي ليلي. ووفق ما نقلته هانكيونغ، تبلغ قيمة عقد التصنيع بنظام CMO نحو 678.7 مليار وون. وتخطط الشركة لخفض مخاطر الرسوم الأمريكية عبر الإنتاج المحلي وتوسيع نشاط CDMO. وترى داول أن إيرادات المصنع الأمريكي والنمو المرتكز على المنتجات الجديدة سيدعمان تحسن الأداء. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "अमेरिकी संयंत्र आय से Celltrion का लक्ष्य मूल्य बढ़ा, वृद्धि की उम्मीद मजबूत",
-        "excerpt": "Daol Investment & Securities ने अमेरिकी उत्पादन सुविधा से आय जुड़ने और लाभप्रदता सुधार की संभावना के आधार पर Celltrion का लक्ष्य मूल्य बढ़ाया।",
-        "body": "Daol Investment & Securities ने Celltrion का लक्ष्य मूल्य बढ़ाया है। उसका मानना है कि कंपनी के अमेरिकी संयंत्र से आय परिणामों में दिखने लगेगी और वृद्धि जारी रहेगी। Celltrion ने न्यू जर्सी के Branchburg स्थित उत्पादन सुविधा का अधिग्रहण पूरा किया और इसके तुरंत बाद Eli Lilly के बायोफार्मा उत्पादों के लिए CMO उत्पादन शुरू किया। Hankyung के अनुसार, इस CMO अनुबंध का आकार करीब 678.7 अरब वॉन है। कंपनी स्थानीय उत्पादन के जरिए अमेरिकी टैरिफ जोखिम घटाने और CDMO कारोबार बढ़ाने की योजना रखती है। Daol ने अमेरिकी संयंत्र आय और नए उत्पादों की वृद्धि को प्रदर्शन सुधार का आधार माना। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Celltrion Naik, Pendapatan Pabrik AS Dorong Prospek Pertumbuhan",
-        "excerpt": "Daol Investment & Securities menaikkan target harga Celltrion karena pendapatan dari fasilitas produksi AS dan peluang perbaikan profitabilitas dinilai menopang pertumbuhan.",
-        "body": "Daol Investment & Securities menaikkan target harga Celltrion dengan pandangan bahwa pertumbuhan akan berlanjut seiring mulai tercerminnya pendapatan dari pabrik AS. Celltrion telah menyelesaikan akuisisi fasilitas produksi di Branchburg, New Jersey, dan langsung memulai produksi kontrak untuk produk biofarmasi Eli Lilly. Menurut Hankyung, nilai kontrak CMO tersebut sekitar 678,7 miliar won. Perusahaan berencana menekan risiko tarif AS melalui produksi lokal dan memperluas bisnis CDMO. Daol menilai pendapatan pabrik AS serta pertumbuhan berbasis produk baru sebagai faktor yang mendukung perbaikan kinerja. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "515c7bab637e",
-    "slug": "한경-프리미엄9-클릭-폭주수익률-상위-1-매매종목-인기-498978",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T22:34:34.916Z",
-    "updatedAt": "2026-05-06T22:34:34.916Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696241",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696241",
-    "titleFingerprint": "19dd2960677abeda11ed25dca4468221ca921411",
-    "dedupKeys": [
-      "515c7bab637e570e30dd08b6a9ec247eaf3b72e6",
-      "19dd2960677abeda11ed25dca4468221ca921411",
-      "af9f316420f0a489a4b0da3293769007acd1afc5"
-    ],
-    "imageUrl": "/images/articles/515c7bab637e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한경 프리미엄9 클릭 폭주, ‘수익률 상위 1% 매매종목’ 인기 집중",
-        "excerpt": "한경 프리미엄9에서 ‘수익률 상위 1% 매매종목’ 콘텐츠가 높은 클릭 반응을 얻으며 투자자 관심이 집중됐다고 hankyung.com이 전했다.",
-        "body": "한경 프리미엄9에서 ‘수익률 상위 1% 매매종목’ 콘텐츠에 클릭이 몰리며 높은 관심을 받고 있다. hankyung.com에 따르면 해당 콘텐츠는 수익률 상위 1% 투자자의 매매종목을 다룬 점에서 이용자들의 주목을 끌었다. 원문에 별도 요약이나 세부 수치는 제시되지 않았지만, 제목상 핵심 반응은 ‘클릭 폭주’와 ‘인기’로 압축된다. 투자 정보 수요가 커지는 가운데 실제 성과 상위권의 매매 흐름을 확인하려는 관심이 한경 프리미엄9 콘텐츠 소비로 이어진 것으로 보인다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Hankyung Premium9 Sees Click Surge as Top 1% Trading Picks Draw Interest",
-        "excerpt": "Hankyung Premium9’s content on trading stocks held by the top 1% of return earners drew heavy clicks and investor attention, hankyung.com reported.",
-        "body": "Hankyung Premium9 is drawing strong attention after clicks surged on its content titled around the “trading stocks of the top 1% by returns.” According to hankyung.com, users focused on the item because it covers stocks traded by investors in the highest return group. The original information provided no separate summary or detailed figures, but the key response in the headline is clear: heavy clicks and popularity. As demand for investment information grows, interest in tracking the trading flow of top-performing investors appears to be leading users to Hankyung Premium9 content. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓経プレミアム9でクリック急増、収益率上位1%の売買銘柄に関心",
-        "excerpt": "韓経プレミアム9で「収益率上位1%の売買銘柄」コンテンツにクリックが集中し、投資家の関心を集めているとhankyung.comが伝えた。",
-        "body": "韓経プレミアム9で「収益率上位1%の売買銘柄」を扱うコンテンツにクリックが集中し、高い関心を集めている。hankyung.comによると、このコンテンツは収益率上位1%の投資家が売買した銘柄を扱う点で利用者の注目を引いた。原文には別途の要約や詳細な数値は示されていないが、見出し上の核心的な反応は「クリック急増」と「人気」に要約される。投資情報への需要が高まるなか、好成績投資家の売買動向を確認したい関心が韓経プレミアム9の利用につながったとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩经Premium9点击激增，收益率前1%交易标的受关注",
-        "excerpt": "hankyung.com报道称，韩经Premium9中关于“收益率前1%交易标的”的内容获得大量点击，吸引了投资者关注。",
-        "body": "韩经Premium9中有关“收益率前1%交易标的”的内容点击量集中，正受到较高关注。据hankyung.com报道，该内容因涉及收益率排名前1%投资者的交易标的而吸引用户目光。原文未提供单独摘要或具体数据，但标题所呈现的核心反应可概括为“点击激增”和“人气上升”。在投资信息需求扩大的背景下，用户希望了解高收益群体的交易动向，这一关注正转化为对韩经Premium9内容的消费。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Hankyung Premium9 dispara clics por valores operados por el 1% con más rentabilidad",
-        "excerpt": "El contenido de Hankyung Premium9 sobre valores negociados por el 1% con mayor rentabilidad concentró clics y atención inversora, informó hankyung.com.",
-        "body": "Hankyung Premium9 está recibiendo fuerte atención tras una oleada de clics en su contenido sobre los “valores operados por el 1% superior en rentabilidad”. Según hankyung.com, el interés se debe a que el contenido trata los valores negociados por inversores ubicados en el grupo de mayor rendimiento. La información original no incluyó un resumen separado ni cifras detalladas, pero la reacción central del titular es clara: aumento intenso de clics y popularidad. En medio de una mayor demanda de información de inversión, el interés por seguir las operaciones de inversores con mejores resultados se refleja en el consumo de Hankyung Premium9. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Hankyung Premium9 tem surto de cliques em ações negociadas pelo 1% mais rentável",
-        "excerpt": "O conteúdo do Hankyung Premium9 sobre ações negociadas pelo 1% com maior rentabilidade atraiu muitos cliques e atenção de investidores, informou hankyung.com.",
-        "body": "O Hankyung Premium9 vem recebendo forte atenção após uma concentração de cliques em seu conteúdo sobre as “ações negociadas pelo 1% superior em rentabilidade”. Segundo hankyung.com, o interesse surgiu porque o material aborda papéis comprados e vendidos por investidores do grupo de maior retorno. A informação original não trouxe resumo separado nem números detalhados, mas a reação principal do título é clara: surto de cliques e popularidade. Com a demanda por informação de investimento em alta, o interesse em acompanhar o fluxo de negociação de investidores de melhor desempenho se reflete no consumo do Hankyung Premium9. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Hankyung Premium9 meldet Klickansturm auf Trades der renditestärksten 1 Prozent",
-        "excerpt": "Inhalte von Hankyung Premium9 zu Aktiengeschäften der renditestärksten 1 Prozent erhielten viele Klicks und Anlegeraufmerksamkeit, berichtete hankyung.com.",
-        "body": "Hankyung Premium9 verzeichnet starke Aufmerksamkeit, nachdem Inhalte zu den „Handelswerten der renditestärksten 1 Prozent“ viele Klicks ausgelöst haben. Laut hankyung.com interessierten sich Nutzer besonders dafür, weil der Beitrag Aktien behandelt, die von Anlegern aus der Spitzengruppe nach Rendite gehandelt wurden. Eine separate Zusammenfassung oder detaillierte Zahlen wurden in den vorliegenden Originalangaben nicht genannt, doch die Kernaussage des Titels ist eindeutig: Klickansturm und Popularität. Bei wachsender Nachfrage nach Anlageinformationen richtet sich das Interesse auf die Handelsbewegungen besonders erfolgreicher Anleger. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Hankyung Premium9 voit les clics affluer sur les titres du top 1% des rendements",
-        "excerpt": "Le contenu de Hankyung Premium9 sur les titres négociés par le top 1% des rendements a attiré de nombreux clics et l’attention des investisseurs, selon hankyung.com.",
-        "body": "Hankyung Premium9 attire une forte attention après un afflux de clics sur son contenu consacré aux “titres négociés par le top 1% des rendements”. Selon hankyung.com, ce contenu a retenu l’intérêt des utilisateurs parce qu’il traite des valeurs achetées et vendues par les investisseurs les mieux classés en matière de rendement. Les informations originales ne fournissent pas de résumé séparé ni de chiffres détaillés, mais la réaction mise en avant par le titre est claire: forte hausse des clics et popularité. Avec la demande croissante d’informations d’investissement, l’intérêt pour les mouvements des meilleurs investisseurs se reflète dans la consommation de Hankyung Premium9. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هانكيونغ بريميوم9 يشهد طفرة نقرات على أسهم تداولها أعلى 1% عائدا",
-        "excerpt": "أفاد hankyung.com بأن محتوى هانكيونغ بريميوم9 عن الأسهم التي تداولها أعلى 1% من حيث العائد جذب نقرات كثيفة واهتمام المستثمرين.",
-        "body": "يشهد هانكيونغ بريميوم9 اهتماما قويا بعد تركز النقرات على محتوى يتناول “أسهم التداول لدى أعلى 1% من حيث العائد”. ووفقا لـ hankyung.com، جذب هذا المحتوى انتباه المستخدمين لأنه يعرض الأسهم التي تداولها مستثمرون ضمن الشريحة الأعلى أداء من حيث العائد. لم تتضمن المعلومات الأصلية ملخصا منفصلا أو أرقاما تفصيلية، لكن رد الفعل الأساسي في العنوان واضح: طفرة في النقرات وشعبية. ومع تزايد الطلب على معلومات الاستثمار، يبدو أن الاهتمام بمتابعة تحركات تداول المستثمرين الأعلى أداء ينعكس في استهلاك محتوى هانكيونغ بريميوم9. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Hankyung Premium9 पर क्लिक उछले, शीर्ष 1% रिटर्न वाले ट्रेडिंग शेयर लोकप्रिय",
-        "excerpt": "hankyung.com के अनुसार Hankyung Premium9 में शीर्ष 1% रिटर्न वाले निवेशकों के ट्रेडिंग शेयरों पर सामग्री को भारी क्लिक और निवेशक रुचि मिली।",
-        "body": "Hankyung Premium9 में “रिटर्न के शीर्ष 1% निवेशकों के ट्रेडिंग शेयरों” से जुड़ी सामग्री पर क्लिक तेजी से बढ़े हैं और इसे मजबूत ध्यान मिल रहा है। hankyung.com के अनुसार, यह सामग्री इसलिए चर्चा में आई क्योंकि यह उच्चतम रिटर्न समूह के निवेशकों द्वारा खरीदे-बेचे गए शेयरों को कवर करती है। मूल जानकारी में अलग सारांश या विस्तृत आंकड़े नहीं दिए गए, लेकिन शीर्षक में मुख्य प्रतिक्रिया स्पष्ट है: क्लिकों की बाढ़ और लोकप्रियता। निवेश सूचना की मांग बढ़ने के बीच, बेहतर प्रदर्शन करने वाले निवेशकों की ट्रेडिंग दिशा देखने की रुचि Hankyung Premium9 सामग्री की खपत में दिख रही है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Hankyung Premium9 Kebanjiran Klik, Saham Transaksi Top 1% Return Jadi Sorotan",
-        "excerpt": "Konten Hankyung Premium9 tentang saham yang ditransaksikan investor dengan return 1% teratas menarik banyak klik dan perhatian investor, lapor hankyung.com.",
-        "body": "Hankyung Premium9 mendapat perhatian kuat setelah klik menumpuk pada konten tentang “saham transaksi investor dengan return 1% teratas”. Menurut hankyung.com, konten ini menarik perhatian pengguna karena membahas saham yang dibeli dan dijual oleh investor dalam kelompok return tertinggi. Informasi asli tidak menyertakan ringkasan terpisah atau angka rinci, tetapi reaksi utama dalam judul jelas: lonjakan klik dan popularitas. Di tengah meningkatnya kebutuhan informasi investasi, minat untuk melihat arus transaksi investor berkinerja tinggi tercermin dalam konsumsi konten Hankyung Premium9. Sumber: hankyung.com"
       }
     }
   }
