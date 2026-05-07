@@ -1,0 +1,75 @@
+{
+  "id": "c50b71d0a654",
+  "slug": "토지거래허가구역에서-매매-효력-계약보다-허가가-좌우한다-269111",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-07T21:17:32.708Z",
+  "updatedAt": "2026-05-07T21:17:32.708Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026050707781",
+  "canonicalUrl": "https://www.hankyung.com/article/2026050707781",
+  "titleFingerprint": "aa5ca27bfe0a248749b422bca02d50cf52d492bf",
+  "dedupKeys": [
+    "c50b71d0a6544f089f8fa03667ceafcfdd58f0b4",
+    "aa5ca27bfe0a248749b422bca02d50cf52d492bf",
+    "7eec6184204e9f189ca9a74e359b1fbf1db3882f"
+  ],
+  "imageUrl": "/images/articles/c50b71d0a654.jpg",
+  "i18n": {
+    "ko": {
+      "title": "토지거래허가구역 매매 효력, 계약서보다 ‘허가 여부’가 좌우한다",
+      "excerpt": "hankyung.com은 토지거래허가구역 내 부동산 매매에서 계약 체결만으로 효력이 확정되지 않고 관할 허가 여부가 핵심 변수가 된다고 전했다.",
+      "body": "토지거래허가구역에서 부동산을 사고팔 때 매매의 효력은 계약서 작성이나 당사자 합의만으로 결정되지 않고, 허가 여부에 따라 좌우된다고 hankyung.com이 보도했다. 해당 보도는 토지거래허가구역 내 거래가 일반 매매와 달리 행정적 허가 절차를 전제로 한다는 점을 짚었다. 계약을 체결했더라도 허가가 나지 않으면 거래 효력과 이행 가능성에 중대한 영향을 받을 수 있다는 취지다. 이에 따라 매수자와 매도자는 계약 단계에서 허가 요건과 절차를 먼저 확인해야 하며, 허가 여부가 분쟁과 거래 일정의 핵심 변수가 될 수 있다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "In Land Transaction Permit Zones, Approval Decides Sale Validity More Than Contracts",
+      "excerpt": "hankyung.com reported that in land transaction permit zones, real estate sale validity is not finalized by contract signing alone, with official approval becoming the key factor.",
+      "body": "In land transaction permit zones, the validity of a real estate sale is determined not only by a written contract or agreement between the parties, but by whether approval is granted, hankyung.com reported. The report noted that transactions in these zones differ from ordinary sales because they are premised on an administrative permit process. Even after a contract is signed, a failure to obtain approval can have a significant effect on the transaction’s validity and ability to proceed. Buyers and sellers therefore need to check permit requirements and procedures at the contract stage, as approval can become a central factor in disputes and transaction timing. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "土地取引許可区域の売買効力、契約書よりも「許可の有無」が左右",
+      "excerpt": "hankyung.comは、土地取引許可区域内の不動産売買では契約締結だけで効力は確定せず、管轄当局の許可が核心要因になると伝えた。",
+      "body": "土地取引許可区域で不動産を売買する場合、売買の効力は契約書の作成や当事者間の合意だけでは決まらず、許可の有無に左右されるとhankyung.comが報じた。同報道は、同区域内の取引が一般的な売買と異なり、行政上の許可手続きを前提としている点を指摘した。契約を締結していても、許可が下りなければ取引の効力や履行可能性に重大な影響が及ぶ可能性があるという趣旨だ。そのため買主と売主は、契約段階で許可要件と手続きを確認する必要があり、許可の有無が紛争や取引日程の重要な変数となり得る。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "土地交易许可区内买卖效力，较合同更取决于“是否获批”",
+      "excerpt": "hankyung.com报道称，在土地交易许可区内，房地产买卖并非仅凭签订合同即确定效力，主管部门许可成为关键因素。",
+      "body": "hankyung.com报道称，在土地交易许可区内买卖房地产时，交易效力并不只由合同签署或当事人合意决定，而是取决于是否获得许可。报道指出，该区域内交易不同于一般买卖，其前提是行政许可程序。即使已经签订合同，如果未能获得许可，交易效力和履行可能性也可能受到重大影响。由此，买方和卖方应在合同阶段先确认许可条件和程序，许可与否可能成为争议和交易日程中的核心变量。来源: hankyung.com"
+    },
+    "es": {
+      "title": "En zonas con permiso de transacción de tierras, la aprobación pesa más que el contrato",
+      "excerpt": "hankyung.com informó que, en zonas sujetas a permiso de transacción de tierras, la validez de una compraventa inmobiliaria no queda fijada solo por el contrato.",
+      "body": "En las zonas sujetas a permiso de transacción de tierras, la validez de una compraventa inmobiliaria no se decide únicamente por la firma del contrato o el acuerdo entre las partes, sino por la concesión del permiso, informó hankyung.com. El reporte señaló que estas operaciones difieren de una compraventa ordinaria porque presuponen un trámite administrativo de autorización. Aunque el contrato ya se haya firmado, la falta de aprobación puede afectar de forma importante la validez y la posibilidad de ejecutar la operación. Por ello, comprador y vendedor deben revisar los requisitos y procedimientos de permiso desde la fase contractual, ya que la aprobación puede ser un factor central en disputas y calendarios de cierre. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "Em zonas com licença para transações de terra, aprovação pesa mais que contrato",
+      "excerpt": "hankyung.com informou que, em zonas sujeitas a licença de transação de terras, a validade da venda imobiliária não é definida apenas pela assinatura do contrato.",
+      "body": "Em zonas sujeitas a licença para transações de terra, a validade de uma compra e venda imobiliária não é determinada apenas pela assinatura do contrato ou pelo acordo entre as partes, mas pela concessão da autorização, informou hankyung.com. A reportagem destacou que essas transações diferem de vendas comuns porque dependem de um procedimento administrativo de licença. Mesmo após a assinatura do contrato, a ausência de aprovação pode afetar de modo relevante a validade e a possibilidade de execução da operação. Assim, comprador e vendedor devem verificar requisitos e procedimentos já na etapa contratual, pois a licença pode se tornar fator central em disputas e prazos. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "In Genehmigungszonen für Landtransaktionen zählt die Erlaubnis mehr als der Vertrag",
+      "excerpt": "hankyung.com berichtete, dass in Genehmigungszonen für Landtransaktionen die Wirksamkeit eines Immobilienkaufs nicht allein durch Vertragsabschluss feststeht.",
+      "body": "In Genehmigungszonen für Landtransaktionen hängt die Wirksamkeit eines Immobilienkaufs nicht allein von einem schriftlichen Vertrag oder der Einigung der Parteien ab, sondern davon, ob die Genehmigung erteilt wird, berichtete hankyung.com. Der Bericht hob hervor, dass solche Geschäfte anders als gewöhnliche Verkäufe ein administratives Genehmigungsverfahren voraussetzen. Selbst wenn ein Vertrag bereits geschlossen wurde, kann eine ausbleibende Genehmigung erhebliche Auswirkungen auf Wirksamkeit und Durchführbarkeit der Transaktion haben. Käufer und Verkäufer sollten daher bereits in der Vertragsphase Voraussetzungen und Verfahren prüfen, da die Genehmigung zu einem zentralen Faktor für Streitigkeiten und Zeitpläne werden kann. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "Dans les zones soumises à permis foncier, l’autorisation prime sur le contrat",
+      "excerpt": "hankyung.com rapporte que, dans les zones soumises à permis de transaction foncière, la validité d’une vente immobilière ne dépend pas du seul contrat signé.",
+      "body": "Dans les zones soumises à permis de transaction foncière, la validité d’une vente immobilière n’est pas déterminée uniquement par la rédaction du contrat ou l’accord des parties, mais par l’obtention de l’autorisation, a rapporté hankyung.com. Le média souligne que ces transactions diffèrent des ventes ordinaires car elles reposent sur une procédure administrative préalable. Même après la signature d’un contrat, l’absence d’autorisation peut avoir un effet majeur sur la validité et la possibilité d’exécuter l’opération. Acheteurs et vendeurs doivent donc vérifier les conditions et démarches dès l’étape contractuelle, l’autorisation pouvant devenir un facteur central de litiges et de calendrier. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "في مناطق تصاريح تداول الأراضي، صلاحية البيع يحسمها الترخيص لا العقد",
+      "excerpt": "أفاد hankyung.com بأن صفقات العقارات داخل مناطق تصاريح تداول الأراضي لا تكتسب فعاليتها بمجرد توقيع العقد، إذ يصبح الحصول على الموافقة العامل الحاسم.",
+      "body": "أفاد hankyung.com بأن بيع العقارات داخل مناطق تصاريح تداول الأراضي لا تتحدد صلاحيته بمجرد إعداد العقد أو اتفاق الأطراف، بل تتوقف على ما إذا كانت الموافقة الرسمية ستصدر. وأشار التقرير إلى أن هذه المعاملات تختلف عن البيع العادي لأنها تفترض وجود إجراء إداري للترخيص. وحتى بعد توقيع العقد، فإن عدم الحصول على الموافقة قد يؤثر بصورة مهمة في صلاحية الصفقة وإمكان تنفيذها. لذلك يتعين على المشتري والبائع التحقق من شروط الترخيص وإجراءاته في مرحلة التعاقد، لأن صدور الموافقة أو عدمه قد يصبح عاملا محوريا في النزاعات وجدول إتمام الصفقة. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "भूमि लेनदेन परमिट क्षेत्र में बिक्री की वैधता, अनुबंध से ज्यादा मंजूरी पर निर्भर",
+      "excerpt": "hankyung.com के अनुसार भूमि लेनदेन परमिट क्षेत्रों में रियल एस्टेट बिक्री की वैधता केवल अनुबंध से तय नहीं होती, बल्कि आधिकारिक मंजूरी मुख्य कारक है।",
+      "body": "hankyung.com ने बताया कि भूमि लेनदेन परमिट क्षेत्रों में अचल संपत्ति की खरीद-बिक्री की वैधता केवल अनुबंध लिखने या पक्षों की सहमति से तय नहीं होती, बल्कि इस पर निर्भर करती है कि अनुमति मिलती है या नहीं। रिपोर्ट में कहा गया कि ऐसे क्षेत्रों में लेनदेन सामान्य बिक्री से अलग है क्योंकि इसके लिए प्रशासनिक अनुमति प्रक्रिया पूर्वशर्त होती है। अनुबंध पर हस्ताक्षर हो जाने के बाद भी, यदि अनुमति नहीं मिलती है तो सौदे की वैधता और उसे पूरा करने की संभावना पर बड़ा असर पड़ सकता है। इसलिए खरीदार और विक्रेता को अनुबंध चरण में ही अनुमति की शर्तों और प्रक्रिया की जांच करनी चाहिए, क्योंकि मंजूरी विवादों और समयसीमा का मुख्य कारक बन सकती है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Di Zona Izin Transaksi Tanah, Keabsahan Jual Beli Lebih Ditentukan Izin",
+      "excerpt": "hankyung.com melaporkan bahwa di zona izin transaksi tanah, keabsahan jual beli properti tidak ditetapkan hanya oleh kontrak, melainkan oleh persetujuan otoritas.",
+      "body": "Di zona izin transaksi tanah, keabsahan jual beli properti tidak ditentukan hanya oleh pembuatan kontrak atau kesepakatan para pihak, tetapi oleh apakah izin diberikan, lapor hankyung.com. Laporan tersebut menyoroti bahwa transaksi di zona ini berbeda dari jual beli biasa karena mensyaratkan prosedur izin administratif. Meski kontrak telah ditandatangani, jika izin tidak keluar, keabsahan transaksi dan kemungkinan pelaksanaannya dapat terdampak signifikan. Karena itu, pembeli dan penjual perlu memeriksa persyaratan serta prosedur izin sejak tahap kontrak, sebab status persetujuan dapat menjadi faktor utama dalam sengketa dan jadwal transaksi. Sumber: hankyung.com"
+    }
+  }
+}
