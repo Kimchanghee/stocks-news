@@ -1,0 +1,75 @@
+{
+  "id": "7e911436b437",
+  "slug": "로봇이-스스로-배우고-알아서-협업까지-209778",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-07T15:37:36.357Z",
+  "updatedAt": "2026-05-07T15:37:36.357Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12039367",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12039367",
+  "titleFingerprint": "55681693240896698cfae02c8f4ec16314bfdb89",
+  "dedupKeys": [
+    "7e911436b43761674abd09042a836baa1da6b435",
+    "55681693240896698cfae02c8f4ec16314bfdb89",
+    "4aa53f4d8fccb549b10eb8dcfbc4209b7228a1b1"
+  ],
+  "imageUrl": "/images/articles/7e911436b437.jpg",
+  "i18n": {
+    "ko": {
+      "title": "LG CNS 피지컬웍스 공개, 로봇이 스스로 배우고 협업하는 RX 플랫폼 현장 운영까지 지원",
+      "excerpt": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개하고, 로봇의 학습·검증부터 운영·관제까지 통합 지원하는 방향을 제시했다.",
+      "body": "LG CNS가 로봇 전환(RX) 플랫폼 브랜드 ‘피지컬웍스’를 공개했다. 피지컬웍스는 로봇을 구매해 현장에 배치하는 수준을 넘어, 로봇의 학습과 검증부터 운영과 관제까지 한 번에 지원하는 플랫폼이다. 이번 공개의 핵심은 로봇이 현장에 들어간 뒤 스스로 배우고 협업할 수 있도록 전 과정을 관리하는 데 있다. 기존 로봇 도입이 장비 확보와 배치에 초점을 맞췄다면, 피지컬웍스는 도입 이후의 운영 안정성과 통합 관제까지 포함한다. 이에 따라 기업 현장의 로봇 전환은 단순 자동화를 넘어 플랫폼 기반 관리 체계로 확장될 수 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "LG CNS Unveils Physical Works, an RX Platform for Robots That Learn and Collaborate",
+      "excerpt": "LG CNS unveiled Physical Works, a robot transformation (RX) platform brand designed to support robot learning, validation, operation and monitoring in one place.",
+      "body": "LG CNS has unveiled Physical Works, a robot transformation (RX) platform brand. Physical Works goes beyond buying robots and placing them on site by supporting the full process from robot learning and validation to operation and monitoring. The key point of the launch is managing the entire cycle so robots can learn on their own and collaborate after being introduced to a worksite. While conventional robot adoption has focused on securing and deploying equipment, Physical Works also includes operational stability and integrated control after deployment. This could expand robot transformation in corporate sites from simple automation to platform-based management. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "LG CNSがPhysical Works公開、自ら学び協業するロボット向けRXプラットフォーム",
+      "excerpt": "LG CNSはロボット転換（RX）プラットフォームブランド「Physical Works」を公開し、学習・検証から運用・管制まで一括支援する方針を示した。",
+      "body": "LG CNSがロボット転換（RX）プラットフォームブランド「Physical Works」を公開した。Physical Worksは、ロボットを購入して現場に配置する段階にとどまらず、ロボットの学習と検証から運用、管制までを一括で支援するプラットフォームだ。今回の公開の焦点は、ロボットが現場に導入された後、自ら学び協業できるよう全過程を管理する点にある。従来のロボット導入が機器の確保と配置に重点を置いていたのに対し、Physical Worksは導入後の運用安定性と統合管制まで含む。企業現場のロボット転換は、単純な自動化を超え、プラットフォーム基盤の管理体制へ広がる可能性がある。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "LG CNS发布Physical Works，支持机器人自主学习协作的RX平台",
+      "excerpt": "LG CNS发布机器人转型（RX）平台品牌Physical Works，提出从机器人学习、验证到运营和管控的一体化支持方向。",
+      "body": "LG CNS发布了机器人转型（RX）平台品牌Physical Works。该平台不只是购买机器人并部署到现场，而是从机器人的学习、验证到运营和管控提供一站式支持。此次发布的核心在于管理机器人进入现场后的全过程，使其能够自主学习并开展协作。以往机器人导入更多聚焦于设备采购和部署，而Physical Works还涵盖导入后的运营稳定性和综合管控。因此，企业现场的机器人转型有望从单纯自动化扩展到基于平台的管理体系。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "LG CNS presenta Physical Works, plataforma RX para robots que aprenden y colaboran",
+      "excerpt": "LG CNS presentó Physical Works, una marca de plataforma de transformación robótica (RX) que integra aprendizaje, validación, operación y supervisión de robots.",
+      "body": "LG CNS presentó Physical Works, una marca de plataforma de transformación robótica (RX). Physical Works va más allá de comprar robots y colocarlos en el sitio, ya que apoya todo el proceso, desde el aprendizaje y la validación de los robots hasta su operación y supervisión. El punto central del lanzamiento es gestionar el ciclo completo para que los robots puedan aprender por sí mismos y colaborar una vez introducidos en el entorno de trabajo. Si la adopción tradicional de robots se centraba en adquirir y desplegar equipos, Physical Works también incluye estabilidad operativa y control integrado tras la instalación. Así, la transformación robótica en empresas puede ampliarse de la automatización simple a una gestión basada en plataforma. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "LG CNS lança Physical Works, plataforma RX para robôs que aprendem e colaboram",
+      "excerpt": "A LG CNS apresentou a Physical Works, marca de plataforma de transformação robótica (RX) que integra aprendizagem, validação, operação e monitoramento.",
+      "body": "A LG CNS apresentou a Physical Works, uma marca de plataforma de transformação robótica (RX). A Physical Works vai além da compra de robôs e sua instalação em campo, oferecendo suporte ao processo completo, da aprendizagem e validação dos robôs à operação e ao monitoramento. O ponto central do lançamento é gerenciar todo o ciclo para que os robôs possam aprender por conta própria e colaborar após serem introduzidos no local de trabalho. Enquanto a adoção tradicional de robôs se concentrava na aquisição e implantação de equipamentos, a Physical Works também inclui estabilidade operacional e controle integrado depois da implantação. Com isso, a transformação robótica nas empresas pode passar da automação simples para uma gestão baseada em plataforma. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "LG CNS stellt Physical Works vor, RX-Plattform für lernende und kooperierende Roboter",
+      "excerpt": "LG CNS hat Physical Works vorgestellt, eine Plattformmarke für Robot Transformation (RX), die Lernen, Validierung, Betrieb und Überwachung bündelt.",
+      "body": "LG CNS hat Physical Works vorgestellt, eine Plattformmarke für Robot Transformation (RX). Physical Works geht über den Kauf und die Platzierung von Robotern am Einsatzort hinaus und unterstützt den gesamten Prozess von Lernen und Validierung bis hin zu Betrieb und Überwachung. Kern der Vorstellung ist die Steuerung des gesamten Ablaufs, damit Roboter nach ihrer Einführung vor Ort selbst lernen und zusammenarbeiten können. Während die bisherige Robotereinführung vor allem auf Beschaffung und Bereitstellung von Geräten ausgerichtet war, umfasst Physical Works auch Betriebsstabilität und integrierte Kontrolle nach der Einführung. Damit kann sich die Robot Transformation in Unternehmen von einfacher Automatisierung zu einem plattformbasierten Managementsystem erweitern. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "LG CNS dévoile Physical Works, plateforme RX pour robots capables d’apprendre et collaborer",
+      "excerpt": "LG CNS a dévoilé Physical Works, une marque de plateforme de transformation robotique (RX) qui réunit apprentissage, validation, exploitation et supervision.",
+      "body": "LG CNS a dévoilé Physical Works, une marque de plateforme de transformation robotique (RX). Physical Works dépasse le simple achat de robots et leur installation sur site en prenant en charge tout le processus, de l’apprentissage et de la validation des robots à leur exploitation et supervision. Le point central de cette annonce est la gestion de l’ensemble du cycle afin que les robots puissent apprendre par eux-mêmes et collaborer après leur introduction sur le terrain. Là où l’adoption traditionnelle des robots se concentrait sur l’acquisition et le déploiement d’équipements, Physical Works inclut aussi la stabilité opérationnelle et le contrôle intégré après déploiement. La transformation robotique en entreprise peut ainsi passer d’une simple automatisation à une gestion fondée sur une plateforme. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "LG CNS تكشف Physical Works منصة RX لروبوتات تتعلم ذاتيا وتتعاون في مواقع العمل",
+      "excerpt": "كشفت LG CNS عن Physical Works، وهي علامة لمنصة التحول الروبوتي RX تدعم تعلم الروبوتات والتحقق منها وتشغيلها ومراقبتها ضمن منظومة واحدة.",
+      "body": "كشفت LG CNS عن Physical Works، وهي علامة لمنصة التحول الروبوتي RX. لا تقتصر Physical Works على شراء الروبوتات ووضعها في مواقع العمل، بل تدعم العملية كاملة من تعلم الروبوتات والتحقق منها إلى التشغيل والمراقبة. ويتمثل جوهر الإعلان في إدارة المسار الكامل بعد إدخال الروبوت إلى الموقع، بحيث يستطيع التعلم ذاتيا والتعاون. وبينما ركز إدخال الروبوتات تقليديا على تأمين المعدات ونشرها، تشمل Physical Works أيضا استقرار التشغيل والتحكم المتكامل بعد النشر. وبذلك يمكن أن يتسع التحول الروبوتي في مواقع الشركات من الأتمتة البسيطة إلى نظام إدارة قائم على منصة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "LG CNS ने Physical Works पेश किया, खुद सीखने और सहयोग करने वाले रोबोटों का RX प्लेटफॉर्म",
+      "excerpt": "LG CNS ने रोबोट ट्रांसफॉर्मेशन (RX) प्लेटफॉर्म ब्रांड Physical Works पेश किया, जो रोबोट लर्निंग, सत्यापन, संचालन और निगरानी को एक साथ समर्थन देता है।",
+      "body": "LG CNS ने रोबोट ट्रांसफॉर्मेशन (RX) प्लेटफॉर्म ब्रांड Physical Works पेश किया है। Physical Works केवल रोबोट खरीदकर उन्हें कार्यस्थल पर लगाने तक सीमित नहीं है, बल्कि रोबोट की लर्निंग और सत्यापन से लेकर संचालन और निगरानी तक पूरी प्रक्रिया को एक साथ समर्थन देता है। इस पेशकश का मुख्य बिंदु यह है कि कार्यस्थल पर आने के बाद रोबोट खुद सीख सकें और सहयोग कर सकें, इसके लिए पूरे चक्र का प्रबंधन किया जाए। पारंपरिक रोबोट अपनाने में उपकरण हासिल करने और तैनाती पर जोर रहा है, जबकि Physical Works तैनाती के बाद संचालन की स्थिरता और एकीकृत नियंत्रण को भी शामिल करता है। इससे कंपनियों के कार्यस्थलों में रोबोट ट्रांसफॉर्मेशन सरल ऑटोमेशन से आगे बढ़कर प्लेटफॉर्म आधारित प्रबंधन व्यवस्था तक फैल सकता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "LG CNS Rilis Physical Works, Platform RX untuk Robot yang Belajar dan Berkolaborasi",
+      "excerpt": "LG CNS memperkenalkan Physical Works, merek platform robot transformation (RX) yang mendukung pembelajaran, validasi, operasi, dan pemantauan robot terpadu.",
+      "body": "LG CNS memperkenalkan Physical Works, merek platform robot transformation (RX). Physical Works tidak berhenti pada pembelian robot dan penempatannya di lapangan, tetapi mendukung seluruh proses mulai dari pembelajaran dan validasi robot hingga operasi dan pemantauan. Inti peluncuran ini adalah mengelola seluruh siklus agar robot dapat belajar sendiri dan berkolaborasi setelah masuk ke lokasi kerja. Jika adopsi robot selama ini berfokus pada pengadaan dan penempatan perangkat, Physical Works juga mencakup stabilitas operasi dan kontrol terpadu setelah implementasi. Dengan demikian, transformasi robot di lingkungan perusahaan dapat bergerak dari otomasi sederhana menuju sistem manajemen berbasis platform. Sumber: mk.co.kr"
+    }
+  }
+}
