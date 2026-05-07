@@ -1,5 +1,230 @@
 [
   {
+    "id": "eaed64213b07",
+    "slug": "칠천피에-줄줄이-황제주-등극주식-쪼개기-나설까-종목-166242",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T22:40:01.679Z",
+    "updatedAt": "2026-05-07T22:40:01.679Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050722226",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050722226",
+    "titleFingerprint": "8a0dbcbb871ec143693f1ad0fb98460271f107eb",
+    "dedupKeys": [
+      "eaed64213b07e3311b4ef536d71e87d9251dfa7e",
+      "8a0dbcbb871ec143693f1ad0fb98460271f107eb",
+      "1b4600beb3680fbf0b0307dedeaef50812aa7d02"
+    ],
+    "imageUrl": "/images/articles/eaed64213b07.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파에 황제주 10곳 급증, SK하이닉스·SK스퀘어 액면분할 기대",
+        "excerpt": "코스피가 6일 종가 기준 처음 7000선을 넘어서자 100만원 이상 황제주가 코넥스 제외 10곳으로 늘었고, 개인 투자자 접근성 논란 속 액면분할 기대가 커지고 있다.",
+        "body": "코스피가 6일 종가 기준 사상 처음 7000선을 돌파하면서 주당 100만원을 넘는 ‘황제주’가 빠르게 늘었다. 7일 한국거래소 집계에 따르면 전날 기준 국내 증시의 황제주는 총 11개이며, 코넥스 상장사 본시스템즈를 제외해도 10곳에 달한다. 효성중공업, 두산, 고려아연, SK하이닉스, 삼성바이오로직스, 한화에어로스페이스, HD현대일렉트릭, 삼양식품, 태광산업, SK스퀘어가 이름을 올렸다. 주당 50만원 이상 종목도 코넥스 제외 25곳으로 늘었다. 황제주 10곳의 연초 이후 평균 상승률은 83.9%로 코스피 상승률 75.2%를 웃돌았다. 주가가 높아지자 개인 투자자 접근성을 높일 액면분할 기대가 커지고 있지만, 효성중공업은 최근 검토 계획이 없다고 밝혔다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI 7000 Rally Lifts 10 ‘Emperor Stocks,’ Raising Split Hopes for SK Hynix and SK Square",
+        "excerpt": "After the KOSPI first closed above 7000 on May 6, stocks priced above 1 million won rose to 10 excluding Konex, fueling debate over retail access and stock splits.",
+        "body": "As the KOSPI closed above 7000 for the first time on May 6, the number of so-called “emperor stocks” trading above 1 million won per share rose quickly. According to Korea Exchange data cited on May 7, there were 11 such stocks in the domestic market as of the previous close, or 10 excluding Konex-listed Bon Systems. The list includes Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial and SK Square. Stocks above 500,000 won also increased to 25 excluding Konex. The 10 emperor stocks gained an average 83.9% year to date, above the KOSPI’s 75.2%. High prices have raised expectations for stock splits to improve retail access, though Hyosung Heavy Industries said it is not currently reviewing one. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI7000突破で皇帝株10銘柄に急増、SKハイニックス・SKスクエア分割期待",
+        "excerpt": "KOSPIが6日に終値で初めて7000を超え、100万ウォン以上の皇帝株はコネックス除外で10銘柄に増加。個人投資家の買いやすさを巡り株式分割期待が広がっている。",
+        "body": "KOSPIが6日、終値ベースで史上初めて7000を突破し、1株100万ウォンを超える「皇帝株」が急増した。7日の韓国取引所集計によると、前日基準で国内証券市場の皇帝株は計11銘柄で、コネックス上場の本システムズを除いても10銘柄に達した。効星重工業、斗山、高麗亜鉛、SKハイニックス、サムスンバイオロジクス、ハンファエアロスペース、HD現代エレクトリック、三養食品、泰光産業、SKスクエアが名を連ねた。50万ウォン以上の銘柄もコネックス除外で25銘柄に増えた。皇帝株10銘柄の年初来平均上昇率は83.9%で、KOSPIの75.2%を上回った。株価上昇で個人投資家の接近性を高める株式分割期待が強まる一方、効星重工業は最近、検討計画はないと明らかにした。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI突破7000点带动10只“皇帝股”增加，SK海力士与SK Square拆股预期升温",
+        "excerpt": "KOSPI于6日收盘首次站上7000点，剔除Konex后股价超过100万韩元的“皇帝股”增至10只，个人投资者准入压力推高拆股预期。",
+        "body": "KOSPI于6日以收盘价首次突破7000点后，每股价格超过100万韩元的“皇帝股”迅速增加。据韩国交易所7日统计，截至前一交易日，韩国市场皇帝股共有11只；若剔除Konex上市公司Bon Systems，仍有10只。名单包括晓星重工业、斗山、高丽亚铅、SK海力士、三星生物制剂、韩华航空航天、HD现代电气、三养食品、泰光产业和SK Square。剔除Konex后，每股50万韩元以上的股票也增至25只。10只皇帝股年初以来平均涨幅为83.9%，高于KOSPI同期75.2%的涨幅。随着股价走高，提高个人投资者可及性的拆股预期升温，但晓星重工业近期表示暂无相关审议计划。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI supera 7000 y eleva a 10 las ‘acciones emperador’; crece la expectativa de splits",
+        "excerpt": "Tras cerrar por primera vez sobre 7000 el 6 de mayo, el KOSPI llevó a 10 las acciones de más de 1 millón de wones excluyendo Konex, reabriendo el debate sobre acceso minorista y splits.",
+        "body": "El KOSPI cerró el 6 de mayo por primera vez por encima de 7000 puntos y aceleró el aumento de las llamadas “acciones emperador”, aquellas que superan 1 millón de wones por título. Según datos de la Bolsa de Corea citados el 7 de mayo, el mercado local tenía 11 valores de este tipo al cierre anterior, o 10 si se excluye Bon Systems, cotizada en Konex. La lista incluye Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial y SK Square. Los títulos por encima de 500.000 wones también subieron a 25 sin Konex. Las 10 acciones emperador avanzan en promedio 83,9% en el año, frente al 75,2% del KOSPI. El alto precio alimenta expectativas de splits para mejorar el acceso minorista, aunque Hyosung Heavy Industries dijo que no los revisa por ahora. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI acima de 7000 leva ‘ações imperador’ a 10 e amplia apostas em desdobramentos",
+        "excerpt": "Depois de fechar acima de 7000 pela primeira vez em 6 de maio, o KOSPI elevou para 10 as ações acima de 1 milhão de wons excluindo Konex, aumentando o debate sobre acesso do varejo.",
+        "body": "O KOSPI fechou em 6 de maio, pela primeira vez, acima de 7000 pontos, enquanto cresceu rapidamente o número das chamadas “ações imperador”, negociadas acima de 1 milhão de wons por papel. Segundo dados da Bolsa da Coreia citados em 7 de maio, havia 11 ações desse tipo no mercado doméstico no fechamento anterior, ou 10 excluindo a Bon Systems, listada na Konex. A lista inclui Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial e SK Square. As ações acima de 500 mil wons também chegaram a 25 sem Konex. As 10 ações imperador sobem em média 83,9% no ano, acima dos 75,2% do KOSPI. O preço elevado reforça expectativas de desdobramentos para ampliar o acesso de investidores individuais, mas a Hyosung Heavy Industries disse não avaliar isso no momento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI über 7000 treibt Zahl der ‘Emperor Stocks’ auf 10, Split-Hoffnungen steigen",
+        "excerpt": "Nach dem ersten Schluss über 7000 am 6. Mai stieg die Zahl der Aktien über 1 Mio. Won ohne Konex auf 10; hohe Kurse rücken den Zugang für Privatanleger und Aktiensplits in den Fokus.",
+        "body": "Der KOSPI schloss am 6. Mai erstmals über 7000 Punkten, wodurch die Zahl der sogenannten “Emperor Stocks” mit Kursen über 1 Mio. Won je Aktie rasch zunahm. Nach Angaben der Korea Exchange vom 7. Mai gab es zum Vortagesschluss 11 solche Aktien am heimischen Markt, beziehungsweise 10 ohne das an Konex gelistete Unternehmen Bon Systems. Dazu zählen Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial und SK Square. Aktien über 500.000 Won stiegen ohne Konex auf 25. Die 10 Emperor Stocks legten seit Jahresbeginn im Schnitt 83,9% zu und übertrafen damit den KOSPI mit 75,2%. Die hohen Stückpreise schüren Erwartungen an Aktiensplits zur besseren Zugänglichkeit für Privatanleger, doch Hyosung Heavy Industries erklärte, derzeit keinen Split zu prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI au-dessus de 7000 porte à 10 les ‘actions empereurs’ et relance les splits",
+        "excerpt": "Après une première clôture au-dessus de 7000 le 6 mai, les actions à plus de 1 million de wons sont passées à 10 hors Konex, alimentant le débat sur l’accès des particuliers.",
+        "body": "Le KOSPI a clôturé le 6 mai au-dessus de 7000 points pour la première fois, tandis que le nombre d’“actions empereurs”, cotées à plus de 1 million de wons par titre, a rapidement augmenté. Selon les données de Korea Exchange citées le 7 mai, le marché coréen en comptait 11 à la clôture précédente, ou 10 hors Bon Systems, société cotée sur Konex. La liste comprend Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial et SK Square. Les actions au-dessus de 500.000 wons sont aussi montées à 25 hors Konex. Les 10 actions empereurs affichent une hausse moyenne de 83,9% depuis le début de l’année, contre 75,2% pour le KOSPI. Ces prix élevés renforcent les attentes de splits pour faciliter l’accès des particuliers, même si Hyosung Heavy Industries dit ne pas en examiner actuellement. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "تجاوز كوسبي 7000 يرفع أسهم المليون وون إلى 10 ويزيد توقعات تجزئة SK Hynix وSK Square",
+        "excerpt": "بعد أن أغلق كوسبي فوق 7000 للمرة الأولى في 6 مايو، ارتفع عدد الأسهم التي تتجاوز مليون وون إلى 10 باستثناء كونكس، ما زاد الجدل حول قدرة المستثمرين الأفراد على الشراء.",
+        "body": "أغلق مؤشر كوسبي في 6 مايو فوق مستوى 7000 نقطة للمرة الأولى، ما ترافق مع زيادة سريعة في عدد الأسهم المعروفة باسم “أسهم الإمبراطور” والتي يتجاوز سعرها مليون وون للسهم. ووفق بيانات بورصة كوريا المذكورة في 7 مايو، بلغ عدد هذه الأسهم 11 في السوق المحلية بنهاية الجلسة السابقة، أو 10 عند استبعاد Bon Systems المدرجة في كونكس. وتشمل القائمة Hyosung Heavy Industries وDoosan وKorea Zinc وSK Hynix وSamsung Biologics وHanwha Aerospace وHD Hyundai Electric وSamyang Foods وTaekwang Industrial وSK Square. كما ارتفع عدد الأسهم فوق 500 ألف وون إلى 25 باستثناء كونكس. وحققت الأسهم العشرة متوسط صعود منذ بداية العام بلغ 83.9%، أعلى من مكاسب كوسبي البالغة 75.2%. ومع ارتفاع الأسعار زادت توقعات تجزئة الأسهم لتحسين وصول المستثمرين الأفراد، لكن Hyosung Heavy Industries قالت إنها لا تدرس ذلك حاليا. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 7000 पार होने पर ‘एम्परर स्टॉक्स’ 10 तक बढ़े, SK Hynix-SK Square में स्प्लिट उम्मीद",
+        "excerpt": "6 मई को KOSPI पहली बार 7000 के ऊपर बंद हुआ, जिसके बाद Konex को छोड़कर 10 शेयर 10 लाख वॉन से ऊपर पहुंच गए और खुदरा निवेशकों की पहुंच व स्टॉक स्प्लिट पर चर्चा तेज हुई।",
+        "body": "KOSPI 6 मई को पहली बार बंद भाव के आधार पर 7000 अंक से ऊपर गया, जिससे प्रति शेयर 10 लाख वॉन से अधिक कीमत वाले “एम्परर स्टॉक्स” तेजी से बढ़े। 7 मई को उद्धृत Korea Exchange के आंकड़ों के अनुसार, पिछले बंद भाव तक घरेलू बाजार में ऐसे 11 शेयर थे; Konex-सूचीबद्ध Bon Systems को हटाने पर संख्या 10 रही। सूची में Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial और SK Square शामिल हैं। Konex को छोड़कर 5 लाख वॉन से अधिक कीमत वाले शेयर भी 25 हो गए। इन 10 एम्परर स्टॉक्स की साल की शुरुआत से औसत बढ़त 83.9% रही, जो KOSPI की 75.2% बढ़त से अधिक है। ऊंची कीमतों से खुदरा निवेशक पहुंच बढ़ाने के लिए स्टॉक स्प्लिट की उम्मीद बढ़ी है, हालांकि Hyosung Heavy Industries ने कहा कि वह अभी ऐसा विचार नहीं कर रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Tembus 7000, ‘Saham Kaisar’ Jadi 10 dan Harapan Stock Split Makin Kuat",
+        "excerpt": "Setelah KOSPI pertama kali ditutup di atas 7000 pada 6 Mei, saham di atas 1 juta won bertambah menjadi 10 di luar Konex, memicu isu akses investor ritel dan stock split.",
+        "body": "KOSPI pada 6 Mei ditutup di atas 7000 untuk pertama kalinya, sehingga jumlah “saham kaisar” dengan harga lebih dari 1 juta won per saham meningkat cepat. Menurut data Korea Exchange yang dikutip pada 7 Mei, terdapat 11 saham seperti itu di pasar domestik pada penutupan sebelumnya, atau 10 jika Bon Systems yang tercatat di Konex dikecualikan. Daftarnya mencakup Hyosung Heavy Industries, Doosan, Korea Zinc, SK Hynix, Samsung Biologics, Hanwha Aerospace, HD Hyundai Electric, Samyang Foods, Taekwang Industrial, dan SK Square. Saham di atas 500.000 won juga naik menjadi 25 di luar Konex. Sepuluh saham kaisar mencatat kenaikan rata-rata 83,9% sejak awal tahun, melampaui KOSPI yang naik 75,2%. Harga yang tinggi memperbesar harapan stock split untuk memudahkan akses investor ritel, tetapi Hyosung Heavy Industries menyatakan belum meninjau rencana tersebut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "eee4135e3f76",
+    "slug": "중동-협상-불확실성에-하락-마감다우-06-뉴욕증시-브리핑-990374",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T22:38:30.154Z",
+    "updatedAt": "2026-05-07T22:38:30.154Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050829106",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050829106",
+    "titleFingerprint": "c26717bd563f12d7422dbf8299a1d3d5c5c22525",
+    "dedupKeys": [
+      "eee4135e3f7602b3b3964a99eeec3ded472f3030",
+      "c26717bd563f12d7422dbf8299a1d3d5c5c22525",
+      "fb9dcc60020a31d6b67f35f006d68e46bdf3f91c"
+    ],
+    "imageUrl": "/images/articles/eee4135e3f76.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동 협상 불확실성에 뉴욕증시 하락 마감, 다우 0.6% 내려",
+        "excerpt": "뉴욕증시는 중동 협상 불확실성이 투자 심리를 누르며 하락 마감했다. 다우지수는 0.6% 하락해 주요 지수 약세 흐름을 반영했다.",
+        "body": "뉴욕증시가 중동 협상 불확실성의 영향으로 하락 마감했다. 투자자들은 관련 협상 흐름을 주시하는 가운데 위험 회피 심리가 커졌고, 다우지수는 0.6% 내렸다. 이번 하락은 중동을 둘러싼 불확실성이 시장 심리에 부담으로 작용한 결과로 풀이된다. 구체적인 협상 진전 여부가 확인되지 않은 상황에서 뉴욕증시는 약세로 거래를 마쳤다. 향후 시장은 중동 협상 관련 소식과 이에 따른 투자 심리 변화를 계속 반영할 전망이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Wall Street Closes Lower on Middle East Talks Uncertainty as Dow Falls 0.6%",
+        "excerpt": "Wall Street ended lower as uncertainty over Middle East talks weighed on investor sentiment, with the Dow Jones Industrial Average falling 0.6%.",
+        "body": "Wall Street closed lower as uncertainty surrounding Middle East negotiations weighed on the market. Investors watched the direction of the talks, while risk-off sentiment increased and the Dow Jones Industrial Average fell 0.6%. The decline reflected the burden that Middle East-related uncertainty placed on market sentiment. With no clear progress in the negotiations confirmed, New York stocks finished the session in negative territory. Markets are expected to continue reflecting news on the Middle East talks and the resulting shifts in investor sentiment. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "中東協議の不透明感でNY株反落、ダウ平均は0.6％下落",
+        "excerpt": "ニューヨーク株式市場は中東協議を巡る不透明感が投資心理を圧迫し下落して終了した。ダウ平均は0.6％下げた。",
+        "body": "ニューヨーク株式市場は、中東協議を巡る不透明感の影響で下落して取引を終えた。投資家は協議の行方を注視するなか、リスク回避姿勢が強まり、ダウ平均株価は0.6％下落した。今回の下げは、中東を巡る不確実性が市場心理の重荷になった結果と受け止められる。協議の具体的な進展が確認されない状況で、NY株は軟調に終了した。今後も市場は中東協議に関するニュースと、それに伴う投資心理の変化を織り込む見通しだ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "中东谈判不确定性拖累纽约股市收跌，道指下跌0.6%",
+        "excerpt": "纽约股市因中东谈判不确定性压制投资情绪而收跌，道琼斯工业平均指数下跌0.6%，反映主要股指走弱。",
+        "body": "纽约股市受中东谈判不确定性影响收盘下跌。投资者关注相关谈判进展，避险情绪升温，道琼斯工业平均指数下跌0.6%。此次下跌被视为中东相关不确定性对市场情绪形成压力的结果。在尚未确认谈判取得具体进展的情况下，纽约股市以弱势结束交易。后续市场预计将继续反映中东谈判相关消息，以及由此带来的投资情绪变化。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Wall Street cierra a la baja por incertidumbre en negociaciones de Oriente Medio",
+        "excerpt": "La Bolsa de Nueva York cerró a la baja porque la incertidumbre sobre las negociaciones en Oriente Medio presionó el ánimo inversor; el Dow cayó 0,6%.",
+        "body": "La Bolsa de Nueva York cerró a la baja por el impacto de la incertidumbre en torno a las negociaciones de Oriente Medio. Los inversores siguieron de cerca el curso de esas conversaciones, mientras aumentó la aversión al riesgo y el Dow Jones Industrial Average bajó un 0,6%. La caída se interpretó como resultado de la presión que la incertidumbre relacionada con Oriente Medio ejerció sobre el sentimiento del mercado. Sin confirmación de avances concretos en las negociaciones, Wall Street terminó la sesión en terreno negativo. El mercado seguirá reflejando las noticias sobre esas conversaciones y los cambios en el ánimo inversor. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Wall Street fecha em queda com incerteza no Oriente Médio; Dow recua 0,6%",
+        "excerpt": "A Bolsa de Nova York fechou em queda com a incerteza sobre negociações no Oriente Médio pressionando o sentimento dos investidores; o Dow caiu 0,6%.",
+        "body": "A Bolsa de Nova York fechou em queda sob o impacto da incerteza em torno das negociações no Oriente Médio. Investidores acompanharam o rumo das conversas, enquanto aumentou a busca por menor risco e o índice Dow Jones Industrial Average recuou 0,6%. A queda refletiu o peso que a incerteza relacionada ao Oriente Médio exerceu sobre o sentimento do mercado. Sem confirmação de avanço concreto nas negociações, as ações em Nova York encerraram a sessão em baixa. O mercado deve continuar reagindo às notícias sobre as negociações no Oriente Médio e às mudanças no sentimento dos investidores. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Wall Street schließt wegen Unsicherheit über Nahost-Gespräche tiefer",
+        "excerpt": "Die New Yorker Börse schloss schwächer, weil Unsicherheit über Nahost-Gespräche die Anlegerstimmung belastete; der Dow Jones fiel um 0,6%.",
+        "body": "Die New Yorker Aktienmärkte haben wegen der Unsicherheit rund um die Nahost-Gespräche schwächer geschlossen. Anleger beobachteten den Verlauf der Verhandlungen, während die Risikoscheu zunahm und der Dow Jones Industrial Average um 0,6% fiel. Der Rückgang zeigt, dass die Unsicherheit im Zusammenhang mit dem Nahen Osten die Marktstimmung belastete. Da keine konkreten Fortschritte bei den Gesprächen bestätigt wurden, beendete Wall Street die Sitzung im Minus. Der Markt dürfte weiterhin Nachrichten zu den Nahost-Gesprächen und die daraus folgenden Veränderungen der Anlegerstimmung einpreisen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Wall Street recule avec l’incertitude sur les discussions au Moyen-Orient",
+        "excerpt": "La Bourse de New York a terminé en baisse, l’incertitude autour des discussions au Moyen-Orient pesant sur le sentiment des investisseurs; le Dow a perdu 0,6%.",
+        "body": "La Bourse de New York a clôturé en baisse sous l’effet de l’incertitude entourant les discussions au Moyen-Orient. Les investisseurs ont suivi l’évolution de ces négociations, tandis que l’aversion au risque s’est renforcée et que le Dow Jones Industrial Average a reculé de 0,6%. Cette baisse traduit la pression exercée sur le sentiment de marché par l’incertitude liée au Moyen-Orient. En l’absence de confirmation d’avancées concrètes dans les discussions, Wall Street a terminé la séance en territoire négatif. Le marché devrait continuer d’intégrer les nouvelles sur ces discussions et leurs effets sur le sentiment des investisseurs. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "وول ستريت تغلق منخفضة بفعل غموض محادثات الشرق الأوسط وداو يتراجع 0.6%",
+        "excerpt": "أغلقت الأسهم الأميركية منخفضة مع ضغط عدم اليقين بشأن محادثات الشرق الأوسط على معنويات المستثمرين، وتراجع مؤشر داو جونز الصناعي 0.6%.",
+        "body": "أغلقت بورصة نيويورك على انخفاض بفعل عدم اليقين المحيط بمحادثات الشرق الأوسط. وراقب المستثمرون مسار تلك المحادثات، بينما زادت حالة تجنب المخاطر وتراجع مؤشر داو جونز الصناعي 0.6%. ويعكس هذا الهبوط العبء الذي فرضته حالة عدم اليقين المرتبطة بالشرق الأوسط على معنويات السوق. ومع عدم تأكيد أي تقدم ملموس في المحادثات، أنهت الأسهم الأميركية الجلسة على ضعف. ومن المتوقع أن تواصل الأسواق عكس الأخبار المتعلقة بمحادثات الشرق الأوسط وما ينتج عنها من تغيرات في معنويات المستثمرين. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "मध्य पूर्व वार्ता की अनिश्चितता से वॉल स्ट्रीट कमजोर बंद, डाउ 0.6% गिरा",
+        "excerpt": "मध्य पूर्व वार्ता को लेकर अनिश्चितता ने निवेशक धारणा पर दबाव डाला और न्यूयॉर्क शेयर बाजार गिरावट के साथ बंद हुआ; डाउ 0.6% फिसला।",
+        "body": "मध्य पूर्व वार्ता से जुड़ी अनिश्चितता के असर से न्यूयॉर्क शेयर बाजार गिरावट के साथ बंद हुआ। निवेशक वार्ता की दिशा पर नजर रखे हुए थे, जबकि जोखिम से बचने की भावना बढ़ी और डाउ जोन्स इंडस्ट्रियल एवरेज 0.6% गिरा। यह गिरावट दर्शाती है कि मध्य पूर्व से जुड़ी अनिश्चितता ने बाजार धारणा पर दबाव डाला। वार्ता में ठोस प्रगति की पुष्टि नहीं होने की स्थिति में वॉल स्ट्रीट ने सत्र कमजोर रुख के साथ समाप्त किया। आगे बाजार मध्य पूर्व वार्ता से जुड़ी खबरों और निवेशक धारणा में होने वाले बदलावों को प्रतिबिंबित करता रहेगा। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Wall Street Ditutup Turun karena Ketidakpastian Perundingan Timur Tengah",
+        "excerpt": "Bursa New York ditutup melemah karena ketidakpastian perundingan Timur Tengah menekan sentimen investor; indeks Dow Jones turun 0,6%.",
+        "body": "Bursa saham New York ditutup melemah akibat ketidakpastian seputar perundingan Timur Tengah. Investor mencermati arah pembicaraan tersebut, sementara sentimen menghindari risiko meningkat dan Dow Jones Industrial Average turun 0,6%. Penurunan ini mencerminkan tekanan yang diberikan ketidakpastian terkait Timur Tengah terhadap sentimen pasar. Dengan belum adanya konfirmasi kemajuan konkret dalam perundingan, Wall Street mengakhiri sesi di zona negatif. Pasar diperkirakan akan terus mencerminkan berita terkait perundingan Timur Tengah dan perubahan sentimen investor yang menyertainya. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "3d04df454756",
+    "slug": "hd현대중공업-데이터센터향-엔진-수주-중장기-성장-기대-목표가-547631",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T22:37:39.396Z",
+    "updatedAt": "2026-05-07T22:37:39.396Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040681",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040681",
+    "titleFingerprint": "413fc0a186de4cb109aa8adcae45e981b810ed2b",
+    "dedupKeys": [
+      "3d04df454756fb92d1f52065237593151c0048eb",
+      "413fc0a186de4cb109aa8adcae45e981b810ed2b",
+      "2a2ce7709e35999eaefd8eb117926b6bdede60ff"
+    ],
+    "imageUrl": "/images/articles/3d04df454756.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HD현대중공업 목표가 90만원 상향, 데이터센터 엔진 수주 기대 부각",
+        "excerpt": "하나증권은 8일 HD현대중공업의 데이터센터향 엔진 공급 수주가 중장기 성장 동력이 될 수 있다며 목표주가를 74만원에서 90만원으로 올렸다.",
+        "body": "하나증권은 8일 HD현대중공업에 대해 데이터센터향 엔진 공급 수주를 통한 중장기 성장 기대를 반영해 목표주가를 기존 74만원에서 90만원으로 상향 조정했다. 원문에 따르면 앞서 HD현대중공업은 관련 엔진 공급 수주를 진행한 것으로 전해졌다. 이번 조정은 해당 수주가 향후 실적과 성장성에 긍정적으로 작용할 수 있다는 증권가의 평가를 담고 있다. 다만 기사에 제시된 핵심 근거는 목표주가 상향과 데이터센터향 엔진 수주 기대에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HD Hyundai Heavy Target Raised to 900,000 Won on Data Center Engine Orders",
+        "excerpt": "Hana Securities said on the 8th that HD Hyundai Heavy Industries’ data center engine supply orders could support mid- to long-term growth, raising its target price from 740,000 won to 900,000 won.",
+        "body": "Hana Securities on the 8th raised its target price for HD Hyundai Heavy Industries from 740,000 won to 900,000 won, citing expectations for mid- to long-term growth through engine supply orders for data centers. According to the original report, HD Hyundai Heavy Industries had earlier secured related engine supply orders. The revision reflects the brokerage’s view that the orders may have a positive impact on future earnings and growth potential. However, the article’s stated basis is limited to the higher target price and expectations tied to data center engine orders. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HD現代重工業の目標株価90万ウォンへ、データセンター向けエンジン受注に期待",
+        "excerpt": "ハナ証券は8日、HD現代重工業について、データセンター向けエンジン供給受注による中長期成長を期待し、目標株価を74万ウォンから90万ウォンに引き上げた。",
+        "body": "ハナ証券は8日、HD現代重工業について、データセンター向けエンジン供給受注を通じた中長期成長への期待を反映し、目標株価を従来の74万ウォンから90万ウォンに引き上げた。原文によると、HD現代重工業はこれに先立ち、関連するエンジン供給受注を行ったとされる。今回の調整は、同受注が今後の業績と成長性に肯定的に作用し得るという証券会社の評価を示すものだ。ただし、記事で示された主な根拠は目標株価の引き上げとデータセンター向けエンジン受注への期待に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HD现代重工目标价上调至90万韩元，数据中心发动机订单受关注",
+        "excerpt": "韩亚证券8日表示，HD现代重工的数据中心用发动机供应订单有望带来中长期增长，因此将目标股价从74万韩元上调至90万韩元。",
+        "body": "韩亚证券8日将HD现代重工的目标股价从原来的74万韩元上调至90万韩元，理由是期待其通过数据中心用发动机供应订单实现中长期增长。根据原文，HD现代重工此前已推进相关发动机供应订单。此次调整反映了券商认为该订单可能对未来业绩和成长性产生积极作用的判断。不过，报道中提出的核心依据仅限于目标股价上调以及对数据中心用发动机订单的期待。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HD Hyundai Heavy sube a 900.000 wones por pedidos de motores para centros de datos",
+        "excerpt": "Hana Securities dijo el día 8 que los pedidos de motores para centros de datos de HD Hyundai Heavy Industries podrían impulsar su crecimiento a medio y largo plazo, y elevó su precio objetivo de 740.000 a 900.000 wones.",
+        "body": "Hana Securities elevó el día 8 el precio objetivo de HD Hyundai Heavy Industries de 740.000 a 900.000 wones, al reflejar expectativas de crecimiento a medio y largo plazo por pedidos de suministro de motores destinados a centros de datos. Según el informe original, HD Hyundai Heavy Industries había avanzado previamente con pedidos relacionados de suministro de motores. El ajuste recoge la evaluación de la firma de que esos pedidos podrían influir positivamente en los resultados futuros y en el potencial de crecimiento. No obstante, la base presentada en el artículo se limita al alza del precio objetivo y a las expectativas por los motores para centros de datos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HD Hyundai Heavy tem alvo elevado a 900 mil won com motores para data centers",
+        "excerpt": "A Hana Securities disse no dia 8 que pedidos de motores para data centers podem apoiar o crescimento de médio e longo prazo da HD Hyundai Heavy Industries, elevando o preço-alvo de 740 mil para 900 mil won.",
+        "body": "A Hana Securities elevou no dia 8 o preço-alvo da HD Hyundai Heavy Industries de 740 mil para 900 mil won, refletindo expectativas de crescimento de médio e longo prazo por meio de pedidos de fornecimento de motores para data centers. Segundo a reportagem original, a HD Hyundai Heavy Industries já havia avançado com pedidos relacionados de fornecimento de motores. A revisão expressa a avaliação da corretora de que esses pedidos podem contribuir positivamente para os resultados futuros e para o potencial de crescimento. Ainda assim, a base apresentada no artigo se limita ao aumento do preço-alvo e à expectativa ligada aos motores para data centers. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HD Hyundai Heavy Kursziel auf 900.000 Won erhöht wegen Rechenzentrums-Motoren",
+        "excerpt": "Hana Securities erklärte am 8., dass Motorenaufträge für Rechenzentren bei HD Hyundai Heavy Industries mittelfristiges bis langfristiges Wachstum stützen könnten, und hob das Kursziel von 740.000 auf 900.000 Won an.",
+        "body": "Hana Securities hat am 8. das Kursziel für HD Hyundai Heavy Industries von 740.000 Won auf 900.000 Won angehoben. Begründet wurde dies mit Erwartungen an mittel- bis langfristiges Wachstum durch Lieferaufträge für Motoren, die für Rechenzentren bestimmt sind. Dem Originalbericht zufolge hatte HD Hyundai Heavy Industries zuvor entsprechende Motorenlieferaufträge erhalten. Die Anpassung spiegelt die Einschätzung des Wertpapierhauses wider, dass diese Aufträge künftige Ergebnisse und Wachstumsaussichten positiv beeinflussen könnten. Die im Artikel genannten Kernpunkte beschränken sich jedoch auf das höhere Kursziel und die Erwartungen an Rechenzentrums-Motoren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HD Hyundai Heavy relevé à 900.000 wons grâce aux moteurs pour data centers",
+        "excerpt": "Hana Securities a indiqué le 8 que les commandes de moteurs destinés aux centres de données pourraient soutenir la croissance à moyen et long terme de HD Hyundai Heavy Industries, relevant son objectif de cours de 740.000 à 900.000 wons.",
+        "body": "Hana Securities a relevé le 8 son objectif de cours sur HD Hyundai Heavy Industries de 740.000 à 900.000 wons, en intégrant les attentes de croissance à moyen et long terme liées à des commandes de fourniture de moteurs pour centres de données. Selon l’article original, HD Hyundai Heavy Industries avait auparavant obtenu des commandes liées à ces moteurs. Cette révision traduit l’évaluation de la société de courtage selon laquelle ces commandes pourraient avoir un effet positif sur les résultats futurs et le potentiel de croissance. Toutefois, les éléments clés mentionnés dans l’article se limitent à la hausse de l’objectif de cours et aux attentes concernant les moteurs pour centres de données. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رفع السعر المستهدف لـ HD Hyundai Heavy إلى 900 ألف وون بدعم طلبات محركات مراكز البيانات",
+        "excerpt": "قالت هانا للأوراق المالية في الثامن إن طلبات توريد محركات مخصصة لمراكز البيانات قد تدعم النمو المتوسط والطويل الأجل لدى HD Hyundai Heavy Industries، ورفعت السعر المستهدف من 740 ألف وون إلى 900 ألف وون.",
+        "body": "رفعت هانا للأوراق المالية في الثامن السعر المستهدف لسهم HD Hyundai Heavy Industries من 740 ألف وون إلى 900 ألف وون، عاكسة توقعات بنمو متوسط وطويل الأجل من خلال طلبات توريد محركات موجهة إلى مراكز البيانات. وبحسب التقرير الأصلي، كانت HD Hyundai Heavy Industries قد حصلت في وقت سابق على طلبات توريد محركات ذات صلة. ويعكس هذا التعديل تقييم شركة الوساطة بأن هذه الطلبات قد تؤثر إيجابا في الأرباح المستقبلية وإمكانات النمو. ومع ذلك، فإن الأساس الوارد في المقال يقتصر على رفع السعر المستهدف وتوقعات طلبات محركات مراكز البيانات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HD Hyundai Heavy का लक्ष्य मूल्य 900,000 वॉन, डेटा सेंटर इंजन ऑर्डर से उम्मीद",
+        "excerpt": "हाना सिक्योरिटीज ने 8 तारीख को कहा कि HD Hyundai Heavy Industries के डेटा सेंटर इंजन आपूर्ति ऑर्डर मध्यम से दीर्घकालिक वृद्धि को सहारा दे सकते हैं, इसलिए लक्ष्य मूल्य 740,000 वॉन से बढ़ाकर 900,000 वॉन किया गया।",
+        "body": "हाना सिक्योरिटीज ने 8 तारीख को HD Hyundai Heavy Industries का लक्ष्य मूल्य 740,000 वॉन से बढ़ाकर 900,000 वॉन कर दिया। इसका आधार डेटा सेंटरों के लिए इंजन आपूर्ति ऑर्डर के जरिए मध्यम से दीर्घकालिक वृद्धि की उम्मीद है। मूल रिपोर्ट के अनुसार, HD Hyundai Heavy Industries ने इससे पहले संबंधित इंजन आपूर्ति ऑर्डर हासिल किए थे। यह संशोधन ब्रोकरेज के उस आकलन को दर्शाता है कि ये ऑर्डर भविष्य की आय और वृद्धि क्षमता पर सकारात्मक असर डाल सकते हैं। हालांकि लेख में दी गई मुख्य जानकारी लक्ष्य मूल्य बढ़ाने और डेटा सेंटर इंजन ऑर्डर की उम्मीद तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target HD Hyundai Heavy Naik ke 900.000 Won, Pesanan Mesin Data Center Disorot",
+        "excerpt": "Hana Securities pada tanggal 8 menyebut pesanan pasokan mesin untuk data center dapat mendukung pertumbuhan jangka menengah hingga panjang HD Hyundai Heavy Industries, lalu menaikkan target harga dari 740.000 won menjadi 900.000 won.",
+        "body": "Hana Securities pada tanggal 8 menaikkan target harga HD Hyundai Heavy Industries dari 740.000 won menjadi 900.000 won, dengan mempertimbangkan harapan pertumbuhan jangka menengah hingga panjang melalui pesanan pasokan mesin untuk data center. Menurut laporan asli, HD Hyundai Heavy Industries sebelumnya telah mendapatkan pesanan pasokan mesin terkait. Revisi ini mencerminkan penilaian sekuritas bahwa pesanan tersebut dapat berdampak positif pada kinerja dan prospek pertumbuhan ke depan. Namun, dasar utama yang disampaikan artikel terbatas pada kenaikan target harga dan ekspektasi terhadap pesanan mesin untuk data center. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "c4444106c8d9",
     "slug": "미리-사두면-이득주식-계좌-불려줄-탄탄한-실적주-363866",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Harim Teken Kontrak Akuisisi Homeplus Express Rp Setara 120 Miliar Won",
         "excerpt": "Homeplus dan Harim menandatangani kontrak utama pada 7 Mei untuk penjualan Homeplus Express. Transaksi senilai 120 miliar won ini menjadi celah awal bagi pemulihan Homeplus.",
         "body": "Homeplus dan Harim menandatangani kontrak utama pada 7 Mei untuk penjualan Homeplus Express. Nilai transaksinya mencapai 120 miliar won. Melalui kesepakatan ini, Homeplus memperoleh celah pertama untuk pemulihan perusahaan sekitar satu tahun setelah proses rehabilitasi dimulai pada Maret tahun lalu. Menurut kalangan perbankan investasi, penjualan Homeplus Express dapat menjadi peluang penting bagi Homeplus untuk mengamankan dana dan melanjutkan restrukturisasi selama proses rehabilitasi. Harim kini akan masuk secara resmi ke proses akuisisi Homeplus Express. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f013cd29fc4a",
-    "slug": "오상헬스케어-범부처-첨단-의료기기-rd-과제-선정-478198",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T08:49:57.451Z",
-    "updatedAt": "2026-05-07T08:49:57.451Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039058",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039058",
-    "titleFingerprint": "2dcfb73d636f2596177ad51a180262e7186fc902",
-    "dedupKeys": [
-      "f013cd29fc4a0a5fe8b61f513937ac13b8616135",
-      "2dcfb73d636f2596177ad51a180262e7186fc902",
-      "48a5517df2b6ee8e6d019cdcb1fa60f13f95c903"
-    ],
-    "imageUrl": "/images/articles/f013cd29fc4a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "오상헬스케어, 범부처 첨단 의료기기 R&D 과제 선정",
-        "excerpt": "체외진단 전문기업 오상헬스케어가 KMDF의 2026년도 범부처 첨단 의료기기 연구개발사업 과제에 선정돼 차세대 분자진단 플랫폼 개발을 추진한다.",
-        "body": "오상헬스케어가 범부처의료기기연구개발사업단(KMDF)이 추진하는 ‘2026년도 범부처 첨단 의료기기 연구개발사업’ 과제에 선정됐다고 mk.co.kr이 보도했다. 체외진단 전문기업인 오상헬스케어는 이번 과제 선정을 통해 차세대 분자진단 플랫폼 개발을 추진한다. 해당 사업은 범부처 차원에서 첨단 의료기기 연구개발을 지원하는 과제로, 회사의 분자진단 기술 고도화와 관련 연구개발 진행에 초점이 맞춰질 전망이다. 오상헬스케어는 체외진단 분야에서 확보한 역량을 바탕으로 차세대 플랫폼 개발에 나설 계획이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Osang Healthcare Selected for Government Advanced Medical Device R&D Project",
-        "excerpt": "Osang Healthcare, an in vitro diagnostics specialist, was selected for KMDF’s 2026 interministerial advanced medical device R&D project to develop a next-generation molecular diagnostics platform.",
-        "body": "Osang Healthcare has been selected for the “2026 Interministerial Advanced Medical Device R&D Project” promoted by the Korea Medical Device Development Fund (KMDF), mk.co.kr reported. The in vitro diagnostics company will use the project selection to pursue development of a next-generation molecular diagnostics platform. The program supports advanced medical device research and development at the interministerial level, and Osang Healthcare’s work is expected to focus on advancing molecular diagnostics technology and related R&D. The company plans to build on its capabilities in in vitro diagnostics as it develops the next-generation platform. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "オサンヘルスケア、政府横断の先端医療機器R&D課題に選定",
-        "excerpt": "体外診断専門企業のオサンヘルスケアが、KMDFの2026年度政府横断先端医療機器研究開発事業に選定され、次世代分子診断プラットフォーム開発を進める。",
-        "body": "オサンヘルスケアが、韓国医療機器研究開発事業団（KMDF）が推進する「2026年度政府横断先端医療機器研究開発事業」の課題に選定されたと、mk.co.krが報じた。体外診断専門企業である同社は、今回の選定を通じて次世代分子診断プラットフォームの開発を推進する。同事業は政府横断で先端医療機器の研究開発を支援するもので、同社の分子診断技術の高度化と関連R&Dの進行に焦点が当てられる見通しだ。オサンヘルスケアは体外診断分野で蓄積した能力を基盤に、次世代プラットフォーム開発に取り組む計画だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Osang Healthcare入选跨部门先进医疗器械研发项目",
-        "excerpt": "体外诊断专业企业Osang Healthcare入选KMDF推进的2026年度跨部门先进医疗器械研发项目，将推进下一代分子诊断平台开发。",
-        "body": "据mk.co.kr报道，Osang Healthcare已入选韩国医疗器械研究开发事业团（KMDF）推进的“2026年度跨部门先进医疗器械研究开发项目”。作为体外诊断专业企业，Osang Healthcare将借此次项目入选推进下一代分子诊断平台开发。该项目是在跨部门层面支持先进医疗器械研发的课题，预计公司相关工作将聚焦于分子诊断技术升级及相关研发推进。Osang Healthcare计划以其在体外诊断领域积累的能力为基础，开展下一代平台开发。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Osang Healthcare elegida para un proyecto estatal de I+D en dispositivos médicos avanzados",
-        "excerpt": "Osang Healthcare, especializada en diagnóstico in vitro, fue seleccionada por KMDF para el proyecto interministerial 2026 de I+D en dispositivos médicos avanzados y desarrollará una plataforma molecular de próxima generación.",
-        "body": "Osang Healthcare fue seleccionada para el “Proyecto interministerial 2026 de I+D en dispositivos médicos avanzados” impulsado por Korea Medical Device Development Fund (KMDF), informó mk.co.kr. La empresa, especializada en diagnóstico in vitro, impulsará con esta selección el desarrollo de una plataforma de diagnóstico molecular de próxima generación. El programa apoya la investigación y el desarrollo de dispositivos médicos avanzados a nivel interministerial, y el trabajo de la compañía se centrará en elevar su tecnología de diagnóstico molecular y avanzar en la I+D relacionada. Osang Healthcare planea desarrollar la nueva plataforma sobre la base de sus capacidades en diagnóstico in vitro. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Osang Healthcare é escolhida para projeto governamental de P&D em dispositivos médicos avançados",
-        "excerpt": "A Osang Healthcare, especializada em diagnóstico in vitro, foi selecionada pela KMDF para o projeto interministerial de P&D em dispositivos médicos avançados de 2026 e desenvolverá uma plataforma molecular de próxima geração.",
-        "body": "A Osang Healthcare foi selecionada para o “Projeto Interministerial de Pesquisa e Desenvolvimento de Dispositivos Médicos Avançados de 2026”, promovido pelo Korea Medical Device Development Fund (KMDF), informou o mk.co.kr. Especializada em diagnóstico in vitro, a empresa pretende avançar no desenvolvimento de uma plataforma de diagnóstico molecular de próxima geração com base nessa seleção. O programa apoia P&D de dispositivos médicos avançados em âmbito interministerial, e o trabalho da companhia deve se concentrar no aprimoramento da tecnologia de diagnóstico molecular e em pesquisas relacionadas. A Osang Healthcare planeja desenvolver a nova plataforma com base em suas capacidades no diagnóstico in vitro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Osang Healthcare für staatliches F&E-Projekt zu fortschrittlichen Medizingeräten ausgewählt",
-        "excerpt": "Osang Healthcare, Spezialist für In-vitro-Diagnostik, wurde von KMDF für das interministerielle F&E-Projekt 2026 zu fortschrittlichen Medizingeräten ausgewählt und will eine molekulardiagnostische Plattform der nächsten Generation entwickeln.",
-        "body": "Osang Healthcare wurde für das von der Korea Medical Device Development Fund (KMDF) geförderte „Interministerielle F&E-Projekt 2026 für fortschrittliche Medizingeräte“ ausgewählt, berichtete mk.co.kr. Das auf In-vitro-Diagnostik spezialisierte Unternehmen will durch die Auswahl die Entwicklung einer molekulardiagnostischen Plattform der nächsten Generation vorantreiben. Das Programm unterstützt Forschung und Entwicklung fortschrittlicher Medizingeräte auf interministerieller Ebene. Der Schwerpunkt der Arbeiten dürfte auf der Weiterentwicklung der molekularen Diagnostiktechnologie und der entsprechenden F&E liegen. Osang Healthcare plant, seine Kompetenzen in der In-vitro-Diagnostik als Grundlage für die neue Plattform zu nutzen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Osang Healthcare sélectionnée pour un projet public de R&D sur les dispositifs médicaux avancés",
-        "excerpt": "Osang Healthcare, spécialiste du diagnostic in vitro, a été sélectionnée par le KMDF pour le programme interministériel 2026 de R&D sur les dispositifs médicaux avancés afin de développer une plateforme moléculaire de nouvelle génération.",
-        "body": "Osang Healthcare a été sélectionnée pour le « Programme interministériel 2026 de recherche et développement sur les dispositifs médicaux avancés » mené par le Korea Medical Device Development Fund (KMDF), selon mk.co.kr. L’entreprise, spécialisée dans le diagnostic in vitro, entend profiter de cette sélection pour développer une plateforme de diagnostic moléculaire de nouvelle génération. Ce programme soutient la R&D sur les dispositifs médicaux avancés au niveau interministériel, et les travaux devraient se concentrer sur le perfectionnement des technologies de diagnostic moléculaire et la R&D associée. Osang Healthcare prévoit de s’appuyer sur ses compétences dans le diagnostic in vitro pour développer cette nouvelle plateforme. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "اختيار Osang Healthcare لمشروع حكومي للبحث والتطوير في الأجهزة الطبية المتقدمة",
-        "excerpt": "اختيرت Osang Healthcare، المتخصصة في التشخيص خارج الجسم، ضمن مشروع KMDF لعام 2026 للبحث والتطوير في الأجهزة الطبية المتقدمة، لتطوير منصة تشخيص جزيئي من الجيل التالي.",
-        "body": "أفاد موقع mk.co.kr بأن شركة Osang Healthcare اختيرت ضمن “مشروع البحث والتطوير المشترك بين الوزارات لعام 2026 للأجهزة الطبية المتقدمة” الذي يدفع به الصندوق الكوري لتطوير الأجهزة الطبية (KMDF). وتعتزم الشركة المتخصصة في التشخيص خارج الجسم استغلال هذا الاختيار للمضي في تطوير منصة تشخيص جزيئي من الجيل التالي. ويدعم البرنامج البحث والتطوير في الأجهزة الطبية المتقدمة على مستوى مشترك بين الوزارات، ومن المتوقع أن تتركز أعمال الشركة على تطوير تقنيات التشخيص الجزيئي والمشروعات البحثية المرتبطة بها. وتخطط Osang Healthcare للبناء على قدراتها في مجال التشخيص خارج الجسم لتطوير المنصة الجديدة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Osang Healthcare उन्नत चिकित्सा उपकरण R&D परियोजना के लिए चयनित",
-        "excerpt": "इन-विट्रो डायग्नोस्टिक्स विशेषज्ञ Osang Healthcare को KMDF की 2026 अंतर-मंत्रालयी उन्नत चिकित्सा उपकरण R&D परियोजना के लिए चुना गया है, जिसके तहत अगली पीढ़ी का मॉलिक्यूलर डायग्नोस्टिक्स प्लेटफॉर्म विकसित किया जाएगा।",
-        "body": "mk.co.kr के अनुसार, Osang Healthcare को Korea Medical Device Development Fund (KMDF) द्वारा 추진 की जा रही “2026 अंतर-मंत्रालयी उन्नत चिकित्सा उपकरण अनुसंधान एवं विकास परियोजना” के लिए चुना गया है। इन-विट्रो डायग्नोस्टिक्स में विशेषज्ञ कंपनी इस चयन के माध्यम से अगली पीढ़ी के मॉलिक्यूलर डायग्नोस्टिक्स प्लेटफॉर्म के विकास को आगे बढ़ाएगी। यह कार्यक्रम अंतर-मंत्रालयी स्तर पर उन्नत चिकित्सा उपकरणों के R&D को समर्थन देता है, और कंपनी का काम मॉलिक्यूलर डायग्नोस्टिक्स तकनीक को उन्नत करने तथा संबंधित R&D पर केंद्रित रहने की संभावना है। Osang Healthcare इन-विट्रो डायग्नोस्टिक्स क्षेत्र में अपनी क्षमताओं के आधार पर नया प्लेटफॉर्म विकसित करने की योजना बना रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Osang Healthcare Terpilih untuk Proyek R&D Alat Medis Canggih Pemerintah",
-        "excerpt": "Osang Healthcare, perusahaan spesialis diagnostik in vitro, terpilih dalam proyek R&D alat medis canggih lintas kementerian 2026 dari KMDF untuk mengembangkan platform diagnostik molekuler generasi berikutnya.",
-        "body": "Osang Healthcare terpilih dalam “Proyek Penelitian dan Pengembangan Alat Medis Canggih Lintas Kementerian 2026” yang dijalankan Korea Medical Device Development Fund (KMDF), menurut laporan mk.co.kr. Perusahaan spesialis diagnostik in vitro itu akan menggunakan pemilihan ini untuk mendorong pengembangan platform diagnostik molekuler generasi berikutnya. Program tersebut mendukung R&D alat medis canggih di tingkat lintas kementerian, dan pekerjaan perusahaan diperkirakan berfokus pada peningkatan teknologi diagnostik molekuler serta R&D terkait. Osang Healthcare berencana mengembangkan platform generasi berikutnya berdasarkan kapabilitasnya di bidang diagnostik in vitro. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6a1f20d605ff",
-    "slug": "권대영-부위원장-증권업계-기록적-수익-실력-때문인지-뒤돌아-봐야-133244",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T08:47:56.633Z",
-    "updatedAt": "2026-05-07T08:47:56.633Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039302",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039302",
-    "titleFingerprint": "c0d45e4c70ec6d0fafd5032691ac04c29fa6897f",
-    "dedupKeys": [
-      "6a1f20d605ff7fcf766121e5ea69b5111d576e73",
-      "c0d45e4c70ec6d0fafd5032691ac04c29fa6897f",
-      "b51da519cd2a886aace5da63a42488d93a5a96c3"
-    ],
-    "imageUrl": "/images/articles/6a1f20d605ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "권대영 부위원장, 증권업계 기록적 수익에 “실력인지 돌아봐야”",
-        "excerpt": "권대영 금융위원회 부위원장은 7일 모험자본 민관 협의체에서 증권업계의 기록적 수익이 본연의 역량인지 점검해야 한다며 증권업 본연의 기능 강화를 당부했다.",
-        "body": "권대영 금융위원회 부위원장은 7일 모험자본 민관 협의체에서 최근 증권업계가 거둔 기록적 수익을 두고 “실력 때문인지 뒤돌아 봐야 한다”는 취지로 말했다. 그는 증권업계 실적이 외부 환경에 기대어 나온 측면이 많다고 지적하며, 증권업 본연의 기능을 강화해야 한다고 강조했다. 이날 권 부위원장은 업계에 4가지 사항을 당부하며 모험자본 공급과 자본시장 내 역할을 재점검할 필요성을 제기했다. 금융당국의 발언은 높은 수익에도 증권사의 지속 가능한 경쟁력과 실물경제 지원 기능을 다시 살펴보라는 메시지로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kwon Dae-young Questions Brokerage Firms’ Record Profits and Core Role",
-        "excerpt": "On May 7, Financial Services Commission Vice Chairman Kwon Dae-young urged brokerage firms to examine whether recent record profits reflect true capability and to strengthen their core function.",
-        "body": "Financial Services Commission Vice Chairman Kwon Dae-young said on May 7 at a public-private consultative body on venture capital that the securities industry should look back on whether its recent record profits were truly the result of its own capability. He pointed out that much of the industry’s performance appeared to have relied on external conditions, and stressed the need to reinforce the core function of securities firms. Kwon also delivered four requests to the industry, calling for a review of its role in supplying venture capital and in the capital market. The remarks are seen as a message that, despite high earnings, brokerages should reassess sustainable competitiveness and their function in supporting the real economy. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "権大永副委員長、証券業界の過去最高益に「実力か振り返るべき」",
-        "excerpt": "権大永・金融委員会副委員長は7日、冒険資本の官民協議体で、証券業界の記録的収益が本来の実力によるものか点検すべきだと述べた。",
-        "body": "権大永・金融委員会副委員長は7日、冒険資本をめぐる官民協議体で、最近の証券業界の記録的な収益について「実力によるものなのか振り返る必要がある」との趣旨で発言した。権氏は、業界の業績には外部環境に依存した側面が大きいと指摘し、証券業本来の機能を強化すべきだと強調した。この日、権氏は業界に4項目を要請し、冒険資本の供給と資本市場における役割を再点検する必要性を示した。金融当局の発言は、高収益の中でも証券会社の持続可能な競争力と実体経済を支える機能を見直すべきだというメッセージと受け止められる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "权大永副委员长谈券商业绩：创纪录收益是否靠实力需反思",
-        "excerpt": "金融委员会副委员长权大永7日在冒险资本官民协商机制上表示，券商业近期创纪录收益是否源于真正实力，需要行业重新审视。",
-        "body": "金融委员会副委员长权大永7日在冒险资本官民协商机制上表示，证券行业近期取得的创纪录收益，应该回头审视是否真正来自自身实力。他指出，券商业绩在很大程度上依赖外部环境，并强调应强化证券业原本应承担的功能。当天，权大永向行业提出4项要求，认为有必要重新检查证券公司在提供冒险资本以及资本市场中的作用。金融监管部门的这一表态，被解读为即便券商获得高收益，也应重新审视可持续竞争力以及支持实体经济的功能。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kwon Dae-young cuestiona si las ganancias récord bursátiles son mérito real",
-        "excerpt": "El 7 de mayo, Kwon Dae-young pidió al sector de valores revisar si sus ganancias récord reflejan capacidad propia y reforzar su función esencial en el mercado de capitales.",
-        "body": "El vicepresidente de la Comisión de Servicios Financieros, Kwon Dae-young, dijo el 7 de mayo en un órgano consultivo público-privado sobre capital de riesgo que la industria de valores debe mirar atrás y preguntarse si sus recientes ganancias récord se deben realmente a su propia capacidad. Señaló que gran parte del desempeño del sector parece apoyarse en condiciones externas y subrayó la necesidad de fortalecer la función esencial de las firmas de valores. Ese día, Kwon transmitió cuatro peticiones al sector y planteó la necesidad de revisar su papel en el suministro de capital de riesgo y dentro del mercado de capitales. El mensaje de las autoridades financieras apunta a que, pese a los altos beneficios, las corredurías deben reevaluar su competitividad sostenible y su función de apoyo a la economía real. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kwon Dae-young questiona se lucro recorde das corretoras veio de competência",
-        "excerpt": "Em 7 de maio, Kwon Dae-young pediu ao setor de valores que avalie se seus lucros recordes refletem capacidade real e reforcem sua função essencial no mercado.",
-        "body": "O vice-presidente da Comissão de Serviços Financeiros, Kwon Dae-young, afirmou em 7 de maio, em um conselho público-privado sobre capital de risco, que o setor de valores deve refletir se seus recentes lucros recordes decorreram de sua própria competência. Ele apontou que grande parte do desempenho das corretoras parece ter dependido do ambiente externo e destacou a necessidade de fortalecer a função original da indústria de valores. Na ocasião, Kwon fez quatro solicitações ao setor e levantou a necessidade de reavaliar seu papel no fornecimento de capital de risco e no mercado de capitais. A fala da autoridade financeira é interpretada como um recado para que, mesmo com altos ganhos, as corretoras revisem sua competitividade sustentável e sua função de apoiar a economia real. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kwon Dae-young stellt Rekordgewinne der Wertpapierbranche infrage",
-        "excerpt": "Am 7. Mai forderte FSC-Vizechef Kwon Dae-young die Wertpapierbranche auf zu prüfen, ob ihre Rekordgewinne echte Stärke zeigen, und ihre Kernfunktion zu stärken.",
-        "body": "Kwon Dae-young, Vizevorsitzender der Financial Services Commission, sagte am 7. Mai in einem öffentlich-privaten Beratungsgremium zu Risikokapital, die Wertpapierbranche müsse prüfen, ob ihre jüngsten Rekordgewinne tatsächlich auf eigener Leistungsfähigkeit beruhen. Er wies darauf hin, dass ein großer Teil der Ergebnisse offenbar von äußeren Bedingungen getragen worden sei, und betonte die Notwendigkeit, die eigentliche Funktion der Wertpapierfirmen zu stärken. Kwon richtete an diesem Tag vier Anliegen an die Branche und forderte eine Neubewertung ihrer Rolle bei der Bereitstellung von Risikokapital und im Kapitalmarkt. Die Äußerung der Finanzaufsicht gilt als Signal, dass Brokerhäuser trotz hoher Gewinne ihre nachhaltige Wettbewerbsfähigkeit und ihre Unterstützung der Realwirtschaft überprüfen sollen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kwon Dae-young interroge les profits records du secteur des titres",
-        "excerpt": "Le 7 mai, Kwon Dae-young a appelé les sociétés de titres à vérifier si leurs profits records relèvent de leurs compétences et à renforcer leur fonction centrale.",
-        "body": "Le vice-président de la Commission des services financiers, Kwon Dae-young, a déclaré le 7 mai, lors d’un organisme consultatif public-privé sur le capital-risque, que le secteur des titres devait se demander si ses récents profits records étaient réellement dus à ses propres compétences. Il a estimé qu’une grande partie des résultats semblait dépendre de l’environnement extérieur et a souligné la nécessité de renforcer la fonction propre des sociétés de titres. Ce jour-là, Kwon a adressé quatre demandes au secteur, appelant à réexaminer son rôle dans l’apport de capital-risque et sur le marché des capitaux. Le message de l’autorité financière est compris comme une invitation à revoir, malgré des profits élevés, la compétitivité durable des courtiers et leur fonction de soutien à l’économie réelle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوون داي يونغ يشكك في أرباح قياسية لشركات الأوراق المالية",
-        "excerpt": "في 7 مايو، دعا كوون داي يونغ قطاع الأوراق المالية إلى مراجعة ما إذا كانت أرباحه القياسية تعكس كفاءة حقيقية، مؤكدا ضرورة تعزيز وظيفته الأساسية.",
-        "body": "قال كوون داي يونغ، نائب رئيس لجنة الخدمات المالية، في 7 مايو خلال هيئة تشاور عامة وخاصة بشأن رأس المال المغامر، إن على قطاع الأوراق المالية أن يراجع ما إذا كانت أرباحه القياسية الأخيرة ناتجة فعلا عن كفاءته الذاتية. وأشار إلى أن جانبا كبيرا من أداء القطاع اعتمد على البيئة الخارجية، مؤكدا ضرورة تعزيز الوظيفة الأصلية لشركات الأوراق المالية. ووجه كوون في ذلك اليوم أربع طلبات إلى القطاع، داعيا إلى إعادة فحص دوره في توفير رأس المال المغامر وفي سوق رأس المال. وتفهم تصريحات السلطة المالية على أنها رسالة مفادها أن شركات الوساطة، رغم الأرباح المرتفعة، ينبغي أن تعيد تقييم قدرتها التنافسية المستدامة ووظيفتها في دعم الاقتصاد الحقيقي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "क्वोन डे-यंग ने पूछा, ब्रोकरेज की रिकॉर्ड कमाई असली क्षमता से आई या नहीं",
-        "excerpt": "7 मई को क्वोन डे-यंग ने प्रतिभूति उद्योग से पूछा कि क्या हालिया रिकॉर्ड मुनाफा वास्तविक क्षमता का परिणाम है, और इसकी मूल भूमिका मजबूत करने को कहा।",
-        "body": "वित्तीय सेवा आयोग के उपाध्यक्ष क्वोन डे-यंग ने 7 मई को जोखिम पूंजी पर सार्वजनिक-निजी परामर्श निकाय में कहा कि प्रतिभूति उद्योग को यह देखना चाहिए कि उसका हालिया रिकॉर्ड मुनाफा वास्तव में अपनी क्षमता से आया है या नहीं। उन्होंने कहा कि उद्योग के प्रदर्शन का बड़ा हिस्सा बाहरी वातावरण पर निर्भर दिखता है और प्रतिभूति व्यवसाय की मूल भूमिका को मजबूत करने की जरूरत है। उसी दिन क्वोन ने उद्योग से चार बातें आग्रह के रूप में रखीं और जोखिम पूंजी की आपूर्ति तथा पूंजी बाजार में उसकी भूमिका की फिर से समीक्षा करने की आवश्यकता बताई। वित्तीय प्राधिकरण की टिप्पणी को यह संदेश माना जा रहा है कि ऊंचे मुनाफे के बावजूद ब्रोकरेज कंपनियों को टिकाऊ प्रतिस्पर्धात्मकता और वास्तविक अर्थव्यवस्था को समर्थन देने की भूमिका पर फिर ध्यान देना चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kwon Dae-young Pertanyakan Laba Rekor Industri Sekuritas, Murni Kemampuan?",
-        "excerpt": "Pada 7 Mei, Kwon Dae-young meminta industri sekuritas menilai apakah laba rekor terbaru benar-benar mencerminkan kemampuan sendiri dan memperkuat fungsi intinya.",
-        "body": "Wakil Ketua Komisi Jasa Keuangan Kwon Dae-young pada 7 Mei mengatakan dalam forum konsultatif publik-swasta tentang modal ventura bahwa industri sekuritas perlu melihat kembali apakah laba rekor terbaru benar-benar berasal dari kemampuan sendiri. Ia menilai kinerja industri banyak ditopang oleh kondisi eksternal dan menekankan pentingnya memperkuat fungsi asli bisnis sekuritas. Pada hari itu, Kwon menyampaikan empat permintaan kepada industri serta menyoroti perlunya meninjau ulang peran perusahaan sekuritas dalam penyediaan modal ventura dan pasar modal. Pernyataan otoritas keuangan ini dipahami sebagai pesan bahwa, meski mencetak laba tinggi, perusahaan sekuritas harus mengevaluasi kembali daya saing berkelanjutan dan fungsi dukungannya bagi ekonomi riil. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "603461643efa",
-    "slug": "두달간-30-뛴-반도체주-상승세는-둔화할-것다각화-필요한-시점-724945",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T07:50:04.918Z",
-    "updatedAt": "2026-05-07T07:50:04.918Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039176",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039176",
-    "titleFingerprint": "1fb34d7b09eaf80ce9a6bc0452071e749b57cf0f",
-    "dedupKeys": [
-      "603461643efabad430b1ffaa2d54a25ba077808a",
-      "1fb34d7b09eaf80ce9a6bc0452071e749b57cf0f",
-      "9782d1189413a4b842e1532124b1ea27b6274951"
-    ],
-    "imageUrl": "/images/articles/603461643efa.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체주 두 달간 30% 급등…SC 브라이스 “상승세 둔화, 다각화 필요”",
-        "excerpt": "스티브 브라이스 SC그룹 최고투자전략가는 최근 두 달간 30% 오른 반도체주에 대해 상승세 둔화 가능성을 언급하며 코스피 전망의 불확실성과 분산투자 필요성을 강조했다.",
-        "body": "스티브 브라이스 스탠다드차타드(SC)그룹 최고투자전략가는 최근 두 달간 약 30% 오른 반도체주에 대해 상승세가 둔화할 수 있다고 진단했다. 그는 코스피가 8000까지 갈 수도 있고 6000에 머물 수도 있다며, 시장의 정확한 향방은 누구도 알 수 없다고 말했다. 최근 반도체주는 강한 상승 흐름을 보였지만, 단기간 급등 이후에는 속도 조절 가능성이 제기된다. 브라이스 전략가는 이 같은 불확실성 속에서 특정 업종에 대한 집중보다 다각화가 필요한 시점이라고 강조했다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Semiconductor Stocks Jump 30% in Two Months as SC’s Brice Warns Momentum May Slow",
-        "excerpt": "Steve Brice, chief investment strategist at Standard Chartered Group, said semiconductor stocks that rose 30% in two months may see slower gains, stressing KOSPI uncertainty and diversification.",
-        "body": "Steve Brice, chief investment strategist at Standard Chartered Group, said semiconductor stocks that have risen about 30% over the past two months may see their upward momentum slow. He said the KOSPI could climb to 8,000 or remain around 6,000, adding that, frankly, no one knows the market’s exact direction. Semiconductor shares have recently shown strong gains, but the rapid short-term rise has raised the possibility of a slower pace ahead. In this uncertainty, Brice emphasized that investors may need diversification rather than heavy concentration in a single sector. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体株が2カ月で30%上昇、SCブライス氏「勢い鈍化、分散が必要」",
-        "excerpt": "スタンダードチャータード・グループのスティーブ・ブライス最高投資戦略家は、2カ月で30%上昇した半導体株について上昇鈍化の可能性と分散投資の必要性を指摘した。",
-        "body": "スタンダードチャータード（SC）グループのスティーブ・ブライス最高投資戦略家は、最近2カ月で約30%上昇した半導体株について、上昇ペースが鈍化する可能性があるとの見方を示した。同氏は、KOSPIが8000まで上がる可能性も、6000にとどまる可能性もあり、正直なところ市場の正確な方向は誰にも分からないと述べた。半導体株は足元で強い上昇を見せたが、短期間の急騰後には速度調整の可能性が浮上している。ブライス氏は、こうした不確実性の中で特定業種への集中よりも分散が必要な時期だと強調した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体股两个月涨30%，渣打Brice称涨势或放缓、需多元配置",
-        "excerpt": "渣打集团首席投资策略师Steve Brice表示，近两个月上涨30%的半导体股涨势可能放缓，并强调KOSPI前景不确定，投资需要多元化。",
-        "body": "渣打集团首席投资策略师Steve Brice表示，最近两个月上涨约30%的半导体股，其上行动能可能会放缓。他称，KOSPI可能升至8000点，也可能停留在6000点，坦率地说，没有人知道市场的准确方向。近期半导体股表现出强劲上涨走势，但短期快速上涨后，市场也出现了节奏放缓的可能性。在这种不确定性下，Brice强调，相比集中押注特定行业，现在更需要多元化配置。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de semiconductores suben 30% en dos meses y SC advierte menor impulso",
-        "excerpt": "Steve Brice, estratega jefe de inversión de Standard Chartered Group, dijo que las acciones de semiconductores que subieron 30% en dos meses podrían perder ritmo y pidió diversificación.",
-        "body": "Steve Brice, estratega jefe de inversión de Standard Chartered Group, señaló que las acciones de semiconductores, que han subido cerca de 30% en los últimos dos meses, podrían ver una desaceleración de su impulso alcista. Dijo que el KOSPI podría llegar a 8.000 puntos o quedarse en 6.000, y añadió que, sinceramente, nadie conoce la dirección exacta del mercado. El sector ha mostrado una fuerte subida reciente, pero el avance rápido en poco tiempo plantea la posibilidad de un ritmo más moderado. Ante esa incertidumbre, Brice destacó que es momento de diversificar en lugar de concentrarse en un solo sector. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações de semicondutores sobem 30% em dois meses; SC vê alta mais lenta",
-        "excerpt": "Steve Brice, estrategista-chefe de investimentos do Standard Chartered Group, disse que ações de semicondutores que subiram 30% em dois meses podem perder força e defendeu diversificação.",
-        "body": "Steve Brice, estrategista-chefe de investimentos do Standard Chartered Group, avaliou que as ações de semicondutores, que subiram cerca de 30% nos últimos dois meses, podem ter uma desaceleração no ritmo de alta. Ele afirmou que o KOSPI pode chegar a 8.000 pontos ou permanecer em 6.000, acrescentando que, francamente, ninguém sabe a direção exata do mercado. O setor mostrou forte desempenho recente, mas a rápida valorização de curto prazo levanta a possibilidade de ajuste no ritmo. Diante dessa incerteza, Brice ressaltou que este é um momento para diversificação, não para concentração em um único setor. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Halbleiteraktien steigen in zwei Monaten 30%, SC-Brice warnt vor langsamerem Tempo",
-        "excerpt": "Steve Brice, Chef-Anlagestratege der Standard Chartered Group, sagte, die in zwei Monaten um 30% gestiegenen Halbleiteraktien könnten an Schwung verlieren, und betonte Diversifikation.",
-        "body": "Steve Brice, Chef-Anlagestratege der Standard Chartered Group, sagte, dass Halbleiteraktien, die in den vergangenen zwei Monaten um etwa 30% gestiegen sind, künftig an Aufwärtsdynamik verlieren könnten. Der KOSPI könne auf 8.000 steigen oder bei 6.000 bleiben; ehrlich gesagt wisse niemand die genaue Marktrichtung, sagte er. Halbleiterwerte zeigten zuletzt eine starke Rally, doch nach dem schnellen kurzfristigen Anstieg wird ein moderateres Tempo möglich. Vor diesem Hintergrund betonte Brice, dass nun Diversifikation statt einer starken Konzentration auf einen bestimmten Sektor nötig sei. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Semi-conducteurs en hausse de 30% en deux mois: SC voit un ralentissement possible",
-        "excerpt": "Steve Brice, stratégiste en chef de Standard Chartered Group, a estimé que les valeurs des semi-conducteurs, en hausse de 30% en deux mois, pourraient ralentir et a souligné la diversification.",
-        "body": "Steve Brice, stratégiste en chef de Standard Chartered Group, a déclaré que les actions liées aux semi-conducteurs, qui ont gagné environ 30% au cours des deux derniers mois, pourraient voir leur dynamique haussière ralentir. Selon lui, le KOSPI pourrait monter à 8.000 points ou rester à 6.000; franchement, personne ne connaît la direction exacte du marché. Les semi-conducteurs ont récemment affiché une forte progression, mais cette hausse rapide à court terme soulève la possibilité d’un rythme plus modéré. Dans ce contexte d’incertitude, Brice a insisté sur la nécessité de diversifier plutôt que de se concentrer sur un seul secteur. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الرقائق تقفز 30% في شهرين وبرايس من ستاندرد تشارترد يتوقع تباطؤ الزخم",
-        "excerpt": "قال ستيف برايس، كبير استراتيجيي الاستثمار في ستاندرد تشارترد، إن أسهم الرقائق التي ارتفعت 30% خلال شهرين قد تشهد تباطؤا، مؤكدا ضبابية كوسبي والحاجة للتنويع.",
-        "body": "قال ستيف برايس، كبير استراتيجيي الاستثمار في مجموعة ستاندرد تشارترد، إن أسهم أشباه الموصلات التي ارتفعت بنحو 30% خلال الشهرين الماضيين قد تشهد تباطؤا في زخم الصعود. وأضاف أن مؤشر كوسبي قد يصل إلى 8000 نقطة أو يبقى عند 6000 نقطة، قائلا بصراحة إن أحدا لا يعرف الاتجاه الدقيق للسوق. وقد سجلت أسهم الرقائق أداء قويا في الفترة الأخيرة، لكن الارتفاع السريع خلال مدة قصيرة يطرح احتمال تهدئة الوتيرة. وفي ظل هذه الضبابية، شدد برايس على أن الوقت يتطلب التنويع بدلا من التركيز على قطاع واحد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर शेयर दो महीनों में 30% चढ़े, SC के Brice ने रफ्तार घटने की चेतावनी दी",
-        "excerpt": "Standard Chartered Group के मुख्य निवेश रणनीतिकार Steve Brice ने कहा कि दो महीनों में 30% चढ़े सेमीकंडक्टर शेयरों की तेजी धीमी पड़ सकती है और विविधीकरण जरूरी है।",
-        "body": "Standard Chartered Group के मुख्य निवेश रणनीतिकार Steve Brice ने कहा कि पिछले दो महीनों में करीब 30% चढ़े सेमीकंडक्टर शेयरों की तेजी आगे धीमी पड़ सकती है। उन्होंने कहा कि KOSPI 8,000 तक जा सकता है या 6,000 पर रह सकता है, और साफ कहा कि बाजार की सही दिशा कोई नहीं जानता। हाल में सेमीकंडक्टर शेयरों में मजबूत तेजी दिखी है, लेकिन कम समय में तेज उछाल के बाद रफ्तार कम होने की संभावना उठ रही है। इसी अनिश्चितता के बीच Brice ने कहा कि किसी एक सेक्टर पर अधिक निर्भर रहने के बजाय विविधीकरण की जरूरत है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham semikonduktor naik 30% dalam dua bulan, SC Brice lihat laju bisa melambat",
-        "excerpt": "Steve Brice, kepala strategi investasi Standard Chartered Group, mengatakan saham semikonduktor yang naik 30% dalam dua bulan berpotensi melambat dan menekankan perlunya diversifikasi.",
-        "body": "Steve Brice, kepala strategi investasi Standard Chartered Group, menilai saham semikonduktor yang naik sekitar 30% dalam dua bulan terakhir dapat mengalami perlambatan momentum. Ia mengatakan KOSPI bisa menuju 8.000 atau tetap di 6.000, dan secara terus terang menyebut tidak ada yang tahu arah pasar secara pasti. Saham semikonduktor belakangan menunjukkan penguatan kuat, tetapi kenaikan cepat dalam waktu singkat memunculkan kemungkinan penyesuaian laju. Dalam ketidakpastian tersebut, Brice menekankan bahwa saat ini diperlukan diversifikasi, bukan konsentrasi berlebihan pada satu sektor. Sumber: mk.co.kr"
       }
     }
   }
