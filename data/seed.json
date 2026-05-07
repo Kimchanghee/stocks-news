@@ -1,5 +1,230 @@
 [
   {
+    "id": "85f114d2c397",
+    "slug": "7500-터치한-코스피韓증시-시총-캐나다-제치고-글로벌-7위-719047",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T17:50:48.591Z",
+    "updatedAt": "2026-05-07T17:50:48.591Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050724081",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050724081",
+    "titleFingerprint": "be59cbec55430adc06d819fb642cc50222a5e487",
+    "dedupKeys": [
+      "85f114d2c3978efdd42797d3c4dd2c888894e66e",
+      "be59cbec55430adc06d819fb642cc50222a5e487",
+      "3336f1e47aafb58e82cd5bdb024799bc290732f0"
+    ],
+    "imageUrl": "/images/articles/85f114d2c397.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7500 터치, 한국 증시 시총 캐나다 제치고 세계 7위",
+        "excerpt": "코스피가 7500선을 터치한 가운데 한국 증시 시가총액이 캐나다를 넘어 글로벌 7위에 올랐다고 hankyung.com이 보도했다.",
+        "body": "코스피가 7500선을 터치한 가운데 한국 증시의 전체 시가총액이 캐나다를 제치고 글로벌 7위에 오른 것으로 전해졌다. 보도에 따르면 이번 순위 변화의 핵심 수치는 코스피 7500선 도달과 한국 증시 시총의 캐나다 추월이다. 한국 증시는 글로벌 주요 시장 가운데 7위로 집계되며 국제 증시 내 위상이 부각됐다. 이번 내용은 한국 증시 규모와 주요국 시장 순위를 함께 보여주는 지표로 해석된다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "KOSPI Touches 7,500 as Korea’s Market Cap Overtakes Canada for Global No. 7",
+        "excerpt": "As the KOSPI touched the 7,500 level, South Korea’s stock market capitalization surpassed Canada’s and ranked seventh globally, hankyung.com reported.",
+        "body": "The KOSPI touched the 7,500 level, while South Korea’s total stock market capitalization reportedly overtook Canada’s to rank seventh worldwide. According to the report, the key figures are the KOSPI’s move to 7,500 and Korea’s market value surpassing Canada’s. The Korean market was counted as the seventh-largest among global stock markets, highlighting its position in international equity rankings. The news presents both the index milestone and the change in market-cap ranking. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "KOSPIが7500に到達、韓国株式市場の時価総額はカナダ超え世界7位",
+        "excerpt": "KOSPIが7500台に到達する中、韓国株式市場の時価総額がカナダを上回り、世界7位になったとhankyung.comが報じた。",
+        "body": "KOSPIが7500台に到達する中、韓国株式市場全体の時価総額がカナダを上回り、世界7位になったと伝えられた。報道によると、今回の順位変動の中心となる数値はKOSPIの7500到達と、韓国市場の時価総額がカナダを超えた点だ。韓国市場は世界の主要株式市場の中で7位に集計され、国際的な市場順位における存在感が示された。今回の内容は指数の節目と時価総額順位の変化を合わせて伝えるものだ。出典: hankyung.com。"
+      },
+      "zh": {
+        "title": "KOSPI触及7500点，韩国股市总市值超加拿大升至全球第七",
+        "excerpt": "KOSPI触及7500点之际，韩国股市总市值超过加拿大，位列全球第七，hankyung.com报道称。",
+        "body": "KOSPI触及7500点，与此同时，韩国股市整体市值据报超过加拿大，升至全球第七。报道称，此次排名变化的核心数字是KOSPI达到7500点，以及韩国股市总市值超越加拿大。韩国市场在全球主要股票市场中被统计为第七位，显示出其在国际股市排名中的地位。该消息同时呈现了指数关口和市值排名变化两个事实。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "El KOSPI toca 7.500 y la bolsa coreana supera a Canadá en capitalización global",
+        "excerpt": "El KOSPI tocó los 7.500 puntos y la capitalización bursátil de Corea del Sur superó a la de Canadá, ubicándose séptima a nivel mundial, informó hankyung.com.",
+        "body": "El KOSPI tocó el nivel de 7.500 puntos, mientras que la capitalización total del mercado bursátil de Corea del Sur habría superado a la de Canadá para ubicarse en el séptimo lugar mundial. Según el reporte, las cifras clave son el avance del KOSPI hasta 7.500 y el hecho de que el valor de mercado coreano rebasó al canadiense. La bolsa coreana fue contabilizada como la séptima entre los principales mercados globales, lo que destaca su posición en la clasificación internacional. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "KOSPI toca 7.500 e bolsa da Coreia supera Canadá em valor de mercado global",
+        "excerpt": "Com o KOSPI tocando 7.500 pontos, a capitalização do mercado acionário da Coreia do Sul superou a do Canadá e ficou em 7º lugar global, informou o hankyung.com.",
+        "body": "O KOSPI tocou o nível de 7.500 pontos, enquanto a capitalização total do mercado acionário da Coreia do Sul teria superado a do Canadá, alcançando a sétima posição mundial. Segundo a reportagem, os números centrais são a chegada do KOSPI a 7.500 e a ultrapassagem do valor de mercado coreano sobre o canadense. A bolsa coreana foi contabilizada como a sétima entre os principais mercados globais, destacando sua posição no ranking internacional. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "KOSPI berührt 7.500 Punkte, Koreas Börsenwert überholt Kanada auf Rang sieben",
+        "excerpt": "Der KOSPI berührte die Marke von 7.500 Punkten, während Südkoreas Börsenkapitalisierung Kanada übertraf und weltweit Rang sieben erreichte, berichtete hankyung.com.",
+        "body": "Der KOSPI berührte die Marke von 7.500 Punkten, während die gesamte Marktkapitalisierung des südkoreanischen Aktienmarkts laut Bericht Kanada überholte und weltweit auf Rang sieben stieg. Die zentralen Angaben sind der KOSPI-Stand von 7.500 und das Übertreffen Kanadas beim Börsenwert. Der koreanische Markt wurde damit unter den großen globalen Aktienmärkten als siebtgrößter gezählt. Die Meldung zeigt zugleich den Index-Meilenstein und die Veränderung in der Rangliste nach Marktkapitalisierung. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Le KOSPI touche 7 500, la capitalisation boursière coréenne dépasse le Canada",
+        "excerpt": "Alors que le KOSPI a touché 7 500 points, la capitalisation boursière de la Corée du Sud a dépassé celle du Canada pour se classer 7e mondiale, selon hankyung.com.",
+        "body": "Le KOSPI a touché le seuil des 7 500 points, tandis que la capitalisation totale du marché boursier sud-coréen aurait dépassé celle du Canada pour atteindre la septième place mondiale. Selon le rapport, les chiffres clés sont le passage du KOSPI à 7 500 et le dépassement du Canada par la valeur de marché coréenne. La Bourse coréenne est ainsi comptabilisée au septième rang parmi les grands marchés mondiaux, ce qui met en évidence sa place dans le classement international. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "كوسبي يلامس 7500 نقطة وسوق كوريا تتجاوز كندا في القيمة السوقية للمركز السابع",
+        "excerpt": "لامس مؤشر كوسبي مستوى 7500 نقطة، فيما تجاوزت القيمة السوقية لسوق الأسهم الكورية نظيرتها الكندية لتحتل المركز السابع عالميا، وفق hankyung.com.",
+        "body": "لامس مؤشر كوسبي مستوى 7500 نقطة، بينما أفادت التقارير بأن القيمة السوقية الإجمالية لسوق الأسهم في كوريا الجنوبية تجاوزت كندا لتحتل المركز السابع عالميا. ووفقا للتقرير، تتمثل الأرقام الأساسية في وصول كوسبي إلى 7500 نقطة وتقدم القيمة السوقية الكورية على الكندية. وجاءت السوق الكورية في المرتبة السابعة بين أسواق الأسهم العالمية الرئيسية، ما يبرز موقعها في ترتيب الأسواق الدولية. ويعرض الخبر في الوقت نفسه مستوى المؤشر وتغير ترتيب القيمة السوقية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "KOSPI ने 7,500 छुआ, कोरिया का शेयर बाजार मूल्य कनाडा से आगे वैश्विक 7वें स्थान पर",
+        "excerpt": "KOSPI के 7,500 स्तर को छूने के साथ दक्षिण कोरिया के शेयर बाजार का कुल बाजार पूंजीकरण कनाडा से आगे निकलकर वैश्विक स्तर पर सातवें स्थान पर पहुंचा, hankyung.com ने बताया।",
+        "body": "KOSPI ने 7,500 का स्तर छुआ, जबकि दक्षिण कोरिया के शेयर बाजार का कुल बाजार पूंजीकरण कथित तौर पर कनाडा से आगे निकलकर दुनिया में सातवें स्थान पर पहुंच गया। रिपोर्ट के अनुसार, मुख्य आंकड़े KOSPI का 7,500 तक पहुंचना और कोरियाई बाजार मूल्य का कनाडा से अधिक होना हैं। कोरियाई शेयर बाजार को प्रमुख वैश्विक बाजारों में सातवें स्थान पर गिना गया, जिससे अंतरराष्ट्रीय इक्विटी रैंकिंग में उसकी स्थिति सामने आई। यह खबर सूचकांक के स्तर और बाजार पूंजीकरण रैंकिंग में बदलाव दोनों को दिखाती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "KOSPI Sentuh 7.500, Kapitalisasi Pasar Saham Korea Salip Kanada ke Peringkat 7",
+        "excerpt": "Saat KOSPI menyentuh level 7.500, kapitalisasi pasar saham Korea Selatan melampaui Kanada dan menempati peringkat ketujuh dunia, lapor hankyung.com.",
+        "body": "KOSPI menyentuh level 7.500, sementara total kapitalisasi pasar saham Korea Selatan dilaporkan melampaui Kanada dan naik ke peringkat ketujuh dunia. Menurut laporan tersebut, angka utama dalam perubahan peringkat ini adalah KOSPI yang mencapai 7.500 dan nilai pasar saham Korea yang melewati Kanada. Pasar saham Korea dihitung sebagai yang ketujuh di antara pasar saham utama global, menyoroti posisinya dalam peringkat internasional. Berita ini menampilkan capaian indeks dan perubahan peringkat kapitalisasi pasar. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "a354c730b992",
+    "slug": "hd현대중공업-분석-기대-이상의-통합-성적표꼭-알아야-할-3가지-리스크-737036",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T17:49:54.726Z",
+    "updatedAt": "2026-05-07T17:49:54.726Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605072591i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605072591i",
+    "titleFingerprint": "d75c6077759216e6f099d000e7d2abdf5cd5955a",
+    "dedupKeys": [
+      "a354c730b992e756b848caa4e9b4dc3d3f47f182",
+      "d75c6077759216e6f099d000e7d2abdf5cd5955a",
+      "b50d28dda294f2c536fb3069ffb53a3afcfe497c"
+    ],
+    "imageUrl": "/images/articles/a354c730b992.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HD현대중공업 1분기 실적 분석, 기대 넘은 통합 성적표와 리스크 점검",
+        "excerpt": "HD현대중공업은 2026년 5월 7일 공개된 1분기 잠정 실적에서 매출·영업이익·순이익이 모두 급증하며 합병 이후 첫 통합 성과를 확인했다.",
+        "body": "HD현대중공업은 2026년 1분기 잠정 연결 실적에서 매출 5조9163억원, 영업이익 9054억원, 당기순이익 7738억원을 기록했다고 5월 7일 전해졌다. 전년 동기 대비 매출은 54.8%, 영업이익은 108.8%, 순이익은 172.3% 늘었다. 영업이익률은 15.3%로 1년 전보다 4.0%포인트 개선됐고, 영업이익은 증권가 컨센서스를 13.6% 웃돌았다. 이번 실적은 2025년 12월 1일 HD현대미포와의 합병 이후 중형선사업부 실적이 분기 전체에 반영된 첫 성적표라는 점에서 의미가 있다. hankyung.com은 합병 시너지, 고선가 수주 물량의 매출 반영, 엔진 부문의 성장 동력이 어닝 서프라이즈의 배경이라고 인용했다."
+      },
+      "en": {
+        "title": "HD Hyundai Heavy Q1 Results Beat Expectations After Merger Integration",
+        "excerpt": "HD Hyundai Heavy Industries reported sharp growth in provisional Q1 2026 sales, operating profit and net income, marking its first full quarterly result after the HD Hyundai Mipo merger.",
+        "body": "HD Hyundai Heavy Industries posted provisional consolidated Q1 2026 sales of 5.9163 trillion won, operating profit of 905.4 billion won and net income of 773.8 billion won, according to a May 7 report. Sales rose 54.8% year on year, operating profit increased 108.8%, and net profit jumped 172.3%. The operating margin reached 15.3%, up 4.0 percentage points from a year earlier, while operating profit exceeded market consensus by 13.6%. The result is notable because it is the first full-quarter report after the December 1, 2025 merger with HD Hyundai Mipo, including the medium-sized ship division for the entire quarter. hankyung.com cited merger synergy, revenue recognition from high-priced orders and engine business growth as key drivers."
+      },
+      "ja": {
+        "title": "HD現代重工業の1Q実績、統合後初の成績表が市場予想を上回る",
+        "excerpt": "HD現代重工業は2026年5月7日に伝えられた1Q暫定実績で、売上高、営業利益、純利益がそろって急増し、合併後初の統合成果を示した。",
+        "body": "HD現代重工業は2026年第1四半期の暫定連結実績で、売上高5兆9163億ウォン、営業利益9054億ウォン、純利益7738億ウォンを記録したと5月7日に伝えられた。前年同期比で売上高は54.8%、営業利益は108.8%、純利益は172.3%増加した。営業利益率は15.3%で前年より4.0ポイント改善し、営業利益は市場コンセンサスを13.6%上回った。今回の実績は、2025年12月1日に完了したHD現代尾浦との合併後、中型船事業部の実績が四半期全体に反映された初の成績表という点で意味がある。hankyung.comは、合併シナジー、高船価受注分の売上反映、エンジン部門の成長動力を背景として引用した。"
+      },
+      "zh": {
+        "title": "HD现代重工一季度业绩超预期，合并后首份综合成绩单受关注",
+        "excerpt": "HD现代重工在2026年5月7日披露的一季度暂定业绩中，销售额、营业利润和净利润均大幅增长，显示合并后的首个完整季度成果。",
+        "body": "据5月7日报道，HD现代重工2026年第一季度暂定合并业绩显示，销售额为5.9163万亿韩元，营业利润为9054亿韩元，净利润为7738亿韩元。与去年同期相比，销售额增长54.8%，营业利润增长108.8%，净利润增长172.3%。营业利润率为15.3%，较一年前提高4.0个百分点，营业利润高出市场共识13.6%。该业绩的意义在于，这是2025年12月1日与HD现代尾浦合并后，中型船事业部业绩首次完整反映在一个季度中的综合成绩单。hankyung.com报道称，合并协同效应、高船价订单转化为收入以及发动机业务增长动力，是此次业绩超预期的背景。"
+      },
+      "es": {
+        "title": "HD Hyundai Heavy supera previsiones en el 1T tras su primera integración completa",
+        "excerpt": "HD Hyundai Heavy Industries mostró el 7 de mayo de 2026 un fuerte aumento en ventas, beneficio operativo y utilidad neta del 1T, su primer trimestre completo tras la fusión con HD Hyundai Mipo.",
+        "body": "HD Hyundai Heavy Industries registró en el primer trimestre provisional de 2026 ventas consolidadas de 5,9163 billones de wones, beneficio operativo de 905.400 millones de wones y utilidad neta de 773.800 millones de wones, según se informó el 7 de mayo. Las ventas crecieron 54,8% interanual, el beneficio operativo 108,8% y la utilidad neta 172,3%. El margen operativo llegó al 15,3%, 4,0 puntos porcentuales más que un año antes, y el beneficio operativo superó en 13,6% el consenso del mercado. El dato destaca porque es el primer trimestre completo tras la fusión con HD Hyundai Mipo, completada el 1 de diciembre de 2025, con la división de buques medianos plenamente reflejada. hankyung.com citó la sinergia de la fusión, los pedidos de alto precio reconocidos como ingresos y el crecimiento del negocio de motores como factores clave."
+      },
+      "pt": {
+        "title": "HD Hyundai Heavy supera expectativas no 1T com primeiro resultado integrado",
+        "excerpt": "A HD Hyundai Heavy Industries apresentou em 7 de maio de 2026 forte alta em receita, lucro operacional e lucro líquido do 1T, no primeiro trimestre completo após a fusão com a HD Hyundai Mipo.",
+        "body": "A HD Hyundai Heavy Industries registrou no resultado consolidado provisório do primeiro trimestre de 2026 receita de 5,9163 trilhões de won, lucro operacional de 905,4 bilhões de won e lucro líquido de 773,8 bilhões de won, segundo notícia de 7 de maio. A receita subiu 54,8% em relação ao ano anterior, o lucro operacional avançou 108,8% e o lucro líquido aumentou 172,3%. A margem operacional foi de 15,3%, alta de 4,0 pontos percentuais em um ano, e o lucro operacional ficou 13,6% acima do consenso do mercado. O resultado é relevante por ser o primeiro trimestre completo após a fusão com a HD Hyundai Mipo, concluída em 1 de dezembro de 2025, incluindo integralmente a divisão de navios médios. hankyung.com citou sinergias da fusão, pedidos de maior preço convertidos em receita e crescimento em motores como motores do desempenho."
+      },
+      "de": {
+        "title": "HD Hyundai Heavy übertrifft im 1. Quartal Erwartungen nach Mipo-Fusion",
+        "excerpt": "HD Hyundai Heavy Industries meldete am 7. Mai 2026 für das vorläufige erste Quartal deutlich höhere Umsätze, operativen Gewinn und Nettogewinn als erstes vollständiges Quartal nach der Fusion.",
+        "body": "HD Hyundai Heavy Industries erzielte im vorläufigen konsolidierten Ergebnis des ersten Quartals 2026 einen Umsatz von 5,9163 Billionen Won, einen operativen Gewinn von 905,4 Milliarden Won und einen Nettogewinn von 773,8 Milliarden Won, wie am 7. Mai berichtet wurde. Der Umsatz stieg im Jahresvergleich um 54,8%, der operative Gewinn um 108,8% und der Nettogewinn um 172,3%. Die operative Marge erreichte 15,3%, 4,0 Prozentpunkte mehr als ein Jahr zuvor; der operative Gewinn lag 13,6% über dem Marktkonsens. Das Ergebnis ist bedeutsam, weil es der erste vollständige Quartalsausweis nach der am 1. Dezember 2025 abgeschlossenen Fusion mit HD Hyundai Mipo ist und die Sparte für mittelgroße Schiffe voll einbezieht. hankyung.com nannte Fusionssynergien, Umsatzbeiträge aus hochpreisigen Aufträgen und Wachstum im Motorengeschäft als zentrale Gründe."
+      },
+      "fr": {
+        "title": "HD Hyundai Heavy dépasse les attentes au 1T avec son premier bilan intégré",
+        "excerpt": "HD Hyundai Heavy Industries a publié le 7 mai 2026 des résultats provisoires du 1T en forte hausse pour le chiffre d’affaires, le bénéfice opérationnel et le résultat net après la fusion Mipo.",
+        "body": "HD Hyundai Heavy Industries a enregistré au premier trimestre 2026, en données consolidées provisoires, un chiffre d’affaires de 5.9163 billions de wons, un bénéfice opérationnel de 905,4 milliards de wons et un résultat net de 773,8 milliards de wons, selon un rapport du 7 mai. Le chiffre d’affaires a progressé de 54,8% sur un an, le bénéfice opérationnel de 108,8% et le résultat net de 172,3%. La marge opérationnelle a atteint 15,3%, en hausse de 4,0 points, et le bénéfice opérationnel a dépassé le consensus de 13,6%. Ce résultat compte car il s’agit du premier trimestre complet après la fusion avec HD Hyundai Mipo, finalisée le 1er décembre 2025, avec l’intégration de la division des navires de taille moyenne. hankyung.com cite les synergies de fusion, la conversion en chiffre d’affaires de commandes à prix élevé et la croissance des moteurs comme facteurs clés."
+      },
+      "ar": {
+        "title": "نتائج HD هيونداي للصناعات الثقيلة في الربع الأول تتجاوز التوقعات بعد الاندماج",
+        "excerpt": "أظهرت HD هيونداي للصناعات الثقيلة في 7 مايو 2026 نموا قويا في المبيعات والربح التشغيلي وصافي الربح للربع الأول، في أول نتيجة فصلية كاملة بعد اندماج HD Hyundai Mipo.",
+        "body": "سجلت HD هيونداي للصناعات الثقيلة في نتائجها الموحدة الأولية للربع الأول من 2026 مبيعات قدرها 5.9163 تريليون وون، وربحا تشغيليا قدره 905.4 مليار وون، وصافي ربح قدره 773.8 مليار وون، وفق تقرير في 7 مايو. وارتفعت المبيعات 54.8% على أساس سنوي، وزاد الربح التشغيلي 108.8%، وقفز صافي الربح 172.3%. وبلغ هامش التشغيل 15.3%، بزيادة 4.0 نقاط مئوية عن العام السابق، كما تجاوز الربح التشغيلي توافق السوق بنسبة 13.6%. تكتسب النتائج أهمية لأنها أول ربع كامل بعد الاندماج مع HD Hyundai Mipo في 1 ديسمبر 2025، مع إدراج قسم السفن المتوسطة طوال الربع. ونقل hankyung.com أن التآزر من الاندماج، وتحويل طلبات السفن مرتفعة السعر إلى إيرادات، ونمو قطاع المحركات كانت عوامل رئيسية."
+      },
+      "hi": {
+        "title": "HD Hyundai Heavy का Q1 प्रदर्शन उम्मीदों से ऊपर, विलय के बाद पहली पूरी रिपोर्ट",
+        "excerpt": "HD Hyundai Heavy Industries ने 7 मई 2026 को Q1 2026 के अस्थायी नतीजों में बिक्री, परिचालन लाभ और शुद्ध लाभ में तेज वृद्धि दिखाई, जो HD Hyundai Mipo विलय के बाद पहली पूर्ण तिमाही है।",
+        "body": "HD Hyundai Heavy Industries ने 2026 की पहली तिमाही के अस्थायी समेकित नतीजों में 5.9163 ट्रिलियन वॉन की बिक्री, 905.4 अरब वॉन का परिचालन लाभ और 773.8 अरब वॉन का शुद्ध लाभ दर्ज किया, यह जानकारी 7 मई को दी गई। सालाना आधार पर बिक्री 54.8%, परिचालन लाभ 108.8% और शुद्ध लाभ 172.3% बढ़ा। परिचालन मार्जिन 15.3% रहा, जो एक साल पहले से 4.0 प्रतिशत अंक अधिक है, और परिचालन लाभ बाजार अनुमान से 13.6% ऊपर रहा। यह नतीजा इसलिए अहम है क्योंकि 1 दिसंबर 2025 को HD Hyundai Mipo के साथ विलय पूरा होने के बाद यह पहली पूरी तिमाही है, जिसमें मझोले जहाज कारोबार का पूरा प्रभाव शामिल हुआ। hankyung.com ने विलय तालमेल, ऊंची कीमत वाले ऑर्डरों की आय मान्यता और इंजन व्यवसाय की वृद्धि को प्रमुख कारण बताया।"
+      },
+      "id": {
+        "title": "HD Hyundai Heavy Q1 Lampaui Ekspektasi, Laporan Terpadu Pertama Jadi Sorotan",
+        "excerpt": "HD Hyundai Heavy Industries pada 7 Mei 2026 melaporkan kenaikan tajam penjualan, laba operasi, dan laba bersih sementara Q1, sebagai kuartal penuh pertama setelah merger HD Hyundai Mipo.",
+        "body": "HD Hyundai Heavy Industries mencatat kinerja konsolidasi sementara kuartal I 2026 dengan penjualan 5,9163 triliun won, laba operasi 905,4 miliar won, dan laba bersih 773,8 miliar won, menurut laporan 7 Mei. Dibandingkan tahun sebelumnya, penjualan naik 54,8%, laba operasi meningkat 108,8%, dan laba bersih melonjak 172,3%. Margin operasi mencapai 15,3%, naik 4,0 poin persentase, sementara laba operasi melampaui konsensus pasar sebesar 13,6%. Hasil ini penting karena menjadi laporan kuartal penuh pertama setelah merger dengan HD Hyundai Mipo yang selesai pada 1 Desember 2025, termasuk kontribusi penuh divisi kapal menengah. hankyung.com mengutip sinergi merger, pengakuan pendapatan dari pesanan berharga tinggi, dan pertumbuhan bisnis mesin sebagai pendorong utama."
+      }
+    }
+  },
+  {
+    "id": "b61ce49b8ea2",
+    "slug": "250조-벌었는데코스피-폭주에-국민연금-고민하는-까닭-635785",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-07T17:48:26.410Z",
+    "updatedAt": "2026-05-07T17:48:26.411Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050724121",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050724121",
+    "titleFingerprint": "0cd5db311ce3e6064d0aa28738e699a644797385",
+    "dedupKeys": [
+      "b61ce49b8ea2f34b0e1126845479917418bcbb2d",
+      "0cd5db311ce3e6064d0aa28738e699a644797385",
+      "72b8539133d4d7608df2430e0dd9185148b32076"
+    ],
+    "imageUrl": "/images/articles/b61ce49b8ea2.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국민연금 국내주식 비중 급등, 코스피 랠리 속 리밸런싱 고민",
+        "excerpt": "국민연금은 2026년 4월 말 국내주식 비중이 25%를 넘고 올해 약 250조원을 벌면서, 코스피 랠리 이후 목표 비중 초과와 리밸런싱 여부를 두고 고민이 커졌다.",
+        "body": "국민연금이 코스피지수 랠리 영향으로 국내주식 비중이 목표치를 크게 웃돌면서 자산 재조정 여부를 놓고 고민에 빠졌다. 7일 hankyung.com에 따르면 국민연금의 국내주식 비중은 2026년 4월 말 기준 25%를 넘어 올해 목표치 14.9%를 10%포인트 이상 초과했다. 반도체주 중심의 코스피 랠리와 지난 1월 기금운용위원회의 리밸런싱 유예 결정이 맞물린 결과로 풀이된다. 국민연금은 올해 들어 약 250조원의 운용수익을 거두며 기금 규모가 1700조원을 넘어섰다. 업계는 이달 열리는 기금위가 향후 5년간 자산군별 목표 비중과 운용 방향을 정하는 분수령이 될 것으로 보고 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "National Pension’s Korean stock weight jumps as KOSPI rally raises rebalancing issue",
+        "excerpt": "South Korea’s National Pension Service saw its domestic stock weight exceed 25% by late April 2026 after earning about 250 trillion won this year, putting rebalancing in focus.",
+        "body": "South Korea’s National Pension Service is facing a rebalancing dilemma after the KOSPI rally pushed its domestic stock allocation far above target. According to hankyung.com on May 7, the fund’s Korean stock weight exceeded 25% at the end of April 2026, more than 10 percentage points above this year’s target of 14.9%. The move was attributed to a semiconductor-led KOSPI rally and the fund management committee’s January decision to defer rebalancing. The pension fund has earned about 250 trillion won this year, lifting total assets above 1,700 trillion won. Market participants see this month’s committee meeting as a key point for setting asset-class targets and investment direction for the next five years. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "国民年金の韓国株比率が急上昇、KOSPIラリーでリバランス焦点に",
+        "excerpt": "国民年金は2026年4月末時点で韓国株比率が25%を超え、今年約250兆ウォンを稼いだことで、目標比率超過とリバランス判断が焦点になっている。",
+        "body": "韓国の国民年金は、KOSPI指数の上昇で国内株式比率が目標を大きく上回り、資産配分の再調整を巡って難しい判断を迫られている。hankyung.comが5月7日に報じたところによると、国民年金の国内株式比率は2026年4月末時点で25%を超え、今年の目標比率14.9%を10ポイント以上上回った。半導体株を中心としたKOSPIラリーと、1月の基金運用委員会によるリバランス猶予決定が重なった結果とみられる。国民年金は今年に入り約250兆ウォンの運用収益を上げ、基金規模は1700兆ウォンを超えた。業界では、今月開かれる基金運用委員会が今後5年間の資産別目標比率と運用方向を決める節目になるとみている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国国民年金本土股票占比飙升，KOSPI上涨引发再平衡难题",
+        "excerpt": "韩国国民年金截至2026年4月底本土股票占比超过25%，今年赚得约250万亿韩元，目标占比超标使再平衡问题受到关注。",
+        "body": "受KOSPI指数上涨影响，韩国国民年金的本土股票占比大幅高于目标，资产再平衡问题随之浮现。据hankyung.com 5月7日报道，截至2026年4月底，国民年金的韩国股票占比已超过25%，比今年14.9%的目标高出逾10个百分点。这一结果被认为与以半导体股为中心的KOSPI上涨，以及1月基金运营委员会决定暂缓再平衡有关。国民年金今年以来取得约250万亿韩元运营收益，基金规模超过1700万亿韩元。业内认为，本月召开的基金运营委员会将成为决定未来5年各资产类别目标占比和运营方向的重要节点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El fondo nacional coreano eleva acciones locales y el rally del KOSPI abre debate",
+        "excerpt": "El Servicio Nacional de Pensiones de Corea superó el 25% en acciones locales a fines de abril de 2026 tras ganar unos 250 billones de wones este año, lo que reabre el debate de rebalanceo.",
+        "body": "El Servicio Nacional de Pensiones de Corea enfrenta un dilema de rebalanceo después de que el rally del KOSPI llevó su peso en acciones locales muy por encima del objetivo. Según hankyung.com el 7 de mayo, la proporción de acciones coreanas del fondo superó el 25% a fines de abril de 2026, más de 10 puntos porcentuales por encima de la meta anual de 14,9%. El resultado se atribuye al avance del KOSPI liderado por valores de semiconductores y a la decisión de enero del comité de gestión del fondo de aplazar el rebalanceo. El fondo ganó unos 250 billones de wones este año y sus activos superaron los 1.700 billones de wones. El sector considera que la reunión de este mes será clave para fijar metas por clase de activo y dirección de inversión para los próximos cinco años. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Peso de ações coreanas no fundo nacional dispara com rali do KOSPI",
+        "excerpt": "O Serviço Nacional de Pensões da Coreia passou de 25% em ações locais no fim de abril de 2026 e ganhou cerca de 250 trilhões de won neste ano, trazendo o rebalanceamento ao centro do debate.",
+        "body": "O Serviço Nacional de Pensões da Coreia enfrenta uma decisão difícil de rebalanceamento depois que o rali do KOSPI levou a fatia de ações domésticas muito acima da meta. Segundo o hankyung.com em 7 de maio, a participação de ações coreanas no fundo superou 25% no fim de abril de 2026, mais de 10 pontos percentuais acima da meta anual de 14,9%. O resultado é atribuído à alta do KOSPI liderada por papéis de semicondutores e à decisão de janeiro do comitê de gestão do fundo de adiar o rebalanceamento. O fundo obteve cerca de 250 trilhões de won em ganhos neste ano, elevando seus ativos para mais de 1.700 trilhões de won. O mercado vê a reunião deste mês como decisiva para definir metas por classe de ativos e a direção de gestão dos próximos cinco anos. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Koreas Pensionsfonds mit höherem Aktienanteil: KOSPI-Rallye erzwingt Debatte",
+        "excerpt": "Der südkoreanische National Pension Service hielt Ende April 2026 über 25% in heimischen Aktien und verdiente in diesem Jahr rund 250 Billionen Won, wodurch Rebalancing in den Fokus rückt.",
+        "body": "Der südkoreanische National Pension Service steht vor einer Rebalancing-Frage, nachdem die KOSPI-Rallye den Anteil heimischer Aktien deutlich über das Ziel gedrückt hat. Laut hankyung.com vom 7. Mai lag der Anteil koreanischer Aktien Ende April 2026 bei über 25% und damit mehr als 10 Prozentpunkte über dem Jahresziel von 14,9%. Als Gründe gelten die von Halbleiterwerten getriebene KOSPI-Rallye und die Entscheidung des Fondsverwaltungsausschusses im Januar, das Rebalancing aufzuschieben. Der Fonds erzielte in diesem Jahr rund 250 Billionen Won an Anlageerträgen, wodurch das Fondsvolumen auf über 1.700 Billionen Won stieg. Die Branche sieht die Ausschusssitzung in diesem Monat als wichtigen Punkt für Zielquoten nach Anlageklassen und die Ausrichtung der nächsten fünf Jahre. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le fonds national coréen surpondère les actions locales après le rally du KOSPI",
+        "excerpt": "Le Service national des pensions coréen détenait plus de 25% d’actions locales fin avril 2026 et a gagné environ 250 billions de wons cette année, relançant la question du rééquilibrage.",
+        "body": "Le Service national des pensions de Corée fait face à un dilemme de rééquilibrage après que le rally du KOSPI a porté la part des actions domestiques bien au-dessus de son objectif. Selon hankyung.com le 7 mai, cette part dépassait 25% fin avril 2026, soit plus de 10 points de pourcentage au-dessus de l’objectif annuel de 14,9%. Cette situation est attribuée à la hausse du KOSPI menée par les valeurs des semi-conducteurs et à la décision prise en janvier par le comité de gestion du fonds de reporter le rééquilibrage. Le fonds a dégagé environ 250 billions de wons de gains cette année, portant ses actifs au-delà de 1.700 billions de wons. Le marché voit la réunion du comité ce mois-ci comme une étape clé pour fixer les objectifs par classe d’actifs et l’orientation des cinq prochaines années. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق التقاعد الكوري يرفع وزن الأسهم المحلية مع صعود كوسبي ويواجه معضلة إعادة التوازن",
+        "excerpt": "تجاوزت حصة الأسهم المحلية لدى صندوق التقاعد الوطني الكوري 25% بنهاية أبريل 2026 بعد تحقيق نحو 250 تريليون وون هذا العام، ما جعل إعادة التوازن محور الاهتمام.",
+        "body": "يواجه صندوق التقاعد الوطني في كوريا الجنوبية معضلة إعادة توازن بعد أن دفع صعود مؤشر كوسبي وزن الأسهم المحلية إلى مستوى أعلى بكثير من الهدف. وبحسب hankyung.com في 7 مايو، تجاوزت حصة الأسهم الكورية في الصندوق 25% بنهاية أبريل 2026، أي أعلى بأكثر من 10 نقاط مئوية من هدف هذا العام البالغ 14.9%. ويُعزى ذلك إلى صعود كوسبي بقيادة أسهم أشباه الموصلات وإلى قرار لجنة إدارة الصندوق في يناير تأجيل إعادة التوازن. وحقق الصندوق هذا العام أرباح تشغيل تقارب 250 تريليون وون، لترتفع أصوله إلى أكثر من 1700 تريليون وون. وترى السوق أن اجتماع اللجنة هذا الشهر سيكون محطة مهمة لتحديد أهداف فئات الأصول واتجاه الإدارة للسنوات الخمس المقبلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI रैली से कोरियाई पेंशन फंड में घरेलू शेयरों का वजन बढ़ा, रीबैलेंसिंग पर नजर",
+        "excerpt": "कोरिया के नेशनल पेंशन सर्विस में अप्रैल 2026 के अंत तक घरेलू शेयरों की हिस्सेदारी 25% से ऊपर गई और इस साल करीब 250 ट्रिलियन वॉन की कमाई के बाद रीबैलेंसिंग मुद्दा बन गया।",
+        "body": "दक्षिण कोरिया का नेशनल पेंशन सर्विस KOSPI सूचकांक की रैली के बाद घरेलू शेयरों की हिस्सेदारी लक्ष्य से काफी ऊपर जाने के कारण रीबैलेंसिंग पर विचार कर रहा है। hankyung.com के अनुसार 7 मई को बताया गया कि अप्रैल 2026 के अंत में फंड की कोरियाई शेयरों में हिस्सेदारी 25% से अधिक हो गई, जो इस वर्ष के 14.9% लक्ष्य से 10 प्रतिशत अंक से ज्यादा ऊपर है। इसका कारण सेमीकंडक्टर शेयरों के नेतृत्व वाली KOSPI रैली और जनवरी में फंड मैनेजमेंट कमेटी का रीबैलेंसिंग टालने का निर्णय माना गया। फंड ने इस साल लगभग 250 ट्रिलियन वॉन का परिचालन लाभ कमाया और कुल आकार 1,700 ट्रिलियन वॉन से ऊपर पहुंच गया। उद्योग इस महीने की समिति बैठक को अगले पांच वर्षों के लिए परिसंपत्ति वर्गों के लक्ष्य और संचालन दिशा तय करने वाला अहम मोड़ मान रहा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Bobot saham Korea di dana pensiun nasional melonjak saat reli KOSPI picu rebalancing",
+        "excerpt": "National Pension Service Korea mencatat porsi saham domestik di atas 25% pada akhir April 2026 dan meraih sekitar 250 triliun won tahun ini, sehingga rebalancing kembali menjadi perhatian.",
+        "body": "National Pension Service Korea menghadapi dilema rebalancing setelah reli indeks KOSPI membuat porsi saham domestik jauh melampaui target. Menurut hankyung.com pada 7 Mei, porsi saham Korea dalam dana tersebut melebihi 25% pada akhir April 2026, lebih dari 10 poin persentase di atas target tahun ini sebesar 14,9%. Kondisi ini dinilai terjadi karena reli KOSPI yang dipimpin saham semikonduktor serta keputusan komite pengelola dana pada Januari untuk menunda rebalancing. Dana pensiun itu meraih sekitar 250 triliun won laba investasi tahun ini, sehingga ukuran dana melampaui 1.700 triliun won. Pelaku industri melihat rapat komite bulan ini sebagai titik penting untuk menetapkan target alokasi tiap kelas aset dan arah pengelolaan lima tahun ke depan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "194bbf2caf48",
     "slug": "삼성전자-최고의-순간-아직-오지-않았다여전히-저평가-종목-735965",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Kakao Cetak Rekor Kuartal I, Pendapatan Tembus 1,9421 Triliun Won",
         "excerpt": "Kakao menyatakan pada tanggal 7 bahwa pendapatan konsolidasian kuartal I naik 11% secara tahunan menjadi 1,9421 triliun won, sementara laba operasi melonjak 66% menjadi 211,4 miliar won.",
         "body": "Kakao mengumumkan pada tanggal 7 melalui keterbukaan informasi bahwa pendapatan konsolidasian kuartal pertama tahun ini mencapai 1,9421 triliun won, naik 11% dibanding periode yang sama tahun sebelumnya. Pada periode yang sama, laba operasi mencapai 211,4 miliar won, meningkat 66% secara tahunan. Kinerja ini disampaikan sebagai capaian tertinggi untuk kuartal pertama. Poin utamanya adalah pendapatan dan laba operasi sama-sama tumbuh dua digit, menunjukkan perbaikan profitabilitas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fb7afa3cfa31",
-    "slug": "kb자산운용-rise-코리아밸류업-etf-순자산-1조-돌파-873536",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T23:48:24.669Z",
-    "updatedAt": "2026-05-06T23:48:24.669Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038736",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038736",
-    "titleFingerprint": "9a0199ace78b07b99a50ec85f87ae7852611bd4f",
-    "dedupKeys": [
-      "fb7afa3cfa31c8d445c7fe74387256da80b73f8a",
-      "9a0199ace78b07b99a50ec85f87ae7852611bd4f",
-      "e97ce99d7e3537fa2094d64f2c93543d918709d4"
-    ],
-    "imageUrl": "/images/articles/fb7afa3cfa31.png",
-    "i18n": {
-      "ko": {
-        "title": "RISE 코리아밸류업 ETF, 코리아밸류업 ETF 첫 순자산 1조원 돌파",
-        "excerpt": "KB자산운용은 7일 ‘RISE 코리아밸류업 ETF’가 코리아밸류업 ETF 중 처음으로 순자산 1조원을 넘어섰다고 밝혔다. 에프앤가이드 집계 기준 성과다.",
-        "body": "KB자산운용은 7일 ‘RISE 코리아밸류업 상장지수펀드(ETF)’가 코리아밸류업 ETF 가운데 사상 처음으로 순자산 1조원을 넘어섰다고 밝혔다. 펀드평가사 에프앤가이드에 따르면 해당 ETF의 순자산은 1조원을 돌파했다. 코리아밸류업 ETF는 국내 증시의 밸류업 흐름과 관련된 상품으로, 이번 1조원 돌파는 같은 유형 ETF 중 첫 사례라는 점에서 의미가 있다. KB자산운용의 RISE 브랜드 ETF가 코리아밸류업 ETF 시장에서 자산 규모를 키운 것으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "RISE Korea Value Up ETF Tops 1 Trillion Won in Net Assets, a First",
-        "excerpt": "KB Asset Management said on the 7th that its RISE Korea Value Up ETF became the first Korea Value Up ETF to exceed 1 trillion won in net assets, based on FnGuide data.",
-        "body": "KB Asset Management said on the 7th that the RISE Korea Value Up exchange-traded fund became the first Korea Value Up ETF ever to surpass 1 trillion won in net assets. According to fund evaluator FnGuide, the ETF’s net assets crossed the 1 trillion won mark. Korea Value Up ETFs are products tied to the value-up trend in the Korean stock market, and this milestone is notable because it is the first case among ETFs of the same category. The result indicates that KB Asset Management’s RISE brand ETF has expanded its asset scale in the Korea Value Up ETF market. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "RISEコリアバリューアップETF、純資産1兆ウォン突破で同分野初",
-        "excerpt": "KB資産運用は7日、RISEコリアバリューアップETFがコリアバリューアップETFとして初めて純資産1兆ウォンを超えたと発表した。FnGuide集計に基づく。",
-        "body": "KB資産運用は7日、「RISEコリアバリューアップ上場投資信託（ETF）」がコリアバリューアップETFの中で史上初めて純資産1兆ウォンを突破したと明らかにした。ファンド評価会社FnGuideによると、同ETFの純資産は1兆ウォンを超えた。コリアバリューアップETFは韓国株式市場のバリューアップの流れに関連する商品であり、今回の1兆ウォン突破は同タイプのETFで初の事例という点で意味がある。KB資産運用のRISEブランドETFが同市場で資産規模を拡大した形だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "RISE韩国价值提升ETF净资产突破1万亿韩元，同类产品首例",
-        "excerpt": "KB资产管理7日表示，RISE韩国价值提升ETF成为韩国价值提升ETF中首只净资产超过1万亿韩元的产品，数据依据FnGuide统计。",
-        "body": "KB资产管理7日表示，“RISE韩国价值提升交易型开放式指数基金（ETF）”在韩国价值提升ETF中史上首次净资产突破1万亿韩元。根据基金评价机构FnGuide的数据，该ETF净资产已超过1万亿韩元。韩国价值提升ETF是与韩国股市价值提升趋势相关的产品，此次突破1万亿韩元在同类ETF中属首例，因此具有意义。这表明KB资产管理旗下RISE品牌ETF在韩国价值提升ETF市场中的资产规模有所扩大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "RISE Korea Value Up ETF supera 1 billón de wones en activos netos",
-        "excerpt": "KB Asset Management informó el día 7 que su RISE Korea Value Up ETF fue el primer ETF Korea Value Up en superar 1 billón de wones en activos netos, según FnGuide.",
-        "body": "KB Asset Management informó el día 7 que el fondo cotizado RISE Korea Value Up ETF se convirtió en el primer ETF Korea Value Up en superar 1 billón de wones en activos netos. Según la firma evaluadora de fondos FnGuide, los activos netos de este ETF rebasaron esa cifra. Los ETF Korea Value Up son productos vinculados al movimiento de mejora de valor en el mercado bursátil surcoreano, por lo que este hito destaca como el primer caso dentro de la misma categoría. El dato muestra que el ETF de la marca RISE de KB Asset Management ha ampliado su escala de activos en este mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "RISE Korea Value Up ETF supera 1 trilhão de won em ativos líquidos",
-        "excerpt": "A KB Asset Management disse no dia 7 que o RISE Korea Value Up ETF foi o primeiro ETF Korea Value Up a superar 1 trilhão de won em ativos líquidos, segundo a FnGuide.",
-        "body": "A KB Asset Management informou no dia 7 que o fundo negociado em bolsa RISE Korea Value Up ETF se tornou o primeiro ETF Korea Value Up a ultrapassar 1 trilhão de won em ativos líquidos. De acordo com a avaliadora de fundos FnGuide, os ativos líquidos do ETF superaram essa marca. Os ETFs Korea Value Up são produtos ligados ao movimento de valorização no mercado acionário sul-coreano, e a superação de 1 trilhão de won é relevante por ser o primeiro caso entre ETFs da mesma categoria. O resultado indica expansão da escala de ativos do ETF da marca RISE da KB Asset Management nesse mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "RISE Korea Value Up ETF überschreitet 1 Billion Won Nettovermögen",
-        "excerpt": "KB Asset Management teilte am 7. mit, dass der RISE Korea Value Up ETF als erster Korea-Value-Up-ETF ein Nettovermögen von mehr als 1 Billion Won erreicht hat, laut FnGuide.",
-        "body": "KB Asset Management gab am 7. bekannt, dass der börsengehandelte Fonds RISE Korea Value Up ETF als erster Korea-Value-Up-ETF überhaupt ein Nettovermögen von mehr als 1 Billion Won überschritten hat. Nach Angaben des Fondsbewerters FnGuide lag das Nettovermögen dieses ETF über dieser Marke. Korea-Value-Up-ETFs sind Produkte, die mit dem Value-up-Trend am koreanischen Aktienmarkt verbunden sind. Der Sprung über 1 Billion Won ist daher bedeutsam, weil er den ersten Fall innerhalb dieser ETF-Kategorie darstellt. Das Ergebnis zeigt, dass der RISE-Marken-ETF von KB Asset Management seine Vermögensbasis in diesem Markt ausgeweitet hat. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "RISE Korea Value Up ETF dépasse 1 000 milliards de wons d’actifs nets",
-        "excerpt": "KB Asset Management a annoncé le 7 que son RISE Korea Value Up ETF était le premier ETF Korea Value Up à dépasser 1 000 milliards de wons d’actifs nets, selon FnGuide.",
-        "body": "KB Asset Management a déclaré le 7 que le fonds indiciel coté RISE Korea Value Up ETF était devenu le premier ETF Korea Value Up à dépasser 1 000 milliards de wons d’actifs nets. Selon la société d’évaluation de fonds FnGuide, les actifs nets de cet ETF ont franchi ce seuil. Les ETF Korea Value Up sont des produits liés au mouvement de valorisation du marché boursier sud-coréen, et ce passage au-dessus de 1 000 milliards de wons constitue une première dans cette catégorie. Cette évolution indique que l’ETF de la marque RISE de KB Asset Management a accru sa taille d’actifs sur ce marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صندوق RISE Korea Value Up ETF يتجاوز تريليون وون في صافي الأصول",
-        "excerpt": "قالت KB Asset Management في 7 من الشهر إن صندوق RISE Korea Value Up ETF أصبح أول صندوق من فئة Korea Value Up ETF تتجاوز أصوله الصافية تريليون وون، وفقا لبيانات FnGuide.",
-        "body": "أعلنت KB Asset Management في 7 من الشهر أن صندوق المؤشرات المتداولة RISE Korea Value Up ETF أصبح أول صندوق من فئة Korea Value Up ETF يتجاوز صافي أصوله تريليون وون على الإطلاق. ووفقا لشركة تقييم الصناديق FnGuide، تخطت الأصول الصافية للصندوق حاجز تريليون وون. وترتبط صناديق Korea Value Up ETF باتجاه رفع القيمة في سوق الأسهم الكورية، ولذلك تكتسب هذه الخطوة أهمية لأنها أول حالة من نوعها بين الصناديق المماثلة. وتشير النتيجة إلى أن صندوق العلامة RISE التابع لـKB Asset Management وسع حجم أصوله في سوق Korea Value Up ETF. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "RISE Korea Value Up ETF की शुद्ध संपत्ति 1 ट्रिलियन वॉन के पार",
-        "excerpt": "KB Asset Management ने 7 तारीख को कहा कि RISE Korea Value Up ETF शुद्ध संपत्ति में 1 ट्रिलियन वॉन से ऊपर जाने वाला पहला Korea Value Up ETF बन गया, FnGuide आंकड़ों के अनुसार।",
-        "body": "KB Asset Management ने 7 तारीख को बताया कि RISE Korea Value Up एक्सचेंज ट्रेडेड फंड यानी ETF, Korea Value Up ETF श्रेणी में शुद्ध संपत्ति 1 ट्रिलियन वॉन से ऊपर जाने वाला पहला फंड बन गया है। फंड मूल्यांकन कंपनी FnGuide के अनुसार, इस ETF की शुद्ध संपत्ति ने 1 ट्रिलियन वॉन का स्तर पार किया। Korea Value Up ETF कोरियाई शेयर बाजार में वैल्यू-अप रुझान से जुड़े उत्पाद हैं, इसलिए समान श्रेणी के ETF में यह पहला मामला होने के कारण उल्लेखनीय है। इससे संकेत मिलता है कि KB Asset Management के RISE ब्रांड ETF ने इस बाजार में अपनी संपत्ति का आकार बढ़ाया है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "RISE Korea Value Up ETF Tembus Aset Bersih 1 Triliun Won, yang Pertama",
-        "excerpt": "KB Asset Management menyatakan pada tanggal 7 bahwa RISE Korea Value Up ETF menjadi ETF Korea Value Up pertama yang melampaui aset bersih 1 triliun won, berdasarkan data FnGuide.",
-        "body": "KB Asset Management menyatakan pada tanggal 7 bahwa RISE Korea Value Up exchange-traded fund menjadi ETF Korea Value Up pertama yang melampaui aset bersih 1 triliun won. Menurut perusahaan penilai dana FnGuide, aset bersih ETF tersebut telah melewati angka 1 triliun won. ETF Korea Value Up merupakan produk yang terkait dengan arus value-up di pasar saham Korea, sehingga pencapaian ini bermakna karena menjadi kasus pertama di antara ETF dengan kategori yang sama. Hasil ini menunjukkan ETF bermerek RISE dari KB Asset Management telah memperbesar skala asetnya di pasar ETF Korea Value Up. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c8fa12d34004",
-    "slug": "인건비마케팅-비용-확대하얏트-인수-부담에-파라다이스-목표가-828550",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T23:47:33.733Z",
-    "updatedAt": "2026-05-06T23:47:33.733Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12038739",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12038739",
-    "titleFingerprint": "a6aab76f60ac01a4a224e26dc1c6c965368b68bd",
-    "dedupKeys": [
-      "c8fa12d34004ba9f3f08550fbfa16090e6008009",
-      "a6aab76f60ac01a4a224e26dc1c6c965368b68bd",
-      "bfb8ce68f0f7f2b18e0d9beab73ab1571c107868"
-    ],
-    "imageUrl": "/images/articles/c8fa12d34004.jpg",
-    "i18n": {
-      "ko": {
-        "title": "파라다이스 목표가 하향, 하얏트 인수 부담 속 외형 성장 주목",
-        "excerpt": "KB증권은 7일 파라다이스의 단기 인건비·마케팅 비용 부담 확대를 반영해 목표주가를 2만3000원에서 2만1000원으로 낮췄다.",
-        "body": "KB증권은 7일 파라다이스에 대해 인건비와 마케팅 비용 확대 등 단기 비용 부담이 커지고 있다고 평가했다. 특히 하얏트 인수와 관련한 부담이 주가 판단에 반영되며 목표주가는 기존 2만3000원에서 2만1000원으로 하향 조정됐다. 다만 KB증권은 비용 증가에도 불구하고 파라다이스가 외형 성장을 통해 이를 일정 부분 상쇄할 수 있을 것으로 전망했다. 이번 조정은 단기 수익성 부담과 성장 가능성을 함께 고려한 판단으로 풀이된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Paradise Target Price Cut as Hyatt Acquisition Costs Weigh on Outlook",
-        "excerpt": "KB Securities on the 7th lowered its target price for Paradise from 23,000 won to 21,000 won, citing higher short-term labor and marketing costs.",
-        "body": "KB Securities said on the 7th that Paradise is facing a growing short-term cost burden, including expanded labor and marketing expenses. The brokerage lowered its target price from 23,000 won to 21,000 won, reflecting pressure linked to the Hyatt acquisition. However, KB Securities also said Paradise may be able to offset part of the cost increase through top-line growth. The revision appears to reflect both near-term profitability pressure and the company’s potential for external growth. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "パラダイス目標株価を下方修正、ハイアット買収負担に注目",
-        "excerpt": "KB証券は7日、パラダイスの短期的な人件費・マーケティング費用の増加を反映し、目標株価を2万3000ウォンから2万1000ウォンへ引き下げた。",
-        "body": "KB証券は7日、パラダイスについて、人件費とマーケティング費用の拡大などにより短期的なコスト負担が高まっていると評価した。特にハイアット買収に関連する負担が株価判断に反映され、目標株価は従来の2万3000ウォンから2万1000ウォンへ下方修正された。ただしKB証券は、費用増加にもかかわらず、パラダイスが外形成長によってその一部を相殺できるとの見方も示した。今回の修正は短期的な収益性負担と成長可能性を同時に考慮した判断とみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Paradise目标价下调，Hyatt收购负担下仍关注规模增长",
-        "excerpt": "KB证券7日表示，因Paradise短期人工和营销费用负担扩大，将其目标价从2.3万韩元下调至2.1万韩元。",
-        "body": "KB证券7日评价称，Paradise正面临人工成本和营销费用扩大等短期成本压力。尤其是与Hyatt收购相关的负担被反映在股价判断中，目标价由此前的2.3万韩元下调至2.1万韩元。不过，KB证券也预计，尽管费用增加，Paradise仍可通过外形增长在一定程度上抵消相关压力。此次调整可理解为同时考虑了短期盈利能力负担和增长可能性的判断。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Paradise baja precio objetivo por costos de Hyatt, pero mira crecimiento",
-        "excerpt": "KB Securities redujo el día 7 el precio objetivo de Paradise de 23.000 a 21.000 wones por mayores costos laborales y de marketing a corto plazo.",
-        "body": "KB Securities señaló el día 7 que Paradise enfrenta una mayor carga de costos a corto plazo, incluidos aumentos en gastos laborales y de marketing. La firma recortó su precio objetivo de 23.000 a 21.000 wones, reflejando la presión vinculada a la adquisición de Hyatt. No obstante, KB Securities indicó que Paradise podría compensar parte del aumento de costos mediante crecimiento en escala. El ajuste parece considerar tanto la presión sobre la rentabilidad de corto plazo como la posibilidad de expansión del negocio. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Paradise tem preço-alvo cortado com custos da aquisição da Hyatt",
-        "excerpt": "A KB Securities reduziu no dia 7 o preço-alvo da Paradise de 23.000 para 21.000 won, citando maior pressão de custos trabalhistas e marketing no curto prazo.",
-        "body": "A KB Securities avaliou no dia 7 que a Paradise enfrenta aumento da pressão de custos no curto prazo, incluindo despesas maiores com mão de obra e marketing. A corretora reduziu o preço-alvo de 23.000 para 21.000 won, refletindo o peso relacionado à aquisição da Hyatt. Ainda assim, a KB Securities afirmou que a Paradise pode compensar parte do avanço dos custos por meio de crescimento de receita e escala. A revisão considera, ao mesmo tempo, a pressão de rentabilidade no curto prazo e o potencial de expansão da companhia. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Paradise-Kursziel sinkt wegen Hyatt-Übernahme, Wachstum bleibt im Fokus",
-        "excerpt": "KB Securities senkte am 7. das Kursziel für Paradise von 23.000 auf 21.000 Won und verwies auf höhere kurzfristige Personal- und Marketingkosten.",
-        "body": "KB Securities erklärte am 7., dass Paradise kurzfristig mit einer zunehmenden Kostenbelastung konfrontiert sei, darunter höhere Personal- und Marketingausgaben. Das Kursziel wurde von 23.000 auf 21.000 Won gesenkt, wobei Belastungen im Zusammenhang mit der Hyatt-Übernahme berücksichtigt wurden. Zugleich erwartet KB Securities, dass Paradise einen Teil der steigenden Kosten durch Wachstum beim Geschäftsvolumen ausgleichen kann. Die Anpassung spiegelt damit sowohl kurzfristigen Margendruck als auch mögliche Wachstumsperspektiven wider. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Paradise voit son objectif abaissé, le coût de Hyatt pèse à court terme",
-        "excerpt": "KB Securities a abaissé le 7 son objectif de cours sur Paradise de 23 000 à 21 000 wons, citant la hausse des coûts salariaux et marketing à court terme.",
-        "body": "KB Securities a indiqué le 7 que Paradise faisait face à une charge de coûts accrue à court terme, notamment en raison de dépenses salariales et marketing plus élevées. La société a abaissé son objectif de cours de 23 000 à 21 000 wons, en intégrant la pression liée à l’acquisition de Hyatt. Toutefois, KB Securities estime aussi que Paradise pourrait compenser une partie de cette hausse des coûts grâce à la croissance de son activité. Cette révision semble donc tenir compte à la fois de la pression sur la rentabilité à court terme et du potentiel de croissance externe. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "خفض السعر المستهدف لسهم بارادايس مع ضغط تكاليف استحواذ حياة",
-        "excerpt": "خفضت KB Securities في السابع السعر المستهدف لسهم بارادايس من 23 ألف وون إلى 21 ألف وون بسبب ارتفاع أعباء العمالة والتسويق في الأجل القصير.",
-        "body": "قالت KB Securities في السابع إن بارادايس تواجه زيادة في أعباء التكاليف قصيرة الأجل، بما في ذلك توسع تكاليف العمالة والتسويق. وخفضت الشركة السعر المستهدف من 23 ألف وون إلى 21 ألف وون، مع انعكاس الضغوط المرتبطة باستحواذ حياة في تقييم السهم. ومع ذلك، رأت KB Securities أن بارادايس قد تتمكن من تعويض جزء من ارتفاع التكاليف عبر نمو الحجم والإيرادات. ويبدو أن هذا التعديل يأخذ في الاعتبار ضغط الربحية قصير الأجل إلى جانب إمكانية النمو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hyatt अधिग्रहण बोझ से Paradise का लक्ष्य मूल्य घटा, वृद्धि पर नजर",
-        "excerpt": "KB Securities ने 7 तारीख को Paradise का लक्ष्य मूल्य 23,000 वॉन से घटाकर 21,000 वॉन कर दिया, वजह अल्पकालिक श्रम और मार्केटिंग लागत का बढ़ना है।",
-        "body": "KB Securities ने 7 तारीख को कहा कि Paradise पर अल्पकालिक लागत दबाव बढ़ रहा है, जिसमें श्रम लागत और मार्केटिंग खर्च का विस्तार शामिल है। कंपनी ने Hyatt अधिग्रहण से जुड़े बोझ को शेयर मूल्य आकलन में शामिल करते हुए लक्ष्य मूल्य 23,000 वॉन से घटाकर 21,000 वॉन कर दिया। हालांकि KB Securities ने यह भी कहा कि लागत बढ़ने के बावजूद Paradise बाहरी वृद्धि के जरिए इसका कुछ हिस्सा संतुलित कर सकता है। यह संशोधन अल्पकालिक लाभप्रदता दबाव और वृद्धि की संभावना दोनों को ध्यान में रखकर किया गया माना जाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Harga Paradise Dipangkas, Beban Akuisisi Hyatt Jadi Sorotan",
-        "excerpt": "KB Securities pada tanggal 7 memangkas target harga Paradise dari 23.000 won menjadi 21.000 won karena beban biaya tenaga kerja dan pemasaran jangka pendek meningkat.",
-        "body": "KB Securities pada tanggal 7 menilai Paradise menghadapi peningkatan beban biaya jangka pendek, termasuk biaya tenaga kerja dan pemasaran yang lebih besar. Target harga diturunkan dari 23.000 won menjadi 21.000 won, mencerminkan tekanan terkait akuisisi Hyatt. Meski demikian, KB Securities memperkirakan Paradise dapat mengimbangi sebagian kenaikan biaya tersebut melalui pertumbuhan skala bisnis. Revisi ini dinilai mempertimbangkan tekanan profitabilitas jangka pendek sekaligus potensi pertumbuhan perusahaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f049d0315e31",
-    "slug": "점심-한-끼-값으로-투자-통찰-구독하세요-993092",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-06T23:26:58.900Z",
-    "updatedAt": "2026-05-06T23:26:58.900Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050696271",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050696271",
-    "titleFingerprint": "21ae84895d3672114f297bc473dac5d8c583d5b1",
-    "dedupKeys": [
-      "f049d0315e31bb732c498a1666c3ed90612d8348",
-      "21ae84895d3672114f297bc473dac5d8c583d5b1",
-      "6323aa2855574ae4ef8e26c27abda8f6800b5529"
-    ],
-    "imageUrl": "/images/articles/f049d0315e31.jpg",
-    "i18n": {
-      "ko": {
-        "title": "투자 통찰 구독, 점심 한 끼 값으로 만나는 새 정보 선택지",
-        "excerpt": "한국경제는 hankyung.com 기사에서 점심 한 끼 값으로 투자 통찰을 구독할 수 있다는 메시지를 제시하며, 투자 정보 접근 방식에 주목했다.",
-        "body": "한국경제는 hankyung.com에 게재한 기사에서 ‘점심 한 끼 값으로 투자 통찰을 구독하세요’라는 제목으로 투자 관련 정보 구독 메시지를 전했다. 원문 정보 기준으로 구체적인 상품명, 가격, 제공 기간, 대상 독자, 세부 혜택은 별도로 제시되지 않았다. 기사 제목은 일상적인 식사 비용에 비유해 투자 통찰 구독의 접근성을 강조한다. 이는 투자자들이 시장 정보를 정기적으로 받아보는 방식에 관심을 둘 수 있음을 보여준다. 다만 공개된 원문에는 성과 전망이나 수익률, 구독 효과에 대한 수치가 포함되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Investment Insight Subscription Framed as Costing About One Lunch",
-        "excerpt": "Hankyung.com presented a message that readers can subscribe to investment insight for the price of a lunch, drawing attention to access to market information.",
-        "body": "Hankyung.com published an article titled “Subscribe to investment insight for the price of one lunch,” presenting a message about subscribing to investment-related information. Based on the source text provided, no specific product name, price, subscription period, target audience, or detailed benefits were stated. The headline uses the familiar cost of a meal to emphasize accessibility to investment insight. It points to interest in receiving market information on a regular basis. However, the provided source information does not include figures on expected performance, returns, or subscription effects. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "投資インサイト購読、昼食1回分の価格で届く情報の選択肢",
-        "excerpt": "韓国経済はhankyung.comの記事で、昼食1回分の価格で投資インサイトを購読できるというメッセージを示し、情報へのアクセスに注目した。",
-        "body": "韓国経済はhankyung.comに掲載した記事で、「昼食1回分の価格で投資インサイトを購読してください」という趣旨のタイトルを通じ、投資関連情報の購読メッセージを伝えた。提供された原文情報の範囲では、具体的な商品名、価格、提供期間、対象読者、詳細な特典は示されていない。見出しは日常的な食事費用に例えることで、投資インサイト購読の利用しやすさを強調している。これは投資家が市場情報を定期的に受け取る方法に関心を持ち得ることを示す。ただし、成果見通しや収益率、購読効果に関する数値は含まれていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "投资洞察订阅以一顿午餐价格呈现，信息获取更受关注",
-        "excerpt": "韩国经济在hankyung.com文章中提出，可以用一顿午餐的价格订阅投资洞察，并将焦点放在投资信息获取方式上。",
-        "body": "韩国经济在hankyung.com刊登的文章中，以“用一顿午餐的价格订阅投资洞察”为题，传达了订阅投资相关信息的消息。根据已提供的原文信息，文章未列出具体产品名称、价格、服务期限、目标读者或详细权益。标题借用日常餐费作比喻，强调投资洞察订阅的可接近性。这显示出投资者可能关注定期获取市场信息的方式。不过，所提供的原文内容并未包含业绩展望、收益率或订阅效果等具体数据。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Suscripción a perspectivas de inversión por el precio de un almuerzo",
-        "excerpt": "Hankyung.com planteó que se puede suscribir a perspectivas de inversión por el precio de un almuerzo, destacando el acceso periódico a información de mercado.",
-        "body": "Hankyung.com publicó un artículo titulado “Suscríbase a perspectivas de inversión por el precio de un almuerzo”, con un mensaje centrado en la suscripción a información relacionada con inversiones. Según la información original proporcionada, no se especifican nombre del producto, precio, periodo de servicio, público objetivo ni beneficios detallados. El titular usa el coste cotidiano de una comida para subrayar la accesibilidad de las perspectivas de inversión. Esto apunta al interés por recibir información de mercado de forma regular. Sin embargo, la fuente disponible no incluye cifras sobre rendimiento esperado, rentabilidad o efectos de la suscripción. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Assinatura de insights de investimento pelo preço de um almoço",
-        "excerpt": "O hankyung.com apresentou a ideia de assinar insights de investimento pelo preço de um almoço, destacando o acesso regular a informações de mercado.",
-        "body": "O hankyung.com publicou um artigo com o título “Assine insights de investimento pelo preço de um almoço”, transmitindo uma mensagem sobre assinatura de informações ligadas a investimentos. Com base nas informações originais fornecidas, não foram indicados nome do produto, preço, período de oferta, público-alvo ou benefícios detalhados. O título usa o custo cotidiano de uma refeição para enfatizar a acessibilidade aos insights de investimento. Isso mostra atenção à forma como investidores podem receber informações de mercado regularmente. No entanto, a fonte disponível não traz números sobre desempenho esperado, retorno ou efeito da assinatura. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Investmenteinblicke im Abo zum Preis eines Mittagessens vorgestellt",
-        "excerpt": "Hankyung.com stellte in einem Artikel die Botschaft vor, Investmenteinblicke zum Preis eines Mittagessens zu abonnieren, und lenkte den Blick auf Informationszugang.",
-        "body": "Hankyung.com veröffentlichte einen Artikel mit dem Titel „Abonnieren Sie Investmenteinblicke zum Preis eines Mittagessens“ und vermittelte damit eine Botschaft zu abonnierbaren Anlageinformationen. Nach den bereitgestellten Originalangaben wurden kein konkreter Produktname, Preis, Angebotszeitraum, Zielpublikum oder detaillierte Leistungen genannt. Die Überschrift nutzt die alltäglichen Kosten einer Mahlzeit als Vergleich, um die Zugänglichkeit von Investmenteinblicken zu betonen. Das verweist auf Interesse an regelmäßigen Marktinformationen. Angaben zu erwarteter Performance, Rendite oder Wirkung des Abos enthält die Quelle jedoch nicht. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Des analyses d’investissement par abonnement au prix d’un déjeuner",
-        "excerpt": "Hankyung.com a présenté un article indiquant qu’il est possible de s’abonner à des analyses d’investissement pour le prix d’un déjeuner.",
-        "body": "Hankyung.com a publié un article intitulé « Abonnez-vous à des analyses d’investissement pour le prix d’un déjeuner », présentant un message sur l’abonnement à des informations liées à l’investissement. D’après les informations originales fournies, aucun nom de produit, prix précis, durée d’offre, public visé ni avantage détaillé n’est indiqué. Le titre compare l’abonnement au coût familier d’un repas afin de souligner l’accessibilité des analyses d’investissement. Cela met en avant l’intérêt possible pour une réception régulière d’informations de marché. Toutefois, la source ne contient pas de chiffres sur la performance attendue, le rendement ou l’effet de l’abonnement. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "اشتراك في رؤى الاستثمار بسعر وجبة غداء واحدة كما عرضه هانكيونغ",
-        "excerpt": "عرض موقع hankyung.com رسالة تفيد بإمكان الاشتراك في رؤى استثمارية بسعر وجبة غداء واحدة، مع التركيز على سهولة الوصول إلى معلومات السوق.",
-        "body": "نشر موقع hankyung.com مقالا بعنوان يفيد بالدعوة إلى الاشتراك في رؤى الاستثمار بسعر وجبة غداء واحدة، مقدما رسالة عن الاشتراك في معلومات مرتبطة بالاستثمار. وبحسب المعلومات الأصلية المتاحة، لم ترد تفاصيل عن اسم منتج محدد أو السعر أو مدة الخدمة أو الجمهور المستهدف أو المزايا التفصيلية. يستخدم العنوان تكلفة وجبة يومية مألوفة للتأكيد على سهولة الوصول إلى الرؤى الاستثمارية. ويشير ذلك إلى اهتمام المستثمرين بتلقي معلومات السوق بصورة منتظمة. لكن النص المتاح لا يتضمن أرقاما عن الأداء المتوقع أو العائد أو أثر الاشتراك. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "एक लंच की कीमत में निवेश अंतर्दृष्टि सदस्यता का संदेश सामने आया",
-        "excerpt": "hankyung.com ने लेख में बताया कि एक लंच की कीमत में निवेश अंतर्दृष्टि की सदस्यता ली जा सकती है, जिससे बाजार सूचना तक पहुंच पर ध्यान गया।",
-        "body": "hankyung.com ने “एक लंच की कीमत में निवेश अंतर्दृष्टि की सदस्यता लें” शीर्षक से लेख प्रकाशित किया और निवेश से जुड़ी जानकारी की सदस्यता का संदेश दिया। उपलब्ध मूल जानकारी के आधार पर किसी खास उत्पाद का नाम, कीमत, सेवा अवधि, लक्षित पाठक या विस्तृत लाभ अलग से नहीं बताए गए। शीर्षक रोजमर्रा के भोजन खर्च का उदाहरण देकर निवेश अंतर्दृष्टि सदस्यता की पहुंच को रेखांकित करता है। इससे संकेत मिलता है कि निवेशक नियमित रूप से बाजार जानकारी पाने के तरीके पर ध्यान दे सकते हैं। हालांकि उपलब्ध स्रोत में अपेक्षित प्रदर्शन, रिटर्न या सदस्यता प्रभाव से जुड़े आंकड़े शामिल नहीं हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Langganan Wawasan Investasi Disebut Setara Harga Satu Makan Siang",
-        "excerpt": "Hankyung.com menyampaikan pesan bahwa wawasan investasi dapat dilanggan dengan harga setara satu makan siang, menyoroti akses rutin ke informasi pasar.",
-        "body": "Hankyung.com menerbitkan artikel berjudul “Berlangganan wawasan investasi dengan harga satu makan siang” dan menyampaikan pesan mengenai langganan informasi terkait investasi. Berdasarkan informasi asli yang diberikan, tidak ada nama produk, harga, periode layanan, pembaca sasaran, atau manfaat rinci yang dijelaskan. Judul tersebut memakai perbandingan biaya makan sehari-hari untuk menekankan keterjangkauan akses terhadap wawasan investasi. Hal ini menunjukkan perhatian pada cara investor menerima informasi pasar secara rutin. Namun, sumber yang tersedia tidak memuat angka tentang proyeksi kinerja, imbal hasil, atau dampak langganan. Sumber: hankyung.com"
       }
     }
   }
