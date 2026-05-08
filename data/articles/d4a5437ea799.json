@@ -1,0 +1,75 @@
+{
+  "id": "d4a5437ea799",
+  "slug": "ai가-알아서-결제하는-시대ai에이전트-신분증-선점-나선-비자이더리움-727469",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-08T00:26:52.637Z",
+  "updatedAt": "2026-05-08T00:26:52.637Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12040746",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12040746",
+  "titleFingerprint": "5af2f43d390a72dc21e20eadd8c3319bc47aa669",
+  "dedupKeys": [
+    "d4a5437ea7996394d265920cfb5d5615fe3f30c2",
+    "5af2f43d390a72dc21e20eadd8c3319bc47aa669",
+    "99c26d2e70da534980e25a35bd5efa6dd5d79606"
+  ],
+  "imageUrl": "/images/articles/d4a5437ea799.png",
+  "i18n": {
+    "ko": {
+      "title": "AI 에이전트 신분증 경쟁 본격화, 비자·이더리움 KYA 선점 나선다",
+      "excerpt": "AI 에이전트가 인간 개입 없이 결제와 거래를 수행하는 흐름이 커지며 비자와 이더리움 등이 기계 신원증명 KYA 시장 선점 경쟁에 나섰다.",
+      "body": "AI 에이전트가 인간의 개입 없이 자율적으로 결제와 거래를 수행하는 시대를 앞두고, 기계의 신원을 확인하는 ‘KYA’가 핵심 이슈로 떠오르고 있다. 원문에 따르면 비자와 이더리움 등은 기계 간 자율거래가 확대되는 흐름 속에서 AI 에이전트의 신분증 역할을 할 신원증명 체계 선점에 나섰다. KYA는 거래 주체가 사람인지, 승인된 AI 에이전트인지 확인하는 기반으로 주목받는다. EU와 싱가포르에서도 KYA 관련 규제를 본격화하려는 움직임이 나타나고 있어, 향후 AI 결제와 자율거래 인프라 경쟁은 신원 확인 체계 구축 속도에 따라 갈릴 가능성이 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "AI Agent ID Race Accelerates as Visa and Ethereum Move on KYA",
+      "excerpt": "As AI agents increasingly make payments and transactions without human intervention, Visa, Ethereum and others are competing to secure a lead in machine identity verification through KYA.",
+      "body": "As AI agents move toward making payments and transactions autonomously without human intervention, “KYA,” a system for verifying machine identity, is emerging as a key issue. According to the original report, Visa, Ethereum and others are seeking to secure an early position in identity verification systems that could serve as ID cards for AI agents as machine-to-machine autonomous transactions expand. KYA is gaining attention as a foundation for confirming whether a transaction participant is a human or an authorized AI agent. With the EU and Singapore also moving toward formal KYA regulation, competition in AI payments and autonomous transaction infrastructure may depend on how quickly identity verification systems are built. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AIエージェントID競争が本格化、VisaとEthereumがKYA先取りへ",
+      "excerpt": "AIエージェントが人の介入なく決済や取引を行う流れが広がり、VisaやEthereumなどが機械の本人確認であるKYAの主導権獲得に動いている。",
+      "body": "AIエージェントが人間の介入なしに自律的に決済や取引を行う時代を前に、機械の身元を確認する「KYA」が重要課題として浮上している。原文によると、VisaやEthereumなどは、機械間の自律取引が拡大する流れの中で、AIエージェントの身分証の役割を担う本人確認体系の先取りに乗り出している。KYAは、取引主体が人間なのか、承認されたAIエージェントなのかを確認する基盤として注目される。EUやシンガポールでもKYA関連規制を本格化させる動きがあり、今後のAI決済と自律取引インフラの競争は、身元確認体系の構築速度に左右される可能性がある。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI代理身份认证竞争升温，Visa与以太坊抢占KYA先机",
+      "excerpt": "随着AI代理在无人干预下执行支付和交易的趋势扩大，Visa、以太坊等正围绕机器身份认证KYA展开先发竞争。",
+      "body": "在AI代理无需人类介入即可自主完成支付和交易的时代到来之际，用于确认机器身份的“KYA”正成为关键议题。原文称，随着机器间自主交易扩大，Visa、以太坊等正在抢先布局可充当AI代理“身份证”的身份认证体系。KYA受到关注，是因为它可作为确认交易主体是人类还是获授权AI代理的基础。欧盟和新加坡也出现推进KYA相关监管的动向，因此未来AI支付与自主交易基础设施的竞争，可能取决于身份确认体系的建设速度。来源：mk.co.kr"
+    },
+    "es": {
+      "title": "La carrera por la identidad de agentes de IA avanza con Visa y Ethereum",
+      "excerpt": "A medida que los agentes de IA realizan pagos y transacciones sin intervención humana, Visa, Ethereum y otros compiten por liderar la verificación de identidad de máquinas mediante KYA.",
+      "body": "Ante la llegada de una etapa en la que los agentes de IA pueden realizar pagos y transacciones de forma autónoma sin intervención humana, la verificación de identidad de máquinas, conocida como KYA, se perfila como un tema clave. Según el texto original, Visa, Ethereum y otros buscan adelantarse en sistemas de identidad que puedan funcionar como una credencial para agentes de IA, en medio de la expansión de las transacciones autónomas entre máquinas. KYA atrae atención porque permite comprobar si el participante de una operación es una persona o un agente de IA autorizado. Con la UE y Singapur avanzando hacia regulaciones de KYA, la competencia en pagos con IA e infraestructura de transacciones autónomas podría depender de la rapidez con que se construyan estos sistemas. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Identidade de agentes de IA vira disputa com Visa e Ethereum no KYA",
+      "excerpt": "Com agentes de IA realizando pagamentos e transações sem intervenção humana, Visa, Ethereum e outros disputam a liderança em verificação de identidade de máquinas via KYA.",
+      "body": "À medida que se aproxima uma era em que agentes de IA realizam pagamentos e transações de forma autônoma, sem intervenção humana, a verificação de identidade de máquinas, chamada KYA, surge como uma questão central. Segundo o texto original, Visa, Ethereum e outros buscam sair na frente em sistemas de identidade que possam funcionar como uma credencial para agentes de IA, em um cenário de expansão das transações autônomas entre máquinas. O KYA chama atenção por servir de base para confirmar se o participante de uma transação é uma pessoa ou um agente de IA autorizado. Com UE e Singapura também se movendo para regulamentar o KYA, a disputa por infraestrutura de pagamentos com IA e transações autônomas pode depender da velocidade de construção desses sistemas. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "KI-Agenten-Ausweise im Fokus: Visa und Ethereum drängen in KYA",
+      "excerpt": "Da KI-Agenten zunehmend ohne menschliches Eingreifen Zahlungen und Transaktionen ausführen, konkurrieren Visa, Ethereum und andere um die Führung bei KYA für Maschinenidentität.",
+      "body": "Während eine Phase näher rückt, in der KI-Agenten Zahlungen und Transaktionen ohne menschliches Eingreifen autonom ausführen, wird die Identitätsprüfung von Maschinen, KYA, zu einem zentralen Thema. Dem Originalbericht zufolge versuchen Visa, Ethereum und andere, sich früh bei Identitätssystemen zu positionieren, die als Ausweis für KI-Agenten dienen könnten, während autonome Transaktionen zwischen Maschinen zunehmen. KYA gilt als Grundlage, um festzustellen, ob ein Transaktionsteilnehmer ein Mensch oder ein autorisierter KI-Agent ist. Da auch die EU und Singapur Schritte zu KYA-Regeln einleiten, könnte der Wettbewerb bei KI-Zahlungen und Infrastruktur für autonome Transaktionen davon abhängen, wie schnell solche Identitätsprüfungssysteme entstehen. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Identité des agents IA: Visa et Ethereum accélèrent dans le KYA",
+      "excerpt": "Alors que les agents IA effectuent paiements et transactions sans intervention humaine, Visa, Ethereum et d’autres cherchent à prendre l’avance dans l’identité machine KYA.",
+      "body": "À l’approche d’une ère où les agents IA peuvent effectuer des paiements et des transactions de façon autonome, sans intervention humaine, la vérification de l’identité des machines, appelée KYA, devient un enjeu majeur. Selon le texte original, Visa, Ethereum et d’autres cherchent à prendre position tôt dans des systèmes d’identité pouvant servir de carte d’identité aux agents IA, alors que les transactions autonomes entre machines se développent. Le KYA retient l’attention car il permet de vérifier si le participant à une transaction est une personne ou un agent IA autorisé. Avec l’UE et Singapour qui avancent aussi vers une réglementation du KYA, la concurrence dans les paiements IA et l’infrastructure de transactions autonomes pourrait dépendre de la vitesse de mise en place de ces systèmes. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "هوية وكلاء الذكاء الاصطناعي تشعل سباق KYA بين فيزا وإيثريوم",
+      "excerpt": "مع اتساع قدرة وكلاء الذكاء الاصطناعي على تنفيذ المدفوعات والمعاملات دون تدخل بشري، تتنافس فيزا وإيثريوم وغيرهما على ريادة إثبات هوية الآلات عبر KYA.",
+      "body": "مع اقتراب مرحلة يستطيع فيها وكلاء الذكاء الاصطناعي تنفيذ المدفوعات والمعاملات ذاتيا دون تدخل بشري، يبرز إثبات هوية الآلات، المعروف باسم KYA، كقضية رئيسية. وبحسب النص الأصلي، تسعى فيزا وإيثريوم وغيرهما إلى حجز موقع مبكر في أنظمة هوية يمكن أن تعمل كبطاقة تعريف لوكلاء الذكاء الاصطناعي، مع توسع المعاملات الذاتية بين الآلات. ويحظى KYA بالاهتمام لأنه يشكل أساسا للتحقق مما إذا كان طرف المعاملة إنسانا أم وكيل ذكاء اصطناعي مصرحا له. ومع تحرك الاتحاد الأوروبي وسنغافورة نحو تنظيم KYA، قد يعتمد التنافس في مدفوعات الذكاء الاصطناعي وبنية المعاملات الذاتية على سرعة بناء أنظمة التحقق من الهوية. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI एजेंट पहचान की दौड़ तेज, Visa और Ethereum KYA में आगे बढ़े",
+      "excerpt": "AI एजेंटों के मानव हस्तक्षेप के बिना भुगतान और लेनदेन करने की प्रवृत्ति बढ़ने पर Visa, Ethereum और अन्य मशीन पहचान सत्यापन KYA में बढ़त लेने की कोशिश कर रहे हैं।",
+      "body": "AI एजेंटों द्वारा मानव हस्तक्षेप के बिना स्वायत्त रूप से भुगतान और लेनदेन करने के दौर से पहले, मशीन की पहचान सत्यापित करने वाला KYA एक प्रमुख मुद्दा बन रहा है। मूल रिपोर्ट के अनुसार, मशीन-से-मशीन स्वायत्त लेनदेन के विस्तार के बीच Visa, Ethereum और अन्य ऐसे पहचान तंत्र में बढ़त लेने की कोशिश कर रहे हैं जो AI एजेंटों के पहचान पत्र की भूमिका निभा सके। KYA इसलिए ध्यान खींच रहा है क्योंकि यह पुष्टि करने का आधार बन सकता है कि लेनदेन में शामिल पक्ष मानव है या अधिकृत AI एजेंट। EU और सिंगापुर में भी KYA संबंधी नियमों को आगे बढ़ाने की हलचल दिख रही है, इसलिए भविष्य में AI भुगतान और स्वायत्त लेनदेन अवसंरचना की प्रतिस्पर्धा पहचान सत्यापन तंत्र के निर्माण की गति पर निर्भर कर सकती है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Identitas Agen AI Jadi Rebutan, Visa dan Ethereum Bidik KYA",
+      "excerpt": "Saat agen AI makin mampu melakukan pembayaran dan transaksi tanpa campur tangan manusia, Visa, Ethereum, dan lainnya berebut posisi dalam verifikasi identitas mesin melalui KYA.",
+      "body": "Menjelang era ketika agen AI dapat melakukan pembayaran dan transaksi secara otonom tanpa campur tangan manusia, verifikasi identitas mesin yang disebut KYA muncul sebagai isu utama. Menurut teks asli, Visa, Ethereum, dan pihak lain berupaya lebih dulu menguasai sistem identitas yang dapat berfungsi sebagai kartu identitas bagi agen AI, seiring meluasnya transaksi otonom antarmesin. KYA mendapat perhatian karena menjadi dasar untuk memastikan apakah pelaku transaksi adalah manusia atau agen AI yang berwenang. Dengan Uni Eropa dan Singapura juga bergerak menuju regulasi KYA, persaingan infrastruktur pembayaran AI dan transaksi otonom ke depan dapat bergantung pada kecepatan pembangunan sistem verifikasi identitas. Sumber: mk.co.kr"
+    }
+  }
+}
