@@ -1,5 +1,230 @@
 [
   {
+    "id": "e90fe02e6cec",
+    "slug": "코스피-9000-갑니다골드만삭스-여전히-매력적-목표치-114255",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T08:10:38.853Z",
+    "updatedAt": "2026-05-08T08:10:38.853Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041237",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041237",
+    "titleFingerprint": "984576eaa0ea5c1bd138c62ef3e8ed2a3941bbdb",
+    "dedupKeys": [
+      "e90fe02e6cec4f7c6468485e5aabac17e6a5ad4c",
+      "984576eaa0ea5c1bd138c62ef3e8ed2a3941bbdb",
+      "de8f2d431a8e9d41a72506d83df6281d2c84ad56"
+    ],
+    "imageUrl": "/images/articles/e90fe02e6cec.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 9000 전망에 골드만삭스 목표치 상향, “여전히 매력적” 평가",
+        "excerpt": "코스피가 종가 기준 사상 최고치를 연일 경신하는 가운데 골드만삭스가 8일 외신 보도 기준 코스피 목표치를 9000으로 높이며 매력적이라고 평가했다.",
+        "body": "코스피가 종가 기준으로 연일 사상 최고치를 갈아치우는 가운데 글로벌 투자은행 골드만삭스가 코스피 목표치를 9000으로 상향 조정했다. 8일 비즈니스 인사이더 등 외신에 따르면 골드만삭스는 한국 증시가 여전히 매력적이라는 판단을 유지하며 목표치를 높였다. 이번 조정은 코스피가 최고가 흐름을 이어가는 상황에서 나온 것으로, 국내 증시에 대한 글로벌 투자은행의 긍정적 시각을 보여준다. 다만 원문에 제시된 정보는 목표치 상향과 ‘여전히 매력적’이라는 평가에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Goldman Sachs Raises KOSPI Target to 9,000, Says Market Remains Attractive",
+        "excerpt": "As the KOSPI continues to set record closing highs, Goldman Sachs raised its target for the Korean benchmark to 9,000, according to foreign media reports on the 8th.",
+        "body": "Goldman Sachs has raised its target for the KOSPI to 9,000 as the Korean benchmark keeps renewing record closing highs. According to foreign media including Business Insider on the 8th, the global investment bank maintained that the Korean stock market remains attractive and lifted its target accordingly. The revision comes while the KOSPI continues its record-setting run, underscoring a positive view from a major global investment bank. The original report is limited to the target upgrade and Goldman’s assessment that the market remains attractive. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ゴールドマン、KOSPI目標を9000に引き上げ「なお魅力的」と評価",
+        "excerpt": "KOSPIが終値ベースで連日過去最高値を更新する中、ゴールドマン・サックスは8日の外信報道で目標値を9000へ引き上げた。",
+        "body": "KOSPIが終値ベースで連日過去最高値を塗り替える中、世界的投資銀行ゴールドマン・サックスがKOSPIの目標値を9000に引き上げた。8日、ビジネス・インサイダーなどの外信によると、同社は韓国株式市場について「なお魅力的」との判断を維持し、目標値を上方修正した。今回の調整はKOSPIが最高値更新の流れを続ける局面で出たもので、韓国市場に対するグローバル投資銀行の前向きな見方を示す。ただし原文情報は目標値引き上げと魅力的との評価に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高盛上调KOSPI目标至9000点，称韩国股市“仍具吸引力”",
+        "excerpt": "在KOSPI按收盘价连续刷新历史高位之际，高盛据8日外媒报道将该指数目标上调至9000点，并维持积极评价。",
+        "body": "在KOSPI按收盘价连续刷新历史最高纪录之际，全球投资银行高盛将KOSPI目标上调至9000点。据8日Business Insider等外媒报道，高盛维持韩国股市“仍具吸引力”的判断，并上调了目标值。此次调整发生在KOSPI持续创下新高的背景下，显示出全球投行对韩国股市的积极看法。不过，原文披露的信息仅限于目标值上调以及“仍具吸引力”的评价。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Goldman Sachs eleva el objetivo del KOSPI a 9.000 y ve atractivo el mercado",
+        "excerpt": "Mientras el KOSPI renueva máximos históricos de cierre, Goldman Sachs elevó el día 8 su objetivo para el índice coreano a 9.000, según medios extranjeros.",
+        "body": "Goldman Sachs elevó su objetivo para el KOSPI a 9.000 mientras el índice surcoreano sigue marcando máximos históricos en términos de cierre. Según medios extranjeros como Business Insider el día 8, el banco de inversión global mantuvo su evaluación de que la bolsa coreana sigue siendo atractiva y ajustó al alza su meta. La revisión llega en un contexto de nuevos máximos del KOSPI y refleja una visión positiva de una gran entidad global sobre el mercado coreano. La información original se limita al aumento del objetivo y a la valoración de que sigue siendo atractivo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Goldman Sachs eleva meta do KOSPI para 9.000 e vê mercado ainda atrativo",
+        "excerpt": "Com o KOSPI renovando máximas históricas de fechamento, o Goldman Sachs elevou no dia 8 sua meta para o índice coreano a 9.000, segundo a mídia estrangeira.",
+        "body": "O Goldman Sachs elevou sua meta para o KOSPI para 9.000 enquanto o índice sul-coreano continua renovando máximas históricas com base no fechamento. Segundo veículos estrangeiros, incluindo o Business Insider, no dia 8, o banco de investimento global manteve a avaliação de que o mercado acionário coreano segue atrativo e revisou a meta para cima. A mudança ocorre em meio à sequência de recordes do KOSPI e mostra uma visão positiva de um grande banco global sobre a bolsa coreana. A informação original se limita à elevação da meta e à avaliação de atratividade. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Goldman Sachs hebt KOSPI-Ziel auf 9.000 an und nennt Markt weiter attraktiv",
+        "excerpt": "Während der KOSPI auf Schlusskursbasis weiter Rekordstände erreicht, hob Goldman Sachs laut Auslandsmedien vom 8. das Ziel für den Index auf 9.000 an.",
+        "body": "Goldman Sachs hat das Ziel für den KOSPI auf 9.000 angehoben, während der südkoreanische Leitindex auf Schlusskursbasis fortlaufend neue Rekordstände markiert. Laut ausländischen Medien, darunter Business Insider, am 8. hielt die globale Investmentbank an ihrer Einschätzung fest, dass der koreanische Aktienmarkt weiterhin attraktiv sei, und erhöhte entsprechend ihr Kursziel. Die Anpassung erfolgt in einer Phase anhaltender KOSPI-Höchststände und zeigt eine positive Sicht einer großen globalen Bank auf den koreanischen Markt. Die Originalinformationen beschränken sich auf die Zielanhebung und die Bewertung als weiterhin attraktiv. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Goldman Sachs relève l’objectif du KOSPI à 9 000, marché toujours attractif",
+        "excerpt": "Alors que le KOSPI enchaîne les records de clôture, Goldman Sachs a relevé le 8 son objectif pour l’indice coréen à 9 000, selon des médias étrangers.",
+        "body": "Goldman Sachs a relevé son objectif pour le KOSPI à 9 000 alors que l’indice sud-coréen continue de battre des records historiques en clôture. Selon des médias étrangers, dont Business Insider, le 8, la banque d’investissement mondiale a maintenu son appréciation selon laquelle le marché actions coréen reste attractif et a relevé son objectif. Cette révision intervient alors que le KOSPI poursuit sa série de sommets et illustre la vision positive d’une grande banque mondiale sur la Bourse coréenne. Les informations d’origine se limitent à la hausse de l’objectif et au jugement de marché toujours attractif. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "غولدمان ساكس يرفع هدف كوسبي إلى 9000 ويؤكد أن السوق لا يزال جذابا",
+        "excerpt": "مع استمرار مؤشر كوسبي في تسجيل قمم تاريخية عند الإغلاق، رفع غولدمان ساكس هدفه للمؤشر الكوري إلى 9000 بحسب تقارير إعلامية أجنبية في الثامن.",
+        "body": "رفع غولدمان ساكس هدفه لمؤشر كوسبي إلى 9000 في وقت يواصل فيه المؤشر الكوري الجنوبي تسجيل مستويات قياسية تاريخية على أساس الإغلاق. وبحسب وسائل إعلام أجنبية منها Business Insider في الثامن، أبقى بنك الاستثمار العالمي على تقييمه بأن سوق الأسهم الكورية لا يزال جذابا، ورفع المستوى المستهدف. يأتي هذا التعديل بينما يواصل كوسبي مسار تسجيل القمم، ما يعكس نظرة إيجابية من بنك استثماري عالمي كبير إلى السوق الكورية. وتقتصر معلومات النص الأصلي على رفع الهدف وتقييم السوق بأنه لا يزال جذابا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Goldman Sachs ने KOSPI लक्ष्य 9,000 किया, बाजार को अब भी आकर्षक बताया",
+        "excerpt": "KOSPI के बंद भाव पर लगातार रिकॉर्ड ऊंचाई बनाने के बीच Goldman Sachs ने 8 तारीख की विदेशी मीडिया रिपोर्टों के अनुसार लक्ष्य 9,000 तक बढ़ाया।",
+        "body": "दक्षिण कोरिया का KOSPI सूचकांक बंद भाव के आधार पर लगातार ऐतिहासिक ऊंचाई दर्ज कर रहा है। इसी बीच वैश्विक निवेश बैंक Goldman Sachs ने KOSPI का लक्ष्य बढ़ाकर 9,000 कर दिया। 8 तारीख को Business Insider सहित विदेशी मीडिया के अनुसार, बैंक ने कोरियाई शेयर बाजार को अब भी आकर्षक मानने का आकलन बनाए रखा और लक्ष्य में वृद्धि की। यह संशोधन KOSPI की रिकॉर्ड ऊंचाई की जारी स्थिति में आया है और कोरियाई बाजार पर एक बड़े वैश्विक निवेश बैंक के सकारात्मक दृष्टिकोण को दिखाता है। मूल जानकारी लक्ष्य वृद्धि और “अब भी आकर्षक” आकलन तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Goldman Sachs Naikkan Target KOSPI ke 9.000, Sebut Pasar Masih Menarik",
+        "excerpt": "Saat KOSPI terus mencetak rekor tertinggi berdasarkan penutupan, Goldman Sachs menaikkan target indeks Korea itu ke 9.000 menurut laporan media asing pada tanggal 8.",
+        "body": "Goldman Sachs menaikkan target KOSPI menjadi 9.000 ketika indeks saham Korea Selatan itu terus memperbarui rekor tertinggi berdasarkan harga penutupan. Menurut media asing termasuk Business Insider pada tanggal 8, bank investasi global tersebut mempertahankan penilaian bahwa pasar saham Korea masih menarik dan menaikkan targetnya. Revisi ini muncul saat KOSPI melanjutkan tren rekor tertinggi, sekaligus menunjukkan pandangan positif dari bank investasi global besar terhadap pasar Korea. Informasi asli terbatas pada kenaikan target dan penilaian bahwa pasar masih menarik. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e65604803ff4",
+    "slug": "홍콩-상장-하이닉스-2배-etf-테슬라-넘었다-916536",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T08:09:42.678Z",
+    "updatedAt": "2026-05-08T08:09:42.678Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041238",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041238",
+    "titleFingerprint": "d956bcabe155f8aa262084e8ead3ce6b8a3270cf",
+    "dedupKeys": [
+      "e65604803ff44138a96b76b3d1b353e443086c9b",
+      "d956bcabe155f8aa262084e8ead3ce6b8a3270cf",
+      "2d073a259d99395fdcc9e07ab5f5aea4f07d78be"
+    ],
+    "imageUrl": "/images/articles/e65604803ff4.png",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 2배 ETF, 테슬라 2배 제치고 세계 최대 단일종목 레버리지 ETF 등극",
+        "excerpt": "홍콩 상장 SK하이닉스 2배 레버리지 ETF가 ‘테슬라 2배’ TSLL을 제치고 세계 최대 단일종목 레버리지 ETF에 올랐다.",
+        "body": "홍콩에 상장된 SK하이닉스 2배 레버리지 상장지수펀드(ETF)가 ‘테슬라 2배’ ETF인 TSLL을 제치고 전 세계 최대 단일종목 레버리지 ETF에 올랐다. 단일종목 레버리지 ETF는 특정 기업 주가 움직임을 배수로 추종하는 상품으로, 이번 순위 변화는 SK하이닉스 관련 투자 수요가 테슬라 레버리지 상품을 넘어섰다는 점에서 주목된다. 기사에 따르면 해당 ETF는 홍콩 시장에 상장돼 있으며, 비교 대상은 테슬라 2배 레버리지 ETF TSLL이다. 반도체와 인공지능 관련 투자 관심이 이어지는 가운데 SK하이닉스 관련 상품의 글로벌 위상이 부각됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SK Hynix 2x ETF Overtakes Tesla 2x Fund as World’s Largest Single-Stock Leveraged ETF",
+        "excerpt": "A Hong Kong-listed 2x leveraged ETF tied to SK Hynix has surpassed Tesla 2x ETF TSLL to become the world’s largest single-stock leveraged ETF.",
+        "body": "A Hong Kong-listed 2x leveraged exchange-traded fund tracking SK Hynix has overtaken TSLL, the 2x Tesla ETF, to become the world’s largest single-stock leveraged ETF. Single-stock leveraged ETFs are products that seek to follow the share-price movement of one company by a multiple, and this ranking shift is notable because demand for SK Hynix-linked exposure has surpassed that for the Tesla leveraged product. According to the report, the ETF is listed in Hong Kong, and the comparison is with Tesla 2x leveraged ETF TSLL. As interest in semiconductors and artificial intelligence continues, the global profile of SK Hynix-linked products has come into focus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックス2倍ETF、テスラ2倍を抜き世界最大の単一銘柄レバレッジETFに",
+        "excerpt": "香港上場のSKハイニックス2倍レバレッジETFが「テスラ2倍」TSLLを上回り、世界最大の単一銘柄レバレッジETFとなった。",
+        "body": "香港に上場するSKハイニックス2倍レバレッジ上場投資信託（ETF）が、「テスラ2倍」ETFであるTSLLを抜き、世界最大の単一銘柄レバレッジETFとなった。単一銘柄レバレッジETFは、特定企業の株価変動を倍率で追随する商品であり、今回の順位変動はSKハイニックス関連の投資需要がテスラのレバレッジ商品を上回った点で注目される。報道によると、このETFは香港市場に上場しており、比較対象はテスラ2倍レバレッジETFのTSLLだ。半導体と人工知能関連への関心が続くなか、SKハイニックス関連商品の国際的な存在感が浮き彫りになった。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "SK海力士2倍ETF超越特斯拉2倍基金，成全球最大单一股票杠杆ETF",
+        "excerpt": "在香港上市的SK海力士2倍杠杆ETF超过“特斯拉2倍”TSLL，成为全球最大单一股票杠杆ETF。",
+        "body": "在香港上市的SK海力士2倍杠杆交易所交易基金（ETF）已超过“特斯拉2倍”ETF TSLL，成为全球最大的单一股票杠杆ETF。单一股票杠杆ETF是以倍数追踪特定企业股价变动的产品，此次排名变化之所以受到关注，是因为与SK海力士相关的投资需求已经超过特斯拉杠杆产品。报道称，该ETF在香港市场上市，比较对象为特斯拉2倍杠杆ETF TSLL。随着半导体和人工智能相关投资关注持续，SK海力士相关产品的全球地位进一步凸显。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "ETF 2x de SK Hynix supera al 2x de Tesla y lidera los apalancados de una sola acción",
+        "excerpt": "El ETF apalancado 2x de SK Hynix listado en Hong Kong superó al TSLL, el 2x de Tesla, y se convirtió en el mayor ETF apalancado de una sola acción del mundo.",
+        "body": "Un fondo cotizado apalancado 2x de SK Hynix listado en Hong Kong superó a TSLL, el ETF 2x de Tesla, y se convirtió en el mayor ETF apalancado de una sola acción del mundo. Los ETF apalancados de una sola acción buscan seguir, con un múltiplo, el movimiento del precio de una empresa específica. Este cambio de clasificación destaca porque la demanda de exposición vinculada a SK Hynix ha superado a la del producto apalancado de Tesla. Según el reporte, el ETF cotiza en el mercado de Hong Kong y la comparación se realiza con el ETF apalancado 2x de Tesla, TSLL. En medio del interés por semiconductores e inteligencia artificial, aumenta la visibilidad global de los productos ligados a SK Hynix. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "ETF 2x da SK Hynix supera o 2x da Tesla e vira maior alavancado de ação única",
+        "excerpt": "O ETF alavancado 2x da SK Hynix listado em Hong Kong superou o TSLL, 2x da Tesla, e tornou-se o maior ETF alavancado de ação única do mundo.",
+        "body": "Um fundo negociado em bolsa alavancado 2x da SK Hynix listado em Hong Kong superou o TSLL, ETF 2x da Tesla, e tornou-se o maior ETF alavancado de ação única do mundo. ETFs alavancados de ação única buscam acompanhar, por múltiplos, a variação das ações de uma empresa específica. A mudança no ranking chama atenção porque a demanda por exposição ligada à SK Hynix ultrapassou a do produto alavancado da Tesla. Segundo a reportagem, o ETF está listado no mercado de Hong Kong, e a comparação é com o ETF alavancado 2x da Tesla, TSLL. Com o interesse contínuo em semicondutores e inteligência artificial, os produtos ligados à SK Hynix ganham destaque global. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SK-Hynix-2x-ETF überholt Tesla-2x-Fonds als größter Single-Stock-Hebel-ETF der Welt",
+        "excerpt": "Ein in Hongkong gelisteter 2x-Hebel-ETF auf SK Hynix hat den Tesla-2x-ETF TSLL überholt und ist nun der weltweit größte Single-Stock-Hebel-ETF.",
+        "body": "Ein in Hongkong gelisteter 2x-Hebel-ETF auf SK Hynix hat TSLL, den 2x-ETF auf Tesla, überholt und ist damit der weltweit größte Single-Stock-Hebel-ETF. Single-Stock-Hebel-ETFs sind Produkte, die die Kursbewegung einer bestimmten Aktie mit einem Vielfachen nachbilden sollen. Die Verschiebung in der Rangliste ist bemerkenswert, weil die Nachfrage nach SK-Hynix-bezogenen Engagements die des Tesla-Hebelprodukts übertroffen hat. Dem Bericht zufolge ist der ETF am Markt in Hongkong gelistet; der Vergleich bezieht sich auf den Tesla-2x-Hebel-ETF TSLL. Während das Interesse an Halbleitern und künstlicher Intelligenz anhält, rückt die globale Bedeutung von SK-Hynix-Produkten stärker in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’ETF 2x SK Hynix dépasse le 2x Tesla et devient le premier ETF à effet de levier mono-action",
+        "excerpt": "L’ETF à effet de levier 2x SK Hynix coté à Hong Kong a dépassé le TSLL, 2x Tesla, devenant le plus grand ETF mono-action à effet de levier au monde.",
+        "body": "Un fonds coté à effet de levier 2x lié à SK Hynix et coté à Hong Kong a dépassé TSLL, l’ETF 2x Tesla, pour devenir le plus grand ETF mono-action à effet de levier au monde. Les ETF à effet de levier mono-action cherchent à suivre les mouvements du cours d’une entreprise précise avec un multiple. Ce changement de classement retient l’attention car la demande d’exposition liée à SK Hynix a dépassé celle du produit à effet de levier sur Tesla. Selon l’article, l’ETF est coté sur le marché de Hong Kong et la comparaison porte sur l’ETF Tesla 2x TSLL. Alors que l’intérêt pour les semi-conducteurs et l’intelligence artificielle se poursuit, les produits liés à SK Hynix gagnent en visibilité mondiale. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صندوق SK Hynix برافعة 2x يتجاوز صندوق Tesla 2x كأكبر صندوق رافعة لسهم واحد عالميا",
+        "excerpt": "تجاوز صندوق SK Hynix برافعة 2x المدرج في هونغ كونغ صندوق Tesla 2x المعروف باسم TSLL، ليصبح أكبر صندوق ETF برافعة لسهم واحد في العالم.",
+        "body": "تجاوز صندوق المؤشرات المتداولة برافعة 2x المرتبط بشركة SK Hynix والمدرج في هونغ كونغ صندوق TSLL، وهو صندوق Tesla برافعة 2x، ليصبح أكبر صندوق ETF برافعة لسهم واحد في العالم. وتعد صناديق الرافعة لسهم واحد منتجات تتبع حركة سعر سهم شركة محددة بمضاعف معين. وتبرز أهمية هذا التغير في الترتيب لأن الطلب على المنتجات المرتبطة بـ SK Hynix تجاوز الطلب على منتج الرافعة المرتبط بتسلا. ووفقا للتقرير، فإن الصندوق مدرج في سوق هونغ كونغ، والمقارنة جاءت مع صندوق Tesla 2x ETF المعروف باسم TSLL. ومع استمرار الاهتمام بأشباه الموصلات والذكاء الاصطناعي، برز الحضور العالمي للمنتجات المرتبطة بـ SK Hynix. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SK Hynix 2x ETF ने Tesla 2x को पीछे छोड़ा, बना सबसे बड़ा सिंगल-स्टॉक लीवरेज ETF",
+        "excerpt": "हांगकांग में सूचीबद्ध SK Hynix 2x लीवरेज ETF ने Tesla 2x ETF TSLL को पीछे छोड़कर दुनिया का सबसे बड़ा सिंगल-स्टॉक लीवरेज ETF स्थान हासिल किया।",
+        "body": "हांगकांग में सूचीबद्ध SK Hynix 2x लीवरेज एक्सचेंज-ट्रेडेड फंड (ETF) ने Tesla 2x ETF TSLL को पीछे छोड़कर दुनिया का सबसे बड़ा सिंगल-स्टॉक लीवरेज ETF दर्जा हासिल किया। सिंगल-स्टॉक लीवरेज ETF ऐसे उत्पाद होते हैं जो किसी खास कंपनी के शेयर भाव की चाल को गुणक के आधार पर ट्रैक करते हैं। यह रैंकिंग बदलाव इसलिए अहम है क्योंकि SK Hynix से जुड़े निवेश उत्पाद की मांग Tesla के लीवरेज उत्पाद से आगे निकल गई है। रिपोर्ट के अनुसार, यह ETF हांगकांग बाजार में सूचीबद्ध है और तुलना Tesla 2x लीवरेज ETF TSLL से की गई है। सेमीकंडक्टर और आर्टिफिशियल इंटेलिजेंस में जारी रुचि के बीच SK Hynix से जुड़े उत्पादों की वैश्विक स्थिति उभरी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "ETF 2x SK Hynix Geser 2x Tesla, Jadi ETF Leverage Saham Tunggal Terbesar Dunia",
+        "excerpt": "ETF leverage 2x SK Hynix yang tercatat di Hong Kong melampaui ETF 2x Tesla TSLL dan menjadi ETF leverage saham tunggal terbesar di dunia.",
+        "body": "ETF leverage 2x berbasis SK Hynix yang tercatat di Hong Kong telah melampaui TSLL, ETF 2x Tesla, dan menjadi ETF leverage saham tunggal terbesar di dunia. ETF leverage saham tunggal adalah produk yang mengikuti pergerakan harga saham satu perusahaan tertentu dengan kelipatan tertentu. Perubahan peringkat ini menjadi perhatian karena permintaan terhadap eksposur terkait SK Hynix telah melampaui produk leverage Tesla. Menurut laporan tersebut, ETF ini tercatat di pasar Hong Kong, sementara pembandingnya adalah ETF leverage 2x Tesla, TSLL. Di tengah berlanjutnya minat pada semikonduktor dan kecerdasan buatan, posisi global produk terkait SK Hynix semakin menonjol. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f03f9e53faf5",
+    "slug": "퇴직연금-머니무브-한투는-연금자산-누적-1조원-넘어서-703368",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T08:08:43.243Z",
+    "updatedAt": "2026-05-08T08:08:43.243Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041243",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041243",
+    "titleFingerprint": "bd7b89c92660361488294654d0491788b6725f40",
+    "dedupKeys": [
+      "f03f9e53faf5ef8f2a7f1e5db167ab13bd7c2cf5",
+      "bd7b89c92660361488294654d0491788b6725f40",
+      "983688d15043a0f7ef46d96dc23069026abb2598"
+    ],
+    "imageUrl": "/images/articles/f03f9e53faf5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "퇴직연금 머니무브 확대, 한투 연금자산 누적 1조원 돌파",
+        "excerpt": "증시 활황 속 퇴직연금 가입자의 실적배당형 상품 비중이 높아지며 한투의 연금자산 누적 규모가 1조원을 넘어섰다.",
+        "body": "증시 활황이 이어지면서 퇴직연금 시장에서 실적배당형 상품 비중이 높아지고 있다. 2024년 10월부터 퇴직연금 가입자는 기존에 운용하던 상품을 해지하지 않고 다른 금융사로 옮길 수 있는 ‘퇴직연금 머니무브’ 제도를 활용할 수 있게 됐다. 이 변화 속에서 한투는 연금자산 누적 규모가 1조원을 넘어섰다. 시장 흐름은 퇴직연금 운용 방식이 원리금보장형 중심에서 투자 성과를 반영하는 상품으로 넓어지고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Retirement Pension Money Move Grows as Hantu Assets Top 1 Trillion Won",
+        "excerpt": "Amid a strong stock market, retirement pension members are increasing exposure to performance-linked products, while Hantu’s accumulated pension assets have surpassed 1 trillion won.",
+        "body": "As the stock market remains strong, performance-linked products are taking a larger share of South Korea’s retirement pension market. Since October 2024, retirement pension members have been able to use the ‘retirement pension money move’ system, which lets them transfer products to another financial firm without terminating existing holdings. In this shift, Hantu’s accumulated pension assets have exceeded 1 trillion won. The trend shows retirement pension management expanding from principal-guaranteed products toward options that reflect investment performance. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "退職年金マネームーブ拡大、韓投の年金資産が累計1兆ウォン突破",
+        "excerpt": "株式市場の好調を背景に退職年金加入者の実績配当型商品の比率が高まり、韓投の年金資産累計額は1兆ウォンを超えた。",
+        "body": "株式市場の好調が続くなか、退職年金市場では実績配当型商品の比率が高まっている。2024年10月から、退職年金加入者は既存の商品を解約せずに他の金融機関へ移せる「退職年金マネームーブ」制度を利用できるようになった。この変化のなかで、韓投の年金資産累計規模は1兆ウォンを突破した。市場の流れは、退職年金の運用が元利金保証型中心から投資成果を反映する商品へ広がっていることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "退休养老金资金转移扩大，韩投养老金资产累计突破1万亿韩元",
+        "excerpt": "在股市活跃背景下，退休养老金参与者提高了绩效分红型产品比重，韩投养老金资产累计规模已超过1万亿韩元。",
+        "body": "随着股市保持活跃，韩国退休养老金市场中绩效分红型产品的比重正在上升。自2024年10月起，退休养老金参与者可以使用“退休养老金资金转移”制度，在不解除原有运作产品的情况下，将其转至其他金融公司。在这一变化中，韩投养老金资产累计规模已突破1万亿韩元。该趋势显示，退休养老金运作方式正从以保本保息型为中心，扩展至反映投资成果的产品。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Crece el money move de pensiones y Hantu supera 1 billón de wones en activos",
+        "excerpt": "Con el auge bursátil, los afiliados a planes de pensiones de retiro elevan el peso de productos ligados a resultados y Hantu supera 1 billón de wones en activos acumulados.",
+        "body": "Con la fortaleza del mercado bursátil, aumenta la proporción de productos ligados al rendimiento dentro del mercado de pensiones de retiro. Desde octubre de 2024, los afiliados pueden usar el sistema de ‘money move’ de pensiones, que permite trasladar productos a otra entidad financiera sin cancelar los que ya estaban gestionando. En este contexto, los activos de pensiones acumulados de Hantu superaron 1 billón de wones. La tendencia muestra que la gestión de estas pensiones se amplía desde productos con principal garantizado hacia opciones que reflejan resultados de inversión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Money move em previdência cresce e Hantu supera 1 trilhão de won em ativos",
+        "excerpt": "Com o mercado acionário aquecido, participantes de planos de aposentadoria elevam a fatia de produtos ligados ao desempenho, enquanto a Hantu supera 1 trilhão de won em ativos acumulados.",
+        "body": "Com a continuidade do bom momento do mercado acionário, cresce a participação de produtos vinculados ao desempenho no mercado de previdência de aposentadoria. Desde outubro de 2024, os participantes podem usar o sistema de ‘money move’ da previdência, que permite transferir produtos para outra instituição financeira sem encerrar os investimentos já existentes. Nesse movimento, os ativos previdenciários acumulados da Hantu passaram de 1 trilhão de won. A tendência mostra a gestão previdenciária se ampliando de produtos com principal garantido para alternativas que refletem resultados de investimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Renten-Money-Move nimmt zu, Hantu überschreitet 1 Bio. Won an Vermögen",
+        "excerpt": "Im starken Aktienmarkt steigt bei betrieblichen Altersvorsorgeprodukten der Anteil ergebnisabhängiger Anlagen, während Hantus kumuliertes Rentenvermögen 1 Billion Won übertrifft.",
+        "body": "Mit der anhaltenden Stärke des Aktienmarkts wächst im Markt für betriebliche Altersvorsorge der Anteil ergebnisabhängiger Produkte. Seit Oktober 2024 können Vorsorgesparer das System des ‘Retirement Pension Money Move’ nutzen und bestehende Produkte zu einem anderen Finanzunternehmen übertragen, ohne sie vorher aufzulösen. In diesem Umfeld hat Hantu beim kumulierten Rentenvermögen die Marke von 1 Billion Won überschritten. Der Trend zeigt, dass sich die Altersvorsorgeverwaltung von kapitalgarantierten Produkten hin zu Anlagen erweitert, die Anlageergebnisse widerspiegeln. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le money move des retraites progresse, Hantu dépasse 1 000 Md de wons",
+        "excerpt": "Avec la vigueur des marchés actions, les affiliés aux plans de retraite augmentent la part des produits liés à la performance, tandis que Hantu dépasse 1 000 milliards de wons d’actifs cumulés.",
+        "body": "Alors que les marchés actions restent porteurs, la part des produits liés à la performance augmente sur le marché des retraites professionnelles. Depuis octobre 2024, les affiliés peuvent utiliser le dispositif de ‘money move’ des retraites, qui permet de transférer des produits vers une autre institution financière sans liquider ceux déjà détenus. Dans ce contexte, les actifs de retraite cumulés de Hantu ont dépassé 1 000 milliards de wons. Cette évolution montre que la gestion des retraites s’élargit des produits à capital garanti vers des options reflétant les résultats d’investissement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اتساع انتقال أموال التقاعد وهانتو تتجاوز تريليون وون من الأصول",
+        "excerpt": "مع نشاط سوق الأسهم، ترتفع حصة المنتجات المرتبطة بالأداء بين مشتركي معاشات التقاعد، فيما تجاوزت أصول هانتو التقاعدية المتراكمة تريليون وون.",
+        "body": "مع استمرار نشاط سوق الأسهم، ترتفع حصة المنتجات المرتبطة بالأداء في سوق معاشات التقاعد. ومنذ أكتوبر 2024، أصبح بإمكان مشتركي التقاعد استخدام نظام ‘انتقال أموال التقاعد’ الذي يتيح نقل المنتجات إلى مؤسسة مالية أخرى من دون إنهاء المنتجات القائمة. وفي ظل هذا التغير، تجاوزت الأصول التقاعدية المتراكمة لدى هانتو تريليون وون. ويظهر هذا الاتجاه أن إدارة معاشات التقاعد تتوسع من المنتجات المضمونة الأصل والفائدة إلى خيارات تعكس نتائج الاستثمار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "रिटायरमेंट पेंशन मनी मूव बढ़ा, हांतू की संपत्ति 1 ट्रिलियन वॉन पार",
+        "excerpt": "शेयर बाजार में तेजी के बीच रिटायरमेंट पेंशन सदस्यों में प्रदर्शन-आधारित उत्पादों की हिस्सेदारी बढ़ रही है और हांतू की संचित पेंशन संपत्ति 1 ट्रिलियन वॉन से ऊपर पहुंची।",
+        "body": "शेयर बाजार में मजबूती जारी रहने के साथ रिटायरमेंट पेंशन बाजार में प्रदर्शन-आधारित उत्पादों की हिस्सेदारी बढ़ रही है। अक्टूबर 2024 से रिटायरमेंट पेंशन सदस्य ‘रिटायरमेंट पेंशन मनी मूव’ प्रणाली का उपयोग कर सकते हैं, जिसके तहत वे पहले से संचालित उत्पादों को समाप्त किए बिना उन्हें किसी अन्य वित्तीय कंपनी में स्थानांतरित कर सकते हैं। इसी बदलाव के बीच हांतू की संचित पेंशन संपत्ति 1 ट्रिलियन वॉन से अधिक हो गई। यह रुझान दिखाता है कि पेंशन प्रबंधन मूलधन-गारंटी उत्पादों से आगे बढ़कर निवेश प्रदर्शन दर्शाने वाले विकल्पों तक फैल रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Money Move Pensiun Menguat, Aset Pensiun Hantu Tembus 1 Triliun Won",
+        "excerpt": "Di tengah pasar saham yang aktif, peserta pensiun meningkatkan porsi produk berbasis kinerja, sementara akumulasi aset pensiun Hantu melampaui 1 triliun won.",
+        "body": "Seiring pasar saham yang tetap bergairah, porsi produk berbasis kinerja di pasar pensiun terus meningkat. Sejak Oktober 2024, peserta pensiun dapat menggunakan sistem ‘retirement pension money move’ untuk memindahkan produk ke perusahaan keuangan lain tanpa menghentikan produk yang sudah dikelola. Dalam perubahan ini, akumulasi aset pensiun Hantu telah melampaui 1 triliun won. Tren tersebut menunjukkan pengelolaan pensiun bergerak dari produk bergaransi pokok menuju pilihan yang mencerminkan hasil investasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5ba3fd551846",
     "slug": "코스피-7500-과열-아니다일본-비하면-아직-덜-올랐다-585248",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Kupon Pemulihan Penghidupan Naikkan Penjualan Pedagang Kecil 5,86 Triliun Won",
         "excerpt": "Pada 7 Mei 2026, Korea Institute of Public Finance menyebut kupon pemulihan menaikkan penjualan pedagang kecil 433 won per 1.000 won yang dibagikan.",
         "body": "Korea Institute of Public Finance pada 7 Mei 2026 di Seoul memaparkan analisis efek kupon konsumsi pemulihan penghidupan yang dibagikan tahun lalu. Studi ini memakai data pembayaran dari enam perusahaan kartu, termasuk Shinhan, Samsung, Hyundai, KB Kookmin, BC dan Hana, untuk periode November 2025 hingga April 2026. Pemerintah pada Juli tahun lalu membagikan kupon senilai 150.000 hingga 550.000 won per orang dalam dua tahap, dengan total 13,52 triliun won. Lembaga itu memperkirakan efek dorongan konsumsi sebesar 0,433, berarti setiap 1.000 won kupon menaikkan penjualan pedagang kecil 433 won. Dampak kenaikan penjualan mencapai 5,86 triliun won, lebih tinggi dari kisaran 0 hingga 0,33 pada program fiskal tunai sejenis. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "25b570bd8ac9",
-    "slug": "ai-전략새-ceo-기대감애플-주가-사상-최고치-357028",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T19:06:01.694Z",
-    "updatedAt": "2026-05-07T19:06:01.694Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724111",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724111",
-    "titleFingerprint": "05aba400177fb90e179162950816e1cb467c3c72",
-    "dedupKeys": [
-      "25b570bd8ac9e8afb04bf3b45b4503c4c3412e7c",
-      "05aba400177fb90e179162950816e1cb467c3c72",
-      "98d1b07eb5f73bca65b47817caaa3842a8a07ecb"
-    ],
-    "imageUrl": "/images/articles/25b570bd8ac9.png",
-    "i18n": {
-      "ko": {
-        "title": "AI 전략·새 CEO 기대감에 애플 주가 사상 최고치 경신, 투자자 관심 집중",
-        "excerpt": "애플 주가가 AI 전략과 새 CEO 기대감이 맞물리며 사상 최고치를 기록했다고 hankyung.com이 전했다. 시장은 향후 경영 변화와 AI 행보에 주목하고 있다.",
-        "body": "애플 주가가 AI 전략과 새 CEO 기대감에 힘입어 사상 최고치를 기록했다고 hankyung.com이 보도했다. 보도에 따르면 투자자들은 애플의 인공지능 전략이 향후 성장 동력으로 작용할 수 있는지, 또 새 최고경영자에 대한 기대가 기업 가치 평가에 어떤 영향을 줄지 주목하고 있다. 이번 주가 흐름은 AI 관련 전략과 경영 리더십 변화 가능성이 동시에 시장 심리에 반영된 결과로 해석된다. 다만 원문에서 구체적인 주가 수치나 일정은 제시되지 않았다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Apple Stock Hits Record High on AI Strategy and New CEO Expectations",
-        "excerpt": "Apple shares reached an all-time high as investor attention focused on its AI strategy and expectations for a new CEO, according to hankyung.com.",
-        "body": "Apple’s stock reached an all-time high, supported by expectations around its AI strategy and a new CEO, hankyung.com reported. According to the report, investors are watching whether Apple’s artificial intelligence plans can become a future growth driver and how expectations for new leadership may affect the company’s valuation. The share-price move reflects market sentiment shaped by both AI-related strategy and the possibility of management change. The original report did not provide specific price figures or a detailed timetable. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "AI戦略と新CEO期待でアップル株が史上最高値、投資家の関心集まる",
-        "excerpt": "アップル株はAI戦略と新CEOへの期待が重なり、史上最高値を記録したとhankyung.comが伝えた。市場は今後の経営変化とAI戦略に注目している。",
-        "body": "アップル株がAI戦略と新CEOへの期待を背景に史上最高値を記録したと、hankyung.comが報じた。報道によると、投資家はアップルの人工知能戦略が今後の成長動力になり得るのか、また新たな最高経営責任者への期待が企業価値評価にどのような影響を与えるのかに注目している。今回の株価の動きは、AI関連戦略と経営リーダーシップ変化の可能性が同時に市場心理へ反映されたものと解釈される。ただし原文では具体的な株価水準や日程は示されていない。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "AI战略与新CEO预期推动苹果股价创历史新高，市场关注升温",
-        "excerpt": "据hankyung.com报道，苹果股价在AI战略和新CEO预期共同作用下创下历史新高，市场正关注其后续管理变化与AI布局。",
-        "body": "据hankyung.com报道，苹果股价在AI战略和新CEO预期带动下创下历史新高。报道显示，投资者正在关注苹果的人工智能战略能否成为未来增长动力，以及市场对新首席执行官的期待将如何影响公司估值。此次股价走势可被解读为AI相关战略和管理层变化可能性同时反映到市场情绪中的结果。不过，原文未披露具体股价数字或相关时间安排。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Apple marca máximo histórico por su estrategia de IA y expectativas de nuevo CEO",
-        "excerpt": "Las acciones de Apple alcanzaron un máximo histórico por su estrategia de IA y las expectativas sobre un nuevo CEO, informó hankyung.com.",
-        "body": "Las acciones de Apple alcanzaron un máximo histórico, impulsadas por su estrategia de IA y las expectativas sobre un nuevo CEO, informó hankyung.com. Según el reporte, los inversionistas observan si los planes de inteligencia artificial de Apple pueden convertirse en un motor de crecimiento futuro y cómo las expectativas de nuevo liderazgo podrían influir en la valoración de la empresa. El movimiento bursátil refleja un ánimo de mercado marcado tanto por la estrategia relacionada con IA como por la posible evolución de la dirección. El texto original no incluyó cifras concretas de precio ni un calendario detallado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Ações da Apple atingem máxima histórica com estratégia de IA e expectativa por novo CEO",
-        "excerpt": "As ações da Apple chegaram a uma máxima histórica com a estratégia de IA e expectativas sobre um novo CEO, segundo o hankyung.com.",
-        "body": "As ações da Apple atingiram uma máxima histórica, apoiadas pela estratégia de IA da empresa e por expectativas em torno de um novo CEO, informou o hankyung.com. Segundo a reportagem, investidores acompanham se os planos de inteligência artificial da Apple poderão se tornar um vetor de crescimento futuro e como a expectativa por uma nova liderança pode afetar a avaliação da companhia. O movimento das ações reflete um sentimento de mercado influenciado tanto pela estratégia ligada à IA quanto pela possibilidade de mudança na gestão. O texto original não apresentou valores específicos de preço nem um cronograma detalhado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Apple-Aktie erreicht Rekordhoch durch KI-Strategie und Erwartungen an neuen CEO",
-        "excerpt": "Die Apple-Aktie stieg auf ein Allzeithoch, gestützt von der KI-Strategie und Erwartungen an einen neuen CEO, berichtete hankyung.com.",
-        "body": "Die Apple-Aktie hat ein Allzeithoch erreicht, getragen von Erwartungen rund um die KI-Strategie des Unternehmens und einen neuen CEO, berichtete hankyung.com. Dem Bericht zufolge beobachten Anleger, ob Apples Pläne für künstliche Intelligenz zu einem künftigen Wachstumstreiber werden können und wie die Erwartungen an eine neue Führung die Unternehmensbewertung beeinflussen könnten. Die Kursbewegung spiegelt eine Marktstimmung wider, die sowohl von der KI-bezogenen Strategie als auch von der Möglichkeit einer Veränderung im Management geprägt ist. Konkrete Kurszahlen oder einen detaillierten Zeitplan nannte der Originalbericht nicht. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "L’action Apple atteint un record grâce à la stratégie IA et aux attentes d’un nouveau CEO",
-        "excerpt": "L’action Apple a atteint un plus haut historique, portée par sa stratégie IA et les attentes autour d’un nouveau CEO, selon hankyung.com.",
-        "body": "L’action Apple a atteint un plus haut historique, soutenue par sa stratégie d’IA et les attentes liées à un nouveau CEO, a rapporté hankyung.com. Selon l’article, les investisseurs observent si les projets d’intelligence artificielle d’Apple peuvent devenir un moteur de croissance futur et comment les attentes autour d’une nouvelle direction pourraient influencer la valorisation de l’entreprise. Ce mouvement boursier reflète un sentiment de marché nourri à la fois par la stratégie liée à l’IA et par la possibilité d’un changement de leadership. Le texte original ne fournit pas de niveau de cours précis ni de calendrier détaillé. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سهم آبل يسجل أعلى مستوى تاريخي بدعم استراتيجية الذكاء الاصطناعي وتوقعات CEO جديد",
-        "excerpt": "سجل سهم آبل أعلى مستوى تاريخي مع تزايد الاهتمام باستراتيجية الذكاء الاصطناعي وتوقعات تعيين CEO جديد، وفق ما نقل hankyung.com.",
-        "body": "سجل سهم آبل أعلى مستوى تاريخي بدعم من استراتيجية الذكاء الاصطناعي وتوقعات مرتبطة بوجود CEO جديد، بحسب ما أفاد hankyung.com. ووفق التقرير، يراقب المستثمرون ما إذا كانت خطط آبل في الذكاء الاصطناعي يمكن أن تتحول إلى محرك نمو مستقبلي، وكيف قد تؤثر التوقعات بشأن قيادة جديدة في تقييم الشركة. وتعكس حركة السهم معنويات سوقية تأثرت في الوقت نفسه بالاستراتيجية المرتبطة بالذكاء الاصطناعي وباحتمال حدوث تغير في القيادة الإدارية. ولم يورد النص الأصلي أرقاما محددة للسعر أو جدولا زمنيا تفصيليا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "AI रणनीति और नए CEO की उम्मीदों से Apple शेयर रिकॉर्ड ऊंचाई पर",
-        "excerpt": "hankyung.com के अनुसार, Apple का शेयर AI रणनीति और नए CEO को लेकर उम्मीदों के बीच सर्वकालिक उच्च स्तर पर पहुंचा; बाजार आगे की दिशा पर नजर रख रहा है।",
-        "body": "hankyung.com के अनुसार, Apple का शेयर AI रणनीति और नए CEO से जुड़ी उम्मीदों के सहारे सर्वकालिक उच्च स्तर पर पहुंच गया। रिपोर्ट के मुताबिक निवेशक यह देख रहे हैं कि Apple की कृत्रिम बुद्धिमत्ता रणनीति भविष्य में वृद्धि का आधार बन सकती है या नहीं, और नए मुख्य कार्यकारी अधिकारी को लेकर उम्मीदें कंपनी के मूल्यांकन को कैसे प्रभावित कर सकती हैं। शेयर की यह चाल AI से जुड़ी रणनीति और प्रबंधन नेतृत्व में बदलाव की संभावना, दोनों के बाजार मनोभाव में शामिल होने का संकेत देती है। मूल रिपोर्ट में शेयर का ठोस भाव या विस्तृत समयरेखा नहीं दी गई। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham Apple Cetak Rekor Tertinggi Berkat Strategi AI dan Harapan CEO Baru",
-        "excerpt": "Saham Apple mencapai rekor tertinggi sepanjang masa karena strategi AI dan ekspektasi terhadap CEO baru, menurut laporan hankyung.com.",
-        "body": "Saham Apple mencapai rekor tertinggi sepanjang masa, didorong oleh strategi AI dan ekspektasi terhadap CEO baru, lapor hankyung.com. Menurut laporan tersebut, investor mencermati apakah rencana kecerdasan buatan Apple dapat menjadi motor pertumbuhan ke depan dan bagaimana harapan terhadap kepemimpinan baru dapat memengaruhi valuasi perusahaan. Pergerakan saham ini mencerminkan sentimen pasar yang dipengaruhi oleh strategi terkait AI sekaligus kemungkinan perubahan kepemimpinan manajemen. Laporan asli tidak mencantumkan angka harga saham tertentu atau jadwal rinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "896dede8c04c",
-    "slug": "더-오를-걸-아는데도삼성전자를-전부-팔아버린-그-남자-247259",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T19:05:06.526Z",
-    "updatedAt": "2026-05-07T19:05:06.526Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12037458",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12037458",
-    "titleFingerprint": "e9e7b79d3e479133838aa490ff7dda8859076ebd",
-    "dedupKeys": [
-      "896dede8c04c98686280734f7ef2c965bdfed700",
-      "e9e7b79d3e479133838aa490ff7dda8859076ebd",
-      "7a04e983c24691c424090297153f40dd4d345bea"
-    ],
-    "imageUrl": "/images/articles/896dede8c04c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 전량 매도한 김승호 회장, ‘부의 속성’ 저자가 밝힌 선택",
-        "excerpt": "김승호 짐킴홀딩스 회장이 mk.co.kr 인터뷰에서 삼성전자 전량 매도와 1987년 홀로 미국행을 택했던 배경을 전하며 자신의 투자와 인생 선택을 설명했다.",
-        "body": "김승호 짐킴홀딩스 회장은 mk.co.kr 인터뷰에서 삼성전자 주가가 더 오를 가능성을 알면서도 보유분을 모두 팔았던 선택을 언급했다. 베스트셀러 ‘부의 속성’ 저자인 그는 국내 대학교를 중퇴한 뒤 1987년 혈혈단신 미국으로 건너갔다. 결과적으로는 옳은 결정이었다고 돌아봤지만, 당시에는 누구도 그 선택을 쉽게 이해하기 어려운 상황이었다. 이번 인터뷰는 투자 판단과 인생의 방향 전환이 어떤 기준에서 이뤄졌는지를 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Jim Kim on Selling All Samsung Electronics Despite Seeing More Upside",
-        "excerpt": "Jim Kim Holdings chairman Kim Seung-ho told mk.co.kr about selling all his Samsung Electronics shares and why he left Korea alone for the U.S. in 1987.",
-        "body": "In an interview with mk.co.kr, Jim Kim Holdings chairman Kim Seung-ho discussed his decision to sell all of his Samsung Electronics holdings even though he knew the stock could rise further. Kim, author of the bestseller “The Attributes of Wealth,” dropped out of a Korean university and moved to the United States alone in 1987. Looking back, he said the move was ultimately the right choice, though at the time it was not an easy decision for others to understand. The interview highlights the standards behind his investment judgment and major life turns. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子を全売却した金承浩会長、『富の属性』著者の判断",
-        "excerpt": "ジムキムホールディングスの金承浩会長はmk.co.krのインタビューで、サムスン電子の全売却と1987年に単身渡米した背景を語った。",
-        "body": "ジムキムホールディングスの金承浩会長はmk.co.krのインタビューで、サムスン電子株がさらに上がる可能性を知りながらも保有分をすべて売却した判断に触れた。ベストセラー『富の属性』の著者である金氏は、韓国の大学を中退し、1987年に単身で米国へ渡った。結果的には正しい選択だったと振り返る一方、当時は誰にとっても理解しやすい決断ではなかった。今回のインタビューは、投資判断と人生の方向転換がどのような基準で行われたのかを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "明知还会涨却清仓三星电子，金承浩会长谈其投资选择",
-        "excerpt": "Jim Kim Holdings会长金承浩在mk.co.kr采访中谈到清仓三星电子，以及1987年独自赴美这一人生选择的背景。",
-        "body": "Jim Kim Holdings会长金承浩在接受mk.co.kr采访时，谈到自己明知三星电子股价仍可能上涨，却卖出全部持股的决定。作为畅销书《财富的属性》作者，他曾从韩国大学退学，并于1987年独自前往美国。回顾这段经历，他认为结果证明这是正确选择，但在当时，这并不是一个容易被他人理解的决定。此次采访展现了他在投资判断和人生转向中所依据的标准。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kim Seung-ho vendió todo Samsung Electronics pese a prever más alzas",
-        "excerpt": "Kim Seung-ho, presidente de Jim Kim Holdings, explicó a mk.co.kr la venta total de Samsung Electronics y su decisión de ir solo a EE. UU. en 1987.",
-        "body": "En una entrevista con mk.co.kr, Kim Seung-ho, presidente de Jim Kim Holdings, habló de su decisión de vender toda su posición en Samsung Electronics aunque sabía que la acción podía seguir subiendo. Kim, autor del bestseller “Los atributos de la riqueza”, dejó una universidad en Corea y viajó solo a Estados Unidos en 1987. Al mirar atrás, considera que fue una decisión correcta, aunque en aquel momento no era fácil de entender para los demás. La entrevista muestra los criterios detrás de sus decisiones de inversión y de sus grandes cambios de vida. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kim Seung-ho vendeu toda Samsung Electronics mesmo vendo mais alta",
-        "excerpt": "Kim Seung-ho, presidente da Jim Kim Holdings, contou ao mk.co.kr sobre vender toda Samsung Electronics e ir sozinho aos EUA em 1987.",
-        "body": "Em entrevista ao mk.co.kr, Kim Seung-ho, presidente da Jim Kim Holdings, comentou sua decisão de vender toda a participação em Samsung Electronics, mesmo sabendo que a ação ainda poderia subir. Autor do best-seller “Os Atributos da Riqueza”, Kim abandonou uma universidade na Coreia e foi sozinho para os Estados Unidos em 1987. Em retrospecto, disse que a escolha acabou sendo correta, embora na época não fosse uma decisão fácil de ser compreendida. A entrevista mostra os critérios por trás de seus julgamentos de investimento e de suas mudanças de rumo na vida. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kim Seung-ho verkaufte Samsung Electronics komplett trotz weiterem Potenzial",
-        "excerpt": "Jim-Kim-Holdings-Chef Kim Seung-ho sprach mit mk.co.kr über den Komplettverkauf von Samsung Electronics und seinen USA-Gang 1987.",
-        "body": "In einem Interview mit mk.co.kr sprach Kim Seung-ho, Vorsitzender von Jim Kim Holdings, über seine Entscheidung, alle Anteile an Samsung Electronics zu verkaufen, obwohl er wusste, dass die Aktie weiter steigen könnte. Kim, Autor des Bestsellers „Die Eigenschaften des Reichtums“, brach ein Studium in Korea ab und ging 1987 allein in die USA. Rückblickend bezeichnete er den Schritt als richtige Wahl, auch wenn er damals für andere schwer nachvollziehbar war. Das Interview zeigt, nach welchen Maßstäben er Investitionsentscheidungen und wichtige Wendepunkte im Leben beurteilt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kim Seung-ho a tout vendu Samsung Electronics malgré un potentiel de hausse",
-        "excerpt": "Kim Seung-ho, président de Jim Kim Holdings, a expliqué à mk.co.kr la vente totale de Samsung Electronics et son départ seul aux États-Unis en 1987.",
-        "body": "Dans un entretien avec mk.co.kr, Kim Seung-ho, président de Jim Kim Holdings, est revenu sur sa décision de vendre toute sa position dans Samsung Electronics alors qu’il savait que l’action pouvait encore monter. Auteur du best-seller « Les attributs de la richesse », il a quitté une université coréenne avant de partir seul aux États-Unis en 1987. Avec le recul, il estime que ce choix était juste, même s’il n’était pas facile à comprendre à l’époque. L’interview éclaire les critères guidant ses décisions d’investissement et ses grands tournants de vie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كيم سونغ هو باع كل أسهم سامسونغ إلكترونيكس رغم توقع مزيد من الصعود",
-        "excerpt": "تحدث كيم سونغ هو، رئيس Jim Kim Holdings، إلى mk.co.kr عن بيع كل أسهم سامسونغ إلكترونيكس وخياره السفر وحيدا إلى الولايات المتحدة عام 1987.",
-        "body": "في مقابلة مع mk.co.kr، تحدث كيم سونغ هو، رئيس Jim Kim Holdings، عن قراره بيع كامل حيازته في سامسونغ إلكترونيكس رغم علمه بإمكان استمرار ارتفاع السهم. كيم، مؤلف الكتاب الأكثر مبيعا «خصائص الثروة»، ترك جامعة في كوريا ثم سافر وحيدا إلى الولايات المتحدة عام 1987. وبالنظر إلى الماضي، قال إن القرار كان صحيحا في النهاية، رغم أنه لم يكن خيارا يسهل على الآخرين فهمه في ذلك الوقت. وتعرض المقابلة المعايير التي اعتمد عليها في قرارات الاستثمار والتحولات الكبرى في حياته. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सैमसंग इलेक्ट्रॉनिक्स और चढ़ सकता था, फिर भी किम सेउंग-हो ने पूरी हिस्सेदारी बेची",
-        "excerpt": "Jim Kim Holdings के चेयरमैन किम सेउंग-हो ने mk.co.kr से सैमसंग इलेक्ट्रॉनिक्स की पूरी बिक्री और 1987 में अकेले अमेरिका जाने का कारण बताया।",
-        "body": "mk.co.kr को दिए इंटरव्यू में Jim Kim Holdings के चेयरमैन किम सेउंग-हो ने बताया कि सैमसंग इलेक्ट्रॉनिक्स के शेयर में और तेजी की संभावना जानते हुए भी उन्होंने अपनी पूरी हिस्सेदारी बेच दी। बेस्टसेलर “द एट्रिब्यूट्स ऑफ वेल्थ” के लेखक किम ने कोरिया की एक यूनिवर्सिटी छोड़ दी थी और 1987 में अकेले अमेरिका चले गए थे। पीछे मुड़कर देखने पर वे इसे सही फैसला मानते हैं, हालांकि उस समय यह दूसरों के लिए आसानी से समझ आने वाला चुनाव नहीं था। यह इंटरव्यू उनके निवेश निर्णयों और जीवन के बड़े मोड़ों के आधार को दिखाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kim Seung-ho Jual Semua Samsung Electronics Meski Tahu Masih Bisa Naik",
-        "excerpt": "Ketua Jim Kim Holdings Kim Seung-ho mengatakan kepada mk.co.kr soal penjualan seluruh Samsung Electronics dan keputusannya pergi sendiri ke AS pada 1987.",
-        "body": "Dalam wawancara dengan mk.co.kr, Ketua Jim Kim Holdings Kim Seung-ho membahas keputusannya menjual seluruh kepemilikan Samsung Electronics meski mengetahui saham itu masih berpotensi naik. Kim, penulis buku laris “The Attributes of Wealth”, keluar dari sebuah universitas di Korea lalu berangkat sendirian ke Amerika Serikat pada 1987. Jika melihat kembali, ia menilai keputusan itu pada akhirnya benar, meski saat itu tidak mudah dipahami orang lain. Wawancara ini menunjukkan dasar di balik penilaian investasinya dan perubahan besar dalam hidupnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f71a867091c6",
-    "slug": "샤킬-오닐에-1조-안겨준-그-주식ai-반도체-놈놈놈-정체-310554",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T19:04:15.522Z",
-    "updatedAt": "2026-05-07T19:04:15.522Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12039475",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12039475",
-    "titleFingerprint": "8eb6030c9e577ac28925bde4d12ffa4a29c00ae8",
-    "dedupKeys": [
-      "f71a867091c6ca971b2e3359af544995c0464017",
-      "8eb6030c9e577ac28925bde4d12ffa4a29c00ae8",
-      "ba5d3fe797822fef20f2ad3486c49762e15d4a74"
-    ],
-    "imageUrl": "/images/articles/f71a867091c6.png",
-    "i18n": {
-      "ko": {
-        "title": "AI 반도체 투자 키워드, 엔비디아·인텔·구글 ‘놈놈놈’ 구도",
-        "excerpt": "AI 반도체 시장을 둘러싼 투자자 관심이 엔비디아·인텔·구글로 나뉘며, 원문은 영화 ‘좋은 놈, 나쁜 놈, 이상한 놈’에 빗대 각 기업의 위상을 설명했다.",
-        "body": "AI 반도체 시장을 바라보는 투자자들의 시선이 엔비디아, 인텔, 구글로 모이고 있다. 원문은 인공지능 반도체판을 영화 ‘좋은 놈, 나쁜 놈, 이상한 놈’에 비유하며, 제목 순서대로 엔비디아·인텔·구글을 연결했다. 기사 제목은 샤킬 오닐에게 1조원을 안겨준 주식이라는 표현으로 AI 반도체 대표주에 대한 관심을 강조했다. 엔비디아는 AI 투자자들에게 가장 주목받는 기업으로 제시됐고, 인텔과 구글도 같은 시장 구도 안에서 비교 대상으로 언급됐다. AI 반도체 경쟁이 투자 판단의 핵심 테마로 부상한 만큼, 세 기업의 역할과 시장 인식은 향후 투자자 관심을 계속 끌 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI Chip Investing: Nvidia, Intel and Google in a ‘Good, Bad, Weird’ Frame",
-        "excerpt": "Investor attention in the AI semiconductor market is split among Nvidia, Intel and Google, as the source compares them to the film The Good, the Bad, the Weird.",
-        "body": "Investor attention in the AI semiconductor market is focusing on Nvidia, Intel and Google. The original article compares the artificial intelligence chip arena to the film The Good, the Bad, the Weird, linking the companies in that order to Nvidia, Intel and Google. Its headline highlights interest in a leading AI semiconductor stock with the phrase that it brought Shaquille O’Neal 1 trillion won. Nvidia is presented as the company drawing the strongest attention from AI investors, while Intel and Google are mentioned as comparison points within the same market structure. As AI chip competition becomes a central theme for investment decisions, the roles and market perception of these three companies are likely to remain in focus. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI半導体投資の焦点、エヌビディア・インテル・グーグルの構図",
-        "excerpt": "AI半導体市場への投資家の関心がエヌビディア、インテル、グーグルに分かれる中、原文は映画になぞらえて各社の位置づけを説明した。",
-        "body": "AI半導体市場を見る投資家の視線が、エヌビディア、インテル、グーグルに集まっている。原文は人工知能半導体の世界を映画『グッド・バッド・ウィアード』になぞらえ、タイトルの順にエヌビディア、インテル、グーグルを結び付けた。記事の見出しは、シャキール・オニールに1兆ウォンをもたらした株という表現で、AI半導体の代表銘柄への関心を強調している。エヌビディアはAI投資家から最も注目される企業として示され、インテルとグーグルも同じ市場構図の中で比較対象として言及された。AI半導体競争が投資判断の主要テーマとなる中、3社の役割と市場での認識は今後も注目されそうだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI半导体投资焦点：英伟达、英特尔、谷歌的“三人”格局",
-        "excerpt": "围绕AI半导体市场，投资者关注英伟达、英特尔和谷歌；原文借电影《好家伙、坏家伙、怪家伙》说明三家公司的定位。",
-        "body": "投资者对AI半导体市场的目光正集中在英伟达、英特尔和谷歌身上。原文将人工智能半导体领域比作电影《好家伙、坏家伙、怪家伙》，并按片名顺序对应英伟达、英特尔和谷歌。文章标题使用“让沙奎尔·奥尼尔获得1万亿韩元的股票”这一表述，强调市场对AI半导体代表性股票的关注。英伟达被描述为AI投资者最关注的企业，英特尔和谷歌也在同一市场格局中被列为比较对象。随着AI半导体竞争成为投资判断的核心主题，三家公司的角色和市场认知预计仍将受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Chips de IA: Nvidia, Intel y Google en una comparación de mercado clave",
-        "excerpt": "El interés inversor en semiconductores de IA se concentra en Nvidia, Intel y Google, mientras la fuente los compara con la película The Good, the Bad, the Weird.",
-        "body": "La atención de los inversores en el mercado de semiconductores de IA se concentra en Nvidia, Intel y Google. El texto original compara el sector de chips de inteligencia artificial con la película The Good, the Bad, the Weird, vinculando en ese orden a Nvidia, Intel y Google. El titular destaca el interés por una acción representativa de semiconductores de IA con la frase de que le dio a Shaquille O’Neal 1 billón de wones. Nvidia aparece como la empresa que más atrae a los inversores en IA, mientras Intel y Google se mencionan como puntos de comparación dentro del mismo esquema de mercado. A medida que la competencia en chips de IA gana peso en las decisiones de inversión, el papel y la percepción de estas tres compañías seguirán bajo observación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Chips de IA: Nvidia, Intel e Google formam eixo de atenção dos investidores",
-        "excerpt": "O interesse dos investidores em semicondutores de IA se concentra em Nvidia, Intel e Google, enquanto a fonte compara as empresas ao filme The Good, the Bad, the Weird.",
-        "body": "A atenção dos investidores no mercado de semicondutores de IA está voltada para Nvidia, Intel e Google. O texto original compara o setor de chips de inteligência artificial ao filme The Good, the Bad, the Weird, associando, nessa ordem, Nvidia, Intel e Google. O título destaca o interesse por uma ação representativa de semicondutores de IA ao dizer que ela rendeu 1 trilhão de wons a Shaquille O’Neal. A Nvidia é apresentada como a empresa que mais chama a atenção dos investidores em IA, enquanto Intel e Google aparecem como referências de comparação dentro da mesma estrutura de mercado. Com a competição em chips de IA se tornando tema central para decisões de investimento, o papel e a percepção dessas três companhias devem seguir em foco. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI-Chips im Fokus: Nvidia, Intel und Google prägen den Anlegerblick",
-        "excerpt": "Das Interesse der Anleger am KI-Halbleitermarkt richtet sich auf Nvidia, Intel und Google; die Quelle vergleicht die drei mit dem Film The Good, the Bad, the Weird.",
-        "body": "Der Blick der Anleger auf den KI-Halbleitermarkt richtet sich auf Nvidia, Intel und Google. Der Originaltext vergleicht die Welt der Halbleiter für künstliche Intelligenz mit dem Film The Good, the Bad, the Weird und ordnet die Unternehmen in dieser Reihenfolge Nvidia, Intel und Google zu. Die Überschrift betont das Interesse an einer führenden KI-Chip-Aktie mit der Formulierung, sie habe Shaquille O’Neal 1 Billion Won eingebracht. Nvidia wird als das Unternehmen dargestellt, das bei KI-Investoren die größte Aufmerksamkeit erhält, während Intel und Google im selben Marktgefüge als Vergleichspunkte genannt werden. Da der Wettbewerb bei KI-Chips zu einem zentralen Thema für Anlageentscheidungen wird, dürften Rolle und Marktwahrnehmung der drei Unternehmen weiter im Fokus bleiben. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Puces d’IA : Nvidia, Intel et Google au centre de l’attention des investisseurs",
-        "excerpt": "L’intérêt des investisseurs pour les semi-conducteurs d’IA se concentre sur Nvidia, Intel et Google, que la source compare au film The Good, the Bad, the Weird.",
-        "body": "Le regard des investisseurs sur le marché des semi-conducteurs d’IA se porte sur Nvidia, Intel et Google. Le texte original compare l’univers des puces d’intelligence artificielle au film The Good, the Bad, the Weird, en associant dans cet ordre Nvidia, Intel et Google. Le titre souligne l’intérêt pour une action emblématique des semi-conducteurs d’IA en indiquant qu’elle aurait rapporté 1 000 milliards de wons à Shaquille O’Neal. Nvidia est présentée comme l’entreprise qui retient le plus l’attention des investisseurs en IA, tandis qu’Intel et Google sont cités comme points de comparaison dans la même configuration de marché. Alors que la concurrence dans les puces d’IA devient un thème central des décisions d’investissement, le rôle et la perception de ces trois sociétés devraient rester suivis. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رقائق الذكاء الاصطناعي: إنفيديا وإنتل وغوغل في قلب اهتمام المستثمرين",
-        "excerpt": "يتوزع اهتمام المستثمرين في سوق أشباه موصلات الذكاء الاصطناعي بين إنفيديا وإنتل وغوغل، بينما يقارن المصدر الشركات بفيلم The Good, the Bad, the Weird.",
-        "body": "تتركز أنظار المستثمرين في سوق أشباه موصلات الذكاء الاصطناعي على إنفيديا وإنتل وغوغل. ويقارن النص الأصلي ساحة رقائق الذكاء الاصطناعي بفيلم The Good, the Bad, the Weird، رابطا الشركات بهذا الترتيب: إنفيديا ثم إنتل ثم غوغل. ويبرز العنوان الاهتمام بسهم بارز في قطاع رقائق الذكاء الاصطناعي عبر الإشارة إلى أنه منح شاكيل أونيل تريليون وون. وتظهر إنفيديا كالشركة الأكثر جذبا لاهتمام مستثمري الذكاء الاصطناعي، بينما ترد إنتل وغوغل كنقطتي مقارنة داخل هيكل السوق نفسه. ومع تحول منافسة رقائق الذكاء الاصطناعي إلى موضوع رئيسي في قرارات الاستثمار، من المتوقع أن تبقى أدوار هذه الشركات الثلاث وصورتها في السوق محل متابعة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI चिप निवेश में Nvidia, Intel और Google पर बाजार की नजर",
-        "excerpt": "AI सेमीकंडक्टर बाजार में निवेशकों का ध्यान Nvidia, Intel और Google पर है; स्रोत ने इन कंपनियों की तुलना फिल्म The Good, the Bad, the Weird से की है।",
-        "body": "AI सेमीकंडक्टर बाजार को लेकर निवेशकों की नजर Nvidia, Intel और Google पर केंद्रित है। मूल लेख ने कृत्रिम बुद्धिमत्ता चिप क्षेत्र की तुलना फिल्म The Good, the Bad, the Weird से की और इसी क्रम में Nvidia, Intel और Google को जोड़ा। लेख के शीर्षक में उस शेयर का उल्लेख है जिसने Shaquille O’Neal को 1 ट्रिलियन वॉन दिलाए, जिससे AI सेमीकंडक्टर की प्रमुख कंपनियों में रुचि को रेखांकित किया गया। Nvidia को AI निवेशकों के बीच सबसे अधिक ध्यान खींचने वाली कंपनी के रूप में पेश किया गया, जबकि Intel और Google को उसी बाजार संरचना में तुलना के बिंदु के रूप में बताया गया। AI चिप प्रतिस्पर्धा निवेश फैसलों का अहम विषय बन रही है, इसलिए इन तीन कंपनियों की भूमिका और बाजार धारणा पर ध्यान बना रह सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Investasi Chip AI: Nvidia, Intel, dan Google Jadi Sorotan Pasar",
-        "excerpt": "Perhatian investor di pasar semikonduktor AI tertuju pada Nvidia, Intel, dan Google, sementara sumber membandingkannya dengan film The Good, the Bad, the Weird.",
-        "body": "Perhatian investor di pasar semikonduktor AI kini tertuju pada Nvidia, Intel, dan Google. Artikel asli membandingkan arena chip kecerdasan buatan dengan film The Good, the Bad, the Weird, lalu mengaitkannya secara berurutan dengan Nvidia, Intel, dan Google. Judul artikel menyoroti minat pada saham utama semikonduktor AI dengan ungkapan bahwa saham itu memberi Shaquille O’Neal 1 triliun won. Nvidia digambarkan sebagai perusahaan yang paling menarik perhatian investor AI, sementara Intel dan Google disebut sebagai pembanding dalam struktur pasar yang sama. Karena persaingan chip AI menjadi tema penting dalam keputusan investasi, peran dan persepsi pasar terhadap ketiga perusahaan ini diperkirakan tetap menjadi perhatian. Sumber: mk.co.kr"
       }
     }
   }
