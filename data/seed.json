@@ -1,5 +1,230 @@
 [
   {
+    "id": "a67e7c2a0ccb",
+    "slug": "삼전닉스-기술주-차익실현중동-리스크-재점화에-3-안팎-급락-365505",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T02:07:43.276Z",
+    "updatedAt": "2026-05-08T02:07:43.276Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040805",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040805",
+    "titleFingerprint": "6e8cf90ea99db83d0372e25cec35d34ad4cadab4",
+    "dedupKeys": [
+      "a67e7c2a0ccb198a35d6cb865e14af847a16af52",
+      "6e8cf90ea99db83d0372e25cec35d34ad4cadab4",
+      "e2eaf30fc735e029709bc3d7a904a25d6a1b772d"
+    ],
+    "imageUrl": "/images/articles/a67e7c2a0ccb.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 8일 약세, 기술주 차익실현과 중동 리스크 부담",
+        "excerpt": "8일 오전 삼성전자와 SK하이닉스가 연일 상승 뒤 동반 약세를 보였다. 기술주 차익실현과 중동 리스크 재점화가 투자심리에 부담으로 작용했다.",
+        "body": "8일 오전 국내 반도체 대표주인 삼성전자와 SK하이닉스가 나란히 약세를 기록하고 있다. 연일 상승세를 이어오던 두 종목은 기술주 차익실현 움직임과 중동 리스크 재점화가 겹치며 3% 안팎의 하락 압력을 받았다. 이날 오전 9시 15분 현재 삼성전자는 전일 대비 1만원, 3.68% 내린 26만1500원에 거래됐다. SK하이닉스도 같은 시간대 약세를 보이며 투자심리가 둔화된 흐름을 나타냈다. 최근 상승에 따른 부담이 커진 가운데 지정학적 불확실성이 다시 부각되면서 반도체주 전반의 단기 변동성에 관심이 쏠린다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics, SK Hynix Weaken on Profit-Taking and Middle East Risk",
+        "excerpt": "Samsung Electronics and SK Hynix fell together on the morning of May 8 after recent gains, pressured by tech profit-taking and renewed Middle East risk.",
+        "body": "Samsung Electronics and SK Hynix, South Korea’s leading semiconductor stocks, traded lower on the morning of May 8. After extending a recent rally, both shares came under roughly 3% pressure as investors took profits in technology stocks and Middle East risks resurfaced. As of 9:15 a.m., Samsung Electronics was trading at 261,500 won, down 10,000 won, or 3.68%, from the previous session. SK Hynix also weakened around the same time, pointing to softer investor sentiment. With recent gains adding valuation pressure and geopolitical uncertainty returning to focus, attention is turning to short-term volatility across chip stocks. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスが8日軟調、利食いと中東リスクが重荷",
+        "excerpt": "8日午前、サムスン電子とSKハイニックスは連日の上昇後にそろって下落。ハイテク株の利益確定と中東リスク再燃が投資心理を圧迫した。",
+        "body": "8日午前、韓国の主要半導体株であるサムスン電子とSKハイニックスがそろって軟調に推移している。連日上昇してきた両銘柄は、ハイテク株の利益確定売りに加え、中東リスクの再燃が重なり、3%前後の下落圧力を受けた。同日午前9時15分現在、サムスン電子は前日比1万ウォン、3.68%安の26万1500ウォンで取引された。SKハイニックスも同じ時間帯に弱含み、投資心理の鈍化を示した。最近の上昇による負担が意識されるなか、地政学的不確実性が再び浮上し、半導体株全般の短期的な変動性に関心が集まっている。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子、SK海力士8日走弱，科技股获利了结与中东风险施压",
+        "excerpt": "5月8日上午，三星电子和SK海力士在连续上涨后双双走弱。科技股获利了结和中东风险再度升温拖累投资情绪。",
+        "body": "5月8日上午，韩国代表性半导体股三星电子和SK海力士双双走弱。此前连续上涨的两只股票，受到科技股获利了结以及中东风险再度升温的共同影响，承受约3%的下跌压力。当天上午9时15分，三星电子报261500韩元，较前一交易日下跌10000韩元，跌幅为3.68%。SK海力士也在同一时段表现疲弱，显示投资情绪有所降温。在近期上涨带来压力的同时，地缘政治不确定性重新受到关注，市场正关注半导体股整体的短期波动。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix caen por toma de ganancias y riesgo en Oriente Medio",
+        "excerpt": "El 8 de mayo por la mañana, Samsung Electronics y SK Hynix bajaron tras varios días de avances, presionadas por tomas de ganancias tecnológicas y riesgo en Oriente Medio.",
+        "body": "Samsung Electronics y SK Hynix, dos valores clave de semiconductores de Corea del Sur, cotizaban a la baja en la mañana del 8 de mayo. Tras una racha de subidas, ambas acciones sufrieron presión cercana al 3% por la toma de ganancias en el sector tecnológico y la reactivación de riesgos en Oriente Medio. A las 9:15 a.m., Samsung Electronics se negociaba a 261.500 wones, con una caída de 10.000 wones, o 3,68%, frente a la sesión anterior. SK Hynix también mostraba debilidad a esa misma hora, reflejando un menor apetito inversor. Con el peso de las recientes alzas y el regreso de la incertidumbre geopolítica, aumenta la atención sobre la volatilidad a corto plazo de los valores de chips. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix recuam com realização de lucros e risco no Oriente Médio",
+        "excerpt": "Na manhã de 8 de maio, Samsung Electronics e SK Hynix caíram após altas recentes, pressionadas por realização de lucros em tecnologia e risco no Oriente Médio.",
+        "body": "Samsung Electronics e SK Hynix, principais ações de semicondutores da Coreia do Sul, operavam em queda na manhã de 8 de maio. Depois de uma sequência de altas, os dois papéis enfrentaram pressão de cerca de 3% com a realização de lucros em ações de tecnologia e a retomada de riscos no Oriente Médio. Às 9h15, Samsung Electronics era negociada a 261.500 won, queda de 10.000 won, ou 3,68%, em relação ao pregão anterior. A SK Hynix também mostrava fraqueza no mesmo horário, indicando piora no sentimento dos investidores. Com o peso das altas recentes e a volta da incerteza geopolítica, cresce a atenção à volatilidade de curto prazo no setor de chips. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix schwächer: Gewinnmitnahmen und Nahost-Risiko belasten",
+        "excerpt": "Am Morgen des 8. Mai gaben Samsung Electronics und SK Hynix nach jüngsten Kursgewinnen nach. Gewinnmitnahmen bei Technologiewerten und neue Nahost-Risiken belasteten.",
+        "body": "Samsung Electronics und SK Hynix, führende südkoreanische Halbleiterwerte, notierten am Morgen des 8. Mai schwächer. Nach einer Reihe von Kursgewinnen gerieten beide Aktien um rund 3% unter Druck, da Anleger bei Technologiewerten Gewinne mitnahmen und Risiken im Nahen Osten wieder in den Fokus rückten. Um 9:15 Uhr wurde Samsung Electronics bei 261.500 Won gehandelt, 10.000 Won oder 3,68% unter dem Vortag. Auch SK Hynix zeigte zur gleichen Zeit Schwäche, was auf eine gedämpfte Anlegerstimmung hindeutete. Angesichts der Belastung durch die jüngsten Anstiege und erneuter geopolitischer Unsicherheit richtet sich der Blick auf die kurzfristige Volatilität der Chipwerte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix reculent, prises de bénéfices et risque au Moyen-Orient pèsent",
+        "excerpt": "Le matin du 8 mai, Samsung Electronics et SK Hynix ont reculé après plusieurs séances de hausse, pénalisés par les prises de bénéfices technologiques et le risque au Moyen-Orient.",
+        "body": "Samsung Electronics et SK Hynix, deux grandes valeurs sud-coréennes des semi-conducteurs, évoluaient en baisse dans la matinée du 8 mai. Après plusieurs jours de progression, les deux titres ont subi une pression d’environ 3%, sur fond de prises de bénéfices dans la technologie et de regain des risques au Moyen-Orient. À 9h15, Samsung Electronics se traitait à 261 500 wons, en baisse de 10 000 wons, soit 3,68%, par rapport à la séance précédente. SK Hynix affichait également une faiblesse au même moment, signe d’un sentiment d’investissement plus prudent. Avec le poids des hausses récentes et le retour de l’incertitude géopolitique, l’attention se porte sur la volatilité de court terme des valeurs des puces. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس وSK هاينكس تتراجعان بفعل جني الأرباح ومخاطر الشرق الأوسط",
+        "excerpt": "في صباح 8 مايو، تراجعت سامسونغ إلكترونيكس وSK هاينكس بعد مكاسب متتالية، مع ضغط جني الأرباح في أسهم التكنولوجيا وعودة مخاطر الشرق الأوسط.",
+        "body": "تراجعت أسهم سامسونغ إلكترونيكس وSK هاينكس، وهما من أبرز أسهم أشباه الموصلات في كوريا الجنوبية، في تعاملات صباح 8 مايو. وبعد مكاسب متتالية، تعرض السهمان لضغط هبوطي في حدود 3% مع تحركات جني الأرباح في أسهم التكنولوجيا وعودة مخاطر الشرق الأوسط إلى الواجهة. وحتى الساعة 9:15 صباحا، جرى تداول سهم سامسونغ إلكترونيكس عند 261500 وون، منخفضا 10000 وون أو 3.68% عن الجلسة السابقة. كما أظهر سهم SK هاينكس ضعفا في الفترة نفسها، ما عكس فتورا في معنويات المستثمرين. ومع تزايد عبء الصعود الأخير وعودة عدم اليقين الجيوسياسي، يتجه الاهتمام إلى تقلبات أسهم الرقائق على المدى القصير. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix कमजोर, मुनाफावसूली और मध्य पूर्व जोखिम का दबाव",
+        "excerpt": "8 मई की सुबह Samsung Electronics और SK Hynix हालिया तेजी के बाद साथ-साथ कमजोर पड़े। टेक शेयरों में मुनाफावसूली और मध्य पूर्व जोखिम ने निवेश भावना पर दबाव डाला।",
+        "body": "दक्षिण कोरिया के प्रमुख सेमीकंडक्टर शेयर Samsung Electronics और SK Hynix 8 मई की सुबह कमजोर कारोबार कर रहे थे। लगातार तेजी के बाद दोनों शेयरों पर टेक शेयरों में मुनाफावसूली और मध्य पूर्व जोखिम के फिर उभरने से करीब 3% का दबाव दिखा। सुबह 9:15 बजे Samsung Electronics पिछले सत्र से 10,000 वॉन, यानी 3.68%, गिरकर 261,500 वॉन पर कारोबार कर रहा था। इसी समय SK Hynix भी कमजोर रहा, जिससे निवेशकों की भावना में नरमी का संकेत मिला। हालिया तेजी से बढ़े बोझ और भू-राजनीतिक अनिश्चितता के फिर सामने आने के बीच चिप शेयरों की अल्पकालिक अस्थिरता पर बाजार की नजर है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics dan SK Hynix melemah, aksi ambil untung dan risiko Timur Tengah menekan",
+        "excerpt": "Pada pagi 8 Mei, Samsung Electronics dan SK Hynix kompak melemah setelah reli beruntun, tertekan aksi ambil untung saham teknologi dan risiko Timur Tengah.",
+        "body": "Samsung Electronics dan SK Hynix, saham semikonduktor utama Korea Selatan, bergerak melemah pada pagi 8 Mei. Setelah mencatat kenaikan beruntun, kedua saham mendapat tekanan turun sekitar 3% karena aksi ambil untung pada saham teknologi dan kembali mencuatnya risiko Timur Tengah. Pada pukul 09.15, Samsung Electronics diperdagangkan di 261.500 won, turun 10.000 won atau 3,68% dari sesi sebelumnya. SK Hynix juga melemah pada periode yang sama, menunjukkan sentimen investor yang lebih lesu. Dengan beban dari kenaikan terbaru dan kembalinya ketidakpastian geopolitik, perhatian tertuju pada volatilitas jangka pendek saham chip secara umum. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "fc40c00cf392",
+    "slug": "쿠팡-2대주주-영국-자산운용사-지분-8천억-탈팡-873079",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T02:06:36.546Z",
+    "updatedAt": "2026-05-08T02:06:36.546Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040890",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040890",
+    "titleFingerprint": "66dd429ac8565cfce092d53197d0e2c0a00651ee",
+    "dedupKeys": [
+      "fc40c00cf392fbf89c8f6626e21147d00509d39a",
+      "66dd429ac8565cfce092d53197d0e2c0a00651ee",
+      "e96b0314253b88e54bc80aaf7d000ed5ebcee6e5"
+    ],
+    "imageUrl": "/images/articles/fc40c00cf392.png",
+    "i18n": {
+      "ko": {
+        "title": "쿠팡 2대주주 베일리기포드, 반년 새 지분 7.2%로 축소",
+        "excerpt": "쿠팡 2대주주인 영국 자산운용사 베일리기포드가 반년 사이 쿠팡 지분을 9%에서 7.2%로 낮추며 약 8000억원 규모의 보유 지분을 줄인 것으로 전해졌다.",
+        "body": "쿠팡 2대주주인 영국 자산운용사 베일리기포드가 반년 사이 쿠팡 보유 지분을 9%에서 7.2%로 낮춘 것으로 전해졌다. 매각 규모는 약 8000억원으로 알려졌다. 베일리기포드는 약 400조원을 운용하는 대형 자산운용사로, 앞서 쿠팡 기업가치에 변화가 없다는 입장을 보였지만 개인정보 유출 사태 이후 보유 지분을 빠르게 줄인 점이 주목된다. 쿠팡의 주요 주주 지분 변화가 향후 투자심리와 기업가치 평가에 어떤 영향을 줄지 시장의 관심이 이어질 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Coupang No. 2 shareholder Baillie Gifford cuts stake to 7.2%",
+        "excerpt": "UK asset manager Baillie Gifford, Coupang’s second-largest shareholder, reportedly reduced its stake from 9% to 7.2% in six months, trimming holdings worth about 800 billion won.",
+        "body": "UK asset manager Baillie Gifford, Coupang’s second-largest shareholder, reportedly lowered its Coupang stake from 9% to 7.2% over six months. The reduced holdings are said to be worth about 800 billion won. Baillie Gifford is a major asset manager overseeing roughly 400 trillion won. It had previously expressed confidence that Coupang’s corporate value had not changed, but attention is focused on its swift sale of shares following the personal data leak incident. The market is expected to keep watching how the change in a key shareholder’s stake may affect investor sentiment and valuation views on Coupang. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クーパン第2株主ベイリー・ギフォード、持ち分を7.2%に縮小",
+        "excerpt": "クーパン第2株主の英資産運用会社ベイリー・ギフォードが、半年で持ち分を9%から7.2%へ引き下げ、約8000億ウォン規模の保有株を減らしたと伝えられた。",
+        "body": "クーパン第2株主である英資産運用会社ベイリー・ギフォードが、半年の間にクーパン株の保有比率を9%から7.2%へ引き下げたと伝えられた。売却規模は約8000億ウォンとされる。ベイリー・ギフォードは約400兆ウォンを運用する大手資産運用会社で、以前はクーパンの企業価値に変化はないとの立場を示していた。しかし個人情報流出問題の後、保有株を素早く減らした点が注目されている。主要株主の持ち分変化が今後の投資心理や企業価値評価にどう影響するか、市場の関心が続く見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Coupang第二大股东Baillie Gifford持股降至7.2%",
+        "excerpt": "据报道，Coupang第二大股东、英国资产管理公司Baillie Gifford在半年内将持股从9%降至7.2%，减持规模约8000亿韩元。",
+        "body": "据报道，Coupang第二大股东、英国资产管理公司Baillie Gifford在半年内将其Coupang持股比例从9%降至7.2%。此次减持规模约为8000亿韩元。Baillie Gifford是一家管理约400万亿韩元资产的大型资产管理公司，此前曾表示Coupang企业价值没有变化，但在个人信息泄露事件后迅速减少持股，引发关注。市场预计将继续关注主要股东持股变化会如何影响投资情绪以及对Coupang企业价值的评估。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baillie Gifford, segundo accionista de Coupang, baja su participación al 7,2%",
+        "excerpt": "Baillie Gifford, gestora británica y segundo mayor accionista de Coupang, habría reducido su participación del 9% al 7,2% en seis meses, por unos 800.000 millones de wones.",
+        "body": "Baillie Gifford, gestora británica de activos y segundo mayor accionista de Coupang, habría reducido su participación en la compañía del 9% al 7,2% en seis meses. El volumen vendido se estima en unos 800.000 millones de wones. La firma administra alrededor de 400 billones de wones y antes había expresado confianza en que el valor corporativo de Coupang no había cambiado. Sin embargo, llama la atención que haya recortado rápidamente su posición tras el incidente de filtración de datos personales. El mercado seguirá observando cómo este cambio entre los principales accionistas puede influir en el ánimo inversor y en la valoración de Coupang. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Baillie Gifford, 2ª maior acionista da Coupang, reduz fatia para 7,2%",
+        "excerpt": "A gestora britânica Baillie Gifford, segunda maior acionista da Coupang, teria reduzido sua participação de 9% para 7,2% em seis meses, em cerca de 800 bilhões de wones.",
+        "body": "A gestora britânica Baillie Gifford, segunda maior acionista da Coupang, teria reduzido sua participação na empresa de 9% para 7,2% em seis meses. O volume vendido é estimado em cerca de 800 bilhões de wones. A Baillie Gifford administra aproximadamente 400 trilhões de wones e havia afirmado anteriormente que não via mudança no valor corporativo da Coupang. Ainda assim, chama atenção a redução rápida da posição após o incidente de vazamento de dados pessoais. O mercado deve continuar acompanhando como a mudança na participação de um acionista relevante pode afetar o sentimento dos investidores e a avaliação da Coupang. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Coupang-Zweitaktionär Baillie Gifford senkt Anteil auf 7,2%",
+        "excerpt": "Der britische Vermögensverwalter Baillie Gifford, zweitgrößter Coupang-Aktionär, soll seinen Anteil binnen sechs Monaten von 9% auf 7,2% reduziert haben, um rund 800 Mrd. Won.",
+        "body": "Der britische Vermögensverwalter Baillie Gifford, der zweitgrößte Aktionär von Coupang, soll seinen Anteil an Coupang innerhalb von sechs Monaten von 9% auf 7,2% gesenkt haben. Das Volumen der reduzierten Beteiligung wird auf rund 800 Mrd. Won geschätzt. Baillie Gifford verwaltet etwa 400 Bio. Won und hatte zuvor erklärt, dass sich am Unternehmenswert von Coupang nichts geändert habe. Aufmerksamkeit erregt jedoch, dass die Beteiligung nach dem Vorfall um den Abfluss personenbezogener Daten rasch verringert wurde. Der Markt dürfte weiter verfolgen, wie sich die Veränderung bei einem wichtigen Aktionär auf Anlegerstimmung und Bewertung von Coupang auswirkt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Baillie Gifford, 2e actionnaire de Coupang, réduit sa part à 7,2%",
+        "excerpt": "Baillie Gifford, gestionnaire d’actifs britannique et deuxième actionnaire de Coupang, aurait ramené sa participation de 9% à 7,2% en six mois, soit environ 800 milliards de wons.",
+        "body": "Baillie Gifford, gestionnaire d’actifs britannique et deuxième actionnaire de Coupang, aurait réduit sa participation dans Coupang de 9% à 7,2% en six mois. Le montant des titres cédés est estimé à environ 800 milliards de wons. La société gère près de 400 billions de wons et avait auparavant affirmé que la valeur d’entreprise de Coupang n’avait pas changé. Toutefois, la réduction rapide de sa position après l’incident de fuite de données personnelles attire l’attention. Le marché devrait continuer à suivre l’effet de cette évolution chez un actionnaire majeur sur le sentiment des investisseurs et l’évaluation de Coupang. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "Baillie Gifford ثاني أكبر مساهم في Coupang يخفض حصته إلى 7.2%",
+        "excerpt": "خفضت شركة إدارة الأصول البريطانية Baillie Gifford، ثاني أكبر مساهم في Coupang، حصتها من 9% إلى 7.2% خلال نصف عام، بما يقارب 800 مليار وون.",
+        "body": "أفادت تقارير بأن شركة إدارة الأصول البريطانية Baillie Gifford، ثاني أكبر مساهم في Coupang، خفضت حصتها في الشركة من 9% إلى 7.2% خلال نصف عام. وتقدر قيمة الحصة التي جرى تقليصها بنحو 800 مليار وون. وتدير Baillie Gifford أصولا تقارب 400 تريليون وون، وكانت قد أكدت سابقا أن قيمة Coupang المؤسسية لم تتغير. لكن تقليص الحيازة بسرعة بعد حادثة تسرب البيانات الشخصية لفت الانتباه. ومن المتوقع أن يواصل السوق متابعة أثر تغير حصة مساهم رئيسي على معنويات المستثمرين وتقييم Coupang. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Coupang के दूसरे बड़े शेयरधारक Baillie Gifford ने हिस्सेदारी 7.2% की",
+        "excerpt": "ब्रिटिश एसेट मैनेजर और Coupang के दूसरे सबसे बड़े शेयरधारक Baillie Gifford ने छह महीनों में हिस्सेदारी 9% से घटाकर 7.2% कर दी, जिसकी कीमत करीब 800 अरब वॉन बताई गई।",
+        "body": "Coupang के दूसरे सबसे बड़े शेयरधारक ब्रिटिश एसेट मैनेजर Baillie Gifford ने छह महीनों में Coupang में अपनी हिस्सेदारी 9% से घटाकर 7.2% कर दी है। बेची गई हिस्सेदारी का आकार करीब 800 अरब वॉन बताया गया है। Baillie Gifford लगभग 400 ट्रिलियन वॉन की संपत्ति का प्रबंधन करती है और पहले उसने कहा था कि Coupang के कॉरपोरेट मूल्य में कोई बदलाव नहीं है। फिर भी व्यक्तिगत डेटा लीक घटना के बाद हिस्सेदारी तेजी से घटाने पर ध्यान गया है। बाजार अब देखेगा कि प्रमुख शेयरधारक की हिस्सेदारी में बदलाव निवेशक धारणा और Coupang के मूल्यांकन को कैसे प्रभावित करता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Baillie Gifford, pemegang saham No. 2 Coupang, turunkan kepemilikan ke 7,2%",
+        "excerpt": "Manajer aset Inggris Baillie Gifford, pemegang saham terbesar kedua Coupang, dilaporkan memangkas kepemilikan dari 9% menjadi 7,2% dalam enam bulan, sekitar 800 miliar won.",
+        "body": "Manajer aset Inggris Baillie Gifford, pemegang saham terbesar kedua Coupang, dilaporkan menurunkan kepemilikannya di Coupang dari 9% menjadi 7,2% dalam enam bulan. Nilai saham yang dikurangi disebut sekitar 800 miliar won. Baillie Gifford mengelola aset sekitar 400 triliun won dan sebelumnya menyatakan bahwa nilai perusahaan Coupang tidak berubah. Namun, langkah cepat mengurangi kepemilikan setelah insiden kebocoran data pribadi menjadi sorotan. Pasar diperkirakan terus memantau bagaimana perubahan kepemilikan pemegang saham utama ini memengaruhi sentimen investor dan penilaian terhadap Coupang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7d94dae66b53",
+    "slug": "숨고르기-나선-주가는-매수기회두산에너빌삼전닉스에-매수-몰려-주식-초고수는-지금-925556",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T02:05:38.027Z",
+    "updatedAt": "2026-05-08T02:05:38.027Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12040892",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12040892",
+    "titleFingerprint": "4de4ed4cd2cb57a678ca04c9976ba476354358be",
+    "dedupKeys": [
+      "7d94dae66b53b09ad148e1e9cb63d2eba52896b1",
+      "4de4ed4cd2cb57a678ca04c9976ba476354358be",
+      "9384547cb2ed2986ff308b36c7e7da65bcc817e0"
+    ],
+    "imageUrl": "/images/articles/7d94dae66b53.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 담은 주식 초고수, 두산에너빌리티에도 매수 집중",
+        "excerpt": "8일 오전 9시30분 기준 상위 1% 주식 초고수 투자자들은 숨고르기 장세 속 삼성전자, SK하이닉스, 두산에너빌리티 등 주요 종목을 매수했다.",
+        "body": "8일 오전 9시30분 주식 초고수 매매 동향에 따르면 상위 1% 투자자들은 삼성전자와 SK하이닉스 등 대표 반도체 우량주를 담았다. 주가가 숨고르기에 들어간 상황을 매수 기회로 본 흐름이다. 매수세는 두산에너빌리티에도 몰렸고, 올릭스, 현대차, 포스코 등도 주요 매수 종목으로 거론됐다. 반도체 대형주와 함께 에너지, 바이오, 자동차, 철강 관련 종목이 함께 이름을 올리며 초고수 투자자들의 관심이 업종 전반으로 분산된 모습이다. 해당 동향은 8일 장 초반 기준 매매 흐름을 보여주는 자료로, 이후 시장 변동에 따라 순위와 수급은 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Top Stock Traders Buy Samsung Electronics, SK Hynix and Doosan Enerbility",
+        "excerpt": "As of 9:30 a.m. on May 8, the top 1% of stock traders bought Samsung Electronics, SK Hynix, Doosan Enerbility and other major names during a pause in share prices.",
+        "body": "According to trading trends among top stock investors at 9:30 a.m. on May 8, the top 1% bought leading semiconductor blue chips such as Samsung Electronics and SK Hynix. The flow suggests they viewed the market’s pause as a buying opportunity. Buying interest also concentrated in Doosan Enerbility, while Olix, Hyundai Motor and Posco were also cited among key purchase names. Alongside large semiconductor stocks, energy, biotech, auto and steel-related shares appeared on the list, showing that elite investors’ attention was spread across sectors. The data reflects early-session trading on May 8, and rankings and fund flows may change as the market moves. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "株式上級者、サムスン電子・SKハイニックス・斗山エナビリティを買い",
+        "excerpt": "8日午前9時30分時点で、上位1%の株式上級投資家は株価の一服局面でサムスン電子、SKハイニックス、斗山エナビリティなどを買った。",
+        "body": "8日午前9時30分の株式上級者の売買動向によると、上位1%の投資家はサムスン電子とSKハイニックスなど代表的な半導体優良株を買い入れた。株価が一服する局面を買い機会と見た流れだ。買いは斗山エナビリティにも集中し、オリックス、現代自動車、ポスコなども主要な買い銘柄として挙げられた。半導体大型株に加え、エネルギー、バイオ、自動車、鉄鋼関連銘柄も名を連ね、上級投資家の関心が業種全般に分散した形だ。この動向は8日の取引序盤を基準にした売買の流れであり、その後の市場変動により順位や需給は変わる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "顶级股票投资者买入三星电子、SK海力士与斗山能源",
+        "excerpt": "截至8日上午9点30分，前1%股票高手在股价休整行情中买入三星电子、SK海力士、斗山能源等主要个股。",
+        "body": "据8日上午9点30分股票高手交易动向显示，排名前1%的投资者买入了三星电子和SK海力士等代表性半导体蓝筹股。这一资金流向显示，他们将股价休整视为买入机会。买盘也集中流向斗山能源，Olix、现代汽车、POSCO等也被列为主要买入个股。除大型半导体股外，能源、生物、汽车和钢铁相关股票也同时上榜，显示高手投资者的关注分布在多个行业。该动向反映的是8日早盘交易情况，之后随着市场波动，排名和资金供需可能发生变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversores expertos compran Samsung Electronics, SK Hynix y Doosan Enerbility",
+        "excerpt": "A las 9:30 del 8 de mayo, el 1% superior de inversores compró Samsung Electronics, SK Hynix, Doosan Enerbility y otros valores en una pausa del mercado.",
+        "body": "Según las tendencias de negociación de inversores expertos a las 9:30 del 8 de mayo, el 1% superior compró grandes valores de semiconductores como Samsung Electronics y SK Hynix. El movimiento muestra que vieron la pausa de las acciones como una oportunidad de compra. El interés comprador también se concentró en Doosan Enerbility, mientras que Olix, Hyundai Motor y Posco fueron mencionadas entre las principales compras. Junto con las grandes tecnológicas de chips, aparecieron acciones vinculadas a energía, biotecnología, automóviles y acero, lo que indica una atención repartida entre sectores. Los datos reflejan el inicio de la sesión del 8 de mayo, por lo que las posiciones y los flujos pueden variar con el mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Superinvestidores compram Samsung Electronics, SK Hynix e Doosan Enerbility",
+        "excerpt": "Às 9h30 de 8 de maio, o 1% superior dos investidores comprou Samsung Electronics, SK Hynix, Doosan Enerbility e outros papéis em meio à pausa das ações.",
+        "body": "Segundo as tendências de negociação dos investidores mais experientes às 9h30 de 8 de maio, o 1% superior comprou blue chips de semicondutores como Samsung Electronics e SK Hynix. O movimento indica que eles viram a pausa nos preços das ações como uma oportunidade de compra. As compras também se concentraram em Doosan Enerbility, enquanto Olix, Hyundai Motor e Posco foram citadas entre os principais papéis comprados. Além das grandes ações de semicondutores, nomes ligados a energia, biotecnologia, automóveis e aço também apareceram, mostrando atenção distribuída entre setores. Os dados refletem o início do pregão de 8 de maio, e rankings e fluxos podem mudar conforme o mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Top-Anleger kaufen Samsung Electronics, SK Hynix und Doosan Enerbility",
+        "excerpt": "Am 8. Mai um 9:30 Uhr kauften die obersten 1% der Aktienanleger Samsung Electronics, SK Hynix, Doosan Enerbility und weitere Titel in einer Marktpause.",
+        "body": "Laut den Handelsdaten erfahrener Aktienanleger vom 8. Mai um 9:30 Uhr kauften die obersten 1% führende Halbleiter-Blue-Chips wie Samsung Electronics und SK Hynix. Der Verlauf deutet darauf hin, dass sie die Atempause der Kurse als Kaufchance sahen. Auch Doosan Enerbility verzeichnete gebündeltes Kaufinteresse; Olix, Hyundai Motor und Posco wurden ebenfalls als wichtige Kaufwerte genannt. Neben großen Halbleiteraktien standen damit auch Titel aus Energie, Biotech, Auto und Stahl auf der Liste, was auf eine breitere sektorale Aufmerksamkeit hinweist. Die Daten zeigen den Handel zu Beginn der Sitzung am 8. Mai; Rangfolgen und Kapitalflüsse können sich mit dem Markt verändern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les meilleurs investisseurs achètent Samsung Electronics, SK Hynix et Doosan Enerbility",
+        "excerpt": "À 9h30 le 8 mai, le top 1% des investisseurs a acheté Samsung Electronics, SK Hynix, Doosan Enerbility et d’autres valeurs pendant une pause du marché.",
+        "body": "Selon les tendances de transaction des investisseurs les plus aguerris à 9h30 le 8 mai, le top 1% a acheté des grandes valeurs de semi-conducteurs comme Samsung Electronics et SK Hynix. Ce mouvement montre qu’ils ont considéré la pause des cours comme une occasion d’achat. Les achats se sont aussi concentrés sur Doosan Enerbility, tandis qu’Olix, Hyundai Motor et Posco figuraient parmi les principales valeurs achetées. Aux côtés des grands titres des semi-conducteurs, des actions liées à l’énergie, à la biotechnologie, à l’automobile et à l’acier sont apparues, signe d’un intérêt réparti entre secteurs. Ces données reflètent le début de séance du 8 mai; les classements et flux peuvent évoluer avec le marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كبار متداولي الأسهم يشترون سامسونغ إلكترونيكس وSK هاينكس ودوسان إنربيليتي",
+        "excerpt": "في الساعة 9:30 صباحا يوم 8 مايو، اشترى أعلى 1% من متداولي الأسهم سامسونغ إلكترونيكس وSK هاينكس ودوسان إنربيليتي وسط تهدئة في الأسعار.",
+        "body": "وفقا لاتجاهات تداول كبار مستثمري الأسهم عند الساعة 9:30 صباحا في 8 مايو، اشترى أعلى 1% من المستثمرين أسهم رقائق كبرى مثل سامسونغ إلكترونيكس وSK هاينكس. ويظهر هذا التدفق أنهم نظروا إلى تهدئة أسعار الأسهم باعتبارها فرصة شراء. كما تركزت عمليات الشراء على دوسان إنربيليتي، وذكرت أوليكس وهيونداي موتور وبوسكو ضمن أبرز الأسهم المشتراة. وإلى جانب أسهم أشباه الموصلات الكبيرة، ظهرت أسهم مرتبطة بالطاقة والتكنولوجيا الحيوية والسيارات والصلب، ما يشير إلى توزع اهتمام المستثمرين المحترفين على قطاعات عدة. تعكس البيانات تداولات بداية جلسة 8 مايو، وقد تتغير الترتيبات والتدفقات مع تحرك السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शीर्ष निवेशकों ने Samsung Electronics, SK Hynix और Doosan Enerbility खरीदे",
+        "excerpt": "8 मई सुबह 9:30 बजे तक शीर्ष 1% शेयर निवेशकों ने कीमतों में ठहराव के बीच Samsung Electronics, SK Hynix, Doosan Enerbility और अन्य प्रमुख शेयर खरीदे।",
+        "body": "8 मई सुबह 9:30 बजे के शेयर बाजार के कुशल निवेशकों के ट्रेडिंग रुझान के अनुसार, शीर्ष 1% निवेशकों ने Samsung Electronics और SK Hynix जैसे प्रमुख सेमीकंडक्टर ब्लू-चिप शेयर खरीदे। यह रुझान बताता है कि उन्होंने शेयर कीमतों में ठहराव को खरीदारी के अवसर के रूप में देखा। खरीदारी Doosan Enerbility में भी केंद्रित रही, जबकि Olix, Hyundai Motor और Posco को भी प्रमुख खरीदे गए शेयरों में गिना गया। बड़े सेमीकंडक्टर शेयरों के साथ ऊर्जा, बायोटेक, ऑटो और स्टील से जुड़े शेयर भी सूची में दिखे, जिससे शीर्ष निवेशकों की रुचि कई क्षेत्रों में फैली नजर आई। यह डेटा 8 मई के शुरुआती कारोबार को दर्शाता है, और बाजार बदलने पर रैंकिंग व फंड प्रवाह बदल सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investor Saham Teratas Beli Samsung Electronics, SK Hynix dan Doosan Enerbility",
+        "excerpt": "Pada 8 Mei pukul 09.30, 1% investor saham teratas membeli Samsung Electronics, SK Hynix, Doosan Enerbility dan saham utama lain saat harga jeda.",
+        "body": "Menurut tren transaksi investor saham paling mahir pada 8 Mei pukul 09.30, kelompok 1% teratas membeli saham blue chip semikonduktor seperti Samsung Electronics dan SK Hynix. Arus ini menunjukkan mereka melihat jeda harga saham sebagai peluang beli. Minat beli juga terkonsentrasi pada Doosan Enerbility, sementara Olix, Hyundai Motor dan Posco turut disebut sebagai saham utama yang dibeli. Selain saham besar semikonduktor, saham terkait energi, bioteknologi, otomotif dan baja juga masuk daftar, memperlihatkan perhatian investor teratas yang tersebar lintas sektor. Data ini mencerminkan perdagangan awal pada 8 Mei, sehingga peringkat dan arus dana dapat berubah mengikuti pergerakan pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "15e6f7f8043e",
     "slug": "불장-코스피-7000시대-열었지만포모에-급증하는-빚투-경고음-865774",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Listing Rumah Seoul Makin Menyusut, Pembeli Perlu Cermati Gangseo, Yongin dan Seongnam",
         "excerpt": "Sejak awal tahun, tekanan pemerintah terhadap pemilik banyak rumah dan pemilik satu rumah nonpenghuni membuat listing hunian Seoul yang menumpuk mulai terserap.",
         "body": "Sejak awal tahun ini, pemerintah terus menekan pemilik banyak rumah dan pemilik satu rumah yang tidak menempatinya untuk menjual, sehingga listing di pasar hunian Seoul mulai terserap satu per satu. Menurut perusahaan data properti Asil, pada 1 Januari tahun ini terdapat 57.001 listing jual di Seoul. Laporan asli menyoroti tren berkurangnya listing yang sempat menumpuk dan menyebut pembeli untuk kebutuhan tinggal perlu mencermati Gangseo, Yongin, dan Seongnam. Penurunan listing berarti pilihan unit semakin terbatas, sehingga perbandingan harga dan lokasi menurut wilayah menjadi lebih penting bagi pembeli rumah untuk dihuni. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "32781b009c70",
-    "slug": "정비사업은-상품성속도가-핵심-용산성수-등-한강변-주목-753903",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T13:44:22.604Z",
-    "updatedAt": "2026-05-07T13:44:22.604Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039417",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039417",
-    "titleFingerprint": "c4b5ee2df7eb9df0a38aa5e617df36fea84a2ce9",
-    "dedupKeys": [
-      "32781b009c70aa1a1ba6bdc5d2588a4c73e1b3a9",
-      "c4b5ee2df7eb9df0a38aa5e617df36fea84a2ce9",
-      "b7a3dd67ae0352c3e94b60f2a802bf34211faccf"
-    ],
-    "imageUrl": "/images/articles/32781b009c70.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한강변 재건축·재개발 주목, 박합수 “정비사업은 상품성·속도 핵심”",
-        "excerpt": "7일 서울 강남구 코엑스에서 개막한 2026 서울머니쇼에서 박합수 건국대 부동산대학원 겸임교수가 한강변 재건축·재개발 가치와 정비사업 핵심 조건을 짚었다.",
-        "body": "7일 서울 강남구 코엑스에서 개막한 ‘2026 서울머니쇼’에서 박합수 건국대 부동산대학원 겸임교수는 재건축·재개발을 통한 내 집 마련과 한강변 정비사업의 가치에 대해 설명했다. 그는 “재건축·재개발로 한강변의 가치가 부각될 것”이라고 밝혔다. 특히 정비사업에서는 상품성과 속도가 핵심이라고 짚으며 용산·성수 등 한강변 지역이 주목받을 수 있다고 언급했다. 이번 발언은 서울 주요 입지에서 재건축·재개발이 주거 선택과 시장 관심에 어떤 영향을 줄지 보여주는 내용이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Han River Redevelopment Draws Focus as Park Hap-soo Stresses Product Appeal and Speed",
-        "excerpt": "At the 2026 Seoul Money Show, which opened May 7 at COEX in Gangnam, Seoul, Konkuk University adjunct professor Park Hap-soo highlighted the value of Han River reconstruction and redevelopment.",
-        "body": "At the 2026 Seoul Money Show, which opened on May 7 at COEX in Gangnam-gu, Seoul, Park Hap-soo, adjunct professor at Konkuk University’s Graduate School of Real Estate, discussed home buying through reconstruction and redevelopment and the value of Han River maintenance projects. He said the value of areas along the Han River would stand out through reconstruction and redevelopment. Park also noted that product appeal and speed are key in maintenance projects, adding that Han River areas such as Yongsan and Seongsu could draw attention. His remarks point to how reconstruction and redevelopment in major Seoul locations may affect housing choices and market interest. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "漢江沿い再建築・再開発に注目、朴合洙氏「整備事業は商品性と速度が核心」",
-        "excerpt": "5月7日にソウル江南区COEXで開幕した2026ソウルマネーショーで、建国大学不動産大学院の朴合洙兼任教授が漢江沿い再建築・再開発の価値を説明した。",
-        "body": "5月7日、ソウル江南区COEXで開幕した「2026ソウルマネーショー」で、建国大学不動産大学院の朴合洙兼任教授は、再建築・再開発を通じた持ち家取得と漢江沿い整備事業の価値について説明した。朴氏は「再建築・再開発により漢江沿いの価値が浮き彫りになる」と述べた。特に整備事業では商品性と速度が核心だとし、龍山・聖水など漢江沿いの地域が注目され得ると語った。今回の発言は、ソウルの主要立地で再建築・再開発が住宅選択と市場の関心にどのような影響を及ぼすかを示す内容だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "汉江沿岸重建再开发受关注，朴合洙称商品性与速度是关键",
-        "excerpt": "5月7日在首尔江南区COEX开幕的2026首尔Money Show上，建国大学房地产研究生院兼职教授朴合洙指出汉江沿岸重建和再开发的价值。",
-        "body": "5月7日，在首尔江南区COEX开幕的“2026首尔Money Show”上，建国大学房地产研究生院兼职教授朴合洙介绍了通过重建、再开发实现置业以及汉江沿岸整备项目的价值。他表示，随着重建和再开发推进，汉江沿岸的价值将更加凸显。朴合洙还指出，整备项目的核心在于商品性和速度，并提到龙山、圣水等汉江沿岸地区可能受到关注。这番发言显示，首尔主要区位的重建和再开发将如何影响住房选择与市场关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reconstrucción junto al río Han gana foco: Park Hap-soo destaca atractivo y rapidez",
-        "excerpt": "En el Seoul Money Show 2026, inaugurado el 7 de mayo en COEX, Gangnam, Park Hap-soo, profesor adjunto de Konkuk, destacó el valor de la reconstrucción y reurbanización junto al río Han.",
-        "body": "En el “Seoul Money Show 2026”, inaugurado el 7 de mayo en COEX, en Gangnam-gu, Seúl, Park Hap-soo, profesor adjunto de la Escuela de Posgrado de Bienes Raíces de la Universidad Konkuk, explicó la compra de vivienda mediante reconstrucción y reurbanización, así como el valor de los proyectos de mejora junto al río Han. Señaló que el valor de las zonas ribereñas del Han se destacará con la reconstrucción y la reurbanización. También subrayó que el atractivo del producto y la velocidad son claves en estos proyectos, mencionando áreas como Yongsan y Seongsu. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Reconstrução às margens do rio Han ganha foco; Park Hap-soo cita atratividade e rapidez",
-        "excerpt": "No Seoul Money Show 2026, aberto em 7 de maio no COEX, em Gangnam, Park Hap-soo, professor adjunto da Konkuk, destacou o valor da reconstrução e reurbanização junto ao rio Han.",
-        "body": "No “Seoul Money Show 2026”, inaugurado em 7 de maio no COEX, em Gangnam-gu, Seul, Park Hap-soo, professor adjunto da Escola de Pós-Graduação em Imóveis da Universidade Konkuk, explicou a compra de moradia por meio de reconstrução e reurbanização e o valor dos projetos de melhoria às margens do rio Han. Ele afirmou que o valor das áreas junto ao Han será ressaltado pela reconstrução e reurbanização. Park também disse que atratividade do produto e velocidade são essenciais nesses projetos, citando Yongsan e Seongsu como áreas que podem chamar atenção. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Han-Fluss-Umbau rückt in den Fokus: Park Hap-soo betont Attraktivität und Tempo",
-        "excerpt": "Auf der Seoul Money Show 2026, die am 7. Mai im COEX in Gangnam eröffnet wurde, hob Konkuk-Dozent Park Hap-soo den Wert von Wiederaufbau und Sanierung am Han-Fluss hervor.",
-        "body": "Auf der „Seoul Money Show 2026“, die am 7. Mai im COEX in Gangnam-gu, Seoul, eröffnet wurde, erläuterte Park Hap-soo, Adjunct Professor an der Graduate School of Real Estate der Konkuk University, den Erwerb von Wohneigentum durch Wiederaufbau und Sanierung sowie den Wert von Projekten am Han-Fluss. Er sagte, der Wert der Flusslagen werde durch Wiederaufbau und Sanierung stärker hervortreten. Besonders bei solchen Vorhaben seien Produktattraktivität und Tempo entscheidend; als mögliche Schwerpunktgebiete nannte er Yongsan und Seongsu. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La rénovation le long du Han attire l’attention, Park Hap-soo mise sur attrait et vitesse",
-        "excerpt": "Au Seoul Money Show 2026, ouvert le 7 mai au COEX de Gangnam, Park Hap-soo, professeur adjoint à Konkuk, a souligné la valeur de la reconstruction et du réaménagement le long du Han.",
-        "body": "Lors du « Seoul Money Show 2026 », ouvert le 7 mai au COEX, dans l’arrondissement de Gangnam à Séoul, Park Hap-soo, professeur adjoint à l’École supérieure d’immobilier de l’Université Konkuk, a présenté l’achat de logement par reconstruction et réaménagement ainsi que la valeur des projets de rénovation le long du fleuve Han. Il a déclaré que la valeur des zones riveraines du Han serait mise en avant par ces opérations. Il a aussi souligné que l’attrait du produit et la rapidité sont essentiels, citant Yongsan et Seongsu comme zones susceptibles d’attirer l’attention. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعادة التطوير على ضفاف نهر الهان تجذب الانتباه وبارك هاب سو يؤكد الجودة والسرعة",
-        "excerpt": "في معرض سيول موني شو 2026 الذي افتتح في 7 مايو في كويكس بمنطقة غانغنام في سيول، عرض بارك هاب سو من جامعة كونكوك قيمة إعادة البناء والتطوير على ضفاف نهر الهان.",
-        "body": "في «سيول موني شو 2026» الذي افتتح في 7 مايو في كويكس بمنطقة غانغنام في سيول، تحدث بارك هاب سو، الأستاذ المساعد في كلية الدراسات العليا للعقارات بجامعة كونكوك، عن تملك المنازل عبر إعادة البناء وإعادة التطوير وقيمة مشاريع التحسين على ضفاف نهر الهان. وقال إن قيمة المناطق المطلة على نهر الهان ستبرز من خلال إعادة البناء وإعادة التطوير. كما أشار إلى أن جاذبية المنتج والسرعة عنصران أساسيان في مشاريع التحسين، وذكر مناطق مثل يونغسان وسيونغسو باعتبارها قد تحظى بالاهتمام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "हान नदी किनारे पुनर्निर्माण पर ध्यान, पार्क हाप-सू ने गुणवत्ता और गति को बताया अहम",
-        "excerpt": "7 मई को सियोल के गंगनम स्थित COEX में शुरू हुए 2026 Seoul Money Show में कोंकुक विश्वविद्यालय के पार्क हाप-सू ने हान नदी किनारे पुनर्निर्माण और पुनर्विकास के मूल्य पर बात की।",
-        "body": "7 मई को सियोल के गंगनम-गु स्थित COEX में शुरू हुए “2026 Seoul Money Show” में कोंकुक विश्वविद्यालय के रियल एस्टेट ग्रेजुएट स्कूल के सहायक प्रोफेसर पार्क हाप-सू ने पुनर्निर्माण और पुनर्विकास के जरिए घर खरीदने तथा हान नदी किनारे सुधार परियोजनाओं के मूल्य पर चर्चा की। उन्होंने कहा कि पुनर्निर्माण और पुनर्विकास से हान नदी किनारे क्षेत्रों का मूल्य उभरेगा। पार्क ने यह भी कहा कि ऐसी परियोजनाओं में उत्पाद की आकर्षकता और गति मुख्य हैं, और योंगसान तथा सोंगसू जैसे क्षेत्रों का उल्लेख किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Rekonstruksi tepi Sungai Han disorot, Park Hap-soo tekankan daya tarik dan kecepatan",
-        "excerpt": "Pada Seoul Money Show 2026 yang dibuka 7 Mei di COEX, Gangnam, Park Hap-soo dari Universitas Konkuk menyoroti nilai rekonstruksi dan redevelopment kawasan tepi Sungai Han.",
-        "body": "Pada “Seoul Money Show 2026” yang dibuka 7 Mei di COEX, Gangnam-gu, Seoul, Park Hap-soo, profesor adjunct di Graduate School of Real Estate Universitas Konkuk, menjelaskan pembelian rumah melalui rekonstruksi dan redevelopment serta nilai proyek penataan di tepi Sungai Han. Ia mengatakan nilai kawasan sepanjang Sungai Han akan menonjol melalui rekonstruksi dan redevelopment. Park juga menilai daya tarik produk dan kecepatan sebagai kunci dalam proyek penataan, sambil menyebut Yongsan dan Seongsu sebagai kawasan tepi Han yang dapat menarik perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5ee592fbe611",
-    "slug": "고교생부터-17년째-단골까지-투자-인사이트-찾아-인산인해-881393",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T13:43:27.241Z",
-    "updatedAt": "2026-05-07T13:43:27.241Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039419",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039419",
-    "titleFingerprint": "91a5e90e41c95b15e93f461b921fbb5881f3c4e4",
-    "dedupKeys": [
-      "5ee592fbe61144684cf5dff0725db8b31801137e",
-      "91a5e90e41c95b15e93f461b921fbb5881f3c4e4",
-      "b122cc74a53ddfb807711f23c5b20b37f119a2a3"
-    ],
-    "imageUrl": "/images/articles/5ee592fbe611.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2026 서울머니쇼 개막, 고교생부터 17년 단골까지 투자 인사이트 열기",
-        "excerpt": "7일 서울 강남구 코엑스 B홀에서 열린 2026 서울머니쇼에 부의 길과 투자 인사이트를 찾는 관람객이 이른 아침부터 몰렸다.",
-        "body": "7일 서울 강남구 코엑스 B홀에서 ‘2026 서울머니쇼’가 개막하자 이른 아침부터 투자 인사이트와 ‘부의 길’을 찾는 관람객이 몰렸다. 현장에는 고교생부터 17년째 행사를 찾는 단골 관람객까지 다양한 방문객이 자리했다. 올해 행사는 입장료를 받는 유료 행사로 진행됐지만, 개막 첫날부터 많은 인파가 모이며 재테크와 투자 정보에 대한 관심을 확인하게 했다. 관람객들의 발길은 불확실한 시장 환경 속에서 자산 관리 방향을 찾으려는 수요가 이어지고 있음을 보여준다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "2026 Seoul Money Show Opens as Students and 17-Year Regulars Seek Investment Insights",
-        "excerpt": "On May 7, visitors filled COEX Hall B in Gangnam, Seoul, from early morning for the 2026 Seoul Money Show, seeking wealth-building paths and investment insights.",
-        "body": "The 2026 Seoul Money Show opened on May 7 at COEX Hall B in Gangnam, Seoul, drawing crowds from early morning as visitors looked for investment insights and a path to wealth. Attendees ranged from high school students to regular visitors who have followed the event for 17 years. This year’s show was held as a paid-admission event, yet the opening day still saw heavy foot traffic. The turnout underscored continued interest in wealth management and investment information as people search for direction in an uncertain market environment. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "2026ソウルマネーショー開幕、高校生から17年来の常連まで投資情報求め盛況",
-        "excerpt": "5月7日、ソウル江南区COEX Bホールで開幕した2026ソウルマネーショーに、富への道と投資インサイトを求める来場者が早朝から集まった。",
-        "body": "5月7日、ソウル江南区のCOEX Bホールで「2026ソウルマネーショー」が開幕し、早朝から投資インサイトと「富への道」を探す来場者でにぎわった。会場には高校生から、17年にわたり同イベントを訪れている常連来場者まで、幅広い層が集まった。今年のイベントは入場料を徴収する有料開催となったが、初日から多くの人が詰めかけ、資産形成や投資情報への関心の高さを示した。来場者の足取りは、不確実な市場環境の中で資産管理の方向性を探る需要が続いていることを物語っている。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "2026首尔Money Show开幕，高中生与17年老观众争寻投资洞察",
-        "excerpt": "5月7日，2026首尔Money Show在首尔江南区COEX B厅开幕，寻找财富路径和投资洞察的观众从清晨起涌入现场。",
-        "body": "5月7日，“2026首尔Money Show”在首尔江南区COEX B厅开幕，寻找投资洞察和“财富之路”的观众从清晨起便涌入现场。到场人群涵盖高中生，也包括连续17年关注并到访该活动的老观众。今年展会采取收取门票的付费入场方式，但开幕首日仍吸引大量人流，显示出公众对理财和投资信息的高度关注。现场人潮也表明，在不确定的市场环境中，寻找资产管理方向的需求仍在持续。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Seoul Money Show 2026 abre con estudiantes y asistentes de 17 años buscando inversión",
-        "excerpt": "El 7 de mayo, el Seoul Money Show 2026 abrió en el COEX Hall B de Gangnam, Seúl, con visitantes desde primera hora en busca de riqueza e ideas de inversión.",
-        "body": "El Seoul Money Show 2026 abrió el 7 de mayo en el COEX Hall B de Gangnam, Seúl, y atrajo desde primera hora a visitantes que buscaban ideas de inversión y un camino hacia la riqueza. Entre los asistentes había estudiantes de secundaria y visitantes habituales que llevan 17 años acudiendo al evento. Este año, la feria se realizó con entrada de pago, pero aun así el primer día registró una gran afluencia. La presencia de tantos visitantes reflejó el interés sostenido por la gestión patrimonial y la información de inversión en un entorno de mercado incierto. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Seoul Money Show 2026 abre com estudantes e visitantes de 17 anos em busca de investimentos",
-        "excerpt": "Em 7 de maio, o Seoul Money Show 2026 abriu no COEX Hall B, em Gangnam, Seul, com visitantes desde cedo em busca de riqueza e insights de investimento.",
-        "body": "O Seoul Money Show 2026 foi aberto em 7 de maio no COEX Hall B, em Gangnam, Seul, atraindo desde as primeiras horas visitantes em busca de insights de investimento e de um caminho para a riqueza. O público incluía estudantes do ensino médio e frequentadores habituais que acompanham o evento há 17 anos. Neste ano, a feira passou a cobrar ingresso, mas o primeiro dia ainda reuniu grande movimento. A presença intensa de visitantes mostrou o interesse contínuo por gestão de patrimônio e informações de investimento em meio a um ambiente de mercado incerto. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Seoul Money Show 2026 startet: Schüler und 17-jährige Stammgäste suchen Investmentwissen",
-        "excerpt": "Am 7. Mai öffnete die Seoul Money Show 2026 in Halle B des COEX in Gangnam, Seoul, und zog früh Besucher auf der Suche nach Wohlstand und Investmentwissen an.",
-        "body": "Die Seoul Money Show 2026 wurde am 7. Mai in Halle B des COEX in Gangnam, Seoul, eröffnet und zog bereits am frühen Morgen viele Besucher an, die Investmentwissen und einen Weg zu mehr Wohlstand suchten. Unter den Gästen waren Schüler ebenso wie Stammgäste, die die Veranstaltung seit 17 Jahren besuchen. In diesem Jahr wurde die Messe als kostenpflichtige Veranstaltung ausgerichtet, dennoch war der Andrang am ersten Tag groß. Die Besucherzahlen zeigen das anhaltende Interesse an Vermögensverwaltung und Anlageinformationen in einem unsicheren Marktumfeld. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Seoul Money Show 2026 ouvre avec lycéens et fidèles de 17 ans en quête d’investissement",
-        "excerpt": "Le 7 mai, le Seoul Money Show 2026 a ouvert au COEX Hall B de Gangnam, à Séoul, attirant dès le matin des visiteurs en quête de richesse et d’idées d’investissement.",
-        "body": "Le Seoul Money Show 2026 a ouvert le 7 mai au COEX Hall B, dans le district de Gangnam à Séoul, attirant dès le petit matin des visiteurs à la recherche d’idées d’investissement et d’un chemin vers la richesse. Le public allait des lycéens aux habitués qui fréquentent l’événement depuis 17 ans. Cette année, le salon s’est tenu avec une entrée payante, mais la première journée a tout de même attiré une foule importante. Cette affluence souligne l’intérêt persistant pour la gestion de patrimoine et l’information d’investissement dans un environnement de marché incertain. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "افتتاح معرض سول ماني شو 2026 وسط إقبال طلاب وزوار مواظبين منذ 17 عاما على رؤى الاستثمار",
-        "excerpt": "في 7 مايو، افتتح معرض سول ماني شو 2026 في قاعة COEX B بمنطقة جانغنام في سول، مع تدفق زوار منذ الصباح بحثا عن طريق الثروة ورؤى الاستثمار.",
-        "body": "افتتح معرض «سول ماني شو 2026» في 7 مايو في قاعة COEX B بمنطقة جانغنام في سول، واجتذب منذ الصباح الباكر زوارا يبحثون عن رؤى استثمارية وعن «طريق الثروة». وشمل الحضور طلابا في المرحلة الثانوية وزوارا منتظمين يتابعون الحدث منذ 17 عاما. ويقام المعرض هذا العام برسوم دخول مدفوعة، إلا أن يوم الافتتاح شهد ازدحاما واضحا. ويعكس هذا الإقبال استمرار الاهتمام بإدارة الأصول ومعلومات الاستثمار في ظل بيئة سوق غير مؤكدة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "2026 Seoul Money Show शुरू, छात्र और 17 साल से आने वाले दर्शक निवेश insights की तलाश में",
-        "excerpt": "7 मई को सियोल के गंगनम स्थित COEX Hall B में 2026 Seoul Money Show खुला, जहां धन की राह और निवेश insights खोजने वाले दर्शक सुबह से उमड़े।",
-        "body": "7 मई को सियोल के गंगनम स्थित COEX Hall B में ‘2026 Seoul Money Show’ शुरू हुआ और सुबह से ही निवेश insights तथा ‘धन की राह’ खोजने वाले दर्शकों की भीड़ जुटी। उपस्थित लोगों में हाई स्कूल के छात्र भी थे और ऐसे नियमित दर्शक भी, जो 17 वर्षों से इस आयोजन में आते रहे हैं। इस साल आयोजन प्रवेश शुल्क के साथ paid event के रूप में हुआ, फिर भी पहले दिन बड़ी संख्या में लोग पहुंचे। यह भीड़ दिखाती है कि अनिश्चित बाजार माहौल में संपत्ति प्रबंधन की दिशा और निवेश जानकारी की मांग बनी हुई है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Seoul Money Show 2026 Dibuka, Siswa hingga Pengunjung 17 Tahun Cari Wawasan Investasi",
-        "excerpt": "Pada 7 Mei, Seoul Money Show 2026 dibuka di COEX Hall B, Gangnam, Seoul, dengan pengunjung sejak pagi mencari jalan menuju kekayaan dan wawasan investasi.",
-        "body": "Seoul Money Show 2026 dibuka pada 7 Mei di COEX Hall B, Gangnam, Seoul, dan sejak pagi dipadati pengunjung yang mencari wawasan investasi serta “jalan menuju kekayaan”. Pengunjung yang hadir beragam, mulai dari siswa sekolah menengah hingga pengunjung setia yang telah mendatangi acara ini selama 17 tahun. Tahun ini acara digelar dengan tiket masuk berbayar, tetapi hari pembukaan tetap menarik banyak orang. Keramaian tersebut menunjukkan minat yang terus berlanjut terhadap pengelolaan aset dan informasi investasi di tengah lingkungan pasar yang tidak pasti. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "27fb735e8d72",
-    "slug": "저평가-매력에현대백화점-주가-6-쑥-998890",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T13:41:38.667Z",
-    "updatedAt": "2026-05-07T13:41:38.667Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12039972",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12039972",
-    "titleFingerprint": "fe79beb1b1a89aa0fc62e17af406cad26f73f3a2",
-    "dedupKeys": [
-      "27fb735e8d72ff8c1c03c16ef92a00859e6d32f5",
-      "fe79beb1b1a89aa0fc62e17af406cad26f73f3a2",
-      "07f4e3ac42fd815fa957b757bc0ae11822aca617"
-    ],
-    "imageUrl": "/images/articles/27fb735e8d72.jpg",
-    "i18n": {
-      "ko": {
-        "title": "현대백화점 주가 6% 급등, 저평가 매력에 증권가 목표가 상향",
-        "excerpt": "7일 현대백화점 주가가 전일 대비 5.66% 오른 11만38000원에 거래되며 상승세를 보였다. 백화점과 면세점 실적 기대, 저평가 매력이 증권가 목표가 상향으로 이어졌다.",
-        "body": "현대백화점 주가가 7일 실적 발표 이후 상승세를 나타냈다. 이날 현대백화점은 전일 대비 5.66% 오른 11만38000원에 거래되며 시장의 관심을 받았다. 주가 상승 배경으로는 백화점과 면세점 부문이 함께 실적을 이끄는 ‘쌍끌이’ 흐름과 저평가 매력이 꼽힌다. 증권가에서는 실적 발표를 마친 뒤 현대백화점의 목표가를 잇달아 상향한 것으로 전해졌다. 이번 흐름은 주요 사업 부문의 실적 기대가 주가 재평가로 이어지고 있음을 보여준다. 다만 기사에 제시된 내용은 당일 주가 흐름과 증권가 목표가 조정에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hyundai Department Store Shares Jump 6% as Undervaluation Draws Attention",
-        "excerpt": "Hyundai Department Store shares rose 5.66% on May 7 to trade at 113,8000 won, supported by broker target-price upgrades after results and attention to its department store and duty-free businesses.",
-        "body": "Hyundai Department Store shares moved higher on May 7 after the company completed its earnings announcement. The stock traded at 113,8000 won, up 5.66% from the previous session, drawing market attention. The rise was linked to the combined momentum of its department store and duty-free divisions, described as a dual growth driver, along with the stock’s perceived undervaluation. Securities firms reportedly raised their target prices one after another after the results. The move suggests that expectations for key business segments are feeding into a reassessment of the share price. The information cited is limited to the day’s stock move and brokerage target revisions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "現代百貨店株が6％上昇、割安感に証券各社が目標株価引き上げ",
-        "excerpt": "現代百貨店の株価は7日、前日比5.66％高の11万38000ウォンで取引された。百貨店・免税店の両事業と割安感が材料となり、証券各社が目標株価を相次ぎ上げた。",
-        "body": "現代百貨店の株価は7日、決算発表を終えた後に上昇基調を見せた。同日の株価は前日比5.66％高の11万38000ウォンで取引され、市場の関心を集めた。上昇の背景には、百貨店と免税店部門がともに業績をけん引する流れと、株価の割安感があるとされる。証券業界では、決算発表後に現代百貨店の目標株価を相次いで引き上げたと伝えられた。今回の動きは、主要事業部門への期待が株価の見直しにつながっていることを示す。ただし、記事の内容は当日の株価動向と証券各社の目標株価調整に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "现代百货股价上涨近6%，低估值吸引券商上调目标价",
-        "excerpt": "5月7日，现代百货股价较前一交易日上涨5.66%，报11万38000韩元。百货与免税店业务共同支撑业绩预期，低估值因素推动券商上调目标价。",
-        "body": "现代百货股价在5月7日完成业绩发布后呈现上涨走势。当天该股较前一交易日上涨5.66%，报11万38000韩元，受到市场关注。股价上涨的背景包括百货店和免税店业务共同拉动业绩的“双引擎”趋势，以及市场对其低估值吸引力的关注。据报道，证券行业在业绩发布后陆续上调了现代百货的目标价。此次走势显示，主要业务部门的业绩期待正推动市场重新评估其股价。不过，报道所提供的信息仅限于当天股价表现和券商目标价调整。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hyundai Department Store sube 6% por atractivo de valoración y alzas de precio objetivo",
-        "excerpt": "Las acciones de Hyundai Department Store subieron el 7 de mayo un 5,66%, hasta 113,8000 wones, tras sus resultados, apoyadas por el negocio de grandes almacenes, duty free y mejoras de precios objetivo.",
-        "body": "Las acciones de Hyundai Department Store avanzaron el 7 de mayo después de que la empresa completara la publicación de resultados. El título cotizaba a 113,8000 wones, un 5,66% más que en la sesión anterior, captando la atención del mercado. El alza se relacionó con el impulso conjunto de sus divisiones de grandes almacenes y tiendas libres de impuestos, además del atractivo de una valoración considerada baja. Según el reporte, las firmas de valores elevaron sucesivamente sus precios objetivo tras los resultados. El movimiento muestra que las expectativas sobre sus negocios clave están llevando a una reevaluación de la acción. La información citada se limita al movimiento bursátil del día y a los ajustes de precios objetivo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações da Hyundai Department Store sobem 6% com valuation atrativo e metas maiores",
-        "excerpt": "As ações da Hyundai Department Store subiram 5,66% em 7 de maio, a 113,8000 wons, após resultados e revisões de preço-alvo, apoiadas por lojas de departamento, duty free e percepção de desconto.",
-        "body": "As ações da Hyundai Department Store ganharam força em 7 de maio após a divulgação de resultados. O papel era negociado a 113,8000 wons, alta de 5,66% frente ao pregão anterior, chamando atenção do mercado. O avanço foi associado ao desempenho conjunto das divisões de lojas de departamento e duty free, além do apelo de uma avaliação considerada descontada. Segundo a notícia, casas de análise elevaram sucessivamente seus preços-alvo após os resultados. O movimento indica que as expectativas para os principais negócios estão contribuindo para uma reavaliação da ação. As informações apresentadas se limitam ao desempenho do dia e aos ajustes de preço-alvo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hyundai Department Store steigt 6 Prozent: Unterbewertung treibt Kurszielanhebungen",
-        "excerpt": "Die Aktie von Hyundai Department Store stieg am 7. Mai um 5,66% auf 113,8000 Won. Nach den Ergebnissen hoben Analysten Ziele an, gestützt durch Warenhaus- und Duty-free-Geschäft sowie Bewertungsspielraum.",
-        "body": "Die Aktie von Hyundai Department Store legte am 7. Mai nach der Veröffentlichung der Ergebnisse zu. Sie wurde bei 113,8000 Won gehandelt, 5,66% über dem Vortag, und rückte damit in den Fokus des Marktes. Als Gründe wurden die gemeinsame Stärke des Warenhaus- und Duty-free-Geschäfts sowie die als attraktiv wahrgenommene Unterbewertung genannt. Berichten zufolge hoben Wertpapierhäuser nach den Zahlen ihre Kursziele nacheinander an. Die Entwicklung zeigt, dass Erwartungen an die wichtigsten Geschäftsbereiche eine Neubewertung der Aktie unterstützen. Die genannten Informationen beschränken sich auf die Kursbewegung des Tages und die Anpassungen der Kursziele. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hyundai Department Store gagne 6 %, porté par sa valorisation et des objectifs relevés",
-        "excerpt": "L’action Hyundai Department Store a progressé le 7 mai de 5,66% à 113,8000 wons. Après les résultats, les relèvements d’objectifs reflètent l’intérêt pour les grands magasins, le duty free et la décote.",
-        "body": "L’action Hyundai Department Store a progressé le 7 mai après la publication des résultats de l’entreprise. Le titre s’échangeait à 113,8000 wons, en hausse de 5,66% par rapport à la séance précédente, attirant l’attention du marché. Cette progression est liée à la dynamique conjointe des activités de grands magasins et de duty free, ainsi qu’à l’attrait d’une valorisation jugée faible. Selon l’article, plusieurs sociétés de courtage ont relevé successivement leurs objectifs de cours après les résultats. Ce mouvement montre que les attentes envers les principales activités soutiennent une réévaluation du titre. Les informations citées se limitent à l’évolution du cours du jour et aux ajustements d’objectifs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم هيونداي دبارتمنت ستور يقفز 6% مع جاذبية التقييم ورفع الأسعار المستهدفة",
-        "excerpt": "ارتفع سهم هيونداي دبارتمنت ستور في 7 مايو بنسبة 5.66% إلى 113,8000 وون، بعد إعلان النتائج ورفع شركات الأوراق المالية للأسعار المستهدفة بدعم من المتاجر والأسواق الحرة.",
-        "body": "ارتفع سهم هيونداي دبارتمنت ستور في 7 مايو بعد انتهاء الشركة من إعلان نتائجها. وجرى تداول السهم عند 113,8000 وون، بزيادة 5.66% عن الجلسة السابقة، ما جذب اهتمام السوق. وجاء الصعود مدفوعا بزخم مشترك من قطاعي المتاجر متعددة الأقسام والأسواق الحرة، إلى جانب جاذبية السهم باعتباره منخفض التقييم. وذكرت التقارير أن شركات الأوراق المالية رفعت الأسعار المستهدفة للسهم تباعا بعد النتائج. ويشير هذا التحرك إلى أن توقعات أداء القطاعات الرئيسية تدعم إعادة تقييم السعر. وتقتصر المعلومات الواردة على حركة السهم اليومية وتعديلات الأسعار المستهدفة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hyundai Department Store शेयर 6% उछला, कम मूल्यांकन पर ब्रोकरेज ने लक्ष्य बढ़ाए",
-        "excerpt": "Hyundai Department Store का शेयर 7 मई को 5.66% बढ़कर 113,8000 वॉन पर कारोबार कर रहा था। नतीजों के बाद डिपार्टमेंट स्टोर, ड्यूटी-फ्री कारोबार और कम मूल्यांकन ने लक्ष्य मूल्य बढ़ाने को प्रेरित किया।",
-        "body": "Hyundai Department Store का शेयर 7 मई को नतीजों की घोषणा पूरी होने के बाद तेजी में रहा। शेयर पिछले सत्र की तुलना में 5.66% बढ़कर 113,8000 वॉन पर कारोबार कर रहा था और बाजार का ध्यान आकर्षित किया। तेजी की वजह डिपार्टमेंट स्टोर और ड्यूटी-फ्री कारोबार की संयुक्त गति, साथ ही शेयर का कम मूल्यांकन मानी गई। रिपोर्ट के अनुसार, नतीजों के बाद प्रतिभूति कंपनियों ने Hyundai Department Store के लक्ष्य मूल्य लगातार बढ़ाए। यह रुझान दिखाता है कि प्रमुख कारोबारों से जुड़ी उम्मीदें शेयर के पुनर्मूल्यांकन में योगदान दे रही हैं। उपलब्ध जानकारी दिन की शेयर चाल और लक्ष्य मूल्य संशोधनों तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Hyundai Department Store Naik 6% karena Valuasi Murah dan Target Harga Naik",
-        "excerpt": "Saham Hyundai Department Store pada 7 Mei naik 5,66% ke 113,8000 won. Setelah laporan kinerja, bisnis department store dan duty free serta daya tarik valuasi mendorong kenaikan target harga analis.",
-        "body": "Saham Hyundai Department Store bergerak naik pada 7 Mei setelah perusahaan menyelesaikan pengumuman kinerja. Saham diperdagangkan di 113,8000 won, naik 5,66% dari hari sebelumnya, dan menarik perhatian pasar. Kenaikan ini dikaitkan dengan dorongan bersama dari bisnis department store dan duty free, serta daya tarik valuasi yang dianggap rendah. Menurut laporan, kalangan sekuritas menaikkan target harga Hyundai Department Store secara beruntun setelah hasil kinerja tersebut. Pergerakan ini menunjukkan bahwa ekspektasi terhadap segmen bisnis utama mendorong penilaian ulang harga saham. Informasi yang dikutip terbatas pada pergerakan saham hari itu dan revisi target harga analis. Sumber: mk.co.kr"
       }
     }
   }
