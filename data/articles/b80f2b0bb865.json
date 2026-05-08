@@ -1,0 +1,75 @@
+{
+  "id": "b80f2b0bb865",
+  "slug": "한국콜마-매출이-반토막토스증권-실적-표기-오류-논란-694653",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-08T14:23:06.497Z",
+  "updatedAt": "2026-05-08T14:23:06.497Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026050846666",
+  "canonicalUrl": "https://www.hankyung.com/article/2026050846666",
+  "titleFingerprint": "c64262eafada8b07cabffb3e10e5c98dfa7ae228",
+  "dedupKeys": [
+    "b80f2b0bb865d2dded4d346ec73f635afadac55c",
+    "c64262eafada8b07cabffb3e10e5c98dfa7ae228",
+    "01aebf1fe4664de446f42f19a4f080c5682859ee"
+  ],
+  "imageUrl": "/images/articles/b80f2b0bb865.jpg",
+  "i18n": {
+    "ko": {
+      "title": "한국콜마 실적 표기 오류 논란, 토스증권 화면에 ‘매출 반토막’ 혼선",
+      "excerpt": "토스증권의 한국콜마 실적 표기 오류가 투자자 혼선을 불렀다. 매출이 급감한 것처럼 보인 화면 표시를 두고 정확한 기업정보 제공 필요성이 제기됐다.",
+      "body": "한국콜마 실적 정보가 토스증권 화면에서 잘못 표기됐다는 논란이 제기됐다. 한국경제 보도에 따르면 투자자들은 한국콜마 매출이 ‘반토막’ 난 것처럼 보이는 실적 표시를 접했고, 이는 실제 기업 실적 변화와 혼동될 수 있는 사안으로 지적됐다. 이번 논란의 핵심은 기업의 영업 상황 자체보다 증권 플랫폼이 제공하는 실적 데이터의 정확성이다. 주식 투자자는 앱 화면의 매출, 영업이익 등 핵심 수치를 근거로 판단하는 만큼 표기 오류는 투자 판단에 직접 영향을 줄 수 있다. 한국경제는 토스증권의 한국콜마 실적 표기 오류 논란을 전했다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "Korea Kolmar Earnings Display Error Sparks Confusion on Toss Securities App",
+      "excerpt": "A Toss Securities display error involving Korea Kolmar earnings caused investor confusion, making sales appear sharply lower and raising questions about data accuracy.",
+      "body": "A controversy arose after Korea Kolmar earnings information was reportedly displayed incorrectly on Toss Securities. According to Hankyung, investors saw figures that made Korea Kolmar’s revenue appear to have been cut in half, creating room for confusion with the company’s actual performance. The issue centers not on Korea Kolmar’s business condition itself, but on the accuracy of earnings data shown by a securities platform. Since investors rely on app-based figures such as revenue and operating profit when making decisions, a display error can directly affect interpretation. Hankyung reported the controversy over Toss Securities’ Korea Kolmar earnings notation error. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "韓国コルマー実績表示ミス、トス証券アプリで売上半減の混乱",
+      "excerpt": "トス証券で韓国コルマーの実績表示に誤りがあり、売上が急減したように見えたことで投資家の混乱と情報精度への懸念が浮上した。",
+      "body": "韓国コルマーの業績情報がトス証券の画面で誤って表示されたとの論争が起きた。韓国経済の報道によると、投資家は韓国コルマーの売上が「半減」したかのように見える業績表示を確認し、実際の企業業績と混同される可能性が指摘された。今回の焦点は企業の営業状況そのものではなく、証券プラットフォームが提供する業績データの正確性にある。投資家はアプリ上の売上高や営業利益などの主要数値を判断材料にするため、表示ミスは投資判断に直接影響し得る。韓国経済はトス証券の韓国コルマー業績表示ミス論争を報じた。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "韩国科玛业绩显示错误引争议，Toss证券页面现“营收腰斩”混乱",
+      "excerpt": "Toss证券关于韩国科玛的业绩显示错误引发投资者混乱，页面看似显示营收大幅下降，也凸显平台数据准确性问题。",
+      "body": "韩国科玛的业绩信息在Toss证券页面被错误显示一事引发争议。据《韩国经济》报道，投资者看到的业绩标注让韩国科玛营收看起来像是“腰斩”，该情况可能与企业真实业绩变化产生混淆。此次争议的核心并非韩国科玛自身经营状况，而是证券平台所提供业绩数据的准确性。投资者在进行股票判断时，会参考应用中的营收、营业利润等关键数字，因此显示错误可能直接影响其理解和判断。《韩国经济》报道了Toss证券韩国科玛业绩标注错误争议。来源: hankyung.com"
+    },
+    "es": {
+      "title": "Error en Toss Securities confunde resultados de Korea Kolmar y sus ventas",
+      "excerpt": "Un error de visualización de Toss Securities sobre Korea Kolmar generó confusión entre inversores al hacer parecer que sus ventas se habían reducido con fuerza.",
+      "body": "Surgió una controversia después de que la información de resultados de Korea Kolmar se mostrara incorrectamente en Toss Securities. Según Hankyung, los inversores vieron una indicación que hacía parecer que los ingresos de Korea Kolmar se habían reducido a la mitad, lo que podía confundirse con un cambio real en el desempeño de la empresa. El punto central no es la situación operativa de Korea Kolmar, sino la precisión de los datos financieros ofrecidos por una plataforma bursátil. Como los inversores usan cifras de ventas y beneficio operativo en la app para tomar decisiones, un error de visualización puede afectar directamente su interpretación. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "Erro no Toss Securities confunde resultados da Korea Kolmar e vendas",
+      "excerpt": "Um erro de exibição no Toss Securities sobre a Korea Kolmar gerou confusão entre investidores ao fazer parecer que a receita havia caído pela metade.",
+      "body": "Uma controvérsia surgiu após informações de resultados da Korea Kolmar serem exibidas incorretamente no Toss Securities. Segundo o Hankyung, investidores viram uma indicação que fazia a receita da Korea Kolmar parecer ter sido reduzida pela metade, criando risco de confusão com o desempenho real da empresa. O centro da questão não é a condição operacional da Korea Kolmar, mas a precisão dos dados financeiros fornecidos por uma plataforma de valores mobiliários. Como investidores usam números de receita e lucro operacional no aplicativo para tomar decisões, um erro de exibição pode afetar diretamente a interpretação. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "Toss-Securities-Fehler bei Korea Kolmar sorgt für Umsatz-Verwirrung",
+      "excerpt": "Ein Anzeige Fehler bei Toss Securities zu Korea Kolmar sorgte für Verwirrung, weil der Umsatz deutlich niedriger erschien und Fragen zur Datengenauigkeit auslöste.",
+      "body": "Um die Ergebnisdaten von Korea Kolmar auf Toss Securities ist eine Kontroverse entstanden, weil sie offenbar falsch angezeigt wurden. Laut Hankyung sahen Anleger eine Darstellung, die den Eindruck erweckte, der Umsatz von Korea Kolmar habe sich halbiert. Dadurch konnte Verwirrung mit der tatsächlichen Unternehmensleistung entstehen. Im Mittelpunkt steht nicht die Geschäftslage von Korea Kolmar selbst, sondern die Genauigkeit der von einer Wertpapierplattform bereitgestellten Ergebnisdaten. Da Anleger Kennzahlen wie Umsatz und operativen Gewinn in Apps als Entscheidungsgrundlage nutzen, kann ein Anzeigefehler die Einschätzung direkt beeinflussen. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "Erreur sur Toss Securities: les résultats de Korea Kolmar sèment le doute",
+      "excerpt": "Une erreur d’affichage de Toss Securities concernant Korea Kolmar a semé la confusion, donnant l’impression que le chiffre d’affaires avait fortement chuté.",
+      "body": "Une controverse est née après l’affichage erroné d’informations financières de Korea Kolmar sur Toss Securities. Selon Hankyung, des investisseurs ont vu une présentation laissant croire que le chiffre d’affaires de Korea Kolmar avait été réduit de moitié, ce qui pouvait être confondu avec une évolution réelle des résultats de l’entreprise. Le cœur du sujet n’est pas la situation opérationnelle de Korea Kolmar elle-même, mais l’exactitude des données fournies par une plateforme de courtage. Comme les investisseurs s’appuient sur les ventes et le résultat opérationnel affichés dans les applications, une erreur peut influencer directement leur lecture. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "خطأ عرض نتائج كوريا كولمار على توس للأوراق المالية يثير ارتباكا",
+      "excerpt": "أثار خطأ في عرض نتائج كوريا كولمار على منصة توس للأوراق المالية ارتباكا بين المستثمرين بعدما بدا أن المبيعات تراجعت بشكل حاد.",
+      "body": "أثير جدل بعد ظهور معلومات نتائج كوريا كولمار بشكل غير صحيح على شاشة توس للأوراق المالية. ووفقا لتقرير هانكيونغ، شاهد المستثمرون عرضا جعل إيرادات كوريا كولمار تبدو كأنها انخفضت إلى النصف، ما قد يسبب خلطا مع الأداء الفعلي للشركة. جوهر القضية لا يتعلق بوضع أعمال كوريا كولمار نفسه، بل بدقة بيانات النتائج التي توفرها منصة تداول. وبما أن المستثمرين يعتمدون على أرقام مثل الإيرادات والربح التشغيلي في التطبيقات لاتخاذ قراراتهم، فإن خطأ العرض قد يؤثر مباشرة في تفسيرهم للمعلومات. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "Toss Securities पर Korea Kolmar नतीजों की गलती से बिक्री को लेकर भ्रम",
+      "excerpt": "Toss Securities पर Korea Kolmar के नतीजों की गलत स्क्रीनिंग से निवेशकों में भ्रम पैदा हुआ, क्योंकि बिक्री तेज गिरावट जैसी दिख रही थी।",
+      "body": "Korea Kolmar की आय संबंधी जानकारी Toss Securities पर गलत दिखाई देने के बाद विवाद उठा। Hankyung के अनुसार, निवेशकों ने ऐसा प्रदर्शन देखा जिससे Korea Kolmar की बिक्री मानो आधी हो गई हो, और इससे कंपनी के वास्तविक प्रदर्शन को लेकर भ्रम पैदा हो सकता था। इस मामले का केंद्र Korea Kolmar की कारोबारी स्थिति नहीं, बल्कि सिक्योरिटीज प्लेटफॉर्म पर दिए गए आय डेटा की सटीकता है। निवेशक ऐप में दिखने वाले राजस्व और परिचालन लाभ जैसे प्रमुख आंकड़ों के आधार पर निर्णय लेते हैं, इसलिए ऐसी प्रदर्शन त्रुटि उनकी व्याख्या को सीधे प्रभावित कर सकती है। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Kesalahan Data Korea Kolmar di Toss Securities Picu Bingung soal Penjualan",
+      "excerpt": "Kesalahan tampilan kinerja Korea Kolmar di Toss Securities memicu kebingungan investor karena penjualan terlihat seolah turun tajam hingga separuh.",
+      "body": "Kontroversi muncul setelah informasi kinerja Korea Kolmar dilaporkan tampil keliru di Toss Securities. Menurut Hankyung, investor melihat tampilan yang membuat pendapatan Korea Kolmar tampak seperti berkurang separuh, sehingga berpotensi tertukar dengan perubahan kinerja perusahaan yang sebenarnya. Inti masalah ini bukan kondisi bisnis Korea Kolmar, melainkan akurasi data kinerja yang disediakan platform sekuritas. Karena investor menggunakan angka pendapatan dan laba operasi di aplikasi sebagai dasar keputusan, kesalahan tampilan dapat langsung memengaruhi penafsiran mereka. Hankyung melaporkan kontroversi kesalahan penulisan kinerja Korea Kolmar di Toss Securities. Sumber: hankyung.com"
+    }
+  }
+}
