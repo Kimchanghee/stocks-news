@@ -1,5 +1,230 @@
 [
   {
+    "id": "0877fc153951",
+    "slug": "삼전닉스-폭등-뒤에-이것-있었다240조-뭉칫돈-몰린-곳-분석-933059",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T20:45:20.571Z",
+    "updatedAt": "2026-05-08T20:45:20.571Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050830656",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050830656",
+    "titleFingerprint": "8c2c0db9fe22267b5ea119af8c421942dccd6f4a",
+    "dedupKeys": [
+      "0877fc1539517e5ecc69e0b6d21ecb05f7ba2c35",
+      "8c2c0db9fe22267b5ea119af8c421942dccd6f4a",
+      "590967153425f6ccdd2adf7a3d70ff61563dd544"
+    ],
+    "imageUrl": "/images/articles/0877fc153951.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 급등 배경은 ETF 자금 쏠림, 240조 시장 주목",
+        "excerpt": "삼성전자와 SK하이닉스 주가 급등 뒤 국내 ETF 시장으로 유입된 대규모 자금과 반도체 대형주 편입 확대가 있었다는 분석이 나왔다.",
+        "body": "삼성전자와 SK하이닉스 주가가 급등한 배경으로 국내 상장지수펀드(ETF) 시장의 자금 쏠림이 지목됐다. 한국경제에 따르면 국내 ETF 시장에는 약 240조원 규모의 자금이 몰렸고, 이 가운데 상당 부분이 반도체 대형주 중심 상품으로 흘러갔다. 반도체·테크 ETF뿐 아니라 고배당, 가치주, 채권혼합형 상품에서도 두 종목 편입 비중이 커지며 포트폴리오가 삼성전자와 SK하이닉스 중심으로 재편되는 흐름이다. AI 확산에 따른 반도체 실적 기대와 시가총액 상위 종목을 담는 ETF 구조가 이런 쏠림을 키운 요인으로 분석된다. 다만 특정 종목 집중도가 높아지면 ETF의 분산투자 기능이 약해지고 반도체 업황 변동 때 충격이 커질 수 있다는 지적도 나온다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Samsung and SK Hynix Rally Tied to ETF Inflows as 240 Trillion Won Market Draws Attention",
+        "excerpt": "A Hankyung analysis says heavy inflows into Korea’s ETF market and rising exposure to Samsung Electronics and SK Hynix helped fuel the chip-stock rally.",
+        "body": "Samsung Electronics and SK Hynix’s sharp share gains have been linked to concentrated money flows in Korea’s exchange-traded fund market. According to Hankyung, about 240 trillion won has moved into domestic ETFs, with a meaningful portion directed toward products centered on large semiconductor stocks. The tilt is not limited to semiconductor and technology ETFs; high-dividend, value-stock and bond-mixed products have also increased exposure to the two chip leaders. Expectations for stronger semiconductor earnings amid AI adoption, together with ETF structures that favor large market-cap stocks, helped deepen the concentration. The risk is that as exposure to a few names grows, ETFs may lose some diversification benefits and become more vulnerable if the semiconductor cycle weakens. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックス急騰の背景にETF資金、240兆ウォン市場に注目",
+        "excerpt": "韓国経済は、国内ETF市場への大規模資金流入と半導体大型株への組み入れ拡大が株価上昇を支えたと分析した。",
+        "body": "サムスン電子とSKハイニックスの株価急騰の背景として、韓国の上場投資信託（ETF）市場における資金集中が指摘されている。韓国経済によると、国内ETF市場には約240兆ウォン規模の資金が流入し、その相当部分が半導体大型株中心の商品に向かった。半導体・テクノロジーETFだけでなく、高配当、バリュー株、債券混合型商品でも両銘柄の組み入れ比率が高まっている。AI普及による半導体業績への期待と、時価総額上位銘柄を多く組み入れるETFの構造が、この偏りを強めたとみられる。一方で特定銘柄への集中が進めば、ETF本来の分散投資機能が弱まり、半導体市況が揺らいだ際の影響が大きくなる可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "三星电子与SK海力士大涨背后是ETF资金涌入，240万亿韩元市场受关注",
+        "excerpt": "韩国经济分析称，韩国ETF市场大规模资金流入，以及三星电子和SK海力士配置比例上升，推动了半导体股上涨。",
+        "body": "三星电子和SK海力士股价大幅上涨的背后，韩国ETF市场的资金集中受到关注。据韩国经济报道，约240万亿韩元资金流入韩国本土ETF市场，其中相当一部分流向以大型半导体股为核心的产品。不仅半导体和科技类ETF，高股息、价值股以及债券混合型产品中，两家公司配置比例也在上升。人工智能扩散带来的半导体业绩预期，以及ETF偏向纳入大市值股票的结构，被认为加剧了这种集中趋势。但如果资金过度集中于少数股票，ETF的分散投资功能可能被削弱；一旦半导体景气波动，相关产品承受的冲击也可能扩大。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El rally de Samsung y SK Hynix apunta a los ETF: foco en un mercado de 240 billones de wones",
+        "excerpt": "Hankyung señala que las fuertes entradas al mercado coreano de ETF y la mayor exposición a Samsung Electronics y SK Hynix impulsaron el rally.",
+        "body": "La fuerte subida de Samsung Electronics y SK Hynix se vincula con una concentración de capital en el mercado coreano de fondos cotizados, o ETF. Según Hankyung, cerca de 240 billones de wones han fluido hacia los ETF locales, y una parte relevante se dirigió a productos centrados en grandes valores de semiconductores. La tendencia no se limita a ETF de tecnología o chips: también fondos de alto dividendo, valor y mixtos con bonos han elevado el peso de ambas compañías. Las expectativas de mejores resultados por la expansión de la inteligencia artificial y la estructura de los ETF, que favorece a las mayores capitalizaciones, explican la concentración. El riesgo es que una mayor exposición a pocos valores reduzca la diversificación y aumente el impacto si cambia el ciclo de semiconductores. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alta de Samsung e SK Hynix expõe força dos ETFs e mercado de 240 trilhões de wons",
+        "excerpt": "Análise da Hankyung aponta que entradas expressivas em ETFs coreanos e maior peso de Samsung Electronics e SK Hynix ajudaram a puxar as ações.",
+        "body": "A forte valorização de Samsung Electronics e SK Hynix foi associada à concentração de recursos no mercado coreano de ETFs. Segundo a Hankyung, cerca de 240 trilhões de wons foram direcionados aos ETFs locais, com parte relevante indo para produtos focados em grandes ações de semicondutores. O movimento não aparece apenas em ETFs de tecnologia ou chips; fundos de dividendos, valor e carteiras mistas com títulos também aumentaram a exposição às duas empresas. As expectativas de melhora nos resultados com a expansão da inteligência artificial e a estrutura dos ETFs, que tende a privilegiar ações de maior valor de mercado, reforçaram essa concentração. O alerta é que a dependência de poucos nomes pode reduzir a diversificação e ampliar perdas se o ciclo dos semicondutores enfraquecer. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Samsung und SK Hynix steigen stark: ETF-Zuflüsse lenken Blick auf 240 Billionen Won",
+        "excerpt": "Hankyung analysiert, dass hohe Zuflüsse in Koreas ETF-Markt und steigende Gewichtungen von Samsung Electronics und SK Hynix die Rally stützten.",
+        "body": "Der kräftige Kursanstieg von Samsung Electronics und SK Hynix wird mit konzentrierten Mittelzuflüssen am koreanischen ETF-Markt in Verbindung gebracht. Laut Hankyung flossen rund 240 Billionen Won in heimische ETFs, wobei ein erheblicher Teil in Produkte mit Schwerpunkt auf großen Halbleiterwerten ging. Die Entwicklung betrifft nicht nur Halbleiter- und Technologie-ETFs; auch Dividenden-, Value- und Mischprodukte mit Anleihen erhöhen die Gewichtung der beiden Aktien. Erwartungen an bessere Halbleiterergebnisse durch die Ausbreitung von KI sowie ETF-Strukturen, die große Marktkapitalisierungen bevorzugen, verstärken diese Konzentration. Das Risiko: Je stärker wenige Titel dominieren, desto schwächer wird der Diversifikationseffekt, und desto größer kann der Druck bei einer Wende im Halbleiterzyklus werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Samsung et SK Hynix portés par les ETF: le marché de 240 billions de wons sous surveillance",
+        "excerpt": "Hankyung estime que les fortes entrées dans les ETF coréens et la hausse du poids de Samsung Electronics et SK Hynix ont soutenu le rally.",
+        "body": "La forte hausse de Samsung Electronics et de SK Hynix est attribuée à une concentration des flux dans le marché coréen des ETF. Selon Hankyung, environ 240 billions de wons ont afflué vers les ETF domestiques, dont une part importante vers des produits centrés sur les grandes valeurs des semi-conducteurs. Le phénomène ne concerne pas seulement les ETF technologiques ou semi-conducteurs: les produits à dividendes, value et mixtes obligataires augmentent aussi l’exposition aux deux groupes. Les attentes de résultats portées par l’essor de l’IA et la structure des ETF, qui favorise les plus fortes capitalisations, expliquent cette concentration. Mais une dépendance accrue à quelques titres peut réduire l’effet de diversification des ETF et amplifier les risques si le cycle des semi-conducteurs se retourne. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صعود سامسونغ وSK هاينكس يرتبط بتدفقات ETF وسوق حجمه 240 تريليون وون",
+        "excerpt": "تشير هانكيونغ إلى أن تدفقات كبيرة إلى صناديق ETF الكورية وارتفاع وزن سامسونغ إلكترونيكس وSK هاينكس ساهما في دعم صعود أسهم الرقائق.",
+        "body": "ارتبط الصعود القوي لسهمي سامسونغ إلكترونيكس وSK هاينكس بتركز الأموال في سوق صناديق المؤشرات المتداولة الكورية. ووفق هانكيونغ، تدفق نحو 240 تريليون وون إلى صناديق ETF المحلية، وذهب جزء مهم منها إلى منتجات تركز على أسهم أشباه الموصلات الكبرى. ولا يقتصر ذلك على صناديق التكنولوجيا والرقائق، إذ زادت أيضا صناديق التوزيعات والقيمة والصناديق المختلطة بالسندات وزن الشركتين. وتفسر توقعات تحسن أرباح أشباه الموصلات مع انتشار الذكاء الاصطناعي، إلى جانب بنية الصناديق التي تميل إلى الأسهم الأكبر من حيث القيمة السوقية، هذا التركّز. لكن ارتفاع الاعتماد على عدد محدود من الأسهم قد يضعف فائدة التنويع ويزيد أثر أي تراجع في دورة القطاع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Samsung और SK Hynix की तेजी के पीछे ETF प्रवाह, 240 ट्रिलियन वॉन बाजार पर नजर",
+        "excerpt": "Hankyung के अनुसार कोरियाई ETF बाजार में बड़े प्रवाह और Samsung Electronics व SK Hynix की बढ़ती हिस्सेदारी ने चिप शेयरों की तेजी को सहारा दिया।",
+        "body": "Samsung Electronics और SK Hynix के शेयरों में तेज उछाल के पीछे कोरिया के ETF बाजार में धन के केंद्रीकरण को अहम कारण माना जा रहा है। Hankyung के अनुसार घरेलू ETF बाजार में लगभग 240 ट्रिलियन वॉन की राशि आई, जिसका बड़ा हिस्सा बड़े सेमीकंडक्टर शेयरों पर केंद्रित उत्पादों में गया। यह रुझान केवल सेमीकंडक्टर और टेक ETF तक सीमित नहीं है; उच्च लाभांश, वैल्यू और बॉन्ड-मिश्रित उत्पादों में भी इन दोनों कंपनियों का वजन बढ़ा है। AI के विस्तार से सेमीकंडक्टर आय में सुधार की उम्मीद और बड़े बाजार पूंजीकरण वाले शेयरों को प्राथमिकता देने वाली ETF संरचना ने इस झुकाव को बढ़ाया। लेकिन कुछ शेयरों पर अधिक निर्भरता ETF की विविधीकरण क्षमता घटा सकती है और सेमीकंडक्टर चक्र कमजोर होने पर जोखिम बढ़ा सकती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Reli Samsung dan SK Hynix Dikaitkan dengan Arus ETF, Pasar 240 Triliun Won Disorot",
+        "excerpt": "Hankyung menilai arus besar ke pasar ETF Korea dan kenaikan bobot Samsung Electronics serta SK Hynix ikut mendorong reli saham semikonduktor.",
+        "body": "Kenaikan tajam saham Samsung Electronics dan SK Hynix dikaitkan dengan konsentrasi dana di pasar ETF Korea. Menurut Hankyung, sekitar 240 triliun won mengalir ke ETF domestik, dan sebagian besar diarahkan ke produk yang berfokus pada saham semikonduktor berkapitalisasi besar. Tren ini tidak hanya terjadi pada ETF teknologi dan semikonduktor; produk dividen tinggi, value, dan campuran obligasi juga menaikkan porsi kedua saham tersebut. Ekspektasi perbaikan kinerja semikonduktor berkat penyebaran AI, serta struktur ETF yang cenderung mengikuti saham berkapitalisasi pasar besar, memperkuat konsentrasi itu. Namun, ketergantungan pada sedikit saham dapat melemahkan fungsi diversifikasi ETF dan memperbesar risiko jika siklus semikonduktor berbalik. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "df57ca4ac369",
+    "slug": "미이란-교전-소식에건설株-동반-약세-525868",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T20:43:58.605Z",
+    "updatedAt": "2026-05-08T20:43:58.605Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050833806",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050833806",
+    "titleFingerprint": "000287cb83caabc84c883049344d556729980fab",
+    "dedupKeys": [
+      "df57ca4ac369320a2a91002f91eca6e19dc48aa3",
+      "000287cb83caabc84c883049344d556729980fab",
+      "ae76f9a1a01881f84ecd6255301cb19f175dfbc8"
+    ],
+    "imageUrl": "/images/articles/df57ca4ac369.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미·이란 교전 소식에 건설주 동반 약세, 시장 불확실성 속 투자심리 위축",
+        "excerpt": "hankyung.com은 미·이란 교전 소식이 전해진 가운데 건설주가 동반 약세를 보였다고 보도했다. 지정학적 불안이 관련 업종 주가 흐름에 부담으로 작용했다.",
+        "body": "미·이란 교전 소식이 전해지면서 국내 증시에서 건설주가 동반 약세를 보였다고 hankyung.com이 보도했다. 이번 보도는 지정학적 긴장 관련 뉴스가 시장에 전해진 시점에 건설 업종 주가가 함께 밀린 흐름을 다뤘다. 원문에 제공된 핵심 정보는 미·이란 교전 소식과 건설주 약세이며, 종목별 등락률이나 구체적인 거래 수치는 제시되지 않았다. 시장에서는 대외 불확실성이 커질 때 투자심리가 위축될 수 있어 관련 업종 흐름을 확인할 필요가 있다. 출처는 hankyung.com의 ‘미·이란 교전 소식에…건설株 동반 약세’ 보도다."
+      },
+      "en": {
+        "title": "Construction Stocks Weaken Together After Reports of U.S.-Iran Clashes",
+        "excerpt": "hankyung.com reported that construction stocks moved lower together after news of U.S.-Iran clashes emerged, as geopolitical uncertainty weighed on sentiment in the sector.",
+        "body": "Construction stocks weakened together in the domestic market after reports of U.S.-Iran clashes, according to hankyung.com. The report focused on the sector’s simultaneous decline after news related to geopolitical tension reached investors. The core information provided in the original article is that reports of U.S.-Iran fighting coincided with broad weakness in construction shares. No individual stock moves, percentage changes or detailed trading figures were included in the supplied source information. When external uncertainty rises, investor sentiment can weaken, making the sector’s next moves worth monitoring. Source: hankyung.com, “Construction stocks weaken together after reports of U.S.-Iran clashes.”"
+      },
+      "ja": {
+        "title": "米・イラン交戦報道で建設株がそろって下落、地政学リスクが重荷",
+        "excerpt": "hankyung.comは、米・イラン交戦のニュースが伝わる中で建設株がそろって弱含んだと報じた。地政学的な不安が関連業種の株価に重荷となった。",
+        "body": "米・イラン交戦のニュースが伝わり、国内株式市場で建設株がそろって弱含んだとhankyung.comが報じた。今回の報道は、地政学的緊張に関するニュースが市場に伝わった時点で、建設業種の株価が同時に下押しされた流れを扱っている。原文で示された中心情報は、米・イラン交戦報道と建設株の下落であり、個別銘柄の騰落率や具体的な売買数値は提示されていない。対外不確実性が高まる局面では投資心理が冷え込む可能性があるため、関連業種の動向を確認する必要がある。出典はhankyung.comの「미·이란 교전 소식에…건설株 동반 약세」報道。"
+      },
+      "zh": {
+        "title": "美伊交战消息传出后建筑股集体走弱，地缘不确定性压制情绪",
+        "excerpt": "hankyung.com报道称，在美伊交战消息传出之际，建筑股出现集体走弱。地缘政治不安对相关行业股价走势形成压力。",
+        "body": "据hankyung.com报道，美伊交战消息传出后，国内股市中的建筑股集体走弱。该报道聚焦于地缘政治紧张相关消息进入市场后，建筑行业股票同步下跌的走势。原文提供的核心信息是美伊交战消息以及建筑股走弱，并未给出个股涨跌幅或具体交易数据。在外部不确定性升高时，投资情绪可能受到压制，因此有必要继续关注相关行业的股价表现。来源为hankyung.com题为“미·이란 교전 소식에…건설株 동반 약세”的报道。"
+      },
+      "es": {
+        "title": "Constructoras caen en bloque tras noticias de choques entre EE. UU. e Irán",
+        "excerpt": "hankyung.com informó que las acciones de construcción bajaron en conjunto tras conocerse noticias de enfrentamientos entre EE. UU. e Irán, por la presión geopolítica.",
+        "body": "Las acciones del sector de la construcción cayeron en conjunto en el mercado local después de conocerse noticias de enfrentamientos entre Estados Unidos e Irán, informó hankyung.com. La nota se centró en el retroceso simultáneo del sector tras la llegada al mercado de información vinculada a tensiones geopolíticas. La información esencial del texto original es la noticia del enfrentamiento entre EE. UU. e Irán y la debilidad de las constructoras. No se ofrecieron variaciones por empresa ni cifras concretas de negociación. Cuando aumenta la incertidumbre externa, el ánimo inversor puede verse presionado, por lo que conviene seguir el comportamiento del sector. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ações de construção recuam em bloco após notícias de confronto EUA-Irã",
+        "excerpt": "O hankyung.com informou que ações de construção recuaram em conjunto após notícias de confronto entre EUA e Irã, com a incerteza geopolítica pressionando o setor.",
+        "body": "As ações do setor de construção recuaram em conjunto no mercado local após notícias de confronto entre Estados Unidos e Irã, informou o hankyung.com. A reportagem tratou do movimento simultâneo de queda do setor depois que informações ligadas à tensão geopolítica chegaram aos investidores. O ponto central do texto original é a notícia de confronto entre EUA e Irã e a fraqueza das ações de construção. Não foram apresentados dados de variação por papel nem números específicos de negociação. Em momentos de maior incerteza externa, o sentimento dos investidores pode se deteriorar, o que torna importante acompanhar o comportamento do setor. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Bauaktien geben nach Berichten über Gefechte zwischen USA und Iran gemeinsam nach",
+        "excerpt": "hankyung.com berichtete, dass Bauaktien nach Nachrichten über Gefechte zwischen den USA und Iran gemeinsam schwächer tendierten, belastet durch geopolitische Unsicherheit.",
+        "body": "Bauaktien tendierten am heimischen Aktienmarkt gemeinsam schwächer, nachdem Nachrichten über Gefechte zwischen den USA und Iran bekannt wurden, berichtete hankyung.com. Der Bericht behandelte den gleichzeitigen Rückgang des Sektors, nachdem Meldungen zu geopolitischen Spannungen den Markt erreichten. Die zentralen Informationen des Originaltexts sind die Nachricht über die Auseinandersetzung zwischen den USA und Iran sowie die Schwäche der Bauwerte. Einzelne Kursveränderungen oder konkrete Handelszahlen wurden nicht genannt. Wenn externe Unsicherheit zunimmt, kann die Anlegerstimmung belastet werden, weshalb die weitere Entwicklung des Sektors beobachtet werden sollte. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les valeurs de construction reculent après des nouvelles de combats États-Unis-Iran",
+        "excerpt": "hankyung.com a rapporté que les valeurs de construction ont baissé de concert après des nouvelles de combats entre les États-Unis et l’Iran, sous l’effet du risque géopolitique.",
+        "body": "Les valeurs du secteur de la construction ont reculé de concert sur le marché local après la diffusion de nouvelles faisant état de combats entre les États-Unis et l’Iran, selon hankyung.com. L’article porte sur la baisse simultanée du secteur après l’arrivée sur le marché d’informations liées aux tensions géopolitiques. Les éléments essentiels fournis par le texte original sont la nouvelle des affrontements entre les États-Unis et l’Iran et la faiblesse des actions de construction. Aucun détail sur les variations par titre ni chiffre précis de négociation n’a été présenté. Lorsque l’incertitude extérieure augmente, le sentiment des investisseurs peut se dégrader, ce qui justifie de suivre l’évolution du secteur. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "أسهم البناء تتراجع جماعياً بعد أنباء اشتباك بين الولايات المتحدة وإيران",
+        "excerpt": "ذكر موقع hankyung.com أن أسهم شركات البناء تراجعت معاً بعد ورود أنباء عن اشتباك بين الولايات المتحدة وإيران، وسط ضغط من القلق الجيوسياسي.",
+        "body": "تراجعت أسهم قطاع البناء في السوق المحلية بصورة جماعية بعد ورود أنباء عن اشتباك بين الولايات المتحدة وإيران، وفق ما أفاد به موقع hankyung.com. وركز التقرير على حركة الضعف المتزامنة في القطاع بعدما وصلت إلى السوق أخبار مرتبطة بتوترات جيوسياسية. وتتمثل المعلومات الأساسية الواردة في النص الأصلي في خبر الاشتباك بين الولايات المتحدة وإيران وتراجع أسهم البناء. ولم تُعرض نسب تغير لأسهم محددة أو أرقام تداول تفصيلية. وعندما ترتفع حالة عدم اليقين الخارجي، قد يتراجع مزاج المستثمرين، ما يجعل متابعة تحركات القطاع أمراً ضرورياً. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "अमेरिका-ईरान झड़प की खबरों के बाद निर्माण शेयरों में सामूहिक कमजोरी",
+        "excerpt": "hankyung.com ने बताया कि अमेरिका-ईरान झड़प की खबरों के बीच निर्माण शेयर एक साथ कमजोर हुए। भू-राजनीतिक अनिश्चितता ने संबंधित क्षेत्र की धारणा पर दबाव डाला।",
+        "body": "अमेरिका-ईरान झड़प की खबरें सामने आने के बाद घरेलू शेयर बाजार में निर्माण क्षेत्र के शेयरों में सामूहिक कमजोरी दिखी, hankyung.com ने यह बताया। रिपोर्ट में भू-राजनीतिक तनाव से जुड़ी खबर बाजार तक पहुंचने के बाद निर्माण क्षेत्र के शेयरों के साथ-साथ नीचे आने की स्थिति को रेखांकित किया गया। मूल जानकारी में मुख्य तथ्य अमेरिका-ईरान झड़प की खबर और निर्माण शेयरों की कमजोरी है। किसी विशेष शेयर की गिरावट-दर या विस्तृत कारोबार आंकड़े उपलब्ध नहीं कराए गए। बाहरी अनिश्चितता बढ़ने पर निवेशक धारणा कमजोर हो सकती है, इसलिए इस क्षेत्र की आगे की चाल पर नजर रखना जरूरी है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham konstruksi melemah serempak usai kabar bentrokan AS-Iran",
+        "excerpt": "hankyung.com melaporkan saham konstruksi melemah bersama setelah muncul kabar bentrokan AS-Iran, saat ketidakpastian geopolitik menekan sentimen sektor terkait.",
+        "body": "Saham sektor konstruksi di pasar domestik melemah serempak setelah muncul kabar bentrokan antara Amerika Serikat dan Iran, menurut laporan hankyung.com. Berita tersebut menyoroti pergerakan turun bersama pada sektor konstruksi setelah informasi terkait ketegangan geopolitik masuk ke pasar. Informasi utama dalam sumber asli adalah kabar bentrokan AS-Iran dan pelemahan saham konstruksi. Tidak ada rincian perubahan harga per saham maupun angka transaksi spesifik yang disajikan. Ketika ketidakpastian eksternal meningkat, sentimen investor dapat tertekan, sehingga pergerakan sektor terkait perlu terus dicermati. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "c2ddfd2783ee",
+    "slug": "한울반도체mds테크-액면병합-후-첫날-상한가-390928",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T20:42:56.677Z",
+    "updatedAt": "2026-05-08T20:42:56.677Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050834296",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050834296",
+    "titleFingerprint": "117b990699d1026dbadb0f682adfb11386a73793",
+    "dedupKeys": [
+      "c2ddfd2783ee0725238354ecafcc530d9a5017ec",
+      "117b990699d1026dbadb0f682adfb11386a73793",
+      "d5820d43a26be5db943adf7e664ffed9430a492e"
+    ],
+    "imageUrl": "/images/articles/c2ddfd2783ee.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한울반도체·MDS테크, 액면병합 후 첫 거래일 나란히 상한가",
+        "excerpt": "한울반도체와 MDS테크가 액면병합 이후 첫 거래일에 가격제한폭까지 오르며 거래를 재개했다. 투자자 관심은 병합 뒤 주가 흐름에 모였다.",
+        "body": "한울반도체와 MDS테크가 액면병합을 거친 뒤 첫 거래일에 나란히 상한가를 기록했다. 액면병합은 여러 주식을 합쳐 주당 액면가를 높이는 절차로, 거래 재개 첫날의 가격 흐름이 시장의 주목을 받았다. 두 종목은 병합 이후 새 기준으로 거래가 이뤄졌고, 첫날부터 가격제한폭까지 상승했다. 이번 움직임은 액면병합 후 재개되는 종목의 초기 수급과 투자심리를 확인하는 사례로 평가된다. 다만 제공된 원문에는 병합 비율, 기준가, 거래대금 등 세부 수치는 포함되지 않았다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Hanul Semiconductor and MDS Tech Hit Limit Up on First Day After Reverse Split",
+        "excerpt": "Hanul Semiconductor and MDS Tech resumed trading after their reverse stock splits and climbed to the daily upper price limit on the first trading day.",
+        "body": "Hanul Semiconductor and MDS Tech both hit the daily upper price limit on their first trading day after completing reverse stock splits. A reverse stock split combines multiple shares into one and raises the par value per share, making the first post-split trading session a focus for investors. The two stocks resumed trading under their new post-split structure and rose to the limit from the first day. The move highlights early supply-demand conditions and investor sentiment after the reverse splits. The provided source did not include details such as split ratios, base prices or trading value. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ハンウル半導体とMDSテック、株式併合後の初取引日にそろってストップ高",
+        "excerpt": "ハンウル半導体とMDSテックは株式併合後の初取引日に売買を再開し、そろって値幅制限いっぱいまで上昇した。",
+        "body": "ハンウル半導体とMDSテックは、株式併合を経た後の初取引日にそろってストップ高を記録した。株式併合は複数の株式をまとめ、1株当たりの額面を引き上げる手続きで、取引再開初日の価格動向が市場の注目を集めた。両銘柄は併合後の新たな基準で取引され、初日から値幅制限いっぱいまで上昇した。今回の動きは、株式併合後に再開される銘柄の初期需給と投資家心理を確認する事例とみられる。ただし、提供された原文には併合比率、基準価格、売買代金などの詳細数値は含まれていない。出所: hankyung.com."
+      },
+      "zh": {
+        "title": "Hanul Semiconductor与MDS Tech并股后首个交易日双双涨停",
+        "excerpt": "Hanul Semiconductor和MDS Tech在并股后首个交易日恢复交易，股价双双升至每日涨停板，市场关注并股后的走势。",
+        "body": "Hanul Semiconductor和MDS Tech在完成并股后的首个交易日双双涨停。并股是将多股合并为一股、提高每股面值的程序，因此复牌首日的价格走势受到市场关注。两只股票在并股后的新基准下恢复交易，并在首日升至每日价格上限。此次表现显示，市场正在观察并股后复牌股票的初期供需和投资者情绪。不过，所提供的原文未包含并股比例、基准价、成交额等具体数据。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Hanul Semiconductor y MDS Tech llegan al límite alcista tras contrasplit",
+        "excerpt": "Hanul Semiconductor y MDS Tech reanudaron su cotización tras un contrasplit y subieron hasta el límite diario en su primer día de negociación.",
+        "body": "Hanul Semiconductor y MDS Tech alcanzaron el límite diario de subida en su primer día de negociación tras completar un contrasplit. Un contrasplit combina varias acciones en una sola y eleva el valor nominal por acción, por lo que la primera sesión posterior a la operación atrajo la atención del mercado. Ambos valores volvieron a cotizar bajo la nueva estructura posterior al ajuste y subieron hasta el máximo permitido desde el primer día. El movimiento sirve para observar la oferta, la demanda y el ánimo inversor inicial tras el contrasplit. La fuente proporcionada no incluye datos como la proporción del ajuste, el precio base o el valor negociado. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Hanul Semiconductor e MDS Tech sobem ao limite após grupamento de ações",
+        "excerpt": "Hanul Semiconductor e MDS Tech retomaram os negócios após grupamento de ações e atingiram o limite diário de alta no primeiro pregão.",
+        "body": "Hanul Semiconductor e MDS Tech atingiram o limite diário de alta no primeiro pregão após concluírem um grupamento de ações. O grupamento reúne várias ações em uma só e eleva o valor nominal por ação, tornando o primeiro dia de negociação após a operação um ponto de atenção para o mercado. As duas ações voltaram a ser negociadas sob a nova estrutura pós-grupamento e subiram até o limite permitido já no primeiro dia. O movimento ajuda a observar a oferta, a demanda e o sentimento inicial dos investidores após o grupamento. A fonte fornecida não traz detalhes como proporção do grupamento, preço-base ou volume financeiro negociado. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Hanul Semiconductor und MDS Tech nach Aktienzusammenlegung am Limit",
+        "excerpt": "Hanul Semiconductor und MDS Tech nahmen nach ihrer Aktienzusammenlegung den Handel wieder auf und stiegen am ersten Handelstag bis zum Tageslimit.",
+        "body": "Hanul Semiconductor und MDS Tech erreichten am ersten Handelstag nach einer Aktienzusammenlegung jeweils das obere Tageslimit. Bei einer solchen Zusammenlegung werden mehrere Aktien zu einer Aktie gebündelt und der Nennwert je Aktie erhöht, weshalb die erste Sitzung nach Wiederaufnahme des Handels im Fokus stand. Beide Titel wurden unter der neuen Struktur nach der Zusammenlegung gehandelt und stiegen bereits am ersten Tag bis zur zulässigen Obergrenze. Die Bewegung zeigt die frühe Angebots- und Nachfragesituation sowie die Anlegerstimmung nach der Maßnahme. Die bereitgestellte Quelle enthielt keine Details wie Zusammenlegungsverhältnis, Basispreis oder Handelswert. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Hanul Semiconductor et MDS Tech au plafond après regroupement d’actions",
+        "excerpt": "Hanul Semiconductor et MDS Tech ont repris leur cotation après un regroupement d’actions et atteint la limite quotidienne de hausse dès le premier jour.",
+        "body": "Hanul Semiconductor et MDS Tech ont toutes deux atteint la limite quotidienne de hausse lors de leur premier jour de cotation après un regroupement d’actions. Cette opération consiste à regrouper plusieurs actions en une seule et à relever la valeur nominale par action, ce qui a placé la première séance post-opération sous surveillance du marché. Les deux titres ont repris les échanges selon leur nouvelle structure et ont progressé jusqu’au plafond autorisé dès le premier jour. Ce mouvement permet d’observer l’offre, la demande et le sentiment initial des investisseurs après le regroupement. La source fournie ne précise pas le ratio de regroupement, le prix de référence ni la valeur échangée. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "هانول لأشباه الموصلات وMDS Tech يبلغان الحد الأعلى بعد تجميع الأسهم",
+        "excerpt": "استأنفت هانول لأشباه الموصلات وMDS Tech التداول بعد تجميع الأسهم، وارتفع السهمان إلى الحد الأقصى اليومي في أول جلسة.",
+        "body": "سجلت هانول لأشباه الموصلات وMDS Tech الحد الأقصى اليومي للارتفاع في أول يوم تداول بعد إتمام تجميع الأسهم. ويعني تجميع الأسهم دمج عدة أسهم في سهم واحد مع رفع القيمة الاسمية للسهم، لذلك حظيت حركة السعر في أول جلسة بعد الاستئناف باهتمام السوق. وتم تداول السهمين وفق الهيكل الجديد بعد التجميع، وصعدا منذ اليوم الأول إلى الحد السعري المسموح. وتبرز هذه الحركة حالة العرض والطلب الأولية ومعنويات المستثمرين بعد التجميع. ولم تتضمن المادة الأصلية المقدمة تفاصيل مثل نسبة التجميع أو السعر المرجعي أو قيمة التداول. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Hanul Semiconductor और MDS Tech रिवर्स स्प्लिट के बाद पहले दिन अपर लिमिट पर",
+        "excerpt": "Hanul Semiconductor और MDS Tech ने रिवर्स स्टॉक स्प्लिट के बाद पहले कारोबारी दिन ट्रेडिंग फिर शुरू की और दोनों शेयर दैनिक ऊपरी सीमा तक चढ़े।",
+        "body": "Hanul Semiconductor और MDS Tech ने रिवर्स स्टॉक स्प्लिट पूरा करने के बाद पहले कारोबारी दिन दैनिक ऊपरी मूल्य सीमा को छू लिया। रिवर्स स्टॉक स्प्लिट में कई शेयरों को मिलाकर एक शेयर बनाया जाता है और प्रति शेयर अंकित मूल्य बढ़ता है, इसलिए स्प्लिट के बाद पहला कारोबारी सत्र बाजार के ध्यान में रहा। दोनों शेयर नए पोस्ट-स्प्लिट ढांचे के तहत कारोबार में लौटे और पहले ही दिन सीमा तक चढ़ गए। यह गतिविधि स्प्लिट के बाद शुरुआती मांग-आपूर्ति और निवेशक भावना को देखने का मामला है। उपलब्ध मूल स्रोत में स्प्लिट अनुपात, आधार मूल्य या कारोबार मूल्य जैसे विस्तृत आंकड़े शामिल नहीं थे। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Hanul Semiconductor dan MDS Tech Sentuh ARA Usai Reverse Stock Split",
+        "excerpt": "Hanul Semiconductor dan MDS Tech kembali diperdagangkan setelah reverse stock split dan naik hingga batas atas harian pada hari pertama perdagangan.",
+        "body": "Hanul Semiconductor dan MDS Tech sama-sama mencapai batas atas harian pada hari pertama perdagangan setelah menyelesaikan reverse stock split. Reverse stock split menggabungkan beberapa saham menjadi satu dan menaikkan nilai nominal per saham, sehingga pergerakan harga pada hari pertama setelah perdagangan dibuka kembali menjadi perhatian pasar. Kedua saham diperdagangkan dengan struktur baru setelah penggabungan dan langsung naik hingga batas harga yang diizinkan. Pergerakan ini menjadi contoh untuk melihat kondisi awal permintaan, penawaran, dan sentimen investor setelah reverse stock split. Sumber yang diberikan tidak memuat rincian seperti rasio penggabungan, harga dasar, atau nilai transaksi. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "c34c37b44d54",
     "slug": "hd한국조선해양-분석-구조적인-수익성-개선환율수주환경-변화가-변수-966248",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Kospi Dekati 7.500, Beli Pakai Utang dan Short Selling Cetak Rekor",
         "excerpt": "Saat Kospi mendekati 7.500 dan melanjutkan rekor tertinggi, dana untuk beli saham memakai utang dan short selling sama-sama membengkak ke skala terbesar.",
         "body": "Kospi telah melonjak hingga tepat di bawah level 7.500 dan terus bergerak di jalur rekor tertinggi, sementara dana di sekitar pasar saham membesar ke skala rekor dari sisi beli maupun jual. Dana investor yang ingin ikut dalam pasar bullish melalui pembelian dengan utang meningkat, dan short selling yang bertaruh pada penurunan harga saham juga meluas. Saat indeks bertahan di area tinggi, kenaikan bersamaan antara pembelian berleverage dan short selling membuat perhatian terhadap potensi volatilitas pasar ke depan ikut meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7b5d57fbd76e",
-    "slug": "비트코인-전시경제서-각광-내년-다시-상승기-들어갈것-263467",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T08:50:13.910Z",
-    "updatedAt": "2026-05-08T08:50:13.910Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041342",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041342",
-    "titleFingerprint": "9b55ca84f2b87d30fe49a0b6c4c403eab5f33aec",
-    "dedupKeys": [
-      "7b5d57fbd76e807597a9df7efb0c563be4d69280",
-      "9b55ca84f2b87d30fe49a0b6c4c403eab5f33aec",
-      "59154126509aadcea3c53dab657de21e071aa98d"
-    ],
-    "imageUrl": "/images/articles/7b5d57fbd76e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "비트코인 전망, 지정학적 불확실성 속 내년 재상승 가능성 주목",
-        "excerpt": "중동과 우크라이나 등 세계 곳곳의 지정학적 불확실성으로 글로벌 유동성 확대가 예상되는 가운데 비트코인이 내년 다시 상승기에 들어갈 수 있다는 전망이 나왔다.",
-        "body": "중동과 우크라이나 등 세계 각지에서 지정학적 불확실성이 이어지는 가운데, 비트코인 가격이 내년 다시 상승기에 접어들 수 있다는 전망이 제기됐다. 원문에 따르면 글로벌 유동성이 커질 것으로 예상되는 환경에서 비트코인이 전시경제 국면에서 주목받고 있다는 분석이다. 백훈종 스매시파이 대표는 이 같은 흐름 속에서 비트코인 시장의 재상승 가능성을 언급했다. 다만 원문에 구체적인 가격 목표나 시점별 수치는 제시되지 않았다. 투자자들은 지정학적 리스크와 유동성 변화가 가상자산 시장에 미칠 영향을 주시할 것으로 보인다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Bitcoin Outlook Draws Focus as Geopolitical Uncertainty May Lift Liquidity",
-        "excerpt": "Amid geopolitical uncertainty in the Middle East, Ukraine and other regions, a forecast says Bitcoin could enter another upward phase next year as global liquidity expands.",
-        "body": "As geopolitical uncertainty continues across the Middle East, Ukraine and other parts of the world, a view has emerged that Bitcoin prices could enter another upward phase next year. According to the original report, Bitcoin is gaining attention in a wartime-economy environment where global liquidity is expected to increase. Baek Hoon-jong, head of SmashFi, mentioned the possibility of a renewed rise in the Bitcoin market under these conditions. The source did not provide a specific price target or detailed timeline figures. Investors are expected to watch how geopolitical risks and liquidity changes affect the virtual asset market. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "ビットコイン見通し、地政学的不確実性で来年再上昇に注目",
-        "excerpt": "中東やウクライナなど世界各地の地政学的不確実性でグローバル流動性の拡大が見込まれる中、ビットコインが来年再び上昇局面に入る可能性が示された。",
-        "body": "中東やウクライナなど世界各地で地政学的不確実性が続く中、ビットコイン価格が来年再び上昇局面に入る可能性があるとの見方が示された。原文によると、グローバル流動性の拡大が予想される環境で、ビットコインは戦時経済の局面において注目されているという。スマッシュファイのペク・フンジョン代表は、こうした流れの中でビットコイン市場の再上昇の可能性に言及した。ただし原文では具体的な価格目標や時期別の数値は提示されていない。投資家は地政学リスクと流動性の変化が暗号資産市場に及ぼす影響を注視するとみられる。出典: mk.co.kr 引用。"
-      },
-      "zh": {
-        "title": "比特币前景受关注，地缘不确定性下明年或再入升势",
-        "excerpt": "在中东、乌克兰等全球多地地缘政治不确定性推高全球流动性预期之际，有观点认为比特币明年可能再次进入上涨周期。",
-        "body": "在中东、乌克兰等全球多地地缘政治不确定性持续的背景下，有观点认为比特币价格明年可能再次进入上涨阶段。据原文报道，在全球流动性预计扩大的环境中，比特币正因战时经济局面而受到关注。SmashFi负责人白勋钟提到，在这一趋势下，比特币市场存在重新上涨的可能。不过，原文并未给出具体价格目标或按时间划分的数据。投资者预计将关注地缘政治风险和流动性变化对虚拟资产市场的影响。来源：引用 mk.co.kr。"
-      },
-      "es": {
-        "title": "Bitcoin gana atención por incertidumbre geopolítica y posible alza en 2027",
-        "excerpt": "Con la incertidumbre geopolítica en Oriente Medio, Ucrania y otras regiones, una previsión apunta a que Bitcoin podría volver a una fase alcista el próximo año por mayor liquidez global.",
-        "body": "Mientras continúa la incertidumbre geopolítica en Oriente Medio, Ucrania y otras partes del mundo, surgió una previsión de que el precio de Bitcoin podría volver a una fase alcista el próximo año. Según el texto original, Bitcoin está recibiendo atención en un entorno de economía de guerra en el que se espera un aumento de la liquidez global. Baek Hoon-jong, director de SmashFi, mencionó la posibilidad de una nueva subida del mercado de Bitcoin bajo estas condiciones. Sin embargo, la fuente no presentó un objetivo de precio concreto ni cifras por periodo. Los inversores seguirán observando cómo los riesgos geopolíticos y los cambios de liquidez afectan al mercado de activos virtuales. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Bitcoin em foco com incerteza geopolítica e possível alta no próximo ano",
-        "excerpt": "Com incertezas geopolíticas no Oriente Médio, na Ucrânia e em outras regiões, uma previsão aponta que o Bitcoin pode voltar a um ciclo de alta no próximo ano com maior liquidez global.",
-        "body": "Com a continuidade das incertezas geopolíticas no Oriente Médio, na Ucrânia e em outras partes do mundo, surgiu a avaliação de que o preço do Bitcoin pode voltar a uma fase de alta no próximo ano. Segundo o texto original, o Bitcoin vem ganhando atenção em um ambiente de economia de guerra no qual se espera expansão da liquidez global. Baek Hoon-jong, diretor da SmashFi, mencionou a possibilidade de uma nova alta no mercado de Bitcoin nessas condições. A fonte, porém, não apresentou meta específica de preço nem números por período. Investidores devem acompanhar os efeitos dos riscos geopolíticos e das mudanças de liquidez sobre o mercado de ativos virtuais. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Bitcoin-Ausblick rückt wegen geopolitischer Unsicherheit wieder in den Fokus",
-        "excerpt": "Angesichts geopolitischer Unsicherheit im Nahen Osten, in der Ukraine und weiteren Regionen wird erwartet, dass höhere globale Liquidität Bitcoin im kommenden Jahr erneut Auftrieb geben könnte.",
-        "body": "Während die geopolitische Unsicherheit im Nahen Osten, in der Ukraine und in weiteren Teilen der Welt anhält, gibt es die Einschätzung, dass der Bitcoin-Preis im kommenden Jahr wieder in eine Aufwärtsphase eintreten könnte. Dem Originalbericht zufolge gewinnt Bitcoin in einem Umfeld der Kriegswirtschaft an Aufmerksamkeit, in dem eine Ausweitung der globalen Liquidität erwartet wird. Baek Hoon-jong, Leiter von SmashFi, verwies unter diesen Bedingungen auf die Möglichkeit eines erneuten Anstiegs am Bitcoin-Markt. Konkrete Kursziele oder zeitlich aufgeschlüsselte Zahlen nennt die Quelle nicht. Anleger dürften beobachten, wie geopolitische Risiken und Liquiditätsveränderungen den Markt für virtuelle Vermögenswerte beeinflussen. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Bitcoin scruté avec l’incertitude géopolitique et un possible rebond en 2027",
-        "excerpt": "Face aux incertitudes géopolitiques au Moyen-Orient, en Ukraine et ailleurs, une analyse estime que Bitcoin pourrait retrouver une phase haussière l’an prochain avec l’augmentation attendue de la liquidité mondiale.",
-        "body": "Alors que les incertitudes géopolitiques se poursuivent au Moyen-Orient, en Ukraine et dans d’autres régions du monde, une prévision estime que le prix du Bitcoin pourrait entrer à nouveau dans une phase haussière l’an prochain. Selon le texte original, Bitcoin attire l’attention dans un contexte d’économie de guerre où la liquidité mondiale devrait augmenter. Baek Hoon-jong, dirigeant de SmashFi, a évoqué la possibilité d’une reprise du marché du Bitcoin dans ces conditions. La source ne fournit toutefois aucun objectif de prix précis ni chiffres détaillés par période. Les investisseurs devraient suivre l’effet des risques géopolitiques et des variations de liquidité sur le marché des actifs virtuels. Source: cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "توقعات بيتكوين تحت الضوء مع عدم اليقين الجيوسياسي واحتمال صعود جديد",
-        "excerpt": "مع استمرار عدم اليقين الجيوسياسي في الشرق الأوسط وأوكرانيا ومناطق أخرى، ظهرت توقعات بأن بيتكوين قد تدخل مرحلة صعود جديدة العام المقبل مع اتساع السيولة العالمية.",
-        "body": "مع استمرار عدم اليقين الجيوسياسي في الشرق الأوسط وأوكرانيا ومناطق مختلفة من العالم، برزت توقعات بأن سعر بيتكوين قد يدخل مرحلة صعود جديدة في العام المقبل. وبحسب النص الأصلي، تحظى بيتكوين باهتمام في بيئة اقتصاد الحرب، حيث يُتوقع أن تتوسع السيولة العالمية. وذكر بايك هون جونغ، رئيس SmashFi، إمكانية عودة سوق بيتكوين إلى الارتفاع في ظل هذه الظروف. ولم يورد المصدر هدفا سعريا محددا أو أرقاما تفصيلية بحسب الفترات الزمنية. ومن المتوقع أن يراقب المستثمرون تأثير المخاطر الجيوسياسية وتغيرات السيولة في سوق الأصول الافتراضية. المصدر: نقلا عن mk.co.kr."
-      },
-      "hi": {
-        "title": "भू-राजनीतिक अनिश्चितता के बीच बिटकॉइन पर नजर, अगले साल तेजी की संभावना",
-        "excerpt": "मध्य पूर्व, यूक्रेन और अन्य क्षेत्रों में भू-राजनीतिक अनिश्चितता के बीच वैश्विक तरलता बढ़ने की उम्मीद है, और एक अनुमान के अनुसार बिटकॉइन अगले साल फिर तेजी के चरण में जा सकता है।",
-        "body": "मध्य पूर्व, यूक्रेन और दुनिया के अन्य हिस्सों में भू-राजनीतिक अनिश्चितता जारी रहने के बीच यह अनुमान सामने आया है कि बिटकॉइन की कीमत अगले साल फिर तेजी के चरण में प्रवेश कर सकती है। मूल रिपोर्ट के अनुसार, वैश्विक तरलता बढ़ने की अपेक्षा वाले माहौल में बिटकॉइन युद्धकालीन अर्थव्यवस्था के संदर्भ में ध्यान खींच रहा है। SmashFi के प्रमुख बैक हून-जोंग ने इन परिस्थितियों में बिटकॉइन बाजार में फिर उछाल की संभावना का उल्लेख किया। हालांकि स्रोत में कोई विशिष्ट मूल्य लक्ष्य या समयवार आंकड़े नहीं दिए गए हैं। निवेशक यह देखेंगे कि भू-राजनीतिक जोखिम और तरलता में बदलाव वर्चुअल एसेट बाजार को कैसे प्रभावित करते हैं। स्रोत: mk.co.kr से उद्धृत।"
-      },
-      "id": {
-        "title": "Prospek Bitcoin Disorot Saat Ketidakpastian Geopolitik Bisa Picu Kenaikan",
-        "excerpt": "Di tengah ketidakpastian geopolitik di Timur Tengah, Ukraina, dan wilayah lain, muncul perkiraan bahwa Bitcoin dapat kembali memasuki fase kenaikan tahun depan seiring potensi peningkatan likuiditas global.",
-        "body": "Di tengah berlanjutnya ketidakpastian geopolitik di Timur Tengah, Ukraina, dan berbagai wilayah dunia, muncul pandangan bahwa harga Bitcoin dapat kembali memasuki fase kenaikan tahun depan. Menurut naskah asli, Bitcoin mendapat perhatian dalam situasi ekonomi masa perang ketika likuiditas global diperkirakan meningkat. Baek Hoon-jong, pemimpin SmashFi, menyebut kemungkinan kenaikan kembali pasar Bitcoin dalam kondisi tersebut. Namun, sumber tidak menyajikan target harga tertentu ataupun angka rinci berdasarkan periode waktu. Investor diperkirakan akan mencermati dampak risiko geopolitik dan perubahan likuiditas terhadap pasar aset virtual. Sumber: dikutip dari mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "ac5f4be334cc",
-    "slug": "10억-전후-서울-아파트-산다면-초등학생-많은-대단지-노려라-258059",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T08:49:10.981Z",
-    "updatedAt": "2026-05-08T08:49:10.981Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041343",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041343",
-    "titleFingerprint": "1382994b3553c99673c7877cd2bd1bdf32675d3c",
-    "dedupKeys": [
-      "ac5f4be334ccdc1eb58527ee802a132130560ce2",
-      "1382994b3553c99673c7877cd2bd1bdf32675d3c",
-      "661fad54ccfd396116ed3417a7a07ef8cfe0fab0"
-    ],
-    "imageUrl": "/images/articles/ac5f4be334cc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울 10억 전후 아파트 선택법, 초등학생 많은 대단지가 주목받는 이유",
-        "excerpt": "mk.co.kr 보도에 따르면 서울에서 10억 전후 중저가 아파트를 산다면 실거주 가치가 강한 시장 특성상 초등학생이 많은 대단지를 우선 살펴볼 필요가 있다.",
-        "body": "서울에서 10억 전후 아파트를 찾는 매수자라면 초등학생이 많은 대단지에 주목하라는 조언이 나왔다. mk.co.kr은 서울 지역 중저가 아파트가 실거주 가치가 강한 시장이라고 전했다. 기사에서는 이를 지붕이 있는 시장으로 설명하며, 가격 상승 여력이 상대적으로 제한적이라는 뜻이라고 했다. 따라서 같은 가격대라면 투자 가치가 그래도 있는 단지를 고르는 것이 중요하다는 취지다. 특히 초등학생이 많은 대단지는 실거주 수요를 확인할 수 있는 기준으로 제시됐다. 향후 매수자는 가격만 보기보다 단지 규모와 실제 거주 수요를 함께 살펴볼 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Seoul Apartments Near 1 Billion Won: Why Large Complexes With Many Pupils Stand Out",
-        "excerpt": "According to mk.co.kr, buyers seeking mid- to lower-priced Seoul apartments near 1 billion won should focus on large complexes with many elementary school students.",
-        "body": "Buyers looking for apartments in Seoul priced around 1 billion won are being advised to pay attention to large complexes with many elementary school students. mk.co.kr reported that Seoul’s mid- to lower-priced apartment market is strongly driven by real residential value. The article described it as a market with a roof, meaning its upside potential is relatively limited. For that reason, when prices are similar, choosing a complex that still has investment value matters. Large complexes with many elementary school students were presented as a signal of real end-user demand. Buyers may therefore need to compare not only price but also complex size and actual residential demand. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ソウル10億ウォン前後のマンション、児童が多い大規模団地に注目",
-        "excerpt": "mk.co.krによると、ソウルで10億ウォン前後の中低価格マンションを買うなら、実需が強い市場特性を踏まえ児童が多い大規模団地を確認する必要がある。",
-        "body": "ソウルで10億ウォン前後のマンションを探す買い手には、小学生が多い大規模団地に注目すべきだとの助言が出ている。mk.co.krは、ソウルの中低価格マンションは実居住価値が強い市場だと伝えた。記事ではこれを屋根のある市場と説明し、価格の上昇余地が相対的に限られるという意味だとした。そのため同じ価格帯なら、なお投資価値のある団地を選ぶことが重要だという趣旨だ。小学生が多い大規模団地は、実需を確認できる基準として示された。今後の買い手は価格だけでなく、団地規模と実際の居住需要をあわせて見る必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "首尔约10亿韩元公寓怎么选？小学生多的大型小区受关注",
-        "excerpt": "据mk.co.kr报道，在首尔购买约10亿韩元的中低价公寓时，考虑到自住价值较强，应优先关注小学生较多的大型小区。",
-        "body": "在首尔寻找约10亿韩元公寓的买家，被建议关注小学生较多的大型小区。mk.co.kr报道称，首尔中低价公寓市场具有较强的自住价值。报道将其称为有天花板的市场，意思是价格上涨空间相对有限。因此，在相同价格区间内，选择仍具一定投资价值的小区较为重要。小学生较多的大型小区被提出为判断实际居住需求的一个标准。今后买家不宜只看价格，还需要同时考察小区规模和真实自住需求。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Apartamentos en Seúl cerca de 1.000 millones de wones: por qué mirar grandes complejos",
-        "excerpt": "Según mk.co.kr, quienes compren apartamentos de precio medio-bajo en Seúl cerca de 1.000 millones de wones deberían fijarse en grandes complejos con muchos alumnos de primaria.",
-        "body": "A los compradores que buscan apartamentos en Seúl por alrededor de 1.000 millones de wones se les recomienda prestar atención a los grandes complejos con muchos alumnos de primaria. mk.co.kr informó que el mercado de apartamentos de precio medio-bajo en Seúl está fuertemente ligado al valor de residencia real. El artículo lo describió como un mercado con techo, es decir, con un margen de subida relativamente limitado. Por eso, si el precio es similar, resulta importante elegir un complejo que todavía conserve valor de inversión. Los grandes complejos con muchos estudiantes de primaria se presentaron como una señal de demanda residencial efectiva. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Apartamentos em Seul perto de 1 bilhão de won: grandes condomínios ganham atenção",
-        "excerpt": "Segundo o mk.co.kr, quem busca apartamentos de preço médio-baixo em Seul perto de 1 bilhão de won deve observar grandes condomínios com muitos alunos do ensino fundamental.",
-        "body": "Compradores que procuram apartamentos em Seul na faixa de 1 bilhão de won receberam a orientação de observar grandes condomínios com muitos alunos do ensino fundamental. O mk.co.kr informou que o mercado de apartamentos de preço médio-baixo em Seul tem forte valor de moradia real. A reportagem descreveu esse mercado como tendo um teto, o que significa potencial de alta relativamente limitado. Por isso, quando os preços são semelhantes, importa escolher um condomínio que ainda tenha algum valor de investimento. Grandes condomínios com muitos estudantes foram citados como indicador de demanda residencial real. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Seoul-Wohnungen um 1 Milliarde Won: Warum große Anlagen mit vielen Schulkindern zählen",
-        "excerpt": "Laut mk.co.kr sollten Käufer mittel- bis niedrigpreisiger Wohnungen in Seoul um 1 Milliarde Won wegen der starken Eigennachfrage große Anlagen mit vielen Grundschülern prüfen.",
-        "body": "Käufern, die in Seoul Wohnungen für rund 1 Milliarde Won suchen, wird geraten, auf große Wohnanlagen mit vielen Grundschülern zu achten. mk.co.kr berichtete, dass der mittel- bis niedrigpreisige Wohnungsmarkt in Seoul stark vom realen Wohnwert geprägt ist. Der Artikel beschrieb ihn als Markt mit Dach, also mit relativ begrenztem Aufwärtspotenzial. Deshalb sei es bei ähnlichen Preisen wichtig, eine Anlage zu wählen, die dennoch Investitionswert besitzt. Große Anlagen mit vielen Grundschülern wurden als Hinweis auf tatsächliche Wohnnachfrage genannt. Käufer sollten daher neben dem Preis auch Anlagengröße und reale Nachfrage prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Appartements à Séoul autour de 1 milliard de wons : les grands ensembles à surveiller",
-        "excerpt": "Selon mk.co.kr, les acheteurs d’appartements de prix moyen-bas à Séoul autour de 1 milliard de wons devraient cibler les grands ensembles comptant beaucoup d’écoliers.",
-        "body": "Les acheteurs qui cherchent un appartement à Séoul autour de 1 milliard de wons sont invités à regarder les grands ensembles où les élèves du primaire sont nombreux. mk.co.kr indique que le marché des appartements de prix moyen-bas à Séoul repose fortement sur la valeur d’usage résidentiel. L’article le décrit comme un marché avec un toit, c’est-à-dire avec un potentiel de hausse relativement limité. Dès lors, à prix comparable, il devient important de choisir un ensemble qui conserve tout de même une valeur d’investissement. Les grands ensembles comptant beaucoup d’écoliers sont présentés comme un indicateur de demande réelle d’occupation. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "شقق سيول قرب مليار وون: لماذا تبرز المجمعات الكبيرة كثيرة طلاب الابتدائي",
-        "excerpt": "بحسب mk.co.kr، على من يشتري شقة متوسطة أو منخفضة السعر في سيول قرب مليار وون أن يراجع المجمعات الكبيرة التي تضم عددا كبيرا من طلاب الابتدائي.",
-        "body": "ينصح المشترون الباحثون عن شقق في سيول بسعر يقارب مليار وون بالتركيز على المجمعات الكبيرة التي تضم عددا كبيرا من طلاب المرحلة الابتدائية. وذكرت mk.co.kr أن سوق الشقق المتوسطة والمنخفضة السعر في سيول يتميز بقيمة سكنية فعلية قوية. ووصف التقرير هذا السوق بأنه ذو سقف، أي إن مجال ارتفاع الأسعار فيه محدود نسبيا. لذلك، عند تساوي الأسعار، يصبح اختيار مجمع لا يزال يملك قيمة استثمارية أمرا مهما. وقدمت المجمعات الكبيرة ذات العدد الكبير من طلاب الابتدائي كمؤشر على الطلب السكني الحقيقي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सियोल में 1 अरब वॉन के आसपास अपार्टमेंट: अधिक प्राथमिक छात्रों वाले बड़े कॉम्प्लेक्स पर ध्यान",
-        "excerpt": "mk.co.kr के अनुसार, सियोल में करीब 1 अरब वॉन के मध्यम-निम्न कीमत वाले अपार्टमेंट खरीदते समय अधिक प्राथमिक छात्रों वाले बड़े कॉम्प्लेक्स को देखना जरूरी है।",
-        "body": "सियोल में करीब 1 अरब वॉन के अपार्टमेंट खोज रहे खरीदारों को अधिक प्राथमिक स्कूल छात्रों वाले बड़े कॉम्प्लेक्स पर ध्यान देने की सलाह दी गई है। mk.co.kr ने बताया कि सियोल का मध्यम-निम्न कीमत वाला अपार्टमेंट बाजार वास्तविक निवास मूल्य से मजबूत रूप से जुड़ा है। रिपोर्ट ने इसे छत वाला बाजार कहा, जिसका अर्थ है कि कीमतों में बढ़त की गुंजाइश अपेक्षाकृत सीमित है। इसलिए समान कीमत पर ऐसा कॉम्प्लेक्स चुनना महत्वपूर्ण है जिसमें फिर भी निवेश मूल्य हो। अधिक प्राथमिक छात्रों वाले बड़े कॉम्प्लेक्स को वास्तविक रहने की मांग का संकेत माना गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Apartemen Seoul Sekitar 1 Miliar Won: Kompleks Besar dengan Banyak Murid Jadi Fokus",
-        "excerpt": "Menurut mk.co.kr, pembeli apartemen kelas menengah-bawah di Seoul sekitar 1 miliar won perlu mencermati kompleks besar dengan banyak murid SD karena kuatnya nilai hunian.",
-        "body": "Pembeli yang mencari apartemen di Seoul dengan harga sekitar 1 miliar won disarankan memperhatikan kompleks besar yang memiliki banyak murid sekolah dasar. mk.co.kr melaporkan bahwa pasar apartemen menengah-bawah di Seoul kuat ditopang nilai hunian nyata. Artikel itu menyebutnya sebagai pasar yang memiliki atap, artinya ruang kenaikan harga relatif terbatas. Karena itu, jika harganya sama, penting memilih kompleks yang masih memiliki nilai investasi. Kompleks besar dengan banyak murid SD disajikan sebagai tanda adanya permintaan hunian riil. Pembeli perlu menilai bukan hanya harga, tetapi juga skala kompleks dan kebutuhan tinggal sebenarnya. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "413c1efa55ba",
-    "slug": "ai-사이클-당분간-더-간다미국-성장종목-더-담아라-896745",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T08:48:05.178Z",
-    "updatedAt": "2026-05-08T08:48:05.178Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041344",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041344",
-    "titleFingerprint": "72a6b7c289084d9169f04a0f2adb4cf35395d743",
-    "dedupKeys": [
-      "413c1efa55bacb83bd8a47d36f79a29df8d9300b",
-      "72a6b7c289084d9169f04a0f2adb4cf35395d743",
-      "ce6c7045692f64479f98873d594ed22101c94f2f"
-    ],
-    "imageUrl": "/images/articles/413c1efa55ba.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 사이클 최소 내년까지 지속 전망, 미국 성장종목 비중 확대 주목",
-        "excerpt": "증시 전문가는 글로벌 증시 상승 동력인 인공지능(AI) 사이클이 최소 내년까지 이어질 수 있다며 미국 성장종목을 더 담을 필요가 있다고 전망했다.",
-        "body": "글로벌 증시의 상승 동력으로 꼽히는 인공지능(AI) 사이클이 최소 내년까지 이어질 것이라는 증시 전문가의 전망이 나왔다. 해당 전문가는 AI 기술력과 투자, 소비시장 규모에서 미국이 압도적인 위치를 보이고 있다는 점을 근거로 미국 성장종목에 대한 관심을 높일 필요가 있다고 봤다. AI 관련 흐름이 당분간 증시의 핵심 변수로 남을 수 있다는 진단이다. 이에 따라 투자자들은 AI 기술 경쟁력과 시장 규모가 큰 미국 성장주를 포트폴리오에 더 담는 전략을 검토할 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI Cycle Seen Lasting at Least Into Next Year, U.S. Growth Stocks in Focus",
-        "excerpt": "A market expert said the AI cycle driving global equities may continue at least through next year, pointing to U.S. strength in technology, investment and consumer scale.",
-        "body": "A stock market expert has forecast that the artificial intelligence (AI) cycle, a key driver of gains in global equities, could last at least until next year. The expert said the United States holds an overwhelming position in AI technology, investment and the scale of its consumer market, making U.S. growth stocks worth greater attention. The view suggests AI-related momentum may remain a central factor for markets for some time. Investors may therefore consider adding more U.S. growth names with strong AI competitiveness and market reach to their portfolios. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AIサイクルは少なくとも来年まで継続との見方、米成長株に注目",
-        "excerpt": "証券市場の専門家は、世界株高の原動力となっているAIサイクルが少なくとも来年まで続く可能性があるとし、米成長株への関心を示した。",
-        "body": "世界株式市場の上昇要因とされる人工知能（AI）サイクルについて、少なくとも来年まで続くとの証券市場専門家の見通しが示された。専門家は、AI技術力、投資、消費市場の規模で米国が圧倒的な位置にある点を根拠に、米国の成長銘柄への注目を高める必要があるとみている。AI関連の流れは当面、株式市場の重要な変数として残る可能性がある。投資家はAI競争力と市場規模を備えた米成長株をポートフォリオにより多く組み入れる戦略を検討できる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI周期预计至少延续至明年，美国成长股配置受关注",
-        "excerpt": "股市专家认为，推动全球股市上涨的人工智能（AI）周期至少可能延续到明年，并建议关注美国成长股配置机会。",
-        "body": "有股市专家预测，作为全球股市上涨动力的人工智能（AI）周期至少将延续到明年。该专家指出，美国在AI技术实力、投资以及消费市场规模方面处于压倒性地位，因此有必要提高对美国成长股的关注。相关判断意味着，AI主题走势在一段时间内仍可能是股市的重要变量。投资者可考虑将具备AI技术竞争力和较大市场规模的美国成长型股票更多纳入投资组合。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El ciclo de IA podría durar hasta 2027 y pone en foco a acciones de crecimiento de EE. UU.",
-        "excerpt": "Un experto bursátil prevé que el ciclo de inteligencia artificial que impulsa a las bolsas globales continúe al menos hasta el próximo año, con énfasis en valores de crecimiento estadounidenses.",
-        "body": "Un experto del mercado bursátil prevé que el ciclo de inteligencia artificial (IA), señalado como motor de las subidas en las bolsas globales, podría continuar al menos hasta el próximo año. Según el análisis, Estados Unidos mantiene una posición dominante en capacidad tecnológica de IA, inversión y tamaño del mercado de consumo, por lo que conviene prestar más atención a sus acciones de crecimiento. La lectura sugiere que las tendencias vinculadas a la IA seguirán siendo una variable clave para los mercados por ahora. Los inversores pueden considerar aumentar en sus carteras valores estadounidenses con competitividad en IA y gran escala de mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ciclo de IA pode seguir até 2027 e reforça foco em ações de crescimento dos EUA",
-        "excerpt": "Um especialista em bolsa prevê que o ciclo de inteligência artificial que impulsiona os mercados globais continue pelo menos até o próximo ano, favorecendo ações de crescimento dos EUA.",
-        "body": "Um especialista do mercado acionário afirmou que o ciclo de inteligência artificial (IA), apontado como motor da alta nas bolsas globais, pode continuar pelo menos até o próximo ano. Segundo ele, os Estados Unidos têm posição dominante em tecnologia de IA, investimento e escala do mercado consumidor, o que aumenta a necessidade de atenção às ações de crescimento americanas. A avaliação indica que o movimento ligado à IA pode permanecer como variável central para os mercados por algum tempo. Investidores podem considerar incluir mais empresas de crescimento dos EUA com competitividade em IA e ampla escala de mercado em seus portfólios. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI-Zyklus dürfte bis mindestens 2027 anhalten, US-Wachstumswerte rücken in den Fokus",
-        "excerpt": "Ein Börsenexperte erwartet, dass der KI-Zyklus als Treiber globaler Aktienmärkte mindestens bis ins kommende Jahr anhält und US-Wachstumswerte stützt.",
-        "body": "Ein Börsenexperte hat prognostiziert, dass der Zyklus rund um künstliche Intelligenz (KI), der als wichtiger Treiber der globalen Aktienmärkte gilt, mindestens bis zum nächsten Jahr anhalten könnte. Als Begründung nannte er die überlegene Position der USA bei KI-Technologie, Investitionen und der Größe des Konsummarktes. Deshalb sollten US-Wachstumswerte stärker beachtet werden. Die Einschätzung deutet darauf hin, dass KI-bezogene Trends vorerst ein zentraler Faktor für die Börsen bleiben könnten. Anleger können prüfen, mehr US-Wachstumsaktien mit hoher KI-Wettbewerbsfähigkeit und großer Marktreichweite in ihre Portfolios aufzunehmen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le cycle de l’IA pourrait durer jusqu’en 2027, les valeurs de croissance américaines en vue",
-        "excerpt": "Un expert boursier estime que le cycle de l’intelligence artificielle, moteur des marchés mondiaux, pourrait se poursuivre au moins jusqu’à l’an prochain.",
-        "body": "Un expert des marchés actions prévoit que le cycle de l’intelligence artificielle (IA), considéré comme un moteur de la hausse des Bourses mondiales, pourrait se poursuivre au moins jusqu’à l’an prochain. Il souligne la position dominante des États-Unis en matière de technologie d’IA, d’investissement et de taille du marché de consommation, ce qui justifie une attention accrue aux valeurs de croissance américaines. Cette analyse suggère que la dynamique liée à l’IA pourrait rester une variable clé des marchés pendant un certain temps. Les investisseurs peuvent envisager de renforcer les actions de croissance américaines disposant d’une forte compétitivité en IA et d’une grande portée de marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دورة الذكاء الاصطناعي قد تستمر حتى 2027 وأسهم النمو الأميركية تحت المجهر",
-        "excerpt": "توقع خبير في أسواق الأسهم أن تستمر دورة الذكاء الاصطناعي، المحرك لصعود البورصات العالمية، حتى العام المقبل على الأقل مع إبراز أسهم النمو الأميركية.",
-        "body": "توقع خبير في أسواق الأسهم أن تستمر دورة الذكاء الاصطناعي، التي تعد من محركات صعود الأسواق العالمية، حتى العام المقبل على الأقل. وأشار إلى أن الولايات المتحدة تتمتع بموقع متقدم في قدرات الذكاء الاصطناعي التقنية وحجم الاستثمار وسوق الاستهلاك، ما يجعل أسهم النمو الأميركية جديرة بمزيد من الاهتمام. ويعني هذا التقييم أن الزخم المرتبط بالذكاء الاصطناعي قد يبقى عاملا رئيسيا في الأسواق لبعض الوقت. لذلك يمكن للمستثمرين دراسة زيادة التعرض لأسهم النمو الأميركية ذات القدرة التنافسية في الذكاء الاصطناعي وحجم السوق الكبير. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI चक्र कम से कम 2027 तक जारी रहने का अनुमान, अमेरिकी ग्रोथ शेयरों पर नजर",
-        "excerpt": "एक शेयर बाजार विशेषज्ञ ने कहा कि वैश्विक बाजारों को गति दे रहा AI चक्र कम से कम अगले वर्ष तक जारी रह सकता है, जिससे अमेरिकी ग्रोथ शेयरों पर ध्यान बढ़ता है।",
-        "body": "एक शेयर बाजार विशेषज्ञ ने अनुमान लगाया है कि वैश्विक शेयर बाजारों की तेजी का प्रमुख कारण माना जा रहा कृत्रिम बुद्धिमत्ता (AI) चक्र कम से कम अगले वर्ष तक जारी रह सकता है। विशेषज्ञ के अनुसार, AI तकनीक, निवेश और उपभोक्ता बाजार के आकार में अमेरिका की स्थिति अत्यधिक मजबूत है, इसलिए अमेरिकी ग्रोथ शेयरों पर अधिक ध्यान देने की जरूरत है। यह आकलन बताता है कि AI से जुड़ा रुझान कुछ समय तक बाजारों के लिए मुख्य कारक बना रह सकता है। निवेशक AI प्रतिस्पर्धात्मकता और बड़े बाजार दायरे वाले अमेरिकी ग्रोथ शेयरों को पोर्टफोलियो में बढ़ाने पर विचार कर सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Siklus AI Diperkirakan Berlanjut hingga 2027, Saham Growth AS Jadi Fokus",
-        "excerpt": "Seorang pakar pasar saham memperkirakan siklus AI yang mendorong bursa global berlanjut setidaknya hingga tahun depan, didukung kekuatan teknologi dan pasar AS.",
-        "body": "Seorang pakar pasar saham memperkirakan bahwa siklus kecerdasan buatan (AI), yang menjadi pendorong kenaikan bursa global, dapat berlanjut setidaknya hingga tahun depan. Pakar tersebut menilai Amerika Serikat memiliki posisi yang sangat kuat dalam teknologi AI, investasi, dan skala pasar konsumsi, sehingga saham pertumbuhan AS perlu mendapat perhatian lebih besar. Pandangan ini menunjukkan bahwa tren terkait AI dapat tetap menjadi variabel utama bagi pasar untuk sementara waktu. Investor dapat mempertimbangkan menambah saham pertumbuhan AS yang memiliki daya saing AI dan jangkauan pasar besar ke dalam portofolio. Sumber: mk.co.kr"
       }
     }
   }
