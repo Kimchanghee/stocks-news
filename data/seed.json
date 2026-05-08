@@ -1,5 +1,230 @@
 [
   {
+    "id": "5ba3fd551846",
+    "slug": "코스피-7500-과열-아니다일본-비하면-아직-덜-올랐다-585248",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T07:31:43.852Z",
+    "updatedAt": "2026-05-08T07:31:43.852Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041160",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041160",
+    "titleFingerprint": "c86874e88a3014c2ca0b173c15e2e69f2e0bff0b",
+    "dedupKeys": [
+      "5ba3fd55184616c18443895172cfb92886036821",
+      "c86874e88a3014c2ca0b173c15e2e69f2e0bff0b",
+      "42758bfb51cee51ade189e35066472a5f7383205"
+    ],
+    "imageUrl": "/images/articles/5ba3fd551846.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7500 과열 논란에 오건영 “일본보다 아직 덜 올랐다”",
+        "excerpt": "오건영 신한은행 프리미어 패스파인더 단장은 전쟁 중에도 사상 최고치를 경신하는 증시를 두고 코스피 7500이 과열로만 볼 수 없다고 설명했다.",
+        "body": "오건영 신한은행 프리미어 패스파인더 단장은 전쟁이 한창인 상황에서도 주식시장이 연일 사상 최고치를 경신하는 흐름을 두고, 코스피 7500 수준을 과열로 단정하기 어렵다는 견해를 밝혔다. 그는 일본 증시와 비교하면 한국 증시가 아직 덜 오른 측면이 있다는 점을 근거로 들었다. 전쟁이라는 불확실성 속에서도 증시가 강세를 이어가는 역설적 장면은 투자자들의 관심을 키우고 있다. 향후 시장 평가는 단순한 지수 수준보다 국가별 상승 폭과 상대적 가격 부담을 함께 살펴야 한다는 시각이 제기된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI 7,500 Not Overheated, Oh Gun-young Says Japan Has Risen More",
+        "excerpt": "Oh Gun-young of Shinhan Bank Premier Pathfinder said the KOSPI at 7,500 should not simply be seen as overheated as stocks hit records despite war.",
+        "body": "Oh Gun-young, head of Shinhan Bank’s Premier Pathfinder, said the KOSPI at around 7,500 is difficult to define simply as overheated, even as stock markets continue to set record highs while war is ongoing. He cited a comparison with Japan’s stock market, saying Korean shares have risen less by comparison. The paradox of equities strengthening despite wartime uncertainty is drawing investor attention. The view suggests future market assessments should consider not only the index level itself, but also each country’s relative gains and valuation burden. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI7500は過熱ではない、呉建栄氏「日本よりまだ上昇小さい」",
+        "excerpt": "新韓銀行プレミア・パスファインダーの呉建栄団長は、戦争下でも最高値を更新する株式市場について、KOSPI7500は過熱と断定しにくいと述べた。",
+        "body": "新韓銀行プレミア・パスファインダーの呉建栄団長は、戦争が続く中でも株式市場が連日で史上最高値を更新している状況について、KOSPIが7500水準に達しても単純に過熱とは言い切れないとの見方を示した。根拠として、日本株と比べれば韓国株はまだ上昇幅が小さい点を挙げた。戦争という不確実性の中で株高が続く逆説的な展開に、投資家の関心が集まっている。今後の市場評価では指数水準だけでなく、国別の上昇幅や相対的な価格負担も見る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI 7500并非过热，吴建荣称较日本仍涨幅有限",
+        "excerpt": "新韩银行Premier Pathfinder团长吴建荣表示，在战争持续、股市屡创新高的背景下，KOSPI 7500不宜简单视为过热。",
+        "body": "新韩银行Premier Pathfinder团长吴建荣表示，尽管战争仍在进行，股市却连续刷新历史高点，KOSPI即使达到7500点附近，也难以简单断定为过热。他提出的依据是，与日本股市相比，韩国股市的涨幅仍相对有限。在战争不确定性下股市保持强势，这一看似矛盾的局面正引发投资者关注。相关观点认为，今后评估市场时，不应只看指数点位，还需同时观察各国涨幅和相对估值压力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI 7.500 no sería sobrecalentamiento, dice Oh Gun-young",
+        "excerpt": "Oh Gun-young, de Shinhan Bank Premier Pathfinder, dijo que el KOSPI en 7.500 no debe verse solo como sobrecalentado mientras las bolsas marcan récords pese a la guerra.",
+        "body": "Oh Gun-young, director de Shinhan Bank Premier Pathfinder, afirmó que es difícil calificar simplemente como sobrecalentado un KOSPI cerca de 7.500, aun cuando los mercados bursátiles siguen marcando máximos históricos en plena guerra. Como argumento, señaló que las acciones coreanas han subido menos si se comparan con el mercado japonés. La paradoja de una bolsa fuerte pese a la incertidumbre de la guerra está atrayendo la atención de los inversores. Esta lectura sugiere que la evaluación del mercado debería considerar no solo el nivel del índice, sino también las subidas relativas por país y la carga de valoración. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI 7.500 não seria excesso, diz Oh Gun-young ao comparar com Japão",
+        "excerpt": "Oh Gun-young, do Shinhan Bank Premier Pathfinder, afirmou que o KOSPI em 7.500 não deve ser visto apenas como superaquecido, mesmo com recordes em meio à guerra.",
+        "body": "Oh Gun-young, chefe do Shinhan Bank Premier Pathfinder, afirmou que é difícil definir simplesmente como superaquecido um KOSPI perto de 7.500, ainda que os mercados acionários renovem máximas históricas enquanto a guerra continua. Ele citou como base a comparação com o Japão, dizendo que as ações coreanas ainda subiram menos. O paradoxo de bolsas fortes apesar da incerteza da guerra aumenta a atenção dos investidores. A visão indica que a avaliação futura do mercado deve observar não apenas o nível do índice, mas também os ganhos relativos por país e o peso das avaliações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI 7.500 laut Oh Gun-young nicht überhitzt, Japan stieg stärker",
+        "excerpt": "Oh Gun-young von Shinhan Bank Premier Pathfinder sagte, der KOSPI bei 7.500 sei trotz Rekorden während des Krieges nicht einfach als überhitzt zu bewerten.",
+        "body": "Oh Gun-young, Leiter von Shinhan Bank Premier Pathfinder, sagte, ein KOSPI-Niveau von rund 7.500 lasse sich schwer einfach als überhitzt einstufen, obwohl die Aktienmärkte trotz des laufenden Krieges täglich neue Rekordstände erreichen. Als Begründung verwies er auf den Vergleich mit Japan: Koreanische Aktien seien bislang weniger stark gestiegen. Die paradoxe Stärke der Börsen inmitten von Kriegsunsicherheit zieht die Aufmerksamkeit der Anleger auf sich. Für die weitere Marktbeurteilung sollten daher nicht nur Indexstände, sondern auch länderspezifische Anstiege und relative Bewertungsbelastungen betrachtet werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "KOSPI 7 500 pas surchauffé, selon Oh Gun-young, moins haut que le Japon",
+        "excerpt": "Oh Gun-young, de Shinhan Bank Premier Pathfinder, estime que le KOSPI à 7 500 ne peut pas être simplement qualifié de surchauffé malgré des records en temps de guerre.",
+        "body": "Oh Gun-young, responsable de Shinhan Bank Premier Pathfinder, a déclaré qu’il était difficile de qualifier simplement de surchauffé un KOSPI proche de 7 500, alors que les marchés actions enchaînent les records historiques malgré la guerre en cours. Il a fondé son analyse sur la comparaison avec le Japon, estimant que les actions coréennes ont encore moins progressé. Cette situation paradoxale, avec des marchés solides malgré l’incertitude liée à la guerre, attire l’attention des investisseurs. L’évaluation future du marché devrait donc regarder non seulement le niveau de l’indice, mais aussi les hausses relatives par pays et la pression de valorisation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي 7500 ليس تضخما سعريا، أوه غون-يونغ يقارنه بصعود اليابان",
+        "excerpt": "قال أوه غون-يونغ من شينهان بنك بريمير باثفايندر إن مستوى كوسبي 7500 لا ينبغي اعتباره تضخما سعريا فقط، رغم تسجيل الأسهم قمما قياسية وسط الحرب.",
+        "body": "قال أوه غون-يونغ، رئيس شينهان بنك بريمير باثفايندر، إن من الصعب وصف كوسبي عند مستوى يقارب 7500 بأنه تضخم سعري بحت، رغم أن أسواق الأسهم تواصل تسجيل قمم تاريخية يومية بينما الحرب لا تزال مستمرة. واستند في ذلك إلى المقارنة مع سوق الأسهم اليابانية، موضحا أن الأسهم الكورية لم ترتفع بالقدر نفسه بعد. هذا المشهد المتناقض، حيث تصعد الأسهم وسط عدم اليقين المرتبط بالحرب، يجذب اهتمام المستثمرين. وتشير هذه الرؤية إلى أن تقييم السوق يجب أن ينظر إلى مستوى المؤشر وإلى حجم الصعود النسبي بين الدول وعبء الأسعار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7500 को ओवरहीटेड कहना जल्दबाजी, ओह गुन-यंग ने जापान से तुलना की",
+        "excerpt": "शिनहान बैंक प्रीमियर पाथफाइंडर के ओह गुन-यंग ने कहा कि युद्ध के बीच रिकॉर्ड ऊंचाई छू रहे बाजार में KOSPI 7500 को केवल ओवरहीटेड नहीं माना जा सकता।",
+        "body": "शिनहान बैंक प्रीमियर पाथफाइंडर के प्रमुख ओह गुन-यंग ने कहा कि युद्ध जारी रहने के बावजूद शेयर बाजार लगातार ऐतिहासिक ऊंचाइयां बना रहा है, लेकिन KOSPI के 7500 के आसपास पहुंचने को सीधे ओवरहीटेड कहना कठिन है। उन्होंने आधार के रूप में जापानी शेयर बाजार से तुलना की और कहा कि कोरियाई शेयर अभी अपेक्षाकृत कम चढ़े हैं। युद्ध की अनिश्चितता के बीच बाजार की मजबूती निवेशकों का ध्यान खींच रही है। यह दृष्टिकोण बताता है कि आगे बाजार का आकलन केवल सूचकांक स्तर से नहीं, बल्कि देशों के सापेक्ष उछाल और मूल्यांकन दबाव से भी होना चाहिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI 7.500 belum terlalu panas, Oh Gun-young bandingkan dengan Jepang",
+        "excerpt": "Oh Gun-young dari Shinhan Bank Premier Pathfinder mengatakan KOSPI 7.500 tidak bisa langsung disebut terlalu panas saat saham mencetak rekor meski perang berlangsung.",
+        "body": "Oh Gun-young, kepala Shinhan Bank Premier Pathfinder, mengatakan level KOSPI sekitar 7.500 sulit langsung disebut terlalu panas, meskipun pasar saham terus mencetak rekor tertinggi saat perang masih berlangsung. Ia mendasarkan pandangannya pada perbandingan dengan pasar saham Jepang, dengan menyebut saham Korea masih naik lebih sedikit. Paradoks pasar yang tetap kuat di tengah ketidakpastian perang menarik perhatian investor. Pandangan ini menunjukkan bahwa penilaian pasar ke depan perlu melihat bukan hanya level indeks, tetapi juga besaran kenaikan antarnegara dan beban valuasi relatif. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7109f3ec5da7",
+    "slug": "세계-4위-베트남-코인-시장빗썸-글로벌-가상자산-거래소와-진출-경쟁-868867",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T07:30:30.779Z",
+    "updatedAt": "2026-05-08T07:30:30.779Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041170",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041170",
+    "titleFingerprint": "e70c186b87c773590efc3d4d87c014770b7016c1",
+    "dedupKeys": [
+      "7109f3ec5da712f464ab6e56023a61ba390a5512",
+      "e70c186b87c773590efc3d4d87c014770b7016c1",
+      "b6394aa29dc1cdfda1264a474d96a0eb3643e58a"
+    ],
+    "imageUrl": "/images/articles/7109f3ec5da7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "베트남 가상자산 시장 급성장…빗썸, 현지 거래소 설립 경쟁 가세",
+        "excerpt": "빗썸이 베트남 1위 증권사 SSID와 현지 가상자산 거래소 설립을 위한 MOU를 맺고, 2030년 100조원대 성장이 전망되는 베트남 시장 진출 경쟁에 나섰다.",
+        "body": "베트남 가상자산 시장이 빠르게 커지는 가운데 빗썸이 현지 거래소 설립을 추진하며 글로벌 거래소 간 진출 경쟁에 합류했다. 빗썸은 베트남 1위 증권사 SSID와 가상자산 거래소 설립을 위한 업무협약(MOU)을 맺었다. 베트남 가상자산 시장은 2030년 100조원대까지 성장할 것으로 전망되며, 1년 거래 규모가 국내총생산(GDP)의 절반에 육박하는 것으로 전해졌다. 접근성 기준으로도 세계 4위 시장으로 평가된다. 해외 거래소들이 베트남 시장을 놓고 경쟁하는 가운데, 빗썸의 현지 파트너십은 향후 시장 확대 전략의 핵심 발판이 될 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Vietnam Crypto Market Surges as Bithumb Joins Local Exchange Race",
+        "excerpt": "Bithumb signed an MOU with Vietnam’s top securities firm SSID to establish a local crypto exchange, entering a market projected to reach the 100 trillion won range by 2030.",
+        "body": "As Vietnam’s virtual asset market expands rapidly, Bithumb is moving to establish a local exchange and join the entry race among global crypto platforms. Bithumb signed a memorandum of understanding with SSID, Vietnam’s No. 1 securities firm, to set up a virtual asset exchange. Vietnam’s crypto market is projected to grow into the 100 trillion won range by 2030, while its annual trading volume is said to approach half of the country’s GDP. The market is also assessed as the world’s fourth-largest in terms of accessibility. With overseas exchanges competing for a foothold in Vietnam, Bithumb’s local partnership could become a key base for its market expansion strategy. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ベトナム暗号資産市場が急成長、ビッサムも取引所設立競争へ",
+        "excerpt": "ビッサムはベトナム首位証券会社SSIDと現地暗号資産取引所設立に向けたMOUを結び、2030年に100兆ウォン規模が見込まれる市場へ参入する。",
+        "body": "ベトナムの暗号資産市場が急速に拡大するなか、ビッサムが現地取引所の設立を進め、グローバル取引所による参入競争に加わった。ビッサムはベトナム1位の証券会社SSIDと、暗号資産取引所設立に向けた業務協約（MOU）を締結した。ベトナムの暗号資産市場は2030年に100兆ウォン台まで成長すると見込まれており、年間取引規模は国内総生産（GDP）の半分に迫るとされる。アクセス性でも世界4位の市場と評価されている。海外取引所がベトナム市場をめぐって競争するなか、ビッサムの現地パートナーシップは今後の市場拡大戦略の重要な足場となり得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "越南加密资产市场快速扩张，Bithumb加入本地交易所竞争",
+        "excerpt": "Bithumb与越南第一大证券公司SSID签署MOU，计划设立本地加密资产交易所，进入预计2030年达100万亿韩元规模的市场。",
+        "body": "随着越南虚拟资产市场迅速扩大，Bithumb正推进设立本地交易所，加入全球加密资产交易平台的越南市场竞争。Bithumb已与越南第一大证券公司SSID签署业务合作谅解备忘录（MOU），拟共同设立虚拟资产交易所。越南加密资产市场预计到2030年将增长至100万亿韩元级别，其一年交易规模据称接近该国国内生产总值（GDP）的一半。按可及性衡量，越南也被评为全球第四大市场。在海外交易所争夺越南市场的背景下，Bithumb的本地合作关系可能成为其未来市场扩张战略的重要基础。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El mercado cripto de Vietnam crece y Bithumb entra en la carrera local",
+        "excerpt": "Bithumb firmó un MOU con SSID, la mayor firma de valores de Vietnam, para crear un exchange local en un mercado que podría alcanzar 100 billones de wones en 2030.",
+        "body": "Mientras el mercado de activos virtuales de Vietnam crece con rapidez, Bithumb avanza en la creación de un exchange local y se suma a la competencia entre plataformas globales. Bithumb firmó un memorando de entendimiento con SSID, la firma de valores número uno de Vietnam, para establecer un exchange de activos virtuales. Se prevé que el mercado cripto vietnamita alcance el rango de 100 billones de wones en 2030, y su volumen anual de negociación se acerca a la mitad del producto interno bruto (PIB) del país. También es evaluado como el cuarto mercado del mundo por accesibilidad. En medio de la competencia de exchanges extranjeros por Vietnam, la alianza local de Bithumb puede convertirse en una base clave para su estrategia de expansión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mercado cripto do Vietnã avança e Bithumb entra na disputa local",
+        "excerpt": "A Bithumb assinou um MOU com a SSID, maior corretora de valores do Vietnã, para criar uma exchange local em mercado projetado para 100 trilhões de wons até 2030.",
+        "body": "Com a rápida expansão do mercado de ativos virtuais do Vietnã, a Bithumb avança para criar uma exchange local e entra na disputa entre plataformas globais. A Bithumb assinou um memorando de entendimento com a SSID, a maior corretora de valores do Vietnã, para estabelecer uma exchange de ativos virtuais. O mercado cripto vietnamita deve crescer para a faixa de 100 trilhões de wons até 2030, enquanto seu volume anual de negociação se aproxima de metade do produto interno bruto (PIB) do país. O mercado também é avaliado como o quarto do mundo em acessibilidade. Com exchanges estrangeiras competindo pelo Vietnã, a parceria local da Bithumb pode se tornar uma base importante para sua estratégia de expansão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Vietnams Kryptomarkt wächst rasant: Bithumb steigt in Börsenrennen ein",
+        "excerpt": "Bithumb hat mit Vietnams führendem Wertpapierhaus SSID eine Absichtserklärung für eine lokale Kryptobörse geschlossen und zielt auf einen Markt mit Wachstum bis 100 Billionen Won bis 2030.",
+        "body": "Während Vietnams Markt für virtuelle Vermögenswerte schnell wächst, treibt Bithumb den Aufbau einer lokalen Börse voran und reiht sich in den Wettbewerb globaler Kryptoplattformen ein. Bithumb unterzeichnete mit SSID, Vietnams größtem Wertpapierunternehmen, eine Absichtserklärung zur Gründung einer Börse für virtuelle Vermögenswerte. Der vietnamesische Kryptomarkt soll bis 2030 in den Bereich von 100 Billionen Won wachsen; das jährliche Handelsvolumen nähert sich Berichten zufolge der Hälfte des Bruttoinlandsprodukts (BIP). Auch bei der Zugänglichkeit wird Vietnam als viertgrößter Markt der Welt bewertet. Da ausländische Börsen um Vietnam konkurrieren, könnte Bithumbs lokale Partnerschaft ein wichtiger Pfeiler der künftigen Expansionsstrategie werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le marché crypto vietnamien accélère, Bithumb rejoint la course locale",
+        "excerpt": "Bithumb a signé un MOU avec SSID, premier courtier du Vietnam, pour créer une plateforme locale dans un marché attendu autour de 100 billions de wons d’ici 2030.",
+        "body": "Alors que le marché vietnamien des actifs virtuels se développe rapidement, Bithumb prépare la création d’une plateforme locale et rejoint la concurrence entre exchanges mondiaux. Bithumb a signé un protocole d’accord avec SSID, première société de courtage du Vietnam, afin d’établir une bourse d’actifs virtuels. Le marché crypto vietnamien devrait atteindre la zone des 100 billions de wons d’ici 2030, tandis que son volume annuel de transactions approcherait la moitié du produit intérieur brut (PIB) du pays. Il est aussi classé quatrième marché mondial en matière d’accessibilité. Dans un contexte de concurrence des plateformes étrangères au Vietnam, le partenariat local de Bithumb pourrait devenir un point d’appui central pour sa stratégie d’expansion. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سوق العملات الرقمية في فيتنام يتسارع وبثَم تدخل سباق المنصات المحلية",
+        "excerpt": "وقعت بثَم مذكرة تفاهم مع SSID، أكبر شركة أوراق مالية في فيتنام، لإنشاء منصة أصول افتراضية محلية في سوق متوقع أن يبلغ نطاق 100 تريليون وون بحلول 2030.",
+        "body": "مع التوسع السريع في سوق الأصول الافتراضية في فيتنام، تتحرك بثَم لإنشاء منصة محلية وتنضم إلى منافسة منصات الأصول الرقمية العالمية. وقعت بثَم مذكرة تفاهم مع SSID، شركة الأوراق المالية الأولى في فيتنام، لتأسيس منصة لتداول الأصول الافتراضية. ومن المتوقع أن ينمو سوق الأصول الرقمية في فيتنام إلى نطاق 100 تريليون وون بحلول عام 2030، بينما يقترب حجم التداول السنوي من نصف الناتج المحلي الإجمالي للبلاد. كما يُقيّم السوق في المرتبة الرابعة عالميا من حيث سهولة الوصول. وفي ظل تنافس المنصات الأجنبية على السوق الفيتنامية، قد تصبح الشراكة المحلية لبثَم قاعدة رئيسية لاستراتيجية التوسع المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "वियतनाम क्रिप्टो बाजार तेज, Bithumb स्थानीय एक्सचेंज दौड़ में शामिल",
+        "excerpt": "Bithumb ने वियतनाम की शीर्ष प्रतिभूति कंपनी SSID के साथ स्थानीय वर्चुअल एसेट एक्सचेंज बनाने के लिए MOU किया, जहां बाजार 2030 तक 100 ट्रिलियन वॉन श्रेणी तक बढ़ने का अनुमान है।",
+        "body": "वियतनाम का वर्चुअल एसेट बाजार तेजी से बढ़ रहा है और इसी बीच Bithumb स्थानीय एक्सचेंज स्थापित करने की योजना के साथ वैश्विक क्रिप्टो प्लेटफॉर्मों की प्रतिस्पर्धा में शामिल हो गया है। Bithumb ने वियतनाम की नंबर एक प्रतिभूति कंपनी SSID के साथ वर्चुअल एसेट एक्सचेंज स्थापित करने के लिए समझौता ज्ञापन (MOU) पर हस्ताक्षर किए। वियतनाम का क्रिप्टो बाजार 2030 तक 100 ट्रिलियन वॉन के दायरे तक बढ़ने का अनुमान है, जबकि एक वर्ष का ट्रेडिंग आकार देश के सकल घरेलू उत्पाद (GDP) के लगभग आधे तक पहुंचता बताया गया है। पहुंच के आधार पर इसे दुनिया का चौथा बाजार भी माना जाता है। विदेशी एक्सचेंजों की प्रतिस्पर्धा के बीच Bithumb की स्थानीय साझेदारी भविष्य की बाजार विस्तार रणनीति का अहम आधार बन सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pasar Kripto Vietnam Melonjak, Bithumb Masuk Persaingan Bursa Lokal",
+        "excerpt": "Bithumb menandatangani MOU dengan SSID, perusahaan sekuritas terbesar Vietnam, untuk mendirikan bursa aset virtual lokal di pasar yang diproyeksikan mencapai 100 triliun won pada 2030.",
+        "body": "Ketika pasar aset virtual Vietnam tumbuh cepat, Bithumb bergerak mendirikan bursa lokal dan ikut dalam persaingan masuknya platform kripto global. Bithumb menandatangani nota kesepahaman dengan SSID, perusahaan sekuritas nomor satu di Vietnam, untuk mendirikan bursa aset virtual. Pasar kripto Vietnam diperkirakan tumbuh ke kisaran 100 triliun won pada 2030, sementara nilai transaksi tahunannya disebut mendekati separuh produk domestik bruto (PDB) negara tersebut. Dari sisi aksesibilitas, pasar ini juga dinilai berada di peringkat keempat dunia. Di tengah persaingan bursa asing memperebutkan Vietnam, kemitraan lokal Bithumb dapat menjadi pijakan penting bagi strategi ekspansi pasar ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a3f909d115d3",
+    "slug": "바디텍메드-1분기-매출-428억원-유럽국내시장-주도로-성장세-지속-539248",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T07:29:18.716Z",
+    "updatedAt": "2026-05-08T07:29:18.716Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041177",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041177",
+    "titleFingerprint": "981c37b8c02ca44e2a9696c4a983449cb69a8a35",
+    "dedupKeys": [
+      "a3f909d115d3e5303bc627aa00568a65940f4713",
+      "981c37b8c02ca44e2a9696c4a983449cb69a8a35",
+      "22ca9b5b654d14fc4a3264b1dd3624e45ce8f7e4"
+    ],
+    "imageUrl": "/images/articles/a3f909d115d3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "바디텍메드 1분기 매출 428억원, 유럽·국내시장 주도로 성장 지속",
+        "excerpt": "바디텍메드는 8일 잠정 실적 공시에서 올해 1분기 연결 매출 428억원, 영업이익 68억원, 당기순이익 95억원을 기록했다고 밝혔다.",
+        "body": "바디텍메드는 8일 잠정 실적 공시를 통해 올해 1분기 연결 기준 매출액 428억원, 영업이익 68억원, 당기순이익 95억원을 기록했다고 밝혔다. 이번 실적은 유럽과 국내시장이 성장을 주도한 가운데 나온 것으로, 회사는 주력 진단기기 3444대를 신규 설치했다고 설명했다. 매출 확대와 장비 설치 증가는 진단기기 사업의 시장 기반이 이어지고 있음을 보여준다. 향후 실적 흐름은 유럽 및 국내 수요와 신규 설치 장비의 활용 확대가 주요 변수로 작용할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Boditech Med Q1 Revenue Hits KRW 42.8 Billion on Europe, Korea Growth",
+        "excerpt": "Boditech Med said in a May 8 preliminary filing that Q1 consolidated revenue reached KRW 42.8 billion, with operating profit of KRW 6.8 billion and net profit of KRW 9.5 billion.",
+        "body": "Boditech Med said on May 8, through a preliminary earnings disclosure, that its first-quarter consolidated revenue for the year was KRW 42.8 billion, with operating profit of KRW 6.8 billion and net profit of KRW 9.5 billion. The performance was led by growth in Europe and the domestic market, while the company reported 3,444 new installations of its main diagnostic devices. The increase in revenue and equipment installations indicates that the market base for its diagnostic device business is continuing. Future performance will likely depend on demand in Europe and Korea and broader use of newly installed devices. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "バディテックメド第1四半期売上428億ウォン、欧州・韓国市場が成長主導",
+        "excerpt": "バディテックメドは8日の暫定業績開示で、今年第1四半期の連結売上高428億ウォン、営業利益68億ウォン、純利益95億ウォンを記録したと発表した。",
+        "body": "バディテックメドは8日、暫定業績の開示を通じて、今年第1四半期の連結ベース売上高が428億ウォン、営業利益が68億ウォン、当期純利益が95億ウォンだったと明らかにした。今回の業績は欧州と韓国国内市場が成長を主導する中で達成されたもので、同社は主力診断機器3444台を新規設置したと説明した。売上拡大と機器設置の増加は、診断機器事業の市場基盤が続いていることを示している。今後の業績推移は、欧州および韓国国内の需要と新規設置機器の活用拡大が主な要因となる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Boditech Med一季度营收428亿韩元，欧洲与韩国市场带动增长",
+        "excerpt": "Boditech Med于8日发布初步业绩公告称，今年一季度合并营收为428亿韩元，营业利润68亿韩元，净利润95亿韩元。",
+        "body": "Boditech Med于8日通过初步业绩公告表示，今年第一季度按合并口径实现营收428亿韩元，营业利润68亿韩元，净利润95亿韩元。此次业绩是在欧洲和韩国国内市场主导增长的背景下取得的，公司称其主力诊断设备新增安装3444台。营收扩大和设备安装增加显示，诊断设备业务的市场基础仍在延续。未来业绩走势将主要受到欧洲及韩国国内需求，以及新增安装设备使用扩大的影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Boditech Med factura 42.800 millones de wones en el primer trimestre",
+        "excerpt": "Boditech Med informó el día 8, en resultados preliminares, ingresos consolidados de 42.800 millones de wones en el primer trimestre, con beneficio operativo de 6.800 millones y neto de 9.500 millones.",
+        "body": "Boditech Med informó el día 8, mediante una comunicación preliminar de resultados, que en el primer trimestre del año registró ingresos consolidados de 42.800 millones de wones, beneficio operativo de 6.800 millones y beneficio neto de 9.500 millones. El desempeño estuvo impulsado por Europa y el mercado nacional, y la compañía señaló que instaló 3.444 nuevas unidades de sus principales equipos de diagnóstico. El aumento de ingresos y de instalaciones muestra que la base de mercado del negocio de diagnóstico se mantiene. La evolución futura dependerá de la demanda en Europa y Corea y del mayor uso de los equipos instalados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Boditech Med registra receita de 42,8 bi de wones no 1º tri com Europa e Coreia",
+        "excerpt": "A Boditech Med informou no dia 8, em resultado preliminar, receita consolidada de 42,8 bilhões de wones no 1º trimestre, lucro operacional de 6,8 bilhões e lucro líquido de 9,5 bilhões.",
+        "body": "A Boditech Med informou no dia 8, por meio de divulgação preliminar de resultados, que registrou no primeiro trimestre do ano receita consolidada de 42,8 bilhões de wones, lucro operacional de 6,8 bilhões e lucro líquido de 9,5 bilhões. O desempenho foi liderado pela Europa e pelo mercado doméstico, enquanto a empresa afirmou ter instalado 3.444 novas unidades de seus principais equipamentos de diagnóstico. A expansão da receita e o aumento das instalações indicam continuidade da base de mercado do negócio de diagnóstico. O desempenho futuro dependerá da demanda na Europa e na Coreia e do uso dos novos equipamentos instalados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Boditech Med erzielt im Q1 42,8 Mrd. Won Umsatz dank Europa und Heimatmarkt",
+        "excerpt": "Boditech Med meldete am 8. in einer vorläufigen Mitteilung für das erste Quartal 42,8 Mrd. Won Konzernumsatz, 6,8 Mrd. Won operativen Gewinn und 9,5 Mrd. Won Nettogewinn.",
+        "body": "Boditech Med teilte am 8. in einer vorläufigen Ergebnisbekanntgabe mit, dass der Konzernumsatz im ersten Quartal dieses Jahres 42,8 Mrd. Won betrug. Der operative Gewinn lag bei 6,8 Mrd. Won, der Nettogewinn bei 9,5 Mrd. Won. Das Ergebnis wurde von Europa und dem heimischen Markt getragen; zudem meldete das Unternehmen 3.444 Neuinstallationen seiner wichtigsten Diagnosegeräte. Der Umsatzanstieg und die zusätzlichen Geräteinstallationen zeigen, dass die Marktgrundlage des Diagnosegerätegeschäfts anhält. Für den weiteren Verlauf bleiben Nachfrage in Europa und Korea sowie die stärkere Nutzung neu installierter Geräte entscheidend. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Boditech Med atteint 42,8 milliards de wons de revenus au 1er trimestre",
+        "excerpt": "Boditech Med a annoncé le 8, dans des résultats provisoires, un chiffre d’affaires consolidé de 42,8 milliards de wons au 1er trimestre, avec 6,8 milliards de bénéfice opérationnel et 9,5 milliards de bénéfice net.",
+        "body": "Boditech Med a indiqué le 8, dans une publication provisoire de résultats, avoir enregistré au premier trimestre de l’année un chiffre d’affaires consolidé de 42,8 milliards de wons, un bénéfice opérationnel de 6,8 milliards de wons et un bénéfice net de 9,5 milliards de wons. Cette performance a été portée par l’Europe et le marché intérieur, tandis que l’entreprise a annoncé 3 444 nouvelles installations de ses principaux appareils de diagnostic. La hausse des revenus et des installations montre que la base de marché de l’activité diagnostic se poursuit. L’évolution future dépendra de la demande en Europe et en Corée ainsi que de l’usage accru des appareils installés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بوديتك ميد تسجل إيرادات 42.8 مليار وون في الربع الأول بدعم أوروبا وكوريا",
+        "excerpt": "أعلنت بوديتك ميد في إفصاح أولي يوم 8 أن إيراداتها المجمعة في الربع الأول بلغت 42.8 مليار وون، مع ربح تشغيلي 6.8 مليار وون وصافي ربح 9.5 مليار وون.",
+        "body": "أعلنت بوديتك ميد يوم 8، عبر إفصاح أولي عن النتائج، أن إيراداتها المجمعة في الربع الأول من هذا العام بلغت 42.8 مليار وون، بينما سجلت ربحا تشغيليا قدره 6.8 مليار وون وصافي ربح قدره 9.5 مليار وون. وجاءت هذه النتائج بقيادة النمو في أوروبا والسوق المحلية، وقالت الشركة إنها ركبت 3444 وحدة جديدة من أجهزة التشخيص الرئيسية لديها. ويشير نمو الإيرادات وزيادة تركيب الأجهزة إلى استمرار قاعدة السوق لأعمال أجهزة التشخيص. وسيعتمد مسار الأداء لاحقا على الطلب في أوروبا وكوريا وعلى توسع استخدام الأجهزة المركبة حديثا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Boditech Med की पहली तिमाही आय 42.8 अरब वॉन, यूरोप और कोरिया से बढ़त",
+        "excerpt": "Boditech Med ने 8 तारीख को अस्थायी नतीजों में बताया कि पहली तिमाही में समेकित राजस्व 42.8 अरब वॉन रहा, जबकि परिचालन लाभ 6.8 अरब वॉन और शुद्ध लाभ 9.5 अरब वॉन रहा।",
+        "body": "Boditech Med ने 8 तारीख को अस्थायी वित्तीय खुलासे में कहा कि इस वर्ष पहली तिमाही में उसका समेकित राजस्व 42.8 अरब वॉन रहा। परिचालन लाभ 6.8 अरब वॉन और शुद्ध लाभ 9.5 अरब वॉन दर्ज किया गया। यह प्रदर्शन यूरोप और घरेलू बाजार की अगुवाई में आया, और कंपनी ने बताया कि उसके प्रमुख डायग्नोस्टिक उपकरणों की 3,444 नई इकाइयां स्थापित की गईं। राजस्व में वृद्धि और उपकरण स्थापना में बढ़ोतरी दिखाती है कि डायग्नोस्टिक उपकरण कारोबार का बाजार आधार जारी है। आगे के प्रदर्शन में यूरोप और कोरिया की मांग तथा नए स्थापित उपकरणों का उपयोग प्रमुख कारक होंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Boditech Med Bukukan Pendapatan Kuartal I KRW 42,8 Miliar Dipimpin Eropa",
+        "excerpt": "Boditech Med pada tanggal 8 mengumumkan kinerja sementara kuartal I dengan pendapatan konsolidasi KRW 42,8 miliar, laba operasi KRW 6,8 miliar, dan laba bersih KRW 9,5 miliar.",
+        "body": "Boditech Med pada tanggal 8, melalui pengumuman kinerja sementara, menyatakan bahwa pendapatan konsolidasi kuartal pertama tahun ini mencapai KRW 42,8 miliar, dengan laba operasi KRW 6,8 miliar dan laba bersih KRW 9,5 miliar. Kinerja ini didorong oleh pertumbuhan di Eropa dan pasar domestik, sementara perusahaan melaporkan 3.444 pemasangan baru perangkat diagnostik utamanya. Peningkatan pendapatan dan pemasangan perangkat menunjukkan basis pasar bisnis perangkat diagnostik masih berlanjut. Ke depan, kinerja akan dipengaruhi oleh permintaan di Eropa dan Korea serta perluasan penggunaan perangkat yang baru dipasang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "aa0bae9ff7a5",
     "slug": "지난달-밸류업-공시-기업-130곳95가-고배당社-614308",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Investasi Chip AI: Nvidia, Intel, dan Google Jadi Sorotan Pasar",
         "excerpt": "Perhatian investor di pasar semikonduktor AI tertuju pada Nvidia, Intel, dan Google, sementara sumber membandingkannya dengan film The Good, the Bad, the Weird.",
         "body": "Perhatian investor di pasar semikonduktor AI kini tertuju pada Nvidia, Intel, dan Google. Artikel asli membandingkan arena chip kecerdasan buatan dengan film The Good, the Bad, the Weird, lalu mengaitkannya secara berurutan dengan Nvidia, Intel, dan Google. Judul artikel menyoroti minat pada saham utama semikonduktor AI dengan ungkapan bahwa saham itu memberi Shaquille O’Neal 1 triliun won. Nvidia digambarkan sebagai perusahaan yang paling menarik perhatian investor AI, sementara Intel dan Google disebut sebagai pembanding dalam struktur pasar yang sama. Karena persaingan chip AI menjadi tema penting dalam keputusan investasi, peran dan persepsi pasar terhadap ketiga perusahaan ini diperkirakan tetap menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "406ec783301c",
-    "slug": "왕년-황제株-lg생건-뜨거운-바닥논쟁-802324",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T18:25:37.871Z",
-    "updatedAt": "2026-05-07T18:25:37.871Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724101",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724101",
-    "titleFingerprint": "4d21231bb7cae21f07919b7a904774c3d8980efd",
-    "dedupKeys": [
-      "406ec783301c6ca9af1a1e0ae0b4920c1b08db7a",
-      "4d21231bb7cae21f07919b7a904774c3d8980efd",
-      "062fd0691cd2f50c29a26ed25e141de6446fc709"
-    ],
-    "imageUrl": "/images/articles/406ec783301c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG생활건강 주가 바닥 논쟁 가열, 1분기 깜짝 실적에도 전망 엇갈려",
-        "excerpt": "LG생활건강은 2026년 5월 7일 27만5000원에 마감하며 한 달 새 약 17% 올랐지만, 중국 의존도와 뷰티 부진 탓에 증권가의 바닥 판단은 엇갈리고 있다.",
-        "body": "LG생활건강을 둘러싼 ‘바닥 논쟁’이 2026년 5월 7일 다시 뜨거워졌다. 한국거래소에 따르면 이날 LG생활건강은 전 거래일보다 2.80% 오른 27만5000원에 마감했고, 한 달 전보다 약 17% 상승했다. 2021년 178만원을 호가하던 주가는 현재 25만~28만원대 박스권에 머물러 있다. 올 1분기 연결 매출은 1조5766억원, 영업이익은 1078억원으로 직전 분기 대비 흑자 전환했으며, 영업이익은 시장 전망치 537억원의 두 배 수준이었다. 다만 전년 동기 대비 매출과 영업이익은 각각 7.1%, 24.3% 줄었다. 뷰티, 생활용품, 음료 사업 성장 둔화와 중국 시장 의존도 축소가 핵심 변수로 꼽힌다. 북미 매출은 1분기 35% 넘게 늘었지만 중국을 완전히 대체하기에는 수익성이 부족하다는 평가도 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "LG H&H Stock Bottom Debate Heats Up After Q1 Earnings Surprise",
-        "excerpt": "LG H&H closed at 275,000 won on May 7, 2026, up about 17% in a month, but views remain split as China exposure and weak beauty sales weigh on recovery hopes.",
-        "body": "The debate over whether LG Household & Health Care has found a bottom intensified on May 7, 2026. According to the Korea Exchange, the stock closed 2.80% higher at 275,000 won, about 17% above its level a month earlier. Once trading near 1.78 million won in 2021, it now remains boxed in the 250,000-280,000 won range. First-quarter consolidated revenue reached 1.5766 trillion won and operating profit was 107.8 billion won, turning profitable versus the previous quarter and roughly doubling the market forecast of 53.7 billion won. Still, revenue and operating profit fell 7.1% and 24.3% year on year. Slowing beauty, household goods and beverage businesses, plus reduced reliance on China, remain key issues. North American sales grew more than 35% in Q1, but profitability is seen as insufficient to fully replace China. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "LG生活健康株の底入れ論争が過熱、1〜3月期好決算でも見方分かれる",
-        "excerpt": "LG生活健康は2026年5月7日に27万5000ウォンで引け、1カ月で約17%上昇したが、中国依存とビューティー事業の不振で底入れ判断は割れている。",
-        "body": "LG生活健康を巡る底入れ論争が2026年5月7日に再び強まった。韓国取引所によると、同社株は前日比2.80%高の27万5000ウォンで取引を終え、1カ月前から約17%上昇した。2021年には178万ウォン台だった株価は、現在25万〜28万ウォンのレンジにとどまっている。1〜3月期の連結売上高は1兆5766億ウォン、営業利益は1078億ウォンで、前四半期から黒字転換し、市場予想537億ウォンの約2倍となった。ただし前年同期比では売上高が7.1%、営業利益が24.3%減少した。ビューティー、生活用品、飲料の成長鈍化と中国依存の低下が焦点だ。北米売上高は1〜3月期に35%超増えたが、中国を完全に代替するには収益性が不足するとの見方もある。出所: hankyung.com。"
-      },
-      "zh": {
-        "title": "LG生活健康股价底部争论升温，一季度业绩惊喜难消分歧",
-        "excerpt": "LG生活健康2026年5月7日收于27.5万韩元，一个月上涨约17%，但因中国依赖和美妆业务疲软，市场对其是否见底仍有分歧。",
-        "body": "围绕LG生活健康股价是否见底的争论在2026年5月7日再次升温。韩国交易所数据显示，该股当天较前一交易日上涨2.80%，收于27.5万韩元，较一个月前上涨约17%。2021年曾达到178万韩元水平的股价，如今仍停留在25万至28万韩元区间。公司一季度合并销售额为1.5766万亿韩元，营业利润为1078亿韩元，较上一季度转为盈利，且约为市场预期537亿韩元的两倍。不过，与去年同期相比，销售额和营业利润分别下降7.1%和24.3%。美妆、生活用品和饮料业务增长放缓，以及降低对中国市场依赖，被视为关键变量。一季度北美销售额同比增长超过35%，但盈利能力不足以完全替代中国市场。来源: hankyung.com。"
-      },
-      "es": {
-        "title": "LG H&H reaviva el debate sobre su piso pese a sorpresa en el primer trimestre",
-        "excerpt": "LG H&H cerró el 7 de mayo de 2026 en 275.000 wones, un alza cercana al 17% en un mes, pero la dependencia de China y la debilidad en belleza dividen al mercado.",
-        "body": "El debate sobre si LG Household & Health Care tocó fondo volvió a intensificarse el 7 de mayo de 2026. Según la Bolsa de Corea, la acción cerró con un alza del 2,80%, en 275.000 wones, cerca de un 17% por encima de un mes antes. Tras haber rondado 1,78 millones de wones en 2021, ahora permanece en una banda de 250.000 a 280.000 wones. En el primer trimestre, los ingresos consolidados fueron de 1,5766 billones de wones y el beneficio operativo llegó a 107.800 millones, con vuelta a ganancias frente al trimestre previo y casi el doble de la previsión de 53.700 millones. Aun así, frente al año anterior, ingresos y beneficio operativo cayeron 7,1% y 24,3%. La desaceleración en belleza, artículos para el hogar y bebidas, junto con la reducción de la dependencia de China, son variables clave. Norteamérica creció más del 35% en ventas, pero su rentabilidad aún no bastaría para sustituir a China. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Ação da LG H&H reacende debate de fundo após surpresa no 1º trimestre",
-        "excerpt": "A LG H&H fechou em 275.000 wons em 7 de maio de 2026, alta de cerca de 17% em um mês, mas China e fraqueza em beleza mantêm divididas as avaliações do mercado.",
-        "body": "O debate sobre se a ação da LG Household & Health Care chegou ao fundo voltou a ganhar força em 7 de maio de 2026. Segundo a Bolsa da Coreia, o papel fechou em alta de 2,80%, a 275.000 wons, cerca de 17% acima do nível de um mês antes. Depois de ser negociado perto de 1,78 milhão de wons em 2021, hoje permanece na faixa de 250.000 a 280.000 wons. No primeiro trimestre, a receita consolidada foi de 1,5766 trilhão de wons e o lucro operacional somou 107,8 bilhões, revertendo prejuízo ante o trimestre anterior e ficando em torno do dobro da previsão de 53,7 bilhões. Ainda assim, na comparação anual, receita e lucro operacional caíram 7,1% e 24,3%. A desaceleração em beleza, cuidados domésticos e bebidas, além da menor dependência da China, segue como variável central. As vendas na América do Norte cresceram mais de 35%, mas a rentabilidade ainda não parece suficiente para substituir totalmente a China. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "LG H&H Aktie: Bodendebatte flammt nach starkem Q1 erneut auf",
-        "excerpt": "LG H&H schloss am 7. Mai 2026 bei 275.000 Won und lag damit rund 17% höher als vor einem Monat, doch China-Abhängigkeit und schwache Beauty-Umsätze spalten die Einschätzungen.",
-        "body": "Die Debatte, ob die Aktie von LG Household & Health Care ihren Boden erreicht hat, verschärfte sich am 7. Mai 2026 erneut. Nach Angaben der Korea Exchange schloss der Titel 2,80% höher bei 275.000 Won und lag damit etwa 17% über dem Stand von vor einem Monat. 2021 hatte die Aktie noch rund 1,78 Mio. Won erreicht, nun bewegt sie sich in einer Spanne von 250.000 bis 280.000 Won. Im ersten Quartal erzielte das Unternehmen einen Konzernumsatz von 1,5766 Bio. Won und einen operativen Gewinn von 107,8 Mrd. Won, kehrte gegenüber dem Vorquartal in die Gewinnzone zurück und lag etwa doppelt so hoch wie die Markterwartung von 53,7 Mrd. Won. Gegenüber dem Vorjahr sanken Umsatz und operativer Gewinn jedoch um 7,1% und 24,3%. Schwächeres Wachstum in Beauty, Haushaltswaren und Getränken sowie die geringere China-Abhängigkeit bleiben zentral. Nordamerika wuchs im Umsatz um mehr als 35%, gilt wegen begrenzter Profitabilität aber noch nicht als vollständiger Ersatz für China. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "LG H&H relance le débat sur son plancher malgré un bon premier trimestre",
-        "excerpt": "LG H&H a clôturé à 275.000 wons le 7 mai 2026, en hausse d’environ 17% sur un mois, mais la dépendance à la Chine et la faiblesse de la beauté divisent encore le marché.",
-        "body": "Le débat sur un possible point bas de LG Household & Health Care s’est ravivé le 7 mai 2026. Selon la Korea Exchange, l’action a clôturé en hausse de 2,80%, à 275.000 wons, soit environ 17% de plus qu’un mois auparavant. Après avoir approché 1,78 million de wons en 2021, elle reste désormais coincée entre 250.000 et 280.000 wons. Au premier trimestre, le chiffre d’affaires consolidé a atteint 1.576,6 milliards de wons et le bénéfice opérationnel 107,8 milliards, avec un retour au bénéfice par rapport au trimestre précédent et un niveau environ deux fois supérieur à la prévision de marché de 53,7 milliards. En glissement annuel, toutefois, le chiffre d’affaires et le bénéfice opérationnel ont reculé de 7,1% et 24,3%. Le ralentissement de la beauté, des produits ménagers et des boissons, ainsi que la réduction de l’exposition à la Chine, restent déterminants. Les ventes nord-américaines ont progressé de plus de 35%, mais leur rentabilité ne suffirait pas encore à remplacer la Chine. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "سهم LG H&H يشعل جدل القاع بعد مفاجأة أرباح الربع الأول",
-        "excerpt": "أغلق سهم LG H&H في 7 مايو 2026 عند 275 ألف وون، مرتفعا بنحو 17% خلال شهر، لكن الاعتماد على الصين وضعف قطاع التجميل أبقيا آراء السوق منقسمة.",
-        "body": "اشتد الجدل حول ما إذا كان سهم LG Household & Health Care قد بلغ القاع في 7 مايو 2026. ووفقا لبورصة كوريا، أغلق السهم مرتفعا 2.80% عند 275 ألف وون، بزيادة تقارب 17% عن مستواه قبل شهر. وبعد أن كان يتداول قرب 1.78 مليون وون في 2021، يتحرك الآن داخل نطاق 250 ألفا إلى 280 ألف وون. في الربع الأول، بلغت الإيرادات المجمعة 1.5766 تريليون وون، ووصل الربح التشغيلي إلى 107.8 مليار وون، محققا تحولا للربحية مقارنة بالربع السابق ونحو ضعف توقعات السوق البالغة 53.7 مليار وون. ومع ذلك، تراجعت الإيرادات والربح التشغيلي على أساس سنوي 7.1% و24.3%. تباطؤ قطاعات التجميل والسلع المنزلية والمشروبات، وخفض الاعتماد على الصين، تبقى عوامل أساسية. وزادت مبيعات أميركا الشمالية بأكثر من 35% في الربع الأول، لكن الربحية لا تكفي بعد لتعويض الصين بالكامل. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "LG H&H शेयर में बॉटम पर बहस तेज, पहली तिमाही के अच्छे नतीजों के बाद भी मतभेद",
-        "excerpt": "LG H&H का शेयर 7 मई 2026 को 275,000 वॉन पर बंद हुआ और एक महीने में करीब 17% चढ़ा, लेकिन चीन पर निर्भरता और ब्यूटी कारोबार की कमजोरी से बाजार की राय बंटी हुई है।",
-        "body": "LG Household & Health Care के शेयर ने क्या निचला स्तर बना लिया है, इस पर बहस 7 मई 2026 को फिर तेज हो गई। Korea Exchange के अनुसार, शेयर 2.80% बढ़कर 275,000 वॉन पर बंद हुआ, जो एक महीने पहले से करीब 17% अधिक है। 2021 में 1.78 मिलियन वॉन के पास कारोबार करने वाला यह शेयर अब 250,000 से 280,000 वॉन के दायरे में अटका है। पहली तिमाही में समेकित बिक्री 1.5766 ट्रिलियन वॉन और परिचालन लाभ 107.8 बिलियन वॉन रहा, जिससे पिछली तिमाही की तुलना में कंपनी लाभ में लौटी और लाभ बाजार अनुमान 53.7 बिलियन वॉन से करीब दोगुना रहा। फिर भी सालाना आधार पर बिक्री 7.1% और परिचालन लाभ 24.3% घटे। ब्यूटी, घरेलू उत्पाद और पेय कारोबार की धीमी वृद्धि तथा चीन पर निर्भरता घटाना मुख्य मुद्दे हैं। उत्तरी अमेरिका की बिक्री पहली तिमाही में 35% से अधिक बढ़ी, लेकिन लाभप्रदता चीन की पूरी भरपाई के लिए अभी पर्याप्त नहीं मानी जा रही। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Saham LG H&H Picu Debat Titik Terendah usai Kejutan Kinerja Kuartal I",
-        "excerpt": "LG H&H ditutup di 275.000 won pada 7 Mei 2026, naik sekitar 17% dalam sebulan, tetapi ketergantungan pada China dan lemahnya bisnis beauty membuat pandangan pasar terbelah.",
-        "body": "Perdebatan apakah saham LG Household & Health Care sudah mencapai titik terendah kembali memanas pada 7 Mei 2026. Menurut Korea Exchange, sahamnya ditutup naik 2,80% di 275.000 won, sekitar 17% lebih tinggi dibanding sebulan sebelumnya. Setelah sempat berada di sekitar 1,78 juta won pada 2021, saham itu kini bergerak dalam kisaran 250.000-280.000 won. Pada kuartal pertama, pendapatan konsolidasi mencapai 1,5766 triliun won dan laba operasi 107,8 miliar won, berbalik untung dibanding kuartal sebelumnya dan sekitar dua kali perkiraan pasar 53,7 miliar won. Namun secara tahunan, pendapatan dan laba operasi turun masing-masing 7,1% dan 24,3%. Perlambatan bisnis beauty, produk rumah tangga dan minuman, serta upaya mengurangi ketergantungan pada China, menjadi variabel utama. Penjualan Amerika Utara naik lebih dari 35% pada kuartal pertama, tetapi profitabilitasnya dinilai belum cukup untuk sepenuhnya menggantikan China. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "f0571f2acb25",
-    "slug": "호재라고-뛰어들었다-피눈물개미들-낚인-사이-엑시트-544253",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T18:24:17.470Z",
-    "updatedAt": "2026-05-07T18:24:17.470Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050724151",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050724151",
-    "titleFingerprint": "b1a3adaeed526d99ce6a62bd939eef09a1ed0d0a",
-    "dedupKeys": [
-      "f0571f2acb25294013d783032e4c42b522c160d8",
-      "b1a3adaeed526d99ce6a62bd939eef09a1ed0d0a",
-      "f4175359f7ecda4de09398b0b32c303f90124009"
-    ],
-    "imageUrl": "/images/articles/f0571f2acb25.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 자금조달 공시 번복에 개인투자자 피해 확산, CB·유증 리스크 부각",
-        "excerpt": "2026년 5월 7일 한국경제는 코스닥 상장사들이 제3자 배정 유상증자와 CB 발행 계획을 연기·철회하면서 개인투자자 피해가 반복되고 있다고 보도했다.",
-        "body": "2026년 5월 7일 한국경제에 따르면 코스닥시장에서 제3자 배정 유상증자와 전환사채(CB) 발행 등 자금조달 계획을 공시한 뒤 수개월간 연기하다 철회하는 사례가 잇따르고 있다. 아이톡시는 지난달 30일 100억원 규모 유상증자를 철회했고, 지난해 11월 40억원 규모 사모 CB 발행도 취소했다. 주가는 지난해 7월 초 5863원까지 올랐지만 올해 3월 거래정지 당시 312원으로 떨어졌다. 핀텔은 71억원 증자와 200억원 CB 발행 계획을 철회한 뒤 이날 1821원까지 하락했다. 코퍼스코리아도 280억원 조달 계획 철회 후 지난 3월 270원까지 밀렸다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Kosdaq Funding Reversals Hit Retail Investors as CB and Share-Issue Risks Grow",
-        "excerpt": "On May 7, 2026, Hankyung reported that Kosdaq firms’ delayed and canceled third-party share issues and CB plans are repeatedly hurting retail investors.",
-        "body": "According to Hankyung on May 7, 2026, a series of Kosdaq-listed companies have announced funding plans such as third-party share issues and convertible bond offerings, only to delay them for months and later cancel them. Itoxy withdrew a 10 billion won share issue on April 30 and had also canceled a 4 billion won private CB plan last November. Its stock rose to 5,863 won in early July last year but fell to 312 won when trading was suspended in March. Pintel canceled a 7.1 billion won share issue and 20 billion won CB plan, and its stock fell to 1,821 won that day. Corpus Korea also dropped to 270 won in March after canceling a 28 billion won funding plan. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "コスダック資金調達計画の撤回で個人投資家に打撃、CB・増資リスク浮上",
-        "excerpt": "2026年5月7日、韓国経済はコスダック上場企業の第三者割当増資やCB発行計画の延期・撤回により、個人投資家の被害が繰り返されていると報じた。",
-        "body": "韓国経済が2026年5月7日に報じたところによると、コスダック市場では第三者割当増資や転換社債（CB）発行などの資金調達計画を公示した後、数カ月延期して撤回する事例が相次いでいる。アイトキシーは4月30日に100億ウォン規模の増資を撤回し、昨年11月には40億ウォン規模の私募CB発行も取り消した。同社株は昨年7月初めに5863ウォンまで上昇したが、今年3月の取引停止時には312ウォンに下落した。ピンテルも71億ウォンの増資と200億ウォンのCB計画を撤回し、この日1821ウォンまで下げた。コーパスコリアも280億ウォンの調達計画撤回後、3月に270ウォンまで下落した。出典：hankyung.com引用。"
-      },
-      "zh": {
-        "title": "KOSDAQ融资公告反复撤回，散户受损，CB与增发风险升温",
-        "excerpt": "韩国经济日报2026年5月7日报道，KOSDAQ公司第三方配股和可转债发行计划多次延期、撤回，导致散户投资者反复受损。",
-        "body": "据韩国经济日报2026年5月7日报道，KOSDAQ市场上，一些上市公司在公告第三方配股、可转债（CB）发行等融资计划后，拖延数月再撤回的案例不断出现。Itoxy于4月30日撤回100亿韩元规模的第三方配股决定，去年11月还曾取消40亿韩元私募CB发行。其股价去年7月初一度升至5863韩元，但今年3月因审计意见被拒而停牌时跌至312韩元。Pintel也在撤回71亿韩元增资和200亿韩元CB计划后，当日跌至1821韩元。Corpus Korea撤回280亿韩元融资计划后，3月股价跌至270韩元。来源：引用hankyung.com。"
-      },
-      "es": {
-        "title": "Reveses de financiación en Kosdaq golpean a minoristas y elevan riesgo de CB",
-        "excerpt": "El 7 de mayo de 2026, Hankyung informó que retrasos y cancelaciones de ampliaciones a terceros y bonos convertibles en Kosdaq vuelven a perjudicar a minoristas.",
-        "body": "Según Hankyung el 7 de mayo de 2026, en el mercado Kosdaq se repiten casos de empresas que anuncian planes de financiación, como ampliaciones de capital a terceros o emisión de bonos convertibles (CB), los retrasan durante meses y luego los cancelan. Itoxy retiró el 30 de abril una ampliación de 10.000 millones de wones y en noviembre pasado también canceló una emisión privada de CB por 4.000 millones. Su acción subió a 5.863 wones a comienzos de julio pasado, pero cayó a 312 wones cuando fue suspendida en marzo. Pintel canceló una ampliación de 7.100 millones y CB por 20.000 millones, y bajó ese día a 1.821 wones. Corpus Korea cayó a 270 wones en marzo tras retirar un plan de 28.000 millones. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Recuos em captações na Kosdaq atingem investidores de varejo e expõem risco de CB",
-        "excerpt": "Em 7 de maio de 2026, o Hankyung informou que adiamentos e cancelamentos de aumentos de capital e CBs por empresas da Kosdaq têm prejudicado investidores individuais.",
-        "body": "Segundo o Hankyung em 7 de maio de 2026, no mercado Kosdaq têm se repetido casos de companhias que anunciam planos de captação, como aumento de capital por alocação a terceiros e emissão de bônus conversíveis (CB), adiam por meses e depois cancelam. A Itoxy retirou em 30 de abril uma emissão de 10 bilhões de won e também cancelou, em novembro passado, uma emissão privada de CB de 4 bilhões. A ação chegou a 5.863 won no início de julho passado, mas caiu para 312 won quando a negociação foi suspensa em março. A Pintel cancelou aumento de 7,1 bilhões e CBs de 20 bilhões, recuando para 1.821 won no dia. A Corpus Korea caiu a 270 won em março após retirar plano de 28 bilhões. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Kosdaq-Finanzierungsrückzüge belasten Privatanleger und rücken CB-Risiken in den Fokus",
-        "excerpt": "Hankyung berichtete am 7. Mai 2026, dass verzögerte und gestrichene Drittplatzierungen und Wandelanleihenpläne von Kosdaq-Firmen Privatanleger wiederholt treffen.",
-        "body": "Laut Hankyung vom 7. Mai 2026 häufen sich am Kosdaq Fälle, in denen börsennotierte Unternehmen Finanzierungspläne wie Drittplatzierungen oder Wandelanleihen (CB) ankündigen, sie monatelang verschieben und später zurückziehen. Itoxy strich am 30. April eine Kapitalerhöhung über 10 Milliarden Won und hatte im vergangenen November auch eine private CB-Emission über 4 Milliarden Won abgesagt. Die Aktie stieg Anfang Juli des Vorjahres auf 5.863 Won, fiel aber bei der Handelsaussetzung im März auf 312 Won. Pintel zog eine Kapitalerhöhung über 7,1 Milliarden Won und CBs über 20 Milliarden Won zurück; die Aktie sank an diesem Tag auf 1.821 Won. Corpus Korea fiel im März auf 270 Won, nachdem ein Finanzierungsplan über 28 Milliarden Won gestrichen wurde. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Les annulations de financements sur le Kosdaq frappent les particuliers et exposent le risque CB",
-        "excerpt": "Le 7 mai 2026, Hankyung a rapporté que les reports et retraits d’augmentations de capital et de CB par des sociétés du Kosdaq pénalisent à nouveau les petits porteurs.",
-        "body": "Selon Hankyung le 7 mai 2026, le marché Kosdaq voit se multiplier les cas de sociétés qui annoncent des financements, comme des augmentations de capital réservées ou des obligations convertibles (CB), les reportent pendant des mois puis les annulent. Itoxy a retiré le 30 avril une augmentation de capital de 10 milliards de wons et avait aussi annulé en novembre dernier une émission privée de CB de 4 milliards. Son action avait atteint 5 863 wons début juillet dernier, mais elle est tombée à 312 wons lors de la suspension de cotation en mars. Pintel a annulé une augmentation de 7,1 milliards et des CB de 20 milliards, puis son titre a reculé à 1 821 wons ce jour-là. Corpus Korea est tombé à 270 wons en mars après le retrait d’un plan de 28 milliards. Source : cité de hankyung.com."
-      },
-      "ar": {
-        "title": "تراجعات تمويلية في كوسداك تضرب صغار المستثمرين وتبرز مخاطر السندات القابلة للتحويل",
-        "excerpt": "في 7 مايو 2026 أفادت هانكيونغ بأن تأجيل وإلغاء خطط زيادة رأس المال وإصدار السندات القابلة للتحويل في كوسداك يسببان خسائر متكررة لصغار المستثمرين.",
-        "body": "وفقا لهانكيونغ في 7 مايو 2026، تتكرر في سوق كوسداك حالات تعلن فيها شركات مدرجة خططا للتمويل مثل زيادة رأس المال المخصصة لطرف ثالث أو إصدار سندات قابلة للتحويل، ثم تؤجلها لأشهر قبل إلغائها. سحبت Itoxy في 30 أبريل قرار زيادة رأس مال بقيمة 10 مليارات وون، وكانت قد ألغت في نوفمبر الماضي إصدارا خاصا لسندات قابلة للتحويل بقيمة 4 مليارات وون. ارتفع سهمها إلى 5863 وونا في أوائل يوليو الماضي، لكنه هبط إلى 312 وونا عند وقف التداول في مارس. كما ألغت Pintel زيادة بقيمة 7.1 مليارات وون وسندات بقيمة 20 مليار وون، وانخفض سهمها ذلك اليوم إلى 1821 وونا. وتراجع سهم Corpus Korea إلى 270 وونا في مارس بعد إلغاء خطة تمويل بقيمة 28 مليار وون. المصدر: نقلا عن hankyung.com."
-      },
-      "hi": {
-        "title": "कोसडैक फंडिंग योजनाओं की वापसी से खुदरा निवेशकों को झटका, CB जोखिम उभरा",
-        "excerpt": "7 मई 2026 को हैंक्युंग ने बताया कि कोसडैक कंपनियों की थर्ड-पार्टी शेयर इश्यू और कन्वर्टिबल बॉन्ड योजनाओं में देरी व रद्दीकरण से खुदरा निवेशक बार-बार प्रभावित हो रहे हैं।",
-        "body": "हैंक्युंग के 7 मई 2026 के अनुसार, कोसडैक बाजार में कई सूचीबद्ध कंपनियां थर्ड-पार्टी शेयर इश्यू और कन्वर्टिबल बॉन्ड (CB) जैसे फंडिंग प्लान घोषित करने के बाद उन्हें महीनों तक टालती हैं और फिर वापस लेती हैं। Itoxy ने 30 अप्रैल को 10 अरब वॉन की शेयर इश्यू योजना वापस ली और पिछले नवंबर में 4 अरब वॉन के प्राइवेट CB इश्यू को भी रद्द किया था। इसका शेयर पिछले साल जुलाई की शुरुआत में 5,863 वॉन तक गया, लेकिन मार्च में ट्रेडिंग रुकने के समय 312 वॉन पर आ गया। Pintel ने 7.1 अरब वॉन की शेयर इश्यू और 20 अरब वॉन के CB प्लान को रद्द किया, जिसके बाद शेयर उसी दिन 1,821 वॉन तक गिरा। Corpus Korea भी 28 अरब वॉन की फंडिंग योजना रद्द होने के बाद मार्च में 270 वॉन तक गिरा। स्रोत: hankyung.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Pembatalan pendanaan Kosdaq menekan investor ritel, risiko CB dan rights issue mencuat",
-        "excerpt": "Pada 7 Mei 2026, Hankyung melaporkan penundaan dan pembatalan rencana penerbitan saham pihak ketiga serta CB oleh emiten Kosdaq kembali merugikan investor ritel.",
-        "body": "Menurut Hankyung pada 7 Mei 2026, di pasar Kosdaq makin sering terjadi kasus emiten yang mengumumkan rencana pendanaan, seperti penerbitan saham kepada pihak ketiga dan obligasi konversi (CB), lalu menundanya berbulan-bulan sebelum membatalkannya. Itoxy pada 30 April menarik rencana penerbitan saham senilai 10 miliar won dan pada November lalu juga membatalkan CB privat senilai 4 miliar won. Sahamnya sempat naik ke 5.863 won pada awal Juli tahun lalu, tetapi turun ke 312 won saat perdagangan dihentikan pada Maret. Pintel membatalkan penerbitan saham 7,1 miliar won dan CB 20 miliar won, lalu sahamnya turun hari itu ke 1.821 won. Corpus Korea juga jatuh ke 270 won pada Maret setelah membatalkan rencana pendanaan 28 miliar won. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "f74a5634cbfa",
-    "slug": "kcc-분석-실리콘-부진에-실적-기대-밑돌았지만-자산가치주주환원-부각-777016",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T18:23:01.561Z",
-    "updatedAt": "2026-05-07T18:23:01.561Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605072241i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605072241i",
-    "titleFingerprint": "1ec9cca104fbd5a0ddb8aac34cd632fdc78e1ee6",
-    "dedupKeys": [
-      "f74a5634cbfa88560b4901f3e8ab05fc355241a7",
-      "1ec9cca104fbd5a0ddb8aac34cd632fdc78e1ee6",
-      "6878fb1411bbd34a626006d7b508db7439a15f23"
-    ],
-    "imageUrl": "/images/articles/f74a5634cbfa.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KCC 분석, 실리콘 부진에 실적 기대 밑돌았지만 자산가치·주주환원 매력 부각",
-        "excerpt": "hankyung.com에 따르면 KCC는 실리콘 사업 부진으로 실적이 시장 기대를 밑돌았지만, 보유 자산가치와 주주환원 가능성이 함께 부각되며 투자 포인트로 재조명됐다.",
-        "body": "KCC가 실리콘 부문 부진의 영향으로 실적 기대치를 밑돈 것으로 분석됐다. hankyung.com은 KCC 분석에서 실적이 기대에 미치지 못한 배경으로 실리콘 업황 부진을 짚었다. 다만 이번 평가에서는 단기 실적 부진만이 아니라 회사가 보유한 자산가치와 주주환원 요소도 함께 부각됐다. 실리콘 사업의 회복 여부가 실적 흐름을 좌우할 변수로 남는 가운데, 투자자들은 본업 부진과 자산가치, 주주환원 가능성을 함께 살펴볼 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KCC Analysis: Silicone Weakness Hits Earnings, but Asset Value and Returns Stand Out",
-        "excerpt": "According to hankyung.com, KCC’s earnings fell short of expectations due to weakness in its silicone business, while its asset value and shareholder return potential gained attention.",
-        "body": "KCC’s earnings were analyzed as falling below expectations due to weakness in its silicone segment. In its KCC analysis, hankyung.com pointed to the sluggish silicone market as the reason results did not meet expectations. However, the assessment also highlighted not only the short-term earnings disappointment but also the company’s asset value and shareholder return factors. While the recovery of the silicone business remains a key variable for earnings momentum, investors may need to review the core business weakness, asset value and shareholder return potential together. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KCC分析、シリコーン不振で業績期待下回るも資産価値と株主還元が注目",
-        "excerpt": "hankyung.comによると、KCCはシリコーン事業の不振で業績が市場期待を下回った一方、保有資産価値と株主還元の可能性が投資材料として浮上した。",
-        "body": "KCCはシリコーン部門の不振の影響で、業績が期待値を下回ったと分析された。hankyung.comはKCC分析で、業績が期待に届かなかった背景としてシリコーン市況の低迷を挙げた。ただし今回の評価では、短期的な業績不振だけでなく、同社が保有する資産価値と株主還元要素もあわせて注目された。シリコーン事業の回復可否が業績の流れを左右する変数として残る中、投資家は本業の不振、資産価値、株主還元の可能性をあわせて確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KCC分析：有机硅低迷拖累业绩，但资产价值与股东回报受关注",
-        "excerpt": "据hankyung.com报道，KCC因有机硅业务低迷导致业绩低于市场预期，但其持有资产价值和股东回报可能性同时受到关注。",
-        "body": "KCC被分析认为受有机硅部门低迷影响，业绩低于预期。hankyung.com在KCC分析中指出，有机硅行业景气不振是业绩未达预期的背景。不过，此次评价并未只关注短期业绩低迷，也同时强调了公司持有的资产价值和股东回报因素。在有机硅业务能否复苏仍是影响业绩走势的变量之际，投资者有必要同时审视主营业务疲弱、资产价值以及股东回报可能性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Análisis de KCC: el débil negocio de silicona pesa, pero resaltan activos y retornos",
-        "excerpt": "Según hankyung.com, KCC quedó por debajo de las expectativas por la debilidad del negocio de silicona, aunque también destacaron su valor de activos y el potencial de retorno al accionista.",
-        "body": "KCC fue analizada como una compañía cuyos resultados quedaron por debajo de las expectativas por el impacto de la debilidad en el segmento de silicona. En su análisis de KCC, hankyung.com señaló la floja situación del mercado de silicona como el motivo de que el desempeño no alcanzara lo esperado. Sin embargo, la evaluación también destacó, además del deterioro de corto plazo en resultados, el valor de los activos que posee la empresa y los factores de retorno al accionista. Mientras la recuperación del negocio de silicona sigue siendo una variable clave para la trayectoria de resultados, los inversores deben observar conjuntamente la debilidad operativa, el valor de activos y la posibilidad de retornos al accionista. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Análise da KCC: fraqueza em silicone pesa nos resultados, mas ativos e retorno ganham foco",
-        "excerpt": "Segundo o hankyung.com, a KCC teve desempenho abaixo das expectativas devido à fraqueza no negócio de silicone, enquanto valor de ativos e potencial de retorno ao acionista ganharam destaque.",
-        "body": "A KCC foi analisada como tendo apresentado resultados abaixo das expectativas por causa da fraqueza no segmento de silicone. Em sua análise da KCC, o hankyung.com apontou a desaceleração do mercado de silicone como o motivo para o desempenho não atingir o esperado. Ainda assim, a avaliação destacou não apenas a fraqueza de curto prazo nos resultados, mas também o valor dos ativos detidos pela companhia e os fatores de retorno ao acionista. Enquanto a recuperação do negócio de silicone permanece como variável para a tendência dos resultados, investidores precisam observar em conjunto a fraqueza operacional, o valor dos ativos e a possibilidade de retorno ao acionista. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KCC-Analyse: Silikonschwäche drückt Ergebnis, doch Vermögenswerte und Ausschüttungen rücken vor",
-        "excerpt": "Laut hankyung.com blieb KCC wegen Schwäche im Silikongeschäft hinter den Erwartungen zurück, während Vermögenswert und mögliche Aktionärsrenditen stärker in den Fokus rückten.",
-        "body": "KCC wurde so analysiert, dass die Ergebnisse wegen der Schwäche im Silikonsegment unter den Erwartungen lagen. hankyung.com nannte in der KCC-Analyse die schwache Branchenlage bei Silikon als Hintergrund dafür, dass die Resultate die Erwartungen nicht erfüllten. Zugleich hob die Bewertung nicht nur die kurzfristige Ergebnisenttäuschung hervor, sondern auch den Wert der gehaltenen Vermögenswerte und Faktoren der Aktionärsrendite. Da die Erholung des Silikongeschäfts ein wichtiger Faktor für den Ergebnisverlauf bleibt, sollten Anleger die Schwäche des Kerngeschäfts, den Vermögenswert und mögliche Aktionärsrenditen gemeinsam prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Analyse de KCC : la faiblesse du silicone pèse, mais actifs et rendement actionnarial ressortent",
-        "excerpt": "Selon hankyung.com, KCC a manqué les attentes en raison de la faiblesse de l’activité silicone, tandis que la valeur de ses actifs et le potentiel de retour aux actionnaires ont été mis en avant.",
-        "body": "KCC a été analysé comme ayant affiché des résultats inférieurs aux attentes sous l’effet de la faiblesse du segment silicone. Dans son analyse de KCC, hankyung.com a indiqué que la conjoncture dégradée du silicone expliquait le fait que les résultats n’aient pas atteint les attentes. L’évaluation a toutefois souligné non seulement la faiblesse de court terme des bénéfices, mais aussi la valeur des actifs détenus par l’entreprise et les éléments liés au retour aux actionnaires. Alors que la reprise de l’activité silicone reste une variable pour l’évolution des résultats, les investisseurs doivent examiner ensemble la faiblesse opérationnelle, la valeur des actifs et le potentiel de retour aux actionnaires. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تحليل KCC: ضعف السيليكون يضغط على النتائج لكن قيمة الأصول وعوائد المساهمين تبرز",
-        "excerpt": "بحسب hankyung.com، جاءت نتائج KCC دون التوقعات بسبب ضعف نشاط السيليكون، بينما برزت قيمة الأصول التي تمتلكها الشركة وإمكانات عوائد المساهمين كعاملين مهمين.",
-        "body": "تم تحليل أداء KCC على أنه جاء دون التوقعات نتيجة تأثير ضعف قطاع السيليكون. وذكر hankyung.com في تحليله لـ KCC أن تباطؤ سوق السيليكون كان خلف عدم وصول النتائج إلى مستوى التوقعات. ومع ذلك، لم يقتصر التقييم على ضعف الأرباح في الأجل القصير، بل أبرز أيضا قيمة الأصول التي تمتلكها الشركة وعوامل عوائد المساهمين. وبينما تبقى إمكانية تعافي نشاط السيليكون متغيرا مؤثرا في مسار النتائج، يحتاج المستثمرون إلى النظر معا في ضعف النشاط الأساسي وقيمة الأصول وإمكانات عوائد المساهمين. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KCC विश्लेषण: सिलिकॉन कमजोरी से नतीजे उम्मीद से कम, पर संपत्ति मूल्य और रिटर्न उभरे",
-        "excerpt": "hankyung.com के अनुसार, सिलिकॉन कारोबार की कमजोरी से KCC के नतीजे अपेक्षा से कम रहे, लेकिन कंपनी की संपत्ति का मूल्य और शेयरधारक रिटर्न की संभावना भी प्रमुख रूप से सामने आई।",
-        "body": "KCC के नतीजों का विश्लेषण सिलिकॉन खंड की कमजोरी के असर से अपेक्षाओं से कम रहने के रूप में किया गया। hankyung.com ने KCC विश्लेषण में बताया कि सिलिकॉन बाजार की सुस्ती नतीजों के अपेक्षित स्तर तक नहीं पहुंचने की पृष्ठभूमि रही। हालांकि इस मूल्यांकन में केवल अल्पकालिक आय कमजोरी ही नहीं, बल्कि कंपनी के पास मौजूद संपत्ति मूल्य और शेयरधारक रिटर्न से जुड़े पहलू भी उभरे। सिलिकॉन कारोबार की रिकवरी नतीजों की दिशा तय करने वाला कारक बनी हुई है, इसलिए निवेशकों को मुख्य कारोबार की कमजोरी, संपत्ति मूल्य और शेयरधारक रिटर्न की संभावना को साथ में देखना होगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Analisis KCC: Bisnis silikon lemah tekan kinerja, tetapi nilai aset dan imbal hasil disorot",
-        "excerpt": "Menurut hankyung.com, kinerja KCC berada di bawah ekspektasi akibat lemahnya bisnis silikon, sementara nilai aset dan potensi pengembalian kepada pemegang saham ikut menjadi sorotan.",
-        "body": "KCC dianalisis mencatat kinerja di bawah ekspektasi akibat dampak pelemahan di segmen silikon. Dalam analisis KCC, hankyung.com menyebut kondisi pasar silikon yang lesu sebagai latar belakang hasil yang tidak mencapai harapan. Namun, penilaian tersebut tidak hanya menyoroti pelemahan kinerja jangka pendek, melainkan juga nilai aset yang dimiliki perusahaan serta faktor pengembalian kepada pemegang saham. Ketika pemulihan bisnis silikon masih menjadi variabel bagi arah kinerja, investor perlu menilai bersama kelemahan bisnis inti, nilai aset, dan potensi pengembalian kepada pemegang saham. Sumber: hankyung.com"
       }
     }
   }
