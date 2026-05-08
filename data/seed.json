@@ -1,5 +1,230 @@
 [
   {
+    "id": "606cd7aea2ed",
+    "slug": "7500피-코앞인데-내-계좌는-왜-317311",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T13:34:50.551Z",
+    "updatedAt": "2026-05-08T13:34:50.551Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848971",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848971",
+    "titleFingerprint": "7f0ca3f3a42081ada317915e7a151e8f67eab8da",
+    "dedupKeys": [
+      "606cd7aea2ed772b32941820e2386f0f49f7d058",
+      "7f0ca3f3a42081ada317915e7a151e8f67eab8da",
+      "44627e4196dff4785d5c3914654f2b6cf7b8d9b8"
+    ],
+    "imageUrl": "/images/articles/606cd7aea2ed.jpg",
+    "i18n": {
+      "ko": {
+        "title": "7500포인트 코앞인데 내 계좌는 왜 다른가, 투자자 체감 괴리 주목",
+        "excerpt": "hankyung.com은 7500포인트에 가까워진 시장 흐름 속에서도 투자자 계좌가 이를 체감하지 못하는 상황을 제목으로 제시했다.",
+        "body": "hankyung.com은 ‘7500피 코앞인데 내 계좌는 왜…’라는 제목으로 7500포인트에 가까워진 시장 흐름과 개인 투자자의 계좌 체감 사이의 괴리를 다뤘다. 제공된 원문에는 별도 요약이 없으며, 구체적인 시장명, 종목, 수익률, 시점은 제시되지 않았다. 확인 가능한 핵심 사실은 7500포인트라는 지수 수준이 언급됐고, 투자자가 자신의 계좌 성과와 지수 흐름이 다르게 느껴지는 문제의식이 제목에 담겼다는 점이다. 향후 판단에는 원문 기사에서 제시한 세부 수치와 배경 확인이 필요하다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Why accounts lag as 7,500 points nears: investor gap draws focus",
+        "excerpt": "hankyung.com framed a market move nearing 7,500 points alongside investors’ question over why their own accounts do not reflect that strength.",
+        "body": "hankyung.com used the headline “7500 points are just ahead, but why is my account…” to address the gap between a market level nearing 7,500 points and what individual investors feel in their own portfolios. The provided source text includes no separate summary and does not specify the market name, individual stocks, returns, or timing. The verifiable facts are that a 7,500-point level was mentioned and that the headline highlights investor concern over a mismatch between index movement and account performance. Further judgment requires checking the detailed figures and context in the original article. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "7500ポイント目前でも口座はなぜ違うのか、投資家の体感差に注目",
+        "excerpt": "hankyung.comは、7500ポイントに近づく市場の流れと、それを口座で実感できない投資家の疑問を見出しで示した。",
+        "body": "hankyung.comは「7500ポイント目前なのに、私の口座はなぜ…」という趣旨の見出しで、7500ポイントに近づく市場の流れと個人投資家の口座での実感とのずれを取り上げた。提供された原文には別途の要約はなく、具体的な市場名、銘柄、収益率、時点は示されていない。確認できる中心事実は、7500ポイントという指数水準が言及され、指数の動きと口座成績が異なって感じられるという投資家の問題意識が見出しに含まれている点だ。今後の判断には原文記事の詳細な数値と背景確認が必要だ。出所はhankyung.com。"
+      },
+      "zh": {
+        "title": "7500点近在眼前，账户为何不同步？投资者体感落差受关注",
+        "excerpt": "hankyung.com以接近7500点的市场走势为背景，提出投资者账户为何未能同步感受到涨势的问题。",
+        "body": "hankyung.com以“7500点近在眼前，可我的账户为何……”为题，呈现了市场水平接近7500点与个人投资者账户体感之间的落差。所提供的原文没有单独摘要，也未说明具体市场名称、个股、收益率或时间点。可以确认的核心事实是，报道标题提到了7500点这一指数水平，并突出了投资者对指数走势与自身账户表现不一致的疑问。后续判断仍需查看原文中的详细数据和背景说明。来源为hankyung.com。"
+      },
+      "es": {
+        "title": "Cerca de 7.500 puntos, pero la cuenta no acompaña: foco en la brecha",
+        "excerpt": "hankyung.com presentó el avance hacia los 7.500 puntos junto con la duda de inversores cuyos saldos no reflejan ese movimiento.",
+        "body": "hankyung.com tituló en torno a “los 7.500 puntos están cerca, pero por qué mi cuenta…” para abordar la brecha entre un mercado próximo a los 7.500 puntos y la experiencia de los inversores individuales en sus propias carteras. El texto fuente proporcionado no incluye un resumen separado ni precisa el nombre del mercado, acciones concretas, rentabilidades o fecha. Los hechos verificables son que se menciona el nivel de 7.500 puntos y que el titular recoge la inquietud por la diferencia entre el movimiento del índice y el resultado de la cuenta. Para evaluar el caso hacen falta las cifras y el contexto del artículo original. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Perto dos 7.500 pontos, mas a conta não acompanha: diferença em foco",
+        "excerpt": "hankyung.com apresentou a aproximação dos 7.500 pontos junto à dúvida de investidores cujas contas não refletem esse movimento.",
+        "body": "hankyung.com usou um título no sentido de “7.500 pontos estão logo ali, mas por que minha conta…” para tratar da diferença entre um mercado próximo dos 7.500 pontos e a percepção dos investidores individuais em suas carteiras. O texto original fornecido não traz resumo separado e não informa nome do mercado, ações específicas, rentabilidades ou data. Os fatos verificáveis são a menção ao nível de 7.500 pontos e a preocupação expressa no título sobre a divergência entre o movimento do índice e o desempenho da conta. Qualquer avaliação adicional exige consultar os números e o contexto do artigo original. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "7.500 Punkte fast erreicht, doch das Depot hinkt: Anlegerlücke im Blick",
+        "excerpt": "hankyung.com stellte einen Markt nahe 7.500 Punkten der Frage gegenüber, warum Anleger dies im eigenen Depot nicht spüren.",
+        "body": "hankyung.com griff mit der Überschrift sinngemäß „7.500 Punkte sind fast erreicht, aber warum mein Konto…“ die Lücke zwischen einem Marktstand nahe 7.500 Punkten und der Wahrnehmung einzelner Anleger im eigenen Depot auf. Der bereitgestellte Originaltext enthält keine separate Zusammenfassung und nennt keinen konkreten Markt, keine Einzeltitel, Renditen oder Zeitangaben. Überprüfbar ist, dass ein Niveau von 7.500 Punkten erwähnt wird und die Überschrift die Sorge über eine Abweichung zwischen Indexbewegung und Depotentwicklung betont. Für weitere Schlüsse sind die Detailzahlen und der Kontext des Originalartikels nötig. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Près de 7 500 points, mais le compte ne suit pas : l’écart intrigue",
+        "excerpt": "hankyung.com a mis en avant un marché proche de 7 500 points et la question d’investisseurs ne voyant pas cet élan dans leur compte.",
+        "body": "hankyung.com a utilisé un titre du type « 7 500 points tout proches, mais pourquoi mon compte… » pour traiter l’écart entre un marché approchant les 7 500 points et le ressenti des investisseurs particuliers dans leur propre portefeuille. Le texte source fourni ne comporte pas de résumé distinct et ne précise ni le nom du marché, ni des actions, ni des rendements, ni une date. Les faits vérifiables sont la mention du seuil de 7 500 points et l’inquiétude exprimée dans le titre sur la différence entre l’évolution de l’indice et la performance du compte. Toute analyse supplémentaire exige les chiffres et le contexte de l’article original. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "قرب 7500 نقطة والحساب لا يواكب: فجوة شعور المستثمرين تحت الضوء",
+        "excerpt": "عرض موقع hankyung.com اقتراب السوق من مستوى 7500 نقطة مع سؤال المستثمرين عن سبب عدم انعكاس ذلك على حساباتهم.",
+        "body": "استخدم موقع hankyung.com عنوانا بمعنى «7500 نقطة باتت قريبة، لكن لماذا حسابي…» لتناول الفجوة بين مستوى سوق يقترب من 7500 نقطة وما يشعر به المستثمرون الأفراد في حساباتهم. النص الأصلي المقدم لا يتضمن ملخصا منفصلا، ولا يحدد اسم السوق أو أسهما بعينها أو نسب عائد أو توقيتا محددا. الحقائق التي يمكن التحقق منها هي ذكر مستوى 7500 نقطة، وأن العنوان يبرز تساؤل المستثمرين عن اختلاف حركة المؤشر عن أداء الحساب. أي حكم إضافي يحتاج إلى مراجعة الأرقام التفصيلية والسياق في المقال الأصلي. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "7500 अंक करीब, फिर भी खाता अलग क्यों दिखता है? निवेशक अंतर पर फोकस",
+        "excerpt": "hankyung.com ने 7500 अंक के करीब पहुंचते बाजार और उसे अपने खातों में महसूस न कर पाने वाले निवेशकों की चिंता को शीर्षक बनाया।",
+        "body": "hankyung.com ने “7500 अंक सामने हैं, फिर भी मेरा खाता क्यों…” जैसे शीर्षक के जरिए 7500 अंक के करीब पहुंचते बाजार और व्यक्तिगत निवेशकों के खाते में महसूस होने वाले अंतर को उठाया। उपलब्ध मूल पाठ में अलग सारांश नहीं है और इसमें बाजार का नाम, खास शेयर, रिटर्न या समय नहीं बताया गया है। सत्यापित की जा सकने वाली मुख्य बातें यह हैं कि 7500 अंक के स्तर का उल्लेख किया गया और शीर्षक में सूचकांक की चाल तथा खाते के प्रदर्शन के बीच फर्क महसूस करने वाले निवेशकों की चिंता दर्ज है। आगे की राय के लिए मूल लेख के विस्तृत आंकड़े और संदर्भ देखना जरूरी है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Mendekati 7.500 poin, tapi rekening tak ikut naik: jarak investor disorot",
+        "excerpt": "hankyung.com menyoroti pasar yang mendekati 7.500 poin bersama pertanyaan investor mengapa rekening mereka tidak mencerminkan gerak itu.",
+        "body": "hankyung.com memakai judul bermakna “7.500 poin sudah di depan mata, tetapi mengapa rekening saya…” untuk membahas jarak antara pasar yang mendekati 7.500 poin dan apa yang dirasakan investor individu pada rekening investasinya. Teks sumber yang diberikan tidak memuat ringkasan terpisah serta tidak menyebut nama pasar, saham tertentu, imbal hasil, atau waktu kejadian. Fakta yang dapat dipastikan adalah adanya penyebutan level 7.500 poin dan bahwa judul memuat kegelisahan investor atas perbedaan antara pergerakan indeks dan kinerja rekening. Penilaian lanjutan memerlukan angka rinci dan konteks dari artikel asli. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "f26dc413415f",
+    "slug": "나만-못-벌었어삼전닉스-없는-찐개미-담은-종목-봤더니-739278",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T13:33:53.846Z",
+    "updatedAt": "2026-05-08T13:33:53.846Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050848741",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050848741",
+    "titleFingerprint": "7c52422d2d97eb571d1527583a3ca650004f8910",
+    "dedupKeys": [
+      "f26dc413415f364ca8ed560ddb3fe41bc71fa0e3",
+      "7c52422d2d97eb571d1527583a3ca650004f8910",
+      "4446b59361570d1806d42a82dfc0ec3f0768d2ed"
+    ],
+    "imageUrl": "/images/articles/f26dc413415f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼전닉스 없는 찐개미 보유 종목은? 개인투자자 관심 쏠린 배경",
+        "excerpt": "한국경제는 ‘삼전닉스’가 없는 찐개미 투자자들이 어떤 종목을 담았는지 조명하며, 개인투자자의 포트폴리오 흐름과 시장 관심을 짚었다.",
+        "body": "한국경제(hankyung.com)는 ‘나만 못 벌었어’라는 반응이 나오는 시장 분위기 속에서 삼성전자와 SK하이닉스를 뜻하는 ‘삼전닉스’가 없는 찐개미 투자자들의 보유 종목을 살펴봤다고 보도했다. 기사 제목은 반도체 대형주 중심의 관심과 달리, 해당 종목을 보유하지 않은 개인투자자들이 어떤 선택을 했는지에 초점을 맞춘다. 원문 요약은 제공되지 않았으며, 확인 가능한 정보는 제목과 출처에 한정된다. 이번 보도는 개인투자자 포트폴리오와 국내 증시 쏠림 현상을 함께 읽는 단서로 제시됐다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Stocks Held by Retail Investors Without Samsung-SK Hynix Draw Attention",
+        "excerpt": "Hankyung looked at which stocks so-called real retail investors held when they did not own the Samsung Electronics-SK Hynix pair, highlighting portfolio interest.",
+        "body": "Hankyung.com reported on the stocks held by so-called real retail investors who do not own the “Samsung-SK Hynix” pair, referring to Samsung Electronics and SK Hynix. The article’s framing, led by the phrase “I’m the only one who didn’t make money,” focuses on how individual investors positioned themselves outside the heavily watched semiconductor names. No original summary was provided, so the confirmed information is limited to the title and source. The report is presented as a clue for reading retail portfolios and concentration in the Korean stock market. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン・SKハイニックスなしの個人投資家保有銘柄に注目",
+        "excerpt": "韓国経済新聞は、サムスン電子とSKハイニックスを持たない個人投資家がどの銘柄を保有したのかを取り上げた。",
+        "body": "韓国経済新聞（hankyung.com）は、「自分だけ稼げなかった」という市場の反応が出る中、サムスン電子とSKハイニックスを指す「サムジョンニックス」を持たない本物の個人投資家の保有銘柄を見たと報じた。記事の見出しは、半導体大型株への関心とは別に、これらを保有しない個人投資家がどのような選択をしたのかに焦点を当てている。原文の要約は提供されておらず、確認できる情報は見出しと出典に限られる。この報道は、個人投資家のポートフォリオと韓国株式市場の偏りを読む手掛かりとして示された。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "未持有三星电子和SK海力士的散户持仓股票受到关注",
+        "excerpt": "韩国经济新闻关注未持有“三星电子-SK海力士”组合的真实散户投资者买入了哪些股票，并梳理其持仓动向。",
+        "body": "韩国经济新闻（hankyung.com）报道称，在市场出现“只有我没赚到”的反应之际，报道查看了未持有指三星电子和SK海力士的“三电尼克斯”组合的真实散户投资者所持股票。文章标题的重点，是在半导体大型股受到集中关注之外，未持有这些股票的个人投资者做出了什么选择。原文摘要未提供，因此可确认的信息仅限于标题和来源。该报道被视为观察个人投资者投资组合以及韩国股市资金集中现象的一条线索。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Acciones de minoristas sin Samsung ni SK Hynix atraen la atención",
+        "excerpt": "Hankyung analizó qué acciones mantienen los inversores minoristas que no poseen el dúo Samsung Electronics-SK Hynix, en medio del interés del mercado.",
+        "body": "Hankyung.com informó sobre las acciones mantenidas por los llamados inversores minoristas reales que no poseen el dúo “Samsung-SK Hynix”, referencia a Samsung Electronics y SK Hynix. El enfoque del artículo, encabezado por la frase “solo yo no gané dinero”, se centra en cómo se posicionaron los inversores individuales fuera de los nombres de semiconductores más observados. No se proporcionó un resumen original, por lo que la información confirmada se limita al título y la fuente. El reporte se presenta como una pista para leer las carteras minoristas y la concentración del mercado bursátil coreano. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ações de investidores sem Samsung e SK Hynix entram no radar",
+        "excerpt": "O Hankyung analisou quais ações foram mantidas por investidores pessoa física que não tinham Samsung Electronics nem SK Hynix na carteira.",
+        "body": "O Hankyung.com informou sobre as ações mantidas pelos chamados investidores pessoa física reais que não possuem o par “Samsung-SK Hynix”, referência a Samsung Electronics e SK Hynix. A abordagem do artigo, marcada pela frase “só eu não ganhei dinheiro”, foca em como investidores individuais se posicionaram fora dos grandes nomes de semicondutores. Nenhum resumo original foi fornecido, portanto as informações confirmadas se limitam ao título e à fonte. A reportagem é apresentada como uma pista para entender carteiras de varejo e a concentração no mercado acionário coreano. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Aktien von Privatanlegern ohne Samsung und SK Hynix rücken in den Fokus",
+        "excerpt": "Hankyung untersuchte, welche Aktien echte Privatanleger hielten, wenn Samsung Electronics und SK Hynix nicht in ihren Portfolios vertreten waren.",
+        "body": "Hankyung.com berichtete über die Aktien sogenannter echter Privatanleger, die das Duo „Samsung-SK Hynix“, also Samsung Electronics und SK Hynix, nicht besitzen. Der Artikel greift die Stimmung „Nur ich habe nichts verdient“ auf und richtet den Blick darauf, wie sich einzelne Anleger außerhalb der stark beachteten Halbleiter-Schwergewichte positionierten. Eine Originalzusammenfassung wurde nicht bereitgestellt, daher sind die bestätigten Informationen auf Titel und Quelle begrenzt. Der Bericht dient als Hinweis, um Privatanleger-Portfolios und die Konzentration am koreanischen Aktienmarkt zu lesen. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les actions détenues sans Samsung ni SK Hynix attirent l’attention",
+        "excerpt": "Hankyung a examiné les actions détenues par les particuliers n’ayant pas Samsung Electronics ni SK Hynix, dans un marché centré sur ces valeurs.",
+        "body": "Hankyung.com a rapporté les actions détenues par de véritables investisseurs particuliers qui ne possèdent pas le duo “Samsung-SK Hynix”, c’est-à-dire Samsung Electronics et SK Hynix. L’article, introduit par l’idée “je suis le seul à ne pas avoir gagné d’argent”, s’intéresse à la façon dont les particuliers se sont positionnés en dehors des grandes valeurs de semi-conducteurs très suivies. Aucun résumé original n’a été fourni; les informations confirmées se limitent donc au titre et à la source. Ce reportage sert d’indice pour lire les portefeuilles des particuliers et la concentration du marché coréen. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "أسهم مستثمري التجزئة من دون سامسونغ وSK هاينكس تثير الاهتمام",
+        "excerpt": "تناولت هانكيونغ الأسهم التي يحتفظ بها مستثمرون أفراد لا يملكون سامسونغ إلكترونيكس أو SK هاينكس، وسط اهتمام واسع بمحافظ الأفراد.",
+        "body": "ذكرت هانكيونغ عبر hankyung.com أنها نظرت في الأسهم التي يحتفظ بها مستثمرون أفراد حقيقيون لا يملكون ثنائي “سامسونغ-SK هاينكس”، أي سامسونغ إلكترونيكس وSK هاينكس. ويأتي عنوان المقال في أجواء تعكس عبارة “أنا الوحيد الذي لم يربح”، مع التركيز على اختيارات المستثمرين الأفراد خارج أسهم أشباه الموصلات الكبرى التي تحظى بمتابعة واسعة. لم يتم تقديم ملخص أصلي، لذلك تقتصر المعلومات المؤكدة على العنوان والمصدر. ويُطرح التقرير كإشارة لقراءة محافظ الأفراد وظاهرة التركز في سوق الأسهم الكورية. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Samsung-SK Hynix के बिना खुदरा निवेशकों के शेयरों पर बाजार की नजर",
+        "excerpt": "Hankyung ने देखा कि Samsung Electronics और SK Hynix नहीं रखने वाले वास्तविक खुदरा निवेशकों ने किन शेयरों को पोर्टफोलियो में रखा।",
+        "body": "Hankyung.com ने उन तथाकथित वास्तविक खुदरा निवेशकों के शेयरों पर रिपोर्ट की, जिनके पास “Samsung-SK Hynix” जोड़ी, यानी Samsung Electronics और SK Hynix, नहीं थी। “सिर्फ मैं ही नहीं कमा पाया” जैसी बाजार भावना के बीच लेख का फोकस इस बात पर है कि सेमीकंडक्टर की बड़ी चर्चित कंपनियों से बाहर व्यक्तिगत निवेशकों ने कैसी स्थिति ली। मूल सारांश उपलब्ध नहीं कराया गया, इसलिए पुष्ट जानकारी शीर्षक और स्रोत तक सीमित है। यह रिपोर्ट खुदरा निवेशकों के पोर्टफोलियो और कोरियाई शेयर बाजार में झुकाव को पढ़ने का संकेत देती है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham Investor Ritel Tanpa Samsung dan SK Hynix Jadi Sorotan",
+        "excerpt": "Hankyung menyoroti saham yang dipegang investor ritel yang tidak memiliki Samsung Electronics dan SK Hynix, saat minat pasar tertuju pada portofolio ritel.",
+        "body": "Hankyung.com melaporkan saham yang dipegang oleh investor ritel yang disebut benar-benar individu dan tidak memiliki pasangan “Samsung-SK Hynix”, yakni Samsung Electronics dan SK Hynix. Dengan nuansa judul “hanya saya yang tidak mendapat untung”, artikel itu berfokus pada bagaimana investor individu mengambil posisi di luar nama besar semikonduktor yang banyak diperhatikan. Ringkasan asli tidak disediakan, sehingga informasi yang dapat dipastikan terbatas pada judul dan sumber. Laporan ini menjadi petunjuk untuk membaca portofolio investor ritel dan konsentrasi di pasar saham Korea. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "74eb9743354d",
+    "slug": "칠천피-달성까지-숨고른-현대차로봇-업고-재시동-종목-118439",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T13:32:45.325Z",
+    "updatedAt": "2026-05-08T13:32:45.326Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050843986",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050843986",
+    "titleFingerprint": "7576beea47840d8523677dc78310114c3b95bc45",
+    "dedupKeys": [
+      "74eb9743354dd37b0d43ae943402364cbcf34713",
+      "7576beea47840d8523677dc78310114c3b95bc45",
+      "ba320762425d1c55a48023976cb211176f94a332"
+    ],
+    "imageUrl": "/images/articles/74eb9743354d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차, ‘칠천피’ 앞두고 숨고르기…로봇 사업으로 주가 재시동 주목",
+        "excerpt": "현대차가 ‘칠천피’ 달성 기대 속에서 잠시 숨을 고른 가운데, 로봇 사업이 향후 주가 흐름의 재시동 요인으로 부각됐다고 한국경제가 보도했다.",
+        "body": "현대차가 ‘칠천피’ 달성 기대를 앞두고 주가 흐름에서 숨고르기 국면에 들어간 가운데, 로봇 사업이 다시 주목받고 있다. 한국경제의 ‘종목+’ 보도는 현대차가 단기 상승 이후 속도 조절을 보이는 상황에서 로봇 관련 성장 기대가 투자자 관심을 끌고 있다고 전했다. 기사 제목상 핵심은 현대차 주가가 곧장 추가 상승하기보다 시장 기대를 소화하는 과정에 있으며, 로봇이 재시동의 소재로 거론된다는 점이다. 다만 제공된 원문 정보에는 구체적인 주가, 거래량, 실적 수치가 포함되지 않았다. 향후 관전 포인트는 현대차의 기존 자동차 사업과 로봇 사업 기대가 시장 평가에 어떻게 반영되는지다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hyundai Motor pauses before ‘KOSPI 7,000’ hopes as robotics draws fresh focus",
+        "excerpt": "Hyundai Motor has paused amid expectations tied to the ‘KOSPI 7,000’ theme, while its robotics business is being watched as a possible factor for renewed momentum, Hankyung reported.",
+        "body": "Hyundai Motor is drawing attention after entering a pause in its share-price momentum ahead of expectations linked to the ‘KOSPI 7,000’ theme, with robotics emerging as a renewed point of focus. According to Hankyung’s Stock+ report, investors are watching whether robotics-related growth expectations can help restart interest after a period of short-term speed adjustment. Based on the provided source information, the key point is not an immediate claim of further gains, but a market phase in which Hyundai Motor is digesting expectations while robotics is cited as a potential catalyst. No specific share price, trading volume, or earnings figures were included in the supplied source text. The next issue is how the market reflects both Hyundai Motor’s core auto business and robotics expectations. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "現代自動車、「KOSPI7000」期待前に一服…ロボット事業に再注目",
+        "excerpt": "現代自動車は「KOSPI7000」達成への期待を前に株価が一服するなか、ロボット事業が今後の再始動材料として注目されていると韓国経済が報じた。",
+        "body": "現代自動車は「KOSPI7000」達成への期待を前に、株価の流れが一服する局面に入るなか、ロボット事業が改めて注目されている。韓国経済の「銘柄＋」報道によると、短期的な上昇後に速度調整を見せる状況で、ロボット関連の成長期待が投資家の関心を集めている。提供された原文情報での核心は、現代自動車の株価が直ちに追加上昇するというより、市場の期待を消化する過程にあり、ロボットが再始動の材料として挙げられている点だ。具体的な株価、売買高、業績数値は示されていない。今後は自動車本業とロボット事業への期待が市場評価にどう反映されるかが焦点となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "现代汽车在“韩指7000点”前暂歇，机器人业务成重启焦点",
+        "excerpt": "现代汽车在“韩指7000点”预期升温之际进入短暂调整，机器人业务被视为后续股价关注点，韩国经济报道称。",
+        "body": "现代汽车在“韩指7000点”预期临近之际，股价走势进入暂时休整阶段，机器人业务再次受到关注。据韩国经济“个股+”报道，现代汽车在短期上涨后出现节奏调整，而与机器人相关的增长预期正吸引投资者目光。根据所提供的原文信息，报道重点并非断言股价会立即继续上涨，而是指出市场正在消化既有期待，机器人业务被提及为可能带动关注重启的因素。提供的原文中未包含具体股价、成交量或业绩数据。接下来的观察重点，是现代汽车传统汽车业务与机器人业务预期将如何反映在市场估值中。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Hyundai Motor se toma una pausa antes del ‘Kospi 7.000’ y mira a la robótica",
+        "excerpt": "Hyundai Motor hizo una pausa en medio de las expectativas por el ‘Kospi 7.000’, mientras la robótica aparece como posible motor de renovado interés, informó Hankyung.",
+        "body": "Hyundai Motor atrae la atención tras entrar en una fase de pausa en su trayectoria bursátil antes de las expectativas vinculadas al ‘Kospi 7.000’, mientras la robótica vuelve al centro del foco. Según el reporte Stock+ de Hankyung, el mercado observa si las expectativas de crecimiento relacionadas con robots pueden reactivar el interés después de un ajuste de ritmo de corto plazo. Con la información original suministrada, el punto central no es afirmar una subida inmediata adicional, sino señalar que Hyundai Motor está digiriendo expectativas del mercado y que la robótica se menciona como posible factor de reinicio. No se incluyeron datos concretos de precio de la acción, volumen negociado ni resultados. La clave será cómo se reflejan en la valoración tanto el negocio automotor como las expectativas en robótica. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Hyundai Motor pausa antes do ‘Kospi 7.000’ e robótica ganha novo foco",
+        "excerpt": "A Hyundai Motor passou por uma pausa em meio às expectativas sobre o ‘Kospi 7.000’, enquanto a robótica surge como possível fator de retomada, informou a Hankyung.",
+        "body": "A Hyundai Motor chama atenção ao entrar em uma fase de pausa no movimento de suas ações antes das expectativas ligadas ao ‘Kospi 7.000’, enquanto a robótica volta a ganhar foco. Segundo a reportagem Stock+ da Hankyung, investidores observam se as expectativas de crescimento relacionadas a robôs podem reacender o interesse após um ajuste de ritmo de curto prazo. Com base nas informações fornecidas do texto original, o ponto principal não é afirmar uma nova alta imediata, mas indicar que a empresa passa por um processo de absorção das expectativas do mercado, com a robótica citada como possível elemento de retomada. Não foram incluídos preço da ação, volume de negociação ou números de resultados. O foco agora é como o mercado avaliará o negócio automotivo e as expectativas em robótica. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hyundai Motor legt vor ‘Kospi 7.000’ Pause ein, Robotik rückt in den Fokus",
+        "excerpt": "Hyundai Motor pausiert im Umfeld der Erwartungen an einen ‘Kospi 7.000’, während die Robotik als möglicher Faktor für neues Interesse gilt, berichtete Hankyung.",
+        "body": "Hyundai Motor steht im Blickpunkt, nachdem die Aktie vor den Erwartungen rund um einen möglichen ‘Kospi 7.000’ in eine Phase des Innehaltens geraten ist. Zugleich rückt das Robotikgeschäft erneut in den Fokus. Laut dem Stock+-Bericht von Hankyung beobachten Anleger, ob wachstumsbezogene Erwartungen an Robotik das Interesse nach einer kurzfristigen Tempokorrektur wieder beleben können. Auf Basis der bereitgestellten Originalinformationen geht es nicht um die Behauptung eines sofortigen weiteren Kursanstiegs, sondern um eine Marktphase, in der Hyundai Motor Erwartungen verarbeitet und Robotik als möglicher Impuls genannt wird. Konkrete Angaben zu Aktienkurs, Handelsvolumen oder Ergebniszahlen waren im gelieferten Ausgangstext nicht enthalten. Entscheidend wird sein, wie der Markt das Kerngeschäft Auto und die Robotik-Erwartungen bewertet. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Hyundai Motor marque une pause avant le ‘Kospi 7 000’, la robotique suivie",
+        "excerpt": "Hyundai Motor marque une pause alors que les attentes autour du ‘Kospi 7 000’ montent, tandis que la robotique est vue comme un possible relais d’intérêt, selon Hankyung.",
+        "body": "Hyundai Motor attire l’attention après être entrée dans une phase de pause de son parcours boursier avant les attentes liées au ‘Kospi 7 000’, tandis que la robotique revient au premier plan. Selon l’article Stock+ de Hankyung, les investisseurs surveillent si les attentes de croissance liées aux robots peuvent relancer l’intérêt après un ajustement de rythme à court terme. D’après les informations originales fournies, le point central n’est pas d’affirmer une nouvelle hausse immédiate, mais de montrer que Hyundai Motor digère les attentes du marché et que la robotique est citée comme possible facteur de redémarrage. Aucun prix d’action, volume d’échanges ni chiffre de résultats précis n’a été inclus dans le texte source fourni. L’enjeu sera de voir comment le marché intègre l’activité automobile et les attentes liées à la robotique. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "هيونداي موتور تلتقط الأنفاس قبل «كوسبي 7000» والروبوتات تعود للواجهة",
+        "excerpt": "تلتقط هيونداي موتور الأنفاس وسط توقعات مرتبطة بمستوى «كوسبي 7000»، فيما يبرز نشاط الروبوتات كعامل محتمل لتجدد الزخم، بحسب تقرير هانكيونغ.",
+        "body": "تجذب هيونداي موتور الانتباه بعدما دخل مسار سهمها مرحلة التقاط أنفاس قبل التوقعات المرتبطة بمستوى «كوسبي 7000»، بينما عاد نشاط الروبوتات إلى دائرة التركيز. ووفق تقرير «Stock+» الصادر عن هانكيونغ، يراقب المستثمرون ما إذا كانت توقعات النمو المرتبطة بالروبوتات قادرة على إعادة تنشيط الاهتمام بعد ضبط قصير الأجل للوتيرة. وبناء على معلومات المصدر المقدمة، فإن النقطة الأساسية ليست تأكيد صعود فوري إضافي، بل الإشارة إلى أن السوق يستوعب التوقعات حول هيونداي موتور، مع ذكر الروبوتات كعامل محتمل لإعادة الزخم. ولم تتضمن معلومات المصدر سعرا محددا للسهم أو حجم تداول أو أرقام أرباح. وتبقى المتابعة منصبة على كيفية انعكاس نشاط السيارات الأساسي وتوقعات الروبوتات في تقييم السوق. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "‘Kospi 7,000’ से पहले Hyundai Motor ठहरी, रोबोटिक्स पर फिर नजर",
+        "excerpt": "‘Kospi 7,000’ से जुड़ी उम्मीदों के बीच Hyundai Motor के शेयरों ने थोड़ी रफ्तार धीमी की, जबकि रोबोटिक्स कारोबार को नए फोकस के रूप में देखा जा रहा है, Hankyung ने बताया।",
+        "body": "Hyundai Motor ‘Kospi 7,000’ से जुड़ी उम्मीदों से पहले अपने शेयर प्रवाह में थोड़ी ठहराव की स्थिति में दिख रही है, जबकि रोबोटिक्स कारोबार फिर से ध्यान के केंद्र में है। Hankyung की Stock+ रिपोर्ट के अनुसार, अल्पकालिक तेजी के बाद गति समायोजन के बीच निवेशक देख रहे हैं कि रोबोट से जुड़ी विकास उम्मीदें रुचि को फिर से जगा सकती हैं या नहीं। उपलब्ध मूल जानकारी के आधार पर मुख्य बात तत्काल अतिरिक्त बढ़त का दावा नहीं है, बल्कि यह है कि बाजार Hyundai Motor से जुड़ी उम्मीदों को पचा रहा है और रोबोटिक्स को संभावित पुनः गति कारक के रूप में देखा जा रहा है। दिए गए स्रोत पाठ में शेयर मूल्य, कारोबार मात्रा या आय से जुड़े विशिष्ट आंकड़े शामिल नहीं थे। आगे ध्यान इस पर रहेगा कि बाजार कंपनी के मुख्य ऑटो कारोबार और रोबोटिक्स अपेक्षाओं को मूल्यांकन में कैसे शामिल करता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Hyundai Motor rehat jelang ‘Kospi 7.000’, bisnis robotik kembali disorot",
+        "excerpt": "Hyundai Motor memasuki fase jeda di tengah ekspektasi ‘Kospi 7.000’, sementara bisnis robotik dinilai menjadi faktor yang dapat menghidupkan kembali perhatian pasar, lapor Hankyung.",
+        "body": "Hyundai Motor menjadi perhatian setelah pergerakan sahamnya memasuki fase jeda menjelang ekspektasi terkait ‘Kospi 7.000’, sementara bisnis robotik kembali disorot. Menurut laporan Stock+ Hankyung, investor mencermati apakah ekspektasi pertumbuhan terkait robot dapat menghidupkan lagi minat setelah penyesuaian laju dalam jangka pendek. Berdasarkan informasi sumber yang diberikan, poin utamanya bukan klaim bahwa saham akan langsung naik lagi, melainkan bahwa pasar sedang mencerna ekspektasi terhadap Hyundai Motor dan robotik disebut sebagai kemungkinan faktor pemicu kembali. Teks sumber yang tersedia tidak memuat harga saham, volume perdagangan, atau angka kinerja secara spesifik. Fokus berikutnya adalah bagaimana pasar menilai bisnis otomotif utama Hyundai Motor dan ekspektasi terhadap robotik. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "7a40476f3adc",
     "slug": "에이피알-목표가-뛰자-상승곡선-탄-화장품株-131823",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Target Harga APR 540.000 Won, Pertumbuhan Offline Luar Negeri Jadi Sorotan",
         "excerpt": "NH Investment & Securities pada laporan tanggal 8 memperkirakan APR dapat mencapai target 540.000 won, didorong pertumbuhan offline luar negeri dan penjualan langsung Eropa.",
         "body": "NH Investment & Securities dalam laporan tanggal 8 menyatakan saham APR dapat naik hingga 540.000 won per saham. Harga saat ini, berdasarkan hari perdagangan sebelumnya, adalah 401.500 won. Laporan tersebut menyoroti pertumbuhan yang jelas di pasar offline luar negeri. Khususnya, penjualan langsung di Eropa diperkirakan mencapai 400 miliar won dalam satu tahun. Penetapan target harga ini menunjukkan ekspektasi ekspansi penjualan luar negeri mulai tercermin dalam valuasi APR. Angka yang disebutkan mengacu pada proyeksi laporan dan harga saham hari perdagangan sebelumnya. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "9e8f867dc5df",
-    "slug": "반도체-숨고르기ptj-1999년-분위기-40-더-뛸-수-있다-김현석의-월스트리트나우-509752",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T23:33:29.160Z",
-    "updatedAt": "2026-05-07T23:33:29.160Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605082924i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605082924i",
-    "titleFingerprint": "ec2ddc4c07bd7fb4ce0f4acab8b49856dfebe6eb",
-    "dedupKeys": [
-      "9e8f867dc5df21dc1138064b60fe5767c75e7f6a",
-      "ec2ddc4c07bd7fb4ce0f4acab8b49856dfebe6eb",
-      "08c42cf01268d78eb2936aad2cfb0ffcbfa35a5b"
-    ],
-    "imageUrl": "/images/articles/9e8f867dc5df.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 숨고르기 속 PTJ “AI 강세장 40% 더 뛸 수 있다” 경고와 낙관",
-        "excerpt": "월가 투자자 폴 튜더 존스는 7일 CNBC 인터뷰에서 AI 주도 미국 증시가 1~2년 더 오를 수 있고 40% 추가 상승 가능성도 있지만, 1999년 닷컴버블 직전과 닮아 큰 조정 위험도 있다고 말했다.",
-        "body": "미국 헤지펀드 투자자 폴 튜더 존스는 7일 CNBC ‘스쿼크박스’ 인터뷰에서 AI 열풍이 이끄는 미국 증시 강세장이 아직 끝나지 않았다고 밝혔다. 그는 AI 도입 흐름을 윈도95 이후 인터넷 상용화가 빨라졌던 시기와 비교하며, 현재 과정이 50~60% 지점에 있어 1~2년 더 이어질 수 있다고 봤다. 반도체, 클라우드, 생성형 AI 관련 대형 기술주가 랠리를 주도해 S&P500을 사상 최고권으로 끌어올린 점도 배경으로 언급됐다. 다만 존스는 분위기가 닷컴버블 정점 직전인 1999년과 닮았다며, 증시가 40% 더 오르면 미국 증시 시가총액이 GDP의 300~350%까지 높아져 큰 조정이 올 수 있다고 경고했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor Pause: PTJ Sees 40% More Upside in AI Bull Market, With a 1999 Warning",
-        "excerpt": "Paul Tudor Jones said in a May 7 CNBC interview that the AI-led U.S. stock rally could run another one to two years and rise 40% more, while warning it resembles the pre-dot-com-bust mood of 1999.",
-        "body": "U.S. hedge-fund investor Paul Tudor Jones said on CNBC’s Squawk Box on May 7 that the AI-driven U.S. bull market is not over yet. He compared today’s AI adoption cycle with the period after Windows 95, when commercial internet use accelerated, and said the process may be only 50% to 60% complete, leaving one to two more years of upside. Large technology names tied to semiconductors, cloud computing and generative AI have led the rally and helped push the S&P 500 toward record levels. Still, Jones warned that the mood resembles 1999, just before the dot-com bubble peaked. If stocks rise another 40%, he said U.S. market capitalization could reach 300% to 350% of GDP, raising the risk of a major correction. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体一服の中、PTJがAI強気相場に40％上昇余地と1999年型リスクを指摘",
-        "excerpt": "ポール・チューダー・ジョーンズ氏は5月7日のCNBCインタビューで、AI主導の米株高は今後1～2年続き40％上昇する可能性がある一方、1999年のITバブル直前に似た調整リスクもあると述べた。",
-        "body": "米ヘッジファンド投資家のポール・チューダー・ジョーンズ氏は5月7日、CNBCの「Squawk Box」で、AI熱が主導する米国株の強気相場はまだ終わっていないと語った。同氏は現在のAI導入局面を、Windows 95以降にインターネットの商用利用が加速した時期と比較し、進行度は50～60％程度で、あと1～2年続く可能性があると見た。半導体、クラウド、生成AI関連の大型ハイテク株が相場をけん引し、S&P500を最高値圏へ押し上げたことも背景にある。ただし同氏は、現在の雰囲気はITバブルの頂点直前だった1999年に似ており、株価がさらに40％上昇すれば米国株の時価総額はGDPの300～350％に達し、大きな調整リスクが高まると警告した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体暂歇之际，PTJ称AI牛市或再涨40%，但警示1999式风险",
-        "excerpt": "保罗·都铎·琼斯在5月7日接受CNBC采访时表示，AI推动的美股牛市可能还会持续1至2年，并有40%上行空间，但也像1999年互联网泡沫见顶前夕，存在大幅回调风险。",
-        "body": "美国对冲基金投资者保罗·都铎·琼斯5月7日在CNBC《Squawk Box》节目中表示，由AI热潮推动的美国股市牛市尚未结束。他将当前AI普及阶段与Windows 95之后互联网商业化加速的时期相比，认为这一进程可能只走到50%至60%，仍可能延续1至2年。半导体、云计算和生成式AI相关大型科技股主导了本轮上涨，并推动标普500指数进入历史高位区间。不过，琼斯也警告称，当前市场氛围类似互联网泡沫见顶前的1999年。若股市再上涨40%，美国股市总市值可能升至GDP的300%至350%，从而增加重大调整风险。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Semiconductores en pausa: PTJ ve otro 40% para el rally de IA y advierte ecos de 1999",
-        "excerpt": "Paul Tudor Jones dijo el 7 de mayo en CNBC que el rally bursátil de EE. UU. impulsado por la IA podría durar uno o dos años más y subir otro 40%, aunque advirtió que se parece al ambiente previo al estallido puntocom de 1999.",
-        "body": "El inversor de fondos de cobertura Paul Tudor Jones dijo el 7 de mayo en Squawk Box de CNBC que el mercado alcista estadounidense impulsado por la IA aún no ha terminado. Comparó la adopción actual de la IA con el periodo posterior a Windows 95, cuando se aceleró el uso comercial de internet, y estimó que el proceso podría estar completado solo en un 50% o 60%, con uno o dos años más por delante. Grandes tecnológicas ligadas a semiconductores, nube e IA generativa han liderado el avance y llevaron al S&P 500 a niveles récord. Sin embargo, Jones advirtió que el ambiente recuerda a 1999, justo antes del pico de la burbuja puntocom. Si las acciones suben otro 40%, dijo, la capitalización bursátil de EE. UU. podría llegar al 300% o 350% del PIB, elevando el riesgo de una gran corrección. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Semicondutores respiram: PTJ vê alta extra de 40% na IA, mas alerta para 1999",
-        "excerpt": "Paul Tudor Jones afirmou em 7 de maio à CNBC que a alta das ações dos EUA liderada pela IA pode durar mais um ou dois anos e subir outros 40%, embora tenha alertado que o cenário lembra 1999 antes do estouro da bolha pontocom.",
-        "body": "O investidor de hedge funds Paul Tudor Jones disse em 7 de maio, no Squawk Box da CNBC, que o mercado de alta dos EUA impulsionado pela IA ainda não terminou. Ele comparou a adoção atual da IA ao período após o Windows 95, quando o uso comercial da internet acelerou, e afirmou que o processo pode estar apenas 50% a 60% concluído, deixando mais um ou dois anos de alta. Grandes empresas de tecnologia ligadas a semicondutores, nuvem e IA generativa lideraram o rali e levaram o S&P 500 a níveis recordes. Ainda assim, Jones alertou que o clima lembra 1999, pouco antes do pico da bolha pontocom. Se as ações subirem mais 40%, disse ele, o valor de mercado dos EUA pode atingir 300% a 350% do PIB, aumentando o risco de uma forte correção. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Halbleiter legen Pause ein: PTJ sieht 40% KI-Aufwärtspotenzial und warnt vor 1999",
-        "excerpt": "Paul Tudor Jones sagte am 7. Mai bei CNBC, die von KI getriebene US-Aktienrally könne noch ein bis zwei Jahre laufen und 40% weiter steigen, warnte aber vor Parallelen zur Stimmung vor dem Dotcom-Hoch 1999.",
-        "body": "Der US-Hedgefondsinvestor Paul Tudor Jones sagte am 7. Mai in CNBCs Squawk Box, der von KI getriebene Bullenmarkt in den USA sei noch nicht beendet. Er verglich die heutige KI-Einführung mit der Zeit nach Windows 95, als die kommerzielle Nutzung des Internets an Tempo gewann, und schätzte, der Prozess sei erst zu 50% bis 60% abgeschlossen, sodass noch ein bis zwei Jahre Aufwärtspotenzial bleiben könnten. Große Technologiewerte aus den Bereichen Halbleiter, Cloud und generative KI führten die Rally an und trieben den S&P 500 in Rekordnähe. Zugleich warnte Jones, die Stimmung erinnere an 1999, kurz vor dem Höhepunkt der Dotcom-Blase. Falls Aktien weitere 40% steigen, könne die US-Marktkapitalisierung auf 300% bis 350% des BIP steigen und das Risiko einer starken Korrektur erhöhen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Semi-conducteurs en pause: PTJ voit encore 40% pour l’IA, avec un avertissement façon 1999",
-        "excerpt": "Paul Tudor Jones a déclaré le 7 mai sur CNBC que le rally boursier américain porté par l’IA pourrait durer encore un à deux ans et gagner 40%, tout en avertissant qu’il rappelle l’ambiance précédant l’éclatement de la bulle internet en 1999.",
-        "body": "L’investisseur américain Paul Tudor Jones a déclaré le 7 mai dans Squawk Box sur CNBC que le marché haussier américain porté par l’IA n’était pas encore terminé. Il a comparé l’adoption actuelle de l’IA à la période suivant Windows 95, lorsque l’usage commercial d’internet s’est accéléré, estimant que le cycle pourrait n’être achevé qu’à 50% ou 60% et durer encore un à deux ans. Les grandes valeurs technologiques liées aux semi-conducteurs, au cloud et à l’IA générative ont mené le rally et poussé le S&P 500 vers des records. Mais Jones a aussi averti que l’ambiance ressemble à 1999, juste avant le sommet de la bulle internet. Si les actions montent encore de 40%, la capitalisation boursière américaine pourrait atteindre 300% à 350% du PIB, ce qui augmenterait le risque d’une forte correction. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هدنة في أشباه الموصلات: PTJ يرى صعودا إضافيا 40% للذكاء الاصطناعي ويحذر من 1999",
-        "excerpt": "قال بول تيودور جونز في مقابلة مع CNBC في 7 مايو إن صعود الأسهم الأميركية بقيادة الذكاء الاصطناعي قد يستمر عاما أو عامين ويرتفع 40% إضافية، لكنه حذر من تشابه الأجواء مع ما قبل ذروة فقاعة الإنترنت في 1999.",
-        "body": "قال المستثمر الأميركي في صناديق التحوط بول تيودور جونز في برنامج Squawk Box على CNBC في 7 مايو إن السوق الصاعدة في الأسهم الأميركية المدفوعة بالذكاء الاصطناعي لم تنته بعد. وقارن مرحلة تبني الذكاء الاصطناعي الحالية بالفترة التي أعقبت Windows 95، حين تسارع الاستخدام التجاري للإنترنت، معتبرا أن المسار قد يكون عند 50% إلى 60% فقط، ما يترك مجالا لعام أو عامين آخرين. وقادت شركات التكنولوجيا الكبرى المرتبطة بأشباه الموصلات والحوسبة السحابية والذكاء الاصطناعي التوليدي موجة الصعود ودفعت S&P 500 إلى مستويات قياسية. لكنه حذر من أن الأجواء تشبه عام 1999 قبل ذروة فقاعة الإنترنت. وإذا ارتفعت الأسهم 40% أخرى، فقد تصل القيمة السوقية للأسهم الأميركية إلى 300% أو 350% من الناتج المحلي الإجمالي، ما يزيد خطر تصحيح كبير. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर ठहराव के बीच PTJ ने AI रैली में 40% और तेजी, 1999 जैसा जोखिम बताया",
-        "excerpt": "पॉल ट्यूडर जोन्स ने 7 मई को CNBC इंटरव्यू में कहा कि AI से प्रेरित अमेरिकी शेयर बाजार की तेजी 1-2 साल और चल सकती है और 40% और बढ़ सकती है, लेकिन यह 1999 के डॉटकॉम बुलबुले से पहले के माहौल जैसी भी दिखती है।",
-        "body": "अमेरिकी हेज फंड निवेशक पॉल ट्यूडर जोन्स ने 7 मई को CNBC के Squawk Box में कहा कि AI उत्साह से चल रही अमेरिकी शेयर बाजार की तेजी अभी खत्म नहीं हुई है। उन्होंने मौजूदा AI अपनाने के दौर की तुलना Windows 95 के बाद इंटरनेट के व्यावसायिक इस्तेमाल में आई तेजी से की और कहा कि यह प्रक्रिया शायद 50% से 60% ही पूरी हुई है, इसलिए इसमें 1-2 साल और रह सकते हैं। सेमीकंडक्टर, क्लाउड और जनरेटिव AI से जुड़ी बड़ी टेक कंपनियों ने रैली का नेतृत्व किया और S&P 500 को रिकॉर्ड स्तरों तक पहुंचाया। हालांकि जोन्स ने चेतावनी दी कि माहौल 1999 जैसा है, जब डॉटकॉम बुलबुला चरम पर पहुंचने वाला था। यदि शेयर 40% और चढ़ते हैं, तो अमेरिकी शेयर बाजार का मूल्य GDP के 300% से 350% तक पहुंच सकता है, जिससे बड़े सुधार का जोखिम बढ़ेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Semikonduktor Rehat: PTJ Lihat Reli AI Bisa Naik 40%, Namun Ingatkan Risiko 1999",
-        "excerpt": "Paul Tudor Jones mengatakan dalam wawancara CNBC pada 7 Mei bahwa reli saham AS berbasis AI bisa berlanjut satu hingga dua tahun dan naik 40% lagi, tetapi ia memperingatkan kemiripannya dengan suasana menjelang pecahnya gelembung dotcom 1999.",
-        "body": "Investor hedge fund AS Paul Tudor Jones mengatakan di Squawk Box CNBC pada 7 Mei bahwa pasar bullish AS yang didorong euforia AI belum berakhir. Ia membandingkan fase adopsi AI saat ini dengan periode setelah Windows 95, ketika penggunaan komersial internet semakin cepat, dan menilai prosesnya mungkin baru 50% hingga 60% selesai, sehingga masih bisa berlanjut satu hingga dua tahun. Saham teknologi besar terkait semikonduktor, komputasi awan, dan AI generatif memimpin reli serta mendorong S&P 500 ke area rekor. Namun Jones memperingatkan bahwa suasananya mirip 1999, tepat sebelum puncak gelembung dotcom. Jika saham naik 40% lagi, kapitalisasi pasar saham AS dapat mencapai 300% hingga 350% dari PDB, sehingga risiko koreksi besar meningkat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5ae885fc8827",
-    "slug": "hd현대중공업-데이터센터용-엔진-수주-경쟁력목표가-ds-690204",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T23:32:01.387Z",
-    "updatedAt": "2026-05-07T23:32:01.387Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050829566",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050829566",
-    "titleFingerprint": "a2cb148a6bc6a2e2d97439a3f7abe858da6c2e56",
-    "dedupKeys": [
-      "5ae885fc882799c92303ee6c9c5b97eac14d8dc3",
-      "a2cb148a6bc6a2e2d97439a3f7abe858da6c2e56",
-      "6f76abaab9cf1c438c6a7b678b35fa89350af9ca"
-    ],
-    "imageUrl": "/images/articles/5ae885fc8827.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HD현대중공업, 데이터센터용 엔진 수주 경쟁력 부각에 목표가 상향",
-        "excerpt": "DS투자증권은 HD현대중공업의 데이터센터용 엔진 수주 경쟁력이 부각되고 있다며 목표주가를 올렸다고 한국경제가 보도했다.",
-        "body": "DS투자증권은 HD현대중공업에 대해 데이터센터용 엔진 수주 경쟁력이 커지고 있다며 목표주가를 상향했다. 인공지능 데이터센터 확대로 전력 수요가 늘면서 선박용 중속 엔진 기반 발전설비가 대안으로 주목받는 흐름이 배경이다. 한국경제에 따르면 HD현대중공업은 지난 22일 미국 에너지 인프라 개발기업 아페리온 에너지 그룹과 20MW급 힘센엔진 기반 발전설비 공급계약을 맺었다. 계약 규모는 684MW, 금액은 6271억원으로 회사의 발전용 엔진 계약 중 역대 최대 규모다. 이번 수주는 미국 데이터센터 시장 첫 진출 사례로, 엔진 부문 수주 경쟁력과 향후 평가에 영향을 줄 변수로 제시됐다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "HD Hyundai Heavy, Data Center Engine Orders Lift Target Price View",
-        "excerpt": "DS Investment & Securities raised its target price for HD Hyundai Heavy Industries, citing stronger competitiveness in data center engine orders, Hankyung reported.",
-        "body": "DS Investment & Securities raised its target price for HD Hyundai Heavy Industries, pointing to the company’s growing competitiveness in engines for data centers. The backdrop is rising power demand from AI data centers, which has drawn attention to power-generation systems based on medium-speed marine engines. According to Hankyung, HD Hyundai Heavy Industries signed a supply contract on April 22 with U.S. energy infrastructure developer Aperion Energy Group for power facilities using 20MW HiMSEN engines. The deal totals 684MW and 627.1 billion won, the largest power-generation engine contract in the company’s history. The order marks its first entry into the U.S. data center market and was cited as a factor for engine-order competitiveness and valuation. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "HD現代重工業、データセンター向けエンジン受注力で目標株価上げ",
-        "excerpt": "DS投資証券はHD現代重工業について、データセンター向けエンジン受注競争力が高まっているとして目標株価を引き上げたと韓国経済が報じた。",
-        "body": "DS投資証券はHD現代重工業について、データセンター向けエンジンの受注競争力が高まっているとして目標株価を引き上げた。AIデータセンターの拡大で電力需要が増え、船舶用中速エンジンを基盤とする発電設備が代替手段として注目されていることが背景だ。韓国経済によると、HD現代重工業は4月22日、米エネルギーインフラ開発会社アペリオン・エナジー・グループと20MW級HiMSENエンジン基盤の発電設備供給契約を結んだ。契約規模は684MW、金額は6271億ウォンで、同社の発電用エンジン契約として過去最大規模。今回の受注は米データセンター市場への初進出で、エンジン部門の受注競争力と評価に影響する材料とされた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "HD现代重工数据中心发动机订单竞争力凸显，目标价上调",
-        "excerpt": "据韩国经济报道，DS投资证券上调HD现代重工目标价，理由是其数据中心用发动机订单竞争力正在增强。",
-        "body": "DS投资证券上调了HD现代重工的目标价，指出其数据中心用发动机订单竞争力正在提升。背景是人工智能数据中心扩张带动电力需求增长，使基于船用中速发动机的发电设备作为替代方案受到关注。据韩国经济报道，HD现代重工4月22日与美国能源基础设施开发企业Aperion Energy Group签署供应合同，将提供基于20MW级HiMSEN发动机的发电设备。合同规模为684MW，金额为6271亿韩元，是该公司发电用发动机合同中的历史最大规模。此次订单也是其首次进入美国数据中心市场，被视为影响发动机业务订单竞争力和估值的因素。来源: hankyung.com"
-      },
-      "es": {
-        "title": "HD Hyundai Heavy sube por motores para centros de datos y mejora de precio objetivo",
-        "excerpt": "DS Investment & Securities elevó el precio objetivo de HD Hyundai Heavy Industries por su mayor competitividad en pedidos de motores para centros de datos, informó Hankyung.",
-        "body": "DS Investment & Securities elevó el precio objetivo de HD Hyundai Heavy Industries al señalar una mayor competitividad en motores para centros de datos. El contexto es el aumento de la demanda eléctrica por la expansión de los centros de datos de inteligencia artificial, que ha puesto el foco en equipos de generación basados en motores marinos de velocidad media. Según Hankyung, HD Hyundai Heavy Industries firmó el 22 de abril un contrato con la estadounidense Aperion Energy Group para suministrar equipos de generación con motores HiMSEN de 20MW. El contrato alcanza 684MW y 627.100 millones de wones, el mayor acuerdo de motores de generación en la historia de la empresa. La operación marca su primera entrada en el mercado estadounidense de centros de datos y fue citada como factor para su competitividad y valoración. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "HD Hyundai Heavy ganha força em motores para data centers e tem preço-alvo elevado",
-        "excerpt": "A DS Investment & Securities elevou o preço-alvo da HD Hyundai Heavy Industries, citando maior competitividade em pedidos de motores para data centers, informou o Hankyung.",
-        "body": "A DS Investment & Securities elevou o preço-alvo da HD Hyundai Heavy Industries ao destacar a crescente competitividade da empresa em motores para data centers. O pano de fundo é o aumento da demanda por energia com a expansão dos data centers de inteligência artificial, que levou sistemas de geração baseados em motores marítimos de média rotação a ganharem atenção como alternativa. Segundo o Hankyung, a HD Hyundai Heavy Industries assinou em 22 de abril um contrato com a norte-americana Aperion Energy Group para fornecer equipamentos de geração com motores HiMSEN de 20MW. O acordo soma 684MW e 627,1 bilhões de wones, o maior contrato de motores de geração da história da companhia. O pedido marca sua primeira entrada no mercado de data centers dos EUA e foi citado como fator para competitividade e avaliação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "HD Hyundai Heavy: Datenzentrum-Motoren stärken Auftragskraft, Kursziel steigt",
-        "excerpt": "DS Investment & Securities hat das Kursziel für HD Hyundai Heavy Industries angehoben und verweist auf stärkere Wettbewerbsfähigkeit bei Motoraufträgen für Datenzentren, berichtete Hankyung.",
-        "body": "DS Investment & Securities hat das Kursziel für HD Hyundai Heavy Industries angehoben und auf die wachsende Wettbewerbsfähigkeit bei Motoren für Datenzentren verwiesen. Hintergrund ist der steigende Strombedarf durch KI-Datenzentren, wodurch Stromerzeugungsanlagen auf Basis mittelschnell laufender Schiffsmotoren als Alternative Beachtung finden. Laut Hankyung unterzeichnete HD Hyundai Heavy Industries am 22. April mit dem US-Energieinfrastrukturentwickler Aperion Energy Group einen Liefervertrag für Anlagen mit 20MW-HiMSEN-Motoren. Der Auftrag umfasst 684MW und 627,1 Milliarden Won, der größte Vertrag für Stromerzeugungsmotoren in der Unternehmensgeschichte. Er markiert den ersten Eintritt in den US-Datenzentrumsmarkt und gilt als Faktor für Auftragskraft und Bewertung der Motorsparte. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "HD Hyundai Heavy: les moteurs pour data centers soutiennent le relèvement de l’objectif",
-        "excerpt": "DS Investment & Securities a relevé son objectif de cours sur HD Hyundai Heavy Industries, citant une compétitivité accrue dans les moteurs pour data centers, selon Hankyung.",
-        "body": "DS Investment & Securities a relevé son objectif de cours sur HD Hyundai Heavy Industries, mettant en avant la compétitivité croissante de l’entreprise dans les moteurs destinés aux data centers. Le contexte est la hausse de la demande d’électricité liée à l’expansion des data centers d’intelligence artificielle, qui attire l’attention sur les équipements de production fondés sur des moteurs marins à vitesse moyenne. Selon Hankyung, HD Hyundai Heavy Industries a signé le 22 avril un contrat avec l’américain Aperion Energy Group pour fournir des installations utilisant des moteurs HiMSEN de 20MW. Le contrat porte sur 684MW et 627,1 milliards de wons, le plus important accord de moteurs de production d’électricité de son histoire. Cette commande marque sa première entrée sur le marché américain des data centers et constitue un facteur pour la compétitivité et la valorisation de l’activité moteurs. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "HD Hyundai Heavy تعزز تنافسية محركات مراكز البيانات ورفع السعر المستهدف",
-        "excerpt": "رفعت DS Investment & Securities السعر المستهدف لسهم HD Hyundai Heavy Industries، مشيرة إلى تحسن تنافسيتها في طلبيات محركات مراكز البيانات، وفق هانكيونغ.",
-        "body": "رفعت DS Investment & Securities السعر المستهدف لشركة HD Hyundai Heavy Industries، مشيرة إلى تنامي تنافسيتها في محركات مراكز البيانات. وتأتي الخلفية من زيادة الطلب على الكهرباء مع توسع مراكز بيانات الذكاء الاصطناعي، ما جعل معدات التوليد القائمة على محركات بحرية متوسطة السرعة تحظى بالاهتمام كبديل. ووفق هانكيونغ، وقعت HD Hyundai Heavy Industries في 22 أبريل عقد توريد مع شركة Aperion Energy Group الأميركية لتطوير بنية الطاقة، لتقديم معدات توليد تعتمد على محركات HiMSEN بقدرة 20 ميغاواط. يبلغ حجم العقد 684 ميغاواط وقيمته 627.1 مليار وون، وهو أكبر عقد لمحركات توليد الطاقة في تاريخ الشركة. وتمثل الصفقة أول دخول لها إلى سوق مراكز البيانات الأميركية، واعتبرت عاملا في تنافسية الطلبيات وتقييم قطاع المحركات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "HD Hyundai Heavy: डेटा सेंटर इंजन ऑर्डर क्षमता से लक्ष्य मूल्य बढ़ा",
-        "excerpt": "DS Investment & Securities ने HD Hyundai Heavy Industries का लक्ष्य मूल्य बढ़ाया, क्योंकि डेटा सेंटर इंजन ऑर्डर में उसकी प्रतिस्पर्धी क्षमता उभर रही है, Hankyung ने बताया।",
-        "body": "DS Investment & Securities ने HD Hyundai Heavy Industries का लक्ष्य मूल्य बढ़ाया है और डेटा सेंटरों के लिए इंजन ऑर्डर में कंपनी की बढ़ती प्रतिस्पर्धी क्षमता को कारण बताया है। पृष्ठभूमि में AI डेटा सेंटरों के विस्तार से बिजली मांग बढ़ना है, जिससे समुद्री मध्यम गति वाले इंजनों पर आधारित बिजली उत्पादन उपकरण विकल्प के रूप में ध्यान खींच रहे हैं। Hankyung के अनुसार, HD Hyundai Heavy Industries ने 22 अप्रैल को अमेरिकी ऊर्जा अवसंरचना डेवलपर Aperion Energy Group के साथ 20MW HiMSEN इंजन आधारित उत्पादन उपकरणों की आपूर्ति का अनुबंध किया। अनुबंध 684MW और 627.1 अरब वॉन का है, जो कंपनी के बिजली उत्पादन इंजन अनुबंधों में अब तक का सबसे बड़ा है। यह ऑर्डर अमेरिकी डेटा सेंटर बाजार में कंपनी की पहली एंट्री है और इंजन ऑर्डर प्रतिस्पर्धा तथा मूल्यांकन के लिए कारक बताया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "HD Hyundai Heavy: Daya Saing Mesin Data Center Dorong Kenaikan Target Harga",
-        "excerpt": "DS Investment & Securities menaikkan target harga HD Hyundai Heavy Industries karena daya saing pesanan mesin untuk data center makin menonjol, lapor Hankyung.",
-        "body": "DS Investment & Securities menaikkan target harga HD Hyundai Heavy Industries dengan menyoroti meningkatnya daya saing perusahaan dalam pesanan mesin untuk data center. Latar belakangnya adalah kenaikan kebutuhan listrik akibat ekspansi data center kecerdasan buatan, yang membuat fasilitas pembangkit berbasis mesin kapal berkecepatan menengah menjadi alternatif yang diperhatikan. Menurut Hankyung, HD Hyundai Heavy Industries pada 22 April menandatangani kontrak dengan pengembang infrastruktur energi AS, Aperion Energy Group, untuk memasok fasilitas pembangkit berbasis mesin HiMSEN 20MW. Nilai kontraknya 684MW dan 627,1 miliar won, terbesar dalam sejarah kontrak mesin pembangkit perusahaan. Pesanan ini menjadi langkah pertama perusahaan masuk pasar data center AS dan disebut sebagai faktor bagi daya saing pesanan serta valuasi bisnis mesin. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "13ac1681082a",
-    "slug": "트럼프시진핑-회담아무런-영양가-없다-김현석의-퀵브리프-965707",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T23:30:51.192Z",
-    "updatedAt": "2026-05-07T23:30:51.192Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605082957i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605082957i",
-    "titleFingerprint": "166b8283572b9a1105b2f1cd5d7333263b0a3934",
-    "dedupKeys": [
-      "13ac1681082ab8a9b2b3890621bc5310a4ff14db",
-      "166b8283572b9a1105b2f1cd5d7333263b0a3934",
-      "c031fe3a657e2c6cb8016c88c9068a70707c6fe9"
-    ],
-    "imageUrl": "/images/articles/13ac1681082a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프·시진핑 회담 실효성 논란, 김현석 퀵브리프가 던진 시장의 핵심 질문",
-        "excerpt": "한국경제 김현석의 퀵브리프는 트럼프·시진핑 회담을 두고 실질적 성과가 있는지 묻는 제목으로, 미·중 정상 간 만남의 의미와 한계를 짚었다.",
-        "body": "한국경제(hankyung.com)의 ‘김현석의 퀵브리프’는 트럼프와 시진핑의 회담을 다루며 “아무런 영양가 없다?”는 질문형 제목으로 실효성 논란을 제기했다. 제공된 원문 정보에는 제목과 출처만 제시돼 있으며, 회담의 구체적 일시, 장소, 의제, 합의 여부, 시장 수치 등 세부 내용은 확인되지 않았다. 따라서 기사 작성 범위에서는 미·중 정상 간 만남이 어떤 실질적 결과로 이어졌는지 단정할 수 없다. 투자자와 시장 참여자는 추가 보도에서 공식 발언, 합의문 유무, 후속 조치가 나왔는지 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Trump-Xi Meeting Faces Questions as Kim Hyun-seok Brief Flags Limited Value",
-        "excerpt": "Hankyung’s Kim Hyun-seok Quick Brief framed the Trump-Xi meeting with a question about whether it delivered substance, focusing on the meaning and limits of the U.S.-China encounter.",
-        "body": "Hankyung.com’s Kim Hyun-seok Quick Brief covered the meeting between Donald Trump and Xi Jinping with the question-style headline, “No substance at all?” The provided source information includes only the title and outlet, without confirmed details on the meeting’s exact timing, venue, agenda, outcome, market figures, or any agreement. Within that limited factual scope, it is not possible to state whether the U.S.-China leaders’ meeting produced concrete results. Investors and market participants need to check follow-up reports for official remarks, any joint statement, and possible next steps. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "トランプ・習近平会談の実効性に疑問、金賢錫クイックブリーフが提起",
-        "excerpt": "韓国経済の金賢錫クイックブリーフは、トランプ氏と習近平氏の会談について実質的な成果があったのかを問う見出しで、その意味と限界を扱った。",
-        "body": "韓国経済（hankyung.com）の「金賢錫のクイックブリーフ」は、トランプ氏と習近平氏の会談を取り上げ、「何の栄養もないのか」という疑問形の見出しで実効性をめぐる論点を示した。提供された原文情報には見出しと出所だけがあり、会談の具体的な日時、場所、議題、合意の有無、市場関連の数値などは確認できない。そのため、この情報だけでは米中首脳の会談が具体的な成果につながったとは断定できない。投資家や市場参加者は、公式発言、合意文書、後続措置の有無を追加報道で確認する必要がある。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "特朗普与习近平会谈成效受疑，金贤锡快讯提出市场核心问题",
-        "excerpt": "韩国经济金贤锡快讯以特朗普与习近平会谈是否具有实质成果为切入点，围绕美中领导人会面的意义和局限提出问题。",
-        "body": "韩国经济（hankyung.com）的《金贤锡快讯》报道了特朗普与习近平的会谈，并以“毫无营养吗？”这一提问式标题提出会谈实效性的争议。已提供的原文信息仅包括标题和出处，没有确认会谈的具体时间、地点、议题、是否达成协议、市场数据等细节。因此，在现有事实范围内，无法断定美中领导人会面是否产生了具体成果。投资者和市场参与者需要通过后续报道确认官方表态、联合文件以及是否有进一步措施。出处: hankyung.com"
-      },
-      "es": {
-        "title": "Reunión Trump-Xi bajo dudas: el Quick Brief de Kim Hyun-seok cuestiona su valor",
-        "excerpt": "El Quick Brief de Kim Hyun-seok en Hankyung abordó la reunión entre Trump y Xi con una pregunta sobre si hubo sustancia real, centrando el foco en su alcance y límites.",
-        "body": "El Quick Brief de Kim Hyun-seok de Hankyung.com trató la reunión entre Donald Trump y Xi Jinping con un titular en forma de pregunta sobre si no tuvo “ningún valor sustancial”. La información original proporcionada solo incluye el título y la fuente, sin detalles confirmados sobre la fecha exacta, el lugar, la agenda, posibles acuerdos, cifras de mercado o resultados concretos. Con ese alcance limitado, no es posible afirmar que la reunión entre los líderes de Estados Unidos y China haya producido efectos tangibles. Inversores y participantes del mercado deberían revisar reportes posteriores para confirmar declaraciones oficiales, documentos conjuntos y medidas de seguimiento. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Reunião Trump-Xi é questionada no Quick Brief de Kim Hyun-seok sobre valor real",
-        "excerpt": "O Quick Brief de Kim Hyun-seok, do Hankyung, tratou a reunião entre Trump e Xi com uma pergunta sobre substância real, destacando o significado e os limites do encontro.",
-        "body": "O Quick Brief de Kim Hyun-seok, do Hankyung.com, abordou a reunião entre Donald Trump e Xi Jinping com um título em forma de pergunta sobre se ela não teve “nenhum conteúdo relevante”. As informações originais fornecidas incluem apenas o título e a fonte, sem confirmação de data exata, local, pauta, existência de acordo, números de mercado ou resultados específicos. Dentro desse limite factual, não é possível afirmar que o encontro entre os líderes dos EUA e da China tenha produzido efeitos concretos. Investidores e participantes do mercado devem acompanhar novas reportagens para verificar declarações oficiais, eventual comunicado conjunto e medidas posteriores. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Trump-Xi-Treffen wirft Nutzenfragen auf: Kim Hyun-seok Brief nennt Kernpunkt",
-        "excerpt": "Hankyungs Kim Hyun-seok Quick Brief stellte das Treffen von Trump und Xi unter die Frage, ob es greifbare Substanz hatte, und rückte Bedeutung und Grenzen in den Fokus.",
-        "body": "Der Kim Hyun-seok Quick Brief von Hankyung.com behandelte das Treffen zwischen Donald Trump und Xi Jinping mit einer fragenden Überschrift, ob es „keinen Nährwert“ gehabt habe. Die bereitgestellten Ausgangsinformationen enthalten nur Titel und Quelle; bestätigte Angaben zu genauem Zeitpunkt, Ort, Tagesordnung, möglichen Vereinbarungen, Marktdaten oder konkreten Ergebnissen liegen nicht vor. Auf dieser begrenzten Faktenbasis lässt sich nicht feststellen, ob das Treffen der US-amerikanischen und chinesischen Führung greifbare Resultate brachte. Anleger und Marktteilnehmer sollten weitere Berichte auf offizielle Äußerungen, gemeinsame Dokumente und mögliche Folgemaßnahmen prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Rencontre Trump-Xi mise en doute par le Quick Brief de Kim Hyun-seok",
-        "excerpt": "Le Quick Brief de Kim Hyun-seok sur Hankyung a abordé la rencontre Trump-Xi en questionnant sa substance réelle, en soulignant le sens et les limites du face-à-face.",
-        "body": "Le Quick Brief de Kim Hyun-seok publié par Hankyung.com a traité la rencontre entre Donald Trump et Xi Jinping avec un titre interrogatif demandant si elle n’avait “aucune valeur substantielle”. Les informations originales fournies ne comprennent que le titre et la source, sans détails confirmés sur la date précise, le lieu, l’ordre du jour, l’existence d’un accord, les chiffres de marché ou les résultats concrets. Dans ce périmètre factuel limité, il n’est pas possible d’affirmer que la rencontre entre les dirigeants américain et chinois a produit des effets tangibles. Les investisseurs et acteurs de marché doivent vérifier les reportages ultérieurs pour les déclarations officielles, un éventuel communiqué et les mesures de suivi. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "اجتماع ترامب وشي موضع تساؤل في موجز كيم هيون سوك حول قيمته الفعلية",
-        "excerpt": "تناول موجز كيم هيون سوك في هانكيونغ اجتماع ترامب وشي عبر سؤال عن مدى وجود نتائج فعلية، مع التركيز على معنى اللقاء وحدوده في العلاقات الأميركية الصينية.",
-        "body": "تناول «موجز كيم هيون سوك» على موقع hankyung.com اجتماع دونالد ترامب وشي جين بينغ بعنوان بصيغة سؤال حول ما إذا كان اللقاء بلا قيمة عملية. المعلومات الأصلية المتاحة تقتصر على العنوان والمصدر فقط، ولا تتضمن تفاصيل مؤكدة عن الموعد الدقيق أو المكان أو جدول الأعمال أو وجود اتفاق أو أرقام مرتبطة بالسوق أو نتائج محددة. لذلك، وضمن هذا النطاق المحدود من الوقائع، لا يمكن الجزم بأن لقاء زعيمي الولايات المتحدة والصين أنتج نتائج ملموسة. على المستثمرين والمشاركين في السوق متابعة التقارير اللاحقة للتحقق من التصريحات الرسمية، ووجود بيان مشترك، وأي خطوات لاحقة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "ट्रंप-शी बैठक की उपयोगिता पर सवाल, किम ह्युन-सोक क्विक ब्रीफ ने उठाया मुद्दा",
-        "excerpt": "हैंक्युंग के किम ह्युन-सोक क्विक ब्रीफ ने ट्रंप और शी की बैठक को इस सवाल से जोड़ा कि क्या उसमें ठोस परिणाम थे, और अमेरिकी-चीनी मुलाकात की सीमा पर ध्यान दिया।",
-        "body": "Hankyung.com के ‘किम ह्युन-सोक क्विक ब्रीफ’ ने डोनाल्ड ट्रंप और शी जिनपिंग की बैठक को ऐसे प्रश्नात्मक शीर्षक के साथ प्रस्तुत किया कि क्या इसमें कोई वास्तविक उपयोगिता नहीं थी। उपलब्ध मूल जानकारी में केवल शीर्षक और स्रोत दिए गए हैं; बैठक का सटीक समय, स्थान, एजेंडा, समझौते की स्थिति, बाजार से जुड़े आंकड़े या ठोस नतीजे पुष्टि के साथ उपलब्ध नहीं हैं। इसलिए इस सीमित तथ्यात्मक दायरे में यह कहना संभव नहीं है कि अमेरिका और चीन के नेताओं की मुलाकात से कोई ठोस परिणाम निकला। निवेशकों और बाजार प्रतिभागियों को आधिकारिक बयानों, संयुक्त दस्तावेज और आगे की कार्रवाइयों के लिए बाद की रिपोर्टों की जांच करनी होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pertemuan Trump-Xi Dipertanyakan, Quick Brief Kim Hyun-seok Soroti Nilai Nyata",
-        "excerpt": "Quick Brief Kim Hyun-seok di Hankyung membahas pertemuan Trump dan Xi dengan pertanyaan soal ada tidaknya hasil nyata, menyoroti makna serta batas pertemuan AS-China.",
-        "body": "Quick Brief Kim Hyun-seok di Hankyung.com membahas pertemuan Donald Trump dan Xi Jinping dengan judul berbentuk pertanyaan tentang apakah pertemuan itu tidak memiliki nilai substansial. Informasi asli yang diberikan hanya mencantumkan judul dan sumber, tanpa detail terkonfirmasi mengenai waktu tepat, lokasi, agenda, ada tidaknya kesepakatan, angka pasar, atau hasil konkret. Dengan cakupan fakta yang terbatas itu, belum dapat disimpulkan bahwa pertemuan pemimpin AS dan China menghasilkan dampak nyata. Investor dan pelaku pasar perlu memeriksa laporan lanjutan untuk memastikan pernyataan resmi, dokumen bersama, serta kemungkinan langkah berikutnya. Sumber: hankyung.com"
       }
     }
   }
