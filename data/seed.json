@@ -1,5 +1,230 @@
 [
   {
+    "id": "81b632798183",
+    "slug": "지표로-보는-경제5월-9일-265086",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T21:14:15.947Z",
+    "updatedAt": "2026-05-08T21:14:15.947Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889915/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889915/1",
+    "titleFingerprint": "2ac83c4d9b9438c3b9191dc34d2020f60c7fb7bf",
+    "dedupKeys": [
+      "81b6327981838075e6cc1d8c950ff00a089e7af2",
+      "2ac83c4d9b9438c3b9191dc34d2020f60c7fb7bf",
+      "ca5152fa66f51d328669730f37b07643888c2a11"
+    ],
+    "imageUrl": "/images/articles/81b632798183.jpg",
+    "i18n": {
+      "ko": {
+        "title": "5월 9일 경제지표 한눈에…동아일보 ‘지표로 보는 경제’",
+        "excerpt": "rss.donga.com은 5월 9일 ‘지표로 보는 경제’ 제목의 경제지표 관련 콘텐츠를 전했습니다. 원문에 별도 요약은 제공되지 않았습니다.",
+        "body": "rss.donga.com은 5월 9일 ‘[지표로 보는 경제]5월 9일’이라는 제목의 경제 관련 콘텐츠를 전했습니다. 해당 원문 정보에는 제목과 출처가 확인되며, 별도의 요약문이나 구체적인 지표 수치는 제공되지 않았습니다. 이번 콘텐츠는 날짜별 경제 흐름을 지표 중심으로 확인하는 형식의 기사로 분류됩니다. 다만 공개된 원문 정보만으로는 어떤 경제지표가 포함됐는지, 수치 변화나 시장 영향이 무엇인지는 확인할 수 없습니다. 따라서 독자는 세부 지표와 해석을 확인하려면 원문을 함께 살펴볼 필요가 있습니다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "May 9 Economic Indicators: Donga’s ‘Economy Through Data’ Update",
+        "excerpt": "rss.donga.com published an economy-related item titled ‘Economy Through Data: May 9’ on May 9, with no separate summary provided in the source feed.",
+        "body": "rss.donga.com published an economy-related item on May 9 under the title ‘[Economy Through Data] May 9.’ The available source information confirms the title and source, but no separate summary or specific indicator figures were provided. The item is categorized as content that reviews economic trends by date through indicators. However, based only on the disclosed source information, it is not possible to confirm which indicators were included, how figures changed, or what market impact they may have had. Readers should consult the original article for detailed indicators and interpretation. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "5月9日の経済指標、東亜日報『指標で見る経済』が配信",
+        "excerpt": "rss.donga.comは5月9日、『指標で見る経済 5月9日』という経済指標関連コンテンツを配信しました。原文に別途要約はありません。",
+        "body": "rss.donga.comは5月9日、『[指標で見る経済]5月9日』というタイトルの経済関連コンテンツを配信しました。確認できる原文情報はタイトルと出典であり、別途の要約文や具体的な指標数値は提供されていません。このコンテンツは、日付ごとの経済の流れを指標中心に確認する形式の記事と分類されます。ただし、公開された原文情報だけでは、どの経済指標が含まれたのか、数値の変化や市場への影響が何だったのかは確認できません。詳細な指標と解釈は原文で確認する必要があります。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "5月9日经济指标速览：东亚日报“用指标看经济”发布",
+        "excerpt": "rss.donga.com于5月9日发布题为“用指标看经济：5月9日”的经济指标相关内容，来源信息未提供单独摘要。",
+        "body": "rss.donga.com于5月9日发布了题为“[用指标看经济]5月9日”的经济相关内容。现有原文信息可确认标题和来源，但未提供单独摘要或具体指标数据。该内容可归类为按日期通过经济指标观察经济走势的文章。不过，仅根据公开的原文信息，无法确认其中包含哪些经济指标、数据如何变化，或可能产生何种市场影响。读者如需了解详细指标和解读，应查阅原文。来源：rss.donga.com"
+      },
+      "es": {
+        "title": "Indicadores económicos del 9 de mayo: actualización de Donga",
+        "excerpt": "rss.donga.com publicó el 9 de mayo un contenido económico titulado ‘La economía vista por indicadores’, sin resumen separado en la fuente original.",
+        "body": "rss.donga.com publicó el 9 de mayo un contenido económico titulado ‘[La economía vista por indicadores] 9 de mayo’. La información disponible de la fuente confirma el título y el origen, pero no incluye un resumen separado ni cifras concretas de indicadores. El contenido se clasifica como una nota orientada a revisar la evolución económica por fecha a través de indicadores. Sin embargo, con la información original divulgada no es posible confirmar qué indicadores se incluyeron, cómo cambiaron las cifras ni qué impacto pudieron tener en el mercado. Para conocer los datos y la interpretación detallada, los lectores deben consultar el texto original. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Indicadores econômicos de 9 de maio: atualização do Donga",
+        "excerpt": "rss.donga.com publicou em 9 de maio um conteúdo econômico intitulado ‘Economia vista por indicadores’, sem resumo separado na fonte original.",
+        "body": "rss.donga.com publicou em 9 de maio um conteúdo econômico com o título ‘[Economia vista por indicadores] 9 de maio’. As informações disponíveis da fonte confirmam o título e a origem, mas não trazem resumo separado nem números específicos de indicadores. O conteúdo é classificado como uma matéria voltada a acompanhar, por data, o movimento da economia com base em indicadores. No entanto, apenas com as informações divulgadas na fonte original, não é possível confirmar quais indicadores foram incluídos, como os números mudaram ou qual impacto poderiam ter no mercado. Para detalhes e interpretação, os leitores devem consultar o texto original. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Wirtschaftsindikatoren vom 9. Mai: Donga-Update im Überblick",
+        "excerpt": "rss.donga.com veröffentlichte am 9. Mai einen Wirtschaftsbeitrag mit dem Titel ‘Wirtschaft anhand von Indikatoren’, ohne separate Zusammenfassung im Feed.",
+        "body": "rss.donga.com veröffentlichte am 9. Mai einen wirtschaftsbezogenen Beitrag mit dem Titel ‘[Wirtschaft anhand von Indikatoren] 9. Mai’. Die verfügbaren Quellenangaben bestätigen Titel und Herkunft, enthalten jedoch keine separate Zusammenfassung und keine konkreten Kennzahlen. Der Beitrag ist als Format einzuordnen, das wirtschaftliche Entwicklungen nach Datum anhand von Indikatoren betrachtet. Auf Grundlage der veröffentlichten Originalinformationen lässt sich jedoch nicht feststellen, welche Wirtschaftsindikatoren enthalten waren, wie sich Werte verändert haben oder welche Marktauswirkungen daraus folgten. Für detaillierte Indikatoren und Einordnung sollten Leser den Originalbeitrag prüfen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Indicateurs économiques du 9 mai : le point publié par Donga",
+        "excerpt": "rss.donga.com a publié le 9 mai un contenu économique intitulé ‘L’économie vue par les indicateurs’, sans résumé distinct dans la source.",
+        "body": "rss.donga.com a publié le 9 mai un contenu économique intitulé ‘[L’économie vue par les indicateurs] 9 mai’. Les informations disponibles dans la source confirment le titre et l’origine, mais ne fournissent ni résumé séparé ni chiffres précis d’indicateurs. Ce contenu relève d’un format qui suit l’évolution économique par date à travers des indicateurs. Toutefois, à partir des seules informations originales publiées, il n’est pas possible de confirmer quels indicateurs économiques étaient inclus, comment les chiffres ont évolué ni quel impact ils ont pu avoir sur le marché. Les lecteurs doivent consulter l’article original pour les données et l’interprétation détaillées. Source : rss.donga.com"
+      },
+      "ar": {
+        "title": "مؤشرات الاقتصاد في 9 مايو: تحديث دونغا ضمن ‘الاقتصاد بالأرقام’",
+        "excerpt": "نشر rss.donga.com في 9 مايو مادة اقتصادية بعنوان ‘الاقتصاد من خلال المؤشرات’، ولم تتضمن معلومات المصدر ملخصا منفصلا.",
+        "body": "نشر rss.donga.com في 9 مايو مادة اقتصادية بعنوان ‘[الاقتصاد من خلال المؤشرات] 9 مايو’. وتؤكد المعلومات المتاحة من المصدر العنوان والجهة الناشرة، لكنها لا تقدم ملخصا منفصلا أو أرقاما محددة للمؤشرات. وتصنف هذه المادة كمحتوى يتابع اتجاهات الاقتصاد حسب التاريخ من خلال المؤشرات. ومع ذلك، لا تسمح المعلومات الأصلية المنشورة وحدها بتحديد المؤشرات الاقتصادية التي شملتها المادة، أو كيفية تغير الأرقام، أو أثرها المحتمل في السوق. لذلك يحتاج القراء إلى مراجعة النص الأصلي للاطلاع على التفاصيل والتفسير. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "9 मई के आर्थिक संकेतक: डोंगा का ‘आंकड़ों से अर्थव्यवस्था’ अपडेट",
+        "excerpt": "rss.donga.com ने 9 मई को ‘आंकड़ों से अर्थव्यवस्था’ शीर्षक से आर्थिक संकेतकों से जुड़ी सामग्री प्रकाशित की, स्रोत में अलग सारांश नहीं था।",
+        "body": "rss.donga.com ने 9 मई को ‘[आंकड़ों से अर्थव्यवस्था] 9 मई’ शीर्षक से अर्थव्यवस्था से जुड़ी सामग्री प्रकाशित की। उपलब्ध स्रोत जानकारी में शीर्षक और स्रोत की पुष्टि होती है, लेकिन अलग सारांश या विशिष्ट संकेतक आंकड़े उपलब्ध नहीं कराए गए हैं। यह सामग्री तारीख के आधार पर आर्थिक प्रवृत्तियों को संकेतकों के जरिए देखने वाले लेख के रूप में वर्गीकृत की जा सकती है। हालांकि, प्रकाशित मूल जानकारी के आधार पर यह पुष्टि नहीं की जा सकती कि कौन से आर्थिक संकेतक शामिल थे, आंकड़ों में क्या बदलाव हुआ या बाजार पर क्या प्रभाव पड़ा। विस्तृत संकेतकों और व्याख्या के लिए पाठकों को मूल लेख देखना चाहिए। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Indikator Ekonomi 9 Mei: Pembaruan Donga ‘Ekonomi Lewat Data’",
+        "excerpt": "rss.donga.com menerbitkan konten ekonomi berjudul ‘Ekonomi Dilihat dari Indikator’ pada 9 Mei, tanpa ringkasan terpisah dalam sumber asli.",
+        "body": "rss.donga.com menerbitkan konten terkait ekonomi pada 9 Mei dengan judul ‘[Ekonomi Dilihat dari Indikator] 9 Mei’. Informasi sumber yang tersedia mengonfirmasi judul dan asal berita, tetapi tidak menyediakan ringkasan terpisah ataupun angka indikator yang spesifik. Konten ini dapat diklasifikasikan sebagai artikel yang meninjau arah ekonomi berdasarkan tanggal melalui indikator. Namun, dari informasi asli yang dipublikasikan saja, tidak dapat dipastikan indikator ekonomi apa yang disertakan, bagaimana perubahan angkanya, atau apa dampaknya terhadap pasar. Pembaca perlu melihat artikel asli untuk rincian indikator dan interpretasinya. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "288039f4b9ba",
+    "slug": "에이피알-분석-또-최대-실적-기록증권가-일제히-매수하라-774700",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T21:13:26.733Z",
+    "updatedAt": "2026-05-08T21:13:26.733Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605083246i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605083246i",
+    "titleFingerprint": "47cc0ba5812c82046ca755c80d1522639646d3dc",
+    "dedupKeys": [
+      "288039f4b9ba28275eaf7304b522cd371cca4609",
+      "47cc0ba5812c82046ca755c80d1522639646d3dc",
+      "9a6771534235d385618ae826091a37ce1c87d77a"
+    ],
+    "imageUrl": "/images/articles/288039f4b9ba.jpg",
+    "i18n": {
+      "ko": {
+        "title": "에이피알, 또 최대 실적 기록…증권가가 일제히 ‘매수’ 외친 이유",
+        "excerpt": "에이피알이 또다시 최대 실적을 기록한 것으로 전해지며 증권가에서 ‘매수’ 의견이 일제히 나온 가운데, 실적 흐름과 투자 판단이 주목받고 있다.",
+        "body": "에이피알이 또다시 최대 실적을 기록한 것으로 전해지면서 증권가의 ‘매수’ 의견이 한꺼번에 제시됐다. 이번 보도는 에이피알의 실적 흐름이 시장의 관심을 다시 끌고 있음을 보여준다. 원문 제목은 ‘또 최대 실적 기록’이라는 점을 강조하며, 증권가가 일제히 ‘매수하라’는 평가를 냈다고 전했다. 구체적인 실적 수치나 목표주가, 개별 증권사 의견은 원문 요약에 포함되지 않았다. 투자자 입장에서는 최대 실적 경신 여부와 증권가의 우호적 판단이 향후 주가 흐름을 가늠하는 핵심 변수로 받아들여질 수 있다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "APR Posts Another Record Result as Brokerages Line Up With Buy Calls",
+        "excerpt": "APR has reportedly posted another record performance, prompting brokerages to issue buy calls in unison as investors focus on its earnings momentum and market outlook.",
+        "body": "APR has reportedly recorded another all-time high in earnings, leading brokerages to present buy opinions at the same time. The report shows that APR’s earnings trend is drawing renewed attention from the market. The original headline emphasized that the company had “again posted record results” and said the securities industry was collectively urging investors to buy. Specific earnings figures, target prices, or individual brokerage comments were not included in the provided source summary. For investors, whether APR continues to renew record results and how favorable brokerage views remain may be key factors for assessing future share-price momentum. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "APRが再び最高業績、証券各社がそろって「買い」判断を提示",
+        "excerpt": "APRが再び過去最高の業績を記録したと伝えられ、証券各社が一斉に「買い」判断を示したことで、業績の勢いと投資判断に注目が集まっている。",
+        "body": "APRが再び過去最高の業績を記録したと伝えられ、証券各社の「買い」判断がそろって示された。今回の報道は、APRの業績の流れが市場の関心を改めて集めていることを示している。原文の見出しは「また最高業績を記録」という点を強調し、証券業界が一斉に「買い」を勧めたと伝えた。具体的な業績数値、目標株価、個別証券会社の見解は提供された要約には含まれていない。投資家にとっては、最高業績の更新と証券各社の前向きな判断が、今後の株価動向を見極める重要な材料となり得る。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "APR再创最高业绩，券商一致给出“买入”观点引关注",
+        "excerpt": "APR据称再次创下最高业绩，证券行业一致给出“买入”意见，市场正关注其业绩走势以及相关投资判断。",
+        "body": "据报道，APR再次创下最高业绩，证券行业同步提出“买入”意见。该报道显示，APR的业绩走势重新受到市场关注。原文标题强调其“又一次创下最高业绩”，并称证券界一致建议“买入”。所提供的原文摘要中未包含具体业绩数据、目标价或各家券商的详细意见。对投资者而言，APR能否继续刷新最高业绩，以及券商的积极判断能否延续，可能成为观察未来股价走势的重要因素。来源: hankyung.com."
+      },
+      "es": {
+        "title": "APR vuelve a marcar resultados récord y las casas de bolsa recomiendan comprar",
+        "excerpt": "APR habría registrado nuevamente resultados máximos, mientras las firmas de valores emitieron recomendaciones de compra de forma unánime, centrando la atención en su desempeño.",
+        "body": "APR habría vuelto a registrar resultados máximos, lo que llevó a las firmas de valores a presentar recomendaciones de compra de manera simultánea. La información muestra que la evolución de los resultados de APR vuelve a captar la atención del mercado. El titular original subrayó que la compañía “volvió a registrar resultados récord” y afirmó que el sector bursátil recomendó comprar de forma unánime. El resumen proporcionado no incluye cifras concretas, precios objetivo ni opiniones individuales de firmas de valores. Para los inversores, la renovación de máximos en resultados y la visión favorable del mercado pueden ser factores clave para evaluar la evolución futura de la acción. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "APR renova recorde de resultados e corretoras indicam compra em bloco",
+        "excerpt": "A APR teria registrado novamente seu melhor desempenho, levando corretoras a emitirem recomendações de compra de forma unânime enquanto o mercado acompanha seus resultados.",
+        "body": "A APR teria registrado novamente resultados recordes, levando corretoras a apresentar recomendações de compra ao mesmo tempo. A notícia indica que a trajetória de desempenho da APR voltou a chamar a atenção do mercado. O título original destacou que a empresa “registrou novamente o maior resultado” e afirmou que o setor de valores recomendou comprar de forma unânime. O resumo fornecido não inclui números específicos de resultados, preços-alvo ou opiniões individuais de corretoras. Para investidores, a renovação do recorde de desempenho e a avaliação favorável das corretoras podem ser fatores importantes para acompanhar a futura movimentação das ações. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "APR erzielt erneut Rekordergebnis, Analysten raten geschlossen zum Kauf",
+        "excerpt": "APR soll erneut ein Rekordergebnis erzielt haben; zugleich gaben Wertpapierhäuser geschlossen Kaufempfehlungen ab, wodurch Ergebnisdynamik und Ausblick in den Fokus rücken.",
+        "body": "APR hat Berichten zufolge erneut ein Rekordergebnis erzielt, woraufhin Wertpapierhäuser gleichzeitig Kaufempfehlungen aussprachen. Die Meldung zeigt, dass die Ergebnisentwicklung von APR wieder stärker in den Fokus des Marktes rückt. Die ursprüngliche Überschrift hob hervor, dass das Unternehmen „erneut ein Höchstergebnis“ erreicht habe, und berichtete, die Börsenexperten rieten geschlossen zum Kauf. Konkrete Ergebniszahlen, Kursziele oder einzelne Einschätzungen von Wertpapierhäusern waren in der bereitgestellten Zusammenfassung nicht enthalten. Für Anleger können die erneute Bestmarke bei den Ergebnissen und die positive Einschätzung der Analysten wichtige Faktoren für die weitere Aktienentwicklung sein. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "APR signe encore un résultat record et les courtiers recommandent l’achat",
+        "excerpt": "APR aurait de nouveau enregistré une performance record, tandis que les sociétés de courtage ont émis des avis d’achat unanimes, attirant l’attention sur sa dynamique.",
+        "body": "APR aurait de nouveau enregistré un résultat record, ce qui a conduit les sociétés de courtage à publier simultanément des recommandations d’achat. Cette information montre que la trajectoire des résultats d’APR attire à nouveau l’attention du marché. Le titre original souligne que l’entreprise a « encore enregistré un résultat record » et indique que le secteur des valeurs mobilières a recommandé l’achat à l’unisson. Le résumé fourni ne contient pas de chiffres précis, d’objectifs de cours ni d’avis détaillés par société. Pour les investisseurs, le renouvellement d’un record de résultats et l’évaluation favorable des courtiers peuvent devenir des éléments clés pour suivre l’évolution future de l’action. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "إيه بي آر تسجل أداء قياسيا جديدا وشركات الأوراق المالية توصي بالشراء",
+        "excerpt": "أفادت تقارير بأن إيه بي آر سجلت مجددا أعلى أداء لها، فيما أصدرت شركات الأوراق المالية توصيات شراء موحدة، ما يسلط الضوء على زخم نتائجها.",
+        "body": "أفادت تقارير بأن إيه بي آر سجلت مجددا أعلى مستوى من الأداء، ما دفع شركات الأوراق المالية إلى طرح توصيات شراء في وقت واحد. ويظهر التقرير أن مسار نتائج الشركة عاد إلى جذب اهتمام السوق. وشدد العنوان الأصلي على أنها «سجلت مجددا أعلى نتائج»، وذكر أن قطاع الأوراق المالية أوصى بالشراء بصورة جماعية. ولم يتضمن الملخص المقدم أرقاما محددة للنتائج أو أسعارا مستهدفة أو آراء تفصيلية لكل شركة وساطة. وبالنسبة للمستثمرين، قد يكون تجديد الأداء القياسي واستمرار النظرة الإيجابية من شركات الأوراق المالية عاملين مهمين في تقييم حركة السهم المقبلة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "APR ने फिर बनाया रिकॉर्ड प्रदर्शन, ब्रोकरेज ने एकसाथ दी खरीद की राय",
+        "excerpt": "APR ने कथित तौर पर फिर से अपना सर्वोच्च प्रदर्शन दर्ज किया है, जिसके बाद सिक्योरिटीज कंपनियों ने एकसाथ खरीद की राय दी और निवेशकों का ध्यान नतीजों पर गया।",
+        "body": "APR ने कथित तौर पर फिर से रिकॉर्ड प्रदर्शन दर्ज किया है, जिसके बाद सिक्योरिटीज कंपनियों ने एकसाथ खरीद की राय पेश की। यह रिपोर्ट दिखाती है कि APR के नतीजों की दिशा ने बाजार का ध्यान फिर से खींचा है। मूल शीर्षक में इस बात पर जोर दिया गया कि कंपनी ने “फिर सर्वोच्च प्रदर्शन दर्ज किया” और सिक्योरिटीज जगत ने एक स्वर में “खरीदने” की सलाह दी। उपलब्ध सारांश में विशिष्ट वित्तीय आंकड़े, लक्ष्य मूल्य या अलग-अलग ब्रोकरेज की राय शामिल नहीं थी। निवेशकों के लिए रिकॉर्ड प्रदर्शन का दोहराव और सिक्योरिटीज कंपनियों का अनुकूल मूल्यांकन आगे शेयर की चाल समझने के अहम संकेत हो सकते हैं। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "APR Kembali Cetak Kinerja Rekor, Sekuritas Serempak Beri Rekomendasi Beli",
+        "excerpt": "APR dilaporkan kembali mencatat kinerja tertinggi, sementara perusahaan sekuritas serempak memberi rekomendasi beli sehingga arah laba dan prospeknya menjadi sorotan.",
+        "body": "APR dilaporkan kembali mencatat kinerja tertinggi, mendorong perusahaan sekuritas menyampaikan rekomendasi beli secara bersamaan. Laporan ini menunjukkan bahwa tren kinerja APR kembali menarik perhatian pasar. Judul asli menekankan bahwa perusahaan “kembali mencatat kinerja tertinggi” dan menyebut kalangan sekuritas secara serempak menyarankan untuk membeli. Ringkasan sumber yang tersedia tidak memuat angka kinerja spesifik, target harga, atau pandangan masing-masing perusahaan sekuritas. Bagi investor, pembaruan rekor kinerja dan penilaian positif dari sekuritas dapat menjadi faktor utama untuk menilai pergerakan saham ke depan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "d555e7c23d22",
+    "slug": "코스피-종전-협상-불확실성에-2대-급락코스닥은-상승-215057",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T21:12:28.899Z",
+    "updatedAt": "2026-05-08T21:12:28.899Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050832376",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050832376",
+    "titleFingerprint": "2f2c07b6cff9d03df9f102d0546b349367dbd175",
+    "dedupKeys": [
+      "d555e7c23d22a9e5a04359e6294764e5da8c8cf9",
+      "2f2c07b6cff9d03df9f102d0546b349367dbd175",
+      "b1fc3ca22450a0e17b33ff1e583283e1a9a3db2a"
+    ],
+    "imageUrl": "/images/articles/d555e7c23d22.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 2%대 급락, 종전 협상 불확실성에 투자심리 흔들렸다",
+        "excerpt": "코스피가 종전 협상 불확실성의 영향으로 2%대 급락한 가운데 코스닥은 상승하며 국내 증시가 엇갈린 흐름을 보였다.",
+        "body": "코스피가 종전 협상 불확실성에 2%대 급락했다. 국내 증시는 관련 협상 흐름을 둘러싼 불확실성이 커지면서 투자심리가 흔들렸고, 코스피는 큰 폭의 하락세를 나타냈다. 반면 코스닥은 같은 시장 환경 속에서도 상승하며 코스피와 다른 방향을 보였다. 이번 흐름은 대외 변수에 민감한 유가증권시장과 상대적으로 다른 수급을 보인 코스닥의 차이를 드러냈다. 향후 시장은 종전 협상 관련 불확실성의 완화 여부와 이에 따른 투자심리 변화를 주시할 것으로 보인다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Slides Over 2% as War-End Talks Uncertainty Hits Sentiment",
+        "excerpt": "The KOSPI fell more than 2% as uncertainty over war-ending negotiations weighed on investor sentiment, while the KOSDAQ rose in a mixed Korean market.",
+        "body": "The KOSPI dropped by more than 2% amid uncertainty over negotiations to end the war. In Korea’s stock market, investor sentiment weakened as uncertainty surrounding the talks increased, pushing the benchmark index sharply lower. The KOSDAQ, however, moved higher under the same market conditions, showing a different direction from the KOSPI. The move highlighted the sensitivity of the main stock market to external variables and the comparatively different flow in the KOSDAQ. Investors are expected to watch whether uncertainty around the negotiations eases and how sentiment changes as a result. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIが2％台急落、終戦交渉の不確実性で投資心理悪化",
+        "excerpt": "終戦交渉を巡る不確実性が投資心理を冷やし、KOSPIは2％台の急落となった一方、KOSDAQは上昇し韓国株はまちまちとなった。",
+        "body": "KOSPIは終戦交渉を巡る不確実性を受け、2％台の急落となった。韓国株式市場では、関連交渉の行方を巡る不透明感が強まり、投資心理が揺らいだことで、KOSPIは大きく下落した。一方、KOSDAQは同じ市場環境の中でも上昇し、KOSPIとは異なる動きを見せた。今回の流れは、対外要因に敏感な有価証券市場と、相対的に異なる需給を示したKOSDAQの違いを浮き彫りにした。今後、市場は終戦交渉に関する不確実性が緩和されるか、そして投資心理がどう変化するかに注目するとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI因终战谈判不确定性重挫逾2%，KOSDAQ逆势上涨",
+        "excerpt": "受终战谈判不确定性影响，KOSPI下跌逾2%，投资情绪承压；与此同时，KOSDAQ上涨，韩国股市走势分化。",
+        "body": "KOSPI因终战谈判不确定性下跌逾2%。在韩国股市中，围绕相关谈判进展的不确定性上升，投资情绪受到冲击，KOSPI出现大幅下跌。相反，KOSDAQ在相同市场环境下上涨，走势与KOSPI不同。此次行情显示，主板市场对外部变量较为敏感，而KOSDAQ则呈现相对不同的资金流向。接下来，市场预计将关注终战谈判相关不确定性是否缓解，以及由此带来的投资情绪变化。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI cae más de 2% por incertidumbre en negociaciones de fin de guerra",
+        "excerpt": "El KOSPI cayó más de 2% por la incertidumbre sobre las negociaciones para poner fin a la guerra, mientras el KOSDAQ subió en un mercado coreano mixto.",
+        "body": "El KOSPI cayó más de 2% en medio de la incertidumbre sobre las negociaciones para poner fin a la guerra. En el mercado bursátil coreano, el aumento de la incertidumbre en torno al curso de esas conversaciones debilitó el ánimo inversor y llevó al índice principal a una fuerte baja. En cambio, el KOSDAQ subió bajo el mismo entorno de mercado, mostrando una dirección distinta a la del KOSPI. El movimiento puso de relieve la sensibilidad del mercado principal a variables externas y el flujo relativamente diferente del KOSDAQ. El mercado seguirá atento a si se reduce la incertidumbre vinculada a las negociaciones y a cómo cambia la confianza inversora. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI cai mais de 2% com incerteza sobre negociações de fim da guerra",
+        "excerpt": "O KOSPI caiu mais de 2% com a incerteza sobre negociações para encerrar a guerra, enquanto o KOSDAQ subiu e mostrou divergência no mercado coreano.",
+        "body": "O KOSPI caiu mais de 2% em meio à incerteza sobre as negociações para encerrar a guerra. No mercado acionário coreano, a maior indefinição sobre o andamento dessas conversas abalou o sentimento dos investidores e levou o índice principal a uma queda acentuada. Já o KOSDAQ avançou no mesmo ambiente de mercado, seguindo direção diferente da do KOSPI. O movimento mostrou a sensibilidade do mercado principal a variáveis externas e o fluxo relativamente distinto no KOSDAQ. Daqui em diante, o mercado deve observar se a incerteza ligada às negociações diminui e como isso afeta o sentimento dos investidores. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI fällt über 2 Prozent wegen Unsicherheit um Kriegsende-Gespräche",
+        "excerpt": "Der KOSPI fiel um mehr als 2 Prozent, da Unsicherheit über Gespräche zur Beendigung des Krieges belastete; der KOSDAQ legte dagegen zu.",
+        "body": "Der KOSPI ist wegen Unsicherheit über Gespräche zur Beendigung des Krieges um mehr als 2 Prozent gefallen. Am koreanischen Aktienmarkt schwächte sich die Anlegerstimmung, weil die Unsicherheit über den Verlauf der Verhandlungen zunahm, und der Leitindex gab deutlich nach. Der KOSDAQ stieg dagegen im selben Marktumfeld und entwickelte sich anders als der KOSPI. Die Bewegung zeigte die Empfindlichkeit des Hauptmarkts gegenüber externen Faktoren und den vergleichsweise anderen Fluss am KOSDAQ. Der Markt dürfte nun beobachten, ob die Unsicherheit rund um die Verhandlungen nachlässt und wie sich dadurch die Anlegerstimmung verändert. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 2 % sur l’incertitude des négociations de fin de guerre",
+        "excerpt": "Le KOSPI a chuté de plus de 2 % sous l’effet de l’incertitude liée aux négociations de fin de guerre, tandis que le KOSDAQ a progressé.",
+        "body": "Le KOSPI a chuté de plus de 2 % sur fond d’incertitude autour des négociations visant à mettre fin à la guerre. Sur le marché boursier coréen, la montée des incertitudes concernant l’évolution de ces discussions a pesé sur le sentiment des investisseurs et entraîné une forte baisse de l’indice principal. Le KOSDAQ, en revanche, a progressé dans le même environnement de marché, évoluant dans une direction différente de celle du KOSPI. Ce mouvement met en évidence la sensibilité du marché principal aux facteurs externes et le flux relativement différent observé sur le KOSDAQ. Le marché devrait suivre l’éventuelle réduction de cette incertitude et ses effets sur le sentiment des investisseurs. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يهبط بأكثر من 2% مع ضبابية مفاوضات إنهاء الحرب",
+        "excerpt": "هبط مؤشر كوسبي بأكثر من 2% بفعل عدم اليقين حول مفاوضات إنهاء الحرب، بينما ارتفع كوسداك في أداء متباين لسوق الأسهم الكورية.",
+        "body": "هبط مؤشر كوسبي بأكثر من 2% وسط حالة من عدم اليقين بشأن مفاوضات إنهاء الحرب. في سوق الأسهم الكورية، أدى اتساع الغموض حول مسار هذه المفاوضات إلى إضعاف معنويات المستثمرين ودفع المؤشر الرئيسي إلى تراجع حاد. وفي المقابل، ارتفع مؤشر كوسداك في البيئة السوقية نفسها، متحركا في اتجاه مختلف عن كوسبي. وأظهر هذا التحرك حساسية السوق الرئيسية للعوامل الخارجية، مقابل تدفقات مختلفة نسبيا في كوسداك. ومن المتوقع أن تراقب السوق ما إذا كانت حالة عدم اليقين المرتبطة بالمفاوضات ستتراجع، وكيف سينعكس ذلك على معنويات المستثمرين. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "युद्ध समाप्ति वार्ता की अनिश्चितता से KOSPI 2% से अधिक टूटा",
+        "excerpt": "युद्ध समाप्ति वार्ता को लेकर अनिश्चितता से KOSPI 2% से अधिक गिरा, जबकि KOSDAQ चढ़ा और कोरियाई शेयर बाजार में मिला-जुला रुझान दिखा।",
+        "body": "युद्ध समाप्ति वार्ता को लेकर अनिश्चितता के बीच KOSPI 2% से अधिक गिर गया। कोरियाई शेयर बाजार में संबंधित वार्ता की दिशा को लेकर अनिश्चितता बढ़ने से निवेशक धारणा कमजोर हुई और मुख्य सूचकांक में तेज गिरावट आई। इसके विपरीत, KOSDAQ समान बाजार माहौल में बढ़ा और KOSPI से अलग दिशा में चला। इस रुझान ने बाहरी कारकों के प्रति मुख्य बाजार की संवेदनशीलता और KOSDAQ में अपेक्षाकृत अलग प्रवाह को दिखाया। आगे बाजार यह देखेगा कि वार्ता से जुड़ी अनिश्चितता कम होती है या नहीं और उसके अनुसार निवेशक भावना कैसे बदलती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Anjlok Lebih dari 2% karena Ketidakpastian Negosiasi Akhir Perang",
+        "excerpt": "KOSPI turun lebih dari 2% akibat ketidakpastian negosiasi untuk mengakhiri perang, sementara KOSDAQ naik dalam pergerakan bursa Korea yang beragam.",
+        "body": "KOSPI turun lebih dari 2% di tengah ketidakpastian terkait negosiasi untuk mengakhiri perang. Di pasar saham Korea, meningkatnya ketidakjelasan mengenai arah negosiasi tersebut menekan sentimen investor dan membuat indeks utama melemah tajam. Sebaliknya, KOSDAQ naik dalam lingkungan pasar yang sama, bergerak berbeda dari KOSPI. Pergerakan ini menunjukkan sensitivitas pasar utama terhadap faktor eksternal serta arus yang relatif berbeda di KOSDAQ. Ke depan, pasar diperkirakan akan mencermati apakah ketidakpastian terkait negosiasi mereda dan bagaimana perubahan itu memengaruhi sentimen investor. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "0877fc153951",
     "slug": "삼전닉스-폭등-뒤에-이것-있었다240조-뭉칫돈-몰린-곳-분석-933059",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Baillie Gifford, Pemegang Saham No. 2 Coupang, Jual Saham 800 Miliar Won",
         "excerpt": "Baillie Gifford, manajer aset Inggris dan pemegang saham terbesar kedua Coupang, baru-baru ini menjual saham Coupang dalam jumlah besar, menurut data SEC pada 8 Mei.",
         "body": "Baillie Gifford, manajer aset asal Inggris dan pemegang saham terbesar kedua Coupang, diketahui baru-baru ini menjual saham Coupang dalam jumlah besar. Menurut Komisi Sekuritas dan Bursa Amerika Serikat (SEC) pada 8 Mei, perubahan kepemilikan Baillie Gifford di Coupang terkonfirmasi per akhir Maret. Nilai penjualan dilaporkan sekitar 800 miliar won. Karena Baillie Gifford selama ini dikategorikan sebagai pemegang saham utama Coupang, penjualan saham ini dapat menarik perhatian pasar. Laporan asli tidak menyebutkan alasan penjualan atau rencana transaksi lanjutan. Investor kemungkinan akan memantau perubahan kepemilikan pemegang saham utama bersama pergerakan harga saham Coupang. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "60b6a0bc4b50",
-    "slug": "로봇-완성도-높아졌네-관련株-일제히-급등세-941801",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T09:23:37.398Z",
-    "updatedAt": "2026-05-08T09:23:37.398Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041387",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041387",
-    "titleFingerprint": "4e889d3341a9cf63d22e6a25b75922e998a4cea3",
-    "dedupKeys": [
-      "60b6a0bc4b50b141210eb318cf7929376d627820",
-      "4e889d3341a9cf63d22e6a25b75922e998a4cea3",
-      "60dce6012b95f9c6a853f27e8a2f819d534a305f"
-    ],
-    "imageUrl": "/images/articles/60b6a0bc4b50.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로봇 관련주 급등, 보스턴다이내믹스·LG CNS 영상 공개에 반등세",
-        "excerpt": "현대차그룹 로보틱스 자회사 보스턴다이내믹스와 LG CNS가 진일보한 로봇 구동 영상을 잇달아 공개하자 로봇 관련주가 가파른 반등세를 보였다.",
-        "body": "로봇 관련주가 현대자동차그룹의 로보틱스 자회사 보스턴다이내믹스와 LG CNS 등의 로봇 구동 영상 공개를 계기로 일제히 급등세를 보였다. 이들 기업은 최근 완성도가 높아진 로봇 움직임을 담은 영상을 잇달아 공개하며 시장의 관심을 끌었다. 원문에 따르면 로봇 기업들의 상용화 로드맵이 부각되면서 관련 종목이 가파른 반등세를 나타냈다. 투자자들은 로봇 기술의 진전과 상용화 가능성에 주목하고 있으나, 기사에서 제시된 핵심 근거는 공개 영상과 로드맵 기대에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Robot Stocks Jump as Boston Dynamics and LG CNS Videos Lift Interest",
-        "excerpt": "Robot-related shares rebounded sharply after Hyundai Motor Group’s Boston Dynamics and LG CNS released videos showing more advanced robot operation.",
-        "body": "Robot-related stocks rose sharply after Boston Dynamics, Hyundai Motor Group’s robotics subsidiary, and LG CNS released videos showing advanced robot operation. The companies drew market attention by unveiling footage that highlighted improved robot movement and higher completion levels. According to the original report, the rebound came as commercialization roadmaps by robotics companies gained renewed focus. Investors are watching progress in robot technology and the possibility of commercialization, but the cited basis is limited to the released videos and roadmap expectations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロボット関連株が急騰、ボストン・ダイナミクスとLG CNS映像で反発",
-        "excerpt": "現代自動車グループ傘下のボストン・ダイナミクスとLG CNSが進化したロボット駆動映像を相次ぎ公開し、関連株が急反発した。",
-        "body": "ロボット関連株は、現代自動車グループのロボティクス子会社ボストン・ダイナミクスとLG CNSなどがロボット駆動映像を公開したことをきっかけに、そろって急騰した。各社は完成度が高まったロボットの動きを示す映像を相次いで公開し、市場の関心を集めた。原文によると、ロボット企業の商用化ロードマップが注目され、関連銘柄は急な反発を見せた。投資家は技術進展と商用化の可能性を見ているが、記事の根拠は公開映像とロードマップ期待に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "机器人概念股集体大涨，波士顿动力与LG CNS视频带动反弹",
-        "excerpt": "现代汽车集团旗下波士顿动力和LG CNS相继发布更先进的机器人运行视频后，机器人相关股票出现快速反弹。",
-        "body": "机器人相关股票在现代汽车集团机器人子公司波士顿动力以及LG CNS等发布机器人运行视频后集体大涨。这些企业近日相继公开展示机器人动作完成度提升的视频，引发市场关注。据原文报道，随着机器人企业商业化路线图受到关注，相关个股出现快速反弹。投资者正在关注机器人技术进展和商业化可能性，但报道所依据的核心信息仅限于公开视频和路线图预期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de robótica suben por videos de Boston Dynamics y LG CNS",
-        "excerpt": "Las acciones vinculadas a robótica repuntaron con fuerza después de que Boston Dynamics, de Hyundai Motor Group, y LG CNS difundieran videos de robots más avanzados.",
-        "body": "Las acciones relacionadas con robótica subieron con fuerza después de que Boston Dynamics, filial de robótica de Hyundai Motor Group, y LG CNS publicaran videos de operación de robots más avanzados. Las empresas atrajeron la atención del mercado al mostrar movimientos de robots con mayor nivel de acabado. Según el informe original, el repunte se produjo mientras ganaban visibilidad las hojas de ruta de comercialización de las compañías de robótica. Los inversores observan el avance tecnológico y la posibilidad de comercialización, aunque la base citada se limita a los videos publicados y a esas expectativas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações de robótica disparam com vídeos da Boston Dynamics e LG CNS",
-        "excerpt": "Papéis ligados à robótica tiveram forte recuperação após Boston Dynamics, do Hyundai Motor Group, e LG CNS divulgarem vídeos de robôs mais avançados.",
-        "body": "As ações relacionadas à robótica subiram de forma acentuada depois que a Boston Dynamics, subsidiária de robótica do Hyundai Motor Group, e a LG CNS divulgaram vídeos de operação de robôs mais avançados. As empresas chamaram a atenção do mercado ao mostrar movimentos com maior grau de acabamento. Segundo a reportagem original, a recuperação ocorreu à medida que os roteiros de comercialização das empresas de robótica ganharam destaque. Investidores acompanham o avanço da tecnologia e a possibilidade de comercialização, mas a base citada limita-se aos vídeos divulgados e às expectativas sobre esses roteiros. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Robotik-Aktien steigen nach Videos von Boston Dynamics und LG CNS",
-        "excerpt": "Robotiknahe Aktien legten deutlich zu, nachdem Boston Dynamics von Hyundai Motor Group und LG CNS Videos mit fortgeschrittener Roboterbewegung veröffentlichten.",
-        "body": "Robotikbezogene Aktien stiegen kräftig, nachdem Boston Dynamics, die Robotiktochter der Hyundai Motor Group, und LG CNS Videos mit fortgeschrittener Roboterbewegung veröffentlicht hatten. Die Unternehmen lenkten die Aufmerksamkeit des Marktes auf sich, indem sie Aufnahmen mit einem höheren Reifegrad der Roboterbewegungen zeigten. Laut dem Originalbericht rückten Kommerzialisierungsfahrpläne von Robotikunternehmen in den Fokus, was die betreffenden Titel stark erholen ließ. Anleger achten auf technischen Fortschritt und mögliche Vermarktung, doch die genannte Grundlage beschränkt sich auf die veröffentlichten Videos und Roadmap-Erwartungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les valeurs robotiques bondissent après des vidéos de Boston Dynamics et LG CNS",
-        "excerpt": "Les actions liées à la robotique ont fortement rebondi après la diffusion de vidéos plus avancées par Boston Dynamics, filiale de Hyundai Motor Group, et LG CNS.",
-        "body": "Les actions liées à la robotique ont fortement progressé après la publication de vidéos de fonctionnement de robots par Boston Dynamics, filiale robotique de Hyundai Motor Group, et LG CNS. Ces entreprises ont attiré l’attention du marché en montrant des mouvements de robots d’un niveau de finition plus élevé. Selon l’article original, le rebond s’est produit alors que les feuilles de route de commercialisation des sociétés de robotique revenaient au premier plan. Les investisseurs suivent les progrès technologiques et la possibilité de commercialisation, mais les éléments cités se limitent aux vidéos publiées et aux attentes liées aux feuilles de route. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الروبوتات تقفز بعد فيديوهات من بوسطن دايناميكس وLG CNS",
-        "excerpt": "ارتفعت أسهم مرتبطة بالروبوتات بقوة بعدما نشرت بوسطن دايناميكس التابعة لمجموعة هيونداي موتور وLG CNS مقاطع تظهر تشغيل روبوتات أكثر تطورا.",
-        "body": "سجلت الأسهم المرتبطة بالروبوتات ارتفاعا حادا بعد أن نشرت بوسطن دايناميكس، شركة الروبوتات التابعة لمجموعة هيونداي موتور، وLG CNS مقاطع فيديو لتشغيل روبوتات متقدمة. وجذبت الشركات اهتمام السوق عبر عرض حركات روبوتية ذات مستوى أعلى من الاكتمال. ووفقا للتقرير الأصلي، جاء الارتداد مع بروز خرائط طريق التسويق التجاري لدى شركات الروبوتات. ويراقب المستثمرون تقدم التقنية وإمكانات التسويق التجاري، لكن الأساس المذكور في الخبر يقتصر على المقاطع المنشورة وتوقعات خرائط الطريق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Boston Dynamics और LG CNS वीडियो से रोबोटिक्स शेयरों में तेज उछाल",
-        "excerpt": "Hyundai Motor Group की Boston Dynamics और LG CNS ने उन्नत रोबोट संचालन के वीडियो जारी किए, जिसके बाद रोबोटिक्स से जुड़े शेयरों में तेज पलटाव दिखा।",
-        "body": "रोबोटिक्स से जुड़े शेयरों में तेज बढ़त आई, जब Hyundai Motor Group की रोबोटिक्स सहायक Boston Dynamics और LG CNS ने उन्नत रोबोट संचालन दिखाने वाले वीडियो जारी किए। कंपनियों ने बेहतर पूर्णता स्तर वाली रोबोट गतिविधियों के फुटेज दिखाकर बाजार का ध्यान खींचा। मूल रिपोर्ट के अनुसार, रोबोट कंपनियों के व्यावसायीकरण रोडमैप पर ध्यान बढ़ने से संबंधित शेयरों में तेज पलटाव हुआ। निवेशक रोबोट तकनीक की प्रगति और व्यावसायीकरण की संभावना पर नजर रख रहे हैं, लेकिन खबर में दिया गया आधार जारी वीडियो और रोडमैप अपेक्षाओं तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Robotik Melonjak usai Video Boston Dynamics dan LG CNS Dirilis",
-        "excerpt": "Saham terkait robotik rebound tajam setelah Boston Dynamics milik Hyundai Motor Group dan LG CNS merilis video pengoperasian robot yang lebih maju.",
-        "body": "Saham terkait robotik naik tajam setelah Boston Dynamics, anak usaha robotik Hyundai Motor Group, dan LG CNS merilis video pengoperasian robot yang lebih maju. Perusahaan-perusahaan itu menarik perhatian pasar dengan menampilkan gerakan robot yang menunjukkan tingkat penyelesaian lebih tinggi. Menurut laporan asli, rebound terjadi saat peta jalan komersialisasi perusahaan robotik kembali disorot. Investor mencermati kemajuan teknologi robot dan kemungkinan komersialisasi, tetapi dasar yang disebut dalam artikel terbatas pada video yang dirilis dan ekspektasi terhadap peta jalan tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2a99bd36c8e7",
-    "slug": "코오롱인더-영업이익-130-급증-606141",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T09:22:43.190Z",
-    "updatedAt": "2026-05-08T09:22:43.190Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041386",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041386",
-    "titleFingerprint": "5c737ce01098a5d8351ef9f44d353787d4695bfa",
-    "dedupKeys": [
-      "2a99bd36c8e7d343cb1d0809c3ea5d8de92d9985",
-      "5c737ce01098a5d8351ef9f44d353787d4695bfa",
-      "663bf68efc325d63e07186025d8c851e0246e1ab"
-    ],
-    "imageUrl": "/images/articles/2a99bd36c8e7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국타이어앤테크놀로지 1분기 영업이익 5069억원, 전년 대비 42.9% 증가",
-        "excerpt": "한국타이어앤테크놀로지는 8일 공시를 통해 올해 1분기 연결기준 매출 5조3139억원, 영업이익 5069억원을 기록했다고 밝혔다.",
-        "body": "한국타이어앤테크놀로지는 8일 공시에서 올해 1분기 연결기준 매출액 5조3139억원, 영업이익 5069억원을 기록했다고 밝혔다. 전년 동기와 비교하면 매출은 7%, 영업이익은 42.9% 증가했다. 이번 실적은 연결기준으로 집계된 수치이며, 매출과 수익성이 모두 전년 같은 기간보다 개선된 것으로 나타났다. 회사의 1분기 실적 발표는 매출 확대와 영업이익 증가 흐름을 확인하는 자료로 활용될 수 있다. 다만 원문에는 구체적인 사업 부문별 실적이나 향후 전망에 대한 추가 설명은 포함되지 않았다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Hankook Tire Q1 Operating Profit Hits 506.9 Billion Won, Up 42.9% YoY",
-        "excerpt": "Hankook Tire & Technology said in a May 8 filing that first-quarter consolidated sales reached 5.3139 trillion won and operating profit totaled 506.9 billion won.",
-        "body": "Hankook Tire & Technology announced in a May 8 regulatory filing that its first-quarter consolidated revenue reached 5.3139 trillion won and operating profit came to 506.9 billion won. Compared with the same period a year earlier, revenue rose 7%, while operating profit increased 42.9%. The figures were reported on a consolidated basis and show that both sales and profitability improved year over year. The first-quarter earnings announcement may serve as a reference point for tracking the company’s revenue growth and operating profit improvement. The original report did not include additional details on business-segment results or future guidance. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "韓国タイヤ、1四半期営業益5069億ウォン 前年比42.9%増",
-        "excerpt": "韓国タイヤアンドテクノロジーは8日の公示で、今年1四半期の連結売上高が5兆3139億ウォン、営業利益が5069億ウォンだったと明らかにした。",
-        "body": "韓国タイヤアンドテクノロジーは8日の公示で、今年1四半期の連結ベース売上高が5兆3139億ウォン、営業利益が5069億ウォンだったと発表した。前年同期比で売上高は7%、営業利益は42.9%増加した。今回の実績は連結基準で集計された数値で、売上と収益性の双方が前年同期間より改善したことを示している。1四半期決算の発表は、同社の売上拡大と営業利益増加の流れを確認する材料となる。ただし原文には、事業部門別の実績や今後の見通しに関する追加説明は含まれていない。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "韩国轮胎一季度营业利润5069亿韩元，同比增42.9%",
-        "excerpt": "韩国轮胎科技8日公告称，今年一季度合并口径销售额为5.3139万亿韩元，营业利润为5069亿韩元。",
-        "body": "韩国轮胎科技在8日公告中表示，今年第一季度按合并口径计算的销售额为5.3139万亿韩元，营业利润为5069亿韩元。与去年同期相比，销售额增长7%，营业利润增长42.9%。此次业绩为合并基准数据，显示公司销售规模和盈利能力均较上年同期改善。第一季度业绩公告可作为观察其销售扩大和营业利润增长趋势的资料。不过，原文未包含按业务部门划分的具体业绩，也未提供未来展望的进一步说明。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Hankook Tire eleva su beneficio operativo trimestral un 42,9% interanual",
-        "excerpt": "Hankook Tire & Technology informó el 8 de mayo que sus ventas consolidadas del primer trimestre fueron de 5,3139 billones de wones y su beneficio operativo de 506.900 millones.",
-        "body": "Hankook Tire & Technology informó en una comunicación del 8 de mayo que sus ventas consolidadas del primer trimestre alcanzaron 5,3139 billones de wones y que el beneficio operativo fue de 506.900 millones de wones. Frente al mismo periodo del año anterior, las ventas aumentaron un 7% y el beneficio operativo creció un 42,9%. Las cifras fueron calculadas sobre base consolidada y muestran una mejora tanto en ingresos como en rentabilidad. El anuncio de resultados del primer trimestre puede servir para seguir la evolución de la expansión de ventas y del aumento del beneficio operativo. El texto original no incluyó detalles por segmento ni previsiones futuras. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Hankook Tire tem lucro operacional de 506,9 bilhões de won no 1º trimestre",
-        "excerpt": "A Hankook Tire & Technology informou em 8 de maio que registrou receita consolidada de 5,3139 trilhões de won e lucro operacional de 506,9 bilhões no primeiro trimestre.",
-        "body": "A Hankook Tire & Technology informou em comunicado de 8 de maio que sua receita consolidada no primeiro trimestre chegou a 5,3139 trilhões de won, enquanto o lucro operacional somou 506,9 bilhões de won. Em relação ao mesmo período do ano anterior, a receita aumentou 7% e o lucro operacional cresceu 42,9%. Os números foram apurados em base consolidada e indicam melhora tanto nas vendas quanto na rentabilidade. A divulgação dos resultados do primeiro trimestre pode ser usada para acompanhar a expansão da receita e o aumento do lucro operacional da companhia. O texto original não trouxe detalhes por segmento de negócios nem projeções futuras. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Hankook Tire steigert operativen Gewinn im ersten Quartal um 42,9%",
-        "excerpt": "Hankook Tire & Technology meldete am 8. Mai für das erste Quartal einen konsolidierten Umsatz von 5,3139 Billionen Won und einen operativen Gewinn von 506,9 Milliarden Won.",
-        "body": "Hankook Tire & Technology teilte in einer Mitteilung vom 8. Mai mit, dass der konsolidierte Umsatz im ersten Quartal 5,3139 Billionen Won erreichte und der operative Gewinn 506,9 Milliarden Won betrug. Gegenüber dem Vorjahreszeitraum stieg der Umsatz um 7%, während der operative Gewinn um 42,9% zunahm. Die Zahlen wurden auf konsolidierter Basis ausgewiesen und zeigen, dass sich sowohl Erlöse als auch Profitabilität gegenüber dem Vorjahr verbessert haben. Die Quartalsmeldung kann als Grundlage dienen, um die Umsatzexpansion und den Anstieg des operativen Gewinns nachzuverfolgen. Der Originaltext enthielt keine zusätzlichen Angaben zu einzelnen Geschäftsbereichen oder zum Ausblick. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Hankook Tire affiche un bénéfice opérationnel trimestriel en hausse de 42,9%",
-        "excerpt": "Hankook Tire & Technology a annoncé le 8 mai un chiffre d’affaires consolidé de 5 313,9 milliards de wons et un bénéfice opérationnel de 506,9 milliards au premier trimestre.",
-        "body": "Hankook Tire & Technology a indiqué dans une publication du 8 mai que son chiffre d’affaires consolidé du premier trimestre avait atteint 5 313,9 milliards de wons, tandis que le bénéfice opérationnel s’élevait à 506,9 milliards de wons. Par rapport à la même période de l’an dernier, le chiffre d’affaires a progressé de 7% et le bénéfice opérationnel de 42,9%. Ces données, établies sur une base consolidée, montrent une amélioration à la fois des ventes et de la rentabilité. L’annonce des résultats trimestriels permet de suivre l’expansion du chiffre d’affaires et la hausse du bénéfice opérationnel. Le texte original ne fournit pas de détail par activité ni de perspectives futures. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "هانكوك تاير تسجل ربحا تشغيليا بـ506.9 مليار وون في الربع الأول",
-        "excerpt": "أعلنت هانكوك تاير آند تكنولوجي في إفصاح يوم 8 مايو أن مبيعاتها المجمعة في الربع الأول بلغت 5.3139 تريليون وون، وأن الربح التشغيلي بلغ 506.9 مليار وون.",
-        "body": "أعلنت هانكوك تاير آند تكنولوجي في إفصاح بتاريخ 8 مايو أن إيراداتها المجمعة في الربع الأول من العام بلغت 5.3139 تريليون وون، فيما وصل الربح التشغيلي إلى 506.9 مليار وون. وبالمقارنة مع الفترة نفسها من العام السابق، ارتفعت المبيعات 7% وزاد الربح التشغيلي 42.9%. وجاءت هذه الأرقام على أساس مجمع، لتظهر تحسنا في كل من حجم المبيعات والربحية مقارنة بالعام الماضي. ويمكن استخدام إعلان نتائج الربع الأول لمتابعة توسع الإيرادات وزيادة الربح التشغيلي للشركة. ولم يتضمن النص الأصلي تفاصيل إضافية عن أداء القطاعات أو التوقعات المستقبلية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "हैंकूक टायर का पहली तिमाही परिचालन लाभ 506.9 अरब वॉन, 42.9% बढ़ा",
-        "excerpt": "हैंकूक टायर एंड टेक्नोलॉजी ने 8 मई की फाइलिंग में बताया कि पहली तिमाही में समेकित बिक्री 5.3139 ट्रिलियन वॉन और परिचालन लाभ 506.9 अरब वॉन रहा।",
-        "body": "हैंकूक टायर एंड टेक्नोलॉजी ने 8 मई की नियामकीय सूचना में कहा कि इस वर्ष पहली तिमाही में समेकित आधार पर बिक्री 5.3139 ट्रिलियन वॉन रही और परिचालन लाभ 506.9 अरब वॉन दर्ज किया गया। पिछले वर्ष की समान अवधि की तुलना में बिक्री 7% और परिचालन लाभ 42.9% बढ़ा। ये आंकड़े समेकित आधार पर जारी किए गए हैं और बताते हैं कि कंपनी की बिक्री तथा लाभप्रदता दोनों में सालाना आधार पर सुधार हुआ। पहली तिमाही के नतीजे कंपनी की आय वृद्धि और परिचालन लाभ में बढ़ोतरी को देखने के लिए संदर्भ बन सकते हैं। मूल रिपोर्ट में कारोबार खंडों के अलग-अलग आंकड़े या भविष्य के अनुमान शामिल नहीं थे। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Hankook Tire Cetak Laba Operasi Kuartal I 506,9 Miliar Won, Naik 42,9%",
-        "excerpt": "Hankook Tire & Technology menyatakan pada 8 Mei bahwa penjualan konsolidasi kuartal I mencapai 5,3139 triliun won dan laba operasi 506,9 miliar won.",
-        "body": "Hankook Tire & Technology menyampaikan dalam keterbukaan pada 8 Mei bahwa pendapatan konsolidasi kuartal pertama tahun ini mencapai 5,3139 triliun won, sementara laba operasi tercatat 506,9 miliar won. Dibandingkan periode yang sama tahun sebelumnya, penjualan naik 7% dan laba operasi meningkat 42,9%. Angka tersebut disusun berdasarkan laporan konsolidasi dan menunjukkan bahwa penjualan serta profitabilitas membaik secara tahunan. Pengumuman kinerja kuartal pertama ini dapat menjadi acuan untuk melihat pertumbuhan pendapatan dan kenaikan laba operasi perusahaan. Teks asli tidak memuat rincian kinerja per segmen usaha atau prospek ke depan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "6a57a5815394",
-    "slug": "빚투공매도-양극단-베팅-대결장된-증시-364352",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T09:21:47.136Z",
-    "updatedAt": "2026-05-08T09:21:47.136Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12041388",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041388",
-    "titleFingerprint": "2a8ff5aeac5c3e7598ae880bb3a0a985f1532a99",
-    "dedupKeys": [
-      "6a57a58153949d859f95595eacd6fb43205b8f9d",
-      "2a8ff5aeac5c3e7598ae880bb3a0a985f1532a99",
-      "80e403c7f8921c6c2e1f1deb09869e4f942d7862"
-    ],
-    "imageUrl": "/images/articles/6a57a5815394.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500선 턱밑, 빚투·공매도 사상 최대 증시 대결",
-        "excerpt": "코스피가 7500선에 근접하며 사상 최고치 행진을 이어가자, 강세장에 올라타려는 빚투와 하락에 베팅하는 공매도 자금이 동시에 사상 최대 규모로 불어났다.",
-        "body": "코스피가 7500선 턱밑까지 치솟으며 사상 최고치 흐름을 이어가는 가운데, 증시 주변 자금이 매수와 매도 양방향에서 사상 최대 규모로 커지고 있다. 강세장에 올라타려는 투자자들의 ‘빚투’ 자금이 늘어나는 동시에, 주가 하락에 베팅하는 공매도도 확대되며 시장이 양극단 베팅의 대결장으로 변한 모습이다. 지수가 고점권에 머무는 상황에서 레버리지 매수와 공매도 확대가 함께 나타나면서 향후 증시 변동성에 대한 관심도 커지고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kospi Nears 7,500 as Margin Buying and Short Selling Hit Records",
-        "excerpt": "As the Kospi approaches 7,500 and extends its record-high run, funds around the stock market have swelled to record levels on both margin buying and short-selling sides.",
-        "body": "The Kospi has climbed to just below the 7,500 mark, continuing its run of record highs, while money surrounding the stock market is expanding to record levels in both buying and selling directions. Funds tied to leveraged margin buying by investors seeking to join the bull market are increasing, and short selling that bets on falling share prices is also growing. With the index staying near its highs, the simultaneous rise in leveraged buying and short selling is drawing attention to potential market volatility ahead. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI7500目前、信用買い・空売りが過去最大の対決局面",
-        "excerpt": "KOSPIが7500目前まで上昇し最高値更新を続けるなか、強気相場に乗る信用買いと下落に賭ける空売り資金が同時に過去最大規模へ膨らんでいる。",
-        "body": "KOSPIが7500目前まで急伸し、史上最高値の流れを続けるなか、株式市場周辺の資金は買いと売りの両方向で過去最大規模に拡大している。強気相場に乗ろうとする投資家の信用買い資金が増える一方、株価下落に賭ける空売りも拡大し、市場は両極端の投資判断がぶつかる場となっている。指数が高値圏にとどまる状況で、レバレッジを伴う買いと空売りの増加が同時に進み、今後の市場変動性への関心も高まっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI逼近7500点，融资买入与卖空资金双双创纪录",
-        "excerpt": "随着KOSPI逼近7500点并延续历史高位走势，追逐牛市的融资买入资金和押注下跌的卖空资金同时膨胀至历史最大规模。",
-        "body": "KOSPI已升至7500点关口下方，继续刷新历史高位走势，与此同时，股市周边资金在买入和卖出两个方向上都扩大至历史最大规模。希望搭上强势行情的投资者融资买入资金不断增加，押注股价下跌的卖空也同步扩大，使市场呈现出两种极端押注相互对峙的局面。在指数处于高位区间的背景下，杠杆买入和卖空同时增加，市场对后续波动性的关注也随之升温。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kospi roza 7.500 puntos: deuda para comprar y cortos baten récords",
-        "excerpt": "Mientras el Kospi se acerca a los 7.500 puntos y prolonga sus máximos históricos, el dinero destinado a compras apalancadas y ventas en corto crece a niveles récord.",
-        "body": "El Kospi ha subido hasta situarse justo por debajo de los 7.500 puntos y mantiene su racha de máximos históricos, mientras los fondos alrededor del mercado bursátil aumentan a niveles récord tanto por el lado comprador como por el vendedor. El dinero de inversores que usan deuda para sumarse al mercado alcista sigue creciendo, y también se expande la venta en corto que apuesta por caídas en los precios de las acciones. Con el índice cerca de máximos, el aumento simultáneo del apalancamiento comprador y de los cortos centra la atención en la posible volatilidad futura. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kospi perto de 7.500: compra alavancada e vendidos batem recordes",
-        "excerpt": "Com o Kospi próximo de 7.500 pontos e renovando máximas históricas, recursos para compras com dívida e apostas vendidas crescem simultaneamente a níveis recordes.",
-        "body": "O Kospi avançou para perto da marca de 7.500 pontos e segue em trajetória de máximas históricas, enquanto o dinheiro ao redor do mercado acionário cresce a níveis recordes tanto na ponta compradora quanto na vendedora. Recursos de investidores que usam dívida para participar do mercado em alta aumentam, ao mesmo tempo em que se expande a venda a descoberto que aposta na queda dos preços das ações. Com o índice em região elevada, a alta simultânea das compras alavancadas e dos vendidos amplia a atenção sobre a volatilidade futura da bolsa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kospi knapp unter 7.500: Kreditkäufe und Leerverkäufe auf Rekord",
-        "excerpt": "Während der Kospi nahe 7.500 Punkte steigt und neue Rekordstände markiert, wachsen Mittel für kreditfinanzierte Käufe und Leerverkäufe gleichzeitig auf Rekordniveau.",
-        "body": "Der Kospi ist bis knapp unter die Marke von 7.500 Punkten gestiegen und setzt seine Serie historischer Höchststände fort. Zugleich schwellen die Mittel rund um den Aktienmarkt sowohl auf der Kauf- als auch auf der Verkaufsseite auf Rekordniveau an. Gelder von Anlegern, die sich mit Kreditkäufen am Bullenmarkt beteiligen wollen, nehmen zu, während auch Leerverkäufe wachsen, die auf fallende Aktienkurse setzen. Da der Index in der Nähe seiner Hochs verharrt, rückt der gleichzeitige Anstieg von gehebelten Käufen und Short-Positionen die mögliche künftige Volatilität stärker in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kospi proche de 7 500: achats à crédit et ventes à découvert au record",
-        "excerpt": "Alors que le Kospi approche 7 500 points et prolonge ses records historiques, les fonds liés aux achats à crédit et aux ventes à découvert atteignent des niveaux inédits.",
-        "body": "Le Kospi a grimpé tout près du seuil des 7 500 points et poursuit sa progression à des sommets historiques, tandis que les capitaux autour du marché actions augmentent à des niveaux records dans les deux sens, achat comme vente. Les fonds des investisseurs qui recourent au crédit pour accompagner le marché haussier progressent, et les ventes à découvert misant sur une baisse des cours s’étendent également. Avec un indice maintenu en zone élevée, la hausse simultanée des achats à effet de levier et des positions vendeuses attire l’attention sur la volatilité possible à venir. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يقترب من 7500 نقطة والشراء بالهامش والبيع القصير عند ذرى قياسية",
-        "excerpt": "مع اقتراب مؤشر كوسبي من 7500 نقطة ومواصلته تسجيل قمم تاريخية، تضخمت أموال الشراء بالاقتراض والبيع على المكشوف في السوق إلى مستويات قياسية متزامنة.",
-        "body": "صعد مؤشر كوسبي إلى ما دون مستوى 7500 نقطة مباشرة، مواصلا مساره عند قمم تاريخية، في وقت تتسع فيه الأموال المحيطة بسوق الأسهم إلى أحجام قياسية في اتجاهي الشراء والبيع. فقد زادت أموال المستثمرين الساعين إلى ركوب موجة السوق الصاعدة عبر الشراء بالاقتراض، وفي الوقت نفسه توسع البيع على المكشوف الذي يراهن على انخفاض أسعار الأسهم. ومع بقاء المؤشر قرب مستوياته المرتفعة، يلفت الارتفاع المتزامن في الشراء ذي الرافعة والبيع القصير الانتباه إلى احتمال زيادة تقلبات السوق لاحقا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Kospi 7,500 के करीब, मार्जिन खरीद और शॉर्ट सेलिंग रिकॉर्ड स्तर पर",
-        "excerpt": "Kospi के 7,500 अंक के करीब पहुंचकर रिकॉर्ड ऊंचाई का सिलसिला जारी रखने के बीच, तेजी पर कर्ज से खरीद और गिरावट पर शॉर्ट सेलिंग दोनों रिकॉर्ड स्तर तक बढ़ गई हैं।",
-        "body": "Kospi 7,500 अंक के ठीक नीचे तक चढ़ गया है और ऐतिहासिक ऊंचाइयों का सिलसिला जारी है। इसी दौरान शेयर बाजार के आसपास की पूंजी खरीद और बिक्री, दोनों दिशाओं में रिकॉर्ड स्तर तक बढ़ रही है। तेजी वाले बाजार में शामिल होने की कोशिश कर रहे निवेशकों की कर्ज लेकर की जाने वाली खरीद, यानी मार्जिन खरीद, बढ़ी है। साथ ही शेयर कीमतों में गिरावट पर दांव लगाने वाली शॉर्ट सेलिंग भी फैल रही है। सूचकांक के ऊंचे स्तरों के पास बने रहने से लीवरेज वाली खरीद और शॉर्ट सेलिंग की एक साथ वृद्धि ने आगे बाजार की अस्थिरता पर ध्यान बढ़ा दिया है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kospi Dekati 7.500, Beli Pakai Utang dan Short Selling Cetak Rekor",
-        "excerpt": "Saat Kospi mendekati 7.500 dan melanjutkan rekor tertinggi, dana untuk beli saham memakai utang dan short selling sama-sama membengkak ke skala terbesar.",
-        "body": "Kospi telah melonjak hingga tepat di bawah level 7.500 dan terus bergerak di jalur rekor tertinggi, sementara dana di sekitar pasar saham membesar ke skala rekor dari sisi beli maupun jual. Dana investor yang ingin ikut dalam pasar bullish melalui pembelian dengan utang meningkat, dan short selling yang bertaruh pada penurunan harga saham juga meluas. Saat indeks bertahan di area tinggi, kenaikan bersamaan antara pembelian berleverage dan short selling membuat perhatian terhadap potensi volatilitas pasar ke depan ikut meningkat. Sumber: mk.co.kr"
       }
     }
   }
