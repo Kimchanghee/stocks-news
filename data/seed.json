@@ -1,5 +1,230 @@
 [
   {
+    "id": "dfde28159656",
+    "slug": "삼전닉스-per-역사적-저평가-성급히-매도하지-마세요-743054",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T10:02:14.539Z",
+    "updatedAt": "2026-05-08T10:02:14.539Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041315",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041315",
+    "titleFingerprint": "fb8d8178020bb855578acfc1b328c4ae08929ecd",
+    "dedupKeys": [
+      "dfde28159656f486654c68fb787d0fc112b04839",
+      "fb8d8178020bb855578acfc1b328c4ae08929ecd",
+      "c89e5216b20eabc4eec19b74ef79491c9b0c0077"
+    ],
+    "imageUrl": "/images/articles/dfde28159656.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 PER 역사적 저평가, 성급한 매도 경계",
+        "excerpt": "8일 서울 강남구 코엑스 ‘2026 서울머니쇼’에서 일타 PB들은 삼성전자와 SK하이닉스 주가 급등에도 이익을 함께 봐야 한다며 성급한 매도를 경계했다.",
+        "body": "8일 서울 강남구 코엑스에서 열린 ‘2026 서울머니쇼’에서 일타 프라이빗뱅커(PB)들은 삼성전자와 SK하이닉스 투자자들에게 주가 급등만 보고 ‘비싸다’고 판단해 성급히 매도하지 말라고 조언했다. 이들은 주가 수준을 볼 때 가격만이 아니라 기업 이익을 함께 살펴야 한다고 강조했다. 주가가 올랐더라도 이익이 함께 개선되면 주가수익비율(PER) 관점에서는 여전히 저평가로 볼 수 있다는 설명이다. 투자자 입장에서는 단기 상승폭보다 이익 흐름과 밸류에이션을 함께 점검하는 태도가 필요하다는 메시지다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix PER Seen Historically Low, PBs Warn Against Hasty Selling",
+        "excerpt": "At the 2026 Seoul Money Show at COEX in Gangnam, Seoul, on May 8, leading private bankers said investors should weigh earnings before selling Samsung Electronics and SK Hynix after sharp gains.",
+        "body": "At the 2026 Seoul Money Show held on May 8 at COEX in Gangnam-gu, Seoul, leading private bankers advised investors in Samsung Electronics and SK Hynix not to sell hastily simply because share prices have surged and appear “expensive.” They stressed that valuation should be assessed by looking at corporate earnings as well as price levels. Even after a stock price rise, if earnings improve at the same time, the shares may still be viewed as undervalued from a price-to-earnings ratio, or PER, perspective. For investors, the message was to examine profit trends and valuation together rather than focusing only on short-term gains. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子・SKハイニックスPERは歴史的低評価、拙速な売却に警戒",
+        "excerpt": "5月8日、ソウル江南区COEXで開かれた「2026ソウルマネーショー」で有力PBは、株価急騰後も利益を併せて見るべきだと述べた。",
+        "body": "5月8日、ソウル江南区COEXで開かれた「2026ソウルマネーショー」で、有力プライベートバンカー（PB）らは、サムスン電子とSKハイニックスの投資家に対し、株価が急騰したという理由だけで「高い」と判断し、拙速に売却しないよう助言した。PBらは、株価水準を見る際には価格だけでなく企業利益も併せて確認すべきだと強調した。株価が上昇しても利益が同時に改善していれば、株価収益率（PER）の観点ではなお低評価と見ることができるという説明だ。投資家には短期的な上昇幅より、利益の流れとバリュエーションを共に点検する姿勢が求められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子、SK海力士市盈率处历史低估，PB提醒勿仓促卖出",
+        "excerpt": "5月8日，在首尔江南区COEX举行的“2026首尔Money Show”上，知名私人银行家提醒投资者，股价上涨后仍应结合盈利判断。",
+        "body": "5月8日，在首尔江南区COEX举行的“2026首尔Money Show”上，知名私人银行家（PB）建议三星电子和SK海力士投资者，不要只因股价大幅上涨、看起来“昂贵”就仓促卖出。他们强调，判断股价水平时不仅要看价格，也要同时观察企业盈利。即使股价已经上涨，如果盈利同步改善，从市盈率（PER）角度看，相关股票仍可能处于低估状态。对投资者而言，这一信息意味着不应只关注短期涨幅，而应同时检查盈利趋势和估值水平。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix cotizan con PER históricamente bajo: no vender con prisa",
+        "excerpt": "El 8 de mayo, en el Seoul Money Show 2026 en COEX, Gangnam, banqueros privados dijeron que los inversores deben mirar también las ganancias antes de vender tras las subidas.",
+        "body": "El 8 de mayo, en el “Seoul Money Show 2026” celebrado en COEX, en Gangnam-gu, Seúl, destacados banqueros privados aconsejaron a los inversores de Samsung Electronics y SK Hynix no vender con prisa solo porque las acciones hayan subido con fuerza y parezcan “caras”. Subrayaron que, al evaluar el nivel de una acción, no basta con mirar el precio: también hay que considerar las ganancias de la empresa. Aunque la cotización haya avanzado, si los beneficios mejoran al mismo tiempo, las acciones pueden seguir viéndose infravaloradas desde la perspectiva del PER. Para los inversores, el mensaje es revisar tanto la evolución de las ganancias como la valoración, más allá del alza de corto plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix têm PER historicamente baixo, alertam PBs contra venda apressada",
+        "excerpt": "Em 8 de maio, no Seoul Money Show 2026 no COEX, em Gangnam, private bankers disseram que investidores devem avaliar lucros antes de vender após a alta das ações.",
+        "body": "Em 8 de maio, no “Seoul Money Show 2026”, realizado no COEX, em Gangnam-gu, Seul, private bankers de destaque aconselharam investidores de Samsung Electronics e SK Hynix a não venderem apressadamente apenas porque as ações subiram forte e parecem “caras”. Eles enfatizaram que, ao avaliar o nível de uma ação, é preciso observar não só o preço, mas também os lucros da empresa. Mesmo após a alta das cotações, se os lucros melhorarem ao mesmo tempo, os papéis ainda podem ser considerados subavaliados pela ótica do preço sobre lucro, ou PER. Para investidores, a mensagem é acompanhar fluxo de lucros e valuation em conjunto, em vez de focar apenas no ganho de curto prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix mit historisch niedrigem KGV: PBs warnen vor schnellem Verkauf",
+        "excerpt": "Am 8. Mai rieten führende Private Banker auf der Seoul Money Show 2026 im COEX in Gangnam Anlegern, nach Kursanstiegen auch die Gewinne zu prüfen.",
+        "body": "Auf der “Seoul Money Show 2026”, die am 8. Mai im COEX in Gangnam-gu, Seoul, stattfand, rieten führende Private Banker Anlegern von Samsung Electronics und SK Hynix, nicht vorschnell zu verkaufen, nur weil die Aktien stark gestiegen sind und “teuer” wirken. Sie betonten, dass bei der Bewertung eines Aktienniveaus nicht nur der Kurs, sondern auch die Unternehmensgewinne berücksichtigt werden müssen. Selbst wenn der Aktienkurs gestiegen ist, können die Titel aus Sicht des Kurs-Gewinn-Verhältnisses, also PER, weiterhin unterbewertet erscheinen, sofern sich die Gewinne zugleich verbessern. Für Anleger lautet die Botschaft, Gewinntrend und Bewertung gemeinsam zu prüfen, statt nur auf kurzfristige Kursgewinne zu schauen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix affichent un PER historiquement bas, les PB appellent à ne pas vendre trop vite",
+        "excerpt": "Le 8 mai, au Seoul Money Show 2026 au COEX de Gangnam, des banquiers privés ont conseillé d’examiner les bénéfices avant de vendre après la forte hausse des titres.",
+        "body": "Le 8 mai, lors du “Seoul Money Show 2026” organisé au COEX, à Gangnam-gu, Séoul, des banquiers privés de premier plan ont conseillé aux investisseurs de Samsung Electronics et SK Hynix de ne pas vendre à la hâte au seul motif que les cours ont fortement monté et semblent “chers”. Ils ont souligné que l’évaluation d’un niveau de cours doit tenir compte non seulement du prix, mais aussi des bénéfices des entreprises. Même après une hausse de l’action, si les bénéfices progressent en parallèle, les titres peuvent encore être considérés comme sous-évalués du point de vue du ratio cours/bénéfice, ou PER. Pour les investisseurs, le message est de vérifier à la fois la tendance des profits et la valorisation, plutôt que de se concentrer sur le gain de court terme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سامسونغ إلكترونيكس وSK هاينكس عند مضاعف ربحية منخفض تاريخيا وتحذير من البيع المتسرع",
+        "excerpt": "في 8 مايو، خلال معرض سيول للمال 2026 في كويكس بمنطقة غانغنام، قال مصرفيون خاصون إن على المستثمرين النظر إلى الأرباح قبل البيع بعد صعود الأسهم.",
+        "body": "في 8 مايو، خلال “معرض سيول للمال 2026” الذي عقد في كويكس بمنطقة غانغنام في سيول، نصح مصرفيون خاصون بارزون مستثمري سامسونغ إلكترونيكس وSK هاينكس بعدم البيع على عجل لمجرد أن أسعار الأسهم ارتفعت بقوة وتبدو “مرتفعة”. وشددوا على أن تقييم مستوى السهم يجب ألا يعتمد على السعر وحده، بل يجب النظر أيضا إلى أرباح الشركات. فحتى إذا ارتفع سعر السهم، فإن تحسن الأرباح في الوقت نفسه قد يعني أن السهم لا يزال مقوما بأقل من قيمته من منظور مضاعف السعر إلى الربحية، أو PER. والرسالة للمستثمرين هي فحص مسار الأرباح والتقييم معا بدلا من التركيز فقط على مكاسب قصيرة الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix का PER ऐतिहासिक रूप से कम, जल्दबाजी में बिक्री से सावधान",
+        "excerpt": "8 मई को सियोल के गंगनम स्थित COEX में 2026 Seoul Money Show में प्रमुख PBs ने कहा कि तेज बढ़त के बाद भी निवेशकों को कमाई देखकर ही बिक्री करनी चाहिए।",
+        "body": "8 मई को सियोल के गंगनम-गु स्थित COEX में आयोजित “2026 Seoul Money Show” में प्रमुख प्राइवेट बैंकरों (PBs) ने Samsung Electronics और SK Hynix के निवेशकों को सलाह दी कि शेयरों में तेज उछाल आने और वे “महंगे” दिखने भर से जल्दबाजी में बिक्री न करें। उन्होंने कहा कि शेयर मूल्यांकन करते समय केवल कीमत नहीं, बल्कि कंपनी की कमाई भी देखनी चाहिए। यदि शेयर मूल्य बढ़ा है, लेकिन उसी समय मुनाफा भी सुधरा है, तो मूल्य-से-आय अनुपात यानी PER के आधार पर शेयर अब भी कम मूल्यांकित माने जा सकते हैं। निवेशकों के लिए संदेश यह है कि अल्पकालिक बढ़त के बजाय कमाई के रुझान और वैल्यूएशन को साथ देखकर निर्णय लें। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung Electronics dan SK Hynix Punya PER Rendah Historis, PB Ingatkan Jangan Cepat Menjual",
+        "excerpt": "Pada 8 Mei di Seoul Money Show 2026, COEX, Gangnam, para private banker mengatakan investor perlu melihat laba sebelum menjual Samsung Electronics dan SK Hynix setelah reli.",
+        "body": "Pada 8 Mei, dalam “Seoul Money Show 2026” yang digelar di COEX, Gangnam-gu, Seoul, para private banker (PB) terkemuka menyarankan investor Samsung Electronics dan SK Hynix agar tidak terburu-buru menjual hanya karena harga saham melonjak dan terlihat “mahal”. Mereka menekankan bahwa penilaian harga saham tidak cukup melihat harga saja, tetapi juga harus mempertimbangkan laba perusahaan. Meski harga saham sudah naik, jika laba membaik pada saat yang sama, saham tersebut masih dapat dinilai undervalued dari sudut pandang price-to-earnings ratio, atau PER. Bagi investor, pesannya adalah memeriksa tren laba dan valuasi secara bersamaan, bukan hanya fokus pada kenaikan jangka pendek. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "36f964a1565a",
+    "slug": "노후-준비의-시작과-끝은-연금-은퇴-이후-재테크-꿀팁-128583",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T10:01:12.658Z",
+    "updatedAt": "2026-05-08T10:01:12.658Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041341",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041341",
+    "titleFingerprint": "833a76427fd99e39de2ef356fb4ee81a1fb71b1a",
+    "dedupKeys": [
+      "36f964a1565a08186673a689135d21134bc49125",
+      "833a76427fd99e39de2ef356fb4ee81a1fb71b1a",
+      "c68463f8c2b91c7699b7483b9148e47ec7073270"
+    ],
+    "imageUrl": "/images/articles/36f964a1565a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "연금 중심 노후 준비, 2026 서울머니쇼 전문가들이 강조한 은퇴 재테크",
+        "excerpt": "2026 서울머니쇼에 나선 재테크 전문가들은 8일 은퇴 이후 안정적인 현금흐름을 위해 노후 준비의 시작과 끝이 연금이라는 점을 강조했다.",
+        "body": "8일 ‘2026 서울머니쇼’에서 재테크 전문가들은 은퇴 이후 재테크의 핵심으로 연금을 꼽았다. 이영주 연금박사상담센터 대표는 행사 연사로 나서 노후 준비의 시작과 끝은 연금이라는 메시지를 전했다. 원문은 ‘걱정 없는 노후 평생 월급’이라는 관점에서 은퇴 후 안정적인 생활비 마련의 중요성을 다뤘다. 고령화와 은퇴 이후 소득 공백이 개인 재무의 주요 과제가 되는 가운데, 전문가들은 연금이 장기적인 현금흐름을 만드는 기본 축이라고 설명했다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Pension-Led Retirement Planning Highlighted by Experts at 2026 Seoul Money Show",
+        "excerpt": "At the 2026 Seoul Money Show on May 8, personal finance experts stressed that pensions are central to preparing reliable cash flow after retirement.",
+        "body": "On May 8, personal finance experts speaking at the 2026 Seoul Money Show identified pensions as the core of post-retirement money management. Lee Young-joo, head of the Pension Doctor Counseling Center, appeared as a speaker and delivered the message that retirement preparation begins and ends with pensions. The original report framed the issue around securing a lifelong paycheck for a worry-free retirement. As income gaps after retirement become a key personal finance challenge, experts said pensions form the basic pillar for long-term cash flow. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "年金中心の老後準備、2026ソウルマネーショー専門家が強調",
+        "excerpt": "2026ソウルマネーショーに登壇した資産運用専門家らは8日、退職後の安定した資金確保には年金が老後準備の中心になると強調した。",
+        "body": "8日、「2026ソウルマネーショー」で資産運用の専門家らは、退職後の資産管理の核心として年金を挙げた。イ・ヨンジュ年金博士相談センター代表は講演者として登壇し、老後準備の始まりと終わりは年金だというメッセージを伝えた。原文は「心配のない老後の生涯月給」という観点から、退職後の安定した生活費確保の重要性を扱った。退職後の所得空白が個人財務の主要課題となる中、専門家らは年金が長期的なキャッシュフローを作る基本軸だと説明した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "养老金主导养老准备，2026首尔理财展专家强调退休理财核心",
+        "excerpt": "在2026首尔理财展上，理财专家8日强调，为退休后建立稳定现金流，养老准备的起点和终点都应是养老金。",
+        "body": "8日，在“2026首尔理财展”上，理财专家将养老金列为退休后理财的核心。养老金博士咨询中心代表李英珠作为演讲嘉宾表示，养老准备的开始和结束都是养老金。原文从“无忧养老的终身月薪”这一角度，讨论了退休后确保稳定生活费的重要性。随着退休后的收入空白成为个人财务的重要课题，专家说明，养老金是形成长期现金流的基本支柱。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Pensiones al centro del retiro: expertos del Seoul Money Show 2026 explican la clave",
+        "excerpt": "En el Seoul Money Show 2026, expertos en finanzas personales señalaron el 8 de mayo que la pensión es esencial para sostener ingresos estables tras la jubilación.",
+        "body": "El 8 de mayo, expertos en finanzas personales que participaron en el Seoul Money Show 2026 señalaron que las pensiones son el eje de la gestión del dinero tras la jubilación. Lee Young-joo, directora del Centro de Asesoría Pension Doctor, intervino como ponente y transmitió que la preparación para la vejez empieza y termina con la pensión. El informe original abordó la importancia de asegurar gastos de vida estables después del retiro desde la idea de un sueldo vitalicio sin preocupaciones. Ante la brecha de ingresos tras jubilarse, los expertos explicaron que la pensión es la base del flujo de caja a largo plazo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pensões no centro da aposentadoria: especialistas destacam estratégia no Seoul Money Show 2026",
+        "excerpt": "No Seoul Money Show 2026, especialistas em finanças pessoais afirmaram em 8 de maio que a pensão é essencial para garantir fluxo de caixa estável após a aposentadoria.",
+        "body": "Em 8 de maio, especialistas em finanças pessoais no Seoul Money Show 2026 apontaram as pensões como o núcleo da gestão financeira após a aposentadoria. Lee Young-joo, representante do Centro de Aconselhamento Pension Doctor, participou como palestrante e afirmou que a preparação para a velhice começa e termina com a pensão. A reportagem original tratou da importância de garantir despesas de vida estáveis depois da aposentadoria sob a ideia de um salário vitalício sem preocupações. Com a lacuna de renda no pós-aposentadoria como desafio financeiro, especialistas disseram que a pensão é o pilar do fluxo de caixa de longo prazo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Rente als Kern der Altersvorsorge: Experten beim Seoul Money Show 2026 betonen Strategie",
+        "excerpt": "Beim Seoul Money Show 2026 erklärten Finanzexperten am 8. Mai, dass Renten für einen stabilen Geldfluss nach dem Ruhestand zentral sind.",
+        "body": "Am 8. Mai nannten Finanzexperten beim Seoul Money Show 2026 die Rente als Kern der Geldanlage nach dem Ruhestand. Lee Young-joo, Leiterin des Pension Doctor Counseling Center, trat als Rednerin auf und vermittelte die Botschaft, dass Altersvorsorge mit der Rente beginnt und endet. Der Originalbericht behandelte die Bedeutung stabiler Lebenshaltungskosten nach dem Ruhestand aus der Perspektive eines lebenslangen Gehalts ohne Sorgen. Da Einkommenslücken nach dem Berufsleben zu einer wichtigen privaten Finanzfrage werden, erklärten Experten, Renten seien die Grundlage für langfristigen Cashflow. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La pension au cœur de la retraite: les experts du Seoul Money Show 2026 insistent",
+        "excerpt": "Au Seoul Money Show 2026, des experts en finances personnelles ont souligné le 8 mai que la pension est essentielle pour assurer des revenus stables après la retraite.",
+        "body": "Le 8 mai, lors du Seoul Money Show 2026, des experts en finances personnelles ont désigné la pension comme l’élément central de la gestion financière après la retraite. Lee Young-joo, représentante du Pension Doctor Counseling Center, est intervenue comme conférencière et a affirmé que la préparation de la vieillesse commence et se termine avec la pension. L’article original a traité l’importance de garantir des dépenses de vie stables après le départ à la retraite, sous l’angle d’un salaire à vie sans inquiétude. Face au vide de revenus après la retraite, les experts ont expliqué que la pension constitue le pilier du cash-flow à long terme. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "المعاشات محور الاستعداد للتقاعد كما أكد خبراء معرض سيول للمال 2026",
+        "excerpt": "في معرض سيول للمال 2026، شدد خبراء التخطيط المالي في 8 مايو على أن المعاشات عنصر أساسي لتأمين تدفق نقدي مستقر بعد التقاعد.",
+        "body": "في 8 مايو، اعتبر خبراء التخطيط المالي المشاركون في معرض سيول للمال 2026 أن المعاشات هي جوهر إدارة الأموال بعد التقاعد. وشاركت لي يونغ جو، ممثلة مركز استشارات Pension Doctor، كمتحدثة وقدمت رسالة مفادها أن الاستعداد لمرحلة الشيخوخة يبدأ وينتهي بالمعاش. وتناول التقرير الأصلي أهمية تأمين نفقات معيشية مستقرة بعد التقاعد من زاوية راتب مدى الحياة بلا قلق. ومع تحول فجوة الدخل بعد التقاعد إلى تحد مالي شخصي رئيسي، أوضح الخبراء أن المعاش يشكل الركيزة الأساسية للتدفق النقدي طويل الأجل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "पेंशन से शुरू और खत्म होती है रिटायरमेंट तैयारी, 2026 Seoul Money Show में जोर",
+        "excerpt": "2026 Seoul Money Show में 8 मई को वित्त विशेषज्ञों ने कहा कि रिटायरमेंट के बाद स्थिर नकदी प्रवाह के लिए पेंशन ही वृद्धावस्था तैयारी का केंद्र है।",
+        "body": "8 मई को 2026 Seoul Money Show में वित्त विशेषज्ञों ने रिटायरमेंट के बाद धन प्रबंधन की मुख्य धुरी के रूप में पेंशन को रेखांकित किया। Pension Doctor Counseling Center के प्रतिनिधि Lee Young-joo ने वक्ता के रूप में कहा कि वृद्धावस्था की तैयारी की शुरुआत और अंत पेंशन से होता है। मूल रिपोर्ट ने चिंता-मुक्त वृद्धावस्था के आजीवन वेतन के दृष्टिकोण से रिटायरमेंट के बाद स्थिर जीवन-खर्च जुटाने के महत्व को बताया। रिटायरमेंट के बाद आय का अंतर व्यक्तिगत वित्त की प्रमुख चुनौती बन रहा है, ऐसे में विशेषज्ञों ने कहा कि पेंशन दीर्घकालिक नकदी प्रवाह की बुनियादी धुरी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pensiun Jadi Kunci Persiapan Hari Tua, Pakar Seoul Money Show 2026 Menekankan",
+        "excerpt": "Di Seoul Money Show 2026 pada 8 Mei, para pakar keuangan menekankan bahwa pensiun menjadi inti untuk menjaga arus kas stabil setelah masa kerja berakhir.",
+        "body": "Pada 8 Mei, para pakar keuangan yang tampil di Seoul Money Show 2026 menyebut pensiun sebagai inti pengelolaan dana setelah masa kerja berakhir. Lee Young-joo, perwakilan Pension Doctor Counseling Center, hadir sebagai pembicara dan menyampaikan bahwa persiapan hari tua dimulai dan diakhiri dengan pensiun. Laporan asli membahas pentingnya menyiapkan biaya hidup yang stabil setelah pensiun dari sudut pandang gaji seumur hidup tanpa kekhawatiran. Ketika kekosongan pendapatan pascapensiun menjadi tantangan keuangan pribadi, para pakar menjelaskan bahwa pensiun adalah pilar dasar arus kas jangka panjang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "12a6fe76ed7f",
+    "slug": "쿠팡-2대-주주도-탈팡-8천억원-어치-지분-매도-922203",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-08T10:00:15.967Z",
+    "updatedAt": "2026-05-08T10:00:15.967Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12041383",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12041383",
+    "titleFingerprint": "0271e26f4df8d7a4ba985928bfd29c7f36b7af53",
+    "dedupKeys": [
+      "12a6fe76ed7f09c305d3750c9041a72890eb3c3d",
+      "0271e26f4df8d7a4ba985928bfd29c7f36b7af53",
+      "458f2f0948c058d734ba4b6e49cadeab9942ceb4"
+    ],
+    "imageUrl": "/images/articles/12a6fe76ed7f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "쿠팡 2대 주주 베일리기퍼드, 8천억원어치 지분 매도 드러나",
+        "excerpt": "쿠팡 2대 주주인 영국 자산운용사 베일리기퍼드가 최근 쿠팡 주식을 대거 매도한 사실이 8일 미국 SEC 자료를 통해 확인됐다.",
+        "body": "쿠팡의 2대 주주인 영국 자산운용사 베일리기퍼드가 최근 쿠팡 주식을 대거 매도한 것으로 드러났다. 8일 미국 증권거래위원회(SEC)에 따르면 지난 3월 말 기준 베일리기퍼드의 쿠팡 지분 변동이 확인됐다. 매도 규모는 약 8천억원어치로 전해졌다. 베일리기퍼드는 쿠팡의 주요 주주로 분류돼 온 만큼 이번 지분 매각은 시장의 관심을 끌 수 있는 사안이다. 다만 원문에 매각 배경이나 추가 거래 계획은 제시되지 않았다. 향후 투자자들은 주요 주주의 보유 지분 변화와 쿠팡 주가 흐름을 함께 살필 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Coupang’s No. 2 Shareholder Baillie Gifford Sells Stake Worth 800 Billion Won",
+        "excerpt": "Baillie Gifford, the UK asset manager and Coupang’s second-largest shareholder, recently sold a large block of Coupang shares, SEC data showed on May 8.",
+        "body": "Baillie Gifford, the UK asset manager known as Coupang’s second-largest shareholder, recently sold a large amount of Coupang stock. According to the U.S. Securities and Exchange Commission on May 8, changes in Baillie Gifford’s Coupang holdings were confirmed as of the end of March. The sale was reported to be worth about 800 billion won. As Baillie Gifford has been classified as a major Coupang shareholder, the stake sale may draw market attention. The original report did not provide the reason for the sale or any further trading plan. Investors are likely to watch changes in major shareholder holdings alongside Coupang’s share price trend. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クーパン第2株主ベイリー・ギフォード、約8000億ウォン分の株式売却",
+        "excerpt": "クーパンの第2株主である英資産運用会社ベイリー・ギフォードが最近、大量のクーパン株を売却したことが5月8日にSEC資料で確認された。",
+        "body": "クーパンの第2株主である英資産運用会社ベイリー・ギフォードが最近、クーパン株を大量に売却したことが明らかになった。5月8日、米証券取引委員会（SEC）によると、3月末時点でベイリー・ギフォードのクーパン保有株式の変動が確認された。売却規模は約8000億ウォン相当と伝えられている。同社はクーパンの主要株主とされてきたため、今回の株式売却は市場の関心を集める可能性がある。ただし、原文では売却の背景や追加取引計画は示されていない。投資家は今後、主要株主の保有比率の変化とクーパン株価の動きを併せて注視するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Coupang第二大股东Baillie Gifford出售约8000亿韩元股份",
+        "excerpt": "Coupang第二大股东、英国资产管理公司Baillie Gifford近期大举出售Coupang股票，5月8日由美国SEC资料确认。",
+        "body": "Coupang第二大股东、英国资产管理公司Baillie Gifford近期大举出售Coupang股票。根据美国证券交易委员会（SEC）5月8日的信息，截至3月底，Baillie Gifford所持Coupang股份出现变动。报道称，出售规模约为8000亿韩元。由于Baillie Gifford一直被归类为Coupang的主要股东，此次减持可能引发市场关注。不过，原文未说明出售背景或后续交易计划。投资者预计将继续关注主要股东持股变化以及Coupang股价走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Baillie Gifford, segundo accionista de Coupang, vende 800.000 millones de wones",
+        "excerpt": "Baillie Gifford, gestora británica y segundo mayor accionista de Coupang, vendió recientemente una gran cantidad de acciones, según datos de la SEC del 8 de mayo.",
+        "body": "Baillie Gifford, gestora de activos británica y segundo mayor accionista de Coupang, vendió recientemente una gran cantidad de acciones de la compañía. Según la Comisión de Bolsa y Valores de Estados Unidos (SEC) el 8 de mayo, al cierre de marzo se confirmó un cambio en la participación de Baillie Gifford en Coupang. El monto de la venta se informó en unos 800.000 millones de wones. Dado que Baillie Gifford ha sido considerada un accionista relevante de Coupang, la operación puede atraer la atención del mercado. El reporte original no detalló el motivo de la venta ni planes de transacciones adicionales. Los inversores observarán los cambios en las tenencias de los principales accionistas y la evolución de la acción de Coupang. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Baillie Gifford, 2ª maior acionista da Coupang, vende 800 bilhões de wones",
+        "excerpt": "A gestora britânica Baillie Gifford, segunda maior acionista da Coupang, vendeu recentemente um grande lote de ações, segundo dados da SEC em 8 de maio.",
+        "body": "A Baillie Gifford, gestora de ativos britânica e segunda maior acionista da Coupang, vendeu recentemente uma grande quantidade de ações da empresa. Segundo a Comissão de Valores Mobiliários dos Estados Unidos (SEC) em 8 de maio, foi confirmada uma mudança na participação da Baillie Gifford na Coupang no fim de março. O valor da venda foi informado em cerca de 800 bilhões de wones. Como a Baillie Gifford vinha sendo classificada como acionista importante da Coupang, a alienação pode chamar a atenção do mercado. A reportagem original não apresentou o motivo da venda nem planos de novas transações. Investidores devem acompanhar as mudanças nas participações dos principais acionistas e o movimento das ações da Coupang. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Coupangs zweitgrößter Aktionär Baillie Gifford verkauft Anteile für 800 Mrd. Won",
+        "excerpt": "Der britische Vermögensverwalter Baillie Gifford, zweitgrößter Aktionär von Coupang, hat laut SEC-Daten vom 8. Mai zuletzt umfangreich Coupang-Aktien verkauft.",
+        "body": "Baillie Gifford, der britische Vermögensverwalter und zweitgrößte Aktionär von Coupang, hat zuletzt in großem Umfang Coupang-Aktien verkauft. Nach Angaben der US-Börsenaufsicht SEC vom 8. Mai wurde zum Stand Ende März eine Veränderung der Coupang-Beteiligung von Baillie Gifford festgestellt. Der Verkaufswert wurde mit rund 800 Milliarden Won angegeben. Da Baillie Gifford bislang als wichtiger Coupang-Aktionär galt, dürfte die Anteilsveräußerung am Markt Beachtung finden. Der Originalbericht nannte weder den Hintergrund des Verkaufs noch weitere Transaktionspläne. Anleger dürften nun die Veränderungen bei Großaktionären und die Entwicklung der Coupang-Aktie gemeinsam verfolgen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Baillie Gifford, 2e actionnaire de Coupang, vend pour 800 milliards de wons",
+        "excerpt": "Baillie Gifford, gestionnaire d’actifs britannique et deuxième actionnaire de Coupang, a récemment vendu un important bloc d’actions, selon la SEC le 8 mai.",
+        "body": "Baillie Gifford, gestionnaire d’actifs britannique et deuxième actionnaire de Coupang, a récemment vendu une grande quantité d’actions Coupang. Selon la Securities and Exchange Commission américaine (SEC) le 8 mai, une modification de la participation de Baillie Gifford dans Coupang a été confirmée à fin mars. Le montant de la vente serait d’environ 800 milliards de wons. Baillie Gifford étant considéré comme un actionnaire majeur de Coupang, cette cession pourrait attirer l’attention du marché. Le rapport original ne précise pas le motif de la vente ni d’éventuels plans de transactions supplémentaires. Les investisseurs devraient suivre l’évolution des participations des grands actionnaires ainsi que le cours de Coupang. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بيلي غيفورد، ثاني أكبر مساهم في كوبانغ، يبيع حصة بقيمة 800 مليار وون",
+        "excerpt": "أظهرت بيانات هيئة الأوراق المالية الأميركية في 8 مايو أن بيلي غيفورد، مدير الأصول البريطاني وثاني أكبر مساهم في كوبانغ، باع كمية كبيرة من أسهم الشركة مؤخرا.",
+        "body": "كشفت بيانات حديثة أن بيلي غيفورد، شركة إدارة الأصول البريطانية وثاني أكبر مساهم في كوبانغ، باع مؤخرا كمية كبيرة من أسهم كوبانغ. ووفقا لهيئة الأوراق المالية والبورصات الأميركية في 8 مايو، تأكد حدوث تغير في حصة بيلي غيفورد في كوبانغ حتى نهاية مارس. وذكرت التقارير أن حجم البيع بلغ نحو 800 مليار وون. وبما أن بيلي غيفورد كان مصنفا ضمن المساهمين الرئيسيين في كوبانغ، فقد تجذب هذه الصفقة اهتمام السوق. ولم يورد التقرير الأصلي خلفية البيع أو أي خطط لتعاملات إضافية. ومن المتوقع أن يراقب المستثمرون تغيرات حصص كبار المساهمين إلى جانب حركة سهم كوبانغ. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Coupang के दूसरे सबसे बड़े शेयरधारक Baillie Gifford ने 800 अरब वॉन की हिस्सेदारी बेची",
+        "excerpt": "Coupang के दूसरे सबसे बड़े शेयरधारक और ब्रिटिश एसेट मैनेजर Baillie Gifford ने हाल में बड़ी मात्रा में Coupang शेयर बेचे, यह 8 मई को SEC डेटा से सामने आया।",
+        "body": "Coupang के दूसरे सबसे बड़े शेयरधारक ब्रिटिश एसेट मैनेजर Baillie Gifford ने हाल में Coupang के शेयरों की बड़ी बिक्री की है। 8 मई को अमेरिकी Securities and Exchange Commission (SEC) के अनुसार, मार्च के अंत तक Baillie Gifford की Coupang हिस्सेदारी में बदलाव की पुष्टि हुई। बिक्री का आकार करीब 800 अरब वॉन बताया गया। Baillie Gifford को Coupang के प्रमुख शेयरधारकों में गिना जाता रहा है, इसलिए यह हिस्सेदारी बिक्री बाजार का ध्यान खींच सकती है। मूल रिपोर्ट में बिक्री का कारण या आगे के लेनदेन की योजना नहीं दी गई। निवेशक आगे प्रमुख शेयरधारकों की होल्डिंग में बदलाव और Coupang के शेयर मूल्य की चाल पर नजर रख सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Baillie Gifford, Pemegang Saham No. 2 Coupang, Jual Saham 800 Miliar Won",
+        "excerpt": "Baillie Gifford, manajer aset Inggris dan pemegang saham terbesar kedua Coupang, baru-baru ini menjual saham Coupang dalam jumlah besar, menurut data SEC pada 8 Mei.",
+        "body": "Baillie Gifford, manajer aset asal Inggris dan pemegang saham terbesar kedua Coupang, diketahui baru-baru ini menjual saham Coupang dalam jumlah besar. Menurut Komisi Sekuritas dan Bursa Amerika Serikat (SEC) pada 8 Mei, perubahan kepemilikan Baillie Gifford di Coupang terkonfirmasi per akhir Maret. Nilai penjualan dilaporkan sekitar 800 miliar won. Karena Baillie Gifford selama ini dikategorikan sebagai pemegang saham utama Coupang, penjualan saham ini dapat menarik perhatian pasar. Laporan asli tidak menyebutkan alasan penjualan atau rencana transaksi lanjutan. Investor kemungkinan akan memantau perubahan kepemilikan pemegang saham utama bersama pergerakan harga saham Coupang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "60b6a0bc4b50",
     "slug": "로봇-완성도-높아졌네-관련株-일제히-급등세-941801",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Saham Taiwan Cetak Imbal Hasil 415% dalam 10 Tahun Sebelum Reli Kospi",
         "excerpt": "Saat Kospi menembus 7.500 intraday pada tanggal 7, pasar Taiwan yang kuat di rantai pasok hardware AI mencatat imbal hasil 10 tahun sebesar 415%.",
         "body": "Saat Kospi menembus level 7.500 pada perdagangan intraday tanggal 7 dan mencatat kenaikan tajam belakangan ini, imbal hasil 10 tahun menunjukkan bursa Taiwan jauh mengungguli Korea. Menurut teks asli, saham Taiwan mencatat imbal hasil 415% dalam 10 tahun. Taiwan, yang kuat dalam rantai pasok hardware AI, memulai reli lebih dulu dengan TSMC sebagai pemimpin. Jepang juga berada di depan Korea dengan imbal hasil 10 tahun sebesar 290%. Kenaikan saham Jepang dikaitkan dengan kebijakan value-up yang lebih dini. Perbandingan ini menunjukkan bahwa bahkan saat Kospi melonjak, perbedaan kinerja jangka panjang antar pasar global tetap terlihat jelas. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "5c109d22c059",
-    "slug": "자녀에게-시간의-마법-가르치는-5월투자-경험을-선물하자-139705",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T20:52:46.016Z",
-    "updatedAt": "2026-05-07T20:52:46.016Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707761",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707761",
-    "titleFingerprint": "beecf758c0c0c52ce2501c674a8e9c3847c89388",
-    "dedupKeys": [
-      "5c109d22c059c151db29bf0538ce33544a3ce698",
-      "beecf758c0c0c52ce2501c674a8e9c3847c89388",
-      "ef5e5b6957a6bc4fbb8f9b18204f765405169574"
-    ],
-    "imageUrl": "/images/articles/5c109d22c059.jpg",
-    "i18n": {
-      "ko": {
-        "title": "자녀 투자 경험, 5월에 가르치는 복리와 ‘시간의 마법’",
-        "excerpt": "한국경제는 2026년 5월 7일 어린이에게 장기 투자와 복리의 의미를 알려주는 ‘투자 경험’이 자산 형성 습관에 도움이 된다고 전했다.",
-        "body": "2026년 5월 7일 한국경제는 5월을 맞아 자녀에게 단순한 선물보다 ‘투자 경험’을 선물하자는 제안을 전했다. 핵심은 아이들이 가장 많이 가진 자산인 시간을 활용해 복리의 원리를 체감하게 하는 것이다. 기사에 따르면 1달러가 장기간 투자되면 크게 불어날 수 있다는 셸비 데이비스 가문의 사례는 ‘시간이 돈을 키운다’는 교훈을 보여준다. 최근에는 미성년자도 가입할 수 있는 ‘주니어 ISA’ 도입 법안이 발의됐다. 성인용 절세 투자계좌인 ISA를 미성년에게 열고 세 부담을 덜어 자산 형성을 돕자는 취지다. 영국은 2011년 주니어 ISA를 도입했다. 한국경제는 자녀 명의 계좌 경험이 저축·투자 습관 형성에 영향을 줄 수 있다고 보도했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Children’s Investment Experience: Teaching Compound Growth in May",
-        "excerpt": "Hankyung reported on May 7, 2026, that giving children investment experience can help them understand long-term compounding and build asset-forming habits.",
-        "body": "On May 7, 2026, Hankyung reported a May-focused proposal: instead of giving children only ordinary gifts, parents can give them an “investment experience.” The point is to help children use their greatest asset, time, to understand compounding. The article cited the Davis family story in which Shelby Davis explained that a dollar invested wisely could grow greatly over decades, showing that time can expand money. A bill has also been proposed to introduce a “Junior ISA” for minors. It would open the tax-advantaged ISA, now limited to adults, to children and reduce tax burdens to support asset formation. The U.K. introduced Junior ISA in 2011. Hankyung reported that having an account in a child’s own name may influence saving and investing habits. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "子どもの投資体験、5月に教える複利と「時間の魔法」",
-        "excerpt": "韓国経済は2026年5月7日、子どもに長期投資と複利の意味を伝える投資体験が資産形成の習慣づくりに役立つと報じた。",
-        "body": "韓国経済は2026年5月7日、5月を迎え、子どもに単なる贈り物ではなく「投資体験」を贈るという提案を伝えた。要点は、子どもが最も多く持つ資産である時間を使い、複利の原理を実感させることにある。記事は、1ドルを長く賢く投資すれば大きく増え得るというシェルビー・デービス家の話を紹介し、時間がお金を育てるという教訓を示した。最近は未成年者が加入できる「ジュニアISA」導入法案も発議された。成人向けの非課税投資口座ISAを未成年にも開き、税負担を軽くして資産形成を助ける趣旨だ。英国は2011年にジュニアISAを導入した。韓国経済は、子ども名義の口座経験が貯蓄・投資習慣に影響し得ると報じた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "儿童投资体验：五月教会复利与“时间的魔法”",
-        "excerpt": "韩国经济新闻2026年5月7日报道，让孩子通过投资体验理解长期投资和复利，有助于培养储蓄与资产形成习惯。",
-        "body": "韩国经济新闻2026年5月7日报道，五月送给孩子的不应只是普通礼物，也可以是一份“投资体验”。文章的核心是让孩子利用自己最充足的资产，也就是时间，体会复利原理。报道提到，投资家族戴维斯家的谢尔比·戴维斯曾用1美元长期投资后可能大幅增长的故事，说明时间会让金钱扩大。近期，韩国还提出了面向未成年人的“Junior ISA”制度法案。该方案旨在把目前仅限成人的税收优惠投资账户ISA开放给未成年人，并减轻赠与税和股息所得税负担，帮助资产形成。英国已于2011年引入Junior ISA。韩国经济新闻称，拥有以孩子本人名义开设账户的经历，可能影响储蓄和投资习惯。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Experiencia de inversión para niños: mayo enseña interés compuesto",
-        "excerpt": "Hankyung informó el 7 de mayo de 2026 que dar a los niños experiencia de inversión puede ayudarles a entender el largo plazo y crear hábitos de ahorro.",
-        "body": "El 7 de mayo de 2026, Hankyung informó sobre una propuesta para mayo: regalar a los hijos una “experiencia de inversión” en lugar de limitarse a obsequios comunes. La idea central es que los niños usen su mayor activo, el tiempo, para comprender el interés compuesto. El artículo citó una historia de la familia Davis, en la que Shelby Davis explicaba que un dólar invertido con prudencia podía crecer mucho con las décadas, mostrando que el tiempo hace crecer el dinero. También se ha presentado un proyecto para introducir una “Junior ISA” para menores. La medida abriría a los niños la cuenta ISA con ventajas fiscales, hoy limitada a adultos, y reduciría cargas tributarias para apoyar la formación de patrimonio. Reino Unido introdujo la Junior ISA en 2011. Hankyung señaló que tener una cuenta a nombre del niño puede influir en sus hábitos de ahorro e inversión. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Experiência de investimento para filhos: maio ensina juros compostos",
-        "excerpt": "O Hankyung informou em 7 de maio de 2026 que dar experiência de investimento às crianças pode ajudá-las a entender o longo prazo e formar hábitos financeiros.",
-        "body": "Em 7 de maio de 2026, o Hankyung relatou uma proposta para maio: dar aos filhos uma “experiência de investimento” em vez de apenas presentes comuns. O ponto central é ajudar as crianças a usar seu maior ativo, o tempo, para entender os juros compostos. O artigo citou a história da família Davis, na qual Shelby Davis explicou que um dólar investido com sabedoria poderia crescer muito ao longo de décadas, mostrando que o tempo faz o dinheiro aumentar. Também foi apresentado um projeto para criar a “Junior ISA” para menores. A medida abriria a conta ISA com benefício fiscal, hoje restrita a adultos, para crianças e reduziria encargos tributários para apoiar a formação de patrimônio. O Reino Unido introduziu a Junior ISA em 2011. O Hankyung informou que ter uma conta no nome da criança pode influenciar hábitos de poupança e investimento. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Investieren für Kinder: Im Mai Zinseszins und Zeit verstehen",
-        "excerpt": "Hankyung berichtete am 7. Mai 2026, dass Anlageerfahrung Kindern helfen kann, langfristiges Investieren, Zinseszins und Vermögensaufbau zu verstehen.",
-        "body": "Hankyung berichtete am 7. Mai 2026 über einen Vorschlag für den Mai: Kindern statt nur gewöhnlicher Geschenke eine “Anlageerfahrung” zu geben. Kern ist, dass Kinder ihr größtes Gut, die Zeit, nutzen, um den Zinseszinseffekt zu begreifen. Der Artikel verwies auf eine Geschichte der Davis-Familie, in der Shelby Davis erklärte, dass ein klug investierter Dollar über Jahrzehnte stark wachsen könne. Damit wird gezeigt, dass Zeit Geld vergrößern kann. Zuletzt wurde auch ein Gesetzentwurf für ein “Junior ISA” für Minderjährige eingebracht. Er soll das steuerbegünstigte ISA-Konto, das bislang Erwachsenen vorbehalten ist, für Minderjährige öffnen und Steuerlasten senken, um Vermögensbildung zu unterstützen. Großbritannien führte Junior ISA 2011 ein. Hankyung berichtete, dass ein Konto auf den Namen des Kindes Spar- und Anlagegewohnheiten beeinflussen kann. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Expérience d’investissement des enfants: apprendre la magie du temps",
-        "excerpt": "Hankyung a rapporté le 7 mai 2026 qu’une expérience d’investissement peut aider les enfants à comprendre le long terme, les intérêts composés et l’épargne.",
-        "body": "Le 7 mai 2026, Hankyung a présenté une idée pour le mois de mai: offrir aux enfants une “expérience d’investissement” plutôt qu’un simple cadeau. L’objectif est de les aider à utiliser leur plus grand actif, le temps, pour comprendre les intérêts composés. L’article cite l’histoire de la famille Davis, dans laquelle Shelby Davis expliquait qu’un dollar investi avec discernement pouvait fortement croître sur plusieurs décennies, illustrant le fait que le temps fait grandir l’argent. Un projet de loi visant à introduire un “Junior ISA” pour les mineurs a aussi été déposé. Il ouvrirait aux enfants le compte ISA à avantage fiscal, aujourd’hui réservé aux adultes, et allégerait certaines charges fiscales afin de soutenir la formation d’actifs. Le Royaume-Uni a lancé le Junior ISA en 2011. Hankyung rapporte qu’un compte au nom de l’enfant peut influencer ses habitudes d’épargne et d’investissement. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "تجربة الاستثمار للأطفال: تعليم الفائدة المركبة وقيمة الوقت في مايو",
-        "excerpt": "ذكرت هانكيونغ في 7 مايو 2026 أن منح الأطفال تجربة استثمارية يساعدهم على فهم الاستثمار طويل الأجل والفائدة المركبة وبناء عادات مالية.",
-        "body": "في 7 مايو 2026، ذكرت هانكيونغ أن شهر مايو يمكن أن يكون مناسبة لمنح الأطفال “تجربة استثمارية” بدلا من الاكتفاء بهدايا عادية. الفكرة الأساسية هي مساعدة الأطفال على استخدام أكبر أصل يملكونه، وهو الوقت، لفهم مبدأ الفائدة المركبة. واستشهد المقال بقصة من عائلة ديفيس، حيث أوضح شيلبي ديفيس أن دولارا واحدا إذا استثمر بحكمة يمكن أن ينمو كثيرا خلال عقود، بما يبين أن الوقت يزيد قيمة المال. كما طُرح مؤخرا مشروع قانون لإدخال حساب “Junior ISA” للقُصّر. ويهدف إلى فتح حساب ISA ذي المزايا الضريبية، المتاح حاليا للبالغين فقط، أمام الأطفال وتخفيف الأعباء الضريبية لدعم تكوين الأصول. وقد أدخلت بريطانيا هذا الحساب في 2011. وذكرت هانكيونغ أن امتلاك حساب باسم الطفل قد يؤثر في عادات الادخار والاستثمار. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "बच्चों को निवेश अनुभव: मई में चक्रवृद्धि और समय का पाठ",
-        "excerpt": "हैंक्युंग ने 7 मई 2026 को बताया कि बच्चों को निवेश का अनुभव देना दीर्घकालिक निवेश, चक्रवृद्धि और बचत की आदत समझाने में मदद कर सकता है।",
-        "body": "हैंक्युंग ने 7 मई 2026 को मई के लिए एक सुझाव दिया: बच्चों को केवल सामान्य उपहार देने के बजाय “निवेश अनुभव” दिया जाए। इसका मुख्य उद्देश्य बच्चों को उनके सबसे बड़े संसाधन, समय, के जरिए चक्रवृद्धि का सिद्धांत समझाना है। लेख में डेविस परिवार की कहानी दी गई, जिसमें शेल्बी डेविस ने समझाया कि समझदारी से निवेश किया गया 1 डॉलर दशकों में काफी बढ़ सकता है। यह बताता है कि समय पैसे को बढ़ाता है। हाल में नाबालिगों के लिए “जूनियर ISA” लाने का विधेयक भी पेश हुआ है। इसका उद्देश्य अभी केवल वयस्कों के लिए उपलब्ध कर-लाभ वाले ISA खाते को बच्चों के लिए खोलना और कर बोझ घटाकर संपत्ति निर्माण में मदद करना है। ब्रिटेन ने 2011 में जूनियर ISA शुरू किया था। हैंक्युंग के अनुसार, बच्चे के अपने नाम का खाता बचत और निवेश की आदतों को प्रभावित कर सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Pengalaman Investasi Anak: Mei Ajarkan Kompon dan Nilai Waktu",
-        "excerpt": "Hankyung melaporkan pada 7 Mei 2026 bahwa pengalaman investasi bagi anak dapat membantu mereka memahami investasi jangka panjang, bunga majemuk, dan kebiasaan menabung.",
-        "body": "Pada 7 Mei 2026, Hankyung melaporkan gagasan untuk bulan Mei: memberi anak “pengalaman investasi” alih-alih hanya hadiah biasa. Intinya adalah membantu anak memakai aset terbesar yang mereka miliki, yaitu waktu, untuk memahami prinsip bunga majemuk. Artikel itu mengutip kisah keluarga Davis, ketika Shelby Davis menjelaskan bahwa 1 dolar yang diinvestasikan dengan bijak dapat tumbuh besar selama puluhan tahun, menunjukkan bahwa waktu dapat memperbesar uang. Baru-baru ini juga diajukan rancangan aturan untuk memperkenalkan “Junior ISA” bagi anak di bawah umur. Skema ini akan membuka rekening ISA berinsentif pajak, yang kini hanya untuk orang dewasa, bagi anak-anak dan meringankan beban pajak untuk mendukung pembentukan aset. Inggris memperkenalkan Junior ISA pada 2011. Hankyung melaporkan bahwa pengalaman memiliki rekening atas nama anak dapat memengaruhi kebiasaan menabung dan berinvestasi. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8e147ea3b9f5",
-    "slug": "증시-예탁금-130조-반도체에너지주여보-옆집도-더-산대-370418",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T20:51:31.825Z",
-    "updatedAt": "2026-05-07T20:51:31.825Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050707641",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050707641",
-    "titleFingerprint": "2ea3ead2a065772d6ab238bb0085728a6df3c3ba",
-    "dedupKeys": [
-      "8e147ea3b9f5ae0cf2610eace7739ae436df95de",
-      "2ea3ead2a065772d6ab238bb0085728a6df3c3ba",
-      "e59f9d4cc15b3d4a5f0b8c0682cd0199a0995969"
-    ],
-    "imageUrl": "/images/articles/8e147ea3b9f5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "증시 예탁금 130조원, 반도체·에너지주 매수세에 쏠린 투자자 관심",
-        "excerpt": "hankyung.com은 증시 예탁금이 130조원 규모로 언급되는 가운데 투자자 관심이 반도체와 에너지주 매수 흐름에 집중되고 있다고 보도했다.",
-        "body": "증시 예탁금이 130조원 규모로 언급되며 투자자들의 주식시장 대기자금과 매수 관심이 다시 부각되고 있다. hankyung.com은 ‘증시 예탁금 130조’라는 제목으로 반도체주와 에너지주가 투자자들의 관심권에 놓였다고 전했다. 기사 제목에는 “여보, 옆집도 더 산대”라는 표현이 함께 쓰여 개인 투자자 사이에서 추가 매수 분위기가 확산되는 상황을 드러냈다. 예탁금은 주식 매수를 위해 증권계좌에 머무는 자금으로, 시장 참여 심리를 보여주는 지표로 자주 활용된다. 반도체와 에너지 업종에 관심이 집중될 경우 관련 종목의 수급과 단기 투자 흐름에 영향을 줄 수 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Stock Deposits at 130 Trillion Won Put Semiconductors and Energy Shares in Focus",
-        "excerpt": "hankyung.com reported that as stock-market deposits are cited at 130 trillion won, investor attention is concentrating on semiconductor and energy share buying.",
-        "body": "Stock-market deposits are being cited at the 130 trillion won level, putting renewed attention on standby cash and buying interest in equities. hankyung.com reported under the headline “Stock deposits 130 trillion won” that semiconductor and energy shares are drawing investor attention. The headline also used the phrase, “Honey, the neighbors are buying more too,” reflecting a mood of additional buying among individual investors. Deposits refer to money held in brokerage accounts for stock purchases and are often used as an indicator of market participation sentiment. If attention remains concentrated on semiconductor and energy sectors, it could affect supply-demand conditions and short-term investment flows in related stocks. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "株式預り金130兆ウォン、半導体・エネルギー株に投資家の関心集中",
-        "excerpt": "hankyung.comは、株式市場の預り金が130兆ウォン規模とされる中、投資家の関心が半導体株とエネルギー株の買いに集まっていると報じた。",
-        "body": "株式市場の預り金が130兆ウォン規模とされ、投資家の待機資金と買い意欲が再び注目されている。hankyung.comは「株式預り金130兆ウォン」という見出しで、半導体株とエネルギー株が投資家の関心圏に入っていると伝えた。見出しには「あなた、隣の家ももっと買うそうよ」という表現も使われ、個人投資家の間で追加買いの雰囲気が広がる状況を示した。預り金は株式購入のため証券口座に置かれている資金で、市場参加心理を示す指標としてよく使われる。半導体とエネルギー業種に関心が集まれば、関連銘柄の需給や短期の投資フローに影響する可能性がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "股市保证金达130万亿韩元，半导体与能源股成投资焦点",
-        "excerpt": "hankyung.com报道，在股市保证金被提及达130万亿韩元之际，投资者关注正集中于半导体和能源股的买入动向。",
-        "body": "股市保证金被提及达到130万亿韩元规模，投资者的待入场资金和买入关注再次受到关注。hankyung.com以“股市保证金130万亿韩元”为题报道称，半导体股和能源股进入投资者关注范围。标题中还使用了“亲爱的，邻居家也说要再买”的表述，显示个人投资者之间追加买入的氛围正在扩散。保证金是为购买股票而停留在证券账户中的资金，常被用作观察市场参与情绪的指标。如果关注继续集中在半导体和能源行业，可能影响相关个股的供需和短期投资流向。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Depósitos bursátiles de 130 billones de won enfocan chips y energía",
-        "excerpt": "hankyung.com informó que, con depósitos bursátiles citados en 130 billones de won, la atención inversora se concentra en compras de acciones de semiconductores y energía.",
-        "body": "Los depósitos del mercado bursátil se citan en torno a 130 billones de won, lo que vuelve a poner el foco en el efectivo en espera y el interés de compra en acciones. hankyung.com informó, bajo el titular “Depósitos bursátiles de 130 billones de won”, que las acciones de semiconductores y energía están en el radar de los inversores. El titular también incluyó la frase “Cariño, los vecinos también dicen que comprarán más”, reflejando un ambiente de compras adicionales entre inversores particulares. Los depósitos son fondos mantenidos en cuentas de valores para comprar acciones y se usan con frecuencia como indicador del ánimo de participación en el mercado. Si la atención se concentra en semiconductores y energía, puede influir en la oferta, la demanda y los flujos de corto plazo de esos valores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Depósitos na bolsa em 130 trilhões de wons destacam chips e energia",
-        "excerpt": "O hankyung.com informou que, com depósitos na bolsa citados em 130 trilhões de wons, a atenção dos investidores se concentra em compras de ações de semicondutores e energia.",
-        "body": "Os depósitos no mercado acionário são citados em torno de 130 trilhões de wons, recolocando em destaque o dinheiro em espera e o interesse de compra em ações. O hankyung.com informou, sob o título “Depósitos na bolsa de 130 trilhões de wons”, que ações de semicondutores e energia estão no foco dos investidores. O título também trouxe a frase “Querido, os vizinhos também vão comprar mais”, refletindo um clima de compras adicionais entre investidores individuais. Depósitos são recursos mantidos em contas de corretoras para compra de ações e são frequentemente usados como indicador do sentimento de participação no mercado. Se a atenção se concentrar em semicondutores e energia, isso pode afetar oferta, demanda e fluxos de curto prazo nos papéis relacionados. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Börseneinlagen von 130 Billionen Won rücken Chip- und Energiewerte in den Fokus",
-        "excerpt": "hankyung.com berichtete, dass bei genannten Börseneinlagen von 130 Billionen Won das Interesse der Anleger auf Käufe von Halbleiter- und Energieaktien gerichtet ist.",
-        "body": "Börseneinlagen werden mit rund 130 Billionen Won genannt, wodurch wartende Anlegergelder und Kaufinteresse am Aktienmarkt erneut in den Blick geraten. hankyung.com berichtete unter der Überschrift „Börseneinlagen 130 Billionen Won“, dass Halbleiter- und Energieaktien im Fokus der Anleger stehen. In der Überschrift hieß es zudem sinngemäß: „Schatz, die Nachbarn kaufen auch mehr“, was eine Stimmung zusätzlicher Käufe unter Privatanlegern beschreibt. Einlagen sind Gelder, die für Aktienkäufe auf Wertpapierkonten liegen, und gelten häufig als Indikator für die Marktteilnahmebereitschaft. Wenn sich das Interesse auf Halbleiter und Energie konzentriert, kann dies Angebot, Nachfrage und kurzfristige Kapitalflüsse der entsprechenden Aktien beeinflussen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Dépôts boursiers à 130 billions de wons, semi-conducteurs et énergie ciblés",
-        "excerpt": "hankyung.com a rapporté qu’avec des dépôts boursiers évoqués à 130 billions de wons, l’attention des investisseurs se concentre sur les achats d’actions de semi-conducteurs et d’énergie.",
-        "body": "Les dépôts sur le marché boursier sont évoqués autour de 130 billions de wons, remettant en avant les liquidités en attente et l’intérêt d’achat pour les actions. hankyung.com a rapporté, sous le titre « Dépôts boursiers de 130 billions de wons », que les valeurs des semi-conducteurs et de l’énergie attirent l’attention des investisseurs. Le titre utilisait aussi l’expression « Chéri, les voisins disent qu’ils en achètent davantage », reflétant une ambiance d’achats supplémentaires chez les investisseurs particuliers. Les dépôts désignent les fonds conservés sur des comptes titres en vue d’achats d’actions et servent souvent d’indicateur du sentiment de participation au marché. Si l’attention reste concentrée sur les semi-conducteurs et l’énergie, elle peut influencer l’offre, la demande et les flux de court terme des titres liés. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ودائع الأسهم عند 130 تريليون وون تضع الرقائق والطاقة في الصدارة",
-        "excerpt": "ذكر hankyung.com أن ودائع سوق الأسهم تُطرح عند مستوى 130 تريليون وون، بينما يتركز اهتمام المستثمرين على شراء أسهم أشباه الموصلات والطاقة.",
-        "body": "تُذكر ودائع سوق الأسهم عند مستوى يقارب 130 تريليون وون، ما يعيد تسليط الضوء على الأموال المنتظرة واهتمام الشراء في سوق الأسهم. وأفاد hankyung.com، تحت عنوان “ودائع الأسهم 130 تريليون وون”، بأن أسهم أشباه الموصلات والطاقة تقع ضمن دائرة اهتمام المستثمرين. كما استخدم العنوان عبارة “عزيزي، الجيران سيشترون المزيد أيضا”، بما يعكس أجواء شراء إضافي بين المستثمرين الأفراد. وتشير الودائع إلى الأموال الموجودة في حسابات الوساطة لغرض شراء الأسهم، وغالبا ما تُستخدم مؤشرا على معنويات المشاركة في السوق. وإذا تركز الاهتمام على قطاعي أشباه الموصلات والطاقة، فقد يؤثر ذلك في العرض والطلب وتدفقات الاستثمار القصيرة الأجل للأسهم المرتبطة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "130 ट्रिलियन वॉन के शेयर जमा से सेमीकंडक्टर और ऊर्जा शेयरों पर नजर",
-        "excerpt": "hankyung.com ने बताया कि शेयर बाजार जमा 130 ट्रिलियन वॉन के स्तर पर बताए जा रहे हैं और निवेशकों का ध्यान सेमीकंडक्टर तथा ऊर्जा शेयरों की खरीद पर केंद्रित है।",
-        "body": "शेयर बाजार जमा 130 ट्रिलियन वॉन के स्तर पर बताए जा रहे हैं, जिससे इक्विटी में प्रतीक्षारत नकदी और खरीद रुचि फिर से चर्चा में है। hankyung.com ने “शेयर जमा 130 ट्रिलियन वॉन” शीर्षक के तहत बताया कि सेमीकंडक्टर और ऊर्जा शेयर निवेशकों के ध्यान में हैं। शीर्षक में “सुनो, पड़ोसी भी और खरीदने वाले हैं” जैसी अभिव्यक्ति भी इस्तेमाल हुई, जो व्यक्तिगत निवेशकों के बीच अतिरिक्त खरीद के माहौल को दिखाती है। जमा से आशय उन पैसों से है जो शेयर खरीदने के लिए ब्रोकरेज खातों में रखे जाते हैं और इसे बाजार भागीदारी की भावना के संकेतक के रूप में अक्सर देखा जाता है। यदि ध्यान सेमीकंडक्टर और ऊर्जा क्षेत्रों पर केंद्रित रहता है, तो संबंधित शेयरों की मांग-आपूर्ति और अल्पकालिक निवेश प्रवाह प्रभावित हो सकते हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Simpanan Saham 130 Triliun Won Sorot Saham Chip dan Energi",
-        "excerpt": "hankyung.com melaporkan bahwa ketika dana simpanan pasar saham disebut mencapai 130 triliun won, perhatian investor tertuju pada pembelian saham semikonduktor dan energi.",
-        "body": "Dana simpanan di pasar saham disebut berada di kisaran 130 triliun won, sehingga dana siaga dan minat beli investor kembali menjadi sorotan. hankyung.com melaporkan dengan judul “Dana simpanan saham 130 triliun won” bahwa saham semikonduktor dan energi masuk dalam perhatian investor. Judul itu juga memakai ungkapan “Sayang, tetangga juga katanya mau beli lagi,” yang menggambarkan suasana pembelian tambahan di kalangan investor individu. Dana simpanan adalah uang yang berada di rekening sekuritas untuk membeli saham dan sering digunakan sebagai indikator sentimen partisipasi pasar. Jika perhatian terkonsentrasi pada sektor semikonduktor dan energi, hal itu dapat memengaruhi pasokan, permintaan, dan arus investasi jangka pendek pada saham terkait. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d8c2e8804d1a",
-    "slug": "개미가-멱살-잡고-간다코스피-7490선-마감-최고가-랠리-272918",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-07T20:50:23.856Z",
-    "updatedAt": "2026-05-07T20:50:23.856Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050718076",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050718076",
-    "titleFingerprint": "1e0a9d18c79a886f18726537addd778e9544df05",
-    "dedupKeys": [
-      "d8c2e8804d1a283ffdf79858888e2d51afe97117",
-      "1e0a9d18c79a886f18726537addd778e9544df05",
-      "6a71c57f201032533c1599040987bc83a2746b22"
-    ],
-    "imageUrl": "/images/articles/d8c2e8804d1a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7490.05 사상 최고 마감, 외국인 매도 뚫은 개인 6조 순매수 랠리",
-        "excerpt": "2026년 5월 7일 코스피는 전장보다 105.49포인트 오른 7490.05에 마감하며 사상 최고치를 다시 썼고, 개인 순매수 약 6조원이 지수 반전을 이끌었다.",
-        "body": "2026년 5월 7일 코스피지수는 전장 대비 105.49포인트(1.43%) 오른 7490.05로 거래를 마치며 사상 최고치를 경신했다. 이날 지수는 1.55% 상승 출발해 장 초반 7500선을 넘었지만 외국인 차익실현 매물에 7250선까지 밀렸다. 이후 개인 투자자가 유가증권시장에서 5조9910억원을 순매수하고 기관도 1조950억원어치를 사들이며 상승 전환을 이끌었다. 외국인은 7조1510억원을 순매도해 역대 최대 규모를 기록했다. 삼성전자와 SK하이닉스는 각각 2%대, 3%대 올랐고 코스닥은 0.91% 내린 1199.18에 마감했다. 원·달러 환율은 1454.0원으로 1.1원 하락했다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Closes at Record 7,490.05 as Retail Buying Offsets Foreign Selling",
-        "excerpt": "On May 7, 2026, the KOSPI rose 105.49 points to close at 7,490.05, setting another record high as nearly 6 trillion won in retail net buying reversed intraday weakness.",
-        "body": "On May 7, 2026, the KOSPI closed at 7,490.05, up 105.49 points, or 1.43%, from the previous session, renewing its all-time high. The index opened 1.55% higher and briefly moved above 7,500 early in the day, but profit-taking by foreign investors pushed it down toward the 7,250 range. The rebound was led by individual investors, who net bought 5.991 trillion won on the main market, while institutions bought 1.095 trillion won. Foreign investors sold a net 7.151 trillion won, the largest amount on record. Samsung Electronics and SK hynix gained in the 2% and 3% ranges, respectively. The KOSDAQ fell 0.91% to 1,199.18, and the won-dollar rate slipped 1.1 won to 1,454.0. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPIが7490.05で最高値更新、個人の約6兆ウォン買いが反転主導",
-        "excerpt": "2026年5月7日、KOSPIは前日比105.49ポイント高の7490.05で取引を終え、個人投資家の約6兆ウォン純買いが下落局面からの反転を支えた。",
-        "body": "2026年5月7日、KOSPI指数は前日比105.49ポイント（1.43%）高の7490.05で取引を終え、過去最高値を更新した。この日の指数は1.55%高で始まり、序盤に7500台へ乗せる場面もあったが、外国人投資家の利益確定売りで7250台まで押し戻された。その後、個人投資家が有価証券市場で5兆9910億ウォンを純買いし、機関も1兆950億ウォンを買い越したことで上昇に転じた。外国人は7兆1510億ウォンの純売りで、過去最大規模となった。サムスン電子は2%台、SKハイニックスは3%台上昇した。KOSDAQは0.91%安の1199.18で終え、ウォン・ドル相場は1.1ウォン下落の1454.0ウォンだった。出所: hankyung.com."
-      },
-      "zh": {
-        "title": "KOSPI收于7490.05再创历史新高，散户近6万亿韩元净买入托盘",
-        "excerpt": "2026年5月7日，KOSPI较前一交易日上涨105.49点，收于7490.05点，再创历史新高，个人投资者近6万亿韩元净买入推动指数反转。",
-        "body": "2026年5月7日，KOSPI指数较前一交易日上涨105.49点，涨幅1.43%，收于7490.05点，再次刷新历史高位。当天指数高开1.55%，早盘一度站上7500点，但在外国投资者获利了结卖盘影响下回落至7250点附近。随后，个人投资者在有价证券市场净买入5.991万亿韩元，机构也净买入1.095万亿韩元，带动指数转为上涨。外国投资者净卖出7.151万亿韩元，规模创历史最大。三星电子上涨逾2%，SK海力士上涨逾3%。KOSDAQ下跌0.91%，收于1199.18点；韩元兑美元汇率下跌1.1韩元，收于1454.0韩元。来源: hankyung.com."
-      },
-      "es": {
-        "title": "KOSPI cierra en récord de 7.490,05 impulsado por compras minoristas",
-        "excerpt": "El 7 de mayo de 2026, el KOSPI subió 105,49 puntos y cerró en 7.490,05, un nuevo máximo histórico, después de que compras minoristas por casi 6 billones de wones revirtieran la caída intradía.",
-        "body": "El 7 de mayo de 2026, el KOSPI cerró en 7.490,05 puntos, un alza de 105,49 puntos, o 1,43%, frente a la sesión anterior, y renovó su máximo histórico. El índice abrió con una subida de 1,55% y superó brevemente los 7.500 puntos al inicio, pero las ventas de toma de ganancias de inversionistas extranjeros lo llevaron hacia la zona de 7.250. La recuperación fue impulsada por inversionistas individuales, que compraron en neto 5,991 billones de wones en el mercado principal, mientras las instituciones adquirieron 1,095 billones. Los extranjeros vendieron en neto 7,151 billones de wones, el mayor monto registrado. Samsung Electronics y SK hynix subieron en rangos de 2% y 3%. El KOSDAQ cayó 0,91% a 1.199,18 y el tipo won-dólar bajó 1,1 wones a 1.454,0. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI fecha em recorde de 7.490,05 com compra de quase 6 tri de won por pessoas físicas",
-        "excerpt": "Em 7 de maio de 2026, o KOSPI avançou 105,49 pontos e fechou em 7.490,05, novo recorde histórico, após compras líquidas de pessoas físicas perto de 6 trilhões de won reverterem a fraqueza intradiária.",
-        "body": "Em 7 de maio de 2026, o KOSPI fechou em 7.490,05 pontos, alta de 105,49 pontos, ou 1,43%, ante a sessão anterior, renovando seu recorde histórico. O índice abriu em alta de 1,55% e chegou a superar 7.500 pontos no início do pregão, mas vendas de realização por investidores estrangeiros o empurraram para a faixa de 7.250. A recuperação veio dos investidores individuais, que compraram líquido 5,991 trilhões de won no mercado principal; instituições também compraram 1,095 trilhão de won. Estrangeiros venderam líquido 7,151 trilhões de won, o maior volume já registrado. Samsung Electronics subiu na faixa de 2% e SK hynix na de 3%. O KOSDAQ caiu 0,91%, a 1.199,18, e o câmbio won-dólar recuou 1,1 won, a 1.454,0. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI schließt bei Rekordstand 7.490,05 dank fast 6 Billionen Won privater Käufe",
-        "excerpt": "Am 7. Mai 2026 stieg der KOSPI um 105,49 Punkte auf 7.490,05 und erreichte ein neues Allzeithoch, nachdem private Nettokäufe von fast 6 Billionen Won die Schwäche im Tagesverlauf drehten.",
-        "body": "Am 7. Mai 2026 schloss der KOSPI bei 7.490,05 Punkten, 105,49 Punkte oder 1,43% über dem Vortag, und markierte damit erneut ein Allzeithoch. Der Index startete 1,55% fester und stieg früh kurz über die Marke von 7.500, fiel aber durch Gewinnmitnahmen ausländischer Investoren bis in den Bereich von 7.250 zurück. Die Wende kam durch Privatanleger, die am Hauptmarkt netto 5,991 Billionen Won kauften; Institutionen kauften zusätzlich 1,095 Billionen Won. Ausländische Anleger verkauften netto 7,151 Billionen Won, den höchsten jemals verzeichneten Betrag. Samsung Electronics legte im 2%-Bereich zu, SK hynix im 3%-Bereich. Der KOSDAQ fiel 0,91% auf 1.199,18, der Won-Dollar-Kurs sank um 1,1 Won auf 1.454,0. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le KOSPI clôture à un record de 7 490,05, porté par près de 6 000 milliards de wons d’achats particuliers",
-        "excerpt": "Le 7 mai 2026, le KOSPI a gagné 105,49 points pour clôturer à 7 490,05, un nouveau record, les achats nets des particuliers proches de 6 000 milliards de wons ayant inversé la baisse en séance.",
-        "body": "Le 7 mai 2026, le KOSPI a clôturé à 7 490,05 points, en hausse de 105,49 points, soit 1,43%, par rapport à la séance précédente, établissant un nouveau plus haut historique. L’indice avait ouvert en hausse de 1,55% et dépassé brièvement 7 500 points en début de séance, avant de reculer vers 7 250 sous l’effet de prises de bénéfices des investisseurs étrangers. Le rebond a été mené par les particuliers, acheteurs nets de 5 991 milliards de wons sur le marché principal, tandis que les institutions ont acheté 1 095 milliards de wons. Les étrangers ont vendu net 7 151 milliards de wons, un record. Samsung Electronics a gagné plus de 2% et SK hynix plus de 3%. Le KOSDAQ a cédé 0,91% à 1 199,18, et le taux won-dollar a baissé de 1,1 won à 1 454,0. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند قمة قياسية 7490.05 بدعم مشتريات أفراد تقارب 6 تريليونات وون",
-        "excerpt": "في 7 مايو 2026، ارتفع مؤشر كوسبي 105.49 نقطة ليغلق عند 7490.05 مسجلا ذروة تاريخية جديدة، بعدما قادت مشتريات الأفراد الصافية بنحو 6 تريليونات وون انعكاسا صعوديا.",
-        "body": "في 7 مايو 2026، أغلق مؤشر كوسبي عند 7490.05 نقطة، مرتفعا 105.49 نقطة أو 1.43% عن الجلسة السابقة، ليجدد أعلى مستوى تاريخي له. افتتح المؤشر على صعود 1.55% وتجاوز مستوى 7500 نقطة في بداية التعاملات، لكنه تراجع إلى نطاق 7250 نقطة مع مبيعات لجني الأرباح من المستثمرين الأجانب. جاء التحول بدعم من المستثمرين الأفراد الذين سجلوا صافي شراء قدره 5.991 تريليون وون في السوق الرئيسية، كما اشترت المؤسسات 1.095 تريليون وون. في المقابل، باع الأجانب صافيا بقيمة 7.151 تريليون وون، وهو أكبر حجم مسجل. صعدت سامسونغ إلكترونيكس بأكثر من 2% وSK hynix بأكثر من 3%. وهبط كوسداك 0.91% إلى 1199.18، بينما انخفض سعر الوون مقابل الدولار 1.1 وون إلى 1454.0. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI 7,490.05 के रिकॉर्ड पर बंद, खुदरा निवेशकों की करीब 6 ट्रिलियन वॉन खरीद से पलटा बाजार",
-        "excerpt": "7 मई 2026 को KOSPI 105.49 अंक चढ़कर 7,490.05 पर बंद हुआ और नया रिकॉर्ड बनाया; खुदरा निवेशकों की करीब 6 ट्रिलियन वॉन शुद्ध खरीद ने दिन की कमजोरी को पलट दिया।",
-        "body": "7 मई 2026 को KOSPI सूचकांक पिछले सत्र से 105.49 अंक, यानी 1.43%, बढ़कर 7,490.05 पर बंद हुआ और अपना सर्वकालिक उच्च स्तर फिर से दर्ज किया। सूचकांक 1.55% की बढ़त के साथ खुला और शुरुआती कारोबार में 7,500 के ऊपर गया, लेकिन विदेशी निवेशकों की मुनाफावसूली से यह 7,250 के दायरे तक फिसल गया। बाद में व्यक्तिगत निवेशकों ने मुख्य बाजार में 5.991 ट्रिलियन वॉन की शुद्ध खरीद की और संस्थानों ने भी 1.095 ट्रिलियन वॉन खरीदे, जिससे सूचकांक फिर चढ़ा। विदेशी निवेशकों ने 7.151 ट्रिलियन वॉन की शुद्ध बिकवाली की, जो रिकॉर्ड स्तर है। Samsung Electronics 2% से अधिक और SK hynix 3% से अधिक बढ़े। KOSDAQ 0.91% गिरकर 1,199.18 पर बंद हुआ, जबकि वॉन-डॉलर दर 1.1 वॉन घटकर 1,454.0 रही। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Ditutup Rekor 7.490,05, Aksi Beli Ritel Hampir 6 Triliun Won Balikkan Pasar",
-        "excerpt": "Pada 7 Mei 2026, KOSPI naik 105,49 poin dan ditutup di 7.490,05, rekor tertinggi baru, setelah pembelian bersih investor ritel hampir 6 triliun won membalikkan tekanan intraday.",
-        "body": "Pada 7 Mei 2026, indeks KOSPI ditutup di 7.490,05, naik 105,49 poin atau 1,43% dari sesi sebelumnya, sekaligus mencetak rekor tertinggi baru. Indeks dibuka menguat 1,55% dan sempat menembus 7.500 pada awal perdagangan, tetapi aksi ambil untung investor asing menekannya ke area 7.250. Pemulihan dipimpin investor individu yang membukukan beli bersih 5,991 triliun won di pasar utama, sementara institusi membeli 1,095 triliun won. Investor asing mencatat jual bersih 7,151 triliun won, jumlah terbesar dalam sejarah. Samsung Electronics naik di kisaran 2% dan SK hynix di kisaran 3%. KOSDAQ turun 0,91% ke 1.199,18, sedangkan kurs won-dolar turun 1,1 won menjadi 1.454,0. Sumber: hankyung.com."
       }
     }
   }
