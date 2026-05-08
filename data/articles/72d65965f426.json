@@ -1,0 +1,75 @@
+{
+  "id": "72d65965f426",
+  "slug": "어닝-서프라이즈가-쇼크로토스증권-한국콜마-실적-표기-오류에-주주들-분통-914411",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-08T11:15:07.423Z",
+  "updatedAt": "2026-05-08T11:15:07.423Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12041258",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12041258",
+  "titleFingerprint": "28241e1e4a410a85cc18ae4f9d37b32b1a9cdd99",
+  "dedupKeys": [
+    "72d65965f42636ef6de610e6493c3713d1f5f13f",
+    "28241e1e4a410a85cc18ae4f9d37b32b1a9cdd99",
+    "7f41bd8fa65e824e39c926073013b812389fa7ed"
+  ],
+  "imageUrl": "/images/articles/72d65965f426.png",
+  "i18n": {
+    "ko": {
+      "title": "토스증권 한국콜마 실적 표기 오류 논란, 주주 패닉셀에 보상 요구 확산",
+      "excerpt": "토스증권이 한국콜마 1분기 실적을 연결이 아닌 개별 기준으로 잘못 표기하면서 주주들이 반토막 난 수치에 혼란을 겪고 보상 요구에 나섰다.",
+      "body": "토스증권이 한국콜마의 1분기 실적을 표기하는 과정에서 연결 실적 대신 개별 실적을 노출해 주주들의 반발을 샀다. 역대급 1분기 호실적을 거둔 한국콜마의 수치가 실제보다 크게 낮아 보이면서 일부 투자자들은 실적 쇼크로 오인했고, 패닉셀 우려까지 제기됐다. 문제는 오류가 정정되는 과정에서도 별도 알림 없이 화면이 수정된 것으로 알려지며 공분이 커졌다는 점이다. 주주들은 엔화 사태에 이어 또다시 투자 판단에 영향을 줄 수 있는 오류가 발생했다며 보상 요구를 제기하고 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Toss Securities Faces Backlash Over Kolmar Korea Earnings Display Error",
+      "excerpt": "Toss Securities mislabeled Kolmar Korea’s first-quarter earnings as separate rather than consolidated figures, causing confusion among shareholders and sparking compensation demands.",
+      "body": "Toss Securities drew criticism after displaying Kolmar Korea’s first-quarter earnings using separate figures instead of consolidated results. Because Kolmar Korea had posted record-level strong first-quarter performance, the incorrectly shown numbers appeared sharply lower than the actual results. Some investors reportedly mistook the data for an earnings shock, raising concerns about panic selling. Anger grew further as the figures were said to have been quietly corrected without a separate notice. Shareholders are demanding compensation, saying another error that could affect investment decisions occurred after the yen-related incident. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "トス証券、韓国コルマー実績表示ミスで批判拡大 株主が補償要求",
+      "excerpt": "トス証券が韓国コルマーの第1四半期実績を連結ではなく個別基準で誤表示し、株主の混乱と補償要求につながった。",
+      "body": "トス証券は、韓国コルマーの第1四半期実績を表示する際、連結実績ではなく個別実績を掲載したことで株主の反発を招いた。韓国コルマーは過去最高水準の第1四半期好業績を記録していたが、誤って表示された数値は実際より大きく低く見えたため、一部投資家は業績ショックと受け止め、パニック売りへの懸念も出た。さらに、訂正過程で別途通知なく画面が修正されたとされ、怒りが広がった。株主らは円貨関連の問題に続き、投資判断に影響し得るミスが再び起きたとして補償を求めている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "Toss证券误标韩国科玛业绩引争议，股东要求赔偿",
+      "excerpt": "Toss证券将韩国科玛一季度业绩误标为个别口径而非合并口径，导致股东因大幅偏低的数据陷入混乱并要求赔偿。",
+      "body": "Toss证券在显示韩国科玛一季度业绩时，将合并业绩误显示为个别业绩，引发股东反弹。韩国科玛原本取得了创纪录水平的一季度优异业绩，但错误显示的数字看起来较实际水平大幅偏低，部分投资者将其误认为业绩冲击，并出现对恐慌性抛售的担忧。更令股东不满的是，相关错误据称在没有单独通知的情况下被悄然更正。股东们表示，继日元相关事件后，又发生可能影响投资判断的错误，因此提出赔偿要求。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Error de Toss Securities en resultados de Kolmar Korea desata reclamos",
+      "excerpt": "Toss Securities mostró por error los resultados individuales de Kolmar Korea en lugar de los consolidados del primer trimestre, generando confusión y pedidos de compensación.",
+      "body": "Toss Securities enfrentó críticas tras mostrar los resultados del primer trimestre de Kolmar Korea con cifras individuales en lugar de consolidadas. Kolmar Korea había registrado un desempeño trimestral récord, pero los datos expuestos por error parecían mucho más bajos que los reales. Algunos inversionistas interpretaron la cifra como un choque de resultados, lo que elevó la preocupación por ventas de pánico. La indignación aumentó porque la corrección se habría hecho sin una notificación separada. Los accionistas piden compensación y señalan que, tras el incidente relacionado con el yen, volvió a producirse un error capaz de afectar decisiones de inversión. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Erro da Toss Securities em resultado da Kolmar Korea gera pedidos de compensação",
+      "excerpt": "A Toss Securities exibiu por engano dados individuais, e não consolidados, do 1º trimestre da Kolmar Korea, causando confusão entre acionistas e pedidos de compensação.",
+      "body": "A Toss Securities foi criticada após exibir os resultados do primeiro trimestre da Kolmar Korea com base em números individuais, em vez de consolidados. A Kolmar Korea havia registrado um desempenho recorde no trimestre, mas os dados mostrados incorretamente pareciam muito inferiores aos reais. Alguns investidores interpretaram os números como um choque de resultados, levantando preocupações sobre vendas em pânico. A revolta aumentou porque a correção teria sido feita sem aviso separado. Acionistas pedem compensação e afirmam que, após o episódio relacionado ao iene, ocorreu novamente um erro que poderia afetar decisões de investimento. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Toss Securities wegen Fehler bei Kolmar-Korea-Zahlen in der Kritik",
+      "excerpt": "Toss Securities zeigte Kolmar Koreas Quartalszahlen fälschlich als Einzel- statt Konzernabschluss, was Aktionäre verunsicherte und Entschädigungsforderungen auslöste.",
+      "body": "Toss Securities ist in die Kritik geraten, weil bei den Ergebnissen von Kolmar Korea für das erste Quartal Einzelzahlen statt konsolidierter Zahlen angezeigt wurden. Kolmar Korea hatte ein außergewöhnlich starkes erstes Quartal erzielt, doch die falsch dargestellten Werte wirkten deutlich niedriger als die tatsächlichen Ergebnisse. Einige Anleger hielten die Angaben für einen Ergebnisschock, wodurch Sorgen über Panikverkäufe aufkamen. Zusätzlichen Ärger verursachte, dass die Korrektur Berichten zufolge ohne gesonderte Mitteilung erfolgte. Aktionäre fordern Entschädigung und verweisen darauf, dass nach dem Yen-Vorfall erneut ein Fehler aufgetreten sei, der Anlageentscheidungen beeinflussen könne. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Toss Securities critiqué pour une erreur sur les résultats de Kolmar Korea",
+      "excerpt": "Toss Securities a affiché par erreur les résultats individuels de Kolmar Korea au lieu des chiffres consolidés du premier trimestre, provoquant confusion et demandes d’indemnisation.",
+      "body": "Toss Securities fait l’objet de critiques après avoir affiché les résultats du premier trimestre de Kolmar Korea sur une base individuelle plutôt que consolidée. Kolmar Korea avait enregistré une performance trimestrielle exceptionnelle, mais les chiffres erronés paraissaient nettement inférieurs aux résultats réels. Certains investisseurs les ont interprétés comme un choc de résultats, faisant naître des craintes de ventes de panique. La colère a grandi lorsque la correction aurait été effectuée sans notification séparée. Des actionnaires réclament une indemnisation, estimant qu’après l’incident lié au yen, une nouvelle erreur susceptible d’influencer les décisions d’investissement s’est produite. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "خطأ في عرض نتائج Kolmar Korea على Toss Securities يثير مطالب تعويض",
+      "excerpt": "عرضت Toss Securities نتائج الربع الأول لـKolmar Korea على أساس منفرد بدل الموحد، ما أربك المساهمين وأثار مطالب بالتعويض.",
+      "body": "واجهت Toss Securities انتقادات بعدما عرضت نتائج الربع الأول لشركة Kolmar Korea باستخدام الأرقام المنفردة بدلا من النتائج الموحدة. وكانت Kolmar Korea قد حققت أداء قويا قياسيا في الربع الأول، لكن الأرقام المعروضة بالخطأ بدت أقل بكثير من النتائج الفعلية. واعتبر بعض المستثمرين البيانات صدمة في الأرباح، ما أثار مخاوف من عمليات بيع بدافع الذعر. وزاد الغضب بعدما قيل إن التصحيح تم بهدوء من دون إشعار منفصل. ويطالب المساهمون بتعويضات، قائلين إن خطأ آخر قد يؤثر في قرارات الاستثمار وقع بعد الحادثة المرتبطة بالين. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "Toss Securities की Kolmar Korea आय दिखाने की गलती पर मुआवजे की मांग",
+      "excerpt": "Toss Securities ने Kolmar Korea की पहली तिमाही आय को समेकित के बजाय अलग आधार पर दिखाया, जिससे शेयरधारकों में भ्रम और मुआवजे की मांग बढ़ी।",
+      "body": "Toss Securities को Kolmar Korea की पहली तिमाही आय दिखाते समय समेकित नतीजों के बजाय अलग नतीजे प्रदर्शित करने पर आलोचना का सामना करना पड़ा। Kolmar Korea ने पहली तिमाही में रिकॉर्ड स्तर का मजबूत प्रदर्शन किया था, लेकिन गलत दिखाए गए आंकड़े वास्तविक परिणामों से काफी कम नजर आए। कुछ निवेशकों ने इसे आय में झटका समझा, जिससे घबराहट में बिकवाली की चिंता उठी। नाराजगी तब और बढ़ी जब बताया गया कि सुधार अलग सूचना दिए बिना चुपचाप कर दिया गया। शेयरधारक कह रहे हैं कि येन से जुड़े मामले के बाद फिर ऐसी गलती हुई जो निवेश निर्णयों को प्रभावित कर सकती है, इसलिए वे मुआवजे की मांग कर रहे हैं। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Kesalahan Data Laba Kolmar Korea di Toss Securities Picu Tuntutan Kompensasi",
+      "excerpt": "Toss Securities keliru menampilkan kinerja kuartal I Kolmar Korea sebagai data individual, bukan konsolidasi, sehingga memicu kebingungan pemegang saham dan tuntutan kompensasi.",
+      "body": "Toss Securities menuai kritik setelah menampilkan kinerja kuartal pertama Kolmar Korea menggunakan angka individual, bukan hasil konsolidasi. Kolmar Korea sebenarnya mencatat kinerja kuartal pertama yang sangat kuat, tetapi angka yang salah ditampilkan terlihat jauh lebih rendah dari hasil sebenarnya. Sebagian investor mengira data itu sebagai kejutan negatif laba, sehingga muncul kekhawatiran penjualan panik. Kemarahan bertambah karena koreksi disebut dilakukan tanpa pemberitahuan terpisah. Para pemegang saham menuntut kompensasi, dengan alasan setelah insiden terkait yen, kembali terjadi kesalahan yang dapat memengaruhi keputusan investasi. Sumber: mk.co.kr"
+    }
+  }
+}
