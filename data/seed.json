@@ -1,5 +1,230 @@
 [
   {
+    "id": "c8534981fba6",
+    "slug": "토스증권-mts에-한국콜마-실적-표기-오류투자자들-항의-886390",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T14:39:35.173Z",
+    "updatedAt": "2026-05-09T14:39:35.173Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508175700008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508175700008",
+    "titleFingerprint": "953aba60ad9db743629bf8469ff5f9b4b179f29c",
+    "dedupKeys": [
+      "c8534981fba6e3379cb645f1006f959d09d62ce6",
+      "953aba60ad9db743629bf8469ff5f9b4b179f29c",
+      "5285b567b6c703aa77045e1133ca29955df20418"
+    ],
+    "imageUrl": "/images/articles/c8534981fba6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "토스증권 MTS, 한국콜마 실적 표기 오류로 투자자 항의 잇따라",
+        "excerpt": "토스증권 모바일트레이딩시스템에서 ‘깜짝’ 실적을 기록한 한국콜마의 실적 정보가 잘못 표기되며 투자자 항의가 제기됐다고 연합뉴스가 보도했다.",
+        "body": "토스증권의 모바일트레이딩시스템(MTS)에서 한국콜마 실적 정보가 잘못 표기되는 소동이 벌어졌다고 연합뉴스가 보도했다. 보도에 따르면 한국콜마는 ‘깜짝’ 실적을 기록했지만, 토스증권 MTS 화면에는 해당 실적이 정확하게 반영되지 않아 투자자들의 항의가 이어졌다. 모바일 거래 서비스에서 실적 정보는 투자 판단에 직접 참고되는 핵심 자료인 만큼, 이번 오류는 증권사 정보 제공 체계의 정확성 문제로 주목된다. 구체적인 오류 원인과 정정 과정은 원문에 제한적으로 전해졌다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Toss Securities MTS Error Shows Korea Kolmar Earnings Incorrectly, Investors Protest",
+        "excerpt": "Yonhap reported that Toss Securities’ mobile trading system incorrectly displayed Korea Kolmar’s earnings after its surprise results, prompting investor complaints.",
+        "body": "Yonhap News Agency reported that Toss Securities’ mobile trading system, or MTS, incorrectly displayed earnings information for Korea Kolmar. According to the report, Korea Kolmar had posted surprise results, but the figures shown on Toss Securities’ MTS were not reflected accurately, leading to complaints from investors. Because earnings data on mobile trading platforms is a key reference for investment decisions, the incident drew attention to the accuracy of securities firms’ information services. Details on the cause of the error and the correction process were limited in the original report. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "トス証券MTS、韓国コルマーの実績表示ミスで投資家が抗議",
+        "excerpt": "聯合ニュースは、トス証券のモバイル取引システムで好決算を出した韓国コルマーの実績が誤表示され、投資家の抗議が出たと報じた。",
+        "body": "聯合ニュースによると、トス証券のモバイル取引システム（MTS）で韓国コルマーの実績情報が誤って表示される騒動が起きた。報道では、韓国コルマーは「サプライズ」実績を記録したが、トス証券MTSの画面にはその内容が正確に反映されず、投資家から抗議が相次いだ。モバイル取引サービスに表示される実績情報は投資判断の重要な参考資料であるため、今回のミスは証券会社の情報提供体制の正確性という点で注目された。誤表示の原因や訂正過程の詳細は原文では限定的に伝えられている。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "Toss证券MTS误显示韩国Kolmar业绩，引发投资者抗议",
+        "excerpt": "韩联社报道称，Toss证券移动交易系统错误显示录得“惊喜”业绩的韩国Kolmar业绩信息，引发投资者提出抗议。",
+        "body": "据韩联社报道，Toss证券的移动交易系统（MTS）错误显示了韩国Kolmar的业绩信息，引发一场风波。报道显示，韩国Kolmar录得“惊喜”业绩，但Toss证券MTS画面未能准确反映相关业绩，导致投资者接连提出抗议。由于移动交易服务中的业绩信息是投资判断的重要参考资料，此次错误使证券公司信息提供体系的准确性受到关注。关于错误原因和更正过程，原文披露的信息有限。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Error en MTS de Toss Securities muestra mal resultados de Korea Kolmar y provoca quejas",
+        "excerpt": "Yonhap informó que el sistema móvil de Toss Securities mostró incorrectamente los resultados de Korea Kolmar tras cifras sorpresa, lo que provocó protestas de inversores.",
+        "body": "La agencia Yonhap informó que el sistema móvil de negociación de Toss Securities, conocido como MTS, mostró de forma incorrecta la información de resultados de Korea Kolmar. Según el reporte, Korea Kolmar registró resultados considerados una sorpresa, pero esos datos no se reflejaron correctamente en la pantalla del MTS de Toss Securities, lo que llevó a protestas de inversores. Como la información de resultados en servicios móviles de trading es una referencia clave para tomar decisiones de inversión, el caso llamó la atención sobre la precisión del sistema de información de las corredoras. El reporte original ofreció detalles limitados sobre la causa del error y el proceso de corrección. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Erro no MTS da Toss Securities exibe resultados da Korea Kolmar de forma incorreta",
+        "excerpt": "A Yonhap informou que o sistema móvel da Toss Securities exibiu incorretamente os resultados da Korea Kolmar após desempenho surpresa, gerando reclamações de investidores.",
+        "body": "A agência Yonhap informou que o sistema móvel de negociação da Toss Securities, conhecido como MTS, exibiu incorretamente informações de resultados da Korea Kolmar. Segundo a reportagem, a Korea Kolmar registrou resultados considerados uma surpresa, mas esses dados não foram refletidos com precisão na tela do MTS da Toss Securities, levando a reclamações de investidores. Como informações de resultados em plataformas móveis de negociação servem como referência importante para decisões de investimento, o episódio chamou atenção para a precisão dos sistemas de informação das corretoras. O texto original trouxe detalhes limitados sobre a causa do erro e o processo de correção. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Toss-Securities-MTS zeigt Korea-Kolmar-Zahlen falsch an, Anleger protestieren",
+        "excerpt": "Yonhap berichtete, dass das mobile Handelssystem von Toss Securities die überraschenden Ergebnisse von Korea Kolmar falsch anzeigte und Anlegerbeschwerden auslöste.",
+        "body": "Die Nachrichtenagentur Yonhap berichtete, dass das mobile Handelssystem von Toss Securities, kurz MTS, Ergebnisinformationen zu Korea Kolmar falsch angezeigt hat. Dem Bericht zufolge hatte Korea Kolmar überraschende Ergebnisse erzielt, doch diese wurden auf dem MTS-Bildschirm von Toss Securities nicht korrekt wiedergegeben, woraufhin Anleger protestierten. Da Ergebnisdaten in mobilen Handelsdiensten eine wichtige Grundlage für Anlageentscheidungen sind, rückte der Vorfall die Genauigkeit der Informationssysteme von Wertpapierfirmen in den Fokus. Details zur Ursache des Fehlers und zum Korrekturprozess wurden im Originalbericht nur begrenzt genannt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Erreur sur le MTS de Toss Securities pour les résultats de Korea Kolmar, plaintes d’investisseurs",
+        "excerpt": "Yonhap a rapporté que le système mobile de Toss Securities a mal affiché les résultats surprise de Korea Kolmar, déclenchant des protestations d’investisseurs.",
+        "body": "L’agence Yonhap a rapporté que le système mobile de trading de Toss Securities, appelé MTS, a affiché de manière incorrecte les informations de résultats de Korea Kolmar. Selon l’article, Korea Kolmar avait enregistré des résultats qualifiés de surprise, mais ces données n’ont pas été correctement reflétées sur l’écran du MTS de Toss Securities, ce qui a entraîné des plaintes d’investisseurs. Les informations de résultats sur les services mobiles de trading étant une référence importante pour les décisions d’investissement, l’incident attire l’attention sur la précision des systèmes d’information des sociétés de courtage. Le rapport original donne peu de détails sur la cause de l’erreur et le processus de correction. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "خطأ في منصة Toss Securities يعرض نتائج Korea Kolmar بشكل غير صحيح ويثير احتجاج المستثمرين",
+        "excerpt": "ذكرت يونهاب أن نظام التداول عبر الهاتف لدى Toss Securities عرض نتائج Korea Kolmar المفاجئة بشكل غير صحيح، ما دفع مستثمرين إلى تقديم احتجاجات.",
+        "body": "ذكرت وكالة يونهاب أن نظام التداول عبر الهاتف المحمول لدى Toss Securities، المعروف باسم MTS، عرض معلومات نتائج Korea Kolmar بشكل غير صحيح. ووفق التقرير، سجلت Korea Kolmar نتائج مفاجئة، لكن شاشة MTS التابعة لـ Toss Securities لم تعكس تلك النتائج بدقة، ما أدى إلى احتجاجات من المستثمرين. ونظرا لأن بيانات النتائج على خدمات التداول عبر الهاتف تعد مرجعا مهما لاتخاذ قرارات الاستثمار، فقد سلطت الحادثة الضوء على دقة أنظمة تقديم المعلومات لدى شركات الأوراق المالية. ولم يورد التقرير الأصلي تفاصيل واسعة عن سبب الخطأ أو عملية التصحيح. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "Toss Securities MTS में Korea Kolmar नतीजों की गलत 표시, निवेशकों की शिकायत",
+        "excerpt": "Yonhap के अनुसार, Toss Securities के मोबाइल ट्रेडिंग सिस्टम ने शानदार नतीजे देने वाली Korea Kolmar की आय जानकारी गलत दिखाई, जिससे निवेशकों ने विरोध किया।",
+        "body": "Yonhap News Agency ने बताया कि Toss Securities के मोबाइल ट्रेडिंग सिस्टम, यानी MTS, में Korea Kolmar की आय संबंधी जानकारी गलत दिखाई गई। रिपोर्ट के अनुसार, Korea Kolmar ने उम्मीद से बेहतर नतीजे दर्ज किए थे, लेकिन Toss Securities के MTS स्क्रीन पर ये आंकड़े सही तरीके से प्रतिबिंबित नहीं हुए, जिसके बाद निवेशकों ने शिकायतें कीं। मोबाइल ट्रेडिंग सेवाओं में आय संबंधी जानकारी निवेश निर्णयों के लिए महत्वपूर्ण संदर्भ होती है, इसलिए इस घटना ने प्रतिभूति कंपनियों की सूचना-प्रदान प्रणाली की सटीकता पर ध्यान खींचा। मूल रिपोर्ट में त्रुटि के कारण और सुधार प्रक्रिया के बारे में सीमित जानकारी दी गई। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "MTS Toss Securities Salah Tampilkan Kinerja Korea Kolmar, Investor Ajukan Protes",
+        "excerpt": "Yonhap melaporkan MTS Toss Securities keliru menampilkan kinerja Korea Kolmar setelah hasil mengejutkan, sehingga memicu protes dari para investor.",
+        "body": "Kantor berita Yonhap melaporkan bahwa sistem perdagangan mobile Toss Securities, atau MTS, salah menampilkan informasi kinerja Korea Kolmar. Menurut laporan tersebut, Korea Kolmar mencatat kinerja yang mengejutkan, tetapi data itu tidak tercermin secara akurat di layar MTS Toss Securities, sehingga memicu protes dari investor. Karena informasi kinerja pada layanan perdagangan mobile menjadi rujukan penting dalam pengambilan keputusan investasi, insiden ini menyoroti akurasi sistem penyediaan informasi perusahaan sekuritas. Rincian mengenai penyebab kesalahan dan proses koreksi disampaikan secara terbatas dalam laporan asli. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a36a3e314d62",
+    "slug": "김용범-반도체-호황에-역대급-세수-예고재정정책-유연해야-952149",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T14:38:39.942Z",
+    "updatedAt": "2026-05-09T14:38:39.942Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508175800001",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508175800001",
+    "titleFingerprint": "fba78bf946aee8f76ca03a800e1bb362e62f91ff",
+    "dedupKeys": [
+      "a36a3e314d62fe7ec2fcb40ab656e699a8c3b8cc",
+      "fba78bf946aee8f76ca03a800e1bb362e62f91ff",
+      "cc0cbbc6241982234a7e4ac239fe22325842c158"
+    ],
+    "imageUrl": "/images/articles/a36a3e314d62.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김용범, 반도체 호황에 역대급 세수 전망…재정정책 유연성 강조",
+        "excerpt": "김용범 청와대 정책실장은 8일 반도체 사이클 영향으로 향후 2년간 역대급 초과 세수가 예상된다며 세입 추계와 재정정책의 유연한 운용 필요성을 강조했다.",
+        "body": "김용범 청와대 정책실장은 8일 반도체 경기 사이클에 힘입어 향후 2년간 역대급 초과 세수가 예상된다고 밝혔다. 그는 세입 추계와 재정 운용에서 변화하는 여건을 반영해야 한다는 취지로 재정정책의 유연성을 강조했다. 이번 발언은 반도체 호황이 국가 세수 흐름에 미칠 영향을 언급한 것으로, 세입 전망과 재정정책 판단의 중요성을 부각했다. 향후 재정 운용에서는 예상보다 큰 세수 증가 가능성을 고려한 대응이 필요하다는 메시지로 풀이된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Kim Yong-beom Sees Record Tax Revenue on Chip Boom, Urges Fiscal Flexibility",
+        "excerpt": "Presidential policy chief Kim Yong-beom said on the 8th that the semiconductor cycle could bring record excess tax revenue over the next two years, stressing flexible fiscal policy.",
+        "body": "Presidential policy chief Kim Yong-beom said on the 8th that South Korea is expected to see record excess tax revenue over the next two years, supported by the semiconductor business cycle. He emphasized that fiscal policy should remain flexible, including in revenue estimates and budget management, to reflect changing conditions. The remarks highlight the potential impact of a chip-sector boom on national tax revenue and the importance of careful fiscal judgment. His message suggests that future fiscal operations should take into account the possibility of larger-than-expected revenue gains. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "金容範氏、半導体好況で過去最大級の税収見通し…財政の柔軟性強調",
+        "excerpt": "金容範大統領室政策室長は8日、半導体サイクルにより今後2年間で過去最大級の超過税収が見込まれるとして、財政政策の柔軟な運用を強調した。",
+        "body": "金容範大統領室政策室長は8日、半導体景気サイクルを背景に、今後2年間で過去最大級の超過税収が見込まれると述べた。金氏は、税収見積もりや財政運営において変化する環境を反映する必要があるとの趣旨で、財政政策の柔軟性を強調した。今回の発言は、半導体好況が国家税収の流れに与える影響に言及したもので、税収見通しと財政判断の重要性を浮き彫りにした。今後の財政運営では、予想を上回る税収増の可能性を考慮した対応が必要だというメッセージと受け止められる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "金容范称半导体景气或带来创纪录税收，强调财政政策需灵活",
+        "excerpt": "韩国总统室政策室长金容范8日表示，受半导体周期影响，未来两年预计将出现创纪录超额税收，并强调税收估算和财政政策需保持灵活。",
+        "body": "韩国总统室政策室长金容范8日表示，受半导体景气周期推动，未来两年预计将出现创纪录规模的超额税收。他强调，在税收估算和财政运作中，应反映不断变化的条件，财政政策需要保持灵活。此番言论提及半导体繁荣可能对国家税收走势产生的影响，也凸显了税收展望和财政政策判断的重要性。外界可将其理解为，未来财政运作需要考虑税收增幅可能高于预期的情况，并据此作出应对。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Kim Yong-beom prevé ingresos fiscales récord por auge de chips y pide flexibilidad",
+        "excerpt": "Kim Yong-beom, jefe de política presidencial, dijo el día 8 que el ciclo de semiconductores podría generar ingresos fiscales excedentes récord en dos años y pidió una política fiscal flexible.",
+        "body": "Kim Yong-beom, jefe de política de la oficina presidencial, afirmó el día 8 que Corea del Sur prevé ingresos fiscales excedentes de nivel récord durante los próximos dos años, impulsados por el ciclo de los semiconductores. Señaló que la política fiscal debe ser flexible, incluida la estimación de ingresos y la gestión presupuestaria, para reflejar las condiciones cambiantes. Sus declaraciones ponen de relieve el posible impacto del auge de los chips en la recaudación nacional y la importancia de evaluar con cuidado las previsiones fiscales. El mensaje apunta a que la gestión futura de las finanzas públicas deberá considerar la posibilidad de ingresos mayores a lo esperado. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Kim Yong-beom prevê arrecadação recorde com chips e defende flexibilidade fiscal",
+        "excerpt": "Kim Yong-beom, chefe de política presidencial, disse no dia 8 que o ciclo dos semicondutores pode gerar receita tributária excedente recorde em dois anos e defendeu flexibilidade fiscal.",
+        "body": "Kim Yong-beom, chefe de política da Presidência, afirmou no dia 8 que a Coreia do Sul deve registrar receita tributária excedente em nível recorde nos próximos dois anos, impulsionada pelo ciclo dos semicondutores. Ele destacou que a política fiscal deve ser flexível, inclusive nas estimativas de receita e na gestão das finanças públicas, para refletir mudanças nas condições. A declaração aponta o possível impacto do boom dos chips sobre a arrecadação nacional e ressalta a importância das projeções de receita e das decisões fiscais. A mensagem sugere que a condução fiscal futura deve considerar a possibilidade de aumento de receita acima do esperado. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Kim Yong-beom erwartet Rekordsteuern durch Chipboom und fordert flexible Finanzpolitik",
+        "excerpt": "Präsidialer Politikchef Kim Yong-beom sagte am 8., der Halbleiterzyklus könne in den nächsten zwei Jahren rekordhohe Mehreinnahmen bringen, und betonte flexible Finanzpolitik.",
+        "body": "Kim Yong-beom, Politikchef im Präsidialamt, sagte am 8., Südkorea erwarte in den kommenden zwei Jahren rekordhohe zusätzliche Steuereinnahmen, gestützt durch den Zyklus der Halbleiterbranche. Er betonte, die Finanzpolitik müsse flexibel bleiben, auch bei Einnahmenschätzungen und der Haushaltsführung, um veränderte Rahmenbedingungen abzubilden. Die Äußerung verweist auf den möglichen Einfluss des Chipbooms auf die staatlichen Steuereinnahmen und unterstreicht die Bedeutung von Einnahmeprognosen und fiskalischen Entscheidungen. Für die künftige Finanzpolitik bedeutet dies, mögliche Einnahmezuwächse über den Erwartungen zu berücksichtigen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Kim Yong-beom prévoit des recettes fiscales record grâce aux puces et appelle à la flexibilité",
+        "excerpt": "Kim Yong-beom, chef de la politique présidentielle, a déclaré le 8 que le cycle des semi-conducteurs pourrait entraîner des excédents fiscaux record sur deux ans et a appelé à une politique flexible.",
+        "body": "Kim Yong-beom, chef de la politique au bureau présidentiel, a déclaré le 8 que la Corée du Sud devrait enregistrer des recettes fiscales excédentaires d’un niveau record au cours des deux prochaines années, soutenues par le cycle des semi-conducteurs. Il a souligné que la politique budgétaire devait rester flexible, notamment dans les estimations de recettes et la gestion des finances publiques, afin de tenir compte de l’évolution des conditions. Ces propos mettent en avant l’impact possible du boom des puces sur les recettes nationales et l’importance des prévisions fiscales. Le message suggère que la gestion budgétaire future devra intégrer la possibilité de recettes supérieures aux attentes. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "كيم يونغ بوم يتوقع إيرادات ضريبية قياسية بفعل رواج الرقائق ويدعو لمرونة مالية",
+        "excerpt": "قال كيم يونغ بوم، رئيس السياسات في مكتب الرئاسة، في الثامن إن دورة أشباه الموصلات قد تجلب فائضا ضريبيا قياسيا خلال عامين، مؤكدا ضرورة مرونة السياسة المالية.",
+        "body": "قال كيم يونغ بوم، رئيس السياسات في مكتب الرئاسة، في الثامن إن كوريا الجنوبية تتوقع فائضا ضريبيا بمستوى قياسي خلال العامين المقبلين، مدعوما بدورة قطاع أشباه الموصلات. وشدد على أن السياسة المالية يجب أن تبقى مرنة، بما في ذلك تقديرات الإيرادات وإدارة المالية العامة، حتى تعكس الظروف المتغيرة. وتسلط تصريحاته الضوء على الأثر المحتمل لازدهار الرقائق في مسار الإيرادات الضريبية الوطنية، وعلى أهمية التوقعات الضريبية والحكم المالي. وتشير الرسالة إلى أن إدارة المالية مستقبلا ينبغي أن تراعي احتمال زيادة الإيرادات بأكثر من المتوقع. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "किम योंग-बोम ने चिप बूम से रिकॉर्ड कर राजस्व का अनुमान, वित्तीय लचीलेपन पर जोर",
+        "excerpt": "राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 8 तारीख को कहा कि सेमीकंडक्टर चक्र से अगले दो वर्षों में रिकॉर्ड अतिरिक्त कर राजस्व आ सकता है और वित्तीय नीति में लचीलापन जरूरी है।",
+        "body": "राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम ने 8 तारीख को कहा कि सेमीकंडक्टर उद्योग के चक्र के सहारे दक्षिण कोरिया को अगले दो वर्षों में रिकॉर्ड स्तर का अतिरिक्त कर राजस्व मिलने की उम्मीद है। उन्होंने कहा कि बदलती परिस्थितियों को दर्शाने के लिए राजस्व अनुमान और वित्तीय संचालन सहित राजकोषीय नीति में लचीलापन जरूरी है। यह बयान चिप उद्योग की तेजी का राष्ट्रीय कर राजस्व पर संभावित असर बताता है और राजस्व पूर्वानुमान तथा वित्तीय निर्णयों के महत्व को रेखांकित करता है। इसका संदेश है कि आगे की वित्तीय नीति में अपेक्षा से अधिक राजस्व वृद्धि की संभावना को ध्यान में रखना होगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kim Yong-beom Prediksi Pajak Rekor dari Boom Chip, Tekankan Fleksibilitas Fiskal",
+        "excerpt": "Kepala kebijakan kepresidenan Kim Yong-beom pada 8 mengatakan siklus semikonduktor dapat membawa kelebihan penerimaan pajak rekor dalam dua tahun dan menekankan kebijakan fiskal fleksibel.",
+        "body": "Kepala kebijakan kepresidenan Kim Yong-beom pada 8 mengatakan Korea Selatan diperkirakan mencatat kelebihan penerimaan pajak pada level rekor selama dua tahun ke depan, didukung siklus bisnis semikonduktor. Ia menekankan bahwa kebijakan fiskal harus tetap fleksibel, termasuk dalam estimasi penerimaan dan pengelolaan anggaran, agar mencerminkan kondisi yang berubah. Pernyataan itu menyoroti potensi dampak boom chip terhadap arus penerimaan pajak nasional serta pentingnya proyeksi penerimaan dan penilaian fiskal. Pesannya, pengelolaan fiskal ke depan perlu mempertimbangkan kemungkinan kenaikan penerimaan yang lebih besar dari perkiraan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "ed68422f9561",
+    "slug": "eu-항공권-이미-구입한-승객에-유류할증료-추가-안돼-477599",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T14:37:41.819Z",
+    "updatedAt": "2026-05-09T14:37:41.819Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508176200098",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508176200098",
+    "titleFingerprint": "97fd8a9868ffebcd358c70df2fd0b4e278241672",
+    "dedupKeys": [
+      "ed68422f9561fee5570bd0cbec76dc4c60689ddd",
+      "97fd8a9868ffebcd358c70df2fd0b4e278241672",
+      "002c01aa4f89dcd62424f5da6decbd6f2bbf9c77"
+    ],
+    "imageUrl": "/images/articles/ed68422f9561.jpg",
+    "i18n": {
+      "ko": {
+        "title": "EU, 항공권 구매 후 유류할증료 추가 부과 금지 원칙 재확인",
+        "excerpt": "EU는 중동 전쟁에 따른 에너지 가격 급등과 항공유 부족으로 유럽 항공사들이 어려움을 겪더라도 이미 항공권을 산 승객에게 유류할증료를 추가 부과해선 안 된다고 밝혔다.",
+        "body": "EU는 중동 전쟁 여파로 에너지 가격이 급등하고 항공유 부족 사태가 이어지는 상황에서도, 이미 항공권을 구입한 승객에게 유류할증료를 추가로 물릴 수 없다는 입장을 밝혔다. 유럽 항공사들은 항공유 비용 부담과 공급 차질로 타격을 받고 있지만, EU는 이를 이유로 구매가 끝난 항공권 가격을 사후에 올리는 것은 허용되지 않는다는 원칙을 강조했다. 이번 방침은 항공사의 비용 압박과 소비자 보호 기준이 충돌하는 상황에서 승객의 예측 가능한 요금 부담을 우선한 것으로 풀이된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "EU Says Airlines Cannot Add Fuel Surcharges After Tickets Are Bought",
+        "excerpt": "The EU said European airlines hit by surging energy prices and jet fuel shortages from the Middle East war must not add fuel surcharges to passengers who already bought tickets.",
+        "body": "The EU said airlines cannot impose additional fuel surcharges on passengers who have already purchased tickets, even as energy prices surge and jet fuel shortages continue in the wake of the Middle East war. European carriers have been hit by higher aviation fuel costs and supply disruptions, but the EU stressed that these pressures do not justify raising the price of tickets after the purchase has been completed. The position underscores consumer protection as airlines face cost pressure, prioritizing predictable fares for passengers who have already paid. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "EU、購入済み航空券への燃油サーチャージ追加を認めず",
+        "excerpt": "EUは、中東戦争によるエネルギー価格急騰と航空燃料不足で欧州航空会社が打撃を受けても、購入済み航空券への燃油サーチャージ追加はできないとした。",
+        "body": "EUは、中東戦争の影響でエネルギー価格が急騰し、航空燃料不足が続く状況でも、すでに航空券を購入した乗客に燃油サーチャージを追加で課すことはできないとの立場を示した。欧州の航空会社は航空燃料費の負担増と供給の混乱で打撃を受けているが、EUはそれを理由に購入済み航空券の価格を後から引き上げることは認められないと強調した。今回の方針は、航空会社の費用圧力と消費者保護がぶつかる中、乗客の予測可能な料金負担を重視したものといえる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "欧盟重申：机票已购买后不得追加燃油附加费",
+        "excerpt": "欧盟表示，尽管中东战争导致能源价格飙升、航空燃油短缺并冲击欧洲航空公司，但不得向已购票乘客追加燃油附加费。",
+        "body": "欧盟表示，即使中东战争影响下能源价格飙升、航空燃油短缺持续，航空公司也不得向已经购买机票的乘客追加燃油附加费。欧洲航空公司正因航空燃油成本上升和供应受阻而受到冲击，但欧盟强调，不能以此为由在购票完成后再提高机票价格。该立场显示，在航空公司成本压力与消费者保护标准发生冲突的情况下，欧盟优先保障已付款乘客对票价负担的可预期性。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "La UE prohíbe añadir recargos por combustible a billetes ya comprados",
+        "excerpt": "La UE dijo que, aunque las aerolíneas europeas sufren por el alza energética y la escasez de combustible de aviación ligada a la guerra en Oriente Medio, no pueden cobrar recargos a pasajeros con billetes ya comprados.",
+        "body": "La UE afirmó que las aerolíneas no pueden imponer recargos adicionales por combustible a pasajeros que ya compraron sus billetes, incluso mientras suben los precios de la energía y persiste la escasez de combustible de aviación por la guerra en Oriente Medio. Las compañías europeas se ven afectadas por mayores costos de combustible y problemas de suministro, pero la UE subrayó que esas presiones no justifican elevar después el precio de billetes cuya compra ya fue completada. La postura prioriza la protección del consumidor y una carga tarifaria previsible para los pasajeros. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "UE veta taxa extra de combustível em passagens aéreas já compradas",
+        "excerpt": "A UE afirmou que companhias aéreas europeias afetadas pela alta da energia e pela falta de combustível de aviação ligada à guerra no Oriente Médio não podem cobrar taxa extra de passageiros que já compraram bilhetes.",
+        "body": "A UE declarou que as companhias aéreas não podem impor cobranças adicionais de combustível a passageiros que já compraram passagens, mesmo com a alta dos preços de energia e a escassez de combustível de aviação após a guerra no Oriente Médio. As empresas europeias foram atingidas pelo aumento dos custos do combustível e por dificuldades de abastecimento, mas a UE ressaltou que isso não autoriza elevar posteriormente o preço de bilhetes já adquiridos. A posição reforça a proteção do consumidor e a previsibilidade dos custos para quem já pagou. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "EU verbietet nachträgliche Kerosinzuschläge auf bereits gekaufte Tickets",
+        "excerpt": "Die EU erklärte, europäische Airlines dürften trotz steigender Energiepreise und Kerosinmangel infolge des Nahostkriegs Passagieren mit bereits gekauften Tickets keine zusätzlichen Treibstoffzuschläge berechnen.",
+        "body": "Die EU stellte klar, dass Fluggesellschaften Passagieren, die ihre Tickets bereits gekauft haben, keine zusätzlichen Kerosinzuschläge berechnen dürfen, auch wenn Energiepreise steigen und Kerosin infolge des Nahostkriegs knapp wird. Europäische Airlines stehen wegen höherer Treibstoffkosten und Lieferproblemen unter Druck, doch die EU betonte, dass dies keine nachträgliche Erhöhung bereits abgeschlossener Ticketpreise rechtfertigt. Die Haltung stellt den Verbraucherschutz und planbare Kosten für bezahlte Flugtickets in den Vordergrund. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’UE interdit les surtaxes carburant sur les billets d’avion déjà achetés",
+        "excerpt": "L’UE a indiqué que les compagnies aériennes européennes touchées par la flambée de l’énergie et la pénurie de kérosène liée à la guerre au Moyen-Orient ne peuvent pas ajouter de surtaxe aux billets déjà achetés.",
+        "body": "L’UE a indiqué que les compagnies aériennes ne peuvent pas imposer de surtaxe carburant supplémentaire aux passagers ayant déjà acheté leur billet, même si les prix de l’énergie montent fortement et que la pénurie de carburant aérien se poursuit après la guerre au Moyen-Orient. Les transporteurs européens subissent la hausse des coûts du kérosène et des difficultés d’approvisionnement, mais l’UE a souligné que ces pressions ne justifient pas une hausse après l’achat. Cette position met en avant la protection des consommateurs et la prévisibilité des tarifs payés. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الاتحاد الأوروبي يمنع إضافة رسوم وقود على تذاكر الطيران المشتراة",
+        "excerpt": "قال الاتحاد الأوروبي إن شركات الطيران الأوروبية المتضررة من ارتفاع أسعار الطاقة ونقص وقود الطائرات بسبب حرب الشرق الأوسط لا يجوز لها فرض رسوم وقود إضافية على ركاب اشتروا تذاكرهم بالفعل.",
+        "body": "أكد الاتحاد الأوروبي أن شركات الطيران لا تستطيع فرض رسوم وقود إضافية على الركاب الذين اشتروا تذاكرهم بالفعل، حتى مع ارتفاع أسعار الطاقة واستمرار نقص وقود الطائرات نتيجة حرب الشرق الأوسط. وتتعرض شركات الطيران الأوروبية لضغوط بسبب زيادة تكاليف الوقود واضطرابات الإمداد، لكن الاتحاد الأوروبي شدد على أن هذه الظروف لا تبرر رفع سعر التذاكر بعد إتمام شرائها. ويعكس هذا الموقف أولوية حماية المستهلك وضمان وضوح التكلفة للركاب الذين دفعوا ثمن التذاكر مسبقا. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "EU ने खरीदे जा चुके हवाई टिकटों पर ईंधन अधिभार जोड़ने से रोका",
+        "excerpt": "EU ने कहा कि मध्य पूर्व युद्ध से ऊर्जा कीमतों में उछाल और विमान ईंधन की कमी के कारण यूरोपीय एयरलाइंस प्रभावित हों, फिर भी पहले से टिकट खरीद चुके यात्रियों पर अतिरिक्त ईंधन अधिभार नहीं लगाया जा सकता।",
+        "body": "EU ने कहा कि मध्य पूर्व युद्ध के असर से ऊर्जा कीमतें बढ़ने और विमान ईंधन की कमी जारी रहने के बावजूद, जिन यात्रियों ने पहले ही हवाई टिकट खरीद लिए हैं, उन पर अतिरिक्त ईंधन अधिभार नहीं लगाया जा सकता। यूरोपीय एयरलाइंस विमान ईंधन की ऊंची लागत और आपूर्ति बाधाओं से प्रभावित हैं, लेकिन EU ने जोर दिया कि इन कारणों से पूरी हो चुकी टिकट खरीद के बाद कीमत बढ़ाना स्वीकार्य नहीं है। यह रुख एयरलाइंस की लागत दबाव और उपभोक्ता संरक्षण के बीच यात्रियों के लिए अनुमानित किराये को प्राथमिकता देता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "UE Larang Maskapai Menambah Biaya Bahan Bakar pada Tiket yang Sudah Dibeli",
+        "excerpt": "UE menyatakan maskapai Eropa yang terpukul kenaikan harga energi dan kelangkaan avtur akibat perang Timur Tengah tetap tidak boleh menambahkan biaya bahan bakar kepada penumpang yang sudah membeli tiket.",
+        "body": "UE menyatakan maskapai tidak dapat mengenakan biaya bahan bakar tambahan kepada penumpang yang sudah membeli tiket, meski harga energi melonjak dan kelangkaan avtur berlanjut akibat perang Timur Tengah. Maskapai Eropa terdampak oleh naiknya biaya bahan bakar penerbangan dan gangguan pasokan, tetapi UE menegaskan tekanan tersebut tidak membenarkan kenaikan harga tiket setelah pembelian selesai. Sikap ini menempatkan perlindungan konsumen dan kepastian beban tarif bagi penumpang yang telah membayar sebagai prioritas. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "80e6a6900836",
     "slug": "국세청-탈세-혐의-하나금융은행-세무조사-착수-281171",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Kospi Tembus 7.000, Investor Ritel Serbu Toko Buku; Penjualan Buku Saham Naik 305%",
         "excerpt": "Saat Kospi mencetak rekor tertinggi dan menembus 7.000, minat investor ritel meluas ke toko buku, membuat penjualan buku saham domestik melonjak 305%.",
         "body": "Kospi mencetak rekor tertinggi sepanjang masa dan menembus level 7.000, membuat antusiasme investasi investor ritel merambah hingga ke toko buku. Seiring tren kenaikan pasar saham, penjualan buku terkait saham domestik melonjak 305%, sementara minat terhadap buku keuangan pribadi, pensiun, dan manajemen aset juga meningkat. Tren ini menunjukkan bahwa penguatan pasar berubah menjadi kebutuhan untuk belajar investasi. Pergerakan bursa ke depan diperkirakan turut memengaruhi pencarian informasi investor dan konsumsi buku terkait. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "515f6b74e3c8",
-    "slug": "호르무즈-뚫은-유조선-오데사호-대산항-입항-126205",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T01:14:40.096Z",
-    "updatedAt": "2026-05-09T01:14:40.096Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889603/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889603/1",
-    "titleFingerprint": "11343b2e14cc085e547f4ddaf756764b4ad331d9",
-    "dedupKeys": [
-      "515f6b74e3c8721b5894ce109173620dec239288",
-      "11343b2e14cc085e547f4ddaf756764b4ad331d9",
-      "f78ac97227226904516c76c2181a50250ad7e823"
-    ],
-    "imageUrl": "/images/articles/515f6b74e3c8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "호르무즈 통과 유조선 오데사호, 원유 100만 배럴 싣고 대산항 입항",
-        "excerpt": "호르무즈 해협 봉쇄 국면을 통과한 유조선 오데사호가 8일 충남 서산 대산항에 입항해 HD현대오일뱅크 저장탱크로 원유 약 100만 배럴을 이송한다.",
-        "body": "호르무즈 해협 봉쇄를 뚫고 원유 100만 배럴을 실은 유조선 오데사호가 8일 충남 서산 대산항에 입항했다. 오데사호는 지난달 16일 아랍에미리트 코쿠아일랜드항을 출항해 17일 호르무즈 해협을 통과했다. 당시 미국과 이란 간 ‘2주 휴전’으로 해협이 잠시 개방된 틈에 빠져나온 것으로 전해졌다. 오데사호는 이날 오후 부두에서 5.4km 떨어진 해상계류시설에 접안해 송유관으로 9일 오후 3시까지 HD현대오일뱅크 저장탱크에 원유를 보낼 예정이다. 해당 물량은 HD현대오일뱅크의 기존 장기계약 공급분으로 알려졌다. 선박 규모는 길이 274.2m, 폭 50m, 최대 높이 51.878m이며 인도와 필리핀 국적 승무원 28명이 승선했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Tanker Odessa Reaches Daesan Port After Hormuz Passage With 1 Million Barrels",
-        "excerpt": "The tanker Odessa, carrying about 1 million barrels of crude after passing through the Strait of Hormuz, arrived at Daesan Port in Seosan on the 8th for delivery to HD Hyundai Oilbank tanks.",
-        "body": "The tanker Odessa, carrying 1 million barrels of crude oil after passing through the blocked Strait of Hormuz, arrived at Daesan Port in Seosan, South Chungcheong Province, on the 8th. The vessel departed Koku Island Port in the United Arab Emirates on the 16th of last month and passed through the Strait of Hormuz on the 17th. It reportedly moved out quickly when the waterway was briefly opened during a “two-week ceasefire” between the United States and Iran. On the afternoon of arrival, Odessa berthed at an offshore mooring facility 5.4 km from the pier and is scheduled to send about 1 million barrels of crude through a pipeline to HD Hyundai Oilbank storage tanks by 3 p.m. on the 9th. The shipment is known to be part of HD Hyundai Oilbank’s existing long-term contract supply. The ship is 274.2 m long, 50 m wide and up to 51.878 m high, with 28 Indian and Filipino crew members aboard. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ホルムズ通過のタンカー「オデッサ」、原油100万バレル積み大山港へ",
-        "excerpt": "ホルムズ海峡の封鎖局面を通過したタンカー「オデッサ」が8日、忠清南道瑞山の大山港に入港し、HD現代オイルバンクのタンクへ原油約100万バレルを送る。",
-        "body": "ホルムズ海峡の封鎖を抜け、原油100万バレルを積んだタンカー「オデッサ」が8日、忠清南道瑞山の大山港に入港した。オデッサは先月16日にアラブ首長国連邦のコク島港を出港し、17日にホルムズ海峡を通過した。当時、米国とイランの「2週間停戦」により海峡が一時的に開放された間に素早く抜け出したとされる。同船は同日午後、ふ頭から5.4km離れた海上係留施設に接岸し、送油管を通じて9日午後3時までにHD現代オイルバンクの貯蔵タンクへ約100万バレルの原油を送る予定だ。この数量はHD現代オイルバンクの既存の長期契約に基づく供給分と伝えられている。船体は全長274.2m、幅50m、最大高さ51.878mで、インドとフィリピン国籍の乗組員計28人が乗船している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "穿越霍尔木兹的“敖德萨”号油轮载100万桶原油抵达大山港",
-        "excerpt": "穿越霍尔木兹海峡封锁局面的油轮“敖德萨”号8日抵达韩国忠南瑞山大山港，将向HD现代Oilbank储罐输送约100万桶原油。",
-        "body": "载有100万桶原油、穿越霍尔木兹海峡封锁局面的油轮“敖德萨”号于8日抵达韩国忠清南道瑞山市大山港。“敖德萨”号上月16日从阿联酋科库岛港出发，17日通过霍尔木兹海峡。据悉，当时美国与伊朗之间的“两周停火”使海峡短暂开放，该船迅速驶离相关海域。当天午后，“敖德萨”号停靠在距码头5.4公里的海上系泊设施，并计划通过输油管道在9日下午3时前向HD现代Oilbank储罐输送约100万桶原油。该批原油被认为是HD现代Oilbank现有长期合同下的供应量。该船长274.2米、宽50米、最高51.878米，船上共有28名印度和菲律宾籍船员。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "El petrolero Odessa llega a Daesan tras cruzar Ormuz con 1 millón de barriles",
-        "excerpt": "El petrolero Odessa, que cruzó el estrecho de Ormuz con cerca de 1 millón de barriles de crudo, llegó el día 8 al puerto de Daesan para descargar hacia tanques de HD Hyundai Oilbank.",
-        "body": "El petrolero Odessa, cargado con 1 millón de barriles de crudo tras atravesar el estrecho de Ormuz en un contexto de bloqueo, llegó el día 8 al puerto de Daesan, en Seosan, provincia surcoreana de Chungcheong del Sur. El buque zarpó el día 16 del mes pasado del puerto de Koku Island, en Emiratos Árabes Unidos, y cruzó Ormuz el día 17. Según la información disponible, salió rápidamente cuando el estrecho se abrió de forma temporal durante una “tregua de dos semanas” entre Estados Unidos e Irán. Esa tarde atracó en una instalación de amarre marítimo situada a 5,4 km del muelle y tiene previsto enviar por oleoducto cerca de 1 millón de barriles a los tanques de HD Hyundai Oilbank antes de las 15:00 del día 9. El volumen corresponde, según se conoce, a suministros de un contrato de largo plazo ya existente. El Odessa mide 274,2 m de eslora, 50 m de manga y hasta 51,878 m de altura, con 28 tripulantes de India y Filipinas. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Petroleiro Odessa chega a Daesan após cruzar Ormuz com 1 milhão de barris",
-        "excerpt": "O petroleiro Odessa, que atravessou o estreito de Ormuz com cerca de 1 milhão de barris de petróleo, chegou no dia 8 ao porto de Daesan para transferir a carga à HD Hyundai Oilbank.",
-        "body": "O petroleiro Odessa, carregado com 1 milhão de barris de petróleo após passar pelo estreito de Ormuz em meio ao bloqueio, chegou no dia 8 ao porto de Daesan, em Seosan, na província sul-coreana de Chungcheong do Sul. A embarcação partiu no dia 16 do mês passado do porto de Koku Island, nos Emirados Árabes Unidos, e atravessou Ormuz no dia 17. Segundo as informações, ela saiu rapidamente quando o estreito foi aberto por pouco tempo durante uma “trégua de duas semanas” entre Estados Unidos e Irã. Na tarde da chegada, o Odessa atracou em uma instalação de amarração marítima a 5,4 km do cais e deverá enviar cerca de 1 milhão de barris por oleoduto aos tanques da HD Hyundai Oilbank até as 15h do dia 9. O volume é conhecido como parte de um contrato de fornecimento de longo prazo já existente da empresa. O navio tem 274,2 m de comprimento, 50 m de largura e altura máxima de 51,878 m, com 28 tripulantes indianos e filipinos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Tanker Odessa erreicht Daesan nach Hormus-Passage mit 1 Million Barrel Öl",
-        "excerpt": "Der Tanker Odessa ist am 8. mit rund 1 Million Barrel Rohöl nach der Passage der Straße von Hormus im Hafen Daesan angekommen und soll die Ladung an Tanks von HD Hyundai Oilbank liefern.",
-        "body": "Der Öltanker Odessa ist am 8. mit 1 Million Barrel Rohöl im Hafen Daesan in Seosan, Provinz Süd-Chungcheong, angekommen, nachdem er die blockierte Straße von Hormus passiert hatte. Das Schiff war am 16. des vergangenen Monats vom Hafen Koku Island in den Vereinigten Arabischen Emiraten ausgelaufen und passierte Hormus am 17. Es soll die Meerenge rasch verlassen haben, als sie während einer “zweiwöchigen Waffenruhe” zwischen den USA und Iran kurzzeitig geöffnet war. Am Nachmittag der Ankunft legte die Odessa an einer Offshore-Verankerungsanlage 5,4 km vom Pier entfernt an. Bis 15 Uhr am 9. soll sie über eine Pipeline rund 1 Million Barrel Rohöl in die Lagertanks von HD Hyundai Oilbank pumpen. Die Menge gilt als Lieferung aus einem bestehenden langfristigen Vertrag von HD Hyundai Oilbank. Das Schiff ist 274,2 m lang, 50 m breit und bis zu 51,878 m hoch; an Bord sind 28 Besatzungsmitglieder aus Indien und den Philippinen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le pétrolier Odessa arrive à Daesan après Ormuz avec 1 million de barils",
-        "excerpt": "Le pétrolier Odessa, passé par le détroit d’Ormuz avec environ 1 million de barils de brut, est arrivé le 8 au port de Daesan pour transférer sa cargaison vers HD Hyundai Oilbank.",
-        "body": "Le pétrolier Odessa, chargé de 1 million de barils de brut après avoir franchi le détroit d’Ormuz dans un contexte de blocus, est arrivé le 8 au port de Daesan, à Seosan, dans la province sud-coréenne du Chungcheong du Sud. Le navire avait quitté le 16 du mois dernier le port de Koku Island, aux Émirats arabes unis, puis traversé Ormuz le 17. Il aurait profité de l’ouverture temporaire du détroit pendant une “trêve de deux semaines” entre les États-Unis et l’Iran pour en sortir rapidement. Dans l’après-midi, l’Odessa s’est amarré à une installation offshore située à 5,4 km du quai et doit transférer par oléoduc environ 1 million de barils vers les réservoirs de HD Hyundai Oilbank d’ici 15 h le 9. Cette cargaison est connue comme relevant d’un contrat d’approvisionnement à long terme déjà existant de HD Hyundai Oilbank. Le navire mesure 274,2 m de long, 50 m de large et jusqu’à 51,878 m de haut, avec 28 membres d’équipage indiens et philippins à bord. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "الناقلة أوديسا تصل إلى ميناء دايسان بعد عبور هرمز بمليون برميل نفط",
-        "excerpt": "وصلت الناقلة أوديسا في الثامن إلى ميناء دايسان في سيوسان بعد عبورها مضيق هرمز، حاملة نحو مليون برميل من الخام لنقلها إلى خزانات HD Hyundai Oilbank.",
-        "body": "وصلت ناقلة النفط أوديسا، المحملة بمليون برميل من الخام بعد عبور مضيق هرمز وسط حالة الإغلاق، إلى ميناء دايسان في سيوسان بمقاطعة تشونغتشونغ الجنوبية في كوريا الجنوبية يوم 8. وكانت السفينة قد غادرت ميناء جزيرة كوكو في الإمارات العربية المتحدة يوم 16 من الشهر الماضي، ثم عبرت مضيق هرمز يوم 17. وورد أنها خرجت بسرعة عندما فُتح المضيق مؤقتا خلال “هدنة لمدة أسبوعين” بين الولايات المتحدة وإيران. وبعد ظهر يوم الوصول، رست أوديسا في منشأة إرساء بحرية تبعد 5.4 كيلومتر عن الرصيف، ومن المقرر أن تضخ عبر خط أنابيب نحو مليون برميل من الخام إلى خزانات HD Hyundai Oilbank حتى الساعة 3 بعد ظهر يوم 9. وتُعرف هذه الكمية بأنها جزء من إمدادات عقد طويل الأجل قائم للشركة. يبلغ طول السفينة 274.2 متر وعرضها 50 متر وارتفاعها الأقصى 51.878 متر، وعلى متنها 28 فردا من الطاقم من الهند والفلبين. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "हॉर्मुज पार कर 10 लाख बैरल कच्चे तेल के साथ ओडेसा टैंकर डेसान पहुंचा",
-        "excerpt": "हॉर्मुज जलडमरूमध्य की नाकेबंदी के बीच निकला ओडेसा टैंकर 8 तारीख को सेओसान के डेसान पोर्ट पहुंचा और करीब 10 लाख बैरल कच्चा तेल HD Hyundai Oilbank टैंकों में भेजेगा।",
-        "body": "हॉर्मुज जलडमरूमध्य की नाकेबंदी को पार कर 10 लाख बैरल कच्चा तेल लेकर आया टैंकर ओडेसा 8 तारीख को दक्षिण कोरिया के चुंगनाम सेओसान स्थित डेसान पोर्ट पहुंचा। ओडेसा पिछले महीने की 16 तारीख को संयुक्त अरब अमीरात के कोकू आइलैंड पोर्ट से रवाना हुआ था और 17 तारीख को हॉर्मुज जलडमरूमध्य से गुजरा। बताया गया कि अमेरिका और ईरान के बीच “दो सप्ताह के युद्धविराम” के दौरान जब जलडमरूमध्य थोड़े समय के लिए खुला, तब जहाज तेजी से बाहर निकल गया। आगमन के दिन दोपहर बाद ओडेसा घाट से 5.4 किमी दूर समुद्री मूरिंग सुविधा पर लगा और पाइपलाइन के जरिए 9 तारीख को दोपहर 3 बजे तक HD Hyundai Oilbank के भंडारण टैंकों में करीब 10 लाख बैरल कच्चा तेल भेजने वाला है। यह मात्रा कंपनी के मौजूदा दीर्घकालिक अनुबंध की आपूर्ति मानी जाती है। जहाज 274.2 मीटर लंबा, 50 मीटर चौड़ा और अधिकतम 51.878 मीटर ऊंचा है, जिसमें भारत और फिलीपींस के कुल 28 चालक दल सदस्य सवार हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Tanker Odessa Tiba di Daesan Usai Lewati Hormuz dengan 1 Juta Barel Minyak",
-        "excerpt": "Tanker Odessa yang melewati Selat Hormuz dengan sekitar 1 juta barel minyak mentah tiba pada tanggal 8 di Pelabuhan Daesan untuk menyalurkan muatan ke tangki HD Hyundai Oilbank.",
-        "body": "Tanker Odessa, yang membawa 1 juta barel minyak mentah setelah menembus situasi blokade Selat Hormuz, tiba pada tanggal 8 di Pelabuhan Daesan, Seosan, Provinsi Chungcheong Selatan, Korea Selatan. Kapal itu berangkat dari Pelabuhan Pulau Koku di Uni Emirat Arab pada tanggal 16 bulan lalu dan melewati Selat Hormuz pada tanggal 17. Kapal tersebut dilaporkan segera keluar saat selat sempat dibuka dalam “gencatan senjata dua minggu” antara Amerika Serikat dan Iran. Pada sore hari kedatangannya, Odessa bersandar di fasilitas tambat lepas pantai yang berjarak 5,4 km dari dermaga dan dijadwalkan mengirim sekitar 1 juta barel minyak melalui pipa ke tangki penyimpanan HD Hyundai Oilbank hingga pukul 15.00 tanggal 9. Pasokan ini diketahui sebagai bagian dari kontrak jangka panjang yang sudah ada milik HD Hyundai Oilbank. Kapal tersebut memiliki panjang 274,2 m, lebar 50 m, dan tinggi maksimum 51,878 m, dengan total 28 awak berkebangsaan India dan Filipina. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "fdc3a1d19d26",
-    "slug": "혼다-넘은-스즈키-약자는-어떻게-승리할-수-있나딥다이브-386294",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T01:13:26.087Z",
-    "updatedAt": "2026-05-09T01:13:26.087Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889509/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889509/1",
-    "titleFingerprint": "c182b0d00b825f0cedd273398b6ad85c1a7c8c7f",
-    "dedupKeys": [
-      "fdc3a1d19d26b6f483c58f8c19909b64bd1c4014",
-      "c182b0d00b825f0cedd273398b6ad85c1a7c8c7f",
-      "e0fb96ba021dcc4a1fd1dcb0a61f06916efaacf5"
-    ],
-    "imageUrl": "/images/articles/fdc3a1d19d26.png",
-    "i18n": {
-      "ko": {
-        "title": "스즈키, 혼다 제치고 일본 신차 판매 2위…인도산 역수입차의 반전",
-        "excerpt": "스즈키가 2025년도 일본 신차 판매에서 혼다를 제치고 사상 처음 2위에 올랐다. 인도 생산 차량의 역수입 돌풍과 ‘중소기업형 경영’이 배경으로 꼽힌다.",
-        "body": "일본 자동차 시장에서 2025년도 신차 판매 순위에 변화가 생겼다. 스즈키가 혼다를 제치고 사상 처음으로 2위에 올랐고, 수입차 판매 1위까지 차지했다. 핵심은 인도에서 생산한 스즈키 차량이 일본으로 역수입돼 인기를 얻은 점이다. 스즈키는 44년 전 불모지에 가까웠던 인도 자동차 시장에 진출했고, 고 스즈키 오사무 전 회장(1930~2024년)이 강조한 ‘중소기업형 경영’을 성장의 축으로 삼았다. 1979년 47만 엔 경차 ‘알토’ 출시로 ‘경차의 강자’라는 별명을 얻은 스즈키의 사례는 약자가 시장에서 승리하는 방식으로 주목된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Suzuki Overtakes Honda in Japan New-Car Sales as India-Built Imports Surge",
-        "excerpt": "Suzuki ranked second in Japan’s fiscal 2025 new-car sales for the first time, surpassing Honda as India-built Suzuki vehicles imported back to Japan gained strong traction.",
-        "body": "Japan’s auto market saw a notable shift in fiscal 2025 new-car sales. Suzuki surpassed Honda to take second place for the first time in its history and also became the top seller among imported cars. The key factor was the popularity of Suzuki vehicles produced in India and then imported back into Japan. Suzuki entered India’s then-underdeveloped auto market 44 years ago, with growth shaped by the “small and medium-sized enterprise style management” emphasized by the late former chairman Osamu Suzuki (1930-2024). Known as a mini-car specialist since launching the 470,000-yen Alto in 1979, Suzuki is now being cited as a case of how a smaller player can win. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "スズキがホンダを抜き日本新車販売2位、インド生産逆輸入車が躍進",
-        "excerpt": "スズキは2025年度の日本新車販売で初めてホンダを上回り2位に入った。インド生産車の逆輸入人気と中小企業型経営が背景にある。",
-        "body": "日本の自動車市場で2025年度の新車販売順位に変化が起きた。スズキがホンダを抜き、史上初めて2位に浮上し、輸入車販売でも1位となった。特徴的なのは、インドで生産されたスズキ車が日本へ逆輸入され、人気を集めた点だ。スズキは44年前、未開拓に近かったインド自動車市場へ進出した。その飛躍の中心には、故鈴木修元会長（1930～2024年）が重視した「中小企業型経営」があった。1979年に47万円の軽自動車「アルト」を発売して以来「軽自動車の強者」と呼ばれてきたスズキは、弱者が市場で勝つ方法を示す事例として注目されている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "铃木超越本田登上日本新车销量第二，印度产逆进口车成关键",
-        "excerpt": "铃木在2025年度日本新车销量中首次超过本田升至第二，并拿下进口车销量第一，印度生产车型逆进口日本掀起热潮。",
-        "body": "日本汽车市场在2025年度新车销售排名中出现变化。铃木首次超过本田，升至第二位，同时还成为进口车销量第一。关键在于，印度生产的铃木汽车被逆进口到日本后受到市场欢迎。44年前，铃木进入当时几乎还是荒地的印度汽车市场，其跃升背后是已故前会长铃木修（1930—2024年）强调的“中小企业型经营”。自1979年以47万日元推出轻型车“Alto”以来，铃木长期被称为“轻型车强者”。这一案例正被视为弱者如何在市场中取胜的代表。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Suzuki supera a Honda en ventas de autos nuevos en Japón gracias a modelos hechos en India",
-        "excerpt": "Suzuki subió por primera vez al segundo lugar en ventas de autos nuevos de Japón en el año fiscal 2025, impulsada por vehículos fabricados en India e importados al país.",
-        "body": "El mercado automotor japonés registró un cambio en las ventas de autos nuevos del año fiscal 2025. Suzuki superó a Honda y ocupó por primera vez el segundo lugar, además de liderar las ventas de autos importados. La clave fue el éxito de vehículos Suzuki producidos en India y reimportados a Japón. La compañía había entrado hace 44 años en el mercado automotor indio, entonces casi sin desarrollar. Su avance se apoyó en la “gestión de tipo pequeña y mediana empresa” defendida por el fallecido expresidente Osamu Suzuki (1930-2024). Conocida como especialista en minicoches desde el lanzamiento del Alto de 470.000 yenes en 1979, Suzuki se observa como un caso de cómo un actor menor puede ganar. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Suzuki supera Honda nas vendas de carros novos no Japão com força de modelos feitos na Índia",
-        "excerpt": "A Suzuki ficou pela primeira vez em segundo nas vendas de carros novos do Japão em 2025, ultrapassando a Honda com veículos produzidos na Índia e reimportados.",
-        "body": "O mercado automotivo japonês registrou uma mudança nas vendas de carros novos do ano fiscal de 2025. A Suzuki ultrapassou a Honda e chegou pela primeira vez ao segundo lugar, além de liderar as vendas de carros importados. O ponto central foi a popularidade de veículos Suzuki produzidos na Índia e reimportados para o Japão. A empresa entrou há 44 anos no mercado automotivo indiano, então quase inexplorado. Sua expansão teve como base a “gestão de tipo pequena e média empresa” defendida pelo falecido ex-presidente Osamu Suzuki (1930-2024). Conhecida como força dos carros leves desde o Alto de 470 mil ienes lançado em 1979, a Suzuki chama atenção como exemplo de como um jogador menor pode vencer. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Suzuki überholt Honda bei Japans Neuwagenverkäufen dank Importen aus Indien",
-        "excerpt": "Suzuki erreichte im Geschäftsjahr 2025 erstmals Platz zwei bei Japans Neuwagenverkäufen und überholte Honda, getragen von in Indien produzierten Rückimporten.",
-        "body": "Auf Japans Automarkt hat sich im Geschäftsjahr 2025 die Rangfolge der Neuwagenverkäufe verändert. Suzuki überholte Honda und rückte erstmals auf Platz zwei vor; zugleich wurde das Unternehmen Nummer eins bei importierten Autos. Entscheidend war die Nachfrage nach Suzuki-Fahrzeugen, die in Indien produziert und nach Japan zurückimportiert wurden. Suzuki war vor 44 Jahren in den damals kaum entwickelten indischen Automarkt eingetreten. Im Zentrum des Aufstiegs stand der vom verstorbenen früheren Chairman Osamu Suzuki (1930-2024) betonte Führungsstil eines kleinen und mittleren Unternehmens. Seit dem 1979 eingeführten Alto für 470.000 Yen gilt Suzuki als Stärke bei Kleinstwagen und wird nun als Beispiel dafür gesehen, wie ein kleinerer Anbieter gewinnen kann. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Suzuki dépasse Honda au Japon, porté par les voitures produites en Inde puis réimportées",
-        "excerpt": "Suzuki s’est hissé pour la première fois au deuxième rang des ventes de voitures neuves au Japon en 2025, devant Honda, grâce aux modèles produits en Inde.",
-        "body": "Le marché automobile japonais a connu un changement dans le classement des ventes de voitures neuves de l’exercice 2025. Suzuki a dépassé Honda pour prendre pour la première fois la deuxième place, tout en devenant numéro un des ventes de voitures importées. Le facteur clé est le succès de véhicules Suzuki produits en Inde puis réimportés au Japon. Suzuki était entré il y a 44 ans sur le marché automobile indien, alors presque inexploité. Son essor s’appuie sur la “gestion de type petite et moyenne entreprise” mise en avant par l’ancien président Osamu Suzuki (1930-2024), aujourd’hui décédé. Réputé depuis le lancement de l’Alto à 470.000 yens en 1979, Suzuki attire l’attention comme exemple de la manière dont un acteur plus faible peut gagner. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سوزوكي تتجاوز هوندا في مبيعات السيارات الجديدة باليابان بفضل طرازات مصنوعة في الهند",
-        "excerpt": "صعدت سوزوكي للمرة الأولى إلى المركز الثاني في مبيعات السيارات الجديدة في اليابان لعام 2025، متجاوزة هوندا مع رواج سياراتها المنتجة في الهند والمعاد استيرادها.",
-        "body": "شهد سوق السيارات الياباني تغيرا في ترتيب مبيعات السيارات الجديدة لعام 2025. فقد تجاوزت سوزوكي هوندا واحتلت المركز الثاني للمرة الأولى في تاريخها، كما تصدرت مبيعات السيارات المستوردة. العامل الأبرز كان رواج سيارات سوزوكي المنتجة في الهند ثم المعاد استيرادها إلى اليابان. وكانت سوزوكي قد دخلت قبل 44 عاما سوق السيارات الهندية التي كانت شبه غير مطورة. وجاء صعودها في ظل نهج “إدارة الشركات الصغيرة والمتوسطة” الذي شدد عليه الرئيس السابق الراحل أوسامو سوزوكي (1930-2024). ومنذ إطلاق سيارة ألتو الصغيرة بسعر 470 ألف ين في 1979، عرفت سوزوكي بقوتها في سيارات الكي، وتبرز اليوم كحالة توضح كيف يمكن للاعب أضعف أن ينتصر. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सुजुकी ने जापान में होंडा को पछाड़ा, भारत में बनी कारों की वापसी आयात से बढ़त",
-        "excerpt": "सुजुकी ने 2025 में जापान की नई कार बिक्री में पहली बार होंडा को पीछे छोड़कर दूसरा स्थान पाया। भारत में बनी सुजुकी कारों के जापान में री-इंपोर्ट ने गति दी।",
-        "body": "जापान के ऑटो बाजार में 2025 की नई कार बिक्री रैंकिंग में बड़ा बदलाव दिखा। सुजुकी ने होंडा को पीछे छोड़ते हुए पहली बार दूसरा स्थान हासिल किया और आयातित कारों की बिक्री में भी शीर्ष पर रही। इसका मुख्य कारण भारत में बनी सुजुकी कारों का जापान में री-इंपोर्ट होकर लोकप्रिय होना था। सुजुकी ने 44 साल पहले लगभग अनछुए भारतीय ऑटो बाजार में प्रवेश किया था। उसकी छलांग के केंद्र में दिवंगत पूर्व चेयरमैन ओसामु सुजुकी (1930-2024) द्वारा जोर दिया गया “छोटे और मध्यम उद्यम जैसा प्रबंधन” था। 1979 में 4,70,000 येन की हल्की कार ऑल्टो लॉन्च करने के बाद से सुजुकी को मिनी कारों की मजबूत कंपनी कहा गया, और अब यह कमजोर खिलाड़ी की जीत का उदाहरण बन रही है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Suzuki Lampaui Honda di Penjualan Mobil Baru Jepang Berkat Mobil Buatan India",
-        "excerpt": "Suzuki untuk pertama kalinya menempati posisi kedua penjualan mobil baru Jepang pada 2025, menggeser Honda lewat popularitas mobil buatan India yang diimpor balik.",
-        "body": "Pasar otomotif Jepang mencatat perubahan dalam peringkat penjualan mobil baru tahun fiskal 2025. Suzuki melampaui Honda dan untuk pertama kalinya naik ke posisi kedua, sekaligus menjadi nomor satu dalam penjualan mobil impor. Faktor utamanya adalah kendaraan Suzuki yang diproduksi di India lalu diimpor kembali ke Jepang mendapat sambutan kuat. Suzuki masuk ke pasar otomotif India 44 tahun lalu, saat pasar itu masih hampir belum tergarap. Lompatan perusahaan ini bertumpu pada “manajemen bergaya usaha kecil dan menengah” yang ditekankan mendiang mantan chairman Osamu Suzuki (1930-2024). Sejak meluncurkan Alto seharga 470.000 yen pada 1979, Suzuki dikenal sebagai kekuatan mobil kecil, dan kini menjadi contoh bagaimana pemain yang lebih lemah dapat menang. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "9ac64264d355",
-    "slug": "코스피-상승률-두-배-벌었다수익률-318-터진-비결-투자톡-292401",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T01:12:26.605Z",
-    "updatedAt": "2026-05-09T01:12:26.605Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026042674346",
-    "canonicalUrl": "https://www.hankyung.com/article/2026042674346",
-    "titleFingerprint": "e326a42ccf165fd47457d56dec805bf86d455959",
-    "dedupKeys": [
-      "9ac64264d355026184355448bdbb911f2b4e89c4",
-      "e326a42ccf165fd47457d56dec805bf86d455959",
-      "16ab082f43929081169a2f729719e0a531bd9952"
-    ],
-    "imageUrl": "/images/articles/9ac64264d355.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 상승률 두 배 웃돈 수익률 318%…한국경제 투자톡이 짚은 비결과 의미",
-        "excerpt": "한국경제 투자톡은 코스피 상승률의 두 배를 벌었다고 소개된 투자 사례와 수익률 318%의 배경을 원문 제목 기준으로 조명했다.",
-        "body": "한국경제 투자톡은 hankyung.com 기사에서 코스피 상승률의 두 배를 벌었다고 소개된 투자 사례를 다뤘다. 원문 제목에 따르면 핵심 수치는 수익률 318%다. 제공된 원문 정보에는 구체적인 투자 대상, 기간, 매매 방식, 시장 상황 등 세부 배경은 포함되지 않았다. 따라서 확인 가능한 사실은 코스피 대비 두 배 수준의 성과와 318% 수익률이라는 점이다. 투자자에게는 지수 대비 초과 수익 사례로 참고될 수 있으나, 구체적인 비결과 위험 요인은 원문 확인이 필요하다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSPI-Beating 318% Return: What Hankyung’s Investment Talk Highlighted",
-        "excerpt": "Hankyung’s Investment Talk highlighted, based on the supplied headline, an investment case said to have earned twice the KOSPI gain with a 318% return.",
-        "body": "Hankyung’s Investment Talk covered an investment case on hankyung.com that was described as earning twice the KOSPI’s rate of increase. According to the supplied original headline, the key figure was a 318% return. The provided source information does not include the specific asset, investment period, trading method, or market backdrop. Therefore, the verifiable facts are limited to the KOSPI-beating performance and the stated 318% return. For investors, the case may be read as an example of excess return versus the index, but the exact method and risks require checking the original article. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSPI上昇率の2倍、リターン318%…韓国経済投資トークが示した要点",
-        "excerpt": "韓国経済の投資トークは、提供された見出しを基に、KOSPI上昇率の2倍を稼いだとされる投資事例と318%の収益率を取り上げた。",
-        "body": "韓国経済の投資トークは、hankyung.comの記事でKOSPI上昇率の2倍を稼いだと紹介された投資事例を扱った。提供された原文見出しによると、中心となる数値は収益率318%である。提示された原文情報には、具体的な投資対象、期間、売買方法、市場環境などの詳細な背景は含まれていない。そのため確認できる事実は、KOSPIを上回る成果と318%という収益率に限られる。投資家にとっては指数比の超過収益事例として参考になり得るが、具体的な秘訣やリスクは原文確認が必要だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "跑赢KOSPI两倍、收益率318%：韩经投资Talk聚焦的关键案例",
-        "excerpt": "韩国经济投资Talk根据所给标题，报道了一个被称为赚到KOSPI涨幅两倍、收益率达318%的投资案例。",
-        "body": "韩国经济投资Talk在hankyung.com报道中提到，一个投资案例被介绍为赚到了KOSPI涨幅的两倍。根据提供的原文标题，核心数字是318%的收益率。所给原文信息未包含具体投资标的、投资期间、交易方式或市场背景等细节。因此，目前可核实的事实仅限于其相对KOSPI取得更高表现，以及318%的收益率。对投资者而言，这可作为相对指数获得超额收益的案例参考，但具体方法与风险因素仍需查阅原文。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Rentabilidad del 318% y el doble que el KOSPI: el caso que destacó Hankyung",
-        "excerpt": "Investment Talk de Hankyung destacó, según el titular original, un caso de inversión que habría ganado el doble que la subida del KOSPI y alcanzado un 318%.",
-        "body": "Investment Talk de Hankyung abordó en hankyung.com un caso de inversión descrito como capaz de ganar el doble de la subida del KOSPI. Según el titular original proporcionado, la cifra central es una rentabilidad del 318%. La información suministrada no incluye el activo concreto, el periodo de inversión, el método de compraventa ni el contexto de mercado. Por ello, los hechos verificables se limitan al rendimiento superior frente al KOSPI y al retorno del 318%. Para los inversores, puede servir como ejemplo de rentabilidad excedente frente al índice, pero la clave exacta y los riesgos requieren consultar el artículo original. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Retorno de 318% e dobro do KOSPI: o caso destacado pelo Investment Talk",
-        "excerpt": "O Investment Talk da Hankyung destacou, com base no título fornecido, um caso de investimento que teria rendido o dobro da alta do KOSPI e alcançado 318%.",
-        "body": "O Investment Talk da Hankyung tratou, em hankyung.com, de um caso de investimento descrito como tendo rendido o dobro da taxa de alta do KOSPI. Segundo o título original fornecido, o principal número é uma rentabilidade de 318%. As informações disponíveis não incluem o ativo específico, o período de investimento, a forma de negociação nem o contexto de mercado. Assim, os fatos verificáveis se limitam ao desempenho superior ao KOSPI e ao retorno de 318%. Para investidores, o caso pode servir como exemplo de retorno excedente frente ao índice, mas a estratégia exata e os riscos exigem consulta ao artigo original. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "318% Rendite, doppelt so stark wie der KOSPI: Hankyung Investment Talk im Fokus",
-        "excerpt": "Hankyungs Investment Talk beleuchtete auf Basis der vorliegenden Überschrift einen Anlagefall, der doppelt so viel wie der KOSPI-Anstieg erzielt haben soll.",
-        "body": "Hankyungs Investment Talk behandelte auf hankyung.com einen Anlagefall, der als doppelt so ertragreich wie der Anstieg des KOSPI beschrieben wurde. Laut der bereitgestellten Originalüberschrift steht eine Rendite von 318% im Mittelpunkt. Die vorliegenden Informationen nennen jedoch weder den konkreten Anlagewert noch den Zeitraum, die Handelsmethode oder das Marktumfeld. Damit beschränken sich die überprüfbaren Fakten auf die über dem KOSPI liegende Performance und die Rendite von 318%. Für Anleger kann dies als Beispiel für Überrendite gegenüber einem Index dienen, doch genaue Methode und Risiken erfordern den Blick in den Originalartikel. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Rendement de 318%, deux fois le KOSPI : le cas relevé par Hankyung Investment Talk",
-        "excerpt": "Investment Talk de Hankyung a mis en avant, selon le titre fourni, un cas d’investissement ayant gagné deux fois la hausse du KOSPI avec 318% de rendement.",
-        "body": "Investment Talk de Hankyung a traité sur hankyung.com d’un cas d’investissement présenté comme ayant rapporté deux fois la progression du KOSPI. D’après le titre original fourni, le chiffre clé est un rendement de 318%. Les informations transmises ne précisent pas l’actif concerné, la période d’investissement, la méthode de transaction ni le contexte de marché. Les faits vérifiables se limitent donc à une performance supérieure à celle du KOSPI et à un rendement de 318%. Pour les investisseurs, ce cas peut servir d’exemple de surperformance face à l’indice, mais la méthode exacte et les risques doivent être vérifiés dans l’article original. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "عائد 318% يتجاوز كوسبي بمرتين: ما ركز عليه تقرير هانكيونغ الاستثماري",
-        "excerpt": "سلطت فقرة الاستثمار في هانكيونغ، وفق العنوان المقدم، الضوء على حالة استثمار قيل إنها حققت ضعف صعود كوسبي مع عائد بلغ 318%.",
-        "body": "تناولت فقرة الاستثمار في هانكيونغ عبر hankyung.com حالة استثمار وُصفت بأنها حققت ضعف معدل صعود مؤشر كوسبي. وبحسب العنوان الأصلي المقدم، فإن الرقم الأساسي هو عائد بنسبة 318%. لا تتضمن المعلومات المتاحة تفاصيل عن الأصل المستثمر فيه، أو فترة الاستثمار، أو طريقة التداول، أو خلفية السوق. لذلك تقتصر الحقائق القابلة للتحقق على التفوق على كوسبي والعائد المذكور البالغ 318%. وبالنسبة للمستثمرين، يمكن النظر إلى الحالة كمثال على عائد يفوق المؤشر، لكن معرفة السر المحدد وعوامل المخاطر تتطلب مراجعة المقال الأصلي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSPI से दोगुना 318% रिटर्न: Hankyung Investment Talk ने क्या रेखांकित किया",
-        "excerpt": "Hankyung के Investment Talk ने दिए गए शीर्षक के आधार पर ऐसे निवेश मामले को रेखांकित किया, जिसमें KOSPI बढ़त से दोगुना और 318% रिटर्न बताया गया।",
-        "body": "Hankyung के Investment Talk ने hankyung.com पर ऐसे निवेश मामले को कवर किया जिसे KOSPI की बढ़त दर से दोगुना कमाने वाला बताया गया। दिए गए मूल शीर्षक के अनुसार मुख्य आंकड़ा 318% रिटर्न है। उपलब्ध स्रोत जानकारी में निवेश की विशेष परिसंपत्ति, अवधि, खरीद-बिक्री का तरीका या बाजार पृष्ठभूमि शामिल नहीं है। इसलिए सत्यापित तथ्य KOSPI की तुलना में बेहतर प्रदर्शन और 318% रिटर्न तक सीमित हैं। निवेशकों के लिए यह सूचकांक से अधिक रिटर्न का उदाहरण हो सकता है, लेकिन वास्तविक रणनीति और जोखिम समझने के लिए मूल लेख देखना आवश्यक है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Imbal Hasil 318% Dua Kali Kenaikan KOSPI: Sorotan Investment Talk Hankyung",
-        "excerpt": "Investment Talk Hankyung menyoroti, berdasarkan judul yang diberikan, kasus investasi yang disebut meraih dua kali kenaikan KOSPI dengan imbal hasil 318%.",
-        "body": "Investment Talk Hankyung membahas di hankyung.com sebuah kasus investasi yang digambarkan meraih dua kali tingkat kenaikan KOSPI. Berdasarkan judul asli yang diberikan, angka utamanya adalah imbal hasil 318%. Informasi sumber yang tersedia tidak memuat aset investasi tertentu, periode investasi, metode transaksi, atau latar pasar. Karena itu, fakta yang dapat diverifikasi terbatas pada kinerja yang melampaui KOSPI dan imbal hasil 318%. Bagi investor, kasus ini dapat menjadi contoh kelebihan imbal hasil dibanding indeks, tetapi strategi yang tepat dan faktor risikonya perlu dicek dalam artikel asli. Sumber: hankyung.com"
       }
     }
   }
