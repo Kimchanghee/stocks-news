@@ -1,5 +1,230 @@
 [
   {
+    "id": "db14056a9d34",
+    "slug": "외환-원달러-환율-177원-오른-14717원1530-종가-285449",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T19:23:23.944Z",
+    "updatedAt": "2026-05-09T19:23:23.944Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508122400002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508122400002",
+    "titleFingerprint": "a95115337986a5f84f99a2213de0c3df18bc1ed1",
+    "dedupKeys": [
+      "db14056a9d3482df3a14a8dd5c9afbe945985a35",
+      "a95115337986a5f84f99a2213de0c3df18bc1ed1",
+      "69c982ef20c17ee2c995fc8b2cbd87d20d37d3c5"
+    ],
+    "imageUrl": "/images/articles/db14056a9d34.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원/달러 환율 1,471.7원 마감, 17.7원 오른 15:30 외환 종가",
+        "excerpt": "15시30분 종가 기준 원/달러 환율이 전 거래 기준보다 17.7원 오른 1,471.7원으로 마감했다고 yna.co.kr이 전했다.",
+        "body": "15시30분 종가 기준 원/달러 환율은 1,471.7원으로 마감했다. yna.co.kr에 따르면 이날 원/달러 환율은 17.7원 오른 수준에서 장을 마쳤다. 이번 보도에서 확인된 핵심 수치는 종가 1,471.7원과 상승폭 17.7원이다. 원문은 환율 변동의 구체적 배경이나 추가 시장 요인을 별도로 제시하지 않았다. 이에 따라 투자자와 시장 참가자는 공시된 종가와 상승폭을 중심으로 이후 환율 흐름을 확인할 필요가 있다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Dollar-Won Rate Closes at 1,471.7 Won, Up 17.7 Won at 15:30",
+        "excerpt": "The dollar-won exchange rate closed at 1,471.7 won as of 15:30, up 17.7 won, according to yna.co.kr.",
+        "body": "As of the 15:30 close, the dollar-won exchange rate finished at 1,471.7 won. According to yna.co.kr, the rate ended the session 17.7 won higher. The key figures confirmed in the report are the closing level of 1,471.7 won and the gain of 17.7 won. The original report did not provide specific reasons for the exchange-rate move or additional market factors. Market participants should therefore focus on the reported close and the size of the increase when tracking subsequent currency movements. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ウォン・ドル相場、15時30分終値で1,471.7ウォンに上昇",
+        "excerpt": "yna.co.krによると、15時30分終値基準でウォン・ドル相場は17.7ウォン上昇し、1,471.7ウォンで取引を終えた。",
+        "body": "15時30分の終値基準で、ウォン・ドル相場は1,471.7ウォンで取引を終えた。yna.co.krによると、この日の相場は17.7ウォン上昇した水準で終了した。今回の報道で確認された主要数値は、終値1,471.7ウォンと上昇幅17.7ウォンである。原文では、相場変動の具体的な背景や追加の市場要因は示されていない。そのため市場参加者は、公表された終値と上昇幅を中心に今後の為替動向を確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "韩元兑美元汇率15:30收于1,471.7韩元，上涨17.7韩元",
+        "excerpt": "据yna.co.kr报道，以15:30收盘价为准，韩元兑美元汇率上涨17.7韩元，收于1,471.7韩元。",
+        "body": "以15:30收盘价为准，韩元兑美元汇率收于1,471.7韩元。据yna.co.kr报道，当日韩元兑美元汇率以上涨17.7韩元的水平结束交易。本次报道确认的核心数据为收盘价1,471.7韩元和涨幅17.7韩元。原文未另行说明汇率变动的具体背景或其他市场因素。因此，投资者和市场参与者在关注后续汇率走势时，应以已公布的收盘价和涨幅为主要依据。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Dólar-won cierra en 1.471,7 wones, con alza de 17,7 a las 15:30",
+        "excerpt": "El tipo de cambio dólar-won cerró a las 15:30 en 1.471,7 wones, con un aumento de 17,7 wones, informó yna.co.kr.",
+        "body": "A las 15:30, el tipo de cambio dólar-won cerró en 1.471,7 wones. Según yna.co.kr, la cotización terminó la sesión con un avance de 17,7 wones. Las cifras clave confirmadas en el reporte son el nivel de cierre de 1.471,7 wones y el aumento de 17,7 wones. El texto original no presentó motivos específicos del movimiento cambiario ni factores adicionales del mercado. Por ello, los participantes del mercado deben centrarse en el cierre publicado y en la magnitud del alza al seguir la evolución posterior del tipo de cambio. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Dólar-won fecha a 1.471,7 won, alta de 17,7 won às 15h30",
+        "excerpt": "O câmbio dólar-won fechou às 15h30 em 1.471,7 won, com alta de 17,7 won, segundo informou yna.co.kr.",
+        "body": "Às 15h30, o câmbio dólar-won fechou em 1.471,7 won. Segundo yna.co.kr, a taxa encerrou a sessão com avanço de 17,7 won. Os principais números confirmados na reportagem são o fechamento em 1.471,7 won e a alta de 17,7 won. O texto original não informou razões específicas para a variação cambial nem fatores adicionais de mercado. Assim, investidores e participantes do mercado devem acompanhar os próximos movimentos do câmbio com base no fechamento divulgado e no tamanho da alta. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Dollar-Won-Kurs schließt um 15:30 Uhr bei 1.471,7 Won, plus 17,7",
+        "excerpt": "Der Dollar-Won-Wechselkurs schloss um 15:30 Uhr bei 1.471,7 Won und lag damit 17,7 Won höher, berichtete yna.co.kr.",
+        "body": "Zum Schlusskurs um 15:30 Uhr lag der Dollar-Won-Wechselkurs bei 1.471,7 Won. Laut yna.co.kr beendete der Kurs die Sitzung 17,7 Won höher. Die im Bericht bestätigten Kernzahlen sind der Schlussstand von 1.471,7 Won und der Anstieg um 17,7 Won. Der Originalbericht nannte keine konkreten Gründe für die Wechselkursbewegung und keine weiteren Marktfaktoren. Marktteilnehmer sollten daher bei der Beobachtung der weiteren Entwicklung vor allem den gemeldeten Schlusskurs und das Ausmaß des Anstiegs berücksichtigen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Dollar-won clôture à 1 471,7 wons, en hausse de 17,7 à 15h30",
+        "excerpt": "Le taux dollar-won a clôturé à 15h30 à 1 471,7 wons, en hausse de 17,7 wons, selon yna.co.kr.",
+        "body": "À la clôture de 15h30, le taux de change dollar-won s’est établi à 1 471,7 wons. Selon yna.co.kr, le taux a terminé la séance en hausse de 17,7 wons. Les chiffres clés confirmés par le reportage sont le niveau de clôture de 1 471,7 wons et la progression de 17,7 wons. Le texte original n’a pas fourni de raison précise à ce mouvement de change ni d’autres facteurs de marché. Les investisseurs et intervenants doivent donc suivre l’évolution ultérieure du change en se fondant sur la clôture publiée et l’ampleur de la hausse. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سعر الدولار مقابل الوون يغلق عند 1,471.7 وون مرتفعا 17.7 وون",
+        "excerpt": "أغلق سعر صرف الدولار مقابل الوون عند 1,471.7 وون في ختام الساعة 15:30، مرتفعا 17.7 وون، وفق yna.co.kr.",
+        "body": "عند إغلاق الساعة 15:30، أنهى سعر صرف الدولار مقابل الوون التداول عند 1,471.7 وون. ووفقا لما نقلته yna.co.kr، أغلق السعر مرتفعا بمقدار 17.7 وون. الأرقام الأساسية المؤكدة في التقرير هي مستوى الإغلاق البالغ 1,471.7 وون وحجم الارتفاع البالغ 17.7 وون. ولم يذكر النص الأصلي أسبابا محددة لحركة سعر الصرف أو عوامل سوق إضافية. لذلك ينبغي للمشاركين في السوق متابعة التحركات اللاحقة بالاستناد إلى سعر الإغلاق المعلن وحجم الزيادة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "डॉलर-वॉन दर 15:30 बंद पर 1,471.7 वॉन, 17.7 वॉन की बढ़त",
+        "excerpt": "yna.co.kr के अनुसार, 15:30 बंद भाव पर डॉलर-वॉन विनिमय दर 17.7 वॉन बढ़कर 1,471.7 वॉन पर बंद हुई।",
+        "body": "15:30 के बंद भाव के आधार पर डॉलर-वॉन विनिमय दर 1,471.7 वॉन पर बंद हुई। yna.co.kr के अनुसार, यह दर 17.7 वॉन की बढ़त के साथ सत्र के अंत तक पहुंची। रिपोर्ट में पुष्ट मुख्य आंकड़े 1,471.7 वॉन का बंद स्तर और 17.7 वॉन की वृद्धि हैं। मूल रिपोर्ट में विनिमय दर की इस चाल के ठोस कारण या अतिरिक्त बाजार कारक अलग से नहीं बताए गए। इसलिए निवेशकों और बाजार प्रतिभागियों को आगे की मुद्रा चाल पर नजर रखते समय घोषित बंद भाव और बढ़त के आकार को प्रमुख आधार बनाना चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Kurs Dolar-Won Ditutup 1.471,7 Won, Naik 17,7 Won pada 15:30",
+        "excerpt": "Kurs dolar-won ditutup pada 1.471,7 won pada pukul 15:30, naik 17,7 won, menurut laporan yna.co.kr.",
+        "body": "Pada penutupan pukul 15:30, kurs dolar-won berakhir di 1.471,7 won. Menurut yna.co.kr, kurs tersebut menutup sesi dengan kenaikan 17,7 won. Angka utama yang dikonfirmasi dalam laporan ini adalah level penutupan 1.471,7 won dan kenaikan 17,7 won. Laporan asli tidak menyebutkan alasan spesifik pergerakan kurs maupun faktor pasar tambahan. Karena itu, pelaku pasar perlu memantau pergerakan berikutnya dengan berfokus pada penutupan yang diumumkan dan besarnya kenaikan. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "48d422c47457",
+    "slug": "속보-코스피-상승전환해-또-사상최고7498-마감-834560",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T19:22:25.628Z",
+    "updatedAt": "2026-05-09T19:22:25.628Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508122800008",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508122800008",
+    "titleFingerprint": "48f3f6528d60a2bc3345626140eafa3cb8ff6f28",
+    "dedupKeys": [
+      "48d422c47457bbb03970f5053f29a24bf912c10a",
+      "48f3f6528d60a2bc3345626140eafa3cb8ff6f28",
+      "a75d25362a675acf83f9a12fbd760021875f8b6b"
+    ],
+    "imageUrl": "/images/articles/48d422c47457.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7,498 마감, 상승전환 뒤 또 사상 최고치 경신",
+        "excerpt": "코스피가 상승 전환하며 7,498에 마감해 또 사상 최고치를 기록했다. 원문은 구체적 상승 배경이나 장중 흐름은 추가로 제시하지 않았다.",
+        "body": "코스피가 상승 전환에 성공하며 7,498에 마감했고, 다시 사상 최고치를 경신했다. 보도된 핵심 수치는 종가 7,498이며, 원문 제목은 지수가 상승 전환한 뒤 또 최고 수준으로 거래를 마쳤다는 점을 강조했다. 다만 제공된 원문에는 상승 폭, 장중 고저점, 업종별 흐름, 매수 주체, 환율이나 해외 증시와의 연계 등 세부 배경은 포함되지 않았다. 이번 마감 수치는 국내 증시 대표 지수의 최고치 기록이라는 점에서 시장 흐름을 확인하는 기준으로 주목된다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "KOSPI Closes at 7,498 After Turnaround, Sets Record High Again",
+        "excerpt": "The KOSPI turned higher and closed at 7,498, marking another all-time high. The source did not provide further details on drivers or intraday moves.",
+        "body": "The KOSPI reversed into positive territory and closed at 7,498, setting another all-time high. The key reported figure is the closing level of 7,498, and the original headline emphasized that the index ended at a fresh record after turning upward. The provided source text did not include the size of the gain, intraday highs or lows, sector trends, investor flows, currency moves, or links to overseas markets. The closing level is notable as a record for South Korea’s benchmark stock index and serves as a reference point for market direction. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "KOSPIが7,498で取引終了、上昇転換後に再び史上最高値",
+        "excerpt": "KOSPIは上昇に転じ、7,498で取引を終えて再び史上最高値を記録した。原文は上昇要因や取引時間中の動きの詳細を示していない。",
+        "body": "KOSPIは上昇転換に成功し、7,498で取引を終え、再び史上最高値を更新した。報じられた中心的な数値は終値7,498であり、原文の見出しは指数が上昇に転じた後、再び最高水準で取引を終えた点を強調している。ただし、提供された原文には上昇幅、取引時間中の高値・安値、業種別の動き、投資主体別の売買、為替や海外市場との関連などの詳しい背景は含まれていない。この終値は韓国株式市場の代表指数の最高値として、市場の流れを確認する基準として注目される。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "KOSPI收于7,498点，转涨后再创历史最高纪录",
+        "excerpt": "KOSPI转为上涨并收于7,498点，再次创下历史最高纪录。原文未进一步说明上涨背景、盘中走势或相关市场因素。",
+        "body": "KOSPI成功转为上涨，最终收于7,498点，并再次刷新历史最高纪录。报道中的核心数字是收盘点位7,498点，原文标题强调该指数在转涨后又一次以最高水平收盘。不过，所提供的原文没有包含涨幅、盘中高低点、行业表现、投资主体买卖动向、汇率变化或海外股市关联等具体背景。此次收盘点位作为韩国股市代表性指数的最高纪录，成为观察市场走势的重要参考。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "KOSPI cierra en 7.498 tras girar al alza y marca otro récord",
+        "excerpt": "El KOSPI giró al alza y cerró en 7.498, registrando otro máximo histórico. La fuente no detalló causas, variación exacta ni movimiento intradía.",
+        "body": "El KOSPI logró pasar a terreno positivo y cerró en 7.498, renovando otra vez su máximo histórico. La cifra central reportada es el nivel de cierre de 7.498, y el titular original destacó que el índice terminó en un nuevo récord después de girar al alza. Sin embargo, el texto proporcionado no incluye el porcentaje de subida, máximos o mínimos intradía, comportamiento por sectores, flujos de inversores, movimientos cambiarios ni vínculos con mercados extranjeros. Este cierre destaca como un récord del índice bursátil de referencia de Corea del Sur y sirve como punto de referencia para seguir la dirección del mercado. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "KOSPI fecha em 7.498 após virar para alta e renova recorde",
+        "excerpt": "O KOSPI virou para alta e fechou em 7.498, marcando outro recorde histórico. A fonte não informou detalhes sobre motivos ou movimento intradiário.",
+        "body": "O KOSPI conseguiu virar para o campo positivo e fechou em 7.498, renovando novamente seu recorde histórico. O dado central divulgado é o nível de fechamento de 7.498, e o título original destacou que o índice encerrou em novo patamar recorde após passar a subir. No entanto, o texto fornecido não inclui a variação, máximas ou mínimas intradiárias, desempenho por setor, fluxos de investidores, câmbio ou relação com bolsas externas. Esse fechamento se destaca como recorde do principal índice acionário da Coreia do Sul e serve como referência para acompanhar a direção do mercado. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "KOSPI schließt bei 7.498 nach Wende ins Plus und erreicht Rekord",
+        "excerpt": "Der KOSPI drehte ins Plus und schloss bei 7.498 Punkten, womit er erneut ein Allzeithoch markierte. Details zu Ursachen oder Tagesverlauf fehlen.",
+        "body": "Der KOSPI drehte in positives Terrain und schloss bei 7.498 Punkten, womit er erneut ein Allzeithoch erreichte. Die zentrale gemeldete Zahl ist der Schlussstand von 7.498, und die ursprüngliche Überschrift betonte, dass der Index nach der Aufwärtswende wieder auf Rekordniveau aus dem Handel ging. Der bereitgestellte Ausgangstext enthält jedoch keine Angaben zur Höhe des Anstiegs, zu Tageshoch oder Tagestief, Branchenbewegungen, Anlegerströmen, Wechselkursen oder Verbindungen zu Auslandsmärkten. Der Schlussstand ist als Rekord des südkoreanischen Leitindex ein wichtiger Bezugspunkt für die Marktbeobachtung. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Le KOSPI clôture à 7 498 après un rebond et signe un nouveau record",
+        "excerpt": "Le KOSPI est repassé en hausse et a clôturé à 7 498, inscrivant un nouveau plus-haut historique. La source ne détaille pas les causes ni l’intraday.",
+        "body": "Le KOSPI est parvenu à repasser en territoire positif et a clôturé à 7 498, battant de nouveau son record historique. Le chiffre clé rapporté est le niveau de clôture de 7 498, et le titre original souligne que l’indice a terminé à un nouveau sommet après son retournement à la hausse. Le texte fourni ne précise toutefois pas l’ampleur de la progression, les plus hauts ou plus bas de séance, les mouvements sectoriels, les flux d’investisseurs, le change ni les liens avec les marchés étrangers. Ce niveau de clôture constitue un record pour l’indice de référence sud-coréen et sert de repère pour suivre la tendance du marché. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "كوسبي يغلق عند 7,498 بعد تحوله للصعود ويسجل قمة تاريخية جديدة",
+        "excerpt": "تحول مؤشر كوسبي إلى الارتفاع وأغلق عند 7,498 نقطة، مسجلا قمة تاريخية جديدة. ولم يورد النص الأصلي تفاصيل إضافية عن الأسباب أو حركة الجلسة.",
+        "body": "تمكن مؤشر كوسبي من التحول إلى المنطقة الإيجابية وأغلق عند 7,498 نقطة، ليجدد مرة أخرى أعلى مستوى تاريخي له. الرقم الأساسي الوارد في الخبر هو مستوى الإغلاق البالغ 7,498 نقطة، وقد شدد العنوان الأصلي على أن المؤشر أنهى التداول عند مستوى قياسي جديد بعد تحوله للصعود. لكن النص المقدم لا يتضمن حجم الارتفاع، أو أعلى وأدنى مستويات الجلسة، أو أداء القطاعات، أو تحركات المستثمرين، أو أسعار الصرف، أو الارتباط بالأسواق الخارجية. ويبرز هذا الإغلاق بوصفه رقما قياسيا للمؤشر الرئيسي لسوق الأسهم الكورية الجنوبية ومرجعا لمتابعة اتجاه السوق. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "KOSPI 7,498 पर बंद, तेजी में लौटकर फिर सर्वकालिक उच्च स्तर",
+        "excerpt": "KOSPI तेजी में लौटते हुए 7,498 पर बंद हुआ और फिर सर्वकालिक उच्च स्तर दर्ज किया। मूल स्रोत ने वजहों या दिनभर की चाल का विवरण नहीं दिया।",
+        "body": "KOSPI सकारात्मक क्षेत्र में लौटने में सफल रहा और 7,498 पर बंद हुआ, जिससे उसने फिर सर्वकालिक उच्च स्तर बनाया। रिपोर्ट में दिया गया मुख्य आंकड़ा 7,498 का बंद स्तर है, और मूल शीर्षक ने यह रेखांकित किया कि सूचकांक तेजी में लौटने के बाद फिर रिकॉर्ड स्तर पर बंद हुआ। हालांकि उपलब्ध मूल पाठ में बढ़त का आकार, दिन के उच्च या निम्न स्तर, सेक्टरवार रुझान, निवेशकों की खरीद-बिक्री, विनिमय दर या विदेशी बाजारों से संबंध जैसे विवरण शामिल नहीं हैं। यह बंद स्तर दक्षिण कोरिया के प्रमुख शेयर सूचकांक के रिकॉर्ड के रूप में बाजार दिशा देखने का एक संदर्भ बिंदु है। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "KOSPI Ditutup di 7.498 Setelah Berbalik Naik, Cetak Rekor Lagi",
+        "excerpt": "KOSPI berbalik naik dan ditutup di 7.498, kembali mencetak rekor tertinggi sepanjang masa. Sumber tidak merinci pemicu atau pergerakan intrahari.",
+        "body": "KOSPI berhasil berbalik ke zona positif dan ditutup di 7.498, kembali memperbarui rekor tertinggi sepanjang masa. Angka utama yang dilaporkan adalah level penutupan 7.498, dan judul asli menekankan bahwa indeks mengakhiri perdagangan di level tertinggi baru setelah berbalik naik. Namun, teks sumber yang diberikan tidak memuat besaran kenaikan, titik tertinggi atau terendah intrahari, pergerakan sektor, arus investor, nilai tukar, maupun kaitan dengan pasar luar negeri. Level penutupan ini menonjol sebagai rekor indeks acuan pasar saham Korea Selatan dan menjadi acuan untuk membaca arah pasar. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "3876bdc91fa5",
+    "slug": "부산은행-부산-수출입기업에-1천억원-규모-대출-467272",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T19:21:27.210Z",
+    "updatedAt": "2026-05-09T19:21:27.210Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508124200051",
+    "titleFingerprint": "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
+    "dedupKeys": [
+      "3876bdc91fa5e112bc06bc55ebc81932a82c9585",
+      "b507c2b5a35665d8ab70f0046480b015eadc7ebe",
+      "a10463ca72a83da5aa6c25249c27822d01841d8b"
+    ],
+    "imageUrl": "/images/articles/3876bdc91fa5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부산은행, 부산 수출입기업에 1천억원 대출 지원 나선다",
+        "excerpt": "BNK부산은행은 8일 중동분쟁 장기화와 글로벌 공급망 불안으로 어려움을 겪는 부산 지역 수출입기업을 지원하기 위해 1천억원 규모 대출을 제공한다고 밝혔다.",
+        "body": "BNK부산은행은 8일 부산 지역 수출입기업을 대상으로 1천억원 규모의 대출 지원에 나선다고 밝혔다. 이번 지원은 중동분쟁 장기화와 글로벌 공급망 불안으로 어려움을 겪는 지역 기업의 자금 부담을 덜기 위한 조치다. 부산은 수출입 비중이 큰 기업들이 많은 지역인 만큼, 외부 변수에 따른 물류와 원자재 조달 부담이 기업 경영에 영향을 줄 수 있다. 부산은행은 이번 대출을 통해 지역 수출입기업의 유동성 확보를 돕고 경영 안정에 힘을 보탤 계획이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Busan Bank to Provide 100 Billion Won in Loans to Local Import-Export Firms",
+        "excerpt": "BNK Busan Bank said on the 8th it will provide 100 billion won in loans to Busan import-export firms facing prolonged Middle East conflict and global supply chain uncertainty.",
+        "body": "BNK Busan Bank said on the 8th that it will provide 100 billion won in loans to import-export companies in Busan. The measure is aimed at easing funding pressure on local businesses struggling with the prolonged Middle East conflict and instability in global supply chains. Busan has many companies with significant import and export activity, making logistics and raw material procurement burdens vulnerable to external disruptions. Through the loan program, Busan Bank plans to help local import-export firms secure liquidity and support stable management. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "釜山銀行、釜山の輸出入企業に1,000億ウォン融資支援へ",
+        "excerpt": "BNK釜山銀行は8日、中東紛争の長期化と世界的な供給網不安で困難を抱える釜山地域の輸出入企業を支援するため、1,000億ウォン規模の融資を行うと明らかにした。",
+        "body": "BNK釜山銀行は8日、釜山地域の輸出入企業を対象に1,000億ウォン規模の融資支援に乗り出すと明らかにした。今回の支援は、中東紛争の長期化と世界的な供給網の不安定化により困難を抱える地域企業の資金負担を軽減するための措置だ。釜山は輸出入比率の高い企業が多い地域であり、外部要因による物流や原材料調達の負担が企業経営に影響を与え得る。釜山銀行は今回の融資を通じ、地域の輸出入企業の流動性確保を支援し、経営安定に力を添える計画だ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "釜山银行将向釜山进出口企业提供1000亿韩元贷款支持",
+        "excerpt": "BNK釜山银行8日表示，将为因中东冲突长期化和全球供应链不稳定而面临困难的釜山地区进出口企业提供1000亿韩元规模贷款。",
+        "body": "BNK釜山银行8日表示，将面向釜山地区进出口企业提供1000亿韩元规模的贷款支持。此次措施旨在缓解当地企业因中东冲突长期化和全球供应链不稳定所承受的资金压力。釜山拥有较多进出口比重较高的企业，外部变量可能加重物流和原材料采购负担，并影响企业经营。釜山银行计划通过此次贷款帮助当地进出口企业 확보流动性，并为经营稳定提供支持。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Busan Bank dará 100.000 millones de wones en préstamos a importadores y exportadores",
+        "excerpt": "BNK Busan Bank anunció el día 8 que ofrecerá préstamos por 100.000 millones de wones a empresas de importación y exportación de Busan afectadas por el conflicto en Oriente Medio y la inestabilidad de las cadenas de suministro.",
+        "body": "BNK Busan Bank informó el día 8 que otorgará préstamos por 100.000 millones de wones a empresas de importación y exportación de la región de Busan. La medida busca aliviar la carga financiera de compañías locales que atraviesan dificultades por la prolongación del conflicto en Oriente Medio y la inestabilidad de las cadenas globales de suministro. Busan cuenta con muchas empresas con alta actividad importadora y exportadora, por lo que los factores externos pueden afectar la logística y el abastecimiento de materias primas. Con estos préstamos, el banco prevé ayudar a asegurar liquidez y apoyar la estabilidad empresarial. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Busan Bank vai oferecer 100 bilhões de won em empréstimos a empresas de comércio exterior",
+        "excerpt": "O BNK Busan Bank informou no dia 8 que oferecerá 100 bilhões de won em empréstimos a empresas de importação e exportação de Busan afetadas pelo conflito no Oriente Médio e pela instabilidade das cadeias globais.",
+        "body": "O BNK Busan Bank informou no dia 8 que oferecerá 100 bilhões de won em empréstimos a empresas de importação e exportação da região de Busan. A medida busca aliviar a pressão financeira sobre companhias locais que enfrentam dificuldades devido ao prolongamento do conflito no Oriente Médio e à instabilidade das cadeias globais de suprimento. Busan reúne muitas empresas com forte participação em importações e exportações, e fatores externos podem elevar custos de logística e de obtenção de matérias-primas. Com o programa, o banco pretende ajudar essas empresas a garantir liquidez e apoiar a estabilidade da gestão. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Busan Bank stellt Import- und Exportunternehmen 100 Mrd. Won an Krediten bereit",
+        "excerpt": "Die BNK Busan Bank teilte am 8. mit, sie werde Import- und Exportunternehmen in Busan mit Krediten über 100 Milliarden Won unterstützen, da der Nahostkonflikt andauert und globale Lieferketten unsicher bleiben.",
+        "body": "Die BNK Busan Bank teilte am 8. mit, dass sie Import- und Exportunternehmen in der Region Busan Kredite im Umfang von 100 Milliarden Won bereitstellen wird. Die Maßnahme soll die Finanzierungsbelastung lokaler Unternehmen verringern, die unter dem anhaltenden Nahostkonflikt und der Unsicherheit globaler Lieferketten leiden. In Busan gibt es viele Unternehmen mit hohem Import- und Exportanteil, sodass externe Faktoren Logistik und Rohstoffbeschaffung belasten und die Unternehmensführung beeinflussen können. Mit den Krediten will die Bank die Liquidität der Firmen stärken und zur Stabilisierung des Geschäftsbetriebs beitragen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Busan Bank va prêter 100 milliards de wons aux entreprises d’import-export de Busan",
+        "excerpt": "BNK Busan Bank a annoncé le 8 qu’elle accorderait 100 milliards de wons de prêts aux entreprises d’import-export de Busan touchées par la prolongation du conflit au Moyen-Orient et l’instabilité des chaînes d’approvisionnement.",
+        "body": "BNK Busan Bank a annoncé le 8 qu’elle mettrait en place 100 milliards de wons de prêts pour les entreprises d’import-export de la région de Busan. Cette mesure vise à alléger la pression financière sur les sociétés locales confrontées aux difficultés liées à la prolongation du conflit au Moyen-Orient et à l’instabilité des chaînes d’approvisionnement mondiales. Busan compte de nombreuses entreprises fortement dépendantes des importations et des exportations, ce qui rend la logistique et l’approvisionnement en matières premières sensibles aux facteurs externes. Par ces prêts, la banque entend soutenir leur liquidité et contribuer à la stabilité de leur gestion. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "بنك بوسان يقدم قروضا بقيمة 100 مليار وون لشركات الاستيراد والتصدير",
+        "excerpt": "أعلن بنك BNK بوسان في 8 من الشهر أنه سيقدم قروضا بقيمة 100 مليار وون لدعم شركات الاستيراد والتصدير في بوسان المتضررة من إطالة أمد نزاع الشرق الأوسط واضطراب سلاسل الإمداد العالمية.",
+        "body": "أعلن بنك BNK بوسان في 8 من الشهر أنه سيقدم قروضا بقيمة 100 مليار وون لشركات الاستيراد والتصدير في منطقة بوسان. وتهدف هذه الخطوة إلى تخفيف أعباء التمويل عن الشركات المحلية التي تواجه صعوبات بسبب إطالة أمد نزاع الشرق الأوسط وعدم استقرار سلاسل الإمداد العالمية. وتضم بوسان عددا كبيرا من الشركات ذات الاعتماد الكبير على الاستيراد والتصدير، ما يجعل تكاليف الخدمات اللوجستية وتأمين المواد الخام عرضة للتأثر بالعوامل الخارجية. ومن خلال هذه القروض، يعتزم البنك مساعدة الشركات المحلية على تأمين السيولة ودعم استقرار الإدارة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बुसान बैंक स्थानीय आयात-निर्यात कंपनियों को 100 अरब वॉन का ऋण देगा",
+        "excerpt": "BNK बुसान बैंक ने 8 तारीख को कहा कि वह मध्य पूर्व संघर्ष के लंबे खिंचने और वैश्विक आपूर्ति श्रृंखला अस्थिरता से जूझ रहीं बुसान की आयात-निर्यात कंपनियों को 100 अरब वॉन का ऋण देगा।",
+        "body": "BNK बुसान बैंक ने 8 तारीख को बताया कि वह बुसान क्षेत्र की आयात-निर्यात कंपनियों के लिए 100 अरब वॉन के ऋण समर्थन की शुरुआत करेगा। यह कदम मध्य पूर्व संघर्ष के लंबे खिंचने और वैश्विक आपूर्ति श्रृंखला की अस्थिरता से कठिनाई झेल रहीं स्थानीय कंपनियों की वित्तीय 부담 कम करने के लिए है। बुसान में आयात और निर्यात पर अधिक निर्भर कई कंपनियां हैं, इसलिए बाहरी परिस्थितियां लॉजिस्टिक्स और कच्चे माल की खरीद पर दबाव डाल सकती हैं और कारोबार संचालन को प्रभावित कर सकती हैं। इस ऋण के जरिए बैंक स्थानीय कंपनियों की तरलता 확보 करने और प्रबंधन स्थिरता में मदद करने की योजना रखता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Busan Bank Siapkan Pinjaman 100 Miliar Won untuk Perusahaan Ekspor-Impor Busan",
+        "excerpt": "BNK Busan Bank pada tanggal 8 menyatakan akan menyediakan pinjaman 100 miliar won bagi perusahaan ekspor-impor di Busan yang terdampak konflik Timur Tengah berkepanjangan dan ketidakstabilan rantai pasok global.",
+        "body": "BNK Busan Bank pada tanggal 8 menyatakan akan memberikan dukungan pinjaman senilai 100 miliar won kepada perusahaan ekspor-impor di wilayah Busan. Langkah ini ditujukan untuk meringankan beban pendanaan perusahaan lokal yang menghadapi kesulitan akibat konflik Timur Tengah yang berkepanjangan dan ketidakstabilan rantai pasok global. Busan memiliki banyak perusahaan dengan porsi ekspor dan impor yang besar, sehingga faktor eksternal dapat memengaruhi logistik serta pengadaan bahan baku. Melalui pinjaman ini, Busan Bank berencana membantu perusahaan ekspor-impor lokal memperoleh likuiditas dan mendukung stabilitas manajemen. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "f8d73f8b318b",
     "slug": "코스피-상승-전환해-7500선-턱밑서-마감또-사상-최고치-198023",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Harga Nintendo Switch naik: OLED dan model standar bertambah 50.000 won mulai tanggal 25",
         "excerpt": "Nintendo Korea akan menaikkan harga Switch OLED dan model standar masing-masing 50.000 won mulai tanggal 25, karena perubahan pasar termasuk chip dan kurs.",
         "body": "Nintendo Korea akan menaikkan harga eceran yang disarankan untuk konsol Nintendo Switch di Korea mulai tanggal 25 bulan ini. Nintendo Switch OLED naik 50.000 won dari 415.000 won menjadi 465.000 won, sementara model standar juga naik 50.000 won dari 360.000 won menjadi 410.000 won. Switch Lite naik 30.000 won dari 249.800 won menjadi 279.800 won. Perusahaan menjelaskan bahwa keputusan ini diambil setelah meninjau kelayakan bisnis global ke depan di tengah berbagai perubahan lingkungan pasar. Kenaikan harga semikonduktor secara global dan fluktuasi nilai tukar disebut sebagai faktor utama. Konsol generasi berikutnya Nintendo Switch 2 juga dijadwalkan naik harga pada September, tetapi harga dan jadwal penerapan rinci akan diumumkan kemudian. Sumber: rss.donga.com."
-      }
-    }
-  },
-  {
-    "id": "2c84053585cd",
-    "slug": "중앙일보-ma-매각설-유포자-고소-중앙그룹-차입금-부담에-중앙일보-jtbc-사옥-매각-추진-706894",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T10:26:42.132Z",
-    "updatedAt": "2026-05-09T10:26:42.132Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133884293/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133884293/1",
-    "titleFingerprint": "1e3003f4cecbc7965bf57c6488241a1ec9c6aec6",
-    "dedupKeys": [
-      "2c84053585cdb859edc42498cc86fccbd0810487",
-      "1e3003f4cecbc7965bf57c6488241a1ec9c6aec6",
-      "ba65e4b740a80eb3e86c428f0e17d8e9714cc2e7"
-    ],
-    "imageUrl": "/images/articles/2c84053585cd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중앙일보 M&A 매각설 고소…중앙그룹은 사옥 매각 추진",
-        "excerpt": "중앙일보는 8일 M&A 매각설을 허위로 유포한 성명불상자를 고소했고, 중앙그룹은 차입금 부담 속 중앙일보·JTBC 사옥 매각을 추진한다.",
-        "body": "중앙일보는 8일 자사가 인수합병(M&A) 시장에 매물로 나왔다는 허위 메시지를 작성·유포한 성명불상자를 명예훼손 및 업무방해 혐의로 서울 마포경찰서에 고소했다. 회사에 따르면 해당 메시지는 6일 오후 카카오톡 오픈채팅방 등을 통해 퍼졌으며, 약 1600명이 참여한 방에서 시작돼 다른 채팅방으로 2·3차 확산됐다. 중앙일보는 “회사와 일체 관련이 없는 명백한 허위 사실”이라며 내부 경영 위기나 지배구조 불안정으로 오인하게 만들었다고 밝혔다. 한편 중앙그룹은 재무구조 악화와 신용등급 하향 속 차입금 부담을 줄이기 위해 중앙일보·JTBC 사옥 등 핵심 부동산 매각을 추진한다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "JoongAng Ilbo Sues Over M&A Sale Rumor as Group Plans HQ Sales",
-        "excerpt": "JoongAng Ilbo filed a complaint on May 8 over a false M&A sale rumor, while JoongAng Group is pursuing sales of JoongAng Ilbo and JTBC office buildings amid debt pressure.",
-        "body": "JoongAng Ilbo said on May 8 it filed a complaint with Seoul Mapo Police Station against an unidentified person accused of writing and spreading a false message that the company had been put up for sale in the M&A market. According to the company, the message circulated on KakaoTalk open chat rooms on the afternoon of May 6, beginning in a room with about 1,600 participants and then spreading to multiple other chats. JoongAng Ilbo called it a clearly false claim with no connection to the company, saying it could mislead people into believing the firm faced a serious management crisis or governance instability. Separately, JoongAng Group is moving to sell key real estate assets, including JoongAng Ilbo and JTBC office buildings, as it seeks asset liquidity after financial deterioration and a credit rating downgrade. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "中央日報がM&A売却説で告訴、中央グループは社屋売却を推進",
-        "excerpt": "中央日報は8日、M&A売却説を虚偽として流布した氏名不詳者を告訴し、中央グループは借入負担の中で中央日報・JTBC社屋売却を進める。",
-        "body": "中央日報は8日、自社がM&A市場に売りに出されたという虚偽のメッセージを作成・流布した氏名不詳者を、名誉毀損および業務妨害の疑いでソウル麻浦警察署に告訴した。同社によると、メッセージは6日午後、カカオトークのオープンチャットなどで広がり、約1600人が参加する部屋から始まって複数の別のチャットへ二次、三次拡散した。中央日報は「会社とは一切関係のない明白な虚偽事実」とし、深刻な内部経営危機や支配構造の不安定があるかのように誤認させたと説明した。一方、中央グループは財務構造の悪化と信用格付け引き下げを受け、借入金負担の軽減に向けて中央日報・JTBC社屋など中核不動産の売却を進める。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "中央日报起诉M&A出售传言散布者，中央集团推进大楼出售",
-        "excerpt": "中央日报8日就虚假M&A出售传言起诉身份不明者；中央集团则在借款负担下推进出售中央日报、JTBC办公楼等核心资产。",
-        "body": "中央日报8日表示，已向首尔麻浦警察署起诉一名身份不明者，指控其编写并散布“中央日报已进入M&A市场待售”的虚假消息，涉嫌名誉毁损和妨碍业务。公司称，该消息于6日下午通过KakaoTalk开放聊天室等渠道传播，最初所在聊天室约有1600名参与者，随后又扩散至多个其他聊天室。中央日报表示，这属于“与公司毫无关系的明确虚假事实”，使外界误以为公司正经历严重内部经营危机或治理结构不稳定。与此同时，中央集团因财务结构恶化和信用评级下调，正推进出售中央日报、JTBC办公楼等核心房地产，以实现资产流动化并应对借款负担。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "JoongAng Ilbo demanda por rumor de venta M&A; el grupo vendería sedes",
-        "excerpt": "JoongAng Ilbo denunció el 8 de mayo a un desconocido por difundir un falso rumor de venta M&A, mientras JoongAng Group impulsa la venta de sedes por presión de deuda.",
-        "body": "JoongAng Ilbo informó que el 8 de mayo presentó una denuncia ante la comisaría de Mapo, en Seúl, contra una persona no identificada por presunta difamación y obstrucción de negocios tras redactar y difundir un mensaje falso que afirmaba que la compañía estaba a la venta en el mercado de M&A. Según la empresa, el mensaje circuló la tarde del 6 de mayo por salas abiertas de KakaoTalk, incluida una con unas 1.600 personas, y luego se propagó a otros chats. JoongAng Ilbo dijo que era un hecho claramente falso y sin relación con la compañía, capaz de inducir a creer que sufría una grave crisis interna o inestabilidad de gobierno corporativo. A la vez, JoongAng Group impulsa la venta de activos inmobiliarios clave, como los edificios de JoongAng Ilbo y JTBC, tras el deterioro financiero y la rebaja de calificación crediticia. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "JoongAng Ilbo processa boato de venda M&A; grupo avança com sedes",
-        "excerpt": "O JoongAng Ilbo denunciou em 8 de maio um autor desconhecido por falso boato de venda M&A, enquanto o JoongAng Group busca vender sedes sob pressão de dívida.",
-        "body": "O JoongAng Ilbo informou que, em 8 de maio, apresentou queixa à delegacia de Mapo, em Seul, contra uma pessoa não identificada acusada de difamação e obstrução de negócios por redigir e espalhar uma mensagem falsa dizendo que a empresa havia sido colocada à venda no mercado de M&A. Segundo a companhia, a mensagem circulou na tarde de 6 de maio por salas abertas do KakaoTalk, começando em uma sala com cerca de 1.600 participantes e depois se espalhando para outros chats. O JoongAng Ilbo afirmou que se trata de informação claramente falsa e sem ligação com a empresa, capaz de levar à percepção de crise interna grave ou instabilidade de governança. Paralelamente, o JoongAng Group avança com a venda de imóveis centrais, incluindo os prédios do JoongAng Ilbo e da JTBC, após deterioração financeira e rebaixamento de crédito. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "JoongAng Ilbo klagt wegen M&A-Verkaufsgerücht, Gruppe plant Immobilienverkauf",
-        "excerpt": "JoongAng Ilbo zeigte am 8. Mai einen unbekannten Verbreiter eines falschen M&A-Verkaufsgerüchts an; JoongAng Group plant wegen Schuldenlast den Verkauf zentraler Gebäude.",
-        "body": "JoongAng Ilbo teilte mit, am 8. Mai bei der Polizeistation Mapo in Seoul Anzeige gegen eine unbekannte Person erstattet zu haben. Der Vorwurf lautet auf Verleumdung und Geschäftsbehinderung, nachdem eine falsche Nachricht verbreitet worden war, wonach das Unternehmen im M&A-Markt zum Verkauf stehe. Nach Angaben des Unternehmens kursierte die Nachricht am Nachmittag des 6. Mai in offenen KakaoTalk-Chaträumen, darunter einem Raum mit rund 1.600 Teilnehmern, und wurde anschließend in weitere Chats weitergetragen. JoongAng Ilbo nannte die Behauptung eindeutig falsch und ohne jeden Bezug zum Unternehmen; sie könne den Eindruck einer schweren internen Managementkrise oder instabiler Eigentümerstrukturen erzeugen. Gleichzeitig treibt JoongAng Group wegen verschlechterter Finanzlage und herabgestufter Bonität den Verkauf wichtiger Immobilien voran, darunter die Gebäude von JoongAng Ilbo und JTBC. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "JoongAng Ilbo porte plainte pour rumeur de vente M&A, le groupe vendrait des sièges",
-        "excerpt": "JoongAng Ilbo a porté plainte le 8 mai contre l’auteur présumé d’une fausse rumeur de vente M&A, tandis que JoongAng Group prépare des ventes d’immeubles sous pression d’endettement.",
-        "body": "JoongAng Ilbo a annoncé avoir déposé plainte le 8 mai auprès du commissariat de Mapo, à Séoul, contre une personne non identifiée accusée d’avoir rédigé et diffusé un faux message affirmant que l’entreprise était mise en vente sur le marché des M&A. Selon la société, le message a circulé l’après-midi du 6 mai dans des salons ouverts KakaoTalk, dont un réunissant environ 1 600 participants, avant d’être relayé dans plusieurs autres discussions. JoongAng Ilbo a qualifié ces propos de faits manifestement faux et sans lien avec l’entreprise, susceptibles de faire croire à une grave crise de gestion interne ou à une instabilité de gouvernance. Parallèlement, JoongAng Group cherche à vendre des actifs immobiliers clés, dont les immeubles de JoongAng Ilbo et de JTBC, après une détérioration financière et un abaissement de sa note de crédit. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "جونغ آنغ إلبو تقاضي مروّج شائعة بيع M&A والمجموعة تمضي ببيع مقار",
-        "excerpt": "قدمت جونغ آنغ إلبو في 8 مايو شكوى ضد مجهول لنشره شائعة كاذبة عن بيعها في سوق M&A، بينما تمضي جونغ آنغ غروب ببيع مقار تحت ضغط الديون.",
-        "body": "قالت جونغ آنغ إلبو إنها قدمت في 8 مايو شكوى إلى مركز شرطة مابو في سيول ضد شخص مجهول بتهم التشهير وعرقلة الأعمال، بعد كتابة ونشر رسالة كاذبة تفيد بأن الشركة عُرضت للبيع في سوق عمليات الاندماج والاستحواذ. ووفق الشركة، انتشرت الرسالة بعد ظهر 6 مايو عبر غرف دردشة مفتوحة على كاكاوتوك، بينها غرفة تضم نحو 1600 مشارك، ثم تكررت في غرف أخرى. ووصفت جونغ آنغ إلبو ذلك بأنه ادعاء كاذب بوضوح ولا صلة له بالشركة، وقد يدفع الناس إلى الاعتقاد بوجود أزمة إدارية داخلية خطيرة أو عدم استقرار في هيكل الحوكمة. وفي الوقت نفسه، تمضي جونغ آنغ غروب في بيع أصول عقارية رئيسية، منها مباني جونغ آنغ إلبو وJTBC، بعد تدهور هيكلها المالي وخفض تصنيفها الائتماني. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "JoongAng Ilbo ने M&A बिक्री अफवाह पर शिकायत की, समूह इमारतें बेचेगा",
-        "excerpt": "JoongAng Ilbo ने 8 मई को झूठी M&A बिक्री अफवाह फैलाने वाले अज्ञात व्यक्ति के खिलाफ शिकायत दी, जबकि JoongAng Group कर्ज दबाव में प्रमुख कार्यालय भवन बेचने की तैयारी कर रहा है।",
-        "body": "JoongAng Ilbo ने कहा कि उसने 8 मई को सियोल के मापो पुलिस स्टेशन में एक अज्ञात व्यक्ति के खिलाफ मानहानि और कारोबार में बाधा के आरोप में शिकायत दर्ज कराई। आरोप है कि उस व्यक्ति ने यह झूठा संदेश लिखा और फैलाया कि कंपनी M&A बाजार में बिक्री के लिए लाई गई है। कंपनी के अनुसार, यह संदेश 6 मई की दोपहर KakaoTalk के खुले चैट रूमों में फैला, जिनमें लगभग 1,600 प्रतिभागियों वाला एक कमरा भी था, और बाद में कई अन्य चैट में दोबारा प्रसारित हुआ। JoongAng Ilbo ने इसे कंपनी से पूरी तरह असंबंधित स्पष्ट झूठ बताया और कहा कि इससे गंभीर आंतरिक प्रबंधन संकट या शासन अस्थिरता की गलत धारणा बन सकती थी। इसी बीच, वित्तीय स्थिति बिगड़ने और क्रेडिट रेटिंग घटने के बाद JoongAng Group कर्ज बोझ कम करने के लिए JoongAng Ilbo और JTBC कार्यालय भवनों सहित मुख्य रियल एस्टेट संपत्तियों की बिक्री आगे बढ़ा रहा है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "JoongAng Ilbo Gugat Rumor Penjualan M&A, Grup Dorong Penjualan Gedung",
-        "excerpt": "JoongAng Ilbo pada 8 Mei melaporkan penyebar rumor palsu penjualan M&A, sementara JoongAng Group mendorong penjualan gedung JoongAng Ilbo dan JTBC di tengah beban pinjaman.",
-        "body": "JoongAng Ilbo menyatakan pada 8 Mei telah mengajukan pengaduan ke Kantor Polisi Mapo Seoul terhadap seseorang yang belum diketahui identitasnya atas dugaan pencemaran nama baik dan gangguan usaha. Orang itu dituduh menulis dan menyebarkan pesan palsu bahwa JoongAng Ilbo telah masuk pasar M&A untuk dijual. Menurut perusahaan, pesan tersebut beredar pada sore 6 Mei melalui ruang obrolan terbuka KakaoTalk, termasuk ruang dengan sekitar 1.600 peserta, lalu menyebar lagi ke sejumlah ruang obrolan lain. JoongAng Ilbo menyebut informasi itu jelas palsu dan sama sekali tidak terkait perusahaan, serta dapat menimbulkan kesan keliru bahwa perusahaan mengalami krisis manajemen internal atau ketidakstabilan tata kelola. Sementara itu, JoongAng Group tengah mendorong penjualan aset properti utama, termasuk gedung JoongAng Ilbo dan JTBC, setelah kondisi keuangan memburuk dan peringkat kredit diturunkan. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "00e64729fc04",
-    "slug": "lg화학-난임-치료제-유티프로-출시-황체기-보조요법-선택지-넓혔다-348793",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T10:25:32.607Z",
-    "updatedAt": "2026-05-09T10:25:32.607Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887533/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887533/1",
-    "titleFingerprint": "76883a5583a3c15e95244ac123b2ee74e276df33",
-    "dedupKeys": [
-      "00e64729fc0470dc2e45398273d0ae4b2166e0b9",
-      "76883a5583a3c15e95244ac123b2ee74e276df33",
-      "62e047f8fc14f714bd6d0612f2d0dc9915de0812"
-    ],
-    "imageUrl": "/images/articles/00e64729fc04.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG화학, 난임 치료제 유티프로 출시…황체기 보조요법 선택지 확대",
-        "excerpt": "LG화학은 8일 황체기 보조요법용 난임 치료제 유티프로주 25mg을 출시하며 IVF 중심으로 커지는 국내 난임 시장에서 치료 선택지를 넓혔다.",
-        "body": "LG화학은 8일 황체기 보조요법용 난임 치료제 ‘유티프로주 25mg(유티프로)’을 출시했다고 밝혔다. 국내 난임 시술 시장이 빠르게 성장하는 가운데, 회사는 기존 배란유도 중심에서 착상과 임신 유지 단계까지 치료 영역을 넓히며 여성 건강 사업을 강화하는 모습이다. 건강보험심사평가원에 따르면 국내 난임 시술 건수는 2022년 20만건을 넘어섰고, 체외수정(IVF) 시술 비중은 전체의 80% 이상을 차지한다. 결혼과 출산 연령 상승으로 난임 시술 환자 평균 연령도 높아지고 있으며, 40대 이상 고령 환자 증가세도 나타난다. 의료계는 고령 환자일수록 황체 기능 저하 가능성이 높아 프로게스테론 보조요법의 중요성이 커진다고 본다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "LG Chem Launches Utifro, Expanding Options for Luteal Phase Support",
-        "excerpt": "LG Chem said on the 8th it launched Utifro Injection 25 mg for luteal phase support, broadening infertility treatment options as Korea’s IVF-led market grows.",
-        "body": "LG Chem announced on the 8th that it has launched ‘Utifro Injection 25 mg,’ an infertility treatment for luteal phase support. As South Korea’s infertility procedure market grows rapidly, the company is expanding its treatment scope from ovulation induction to implantation and pregnancy maintenance, strengthening its women’s health business. According to the Health Insurance Review and Assessment Service, infertility procedures in Korea exceeded 200,000 cases in 2022, with in vitro fertilization (IVF) accounting for more than 80% of the total. Rising ages for marriage and childbirth are also cited as drivers of market growth. The average age of patients receiving infertility procedures continues to rise, and the number of patients aged 40 or older is increasing. Medical experts say progesterone support becomes more important because older patients are more likely to have reduced luteal function. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "LG化学、不妊治療薬ユティプロ発売…黄体期補助療法の選択肢拡大",
-        "excerpt": "LG化学は8日、黄体期補助療法向け不妊治療薬ユティプロ注25mgを発売し、IVF中心に拡大する韓国不妊治療市場で選択肢を広げた。",
-        "body": "LG化学は8日、黄体期補助療法用の不妊治療薬「ユティプロ注25mg（ユティプロ）」を発売したと発表した。韓国の不妊治療市場が急速に成長するなか、同社は従来の排卵誘発中心から着床と妊娠維持の段階まで治療領域を広げ、女性健康事業を強化する動きだ。健康保険審査評価院によると、韓国の不妊治療件数は2022年に20万件を超え、体外受精（IVF）が全体の80％以上を占めている。結婚・出産年齢の上昇も市場成長の背景とされる。不妊治療を受ける患者の平均年齢は上昇を続け、40代以上の高齢患者も増えている。医療界では、高齢患者ほど黄体機能低下の可能性が高く、プロゲステロン補助療法の重要性が増すと説明している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "LG化学推出不孕治疗药Utifro，扩大黄体期支持疗法选择",
-        "excerpt": "LG化学8日表示，已推出用于黄体期支持疗法的不孕治疗药Utifro注射液25mg，以应对韩国IVF主导的不孕治疗市场增长。",
-        "body": "LG化学8日表示，已推出用于黄体期支持疗法的不孕治疗药“Utifro注射液25mg”。随着韩国不孕治疗市场快速增长，该公司正将治疗领域从以促排卵为中心，扩展至着床和维持妊娠阶段，以强化女性健康业务。据韩国健康保险审查评价院数据，韩国不孕治疗手术数量在2022年超过20万例，其中体外受精（IVF）占比超过80%。结婚和生育年龄上升也被认为是市场增长的背景。不孕治疗患者的平均年龄持续提高，40岁以上高龄患者也明显增加。医疗界指出，高龄患者黄体功能下降的可能性更高，因此孕酮支持疗法的重要性进一步上升。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "LG Chem lanza Utifro y amplía opciones de apoyo en fase lútea",
-        "excerpt": "LG Chem anunció el día 8 el lanzamiento de Utifro inyectable 25 mg para apoyo de fase lútea, ampliando opciones en el mercado surcoreano de infertilidad impulsado por la FIV.",
-        "body": "LG Chem informó el día 8 que lanzó ‘Utifro inyectable 25 mg’, un tratamiento de infertilidad para apoyo en la fase lútea. En medio del rápido crecimiento del mercado surcoreano de procedimientos de infertilidad, la empresa amplía su área de tratamiento desde la inducción de la ovulación hasta la implantación y el mantenimiento del embarazo, reforzando su negocio de salud femenina. Según el Servicio de Revisión y Evaluación del Seguro de Salud, los procedimientos de infertilidad en Corea superaron los 200.000 casos en 2022, y la fertilización in vitro (FIV) representó más del 80% del total. El aumento de la edad de matrimonio y parto también se considera un factor de crecimiento. La edad media de las pacientes sigue subiendo y crecen los casos de 40 años o más. El sector médico señala que en pacientes de mayor edad aumenta la posibilidad de menor función lútea, por lo que cobra más importancia el apoyo con progesterona. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "LG Chem lança Utifro e amplia opções de suporte à fase lútea",
-        "excerpt": "A LG Chem informou no dia 8 que lançou o Utifro injetável 25 mg para suporte à fase lútea, ampliando opções no mercado coreano de infertilidade liderado pela FIV.",
-        "body": "A LG Chem anunciou no dia 8 o lançamento do ‘Utifro injetável 25 mg’, tratamento de infertilidade para suporte à fase lútea. Com o rápido crescimento do mercado de procedimentos de infertilidade na Coreia do Sul, a empresa amplia sua atuação do foco tradicional em indução da ovulação para as etapas de implantação e manutenção da gravidez, reforçando seu negócio de saúde feminina. Segundo o Serviço de Revisão e Avaliação do Seguro de Saúde, os procedimentos de infertilidade no país ultrapassaram 200 mil casos em 2022, e a fertilização in vitro (FIV) respondeu por mais de 80% do total. O aumento da idade para casamento e parto também é apontado como fator de crescimento. A idade média das pacientes continua subindo, com avanço dos casos acima de 40 anos. A comunidade médica afirma que pacientes mais velhas têm maior possibilidade de redução da função lútea, elevando a importância do suporte com progesterona. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "LG Chem bringt Utifro auf den Markt und erweitert Optionen der Lutealphasenstützung",
-        "excerpt": "LG Chem teilte am 8. mit, Utifro Injektion 25 mg zur Lutealphasenstützung eingeführt zu haben und erweitert damit Optionen im von IVF geprägten koreanischen Fertilitätsmarkt.",
-        "body": "LG Chem gab am 8. bekannt, ‘Utifro Injektion 25 mg’ als Kinderwunschmedikament zur Lutealphasenstützung eingeführt zu haben. Während der südkoreanische Markt für Kinderwunschbehandlungen rasch wächst, erweitert das Unternehmen seinen Behandlungsbereich von der bisher vor allem auf Ovulationsinduktion ausgerichteten Therapie auf Implantation und Erhalt der Schwangerschaft und stärkt damit das Geschäft mit Frauengesundheit. Nach Angaben des Health Insurance Review and Assessment Service überschritt die Zahl der Kinderwunschbehandlungen in Korea 2022 die Marke von 200.000 Fällen; In-vitro-Fertilisation (IVF) machte mehr als 80% aus. Auch das steigende Heirats- und Gebäralter gilt als Wachstumsfaktor. Das Durchschnittsalter der Patientinnen steigt weiter, ebenso die Zahl der über 40-Jährigen. Medizinische Kreise erklären, dass bei älteren Patientinnen die Wahrscheinlichkeit einer verminderten Lutealfunktion höher ist und damit die Bedeutung der Progesteron-Unterstützung zunimmt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "LG Chem lance Utifro et élargit les options de soutien de la phase lutéale",
-        "excerpt": "LG Chem a annoncé le 8 le lancement d’Utifro injectable 25 mg pour le soutien de la phase lutéale, élargissant les options dans le marché coréen de l’infertilité dominé par la FIV.",
-        "body": "LG Chem a annoncé le 8 avoir lancé ‘Utifro injectable 25 mg’, un traitement de l’infertilité destiné au soutien de la phase lutéale. Alors que le marché sud-coréen des procédures de fertilité croît rapidement, l’entreprise élargit son champ thérapeutique, auparavant centré sur l’induction de l’ovulation, aux étapes de l’implantation et du maintien de la grossesse, renforçant ainsi son activité de santé féminine. Selon le Health Insurance Review and Assessment Service, les procédures d’infertilité en Corée ont dépassé 200.000 cas en 2022, la fécondation in vitro (FIV) représentant plus de 80% du total. La hausse de l’âge au mariage et à l’accouchement est également citée comme facteur de croissance. L’âge moyen des patientes continue d’augmenter, tout comme les cas chez les femmes de 40 ans et plus. Le corps médical explique que les patientes plus âgées présentent davantage de risques de baisse de la fonction lutéale, ce qui accroît l’importance du soutien par progestérone. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "إل جي كيم تطلق يوتيفرو وتوسع خيارات دعم الطور الأصفري لعلاج العقم",
-        "excerpt": "أعلنت إل جي كيم في الثامن إطلاق حقن يوتيفرو 25 ملغ لدعم الطور الأصفري، موسعة خيارات علاج العقم في سوق كورية تقودها إجراءات أطفال الأنابيب.",
-        "body": "أعلنت إل جي كيم في الثامن أنها أطلقت دواء العقم ‘يوتيفرو حقن 25 ملغ’ المخصص لدعم الطور الأصفري. ومع النمو السريع لسوق إجراءات علاج العقم في كوريا الجنوبية، توسع الشركة نطاق العلاج من التركيز التقليدي على تحفيز الإباضة إلى مرحلتي الانغراس والحفاظ على الحمل، بما يعزز أعمالها في صحة المرأة. ووفقا لهيئة مراجعة وتقييم التأمين الصحي، تجاوز عدد إجراءات علاج العقم في كوريا 200 ألف حالة في 2022، وشكلت إجراءات الإخصاب في المختبر أكثر من 80% من الإجمالي. كما يعد ارتفاع سن الزواج والإنجاب من خلفيات نمو السوق. ويواصل متوسط عمر مريضات علاج العقم الارتفاع، مع زيادة ملحوظة في المريضات بعمر 40 عاما فأكثر. وتوضح الأوساط الطبية أن المريضات الأكبر سنا أكثر عرضة لانخفاض وظيفة الجسم الأصفر، ما يزيد أهمية العلاج الداعم بالبروجسترون. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "LG Chem ने Utifro लॉन्च किया, ल्यूटियल फेज सपोर्ट के विकल्प बढ़े",
-        "excerpt": "LG Chem ने 8 तारीख को ल्यूटियल फेज सपोर्ट के लिए Utifro Injection 25 mg लॉन्च किया, जिससे IVF केंद्रित कोरियाई बांझपन उपचार बाजार में विकल्प बढ़े।",
-        "body": "LG Chem ने 8 तारीख को घोषणा की कि उसने ल्यूटियल फेज सपोर्ट के लिए बांझपन उपचार ‘Utifro Injection 25 mg’ लॉन्च किया है। दक्षिण कोरिया में बांझपन उपचार प्रक्रियाओं का बाजार तेजी से बढ़ रहा है, और कंपनी अब ओव्यूलेशन इंडक्शन पर केंद्रित उपचार से आगे बढ़कर इम्प्लांटेशन और गर्भावस्था बनाए रखने के चरणों तक अपना दायरा बढ़ा रही है, जिससे महिला स्वास्थ्य कारोबार मजबूत होता है। Health Insurance Review and Assessment Service के अनुसार, कोरिया में बांझपन उपचार प्रक्रियाएं 2022 में 200,000 से अधिक हो गईं, जिनमें इन-विट्रो फर्टिलाइजेशन (IVF) की हिस्सेदारी 80% से अधिक रही। विवाह और प्रसव की बढ़ती उम्र भी बाजार वृद्धि का कारण मानी जाती है। उपचार लेने वाली मरीजों की औसत उम्र लगातार बढ़ रही है और 40 वर्ष या उससे अधिक उम्र की मरीजों की संख्या भी बढ़ रही है। चिकित्सा क्षेत्र का कहना है कि अधिक उम्र की मरीजों में ल्यूटियल फंक्शन कम होने की संभावना अधिक होती है, इसलिए प्रोजेस्टेरोन सपोर्ट का महत्व बढ़ता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "LG Chem Luncurkan Utifro, Perluas Pilihan Dukungan Fase Luteal",
-        "excerpt": "LG Chem pada tanggal 8 meluncurkan Utifro Injection 25 mg untuk dukungan fase luteal, memperluas pilihan terapi di pasar infertilitas Korea yang didorong IVF.",
-        "body": "LG Chem mengumumkan pada tanggal 8 bahwa pihaknya meluncurkan ‘Utifro Injection 25 mg’, obat infertilitas untuk dukungan fase luteal. Di tengah pertumbuhan cepat pasar prosedur infertilitas di Korea Selatan, perusahaan memperluas cakupan terapi dari yang sebelumnya berpusat pada induksi ovulasi hingga tahap implantasi dan pemeliharaan kehamilan, sekaligus memperkuat bisnis kesehatan perempuan. Menurut Health Insurance Review and Assessment Service, jumlah prosedur infertilitas di Korea melampaui 200.000 kasus pada 2022, dengan fertilisasi in vitro (IVF) menyumbang lebih dari 80% dari total. Kenaikan usia menikah dan melahirkan juga disebut sebagai latar pertumbuhan pasar. Rata-rata usia pasien prosedur infertilitas terus meningkat, dan pasien berusia 40 tahun ke atas juga bertambah. Kalangan medis menjelaskan bahwa pasien yang lebih tua lebih mungkin mengalami penurunan fungsi luteal, sehingga dukungan progesteron menjadi semakin penting. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "b971837b01f2",
-    "slug": "사후조정-앞두고-2대-노조가-교섭권-회수해야삼성전자-노노勞勞갈등-격화-302644",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T10:24:24.363Z",
-    "updatedAt": "2026-05-09T10:24:24.363Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890681/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890681/1",
-    "titleFingerprint": "439f06aaea39a6c109c6490ee8de6048418d5c06",
-    "dedupKeys": [
-      "b971837b01f254a759f71881980c63a830d14a89",
-      "439f06aaea39a6c109c6490ee8de6048418d5c06",
-      "ef5a1f7f5b0ec8b67dc6cac1b1cc96ec10d4c256"
-    ],
-    "imageUrl": "/images/articles/b971837b01f2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조 교섭권 갈등 격화…사후조정 앞두고 전삼노 내부 반발",
-        "excerpt": "삼성전자 노사가 사후조정을 앞둔 가운데 9일 전삼노 내부에서 초기업노조에 위임한 교섭권을 회수해야 한다는 주장이 나오며 노조 간 갈등이 커지고 있다.",
-        "body": "삼성전자 노사가 곧 사후조정에 들어갈 예정인 가운데, 9일 업계에 따르면 삼성전자 2대 노조인 전국삼성전자노동조합 내부에서 사내 최대 노조인 초기업노조에 위임한 교섭권을 회수해야 한다는 의견이 잇따르고 있다. 갈등의 핵심은 성과급 논의가 반도체 사업을 맡은 DS부문 중심으로 진행되고, 완제품 사업을 담당하는 DX부문 조합원의 요구가 충분히 반영되지 않고 있다는 문제 제기다. 전삼노는 전 직원을 아우르는 ‘공통재원’을 안건에 포함할 것을 건의했지만, 초기업노조는 이를 수용하지 않고 해당 안건이 없다고 공지한 것으로 알려졌다. 사후조정을 앞두고 교섭 대표성 논란이 커지면서 삼성전자 노사 협상에도 부담이 될 전망이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics union dispute deepens over bargaining rights before post-mediation",
-        "excerpt": "As Samsung Electronics labor and management prepare for post-mediation, members of the second-largest union are calling to reclaim bargaining rights delegated to the largest in-house union.",
-        "body": "As Samsung Electronics labor and management are set to enter post-mediation soon, industry sources said on May 9 that members of the National Samsung Electronics Union, the company’s second-largest union, are increasingly arguing that it should reclaim bargaining rights delegated to the largest in-house union, the Enterprise Union. The conflict centers on claims that bonus discussions are focused mainly on employees in the semiconductor-focused Device Solutions division, while demands from members in the finished-product Device Experience division are being effectively overlooked. The National Samsung Electronics Union reportedly proposed adding a companywide “common fund” agenda item covering all employees, but the Enterprise Union did not accept it and announced that no such item existed. The dispute over bargaining representation could add pressure to Samsung Electronics’ labor talks ahead of post-mediation. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子、交渉権めぐる労組対立が激化　事後調整控え反発",
-        "excerpt": "サムスン電子の労使が事後調整を控える中、9日、第2労組内部で最大労組に委任した交渉権の回収を求める声が出て対立が強まっている。",
-        "body": "サムスン電子の労使が近く事後調整に入る見通しの中、9日の業界情報によると、同社第2労組である全国サムスン電子労働組合の内部で、社内最大労組の超企業労組に委任した交渉権を回収すべきだとの意見が相次いでいる。対立の焦点は、成果給をめぐる議論が半導体事業を担うデバイスソリューション部門中心に進み、完成品事業を担うデバイスエクスペリエンス部門の組合員の要求が十分に反映されていないという問題提起だ。全国サムスン電子労組は全社員を対象にする「共通財源」を議題に含めるよう提案したが、超企業労組はこれを受け入れず、該当議題はないと告知したとされる。事後調整を前に交渉代表性をめぐる論争が広がり、労使交渉の負担となる見通しだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会谈判权争议升级，事后调解前内部反对声扩大",
-        "excerpt": "三星电子劳资双方即将进入事后调解之际，9日第二大工会内部要求收回委托给最大工会的谈判权，工会间矛盾加剧。",
-        "body": "三星电子劳资双方即将进入事后调解。据业界9日消息，三星电子第二大工会全国三星电子劳动组合内部，近期不断出现应收回委托给公司最大工会超企业工会谈判权的意见。争议核心在于，有声音认为绩效奖金讨论主要围绕负责半导体业务的设备解决方案部门展开，而负责成品业务的设备体验部门成员诉求实际上未被充分反映。全国三星电子劳动组合曾建议将覆盖全体员工的“共同财源”纳入议题，但据悉超企业工会未予接受，并通知称没有相关议题。随着事后调解临近，围绕谈判代表性的争议扩大，预计将给三星电子劳资协商带来压力。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Conflicto sindical en Samsung Electronics se agrava por derechos de negociación",
-        "excerpt": "Mientras Samsung Electronics se prepara para la posmediación, miembros del segundo sindicato piden recuperar los derechos de negociación cedidos al mayor sindicato interno.",
-        "body": "Samsung Electronics y sus sindicatos se preparan para iniciar pronto un proceso de posmediación. Según fuentes del sector citadas el 9 de mayo, dentro del Sindicato Nacional de Samsung Electronics, el segundo mayor de la empresa, crecen las opiniones que piden recuperar los derechos de negociación delegados al mayor sindicato interno, el Sindicato Supraempresarial. El conflicto se centra en las críticas de que el debate sobre las bonificaciones se está enfocando principalmente en la división Device Solutions, dedicada a semiconductores, mientras que las demandas de los afiliados de Device Experience, responsable de productos terminados, quedan prácticamente desatendidas. El sindicato nacional propuso incluir una “fuente común” para todos los empleados, pero el sindicato mayoritario no la aceptó y habría informado que ese punto no existe en la agenda. La disputa por la representación negociadora puede añadir presión a las conversaciones laborales. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Disputa sindical na Samsung Electronics cresce por direitos de negociação",
-        "excerpt": "Com a Samsung Electronics prestes a entrar em pós-mediação, integrantes do segundo maior sindicato pedem retomar os direitos de negociação delegados ao maior sindicato interno.",
-        "body": "A Samsung Electronics e seus sindicatos devem entrar em pós-mediação em breve. Segundo informações do setor em 9 de maio, cresce dentro do Sindicato Nacional da Samsung Electronics, o segundo maior da companhia, a defesa de que sejam retomados os direitos de negociação delegados ao maior sindicato interno, o Sindicato Supraempresarial. O centro da disputa é a crítica de que as discussões sobre bônus de desempenho estão concentradas na divisão Device Solutions, responsável por semicondutores, enquanto as demandas dos filiados da divisão Device Experience, ligada a produtos acabados, não estariam sendo devidamente refletidas. O sindicato nacional sugeriu incluir uma “fonte comum” para todos os funcionários, mas o sindicato majoritário não teria aceitado e informou que esse item não existe na pauta. A controvérsia sobre representatividade pode pesar nas negociações trabalhistas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung Electronics: Gewerkschaftsstreit um Verhandlungsrechte spitzt sich zu",
-        "excerpt": "Vor der anstehenden Nachschlichtung fordern Mitglieder der zweitgrößten Samsung-Electronics-Gewerkschaft, delegierte Verhandlungsrechte vom größten internen Verband zurückzuholen.",
-        "body": "Samsung Electronics und die Arbeitnehmerseite stehen kurz vor einer Nachschlichtung. Branchenangaben vom 9. Mai zufolge mehren sich in der National Samsung Electronics Union, der zweitgrößten Gewerkschaft des Unternehmens, Stimmen, die eine Rücknahme der an die größte interne Gewerkschaft, die Enterprise Union, delegierten Verhandlungsrechte verlangen. Kern des Konflikts ist die Kritik, dass die Bonusdebatte vor allem auf die Halbleitersparte Device Solutions ausgerichtet sei, während Forderungen von Mitgliedern der für Endprodukte zuständigen Device-Experience-Sparte kaum berücksichtigt würden. Die National Samsung Electronics Union schlug vor, eine unternehmensweite „gemeinsame Finanzquelle“ für alle Beschäftigten auf die Tagesordnung zu setzen. Die Enterprise Union nahm dies Berichten zufolge nicht an und teilte mit, ein solcher Punkt existiere nicht. Der Streit über die Verhandlungsvertretung dürfte die Arbeitsgespräche zusätzlich belasten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics: le conflit syndical s’intensifie sur les droits de négociation",
-        "excerpt": "Alors que Samsung Electronics se prépare à une post-médiation, des membres du deuxième syndicat réclament la reprise des droits de négociation confiés au plus grand syndicat interne.",
-        "body": "Samsung Electronics et ses représentants syndicaux doivent bientôt entrer en phase de post-médiation. Selon des informations du secteur datées du 9 mai, au sein du Syndicat national de Samsung Electronics, deuxième organisation de l’entreprise, les appels se multiplient pour récupérer les droits de négociation délégués au plus grand syndicat interne, le syndicat supra-entreprise. Le différend porte sur les critiques selon lesquelles les discussions sur les primes de performance se concentrent sur la division Device Solutions, chargée des semi-conducteurs, tandis que les demandes des membres de la division Device Experience, dédiée aux produits finis, seraient largement négligées. Le syndicat national avait proposé d’ajouter à l’ordre du jour une “ressource commune” couvrant tous les salariés, mais le syndicat majoritaire ne l’aurait pas accepté et aurait indiqué qu’un tel point n’existait pas. Cette contestation de la représentativité pourrait peser sur les négociations sociales. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "تصاعد خلاف نقابي في سامسونغ إلكترونيكس حول حق التفاوض قبل الوساطة اللاحقة",
-        "excerpt": "مع استعداد سامسونغ إلكترونيكس للدخول في وساطة لاحقة، يطالب أعضاء ثاني أكبر نقابة باستعادة حق التفاوض المفوض إلى أكبر نقابة داخلية.",
-        "body": "تستعد إدارة سامسونغ إلكترونيكس والنقابات للدخول قريباً في مرحلة الوساطة اللاحقة. وبحسب معلومات القطاع في 9 مايو، تتزايد داخل النقابة الوطنية لسامسونغ إلكترونيكس، وهي ثاني أكبر نقابة في الشركة، الدعوات إلى استعادة حق التفاوض الذي فوض إلى أكبر نقابة داخلية، وهي النقابة فوق المؤسسية. ويتمحور الخلاف حول انتقادات تقول إن نقاش مكافآت الأداء يتركز على قسم حلول الأجهزة المسؤول عن أشباه الموصلات، بينما لا تنعكس مطالب أعضاء قسم تجربة الأجهزة المسؤول عن المنتجات النهائية بشكل كاف. وكانت النقابة الوطنية قد اقترحت إدراج بند “مصدر مشترك” يشمل جميع الموظفين، لكن النقابة الأكبر لم تقبله وأبلغت، وفقاً للتقرير، بأن هذا البند غير موجود. وقد يزيد الجدل حول تمثيل التفاوض الضغط على محادثات العمل في الشركة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics में बातचीत अधिकार पर यूनियन विवाद, मध्यस्थता से पहले तनाव",
-        "excerpt": "Samsung Electronics में बाद की मध्यस्थता से पहले दूसरे सबसे बड़े यूनियन के भीतर सबसे बड़े आंतरिक यूनियन को दिए गए बातचीत अधिकार वापस लेने की मांग उठी है।",
-        "body": "Samsung Electronics का प्रबंधन और यूनियनें जल्द ही बाद की मध्यस्थता में प्रवेश करने वाली हैं। 9 मई को उद्योग सूत्रों के अनुसार, कंपनी के दूसरे सबसे बड़े यूनियन, National Samsung Electronics Union, के भीतर यह मांग बढ़ रही है कि सबसे बड़े आंतरिक यूनियन, Enterprise Union, को सौंपे गए बातचीत अधिकार वापस लिए जाएं। विवाद का केंद्र यह आरोप है कि प्रदर्शन बोनस पर चर्चा मुख्य रूप से सेमीकंडक्टर कारोबार संभालने वाले Device Solutions विभाग के कर्मचारियों पर केंद्रित है, जबकि तैयार उत्पाद कारोबार वाले Device Experience विभाग के सदस्यों की मांगें पर्याप्त रूप से शामिल नहीं हो रही हैं। National Samsung Electronics Union ने सभी कर्मचारियों को कवर करने वाले “common fund” को एजेंडा में जोड़ने का सुझाव दिया था, लेकिन Enterprise Union ने इसे स्वीकार नहीं किया और कथित तौर पर बताया कि ऐसा कोई एजेंडा नहीं है। प्रतिनिधित्व को लेकर यह विवाद श्रम वार्ता पर दबाव बढ़ा सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Konflik serikat Samsung Electronics memanas soal hak negosiasi jelang mediasi",
-        "excerpt": "Menjelang pascamediasi Samsung Electronics, anggota serikat terbesar kedua menyerukan pengambilan kembali hak negosiasi yang didelegasikan kepada serikat internal terbesar.",
-        "body": "Manajemen dan serikat pekerja Samsung Electronics akan segera memasuki tahap pascamediasi. Menurut informasi industri pada 9 Mei, di dalam National Samsung Electronics Union, serikat terbesar kedua perusahaan, semakin banyak suara yang meminta hak negosiasi yang didelegasikan kepada serikat internal terbesar, Enterprise Union, diambil kembali. Inti konflik adalah kritik bahwa pembahasan bonus kinerja berfokus pada divisi Device Solutions yang menangani semikonduktor, sementara tuntutan anggota divisi Device Experience yang menangani produk jadi dinilai tidak cukup tercermin. National Samsung Electronics Union mengusulkan agar agenda “sumber dana bersama” untuk seluruh karyawan dimasukkan, tetapi Enterprise Union dilaporkan tidak menerimanya dan menyatakan agenda tersebut tidak ada. Perdebatan soal representasi negosiasi ini dapat menambah tekanan pada perundingan ketenagakerjaan Samsung Electronics. Sumber: rss.donga.com"
       }
     }
   }
