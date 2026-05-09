@@ -1,5 +1,230 @@
 [
   {
+    "id": "08cd1d153f09",
+    "slug": "중동-전쟁-여파에-국제-식량-물가-3개월-연속-상승-527757",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T06:31:38.587Z",
+    "updatedAt": "2026-05-09T06:31:38.587Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890564/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890564/1",
+    "titleFingerprint": "cf406e9aeaddee645714f9a40676bb63fd6f2510",
+    "dedupKeys": [
+      "08cd1d153f09d9c43e01cc6f05f2da517e6c185e",
+      "cf406e9aeaddee645714f9a40676bb63fd6f2510",
+      "e18240ea898be1317345a935be85766310b88bcc"
+    ],
+    "imageUrl": "/images/articles/08cd1d153f09.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국제 식량 물가 3개월 연속 상승, 중동 전쟁 여파에 곡물·유지류 급등",
+        "excerpt": "FAO는 9일 2026년 4월 세계식량가격지수가 130.7포인트로 전월보다 1.6% 올라 석 달 연속 상승했다고 밝혔다. 곡물·유지류·육류 가격 상승과 중동 전쟁 여파가 작용했다.",
+        "body": "세계 식량 가격이 2026년 4월에도 상승세를 이어갔다. 유엔 식량농업기구(FAO)는 9일 4월 세계식량가격지수가 130.7포인트로 전월 128.6포인트보다 1.6% 올랐다고 발표했다. 석 달 연속 상승이다. FAO는 곡물, 유지류, 육류, 유제품, 설탕 등 5개 품목군의 국제가격 동향을 매월 지수로 산출하며, 2014~2016년 평균을 100으로 둔다. 이번 상승은 유지류가 주도했다. 유지류 가격지수는 팜유·대두유·해바라기유·유채유 가격이 모두 오르며 193.9포인트로 전월 대비 5.9% 상승했다. 팜유는 원유가격 상승과 주요국 정책 지원으로 바이오연료 수요가 늘 것이란 전망에 5개월 연속 올랐다. 비료 가격과 운송비 급등 등 중동 전쟁 여파도 식량 물가 부담으로 작용한 것으로 풀이된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Global Food Prices Rise for Third Month as Middle East War Lifts Grain and Oil Costs",
+        "excerpt": "FAO said on May 9 that the April 2026 world food price index rose 1.6% to 130.7 points, marking a third monthly increase as grains, vegetable oils and meat climbed amid Middle East war effects.",
+        "body": "Global food prices continued to rise in April 2026. The UN Food and Agriculture Organization said on May 9 that its world food price index reached 130.7 points, up 1.6% from 128.6 in the previous month. It was the third consecutive monthly increase. FAO compiles the index each month by tracking international prices for five groups: cereals, vegetable oils, meat, dairy products and sugar, using the 2014-2016 average as 100. Vegetable oils led the latest rise. The vegetable oil price index climbed 5.9% from the previous month to 193.9 points as palm, soybean, sunflower and rapeseed oil prices all increased. Palm oil rose for a fifth straight month on expectations that higher crude oil prices and policy support in major countries would lift biofuel demand. Higher fertilizer prices and surging transport costs linked to the Middle East war were also seen as adding pressure. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "国際食料価格が3カ月連続上昇、中東戦争の影響で穀物・植物油が高騰",
+        "excerpt": "FAOは9日、2026年4月の世界食料価格指数が130.7ポイントとなり前月比1.6%上昇したと発表した。穀物、植物油、肉類の値上がりと中東戦争の影響が背景にある。",
+        "body": "世界の食料価格は2026年4月も上昇を続けた。国連食糧農業機関（FAO）は9日、4月の世界食料価格指数が130.7ポイントとなり、前月の128.6ポイントから1.6%上昇したと発表した。上昇は3カ月連続。FAOは穀物、植物油、肉類、乳製品、砂糖の5品目群について国際価格の動向を毎月指数化し、2014～2016年の平均を100としている。今回の上昇を主導したのは植物油だった。植物油価格指数はパーム油、大豆油、ひまわり油、菜種油がいずれも上がり、193.9ポイントと前月比5.9%上昇した。パーム油は原油価格の上昇と主要国の政策支援によりバイオ燃料需要が高まるとの見通しから5カ月連続で上昇した。肥料価格や輸送費の急騰など、中東戦争の影響も食料物価の負担になったとみられる。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "全球食品价格连续三个月上涨，中东战争推高谷物和油脂成本",
+        "excerpt": "FAO于9日表示，2026年4月世界食品价格指数为130.7点，较前月上涨1.6%，连续三个月上升，原因包括谷物、油脂、肉类价格上涨及中东战争影响。",
+        "body": "全球食品价格在2026年4月继续上涨。联合国粮食及农业组织（FAO）9日公布，4月世界食品价格指数为130.7点，较前月的128.6点上涨1.6%，这是连续第三个月上升。FAO每月调查谷物、植物油、肉类、乳制品和糖五大类商品的国际价格走势，并以2014至2016年平均值为100编制指数。本轮上涨主要由植物油推动。植物油价格指数升至193.9点，较前月上涨5.9%，因为棕榈油、大豆油、葵花籽油和菜籽油价格均上涨。受原油价格上升以及主要国家政策支持影响，市场预期生物燃料需求将增加，棕榈油价格已连续五个月上涨。肥料价格和运输费用飙升等中东战争影响，也被认为加重了食品价格压力。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Precios mundiales de alimentos suben tres meses por guerra en Medio Oriente y aceites",
+        "excerpt": "La FAO informó el día 9 que el índice mundial de precios de alimentos de abril de 2026 subió 1,6% hasta 130,7 puntos, su tercer avance mensual, impulsado por cereales, aceites y carne.",
+        "body": "Los precios mundiales de los alimentos mantuvieron su tendencia al alza en abril de 2026. La Organización de las Naciones Unidas para la Alimentación y la Agricultura informó el día 9 que el índice mundial de precios de los alimentos llegó a 130,7 puntos, un 1,6% más que los 128,6 puntos del mes anterior. Fue el tercer aumento mensual consecutivo. La FAO elabora cada mes el índice siguiendo los precios internacionales de cinco grupos: cereales, aceites vegetales, carne, lácteos y azúcar, con el promedio de 2014-2016 fijado en 100. El aumento fue liderado por los aceites vegetales. Su índice subió 5,9% mensual hasta 193,9 puntos, ya que aumentaron los precios del aceite de palma, soja, girasol y colza. El aceite de palma encadenó cinco meses de alzas por la expectativa de mayor demanda de biocombustibles ante el aumento del crudo y el apoyo de políticas en países clave. También incidieron el encarecimiento de fertilizantes y transporte por la guerra en Medio Oriente. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Preços globais dos alimentos sobem pelo 3º mês com guerra no Oriente Médio e óleos",
+        "excerpt": "A FAO informou no dia 9 que o índice mundial de preços dos alimentos de abril de 2026 subiu 1,6%, para 130,7 pontos, no terceiro avanço mensal, puxado por grãos, óleos e carnes.",
+        "body": "Os preços mundiais dos alimentos seguiram em alta em abril de 2026. A Organização das Nações Unidas para Alimentação e Agricultura informou no dia 9 que o índice mundial de preços dos alimentos chegou a 130,7 pontos, avanço de 1,6% ante os 128,6 pontos do mês anterior. Foi a terceira alta mensal consecutiva. A FAO calcula mensalmente o índice a partir dos preços internacionais de cinco grupos: cereais, óleos vegetais, carnes, laticínios e açúcar, tomando a média de 2014 a 2016 como 100. A alta mais recente foi liderada pelos óleos vegetais. O índice desse grupo subiu 5,9% no mês, para 193,9 pontos, com aumentos em óleo de palma, soja, girassol e colza. O óleo de palma avançou pelo quinto mês seguido, diante da expectativa de maior demanda por biocombustíveis com a alta do petróleo e apoio de políticas em grandes países. Fertilizantes e fretes mais caros, ligados à guerra no Oriente Médio, também pressionaram os alimentos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Weltweite Lebensmittelpreise steigen dritten Monat in Folge durch Nahostkrieg und Öle",
+        "excerpt": "Die FAO teilte am 9. Mai mit, dass der Weltlebensmittelpreisindex im April 2026 um 1,6% auf 130,7 Punkte stieg. Es war der dritte monatliche Anstieg, getragen von Getreide, Ölen und Fleisch.",
+        "body": "Die weltweiten Lebensmittelpreise setzten ihren Anstieg im April 2026 fort. Die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen teilte am 9. Mai mit, dass der Weltlebensmittelpreisindex 130,7 Punkte erreichte, 1,6% mehr als die 128,6 Punkte des Vormonats. Es war der dritte monatliche Anstieg in Folge. Die FAO erstellt den Index monatlich auf Basis internationaler Preise für fünf Gruppen: Getreide, pflanzliche Öle, Fleisch, Milchprodukte und Zucker. Der Durchschnitt der Jahre 2014 bis 2016 entspricht 100. Angeführt wurde der jüngste Anstieg von pflanzlichen Ölen. Deren Preisindex stieg gegenüber dem Vormonat um 5,9% auf 193,9 Punkte, weil Palmöl, Sojaöl, Sonnenblumenöl und Rapsöl teurer wurden. Palmöl legte den fünften Monat in Folge zu, da höhere Rohölpreise und politische Unterstützung in wichtigen Ländern eine stärkere Biokraftstoffnachfrage erwarten lassen. Auch höhere Düngemittelpreise und Transportkosten infolge des Nahostkriegs belasteten die Lebensmittelpreise. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Les prix alimentaires mondiaux montent trois mois de suite avec la guerre au Moyen-Orient",
+        "excerpt": "La FAO a annoncé le 9 mai que l’indice mondial des prix alimentaires d’avril 2026 avait progressé de 1,6% à 130,7 points, porté par les céréales, les huiles et la viande.",
+        "body": "Les prix alimentaires mondiaux ont poursuivi leur hausse en avril 2026. L’Organisation des Nations unies pour l’alimentation et l’agriculture a annoncé le 9 mai que l’indice mondial des prix des denrées alimentaires avait atteint 130,7 points, soit 1,6% de plus que les 128,6 points du mois précédent. Il s’agit du troisième mois consécutif de hausse. La FAO calcule chaque mois cet indice à partir des prix internationaux de cinq groupes: céréales, huiles végétales, viande, produits laitiers et sucre, avec la moyenne 2014-2016 fixée à 100. La progression a été menée par les huiles végétales. Leur indice a augmenté de 5,9% sur un mois à 193,9 points, les prix de l’huile de palme, de soja, de tournesol et de colza ayant tous monté. L’huile de palme a progressé pour un cinquième mois d’affilée, portée par les attentes d’une demande accrue de biocarburants avec la hausse du pétrole et le soutien de politiques dans de grands pays. La flambée des engrais et du transport liée à la guerre au Moyen-Orient a aussi pesé. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أسعار الغذاء العالمية ترتفع للشهر الثالث مع تأثير حرب الشرق الأوسط والزيوت",
+        "excerpt": "أعلنت الفاو في 9 مايو أن مؤشر أسعار الغذاء العالمي في أبريل 2026 ارتفع 1.6% إلى 130.7 نقطة، مسجلا زيادة للشهر الثالث بفعل صعود الحبوب والزيوت النباتية واللحوم.",
+        "body": "واصلت أسعار الغذاء العالمية الارتفاع في أبريل 2026. فقد أعلنت منظمة الأغذية والزراعة التابعة للأمم المتحدة في 9 مايو أن مؤشر أسعار الغذاء العالمي بلغ 130.7 نقطة، مرتفعا 1.6% عن 128.6 نقطة في الشهر السابق. وهذه هي الزيادة الشهرية الثالثة على التوالي. وتعد الفاو المؤشر شهريا من خلال متابعة الأسعار الدولية لخمس مجموعات: الحبوب، والزيوت النباتية، واللحوم، ومنتجات الألبان، والسكر، مع اعتماد متوسط 2014-2016 أساسا عند 100. وقادت الزيوت النباتية الارتفاع الأخير. فقد صعد مؤشرها 5.9% عن الشهر السابق إلى 193.9 نقطة، مع ارتفاع أسعار زيت النخيل وفول الصويا ودوار الشمس واللفت. وارتفع زيت النخيل للشهر الخامس على التوالي مع توقع زيادة الطلب على الوقود الحيوي بسبب صعود أسعار النفط ودعم السياسات في دول رئيسية. كما ساهمت زيادة أسعار الأسمدة وتكاليف النقل المرتبطة بحرب الشرق الأوسط في الضغط على أسعار الغذاء. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "वैश्विक खाद्य कीमतें तीसरे महीने बढ़ीं, मध्य पूर्व युद्ध से अनाज और तेल महंगे",
+        "excerpt": "FAO ने 9 मई को बताया कि अप्रैल 2026 का वैश्विक खाद्य मूल्य सूचकांक 1.6% बढ़कर 130.7 अंक हो गया। अनाज, वनस्पति तेल और मांस की कीमतों तथा मध्य पूर्व युद्ध के असर से यह तीसरी मासिक बढ़त रही।",
+        "body": "अप्रैल 2026 में वैश्विक खाद्य कीमतों में बढ़त जारी रही। संयुक्त राष्ट्र के खाद्य और कृषि संगठन ने 9 मई को बताया कि विश्व खाद्य मूल्य सूचकांक 130.7 अंक पर पहुंच गया, जो पिछले महीने के 128.6 अंक से 1.6% अधिक है। यह लगातार तीसरी मासिक वृद्धि है। FAO हर महीने अनाज, वनस्पति तेल, मांस, डेयरी उत्पाद और चीनी, इन पांच समूहों की अंतरराष्ट्रीय कीमतों के आधार पर सूचकांक तैयार करता है और 2014-2016 के औसत को 100 मानता है। इस बार बढ़त का नेतृत्व वनस्पति तेलों ने किया। पाम, सोयाबीन, सूरजमुखी और रेपसीड तेल सभी महंगे होने से वनस्पति तेल सूचकांक 5.9% बढ़कर 193.9 अंक हो गया। कच्चे तेल की कीमतों में वृद्धि और प्रमुख देशों की नीतिगत सहायता से जैव ईंधन मांग बढ़ने की उम्मीद के कारण पाम तेल लगातार पांचवें महीने चढ़ा। मध्य पूर्व युद्ध से जुड़े उर्वरक और परिवहन लागत में उछाल ने भी खाद्य कीमतों पर दबाव डाला। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Harga Pangan Dunia Naik Tiga Bulan Beruntun, Perang Timur Tengah Dorong Minyak",
+        "excerpt": "FAO pada 9 Mei menyatakan indeks harga pangan dunia April 2026 naik 1,6% menjadi 130,7 poin. Kenaikan tiga bulan beruntun dipicu harga serealia, minyak nabati, daging, dan dampak perang Timur Tengah.",
+        "body": "Harga pangan dunia kembali naik pada April 2026. Organisasi Pangan dan Pertanian PBB pada 9 Mei mengumumkan indeks harga pangan dunia mencapai 130,7 poin, naik 1,6% dari 128,6 poin pada bulan sebelumnya. Ini merupakan kenaikan bulanan ketiga berturut-turut. FAO menyusun indeks tersebut setiap bulan dengan memantau harga internasional lima kelompok komoditas: serealia, minyak nabati, daging, produk susu, dan gula, dengan rata-rata 2014-2016 sebagai 100. Kenaikan kali ini dipimpin minyak nabati. Indeks harga minyak nabati naik 5,9% dari bulan sebelumnya menjadi 193,9 poin karena harga minyak sawit, kedelai, bunga matahari, dan rapeseed semuanya meningkat. Harga minyak sawit naik untuk bulan kelima berturut-turut karena harga minyak mentah yang lebih tinggi dan dukungan kebijakan negara-negara utama diperkirakan mendorong permintaan biofuel. Lonjakan harga pupuk dan biaya transportasi akibat perang Timur Tengah juga dinilai menekan harga pangan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "2e9e76b2e7c9",
+    "slug": "국제선-항공료-159-급등휴가-예약했는데-여행객-한숨-998606",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T06:30:21.040Z",
+    "updatedAt": "2026-05-09T06:30:21.040Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890575/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890575/1",
+    "titleFingerprint": "515d8d05babcb917870864dcb764710daac4bf00",
+    "dedupKeys": [
+      "2e9e76b2e7c926f6e264d45a36a2513678c385f8",
+      "515d8d05babcb917870864dcb764710daac4bf00",
+      "83ee90fcd00766087f5ad33fec88d8f8de1f082f"
+    ],
+    "imageUrl": "/images/articles/2e9e76b2e7c9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국제선 항공료 15.9% 급등, 유류할증료 부담에 여행객 한숨",
+        "excerpt": "중동 전쟁 여파로 항공유 가격이 오르며 지난달 국제선 항공료가 전년 대비 15.9% 급등했고, 장거리 노선 유류할증료 부담도 크게 늘었다.",
+        "body": "중동 전쟁 여파로 항공유 가격이 급등하면서 지난달 국제선 항공료 상승률이 코로나19 이후 최대 수준까지 올랐다. 9일 국가데이터처에 따르면 지난달 국제 항공료 소비자물가지수는 138.82로, 2020년 가격을 100으로 볼 때 38.82% 오른 수준이다. 지난해 같은 기간과 비교하면 15.9% 상승했다. 이는 2022년 코로나19 이후 항공길이 다시 열리며 여행 수요가 폭발했던 시기 이후 가장 높은 인상률이다. 특히 4월 유류할증료가 3월 대비 최대 3배 가까이 뛰면서 장거리 노선 승객 부담이 커졌다. 다만 최근 항공유 가격이 하락세로 전환돼 6월 이후 유류할증료가 일부 낮아질 가능성도 제기된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "International Airfares Jump 15.9% as Fuel Surcharges Hit Travelers",
+        "excerpt": "International airfares rose 15.9% last month from a year earlier as jet fuel prices climbed after the Middle East war, sharply increasing fuel surcharge burdens.",
+        "body": "International airfares rose at the fastest pace since the COVID-19 period as jet fuel prices surged in the aftermath of the Middle East war. According to the National Data Office on the 9th, the consumer price index for international airfares stood at 138.82 last month. With 2020 prices set at 100, that means international fares are now 38.82% higher than the base year. Compared with the same period last year, prices climbed 15.9%. The increase is the steepest since 2022, when overseas routes reopened after COVID-19 and pent-up travel demand expanded sharply. Fuel surcharges in April rose by nearly three times from March, adding pressure on long-haul passengers. However, as jet fuel prices have recently turned lower, surcharges may ease somewhat after June. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "国際線航空券15.9%急騰、燃油サーチャージ増で旅行客に負担",
+        "excerpt": "中東戦争の影響で航空燃料価格が上昇し、先月の国際線航空券は前年比15.9%高騰、長距離路線の燃油サーチャージ負担も大きく増えた。",
+        "body": "中東戦争の影響で航空燃料価格が急騰し、先月の国際線航空券の上昇率は新型コロナ以降で最大水準となった。9日、国家データ処によると、先月の国際航空運賃の消費者物価指数は138.82だった。2020年の価格を100とする指数で、基準時点に比べ現在の国際航空運賃が38.82%上昇したことを意味する。前年同期比では15.9%上がった。この上昇率は、2022年に新型コロナ後の航空路線が再開し、抑えられていた海外旅行需要が急増した時期以降で最も高い。特に4月の燃油サーチャージは3月比で最大3倍近くに跳ね上がり、長距離路線の乗客負担が増した。ただ、最近は航空燃料価格が下落に転じており、6月以降は燃油サーチャージが一部下がる可能性も指摘されている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "国际机票价格上涨15.9%，燃油附加费攀升加重旅客负担",
+        "excerpt": "受中东战争影响，航空燃油价格上涨，上月国际机票同比上涨15.9%，长途航线旅客的燃油附加费负担也明显增加。",
+        "body": "受中东战争影响，航空燃油价格急涨，上月国际机票涨幅升至新冠疫情以来最高水平。国家数据处9日表示，上月国际航空票价消费者价格指数为138.82。该指数以2020年价格为100，意味着目前国际机票价格较基准时点上涨38.82%。与去年同期相比，涨幅为15.9%。这是自2022年疫情后航空线路重新开放、被压抑的海外旅行需求集中释放以来的最高涨幅。特别是4月燃油附加费较3月最多接近上涨3倍，长途航线乘客负担随之大幅增加。不过，近期航空燃油价格已转为下行，6月以后燃油附加费存在部分下调的可能。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Tarifas aéreas internacionales suben 15,9% por recargos de combustible",
+        "excerpt": "El alza del combustible de aviación tras la guerra en Oriente Medio elevó el mes pasado las tarifas internacionales un 15,9% interanual y encareció los viajes largos.",
+        "body": "Las tarifas aéreas internacionales registraron el mes pasado su mayor aumento desde la etapa posterior al COVID-19, impulsadas por el fuerte encarecimiento del combustible de aviación tras la guerra en Oriente Medio. Según la Oficina Nacional de Datos, el día 9, el índice de precios al consumidor de los pasajes internacionales fue de 138,82. Con los precios de 2020 fijados en 100, esto indica que las tarifas actuales son un 38,82% más altas que en el año base. Frente al mismo periodo del año pasado, el aumento fue del 15,9%. Es la mayor subida desde 2022, cuando se reabrieron las rutas tras la pandemia y creció con fuerza la demanda de viajes al exterior. En abril, el recargo por combustible llegó a multiplicarse casi por tres respecto de marzo, elevando la carga para pasajeros de larga distancia. Sin embargo, como el combustible de aviación ha empezado a bajar recientemente, los recargos podrían reducirse en parte después de junio. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Passagens internacionais sobem 15,9% com alta do adicional de combustível",
+        "excerpt": "A alta do combustível de aviação após a guerra no Oriente Médio elevou as passagens internacionais em 15,9% no mês passado e ampliou o custo em rotas longas.",
+        "body": "As passagens aéreas internacionais tiveram no mês passado a maior alta desde o período posterior à COVID-19, após o forte aumento do combustível de aviação ligado à guerra no Oriente Médio. Segundo o Escritório Nacional de Dados, no dia 9, o índice de preços ao consumidor das tarifas internacionais foi de 138,82. Como o índice toma os preços de 2020 como 100, isso significa que as tarifas internacionais estão 38,82% acima do nível base. Em relação ao mesmo período do ano passado, a alta foi de 15,9%. É o maior avanço desde 2022, quando as rotas aéreas foram reabertas após a pandemia e a demanda reprimida por viagens ao exterior cresceu rapidamente. Em abril, o adicional de combustível chegou a quase triplicar frente a março, aumentando o peso para passageiros de longa distância. Com a recente queda do combustível de aviação, porém, parte dos adicionais pode recuar depois de junho. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Internationale Flugpreise steigen 15,9% durch höhere Treibstoffzuschläge",
+        "excerpt": "Nach dem Anstieg der Kerosinpreise infolge des Nahostkriegs verteuerten sich internationale Flugpreise im Vormonat um 15,9% zum Vorjahr, besonders auf Langstrecken.",
+        "body": "Internationale Flugpreise sind im vergangenen Monat so stark gestiegen wie seit der COVID-19-Zeit nicht mehr, nachdem Kerosinpreise infolge des Kriegs im Nahen Osten deutlich anzogen. Nach Angaben des Nationalen Datenamts vom 9. lag der Verbraucherpreisindex für internationale Flugtarife bei 138,82. Da die Preise von 2020 als 100 angesetzt werden, bedeutet dies einen Anstieg der internationalen Flugpreise um 38,82% gegenüber dem Basiszeitpunkt. Im Vergleich zum Vorjahreszeitraum beträgt das Plus 15,9%. Das ist die höchste Rate seit 2022, als nach COVID-19 wieder Flugverbindungen geöffnet wurden und die Nachfrage nach Auslandsreisen stark zunahm. Im April stiegen die Treibstoffzuschläge gegenüber März auf nahezu das Dreifache, wodurch Langstreckenreisende stärker belastet wurden. Da Kerosin zuletzt jedoch wieder günstiger wurde, könnten die Zuschläge nach Juni teilweise sinken. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Billets internationaux en hausse de 15,9% avec les surtaxes carburant",
+        "excerpt": "La flambée du carburant aérien liée à la guerre au Moyen-Orient a fait grimper les billets internationaux de 15,9% sur un an le mois dernier, surtout sur les longs courriers.",
+        "body": "Les tarifs aériens internationaux ont enregistré le mois dernier leur plus forte hausse depuis la période post-COVID-19, sous l’effet de l’envolée du carburant aérien liée à la guerre au Moyen-Orient. Selon l’Office national des données, le 9, l’indice des prix à la consommation des billets internationaux s’est établi à 138,82. En prenant les prix de 2020 comme base 100, cela signifie que les tarifs internationaux sont supérieurs de 38,82% au niveau de référence. Par rapport à la même période de l’an dernier, la hausse atteint 15,9%. C’est le niveau le plus élevé depuis 2022, lorsque les liaisons aériennes ont rouvert après la pandémie et que la demande de voyages à l’étranger a fortement rebondi. En avril, les surtaxes carburant ont presque triplé par rapport à mars, alourdissant la charge des passagers long-courriers. Toutefois, le carburant aérien ayant récemment reflué, ces surtaxes pourraient baisser en partie après juin. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "أسعار الرحلات الدولية تقفز 15.9% مع ارتفاع رسوم الوقود",
+        "excerpt": "أدى صعود وقود الطائرات بعد حرب الشرق الأوسط إلى رفع أسعار الرحلات الدولية الشهر الماضي 15.9% على أساس سنوي، وزاد عبء رسوم الوقود على الرحلات الطويلة.",
+        "body": "ارتفعت أسعار الرحلات الجوية الدولية الشهر الماضي بأكبر وتيرة منذ فترة ما بعد كوفيد-19، مع صعود أسعار وقود الطائرات بسبب تداعيات حرب الشرق الأوسط. ووفق ما ذكره مكتب البيانات الوطني في اليوم التاسع، بلغ مؤشر أسعار المستهلك لتذاكر الطيران الدولية 138.82. وبما أن أسعار عام 2020 تساوي 100 في هذا المؤشر، فهذا يعني أن الأسعار الحالية أعلى بنسبة 38.82% من مستوى الأساس. ومقارنة بالفترة نفسها من العام الماضي، ارتفعت الأسعار 15.9%. ويعد ذلك أعلى معدل منذ عام 2022، عندما أعيد فتح خطوط الطيران بعد الجائحة وانطلقت بقوة طلبات السفر إلى الخارج. وفي أبريل، ارتفعت رسوم الوقود إلى ما يقرب من ثلاثة أضعاف مستواها في مارس، ما زاد العبء على ركاب الرحلات الطويلة. لكن مع تحول أسعار وقود الطائرات مؤخرا إلى الانخفاض، قد تتراجع بعض رسوم الوقود بعد يونيو. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "अंतरराष्ट्रीय हवाई किराया 15.9% बढ़ा, ईंधन अधिभार से यात्री परेशान",
+        "excerpt": "मध्य पूर्व युद्ध के असर से विमान ईंधन महंगा हुआ, जिससे पिछले महीने अंतरराष्ट्रीय हवाई किराया सालाना 15.9% बढ़ा और लंबी दूरी के यात्रियों पर अधिभार बढ़ा।",
+        "body": "मध्य पूर्व युद्ध के असर से विमान ईंधन की कीमतें तेज बढ़ीं और पिछले महीने अंतरराष्ट्रीय हवाई किराए की वृद्धि दर कोविड-19 के बाद के सबसे ऊंचे स्तर पर पहुंच गई। राष्ट्रीय डेटा कार्यालय ने 9 तारीख को बताया कि पिछले महीने अंतरराष्ट्रीय हवाई किराया उपभोक्ता मूल्य सूचकांक 138.82 रहा। 2020 की कीमतों को 100 मानने वाले इस सूचकांक के अनुसार मौजूदा अंतरराष्ट्रीय किराए आधार वर्ष से 38.82% ऊपर हैं। पिछले वर्ष की समान अवधि की तुलना में बढ़ोतरी 15.9% रही। यह 2022 के बाद सबसे अधिक है, जब कोविड-19 के बाद हवाई मार्ग फिर खुले थे और दबा हुआ विदेश यात्रा मांग तेजी से बढ़ी थी। अप्रैल में ईंधन अधिभार मार्च की तुलना में लगभग तीन गुना तक बढ़ गया, जिससे लंबी दूरी के यात्रियों पर बोझ बढ़ा। हालांकि हाल में विमान ईंधन की कीमतें नीचे मुड़ी हैं, इसलिए जून के बाद अधिभार में कुछ कमी आ सकती है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tarif Penerbangan Internasional Naik 15,9% karena Beban Surcharge BBM",
+        "excerpt": "Dampak perang Timur Tengah membuat harga avtur naik, sehingga tarif penerbangan internasional bulan lalu melonjak 15,9% tahunan dan membebani rute jarak jauh.",
+        "body": "Tarif penerbangan internasional bulan lalu naik pada laju tertinggi sejak periode setelah COVID-19, karena harga avtur melonjak akibat dampak perang Timur Tengah. Menurut Badan Data Nasional pada tanggal 9, indeks harga konsumen untuk tarif penerbangan internasional bulan lalu berada di 138,82. Dengan harga tahun 2020 dijadikan 100, angka itu berarti tarif internasional kini 38,82% lebih tinggi dari titik dasar. Dibanding periode yang sama tahun lalu, kenaikannya mencapai 15,9%. Ini merupakan kenaikan tertinggi sejak 2022, ketika rute penerbangan kembali dibuka setelah COVID-19 dan permintaan perjalanan luar negeri yang tertahan meningkat tajam. Pada April, surcharge bahan bakar naik hingga hampir tiga kali lipat dibanding Maret, sehingga beban penumpang rute jarak jauh bertambah. Namun, karena harga avtur belakangan berbalik turun, surcharge setelah Juni berpotensi sedikit menurun. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "49dc1e2b4263",
+    "slug": "머니쇼-투자고수-알짜-강연-13일부터-다시보기-서비스-535240",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T06:29:09.882Z",
+    "updatedAt": "2026-05-09T06:29:09.883Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042299",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042299",
+    "titleFingerprint": "e1d9386cb74dded9e81030ede94e2f4647beecce",
+    "dedupKeys": [
+      "49dc1e2b4263a35eb5e71a5325abf78d2702db8e",
+      "e1d9386cb74dded9e81030ede94e2f4647beecce",
+      "f1337fd0e497d5150bbb2f59b5a3790a8412d682"
+    ],
+    "imageUrl": "/images/articles/49dc1e2b4263.jpg",
+    "i18n": {
+      "ko": {
+        "title": "머니쇼 투자고수 강연 다시보기 13일 시작, 서울머니쇼 핵심 강의 공개",
+        "excerpt": "2026 서울머니쇼가 7~9일 서울 강남 코엑스에서 열린 뒤, 출근·학업 등으로 현장 강연을 놓친 관람객을 위해 투자고수 알짜 강연 다시보기 서비스를 13일부터 제공합니다.",
+        "body": "국내 최대 재테크 박람회인 ‘2026 서울머니쇼’가 지난 7일부터 9일까지 서울 강남 코엑스에서 성황리에 열린 뒤, 주요 강연을 다시 볼 수 있는 서비스가 13일부터 제공됩니다. 이번 다시보기는 출근이나 학교 일정 등으로 현장 강연을 미처 보지 못한 관람객을 대상으로 합니다. 서울머니쇼는 재테크 관련 강연과 정보를 한자리에서 접할 수 있는 행사로, 투자고수들의 알짜 강연이 관심을 모았습니다. 다시보기 서비스가 시작되면 현장 참석이 어려웠던 이용자도 주요 강연 내용을 확인할 수 있습니다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Money Show Expert Investment Lectures Available for Replay From May 13",
+        "excerpt": "After the 2026 Seoul Money Show was held at COEX in Gangnam, Seoul, from May 7 to 9, replay access to selected expert investment lectures will begin on May 13 for those who missed them.",
+        "body": "The 2026 Seoul Money Show, South Korea’s largest personal finance fair, was held from May 7 to 9 at COEX in Gangnam, Seoul, and a replay service for key lectures will begin on May 13. The service is aimed at visitors who could not watch the sessions in person because of work, school, or other schedules. The Seoul Money Show brought together lectures and information on wealth management, drawing attention to selected talks by investment experts. Once the replay service opens, users who could not attend the venue will be able to review the main lecture content. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "マネーショー投資達人講演、5月13日から見逃し配信開始",
+        "excerpt": "2026ソウルマネーショーは5月7～9日にソウル江南のCOEXで開催され、仕事や学校で見逃した来場者向けに投資達人講演の再視聴サービスを13日から提供します。",
+        "body": "韓国最大規模の財テク見本市「2026ソウルマネーショー」が5月7日から9日までソウル江南のCOEXで盛況のうちに開かれ、主要講演を再視聴できるサービスが13日から提供されます。今回の見逃し配信は、出勤や学校の日程などで現場講演を見ることができなかった来場者を対象にしています。ソウルマネーショーは財テク関連の講演と情報を一カ所で得られるイベントで、投資達人による厳選講演が関心を集めました。サービス開始後は、会場参加が難しかった利用者も主要講演の内容を確認できます。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Money Show投资高手讲座5月13日起提供回看服务",
+        "excerpt": "2026首尔Money Show于5月7日至9日在首尔江南COEX举行，面向因上班、上学未能观看现场讲座的观众，13日起提供投资高手精选讲座回看服务。",
+        "body": "韩国最大理财博览会“2026首尔Money Show”于5月7日至9日在首尔江南COEX成功举行后，主要讲座回看服务将从13日起提供。此次回看服务面向因上班、上学等日程未能观看现场讲座的观众。首尔Money Show是集中提供理财相关讲座和信息的活动，投资高手的精选讲座受到关注。回看服务开启后，未能到场的用户也可以确认主要讲座内容。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Money Show: charlas de expertos en inversión se verán online desde el 13 de mayo",
+        "excerpt": "Tras celebrarse el Seoul Money Show 2026 del 7 al 9 de mayo en COEX, Gangnam, Seúl, el servicio de repetición de charlas clave de expertos en inversión estará disponible desde el día 13.",
+        "body": "El Seoul Money Show 2026, la mayor feria de finanzas personales de Corea del Sur, se celebró del 7 al 9 de mayo en COEX, en Gangnam, Seúl, y desde el día 13 ofrecerá un servicio para volver a ver sus principales conferencias. La opción está dirigida a quienes no pudieron asistir o ver las charlas por trabajo, estudios u otros horarios. El evento reúne conferencias e información sobre gestión patrimonial, y las sesiones seleccionadas de expertos en inversión concentraron la atención. Con el inicio del servicio, los usuarios que no pudieron estar en el recinto podrán revisar el contenido principal. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Money Show terá replay de palestras de especialistas em investimento a partir de 13 de maio",
+        "excerpt": "Após o Seoul Money Show 2026 ocorrer de 7 a 9 de maio no COEX, em Gangnam, Seul, o serviço de replay das principais palestras de especialistas em investimento começará no dia 13.",
+        "body": "O Seoul Money Show 2026, a maior feira de finanças pessoais da Coreia do Sul, foi realizado de 7 a 9 de maio no COEX, em Gangnam, Seul, e oferecerá a partir do dia 13 um serviço para rever suas principais palestras. A iniciativa é voltada a visitantes que não conseguiram acompanhar as sessões presenciais por causa do trabalho, da escola ou de outros compromissos. O evento reúne palestras e informações sobre gestão financeira, e as apresentações selecionadas de especialistas em investimento chamaram atenção. Com o início do replay, usuários que não foram ao local poderão conferir o conteúdo principal. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Money Show: Investmentvorträge von Experten ab 13. Mai als Replay verfügbar",
+        "excerpt": "Nach der Seoul Money Show 2026 vom 7. bis 9. Mai im COEX in Gangnam, Seoul, startet am 13. Mai ein Replay-Service für ausgewählte Vorträge von Investmentexperten.",
+        "body": "Die Seoul Money Show 2026, Südkoreas größte Messe für private Geldanlage, fand vom 7. bis 9. Mai im COEX in Gangnam, Seoul, statt. Ab dem 13. Mai wird ein Service angeboten, über den wichtige Vorträge erneut angesehen werden können. Das Angebot richtet sich an Besucher, die die Veranstaltungen wegen Arbeit, Schule oder anderer Termine nicht vor Ort verfolgen konnten. Die Seoul Money Show bündelt Vorträge und Informationen rund um Vermögensaufbau; besonders ausgewählte Beiträge von Investmentexperten standen im Fokus. Mit dem Start des Replay-Service können auch Nutzer ohne Messebesuch die zentralen Inhalte abrufen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Money Show : les conférences d’experts en investissement disponibles en replay dès le 13 mai",
+        "excerpt": "Après le Seoul Money Show 2026, organisé du 7 au 9 mai au COEX de Gangnam, à Séoul, un service de replay des principales conférences d’experts en investissement débutera le 13 mai.",
+        "body": "Le Seoul Money Show 2026, plus grand salon sud-coréen consacré aux finances personnelles, s’est tenu du 7 au 9 mai au COEX, dans le quartier de Gangnam à Séoul. Un service permettant de revoir les principales conférences sera proposé à partir du 13 mai. Il vise les visiteurs qui n’ont pas pu assister aux sessions sur place en raison du travail, des cours ou d’autres contraintes. L’événement rassemble conférences et informations liées à la gestion patrimoniale, et les interventions sélectionnées d’experts en investissement ont retenu l’attention. Avec ce replay, les utilisateurs absents du site pourront consulter les contenus majeurs. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "محاضرات خبراء الاستثمار في Money Show متاحة للإعادة من 13 مايو",
+        "excerpt": "بعد انعقاد معرض Seoul Money Show 2026 من 7 إلى 9 مايو في مركز COEX بمنطقة غانغنام في سيول، ستبدأ خدمة إعادة مشاهدة المحاضرات المختارة لخبراء الاستثمار في 13 مايو.",
+        "body": "أقيم معرض “Seoul Money Show 2026”، وهو أكبر معرض لإدارة الأموال الشخصية في كوريا الجنوبية، من 7 إلى 9 مايو في مركز COEX بمنطقة غانغنام في سيول، وستتاح خدمة إعادة مشاهدة المحاضرات الرئيسية ابتداء من 13 مايو. تستهدف الخدمة الزوار الذين لم يتمكنوا من متابعة المحاضرات في الموقع بسبب العمل أو الدراسة أو جداول أخرى. يجمع المعرض محاضرات ومعلومات مرتبطة بإدارة الثروات، وقد جذبت المحاضرات المختارة لخبراء الاستثمار اهتماما واضحا. ومع بدء الخدمة، سيتمكن المستخدمون الذين تعذر حضورهم من الاطلاع على محتوى المحاضرات الرئيسية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Money Show में निवेश विशेषज्ञों के व्याख्यान 13 मई से रीप्ले पर उपलब्ध",
+        "excerpt": "2026 Seoul Money Show 7 से 9 मई तक सियोल के गंगनम स्थित COEX में आयोजित हुआ, जिसके बाद काम या पढ़ाई के कारण व्याख्यान न देख पाने वालों के लिए 13 मई से रीप्ले सेवा शुरू होगी।",
+        "body": "दक्षिण कोरिया का सबसे बड़ा पर्सनल फाइनेंस मेला ‘2026 Seoul Money Show’ 7 से 9 मई तक सियोल के गंगनम स्थित COEX में आयोजित हुआ, और इसके प्रमुख व्याख्यानों को दोबारा देखने की सेवा 13 मई से उपलब्ध होगी। यह सेवा उन दर्शकों के लिए है जो काम, स्कूल या अन्य समय-सारिणी के कारण现场 व्याख्यान नहीं देख सके। Seoul Money Show धन प्रबंधन से जुड़ी जानकारी और व्याख्यानों को एक स्थान पर प्रस्तुत करता है, जहां निवेश विशेषज्ञों के चयनित व्याख्यानों ने ध्यान खींचा। रीप्ले सेवा शुरू होने के बाद, स्थल पर शामिल न हो सके उपयोगकर्ता भी मुख्य व्याख्यान सामग्री देख सकेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kuliah Pakar Investasi Money Show Bisa Ditonton Ulang Mulai 13 Mei",
+        "excerpt": "Setelah Seoul Money Show 2026 digelar pada 7-9 Mei di COEX, Gangnam, Seoul, layanan tonton ulang kuliah pilihan pakar investasi akan tersedia mulai tanggal 13 bagi pengunjung yang melewatkannya.",
+        "body": "Seoul Money Show 2026, pameran keuangan pribadi terbesar di Korea Selatan, digelar pada 7-9 Mei di COEX, Gangnam, Seoul, dan layanan untuk menonton ulang kuliah utama akan tersedia mulai tanggal 13. Layanan ini ditujukan bagi pengunjung yang tidak sempat menyaksikan kuliah di lokasi karena bekerja, sekolah, atau jadwal lain. Seoul Money Show menghadirkan kuliah dan informasi seputar pengelolaan kekayaan dalam satu acara, dengan kuliah pilihan dari para pakar investasi menarik perhatian. Setelah layanan tonton ulang dibuka, pengguna yang tidak hadir di tempat dapat memeriksa isi kuliah utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "861f646467bc",
     "slug": "삼성바이오로직스-노사-협상-또-결렬추후-협의-내용-비공개-872663",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Saham Hugel melonjak berkat rekor kinerja, namun kuartal II perlu hati-hati",
         "excerpt": "Hugel mencetak kinerja kuartal pertama terbaik pada 2026 dan harga sahamnya melonjak, tetapi artikel asli menilai kuartal kedua perlu disikapi hati-hati.",
         "body": "Hugel mencatat pada kuartal pertama 2026 pendapatan konsolidasi 116,6 miliar won, laba operasi 47,6 miliar won, dan laba bersih 40,6 miliar won, menjadi kinerja kuartal pertama terbaik sepanjang sejarah perusahaan. Dibandingkan periode yang sama tahun sebelumnya, pendapatan naik 29,9%, laba operasi meningkat 22,3%, dan laba bersih bertambah 31,5%. Penjualan luar negeri gabungan produk toksin botulinum dan filler mencapai 70,8 miliar won, naik 46%, sementara pasar Amerika Serikat, China, Eropa, dan Brasil menyumbang kenaikan sekitar 21 miliar won. Kinerja kuat mendorong saham naik tajam, tetapi artikel asli menyebut kuartal kedua perlu dicermati dengan hati-hati. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "f2d8265b90ff",
-    "slug": "gs리테일-분석-편의점수퍼홈쇼핑의-고른-개선내수경기-회복이-관건-425923",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T17:28:54.380Z",
-    "updatedAt": "2026-05-08T17:28:54.380Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084211i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084211i",
-    "titleFingerprint": "8c8cbae0223445b31f9bb7ba4ee19bef08daa987",
-    "dedupKeys": [
-      "f2d8265b90ffdbe9ac39976851c01404145fee5a",
-      "8c8cbae0223445b31f9bb7ba4ee19bef08daa987",
-      "b4a255076317ddb4019ea16c583b1942281a36b9"
-    ],
-    "imageUrl": "/images/articles/f2d8265b90ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "GS리테일 분석: 편의점·수퍼·홈쇼핑 고른 개선, 내수 회복이 관건",
-        "excerpt": "한국경제는 GS리테일 분석에서 편의점·수퍼·홈쇼핑 부문의 고른 개선 흐름을 짚고, 향후 실적의 핵심 변수로 내수경기 회복 여부를 제시했다.",
-        "body": "한국경제(hankyung.com)는 GS리테일 분석에서 편의점, 수퍼, 홈쇼핑 등 주요 사업 부문이 고르게 개선되는 흐름을 보였다고 전했다. 이번 분석의 핵심은 특정 부문에만 의존한 회복이 아니라 여러 유통 채널에서 개선 신호가 나타났다는 점이다. 다만 향후 실적 흐름은 국내 소비 여건과 내수경기 회복 여부에 달려 있다는 평가가 함께 제시됐다. 편의점과 수퍼는 생활밀착형 소비와 연결돼 있고, 홈쇼핑은 소비심리 변화에 민감한 만큼 내수 회복 속도가 중요 변수로 꼽힌다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "GS Retail Analysis: Convenience Stores, Supermarkets and Home Shopping Improve",
-        "excerpt": "Hankyung said in its GS Retail analysis that convenience stores, supermarkets and home shopping showed broad improvement, while domestic demand recovery remains the key variable.",
-        "body": "Hankyung.com reported in its analysis of GS Retail that the company’s main business areas, including convenience stores, supermarkets and home shopping, showed an evenly improving trend. The key point of the analysis is that recovery signals were not limited to one segment but appeared across multiple retail channels. However, the report also noted that future earnings momentum depends on domestic consumption conditions and whether the local economy recovers. Convenience stores and supermarkets are closely tied to everyday spending, while home shopping is sensitive to shifts in consumer sentiment, making the pace of domestic demand recovery an important factor. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "GSリテール分析：コンビニ・スーパー・通販が改善、内需回復が焦点",
-        "excerpt": "韓国経済はGSリテール分析で、コンビニ、スーパー、ホームショッピングがそろって改善し、今後は内需景気の回復が重要な変数になると伝えた。",
-        "body": "韓国経済（hankyung.com）はGSリテールの分析で、コンビニ、スーパー、ホームショッピングなど主要事業部門がそろって改善する流れを示したと伝えた。今回の分析の要点は、特定部門だけに依存した回復ではなく、複数の流通チャネルで改善の兆しが見られた点にある。ただし、今後の業績の流れは国内消費環境と内需景気の回復 여부に左右されるとの見方も示された。コンビニとスーパーは生活密着型消費とつながり、ホームショッピングは消費心理の変化に敏感なため、内需回復の速度が重要な変数とされる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "GS Retail分析：便利店、超市与电视购物均改善，内需复苏成关键",
-        "excerpt": "韩国经济在GS Retail分析中指出，便利店、超市和电视购物业务呈现均衡改善，未来业绩的核心变量在于韩国国内需求能否复苏。",
-        "body": "韩国经济（hankyung.com）在GS Retail分析中表示，便利店、超市、电视购物等主要业务板块呈现较为均衡的改善趋势。此次分析的核心在于，复苏并非只依赖某一个板块，而是在多个零售渠道中同时出现改善信号。不过，报告也指出，未来业绩走势将取决于韩国国内消费环境以及内需经济能否恢复。便利店和超市与日常生活消费密切相关，电视购物则对消费者信心变化较为敏感，因此内需复苏速度被视为重要变量。来源：hankyung.com."
-      },
-      "es": {
-        "title": "Análisis de GS Retail: mejoran tiendas, supermercados y home shopping",
-        "excerpt": "Hankyung señaló en su análisis de GS Retail que las tiendas de conveniencia, los supermercados y el home shopping mejoraron de forma pareja, con la recuperación de la demanda interna como clave.",
-        "body": "Hankyung.com informó en su análisis de GS Retail que las principales áreas de negocio, incluidas las tiendas de conveniencia, los supermercados y el home shopping, mostraron una mejora equilibrada. El punto central del análisis es que las señales de recuperación no dependen de un solo segmento, sino que aparecen en varios canales minoristas. Sin embargo, también se indicó que la evolución futura de los resultados dependerá de las condiciones del consumo interno y de si se recupera la economía doméstica. Las tiendas de conveniencia y los supermercados están vinculados al consumo cotidiano, mientras que el home shopping es sensible a los cambios en la confianza del consumidor, por lo que el ritmo de recuperación de la demanda interna será un factor importante. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Análise da GS Retail: lojas, supermercados e home shopping melhoram",
-        "excerpt": "A Hankyung afirmou em sua análise da GS Retail que lojas de conveniência, supermercados e home shopping melhoraram de forma ampla, enquanto a recuperação da demanda interna segue crucial.",
-        "body": "A Hankyung.com informou em sua análise da GS Retail que os principais segmentos de negócios, incluindo lojas de conveniência, supermercados e home shopping, apresentaram uma tendência de melhora equilibrada. O ponto central da análise é que os sinais de recuperação não ficaram restritos a uma área específica, mas apareceram em vários canais de varejo. Ainda assim, o relatório destacou que a trajetória futura dos resultados dependerá das condições do consumo doméstico e da recuperação da economia interna. Lojas de conveniência e supermercados estão ligados ao consumo cotidiano, enquanto o home shopping é sensível às mudanças no sentimento do consumidor, tornando o ritmo da recuperação da demanda interna um fator importante. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "GS-Retail-Analyse: Convenience, Supermärkte und Homeshopping erholen sich",
-        "excerpt": "Hankyung berichtete in einer Analyse zu GS Retail, dass Convenience-Stores, Supermärkte und Homeshopping breit verbessert sind, während die Erholung der Binnennachfrage entscheidend bleibt.",
-        "body": "Hankyung.com berichtete in seiner Analyse zu GS Retail, dass die wichtigsten Geschäftsbereiche, darunter Convenience-Stores, Supermärkte und Homeshopping, eine gleichmäßige Verbesserung zeigten. Der zentrale Punkt der Analyse ist, dass die Erholung nicht nur von einem bestimmten Bereich getragen wird, sondern sich Anzeichen der Verbesserung über mehrere Einzelhandelskanäle hinweg zeigen. Zugleich wurde betont, dass der weitere Ergebnisverlauf von den inländischen Konsumbedingungen und der Erholung der Binnenkonjunktur abhängt. Convenience-Stores und Supermärkte sind eng mit dem Alltagskonsum verbunden, während Homeshopping empfindlich auf Veränderungen der Verbraucherstimmung reagiert. Daher gilt das Tempo der Erholung der Binnennachfrage als wichtiger Faktor. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Analyse de GS Retail : supérettes, supermarchés et téléachat progressent",
-        "excerpt": "Hankyung indique dans son analyse de GS Retail que les supérettes, supermarchés et activités de téléachat s’améliorent de manière équilibrée, la reprise de la demande intérieure restant clé.",
-        "body": "Hankyung.com a indiqué dans son analyse de GS Retail que les principaux pôles d’activité, notamment les supérettes, les supermarchés et le téléachat, affichaient une amélioration régulière. Le point central de l’analyse est que les signaux de reprise ne reposent pas sur un seul segment, mais apparaissent dans plusieurs canaux de distribution. Toutefois, le rapport souligne aussi que l’évolution future des résultats dépendra des conditions de consommation intérieure et de la reprise de l’économie domestique. Les supérettes et les supermarchés sont liés à la consommation quotidienne, tandis que le téléachat est sensible aux variations du moral des consommateurs. Le rythme de reprise de la demande intérieure est donc considéré comme un facteur important. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "تحليل GS Retail: تحسن المتاجر والسوبرماركت والتسوق المنزلي وترقب الطلب المحلي",
-        "excerpt": "ذكرت هانكيونغ في تحليلها لـ GS Retail أن متاجر القرب والسوبرماركت والتسوق المنزلي أظهرت تحسنا متوازنا، فيما تبقى استعادة الطلب المحلي العامل الحاسم.",
-        "body": "أفاد موقع hankyung.com في تحليله لشركة GS Retail بأن قطاعات الأعمال الرئيسية، بما في ذلك متاجر القرب والسوبرماركت والتسوق المنزلي، أظهرت اتجاها من التحسن المتوازن. وتتمثل النقطة الأساسية في التحليل في أن إشارات التعافي لم تعتمد على قطاع واحد فقط، بل ظهرت عبر عدة قنوات للبيع بالتجزئة. ومع ذلك، أشار التقرير أيضا إلى أن مسار النتائج مستقبلا سيتوقف على ظروف الاستهلاك المحلي وما إذا كان الاقتصاد المحلي سيتعافى. وترتبط متاجر القرب والسوبرماركت بالاستهلاك اليومي، بينما يتأثر التسوق المنزلي بتغيرات ثقة المستهلك، لذلك تعد سرعة تعافي الطلب المحلي عاملا مهما. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "GS Retail विश्लेषण: सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग में सुधार",
-        "excerpt": "Hankyung ने GS Retail विश्लेषण में कहा कि सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग में समान रूप से सुधार दिखा, जबकि घरेलू मांग की रिकवरी प्रमुख कारक रहेगी।",
-        "body": "Hankyung.com ने GS Retail के विश्लेषण में बताया कि सुविधा स्टोर, सुपरमार्केट और होम शॉपिंग सहित प्रमुख कारोबार क्षेत्रों में समान रूप से सुधार का रुझान दिखा। इस विश्लेषण का मुख्य बिंदु यह है कि सुधार किसी एक विशेष क्षेत्र पर निर्भर नहीं है, बल्कि कई रिटेल चैनलों में सुधार के संकेत दिखाई दे रहे हैं। हालांकि रिपोर्ट में यह भी कहा गया कि आगे की आय की दिशा घरेलू उपभोग की स्थिति और स्थानीय अर्थव्यवस्था की रिकवरी पर निर्भर करेगी। सुविधा स्टोर और सुपरमार्केट रोजमर्रा की खपत से जुड़े हैं, जबकि होम शॉपिंग उपभोक्ता भावना में बदलाव के प्रति संवेदनशील है। इसलिए घरेलू मांग की रिकवरी की गति एक महत्वपूर्ण कारक मानी जा रही है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Analisis GS Retail: Minimarket, Supermarket, dan Home Shopping Membaik",
-        "excerpt": "Hankyung menyebut dalam analisis GS Retail bahwa minimarket, supermarket, dan home shopping membaik secara merata, sementara pemulihan permintaan domestik menjadi faktor utama.",
-        "body": "Hankyung.com melaporkan dalam analisis GS Retail bahwa lini bisnis utama, termasuk minimarket, supermarket, dan home shopping, menunjukkan tren perbaikan yang merata. Poin utama analisis ini adalah bahwa sinyal pemulihan tidak hanya bergantung pada satu segmen, tetapi muncul di beberapa kanal ritel. Namun, laporan tersebut juga menyebut bahwa arah kinerja ke depan akan bergantung pada kondisi konsumsi domestik dan apakah ekonomi dalam negeri pulih. Minimarket dan supermarket berkaitan erat dengan konsumsi sehari-hari, sementara home shopping sensitif terhadap perubahan sentimen konsumen. Karena itu, laju pemulihan permintaan domestik dinilai sebagai faktor penting. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "4f01b4873508",
-    "slug": "구리금-투자할-때산업용-금속-슈퍼사이클-온다-657252",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T17:27:53.305Z",
-    "updatedAt": "2026-05-08T17:27:53.305Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084286i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084286i",
-    "titleFingerprint": "60e0fc7af5706ab21358b23ec78cb4f02eb7cce1",
-    "dedupKeys": [
-      "4f01b487350833a8c1753935b0803e7fe20f495e",
-      "60e0fc7af5706ab21358b23ec78cb4f02eb7cce1",
-      "4fa7ece0c443268d8d16c34e276c982284fbdfaa"
-    ],
-    "imageUrl": "/images/articles/4f01b4873508.jpg",
-    "i18n": {
-      "ko": {
-        "title": "구리·금 투자 적기론 부상…한국경제가 전한 산업용 금속 슈퍼사이클 전망과 시장 포인트",
-        "excerpt": "한국경제는 구리와 금 투자 시점을 둘러싼 시장 관심이 커지는 가운데 산업용 금속 슈퍼사이클 가능성이 제기됐다고 보도했다.",
-        "body": "한국경제는 구리와 금 투자 시점을 둘러싼 시장 관심이 커지는 가운데 산업용 금속 슈퍼사이클 가능성이 제기됐다고 보도했다. 원문 제목은 \"구리·금 투자할 때\"와 \"산업용 금속 슈퍼사이클 온다\"는 표현으로 핵심 흐름을 제시했다. 배경에는 산업용 금속 가격과 투자 수요에 대한 시장의 주목이 있다. 다만 제공된 원문 요약에는 구체적인 가격, 기간, 기관명, 수익률 수치가 포함되지 않았다. 따라서 투자 판단에는 원문 전체와 최신 시장 데이터를 함께 확인할 필요가 있다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Copper and Gold Investing Draws Attention as Hankyung Flags Industrial Metals Supercycle",
-        "excerpt": "Hankyung reported rising market interest in when to invest in copper and gold, citing the possibility of an industrial metals supercycle.",
-        "body": "Hankyung reported that market interest is growing around the timing of investments in copper and gold, while the possibility of an industrial metals supercycle has been raised. The original headline highlighted the core message with the phrases \"time to invest in copper and gold\" and \"an industrial metals supercycle is coming.\" The context is renewed attention to industrial metal prices and investment demand. However, the provided source summary did not include specific prices, time periods, institution names, or return figures. Investors should therefore review the full original article and current market data before making decisions. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "銅・金投資への関心高まる、韓国経済が伝えた産業用金属スーパーサイクル 전망",
-        "excerpt": "韓国経済は、銅と金の投資タイミングをめぐる市場の関心が高まる中、産業用金属スーパーサイクルの可能性が浮上したと報じた。",
-        "body": "韓国経済は、銅と金の投資タイミングをめぐる市場の関心が高まる中、産業用金属スーパーサイクルの可能性が浮上したと報じた。原文の見出しは「銅・金に投資する時」と「産業用金属スーパーサイクルが来る」という表現で、核心的な流れを示した。背景には、産業用金属価格と投資需要に対する市場の注目がある。ただし、提示された原文要約には具体的な価格、期間、機関名、収益率の数値は含まれていない。投資判断には原文全体と最新の市場データを併せて確認する必要がある。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "铜和黄金投资受关注，韩经称工业金属超级周期或将到来",
-        "excerpt": "韩国经济报道称，随着市场对铜和黄金投资时机的关注升温，工业金属超级周期的可能性被提出。",
-        "body": "韩国经济报道称，围绕铜和黄金投资时机的市场关注正在升温，工业金属超级周期的可能性也被提出。原文标题以“到了投资铜和黄金的时候”和“工业金属超级周期将到来”的表述概括了核心趋势。其背景是市场对工业金属价格和投资需求的关注增加。不过，所提供的原文摘要并未包含具体价格、时间区间、机构名称或收益率数据。因此，投资判断仍需结合原文全文和最新市场数据进行确认。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Cobre y oro ganan foco inversor mientras Hankyung apunta a superciclo de metales industriales",
-        "excerpt": "Hankyung informó que crece el interés del mercado por el momento de invertir en cobre y oro, junto con la posibilidad de un superciclo de metales industriales.",
-        "body": "Hankyung informó que aumenta el interés del mercado por el momento de invertir en cobre y oro, mientras se plantea la posibilidad de un superciclo de metales industriales. El titular original resumió el mensaje central con las expresiones \"momento de invertir en cobre y oro\" y \"se acerca un superciclo de metales industriales\". El contexto es la atención renovada hacia los precios de los metales industriales y la demanda de inversión. Sin embargo, el resumen proporcionado no incluye precios concretos, periodos, nombres de instituciones ni cifras de rentabilidad. Por ello, cualquier decisión de inversión debe contrastarse con el artículo completo y datos de mercado actualizados. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Cobre e ouro atraem investidores enquanto Hankyung cita superciclo de metais industriais",
-        "excerpt": "O Hankyung informou que cresce o interesse do mercado sobre quando investir em cobre e ouro, diante da possibilidade de um superciclo de metais industriais.",
-        "body": "O Hankyung informou que cresce o interesse do mercado em torno do momento de investir em cobre e ouro, enquanto é levantada a possibilidade de um superciclo de metais industriais. O título original destacou a mensagem central com as expressões \"hora de investir em cobre e ouro\" e \"o superciclo dos metais industriais está chegando\". O contexto é a maior atenção aos preços dos metais industriais e à demanda de investimento. No entanto, o resumo fornecido não inclui preços específicos, períodos, nomes de instituições ou números de retorno. Assim, decisões de investimento devem considerar o artigo completo e dados de mercado atualizados. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Kupfer und Gold rücken in den Fokus, Hankyung verweist auf Superzyklus bei Industriemetallen",
-        "excerpt": "Hankyung berichtete über wachsendes Marktinteresse am Anlagezeitpunkt für Kupfer und Gold sowie über die Möglichkeit eines Superzyklus bei Industriemetallen.",
-        "body": "Hankyung berichtete, dass das Marktinteresse am richtigen Zeitpunkt für Investitionen in Kupfer und Gold zunimmt und zugleich die Möglichkeit eines Superzyklus bei Industriemetallen genannt wird. Die Originalüberschrift hob die Kernbotschaft mit den Formulierungen \"Zeit für Investitionen in Kupfer und Gold\" und \"ein Superzyklus bei Industriemetallen kommt\" hervor. Hintergrund ist die stärkere Beachtung von Industriemetallpreisen und Investitionsnachfrage. Die bereitgestellte Zusammenfassung enthält jedoch keine konkreten Preise, Zeiträume, Institutionennamen oder Renditezahlen. Anlageentscheidungen sollten daher den vollständigen Originalartikel und aktuelle Marktdaten einbeziehen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Cuivre et or attirent l’attention alors que Hankyung évoque un supercycle des métaux industriels",
-        "excerpt": "Hankyung a rapporté que l’intérêt du marché pour le moment d’investir dans le cuivre et l’or augmente, avec la possibilité d’un supercycle des métaux industriels.",
-        "body": "Hankyung a rapporté que l’intérêt du marché grandit autour du moment d’investir dans le cuivre et l’or, tandis que la possibilité d’un supercycle des métaux industriels est évoquée. Le titre original résume le message central avec les expressions \"le moment d’investir dans le cuivre et l’or\" et \"un supercycle des métaux industriels arrive\". Le contexte est l’attention portée aux prix des métaux industriels et à la demande d’investissement. Toutefois, le résumé fourni ne contient pas de prix précis, de période, de nom d’institution ni de chiffre de rendement. Toute décision d’investissement devrait donc être vérifiée avec l’article complet et les données de marché récentes. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "النحاس والذهب في بؤرة المستثمرين مع إشارة هانكيونغ إلى دورة فائقة للمعادن الصناعية",
-        "excerpt": "ذكرت هانكيونغ أن اهتمام السوق بتوقيت الاستثمار في النحاس والذهب يتزايد، مع طرح احتمال دخول المعادن الصناعية في دورة فائقة.",
-        "body": "ذكرت هانكيونغ أن اهتمام السوق يتزايد بشأن توقيت الاستثمار في النحاس والذهب، في وقت طُرح فيه احتمال دخول المعادن الصناعية في دورة فائقة. وأبرز العنوان الأصلي الفكرة الأساسية بتعبيرين هما \"حان وقت الاستثمار في النحاس والذهب\" و\"دورة فائقة للمعادن الصناعية قادمة\". وتتمثل الخلفية في زيادة التركيز على أسعار المعادن الصناعية والطلب الاستثماري. لكن الملخص المقدم لا يتضمن أسعارا محددة أو فترات زمنية أو أسماء مؤسسات أو أرقام عوائد. لذلك ينبغي مراجعة النص الأصلي الكامل وبيانات السوق الأحدث قبل اتخاذ أي قرار استثماري. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "तांबा और सोना निवेश फोकस में, Hankyung ने औद्योगिक धातुओं के सुपर साइकिल की बात कही",
-        "excerpt": "Hankyung ने बताया कि तांबा और सोना में निवेश के समय को लेकर बाजार की रुचि बढ़ रही है और औद्योगिक धातुओं के सुपर साइकिल की संभावना उठी है।",
-        "body": "Hankyung ने बताया कि तांबा और सोना में निवेश के समय को लेकर बाजार की रुचि बढ़ रही है, जबकि औद्योगिक धातुओं के सुपर साइकिल की संभावना सामने रखी गई है। मूल शीर्षक ने \"तांबा और सोना में निवेश का समय\" और \"औद्योगिक धातुओं का सुपर साइकिल आ रहा है\" जैसे वाक्यों से मुख्य प्रवाह बताया। पृष्ठभूमि में औद्योगिक धातुओं की कीमतों और निवेश मांग पर बाजार का ध्यान है। हालांकि दिए गए मूल सारांश में ठोस कीमतें, अवधि, संस्थानों के नाम या रिटर्न के आंकड़े शामिल नहीं हैं। इसलिए निवेश निर्णय से पहले पूरा मूल लेख और ताजा बाजार डेटा साथ में देखना जरूरी है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Investasi Tembaga dan Emas Disorot, Hankyung Sebut Supercycle Logam Industri Bisa Datang",
-        "excerpt": "Hankyung melaporkan minat pasar terhadap waktu investasi tembaga dan emas meningkat, seiring munculnya kemungkinan supercycle logam industri.",
-        "body": "Hankyung melaporkan bahwa minat pasar terhadap waktu investasi pada tembaga dan emas meningkat, sementara kemungkinan supercycle logam industri mulai disebut. Judul asli menyoroti pesan utama melalui ungkapan \"saatnya berinvestasi pada tembaga dan emas\" dan \"supercycle logam industri akan datang\". Latar belakangnya adalah perhatian pasar terhadap harga logam industri dan permintaan investasi. Namun, ringkasan sumber yang diberikan tidak memuat harga spesifik, periode, nama lembaga, atau angka imbal hasil. Karena itu, keputusan investasi perlu memeriksa artikel asli secara lengkap dan data pasar terbaru. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "ae72286860ac",
-    "slug": "파라다이스-분석-홀드율-급락에-실적-충격1분기가-바닥-평가-981723",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T17:26:50.935Z",
-    "updatedAt": "2026-05-08T17:26:50.935Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084281i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084281i",
-    "titleFingerprint": "a32558b7ddc9a69a7747faa7bca1401f864d9058",
-    "dedupKeys": [
-      "ae72286860acf9673855f82b5468e6176432884b",
-      "a32558b7ddc9a69a7747faa7bca1401f864d9058",
-      "15fe205f6ba71fa6365c89dcfda182234f557a17"
-    ],
-    "imageUrl": "/images/articles/ae72286860ac.jpg",
-    "i18n": {
-      "ko": {
-        "title": "파라다이스 분석: 홀드율 급락에 실적 충격, 1분기 바닥론 부상",
-        "excerpt": "파라다이스는 홀드율 급락 여파로 실적 충격을 겪었지만, 시장에서는 1분기를 저점으로 보는 평가가 제기됐다고 hankyung.com이 전했다.",
-        "body": "파라다이스가 홀드율 급락으로 실적 충격을 받은 가운데, 1분기가 실적의 바닥이라는 평가가 나왔다. hankyung.com에 따르면 이번 분석의 핵심은 카지노 수익성에 직접 영향을 주는 홀드율 하락이 단기 실적을 흔들었다는 점이다. 원문에는 구체적인 매출액, 영업이익, 홀드율 수치가 별도로 제시되지 않았다. 다만 제목에서 확인되는 바와 같이 실적 부담의 원인은 홀드율 급락으로 지목됐고, 향후 관전 포인트는 1분기 이후 실적 회복 여부로 정리된다. 출처는 hankyung.com이다."
-      },
-      "en": {
-        "title": "Paradise Analysis: Hold Rate Plunge Hits Earnings as Q1 Seen as Bottom",
-        "excerpt": "Paradise suffered an earnings shock after a sharp drop in hold rate, while market analysis described the first quarter as a potential bottom, hankyung.com reported.",
-        "body": "Paradise faced an earnings shock after a sharp decline in its hold rate, with analysis suggesting the first quarter may mark the bottom for performance. According to hankyung.com, the central point of the analysis is that the drop in hold rate, a key factor for casino profitability, weighed on short-term results. The original text did not provide specific figures for revenue, operating profit, or the hold rate. Based on the stated information, the earnings pressure was attributed to the sharp fall in hold rate, while the main issue ahead is whether results improve after the first quarter. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "パラダイス分析：ホールド率急落で業績ショック、1四半期底打ち論が浮上",
-        "excerpt": "パラダイスはホールド率の急落で業績に衝撃を受けたが、市場では第1四半期を底とみる評価が出ているとhankyung.comが伝えた。",
-        "body": "パラダイスはホールド率の急落により業績面でショックを受け、第1四半期が業績の底になるとの評価が出ている。hankyung.comによると、今回の分析の焦点は、カジノ収益性に直接影響するホールド率の低下が短期業績を揺さぶった点にある。原文では売上高、営業利益、ホールド率の具体的な数値は別途示されていない。ただし、タイトルで確認できる通り、業績負担の要因はホールド率急落とされ、今後の注目点は第1四半期以降に業績が回復するかどうかに整理される。出典はhankyung.com。"
-      },
-      "zh": {
-        "title": "百乐达斯分析：持有率骤降冲击业绩，第一季度被视为低点",
-        "excerpt": "hankyung.com报道称，百乐达斯因持有率骤降受到业绩冲击，但市场出现将第一季度视为业绩低点的评价。",
-        "body": "百乐达斯因持有率骤降而受到业绩冲击，同时出现了第一季度或为业绩底部的分析评价。据hankyung.com报道，此次分析的核心在于，直接影响赌场盈利能力的持有率下降，对短期业绩造成压力。原文未单独提供营收、营业利润或持有率的具体数字。根据标题可确认的信息，业绩压力的原因被指向持有率急剧下滑，而后续关注点则是第一季度之后业绩能否恢复。消息来源为hankyung.com。"
-      },
-      "es": {
-        "title": "Paradise: caída del hold rate golpea resultados y el 1T se ve como suelo",
-        "excerpt": "Paradise sufrió un impacto en resultados por la fuerte caída del hold rate, mientras se plantea que el primer trimestre pudo ser el punto más bajo, informó hankyung.com.",
-        "body": "Paradise recibió un golpe en sus resultados tras una fuerte caída del hold rate, mientras surgió la valoración de que el primer trimestre podría haber sido el suelo del desempeño. Según hankyung.com, el punto central del análisis es que el descenso del hold rate, un factor que incide directamente en la rentabilidad del casino, afectó los resultados de corto plazo. El texto original no incluyó cifras concretas de ingresos, beneficio operativo ni hold rate. Con la información disponible, la presión sobre las ganancias se atribuye a esa caída, y el foco pasa a ser si los resultados mejoran después del primer trimestre. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Paradise: queda do hold rate pressiona lucro e 1º tri é visto como piso",
-        "excerpt": "A Paradise sofreu choque nos resultados com a forte queda do hold rate, enquanto análises apontam o primeiro trimestre como possível piso, informou o hankyung.com.",
-        "body": "A Paradise sofreu um choque nos resultados após uma forte queda do hold rate, ao mesmo tempo em que surgiu a avaliação de que o primeiro trimestre pode ter marcado o piso do desempenho. Segundo o hankyung.com, o ponto central da análise é que a queda do hold rate, fator diretamente ligado à rentabilidade de cassinos, pressionou os resultados de curto prazo. O texto original não apresentou números específicos de receita, lucro operacional ou hold rate. Com base nas informações disponíveis, a pressão sobre os resultados foi atribuída à queda do hold rate, e o foco passa a ser a recuperação após o primeiro trimestre. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Paradise-Analyse: Hold-Rate-Einbruch belastet Ergebnis, Q1 gilt als Tiefpunkt",
-        "excerpt": "Paradise erlitt durch den starken Rückgang der Hold Rate einen Ergebnisschock; zugleich wird das erste Quartal als möglicher Tiefpunkt bewertet, berichtete hankyung.com.",
-        "body": "Paradise hat infolge eines starken Rückgangs der Hold Rate einen Ergebnisschock erlitten, während das erste Quartal als möglicher Tiefpunkt der Geschäftsentwicklung bewertet wird. Laut hankyung.com liegt der Kern der Analyse darin, dass die sinkende Hold Rate, ein direkt relevanter Faktor für die Casino-Rentabilität, die kurzfristigen Ergebnisse belastete. Der Originaltext nannte keine konkreten Zahlen zu Umsatz, operativem Gewinn oder Hold Rate. Auf Basis der vorliegenden Informationen wird der Ergebnisdruck auf den deutlichen Rückgang der Hold Rate zurückgeführt. Entscheidend bleibt nun, ob sich die Ergebnisse nach dem ersten Quartal erholen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Paradise : chute du hold rate et choc sur les résultats, le T1 vu comme point bas",
-        "excerpt": "Paradise a subi un choc de résultats après la forte baisse du hold rate, tandis que le premier trimestre est présenté comme un possible point bas, selon hankyung.com.",
-        "body": "Paradise a subi un choc sur ses résultats après une forte baisse du hold rate, tandis qu’une analyse considère le premier trimestre comme un possible point bas de la performance. Selon hankyung.com, l’élément central est que le recul du hold rate, facteur directement lié à la rentabilité des casinos, a pesé sur les résultats à court terme. Le texte original ne fournit pas de chiffres précis sur le chiffre d’affaires, le bénéfice d’exploitation ou le hold rate. D’après les informations disponibles, la pression sur les résultats est attribuée à cette chute, et l’enjeu porte désormais sur une éventuelle amélioration après le premier trimestre. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "تحليل بارادايس: هبوط معدل الاحتفاظ يضغط الأرباح والربع الأول يعد القاع",
-        "excerpt": "تعرضت بارادايس لصدمة في النتائج بسبب الهبوط الحاد في معدل الاحتفاظ، بينما ظهرت قراءة ترى أن الربع الأول قد يكون نقطة القاع، وفق hankyung.com.",
-        "body": "تعرضت بارادايس لصدمة في نتائجها بعد هبوط حاد في معدل الاحتفاظ، في حين ظهرت قراءة تعتبر الربع الأول نقطة قاع محتملة للأداء. ووفق hankyung.com، يتمحور التحليل حول أن تراجع معدل الاحتفاظ، وهو عامل يؤثر مباشرة في ربحية الكازينو، ضغط على النتائج القصيرة الأجل. ولم يورد النص الأصلي أرقاما محددة للإيرادات أو الربح التشغيلي أو معدل الاحتفاظ. وبناء على المعلومات المتاحة، تعزى ضغوط الأداء إلى الهبوط الحاد في هذا المعدل، بينما يبقى محور المتابعة هو ما إذا كانت النتائج ستتحسن بعد الربع الأول. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "पैराडाइज विश्लेषण: होल्ड रेट में तेज गिरावट से नतीकों को झटका, पहली तिमाही तल मानी गई",
-        "excerpt": "पैराडाइज को होल्ड रेट में तेज गिरावट से नतीजों पर झटका लगा, जबकि विश्लेषण में पहली तिमाही को संभावित निचला स्तर बताया गया, hankyung.com ने बताया।",
-        "body": "पैराडाइज को होल्ड रेट में तेज गिरावट के बाद नतीजों पर झटका लगा, जबकि विश्लेषण में पहली तिमाही को प्रदर्शन का संभावित निचला स्तर माना गया। hankyung.com के अनुसार, इस विश्लेषण का मुख्य बिंदु यह है कि कैसीनो की लाभप्रदता पर सीधे असर डालने वाले होल्ड रेट में गिरावट ने अल्पकालिक नतीजों पर दबाव डाला। मूल पाठ में राजस्व, परिचालन लाभ या होल्ड रेट के विशिष्ट आंकड़े अलग से नहीं दिए गए। उपलब्ध जानकारी के आधार पर नतीजों पर दबाव का कारण होल्ड रेट की तेज गिरावट बताया गया है, और आगे ध्यान इस बात पर रहेगा कि पहली तिमाही के बाद प्रदर्शन सुधरता है या नहीं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Analisis Paradise: Hold Rate Anjlok Pukul Kinerja, Kuartal I Dinilai Jadi Dasar",
-        "excerpt": "Paradise mengalami tekanan kinerja akibat penurunan tajam hold rate, sementara analisis menilai kuartal pertama sebagai kemungkinan titik terendah, lapor hankyung.com.",
-        "body": "Paradise mengalami guncangan kinerja setelah hold rate turun tajam, sementara muncul penilaian bahwa kuartal pertama dapat menjadi titik terendah bagi hasil usaha. Menurut hankyung.com, inti analisis ini adalah bahwa penurunan hold rate, faktor yang langsung memengaruhi profitabilitas kasino, menekan kinerja jangka pendek. Teks asli tidak menyajikan angka spesifik untuk pendapatan, laba operasi, atau hold rate. Berdasarkan informasi yang tersedia, tekanan kinerja dikaitkan dengan anjloknya hold rate, sedangkan fokus berikutnya adalah apakah hasil usaha membaik setelah kuartal pertama. Sumber: hankyung.com."
       }
     }
   }
