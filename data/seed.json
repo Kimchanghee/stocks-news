@@ -1,5 +1,230 @@
 [
   {
+    "id": "408477bae4b8",
+    "slug": "세계식량가격지수-3년여만에-최고치곡물유지류육류-상승종합-214503",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T11:15:39.506Z",
+    "updatedAt": "2026-05-09T11:15:39.506Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509031351030",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509031351030",
+    "titleFingerprint": "dac791ad044c0d3147cb4e949fc93bb044a25a6e",
+    "dedupKeys": [
+      "408477bae4b8f54e26d5555b2eed7d4d42a55fa1",
+      "dac791ad044c0d3147cb4e949fc93bb044a25a6e",
+      "433317f25ffdf17654c7c1a05f77149971ee089b"
+    ],
+    "imageUrl": "/images/articles/408477bae4b8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "세계식량가격지수 3년2개월 만에 최고치, 곡물·유지류·육류 상승",
+        "excerpt": "유엔 식량농업기구가 8일 발표한 4월 세계식량가격지수는 130.7로 전월보다 1.6% 올라 3년2개월 만에 최고치를 기록했다.",
+        "body": "유엔 식량농업기구(FAO)가 8일 발표한 4월 세계식량가격지수는 130.7로, 전월보다 1.6% 상승하며 3개월 연속 올랐다. 이는 2023년 2월 이후 3년 2개월 만의 최고 수준이다. 품목별로는 곡물, 유지류, 육류 가격이 상승했고 유제품과 설탕 가격은 하락했다. 유지류 가격지수는 전월보다 5.9% 올라 2022년 7월 이후 가장 높았고, 육류 가격지수는 1.2% 상승해 역대 최고치를 기록했다. 곡물 가격지수는 0.8% 올랐으며 쌀 가격도 1.9% 상승했다. 반면 유제품은 1.1%, 설탕은 4.7% 내렸다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "World Food Price Index Hits 3-Year High as Grains, Oils, Meat Rise",
+        "excerpt": "The FAO said on May 8 that the April World Food Price Index rose 1.6% from March to 130.7, its highest level in three years and two months.",
+        "body": "The UN Food and Agriculture Organization said on May 8 that the World Food Price Index for April reached 130.7, up 1.6% from the previous month and rising for a third straight month. It was the highest level since February 2023, or in three years and two months. By category, cereals, vegetable oils and meat prices rose, while dairy and sugar prices fell. The vegetable oil index climbed 5.9% from March to its highest since July 2022, and the meat index rose 1.2% to a record high. The cereal index gained 0.8%, while rice prices rose 1.9%. Dairy fell 1.1% and sugar dropped 4.7%. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "世界食料価格指数が3年2カ月ぶり高水準、穀物・油脂・肉類上昇",
+        "excerpt": "FAOが8日に発表した4月の世界食料価格指数は130.7となり、前月比1.6%上昇して3年2カ月ぶりの高水準となった。",
+        "body": "国連食糧農業機関(FAO)が8日に発表した4月の世界食料価格指数は130.7で、前月より1.6%上昇し、3カ月連続で上がった。2023年2月以来、3年2カ月ぶりの高い水準となる。品目別では穀物、植物油、肉類の価格が上昇し、乳製品と砂糖は下落した。植物油価格指数は前月比5.9%上がり、2022年7月以来の高水準となった。肉類価格指数は1.2%上昇し、過去最高を記録した。穀物価格指数は0.8%上昇し、コメ価格も1.9%上がった。一方、乳製品は1.1%、砂糖は4.7%下落した。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "世界食品价格指数创3年2个月新高，谷物、油脂和肉类上涨",
+        "excerpt": "联合国粮农组织8日发布的4月世界食品价格指数为130.7，环比上涨1.6%，升至3年2个月以来最高水平。",
+        "body": "联合国粮食及农业组织(FAO)8日发布的4月世界食品价格指数为130.7，较上月上涨1.6%，连续第三个月上升。这是自2023年2月以来、3年2个月的最高水平。按品类看，谷物、植物油和肉类价格上涨，乳制品和糖价下跌。植物油价格指数环比上涨5.9%，达到2022年7月以来最高水平；肉类价格指数上涨1.2%，创历史新高。谷物价格指数上涨0.8%，大米价格也上涨1.9%。相反，乳制品下跌1.1%，糖价下跌4.7%。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Índice mundial de alimentos toca máximo de 3 años por cereales, aceites y carne",
+        "excerpt": "La FAO informó el 8 de mayo que el índice mundial de precios de alimentos subió 1,6% en abril, a 130,7, su mayor nivel en 3 años y 2 meses.",
+        "body": "La Organización de las Naciones Unidas para la Alimentación y la Agricultura informó el 8 de mayo que el índice mundial de precios de los alimentos de abril llegó a 130,7, un alza mensual del 1,6% y el tercer aumento consecutivo. Es el nivel más alto desde febrero de 2023, en tres años y dos meses. Por grupos, subieron cereales, aceites vegetales y carne, mientras bajaron lácteos y azúcar. El índice de aceites vegetales avanzó 5,9% frente a marzo, el mayor nivel desde julio de 2022, y el de carne subió 1,2% hasta un récord. Los cereales aumentaron 0,8% y el arroz 1,9%. Los lácteos cayeron 1,1% y el azúcar 4,7%. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Índice global de alimentos atinge máxima de 3 anos com grãos, óleos e carnes",
+        "excerpt": "A FAO informou em 8 de maio que o índice mundial de preços dos alimentos subiu 1,6% em abril, para 130,7, maior nível em 3 anos e 2 meses.",
+        "body": "A Organização das Nações Unidas para a Alimentação e a Agricultura informou em 8 de maio que o índice mundial de preços dos alimentos de abril chegou a 130,7, alta de 1,6% ante o mês anterior e terceira subida seguida. Foi o maior nível desde fevereiro de 2023, em três anos e dois meses. Por categoria, cereais, óleos vegetais e carnes subiram, enquanto lácteos e açúcar recuaram. O índice de óleos vegetais avançou 5,9% ante março, o maior nível desde julho de 2022, e o de carnes subiu 1,2%, atingindo recorde. Cereais subiram 0,8% e arroz 1,9%. Lácteos caíram 1,1% e açúcar 4,7%. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Weltlebensmittelpreisindex auf 3-Jahres-Hoch: Getreide, Öle und Fleisch steigen",
+        "excerpt": "Die FAO meldete am 8. Mai für April einen Weltlebensmittelpreisindex von 130,7, 1,6% mehr als im März und den höchsten Stand seit 3 Jahren und 2 Monaten.",
+        "body": "Die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen meldete am 8. Mai, dass der Weltlebensmittelpreisindex im April 130,7 Punkte erreichte. Das waren 1,6% mehr als im Vormonat und der dritte monatliche Anstieg in Folge. Es war der höchste Stand seit Februar 2023, also seit drei Jahren und zwei Monaten. Nach Warengruppen stiegen Getreide, pflanzliche Öle und Fleisch, während Milchprodukte und Zucker sanken. Der Index für pflanzliche Öle legte gegenüber März um 5,9% zu und erreichte den höchsten Stand seit Juli 2022. Fleisch stieg um 1,2% auf ein Rekordhoch. Getreide gewann 0,8%, Reis 1,9%. Milchprodukte fielen um 1,1%, Zucker um 4,7%. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "L’indice mondial des prix alimentaires au plus haut en 3 ans, céréales et viande montent",
+        "excerpt": "La FAO a indiqué le 8 mai que l’indice mondial des prix alimentaires d’avril avait gagné 1,6%, à 130,7, son plus haut niveau en 3 ans et 2 mois.",
+        "body": "L’Organisation des Nations unies pour l’alimentation et l’agriculture a indiqué le 8 mai que l’indice mondial des prix alimentaires d’avril s’établissait à 130,7, en hausse de 1,6% sur un mois et en progression pour le troisième mois consécutif. Il s’agit du plus haut niveau depuis février 2023, soit en trois ans et deux mois. Par catégorie, les prix des céréales, des huiles végétales et de la viande ont augmenté, tandis que les produits laitiers et le sucre ont reculé. L’indice des huiles végétales a gagné 5,9% par rapport à mars, au plus haut depuis juillet 2022, et celui de la viande a progressé de 1,2% à un record. Les céréales ont augmenté de 0,8% et le riz de 1,9%. Les produits laitiers ont baissé de 1,1% et le sucre de 4,7%. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "مؤشر أسعار الغذاء العالمي يبلغ أعلى مستوى في 3 سنوات مع صعود الحبوب والزيوت واللحوم",
+        "excerpt": "قالت الفاو في 8 مايو إن مؤشر أسعار الغذاء العالمي في أبريل ارتفع 1.6% إلى 130.7، مسجلا أعلى مستوى في 3 سنوات وشهرين.",
+        "body": "قالت منظمة الأغذية والزراعة التابعة للأمم المتحدة في 8 مايو إن مؤشر أسعار الغذاء العالمي لشهر أبريل بلغ 130.7 نقطة، مرتفعا 1.6% عن الشهر السابق ومحققا زيادة للشهر الثالث على التوالي. وهذا أعلى مستوى منذ فبراير 2023، أي منذ ثلاث سنوات وشهرين. وبحسب الفئات، ارتفعت أسعار الحبوب والزيوت النباتية واللحوم، بينما تراجعت أسعار منتجات الألبان والسكر. وصعد مؤشر الزيوت النباتية 5.9% عن مارس إلى أعلى مستوى منذ يوليو 2022، وارتفع مؤشر اللحوم 1.2% إلى مستوى قياسي. وزاد مؤشر الحبوب 0.8%، كما ارتفعت أسعار الأرز 1.9%. في المقابل، هبطت منتجات الألبان 1.1% والسكر 4.7%. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "विश्व खाद्य मूल्य सूचकांक 3 साल 2 माह के उच्च स्तर पर, अनाज-तेल-मांस महंगे",
+        "excerpt": "FAO ने 8 मई को बताया कि अप्रैल का विश्व खाद्य मूल्य सूचकांक 1.6% बढ़कर 130.7 पर पहुंचा, जो 3 साल 2 महीने का उच्चतम स्तर है।",
+        "body": "संयुक्त राष्ट्र के खाद्य और कृषि संगठन ने 8 मई को बताया कि अप्रैल का विश्व खाद्य मूल्य सूचकांक 130.7 रहा, जो पिछले महीने से 1.6% अधिक है और लगातार तीसरे महीने बढ़ा है। यह फरवरी 2023 के बाद, यानी तीन साल और दो महीने में, सबसे ऊंचा स्तर है। श्रेणी के आधार पर अनाज, वनस्पति तेल और मांस की कीमतें बढ़ीं, जबकि डेयरी उत्पाद और चीनी सस्ती हुई। वनस्पति तेल सूचकांक मार्च से 5.9% बढ़कर जुलाई 2022 के बाद सबसे ऊंचे स्तर पर पहुंचा। मांस सूचकांक 1.2% चढ़कर रिकॉर्ड स्तर पर गया। अनाज सूचकांक 0.8% और चावल की कीमत 1.9% बढ़ी। वहीं डेयरी 1.1% और चीनी 4.7% घटी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Indeks Harga Pangan Dunia Tertinggi 3 Tahun, Sereal, Minyak dan Daging Naik",
+        "excerpt": "FAO pada 8 Mei menyatakan Indeks Harga Pangan Dunia April naik 1,6% menjadi 130,7, level tertinggi dalam 3 tahun 2 bulan.",
+        "body": "Organisasi Pangan dan Pertanian PBB pada 8 Mei menyatakan Indeks Harga Pangan Dunia April mencapai 130,7, naik 1,6% dari bulan sebelumnya dan meningkat untuk bulan ketiga berturut-turut. Ini merupakan level tertinggi sejak Februari 2023, atau dalam tiga tahun dua bulan. Berdasarkan kelompok, harga sereal, minyak nabati, dan daging naik, sementara produk susu dan gula turun. Indeks minyak nabati naik 5,9% dari Maret ke level tertinggi sejak Juli 2022, dan indeks daging naik 1,2% ke rekor tertinggi. Indeks sereal meningkat 0,8%, sementara harga beras naik 1,9%. Sebaliknya, produk susu turun 1,1% dan gula turun 4,7%. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9896b7e489f8",
+    "slug": "부고-이방우금융감독원-공보실-공보기획팀장씨-모친상-801807",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T11:14:23.408Z",
+    "updatedAt": "2026-05-09T11:14:23.408Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509043600505",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509043600505",
+    "titleFingerprint": "c09c485b53bbb156a4f58ba95243536764a018ab",
+    "dedupKeys": [
+      "9896b7e489f84bf804dbb67157afe82edd431b42",
+      "c09c485b53bbb156a4f58ba95243536764a018ab",
+      "4ee7bba0a885f1d87ac8a54a274aacce6275d75e"
+    ],
+    "imageUrl": "/images/articles/9896b7e489f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "금융감독원 공보기획팀장 이방우 씨 모친 송자화 씨 별세",
+        "excerpt": "송자화 씨가 9일 오후 2시 향년 84세로 별세했다. 고인은 이방우 금융감독원 공보실 공보기획팀장의 모친으로, 빈소는 제주 서귀포시 안덕면 서광서리 복지회관에 마련됐다.",
+        "body": "송자화 씨가 9일 오후 2시 향년 84세로 별세했다. 고인은 이방우 금융감독원 공보실 공보기획팀장의 모친이다. 빈소는 제주 서귀포시 안덕면 서광서리 복지회관에 마련됐다. 이번 부고는 금융감독원 공보실 소속 간부의 모친상으로 전해졌으며, 원문에는 별세 시각과 고인의 나이, 유족 관계, 빈소 위치가 포함됐다. 장례와 관련한 추가 일정은 원문 요약에 공개된 범위 안에서는 확인되지 않았다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "FSS Public Relations Planning Team Head Lee Bang-woo Mourns Mother",
+        "excerpt": "Song Ja-hwa died at 2 p.m. on the 9th at age 84. She was the mother of Lee Bang-woo, head of the Public Relations Planning Team at South Korea’s Financial Supervisory Service.",
+        "body": "Song Ja-hwa died at 2 p.m. on the 9th at the age of 84. She was the mother of Lee Bang-woo, head of the Public Relations Planning Team in the Public Relations Office of South Korea’s Financial Supervisory Service. The funeral venue was arranged at the welfare center in Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. The notice identifies the time of death, the deceased’s age, the family relationship and the funeral location. No further funeral schedule was confirmed within the provided summary. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "金融監督院広報企画チーム長の李邦雨氏、母・宋子花さん死去",
+        "excerpt": "宋子花さんが9日午後2時、84歳で死去した。宋さんは金融監督院広報室広報企画チーム長の李邦雨氏の母で、葬儀場は済州西帰浦市に設けられた。",
+        "body": "宋子花さんが9日午後2時、84歳で死去した。故人は金融監督院広報室広報企画チーム長を務める李邦雨氏の母。葬儀場は済州特別自治道西帰浦市安徳面西広西里の福祉会館に設けられた。今回の訃報は、金融監督院広報室所属幹部の母の死去として伝えられた。原文には死亡時刻、故人の年齢、遺族関係、葬儀場の所在地が示されている。葬儀に関する追加日程は、提示された要約の範囲では確認されていない。出典: yna.co.kr。"
+      },
+      "zh": {
+        "title": "韩国金融监督院公报企划组长李邦雨母亲宋子花去世",
+        "excerpt": "宋子花于9日下午2时去世，享年84岁。她是韩国金融监督院公报室公报企划组长李邦雨的母亲，灵堂设在济州西归浦市安德面西广西里福利会馆。",
+        "body": "宋子花于9日下午2时去世，享年84岁。逝者是韩国金融监督院公报室公报企划组长李邦雨的母亲。灵堂设在济州西归浦市安德面西广西里福利会馆。该讣告涉及金融监督院公报室一名干部的母亲去世，原文提供了去世时间、逝者年龄、亲属关系以及灵堂地点。关于葬礼的其他具体日程，在所给摘要范围内尚未确认。来源: yna.co.kr。"
+      },
+      "es": {
+        "title": "Fallece Song Ja-hwa, madre de Lee Bang-woo, directivo del FSS",
+        "excerpt": "Song Ja-hwa falleció el día 9 a las 2 p.m. a los 84 años. Era la madre de Lee Bang-woo, jefe del equipo de planificación de prensa del Servicio de Supervisión Financiera de Corea del Sur.",
+        "body": "Song Ja-hwa falleció el día 9 a las 2 p.m. a los 84 años. Era la madre de Lee Bang-woo, jefe del Equipo de Planificación de Comunicaciones en la Oficina de Prensa del Servicio de Supervisión Financiera de Corea del Sur. El velatorio fue dispuesto en el centro de bienestar de Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. La nota informa la hora del fallecimiento, la edad de la difunta, el vínculo familiar y el lugar del velatorio. No se confirmaron otros detalles del funeral en el resumen disponible. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Morre Song Ja-hwa, mãe de Lee Bang-woo, chefe de comunicação do FSS",
+        "excerpt": "Song Ja-hwa morreu no dia 9, às 14h, aos 84 anos. Ela era mãe de Lee Bang-woo, chefe da equipe de planejamento de comunicação do Serviço de Supervisão Financeira da Coreia do Sul.",
+        "body": "Song Ja-hwa morreu no dia 9, às 14h, aos 84 anos. Ela era mãe de Lee Bang-woo, chefe da Equipe de Planejamento de Comunicação do Escritório de Relações Públicas do Serviço de Supervisão Financeira da Coreia do Sul. O velório foi organizado no centro comunitário de Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. A nota informa o horário da morte, a idade da falecida, a relação familiar e o local do velório. Outros detalhes do funeral não foram confirmados no resumo fornecido. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Song Ja-hwa, Mutter von FSS-Kommunikationschef Lee Bang-woo, gestorben",
+        "excerpt": "Song Ja-hwa starb am 9. um 14 Uhr im Alter von 84 Jahren. Sie war die Mutter von Lee Bang-woo, Leiter des Planungsteams für Öffentlichkeitsarbeit bei Südkoreas Finanzaufsicht FSS.",
+        "body": "Song Ja-hwa ist am 9. um 14 Uhr im Alter von 84 Jahren gestorben. Sie war die Mutter von Lee Bang-woo, dem Leiter des Planungsteams für Öffentlichkeitsarbeit im Pressebüro der südkoreanischen Finanzaufsicht FSS. Die Trauerstätte wurde im Wohlfahrtszentrum in Seogwang-seo-ri, Andeok-myeon, Seogwipo auf Jeju eingerichtet. Die Meldung nennt Todeszeit, Alter der Verstorbenen, Familienbeziehung und Ort der Trauerstätte. Weitere Angaben zum Ablauf der Beisetzung wurden in der vorliegenden Zusammenfassung nicht bestätigt. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Décès de Song Ja-hwa, mère de Lee Bang-woo, responsable au FSS",
+        "excerpt": "Song Ja-hwa est décédée le 9 à 14 h, à l’âge de 84 ans. Elle était la mère de Lee Bang-woo, chef de l’équipe de planification de la communication du Service de supervision financière sud-coréen.",
+        "body": "Song Ja-hwa est décédée le 9 à 14 h, à l’âge de 84 ans. Elle était la mère de Lee Bang-woo, chef de l’équipe de planification de la communication au sein du bureau de presse du Service de supervision financière de Corée du Sud. La chambre funéraire a été installée au centre de bien-être de Seogwang-seo-ri, Andeok-myeon, Seogwipo, sur l’île de Jeju. L’avis précise l’heure du décès, l’âge de la défunte, le lien familial et le lieu des obsèques. Aucun autre calendrier funéraire n’est confirmé dans le résumé fourni. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "وفاة سونغ جا هوا والدة لي بانغ وو مسؤول الإعلام في الرقابة المالية",
+        "excerpt": "توفيت سونغ جا هوا في الساعة الثانية بعد ظهر يوم 9 عن عمر 84 عاما. وهي والدة لي بانغ وو، رئيس فريق تخطيط الإعلام في مكتب العلاقات العامة بهيئة الرقابة المالية في كوريا الجنوبية.",
+        "body": "توفيت سونغ جا هوا في الساعة الثانية بعد ظهر يوم 9 عن عمر 84 عاما. والراحلة هي والدة لي بانغ وو، رئيس فريق تخطيط الإعلام في مكتب العلاقات العامة بهيئة الرقابة المالية في كوريا الجنوبية. وأقيمت قاعة العزاء في مركز الرعاية في سيوغوانغ-سيو-ري، أنديوك-ميون، سيوغويبو في جزيرة جيجو. يورد النعي وقت الوفاة وعمر الراحلة وصلة القرابة ومكان العزاء. ولم يتم تأكيد أي جدول إضافي للجنازة ضمن الملخص المتاح. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "FSS जनसंपर्क योजना प्रमुख ली बांग-वू की मां सोंग जा-ह्वा का निधन",
+        "excerpt": "सोंग जा-ह्वा का 9 तारीख को दोपहर 2 बजे 84 वर्ष की आयु में निधन हो गया। वह दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा के जनसंपर्क योजना टीम प्रमुख ली बांग-वू की मां थीं।",
+        "body": "सोंग जा-ह्वा का 9 तारीख को दोपहर 2 बजे 84 वर्ष की आयु में निधन हो गया। वह दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा के जनसंपर्क कार्यालय में जनसंपर्क योजना टीम प्रमुख ली बांग-वू की मां थीं। शोक स्थल जेजू के सोग्विपो शहर, आंदोक-म्योन, सोग्वांग-सो-री स्थित कल्याण केंद्र में रखा गया है। इस सूचना में निधन का समय, दिवंगत की आयु, पारिवारिक संबंध और शोक स्थल का पता शामिल है। उपलब्ध सारांश में अंतिम संस्कार से जुड़ी अतिरिक्त समय-सारिणी की पुष्टि नहीं की गई है। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Song Ja-hwa, Ibu Lee Bang-woo Pejabat Humas FSS, Meninggal Dunia",
+        "excerpt": "Song Ja-hwa meninggal pada tanggal 9 pukul 14.00 dalam usia 84 tahun. Ia adalah ibu Lee Bang-woo, kepala Tim Perencanaan Humas di Kantor Humas Layanan Pengawas Keuangan Korea Selatan.",
+        "body": "Song Ja-hwa meninggal pada tanggal 9 pukul 14.00 dalam usia 84 tahun. Ia adalah ibu Lee Bang-woo, kepala Tim Perencanaan Humas di Kantor Humas Layanan Pengawas Keuangan Korea Selatan. Rumah duka disiapkan di balai kesejahteraan Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. Berita duka ini memuat waktu wafat, usia almarhumah, hubungan keluarga, dan lokasi rumah duka. Jadwal tambahan terkait pemakaman tidak terkonfirmasi dalam ringkasan yang diberikan. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "487ade3f69a6",
+    "slug": "삼성전자-노조-다시-협상-테이블로사후조정-절차-돌입-584343",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T11:13:31.616Z",
+    "updatedAt": "2026-05-09T11:13:31.617Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887111/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887111/2",
+    "titleFingerprint": "8064bafe86b3ce14bf98cc6b7fa5ff417a3bb2db",
+    "dedupKeys": [
+      "487ade3f69a6ae62696d17163f3d155b88eda8ba",
+      "8064bafe86b3ce14bf98cc6b7fa5ff417a3bb2db",
+      "f2c180362d02d1fe7a98ee2a1fda6d68e39dd14a"
+    ],
+    "imageUrl": "/images/articles/487ade3f69a6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 노조, 사후조정 참여로 협상 재개…21일 총파업 예고는 유지",
+        "excerpt": "삼성전자 최대 노조인 초기업노조 삼성전자 지부가 8일 정부 요청에 따라 사후조정 절차 참여를 결정하고 사측과 협상 재개에 나섰다.",
+        "body": "삼성전자 최대 노동조합인 초기업노조 삼성전자 지부가 8일 정부가 요청한 사후조정 절차에 참여하겠다고 밝혔다. 노조는 이날 김도형 경기지방고용노동청장과 면담한 뒤 사측과 노사정 미팅을 진행하고 “사후조정 절차를 통한 협상 재개에 나선다”고 설명했다. 노조에 따르면 노동부는 사안의 중대성을 인식하고 정부 차원의 교섭 지원을 약속하며 사후조정 참여를 강력히 권유했다. 노조는 정부의 적극적 의지와 반복된 요청을 고려해 내부 검토 후 참여를 결정했다고 밝혔다. 이번 절차에는 최승호, 이송이, 김재원 위원 등 3명이 참여한다. 최승호 지부장은 조합원이 만족할 결과가 없으면 총파업에 나서겠다고 했으며, 노조는 21일 총파업을 예고한 상태다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Samsung Electronics Union Returns to Talks Through Post-Mediation as Strike Looms",
+        "excerpt": "Samsung Electronics’ largest union said on the 8th it will join the government-requested post-mediation process and resume negotiations with management.",
+        "body": "Samsung Electronics’ largest labor union, the Samsung Electronics branch of the supra-enterprise union, said on the 8th that it would participate in the post-mediation process requested by the government. After meeting Kim Do-hyung, head of the Gyeonggi Regional Employment and Labor Office, the union held a labor-management-government meeting with the company and said it would “resume negotiations through the post-mediation process.” According to the union, the Labor Ministry recognized the seriousness of the matter, promised full government-level support for bargaining, and strongly recommended the procedure. The union said it accepted after internal review, citing the government’s active will and repeated requests. Three union representatives, Choi Seung-ho, Lee Song-yi and Kim Jae-won, will participate. Choi said the union would launch a general strike without hesitation if members are not satisfied, and the union has announced a strike for the 21st. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "サムスン電子労組、事後調整参加で交渉再開へ…21日スト予告は維持",
+        "excerpt": "サムスン電子最大労組の超企業労組サムスン電子支部は8日、政府要請の事後調整手続きに参加し、会社側との交渉再開に入ると明らかにした。",
+        "body": "サムスン電子最大労働組合である超企業労組サムスン電子支部は8日、政府が要請した事後調整手続きに参加する意向を示した。同支部は同日、金度亨・京畿地方雇用労働庁長との面談後、会社側と労使政会合を開き、「事後調整手続きを通じて交渉再開に乗り出す」と説明した。労組によると、労働部は今回の事案の重大性を認識し、政府レベルで交渉を全面支援すると約束したうえで、事後調整を強く勧めた。労組は政府側の積極的な姿勢と度重なる要請を重く受け止め、内部検討を経て参加を決めたという。参加する労組側は崔承鎬、李松怡、金載元の3人。崔支部長は組合員が満足する結果が出なければ総ストに入ると強調し、労組は21日の総ストを予告している。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "三星电子工会同意参与事后调解重启谈判，21日总罢工预告仍在",
+        "excerpt": "三星电子最大工会超企业工会三星电子支部8日表示，将按政府要求参与事后调解程序，并与公司方面重启谈判。",
+        "body": "三星电子最大工会、超企业工会三星电子支部8日表示，将参与政府要求的事后调解程序。该支部当天会见京畿地方雇佣劳动厅厅长金度亨后，又与公司方面举行劳资政会议，并称将“通过事后调解程序重启谈判”。据工会介绍，劳动部深刻认识到此事的重要性，承诺从政府层面对谈判给予全面支持，并强烈建议参与事后调解。工会表示，考虑到政府方面的积极意愿和反复请求，经内部讨论后决定接受该程序。参与事后调解的工会方面人员为崔承镐、李松怡、金载元等3人。崔承镐支部长强调，如果不能取得让会员满意的结果，将毫不犹豫地发动总罢工。三星电子工会目前已预告21日举行总罢工。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Sindicato de Samsung Electronics reanuda negociaciones vía mediación posterior",
+        "excerpt": "El mayor sindicato de Samsung Electronics dijo el día 8 que aceptará la mediación posterior solicitada por el Gobierno y retomará las conversaciones con la empresa.",
+        "body": "La filial de Samsung Electronics del sindicato supraempresarial, el mayor sindicato de la compañía, anunció el día 8 que participará en el procedimiento de mediación posterior solicitado por el Gobierno. Tras reunirse con Kim Do-hyung, jefe de la Oficina Regional de Empleo y Trabajo de Gyeonggi, el sindicato mantuvo una reunión laboral, empresarial y gubernamental con la dirección y dijo que “reanudaría las negociaciones mediante la mediación posterior”. Según el sindicato, el Ministerio de Trabajo reconoció la gravedad del asunto, prometió apoyo gubernamental pleno a la negociación y recomendó firmemente el procedimiento. La organización explicó que aceptó tras una revisión interna, considerando la voluntad activa y las repetidas solicitudes del Gobierno. Participarán tres representantes sindicales: Choi Seung-ho, Lee Song-yi y Kim Jae-won. Choi afirmó que irán a una huelga general si los afiliados no quedan satisfechos; el paro está anunciado para el día 21. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Sindicato da Samsung Electronics volta à mesa por mediação pós-acordo do governo",
+        "excerpt": "O maior sindicato da Samsung Electronics afirmou no dia 8 que aceitará o procedimento de mediação posterior solicitado pelo governo e retomará as negociações.",
+        "body": "A filial da Samsung Electronics do sindicato supraempresarial, o maior sindicato da companhia, informou no dia 8 que participará do procedimento de mediação posterior solicitado pelo governo. Após reunião com Kim Do-hyung, chefe do Escritório Regional de Emprego e Trabalho de Gyeonggi, o sindicato se encontrou com a empresa em uma reunião entre trabalhadores, gestão e governo e afirmou que “retomará as negociações por meio da mediação posterior”. Segundo o sindicato, o Ministério do Trabalho reconheceu a gravidade do caso, prometeu apoio governamental amplo às negociações e recomendou fortemente o procedimento. A entidade disse ter aceitado após análise interna, levando em conta a postura ativa e os pedidos repetidos do governo. Três representantes participarão: Choi Seung-ho, Lee Song-yi e Kim Jae-won. Choi disse que haverá greve geral se os membros não ficarem satisfeitos; o sindicato anunciou paralisação para o dia 21. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Samsung-Electronics-Gewerkschaft nimmt Nachschlichtung an und verhandelt wieder",
+        "excerpt": "Die größte Gewerkschaft von Samsung Electronics erklärte am 8., sie werde dem von der Regierung gewünschten Nachschlichtungsverfahren beitreten und Gespräche neu aufnehmen.",
+        "body": "Die Samsung-Electronics-Sparte der überbetrieblichen Gewerkschaft, die größte Arbeitnehmervertretung des Unternehmens, teilte am 8. mit, sie werde an dem von der Regierung beantragten Nachschlichtungsverfahren teilnehmen. Nach einem Treffen mit Kim Do-hyung, Leiter des regionalen Arbeitsamts Gyeonggi, kam die Gewerkschaft mit Unternehmensseite und Regierung zu einem Dreiertreffen zusammen und erklärte, sie werde “die Verhandlungen über das Nachschlichtungsverfahren wieder aufnehmen”. Nach Angaben der Gewerkschaft erkannte das Arbeitsministerium die Schwere des Falls an, versprach umfassende staatliche Unterstützung für die Verhandlungen und empfahl das Verfahren nachdrücklich. Die Gewerkschaft akzeptierte nach interner Prüfung, unter Verweis auf den aktiven Willen und die wiederholten Bitten der Regierung. Teilnehmen werden Choi Seung-ho, Lee Song-yi und Kim Jae-won. Choi sagte, bei unzureichendem Ergebnis werde ein Generalstreik folgen; angekündigt ist er für den 21. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le syndicat de Samsung Electronics reprend les négociations via une post-médiation",
+        "excerpt": "Le plus grand syndicat de Samsung Electronics a annoncé le 8 qu’il participerait à la post-médiation demandée par le gouvernement afin de reprendre les discussions.",
+        "body": "La branche Samsung Electronics du syndicat supra-entreprise, la plus grande organisation syndicale du groupe, a déclaré le 8 qu’elle participerait à la procédure de post-médiation demandée par le gouvernement. Après un entretien avec Kim Do-hyung, chef du bureau régional de l’emploi et du travail de Gyeonggi, le syndicat a tenu une réunion tripartite avec la direction et les autorités, puis a indiqué qu’il “reprendrait les négociations par la procédure de post-médiation”. Selon le syndicat, le ministère du Travail a reconnu la gravité du dossier, promis un soutien gouvernemental complet aux négociations et fortement recommandé cette procédure. L’organisation dit avoir accepté après examen interne, en tenant compte de la volonté active et des demandes répétées du gouvernement. Trois représentants y participeront: Choi Seung-ho, Lee Song-yi et Kim Jae-won. Choi a prévenu qu’une grève générale aurait lieu si les membres ne sont pas satisfaits; elle est annoncée pour le 21. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "نقابة سامسونغ إلكترونيكس تعود للتفاوض عبر وساطة لاحقة وسط تلويح بإضراب عام",
+        "excerpt": "أعلنت أكبر نقابة في سامسونغ إلكترونيكس في الثامن من الشهر أنها ستشارك في إجراء الوساطة اللاحقة الذي طلبته الحكومة لاستئناف التفاوض مع الإدارة.",
+        "body": "أعلنت فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية، وهي أكبر نقابة عمالية في الشركة، في الثامن من الشهر أنها ستشارك في إجراء الوساطة اللاحقة الذي طلبته الحكومة. وبعد لقاء مع كيم دو هيونغ، رئيس مكتب العمل والتوظيف الإقليمي في غيونغي، عقدت النقابة اجتماعا ثلاثيا مع الشركة والحكومة، وقالت إنها “ستستأنف المفاوضات عبر إجراء الوساطة اللاحقة”. ووفقا للنقابة، أدركت وزارة العمل خطورة القضية، ووعدت بدعم حكومي كامل للمفاوضات، كما أوصت بقوة بالمشاركة في الإجراء. وقالت النقابة إنها قبلت بعد مراجعة داخلية، آخذة في الاعتبار الإرادة النشطة للحكومة وطلباتها المتكررة. وسيشارك من جانب النقابة ثلاثة هم تشوي سونغ هو، ولي سونغ يي، وكيم جاي وون. وأكد تشوي أنه إذا لم تظهر نتيجة ترضي الأعضاء فسيمضون إلى إضراب عام، وقد أعلنت النقابة إضرابا في الحادي والعشرين. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सैमसंग इलेक्ट्रॉनिक्स यूनियन पोस्ट-मध्यस्थता में शामिल, बातचीत फिर शुरू",
+        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन ने 8 तारीख को कहा कि वह सरकार के अनुरोध पर पोस्ट-मध्यस्थता प्रक्रिया में शामिल होकर प्रबंधन से बातचीत फिर शुरू करेगी।",
+        "body": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी श्रमिक यूनियन, सुप्रा-एंटरप्राइज यूनियन की सैमसंग इलेक्ट्रॉनिक्स शाखा ने 8 तारीख को कहा कि वह सरकार द्वारा अनुरोधित पोस्ट-मध्यस्थता प्रक्रिया में भाग लेगी। यूनियन ने उसी दिन ग्योंगगी क्षेत्रीय रोजगार और श्रम कार्यालय के प्रमुख किम दो-ह्यंग से मुलाकात के बाद कंपनी के साथ श्रम-प्रबंधन-सरकार बैठक की और कहा कि वह “पोस्ट-मध्यस्थता प्रक्रिया के जरिए बातचीत फिर शुरू करेगी।” यूनियन के अनुसार, श्रम मंत्रालय ने मामले की गंभीरता को समझते हुए वार्ता के लिए सरकारी स्तर पर पूर्ण समर्थन का वादा किया और प्रक्रिया की जोरदार सिफारिश की। यूनियन ने कहा कि सरकार की सक्रिय इच्छा और बार-बार अनुरोधों को देखते हुए आंतरिक समीक्षा के बाद उसने भाग लेने का निर्णय लिया। यूनियन की ओर से चोई स्युंग-हो, ली सोंग-यी और किम जे-वोन भाग लेंगे। चोई ने कहा कि यदि सदस्यों को संतोषजनक परिणाम नहीं मिला तो आम हड़ताल होगी; यूनियन ने 21 तारीख को हड़ताल की चेतावनी दी है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Serikat Samsung Electronics Ikut Mediasi Lanjutan, Negosiasi dengan Manajemen Dibuka Lagi",
+        "excerpt": "Serikat terbesar Samsung Electronics pada tanggal 8 menyatakan akan mengikuti prosedur mediasi lanjutan yang diminta pemerintah dan kembali berunding dengan perusahaan.",
+        "body": "Cabang Samsung Electronics dari serikat supra-perusahaan, serikat pekerja terbesar di Samsung Electronics, menyatakan pada tanggal 8 bahwa pihaknya akan mengikuti prosedur mediasi lanjutan yang diminta pemerintah. Setelah bertemu Kim Do-hyung, kepala Kantor Ketenagakerjaan dan Perburuhan Regional Gyeonggi, serikat mengadakan pertemuan buruh-manajemen-pemerintah dengan perusahaan dan mengatakan akan “memulai kembali negosiasi melalui prosedur mediasi lanjutan”. Menurut serikat, Kementerian Ketenagakerjaan memahami seriusnya persoalan ini, menjanjikan dukungan penuh di tingkat pemerintah untuk perundingan, serta sangat menganjurkan prosedur tersebut. Serikat mengatakan keputusan diambil setelah peninjauan internal dengan mempertimbangkan sikap aktif dan permintaan berulang pemerintah. Tiga perwakilan serikat yang ikut adalah Choi Seung-ho, Lee Song-yi, dan Kim Jae-won. Choi menegaskan akan melakukan mogok umum bila hasilnya tidak memuaskan anggota; serikat telah mengumumkan mogok pada tanggal 21. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "c370085da4cd",
     "slug": "가정의-달나들이-시즌-장바구니-부담-던다-롯데마트-먹거리-할인-행사-진행-654432",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Musk Siapkan Terafab hingga US$119 Miliar untuk Produksi Chip AI",
         "excerpt": "SpaceX yang dipimpin Elon Musk berencana menanamkan investasi hingga US$119 miliar untuk membangun pabrik semikonduktor raksasa Terafab di Grimes County, Texas.",
         "body": "SpaceX yang dipimpin Elon Musk dilaporkan menyiapkan investasi hingga US$119 miliar untuk membangun pabrik semikonduktor raksasa bernama “Terafab” di Grimes County, Texas, Amerika Serikat. Menurut laporan media asing pada tanggal 7 waktu setempat, pemberitahuan dengar pendapat publik yang diajukan ke county tersebut mencantumkan biaya investasi tahap pertama sedikitnya US$55 miliar. Jika biaya konstruksi tambahan dimasukkan, total investasi dapat mencapai US$119 miliar. Angka ini tidak biasa karena pembangunan pabrik semikonduktor canggih umumnya menelan biaya sekitar US$10 miliar hingga US$30 miliar. Terafab adalah proyek produksi chip AI yang digarap bersama oleh SpaceX, Tesla, xAI, dan Intel, dengan fokus memperluas kapasitas produksi semikonduktor di Amerika Serikat. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "7a9750785c65",
-    "slug": "삼성전자-노조-잇단-균열-2대-노조-1대-노조에-사과-요구-705715",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T21:41:22.521Z",
-    "updatedAt": "2026-05-08T21:41:22.521Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889747/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889747/2",
-    "titleFingerprint": "56811067bc0d508433564f4c0ae1a80fa63663d6",
-    "dedupKeys": [
-      "7a9750785c652c0ed855c7ecc0d865779ce25681",
-      "56811067bc0d508433564f4c0ae1a80fa63663d6",
-      "c44c4b234f2f4a7f20cfda1d2756a360723e58ea"
-    ],
-    "imageUrl": "/images/articles/7a9750785c65.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조 갈등 심화…전삼노, 최대 노조에 공식 사과 요구",
-        "excerpt": "삼성전자 노사가 협상 재개를 앞둔 가운데 8일 재계에 따르면 2대 노조 전삼노가 최대 노조 초기업노조에 공문을 보내 공식 사과를 요구했다.",
-        "body": "삼성전자 노사가 협상을 재개하기로 했지만 노조 내부 갈등은 커지고 있다. 8일 재계에 따르면 삼성전자 2대 노조인 전국삼성전자노동조합은 전날 최대 노조인 초기업노동조합 삼성전자 지부에 공문을 보내 공식 사과를 요구했다. 전삼노는 최승호 초기업노조 위원장이 DX 부문을 챙기지 않는다는 취지로 말한 교섭위원에게 교섭 배제 등을 언급하며 협박성 발언을 했다고 주장했다. 전삼노는 이를 “DX 조합원의 목소리를 지우겠다는 행위”라고 지적했다. 앞서 4일에는 3대 노조인 삼성전자노동조합동행이 초기업노조가 자신들을 어용 노조라 비하했다며 교섭단에서 이탈했다. 근로자 절반이 넘는 7만3000명 이상이 가입한 과반 노조들을 둘러싼 노노 갈등이 교섭 재개 국면의 변수로 떠올랐다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Union Rift Deepens as No. 2 Union Demands Apology",
-        "excerpt": "As Samsung Electronics labor and management prepare to resume talks, industry sources said on May 8 that the second-largest union demanded an official apology from the largest union.",
-        "body": "Samsung Electronics labor and management have agreed to resume negotiations, but divisions inside the unions are widening. According to business circles on May 8, the National Samsung Electronics Union, the company’s second-largest union, sent an official letter the previous day to the Samsung Electronics branch of the Super-Enterprise Union, the largest union, demanding a formal apology. The union claimed Chair Choi Seung-ho made threatening remarks, including mentioning exclusion from bargaining, to a negotiator who had said the chair was not taking care of the DX division. The union said this went beyond a personal attack and amounted to silencing DX members. On May 4, the third-largest union, Samsung Electronics Labor Union Donghaeng, left the bargaining group after saying the largest union had disparaged it as a company-friendly union. With majority unions representing more than 73,000 employees, over half the workforce, internal labor conflict has become a variable as talks restart. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子の労組対立深まる、第2労組が最大労組に謝罪要求",
-        "excerpt": "サムスン電子の労使が交渉再開を決めた中、8日の業界情報によると第2労組が最大労組に公文書で公式謝罪を求めた。",
-        "body": "サムスン電子の労使は交渉を再開する方針だが、労組内部の亀裂は深まっている。8日の財界情報によると、同社第2労組の全国サムスン電子労働組合は前日、最大労組である超企業労働組合サムスン電子支部に公文書を送り、公式謝罪を要求した。全サム労は、崔承浩・超企業労組委員長がDX部門を十分に見ていないとの趣旨で発言した交渉委員に対し、交渉からの排除などに言及する威圧的な発言をしたと主張した。全サム労はこれを「DX組合員の声を消そうとする行為」と指摘した。これに先立つ4日には、第3労組のサムスン電子労働組合同幸が、超企業労組から「御用労組」と侮辱されたとして交渉団を離脱した。従業員の半数を超える7万3000人以上が加入する過半労組をめぐる労労対立が、交渉再開局面の変数となっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会裂痕加深，第二大工会要求最大工会道歉",
-        "excerpt": "三星电子劳资双方决定重启谈判之际，据8日业界消息，第二大工会向最大工会发函，要求其正式道歉。",
-        "body": "三星电子劳资双方虽已决定重启谈判，但工会内部矛盾正在加深。据8日业界消息，三星电子第二大工会全国三星电子劳动组合前一天向最大工会超企业劳动组合三星电子支部发送公文，要求正式道歉。全三劳称，超企业工会委员长崔承浩对一名谈判委员作出带有威胁性质的发言，包括提及将其排除出谈判；该谈判委员此前曾表达委员长没有照顾DX部门的意思。全三劳在公文中指出，这已超出个人攻击，等同于要抹去DX工会成员的声音。此前4日，第三大工会三星电子劳动组合同行也称超企业工会贬称其为“御用工会”，并突然退出共同谈判团。加入人数超过7.3万人、占员工半数以上的多数工会之间的劳劳矛盾，成为谈判重启阶段的变量。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Crece la disputa sindical en Samsung Electronics: el segundo sindicato exige disculpas",
-        "excerpt": "Mientras Samsung Electronics prepara la reanudación de negociaciones laborales, fuentes del sector dijeron el 8 de mayo que el segundo sindicato pidió disculpas al mayor sindicato.",
-        "body": "Samsung Electronics y sus sindicatos acordaron reanudar las negociaciones, pero las divisiones internas sindicales se intensifican. Según fuentes empresariales citadas el 8 de mayo, el Sindicato Nacional de Samsung Electronics, segundo mayor sindicato de la compañía, envió el día anterior una carta oficial a la sección de Samsung Electronics del Sindicato Supraempresarial, el mayor sindicato, para exigir una disculpa formal. El sindicato afirmó que el presidente Choi Seung-ho hizo comentarios intimidatorios, incluida la posibilidad de excluir de la negociación a un representante que había dicho que el presidente no atendía al área DX. La organización sostuvo que esto iba más allá de un ataque personal y buscaba borrar la voz de los afiliados de DX. El 4 de mayo, el tercer sindicato, Samsung Electronics Labor Union Donghaeng, abandonó el grupo negociador tras acusar al mayor sindicato de llamarlo sindicato afín a la empresa. Con más de 73.000 afiliados, más de la mitad de la plantilla, el conflicto entre sindicatos se perfila como una variable en la reanudación del diálogo. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Conflito sindical na Samsung Electronics cresce, e 2º sindicato exige desculpas",
-        "excerpt": "Enquanto a Samsung Electronics se prepara para retomar negociações trabalhistas, fontes do setor disseram em 8 de maio que o segundo maior sindicato cobrou desculpas do maior.",
-        "body": "A Samsung Electronics e seus sindicatos decidiram retomar as negociações, mas as fissuras internas entre entidades sindicais estão aumentando. Segundo fontes empresariais em 8 de maio, o Sindicato Nacional da Samsung Electronics, segundo maior da empresa, enviou no dia anterior um documento oficial à seção Samsung Electronics do Sindicato Supraempresarial, o maior sindicato, exigindo um pedido formal de desculpas. A entidade afirmou que o presidente Choi Seung-ho fez comentários de tom ameaçador, incluindo menção à exclusão de negociações, contra um negociador que havia dito que o presidente não cuidava da divisão DX. O sindicato declarou que a atitude ultrapassava um ataque pessoal e significava apagar a voz dos membros da DX. Em 4 de maio, o terceiro maior sindicato, Samsung Electronics Labor Union Donghaeng, deixou o grupo de negociação após acusar o maior sindicato de depreciá-lo como sindicato pró-empresa. Com mais de 73.000 filiados, mais da metade dos trabalhadores, o conflito entre sindicatos tornou-se uma variável na retomada das conversas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Gewerkschaften zerstritten: Zweitgrößte fordert Entschuldigung",
-        "excerpt": "Während Samsung Electronics und Arbeitnehmervertreter neue Gespräche planen, verlangte die zweitgrößte Gewerkschaft laut Branchenkreisen am 8. Mai eine Entschuldigung der größten.",
-        "body": "Samsung Electronics und die Arbeitnehmerseite wollen die Verhandlungen wieder aufnehmen, doch die Spannungen innerhalb der Gewerkschaften nehmen zu. Nach Angaben aus Wirtschaftskreisen vom 8. Mai schickte die National Samsung Electronics Union, die zweitgrößte Gewerkschaft des Unternehmens, am Vortag ein offizielles Schreiben an die Samsung-Electronics-Sparte der Super-Enterprise Union, die größte Gewerkschaft, und forderte eine formelle Entschuldigung. Sie erklärte, Vorsitzender Choi Seung-ho habe gegenüber einem Verhandlungsmitglied einschüchternde Bemerkungen gemacht, darunter Hinweise auf einen Ausschluss von Verhandlungen, nachdem dieses gesagt hatte, der Vorsitzende kümmere sich nicht um den DX-Bereich. Die Gewerkschaft wertete dies als Versuch, die Stimmen der DX-Mitglieder zum Schweigen zu bringen. Bereits am 4. Mai hatte die drittgrößte Gewerkschaft, Samsung Electronics Labor Union Donghaeng, die Verhandlungsgruppe verlassen, weil sie nach eigenen Angaben von der größten Gewerkschaft als unternehmensnah herabgesetzt worden war. Bei mehr als 73.000 Mitgliedern, also über der Hälfte der Beschäftigten, wird der Konflikt zwischen den Gewerkschaften zu einem Faktor für die Wiederaufnahme der Gespräche. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics: les tensions syndicales s’aggravent, le 2e syndicat exige des excuses",
-        "excerpt": "Alors que Samsung Electronics et les syndicats doivent reprendre les négociations, des sources du secteur ont indiqué le 8 mai que le deuxième syndicat réclamait des excuses au plus grand.",
-        "body": "Samsung Electronics et les représentants des salariés ont décidé de reprendre les négociations, mais les divisions entre syndicats se creusent. Selon des milieux économiques le 8 mai, le National Samsung Electronics Union, deuxième syndicat de l’entreprise, a envoyé la veille un courrier officiel à la branche Samsung Electronics du Super-Enterprise Union, le plus grand syndicat, pour demander des excuses formelles. Il affirme que le président Choi Seung-ho a tenu des propos intimidants, évoquant notamment une exclusion des négociations, à l’égard d’un négociateur qui avait déclaré que le président ne s’occupait pas de la division DX. Le syndicat estime que cela dépasse une attaque personnelle et revient à faire taire les membres de DX. Le 4 mai, le troisième syndicat, Samsung Electronics Labor Union Donghaeng, avait quitté le groupe de négociation après avoir accusé le plus grand syndicat de l’avoir dénigré comme syndicat favorable à l’entreprise. Avec plus de 73.000 adhérents, soit plus de la moitié des salariés, ce conflit intersyndical devient une variable dans la reprise des discussions. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "اتساع الخلاف بين نقابات سامسونغ إلكترونيكس والثانية تطالب الكبرى باعتذار",
-        "excerpt": "فيما تستعد إدارة سامسونغ إلكترونيكس والنقابات لاستئناف المفاوضات، قالت مصادر في القطاع في 8 مايو إن ثاني أكبر نقابة طالبت أكبر نقابة باعتذار رسمي.",
-        "body": "اتفقت إدارة سامسونغ إلكترونيكس والنقابات على استئناف المفاوضات، لكن الانقسامات داخل النقابات تتعمق. وبحسب أوساط الأعمال في 8 مايو، أرسلت نقابة سامسونغ إلكترونيكس الوطنية، وهي ثاني أكبر نقابة في الشركة، خطابا رسميا في اليوم السابق إلى فرع سامسونغ إلكترونيكس التابع للنقابة فوق المؤسسية، وهي أكبر نقابة، مطالبة باعتذار رسمي. وقالت النقابة إن الرئيس تشوي سونغ هو أدلى بتصريحات ذات طابع تهديدي، شملت الإشارة إلى الاستبعاد من التفاوض، تجاه عضو تفاوض قال إن الرئيس لا يولي قسم DX الاهتمام اللازم. واعتبرت النقابة أن ذلك يتجاوز الهجوم الشخصي ويمثل محاولة لإسكات أصوات أعضاء DX. وفي 4 مايو، انسحبت ثالث أكبر نقابة، نقابة سامسونغ إلكترونيكس دونغهاينغ، من فريق التفاوض بعد أن قالت إن أكبر نقابة وصفتها بأنها نقابة موالية للشركة. ومع عضوية تتجاوز 73 ألفا، أي أكثر من نصف العاملين، أصبح الخلاف بين النقابات عاملا مؤثرا في مرحلة استئناف المحادثات. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics में यूनियन विवाद गहराया, दूसरी यूनियन ने मांगी माफी",
-        "excerpt": "Samsung Electronics में श्रम वार्ता फिर शुरू होने से पहले, 8 मई को उद्योग सूत्रों के अनुसार दूसरी सबसे बड़ी यूनियन ने सबसे बड़ी यूनियन से औपचारिक माफी मांगी।",
-        "body": "Samsung Electronics प्रबंधन और यूनियनों ने बातचीत फिर शुरू करने का फैसला किया है, लेकिन यूनियनों के भीतर दरार बढ़ रही है। 8 मई को कारोबारी हलकों के अनुसार, कंपनी की दूसरी सबसे बड़ी यूनियन National Samsung Electronics Union ने एक दिन पहले सबसे बड़ी यूनियन, Super-Enterprise Union की Samsung Electronics शाखा को आधिकारिक पत्र भेजकर औपचारिक माफी की मांग की। यूनियन ने कहा कि चेयर Choi Seung-ho ने उस वार्ता प्रतिनिधि से धमकी भरे लहजे में बात की, जिसने कहा था कि चेयर DX विभाग पर ध्यान नहीं दे रहे हैं; इसमें वार्ता से बाहर करने जैसी बातों का उल्लेख था। यूनियन ने इसे व्यक्तिगत हमले से आगे बढ़कर DX सदस्यों की आवाज दबाने की कार्रवाई बताया। इससे पहले 4 मई को तीसरी यूनियन Samsung Electronics Labor Union Donghaeng ने कहा था कि सबसे बड़ी यूनियन ने उसे कंपनी-समर्थक यूनियन कहकर अपमानित किया, और वह वार्ता समूह से हट गई। 73,000 से अधिक सदस्यों, यानी कर्मचारियों के आधे से ज्यादा हिस्से का प्रतिनिधित्व करने वाली यूनियनों के बीच यह विवाद वार्ता बहाली में अहम कारक बन गया है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Konflik Serikat Samsung Electronics Membesar, Serikat Kedua Tuntut Maaf",
-        "excerpt": "Saat Samsung Electronics dan serikat pekerja bersiap melanjutkan perundingan, sumber industri pada 8 Mei menyebut serikat terbesar kedua menuntut permintaan maaf resmi dari serikat terbesar.",
-        "body": "Samsung Electronics dan pihak serikat telah sepakat melanjutkan perundingan, tetapi perpecahan internal serikat makin dalam. Menurut kalangan bisnis pada 8 Mei, National Samsung Electronics Union, serikat terbesar kedua di perusahaan, sehari sebelumnya mengirim surat resmi kepada cabang Samsung Electronics dari Super-Enterprise Union, serikat terbesar, untuk menuntut permintaan maaf resmi. Serikat itu menyatakan Ketua Choi Seung-ho membuat pernyataan bernada ancaman, termasuk menyebut kemungkinan pengecualian dari perundingan, kepada seorang anggota negosiasi yang mengatakan ketua tidak memperhatikan divisi DX. Serikat menilai tindakan itu melampaui serangan pribadi dan berarti menghapus suara anggota DX. Pada 4 Mei, serikat terbesar ketiga, Samsung Electronics Labor Union Donghaeng, keluar dari kelompok perundingan setelah menyatakan serikat terbesar merendahkannya sebagai serikat pro-perusahaan. Dengan lebih dari 73.000 anggota, lebih dari separuh pekerja, konflik antarsesama serikat menjadi faktor penting saat perundingan dimulai kembali. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "e2ad095b6968",
-    "slug": "삼성전자-최대-노조-다시-협상-테이블로-653753",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T21:40:10.398Z",
-    "updatedAt": "2026-05-08T21:40:10.398Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889859/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889859/2",
-    "titleFingerprint": "d71de9512b84a9758f95d4ca1689c1d94543c09e",
-    "dedupKeys": [
-      "e2ad095b696897d04e7cdbeb22e12afd45a939e0",
-      "d71de9512b84a9758f95d4ca1689c1d94543c09e",
-      "df3ef03104a62e7a8adb3ea5c9f3b52f70bf8b41"
-    ],
-    "imageUrl": "/images/articles/e2ad095b6968.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 최대 노조, 21일 총파업 앞두고 정부 중재로 교섭 재개",
-        "excerpt": "삼성전자 최대 노조인 초기업노조 삼성전자 지부가 8일 정부 중재를 받아들여 21일 총파업을 앞두고 11~12일 사후조정에 참여하기로 했다.",
-        "body": "삼성전자 최대 노조가 21일 총파업을 앞두고 정부의 중재를 받아들여 다시 협상 테이블에 앉기로 했다. 초기업노동조합 삼성전자 지부는 8일 보도자료를 통해 이날 오후 2시경 김도형 경기지방고용노동청 청장과 면담한 뒤 사 측까지 참여한 노사정 미팅을 거쳐 사후조정 참여를 결정했다고 밝혔다. 노사가 공식 협상을 재개하는 것은 3월 27일 재교섭이 최종 결렬된 지 45일 만이다. 사후조정은 11일과 12일 양일간 진행된다. 초기업노조는 정부 차원의 전폭적 지원 약속과 절차 참여 권유를 무겁게 받아들여 내부 검토 끝에 응하기로 했다고 설명했다. 사후조정은 조정 결렬 뒤 파업 가능성이 높아진 사업장에 중앙노동위원회가 개입해 합의를 모색하는 절차다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics’ largest union returns to talks before May 21 strike",
-        "excerpt": "Samsung Electronics’ largest union said on May 8 it accepted government mediation and will join post-mediation talks on May 11-12 ahead of a planned May 21 general strike.",
-        "body": "Samsung Electronics’ largest union has agreed to return to the negotiating table before its planned general strike on May 21, accepting government mediation. The Samsung Electronics branch of the Cross-Enterprise Labor Union said in a May 8 statement that it decided to participate in post-mediation after meeting Kim Do-hyung, head of the Gyeonggi Regional Employment and Labor Office, at around 2 p.m., followed by a labor-management-government meeting that also included the company. The resumption of official talks comes 45 days after renewed negotiations finally broke down on March 27. The post-mediation process will take place on May 11 and 12. The union said it accepted the process after internal review, citing the government’s pledge of full support for bargaining and repeated strong recommendations to join the procedure. Post-mediation is a process in which the National Labor Relations Commission intervenes to seek agreement at workplaces where mediation has failed and strike risks have risen. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子最大労組、21日の全面スト前に政府仲裁で交渉再開",
-        "excerpt": "サムスン電子最大労組は8日、政府の仲裁を受け入れ、21日の全面ストを前に11、12日の事後調整に参加すると発表した。",
-        "body": "サムスン電子の最大労組が、21日に予定する全面ストを前に政府の仲裁を受け入れ、再び交渉の場に着くことになった。超企業労働組合サムスン電子支部は8日の報道資料で、同日午後2時ごろ金度亨・京畿地方雇用労働庁長との面談に続き、会社側も参加した労使政会合を経て事後調整への参加を決めたと明らかにした。労使が公式交渉を再開するのは、3月27日に再交渉が最終決裂してから45日ぶりとなる。事後調整は11日と12日の2日間行われる。労組は、政府レベルで交渉への全面的支援を約束し、手続きへの参加を強く勧めたことを重く受け止め、内部検討を経て応じることにしたと説明した。事後調整は、調整決裂後にストの可能性が高まった事業場に中央労働委員会が介入し、合意を図る手続きだ。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子最大工会重返谈判桌，21日总罢工前接受政府调解",
-        "excerpt": "三星电子最大工会8日表示，已接受政府调解，将在21日总罢工前参加11日至12日的事后调解，劳资正式谈判时隔45天重启。",
-        "body": "三星电子最大工会在21日总罢工前接受政府调解，决定重新回到谈判桌。超企业劳动组合三星电子支部8日通过新闻稿表示，当天下午2时左右与京畿地方雇佣劳动厅厅长金度亨会面后，又经过公司方面参与的劳资政会议，决定参加事后调解。劳资双方重启正式谈判，是自3月27日再谈判最终破裂以来时隔45天。事后调解将于11日和12日两天进行。工会说明称，政府承诺在交涉层面给予全力支持，并强烈建议参加事后调解程序，工会郑重接受政府方面的积极意愿和反复请求，经内部研究后决定参与。事后调解是指在调解破裂、罢工可能性升高的工作场所，由中央劳动委员会介入并推动达成协议的程序。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Mayor sindicato de Samsung Electronics vuelve a negociar antes de la huelga del 21",
-        "excerpt": "El mayor sindicato de Samsung Electronics aceptó el 8 de mayo la mediación del Gobierno y participará en una posmediación el 11 y 12 antes de la huelga general del día 21.",
-        "body": "El mayor sindicato de Samsung Electronics aceptó la mediación del Gobierno y volverá a la mesa de negociación antes de la huelga general prevista para el 21 de mayo. La filial de Samsung Electronics del Sindicato Laboral Supraempresarial informó el 8 de mayo, mediante un comunicado, que decidió participar en una posmediación tras reunirse hacia las 2 p.m. con Kim Do-hyung, jefe de la Oficina Regional de Empleo y Trabajo de Gyeonggi, y celebrar luego una reunión entre sindicato, empresa y Gobierno con participación de la compañía. La reanudación de las negociaciones oficiales llega 45 días después de que las conversaciones reabiertas fracasaran definitivamente el 27 de marzo. La posmediación se realizará el 11 y 12 de mayo. El sindicato explicó que aceptó el procedimiento tras una revisión interna, al valorar la promesa de apoyo pleno del Gobierno a la negociación y sus reiteradas recomendaciones. La posmediación permite a la Comisión Nacional de Relaciones Laborales intervenir cuando falla la mediación y aumenta la posibilidad de huelga. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Maior sindicato da Samsung Electronics retoma negociação antes da greve do dia 21",
-        "excerpt": "O maior sindicato da Samsung Electronics aceitou em 8 de maio a mediação do governo e participará de pós-mediação nos dias 11 e 12 antes da greve geral marcada para o dia 21.",
-        "body": "O maior sindicato da Samsung Electronics aceitou a mediação do governo e voltará à mesa de negociações antes da greve geral prevista para 21 de maio. A filial da Samsung Electronics do Sindicato Trabalhista Supraempresarial informou em comunicado no dia 8 que decidiu participar da pós-mediação após uma reunião por volta das 14h com Kim Do-hyung, chefe do Escritório Regional de Emprego e Trabalho de Gyeonggi, seguida de um encontro entre sindicato, empresa e governo com a presença da companhia. A retomada das negociações oficiais ocorre 45 dias depois do colapso final das conversas reabertas em 27 de março. A pós-mediação será realizada nos dias 11 e 12. O sindicato explicou que aceitou o procedimento após revisão interna, considerando a promessa do governo de apoio pleno às negociações e suas reiteradas recomendações. A pós-mediação é um processo em que a Comissão Nacional de Relações Trabalhistas intervém em locais onde a mediação fracassou e a possibilidade de greve aumentou. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Größte Samsung-Electronics-Gewerkschaft kehrt vor Streik am 21. an Verhandlungstisch zurück",
-        "excerpt": "Die größte Gewerkschaft von Samsung Electronics nahm am 8. Mai die Vermittlung der Regierung an und beteiligt sich vor dem Generalstreik am 21. an Nachvermittlungen am 11. und 12.",
-        "body": "Die größte Gewerkschaft von Samsung Electronics hat vor dem für den 21. Mai geplanten Generalstreik die Vermittlung der Regierung angenommen und kehrt an den Verhandlungstisch zurück. Die Samsung-Electronics-Sparte der überbetrieblichen Gewerkschaft teilte am 8. Mai mit, sie habe nach einem Treffen gegen 14 Uhr mit Kim Do-hyung, dem Leiter des regionalen Beschäftigungs- und Arbeitsamts Gyeonggi, sowie einer anschließenden Sitzung von Arbeitnehmern, Management und Regierung mit Beteiligung des Unternehmens beschlossen, an einer Nachvermittlung teilzunehmen. Die offiziellen Gespräche werden damit 45 Tage nach dem endgültigen Scheitern der Wiederverhandlungen am 27. März wieder aufgenommen. Die Nachvermittlung findet am 11. und 12. Mai statt. Die Gewerkschaft erklärte, sie habe nach interner Prüfung zugestimmt, nachdem die Regierung volle Unterstützung für die Verhandlungen zugesagt und die Teilnahme nachdrücklich empfohlen hatte. Bei der Nachvermittlung greift die Nationale Arbeitsbeziehungskommission ein, wenn eine Vermittlung gescheitert ist und die Streikgefahr steigt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le principal syndicat de Samsung Electronics reprend les pourparlers avant la grève du 21",
-        "excerpt": "Le principal syndicat de Samsung Electronics a accepté le 8 mai la médiation du gouvernement et participera à une post-médiation les 11 et 12 avant la grève générale prévue le 21.",
-        "body": "Le principal syndicat de Samsung Electronics a accepté la médiation du gouvernement et va revenir à la table des négociations avant la grève générale prévue le 21 mai. La branche Samsung Electronics du syndicat interentreprises a indiqué dans un communiqué du 8 mai qu’elle avait décidé de participer à une post-médiation après une rencontre vers 14 h avec Kim Do-hyung, chef du bureau régional de l’emploi et du travail de Gyeonggi, puis une réunion tripartite réunissant travailleurs, direction et gouvernement avec la participation de l’entreprise. La reprise des négociations officielles intervient 45 jours après l’échec définitif des discussions relancées le 27 mars. La post-médiation se tiendra les 11 et 12 mai. Le syndicat a expliqué avoir accepté après examen interne, en tenant compte de la promesse du gouvernement d’apporter un soutien total aux négociations et de ses recommandations répétées. La post-médiation permet à la Commission nationale des relations du travail d’intervenir lorsque la médiation échoue et que le risque de grève augmente. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أكبر نقابة في سامسونغ إلكترونيكس تعود للتفاوض قبل الإضراب العام في 21 مايو",
-        "excerpt": "أعلنت أكبر نقابة في سامسونغ إلكترونيكس في 8 مايو قبول وساطة الحكومة والمشاركة في تسوية لاحقة يومي 11 و12 قبل الإضراب العام المقرر في 21 مايو.",
-        "body": "وافقت أكبر نقابة في سامسونغ إلكترونيكس على وساطة الحكومة وقررت العودة إلى طاولة المفاوضات قبل الإضراب العام المقرر في 21 مايو. وقال فرع سامسونغ إلكترونيكس في نقابة العمال فوق الشركات، في بيان صدر في 8 مايو، إنه قرر المشاركة في إجراءات التسوية اللاحقة بعد اجتماع نحو الساعة الثانية بعد الظهر مع كيم دو-هيونغ، رئيس مكتب غيونغي الإقليمي للتوظيف والعمل، ثم اجتماع ضم العمال والإدارة والحكومة بمشاركة الشركة. ويأتي استئناف المفاوضات الرسمية بعد 45 يوما من الانهيار النهائي لإعادة التفاوض في 27 مارس. وستجري التسوية اللاحقة يومي 11 و12 مايو. وأوضحت النقابة أنها وافقت بعد مراجعة داخلية، بعدما تعهدت الحكومة بتقديم دعم كامل للمفاوضات وحثت بقوة على المشاركة في الإجراء. والتسوية اللاحقة هي إجراء تتدخل فيه لجنة علاقات العمل الوطنية لمحاولة التوصل إلى اتفاق في أماكن العمل التي فشلت فيها الوساطة وارتفعت فيها احتمالات الإضراب. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन 21 मई की हड़ताल से पहले वार्ता में लौटी",
-        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन ने 8 मई को सरकारी मध्यस्थता स्वीकार की और 21 मई की आम हड़ताल से पहले 11-12 मई की पश्च-मध्यस्थता में भाग लेने का फैसला किया।",
-        "body": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन ने 21 मई को प्रस्तावित आम हड़ताल से पहले सरकारी मध्यस्थता स्वीकार कर फिर से वार्ता मेज पर लौटने का फैसला किया है। क्रॉस-एंटरप्राइज लेबर यूनियन की सैमसंग इलेक्ट्रॉनिक्स शाखा ने 8 मई को बयान में कहा कि उसने दोपहर करीब 2 बजे ग्योंगगी क्षेत्रीय रोजगार और श्रम कार्यालय के प्रमुख किम दो-ह्युंग से मुलाकात की और इसके बाद कंपनी की भागीदारी वाली श्रमिक-प्रबंधन-सरकार बैठक के बाद पश्च-मध्यस्थता में भाग लेने का निर्णय लिया। आधिकारिक वार्ता 27 मार्च को पुनर्वार्ता के अंतिम रूप से टूटने के 45 दिन बाद फिर शुरू हो रही है। पश्च-मध्यस्थता 11 और 12 मई को होगी। यूनियन ने कहा कि सरकार ने वार्ता के लिए पूर्ण समर्थन का वादा किया और इस प्रक्रिया में शामिल होने की जोरदार सिफारिश की, जिसे गंभीरता से लेते हुए आंतरिक समीक्षा के बाद भागीदारी स्वीकार की गई। पश्च-मध्यस्थता में राष्ट्रीय श्रम संबंध आयोग उन कार्यस्थलों में समझौता कराने का प्रयास करता है जहां मध्यस्थता विफल हो चुकी हो और हड़ताल की संभावना बढ़ गई हो। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Serikat terbesar Samsung Electronics kembali berunding jelang mogok umum 21 Mei",
-        "excerpt": "Serikat terbesar Samsung Electronics pada 8 Mei menerima mediasi pemerintah dan akan mengikuti pascamediasi pada 11-12 Mei menjelang mogok umum yang direncanakan 21 Mei.",
-        "body": "Serikat terbesar Samsung Electronics menerima mediasi pemerintah dan akan kembali ke meja perundingan menjelang mogok umum yang direncanakan pada 21 Mei. Cabang Samsung Electronics dari Serikat Buruh Lintas Perusahaan mengatakan dalam siaran pers pada 8 Mei bahwa pihaknya memutuskan mengikuti pascamediasi setelah bertemu sekitar pukul 14.00 dengan Kim Do-hyung, kepala Kantor Ketenagakerjaan dan Perburuhan Regional Gyeonggi, lalu menghadiri pertemuan buruh-manajemen-pemerintah yang juga melibatkan perusahaan. Perundingan resmi kembali dibuka 45 hari setelah negosiasi ulang akhirnya buntu pada 27 Maret. Pascamediasi akan berlangsung pada 11 dan 12 Mei. Serikat menjelaskan bahwa pihaknya menyetujui prosedur tersebut setelah kajian internal, dengan mempertimbangkan janji dukungan penuh pemerintah untuk perundingan dan rekomendasi kuat agar ikut serta. Pascamediasi adalah proses ketika Komisi Hubungan Perburuhan Nasional turun tangan untuk mencari kesepakatan di tempat kerja yang mediasinya gagal dan peluang mogok meningkat. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "413ece009088",
-    "slug": "외국어능력-활용-문화해설-은퇴-후-자부심-건강은-덤은퇴-레시피-379671",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T21:38:55.949Z",
-    "updatedAt": "2026-05-08T21:38:55.949Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260508/133888887/2",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260508/133888887/2",
-    "titleFingerprint": "4194770e5c981aa0f7dd73185ae519378df52e6b",
-    "dedupKeys": [
-      "413ece0090881c6ac65998aa1740b9d4a8985403",
-      "4194770e5c981aa0f7dd73185ae519378df52e6b",
-      "93cca670cd51dc311f2758a1b9c83aceae0b6e9f"
-    ],
-    "imageUrl": "/images/articles/413ece009088.jpg",
-    "i18n": {
-      "ko": {
-        "title": "외국어능력 살린 문화관광해설사, 은퇴 후 자부심과 활력 찾다",
-        "excerpt": "2014년 은퇴한 최경무 씨는 영어 능력을 활용해 10년째 서울 문화관광해설사로 활동하며 외국인 관광객에게 궁궐과 도심 명소를 안내하고 있다.",
-        "body": "듀폰 임원 출신 최경무 씨(72)는 2014년 은퇴 뒤 외국어 능력을 살려 올해로 10년째 문화관광해설사로 활동하고 있다. 그는 유창한 영어로 경복궁과 창덕궁, 청계천, 인사동, 북촌과 서촌, 낙산과 남산 성곽길 등 서울의 주요 명소를 외국인 관광객에게 설명한다. 은퇴 초기에는 여행과 골프를 즐겼지만, 지속적으로 소속감을 느낄 일을 찾으면서 한국관광공사가 주관하는 관광통역안내사 시험에 도전했다. 이 시험은 공인 외국어자격증 제출과 국사, 관광자원, 관광법규 등 필기시험, 면접시험을 거쳐야 한다. 최 씨의 사례는 은퇴 이후 전문성과 외국어 능력을 사회활동으로 연결할 수 있음을 보여준다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Retiree Uses English as a Cultural Guide, Finding Pride and Energy After Work",
-        "excerpt": "After retiring in 2014, 72-year-old Choi Kyung-moo has spent 10 years guiding foreign visitors through Seoul’s palaces and historic districts in fluent English.",
-        "body": "Choi Kyung-moo, 72, a former executive at the U.S. chemical company DuPont, has worked as a cultural tourism guide for 10 years after retiring in 2014. Using fluent English, he introduces foreign visitors to major Seoul sites, including Gyeongbokgung Palace, Changdeokgung Palace, Cheonggyecheon, Insa-dong, Bukchon, Seochon, Naksan and the Namsan fortress wall trail. In the first months after retirement, he traveled and played golf, but soon felt he needed work that gave him a sense of belonging. He then prepared for the tourist interpreter guide exam run by the Korea Tourism Organization. The process requires certified foreign-language scores, written tests on Korean history, tourism resources and tourism law, and an interview. His case shows how retirees can connect expertise and language skills to meaningful social activity. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "語学力を生かす文化観光解説士、退職後の誇りと活力を得る",
-        "excerpt": "2014年に退職した崔景武さんは、英語力を生かして10年にわたりソウルの宮殿や名所を外国人観光客に案内している。",
-        "body": "米化学会社デュポンの元役員、崔景武さん（72）は、2014年の退職後、語学力を生かして今年で10年目の文化観光解説士として活動している。流ちょうな英語で、景福宮、昌徳宮、清渓川、仁寺洞、北村と西村、駱山、南山城郭道などソウルの主要名所を外国人観光客に説明する。退職直後は旅行やゴルフを楽しんだが、継続して所属感を持てる仕事が必要だと考え、韓国観光公社が主管する観光通訳案内士試験に挑戦した。この試験では公認外国語資格の提出に加え、国史、観光資源、観光法規などの筆記試験と面接を通過しなければならない。崔さんの事例は、退職後も専門性と言語能力を社会活動につなげられることを示している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "退休后发挥外语能力做文化讲解员，收获自豪感与活力",
-        "excerpt": "2014年退休的72岁崔景武，凭借英语能力连续10年担任首尔文化旅游讲解员，为外国游客介绍宫殿和市区名胜。",
-        "body": "曾任美国化学公司杜邦高管的崔景武（72岁）在2014年退休后，发挥外语能力，至今已连续10年担任文化旅游讲解员。他用流利英语向外国游客介绍首尔主要景点，包括景福宫、昌德宫、清溪川、仁寺洞、北村和西村、骆山以及南山城郭路。退休最初几个月，他曾旅行、打高尔夫，但很快意识到需要一份能带来归属感的事情，于是挑战由韩国旅游发展局主管的旅游翻译导游资格考试。该考试需提交托业、托福等公认外语资格证明，并通过韩国史、旅游资源、旅游法规等笔试及面试。崔先生的经历显示，退休后仍可将专业经验和外语能力连接到社会活动中。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Guía cultural tras la jubilación: usa su inglés y gana orgullo y vitalidad",
-        "excerpt": "Choi Kyung-moo, jubilado en 2014, lleva 10 años usando su inglés para guiar a turistas extranjeros por palacios y barrios históricos de Seúl.",
-        "body": "Choi Kyung-moo, de 72 años, exejecutivo de la empresa química estadounidense DuPont, trabaja desde hace 10 años como guía cultural y turístico tras jubilarse en 2014. Con inglés fluido, explica a turistas extranjeros lugares clave de Seúl como los palacios Gyeongbokgung y Changdeokgung, Cheonggyecheon, Insa-dong, Bukchon, Seochon, Naksan y el camino de la muralla de Namsan. Al principio de su retiro viajó y jugó golf, pero pronto buscó una actividad que le diera sentido de pertenencia. Por eso se presentó al examen de guía intérprete turístico organizado por la Organización de Turismo de Corea. El proceso exige certificados oficiales de idioma, pruebas escritas sobre historia coreana, recursos turísticos y normativa turística, además de una entrevista. Su caso muestra cómo la jubilación puede vincular experiencia y lenguas con actividad social. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Aposentado usa inglês como guia cultural e encontra orgulho e vitalidade",
-        "excerpt": "Após se aposentar em 2014, Choi Kyung-moo atua há 10 anos como guia cultural em Seul, usando o inglês para apresentar palácios e bairros históricos a estrangeiros.",
-        "body": "Choi Kyung-moo, de 72 anos, ex-executivo da empresa química norte-americana DuPont, atua há 10 anos como guia de turismo cultural desde que se aposentou em 2014. Com inglês fluente, ele apresenta a turistas estrangeiros pontos importantes de Seul, como os palácios Gyeongbokgung e Changdeokgung, Cheonggyecheon, Insa-dong, Bukchon, Seochon, Naksan e a trilha da muralha de Namsan. Nos primeiros meses após a aposentadoria, viajou e jogou golfe, mas logo sentiu necessidade de uma atividade que lhe desse pertencimento. Assim, tentou o exame de guia intérprete turístico conduzido pela Organização de Turismo da Coreia. O processo exige certificado oficial de idioma, provas escritas sobre história coreana, recursos turísticos e leis do turismo, além de entrevista. O caso mostra como aposentados podem ligar experiência e idiomas à atividade social. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Mit Englisch als Kulturführer: Ruhestand bringt Stolz und neue Energie",
-        "excerpt": "Seit seinem Ruhestand 2014 führt Choi Kyung-moo ausländische Besucher auf Englisch durch Seouls Paläste, historische Viertel und Stadtwege.",
-        "body": "Choi Kyung-moo, 72, früherer Manager des US-Chemieunternehmens DuPont, arbeitet seit seinem Ruhestand 2014 seit nunmehr 10 Jahren als Kultur- und Tourismusführer. In fließendem Englisch erklärt er ausländischen Besuchern wichtige Orte in Seoul, darunter Gyeongbokgung, Changdeokgung, Cheonggyecheon, Insa-dong, Bukchon, Seochon, Naksan und den Festungsmauerweg am Namsan. In den ersten Monaten nach dem Ausscheiden reiste er und spielte Golf, suchte aber bald nach einer Tätigkeit, die ihm Zugehörigkeit vermittelt. Deshalb nahm er die von der Korea Tourism Organization betreute Prüfung zum touristischen Dolmetscherführer in Angriff. Erforderlich sind anerkannte Fremdsprachennachweise, schriftliche Prüfungen in koreanischer Geschichte, Tourismusressourcen und Tourismusrecht sowie ein Interview. Sein Beispiel zeigt, wie Fachwissen und Sprachkenntnisse nach der Pensionierung in gesellschaftliche Aktivität münden können. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Guide culturel après la retraite, il valorise son anglais et retrouve de l’élan",
-        "excerpt": "Retraité depuis 2014, Choi Kyung-moo guide depuis 10 ans des visiteurs étrangers à Séoul en anglais, des palais aux quartiers historiques.",
-        "body": "Choi Kyung-moo, 72 ans, ancien dirigeant de l’entreprise chimique américaine DuPont, est guide culturel et touristique depuis 10 ans après sa retraite en 2014. Grâce à son anglais courant, il présente aux touristes étrangers les grands sites de Séoul, dont les palais Gyeongbokgung et Changdeokgung, Cheonggyecheon, Insa-dong, Bukchon, Seochon, Naksan et le sentier des remparts de Namsan. Au début de sa retraite, il a voyagé et joué au golf, mais il a rapidement cherché une activité lui donnant un sentiment d’appartenance. Il a alors préparé l’examen de guide-interprète touristique supervisé par l’Organisation coréenne du tourisme. Le parcours exige un certificat officiel de langue étrangère, des épreuves écrites d’histoire coréenne, de ressources touristiques et de réglementation touristique, puis un entretien. Son cas montre comment compétences professionnelles et linguistiques peuvent nourrir une activité sociale après la retraite. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "متقاعد يوظف الإنجليزية كمرشد ثقافي ويجد الفخر والنشاط بعد العمل",
-        "excerpt": "منذ تقاعده عام 2014، يعمل تشوي كيونغ مو منذ 10 سنوات مرشدا ثقافيا في سيول، مستخدما الإنجليزية لتعريف السياح الأجانب بالقصور والمعالم.",
-        "body": "تشوي كيونغ مو، البالغ 72 عاما، وهو مدير تنفيذي سابق في شركة دوبونت الكيميائية الأميركية، يعمل منذ تقاعده عام 2014 مرشدا ثقافيا وسياحيا للعام العاشر. وبإنجليزية طليقة، يشرح للسياح الأجانب معالم رئيسية في سيول مثل قصر غيونغبوك وقصر تشانغدوك وجدول تشونغيتشون وإنسادونغ وبوكتشون وسوتشون وناكسان ومسار سور نامسان. في الأشهر الأولى بعد التقاعد، سافر ولعب الغولف، لكنه شعر بأن عليه البحث عن عمل يمنحه شعورا بالانتماء. لذلك تقدم لاختبار مرشد الترجمة السياحية الذي تشرف عليه منظمة السياحة الكورية. ويتطلب الاختبار تقديم شهادة لغة أجنبية معتمدة، ثم اجتياز اختبارات تحريرية في التاريخ الكوري والموارد السياحية وأنظمة السياحة، إضافة إلى مقابلة. وتظهر تجربته إمكانية ربط الخبرة واللغة بنشاط اجتماعي بعد التقاعد. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सेवानिवृत्ति के बाद अंग्रेजी से सांस्कृतिक गाइड बने, मिला गर्व और ऊर्जा",
-        "excerpt": "2014 में सेवानिवृत्त हुए 72 वर्षीय चोई क्यंग-मू 10 वर्षों से अंग्रेजी में विदेशी पर्यटकों को सियोल के महलों और ऐतिहासिक स्थलों की जानकारी दे रहे हैं।",
-        "body": "अमेरिकी रासायनिक कंपनी ड्यूपॉन्ट के पूर्व अधिकारी चोई क्यंग-मू, 72, 2014 में सेवानिवृत्ति के बाद अपनी विदेशी भाषा क्षमता का उपयोग करते हुए इस वर्ष 10वें साल सांस्कृतिक पर्यटन गाइड के रूप में काम कर रहे हैं। वे धाराप्रवाह अंग्रेजी में विदेशी पर्यटकों को सियोल के प्रमुख स्थलों, जैसे ग्योंगबोकगुंग, चांगदेओकगुंग, चोंग्ग्येचोन, इंसाडोंग, बुकचोन, सेओचोन, नक्सान और नामसान किले की दीवार वाले मार्ग के बारे में बताते हैं। सेवानिवृत्ति के शुरुआती महीनों में उन्होंने यात्रा की और गोल्फ खेला, लेकिन जल्द ही उन्हें ऐसा काम चाहिए था जिससे जुड़ाव महसूस हो। इसलिए उन्होंने कोरिया पर्यटन संगठन द्वारा संचालित पर्यटक दुभाषिया गाइड परीक्षा दी। इसमें मान्य विदेशी भाषा प्रमाणपत्र, कोरियाई इतिहास, पर्यटन संसाधन और पर्यटन कानून की लिखित परीक्षा तथा साक्षात्कार शामिल हैं। उनका उदाहरण दिखाता है कि सेवानिवृत्ति के बाद भी अनुभव और भाषा कौशल को सामाजिक गतिविधि से जोड़ा जा सकता है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pensiunan Manfaatkan Bahasa Inggris Jadi Pemandu Budaya dan Lebih Berenergi",
-        "excerpt": "Sejak pensiun pada 2014, Choi Kyung-moo selama 10 tahun memandu wisatawan asing di Seoul dengan bahasa Inggris, dari istana hingga kawasan bersejarah.",
-        "body": "Choi Kyung-moo, 72 tahun, mantan eksekutif perusahaan kimia AS DuPont, telah bekerja sebagai pemandu wisata budaya selama 10 tahun setelah pensiun pada 2014. Dengan bahasa Inggris yang fasih, ia menjelaskan kepada wisatawan asing berbagai tempat utama di Seoul, termasuk Istana Gyeongbokgung, Istana Changdeokgung, Cheonggyecheon, Insa-dong, Bukchon, Seochon, Naksan, dan jalur tembok benteng Namsan. Pada bulan-bulan awal pensiun, ia bepergian dan bermain golf, tetapi kemudian merasa perlu mencari kegiatan yang memberinya rasa memiliki. Ia pun mengikuti ujian pemandu penerjemah wisata yang diselenggarakan Organisasi Pariwisata Korea. Prosesnya mensyaratkan sertifikat bahasa asing resmi, ujian tertulis tentang sejarah Korea, sumber daya wisata dan hukum pariwisata, serta wawancara. Kisahnya menunjukkan bahwa pengalaman dan kemampuan bahasa setelah pensiun dapat terhubung dengan aktivitas sosial. Sumber: rss.donga.com"
       }
     }
   }
