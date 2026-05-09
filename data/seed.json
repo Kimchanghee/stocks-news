@@ -1,5 +1,230 @@
 [
   {
+    "id": "e7b906a7bc77",
+    "slug": "노동부-가족돌봄휴가-적용대상-가족-외로-확대-검토-545554",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T21:33:10.206Z",
+    "updatedAt": "2026-05-09T21:33:10.206Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508156000530",
+    "titleFingerprint": "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+    "dedupKeys": [
+      "e7b906a7bc77dcf25c07ff47d82624e4d678094f",
+      "b3da1ed15015436d6bff68c46b799a0ed88407a1",
+      "9be3525449730ca86d31d2b9fd92a97cb77209fb"
+    ],
+    "imageUrl": "/images/articles/e7b906a7bc77.jpg",
+    "i18n": {
+      "ko": {
+        "title": "가족돌봄휴가 대상 확대 검토, 법률상 가족 밖 관계까지 포함될까",
+        "excerpt": "노동부가 가족돌봄 휴직·휴가 적용 대상을 법률상 가족이 아닌 관계까지 넓히는 방안을 검토한다. 돌봄 공백 대응과 제도 적용 범위가 쟁점이다.",
+        "body": "노동부가 가족돌봄 휴직·휴가의 적용 대상을 법률상 가족이 아닌 관계까지 확대하는 방안을 검토한다. 현재 알려진 내용은 가족돌봄 제도의 범위를 기존 법적 가족 중심에서 그 밖의 돌봄 관계로 넓힐 수 있는지 살펴본다는 것이다. 가족돌봄 휴직·휴가는 근로자가 가족 돌봄이 필요한 상황에서 활용하는 제도인 만큼, 적용 대상이 확대될 경우 돌봄 책임을 지는 근로자의 선택지가 넓어질 수 있다. 다만 구체적인 확대 범위와 시행 방식은 검토 과정에서 정해질 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Family Care Leave Expansion Under Review to Cover Non-Legal Family Ties",
+        "excerpt": "South Korea’s labor ministry is reviewing whether family care leave and absence rules should extend beyond legally defined family members to other care relationships.",
+        "body": "South Korea’s labor ministry is reviewing a plan to expand the scope of family care leave and family care-related absence to include relationships that are not legally defined as family. The known proposal centers on whether the existing system, currently based on legal family ties, can be broadened to cover other caregiving relationships. Because family care leave is used by workers when care is needed, an expanded scope could give employees with caregiving responsibilities more options. Specific eligibility limits and implementation details are expected to be determined through the review process. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "家族介護休暇の対象拡大を検討、法律上の家族以外も含む可能性",
+        "excerpt": "韓国の労働部が、家族介護休職・休暇の適用対象を法律上の家族ではない関係にまで広げる案を検討している。",
+        "body": "韓国の労働部は、家族介護休職・休暇の適用対象を、法律上の家族ではない関係にまで拡大する案を検討している。明らかになっている内容は、従来の法的な家族関係を中心とした制度の範囲を、その他の介護関係に広げられるかを検討するというものだ。家族介護休職・休暇は、労働者が介護を必要とする状況で利用する制度であるため、対象が拡大されれば介護責任を担う労働者の選択肢が広がる可能性がある。ただし、具体的な対象範囲や実施方法は検討過程で決まる見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "家庭照护休假适用对象拟扩大，或涵盖法定家属以外关系",
+        "excerpt": "韩国劳动部门正在研究将家庭照护停职和休假适用对象扩大至法定家属以外关系的方案，制度范围成为关注点。",
+        "body": "韩国劳动部门正在研究一项方案，拟将家庭照护停职和休假的适用对象扩大到法律意义上的家庭成员以外的关系。目前已知内容是，相关部门将审视现行以法定家属为中心的家庭照护制度，是否能够延伸至其他照护关系。家庭照护停职和休假是劳动者在需要承担照护责任时可使用的制度，因此若适用对象扩大，承担照护责任的劳动者可选择的制度空间可能增加。不过，具体扩大范围和实施方式预计将在审查过程中确定。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Revisan ampliar la licencia de cuidado familiar a vínculos no legales",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur estudia extender la licencia y excedencia por cuidado familiar a relaciones que no sean familiares legales.",
+        "body": "El Ministerio de Trabajo de Corea del Sur está revisando una propuesta para ampliar el alcance de la excedencia y la licencia por cuidado familiar a relaciones que no están definidas legalmente como familia. La información conocida indica que se evaluará si el sistema actual, centrado en familiares legales, puede extenderse a otros vínculos de cuidado. Como estas licencias se utilizan cuando un trabajador necesita atender responsabilidades de cuidado, una ampliación podría dar más opciones a empleados en esa situación. Los límites concretos de elegibilidad y la forma de aplicación se definirían durante el proceso de revisión. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Licença de cuidado familiar pode incluir vínculos fora da família legal",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul avalia ampliar licença e afastamento por cuidado familiar para relações que não sejam de família legal.",
+        "body": "O Ministério do Trabalho da Coreia do Sul está avaliando uma proposta para ampliar o alcance do afastamento e da licença por cuidado familiar a relações que não são definidas legalmente como família. O ponto conhecido é verificar se o sistema atual, centrado em vínculos familiares legais, pode ser estendido a outras relações de cuidado. Como a licença de cuidado familiar é usada por trabalhadores em situações de necessidade de cuidado, a ampliação poderia oferecer mais opções a quem assume essa responsabilidade. A abrangência exata e a forma de implementação devem ser definidas durante a análise. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Familienpflegeurlaub soll auch für nicht gesetzliche Familienbeziehungen geprüft werden",
+        "excerpt": "Südkoreas Arbeitsministerium prüft, ob Pflegeurlaub und Freistellung für Familienpflege auf Beziehungen außerhalb der rechtlichen Familie ausgeweitet werden können.",
+        "body": "Südkoreas Arbeitsministerium prüft einen Plan, den Anwendungsbereich von Freistellung und Urlaub für Familienpflege auf Beziehungen auszuweiten, die rechtlich nicht als Familie gelten. Bekannt ist, dass untersucht wird, ob das bisher auf gesetzliche Familienbeziehungen ausgerichtete System auch andere Pflegebeziehungen erfassen kann. Da Familienpflegeurlaub von Beschäftigten genutzt wird, wenn eine Pflegesituation besteht, könnte eine Erweiterung den Handlungsspielraum von Arbeitnehmern mit Pflegeverantwortung vergrößern. Der konkrete Umfang und die Art der Umsetzung sollen im Prüfprozess festgelegt werden. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le congé de soins familiaux pourrait viser des liens hors famille légale",
+        "excerpt": "Le ministère sud-coréen du Travail examine l’extension du congé et de l’absence pour soins familiaux à des relations non reconnues comme famille légale.",
+        "body": "Le ministère sud-coréen du Travail examine une mesure visant à étendre le champ du congé et de l’absence pour soins familiaux à des relations qui ne sont pas juridiquement définies comme familiales. Les éléments connus indiquent qu’il s’agit d’évaluer si le dispositif actuel, centré sur la famille légale, peut couvrir d’autres relations de soin. Ce congé étant utilisé par les salariés lorsqu’une situation de prise en charge se présente, une extension pourrait offrir davantage d’options aux travailleurs assumant des responsabilités de soins. Le périmètre précis et les modalités d’application devraient être déterminés au cours de l’examen. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "دراسة توسيع إجازة رعاية الأسرة لتشمل علاقات خارج الأسرة القانونية",
+        "excerpt": "تدرس وزارة العمل في كوريا الجنوبية توسيع نطاق إجازات وتفرغ رعاية الأسرة ليشمل علاقات لا تُعد أسرة قانونية ضمن النظام الحالي.",
+        "body": "تدرس وزارة العمل في كوريا الجنوبية خطة لتوسيع نطاق التفرغ والإجازة الخاصة برعاية الأسرة ليشمل علاقات لا تُعرّف قانونيا على أنها أسرة. وتتمحور المعلومات المتاحة حول بحث إمكانية توسيع النظام الحالي، القائم على الروابط الأسرية القانونية، ليشمل علاقات رعاية أخرى. وبما أن إجازة رعاية الأسرة تُستخدم عندما يحتاج العامل إلى أداء مسؤوليات رعاية، فإن توسيع النطاق قد يمنح العاملين المسؤولين عن الرعاية خيارات أوسع. ومن المتوقع تحديد نطاق التوسيع وطريقة التنفيذ خلال عملية المراجعة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "परिवार देखभाल अवकाश का दायरा कानूनी परिवार से बाहर बढ़ाने पर विचार",
+        "excerpt": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और छुट्टी को कानूनी परिवार से बाहर अन्य देखभाल संबंधों तक बढ़ाने की योजना पर विचार कर रहा है।",
+        "body": "दक्षिण कोरिया का श्रम मंत्रालय परिवार देखभाल अवकाश और परिवार देखभाल से जुड़ी छुट्टी के दायरे को उन संबंधों तक बढ़ाने की योजना पर विचार कर रहा है जिन्हें कानूनी रूप से परिवार नहीं माना जाता। उपलब्ध जानकारी के अनुसार, मंत्रालय यह देखेगा कि मौजूदा प्रणाली, जो कानूनी पारिवारिक संबंधों पर केंद्रित है, अन्य देखभाल संबंधों तक बढ़ाई जा सकती है या नहीं। यह व्यवस्था उन कामगारों के लिए होती है जिन्हें देखभाल की जरूरत वाली स्थिति में समय चाहिए, इसलिए दायरा बढ़ने पर देखभाल की जिम्मेदारी निभाने वाले कर्मचारियों के विकल्प बढ़ सकते हैं।具体 पात्रता और लागू करने का तरीका समीक्षा प्रक्रिया में तय होगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Cuti Perawatan Keluarga Dikaji untuk Mencakup Relasi di Luar Keluarga Legal",
+        "excerpt": "Kementerian Tenaga Kerja Korea Selatan mengkaji perluasan cuti dan izin perawatan keluarga ke hubungan yang bukan keluarga secara hukum.",
+        "body": "Kementerian Tenaga Kerja Korea Selatan sedang mengkaji rencana memperluas cakupan cuti dan izin terkait perawatan keluarga agar mencakup hubungan yang tidak didefinisikan secara hukum sebagai keluarga. Informasi yang diketahui berfokus pada apakah sistem saat ini, yang bertumpu pada keluarga legal, dapat diperluas ke hubungan perawatan lain. Karena cuti perawatan keluarga digunakan pekerja saat ada kebutuhan merawat, perluasan cakupan dapat memberi lebih banyak pilihan bagi karyawan dengan tanggung jawab perawatan. Batas kelayakan dan cara penerapan yang konkret diperkirakan akan ditentukan dalam proses kajian. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "74c5b723bdfb",
+    "slug": "도급대금-안줘-임금체불고공농성노동부-부영주택-시정지시-363387",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T21:32:19.753Z",
+    "updatedAt": "2026-05-09T21:32:19.753Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508142700530",
+    "titleFingerprint": "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+    "dedupKeys": [
+      "74c5b723bdfb20ff5ad82c853a93c507cf954b7d",
+      "4e32161ff112b3bd79926f2c41e4bd277a86f863",
+      "1e6a3d755483d53ed344770b6cc79e7956576453"
+    ],
+    "imageUrl": "/images/articles/74c5b723bdfb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "부영주택, 하도급 기성금 지연·임금체불 논란에 노동부 시정지시",
+        "excerpt": "고용노동부가 자체 감사 등을 이유로 하도급 업체 기성금 지급을 미루고 직원 수당을 적게 준 부영주택에 대해 시정지시를 내렸다.",
+        "body": "고용노동부는 자체 감사 등을 이유로 하도급 업체에 기성금 지급을 미루고 직원들에게 지급해야 할 수당을 적게 준 부영주택에 대해 시정지시를 내렸다. 이번 사안은 도급대금 미지급으로 하도급 업체 노동자 임금체불 문제가 불거지고, 관련 고공농성까지 이어진 가운데 확인됐다. 노동부 조치는 원청의 기성금 지급 지연과 직원 수당 과소 지급이 노동 현장에 미친 영향을 바로잡기 위한 것이다. 향후 부영주택의 시정 이행 여부가 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Booyoung Housing Faces Labor Ministry Order Over Delayed Subcontract Payments",
+        "excerpt": "South Korea’s Labor Ministry issued a corrective order to Booyoung Housing for delaying progress payments to a subcontractor and underpaying employee allowances.",
+        "body": "South Korea’s Ministry of Employment and Labor issued a corrective order to Booyoung Housing after the company delayed progress payments to a subcontractor, citing internal audits, and paid some employee allowances below the required amount. The case emerged after unpaid contract payments led to wage arrears for subcontractor workers and a high-altitude protest. The ministry’s action is aimed at correcting the impact of delayed payments by the main contractor and underpaid allowances. Attention now turns to whether Booyoung Housing will comply with the order. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "富栄住宅、下請け代金遅延と賃金未払い問題で労働部が是正指示",
+        "excerpt": "韓国雇用労働部は、監査などを理由に下請け業者への出来高払いを遅らせ、従業員手当を少なく支給した富栄住宅に是正指示を出した。",
+        "body": "韓国雇用労働部は、自社監査などを理由に下請け業者への出来高払いを先送りし、従業員に支給すべき手当を少なく払った富栄住宅に対し、是正指示を出した。今回の事案は、請負代金の未払いによって下請け業者の労働者に賃金未払い問題が発生し、関連する高所での抗議行動にまでつながる中で確認された。労働部の措置は、元請けの支払い遅延と手当の過少支給が労働現場に及ぼした影響を是正するためのものだ。今後、富栄住宅が指示を履行するかが注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "富荣住宅因拖延分包工程款和欠薪争议被劳动部责令整改",
+        "excerpt": "韩国雇佣劳动部对富荣住宅下达整改指示，原因是其以内部审计等为由拖延向分包商支付工程进度款，并少发员工津贴。",
+        "body": "韩国雇佣劳动部对富荣住宅下达整改指示。该公司以内部审计等为由，推迟向分包企业支付工程进度款，并少向员工支付应发津贴。此事是在承包款未支付引发分包企业劳动者工资拖欠问题，并进一步出现高空抗议的情况下被确认的。劳动部此次措施旨在纠正总包方工程款支付延迟和员工津贴少发对劳动现场造成的影响。接下来，富荣住宅是否落实整改要求将受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Booyoung Housing recibe orden laboral por pagos demorados y salarios impagos",
+        "excerpt": "El Ministerio de Trabajo de Corea del Sur ordenó corregir a Booyoung Housing por retrasar pagos a un subcontratista y pagar menos asignaciones a empleados.",
+        "body": "El Ministerio de Empleo y Trabajo de Corea del Sur emitió una orden de corrección contra Booyoung Housing por retrasar, alegando auditorías internas, los pagos por avance de obra a una empresa subcontratada y por pagar menos de lo debido en asignaciones a sus empleados. El caso se confirmó después de que la falta de pago del contrato provocara atrasos salariales entre trabajadores del subcontratista y derivara en una protesta en altura. La medida busca corregir el impacto causado por la demora del contratista principal y el pago insuficiente de asignaciones. Ahora se observará si Booyoung Housing cumple la orden. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Booyoung Housing recebe ordem por atrasar subcontrato e gerar salários em atraso",
+        "excerpt": "O Ministério do Trabalho da Coreia do Sul ordenou correção à Booyoung Housing por adiar pagamentos a subcontratada e pagar menos adicionais a funcionários.",
+        "body": "O Ministério do Emprego e Trabalho da Coreia do Sul emitiu uma ordem de correção contra a Booyoung Housing por adiar, sob o argumento de auditorias internas, pagamentos por etapas a uma empresa subcontratada e por pagar valores menores de adicionais devidos a funcionários. O caso foi confirmado em meio a atrasos salariais de trabalhadores da subcontratada causados pela falta de pagamento do contrato e a um protesto em altura relacionado. A medida busca corrigir os efeitos do atraso de pagamento pela contratante principal e do pagamento insuficiente de adicionais. A atenção agora recai sobre o cumprimento da ordem pela Booyoung Housing. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Booyoung Housing erhält Anordnung wegen verzögerter Zahlungen und Lohnrückständen",
+        "excerpt": "Das südkoreanische Arbeitsministerium ordnete Booyoung Housing Korrekturen an, nachdem Zahlungen an Subunternehmer verzögert und Zulagen zu niedrig gezahlt wurden.",
+        "body": "Das südkoreanische Ministerium für Beschäftigung und Arbeit hat Booyoung Housing eine Korrekturanordnung erteilt. Das Unternehmen hatte unter Verweis auf interne Prüfungen Abschlagszahlungen an einen Subunternehmer hinausgezögert und Beschäftigten Zulagen in zu geringer Höhe gezahlt. Der Fall wurde bekannt, nachdem ausstehenden Vertragszahlungen Lohnrückstände bei Arbeitern des Subunternehmers auslösten und es zu einem damit verbundenen Höhenprotest kam. Die Maßnahme des Ministeriums soll die Folgen der verzögerten Zahlungen durch den Hauptauftragnehmer und der zu niedrigen Zulagen korrigieren. Nun richtet sich der Blick darauf, ob Booyoung Housing die Anordnung umsetzt. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Booyoung Housing visée par une injonction après retards de paiement et salaires dus",
+        "excerpt": "Le ministère sud-coréen du Travail a ordonné à Booyoung Housing de corriger des retards de paiements à un sous-traitant et des allocations salariales insuffisantes.",
+        "body": "Le ministère sud-coréen de l’Emploi et du Travail a émis une injonction de correction contre Booyoung Housing. L’entreprise avait retardé, en invoquant notamment des audits internes, le paiement d’avancements dus à un sous-traitant et versé à ses employés des allocations inférieures aux montants requis. L’affaire a été confirmée alors que le non-paiement du contrat avait entraîné des arriérés de salaires pour des travailleurs du sous-traitant et une protestation en hauteur liée au dossier. La mesure vise à corriger l’impact des retards de paiement du donneur d’ordre et des allocations insuffisantes. Le respect de l’injonction par Booyoung Housing sera désormais suivi. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "وزارة العمل توجه أمرا تصحيحيا لبو يونغ للإسكان بسبب تأخر مستحقات ومشكلة أجور",
+        "excerpt": "أصدرت وزارة العمل في كوريا الجنوبية أمرا تصحيحيا بحق بو يونغ للإسكان بعد تأخير دفعات لمقاول فرعي ودفع بدلات أقل للموظفين.",
+        "body": "أصدرت وزارة التوظيف والعمل في كوريا الجنوبية أمرا تصحيحيا بحق شركة بو يونغ للإسكان، بعدما أخرت دفع مستحقات مرحلية لمقاول فرعي بحجة عمليات تدقيق داخلية وغيرها، ودفعت لبعض الموظفين بدلات أقل من المستحق. وجاءت القضية بعدما أدى عدم دفع قيمة العقد إلى مشكلة تأخر أجور عمال لدى المقاول الفرعي، وتبع ذلك احتجاج على ارتفاع. ويهدف إجراء الوزارة إلى تصحيح آثار تأخر الدفع من المتعاقد الرئيسي ونقص بدلات الموظفين في موقع العمل. وتتركز الأنظار الآن على ما إذا كانت بو يونغ للإسكان ستنفذ الأمر. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "बूयॉन्ग हाउसिंग को उपठेका भुगतान देरी और वेतन बकाया पर श्रम मंत्रालय का आदेश",
+        "excerpt": "दक्षिण कोरिया के श्रम मंत्रालय ने बूयॉन्ग हाउसिंग को उपठेकेदार का भुगतान रोकने और कर्मचारियों को कम भत्ते देने पर सुधार आदेश जारी किया।",
+        "body": "दक्षिण कोरिया के रोजगार और श्रम मंत्रालय ने बूयॉन्ग हाउसिंग को सुधार आदेश जारी किया है। कंपनी ने आंतरिक ऑडिट आदि का हवाला देकर एक उपठेका कंपनी को कार्य प्रगति के आधार पर देय भुगतान टाल दिया और कर्मचारियों को देय भत्ते कम दिए। यह मामला तब सामने आया जब ठेका भुगतान न होने से उपठेका कंपनी के श्रमिकों के वेतन बकाया की समस्या पैदा हुई और इससे जुड़ा ऊंचाई पर विरोध प्रदर्शन भी हुआ। मंत्रालय की कार्रवाई मुख्य ठेकेदार की भुगतान देरी और कर्मचारियों को कम भत्ता दिए जाने के प्रभाव को सुधारने के लिए है। अब ध्यान इस पर है कि बूयॉन्ग हाउसिंग आदेश का पालन करती है या नहीं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Booyoung Housing Diperintah Koreksi Usai Tunda Pembayaran dan Picu Tunggakan Upah",
+        "excerpt": "Kementerian Ketenagakerjaan Korea Selatan mengeluarkan perintah koreksi kepada Booyoung Housing karena menunda pembayaran subkontraktor dan kurang membayar tunjangan karyawan.",
+        "body": "Kementerian Ketenagakerjaan dan Tenaga Kerja Korea Selatan mengeluarkan perintah koreksi terhadap Booyoung Housing. Perusahaan itu menunda pembayaran termin kepada perusahaan subkontraktor dengan alasan audit internal dan lainnya, serta membayar tunjangan karyawan lebih rendah dari yang seharusnya. Kasus ini terungkap setelah pembayaran kontrak yang tidak dilakukan memicu tunggakan upah bagi pekerja subkontraktor dan berujung pada aksi protes di ketinggian. Langkah kementerian bertujuan memperbaiki dampak keterlambatan pembayaran oleh kontraktor utama dan kekurangan pembayaran tunjangan. Kini perhatian tertuju pada apakah Booyoung Housing akan melaksanakan perintah tersebut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cfb5be7d479e",
+    "slug": "20대의-테슬라-기아-제치고-지난달-국내-전기차-첫-1위-773785",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T21:31:25.222Z",
+    "updatedAt": "2026-05-09T21:31:25.222Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509042700003",
+    "titleFingerprint": "7896331f2884b3abc9c1971d827cba1f84d2321d",
+    "dedupKeys": [
+      "cfb5be7d479e3e2ef1fb0ed7f0f76abb3924bf52",
+      "7896331f2884b3abc9c1971d827cba1f84d2321d",
+      "d74d14b5e2011c527047156bb61999944588467f"
+    ],
+    "imageUrl": "/images/articles/cfb5be7d479e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "테슬라, 지난달 국내 승용 전기차 판매 첫 1위…기아 제쳤다",
+        "excerpt": "미국 테슬라가 지난달 국내 승용 전기차 시장에서 한국 기아를 처음으로 앞서며 판매 1위 브랜드에 올랐다고 연합뉴스가 보도했다.",
+        "body": "미국 전기차 브랜드 테슬라가 지난달 국내 승용 전기차 분야에서 한국 기아를 처음으로 제치고 판매 1위 브랜드가 됐다. 국내 승용 전기차 판매 순위에서 테슬라가 기아를 앞선 것은 이번이 처음으로 전해졌다. 이번 결과는 국내 전기차 시장에서 수입 전기차 브랜드인 테슬라의 판매 흐름이 기존 주요 국내 브랜드와의 경쟁 구도에서 두드러졌다는 점에서 주목된다. 다만 원문은 구체적인 판매 대수나 차종별 세부 실적은 제시하지 않았다. 향후 국내 승용 전기차 브랜드 경쟁은 판매 순위 변화와 소비자 선택 흐름에 따라 계속 주목될 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Tesla Tops Korea Passenger EV Sales for First Time, Overtaking Kia",
+        "excerpt": "Tesla became the top-selling passenger electric vehicle brand in South Korea last month, surpassing Kia for the first time, Yonhap News Agency reported.",
+        "body": "Tesla, the U.S. electric vehicle brand, became the No. 1 seller in South Korea’s passenger EV segment last month, overtaking Korea’s Kia for the first time. According to the report, this marked the first time Tesla ranked ahead of Kia in domestic passenger electric vehicle sales. The result draws attention because it shows Tesla, an imported EV brand, standing out in the competitive landscape with major Korean brands. The original report did not provide specific sales volume or model-by-model performance figures. Future competition among passenger EV brands in South Korea is expected to remain closely watched as sales rankings and consumer choices shift. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "テスラ、韓国乗用EV販売で初の首位に…起亜を上回る",
+        "excerpt": "米テスラが先月、韓国の乗用電気自動車市場で起亜を初めて上回り、販売首位ブランドになったと聯合ニュースが報じた。",
+        "body": "米国の電気自動車ブランド、テスラが先月、韓国の乗用EV分野で韓国の起亜を初めて上回り、販売首位ブランドとなった。報道によると、韓国の乗用電気自動車販売順位でテスラが起亜を上回ったのは今回が初めてだ。今回の結果は、輸入EVブランドであるテスラの販売動向が、韓国の主要ブランドとの競争構図の中で目立ったことを示す点で注目される。ただし原文では、具体的な販売台数や車種別の詳細実績は示されていない。今後も韓国の乗用EVブランド競争は、販売順位の変化と消費者の選択動向に沿って注視される見通しだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "特斯拉首次登顶韩国乘用电动车销量，超过起亚",
+        "excerpt": "据韩联社报道，美国特斯拉上月在韩国乘用电动车市场首次超过韩国起亚，成为销量排名第一的品牌。",
+        "body": "美国电动汽车品牌特斯拉上月在韩国乘用电动车领域首次超过韩国起亚，成为销量第一的品牌。据报道，这是特斯拉首次在韩国乘用电动车销量排名中领先起亚。此次结果受到关注，因为它显示出作为进口电动车品牌的特斯拉，在与韩国主要本土品牌的竞争格局中表现突出。不过，原文未提供具体销量或按车型划分的详细业绩。未来，韩国乘用电动车品牌之间的竞争预计仍将随着销量排名变化和消费者选择趋势而受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Tesla lidera por primera vez ventas de eléctricos de pasajeros en Corea",
+        "excerpt": "Tesla superó el mes pasado a Kia en el mercado surcoreano de vehículos eléctricos de pasajeros y se convirtió por primera vez en la marca líder en ventas, informó Yonhap.",
+        "body": "Tesla, la marca estadounidense de vehículos eléctricos, se convirtió el mes pasado en la número uno en ventas dentro del segmento de autos eléctricos de pasajeros en Corea del Sur, al superar por primera vez a la surcoreana Kia. Según el reporte, fue la primera vez que Tesla quedó por delante de Kia en la clasificación nacional de ventas de vehículos eléctricos de pasajeros. El resultado llama la atención porque muestra el avance de Tesla, una marca importada, dentro de la competencia con importantes marcas coreanas. El texto original no incluyó cifras concretas de ventas ni resultados detallados por modelo. La competencia entre marcas de eléctricos de pasajeros en Corea del Sur seguirá bajo observación conforme cambien los rankings y las decisiones de los consumidores. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Tesla lidera vendas de elétricos de passageiros na Coreia pela 1ª vez",
+        "excerpt": "A Tesla superou a Kia no mês passado no mercado sul-coreano de veículos elétricos de passageiros e assumiu pela primeira vez a liderança em vendas, informou a Yonhap.",
+        "body": "A Tesla, marca norte-americana de veículos elétricos, tornou-se no mês passado a líder de vendas no segmento de carros elétricos de passageiros na Coreia do Sul, superando pela primeira vez a sul-coreana Kia. Segundo a reportagem, foi a primeira vez que a Tesla ficou à frente da Kia no ranking doméstico de vendas de veículos elétricos de passageiros. O resultado chama atenção porque mostra a Tesla, uma marca importada de elétricos, em destaque na disputa com grandes marcas coreanas. O texto original não apresentou volumes específicos de vendas nem desempenho detalhado por modelo. A concorrência entre marcas de elétricos de passageiros na Coreia do Sul deve continuar em foco conforme mudem as posições de venda e as escolhas dos consumidores. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Tesla führt Koreas Pkw-Elektroautomarkt erstmals vor Kia an",
+        "excerpt": "Tesla hat Kia im vergangenen Monat im südkoreanischen Markt für elektrische Pkw erstmals überholt und wurde zur meistverkauften Marke, berichtete Yonhap.",
+        "body": "Tesla, der US-amerikanische Elektroautohersteller, wurde im vergangenen Monat im südkoreanischen Segment der elektrischen Pkw zur meistverkauften Marke und überholte erstmals die koreanische Marke Kia. Dem Bericht zufolge lag Tesla damit zum ersten Mal in der Verkaufsrangliste für elektrische Pkw in Südkorea vor Kia. Das Ergebnis ist bemerkenswert, weil Tesla als importierte Elektroautomarke im Wettbewerb mit wichtigen koreanischen Marken deutlich hervortrat. Der Originalbericht nannte jedoch keine konkreten Verkaufszahlen und keine detaillierten Ergebnisse nach Modell. Der Wettbewerb der Marken im südkoreanischen Pkw-Elektroautomarkt dürfte weiter beobachtet werden, wenn sich Verkaufsranglisten und Verbraucherentscheidungen verändern. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Tesla prend la tête des ventes de voitures électriques en Corée devant Kia",
+        "excerpt": "Tesla a dépassé Kia le mois dernier sur le marché sud-coréen des voitures électriques particulières et est devenue pour la première fois la marque numéro un, selon Yonhap.",
+        "body": "Tesla, marque américaine de véhicules électriques, est devenue le mois dernier la première marque en ventes dans le segment sud-coréen des voitures électriques particulières, dépassant pour la première fois le constructeur coréen Kia. Selon le reportage, c’est la première fois que Tesla se classe devant Kia dans les ventes nationales de véhicules électriques particuliers. Ce résultat retient l’attention car il montre la progression de Tesla, marque importée, dans la concurrence avec les grandes marques coréennes. Le texte original ne fournit toutefois pas de volumes de ventes précis ni de résultats détaillés par modèle. La compétition entre marques de voitures électriques particulières en Corée du Sud devrait rester suivie à mesure que les classements et les choix des consommateurs évoluent. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تسلا تتصدر مبيعات سيارات الركاب الكهربائية في كوريا لأول مرة متجاوزة كيا",
+        "excerpt": "أصبحت تسلا الأميركية الشهر الماضي العلامة الأكثر مبيعاً في سوق سيارات الركاب الكهربائية في كوريا الجنوبية، بعد أن تجاوزت كيا لأول مرة، وفقاً ليونهاب.",
+        "body": "أصبحت تسلا، علامة السيارات الكهربائية الأميركية، الشهر الماضي العلامة الأولى في المبيعات ضمن قطاع سيارات الركاب الكهربائية في كوريا الجنوبية، بعدما تجاوزت كيا الكورية لأول مرة. ووفقاً للتقرير، فهذه هي المرة الأولى التي تتقدم فيها تسلا على كيا في ترتيب مبيعات سيارات الركاب الكهربائية داخل كوريا. وتكتسب النتيجة أهمية لأنها تظهر بروز تسلا، وهي علامة كهربائية مستوردة، في المنافسة مع العلامات الكورية الرئيسية. ولم يورد النص الأصلي أرقام مبيعات محددة أو نتائج مفصلة بحسب الطراز. ومن المتوقع أن تبقى المنافسة بين علامات سيارات الركاب الكهربائية في كوريا الجنوبية محل متابعة مع تغير ترتيبات المبيعات وخيارات المستهلكين. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "टेस्ला पहली बार कोरिया में पैसेंजर ईवी बिक्री में किआ से आगे निकली",
+        "excerpt": "अमेरिकी टेस्ला पिछले महीने दक्षिण कोरिया के पैसेंजर इलेक्ट्रिक वाहन बाजार में पहली बार किआ को पीछे छोड़कर बिक्री में शीर्ष ब्रांड बनी, योनहाप ने बताया।",
+        "body": "अमेरिकी इलेक्ट्रिक वाहन ब्रांड टेस्ला पिछले महीने दक्षिण कोरिया के पैसेंजर ईवी क्षेत्र में कोरियाई किआ को पहली बार पीछे छोड़कर बिक्री में नंबर एक ब्रांड बन गई। रिपोर्ट के अनुसार, घरेलू पैसेंजर इलेक्ट्रिक वाहन बिक्री रैंकिंग में टेस्ला का किआ से आगे निकलना पहली बार हुआ। यह नतीजा इसलिए ध्यान खींचता है क्योंकि आयातित ईवी ब्रांड टेस्ला ने प्रमुख कोरियाई ब्रांडों के साथ प्रतिस्पर्धा में अपनी बिक्री स्थिति को उभारा। हालांकि मूल रिपोर्ट में बिक्री की ठोस संख्या या मॉडलवार विस्तृत प्रदर्शन नहीं दिया गया। आगे दक्षिण कोरिया में पैसेंजर ईवी ब्रांडों की प्रतिस्पर्धा बिक्री रैंकिंग और उपभोक्ता पसंद में बदलाव के साथ नजर में रहेगी। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Tesla Pertama Kali Pimpin Penjualan EV Penumpang Korea, Salip Kia",
+        "excerpt": "Tesla asal AS bulan lalu menjadi merek terlaris di pasar mobil listrik penumpang Korea Selatan setelah untuk pertama kalinya melampaui Kia, menurut Yonhap.",
+        "body": "Tesla, merek kendaraan listrik asal Amerika Serikat, bulan lalu menjadi merek nomor satu dalam penjualan di segmen mobil listrik penumpang Korea Selatan setelah untuk pertama kalinya melampaui Kia asal Korea. Menurut laporan tersebut, ini adalah pertama kalinya Tesla berada di depan Kia dalam peringkat penjualan kendaraan listrik penumpang domestik. Hasil ini menarik perhatian karena menunjukkan Tesla, sebagai merek EV impor, menonjol dalam persaingan dengan merek-merek utama Korea. Namun, laporan asli tidak menyebutkan angka penjualan spesifik atau rincian kinerja berdasarkan model. Persaingan merek mobil listrik penumpang di Korea Selatan diperkirakan tetap menjadi perhatian seiring perubahan peringkat penjualan dan pilihan konsumen. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "f89e391e4d13",
     "slug": "고유가에-저비용항공사-운항-900편-감축무급휴직-속출-171597",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Mug Terbatas Paul Bassett dan Harim Chicken King Ramen Jadi Sorotan",
         "excerpt": "Paul Bassett, yang dioperasikan M’s Seed afiliasi Maeil Dairies, meluncurkan dua mug terbatas bersama Soil Baker; Harim Chicken King Ramen juga masuk kabar produk baru.",
         "body": "Paul Bassett, merek kopi yang dioperasikan oleh M’s Seed, afiliasi Maeil Dairies [267980], meluncurkan dua mug edisi terbatas hasil kolaborasi dengan merek perlengkapan meja Soil Baker. Produk ini merupakan item kolaborasi Paul Bassett dan Soil Baker, memperluas pengalaman merek ke perlengkapan meja sehari-hari. Dalam rangkaian kabar produk baru yang sama, Harim Chicken King Ramen juga ikut diperkenalkan. Mug terbatas dan produk ramen baru ini menarik perhatian saat perusahaan makanan dan minuman memperluas titik kontak dengan konsumen melalui merchandise dan makanan praktis. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "844e6bb28d0b",
-    "slug": "금주핫템-코오롱fnc-슈즈라인업블랙야크-에어로프레쉬-323189",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T13:03:16.032Z",
-    "updatedAt": "2026-05-09T13:03:16.032Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507155800030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507155800030",
-    "titleFingerprint": "74cd4ca220fe9ffa2923f101e64d691306151c93",
-    "dedupKeys": [
-      "844e6bb28d0b64c0276094b6270c124773101f33",
-      "74cd4ca220fe9ffa2923f101e64d691306151c93",
-      "e4d4c2aeaac480a2b86fdbe314fed55361789e12"
-    ],
-    "imageUrl": "/images/articles/844e6bb28d0b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코오롱FnC 슈즈라인업·블랙야크 에어로프레쉬, 여름 핫템 주목",
-        "excerpt": "코오롱인더스트리FnC의 슈콤마보니가 여름철을 맞아 스트랩 플랫 등을 포함한 슈즈 라인업을 출시했고, 블랙야크 에어로프레쉬도 금주 핫템으로 소개됐다.",
-        "body": "코오롱인더스트리FnC부문이 전개하는 컨템포러리 슈즈 브랜드 슈콤마보니가 여름철을 맞아 새 ‘슈즈 라인업’을 선보였다. 원문 요약에 따르면 이번 라인업에는 스트랩 플랫 등이 포함됐다. 같은 기사 제목에는 블랙야크의 ‘에어로프레쉬’도 금주 핫템으로 함께 제시됐다. 이번 소식은 패션·아웃도어 브랜드가 여름 시즌에 맞춰 신상품을 알리는 흐름 속에서 소비자 선택지를 넓히는 사례로 볼 수 있다. 세부 가격과 판매처 등 추가 정보는 제공된 원문 요약에 포함되지 않았다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Kolon FnC Shoe Lineup and Blackyak AeroFresh Draw Summer Attention",
-        "excerpt": "Kolon Industries FnC’s shoe brand Suecomma Bonnie launched a summer shoe lineup including strap flats, while Blackyak’s AeroFresh was also featured as a weekly hot item.",
-        "body": "Suecomma Bonnie, a contemporary shoe brand operated by Kolon Industries FnC, introduced a new “shoe lineup” for the summer season. According to the source summary, the lineup includes strap flats. The same article headline also presented Blackyak’s “AeroFresh” as a weekly hot item. The news reflects how fashion and outdoor brands are introducing seasonal products for summer and adding more options for consumers. Additional details such as prices and sales channels were not included in the provided source summary. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "コーロンFnCのシューズラインアップとブラックヤクのエアロフレッシュに注目",
-        "excerpt": "コーロンインダストリーFnCのシューズブランド、シュコンマボニーが夏に向けストラップフラットなどを含むシューズラインアップを発売し、ブラックヤクのエアロフレッシュも今週の注目商品として紹介された。",
-        "body": "コーロンインダストリーFnC部門が展開するコンテンポラリーシューズブランド、シュコンマボニーが夏シーズンに合わせて新たな「シューズラインアップ」を発表した。原文要約によると、今回のラインアップにはストラップフラットなどが含まれる。同じ記事の見出しでは、ブラックヤクの「エアロフレッシュ」も今週の注目商品として取り上げられた。今回のニュースは、ファッション・アウトドアブランドが夏向け商品を紹介し、消費者の選択肢を広げる動きといえる。価格や販売先などの追加情報は提供された原文要約には含まれていない。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "Kolon FnC鞋履阵容与Blackyak AeroFresh成夏季热门新品",
-        "excerpt": "Kolon Industries FnC旗下鞋履品牌Suecomma Bonnie面向夏季推出包含绑带平底鞋等在内的鞋履阵容，Blackyak的AeroFresh也被列为本周热门单品。",
-        "body": "Kolon Industries FnC部门运营的当代鞋履品牌Suecomma Bonnie面向夏季推出新的“鞋履阵容”。根据原文摘要，此次阵容包括绑带平底鞋等产品。同一篇报道标题还将Blackyak的“AeroFresh”列为本周热门单品。该消息显示，时尚与户外品牌正配合夏季需求介绍新品，并为消费者提供更多选择。有关价格、销售渠道等细节，提供的原文摘要中未包含。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Kolon FnC lanza línea de calzado y Blackyak AeroFresh gana foco estival",
-        "excerpt": "Suecomma Bonnie, marca de calzado de Kolon Industries FnC, lanzó para el verano una línea con zapatos planos de tiras, mientras Blackyak AeroFresh también fue destacado como producto de la semana.",
-        "body": "Suecomma Bonnie, la marca contemporánea de calzado operada por Kolon Industries FnC, presentó una nueva “línea de calzado” para la temporada de verano. Según el resumen original, la línea incluye zapatos planos de tiras. El mismo titular también incluyó “AeroFresh” de Blackyak como producto destacado de la semana. La noticia muestra cómo las marcas de moda y outdoor presentan artículos de temporada para el verano y amplían las opciones del consumidor. El resumen proporcionado no incluye detalles adicionales como precios o canales de venta. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Kolon FnC apresenta linha de calçados e Blackyak AeroFresh mira o verão",
-        "excerpt": "A Suecomma Bonnie, marca de calçados da Kolon Industries FnC, lançou para o verão uma linha com sapatilhas de tiras, enquanto o AeroFresh da Blackyak também foi citado como item quente da semana.",
-        "body": "A Suecomma Bonnie, marca contemporânea de calçados operada pela Kolon Industries FnC, apresentou uma nova “linha de calçados” para a temporada de verão. Segundo o resumo original, a linha inclui sapatilhas de tiras. O mesmo título também destacou o “AeroFresh” da Blackyak como item quente da semana. A notícia mostra marcas de moda e outdoor apresentando produtos sazonais para o verão e ampliando as opções para consumidores. Detalhes adicionais, como preços e canais de venda, não aparecem no resumo fornecido. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Kolon FnC Schuhlinie und Blackyak AeroFresh rücken im Sommer in den Fokus",
-        "excerpt": "Suecomma Bonnie, die Schuhmarke von Kolon Industries FnC, bringt zum Sommer eine Linie mit Riemchen-Flats heraus; auch Blackyaks AeroFresh wurde als Hot Item der Woche genannt.",
-        "body": "Suecomma Bonnie, eine zeitgenössische Schuhmarke von Kolon Industries FnC, hat zur Sommersaison eine neue „Schuhlinie“ vorgestellt. Laut der vorliegenden Zusammenfassung umfasst die Linie unter anderem Riemchen-Flats. In derselben Überschrift wurde auch Blackyaks „AeroFresh“ als Hot Item der Woche genannt. Die Meldung zeigt, wie Mode- und Outdoor-Marken saisonale Produkte für den Sommer vorstellen und Verbrauchern zusätzliche Auswahl bieten. Weitere Angaben wie Preise oder Vertriebskanäle sind in der bereitgestellten Zusammenfassung nicht enthalten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Kolon FnC dévoile ses chaussures, Blackyak AeroFresh attire aussi l’attention",
-        "excerpt": "Suecomma Bonnie, marque de chaussures de Kolon Industries FnC, lance pour l’été une gamme incluant des ballerines à brides, tandis que Blackyak AeroFresh figure aussi parmi les articles phares de la semaine.",
-        "body": "Suecomma Bonnie, marque contemporaine de chaussures exploitée par Kolon Industries FnC, a présenté une nouvelle « gamme de chaussures » pour la saison estivale. Selon le résumé original, cette gamme comprend notamment des ballerines à brides. Le même titre mentionne aussi « AeroFresh » de Blackyak comme article phare de la semaine. Cette information illustre la présentation de produits saisonniers par les marques de mode et d’outdoor, avec davantage d’options pour les consommateurs. Les détails comme les prix ou les canaux de vente ne figurent pas dans le résumé fourni. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تشكيلة أحذية Kolon FnC وAeroFresh من Blackyak تبرزان مع موسم الصيف",
-        "excerpt": "أطلقت Suecomma Bonnie، علامة الأحذية التابعة لـKolon Industries FnC، تشكيلة صيفية تشمل أحذية مسطحة بأشرطة، فيما برز AeroFresh من Blackyak أيضا كأحد منتجات الأسبوع اللافتة.",
-        "body": "قدمت Suecomma Bonnie، علامة الأحذية العصرية التي تديرها Kolon Industries FnC، “تشكيلة أحذية” جديدة لموسم الصيف. ووفق ملخص المصدر، تشمل التشكيلة أحذية مسطحة بأشرطة. كما أشار عنوان الخبر نفسه إلى “AeroFresh” من Blackyak كأحد المنتجات اللافتة لهذا الأسبوع. تعكس هذه الأخبار قيام علامات الموضة والمنتجات الخارجية بطرح منتجات موسمية للصيف وتوسيع خيارات المستهلكين. ولم يتضمن الملخص المقدم تفاصيل إضافية مثل الأسعار أو قنوات البيع. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "Kolon FnC शू लाइनअप और Blackyak AeroFresh गर्मियों में बने आकर्षण",
-        "excerpt": "Kolon Industries FnC के शू ब्रांड Suecomma Bonnie ने गर्मियों के लिए स्ट्रैप फ्लैट सहित नई शू लाइनअप लॉन्च की, जबकि Blackyak AeroFresh भी इस सप्ताह के हॉट आइटम के रूप में शामिल हुआ।",
-        "body": "Kolon Industries FnC द्वारा संचालित समकालीन शू ब्रांड Suecomma Bonnie ने गर्मी के मौसम को देखते हुए नई “शू लाइनअप” पेश की है। मूल सारांश के अनुसार, इस लाइनअप में स्ट्रैप फ्लैट आदि शामिल हैं। उसी लेख के शीर्षक में Blackyak के “AeroFresh” को भी इस सप्ताह के हॉट आइटम के रूप में रखा गया है। यह खबर दिखाती है कि फैशन और आउटडोर ब्रांड गर्मियों के अनुरूप नए उत्पाद पेश कर रहे हैं और उपभोक्ताओं के लिए विकल्प बढ़ा रहे हैं। कीमतों और बिक्री चैनलों जैसी अतिरिक्त जानकारी दिए गए मूल सारांश में शामिल नहीं है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Kolon FnC Shoe Lineup dan Blackyak AeroFresh Jadi Sorotan Musim Panas",
-        "excerpt": "Suecomma Bonnie, merek sepatu Kolon Industries FnC, meluncurkan lini sepatu musim panas termasuk strap flat, sementara Blackyak AeroFresh juga diperkenalkan sebagai hot item pekan ini.",
-        "body": "Suecomma Bonnie, merek sepatu kontemporer yang dijalankan Kolon Industries FnC, memperkenalkan “shoe lineup” baru untuk musim panas. Menurut ringkasan sumber, lini ini mencakup strap flat. Judul artikel yang sama juga menampilkan “AeroFresh” dari Blackyak sebagai hot item pekan ini. Kabar ini menunjukkan bagaimana merek fesyen dan outdoor memperkenalkan produk musiman untuk musim panas serta menambah pilihan bagi konsumen. Rincian tambahan seperti harga dan kanal penjualan tidak tercantum dalam ringkasan sumber yang diberikan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c132035f4907",
-    "slug": "머니플로우-더-가나-투자자예탁금-역대-최대하락-베팅도-증가-144701",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T13:02:03.924Z",
-    "updatedAt": "2026-05-09T13:02:03.924Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508144700008",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508144700008",
-    "titleFingerprint": "96ad1a6afbb0ab562f5125495c59b8835b9f2777",
-    "dedupKeys": [
-      "c132035f4907b0f7125bec5c836af8f475a71bf1",
-      "96ad1a6afbb0ab562f5125495c59b8835b9f2777",
-      "a85540ab1e1ada4bd268fe1c2f4c859ac1af058b"
-    ],
-    "imageUrl": "/images/articles/c132035f4907.jpg",
-    "i18n": {
-      "ko": {
-        "title": "투자자예탁금 역대 최대, 코스피 7천 돌파 뒤 하락 베팅도 증가",
-        "excerpt": "코스피가 7,000포인트를 돌파한 뒤 증시 대기자금인 투자자예탁금이 역대 최대치를 경신했고, 동시에 하락에 베팅하는 움직임도 늘었다.",
-        "body": "코스피가 이른바 ‘7천피’로 불리는 7,000포인트 선까지 돌파하자 국내 증시 대기자금인 투자자예탁금이 역대 최대치를 새로 썼다. 연합뉴스에 따르면 투자자들은 추가 상승 가능성을 주시하며 시장 주변 자금을 늘리는 한편, 지수 하락에 대비한 베팅도 함께 확대하고 있다. 이는 강한 지수 흐름 속에서도 투자자들의 기대와 경계심이 동시에 커지고 있음을 보여준다. 코스피가 사상적 고점 영역에 진입하면서 대기성 자금 유입은 시장의 추가 매수 여력을 시사하지만, 하락 베팅 증가는 변동성 확대 가능성에 대한 부담도 반영한다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Investor Deposits Hit Record as Kospi Tops 7,000, Downside Bets Rise",
-        "excerpt": "After the Kospi broke above 7,000 points, investor deposits waiting on the sidelines reached a record high, while bets on a market decline also increased.",
-        "body": "After the Kospi surpassed the 7,000-point level, often described as “7,000 Kospi,” investor deposits, a key measure of cash waiting to enter the stock market, reached an all-time high. According to Yonhap News Agency, investors are increasing funds around the market while watching for further upside, but they are also expanding bets that prepare for a possible index decline. The trend shows that expectations and caution are rising at the same time amid the strong market move. While the inflow of idle cash suggests additional buying capacity, the increase in downside bets also reflects concerns over possible volatility. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "投資家預託金が過去最大、KOSPI 7,000突破後に下落ベットも増加",
-        "excerpt": "KOSPIが7,000ポイントを突破した後、株式市場の待機資金である投資家預託金が過去最高を更新し、下落に備える動きも増えた。",
-        "body": "KOSPIがいわゆる「7千ピ」と呼ばれる7,000ポイント台を突破したことで、韓国株式市場の待機資金である投資家預託金が過去最大を更新した。聯合ニュースによると、投資家はさらなる上昇の可能性を見極めながら市場周辺の資金を増やす一方、指数下落に備えたベットも同時に拡大している。強い相場展開の中でも、期待と警戒感が同時に高まっていることを示す動きだ。待機資金の流入は追加買い余力を示す一方、下落ベットの増加は変動性拡大への懸念も反映している。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "投资者存款创新高，Kospi突破7000点后看跌押注也增加",
-        "excerpt": "Kospi突破7000点后，作为股市观望资金的投资者存款创下历史新高，同时押注市场下跌的资金动向也有所增加。",
-        "body": "随着Kospi突破被称为“7000点Kospi”的7000点关口，韩国股市的观望资金指标投资者存款刷新历史最高纪录。据韩联社报道，投资者一方面关注指数继续上涨的可能性并增加市场周边资金，另一方面也同步扩大了针对指数下跌的押注。这显示在强劲行情之下，市场期待与警惕情绪同时升温。观望资金流入意味着后续买盘仍有余力，但看跌押注增加也反映出投资者对波动性扩大的担忧。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Depósitos de inversores marcan récord tras Kospi sobre 7.000 y suben apuestas bajistas",
-        "excerpt": "Tras superar el Kospi los 7.000 puntos, los depósitos de inversores como dinero en espera alcanzaron un récord, mientras también aumentaron las apuestas a caídas.",
-        "body": "Después de que el Kospi superara el nivel de 7.000 puntos, conocido en el mercado como “Kospi de 7.000”, los depósitos de inversores, una medida del dinero en espera para entrar en la bolsa, alcanzaron un máximo histórico. Según la agencia Yonhap, los inversores están aumentando los fondos alrededor del mercado mientras observan la posibilidad de nuevas subidas, pero también están ampliando las apuestas preparadas para una posible caída del índice. El movimiento muestra que las expectativas y la cautela crecen al mismo tiempo en medio de la fortaleza bursátil. La entrada de efectivo disponible sugiere capacidad adicional de compra, aunque el aumento de apuestas bajistas refleja preocupación por una mayor volatilidad. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Depósitos de investidores batem recorde após Kospi passar 7.000 e apostas de queda sobem",
-        "excerpt": "Depois que o Kospi rompeu os 7.000 pontos, os depósitos de investidores em espera atingiram recorde histórico, enquanto apostas em queda também aumentaram.",
-        "body": "Depois que o Kospi superou a marca de 7.000 pontos, chamada no mercado de “Kospi de 7.000”, os depósitos de investidores, indicador de recursos à espera para entrar na bolsa, renovaram a máxima histórica. Segundo a agência Yonhap, investidores estão ampliando recursos ao redor do mercado enquanto acompanham a possibilidade de novas altas, mas também aumentam apostas voltadas a uma eventual queda do índice. O movimento mostra que expectativa e cautela crescem ao mesmo tempo em meio à forte trajetória do mercado. A entrada de dinheiro em espera sugere poder adicional de compra, enquanto o avanço das apostas de queda reflete preocupação com maior volatilidade. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Anlegerguthaben auf Rekordhoch nach Kospi über 7.000, Wetten auf Rückgang nehmen zu",
-        "excerpt": "Nachdem der Kospi die Marke von 7.000 Punkten überschritten hatte, erreichten Anlegerguthaben als wartendes Börsenkapital ein Rekordhoch; zugleich nahmen Abwärtswetten zu.",
-        "body": "Nachdem der Kospi die Marke von 7.000 Punkten überschritten hat, die im Markt als „7.000er Kospi“ bezeichnet wird, haben Anlegerguthaben als Maß für wartendes Kapital am Aktienmarkt ein Allzeithoch erreicht. Laut der Nachrichtenagentur Yonhap erhöhen Investoren Mittel im Marktumfeld, während sie weiteres Aufwärtspotenzial beobachten, bauen zugleich aber auch Positionen aus, die auf einen möglichen Rückgang des Index ausgerichtet sind. Dies zeigt, dass Erwartungen und Vorsicht in der starken Marktphase gleichzeitig zunehmen. Der Zufluss von Wartemitteln deutet auf zusätzliche Kaufkraft hin, während mehr Abwärtswetten Sorgen über mögliche Volatilität widerspiegeln. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Dépôts des investisseurs au record après le Kospi à 7 000, les paris baissiers montent",
-        "excerpt": "Après le franchissement des 7 000 points par le Kospi, les dépôts d’investisseurs en attente ont atteint un record, tandis que les paris sur une baisse ont augmenté.",
-        "body": "Après que le Kospi a dépassé le seuil des 7 000 points, parfois appelé « Kospi à 7 000 », les dépôts des investisseurs, indicateur des liquidités en attente d’entrée sur le marché actions, ont atteint un plus haut historique. Selon l’agence Yonhap, les investisseurs augmentent les fonds disponibles autour du marché en surveillant la possibilité d’une poursuite de la hausse, tout en renforçant aussi les paris préparés à une éventuelle baisse de l’indice. Ce mouvement montre que les attentes et la prudence progressent simultanément dans un marché solide. L’afflux de liquidités suggère une capacité d’achat supplémentaire, mais la hausse des paris baissiers reflète aussi la crainte d’une volatilité accrue. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ودائع المستثمرين تسجل مستوى قياسيا بعد تجاوز كوسبي 7000 وزيادة رهانات الهبوط",
-        "excerpt": "بعد أن تجاوز مؤشر كوسبي مستوى 7000 نقطة، سجلت ودائع المستثمرين كأموال منتظرة في سوق الأسهم مستوى تاريخيا، مع ارتفاع رهانات الهبوط أيضا.",
-        "body": "بعد أن تجاوز مؤشر كوسبي مستوى 7000 نقطة، وهو ما يوصف في السوق باسم “كوسبي 7000”، سجلت ودائع المستثمرين، وهي مؤشر على الأموال المنتظرة لدخول سوق الأسهم، أعلى مستوى على الإطلاق. ووفقا لوكالة يونهاب، يزيد المستثمرون الأموال المحيطة بالسوق مع متابعة احتمال استمرار الصعود، لكنهم في الوقت نفسه يوسعون الرهانات التي تستعد لاحتمال تراجع المؤشر. ويظهر ذلك أن التوقعات الإيجابية والحذر يرتفعان معا وسط قوة حركة السوق. تدفق الأموال المنتظرة يشير إلى قدرة شراء إضافية، بينما تعكس زيادة رهانات الهبوط مخاوف من احتمال اتساع التقلبات. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोस्पी 7,000 पार होते ही निवेशक जमा रिकॉर्ड पर, गिरावट के दांव भी बढ़े",
-        "excerpt": "कोस्पी के 7,000 अंक पार करने के बाद शेयर बाजार में प्रतीक्षारत निवेशक जमा रिकॉर्ड ऊंचाई पर पहुंचा, जबकि गिरावट पर लगाए जाने वाले दांव भी बढ़े।",
-        "body": "कोस्पी के 7,000 अंक के स्तर को पार करने के बाद, जिसे बाजार में “7,000 कोस्पी” कहा जा रहा है, शेयर बाजार में प्रवेश की प्रतीक्षा कर रहे धन का संकेतक निवेशक जमा अब तक के उच्चतम स्तर पर पहुंच गया। योनहाप न्यूज एजेंसी के अनुसार, निवेशक आगे और बढ़त की संभावना पर नजर रखते हुए बाजार के आसपास धन बढ़ा रहे हैं, लेकिन साथ ही सूचकांक में संभावित गिरावट के लिए दांव भी बढ़ा रहे हैं। यह रुझान मजबूत बाजार चाल के बीच उम्मीद और सावधानी दोनों के बढ़ने को दिखाता है। प्रतीक्षारत नकदी का प्रवाह अतिरिक्त खरीद क्षमता का संकेत देता है, जबकि गिरावट के दांव में वृद्धि संभावित अस्थिरता को लेकर चिंता दर्शाती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Dana Investor Cetak Rekor Saat Kospi Tembus 7.000, Taruhan Turun Ikut Naik",
-        "excerpt": "Setelah Kospi menembus 7.000 poin, dana investor yang menunggu masuk pasar saham mencapai rekor tertinggi, sementara taruhan atas penurunan indeks juga meningkat.",
-        "body": "Setelah Kospi menembus level 7.000 poin, yang di pasar disebut sebagai “Kospi 7.000”, dana investor yang menunggu masuk ke pasar saham mencetak rekor tertinggi sepanjang masa. Menurut kantor berita Yonhap, investor menambah dana di sekitar pasar sambil mencermati peluang kenaikan lanjutan, namun pada saat yang sama juga memperbesar taruhan untuk mengantisipasi kemungkinan penurunan indeks. Pergerakan ini menunjukkan bahwa ekspektasi dan kewaspadaan meningkat bersamaan di tengah laju pasar yang kuat. Masuknya dana menganggur mengisyaratkan daya beli tambahan, sedangkan kenaikan taruhan turun mencerminkan kekhawatiran terhadap potensi volatilitas. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e3f013ae21b6",
-    "slug": "바이오사이언스-국산-신약-43호-시대개발-속도-빨라졌다-459136",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T13:01:01.630Z",
-    "updatedAt": "2026-05-09T13:01:01.630Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508099600017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508099600017",
-    "titleFingerprint": "516e0e2886f0ca857a8d9fef24fcb129dfa910a9",
-    "dedupKeys": [
-      "e3f013ae21b606d32f38e8dc1b631caf47893901",
-      "516e0e2886f0ca857a8d9fef24fcb129dfa910a9",
-      "670a2666d518537605115c28efaee0ea0112e76f"
-    ],
-    "imageUrl": "/images/articles/e3f013ae21b6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국산 신약 43호 시대, 1999년 첫 개발 이후 바이오 신약 속도 빨라졌다",
-        "excerpt": "연합뉴스에 따르면 1999년 국내 개발 신약 1호가 나온 뒤 27년 동안 국산 신약은 총 43호까지 늘며 국내 바이오사이언스 신약 개발 흐름이 빨라졌다.",
-        "body": "국내에서 개발된 신약이 1999년 ‘국내 개발 신약 1호’ 탄생 이후 27년 만에 모두 43호까지 늘었다. 연합뉴스 신선미 기자는 국내 바이오사이언스 분야에서 국산 신약 개발 성과가 누적되며 ‘국산 신약 43호 시대’가 열렸다고 보도했다. 핵심 수치는 1999년 첫 사례와 27년간 누적된 43호다. 이는 국내 제약·바이오 업계의 신약 개발 이력이 장기간 축적돼 왔음을 보여준다. 앞으로 관련 흐름은 국산 신약 개발 속도와 성과를 가늠하는 지표로 주목될 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Korea Reaches 43 Homegrown New Drugs as Development Pace Accelerates Since 1999",
-        "excerpt": "According to Yonhap News, 27 years after Korea’s first domestically developed new drug appeared in 1999, the total number of homegrown new drugs has risen to 43.",
-        "body": "Korea has reached a total of 43 domestically developed new drugs, 27 years after the country’s first homegrown new drug was introduced in 1999. Yonhap News reporter Shin Sun-mi reported that the bioscience sector has entered an era of 43 Korean-developed new drugs as development achievements have accumulated. The key figures are the first case in 1999 and the total of 43 over 27 years. This shows that Korea’s pharmaceutical and biotech industries have built a long record of new drug development. The trend may serve as an indicator for tracking the pace and results of future domestic new drug development. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国産新薬43号時代へ、1999年の第1号以降で開発ペース加速",
-        "excerpt": "聯合ニュースによると、1999年に韓国国内開発の新薬第1号が登場してから27年間で、韓国産新薬は計43号まで増えた。",
-        "body": "韓国で開発された新薬は、1999年に「国内開発新薬第1号」が誕生してから27年で計43号まで増えた。聯合ニュースのシン・ソンミ記者は、バイオサイエンス分野で韓国産新薬の開発成果が積み重なり、「韓国産新薬43号時代」が開かれたと報じた。主な数字は、1999年の最初の事例と27年間で累積した43号である。これは韓国の製薬・バイオ業界で新薬開発の歩みが長期にわたり蓄積されてきたことを示す。今後、この流れは韓国産新薬の開発速度と成果を見る指標として注目される可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国国产新药进入43号时代，1999年首个新药后开发提速",
-        "excerpt": "据韩联社报道，自1999年韩国首个国内开发新药问世以来，27年间韩国国产新药总数已增至43个。",
-        "body": "韩国国内开发的新药自1999年“国内开发新药1号”诞生以来，27年间已累计达到43个。韩联社记者申善美报道称，韩国生物科学领域的国产新药开发成果不断累积，已进入“国产新药43号时代”。核心数据是1999年的首个案例，以及27年间累计的43个新药。这表明韩国制药和生物产业的新药开发历程已长期积累。未来，这一趋势可作为观察韩国国产新药开发速度和成果的重要指标。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Corea alcanza 43 nuevos fármacos nacionales y acelera su desarrollo desde 1999",
-        "excerpt": "Según Yonhap News, desde que en 1999 apareció el primer nuevo fármaco desarrollado en Corea, el total de medicamentos nacionales llegó a 43 en 27 años.",
-        "body": "Corea ha llegado a un total de 43 nuevos fármacos desarrollados en el país, 27 años después de que en 1999 apareciera el primer medicamento nacional de este tipo. La periodista Shin Sun-mi de Yonhap News informó que el sector de biociencias ha entrado en la era de los 43 nuevos fármacos coreanos, tras acumular resultados de desarrollo. Las cifras clave son el primer caso de 1999 y los 43 productos acumulados durante 27 años. Esto muestra una trayectoria prolongada de desarrollo farmacéutico y biotecnológico en Corea. La tendencia puede servir como referencia para observar el ritmo y los resultados futuros del desarrollo de nuevos fármacos nacionales. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Coreia chega a 43 novos medicamentos nacionais e acelera avanço desde 1999",
-        "excerpt": "Segundo a Yonhap News, desde o primeiro novo medicamento desenvolvido na Coreia em 1999, o total de fármacos nacionais chegou a 43 em 27 anos.",
-        "body": "A Coreia chegou a um total de 43 novos medicamentos desenvolvidos no país, 27 anos depois do surgimento, em 1999, do primeiro novo fármaco nacional. A repórter Shin Sun-mi, da Yonhap News, informou que o setor de biociências entrou na era dos 43 novos medicamentos coreanos, com a acumulação de resultados de desenvolvimento. Os números centrais são o primeiro caso em 1999 e os 43 acumulados ao longo de 27 anos. Isso mostra que a indústria farmacêutica e de biotecnologia coreana construiu uma trajetória prolongada de desenvolvimento de novos medicamentos. A tendência pode servir como indicador para acompanhar o ritmo e os resultados futuros desse desenvolvimento nacional. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Südkorea erreicht 43 heimische neue Arzneien, Entwicklung seit 1999 schneller",
-        "excerpt": "Laut Yonhap News ist die Zahl der in Südkorea entwickelten neuen Arzneimittel seit dem ersten Fall im Jahr 1999 innerhalb von 27 Jahren auf 43 gestiegen.",
-        "body": "Südkorea hat insgesamt 43 im Inland entwickelte neue Arzneimittel erreicht, 27 Jahre nachdem 1999 das erste heimisch entwickelte neue Medikament vorgestellt wurde. Yonhap-News-Reporterin Shin Sun-mi berichtete, dass der Bioscience-Bereich mit den angesammelten Entwicklungserfolgen in die Ära von 43 koreanischen neuen Arzneien eingetreten ist. Die zentralen Zahlen sind der erste Fall im Jahr 1999 und die Summe von 43 über 27 Jahre. Dies zeigt, dass die Pharma- und Biotechbranche Südkoreas über lange Zeit Erfahrungen in der Entwicklung neuer Medikamente aufgebaut hat. Der Trend kann künftig als Hinweis auf Tempo und Ergebnisse der heimischen Arzneimittelentwicklung gelten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La Corée atteint 43 nouveaux médicaments nationaux, un rythme accéléré depuis 1999",
-        "excerpt": "Selon Yonhap News, 27 ans après le premier nouveau médicament développé en Corée en 1999, le nombre total de médicaments nationaux est monté à 43.",
-        "body": "La Corée a atteint un total de 43 nouveaux médicaments développés dans le pays, 27 ans après l’apparition en 1999 du premier nouveau médicament national. La journaliste Shin Sun-mi de Yonhap News a rapporté que le secteur des biosciences est entré dans l’ère des 43 nouveaux médicaments coréens, grâce à l’accumulation de résultats de développement. Les chiffres clés sont le premier cas de 1999 et les 43 médicaments cumulés en 27 ans. Cela montre que les industries pharmaceutique et biotechnologique coréennes ont construit sur la durée un historique de développement de nouveaux médicaments. Cette tendance peut servir d’indicateur pour suivre le rythme et les résultats futurs du développement national. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوريا تدخل عصر 43 دواء محليا جديدا مع تسارع التطوير منذ 1999",
-        "excerpt": "وفقا لوكالة يونهاب، ارتفع عدد الأدوية الجديدة المطورة محليا في كوريا إلى 43 خلال 27 عاما منذ ظهور أول دواء محلي جديد في 1999.",
-        "body": "بلغ عدد الأدوية الجديدة المطورة محليا في كوريا 43 دواء، بعد 27 عاما من ظهور أول دواء جديد مطور داخل البلاد عام 1999. وذكرت الصحفية شين سون مي في وكالة يونهاب أن قطاع العلوم الحيوية دخل مرحلة «43 دواء كوريا جديدا» مع تراكم نتائج تطوير الأدوية المحلية. وتتمثل الأرقام الرئيسية في أول حالة عام 1999، وفي الحصيلة المتراكمة البالغة 43 خلال 27 عاما. ويظهر ذلك أن قطاعي الأدوية والتكنولوجيا الحيوية في كوريا راكما سجلا طويلا في تطوير الأدوية الجديدة. وقد يصبح هذا المسار مؤشرا لمتابعة سرعة ونتائج تطوير الأدوية المحلية مستقبلا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया में घरेलू नई दवाएं 43 तक पहुंचीं, 1999 के बाद विकास की रफ्तार तेज",
-        "excerpt": "योनहाप न्यूज के अनुसार, 1999 में कोरिया की पहली घरेलू विकसित नई दवा आने के बाद 27 वर्षों में ऐसी दवाओं की कुल संख्या 43 हो गई है।",
-        "body": "कोरिया में घरेलू रूप से विकसित नई दवाओं की संख्या 43 तक पहुंच गई है। यह उपलब्धि 1999 में देश की पहली घरेलू विकसित नई दवा के सामने आने के 27 वर्ष बाद दर्ज हुई। योनहाप न्यूज की रिपोर्टर शिन सुन-मी ने बताया कि बायोसाइंस क्षेत्र में घरेलू नई दवा विकास की उपलब्धियां जमा होती गईं और कोरिया ‘43 घरेलू नई दवाओं’ के दौर में पहुंचा। मुख्य आंकड़े 1999 का पहला मामला और 27 वर्षों में कुल 43 दवाएं हैं। यह दिखाता है कि कोरिया के फार्मा और बायोटेक उद्योग ने लंबे समय में नई दवा विकास का अनुभव संचित किया है। आगे यह प्रवाह घरेलू नई दवा विकास की गति और परिणामों को देखने का संकेतक बन सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Korea Capai 43 Obat Baru Domestik, Laju Pengembangan Meningkat Sejak 1999",
-        "excerpt": "Menurut Yonhap News, sejak obat baru domestik pertama Korea muncul pada 1999, jumlah obat baru hasil pengembangan dalam negeri naik menjadi 43 dalam 27 tahun.",
-        "body": "Korea telah mencapai total 43 obat baru yang dikembangkan di dalam negeri, 27 tahun setelah obat baru domestik pertama muncul pada 1999. Reporter Yonhap News Shin Sun-mi melaporkan bahwa sektor biosains memasuki era 43 obat baru Korea seiring akumulasi capaian pengembangan obat domestik. Angka utamanya adalah kasus pertama pada 1999 dan total 43 yang terkumpul selama 27 tahun. Hal ini menunjukkan bahwa industri farmasi dan bioteknologi Korea telah membangun rekam jejak panjang dalam pengembangan obat baru. Ke depan, tren ini dapat menjadi indikator untuk melihat laju dan hasil pengembangan obat baru domestik. Sumber: yna.co.kr"
       }
     }
   }
