@@ -1,5 +1,230 @@
 [
   {
+    "id": "515f6b74e3c8",
+    "slug": "호르무즈-뚫은-유조선-오데사호-대산항-입항-126205",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T01:14:40.096Z",
+    "updatedAt": "2026-05-09T01:14:40.096Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889603/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889603/1",
+    "titleFingerprint": "11343b2e14cc085e547f4ddaf756764b4ad331d9",
+    "dedupKeys": [
+      "515f6b74e3c8721b5894ce109173620dec239288",
+      "11343b2e14cc085e547f4ddaf756764b4ad331d9",
+      "f78ac97227226904516c76c2181a50250ad7e823"
+    ],
+    "imageUrl": "/images/articles/515f6b74e3c8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "호르무즈 통과 유조선 오데사호, 원유 100만 배럴 싣고 대산항 입항",
+        "excerpt": "호르무즈 해협 봉쇄 국면을 통과한 유조선 오데사호가 8일 충남 서산 대산항에 입항해 HD현대오일뱅크 저장탱크로 원유 약 100만 배럴을 이송한다.",
+        "body": "호르무즈 해협 봉쇄를 뚫고 원유 100만 배럴을 실은 유조선 오데사호가 8일 충남 서산 대산항에 입항했다. 오데사호는 지난달 16일 아랍에미리트 코쿠아일랜드항을 출항해 17일 호르무즈 해협을 통과했다. 당시 미국과 이란 간 ‘2주 휴전’으로 해협이 잠시 개방된 틈에 빠져나온 것으로 전해졌다. 오데사호는 이날 오후 부두에서 5.4km 떨어진 해상계류시설에 접안해 송유관으로 9일 오후 3시까지 HD현대오일뱅크 저장탱크에 원유를 보낼 예정이다. 해당 물량은 HD현대오일뱅크의 기존 장기계약 공급분으로 알려졌다. 선박 규모는 길이 274.2m, 폭 50m, 최대 높이 51.878m이며 인도와 필리핀 국적 승무원 28명이 승선했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Tanker Odessa Reaches Daesan Port After Hormuz Passage With 1 Million Barrels",
+        "excerpt": "The tanker Odessa, carrying about 1 million barrels of crude after passing through the Strait of Hormuz, arrived at Daesan Port in Seosan on the 8th for delivery to HD Hyundai Oilbank tanks.",
+        "body": "The tanker Odessa, carrying 1 million barrels of crude oil after passing through the blocked Strait of Hormuz, arrived at Daesan Port in Seosan, South Chungcheong Province, on the 8th. The vessel departed Koku Island Port in the United Arab Emirates on the 16th of last month and passed through the Strait of Hormuz on the 17th. It reportedly moved out quickly when the waterway was briefly opened during a “two-week ceasefire” between the United States and Iran. On the afternoon of arrival, Odessa berthed at an offshore mooring facility 5.4 km from the pier and is scheduled to send about 1 million barrels of crude through a pipeline to HD Hyundai Oilbank storage tanks by 3 p.m. on the 9th. The shipment is known to be part of HD Hyundai Oilbank’s existing long-term contract supply. The ship is 274.2 m long, 50 m wide and up to 51.878 m high, with 28 Indian and Filipino crew members aboard. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ホルムズ通過のタンカー「オデッサ」、原油100万バレル積み大山港へ",
+        "excerpt": "ホルムズ海峡の封鎖局面を通過したタンカー「オデッサ」が8日、忠清南道瑞山の大山港に入港し、HD現代オイルバンクのタンクへ原油約100万バレルを送る。",
+        "body": "ホルムズ海峡の封鎖を抜け、原油100万バレルを積んだタンカー「オデッサ」が8日、忠清南道瑞山の大山港に入港した。オデッサは先月16日にアラブ首長国連邦のコク島港を出港し、17日にホルムズ海峡を通過した。当時、米国とイランの「2週間停戦」により海峡が一時的に開放された間に素早く抜け出したとされる。同船は同日午後、ふ頭から5.4km離れた海上係留施設に接岸し、送油管を通じて9日午後3時までにHD現代オイルバンクの貯蔵タンクへ約100万バレルの原油を送る予定だ。この数量はHD現代オイルバンクの既存の長期契約に基づく供給分と伝えられている。船体は全長274.2m、幅50m、最大高さ51.878mで、インドとフィリピン国籍の乗組員計28人が乗船している。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "穿越霍尔木兹的“敖德萨”号油轮载100万桶原油抵达大山港",
+        "excerpt": "穿越霍尔木兹海峡封锁局面的油轮“敖德萨”号8日抵达韩国忠南瑞山大山港，将向HD现代Oilbank储罐输送约100万桶原油。",
+        "body": "载有100万桶原油、穿越霍尔木兹海峡封锁局面的油轮“敖德萨”号于8日抵达韩国忠清南道瑞山市大山港。“敖德萨”号上月16日从阿联酋科库岛港出发，17日通过霍尔木兹海峡。据悉，当时美国与伊朗之间的“两周停火”使海峡短暂开放，该船迅速驶离相关海域。当天午后，“敖德萨”号停靠在距码头5.4公里的海上系泊设施，并计划通过输油管道在9日下午3时前向HD现代Oilbank储罐输送约100万桶原油。该批原油被认为是HD现代Oilbank现有长期合同下的供应量。该船长274.2米、宽50米、最高51.878米，船上共有28名印度和菲律宾籍船员。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El petrolero Odessa llega a Daesan tras cruzar Ormuz con 1 millón de barriles",
+        "excerpt": "El petrolero Odessa, que cruzó el estrecho de Ormuz con cerca de 1 millón de barriles de crudo, llegó el día 8 al puerto de Daesan para descargar hacia tanques de HD Hyundai Oilbank.",
+        "body": "El petrolero Odessa, cargado con 1 millón de barriles de crudo tras atravesar el estrecho de Ormuz en un contexto de bloqueo, llegó el día 8 al puerto de Daesan, en Seosan, provincia surcoreana de Chungcheong del Sur. El buque zarpó el día 16 del mes pasado del puerto de Koku Island, en Emiratos Árabes Unidos, y cruzó Ormuz el día 17. Según la información disponible, salió rápidamente cuando el estrecho se abrió de forma temporal durante una “tregua de dos semanas” entre Estados Unidos e Irán. Esa tarde atracó en una instalación de amarre marítimo situada a 5,4 km del muelle y tiene previsto enviar por oleoducto cerca de 1 millón de barriles a los tanques de HD Hyundai Oilbank antes de las 15:00 del día 9. El volumen corresponde, según se conoce, a suministros de un contrato de largo plazo ya existente. El Odessa mide 274,2 m de eslora, 50 m de manga y hasta 51,878 m de altura, con 28 tripulantes de India y Filipinas. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Petroleiro Odessa chega a Daesan após cruzar Ormuz com 1 milhão de barris",
+        "excerpt": "O petroleiro Odessa, que atravessou o estreito de Ormuz com cerca de 1 milhão de barris de petróleo, chegou no dia 8 ao porto de Daesan para transferir a carga à HD Hyundai Oilbank.",
+        "body": "O petroleiro Odessa, carregado com 1 milhão de barris de petróleo após passar pelo estreito de Ormuz em meio ao bloqueio, chegou no dia 8 ao porto de Daesan, em Seosan, na província sul-coreana de Chungcheong do Sul. A embarcação partiu no dia 16 do mês passado do porto de Koku Island, nos Emirados Árabes Unidos, e atravessou Ormuz no dia 17. Segundo as informações, ela saiu rapidamente quando o estreito foi aberto por pouco tempo durante uma “trégua de duas semanas” entre Estados Unidos e Irã. Na tarde da chegada, o Odessa atracou em uma instalação de amarração marítima a 5,4 km do cais e deverá enviar cerca de 1 milhão de barris por oleoduto aos tanques da HD Hyundai Oilbank até as 15h do dia 9. O volume é conhecido como parte de um contrato de fornecimento de longo prazo já existente da empresa. O navio tem 274,2 m de comprimento, 50 m de largura e altura máxima de 51,878 m, com 28 tripulantes indianos e filipinos. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Tanker Odessa erreicht Daesan nach Hormus-Passage mit 1 Million Barrel Öl",
+        "excerpt": "Der Tanker Odessa ist am 8. mit rund 1 Million Barrel Rohöl nach der Passage der Straße von Hormus im Hafen Daesan angekommen und soll die Ladung an Tanks von HD Hyundai Oilbank liefern.",
+        "body": "Der Öltanker Odessa ist am 8. mit 1 Million Barrel Rohöl im Hafen Daesan in Seosan, Provinz Süd-Chungcheong, angekommen, nachdem er die blockierte Straße von Hormus passiert hatte. Das Schiff war am 16. des vergangenen Monats vom Hafen Koku Island in den Vereinigten Arabischen Emiraten ausgelaufen und passierte Hormus am 17. Es soll die Meerenge rasch verlassen haben, als sie während einer “zweiwöchigen Waffenruhe” zwischen den USA und Iran kurzzeitig geöffnet war. Am Nachmittag der Ankunft legte die Odessa an einer Offshore-Verankerungsanlage 5,4 km vom Pier entfernt an. Bis 15 Uhr am 9. soll sie über eine Pipeline rund 1 Million Barrel Rohöl in die Lagertanks von HD Hyundai Oilbank pumpen. Die Menge gilt als Lieferung aus einem bestehenden langfristigen Vertrag von HD Hyundai Oilbank. Das Schiff ist 274,2 m lang, 50 m breit und bis zu 51,878 m hoch; an Bord sind 28 Besatzungsmitglieder aus Indien und den Philippinen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le pétrolier Odessa arrive à Daesan après Ormuz avec 1 million de barils",
+        "excerpt": "Le pétrolier Odessa, passé par le détroit d’Ormuz avec environ 1 million de barils de brut, est arrivé le 8 au port de Daesan pour transférer sa cargaison vers HD Hyundai Oilbank.",
+        "body": "Le pétrolier Odessa, chargé de 1 million de barils de brut après avoir franchi le détroit d’Ormuz dans un contexte de blocus, est arrivé le 8 au port de Daesan, à Seosan, dans la province sud-coréenne du Chungcheong du Sud. Le navire avait quitté le 16 du mois dernier le port de Koku Island, aux Émirats arabes unis, puis traversé Ormuz le 17. Il aurait profité de l’ouverture temporaire du détroit pendant une “trêve de deux semaines” entre les États-Unis et l’Iran pour en sortir rapidement. Dans l’après-midi, l’Odessa s’est amarré à une installation offshore située à 5,4 km du quai et doit transférer par oléoduc environ 1 million de barils vers les réservoirs de HD Hyundai Oilbank d’ici 15 h le 9. Cette cargaison est connue comme relevant d’un contrat d’approvisionnement à long terme déjà existant de HD Hyundai Oilbank. Le navire mesure 274,2 m de long, 50 m de large et jusqu’à 51,878 m de haut, avec 28 membres d’équipage indiens et philippins à bord. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "الناقلة أوديسا تصل إلى ميناء دايسان بعد عبور هرمز بمليون برميل نفط",
+        "excerpt": "وصلت الناقلة أوديسا في الثامن إلى ميناء دايسان في سيوسان بعد عبورها مضيق هرمز، حاملة نحو مليون برميل من الخام لنقلها إلى خزانات HD Hyundai Oilbank.",
+        "body": "وصلت ناقلة النفط أوديسا، المحملة بمليون برميل من الخام بعد عبور مضيق هرمز وسط حالة الإغلاق، إلى ميناء دايسان في سيوسان بمقاطعة تشونغتشونغ الجنوبية في كوريا الجنوبية يوم 8. وكانت السفينة قد غادرت ميناء جزيرة كوكو في الإمارات العربية المتحدة يوم 16 من الشهر الماضي، ثم عبرت مضيق هرمز يوم 17. وورد أنها خرجت بسرعة عندما فُتح المضيق مؤقتا خلال “هدنة لمدة أسبوعين” بين الولايات المتحدة وإيران. وبعد ظهر يوم الوصول، رست أوديسا في منشأة إرساء بحرية تبعد 5.4 كيلومتر عن الرصيف، ومن المقرر أن تضخ عبر خط أنابيب نحو مليون برميل من الخام إلى خزانات HD Hyundai Oilbank حتى الساعة 3 بعد ظهر يوم 9. وتُعرف هذه الكمية بأنها جزء من إمدادات عقد طويل الأجل قائم للشركة. يبلغ طول السفينة 274.2 متر وعرضها 50 متر وارتفاعها الأقصى 51.878 متر، وعلى متنها 28 فردا من الطاقم من الهند والفلبين. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "हॉर्मुज पार कर 10 लाख बैरल कच्चे तेल के साथ ओडेसा टैंकर डेसान पहुंचा",
+        "excerpt": "हॉर्मुज जलडमरूमध्य की नाकेबंदी के बीच निकला ओडेसा टैंकर 8 तारीख को सेओसान के डेसान पोर्ट पहुंचा और करीब 10 लाख बैरल कच्चा तेल HD Hyundai Oilbank टैंकों में भेजेगा।",
+        "body": "हॉर्मुज जलडमरूमध्य की नाकेबंदी को पार कर 10 लाख बैरल कच्चा तेल लेकर आया टैंकर ओडेसा 8 तारीख को दक्षिण कोरिया के चुंगनाम सेओसान स्थित डेसान पोर्ट पहुंचा। ओडेसा पिछले महीने की 16 तारीख को संयुक्त अरब अमीरात के कोकू आइलैंड पोर्ट से रवाना हुआ था और 17 तारीख को हॉर्मुज जलडमरूमध्य से गुजरा। बताया गया कि अमेरिका और ईरान के बीच “दो सप्ताह के युद्धविराम” के दौरान जब जलडमरूमध्य थोड़े समय के लिए खुला, तब जहाज तेजी से बाहर निकल गया। आगमन के दिन दोपहर बाद ओडेसा घाट से 5.4 किमी दूर समुद्री मूरिंग सुविधा पर लगा और पाइपलाइन के जरिए 9 तारीख को दोपहर 3 बजे तक HD Hyundai Oilbank के भंडारण टैंकों में करीब 10 लाख बैरल कच्चा तेल भेजने वाला है। यह मात्रा कंपनी के मौजूदा दीर्घकालिक अनुबंध की आपूर्ति मानी जाती है। जहाज 274.2 मीटर लंबा, 50 मीटर चौड़ा और अधिकतम 51.878 मीटर ऊंचा है, जिसमें भारत और फिलीपींस के कुल 28 चालक दल सदस्य सवार हैं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Tanker Odessa Tiba di Daesan Usai Lewati Hormuz dengan 1 Juta Barel Minyak",
+        "excerpt": "Tanker Odessa yang melewati Selat Hormuz dengan sekitar 1 juta barel minyak mentah tiba pada tanggal 8 di Pelabuhan Daesan untuk menyalurkan muatan ke tangki HD Hyundai Oilbank.",
+        "body": "Tanker Odessa, yang membawa 1 juta barel minyak mentah setelah menembus situasi blokade Selat Hormuz, tiba pada tanggal 8 di Pelabuhan Daesan, Seosan, Provinsi Chungcheong Selatan, Korea Selatan. Kapal itu berangkat dari Pelabuhan Pulau Koku di Uni Emirat Arab pada tanggal 16 bulan lalu dan melewati Selat Hormuz pada tanggal 17. Kapal tersebut dilaporkan segera keluar saat selat sempat dibuka dalam “gencatan senjata dua minggu” antara Amerika Serikat dan Iran. Pada sore hari kedatangannya, Odessa bersandar di fasilitas tambat lepas pantai yang berjarak 5,4 km dari dermaga dan dijadwalkan mengirim sekitar 1 juta barel minyak melalui pipa ke tangki penyimpanan HD Hyundai Oilbank hingga pukul 15.00 tanggal 9. Pasokan ini diketahui sebagai bagian dari kontrak jangka panjang yang sudah ada milik HD Hyundai Oilbank. Kapal tersebut memiliki panjang 274,2 m, lebar 50 m, dan tinggi maksimum 51,878 m, dengan total 28 awak berkebangsaan India dan Filipina. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "fdc3a1d19d26",
+    "slug": "혼다-넘은-스즈키-약자는-어떻게-승리할-수-있나딥다이브-386294",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T01:13:26.087Z",
+    "updatedAt": "2026-05-09T01:13:26.087Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889509/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133889509/1",
+    "titleFingerprint": "c182b0d00b825f0cedd273398b6ad85c1a7c8c7f",
+    "dedupKeys": [
+      "fdc3a1d19d26b6f483c58f8c19909b64bd1c4014",
+      "c182b0d00b825f0cedd273398b6ad85c1a7c8c7f",
+      "e0fb96ba021dcc4a1fd1dcb0a61f06916efaacf5"
+    ],
+    "imageUrl": "/images/articles/fdc3a1d19d26.png",
+    "i18n": {
+      "ko": {
+        "title": "스즈키, 혼다 제치고 일본 신차 판매 2위…인도산 역수입차의 반전",
+        "excerpt": "스즈키가 2025년도 일본 신차 판매에서 혼다를 제치고 사상 처음 2위에 올랐다. 인도 생산 차량의 역수입 돌풍과 ‘중소기업형 경영’이 배경으로 꼽힌다.",
+        "body": "일본 자동차 시장에서 2025년도 신차 판매 순위에 변화가 생겼다. 스즈키가 혼다를 제치고 사상 처음으로 2위에 올랐고, 수입차 판매 1위까지 차지했다. 핵심은 인도에서 생산한 스즈키 차량이 일본으로 역수입돼 인기를 얻은 점이다. 스즈키는 44년 전 불모지에 가까웠던 인도 자동차 시장에 진출했고, 고 스즈키 오사무 전 회장(1930~2024년)이 강조한 ‘중소기업형 경영’을 성장의 축으로 삼았다. 1979년 47만 엔 경차 ‘알토’ 출시로 ‘경차의 강자’라는 별명을 얻은 스즈키의 사례는 약자가 시장에서 승리하는 방식으로 주목된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Suzuki Overtakes Honda in Japan New-Car Sales as India-Built Imports Surge",
+        "excerpt": "Suzuki ranked second in Japan’s fiscal 2025 new-car sales for the first time, surpassing Honda as India-built Suzuki vehicles imported back to Japan gained strong traction.",
+        "body": "Japan’s auto market saw a notable shift in fiscal 2025 new-car sales. Suzuki surpassed Honda to take second place for the first time in its history and also became the top seller among imported cars. The key factor was the popularity of Suzuki vehicles produced in India and then imported back into Japan. Suzuki entered India’s then-underdeveloped auto market 44 years ago, with growth shaped by the “small and medium-sized enterprise style management” emphasized by the late former chairman Osamu Suzuki (1930-2024). Known as a mini-car specialist since launching the 470,000-yen Alto in 1979, Suzuki is now being cited as a case of how a smaller player can win. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "スズキがホンダを抜き日本新車販売2位、インド生産逆輸入車が躍進",
+        "excerpt": "スズキは2025年度の日本新車販売で初めてホンダを上回り2位に入った。インド生産車の逆輸入人気と中小企業型経営が背景にある。",
+        "body": "日本の自動車市場で2025年度の新車販売順位に変化が起きた。スズキがホンダを抜き、史上初めて2位に浮上し、輸入車販売でも1位となった。特徴的なのは、インドで生産されたスズキ車が日本へ逆輸入され、人気を集めた点だ。スズキは44年前、未開拓に近かったインド自動車市場へ進出した。その飛躍の中心には、故鈴木修元会長（1930～2024年）が重視した「中小企業型経営」があった。1979年に47万円の軽自動車「アルト」を発売して以来「軽自動車の強者」と呼ばれてきたスズキは、弱者が市場で勝つ方法を示す事例として注目されている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "铃木超越本田登上日本新车销量第二，印度产逆进口车成关键",
+        "excerpt": "铃木在2025年度日本新车销量中首次超过本田升至第二，并拿下进口车销量第一，印度生产车型逆进口日本掀起热潮。",
+        "body": "日本汽车市场在2025年度新车销售排名中出现变化。铃木首次超过本田，升至第二位，同时还成为进口车销量第一。关键在于，印度生产的铃木汽车被逆进口到日本后受到市场欢迎。44年前，铃木进入当时几乎还是荒地的印度汽车市场，其跃升背后是已故前会长铃木修（1930—2024年）强调的“中小企业型经营”。自1979年以47万日元推出轻型车“Alto”以来，铃木长期被称为“轻型车强者”。这一案例正被视为弱者如何在市场中取胜的代表。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Suzuki supera a Honda en ventas de autos nuevos en Japón gracias a modelos hechos en India",
+        "excerpt": "Suzuki subió por primera vez al segundo lugar en ventas de autos nuevos de Japón en el año fiscal 2025, impulsada por vehículos fabricados en India e importados al país.",
+        "body": "El mercado automotor japonés registró un cambio en las ventas de autos nuevos del año fiscal 2025. Suzuki superó a Honda y ocupó por primera vez el segundo lugar, además de liderar las ventas de autos importados. La clave fue el éxito de vehículos Suzuki producidos en India y reimportados a Japón. La compañía había entrado hace 44 años en el mercado automotor indio, entonces casi sin desarrollar. Su avance se apoyó en la “gestión de tipo pequeña y mediana empresa” defendida por el fallecido expresidente Osamu Suzuki (1930-2024). Conocida como especialista en minicoches desde el lanzamiento del Alto de 470.000 yenes en 1979, Suzuki se observa como un caso de cómo un actor menor puede ganar. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Suzuki supera Honda nas vendas de carros novos no Japão com força de modelos feitos na Índia",
+        "excerpt": "A Suzuki ficou pela primeira vez em segundo nas vendas de carros novos do Japão em 2025, ultrapassando a Honda com veículos produzidos na Índia e reimportados.",
+        "body": "O mercado automotivo japonês registrou uma mudança nas vendas de carros novos do ano fiscal de 2025. A Suzuki ultrapassou a Honda e chegou pela primeira vez ao segundo lugar, além de liderar as vendas de carros importados. O ponto central foi a popularidade de veículos Suzuki produzidos na Índia e reimportados para o Japão. A empresa entrou há 44 anos no mercado automotivo indiano, então quase inexplorado. Sua expansão teve como base a “gestão de tipo pequena e média empresa” defendida pelo falecido ex-presidente Osamu Suzuki (1930-2024). Conhecida como força dos carros leves desde o Alto de 470 mil ienes lançado em 1979, a Suzuki chama atenção como exemplo de como um jogador menor pode vencer. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Suzuki überholt Honda bei Japans Neuwagenverkäufen dank Importen aus Indien",
+        "excerpt": "Suzuki erreichte im Geschäftsjahr 2025 erstmals Platz zwei bei Japans Neuwagenverkäufen und überholte Honda, getragen von in Indien produzierten Rückimporten.",
+        "body": "Auf Japans Automarkt hat sich im Geschäftsjahr 2025 die Rangfolge der Neuwagenverkäufe verändert. Suzuki überholte Honda und rückte erstmals auf Platz zwei vor; zugleich wurde das Unternehmen Nummer eins bei importierten Autos. Entscheidend war die Nachfrage nach Suzuki-Fahrzeugen, die in Indien produziert und nach Japan zurückimportiert wurden. Suzuki war vor 44 Jahren in den damals kaum entwickelten indischen Automarkt eingetreten. Im Zentrum des Aufstiegs stand der vom verstorbenen früheren Chairman Osamu Suzuki (1930-2024) betonte Führungsstil eines kleinen und mittleren Unternehmens. Seit dem 1979 eingeführten Alto für 470.000 Yen gilt Suzuki als Stärke bei Kleinstwagen und wird nun als Beispiel dafür gesehen, wie ein kleinerer Anbieter gewinnen kann. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Suzuki dépasse Honda au Japon, porté par les voitures produites en Inde puis réimportées",
+        "excerpt": "Suzuki s’est hissé pour la première fois au deuxième rang des ventes de voitures neuves au Japon en 2025, devant Honda, grâce aux modèles produits en Inde.",
+        "body": "Le marché automobile japonais a connu un changement dans le classement des ventes de voitures neuves de l’exercice 2025. Suzuki a dépassé Honda pour prendre pour la première fois la deuxième place, tout en devenant numéro un des ventes de voitures importées. Le facteur clé est le succès de véhicules Suzuki produits en Inde puis réimportés au Japon. Suzuki était entré il y a 44 ans sur le marché automobile indien, alors presque inexploité. Son essor s’appuie sur la “gestion de type petite et moyenne entreprise” mise en avant par l’ancien président Osamu Suzuki (1930-2024), aujourd’hui décédé. Réputé depuis le lancement de l’Alto à 470.000 yens en 1979, Suzuki attire l’attention comme exemple de la manière dont un acteur plus faible peut gagner. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سوزوكي تتجاوز هوندا في مبيعات السيارات الجديدة باليابان بفضل طرازات مصنوعة في الهند",
+        "excerpt": "صعدت سوزوكي للمرة الأولى إلى المركز الثاني في مبيعات السيارات الجديدة في اليابان لعام 2025، متجاوزة هوندا مع رواج سياراتها المنتجة في الهند والمعاد استيرادها.",
+        "body": "شهد سوق السيارات الياباني تغيرا في ترتيب مبيعات السيارات الجديدة لعام 2025. فقد تجاوزت سوزوكي هوندا واحتلت المركز الثاني للمرة الأولى في تاريخها، كما تصدرت مبيعات السيارات المستوردة. العامل الأبرز كان رواج سيارات سوزوكي المنتجة في الهند ثم المعاد استيرادها إلى اليابان. وكانت سوزوكي قد دخلت قبل 44 عاما سوق السيارات الهندية التي كانت شبه غير مطورة. وجاء صعودها في ظل نهج “إدارة الشركات الصغيرة والمتوسطة” الذي شدد عليه الرئيس السابق الراحل أوسامو سوزوكي (1930-2024). ومنذ إطلاق سيارة ألتو الصغيرة بسعر 470 ألف ين في 1979، عرفت سوزوكي بقوتها في سيارات الكي، وتبرز اليوم كحالة توضح كيف يمكن للاعب أضعف أن ينتصر. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सुजुकी ने जापान में होंडा को पछाड़ा, भारत में बनी कारों की वापसी आयात से बढ़त",
+        "excerpt": "सुजुकी ने 2025 में जापान की नई कार बिक्री में पहली बार होंडा को पीछे छोड़कर दूसरा स्थान पाया। भारत में बनी सुजुकी कारों के जापान में री-इंपोर्ट ने गति दी।",
+        "body": "जापान के ऑटो बाजार में 2025 की नई कार बिक्री रैंकिंग में बड़ा बदलाव दिखा। सुजुकी ने होंडा को पीछे छोड़ते हुए पहली बार दूसरा स्थान हासिल किया और आयातित कारों की बिक्री में भी शीर्ष पर रही। इसका मुख्य कारण भारत में बनी सुजुकी कारों का जापान में री-इंपोर्ट होकर लोकप्रिय होना था। सुजुकी ने 44 साल पहले लगभग अनछुए भारतीय ऑटो बाजार में प्रवेश किया था। उसकी छलांग के केंद्र में दिवंगत पूर्व चेयरमैन ओसामु सुजुकी (1930-2024) द्वारा जोर दिया गया “छोटे और मध्यम उद्यम जैसा प्रबंधन” था। 1979 में 4,70,000 येन की हल्की कार ऑल्टो लॉन्च करने के बाद से सुजुकी को मिनी कारों की मजबूत कंपनी कहा गया, और अब यह कमजोर खिलाड़ी की जीत का उदाहरण बन रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Suzuki Lampaui Honda di Penjualan Mobil Baru Jepang Berkat Mobil Buatan India",
+        "excerpt": "Suzuki untuk pertama kalinya menempati posisi kedua penjualan mobil baru Jepang pada 2025, menggeser Honda lewat popularitas mobil buatan India yang diimpor balik.",
+        "body": "Pasar otomotif Jepang mencatat perubahan dalam peringkat penjualan mobil baru tahun fiskal 2025. Suzuki melampaui Honda dan untuk pertama kalinya naik ke posisi kedua, sekaligus menjadi nomor satu dalam penjualan mobil impor. Faktor utamanya adalah kendaraan Suzuki yang diproduksi di India lalu diimpor kembali ke Jepang mendapat sambutan kuat. Suzuki masuk ke pasar otomotif India 44 tahun lalu, saat pasar itu masih hampir belum tergarap. Lompatan perusahaan ini bertumpu pada “manajemen bergaya usaha kecil dan menengah” yang ditekankan mendiang mantan chairman Osamu Suzuki (1930-2024). Sejak meluncurkan Alto seharga 470.000 yen pada 1979, Suzuki dikenal sebagai kekuatan mobil kecil, dan kini menjadi contoh bagaimana pemain yang lebih lemah dapat menang. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "9ac64264d355",
+    "slug": "코스피-상승률-두-배-벌었다수익률-318-터진-비결-투자톡-292401",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T01:12:26.605Z",
+    "updatedAt": "2026-05-09T01:12:26.605Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026042674346",
+    "canonicalUrl": "https://www.hankyung.com/article/2026042674346",
+    "titleFingerprint": "e326a42ccf165fd47457d56dec805bf86d455959",
+    "dedupKeys": [
+      "9ac64264d355026184355448bdbb911f2b4e89c4",
+      "e326a42ccf165fd47457d56dec805bf86d455959",
+      "16ab082f43929081169a2f729719e0a531bd9952"
+    ],
+    "imageUrl": "/images/articles/9ac64264d355.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 상승률 두 배 웃돈 수익률 318%…한국경제 투자톡이 짚은 비결과 의미",
+        "excerpt": "한국경제 투자톡은 코스피 상승률의 두 배를 벌었다고 소개된 투자 사례와 수익률 318%의 배경을 원문 제목 기준으로 조명했다.",
+        "body": "한국경제 투자톡은 hankyung.com 기사에서 코스피 상승률의 두 배를 벌었다고 소개된 투자 사례를 다뤘다. 원문 제목에 따르면 핵심 수치는 수익률 318%다. 제공된 원문 정보에는 구체적인 투자 대상, 기간, 매매 방식, 시장 상황 등 세부 배경은 포함되지 않았다. 따라서 확인 가능한 사실은 코스피 대비 두 배 수준의 성과와 318% 수익률이라는 점이다. 투자자에게는 지수 대비 초과 수익 사례로 참고될 수 있으나, 구체적인 비결과 위험 요인은 원문 확인이 필요하다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI-Beating 318% Return: What Hankyung’s Investment Talk Highlighted",
+        "excerpt": "Hankyung’s Investment Talk highlighted, based on the supplied headline, an investment case said to have earned twice the KOSPI gain with a 318% return.",
+        "body": "Hankyung’s Investment Talk covered an investment case on hankyung.com that was described as earning twice the KOSPI’s rate of increase. According to the supplied original headline, the key figure was a 318% return. The provided source information does not include the specific asset, investment period, trading method, or market backdrop. Therefore, the verifiable facts are limited to the KOSPI-beating performance and the stated 318% return. For investors, the case may be read as an example of excess return versus the index, but the exact method and risks require checking the original article. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI上昇率の2倍、リターン318%…韓国経済投資トークが示した要点",
+        "excerpt": "韓国経済の投資トークは、提供された見出しを基に、KOSPI上昇率の2倍を稼いだとされる投資事例と318%の収益率を取り上げた。",
+        "body": "韓国経済の投資トークは、hankyung.comの記事でKOSPI上昇率の2倍を稼いだと紹介された投資事例を扱った。提供された原文見出しによると、中心となる数値は収益率318%である。提示された原文情報には、具体的な投資対象、期間、売買方法、市場環境などの詳細な背景は含まれていない。そのため確認できる事実は、KOSPIを上回る成果と318%という収益率に限られる。投資家にとっては指数比の超過収益事例として参考になり得るが、具体的な秘訣やリスクは原文確認が必要だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "跑赢KOSPI两倍、收益率318%：韩经投资Talk聚焦的关键案例",
+        "excerpt": "韩国经济投资Talk根据所给标题，报道了一个被称为赚到KOSPI涨幅两倍、收益率达318%的投资案例。",
+        "body": "韩国经济投资Talk在hankyung.com报道中提到，一个投资案例被介绍为赚到了KOSPI涨幅的两倍。根据提供的原文标题，核心数字是318%的收益率。所给原文信息未包含具体投资标的、投资期间、交易方式或市场背景等细节。因此，目前可核实的事实仅限于其相对KOSPI取得更高表现，以及318%的收益率。对投资者而言，这可作为相对指数获得超额收益的案例参考，但具体方法与风险因素仍需查阅原文。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Rentabilidad del 318% y el doble que el KOSPI: el caso que destacó Hankyung",
+        "excerpt": "Investment Talk de Hankyung destacó, según el titular original, un caso de inversión que habría ganado el doble que la subida del KOSPI y alcanzado un 318%.",
+        "body": "Investment Talk de Hankyung abordó en hankyung.com un caso de inversión descrito como capaz de ganar el doble de la subida del KOSPI. Según el titular original proporcionado, la cifra central es una rentabilidad del 318%. La información suministrada no incluye el activo concreto, el periodo de inversión, el método de compraventa ni el contexto de mercado. Por ello, los hechos verificables se limitan al rendimiento superior frente al KOSPI y al retorno del 318%. Para los inversores, puede servir como ejemplo de rentabilidad excedente frente al índice, pero la clave exacta y los riesgos requieren consultar el artículo original. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Retorno de 318% e dobro do KOSPI: o caso destacado pelo Investment Talk",
+        "excerpt": "O Investment Talk da Hankyung destacou, com base no título fornecido, um caso de investimento que teria rendido o dobro da alta do KOSPI e alcançado 318%.",
+        "body": "O Investment Talk da Hankyung tratou, em hankyung.com, de um caso de investimento descrito como tendo rendido o dobro da taxa de alta do KOSPI. Segundo o título original fornecido, o principal número é uma rentabilidade de 318%. As informações disponíveis não incluem o ativo específico, o período de investimento, a forma de negociação nem o contexto de mercado. Assim, os fatos verificáveis se limitam ao desempenho superior ao KOSPI e ao retorno de 318%. Para investidores, o caso pode servir como exemplo de retorno excedente frente ao índice, mas a estratégia exata e os riscos exigem consulta ao artigo original. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "318% Rendite, doppelt so stark wie der KOSPI: Hankyung Investment Talk im Fokus",
+        "excerpt": "Hankyungs Investment Talk beleuchtete auf Basis der vorliegenden Überschrift einen Anlagefall, der doppelt so viel wie der KOSPI-Anstieg erzielt haben soll.",
+        "body": "Hankyungs Investment Talk behandelte auf hankyung.com einen Anlagefall, der als doppelt so ertragreich wie der Anstieg des KOSPI beschrieben wurde. Laut der bereitgestellten Originalüberschrift steht eine Rendite von 318% im Mittelpunkt. Die vorliegenden Informationen nennen jedoch weder den konkreten Anlagewert noch den Zeitraum, die Handelsmethode oder das Marktumfeld. Damit beschränken sich die überprüfbaren Fakten auf die über dem KOSPI liegende Performance und die Rendite von 318%. Für Anleger kann dies als Beispiel für Überrendite gegenüber einem Index dienen, doch genaue Methode und Risiken erfordern den Blick in den Originalartikel. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Rendement de 318%, deux fois le KOSPI : le cas relevé par Hankyung Investment Talk",
+        "excerpt": "Investment Talk de Hankyung a mis en avant, selon le titre fourni, un cas d’investissement ayant gagné deux fois la hausse du KOSPI avec 318% de rendement.",
+        "body": "Investment Talk de Hankyung a traité sur hankyung.com d’un cas d’investissement présenté comme ayant rapporté deux fois la progression du KOSPI. D’après le titre original fourni, le chiffre clé est un rendement de 318%. Les informations transmises ne précisent pas l’actif concerné, la période d’investissement, la méthode de transaction ni le contexte de marché. Les faits vérifiables se limitent donc à une performance supérieure à celle du KOSPI et à un rendement de 318%. Pour les investisseurs, ce cas peut servir d’exemple de surperformance face à l’indice, mais la méthode exacte et les risques doivent être vérifiés dans l’article original. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "عائد 318% يتجاوز كوسبي بمرتين: ما ركز عليه تقرير هانكيونغ الاستثماري",
+        "excerpt": "سلطت فقرة الاستثمار في هانكيونغ، وفق العنوان المقدم، الضوء على حالة استثمار قيل إنها حققت ضعف صعود كوسبي مع عائد بلغ 318%.",
+        "body": "تناولت فقرة الاستثمار في هانكيونغ عبر hankyung.com حالة استثمار وُصفت بأنها حققت ضعف معدل صعود مؤشر كوسبي. وبحسب العنوان الأصلي المقدم، فإن الرقم الأساسي هو عائد بنسبة 318%. لا تتضمن المعلومات المتاحة تفاصيل عن الأصل المستثمر فيه، أو فترة الاستثمار، أو طريقة التداول، أو خلفية السوق. لذلك تقتصر الحقائق القابلة للتحقق على التفوق على كوسبي والعائد المذكور البالغ 318%. وبالنسبة للمستثمرين، يمكن النظر إلى الحالة كمثال على عائد يفوق المؤشر، لكن معرفة السر المحدد وعوامل المخاطر تتطلب مراجعة المقال الأصلي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI से दोगुना 318% रिटर्न: Hankyung Investment Talk ने क्या रेखांकित किया",
+        "excerpt": "Hankyung के Investment Talk ने दिए गए शीर्षक के आधार पर ऐसे निवेश मामले को रेखांकित किया, जिसमें KOSPI बढ़त से दोगुना और 318% रिटर्न बताया गया।",
+        "body": "Hankyung के Investment Talk ने hankyung.com पर ऐसे निवेश मामले को कवर किया जिसे KOSPI की बढ़त दर से दोगुना कमाने वाला बताया गया। दिए गए मूल शीर्षक के अनुसार मुख्य आंकड़ा 318% रिटर्न है। उपलब्ध स्रोत जानकारी में निवेश की विशेष परिसंपत्ति, अवधि, खरीद-बिक्री का तरीका या बाजार पृष्ठभूमि शामिल नहीं है। इसलिए सत्यापित तथ्य KOSPI की तुलना में बेहतर प्रदर्शन और 318% रिटर्न तक सीमित हैं। निवेशकों के लिए यह सूचकांक से अधिक रिटर्न का उदाहरण हो सकता है, लेकिन वास्तविक रणनीति और जोखिम समझने के लिए मूल लेख देखना आवश्यक है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Imbal Hasil 318% Dua Kali Kenaikan KOSPI: Sorotan Investment Talk Hankyung",
+        "excerpt": "Investment Talk Hankyung menyoroti, berdasarkan judul yang diberikan, kasus investasi yang disebut meraih dua kali kenaikan KOSPI dengan imbal hasil 318%.",
+        "body": "Investment Talk Hankyung membahas di hankyung.com sebuah kasus investasi yang digambarkan meraih dua kali tingkat kenaikan KOSPI. Berdasarkan judul asli yang diberikan, angka utamanya adalah imbal hasil 318%. Informasi sumber yang tersedia tidak memuat aset investasi tertentu, periode investasi, metode transaksi, atau latar pasar. Karena itu, fakta yang dapat diverifikasi terbatas pada kinerja yang melampaui KOSPI dan imbal hasil 318%. Bagi investor, kasus ini dapat menjadi contoh kelebihan imbal hasil dibanding indeks, tetapi strategi yang tepat dan faktor risikonya perlu dicek dalam artikel asli. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "7718e588bdae",
     "slug": "고점론-시기상조-코스피-영업익-60-넘는-삼성전자sk하이닉스-주가는-45에-불과-858646",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Revisi UU Valas Lolos, Transfer Kripto ke Luar Negeri Wajib Terdaftar",
         "excerpt": "Pada 7 Mei, Majelis Nasional Korea mengesahkan revisi UU valas yang memasukkan pemantauan stablecoin lintas negara, pidana penjara untuk remitansi ilegal, dan registrasi operator transfer aset virtual.",
         "body": "Pada 7 Mei, Majelis Nasional Korea Selatan mengesahkan revisi Undang-Undang Transaksi Valuta Asing dalam sidang pleno. Revisi ini mewajibkan operator yang memindahkan koin dan aset virtual lain ke luar negeri untuk mendaftar ke Kementerian Keuangan, serta memasukkan pergerakan stablecoin lintas batas ke jaringan pemantauan otoritas valas. Aturan ini juga memperkenalkan hukuman penjara untuk remitansi ilegal yang bertujuan memperoleh keuntungan tidak sah, sehingga tingkat sanksi meningkat. Selain itu, revisi tersebut memuat ketentuan terkait masa berlaku 10 tahun pungutan kesehatan valas. Dengan pengesahan ini, transfer dan remitansi luar negeri menggunakan aset virtual masuk ke dalam kerangka regulasi valas resmi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fa8a6bb4c341",
-    "slug": "연금-투자-어떻게-할까올들어-넉달-새-한투로-1조원-유입-236148",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T14:25:30.083Z",
-    "updatedAt": "2026-05-08T14:25:30.083Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084681i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084681i",
-    "titleFingerprint": "38c17dd389e2a71729292d5f192a2be9a579996d",
-    "dedupKeys": [
-      "fa8a6bb4c34181d1c2d8c7f9b7f42334d830f038",
-      "38c17dd389e2a71729292d5f192a2be9a579996d",
-      "7a6fef546042eea6ea18ed983d9fdacb91db124b"
-    ],
-    "imageUrl": "/images/articles/fa8a6bb4c341.jpg",
-    "i18n": {
-      "ko": {
-        "title": "연금 투자 어떻게 할까, 투자자 관심 커져…올들어 넉 달 새 한투로 1조원 유입",
-        "excerpt": "올해 들어 넉 달 사이 연금 투자 자금 1조원이 한투로 유입됐다. 연금 운용처를 찾는 투자자들의 관심이 어디로 향하는지 보여주는 흐름으로 주목된다.",
-        "body": "올해 들어 넉 달 사이 연금 투자 자금 1조원이 한투로 유입됐다. 연금 투자 방법을 고민하는 투자자들이 늘어나는 가운데, 해당 자금 유입은 연금 운용처를 찾는 수요가 한투로 향했음을 보여준다. 기사 제목에 따르면 유입 기간은 올 들어 4개월이며, 규모는 1조원이다. 연금 투자는 장기 자산 관리와 맞닿아 있어 자금 흐름 자체가 투자자 관심을 가늠하는 지표로 해석될 수 있다. 관련 내용은 hankyung.com 보도를 인용했다."
-      },
-      "en": {
-        "title": "Pension investment focus grows as 1 trillion won flows into Hantu in four months",
-        "excerpt": "In the first four months of this year, 1 trillion won in pension investment money flowed into Hantu, highlighting where investors seeking pension management options are turning.",
-        "body": "In the first four months of this year, 1 trillion won in pension investment funds flowed into Hantu. As more investors consider how to manage pension assets, the inflow shows that demand for pension investment destinations has moved toward Hantu. According to the headline, the period was the first four months of the year and the amount was 1 trillion won. Because pension investing is tied to long-term asset management, the fund flow itself can be read as an indicator of investor interest. This article cites reporting from hankyung.com."
-      },
-      "ja": {
-        "title": "年金投資への関心高まる、今年4カ月で韓投に1兆ウォン流入",
-        "excerpt": "今年に入り4カ月で、年金投資資金1兆ウォンが韓投に流入した。年金の運用先を探す投資家の関心がどこへ向かうかを示す動きとして注目される。",
-        "body": "今年に入り4カ月の間に、年金投資資金1兆ウォンが韓投に流入した。年金投資をどう行うかを考える投資家が増える中、この資金流入は年金運用先を探す需要が韓投に向かったことを示している。見出しによると、流入期間は今年に入ってからの4カ月で、規模は1兆ウォンだ。年金投資は長期の資産管理と結び付くため、資金の流れ自体が投資家の関心を測る指標と受け止められる。内容はhankyung.comの報道を引用した。"
-      },
-      "zh": {
-        "title": "养老金投资关注升温：今年前四个月韩投流入1万亿韩元",
-        "excerpt": "今年以来四个月内，养老金投资资金有1万亿韩元流入韩投。这一动向显示，寻找养老金管理渠道的投资者关注正投向何处。",
-        "body": "今年以来四个月内，养老金投资资金有1万亿韩元流入韩投。随着越来越多投资者思考如何进行养老金投资，这一资金流入显示，寻找养老金运用渠道的需求正转向韩投。根据标题，流入时间为今年以来的四个月，规模为1万亿韩元。养老金投资与长期资产管理相关，因此资金流向本身可被视为衡量投资者关注度的指标。本文引用hankyung.com报道。"
-      },
-      "es": {
-        "title": "Inversión en pensiones gana foco: 1 billón de wones entra en Hantu en cuatro meses",
-        "excerpt": "En los primeros cuatro meses del año, 1 billón de wones en fondos de inversión para pensiones fluyó hacia Hantu, mostrando hacia dónde miran los inversores.",
-        "body": "En los primeros cuatro meses de este año, 1 billón de wones en fondos de inversión para pensiones fluyó hacia Hantu. Mientras más inversores evalúan cómo gestionar sus activos de pensión, esta entrada muestra que la demanda de opciones de inversión para pensiones se dirigió a Hantu. Según el titular, el periodo fue de cuatro meses desde el inicio del año y el monto fue de 1 billón de wones. Como la inversión en pensiones está vinculada a la gestión patrimonial de largo plazo, el flujo de fondos puede leerse como una señal del interés inversor. Se cita a hankyung.com."
-      },
-      "pt": {
-        "title": "Investimento em previdência ganha atenção: 1 trilhão de won entra na Hantu em quatro meses",
-        "excerpt": "Nos primeiros quatro meses do ano, 1 trilhão de won em recursos de investimento previdenciário entrou na Hantu, mostrando o foco de investidores.",
-        "body": "Nos primeiros quatro meses deste ano, 1 trilhão de won em recursos de investimento previdenciário entrou na Hantu. À medida que mais investidores avaliam como administrar ativos de previdência, essa entrada mostra que a demanda por destinos de investimento previdenciário se voltou para a Hantu. Segundo o título, o período foi de quatro meses desde o início do ano e o valor foi de 1 trilhão de won. Como a previdência está ligada à gestão de ativos de longo prazo, o fluxo de recursos pode ser visto como indicador do interesse dos investidores. Conteúdo citado de hankyung.com."
-      },
-      "de": {
-        "title": "Rentenanlage im Fokus: In vier Monaten fließt 1 Billion Won zu Hantu",
-        "excerpt": "In den ersten vier Monaten dieses Jahres flossen 1 Billion Won an Rentenanlagegeldern zu Hantu. Der Zufluss zeigt, wohin sich das Interesse der Anleger richtet.",
-        "body": "In den ersten vier Monaten dieses Jahres flossen 1 Billion Won an Rentenanlagegeldern zu Hantu. Während mehr Anleger überlegen, wie sie ihre Rentenvermögen investieren sollen, zeigt dieser Zufluss, dass die Nachfrage nach Anlagezielen für Rentengelder zu Hantu ging. Dem Titel zufolge umfasst der Zeitraum die ersten vier Monate des Jahres, das Volumen liegt bei 1 Billion Won. Da Renteninvestitionen mit langfristiger Vermögensverwaltung verbunden sind, kann der Geldfluss selbst als Hinweis auf das Anlegerinteresse gelesen werden. Grundlage ist ein Bericht von hankyung.com."
-      },
-      "fr": {
-        "title": "L’investissement retraite attire l’attention : 1 000 milliards de wons vers Hantu en quatre mois",
-        "excerpt": "Depuis le début de l’année, 1 000 milliards de wons de fonds d’investissement retraite ont afflué vers Hantu en quatre mois, signe de l’intérêt des investisseurs.",
-        "body": "Depuis le début de l’année, 1 000 milliards de wons de fonds d’investissement retraite ont afflué vers Hantu en quatre mois. Alors que davantage d’investisseurs réfléchissent à la façon de gérer leurs actifs retraite, cet afflux montre que la demande de solutions d’investissement retraite s’est dirigée vers Hantu. Selon le titre, la période couvre les quatre premiers mois de l’année et le montant atteint 1 000 milliards de wons. L’investissement retraite étant lié à la gestion de patrimoine à long terme, ce flux peut être interprété comme un indicateur d’intérêt des investisseurs. Source citée : hankyung.com."
-      },
-      "ar": {
-        "title": "استثمار التقاعد يجذب الاهتمام: تريليون وون يتدفق إلى هانتو خلال أربعة أشهر",
-        "excerpt": "خلال أول أربعة أشهر من هذا العام، تدفق تريليون وون من أموال استثمار التقاعد إلى هانتو، ما يوضح وجهة اهتمام المستثمرين الباحثين عن إدارة مدخرات التقاعد.",
-        "body": "خلال أول أربعة أشهر من هذا العام، تدفق تريليون وون من أموال استثمار التقاعد إلى هانتو. ومع تزايد اهتمام المستثمرين بكيفية إدارة أصول التقاعد، يوضح هذا التدفق أن الطلب على وجهات استثمار التقاعد اتجه إلى هانتو. ووفق العنوان، فإن فترة التدفق هي الأشهر الأربعة الأولى من العام، والحجم يبلغ تريليون وون. وبما أن استثمار التقاعد يرتبط بإدارة الأصول طويلة الأجل، يمكن قراءة تدفق الأموال نفسه كمؤشر على اهتمام المستثمرين. تستند المادة إلى تقرير hankyung.com."
-      },
-      "hi": {
-        "title": "पेंशन निवेश पर बढ़ा ध्यान: चार महीनों में हांतू में 1 ट्रिलियन वॉन का प्रवाह",
-        "excerpt": "इस साल के पहले चार महीनों में पेंशन निवेश से जुड़े 1 ट्रिलियन वॉन हांतू में आए, जिससे पेंशन प्रबंधन विकल्प खोज रहे निवेशकों की दिशा दिखती है।",
-        "body": "इस साल के पहले चार महीनों में पेंशन निवेश से जुड़े 1 ट्रिलियन वॉन हांतू में प्रवाहित हुए। पेंशन निवेश कैसे किया जाए, इस पर विचार करने वाले निवेशकों की संख्या बढ़ने के बीच यह धन प्रवाह दिखाता है कि पेंशन प्रबंधन विकल्पों की मांग हांतू की ओर गई। शीर्षक के अनुसार, प्रवाह की अवधि इस साल की शुरुआत से चार महीने है और राशि 1 ट्रिलियन वॉन है। पेंशन निवेश दीर्घकालिक संपत्ति प्रबंधन से जुड़ा होता है, इसलिए धन प्रवाह को निवेशक रुचि के संकेतक के रूप में देखा जा सकता है। यह सामग्री hankyung.com की रिपोर्ट पर आधारित है।"
-      },
-      "id": {
-        "title": "Investasi pensiun jadi sorotan: 1 triliun won masuk ke Hantu dalam empat bulan",
-        "excerpt": "Dalam empat bulan pertama tahun ini, dana investasi pensiun 1 triliun won mengalir ke Hantu, menunjukkan arah perhatian investor yang mencari pengelolaan pensiun.",
-        "body": "Dalam empat bulan pertama tahun ini, dana investasi pensiun sebesar 1 triliun won mengalir ke Hantu. Ketika semakin banyak investor mempertimbangkan cara mengelola aset pensiun, arus dana ini menunjukkan bahwa permintaan atas tujuan investasi pensiun mengarah ke Hantu. Menurut judul berita, periodenya adalah empat bulan sejak awal tahun dan nilainya 1 triliun won. Karena investasi pensiun berkaitan dengan pengelolaan aset jangka panjang, arus dana tersebut dapat dibaca sebagai indikator minat investor. Artikel ini mengutip laporan hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "db15ca4f51b9",
-    "slug": "코스피-9000-간다골드만삭스-20일-만에-또-깜짝-전망-772071",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T14:24:27.323Z",
-    "updatedAt": "2026-05-08T14:24:27.323Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605084686i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605084686i",
-    "titleFingerprint": "8b74252495c3e37b44ef20ce7433b4ea85c2d8a5",
-    "dedupKeys": [
-      "db15ca4f51b99f6a24c529e092d501f24129f5fb",
-      "8b74252495c3e37b44ef20ce7433b4ea85c2d8a5",
-      "46491a99a2ee77320a2b8697afe98b6bfa693b48"
-    ],
-    "imageUrl": "/images/articles/db15ca4f51b9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "골드만삭스 코스피 9000 전망, 20일 만에 또 목표치 상향",
-        "excerpt": "골드만삭스가 한국경제 보도 기준 20일 만에 코스피 전망을 다시 높여 12개월 목표치 9000을 제시했다. 반도체 중심 이익 개선과 낮은 밸류에이션이 배경이다.",
-        "body": "골드만삭스가 7일 한국 증시 전망을 다시 높이며 코스피 12개월 목표치를 9000으로 제시했다고 한국경제가 보도했다. 약 20일 전 코스피 8000 전망을 내놓은 뒤 한 차례 더 상향한 것이다. 배경에는 반도체를 중심으로 한 국내 기업 이익 전망 개선과 여전히 낮은 밸류에이션 평가가 놓였다. 최근 코스피가 7000선을 넘어 사상 최고권 흐름을 이어가는 가운데, 글로벌 투자은행의 추가 상향은 한국 증시 랠리에 대한 기대를 키웠다. 다만 보도는 전망치가 시장 변동성과 업종별 실적 흐름에 따라 달라질 수 있다는 점도 함께 시사했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Goldman Sachs Raises KOSPI Target to 9,000 Just 20 Days Later",
-        "excerpt": "Goldman Sachs has raised its KOSPI outlook again, according to Hankyung, setting a 12-month target of 9,000 after citing stronger earnings led by semiconductors and still-low valuations.",
-        "body": "Goldman Sachs has again lifted its outlook for South Korea’s stock market, setting a 12-month KOSPI target of 9,000 on May 7, according to Hankyung. The move comes about 20 days after the investment bank projected the index could reach 8,000. The upgrade was linked to improving earnings expectations among Korean companies, led by semiconductors, and valuations that remain relatively low. With the KOSPI recently breaking above the 7,000 level and trading near record highs, the new call added to expectations for the market rally. The report also implied that the outlook could still depend on market volatility and sector earnings trends. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ゴールドマン、KOSPI9000予想へ 20日で再び上方修正",
-        "excerpt": "韓国経済新聞によると、ゴールドマン・サックスはKOSPIの12カ月目標を9000に引き上げた。半導体主導の利益改善と低いバリュエーションが背景だ。",
-        "body": "韓国経済新聞によると、ゴールドマン・サックスは7日、韓国株式市場の見通しを再び引き上げ、KOSPIの12カ月目標を9000に設定した。約20日前にKOSPI8000の見通しを示した後、さらに上方修正した形だ。背景には、半導体を中心とした韓国企業の利益見通し改善と、依然として低いバリュエーション評価がある。最近KOSPIが7000台を突破し、過去最高圏で推移するなか、世界的投資銀行の追加上方修正は韓国株ラリーへの期待を高めた。ただし同報道は、見通しが市場の変動性や業種別業績の流れに左右され得る点も示唆した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "高盛上调KOSPI目标至9000点，约20天后再度看多",
-        "excerpt": "据韩国经济新闻报道，高盛再次上调韩国股市展望，将KOSPI 12个月目标定为9000点，理由包括半导体带动盈利改善以及估值仍处低位。",
-        "body": "据韩国经济新闻报道，高盛5月7日再次上调韩国股市展望，将KOSPI的12个月目标位定为9000点。约20天前，高盛曾提出KOSPI有望达到8000点，此次为进一步上调。其背景包括以半导体为核心的韩国企业盈利预期改善，以及韩国股市估值仍相对偏低。近期KOSPI突破7000点并运行在历史高位区间，全球投行的再次上调强化了市场对韩国股市上涨行情的期待。不过报道也暗示，该预测仍可能受到市场波动和各行业业绩走势的影响。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Goldman Sachs eleva su meta del KOSPI a 9.000 en solo 20 días",
-        "excerpt": "Según Hankyung, Goldman Sachs volvió a mejorar su previsión para el KOSPI y fijó un objetivo a 12 meses de 9.000 puntos, apoyado en mejores beneficios liderados por semiconductores y valoraciones bajas.",
-        "body": "Goldman Sachs volvió a elevar su perspectiva para la bolsa surcoreana y fijó el 7 de mayo un objetivo a 12 meses de 9.000 puntos para el KOSPI, según Hankyung. La revisión llega unos 20 días después de que el banco proyectara un nivel de 8.000 puntos. El cambio se basa en la mejora de las previsiones de beneficios de las empresas coreanas, especialmente en semiconductores, y en valoraciones que aún se consideran bajas. Con el KOSPI tras superar los 7.000 puntos y moverse cerca de máximos históricos, la nueva previsión reforzó las expectativas sobre el repunte del mercado coreano. El reporte también sugiere que la meta puede depender de la volatilidad y de la evolución de resultados por sectores. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Goldman Sachs eleva alvo do KOSPI para 9.000 após só 20 dias",
-        "excerpt": "Segundo o Hankyung, o Goldman Sachs voltou a elevar sua projeção para o KOSPI, fixando alvo de 12 meses em 9.000 pontos, com melhora de lucros em semicondutores e valuations ainda baixos.",
-        "body": "O Goldman Sachs voltou a elevar sua visão para o mercado acionário sul-coreano e definiu em 7 de maio um alvo de 12 meses de 9.000 pontos para o KOSPI, segundo o Hankyung. A revisão ocorre cerca de 20 dias depois de o banco projetar o índice em 8.000 pontos. A alta foi associada à melhora das expectativas de lucro das empresas coreanas, lideradas por semicondutores, e a avaliações ainda consideradas baixas. Com o KOSPI recentemente acima de 7.000 pontos e perto de máximas históricas, a nova projeção reforçou as expectativas sobre o rali da bolsa coreana. A reportagem também indica que a meta pode variar conforme a volatilidade do mercado e os resultados por setor. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Goldman Sachs hebt KOSPI-Ziel nach 20 Tagen auf 9.000 Punkte",
-        "excerpt": "Laut Hankyung hat Goldman Sachs den Ausblick für den KOSPI erneut angehoben und ein 12-Monats-Ziel von 9.000 Punkten genannt. Treiber sind bessere Gewinne, vor allem bei Halbleitern, und niedrige Bewertungen.",
-        "body": "Goldman Sachs hat den Ausblick für den südkoreanischen Aktienmarkt erneut angehoben und am 7. Mai ein 12-Monats-Ziel von 9.000 Punkten für den KOSPI genannt, berichtete Hankyung. Die Anpassung folgt rund 20 Tage nach einer Prognose von 8.000 Punkten. Begründet wurde die höhere Einschätzung mit verbesserten Gewinnerwartungen koreanischer Unternehmen, angeführt vom Halbleitersektor, sowie weiterhin niedrigen Bewertungen. Nachdem der KOSPI zuletzt die Marke von 7.000 Punkten überschritten hat und nahe Rekordständen handelt, verstärkte die neue Prognose die Erwartungen an die Rally des koreanischen Marktes. Der Bericht deutet zugleich an, dass die Prognose von Marktvolatilität und sektoralen Gewinntrends abhängen kann. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Goldman Sachs vise désormais 9 000 points pour le KOSPI",
-        "excerpt": "Selon Hankyung, Goldman Sachs a de nouveau relevé sa prévision pour le KOSPI, avec un objectif à 12 mois de 9 000 points, porté par l’amélioration des profits liés aux semi-conducteurs et des valorisations faibles.",
-        "body": "Goldman Sachs a de nouveau relevé sa perspective sur le marché actions sud-coréen, fixant le 7 mai un objectif à 12 mois de 9 000 points pour le KOSPI, selon Hankyung. Cette révision intervient environ 20 jours après une prévision à 8 000 points. Elle s’appuie sur l’amélioration des anticipations de bénéfices des entreprises coréennes, menée par les semi-conducteurs, ainsi que sur des valorisations encore jugées faibles. Alors que le KOSPI a récemment dépassé les 7 000 points et évolue près de ses records, cette nouvelle prévision a renforcé les attentes autour du rallye boursier coréen. Le rapport suggère aussi que l’objectif reste dépendant de la volatilité du marché et des résultats sectoriels. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "غولدمان ساكس يرفع هدف كوسبي إلى 9000 نقطة بعد نحو 20 يوما",
-        "excerpt": "بحسب هانكيونغ، رفع غولدمان ساكس توقعاته لمؤشر كوسبي مجددا وحدد هدفا لـ12 شهرا عند 9000 نقطة، مستندا إلى تحسن أرباح تقوده أشباه الموصلات وتقييمات ما زالت منخفضة.",
-        "body": "رفع غولدمان ساكس مجددا نظرته إلى سوق الأسهم الكورية الجنوبية، وحدد في 7 مايو هدفا لمؤشر كوسبي خلال 12 شهرا عند 9000 نقطة، وفقا لما أوردته هانكيونغ. ويأتي التعديل بعد نحو 20 يوما من توقع سابق بوصول المؤشر إلى 8000 نقطة. واستندت الزيادة إلى تحسن توقعات أرباح الشركات الكورية، خصوصا في قطاع أشباه الموصلات، وإلى تقييمات لا تزال منخفضة نسبيا. ومع تجاوز كوسبي أخيرا مستوى 7000 نقطة وتداوله قرب قمم تاريخية، عززت التوقعات الجديدة الآمال باستمرار صعود السوق الكورية. كما أشار التقرير إلى أن الهدف قد يتأثر بتقلبات السوق واتجاه أرباح القطاعات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "गोल्डमैन सैक्स ने KOSPI लक्ष्य 9,000 किया, 20 दिन में फिर बढ़ोतरी",
-        "excerpt": "Hankyung के अनुसार, गोल्डमैन सैक्स ने KOSPI पर अपना अनुमान फिर बढ़ाकर 12 महीने का लक्ष्य 9,000 रखा है। सेमीकंडक्टर आधारित मुनाफा सुधार और कम वैल्यूएशन इसकी वजह बताए गए हैं।",
-        "body": "Hankyung के अनुसार, गोल्डमैन सैक्स ने 7 मई को दक्षिण कोरियाई शेयर बाजार पर अपना नजरिया फिर बढ़ाते हुए KOSPI के लिए 12 महीने का लक्ष्य 9,000 तय किया। करीब 20 दिन पहले बैंक ने KOSPI के 8,000 तक जाने का अनुमान दिया था, जिसके बाद यह एक और बढ़ोतरी है। इसके पीछे सेमीकंडक्टर क्षेत्र के नेतृत्व में कोरियाई कंपनियों की आय उम्मीदों में सुधार और अब भी कम माने जा रहे वैल्यूएशन हैं। हाल में KOSPI के 7,000 के ऊपर जाने और रिकॉर्ड ऊंचाई के पास कारोबार करने से कोरियाई बाजार की तेजी को लेकर उम्मीदें बढ़ी हैं। रिपोर्ट यह भी संकेत देती है कि यह लक्ष्य बाजार की अस्थिरता और क्षेत्रवार कमाई के रुझान पर निर्भर कर सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Goldman Sachs Naikkan Target KOSPI ke 9.000 Setelah 20 Hari",
-        "excerpt": "Menurut Hankyung, Goldman Sachs kembali menaikkan prospek KOSPI dengan target 12 bulan 9.000, didorong perbaikan laba yang dipimpin semikonduktor dan valuasi yang masih rendah.",
-        "body": "Goldman Sachs kembali menaikkan pandangan terhadap pasar saham Korea Selatan dan pada 7 Mei menetapkan target KOSPI 12 bulan di level 9.000, menurut Hankyung. Kenaikan ini terjadi sekitar 20 hari setelah bank tersebut memproyeksikan KOSPI dapat mencapai 8.000. Dasarnya adalah perbaikan ekspektasi laba perusahaan Korea, terutama dari sektor semikonduktor, serta valuasi yang masih dinilai rendah. Setelah KOSPI baru-baru ini menembus 7.000 dan bergerak dekat rekor tertinggi, proyeksi baru itu menambah ekspektasi terhadap reli pasar Korea. Laporan tersebut juga mengisyaratkan bahwa target dapat bergantung pada volatilitas pasar dan tren kinerja tiap sektor. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "b80f2b0bb865",
-    "slug": "한국콜마-매출이-반토막토스증권-실적-표기-오류-논란-694653",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T14:23:06.497Z",
-    "updatedAt": "2026-05-08T14:23:06.497Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050846666",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050846666",
-    "titleFingerprint": "c64262eafada8b07cabffb3e10e5c98dfa7ae228",
-    "dedupKeys": [
-      "b80f2b0bb865d2dded4d346ec73f635afadac55c",
-      "c64262eafada8b07cabffb3e10e5c98dfa7ae228",
-      "01aebf1fe4664de446f42f19a4f080c5682859ee"
-    ],
-    "imageUrl": "/images/articles/b80f2b0bb865.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국콜마 실적 표기 오류 논란, 토스증권 화면에 ‘매출 반토막’ 혼선",
-        "excerpt": "토스증권의 한국콜마 실적 표기 오류가 투자자 혼선을 불렀다. 매출이 급감한 것처럼 보인 화면 표시를 두고 정확한 기업정보 제공 필요성이 제기됐다.",
-        "body": "한국콜마 실적 정보가 토스증권 화면에서 잘못 표기됐다는 논란이 제기됐다. 한국경제 보도에 따르면 투자자들은 한국콜마 매출이 ‘반토막’ 난 것처럼 보이는 실적 표시를 접했고, 이는 실제 기업 실적 변화와 혼동될 수 있는 사안으로 지적됐다. 이번 논란의 핵심은 기업의 영업 상황 자체보다 증권 플랫폼이 제공하는 실적 데이터의 정확성이다. 주식 투자자는 앱 화면의 매출, 영업이익 등 핵심 수치를 근거로 판단하는 만큼 표기 오류는 투자 판단에 직접 영향을 줄 수 있다. 한국경제는 토스증권의 한국콜마 실적 표기 오류 논란을 전했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Korea Kolmar Earnings Display Error Sparks Confusion on Toss Securities App",
-        "excerpt": "A Toss Securities display error involving Korea Kolmar earnings caused investor confusion, making sales appear sharply lower and raising questions about data accuracy.",
-        "body": "A controversy arose after Korea Kolmar earnings information was reportedly displayed incorrectly on Toss Securities. According to Hankyung, investors saw figures that made Korea Kolmar’s revenue appear to have been cut in half, creating room for confusion with the company’s actual performance. The issue centers not on Korea Kolmar’s business condition itself, but on the accuracy of earnings data shown by a securities platform. Since investors rely on app-based figures such as revenue and operating profit when making decisions, a display error can directly affect interpretation. Hankyung reported the controversy over Toss Securities’ Korea Kolmar earnings notation error. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓国コルマー実績表示ミス、トス証券アプリで売上半減の混乱",
-        "excerpt": "トス証券で韓国コルマーの実績表示に誤りがあり、売上が急減したように見えたことで投資家の混乱と情報精度への懸念が浮上した。",
-        "body": "韓国コルマーの業績情報がトス証券の画面で誤って表示されたとの論争が起きた。韓国経済の報道によると、投資家は韓国コルマーの売上が「半減」したかのように見える業績表示を確認し、実際の企業業績と混同される可能性が指摘された。今回の焦点は企業の営業状況そのものではなく、証券プラットフォームが提供する業績データの正確性にある。投資家はアプリ上の売上高や営業利益などの主要数値を判断材料にするため、表示ミスは投資判断に直接影響し得る。韓国経済はトス証券の韓国コルマー業績表示ミス論争を報じた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国科玛业绩显示错误引争议，Toss证券页面现“营收腰斩”混乱",
-        "excerpt": "Toss证券关于韩国科玛的业绩显示错误引发投资者混乱，页面看似显示营收大幅下降，也凸显平台数据准确性问题。",
-        "body": "韩国科玛的业绩信息在Toss证券页面被错误显示一事引发争议。据《韩国经济》报道，投资者看到的业绩标注让韩国科玛营收看起来像是“腰斩”，该情况可能与企业真实业绩变化产生混淆。此次争议的核心并非韩国科玛自身经营状况，而是证券平台所提供业绩数据的准确性。投资者在进行股票判断时，会参考应用中的营收、营业利润等关键数字，因此显示错误可能直接影响其理解和判断。《韩国经济》报道了Toss证券韩国科玛业绩标注错误争议。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Error en Toss Securities confunde resultados de Korea Kolmar y sus ventas",
-        "excerpt": "Un error de visualización de Toss Securities sobre Korea Kolmar generó confusión entre inversores al hacer parecer que sus ventas se habían reducido con fuerza.",
-        "body": "Surgió una controversia después de que la información de resultados de Korea Kolmar se mostrara incorrectamente en Toss Securities. Según Hankyung, los inversores vieron una indicación que hacía parecer que los ingresos de Korea Kolmar se habían reducido a la mitad, lo que podía confundirse con un cambio real en el desempeño de la empresa. El punto central no es la situación operativa de Korea Kolmar, sino la precisión de los datos financieros ofrecidos por una plataforma bursátil. Como los inversores usan cifras de ventas y beneficio operativo en la app para tomar decisiones, un error de visualización puede afectar directamente su interpretación. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Erro no Toss Securities confunde resultados da Korea Kolmar e vendas",
-        "excerpt": "Um erro de exibição no Toss Securities sobre a Korea Kolmar gerou confusão entre investidores ao fazer parecer que a receita havia caído pela metade.",
-        "body": "Uma controvérsia surgiu após informações de resultados da Korea Kolmar serem exibidas incorretamente no Toss Securities. Segundo o Hankyung, investidores viram uma indicação que fazia a receita da Korea Kolmar parecer ter sido reduzida pela metade, criando risco de confusão com o desempenho real da empresa. O centro da questão não é a condição operacional da Korea Kolmar, mas a precisão dos dados financeiros fornecidos por uma plataforma de valores mobiliários. Como investidores usam números de receita e lucro operacional no aplicativo para tomar decisões, um erro de exibição pode afetar diretamente a interpretação. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Toss-Securities-Fehler bei Korea Kolmar sorgt für Umsatz-Verwirrung",
-        "excerpt": "Ein Anzeige Fehler bei Toss Securities zu Korea Kolmar sorgte für Verwirrung, weil der Umsatz deutlich niedriger erschien und Fragen zur Datengenauigkeit auslöste.",
-        "body": "Um die Ergebnisdaten von Korea Kolmar auf Toss Securities ist eine Kontroverse entstanden, weil sie offenbar falsch angezeigt wurden. Laut Hankyung sahen Anleger eine Darstellung, die den Eindruck erweckte, der Umsatz von Korea Kolmar habe sich halbiert. Dadurch konnte Verwirrung mit der tatsächlichen Unternehmensleistung entstehen. Im Mittelpunkt steht nicht die Geschäftslage von Korea Kolmar selbst, sondern die Genauigkeit der von einer Wertpapierplattform bereitgestellten Ergebnisdaten. Da Anleger Kennzahlen wie Umsatz und operativen Gewinn in Apps als Entscheidungsgrundlage nutzen, kann ein Anzeigefehler die Einschätzung direkt beeinflussen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Erreur sur Toss Securities: les résultats de Korea Kolmar sèment le doute",
-        "excerpt": "Une erreur d’affichage de Toss Securities concernant Korea Kolmar a semé la confusion, donnant l’impression que le chiffre d’affaires avait fortement chuté.",
-        "body": "Une controverse est née après l’affichage erroné d’informations financières de Korea Kolmar sur Toss Securities. Selon Hankyung, des investisseurs ont vu une présentation laissant croire que le chiffre d’affaires de Korea Kolmar avait été réduit de moitié, ce qui pouvait être confondu avec une évolution réelle des résultats de l’entreprise. Le cœur du sujet n’est pas la situation opérationnelle de Korea Kolmar elle-même, mais l’exactitude des données fournies par une plateforme de courtage. Comme les investisseurs s’appuient sur les ventes et le résultat opérationnel affichés dans les applications, une erreur peut influencer directement leur lecture. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "خطأ عرض نتائج كوريا كولمار على توس للأوراق المالية يثير ارتباكا",
-        "excerpt": "أثار خطأ في عرض نتائج كوريا كولمار على منصة توس للأوراق المالية ارتباكا بين المستثمرين بعدما بدا أن المبيعات تراجعت بشكل حاد.",
-        "body": "أثير جدل بعد ظهور معلومات نتائج كوريا كولمار بشكل غير صحيح على شاشة توس للأوراق المالية. ووفقا لتقرير هانكيونغ، شاهد المستثمرون عرضا جعل إيرادات كوريا كولمار تبدو كأنها انخفضت إلى النصف، ما قد يسبب خلطا مع الأداء الفعلي للشركة. جوهر القضية لا يتعلق بوضع أعمال كوريا كولمار نفسه، بل بدقة بيانات النتائج التي توفرها منصة تداول. وبما أن المستثمرين يعتمدون على أرقام مثل الإيرادات والربح التشغيلي في التطبيقات لاتخاذ قراراتهم، فإن خطأ العرض قد يؤثر مباشرة في تفسيرهم للمعلومات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Toss Securities पर Korea Kolmar नतीजों की गलती से बिक्री को लेकर भ्रम",
-        "excerpt": "Toss Securities पर Korea Kolmar के नतीजों की गलत स्क्रीनिंग से निवेशकों में भ्रम पैदा हुआ, क्योंकि बिक्री तेज गिरावट जैसी दिख रही थी।",
-        "body": "Korea Kolmar की आय संबंधी जानकारी Toss Securities पर गलत दिखाई देने के बाद विवाद उठा। Hankyung के अनुसार, निवेशकों ने ऐसा प्रदर्शन देखा जिससे Korea Kolmar की बिक्री मानो आधी हो गई हो, और इससे कंपनी के वास्तविक प्रदर्शन को लेकर भ्रम पैदा हो सकता था। इस मामले का केंद्र Korea Kolmar की कारोबारी स्थिति नहीं, बल्कि सिक्योरिटीज प्लेटफॉर्म पर दिए गए आय डेटा की सटीकता है। निवेशक ऐप में दिखने वाले राजस्व और परिचालन लाभ जैसे प्रमुख आंकड़ों के आधार पर निर्णय लेते हैं, इसलिए ऐसी प्रदर्शन त्रुटि उनकी व्याख्या को सीधे प्रभावित कर सकती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kesalahan Data Korea Kolmar di Toss Securities Picu Bingung soal Penjualan",
-        "excerpt": "Kesalahan tampilan kinerja Korea Kolmar di Toss Securities memicu kebingungan investor karena penjualan terlihat seolah turun tajam hingga separuh.",
-        "body": "Kontroversi muncul setelah informasi kinerja Korea Kolmar dilaporkan tampil keliru di Toss Securities. Menurut Hankyung, investor melihat tampilan yang membuat pendapatan Korea Kolmar tampak seperti berkurang separuh, sehingga berpotensi tertukar dengan perubahan kinerja perusahaan yang sebenarnya. Inti masalah ini bukan kondisi bisnis Korea Kolmar, melainkan akurasi data kinerja yang disediakan platform sekuritas. Karena investor menggunakan angka pendapatan dan laba operasi di aplikasi sebagai dasar keputusan, kesalahan tampilan dapat langsung memengaruhi penafsiran mereka. Hankyung melaporkan kontroversi kesalahan penulisan kinerja Korea Kolmar di Toss Securities. Sumber: hankyung.com"
       }
     }
   }
