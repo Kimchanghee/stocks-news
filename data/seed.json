@@ -1,5 +1,230 @@
 [
   {
+    "id": "415f8bdc4085",
+    "slug": "금융-중소기술기업-투자-마중물돼야규제-완화-필요-107333",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T20:10:03.253Z",
+    "updatedAt": "2026-05-09T20:10:03.253Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508098700002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508098700002",
+    "titleFingerprint": "b2bdc1534128b616d9473a2de5f9cd837cdc49b4",
+    "dedupKeys": [
+      "415f8bdc40857ec3cae28dba34113e54721a8790",
+      "b2bdc1534128b616d9473a2de5f9cd837cdc49b4",
+      "5cd75d972ee0757e3c9e36f7ab0b77ac355547a5"
+    ],
+    "imageUrl": "/images/articles/415f8bdc4085.jpg",
+    "i18n": {
+      "ko": {
+        "title": "금융권 기술투자 확대론 부상…중소기술기업 성장 위해 규제 완화 필요",
+        "excerpt": "연합뉴스는 한국이 장기 저성장 국면에 들어선 가운데 금융권이 중소기술기업 투자 마중물 역할을 하려면 관련 규제 완화가 필요하다는 목소리가 나온다고 보도했다.",
+        "body": "한국이 장기 저성장 국면에 진입한 상황에서 금융권의 기술 투자가 더 활성화되도록 관련 규제를 완화해야 한다는 주장이 제기됐다. 연합뉴스 김지연 기자의 서울발 보도에 따르면, 금융이 중소기술기업 투자 확대의 마중물 역할을 해야 한다는 문제의식이 논의의 핵심이다. 배경에는 성장 동력이 약해진 경제 환경에서 기술기업에 대한 자금 공급이 중요해졌다는 판단이 놓여 있다. 특히 중소기술기업은 성장 가능성이 있어도 투자 유치와 자금 조달에서 제약을 받을 수 있어 금융권의 역할이 주목된다. 관련 규제가 완화되면 금융권의 기술 투자 참여가 넓어지고, 중소기술기업의 성장 기반을 보완하는 효과가 기대된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Financial Sector Tech Investment Urged as Deregulation Seen Key for Small Firms",
+        "excerpt": "Yonhap reported from Seoul that, as Korea enters a prolonged low-growth phase, calls are growing to ease rules so finance can help drive investment in small technology firms.",
+        "body": "As Korea enters a prolonged low-growth phase, calls have emerged for easing related regulations so technology investment by the financial sector can become more active. According to a Seoul-datelined report by Yonhap News Agency reporter Kim Ji-yeon, the central issue is whether finance should serve as a catalyst for expanding investment in small and midsize technology companies. The background is an economic environment in which growth momentum has weakened, making funding for technology firms more important. Small technology companies may have growth potential but still face limits in attracting investment and securing capital, drawing attention to the role of financial institutions. If regulations are eased, financial-sector participation in technology investment could widen and help strengthen the growth base of smaller tech firms. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "金融機関の技術投資拡大論が浮上、中小技術企業支援へ規制緩和が焦点",
+        "excerpt": "聯合ニュースは、韓国が長期低成長局面に入る中、金融機関が中小技術企業投資の呼び水となるには関連規制の緩和が必要だとの声が出ていると報じた。",
+        "body": "韓国が長期低成長局面に入った状況で、金融機関による技術投資をさらに活性化するため、関連規制を緩和すべきだとの主張が出ている。聯合ニュースの金志妍記者によるソウル発の記事によれば、金融が中小技術企業への投資拡大の呼び水になるべきだという問題意識が議論の中心にある。背景には、成長動力が弱まった経済環境で技術企業への資金供給の重要性が高まっているとの判断がある。中小技術企業は成長可能性があっても、投資誘致や資金調達で制約を受けることがあり、金融機関の役割が注目されている。規制が緩和されれば、金融機関の技術投資参加が広がり、中小技術企業の成長基盤を補う効果が期待される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "金融业扩大技术投资呼声升温，中小科技企业成长需放宽监管",
+        "excerpt": "韩联社报道称，在韩国进入长期低增长阶段之际，有观点认为应放宽相关监管，使金融业为中小科技企业投资发挥引水作用。",
+        "body": "在韩国进入长期低增长阶段的背景下，有观点提出，应放宽相关监管，以进一步激活金融业的技术投资。韩联社记者金智妍发自首尔的报道称，讨论的核心在于金融是否应成为扩大中小科技企业投资的引水力量。其背景是，在经济增长动力减弱的环境下，向科技企业提供资金变得更加重要。中小科技企业即使具备成长潜力，也可能在吸引投资和筹措资金方面面临限制，因此金融机构的作用受到关注。若相关监管得到放宽，金融业参与技术投资的空间可能扩大，并有望补充中小科技企业的成长基础。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Inversión tecnológica financiera gana peso: piden menos regulación para pymes tech",
+        "excerpt": "Yonhap informó desde Seúl que, con Corea en una fase de bajo crecimiento prolongado, aumentan los llamados a flexibilizar normas para que las finanzas impulsen a pymes tecnológicas.",
+        "body": "En momentos en que Corea ha entrado en una fase de bajo crecimiento prolongado, se planteó la necesidad de flexibilizar regulaciones relacionadas para activar más la inversión tecnológica del sector financiero. Según un reporte desde Seúl de la periodista Kim Ji-yeon de Yonhap, el punto central es que las finanzas deberían servir como catalizador para ampliar la inversión en pequeñas y medianas empresas tecnológicas. El contexto es un entorno económico con menor impulso de crecimiento, donde el suministro de fondos a empresas tecnológicas se vuelve más importante. Aunque estas compañías pueden tener potencial de expansión, pueden enfrentar limitaciones para atraer inversión y obtener capital, por lo que se destaca el papel de las instituciones financieras. Si se alivian las normas, podría ampliarse la participación financiera en inversión tecnológica y reforzarse la base de crecimiento de las pymes tecnológicas. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Investimento financeiro em tecnologia avança; regras menores são vistas como chave",
+        "excerpt": "A Yonhap informou de Seul que, com a Coreia em baixo crescimento prolongado, crescem pedidos para aliviar regulações e permitir que o setor financeiro apoie pequenas empresas de tecnologia.",
+        "body": "Com a Coreia entrando em uma fase de baixo crescimento prolongado, surgiu a defesa de aliviar regulações relacionadas para tornar mais ativo o investimento em tecnologia pelo setor financeiro. Segundo reportagem de Seul da jornalista Kim Ji-yeon, da Yonhap, o ponto central é que as finanças devem funcionar como catalisador para ampliar investimentos em pequenas e médias empresas de tecnologia. O pano de fundo é um ambiente econômico em que o impulso de crescimento enfraqueceu, tornando mais importante o fornecimento de capital a empresas tecnológicas. Mesmo com potencial de crescimento, essas companhias podem enfrentar restrições para atrair investimento e obter recursos, o que coloca em foco o papel das instituições financeiras. Caso as regras sejam flexibilizadas, a participação do setor financeiro em investimentos tecnológicos pode se ampliar e ajudar a fortalecer a base de crescimento dessas empresas. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Finanzsektor soll mehr in Technologie investieren: Lockerung für KMU gefordert",
+        "excerpt": "Yonhap berichtete aus Seoul, dass angesichts Koreas langfristiger Niedrigwachstumsphase Forderungen nach gelockerten Regeln laut werden, damit Finanzfirmen kleine Technologieunternehmen stärker unterstützen.",
+        "body": "Da Korea in eine Phase langfristig niedrigen Wachstums eingetreten ist, wird gefordert, einschlägige Vorschriften zu lockern, damit Technologieinvestitionen des Finanzsektors aktiver werden können. Nach einem Bericht der Yonhap-Journalistin Kim Ji-yeon aus Seoul steht die Frage im Mittelpunkt, ob die Finanzbranche als Anschub für mehr Investitionen in kleine und mittlere Technologieunternehmen dienen sollte. Hintergrund ist ein wirtschaftliches Umfeld mit schwächerer Wachstumsdynamik, in dem die Finanzierung von Technologieunternehmen wichtiger wird. Kleine Technologieunternehmen können trotz Wachstumspotenzials bei der Einwerbung von Investitionen und Kapitalbeschaffung eingeschränkt sein, weshalb die Rolle der Finanzinstitute stärker beachtet wird. Werden Vorschriften gelockert, könnte sich die Beteiligung des Finanzsektors an Technologieinvestitionen ausweiten und die Wachstumsbasis kleinerer Technologieunternehmen ergänzen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Investissement technologique financier: l’assouplissement des règles réclamé",
+        "excerpt": "Yonhap a rapporté depuis Séoul qu’avec l’entrée de la Corée dans une phase de faible croissance durable, des appels visent à assouplir les règles pour soutenir les PME technologiques.",
+        "body": "Alors que la Corée entre dans une phase de faible croissance prolongée, l’idée d’assouplir les réglementations liées afin de rendre plus actifs les investissements technologiques du secteur financier a été avancée. Selon un reportage depuis Séoul de Kim Ji-yeon, journaliste à Yonhap, le cœur du débat est le rôle que la finance devrait jouer comme catalyseur de l’investissement dans les petites et moyennes entreprises technologiques. Le contexte est celui d’un environnement économique où le moteur de croissance s’affaiblit, rendant plus important l’apport de capitaux aux entreprises technologiques. Même lorsqu’elles disposent d’un potentiel de croissance, ces entreprises peuvent rencontrer des limites pour attirer des investissements et obtenir des financements, ce qui met en lumière le rôle des institutions financières. Un assouplissement des règles pourrait élargir la participation du secteur financier à l’investissement technologique et renforcer la base de croissance des PME technologiques. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "دعوات لتوسيع استثمار القطاع المالي في التكنولوجيا وتخفيف القيود على الشركات الصغيرة",
+        "excerpt": "ذكرت يونهاب من سيول أنه مع دخول كوريا مرحلة نمو منخفض طويلة الأمد، تتزايد الدعوات لتخفيف القواعد كي يؤدي القطاع المالي دورا محفزا في الاستثمار بالشركات التقنية الصغيرة.",
+        "body": "مع دخول كوريا مرحلة نمو منخفض طويلة الأمد، طُرحت دعوات إلى تخفيف اللوائح ذات الصلة حتى يصبح استثمار القطاع المالي في التكنولوجيا أكثر نشاطا. وبحسب تقرير من سيول للصحفية كيم جي-يون في وكالة يونهاب، تتمحور القضية حول ضرورة أن يؤدي التمويل دور المحفز لتوسيع الاستثمار في الشركات التقنية الصغيرة والمتوسطة. وتأتي هذه الدعوات في ظل بيئة اقتصادية تراجعت فيها قوة النمو، ما يجعل توفير التمويل للشركات التقنية أكثر أهمية. فهذه الشركات قد تمتلك إمكانات نمو، لكنها قد تواجه قيودا في جذب الاستثمار والحصول على رأس المال، الأمر الذي يبرز دور المؤسسات المالية. وإذا خُففت اللوائح، فقد تتسع مشاركة القطاع المالي في الاستثمار التقني، بما يساعد على تعزيز قاعدة نمو الشركات التقنية الصغيرة والمتوسطة. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वित्तीय क्षेत्र के तकनीकी निवेश पर जोर, छोटी टेक कंपनियों के लिए नियम ढील की मांग",
+        "excerpt": "योनहाप ने सियोल से बताया कि कोरिया के दीर्घकालिक कम वृद्धि चरण में प्रवेश के बीच वित्तीय क्षेत्र को छोटी तकनीकी कंपनियों में निवेश बढ़ाने के लिए नियमों में ढील की जरूरत बताई जा रही है।",
+        "body": "कोरिया के दीर्घकालिक कम वृद्धि वाले चरण में प्रवेश करने के बीच यह मांग उठी है कि वित्तीय क्षेत्र के तकनीकी निवेश को अधिक सक्रिय बनाने के लिए संबंधित नियमों में ढील दी जानी चाहिए। योनहाप की पत्रकार किम जी-योन की सियोल से रिपोर्ट के अनुसार, चर्चा का मुख्य बिंदु यह है कि वित्त को छोटी और मझोली तकनीकी कंपनियों में निवेश विस्तार के लिए उत्प्रेरक भूमिका निभानी चाहिए। इसकी पृष्ठभूमि वह आर्थिक माहौल है जिसमें वृद्धि की गति कमजोर हुई है और तकनीकी कंपनियों को पूंजी उपलब्ध कराना अधिक महत्वपूर्ण हो गया है। छोटी तकनीकी कंपनियों में विकास की संभावना होने के बावजूद वे निवेश आकर्षित करने और धन जुटाने में सीमाओं का सामना कर सकती हैं, इसलिए वित्तीय संस्थानों की भूमिका पर ध्यान है। यदि नियमों में ढील दी जाती है, तो तकनीकी निवेश में वित्तीय क्षेत्र की भागीदारी बढ़ सकती है और छोटी तकनीकी कंपनियों की विकास आधारशिला को मजबूती मिल सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Investasi Teknologi Sektor Keuangan Disorot, Deregulasi Dibutuhkan untuk UKM Tech",
+        "excerpt": "Yonhap melaporkan dari Seoul bahwa saat Korea memasuki fase pertumbuhan rendah jangka panjang, muncul seruan pelonggaran aturan agar sektor keuangan mendorong investasi di perusahaan teknologi kecil.",
+        "body": "Saat Korea memasuki fase pertumbuhan rendah jangka panjang, muncul pandangan bahwa regulasi terkait perlu dilonggarkan agar investasi teknologi oleh sektor keuangan lebih aktif. Menurut laporan dari Seoul oleh jurnalis Yonhap Kim Ji-yeon, inti pembahasan adalah bahwa keuangan harus menjadi pemicu perluasan investasi pada perusahaan teknologi kecil dan menengah. Latar belakangnya adalah lingkungan ekonomi dengan daya dorong pertumbuhan yang melemah, sehingga pasokan dana bagi perusahaan teknologi menjadi lebih penting. Perusahaan teknologi kecil dapat memiliki potensi tumbuh, tetapi tetap menghadapi keterbatasan dalam menarik investasi dan memperoleh modal, sehingga peran lembaga keuangan menjadi sorotan. Jika regulasi dilonggarkan, partisipasi sektor keuangan dalam investasi teknologi dapat meluas dan membantu memperkuat basis pertumbuhan perusahaan teknologi kecil dan menengah. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "da49def00381",
+    "slug": "고신용-중심-영업-반성해야은행권-사회연대조직-43조-공급-508219",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T20:09:00.840Z",
+    "updatedAt": "2026-05-09T20:09:00.840Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508105200002",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508105200002",
+    "titleFingerprint": "97d7594b205178671e7a88d7820401485414b55a",
+    "dedupKeys": [
+      "da49def00381387b219ecb5282d647f4c6f281a4",
+      "97d7594b205178671e7a88d7820401485414b55a",
+      "a1f53019094ad92f98eab97f826de5d889cc16be"
+    ],
+    "imageUrl": "/images/articles/da49def00381.jpg",
+    "i18n": {
+      "ko": {
+        "title": "사회연대금융 4.3조 공급…은행권 ‘고신용 중심 영업’ 반성론 부상",
+        "excerpt": "금융위원회는 올해 사회연대금융 활성화를 위해 공공부문과 민간 금융기관을 통해 2조원을 공급하고, 은행권은 사회연대조직에 4.3조원 지원을 추진한다.",
+        "body": "금융위원회가 올해 사회연대금융 활성화를 위해 공공부문과 민간 금융기관을 통해 2조원을 공급하기로 했다. 은행권도 사회연대조직에 총 4조3천억원 규모의 자금을 공급하는 방안을 내놓았다. 이번 조치는 고신용자 중심의 영업 관행을 돌아봐야 한다는 문제의식 속에서 추진된다. 사회연대금융은 사회적경제 조직과 취약계층 등 금융 접근성이 낮은 영역에 자금을 연결하는 방식이다. 공공과 민간 금융기관의 공급 확대가 관련 조직의 자금 조달 여건을 개선할지 주목된다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Social Solidarity Finance Gets 4.3 Trillion Won as Banks Rethink Credit Focus",
+        "excerpt": "South Korea’s Financial Services Commission will provide 2 trillion won this year through public and private financial institutions to boost social solidarity finance, while banks plan 4.3 trillion won for related groups.",
+        "body": "South Korea’s Financial Services Commission has decided to provide 2 trillion won this year through the public sector and private financial institutions to promote social solidarity finance. Banks also presented a plan to supply a total of 4.3 trillion won to social solidarity organizations. The move comes amid calls for the banking sector to reflect on business practices centered on high-credit borrowers. Social solidarity finance connects funding to areas with limited access to finance, including social economy organizations and vulnerable groups. Attention is on whether expanded public and private funding will improve financing conditions for these organizations. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "社会連帯金融に4.3兆ウォン供給へ、銀行界で高信用偏重の反省論",
+        "excerpt": "金融委員会は社会連帯金融の活性化に向け、今年、公共部門と民間金融機関を通じて2兆ウォンを供給し、銀行界は関連組織に4.3兆ウォンを支援する方針だ。",
+        "body": "金融委員会は今年、社会連帯金融の活性化に向けて、公共部門と民間金融機関を通じ2兆ウォンを供給することを決めた。銀行界も社会連帯組織に計4兆3000億ウォン規模の資金を供給する案を示した。今回の措置は、高信用者中心の営業慣行を見直すべきだとの問題意識の中で進められる。社会連帯金融は、社会的経済組織や脆弱層など金融アクセスが低い分野に資金をつなぐ仕組みだ。公共と民間金融機関による供給拡大が、関連組織の資金調達環境を改善するか注目される。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "社会团结金融获4.3万亿韩元供给，银行反思高信用客户偏重",
+        "excerpt": "韩国金融委员会将于今年通过公共部门和民间金融机构提供2万亿韩元，以激活社会团结金融，银行业也将向相关组织供应4.3万亿韩元资金。",
+        "body": "韩国金融委员会决定，今年为激活社会团结金融，通过公共部门和民间金融机构供应2万亿韩元。银行业也提出向社会团结组织供应总计4.3万亿韩元资金的方案。此举是在银行业需要反思以高信用客户为中心的经营惯例这一问题意识下推进的。社会团结金融是把资金连接到社会经济组织、弱势群体等金融可及性较低领域的方式。公共部门与民间金融机构扩大资金供给，能否改善相关组织的融资条件，受到关注。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Finanzas solidarias reciben 4,3 billones de wones y bancos revisan su enfoque",
+        "excerpt": "La Comisión de Servicios Financieros de Corea del Sur aportará este año 2 billones de wones mediante el sector público y entidades privadas para impulsar las finanzas solidarias; los bancos prevén 4,3 billones.",
+        "body": "La Comisión de Servicios Financieros de Corea del Sur decidió aportar este año 2 billones de wones a través del sector público y de instituciones financieras privadas para activar las finanzas de solidaridad social. El sector bancario también presentó un plan para suministrar un total de 4,3 billones de wones a organizaciones de solidaridad social. La medida se impulsa en medio de la idea de que los bancos deben revisar sus prácticas centradas en clientes de alta solvencia. Estas finanzas conectan fondos con ámbitos de menor acceso financiero, como organizaciones de economía social y grupos vulnerables. Se observará si la mayor oferta pública y privada mejora sus condiciones de financiación. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Finanças solidárias recebem 4,3 trilhões de won e bancos revêm foco",
+        "excerpt": "A Comissão de Serviços Financeiros da Coreia do Sul fornecerá 2 trilhões de won neste ano por meio do setor público e instituições privadas para fortalecer as finanças solidárias; bancos planejam 4,3 trilhões.",
+        "body": "A Comissão de Serviços Financeiros da Coreia do Sul decidiu fornecer 2 trilhões de won neste ano por meio do setor público e de instituições financeiras privadas para ativar as finanças de solidariedade social. O setor bancário também apresentou um plano para destinar um total de 4,3 trilhões de won a organizações de solidariedade social. A medida ocorre em meio à avaliação de que os bancos devem refletir sobre práticas comerciais centradas em clientes de alto crédito. Esse tipo de financiamento conecta recursos a áreas com menor acesso financeiro, como organizações da economia social e grupos vulneráveis. A atenção recai sobre se a ampliação da oferta pública e privada melhorará as condições de captação dessas organizações. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Soziale Solidarfinanzierung erhält 4,3 Billionen Won, Banken prüfen Fokus",
+        "excerpt": "Die südkoreanische Finanzkommission will in diesem Jahr über öffentliche Stellen und private Finanzinstitute 2 Billionen Won bereitstellen, um soziale Solidarfinanzierung zu fördern; Banken planen 4,3 Billionen Won.",
+        "body": "Die südkoreanische Finanzkommission hat beschlossen, in diesem Jahr über den öffentlichen Sektor und private Finanzinstitute 2 Billionen Won bereitzustellen, um die soziale Solidarfinanzierung zu stärken. Auch der Bankensektor legte einen Plan vor, insgesamt 4,3 Billionen Won an Organisationen der sozialen Solidarität zu vergeben. Die Maßnahme folgt der Einsicht, dass Banken ihre auf Kreditnehmer mit hoher Bonität ausgerichteten Geschäftspraktiken überprüfen müssen. Soziale Solidarfinanzierung verbindet Kapital mit Bereichen, die nur eingeschränkten Zugang zu Finanzmitteln haben, darunter Sozialwirtschaftsorganisationen und vulnerable Gruppen. Entscheidend wird sein, ob die Ausweitung öffentlicher und privater Mittel deren Finanzierungsbedingungen verbessert. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Finance solidaire: 4,3 billions de wons prévus, les banques questionnées",
+        "excerpt": "La Commission des services financiers sud-coréenne fournira cette année 2 billions de wons via le secteur public et des institutions privées pour soutenir la finance solidaire; les banques prévoient 4,3 billions.",
+        "body": "La Commission des services financiers de Corée du Sud a décidé de fournir cette année 2 billions de wons par l’intermédiaire du secteur public et d’institutions financières privées afin de dynamiser la finance de solidarité sociale. Le secteur bancaire a aussi présenté un plan visant à fournir au total 4,3 billions de wons aux organisations de solidarité sociale. Cette mesure s’inscrit dans une réflexion sur les pratiques bancaires centrées sur les emprunteurs à forte qualité de crédit. La finance solidaire relie des capitaux à des domaines où l’accès au financement est limité, notamment les organisations de l’économie sociale et les groupes vulnérables. L’attention porte sur l’effet de cette offre accrue sur leurs conditions de financement. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "تمويل التضامن الاجتماعي يحصل على 4.3 تريليون وون مع مراجعة البنوك نهجها",
+        "excerpt": "قررت لجنة الخدمات المالية في كوريا الجنوبية توفير تريليوني وون هذا العام عبر القطاع العام والمؤسسات المالية الخاصة لتنشيط تمويل التضامن الاجتماعي، فيما تخطط البنوك لضخ 4.3 تريليون وون.",
+        "body": "قررت لجنة الخدمات المالية في كوريا الجنوبية توفير تريليوني وون هذا العام عبر القطاع العام والمؤسسات المالية الخاصة لتنشيط تمويل التضامن الاجتماعي. كما قدم القطاع المصرفي خطة لتوفير ما مجموعه 4.3 تريليون وون لمنظمات التضامن الاجتماعي. وتأتي هذه الخطوة وسط دعوات إلى أن تراجع البنوك ممارساتها التجارية المتركزة على أصحاب التصنيفات الائتمانية المرتفعة. ويربط تمويل التضامن الاجتماعي الأموال بمجالات أقل قدرة على الوصول إلى التمويل، مثل منظمات الاقتصاد الاجتماعي والفئات الضعيفة. وسيتركز الاهتمام على ما إذا كان توسيع التمويل العام والخاص سيحسن ظروف التمويل لهذه المنظمات. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "सामाजिक एकजुटता वित्त को 4.3 ट्रिलियन वॉन, बैंक उच्च-क्रेडिट फोकस पर विचार में",
+        "excerpt": "दक्षिण कोरिया का वित्तीय सेवा आयोग इस वर्ष सामाजिक एकजुटता वित्त को बढ़ाने के लिए सार्वजनिक क्षेत्र और निजी वित्तीय संस्थानों के माध्यम से 2 ट्रिलियन वॉन देगा; बैंक 4.3 ट्रिलियन वॉन की योजना बना रहे हैं।",
+        "body": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने सामाजिक एकजुटता वित्त को सक्रिय करने के लिए इस वर्ष सार्वजनिक क्षेत्र और निजी वित्तीय संस्थानों के माध्यम से 2 ट्रिलियन वॉन उपलब्ध कराने का निर्णय लिया है। बैंकिंग क्षेत्र ने भी सामाजिक एकजुटता संगठनों को कुल 4.3 ट्रिलियन वॉन की राशि उपलब्ध कराने की योजना रखी है। यह कदम इस चिंता के बीच उठाया जा रहा है कि बैंकों को उच्च क्रेडिट वाले ग्राहकों पर केंद्रित अपने कारोबारी तौर-तरीकों पर विचार करना चाहिए। सामाजिक एकजुटता वित्त सामाजिक अर्थव्यवस्था संगठनों और कमजोर वर्गों जैसे कम वित्तीय पहुंच वाले क्षेत्रों तक धन पहुंचाता है। सार्वजनिक और निजी आपूर्ति बढ़ने से इन संगठनों की वित्त जुटाने की स्थिति सुधरेगी या नहीं, इस पर ध्यान रहेगा। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Keuangan Solidaritas Sosial Dapat 4,3 Triliun Won, Bank Evaluasi Fokus Kredit",
+        "excerpt": "Komisi Jasa Keuangan Korea Selatan akan menyalurkan 2 triliun won tahun ini melalui sektor publik dan lembaga keuangan swasta untuk mengaktifkan keuangan solidaritas sosial; bank menyiapkan 4,3 triliun won.",
+        "body": "Komisi Jasa Keuangan Korea Selatan memutuskan untuk menyediakan 2 triliun won tahun ini melalui sektor publik dan lembaga keuangan swasta guna mengaktifkan keuangan solidaritas sosial. Sektor perbankan juga mengajukan rencana untuk menyalurkan total 4,3 triliun won kepada organisasi solidaritas sosial. Langkah ini didorong oleh kesadaran bahwa bank perlu meninjau praktik bisnis yang berpusat pada nasabah berperingkat kredit tinggi. Keuangan solidaritas sosial menghubungkan dana ke area dengan akses keuangan rendah, termasuk organisasi ekonomi sosial dan kelompok rentan. Perhatian tertuju pada apakah perluasan pendanaan publik dan swasta akan memperbaiki kondisi pembiayaan organisasi tersebut. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "63a6f0e120fb",
+    "slug": "식약처-동물용-의약품-기준-초과-베트남산-냉동새우살-회수-364442",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T20:08:01.177Z",
+    "updatedAt": "2026-05-09T20:08:01.177Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508115900017",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508115900017",
+    "titleFingerprint": "63862a845ab38d635d2c651e6fcce237fb47d307",
+    "dedupKeys": [
+      "63a6f0e120fb72dbd3113d54c73d308bc6c89f36",
+      "63862a845ab38d635d2c651e6fcce237fb47d307",
+      "c2815f868bca3fb9e28c291070c7e8fa8ab71335"
+    ],
+    "imageUrl": "/images/articles/63a6f0e120fb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "베트남산 냉동흰다리새우살 회수, 동물용 의약품 기준 초과 확인",
+        "excerpt": "식품의약품안전처는 부산 사하구 해우씨푸드가 수입·판매한 베트남산 냉동흰다리새우살 일부에서 동물용 의약품 기준 초과가 확인돼 판매 중단과 회수에 나섰다.",
+        "body": "식품의약품안전처는 부산 사하구 소재 해우씨푸드가 수입·판매한 베트남산 냉동흰다리새우살 일부 제품에 대해 판매 중단과 회수 조치를 한다고 밝혔다. 해당 조치는 제품에서 동물용 의약품 기준을 초과한 것으로 확인된 데 따른 것이다. 회수 대상은 해우씨푸드가 수입·판매한 냉동흰다리새우살 일부로, 식약처는 관련 제품의 유통을 차단하고 회수를 진행한다. 수입 수산물 안전 기준을 벗어난 제품이 확인되면서 소비자와 유통업계는 해당 제품 여부를 확인할 필요가 있다. 이번 조치는 식품 안전 관리 차원의 판매 중단 및 회수 절차다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "Vietnamese Frozen Whiteleg Shrimp Recalled Over Veterinary Drug Standard Breach",
+        "excerpt": "South Korea’s Ministry of Food and Drug Safety halted sales and ordered a recall of some Vietnamese frozen whiteleg shrimp imported and sold by Haeu Seafood in Busan after veterinary drug limits were exceeded.",
+        "body": "South Korea’s Ministry of Food and Drug Safety said it will suspend sales and recall some Vietnamese frozen whiteleg shrimp meat imported and sold by Haeu Seafood, a company based in Saha-gu, Busan. The action follows confirmation that the product exceeded standards for veterinary drugs. The recall applies to part of the frozen whiteleg shrimp meat handled by Haeu Seafood, and the ministry is moving to block distribution and recover the affected products. As an imported seafood product was found outside food safety standards, consumers and distributors need to check whether they have the relevant item. The measure is a sales suspension and recall under food safety management procedures. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "ベトナム産冷凍バナメイむきエビ回収、動物用医薬品基準超過を確認",
+        "excerpt": "韓国食品医薬品安全処は、釜山沙下区のヘウシーフードが輸入・販売したベトナム産冷凍バナメイむきエビの一部で動物用医薬品基準超過が確認され、販売中止と回収に入った。",
+        "body": "韓国食品医薬品安全処は、釜山広域市沙下区に所在するヘウシーフードが輸入・販売したベトナム産冷凍バナメイむきエビの一部製品について、販売中止と回収措置を行うと明らかにした。今回の措置は、同製品から動物用医薬品の基準を超過したことが確認されたためだ。回収対象はヘウシーフードが扱った冷凍バナメイむきエビの一部で、食品医薬品安全処は関連製品の流通を遮断し、回収を進める。輸入水産物の安全基準を外れた製品が確認されたことから、消費者と流通業界は該当製品かどうかを確認する必要がある。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "越南产冷冻白虾仁被召回，检出超过动物用药标准",
+        "excerpt": "韩国食品医药品安全处表示，釜山沙下区Haeu Seafood进口并销售的部分越南产冷冻白虾仁因超过动物用医药品标准，已被要求停止销售并召回。",
+        "body": "韩国食品医药品安全处表示，将对位于釜山沙下区的Haeu Seafood进口并销售的部分越南产冷冻白虾仁采取停止销售和召回措施。此次措施是因为相关产品被确认超过动物用医药品标准。召回对象为Haeu Seafood进口、销售的部分冷冻白虾仁，食品医药品安全处将阻断相关产品流通并推进回收。由于进口水产品被确认不符合食品安全标准，消费者和流通企业有必要核对是否持有相关产品。本次措施属于食品安全管理层面的销售中止和召回程序。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Retiran camarón blanco congelado de Vietnam por superar el límite de fármacos veterinarios",
+        "excerpt": "El Ministerio de Seguridad Alimentaria y Farmacéutica de Corea del Sur suspendió la venta y ordenó retirar parte del camarón blanco congelado vietnamita importado y vendido por Haeu Seafood, en Busan.",
+        "body": "El Ministerio de Seguridad Alimentaria y Farmacéutica de Corea del Sur informó que suspenderá la venta y retirará parte del camarón blanco congelado de Vietnam importado y vendido por Haeu Seafood, empresa ubicada en Saha-gu, Busan. La medida se tomó después de confirmarse que el producto superó los estándares permitidos para medicamentos veterinarios. El retiro afecta a una parte del camarón blanco congelado manejado por Haeu Seafood, y la autoridad busca bloquear su distribución y recuperar los productos relacionados. Al haberse detectado un producto pesquero importado fuera de los criterios de seguridad alimentaria, consumidores y distribuidores deben verificar si poseen el artículo afectado. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Camarão branco congelado do Vietnã é recolhido por exceder padrão de medicamento veterinário",
+        "excerpt": "O Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul suspendeu a venda e ordenou o recolhimento de parte do camarão branco congelado vietnamita importado e vendido pela Haeu Seafood, em Busan.",
+        "body": "O Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul informou que vai suspender a venda e recolher parte do camarão branco congelado do Vietnã importado e vendido pela Haeu Seafood, empresa localizada em Saha-gu, Busan. A medida ocorre após a confirmação de que o produto excedeu os padrões para medicamentos veterinários. O recolhimento se aplica a parte do camarão branco congelado tratado pela Haeu Seafood, enquanto a autoridade busca impedir sua distribuição e recuperar os produtos relacionados. Como um produto pesqueiro importado foi identificado fora dos critérios de segurança alimentar, consumidores e distribuidores devem verificar se possuem o item afetado. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Gefrorene Whiteleg-Garnelen aus Vietnam wegen überschrittener Tierarznei-Grenzwerte zurückgerufen",
+        "excerpt": "Südkoreas Lebensmittel- und Arzneimittelsicherheitsbehörde stoppt den Verkauf und ruft Teile gefrorener Whiteleg-Garnelen aus Vietnam zurück, die von Haeu Seafood in Busan importiert und verkauft wurden.",
+        "body": "Die südkoreanische Lebensmittel- und Arzneimittelsicherheitsbehörde teilte mit, dass sie den Verkauf einiger gefrorener Whiteleg-Garnelen aus Vietnam stoppt und die Produkte zurückrufen lässt. Importeur und Verkäufer ist Haeu Seafood mit Sitz im Bezirk Saha-gu in Busan. Grund für die Maßnahme ist die Bestätigung, dass das Produkt die Standards für Tierarzneimittel überschritten hat. Betroffen ist ein Teil der von Haeu Seafood importierten und verkauften gefrorenen Whiteleg-Garnelen. Die Behörde will die weitere Verbreitung der betreffenden Produkte verhindern und die Rückholung durchführen. Verbraucher und Händler sollten prüfen, ob sie das betroffene Produkt besitzen. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Crevettes blanches congelées du Vietnam rappelées pour dépassement de normes vétérinaires",
+        "excerpt": "Le ministère sud-coréen de la Sécurité des aliments et des médicaments a suspendu la vente et lancé le rappel d’une partie des crevettes blanches congelées vietnamiennes importées et vendues par Haeu Seafood à Busan.",
+        "body": "Le ministère sud-coréen de la Sécurité des aliments et des médicaments a annoncé la suspension de la vente et le rappel d’une partie des crevettes blanches congelées du Vietnam importées et vendues par Haeu Seafood, société située dans l’arrondissement de Saha à Busan. Cette mesure fait suite à la confirmation d’un dépassement des normes relatives aux médicaments vétérinaires dans le produit concerné. Le rappel vise une partie des crevettes blanches congelées traitées par Haeu Seafood, tandis que l’autorité entend bloquer leur distribution et récupérer les produits. La découverte d’un produit de la mer importé hors des critères de sécurité alimentaire appelle consommateurs et distributeurs à vérifier les articles concernés. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "استدعاء روبيان أبيض مجمد من فيتنام بعد تجاوز معايير الأدوية البيطرية",
+        "excerpt": "أوقفت وزارة سلامة الغذاء والدواء في كوريا الجنوبية بيع جزء من الروبيان الأبيض المجمد المستورد من فيتنام والمباع عبر شركة Haeu Seafood في بوسان، وبدأت استدعاءه بعد تجاوز معايير الأدوية البيطرية.",
+        "body": "أعلنت وزارة سلامة الغذاء والدواء في كوريا الجنوبية أنها ستوقف بيع جزء من الروبيان الأبيض المجمد المستورد من فيتنام والمباع بواسطة شركة Haeu Seafood الواقعة في حي ساها بمدينة بوسان، وستتخذ إجراء استدعاء للمنتج. وجاءت الخطوة بعد التأكد من أن المنتج تجاوز المعايير الخاصة بالأدوية البيطرية. ويشمل الاستدعاء جزءا من منتجات الروبيان الأبيض المجمد التي استوردتها وباعتها الشركة، فيما تعمل الوزارة على منع تداول المنتجات المعنية واستعادتها. ومع رصد منتج بحري مستورد خارج معايير سلامة الغذاء، ينبغي للمستهلكين والموزعين التحقق مما إذا كانت لديهم المنتجات المشمولة بالإجراء. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "वियतनाम के जमे हुए व्हाइटलेग झींगा की वापसी, पशु औषधि मानक से अधिक स्तर मिला",
+        "excerpt": "दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय ने बुसान के Haeu Seafood द्वारा आयातित और बेचे गए वियतनामी जमे हुए व्हाइटलेग झींगा के कुछ हिस्से की बिक्री रोकी और रिकॉल शुरू किया।",
+        "body": "दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय ने कहा कि वह बुसान के साहा-गु स्थित Haeu Seafood द्वारा आयातित और बेचे गए वियतनाम के जमे हुए व्हाइटलेग झींगा मांस के कुछ उत्पादों की बिक्री रोककर उन्हें वापस मंगाएगा। यह कदम इस पुष्टि के बाद उठाया गया कि संबंधित उत्पाद में पशु चिकित्सा दवाओं के मानक से अधिक स्तर पाया गया। रिकॉल Haeu Seafood द्वारा आयातित और बेचे गए जमे हुए व्हाइटलेग झींगा के कुछ हिस्से पर लागू है। मंत्रालय संबंधित उत्पादों के वितरण को रोकने और उन्हें वापस लेने की प्रक्रिया आगे बढ़ा रहा है। आयातित समुद्री खाद्य उत्पाद में सुरक्षा मानक से विचलन मिलने के कारण उपभोक्ताओं और वितरकों को प्रभावित उत्पाद की जांच करनी चाहिए। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Udang Vannamei Beku Vietnam Ditarik karena Melebihi Standar Obat Hewan",
+        "excerpt": "Kementerian Keamanan Pangan dan Obat Korea Selatan menghentikan penjualan dan menarik sebagian udang vannamei beku asal Vietnam yang diimpor dan dijual Haeu Seafood di Busan setelah melebihi standar obat hewan.",
+        "body": "Kementerian Keamanan Pangan dan Obat Korea Selatan menyatakan akan menghentikan penjualan dan menarik sebagian produk daging udang vannamei beku asal Vietnam yang diimpor dan dijual oleh Haeu Seafood, perusahaan yang berlokasi di Saha-gu, Busan. Langkah ini diambil setelah produk tersebut dipastikan melebihi standar untuk obat hewan. Penarikan berlaku untuk sebagian udang vannamei beku yang ditangani Haeu Seafood, sementara otoritas berupaya memblokir distribusi dan menarik produk terkait. Karena produk perikanan impor ditemukan berada di luar standar keamanan pangan, konsumen dan pelaku distribusi perlu memeriksa apakah mereka memiliki produk yang dimaksud. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "8314ff133ea0",
     "slug": "새마을금고-1분기-정책자금-934억-공급서민금융-지원-확대-448866",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Indeks harga pangan dunia naik 3 bulan beruntun, didorong biji-bijian, minyak dan daging",
         "excerpt": "Kementerian Pertanian Korea Selatan menyebut indeks harga pangan dunia FAO mencapai 130,7 bulan lalu, naik 1,6% dari bulan sebelumnya, dipicu kenaikan harga biji-bijian, minyak nabati dan daging.",
         "body": "Kementerian Pertanian, Pangan, dan Urusan Pedesaan Korea Selatan menyatakan indeks harga pangan dunia yang dirilis Organisasi Pangan dan Pertanian PBB (FAO) mencapai 130,7 bulan lalu, naik 1,6% dari bulan sebelumnya. Indeks tersebut naik selama tiga bulan berturut-turut. Berdasarkan kategori, harga biji-bijian, minyak nabati, dan daging meningkat, sehingga mendorong kenaikan indeks keseluruhan. Indeks ini menjadi indikator utama tren harga pangan internasional dan mencerminkan perubahan harga pada komoditas pangan utama. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "408477bae4b8",
-    "slug": "세계식량가격지수-3년여만에-최고치곡물유지류육류-상승종합-214503",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T11:15:39.506Z",
-    "updatedAt": "2026-05-09T11:15:39.506Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509031351030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509031351030",
-    "titleFingerprint": "dac791ad044c0d3147cb4e949fc93bb044a25a6e",
-    "dedupKeys": [
-      "408477bae4b8f54e26d5555b2eed7d4d42a55fa1",
-      "dac791ad044c0d3147cb4e949fc93bb044a25a6e",
-      "433317f25ffdf17654c7c1a05f77149971ee089b"
-    ],
-    "imageUrl": "/images/articles/408477bae4b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "세계식량가격지수 3년2개월 만에 최고치, 곡물·유지류·육류 상승",
-        "excerpt": "유엔 식량농업기구가 8일 발표한 4월 세계식량가격지수는 130.7로 전월보다 1.6% 올라 3년2개월 만에 최고치를 기록했다.",
-        "body": "유엔 식량농업기구(FAO)가 8일 발표한 4월 세계식량가격지수는 130.7로, 전월보다 1.6% 상승하며 3개월 연속 올랐다. 이는 2023년 2월 이후 3년 2개월 만의 최고 수준이다. 품목별로는 곡물, 유지류, 육류 가격이 상승했고 유제품과 설탕 가격은 하락했다. 유지류 가격지수는 전월보다 5.9% 올라 2022년 7월 이후 가장 높았고, 육류 가격지수는 1.2% 상승해 역대 최고치를 기록했다. 곡물 가격지수는 0.8% 올랐으며 쌀 가격도 1.9% 상승했다. 반면 유제품은 1.1%, 설탕은 4.7% 내렸다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "World Food Price Index Hits 3-Year High as Grains, Oils, Meat Rise",
-        "excerpt": "The FAO said on May 8 that the April World Food Price Index rose 1.6% from March to 130.7, its highest level in three years and two months.",
-        "body": "The UN Food and Agriculture Organization said on May 8 that the World Food Price Index for April reached 130.7, up 1.6% from the previous month and rising for a third straight month. It was the highest level since February 2023, or in three years and two months. By category, cereals, vegetable oils and meat prices rose, while dairy and sugar prices fell. The vegetable oil index climbed 5.9% from March to its highest since July 2022, and the meat index rose 1.2% to a record high. The cereal index gained 0.8%, while rice prices rose 1.9%. Dairy fell 1.1% and sugar dropped 4.7%. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "世界食料価格指数が3年2カ月ぶり高水準、穀物・油脂・肉類上昇",
-        "excerpt": "FAOが8日に発表した4月の世界食料価格指数は130.7となり、前月比1.6%上昇して3年2カ月ぶりの高水準となった。",
-        "body": "国連食糧農業機関(FAO)が8日に発表した4月の世界食料価格指数は130.7で、前月より1.6%上昇し、3カ月連続で上がった。2023年2月以来、3年2カ月ぶりの高い水準となる。品目別では穀物、植物油、肉類の価格が上昇し、乳製品と砂糖は下落した。植物油価格指数は前月比5.9%上がり、2022年7月以来の高水準となった。肉類価格指数は1.2%上昇し、過去最高を記録した。穀物価格指数は0.8%上昇し、コメ価格も1.9%上がった。一方、乳製品は1.1%、砂糖は4.7%下落した。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "世界食品价格指数创3年2个月新高，谷物、油脂和肉类上涨",
-        "excerpt": "联合国粮农组织8日发布的4月世界食品价格指数为130.7，环比上涨1.6%，升至3年2个月以来最高水平。",
-        "body": "联合国粮食及农业组织(FAO)8日发布的4月世界食品价格指数为130.7，较上月上涨1.6%，连续第三个月上升。这是自2023年2月以来、3年2个月的最高水平。按品类看，谷物、植物油和肉类价格上涨，乳制品和糖价下跌。植物油价格指数环比上涨5.9%，达到2022年7月以来最高水平；肉类价格指数上涨1.2%，创历史新高。谷物价格指数上涨0.8%，大米价格也上涨1.9%。相反，乳制品下跌1.1%，糖价下跌4.7%。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Índice mundial de alimentos toca máximo de 3 años por cereales, aceites y carne",
-        "excerpt": "La FAO informó el 8 de mayo que el índice mundial de precios de alimentos subió 1,6% en abril, a 130,7, su mayor nivel en 3 años y 2 meses.",
-        "body": "La Organización de las Naciones Unidas para la Alimentación y la Agricultura informó el 8 de mayo que el índice mundial de precios de los alimentos de abril llegó a 130,7, un alza mensual del 1,6% y el tercer aumento consecutivo. Es el nivel más alto desde febrero de 2023, en tres años y dos meses. Por grupos, subieron cereales, aceites vegetales y carne, mientras bajaron lácteos y azúcar. El índice de aceites vegetales avanzó 5,9% frente a marzo, el mayor nivel desde julio de 2022, y el de carne subió 1,2% hasta un récord. Los cereales aumentaron 0,8% y el arroz 1,9%. Los lácteos cayeron 1,1% y el azúcar 4,7%. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Índice global de alimentos atinge máxima de 3 anos com grãos, óleos e carnes",
-        "excerpt": "A FAO informou em 8 de maio que o índice mundial de preços dos alimentos subiu 1,6% em abril, para 130,7, maior nível em 3 anos e 2 meses.",
-        "body": "A Organização das Nações Unidas para a Alimentação e a Agricultura informou em 8 de maio que o índice mundial de preços dos alimentos de abril chegou a 130,7, alta de 1,6% ante o mês anterior e terceira subida seguida. Foi o maior nível desde fevereiro de 2023, em três anos e dois meses. Por categoria, cereais, óleos vegetais e carnes subiram, enquanto lácteos e açúcar recuaram. O índice de óleos vegetais avançou 5,9% ante março, o maior nível desde julho de 2022, e o de carnes subiu 1,2%, atingindo recorde. Cereais subiram 0,8% e arroz 1,9%. Lácteos caíram 1,1% e açúcar 4,7%. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Weltlebensmittelpreisindex auf 3-Jahres-Hoch: Getreide, Öle und Fleisch steigen",
-        "excerpt": "Die FAO meldete am 8. Mai für April einen Weltlebensmittelpreisindex von 130,7, 1,6% mehr als im März und den höchsten Stand seit 3 Jahren und 2 Monaten.",
-        "body": "Die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen meldete am 8. Mai, dass der Weltlebensmittelpreisindex im April 130,7 Punkte erreichte. Das waren 1,6% mehr als im Vormonat und der dritte monatliche Anstieg in Folge. Es war der höchste Stand seit Februar 2023, also seit drei Jahren und zwei Monaten. Nach Warengruppen stiegen Getreide, pflanzliche Öle und Fleisch, während Milchprodukte und Zucker sanken. Der Index für pflanzliche Öle legte gegenüber März um 5,9% zu und erreichte den höchsten Stand seit Juli 2022. Fleisch stieg um 1,2% auf ein Rekordhoch. Getreide gewann 0,8%, Reis 1,9%. Milchprodukte fielen um 1,1%, Zucker um 4,7%. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "L’indice mondial des prix alimentaires au plus haut en 3 ans, céréales et viande montent",
-        "excerpt": "La FAO a indiqué le 8 mai que l’indice mondial des prix alimentaires d’avril avait gagné 1,6%, à 130,7, son plus haut niveau en 3 ans et 2 mois.",
-        "body": "L’Organisation des Nations unies pour l’alimentation et l’agriculture a indiqué le 8 mai que l’indice mondial des prix alimentaires d’avril s’établissait à 130,7, en hausse de 1,6% sur un mois et en progression pour le troisième mois consécutif. Il s’agit du plus haut niveau depuis février 2023, soit en trois ans et deux mois. Par catégorie, les prix des céréales, des huiles végétales et de la viande ont augmenté, tandis que les produits laitiers et le sucre ont reculé. L’indice des huiles végétales a gagné 5,9% par rapport à mars, au plus haut depuis juillet 2022, et celui de la viande a progressé de 1,2% à un record. Les céréales ont augmenté de 0,8% et le riz de 1,9%. Les produits laitiers ont baissé de 1,1% et le sucre de 4,7%. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مؤشر أسعار الغذاء العالمي يبلغ أعلى مستوى في 3 سنوات مع صعود الحبوب والزيوت واللحوم",
-        "excerpt": "قالت الفاو في 8 مايو إن مؤشر أسعار الغذاء العالمي في أبريل ارتفع 1.6% إلى 130.7، مسجلا أعلى مستوى في 3 سنوات وشهرين.",
-        "body": "قالت منظمة الأغذية والزراعة التابعة للأمم المتحدة في 8 مايو إن مؤشر أسعار الغذاء العالمي لشهر أبريل بلغ 130.7 نقطة، مرتفعا 1.6% عن الشهر السابق ومحققا زيادة للشهر الثالث على التوالي. وهذا أعلى مستوى منذ فبراير 2023، أي منذ ثلاث سنوات وشهرين. وبحسب الفئات، ارتفعت أسعار الحبوب والزيوت النباتية واللحوم، بينما تراجعت أسعار منتجات الألبان والسكر. وصعد مؤشر الزيوت النباتية 5.9% عن مارس إلى أعلى مستوى منذ يوليو 2022، وارتفع مؤشر اللحوم 1.2% إلى مستوى قياسي. وزاد مؤشر الحبوب 0.8%، كما ارتفعت أسعار الأرز 1.9%. في المقابل، هبطت منتجات الألبان 1.1% والسكر 4.7%. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "विश्व खाद्य मूल्य सूचकांक 3 साल 2 माह के उच्च स्तर पर, अनाज-तेल-मांस महंगे",
-        "excerpt": "FAO ने 8 मई को बताया कि अप्रैल का विश्व खाद्य मूल्य सूचकांक 1.6% बढ़कर 130.7 पर पहुंचा, जो 3 साल 2 महीने का उच्चतम स्तर है।",
-        "body": "संयुक्त राष्ट्र के खाद्य और कृषि संगठन ने 8 मई को बताया कि अप्रैल का विश्व खाद्य मूल्य सूचकांक 130.7 रहा, जो पिछले महीने से 1.6% अधिक है और लगातार तीसरे महीने बढ़ा है। यह फरवरी 2023 के बाद, यानी तीन साल और दो महीने में, सबसे ऊंचा स्तर है। श्रेणी के आधार पर अनाज, वनस्पति तेल और मांस की कीमतें बढ़ीं, जबकि डेयरी उत्पाद और चीनी सस्ती हुई। वनस्पति तेल सूचकांक मार्च से 5.9% बढ़कर जुलाई 2022 के बाद सबसे ऊंचे स्तर पर पहुंचा। मांस सूचकांक 1.2% चढ़कर रिकॉर्ड स्तर पर गया। अनाज सूचकांक 0.8% और चावल की कीमत 1.9% बढ़ी। वहीं डेयरी 1.1% और चीनी 4.7% घटी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Indeks Harga Pangan Dunia Tertinggi 3 Tahun, Sereal, Minyak dan Daging Naik",
-        "excerpt": "FAO pada 8 Mei menyatakan Indeks Harga Pangan Dunia April naik 1,6% menjadi 130,7, level tertinggi dalam 3 tahun 2 bulan.",
-        "body": "Organisasi Pangan dan Pertanian PBB pada 8 Mei menyatakan Indeks Harga Pangan Dunia April mencapai 130,7, naik 1,6% dari bulan sebelumnya dan meningkat untuk bulan ketiga berturut-turut. Ini merupakan level tertinggi sejak Februari 2023, atau dalam tiga tahun dua bulan. Berdasarkan kelompok, harga sereal, minyak nabati, dan daging naik, sementara produk susu dan gula turun. Indeks minyak nabati naik 5,9% dari Maret ke level tertinggi sejak Juli 2022, dan indeks daging naik 1,2% ke rekor tertinggi. Indeks sereal meningkat 0,8%, sementara harga beras naik 1,9%. Sebaliknya, produk susu turun 1,1% dan gula turun 4,7%. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9896b7e489f8",
-    "slug": "부고-이방우금융감독원-공보실-공보기획팀장씨-모친상-801807",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T11:14:23.408Z",
-    "updatedAt": "2026-05-09T11:14:23.408Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509043600505",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509043600505",
-    "titleFingerprint": "c09c485b53bbb156a4f58ba95243536764a018ab",
-    "dedupKeys": [
-      "9896b7e489f84bf804dbb67157afe82edd431b42",
-      "c09c485b53bbb156a4f58ba95243536764a018ab",
-      "4ee7bba0a885f1d87ac8a54a274aacce6275d75e"
-    ],
-    "imageUrl": "/images/articles/9896b7e489f8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "금융감독원 공보기획팀장 이방우 씨 모친 송자화 씨 별세",
-        "excerpt": "송자화 씨가 9일 오후 2시 향년 84세로 별세했다. 고인은 이방우 금융감독원 공보실 공보기획팀장의 모친으로, 빈소는 제주 서귀포시 안덕면 서광서리 복지회관에 마련됐다.",
-        "body": "송자화 씨가 9일 오후 2시 향년 84세로 별세했다. 고인은 이방우 금융감독원 공보실 공보기획팀장의 모친이다. 빈소는 제주 서귀포시 안덕면 서광서리 복지회관에 마련됐다. 이번 부고는 금융감독원 공보실 소속 간부의 모친상으로 전해졌으며, 원문에는 별세 시각과 고인의 나이, 유족 관계, 빈소 위치가 포함됐다. 장례와 관련한 추가 일정은 원문 요약에 공개된 범위 안에서는 확인되지 않았다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "FSS Public Relations Planning Team Head Lee Bang-woo Mourns Mother",
-        "excerpt": "Song Ja-hwa died at 2 p.m. on the 9th at age 84. She was the mother of Lee Bang-woo, head of the Public Relations Planning Team at South Korea’s Financial Supervisory Service.",
-        "body": "Song Ja-hwa died at 2 p.m. on the 9th at the age of 84. She was the mother of Lee Bang-woo, head of the Public Relations Planning Team in the Public Relations Office of South Korea’s Financial Supervisory Service. The funeral venue was arranged at the welfare center in Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. The notice identifies the time of death, the deceased’s age, the family relationship and the funeral location. No further funeral schedule was confirmed within the provided summary. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "金融監督院広報企画チーム長の李邦雨氏、母・宋子花さん死去",
-        "excerpt": "宋子花さんが9日午後2時、84歳で死去した。宋さんは金融監督院広報室広報企画チーム長の李邦雨氏の母で、葬儀場は済州西帰浦市に設けられた。",
-        "body": "宋子花さんが9日午後2時、84歳で死去した。故人は金融監督院広報室広報企画チーム長を務める李邦雨氏の母。葬儀場は済州特別自治道西帰浦市安徳面西広西里の福祉会館に設けられた。今回の訃報は、金融監督院広報室所属幹部の母の死去として伝えられた。原文には死亡時刻、故人の年齢、遺族関係、葬儀場の所在地が示されている。葬儀に関する追加日程は、提示された要約の範囲では確認されていない。出典: yna.co.kr。"
-      },
-      "zh": {
-        "title": "韩国金融监督院公报企划组长李邦雨母亲宋子花去世",
-        "excerpt": "宋子花于9日下午2时去世，享年84岁。她是韩国金融监督院公报室公报企划组长李邦雨的母亲，灵堂设在济州西归浦市安德面西广西里福利会馆。",
-        "body": "宋子花于9日下午2时去世，享年84岁。逝者是韩国金融监督院公报室公报企划组长李邦雨的母亲。灵堂设在济州西归浦市安德面西广西里福利会馆。该讣告涉及金融监督院公报室一名干部的母亲去世，原文提供了去世时间、逝者年龄、亲属关系以及灵堂地点。关于葬礼的其他具体日程，在所给摘要范围内尚未确认。来源: yna.co.kr。"
-      },
-      "es": {
-        "title": "Fallece Song Ja-hwa, madre de Lee Bang-woo, directivo del FSS",
-        "excerpt": "Song Ja-hwa falleció el día 9 a las 2 p.m. a los 84 años. Era la madre de Lee Bang-woo, jefe del equipo de planificación de prensa del Servicio de Supervisión Financiera de Corea del Sur.",
-        "body": "Song Ja-hwa falleció el día 9 a las 2 p.m. a los 84 años. Era la madre de Lee Bang-woo, jefe del Equipo de Planificación de Comunicaciones en la Oficina de Prensa del Servicio de Supervisión Financiera de Corea del Sur. El velatorio fue dispuesto en el centro de bienestar de Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. La nota informa la hora del fallecimiento, la edad de la difunta, el vínculo familiar y el lugar del velatorio. No se confirmaron otros detalles del funeral en el resumen disponible. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Morre Song Ja-hwa, mãe de Lee Bang-woo, chefe de comunicação do FSS",
-        "excerpt": "Song Ja-hwa morreu no dia 9, às 14h, aos 84 anos. Ela era mãe de Lee Bang-woo, chefe da equipe de planejamento de comunicação do Serviço de Supervisão Financeira da Coreia do Sul.",
-        "body": "Song Ja-hwa morreu no dia 9, às 14h, aos 84 anos. Ela era mãe de Lee Bang-woo, chefe da Equipe de Planejamento de Comunicação do Escritório de Relações Públicas do Serviço de Supervisão Financeira da Coreia do Sul. O velório foi organizado no centro comunitário de Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. A nota informa o horário da morte, a idade da falecida, a relação familiar e o local do velório. Outros detalhes do funeral não foram confirmados no resumo fornecido. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Song Ja-hwa, Mutter von FSS-Kommunikationschef Lee Bang-woo, gestorben",
-        "excerpt": "Song Ja-hwa starb am 9. um 14 Uhr im Alter von 84 Jahren. Sie war die Mutter von Lee Bang-woo, Leiter des Planungsteams für Öffentlichkeitsarbeit bei Südkoreas Finanzaufsicht FSS.",
-        "body": "Song Ja-hwa ist am 9. um 14 Uhr im Alter von 84 Jahren gestorben. Sie war die Mutter von Lee Bang-woo, dem Leiter des Planungsteams für Öffentlichkeitsarbeit im Pressebüro der südkoreanischen Finanzaufsicht FSS. Die Trauerstätte wurde im Wohlfahrtszentrum in Seogwang-seo-ri, Andeok-myeon, Seogwipo auf Jeju eingerichtet. Die Meldung nennt Todeszeit, Alter der Verstorbenen, Familienbeziehung und Ort der Trauerstätte. Weitere Angaben zum Ablauf der Beisetzung wurden in der vorliegenden Zusammenfassung nicht bestätigt. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Décès de Song Ja-hwa, mère de Lee Bang-woo, responsable au FSS",
-        "excerpt": "Song Ja-hwa est décédée le 9 à 14 h, à l’âge de 84 ans. Elle était la mère de Lee Bang-woo, chef de l’équipe de planification de la communication du Service de supervision financière sud-coréen.",
-        "body": "Song Ja-hwa est décédée le 9 à 14 h, à l’âge de 84 ans. Elle était la mère de Lee Bang-woo, chef de l’équipe de planification de la communication au sein du bureau de presse du Service de supervision financière de Corée du Sud. La chambre funéraire a été installée au centre de bien-être de Seogwang-seo-ri, Andeok-myeon, Seogwipo, sur l’île de Jeju. L’avis précise l’heure du décès, l’âge de la défunte, le lien familial et le lieu des obsèques. Aucun autre calendrier funéraire n’est confirmé dans le résumé fourni. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "وفاة سونغ جا هوا والدة لي بانغ وو مسؤول الإعلام في الرقابة المالية",
-        "excerpt": "توفيت سونغ جا هوا في الساعة الثانية بعد ظهر يوم 9 عن عمر 84 عاما. وهي والدة لي بانغ وو، رئيس فريق تخطيط الإعلام في مكتب العلاقات العامة بهيئة الرقابة المالية في كوريا الجنوبية.",
-        "body": "توفيت سونغ جا هوا في الساعة الثانية بعد ظهر يوم 9 عن عمر 84 عاما. والراحلة هي والدة لي بانغ وو، رئيس فريق تخطيط الإعلام في مكتب العلاقات العامة بهيئة الرقابة المالية في كوريا الجنوبية. وأقيمت قاعة العزاء في مركز الرعاية في سيوغوانغ-سيو-ري، أنديوك-ميون، سيوغويبو في جزيرة جيجو. يورد النعي وقت الوفاة وعمر الراحلة وصلة القرابة ومكان العزاء. ولم يتم تأكيد أي جدول إضافي للجنازة ضمن الملخص المتاح. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "FSS जनसंपर्क योजना प्रमुख ली बांग-वू की मां सोंग जा-ह्वा का निधन",
-        "excerpt": "सोंग जा-ह्वा का 9 तारीख को दोपहर 2 बजे 84 वर्ष की आयु में निधन हो गया। वह दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा के जनसंपर्क योजना टीम प्रमुख ली बांग-वू की मां थीं।",
-        "body": "सोंग जा-ह्वा का 9 तारीख को दोपहर 2 बजे 84 वर्ष की आयु में निधन हो गया। वह दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा के जनसंपर्क कार्यालय में जनसंपर्क योजना टीम प्रमुख ली बांग-वू की मां थीं। शोक स्थल जेजू के सोग्विपो शहर, आंदोक-म्योन, सोग्वांग-सो-री स्थित कल्याण केंद्र में रखा गया है। इस सूचना में निधन का समय, दिवंगत की आयु, पारिवारिक संबंध और शोक स्थल का पता शामिल है। उपलब्ध सारांश में अंतिम संस्कार से जुड़ी अतिरिक्त समय-सारिणी की पुष्टि नहीं की गई है। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Song Ja-hwa, Ibu Lee Bang-woo Pejabat Humas FSS, Meninggal Dunia",
-        "excerpt": "Song Ja-hwa meninggal pada tanggal 9 pukul 14.00 dalam usia 84 tahun. Ia adalah ibu Lee Bang-woo, kepala Tim Perencanaan Humas di Kantor Humas Layanan Pengawas Keuangan Korea Selatan.",
-        "body": "Song Ja-hwa meninggal pada tanggal 9 pukul 14.00 dalam usia 84 tahun. Ia adalah ibu Lee Bang-woo, kepala Tim Perencanaan Humas di Kantor Humas Layanan Pengawas Keuangan Korea Selatan. Rumah duka disiapkan di balai kesejahteraan Seogwang-seo-ri, Andeok-myeon, Seogwipo, Jeju. Berita duka ini memuat waktu wafat, usia almarhumah, hubungan keluarga, dan lokasi rumah duka. Jadwal tambahan terkait pemakaman tidak terkonfirmasi dalam ringkasan yang diberikan. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "487ade3f69a6",
-    "slug": "삼성전자-노조-다시-협상-테이블로사후조정-절차-돌입-584343",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T11:13:31.616Z",
-    "updatedAt": "2026-05-09T11:13:31.617Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887111/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260508/133887111/2",
-    "titleFingerprint": "8064bafe86b3ce14bf98cc6b7fa5ff417a3bb2db",
-    "dedupKeys": [
-      "487ade3f69a6ae62696d17163f3d155b88eda8ba",
-      "8064bafe86b3ce14bf98cc6b7fa5ff417a3bb2db",
-      "f2c180362d02d1fe7a98ee2a1fda6d68e39dd14a"
-    ],
-    "imageUrl": "/images/articles/487ade3f69a6.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노조, 사후조정 참여로 협상 재개…21일 총파업 예고는 유지",
-        "excerpt": "삼성전자 최대 노조인 초기업노조 삼성전자 지부가 8일 정부 요청에 따라 사후조정 절차 참여를 결정하고 사측과 협상 재개에 나섰다.",
-        "body": "삼성전자 최대 노동조합인 초기업노조 삼성전자 지부가 8일 정부가 요청한 사후조정 절차에 참여하겠다고 밝혔다. 노조는 이날 김도형 경기지방고용노동청장과 면담한 뒤 사측과 노사정 미팅을 진행하고 “사후조정 절차를 통한 협상 재개에 나선다”고 설명했다. 노조에 따르면 노동부는 사안의 중대성을 인식하고 정부 차원의 교섭 지원을 약속하며 사후조정 참여를 강력히 권유했다. 노조는 정부의 적극적 의지와 반복된 요청을 고려해 내부 검토 후 참여를 결정했다고 밝혔다. 이번 절차에는 최승호, 이송이, 김재원 위원 등 3명이 참여한다. 최승호 지부장은 조합원이 만족할 결과가 없으면 총파업에 나서겠다고 했으며, 노조는 21일 총파업을 예고한 상태다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Union Returns to Talks Through Post-Mediation as Strike Looms",
-        "excerpt": "Samsung Electronics’ largest union said on the 8th it will join the government-requested post-mediation process and resume negotiations with management.",
-        "body": "Samsung Electronics’ largest labor union, the Samsung Electronics branch of the supra-enterprise union, said on the 8th that it would participate in the post-mediation process requested by the government. After meeting Kim Do-hyung, head of the Gyeonggi Regional Employment and Labor Office, the union held a labor-management-government meeting with the company and said it would “resume negotiations through the post-mediation process.” According to the union, the Labor Ministry recognized the seriousness of the matter, promised full government-level support for bargaining, and strongly recommended the procedure. The union said it accepted after internal review, citing the government’s active will and repeated requests. Three union representatives, Choi Seung-ho, Lee Song-yi and Kim Jae-won, will participate. Choi said the union would launch a general strike without hesitation if members are not satisfied, and the union has announced a strike for the 21st. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子労組、事後調整参加で交渉再開へ…21日スト予告は維持",
-        "excerpt": "サムスン電子最大労組の超企業労組サムスン電子支部は8日、政府要請の事後調整手続きに参加し、会社側との交渉再開に入ると明らかにした。",
-        "body": "サムスン電子最大労働組合である超企業労組サムスン電子支部は8日、政府が要請した事後調整手続きに参加する意向を示した。同支部は同日、金度亨・京畿地方雇用労働庁長との面談後、会社側と労使政会合を開き、「事後調整手続きを通じて交渉再開に乗り出す」と説明した。労組によると、労働部は今回の事案の重大性を認識し、政府レベルで交渉を全面支援すると約束したうえで、事後調整を強く勧めた。労組は政府側の積極的な姿勢と度重なる要請を重く受け止め、内部検討を経て参加を決めたという。参加する労組側は崔承鎬、李松怡、金載元の3人。崔支部長は組合員が満足する結果が出なければ総ストに入ると強調し、労組は21日の総ストを予告している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子工会同意参与事后调解重启谈判，21日总罢工预告仍在",
-        "excerpt": "三星电子最大工会超企业工会三星电子支部8日表示，将按政府要求参与事后调解程序，并与公司方面重启谈判。",
-        "body": "三星电子最大工会、超企业工会三星电子支部8日表示，将参与政府要求的事后调解程序。该支部当天会见京畿地方雇佣劳动厅厅长金度亨后，又与公司方面举行劳资政会议，并称将“通过事后调解程序重启谈判”。据工会介绍，劳动部深刻认识到此事的重要性，承诺从政府层面对谈判给予全面支持，并强烈建议参与事后调解。工会表示，考虑到政府方面的积极意愿和反复请求，经内部讨论后决定接受该程序。参与事后调解的工会方面人员为崔承镐、李松怡、金载元等3人。崔承镐支部长强调，如果不能取得让会员满意的结果，将毫不犹豫地发动总罢工。三星电子工会目前已预告21日举行总罢工。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Sindicato de Samsung Electronics reanuda negociaciones vía mediación posterior",
-        "excerpt": "El mayor sindicato de Samsung Electronics dijo el día 8 que aceptará la mediación posterior solicitada por el Gobierno y retomará las conversaciones con la empresa.",
-        "body": "La filial de Samsung Electronics del sindicato supraempresarial, el mayor sindicato de la compañía, anunció el día 8 que participará en el procedimiento de mediación posterior solicitado por el Gobierno. Tras reunirse con Kim Do-hyung, jefe de la Oficina Regional de Empleo y Trabajo de Gyeonggi, el sindicato mantuvo una reunión laboral, empresarial y gubernamental con la dirección y dijo que “reanudaría las negociaciones mediante la mediación posterior”. Según el sindicato, el Ministerio de Trabajo reconoció la gravedad del asunto, prometió apoyo gubernamental pleno a la negociación y recomendó firmemente el procedimiento. La organización explicó que aceptó tras una revisión interna, considerando la voluntad activa y las repetidas solicitudes del Gobierno. Participarán tres representantes sindicales: Choi Seung-ho, Lee Song-yi y Kim Jae-won. Choi afirmó que irán a una huelga general si los afiliados no quedan satisfechos; el paro está anunciado para el día 21. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Sindicato da Samsung Electronics volta à mesa por mediação pós-acordo do governo",
-        "excerpt": "O maior sindicato da Samsung Electronics afirmou no dia 8 que aceitará o procedimento de mediação posterior solicitado pelo governo e retomará as negociações.",
-        "body": "A filial da Samsung Electronics do sindicato supraempresarial, o maior sindicato da companhia, informou no dia 8 que participará do procedimento de mediação posterior solicitado pelo governo. Após reunião com Kim Do-hyung, chefe do Escritório Regional de Emprego e Trabalho de Gyeonggi, o sindicato se encontrou com a empresa em uma reunião entre trabalhadores, gestão e governo e afirmou que “retomará as negociações por meio da mediação posterior”. Segundo o sindicato, o Ministério do Trabalho reconheceu a gravidade do caso, prometeu apoio governamental amplo às negociações e recomendou fortemente o procedimento. A entidade disse ter aceitado após análise interna, levando em conta a postura ativa e os pedidos repetidos do governo. Três representantes participarão: Choi Seung-ho, Lee Song-yi e Kim Jae-won. Choi disse que haverá greve geral se os membros não ficarem satisfeitos; o sindicato anunciou paralisação para o dia 21. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung-Electronics-Gewerkschaft nimmt Nachschlichtung an und verhandelt wieder",
-        "excerpt": "Die größte Gewerkschaft von Samsung Electronics erklärte am 8., sie werde dem von der Regierung gewünschten Nachschlichtungsverfahren beitreten und Gespräche neu aufnehmen.",
-        "body": "Die Samsung-Electronics-Sparte der überbetrieblichen Gewerkschaft, die größte Arbeitnehmervertretung des Unternehmens, teilte am 8. mit, sie werde an dem von der Regierung beantragten Nachschlichtungsverfahren teilnehmen. Nach einem Treffen mit Kim Do-hyung, Leiter des regionalen Arbeitsamts Gyeonggi, kam die Gewerkschaft mit Unternehmensseite und Regierung zu einem Dreiertreffen zusammen und erklärte, sie werde “die Verhandlungen über das Nachschlichtungsverfahren wieder aufnehmen”. Nach Angaben der Gewerkschaft erkannte das Arbeitsministerium die Schwere des Falls an, versprach umfassende staatliche Unterstützung für die Verhandlungen und empfahl das Verfahren nachdrücklich. Die Gewerkschaft akzeptierte nach interner Prüfung, unter Verweis auf den aktiven Willen und die wiederholten Bitten der Regierung. Teilnehmen werden Choi Seung-ho, Lee Song-yi und Kim Jae-won. Choi sagte, bei unzureichendem Ergebnis werde ein Generalstreik folgen; angekündigt ist er für den 21. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le syndicat de Samsung Electronics reprend les négociations via une post-médiation",
-        "excerpt": "Le plus grand syndicat de Samsung Electronics a annoncé le 8 qu’il participerait à la post-médiation demandée par le gouvernement afin de reprendre les discussions.",
-        "body": "La branche Samsung Electronics du syndicat supra-entreprise, la plus grande organisation syndicale du groupe, a déclaré le 8 qu’elle participerait à la procédure de post-médiation demandée par le gouvernement. Après un entretien avec Kim Do-hyung, chef du bureau régional de l’emploi et du travail de Gyeonggi, le syndicat a tenu une réunion tripartite avec la direction et les autorités, puis a indiqué qu’il “reprendrait les négociations par la procédure de post-médiation”. Selon le syndicat, le ministère du Travail a reconnu la gravité du dossier, promis un soutien gouvernemental complet aux négociations et fortement recommandé cette procédure. L’organisation dit avoir accepté après examen interne, en tenant compte de la volonté active et des demandes répétées du gouvernement. Trois représentants y participeront: Choi Seung-ho, Lee Song-yi et Kim Jae-won. Choi a prévenu qu’une grève générale aurait lieu si les membres ne sont pas satisfaits; elle est annoncée pour le 21. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "نقابة سامسونغ إلكترونيكس تعود للتفاوض عبر وساطة لاحقة وسط تلويح بإضراب عام",
-        "excerpt": "أعلنت أكبر نقابة في سامسونغ إلكترونيكس في الثامن من الشهر أنها ستشارك في إجراء الوساطة اللاحقة الذي طلبته الحكومة لاستئناف التفاوض مع الإدارة.",
-        "body": "أعلنت فرع سامسونغ إلكترونيكس في النقابة فوق المؤسسية، وهي أكبر نقابة عمالية في الشركة، في الثامن من الشهر أنها ستشارك في إجراء الوساطة اللاحقة الذي طلبته الحكومة. وبعد لقاء مع كيم دو هيونغ، رئيس مكتب العمل والتوظيف الإقليمي في غيونغي، عقدت النقابة اجتماعا ثلاثيا مع الشركة والحكومة، وقالت إنها “ستستأنف المفاوضات عبر إجراء الوساطة اللاحقة”. ووفقا للنقابة، أدركت وزارة العمل خطورة القضية، ووعدت بدعم حكومي كامل للمفاوضات، كما أوصت بقوة بالمشاركة في الإجراء. وقالت النقابة إنها قبلت بعد مراجعة داخلية، آخذة في الاعتبار الإرادة النشطة للحكومة وطلباتها المتكررة. وسيشارك من جانب النقابة ثلاثة هم تشوي سونغ هو، ولي سونغ يي، وكيم جاي وون. وأكد تشوي أنه إذا لم تظهر نتيجة ترضي الأعضاء فسيمضون إلى إضراب عام، وقد أعلنت النقابة إضرابا في الحادي والعشرين. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सैमसंग इलेक्ट्रॉनिक्स यूनियन पोस्ट-मध्यस्थता में शामिल, बातचीत फिर शुरू",
-        "excerpt": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी यूनियन ने 8 तारीख को कहा कि वह सरकार के अनुरोध पर पोस्ट-मध्यस्थता प्रक्रिया में शामिल होकर प्रबंधन से बातचीत फिर शुरू करेगी।",
-        "body": "सैमसंग इलेक्ट्रॉनिक्स की सबसे बड़ी श्रमिक यूनियन, सुप्रा-एंटरप्राइज यूनियन की सैमसंग इलेक्ट्रॉनिक्स शाखा ने 8 तारीख को कहा कि वह सरकार द्वारा अनुरोधित पोस्ट-मध्यस्थता प्रक्रिया में भाग लेगी। यूनियन ने उसी दिन ग्योंगगी क्षेत्रीय रोजगार और श्रम कार्यालय के प्रमुख किम दो-ह्यंग से मुलाकात के बाद कंपनी के साथ श्रम-प्रबंधन-सरकार बैठक की और कहा कि वह “पोस्ट-मध्यस्थता प्रक्रिया के जरिए बातचीत फिर शुरू करेगी।” यूनियन के अनुसार, श्रम मंत्रालय ने मामले की गंभीरता को समझते हुए वार्ता के लिए सरकारी स्तर पर पूर्ण समर्थन का वादा किया और प्रक्रिया की जोरदार सिफारिश की। यूनियन ने कहा कि सरकार की सक्रिय इच्छा और बार-बार अनुरोधों को देखते हुए आंतरिक समीक्षा के बाद उसने भाग लेने का निर्णय लिया। यूनियन की ओर से चोई स्युंग-हो, ली सोंग-यी और किम जे-वोन भाग लेंगे। चोई ने कहा कि यदि सदस्यों को संतोषजनक परिणाम नहीं मिला तो आम हड़ताल होगी; यूनियन ने 21 तारीख को हड़ताल की चेतावनी दी है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Serikat Samsung Electronics Ikut Mediasi Lanjutan, Negosiasi dengan Manajemen Dibuka Lagi",
-        "excerpt": "Serikat terbesar Samsung Electronics pada tanggal 8 menyatakan akan mengikuti prosedur mediasi lanjutan yang diminta pemerintah dan kembali berunding dengan perusahaan.",
-        "body": "Cabang Samsung Electronics dari serikat supra-perusahaan, serikat pekerja terbesar di Samsung Electronics, menyatakan pada tanggal 8 bahwa pihaknya akan mengikuti prosedur mediasi lanjutan yang diminta pemerintah. Setelah bertemu Kim Do-hyung, kepala Kantor Ketenagakerjaan dan Perburuhan Regional Gyeonggi, serikat mengadakan pertemuan buruh-manajemen-pemerintah dengan perusahaan dan mengatakan akan “memulai kembali negosiasi melalui prosedur mediasi lanjutan”. Menurut serikat, Kementerian Ketenagakerjaan memahami seriusnya persoalan ini, menjanjikan dukungan penuh di tingkat pemerintah untuk perundingan, serta sangat menganjurkan prosedur tersebut. Serikat mengatakan keputusan diambil setelah peninjauan internal dengan mempertimbangkan sikap aktif dan permintaan berulang pemerintah. Tiga perwakilan serikat yang ikut adalah Choi Seung-ho, Lee Song-yi, dan Kim Jae-won. Choi menegaskan akan melakukan mogok umum bila hasilnya tidak memuaskan anggota; serikat telah mengumumkan mogok pada tanggal 21. Sumber: rss.donga.com"
       }
     }
   }
