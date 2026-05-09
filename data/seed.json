@@ -1,5 +1,230 @@
 [
   {
+    "id": "d02196ab8cb0",
+    "slug": "서울-집값-상승폭-둔화했지만67월-매물-부족-가능성-534910",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T02:02:12.584Z",
+    "updatedAt": "2026-05-09T02:02:12.584Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890345/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260509/133890345/1",
+    "titleFingerprint": "b00b5bda20787be1c672f8fe6a71b29b5cff5e5f",
+    "dedupKeys": [
+      "d02196ab8cb0093324d33784ad4f6a73c856d1bd",
+      "b00b5bda20787be1c672f8fe6a71b29b5cff5e5f",
+      "e72d2dcfc701ca07ee474f9888c1e71449639638"
+    ],
+    "imageUrl": "/images/articles/d02196ab8cb0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "서울 아파트값 상승폭 둔화…양도세 유예 종료 뒤 매물 부족 우려",
+        "excerpt": "5월 첫째 주 서울 아파트값 상승률이 0.18%로 낮아졌지만, 다주택자 양도세 중과 유예 종료를 앞두고 급매물이 소화되며 6~7월 매물 부족 가능성이 제기됐다.",
+        "body": "서울 아파트값 상승세가 5월 첫째 주에도 이어졌지만 상승폭은 둔화됐다. 9일 KB부동산 주간 아파트시장 동향에 따르면 5월 첫째 주, 4일 기준 서울 아파트값 상승률은 0.18%로 전주 0.21%보다 낮아져 2주 연속 오름세가 약해졌다. 다주택자 양도세 중과 유예 종료를 앞두고 세금 회피성 저가 매물이 거래된 영향으로 풀이된다. 지역별로는 중구가 0.73%, 노원구와 도봉구가 각각 0.31% 상승하며 외곽 지역 중심의 강세가 나타났다. 반면 고가 주택이 몰린 강남구는 -0.16%로 10주째 하락했다. 급매물이 상당 부분 소화되고 신규 매물 출회도 주춤하면서 유예 종료 이후 6~7월 시장에서 매물 부족이 나타날 수 있다는 전망이 나온다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Seoul Apartment Price Gains Slow as Listings Shortage Concerns Grow",
+        "excerpt": "Seoul apartment prices rose 0.18% in the first week of May, but concerns are rising that listings could tighten in June and July after the capital gains tax grace period ends.",
+        "body": "Seoul apartment prices continued to rise in the first week of May, but the pace of gains slowed. According to KB Real Estate’s weekly apartment market report on May 9, Seoul apartment prices rose 0.18% in the first week of May, based on May 4, down from 0.21% a week earlier. The upward momentum weakened for a second straight week. The move came as low-priced listings aimed at avoiding taxes were sold ahead of the end of the grace period on heavier capital gains taxes for multiple-home owners. By district, Jung-gu rose 0.73%, while Nowon-gu and Dobong-gu each gained 0.31%, showing strength mainly in outer areas. Gangnam-gu, where high-priced homes are concentrated, fell 0.16%, extending its decline to a 10th week. With many urgent-sale listings already absorbed and new listings slowing, some expect a shortage of available homes in June and July after the grace period ends. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "ソウルのマンション価格上昇鈍化、譲渡税猶予終了後の物件不足懸念",
+        "excerpt": "5月第1週のソウルのマンション価格上昇率は0.18%に低下したが、多住宅所有者への譲渡税重課猶予終了を控え、6～7月の物件不足が懸念されている。",
+        "body": "ソウルのマンション価格は5月第1週も上昇したが、上昇幅は縮小した。9日のKB不動産の週間マンション市場動向によると、5月第1週、4日基準のソウルのマンション価格上昇率は0.18%で、前週の0.21%を下回り、2週連続で上昇の勢いが弱まった。多住宅所有者に対する譲渡税重課猶予の終了を前に、税負担を避けるための低価格物件が取引された影響とみられる。地域別では中区が0.73%、蘆原区と道峰区がそれぞれ0.31%上昇し、外郭地域を中心に強さが出た。一方、高額住宅が集まる江南区は-0.16%で10週連続の下落となった。急売物件の多くが消化され、新規物件の供給も鈍るなか、猶予終了後の6～7月に市場で物件不足が起きる可能性が指摘されている。出所: rss.donga.com"
+      },
+      "zh": {
+        "title": "首尔公寓涨幅放缓，资本利得税宽限期结束后或现房源不足",
+        "excerpt": "5月第一周首尔公寓价格上涨0.18%，涨幅低于前一周；随着多房产者转让税重税宽限期临近结束，6至7月可能出现房源不足。",
+        "body": "首尔公寓价格在5月第一周继续上涨，但涨幅有所放缓。根据KB房地产9日发布的每周公寓市场动向，截至5月4日的5月第一周，首尔公寓价格上涨率为0.18%，低于前一周的0.21%，连续两周涨势减弱。原因被认为是多房产者转让税重税宽限期即将结束，部分为避税而推出的低价房源陆续成交。分地区看，中区上涨0.73%，芦原区和道峰区各上涨0.31%，外围地区涨势较明显。相反，高价住宅集中的江南区下跌0.16%，已连续10周走低。由于急售房源相当一部分已被消化，新房源挂牌也出现放缓，市场预计宽限期结束后的6至7月可能出现房源不足。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Seúl modera la subida de apartamentos y crece el temor a falta de oferta",
+        "excerpt": "Los apartamentos de Seúl subieron 0,18% en la primera semana de mayo, pero el fin de la moratoria fiscal para multipropietarios podría reducir la oferta en junio y julio.",
+        "body": "Los precios de los apartamentos en Seúl siguieron subiendo en la primera semana de mayo, aunque a un ritmo menor. Según el informe semanal del mercado de apartamentos de KB Real Estate publicado el día 9, el alza fue de 0,18% en la primera semana de mayo, con base en el día 4, frente al 0,21% de la semana anterior. La subida se moderó por segunda semana consecutiva. El cambio se relaciona con la venta de propiedades a bajo precio destinadas a evitar impuestos antes del fin de la moratoria sobre el recargo del impuesto a las ganancias de capital para propietarios de varias viviendas. Por zonas, Jung-gu subió 0,73%, y Nowon-gu y Dobong-gu avanzaron 0,31% cada una, con fortaleza en áreas periféricas. En cambio, Gangnam-gu, concentrada en viviendas caras, cayó 0,16% y acumuló 10 semanas de descenso. Con buena parte de las ventas urgentes ya absorbida y menos nuevas propiedades en oferta, se prevé posible escasez de listados en junio y julio. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Alta dos apartamentos em Seul desacelera e cresce temor de falta de oferta",
+        "excerpt": "Os apartamentos de Seul subiram 0,18% na primeira semana de maio, mas o fim da suspensão do imposto mais pesado para multiproprietários pode reduzir a oferta em junho e julho.",
+        "body": "Os preços dos apartamentos em Seul continuaram subindo na primeira semana de maio, mas em ritmo menor. Segundo o relatório semanal do mercado de apartamentos da KB Real Estate, divulgado no dia 9, a alta foi de 0,18% na primeira semana de maio, com base no dia 4, abaixo dos 0,21% da semana anterior. Foi a segunda semana seguida de perda de força. O movimento é atribuído à venda de imóveis de baixo preço para evitar impostos antes do fim da suspensão da cobrança mais pesada de imposto sobre ganhos de capital para proprietários de múltiplas casas. Por região, Jung-gu subiu 0,73%, enquanto Nowon-gu e Dobong-gu avançaram 0,31% cada, com destaque para áreas periféricas. Já Gangnam-gu, onde se concentram imóveis caros, caiu 0,16% e completou 10 semanas de queda. Como grande parte das vendas urgentes já foi absorvida e novas ofertas desaceleram, há expectativa de falta de imóveis disponíveis em junho e julho. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Seouls Wohnungspreise steigen langsamer, Sorge vor weniger Angeboten wächst",
+        "excerpt": "Seouls Apartmentpreise legten in der ersten Maiwoche um 0,18% zu. Nach dem Ende der Steueraufschubregel für Mehrfachbesitzer könnten im Juni und Juli Angebote knapp werden.",
+        "body": "Die Apartmentpreise in Seoul sind in der ersten Maiwoche weiter gestiegen, allerdings langsamer. Laut dem wöchentlichen Apartmentmarktbericht von KB Real Estate vom 9. Mai lag der Anstieg in der ersten Maiwoche, Stand 4. Mai, bei 0,18% nach 0,21% in der Vorwoche. Damit schwächte sich der Aufwärtstrend die zweite Woche in Folge ab. Hintergrund sind Verkäufe günstiger Objekte zur Steuervermeidung vor dem Ende der Aussetzung verschärfter Kapitalertragsteuern für Eigentümer mehrerer Wohnungen. Nach Bezirken stieg Jung-gu um 0,73%, Nowon-gu und Dobong-gu jeweils um 0,31%, vor allem Randlagen zeigten Stärke. Gangnam-gu mit vielen hochpreisigen Wohnungen fiel dagegen um 0,16% und gab die zehnte Woche in Folge nach. Da viele Notverkäufe bereits abgewickelt wurden und neue Angebote nachlassen, wird nach Ende der Aussetzung im Juni und Juli ein Angebotsmangel am Markt erwartet. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "La hausse des appartements à Séoul ralentit, risque de pénurie d’offres",
+        "excerpt": "Les appartements à Séoul ont gagné 0,18% début mai, mais la fin du sursis fiscal pour les multipropriétaires pourrait entraîner un manque d’offres en juin et juillet.",
+        "body": "Les prix des appartements à Séoul ont continué de progresser durant la première semaine de mai, mais à un rythme plus lent. Selon le rapport hebdomadaire de KB Real Estate publié le 9, la hausse a atteint 0,18% sur la première semaine de mai, sur la base du 4 mai, contre 0,21% la semaine précédente. La dynamique s’est affaiblie pour la deuxième semaine consécutive. Cette évolution est liée à des ventes à bas prix destinées à éviter l’impôt avant la fin du sursis sur la surtaxe des plus-values pour les propriétaires de plusieurs logements. Par quartier, Jung-gu a gagné 0,73%, tandis que Nowon-gu et Dobong-gu ont chacun progressé de 0,31%, avec une hausse surtout dans les zones périphériques. À l’inverse, Gangnam-gu, concentré en logements coûteux, a reculé de 0,16% pour une dixième semaine de baisse. Une grande partie des ventes urgentes ayant été absorbée et les nouvelles offres ralentissant, un manque de biens pourrait apparaître en juin et juillet. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تباطؤ ارتفاع شقق سول مع مخاوف من نقص المعروض بعد انتهاء الإعفاء الضريبي",
+        "excerpt": "ارتفعت أسعار الشقق في سول 0.18% في الأسبوع الأول من مايو، لكن انتهاء تعليق الضريبة المشددة على مالكي عدة منازل قد يسبب نقصا في المعروض خلال يونيو ويوليو.",
+        "body": "واصلت أسعار الشقق في سول الارتفاع في الأسبوع الأول من مايو، لكن وتيرة الزيادة تباطأت. وبحسب تقرير KB للعقارات عن سوق الشقق الأسبوعي الصادر في 9 مايو، بلغ ارتفاع أسعار شقق سول 0.18% في الأسبوع الأول من مايو، استنادا إلى بيانات 4 مايو، مقابل 0.21% في الأسبوع السابق، لتضعف الوتيرة للأسبوع الثاني على التوالي. ويرتبط ذلك ببيع عقارات منخفضة السعر لتجنب الضرائب قبل انتهاء تعليق الضريبة المشددة على أرباح بيع العقارات لمالكي عدة منازل. وبحسب المناطق، ارتفعت جونغ-غو 0.73%، وارتفعت نوون-غو ودوبونغ-غو 0.31% لكل منهما، مع قوة في المناطق الخارجية. في المقابل، تراجعت غانغنام-غو، التي تتركز فيها المساكن مرتفعة السعر، 0.16% للأسبوع العاشر. ومع استيعاب جزء كبير من المبيعات العاجلة وتباطؤ طرح المعروض الجديد، تبرز توقعات بنقص في المعروض خلال يونيو ويوليو بعد انتهاء التعليق. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सियोल अपार्टमेंट कीमतों की रफ्तार धीमी, जून-जुलाई में आपूर्ति कमी की आशंका",
+        "excerpt": "मई के पहले सप्ताह में सियोल अपार्टमेंट कीमतें 0.18% बढ़ीं, लेकिन कई घरों के मालिकों पर पूंजीगत लाभ कर राहत खत्म होने के बाद जून-जुलाई में लिस्टिंग घट सकती है।",
+        "body": "सियोल में अपार्टमेंट कीमतें मई के पहले सप्ताह में बढ़ती रहीं, लेकिन बढ़त की रफ्तार धीमी हुई। 9 मई को KB Real Estate की साप्ताहिक अपार्टमेंट बाजार रिपोर्ट के अनुसार, 4 मई के आधार पर मई के पहले सप्ताह में सियोल अपार्टमेंट कीमतों की वृद्धि दर 0.18% रही, जो पिछले सप्ताह के 0.21% से कम थी। यह लगातार दूसरा सप्ताह था जब बढ़त कमजोर हुई। इसे कई घरों के मालिकों पर भारी पूंजीगत लाभ कर की राहत अवधि खत्म होने से पहले कर बचाव के लिए कम कीमत वाली संपत्तियों की बिक्री से जोड़ा गया। क्षेत्रों में Jung-gu 0.73% बढ़ा, जबकि Nowon-gu और Dobong-gu दोनों 0.31% चढ़े, जिससे बाहरी इलाकों में मजबूती दिखी। इसके उलट महंगे घरों वाले Gangnam-gu में 0.16% गिरावट आई और गिरावट 10वें सप्ताह तक जारी रही। काफी आपात बिक्री पहले ही खप चुकी है और नई लिस्टिंग धीमी है, इसलिए राहत खत्म होने के बाद जून-जुलाई में बाजार में उपलब्ध संपत्तियों की कमी की आशंका जताई जा रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Kenaikan Harga Apartemen Seoul Melambat, Risiko Kekurangan Listing Muncul",
+        "excerpt": "Harga apartemen Seoul naik 0,18% pada pekan pertama Mei, tetapi berakhirnya penangguhan pajak bagi pemilik banyak rumah memicu kekhawatiran kurangnya listing pada Juni-Juli.",
+        "body": "Harga apartemen di Seoul masih naik pada pekan pertama Mei, tetapi lajunya melambat. Menurut laporan mingguan pasar apartemen KB Real Estate pada 9 Mei, kenaikan harga apartemen Seoul pada pekan pertama Mei, berdasarkan data 4 Mei, mencapai 0,18%, turun dari 0,21% pada pekan sebelumnya. Penguatan melemah selama dua pekan berturut-turut. Kondisi ini dikaitkan dengan transaksi listing berharga rendah untuk menghindari pajak menjelang berakhirnya penangguhan pajak keuntungan modal yang lebih berat bagi pemilik banyak rumah. Secara wilayah, Jung-gu naik 0,73%, sementara Nowon-gu dan Dobong-gu masing-masing naik 0,31%, menunjukkan penguatan terutama di area pinggiran. Sebaliknya, Gangnam-gu, yang banyak berisi hunian mahal, turun 0,16% dan mencatat penurunan selama 10 pekan. Karena sebagian besar penjualan mendesak sudah terserap dan listing baru mulai melambat, pasar diperkirakan dapat menghadapi kekurangan pasokan pada Juni-Juli setelah masa penangguhan berakhir. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "182146fd0e4c",
+    "slug": "50만전자-간다-파격-전망증권가-눈높이-올리는-이유-종목-676552",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T02:01:01.610Z",
+    "updatedAt": "2026-05-09T02:01:01.610Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026050954717",
+    "canonicalUrl": "https://www.hankyung.com/article/2026050954717",
+    "titleFingerprint": "4af4a415e8928cecec7a2158ce4a8e4ffaa900d5",
+    "dedupKeys": [
+      "182146fd0e4cf458e2d862a2190dc88c459eb21f",
+      "4af4a415e8928cecec7a2158ce4a8e4ffaa900d5",
+      "7030c4d8fe377a986076401998eddbff5dde4e05"
+    ],
+    "imageUrl": "/images/articles/182146fd0e4c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 50만원·SK하이닉스 300만원 전망, SK증권이 본 메모리 저평가와 목표가 상향 이유",
+        "excerpt": "SK증권은 2026년 5월 7일 메모리 재평가가 초입이라며 삼성전자와 SK하이닉스 목표주가를 각각 50만원, 300만원으로 높이고 실적 전망도 상향했다.",
+        "body": "SK증권은 2026년 5월 7일 삼성전자와 SK하이닉스의 목표주가를 각각 50만원, 300만원으로 상향했다. 한동희 연구원은 미국-이란 전쟁에 따른 경기 우려로 낮췄던 목표 PER을 이전 수준으로 되돌리고, 삼성전자 13배와 SK하이닉스 10배를 적용했다고 설명했다. 올해 영업이익 전망은 삼성전자 338조원, SK하이닉스 262조원으로 각각 3%, 4% 올렸고, 내년 전망은 494조원과 376조원으로 18%, 15% 상향했다. 12개월 선행 PER은 각각 6배, 5.2배로 제시됐다. 2분기 메모리 가격 강세, HBM 가격 인상, 장기공급계약 확대, 내년 공급 부족이 재평가 요인으로 언급됐다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Samsung Electronics W500,000 and SK Hynix W3 Million Targets: Why SK Securities Raised Its View",
+        "excerpt": "On May 7, 2026, SK Securities said memory revaluation remains in an early stage, lifting Samsung Electronics and SK Hynix targets to W500,000 and W3 million.",
+        "body": "SK Securities raised its target prices for Samsung Electronics and SK Hynix on May 7, 2026, to W500,000 and W3 million, respectively. Analyst Han Dong-hee said the firm restored target PER levels previously lowered on economic concerns tied to the U.S.-Iran war, applying 13 times earnings to Samsung Electronics and 10 times to SK Hynix. Operating profit estimates for this year were lifted by 3% and 4% to W338 trillion and W262 trillion, while next year’s forecasts rose 18% and 15% to W494 trillion and W376 trillion. Their 12-month forward PERs were cited at 6 times and 5.2 times. Strong second-quarter memory prices, HBM price increases, more long-term supply contracts and a supply shortage next year were listed as revaluation factors. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン電子50万ウォン・SKハイニックス300万ウォン目標、SK証券が見た上方修正理由",
+        "excerpt": "SK証券は2026年5月7日、メモリー再評価は初期段階だとして、サムスン電子とSKハイニックスの目標株価を50万ウォン、300万ウォンへ引き上げた。",
+        "body": "SK証券は2026年5月7日、サムスン電子とSKハイニックスの目標株価をそれぞれ50万ウォン、300万ウォンに引き上げた。ハン・ドンヒ研究員は、米国とイランの戦争に伴う景気懸念で引き下げていた目標PERを以前の水準に戻し、サムスン電子に13倍、SKハイニックスに10倍を適用したと説明した。今年の営業利益見通しはサムスン電子338兆ウォン、SKハイニックス262兆ウォンへそれぞれ3%、4%上方修正し、来年は494兆ウォン、376兆ウォンへ18%、15%引き上げた。12カ月先行PERは6倍、5.2倍とされた。第2四半期のメモリー価格上昇、HBM値上げ、長期供給契約の拡大、来年の供給不足が再評価要因に挙げられた。出典: hankyung.com。"
+      },
+      "zh": {
+        "title": "三星电子50万韩元、SK海力士300万韩元目标价：SK证券为何上调预期",
+        "excerpt": "SK证券2026年5月7日称，存储芯片重估仍处初期，将三星电子和SK海力士目标价分别上调至50万韩元和300万韩元，并上调盈利预测。",
+        "body": "SK证券在2026年5月7日将三星电子和SK海力士目标价分别上调至50万韩元和300万韩元。研究员韩东熙表示，此前因美国与伊朗战争带来的经济担忧而下调的目标市盈率已恢复至原先水平，并对三星电子和SK海力士分别采用13倍和10倍市盈率。今年营业利润预测方面，三星电子上调至338万亿韩元，SK海力士上调至262万亿韩元，较原预测分别提高3%和4%；明年预测则上调至494万亿韩元和376万亿韩元，分别提高18%和15%。两家公司12个月远期市盈率分别为6倍和5.2倍。第二季度存储价格走强、HBM涨价、长期供货合同扩大及明年供应短缺被列为重估因素。来源: hankyung.com。"
+      },
+      "es": {
+        "title": "Samsung a 500.000 wones y SK Hynix a 3 millones: por qué SK Securities elevó sus objetivos",
+        "excerpt": "SK Securities dijo el 7 de mayo de 2026 que la revalorización de memorias sigue en fase inicial y elevó los precios objetivo de Samsung Electronics y SK Hynix.",
+        "body": "SK Securities elevó el 7 de mayo de 2026 los precios objetivo de Samsung Electronics y SK Hynix a 500.000 wones y 3 millones de wones, respectivamente. El analista Han Dong-hee explicó que la firma devolvió a su nivel anterior los PER objetivo que había rebajado por temores económicos ligados a la guerra entre Estados Unidos e Irán, aplicando 13 veces a Samsung Electronics y 10 veces a SK Hynix. Las previsiones de beneficio operativo de este año subieron 3% y 4%, hasta 338 billones y 262 billones de wones, y las del próximo año aumentaron 18% y 15%, hasta 494 billones y 376 billones. Los PER adelantados a 12 meses se situaron en 6 veces y 5,2 veces. La fortaleza de precios de memoria en el segundo trimestre, subidas de HBM, más contratos de suministro a largo plazo y escasez de oferta el próximo año fueron citados como factores de revalorización. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Samsung a 500 mil wons e SK Hynix a 3 milhões: por que a SK Securities elevou os alvos",
+        "excerpt": "A SK Securities afirmou em 7 de maio de 2026 que a reavaliação de memória ainda está no início e elevou os preços-alvo de Samsung Electronics e SK Hynix.",
+        "body": "A SK Securities elevou em 7 de maio de 2026 os preços-alvo da Samsung Electronics e da SK Hynix para 500 mil wons e 3 milhões de wons, respectivamente. O analista Han Dong-hee disse que a corretora restaurou os PERs-alvo que havia reduzido por preocupações econômicas ligadas à guerra entre Estados Unidos e Irã, aplicando 13 vezes à Samsung Electronics e 10 vezes à SK Hynix. As estimativas de lucro operacional deste ano subiram 3% e 4%, para 338 trilhões e 262 trilhões de wons, enquanto as previsões do próximo ano avançaram 18% e 15%, para 494 trilhões e 376 trilhões. Os PERs projetados em 12 meses foram indicados em 6 vezes e 5,2 vezes. Alta dos preços de memória no segundo trimestre, reajustes de HBM, expansão de contratos de longo prazo e escassez de oferta no próximo ano foram citados como fatores de reavaliação. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Samsung bei 500.000 Won, SK Hynix bei 3 Mio. Won: Warum SK Securities die Ziele anhob",
+        "excerpt": "SK Securities erklärte am 7. Mai 2026, die Neubewertung von Speicherchips stehe erst am Anfang, und erhöhte die Kursziele für Samsung Electronics und SK Hynix.",
+        "body": "SK Securities erhöhte am 7. Mai 2026 die Kursziele für Samsung Electronics und SK Hynix auf 500.000 Won beziehungsweise 3 Millionen Won. Analyst Han Dong-hee erklärte, die Firma habe Ziel-KGVs, die wegen Konjunktursorgen infolge des US-Iran-Kriegs gesenkt worden waren, wieder auf frühere Niveaus angehoben und 13-mal für Samsung Electronics sowie 10-mal für SK Hynix angesetzt. Die operativen Gewinnprognosen für dieses Jahr wurden um 3% und 4% auf 338 Billionen Won und 262 Billionen Won erhöht; für nächstes Jahr stiegen sie um 18% und 15% auf 494 Billionen Won und 376 Billionen Won. Die 12-Monats-Forward-KGVs wurden mit 6 und 5,2 angegeben. Starke Speicherpreise im zweiten Quartal, HBM-Preiserhöhungen, mehr langfristige Lieferverträge und ein Angebotsdefizit im nächsten Jahr gelten als Neubewertungsfaktoren. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Samsung à 500.000 wons et SK Hynix à 3 millions: pourquoi SK Securities relève ses objectifs",
+        "excerpt": "SK Securities a indiqué le 7 mai 2026 que la revalorisation de la mémoire n’en était qu’à ses débuts et a relevé ses objectifs pour Samsung Electronics et SK Hynix.",
+        "body": "SK Securities a relevé le 7 mai 2026 ses objectifs de cours pour Samsung Electronics et SK Hynix à 500.000 wons et 3 millions de wons, respectivement. L’analyste Han Dong-hee a expliqué que la société avait rétabli les PER cibles abaissés en raison des inquiétudes économiques liées à la guerre entre les États-Unis et l’Iran, en appliquant 13 fois à Samsung Electronics et 10 fois à SK Hynix. Les prévisions de bénéfice opérationnel pour cette année ont été relevées de 3% et 4%, à 338.000 milliards et 262.000 milliards de wons, tandis que celles de l’an prochain ont augmenté de 18% et 15%, à 494.000 milliards et 376.000 milliards. Les PER prospectifs à 12 mois sont de 6 fois et 5,2 fois. La vigueur des prix de la mémoire au deuxième trimestre, les hausses de prix HBM, l’extension des contrats de long terme et la pénurie d’offre l’an prochain sont citées comme facteurs de revalorisation. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سامسونغ إلى 500 ألف وون وSK Hynix إلى 3 ملايين: لماذا رفعت SK Securities أهدافها",
+        "excerpt": "قالت SK Securities في 7 مايو 2026 إن إعادة تقييم أسهم الذاكرة لا تزال في بدايتها، ورفعت أهداف سامسونغ إلكترونيكس وSK Hynix إلى 500 ألف وون و3 ملايين وون.",
+        "body": "رفعت SK Securities في 7 مايو 2026 السعر المستهدف لسهمي سامسونغ إلكترونيكس وSK Hynix إلى 500 ألف وون و3 ملايين وون على التوالي. وأوضح المحلل هان دونغ-هي أن الشركة أعادت مضاعفات الربحية المستهدفة، التي كانت قد خفضتها بسبب مخاوف اقتصادية مرتبطة بالحرب بين الولايات المتحدة وإيران، إلى مستوياتها السابقة، وطبقت 13 مرة على سامسونغ إلكترونيكس و10 مرات على SK Hynix. ورفعت تقديرات الربح التشغيلي لهذا العام 3% و4% إلى 338 تريليون وون و262 تريليون وون، كما رفعت توقعات العام المقبل 18% و15% إلى 494 تريليون وون و376 تريليون وون. وذُكر أن مضاعفي الربحية المستقبليين لـ12 شهرا يبلغان 6 مرات و5.2 مرة. ومن عوامل إعادة التقييم قوة أسعار الذاكرة في الربع الثاني، وزيادات أسعار HBM، وتوسع عقود التوريد طويلة الأجل، واستمرار نقص المعروض العام المقبل. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Samsung 5 लाख वॉन और SK Hynix 30 लाख वॉन लक्ष्य: SK Securities ने क्यों बढ़ाई उम्मीद",
+        "excerpt": "SK Securities ने 7 मई 2026 को कहा कि मेमोरी शेयरों का पुनर्मूल्यांकन अभी शुरुआती चरण में है और Samsung Electronics व SK Hynix के लक्ष्य बढ़ाए।",
+        "body": "SK Securities ने 7 मई 2026 को Samsung Electronics और SK Hynix के लक्ष्य भाव क्रमशः 5 लाख वॉन और 30 लाख वॉन कर दिए। विश्लेषक Han Dong-hee ने कहा कि अमेरिका-ईरान युद्ध से जुड़ी आर्थिक चिंताओं के कारण घटाए गए लक्षित PER को पहले के स्तर पर लौटाया गया है, जिसमें Samsung Electronics के लिए 13 गुना और SK Hynix के लिए 10 गुना लागू किया गया। इस वर्ष के परिचालन लाभ अनुमान Samsung Electronics के लिए 338 ट्रिलियन वॉन और SK Hynix के लिए 262 ट्रिलियन वॉन किए गए, जो 3% और 4% अधिक हैं। अगले वर्ष के अनुमान 18% और 15% बढ़ाकर 494 ट्रिलियन वॉन और 376 ट्रिलियन वॉन किए गए। 12 महीने आगे के PER क्रमशः 6 गुना और 5.2 गुना बताए गए। दूसरी तिमाही में मेमोरी कीमतों की मजबूती, HBM मूल्य वृद्धि, दीर्घकालिक आपूर्ति अनुबंधों का विस्तार और अगले वर्ष आपूर्ति कमी पुनर्मूल्यांकन के कारक बताए गए। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Samsung 500.000 won dan SK Hynix 3 juta won: alasan SK Securities menaikkan target",
+        "excerpt": "SK Securities pada 7 Mei 2026 menyebut revaluasi memori masih tahap awal dan menaikkan target Samsung Electronics serta SK Hynix ke 500.000 won dan 3 juta won.",
+        "body": "SK Securities pada 7 Mei 2026 menaikkan target harga Samsung Electronics dan SK Hynix masing-masing menjadi 500.000 won dan 3 juta won. Analis Han Dong-hee menjelaskan bahwa target PER yang sebelumnya diturunkan karena kekhawatiran ekonomi terkait perang AS-Iran dikembalikan ke level semula, dengan 13 kali untuk Samsung Electronics dan 10 kali untuk SK Hynix. Perkiraan laba operasi tahun ini dinaikkan 3% dan 4% menjadi 338 triliun won dan 262 triliun won, sedangkan proyeksi tahun depan dinaikkan 18% dan 15% menjadi 494 triliun won dan 376 triliun won. PER forward 12 bulan disebut 6 kali dan 5,2 kali. Penguatan harga memori kuartal kedua, kenaikan harga HBM, perluasan kontrak pasokan jangka panjang, serta kekurangan pasokan tahun depan disebut sebagai faktor revaluasi. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "fb3c60eb47bc",
+    "slug": "코스피-7000에-서점으로-몰리는-개미들주식책-판매-305-폭증-939092",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-09T01:59:39.412Z",
+    "updatedAt": "2026-05-09T01:59:39.412Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042256",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042256",
+    "titleFingerprint": "a47c9201e62b60a773d960062d8211e1ebc3382b",
+    "dedupKeys": [
+      "fb3c60eb47bc4e7dd62f8006eca309940feb7817",
+      "a47c9201e62b60a773d960062d8211e1ebc3382b",
+      "bbf650dd96536758ceb5e611956686239ce979d4"
+    ],
+    "imageUrl": "/images/articles/fb3c60eb47bc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7000 돌파에 개인투자자 서점행…주식책 판매 305% 급증",
+        "excerpt": "코스피가 사상 최고치를 경신하며 7000선을 돌파하자 개인투자자들의 관심이 서점가로 확산되며 국내주식 도서 판매가 305% 급증했다.",
+        "body": "코스피가 사상 최고치를 경신하며 7000선을 돌파하자 개인투자자들의 투자 열기가 서점가까지 번지고 있다. 증시 상승세가 이어지면서 국내주식 관련 도서 판매량은 305% 폭증했고, 주식 투자뿐 아니라 재테크·연금·자산관리 분야 도서에 대한 관심도 함께 커지고 있다. 이는 시장 강세가 투자 학습 수요로 연결되고 있음을 보여준다. 향후 증시 흐름에 따라 투자자들의 정보 탐색과 관련 서적 소비도 영향을 받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kospi Tops 7,000 as Retail Investors Flock to Bookstores, Stock Book Sales Jump 305%",
+        "excerpt": "As the Kospi hit a record high and broke above 7,000, retail investor interest spread to bookstores, driving a 305% surge in domestic stock book sales.",
+        "body": "As the Kospi set a new all-time high and moved past the 7,000 mark, retail investors’ enthusiasm is spreading into bookstores. Backed by the stock market rally, sales of books related to domestic stocks surged 305%, while interest also grew in titles on personal finance, pensions, and asset management. The trend shows that market strength is translating into demand for investment learning. Future stock market moves are expected to influence investors’ search for information and consumption of related books. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI 7000突破で個人投資家が書店へ、株式本販売305％急増",
+        "excerpt": "KOSPIが過去最高値を更新し7000を突破すると、個人投資家の関心が書店にも広がり、韓国株関連書籍の販売が305％急増した。",
+        "body": "KOSPIが過去最高値を更新し、7000の大台を突破したことで、個人投資家の投資熱が書店街にも広がっている。株式市場の上昇基調を背景に、韓国国内株式関連書籍の販売量は305％急増し、株式投資だけでなく、資産形成、年金、資産管理分野の書籍への関心も高まっている。市場の強さが投資学習需要につながっている形だ。今後の相場動向により、投資家の情報収集や関連書籍の消費にも影響が出る見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破7000点，散户涌向书店，股票书销量暴增305%",
+        "excerpt": "KOSPI刷新历史高点并突破7000点后，散户投资热情蔓延至书店，韩国国内股票相关图书销量暴增305%。",
+        "body": "随着KOSPI刷新历史最高点并突破7000点，个人投资者的投资热潮正蔓延到书店。受股市上涨势头推动，韩国国内股票相关图书销量暴增305%，与此同时，关于理财、养老金和资产管理的书籍关注度也同步上升。这一现象显示，市场走强正在转化为投资学习需求。未来股市走势预计也将影响投资者的信息搜索和相关书籍消费。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kospi supera los 7.000 puntos y los minoristas van a librerías: libros de bolsa suben 305%",
+        "excerpt": "Tras marcar un máximo histórico y superar los 7.000 puntos, el Kospi llevó el interés de inversores minoristas a las librerías, con ventas de libros de acciones locales al alza de 305%.",
+        "body": "El Kospi renovó su máximo histórico y superó los 7.000 puntos, y el entusiasmo inversor de los minoristas se está extendiendo a las librerías. Impulsadas por la tendencia alcista del mercado bursátil, las ventas de libros sobre acciones nacionales se dispararon un 305%, mientras también creció el interés por títulos de finanzas personales, pensiones y gestión de activos. La tendencia muestra que la fortaleza del mercado se está convirtiendo en demanda de aprendizaje financiero. La evolución futura de la bolsa podría influir en la búsqueda de información y el consumo de libros relacionados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kospi supera 7.000 pontos e leva investidores às livrarias; livros de ações saltam 305%",
+        "excerpt": "Com o Kospi em máxima histórica acima de 7.000 pontos, o interesse dos investidores individuais chegou às livrarias e as vendas de livros sobre ações locais subiram 305%.",
+        "body": "O Kospi renovou sua máxima histórica e ultrapassou a marca de 7.000 pontos, levando o entusiasmo dos investidores individuais também às livrarias. Com a alta do mercado acionário, as vendas de livros relacionados a ações domésticas dispararam 305%, enquanto cresceu igualmente o interesse por obras sobre finanças pessoais, previdência e gestão de ativos. O movimento mostra que a força do mercado está se convertendo em demanda por aprendizado em investimentos. A trajetória futura da bolsa deve influenciar a busca por informação e o consumo de livros relacionados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kospi über 7.000: Privatanleger strömen in Buchläden, Aktienbücher plus 305%",
+        "excerpt": "Nachdem der Kospi ein Rekordhoch erreichte und die Marke von 7.000 überschritt, griff das Interesse privater Anleger auf Buchläden über; Bücher zu heimischen Aktien legten 305% zu.",
+        "body": "Der Kospi hat ein neues Allzeithoch erreicht und die Marke von 7.000 Punkten überschritten. Damit breitet sich die Investitionsbegeisterung privater Anleger bis in die Buchläden aus. Getragen vom Aufwärtstrend am Aktienmarkt schnellten die Verkäufe von Büchern zu inländischen Aktien um 305% nach oben. Zugleich nahm das Interesse an Titeln zu Vermögensaufbau, Renten und Asset Management zu. Dies zeigt, dass die Marktstärke Nachfrage nach Anlagewissen auslöst. Die weitere Börsenentwicklung dürfte auch die Informationssuche und den Konsum entsprechender Bücher beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Kospi dépasse 7 000 points et les particuliers affluent en librairie, livres boursiers +305%",
+        "excerpt": "Après un record historique du Kospi au-dessus de 7 000 points, l’intérêt des investisseurs particuliers gagne les librairies, avec des ventes de livres sur les actions locales en hausse de 305%.",
+        "body": "Le Kospi a inscrit un nouveau sommet historique et dépassé le seuil des 7 000 points, propageant l’enthousiasme des investisseurs particuliers jusque dans les librairies. Portées par la hausse du marché actions, les ventes de livres consacrés aux actions domestiques ont bondi de 305%, tandis que l’intérêt progresse aussi pour les ouvrages sur les finances personnelles, les retraites et la gestion d’actifs. Cette tendance montre que la vigueur du marché nourrit la demande d’apprentissage en investissement. L’évolution future de la Bourse devrait influencer la recherche d’information et l’achat de livres liés. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7000 نقطة والمستثمرون الأفراد يتجهون للمكتبات، ومبيعات كتب الأسهم تقفز 305%",
+        "excerpt": "بعد أن سجل مؤشر كوسبي مستوى قياسيا وتجاوز 7000 نقطة، امتد اهتمام المستثمرين الأفراد إلى المكتبات، لترتفع مبيعات كتب الأسهم المحلية 305%.",
+        "body": "سجل مؤشر كوسبي أعلى مستوى في تاريخه وتجاوز حاجز 7000 نقطة، ما جعل حماس المستثمرين الأفراد يمتد إلى المكتبات. ومع استمرار صعود سوق الأسهم، قفزت مبيعات الكتب المرتبطة بالأسهم المحلية 305%، كما زاد الاهتمام بكتب التخطيط المالي الشخصي والمعاشات وإدارة الأصول. ويظهر ذلك أن قوة السوق تتحول إلى طلب على تعلم الاستثمار. ومن المتوقع أن تؤثر تحركات سوق الأسهم لاحقا في بحث المستثمرين عن المعلومات واستهلاكهم للكتب ذات الصلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोस्पी 7,000 के पार, खुदरा निवेशक किताबों की दुकानों में; शेयर पुस्तकों की बिक्री 305% बढ़ी",
+        "excerpt": "कोस्पी के रिकॉर्ड ऊंचाई पर पहुंचकर 7,000 के पार जाने के बाद खुदरा निवेशकों की दिलचस्पी किताबों की दुकानों तक फैली और घरेलू शेयर पुस्तकों की बिक्री 305% उछली।",
+        "body": "कोस्पी ने सर्वकालिक उच्च स्तर बनाया और 7,000 अंक के पार चला गया, जिसके बाद खुदरा निवेशकों का निवेश उत्साह किताबों की दुकानों तक फैल रहा है। शेयर बाजार की तेजी के सहारे घरेलू शेयरों से जुड़ी पुस्तकों की बिक्री 305% बढ़ गई। साथ ही पर्सनल फाइनेंस, पेंशन और एसेट मैनेजमेंट से जुड़ी किताबों में भी रुचि बढ़ी है। यह रुझान दिखाता है कि बाजार की मजबूती निवेश सीखने की मांग में बदल रही है। आगे शेयर बाजार की चाल निवेशकों की जानकारी खोजने और संबंधित पुस्तकों की खपत को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kospi Tembus 7.000, Investor Ritel Serbu Toko Buku; Penjualan Buku Saham Naik 305%",
+        "excerpt": "Saat Kospi mencetak rekor tertinggi dan menembus 7.000, minat investor ritel meluas ke toko buku, membuat penjualan buku saham domestik melonjak 305%.",
+        "body": "Kospi mencetak rekor tertinggi sepanjang masa dan menembus level 7.000, membuat antusiasme investasi investor ritel merambah hingga ke toko buku. Seiring tren kenaikan pasar saham, penjualan buku terkait saham domestik melonjak 305%, sementara minat terhadap buku keuangan pribadi, pensiun, dan manajemen aset juga meningkat. Tren ini menunjukkan bahwa penguatan pasar berubah menjadi kebutuhan untuk belajar investasi. Pergerakan bursa ke depan diperkirakan turut memengaruhi pencarian informasi investor dan konsumsi buku terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "515f6b74e3c8",
     "slug": "호르무즈-뚫은-유조선-오데사호-대산항-입항-126205",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Saham YG Entertainment Turun 27% Tahun Ini, Prospek Paruh Kedua Lebih Kuat Jadi Sorotan",
         "excerpt": "Saham YG Entertainment turun 27% tahun ini, tetapi analisis Hankyung.com menyebut pola awal lemah dan paruh kedua lebih kuat dapat terlihat lebih jelas.",
         "body": "YG Entertainment menjadi perhatian setelah sebuah analisis menyebutkan bahwa meski sahamnya turun 27% tahun ini, pola “awal lemah, akhir lebih kuat” dapat terlihat jelas. Hankyung.com dalam artikel analisisnya membahas pelemahan harga saham YG Entertainment tahun ini serta prospek pergerakan berikutnya. Angka utama adalah penurunan harga saham sebesar 27% sepanjang tahun ini, sementara sudut pandang yang ditampilkan dalam judul menekankan kemungkinan perbaikan pada bagian akhir tahun dibanding periode awal. Bagi investor, pelemahan harga yang sudah tercermin dan harapan pemulihan ke depan perlu dilihat bersamaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "0e8eb2d8699c",
-    "slug": "코스피-중동-긴장에도-사상-최고치-마감현대차그룹주-날았다-359485",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T15:07:20.726Z",
-    "updatedAt": "2026-05-08T15:07:20.726Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050844056",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050844056",
-    "titleFingerprint": "611c17d0cd0ba33b4c034ff8f05458bd709abe2d",
-    "dedupKeys": [
-      "0e8eb2d8699cd633d7d01b6ca90de88a96b9e7d1",
-      "611c17d0cd0ba33b4c034ff8f05458bd709abe2d",
-      "26a76e3d066174ef1ed5b5f7e6a9b844b67d21c2"
-    ],
-    "imageUrl": "/images/articles/0e8eb2d8699c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상 최고치 마감, 중동 긴장 속 현대차그룹주 강세와 개인 매수세 부각",
-        "excerpt": "7일 코스피가 중동 긴장에도 7490.05로 사상 최고치에 마감했다. 개인 매수세가 외국인 차익실현을 흡수했고 현대차그룹주 강세가 두드러졌다.",
-        "body": "7일 국내 증시에서 코스피지수는 중동 지역 긴장에도 전장보다 105.49포인트(1.43%) 오른 7490.05로 거래를 마치며 종가 기준 사상 최고치를 다시 썼다. 장 초반 7500선을 넘었지만 외국인 차익실현 매물에 7250선까지 밀린 뒤 개인 매수세로 상승 전환했다. 개인은 유가증권시장에서 5조9910억원을 순매수했고 기관도 1조950억원을 사들였다. 반면 외국인은 7조1510억원을 순매도했다. 삼성전자와 SK하이닉스 등 반도체 대형주가 올랐고 현대차그룹주 강세도 지수 흐름에 힘을 보탰다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSPI Hits Record Close as Hyundai Motor Group Shares Rise Despite Middle East Tension",
-        "excerpt": "On May 7, the KOSPI closed at a record 7,490.05 despite Middle East tension, as retail buying absorbed foreign profit-taking and Hyundai Motor Group shares stood out.",
-        "body": "South Korea’s KOSPI closed on May 7 at 7,490.05, up 105.49 points, or 1.43%, marking a fresh record closing high despite tension in the Middle East. The index moved above 7,500 early in the session, then slipped toward the 7,250 range as foreign investors took profits before retail buying helped turn the market higher. Retail investors bought a net 5.991 trillion won on the main board, while institutions purchased 1.095 trillion won. Foreign investors sold a net 7.151 trillion won. Major semiconductor names including Samsung Electronics and SK Hynix advanced, and Hyundai Motor Group shares also showed strength. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSPIが史上最高値で終了、中東緊張下でも現代自グループ株が強含み",
-        "excerpt": "7日、KOSPIは中東情勢の緊張にもかかわらず7490.05で史上最高値を更新。個人投資家の買いが外国人の利益確定売りを吸収し、現代自グループ株も目立った。",
-        "body": "韓国株式市場で7日、KOSPI指数は前日比105.49ポイント、1.43%高の7490.05で取引を終え、終値ベースの史上最高値を更新した。中東地域の緊張が続くなか、指数は序盤に7500台を上回ったが、外国人投資家の利益確定売りで7250台まで押し戻された。その後、個人投資家の買いで上昇に転じた。個人は有価証券市場で5兆9910億ウォンを買い越し、機関も1兆950億ウォンを買い越した。一方、外国人は7兆1510億ウォンを売り越した。サムスン電子やSKハイニックスなど半導体大型株が上昇し、現代自動車グループ株の強さも相場を支えた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSPI创收盘新高，中东紧张下现代汽车集团股走强受关注",
-        "excerpt": "5月7日，KOSPI尽管面临中东紧张局势，仍以7490.05点创收盘新高。个人投资者买盘吸收外资获利了结，现代汽车集团股表现突出。",
-        "body": "韩国股市5月7日收盘，KOSPI指数较前一交易日上涨105.49点，涨幅1.43%，报7490.05点，刷新收盘历史高位。尽管中东地区紧张局势仍在，指数早盘一度升破7500点，但随后因外资获利了结回落至7250点附近，之后在个人投资者买盘推动下重新转涨。个人投资者在主板市场净买入5.991万亿韩元，机构净买入1.095万亿韩元。外资则净卖出7.151万亿韩元。三星电子、SK海力士等半导体大型股上涨，现代汽车集团股的强势也为指数走势提供支撑。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KOSPI cierra en récord pese a la tensión en Oriente Medio y suben acciones de Hyundai",
-        "excerpt": "El 7 de mayo, el KOSPI cerró en un récord de 7.490,05 puntos pese a la tensión en Oriente Medio, apoyado por compras minoristas y la fortaleza de Hyundai Motor Group.",
-        "body": "El KOSPI de Corea del Sur cerró el 7 de mayo en 7.490,05 puntos, con un avance de 105,49 puntos, o 1,43%, y marcó un nuevo máximo histórico de cierre pese a la tensión en Oriente Medio. El índice superó los 7.500 puntos al inicio, pero retrocedió hacia la zona de 7.250 por ventas de toma de ganancias de inversores extranjeros antes de volver a subir con el apoyo de compras minoristas. Los particulares compraron un neto de 5,991 billones de wones en el mercado principal y las instituciones adquirieron 1,095 billones. Los extranjeros vendieron un neto de 7,151 billones. Samsung Electronics y SK Hynix subieron, y las acciones de Hyundai Motor Group también destacaron. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSPI fecha em recorde apesar da tensão no Oriente Médio; ações da Hyundai avançam",
-        "excerpt": "Em 7 de maio, o KOSPI fechou no recorde de 7.490,05 pontos apesar da tensão no Oriente Médio, com compras de investidores individuais e força nas ações do Hyundai Motor Group.",
-        "body": "O KOSPI da Coreia do Sul encerrou o pregão de 7 de maio em 7.490,05 pontos, alta de 105,49 pontos, ou 1,43%, renovando o recorde histórico de fechamento apesar da tensão no Oriente Médio. O índice chegou a superar 7.500 pontos no início da sessão, mas recuou para a faixa de 7.250 com realização de lucros por investidores estrangeiros, antes de voltar a subir com compras de pessoas físicas. Investidores individuais compraram 5,991 trilhões de wons líquidos no mercado principal, e instituições compraram 1,095 trilhão. Estrangeiros venderam 7,151 trilhões de wons líquidos. Samsung Electronics e SK Hynix avançaram, enquanto ações do Hyundai Motor Group também ganharam força. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSPI schließt auf Rekordhoch, Hyundai-Motor-Group-Aktien trotz Nahost-Spannung stark",
-        "excerpt": "Am 7. Mai schloss der KOSPI trotz Nahost-Spannungen bei einem Rekord von 7.490,05 Punkten. Privatanleger stützten den Markt, Hyundai-Motor-Group-Aktien fielen positiv auf.",
-        "body": "Der südkoreanische KOSPI schloss am 7. Mai bei 7.490,05 Punkten, ein Plus von 105,49 Punkten oder 1,43%, und erreichte damit ein neues Rekordhoch auf Schlusskursbasis. Trotz der Spannungen im Nahen Osten stieg der Index zunächst über 7.500 Punkte, fiel dann wegen Gewinnmitnahmen ausländischer Investoren in den Bereich von 7.250 zurück und drehte dank Käufen von Privatanlegern wieder ins Plus. Privatanleger kauften am Hauptmarkt netto 5,991 Billionen Won, Institutionelle weitere 1,095 Billionen Won. Ausländische Investoren verkauften netto 7,151 Billionen Won. Große Halbleiterwerte wie Samsung Electronics und SK Hynix legten zu, ebenso zeigten Aktien der Hyundai Motor Group Stärke. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le KOSPI clôture à un record malgré le Moyen-Orient, Hyundai Motor Group en hausse",
-        "excerpt": "Le 7 mai, le KOSPI a clôturé à un record de 7 490,05 points malgré les tensions au Moyen-Orient, soutenu par les achats des particuliers et la vigueur de Hyundai Motor Group.",
-        "body": "Le KOSPI sud-coréen a terminé la séance du 7 mai à 7 490,05 points, en hausse de 105,49 points, soit 1,43%, inscrivant un nouveau record de clôture malgré les tensions au Moyen-Orient. L’indice a dépassé 7 500 points en début de séance, puis a reculé vers 7 250 sous l’effet de prises de bénéfices des investisseurs étrangers avant de repasser dans le vert grâce aux achats des particuliers. Ces derniers ont acheté pour 5 991 milliards de wons nets sur le marché principal, tandis que les institutionnels ont acheté 1 095 milliard de wons. Les étrangers ont vendu 7 151 milliards de wons nets. Samsung Electronics et SK Hynix ont progressé, et les actions de Hyundai Motor Group se sont aussi distinguées. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسبي يغلق عند مستوى قياسي رغم توتر الشرق الأوسط وأسهم هيونداي موتور تتقدم",
-        "excerpt": "في 7 مايو، أغلق كوسبي عند مستوى قياسي بلغ 7490.05 نقطة رغم توتر الشرق الأوسط، بدعم من مشتريات الأفراد وقوة أسهم مجموعة هيونداي موتور.",
-        "body": "أغلق مؤشر كوسبي الكوري الجنوبي في 7 مايو عند 7490.05 نقطة، مرتفعا 105.49 نقطة أو 1.43%، ليسجل مستوى قياسيا جديدا على أساس الإغلاق رغم التوتر في الشرق الأوسط. وتجاوز المؤشر مستوى 7500 نقطة في بداية الجلسة، ثم تراجع نحو نطاق 7250 نقطة مع عمليات جني أرباح من المستثمرين الأجانب، قبل أن يعود للصعود بدعم مشتريات المستثمرين الأفراد. وبلغ صافي شراء الأفراد في السوق الرئيسية 5.991 تريليون وون، كما اشترت المؤسسات 1.095 تريليون وون. في المقابل، باع الأجانب صافيا بقيمة 7.151 تريليون وون. وارتفعت أسهم كبرى في أشباه الموصلات مثل سامسونغ إلكترونيكس وSK hynix، كما برزت قوة أسهم مجموعة هيونداي موتور. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "मध्य पूर्व तनाव के बावजूद KOSPI रिकॉर्ड बंद, Hyundai Motor Group शेयरों में तेजी",
-        "excerpt": "7 मई को KOSPI मध्य पूर्व तनाव के बावजूद 7,490.05 के रिकॉर्ड बंद स्तर पर पहुंचा। खुदरा खरीदारी ने विदेशी मुनाफावसूली को संभाला और Hyundai Motor Group शेयर मजबूत रहे।",
-        "body": "दक्षिण कोरिया का KOSPI 7 मई को 105.49 अंक या 1.43% बढ़कर 7,490.05 पर बंद हुआ और बंद भाव के आधार पर नया ऐतिहासिक उच्च स्तर बनाया। मध्य पूर्व में तनाव के बावजूद सूचकांक शुरुआती कारोबार में 7,500 से ऊपर गया, लेकिन विदेशी निवेशकों की मुनाफावसूली से 7,250 के दायरे तक फिसल गया। बाद में व्यक्तिगत निवेशकों की खरीदारी से बाजार फिर बढ़त में आ गया। मुख्य बाजार में व्यक्तिगत निवेशकों ने शुद्ध 5.991 ट्रिलियन वॉन की खरीदारी की और संस्थानों ने 1.095 ट्रिलियन वॉन खरीदे। विदेशी निवेशकों ने शुद्ध 7.151 ट्रिलियन वॉन बेचे। Samsung Electronics और SK Hynix जैसे बड़े सेमीकंडक्टर शेयर चढ़े, जबकि Hyundai Motor Group के शेयरों की मजबूती ने भी सूचकांक को सहारा दिया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KOSPI Ditutup Rekor Meski Tensi Timur Tengah, Saham Hyundai Motor Group Menguat",
-        "excerpt": "Pada 7 Mei, KOSPI ditutup di rekor 7.490,05 meski ada tensi Timur Tengah. Pembelian investor ritel menyerap aksi ambil untung asing, sementara saham Hyundai Motor Group menonjol.",
-        "body": "KOSPI Korea Selatan pada 7 Mei ditutup di 7.490,05, naik 105,49 poin atau 1,43%, sekaligus mencetak rekor tertinggi baru berdasarkan penutupan. Meski tensi di Timur Tengah masih menjadi perhatian, indeks sempat menembus 7.500 pada awal sesi, lalu turun ke kisaran 7.250 akibat aksi ambil untung investor asing sebelum kembali naik berkat pembelian investor ritel. Investor individu membukukan beli bersih 5,991 triliun won di pasar utama, sementara institusi membeli 1,095 triliun won. Investor asing menjual bersih 7,151 triliun won. Saham semikonduktor besar seperti Samsung Electronics dan SK Hynix naik, dan saham Hyundai Motor Group juga menunjukkan penguatan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "cddba0482f82",
-    "slug": "마이도지-도지코인-앱-생태계-베타-서비스-공개-441455",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T15:06:02.158Z",
-    "updatedAt": "2026-05-08T15:06:02.158Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026050841966",
-    "canonicalUrl": "https://www.hankyung.com/article/2026050841966",
-    "titleFingerprint": "7c8af6c6d85f54c794d7ed59d4b5cb071523e862",
-    "dedupKeys": [
-      "cddba0482f822079fae82e36b8f13131cb0893a2",
-      "7c8af6c6d85f54c794d7ed59d4b5cb071523e862",
-      "61d6301306258cd1d684f66b1f2e370987c6c96a"
-    ],
-    "imageUrl": "/images/articles/cddba0482f82.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마이도지, 도지코인 앱 생태계 베타 서비스 공개 소식",
-        "excerpt": "마이도지가 도지코인 앱 생태계와 관련한 베타 서비스를 공개했다고 hankyung.com이 전했다. 구체 기능과 일정은 제공 정보에 포함되지 않았다.",
-        "body": "마이도지가 도지코인 앱 생태계와 관련한 베타 서비스를 공개했다고 hankyung.com이 보도했다. 이번 소식은 마이도지가 도지코인 기반 앱 생태계를 대상으로 베타 단계의 서비스를 선보였다는 내용이다. 제공된 원문 정보에는 서비스의 세부 기능, 베타 참여 방식, 정식 출시 일정, 이용 가능 지역, 관련 수치 등은 포함되지 않았다. 따라서 현재 확인 가능한 핵심은 마이도지의 베타 서비스 공개 사실과 도지코인 앱 생태계와의 연관성이다. 향후 추가 발표가 나오면 기능 범위와 서비스 확대 여부가 시장의 관심사가 될 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "MyDoge Unveils Beta Service for Dogecoin App Ecosystem",
-        "excerpt": "MyDoge has unveiled a beta service related to the Dogecoin app ecosystem, according to hankyung.com. Specific features and timing were not included in the provided information.",
-        "body": "MyDoge has unveiled a beta service related to the Dogecoin app ecosystem, hankyung.com reported. The news states that MyDoge introduced a beta-stage service for an app ecosystem connected to Dogecoin. The provided source information does not include detailed features, beta participation methods, a full launch schedule, available regions, or related figures. Therefore, the confirmed core facts are the beta service announcement by MyDoge and its link to the Dogecoin app ecosystem. If further announcements are made, the scope of features and any service expansion may draw market attention. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "マイドージ、ドージコインアプリ生態系のベータサービス公開",
-        "excerpt": "マイドージがドージコインのアプリ生態系に関連するベータサービスを公開したとhankyung.comが報じた。具体的な機能や日程は提供情報に含まれていない。",
-        "body": "マイドージがドージコインのアプリ生態系に関連するベータサービスを公開したと、hankyung.comが報じた。今回のニュースは、マイドージがドージコインに結び付いたアプリ生態系を対象に、ベータ段階のサービスを披露したという内容だ。提供された原文情報には、サービスの詳細機能、ベータ参加方法、正式リリース時期、利用可能地域、関連数値などは含まれていない。そのため現時点で確認できる核心は、マイドージによるベータサービス公開の事実と、ドージコインアプリ生態系との関連性である。今後追加発表があれば、機能範囲やサービス拡大の有無が注目される可能性がある。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "MyDoge公开狗狗币应用生态系统Beta服务消息",
-        "excerpt": "据hankyung.com报道，MyDoge公开了与狗狗币应用生态系统相关的Beta服务。所提供信息未包含具体功能和时间安排。",
-        "body": "据hankyung.com报道，MyDoge公开了与狗狗币应用生态系统相关的Beta服务。该消息表明，MyDoge面向与狗狗币相关的应用生态系统推出了处于Beta阶段的服务。所提供的原文信息未包含服务的具体功能、Beta参与方式、正式上线时间、可用地区或相关数据。因此，目前能够确认的核心内容是MyDoge公开Beta服务这一事实，以及其与狗狗币应用生态系统之间的关联。若后续发布更多信息，功能范围和服务扩展情况可能成为市场关注点。来源: hankyung.com."
-      },
-      "es": {
-        "title": "MyDoge presenta beta para el ecosistema de apps de Dogecoin",
-        "excerpt": "MyDoge presentó un servicio beta vinculado al ecosistema de aplicaciones de Dogecoin, informó hankyung.com. La información facilitada no incluye funciones ni calendario concretos.",
-        "body": "MyDoge presentó un servicio beta relacionado con el ecosistema de aplicaciones de Dogecoin, según informó hankyung.com. La noticia señala que MyDoge dio a conocer un servicio en fase beta dirigido a un ecosistema de apps conectado con Dogecoin. La información original proporcionada no incluye funciones detalladas, forma de participación en la beta, calendario de lanzamiento oficial, regiones disponibles ni cifras relacionadas. Por ello, los hechos confirmados por ahora son el anuncio del servicio beta de MyDoge y su relación con el ecosistema de aplicaciones de Dogecoin. Si se publican nuevos detalles, el alcance de las funciones y la posible expansión del servicio podrían atraer la atención del mercado. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "MyDoge revela beta para ecossistema de apps da Dogecoin",
-        "excerpt": "A MyDoge apresentou um serviço beta ligado ao ecossistema de aplicativos da Dogecoin, informou o hankyung.com. Recursos específicos e cronograma não constam das informações fornecidas.",
-        "body": "A MyDoge apresentou um serviço beta relacionado ao ecossistema de aplicativos da Dogecoin, segundo informou o hankyung.com. A notícia indica que a MyDoge revelou um serviço em fase beta voltado a um ecossistema de apps conectado à Dogecoin. As informações originais fornecidas não incluem recursos detalhados, forma de participação no beta, data de lançamento oficial, regiões disponíveis ou números relacionados. Assim, os fatos confirmados no momento são o anúncio do serviço beta pela MyDoge e sua relação com o ecossistema de aplicativos da Dogecoin. Caso novos comunicados sejam divulgados, o escopo das funções e uma possível expansão do serviço poderão atrair atenção do mercado. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "MyDoge stellt Beta für Dogecoin-App-Ökosystem vor",
-        "excerpt": "MyDoge hat laut hankyung.com einen Beta-Dienst rund um das Dogecoin-App-Ökosystem vorgestellt. Konkrete Funktionen und Termine sind in den bereitgestellten Informationen nicht enthalten.",
-        "body": "MyDoge hat einen Beta-Dienst im Zusammenhang mit dem Dogecoin-App-Ökosystem vorgestellt, berichtete hankyung.com. Die Meldung besagt, dass MyDoge einen Dienst in der Beta-Phase für ein mit Dogecoin verbundenes App-Ökosystem präsentiert hat. Die bereitgestellten Originalinformationen enthalten keine detaillierten Funktionen, Angaben zur Teilnahme an der Beta, einen Zeitplan für den offiziellen Start, verfügbare Regionen oder relevante Kennzahlen. Damit sind derzeit vor allem die Veröffentlichung des Beta-Dienstes durch MyDoge und dessen Bezug zum Dogecoin-App-Ökosystem bestätigt. Sollten weitere Angaben folgen, könnten Funktionsumfang und mögliche Serviceausweitung in den Fokus rücken. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "MyDoge dévoile une bêta pour l’écosystème d’apps Dogecoin",
-        "excerpt": "MyDoge a dévoilé un service bêta lié à l’écosystème d’applications Dogecoin, selon hankyung.com. Les informations fournies ne précisent ni fonctions ni calendrier.",
-        "body": "MyDoge a dévoilé un service bêta lié à l’écosystème d’applications Dogecoin, a rapporté hankyung.com. L’information indique que MyDoge a présenté un service en phase bêta destiné à un écosystème d’apps connecté à Dogecoin. Les éléments fournis dans le texte source ne comprennent pas de détails sur les fonctionnalités, les modalités de participation à la bêta, le calendrier de lancement officiel, les régions disponibles ni les chiffres associés. Les faits confirmés à ce stade sont donc l’annonce du service bêta par MyDoge et son lien avec l’écosystème d’applications Dogecoin. Si d’autres informations sont publiées, l’étendue des fonctions et une éventuelle expansion du service pourraient retenir l’attention du marché. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "ماي دوج تكشف خدمة تجريبية لمنظومة تطبيقات دوجكوين",
-        "excerpt": "كشفت ماي دوج عن خدمة تجريبية مرتبطة بمنظومة تطبيقات دوجكوين، وفق ما نقل موقع hankyung.com. ولم تتضمن المعلومات المقدمة تفاصيل عن الوظائف أو الجدول الزمني.",
-        "body": "كشفت ماي دوج عن خدمة تجريبية مرتبطة بمنظومة تطبيقات دوجكوين، بحسب ما أفاد موقع hankyung.com. وتشير الخبر إلى أن ماي دوج عرضت خدمة في مرحلة بيتا موجهة إلى منظومة تطبيقات مرتبطة بدوجكوين. ولا تتضمن معلومات المصدر المقدمة تفاصيل عن وظائف الخدمة، أو طريقة المشاركة في النسخة التجريبية، أو موعد الإطلاق الرسمي، أو المناطق المتاحة، أو أي أرقام ذات صلة. لذلك فإن الحقائق المؤكدة حاليا هي إعلان ماي دوج عن الخدمة التجريبية وصلتها بمنظومة تطبيقات دوجكوين. وإذا صدرت إعلانات إضافية، فقد يصبح نطاق الوظائف وإمكان توسيع الخدمة محل اهتمام السوق. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "MyDoge ने Dogecoin ऐप इकोसिस्टम की बीटा सेवा पेश की",
-        "excerpt": "hankyung.com के अनुसार, MyDoge ने Dogecoin ऐप इकोसिस्टम से जुड़ी बीटा सेवा पेश की है। उपलब्ध जानकारी में खास फीचर या समयसीमा शामिल नहीं है।",
-        "body": "hankyung.com की रिपोर्ट के अनुसार, MyDoge ने Dogecoin ऐप इकोसिस्टम से जुड़ी एक बीटा सेवा पेश की है। खबर में बताया गया है कि MyDoge ने Dogecoin से संबंधित ऐप इकोसिस्टम के लिए बीटा चरण की सेवा सामने रखी। उपलब्ध मूल जानकारी में सेवा के विस्तृत फीचर, बीटा में भाग लेने का तरीका, आधिकारिक लॉन्च की समयसीमा, उपलब्ध क्षेत्र या संबंधित आंकड़े शामिल नहीं हैं। इसलिए अभी पुष्टि योग्य मुख्य तथ्य MyDoge द्वारा बीटा सेवा की घोषणा और उसका Dogecoin ऐप इकोसिस्टम से संबंध है। यदि आगे अतिरिक्त जानकारी जारी होती है, तो फीचर का दायरा और सेवा विस्तार की संभावना बाजार के लिए ध्यान का विषय बन सकती है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "MyDoge Rilis Layanan Beta untuk Ekosistem Aplikasi Dogecoin",
-        "excerpt": "MyDoge merilis layanan beta terkait ekosistem aplikasi Dogecoin, menurut hankyung.com. Informasi yang diberikan tidak memuat fitur khusus maupun jadwal peluncuran.",
-        "body": "MyDoge merilis layanan beta yang berkaitan dengan ekosistem aplikasi Dogecoin, menurut laporan hankyung.com. Kabar ini menyebutkan bahwa MyDoge memperkenalkan layanan tahap beta untuk ekosistem aplikasi yang terhubung dengan Dogecoin. Informasi sumber yang diberikan tidak mencantumkan fitur rinci, cara mengikuti beta, jadwal peluncuran resmi, wilayah ketersediaan, atau angka terkait. Karena itu, fakta utama yang dapat dikonfirmasi saat ini adalah pengumuman layanan beta oleh MyDoge dan keterkaitannya dengan ekosistem aplikasi Dogecoin. Jika ada pengumuman lanjutan, cakupan fitur dan kemungkinan perluasan layanan dapat menjadi perhatian pasar. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "ffa911a70019",
-    "slug": "외환거래법-개정안-국회-본회의-통과코인-해외이전-사업자-재경부-등록-의무화-435773",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-08T15:05:01.415Z",
-    "updatedAt": "2026-05-08T15:05:01.415Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042028",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042028",
-    "titleFingerprint": "9cba1d0bb88103fda814aec0d390370483d1b658",
-    "dedupKeys": [
-      "ffa911a7001995275171528231aa93f5d6c5c6ef",
-      "9cba1d0bb88103fda814aec0d390370483d1b658",
-      "fb3f5d64db68bbd1021ee6a0e6cad74639d99385"
-    ],
-    "imageUrl": "/images/articles/ffa911a70019.jpg",
-    "i18n": {
-      "ko": {
-        "title": "외환거래법 개정안 본회의 통과, 코인 해외이전 등록 의무화",
-        "excerpt": "7일 국회 본회의에서 외환거래법 개정안이 통과되며 스테이블코인 국경간 이동 감시, 불법송금 징역형, 가상자산이전업 재경부 등록 의무가 도입됐다.",
-        "body": "7일 국회 본회의에서 외환거래법 개정안이 통과됐다. 이번 개정안은 코인 등 가상자산을 해외로 이전하는 사업자에게 재경부 등록 의무를 부과하고, 스테이블코인의 국경간 이동도 외환 당국의 감시망에 포함하는 내용을 담았다. 부당이득을 목적으로 한 불법송금에는 징역형을 도입해 처벌 수위를 높였다. 또한 외환건전성부담금의 10년 존속기한 관련 내용도 포함됐다. 개정안 통과로 가상자산을 활용한 해외 이전과 송금 관리가 제도권 외환 규율 안으로 들어오게 됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "FX Law Revision Passes, Coin Overseas Transfer Operators Face Registration",
-        "excerpt": "On May 7, South Korea’s National Assembly passed a foreign exchange law revision adding oversight of cross-border stablecoin moves, prison terms for illegal remittances, and registration for virtual-asset transfer operators.",
-        "body": "On May 7, South Korea’s National Assembly passed a revision to the Foreign Exchange Transactions Act at a plenary session. The bill requires operators that transfer coins and other virtual assets overseas to register with the Finance Ministry, and brings cross-border stablecoin movements into the foreign exchange authorities’ monitoring framework. It also introduces prison sentences for illegal remittances made for improper gains, raising the level of punishment. The bill includes provisions related to the 10-year duration of the foreign exchange stability levy. With the passage, overseas transfers and remittances using virtual assets will be brought into the formal foreign exchange regulatory framework. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "外為取引法改正案が本会議通過、暗号資産の海外移転業者に登録義務",
-        "excerpt": "7日、韓国国会本会議で外為取引法改正案が通過し、ステーブルコインの越境移動監視、不法送金への懲役刑、仮想資産移転業者の財経部登録義務が導入された。",
-        "body": "7日、韓国国会本会議で外為取引法改正案が通過した。今回の改正案は、コインなど仮想資産を海外へ移転する事業者に財経部への登録義務を課し、ステーブルコインの国境を越える移動も外為当局の監視網に含める内容を盛り込んだ。不当利得を目的とする不法送金には懲役刑を導入し、処罰水準を高めた。また、外為健全性負担金の10年存続期限に関する内容も含まれた。改正案の通過により、仮想資産を活用した海外移転と送金管理が制度上の外為規律の中に入ることになった。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "外汇交易法修正案获国会通过，币类海外转移业务须登记",
-        "excerpt": "5月7日，韩国国会全体会议通过外汇交易法修正案，将稳定币跨境流动纳入监控，并引入非法汇款有期徒刑和虚拟资产转移业务登记义务。",
-        "body": "5月7日，韩国国会全体会议通过外汇交易法修正案。此次修正案要求将币类等虚拟资产转移至海外的经营者向财政部门登记，并把稳定币的跨境流动纳入外汇当局的监控网络。对于以获取不当利益为目的的非法汇款，修正案引入有期徒刑，提高处罚力度。此外，修正案还包括有关外汇稳健性负担金10年存续期限的内容。随着修正案通过，利用虚拟资产进行的海外转移和汇款管理将被纳入制度化外汇监管范围。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Reforma cambiaria avanza: registro obligatorio para transferir cripto al exterior",
-        "excerpt": "El 7 de mayo, la Asamblea Nacional de Corea aprobó una reforma cambiaria que vigila stablecoins transfronterizas, penaliza remesas ilegales y exige registro a operadores de transferencias cripto.",
-        "body": "El 7 de mayo, la Asamblea Nacional de Corea del Sur aprobó en sesión plenaria una reforma de la Ley de Transacciones de Divisas. La enmienda obliga a los operadores que trasladan monedas y otros activos virtuales al exterior a registrarse ante el Ministerio de Finanzas, e incorpora los movimientos transfronterizos de stablecoins a la red de supervisión de las autoridades cambiarias. También introduce penas de prisión para remesas ilegales realizadas con fines de beneficio indebido, elevando el nivel de sanción. Además, incluye disposiciones sobre el plazo de vigencia de 10 años del gravamen de solidez cambiaria. Con su aprobación, las transferencias y remesas al exterior mediante activos virtuales quedan dentro del marco formal de regulación cambiaria. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Reforma cambial passa e exige registro para envio de cripto ao exterior",
-        "excerpt": "Em 7 de maio, a Assembleia Nacional da Coreia aprovou reforma cambial que monitora stablecoins transfronteiriças, prevê prisão por remessas ilegais e exige registro de operadores de ativos virtuais.",
-        "body": "Em 7 de maio, a Assembleia Nacional da Coreia do Sul aprovou em plenário uma revisão da Lei de Transações Cambiais. A emenda exige que operadores que transferem moedas e outros ativos virtuais para o exterior se registrem no Ministério das Finanças, e inclui os movimentos transfronteiriços de stablecoins na rede de monitoramento das autoridades cambiais. Também introduz penas de prisão para remessas ilegais feitas com objetivo de ganho indevido, elevando o nível de punição. Além disso, o texto traz disposições relacionadas ao prazo de vigência de 10 anos da contribuição de solidez cambial. Com a aprovação, transferências e remessas ao exterior usando ativos virtuais passam a integrar o regime formal de regulação cambial. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Devisengesetz-Reform passiert Parlament, Registrierung für Krypto-Auslandstransfers",
-        "excerpt": "Am 7. Mai verabschiedete Südkoreas Parlament eine Devisenrechtsreform mit Kontrolle grenzüberschreitender Stablecoins, Haftstrafen für illegale Überweisungen und Registrierungspflicht für Anbieter.",
-        "body": "Am 7. Mai verabschiedete die südkoreanische Nationalversammlung in einer Plenarsitzung eine Reform des Devisentransaktionsgesetzes. Die Änderung verpflichtet Betreiber, die Coins und andere virtuelle Vermögenswerte ins Ausland übertragen, zur Registrierung beim Finanzministerium. Zugleich werden grenzüberschreitende Bewegungen von Stablecoins in das Überwachungsnetz der Devisenbehörden aufgenommen. Für illegale Überweisungen mit dem Ziel unrechtmäßiger Gewinne werden Haftstrafen eingeführt, wodurch das Strafmaß steigt. Außerdem enthält die Reform Bestimmungen zur zehnjährigen Laufzeit der Devisenstabilitätsabgabe. Mit der Verabschiedung fallen Auslandstransfers und Überweisungen über virtuelle Vermögenswerte in den formellen Devisenregulierungsrahmen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Réforme des changes adoptée, enregistrement requis pour les transferts crypto",
-        "excerpt": "Le 7 mai, l’Assemblée nationale sud-coréenne a adopté une réforme des changes intégrant la surveillance des stablecoins transfrontaliers, des peines de prison pour transferts illégaux et l’enregistrement des opérateurs.",
-        "body": "Le 7 mai, l’Assemblée nationale sud-coréenne a adopté en séance plénière une révision de la loi sur les transactions de change. Le texte impose aux opérateurs transférant des coins et autres actifs virtuels à l’étranger de s’enregistrer auprès du ministère des Finances, et intègre les mouvements transfrontaliers de stablecoins au dispositif de surveillance des autorités de change. Il introduit aussi des peines de prison pour les transferts illégaux visant un gain indu, ce qui relève le niveau des sanctions. La réforme comprend également des dispositions liées à la durée de maintien de 10 ans de la contribution à la solidité des changes. Avec son adoption, les transferts et envois de fonds à l’étranger utilisant des actifs virtuels entrent dans le cadre officiel de régulation des changes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إقرار تعديل قانون الصرف في كوريا وفرض تسجيل نقل العملات للخارج",
-        "excerpt": "في 7 مايو، أقر البرلمان الكوري تعديل قانون الصرف لضم حركة العملات المستقرة عبر الحدود للرقابة، وفرض السجن على التحويلات غير القانونية، وتسجيل مشغلي نقل الأصول الافتراضية.",
-        "body": "في 7 مايو، أقرّت الجمعية الوطنية في كوريا الجنوبية خلال جلسة عامة تعديلا على قانون معاملات الصرف الأجنبي. يفرض التعديل على الجهات التي تنقل العملات وغيرها من الأصول الافتراضية إلى الخارج التسجيل لدى وزارة المالية، كما يدرج حركة العملات المستقرة عبر الحدود ضمن شبكة مراقبة سلطات الصرف. ويستحدث عقوبات بالسجن على التحويلات غير القانونية التي تستهدف تحقيق مكاسب غير مشروعة، ما يرفع مستوى العقوبة. ويتضمن النص أيضا أحكاما مرتبطة بمدة بقاء رسم سلامة الصرف الأجنبي البالغة 10 سنوات. وبإقرار التعديل، تدخل التحويلات والنقل إلى الخارج باستخدام الأصول الافتراضية ضمن إطار تنظيم الصرف الرسمي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "विदेशी मुद्रा कानून संशोधन पारित, क्रिप्टो विदेश ट्रांसफर पर पंजीकरण जरूरी",
-        "excerpt": "7 मई को दक्षिण कोरिया की नेशनल असेंबली ने विदेशी मुद्रा कानून संशोधन पारित किया, जिसमें स्टेबलकॉइन सीमा-पार निगरानी, अवैध रेमिटेंस पर जेल और वर्चुअल एसेट ट्रांसफर ऑपरेटरों का पंजीकरण शामिल है।",
-        "body": "7 मई को दक्षिण कोरिया की नेशनल असेंबली की पूर्ण बैठक में विदेशी मुद्रा लेनदेन कानून में संशोधन पारित हुआ। इस संशोधन के तहत कॉइन और अन्य वर्चुअल एसेट को विदेश स्थानांतरित करने वाले कारोबारियों को वित्त मंत्रालय में पंजीकरण कराना होगा, और स्टेबलकॉइन की सीमा-पार आवाजाही को भी विदेशी मुद्रा अधिकारियों की निगरानी प्रणाली में शामिल किया जाएगा। अनुचित लाभ के उद्देश्य से की गई अवैध रेमिटेंस पर जेल की सजा का प्रावधान जोड़ा गया है, जिससे दंड स्तर बढ़ेगा। इसमें विदेशी मुद्रा स्थिरता शुल्क की 10 साल की अवधि से जुड़े प्रावधान भी शामिल हैं। संशोधन पारित होने के बाद वर्चुअल एसेट के जरिए विदेश ट्रांसफर और रेमिटेंस प्रबंधन औपचारिक विदेशी मुद्रा नियमन के दायरे में आएगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Revisi UU Valas Lolos, Transfer Kripto ke Luar Negeri Wajib Terdaftar",
-        "excerpt": "Pada 7 Mei, Majelis Nasional Korea mengesahkan revisi UU valas yang memasukkan pemantauan stablecoin lintas negara, pidana penjara untuk remitansi ilegal, dan registrasi operator transfer aset virtual.",
-        "body": "Pada 7 Mei, Majelis Nasional Korea Selatan mengesahkan revisi Undang-Undang Transaksi Valuta Asing dalam sidang pleno. Revisi ini mewajibkan operator yang memindahkan koin dan aset virtual lain ke luar negeri untuk mendaftar ke Kementerian Keuangan, serta memasukkan pergerakan stablecoin lintas batas ke jaringan pemantauan otoritas valas. Aturan ini juga memperkenalkan hukuman penjara untuk remitansi ilegal yang bertujuan memperoleh keuntungan tidak sah, sehingga tingkat sanksi meningkat. Selain itu, revisi tersebut memuat ketentuan terkait masa berlaku 10 tahun pungutan kesehatan valas. Dengan pengesahan ini, transfer dan remitansi luar negeri menggunakan aset virtual masuk ke dalam kerangka regulasi valas resmi. Sumber: mk.co.kr"
       }
     }
   }
