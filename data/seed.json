@@ -1,5 +1,230 @@
 [
   {
+    "id": "c0dee70f5fea",
+    "slug": "hmm-나무호-조사-사흘째물에-잠긴-기관실에-답-달렸다-723817",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T14:18:00.502Z",
+    "updatedAt": "2026-05-10T14:18:00.502Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892391/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892391/1",
+    "titleFingerprint": "4075e37358bda810d118bca98b64361dad1801a8",
+    "dedupKeys": [
+      "c0dee70f5feae1a8aff644428b2358b73608ffc2",
+      "4075e37358bda810d118bca98b64361dad1801a8",
+      "766f883baffd55771a4120bbe84cfdd194460d34"
+    ],
+    "imageUrl": "/images/articles/c0dee70f5fea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HMM 나무호 조사 사흘째, 침수된 기관실 하부 점검이 폭발 원인 핵심",
+        "excerpt": "두바이 드라이 도크 월드에 입항한 HMM 나무호 조사가 10일까지 사흘째 이어지며, 물에 잠긴 기관실 하부 점검이 원인 규명의 핵심으로 떠올랐다.",
+        "body": "호르무즈 해협 정박 중 화재가 발생한 HMM 나무호에 대한 정부 조사단 조사가 10일까지 사흘째 이어지고 있다. 선박은 8일 두바이의 수리 조선소 ‘드라이 도크 월드 두바이’에 입항했으며, 조사단은 한국인 6명을 포함한 선원 24명을 상대로 사고 당시 상황을 확인하는 한편 기관실 현장 조사도 진행 중인 것으로 전해졌다. 현재 외관에서는 별다른 충격 흔적이 발견되지 않았다. 다만 폭발이 발생한 좌현 후미 하단 기관실은 물속에 잠겨 있어, 도크 내부 물을 모두 뺀 뒤 선체 하부를 살펴봐야 정확한 상태를 확인할 수 있다. 건식 수리 시설인 드라이 도크 조사가 원인 규명의 분수령이 될 전망이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "HMM Namu Probe Enters Third Day as Flooded Engine Room Holds Key Clues",
+        "excerpt": "The investigation into the HMM Namu, docked at Drydocks World Dubai, continued for a third day through May 10, with the submerged engine room seen as central to identifying the cause.",
+        "body": "A government investigation into the HMM Namu continued for a third day through May 10 after a fire broke out while the vessel was anchored in the Strait of Hormuz. The ship entered the repair yard Drydocks World Dubai on May 8. Investigators are reportedly questioning 24 crew members, including six Koreans, about the situation at the time of the accident while also inspecting the engine room. No notable impact marks have been found on the vessel’s exterior so far. However, the engine room at the lower port-side stern, where the explosion occurred, remains underwater. To confirm its exact condition, all water inside the dock must be drained before the lower hull can be examined. The dry dock inspection is expected to be central to determining the cause. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "HMMナム号調査3日目、浸水した機関室下部の点検が爆発原因解明の焦点",
+        "excerpt": "ドバイのドライドックス・ワールドに入ったHMMナム号の調査は10日まで3日目に入り、浸水した機関室下部の確認が原因解明の鍵となっている。",
+        "body": "ホルムズ海峡で停泊中に火災が発生したHMMナム号について、政府調査団の調査は10日まで3日目に入った。船舶は8日、ドバイの修理造船所「ドライドックス・ワールド・ドバイ」に入港した。調査団は韓国人6人を含む乗組員24人を対象に事故当時の状況を確認するとともに、機関室の現場調査も進めていると伝えられている。現在、外観からは目立った衝撃痕は見つかっていない。ただ、爆発が発生した左舷後部下段の機関室は水中に沈んでいる。正確な状態を確認するには、ドック内部の水をすべて抜いた後、船体下部を調べる必要がある。乾式修理施設での調査が原因究明の焦点になる見通しだ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "HMM Namu号调查进入第三天，浸水机舱下部检查成爆炸原因关键",
+        "excerpt": "进入迪拜干船坞世界维修船厂的HMM Namu号调查截至10日持续第三天，浸水机舱及船体下部检查成为查明原因的关键。",
+        "body": "在霍尔木兹海峡停泊期间发生火灾的HMM Namu号，截至10日，韩国政府调查团的调查已持续第三天。该船于8日进入迪拜维修船厂“迪拜干船坞世界”。据悉，调查团正在对包括6名韩国人在内的24名船员询问事故发生时的情况，同时也在进行机舱现场调查。目前，从船舶外观尚未发现明显撞击痕迹。不过，发生爆炸的左舷船尾下部机舱目前仍被水淹没。要确认其准确状态，需先排空船坞内的水，再检查船体下部。作为可固定船体并排水检查下部的干式维修设施，干船坞内的调查预计将成为查明原因的关键。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "HMM Namu: tercer día de investigación y la sala de máquinas inundada es clave",
+        "excerpt": "La investigación del HMM Namu en Drydocks World Dubai continuó hasta el 10 de mayo por tercer día, con la sala de máquinas sumergida como punto central para aclarar la causa.",
+        "body": "La investigación gubernamental sobre el HMM Namu continuó hasta el 10 de mayo por tercer día, tras el incendio ocurrido mientras el buque estaba fondeado en el estrecho de Ormuz. El barco entró el 8 de mayo en el astillero de reparación Drydocks World Dubai. Según se informó, los investigadores interrogan a 24 tripulantes, incluidos seis coreanos, sobre la situación en el momento del accidente y realizan a la vez una inspección de la sala de máquinas. Hasta ahora no se han encontrado señales claras de impacto en el exterior del buque. Sin embargo, la sala de máquinas situada en la parte baja de popa por babor, donde ocurrió la explosión, permanece bajo el agua. Para confirmar su estado exacto, deberá drenarse toda el agua del dique y revisar la parte inferior del casco. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "HMM Namu tem 3º dia de investigação; casa de máquinas inundada é foco",
+        "excerpt": "A investigação do HMM Namu no Drydocks World Dubai chegou ao terceiro dia em 10 de maio, com a casa de máquinas submersa vista como ponto central para apurar a causa.",
+        "body": "A investigação do governo sobre o HMM Namu prosseguiu até 10 de maio pelo terceiro dia, após um incêndio ocorrido enquanto o navio estava fundeado no estreito de Ormuz. A embarcação entrou em 8 de maio no estaleiro de reparos Drydocks World Dubai. Segundo relatos, os investigadores ouvem 24 tripulantes, incluindo seis coreanos, sobre a situação no momento do acidente e também realizam uma inspeção na casa de máquinas. Até agora, não foram encontrados sinais relevantes de impacto no exterior do navio. No entanto, a casa de máquinas na parte inferior da popa a bombordo, onde ocorreu a explosão, permanece submersa. Para verificar seu estado exato, será necessário drenar toda a água do dique e examinar a parte inferior do casco. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "HMM Namu: Untersuchung am dritten Tag, überfluteter Maschinenraum im Fokus",
+        "excerpt": "Die Untersuchung der HMM Namu in Drydocks World Dubai dauerte bis zum 10. Mai den dritten Tag an; der unter Wasser liegende Maschinenraum gilt als Schlüssel zur Ursachenklärung.",
+        "body": "Die staatliche Untersuchung der HMM Namu dauerte bis zum 10. Mai den dritten Tag an, nachdem während des Ankerns in der Straße von Hormus ein Feuer ausgebrochen war. Das Schiff lief am 8. Mai in die Reparaturwerft Drydocks World Dubai ein. Berichten zufolge befragen die Ermittler 24 Besatzungsmitglieder, darunter sechs Koreaner, zu den Umständen des Unfalls und untersuchen zugleich den Maschinenraum. Am äußeren Schiffskörper wurden bislang keine auffälligen Aufprallspuren festgestellt. Der Maschinenraum im unteren achteren Bereich an Backbord, wo die Explosion stattfand, liegt jedoch weiterhin unter Wasser. Um seinen genauen Zustand festzustellen, muss das Wasser im Dock vollständig abgelassen und der untere Rumpf geprüft werden. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "HMM Namu: enquête au troisième jour, la salle des machines immergée au centre",
+        "excerpt": "L’enquête sur le HMM Namu à Drydocks World Dubai s’est poursuivie jusqu’au 10 mai, avec la salle des machines submergée comme élément clé pour déterminer la cause.",
+        "body": "L’enquête gouvernementale sur le HMM Namu s’est poursuivie jusqu’au 10 mai pour un troisième jour, après un incendie survenu alors que le navire était au mouillage dans le détroit d’Ormuz. Le navire est entré le 8 mai dans le chantier de réparation Drydocks World Dubai. Les enquêteurs interrogeraient 24 membres d’équipage, dont six Coréens, sur la situation au moment de l’accident, tout en menant une inspection de la salle des machines. Aucune trace notable d’impact n’a été relevée jusqu’ici sur l’extérieur du navire. Cependant, la salle des machines située dans la partie basse arrière bâbord, où l’explosion s’est produite, reste sous l’eau. Pour en vérifier l’état exact, il faudra vider toute l’eau du dock puis inspecter la partie inférieure de la coque. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تحقيق HMM Namu يدخل يومه الثالث وغرفة المحركات الغارقة محور كشف السبب",
+        "excerpt": "تواصل التحقيق في سفينة HMM Namu داخل Drydocks World Dubai حتى 10 مايو لليوم الثالث، مع اعتبار غرفة المحركات المغمورة مفتاحا لتحديد سبب الانفجار.",
+        "body": "استمر تحقيق الحكومة في حادث سفينة HMM Namu حتى 10 مايو لليوم الثالث، بعد اندلاع حريق أثناء رسو السفينة في مضيق هرمز. وكانت السفينة قد دخلت في 8 مايو حوض الإصلاح Drydocks World Dubai في دبي. ووفقا لما ورد، يستجوب المحققون 24 من أفراد الطاقم، بينهم ستة كوريين، بشأن الظروف وقت الحادث، بالتزامن مع فحص موقع غرفة المحركات. ولم تُرصد حتى الآن آثار صدمة واضحة على الهيكل الخارجي للسفينة. لكن غرفة المحركات الواقعة في الجزء السفلي الخلفي من الجانب الأيسر، حيث وقع الانفجار، لا تزال مغمورة بالمياه. ولتحديد حالتها بدقة، يجب تصريف كل المياه داخل الحوض ثم فحص الجزء السفلي من البدن. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "HMM Namu जांच तीसरे दिन जारी, डूबा इंजन कक्ष विस्फोट कारण की कुंजी",
+        "excerpt": "Drydocks World Dubai पहुंचे HMM Namu की जांच 10 मई तक तीसरे दिन जारी रही, और पानी में डूबा इंजन कक्ष कारण पता लगाने का मुख्य बिंदु बन गया है।",
+        "body": "होरमुज जलडमरूमध्य में लंगर डाले रहने के दौरान आग लगने के बाद HMM Namu पर सरकारी जांच 10 मई तक तीसरे दिन जारी रही। जहाज 8 मई को दुबई के मरम्मत शिपयार्ड Drydocks World Dubai में पहुंचा था। बताया गया है कि जांच दल छह कोरियाई सहित 24 चालक दल सदस्यों से दुर्घटना के समय की स्थिति के बारे में पूछताछ कर रहा है और साथ ही इंजन कक्ष की现场 जांच भी कर रहा है। अब तक जहाज के बाहरी हिस्से पर कोई खास टक्कर का निशान नहीं मिला है। हालांकि, जहां विस्फोट हुआ था, उस बाएं पिछले निचले हिस्से का इंजन कक्ष अभी पानी में डूबा है। उसकी सही स्थिति जानने के लिए डॉक का सारा पानी निकालकर जहाज के निचले हिस्से की जांच करनी होगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Investigasi HMM Namu Hari Ketiga, Ruang Mesin Terendam Jadi Kunci Penyebab",
+        "excerpt": "Investigasi HMM Namu di Drydocks World Dubai berlanjut hingga 10 Mei untuk hari ketiga, dengan ruang mesin yang terendam menjadi fokus utama penentuan penyebab ledakan.",
+        "body": "Investigasi pemerintah terhadap HMM Namu berlanjut hingga 10 Mei untuk hari ketiga setelah kebakaran terjadi saat kapal berlabuh di Selat Hormuz. Kapal tersebut masuk ke galangan perbaikan Drydocks World Dubai pada 8 Mei. Tim investigasi dilaporkan memeriksa 24 awak, termasuk enam warga Korea, mengenai situasi saat kecelakaan, sekaligus melakukan pemeriksaan di ruang mesin. Sejauh ini tidak ditemukan bekas benturan yang mencolok pada bagian luar kapal. Namun, ruang mesin di bagian bawah buritan sisi kiri, tempat ledakan terjadi, masih terendam air. Untuk memastikan kondisinya secara tepat, seluruh air di dalam dok harus dikuras terlebih dahulu sebelum bagian bawah lambung diperiksa. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "57c7b35ce22a",
+    "slug": "김윤덕-국토장관-매물-잠김-우려에-이번-정부는-다를-것-328112",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T14:16:54.158Z",
+    "updatedAt": "2026-05-10T14:16:54.158Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892523/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892523/2",
+    "titleFingerprint": "c4722e41398a84d2fe366743e08f72a9cce657f5",
+    "dedupKeys": [
+      "57c7b35ce22a606ac525b4b4c20706b49b784820",
+      "c4722e41398a84d2fe366743e08f72a9cce657f5",
+      "73b32f0a1c18dad97b6b6334f65dc5431e35fa4e"
+    ],
+    "imageUrl": "/images/articles/57c7b35ce22a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "김윤덕 국토장관, 양도세 중과 재개 후 매물 잠김 우려에 “이번 정부는 다를 것”",
+        "excerpt": "김윤덕 국토교통부 장관은 10일 다주택자 양도소득세 중과 재개 이후 제기된 주택 매물 잠김 우려에 대해 현 정부의 부동산 접근은 과거와 다르다고 밝혔다.",
+        "body": "김윤덕 국토교통부 장관은 10일 다주택자 양도소득세 중과 재개 이후 제기되는 주택 매물 잠김 우려에 대해 “이번 정부는 다를 것”이라고 밝혔다. 김 장관은 소셜미디어 엑스(X·옛 트위터)를 통해 매물 잠김 전망이 대체로 과거 정부 경험에 근거한다며, 국민주권정부에서는 같은 경험이 반복되지 않을 것이라고 말했다. 그는 이전 정부들이 통화·금융 등 거시경제 운용 틀을 유지한 채 시장 안정 정책을 추진한 반면, 이재명 정부는 소득 계층과 지역 간 계층 이동 장벽 해소를 위한 근본적 제도 개혁을 추진하고 있다고 설명했다. 또 금융, 세제, 공급 등 경제적 유인 구조를 재설계해 부동산 불로소득 의존 구조에서 생산적 경제 구조로 전환하겠다는 방향을 제시했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Land Minister Kim Yun-deok Says Government Will Differ on Housing Lock-Up Concerns",
+        "excerpt": "Land Minister Kim Yun-deok said on the 10th that concerns over a housing supply lock-up after the renewed capital gains tax surcharge reflect past experience, but this government’s approach is different.",
+        "body": "Land Minister Kim Yun-deok said on the 10th that the current government “will be different” regarding concerns that housing listings could dry up after the renewed capital gains tax surcharge on multiple-home owners. In a post on X, formerly Twitter, Kim said such forecasts are largely based on experiences under previous administrations and argued that the same historical pattern would not necessarily repeat under the People’s Sovereignty Government. He said earlier governments pursued housing-market stabilization while maintaining the basic macroeconomic framework for money and finance. By contrast, he said the Lee Jae-myung administration is pursuing fundamental institutional reform, seeing barriers to mobility between income groups and regions as a risk to Korea’s future and social integration. Kim also said the government aims to redesign incentives across finance, taxation and supply to shift away from reliance on real estate windfall gains toward a productive economic structure. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "金潤徳国土交通相、譲渡税重課再開後の住宅売り控え懸念に「今回は違う」",
+        "excerpt": "金潤徳国土交通部長官は10日、多住宅所有者への譲渡所得税重課再開後に出ている住宅売り控え懸念について、現政権の不動産対応は過去と異なると述べた。",
+        "body": "金潤徳国土交通部長官は10日、多住宅所有者に対する譲渡所得税の重課再開後に提起されている住宅の売り控え懸念について、「今回の政府は違う」と述べた。金長官はソーシャルメディアのX（旧ツイッター）で、売り控えの見通しはおおむね過去の政権での経験に基づくものだとし、国民主権政府では同じ歴史的経験がそのまま繰り返されるとは見ていないと説明した。過去の政府は通貨・金融などマクロ経済運営の基本枠組みを維持したまま市場安定策を進めたが、李在明政権は所得階層や地域間の階層移動の障壁を取り除く根本的な制度改革を進めているという。さらに金融、税制、供給などの経済的誘因構造を再設計し、不動産の不労所得に依存する構造から生産的な経済構造へ転換する方針を示した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "韩国国土部长金润德回应住房惜售担忧：本届政府将不同以往",
+        "excerpt": "韩国国土交通部长金润德10日表示，多套房持有者转让所得税重课重启后出现的住房惜售担忧多源于过去经验，但本届政府处理方式不同。",
+        "body": "韩国国土交通部长金润德10日就多套房持有者转让所得税重课重启后出现的住房挂牌减少、惜售担忧表示，“本届政府将会不同”。金润德在社交媒体X（原推特）上称，关于住房惜售的现场预期大多基于对过去政府的经验，但从更长周期看，同样的历史经验不会在“国民主权政府”中原样重复。他表示，过去政府是在维持货币、金融等宏观经济运行基本框架的同时推进房地产市场稳定政策；而李在明政府并非只从稳定房地产市场出发，而是认为若不消除收入阶层和地区之间阶层流动的壁垒，就无法保障韩国的未来与融合，因此正在推进根本性制度改革。他还称，政府将全面重新设计金融、税制、供给等经济激励结构，推动经济从依赖房地产不劳所得转向生产性结构。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Ministro Kim Yun-deok responde al temor de menor oferta de viviendas: “Este gobierno será distinto”",
+        "excerpt": "Kim Yun-deok, ministro de Tierra, Infraestructura y Transporte, dijo el día 10 que el temor a un bloqueo de ventas tras reactivar el recargo fiscal a multipropietarios parte de experiencias pasadas.",
+        "body": "El ministro de Tierra, Infraestructura y Transporte, Kim Yun-deok, afirmó el día 10 que “este gobierno será distinto” ante la preocupación de que se reduzcan las viviendas en venta tras la reanudación del recargo del impuesto a las ganancias de capital para propietarios de múltiples viviendas. En una publicación en X, antes Twitter, Kim dijo que esas previsiones se basan en gran medida en la experiencia con gobiernos anteriores y que, vista con una perspectiva más amplia, esa experiencia histórica no se repetirá igual bajo el Gobierno de Soberanía Popular. Explicó que administraciones previas impulsaron políticas de estabilización del mercado inmobiliario manteniendo el marco macroeconómico de política monetaria y financiera. En cambio, sostuvo que el gobierno de Lee Jae-myung promueve una reforma institucional fundamental al considerar que no puede asegurarse el futuro ni la integración de Corea sin eliminar barreras de movilidad entre niveles de ingreso y regiones. También señaló que se rediseñarán los incentivos en finanzas, impuestos y oferta para pasar de una estructura dependiente de rentas inmobiliarias no ganadas a una economía productiva. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Ministro Kim Yun-deok rebate temor de trava na oferta de moradias: “Este governo será diferente”",
+        "excerpt": "Kim Yun-deok, ministro da Terra, Infraestrutura e Transporte, disse no dia 10 que o receio de retenção de imóveis após a volta da sobretaxa sobre ganhos de capital reflete experiências passadas.",
+        "body": "O ministro da Terra, Infraestrutura e Transporte, Kim Yun-deok, afirmou no dia 10 que “este governo será diferente” diante das preocupações de que imóveis deixem de ser colocados à venda após a retomada da sobretaxa do imposto sobre ganhos de capital para proprietários de múltiplas moradias. Em publicação no X, antigo Twitter, Kim disse que as previsões de retenção de oferta se baseiam em grande parte em experiências com governos anteriores e que, em uma visão de longo prazo, essa experiência histórica não se repetirá da mesma forma no Governo da Soberania Popular. Ele afirmou que governos anteriores buscaram estabilizar o mercado imobiliário mantendo o quadro macroeconômico de moeda e finanças. Já o governo Lee Jae-myung, segundo Kim, promove reformas institucionais fundamentais por entender que o futuro e a integração da Coreia não podem ser garantidos sem remover barreiras de mobilidade entre classes de renda e regiões. O ministro também citou a reformulação de incentivos em finanças, impostos e oferta para deslocar a economia da dependência de ganhos imobiliários não produtivos para uma estrutura produtiva. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Minister Kim Yun-deok zu Sorge vor Wohnungszurückhaltung: „Diese Regierung wird anders sein“",
+        "excerpt": "Landminister Kim Yun-deok sagte am 10., die Sorge vor ausbleibenden Wohnungsangeboten nach der Wiederaufnahme des Steuerzuschlags für Mehrfachbesitzer beruhe vor allem auf früheren Erfahrungen.",
+        "body": "Kim Yun-deok, Minister für Land, Infrastruktur und Verkehr, erklärte am 10., die aktuelle Regierung werde „anders sein“, nachdem nach der Wiederaufnahme des Zuschlags auf die Kapitalertragsteuer für Mehrfachwohnungsbesitzer Sorgen über zurückgehaltene Wohnungsangebote aufgekommen waren. Auf X, früher Twitter, schrieb Kim, solche Prognosen stützten sich überwiegend auf Erfahrungen mit früheren Regierungen. Aus längerer Perspektive werde sich diese historische Erfahrung unter der Regierung der Volkssouveränität nicht einfach wiederholen. Frühere Regierungen hätten Stabilisierungspolitik für den Immobilienmarkt verfolgt, während sie den makroökonomischen Rahmen für Geld- und Finanzpolitik beibehielten. Die Regierung Lee Jae-myung treibe dagegen grundlegende institutionelle Reformen voran, weil Koreas Zukunft und Integration ohne den Abbau von Mobilitätshürden zwischen Einkommensschichten und Regionen nicht gesichert werden könnten. Kim nannte zudem eine Neugestaltung der Anreize in Finanzierung, Steuern und Angebot, um von einer auf Immobiliengewinne ohne Arbeitsleistung gestützten Struktur zu einer produktiven Wirtschaftsstruktur überzugehen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Kim Yun-deok répond aux craintes de blocage des ventes immobilières : « Ce gouvernement sera différent »",
+        "excerpt": "Le ministre Kim Yun-deok a déclaré le 10 que les craintes de blocage des ventes après le retour de la surtaxe sur les plus-values des multipropriétaires reposent surtout sur l’expérience passée.",
+        "body": "Kim Yun-deok, ministre du Territoire, des Infrastructures et des Transports, a déclaré le 10 que « ce gouvernement sera différent » face aux inquiétudes concernant un possible blocage des mises en vente de logements après la reprise de la surtaxe sur les plus-values immobilières visant les propriétaires de plusieurs biens. Dans un message publié sur X, anciennement Twitter, Kim a indiqué que ces prévisions s’appuient en grande partie sur l’expérience des gouvernements précédents et que, dans une perspective de long terme, cette expérience historique ne se répétera pas nécessairement sous le Gouvernement de la souveraineté populaire. Il a expliqué que les administrations antérieures avaient cherché à stabiliser le marché immobilier tout en conservant le cadre macroéconomique de la monnaie et de la finance. Selon lui, le gouvernement Lee Jae-myung poursuit au contraire une réforme institutionnelle fondamentale, estimant que l’avenir et l’intégration de la Corée ne peuvent être garantis sans lever les barrières à la mobilité entre niveaux de revenu et régions. Il a aussi évoqué une refonte des incitations dans la finance, la fiscalité et l’offre afin de passer d’une économie dépendante des revenus immobiliers non gagnés à une structure productive. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "وزير الأراضي الكوري كيم يون-دوك يرد على مخاوف تجميد معروض المساكن: الحكومة الحالية مختلفة",
+        "excerpt": "قال وزير الأراضي والبنية التحتية والنقل كيم يون-دوك في 10 من الشهر إن مخاوف تراجع معروض المساكن بعد استئناف تشديد ضريبة أرباح رأس المال تستند أساسا إلى تجارب حكومات سابقة.",
+        "body": "قال وزير الأراضي والبنية التحتية والنقل الكوري كيم يون-دوك في 10 من الشهر إن «هذه الحكومة ستكون مختلفة» ردا على المخاوف من تراجع طرح المساكن للبيع بعد استئناف تشديد ضريبة أرباح رأس المال على مالكي عدة منازل. وكتب كيم على منصة إكس، تويتر سابقا، أن توقعات تجميد المعروض تستند في معظمها إلى تجارب الحكومات السابقة، مضيفا أنه عند النظر على مدى أطول لن تتكرر التجربة التاريخية نفسها بالضرورة في ظل حكومة السيادة الشعبية. وأوضح أن الحكومات السابقة دفعت بسياسات استقرار سوق العقارات مع الحفاظ على الإطار الأساسي لإدارة الاقتصاد الكلي، بما في ذلك النقد والتمويل. أما حكومة لي جاي-ميونغ، بحسب كيم، فتدفع بإصلاح مؤسسي جذري انطلاقا من قناعة بأن مستقبل كوريا وتكاملها لا يمكن ضمانهما من دون إزالة حواجز الانتقال بين طبقات الدخل والمناطق. كما أشار إلى إعادة تصميم الحوافز الاقتصادية في التمويل والضرائب والعرض للانتقال من بنية تعتمد على مكاسب عقارية غير مكتسبة إلى بنية اقتصادية منتجة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "भूमि मंत्री किम यून-देओक ने आवास बिक्री रुकने की आशंका पर कहा: “यह सरकार अलग होगी”",
+        "excerpt": "भूमि, अवसंरचना और परिवहन मंत्री किम यून-देओक ने 10 तारीख को कहा कि बहु-घर मालिकों पर पूंजीगत लाभ कर अधिभार बहाल होने के बाद आवास बिक्री रुकने की आशंका पिछली सरकारों के अनुभव पर आधारित है।",
+        "body": "दक्षिण कोरिया के भूमि, अवसंरचना और परिवहन मंत्री किम यून-देओक ने 10 तारीख को कहा कि बहु-घर मालिकों पर पूंजीगत लाभ कर अधिभार दोबारा लागू होने के बाद आवास की बिक्री सूची घटने की आशंका पर “यह सरकार अलग होगी।” किम ने सोशल मीडिया मंच X, पूर्व में ट्विटर, पर लिखा कि बिक्री रुकने के अनुमान अधिकतर पिछली सरकारों के अनुभवों पर आधारित हैं और लंबी अवधि में वही ऐतिहासिक अनुभव जनसत्ता सरकार के तहत उसी तरह दोहराया नहीं जाएगा। उन्होंने कहा कि पूर्ववर्ती सरकारों ने मौद्रिक और वित्तीय जैसे व्यापक आर्थिक संचालन के मूल ढांचे को बनाए रखते हुए रियल एस्टेट बाजार स्थिर करने की नीतियां चलाईं। इसके विपरीत, ली जे-म्यॉन्ग सरकार आय वर्गों और क्षेत्रों के बीच सामाजिक गतिशीलता की बाधाएं हटाने को कोरिया के भविष्य और एकीकरण के लिए जरूरी मानते हुए बुनियादी संस्थागत सुधार आगे बढ़ा रही है। किम ने वित्त, कर और आपूर्ति से जुड़े आर्थिक प्रोत्साहनों को फिर से डिजाइन कर अचल संपत्ति से मिलने वाली अनर्जित आय पर निर्भर ढांचे से उत्पादक आर्थिक ढांचे की ओर जाने की बात भी कही। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Menteri Kim Yun-deok Tanggapi Kekhawatiran Pasokan Rumah Terkunci: “Pemerintah Ini Berbeda”",
+        "excerpt": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yun-deok pada tanggal 10 mengatakan kekhawatiran pasokan rumah terkunci setelah kembalinya pajak tambahan keuntungan modal lebih banyak berdasar pengalaman masa lalu.",
+        "body": "Menteri Pertanahan, Infrastruktur, dan Transportasi Kim Yun-deok pada tanggal 10 mengatakan bahwa “pemerintah ini akan berbeda” terkait kekhawatiran bahwa rumah yang dijual akan tertahan setelah diberlakukannya kembali pajak tambahan keuntungan modal bagi pemilik banyak rumah. Melalui media sosial X, sebelumnya Twitter, Kim menyatakan bahwa perkiraan pasokan terkunci umumnya didasarkan pada pengalaman dengan pemerintahan sebelumnya, dan dalam pandangan jangka panjang pengalaman historis itu tidak akan terulang sama persis di bawah Pemerintah Kedaulatan Rakyat. Ia menjelaskan bahwa pemerintah sebelumnya mendorong kebijakan stabilisasi pasar properti sambil mempertahankan kerangka dasar pengelolaan makroekonomi seperti moneter dan keuangan. Sebaliknya, menurut Kim, pemerintahan Lee Jae-myung mendorong reformasi kelembagaan mendasar karena menilai masa depan dan integrasi Korea tidak dapat dijamin tanpa menghapus hambatan mobilitas antar kelompok pendapatan dan antar wilayah. Ia juga menyebut perancangan ulang insentif ekonomi di bidang keuangan, pajak, dan pasokan untuk beralih dari struktur yang bergantung pada pendapatan tak diperoleh dari properti menuju struktur ekonomi produktif. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "02406fbe1813",
+    "slug": "코스피-불장에-빚투-급증마통-하루-평균-2400억씩-불어나-860667",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T14:15:20.089Z",
+    "updatedAt": "2026-05-10T14:15:20.090Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892991/1",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892991/1",
+    "titleFingerprint": "c6d514cafd88b641fd619afe9524a50885275e48",
+    "dedupKeys": [
+      "02406fbe181330e5f8fa900a16d550edddf58a49",
+      "c6d514cafd88b641fd619afe9524a50885275e48",
+      "056b1e804963d15f25a39fd2a200fedae4895207"
+    ],
+    "imageUrl": "/images/articles/02406fbe1813.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 불장에 빚투 급증, 5대 은행 마이너스통장 40조 돌파",
+        "excerpt": "10일 금융권에 따르면 코스피 상승과 FOMO 심리 속에 5대 은행 개인 마이너스통장 사용 잔액이 7일 기준 40조5029억 원으로 3년 3개월 만에 최대치를 기록했다.",
+        "body": "코스피 상승세가 이어지면서 개인 투자자들의 ‘빚투’가 빠르게 늘고 있다. 10일 금융권에 따르면 7일 기준 KB국민, 신한, 하나, 우리, NH농협 등 5대 은행의 개인 마이너스통장 사용 잔액은 40조5029억 원으로 집계됐다. 이는 3년 3개월 만에 최대치다. 이달 들어서는 하루 평균 2400억 원 가까이 증가해 급전 마련 수요가 커진 것으로 보인다. 서울 동대문구의 김정수 씨는 최근 만든 마이너스통장에서 1000만 원을 증권사 계좌로 옮겨 삼성전자와 SK하이닉스 주식을 샀다고 말했다. 회사 동료들의 투자 수익 이야기가 이어지자 상대적 박탈감과 FOMO 심리가 커졌다는 설명이다. 반도체 호황이 코스피 강세를 뒷받침하는 가운데 차입 투자 확대에 따른 손실 우려도 함께 제기된다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "KOSPI Rally Fuels Debt Investing as Overdraft Balances Top 40 Trillion Won",
+        "excerpt": "Financial sources said on May 10 that amid the KOSPI rally and FOMO, personal overdraft balances at five major banks reached 40.5029 trillion won as of May 7, the highest in three years and three months.",
+        "body": "As the KOSPI continues to rise, debt-financed stock investing by individuals is increasing rapidly. According to financial industry sources on May 10, personal overdraft balances at KB Kookmin, Shinhan, Hana, Woori and NH NongHyup stood at 40.5029 trillion won as of May 7. This was the highest level in three years and three months. Since the start of the month, the balance has grown by nearly 240 billion won a day on average, indicating stronger demand for quick cash. Kim Jung-soo, a 42-year-old resident of Seoul’s Dongdaemun District, said he transferred 10 million won from a newly opened overdraft account to a brokerage account and bought Samsung Electronics and SK hynix shares. He said repeated stories of colleagues making money in stocks intensified his sense of relative deprivation and FOMO. With the semiconductor boom supporting the KOSPI, concerns are also rising over possible losses from expanded borrowing for investment. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "KOSPI上昇で借金投資急増、5大銀行のマイナス通帳残高40兆ウォン超",
+        "excerpt": "金融圏が10日に明らかにしたところによると、KOSPI上昇とFOMO心理の中、5大銀行の個人マイナス通帳使用残高は7日時点で40兆5029億ウォンとなり、3年3カ月ぶりの高水準となった。",
+        "body": "KOSPIの上昇基調が続く中、個人投資家によるいわゆる「借金投資」が急速に増えている。金融圏によると、7日時点でKB国民、新韓、ハナ、ウリ、NH農協の5大銀行における個人マイナス通帳の使用残高は40兆5029億ウォンと集計された。これは3年3カ月ぶりの最大水準だ。今月に入ってからは1日平均で約2400億ウォン増え、急な資金需要が目立っている。ソウル東大門区のキム・ジョンスさんは、最近作ったマイナス通帳から1000万ウォンを証券口座に移し、サムスン電子とSKハイニックス株を買ったと語った。同僚たちの投資収益の話が続き、相対的な剥奪感とFOMO心理が強まったという。半導体好況がKOSPIを支える一方、借入投資拡大による損失懸念も出ている。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "KOSPI牛市带动借钱投资激增，五大银行透支账户余额突破40万亿韩元",
+        "excerpt": "韩国金融业10日称，在KOSPI上涨和FOMO心理影响下，截至7日，五大银行个人透支账户使用余额达40.5029万亿韩元，创3年3个月来最高。",
+        "body": "随着KOSPI持续上涨，个人投资者“借钱炒股”快速增加。据韩国金融业10日消息，截至7日，KB国民、新韩、韩亚、友利、NH农协等五大银行的个人透支账户使用余额为40.5029万亿韩元。这是3年3个月来的最高水平。进入本月后，余额日均增加近2400亿韩元，显示临时资金需求突出。居住在首尔东大门区的42岁金正洙表示，他从最近开设的透支账户中转出1000万韩元至证券账户，买入三星电子和SK海力士股票。他说，公司同事群里不断有人谈论靠股票赚钱，使他的相对剥夺感和FOMO心理加重。在半导体景气支撑KOSPI走强的同时，借款投资扩大带来的亏损担忧也在上升。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El rally del KOSPI dispara la inversión con deuda y los sobregiros superan 40 billones de wones",
+        "excerpt": "Fuentes financieras informaron el 10 de mayo que, por el alza del KOSPI y el FOMO, los saldos usados de líneas de sobregiro personal en cinco grandes bancos llegaron el día 7 a 40,5029 billones de wones, máximo en tres años y tres meses.",
+        "body": "El avance sostenido del KOSPI está impulsando un rápido aumento de la inversión en acciones financiada con deuda entre particulares. Según fuentes del sector financiero citadas el 10 de mayo, el saldo usado de las cuentas de sobregiro personal en KB Kookmin, Shinhan, Hana, Woori y NH NongHyup alcanzó 40,5029 billones de wones al 7 de mayo. Es el nivel más alto en tres años y tres meses. Desde comienzos de mes, el saldo ha aumentado en promedio cerca de 240.000 millones de wones diarios, lo que refleja una mayor demanda de liquidez rápida. Kim Jung-soo, de 42 años y residente en Dongdaemun, Seúl, dijo que transfirió 10 millones de wones desde una cuenta de sobregiro recién abierta a una cuenta bursátil y compró acciones de Samsung Electronics y SK hynix. Explicó que las historias de ganancias de sus compañeros elevaron su sensación de privación relativa y FOMO. Mientras el auge de semiconductores sostiene al KOSPI, también crece la preocupación por pérdidas derivadas de invertir con dinero prestado. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Alta do KOSPI amplia investimento com dívida e cheque especial passa de 40 trilhões de won",
+        "excerpt": "Fontes financeiras disseram em 10 de maio que, com a alta do KOSPI e o FOMO, o saldo usado de limites pessoais em cinco grandes bancos chegou a 40,5029 trilhões de won em 7 de maio, maior nível em três anos e três meses.",
+        "body": "A continuidade da alta do KOSPI está levando investidores individuais a aumentar rapidamente o chamado investimento com dinheiro emprestado. Segundo fontes do setor financeiro em 10 de maio, o saldo usado de contas pessoais de limite negativo no KB Kookmin, Shinhan, Hana, Woori e NH NongHyup somava 40,5029 trilhões de won em 7 de maio. O valor é o maior em três anos e três meses. Desde o início do mês, o saldo cresce em média quase 240 bilhões de won por dia, indicando maior demanda por recursos imediatos. Kim Jung-soo, de 42 anos, morador de Dongdaemun, em Seul, disse que transferiu 10 milhões de won de uma conta recém-aberta para uma corretora e comprou ações da Samsung Electronics e da SK hynix. Ele afirmou que relatos constantes de colegas ganhando dinheiro com ações aumentaram sua sensação de privação relativa e FOMO. Com o boom dos semicondutores sustentando o KOSPI, crescem também as preocupações com perdas ligadas ao investimento financiado por dívida. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "KOSPI-Rally treibt kreditfinanzierte Aktienkäufe: Überziehungssalden über 40 Billionen Won",
+        "excerpt": "Finanzkreise teilten am 10. Mai mit, dass die genutzten privaten Überziehungskredite bei fünf Großbanken amid KOSPI-Rally und FOMO bis zum 7. Mai auf 40,5029 Billionen Won stiegen, den höchsten Stand seit drei Jahren und drei Monaten.",
+        "body": "Die anhaltende KOSPI-Rally lässt kreditfinanzierte Aktienkäufe privater Anleger rasch zunehmen. Nach Angaben aus Finanzkreisen vom 10. Mai belief sich der genutzte Saldo privater Überziehungskonten bei KB Kookmin, Shinhan, Hana, Woori und NH NongHyup am 7. Mai auf 40,5029 Billionen Won. Das ist der höchste Stand seit drei Jahren und drei Monaten. Seit Monatsbeginn wächst der Saldo im Schnitt um fast 240 Milliarden Won pro Tag, was auf eine stärkere Nachfrage nach kurzfristiger Liquidität hindeutet. Kim Jung-soo, 42, aus dem Seouler Bezirk Dongdaemun, sagte, er habe 10 Millionen Won von einem neu eröffneten Überziehungskonto auf ein Wertpapierkonto überwiesen und Aktien von Samsung Electronics und SK hynix gekauft. Er erklärte, ständige Berichte von Kollegen über Aktiengewinne hätten sein Gefühl relativer Benachteiligung und FOMO verstärkt. Während der Halbleiterboom den KOSPI stützt, nehmen zugleich Sorgen über Verluste aus ausgeweiteten kreditfinanzierten Anlagen zu. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le rally du KOSPI dope l’investissement à crédit, les découverts dépassent 40 billions de wons",
+        "excerpt": "Des sources financières ont indiqué le 10 mai qu’avec la hausse du KOSPI et le FOMO, les soldes utilisés de découverts personnels dans cinq grandes banques atteignaient 40,5029 billions de wons au 7 mai, un sommet en trois ans et trois mois.",
+        "body": "La poursuite de la hausse du KOSPI entraîne une progression rapide de l’investissement boursier financé par l’emprunt chez les particuliers. Selon des sources financières citées le 10 mai, les soldes utilisés des comptes de découvert personnel chez KB Kookmin, Shinhan, Hana, Woori et NH NongHyup atteignaient 40,5029 billions de wons au 7 mai. Il s’agit du niveau le plus élevé depuis trois ans et trois mois. Depuis le début du mois, ces soldes augmentent en moyenne de près de 240 milliards de wons par jour, signe d’une demande accrue de liquidités rapides. Kim Jung-soo, 42 ans, habitant de Dongdaemun à Séoul, a déclaré avoir transféré 10 millions de wons depuis un compte de découvert récemment ouvert vers un compte de courtage, puis acheté des actions Samsung Electronics et SK hynix. Il a expliqué que les récits répétés de gains boursiers de ses collègues avaient renforcé son sentiment de privation relative et son FOMO. Alors que l’essor des semi-conducteurs soutient le KOSPI, les inquiétudes liées aux pertes possibles des investissements à crédit progressent aussi. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "صعود كوسبي يزيد الاستثمار بالدين وأرصدة السحب المكشوف تتجاوز 40 تريليون وون",
+        "excerpt": "قالت مصادر مالية في 10 مايو إن ارتفاع كوسبي ومخاوف فوات الفرصة دفعا رصيد استخدام حسابات السحب المكشوف الشخصية في خمسة بنوك كبرى إلى 40.5029 تريليون وون حتى 7 مايو، وهو الأعلى منذ ثلاث سنوات وثلاثة أشهر.",
+        "body": "مع استمرار صعود مؤشر كوسبي، يتزايد بسرعة الاستثمار في الأسهم بأموال مقترضة بين الأفراد. ووفق مصادر في القطاع المالي في 10 مايو، بلغ رصيد استخدام حسابات السحب المكشوف الشخصية لدى بنوك KB Kookmin وShinhan وHana وWoori وNH NongHyup نحو 40.5029 تريليون وون حتى 7 مايو. وهذا أعلى مستوى منذ ثلاث سنوات وثلاثة أشهر. ومنذ بداية الشهر، زاد الرصيد بنحو 240 مليار وون يوميا في المتوسط، ما يشير إلى ارتفاع الطلب على السيولة العاجلة. وقال كيم جونغ سو، البالغ 42 عاما والمقيم في حي دونغديمون في سول، إنه حوّل 10 ملايين وون من حساب سحب مكشوف افتتحه مؤخرا إلى حساب لدى شركة وساطة واشترى أسهما في Samsung Electronics وSK hynix. وأوضح أن أحاديث زملائه المتكررة عن تحقيق أرباح من الأسهم زادت شعوره بالحرمان النسبي ومخاوف فوات الفرصة. وبينما يدعم ازدهار أشباه الموصلات قوة كوسبي، تتزايد أيضا المخاوف من خسائر محتملة بسبب توسع الاستثمار بالاقتراض. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "KOSPI की तेजी से कर्ज लेकर निवेश बढ़ा, पांच बड़े बैंकों में ओवरड्राफ्ट 40 ट्रिलियन वॉन पार",
+        "excerpt": "वित्तीय क्षेत्र ने 10 मई को बताया कि KOSPI की तेजी और FOMO के बीच पांच बड़े बैंकों में व्यक्तिगत ओवरड्राफ्ट उपयोग शेष 7 मई तक 40.5029 ट्रिलियन वॉन पहुंच गया, जो तीन साल तीन महीने का उच्चतम स्तर है।",
+        "body": "KOSPI में लगातार तेजी के साथ व्यक्तिगत निवेशकों में कर्ज लेकर शेयर खरीदने की प्रवृत्ति तेजी से बढ़ रही है। वित्तीय क्षेत्र के अनुसार, 7 मई तक KB Kookmin, Shinhan, Hana, Woori और NH NongHyup सहित पांच बड़े बैंकों में व्यक्तिगत ओवरड्राफ्ट खातों का उपयोग शेष 40.5029 ट्रिलियन वॉन रहा। यह तीन साल और तीन महीने में सबसे ऊंचा स्तर है। इस महीने की शुरुआत से यह शेष रोज औसतन लगभग 240 बिलियन वॉन बढ़ा है, जिससे तत्काल नकदी की मांग मजबूत दिखती है। सियोल के डोंगदेमुन जिले में रहने वाले 42 वर्षीय किम जंग-सू ने कहा कि उन्होंने हाल ही में खोले गए ओवरड्राफ्ट खाते से 10 मिलियन वॉन ब्रोकरेज खाते में भेजे और Samsung Electronics तथा SK hynix के शेयर खरीदे। उनके अनुसार, सहकर्मियों की शेयरों से कमाई की लगातार बातें सुनकर सापेक्ष वंचना और FOMO बढ़ गया। सेमीकंडक्टर उछाल KOSPI को सहारा दे रहा है, लेकिन उधार लेकर निवेश बढ़ने से संभावित नुकसान की चिंता भी बढ़ रही है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Reli KOSPI Picu Investasi Utang, Saldo Minus Lima Bank Besar Tembus 40 Triliun Won",
+        "excerpt": "Sumber keuangan pada 10 Mei menyebut kenaikan KOSPI dan FOMO membuat saldo penggunaan rekening minus pribadi di lima bank besar mencapai 40,5029 triliun won per 7 Mei, tertinggi dalam tiga tahun tiga bulan.",
+        "body": "Kenaikan KOSPI yang berlanjut membuat investasi saham dengan dana pinjaman oleh individu meningkat cepat. Menurut sumber sektor keuangan pada 10 Mei, saldo penggunaan rekening minus pribadi di KB Kookmin, Shinhan, Hana, Woori, dan NH NongHyup mencapai 40,5029 triliun won per 7 Mei. Angka itu merupakan yang tertinggi dalam tiga tahun tiga bulan. Sejak awal bulan, saldo tersebut bertambah rata-rata hampir 240 miliar won per hari, menunjukkan meningkatnya kebutuhan dana cepat. Kim Jung-soo, 42 tahun, warga Dongdaemun, Seoul, mengatakan ia memindahkan 10 juta won dari rekening minus yang baru dibuat ke rekening sekuritas, lalu membeli saham Samsung Electronics dan SK hynix. Ia menjelaskan bahwa cerita rekan kerja yang terus membahas keuntungan saham memperbesar rasa tertinggal dan FOMO. Di tengah boom semikonduktor yang menopang KOSPI, kekhawatiran atas kerugian dari investasi berbasis pinjaman juga ikut menguat. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "af918796aa16",
     "slug": "코인-팔아-집-샀다30대-103억-원어치-가장-많아-599468",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Chungbuk Dorong Koperasi UKM untuk Perkuat Daya Saing Perusahaan",
         "excerpt": "Provinsi Chungbuk beralih dari dukungan yang berpusat pada perusahaan individual menuju aktivasi koperasi UKM guna memperkuat daya saing melalui kolaborasi antarusaha.",
         "body": "Provinsi Chungbuk akan mendukung aktivasi koperasi usaha kecil dan menengah, yaitu organisasi kolaborasi antar-UKM. Langkah ini menunjukkan pergeseran dari kebijakan dukungan yang selama ini berfokus pada perusahaan individual menuju penguatan dasar organisasi yang memungkinkan perusahaan bekerja sama. Koperasi UKM menyediakan struktur bagi perusahaan untuk menanggapi secara bersama persoalan yang sulit diselesaikan sendiri. Chungbuk akan memusatkan dukungan pada peningkatan kemampuan respons dan basis usaha UKM lokal melalui model koperasi ini. Arah kebijakan tersebut diperkirakan dapat memperluas sistem kerja sama di antara UKM daerah dan mendorong aktivitas koperasi menjadi lebih aktif. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4747a4420e00",
-    "slug": "인천시-도시주거환경정비사업에-지역업체-인센티브-강화-647184",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T23:49:51.027Z",
-    "updatedAt": "2026-05-09T23:49:51.027Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510006600065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510006600065",
-    "titleFingerprint": "32d29767c8566d27618d683fd5f9fd9c994e1839",
-    "dedupKeys": [
-      "4747a4420e00e19b5b76c0939457331175cf3dd0",
-      "32d29767c8566d27618d683fd5f9fd9c994e1839",
-      "4db0707b9191c8391a7c26743e4a450d69d5d605"
-    ],
-    "imageUrl": "/images/articles/4747a4420e00.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시, 정비사업 지역업체 인센티브 강화로 건설산업 지원",
-        "excerpt": "인천시는 10일 도시·주거환경정비사업에서 지역업체 인센티브를 강화하는 지원책을 시행해 지역 건설산업 활성화를 추진한다고 밝혔다.",
-        "body": "인천시는 10일 지역 건설산업 활성화를 위해 도시·주거환경정비사업에서 지역업체 인센티브를 강화하는 지원책을 시행한다고 밝혔다. 이번 조치는 정비사업 과정에서 지역 건설업체 참여를 높이는 데 초점을 맞춘 것이다. 시는 도시·주거환경정비사업과 연계해 지역업체에 대한 인센티브를 강화하고, 이를 통해 지역 건설산업을 지원한다는 방침이다. 지역업체 참여 확대는 관련 산업 기반을 뒷받침하는 정책 수단으로 활용될 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Incheon Strengthens Local Firm Incentives in Redevelopment Projects",
-        "excerpt": "Incheon said on the 10th it will implement support measures to strengthen incentives for local firms in urban and residential redevelopment projects to boost the local construction industry.",
-        "body": "Incheon City said on the 10th that it will implement support measures to revitalize the local construction industry by strengthening incentives for local companies in urban and residential environment improvement projects. The measure focuses on increasing the participation of local construction firms in redevelopment and maintenance projects. The city plans to reinforce incentives linked to these projects and use them as a policy tool to support the regional construction sector. The expanded role of local firms is expected to help underpin the local industry base. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "仁川市、整備事業で地域企業インセンティブ強化し建設業支援",
-        "excerpt": "仁川市は10日、都市・住居環境整備事業で地域企業へのインセンティブを強化する支援策を実施し、地域建設産業の活性化を図ると明らかにした。",
-        "body": "仁川市は10日、地域建設産業の活性化に向け、都市・住居環境整備事業で地域企業へのインセンティブを強化する支援策を実施すると明らかにした。今回の措置は、整備事業の過程で地域の建設企業の参加を高めることに重点を置くものだ。市は都市・住居環境整備事業と連動して地域企業へのインセンティブを強化し、これを通じて地域建設産業を支援する方針だ。地域企業の参加拡大は、関連産業基盤を支える政策手段として活用される見通しだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "仁川市强化整治项目本地企业激励措施支持建筑业",
-        "excerpt": "仁川市10日表示，将在城市和居住环境整治项目中强化对本地企业的激励措施，以推动本地建筑产业活跃发展。",
-        "body": "仁川市10日表示，将实施支持措施，通过在城市和居住环境整治项目中强化对本地企业的激励，促进本地建筑产业活跃发展。该措施的重点是在整治项目过程中提高本地建筑企业的参与度。仁川市计划结合城市和居住环境整治项目，加强对本地企业的激励，并以此支持地区建筑产业。扩大本地企业参与预计将成为支撑相关产业基础的一项政策手段。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Incheon refuerza incentivos a firmas locales en proyectos urbanos",
-        "excerpt": "Incheon anunció el día 10 que aplicará medidas para reforzar los incentivos a empresas locales en proyectos de mejora urbana y residencial, con el fin de activar la construcción local.",
-        "body": "La ciudad de Incheon anunció el día 10 que implementará medidas de apoyo para revitalizar la industria local de la construcción mediante el refuerzo de incentivos a empresas locales en proyectos de mejora del entorno urbano y residencial. La medida se centra en elevar la participación de constructoras locales en estos proyectos de renovación. La ciudad planea fortalecer los incentivos vinculados a las obras de mejora urbana y residencial y utilizarlos como herramienta de política para apoyar al sector de la construcción regional. La mayor participación de firmas locales podría respaldar la base industrial relacionada. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Incheon reforça incentivos a empresas locais em projetos urbanos",
-        "excerpt": "Incheon informou no dia 10 que adotará medidas para reforçar incentivos a empresas locais em projetos de melhoria urbana e residencial, buscando ativar a construção regional.",
-        "body": "A cidade de Incheon informou no dia 10 que implementará medidas de apoio para revitalizar a indústria local da construção, reforçando incentivos a empresas locais em projetos de melhoria do ambiente urbano e residencial. A medida tem foco em ampliar a participação de construtoras locais nesses projetos de requalificação. A cidade pretende fortalecer os incentivos ligados aos projetos urbanos e residenciais e usá-los como instrumento de política para apoiar o setor regional da construção. A expansão da participação local deve servir de apoio à base industrial relacionada. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Incheon stärkt Anreize für lokale Firmen bei Stadterneuerung",
-        "excerpt": "Incheon teilte am 10. mit, Unterstützungsmaßnahmen umzusetzen, die Anreize für lokale Unternehmen bei Stadt- und Wohnumfeldprojekten stärken und die Bauwirtschaft beleben sollen.",
-        "body": "Die Stadt Incheon teilte am 10. mit, sie werde Unterstützungsmaßnahmen zur Belebung der lokalen Bauwirtschaft umsetzen, indem sie Anreize für regionale Unternehmen bei Projekten zur Verbesserung des Stadt- und Wohnumfelds stärkt. Die Maßnahme zielt darauf ab, die Beteiligung lokaler Bauunternehmen an Sanierungs- und Erneuerungsprojekten zu erhöhen. Die Stadt will die mit diesen Projekten verbundenen Anreize für lokale Firmen ausbauen und so den regionalen Bausektor unterstützen. Eine stärkere Beteiligung regionaler Unternehmen dürfte als politisches Mittel zur Stützung der entsprechenden Industriebasis dienen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Incheon renforce les incitations aux entreprises locales dans la rénovation",
-        "excerpt": "Incheon a annoncé le 10 qu’elle appliquerait des mesures renforçant les incitations aux entreprises locales dans les projets urbains et résidentiels afin de dynamiser le BTP local.",
-        "body": "La ville d’Incheon a annoncé le 10 qu’elle mettrait en œuvre des mesures de soutien pour dynamiser l’industrie locale de la construction en renforçant les incitations accordées aux entreprises locales dans les projets d’amélioration de l’environnement urbain et résidentiel. Cette mesure vise à accroître la participation des entreprises de construction locales aux opérations de rénovation. La ville prévoit de renforcer les incitations liées à ces projets et d’en faire un outil de politique publique pour soutenir le secteur régional du BTP. L’élargissement de la participation locale devrait contribuer à soutenir la base industrielle concernée. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إنتشون تعزز حوافز الشركات المحلية في مشروعات التطوير السكني",
-        "excerpt": "قالت مدينة إنتشون في اليوم العاشر إنها ستنفذ إجراءات دعم تعزز حوافز الشركات المحلية في مشروعات تحسين البيئة الحضرية والسكنية لتنشيط قطاع البناء المحلي.",
-        "body": "قالت مدينة إنتشون في اليوم العاشر إنها ستنفذ إجراءات دعم لتنشيط صناعة البناء المحلية من خلال تعزيز الحوافز المقدمة للشركات المحلية في مشروعات تحسين البيئة الحضرية والسكنية. وتركز هذه الخطوة على زيادة مشاركة شركات البناء المحلية في مشروعات التطوير والتحسين. وتعتزم المدينة تعزيز الحوافز المرتبطة بهذه المشروعات واستخدامها أداة سياسية لدعم قطاع البناء الإقليمي. ومن المتوقع أن يسهم توسيع مشاركة الشركات المحلية في دعم قاعدة الصناعات ذات الصلة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन पुनर्विकास परियोजनाओं में स्थानीय कंपनियों के प्रोत्साहन बढ़ाएगा",
-        "excerpt": "इंचियोन ने 10 तारीख को कहा कि वह शहरी और आवासीय पर्यावरण सुधार परियोजनाओं में स्थानीय कंपनियों के लिए प्रोत्साहन मजबूत कर स्थानीय निर्माण उद्योग को सक्रिय करेगा।",
-        "body": "इंचियोन शहर ने 10 तारीख को कहा कि वह स्थानीय निर्माण उद्योग को सक्रिय करने के लिए शहरी और आवासीय पर्यावरण सुधार परियोजनाओं में स्थानीय कंपनियों के लिए प्रोत्साहन मजबूत करने वाली सहायता नीति लागू करेगा। इस कदम का केंद्र पुनर्विकास और सुधार परियोजनाओं में स्थानीय निर्माण कंपनियों की भागीदारी बढ़ाना है। शहर इन परियोजनाओं से जुड़े प्रोत्साहनों को मजबूत कर क्षेत्रीय निर्माण उद्योग को समर्थन देने की योजना रखता है। स्थानीय कंपनियों की भागीदारी में विस्तार संबंधित औद्योगिक आधार को सहारा देने वाले नीति साधन के रूप में इस्तेमाल होने की उम्मीद है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Incheon Perkuat Insentif Perusahaan Lokal di Proyek Penataan Kota",
-        "excerpt": "Incheon pada tanggal 10 menyatakan akan menerapkan dukungan yang memperkuat insentif bagi perusahaan lokal dalam proyek penataan kota dan hunian demi menggerakkan konstruksi daerah.",
-        "body": "Kota Incheon pada tanggal 10 menyatakan akan menerapkan langkah dukungan untuk mengaktifkan industri konstruksi lokal dengan memperkuat insentif bagi perusahaan daerah dalam proyek perbaikan lingkungan perkotaan dan hunian. Kebijakan ini berfokus pada peningkatan partisipasi perusahaan konstruksi lokal dalam proses proyek penataan. Pemerintah kota berencana memperkuat insentif yang terkait dengan proyek tersebut dan menggunakannya sebagai alat kebijakan untuk mendukung industri konstruksi regional. Perluasan partisipasi perusahaan lokal diperkirakan menjadi cara untuk menopang basis industri terkait. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4883aef2ffa9",
-    "slug": "인천시-취약계층-22만명에-고유가-피해지원금-5만원-추가지급-942852",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T23:49:01.647Z",
-    "updatedAt": "2026-05-09T23:49:01.647Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510009200065",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510009200065",
-    "titleFingerprint": "3280e606cf2d208263ff0cbd5b0160277d087524",
-    "dedupKeys": [
-      "4883aef2ffa9475998844c55d8c0be31144f2b51",
-      "3280e606cf2d208263ff0cbd5b0160277d087524",
-      "24d57bb0f63588f336859cf7aa22edffe430816f"
-    ],
-    "imageUrl": "/images/articles/4883aef2ffa9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "인천시 고유가 피해지원금, 취약계층 22만명에 5만원 추가 지급",
-        "excerpt": "인천시는 고유가 피해지원금 1차 지급 대상자인 취약계층 22만명에게 11일부터 7월 3일까지 1인당 5만원을 추가 지급한다고 밝혔다.",
-        "body": "인천시는 고유가 피해지원금 1차 지급 대상자인 취약계층 22만명에게 이달 11일부터 7월 3일까지 1인당 5만원을 추가 지급한다. 이번 추가 지급은 고유가로 인한 부담을 덜기 위한 취지로, 기존 1차 지급 대상에 포함된 취약계층을 대상으로 진행된다. 지급 규모는 대상자 22만명, 지급액은 1인당 5만원이다. 인천시는 정해진 기간 안에 지원금을 지급해 취약계층의 에너지 비용 부담 완화에 나설 예정이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Incheon to Pay Extra 50,000 Won Fuel-Cost Aid to 220,000 Vulnerable Residents",
-        "excerpt": "Incheon City will provide an additional 50,000 won each from the 11th to July 3 to 220,000 vulnerable residents who were eligible for the first round of high fuel-price relief.",
-        "body": "Incheon City will make an additional payment of 50,000 won per person to 220,000 vulnerable residents who were eligible for the first round of high fuel-price relief, from the 11th of this month through July 3. The measure is intended to ease the burden caused by high fuel prices and applies to vulnerable groups already included in the initial payment program. The announced scale is 220,000 recipients, with each person receiving 50,000 won. The city plans to provide the support within the designated period to help reduce energy-cost pressure on vulnerable residents. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "仁川市、高油価被害支援金を脆弱層22万人に5万ウォン追加支給",
-        "excerpt": "仁川市は高油価被害支援金の1次支給対象である脆弱層22万人に、今月11日から7月3日まで1人5万ウォンを追加支給する。",
-        "body": "仁川市は、高油価被害支援金の1次支給対象である脆弱層22万人に対し、今月11日から7月3日まで1人当たり5万ウォンを追加支給する。今回の追加支給は、高油価による負担を軽減する目的で行われ、既存の1次支給対象に含まれた脆弱層が対象となる。支給規模は対象者22万人、支給額は1人当たり5万ウォン。仁川市は定められた期間内に支援金を支給し、脆弱層のエネルギー費用負担の緩和を図る方針だ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "仁川市将向22万名弱势群体追加发放5万韩元高油价补助",
-        "excerpt": "仁川市表示，将从本月11日至7月3日，向高油价受害补助第一轮对象中的22万名弱势群体每人追加发放5万韩元。",
-        "body": "仁川市将从本月11日至7月3日，向高油价受害补助第一轮发放对象中的22万名弱势群体每人追加发放5万韩元。此次追加发放旨在减轻高油价带来的负担，面向已被纳入第一轮发放对象的弱势群体实施。发放规模为22万人，金额为每人5万韩元。仁川市计划在规定期限内完成补助发放，以缓解弱势群体的能源费用压力。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Incheon dará 50.000 wones extra a 220.000 personas vulnerables por altos precios del combustible",
-        "excerpt": "La ciudad de Incheon pagará 50.000 wones adicionales entre el día 11 y el 3 de julio a 220.000 personas vulnerables incluidas en la primera ronda de ayuda por altos precios del combustible.",
-        "body": "La ciudad de Incheon pagará 50.000 wones adicionales por persona a 220.000 personas vulnerables que fueron beneficiarias de la primera ronda de apoyo por los altos precios del combustible, desde el día 11 de este mes hasta el 3 de julio. La medida busca aliviar la carga provocada por los altos precios del combustible y se aplicará a los grupos vulnerables ya incluidos en el primer pago. La escala anunciada es de 220.000 beneficiarios, con 50.000 wones por persona. Incheon prevé entregar la ayuda dentro del periodo establecido para reducir la presión de los costos de energía. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Incheon pagará 50 mil won extras a 220 mil vulneráveis por alta dos combustíveis",
-        "excerpt": "A cidade de Incheon pagará mais 50 mil won por pessoa, do dia 11 até 3 de julho, a 220 mil moradores vulneráveis incluídos na primeira rodada de auxílio por combustíveis caros.",
-        "body": "A cidade de Incheon fará um pagamento adicional de 50 mil won por pessoa a 220 mil moradores vulneráveis que foram incluídos na primeira rodada de auxílio por danos causados pelos altos preços dos combustíveis, do dia 11 deste mês até 3 de julho. A medida tem o objetivo de aliviar o peso da alta dos combustíveis e será aplicada aos grupos vulneráveis já contemplados no pagamento inicial. A escala informada é de 220 mil beneficiários, com 50 mil won por pessoa. Incheon pretende pagar o auxílio dentro do prazo definido para reduzir a pressão dos custos de energia. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Incheon zahlt 220.000 Bedürftigen zusätzlich 50.000 Won wegen hoher Kraftstoffpreise",
-        "excerpt": "Die Stadt Incheon zahlt vom 11. dieses Monats bis zum 3. Juli jeweils 50.000 Won zusätzlich an 220.000 Bedürftige, die zur ersten Runde der Hilfen wegen hoher Kraftstoffpreise gehörten.",
-        "body": "Die Stadt Incheon zahlt vom 11. dieses Monats bis zum 3. Juli zusätzlich 50.000 Won pro Person an 220.000 Bedürftige, die zur ersten Auszahlungsrunde der Hilfen wegen hoher Kraftstoffpreise gehörten. Die zusätzliche Zahlung soll die Belastung durch hohe Kraftstoffpreise mindern und richtet sich an vulnerable Gruppen, die bereits in das erste Programm einbezogen waren. Der Umfang beträgt 220.000 Empfänger, der Betrag liegt bei 50.000 Won pro Person. Incheon will die Unterstützung innerhalb des festgelegten Zeitraums auszahlen, um Energiekostenbelastungen zu verringern. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Incheon versera 50.000 wons supplémentaires à 220.000 personnes vulnérables",
-        "excerpt": "La ville d’Incheon versera du 11 de ce mois au 3 juillet 50.000 wons de plus à 220.000 personnes vulnérables concernées par la première aide liée aux prix élevés du carburant.",
-        "body": "La ville d’Incheon versera 50.000 wons supplémentaires par personne à 220.000 personnes vulnérables bénéficiaires de la première aide liée aux prix élevés du carburant, du 11 de ce mois au 3 juillet. Cette mesure vise à alléger la charge provoquée par les prix élevés du carburant et concerne les groupes vulnérables déjà inclus dans le premier versement. Le dispositif porte sur 220.000 bénéficiaires, avec un montant de 50.000 wons par personne. Incheon prévoit d’effectuer le paiement dans la période fixée afin de réduire la pression des coûts de l’énergie. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إنتشون تمنح 50 ألف وون إضافية لـ220 ألفا من الفئات الضعيفة بسبب ارتفاع الوقود",
-        "excerpt": "قالت مدينة إنتشون إنها ستدفع 50 ألف وون إضافية لكل شخص من 11 هذا الشهر حتى 3 يوليو إلى 220 ألفا من الفئات الضعيفة المشمولة بالجولة الأولى من دعم أضرار ارتفاع أسعار الوقود.",
-        "body": "ستدفع مدينة إنتشون 50 ألف وون إضافية لكل شخص إلى 220 ألفا من الفئات الضعيفة الذين كانوا ضمن مستحقي الجولة الأولى من دعم أضرار ارتفاع أسعار الوقود، وذلك من 11 هذا الشهر حتى 3 يوليو. وتهدف الدفعة الإضافية إلى تخفيف العبء الناجم عن ارتفاع أسعار الوقود، وتستهدف الفئات الضعيفة المدرجة بالفعل في الجولة الأولى. ويبلغ نطاق الصرف 220 ألف مستفيد، بقيمة 50 ألف وون لكل شخص. وتعتزم المدينة دفع الدعم خلال الفترة المحددة للمساعدة في تخفيف ضغط تكاليف الطاقة على الفئات الضعيفة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "इंचियोन 2.2 लाख कमजोर लोगों को ऊंचे ईंधन दामों पर 50,000 वॉन अतिरिक्त देगा",
-        "excerpt": "इंचियोन शहर ऊंचे ईंधन मूल्यों से राहत की पहली किस्त के पात्र 2.2 लाख कमजोर लोगों को इस महीने की 11 तारीख से 3 जुलाई तक प्रति व्यक्ति 50,000 वॉन अतिरिक्त देगा।",
-        "body": "इंचियोन शहर ऊंचे ईंधन मूल्यों से हुए नुकसान के लिए राहत की पहली किस्त के पात्र 2.2 लाख कमजोर लोगों को इस महीने की 11 तारीख से 3 जुलाई तक प्रति व्यक्ति 50,000 वॉन अतिरिक्त देगा। इस अतिरिक्त भुगतान का उद्देश्य ऊंचे ईंधन दामों से बढ़े बोझ को कम करना है और यह उन कमजोर वर्गों पर लागू होगा जो पहले दौर के भुगतान में शामिल थे। घोषित दायरा 2.2 लाख लाभार्थियों का है और राशि प्रति व्यक्ति 50,000 वॉन है। शहर तय अवधि के भीतर सहायता देकर कमजोर वर्गों की ऊर्जा लागत का दबाव घटाने की योजना बना रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Incheon Beri Tambahan 50.000 Won untuk 220.000 Warga Rentan Akibat Harga BBM Tinggi",
-        "excerpt": "Kota Incheon akan membayar tambahan 50.000 won per orang mulai tanggal 11 bulan ini hingga 3 Juli kepada 220.000 warga rentan penerima tahap pertama bantuan dampak harga BBM tinggi.",
-        "body": "Kota Incheon akan memberikan pembayaran tambahan sebesar 50.000 won per orang kepada 220.000 warga rentan yang menjadi penerima tahap pertama bantuan dampak harga BBM tinggi, mulai tanggal 11 bulan ini hingga 3 Juli. Tambahan ini bertujuan meringankan beban akibat tingginya harga BBM dan ditujukan kepada kelompok rentan yang sudah termasuk dalam penerima tahap pertama. Skala bantuan yang diumumkan mencakup 220.000 orang, dengan nilai 50.000 won per orang. Incheon berencana menyalurkan bantuan dalam periode yang ditetapkan untuk mengurangi tekanan biaya energi bagi warga rentan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0cc1b9627d5b",
-    "slug": "뉴욕시-골칫거리-외교관-주차위반-한순간에-싹-사라진-이유-374833",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T23:48:11.290Z",
-    "updatedAt": "2026-05-09T23:48:11.291Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260510/133890949/1",
-    "canonicalUrl": "https://www.donga.com/news/Inter/article/all/20260510/133890949/1",
-    "titleFingerprint": "45e58c4fa796c03b86c0a9a2350a46f93454ac68",
-    "dedupKeys": [
-      "0cc1b9627d5b8a45accfc8d449fdd080546f4721",
-      "45e58c4fa796c03b86c0a9a2350a46f93454ac68",
-      "b57cc0af08c8ae8d550f77cb41658d66ca28591a"
-    ],
-    "imageUrl": "/images/articles/0cc1b9627d5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "뉴욕 외교관 주차위반이 사라진 이유, 면책특권과 과태료의 역설",
-        "excerpt": "컬럼비아대 레이먼드 피스먼 교수와 UC버클리대 에드워드 미겔 교수는 2006년 뉴욕시 외교관 주차위반 자료로 돈과 양심의 관계를 분석했다.",
-        "body": "뉴욕시에서 외교관 주차위반이 한때 골칫거리로 떠올랐다. 레이먼드 피스먼 미국 컬럼비아대 교수와 에드워드 미겔 UC버클리대 교수는 2006년 뉴욕시 외교관들의 주차위반 실태를 조사한 연구를 발표했다. 배경에는 외교관 면책특권이 있었다. 외교관은 근무국에서 법을 어겨도 형사처벌을 받지 않고, 주차위반 과태료 통지서를 받아도 사실상 내지 않아도 됐다. 이 사례는 돈과 양심, 고소득 국가와 저소득 국가 국민의 규범 차이를 살펴보는 자료로 활용됐다. 과태료 부담이 실질화되자 위반이 급감했다는 점은 제도와 책임이 행동을 바꿀 수 있음을 보여준다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Why New York Diplomat Parking Violations Vanished: Immunity and Fines",
-        "excerpt": "Columbia’s Raymond Fisman and UC Berkeley’s Edward Miguel used 2006 data on New York diplomat parking tickets to examine money, conscience and social norms.",
-        "body": "Diplomat parking violations once became a persistent problem in New York City. In 2006, Raymond Fisman of Columbia University and Edward Miguel of UC Berkeley published research on parking violations by diplomats in the city. The context was diplomatic immunity. Diplomats are not criminally punished for violations in host countries, and even when parking tickets are issued, they effectively do not have to pay the fines. The case became a way to examine money, conscience and norm differences between citizens of high-income and low-income countries. The sharp drop when payment pressure became real showed how institutions and accountability can change behavior. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ニューヨークの外交官駐車違反が消えた理由、免責特権と罰金の逆説",
-        "excerpt": "コロンビア大のレイモンド・フィスマン教授とUCバークリーのエドワード・ミゲル教授は、2006年にニューヨーク市の外交官駐車違反を分析した。",
-        "body": "ニューヨーク市では、外交官の駐車違反が一時大きな悩みの種となった。米コロンビア大学のレイモンド・フィスマン教授とUCバークリーのエドワード・ミゲル教授は2006年、同市の外交官による駐車違反の実態を調べた研究を発表した。背景には外交官免責特権があった。外交官は赴任国で法律に違反しても刑事処罰を受けず、駐車違反の通知を受けても実質的に罰金を払わなくてよかった。この事例は、金銭と良心、高所得国と低所得国の規範差を考える材料となった。負担が実質化すると違反が急減した点は、制度と責任が行動を変え得ることを示している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "纽约外交官停车违规为何消失：豁免权与罚款之间的反差",
-        "excerpt": "哥伦比亚大学雷蒙德·菲斯曼和加州大学伯克利分校爱德华·米格尔在2006年研究纽约外交官停车违规，用以观察金钱与良心。",
-        "body": "纽约市曾长期为外交官停车违规所困扰。美国哥伦比亚大学教授雷蒙德·菲斯曼和加州大学伯克利分校教授爱德华·米格尔在2006年发表研究，调查纽约市外交官停车违规情况。背景是外交豁免权。外交官在驻在国违反法律也不会受到刑事处罚，即使收到停车违规罚单，实际上也可以不缴纳罚款。这个案例被用于观察金钱与良心，以及高收入国家和低收入国家国民规范差异。罚款负担变得切实之后，违规迅速减少，显示制度和责任能够改变行为。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Por qué desaparecieron las multas de diplomáticos en Nueva York",
-        "excerpt": "Raymond Fisman, de Columbia, y Edward Miguel, de UC Berkeley, analizaron en 2006 las infracciones de estacionamiento de diplomáticos en Nueva York.",
-        "body": "Las infracciones de estacionamiento de diplomáticos fueron durante un tiempo un problema serio para Nueva York. En 2006, Raymond Fisman, de la Universidad de Columbia, y Edward Miguel, de UC Berkeley, publicaron un estudio sobre esos casos en la ciudad. El trasfondo era la inmunidad diplomática: los diplomáticos no enfrentan castigo penal por violar leyes del país anfitrión y, aunque reciban una multa de estacionamiento, en la práctica no están obligados a pagarla. El caso sirvió para observar la relación entre dinero, conciencia y normas en países de altos y bajos ingresos. Cuando el costo se volvió efectivo, las infracciones cayeron con fuerza. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Por que as multas de diplomatas sumiram em Nova York: imunidade e custo",
-        "excerpt": "Raymond Fisman, da Columbia, e Edward Miguel, da UC Berkeley, analisaram em 2006 as infrações de estacionamento de diplomatas em Nova York.",
-        "body": "As infrações de estacionamento cometidas por diplomatas já foram um problema recorrente em Nova York. Em 2006, Raymond Fisman, da Universidade Columbia, e Edward Miguel, da UC Berkeley, publicaram um estudo sobre esses casos na cidade. O pano de fundo era a imunidade diplomática. Diplomatas não sofrem punição criminal por violações no país onde atuam e, mesmo ao receber uma multa de estacionamento, na prática não precisam pagá-la. O caso foi usado para observar dinheiro, consciência e diferenças de normas entre países de alta e baixa renda. Quando o pagamento se tornou efetivo, as infrações caíram rapidamente. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Warum New Yorks Diplomaten-Parksünden verschwanden: Immunität und Bußgeld",
-        "excerpt": "Raymond Fisman von Columbia und Edward Miguel von UC Berkeley untersuchten 2006 Parkverstöße von Diplomaten in New York und die Rolle sozialer Normen.",
-        "body": "Parkverstöße von Diplomaten waren in New York City zeitweise ein hartnäckiges Problem. Raymond Fisman von der Columbia University und Edward Miguel von der UC Berkeley veröffentlichten 2006 eine Studie über solche Verstöße in der Stadt. Der Hintergrund war diplomatische Immunität. Diplomaten werden im Gastland bei Rechtsverstößen nicht strafrechtlich verfolgt und mussten Parkbußgelder faktisch nicht bezahlen. Der Fall diente dazu, Geld, Gewissen und Unterschiede sozialer Normen zwischen Ländern mit hohem und niedrigem Einkommen zu betrachten. Als die Zahlungspflicht praktisch spürbar wurde, gingen die Verstöße stark zurück. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Pourquoi les infractions de stationnement des diplomates ont disparu à New York",
-        "excerpt": "Raymond Fisman, de Columbia, et Edward Miguel, de l’UC Berkeley, ont étudié en 2006 les infractions de stationnement des diplomates à New York.",
-        "body": "Les infractions de stationnement des diplomates ont longtemps posé problème à New York. En 2006, Raymond Fisman, de l’Université Columbia, et Edward Miguel, de l’UC Berkeley, ont publié une étude sur ces infractions dans la ville. Le contexte était l’immunité diplomatique. Les diplomates ne sont pas poursuivis pénalement pour des violations commises dans le pays hôte et, même lorsqu’une amende de stationnement est émise, ils n’ont pratiquement pas à la payer. Ce cas a servi à examiner l’argent, la conscience et les différences de normes entre pays à revenu élevé et faible. Quand le coût est devenu réel, les infractions ont fortement chuté. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "لماذا اختفت مخالفات وقوف الدبلوماسيين في نيويورك: الحصانة والغرامات",
-        "excerpt": "درس ريموند فيسمان من جامعة كولومبيا وإدوارد ميغيل من جامعة كاليفورنيا في بيركلي عام 2006 مخالفات وقوف الدبلوماسيين في نيويورك.",
-        "body": "كانت مخالفات وقوف سيارات الدبلوماسيين مصدر إزعاج متكررا في مدينة نيويورك. في عام 2006 نشر ريموند فيسمان من جامعة كولومبيا وإدوارد ميغيل من جامعة كاليفورنيا في بيركلي دراسة عن هذه المخالفات. كانت الخلفية هي الحصانة الدبلوماسية؛ فالدبلوماسي لا يتعرض لعقوبة جنائية عند مخالفة قوانين بلد العمل، وحتى إذا صدرت بحقه غرامة وقوف فإنه لا يضطر عمليا إلى دفعها. استُخدمت الحالة لفهم العلاقة بين المال والضمير وفروق الأعراف بين دول مرتفعة ومنخفضة الدخل. وعندما أصبحت كلفة الغرامة فعلية، تراجعت المخالفات بسرعة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "न्यूयॉर्क में राजनयिकों की पार्किंग उल्लंघन समस्या क्यों खत्म हुई",
-        "excerpt": "कोलंबिया के रेमंड फिसमैन और यूसी बर्कले के एडवर्ड मिगेल ने 2006 में न्यूयॉर्क में राजनयिकों के पार्किंग उल्लंघनों का अध्ययन किया।",
-        "body": "न्यूयॉर्क शहर में राजनयिकों के पार्किंग उल्लंघन कभी बड़ी समस्या बन गए थे। कोलंबिया विश्वविद्यालय के रेमंड फिसमैन और यूसी बर्कले के एडवर्ड मिगेल ने 2006 में शहर में राजनयिकों के पार्किंग उल्लंघनों पर अध्ययन प्रकाशित किया। इसके पीछे राजनयिक छूट थी। राजनयिक मेजबान देश में कानून तोड़ने पर आपराधिक दंड से बचते हैं और पार्किंग जुर्माने की पर्ची मिलने पर भी व्यवहार में भुगतान नहीं करते। यह मामला पैसे, अंतरात्मा और उच्च व निम्न आय वाले देशों के सामाजिक मानकों को समझने का आधार बना। जब जुर्माने का बोझ वास्तविक हुआ, उल्लंघन तेजी से घटे। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Mengapa Pelanggaran Parkir Diplomat di New York Hilang: Imunitas dan Denda",
-        "excerpt": "Raymond Fisman dari Columbia dan Edward Miguel dari UC Berkeley pada 2006 meneliti pelanggaran parkir diplomat di New York untuk melihat uang dan nurani.",
-        "body": "Pelanggaran parkir oleh diplomat pernah menjadi masalah bagi Kota New York. Pada 2006, Raymond Fisman dari Columbia University dan Edward Miguel dari UC Berkeley menerbitkan studi tentang pelanggaran parkir diplomat di kota itu. Latar belakangnya adalah kekebalan diplomatik. Diplomat tidak mendapat hukuman pidana saat melanggar hukum negara tempat bertugas, dan meski menerima surat denda parkir, secara praktis mereka tidak perlu membayarnya. Kasus ini dipakai untuk melihat hubungan uang, nurani, serta perbedaan norma antara negara berpendapatan tinggi dan rendah. Ketika beban denda menjadi nyata, pelanggaran turun tajam. Sumber: rss.donga.com"
       }
     }
   }
