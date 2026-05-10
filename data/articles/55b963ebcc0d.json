@@ -1,0 +1,75 @@
+{
+  "id": "55b963ebcc0d",
+  "slug": "미국일본전공정후공정반도체-etf-각양각색-130659",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-10T12:37:05.279Z",
+  "updatedAt": "2026-05-10T12:37:05.279Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051065431",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051065431",
+  "titleFingerprint": "f413584b02562c8886f77d2ec7b899965d336a60",
+  "dedupKeys": [
+    "55b963ebcc0da6b02733d2059ebeda49bcb0ef46",
+    "f413584b02562c8886f77d2ec7b899965d336a60",
+    "af07af8166695e5eea58b76583ca930ebbb6f68c"
+  ],
+  "imageUrl": "/images/articles/55b963ebcc0d.png",
+  "i18n": {
+    "ko": {
+      "title": "반도체 ETF 선택지 확대, 미국·일본부터 전공정·후공정까지 다양화",
+      "excerpt": "한국경제는 반도체 ETF가 미국·일본 등 국가별 투자와 전공정·후공정 등 공정별 투자로 세분화되며 투자자 선택지가 넓어지고 있다고 보도했다.",
+      "body": "한국경제에 따르면 반도체 상장지수펀드(ETF)는 미국과 일본 등 국가별 투자 상품부터 전공정과 후공정처럼 생산 단계별로 나눈 상품까지 다양해지고 있다. 반도체 전공정은 웨이퍼 위에 회로를 그려 칩을 만드는 과정이고, 후공정은 웨이퍼 제조 이후 패키징과 테스트를 거치는 단계다. 같은 반도체 ETF라도 투자 지역과 편입 대상, 공정 초점이 달라 성격이 크게 나뉜다. 투자자는 단순히 ‘반도체’라는 이름만 보기보다 어떤 국가와 공정에 집중하는지 확인해야 한다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "Semiconductor ETFs Expand Across U.S., Japan, Front-End and Back-End Themes",
+      "excerpt": "Hankyung reported that semiconductor ETFs are becoming more segmented, spanning U.S. and Japanese exposure as well as front-end and back-end process-focused products.",
+      "body": "According to Hankyung, semiconductor exchange-traded funds are becoming more diverse, ranging from products focused on countries such as the United States and Japan to funds divided by production stages such as front-end and back-end processes. Front-end processing refers to forming circuits on wafers to make chips, while back-end processing covers packaging and testing after wafer fabrication. Even ETFs labeled as semiconductor funds can differ widely by target region, holdings and process focus. Investors therefore need to check what each product actually tracks. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "半導体ETFの選択肢拡大、米国・日本から前工程・後工程まで多様化",
+      "excerpt": "韓国経済新聞は、半導体ETFが米国・日本など国別投資や前工程・後工程など工程別投資へ細分化し、選択肢が広がっていると報じた。",
+      "body": "韓国経済新聞によると、半導体ETFは米国や日本など国別に投資する商品から、前工程と後工程のように生産段階で分けた商品まで多様化している。前工程はウエハー上に回路を形成して半導体チップを作る過程で、後工程はウエハー製造後に行うパッケージングとテストを指す。同じ半導体ETFでも、投資地域、組み入れ対象、工程の焦点によって性格は大きく異なる。投資家は名称だけでなく、どの国と工程に重点を置く商品か確認する必要がある。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "半导体ETF选择增多，覆盖美国、日本及前道、后道工序主题",
+      "excerpt": "韩国经济报道称，半导体ETF正按美国、日本等国家以及前道、后道等工序进一步细分，投资者可选择的产品类型正在扩大。",
+      "body": "据韩国经济报道，半导体交易型开放式指数基金（ETF）正在变得更加多样，既有面向美国、日本等国家的产品，也有按前道工序和后道工序等生产阶段划分的产品。前道工序是在晶圆上形成电路并制造芯片的过程，后道工序则是在晶圆制造后进行封装和测试。同样被称为半导体ETF，因投资地区、成分标的和工序重点不同，产品特征可能差异较大。投资者不应只看名称，还需确认其具体聚焦的国家和工序。来源: hankyung.com"
+    },
+    "es": {
+      "title": "ETF de semiconductores se diversifican entre EE. UU., Japón y procesos clave",
+      "excerpt": "Hankyung informó que los ETF de semiconductores se están segmentando por país, como EE. UU. y Japón, y por etapas productivas como front-end y back-end.",
+      "body": "Según Hankyung, los fondos cotizados de semiconductores se están diversificando, desde productos centrados en países como Estados Unidos y Japón hasta fondos divididos por etapas de producción, como front-end y back-end. El front-end consiste en formar circuitos sobre obleas para fabricar chips, mientras que el back-end incluye el empaquetado y las pruebas posteriores a la fabricación de la oblea. Aunque varios productos lleven la etiqueta de ETF de semiconductores, pueden diferir mucho por región, cartera y foco de proceso. Los inversores deben revisar qué sigue cada producto. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "ETFs de semicondutores se ampliam entre EUA, Japão, front-end e back-end",
+      "excerpt": "O Hankyung informou que ETFs de semicondutores estão mais segmentados por país, como EUA e Japão, e por etapas de produção, como front-end e back-end.",
+      "body": "Segundo o Hankyung, os ETFs de semicondutores estão se tornando mais variados, indo de produtos focados em países como Estados Unidos e Japão a fundos separados por etapas de produção, como front-end e back-end. O front-end é o processo de formar circuitos em wafers para produzir chips, enquanto o back-end envolve embalagem e testes após a fabricação do wafer. Mesmo com o mesmo rótulo de ETF de semicondutores, os produtos podem ter características distintas conforme região, ativos incluídos e foco no processo. O investidor deve verificar o que cada fundo acompanha. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "Halbleiter-ETFs werden breiter: USA, Japan sowie Front-End und Back-End",
+      "excerpt": "Hankyung berichtete, dass Halbleiter-ETFs stärker nach Ländern wie den USA und Japan sowie nach Prozessstufen wie Front-End und Back-End segmentiert werden.",
+      "body": "Laut Hankyung werden Halbleiter-ETFs vielfältiger: Sie reichen von Produkten mit Fokus auf Länder wie die USA und Japan bis zu Fonds, die nach Produktionsstufen wie Front-End und Back-End gegliedert sind. Beim Front-End werden Schaltungen auf Wafern erzeugt, um Chips herzustellen; das Back-End umfasst Packaging und Tests nach der Waferfertigung. Auch wenn mehrere Produkte als Halbleiter-ETF bezeichnet werden, können sie sich nach Region, Bestandteilen und Prozessfokus deutlich unterscheiden. Anleger sollten daher prüfen, worauf ein Fonds tatsächlich ausgerichtet ist. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "Les ETF semi-conducteurs se diversifient entre États-Unis, Japon et procédés",
+      "excerpt": "Hankyung rapporte que les ETF liés aux semi-conducteurs se segmentent par pays, comme les États-Unis et le Japon, et par étapes comme front-end et back-end.",
+      "body": "Selon Hankyung, les ETF de semi-conducteurs deviennent plus variés, allant de produits axés sur des pays comme les États-Unis et le Japon à des fonds divisés par étapes de production, comme le front-end et le back-end. Le front-end désigne la formation de circuits sur les wafers pour fabriquer les puces, tandis que le back-end couvre l’encapsulation et les tests après la fabrication du wafer. Même sous l’étiquette d’ETF semi-conducteurs, les produits peuvent fortement différer selon la région, les titres détenus et le procédé ciblé. Les investisseurs doivent donc vérifier l’exposition réelle. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "صناديق أشباه الموصلات تتنوع بين أميركا واليابان ومراحل التصنيع",
+      "excerpt": "ذكرت هانكيونغ أن صناديق ETF لأشباه الموصلات أصبحت أكثر تنوعا، من التعرض للولايات المتحدة واليابان إلى منتجات تركز على مراحل التصنيع الأمامية والخلفية.",
+      "body": "وفقا لهانكيونغ، أصبحت صناديق المؤشرات المتداولة لأشباه الموصلات أكثر تنوعا، إذ تشمل منتجات تركز على دول مثل الولايات المتحدة واليابان، وأخرى مقسمة حسب مراحل الإنتاج مثل المرحلة الأمامية والمرحلة الخلفية. تشير المرحلة الأمامية إلى رسم الدوائر على الرقائق لإنتاج شرائح أشباه الموصلات، بينما تشمل المرحلة الخلفية التغليف والاختبار بعد تصنيع الرقاقة. لذلك قد تختلف صناديق تحمل الاسم نفسه من حيث المنطقة المستهدفة والمكونات وتركيز العملية. على المستثمرين التحقق مما يتتبعه كل صندوق فعليا. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "सेमीकंडक्टर ETF विकल्प बढ़े, अमेरिका-जापान से फ्रंट-एंड और बैक-एंड तक",
+      "excerpt": "Hankyung के अनुसार सेमीकंडक्टर ETF अब अमेरिका और जापान जैसे देश आधारित निवेश तथा फ्रंट-एंड और बैक-एंड जैसी प्रक्रिया आधारित श्रेणियों में बंट रहे हैं।",
+      "body": "Hankyung के अनुसार सेमीकंडक्टर एक्सचेंज ट्रेडेड फंड अब अधिक विविध हो रहे हैं। इनमें अमेरिका और जापान जैसे देशों पर केंद्रित उत्पादों से लेकर उत्पादन चरणों, जैसे फ्रंट-एंड और बैक-एंड, के आधार पर विभाजित फंड शामिल हैं। फ्रंट-एंड प्रक्रिया में वेफर पर सर्किट बनाकर चिप तैयार की जाती है, जबकि बैक-एंड में वेफर निर्माण के बाद पैकेजिंग और परीक्षण शामिल होते हैं। समान रूप से सेमीकंडक्टर ETF कहलाने वाले उत्पाद भी क्षेत्र, होल्डिंग और प्रक्रिया फोकस के आधार पर काफी अलग हो सकते हैं। निवेशकों को हर उत्पाद का वास्तविक फोकस जांचना चाहिए। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "ETF Semikonduktor Makin Beragam, dari AS-Jepang hingga Front-End dan Back-End",
+      "excerpt": "Hankyung melaporkan ETF semikonduktor makin tersegmentasi, mencakup investasi berbasis negara seperti AS dan Jepang serta proses front-end dan back-end.",
+      "body": "Menurut Hankyung, ETF semikonduktor semakin beragam, mulai dari produk yang berfokus pada negara seperti Amerika Serikat dan Jepang hingga dana yang dibagi menurut tahap produksi seperti front-end dan back-end. Front-end adalah proses membentuk sirkuit di atas wafer untuk membuat chip, sedangkan back-end mencakup pengemasan dan pengujian setelah pembuatan wafer. Meski sama-sama disebut ETF semikonduktor, karakter produk dapat sangat berbeda berdasarkan wilayah, saham yang dimasukkan, dan fokus prosesnya. Investor perlu memeriksa apa yang sebenarnya diikuti setiap produk. Sumber: hankyung.com"
+    }
+  }
+}
