@@ -1,5 +1,230 @@
 [
   {
+    "id": "fe435c2b122a",
+    "slug": "맘대로-탈퇴-안돼-7시간반-대치대학-동아리서-무슨-일이종합-109825",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T19:01:02.811Z",
+    "updatedAt": "2026-05-10T19:01:02.811Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508154551004",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508154551004",
+    "titleFingerprint": "20743069eb15d50e3c1d2b824a41b57900d62a16",
+    "dedupKeys": [
+      "fe435c2b122a16f6bee8ebdea5111893a0743d36",
+      "20743069eb15d50e3c1d2b824a41b57900d62a16",
+      "6a552d20aaa0d2d475597ec029737e5a25be7d12"
+    ],
+    "imageUrl": "/images/articles/fe435c2b122a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "대학 동아리 ‘탈퇴 불가’ 논란, 해외여행 이유로 시작된 7시간 반 대치",
+        "excerpt": "서울의 한 대학 동아리 프로젝트에서 해외여행을 이유로 탈퇴 의사를 밝힌 뒤 ‘맘대로 탈퇴할 수 없다’는 취지의 갈등이 이어지며 7시간 반 대치가 벌어졌다고 연합뉴스가 전했다.",
+        "body": "서울의 한 대학 동아리 프로젝트에서 한 참여자가 “해외여행을 가야 해서 프로젝트를 탈퇴하겠다”고 밝힌 뒤 갈등이 커져 7시간 반가량 대치가 벌어졌다고 연합뉴스가 보도했다. 보도에 따르면 쟁점은 구성원이 프로젝트에서 자유롭게 빠질 수 있는지, 동아리 내부 운영 방식이 어디까지 허용될 수 있는지에 모였다. 대학 동아리라는 자율적 조직 안에서도 참여자의 의사와 단체 운영 규칙이 충돌할 수 있다는 점이 드러났다. 향후 관련 논의는 동아리 활동에서 탈퇴 절차와 구성원 보호 기준을 어떻게 마련할지로 이어질 전망이다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "University club exit dispute: travel reason leads to 7.5-hour standoff",
+        "excerpt": "Yonhap reported that a university club project in Seoul saw a 7.5-hour standoff after a participant said they would leave because they had to travel abroad.",
+        "body": "A dispute at a university club project in Seoul escalated into a standoff lasting about seven and a half hours after one participant said, “I have to travel abroad, so I will leave the project,” Yonhap News Agency reported. According to the report, the issue centered on whether a member could freely withdraw from the project and how far a club’s internal operating rules could go. The case showed that even in an autonomous university club, a participant’s wishes and group rules can collide. Further discussion is expected to focus on how clubs should set withdrawal procedures and member protections. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "大学サークル退会めぐり対立、海外旅行理由に7時間半の膠着",
+        "excerpt": "ソウルの大学サークルのプロジェクトで、海外旅行を理由に離脱を申し出た参加者をめぐり、約7時間半にわたる対立が起きたと聯合ニュースが伝えた。",
+        "body": "ソウルの大学サークルのプロジェクトで、ある参加者が「海外旅行に行かなければならないため、プロジェクトを離脱する」と伝えた後、対立が拡大し、約7時間半にわたる膠着状態になったと聯合ニュースが報じた。報道によると、争点は構成員がプロジェクトから自由に抜けられるのか、サークル内部の運営方式がどこまで認められるのかに集まった。自律的な大学サークルでも、参加者の意思と団体の運営規則が衝突し得ることが示された。今後は退会手続きと構成員保護基準の整備が論点になりそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "大学社团退项争议：因出国旅行引发7个半小时对峙",
+        "excerpt": "韩联社报道称，首尔一所大学社团项目中，一名参与者以需要出国旅行为由提出退出后，引发约7个半小时的对峙。",
+        "body": "韩联社报道，首尔一所大学社团项目中，一名参与者表示“因为要去海外旅行，将退出项目”后，矛盾升级并出现约7个半小时的对峙。据报道，争议焦点在于成员能否自由退出项目，以及社团内部运营方式可以被允许到何种程度。事件显示，即便是在具有自治性质的大学社团中，参与者个人意愿与团体运营规则也可能发生冲突。今后相关讨论预计将集中在如何制定社团活动退出程序和成员保护标准。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Disputa en club universitario: un viaje al extranjero deriva en pulso de 7,5 horas",
+        "excerpt": "Yonhap informó que un proyecto de un club universitario en Seúl vivió un pulso de unas 7,5 horas después de que una persona pidiera retirarse por un viaje al extranjero.",
+        "body": "Un proyecto de un club universitario en Seúl terminó en un enfrentamiento de unas siete horas y media después de que un participante dijera: “Tengo que viajar al extranjero, así que me retiraré del proyecto”, informó Yonhap. Según el reporte, el punto central fue si un integrante podía abandonar libremente el proyecto y hasta dónde podían llegar las normas internas de funcionamiento del club. El caso mostró que, incluso en una organización autónoma universitaria, la voluntad de un participante y las reglas del grupo pueden chocar. La discusión podría centrarse ahora en procedimientos de salida y criterios de protección para los miembros. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Impasse em clube universitário: viagem ao exterior leva a confronto de 7h30",
+        "excerpt": "A Yonhap informou que um projeto de clube universitário em Seul teve um impasse de cerca de 7h30 após um participante pedir saída por precisar viajar ao exterior.",
+        "body": "Um projeto de clube universitário em Seul entrou em conflito por cerca de sete horas e meia depois que um participante disse: “Preciso viajar ao exterior, por isso vou deixar o projeto”, informou a Yonhap. Segundo a reportagem, a questão central foi se um integrante poderia sair livremente do projeto e até que ponto as regras internas de funcionamento do clube poderiam ser aplicadas. O caso mostrou que, mesmo em uma organização universitária autônoma, a vontade do participante e as normas do grupo podem entrar em choque. A discussão deve avançar para procedimentos de saída e critérios de proteção dos membros. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Streit um Austritt aus Uni-Club: Auslandsreise führt zu 7,5 Stunden Pattsituation",
+        "excerpt": "Yonhap berichtete, dass ein Projekt eines Universitätsclubs in Seoul in eine rund 7,5-stündige Pattsituation geriet, nachdem ein Teilnehmer wegen einer Auslandsreise aussteigen wollte.",
+        "body": "In Seoul eskalierte ein Projekt eines Universitätsclubs zu einer Pattsituation von rund siebeneinhalb Stunden, nachdem ein Teilnehmer erklärt hatte: „Ich muss ins Ausland reisen, deshalb werde ich das Projekt verlassen“, berichtete Yonhap. Dem Bericht zufolge ging es im Kern darum, ob ein Mitglied ein Projekt frei verlassen kann und wie weit interne Betriebsregeln eines Clubs reichen dürfen. Der Fall zeigt, dass auch in autonomen Universitätsgruppen der Wille einzelner Teilnehmer und die Regeln der Organisation kollidieren können. Künftige Debatten dürften sich auf Austrittsverfahren und Schutzstandards für Mitglieder richten. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Conflit dans un club universitaire : un voyage à l’étranger déclenche 7 h 30 de blocage",
+        "excerpt": "Yonhap rapporte qu’un projet de club universitaire à Séoul a connu environ 7 h 30 de blocage après qu’un participant a demandé à partir en raison d’un voyage à l’étranger.",
+        "body": "À Séoul, un projet de club universitaire a débouché sur environ sept heures et demie de blocage après qu’un participant a déclaré : « Je dois partir à l’étranger, donc je quitte le projet », a rapporté Yonhap. Selon l’agence, le débat portait sur la possibilité pour un membre de se retirer librement du projet et sur les limites des règles internes de fonctionnement du club. L’affaire montre que, même dans une organisation universitaire autonome, la volonté d’un participant et les règles collectives peuvent entrer en conflit. Les discussions devraient porter sur les procédures de retrait et la protection des membres. Source : yna.co.kr"
+      },
+      "ar": {
+        "title": "نزاع في نادٍ جامعي: طلب انسحاب بسبب سفر خارجي ينتهي بمواجهة 7 ساعات ونصف",
+        "excerpt": "أفادت يونهاب بأن مشروعاً في نادٍ جامعي في سيول شهد مواجهة استمرت نحو 7 ساعات ونصف بعدما أعلن مشارك رغبته في الانسحاب لأنه مضطر للسفر إلى الخارج.",
+        "body": "أفادت وكالة يونهاب بأن مشروعاً في نادٍ جامعي في سيول شهد تصعيداً انتهى بمواجهة استمرت نحو سبع ساعات ونصف، بعدما قال أحد المشاركين: “يجب أن أسافر إلى الخارج، لذلك سأنسحب من المشروع”. ووفق التقرير، تمحورت القضية حول ما إذا كان يحق للعضو الانسحاب بحرية من المشروع، وإلى أي مدى يمكن قبول قواعد التشغيل الداخلية للنادي. وأظهر الحادث أن إرادة المشاركين وقواعد الجماعة قد تتصادم حتى داخل تنظيم جامعي مستقل. ومن المتوقع أن تتركز النقاشات المقبلة على إجراءات الانسحاب ومعايير حماية الأعضاء. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "विश्वविद्यालय क्लब में निकासी विवाद: विदेश यात्रा के कारण 7.5 घंटे गतिरोध",
+        "excerpt": "योनहाप के अनुसार, सियोल के एक विश्वविद्यालय क्लब प्रोजेक्ट में एक प्रतिभागी ने विदेश यात्रा के कारण हटने की बात कही, जिसके बाद लगभग 7.5 घंटे गतिरोध हुआ।",
+        "body": "योनहाप समाचार एजेंसी ने बताया कि सियोल के एक विश्वविद्यालय क्लब प्रोजेक्ट में एक प्रतिभागी ने कहा, “मुझे विदेश यात्रा पर जाना है, इसलिए मैं प्रोजेक्ट छोड़ूंगा,” जिसके बाद विवाद बढ़ा और करीब साढ़े सात घंटे तक गतिरोध रहा। रिपोर्ट के अनुसार, मुख्य मुद्दा यह था कि क्या कोई सदस्य प्रोजेक्ट से स्वतंत्र रूप से हट सकता है और क्लब के आंतरिक संचालन नियमों की सीमा क्या हो सकती है। इस मामले ने दिखाया कि स्वायत्त विश्वविद्यालय क्लब में भी प्रतिभागी की इच्छा और समूह के नियम टकरा सकते हैं। आगे चर्चा निकासी प्रक्रिया और सदस्यों की सुरक्षा के मानकों पर केंद्रित हो सकती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Sengketa keluar dari klub kampus: alasan ke luar negeri berujung kebuntuan 7,5 jam",
+        "excerpt": "Yonhap melaporkan proyek klub kampus di Seoul mengalami kebuntuan sekitar 7,5 jam setelah seorang peserta menyatakan ingin keluar karena harus bepergian ke luar negeri.",
+        "body": "Sebuah proyek klub kampus di Seoul berubah menjadi kebuntuan sekitar tujuh setengah jam setelah seorang peserta mengatakan, “Saya harus pergi ke luar negeri, jadi saya akan keluar dari proyek,” lapor Yonhap. Menurut laporan itu, persoalannya berpusat pada apakah anggota dapat keluar dari proyek secara bebas dan sejauh mana aturan internal klub dapat diberlakukan. Kasus ini menunjukkan bahwa bahkan dalam organisasi kampus yang otonom, keinginan peserta dan aturan kelompok dapat berbenturan. Pembahasan ke depan diperkirakan mengarah pada prosedur keluar dan standar perlindungan anggota dalam kegiatan klub. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a95ebc1568be",
+    "slug": "더-커진-중동-리스크한국-산업-전반에-피해-눈덩이-705688",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T19:00:06.882Z",
+    "updatedAt": "2026-05-10T19:00:06.882Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510050700003",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510050700003",
+    "titleFingerprint": "563b63b1fc91a80ee56e61eb8527f08eb7c502d2",
+    "dedupKeys": [
+      "a95ebc1568be87a496138d914bac46b025c11798",
+      "563b63b1fc91a80ee56e61eb8527f08eb7c502d2",
+      "7ac533b8d750834cd22fd4637d9ae1abdb6e0612"
+    ],
+    "imageUrl": "/images/articles/a95ebc1568be.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중동 리스크 재고조, 나무호 외부 공격 확인에 한국 산업 피해 우려 확대",
+        "excerpt": "연합뉴스에 따르면 한국 국적 선박 나무호 화재가 외부 공격에 따른 것으로 확인되며 중동발 리스크가 다시 커지고 한국 산업 전반의 피해 우려가 확산되고 있다.",
+        "body": "서울발 연합뉴스 보도에 따르면 한국 국적 선박 나무호에서 발생한 화재가 외부 공격에 의한 것으로 확인되면서 중동발 리스크가 다시 고조될 수 있다는 우려가 커지고 있다. 이번 사안은 선박 안전 문제를 넘어 해상 운송과 에너지 수급, 수출입 흐름에 민감한 한국 산업 전반에 부담으로 작용할 수 있다는 점에서 주목된다. 제공된 원문 요약에는 구체적인 피해 규모나 추가 수치는 제시되지 않았지만, 중동 정세 불안이 확대될 경우 관련 산업의 비용과 운영 리스크가 커질 가능성이 제기된다. 출처: yna.co.kr."
+      },
+      "en": {
+        "title": "Middle East Risk Rises as Namuho Attack Confirmation Raises Korea Industry Concerns",
+        "excerpt": "Yonhap reported that a fire on the South Korean vessel Namuho was confirmed to have been caused by an external attack, renewing concerns over Middle East risks and broader industrial damage.",
+        "body": "According to a Yonhap report from Seoul, the fire on the South Korean-flagged vessel Namuho has been confirmed as the result of an external attack, raising concern that risks originating in the Middle East could intensify again. The case is drawing attention because it may affect not only vessel safety but also South Korean industries sensitive to maritime shipping, energy supply and import-export flows. The provided summary does not include specific damage figures or additional data, but it notes growing concern that wider instability in the Middle East could increase costs and operational risks across related sectors. Source: yna.co.kr."
+      },
+      "ja": {
+        "title": "中東リスク再燃、ナム号への外部攻撃確認で韓国産業に懸念拡大",
+        "excerpt": "聯合ニュースによると、韓国船籍のナム号火災が外部攻撃によるものと確認され、中東発のリスク再拡大と韓国産業全般への被害懸念が強まっている。",
+        "body": "ソウル発の聯合ニュース報道によると、韓国船籍のナム号で発生した火災は外部攻撃によるものと確認され、中東発のリスクが再び高まる可能性への懸念が広がっている。今回の事案は船舶の安全問題にとどまらず、海上輸送、エネルギー需給、輸出入の流れに敏感な韓国産業全般の負担になり得る点で注目される。提供された原文要約には具体的な被害規模や追加の数値は示されていないが、中東情勢の不安が広がれば、関連産業のコストと運営リスクが高まる可能性が指摘されている。出典: yna.co.kr."
+      },
+      "zh": {
+        "title": "中东风险再升温，Namuho遭外部攻击确认引发韩国产业担忧",
+        "excerpt": "韩联社报道称，韩国籍船舶Namuho火灾已确认由外部攻击造成，中东风险可能再度升高，韩国整体产业受损担忧随之扩大。",
+        "body": "据韩联社首尔报道，韩国籍船舶Namuho发生的火灾已被确认是外部攻击所致，由此引发外界对中东相关风险可能再次升高的担忧。此事受到关注，不仅因为涉及船舶安全，也因为韩国整体产业对海上运输、能源供应以及进出口流动较为敏感，相关负担可能扩大。所提供的原文摘要未列出具体损失规模或额外数据，但指出如果中东局势不安加剧，相关产业的成本和运营风险可能随之上升。来源: yna.co.kr."
+      },
+      "es": {
+        "title": "Riesgo de Medio Oriente aumenta tras ataque al Namuho y preocupa a la industria coreana",
+        "excerpt": "Yonhap informó que el incendio del buque surcoreano Namuho fue causado por un ataque externo, reavivando temores sobre riesgos de Medio Oriente y daños industriales.",
+        "body": "Según un reporte de Yonhap desde Seúl, el incendio ocurrido en el buque surcoreano Namuho fue confirmado como resultado de un ataque externo, lo que aumenta la preocupación por un posible repunte de los riesgos originados en Medio Oriente. El caso atrae atención porque puede ir más allá de la seguridad marítima y afectar a industrias surcoreanas sensibles al transporte por mar, el suministro energético y los flujos de importación y exportación. El resumen original proporcionado no incluye cifras concretas de daños ni datos adicionales, pero señala inquietud por mayores costos y riesgos operativos si se amplía la inestabilidad regional. Fuente: yna.co.kr."
+      },
+      "pt": {
+        "title": "Risco no Oriente Médio cresce após ataque ao Namuho preocupar indústria coreana",
+        "excerpt": "A Yonhap informou que o incêndio no navio sul-coreano Namuho foi causado por ataque externo, reacendendo temores sobre riscos no Oriente Médio e danos industriais.",
+        "body": "Segundo reportagem da Yonhap a partir de Seul, o incêndio no navio sul-coreano Namuho foi confirmado como resultado de um ataque externo, elevando a preocupação de que os riscos ligados ao Oriente Médio voltem a crescer. O caso chama atenção porque pode ir além da segurança da embarcação e pesar sobre setores da Coreia do Sul sensíveis ao transporte marítimo, ao fornecimento de energia e aos fluxos de importação e exportação. O resumo original fornecido não apresenta números específicos de perdas nem dados adicionais, mas aponta receio de aumento de custos e riscos operacionais caso a instabilidade regional se amplie. Fonte: yna.co.kr."
+      },
+      "de": {
+        "title": "Nahost-Risiko wächst nach bestätigtem Angriff auf Namuho und belastet Koreas Industrie",
+        "excerpt": "Yonhap berichtet, dass der Brand auf dem südkoreanischen Schiff Namuho durch einen externen Angriff ausgelöst wurde. Die Sorge vor Nahost-Risiken und Industrieschäden nimmt zu.",
+        "body": "Nach einem Yonhap-Bericht aus Seoul wurde der Brand auf dem südkoreanischen Schiff Namuho als Folge eines externen Angriffs bestätigt. Damit wächst die Sorge, dass vom Nahen Osten ausgehende Risiken erneut zunehmen könnten. Der Vorfall erhält Aufmerksamkeit, weil er nicht nur die Sicherheit von Schiffen betrifft, sondern auch südkoreanische Branchen belasten kann, die empfindlich auf Seetransport, Energieversorgung sowie Import- und Exportströme reagieren. Die bereitgestellte Zusammenfassung nennt keine konkreten Schadenszahlen oder zusätzlichen Daten, verweist aber auf die Sorge, dass eine Ausweitung der Unsicherheit in der Region Kosten und operative Risiken für betroffene Sektoren erhöhen könnte. Quelle: yna.co.kr."
+      },
+      "fr": {
+        "title": "Risque au Moyen-Orient ravivé après l’attaque du Namuho, inquiétude pour l’industrie coréenne",
+        "excerpt": "Yonhap indique que l’incendie du navire sud-coréen Namuho a été causé par une attaque externe, ravivant les craintes de risques au Moyen-Orient et de dommages industriels.",
+        "body": "Selon un reportage de Yonhap depuis Séoul, l’incendie survenu à bord du navire sud-coréen Namuho a été confirmé comme étant dû à une attaque externe, ce qui alimente la crainte d’une nouvelle montée des risques liés au Moyen-Orient. L’affaire retient l’attention car elle dépasse la seule sécurité maritime et peut peser sur les secteurs sud-coréens sensibles au transport par mer, à l’approvisionnement énergétique et aux flux d’importation et d’exportation. Le résumé original fourni ne présente pas de chiffres précis sur les dommages ni de données supplémentaires, mais souligne l’inquiétude concernant une hausse des coûts et des risques opérationnels si l’instabilité régionale s’étend. Source: yna.co.kr."
+      },
+      "ar": {
+        "title": "تصاعد مخاطر الشرق الأوسط بعد تأكيد هجوم خارجي على ناموهو يثير قلق الصناعة الكورية",
+        "excerpt": "ذكرت يونهاب أن حريق السفينة الكورية الجنوبية ناموهو تأكد أنه ناجم عن هجوم خارجي، ما يجدد المخاوف من مخاطر الشرق الأوسط وتأثيرها على قطاعات الصناعة.",
+        "body": "بحسب تقرير لوكالة يونهاب من سيئول، تأكد أن الحريق الذي وقع في السفينة الكورية الجنوبية ناموهو كان نتيجة هجوم خارجي، مما أثار مخاوف من احتمال تصاعد المخاطر القادمة من الشرق الأوسط مرة أخرى. وتحظى القضية بالاهتمام لأنها لا تتعلق بسلامة السفن فقط، بل قد تضغط أيضا على قطاعات كورية جنوبية حساسة للنقل البحري وإمدادات الطاقة وتدفقات الاستيراد والتصدير. ولا يتضمن الملخص الأصلي المقدم أرقاما محددة لحجم الأضرار أو بيانات إضافية، لكنه يشير إلى مخاوف من زيادة التكاليف والمخاطر التشغيلية إذا اتسع نطاق عدم الاستقرار في المنطقة. المصدر: yna.co.kr."
+      },
+      "hi": {
+        "title": "नमुहो पर बाहरी हमले की पुष्टि से मध्य पूर्व जोखिम बढ़ा, कोरियाई उद्योग चिंतित",
+        "excerpt": "योनहाप के अनुसार, दक्षिण कोरियाई जहाज नमुहो में आग बाहरी हमले से लगने की पुष्टि हुई है, जिससे मध्य पूर्व जोखिम और व्यापक औद्योगिक नुकसान की चिंता बढ़ी है।",
+        "body": "सियोल से योनहाप की रिपोर्ट के अनुसार, दक्षिण कोरियाई ध्वज वाले जहाज नमुहो में लगी आग को बाहरी हमले का परिणाम माना गया है, जिससे मध्य पूर्व से जुड़े जोखिमों के फिर से बढ़ने की आशंका तेज हुई है। यह मामला केवल जहाज सुरक्षा तक सीमित नहीं है, क्योंकि समुद्री परिवहन, ऊर्जा आपूर्ति और आयात-निर्यात प्रवाह पर निर्भर दक्षिण कोरियाई उद्योगों पर इसका बोझ पड़ सकता है। उपलब्ध मूल सारांश में नुकसान के ठोस आंकड़े या अतिरिक्त संख्याएं नहीं दी गई हैं, लेकिन इसमें संकेत है कि यदि मध्य पूर्व की अस्थिरता बढ़ती है तो संबंधित क्षेत्रों की लागत और परिचालन जोखिम बढ़ सकते हैं। स्रोत: yna.co.kr."
+      },
+      "id": {
+        "title": "Risiko Timur Tengah Meningkat Usai Serangan ke Namuho Picu Kekhawatiran Industri Korea",
+        "excerpt": "Yonhap melaporkan kebakaran kapal Korea Selatan Namuho dipastikan akibat serangan eksternal, memicu lagi kekhawatiran risiko Timur Tengah dan dampak bagi industri.",
+        "body": "Menurut laporan Yonhap dari Seoul, kebakaran pada kapal berbendera Korea Selatan Namuho telah dipastikan sebagai akibat serangan eksternal, sehingga memunculkan kekhawatiran bahwa risiko dari Timur Tengah dapat meningkat kembali. Peristiwa ini menjadi perhatian karena tidak hanya menyangkut keselamatan kapal, tetapi juga dapat membebani industri Korea Selatan yang sensitif terhadap transportasi laut, pasokan energi, serta arus impor dan ekspor. Ringkasan asli yang diberikan tidak mencantumkan angka kerugian konkret atau data tambahan, tetapi menyoroti kekhawatiran bahwa ketidakstabilan Timur Tengah yang meluas dapat menaikkan biaya dan risiko operasional di sektor terkait. Sumber: yna.co.kr."
+      }
+    }
+  },
+  {
+    "id": "f07beda80ef9",
+    "slug": "hbr커리어-전환과-확장의-기술-432289",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T18:59:08.057Z",
+    "updatedAt": "2026-05-10T18:59:08.057Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887900/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887900/2",
+    "titleFingerprint": "a084ca41de179ab428784a1cae7db92167d02741",
+    "dedupKeys": [
+      "f07beda80ef9443c49ef436a213f46eebab0ccda",
+      "a084ca41de179ab428784a1cae7db92167d02741",
+      "72249d46defa832c73db4c30008cda88a01e4566"
+    ],
+    "imageUrl": "/images/articles/f07beda80ef9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "HBR 커리어 크래프트, 커리어 전환과 확장 해법을 말하다",
+        "excerpt": "2026년 4월 18일 서울 서초구 흰물결아트센터에서 열린 제5회 HBR 커리어 크래프트에서 12명의 연사가 커리어 전환과 확장의 경험을 공유했다.",
+        "body": "2026년 4월 18일 서울 서초구 흰물결아트센터에서 HBR의 대표 프로그램 제5회 HBR 커리어 크래프트가 ‘커리어 전환과 확장의 기술’을 주제로 열렸다. 행사에는 정경화 비바리퍼블리카(토스) 브랜드 헤드, 정다정 에픽게임즈코리아 홍보&대외정책본부장 등 12명의 연사가 참여했다. 정경화 헤드는 권한 밖이라는 두려움을 내려놓고 문제를 제기한 순간들이 커리어 전환점이 됐다고 밝혔다. 정다정 본부장은 실제 취업의 75%가 강한 연결이 아닌 느슨한 연결에서 비롯된다며, 자신이 없는 자리에서 형성되는 개인 브랜딩 관리의 중요성을 강조했다. 행사에서는 AI가 경력 조언과 정서적 교류, 코칭, 상담 영역까지 들어오는 변화도 다뤘다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "HBR Career Craft Highlights How to Shift and Expand a Career",
+        "excerpt": "At the 5th HBR Career Craft in Seoul on April 18, 2026, 12 speakers shared candid lessons on career transitions, expansion, networking and AI at work.",
+        "body": "On April 18, 2026, HBR held its flagship program, the 5th HBR Career Craft, at Hinmulgyeol Art Center in Seocho-gu, Seoul, under the theme “The Art of Career Transition and Expansion.” Twelve speakers took part, including Jung Kyung-hwa, brand head at Viva Republica (Toss), and Jung Da-jeong, head of communications and public policy at Epic Games Korea. Jung Kyung-hwa said moments when she set aside fear that an issue was beyond her authority and raised problems became turning points in her career. Jung Da-jeong stressed that 75% of actual hiring comes from weak ties rather than strong ones, and that people should manage the personal branding formed when they are not in the room. The event also addressed AI entering career advice, emotional exchange, coaching and counseling at work. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "HBRキャリアクラフト、転職とキャリア拡張の技術を共有",
+        "excerpt": "2026年4月18日、ソウル瑞草区の白波アートセンターで開かれた第5回HBRキャリアクラフトで、12人の登壇者が経験を語った。",
+        "body": "2026年4月18日、ソウル瑞草区の白波アートセンターで、HBRの代表プログラムである第5回HBRキャリアクラフトが「キャリア転換と拡張の技術」をテーマに開催された。行事には、Viva Republica（Toss）のブランドヘッドであるチョン・ギョンファ氏、Epic Games Koreaの広報・対外政策本部長チョン・ダジョン氏ら12人の登壇者が参加した。チョン・ギョンファ氏は、自分の権限外だという恐れを手放し、問題を提起した瞬間がキャリアの転換点になったと述べた。チョン・ダジョン氏は、実際の就職の75%は強いつながりではなく弱いつながりから生まれるとして、自分がいない場で形成される個人ブランディングを管理すべきだと強調した。会場では、AIがキャリア助言、感情的交流、コーチング、相談にまで入り込む変化も扱われた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "HBR Career Craft聚焦职业转型与扩展方法",
+        "excerpt": "2026年4月18日，第五届HBR Career Craft在首尔瑞草区白波艺术中心举行，12位演讲者分享职业转型与扩展经验。",
+        "body": "2026年4月18日，HBR代表项目第五届HBR Career Craft在首尔瑞草区白波艺术中心举行，主题为“职业转型与扩展的技术”。活动邀请了Viva Republica（Toss）品牌负责人郑京和、Epic Games Korea公关与对外政策本部长郑多情等12位演讲者。郑京和表示，放下“这超出我的权限”的恐惧并勇于提出问题的时刻，成为她职业生涯的转折点。郑多情强调，实际就业的75%并非来自强关系，而是来自弱关系，因此需要管理自己不在场时形成的个人品牌。活动还提到，AI正进入职业建议、情感交流、教练和咨询等职场领域。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "HBR Career Craft aborda claves para cambiar y ampliar la carrera",
+        "excerpt": "El 18 de abril de 2026, en el Hinmulgyeol Art Center de Seúl, 12 ponentes del 5.º HBR Career Craft compartieron experiencias sobre transición profesional.",
+        "body": "El 18 de abril de 2026, HBR celebró su programa insignia, el 5.º HBR Career Craft, en el Hinmulgyeol Art Center de Seocho-gu, Seúl, bajo el tema “El arte de la transición y expansión de la carrera”. Participaron 12 ponentes, entre ellos Jung Kyung-hwa, responsable de marca de Viva Republica (Toss), y Jung Da-jeong, directora de comunicación y política pública de Epic Games Korea. Jung Kyung-hwa dijo que los momentos en que dejó atrás el miedo a que algo estuviera fuera de su autoridad y planteó problemas se convirtieron en puntos de inflexión profesional. Jung Da-jeong subrayó que el 75% de los empleos reales surge de vínculos débiles, no fuertes, y que hay que gestionar la marca personal que se forma cuando uno no está presente. También se trató la entrada de la IA en asesoramiento profesional, intercambio emocional, coaching y consulta. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "HBR Career Craft debate transição e expansão de carreira",
+        "excerpt": "Em 18 de abril de 2026, no Hinmulgyeol Art Center, em Seul, 12 palestrantes do 5º HBR Career Craft compartilharam experiências de carreira.",
+        "body": "Em 18 de abril de 2026, a HBR realizou seu programa representativo, o 5º HBR Career Craft, no Hinmulgyeol Art Center, em Seocho-gu, Seul, com o tema “A arte da transição e expansão de carreira”. O evento reuniu 12 palestrantes, incluindo Jung Kyung-hwa, head de marca da Viva Republica (Toss), e Jung Da-jeong, chefe de comunicação e políticas públicas da Epic Games Korea. Jung Kyung-hwa afirmou que os momentos em que deixou de lado o medo de estar fora de sua autoridade e levantou problemas se tornaram pontos de virada em sua carreira. Jung Da-jeong destacou que 75% das contratações reais vêm de conexões fracas, não de conexões fortes, e que é preciso gerir a marca pessoal formada quando a pessoa não está presente. O evento também abordou a entrada da IA em aconselhamento de carreira, troca emocional, coaching e consulta. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "HBR Career Craft zeigt Wege für Karrierewechsel und Wachstum",
+        "excerpt": "Am 18. April 2026 teilten beim 5. HBR Career Craft in Seoul 12 Redner ihre Erfahrungen zu Karrierewechsel, Erweiterung, Netzwerken und KI am Arbeitsplatz.",
+        "body": "Am 18. April 2026 veranstaltete HBR sein Leitprogramm, den 5. HBR Career Craft, im Hinmulgyeol Art Center in Seocho-gu, Seoul, unter dem Thema “Die Kunst des Karrierewechsels und der Erweiterung”. Zwölf Redner nahmen teil, darunter Jung Kyung-hwa, Brand Head von Viva Republica (Toss), und Jung Da-jeong, Leiterin Kommunikation und Public Policy bei Epic Games Korea. Jung Kyung-hwa sagte, die Momente, in denen sie die Angst ablegte, etwas liege außerhalb ihrer Befugnis, und Probleme ansprach, seien Wendepunkte ihrer Karriere gewesen. Jung Da-jeong betonte, dass 75% tatsächlicher Beschäftigungen aus schwachen statt starken Verbindungen entstehen, und dass man das persönliche Branding steuern müsse, das in Abwesenheit entsteht. Auch der Einzug von KI in Karriereberatung, emotionalen Austausch, Coaching und Beratung wurde thematisiert. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "HBR Career Craft explore la transition et l’élargissement de carrière",
+        "excerpt": "Le 18 avril 2026 à Séoul, le 5e HBR Career Craft a réuni 12 intervenants qui ont partagé leurs expériences de transition et d’évolution professionnelle.",
+        "body": "Le 18 avril 2026, HBR a organisé son programme phare, le 5e HBR Career Craft, au Hinmulgyeol Art Center de Seocho-gu, à Séoul, sur le thème “L’art de la transition et de l’élargissement de carrière”. Douze intervenants y ont participé, dont Jung Kyung-hwa, responsable de marque chez Viva Republica (Toss), et Jung Da-jeong, directrice communication et politiques publiques d’Epic Games Korea. Jung Kyung-hwa a déclaré que les moments où elle a surmonté la peur que certains sujets dépassent son autorité et a soulevé des problèmes sont devenus des tournants de carrière. Jung Da-jeong a souligné que 75% des recrutements réels proviennent de liens faibles plutôt que de liens forts, et qu’il faut gérer l’image personnelle qui se forme en son absence. L’événement a aussi abordé l’arrivée de l’IA dans le conseil de carrière, les échanges émotionnels, le coaching et l’accompagnement. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "HBR Career Craft يناقش مهارات التحول والتوسع المهني",
+        "excerpt": "في 18 أبريل 2026، استضاف مركز هينمولغيول للفنون في سيول الدورة الخامسة من HBR Career Craft بمشاركة 12 متحدثا حول التحول المهني.",
+        "body": "في 18 أبريل 2026، أقامت HBR برنامجها الرئيسي، الدورة الخامسة من HBR Career Craft، في مركز هينمولغيول للفنون في سيوتشو غو بسيول، تحت عنوان “مهارة التحول والتوسع في المسار المهني”. شارك في الحدث 12 متحدثا، بينهم جونغ كيونغ هوا، رئيسة العلامة التجارية في Viva Republica (Toss)، وجونغ دا جونغ، رئيسة الاتصالات والسياسات العامة في Epic Games Korea. وقالت جونغ كيونغ هوا إن اللحظات التي تخلت فيها عن الخوف من أن تكون القضية خارج صلاحيتها وطرحت المشكلات أصبحت نقاط تحول في مسيرتها. وأكدت جونغ دا جونغ أن 75% من فرص التوظيف الفعلية تأتي من الروابط الضعيفة لا القوية، وأنه يجب إدارة العلامة الشخصية التي تتشكل في الأماكن التي لا يكون الشخص حاضرا فيها. كما تناول الحدث دخول الذكاء الاصطناعي إلى الإرشاد المهني والتبادل العاطفي والتدريب والاستشارة. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "HBR Career Craft ने करियर बदलाव और विस्तार की कला पर चर्चा की",
+        "excerpt": "18 अप्रैल 2026 को सियोल के हिनमुलग्योल आर्ट सेंटर में 5वें HBR Career Craft में 12 वक्ताओं ने करियर बदलाव और विस्तार के अनुभव साझा किए।",
+        "body": "18 अप्रैल 2026 को HBR ने अपना प्रमुख कार्यक्रम, 5वां HBR Career Craft, सियोल के सेओचो-गु स्थित हिनमुलग्योल आर्ट सेंटर में “करियर बदलाव और विस्तार की कला” विषय पर आयोजित किया। इसमें Viva Republica (Toss) की ब्रांड हेड जंग क्युंग-ह्वा और Epic Games Korea की कम्युनिकेशन व पब्लिक पॉलिसी प्रमुख जंग दा-जंग सहित 12 वक्ताओं ने हिस्सा लिया। जंग क्युंग-ह्वा ने कहा कि अपने अधिकार क्षेत्र से बाहर होने के डर को छोड़कर समस्याएं उठाने के क्षण उनके करियर के मोड़ बने। जंग दा-जंग ने जोर दिया कि वास्तविक रोजगार के 75% अवसर मजबूत संबंधों से नहीं, बल्कि ढीले संबंधों से आते हैं, इसलिए व्यक्ति को अपनी अनुपस्थिति में बनने वाली निजी ब्रांडिंग का प्रबंधन करना चाहिए। कार्यक्रम में करियर सलाह, भावनात्मक संवाद, कोचिंग और परामर्श में AI के प्रवेश पर भी चर्चा हुई। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "HBR Career Craft Bahas Cara Transisi dan Ekspansi Karier",
+        "excerpt": "Pada 18 April 2026 di Hinmulgyeol Art Center, Seoul, 12 pembicara HBR Career Craft ke-5 berbagi pengalaman tentang transisi dan ekspansi karier.",
+        "body": "Pada 18 April 2026, HBR menggelar program utamanya, HBR Career Craft ke-5, di Hinmulgyeol Art Center, Seocho-gu, Seoul, dengan tema “Seni Transisi dan Ekspansi Karier”. Acara ini menghadirkan 12 pembicara, termasuk Jung Kyung-hwa, brand head Viva Republica (Toss), dan Jung Da-jeong, kepala komunikasi serta kebijakan publik Epic Games Korea. Jung Kyung-hwa mengatakan bahwa momen ketika ia melepaskan rasa takut karena merasa suatu isu berada di luar wewenangnya dan berani mengangkat masalah menjadi titik balik karier. Jung Da-jeong menekankan bahwa 75% pekerjaan nyata berasal dari koneksi lemah, bukan koneksi kuat, sehingga personal branding yang terbentuk saat seseorang tidak hadir perlu dikelola. Acara ini juga membahas masuknya AI ke ranah nasihat karier, pertukaran emosional, coaching, dan konseling. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "06dfa288c4f8",
     "slug": "hbr알립니다사람-없는-공장이-돈을-번다-691664",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Porsi Saham Dana Pensiun Melonjak, Dana Beralih ke AI dan Chip",
         "excerpt": "Analisis Samsung Securities terhadap 310.000 peserta pensiun menunjukkan investasi bergaransi turun, sementara dana mengalir ke produk berbasis kinerja, AI global, dan semikonduktor.",
         "body": "Di tengah penguatan pasar saham baru-baru ini, termasuk KOSPI yang menembus level 7.000, investor dana pensiun beralih cepat dari produk bergaransi berbasis bunga bank ke produk berbasis kinerja dengan porsi saham lebih tinggi. Menurut analisis Samsung Securities terhadap 310.000 peserta pensiun, investasi bergaransi turun tajam, sementara dana terkonsentrasi di sektor AI global dan semikonduktor. Produk campuran obligasi yang memuat saham chip utama Korea, Samsung Electronics dan SK Hynix, juga diminati. Tren ini menunjukkan pengelolaan dana pensiun makin mempertimbangkan imbal hasil selain stabilitas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1d5f9a6dcd40",
-    "slug": "국가업종별-분산투자-ai-더-담아도-좋아-479718",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T09:50:03.200Z",
-    "updatedAt": "2026-05-10T09:50:03.200Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042712",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042712",
-    "titleFingerprint": "fd60b74a6812d04266e678c70046e060b5552fd3",
-    "dedupKeys": [
-      "1d5f9a6dcd40e23b475fd7290d06a4f408062136",
-      "fd60b74a6812d04266e678c70046e060b5552fd3",
-      "0fccaa10ef770241ab1efeb9b727079c8458044e"
-    ],
-    "imageUrl": "/images/articles/1d5f9a6dcd40.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI·분산투자 전략 재조명…서울머니쇼 전문가들이 강조한 기본",
-        "excerpt": "코스피가 연일 사상 최고치를 경신한 가운데 열린 2026 서울머니쇼에서 전문가들은 장기투자, 분산투자, 리스크 관리의 중요성을 다시 강조했다.",
-        "body": "코스피가 연일 사상 최고치를 경신하는 주식시장 호황 속에서 열린 2026 서울머니쇼에서 전문가들은 투자자들에게 장기투자와 분산투자, 리스크 관리라는 기본 원칙을 재차 강조했다. 원문에 따르면 현장 전문가들은 국가와 업종을 나눠 투자하는 접근을 제시하며, 인공지능(AI) 관련 자산은 더 담아도 좋다는 취지의 조언을 내놨다. 증시 상승세가 이어질수록 특정 시장이나 업종에 쏠리는 위험을 줄이는 전략이 중요하다는 메시지다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "AI and Diversification in Focus as Seoul Money Show Experts Stress Basics",
-        "excerpt": "At the 2026 Seoul Money Show, held as the KOSPI kept setting record highs, experts again emphasized long-term investing, diversification and risk management.",
-        "body": "At the 2026 Seoul Money Show, held amid a booming stock market as the KOSPI repeatedly reached record highs, experts again urged investors to stick to the basics: long-term investing, diversification and risk management. According to the original report, specialists at the event recommended spreading investments across countries and industries, while saying investors could consider adding more exposure to artificial intelligence-related assets. The message was that as the market rally continues, reducing concentration risk in any single market or sector remains important. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "AI・分散投資に再注目、ソウルマネーショー専門家が基本を強調",
-        "excerpt": "KOSPIが連日で過去最高値を更新する中で開かれた2026ソウルマネーショーで、専門家は長期投資、分散投資、リスク管理を改めて強調した。",
-        "body": "KOSPIが連日で過去最高値を更新する株式市場の好況の中で開かれた2026ソウルマネーショーで、専門家は投資家に長期投資、分散投資、リスク管理という基本原則を改めて強調した。原文によると、会場の専門家は国や業種を分けて投資する考え方を示し、人工知能（AI）関連資産についてはさらに組み入れてもよいとの趣旨の助言を行った。相場上昇が続くほど、特定の市場や業種に偏るリスクを抑える戦略が重要だというメッセージだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "AI与分散投资受关注：首尔Money Show专家重申投资基本功",
-        "excerpt": "在KOSPI连续刷新历史高点之际举行的2026首尔Money Show上，专家再次强调长期投资、分散投资和风险管理的重要性。",
-        "body": "在KOSPI连续刷新历史高点、股市行情火热的背景下，2026首尔Money Show举行。与会专家再次提醒投资者，应坚持长期投资、分散投资和风险管理等基本原则。根据原文，现场专家提出按国家和行业分散配置的思路，并表示人工智能（AI）相关资产可以适度增加配置。其核心信息是，随着股市上涨延续，降低对单一市场或行业的集中风险仍然重要。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "IA y diversificación ganan peso: expertos del Seoul Money Show piden volver a lo básico",
-        "excerpt": "En el Seoul Money Show 2026, celebrado mientras el KOSPI marcaba máximos históricos sucesivos, los expertos insistieron en inversión a largo plazo, diversificación y control del riesgo.",
-        "body": "En el Seoul Money Show 2026, celebrado en medio del auge bursátil mientras el KOSPI seguía renovando máximos históricos, los expertos volvieron a subrayar los principios básicos para los inversores: inversión a largo plazo, diversificación y gestión del riesgo. Según el texto original, los especialistas recomendaron repartir las inversiones por países y sectores, y señalaron que también puede considerarse aumentar la exposición a activos vinculados con la inteligencia artificial (IA). El mensaje central fue que, cuanto más continúe la subida del mercado, más importante será reducir la concentración en un solo mercado o sector. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "IA e diversificação em destaque: especialistas do Seoul Money Show reforçam o básico",
-        "excerpt": "No Seoul Money Show 2026, realizado enquanto o KOSPI renovava máximas históricas seguidas, especialistas voltaram a destacar investimento de longo prazo, diversificação e gestão de risco.",
-        "body": "No Seoul Money Show 2026, realizado em meio ao bom momento do mercado acionário enquanto o KOSPI renovava máximas históricas sucessivas, especialistas voltaram a orientar investidores a seguir princípios básicos: investimento de longo prazo, diversificação e gestão de risco. Segundo o texto original, os especialistas recomendaram distribuir investimentos por países e setores, além de afirmar que ativos ligados à inteligência artificial (IA) podem receber maior participação. A mensagem foi que, com a continuidade da alta das bolsas, reduzir o risco de concentração em um único mercado ou setor segue essencial. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KI und Diversifikation im Blick: Seoul-Money-Show-Experten mahnen zu Grundregeln",
-        "excerpt": "Auf der Seoul Money Show 2026, während der KOSPI immer neue Rekordstände erreichte, betonten Experten erneut langfristiges Investieren, Diversifikation und Risikomanagement.",
-        "body": "Auf der Seoul Money Show 2026, die inmitten eines starken Aktienmarkts stattfand, während der KOSPI wiederholt neue Allzeithochs erreichte, mahnten Experten Anleger erneut zu den Grundregeln: langfristiges Investieren, Diversifikation und Risikomanagement. Dem Originalbericht zufolge empfahlen Fachleute vor Ort, Investitionen nach Ländern und Branchen zu streuen. Zugleich hieß es, Anleger könnten auch mehr Vermögenswerte mit Bezug zu künstlicher Intelligenz (KI) aufnehmen. Die Botschaft: Je länger die Rally anhält, desto wichtiger bleibt es, Klumpenrisiken in einzelnen Märkten oder Sektoren zu verringern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "IA et diversification au centre: les experts du Seoul Money Show rappellent les bases",
-        "excerpt": "Lors du Seoul Money Show 2026, organisé alors que le KOSPI enchaînait les records historiques, les experts ont rappelé l’importance de l’investissement long terme, de la diversification et du risque.",
-        "body": "Lors du Seoul Money Show 2026, organisé dans un contexte de forte hausse boursière alors que le KOSPI battait jour après jour ses records historiques, les experts ont de nouveau rappelé aux investisseurs les principes de base: investir à long terme, diversifier et gérer les risques. Selon le texte original, les spécialistes présents ont conseillé de répartir les placements par pays et par secteur, tout en indiquant que les actifs liés à l’intelligence artificielle (IA) pouvaient être davantage intégrés. Le message est que, plus la progression du marché se poursuit, plus il est important de réduire la concentration sur un seul marché ou secteur. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الذكاء الاصطناعي والتنويع في الواجهة: خبراء معرض سيول للمال يؤكدون الأساسيات",
-        "excerpt": "في معرض سيول للمال 2026، الذي عُقد بينما واصل مؤشر كوسبي تسجيل قمم تاريخية، شدد الخبراء مجددا على الاستثمار طويل الأجل والتنويع وإدارة المخاطر.",
-        "body": "في معرض سيول للمال 2026، الذي عُقد وسط ازدهار سوق الأسهم مع مواصلة مؤشر كوسبي تسجيل مستويات قياسية تاريخية، أكد الخبراء للمستثمرين مجددا أهمية المبادئ الأساسية: الاستثمار طويل الأجل، والتنويع، وإدارة المخاطر. ووفقا للنص الأصلي، أوصى الخبراء في الحدث بتوزيع الاستثمارات حسب الدول والقطاعات، كما أشاروا إلى إمكانية زيادة التعرض للأصول المرتبطة بالذكاء الاصطناعي. وكانت الرسالة أن استمرار صعود السوق يجعل تقليل مخاطر التركّز في سوق أو قطاع واحد أمرا مهما. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI और विविधीकरण पर जोर: Seoul Money Show विशेषज्ञों ने निवेश के मूल मंत्र दोहराए",
-        "excerpt": "KOSPI के लगातार ऐतिहासिक ऊंचाई छूने के बीच आयोजित 2026 Seoul Money Show में विशेषज्ञों ने दीर्घकालिक निवेश, विविधीकरण और जोखिम प्रबंधन पर फिर जोर दिया।",
-        "body": "KOSPI के लगातार ऐतिहासिक उच्च स्तर दर्ज करने से बने मजबूत शेयर बाजार माहौल के बीच 2026 Seoul Money Show आयोजित हुआ। इस कार्यक्रम में विशेषज्ञों ने निवेशकों से दीर्घकालिक निवेश, विविधीकरण और जोखिम प्रबंधन जैसे बुनियादी सिद्धांतों पर टिके रहने को कहा। मूल रिपोर्ट के अनुसार, विशेषज्ञों ने देशों और उद्योगों के आधार पर निवेश फैलाने की सलाह दी और यह भी कहा कि कृत्रिम बुद्धिमत्ता (AI) से जुड़े एसेट्स में और निवेश किया जा सकता है। संदेश यह था कि बाजार की तेजी जारी रहने पर किसी एक बाजार या सेक्टर में अत्यधिक झुकाव का जोखिम घटाना जरूरी है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "AI dan Diversifikasi Disorot: Pakar Seoul Money Show Tekankan Dasar Investasi",
-        "excerpt": "Dalam Seoul Money Show 2026, saat KOSPI terus mencetak rekor tertinggi, para pakar kembali menekankan investasi jangka panjang, diversifikasi, dan manajemen risiko.",
-        "body": "Dalam Seoul Money Show 2026 yang digelar di tengah reli pasar saham saat KOSPI terus mencetak rekor tertinggi, para pakar kembali menekankan prinsip dasar bagi investor: investasi jangka panjang, diversifikasi, dan manajemen risiko. Menurut teks asli, para pakar di acara tersebut menyarankan pembagian investasi berdasarkan negara dan sektor, serta menyampaikan bahwa aset terkait kecerdasan buatan (AI) dapat ditambah. Pesan utamanya adalah bahwa ketika kenaikan pasar berlanjut, mengurangi risiko konsentrasi pada satu pasar atau sektor menjadi semakin penting. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2d0ca53fe597",
-    "slug": "엔비디아-이번에도-깜짝-실적-전망-중요한-건-2분기-가이던스-949907",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T09:49:10.980Z",
-    "updatedAt": "2026-05-10T09:49:10.980Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042714",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042714",
-    "titleFingerprint": "543cc002573e99e280b91a5948315ec53e8ac870",
-    "dedupKeys": [
-      "2d0ca53fe5977c493e7082273d3c04e5a52731af",
-      "543cc002573e99e280b91a5948315ec53e8ac870",
-      "6a01962e62966680c16ca37c92b7019915fd5246"
-    ],
-    "imageUrl": "/images/articles/2d0ca53fe597.jpg",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아 실적 전망 주목, AI 반도체 랠리의 변수는 2분기 가이던스",
-        "excerpt": "이번주 불앤베어 위클리는 엔비디아의 깜짝 실적 전망과 미국 AI 반도체 주가 흐름을 다루며, 반도체 사이클 형성 원인과 향후 관전 포인트를 짚었다.",
-        "body": "엔비디아 실적 전망이 이번주 미국 인공지능(AI) 반도체 주가의 핵심 변수로 떠올랐다. 불앤베어 위클리는 엔비디아가 이번에도 시장 예상을 웃도는 ‘깜짝 실적’을 낼 가능성을 다루며, 더 중요한 관전 포인트는 2분기 가이던스라고 짚었다. 최근 반도체 업종에서는 AI 수요를 중심으로 새로운 사이클이 형성되고 있다는 분석이 이어지고 있다. 기사에서는 이 사이클이 만들어지는 근본 원인을 살펴보고 향후 주가 흐름과 전망을 점검한다. AI 반도체 기대가 주가에 반영된 만큼, 투자자들은 실적 자체뿐 아니라 다음 분기 전망을 통해 수요 지속성을 확인하려는 분위기다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Nvidia Earnings Outlook in Focus as Q2 Guidance Becomes Key AI Chip Test",
-        "excerpt": "This week’s Bull & Bear Weekly looks at Nvidia’s expected earnings surprise and U.S. AI chip stocks, examining the semiconductor cycle and what investors should watch next.",
-        "body": "Nvidia’s earnings outlook has emerged as a key variable for U.S. artificial intelligence chip stocks this week. Bull & Bear Weekly covers the possibility that Nvidia may again deliver results above market expectations, while noting that the more important point will be its second-quarter guidance. Recent discussion around semiconductor stocks has centered on a new cycle forming around AI demand. The article reviews the fundamental reasons behind that cycle and considers the outlook for future share-price moves. With AI chip expectations already reflected in stock prices, investors are watching not only the earnings result itself but also the next-quarter outlook to gauge whether demand can continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エヌビディア決算見通しに注目、AI半導体相場の焦点は2四半期ガイダンス",
-        "excerpt": "今週のブル・アンド・ベア・ウィークリーは、エヌビディアの好決算見通しと米AI半導体株を取り上げ、半導体サイクルの背景と今後の注目点を整理した。",
-        "body": "エヌビディアの決算見通しが、今週の米国人工知能（AI）半導体株の重要な変数として浮上している。ブル・アンド・ベア・ウィークリーは、エヌビディアが今回も市場予想を上回る「サプライズ決算」を出す可能性を取り上げ、より重要な焦点は第2四半期のガイダンスだと指摘した。最近の半導体業種では、AI需要を中心に新たなサイクルが形成されているとの見方が続いている。記事では、このサイクルが生まれる根本的な原因を点検し、今後の株価の流れと見通しを探る。AI半導体への期待が株価に反映されているだけに、投資家は決算そのものだけでなく、次四半期の見通しを通じて需要の持続性を確認しようとしている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "英伟达业绩预期受关注，AI芯片行情关键在第二季度指引",
-        "excerpt": "本周《Bull & Bear Weekly》聚焦英伟达或再交出超预期业绩及美国AI半导体股走势，并梳理半导体周期形成原因和后续看点。",
-        "body": "英伟达业绩预期成为本周美国人工智能（AI）半导体股走势的核心变量。《Bull & Bear Weekly》讨论了英伟达此次仍可能公布高于市场预期的“惊喜业绩”，同时指出更重要的观察点是第二季度业绩指引。近期半导体板块围绕AI需求形成新周期的分析持续出现。文章回顾了这一周期形成的根本原因，并检查未来股价走势和展望。由于AI半导体预期已经反映在股价中，投资者不仅关注业绩本身，也希望通过下一季度指引确认需求能否延续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Nvidia centra la atención: la guía del segundo trimestre marcará a los chips de IA",
-        "excerpt": "Bull & Bear Weekly analiza esta semana la posible sorpresa de resultados de Nvidia y las acciones estadounidenses de semiconductores de IA, junto con el ciclo del sector.",
-        "body": "La perspectiva de resultados de Nvidia se convirtió esta semana en una variable clave para las acciones estadounidenses de semiconductores vinculados a la inteligencia artificial. Bull & Bear Weekly aborda la posibilidad de que Nvidia vuelva a superar las expectativas del mercado, pero señala que el punto más importante será la guía del segundo trimestre. En el sector de semiconductores se viene analizando la formación de un nuevo ciclo impulsado por la demanda de IA. El artículo revisa las causas fundamentales de ese ciclo y examina las perspectivas para la evolución futura de las acciones. Dado que las expectativas sobre chips de IA ya están reflejadas en los precios, los inversores miran tanto los resultados como la guía del próximo trimestre para confirmar la continuidad de la demanda. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Nvidia no foco: guidance do 2º trimestre será chave para chips de IA",
-        "excerpt": "O Bull & Bear Weekly desta semana analisa a possível surpresa nos resultados da Nvidia e as ações de semicondutores de IA dos EUA, além do ciclo do setor.",
-        "body": "A perspectiva de resultados da Nvidia tornou-se nesta semana uma variável central para as ações americanas de semicondutores ligados à inteligência artificial. O Bull & Bear Weekly trata da possibilidade de a Nvidia novamente apresentar resultados acima das expectativas do mercado, mas destaca que o ponto mais importante será o guidance do segundo trimestre. No setor de semicondutores, seguem as análises de que um novo ciclo está se formando em torno da demanda por IA. O artigo examina as causas fundamentais desse ciclo e avalia as perspectivas para o movimento futuro das ações. Como as expectativas sobre chips de IA já estão refletidas nos preços, investidores observam não apenas o resultado em si, mas também a projeção para o próximo trimestre para confirmar a continuidade da demanda. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nvidia-Ausblick im Fokus: Q2-Guidance entscheidet über KI-Chip-Stimmung",
-        "excerpt": "Bull & Bear Weekly beleuchtet diese Woche Nvidias mögliche Ergebnisüberraschung und US-KI-Halbleiteraktien sowie die Ursachen des aktuellen Chipzyklus.",
-        "body": "Der Ergebnisausblick von Nvidia ist in dieser Woche zu einem zentralen Faktor für US-Halbleiteraktien rund um künstliche Intelligenz geworden. Bull & Bear Weekly behandelt die Möglichkeit, dass Nvidia erneut die Markterwartungen übertrifft, betont jedoch, dass die wichtigere Kennzahl die Guidance für das zweite Quartal sein wird. Im Halbleitersektor wird derzeit vor allem analysiert, wie sich ein neuer Zyklus rund um die KI-Nachfrage bildet. Der Artikel untersucht die grundlegenden Ursachen dieses Zyklus und prüft den weiteren Ausblick für die Aktienkurse. Da Erwartungen an KI-Chips bereits in den Kursen enthalten sind, achten Anleger nicht nur auf die Ergebnisse selbst, sondern auch auf den Ausblick für das nächste Quartal, um die Nachhaltigkeit der Nachfrage einzuschätzen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Nvidia sous surveillance: la guidance du T2 sera clé pour les puces IA",
-        "excerpt": "Bull & Bear Weekly analyse cette semaine la possible surprise de résultats de Nvidia et les valeurs américaines des semi-conducteurs IA, avec le cycle du secteur.",
-        "body": "Les perspectives de résultats de Nvidia sont devenues cette semaine une variable centrale pour les actions américaines de semi-conducteurs liés à l’intelligence artificielle. Bull & Bear Weekly évoque la possibilité que Nvidia dépasse une nouvelle fois les attentes du marché, tout en soulignant que le point le plus important sera la guidance du deuxième trimestre. Dans le secteur des semi-conducteurs, les analyses se concentrent sur la formation d’un nouveau cycle autour de la demande en IA. L’article examine les causes fondamentales de ce cycle et les perspectives d’évolution des cours. Comme les attentes autour des puces IA sont déjà intégrées dans les valorisations, les investisseurs surveillent non seulement les résultats, mais aussi les prévisions du trimestre suivant afin de confirmer la durabilité de la demande. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توقعات أرباح إنفيديا تحت المجهر ودليل الربع الثاني يحسم اختبار رقائق الذكاء الاصطناعي",
-        "excerpt": "يتناول Bull & Bear Weekly هذا الأسبوع احتمالات مفاجأة أرباح إنفيديا وأسهم رقائق الذكاء الاصطناعي الأميركية، مع بحث أسباب دورة أشباه الموصلات المقبلة.",
-        "body": "برزت توقعات أرباح إنفيديا هذا الأسبوع كعامل رئيسي في حركة أسهم أشباه الموصلات الأميركية المرتبطة بالذكاء الاصطناعي. ويتناول Bull & Bear Weekly احتمال أن تحقق إنفيديا مرة أخرى نتائج تفوق توقعات السوق، لكنه يشير إلى أن النقطة الأهم ستكون توجيهات الربع الثاني. وفي قطاع أشباه الموصلات، تتواصل التحليلات بشأن تشكل دورة جديدة تقودها طلبات الذكاء الاصطناعي. ويستعرض المقال الأسباب الأساسية وراء هذه الدورة، كما يراجع آفاق حركة الأسهم في الفترة المقبلة. وبما أن توقعات رقائق الذكاء الاصطناعي انعكست بالفعل في الأسعار، فإن المستثمرين يراقبون ليس فقط النتائج نفسها، بل أيضا توقعات الربع التالي للتأكد من استمرار الطلب. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "एनवीडिया नतीजों पर नजर, AI चिप रैली की असली कसौटी दूसरी तिमाही गाइडेंस",
-        "excerpt": "इस सप्ताह Bull & Bear Weekly ने एनवीडिया के संभावित सरप्राइज नतीजों और अमेरिकी AI सेमीकंडक्टर शेयरों पर चर्चा की, साथ ही चिप चक्र के कारणों को देखा।",
-        "body": "एनवीडिया के नतीजों का अनुमान इस सप्ताह अमेरिकी कृत्रिम बुद्धिमत्ता (AI) से जुड़े सेमीकंडक्टर शेयरों के लिए प्रमुख कारक बन गया है। Bull & Bear Weekly ने इस संभावना पर चर्चा की कि एनवीडिया फिर से बाजार की उम्मीदों से बेहतर ‘सरप्राइज’ नतीजे दे सकती है, लेकिन अधिक महत्वपूर्ण बात दूसरी तिमाही की गाइडेंस होगी। हाल में सेमीकंडक्टर क्षेत्र में AI मांग के केंद्र में एक नया चक्र बनने का विश्लेषण जारी है। लेख इस चक्र के बनने के मूल कारणों को देखता है और आगे शेयरों की दिशा तथा 전망을 점검 करता है। AI चिप्स की उम्मीदें पहले ही कीमतों में झलक रही हैं, इसलिए निवेशक नतीजों के साथ अगली तिमाही के अनुमान से मांग की स्थिरता 확인하려 한다. स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Prospek Laba Nvidia Jadi Sorotan, Panduan Kuartal II Kunci Saham Chip AI",
-        "excerpt": "Bull & Bear Weekly pekan ini membahas peluang kejutan laba Nvidia dan saham semikonduktor AI AS, sekaligus menelaah penyebab siklus chip dan prospeknya.",
-        "body": "Prospek laba Nvidia pekan ini muncul sebagai variabel utama bagi saham semikonduktor Amerika Serikat yang terkait kecerdasan buatan. Bull & Bear Weekly membahas kemungkinan Nvidia kembali mencatat hasil di atas ekspektasi pasar, sambil menekankan bahwa poin yang lebih penting adalah panduan kuartal kedua. Dalam sektor semikonduktor, analisis mengenai terbentuknya siklus baru yang berpusat pada permintaan AI terus berkembang. Artikel tersebut meninjau penyebab mendasar dari siklus ini dan memeriksa prospek pergerakan harga saham ke depan. Karena ekspektasi terhadap chip AI sudah tercermin dalam harga saham, investor mencermati bukan hanya hasil laba, tetapi juga prospek kuartal berikutnya untuk memastikan keberlanjutan permintaan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e6167c0a5e9f",
-    "slug": "트럼프-1415일-방중-삼성전자-파업-여부도-변수-797385",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T09:48:15.924Z",
-    "updatedAt": "2026-05-10T09:48:15.924Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042715",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042715",
-    "titleFingerprint": "528082b9d7a5f28b14f3ce8f651d7bf04fccfc04",
-    "dedupKeys": [
-      "e6167c0a5e9f9429eb3c57c078d776cf44cbe951",
-      "528082b9d7a5f28b14f3ce8f651d7bf04fccfc04",
-      "a9c8331b13b4f4d513671a9030fc28f3e90fa2cc"
-    ],
-    "imageUrl": "/images/articles/e6167c0a5e9f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프 14~15일 방중, 코스피 향방과 삼성전자 파업 변수 주목",
-        "excerpt": "이번 주 코스피는 지난주 13% 넘게 급등해 7498에 마감한 뒤 트럼프 14~15일 방중, 거시경제 부담, 지정학 변수, 삼성전자 파업 여부를 동시에 맞는다.",
-        "body": "이번 주 코스피가 추가 상승세를 이어갈지, 단기 숨 고르기에 들어갈지가 시장의 관심사로 떠올랐다. 원문에 따르면 지난주 코스피는 한 주 동안 13% 넘게 뛰며 7498에 마감했다. 그러나 이번 주에는 거시경제 부담과 지정학 변수가 동시에 몰리는 일정이 예고돼 있다. 특히 트럼프의 14~15일 방중이 시장 심리에 영향을 줄 수 있는 변수로 거론된다. 여기에 삼성전자 파업 여부도 국내 증시 흐름을 가를 요인으로 제시됐다. 급등 이후 차익 실현 압력과 대외 변수, 대형주 관련 이슈가 맞물리며 코스피의 방향성이 시험대에 오를 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Trump’s May 14-15 China Visit Puts KOSPI and Samsung Strike Risk in Focus",
-        "excerpt": "After the KOSPI jumped more than 13% last week to close at 7,498, markets face Trump’s May 14-15 China visit, macro pressure, geopolitical risks and a possible Samsung Electronics strike.",
-        "body": "This week, investors are watching whether the KOSPI can extend its rally or enter a short pause. According to the original report, the index rose more than 13% last week and closed at 7,498. But the new week begins with macroeconomic pressure and geopolitical variables arriving at the same time. Trump’s visit to China on May 14-15 is cited as one factor that could affect market sentiment. Whether Samsung Electronics goes on strike is also presented as a variable for the domestic stock market. After the sharp rise, profit-taking pressure, external risks and major-stock issues may test the KOSPI’s direction. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トランプ氏14〜15日訪中、KOSPIとサムスン電子ストの行方に注目",
-        "excerpt": "先週13％超上昇し7498で終えたKOSPIは今週、トランプ氏の14〜15日訪中、マクロ経済負担、地政学リスク、サムスン電子のスト可否に直面する。",
-        "body": "今週のKOSPIが上昇を続けるのか、短期的な一服局面に入るのかに市場の関心が集まっている。原文によると、先週のKOSPIは1週間で13％を超えて上昇し、7498で取引を終えた。ただ今週は、マクロ経済上の負担と地政学的な変数が同時に重なる日程となる。特にトランプ氏の14〜15日の訪中は、市場心理に影響し得る要因として挙げられている。さらにサムスン電子のストライキ実施 여부も、韓国株式市場の流れを左右する変数とされた。急騰後の利益確定圧力、対外要因、大型株関連の問題が重なり、KOSPIの方向性が試される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特朗普14至15日访华，KOSPI走势与三星电子罢工变量受关注",
-        "excerpt": "KOSPI上周上涨逾13%并收于7498点后，本周将同时面对特朗普14至15日访华、宏观经济压力、地缘政治变量及三星电子是否罢工。",
-        "body": "本周KOSPI是延续涨势，还是进入短暂休整，成为市场关注焦点。根据原文，上周KOSPI一周内上涨超过13%，收于7498点。但新一周开始，宏观经济压力和地缘政治变量将同时集中出现。其中，特朗普14至15日访华被提及为可能影响市场情绪的因素。此外，三星电子是否罢工也被视为左右韩国股市走势的变量。经历快速上涨后，获利回吐压力、外部变量以及大型股相关议题交织，KOSPI的方向性将面临考验。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Visita de Trump a China el 14-15: KOSPI y posible huelga de Samsung, claves",
-        "excerpt": "Tras subir más del 13% la semana pasada y cerrar en 7.498, el KOSPI encara la visita de Trump a China el 14-15, presiones macro, riesgos geopolíticos y la posible huelga de Samsung Electronics.",
-        "body": "Esta semana, el mercado observa si el KOSPI seguirá avanzando o entrará en una fase de pausa. Según el texto original, el índice subió más del 13% la semana pasada y cerró en 7.498. Sin embargo, la nueva semana comienza con presiones macroeconómicas y variables geopolíticas concentradas al mismo tiempo. La visita de Trump a China los días 14 y 15 se menciona como un factor que podría afectar el ánimo del mercado. También se señala como variable si Samsung Electronics irá a la huelga. Tras el fuerte repunte, la presión de toma de beneficios, los factores externos y los temas vinculados a grandes valores pondrán a prueba la dirección del KOSPI. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Trump na China em 14-15: KOSPI e possível greve da Samsung entram no radar",
-        "excerpt": "Depois de subir mais de 13% na semana passada e fechar em 7.498, o KOSPI encara a visita de Trump à China em 14-15, pressões macro, riscos geopolíticos e possível greve da Samsung Electronics.",
-        "body": "Nesta semana, o mercado acompanha se o KOSPI continuará em alta ou entrará em uma pausa de curto prazo. Segundo o texto original, o índice subiu mais de 13% na semana passada e fechou em 7.498. Mas a nova semana começa com pressões macroeconômicas e variáveis geopolíticas ao mesmo tempo. A visita de Trump à China nos dias 14 e 15 é citada como um fator que pode afetar o sentimento do mercado. A possibilidade de greve na Samsung Electronics também aparece como variável para a bolsa doméstica. Após a forte alta, realização de lucros, fatores externos e questões ligadas a grandes ações devem testar a direção do KOSPI. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Trump reist am 14.-15. nach China: KOSPI und Samsung-Streik im Blick",
-        "excerpt": "Nach einem Plus von mehr als 13% in der Vorwoche und einem Schluss bei 7.498 steht der KOSPI vor Trumps China-Reise am 14.-15., Makrodruck, geopolitischen Risiken und einem möglichen Samsung-Electronics-Streik.",
-        "body": "In dieser Woche richtet sich der Blick darauf, ob der KOSPI seine Rally fortsetzt oder in eine kurze Verschnaufpause geht. Dem Originalbericht zufolge stieg der Index in der vergangenen Woche um mehr als 13% und schloss bei 7.498. Doch die neue Woche beginnt mit makroökonomischem Druck und geopolitischen Variablen zugleich. Trumps Reise nach China am 14. und 15. wird als Faktor genannt, der die Marktstimmung beeinflussen könnte. Auch die Frage, ob Samsung Electronics streikt, gilt als Variable für den heimischen Aktienmarkt. Nach dem starken Anstieg könnten Gewinnmitnahmen, externe Faktoren und Themen rund um große Aktien die Richtung des KOSPI testen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Trump en Chine les 14-15: KOSPI et risque de grève chez Samsung à surveiller",
-        "excerpt": "Après une hausse de plus de 13% la semaine dernière et une clôture à 7 498, le KOSPI affronte la visite de Trump en Chine les 14-15, les pressions macro, les risques géopolitiques et une possible grève chez Samsung Electronics.",
-        "body": "Cette semaine, les marchés se demandent si le KOSPI poursuivra sa hausse ou marquera une pause. Selon le texte original, l’indice a gagné plus de 13% la semaine dernière et a clôturé à 7 498. Mais la nouvelle semaine s’ouvre avec des pressions macroéconomiques et des variables géopolitiques concentrées au même moment. La visite de Trump en Chine les 14 et 15 est citée comme un facteur susceptible d’influencer le sentiment de marché. La possibilité d’une grève chez Samsung Electronics est également présentée comme une variable pour la Bourse coréenne. Après la forte progression, prises de bénéfices, facteurs externes et sujets liés aux grandes valeurs testeront l’orientation du KOSPI. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "زيارة ترامب للصين يومي 14 و15 تضع كوسبي وإضراب سامسونغ تحت المجهر",
-        "excerpt": "بعد أن قفز مؤشر كوسبي بأكثر من 13% الأسبوع الماضي وأغلق عند 7498، يواجه هذا الأسبوع زيارة ترامب للصين يومي 14 و15 وضغوط الاقتصاد الكلي والمخاطر الجيوسياسية واحتمال إضراب سامسونغ إلكترونيكس.",
-        "body": "تتركز أنظار السوق هذا الأسبوع على ما إذا كان مؤشر كوسبي سيواصل صعوده أم سيدخل في فترة تهدئة قصيرة. وبحسب النص الأصلي، ارتفع المؤشر أكثر من 13% خلال الأسبوع الماضي وأغلق عند 7498. لكن الأسبوع الجديد يبدأ مع تزامن ضغوط الاقتصاد الكلي والمتغيرات الجيوسياسية. وتُذكر زيارة ترامب إلى الصين يومي 14 و15 كعامل قد يؤثر في معنويات السوق. كما طُرح احتمال إضراب سامسونغ إلكترونيكس كمتغير آخر لمسار سوق الأسهم المحلية. وبعد الصعود الحاد، قد تختبر ضغوط جني الأرباح والعوامل الخارجية وقضايا الأسهم الكبرى اتجاه كوسبي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "14-15 को ट्रंप की चीन यात्रा: KOSPI और Samsung हड़ताल पर बाजार की नजर",
-        "excerpt": "पिछले सप्ताह 13% से अधिक चढ़कर 7,498 पर बंद हुए KOSPI के सामने इस सप्ताह ट्रंप की 14-15 तारीख की चीन यात्रा, मैक्रो दबाव, भू-राजनीतिक जोखिम और Samsung Electronics की संभावित हड़ताल जैसे कारक हैं।",
-        "body": "इस सप्ताह बाजार की नजर इस बात पर है कि KOSPI अपनी तेजी जारी रखेगा या थोड़े विराम में जाएगा। मूल रिपोर्ट के अनुसार, पिछले सप्ताह सूचकांक एक सप्ताह में 13% से अधिक चढ़ा और 7,498 पर बंद हुआ। लेकिन नया सप्ताह मैक्रो आर्थिक दबाव और भू-राजनीतिक कारकों के साथ शुरू हो रहा है। ट्रंप की 14-15 तारीख की चीन यात्रा को बाजार धारणा पर असर डाल सकने वाला कारक बताया गया है। Samsung Electronics की हड़ताल होगी या नहीं, इसे भी घरेलू शेयर बाजार के लिए एक अहम चर के रूप में रखा गया है। तेज उछाल के बाद मुनाफावसूली का दबाव, बाहरी कारक और बड़े शेयरों से जुड़े मुद्दे KOSPI की दिशा की परीक्षा ले सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Trump ke China 14-15, Arah KOSPI dan Risiko Mogok Samsung Jadi Sorotan",
-        "excerpt": "Setelah naik lebih dari 13% pekan lalu dan ditutup di 7.498, KOSPI pekan ini menghadapi kunjungan Trump ke China pada 14-15, tekanan makro, risiko geopolitik, serta kemungkinan mogok Samsung Electronics.",
-        "body": "Pekan ini, pasar mencermati apakah KOSPI akan melanjutkan reli atau memasuki jeda singkat. Menurut teks asli, indeks tersebut naik lebih dari 13% sepanjang pekan lalu dan ditutup di 7.498. Namun pekan baru dimulai dengan tekanan makroekonomi dan variabel geopolitik yang datang bersamaan. Kunjungan Trump ke China pada 14-15 disebut sebagai faktor yang dapat memengaruhi sentimen pasar. Selain itu, apakah Samsung Electronics akan mogok juga dipaparkan sebagai variabel bagi bursa domestik. Setelah kenaikan tajam, tekanan ambil untung, faktor eksternal, dan isu saham besar akan menguji arah KOSPI. Sumber: mk.co.kr"
       }
     }
   }
