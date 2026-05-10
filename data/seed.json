@@ -1,5 +1,230 @@
 [
   {
+    "id": "ffe365378e1e",
+    "slug": "李대통령-세입자있는-1주택자-매도기회갭투자허용-주장-억까-910218",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T22:26:21.006Z",
+    "updatedAt": "2026-05-10T22:26:21.006Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260511007600001",
+    "titleFingerprint": "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
+    "dedupKeys": [
+      "ffe365378e1ef953b01bc9b63d5e4954be77169e",
+      "c71f4b6078b4539184b8f9dc1ee7545e9734abb1",
+      "86739384fdaaa6687d41b6035bcd633bce789b4d"
+    ],
+    "imageUrl": "/images/articles/ffe365378e1e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "이재명 대통령, 토지거래허가구역 1주택 매수 논란에 “갭투자 허용 아냐”",
+        "excerpt": "이재명 대통령은 11일 토지거래허가구역 내 세입자가 있는 비거주 1주택 매수 허용을 두고 “매도 기회”라고 설명하며 갭투자 허용 주장에는 반박했다.",
+        "body": "이재명 대통령은 11일 정부가 토지거래허가구역 안에서 세입자가 있는 비거주 1주택자의 주택을 매수할 수 있도록 한 조치를 두고, 이를 갭투자 허용으로 보는 주장은 부당하다는 취지로 밝혔다. 이 대통령은 해당 조치가 세입자가 있는 집을 보유한 1주택자에게 매도 기회를 주기 위한 것이라고 설명했다. 토지거래허가구역에서는 주택 거래와 실거주 요건을 둘러싼 규제가 적용돼 왔고, 이번 발언은 정부 조치의 성격을 둘러싼 논란에 대한 반박으로 해석된다. 시장에서는 해당 기준이 거래 가능성과 규제 해석에 어떤 영향을 줄지 주목할 것으로 보인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "President Lee rejects claims that home-purchase rule allows gap investment",
+        "excerpt": "President Lee Jae Myung said on the 11th that allowing purchases of tenanted homes owned by non-resident single-home owners in land transaction permit zones is a selling opportunity, not approval of gap investment.",
+        "body": "President Lee Jae Myung said on the 11th that the government’s measure allowing buyers to purchase homes owned by non-resident single-home owners with tenants in land transaction permit zones should not be viewed as permission for gap investment. Lee explained that the measure is intended to give single-home owners who hold tenant-occupied homes an opportunity to sell. Land transaction permit zones have been subject to rules involving housing transactions and actual residence requirements, and his remarks are seen as a response to controversy over the nature of the government measure. Market participants are expected to watch how the standard affects transaction possibilities and regulatory interpretation. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "李在明大統領、土地取引許可区域の住宅購入巡る「ギャップ投資容認」論に反論",
+        "excerpt": "李在明大統領は11日、土地取引許可区域で賃借人がいる非居住1住宅所有者の住宅購入を認める措置について、売却機会でありギャップ投資容認ではないと説明した。",
+        "body": "李在明大統領は11日、政府が土地取引許可区域内で、賃借人がいる非居住の1住宅所有者の住宅を購入できるようにした措置について、これをギャップ投資の容認と見る主張は不当だとの趣旨を示した。李大統領は、この措置は賃借人がいる住宅を保有する1住宅所有者に売却の機会を与えるためのものだと説明した。土地取引許可区域では住宅取引と実居住要件をめぐる規制が適用されてきており、今回の発言は政府措置の性格をめぐる論争への反論と受け止められる。市場では、この基準が取引可能性や規制解釈にどう影響するかが注目されそうだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "李在明总统回应土地交易许可区购房争议：并非允许“差价投资”",
+        "excerpt": "李在明总统11日表示，在土地交易许可区内允许购买带租约的非自住一套房，并非允许“差价投资”，而是为房主提供出售机会。",
+        "body": "李在明总统11日就政府允许在土地交易许可区内购买带有租户的非自住一套房一事表示，将其视为允许“差价投资”的说法并不恰当。李总统解释称，该措施是为了给持有带租约住房的一套房业主提供出售机会。土地交易许可区一直适用围绕住房交易和实际居住要求的相关限制，此番表态被解读为对政府措施性质争议的回应。市场预计将关注这一标准如何影响交易可能性以及监管解释。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "Presidente Lee niega que la norma de compra de viviendas permita inversión gap",
+        "excerpt": "El presidente Lee Jae Myung dijo el día 11 que permitir compras de viviendas con inquilinos de propietarios no residentes de una sola casa en zonas con permiso de transacción de suelo es una oportunidad de venta, no una autorización de inversión gap.",
+        "body": "El presidente Lee Jae Myung dijo el día 11 que la medida del gobierno que permite comprar viviendas con inquilinos pertenecientes a propietarios no residentes de una sola casa dentro de zonas sujetas a permiso de transacción de suelo no debe interpretarse como una autorización de inversión gap. Lee explicó que la medida busca dar a esos propietarios una oportunidad para vender viviendas ocupadas por inquilinos. En dichas zonas se han aplicado normas sobre transacciones de vivienda y requisitos de residencia efectiva, y sus declaraciones se entienden como una respuesta a la controversia sobre la naturaleza de la medida gubernamental. El mercado observará cómo este criterio afecta la posibilidad de transacciones y la interpretación regulatoria. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "Presidente Lee rejeita que regra de compra de imóveis permita investimento gap",
+        "excerpt": "O presidente Lee Jae Myung disse no dia 11 que permitir a compra de imóveis com inquilinos de proprietários não residentes de uma única casa em zonas de autorização de transação de terras é uma oportunidade de venda, não liberação de investimento gap.",
+        "body": "O presidente Lee Jae Myung afirmou no dia 11 que a medida do governo que permite a compradores adquirir imóveis com inquilinos pertencentes a proprietários não residentes de uma única casa em zonas de autorização de transação de terras não deve ser vista como permissão para investimento gap. Lee explicou que a medida tem como objetivo oferecer uma oportunidade de venda a proprietários de uma única residência ocupada por inquilinos. Nessas zonas, regras sobre transações imobiliárias e exigências de residência efetiva vêm sendo aplicadas, e a fala é interpretada como resposta à controvérsia sobre a natureza da medida. O mercado deve acompanhar como o critério afetará as transações e a leitura regulatória. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "Präsident Lee weist Vorwurf zurück, neue Hauskaufregel erlaube Gap-Investments",
+        "excerpt": "Präsident Lee Jae Myung erklärte am 11., der erlaubte Kauf vermieteter Wohnungen nicht ansässiger Ein-Haus-Eigentümer in Bodentransaktions-Genehmigungszonen sei eine Verkaufsmöglichkeit, keine Freigabe von Gap-Investments.",
+        "body": "Präsident Lee Jae Myung sagte am 11., die Regierungsmaßnahme, in Bodentransaktions-Genehmigungszonen den Kauf von Wohnungen nicht ansässiger Ein-Haus-Eigentümer mit Mietern zu ermöglichen, solle nicht als Erlaubnis für Gap-Investments verstanden werden. Lee erklärte, die Maßnahme solle Ein-Haus-Eigentümern mit vermieteten Wohnungen eine Gelegenheit zum Verkauf geben. In solchen Zonen gelten Regeln zu Wohntransaktionen und tatsächlicher Wohnnutzung; seine Äußerung wird daher als Reaktion auf die Kontroverse über den Charakter der Regierungsmaßnahme gewertet. Der Markt dürfte beobachten, wie dieser Maßstab die Handelbarkeit und die regulatorische Auslegung beeinflusst. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "Le président Lee nie que la règle d’achat immobilier autorise l’investissement gap",
+        "excerpt": "Le président Lee Jae Myung a déclaré le 11 que l’achat de logements loués appartenant à des propriétaires non résidents d’un seul bien dans les zones soumises à permis de transaction foncière offrait une occasion de vendre, sans autoriser l’investissement gap.",
+        "body": "Le président Lee Jae Myung a déclaré le 11 que la mesure gouvernementale permettant d’acheter, dans les zones soumises à permis de transaction foncière, des logements loués appartenant à des propriétaires non résidents d’un seul bien ne devait pas être considérée comme une autorisation d’investissement gap. Lee a expliqué que la mesure vise à donner à ces propriétaires une occasion de vendre des logements occupés par des locataires. Ces zones sont soumises à des règles sur les transactions immobilières et les obligations de résidence effective, et ses propos répondent à la controverse sur la nature de la mesure. Le marché devrait suivre l’effet de ce critère sur les transactions et l’interprétation réglementaire. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "الرئيس لي يرفض اعتبار قاعدة شراء المساكن سماحا باستثمار الفجوة",
+        "excerpt": "قال الرئيس لي جاي ميونغ في 11 إن السماح بشراء مساكن مؤجرة يملكها أصحاب منزل واحد غير مقيمين داخل مناطق تصاريح تداول الأراضي هو فرصة للبيع، وليس سماحا باستثمار الفجوة.",
+        "body": "قال الرئيس لي جاي ميونغ في 11 إن إجراء الحكومة الذي يسمح بشراء مساكن مؤجرة يملكها أصحاب منزل واحد غير مقيمين داخل مناطق تصاريح تداول الأراضي لا ينبغي اعتباره سماحا باستثمار الفجوة. وأوضح لي أن الإجراء يهدف إلى منح أصحاب المنزل الواحد الذين يملكون مساكن يشغلها مستأجرون فرصة للبيع. وتخضع هذه المناطق لقواعد تتعلق بتداول المساكن ومتطلبات الإقامة الفعلية، وتأتي تصريحاته ردا على الجدل حول طبيعة الإجراء الحكومي. ومن المتوقع أن تتابع السوق تأثير هذا المعيار في إمكانية إتمام الصفقات وتفسير القواعد التنظيمية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "राष्ट्रपति ली ने कहा, घर खरीद नियम को गैप निवेश की अनुमति बताना गलत",
+        "excerpt": "राष्ट्रपति ली जे म्युंग ने 11 तारीख को कहा कि भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले गैर-निवासी एकमात्र मकान मालिकों के घर खरीदने की अनुमति बिक्री का अवसर है, गैप निवेश की मंजूरी नहीं।",
+        "body": "राष्ट्रपति ली जे म्युंग ने 11 तारीख को कहा कि सरकार का वह कदम, जिसके तहत भूमि लेनदेन अनुमति क्षेत्रों में किरायेदार वाले गैर-निवासी एकमात्र मकान मालिकों के घर खरीदे जा सकते हैं, गैप निवेश की अनुमति के रूप में नहीं देखा जाना चाहिए। ली ने समझाया कि यह उपाय ऐसे एकमात्र मकान मालिकों को बिक्री का अवसर देने के लिए है जिनके घर में किरायेदार हैं। इन क्षेत्रों में आवास लेनदेन और वास्तविक निवास संबंधी नियम लागू रहे हैं, और उनका बयान सरकारी कदम की प्रकृति पर उठे विवाद का जवाब माना जा रहा है। बाजार इस बात पर नजर रखेगा कि यह मानक लेनदेन की संभावना और नियामकीय व्याख्या को कैसे प्रभावित करता है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "Presiden Lee bantah aturan beli rumah berarti izin investasi gap",
+        "excerpt": "Presiden Lee Jae Myung pada tanggal 11 mengatakan izin membeli rumah berpenyewa milik pemilik satu rumah yang tidak tinggal di dalam zona izin transaksi tanah adalah peluang menjual, bukan izin investasi gap.",
+        "body": "Presiden Lee Jae Myung pada tanggal 11 mengatakan langkah pemerintah yang memungkinkan pembelian rumah berpenyewa milik pemilik satu rumah yang tidak tinggal di zona izin transaksi tanah tidak seharusnya dipandang sebagai izin investasi gap. Lee menjelaskan bahwa kebijakan tersebut dimaksudkan untuk memberi kesempatan menjual bagi pemilik satu rumah yang memiliki hunian dengan penyewa. Di zona izin transaksi tanah, aturan mengenai transaksi rumah dan kewajiban tinggal nyata telah berlaku, sehingga pernyataan ini dipahami sebagai tanggapan atas kontroversi mengenai sifat langkah pemerintah. Pasar diperkirakan akan mencermati dampak standar tersebut terhadap kemungkinan transaksi dan penafsiran regulasi. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "64cb5c74a420",
+    "slug": "머니톡스-격동의-하이닉스①부실기업-초일류기업으로-거듭나다-718017",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T22:25:23.578Z",
+    "updatedAt": "2026-05-10T22:25:23.578Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260507161400546",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260507161400546",
+    "titleFingerprint": "98cc4c8c9dc546492d031ee21f316386fcc834b1",
+    "dedupKeys": [
+      "64cb5c74a420e919a65142ec7f319042af28179d",
+      "98cc4c8c9dc546492d031ee21f316386fcc834b1",
+      "b118292f770a4f19000b725945c406d2a0b6d9c4"
+    ],
+    "imageUrl": "/images/articles/64cb5c74a420.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 격동의 성장사, 부실기업에서 초일류 반도체 기업으로",
+        "excerpt": "연합뉴스 머니톡스는 최근 반도체 초호황 속 SK하이닉스가 부실기업에서 초일류 기업으로 거듭난 과정을 성과급과 주가 상승 이슈와 함께 조명했다.",
+        "body": "최근 반도체 초호황을 맞아 SK하이닉스에 대한 관심이 커지는 가운데, 연합뉴스 머니톡스는 ‘격동의 하이닉스’ 첫 편에서 이 회사가 부실기업에서 초일류 기업으로 거듭난 과정을 다뤘다. 기사에 따르면 SK하이닉스는 막대한 성과급 지급과 수십 배로 오른 주가로 시장의 주목을 받고 있다. 이번 조명은 반도체 업황 호조가 기업 성과와 투자자 관심으로 이어진 흐름을 배경으로 한다. 향후 관심은 SK하이닉스가 초호황 국면에서 현재의 위상과 성과를 어떻게 이어갈지에 모인다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "SK Hynix’s Turbulent Rise: From Troubled Firm to Top Chipmaker",
+        "excerpt": "Yonhap’s Money Talks spotlighted how SK Hynix, amid the recent semiconductor boom, drew attention through large bonuses, a sharply higher stock price and its turnaround story.",
+        "body": "As interest in SK Hynix grows during the recent semiconductor boom, Yonhap’s Money Talks examined in the first part of its “Turbulent Hynix” series how the company transformed from a troubled business into a top-tier enterprise. According to the article, SK Hynix has drawn market attention with large performance bonuses and a stock price that has risen dozens of times. The report places that attention in the context of a strong chip cycle translating into corporate results and investor focus. The next question is how SK Hynix will sustain its current standing and performance during the boom. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックス激動の成長史、不良企業から超一流半導体企業へ",
+        "excerpt": "聯合ニュースのマネートークスは、半導体の超好況を背景に、SKハイニックスが不良企業から超一流企業へ生まれ変わった過程を取り上げた。",
+        "body": "最近の半導体超好況を受けてSKハイニックスへの関心が高まるなか、聯合ニュースのマネートークスは「激動のハイニックス」第1回で、同社が不良企業から超一流企業へ生まれ変わった過程を扱った。記事によると、SKハイニックスは巨額の成果給支給と数十倍に上昇した株価で市場の注目を集めている。今回の特集は、半導体市況の好調が企業業績と投資家の関心につながった流れを背景としている。今後の焦点は、SKハイニックスが超好況局面で現在の地位と成果をどう維持するかに集まる。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "SK海力士动荡成长史：从不良企业迈向顶级半导体公司",
+        "excerpt": "韩联社Money Talks在近期半导体超级景气中，聚焦SK海力士如何从不良企业蜕变为顶级企业，并引发市场关注。",
+        "body": "随着近期半导体行业迎来超级景气，市场对SK海力士的关注持续升温。韩联社Money Talks在“动荡的海力士”第一篇中，回顾了该公司从不良企业成长为顶级企业的过程。报道称，SK海力士因支付巨额绩效奖金以及股价上涨数十倍而受到市场瞩目。此次报道的背景是半导体景气改善带动企业成果，并进一步吸引投资者关注。接下来的焦点在于，SK海力士能否在超级景气阶段延续当前地位与成果。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "SK Hynix y su giro histórico: de empresa débil a líder mundial de chips",
+        "excerpt": "Money Talks de Yonhap analizó cómo SK Hynix, en pleno auge de semiconductores, pasó de ser una empresa en problemas a una compañía de primer nivel.",
+        "body": "En medio del reciente auge de los semiconductores y del creciente interés por SK Hynix, Money Talks de Yonhap abordó en la primera entrega de “Hynix turbulenta” cómo la compañía pasó de ser una empresa en dificultades a una firma de primer nivel. Según el artículo, SK Hynix atrae la atención del mercado por el pago de cuantiosas bonificaciones por desempeño y por una acción que ha subido decenas de veces. El reportaje sitúa esa atención en el contexto de un ciclo favorable de chips que se traduce en resultados corporativos e interés inversor. La cuestión ahora es cómo SK Hynix mantendrá su posición y desempeño en esta etapa de auge. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "SK Hynix em transformação: de empresa problemática a gigante de chips",
+        "excerpt": "O Money Talks da Yonhap destacou como a SK Hynix, em meio ao superciclo de semicondutores, passou de empresa fragilizada a companhia de primeira linha.",
+        "body": "Com o recente superciclo dos semicondutores elevando o interesse pela SK Hynix, o Money Talks da Yonhap analisou, na primeira parte de “Hynix em turbulência”, como a companhia deixou de ser uma empresa problemática para se tornar uma empresa de primeira linha. Segundo a reportagem, a SK Hynix chama a atenção do mercado pelo pagamento de grandes bônus de desempenho e por uma ação que subiu dezenas de vezes. A matéria contextualiza esse interesse no avanço do setor de chips, que se refletiu em resultados corporativos e foco dos investidores. A atenção agora se volta para como a SK Hynix sustentará sua posição e seus resultados durante a fase de forte demanda. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "SK Hynix im Wandel: Vom Sanierungsfall zum führenden Chipkonzern",
+        "excerpt": "Yonhaps Money Talks beleuchtete, wie SK Hynix im jüngsten Halbleiterboom vom angeschlagenen Unternehmen zum Spitzenkonzern wurde und Anlegerinteresse auslöste.",
+        "body": "Angesichts des jüngsten Halbleiterbooms wächst das Interesse an SK Hynix. Yonhaps Money Talks zeigte im ersten Teil der Reihe “Turbulentes Hynix”, wie sich das Unternehmen von einem angeschlagenen Betrieb zu einem Spitzenunternehmen entwickelte. Dem Artikel zufolge steht SK Hynix wegen hoher Leistungsprämien und eines Aktienkurses, der um ein Vielfaches gestiegen ist, im Fokus des Marktes. Der Bericht ordnet dies in den Kontext eines starken Chipzyklus ein, der Unternehmensergebnisse und Anlegerinteresse antreibt. Entscheidend bleibt, wie SK Hynix seine heutige Stellung und Leistung in der Boomphase behauptet. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "SK Hynix, ascension mouvementée d’une entreprise fragile à un champion des puces",
+        "excerpt": "Money Talks de Yonhap a retracé comment SK Hynix, portée par le récent boom des semi-conducteurs, est passée d’entreprise en difficulté à groupe de premier plan.",
+        "body": "Alors que le récent boom des semi-conducteurs renforce l’intérêt pour SK Hynix, Money Talks de Yonhap a consacré le premier volet de “Hynix mouvementé” à la transformation de l’entreprise, passée d’une société en difficulté à un groupe de premier plan. Selon l’article, SK Hynix attire l’attention du marché grâce au versement d’importantes primes de performance et à un cours de Bourse multiplié par des dizaines. Le reportage replace cette attention dans le contexte d’un cycle favorable des puces, qui s’est traduit par des résultats d’entreprise et un intérêt accru des investisseurs. L’enjeu est désormais de savoir comment SK Hynix préservera son statut et ses performances dans cette phase de forte conjoncture. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "إس كيه هاينكس من شركة متعثرة إلى عملاق رقائق وسط طفرة القطاع",
+        "excerpt": "سلطت Money Talks التابعة ليونهاب الضوء على تحول SK Hynix، وسط ازدهار أشباه الموصلات، من شركة متعثرة إلى مؤسسة من الطراز الأول.",
+        "body": "مع تزايد الاهتمام بشركة SK Hynix في ظل الطفرة الأخيرة في قطاع أشباه الموصلات، تناولت Money Talks التابعة لوكالة يونهاب في الجزء الأول من سلسلة “هاينكس المضطربة” كيف تحولت الشركة من كيان متعثر إلى مؤسسة من الطراز الأول. ووفق التقرير، جذبت SK Hynix أنظار السوق عبر دفع مكافآت أداء ضخمة وارتفاع سهمها بعشرات المرات. ويأتي هذا الاهتمام في سياق تحسن دورة الرقائق وانعكاسها على نتائج الشركات واهتمام المستثمرين. ويبقى التركيز منصبا على كيفية حفاظ SK Hynix على مكانتها وأدائها خلال مرحلة الازدهار. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "SK Hynix की उथल-पुथल भरी बढ़त: कमजोर कंपनी से शीर्ष चिप निर्माता तक",
+        "excerpt": "Yonhap के Money Talks ने बताया कि सेमीकंडक्टर उछाल के बीच SK Hynix कैसे कमजोर कंपनी से शीर्ष स्तर की कंपनी बनी और बाजार का ध्यान खींचा।",
+        "body": "हालिया सेमीकंडक्टर सुपर-बूम के बीच SK Hynix में बढ़ती दिलचस्पी को देखते हुए, Yonhap के Money Talks ने “उथल-पुथल भरी Hynix” श्रृंखला के पहले भाग में कंपनी के कमजोर व्यवसाय से शीर्ष स्तर की कंपनी बनने की प्रक्रिया पर रोशनी डाली। लेख के अनुसार, SK Hynix बड़े प्रदर्शन बोनस और दर्जनों गुना बढ़े शेयर मूल्य के कारण बाजार के केंद्र में है। यह रिपोर्ट दिखाती है कि मजबूत चिप चक्र कैसे कंपनी के प्रदर्शन और निवेशकों की रुचि से जुड़ा। आगे ध्यान इस पर रहेगा कि SK Hynix इस उछाल के दौर में अपनी मौजूदा स्थिति और प्रदर्शन को कैसे बनाए रखती है। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "SK Hynix Berubah Besar: dari Perusahaan Bermasalah ke Raksasa Chip",
+        "excerpt": "Money Talks Yonhap menyoroti bagaimana SK Hynix, di tengah boom semikonduktor terbaru, berubah dari perusahaan bermasalah menjadi perusahaan kelas atas.",
+        "body": "Di tengah boom semikonduktor terbaru yang meningkatkan perhatian terhadap SK Hynix, Money Talks Yonhap dalam bagian pertama seri “Hynix yang Bergolak” membahas bagaimana perusahaan itu berubah dari bisnis bermasalah menjadi perusahaan kelas atas. Menurut artikel tersebut, SK Hynix menjadi sorotan pasar karena pembayaran bonus kinerja yang besar dan harga saham yang naik puluhan kali. Liputan ini menempatkan perhatian tersebut dalam konteks membaiknya siklus chip yang mendorong kinerja perusahaan dan minat investor. Fokus berikutnya adalah bagaimana SK Hynix mempertahankan posisi dan kinerjanya selama fase boom ini. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dd58e9945304",
+    "slug": "머니톡스-격동의-하이닉스②황제주로-탈바꿈한-개미-무덤-127367",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T22:24:25.732Z",
+    "updatedAt": "2026-05-10T22:24:25.732Z",
+    "sourceName": "yna.co.kr",
+    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508089300546",
+    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508089300546",
+    "titleFingerprint": "9ddb37f6042bc12e995ab1a07267c44629d6384e",
+    "dedupKeys": [
+      "dd58e99453043d09cb9730dd550c79267361c581",
+      "9ddb37f6042bc12e995ab1a07267c44629d6384e",
+      "2fed481d0c876cecca2d1af0e2bb709d8ebb732e"
+    ],
+    "imageUrl": "/images/articles/dd58e9945304.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 주가 급등 조명…‘개미 무덤’에서 황제주로 바뀐 배경",
+        "excerpt": "연합뉴스 머니톡스는 최근 반도체 초호황 속 SK하이닉스가 막대한 성과급과 수십 배 오른 주가로 투자자 관심을 끄는 배경을 짚었다.",
+        "body": "최근 반도체 초호황을 맞아 SK하이닉스에 대한 시장 관심이 다시 커지고 있다. 연합뉴스 머니톡스는 ‘격동의 하이닉스’ 두 번째 편에서 한때 개인투자자에게 ‘개미 무덤’으로 불렸던 SK하이닉스가 주가 상승을 거치며 ‘황제주’로 탈바꿈한 흐름을 다뤘다. 기사 요약에 따르면 관심의 배경에는 막대한 성과급 지급과 수십 배로 오른 주가가 있다. 반도체 업황 호조가 이어지며 회사와 투자자를 둘러싼 평가도 달라졌다는 점이 핵심이다. 향후 관전 포인트는 초호황 국면에서 SK하이닉스에 대한 기대와 주가 평가가 어떻게 이어질지다. 출처: yna.co.kr"
+      },
+      "en": {
+        "title": "SK hynix rally in focus as ‘ant grave’ turns into emperor stock",
+        "excerpt": "Yonhap’s Money Talks examines why SK hynix is drawing attention amid the latest semiconductor boom, with large bonuses and a stock price that has risen dozens of times.",
+        "body": "Market attention on SK hynix has intensified amid the recent semiconductor supercycle. In the second part of its “Turbulent Hynix” series, Yonhap’s Money Talks looked at how SK hynix, once described by individual investors as an “ant grave,” has transformed into an “emperor stock” after a steep share-price rise. According to the article summary, the renewed interest centers on large performance bonuses and a stock price that has climbed dozens of times. The key point is that the favorable chip cycle has changed how the company and its investors are viewed. The next issue to watch is how expectations and valuation for SK hynix continue in this boom. Source: yna.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックス株急騰に注目、「個人投資家の墓」から皇帝株へ",
+        "excerpt": "聯合ニュースのマネートークスは、半導体の超好況を背景に、巨額の成果給と数十倍に上がった株価でSKハイニックスへの関心が高まる理由を伝えた。",
+        "body": "最近の半導体超好況を受け、SKハイニックスへの市場の関心が再び高まっている。聯合ニュースのマネートークスは「激動のハイニックス」第2回で、かつて個人投資家に「個人投資家の墓」と呼ばれたSKハイニックスが、株価上昇を経て「皇帝株」へ変わった流れを取り上げた。記事要約によると、関心の背景には巨額の成果給支給と、数十倍に上がった株価がある。半導体市況の好調が続き、会社と投資家をめぐる評価も変わった点が核心だ。今後の焦点は、超好況局面でSKハイニックスへの期待と株価評価がどう続くかだ。出典: yna.co.kr"
+      },
+      "zh": {
+        "title": "SK海力士股价飙升受关注：从“散户坟墓”变身皇帝股",
+        "excerpt": "韩联社Money Talks关注近期半导体超级景气下，SK海力士因巨额绩效奖金和上涨数十倍的股价而吸引投资者目光的背景。",
+        "body": "在近期半导体超级景气背景下，市场对SK海力士的关注再次升温。韩联社Money Talks在“动荡的海力士”第二篇中，梳理了SK海力士从一度被散户称为“散户坟墓”，到随着股价上涨转变为“皇帝股”的过程。根据文章摘要，关注升温的背景包括巨额绩效奖金发放，以及上涨数十倍的股价。核心在于，半导体行情向好延续，围绕公司和投资者的评价也随之改变。接下来的观察重点是，在超级景气阶段，市场对SK海力士的期待和股价评价将如何延续。来源: yna.co.kr"
+      },
+      "es": {
+        "title": "SK hynix acapara miradas: de ‘tumba de minoristas’ a acción emperador",
+        "excerpt": "Money Talks de Yonhap analiza por qué SK hynix atrae atención en el auge de semiconductores, entre grandes bonos por desempeño y una acción que subió decenas de veces.",
+        "body": "La atención del mercado sobre SK hynix ha vuelto a crecer con el reciente superciclo de semiconductores. En la segunda parte de “Hynix en turbulencia”, Money Talks de Yonhap abordó cómo SK hynix, antes llamada por inversores minoristas una “tumba de hormigas”, se transformó en una “acción emperador” tras una fuerte subida bursátil. Según el resumen del artículo, el interés se explica por el pago de grandes bonos por desempeño y por una cotización que aumentó decenas de veces. La clave es que la mejora del sector de chips cambió la valoración de la empresa y de sus inversores. El punto a observar es cómo seguirán las expectativas y la valoración de SK hynix en esta fase de auge. Fuente: yna.co.kr"
+      },
+      "pt": {
+        "title": "SK hynix ganha destaque: de ‘túmulo dos pequenos’ a ação imperador",
+        "excerpt": "O Money Talks da Yonhap analisa por que a SK hynix atrai atenção no superciclo dos semicondutores, com grandes bônus e uma ação que subiu dezenas de vezes.",
+        "body": "A atenção do mercado sobre a SK hynix voltou a crescer com o recente superciclo dos semicondutores. Na segunda parte de “Hynix em turbulência”, o Money Talks da Yonhap mostrou como a SK hynix, antes chamada por investidores individuais de “túmulo das formigas”, transformou-se em uma “ação imperador” após forte alta das ações. Segundo o resumo do artigo, o interesse vem do pagamento de grandes bônus por desempenho e de uma cotação que subiu dezenas de vezes. O ponto central é que a boa fase dos chips mudou a avaliação sobre a empresa e seus investidores. A questão agora é como expectativas e avaliação da SK hynix seguirão neste período de boom. Fonte: yna.co.kr"
+      },
+      "de": {
+        "title": "SK hynix im Fokus: Vom ‘Kleinanlegergrab’ zur Kaiseraktie",
+        "excerpt": "Yonhaptv Money Talks beleuchtet, warum SK hynix im Halbleiterboom Aufmerksamkeit erhält: hohe Leistungsprämien und ein Aktienkurs, der um ein Vielfaches gestiegen ist.",
+        "body": "Das Marktinteresse an SK hynix ist im jüngsten Halbleiter-Superboom wieder deutlich gestiegen. In Teil zwei der Reihe “Turbulentes Hynix” beschreibt Yonhaps Money Talks, wie SK hynix, einst von Privatanlegern als “Ameisengrab” bezeichnet, nach starkem Kursanstieg zur “Kaiseraktie” wurde. Laut Zusammenfassung des Artikels stehen hohe Leistungsprämien und ein Aktienkurs, der um ein Vielfaches beziehungsweise dutzendfach gestiegen ist, im Mittelpunkt der Aufmerksamkeit. Entscheidend ist, dass die starke Chipkonjunktur die Wahrnehmung des Unternehmens und seiner Anleger verändert hat. Zu beobachten bleibt, wie sich Erwartungen und Bewertung von SK hynix in dieser Boomphase entwickeln. Quelle: yna.co.kr"
+      },
+      "fr": {
+        "title": "SK hynix sous les projecteurs, de « tombe des petits porteurs » à valeur empereur",
+        "excerpt": "Money Talks de Yonhap explique pourquoi SK hynix attire l’attention dans le supercycle des puces, entre fortes primes de performance et action multipliée par des dizaines.",
+        "body": "L’attention du marché envers SK hynix s’est ravivée avec le récent supercycle des semi-conducteurs. Dans le deuxième volet de « Hynix dans la tourmente », Money Talks de Yonhap retrace comment SK hynix, autrefois surnommée par les investisseurs particuliers la « tombe des fourmis », s’est transformée en « valeur empereur » après une forte hausse de son action. Selon le résumé de l’article, cet intérêt tient aux importantes primes de performance et à un cours multiplié par des dizaines. Le point central est que la bonne conjoncture des puces a changé le regard porté sur l’entreprise et ses investisseurs. La suite dépendra de l’évolution des attentes et de la valorisation de SK hynix dans cette phase d’essor. Source: yna.co.kr"
+      },
+      "ar": {
+        "title": "سهم SK hynix تحت المجهر: من «مقبرة الأفراد» إلى سهم إمبراطوري",
+        "excerpt": "تتناول Money Talks التابعة ليونهاب أسباب الاهتمام المتزايد بـSK hynix خلال طفرة أشباه الموصلات، مع مكافآت أداء ضخمة وسعر سهم ارتفع عشرات المرات.",
+        "body": "عاد اهتمام السوق بشركة SK hynix إلى الارتفاع مع الطفرة الأخيرة في قطاع أشباه الموصلات. وفي الجزء الثاني من سلسلة «هينكس المضطربة»، استعرضت Money Talks التابعة ليونهاب كيف تحولت SK hynix، التي وُصفت سابقا بين المستثمرين الأفراد بأنها «مقبرة النمل»، إلى «سهم إمبراطوري» بعد صعود قوي في سعر السهم. ووفقا لملخص المقال، يرتبط الاهتمام بدفع مكافآت أداء ضخمة وبسعر سهم ارتفع عشرات المرات. وتتمثل النقطة الأساسية في أن تحسن دورة الرقائق غيّر تقييم الشركة والمستثمرين المحيطين بها. أما ما يستحق المتابعة فهو كيف ستستمر التوقعات وتقييم سهم SK hynix في مرحلة الطفرة الحالية. المصدر: yna.co.kr"
+      },
+      "hi": {
+        "title": "SK hynix पर नजर: ‘छोटे निवेशकों की कब्र’ से एम्परर स्टॉक तक",
+        "excerpt": "Yonhap की Money Talks ने बताया कि सेमीकंडक्टर उछाल के बीच SK hynix क्यों चर्चा में है, जहां बड़े प्रदर्शन बोनस और दर्जनों गुना चढ़ा शेयर भाव प्रमुख कारण हैं।",
+        "body": "हालिया सेमीकंडक्टर सुपर-बूम के बीच SK hynix पर बाजार का ध्यान फिर बढ़ गया है। Yonhap की Money Talks ने “Turbulent Hynix” श्रृंखला के दूसरे भाग में बताया कि कभी व्यक्तिगत निवेशकों के बीच “चींटी कब्र” कही जाने वाली SK hynix, तेज शेयर उछाल के बाद “एम्परर स्टॉक” में कैसे बदल गई। लेख के सार के अनुसार, इस रुचि की पृष्ठभूमि में बड़े प्रदर्शन बोनस का भुगतान और दर्जनों गुना बढ़ा शेयर भाव है। मुख्य बात यह है कि चिप उद्योग की मजबूत स्थिति ने कंपनी और उसके निवेशकों को लेकर मूल्यांकन बदल दिया है। आगे देखने वाली बात यह होगी कि इस उछाल के दौर में SK hynix से जुड़ी उम्मीदें और शेयर मूल्यांकन कैसे जारी रहते हैं। स्रोत: yna.co.kr"
+      },
+      "id": {
+        "title": "SK hynix disorot: dari ‘kuburan investor ritel’ jadi saham kaisar",
+        "excerpt": "Money Talks Yonhap menyoroti alasan SK hynix menarik perhatian di tengah superboom semikonduktor, dengan bonus kinerja besar dan harga saham yang naik puluhan kali.",
+        "body": "Perhatian pasar terhadap SK hynix kembali meningkat di tengah superboom semikonduktor terbaru. Dalam bagian kedua seri “Hynix yang Bergejolak”, Money Talks Yonhap membahas bagaimana SK hynix, yang pernah disebut investor individu sebagai “kuburan semut”, berubah menjadi “saham kaisar” setelah kenaikan harga saham yang tajam. Menurut ringkasan artikel, minat itu dipicu oleh pembayaran bonus kinerja yang besar dan harga saham yang naik puluhan kali. Intinya, kondisi industri chip yang kuat telah mengubah penilaian terhadap perusahaan dan para investornya. Hal yang perlu dicermati berikutnya adalah bagaimana ekspektasi dan valuasi SK hynix berlanjut dalam fase boom ini. Sumber: yna.co.kr"
+      }
+    }
+  },
+  {
     "id": "bb19c2c49ec7",
     "slug": "8천피-넘보는-韓증시중복상장-규제-꺼낸-당국-체질-개선-속도-344315",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Reli KOSPI Picu Investasi Utang, Saldo Minus Lima Bank Besar Tembus 40 Triliun Won",
         "excerpt": "Sumber keuangan pada 10 Mei menyebut kenaikan KOSPI dan FOMO membuat saldo penggunaan rekening minus pribadi di lima bank besar mencapai 40,5029 triliun won per 7 Mei, tertinggi dalam tiga tahun tiga bulan.",
         "body": "Kenaikan KOSPI yang berlanjut membuat investasi saham dengan dana pinjaman oleh individu meningkat cepat. Menurut sumber sektor keuangan pada 10 Mei, saldo penggunaan rekening minus pribadi di KB Kookmin, Shinhan, Hana, Woori, dan NH NongHyup mencapai 40,5029 triliun won per 7 Mei. Angka itu merupakan yang tertinggi dalam tiga tahun tiga bulan. Sejak awal bulan, saldo tersebut bertambah rata-rata hampir 240 miliar won per hari, menunjukkan meningkatnya kebutuhan dana cepat. Kim Jung-soo, 42 tahun, warga Dongdaemun, Seoul, mengatakan ia memindahkan 10 juta won dari rekening minus yang baru dibuat ke rekening sekuritas, lalu membeli saham Samsung Electronics dan SK hynix. Ia menjelaskan bahwa cerita rekan kerja yang terus membahas keuntungan saham memperbesar rasa tertinggal dan FOMO. Di tengah boom semikonduktor yang menopang KOSPI, kekhawatiran atas kerugian dari investasi berbasis pinjaman juga ikut menguat. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "af918796aa16",
-    "slug": "코인-팔아-집-샀다30대-103억-원어치-가장-많아-599468",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T13:44:50.352Z",
-    "updatedAt": "2026-05-10T13:44:50.352Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892342/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892342/1",
-    "titleFingerprint": "96fae7b857a13e59b98a0f9d04e3836537739918",
-    "dedupKeys": [
-      "af918796aa16a3f85960a2beb93440a13f463347",
-      "96fae7b857a13e59b98a0f9d04e3836537739918",
-      "57fe07a9a639db948225409016288d77abd4e365"
-    ],
-    "imageUrl": "/images/articles/af918796aa16.jpg",
-    "i18n": {
-      "ko": {
-        "title": "30대 주택 매수자, 가상화폐 매각대금 103억 원 활용 ‘연령대 최다’",
-        "excerpt": "김종양 국민의힘 의원실에 따르면 2월 10일~3월 31일 주택 자금조달계획서 중 가상화폐 매각대금 신고는 324건이며 30대가 229건으로 가장 많았다.",
-        "body": "올해 2월 10일부터 3월 31일까지 접수된 주택 취득 자금조달계획서에서 30대가 가상화폐 매각대금을 주택 구입 자금으로 가장 많이 활용한 것으로 나타났다. 국회 국토교통위원회 소속 김종양 국민의힘 의원실에 따르면 해당 기간 계약일 기준 계획서 3만532건 중 가상화폐 매각대금을 자금 출처로 적은 사례는 324건이었다. 이 가운데 30대 매수자는 229건으로 70.7%를 차지했다. 30대가 활용한 가상화폐 매각대금은 103억1000만 원으로 가장 많았고, 40대 54억9500만 원, 20대 11억8500만 원 순이었다. 주택 취득 자금조달계획서는 규제지역 주택과 비규제지역 6억 원 이상 주택 구입 시 자금 출처를 적는 서류다. 다만 전체 자금에서 가상화폐 비중은 매우 작은 것으로 전해졌다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Homebuyers in Their 30s Used 10.31 Billion Won From Crypto Sales, Most by Age Group",
-        "excerpt": "According to Rep. Kim Jong-yang’s office, 324 housing funding plans filed from Feb. 10 to Mar. 31 listed crypto sale proceeds, with buyers in their 30s accounting for 229 cases.",
-        "body": "Buyers in their 30s used proceeds from cryptocurrency sales more than any other age group when purchasing homes between Feb. 10 and Mar. 31 this year, based on contract dates. According to the office of People Power Party lawmaker Kim Jong-yang, a member of the National Assembly’s Land, Infrastructure and Transport Committee, 324 of 30,532 housing acquisition funding plans listed crypto sale proceeds as a source of funds. Of those, 229 plans, or 70.7%, involved buyers in their 30s. The total amount used by this group reached 10.31 billion won, followed by buyers in their 40s with 5.495 billion won and those in their 20s with 1.185 billion won. The funding plan documents how buyers secured money for homes in regulated areas and non-regulated homes priced at 600 million won or more. Crypto sale proceeds were added as a reporting item on Feb. 10. However, crypto still accounted for only a very small share of total funding. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "30代住宅購入者、暗号資産売却代金103億ウォン活用で年代別最多",
-        "excerpt": "金鍾陽議員室によると、2月10日から3月31日までの住宅資金調達計画書で暗号資産売却代金を記載した事例は324件、30代が229件で最多だった。",
-        "body": "今年2月10日から3月31日までに提出された住宅取得資金調達計画書で、30代が住宅購入資金として暗号資産の売却代金を最も多く活用したことが分かった。国会国土交通委員会所属の金鍾陽・国民の力議員室によると、契約日基準で同期間の計画書3万532件のうち、暗号資産売却代金を資金源として記載したものは324件だった。このうち30代の買い手は229件で70.7%を占めた。30代が住宅購入に使った暗号資産売却代金は計103億1000万ウォンで最も多く、次いで40代が54億9500万ウォン、20代が11億8500万ウォンだった。住宅取得資金調達計画書は、規制地域の住宅と非規制地域の6億ウォン以上の住宅が対象となる。2月10日から暗号資産売却代金も申告項目に含まれた。ただし、全体資金に占める暗号資産の割合は非常に小さいという。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "30多岁购房者使用103亿韩元加密货币出售款，居各年龄段之首",
-        "excerpt": "据金钟阳议员办公室消息，2月10日至3月31日提交的住房资金筹措计划中，324件列明加密货币出售款，其中30多岁买家占229件。",
-        "body": "今年2月10日至3月31日提交的住房取得资金筹措计划显示，30多岁人群在购房时使用加密货币出售款的规模为各年龄段最高。韩国国会国土交通委员会所属国民力量议员金钟阳办公室表示，以合同日期为准，同期3万532份计划书中，将加密货币出售款列为资金来源的共有324件。其中，买家为30多岁的计划书有229件，占70.7%。30多岁购房者使用的加密货币出售款总额为103.1亿韩元，居首；其后为40多岁的54.95亿韩元和20多岁的11.85亿韩元。住房取得资金筹措计划书是买家说明购房资金来源的文件，适用于管制地区住房以及非管制地区6亿韩元以上住房。自2月10日起，加密货币出售款被纳入申报项目。不过，加密货币在整体资金中所占比例仍非常小。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Compradores treintañeros usaron 10.310 millones de wones de criptomonedas para vivienda",
-        "excerpt": "Según la oficina del diputado Kim Jong-yang, entre el 10 de febrero y el 31 de marzo hubo 324 planes de financiación de vivienda con ventas de criptomonedas, 229 de ellos de compradores en sus 30.",
-        "body": "Los compradores de vivienda en sus 30 años fueron el grupo que más utilizó ingresos por venta de criptomonedas para adquirir casas entre el 10 de febrero y el 31 de marzo de este año, según la fecha de contrato. La oficina del diputado Kim Jong-yang, del Partido del Poder Popular y miembro del comité parlamentario de Tierra, Infraestructura y Transporte, informó que 324 de 30.532 planes de financiación para adquisición de vivienda declararon esos ingresos como fuente de fondos. De ellos, 229 correspondieron a compradores en sus 30, el 70,7%. El monto total usado por este grupo fue de 10.310 millones de wones, seguido por compradores en sus 40 con 5.495 millones y en sus 20 con 1.185 millones. El plan de financiación registra cómo se obtuvieron los fondos para comprar viviendas en zonas reguladas y viviendas de 600 millones de wones o más en zonas no reguladas. Desde el 10 de febrero, las ventas de criptomonedas son un ítem declarable. Aun así, su peso en el total de fondos fue muy pequeño. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Compradores na faixa dos 30 usaram 10,31 bilhões de won em cripto para comprar casas",
-        "excerpt": "Segundo o gabinete do deputado Kim Jong-yang, de 10 de fevereiro a 31 de março, 324 planos de financiamento habitacional declararam venda de cripto, 229 deles de compradores na casa dos 30.",
-        "body": "Compradores na faixa dos 30 anos foram o grupo que mais usou recursos obtidos com venda de criptomoedas para comprar imóveis entre 10 de fevereiro e 31 de março deste ano, considerando a data do contrato. Segundo o gabinete do deputado Kim Jong-yang, do Partido do Poder Popular e integrante do Comitê de Terra, Infraestrutura e Transporte da Assembleia Nacional, 324 dos 30.532 planos de financiamento para aquisição de moradia informaram venda de cripto como fonte de recursos. Desse total, 229 planos, ou 70,7%, eram de compradores na casa dos 30. O montante usado por esse grupo chegou a 10,31 bilhões de won, seguido pelos compradores na casa dos 40, com 5,495 bilhões, e na casa dos 20, com 1,185 bilhão. O documento registra como o comprador obteve dinheiro para imóveis em áreas reguladas e imóveis de 600 milhões de won ou mais em áreas não reguladas. Desde 10 de fevereiro, a venda de cripto entrou nos itens de declaração. Ainda assim, sua fatia no total dos recursos foi muito pequena. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hauskäufer in den 30ern nutzten 10,31 Mrd. Won aus Krypto-Verkäufen, höchster Wert",
-        "excerpt": "Nach Angaben des Büros von Abgeordnetem Kim Jong-yang nannten vom 10. Februar bis 31. März 324 Finanzierungspläne Krypto-Verkäufe, davon 229 von Käufern in den 30ern.",
-        "body": "Hauskäufer in ihren 30ern haben zwischen dem 10. Februar und dem 31. März dieses Jahres, gemessen am Vertragsdatum, häufiger als jede andere Altersgruppe Erlöse aus Kryptowährungsverkäufen für den Wohnungskauf genutzt. Nach Angaben des Büros von Kim Jong-yang, Abgeordneter der People Power Party und Mitglied des Parlamentsausschusses für Land, Infrastruktur und Verkehr, nannten 324 von 30.532 Finanzierungsplänen für Wohnungserwerb Krypto-Verkaufserlöse als Geldquelle. Davon entfielen 229 Fälle oder 70,7% auf Käufer in ihren 30ern. Die Summe dieser Gruppe lag bei 10,31 Milliarden Won, gefolgt von Käufern in den 40ern mit 5,495 Milliarden Won und in den 20ern mit 1,185 Milliarden Won. Der Plan dokumentiert die Herkunft der Mittel für Wohnungen in regulierten Gebieten sowie für Wohnungen ab 600 Millionen Won in nicht regulierten Gebieten. Seit dem 10. Februar sind Krypto-Verkaufserlöse meldepflichtig. Ihr Anteil an der Gesamtfinanzierung blieb jedoch sehr klein. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les trentenaires ont utilisé 10,31 milliards de wons issus de cryptos pour acheter un logement",
-        "excerpt": "Selon le bureau du député Kim Jong-yang, du 10 février au 31 mars, 324 plans de financement immobilier ont déclaré des ventes de cryptomonnaies, dont 229 par des acheteurs trentenaires.",
-        "body": "Les acheteurs trentenaires sont ceux qui ont le plus utilisé le produit de ventes de cryptomonnaies pour acheter un logement entre le 10 février et le 31 mars de cette année, selon la date de contrat. D’après le bureau du député Kim Jong-yang, membre du Parti du pouvoir au peuple et de la commission parlementaire du Territoire, des Infrastructures et des Transports, 324 des 30.532 plans de financement d’acquisition immobilière ont indiqué des ventes de cryptomonnaies comme source de fonds. Parmi eux, 229 concernaient des acheteurs dans la trentaine, soit 70,7%. Le montant total utilisé par ce groupe a atteint 10,31 milliards de wons, devant les quadragénaires avec 5,495 milliards et les vingtenaires avec 1,185 milliard. Ce document précise l’origine des fonds pour les logements en zones réglementées et les logements d’au moins 600 millions de wons en zones non réglementées. Depuis le 10 février, les ventes de cryptomonnaies figurent dans les rubriques à déclarer. Leur part dans le financement total reste toutefois très faible. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "مشترو المنازل في الثلاثينات استخدموا 10.31 مليار وون من بيع العملات المشفرة",
-        "excerpt": "بحسب مكتب النائب كيم جونغ يانغ، سُجلت 324 خطة تمويل سكني بين 10 فبراير و31 مارس تضمنت عائدات بيع عملات مشفرة، منها 229 لمشترين في الثلاثينات.",
-        "body": "أظهرت خطط تمويل شراء المساكن المقدمة بين 10 فبراير و31 مارس من هذا العام أن المشترين في الثلاثينات هم الأكثر استخداما لعائدات بيع العملات المشفرة عند شراء المنازل، وفق تاريخ العقد. وقال مكتب النائب كيم جونغ يانغ، عضو لجنة الأراضي والبنية التحتية والنقل في الجمعية الوطنية عن حزب قوة الشعب، إن 324 خطة من أصل 30,532 خطة ذكرت عائدات بيع العملات المشفرة كمصدر للأموال. ومن بينها، تعود 229 خطة إلى مشترين في الثلاثينات، بما يمثل 70.7%. وبلغ إجمالي ما استخدمته هذه الفئة 10.31 مليار وون، تلتها فئة الأربعينات بـ5.495 مليار وون، ثم العشرينات بـ1.185 مليار وون. وتوضح خطة تمويل شراء المسكن كيفية تأمين المشتري للأموال، وهي مطلوبة للمساكن في المناطق الخاضعة للتنظيم وللمساكن التي تبلغ قيمتها 600 مليون وون فأكثر في المناطق غير الخاضعة للتنظيم. ومنذ 10 فبراير أضيفت عائدات بيع العملات المشفرة إلى بنود الإبلاغ. ومع ذلك، ظل نصيبها من إجمالي التمويل صغيرا جدا. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "30 की उम्र वाले खरीदारों ने घर खरीदने में 10.31 अरब वॉन की क्रिप्टो बिक्री रकम लगाई",
-        "excerpt": "सांसद किम जोंग-यांग के कार्यालय के अनुसार, 10 फरवरी से 31 मार्च तक 324 आवास वित्त योजनाओं में क्रिप्टो बिक्री रकम दर्ज हुई, जिनमें 229 खरीदार 30 की उम्र वाले थे।",
-        "body": "इस वर्ष 10 फरवरी से 31 मार्च तक, अनुबंध तिथि के आधार पर, घर खरीदने में क्रिप्टोकरेंसी बिक्री से मिली राशि का सबसे अधिक उपयोग 30 की उम्र वाले खरीदारों ने किया। नेशनल असेंबली की भूमि, अवसंरचना और परिवहन समिति के सदस्य तथा पीपल पावर पार्टी सांसद किम जोंग-यांग के कार्यालय के अनुसार, आवास अधिग्रहण वित्त योजना के 30,532 दस्तावेजों में से 324 में क्रिप्टो बिक्री राशि को धन स्रोत के रूप में दर्ज किया गया। इनमें 229 योजनाएं 30 की उम्र वाले खरीदारों की थीं, जो 70.7% है। इस समूह ने कुल 10.31 अरब वॉन की क्रिप्टो बिक्री राशि का उपयोग किया। इसके बाद 40 की उम्र वालों ने 5.495 अरब वॉन और 20 की उम्र वालों ने 1.185 अरब वॉन का उपयोग किया। यह योजना बताती है कि खरीदार ने घर खरीदने के लिए धन कैसे जुटाया, और यह नियंत्रित क्षेत्रों के घरों तथा गैर-नियंत्रित क्षेत्रों में 600 मिलियन वॉन या उससे अधिक मूल्य के घरों पर लागू होती है। 10 फरवरी से क्रिप्टो बिक्री राशि भी रिपोर्टिंग मद में शामिल हुई। हालांकि कुल धन में इसका हिस्सा बहुत छोटा रहा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Pembeli Rumah Usia 30-an Pakai 10,31 Miliar Won dari Penjualan Kripto, Terbanyak",
-        "excerpt": "Menurut kantor anggota parlemen Kim Jong-yang, pada 10 Februari-31 Maret ada 324 rencana pendanaan rumah yang mencantumkan hasil penjualan kripto, 229 di antaranya pembeli usia 30-an.",
-        "body": "Pembeli rumah berusia 30-an menjadi kelompok yang paling banyak menggunakan hasil penjualan mata uang kripto untuk membeli hunian pada 10 Februari hingga 31 Maret tahun ini, berdasarkan tanggal kontrak. Menurut kantor anggota parlemen Kim Jong-yang dari Partai Kekuatan Rakyat, anggota Komite Pertanahan, Infrastruktur, dan Transportasi Majelis Nasional, 324 dari 30.532 rencana pendanaan akuisisi rumah mencantumkan hasil penjualan kripto sebagai sumber dana. Dari jumlah itu, 229 rencana atau 70,7% berasal dari pembeli usia 30-an. Total dana kripto yang digunakan kelompok ini mencapai 10,31 miliar won, disusul pembeli usia 40-an sebesar 5,495 miliar won dan usia 20-an sebesar 1,185 miliar won. Rencana pendanaan tersebut mencatat asal dana pembelian rumah, berlaku untuk rumah di wilayah regulasi dan rumah senilai 600 juta won atau lebih di wilayah non-regulasi. Sejak 10 Februari, hasil penjualan kripto masuk item pelaporan. Namun porsinya dalam total pendanaan tetap sangat kecil. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "a7f33f482def",
-    "slug": "lpga투어-2승-김효주-국내-나들이-나와-정상-올랐다-427524",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T13:43:29.469Z",
-    "updatedAt": "2026-05-10T13:43:29.469Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Sports/article/all/20260510/133894442/1",
-    "canonicalUrl": "https://www.donga.com/news/Sports/article/all/20260510/133894442/1",
-    "titleFingerprint": "7ebd2f32cb85f4a2e4b4557eff3d80da463faf5d",
-    "dedupKeys": [
-      "a7f33f482def6b6820be9a22fd78b69a382e4fc4",
-      "7ebd2f32cb85f4a2e4b4557eff3d80da463faf5d",
-      "b4e4acb3f9f638d62d6115a2d87c0d0f5298ccaf"
-    ],
-    "imageUrl": "/images/articles/a7f33f482def.jpg",
-    "i18n": {
-      "ko": {
-        "title": "김효주 KLPGA NH투자증권 레이디스 정상, 1652일 만에 국내 우승 추가",
-        "excerpt": "세계 랭킹 3위 김효주가 11일 경기 용인 수원CC에서 열린 KLPGA투어 NH투자증권 레이디스 챔피언십에서 최종 9언더파로 박현경을 1타 차로 제치고 우승했다.",
-        "body": "여자 골프 세계 랭킹 3위 김효주(31)가 11일 경기 용인 수원CC(파72)에서 열린 KLPGA투어 NH투자증권 레이디스 챔피언십 최종 3라운드에서 정상에 올랐다. 김효주는 버디 3개와 보기 2개로 1언더파 71타를 기록했고, 최종합계 9언더파 207타로 박현경(26)을 한 타 차로 제쳤다. 이번 우승은 2021년 10월 SK네트웍스·서울경제 레이디스 클래식 이후 1652일 만의 국내 대회 우승이다. 김효주는 아마추어 우승을 제외하고 KLPGA투어 통산 14승을 기록해 역대 6위에 자리했다. 우승 상금은 1억8000만 원이며, 승부는 18번홀에서 갈렸다. 김효주는 조카에게 솜사탕 100개를 약속했다고 말했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Hyo Joo Kim wins KLPGA NH Ladies title, ending 1,652-day wait at home",
-        "excerpt": "World No. 3 Hyo Joo Kim won the KLPGA Tour NH Investment & Securities Ladies Championship at Suwon CC in Yongin on May 11, finishing at 9-under to beat Hyun Kyung Park by one shot.",
-        "body": "World No. 3 women’s golfer Hyo Joo Kim, 31, won the KLPGA Tour NH Investment & Securities Ladies Championship on May 11 at Suwon Country Club, a par-72 course in Yongin, Gyeonggi Province. In the final third round, Kim made three birdies and two bogeys for a 1-under 71, closing at 9-under 207. She edged Hyun Kyung Park, 26, by one stroke. It was Kim’s first domestic tour victory in 1,652 days, since the SK Networks-Seoul Economic Daily Ladies Classic in October 2021. Excluding her amateur win, she now has 14 career KLPGA Tour titles, sixth all time. Kim earned 180 million won, and the contest was decided on the 18th hole. She said she had promised her niece 100 cotton candies if she won. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "金孝周がKLPGA NH投資証券レディース制覇、1652日ぶり国内優勝",
-        "excerpt": "女子ゴルフ世界ランク3位の金孝周が11日、京畿道竜仁の水原CCで行われたKLPGAツアーで通算9アンダーとし、朴賢敬を1打差で退けて優勝した。",
-        "body": "女子ゴルフ世界ランキング3位の金孝周（31）が11日、京畿道竜仁の水原CC（パー72）で開かれたKLPGAツアー、NH投資証券レディース選手権の最終第3ラウンドで頂点に立った。金孝周はバーディー3つ、ボギー2つで1アンダー71をマークし、通算9アンダー207で朴賢敬（26）を1打差で抑えた。国内大会での勝利は2021年10月のSKネットワークス・ソウル経済レディースクラシック以来1652日ぶり。アマチュア優勝を除くKLPGAツアー通算勝利は14勝となり、歴代6位となった。優勝賞金は1億8000万ウォンで、勝負は18番ホールで決まった。金孝周は姪に綿あめ100個を約束したと語った。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "金孝周夺KLPGA NH投资证券女子赛冠军，1652天后再赢国内赛",
-        "excerpt": "女子高尔夫世界排名第3的金孝周11日在京畿道龙仁水原CC举行的KLPGA巡回赛中，以总成绩低于标准杆9杆领先朴贤敬1杆夺冠。",
-        "body": "女子高尔夫世界排名第3位的金孝周（31岁）11日在京畿道龙仁水原CC（72杆）举行的KLPGA巡回赛NH投资证券女子锦标赛最后第3轮登顶。金孝周抓下3只小鸟、吞下2个柏忌，打出低于标准杆1杆的71杆，并以总成绩低于标准杆9杆、207杆，领先朴贤敬（26岁）1杆夺冠。这是她自2021年10月SK Networks·首尔经济女子精英赛后，时隔1652天再次在韩国国内赛事夺冠。扣除业余身份夺冠，她的KLPGA巡回赛通算胜场达到14场，位列历史第6。冠军奖金为1.8亿韩元，胜负在第18洞决出。金孝周表示，曾答应侄女若夺冠就买100个棉花糖。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Hyo Joo Kim gana el NH Ladies de la KLPGA tras 1.652 días sin título local",
-        "excerpt": "La número 3 mundial Hyo Joo Kim ganó el 11 de mayo el NH Investment & Securities Ladies Championship de la KLPGA en Suwon CC, Yongin, con 9 bajo par y un golpe de ventaja sobre Hyun Kyung Park.",
-        "body": "La golfista Hyo Joo Kim, número 3 del mundo, ganó el 11 de mayo el NH Investment & Securities Ladies Championship del KLPGA Tour en el Suwon Country Club de Yongin, provincia de Gyeonggi, un campo par 72. En la tercera y última ronda, Kim, de 31 años, firmó tres birdies y dos bogeys para una tarjeta de 71 golpes, 1 bajo par, y terminó con 207, 9 bajo par. Superó por un golpe a Hyun Kyung Park, de 26 años. Fue su primera victoria en un torneo nacional desde el SK Networks-Seoul Economic Daily Ladies Classic de octubre de 2021, una espera de 1.652 días. Sin contar su triunfo como amateur, suma 14 títulos en la KLPGA, sexta marca histórica. Recibió 180 millones de wones, y el desenlace llegó en el hoyo 18. Kim dijo que prometió a su sobrina 100 algodones de azúcar si ganaba. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Hyo Joo Kim vence NH Ladies da KLPGA e encerra jejum local de 1.652 dias",
-        "excerpt": "A número 3 do mundo Hyo Joo Kim venceu em 11 de maio o NH Investment & Securities Ladies Championship da KLPGA, no Suwon CC, em Yongin, com 9 abaixo do par e um golpe à frente de Hyun Kyung Park.",
-        "body": "A golfista Hyo Joo Kim, número 3 do ranking mundial feminino, venceu em 11 de maio o NH Investment & Securities Ladies Championship do KLPGA Tour no Suwon Country Club, em Yongin, província de Gyeonggi, campo de par 72. Na terceira e última rodada, Kim, de 31 anos, fez três birdies e dois bogeys para 71 tacadas, 1 abaixo do par, e fechou com 207, 9 abaixo do par. Ela superou Hyun Kyung Park, de 26 anos, por uma tacada. Foi sua primeira vitória em torneio nacional desde o SK Networks-Seoul Economic Daily Ladies Classic, em outubro de 2021, após 1.652 dias. Sem contar a vitória como amadora, Kim chegou a 14 títulos na KLPGA, sexta maior marca histórica. O prêmio foi de 180 milhões de won, e a disputa se decidiu no buraco 18. Kim disse que prometeu 100 algodões-doces à sobrinha se vencesse. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Hyo Joo Kim gewinnt KLPGA NH Ladies nach 1.652 Tagen wieder in Korea",
-        "excerpt": "Die Weltranglistendritte Hyo Joo Kim gewann am 11. Mai die KLPGA Tour NH Investment & Securities Ladies Championship im Suwon CC in Yongin mit 9 unter Par, einen Schlag vor Hyun Kyung Park.",
-        "body": "Die Weltranglistendritte im Frauengolf, Hyo Joo Kim, 31, hat am 11. Mai die KLPGA Tour NH Investment & Securities Ladies Championship im Suwon Country Club in Yongin, Provinz Gyeonggi, auf einem Par-72-Platz gewonnen. In der dritten und letzten Runde spielte Kim drei Birdies und zwei Bogeys zu einer 71, also 1 unter Par, und beendete das Turnier mit 207 Schlägen, 9 unter Par. Damit lag sie einen Schlag vor Hyun Kyung Park, 26. Es war Kims erster Sieg bei einem heimischen Turnier seit der SK Networks-Seoul Economic Daily Ladies Classic im Oktober 2021, nach 1.652 Tagen. Ohne ihren Amateursieg kommt sie nun auf 14 KLPGA-Tour-Titel, Rang sechs der ewigen Liste. Das Preisgeld betrug 180 Millionen Won, die Entscheidung fiel am 18. Loch. Kim sagte, sie habe ihrer Nichte 100 Zuckerwatten versprochen, falls sie gewinnt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Hyo Joo Kim remporte le NH Ladies KLPGA, 1 652 jours après son dernier titre local",
-        "excerpt": "La numéro 3 mondiale Hyo Joo Kim a gagné le 11 mai le NH Investment & Securities Ladies Championship du KLPGA Tour au Suwon CC de Yongin, à 9 sous le par, avec un coup d’avance sur Hyun Kyung Park.",
-        "body": "Hyo Joo Kim, 31 ans, numéro 3 mondiale du golf féminin, a remporté le 11 mai le NH Investment & Securities Ladies Championship du KLPGA Tour au Suwon Country Club de Yongin, dans la province de Gyeonggi, sur un parcours par 72. Lors du troisième et dernier tour, Kim a signé trois birdies et deux bogeys pour une carte de 71, soit 1 sous le par, et a terminé à 207, 9 sous le par. Elle a devancé Hyun Kyung Park, 26 ans, d’un coup. Il s’agit de sa première victoire dans un tournoi national depuis le SK Networks-Seoul Economic Daily Ladies Classic d’octobre 2021, après 1 652 jours. Hors victoire amateur, elle compte désormais 14 titres sur le KLPGA Tour, sixième total historique. Le prix de la victoire s’élève à 180 millions de wons, et la décision s’est faite au 18e trou. Kim a dit avoir promis 100 barbes à papa à sa nièce en cas de victoire. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "هيو جو كيم تفوز بلقب NH للسيدات في KLPGA بعد 1652 يوما من آخر تتويج محلي",
-        "excerpt": "فازت هيو جو كيم، المصنفة الثالثة عالميا في غولف السيدات، في 11 مايو ببطولة NH للاستثمار والأوراق المالية للسيدات ضمن جولة KLPGA في ملعب سوون، بعدما أنهت المنافسة بتسع ضربات تحت المعدل وبفارق ضربة عن هيون كيونغ بارك.",
-        "body": "توجت هيو جو كيم، المصنفة الثالثة عالميا في غولف السيدات والبالغة 31 عاما، في 11 مايو بلقب بطولة NH للاستثمار والأوراق المالية للسيدات ضمن جولة KLPGA على ملعب سوون كانتري كلوب في يونغين بمقاطعة غيونغي، وهو ملعب بمعدل 72 ضربة. في الجولة الثالثة والأخيرة سجلت كيم ثلاث ضربات بيردي وبوجيين، لتنهي الجولة بـ71 ضربة، أي ضربة واحدة تحت المعدل، وبمجموع 207 ضربات، تسع ضربات تحت المعدل. وتفوقت على هيون كيونغ بارك، 26 عاما، بفارق ضربة واحدة. ويعد هذا أول لقب محلي لكيم منذ بطولة SK Networks-Seoul Economic Daily Ladies Classic في أكتوبر 2021، بعد 1652 يوما. وباستثناء فوزها كهاوية، رفعت رصيدها في جولة KLPGA إلى 14 لقبا، في المركز السادس تاريخيا. بلغت جائزة الفوز 180 مليون وون، وحسمت المنافسة في الحفرة 18. وقالت كيم إنها وعدت ابنة أخيها بشراء 100 حلوى قطنية إذا فازت. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "ह्यो जू किम ने KLPGA NH लेडीज खिताब जीता, 1652 दिन बाद घरेलू जीत",
-        "excerpt": "महिला गोल्फ विश्व रैंकिंग में तीसरे स्थान की ह्यो जू किम ने 11 मई को योंगिन के सुवोन CC में KLPGA NH इन्वेस्टमेंट एंड सिक्योरिटीज लेडीज चैंपियनशिप 9-अंडर पर समाप्त कर ह्यून क्यूंग पार्क को एक स्ट्रोक से हराया।",
-        "body": "महिला गोल्फ विश्व रैंकिंग में तीसरे स्थान पर मौजूद ह्यो जू किम (31) ने 11 मई को ग्योंगगी प्रांत के योंगिन स्थित सुवोन कंट्री क्लब के पार-72 कोर्स पर KLPGA टूर NH इन्वेस्टमेंट एंड सिक्योरिटीज लेडीज चैंपियनशिप जीती। अंतिम तीसरे दौर में किम ने तीन बर्डी और दो बोगी के साथ 1-अंडर 71 का स्कोर बनाया और कुल 9-अंडर 207 पर रहीं। उन्होंने ह्यून क्यूंग पार्क (26) को एक स्ट्रोक से पीछे छोड़ा। यह अक्टूबर 2021 के SK Networks-Seoul Economic Daily Ladies Classic के बाद 1652 दिनों में उनकी पहली घरेलू टूर्नामेंट जीत है। शौकिया जीत को छोड़कर, KLPGA टूर पर उनके करियर खिताब 14 हो गए हैं, जो सर्वकालिक सूची में छठा स्थान है। विजेता राशि 18 करोड़ वोन रही और मुकाबला 18वें होल पर तय हुआ। किम ने कहा कि जीतने पर उन्होंने अपनी भांजी को 100 कॉटन कैंडी दिलाने का वादा किया था। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Hyo Joo Kim juarai NH Ladies KLPGA, akhiri 1.652 hari tanpa gelar domestik",
-        "excerpt": "Peringkat 3 dunia golf putri Hyo Joo Kim menang pada 11 Mei di NH Investment & Securities Ladies Championship KLPGA Tour di Suwon CC, Yongin, dengan total 9-under dan unggul satu pukulan atas Hyun Kyung Park.",
-        "body": "Pegolf putri peringkat 3 dunia Hyo Joo Kim, 31 tahun, menjuarai NH Investment & Securities Ladies Championship KLPGA Tour pada 11 Mei di Suwon Country Club, Yongin, Provinsi Gyeonggi, lapangan par-72. Pada putaran ketiga terakhir, Kim mencetak tiga birdie dan dua bogey untuk skor 71, 1-under par, lalu finis dengan total 207, 9-under par. Ia mengalahkan Hyun Kyung Park, 26 tahun, dengan selisih satu pukulan. Ini menjadi kemenangan pertamanya di turnamen domestik sejak SK Networks-Seoul Economic Daily Ladies Classic pada Oktober 2021, setelah 1.652 hari. Tanpa menghitung kemenangan saat amatir, Kim kini mengoleksi 14 gelar KLPGA Tour, peringkat keenam sepanjang masa. Hadiah juara sebesar 180 juta won, dan persaingan ditentukan di hole 18. Kim mengatakan ia berjanji membelikan 100 gulali kapas untuk keponakannya jika menang. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "d879e19b75dc",
-    "slug": "코스피-상승-랠리에한-번에-1억-주문-개인투자자-늘었다-669117",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T13:42:07.788Z",
-    "updatedAt": "2026-05-10T13:42:07.788Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892818/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892818/1",
-    "titleFingerprint": "cdd15dc461da5757164c8d67f477605bba36cf84",
-    "dedupKeys": [
-      "d879e19b75dc4663652fc909416076d567e504e9",
-      "cdd15dc461da5757164c8d67f477605bba36cf84",
-      "48763c063d9711c31ef2eae17f1ef9bb72ee5dc0"
-    ],
-    "imageUrl": "/images/articles/d879e19b75dc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 상승 랠리에 개인 1억 원 이상 대량 주문 사상 최대",
-        "excerpt": "한국거래소에 따르면 지난달 코스피에서 개인투자자의 1억 원 이상 대량 주문이 119만3158건으로 월간 기준 역대 최대를 기록했다.",
-        "body": "지난달 코스피 상승 랠리가 본격화되면서 개인투자자의 고액 주문이 사상 최대 수준으로 늘었다. 10일 한국거래소에 따르면 지난달 코스피에서 개인이 한 번에 1억 원 이상 주식 매매를 한 대량 주문은 119만3158건으로 집계됐다. 이는 월간 기준 역대 최대이며, 코로나19 이후 유동성 확대로 거래가 활발했던 2021년 1월 115만3301건을 5년 3개월 만에 넘어선 수치다. 올해 3월 102만1744건보다도 16.78% 증가했다. 지난달 말 코스피는 3월 말보다 25.04% 올랐다. 삼성전자와 SK하이닉스 등 반도체 대형주의 1분기 실적 개선세가 확인되며 미국·이란 전쟁 이후 조정 국면을 지나 상승세가 강화된 영향으로 풀이된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "KOSPI Rally Drives Record Number of Retail Orders Above 100 Million Won",
-        "excerpt": "According to Korea Exchange, retail investors placed a record 1,193,158 KOSPI orders worth at least 100 million won last month as the index rallied.",
-        "body": "Retail investors’ large KOSPI orders reached a record high last month as the market’s upward rally gained momentum. According to Korea Exchange on the 10th, individuals placed 1,193,158 large orders worth at least 100 million won per transaction on the KOSPI last month. That was the highest monthly total on record, surpassing the 1,153,301 orders recorded in January 2021, when trading was active after liquidity expanded following COVID-19. The figure also rose 16.78% from 1,021,744 in March this year. By the end of last month, the KOSPI had climbed 25.04% from the end of March. The rise is seen as linked to confirmed first-quarter earnings improvement at major semiconductor stocks such as Samsung Electronics and SK hynix, helping the market move past volatility concerns after the U.S.-Iran war. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "KOSPI上昇ラリーで個人の1億ウォン以上大口注文が過去最多",
-        "excerpt": "韓国取引所によると、先月のKOSPIで個人投資家による1億ウォン以上の大口注文は119万3158件となり、月間で過去最多を記録した。",
-        "body": "先月、KOSPIの上昇ラリーが本格化するなか、個人投資家の高額注文が過去最多水準に増えた。10日、韓国取引所によると、先月KOSPIで個人が1回に1億ウォン以上の株式売買を行った大口注文は119万3158件だった。月間ベースで過去最多であり、新型コロナ後の流動性拡大で取引が活発だった2021年1月の115万3301件を5年3カ月ぶりに上回った。今年3月の102万1744件からも16.78%増加した。先月末のKOSPIは3月末比で25.04%上昇した。サムスン電子やSKハイニックスなど半導体大型株の1四半期業績改善が確認され、米国・イラン戦争後の調整局面を経て上昇基調が強まった影響とみられる。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "KOSPI上涨行情推动个人1亿韩元以上大额订单创纪录",
-        "excerpt": "韩国交易所数据显示，上月KOSPI市场个人投资者单笔1亿韩元以上大额订单达119万3158笔，创月度历史新高。",
-        "body": "随着上月KOSPI上涨行情正式展开，个人投资者的大额订单增至历史最高水平。韩国交易所10日表示，上月在KOSPI市场，个人单笔进行1亿韩元以上股票买卖的大额订单共119万3158笔。该数字为月度历史最高，超过了新冠疫情后流动性增加、交易活跃的2021年1月115万3301笔纪录，时隔5年3个月刷新高点。与今年3月的102万1744笔相比也增加16.78%。上月底KOSPI较3月底上涨25.04%。三星电子、SK海力士等半导体大型股第一季度业绩改善得到确认，市场被认为在经历美国与伊朗战争后的调整后，进一步强化了上涨势头。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Rally del KOSPI impulsa récord de órdenes minoristas sobre 100 millones de wones",
-        "excerpt": "Según Korea Exchange, los inversores minoristas realizaron el mes pasado 1.193.158 órdenes en el KOSPI por al menos 100 millones de wones, un récord mensual.",
-        "body": "Las órdenes de gran importe de los inversores minoristas en el KOSPI alcanzaron un máximo histórico el mes pasado, cuando el rally alcista del índice tomó fuerza. Según Korea Exchange el día 10, los particulares realizaron 1.193.158 órdenes de compraventa de acciones por al menos 100 millones de wones cada una. Es el mayor registro mensual y supera las 1.153.301 órdenes de enero de 2021, cuando la negociación fue activa tras la expansión de liquidez posterior al COVID-19. También aumentó un 16,78% frente a las 1.021.744 de marzo de este año. A finales del mes pasado, el KOSPI había subido un 25,04% respecto al cierre de marzo. El avance se atribuye a la confirmación de mejores resultados del primer trimestre en grandes tecnológicas de semiconductores como Samsung Electronics y SK hynix, tras la fase de corrección posterior a la guerra entre EE. UU. e Irán. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Rali do KOSPI leva ordens de varejo acima de 100 milhões de wons a recorde",
-        "excerpt": "Segundo a Korea Exchange, investidores individuais fizeram 1.193.158 ordens no KOSPI de ao menos 100 milhões de wons no mês passado, recorde mensal.",
-        "body": "As grandes ordens de investidores individuais no KOSPI atingiram um recorde histórico no mês passado, quando o rali de alta do índice ganhou força. Segundo a Korea Exchange no dia 10, pessoas físicas fizeram 1.193.158 ordens de compra e venda de ações de pelo menos 100 milhões de wons cada no KOSPI. Foi o maior total mensal já registrado, superando as 1.153.301 ordens de janeiro de 2021, período de negociações intensas após a expansão de liquidez no pós-COVID-19. O número também subiu 16,78% ante 1.021.744 em março deste ano. No fim do mês passado, o KOSPI avançava 25,04% em relação ao fim de março. O movimento é atribuído à confirmação de melhora nos resultados do primeiro trimestre de grandes empresas de semicondutores, como Samsung Electronics e SK hynix, após a fase de correção ligada à guerra entre EUA e Irã. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "KOSPI-Rally treibt Privataufträge über 100 Mio. Won auf Rekordhoch",
-        "excerpt": "Laut Korea Exchange platzierten Privatanleger im vergangenen Monat 1.193.158 KOSPI-Aufträge ab 100 Millionen Won und erreichten damit einen Monatsrekord.",
-        "body": "Die großvolumigen KOSPI-Aufträge von Privatanlegern erreichten im vergangenen Monat ein Rekordniveau, als die Aufwärtsrally des Index an Fahrt gewann. Nach Angaben der Korea Exchange vom 10. wurden im KOSPI 1.193.158 Einzelaufträge von Privatanlegern über mindestens 100 Millionen Won gezählt. Das ist der höchste Monatswert aller Zeiten und übertrifft die 1.153.301 Aufträge vom Januar 2021, als der Handel nach der Liquiditätsausweitung infolge von COVID-19 besonders aktiv war. Gegenüber 1.021.744 Aufträgen im März dieses Jahres stieg die Zahl um 16,78%. Ende vergangenen Monats lag der KOSPI 25,04% über dem Stand von Ende März. Als Grund gilt die bestätigte Verbesserung der Ergebnisse im ersten Quartal bei großen Halbleiterwerten wie Samsung Electronics und SK hynix, nachdem der Markt die Korrekturphase nach dem Krieg zwischen den USA und Iran hinter sich ließ. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Le rally du KOSPI porte les ordres particuliers de plus de 100 millions de wons à un record",
-        "excerpt": "Selon Korea Exchange, les particuliers ont passé le mois dernier 1 193 158 ordres sur le KOSPI d’au moins 100 millions de wons, un record mensuel.",
-        "body": "Les ordres de gros montant des investisseurs particuliers sur le KOSPI ont atteint un record le mois dernier, alors que le rally haussier de l’indice s’est accéléré. Selon Korea Exchange le 10, les particuliers ont passé 1 193 158 ordres d’achat ou de vente d’actions d’au moins 100 millions de wons chacun sur le KOSPI. Il s’agit du plus haut niveau mensuel jamais enregistré, au-dessus des 1 153 301 ordres de janvier 2021, période de forte activité après l’expansion de la liquidité liée au COVID-19. Le total progresse aussi de 16,78% par rapport aux 1 021 744 ordres de mars cette année. Fin du mois dernier, le KOSPI affichait une hausse de 25,04% par rapport à fin mars. Cette progression est attribuée à la confirmation d’une amélioration des résultats du premier trimestre chez les grandes valeurs des semi-conducteurs, comme Samsung Electronics et SK hynix, après la phase de correction suivant la guerre entre les États-Unis et l’Iran. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "صعود كوسبي يدفع أوامر الأفراد فوق 100 مليون وون إلى مستوى قياسي",
-        "excerpt": "أفادت بورصة كوريا بأن المستثمرين الأفراد نفذوا الشهر الماضي 1,193,158 أمرا في كوسبي بقيمة لا تقل عن 100 مليون وون، وهو رقم شهري قياسي.",
-        "body": "ارتفعت الأوامر الكبيرة للمستثمرين الأفراد في مؤشر كوسبي إلى مستوى قياسي الشهر الماضي مع تسارع موجة الصعود. وذكرت بورصة كوريا في العاشر من الشهر أن الأفراد نفذوا في كوسبي 1,193,158 أمر بيع وشراء للأسهم بقيمة لا تقل عن 100 مليون وون لكل أمر. وهذا أعلى مستوى شهري مسجل، متجاوزا رقم يناير 2021 البالغ 1,153,301 أمر حين كان التداول نشطا بعد توسع السيولة عقب كوفيد-19. كما زاد العدد 16.78% مقارنة بـ1,021,744 أمرا في مارس من هذا العام. وفي نهاية الشهر الماضي ارتفع كوسبي 25.04% مقارنة بنهاية مارس. ويعزى ذلك إلى تأكد تحسن أرباح الربع الأول لدى أسهم أشباه الموصلات الكبرى مثل سامسونغ إلكترونيكس وSK hynix، بعد مرحلة تصحيح أعقبت الحرب بين الولايات المتحدة وإيران. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "KOSPI रैली से 10 करोड़ वॉन से अधिक के खुदरा ऑर्डर रिकॉर्ड स्तर पर",
-        "excerpt": "कोरिया एक्सचेंज के अनुसार, पिछले महीने KOSPI में व्यक्तिगत निवेशकों के 10 करोड़ वॉन या उससे अधिक के बड़े ऑर्डर 11,93,158 रहे, जो मासिक रिकॉर्ड है।",
-        "body": "पिछले महीने KOSPI में तेजी की रैली तेज होने के साथ व्यक्तिगत निवेशकों के बड़े ऑर्डर रिकॉर्ड स्तर पर पहुंच गए। कोरिया एक्सचेंज ने 10 तारीख को बताया कि KOSPI में व्यक्तियों द्वारा एक बार में कम से कम 10 करोड़ वॉन के शेयर खरीद-बिक्री ऑर्डर 11,93,158 रहे। यह मासिक आधार पर अब तक का सबसे बड़ा आंकड़ा है और जनवरी 2021 के 11,53,301 ऑर्डर को पार कर गया, जब COVID-19 के बाद तरलता बढ़ने से कारोबार सक्रिय था। यह संख्या इस साल मार्च के 10,21,744 ऑर्डर से 16.78% अधिक रही। पिछले महीने के अंत तक KOSPI मार्च अंत की तुलना में 25.04% ऊपर था। Samsung Electronics और SK hynix जैसी बड़ी सेमीकंडक्टर कंपनियों के पहली तिमाही के बेहतर नतीजे सामने आने के बाद, अमेरिका-ईरान युद्ध के बाद की सुधार अवस्था से बाजार के उबरने को इसका कारण माना गया। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Reli KOSPI Dorong Pesanan Ritel di Atas 100 Juta Won ke Rekor Baru",
-        "excerpt": "Menurut Korea Exchange, investor individu mencatat 1.193.158 pesanan KOSPI senilai minimal 100 juta won bulan lalu, rekor tertinggi secara bulanan.",
-        "body": "Pesanan besar investor individu di KOSPI mencapai rekor tertinggi bulan lalu ketika reli kenaikan indeks mulai menguat. Menurut Korea Exchange pada tanggal 10, individu melakukan 1.193.158 pesanan jual beli saham di KOSPI dengan nilai minimal 100 juta won per transaksi. Jumlah itu menjadi rekor bulanan tertinggi, melampaui 1.153.301 pesanan pada Januari 2021 ketika perdagangan aktif setelah likuiditas meningkat pasca-COVID-19. Angka tersebut juga naik 16,78% dari 1.021.744 pesanan pada Maret tahun ini. Pada akhir bulan lalu, KOSPI naik 25,04% dibanding akhir Maret. Kenaikan ini dinilai terkait dengan konfirmasi perbaikan kinerja kuartal pertama saham semikonduktor besar seperti Samsung Electronics dan SK hynix, setelah pasar melewati fase koreksi akibat perang AS-Iran. Sumber: rss.donga.com"
       }
     }
   }
