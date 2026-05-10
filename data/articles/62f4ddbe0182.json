@@ -1,0 +1,75 @@
+{
+  "id": "62f4ddbe0182",
+  "slug": "중기부-ai오픈데이터-챌린지공공데이터-활용-솔루션-발굴-533592",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-10T21:10:32.324Z",
+  "updatedAt": "2026-05-10T21:10:32.324Z",
+  "sourceName": "yna.co.kr",
+  "sourceUrl": "https://www.yna.co.kr/view/AKR20260509021000030",
+  "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509021000030",
+  "titleFingerprint": "11e24afc9c5e1be7ae3d8ef9cd742708d69bded1",
+  "dedupKeys": [
+    "62f4ddbe01829505000076e2280b349889d1b2fc",
+    "11e24afc9c5e1be7ae3d8ef9cd742708d69bded1",
+    "d0ac7eccc9f587ff0836f6f0e1068b368fad10ab"
+  ],
+  "imageUrl": "/images/articles/62f4ddbe0182.jpg",
+  "i18n": {
+    "ko": {
+      "title": "오픈데이터XAI 챌린지 개막…중기부, 공공데이터 AI 솔루션 찾는다",
+      "excerpt": "중소벤처기업부가 12일 서울 코엑스에서 오픈데이터 X AI 챌린지 개막식을 열고 공공기관 현장 데이터를 활용한 국민 생활형 AI 솔루션 발굴에 나섰다.",
+      "body": "중소벤처기업부는 12일 서울 코엑스에서 ‘오픈데이터 X 인공지능(AI) 챌린지’ 개막식을 열었다. 이번 챌린지는 공공기관이 실제 사용하는 현장 데이터를 AI 스타트업에 공개해 국민 생활에 도움이 되는 AI 솔루션을 발굴하기 위한 행사다. 개막식에는 본선에 진출한 AI 스타트업 15개가 참여했다. 중기부는 이후 중소기업·소상공인 체험평가를 통해 최종 수상기업 6개를 선정할 예정이다. 공공데이터와 스타트업 기술을 연결해 실증 가능한 AI 모델을 찾는 데 초점이 맞춰졌다. 출처: yna.co.kr"
+    },
+    "en": {
+      "title": "OpenData X AI Challenge Opens as MSS Seeks Public-Data AI Solutions",
+      "excerpt": "South Korea’s Ministry of SMEs and Startups opened the OpenData X AI Challenge at COEX in Seoul on the 12th to find AI solutions using public-agency field data.",
+      "body": "The Ministry of SMEs and Startups opened the ‘OpenData X Artificial Intelligence (AI) Challenge’ at COEX in Seoul on the 12th. The challenge is designed to disclose field data actually used by public agencies to AI startups and identify AI solutions that can help people’s daily lives. Fifteen AI startups that advanced to the finals took part in the opening event. The ministry plans to select six final winners through experience evaluations by SMEs and small merchants. The program focuses on linking public data with startup technology to discover AI models that can be tested in practice. Source: yna.co.kr"
+    },
+    "ja": {
+      "title": "オープンデータXAIチャレンジ開幕、中企部が公共データAI解決策を発掘",
+      "excerpt": "中小ベンチャー企業部は12日、ソウルCOEXでオープンデータXAIチャレンジの開幕式を開き、公共機関の現場データを使うAI解決策の発掘に乗り出した。",
+      "body": "中小ベンチャー企業部は12日、ソウルCOEXで「オープンデータX人工知能（AI）チャレンジ」の開幕式を開いた。このチャレンジは、公共機関が実際に使う現場データをAIスタートアップに公開し、国民生活に役立つAIソリューションを見つけるためのものだ。開幕式には本選に進んだAIスタートアップ15社が参加した。中企部は今後、中小企業と小商工人による体験評価を通じて最終受賞企業6社を選ぶ予定だ。公共データとスタートアップ技術を結び、実証可能なAIモデルを探る点に焦点が置かれている。出典: yna.co.kr"
+    },
+    "zh": {
+      "title": "OpenData X AI挑战赛开幕，中小企业部发掘公共数据AI方案",
+      "excerpt": "韩国中小风险企业部12日在首尔COEX举行OpenData X AI挑战赛开幕式，推动利用公共机构现场数据发掘服务民生的AI解决方案。",
+      "body": "韩国中小风险企业部12日在首尔COEX举行“OpenData X 人工智能（AI）挑战赛”开幕式。该挑战赛旨在向AI初创企业开放公共机构实际使用的现场数据，发掘有助于国民生活的AI解决方案。进入决赛的15家AI初创企业参加了开幕式。中小企业部计划随后通过中小企业和小商工人的体验评价，最终选出6家获奖企业。该项目重点在于连接公共数据与初创企业技术，寻找可实证应用的AI模型。来源: yna.co.kr"
+    },
+    "es": {
+      "title": "OpenData X AI Challenge inicia y busca soluciones de IA con datos públicos",
+      "excerpt": "El Ministerio de Pymes y Startups de Corea abrió el día 12 en COEX de Seúl el OpenData X AI Challenge para hallar soluciones de IA basadas en datos de organismos públicos.",
+      "body": "El Ministerio de Pymes y Startups celebró el día 12 en COEX, Seúl, la apertura del ‘OpenData X Artificial Intelligence (AI) Challenge’. El certamen busca abrir a startups de IA datos de campo que usan realmente los organismos públicos e identificar soluciones de IA útiles para la vida diaria de la ciudadanía. En la apertura participaron 15 startups de IA que llegaron a la fase final. El ministerio prevé elegir seis ganadoras finales mediante evaluaciones de experiencia realizadas por pymes y pequeños comerciantes. El foco está en conectar datos públicos con tecnología startup para encontrar modelos de IA verificables. Fuente: yna.co.kr"
+    },
+    "pt": {
+      "title": "OpenData X AI Challenge começa com busca por soluções de IA em dados públicos",
+      "excerpt": "O Ministério das PMEs e Startups da Coreia abriu no dia 12, no COEX em Seul, o OpenData X AI Challenge para encontrar soluções de IA usando dados de campo públicos.",
+      "body": "O Ministério das PMEs e Startups realizou no dia 12, no COEX em Seul, a cerimônia de abertura do ‘OpenData X Artificial Intelligence (AI) Challenge’. A iniciativa pretende disponibilizar a startups de IA dados de campo usados por órgãos públicos e encontrar soluções de IA que ajudem a vida cotidiana da população. Quinze startups de IA classificadas para a fase final participaram da abertura. O ministério planeja selecionar seis vencedoras finais por meio de avaliações de experiência feitas por PMEs e pequenos comerciantes. O programa foca em conectar dados públicos e tecnologia de startups para descobrir modelos de IA passíveis de teste. Fonte: yna.co.kr"
+    },
+    "de": {
+      "title": "OpenData X AI Challenge startet: Ministerium sucht KI-Lösungen mit öffentlichen Daten",
+      "excerpt": "Das südkoreanische Ministerium für KMU und Startups eröffnete am 12. im COEX in Seoul die OpenData X AI Challenge zur Suche nach KI-Lösungen mit Felddaten öffentlicher Stellen.",
+      "body": "Das Ministerium für KMU und Startups eröffnete am 12. im COEX in Seoul die ‘OpenData X Artificial Intelligence (AI) Challenge’. Der Wettbewerb soll Felddaten, die öffentliche Institutionen tatsächlich nutzen, für KI-Startups zugänglich machen und KI-Lösungen finden, die dem Alltag der Bürger helfen. An der Eröffnung nahmen 15 KI-Startups teil, die die Finalrunde erreicht haben. Das Ministerium will anschließend über Nutzungstests durch kleine und mittlere Unternehmen sowie Kleingewerbetreibende sechs endgültige Gewinner auswählen. Im Mittelpunkt steht die Verbindung öffentlicher Daten mit Startup-Technologie, um praktisch überprüfbare KI-Modelle zu finden. Quelle: yna.co.kr"
+    },
+    "fr": {
+      "title": "OpenData X AI Challenge lancé pour trouver des solutions IA avec des données publiques",
+      "excerpt": "Le ministère sud-coréen des PME et des Startups a ouvert le 12 au COEX de Séoul l’OpenData X AI Challenge afin d’identifier des solutions IA fondées sur des données publiques.",
+      "body": "Le ministère des PME et des Startups a organisé le 12, au COEX de Séoul, la cérémonie d’ouverture de l’‘OpenData X Artificial Intelligence (AI) Challenge’. Ce concours vise à ouvrir aux startups d’IA des données de terrain réellement utilisées par des organismes publics et à identifier des solutions d’IA utiles à la vie quotidienne. Quinze startups d’IA qualifiées pour la finale ont participé à l’événement. Le ministère prévoit de sélectionner six lauréats finaux au moyen d’évaluations d’expérience menées par des PME et de petits commerçants. L’objectif est de relier données publiques et technologies de startups pour trouver des modèles d’IA testables. Source: yna.co.kr"
+    },
+    "ar": {
+      "title": "انطلاق تحدي OpenData X AI للبحث عن حلول ذكاء اصطناعي ببيانات عامة",
+      "excerpt": "افتتحت وزارة الشركات الصغيرة والمتوسطة والناشئة الكورية في 12 من الشهر تحدي OpenData X AI في مركز كويكس بسيول لاكتشاف حلول ذكاء اصطناعي تعتمد على بيانات مؤسسات عامة.",
+      "body": "افتتحت وزارة الشركات الصغيرة والمتوسطة والناشئة في 12 من الشهر، في مركز كويكس بسيول، فعالية ‘OpenData X Artificial Intelligence (AI) Challenge’. ويهدف التحدي إلى إتاحة البيانات الميدانية التي تستخدمها المؤسسات العامة فعليا أمام شركات الذكاء الاصطناعي الناشئة، لاكتشاف حلول تساعد في حياة المواطنين. وشاركت في الافتتاح 15 شركة ناشئة في مجال الذكاء الاصطناعي وصلت إلى المرحلة النهائية. وتعتزم الوزارة اختيار 6 شركات فائزة نهائيا عبر تقييمات تجربة تجريها الشركات الصغيرة والمتوسطة وصغار التجار. ويركز البرنامج على ربط البيانات العامة بتقنيات الشركات الناشئة لإيجاد نماذج ذكاء اصطناعي قابلة للتجربة. المصدر: yna.co.kr"
+    },
+    "hi": {
+      "title": "OpenData X AI Challenge शुरू, सार्वजनिक डेटा से AI समाधान खोजेगा मंत्रालय",
+      "excerpt": "दक्षिण कोरिया के SMEs और Startups मंत्रालय ने 12 तारीख को सियोल के COEX में OpenData X AI Challenge शुरू किया, ताकि सार्वजनिक संस्थानों के फील्ड डेटा से उपयोगी AI समाधान खोजे जा सकें।",
+      "body": "SMEs और Startups मंत्रालय ने 12 तारीख को सियोल के COEX में ‘OpenData X Artificial Intelligence (AI) Challenge’ का उद्घाटन किया। यह चुनौती सार्वजनिक संस्थानों द्वारा वास्तव में उपयोग किए जाने वाले फील्ड डेटा को AI स्टार्टअप्स के लिए खोलकर नागरिक जीवन में मदद करने वाले AI समाधान खोजने के लिए बनाई गई है। उद्घाटन में फाइनल में पहुंचे 15 AI स्टार्टअप्स ने भाग लिया। मंत्रालय आगे SMEs और छोटे व्यापारियों के अनुभव मूल्यांकन के जरिए अंतिम 6 विजेता कंपनियों का चयन करेगा। कार्यक्रम का केंद्र सार्वजनिक डेटा और स्टार्टअप तकनीक को जोड़कर ऐसे AI मॉडल खोजना है जिन्हें व्यवहार में परखा जा सके। स्रोत: yna.co.kr"
+    },
+    "id": {
+      "title": "OpenData X AI Challenge Dibuka, MSS Cari Solusi AI dari Data Publik",
+      "excerpt": "Kementerian UKM dan Startup Korea membuka OpenData X AI Challenge pada tanggal 12 di COEX Seoul untuk mencari solusi AI berbasis data lapangan lembaga publik.",
+      "body": "Kementerian UKM dan Startup membuka ‘OpenData X Artificial Intelligence (AI) Challenge’ pada tanggal 12 di COEX, Seoul. Ajang ini bertujuan membuka data lapangan yang benar-benar digunakan lembaga publik kepada startup AI dan menemukan solusi AI yang bermanfaat bagi kehidupan masyarakat. Sebanyak 15 startup AI yang lolos ke babak final ikut hadir dalam pembukaan. Kementerian berencana memilih enam pemenang akhir melalui evaluasi pengalaman oleh UKM dan pedagang kecil. Program ini berfokus pada penghubungan data publik dengan teknologi startup untuk menemukan model AI yang dapat diuji secara nyata. Sumber: yna.co.kr"
+    }
+  }
+}
