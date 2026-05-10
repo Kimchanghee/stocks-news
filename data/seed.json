@@ -1,5 +1,230 @@
 [
   {
+    "id": "9500fc467461",
+    "slug": "ai붐에-반도체-공장-풀가동-레거시-파운드리까지-들썩-467714",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T10:51:22.126Z",
+    "updatedAt": "2026-05-10T10:51:22.126Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042679",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042679",
+    "titleFingerprint": "8cb353f23095995c92bf9a9de9e35e7de906aa41",
+    "dedupKeys": [
+      "9500fc467461ef20147233e2b4bff3e348c818ce",
+      "8cb353f23095995c92bf9a9de9e35e7de906aa41",
+      "5ef4cb7086dd952403c8f5d894b930131c6c7ed4"
+    ],
+    "imageUrl": "/images/articles/9500fc467461.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 반도체 수요, 레거시 파운드리까지 확산…공장 가동률 주목",
+        "excerpt": "AI 데이터센터 투자가 늘며 반도체 수요가 확대되고, 그 흐름이 TSMC·삼성전자 중심의 최첨단 공정을 넘어 글로벌 레거시 파운드리 시장으로 번지고 있다.",
+        "body": "AI 데이터센터 투자 확대가 반도체 수요를 끌어올리면서 글로벌 레거시 파운드리 시장에도 변화가 나타나고 있다. mk.co.kr에 따르면 그동안 AI 붐의 직접 수혜는 TSMC와 삼성전자처럼 최첨단 공정을 보유한 기업에 집중됐지만, 관련 수요가 구형 공정 기반 파운드리까지 확산되는 흐름이 감지된다. 레거시 파운드리는 최신 AI 칩 생산의 중심은 아니지만, 데이터센터 투자 확대가 반도체 전반의 수요를 자극하면서 시장 관심이 커지고 있다. 이에 따라 AI 투자 사이클이 첨단 공정뿐 아니라 기존 파운드리 생태계에도 영향을 줄지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Chip Demand Spreads to Legacy Foundries as Data Center Investment Grows",
+        "excerpt": "Rising AI data center investment is lifting semiconductor demand, extending momentum beyond advanced foundries such as TSMC and Samsung Electronics into the global legacy foundry market.",
+        "body": "Growing investment in AI data centers is increasing semiconductor demand and bringing fresh attention to the global legacy foundry market. According to mk.co.kr, the direct beneficiaries of the AI boom had largely been companies with advanced process technology, including TSMC and Samsung Electronics. Now, however, related demand is showing signs of spreading to foundries based on older process nodes. Legacy foundries are not the core producers of the most advanced AI chips, but broader semiconductor demand linked to data center expansion is drawing market interest. Investors and industry watchers are now focused on whether the AI investment cycle will affect not only leading-edge processes but also the wider existing foundry ecosystem. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI半導体需要、レガシーファウンドリーにも波及…工場稼働に注目",
+        "excerpt": "AIデータセンター投資の拡大で半導体需要が増え、TSMCやサムスン電子など最先端工程中心だった恩恵が世界のレガシーファウンドリー市場にも広がっている。",
+        "body": "AIデータセンター投資の拡大が半導体需要を押し上げ、世界のレガシーファウンドリー市場にも変化が表れている。mk.co.krによると、これまでAIブームの直接的な恩恵はTSMCやサムスン電子のように最先端工程を持つ企業に集中していた。しかし関連需要は、旧世代工程を基盤とするファウンドリーにも広がる兆しを見せている。レガシーファウンドリーは最新AIチップ生産の中心ではないが、データセンター投資の拡大が半導体全般の需要を刺激し、市場の関心が高まっている。AI投資サイクルが先端工程だけでなく既存のファウンドリー生態系にも影響するかが注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI芯片需求扩散至传统晶圆代工，数据中心投资带动市场升温",
+        "excerpt": "随着AI数据中心投资扩大，半导体需求上升，受益范围正从台积电和三星电子等先进制程企业延伸至全球传统晶圆代工市场。",
+        "body": "AI数据中心投资扩大正在推升半导体需求，全球传统晶圆代工市场也出现变化。据mk.co.kr报道，此前AI热潮的直接受益者主要集中在拥有先进制程的企业，如台积电和三星电子。但相关需求正显示出向基于较旧制程的晶圆代工厂扩散的迹象。传统晶圆代工并不是最先进AI芯片生产的核心，但数据中心投资增加带动了半导体整体需求，市场关注度随之上升。业界正在关注，AI投资周期是否会不仅影响先进制程，也会波及既有晶圆代工生态。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Demanda de chips por IA llega a fundiciones legacy ante más inversión en centros de datos",
+        "excerpt": "La inversión en centros de datos de IA está elevando la demanda de semiconductores y extendiendo el impulso desde TSMC y Samsung Electronics hacia el mercado global de fundiciones legacy.",
+        "body": "La expansión de la inversión en centros de datos de IA está impulsando la demanda de semiconductores y generando cambios en el mercado global de fundiciones legacy. Según mk.co.kr, hasta ahora los beneficiarios directos del auge de la IA se concentraban en empresas con procesos de vanguardia, como TSMC y Samsung Electronics. Sin embargo, la demanda vinculada empieza a mostrar señales de extenderse a fundiciones basadas en procesos más antiguos. Estas fundiciones no son el centro de la producción de los chips de IA más avanzados, pero el aumento de la inversión en centros de datos está estimulando la demanda general de semiconductores. El mercado observa si el ciclo de inversión en IA afectará también al ecosistema de fundición existente. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Demanda por chips de IA alcança foundries legadas com alta em data centers",
+        "excerpt": "O aumento do investimento em data centers de IA eleva a demanda por semicondutores e leva o impulso além de TSMC e Samsung Electronics, chegando ao mercado global de foundries legadas.",
+        "body": "A expansão dos investimentos em data centers de IA está elevando a demanda por semicondutores e trazendo mudanças ao mercado global de foundries legadas. Segundo o mk.co.kr, até agora os beneficiários diretos do boom de IA estavam concentrados em empresas com processos de ponta, como TSMC e Samsung Electronics. Agora, porém, a demanda relacionada mostra sinais de se espalhar para foundries baseadas em processos mais antigos. Essas empresas não estão no centro da produção dos chips de IA mais avançados, mas o avanço dos investimentos em data centers estimula a demanda geral por semicondutores. O mercado acompanha se o ciclo de investimento em IA também afetará o ecossistema já existente de foundries. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Chipnachfrage erreicht Legacy-Foundries durch mehr Rechenzentrumsinvestitionen",
+        "excerpt": "Steigende Investitionen in KI-Rechenzentren treiben die Halbleiternachfrage und weiten den Schub von TSMC und Samsung Electronics auf den globalen Markt für Legacy-Foundries aus.",
+        "body": "Der Ausbau von Investitionen in KI-Rechenzentren treibt die Nachfrage nach Halbleitern und sorgt auch im globalen Markt für Legacy-Foundries für Bewegung. Laut mk.co.kr konzentrierten sich die direkten Vorteile des KI-Booms bisher vor allem auf Unternehmen mit modernsten Fertigungsprozessen, darunter TSMC und Samsung Electronics. Nun zeigen sich jedoch Anzeichen, dass die damit verbundene Nachfrage auch auf Foundries mit älteren Prozessknoten übergreift. Legacy-Foundries stehen nicht im Zentrum der Produktion der modernsten KI-Chips, doch die höheren Rechenzentrumsinvestitionen stimulieren die allgemeine Halbleiternachfrage. Beobachter achten darauf, ob der KI-Investitionszyklus auch das bestehende Foundry-Ökosystem beeinflusst. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La demande de puces IA gagne les fonderies legacy avec l’essor des data centers",
+        "excerpt": "La hausse des investissements dans les data centers d’IA stimule la demande de semi-conducteurs et étend l’élan de TSMC et Samsung Electronics au marché mondial des fonderies legacy.",
+        "body": "L’augmentation des investissements dans les data centers d’IA soutient la demande de semi-conducteurs et provoque des évolutions sur le marché mondial des fonderies legacy. Selon mk.co.kr, les bénéficiaires directs du boom de l’IA étaient jusqu’ici surtout les entreprises dotées de procédés de pointe, comme TSMC et Samsung Electronics. Désormais, la demande liée montre des signes d’extension vers des fonderies fondées sur des procédés plus anciens. Ces acteurs ne sont pas au cœur de la production des puces IA les plus avancées, mais l’expansion des investissements dans les data centers stimule la demande globale de semi-conducteurs. Le marché observe si le cycle d’investissement IA touchera aussi l’écosystème existant des fonderies. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طلب رقائق الذكاء الاصطناعي يمتد إلى المسابك التقليدية مع توسع مراكز البيانات",
+        "excerpt": "مع زيادة الاستثمار في مراكز بيانات الذكاء الاصطناعي، يرتفع الطلب على أشباه الموصلات ويمتد الزخم من TSMC وسامسونغ إلكترونيكس إلى سوق المسابك التقليدية عالميا.",
+        "body": "تؤدي زيادة الاستثمار في مراكز بيانات الذكاء الاصطناعي إلى رفع الطلب على أشباه الموصلات، ما يلفت الانتباه إلى سوق المسابك التقليدية عالميا. وبحسب mk.co.kr، كانت الفوائد المباشرة لطفرة الذكاء الاصطناعي تتركز حتى الآن في الشركات المالكة للتقنيات الأحدث في التصنيع، مثل TSMC وسامسونغ إلكترونيكس. لكن الطلب المرتبط بهذا القطاع يظهر مؤشرات على الامتداد إلى مسابك تعتمد على عمليات تصنيع أقدم. ورغم أن هذه المسابك ليست مركز إنتاج رقائق الذكاء الاصطناعي الأكثر تقدما، فإن توسع الاستثمار في مراكز البيانات يحفز الطلب العام على أشباه الموصلات. لذلك يترقب السوق ما إذا كانت دورة الاستثمار في الذكاء الاصطناعي ستؤثر أيضا في منظومة المسابك القائمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI चिप मांग लेगेसी फाउंड्री तक फैली, डेटा सेंटर निवेश से बाजार में हलचल",
+        "excerpt": "AI डेटा सेंटर निवेश बढ़ने से सेमीकंडक्टर मांग तेज हो रही है और इसका असर TSMC व Samsung Electronics जैसी उन्नत प्रक्रिया कंपनियों से आगे वैश्विक लेगेसी फाउंड्री बाजार तक पहुंच रहा है।",
+        "body": "AI डेटा सेंटरों में बढ़ता निवेश सेमीकंडक्टर मांग को ऊपर ले जा रहा है और वैश्विक लेगेसी फाउंड्री बाजार में भी बदलाव दिखा रहा है। mk.co.kr के अनुसार, अब तक AI बूम का सीधा लाभ मुख्य रूप से TSMC और Samsung Electronics जैसी अत्याधुनिक प्रक्रिया क्षमता वाली कंपनियों को मिला था। लेकिन संबंधित मांग अब पुराने प्रोसेस नोड पर आधारित फाउंड्री तक फैलने के संकेत दे रही है। लेगेसी फाउंड्री सबसे उन्नत AI चिप उत्पादन का केंद्र नहीं हैं, फिर भी डेटा सेंटर निवेश का विस्तार पूरे सेमीकंडक्टर क्षेत्र की मांग को बढ़ा रहा है। बाजार अब देख रहा है कि AI निवेश चक्र उन्नत प्रक्रियाओं के साथ मौजूदा फाउंड्री पारिस्थितिकी तंत्र को भी कितना प्रभावित करेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Permintaan Chip AI Menjalar ke Foundry Legacy Saat Investasi Data Center Naik",
+        "excerpt": "Investasi data center AI yang meningkat mendorong permintaan semikonduktor dan memperluas dampaknya dari TSMC serta Samsung Electronics ke pasar foundry legacy global.",
+        "body": "Peningkatan investasi pada data center AI sedang mengangkat permintaan semikonduktor dan memicu perubahan di pasar foundry legacy global. Menurut mk.co.kr, manfaat langsung dari ledakan AI selama ini terutama terkonsentrasi pada perusahaan dengan proses manufaktur tercanggih, termasuk TSMC dan Samsung Electronics. Namun, permintaan terkait kini menunjukkan tanda-tanda merambat ke foundry berbasis proses yang lebih lama. Foundry legacy bukan pusat produksi chip AI paling maju, tetapi ekspansi investasi data center ikut mendorong permintaan semikonduktor secara umum. Pasar kini mencermati apakah siklus investasi AI juga akan memengaruhi ekosistem foundry yang sudah ada, bukan hanya proses tercanggih. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "1db12d39fe96",
+    "slug": "카카오그룹-군살빼기-삐걱-핵심매물-새-주인-찾기-난항-751585",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T10:50:22.936Z",
+    "updatedAt": "2026-05-10T10:50:22.936Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042680",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042680",
+    "titleFingerprint": "e6a966ed54e246ca7a3e49d4513b413cc592bf19",
+    "dedupKeys": [
+      "1db12d39fe961fa1b74ebc7632ffd553af319543",
+      "e6a966ed54e246ca7a3e49d4513b413cc592bf19",
+      "2dc7cd60c439297b541c9884da678bd14d2c2681"
+    ],
+    "imageUrl": "/images/articles/1db12d39fe96.jpg",
+    "i18n": {
+      "ko": {
+        "title": "카카오그룹 자산 정리 난항, 키이스트·SM C&C 매각 잇단 결렬",
+        "excerpt": "카카오그룹이 엔터테인먼트 계열 자산 정리에 나섰지만 핵심 매물인 SM엔터테인먼트 자회사 키이스트와 SM C&C 매각이 잇따라 결렬되며 속도를 내지 못하고 있다.",
+        "body": "카카오그룹의 엔터테인먼트 계열 자산 정리 작업이 핵심 매물 매각 차질로 속도를 내지 못하고 있다. 정리 대상 가운데 주목받던 곳은 SM엔터테인먼트의 코스닥 상장 자회사 키이스트와 SM C&C다. 그러나 두 회사 매각이 잇달아 결렬되면서 카카오그룹의 ‘군살빼기’ 작업은 난항을 겪는 모습이다. 이번 흐름은 그룹이 엔터테인먼트 계열 자산을 재편하려는 과정에서 새 주인 찾기가 쉽지 않다는 점을 보여준다. 향후 자산 정리 속도와 매각 재추진 여부가 관건으로 남았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kakao Group Asset Streamlining Stalls as Keyeast and SM C&C Sales Collapse",
+        "excerpt": "Kakao Group’s effort to streamline entertainment assets has slowed after sale talks for SM Entertainment’s Kosdaq-listed units Keyeast and SM C&C fell through.",
+        "body": "Kakao Group’s plan to streamline its entertainment-related assets is losing momentum as sales of key targets hit setbacks. The main assets drawing attention were Keyeast and SM C&C, Kosdaq-listed subsidiaries of SM Entertainment. However, the attempted sales of both companies have fallen through one after another, leaving Kakao Group’s restructuring effort facing difficulties. The developments show that finding new owners for entertainment affiliates is proving challenging. The future pace of the asset cleanup and whether sale efforts resume remain key issues. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "カカオグループ資産整理が難航、キーイーストとSM C&C売却が相次ぎ不成立",
+        "excerpt": "カカオグループはエンタメ系資産の整理を進めているが、SMエンタテインメント傘下のキーイーストとSM C&Cの売却が相次ぎ不成立となり停滞している。",
+        "body": "カカオグループのエンターテインメント系資産整理が、主要売却案件の不調で速度を上げられずにいる。注目されていた対象は、SMエンタテインメントのコスダック上場子会社であるキーイーストとSM C&Cだ。しかし両社の売却が相次いで不成立となり、カカオグループのスリム化作業は難航している。今回の流れは、グループがエンタメ系資産を再編する過程で新たな買い手を見つけることが容易ではないことを示している。今後の整理の速度と売却再推進の有無が焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Kakao集团资产瘦身受阻，Keyeast与SM C&C出售接连告吹",
+        "excerpt": "Kakao集团推进娱乐业务资产整理，但SM娱乐旗下科斯达克上市子公司Keyeast和SM C&C出售接连告吹，整体进展放缓。",
+        "body": "Kakao集团的娱乐业务资产整理因核心标的出售受挫而难以提速。备受关注的出售对象是SM娱乐旗下科斯达克上市子公司Keyeast和SM C&C。然而，两家公司出售接连告吹，使Kakao集团的“瘦身”工作陷入困难。这一进展显示，集团在重组娱乐相关资产的过程中，为核心资产寻找新主人并不容易。未来资产整理的推进速度以及是否重新推动出售，将成为后续关注重点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kakao Group frena su ajuste de activos tras fallar ventas de Keyeast y SM C&C",
+        "excerpt": "Kakao Group intenta reorganizar sus activos de entretenimiento, pero las ventas de Keyeast y SM C&C, filiales cotizadas de SM Entertainment, se han frustrado y el proceso se ralentiza.",
+        "body": "El plan de Kakao Group para ordenar sus activos vinculados al entretenimiento no logra ganar velocidad por tropiezos en la venta de activos clave. Los principales objetivos eran Keyeast y SM C&C, filiales de SM Entertainment que cotizan en el Kosdaq. Sin embargo, las ventas de ambas compañías se frustraron de forma consecutiva, dejando en dificultades el proceso de ajuste del grupo. La situación muestra que encontrar nuevos dueños para estos activos de entretenimiento no está siendo sencillo. La velocidad futura de la reorganización y una posible reanudación de las ventas quedan como asuntos centrales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kakao Group vê enxugamento travar após fracasso nas vendas de Keyeast e SM C&C",
+        "excerpt": "O Kakao Group tenta reorganizar ativos de entretenimento, mas as vendas da Keyeast e da SM C&C, subsidiárias listadas da SM Entertainment, fracassaram e o processo perdeu ritmo.",
+        "body": "O processo do Kakao Group para enxugar ativos ligados ao entretenimento perdeu força após dificuldades na venda de ativos centrais. Os principais alvos eram Keyeast e SM C&C, subsidiárias da SM Entertainment listadas na Kosdaq. No entanto, as vendas das duas empresas fracassaram em sequência, deixando a reestruturação do grupo em situação difícil. O caso mostra que encontrar novos donos para ativos de entretenimento não tem sido simples. A velocidade da reorganização e a eventual retomada das tentativas de venda seguem como pontos de atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kakao Group kommt bei Asset-Verkäufen nicht voran: Keyeast und SM C&C scheitern",
+        "excerpt": "Kakao Group will Entertainment-Beteiligungen bereinigen, doch die Verkäufe der SM-Entertainment-Töchter Keyeast und SM C&C sind nacheinander geplatzt und bremsen den Prozess.",
+        "body": "Kakao Group kommt bei der Bereinigung seiner Entertainment-bezogenen Vermögenswerte nur schleppend voran, weil zentrale Verkaufsobjekte ins Stocken geraten sind. Im Mittelpunkt standen Keyeast und SM C&C, an der Kosdaq gelistete Tochtergesellschaften von SM Entertainment. Die geplanten Verkäufe beider Unternehmen sind jedoch nacheinander gescheitert, wodurch der Verschlankungsprozess des Konzerns schwieriger wird. Die Entwicklung zeigt, dass es nicht einfach ist, neue Eigentümer für diese Entertainment-Assets zu finden. Entscheidend bleiben nun das Tempo der weiteren Bereinigung und ob Verkaufsbemühungen wieder aufgenommen werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kakao Group peine à céder ses actifs après les échecs Keyeast et SM C&C",
+        "excerpt": "Kakao Group veut rationaliser ses actifs de divertissement, mais les ventes de Keyeast et SM C&C, filiales cotées de SM Entertainment, ont échoué coup sur coup.",
+        "body": "Le travail de rationalisation des actifs de divertissement de Kakao Group ralentit en raison de difficultés sur des cessions clés. Les actifs les plus suivis étaient Keyeast et SM C&C, filiales de SM Entertainment cotées au Kosdaq. Mais les ventes des deux sociétés ont échoué successivement, compliquant l’effort d’allègement du groupe. Cette situation montre que trouver de nouveaux propriétaires pour ces actifs de divertissement n’est pas simple. Le rythme futur de la réorganisation et une éventuelle relance des ventes restent les principaux points à surveiller. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تعثر تقليص أصول كاكاو بعد فشل بيع Keyeast وSM C&C تباعا",
+        "excerpt": "تسعى مجموعة كاكاو إلى ترتيب أصولها الترفيهية، لكن بيع شركتي Keyeast وSM C&C التابعتين لـSM Entertainment والمدرجتين في كوسداك تعثر، ما أبطأ العملية.",
+        "body": "تواجه مجموعة كاكاو تباطؤا في عملية ترتيب أصولها المرتبطة بقطاع الترفيه بسبب تعثر بيع أصول رئيسية. وكانت أبرز الأصول المطروحة هي Keyeast وSM C&C، وهما شركتان تابعتان لـSM Entertainment ومدرجتان في سوق كوسداك. لكن محاولات بيع الشركتين فشلت تباعا، ما جعل مسار تقليص أصول المجموعة يواجه صعوبات. ويظهر هذا التطور أن العثور على مالكين جدد للأصول الترفيهية ليس أمرا سهلا. ويبقى إيقاع ترتيب الأصول لاحقا وإمكان إعادة طرح البيع من أبرز النقاط المنتظرة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Kakao Group की संपत्ति छंटाई अटकी, Keyeast और SM C&C बिक्री विफल",
+        "excerpt": "Kakao Group मनोरंजन इकाइयों की संपत्तियां व्यवस्थित कर रहा है, लेकिन SM Entertainment की Kosdaq-सूचीबद्ध सहायक Keyeast और SM C&C की बिक्री विफल होने से प्रक्रिया धीमी पड़ी है।",
+        "body": "Kakao Group की मनोरंजन से जुड़ी संपत्तियों को व्यवस्थित करने की प्रक्रिया प्रमुख बिक्री सौदों में रुकावट के कारण गति नहीं पकड़ पा रही है। ध्यान का केंद्र SM Entertainment की Kosdaq-सूचीबद्ध सहायक कंपनियां Keyeast और SM C&C थीं। हालांकि, दोनों कंपनियों की बिक्री लगातार विफल रही, जिससे समूह की छंटाई योजना मुश्किल में दिख रही है। यह घटनाक्रम बताता है कि मनोरंजन संपत्तियों के लिए नए मालिक तलाशना आसान नहीं है। आगे संपत्ति पुनर्गठन की गति और बिक्री प्रक्रिया फिर शुरू होगी या नहीं, यही मुख्य मुद्दे रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Perampingan Aset Kakao Group Tersendat, Penjualan Keyeast dan SM C&C Gagal",
+        "excerpt": "Kakao Group berupaya merapikan aset hiburan, tetapi penjualan Keyeast dan SM C&C, anak usaha SM Entertainment yang tercatat di Kosdaq, gagal beruntun sehingga proses melambat.",
+        "body": "Upaya Kakao Group merapikan aset di sektor hiburan belum bergerak cepat karena penjualan aset utama mengalami hambatan. Aset yang paling disorot adalah Keyeast dan SM C&C, anak usaha SM Entertainment yang tercatat di Kosdaq. Namun, penjualan kedua perusahaan itu gagal secara beruntun, membuat proses perampingan Kakao Group menghadapi kesulitan. Perkembangan ini menunjukkan bahwa mencari pemilik baru untuk aset hiburan tidak mudah. Kecepatan penataan aset ke depan dan kemungkinan penjualan kembali menjadi isu utama yang tersisa. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "adaa0de69455",
+    "slug": "ai가-불붙인-우주-인프라-전쟁-스페이스x보다-소재부품기업-주목-193638",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T10:49:32.621Z",
+    "updatedAt": "2026-05-10T10:49:32.621Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042713",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042713",
+    "titleFingerprint": "11fa11a266e870298bed4eddb9f858bbfd920ec7",
+    "dedupKeys": [
+      "adaa0de694552dd9b8abd77f27e28022a7346feb",
+      "11fa11a266e870298bed4eddb9f858bbfd920ec7",
+      "6fe5a9d94c5c2635d9b12697bf02da4df86c0b7d"
+    ],
+    "imageUrl": "/images/articles/adaa0de69455.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 우주 인프라 경쟁 격화, 스페이스X보다 소재·부품 기업 주목",
+        "excerpt": "AI 확산과 로봇 공장 증가로 생산성이 높아지는 가운데, 우주 인프라 경쟁에서 스페이스X보다 소재·부품 기업에 관심이 쏠리고 있다.",
+        "body": "인공지능(AI)이 태동하고 이를 기반으로 작동하는 로봇 세상이 열리면서 우주 인프라 경쟁의 초점도 달라지고 있다. 로봇들만 일하는 공장이 늘어나는 이유는 탁월한 생산성 때문이다. 원문은 미생물을 키우는 공장 사례를 언급하며, AI와 자동화가 산업 현장 전반의 효율을 높이고 있다고 설명했다. 이런 흐름 속에서 우주 산업을 바라볼 때 스페이스X 같은 대표 기업만 보기보다, 인프라를 떠받치는 소재·부품 기업에도 주목할 필요가 있다는 관점이 제시됐다. AI가 촉발한 로봇 생산 체계와 우주 인프라 확대가 맞물리며 관련 공급망의 중요성이 커지고 있다는 분석이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Space Infrastructure Race Intensifies, Materials and Parts Firms Draw Focus",
+        "excerpt": "As AI spreads and robot-only factories increase productivity, attention in the space infrastructure race is shifting from SpaceX to materials and parts companies.",
+        "body": "As artificial intelligence (AI) emerges and a robot-driven world opens, the focus of competition in space infrastructure is also changing. Factories operated only by robots are increasing because their productivity is outstanding. The original report cited an example of a factory that cultivates microorganisms and explained that AI and automation are improving efficiency across industrial sites. In this context, the article presented the view that investors and industry watchers should look beyond flagship companies such as SpaceX and pay attention to materials and parts firms that support infrastructure. The analysis says the importance of related supply chains is growing as AI-driven robotic production systems and the expansion of space infrastructure converge. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AI宇宙インフラ競争が激化、スペースXより素材・部品企業に注目",
+        "excerpt": "AIの広がりとロボット工場の増加で生産性が高まる中、宇宙インフラ競争ではスペースXより素材・部品企業に関心が集まっている。",
+        "body": "人工知能（AI）が台頭し、それを基盤に動くロボットの世界が開かれる中、宇宙インフラ競争の焦点も変化している。ロボットだけが働く工場が増えているのは、優れた生産性が理由だ。原文は微生物を育てる工場の事例に触れ、AIと自動化が産業現場全体の効率を高めていると説明した。こうした流れの中で宇宙産業を見る際、スペースXのような代表企業だけでなく、インフラを支える素材・部品企業にも注目する必要があるとの見方が示された。AIが促すロボット生産体制と宇宙インフラ拡大が重なり、関連サプライチェーンの重要性が高まっているという分析だ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI点燃太空基础设施竞争，材料与零部件企业受关注",
+        "excerpt": "随着AI扩散和机器人无人工厂提升生产率，太空基础设施竞争中，市场关注点正从SpaceX转向材料与零部件企业。",
+        "body": "随着人工智能（AI）兴起，并开启以其为基础运行的机器人世界，太空基础设施竞争的焦点也在发生变化。只由机器人工作的工厂不断增加，原因在于其生产率出色。原文提到培养微生物的工厂案例，并说明AI与自动化正在提高整个产业现场的效率。在这一趋势下，观察太空产业时，文章提出不应只关注SpaceX等代表性企业，也需要关注支撑基础设施的材料与零部件企业。分析认为，AI引发的机器人生产体系与太空基础设施扩张相结合，正在提升相关供应链的重要性。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La carrera de infraestructura espacial impulsada por IA enfoca materiales y piezas",
+        "excerpt": "Con la expansión de la IA y más fábricas robotizadas que elevan la productividad, crece el interés por firmas de materiales y piezas más allá de SpaceX.",
+        "body": "A medida que surge la inteligencia artificial (IA) y se abre un mundo operado por robots basados en ella, también cambia el foco de la competencia en infraestructura espacial. Aumentan las fábricas en las que solo trabajan robots por su productividad sobresaliente. El texto original menciona el caso de una fábrica que cultiva microorganismos y explica que la IA y la automatización elevan la eficiencia en los entornos industriales. En este contexto, el artículo plantea que, al observar la industria espacial, no conviene mirar solo a compañías representativas como SpaceX, sino también a las empresas de materiales y componentes que sostienen la infraestructura. El análisis indica que la importancia de las cadenas de suministro relacionadas crece a medida que convergen los sistemas de producción robótica impulsados por IA y la expansión de la infraestructura espacial. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Corrida por infraestrutura espacial com IA destaca materiais e componentes",
+        "excerpt": "Com a expansão da IA e fábricas robotizadas elevando a produtividade, cresce o foco em empresas de materiais e componentes, além da SpaceX.",
+        "body": "Com o avanço da inteligência artificial (IA) e a abertura de um mundo operado por robôs baseados nela, o foco da disputa por infraestrutura espacial também muda. Fábricas onde apenas robôs trabalham estão aumentando devido à produtividade excepcional. O texto original cita o exemplo de uma fábrica que cultiva microrganismos e explica que IA e automação elevam a eficiência em ambientes industriais. Nesse contexto, o artigo apresenta a visão de que, ao observar a indústria espacial, não se deve olhar apenas para empresas de referência como a SpaceX, mas também para companhias de materiais e componentes que sustentam a infraestrutura. A análise afirma que a importância das cadeias de suprimento relacionadas cresce conforme sistemas de produção robótica impulsionados por IA se combinam à expansão da infraestrutura espacial. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI verschärft Rennen um Weltrauminfrastruktur, Zulieferer rücken in den Fokus",
+        "excerpt": "Mit der Ausbreitung von KI und produktiveren Roboterfabriken richtet sich der Blick im Weltrauminfrastruktur-Rennen stärker auf Material- und Teilefirmen als nur auf SpaceX.",
+        "body": "Mit dem Aufkommen künstlicher Intelligenz (KI) und einer darauf basierenden Roboterwelt verändert sich auch der Fokus im Wettbewerb um Weltrauminfrastruktur. Fabriken, in denen nur Roboter arbeiten, nehmen wegen ihrer hohen Produktivität zu. Der Originalbericht nennt als Beispiel eine Fabrik zur Kultivierung von Mikroorganismen und erklärt, dass KI und Automatisierung die Effizienz in der Industrie insgesamt steigern. Vor diesem Hintergrund wird die Sichtweise vorgestellt, dass man in der Raumfahrtindustrie nicht nur auf führende Unternehmen wie SpaceX blicken sollte, sondern auch auf Material- und Komponentenhersteller, die die Infrastruktur tragen. Die Analyse sieht eine wachsende Bedeutung der Lieferketten, weil KI-getriebene Robotikproduktion und der Ausbau der Weltrauminfrastruktur zusammenwirken. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’IA intensifie la course aux infrastructures spatiales, les fournisseurs en vue",
+        "excerpt": "Avec l’essor de l’IA et des usines robotisées plus productives, l’attention se porte au-delà de SpaceX vers les entreprises de matériaux et composants.",
+        "body": "Avec l’émergence de l’intelligence artificielle (IA) et l’ouverture d’un monde de robots fonctionnant sur cette base, le centre de la concurrence dans les infrastructures spatiales évolue aussi. Les usines où seuls des robots travaillent se multiplient grâce à leur productivité remarquable. Le texte original cite l’exemple d’une usine qui cultive des micro-organismes et explique que l’IA et l’automatisation améliorent l’efficacité sur les sites industriels. Dans ce contexte, l’article avance qu’en observant l’industrie spatiale, il ne faut pas regarder uniquement des entreprises emblématiques comme SpaceX, mais aussi les sociétés de matériaux et de composants qui soutiennent l’infrastructure. L’analyse souligne que l’importance des chaînes d’approvisionnement liées augmente avec la convergence entre production robotisée portée par l’IA et expansion des infrastructures spatiales. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سباق البنية التحتية الفضائية مع الذكاء الاصطناعي يبرز شركات المواد والمكونات",
+        "excerpt": "مع انتشار الذكاء الاصطناعي وزيادة المصانع التي تعمل بالروبوتات وترفع الإنتاجية، يتجه الاهتمام في البنية الفضائية إلى شركات المواد والمكونات لا SpaceX فقط.",
+        "body": "مع بروز الذكاء الاصطناعي وظهور عالم تعمل فيه الروبوتات اعتمادا عليه، يتغير أيضا محور المنافسة في البنية التحتية الفضائية. تتزايد المصانع التي يعمل فيها الروبوت وحده بسبب إنتاجيتها العالية. أشار النص الأصلي إلى مثال مصنع يزرع الكائنات الدقيقة، موضحا أن الذكاء الاصطناعي والأتمتة يرفعان الكفاءة في مواقع الصناعة عموما. وفي هذا السياق، طرح المقال وجهة نظر مفادها أن متابعة صناعة الفضاء لا ينبغي أن تقتصر على شركات بارزة مثل SpaceX، بل يجب أن تشمل شركات المواد والمكونات التي تدعم البنية التحتية. ويرى التحليل أن أهمية سلاسل الإمداد ذات الصلة تتزايد مع تلاقي أنظمة الإنتاج الروبوتي المدفوعة بالذكاء الاصطناعي وتوسع البنية التحتية الفضائية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI से तेज अंतरिक्ष इन्फ्रास्ट्रक्चर दौड़, सामग्री और पार्ट्स कंपनियों पर नजर",
+        "excerpt": "AI के प्रसार और रोबोट संचालित कारखानों से उत्पादकता बढ़ने के बीच, अंतरिक्ष इन्फ्रास्ट्रक्चर में ध्यान SpaceX से आगे सामग्री और पार्ट्स कंपनियों पर जा रहा है।",
+        "body": "कृत्रिम बुद्धिमत्ता (AI) के उभरने और उस पर आधारित रोबोट दुनिया के खुलने के साथ अंतरिक्ष इन्फ्रास्ट्रक्चर की प्रतिस्पर्धा का केंद्र भी बदल रहा है। केवल रोबोटों से चलने वाले कारखाने बढ़ रहे हैं क्योंकि उनकी उत्पादकता बहुत अधिक है। मूल रिपोर्ट ने सूक्ष्मजीव उगाने वाले कारखाने का उदाहरण दिया और बताया कि AI तथा ऑटोमेशन औद्योगिक स्थलों की दक्षता बढ़ा रहे हैं। इसी संदर्भ में लेख ने यह दृष्टिकोण रखा कि अंतरिक्ष उद्योग को देखते समय SpaceX जैसी प्रमुख कंपनियों तक सीमित रहने के बजाय, इन्फ्रास्ट्रक्चर को सहारा देने वाली सामग्री और पुर्जे बनाने वाली कंपनियों पर भी ध्यान देना चाहिए। विश्लेषण के अनुसार AI प्रेरित रोबोट उत्पादन प्रणाली और अंतरिक्ष इन्फ्रास्ट्रक्चर के विस्तार के साथ संबंधित सप्लाई चेन का महत्व बढ़ रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Persaingan Infrastruktur Antariksa Dipicu AI, Pemasok Material dan Komponen Disorot",
+        "excerpt": "Saat AI meluas dan pabrik robot meningkatkan produktivitas, perhatian dalam persaingan infrastruktur antariksa bergeser dari SpaceX ke perusahaan material dan komponen.",
+        "body": "Seiring munculnya kecerdasan buatan (AI) dan terbukanya dunia robot yang bekerja berbasis teknologi tersebut, fokus persaingan infrastruktur antariksa juga berubah. Pabrik yang hanya dioperasikan robot semakin banyak karena produktivitasnya tinggi. Teks asli menyebut contoh pabrik yang membiakkan mikroorganisme dan menjelaskan bahwa AI serta otomasi meningkatkan efisiensi di berbagai lokasi industri. Dalam konteks ini, artikel tersebut menyajikan pandangan bahwa saat melihat industri antariksa, perhatian tidak hanya perlu diarahkan pada perusahaan utama seperti SpaceX, tetapi juga pada perusahaan material dan komponen yang menopang infrastruktur. Analisis itu menyebut pentingnya rantai pasok terkait semakin besar ketika sistem produksi robotik yang dipicu AI bertemu dengan perluasan infrastruktur antariksa. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8d1c4ac483f5",
     "slug": "ai-패권-최강자-반도체냐-하이퍼스케일러냐-엔비디아-vs-구글-시총1위-대결-592052",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Tesla Pertama Kali Pimpin Penjualan EV Penumpang Korea, Salip Kia",
         "excerpt": "Tesla asal AS bulan lalu menjadi merek terlaris di pasar mobil listrik penumpang Korea Selatan setelah untuk pertama kalinya melampaui Kia, menurut Yonhap.",
         "body": "Tesla, merek kendaraan listrik asal Amerika Serikat, bulan lalu menjadi merek nomor satu dalam penjualan di segmen mobil listrik penumpang Korea Selatan setelah untuk pertama kalinya melampaui Kia asal Korea. Menurut laporan tersebut, ini adalah pertama kalinya Tesla berada di depan Kia dalam peringkat penjualan kendaraan listrik penumpang domestik. Hasil ini menarik perhatian karena menunjukkan Tesla, sebagai merek EV impor, menonjol dalam persaingan dengan merek-merek utama Korea. Namun, laporan asli tidak menyebutkan angka penjualan spesifik atau rincian kinerja berdasarkan model. Persaingan merek mobil listrik penumpang di Korea Selatan diperkirakan tetap menjadi perhatian seiring perubahan peringkat penjualan dan pilihan konsumen. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f89e391e4d13",
-    "slug": "고유가에-저비용항공사-운항-900편-감축무급휴직-속출-171597",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T21:13:51.585Z",
-    "updatedAt": "2026-05-09T21:13:51.585Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509037700003",
-    "titleFingerprint": "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
-    "dedupKeys": [
-      "f89e391e4d13e15260ae0801da71b836d0c0aa24",
-      "b8bb02b6622bb852a783ee6c19cfcb4df177f34b",
-      "ffa94d52e936968d371a6946f6ea3b6278505cd4"
-    ],
-    "imageUrl": "/images/articles/f89e391e4d13.jpg",
-    "i18n": {
-      "ko": {
-        "title": "고유가 부담에 저비용항공사 운항 900편 감축, 제주항공 6월 무급휴직 실시",
-        "excerpt": "저비용항공사들이 고유가 부담으로 운항 900편을 줄이는 가운데 제주항공은 지난 8일 객실 승무원 희망자를 대상으로 6월 한 달간 무급휴직을 실시한다고 밝혔다.",
-        "body": "저비용항공사들이 고유가 부담으로 운항을 900편 감축하고, 제주항공[089590]은 객실 승무원 희망자를 대상으로 6월 한 달간 무급휴직을 실시한다. 연합뉴스에 따르면 제주항공은 지난 8일 이 같은 무급휴직 계획을 알렸다. 이번 조치는 유가 상승에 따른 비용 부담이 커진 상황에서 저비용항공사들이 운항 축소에 나선 흐름 속에서 나왔다. 운항 900편 감축은 항공사 운영과 승무원 근무 일정에도 영향을 줄 수 있는 사안이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "High Oil Prices Push Low-Cost Airlines to Cut 900 Flights as Jeju Air Plans Unpaid Leave",
-        "excerpt": "Low-cost airlines are cutting 900 flights due to high oil prices, while Jeju Air said on May 8 it would offer one month of unpaid leave in June to cabin crew volunteers.",
-        "body": "Low-cost airlines are reducing operations by 900 flights amid pressure from high oil prices, and Jeju Air[089590] will implement one month of unpaid leave in June for cabin crew members who volunteer. According to Yonhap News Agency, Jeju Air announced the unpaid leave plan on May 8. The move comes as rising fuel costs weigh on low-cost carriers and lead them to scale back flights. The 900-flight reduction may affect airline operations and cabin crew schedules. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "高油価でLCCが900便削減、済州航空は6月に客室乗務員の無給休職実施",
-        "excerpt": "高油価の負担で格安航空会社が運航を900便削減する中、済州航空は8日、希望する客室乗務員を対象に6月の1カ月間、無給休職を実施すると明らかにした。",
-        "body": "格安航空会社が高油価の負担により運航を900便削減し、済州航空[089590]は希望する客室乗務員を対象に6月の1カ月間、無給休職を実施する。聯合ニュースによると、済州航空は8日にこの無給休職計画を知らせた。今回の措置は、燃料価格の上昇で費用負担が大きくなる中、低コスト航空会社が運航縮小に動く流れの中で出てきた。900便の削減は航空会社の運営や乗務員の勤務日程にも影響を与え得る。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "高油价冲击低成本航空削减900个航班，济州航空6月实施无薪休假",
-        "excerpt": "在高油价压力下，低成本航空公司削减900个航班；济州航空8日表示，将面向自愿申请的客舱乘务员在6月实施为期一个月的无薪休假。",
-        "body": "受高油价负担影响，低成本航空公司将削减900个航班，济州航空[089590]则将面向自愿申请的客舱乘务员在6月实施为期一个月的无薪休假。据韩联社报道，济州航空于8日公布了这一无薪休假计划。该措施出现在油价上涨导致成本压力加大的背景下，也与低成本航空公司缩减运营的动向相呼应。900个航班的削减可能影响航空公司运营和乘务员排班。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Altos precios del petróleo llevan a aerolíneas de bajo costo a recortar 900 vuelos",
-        "excerpt": "Las aerolíneas de bajo costo recortan 900 vuelos por el encarecimiento del petróleo, mientras Jeju Air anunció el 8 de mayo licencia no remunerada en junio para tripulantes voluntarios.",
-        "body": "Las aerolíneas de bajo costo reducirán 900 vuelos por la presión de los altos precios del petróleo, y Jeju Air[089590] aplicará en junio un mes de licencia no remunerada para los tripulantes de cabina que se ofrezcan voluntariamente. Según Yonhap, Jeju Air comunicó este plan el 8 de mayo. La medida llega en un contexto de mayores costos por el alza del combustible y de reducción de operaciones entre las aerolíneas de bajo costo. El recorte de 900 vuelos puede afectar la operación y los horarios del personal de cabina. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Petróleo caro leva aéreas de baixo custo a cortar 900 voos; Jeju Air dará licença não paga",
-        "excerpt": "Companhias aéreas de baixo custo cortam 900 voos por causa do petróleo caro, enquanto a Jeju Air informou em 8 de maio licença não remunerada em junho para tripulantes voluntários.",
-        "body": "Companhias aéreas de baixo custo vão reduzir 900 voos diante da pressão dos altos preços do petróleo, e a Jeju Air[089590] aplicará em junho um mês de licença não remunerada para tripulantes de cabine que se voluntariarem. Segundo a Yonhap, a Jeju Air informou esse plano em 8 de maio. A medida ocorre enquanto a alta do combustível aumenta os custos e leva aéreas de baixo custo a reduzir operações. O corte de 900 voos pode afetar a operação das empresas e as escalas dos tripulantes. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Hohe Ölpreise zwingen Billigfluglinien zu 900 Flugstreichungen; Jeju Air plant unbezahlten Urlaub",
-        "excerpt": "Billigfluglinien kürzen wegen hoher Ölpreise 900 Flüge. Jeju Air teilte am 8. Mai mit, im Juni einen Monat unbezahlten Urlaub für freiwillige Flugbegleiter einzuführen.",
-        "body": "Billigfluglinien reduzieren wegen der Belastung durch hohe Ölpreise 900 Flüge, und Jeju Air[089590] führt im Juni einen Monat unbezahlten Urlaub für freiwillige Kabinencrew-Mitglieder ein. Nach Angaben von Yonhap gab Jeju Air diesen Plan am 8. Mai bekannt. Die Maßnahme erfolgt, während steigende Treibstoffkosten den Kostendruck erhöhen und Billigfluglinien ihre Verbindungen kürzen. Die Reduzierung um 900 Flüge kann den Betrieb der Airlines und die Dienstpläne der Kabinencrew beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Pétrole cher: les compagnies low cost réduisent 900 vols, Jeju Air lance un congé sans solde",
-        "excerpt": "Les compagnies low cost réduisent 900 vols sous l’effet des prix élevés du pétrole, tandis que Jeju Air a annoncé le 8 mai un congé sans solde d’un mois en juin pour les volontaires.",
-        "body": "Les compagnies aériennes low cost réduisent 900 vols en raison de la pression exercée par les prix élevés du pétrole, et Jeju Air[089590] mettra en place en juin un mois de congé sans solde pour les membres d’équipage de cabine volontaires. Selon Yonhap, Jeju Air a annoncé ce plan le 8 mai. Cette mesure intervient alors que la hausse du carburant accroît les coûts et pousse les transporteurs low cost à réduire leurs opérations. La baisse de 900 vols peut aussi peser sur l’exploitation et les plannings des équipages. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع أسعار النفط يدفع شركات الطيران منخفضة التكلفة لخفض 900 رحلة وجيجو إير تمنح إجازة بلا أجر",
-        "excerpt": "تخفض شركات الطيران منخفضة التكلفة 900 رحلة بسبب عبء ارتفاع أسعار النفط، فيما أعلنت جيجو إير في 8 مايو إجازة غير مدفوعة لشهر يونيو للمضيفين الراغبين.",
-        "body": "تخفض شركات الطيران منخفضة التكلفة عملياتها بمقدار 900 رحلة تحت ضغط ارتفاع أسعار النفط، وستطبق جيجو إير[089590] إجازة غير مدفوعة لمدة شهر في يونيو لأفراد طاقم المقصورة الراغبين. ووفق وكالة يونهاب، أعلنت جيجو إير هذه الخطة في 8 مايو. تأتي الخطوة مع تزايد أعباء التكاليف بسبب ارتفاع الوقود واتجاه شركات الطيران منخفضة التكلفة إلى تقليص الرحلات. وقد يؤثر خفض 900 رحلة في تشغيل الشركات وجداول عمل طواقم المقصورة. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "महंगे तेल से लो-कॉस्ट एयरलाइंस 900 उड़ानें घटाएंगी, Jeju Air जून में बिना वेतन अवकाश देगी",
-        "excerpt": "तेल की ऊंची कीमतों के दबाव में लो-कॉस्ट एयरलाइंस 900 उड़ानें घटा रही हैं, जबकि Jeju Air ने 8 मई को जून में इच्छुक केबिन क्रू के लिए एक महीने के बिना वेतन अवकाश की घोषणा की।",
-        "body": "तेल की ऊंची कीमतों के दबाव में लो-कॉस्ट एयरलाइंस 900 उड़ानें घटा रही हैं, और Jeju Air[089590] जून में इच्छुक केबिन क्रू सदस्यों के लिए एक महीने का बिना वेतन अवकाश लागू करेगी। योनहाप के अनुसार, Jeju Air ने यह योजना 8 मई को बताई। यह कदम ईंधन महंगा होने से लागत बोझ बढ़ने और लो-कॉस्ट एयरलाइंस द्वारा संचालन घटाने की पृष्ठभूमि में आया है। 900 उड़ानों की कटौती एयरलाइन संचालन और केबिन क्रू की ड्यूटी शेड्यूल पर असर डाल सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga Minyak Tinggi Tekan Maskapai LCC Pangkas 900 Penerbangan, Jeju Air Cuti Tak Dibayar",
-        "excerpt": "Maskapai berbiaya rendah memangkas 900 penerbangan karena tekanan harga minyak tinggi, sementara Jeju Air pada 8 Mei mengumumkan cuti tak dibayar satu bulan pada Juni bagi awak kabin sukarela.",
-        "body": "Maskapai berbiaya rendah memangkas 900 penerbangan akibat tekanan harga minyak yang tinggi, dan Jeju Air[089590] akan menerapkan cuti tak dibayar selama satu bulan pada Juni bagi awak kabin yang mengajukan diri. Menurut Yonhap, Jeju Air menyampaikan rencana itu pada 8 Mei. Langkah ini muncul ketika kenaikan harga bahan bakar memperbesar beban biaya dan mendorong maskapai LCC mengurangi operasi. Pemangkasan 900 penerbangan dapat berdampak pada operasional maskapai dan jadwal kerja awak kabin. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "263b152a46b7",
-    "slug": "르포-10만원-써도-카트가-썰렁가격표-앞에서-주저하는-소비자들-987266",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T21:12:02.073Z",
-    "updatedAt": "2026-05-09T21:12:02.073Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509025000030",
-    "titleFingerprint": "96922a3253b0920ab49176a442d4a4eebd99f436",
-    "dedupKeys": [
-      "263b152a46b77d1e39d02555af13a35a023899b9",
-      "96922a3253b0920ab49176a442d4a4eebd99f436",
-      "8b269f557001bbb2b933d8162796d8a51b95dd67"
-    ],
-    "imageUrl": "/images/articles/263b152a46b7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "장바구니 물가 흔들리자 10만원 써도 빈 카트, 가격표 앞 소비자들 한숨",
-        "excerpt": "서울 대형마트 소비자들이 장바구니 물가 변동 속에 가격표 앞에서 구매를 망설이고 있다. 배추·무·대파는 지난해보다 내렸지만 쌀값 부담은 이어졌다.",
-        "body": "서울의 마트 현장에서는 장바구니 물가 변동이 소비자 체감 부담으로 이어지고 있다. 연합뉴스 보도에 따르면 배추, 무, 대파 등 주요 채소 가격은 지난해보다 큰 폭으로 떨어졌지만, 쌀값 부담이 남아 소비자들이 가격표 앞에서 구매를 주저하는 모습이 나타났다. 일부 소비자는 10만원을 써도 카트가 썰렁하다고 말할 정도로 체감 물가가 가볍지 않다. 채소값 하락에도 필수 식품 가격 부담이 겹치면서 가계의 장보기 심리는 당분간 신중해질 수 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Grocery Prices Shake Seoul Shoppers as $70 Still Leaves Carts Looking Sparse",
-        "excerpt": "In Seoul supermarkets, shoppers are hesitating at price tags as grocery costs fluctuate. Cabbage, radish and green onion prices fell from last year, but rice remains a burden.",
-        "body": "At supermarkets in Seoul, volatile grocery prices are weighing on shoppers’ daily decisions. According to Yonhap News Agency, prices of key vegetables such as cabbage, radish and green onions have fallen sharply from a year earlier, but the burden of rice prices remains. The report described consumers pausing in front of price tags, with some saying that even spending about 100,000 won leaves the shopping cart looking sparse. Although cheaper vegetables offer some relief, pressure from essential food items is keeping household grocery sentiment cautious. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "韓国の買い物かご物価が揺れる、1万円超使っても寂しいカートに消費者ため息",
-        "excerpt": "ソウルの大型スーパーでは、買い物かご物価の変動で消費者が値札の前で購入をためらっている。白菜、大根、長ねぎは前年より下落したが、米価の負担は残る。",
-        "body": "ソウルのスーパー現場では、買い物かご物価の変動が消費者の体感負担につながっている。聯合ニュースによると、白菜、大根、長ねぎなど主要野菜の価格は前年より大きく下がった一方、米価の負担は続いている。値札の前で購入をためらう消費者の姿が見られ、10万ウォンを使ってもカートが寂しいと話す声もあった。野菜価格の下落にもかかわらず、必需食品の価格負担が重なり、家計の買い物心理は慎重さを強めている。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "韩国菜篮子价格波动，花10万韩元购物车仍显空，消费者在价签前犹豫",
-        "excerpt": "首尔大型超市里，消费者在菜篮子价格波动中面对价签犹豫购买。白菜、萝卜、大葱价格较去年明显下降，但大米价格负担仍在。",
-        "body": "在首尔的超市现场，菜篮子价格波动正转化为消费者的实际负担。韩联社报道称，白菜、萝卜、大葱等主要蔬菜价格较去年大幅下跌，但大米价格负担仍然存在，消费者在价签前犹豫购买的场景频繁出现。有消费者表示，即使花了10万韩元，购物车看起来仍然空落落。尽管蔬菜降价带来一定缓解，但必需食品价格压力叠加，家庭采购心态短期内仍可能保持谨慎。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "La cesta de la compra en Corea se encarece: gastar 100.000 wones deja carritos vacíos",
-        "excerpt": "En supermercados de Seúl, los consumidores dudan frente a las etiquetas por la volatilidad de los alimentos. Col, rábano y cebolleta bajaron frente al año pasado, pero pesa el arroz.",
-        "body": "En supermercados de Seúl, la volatilidad de la cesta de la compra se está reflejando en la carga que sienten los consumidores. Según Yonhap, los precios de verduras clave como la col, el rábano y la cebolleta han caído con fuerza respecto al año pasado, pero el precio del arroz sigue siendo una preocupación. El reporte describe a compradores que se detienen ante las etiquetas y algunos dicen que, incluso gastando 100.000 wones, el carrito queda poco lleno. Pese al alivio en verduras, el peso de alimentos esenciales mantiene prudente el gasto de los hogares. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Cesta de compras oscila na Coreia: 100 mil won ainda deixam carrinhos vazios",
-        "excerpt": "Em supermercados de Seul, consumidores hesitam diante das etiquetas em meio à volatilidade dos alimentos. Repolho, rabanete e cebolinha caíram ante o ano passado, mas o arroz pesa.",
-        "body": "Nos supermercados de Seul, a oscilação dos preços da cesta de compras está afetando a percepção dos consumidores. Segundo a Yonhap, verduras importantes como repolho, rabanete e cebolinha ficaram bem mais baratas que no ano passado, mas o preço do arroz continua pesando. A reportagem mostra consumidores parando diante das etiquetas, e alguns afirmam que mesmo gastando 100 mil won o carrinho parece vazio. Apesar do alívio em parte dos vegetais, a pressão sobre alimentos essenciais mantém as famílias cautelosas nas compras. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Koreas Lebensmittelpreise schwanken: 100.000 Won füllen den Einkaufswagen kaum",
-        "excerpt": "In Supermärkten in Seoul zögern Verbraucher angesichts schwankender Lebensmittelpreise vor den Preisschildern. Kohl, Rettich und Frühlingszwiebeln sind billiger, Reis bleibt belastend.",
-        "body": "In Supermärkten in Seoul schlagen schwankende Lebensmittelpreise direkt auf das Einkaufsgefühl der Verbraucher durch. Laut Yonhap sind wichtige Gemüse wie Kohl, Rettich und Frühlingszwiebeln gegenüber dem Vorjahr deutlich billiger geworden, doch die Belastung durch Reispreise bleibt bestehen. Der Bericht schildert Käufer, die vor Preisschildern zögern; einige sagen, selbst nach Ausgaben von 100.000 Won wirke der Einkaufswagen noch spärlich gefüllt. Trotz niedrigerer Gemüsepreise bleibt der Einkauf wegen wichtiger Grundnahrungsmittel vorsichtig. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "En Corée, le panier alimentaire fluctue: 100.000 wons dépensés et des chariots encore vides",
-        "excerpt": "Dans les supermarchés de Séoul, les consommateurs hésitent devant les étiquettes alors que les prix alimentaires bougent. Chou, radis et oignon vert baissent, mais le riz pèse encore.",
-        "body": "Dans les supermarchés de Séoul, la volatilité des prix du panier alimentaire pèse sur le ressenti des consommateurs. Selon Yonhap, les prix de légumes essentiels comme le chou, le radis et l’oignon vert ont nettement reculé par rapport à l’an dernier, mais le coût du riz reste une charge. Le reportage décrit des acheteurs qui hésitent devant les étiquettes; certains disent qu’après avoir dépensé 100.000 wons, leur chariot paraît encore peu rempli. Malgré le recul des légumes, la pression sur les produits de base garde les ménages prudents. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "تقلب أسعار سلة الغذاء في كوريا: إنفاق 100 ألف وون لا يملأ عربات التسوق",
-        "excerpt": "في متاجر كبرى بسول، يتردد المستهلكون أمام بطاقات الأسعار مع تقلب كلفة الغذاء. تراجعت أسعار الملفوف والفجل والبصل الأخضر عن العام الماضي، لكن عبء الأرز مستمر.",
-        "body": "في متاجر سول، تتحول تقلبات أسعار سلة الغذاء إلى عبء يشعر به المستهلكون مباشرة. وبحسب وكالة يونهاب، انخفضت أسعار خضراوات رئيسية مثل الملفوف والفجل والبصل الأخضر بشكل كبير مقارنة بالعام الماضي، لكن عبء أسعار الأرز ما زال قائما. ويعرض التقرير مشهدا لمتسوقين يتوقفون أمام بطاقات الأسعار قبل الشراء، فيما قال بعضهم إن إنفاق 100 ألف وون لا يجعل العربة ممتلئة. ورغم تراجع أسعار الخضراوات، فإن ضغط أسعار الأغذية الأساسية يبقي إنفاق الأسر حذرا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया में किराना कीमतों में उतार-चढ़ाव, 100,000 वॉन खर्च पर भी खाली दिखती ट्रॉली",
-        "excerpt": "सियोल के सुपरमार्केट में खाद्य कीमतों के उतार-चढ़ाव के बीच ग्राहक मूल्य टैग देखकर रुक रहे हैं। पत्ता गोभी, मूली और हरे प्याज सस्ते हुए, लेकिन चावल का बोझ कायम है।",
-        "body": "सियोल के सुपरमार्केट में किराना कीमतों की अस्थिरता उपभोक्ताओं के महसूस किए जा रहे बोझ में बदल रही है। योनहाप के अनुसार, पत्ता गोभी, मूली और हरे प्याज जैसी प्रमुख सब्जियों के दाम पिछले साल की तुलना में काफी घटे हैं, लेकिन चावल की कीमतों का दबाव बना हुआ है। रिपोर्ट में ग्राहक मूल्य टैग के सामने खरीदारी को लेकर हिचकते दिखे, और कुछ ने कहा कि 100,000 वॉन खर्च करने के बाद भी ट्रॉली खाली लगती है। सब्जियों में राहत के बावजूद जरूरी खाद्य वस्तुओं का बोझ परिवारों को सतर्क रख रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Harga Belanja Korea Bergejolak, Habiskan 100 Ribu Won Keranjang Tetap Terlihat Sepi",
-        "excerpt": "Di supermarket Seoul, konsumen menahan pembelian di depan label harga saat biaya pangan berfluktuasi. Kubis, lobak dan daun bawang turun dari tahun lalu, tetapi beras masih membebani.",
-        "body": "Di supermarket Seoul, gejolak harga kebutuhan belanja harian terasa langsung oleh konsumen. Menurut Yonhap, harga sayuran utama seperti kubis, lobak dan daun bawang turun tajam dibanding tahun lalu, tetapi beban harga beras masih terasa. Laporan itu menggambarkan konsumen yang ragu membeli saat melihat label harga; sebagian mengatakan bahwa meski menghabiskan 100 ribu won, keranjang belanja tetap terlihat sepi. Walau harga sayuran memberi sedikit keringanan, tekanan pada pangan pokok membuat rumah tangga tetap berhati-hati. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "71c89d3253d9",
-    "slug": "이-영상-공개되자마자로봇-묻은-종목들-일제히-불기둥-282573",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T21:10:52.057Z",
-    "updatedAt": "2026-05-09T21:10:52.057Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042405",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042405",
-    "titleFingerprint": "0c1b41554cc0e1c437ad45e23d747d7aa684a73c",
-    "dedupKeys": [
-      "71c89d3253d9f0d34adba21116747aab09557f18",
-      "0c1b41554cc0e1c437ad45e23d747d7aa684a73c",
-      "3a97f35f640beb7a407ca2b04526597d05794f44"
-    ],
-    "imageUrl": "/images/articles/71c89d3253d9.png",
-    "i18n": {
-      "ko": {
-        "title": "로봇주 급등, 보스턴다이내믹스 아틀라스 영상 공개에 관심 집중",
-        "excerpt": "현대차그룹 로보틱스 자회사 보스턴다이내믹스가 아틀라스 물구나무 영상을 공개하자 로봇 기술 진전에 대한 관심이 커지며 현대차그룹과 LG CNS 관련 주가가 상승했다.",
-        "body": "현대자동차그룹의 로보틱스 자회사 보스턴다이내믹스가 휴머노이드 로봇 아틀라스의 물구나무 동작 영상을 공개하자 로봇 관련 종목들이 일제히 강세를 보였다. 영상은 아틀라스의 진일보한 구동 능력을 보여주며 시장의 관심을 끌었다. 원문에 따르면 보스턴다이내믹스와 LG CNS 등이 잇달아 발전된 로봇 구동 기술을 선보인 점도 투자 심리에 영향을 줬다. 이에 현대차그룹 관련주와 LG CNS 주가가 상승한 것으로 전해졌다. 로봇 기술의 실제 구현 사례가 공개될 때마다 관련 기업 가치와 성장 기대가 함께 주목받는 흐름이다. 출처는 mk.co.kr이다."
-      },
-      "en": {
-        "title": "Robot Stocks Rise as Boston Dynamics Atlas Video Draws Market Attention",
-        "excerpt": "After Hyundai Motor Group robotics unit Boston Dynamics released a video of Atlas doing a handstand, interest in advanced robot motion grew and shares tied to Hyundai Motor Group and LG CNS rose.",
-        "body": "Robot-related stocks moved higher after Boston Dynamics, the robotics subsidiary of Hyundai Motor Group, released a video showing its humanoid robot Atlas performing a handstand. The clip drew market attention by highlighting Atlas’s more advanced motion capabilities. According to the original report, Boston Dynamics and LG CNS have recently shown progress in robot operation technology, which also affected investor sentiment. Shares related to Hyundai Motor Group and LG CNS rose as a result. The case shows that when real demonstrations of robotics technology are released, related corporate value and growth expectations can draw renewed attention. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ロボット関連株が上昇、ボストン・ダイナミクスのアトラス動画に注目",
-        "excerpt": "現代自動車グループのロボティクス子会社ボストン・ダイナミクスがアトラスの逆立ち動画を公開し、技術進展への関心が高まり現代自動車グループとLG CNS関連株が上昇した。",
-        "body": "現代自動車グループのロボティクス子会社ボストン・ダイナミクスが、ヒューマノイドロボット「アトラス」の逆立ち動作を収めた動画を公開したことで、ロボット関連銘柄が一斉に強含んだ。動画はアトラスの進化した駆動能力を示し、市場の関心を集めた。原文によると、ボストン・ダイナミクスとLG CNSなどが相次いで進歩したロボット駆動技術を披露したことも投資心理に影響した。これにより現代自動車グループ関連株とLG CNS株価が上昇したと伝えられた。ロボット技術の実演が公開されるたび、関連企業の価値と成長期待が注目される流れだ。出典はmk.co.kr。"
-      },
-      "zh": {
-        "title": "机器人概念股走强，波士顿动力Atlas倒立视频引发关注",
-        "excerpt": "现代汽车集团机器人子公司波士顿动力发布Atlas倒立视频后，市场对机器人技术进展的关注升温，现代汽车集团及LG CNS相关股价上涨。",
-        "body": "现代汽车集团旗下机器人子公司波士顿动力发布人形机器人Atlas倒立动作视频后，机器人相关股票集体走强。该视频展示了Atlas进一步提升的运动控制能力，吸引了市场关注。原文称，波士顿动力和LG CNS等公司接连展示更先进的机器人驱动技术，也影响了投资情绪。因此，现代汽车集团相关股票和LG CNS股价出现上涨。每当机器人技术的实际演示公开时，相关企业价值和成长预期都会一同受到关注。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Suben acciones de robótica tras video de Atlas de Boston Dynamics",
-        "excerpt": "Boston Dynamics, filial de robótica de Hyundai Motor Group, publicó un video de Atlas haciendo una parada de manos, elevando el interés por la tecnología robótica y las acciones vinculadas a Hyundai y LG CNS.",
-        "body": "Las acciones relacionadas con la robótica subieron después de que Boston Dynamics, filial de robótica de Hyundai Motor Group, publicara un video en el que su robot humanoide Atlas realiza una parada de manos. La grabación llamó la atención del mercado al mostrar capacidades de movimiento más avanzadas de Atlas. Según el reporte original, Boston Dynamics y LG CNS han presentado recientemente avances en tecnología de operación robótica, lo que también influyó en el ánimo inversor. Como resultado, subieron las acciones vinculadas a Hyundai Motor Group y LG CNS. El caso muestra que cada demostración real de tecnología robótica puede renovar el interés por el valor y las expectativas de crecimiento de las empresas relacionadas. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Ações de robótica sobem após vídeo do Atlas da Boston Dynamics",
-        "excerpt": "A Boston Dynamics, braço de robótica do Hyundai Motor Group, divulgou um vídeo do Atlas fazendo parada de mãos, ampliando o interesse por robôs e impulsionando ações ligadas à Hyundai e à LG CNS.",
-        "body": "Ações relacionadas à robótica avançaram depois que a Boston Dynamics, subsidiária de robótica do Hyundai Motor Group, divulgou um vídeo do robô humanoide Atlas fazendo uma parada de mãos. A gravação atraiu a atenção do mercado ao mostrar capacidades de movimento mais avançadas do Atlas. Segundo a reportagem original, Boston Dynamics e LG CNS vêm apresentando progressos em tecnologias de operação robótica, o que também afetou o sentimento dos investidores. Com isso, ações ligadas ao Hyundai Motor Group e à LG CNS subiram. O episódio mostra que demonstrações reais de tecnologia robótica podem trazer novo foco ao valor das empresas relacionadas e às expectativas de crescimento. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Robotik-Aktien steigen nach Atlas-Video von Boston Dynamics",
-        "excerpt": "Boston Dynamics, Robotiktochter der Hyundai Motor Group, veröffentlichte ein Video von Atlas im Handstand. Das weckte Interesse an Robotikfortschritten und ließ Aktien von Hyundai-nahen Firmen und LG CNS steigen.",
-        "body": "Robotikbezogene Aktien legten zu, nachdem Boston Dynamics, die Robotiktochter der Hyundai Motor Group, ein Video veröffentlichte, in dem der humanoide Roboter Atlas einen Handstand ausführt. Der Clip zog die Aufmerksamkeit des Marktes auf sich, weil er die weiterentwickelten Bewegungsfähigkeiten von Atlas zeigte. Dem Originalbericht zufolge präsentierten Boston Dynamics und LG CNS zuletzt Fortschritte bei Roboterantrieb und -steuerung, was ebenfalls die Anlegerstimmung beeinflusste. In der Folge stiegen Aktien mit Bezug zur Hyundai Motor Group sowie der Kurs von LG CNS. Der Fall zeigt, dass reale Demonstrationen von Robotiktechnologie den Blick auf Unternehmenswert und Wachstumserwartungen verwandter Firmen lenken können. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Les valeurs robotiques montent après la vidéo d’Atlas de Boston Dynamics",
-        "excerpt": "Boston Dynamics, filiale robotique de Hyundai Motor Group, a publié une vidéo d’Atlas en équilibre sur les mains, renforçant l’intérêt pour la robotique et faisant monter des titres liés à Hyundai et LG CNS.",
-        "body": "Les actions liées à la robotique ont progressé après la publication par Boston Dynamics, filiale robotique de Hyundai Motor Group, d’une vidéo montrant le robot humanoïde Atlas en équilibre sur les mains. La séquence a attiré l’attention du marché en illustrant les capacités de mouvement plus avancées d’Atlas. Selon l’article original, Boston Dynamics et LG CNS ont récemment présenté des progrès dans les technologies de fonctionnement robotique, ce qui a aussi influencé le sentiment des investisseurs. Les titres liés à Hyundai Motor Group et l’action LG CNS ont ainsi augmenté. Cette situation montre que les démonstrations concrètes de technologie robotique peuvent raviver l’attention portée à la valeur des entreprises concernées et à leurs perspectives de croissance. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "أسهم الروبوتات ترتفع بعد فيديو أطلس من بوسطن دايناميكس",
-        "excerpt": "نشرت بوسطن دايناميكس، ذراع الروبوتات في مجموعة هيونداي موتور، فيديو لأطلس وهو يؤدي الوقوف على اليدين، ما زاد الاهتمام بتقدم الروبوتات ورفع أسهم هيونداي وLG CNS.",
-        "body": "ارتفعت الأسهم المرتبطة بالروبوتات بعدما نشرت بوسطن دايناميكس، التابعة لمجموعة هيونداي موتور في مجال الروبوتات، مقطعا يظهر الروبوت الشبيه بالبشر أطلس وهو يؤدي حركة الوقوف على اليدين. جذب الفيديو اهتمام السوق لأنه أظهر قدرات حركة أكثر تقدما لدى أطلس. وبحسب التقرير الأصلي، فإن بوسطن دايناميكس وLG CNS عرضتا تباعا تقنيات تشغيل روبوتية متطورة، وهو ما أثر أيضا في معنويات المستثمرين. ونتيجة لذلك ارتفعت أسهم مرتبطة بمجموعة هيونداي موتور وسهم LG CNS. وتوضح الحالة أن عرض تطبيقات فعلية لتقنيات الروبوتات قد يجذب الاهتمام إلى قيمة الشركات المرتبطة وتوقعات نموها. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "बोस्टन डायनेमिक्स के Atlas वीडियो से रोबोटिक्स शेयरों में तेजी",
-        "excerpt": "Hyundai Motor Group की रोबोटिक्स इकाई Boston Dynamics ने Atlas का हैंडस्टैंड वीडियो जारी किया, जिससे रोबोट तकनीक में प्रगति पर ध्यान बढ़ा और Hyundai व LG CNS से जुड़े शेयर चढ़े।",
-        "body": "Hyundai Motor Group की रोबोटिक्स सहायक कंपनी Boston Dynamics द्वारा ह्यूमनॉइड रोबोट Atlas का हैंडस्टैंड करते हुए वीडियो जारी करने के बाद रोबोटिक्स से जुड़े शेयरों में मजबूती दिखी। इस वीडियो ने Atlas की उन्नत गति क्षमता दिखाकर बाजार का ध्यान खींचा। मूल रिपोर्ट के अनुसार, Boston Dynamics और LG CNS ने हाल में अधिक विकसित रोबोट संचालन तकनीकें दिखाई हैं, जिसका निवेशक भावना पर भी असर पड़ा। इसके चलते Hyundai Motor Group से जुड़े शेयरों और LG CNS के शेयर मूल्य में वृद्धि बताई गई। यह घटना दिखाती है कि जब रोबोट तकनीक के वास्तविक प्रदर्शन सामने आते हैं, तो संबंधित कंपनियों के मूल्य और वृद्धि की उम्मीदें भी ध्यान में आती हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Saham Robotik Naik Setelah Video Atlas Boston Dynamics Jadi Sorotan",
-        "excerpt": "Boston Dynamics, unit robotik Hyundai Motor Group, merilis video Atlas melakukan handstand. Minat pada kemajuan robot meningkat dan saham terkait Hyundai Motor Group serta LG CNS ikut naik.",
-        "body": "Saham terkait robotik menguat setelah Boston Dynamics, anak usaha robotik Hyundai Motor Group, merilis video robot humanoid Atlas melakukan gerakan handstand. Video itu menarik perhatian pasar karena menunjukkan kemampuan gerak Atlas yang lebih maju. Menurut laporan asli, Boston Dynamics dan LG CNS sama-sama memperlihatkan kemajuan teknologi penggerak robot, yang turut memengaruhi sentimen investor. Akibatnya, saham terkait Hyundai Motor Group dan harga saham LG CNS naik. Peristiwa ini menunjukkan bahwa setiap demonstrasi nyata teknologi robotik dapat membuat nilai perusahaan terkait dan ekspektasi pertumbuhannya kembali menjadi sorotan. Sumber: mk.co.kr."
       }
     }
   }

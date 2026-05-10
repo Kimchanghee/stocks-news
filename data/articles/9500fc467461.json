@@ -1,0 +1,75 @@
+{
+  "id": "9500fc467461",
+  "slug": "ai붐에-반도체-공장-풀가동-레거시-파운드리까지-들썩-467714",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-10T10:51:22.126Z",
+  "updatedAt": "2026-05-10T10:51:22.126Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12042679",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12042679",
+  "titleFingerprint": "8cb353f23095995c92bf9a9de9e35e7de906aa41",
+  "dedupKeys": [
+    "9500fc467461ef20147233e2b4bff3e348c818ce",
+    "8cb353f23095995c92bf9a9de9e35e7de906aa41",
+    "5ef4cb7086dd952403c8f5d894b930131c6c7ed4"
+  ],
+  "imageUrl": "/images/articles/9500fc467461.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 반도체 수요, 레거시 파운드리까지 확산…공장 가동률 주목",
+      "excerpt": "AI 데이터센터 투자가 늘며 반도체 수요가 확대되고, 그 흐름이 TSMC·삼성전자 중심의 최첨단 공정을 넘어 글로벌 레거시 파운드리 시장으로 번지고 있다.",
+      "body": "AI 데이터센터 투자 확대가 반도체 수요를 끌어올리면서 글로벌 레거시 파운드리 시장에도 변화가 나타나고 있다. mk.co.kr에 따르면 그동안 AI 붐의 직접 수혜는 TSMC와 삼성전자처럼 최첨단 공정을 보유한 기업에 집중됐지만, 관련 수요가 구형 공정 기반 파운드리까지 확산되는 흐름이 감지된다. 레거시 파운드리는 최신 AI 칩 생산의 중심은 아니지만, 데이터센터 투자 확대가 반도체 전반의 수요를 자극하면서 시장 관심이 커지고 있다. 이에 따라 AI 투자 사이클이 첨단 공정뿐 아니라 기존 파운드리 생태계에도 영향을 줄지 주목된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "AI Chip Demand Spreads to Legacy Foundries as Data Center Investment Grows",
+      "excerpt": "Rising AI data center investment is lifting semiconductor demand, extending momentum beyond advanced foundries such as TSMC and Samsung Electronics into the global legacy foundry market.",
+      "body": "Growing investment in AI data centers is increasing semiconductor demand and bringing fresh attention to the global legacy foundry market. According to mk.co.kr, the direct beneficiaries of the AI boom had largely been companies with advanced process technology, including TSMC and Samsung Electronics. Now, however, related demand is showing signs of spreading to foundries based on older process nodes. Legacy foundries are not the core producers of the most advanced AI chips, but broader semiconductor demand linked to data center expansion is drawing market interest. Investors and industry watchers are now focused on whether the AI investment cycle will affect not only leading-edge processes but also the wider existing foundry ecosystem. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "AI半導体需要、レガシーファウンドリーにも波及…工場稼働に注目",
+      "excerpt": "AIデータセンター投資の拡大で半導体需要が増え、TSMCやサムスン電子など最先端工程中心だった恩恵が世界のレガシーファウンドリー市場にも広がっている。",
+      "body": "AIデータセンター投資の拡大が半導体需要を押し上げ、世界のレガシーファウンドリー市場にも変化が表れている。mk.co.krによると、これまでAIブームの直接的な恩恵はTSMCやサムスン電子のように最先端工程を持つ企業に集中していた。しかし関連需要は、旧世代工程を基盤とするファウンドリーにも広がる兆しを見せている。レガシーファウンドリーは最新AIチップ生産の中心ではないが、データセンター投資の拡大が半導体全般の需要を刺激し、市場の関心が高まっている。AI投資サイクルが先端工程だけでなく既存のファウンドリー生態系にも影響するかが注目される。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "AI芯片需求扩散至传统晶圆代工，数据中心投资带动市场升温",
+      "excerpt": "随着AI数据中心投资扩大，半导体需求上升，受益范围正从台积电和三星电子等先进制程企业延伸至全球传统晶圆代工市场。",
+      "body": "AI数据中心投资扩大正在推升半导体需求，全球传统晶圆代工市场也出现变化。据mk.co.kr报道，此前AI热潮的直接受益者主要集中在拥有先进制程的企业，如台积电和三星电子。但相关需求正显示出向基于较旧制程的晶圆代工厂扩散的迹象。传统晶圆代工并不是最先进AI芯片生产的核心，但数据中心投资增加带动了半导体整体需求，市场关注度随之上升。业界正在关注，AI投资周期是否会不仅影响先进制程，也会波及既有晶圆代工生态。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Demanda de chips por IA llega a fundiciones legacy ante más inversión en centros de datos",
+      "excerpt": "La inversión en centros de datos de IA está elevando la demanda de semiconductores y extendiendo el impulso desde TSMC y Samsung Electronics hacia el mercado global de fundiciones legacy.",
+      "body": "La expansión de la inversión en centros de datos de IA está impulsando la demanda de semiconductores y generando cambios en el mercado global de fundiciones legacy. Según mk.co.kr, hasta ahora los beneficiarios directos del auge de la IA se concentraban en empresas con procesos de vanguardia, como TSMC y Samsung Electronics. Sin embargo, la demanda vinculada empieza a mostrar señales de extenderse a fundiciones basadas en procesos más antiguos. Estas fundiciones no son el centro de la producción de los chips de IA más avanzados, pero el aumento de la inversión en centros de datos está estimulando la demanda general de semiconductores. El mercado observa si el ciclo de inversión en IA afectará también al ecosistema de fundición existente. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Demanda por chips de IA alcança foundries legadas com alta em data centers",
+      "excerpt": "O aumento do investimento em data centers de IA eleva a demanda por semicondutores e leva o impulso além de TSMC e Samsung Electronics, chegando ao mercado global de foundries legadas.",
+      "body": "A expansão dos investimentos em data centers de IA está elevando a demanda por semicondutores e trazendo mudanças ao mercado global de foundries legadas. Segundo o mk.co.kr, até agora os beneficiários diretos do boom de IA estavam concentrados em empresas com processos de ponta, como TSMC e Samsung Electronics. Agora, porém, a demanda relacionada mostra sinais de se espalhar para foundries baseadas em processos mais antigos. Essas empresas não estão no centro da produção dos chips de IA mais avançados, mas o avanço dos investimentos em data centers estimula a demanda geral por semicondutores. O mercado acompanha se o ciclo de investimento em IA também afetará o ecossistema já existente de foundries. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "KI-Chipnachfrage erreicht Legacy-Foundries durch mehr Rechenzentrumsinvestitionen",
+      "excerpt": "Steigende Investitionen in KI-Rechenzentren treiben die Halbleiternachfrage und weiten den Schub von TSMC und Samsung Electronics auf den globalen Markt für Legacy-Foundries aus.",
+      "body": "Der Ausbau von Investitionen in KI-Rechenzentren treibt die Nachfrage nach Halbleitern und sorgt auch im globalen Markt für Legacy-Foundries für Bewegung. Laut mk.co.kr konzentrierten sich die direkten Vorteile des KI-Booms bisher vor allem auf Unternehmen mit modernsten Fertigungsprozessen, darunter TSMC und Samsung Electronics. Nun zeigen sich jedoch Anzeichen, dass die damit verbundene Nachfrage auch auf Foundries mit älteren Prozessknoten übergreift. Legacy-Foundries stehen nicht im Zentrum der Produktion der modernsten KI-Chips, doch die höheren Rechenzentrumsinvestitionen stimulieren die allgemeine Halbleiternachfrage. Beobachter achten darauf, ob der KI-Investitionszyklus auch das bestehende Foundry-Ökosystem beeinflusst. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La demande de puces IA gagne les fonderies legacy avec l’essor des data centers",
+      "excerpt": "La hausse des investissements dans les data centers d’IA stimule la demande de semi-conducteurs et étend l’élan de TSMC et Samsung Electronics au marché mondial des fonderies legacy.",
+      "body": "L’augmentation des investissements dans les data centers d’IA soutient la demande de semi-conducteurs et provoque des évolutions sur le marché mondial des fonderies legacy. Selon mk.co.kr, les bénéficiaires directs du boom de l’IA étaient jusqu’ici surtout les entreprises dotées de procédés de pointe, comme TSMC et Samsung Electronics. Désormais, la demande liée montre des signes d’extension vers des fonderies fondées sur des procédés plus anciens. Ces acteurs ne sont pas au cœur de la production des puces IA les plus avancées, mais l’expansion des investissements dans les data centers stimule la demande globale de semi-conducteurs. Le marché observe si le cycle d’investissement IA touchera aussi l’écosystème existant des fonderies. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "طلب رقائق الذكاء الاصطناعي يمتد إلى المسابك التقليدية مع توسع مراكز البيانات",
+      "excerpt": "مع زيادة الاستثمار في مراكز بيانات الذكاء الاصطناعي، يرتفع الطلب على أشباه الموصلات ويمتد الزخم من TSMC وسامسونغ إلكترونيكس إلى سوق المسابك التقليدية عالميا.",
+      "body": "تؤدي زيادة الاستثمار في مراكز بيانات الذكاء الاصطناعي إلى رفع الطلب على أشباه الموصلات، ما يلفت الانتباه إلى سوق المسابك التقليدية عالميا. وبحسب mk.co.kr، كانت الفوائد المباشرة لطفرة الذكاء الاصطناعي تتركز حتى الآن في الشركات المالكة للتقنيات الأحدث في التصنيع، مثل TSMC وسامسونغ إلكترونيكس. لكن الطلب المرتبط بهذا القطاع يظهر مؤشرات على الامتداد إلى مسابك تعتمد على عمليات تصنيع أقدم. ورغم أن هذه المسابك ليست مركز إنتاج رقائق الذكاء الاصطناعي الأكثر تقدما، فإن توسع الاستثمار في مراكز البيانات يحفز الطلب العام على أشباه الموصلات. لذلك يترقب السوق ما إذا كانت دورة الاستثمار في الذكاء الاصطناعي ستؤثر أيضا في منظومة المسابك القائمة. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "AI चिप मांग लेगेसी फाउंड्री तक फैली, डेटा सेंटर निवेश से बाजार में हलचल",
+      "excerpt": "AI डेटा सेंटर निवेश बढ़ने से सेमीकंडक्टर मांग तेज हो रही है और इसका असर TSMC व Samsung Electronics जैसी उन्नत प्रक्रिया कंपनियों से आगे वैश्विक लेगेसी फाउंड्री बाजार तक पहुंच रहा है।",
+      "body": "AI डेटा सेंटरों में बढ़ता निवेश सेमीकंडक्टर मांग को ऊपर ले जा रहा है और वैश्विक लेगेसी फाउंड्री बाजार में भी बदलाव दिखा रहा है। mk.co.kr के अनुसार, अब तक AI बूम का सीधा लाभ मुख्य रूप से TSMC और Samsung Electronics जैसी अत्याधुनिक प्रक्रिया क्षमता वाली कंपनियों को मिला था। लेकिन संबंधित मांग अब पुराने प्रोसेस नोड पर आधारित फाउंड्री तक फैलने के संकेत दे रही है। लेगेसी फाउंड्री सबसे उन्नत AI चिप उत्पादन का केंद्र नहीं हैं, फिर भी डेटा सेंटर निवेश का विस्तार पूरे सेमीकंडक्टर क्षेत्र की मांग को बढ़ा रहा है। बाजार अब देख रहा है कि AI निवेश चक्र उन्नत प्रक्रियाओं के साथ मौजूदा फाउंड्री पारिस्थितिकी तंत्र को भी कितना प्रभावित करेगा। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Permintaan Chip AI Menjalar ke Foundry Legacy Saat Investasi Data Center Naik",
+      "excerpt": "Investasi data center AI yang meningkat mendorong permintaan semikonduktor dan memperluas dampaknya dari TSMC serta Samsung Electronics ke pasar foundry legacy global.",
+      "body": "Peningkatan investasi pada data center AI sedang mengangkat permintaan semikonduktor dan memicu perubahan di pasar foundry legacy global. Menurut mk.co.kr, manfaat langsung dari ledakan AI selama ini terutama terkonsentrasi pada perusahaan dengan proses manufaktur tercanggih, termasuk TSMC dan Samsung Electronics. Namun, permintaan terkait kini menunjukkan tanda-tanda merambat ke foundry berbasis proses yang lebih lama. Foundry legacy bukan pusat produksi chip AI paling maju, tetapi ekspansi investasi data center ikut mendorong permintaan semikonduktor secara umum. Pasar kini mencermati apakah siklus investasi AI juga akan memengaruhi ekosistem foundry yang sudah ada, bukan hanya proses tercanggih. Sumber: mk.co.kr"
+    }
+  }
+}
