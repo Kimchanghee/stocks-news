@@ -1,5 +1,230 @@
 [
   {
+    "id": "148e6cc6721c",
+    "slug": "현대차그룹-kai-미래-항공-모빌리티-개발-손잡아-494100",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T17:43:30.552Z",
+    "updatedAt": "2026-05-10T17:43:30.552Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894069/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894069/2",
+    "titleFingerprint": "00f1464e6bb601c4f6182284b7084861dc12e25f",
+    "dedupKeys": [
+      "148e6cc6721c5ffd3720dc9d00c206e0bd67cb0c",
+      "00f1464e6bb601c4f6182284b7084861dc12e25f",
+      "9b418cb72c3630fb9b14686c990fc8740e54f127"
+    ],
+    "imageUrl": "/images/articles/148e6cc6721c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차그룹·KAI, 미래 항공 모빌리티 공동 개발로 AAM 양산 협력",
+        "excerpt": "현대차그룹과 한국항공우주산업(KAI)은 8일 서울 양재동 본사에서 항공용 전동화 파워트레인 기반 AAM 기체 공동 개발 업무협약을 체결했다.",
+        "body": "현대자동차그룹과 한국항공우주산업(KAI)이 미래 항공 모빌리티(AAM) 개발을 위해 손을 잡았다. 현대차그룹은 8일 서울 서초구 양재동 현대차·기아 본사에서 ‘항공용 전동화 파워트레인을 기반으로 하는 미래 항공 모빌리티 기체 공동 개발을 위한 업무협약’을 체결했다고 10일 밝혔다. 이번 협약은 현대차그룹의 항공용 전동화 파워트레인 개발 역량과 KAI의 항공기체 개발 역량을 결합해 경쟁력 있는 AAM을 개발하고 양산하기 위한 것이다. AAM은 사람이나 화물을 하늘길로 이동시키는 차세대 항공 교통 모빌리티로, 도심항공교통(UAM)이 대표 사례다. 미국과 중국 등은 이미 AAM 상용화에 나선 상태다. 양측은 기술과 인적 자원 공유를 넘어 공급망, 인증, 고객 네트워크까지 협력 범위를 넓힐 계획이다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Hyundai Motor Group and KAI team up to develop and mass-produce future AAM aircraft",
+        "excerpt": "Hyundai Motor Group and Korea Aerospace Industries signed an agreement on May 8 in Seoul to jointly develop AAM aircraft based on aviation electrified powertrains.",
+        "body": "Hyundai Motor Group and Korea Aerospace Industries (KAI) have joined forces to develop future advanced air mobility (AAM). Hyundai Motor Group said on May 10 that the two companies signed a memorandum of understanding on May 8 at Hyundai Motor and Kia’s headquarters in Yangjae-dong, Seocho-gu, Seoul, for the joint development of future air mobility aircraft based on aviation electrified powertrains. The agreement aims to combine Hyundai Motor Group’s capabilities in aviation electrified powertrain development with KAI’s aircraft development expertise to create and mass-produce competitive AAM vehicles. AAM refers to next-generation air transport mobility that moves people or cargo through air routes, with urban air mobility (UAM), often described as flying taxis, as a key example. The United States and China have already begun commercialization efforts. The partners plan to share technology and personnel and expand cooperation to supply chains, certification and customer networks. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "現代自動車グループとKAI、未来航空モビリティAAMの共同開発で提携",
+        "excerpt": "現代自動車グループと韓国航空宇宙産業（KAI）は5月8日、ソウルの本社で航空用電動化パワートレイン基盤のAAM機体共同開発に向けた業務協約を結んだ。",
+        "body": "現代自動車グループと韓国航空宇宙産業（KAI）が、未来航空モビリティ（AAM）の開発で手を組んだ。現代自動車グループは5月10日、ソウル市瑞草区良才洞の現代自動車・起亜本社で5月8日、「航空用電動化パワートレインを基盤とする未来航空モビリティ機体の共同開発に向けた業務協約」を締結したと明らかにした。今回の協約は、現代自動車グループの航空用電動化パワートレイン開発力と、KAIの航空機体開発力を活用し、競争力のあるAAMを開発して量産するためのものだ。AAMは人や貨物を空路で移動させる次世代航空交通モビリティを指し、「空飛ぶタクシー」に代表される都市航空交通（UAM）などが主な例だ。米国や中国などはすでにAAMの商用化に乗り出している。両社は技術と人的資源の共有に加え、今後はサプライチェーン、認証、顧客ネットワーク分野まで包括的に協力する方針だ。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "现代汽车集团与KAI携手开发未来航空出行AAM，推进机体量产合作",
+        "excerpt": "现代汽车集团与韩国航空宇宙产业（KAI）5月8日在首尔总部签署协议，将共同开发基于航空电动化动力总成的AAM机体。",
+        "body": "现代汽车集团与韩国航空宇宙产业（KAI）将携手开发未来航空出行（AAM）。现代汽车集团5月10日表示，双方已于5月8日在首尔瑞草区良才洞现代汽车·起亚总部签署“基于航空电动化动力总成的未来航空出行机体共同开发业务协议”。此次协议旨在结合现代汽车集团在航空电动化动力总成开发方面的能力，以及KAI在航空机体开发方面的能力，开发并量产具有竞争力的AAM。AAM是指通过空中航路运送人员或货物的下一代航空交通出行方式，以被称为“飞行出租车”的城市空中交通（UAM）等为代表。美国、中国等已开始推进AAM商业化。双方计划共享技术和人力资源，并将合作范围扩大至供应链、认证和客户网络等领域。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Hyundai Motor Group y KAI se alían para desarrollar y producir AAM del futuro",
+        "excerpt": "Hyundai Motor Group y Korea Aerospace Industries firmaron el 8 de mayo en Seúl un acuerdo para desarrollar conjuntamente aeronaves AAM con tren motriz electrificado de aviación.",
+        "body": "Hyundai Motor Group y Korea Aerospace Industries (KAI) han unido fuerzas para desarrollar la movilidad aérea avanzada (AAM) del futuro. Hyundai Motor Group informó el 10 de mayo que ambas compañías firmaron el 8 de mayo, en la sede de Hyundai Motor y Kia en Yangjae-dong, Seocho-gu, Seúl, un acuerdo para el desarrollo conjunto de aeronaves de movilidad aérea futura basadas en trenes motrices electrificados para aviación. El objetivo es combinar la capacidad de Hyundai Motor Group en el desarrollo de trenes motrices electrificados de aviación con la experiencia de KAI en desarrollo de fuselajes y aeronaves, para crear y producir en serie AAM competitivos. La AAM se refiere a la movilidad aérea de nueva generación que transporta personas o carga por rutas aéreas; la movilidad aérea urbana (UAM), representada por los “taxis voladores”, es un ejemplo clave. Estados Unidos y China ya han iniciado la comercialización de AAM. Las empresas compartirán tecnología y recursos humanos, y ampliarán la cooperación a cadena de suministro, certificación y redes de clientes. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Hyundai Motor Group e KAI fecham parceria para desenvolver e produzir AAM do futuro",
+        "excerpt": "Hyundai Motor Group e Korea Aerospace Industries assinaram em 8 de maio, em Seul, um acordo para desenvolver aeronaves AAM com powertrain eletrificado de aviação.",
+        "body": "Hyundai Motor Group e Korea Aerospace Industries (KAI) firmaram uma parceria para desenvolver a mobilidade aérea avançada (AAM) do futuro. O Hyundai Motor Group informou em 10 de maio que as duas empresas assinaram, em 8 de maio, na sede da Hyundai Motor e da Kia em Yangjae-dong, Seocho-gu, Seul, um acordo para o desenvolvimento conjunto de aeronaves de mobilidade aérea futura baseadas em powertrains eletrificados para aviação. O objetivo é unir a competência do Hyundai Motor Group no desenvolvimento de powertrains eletrificados de aviação à capacidade da KAI no desenvolvimento de aeronaves, para criar e produzir em série AAM competitivos. AAM é a mobilidade aérea de próxima geração que transporta pessoas ou cargas por rotas aéreas, com a mobilidade aérea urbana (UAM), conhecida por “táxis voadores”, como exemplo representativo. Estados Unidos e China já avançam na comercialização de AAM. As empresas também pretendem cooperar em tecnologia, recursos humanos, cadeia de suprimentos, certificação e redes de clientes. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Hyundai Motor Group und KAI kooperieren bei Entwicklung künftiger AAM-Fluggeräte",
+        "excerpt": "Hyundai Motor Group und Korea Aerospace Industries unterzeichneten am 8. Mai in Seoul eine Vereinbarung zur gemeinsamen Entwicklung von AAM-Fluggeräten auf Basis elektrifizierter Luftfahrtantriebe.",
+        "body": "Hyundai Motor Group und Korea Aerospace Industries (KAI) arbeiten künftig bei der Entwicklung von Advanced Air Mobility (AAM) zusammen. Hyundai Motor Group teilte am 10. Mai mit, dass beide Unternehmen am 8. Mai am Hauptsitz von Hyundai Motor und Kia in Yangjae-dong, Seocho-gu, Seoul, eine Absichtserklärung zur gemeinsamen Entwicklung von Fluggeräten für künftige Luftmobilität auf Basis elektrifizierter Luftfahrtantriebe unterzeichnet haben. Ziel der Vereinbarung ist es, die Entwicklungskompetenz von Hyundai Motor Group bei elektrifizierten Luftfahrtantrieben mit der Fluggeräte-Entwicklungskompetenz von KAI zu verbinden, um wettbewerbsfähige AAM-Lösungen zu entwickeln und in Serie zu produzieren. AAM bezeichnet eine nächste Generation des Luftverkehrs, die Menschen oder Fracht über Luftwege transportiert; ein typisches Beispiel ist Urban Air Mobility (UAM), häufig als „fliegendes Taxi“ beschrieben. Die USA und China haben bereits Schritte zur Kommerzialisierung von AAM eingeleitet. Die Partner wollen Technologie und Personalressourcen teilen und die Zusammenarbeit auf Lieferketten, Zertifizierung und Kundennetzwerke ausweiten. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Hyundai Motor Group et KAI s’allient pour développer et produire la future AAM",
+        "excerpt": "Hyundai Motor Group et Korea Aerospace Industries ont signé le 8 mai à Séoul un accord pour développer ensemble des appareils AAM fondés sur des groupes motopropulseurs électrifiés aéronautiques.",
+        "body": "Hyundai Motor Group et Korea Aerospace Industries (KAI) ont décidé de coopérer dans le développement de la mobilité aérienne avancée (AAM) du futur. Hyundai Motor Group a annoncé le 10 mai que les deux entreprises avaient signé, le 8 mai au siège de Hyundai Motor et Kia à Yangjae-dong, dans l’arrondissement de Seocho à Séoul, un protocole d’accord pour le développement conjoint d’appareils de mobilité aérienne future basés sur des groupes motopropulseurs électrifiés destinés à l’aviation. L’accord vise à associer les compétences de Hyundai Motor Group dans ces groupes motopropulseurs et l’expertise de KAI dans le développement d’aéronefs afin de concevoir et produire en série des AAM compétitives. L’AAM désigne une mobilité aérienne de nouvelle génération transportant personnes ou marchandises par voie aérienne; la mobilité aérienne urbaine (UAM), souvent représentée par les « taxis volants », en est un exemple. Les États-Unis et la Chine ont déjà engagé la commercialisation de l’AAM. Les partenaires partageront technologies et ressources humaines, et étendront leur coopération aux chaînes d’approvisionnement, à la certification et aux réseaux clients. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "هيونداي موتور غروب وKAI تتعاونان لتطوير طائرات التنقل الجوي المستقبلي AAM",
+        "excerpt": "وقعت هيونداي موتور غروب وكوريا لصناعات الفضاء KAI في 8 مايو بسيول اتفاقا لتطوير مشترك لهياكل AAM قائمة على منظومات دفع كهربائية للطيران.",
+        "body": "اتفقت هيونداي موتور غروب وكوريا لصناعات الفضاء (KAI) على التعاون في تطوير التنقل الجوي المتقدم المستقبلي (AAM). وقالت هيونداي موتور غروب في 10 مايو إن الشركتين وقعتا في 8 مايو، في مقر هيونداي موتور وكيا في يانغجاي دونغ بمنطقة سوتشو في سيول، مذكرة تفاهم للتطوير المشترك لهياكل تنقل جوي مستقبلية قائمة على منظومات دفع كهربائية مخصصة للطيران. ويهدف الاتفاق إلى الجمع بين قدرات هيونداي موتور غروب في تطوير منظومات الدفع الكهربائية للطيران وخبرات KAI في تطوير هياكل الطائرات، من أجل تطوير حلول AAM تنافسية وإنتاجها بكميات كبيرة. ويشير AAM إلى جيل جديد من النقل الجوي ينقل الأشخاص أو البضائع عبر المسارات الجوية، وتعد حركة النقل الجوي الحضري UAM، المعروفة بسيارات الأجرة الطائرة، مثالا بارزا عليه. وقد بدأت الولايات المتحدة والصين بالفعل خطوات تجارية في هذا المجال. وستتبادل الشركتان التكنولوجيا والموارد البشرية، مع توسيع التعاون إلى سلاسل الإمداد والاعتماد وشبكات العملاء. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Hyundai Motor Group और KAI भविष्य की AAM विमानन मोबिलिटी विकास में साथ आए",
+        "excerpt": "Hyundai Motor Group और Korea Aerospace Industries ने 8 मई को सियोल में विमानन इलेक्ट्रिफाइड पावरट्रेन आधारित AAM विमान के संयुक्त विकास के लिए समझौता किया।",
+        "body": "Hyundai Motor Group और Korea Aerospace Industries (KAI) ने भविष्य की एडवांस्ड एयर मोबिलिटी (AAM) विकसित करने के लिए हाथ मिलाया है। Hyundai Motor Group ने 10 मई को बताया कि दोनों कंपनियों ने 8 मई को सियोल के Seocho-gu स्थित Yangjae-dong में Hyundai Motor और Kia मुख्यालय में विमानन इलेक्ट्रिफाइड पावरट्रेन पर आधारित भविष्य की एयर मोबिलिटी विमान संरचना के संयुक्त विकास के लिए समझौता ज्ञापन पर हस्ताक्षर किए। इस समझौते का उद्देश्य Hyundai Motor Group की विमानन इलेक्ट्रिफाइड पावरट्रेन विकास क्षमता और KAI की विमान संरचना विकास क्षमता को मिलाकर प्रतिस्पर्धी AAM विकसित करना और उसका बड़े पैमाने पर उत्पादन करना है। AAM अगली पीढ़ी की हवाई परिवहन मोबिलिटी है, जो लोगों या माल को हवाई मार्ग से ले जाती है; “फ्लाइंग टैक्सी” के रूप में पहचानी जाने वाली अर्बन एयर मोबिलिटी (UAM) इसका प्रमुख उदाहरण है। अमेरिका और चीन पहले ही AAM के वाणिज्यीकरण की दिशा में बढ़ चुके हैं। दोनों कंपनियां तकनीक और मानव संसाधन साझा करेंगी तथा आपूर्ति श्रृंखला, प्रमाणन और ग्राहक नेटवर्क तक सहयोग बढ़ाएंगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Hyundai Motor Group dan KAI kerja sama kembangkan AAM masa depan untuk produksi massal",
+        "excerpt": "Hyundai Motor Group dan Korea Aerospace Industries menandatangani kesepakatan pada 8 Mei di Seoul untuk bersama mengembangkan wahana AAM berbasis powertrain elektrifikasi penerbangan.",
+        "body": "Hyundai Motor Group dan Korea Aerospace Industries (KAI) bekerja sama untuk mengembangkan advanced air mobility (AAM) masa depan. Hyundai Motor Group menyatakan pada 10 Mei bahwa kedua perusahaan menandatangani nota kesepahaman pada 8 Mei di kantor pusat Hyundai Motor dan Kia di Yangjae-dong, Seocho-gu, Seoul, untuk pengembangan bersama wahana mobilitas udara masa depan berbasis powertrain elektrifikasi penerbangan. Kesepakatan ini bertujuan menggabungkan kemampuan Hyundai Motor Group dalam pengembangan powertrain elektrifikasi penerbangan dengan kompetensi KAI dalam pengembangan badan pesawat, guna mengembangkan dan memproduksi massal AAM yang kompetitif. AAM adalah mobilitas transportasi udara generasi berikutnya yang memindahkan orang atau kargo melalui jalur udara; urban air mobility (UAM), yang dikenal sebagai “taksi terbang”, menjadi contoh utamanya. Amerika Serikat dan China telah memulai komersialisasi AAM. Kedua pihak akan berbagi teknologi dan sumber daya manusia, serta memperluas kerja sama ke rantai pasok, sertifikasi, dan jaringan pelanggan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "8a7eba9a9686",
+    "slug": "류재철-문제-드러내-실행-1등-lg전자-만들자-542106",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T17:42:13.595Z",
+    "updatedAt": "2026-05-10T17:42:13.595Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894071/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894071/2",
+    "titleFingerprint": "9b05d3fc41387f4aef1975f09ecd8fb6ffdd2a08",
+    "dedupKeys": [
+      "8a7eba9a9686c3335159194ca52451ffc45e35ca",
+      "9b05d3fc41387f4aef1975f09ecd8fb6ffdd2a08",
+      "bc2551efa714b87c7be9cc992971b29cd61bcad2"
+    ],
+    "imageUrl": "/images/articles/8a7eba9a9686.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 류재철 CEO, 첫 타운홀서 ‘문제 드러내기’ 실행 강조",
+        "excerpt": "류재철 LG전자 CEO가 최근 서울 LG사이언스파크 첫 타운홀 미팅에서 문제를 드러내고 경쟁 관점의 실행 속도를 점검해 1등 LG전자를 만들자고 밝혔다.",
+        "body": "류재철 LG전자 최고경영자(CEO·사장)는 최근 서울 강서구 LG사이언스파크에서 취임 이후 첫 타운홀 미팅을 열고 전체 구성원에게 “문제를 드러내고 이기는 실행에 집중해 1등 LG전자를 만들자”고 강조했다. LG전자가 10일 밝힌 내용에 따르면 류 사장은 이 자리에서 ‘문제 드러내기’와 ‘이기는 실행하기’를 핵심 경영철학으로 제시했다. 문제 드러내기는 해결해야 할 문제와 원인을 정확히 파악하고 주저 없이 공유하는 문화를 만들자는 뜻이다. 이기는 실행하기는 단순한 노력보다 실행 속도가 경쟁 관점에서 유효한지 점검하자는 취지다. 류 사장은 경영진부터 앞장서겠다고 밝히며 결과물을 먼저 생각하자고 말했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "LG Electronics CEO Ryu Jae-cheol Urges Open Problem-Solving at First Town Hall",
+        "excerpt": "LG Electronics CEO Ryu Jae-cheol told employees at his first town hall at LG Sciencepark in Seoul to expose problems and focus on execution that can win competitively.",
+        "body": "LG Electronics CEO and President Ryu Jae-cheol recently held his first town hall meeting since taking office at LG Sciencepark in Gangseo-gu, Seoul, telling all employees to “expose problems and focus on winning execution to build a No. 1 LG Electronics.” According to LG Electronics on the 10th, Ryu shared two management principles at the meeting: “exposing problems” and “executing to win.” Exposing problems means accurately identifying issues that must be solved and their causes, and creating a culture where they can be raised without hesitation. Executing to win means checking whether the speed of execution is effective from a competitive standpoint, beyond simply working hard. Ryu said management would lead efforts to make problem exposure a development opportunity and urged employees to think first about outcomes. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "LG電子の柳在哲CEO、初のタウンホールで「問題を出す実行」強調",
+        "excerpt": "LG電子の柳在哲CEOは最近、ソウルのLGサイエンスパークで初のタウンホールを開き、問題を明らかにし競争視点で実行速度を点検しようと呼びかけた。",
+        "body": "LG電子の柳在哲最高経営責任者（CEO・社長）は最近、ソウル市江西区のLGサイエンスパークで就任後初のタウンホールミーティングを開き、全社員に向けて「問題を明らかにし、勝つ実行に集中して1位のLG電子をつくろう」と強調した。LG電子が10日に明らかにしたところによると、柳社長はこの場で「問題を明らかにすること」と「勝つ実行をすること」という二つの経営哲学を共有した。問題を明らかにするとは、解決すべき問題と原因を正確に把握し、ためらわず共有できる文化をつくるという意味だ。勝つ実行とは、単に熱心に進めるだけでなく、実行の速度が競争の観点で有効かを点検する趣旨だ。柳社長は経営陣から率先すると述べ、成果を先に考えようと語った。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "LG电子CEO柳在哲首次市政厅会议强调揭示问题与制胜执行",
+        "excerpt": "LG电子CEO柳在哲近日在首尔LG Sciencepark首次市政厅会议上表示，应揭示问题、从竞争角度检查执行速度，打造第一LG电子。",
+        "body": "LG电子最高经营者（CEO、社长）柳在哲近日在首尔江西区LG Sciencepark举行就任后的首次市政厅会议，面向全体成员强调：“要揭示问题，集中于制胜执行，打造第一LG电子。”据LG电子10日公布，柳社长在会上分享了“揭示问题”和“进行制胜执行”两项经营理念。揭示问题是指准确掌握需要解决的问题及其原因，并建立能够毫不犹豫提出问题的文化。进行制胜执行则意在不止于单纯努力执行，还要从竞争角度检查执行速度是否有效。柳社长表示，管理层将率先努力营造把揭示问题视为发展机会的氛围，并要求先思考结果。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "CEO de LG Electronics Ryu Jae-cheol pide revelar problemas y ejecutar para ganar",
+        "excerpt": "Ryu Jae-cheol, CEO de LG Electronics, dijo en su primer town hall en LG Sciencepark de Seúl que la empresa debe revelar problemas y revisar la velocidad de ejecución competitiva.",
+        "body": "Ryu Jae-cheol, CEO y presidente de LG Electronics, celebró recientemente su primera reunión town hall desde que asumió el cargo en LG Sciencepark, en Gangseo-gu, Seúl, y pidió a todos los empleados “revelar los problemas y concentrarse en una ejecución ganadora para crear una LG Electronics número uno”. Según informó LG Electronics el día 10, Ryu compartió dos filosofías de gestión: “revelar problemas” y “ejecutar para ganar”. Revelar problemas significa identificar con precisión los asuntos que deben resolverse y sus causas, y crear una cultura en la que puedan exponerse sin vacilación. Ejecutar para ganar busca comprobar si la velocidad de ejecución es válida desde una perspectiva competitiva, más allá de trabajar duro. Ryu dijo que la dirección tomará la iniciativa y pidió pensar primero en los resultados. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "CEO da LG Electronics Ryu Jae-cheol defende revelar problemas e executar para vencer",
+        "excerpt": "Ryu Jae-cheol, CEO da LG Electronics, afirmou em seu primeiro town hall no LG Sciencepark, em Seul, que a empresa deve expor problemas e avaliar a execução pela competição.",
+        "body": "Ryu Jae-cheol, CEO e presidente da LG Electronics, realizou recentemente seu primeiro town hall desde que assumiu o cargo no LG Sciencepark, em Gangseo-gu, Seul, e disse aos funcionários que é preciso “revelar problemas e focar em uma execução vencedora para construir uma LG Electronics número um”. Segundo a LG Electronics informou no dia 10, Ryu apresentou duas filosofias de gestão: “revelar problemas” e “executar para vencer”. Revelar problemas significa identificar com precisão os problemas a resolver e suas causas, criando uma cultura em que eles possam ser expostos sem hesitação. Executar para vencer significa verificar se a velocidade da execução é eficaz sob a ótica competitiva, além de apenas trabalhar duro. Ryu afirmou que a liderança tomará a dianteira e pediu foco primeiro nos resultados. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "LG-Electronics-CEO Ryu Jae-cheol fordert Offenlegen von Problemen und Siegerausführung",
+        "excerpt": "LG-Electronics-CEO Ryu Jae-cheol sagte bei seinem ersten Town Hall im LG Sciencepark in Seoul, Probleme müssten offengelegt und die Umsetzung wettbewerblich geprüft werden.",
+        "body": "Ryu Jae-cheol, CEO und Präsident von LG Electronics, hat kürzlich im LG Sciencepark im Seouler Bezirk Gangseo sein erstes Town-Hall-Meeting seit Amtsantritt abgehalten. Vor allen Beschäftigten betonte er, man solle „Probleme offenlegen und sich auf siegreiche Umsetzung konzentrieren, um LG Electronics zur Nummer eins zu machen“. Wie LG Electronics am 10. mitteilte, stellte Ryu dort zwei Managementprinzipien vor: „Probleme offenlegen“ und „siegreich umsetzen“. Probleme offenzulegen bedeutet, zu lösende Themen und deren Ursachen genau zu erkennen und eine Kultur zu schaffen, in der sie ohne Zögern angesprochen werden. Siegreich umzusetzen heißt, nicht nur hart zu arbeiten, sondern zu prüfen, ob die Umsetzungsgeschwindigkeit im Wettbewerb wirksam ist. Ryu sagte, die Führung werde vorangehen, und rief dazu auf, zuerst an Ergebnisse zu denken. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le CEO de LG Electronics Ryu Jae-cheol prône l’exposition des problèmes et l’exécution gagnante",
+        "excerpt": "Ryu Jae-cheol, CEO de LG Electronics, a déclaré lors de son premier town hall au LG Sciencepark de Séoul qu’il fallait révéler les problèmes et vérifier la vitesse d’exécution.",
+        "body": "Ryu Jae-cheol, CEO et président de LG Electronics, a récemment tenu son premier town hall depuis sa prise de fonctions au LG Sciencepark, dans l’arrondissement de Gangseo à Séoul. Devant l’ensemble des employés, il a appelé à “révéler les problèmes et se concentrer sur une exécution gagnante afin de faire de LG Electronics le numéro un”. Selon LG Electronics le 10, Ryu a partagé deux philosophies de gestion: “révéler les problèmes” et “exécuter pour gagner”. Révéler les problèmes signifie cerner précisément les sujets à résoudre et leurs causes, puis créer une culture où ils peuvent être exposés sans hésitation. Exécuter pour gagner consiste à vérifier si la vitesse d’exécution est valable du point de vue concurrentiel, au-delà du simple effort. Ryu a dit que la direction montrerait l’exemple et a demandé de penser d’abord aux résultats. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "رئيس LG Electronics ريو جيه-تشول يدعو لكشف المشكلات وتنفيذ يحقق الفوز",
+        "excerpt": "قال ريو جيه-تشول، الرئيس التنفيذي لشركة LG Electronics، في أول اجتماع عام له في LG Sciencepark بسيول إن على الشركة كشف المشكلات وفحص سرعة التنفيذ من منظور تنافسي.",
+        "body": "عقد ريو جيه-تشول، الرئيس التنفيذي ورئيس LG Electronics، مؤخرا أول اجتماع عام له منذ توليه المنصب في LG Sciencepark بمنطقة غانغسيو في سيول، وقال للموظفين إن عليهم “كشف المشكلات والتركيز على تنفيذ يحقق الفوز لصنع LG Electronics في المركز الأول”. وبحسب ما أعلنته LG Electronics في العاشر، شارك ريو فلسفتين إداريتين هما “كشف المشكلات” و“تنفيذ يحقق الفوز”. ويعني كشف المشكلات تحديد القضايا التي يجب حلها وأسبابها بدقة، وبناء ثقافة تسمح بإظهارها من دون تردد. أما التنفيذ الذي يحقق الفوز فيعني عدم الاكتفاء بالعمل الجاد، بل فحص ما إذا كانت سرعة التنفيذ فعالة من منظور المنافسة. وقال ريو إن الإدارة ستقود الجهود أولا، ودعا إلى التفكير في النتائج قبل كل شيء. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "LG Electronics CEO र्यू जे-चोल ने पहली टाउनहॉल में समस्याएं सामने लाने पर जोर दिया",
+        "excerpt": "LG Electronics के CEO र्यू जे-चोल ने सियोल के LG Sciencepark में अपनी पहली टाउनहॉल बैठक में कहा कि कंपनी को समस्याएं सामने लाकर प्रतिस्पर्धी निष्पादन पर ध्यान देना चाहिए।",
+        "body": "LG Electronics के मुख्य कार्यकारी अधिकारी और अध्यक्ष र्यू जे-चोल ने हाल ही में सियोल के गांगसियो-गु स्थित LG Sciencepark में पद संभालने के बाद अपनी पहली टाउनहॉल बैठक की। सभी कर्मचारियों से उन्होंने कहा कि “समस्याओं को सामने लाकर और जीतने वाले निष्पादन पर ध्यान देकर नंबर वन LG Electronics बनाएं।” LG Electronics ने 10 तारीख को बताया कि र्यू ने बैठक में दो प्रबंधन दर्शन साझा किए: “समस्याएं सामने लाना” और “जीतने वाला निष्पादन करना।” समस्याएं सामने लाने का अर्थ है हल की जाने वाली समस्याओं और उनके कारणों को सही ढंग से पहचानना तथा ऐसी संस्कृति बनाना जिसमें उन्हें बिना झिझक बताया जा सके। जीतने वाला निष्पादन केवल मेहनत करने से आगे बढ़कर यह जांचने का आग्रह है कि निष्पादन की गति प्रतिस्पर्धा के लिहाज से प्रभावी है या नहीं। र्यू ने कहा कि प्रबंधन पहले आगे आएगा और परिणामों को पहले सोचने को कहा। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "CEO LG Electronics Ryu Jae-cheol Tekankan Budaya Ungkap Masalah dan Eksekusi Menang",
+        "excerpt": "CEO LG Electronics Ryu Jae-cheol dalam town hall pertamanya di LG Sciencepark Seoul meminta karyawan mengungkap masalah dan memeriksa kecepatan eksekusi secara kompetitif.",
+        "body": "Ryu Jae-cheol, CEO dan Presiden LG Electronics, baru-baru ini menggelar town hall pertama sejak menjabat di LG Sciencepark, Gangseo-gu, Seoul. Kepada seluruh karyawan, ia menekankan agar mereka “mengungkap masalah dan fokus pada eksekusi yang menang untuk menjadikan LG Electronics nomor satu.” Menurut LG Electronics pada tanggal 10, Ryu membagikan dua filosofi manajemen dalam pertemuan itu: “mengungkap masalah” dan “melakukan eksekusi yang menang.” Mengungkap masalah berarti memahami secara tepat masalah yang harus diselesaikan beserta penyebabnya, serta menciptakan budaya yang memungkinkan masalah disampaikan tanpa ragu. Eksekusi yang menang berarti tidak sekadar bekerja keras, tetapi memeriksa apakah kecepatan eksekusi efektif dari sudut pandang persaingan. Ryu mengatakan manajemen akan memimpin upaya tersebut dan meminta karyawan memikirkan hasil terlebih dahulu. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "aa90ae5b7105",
+    "slug": "고물가에-끼니-해결-힘드시죠-편의점-간편식-경쟁-884030",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T17:41:08.563Z",
+    "updatedAt": "2026-05-10T17:41:08.564Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894075/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894075/2",
+    "titleFingerprint": "1aa08fda24d4a52c7c0822b2eec1cf7c9f45f3b5",
+    "dedupKeys": [
+      "aa90ae5b7105882d4b48ab385e7a0f062083c425",
+      "1aa08fda24d4a52c7c0822b2eec1cf7c9f45f3b5",
+      "dcf9d26536b2b529aaaaf62422663873d415c3ea"
+    ],
+    "imageUrl": "/images/articles/aa90ae5b7105.jpg",
+    "i18n": {
+      "ko": {
+        "title": "편의점 간편식 경쟁 가열, 고물가 속 세븐일레븐·CU 상품 강화",
+        "excerpt": "고물가로 편의점에서 끼니를 해결하는 소비자가 늘자 세븐일레븐과 CU가 10일 건강 간편식과 즉석 조리 메뉴를 앞세워 상품 경쟁력을 높이고 있다.",
+        "body": "고물가로 외식 부담이 커지면서 편의점에서 끼니를 해결하는 소비자가 늘고 있다. 이에 편의점 업계는 젊은층과 직장인의 일상식으로 자리 잡은 간편식 경쟁력을 강화하고 있다. 세븐일레븐은 10일 건강 간편식 브랜드 ‘밸런스푼(BalanSpoon)’을 선보인다고 밝혔다. ‘나를 위한 건강 한 스푼’이라는 의미를 담은 브랜드로, 건강을 중시하는 소비 흐름을 반영했다. 세븐일레븐은 베이커리, 김밥류, 샌드위치 등 간편식을 5대 중점 카테고리로 정해 상품 경쟁력을 높이고 있다. 3월에는 밥 식감을 개선한 삼각김밥을 출시했고, 4월에는 ‘세븐셀렉트 숨결통식빵’을 내놨다. 이 식빵은 출시 3주 만에 누적 판매량 10만 개를 돌파했다. CU는 즉석 라면 조리기를 활용한 메뉴를 강화 중이며, 지난달 출시한 ‘미정당 즉석 떡볶이’는 한 달 만에 누적 판매량 3만 개를 넘었다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Convenience Meal Competition Heats Up as 7-Eleven and CU Strengthen Menus",
+        "excerpt": "As high prices drive more consumers to solve meals at convenience stores, 7-Eleven and CU are boosting ready-meal competitiveness with health-focused and instant-cooking items.",
+        "body": "As high prices increase the burden of eating out, more consumers are turning to convenience stores for meals. In response, the convenience store industry is strengthening ready-meal competitiveness as these foods become everyday options for young consumers and office workers. 7-Eleven said on the 10th that it is launching the healthy ready-meal brand “BalanSpoon.” The name means “a healthy spoonful for me” and reflects the spread of health-conscious consumption. 7-Eleven has selected ready-meal categories such as bakery items, gimbap and sandwiches as five key focus areas to improve product competitiveness. In March, it released triangle gimbap with improved rice texture, followed in April by “7-Select Sumgyeoltong Bread.” The bread surpassed 100,000 cumulative sales within three weeks of launch. CU is strengthening menus using instant ramen cookers, and its “Mijeongdang Instant Tteokbokki,” launched last month, exceeded 30,000 cumulative sales in one month. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "コンビニ簡便食競争が加速、物価高でセブンイレブンとCUが強化",
+        "excerpt": "物価高でコンビニで食事を済ませる消費者が増えるなか、セブンイレブンとCUは10日、健康簡便食や即席調理メニューで競争力を高めている。",
+        "body": "物価高で外食の負担が大きくなり、コンビニで食事を済ませる消費者が増えている。これを受け、コンビニ業界は若年層や会社員の日常食として定着しつつある簡便食の競争力を強化している。セブンイレブンは10日、健康簡便食ブランド「BalanSpoon（バランスプーン）」を展開すると明らかにした。名称には「自分のための健康な一さじ」という意味を込め、健康を重視する消費傾向を反映した。セブンイレブンはベーカリー、キンパ類、サンドイッチなどの簡便食を5大重点カテゴリーに定め、商品競争力を高めている。3月にはご飯の食感を改善した三角キンパを発売し、4月には「セブンセレクト スムギョルトン食パン」を投入した。同食パンは発売3週間で累計販売10万個を突破した。CUは即席ラーメン調理器を活用したメニューを強化しており、先月発売した「ミジョンダン即席トッポッキ」は1カ月で累計販売3万個を超えた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "便利店简餐竞争升温，高物价下7-Eleven与CU强化商品",
+        "excerpt": "高物价促使更多消费者到便利店解决用餐，7-Eleven和CU于10日围绕健康简餐和即时烹调菜单提升商品竞争力。",
+        "body": "随着高物价加重外出就餐负担，越来越多消费者选择在便利店解决一餐。便利店行业因此强化简餐竞争力，因为这类食品正成为年轻人和上班族的日常餐食。7-Eleven于10日表示，将推出健康简餐品牌“BalanSpoon”。该名称含有“为自己的健康一勺”之意，反映了重视健康的消费趋势扩散。7-Eleven将烘焙食品、紫菜包饭类、三明治等简餐列为五大重点品类，以提升商品竞争力。3月，该公司推出改善米饭口感的三角紫菜包饭，4月又推出“Seven Select Sumgyeoltong吐司”。该吐司上市三周累计销量突破10万个。CU则在强化利用即时拉面烹调机的菜单，上月推出的“Mijeongdang即时炒年糕”上市一个月累计销量超过3万个。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Comidas listas en tiendas: 7-Eleven y CU refuerzan su oferta por la inflación",
+        "excerpt": "Con los altos precios llevando a más consumidores a comer en tiendas de conveniencia, 7-Eleven y CU refuerzan sus comidas listas con opciones saludables e instantáneas.",
+        "body": "A medida que los altos precios elevan la carga de comer fuera, más consumidores recurren a las tiendas de conveniencia para resolver sus comidas. En respuesta, el sector está fortaleciendo la competitividad de las comidas listas, que se han convertido en una opción cotidiana para jóvenes y trabajadores de oficina. 7-Eleven informó el día 10 que lanzará la marca de comida saludable lista “BalanSpoon”. El nombre significa “una cucharada saludable para mí” y refleja la expansión de una tendencia de consumo centrada en la salud. 7-Eleven ha elegido categorías como panadería, gimbap y sándwiches entre cinco áreas clave para mejorar su oferta. En marzo lanzó un gimbap triangular con mejor textura del arroz y en abril presentó “7-Select Sumgyeoltong Bread”. Ese pan superó las 100.000 unidades vendidas en tres semanas. CU fortalece menús que usan cocedores instantáneos de ramen; su “Mijeongdang Instant Tteokbokki”, lanzado el mes pasado, superó 30.000 ventas acumuladas en un mes. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Comidas prontas em lojas ganham força com 7-Eleven e CU sob alta de preços",
+        "excerpt": "Com a inflação levando mais consumidores a fazer refeições em lojas de conveniência, 7-Eleven e CU reforçam comidas prontas saudáveis e menus instantâneos.",
+        "body": "Com os preços elevados aumentando o peso de comer fora, mais consumidores procuram lojas de conveniência para resolver suas refeições. Diante disso, o setor reforça a competitividade das comidas prontas, que se tornaram parte da rotina de jovens e trabalhadores de escritório. A 7-Eleven informou no dia 10 que lançará a marca de comida pronta saudável “BalanSpoon”. O nome significa “uma colher saudável para mim” e reflete a tendência de consumo voltada à saúde. A 7-Eleven definiu itens de padaria, gimbap e sanduíches, entre outros, como cinco categorias prioritárias para elevar a competitividade dos produtos. Em março, lançou gimbap triangular com textura de arroz melhorada e, em abril, apresentou o “7-Select Sumgyeoltong Bread”. O pão ultrapassou 100 mil unidades vendidas em três semanas. A CU fortalece menus com máquinas de preparo instantâneo de ramen; o “Mijeongdang Instant Tteokbokki”, lançado no mês passado, passou de 30 mil vendas acumuladas em um mês. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Fertiggerichte im Convenience-Store: 7-Eleven und CU bauen Angebot aus",
+        "excerpt": "Weil hohe Preise mehr Verbraucher für Mahlzeiten in Convenience-Stores bringen, stärken 7-Eleven und CU ihre Fertiggerichte mit gesunden und sofort zubereiteten Angeboten.",
+        "body": "Da hohe Preise Restaurantbesuche stärker belasten, lösen mehr Verbraucher ihre Mahlzeiten in Convenience-Stores. Die Branche stärkt daher die Wettbewerbsfähigkeit von Fertiggerichten, die sich bei jungen Menschen und Büroangestellten als Alltagsmahlzeit etabliert haben. 7-Eleven teilte am 10. mit, die Marke für gesunde Fertiggerichte „BalanSpoon“ einzuführen. Der Name bedeutet „ein gesunder Löffel für mich“ und greift den wachsenden Gesundheitstrend der Verbraucher auf. 7-Eleven hat Fertiggerichte wie Backwaren, Gimbap und Sandwiches zu fünf Schwerpunktkategorien bestimmt, um die Produktstärke auszubauen. Im März brachte das Unternehmen Dreiecks-Gimbap mit verbesserter Reistextur heraus, im April folgte „7-Select Sumgyeoltong Bread“. Dieses Brot überschritt innerhalb von drei Wochen 100.000 verkaufte Einheiten. CU stärkt Menüs mit Instant-Ramen-Kochgeräten; das im vergangenen Monat eingeführte „Mijeongdang Instant Tteokbokki“ erreichte in einem Monat mehr als 30.000 kumulierte Verkäufe. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Repas prêts en supérette: 7-Eleven et CU renforcent leur offre avec l’inflation",
+        "excerpt": "Face aux prix élevés, davantage de consommateurs mangent en supérette; 7-Eleven et CU renforcent donc leurs repas prêts avec des produits santé et instantanés.",
+        "body": "Avec la hausse des prix qui alourdit le coût des repas à l’extérieur, davantage de consommateurs se tournent vers les supérettes pour se nourrir. Le secteur renforce ainsi la compétitivité des repas prêts, devenus une option quotidienne pour les jeunes et les employés de bureau. 7-Eleven a annoncé le 10 le lancement de la marque de repas prêts sains “BalanSpoon”. Son nom signifie “une cuillerée saine pour moi” et reflète l’essor d’une consommation attentive à la santé. 7-Eleven a désigné les produits de boulangerie, les gimbap et les sandwichs, entre autres, comme cinq catégories prioritaires afin d’améliorer son offre. En mars, l’enseigne a lancé un gimbap triangulaire avec une meilleure texture de riz, puis en avril le “7-Select Sumgyeoltong Bread”. Ce pain a dépassé 100.000 ventes cumulées en trois semaines. CU renforce les menus utilisant des cuiseurs instantanés de ramen; son “Mijeongdang Instant Tteokbokki”, lancé le mois dernier, a dépassé 30.000 ventes cumulées en un mois. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "منافسة الوجبات الجاهزة في المتاجر تشتد مع تعزيز 7-Eleven وCU لعروضهما",
+        "excerpt": "مع دفع الأسعار المرتفعة مزيدا من المستهلكين إلى تناول وجباتهم في متاجر الراحة، تعزز 7-Eleven وCU وجبات صحية جاهزة وقوائم تحضير فوري.",
+        "body": "مع ارتفاع الأسعار وزيادة عبء تناول الطعام خارج المنزل، يتجه مزيد من المستهلكين إلى متاجر الراحة لتأمين وجباتهم. وردا على ذلك، تعزز الصناعة تنافسية الوجبات الجاهزة التي أصبحت طعاما يوميا للشباب والموظفين. أعلنت 7-Eleven في العاشر من الشهر إطلاق علامة الوجبات الصحية الجاهزة “BalanSpoon”. ويحمل الاسم معنى “ملعقة صحية من أجلي”، بما يعكس اتساع توجه المستهلكين نحو الصحة. وحددت 7-Eleven الوجبات الجاهزة مثل المخبوزات وأنواع الغيمباب والسندويتشات ضمن خمس فئات تركيز رئيسية لرفع تنافسية المنتجات. في مارس طرحت غيمبابا مثلثا بقوام أرز محسّن، ثم قدمت في أبريل “7-Select Sumgyeoltong Bread”. وتجاوز هذا الخبز 100 ألف وحدة مباعة خلال ثلاثة أسابيع من إطلاقه. أما CU فتعزز قوائم تستخدم أجهزة طهي الرامن الفوري، وقد تجاوز “Mijeongdang Instant Tteokbokki” الذي طرح الشهر الماضي 30 ألف وحدة مباعة خلال شهر واحد. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "महंगाई में सुविधा स्टोर भोजन की होड़ तेज, 7-Eleven और CU ने मेनू बढ़ाए",
+        "excerpt": "ऊंची कीमतों के कारण अधिक लोग सुविधा स्टोर में भोजन कर रहे हैं, इसलिए 7-Eleven और CU स्वास्थ्य-केंद्रित रेडी मील और इंस्टेंट मेनू मजबूत कर रहे हैं।",
+        "body": "ऊंची कीमतों से बाहर खाने का बोझ बढ़ने के साथ अधिक उपभोक्ता भोजन के लिए सुविधा स्टोर का रुख कर रहे हैं। इसके जवाब में उद्योग रेडी मील की प्रतिस्पर्धा मजबूत कर रहा है, जो युवाओं और कार्यालय कर्मचारियों के दैनिक भोजन के रूप में जगह बना रहे हैं। 7-Eleven ने 10 तारीख को कहा कि वह स्वास्थ्य-केंद्रित रेडी मील ब्रांड “BalanSpoon” पेश करेगा। नाम का अर्थ “मेरे लिए स्वास्थ्य की एक चम्मच” है और यह स्वास्थ्य को महत्व देने वाली उपभोक्ता प्रवृत्ति को दर्शाता है। 7-Eleven ने बेकरी, गिम्बाप और सैंडविच जैसे रेडी मील को पांच प्रमुख श्रेणियों में रखकर उत्पाद प्रतिस्पर्धा बढ़ाई है। मार्च में उसने बेहतर चावल बनावट वाला त्रिकोण गिम्बाप लॉन्च किया और अप्रैल में “7-Select Sumgyeoltong Bread” पेश किया। इस ब्रेड की बिक्री लॉन्च के तीन सप्ताह में 100,000 इकाइयों से अधिक हो गई। CU इंस्टेंट रेमन कुकर का उपयोग करने वाले मेनू मजबूत कर रहा है; पिछले महीने लॉन्च “Mijeongdang Instant Tteokbokki” ने एक महीने में 30,000 से अधिक संचयी बिक्री दर्ज की। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Persaingan Makanan Praktis Minimarket Menguat, 7-Eleven dan CU Perluas Menu",
+        "excerpt": "Saat harga tinggi membuat lebih banyak konsumen makan di minimarket, 7-Eleven dan CU memperkuat makanan praktis lewat merek sehat dan menu masak instan.",
+        "body": "Seiring harga tinggi menambah beban makan di luar, semakin banyak konsumen memilih minimarket untuk memenuhi kebutuhan makan. Karena itu, industri minimarket memperkuat daya saing makanan praktis yang mulai menjadi makanan harian bagi anak muda dan pekerja kantor. 7-Eleven pada tanggal 10 menyatakan akan meluncurkan merek makanan praktis sehat “BalanSpoon”. Nama itu berarti “satu sendok sehat untuk saya” dan mencerminkan tren konsumsi yang makin menekankan kesehatan. 7-Eleven menetapkan makanan praktis seperti bakery, gimbap, dan sandwich sebagai lima kategori fokus untuk meningkatkan daya saing produk. Pada Maret, perusahaan merilis gimbap segitiga dengan tekstur nasi yang diperbaiki, lalu pada April memperkenalkan “7-Select Sumgyeoltong Bread”. Roti itu melampaui penjualan kumulatif 100.000 unit dalam tiga minggu sejak diluncurkan. CU memperkuat menu yang memakai alat masak ramen instan; “Mijeongdang Instant Tteokbokki” yang dirilis bulan lalu melewati 30.000 penjualan kumulatif dalam satu bulan. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "c5f622240c4f",
     "slug": "홈플러스-37개-점포-영업-잠정-중단-604807",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Sistem Promosi KOSDAQ Diperkirakan Mulai Oktober, Liga Premium Maksimal 100 Emiten",
         "excerpt": "Pemerintah Korea Selatan dan Korea Exchange diperkirakan menjalankan sistem baru KOSDAQ mulai Oktober, membagi emiten ke liga premium, standar, dan manajemen.",
         "body": "Pemerintah Korea Selatan dan Korea Exchange diperkirakan mulai menjalankan sistem “promosi dan degradasi” KOSDAQ paling cepat pada Oktober tahun ini untuk mengaktifkan kembali pasar. Rancangannya membagi perusahaan tercatat KOSDAQ ke dalam tiga liga: premium, standar, dan kelompok manajemen. Inti kebijakan ini adalah menyaring liga premium sebagai tingkat teratas menjadi tidak lebih dari 100 perusahaan, sehingga emiten berkualitas di pasar dapat dibedakan lebih jelas. Penerapan struktur peringkat ini bertujuan memberi investor informasi yang lebih jelas berdasarkan kelompok perusahaan dan mendorong aktivitas pasar KOSDAQ. Rincian operasional kemungkinan akan diumumkan mendekati waktu penerapan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "93fba220d72e",
-    "slug": "인턴-경험이-정규직으로-서울시-청년-83만-명에-일자리-디딤돌-131990",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T07:42:44.258Z",
-    "updatedAt": "2026-05-10T07:42:44.258Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Society/article/all/20260510/133892674/1",
-    "canonicalUrl": "https://www.donga.com/news/Society/article/all/20260510/133892674/1",
-    "titleFingerprint": "313522a8b543259965b084674d89aca7ab2040fb",
-    "dedupKeys": [
-      "93fba220d72e9d9207d5df4db9c1e46d8e6ee989",
-      "313522a8b543259965b084674d89aca7ab2040fb",
-      "d5c2ff108e63e2faa3a289bb8910a827dbdb7142"
-    ],
-    "imageUrl": "/images/articles/93fba220d72e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "서울시 청년 일자리 정책, 인턴십에서 정규직까지 83만 명 디딤돌",
-        "excerpt": "서울시는 2021년부터 지난해까지 2차 청년정책 기본계획을 통해 일자리·주거·복지 등 73개 사업으로 청년 83만 명을 지원했다.",
-        "body": "서울시가 2021년부터 지난해까지 5년간 ‘2차 청년정책 기본계획’을 통해 청년 83만 명에게 일자리와 생활 기반을 지원했다. 대학에서 수학과 정보시스템공학을 전공한 안혜림 씨는 지난해 부동산 데이터 분석 업체 인턴으로 일하며 데이터 분석과 AI 도구를 활용한 전처리 업무를 익혔고, 성과를 인정받아 같은 해 정규직으로 채용됐다. 안 씨가 참여한 ‘미래 청년 일자리 사업’은 AI·바이오 등 신산업 기업과 취업 청년을 연결하는 채용 연계형 인턴십이다. 서울시는 일자리, 금융·복지, 교육·문화, 주거, 참여·권리 등 5개 분야 73개 사업에 7451억 원을 투입해 코로나19 이후 채용 감소와 ‘쉬었음 청년’ 증가에 대응해 왔다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Seoul Youth Jobs Policy Links Internships to Full-Time Work for 830,000 Young People",
-        "excerpt": "From 2021 through last year, Seoul supported 830,000 young people through 73 programs covering jobs, housing, welfare, education and rights.",
-        "body": "Seoul supported 830,000 young people over five years from 2021 through last year under its second basic youth policy plan. Ahn Hye-rim, 26, who majored in mathematics and information systems engineering, worked last year as an intern at a real estate data analytics company. There, she handled data analysis, learned data preprocessing with AI tools, and was hired as a full-time employee the same year after her performance was recognized. Ahn joined the internship through Seoul’s Future Youth Jobs project, which connects young job seekers with companies in new industries such as AI and bio. Seoul said it carried out 73 projects across jobs, finance and welfare, education and culture, housing, and participation and rights, investing 745.1 billion won to respond to reduced hiring after COVID-19 and the rise in young people outside work or school. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "ソウル市の若者雇用政策、インターンから正社員へ83万人を支援",
-        "excerpt": "ソウル市は2021年から昨年まで、第2次青年政策基本計画に基づき、雇用・住居・福祉など73事業で若者83万人を支援した。",
-        "body": "ソウル市は2021年から昨年までの5年間、「第2次青年政策基本計画」を通じて若者83万人の雇用と生活基盤を支援した。大学で数学と情報システム工学を専攻したアン・ヘリムさん（26）は昨年、 不動産データ分析会社でインターンとして働き、専攻を生かしてデータ分析を担当した。AIツールを使ったデータ前処理も学び、成果を認められて同じ年に正社員として採用された。アンさんが参加したのは、ソウル市主導の「未来青年雇用事業」による採用連携型インターンシップだった。同事業はAIやバイオなど新産業分野の企業と就職を目指す若者を結び付ける。市は雇用、金融・福祉、教育・文化、住居、参加・権利の5分野73事業に7451億ウォンを投じ、コロナ後の採用減少と「休んでいる若者」の増加に対応してきた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "首尔青年就业政策助83万人，把实习经历接到正式岗位",
-        "excerpt": "首尔市自2021年至去年通过第二期青年政策基本计划，在就业、住房、福利等73个项目中支持83万名青年。",
-        "body": "首尔市从2021年至去年5年间，通过“第二期青年政策基本计划”为83万名青年提供就业和生活基础支持。大学主修数学和信息系统工程的安惠林（26岁）去年在一家房地产数据分析企业实习，负责与专业相关的数据分析工作，并学习了使用人工智能工具进行数据预处理的方法。因表现获得认可，她同年被录用为正式员工。安惠林参与的是首尔市主办的“未来青年就业项目”中的招聘衔接型实习。该项目把希望就业的青年与人工智能、生物等引领未来变化的新产业企业连接起来。首尔市在就业、金融与福利、教育与文化、住房、参与与权利等5大领域推进73个项目，投入7451亿韩元，应对新冠疫情后企业招聘减少和“休息青年”增加。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Seúl impulsa empleo joven: pasantías que llevan a puestos fijos para 830.000",
-        "excerpt": "Entre 2021 y el año pasado, Seúl apoyó a 830.000 jóvenes con 73 programas de empleo, vivienda, bienestar, educación, cultura y derechos.",
-        "body": "Seúl apoyó durante cinco años, desde 2021 hasta el año pasado, a 830.000 jóvenes mediante su segundo plan básico de política juvenil. Ahn Hye-rim, de 26 años, graduada en matemáticas e ingeniería de sistemas de información, trabajó el año pasado como pasante en una empresa de análisis de datos inmobiliarios. Allí realizó tareas de análisis de datos, aprendió preprocesamiento con herramientas de inteligencia artificial y fue contratada como empleada fija ese mismo año tras ser reconocida por su desempeño. Ahn participó en una pasantía vinculada a contratación dentro del proyecto Empleos Juveniles del Futuro de Seúl, que conecta a jóvenes con empresas de nuevas industrias como IA y bio. La ciudad desarrolló 73 proyectos en empleo, finanzas y bienestar, educación y cultura, vivienda, participación y derechos, con una inversión de 745.100 millones de wones para responder a la caída de contrataciones tras la COVID-19 y al aumento de jóvenes inactivos. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Seul liga estágio a emprego fixo e apoia 830 mil jovens em política de trabalho",
-        "excerpt": "De 2021 até o ano passado, Seul apoiou 830 mil jovens com 73 programas em emprego, moradia, bem-estar, educação, cultura e direitos.",
-        "body": "Seul apoiou 830 mil jovens ao longo de cinco anos, de 2021 até o ano passado, por meio do segundo plano básico de política juvenil. Ahn Hye-rim, de 26 anos, formada em matemática e engenharia de sistemas de informação, trabalhou no ano passado como estagiária em uma empresa de análise de dados imobiliários. Lá, atuou em análise de dados, aprendeu pré-processamento com ferramentas de inteligência artificial e foi contratada como funcionária efetiva no mesmo ano após ter seu desempenho reconhecido. Ahn participou do projeto Empregos Juvenis do Futuro de Seul, um estágio vinculado à contratação que conecta jovens a empresas de novos setores, como IA e bio. A cidade executou 73 projetos em emprego, finanças e bem-estar, educação e cultura, moradia, participação e direitos, com investimento de 745,1 bilhões de wones para responder à redução de contratações após a COVID-19 e ao aumento de jovens fora do trabalho. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Seoul macht Praktika zum Jobpfad und unterstützt 830.000 junge Menschen",
-        "excerpt": "Von 2021 bis zum vergangenen Jahr unterstützte Seoul 830.000 junge Menschen mit 73 Programmen für Arbeit, Wohnen, Wohlfahrt, Bildung und Rechte.",
-        "body": "Seoul hat von 2021 bis zum vergangenen Jahr über fünf Jahre hinweg im Rahmen seines zweiten Jugendpolitik-Grundplans 830.000 junge Menschen unterstützt. Ahn Hye-rim, 26, die Mathematik und Informationssystemtechnik studiert hatte, arbeitete im vergangenen Jahr als Praktikantin bei einem Unternehmen für Immobiliendatenanalyse. Dort übernahm sie Datenanalyse, lernte die Vorverarbeitung von Daten mit KI-Werkzeugen und wurde nach Anerkennung ihrer Leistung noch im selben Jahr fest angestellt. Ahn nahm über das von Seoul geleitete Projekt Future Youth Jobs an einem einstellungsverbundenen Praktikum teil. Das Programm verbindet junge Arbeitssuchende mit Unternehmen in neuen Branchen wie KI und Bio. Seoul setzte 73 Projekte in den Bereichen Arbeit, Finanzen und Wohlfahrt, Bildung und Kultur, Wohnen sowie Teilhabe und Rechte um und investierte 745,1 Milliarden Won, um auf geringere Einstellungen nach COVID-19 und die Zunahme junger Menschen ohne Arbeit zu reagieren. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Séoul transforme des stages en emplois et soutient 830 000 jeunes actifs",
-        "excerpt": "De 2021 à l’an dernier, Séoul a soutenu 830 000 jeunes grâce à 73 programmes sur l’emploi, le logement, le bien-être, l’éducation et les droits.",
-        "body": "Séoul a soutenu 830 000 jeunes pendant cinq ans, de 2021 à l’an dernier, dans le cadre de son deuxième plan de base pour la politique jeunesse. Ahn Hye-rim, 26 ans, diplômée en mathématiques et en ingénierie des systèmes d’information, a travaillé l’an dernier comme stagiaire dans une entreprise d’analyse de données immobilières. Elle y a mené des tâches d’analyse de données, appris le prétraitement avec des outils d’intelligence artificielle, puis a été recrutée en CDI la même année après la reconnaissance de ses résultats. Ahn participait au projet Emplois Jeunes du Futur de Séoul, un stage lié au recrutement qui met en relation des jeunes avec des entreprises de nouveaux secteurs comme l’IA et la bio. La ville a mené 73 projets dans l’emploi, la finance et le bien-être, l’éducation et la culture, le logement, la participation et les droits, avec 745,1 milliards de wons investis pour répondre à la baisse des embauches après la COVID-19 et à l’augmentation des jeunes inactifs. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سيول تدعم توظيف الشباب: تدريب يقود إلى وظائف دائمة لـ830 ألف شاب",
-        "excerpt": "دعمت سيول من 2021 حتى العام الماضي 830 ألف شاب عبر 73 مشروعا في العمل والسكن والرعاية والتعليم والثقافة والحقوق.",
-        "body": "دعمت مدينة سيول 830 ألف شاب خلال خمس سنوات، من 2021 حتى العام الماضي، عبر الخطة الأساسية الثانية لسياسات الشباب. آن هي-ريم، البالغة 26 عاما، درست الرياضيات وهندسة نظم المعلومات، وعملت العام الماضي متدربة في شركة لتحليل بيانات العقارات. تولت هناك أعمال تحليل البيانات، وتعلمت المعالجة المسبقة للبيانات باستخدام أدوات الذكاء الاصطناعي، ثم عُينت في العام نفسه موظفة دائمة بعد الاعتراف بأدائها. شاركت آن في تدريب مرتبط بالتوظيف ضمن مشروع سيول لوظائف الشباب المستقبلية، الذي يربط الباحثين عن عمل بشركات في صناعات جديدة مثل الذكاء الاصطناعي والتكنولوجيا الحيوية. ونفذت المدينة 73 مشروعا في العمل والتمويل والرعاية والتعليم والثقافة والسكن والمشاركة والحقوق، باستثمار 745.1 مليار وون، للتعامل مع تراجع التوظيف بعد كوفيد-19 وزيادة الشباب خارج سوق العمل. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "सियोल की युवा रोजगार नीति: इंटर्नशिप से स्थायी नौकरी तक 8.3 लाख युवाओं को सहारा",
-        "excerpt": "सियोल ने 2021 से पिछले वर्ष तक रोजगार, आवास, कल्याण, शिक्षा, संस्कृति और अधिकारों से जुड़े 73 कार्यक्रमों से 8.3 लाख युवाओं की मदद की।",
-        "body": "सियोल शहर ने 2021 से पिछले वर्ष तक पांच वर्षों में अपनी दूसरी युवा नीति मूल योजना के तहत 8.3 लाख युवाओं को रोजगार और जीवन आधार से जुड़ा समर्थन दिया। गणित और सूचना प्रणाली इंजीनियरिंग में पढ़ाई करने वाली 26 वर्षीय आन हे-रिम ने पिछले वर्ष एक रियल एस्टेट डेटा विश्लेषण कंपनी में इंटर्न के रूप में काम किया। वहां उन्होंने अपने विषय का उपयोग करते हुए डेटा विश्लेषण किया, कृत्रिम बुद्धिमत्ता उपकरणों से डेटा प्रीप्रोसेसिंग सीखी और प्रदर्शन की मान्यता मिलने पर उसी वर्ष स्थायी कर्मचारी के रूप में नियुक्त हुईं। आन ने सियोल के फ्यूचर यूथ जॉब्स प्रोजेक्ट के तहत भर्ती से जुड़ी इंटर्नशिप में भाग लिया था। यह परियोजना एआई और बायो जैसे नए उद्योगों की कंपनियों को रोजगार चाहने वाले युवाओं से जोड़ती है। सियोल ने रोजगार, वित्त और कल्याण, शिक्षा और संस्कृति, आवास, भागीदारी और अधिकारों के 5 क्षेत्रों में 73 परियोजनाओं पर 745.1 अरब वॉन लगाए, ताकि कोविड-19 के बाद भर्ती में कमी और निष्क्रिय युवाओं की वृद्धि का सामना किया जा सके। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Kebijakan kerja muda Seoul bantu 830 ribu orang dari magang ke karyawan tetap",
-        "excerpt": "Seoul sejak 2021 hingga tahun lalu mendukung 830 ribu anak muda lewat 73 program di bidang kerja, hunian, kesejahteraan, pendidikan dan hak.",
-        "body": "Pemerintah Kota Seoul mendukung 830 ribu anak muda selama lima tahun, dari 2021 hingga tahun lalu, melalui Rencana Dasar Kebijakan Pemuda tahap kedua. Ahn Hye-rim, 26 tahun, yang mengambil jurusan matematika dan teknik sistem informasi, bekerja tahun lalu sebagai magang di perusahaan analisis data properti. Di sana ia menangani analisis data, mempelajari prapemrosesan data dengan alat kecerdasan buatan, dan direkrut sebagai karyawan tetap pada tahun yang sama setelah kinerjanya diakui. Ahn mengikuti magang terkait perekrutan melalui proyek Future Youth Jobs yang dipimpin Seoul. Program ini menghubungkan pencari kerja muda dengan perusahaan di industri baru seperti AI dan bio. Seoul menjalankan 73 proyek di bidang pekerjaan, keuangan dan kesejahteraan, pendidikan dan budaya, hunian, partisipasi dan hak, dengan investasi 745,1 miliar won untuk menanggapi penurunan perekrutan setelah COVID-19 dan meningkatnya anak muda yang tidak aktif bekerja. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "f82553d7ab9e",
-    "slug": "역대-최고-실적에도-인원-감축하는-기업들it에서-일반-기업까지-범위-확대-256195",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T07:41:31.496Z",
-    "updatedAt": "2026-05-10T07:41:31.496Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892227/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892227/1",
-    "titleFingerprint": "993a1b0c0119cb422c896559c5cae2fe918fa38b",
-    "dedupKeys": [
-      "f82553d7ab9e51100025e0c8c8bfc20bb405a804",
-      "993a1b0c0119cb422c896559c5cae2fe918fa38b",
-      "f51068f67cd1ce2b451403b72fe41fc091ded504"
-    ],
-    "imageUrl": "/images/articles/f82553d7ab9e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "AI 도입 확산에 클라우드플레어도 감원…최고 실적 뒤 20% 인력 축소",
-        "excerpt": "클라우드플레어가 올해 1분기 역대 최고 매출을 기록하고도 AI 업무 도입 흐름 속에 전체 직원의 20%인 1100명을 줄이겠다고 밝혔습니다.",
-        "body": "인공지능(AI) 업무 도입이 확산되면서 기업들의 대량 해고 속도가 빨라지고 있다. 10일 정보기술(IT) 업계에 따르면 구글, 마이크로소프트(MS) 등 글로벌 빅테크의 클라우드 네트워크 운영을 담당하는 클라우드플레어는 올해 1분기(1~3월) 매출이 6억3980만 달러(약 9376억 원)로 역대 최고치를 기록했다고 밝혔다. 매출은 1년 전보다 34% 늘었지만 회사는 전체 인력의 20%에 해당하는 1100명을 감원하기로 했다. 창립 16년 만의 첫 대규모 구조조정으로, 대상은 IT 인력뿐 아니라 영업 사원을 제외한 모든 직군이다. AI가 불러온 감원 흐름은 빅테크를 넘어 금융, 유통 등 일반 기업으로 확대되고 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Cloudflare Cuts 20% of Staff as AI-Driven Layoffs Spread Beyond Big Tech",
-        "excerpt": "Cloudflare reported record first-quarter revenue but said it would cut 1,100 jobs, or 20% of its workforce, as AI adoption accelerates layoffs across industries.",
-        "body": "Mass layoffs linked to the adoption of artificial intelligence in business operations are accelerating. According to the IT industry on May 10, Cloudflare, which handles cloud network operations for global big tech companies including Google and Microsoft, said its first-quarter revenue for January to March reached a record $639.8 million, about 937.6 billion won. Revenue rose 34% from a year earlier, yet the company said it would reduce its workforce by 1,100 people, or 20% of total staff. The first large-scale restructuring in Cloudflare’s 16-year history applies not only to IT workers but to all roles except sales staff. The layoff trend driven by AI is now spreading beyond big tech to companies in finance, retail and other sectors. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "AI導入でクラウドフレアも人員削減、最高業績後に20％削減へ",
-        "excerpt": "クラウドフレアは今年第1四半期に過去最高の売上高を記録した一方、AI業務導入の流れを背景に全従業員の20％、1100人を削減すると明らかにした。",
-        "body": "人工知能（AI）の業務導入が広がるなか、企業による大規模解雇のペースが速まっている。10日の情報技術（IT）業界によると、グーグルやマイクロソフト（MS）など世界的ビッグテックのクラウドネットワーク運営を担うクラウドフレアは、今年第1四半期（1～3月）の売上高が6億3980万ドル、約9376億ウォンとなり、過去最高を記録したと発表した。売上高は1年前より34％増えたが、同社は全人員の20％に当たる1100人を削減する方針だ。創業16年で初の大規模リストラで、対象はIT関連人材だけでなく、営業社員を除く全職種に及ぶ。AIがもたらした人員削減の流れは、ビッグテックを越えて金融、小売など一般企業にも広がっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "AI应用加速裁员潮，Cloudflare创纪录业绩后仍裁员20%",
-        "excerpt": "Cloudflare今年第一季度创下历史最高营收，却在AI业务导入浪潮下宣布裁减1100名员工，占全体员工20%，裁员范围正扩至多行业。",
-        "body": "随着人工智能（AI）在企业业务中的应用扩大，大规模裁员速度正在加快。据10日信息技术（IT）行业消息，负责谷歌、微软（MS）等全球大型科技企业云网络运营的Cloudflare表示，今年第一季度（1月至3月）营收达到6.398亿美元，约合9376亿韩元，创历史最高纪录。营收较一年前增长34%，但该公司仍决定裁减1100名员工，相当于全体员工的20%。这是公司成立16年来首次大规模结构调整，对象不仅包括IT相关人员，也涵盖除销售人员以外的所有岗位。由AI引发的裁员趋势正从大型科技企业扩大至金融、零售等普通企业。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Cloudflare recorta 20% de plantilla pese a récord de ingresos por auge de IA",
-        "excerpt": "Cloudflare logró ingresos récord en el primer trimestre, pero anunció el recorte de 1.100 empleos, el 20% de su plantilla, en medio de despidos acelerados por la adopción de IA.",
-        "body": "La adopción de inteligencia artificial (IA) en las tareas empresariales está acelerando los despidos masivos. Según el sector de tecnologías de la información el día 10, Cloudflare, encargada de operar redes en la nube para grandes tecnológicas globales como Google y Microsoft, informó que sus ingresos del primer trimestre, de enero a marzo, alcanzaron un récord de 639,8 millones de dólares, unos 937.600 millones de wones. Aunque las ventas crecieron 34% frente al año anterior, la compañía anunció que recortará 1.100 puestos, equivalentes al 20% de su plantilla. Es la primera gran reestructuración en sus 16 años de historia y afectará no solo a personal de TI, sino a todos los cargos salvo ventas. La ola de recortes impulsada por la IA se extiende ahora más allá de las grandes tecnológicas hacia finanzas, comercio minorista y otros sectores. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Cloudflare corta 20% da equipe mesmo com receita recorde em meio à onda de IA",
-        "excerpt": "A Cloudflare registrou receita recorde no primeiro trimestre, mas anunciou corte de 1.100 funcionários, ou 20% do quadro, enquanto a adoção de IA acelera demissões.",
-        "body": "A adoção de inteligência artificial (IA) nas operações das empresas está acelerando demissões em massa. Segundo o setor de tecnologia da informação no dia 10, a Cloudflare, responsável por operações de redes em nuvem para big techs globais como Google e Microsoft, informou que sua receita do primeiro trimestre, de janeiro a março, chegou ao recorde de US$ 639,8 milhões, cerca de 937,6 bilhões de wones. A receita cresceu 34% em relação ao ano anterior, mas a empresa decidiu cortar 1.100 funcionários, equivalentes a 20% do quadro total. É a primeira grande reestruturação em 16 anos de história da companhia e atinge não apenas profissionais de TI, mas todos os cargos exceto vendas. A onda de cortes provocada pela IA se amplia para além das big techs e alcança finanças, varejo e outros setores. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Cloudflare streicht trotz Rekordumsatz 20% der Stellen, KI-Welle weitet sich aus",
-        "excerpt": "Cloudflare erzielte im ersten Quartal Rekordumsatz, kündigte aber den Abbau von 1.100 Stellen an, 20% der Belegschaft, während KI-Einsatz Entlassungen beschleunigt.",
-        "body": "Mit der Einführung künstlicher Intelligenz (KI) in Unternehmensabläufe beschleunigen sich Massenentlassungen. Nach Angaben der IT-Branche vom 10. teilte Cloudflare, das Cloud-Netzwerke für globale Big-Tech-Konzerne wie Google und Microsoft betreibt, mit, dass der Umsatz im ersten Quartal von Januar bis März einen Rekordwert von 639,8 Millionen US-Dollar erreichte, rund 937,6 Milliarden Won. Der Umsatz stieg binnen eines Jahres um 34%, dennoch will das Unternehmen 1.100 Beschäftigte abbauen, also 20% der gesamten Belegschaft. Es ist die erste große Restrukturierung in der 16-jährigen Firmengeschichte und betrifft nicht nur IT-Personal, sondern alle Berufsgruppen außer dem Vertrieb. Die durch KI ausgelöste Entlassungswelle reicht nun über Big Tech hinaus in Finanzwesen, Einzelhandel und weitere Branchen. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Cloudflare supprime 20% de ses effectifs malgré un chiffre d’affaires record lié à l’IA",
-        "excerpt": "Cloudflare a publié un chiffre d’affaires record au premier trimestre, mais prévoit de supprimer 1.100 emplois, soit 20% de ses effectifs, sur fond d’adoption de l’IA.",
-        "body": "L’adoption de l’intelligence artificielle (IA) dans les tâches des entreprises accélère les licenciements massifs. Selon le secteur des technologies de l’information le 10, Cloudflare, qui assure l’exploitation de réseaux cloud pour de grands groupes technologiques mondiaux comme Google et Microsoft, a annoncé un chiffre d’affaires record de 639,8 millions de dollars au premier trimestre, de janvier à mars, soit environ 937,6 milliards de wons. Les revenus ont augmenté de 34% sur un an, mais l’entreprise prévoit de supprimer 1.100 postes, équivalant à 20% de ses effectifs. Il s’agit de la première restructuration d’ampleur en 16 ans d’existence, visant non seulement les équipes IT mais tous les métiers sauf les commerciaux. La vague de suppressions liée à l’IA s’étend désormais au-delà des big techs vers la finance, la distribution et d’autres secteurs. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "كلاودفلير تخفض 20% من موظفيها رغم إيرادات قياسية مع اتساع تأثير الذكاء الاصطناعي",
-        "excerpt": "سجلت كلاودفلير إيرادات قياسية في الربع الأول، لكنها أعلنت خفض 1100 وظيفة، أي 20% من قوتها العاملة، مع تسارع موجة التسريح المرتبطة بتبني الذكاء الاصطناعي.",
-        "body": "يتسارع تسريح الموظفين على نطاق واسع مع توسع إدخال الذكاء الاصطناعي في أعمال الشركات. وبحسب قطاع تقنية المعلومات في العاشر من الشهر، قالت كلاودفلير، التي تتولى تشغيل شبكات الحوسبة السحابية لشركات تقنية عالمية كبرى مثل غوغل ومايكروسوفت، إن إيراداتها في الربع الأول من يناير إلى مارس بلغت مستوى قياسيا قدره 639.8 مليون دولار، أي نحو 937.6 مليار وون. ورغم ارتفاع الإيرادات 34% خلال عام، قررت الشركة خفض 1100 موظف، ما يعادل 20% من إجمالي العاملين. وتعد هذه أول إعادة هيكلة واسعة منذ تأسيس الشركة قبل 16 عاما، وتشمل جميع الوظائف باستثناء موظفي المبيعات، وليس العاملين في تقنية المعلومات فقط. وتمتد موجة التسريح التي أحدثها الذكاء الاصطناعي الآن إلى ما بعد شركات التقنية الكبرى لتشمل التمويل والتجزئة وقطاعات أخرى. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "AI अपनाने की लहर में Cloudflare की कटौती, रिकॉर्ड आय के बाद 20% नौकरियां घटेंगी",
-        "excerpt": "Cloudflare ने पहली तिमाही में रिकॉर्ड राजस्व दर्ज किया, फिर भी AI आधारित कामकाज के फैलाव के बीच 1,100 कर्मचारियों, यानी कुल कार्यबल के 20%, की कटौती घोषित की।",
-        "body": "कंपनियों में कृत्रिम बुद्धिमत्ता (AI) आधारित कामकाज अपनाए जाने के साथ बड़े पैमाने पर छंटनी की रफ्तार तेज हो रही है। 10 तारीख को सूचना प्रौद्योगिकी उद्योग के अनुसार, Google और Microsoft जैसी वैश्विक बड़ी टेक कंपनियों के क्लाउड नेटवर्क संचालन से जुड़ी Cloudflare ने बताया कि इस वर्ष पहली तिमाही, जनवरी से मार्च, में उसका राजस्व 639.8 मिलियन डॉलर, लगभग 937.6 अरब वॉन, के रिकॉर्ड स्तर पर पहुंचा। राजस्व एक वर्ष में 34% बढ़ा, फिर भी कंपनी ने कुल कर्मचारियों के 20% यानी 1,100 लोगों को हटाने का निर्णय लिया। कंपनी के 16 वर्ष के इतिहास में यह पहली बड़ी पुनर्गठन प्रक्रिया है और इसका दायरा केवल IT कर्मचारियों तक सीमित नहीं, बल्कि बिक्री कर्मचारियों को छोड़कर सभी भूमिकाओं तक है। AI से शुरू हुई छंटनी की यह प्रवृत्ति अब बड़ी टेक कंपनियों से आगे वित्त, खुदरा और अन्य क्षेत्रों तक फैल रही है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Cloudflare Pangkas 20% Karyawan Meski Cetak Rekor Pendapatan di Tengah Adopsi AI",
-        "excerpt": "Cloudflare mencatat pendapatan tertinggi sepanjang sejarah pada kuartal pertama, tetapi akan memangkas 1.100 karyawan atau 20% tenaga kerja saat adopsi AI mempercepat PHK.",
-        "body": "Penerapan kecerdasan buatan (AI) dalam pekerjaan perusahaan membuat laju PHK massal semakin cepat. Menurut industri teknologi informasi pada tanggal 10, Cloudflare, yang menangani operasi jaringan cloud untuk perusahaan teknologi global seperti Google dan Microsoft, menyatakan pendapatan kuartal pertama tahun ini, Januari hingga Maret, mencapai rekor 639,8 juta dolar AS atau sekitar 937,6 miliar won. Pendapatan naik 34% dalam setahun, tetapi perusahaan memutuskan memangkas 1.100 karyawan, setara 20% dari total tenaga kerja. Ini menjadi restrukturisasi besar pertama sejak perusahaan berdiri 16 tahun lalu, dengan cakupan tidak hanya tenaga IT tetapi semua fungsi kecuali staf penjualan. Gelombang pengurangan karyawan yang dipicu AI kini meluas dari big tech ke sektor keuangan, ritel, dan berbagai perusahaan lain. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "fd32e62146dd",
-    "slug": "중동發-워플레이션에-oecd-회원국-3월-평균-에너지물가-81-439033",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T07:40:15.641Z",
-    "updatedAt": "2026-05-10T07:40:15.641Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892737/1",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133892737/1",
-    "titleFingerprint": "8826ac3ebcc892dfa172988bf00ccca53204e65f",
-    "dedupKeys": [
-      "fd32e62146ddca86f6eb05892049aac2fca4c7b4",
-      "8826ac3ebcc892dfa172988bf00ccca53204e65f",
-      "26a476dbb49654ccfd80c2a74ffe617316f6c50e"
-    ],
-    "imageUrl": "/images/articles/fd32e62146dd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "OECD 3월 에너지물가 8.1% 급등, 중동발 워플레이션 압력 커졌다",
-        "excerpt": "OECD는 10일 보고서에서 중동 전쟁 이후 국제유가 상승으로 3월 회원국 소비자물가가 4.0%, 에너지물가가 8.1% 올랐다고 밝혔다.",
-        "body": "중동 전쟁 여파로 국제유가가 오르면서 올해 3월 경제협력개발기구(OECD) 회원국의 평균 에너지 물가가 1년 전보다 8.1% 상승했다. 10일 OECD 보고서에 따르면 3월 회원국 소비자물가는 전년 대비 4.0% 올랐다. 지난해 10월 이후 3%대를 유지하던 물가 상승률이 4%대로 올라선 것이다. 월별 통계가 공개된 37개 회원국 중 33개국에서 전월보다 물가가 높아졌다. OECD는 2월 말 시작된 중동 전쟁에 따른 국제유가 급등이 전체 소비자물가를 끌어올린 것으로 봤다. 3월 에너지 물가 상승률 8.1%는 러시아·우크라이나 전쟁으로 유가가 뛰었던 2023년 2월 11.9% 이후 3년 1개월 만에 가장 높은 수준이다. 한국은 석유 최고가격제와 유류세 인하 등으로 3월 상승률이 주요국보다 낮았지만, 4월 들어 석유류 가격이 20% 넘게 오르며 국내 물가 부담이 커지고 있다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "OECD March Energy Prices Jump 8.1% as Middle East War Inflation Pressure Builds",
-        "excerpt": "The OECD said in a report on the 10th that higher oil prices after the Middle East war lifted March consumer prices by 4.0% and energy prices by 8.1%.",
-        "body": "Energy prices across OECD member countries rose an average 8.1% in March from a year earlier as international oil prices climbed in the wake of the Middle East war. According to an OECD report issued on the 10th, consumer prices in member countries increased 4.0% year on year in March, moving back into the 4% range after staying in the 3% range since last October. Among 37 members with monthly data available, prices rose from the previous month in 33 countries. The OECD attributed the broader rise in consumer prices to surging international oil prices following the Middle East war that began in late February. The 8.1% increase in March energy prices was the highest in three years and one month, since the 11.9% gain in February 2023 during the Russia-Ukraine war oil shock. South Korea’s March energy inflation was lower than in major OECD economies due to measures including a petroleum price ceiling and fuel tax cuts, but domestic price pressure is growing as petroleum product prices rose more than 20% in April. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "OECDの3月エネルギー価格8.1%上昇、中東発ウォーフレーション圧力強まる",
-        "excerpt": "OECDは10日の報告書で、中東戦争後の国際原油価格上昇により3月の加盟国消費者物価が4.0%、エネルギー価格が8.1%上昇したと明らかにした。",
-        "body": "中東戦争の影響で国際原油価格が上昇し、今年3月の経済協力開発機構（OECD）加盟国の平均エネルギー価格は前年同月比8.1%上昇した。10日にOECDが発行した報告書によると、3月の加盟国消費者物価は前年より4.0%上がった。昨年10月以降3%台を維持していた物価上昇率が4%台に入った形だ。月次統計が公表された37加盟国のうち33カ国で前月より物価が上昇した。OECDは、2月末に始まった中東戦争による国際原油価格の急騰が全体の消費者物価を押し上げたとみている。3月のエネルギー価格上昇率8.1%は、ロシア・ウクライナ戦争で原油価格が高騰した2023年2月の11.9%以来、3年1カ月ぶりの高水準だった。韓国は石油最高価格制や燃料税引き下げなどで3月の上昇率が主要国より低かったが、4月に入り石油類価格が20%超上昇し、国内の物価負担が強まっている。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "OECD 3月能源价格上涨8.1%，中东战事推高通胀压力",
-        "excerpt": "OECD在10日发布的报告中称，中东战争后国际油价上涨，推动3月成员国消费价格上涨4.0%，能源价格上涨8.1%。",
-        "body": "受中东战争影响，国际油价上涨，今年3月经济合作与发展组织（OECD）成员国平均能源价格较一年前上涨8.1%。OECD于10日发布的报告显示，3月成员国消费价格同比上涨4.0%。自去年10月以来一直维持在3%区间的通胀率，在3月进入4%区间。在公布月度统计的37个成员国中，33国物价较上月上升。OECD认为，2月底开始的中东战争导致国际油价飙升，推高了整体消费价格。3月能源价格8.1%的涨幅，是自俄罗斯与乌克兰战争导致油价大涨的2023年2月11.9%以来，3年零1个月的最高水平。韩国因石油最高价格制和下调燃油税等措施，3月能源价格涨幅低于主要国家，但进入4月后石油类价格上涨超过20%，国内物价负担正在加重。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "La energía en la OCDE sube 8,1% en marzo por la presión bélica de Oriente Medio",
-        "excerpt": "La OCDE dijo en su informe del día 10 que el alza del crudo tras la guerra en Oriente Medio elevó en marzo el IPC de sus miembros un 4,0% y la energía un 8,1%.",
-        "body": "El aumento del precio internacional del petróleo tras la guerra en Oriente Medio llevó a que los precios medios de la energía en los países de la OCDE subieran un 8,1% interanual en marzo. Según el informe publicado por la OCDE el día 10, los precios al consumidor de los países miembros aumentaron un 4,0% frente al año anterior. La inflación, que se había mantenido en el rango del 3% desde octubre pasado, volvió al rango del 4% en marzo. Entre los 37 miembros con estadísticas mensuales publicadas, 33 registraron precios superiores a los del mes anterior. La OCDE considera que el repunte del crudo internacional, provocado por la guerra en Oriente Medio iniciada a fines de febrero, elevó el índice general de precios al consumidor. El alza energética del 8,1% en marzo fue la mayor en tres años y un mes, desde el 11,9% de febrero de 2023, cuando el petróleo se disparó por la guerra entre Rusia y Ucrania. En Corea del Sur, medidas como el precio máximo del petróleo y la rebaja del impuesto al combustible mantuvieron la subida de marzo por debajo de la de grandes economías, pero en abril los productos petroleros aumentaron más del 20%, ampliando la carga inflacionaria interna. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Energia na OCDE sobe 8,1% em março com pressão da guerra no Oriente Médio",
-        "excerpt": "A OCDE informou em relatório no dia 10 que a alta do petróleo após a guerra no Oriente Médio elevou em março o IPC dos membros em 4,0% e a energia em 8,1%.",
-        "body": "A alta dos preços internacionais do petróleo após a guerra no Oriente Médio fez os preços médios de energia nos países da OCDE subirem 8,1% em março ante um ano antes. Segundo relatório publicado pela OCDE no dia 10, os preços ao consumidor dos países membros aumentaram 4,0% em relação ao ano anterior. A inflação, que vinha se mantendo na faixa de 3% desde outubro passado, entrou na faixa de 4% em março. Entre os 37 membros com dados mensais divulgados, 33 registraram preços maiores que no mês anterior. A OCDE avaliou que a disparada do petróleo internacional, após a guerra no Oriente Médio iniciada no fim de fevereiro, elevou o índice geral de preços ao consumidor. A alta de 8,1% nos preços de energia em março foi a maior em três anos e um mês, desde os 11,9% de fevereiro de 2023, quando o petróleo subiu com a guerra entre Rússia e Ucrânia. Na Coreia do Sul, medidas como teto para preços do petróleo e corte do imposto sobre combustíveis mantiveram a alta de março abaixo da de grandes países, mas em abril os derivados de petróleo subiram mais de 20%, aumentando a pressão sobre os preços domésticos. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "OECD-Energiepreise steigen im März um 8,1%: Nahostkrieg erhöht Inflationsdruck",
-        "excerpt": "Die OECD teilte in ihrem Bericht vom 10. mit, dass höhere Ölpreise nach dem Nahostkrieg die Verbraucherpreise im März um 4,0% und Energiepreise um 8,1% anhoben.",
-        "body": "Der Anstieg der internationalen Ölpreise infolge des Nahostkriegs hat die durchschnittlichen Energiepreise in den OECD-Mitgliedstaaten im März gegenüber dem Vorjahr um 8,1% steigen lassen. Laut dem am 10. veröffentlichten OECD-Bericht erhöhten sich die Verbraucherpreise der Mitgliedsländer im März um 4,0% im Jahresvergleich. Damit stieg die Teuerungsrate, die seit vergangenem Oktober im Bereich von 3% gelegen hatte, wieder in den Bereich von 4%. Von 37 Mitgliedstaaten mit veröffentlichten Monatsdaten verzeichneten 33 höhere Preise als im Vormonat. Die OECD sieht den starken Anstieg der internationalen Ölpreise nach dem Ende Februar begonnenen Nahostkrieg als Treiber der gesamten Verbraucherpreise. Der Energiepreisanstieg von 8,1% im März war der höchste Wert seit drei Jahren und einem Monat, nach 11,9% im Februar 2023 während des Ölpreisschubs durch den Russland-Ukraine-Krieg. In Südkorea lag die Energieinflation im März wegen Maßnahmen wie Höchstpreisen für Öl und gesenkten Kraftstoffsteuern unter der wichtiger OECD-Länder, doch im April stiegen Erdölprodukte um mehr als 20%, wodurch der inländische Preisdruck zunimmt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Prix de l’énergie OCDE +8,1% en mars, la guerre au Moyen-Orient ravive l’inflation",
-        "excerpt": "L’OCDE a indiqué dans son rapport du 10 que la hausse du pétrole après la guerre au Moyen-Orient a porté l’IPC de mars à +4,0% et l’énergie à +8,1%.",
-        "body": "La hausse des prix internationaux du pétrole liée à la guerre au Moyen-Orient a fait grimper les prix moyens de l’énergie dans les pays de l’OCDE de 8,1% en mars sur un an. Selon le rapport publié par l’OCDE le 10, les prix à la consommation des pays membres ont augmenté de 4,0% en mars par rapport à l’année précédente. L’inflation, restée dans la zone des 3% depuis octobre dernier, est ainsi repassée dans la zone des 4%. Parmi les 37 membres ayant publié des statistiques mensuelles, 33 ont vu leurs prix augmenter par rapport au mois précédent. L’OCDE estime que la flambée du pétrole international, après le début de la guerre au Moyen-Orient fin février, a tiré vers le haut l’ensemble des prix à la consommation. La hausse de 8,1% des prix de l’énergie en mars est la plus élevée depuis trois ans et un mois, après les 11,9% de février 2023 lors de l’envolée du pétrole liée à la guerre entre la Russie et l’Ukraine. En Corée du Sud, le plafonnement du prix du pétrole et la baisse des taxes sur les carburants ont limité la hausse de mars par rapport aux grandes économies, mais les produits pétroliers ont progressé de plus de 20% en avril, renforçant la pression sur les prix intérieurs. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أسعار الطاقة في دول OECD تقفز 8.1% في مارس مع ضغط حرب الشرق الأوسط",
-        "excerpt": "قالت OECD في تقرير صدر يوم 10 إن ارتفاع النفط بعد حرب الشرق الأوسط رفع أسعار المستهلك في مارس 4.0% وأسعار الطاقة 8.1% لدى الدول الأعضاء.",
-        "body": "ارتفعت أسعار الطاقة في دول منظمة التعاون الاقتصادي والتنمية OECD بمتوسط 8.1% في مارس مقارنة بالعام السابق، مع صعود أسعار النفط الدولية بعد حرب الشرق الأوسط. ووفقا لتقرير أصدرته المنظمة يوم 10، زادت أسعار المستهلك في الدول الأعضاء 4.0% على أساس سنوي في مارس. وبذلك انتقل معدل التضخم، الذي بقي في نطاق 3% منذ أكتوبر الماضي، إلى نطاق 4%. ومن بين 37 دولة عضوا نشرت إحصاءات شهرية، سجلت 33 دولة ارتفاعا في الأسعار مقارنة بالشهر السابق. وترى OECD أن القفزة في أسعار النفط الدولية، بعد الحرب التي بدأت في الشرق الأوسط أواخر فبراير، دفعت أسعار المستهلك الإجمالية إلى الارتفاع. وكانت زيادة أسعار الطاقة في مارس البالغة 8.1% الأعلى خلال 3 سنوات وشهر واحد، منذ ارتفاعها 11.9% في فبراير 2023 عندما صعد النفط بسبب حرب روسيا وأوكرانيا. وفي كوريا الجنوبية، أبقت إجراءات مثل سقف أسعار النفط وخفض ضريبة الوقود زيادة مارس دون مستويات الاقتصادات الرئيسية، لكن أسعار المنتجات النفطية ارتفعت بأكثر من 20% في أبريل، ما زاد عبء الأسعار المحلية. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "OECD में मार्च ऊर्जा कीमतें 8.1% बढ़ीं, मध्य पूर्व युद्ध से महंगाई दबाव तेज",
-        "excerpt": "OECD ने 10 तारीख की रिपोर्ट में कहा कि मध्य पूर्व युद्ध के बाद कच्चे तेल की तेजी से मार्च में सदस्य देशों की उपभोक्ता कीमतें 4.0% और ऊर्जा कीमतें 8.1% बढ़ीं।",
-        "body": "मध्य पूर्व युद्ध के असर से अंतरराष्ट्रीय तेल कीमतें बढ़ीं और इस वर्ष मार्च में आर्थिक सहयोग एवं विकास संगठन (OECD) के सदस्य देशों में औसत ऊर्जा कीमतें एक साल पहले से 8.1% ऊपर रहीं। OECD की 10 तारीख को जारी रिपोर्ट के अनुसार, मार्च में सदस्य देशों की उपभोक्ता कीमतें सालाना आधार पर 4.0% बढ़ीं। पिछले अक्टूबर से 3% के दायरे में बनी मुद्रास्फीति मार्च में 4% के दायरे में पहुंच गई। जिन 37 सदस्य देशों के मासिक आंकड़े जारी हुए, उनमें 33 देशों में कीमतें पिछले महीने से बढ़ीं। OECD के अनुसार, फरवरी के अंत में शुरू हुए मध्य पूर्व युद्ध के बाद अंतरराष्ट्रीय तेल कीमतों की तेज बढ़त ने कुल उपभोक्ता कीमतों को ऊपर धकेला। मार्च में ऊर्जा कीमतों की 8.1% बढ़ोतरी फरवरी 2023 के 11.9% के बाद 3 वर्ष 1 महीने में सबसे ऊंची थी, जब रूस-यूक्रेन युद्ध से तेल महंगा हुआ था। दक्षिण कोरिया में पेट्रोलियम अधिकतम मूल्य व्यवस्था और ईंधन कर कटौती जैसे उपायों से मार्च की वृद्धि प्रमुख देशों से कम रही, लेकिन अप्रैल में पेट्रोलियम उत्पादों की कीमतें 20% से अधिक बढ़ीं, जिससे घरेलू महंगाई बोझ बढ़ रहा है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Harga Energi OECD Maret Naik 8,1%, Tekanan Warflation Timur Tengah Menguat",
-        "excerpt": "OECD dalam laporan tanggal 10 menyebut kenaikan harga minyak setelah perang Timur Tengah membuat harga konsumen Maret naik 4,0% dan energi 8,1%.",
-        "body": "Dampak perang Timur Tengah yang mendorong harga minyak internasional membuat rata-rata harga energi negara anggota OECD pada Maret tahun ini naik 8,1% dibanding setahun sebelumnya. Menurut laporan OECD yang diterbitkan pada tanggal 10, harga konsumen negara anggota pada Maret naik 4,0% secara tahunan. Laju inflasi yang sejak Oktober lalu bertahan di kisaran 3% masuk ke kisaran 4% pada Maret. Dari 37 negara anggota yang merilis statistik bulanan, 33 negara mencatat harga lebih tinggi dibanding bulan sebelumnya. OECD menilai lonjakan harga minyak internasional akibat perang Timur Tengah yang dimulai akhir Februari telah mengangkat harga konsumen secara keseluruhan. Kenaikan harga energi 8,1% pada Maret merupakan level tertinggi dalam 3 tahun 1 bulan, sejak 11,9% pada Februari 2023 ketika harga minyak melonjak akibat perang Rusia-Ukraina. Di Korea Selatan, kenaikan Maret lebih rendah daripada negara utama OECD berkat batas harga tertinggi minyak dan pemangkasan pajak bahan bakar, tetapi pada April harga produk minyak naik lebih dari 20%, memperbesar beban harga domestik. Sumber: rss.donga.com"
       }
     }
   }
