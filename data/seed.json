@@ -1,5 +1,230 @@
 [
   {
+    "id": "4742663dda04",
+    "slug": "고공비행-반도체-etf-지금-올라타도-될까요-535521",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T11:40:11.854Z",
+    "updatedAt": "2026-05-10T11:40:11.854Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065451",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065451",
+    "titleFingerprint": "8585d2084f6440f3fae0c7444372dc19c235dad2",
+    "dedupKeys": [
+      "4742663dda04c15e9e071050c314890503c1fcbf",
+      "8585d2084f6440f3fae0c7444372dc19c235dad2",
+      "f81de7d0c1cd64e8be2aacc9373854819e8830b3"
+    ],
+    "imageUrl": "/images/articles/4742663dda04.jpg",
+    "i18n": {
+      "ko": {
+        "title": "'고공비행' 반도체 ETF, 지금 투자해도 될까…핵심 점검",
+        "excerpt": "hankyung.com은 최근 상승세를 보인 반도체 ETF를 두고 투자자들이 지금 올라타도 되는지 점검할 필요가 있다는 질문을 제기했다.",
+        "body": "hankyung.com은 최근 ‘고공비행’ 중인 반도체 ETF를 주제로, 투자자들이 지금 이 상품에 올라타도 되는지 살펴보는 기사를 냈다. 기사는 반도체 ETF가 시장의 관심을 받는 상황에서 투자 시점과 판단 기준을 점검해야 한다는 문제의식을 담고 있다. 다만 제공된 원문 정보에는 구체적인 수익률, 종목 구성, 운용사, 기간별 성과 등 세부 수치가 포함돼 있지 않다. 따라서 핵심은 반도체 ETF의 상승 흐름 자체와 현재 진입 여부에 대한 투자자들의 고민이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "High-Flying Semiconductor ETFs: Is Now the Time to Invest?",
+        "excerpt": "hankyung.com raised the question of whether investors should enter semiconductor ETFs now after their recent strong rise drew market attention.",
+        "body": "hankyung.com published an article on semiconductor ETFs that have been “flying high,” asking whether investors should buy into them now. The article frames the issue around investment timing and the criteria investors may need to review as semiconductor ETFs attract market attention. The source information provided does not include specific returns, holdings, asset managers, or performance periods. The central point is therefore the strong rise in semiconductor ETFs and investors’ question over whether current entry is appropriate. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "急騰する半導体ETF、今から投資してもよいのかを点検",
+        "excerpt": "hankyung.comは、上昇基調が注目される半導体ETFについて、投資家が今から参入してよいのかという論点を取り上げた。",
+        "body": "hankyung.comは、「高空飛行」する半導体ETFをテーマに、投資家が今この商品に乗ってもよいのかを考える記事を掲載した。記事は、半導体ETFが市場の関心を集めるなか、投資のタイミングや判断基準を確認する必要があるという問題意識を示している。ただし、提供された原文情報には具体的な収益率、構成銘柄、運用会社、期間別成績などの詳細数値は含まれていない。焦点は、半導体ETFの上昇局面と現在の参入可否をめぐる投資家の悩みである。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体ETF持续走高，现在还能上车吗？关键点梳理",
+        "excerpt": "hankyung.com围绕近期走势强劲的半导体ETF提出问题：在市场关注升温之际，投资者现在是否适合进场。",
+        "body": "hankyung.com以“高空飞行”的半导体ETF为主题，刊文讨论投资者现在是否可以买入这类产品。文章关注的是，在半导体ETF受到市场关注的情况下，投资时点和判断标准是否需要重新审视。不过，所提供的原文信息中没有包含具体收益率、成分股、基金管理人或分阶段表现等详细数据。因此，核心事实是半导体ETF近期上涨，以及投资者对当前是否适合进场的疑问。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF de semiconductores en fuerte alza: ¿conviene entrar ahora?",
+        "excerpt": "hankyung.com planteó si los inversores deberían entrar ahora en ETF de semiconductores tras el fuerte interés que han despertado por su subida reciente.",
+        "body": "hankyung.com publicó un artículo sobre los ETF de semiconductores que han estado “volando alto” y preguntó si los inversores deberían sumarse ahora. El enfoque del texto está en revisar el momento de inversión y los criterios de decisión mientras estos ETF atraen la atención del mercado. La información original proporcionada no incluye rentabilidades concretas, composición de cartera, gestoras ni resultados por periodo. Por ello, el punto central es la subida de los ETF de semiconductores y la duda de los inversores sobre si la entrada actual es adecuada. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs de semicondutores em alta: ainda vale entrar agora?",
+        "excerpt": "hankyung.com levantou a questão sobre se investidores devem entrar agora em ETFs de semicondutores após a recente valorização atrair atenção do mercado.",
+        "body": "hankyung.com publicou uma matéria sobre ETFs de semicondutores que vêm “voando alto” e questionou se investidores deveriam entrar nesses produtos agora. O texto trata da necessidade de avaliar o momento de investimento e os critérios de decisão enquanto esses ETFs ganham atenção do mercado. As informações originais fornecidas não incluem retornos específicos, composição da carteira, gestoras ou desempenho por período. Assim, o ponto principal é a alta dos ETFs de semicondutores e a dúvida dos investidores sobre a conveniência de entrar no momento atual. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Halbleiter-ETFs im Höhenflug: Lohnt sich der Einstieg jetzt?",
+        "excerpt": "hankyung.com stellte die Frage, ob Anleger nach dem jüngsten starken Lauf von Halbleiter-ETFs jetzt noch einsteigen sollten.",
+        "body": "hankyung.com veröffentlichte einen Artikel über Halbleiter-ETFs, die sich im „Höhenflug“ befinden, und fragte, ob Anleger jetzt noch einsteigen sollten. Im Mittelpunkt steht die Prüfung des Anlagezeitpunkts und der Entscheidungskriterien, da Halbleiter-ETFs am Markt Aufmerksamkeit erhalten. Die bereitgestellten Originalinformationen enthalten jedoch keine konkreten Renditen, Portfoliobestandteile, Anbieter oder periodischen Leistungsdaten. Der Kern liegt daher auf dem starken Lauf der Halbleiter-ETFs und der Frage der Anleger, ob ein Einstieg zum aktuellen Zeitpunkt sinnvoll ist. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "ETF semi-conducteurs en forte hausse : faut-il encore entrer ?",
+        "excerpt": "hankyung.com s’est demandé si les investisseurs devaient entrer maintenant sur les ETF semi-conducteurs après leur récente progression remarquée.",
+        "body": "hankyung.com a publié un article sur les ETF de semi-conducteurs en « haute altitude » et a posé la question de savoir si les investisseurs devaient s’y exposer maintenant. L’article met l’accent sur le moment d’investissement et les critères de décision à examiner alors que ces ETF attirent l’attention du marché. Les informations originales fournies ne contiennent pas de rendement précis, de composition, de société de gestion ni de performance par période. Le point central est donc la hausse des ETF semi-conducteurs et l’interrogation des investisseurs sur l’opportunité d’entrer aujourd’hui. Source : hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق ETF لأشباه الموصلات تحلق عالياً: هل حان وقت الدخول؟",
+        "excerpt": "طرح hankyung.com سؤالاً حول ما إذا كان ينبغي للمستثمرين دخول صناديق ETF لأشباه الموصلات الآن بعد صعودها الأخير وجذبها اهتمام السوق.",
+        "body": "نشر hankyung.com مقالاً عن صناديق ETF لأشباه الموصلات التي توصف بأنها «تحلق عالياً»، متسائلاً عما إذا كان بإمكان المستثمرين الدخول إليها الآن. يركز المقال على توقيت الاستثمار ومعايير القرار التي قد يحتاج المستثمرون إلى مراجعتها مع تزايد اهتمام السوق بهذه الصناديق. ولا تتضمن المعلومات الأصلية المقدمة عوائد محددة أو مكونات المحافظ أو أسماء شركات الإدارة أو أداءً حسب الفترات. لذلك يتمثل المحور الأساسي في صعود صناديق ETF لأشباه الموصلات وتساؤل المستثمرين بشأن ملاءمة الدخول في الوقت الحالي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर ETF में तेज उड़ान: क्या अभी निवेश करना ठीक है?",
+        "excerpt": "hankyung.com ने हालिया तेजी के बाद सेमीकंडक्टर ETF में अभी प्रवेश करना चाहिए या नहीं, यह सवाल निवेशकों के सामने रखा।",
+        "body": "hankyung.com ने उन सेमीकंडक्टर ETF पर लेख प्रकाशित किया जिन्हें ‘ऊंची उड़ान’ भरते हुए बताया गया है, और पूछा कि क्या निवेशकों को अब इनमें प्रवेश करना चाहिए। लेख का केंद्र बिंदु यह है कि बाजार में इन ETF को मिल रहे ध्यान के बीच निवेश समय और निर्णय मानदंडों की समीक्षा जरूरी हो सकती है। उपलब्ध मूल जानकारी में विशिष्ट रिटर्न, पोर्टफोलियो संरचना, एसेट मैनेजर या अवधि-वार प्रदर्शन जैसे आंकड़े शामिल नहीं हैं। इसलिए मुख्य तथ्य सेमीकंडक्टर ETF की तेजी और मौजूदा समय में प्रवेश को लेकर निवेशकों की दुविधा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Semikonduktor Melaju Tinggi: Masih Layak Masuk Sekarang?",
+        "excerpt": "hankyung.com mengangkat pertanyaan apakah investor sebaiknya masuk ke ETF semikonduktor sekarang setelah kenaikan terbarunya menarik perhatian pasar.",
+        "body": "hankyung.com menerbitkan artikel tentang ETF semikonduktor yang sedang “terbang tinggi” dan menanyakan apakah investor masih layak masuk sekarang. Artikel itu menyoroti perlunya meninjau waktu investasi dan dasar keputusan ketika ETF semikonduktor mendapat perhatian pasar. Informasi asli yang diberikan tidak memuat angka imbal hasil, komposisi portofolio, manajer investasi, atau kinerja per periode. Karena itu, inti beritanya adalah kenaikan ETF semikonduktor dan pertanyaan investor mengenai kelayakan masuk pada saat ini. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "0277c91af39a",
+    "slug": "ai-전력-인프라-etf수익률자금-유입-최고-635125",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T11:39:24.556Z",
+    "updatedAt": "2026-05-10T11:39:24.556Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051065951",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051065951",
+    "titleFingerprint": "3b1a181c6201452d2c55008f1ee68a8c538dee33",
+    "dedupKeys": [
+      "0277c91af39a1df7012f4b5910fef80e4065e44c",
+      "3b1a181c6201452d2c55008f1ee68a8c538dee33",
+      "38bec2b777610fe266a0971cbdbe3d854bb46e7b"
+    ],
+    "imageUrl": "/images/articles/0277c91af39a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 전력 인프라 ETF, 주간 수익률·개인 자금 유입 동시 1위",
+        "excerpt": "지난주 국내 증시에서 AI 전력 인프라 ETF가 전력 수요 증가와 K전력기기 미국 수출 호조에 힘입어 수익률 상위권과 개인 순매수 1위를 차지했다.",
+        "body": "지난주 국내 증시에서 인공지능(AI) 전력 인프라 관련 상장지수펀드(ETF)가 수익률과 자금 유입에서 두드러진 성과를 냈다. 3일 ETF체크에 따르면 레버리지·인버스 상품을 제외한 주간 수익률 1위는 ‘KODEX AI전력핵심설비’로 16.58% 올랐다. ‘HANARO 전력설비투자’는 16.46%, ‘RISE AI전력인프라’는 15.19% 상승했다. AI 전력 수요 확대와 국내 전력기기 기업의 미국 수출 호조가 관련 종목 주가를 끌어올린 배경으로 제시됐다. 같은 기간 ‘KODEX AI전력핵심설비’에는 개인 자금 2835억원이 순유입돼 순매수 1위에 올랐다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI Power Infrastructure ETFs Lead Weekly Returns and Retail Inflows",
+        "excerpt": "AI power infrastructure ETFs topped Korea’s weekly return rankings and retail net buying as rising electricity demand and strong U.S. exports lifted power-equipment stocks.",
+        "body": "AI power infrastructure exchange-traded funds stood out in South Korea’s stock market last week for both returns and fund inflows. According to ETF Check on May 3, the top weekly performer, excluding leveraged and inverse products, was KODEX AI Power Core Equipment, up 16.58%. HANARO Power Equipment Investment rose 16.46%, while RISE AI Power Infrastructure gained 15.19%. The gains were attributed to surging AI-related electricity demand and solid U.S. exports by Korean power-equipment companies. During the same week, KODEX AI Power Core Equipment attracted 283.5 billion won in net retail buying, ranking first. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AI電力インフラETF、週間リターンと個人資金流入で首位",
+        "excerpt": "韓国市場では先週、AI電力インフラETFが電力需要の増加と韓国電力機器企業の対米輸出好調を背景に、リターン上位と個人買い越し首位を記録した。",
+        "body": "韓国株式市場では先週、人工知能（AI）電力インフラ関連の上場投資信託（ETF）が、収益率と資金流入の両面で目立った。ETFチェックが5月3日に明らかにしたところによると、レバレッジ・インバース商品を除く週間リターン首位は「KODEX AI電力核心設備」で、16.58%上昇した。「HANARO電力設備投資」は16.46%、「RISE AI電力インフラ」は15.19%上昇した。AI関連の電力需要拡大と韓国電力機器企業の対米輸出好調が、関連銘柄の株価を押し上げたとされた。同期間、「KODEX AI電力核心設備」には個人資金2835億ウォンが純流入し、買い越し首位となった。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "AI电力基础设施ETF领跑周收益率与个人资金流入",
+        "excerpt": "上周韩国股市中，AI电力基础设施ETF因电力需求增长和韩国电力设备企业对美出口稳健，位居收益率前列并登上个人净买入首位。",
+        "body": "上周韩国股市中，人工智能（AI）电力基础设施相关交易所交易基金（ETF）在收益率和资金流入方面表现突出。ETF Check 5月3日数据显示，剔除杠杆和反向产品后，周收益率最高的是“KODEX AI电力核心设备”，上涨16.58%。“HANARO电力设备投资”上涨16.46%，“RISE AI电力基础设施”上涨15.19%。报道指出，AI电力需求扩大以及韩国电力设备企业对美国出口保持稳健，推动了相关股票价格上涨。同一期间，“KODEX AI电力核心设备”获得个人资金净流入2835亿韩元，位居净买入第一。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF de infraestructura eléctrica para IA lideran rentabilidad e influjos",
+        "excerpt": "La semana pasada, los ETF coreanos de infraestructura eléctrica para IA encabezaron los rendimientos y la compra neta minorista por la demanda eléctrica y exportaciones a EE. UU.",
+        "body": "La semana pasada, los fondos cotizados (ETF) vinculados a infraestructura eléctrica para inteligencia artificial (IA) destacaron en el mercado surcoreano por rentabilidad y entrada de capital. Según ETF Check al 3 de mayo, el mayor rendimiento semanal, excluyendo productos apalancados e inversos, fue el de KODEX AI Power Core Equipment, con un alza del 16,58%. HANARO Power Equipment Investment subió un 16,46% y RISE AI Power Infrastructure avanzó un 15,19%. El impulso se atribuyó al aumento de la demanda eléctrica por IA y a las sólidas exportaciones a Estados Unidos de empresas coreanas de equipos eléctricos. En el mismo periodo, KODEX AI Power Core Equipment recibió 283.500 millones de wones de compras netas de particulares, ocupando el primer lugar. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs de infraestrutura elétrica para IA lideram retorno e aportes",
+        "excerpt": "Na semana passada, ETFs coreanos de infraestrutura elétrica para IA ficaram no topo dos retornos e da compra líquida de pessoas físicas com demanda elétrica e exportações aos EUA.",
+        "body": "Na semana passada, fundos de índice (ETFs) ligados à infraestrutura elétrica para inteligência artificial (IA) se destacaram no mercado sul-coreano em retorno e entrada de recursos. Segundo a ETF Check em 3 de maio, o maior retorno semanal, excluindo produtos alavancados e inversos, foi do KODEX AI Power Core Equipment, com alta de 16,58%. O HANARO Power Equipment Investment subiu 16,46%, e o RISE AI Power Infrastructure avançou 15,19%. O movimento foi atribuído à expansão da demanda por eletricidade ligada à IA e às exportações firmes de empresas coreanas de equipamentos elétricos para os Estados Unidos. No mesmo período, o KODEX AI Power Core Equipment recebeu 283,5 bilhões de won em compras líquidas de investidores individuais, ficando em primeiro lugar. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KI-Strominfrastruktur-ETFs führen Wochenrenditen und Mittelzuflüsse an",
+        "excerpt": "In Korea lagen KI-Strominfrastruktur-ETFs vergangene Woche bei Renditen und Netto-Käufen Privater vorn, gestützt durch Stromnachfrage und starke US-Exporte.",
+        "body": "Am südkoreanischen Aktienmarkt fielen börsengehandelte Fonds (ETFs) für Strominfrastruktur rund um künstliche Intelligenz (KI) vergangene Woche sowohl bei Renditen als auch bei Mittelzuflüssen auf. Laut ETF Check vom 3. Mai erzielte KODEX AI Power Core Equipment ohne Hebel- und inverse Produkte mit 16,58% die höchste Wochenrendite. HANARO Power Equipment Investment stieg um 16,46%, RISE AI Power Infrastructure um 15,19%. Als Hintergrund wurden die steigende Stromnachfrage durch KI und robuste US-Exporte koreanischer Stromausrüster genannt. Im selben Zeitraum flossen KODEX AI Power Core Equipment netto 283,5 Milliarden Won von Privatanlegern zu, womit der Fonds auf Platz eins lag. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF d’infrastructure électrique IA en tête des rendements et flux",
+        "excerpt": "La semaine dernière en Corée, les ETF d’infrastructure électrique IA ont dominé les rendements et les achats nets des particuliers grâce à la demande et aux exportations vers les États-Unis.",
+        "body": "La semaine dernière, les fonds indiciels cotés (ETF) liés à l’infrastructure électrique pour l’intelligence artificielle (IA) se sont distingués sur le marché sud-coréen par leurs rendements et leurs entrées de capitaux. Selon ETF Check au 3 mai, le meilleur rendement hebdomadaire, hors produits à effet de levier et inverses, a été celui de KODEX AI Power Core Equipment, en hausse de 16,58%. HANARO Power Equipment Investment a gagné 16,46% et RISE AI Power Infrastructure 15,19%. Cette progression a été attribuée à la hausse de la demande d’électricité liée à l’IA et aux exportations solides des fabricants coréens d’équipements électriques vers les États-Unis. Sur la même période, KODEX AI Power Core Equipment a reçu 283,5 milliards de wons d’achats nets de particuliers, au premier rang. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق بنية كهرباء الذكاء الاصطناعي تتصدر العوائد والتدفقات",
+        "excerpt": "في السوق الكورية الأسبوع الماضي، تصدرت صناديق ETF للبنية الكهربائية للذكاء الاصطناعي العوائد وصافي شراء الأفراد بدعم من الطلب على الكهرباء والصادرات إلى أميركا.",
+        "body": "برزت صناديق المؤشرات المتداولة المرتبطة بالبنية التحتية الكهربائية للذكاء الاصطناعي في سوق الأسهم الكورية الجنوبية الأسبوع الماضي من حيث العوائد وتدفقات الأموال. ووفقاً لبيانات ETF Check في 3 مايو، كان صندوق KODEX AI Power Core Equipment الأعلى عائداً أسبوعياً، باستثناء المنتجات ذات الرافعة والعكسية، إذ ارتفع 16.58%. وصعد HANARO Power Equipment Investment بنسبة 16.46%، وRISE AI Power Infrastructure بنسبة 15.19%. وعُزي الأداء إلى زيادة الطلب على الكهرباء المرتبط بالذكاء الاصطناعي وقوة صادرات شركات معدات الكهرباء الكورية إلى الولايات المتحدة. وخلال الفترة نفسها، جذب KODEX AI Power Core Equipment صافي شراء من الأفراد بقيمة 283.5 مليار وون، محتلاً المركز الأول. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "AI बिजली इन्फ्रास्ट्रक्चर ETF रिटर्न और खुदरा निवेश में सबसे आगे",
+        "excerpt": "पिछले सप्ताह कोरियाई बाजार में AI बिजली इन्फ्रास्ट्रक्चर ETF बिजली मांग और अमेरिका को मजबूत निर्यात के सहारे रिटर्न तथा खुदरा नेट खरीद में शीर्ष पर रहे।",
+        "body": "दक्षिण कोरिया के शेयर बाजार में पिछले सप्ताह कृत्रिम बुद्धिमत्ता (AI) बिजली इन्फ्रास्ट्रक्चर से जुड़े एक्सचेंज ट्रेडेड फंड (ETF) रिटर्न और धन प्रवाह दोनों में प्रमुख रहे। ETF Check के 3 मई के आंकड़ों के अनुसार, लीवरेज और इनवर्स उत्पादों को छोड़कर साप्ताहिक रिटर्न में KODEX AI Power Core Equipment पहले स्थान पर रहा और 16.58% चढ़ा। HANARO Power Equipment Investment 16.46% और RISE AI Power Infrastructure 15.19% बढ़े। इस तेजी की वजह AI से जुड़ी बिजली मांग में वृद्धि और कोरियाई बिजली उपकरण कंपनियों के अमेरिका को मजबूत निर्यात को बताया गया। इसी अवधि में KODEX AI Power Core Equipment में व्यक्तिगत निवेशकों की 283.5 अरब वॉन की नेट खरीद हुई और यह पहले स्थान पर रहा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Infrastruktur Listrik AI Pimpin Imbal Hasil dan Arus Dana Ritel",
+        "excerpt": "Pekan lalu di Korea, ETF infrastruktur listrik AI memimpin peringkat imbal hasil dan pembelian bersih investor ritel berkat kenaikan permintaan listrik dan ekspor ke AS.",
+        "body": "Pekan lalu, dana yang diperdagangkan di bursa (ETF) terkait infrastruktur listrik untuk kecerdasan buatan (AI) menonjol di pasar saham Korea Selatan dari sisi imbal hasil dan arus dana. Menurut ETF Check pada 3 Mei, imbal hasil mingguan tertinggi, di luar produk leverage dan inverse, dicatat KODEX AI Power Core Equipment dengan kenaikan 16,58%. HANARO Power Equipment Investment naik 16,46%, sedangkan RISE AI Power Infrastructure menguat 15,19%. Kenaikan itu dikaitkan dengan meningkatnya permintaan listrik untuk AI dan kuatnya ekspor perusahaan peralatan listrik Korea ke Amerika Serikat. Pada periode yang sama, KODEX AI Power Core Equipment menerima pembelian bersih investor individu sebesar 283,5 miliar won dan menempati posisi pertama. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c92c8057175d",
+    "slug": "뉴욕상하이-증시트럼프-방중-앞두고-美-4월-물가-발표-912513",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T11:38:17.402Z",
+    "updatedAt": "2026-05-10T11:38:17.402Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051066021",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051066021",
+    "titleFingerprint": "59aeb7fe666aa7e857af5d28878d9a265d87e1ab",
+    "dedupKeys": [
+      "c92c8057175da876fdf6c6c7cee57166952c0748",
+      "59aeb7fe666aa7e857af5d28878d9a265d87e1ab",
+      "465ba293218134f9a814e21a68c5d8c4a6a6ff7b"
+    ],
+    "imageUrl": "/images/articles/c92c8057175d.png",
+    "i18n": {
+      "ko": {
+        "title": "뉴욕·상하이 증시, 트럼프 방중 앞두고 美 4월 물가 주목",
+        "excerpt": "뉴욕·상하이 증시는 트럼프의 중국 방문을 앞두고 미국 4월 물가 발표를 주시하고 있다. 투자자들은 물가 지표가 시장 흐름에 미칠 영향을 확인하려 한다.",
+        "body": "뉴욕과 상하이 증시는 트럼프의 중국 방문을 앞둔 가운데 미국의 4월 물가 발표에 관심을 모으고 있다. 이번 이슈는 미·중 관련 일정과 미국 물가 지표가 동시에 시장의 주요 변수로 부각된 상황에서 다뤄졌다. 원문은 뉴욕·상하이 증시와 트럼프 방중, 미국 4월 물가 발표를 핵심 내용으로 제시했다. 시장은 물가 발표 이후 투자 심리와 증시 흐름이 어떻게 반응할지 주목하는 분위기다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "New York and Shanghai Stocks Watch US April Inflation Before Trump China Visit",
+        "excerpt": "New York and Shanghai markets are watching the US April inflation release ahead of Trump’s visit to China, as investors assess how the data may affect market direction.",
+        "body": "New York and Shanghai stock markets are drawing attention as investors await the US April inflation release ahead of Trump’s visit to China. The issue comes as both a US-China related schedule and US price data stand out as key market variables. The original report highlights New York and Shanghai equities, Trump’s China visit, and the US April inflation announcement as its core points. Markets are watching how investor sentiment and stock trends respond after the inflation data is released. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "NY・上海株式市場、トランプ氏訪中前に米4月物価へ注目",
+        "excerpt": "ニューヨークと上海の株式市場は、トランプ氏の中国訪問を前に米国4月物価発表を注視しており、市場への影響が焦点となっている。",
+        "body": "ニューヨークと上海の株式市場は、トランプ氏の中国訪問を控えるなか、米国の4月物価発表に関心を集めている。今回の材料は、米中関連の日程と米国の物価指標が同時に市場の主要変数として浮上した状況で取り上げられた。原文は、ニューヨーク・上海株式市場、トランプ氏訪中、米国4月物価発表を核心内容として示している。市場は物価発表後、投資心理と株価の流れがどう反応するかを見守っている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "纽约和上海股市聚焦美国4月物价，特朗普访华前受关注",
+        "excerpt": "在特朗普访问中国前，纽约和上海股市正关注美国4月物价发布，投资者希望观察该指标对市场走势的影响。",
+        "body": "在特朗普访问中国前，纽约和上海股市正把目光投向美国4月物价发布。这一议题出现在美中相关日程与美国物价指标同时成为市场主要变量的背景下。原文将纽约和上海股市、特朗普访华以及美国4月物价发布列为核心内容。市场关注物价数据公布后，投资情绪和股市走势将如何反应。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Bolsas de Nueva York y Shanghái miran inflación de abril de EEUU antes de visita de Trump",
+        "excerpt": "Las bolsas de Nueva York y Shanghái observan la inflación de abril de EEUU antes de la visita de Trump a China, atentas a su efecto en el mercado.",
+        "body": "Las bolsas de Nueva York y Shanghái concentran la atención mientras se espera la publicación de la inflación de abril de Estados Unidos antes de la visita de Trump a China. El tema surge en un contexto en el que la agenda vinculada a EEUU y China, junto con los datos de precios estadounidenses, aparece como una variable clave para el mercado. El texto original destaca las bolsas de Nueva York y Shanghái, la visita de Trump a China y el dato de inflación de abril de EEUU. El mercado observa cómo reaccionarán el ánimo inversor y las tendencias bursátiles tras la publicación. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Bolsas de Nova York e Xangai observam inflação de abril dos EUA antes de visita de Trump",
+        "excerpt": "As bolsas de Nova York e Xangai acompanham a inflação de abril dos EUA antes da visita de Trump à China, avaliando possíveis efeitos no mercado.",
+        "body": "As bolsas de Nova York e Xangai chamam atenção enquanto os investidores aguardam a divulgação da inflação de abril dos Estados Unidos antes da visita de Trump à China. O tema aparece em um momento em que a agenda ligada a EUA e China e os dados de preços dos EUA surgem como variáveis importantes para o mercado. O texto original destaca as bolsas de Nova York e Xangai, a visita de Trump à China e a divulgação da inflação de abril dos EUA. O mercado acompanha como o sentimento dos investidores e o rumo das ações reagirão após os dados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Börsen New York und Shanghai blicken vor Trump-China-Besuch auf US-Inflation im April",
+        "excerpt": "Die Börsen in New York und Shanghai achten vor Trumps China-Besuch auf die US-Inflationsdaten für April und deren mögliche Wirkung auf die Märkte.",
+        "body": "Die Aktienmärkte in New York und Shanghai stehen im Fokus, während vor Trumps China-Besuch die Veröffentlichung der US-Inflation für April erwartet wird. Das Thema wird vor dem Hintergrund behandelt, dass ein mit den USA und China verbundener Termin sowie US-Preisdaten zugleich als wichtige Marktvariablen hervortreten. Der Originalbericht nennt die Börsen New York und Shanghai, Trumps China-Besuch und die US-Inflationsdaten für April als zentrale Punkte. Der Markt beobachtet, wie Anlegerstimmung und Aktienbewegungen nach der Veröffentlichung reagieren. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Bourses de New York et Shanghai attentives à l’inflation américaine d’avril avant la visite de Trump",
+        "excerpt": "Les marchés de New York et Shanghai suivent l’inflation américaine d’avril avant la visite de Trump en Chine, afin d’évaluer son effet sur les actions.",
+        "body": "Les Bourses de New York et de Shanghai attirent l’attention alors que les investisseurs attendent la publication de l’inflation américaine d’avril avant la visite de Trump en Chine. Le sujet intervient dans un contexte où un calendrier lié aux États-Unis et à la Chine, ainsi que les données de prix américaines, apparaissent comme des variables majeures pour le marché. Le texte original met en avant les marchés de New York et Shanghai, la visite de Trump en Chine et l’annonce de l’inflation américaine d’avril. Le marché observe la réaction du sentiment des investisseurs et des tendances boursières après la publication. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "بورصتا نيويورك وشنغهاي تترقبان تضخم أبريل الأميركي قبل زيارة ترامب للصين",
+        "excerpt": "تراقب بورصتا نيويورك وشنغهاي إعلان تضخم أبريل في الولايات المتحدة قبل زيارة ترامب للصين، وسط اهتمام بتأثير البيانات في اتجاه السوق.",
+        "body": "تجذب بورصتا نيويورك وشنغهاي الانتباه مع ترقب إعلان بيانات التضخم الأميركية لشهر أبريل قبل زيارة ترامب إلى الصين. يأتي هذا الموضوع في ظل بروز جدول مرتبط بالولايات المتحدة والصين، إلى جانب بيانات الأسعار الأميركية، كعاملين رئيسيين في السوق. يعرض النص الأصلي بورصتي نيويورك وشنغهاي، وزيارة ترامب للصين، وإعلان تضخم أبريل في الولايات المتحدة بوصفها النقاط الأساسية. وتتابع الأسواق كيف ستتفاعل معنويات المستثمرين واتجاهات الأسهم بعد صدور بيانات الأسعار. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "ट्रंप की चीन यात्रा से पहले न्यूयॉर्क और शंघाई बाजारों की नजर US अप्रैल महंगाई पर",
+        "excerpt": "ट्रंप की चीन यात्रा से पहले न्यूयॉर्क और शंघाई शेयर बाजार US अप्रैल महंगाई आंकड़ों पर नजर रख रहे हैं, ताकि बाजार पर असर समझा जा सके।",
+        "body": "ट्रंप की चीन यात्रा से पहले न्यूयॉर्क और शंघाई शेयर बाजारों का ध्यान अमेरिका की अप्रैल महंगाई घोषणा पर है। यह मुद्दा ऐसे समय सामने आया है जब अमेरिका-चीन से जुड़ा कार्यक्रम और अमेरिकी मूल्य संकेतक दोनों बाजार के प्रमुख कारक के रूप में उभरे हैं। मूल रिपोर्ट ने न्यूयॉर्क और शंघाई बाजारों, ट्रंप की चीन यात्रा और अमेरिका की अप्रैल महंगाई घोषणा को मुख्य बिंदु के रूप में रखा है। बाजार देख रहा है कि आंकड़े जारी होने के बाद निवेशक भावना और शेयरों की दिशा कैसी प्रतिक्रिया देती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Bursa New York dan Shanghai Pantau Inflasi April AS Jelang Kunjungan Trump ke China",
+        "excerpt": "Bursa New York dan Shanghai mencermati rilis inflasi April AS menjelang kunjungan Trump ke China, dengan fokus pada dampaknya terhadap arah pasar.",
+        "body": "Bursa saham New York dan Shanghai menjadi perhatian saat investor menunggu rilis inflasi April Amerika Serikat menjelang kunjungan Trump ke China. Isu ini muncul ketika agenda terkait AS-China dan indikator harga AS sama-sama menjadi variabel utama bagi pasar. Naskah asli menyoroti bursa New York dan Shanghai, kunjungan Trump ke China, serta pengumuman inflasi April AS sebagai inti berita. Pasar mencermati bagaimana sentimen investor dan arah saham akan merespons setelah data harga dirilis. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "622b5f7a7121",
     "slug": "녹십자-분석-알리글로-4배-성장23분기는-매출-집중되는-성수기-437908",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "98,5% UKM ICT Tak Merekrut pada 2024, Hanya 6% Capai Titik Impas",
         "excerpt": "Survei UKM ICT Korea Selatan menemukan 98,5% tidak melakukan perekrutan baru pada 2024, sementara hanya 6% mencapai titik impas dalam tujuh tahun sejak berdiri.",
         "body": "Sebagian besar usaha kecil dan menengah di sektor teknologi informasi dan komunikasi Korea Selatan tidak merekrut pekerja baru pada 2024, menurut sebuah survei. Hasilnya menunjukkan 98,5% UKM ICT tidak melakukan perekrutan baru tahun lalu, sementara hanya 6% mencapai titik impas dalam tujuh tahun setelah didirikan. Angka ini menunjukkan UKM ICT menghadapi kesulitan dalam perluasan tenaga kerja sekaligus pencapaian profitabilitas. Lemahnya perekrutan dapat membatasi dasar pertumbuhan perusahaan, dan rendahnya rasio yang mencapai titik impas mencerminkan beban manajemen pada perusahaan ICT tahap awal. Artikel ini mengutip laporan dari yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "46bd6382695c",
-    "slug": "미국으로-쏠리고-유럽으로-확장k뷰티-해외-시장-재편-690964",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T21:56:24.409Z",
-    "updatedAt": "2026-05-09T21:56:24.409Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260509030100030",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260509030100030",
-    "titleFingerprint": "1a1353ef92343ff8b897c6eb994473e44c1bb4ae",
-    "dedupKeys": [
-      "46bd6382695c941917e52a40c2aef6d254f57778",
-      "1a1353ef92343ff8b897c6eb994473e44c1bb4ae",
-      "4044cc09a9dfc81b4242af9e9b9583c6bb10ea24"
-    ],
-    "imageUrl": "/images/articles/46bd6382695c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "K뷰티 해외 매출, 미국 중심 재편 속 유럽 성장축 부상",
-        "excerpt": "국내 주요 뷰티 상장사 3사의 올해 1분기 해외 매출이 미국 중심으로 재편되는 가운데 유럽 시장이 새로운 성장 지역으로 주목받고 있다.",
-        "body": "국내 주요 뷰티 상장사 3사의 올해 1분기 해외 매출 흐름이 미국 중심으로 재편되고 있다. 연합뉴스에 따르면 이들 기업의 해외 시장 구도는 미국으로 무게가 쏠리는 동시에 유럽으로 확장되는 양상을 보였다. 이는 K뷰티의 해외 판매 기반이 기존 주력 시장을 넘어 지역별로 다시 조정되고 있음을 보여준다. 특히 유럽 시장은 새로운 성장 축으로 부상하고 있어 향후 해외 매출 구조 변화에 영향을 줄 가능성이 있다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "K-Beauty Overseas Sales Shift Toward US as Europe Emerges",
-        "excerpt": "In the first quarter of this year, overseas sales at three major listed Korean beauty firms shifted toward the US, while Europe drew attention as a new growth market.",
-        "body": "Overseas sales trends at three major listed Korean beauty companies shifted toward the United States in the first quarter of this year. According to Yonhap News Agency, the companies’ overseas market structure showed a stronger focus on the US while also expanding into Europe. The pattern indicates that K-beauty’s overseas sales base is being reorganized by region beyond its existing core markets. Europe, in particular, is emerging as a new growth axis and may affect the future structure of overseas sales. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "Kビューティー海外売上、米国中心へ再編し欧州が成長軸に",
-        "excerpt": "韓国の主要上場ビューティー企業3社の今年第1四半期の海外売上は米国中心に再編され、欧州市場が新たな成長地域として注目されている。",
-        "body": "韓国の主要上場ビューティー企業3社の今年第1四半期の海外売上の流れは、米国中心へと再編されている。聯合ニュースによると、これら企業の海外市場構図は米国に比重が傾く一方で、欧州へ拡大する動きも示した。これはKビューティーの海外販売基盤が、既存の主力市場を越えて地域別に再調整されていることを示す。特に欧州市場は新たな成長軸として浮上しており、今後の海外売上構造の変化に影響を与える可能性がある。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "K美妆海外销售转向美国，欧洲成为新增长轴",
-        "excerpt": "韩国三家主要上市美妆企业今年第一季度海外销售正以美国为中心重组，同时欧洲市场作为新的增长地区受到关注。",
-        "body": "韩国三家主要上市美妆企业今年第一季度的海外销售趋势正转向以美国为中心。韩联社报道称，这些企业的海外市场格局呈现出重心向美国集中的同时，也向欧洲扩展的态势。这表明K美妆的海外销售基础正在超越既有主力市场，按地区重新调整。尤其是欧洲市场正作为新的增长轴浮现，可能影响未来海外销售结构的变化。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Ventas globales de K-beauty giran a EE. UU. y Europa gana peso",
-        "excerpt": "En el primer trimestre de este año, las ventas exteriores de tres grandes firmas coreanas de belleza cotizadas se reordenaron hacia EE. UU., con Europa como nuevo foco de crecimiento.",
-        "body": "Las ventas en el extranjero de tres grandes empresas coreanas de belleza que cotizan en bolsa se están reorganizando en torno a Estados Unidos en el primer trimestre de este año. Según Yonhap News Agency, la estructura de sus mercados exteriores muestra un mayor peso de EE. UU. y, al mismo tiempo, una expansión hacia Europa. Esto indica que la base internacional de ventas de K-beauty se está reajustando por regiones más allá de sus mercados principales existentes. En particular, Europa emerge como un nuevo eje de crecimiento y podría influir en la futura estructura de ventas exteriores. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "K-beauty reorienta vendas externas aos EUA e Europa ganha força",
-        "excerpt": "No primeiro trimestre deste ano, as vendas externas de três grandes empresas coreanas de beleza listadas se concentraram mais nos EUA, enquanto a Europa surgiu como novo mercado de crescimento.",
-        "body": "As vendas no exterior de três grandes empresas coreanas de beleza listadas em bolsa estão sendo reorganizadas em torno dos Estados Unidos no primeiro trimestre deste ano. Segundo a Yonhap News Agency, a estrutura dos mercados externos dessas companhias mostra maior peso dos EUA e, ao mesmo tempo, expansão para a Europa. Isso indica que a base internacional de vendas da K-beauty está sendo reajustada por região além dos mercados principais já existentes. Em especial, a Europa surge como um novo eixo de crescimento e pode influenciar a futura estrutura das vendas externas. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "K-Beauty-Auslandsumsätze rücken in die USA, Europa wächst",
-        "excerpt": "Im ersten Quartal dieses Jahres verlagerten sich die Auslandsumsätze von drei großen börsennotierten koreanischen Beauty-Firmen stärker in die USA, während Europa als neuer Wachstumsmarkt auffällt.",
-        "body": "Die Auslandsumsätze von drei großen börsennotierten koreanischen Beauty-Unternehmen richten sich im ersten Quartal dieses Jahres stärker auf die Vereinigten Staaten aus. Laut Yonhap News Agency zeigt die Auslandsmarktstruktur dieser Firmen eine Verlagerung des Schwerpunkts in die USA und zugleich eine Expansion nach Europa. Das deutet darauf hin, dass die internationale Verkaufsbasis von K-Beauty über bestehende Kernmärkte hinaus regional neu geordnet wird. Besonders Europa entwickelt sich zu einer neuen Wachstumsachse und könnte die künftige Struktur der Auslandsumsätze beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "La K-beauty réoriente ses ventes vers les États-Unis, l’Europe monte",
-        "excerpt": "Au premier trimestre de cette année, les ventes à l’étranger de trois grands groupes coréens cotés de la beauté se sont recentrées sur les États-Unis, tandis que l’Europe apparaît comme un nouveau relais de croissance.",
-        "body": "Les ventes à l’étranger de trois grands groupes coréens de beauté cotés en Bourse se réorganisent autour des États-Unis au premier trimestre de cette année. Selon Yonhap News Agency, leur structure de marchés extérieurs montre un poids accru des États-Unis tout en s’étendant vers l’Europe. Cette évolution indique que la base internationale de vente de la K-beauty se réajuste par région au-delà de ses marchés principaux existants. L’Europe, en particulier, émerge comme un nouvel axe de croissance et pourrait influencer la future structure des ventes à l’étranger. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "مبيعات K-Beauty الخارجية تميل إلى أميركا وأوروبا تبرز للنمو",
-        "excerpt": "في الربع الأول من هذا العام، أعادت ثلاث شركات تجميل كورية مدرجة توجيه مبيعاتها الخارجية نحو الولايات المتحدة، بينما برزت أوروبا كسوق نمو جديدة.",
-        "body": "تتجه مبيعات ثلاث شركات تجميل كورية كبرى مدرجة في الخارج خلال الربع الأول من هذا العام إلى إعادة تمركز حول الولايات المتحدة. وبحسب وكالة يونهاب للأنباء، أظهر هيكل الأسواق الخارجية لهذه الشركات زيادة الثقل باتجاه السوق الأميركية بالتزامن مع التوسع نحو أوروبا. ويشير ذلك إلى أن قاعدة مبيعات K-Beauty الخارجية يعاد ضبطها إقليميا بما يتجاوز الأسواق الرئيسية القائمة. وتبرز أوروبا خصوصا كمحور نمو جديد، ما قد يؤثر في بنية المبيعات الخارجية مستقبلا. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "K-Beauty की विदेशी बिक्री अमेरिका की ओर, यूरोप नया विकास केंद्र",
-        "excerpt": "इस वर्ष की पहली तिमाही में तीन प्रमुख सूचीबद्ध कोरियाई ब्यूटी कंपनियों की विदेशी बिक्री अमेरिका केंद्रित हो रही है, जबकि यूरोप नया वृद्धि बाजार बनकर उभर रहा है।",
-        "body": "तीन प्रमुख सूचीबद्ध कोरियाई ब्यूटी कंपनियों की इस वर्ष की पहली तिमाही की विदेशी बिक्री का रुझान अमेरिका केंद्रित रूप में पुनर्गठित हो रहा है। योनहाप न्यूज एजेंसी के अनुसार, इन कंपनियों के विदेशी बाजार ढांचे में अमेरिका की ओर झुकाव बढ़ा है और साथ ही यूरोप की ओर विस्तार भी दिखाई दिया है। यह संकेत देता है कि K-Beauty का विदेशी बिक्री आधार मौजूदा प्रमुख बाजारों से आगे बढ़कर क्षेत्रवार फिर से समायोजित हो रहा है। विशेष रूप से यूरोप नया विकास अक्ष बनकर उभर रहा है और भविष्य की विदेशी बिक्री संरचना को प्रभावित कर सकता है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Penjualan Global K-Beauty Bergeser ke AS, Eropa Jadi Poros Baru",
-        "excerpt": "Pada kuartal pertama tahun ini, penjualan luar negeri tiga perusahaan kecantikan besar Korea yang tercatat di bursa bergeser ke AS, sementara Eropa menjadi pasar pertumbuhan baru.",
-        "body": "Tren penjualan luar negeri tiga perusahaan kecantikan besar Korea yang tercatat di bursa pada kuartal pertama tahun ini sedang bergeser dengan Amerika Serikat sebagai pusatnya. Menurut Yonhap News Agency, struktur pasar luar negeri perusahaan-perusahaan tersebut menunjukkan bobot yang makin besar ke AS sekaligus perluasan ke Eropa. Hal ini menunjukkan bahwa basis penjualan global K-beauty sedang disesuaikan kembali menurut wilayah, melampaui pasar utama yang sudah ada. Khususnya, Eropa muncul sebagai poros pertumbuhan baru dan dapat memengaruhi struktur penjualan luar negeri ke depan. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "21c69f49d8e5",
-    "slug": "실제-만나보니-시키는-사람-없다토스에-젊은-인재-몰리는-이유-521805",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T21:55:36.226Z",
-    "updatedAt": "2026-05-09T21:55:36.226Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508157900017",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508157900017",
-    "titleFingerprint": "6ed5a156b34b072e928f3e140dd526c4e95e509b",
-    "dedupKeys": [
-      "21c69f49d8e5d9da0ef1d229ea09d729dea00764",
-      "6ed5a156b34b072e928f3e140dd526c4e95e509b",
-      "fad9f0e33ec02091002bf5147424f1476e1d75d1"
-    ],
-    "imageUrl": "/images/articles/21c69f49d8e5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "토스에 젊은 인재 몰리는 이유, ‘시키는 사람 없는’ 업무 문화 주목",
-        "excerpt": "연합뉴스는 서울발 기사에서 토스가 강제 지시보다 스스로 일을 찾는 문화를 앞세워 젊은 인재들의 관심을 받는 배경을 전했다.",
-        "body": "서울에서 연합뉴스 한상용 기자가 전한 보도에 따르면, 토스에는 일을 강제로 시키는 분위기보다 구성원이 스스로 할 일을 찾는 문화가 자리 잡고 있다. 기사에서 소개된 토스의 설명은 “시키는 사람 없다”는 표현으로 요약된다. 이는 젊은 인재들이 토스에 관심을 두는 이유로 제시됐다. 보도는 토스가 지시를 기다리는 방식보다 자율적으로 과제를 발견하고 수행하는 태도를 중시한다고 전했다. 이러한 업무 문화는 인재 유입을 설명하는 핵심 맥락으로 다뤄졌다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Why Young Talent Is Drawn to Toss: A Workplace Without Forced Orders",
-        "excerpt": "Yonhap reported from Seoul that Toss is drawing young talent by emphasizing a culture where employees find their own work rather than follow forced orders.",
-        "body": "According to a Seoul-datelined report by Yonhap News Agency reporter Han Sang-yong, Toss has a workplace culture in which employees are expected to find work on their own rather than being forced to do tasks. The article summarizes this approach with the phrase that there is “no one ordering people around.” This was presented as one reason young talent is paying attention to Toss. The report said Toss values an attitude of discovering and carrying out tasks autonomously instead of waiting for instructions. This culture was described as a key context behind its appeal to talent. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "若手人材がトスに集まる理由、「指示する人がいない」職場文化に注目",
-        "excerpt": "聯合ニュースはソウル発の記事で、トスが強制的な指示より自ら仕事を探す文化を掲げ、若手人材の関心を集める背景を伝えた。",
-        "body": "聯合ニュースのハン・サンヨン記者がソウルから伝えた報道によると、トスには仕事を強制的に命じる雰囲気よりも、構成員が自らやるべき仕事を探す文化が根付いている。記事で紹介されたトスの説明は「指示する人がいない」という表現に要約される。これは若手人材がトスに関心を寄せる理由として示された。報道は、トスが指示を待つ働き方より、自律的に課題を見つけて遂行する姿勢を重視していると伝えた。こうした職場文化は、人材流入を説明する重要な文脈として扱われた。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "年轻人才为何涌向Toss：没有人强行指派工作的企业文化受关注",
-        "excerpt": "韩联社首尔报道称，Toss以员工主动寻找工作、而非依靠强制指令的文化，吸引了年轻人才的关注。",
-        "body": "据韩联社记者韩相勇发自首尔的报道，Toss内部并非强调强制安排工作的氛围，而是形成了成员主动寻找自己应做之事的文化。报道中介绍的Toss说法可概括为“没有人发号施令”。这一点被作为年轻人才关注Toss的原因之一提出。报道称，Toss重视的不是等待指示的工作方式，而是自主发现课题并加以执行的态度。这样的工作文化被视为解释人才流入的重要背景。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Por qué el talento joven mira a Toss: una cultura laboral sin órdenes forzadas",
-        "excerpt": "Yonhap informó desde Seúl que Toss atrae el interés de jóvenes talentos al promover una cultura donde cada empleado busca su trabajo sin órdenes impuestas.",
-        "body": "Según un reporte fechado en Seúl por el periodista Han Sang-yong de Yonhap, en Toss predomina una cultura en la que los integrantes buscan por sí mismos el trabajo que deben hacer, más que un ambiente de tareas impuestas. La explicación presentada en el artículo se resume en la idea de que “no hay nadie que ordene”. Ese punto fue señalado como una de las razones por las que los jóvenes talentos se interesan por Toss. El reporte indicó que la empresa valora descubrir y ejecutar tareas de forma autónoma en lugar de esperar instrucciones. Esta cultura laboral fue tratada como un contexto clave para explicar la llegada de talento. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Por que jovens talentos olham para a Toss: cultura sem ordens impostas chama atenção",
-        "excerpt": "A Yonhap informou de Seul que a Toss atrai jovens talentos ao destacar uma cultura em que funcionários encontram seu próprio trabalho, sem ordens forçadas.",
-        "body": "Segundo reportagem de Seul do jornalista Han Sang-yong, da Yonhap, a Toss tem uma cultura em que os integrantes procuram por conta própria o trabalho a fazer, em vez de atuar sob um ambiente de tarefas impostas. A explicação apresentada no texto é resumida pela ideia de que “não há alguém mandando”. Isso foi citado como uma das razões para o interesse de jovens talentos pela Toss. A reportagem afirmou que a empresa valoriza uma postura de descobrir e executar tarefas autonomamente, em vez de esperar instruções. Essa cultura de trabalho foi tratada como contexto central para explicar a atração de talentos. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Warum junge Talente zu Toss wollen: Arbeitskultur ohne erzwungene Anweisungen",
-        "excerpt": "Yonhap berichtete aus Seoul, dass Toss junge Talente mit einer Kultur anspricht, in der Beschäftigte ihre Aufgaben selbst finden statt Befehlen zu folgen.",
-        "body": "Nach einem Bericht des Yonhap-Reporters Han Sang-yong aus Seoul herrscht bei Toss weniger eine Atmosphäre erzwungener Arbeitsanweisungen als vielmehr eine Kultur, in der Mitarbeitende selbst herausfinden, was zu tun ist. Die im Artikel vorgestellte Beschreibung lässt sich mit dem Satz zusammenfassen, dass es „niemanden gibt, der Anweisungen gibt“. Dies wurde als ein Grund genannt, warum junge Talente Interesse an Toss zeigen. Dem Bericht zufolge legt Toss mehr Wert auf das eigenständige Entdecken und Umsetzen von Aufgaben als auf das Warten auf Vorgaben. Diese Arbeitskultur wurde als wichtiger Kontext für die Anziehung von Talenten beschrieben. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Pourquoi les jeunes talents regardent Toss: une culture sans ordres imposés",
-        "excerpt": "Yonhap a rapporté depuis Séoul que Toss attire de jeunes talents grâce à une culture où chacun cherche son travail plutôt que de recevoir des ordres forcés.",
-        "body": "Selon un article de Yonhap signé à Séoul par le journaliste Han Sang-yong, Toss se distingue par une culture où les membres trouvent eux-mêmes le travail à accomplir, plutôt que par une ambiance de tâches imposées. L’explication présentée dans l’article se résume à l’idée qu’il n’y a “personne pour donner des ordres”. Ce point a été avancé comme l’une des raisons de l’intérêt des jeunes talents pour Toss. Le reportage indique que l’entreprise valorise la capacité à découvrir et exécuter des tâches de manière autonome plutôt que d’attendre des instructions. Cette culture de travail est présentée comme un contexte clé pour expliquer l’attraction des talents. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "لماذا ينجذب الشباب إلى توس: ثقافة عمل بلا أوامر مفروضة تلفت الانتباه",
-        "excerpt": "ذكرت يونهاب من سيول أن توس تجذب اهتمام المواهب الشابة عبر ثقافة تشجع الموظفين على إيجاد أعمالهم بأنفسهم بدل تلقي أوامر قسرية.",
-        "body": "بحسب تقرير من سيول أعده الصحفي هان سانغ يونغ في وكالة يونهاب، تسود في توس ثقافة لا تقوم على إجبار العاملين على أداء مهام محددة، بل على أن يبحث كل عضو بنفسه عما ينبغي إنجازه. وقد لخّص المقال هذا النهج بعبارة تفيد بأنه لا يوجد “من يعطي الأوامر”. وجرى عرض ذلك كأحد الأسباب التي تجعل المواهب الشابة تهتم بتوس. وأوضح التقرير أن الشركة تقدر موقف اكتشاف المهام وتنفيذها بصورة مستقلة بدلا من انتظار التعليمات. واعتُبرت هذه الثقافة العملية سياقا رئيسيا لفهم جذب المواهب. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "युवा प्रतिभाएं Toss की ओर क्यों खिंच रहीं: बिना जबरन आदेश वाली कार्य संस्कृति",
-        "excerpt": "योनहाप ने सियोल से बताया कि Toss जबरन निर्देशों के बजाय कर्मचारियों को खुद काम खोजने वाली संस्कृति से युवा प्रतिभाओं का ध्यान खींच रहा है।",
-        "body": "सियोल से योनहाप समाचार एजेंसी के पत्रकार हान सांग-योंग की रिपोर्ट के अनुसार, Toss में काम जबरन करवाने वाला माहौल नहीं है, बल्कि ऐसी संस्कृति है जिसमें सदस्य स्वयं अपने करने योग्य काम खोजते हैं। लेख में Toss की इस व्याख्या को इस विचार से संक्षेपित किया गया कि “आदेश देने वाला कोई नहीं है।” इसे युवा प्रतिभाओं के Toss में रुचि लेने का एक कारण बताया गया। रिपोर्ट के मुताबिक, Toss निर्देशों की प्रतीक्षा करने के बजाय स्वायत्त रूप से कार्यों की पहचान करने और उन्हें पूरा करने के रवैये को महत्व देता है। इस कार्य संस्कृति को प्रतिभा आकर्षित करने के मुख्य संदर्भ के रूप में प्रस्तुत किया गया। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Alasan Talenta Muda Tertarik ke Toss: Budaya Kerja Tanpa Perintah Paksa",
-        "excerpt": "Yonhap melaporkan dari Seoul bahwa Toss menarik minat talenta muda lewat budaya yang mendorong karyawan mencari pekerjaan sendiri, bukan menerima paksaan.",
-        "body": "Menurut laporan Yonhap dari Seoul oleh reporter Han Sang-yong, Toss memiliki budaya kerja yang lebih menekankan anggota untuk mencari sendiri pekerjaan yang perlu dilakukan, bukan suasana yang memaksa tugas kepada mereka. Penjelasan Toss dalam artikel itu diringkas dengan gagasan bahwa “tidak ada orang yang menyuruh.” Hal ini disebut sebagai salah satu alasan talenta muda menaruh perhatian pada Toss. Laporan tersebut menyatakan bahwa Toss menghargai sikap menemukan dan menjalankan tugas secara mandiri, bukan menunggu instruksi. Budaya kerja ini dipaparkan sebagai konteks utama dalam menjelaskan daya tarik Toss bagi talenta. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5886ecfc9a0e",
-    "slug": "빈집의-재탄생-쌀소금-보관하던-곳이-공유공간으로-232677",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-09T21:54:44.077Z",
-    "updatedAt": "2026-05-09T21:54:44.078Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260506122400060",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260506122400060",
-    "titleFingerprint": "8908773b7340d75b67758530816b76495640f650",
-    "dedupKeys": [
-      "5886ecfc9a0ed65a68b6487742cc298371ba8b71",
-      "8908773b7340d75b67758530816b76495640f650",
-      "631eaebeaefeac50a59fb5f910a9932713ff9d50"
-    ],
-    "imageUrl": "/images/articles/5886ecfc9a0e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "빈집 재탄생, 쌀·소금 창고가 주민 공유공간으로 바뀐 이유",
-        "excerpt": "저출산에 따른 인구 감소와 인구이동으로 전국 빈집이 해마다 늘어나는 가운데, 쌀과 소금을 보관하던 공간이 주민이 함께 쓰는 공유공간으로 재탄생했다.",
-        "body": "저출산에 따른 인구 감소와 인구이동으로 전국에서 빈집이 늘어나는 가운데, 쌀과 소금을 보관하던 곳이 주민들이 함께 이용하는 공유공간으로 바뀌었다. 해마다 생겨나는 빈집은 지역 미관을 해치고 안전을 위협하는 문제로 지적돼 왔다. 이번 사례는 방치될 수 있는 공간을 지역사회가 다시 활용하는 방식으로 주목된다. 인구 변화로 빈집 문제가 계속 커지는 상황에서, 빈집의 재탄생은 생활공간 회복과 지역 안전 관리의 한 방안으로 거론된다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "Vacant House Reborn as Shared Space From Former Rice and Salt Storage",
-        "excerpt": "As low birthrates, population decline, and migration increase vacant homes nationwide each year, a former rice and salt storage site has been transformed into a shared community space.",
-        "body": "Amid a nationwide rise in vacant homes driven by low birthrates, population decline, and migration, a place once used to store rice and salt has been turned into a shared space for local residents. Vacant houses that appear year after year have been cited as problems that damage local scenery and threaten safety. This case is drawing attention as a way for a community to reuse a space that might otherwise have been left idle. As demographic change continues to expand the vacant-house issue, such regeneration is being discussed as one approach to restoring living space and managing local safety. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "空き家再生、米と塩の保管場所が住民の共有空間に変わる",
-        "excerpt": "少子化による人口減少と人口移動で全国の空き家が毎年増えるなか、米と塩を保管していた場所が住民の共有空間として生まれ変わった。",
-        "body": "少子化に伴う人口減少と人口移動により全国で空き家が増えるなか、かつて米と塩を保管していた場所が、住民が共に利用する共有空間に変わった。毎年生まれる空き家は、地域の景観を損ない、安全を脅かす問題として指摘されてきた。今回の事例は、放置されかねない空間を地域社会が再び活用する方法として注目される。人口変化で空き家問題がさらに大きくなる状況で、空き家の再生は生活空間の回復と地域の安全管理に向けた一つの方策として語られている。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "空置房再生：米盐仓库变身居民共享空间引关注",
-        "excerpt": "受低生育率导致的人口减少和人口流动影响，全国空置房逐年增加，曾用于存放大米和食盐的空间如今改造成居民共享空间。",
-        "body": "在低生育率带来的人口减少和人口流动影响下，全国空置房不断增加，曾经用于存放大米和食盐的地方，如今变成居民共同使用的共享空间。每年新增的空置房一直被指出会破坏地区景观，并威胁安全。此次案例受到关注，因为它展示了社区重新利用可能被闲置空间的一种方式。随着人口变化使空置房问题持续扩大，空置房再生被视为恢复生活空间和加强地区安全管理的一项方案。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Casa vacía renace como espacio compartido tras guardar arroz y sal",
-        "excerpt": "Mientras la baja natalidad, la caída poblacional y la migración elevan cada año las viviendas vacías en todo el país, un antiguo almacén de arroz y sal se convirtió en espacio compartido.",
-        "body": "En medio del aumento nacional de viviendas vacías causado por la baja natalidad, la disminución de la población y los movimientos migratorios, un lugar que antes servía para guardar arroz y sal se transformó en un espacio compartido para los residentes. Las casas vacías que surgen cada año han sido señaladas como un problema que perjudica el paisaje local y amenaza la seguridad. Este caso llama la atención como una forma en que la comunidad vuelve a utilizar un espacio que podría haber quedado abandonado. Ante el avance del problema por los cambios demográficos, la regeneración de viviendas vacías se plantea como una opción para recuperar espacios de vida y gestionar la seguridad local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Casa vazia renasce como espaço compartilhado após guardar arroz e sal",
-        "excerpt": "Com baixa natalidade, queda populacional e migração elevando o número de casas vazias no país a cada ano, antigo depósito de arroz e sal virou espaço comunitário compartilhado.",
-        "body": "Em meio ao aumento nacional de casas vazias provocado pela baixa natalidade, pela redução da população e pelos movimentos migratórios, um local antes usado para guardar arroz e sal foi transformado em espaço compartilhado para moradores. As casas vazias que surgem todos os anos têm sido apontadas como problema por prejudicarem a paisagem local e ameaçarem a segurança. O caso chama atenção como forma de a comunidade reutilizar um espaço que poderia ficar abandonado. À medida que as mudanças demográficas ampliam o problema, a regeneração de casas vazias é citada como alternativa para recuperar espaços de convivência e reforçar a gestão da segurança local. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Leerstand neu genutzt: Reis- und Salzlager wird gemeinsamer Raum",
-        "excerpt": "Während niedrige Geburtenraten, Bevölkerungsrückgang und Wanderung die Zahl leerer Häuser landesweit jährlich erhöhen, wurde ein früheres Reis- und Salzlager zum Gemeinschaftsraum.",
-        "body": "Vor dem Hintergrund einer landesweit wachsenden Zahl leerstehender Häuser infolge niedriger Geburtenraten, Bevölkerungsrückgangs und Wanderungsbewegungen wurde ein Ort, an dem früher Reis und Salz gelagert wurden, in einen gemeinsam genutzten Raum für Bewohner umgewandelt. Jährlich neu entstehende Leerstände gelten als Problem, weil sie das Ortsbild beeinträchtigen und die Sicherheit gefährden. Der Fall erhält Aufmerksamkeit als Beispiel dafür, wie eine Gemeinschaft einen sonst ungenutzten Raum wieder nutzbar machen kann. Da demografische Veränderungen das Leerstandsproblem weiter vergrößern, wird die Wiederbelebung solcher Häuser als Ansatz zur Rückgewinnung von Lebensraum und zur lokalen Sicherheitsverwaltung genannt. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Maison vacante transformée: un ancien dépôt de riz et de sel partagé",
-        "excerpt": "Alors que faible natalité, recul démographique et migrations font augmenter chaque année les logements vacants, un ancien dépôt de riz et de sel devient un espace partagé.",
-        "body": "Alors que les logements vacants se multiplient dans le pays sous l’effet de la faible natalité, du recul démographique et des mouvements de population, un lieu autrefois utilisé pour stocker du riz et du sel a été transformé en espace partagé pour les habitants. Les maisons vides qui apparaissent chaque année sont pointées du doigt parce qu’elles nuisent au paysage local et menacent la sécurité. Ce cas attire l’attention comme une manière pour la communauté de réutiliser un espace qui aurait pu rester à l’abandon. À mesure que les changements démographiques aggravent le problème des logements vacants, leur renaissance est évoquée comme une piste pour restaurer des espaces de vie et renforcer la gestion de la sécurité locale. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "إحياء منزل شاغر: مخزن الأرز والملح يتحول إلى مساحة مشتركة",
-        "excerpt": "مع تزايد المنازل الشاغرة سنويا بسبب انخفاض المواليد وتراجع السكان وحركة الانتقال، تحول مكان كان يستخدم لحفظ الأرز والملح إلى مساحة مشتركة للسكان.",
-        "body": "وسط تزايد المنازل الشاغرة في أنحاء البلاد نتيجة انخفاض المواليد وتراجع عدد السكان وحركة الانتقال، تحول مكان كان يستخدم سابقا لحفظ الأرز والملح إلى مساحة مشتركة يستخدمها السكان معا. وقد عُدت المنازل الشاغرة التي تظهر كل عام مشكلة لأنها تضر بالمظهر المحلي وتهدد السلامة. وتلفت هذه الحالة الانتباه بوصفها طريقة يعيد بها المجتمع استخدام مساحة كان يمكن أن تُترك مهملة. ومع استمرار تغيرات السكان في توسيع مشكلة المنازل الشاغرة، يُطرح إحياؤها كأحد السبل لاستعادة مساحات المعيشة وإدارة السلامة المحلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "खाली घर का पुनर्जन्म: चावल-नमक भंडार बना साझा सामुदायिक स्थान",
-        "excerpt": "कम जन्मदर, जनसंख्या घटने और आवाजाही से देशभर में हर साल खाली घर बढ़ रहे हैं; इसी बीच चावल और नमक रखने की जगह साझा सामुदायिक स्थान में बदली।",
-        "body": "कम जन्मदर से जनसंख्या घटने और लोगों की आवाजाही के कारण देशभर में खाली घरों की संख्या बढ़ रही है। इसी बीच, चावल और नमक रखने के लिए इस्तेमाल होने वाली जगह को निवासियों के साझा उपयोग वाले स्थान में बदला गया है। हर साल बनने वाले खाली घर स्थानीय दृश्य को नुकसान पहुंचाने और सुरक्षा के लिए खतरा पैदा करने वाली समस्या माने जाते रहे हैं। यह मामला इसलिए ध्यान खींचता है क्योंकि समुदाय ने ऐसी जगह को फिर से उपयोग में लाने का रास्ता दिखाया है जो खाली पड़ी रह सकती थी। जनसांख्यिकीय बदलावों से खाली घरों की समस्या बढ़ती रहने के बीच, ऐसे पुनर्जीवन को रहने की जगह बहाल करने और स्थानीय सुरक्षा प्रबंधन के उपाय के रूप में देखा जा रहा है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Rumah Kosong Hidup Lagi, Gudang Beras dan Garam Jadi Ruang Bersama",
-        "excerpt": "Saat angka kelahiran rendah, penurunan penduduk, dan perpindahan membuat rumah kosong bertambah tiap tahun, bekas tempat penyimpanan beras dan garam berubah menjadi ruang bersama.",
-        "body": "Di tengah meningkatnya rumah kosong di seluruh negeri akibat rendahnya angka kelahiran, penurunan jumlah penduduk, dan perpindahan penduduk, tempat yang dulu digunakan untuk menyimpan beras dan garam telah diubah menjadi ruang bersama bagi warga. Rumah kosong yang muncul setiap tahun disebut sebagai masalah karena merusak pemandangan lingkungan dan mengancam keselamatan. Kasus ini menarik perhatian sebagai cara komunitas memanfaatkan kembali ruang yang bisa saja terbengkalai. Ketika perubahan demografis terus memperbesar masalah rumah kosong, revitalisasi seperti ini dipandang sebagai salah satu cara memulihkan ruang hidup dan mengelola keselamatan lokal. Sumber: yna.co.kr"
       }
     }
   }
