@@ -1,5 +1,230 @@
 [
   {
+    "id": "06dfa288c4f8",
+    "slug": "hbr알립니다사람-없는-공장이-돈을-번다-691664",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T18:35:28.187Z",
+    "updatedAt": "2026-05-10T18:35:28.187Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887908/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887908/2",
+    "titleFingerprint": "e2e6768398507b59172d2098c56eb700f26900b7",
+    "dedupKeys": [
+      "06dfa288c4f8fcecdba38a602d3126cd77216f0a",
+      "e2e6768398507b59172d2098c56eb700f26900b7",
+      "4d135ebf556e5d24b2b7bf59ac9d2c5b391ff82a"
+    ],
+    "imageUrl": "/images/articles/06dfa288c4f8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "제조 피지컬 AI 아카데미 개최, 무인공장 전환 전 실패 리스크 줄인다",
+        "excerpt": "DBR과 다임리서치가 2026년 5월 29일 제조 피지컬 AI 도입 전략 아카데미를 열고, 로봇·설비·물류 통합과 사전 시뮬레이션 검증 방안을 다룬다.",
+        "body": "DBR(동아비즈니스리뷰)과 국내 피지컬 AI 기업 다임리서치가 2026년 5월 29일 금요일 ‘제조 피지컬 AI 도입 전략 아카데미’를 개최한다. 세션1 콘퍼런스는 동아일보 광화문 사옥에서 열리며, 세션2 프라이빗 워크숍은 기업별 일정 협의를 거쳐 KAIST 제조 피지컬 AI 실증랩 ‘카이로스’에서 진행된다. 이번 프로그램은 인력난 대응을 위해 로봇을 도입했지만 물류 혼선이나 현장 가동 중단을 겪은 제조 현장을 대상으로 한다. 핵심은 실제 도입 전 시뮬레이션으로 결과를 검증하고 실패 리스크를 줄이는 것이다. 제조 피지컬 AI는 로봇 몇 대를 추가하는 자동화가 아니라 공장 내 로봇, 설비, 물류를 하나의 유기적 시스템으로 통합해 스스로 판단하고 최적화하는 자율제조 패러다임으로 소개됐다. 출처: rss.donga.com."
+      },
+      "en": {
+        "title": "Manufacturing Physical AI Academy to Cut Risk Before Unmanned Factory Shift",
+        "excerpt": "DBR and DAIM Research will hold a Manufacturing Physical AI Adoption Strategy Academy on May 29, 2026, covering simulation checks and integrated robots, equipment and logistics.",
+        "body": "DBR, Dong-A Business Review, and South Korean physical AI company DAIM Research will hold the “Manufacturing Physical AI Adoption Strategy Academy” on Friday, May 29, 2026. Session 1, a conference, will take place at the Dong-A Ilbo Gwanghwamun building. Session 2, a private workshop, will be scheduled separately with each company and held at KAIST’s manufacturing physical AI demonstration lab, “Kairos.” The program targets manufacturers that introduced robots to address labor shortages but experienced tangled logistics or halted operations. Its focus is to verify outcomes through simulation before real-world adoption and reduce failure risk. Manufacturing physical AI is presented not as simply adding more robots, but as a new autonomous manufacturing paradigm that integrates robots, equipment and logistics into one organic system that can judge and optimize on its own. Source: rss.donga.com."
+      },
+      "ja": {
+        "title": "製造フィジカルAIアカデミー開催、無人工場化前に失敗リスクを低減",
+        "excerpt": "DBRとDAIM Researchは2026年5月29日、製造フィジカルAI導入戦略アカデミーを開き、ロボット・設備・物流の統合と事前シミュレーション検証を扱う。",
+        "body": "DBR（東亜ビジネスレビュー）と韓国のフィジカルAI企業DAIM Researchは、2026年5月29日金曜日に「製造フィジカルAI導入戦略アカデミー」を開催する。セッション1のカンファレンスは東亜日報の光化門社屋で開かれ、セッション2のプライベートワークショップは企業別に日程を協議したうえで、KAISTの製造フィジカルAI実証ラボ「Kairos」で行われる。今回のプログラムは、人手不足への対応としてロボットを導入したものの、物流の混乱や現場稼働の停止を経験した製造現場を対象にしている。重点は、実際の導入前にシミュレーションで結果を検証し、失敗リスクを抑えることだ。製造フィジカルAIは、ロボットを数台増やす自動化ではなく、工場内のロボット、設備、物流を一つの有機的システムに統合し、自ら判断して最適化する自律製造の新たなパラダイムとして紹介された。出典: rss.donga.com."
+      },
+      "zh": {
+        "title": "制造物理AI学院将举办，助企业在无人工厂转型前降低失败风险",
+        "excerpt": "DBR与DAIM Research将于2026年5月29日举办制造物理AI导入战略学院，聚焦机器人、设备、物流整合及上线前模拟验证。",
+        "body": "DBR（东亚商业评论）与韩国物理AI企业DAIM Research将于2026年5月29日星期五举办“制造物理AI导入战略学院”。第一场会议将在东亚日报光化门办公楼举行；第二场私人工作坊将按企业分别协商日程，并在KAIST制造物理AI实证实验室“Kairos”进行。该项目面向为应对用工短缺而引入机器人、却曾遭遇物流混乱或现场停工的制造企业。其重点是在实际导入前通过模拟预先验证结果，从源头降低失败风险。制造物理AI并非简单增加几台机器人，而是把工厂内机器人、设备和物流整合为一个有机系统，使其能够自主判断并优化，被介绍为下一代自主制造的新范式。来源: rss.donga.com."
+      },
+      "es": {
+        "title": "Academia de IA física industrial busca reducir riesgos antes de fábricas sin personal",
+        "excerpt": "DBR y DAIM Research celebrarán el 29 de mayo de 2026 una academia sobre adopción de IA física industrial, con simulación previa e integración de robots, equipos y logística.",
+        "body": "DBR, Dong-A Business Review, y la empresa surcoreana de IA física DAIM Research celebrarán el viernes 29 de mayo de 2026 la “Academia de estrategia para la adopción de IA física en manufactura”. La sesión 1, una conferencia, se realizará en el edificio de Dong-A Ilbo en Gwanghwamun. La sesión 2, un taller privado, tendrá un calendario acordado por separado con cada empresa y se llevará a cabo en “Kairos”, el laboratorio de demostración de IA física para manufactura de KAIST. El programa está dirigido a plantas que incorporaron robots para responder a la escasez de personal, pero sufrieron desorden logístico o paradas operativas. Su eje es verificar resultados mediante simulación antes de la implementación real y reducir el riesgo de fracaso. La IA física industrial se presenta no como añadir unos cuantos robots, sino como un nuevo paradigma de manufactura autónoma que integra robots, equipos y logística en un sistema orgánico capaz de decidir y optimizar por sí mismo. Fuente: rss.donga.com."
+      },
+      "pt": {
+        "title": "Academia de IA física industrial quer reduzir riscos antes da fábrica sem pessoas",
+        "excerpt": "DBR e DAIM Research realizarão em 29 de maio de 2026 uma academia sobre adoção de IA física na manufatura, com simulação prévia e integração de robôs, equipamentos e logística.",
+        "body": "A DBR, Dong-A Business Review, e a empresa sul-coreana de IA física DAIM Research realizarão na sexta-feira, 29 de maio de 2026, a “Academia de Estratégia para Adoção de IA Física na Manufatura”. A sessão 1, em formato de conferência, ocorrerá no edifício do Dong-A Ilbo em Gwanghwamun. A sessão 2, um workshop privado, terá agenda definida individualmente com cada empresa e será realizada no “Kairos”, laboratório de demonstração de IA física para manufatura do KAIST. O programa mira fábricas que adotaram robôs para enfrentar a falta de mão de obra, mas passaram por confusão logística ou paralisações no chão de fábrica. O foco é verificar os resultados por simulação antes da implantação real e reduzir o risco de falhas. A IA física na manufatura é apresentada não como a simples adição de alguns robôs, mas como um novo paradigma de manufatura autônoma que integra robôs, equipamentos e logística em um sistema orgânico capaz de decidir e otimizar por conta própria. Fonte: rss.donga.com."
+      },
+      "de": {
+        "title": "Akademie für Physical AI in der Fertigung senkt Risiken vor der menschenarmen Fabrik",
+        "excerpt": "DBR und DAIM Research veranstalten am 29. Mai 2026 eine Akademie zur Einführung von Physical AI in der Fertigung, mit Simulation vor dem Einsatz und Integration von Robotern, Anlagen und Logistik.",
+        "body": "DBR, Dong-A Business Review, und das südkoreanische Physical-AI-Unternehmen DAIM Research veranstalten am Freitag, dem 29. Mai 2026, die „Manufacturing Physical AI Adoption Strategy Academy“. Session 1, eine Konferenz, findet im Gwanghwamun-Gebäude der Dong-A Ilbo statt. Session 2, ein privater Workshop, wird mit jedem Unternehmen gesondert terminiert und im KAIST-Demonstrationslabor für Manufacturing Physical AI „Kairos“ abgehalten. Das Programm richtet sich an Fertigungsstandorte, die wegen Personalmangels Roboter eingeführt haben, dabei aber logistische Verwerfungen oder Stillstände im Betrieb erlebt haben. Im Mittelpunkt steht, Ergebnisse vor der realen Einführung per Simulation zu prüfen und Ausfallrisiken zu verringern. Manufacturing Physical AI wird nicht als bloßes Hinzufügen einiger Roboter beschrieben, sondern als neues Paradigma autonomer Fertigung, das Roboter, Anlagen und Logistik in ein organisches System integriert, das selbst urteilt und optimiert. Quelle: rss.donga.com."
+      },
+      "fr": {
+        "title": "Une académie d’IA physique industrielle pour réduire les risques avant l’usine sans personnel",
+        "excerpt": "DBR et DAIM Research organiseront le 29 mai 2026 une académie sur l’adoption de l’IA physique en fabrication, avec simulation préalable et intégration robots, équipements et logistique.",
+        "body": "DBR, Dong-A Business Review, et l’entreprise sud-coréenne d’IA physique DAIM Research organiseront le vendredi 29 mai 2026 l’« Académie de stratégie d’adoption de l’IA physique en fabrication ». La session 1, une conférence, se tiendra dans l’immeuble de Dong-A Ilbo à Gwanghwamun. La session 2, un atelier privé, sera planifiée séparément avec chaque entreprise et aura lieu à « Kairos », le laboratoire de démonstration d’IA physique pour la fabrication de KAIST. Le programme vise les sites industriels qui ont introduit des robots pour répondre au manque de main-d’œuvre, mais ont connu des perturbations logistiques ou des arrêts d’exploitation. L’objectif est de vérifier les résultats par simulation avant le déploiement réel et de réduire les risques d’échec. L’IA physique en fabrication est présentée non comme l’ajout de quelques robots, mais comme un nouveau paradigme de fabrication autonome intégrant robots, équipements et logistique dans un système organique capable de décider et d’optimiser par lui-même. Source: rss.donga.com."
+      },
+      "ar": {
+        "title": "أكاديمية الذكاء الفيزيائي للتصنيع تخفض مخاطر الانتقال إلى المصنع بلا عمال",
+        "excerpt": "تنظم DBR وDAIM Research في 29 مايو 2026 أكاديمية لاستراتيجية تبني الذكاء الفيزيائي في التصنيع، مع التحقق بالمحاكاة ودمج الروبوتات والمعدات واللوجستيات.",
+        "body": "تعتزم DBR، أي Dong-A Business Review، وشركة DAIM Research الكورية المتخصصة في الذكاء الفيزيائي، تنظيم “أكاديمية استراتيجية تبني الذكاء الفيزيائي في التصنيع” يوم الجمعة 29 مايو 2026. ستقام الجلسة الأولى، وهي مؤتمر، في مبنى Dong-A Ilbo في غوانغهوامون. أما الجلسة الثانية، وهي ورشة خاصة، فسيتم الاتفاق على موعدها مع كل شركة على حدة وستعقد في مختبر KAIST التجريبي للذكاء الفيزيائي في التصنيع “Kairos”. يستهدف البرنامج مواقع التصنيع التي أدخلت الروبوتات لمواجهة نقص العمالة، لكنها واجهت ارتباكا في اللوجستيات أو توقفا في التشغيل الميداني. ويركز على التحقق من النتائج بالمحاكاة قبل التطبيق الفعلي وتقليل مخاطر الفشل. وقد قُدم الذكاء الفيزيائي للتصنيع لا بوصفه مجرد إضافة عدد من الروبوتات، بل كنموذج جديد للتصنيع الذاتي يدمج الروبوتات والمعدات واللوجستيات داخل نظام عضوي قادر على الحكم والتحسين ذاتيا. المصدر: rss.donga.com."
+      },
+      "hi": {
+        "title": "मैन्युफैक्चरिंग फिजिकल AI अकादमी, मानव-रहित फैक्टरी से पहले जोखिम घटाने पर केंद्रित",
+        "excerpt": "DBR और DAIM Research 29 मई 2026 को मैन्युफैक्चरिंग फिजिकल AI अपनाने की रणनीति अकादमी आयोजित करेंगे, जिसमें सिमुलेशन सत्यापन और रोबोट, उपकरण व लॉजिस्टिक्स एकीकरण शामिल होगा।",
+        "body": "DBR, यानी Dong-A Business Review, और दक्षिण कोरिया की फिजिकल AI कंपनी DAIM Research शुक्रवार, 29 मई 2026 को “मैन्युफैक्चरिंग फिजिकल AI एडॉप्शन स्ट्रैटेजी अकादमी” आयोजित करेंगे। पहला सत्र, एक कॉन्फ्रेंस, Dong-A Ilbo के ग्वांगह्वामुन कार्यालय में होगा। दूसरा सत्र, निजी वर्कशॉप, प्रत्येक कंपनी के साथ अलग से तय कार्यक्रम के अनुसार KAIST के मैन्युफैक्चरिंग फिजिकल AI प्रदर्शन लैब “Kairos” में होगा। यह कार्यक्रम उन विनिर्माण स्थलों के लिए है जिन्होंने श्रम की कमी दूर करने के लिए रोबोट लगाए, लेकिन लॉजिस्टिक्स अव्यवस्था या संचालन रुकने जैसी समस्याओं का सामना किया। इसका मुख्य उद्देश्य वास्तविक लागूकरण से पहले सिमुलेशन के जरिए परिणामों की जांच करना और विफलता जोखिम घटाना है। मैन्युफैक्चरिंग फिजिकल AI को केवल कुछ और रोबोट जोड़ने वाली ऑटोमेशन नहीं, बल्कि रोबोट, उपकरण और लॉजिस्टिक्स को एक जैविक प्रणाली में जोड़कर स्वयं निर्णय लेने और अनुकूलन करने वाला स्वायत्त विनिर्माण प्रतिमान बताया गया है। स्रोत: rss.donga.com."
+      },
+      "id": {
+        "title": "Akademi Physical AI Manufaktur Digelar, Kurangi Risiko Sebelum Pabrik Tanpa Orang",
+        "excerpt": "DBR dan DAIM Research akan menggelar Akademi Strategi Adopsi Physical AI Manufaktur pada 29 Mei 2026, membahas validasi simulasi serta integrasi robot, peralatan, dan logistik.",
+        "body": "DBR, Dong-A Business Review, dan perusahaan physical AI Korea Selatan DAIM Research akan menggelar “Akademi Strategi Adopsi Physical AI Manufaktur” pada Jumat, 29 Mei 2026. Sesi 1 berupa konferensi akan berlangsung di gedung Dong-A Ilbo Gwanghwamun. Sesi 2 berupa lokakarya privat akan dijadwalkan terpisah dengan masing-masing perusahaan dan digelar di laboratorium demonstrasi physical AI manufaktur KAIST, “Kairos”. Program ini menyasar lokasi manufaktur yang memasang robot untuk mengatasi kekurangan tenaga kerja, tetapi mengalami kekacauan logistik atau penghentian operasi di lapangan. Fokusnya adalah memverifikasi hasil lewat simulasi sebelum penerapan nyata dan mengurangi risiko kegagalan. Physical AI manufaktur diperkenalkan bukan sebagai penambahan beberapa robot, melainkan paradigma baru manufaktur otonom yang mengintegrasikan robot, peralatan, dan logistik pabrik menjadi satu sistem organik yang dapat menilai dan mengoptimalkan sendiri. Sumber: rss.donga.com."
+      }
+    }
+  },
+  {
+    "id": "fe5d44033a1c",
+    "slug": "hbr슈퍼팀의-비밀-실패를-학습으로-실험을-문화로-994775",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T18:34:15.438Z",
+    "updatedAt": "2026-05-10T18:34:15.438Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887924/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887924/2",
+    "titleFingerprint": "457dfd1d9a733eb4778a34d18d249426f41b9621",
+    "dedupKeys": [
+      "fe5d44033a1c6b92a31d2a2fd571da5369b1d0da",
+      "457dfd1d9a733eb4778a34d18d249426f41b9621",
+      "256f1a0478c02bc8790f1e3ff2f3bf48c89d9853"
+    ],
+    "imageUrl": "/images/articles/fe5d44033a1c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "슈퍼팀의 비밀은 실패 학습과 실험 문화, OKC 반등 사례가 보여준 고성과 조직 전략",
+        "excerpt": "HBR은 NBA 오클라호마시티 선더의 반등과 지식 노동자 6000여 명 분석을 통해 실패를 학습으로 바꾸고 실험을 문화로 만든 슈퍼팀의 특징을 조명했다.",
+        "body": "대부분의 팀은 한 차례 성과를 낸 뒤 익숙한 방식에 머물며 정체를 겪지만, 고성과 조직인 ‘슈퍼팀’은 실패를 학습으로 전환하고 실험을 일상화하며 장기 성과를 이어간다. HBR이 소개한 사례로 NBA 오클라호마시티 선더는 2022년 봄 58패로 리그 하위권에 머물렀으나 이후 몇 시즌 동안 40승, 57승, 68승을 차례로 기록하며 정상권으로 올라섰다. 비결은 스타 영입이 아니라 전성기 올스타 트레이드, 팀 해체 수준의 재편, 전통적 포지션 구성 탈피 등 과감한 실험이었다. 사회심리학자 론 프리드먼 연구팀도 금융, 법률, 의료, 기술 분야 지식 노동자 6000여 명을 분석해 고성과 팀의 공통점을 도출했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Superteams Learn From Failure and Build a Culture of Experimentation, as OKC’s Rise Shows",
+        "excerpt": "HBR highlights how superteams turn failure into learning and experimentation into culture, citing the Oklahoma City Thunder’s rebound and a study of more than 6,000 knowledge workers.",
+        "body": "Most teams stall after one period of success because they settle into familiar routines, avoid failure, and stop trying new ways of working. High-performing “superteams” operate differently: they keep learning, turn failure into lessons, and make experimentation part of the culture. HBR cites the NBA’s Oklahoma City Thunder as a clear example. After finishing near the bottom of the league with 58 losses in spring 2022, OKC rose over the next few seasons with 40, 57, and then 68 wins. The driver was not simply signing stars. The team traded prime All-Stars, reshaped the roster almost from the ground up, and moved beyond traditional position structures. Social psychologist Ron Friedman’s research team also analyzed more than 6,000 knowledge workers in finance, law, healthcare, and technology to identify traits shared by high-performing teams. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "スーパー チームの秘密は失敗からの学習と実験文化、OKCの躍進が示す高成果組織",
+        "excerpt": "HBRはNBAオクラホマシティ・サンダーの復活と知識労働者6000人超の分析を通じ、失敗を学びに変え実験を文化にするスーパー チームの特徴を伝えた。",
+        "body": "多くのチームは一度成果を上げた後、慣れたやり方にとどまり、失敗を避け、新しい働き方を試さないため停滞する。一方、高成果組織である「スーパー チーム」は、失敗を学習に変え、実験を日常化し、長期的な成功を続ける。HBRが紹介したNBAオクラホマシティ・サンダーはその代表例だ。2022年春に58敗を喫しリーグ下位にいた同チームは、その後数シーズンで40勝、57勝、68勝を順に記録し上位圏へ浮上した。要因はスター獲得ではなく、全盛期のオールスター選手のトレード、チームを解体に近い形で再編すること、伝統的なポジション構成からの脱却といった大胆な実験だった。社会心理学者ロン・フリードマンの研究チームも金融、法律、医療、技術分野の知識労働者6000人超を分析し、高成果チームの共通点を導いた。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "超级团队的秘密是从失败中学习并形成实验文化，OKC崛起揭示高绩效组织路径",
+        "excerpt": "HBR通过NBA俄克拉荷马城雷霆的反弹和对6000多名知识工作者的分析，说明超级团队如何把失败转化为学习、把实验变成文化。",
+        "body": "多数团队在取得一次成绩后会陷入停滞，因为它们安于熟悉的方法，回避失败，也不再尝试新的工作方式。被称为“超级团队”的高绩效组织则不同，它们持续学习，把失败转化为经验，并让实验成为文化。HBR提到的NBA俄克拉荷马城雷霆就是典型案例。该队在2022年春以58场失利位居联盟下游，但在之后几个赛季先后取得40胜、57胜和68胜，迅速升至强队行列。关键并非引进明星球员，而是大胆交易处于巅峰期的全明星球员，进行接近重建的调整，并摆脱传统位置配置。社会心理学家罗恩·弗里德曼团队还分析了金融、法律、医疗和技术等行业6000多名知识工作者，总结出高绩效团队的共同点。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "El secreto de los superequipos: aprender del fracaso y convertir la experimentación en cultura",
+        "excerpt": "HBR analiza el repunte de Oklahoma City Thunder y un estudio de más de 6.000 trabajadores del conocimiento para explicar cómo los superequipos aprenden del fracaso.",
+        "body": "La mayoría de los equipos se estanca después de un logro inicial porque se acomoda a métodos conocidos, evita el fracaso y deja de probar nuevas formas de trabajo. Los “superequipos” de alto rendimiento funcionan de otro modo: convierten los fallos en aprendizaje y hacen de la experimentación una práctica cultural. HBR cita como ejemplo a Oklahoma City Thunder de la NBA. En la primavera de 2022, el equipo sumó 58 derrotas y quedó en la parte baja de la liga, pero en las temporadas siguientes registró 40, 57 y 68 victorias, ascendiendo a la élite. La clave no fue fichar estrellas, sino experimentar con decisión: traspasar All-Stars en su plenitud, reconstruir el equipo casi por completo y abandonar estructuras tradicionales de posiciones. El equipo del psicólogo social Ron Friedman también analizó a más de 6.000 trabajadores del conocimiento en finanzas, derecho, salud y tecnología para identificar rasgos comunes de los equipos de alto rendimiento. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "O segredo dos supertimes: aprender com falhas e transformar experimentos em cultura",
+        "excerpt": "A HBR destaca a recuperação do Oklahoma City Thunder e um estudo com mais de 6.000 trabalhadores do conhecimento para explicar como supertimes aprendem com falhas.",
+        "body": "A maioria das equipes entra em estagnação depois de um período de sucesso porque se acomoda a métodos conhecidos, evita falhas e deixa de testar novas formas de trabalho. Os “supertimes” de alto desempenho agem de modo diferente: transformam fracassos em aprendizado e fazem da experimentação parte da cultura. A HBR cita o Oklahoma City Thunder, da NBA, como exemplo. Na primavera de 2022, a equipe teve 58 derrotas e ficou entre as últimas da liga, mas nas temporadas seguintes registrou 40, 57 e 68 vitórias, subindo ao grupo de elite. O fator decisivo não foi contratar estrelas, e sim fazer experimentos ousados: trocar All-Stars no auge, reformular o time quase por completo e abandonar formações tradicionais por posição. A equipe do psicólogo social Ron Friedman também analisou mais de 6.000 trabalhadores do conhecimento em finanças, direito, saúde e tecnologia para identificar pontos comuns das equipes de alto desempenho. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Das Geheimnis von Superteams: Aus Fehlern lernen und Experimente zur Kultur machen",
+        "excerpt": "HBR zeigt am Aufstieg der Oklahoma City Thunder und an einer Analyse von über 6.000 Wissensarbeitern, wie Superteams Fehler in Lernen und Experimente in Kultur verwandeln.",
+        "body": "Viele Teams stagnieren nach einem ersten Erfolg, weil sie an vertrauten Methoden festhalten, Fehler vermeiden und keine neuen Arbeitsweisen ausprobieren. Hochleistungsteams, sogenannte „Superteams“, handeln anders: Sie lernen kontinuierlich, machen Fehler zu Lernmomenten und verankern Experimente in ihrer Kultur. HBR nennt die Oklahoma City Thunder aus der NBA als Beispiel. Im Frühjahr 2022 stand das Team nach 58 Niederlagen im unteren Ligabereich, erzielte in den folgenden Spielzeiten jedoch nacheinander 40, 57 und 68 Siege und rückte in die Spitzengruppe auf. Entscheidend war nicht die Verpflichtung von Stars. Vielmehr trug mutiges Experimentieren den Wandel: All-Stars in ihrer Hochphase wurden getradet, das Team umfassend neu aufgebaut und traditionelle Positionsmuster verlassen. Das Forschungsteam des Sozialpsychologen Ron Friedman analysierte zudem mehr als 6.000 Wissensarbeiter aus Finanzwesen, Recht, Medizin und Technologie, um Gemeinsamkeiten leistungsstarker Teams herauszuarbeiten. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le secret des superéquipes: apprendre de l’échec et faire de l’expérimentation une culture",
+        "excerpt": "HBR s’appuie sur le rebond d’Oklahoma City Thunder et l’analyse de plus de 6.000 travailleurs du savoir pour montrer comment les superéquipes apprennent de l’échec.",
+        "body": "La plupart des équipes stagnent après un premier succès, car elles s’installent dans des méthodes familières, évitent l’échec et cessent d’essayer de nouvelles façons de travailler. Les « superéquipes » à haute performance agissent autrement: elles continuent d’apprendre, transforment l’échec en enseignement et font de l’expérimentation une culture. HBR cite l’Oklahoma City Thunder de la NBA comme exemple. Au printemps 2022, l’équipe comptait 58 défaites et figurait en bas de la ligue, puis elle a enregistré 40, 57 et 68 victoires au fil des saisons suivantes, rejoignant le haut du classement. Le moteur n’a pas été le recrutement de stars, mais des expérimentations audacieuses: échanger des All-Stars au sommet, reconstruire largement l’équipe et s’éloigner des compositions traditionnelles par poste. L’équipe du psychologue social Ron Friedman a aussi analysé plus de 6.000 travailleurs du savoir dans la finance, le droit, la santé et la technologie afin d’identifier les traits communs des équipes performantes. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "سر الفرق الفائقة: التعلم من الفشل وتحويل التجريب إلى ثقافة كما يظهر صعود OKC",
+        "excerpt": "تسلط HBR الضوء على عودة أوكلاهوما سيتي ثاندر وتحليل أكثر من 6000 عامل معرفي لشرح كيف تحول الفرق الفائقة الفشل إلى تعلم والتجريب إلى ثقافة.",
+        "body": "تتعثر معظم الفرق بعد تحقيق إنجاز واحد لأنها تتمسك بالطرق المألوفة، وتتجنب الفشل، ولا تجرب أساليب عمل جديدة. أما الفرق عالية الأداء، أو ما يسمى «الفرق الفائقة»، فتختلف في أنها تواصل التعلم، وتحول الفشل إلى دروس، وتجعل التجريب جزءا من ثقافتها. وتعرض HBR فريق أوكلاهوما سيتي ثاندر في دوري NBA مثالا واضحا. ففي ربيع 2022 سجل الفريق 58 خسارة وبقي في مؤخرة الدوري، لكنه حقق في المواسم التالية 40 ثم 57 ثم 68 فوزا وصعد إلى القمة. ولم يكن السر في ضم نجوم جدد، بل في تجارب جريئة شملت مقايضة لاعبي All-Star في ذروة عطائهم، وإعادة تشكيل الفريق على نطاق واسع، والتخلي عن التوزيع التقليدي للمراكز. كما حلل فريق عالم النفس الاجتماعي رون فريدمان أكثر من 6000 عامل معرفي في قطاعات المال والقانون والرعاية الصحية والتكنولوجيا لاستخلاص القواسم المشتركة بين فرق الأداء العالي. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "सुपरटीम का रहस्य: विफलता से सीखना और प्रयोग को संस्कृति बनाना, OKC ने दिखाया रास्ता",
+        "excerpt": "HBR ने ओक्लाहोमा सिटी थंडर की वापसी और 6000 से अधिक ज्ञानकर्मियों के विश्लेषण के जरिए बताया कि सुपरटीम विफलता को सीख और प्रयोग को संस्कृति बनाती हैं।",
+        "body": "अधिकांश टीमें एक बार सफलता पाने के बाद ठहराव में फंस जाती हैं, क्योंकि वे परिचित तरीकों पर टिक जाती हैं, विफलता से बचती हैं और काम करने के नए तरीके नहीं आजमातीं। उच्च प्रदर्शन करने वाली “सुपरटीम” अलग होती हैं: वे लगातार सीखती हैं, विफलता को सीख में बदलती हैं और प्रयोग को संस्कृति का हिस्सा बनाती हैं। HBR ने NBA की ओक्लाहोमा सिटी थंडर को उदाहरण बताया। 2022 के वसंत में 58 हार के साथ यह टीम लीग के निचले हिस्से में थी, लेकिन अगले कुछ सत्रों में उसने 40, 57 और 68 जीत दर्ज कर शीर्ष समूह में जगह बना ली। इसका कारण स्टार खिलाड़ियों को लाना नहीं था। टीम ने अपने चरम पर मौजूद All-Star खिलाड़ियों को ट्रेड किया, लगभग पूरी तरह पुनर्गठन किया और पारंपरिक पोजिशन संरचना से हटकर साहसिक प्रयोग किए। सामाजिक मनोवैज्ञानिक रॉन फ्रीडमैन की टीम ने भी वित्त, कानून, स्वास्थ्य और तकनीक क्षेत्रों के 6000 से अधिक ज्ञानकर्मियों का विश्लेषण कर उच्च प्रदर्शन वाली टीमों की समानताएं निकालीं। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Rahasia Supertim: Belajar dari Kegagalan dan Menjadikan Eksperimen sebagai Budaya",
+        "excerpt": "HBR menyoroti kebangkitan Oklahoma City Thunder dan analisis atas lebih dari 6.000 pekerja pengetahuan untuk menjelaskan bagaimana supertim belajar dari kegagalan.",
+        "body": "Sebagian besar tim mengalami stagnasi setelah satu periode sukses karena bertahan pada cara yang sudah dikenal, menghindari kegagalan, dan tidak mencoba metode kerja baru. Organisasi berkinerja tinggi yang disebut “supertim” berbeda: mereka terus belajar, mengubah kegagalan menjadi pelajaran, dan menjadikan eksperimen sebagai budaya. HBR mencontohkan Oklahoma City Thunder di NBA. Pada musim semi 2022, tim ini mencatat 58 kekalahan dan berada di papan bawah liga, tetapi dalam beberapa musim berikutnya meraih 40, 57, lalu 68 kemenangan hingga naik ke jajaran atas. Kuncinya bukan merekrut bintang, melainkan eksperimen berani seperti menukar pemain All-Star yang sedang berada di puncak, merombak tim secara menyeluruh, dan meninggalkan susunan posisi tradisional. Tim peneliti psikolog sosial Ron Friedman juga menganalisis lebih dari 6.000 pekerja pengetahuan di bidang keuangan, hukum, kesehatan, dan teknologi untuk menemukan kesamaan tim berkinerja tinggi. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "69873a650383",
+    "slug": "hbr팔지-않았더니-더-팔려-체험으로-의료가전-시장-개척-752526",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T18:32:55.584Z",
+    "updatedAt": "2026-05-10T18:32:55.584Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887906/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887906/2",
+    "titleFingerprint": "5e11cd2fba8a4e659582c33a6b6447b558559782",
+    "dedupKeys": [
+      "69873a6503830ef1262f0524ba33460a881d5ff4",
+      "5e11cd2fba8a4e659582c33a6b6447b558559782",
+      "058944b73eabd258aceab77f2a4ff03b0e58d4f1"
+    ],
+    "imageUrl": "/images/articles/69873a650383.jpg",
+    "i18n": {
+      "ko": {
+        "title": "세라젬 의료가전 성장 전략, ‘판매보다 체험’으로 국내 매출 9배 확대",
+        "excerpt": "세라젬은 2018년 국내 시장에 재진출한 뒤 의료가전 카테고리와 체험형 마케팅, 사후 관리 서비스를 앞세워 4년 만에 매출을 9배 키웠다.",
+        "body": "의료기기 기업 세라젬은 2018년 국내 시장 재진출을 선언한 뒤 ‘의료가전’이라는 새 카테고리와 체험형 마케팅을 앞세워 빠르게 성장했다. 1998년 창업한 세라젬은 척추를 따라 자동으로 움직이며 온열 마사지와 밀착 견인 효과를 제공하는 척추 온열 의료기기로 70여 개국에 진출했지만, 정작 한국에서는 전담 직원조차 없을 만큼 존재감이 작았다. 핵심 타깃은 40대 후반 여성으로 설정했다. 세라젬은 제품을 먼저 팔기보다 체험형 매장과 구매 후 밀착 관리 서비스에 집중했고, 국내 매출은 4년 만에 676억 원에서 6049억 원으로 9배 늘었다. HBR KOREA 2026년 5-6월호 케이스 스터디는 이 전략을 세라젬 성장의 핵심으로 분석했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Ceragem’s Medical Home Appliance Strategy Lifted Korea Sales Ninefold",
+        "excerpt": "After re-entering Korea in 2018, Ceragem expanded sales ninefold in four years by creating a medical home appliance category, experience stores and close after-sales care.",
+        "body": "Medical device company Ceragem re-entered the Korean market in 2018 and grew quickly by promoting a new “medical home appliance” category and experience-based marketing. Founded in 1998, Ceragem had expanded to more than 70 countries with spinal thermal medical devices that move automatically along the spine to provide heat massage and close traction effects. In Korea, however, the company had little presence and did not even have dedicated staff. Ceragem set women in their late 40s as its core target customers. Instead of focusing first on selling products, it emphasized experience stores and close post-purchase care. As a result, domestic sales rose ninefold in four years, from 67.6 billion won to 604.9 billion won. HBR Korea’s May-June 2026 case study analyzes this as the core of Ceragem’s growth strategy. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "セラジェムの医療家電戦略、体験重視で韓国売上9倍に拡大",
+        "excerpt": "セラジェムは2018年に韓国市場へ再参入し、医療家電カテゴリー、体験型マーケティング、購入後管理により4年で売上を9倍に伸ばした。",
+        "body": "医療機器企業セラジェムは2018年、韓国市場への再参入を宣言し、「医療家電」という新たなカテゴリーと体験型マーケティングを前面に出して成長した。1998年創業の同社は、脊椎に沿って自動で動き、温熱マッサージと密着牽引効果を提供する脊椎温熱医療機器で70カ国余りに進出していた。一方、韓国では専任スタッフさえいないほど知名度が低かった。中核ターゲットは40代後半の女性に設定した。製品を先に売るのではなく、体験型店舗と購入後のきめ細かな管理サービスに集中した結果、韓国国内売上は4年で676億ウォンから6049億ウォンへ9倍に増えた。HBR KOREA 2026年5-6月号のケーススタディは、この戦略を成長の核心として分析している。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "Ceragem医疗家电战略：以体验带动韩国销售额四年增至9倍",
+        "excerpt": "Ceragem自2018年重返韩国市场后，凭借医疗家电品类、体验式营销和购买后管理服务，四年内将销售额扩大至9倍。",
+        "body": "医疗器械企业Ceragem于2018年宣布重返韩国市场，并以“医疗家电”这一新类别和体验式营销实现快速增长。Ceragem创立于1998年，其脊椎温热医疗设备可沿脊椎自动移动，提供温热按摩和贴合牵引效果，已进入70多个国家。但在韩国本土，公司几乎没有知名度，甚至没有专门负责人员。Ceragem将核心目标客户设定为40多岁后半段女性。公司没有优先推动销售，而是集中打造体验型门店，并加强购买后的贴身管理服务。结果，韩国国内销售额在四年内从676亿韩元增至6049亿韩元，扩大9倍。HBR KOREA 2026年5-6月号案例研究将这一战略分析为Ceragem增长的核心。出处: rss.donga.com"
+      },
+      "es": {
+        "title": "Ceragem multiplicó por nueve sus ventas en Corea con estrategia de experiencia",
+        "excerpt": "Tras relanzarse en Corea en 2018, Ceragem creó la categoría de electrodomésticos médicos y elevó sus ventas nueve veces con tiendas de experiencia y atención posventa.",
+        "body": "La empresa de dispositivos médicos Ceragem volvió al mercado coreano en 2018 y creció con rapidez al impulsar la nueva categoría de “electrodomésticos médicos” y una estrategia de marketing basada en la experiencia. Fundada en 1998, Ceragem se había establecido en más de 70 países con equipos médicos térmicos para la columna que se desplazan automáticamente a lo largo de ella y ofrecen masaje con calor y efecto de tracción ajustada. Sin embargo, en Corea tenía poca presencia e incluso carecía de personal dedicado. La compañía definió como cliente central a mujeres de finales de los 40. En lugar de priorizar la venta directa, se concentró en tiendas de experiencia y en un servicio cercano después de la compra. Así, sus ventas nacionales pasaron en cuatro años de 67.600 millones de wones a 604.900 millones, nueve veces más. El caso de HBR KOREA de mayo-junio de 2026 analiza esta estrategia como la clave de su crecimiento. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Ceragem ampliou vendas na Coreia em 9 vezes com estratégia de experiência",
+        "excerpt": "Após voltar ao mercado coreano em 2018, a Ceragem criou a categoria de eletrodomésticos médicos e cresceu com lojas de experiência e acompanhamento pós-compra.",
+        "body": "A empresa de dispositivos médicos Ceragem anunciou em 2018 sua volta ao mercado coreano e cresceu rapidamente ao promover a nova categoria de “eletrodomésticos médicos” e o marketing baseado em experiência. Fundada em 1998, a Ceragem havia se firmado em mais de 70 países com aparelhos médicos térmicos para a coluna, que se movem automaticamente ao longo dela e oferecem massagem com calor e efeito de tração ajustada. Na Coreia, porém, a presença era pequena, a ponto de não haver equipe dedicada. O público-alvo central foi definido como mulheres no fim da faixa dos 40 anos. Em vez de vender primeiro, a empresa focou lojas de experiência e atendimento próximo após a compra. Com isso, as vendas domésticas subiram em quatro anos de 67,6 bilhões de won para 604,9 bilhões, um aumento de nove vezes. O estudo de caso da HBR KOREA de maio-junho de 2026 aponta essa estratégia como núcleo do crescimento da Ceragem. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Ceragem steigerte Korea-Umsatz mit Erlebnisstrategie auf das Neunfache",
+        "excerpt": "Nach dem Wiedereintritt in Korea 2018 wuchs Ceragem mit der Kategorie medizinischer Haushaltsgeräte, Erlebnisgeschäften und enger Betreuung nach dem Kauf stark.",
+        "body": "Der Medizingerätehersteller Ceragem kündigte 2018 seinen Wiedereintritt in den koreanischen Markt an und wuchs rasch mit der neuen Kategorie „medizinische Haushaltsgeräte“ sowie erlebnisorientiertem Marketing. Das 1998 gegründete Unternehmen hatte sich in mehr als 70 Ländern mit spinalen Wärmemedizingeräten etabliert, die sich automatisch entlang der Wirbelsäule bewegen und Wärmemassage sowie einen engen Traktionseffekt bieten. In Korea war Ceragem jedoch kaum bekannt und hatte nicht einmal eigenes Personal für den Markt. Als Kernzielgruppe wurden Frauen Ende 40 definiert. Statt zuerst auf den Verkauf zu setzen, konzentrierte sich das Unternehmen auf Erlebnisgeschäfte und intensive Betreuung nach dem Kauf. Der Inlandsumsatz stieg dadurch in vier Jahren von 67,6 Milliarden Won auf 604,9 Milliarden Won, also um das Neunfache. Die Fallstudie von HBR KOREA für Mai-Juni 2026 analysiert diese Strategie als Kern des Wachstums. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Ceragem a multiplié ses ventes coréennes par neuf grâce à l’expérience",
+        "excerpt": "Depuis son retour en Corée en 2018, Ceragem a créé la catégorie des appareils médicaux domestiques et accru ses ventes avec magasins d’expérience et suivi après achat.",
+        "body": "L’entreprise de dispositifs médicaux Ceragem a annoncé en 2018 son retour sur le marché coréen et a rapidement progressé en mettant en avant une nouvelle catégorie, les “appareils médicaux domestiques”, ainsi qu’un marketing fondé sur l’expérience. Fondée en 1998, Ceragem s’était implantée dans plus de 70 pays avec des dispositifs médicaux thermiques pour la colonne vertébrale, capables de se déplacer automatiquement le long du dos pour offrir massage chauffant et effet de traction rapprochée. En Corée, pourtant, sa présence était faible, au point de ne pas disposer de personnel dédié. La cible principale a été fixée aux femmes de la fin de la quarantaine. Plutôt que de vendre d’abord, l’entreprise s’est concentrée sur des magasins d’expérience et un suivi étroit après l’achat. Les ventes nationales sont ainsi passées en quatre ans de 67,6 milliards de wons à 604,9 milliards, soit neuf fois plus. L’étude de cas de HBR KOREA de mai-juin 2026 analyse cette stratégie comme le cœur de la croissance de Ceragem. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "استراتيجية سيراجيم للأجهزة الطبية المنزلية رفعت مبيعات كوريا 9 مرات",
+        "excerpt": "بعد عودتها إلى سوق كوريا في 2018، وسعت سيراجيم مبيعاتها 9 مرات خلال أربع سنوات عبر فئة الأجهزة الطبية المنزلية والتجربة وخدمة ما بعد الشراء.",
+        "body": "أعلنت شركة الأجهزة الطبية سيراجيم في 2018 عودتها إلى السوق الكورية، ثم نمت بسرعة عبر طرح فئة جديدة باسم “الأجهزة الطبية المنزلية” والاعتماد على التسويق القائم على التجربة. تأسست سيراجيم عام 1998، وانتشرت في أكثر من 70 دولة بأجهزة طبية حرارية للعمود الفقري تتحرك تلقائيا على امتداده وتوفر تدليكا حراريا وتأثير شد ملاصق. لكنها كانت شبه غير معروفة في كوريا، ولم يكن لديها حتى موظفون مخصصون للسوق المحلي. حددت الشركة النساء في أواخر الأربعينات كفئة عملاء رئيسية. وبدلا من التركيز أولا على البيع، ركزت على متاجر التجربة وخدمة المتابعة اللصيقة بعد الشراء. ونتيجة لذلك ارتفعت المبيعات المحلية خلال أربع سنوات من 67.6 مليار وون إلى 604.9 مليار وون، أي تسعة أضعاف. وتعرض دراسة حالة HBR KOREA لعدد مايو-يونيو 2026 هذه الاستراتيجية بوصفها محور نمو سيراجيم. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Ceragem की मेडिकल होम अप्लायंस रणनीति से कोरिया बिक्री 9 गुना बढ़ी",
+        "excerpt": "2018 में कोरियाई बाजार में दोबारा उतरने के बाद Ceragem ने मेडिकल होम अप्लायंस श्रेणी, अनुभव आधारित स्टोर और खरीद के बाद सेवा से बिक्री 9 गुना बढ़ाई।",
+        "body": "मेडिकल डिवाइस कंपनी Ceragem ने 2018 में कोरियाई बाजार में दोबारा प्रवेश की घोषणा की और “मेडिकल होम अप्लायंस” नाम की नई श्रेणी तथा अनुभव आधारित मार्केटिंग के जरिए तेजी से वृद्धि की। 1998 में स्थापित Ceragem रीढ़ के साथ अपने आप चलने वाले स्पाइनल थर्मल मेडिकल डिवाइस के जरिए 70 से अधिक देशों में पहुंच चुकी थी। यह उपकरण गर्म मसाज और निकट ट्रैक्शन प्रभाव देता है। लेकिन कोरिया में कंपनी लगभग अनजान थी और उसके पास समर्पित कर्मचारी भी नहीं थे। कंपनी ने 40 के दशक के उत्तरार्ध की महिलाओं को मुख्य ग्राहक माना। उत्पाद बेचने को पहले रखने के बजाय उसने अनुभव आधारित दुकानों और खरीद के बाद करीबी प्रबंधन सेवा पर ध्यान दिया। परिणामस्वरूप घरेलू बिक्री चार वर्षों में 67.6 अरब वॉन से 604.9 अरब वॉन हो गई, यानी 9 गुना बढ़ी। HBR KOREA के मई-जून 2026 केस स्टडी ने इस रणनीति को Ceragem की वृद्धि का मुख्य कारण बताया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Strategi Peralatan Medis Rumah Ceragem Dongkrak Penjualan Korea 9 Kali",
+        "excerpt": "Setelah kembali ke pasar Korea pada 2018, Ceragem menaikkan penjualan 9 kali lewat kategori peralatan medis rumah, pemasaran berbasis pengalaman, dan layanan purnabeli.",
+        "body": "Perusahaan perangkat medis Ceragem mengumumkan kembali masuk ke pasar Korea pada 2018 dan tumbuh cepat dengan mendorong kategori baru “peralatan medis rumah” serta pemasaran berbasis pengalaman. Didirikan pada 1998, Ceragem telah hadir di lebih dari 70 negara dengan perangkat medis termal tulang belakang yang bergerak otomatis mengikuti tulang belakang untuk memberi pijat panas dan efek traksi melekat. Namun di Korea, keberadaannya nyaris tidak dikenal dan bahkan tidak memiliki staf khusus. Perusahaan menetapkan perempuan usia akhir 40-an sebagai target pelanggan utama. Alih-alih lebih dulu menjual produk, Ceragem berfokus pada toko pengalaman dan layanan pendampingan setelah pembelian. Hasilnya, penjualan domestik naik dalam empat tahun dari 67,6 miliar won menjadi 604,9 miliar won, atau 9 kali lipat. Studi kasus HBR KOREA edisi Mei-Juni 2026 menganalisis strategi ini sebagai inti pertumbuhan Ceragem. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "be2a3ccdb683",
     "slug": "양자-인재들-복도서-부대끼며-아이디어-나눠야-혁신-나온다-638822",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Trump ke China 14-15, Arah KOSPI dan Risiko Mogok Samsung Jadi Sorotan",
         "excerpt": "Setelah naik lebih dari 13% pekan lalu dan ditutup di 7.498, KOSPI pekan ini menghadapi kunjungan Trump ke China pada 14-15, tekanan makro, risiko geopolitik, serta kemungkinan mogok Samsung Electronics.",
         "body": "Pekan ini, pasar mencermati apakah KOSPI akan melanjutkan reli atau memasuki jeda singkat. Menurut teks asli, indeks tersebut naik lebih dari 13% sepanjang pekan lalu dan ditutup di 7.498. Namun pekan baru dimulai dengan tekanan makroekonomi dan variabel geopolitik yang datang bersamaan. Kunjungan Trump ke China pada 14-15 disebut sebagai faktor yang dapat memengaruhi sentimen pasar. Selain itu, apakah Samsung Electronics akan mogok juga dipaparkan sebagai variabel bagi bursa domestik. Setelah kenaikan tajam, tekanan ambil untung, faktor eksternal, dan isu saham besar akan menguji arah KOSPI. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f5f2155604d7",
-    "slug": "도박판-오명-코스닥-바뀔까-시총보다-실적-중심-평가-예고-995824",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T09:10:43.699Z",
-    "updatedAt": "2026-05-10T09:10:43.699Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042738",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042738",
-    "titleFingerprint": "176b25a4f90684a0db8ef6a9705afbc6847dcd11",
-    "dedupKeys": [
-      "f5f2155604d718de1f08ec96b4edf0bd2630cf27",
-      "176b25a4f90684a0db8ef6a9705afbc6847dcd11",
-      "fe80e2dbb12ec012b63e25855868fe07e5f6ac38"
-    ],
-    "imageUrl": "/images/articles/f5f2155604d7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 ‘실적 중심 평가’ 예고…시총 상위 고평가 논란 바뀔까",
-        "excerpt": "코스닥 시가총액 상위권에 실적 기반이 취약한 고평가 종목이 많다는 지적이 이어지며, 향후 평가 기준이 시총보다 실적 중심으로 바뀔지 주목된다.",
-        "body": "코스닥 시장에서 시가총액 상위 종목의 평가 기준이 실적 중심으로 바뀔 수 있을지 관심이 커지고 있다. 그동안 코스닥 시총 상위권에는 실적 기반이 충분히 검증되지 않았거나 취약한 기업들이 다수 포함돼 있다는 지적이 고질적으로 제기돼왔다. 이들 종목이 높은 시가총액을 바탕으로 상위권에 오르면서 시장 대표성과 벤치마크 지수의 신뢰성에도 부담을 준다는 문제가 함께 거론됐다. 앞으로 평가의 무게가 시총보다 실적에 더 실릴 경우, 고평가 논란을 줄이고 코스닥 시장의 체질 개선으로 이어질지 주목된다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Kosdaq May Shift to Earnings-Based Valuation as Overpricing Concerns Grow",
-        "excerpt": "Concerns that many top Kosdaq stocks by market capitalization lack solid earnings are raising attention over whether evaluations will move from market cap to performance.",
-        "body": "Attention is growing over whether the Kosdaq market could shift its assessment of leading stocks toward earnings-based standards. A chronic issue has been that many companies near the top of the Kosdaq by market capitalization are viewed as highly valued despite weak or insufficiently verified earnings foundations. As such firms rise in market-cap rankings, concerns have also been raised about market representation and the credibility of benchmark indexes. If future evaluations place more weight on actual performance than market value, it remains to be seen whether this can reduce overvaluation criticism and improve the structure of the Kosdaq market. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "コスダック、業績重視の評価へ転換か　時価総額上位の高評価論争に注目",
-        "excerpt": "コスダック時価総額上位銘柄の多くが業績基盤の弱い高評価銘柄だとの指摘が続き、評価軸が時価総額から業績へ移るか注目されている。",
-        "body": "コスダック市場で、時価総額上位銘柄の評価基準が業績中心へ変わるのか関心が高まっている。これまでコスダックの時価総額上位には、業績基盤が十分に検証されていない、または脆弱な企業が多く含まれているとの指摘が慢性的に出ていた。こうした銘柄が高い時価総額を背景に上位へ上がることで、市場の代表性やベンチマーク指数の信頼性にも負担を与えるとの問題も挙げられている。今後、評価の重心が時価総額より業績に置かれる場合、高評価をめぐる批判を減らし、コスダック市場の体質改善につながるかが注目される。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KOSDAQ或转向业绩中心评价，市值前列高估争议受关注",
-        "excerpt": "KOSDAQ市值排名靠前的股票中，不少被指业绩基础薄弱却估值偏高，市场关注评价标准是否会从市值转向业绩。",
-        "body": "KOSDAQ市场是否会将市值前列股票的评价标准转向以业绩为中心，正受到关注。长期以来，KOSDAQ市值排名靠前的公司中，有不少被认为业绩基础尚未得到充分验证，或业绩支撑较为薄弱，却处于较高估值水平。这些公司凭借较高市值进入前列，也引发了关于市场代表性以及基准指数可信度的担忧。若未来评价权重从市值更多转向实际业绩，能否减少高估争议并推动KOSDAQ市场体质改善，将成为观察重点。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Kosdaq apunta a valorar más los resultados ante críticas por acciones sobrevaloradas",
-        "excerpt": "La presencia de muchas acciones del Kosdaq con alta capitalización pero débil base de resultados reabre el debate sobre una evaluación centrada en desempeño.",
-        "body": "Crece la atención sobre si el mercado Kosdaq cambiará la evaluación de sus principales valores hacia criterios basados en resultados. Durante años se ha señalado como problema crónico que muchas compañías ubicadas en los primeros puestos por capitalización bursátil tienen bases de beneficios débiles o aún no suficientemente verificadas, pese a sus elevadas valoraciones. Su ascenso en los rankings por valor de mercado también ha generado dudas sobre la representatividad del mercado y la credibilidad de los índices de referencia. Si en adelante el peso de la evaluación se desplaza de la capitalización a los resultados, se observará si esto reduce las críticas por sobrevaloración y mejora la estructura del Kosdaq. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Kosdaq pode priorizar resultados na avaliação após críticas a ações sobrevalorizadas",
-        "excerpt": "A presença de muitas empresas do Kosdaq com alto valor de mercado e base frágil de resultados levanta atenção sobre uma possível avaliação focada em desempenho.",
-        "body": "Aumenta a atenção sobre a possibilidade de o mercado Kosdaq passar a avaliar seus principais papéis com maior foco em resultados. Há tempos se aponta como problema crônico o fato de muitas empresas entre as maiores por capitalização de mercado terem fundamentos de desempenho frágeis ou ainda não suficientemente comprovados, apesar de avaliações elevadas. A presença dessas companhias no topo por valor de mercado também gera questionamentos sobre a representatividade do mercado e a confiabilidade dos índices de referência. Caso o peso da avaliação migre da capitalização para os resultados, será observado se isso reduz críticas de sobrevalorização e melhora a estrutura do Kosdaq. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Kosdaq vor stärkerer Gewinnbewertung: Zweifel an hoch bewerteten Top-Aktien",
-        "excerpt": "Viele Kosdaq-Schwergewichte nach Marktkapitalisierung gelten trotz schwacher Ergebnisbasis als hoch bewertet, weshalb ein stärkerer Fokus auf Leistung diskutiert wird.",
-        "body": "Im Kosdaq-Markt wächst die Aufmerksamkeit dafür, ob die Bewertung führender Aktien künftig stärker an den tatsächlichen Ergebnissen ausgerichtet wird. Seit Langem gilt es als chronisches Problem, dass unter den nach Marktkapitalisierung führenden Kosdaq-Unternehmen viele Firmen sind, deren Ertragsbasis schwach oder noch nicht ausreichend bestätigt ist, obwohl sie hoch bewertet werden. Dass solche Titel durch hohe Börsenwerte in die Spitzengruppe aufsteigen, belastet nach Kritikern auch die Marktrepräsentativität und die Glaubwürdigkeit von Benchmark-Indizes. Sollte künftig die Leistung stärker als die Marktkapitalisierung gewichtet werden, wird entscheidend sein, ob dies Überbewertungsdebatten verringert und die Struktur des Kosdaq verbessert. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le Kosdaq pourrait privilégier les résultats face aux critiques de survalorisation",
-        "excerpt": "La forte présence de valeurs du Kosdaq bien classées en capitalisation mais aux résultats fragiles relance l’attention sur une évaluation centrée sur la performance.",
-        "body": "L’attention grandit autour d’un possible changement des critères d’évaluation des principales valeurs du Kosdaq vers une approche davantage fondée sur les résultats. Le marché fait depuis longtemps l’objet de critiques car nombre d’entreprises situées en haut du classement par capitalisation disposent d’une base de performance fragile ou insuffisamment vérifiée, tout en affichant des valorisations élevées. Leur présence parmi les premières capitalisations soulève aussi des questions sur la représentativité du marché et la crédibilité des indices de référence. Si l’évaluation accorde désormais plus de poids aux résultats qu’à la capitalisation, il faudra voir si cela réduit les critiques de survalorisation et améliore la structure du Kosdaq. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسداك قد يتجه لتقييم قائم على الأرباح وسط جدل بشأن الأسهم المرتفعة التقييم",
-        "excerpt": "تزايدت التساؤلات حول كوسداك مع وجود شركات كبيرة بالقيمة السوقية لكنها ضعيفة من حيث أساس الأرباح، ما يسلط الضوء على احتمال تفضيل الأداء على القيمة السوقية.",
-        "body": "يتزايد الاهتمام بما إذا كان سوق كوسداك سيحوّل تقييم أسهمه الكبرى نحو معايير تركز على الأداء والأرباح. فقد طُرحت منذ فترة طويلة مشكلة مزمنة تتمثل في أن عدداً كبيراً من الشركات المتقدمة في ترتيب القيمة السوقية في كوسداك لا تملك أساساً قوياً أو مثبتاً بما يكفي من حيث النتائج، رغم تقييماتها المرتفعة. وصعود هذه الشركات إلى المراتب الأولى اعتماداً على القيمة السوقية أثار أيضاً مخاوف بشأن تمثيل السوق ومصداقية مؤشرات القياس. وإذا أصبح وزن التقييم في المستقبل منصباً على النتائج أكثر من القيمة السوقية، فسيكون موضع متابعة ما إذا كان ذلك سيخفف جدل المبالغة في التقييم ويحسن بنية سوق كوسداك. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "कोस्डाक में प्रदर्शन आधारित मूल्यांकन की आहट, ऊंचे वैल्यूएशन पर बढ़ी नजर",
-        "excerpt": "कोस्डाक की बाजार पूंजीकरण सूची में ऊपर मौजूद कई कंपनियों की कमाई का आधार कमजोर माना जा रहा है, जिससे मूल्यांकन में प्रदर्शन को प्राथमिकता देने पर ध्यान है।",
-        "body": "कोस्डाक बाजार में यह सवाल ध्यान खींच रहा है कि क्या शीर्ष शेयरों का मूल्यांकन आगे बाजार पूंजीकरण के बजाय प्रदर्शन और कमाई पर अधिक आधारित होगा। लंबे समय से यह समस्या बताई जाती रही है कि कोस्डाक की बाजार पूंजीकरण रैंकिंग में ऊपर मौजूद कई कंपनियों की कमाई का आधार कमजोर है या पर्याप्त रूप से प्रमाणित नहीं हुआ है, फिर भी उनका मूल्यांकन ऊंचा है। ऐसी कंपनियों के ऊंचे बाजार मूल्य के आधार पर शीर्ष पर पहुंचने से बाजार की प्रतिनिधित्व क्षमता और बेंचमार्क सूचकांकों की विश्वसनीयता पर भी सवाल उठे हैं। यदि आगे मूल्यांकन में बाजार पूंजीकरण से अधिक वास्तविक प्रदर्शन को महत्व दिया जाता है, तो यह देखना होगा कि क्या इससे ऊंचे वैल्यूएशन की आलोचना घटेगी और कोस्डाक बाजार की संरचना सुधरेगी। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Kosdaq Bisa Beralih ke Evaluasi Berbasis Kinerja di Tengah Kritik Valuasi Tinggi",
-        "excerpt": "Banyak saham papan atas Kosdaq berdasarkan kapitalisasi pasar dinilai memiliki dasar kinerja lemah, memicu perhatian pada evaluasi yang lebih menekankan hasil usaha.",
-        "body": "Perhatian meningkat terhadap kemungkinan pasar Kosdaq mengubah penilaian saham-saham utamanya ke arah standar yang lebih berpusat pada kinerja. Selama ini, masalah kronis yang sering disorot adalah banyak perusahaan di jajaran teratas kapitalisasi pasar Kosdaq memiliki dasar laba yang lemah atau belum cukup teruji, meski valuasinya tinggi. Kenaikan perusahaan seperti itu ke peringkat atas berdasarkan nilai pasar juga menimbulkan kekhawatiran atas representasi pasar dan kredibilitas indeks acuan. Jika ke depan bobot evaluasi lebih diarahkan pada hasil usaha daripada kapitalisasi pasar, pasar akan mencermati apakah langkah itu dapat mengurangi kritik valuasi berlebihan dan memperbaiki struktur Kosdaq. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "21822c9ac2f1",
-    "slug": "코스닥-1부리그엔-연기금-유입-기대-3부리그는-관리퇴출-461731",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T09:09:38.919Z",
-    "updatedAt": "2026-05-10T09:09:38.919Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042737",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042737",
-    "titleFingerprint": "be16bad8e9adfb0e0858f0c7f5c757918e6c0e95",
-    "dedupKeys": [
-      "21822c9ac2f1ae0b0c341871573fbc78254d6e52",
-      "be16bad8e9adfb0e0858f0c7f5c757918e6c0e95",
-      "086c48c33afa98319729a1a3153b6f784830313a"
-    ],
-    "imageUrl": "/images/articles/21822c9ac2f1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 승강제 도입, 1부리그 연기금 유입 기대와 3부리그 관리 강화",
-        "excerpt": "정부가 코스닥 승강제 도입을 통해 우량 기업군 선별을 넘어 패시브 자금과 정책 자금이 유입되는 투자 생태계 구축에 초점을 맞추고 있다.",
-        "body": "정부의 코스닥 승강제 도입은 코스닥 시장을 우량 기업군 중심의 1부리그와 관리·퇴출 대상이 될 수 있는 하위 그룹으로 나눠 투자 환경을 정비하려는 방안이다. 핵심은 단순히 좋은 기업을 골라 보여주는 데 그치지 않고, 지수를 추종하는 패시브 자금과 정책 자금이 활발히 들어올 수 있는 구조를 만드는 데 있다. 이에 따라 1부리그로 분류되는 기업군에는 연기금 유입 기대가 커질 수 있고, 3부리그 성격의 하위 그룹은 관리와 퇴출 기준이 강화될 가능성이 제기된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSDAQ Promotion System Raises Pension Fund Hopes for Top Tier Firms",
-        "excerpt": "The government’s planned KOSDAQ promotion-and-relegation system aims to build an investment ecosystem that can attract passive and policy funds beyond simply highlighting strong companies.",
-        "body": "The government’s introduction of a KOSDAQ promotion-and-relegation system is aimed at reorganizing the market into a top tier of stronger companies and lower groups that may face management oversight or removal. The focus is not only on identifying and displaying quality companies, but also on creating a structure where index-tracking passive money and policy funds can flow more actively. As a result, companies placed in the first tier may see expectations rise for pension fund inflows, while lower groups with a third-tier character could face tighter management and delisting standards. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSDAQ昇降格制、1部企業に年金資金流入期待と下位管理強化",
-        "excerpt": "政府のKOSDAQ昇降格制導入は、優良企業群の選別にとどまらず、パッシブ資金や政策資金が流入しやすい投資生態系の構築を狙う。",
-        "body": "政府によるKOSDAQ昇降格制の導入は、KOSDAQ市場を優良企業中心の1部リーグと、管理・退出対象になり得る下位グループに分け、投資環境を整える案だ。焦点は単に良い企業を選んで見せることではなく、指数に連動するパッシブ資金と政策資金がより活発に流入できる構造をつくる点にある。これにより1部リーグに分類される企業群には年金基金流入への期待が高まり、3部リーグ性格の下位グループには管理と退出基準が強化される可能性が示されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "科斯达克升降级制引关注：一部企业盼养老金流入，下层或加强管理",
-        "excerpt": "韩国政府推动科斯达克升降级制，目标不只是筛选优质企业，而是建立可吸引被动资金和政策资金流入的投资生态。",
-        "body": "韩国政府引入科斯达克升降级制，意在把科斯达克市场整理为以优质企业为中心的一部联赛，以及可能面临管理和退出的下层群体。其重点并非单纯展示优良企业，而是建立一种结构，使跟踪指数的被动资金和政策资金能够更活跃地流入。由此，被划入一部联赛的企业群可能提升养老金资金流入预期，而具有三部联赛性质的下层群体则可能面临更严格的管理和退出标准。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Sistema de ascenso en KOSDAQ eleva expectativas de fondos de pensiones",
-        "excerpt": "El gobierno busca que el nuevo sistema de ascenso y descenso del KOSDAQ no solo identifique empresas sólidas, sino que atraiga fondos pasivos y de política pública.",
-        "body": "La introducción por parte del gobierno de un sistema de ascenso y descenso en KOSDAQ apunta a reorganizar el mercado en una primera división centrada en empresas sólidas y grupos inferiores que podrían quedar sujetos a gestión o exclusión. El foco no está solo en seleccionar y mostrar buenas compañías, sino en crear una estructura que permita una entrada más activa de fondos pasivos que siguen índices y de fondos de política pública. Así, las empresas clasificadas en la primera división podrían generar expectativas de entrada de fondos de pensiones, mientras que los grupos de tipo tercera división podrían enfrentar criterios más estrictos de gestión y salida. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Sistema de acesso no KOSDAQ aumenta expectativa por fundos de pensão",
-        "excerpt": "O governo quer que o sistema de acesso e rebaixamento do KOSDAQ vá além da seleção de boas empresas e ajude a atrair fundos passivos e recursos de política pública.",
-        "body": "A introdução pelo governo de um sistema de acesso e rebaixamento no KOSDAQ busca reorganizar o mercado em uma primeira divisão formada por empresas de melhor qualidade e grupos inferiores que podem ser alvo de gestão ou exclusão. O objetivo não é apenas destacar boas companhias, mas criar uma estrutura em que recursos passivos ligados a índices e fundos de política pública possam entrar de forma mais ativa. Com isso, empresas classificadas na primeira divisão podem ver crescer a expectativa de entrada de fundos de pensão, enquanto grupos com perfil de terceira divisão podem enfrentar critérios mais rígidos de gestão e retirada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSDAQ-Aufstiegssystem weckt Hoffnungen auf Pensionsfonds im Topsegment",
-        "excerpt": "Die Regierung will mit dem KOSDAQ-Auf- und Abstiegssystem nicht nur starke Unternehmen sichtbar machen, sondern ein Umfeld für passive und politische Mittel schaffen.",
-        "body": "Die Einführung eines Auf- und Abstiegssystems für den KOSDAQ durch die Regierung zielt darauf, den Markt in eine erste Liga mit stärkeren Unternehmen und niedrigere Gruppen zu ordnen, die verwaltet oder ausgeschlossen werden könnten. Im Mittelpunkt steht nicht nur, gute Unternehmen auszuwählen und sichtbar zu machen, sondern eine Struktur zu schaffen, in die indexnachbildende passive Gelder und politische Fördermittel aktiver fließen können. Dadurch könnten Unternehmen der ersten Liga höhere Erwartungen an Zuflüsse von Pensionsfonds wecken, während Gruppen mit Drittligacharakter strengeren Management- und Ausschlussstandards unterliegen könnten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le système de promotion du KOSDAQ nourrit l’espoir d’afflux de fonds de pension",
-        "excerpt": "Le gouvernement veut que le système de promotion et relégation du KOSDAQ dépasse la sélection d’entreprises solides et attire fonds passifs et capitaux publics.",
-        "body": "L’introduction par le gouvernement d’un système de promotion et de relégation au KOSDAQ vise à réorganiser le marché entre une première division centrée sur les entreprises solides et des groupes inférieurs susceptibles d’être soumis à une gestion renforcée ou à une sortie. L’enjeu n’est pas seulement de sélectionner et de montrer les bonnes entreprises, mais de créer une structure où les capitaux passifs suivant les indices et les fonds de politique publique peuvent entrer plus activement. Les entreprises classées en première division pourraient ainsi susciter des attentes d’afflux de fonds de pension, tandis que les groupes de type troisième division pourraient faire face à des critères plus stricts de gestion et de retrait. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نظام الصعود في كوسداك يعزز آمال تدفق أموال المعاشات إلى الفئة الأولى",
-        "excerpt": "تسعى الحكومة عبر نظام الصعود والهبوط في كوسداك إلى ما يتجاوز فرز الشركات الجيدة، ببناء بيئة تجذب الأموال السلبية وأموال السياسات.",
-        "body": "يهدف إدخال الحكومة نظام الصعود والهبوط في سوق كوسداك إلى تنظيم السوق في فئة أولى تتركز فيها الشركات الجيدة، ومجموعات أدنى قد تخضع للإدارة أو الخروج. ولا يقتصر التركيز على اختيار الشركات القوية وعرضها، بل يشمل بناء هيكل يمكن أن تتدفق إليه بشكل أنشط الأموال السلبية التي تتبع المؤشرات وأموال السياسات. وبذلك قد ترتفع توقعات دخول أموال صناديق المعاشات إلى الشركات المصنفة في الفئة الأولى، بينما قد تواجه المجموعات ذات طابع الفئة الثالثة معايير أشد للإدارة والخروج. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSDAQ प्रमोशन सिस्टम से शीर्ष कंपनियों में पेंशन फंड आने की उम्मीद",
-        "excerpt": "सरकार का KOSDAQ प्रमोशन और रेलिगेशन सिस्टम केवल मजबूत कंपनियों की पहचान नहीं, बल्कि पैसिव और नीति फंड आकर्षित करने वाला निवेश ढांचा बनाना चाहता है।",
-        "body": "सरकार द्वारा KOSDAQ में प्रमोशन और रेलिगेशन सिस्टम लागू करने का उद्देश्य बाजार को मजबूत कंपनियों वाली पहली श्रेणी और प्रबंधन या निकास के दायरे में आ सकने वाले निचले समूहों में व्यवस्थित करना है। इसका केंद्र केवल अच्छी कंपनियों को चुनकर दिखाना नहीं, बल्कि ऐसा ढांचा बनाना है जिसमें सूचकांक का अनुसरण करने वाला पैसिव पैसा और नीति आधारित फंड अधिक सक्रिय रूप से आ सकें। इससे पहली श्रेणी में रखी गई कंपनियों में पेंशन फंड प्रवाह की उम्मीद बढ़ सकती है, जबकि तीसरी श्रेणी जैसे निचले समूहों पर प्रबंधन और निकास मानदंड कड़े हो सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Sistem Promosi KOSDAQ Picu Harapan Dana Pensiun Masuk ke Divisi Utama",
-        "excerpt": "Pemerintah menyiapkan sistem promosi dan degradasi KOSDAQ untuk membangun ekosistem investasi yang menarik dana pasif dan dana kebijakan, bukan sekadar memilah emiten unggul.",
-        "body": "Penerapan sistem promosi dan degradasi KOSDAQ oleh pemerintah bertujuan menata pasar menjadi divisi utama yang berisi perusahaan berkualitas dan kelompok bawah yang dapat masuk pengelolaan atau penghapusan. Fokusnya bukan hanya memilih dan menampilkan perusahaan unggul, tetapi membangun struktur agar dana pasif yang mengikuti indeks dan dana kebijakan dapat mengalir lebih aktif. Dengan demikian, perusahaan yang masuk divisi utama dapat memunculkan harapan masuknya dana pensiun, sementara kelompok bawah berciri divisi tiga berpotensi menghadapi standar pengelolaan dan penghapusan yang lebih ketat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "532d8821cc23",
-    "slug": "코스닥-1부리그-100社-이내로-추린다-996878",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T09:08:40.278Z",
-    "updatedAt": "2026-05-10T09:08:40.278Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042753",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042753",
-    "titleFingerprint": "da42878e948b8895fd85fecefff2a7c0393e0bdb",
-    "dedupKeys": [
-      "532d8821cc23a1aced6c8d4795b9c40ddd527efa",
-      "da42878e948b8895fd85fecefff2a7c0393e0bdb",
-      "172a310b6239efe2a671f455c4fa362553db5448"
-    ],
-    "imageUrl": "/images/articles/532d8821cc23.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스닥 1부리그 100社 이내로 축소, 승강제 10월 가동 전망",
-        "excerpt": "정부와 한국거래소가 코스닥 활성화를 위해 프리미엄·스탠더드·관리군 3개 리그로 나누는 승강제를 이르면 올해 10월부터 시행할 전망이다.",
-        "body": "정부와 한국거래소가 코스닥 시장 활성화를 위해 도입하는 ‘승강제’가 이르면 올해 10월부터 가동될 전망이다. 이번 방안은 코스닥 시장을 프리미엄, 스탠더드, 관리군 등 3개 리그로 나누고 기업을 분류하는 것이 핵심이다. 특히 코스닥 ‘1부리그’에 해당하는 프리미엄군은 100개사 이내로 추려질 것으로 알려졌다. 시장을 등급화해 우량 기업을 부각하고 관리 필요 기업을 구분하려는 취지다. 향후 제도 시행 시 코스닥 상장사의 시장 내 위상과 투자자 인식에도 변화가 예상된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSDAQ Top League May Be Capped Under 100 Firms as Promotion System Nears",
-        "excerpt": "The government and Korea Exchange are expected to launch a KOSDAQ promotion and relegation system as early as October, dividing the market into three tiers.",
-        "body": "The government and Korea Exchange are expected to begin operating a new promotion and relegation system for the KOSDAQ market as early as this October. The plan centers on dividing KOSDAQ-listed companies into three leagues: Premium, Standard and a management group. The Premium group, effectively the market’s “first division,” is expected to be narrowed to fewer than 100 companies. The measure is intended to classify the market, highlight stronger companies and distinguish firms requiring closer oversight. If implemented, the system could affect how listed KOSDAQ firms are positioned and perceived by investors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "コスダック1部リーグ100社以内へ、昇降格制10月稼働の見通し",
-        "excerpt": "韓国政府と韓国取引所は、コスダック活性化に向け市場をプレミアム、スタンダード、管理群に分ける昇降格制を早ければ10月に始める見通しだ。",
-        "body": "韓国政府と韓国取引所がコスダック市場の活性化に向けて導入する「昇降格制」が、早ければ今年10月から稼働する見通しだ。今回の案は、コスダック市場をプレミアム、スタンダード、管理群の3つのリーグに分け、企業を分類することが柱となる。特にコスダックの「1部リーグ」に当たるプレミアム群は、100社以内に絞られるとされる。市場を等級化し、優良企業を目立たせる一方、管理が必要な企業を区分する狙いだ。制度が実施されれば、上場企業の市場内での位置づけや投資家の認識にも変化が見込まれる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSDAQ一部联赛拟缩至100家公司以内，升降级制或10月启动",
-        "excerpt": "韩国政府和韩国交易所为激活KOSDAQ市场，预计最快今年10月启动升降级制，将市场分为高端、标准和管理组三个层级。",
-        "body": "韩国政府和韩国交易所为激活KOSDAQ市场而引入的“升降级制”，预计最快将于今年10月开始运行。该方案的核心是把KOSDAQ市场分为高端、标准和管理组三个联赛，并对企业进行分类。其中，相当于KOSDAQ“一部联赛”的高端组据悉将被压缩至100家公司以内。此举旨在通过市场分级突出优质企业，同时区分需要管理的企业。若制度实施，KOSDAQ上市公司在市场中的地位以及投资者认知也可能发生变化。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSDAQ limitaría su primera división a menos de 100 firmas desde octubre",
-        "excerpt": "El Gobierno surcoreano y Korea Exchange prevén activar desde octubre un sistema de ascenso y descenso para dividir KOSDAQ en Premium, Standard y grupo de gestión.",
-        "body": "El Gobierno surcoreano y Korea Exchange prevén poner en marcha, tan pronto como en octubre de este año, un sistema de “ascenso y descenso” para revitalizar el mercado KOSDAQ. La medida consiste en dividir el mercado en tres ligas: Premium, Standard y grupo de gestión, y clasificar a las empresas dentro de ellas. El grupo Premium, equivalente a la “primera división” de KOSDAQ, quedaría limitado a menos de 100 compañías. El objetivo es jerarquizar el mercado, destacar a las empresas de mayor calidad y separar a las que requieren gestión adicional. Si se aplica, el sistema podría cambiar la posición de las cotizadas y la percepción de los inversores. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSDAQ deve limitar primeira divisão a menos de 100 empresas em outubro",
-        "excerpt": "O governo sul-coreano e a Korea Exchange devem lançar já em outubro um sistema de promoção e rebaixamento que dividirá a KOSDAQ em três grupos.",
-        "body": "O governo sul-coreano e a Korea Exchange devem iniciar, já em outubro deste ano, um sistema de “promoção e rebaixamento” para revitalizar o mercado KOSDAQ. A proposta tem como foco dividir o mercado em três ligas: Premium, Standard e grupo de gestão, classificando as empresas em cada uma delas. O grupo Premium, equivalente à “primeira divisão” da KOSDAQ, deve ser reduzido a menos de 100 companhias. A medida busca criar uma classificação de mercado, destacar empresas consideradas de melhor qualidade e separar aquelas que exigem maior acompanhamento. Se implementado, o sistema poderá alterar a posição das empresas listadas e a percepção dos investidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSDAQ-Spitzenliga soll auf unter 100 Firmen schrumpfen, Start ab Oktober",
-        "excerpt": "Die südkoreanische Regierung und Korea Exchange planen zur Belebung des KOSDAQ ab Oktober ein Auf- und Abstiegssystem mit drei Marktgruppen.",
-        "body": "Die südkoreanische Regierung und Korea Exchange wollen ein neues Auf- und Abstiegssystem für den KOSDAQ-Markt frühestens ab Oktober dieses Jahres einführen. Kern des Plans ist eine Einteilung des Marktes in drei Gruppen: Premium, Standard und eine Verwaltungsgruppe. Die Premium-Gruppe, die der „ersten Liga“ des KOSDAQ entspricht, soll auf weniger als 100 Unternehmen begrenzt werden. Ziel ist es, den Markt zu klassifizieren, stärkere Unternehmen hervorzuheben und Firmen mit zusätzlichem Managementbedarf abzugrenzen. Bei Umsetzung könnte das System die Marktstellung börsennotierter KOSDAQ-Unternehmen und die Wahrnehmung durch Investoren verändern. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSDAQ veut limiter sa première division à moins de 100 sociétés",
-        "excerpt": "Le gouvernement sud-coréen et Korea Exchange devraient lancer dès octobre un système de promotion et relégation divisant le KOSDAQ en trois catégories.",
-        "body": "Le gouvernement sud-coréen et Korea Exchange devraient mettre en place dès octobre de cette année un système de « promotion et relégation » destiné à dynamiser le marché KOSDAQ. Le dispositif prévoit de diviser les sociétés cotées en trois ligues: Premium, Standard et groupe de gestion. La catégorie Premium, équivalente à la « première division » du KOSDAQ, serait limitée à moins de 100 entreprises. L’objectif est de hiérarchiser le marché, de mettre en avant les sociétés les plus solides et de distinguer celles nécessitant une gestion plus étroite. Si le système est appliqué, il pourrait modifier le positionnement des sociétés cotées et la perception des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسداك يعتزم حصر الدرجة الأولى في أقل من 100 شركة مع نظام ترقٍ جديد",
-        "excerpt": "تتجه الحكومة الكورية وبورصة كوريا إلى تشغيل نظام للترقي والهبوط في كوسداك ربما اعتبارا من أكتوبر، مع تقسيم السوق إلى ثلاث فئات.",
-        "body": "تتوقع الحكومة الكورية وبورصة كوريا تشغيل نظام جديد للترقي والهبوط في سوق كوسداك اعتبارا من أكتوبر هذا العام في أقرب تقدير، بهدف تنشيط السوق. يقوم المقترح على تقسيم الشركات المدرجة في كوسداك إلى ثلاث فئات: بريميوم، ستاندرد، ومجموعة إدارة. ومن المتوقع أن تقتصر فئة بريميوم، التي تمثل «الدرجة الأولى» في كوسداك، على أقل من 100 شركة. وتهدف الخطة إلى تصنيف السوق وإبراز الشركات الأقوى، مع فصل الشركات التي تحتاج إلى متابعة إدارية. وإذا طُبق النظام، فقد يؤثر في مكانة الشركات المدرجة داخل السوق وفي نظرة المستثمرين إليها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSDAQ की पहली लीग 100 कंपनियों से कम हो सकती है, अक्टूबर से व्यवस्था संभव",
-        "excerpt": "दक्षिण कोरियाई सरकार और Korea Exchange KOSDAQ को सक्रिय करने के लिए अक्टूबर से प्रमोशन-रिलिगेशन प्रणाली शुरू कर सकते हैं, जिसमें तीन श्रेणियां होंगी।",
-        "body": "दक्षिण कोरियाई सरकार और Korea Exchange KOSDAQ बाजार को सक्रिय करने के लिए नई “प्रमोशन और रिलिगेशन” प्रणाली को इस साल अक्टूबर से शुरू कर सकते हैं। इस योजना का मुख्य आधार KOSDAQ बाजार को तीन लीगों में बांटना है: प्रीमियम, स्टैंडर्ड और प्रबंधन समूह। इनमें प्रीमियम समूह, जिसे KOSDAQ की “पहली लीग” माना जाएगा, 100 कंपनियों से कम तक सीमित किया जा सकता है। इसका उद्देश्य बाजार को श्रेणीबद्ध करना, मजबूत कंपनियों को उभारना और उन कंपनियों को अलग पहचान देना है जिन्हें अधिक प्रबंधन निगरानी की जरूरत है। लागू होने पर यह व्यवस्था KOSDAQ सूचीबद्ध कंपनियों की बाजार स्थिति और निवेशकों की धारणा को बदल सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Liga utama KOSDAQ dipangkas di bawah 100 emiten, sistem baru mulai Oktober",
-        "excerpt": "Pemerintah Korea Selatan dan Korea Exchange diperkirakan menjalankan sistem promosi-degradasi KOSDAQ mulai Oktober untuk membagi pasar menjadi tiga kelompok.",
-        "body": "Pemerintah Korea Selatan dan Korea Exchange diperkirakan mulai menjalankan sistem “promosi dan degradasi” untuk menghidupkan pasar KOSDAQ paling cepat pada Oktober tahun ini. Rencana ini berfokus pada pembagian pasar KOSDAQ ke dalam tiga liga: Premium, Standard, dan kelompok manajemen. Kelompok Premium, yang setara dengan “liga utama” KOSDAQ, disebut akan dipersempit menjadi kurang dari 100 perusahaan. Tujuannya adalah mengelompokkan pasar, menonjolkan perusahaan berkualitas, dan membedakan perusahaan yang memerlukan pengelolaan lebih ketat. Jika diterapkan, sistem ini dapat memengaruhi posisi emiten KOSDAQ di pasar dan persepsi investor. Sumber: mk.co.kr"
       }
     }
   }

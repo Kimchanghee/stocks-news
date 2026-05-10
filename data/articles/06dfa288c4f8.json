@@ -1,0 +1,75 @@
+{
+  "id": "06dfa288c4f8",
+  "slug": "hbr알립니다사람-없는-공장이-돈을-번다-691664",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-10T18:35:28.187Z",
+  "updatedAt": "2026-05-10T18:35:28.187Z",
+  "sourceName": "rss.donga.com",
+  "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887908/2",
+  "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887908/2",
+  "titleFingerprint": "e2e6768398507b59172d2098c56eb700f26900b7",
+  "dedupKeys": [
+    "06dfa288c4f8fcecdba38a602d3126cd77216f0a",
+    "e2e6768398507b59172d2098c56eb700f26900b7",
+    "4d135ebf556e5d24b2b7bf59ac9d2c5b391ff82a"
+  ],
+  "imageUrl": "/images/articles/06dfa288c4f8.jpg",
+  "i18n": {
+    "ko": {
+      "title": "제조 피지컬 AI 아카데미 개최, 무인공장 전환 전 실패 리스크 줄인다",
+      "excerpt": "DBR과 다임리서치가 2026년 5월 29일 제조 피지컬 AI 도입 전략 아카데미를 열고, 로봇·설비·물류 통합과 사전 시뮬레이션 검증 방안을 다룬다.",
+      "body": "DBR(동아비즈니스리뷰)과 국내 피지컬 AI 기업 다임리서치가 2026년 5월 29일 금요일 ‘제조 피지컬 AI 도입 전략 아카데미’를 개최한다. 세션1 콘퍼런스는 동아일보 광화문 사옥에서 열리며, 세션2 프라이빗 워크숍은 기업별 일정 협의를 거쳐 KAIST 제조 피지컬 AI 실증랩 ‘카이로스’에서 진행된다. 이번 프로그램은 인력난 대응을 위해 로봇을 도입했지만 물류 혼선이나 현장 가동 중단을 겪은 제조 현장을 대상으로 한다. 핵심은 실제 도입 전 시뮬레이션으로 결과를 검증하고 실패 리스크를 줄이는 것이다. 제조 피지컬 AI는 로봇 몇 대를 추가하는 자동화가 아니라 공장 내 로봇, 설비, 물류를 하나의 유기적 시스템으로 통합해 스스로 판단하고 최적화하는 자율제조 패러다임으로 소개됐다. 출처: rss.donga.com."
+    },
+    "en": {
+      "title": "Manufacturing Physical AI Academy to Cut Risk Before Unmanned Factory Shift",
+      "excerpt": "DBR and DAIM Research will hold a Manufacturing Physical AI Adoption Strategy Academy on May 29, 2026, covering simulation checks and integrated robots, equipment and logistics.",
+      "body": "DBR, Dong-A Business Review, and South Korean physical AI company DAIM Research will hold the “Manufacturing Physical AI Adoption Strategy Academy” on Friday, May 29, 2026. Session 1, a conference, will take place at the Dong-A Ilbo Gwanghwamun building. Session 2, a private workshop, will be scheduled separately with each company and held at KAIST’s manufacturing physical AI demonstration lab, “Kairos.” The program targets manufacturers that introduced robots to address labor shortages but experienced tangled logistics or halted operations. Its focus is to verify outcomes through simulation before real-world adoption and reduce failure risk. Manufacturing physical AI is presented not as simply adding more robots, but as a new autonomous manufacturing paradigm that integrates robots, equipment and logistics into one organic system that can judge and optimize on its own. Source: rss.donga.com."
+    },
+    "ja": {
+      "title": "製造フィジカルAIアカデミー開催、無人工場化前に失敗リスクを低減",
+      "excerpt": "DBRとDAIM Researchは2026年5月29日、製造フィジカルAI導入戦略アカデミーを開き、ロボット・設備・物流の統合と事前シミュレーション検証を扱う。",
+      "body": "DBR（東亜ビジネスレビュー）と韓国のフィジカルAI企業DAIM Researchは、2026年5月29日金曜日に「製造フィジカルAI導入戦略アカデミー」を開催する。セッション1のカンファレンスは東亜日報の光化門社屋で開かれ、セッション2のプライベートワークショップは企業別に日程を協議したうえで、KAISTの製造フィジカルAI実証ラボ「Kairos」で行われる。今回のプログラムは、人手不足への対応としてロボットを導入したものの、物流の混乱や現場稼働の停止を経験した製造現場を対象にしている。重点は、実際の導入前にシミュレーションで結果を検証し、失敗リスクを抑えることだ。製造フィジカルAIは、ロボットを数台増やす自動化ではなく、工場内のロボット、設備、物流を一つの有機的システムに統合し、自ら判断して最適化する自律製造の新たなパラダイムとして紹介された。出典: rss.donga.com."
+    },
+    "zh": {
+      "title": "制造物理AI学院将举办，助企业在无人工厂转型前降低失败风险",
+      "excerpt": "DBR与DAIM Research将于2026年5月29日举办制造物理AI导入战略学院，聚焦机器人、设备、物流整合及上线前模拟验证。",
+      "body": "DBR（东亚商业评论）与韩国物理AI企业DAIM Research将于2026年5月29日星期五举办“制造物理AI导入战略学院”。第一场会议将在东亚日报光化门办公楼举行；第二场私人工作坊将按企业分别协商日程，并在KAIST制造物理AI实证实验室“Kairos”进行。该项目面向为应对用工短缺而引入机器人、却曾遭遇物流混乱或现场停工的制造企业。其重点是在实际导入前通过模拟预先验证结果，从源头降低失败风险。制造物理AI并非简单增加几台机器人，而是把工厂内机器人、设备和物流整合为一个有机系统，使其能够自主判断并优化，被介绍为下一代自主制造的新范式。来源: rss.donga.com."
+    },
+    "es": {
+      "title": "Academia de IA física industrial busca reducir riesgos antes de fábricas sin personal",
+      "excerpt": "DBR y DAIM Research celebrarán el 29 de mayo de 2026 una academia sobre adopción de IA física industrial, con simulación previa e integración de robots, equipos y logística.",
+      "body": "DBR, Dong-A Business Review, y la empresa surcoreana de IA física DAIM Research celebrarán el viernes 29 de mayo de 2026 la “Academia de estrategia para la adopción de IA física en manufactura”. La sesión 1, una conferencia, se realizará en el edificio de Dong-A Ilbo en Gwanghwamun. La sesión 2, un taller privado, tendrá un calendario acordado por separado con cada empresa y se llevará a cabo en “Kairos”, el laboratorio de demostración de IA física para manufactura de KAIST. El programa está dirigido a plantas que incorporaron robots para responder a la escasez de personal, pero sufrieron desorden logístico o paradas operativas. Su eje es verificar resultados mediante simulación antes de la implementación real y reducir el riesgo de fracaso. La IA física industrial se presenta no como añadir unos cuantos robots, sino como un nuevo paradigma de manufactura autónoma que integra robots, equipos y logística en un sistema orgánico capaz de decidir y optimizar por sí mismo. Fuente: rss.donga.com."
+    },
+    "pt": {
+      "title": "Academia de IA física industrial quer reduzir riscos antes da fábrica sem pessoas",
+      "excerpt": "DBR e DAIM Research realizarão em 29 de maio de 2026 uma academia sobre adoção de IA física na manufatura, com simulação prévia e integração de robôs, equipamentos e logística.",
+      "body": "A DBR, Dong-A Business Review, e a empresa sul-coreana de IA física DAIM Research realizarão na sexta-feira, 29 de maio de 2026, a “Academia de Estratégia para Adoção de IA Física na Manufatura”. A sessão 1, em formato de conferência, ocorrerá no edifício do Dong-A Ilbo em Gwanghwamun. A sessão 2, um workshop privado, terá agenda definida individualmente com cada empresa e será realizada no “Kairos”, laboratório de demonstração de IA física para manufatura do KAIST. O programa mira fábricas que adotaram robôs para enfrentar a falta de mão de obra, mas passaram por confusão logística ou paralisações no chão de fábrica. O foco é verificar os resultados por simulação antes da implantação real e reduzir o risco de falhas. A IA física na manufatura é apresentada não como a simples adição de alguns robôs, mas como um novo paradigma de manufatura autônoma que integra robôs, equipamentos e logística em um sistema orgânico capaz de decidir e otimizar por conta própria. Fonte: rss.donga.com."
+    },
+    "de": {
+      "title": "Akademie für Physical AI in der Fertigung senkt Risiken vor der menschenarmen Fabrik",
+      "excerpt": "DBR und DAIM Research veranstalten am 29. Mai 2026 eine Akademie zur Einführung von Physical AI in der Fertigung, mit Simulation vor dem Einsatz und Integration von Robotern, Anlagen und Logistik.",
+      "body": "DBR, Dong-A Business Review, und das südkoreanische Physical-AI-Unternehmen DAIM Research veranstalten am Freitag, dem 29. Mai 2026, die „Manufacturing Physical AI Adoption Strategy Academy“. Session 1, eine Konferenz, findet im Gwanghwamun-Gebäude der Dong-A Ilbo statt. Session 2, ein privater Workshop, wird mit jedem Unternehmen gesondert terminiert und im KAIST-Demonstrationslabor für Manufacturing Physical AI „Kairos“ abgehalten. Das Programm richtet sich an Fertigungsstandorte, die wegen Personalmangels Roboter eingeführt haben, dabei aber logistische Verwerfungen oder Stillstände im Betrieb erlebt haben. Im Mittelpunkt steht, Ergebnisse vor der realen Einführung per Simulation zu prüfen und Ausfallrisiken zu verringern. Manufacturing Physical AI wird nicht als bloßes Hinzufügen einiger Roboter beschrieben, sondern als neues Paradigma autonomer Fertigung, das Roboter, Anlagen und Logistik in ein organisches System integriert, das selbst urteilt und optimiert. Quelle: rss.donga.com."
+    },
+    "fr": {
+      "title": "Une académie d’IA physique industrielle pour réduire les risques avant l’usine sans personnel",
+      "excerpt": "DBR et DAIM Research organiseront le 29 mai 2026 une académie sur l’adoption de l’IA physique en fabrication, avec simulation préalable et intégration robots, équipements et logistique.",
+      "body": "DBR, Dong-A Business Review, et l’entreprise sud-coréenne d’IA physique DAIM Research organiseront le vendredi 29 mai 2026 l’« Académie de stratégie d’adoption de l’IA physique en fabrication ». La session 1, une conférence, se tiendra dans l’immeuble de Dong-A Ilbo à Gwanghwamun. La session 2, un atelier privé, sera planifiée séparément avec chaque entreprise et aura lieu à « Kairos », le laboratoire de démonstration d’IA physique pour la fabrication de KAIST. Le programme vise les sites industriels qui ont introduit des robots pour répondre au manque de main-d’œuvre, mais ont connu des perturbations logistiques ou des arrêts d’exploitation. L’objectif est de vérifier les résultats par simulation avant le déploiement réel et de réduire les risques d’échec. L’IA physique en fabrication est présentée non comme l’ajout de quelques robots, mais comme un nouveau paradigme de fabrication autonome intégrant robots, équipements et logistique dans un système organique capable de décider et d’optimiser par lui-même. Source: rss.donga.com."
+    },
+    "ar": {
+      "title": "أكاديمية الذكاء الفيزيائي للتصنيع تخفض مخاطر الانتقال إلى المصنع بلا عمال",
+      "excerpt": "تنظم DBR وDAIM Research في 29 مايو 2026 أكاديمية لاستراتيجية تبني الذكاء الفيزيائي في التصنيع، مع التحقق بالمحاكاة ودمج الروبوتات والمعدات واللوجستيات.",
+      "body": "تعتزم DBR، أي Dong-A Business Review، وشركة DAIM Research الكورية المتخصصة في الذكاء الفيزيائي، تنظيم “أكاديمية استراتيجية تبني الذكاء الفيزيائي في التصنيع” يوم الجمعة 29 مايو 2026. ستقام الجلسة الأولى، وهي مؤتمر، في مبنى Dong-A Ilbo في غوانغهوامون. أما الجلسة الثانية، وهي ورشة خاصة، فسيتم الاتفاق على موعدها مع كل شركة على حدة وستعقد في مختبر KAIST التجريبي للذكاء الفيزيائي في التصنيع “Kairos”. يستهدف البرنامج مواقع التصنيع التي أدخلت الروبوتات لمواجهة نقص العمالة، لكنها واجهت ارتباكا في اللوجستيات أو توقفا في التشغيل الميداني. ويركز على التحقق من النتائج بالمحاكاة قبل التطبيق الفعلي وتقليل مخاطر الفشل. وقد قُدم الذكاء الفيزيائي للتصنيع لا بوصفه مجرد إضافة عدد من الروبوتات، بل كنموذج جديد للتصنيع الذاتي يدمج الروبوتات والمعدات واللوجستيات داخل نظام عضوي قادر على الحكم والتحسين ذاتيا. المصدر: rss.donga.com."
+    },
+    "hi": {
+      "title": "मैन्युफैक्चरिंग फिजिकल AI अकादमी, मानव-रहित फैक्टरी से पहले जोखिम घटाने पर केंद्रित",
+      "excerpt": "DBR और DAIM Research 29 मई 2026 को मैन्युफैक्चरिंग फिजिकल AI अपनाने की रणनीति अकादमी आयोजित करेंगे, जिसमें सिमुलेशन सत्यापन और रोबोट, उपकरण व लॉजिस्टिक्स एकीकरण शामिल होगा।",
+      "body": "DBR, यानी Dong-A Business Review, और दक्षिण कोरिया की फिजिकल AI कंपनी DAIM Research शुक्रवार, 29 मई 2026 को “मैन्युफैक्चरिंग फिजिकल AI एडॉप्शन स्ट्रैटेजी अकादमी” आयोजित करेंगे। पहला सत्र, एक कॉन्फ्रेंस, Dong-A Ilbo के ग्वांगह्वामुन कार्यालय में होगा। दूसरा सत्र, निजी वर्कशॉप, प्रत्येक कंपनी के साथ अलग से तय कार्यक्रम के अनुसार KAIST के मैन्युफैक्चरिंग फिजिकल AI प्रदर्शन लैब “Kairos” में होगा। यह कार्यक्रम उन विनिर्माण स्थलों के लिए है जिन्होंने श्रम की कमी दूर करने के लिए रोबोट लगाए, लेकिन लॉजिस्टिक्स अव्यवस्था या संचालन रुकने जैसी समस्याओं का सामना किया। इसका मुख्य उद्देश्य वास्तविक लागूकरण से पहले सिमुलेशन के जरिए परिणामों की जांच करना और विफलता जोखिम घटाना है। मैन्युफैक्चरिंग फिजिकल AI को केवल कुछ और रोबोट जोड़ने वाली ऑटोमेशन नहीं, बल्कि रोबोट, उपकरण और लॉजिस्टिक्स को एक जैविक प्रणाली में जोड़कर स्वयं निर्णय लेने और अनुकूलन करने वाला स्वायत्त विनिर्माण प्रतिमान बताया गया है। स्रोत: rss.donga.com."
+    },
+    "id": {
+      "title": "Akademi Physical AI Manufaktur Digelar, Kurangi Risiko Sebelum Pabrik Tanpa Orang",
+      "excerpt": "DBR dan DAIM Research akan menggelar Akademi Strategi Adopsi Physical AI Manufaktur pada 29 Mei 2026, membahas validasi simulasi serta integrasi robot, peralatan, dan logistik.",
+      "body": "DBR, Dong-A Business Review, dan perusahaan physical AI Korea Selatan DAIM Research akan menggelar “Akademi Strategi Adopsi Physical AI Manufaktur” pada Jumat, 29 Mei 2026. Sesi 1 berupa konferensi akan berlangsung di gedung Dong-A Ilbo Gwanghwamun. Sesi 2 berupa lokakarya privat akan dijadwalkan terpisah dengan masing-masing perusahaan dan digelar di laboratorium demonstrasi physical AI manufaktur KAIST, “Kairos”. Program ini menyasar lokasi manufaktur yang memasang robot untuk mengatasi kekurangan tenaga kerja, tetapi mengalami kekacauan logistik atau penghentian operasi di lapangan. Fokusnya adalah memverifikasi hasil lewat simulasi sebelum penerapan nyata dan mengurangi risiko kegagalan. Physical AI manufaktur diperkenalkan bukan sebagai penambahan beberapa robot, melainkan paradigma baru manufaktur otonom yang mengintegrasikan robot, peralatan, dan logistik pabrik menjadi satu sistem organik yang dapat menilai dan mengoptimalkan sendiri. Sumber: rss.donga.com."
+    }
+  }
+}
