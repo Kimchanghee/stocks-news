@@ -1,5 +1,230 @@
 [
   {
+    "id": "7dcdf478bfbe",
+    "slug": "항공유값-두달만에-떨어져-유류할증료-소폭-하락할-듯-691836",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T16:55:25.538Z",
+    "updatedAt": "2026-05-10T16:55:25.538Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894044/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894044/2",
+    "titleFingerprint": "587db636b9fb17d2cbdac58dc7c23cba903a842e",
+    "dedupKeys": [
+      "7dcdf478bfbec1ed29c3a839cc48ee7e45653916",
+      "587db636b9fb17d2cbdac58dc7c23cba903a842e",
+      "3cf927796687b829853ce7523de374f324146d59"
+    ],
+    "imageUrl": "/images/articles/7dcdf478bfbe.jpg",
+    "i18n": {
+      "ko": {
+        "title": "항공유값 두 달 만에 하락, 6월 국제선 유류할증료 낮아질 가능성",
+        "excerpt": "미국·이스라엘과 이란 전쟁 발발 이후 급등했던 항공유 가격이 두 달 만에 갤런당 400센트 아래로 내려가며 6월 국제선 유류할증료 하락 가능성이 커졌다.",
+        "body": "미국·이스라엘과 이란 전쟁 발발로 치솟았던 항공유 가격이 두 달 만에 갤런당 400센트 아래로 떨어지면서 6월 국제선 유류할증료가 소폭 낮아질 가능성이 커졌다. 10일 항공업계에 따르면 6월 국제선 유류할증료 산정 기간은 4월 16일부터 5월 15일까지다. 10일까지 기준 싱가포르 현물시장 항공유(MOPS) 평균 가격은 갤런당 약 430센트로, 현행 기준 유류할증료 29단계 수준이다. MOPS는 3월 11일 400센트를 넘은 뒤 높은 수준을 유지했지만 이달 5일 이후 300센트대로 내려왔다. 업계는 하락세가 이어져 남은 산정 기간 MOPS가 300센트대 초중반에 머물 경우 6월 기준이 5월 최고 33단계에서 27~28단계로 낮아질 수 있다고 본다. 대한항공 기준 미주 노선 편도 유류할증료는 현재 56만4000원에서 45만~48만 원 수준으로 내려갈 수 있다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Jet fuel prices fall after two months, June international surcharges may ease",
+        "excerpt": "Jet fuel prices that surged after the outbreak of the U.S.-Israel and Iran war fell below 400 cents per gallon, raising the chance of lower June international fuel surcharges.",
+        "body": "Jet fuel prices, which had surged after the outbreak of the war involving the U.S., Israel and Iran, have fallen below 400 cents per gallon for the first time in two months, increasing the likelihood that international fuel surcharges will edge lower in June. According to the aviation industry on the 10th, the calculation period for June international fuel surcharges runs from April 16 to May 15. As of the 10th, the average price of Singapore spot-market jet fuel (MOPS) was about 430 cents per gallon, equivalent to level 29 under the current surcharge system. MOPS had remained high after exceeding 400 cents on March 11, but dropped into the 300-cent range after the 5th of this month. Industry officials expect that if the decline continues and MOPS stays in the low-to-mid 300-cent range for the rest of the calculation period, June’s level could fall from May’s peak level 33 to levels 27 or 28. For Korean Air, the one-way surcharge on U.S. routes could decline from the current 564,000 won to around 450,000 to 480,000 won. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "航空燃料価格が2カ月ぶり下落、6月国際線燃油サーチャージ低下か",
+        "excerpt": "米国・イスラエルとイランの戦争勃発後に急騰した航空燃料価格が2カ月ぶりに1ガロン400セントを下回り、6月の国際線燃油サーチャージ低下の可能性が高まった。",
+        "body": "米国・イスラエルとイランの戦争勃発で急騰していた航空燃料価格が、2カ月ぶりに1ガロン400セントを下回り、6月の国際線燃油サーチャージが小幅に下がる可能性が高まった。航空業界が10日に明らかにしたところによると、6月の国際線燃油サーチャージ算定期間は4月16日から5月15日まで。10日までを基準にしたシンガポール現物市場の航空燃料（MOPS）平均価格は1ガロン約430セントで、現行基準では燃油サーチャージ29段階に相当する。MOPSは3月11日に400セントを超えて以降、高値を維持していたが、今月5日以降は300セント台に下がった。業界では下落傾向が続き、残りの算定期間にMOPSが300セント台前半から半ばで推移すれば、6月基準は5月の最高33段階から27～28段階に下がると見ている。この場合、大韓航空基準で米州路線の片道燃油サーチャージは現在の56万4000ウォンから45万～48万ウォン水準に下がる可能性がある。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "航空燃油价格两个月来回落，6月国际线燃油附加费或小幅下降",
+        "excerpt": "美国、以色列与伊朗战争爆发后飙升的航空燃油价格两个月来跌破每加仑400美分，6月国际线燃油附加费下调可能性增大。",
+        "body": "因美国、以色列与伊朗战争爆发而飙升的航空燃油价格，两个月来首次跌破每加仑400美分，6月国际线燃油附加费小幅下调的可能性增大。航空业界10日表示，6月国际线燃油附加费的计算期间为4月16日至5月15日。截至10日，新加坡现货市场航空燃油（MOPS）平均价格约为每加仑430美分，按现行标准相当于燃油附加费第29阶段。MOPS自3月11日突破400美分后持续高位运行，但本月5日以后降至300美分区间。业界认为，如果当前跌势延续，剩余计算期间MOPS维持在300美分出头至中段，6月标准可能从5月最高的第33阶段降至第27或第28阶段。以大韩航空为例，目前美洲航线单程燃油附加费为56.4万韩元，届时可能降至45万至48万韩元左右。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Cae el precio del combustible aéreo y podrían bajar recargos en junio",
+        "excerpt": "El combustible aéreo, disparado tras el estallido de la guerra entre EE. UU., Israel e Irán, cayó por debajo de 400 centavos por galón y apunta a menores recargos internacionales en junio.",
+        "body": "El precio del combustible aéreo, que se había disparado tras el estallido de la guerra entre Estados Unidos, Israel e Irán, cayó por debajo de 400 centavos por galón por primera vez en dos meses, lo que eleva la posibilidad de una leve baja en los recargos por combustible de vuelos internacionales en junio. Según la industria aérea el día 10, el periodo de cálculo para los recargos internacionales de junio va del 16 de abril al 15 de mayo. Hasta el día 10, el precio promedio del combustible aéreo en el mercado spot de Singapur (MOPS) fue de unos 430 centavos por galón, equivalente al nivel 29 bajo el sistema actual. El MOPS superó los 400 centavos el 11 de marzo y se mantuvo elevado, pero desde el día 5 de este mes bajó al rango de 300 centavos. La industria prevé que, si la caída continúa y el MOPS se ubica en la parte baja o media de los 300 centavos durante el resto del periodo, el nivel de junio podría bajar del máximo de mayo, nivel 33, a 27 o 28. En Korean Air, el recargo de ida en rutas a América podría bajar de 564.000 wones a entre 450.000 y 480.000 wones. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Combustível de aviação cai após dois meses e sobretaxa de junho pode recuar",
+        "excerpt": "O combustível de aviação, que subiu após o início da guerra entre EUA, Israel e Irã, caiu abaixo de 400 centavos por galão, aumentando a chance de menor sobretaxa internacional em junho.",
+        "body": "O preço do combustível de aviação, que havia disparado após o início da guerra envolvendo Estados Unidos, Israel e Irã, caiu abaixo de 400 centavos por galão pela primeira vez em dois meses, ampliando a possibilidade de uma leve queda na sobretaxa de combustível em voos internacionais em junho. Segundo o setor aéreo no dia 10, o período de cálculo da sobretaxa internacional de junho vai de 16 de abril a 15 de maio. Até o dia 10, o preço médio do combustível de aviação no mercado spot de Singapura (MOPS) era de cerca de 430 centavos por galão, equivalente ao nível 29 no padrão atual. O MOPS superou 400 centavos em 11 de março e permaneceu elevado, mas caiu para a faixa dos 300 centavos após o dia 5 deste mês. O setor avalia que, se a queda continuar e o MOPS ficar entre a faixa baixa e média dos 300 centavos no restante do período, o nível de junho poderá cair do pico de maio, nível 33, para 27 ou 28. Na Korean Air, a sobretaxa de ida nas rotas para as Américas pode recuar dos atuais 564.000 wones para cerca de 450.000 a 480.000 wones. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Flugbenzinpreise sinken nach zwei Monaten, Juni-Zuschläge könnten fallen",
+        "excerpt": "Nach dem Preisanstieg infolge des Kriegsbeginns zwischen den USA, Israel und Iran fiel Flugbenzin unter 400 Cent je Gallone, wodurch internationale Treibstoffzuschläge im Juni sinken könnten.",
+        "body": "Die Preise für Flugbenzin, die nach dem Ausbruch des Kriegs zwischen den USA, Israel und Iran stark gestiegen waren, sind erstmals seit zwei Monaten unter 400 Cent je Gallone gefallen. Damit steigt die Wahrscheinlichkeit, dass internationale Treibstoffzuschläge im Juni leicht sinken. Nach Angaben der Luftfahrtbranche vom 10. läuft der Berechnungszeitraum für die internationalen Zuschläge im Juni vom 16. April bis zum 15. Mai. Bis zum 10. lag der Durchschnittspreis für Flugbenzin am Spotmarkt in Singapur (MOPS) bei rund 430 Cent je Gallone, was nach der aktuellen Regelung Stufe 29 entspricht. MOPS hatte am 11. März die Marke von 400 Cent überschritten und blieb hoch, fiel aber nach dem 5. dieses Monats in den Bereich von 300 Cent. Die Branche geht davon aus, dass bei anhaltendem Rückgang und MOPS-Werten im niedrigen bis mittleren 300-Cent-Bereich während des verbleibenden Zeitraums die Juni-Stufe von der Mai-Spitze bei Stufe 33 auf 27 oder 28 sinken könnte. Bei Korean Air könnte der einfache Zuschlag auf Amerika-Strecken von derzeit 564.000 Won auf etwa 450.000 bis 480.000 Won fallen. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Le kérosène recule après deux mois, les surtaxes de juin pourraient baisser",
+        "excerpt": "Le kérosène, qui avait bondi après le déclenchement de la guerre entre les États-Unis, Israël et l’Iran, est passé sous 400 cents le gallon, ouvrant la voie à une baisse des surtaxes internationales en juin.",
+        "body": "Le prix du kérosène, qui avait fortement augmenté après le déclenchement de la guerre impliquant les États-Unis, Israël et l’Iran, est tombé sous 400 cents le gallon pour la première fois en deux mois, ce qui accroît la probabilité d’une légère baisse des surtaxes carburant sur les vols internationaux en juin. Selon le secteur aérien le 10, la période de calcul des surtaxes internationales de juin s’étend du 16 avril au 15 mai. À la date du 10, le prix moyen du kérosène sur le marché spot de Singapour (MOPS) était d’environ 430 cents le gallon, soit le niveau 29 selon le barème actuel. Le MOPS avait dépassé 400 cents le 11 mars et était resté élevé, avant de redescendre dans la fourchette des 300 cents après le 5 de ce mois. Le secteur estime que si la tendance baissière se poursuit et que le MOPS reste dans le bas ou le milieu des 300 cents pendant le reste de la période, le barème de juin pourrait passer du niveau maximal de mai, 33, aux niveaux 27 ou 28. Chez Korean Air, la surtaxe aller simple sur les lignes vers les Amériques pourrait reculer de 564 000 wons actuellement à environ 450 000 à 480 000 wons. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "تراجع وقود الطائرات بعد شهرين قد يخفض رسوم الوقود الدولية في يونيو",
+        "excerpt": "هبط سعر وقود الطائرات، الذي ارتفع بعد اندلاع الحرب بين الولايات المتحدة وإسرائيل وإيران، إلى أقل من 400 سنت للغالون، ما يزيد احتمال خفض رسوم الوقود الدولية في يونيو.",
+        "body": "تراجع سعر وقود الطائرات، الذي كان قد قفز بعد اندلاع الحرب بين الولايات المتحدة وإسرائيل وإيران، إلى أقل من 400 سنت للغالون للمرة الأولى منذ شهرين، ما يزيد احتمال انخفاض طفيف في رسوم الوقود على الرحلات الدولية في يونيو. وبحسب قطاع الطيران في اليوم العاشر، تمتد فترة احتساب رسوم الوقود الدولية لشهر يونيو من 16 أبريل إلى 15 مايو. وحتى اليوم العاشر، بلغ متوسط سعر وقود الطائرات في السوق الفورية في سنغافورة (MOPS) نحو 430 سنتا للغالون، وهو ما يعادل المستوى 29 وفق المعيار الحالي. وكان MOPS قد تجاوز 400 سنت في 11 مارس وظل مرتفعا، لكنه هبط إلى نطاق 300 سنت بعد الخامس من هذا الشهر. ويرى القطاع أنه إذا استمر الاتجاه الهابط وبقي MOPS في نطاق أوائل إلى منتصف 300 سنت خلال ما تبقى من فترة الاحتساب، فقد ينخفض معيار يونيو من أعلى مستوى في مايو، وهو 33، إلى المستويين 27 أو 28. وبالنسبة إلى الخطوط الجوية الكورية، قد تنخفض رسوم الوقود للاتجاه الواحد على خطوط الأمريكتين من 564 ألف وون حاليا إلى نحو 450 ألفا إلى 480 ألف وون. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "दो महीने बाद विमान ईंधन सस्ता, जून में अंतरराष्ट्रीय फ्यूल सरचार्ज घटने के आसार",
+        "excerpt": "अमेरिका, इजरायल और ईरान के बीच युद्ध शुरू होने के बाद चढ़ा विमान ईंधन दो महीने में पहली बार 400 सेंट प्रति गैलन से नीचे आया, जिससे जून में अंतरराष्ट्रीय फ्यूल सरचार्ज घट सकता है।",
+        "body": "अमेरिका, इजरायल और ईरान के बीच युद्ध शुरू होने के बाद तेजी से बढ़े विमान ईंधन के दाम दो महीने में पहली बार 400 सेंट प्रति गैलन से नीचे आ गए हैं। इससे जून में अंतरराष्ट्रीय उड़ानों के फ्यूल सरचार्ज में हल्की कमी की संभावना बढ़ी है। विमानन उद्योग के अनुसार, 10 तारीख तक जानकारी के आधार पर जून के अंतरराष्ट्रीय फ्यूल सरचार्ज की गणना अवधि 16 अप्रैल से 15 मई तक है। 10 तारीख तक सिंगापुर स्पॉट मार्केट विमान ईंधन (MOPS) का औसत भाव करीब 430 सेंट प्रति गैलन रहा, जो मौजूदा मानक में सरचार्ज के स्तर 29 के बराबर है। MOPS ने 11 मार्च को 400 सेंट पार किया था और ऊंचे स्तर पर बना रहा, लेकिन इस महीने की 5 तारीख के बाद 300 सेंट के दायरे में उतर गया। उद्योग का मानना है कि यदि गिरावट जारी रहती है और शेष गणना अवधि में MOPS 300 सेंट के शुरुआती से मध्य दायरे में रहता है, तो जून का मानक मई के अधिकतम स्तर 33 से घटकर 27 या 28 हो सकता है। Korean Air के आधार पर अमेरिका मार्गों पर एकतरफा फ्यूल सरचार्ज मौजूदा 564,000 वॉन से घटकर करीब 450,000 से 480,000 वॉन हो सकता है। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Harga avtur turun setelah dua bulan, surcharge internasional Juni berpeluang turun",
+        "excerpt": "Harga avtur yang melonjak setelah pecahnya perang AS-Israel dan Iran turun di bawah 400 sen per galon, meningkatkan peluang penurunan surcharge bahan bakar penerbangan internasional pada Juni.",
+        "body": "Harga avtur yang sempat melonjak setelah pecahnya perang yang melibatkan Amerika Serikat, Israel, dan Iran turun di bawah 400 sen per galon untuk pertama kalinya dalam dua bulan. Kondisi ini meningkatkan kemungkinan surcharge bahan bakar penerbangan internasional pada Juni turun tipis. Menurut industri penerbangan pada tanggal 10, periode perhitungan surcharge internasional Juni berlangsung dari 16 April hingga 15 Mei. Hingga tanggal 10, harga rata-rata avtur pasar spot Singapura (MOPS) tercatat sekitar 430 sen per galon, setara level 29 berdasarkan standar saat ini. MOPS melewati 400 sen pada 11 Maret dan bertahan tinggi, tetapi sejak tanggal 5 bulan ini turun ke kisaran 300 sen. Industri memperkirakan jika tren penurunan berlanjut dan MOPS berada di kisaran awal hingga pertengahan 300 sen selama sisa periode perhitungan, standar Juni dapat turun dari level tertinggi Mei, yaitu 33, ke level 27 atau 28. Untuk Korean Air, surcharge satu arah rute Amerika dapat turun dari 564.000 won saat ini menjadi sekitar 450.000 hingga 480.000 won. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "2ee93e435347",
+    "slug": "현대차그룹-노사관계-안정화-주력-노무-총괄-사장급으로-격상자동차팀의-비즈워치-902898",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T16:54:03.371Z",
+    "updatedAt": "2026-05-10T16:54:03.371Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894046/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894046/2",
+    "titleFingerprint": "dcc9ac7a6158c9196ff1a8cbc1607211f2a22212",
+    "dedupKeys": [
+      "2ee93e4353471609679bc36dff38463e38d2a2e8",
+      "dcc9ac7a6158c9196ff1a8cbc1607211f2a22212",
+      "d30b0379c9761cc58043923270b4afda103d4d59"
+    ],
+    "imageUrl": "/images/articles/2ee93e435347.jpg",
+    "i18n": {
+      "ko": {
+        "title": "현대차그룹 노무 총괄 사장급 격상, 노사 안정화 전략에 힘 싣는다",
+        "excerpt": "현대자동차그룹은 8일 최준영 기아 사장을 그룹 정책개발담당 사장으로 발령하며 노무 총괄 기능을 사장급으로 높이고 계열사 노무 대응 강화에 나섰다.",
+        "body": "현대자동차그룹이 8일 인사를 통해 최준영 기아 사장을 그룹 정책개발담당 사장으로 발령하며 노무 대응 조직의 위상을 높였다. 기아에서 국내생산담당 최고전략책임자를 맡아 온 최 사장은 그룹 내 대표적인 노무 전문가로 평가된다. 그는 1990년 그룹 입사 이후 울산 현대차 공장과 기아 광주 공장 등 현장에서 노동조합 집행부와 직접 소통해 왔다. 지난해 기아 화성 공장의 PV5 전용 생산 거점인 이보 플랜트 준공 때도 현장 직원의 직무 전환 설득을 이끌어 갈등 없이 가동되도록 한 것으로 전해졌다. 현대차그룹은 정상빈 부사장도 현대모비스 노사정책담당으로 발령해 계열사 노무 대응을 강화하는 흐름을 보였다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "Hyundai Motor Group Elevates Labor Chief Role to President Level",
+        "excerpt": "Hyundai Motor Group appointed Kia President Choi Jun-young on May 8 to lead group policy development, raising the labor affairs function to president level and strengthening affiliate labor responses.",
+        "body": "Hyundai Motor Group raised the status of its labor affairs response organization on May 8 by appointing Kia President Choi Jun-young as president in charge of group policy development. Choi, who had served as chief strategy officer for domestic production at Kia, is regarded as one of the group’s top labor relations specialists. Since joining the group in 1990, he has worked on-site at Hyundai Motor’s Ulsan plant and Kia’s Gwangju plant, communicating directly with union leadership. He also led efforts to persuade workers through job transitions when Kia’s EVO Plant, a dedicated PV5 production facility in Hwaseong, was completed last year, helping operations begin without conflict. Hyundai Motor Group also assigned Vice President Chung Sang-bin to labor-management policy at Hyundai Mobis, signaling stronger labor responses across affiliates. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "現代自動車グループ、労務総括を社長級に格上げし労使安定へ",
+        "excerpt": "現代自動車グループは8日、起亜の崔俊英社長をグループ政策開発担当社長に任命し、労務総括機能を社長級に高め、系列会社の労務対応強化に動いた。",
+        "body": "現代自動車グループは8日の人事で、起亜の崔俊英社長をグループ政策開発担当社長に任命し、労務対応組織の位置付けを高めた。起亜で国内生産担当の最高戦略責任者を務めていた崔氏は、グループ内で代表的な労務専門家とされる。1990年の入社以降、現代自動車の蔚山工場や起亜の光州工場などの現場で、労働組合執行部と直接向き合ってきた人物だ。昨年、起亜華城工場のPV5専用生産拠点であるEVOプラントが竣工した際にも、職務転換をめぐる現場社員の説得を主導し、対立なく稼働できるようにしたとされる。同グループは正常彬副社長を現代モービスの労使政策担当に発令し、系列会社の労務対応も強化する姿勢を示した。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "现代汽车集团将劳务总管升至社长级，强化劳资稳定策略",
+        "excerpt": "现代汽车集团8日任命起亚社长崔俊英为集团政策开发担当社长，将劳务统筹职能提升至社长级，并加强旗下公司的劳务应对。",
+        "body": "现代汽车集团8日通过人事调整，任命起亚社长崔俊英为集团政策开发担当社长，提升劳务应对组织的地位。崔俊英此前在起亚担任国内生产担当最高战略负责人，被视为集团内代表性的劳务专家。他自1990年加入集团后，曾在现代汽车蔚山工厂、起亚光州工厂等一线现场与工会执行部直接沟通。去年起亚华城工厂的PV5专用生产基地EVO Plant竣工时，他也主导说服原本负责其他零部件生产的现场员工接受岗位转换，使工厂在无冲突情况下启动运营。现代汽车集团同时将副社长郑相彬调任现代摩比斯劳资政策担当，显示出加强旗下公司劳务应对的动向。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "Hyundai Motor Group eleva la gestión laboral a nivel presidencial",
+        "excerpt": "Hyundai Motor Group nombró el día 8 a Choi Jun-young, presidente de Kia, como responsable de desarrollo de políticas del grupo, elevando la función laboral y reforzando la respuesta en afiliadas.",
+        "body": "Hyundai Motor Group elevó el día 8 el peso de su organización de respuesta laboral al nombrar a Choi Jun-young, presidente de Kia, como presidente a cargo del desarrollo de políticas del grupo. Choi, que venía desempeñándose como director de estrategia para la producción nacional en Kia, es considerado uno de los principales especialistas laborales del grupo. Desde su ingreso en 1990, trabajó en terreno en la planta de Hyundai Motor en Ulsan y en la planta de Kia en Gwangju, manteniendo contacto directo con la dirigencia sindical. El año pasado también lideró la persuasión de empleados ante cambios de funciones cuando se completó la planta EVO, dedicada al PV5 en Hwaseong, lo que permitió iniciar operaciones sin conflicto. El grupo también asignó al vicepresidente Chung Sang-bin a política laboral en Hyundai Mobis. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "Hyundai Motor Group eleva comando trabalhista ao nível de presidente",
+        "excerpt": "O Hyundai Motor Group nomeou em 8 de maio Choi Jun-young, presidente da Kia, para liderar o desenvolvimento de políticas do grupo, elevando a área trabalhista e reforçando afiliadas.",
+        "body": "O Hyundai Motor Group elevou em 8 de maio o status de sua organização de resposta trabalhista ao nomear Choi Jun-young, presidente da Kia, como presidente responsável pelo desenvolvimento de políticas do grupo. Choi, que atuava como diretor de estratégia para produção doméstica na Kia, é visto como um dos principais especialistas em relações trabalhistas do grupo. Desde que ingressou em 1990, trabalhou em campo na fábrica da Hyundai Motor em Ulsan e na fábrica da Kia em Gwangju, dialogando diretamente com lideranças sindicais. No ano passado, durante a conclusão da EVO Plant, unidade dedicada à produção do PV5 em Hwaseong, ele conduziu a persuasão de trabalhadores sobre mudanças de função, permitindo o início das operações sem conflito. O grupo também designou o vice-presidente Chung Sang-bin para política trabalhista na Hyundai Mobis. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "Hyundai Motor Group hebt Arbeitsmanagement auf Präsidentenebene",
+        "excerpt": "Hyundai Motor Group ernannte am 8. Mai Kia-Präsident Choi Jun-young zum Präsidenten für Gruppenpolitik und stärkt damit die Arbeitsbeziehungen sowie die Reaktion der Tochtergesellschaften.",
+        "body": "Hyundai Motor Group hat am 8. Mai die Stellung seiner Organisation für Arbeitsbeziehungen gestärkt und Kia-Präsident Choi Jun-young zum Präsidenten für die Entwicklung der Gruppenpolitik ernannt. Choi, der bei Kia als Chief Strategy Officer für die Inlandsproduktion tätig war, gilt als einer der führenden Arbeitsrecht- und Arbeitnehmerbeziehungs-Experten des Konzerns. Seit seinem Eintritt 1990 arbeitete er vor Ort im Hyundai-Werk Ulsan und im Kia-Werk Gwangju und stand direkt mit Gewerkschaftsführungen in Kontakt. Auch bei der Fertigstellung des EVO Plant, der PV5-Spezialproduktionsstätte in Hwaseong, führte er im vergangenen Jahr die Überzeugungsarbeit für Arbeitsplatzwechsel der Beschäftigten, sodass der Betrieb ohne Konflikt anlaufen konnte. Zudem wurde Vizepräsident Chung Sang-bin für Arbeits- und Managementpolitik zu Hyundai Mobis versetzt. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "Hyundai Motor Group élève la fonction sociale au rang de président",
+        "excerpt": "Hyundai Motor Group a nommé le 8 mai Choi Jun-young, président de Kia, responsable du développement des politiques du groupe, renforçant la gestion sociale et celle des filiales.",
+        "body": "Hyundai Motor Group a renforcé le 8 mai le statut de son organisation chargée des relations de travail en nommant Choi Jun-young, président de Kia, président chargé du développement des politiques du groupe. Choi, qui était directeur de la stratégie pour la production nationale chez Kia, est considéré comme l’un des principaux spécialistes sociaux du groupe. Depuis son entrée dans le groupe en 1990, il a travaillé sur le terrain dans l’usine Hyundai Motor d’Ulsan et l’usine Kia de Gwangju, en échangeant directement avec les dirigeants syndicaux. L’an dernier, lors de l’achèvement de l’EVO Plant de Hwaseong, dédiée au PV5, il a aussi conduit les discussions pour convaincre les employés concernés par des changements de fonctions, permettant un démarrage sans conflit. Le groupe a également affecté le vice-président Chung Sang-bin à la politique sociale chez Hyundai Mobis. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "هيونداي موتور ترفع ملف العمل إلى مستوى رئيس لتعزيز استقرار العلاقات",
+        "excerpt": "عينت مجموعة هيونداي موتور في 8 مايو رئيس كيا تشوي جون-يونغ رئيسا لتطوير سياسات المجموعة، رافعة وظيفة شؤون العمل ومعززة استجابة الشركات التابعة.",
+        "body": "رفعت مجموعة هيونداي موتور في 8 مايو مكانة تنظيمها المعني بالاستجابة لقضايا العمل، عبر تعيين رئيس كيا تشوي جون-يونغ رئيسا مسؤولا عن تطوير سياسات المجموعة. وكان تشوي يشغل في كيا منصب كبير مسؤولي الاستراتيجية للإنتاج المحلي، ويعد من أبرز خبراء شؤون العمل داخل المجموعة. ومنذ انضمامه في عام 1990، عمل في مواقع مثل مصنع هيونداي موتور في أولسان ومصنع كيا في غوانغجو، وتواصل مباشرة مع قيادات النقابات العمالية. وفي العام الماضي، عند اكتمال مصنع EVO في هواسونغ المخصص لإنتاج PV5، قاد جهود إقناع العاملين بعمليات تغيير المهام، ما ساعد على بدء التشغيل من دون صراع. كما عينت المجموعة نائب الرئيس تشونغ سانغ-بين مسؤولا عن سياسة العمل والإدارة في هيونداي موبيس. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "Hyundai Motor Group ने श्रम प्रबंधन को अध्यक्ष स्तर पर उठाया",
+        "excerpt": "Hyundai Motor Group ने 8 मई को Kia के अध्यक्ष Choi Jun-young को समूह नीति विकास का अध्यक्ष नियुक्त किया, जिससे श्रम मामलों की भूमिका और सहयोगी कंपनियों की प्रतिक्रिया मजबूत हुई।",
+        "body": "Hyundai Motor Group ने 8 मई की नियुक्तियों में Kia के अध्यक्ष Choi Jun-young को समूह नीति विकास का अध्यक्ष बनाकर श्रम मामलों से जुड़े संगठन का दर्जा बढ़ाया। Kia में घरेलू उत्पादन के मुख्य रणनीति अधिकारी रहे Choi को समूह के प्रमुख श्रम संबंध विशेषज्ञों में गिना जाता है। 1990 में समूह में शामिल होने के बाद से उन्होंने Hyundai Motor के Ulsan संयंत्र और Kia के Gwangju संयंत्र जैसे स्थलों पर यूनियन नेतृत्व से सीधे संवाद किया। पिछले वर्ष Kia के Hwaseong स्थित PV5 समर्पित उत्पादन केंद्र EVO Plant के पूरा होने पर भी उन्होंने कर्मचारियों को कार्य परिवर्तन के लिए समझाने का नेतृत्व किया, जिससे संयंत्र बिना टकराव के शुरू हो सका। समूह ने उपाध्यक्ष Chung Sang-bin को Hyundai Mobis में श्रम-प्रबंधन नीति का दायित्व भी दिया। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "Hyundai Motor Group Naikkan Urusan Ketenagakerjaan ke Level Presiden",
+        "excerpt": "Hyundai Motor Group pada 8 Mei menunjuk Presiden Kia Choi Jun-young sebagai presiden pengembangan kebijakan grup, menaikkan fungsi ketenagakerjaan dan memperkuat respons afiliasi.",
+        "body": "Hyundai Motor Group pada 8 Mei menaikkan posisi organisasi respons ketenagakerjaannya dengan menunjuk Presiden Kia Choi Jun-young sebagai presiden yang bertanggung jawab atas pengembangan kebijakan grup. Choi, yang sebelumnya menjabat chief strategy officer untuk produksi domestik di Kia, dipandang sebagai salah satu pakar hubungan kerja utama di grup tersebut. Sejak bergabung pada 1990, ia bekerja langsung di lapangan, termasuk di pabrik Hyundai Motor Ulsan dan pabrik Kia Gwangju, serta berkomunikasi dengan pimpinan serikat pekerja. Tahun lalu, saat EVO Plant di Hwaseong, fasilitas produksi khusus PV5 Kia, rampung, ia juga memimpin pendekatan kepada pekerja terkait perubahan tugas sehingga operasi dapat dimulai tanpa konflik. Grup juga menugaskan Wakil Presiden Chung Sang-bin untuk kebijakan hubungan kerja di Hyundai Mobis. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
+    "id": "9d4790ffa412",
+    "slug": "sk에너지-월-최대-200억씩-전국-2500개-sk주유소-지원-498013",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-10T16:52:56.207Z",
+    "updatedAt": "2026-05-10T16:52:56.207Z",
+    "sourceName": "rss.donga.com",
+    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894048/2",
+    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894048/2",
+    "titleFingerprint": "d97623abb977a2d2053b053d8177d4bbc11c3de4",
+    "dedupKeys": [
+      "9d4790ffa4128620adbb571e57faee2605923287",
+      "d97623abb977a2d2053b053d8177d4bbc11c3de4",
+      "3e5c6f257383235d09dd65b149d83c7fb304313f"
+    ],
+    "imageUrl": "/images/articles/9d4790ffa412.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK에너지, 전국 2500개 SK주유소에 월 최대 200억 원 현장 지원",
+        "excerpt": "SK에너지는 10일 고유가와 최고가격제 이후 경영 부담이 커진 전국 2500여 개 SK주유소에 매달 최대 200억 원 규모의 위기극복 지원금을 지급한다고 밝혔다.",
+        "body": "SK에너지가 10일 고유가 장기화와 최고가격제 시행 이후 경영난을 겪는 전국 SK주유소를 대상으로 매달 최대 200억 원 규모의 ‘고유가 및 위기극복 지원금’을 지급한다고 밝혔다. 지원 대상은 직영 주유소를 제외한 국내 2500여 개 SK주유소다. 이번 조치는 최고가격제 시작 이후 정유업계에서 나온 첫 현장 직접지원 시도로, 첫 지원금은 내부 검토를 거쳐 이르면 이달 중 전달될 예정이다. 지원 기간은 1차 최고가격제가 시행된 3월 13일 0시 이후부터 최고가격제 종료 시점까지다. 지원금은 정액 지원과 판매량 연동 방식을 함께 적용하며, 일부는 온누리상품권을 활용한다. SK에너지는 주유소별 운영 여건을 고려해 소외되는 곳이 없도록 하겠다고 설명했다. 출처: rss.donga.com"
+      },
+      "en": {
+        "title": "SK Energy to Support 2,500 SK Stations With Up to 20 Billion Won Monthly",
+        "excerpt": "SK Energy said on the 10th it will provide up to 20 billion won each month to about 2,500 SK gas stations facing heavier operating pressure from high oil prices and the price cap system.",
+        "body": "SK Energy said on the 10th that it will pay up to 20 billion won a month in “high oil price and crisis recovery support funds” to SK gas stations nationwide that are struggling after prolonged high oil prices and the introduction of the price cap system. The program covers about 2,500 domestic SK gas stations, excluding company-operated sites. It is the first direct field support attempt by the refining industry since the price cap began. The first payment is expected as early as this month after internal review. Support will apply from 00:00 on March 13, when the first price cap took effect, until the cap ends. Funds will combine fixed payments and sales-linked support, with part provided through Onnuri gift certificates. Source: rss.donga.com"
+      },
+      "ja": {
+        "title": "SKエナジー、全国2500カ所のSK給油所に月最大200億ウォン支援",
+        "excerpt": "SKエナジーは10日、高油価と最高価格制で経営負担が増した全国約2500カ所のSK給油所に、毎月最大200億ウォン規模の支援金を支給すると発表した。",
+        "body": "SKエナジーは10日、高油価の長期化と最高価格制の実施後に経営難を抱える全国のSK給油所を対象に、毎月最大200億ウォン規模の「高油価および危機克服支援金」を支給すると明らかにした。対象は直営を除く韓国内約2500カ所のSK給油所。最高価格制の開始後、韓国の精油業界で初めてとなる現場への直接支援の試みだ。初回支援金は社内検討を経て、早ければ今月中に支給される予定。支援期間は第1次最高価格制が施行された3月13日午前0時以降から制度終了時点まで。支援金は定額支援と販売量連動方式を併用し、一部はオンヌリ商品券を活用する。出典: rss.donga.com"
+      },
+      "zh": {
+        "title": "SK能源将每月最高200亿韩元支持全国2500家SK加油站",
+        "excerpt": "SK能源10日表示，将向因高油价和最高限价制而经营负担加重的全国约2500家SK加油站，每月发放最高200亿韩元的危机克服支援金。",
+        "body": "SK能源10日表示，将面向因高油价持续和最高限价制实施后出现经营困难的全国SK加油站，每月发放最高200亿韩元规模的“高油价及危机克服支援金”。支援对象为除直营站以外的韩国国内约2500家SK加油站。这是最高限价制启动后，韩国炼油行业首次尝试对现场加油站进行直接支援。首笔支援金将在内部审查后，最快于本月内发放。支援期间为第一轮最高限价制自3月13日0时实施后至该制度结束时。支援金将结合定额支援和按销量联动的方式发放，部分将使用温努里商品券。来源: rss.donga.com"
+      },
+      "es": {
+        "title": "SK Energy apoyará a 2.500 gasolineras SK con hasta 20.000 millones de wones al mes",
+        "excerpt": "SK Energy anunció el día 10 que dará hasta 20.000 millones de wones mensuales a unas 2.500 gasolineras SK afectadas por altos precios del petróleo y el sistema de precio máximo.",
+        "body": "SK Energy anunció el día 10 que pagará hasta 20.000 millones de wones al mes en “fondos de apoyo por altos precios del petróleo y superación de crisis” a gasolineras SK de todo el país que afrontan dificultades operativas tras la prolongación de los altos precios y la aplicación del sistema de precio máximo. El apoyo cubre unas 2.500 gasolineras SK en Corea, excluidas las operadas directamente por la compañía. Es el primer intento de apoyo directo sobre el terreno por parte de la industria refinadora desde el inicio del sistema. El primer pago podría entregarse este mes tras una revisión interna. La ayuda regirá desde las 00:00 del 13 de marzo hasta el fin del sistema de precio máximo. Fuente: rss.donga.com"
+      },
+      "pt": {
+        "title": "SK Energy apoiará 2.500 postos SK com até 20 bilhões de wones por mês",
+        "excerpt": "A SK Energy informou no dia 10 que pagará até 20 bilhões de wones mensais a cerca de 2.500 postos SK pressionados por petróleo caro e pelo sistema de preço máximo.",
+        "body": "A SK Energy informou no dia 10 que pagará até 20 bilhões de wones por mês em “fundos de apoio por altos preços do petróleo e superação da crise” a postos SK em todo o país que enfrentam dificuldades após a continuidade dos preços elevados e a adoção do sistema de preço máximo. O programa abrange cerca de 2.500 postos SK na Coreia, excluindo unidades operadas diretamente pela empresa. É a primeira tentativa de apoio direto em campo da indústria de refino desde o início do sistema. O primeiro pagamento poderá ser feito ainda este mês, após análise interna. O apoio valerá desde 0h de 13 de março, quando começou a primeira fase do preço máximo, até o encerramento do sistema. Fonte: rss.donga.com"
+      },
+      "de": {
+        "title": "SK Energy unterstützt 2.500 SK-Tankstellen mit bis zu 20 Mrd. Won pro Monat",
+        "excerpt": "SK Energy teilte am 10. mit, wegen hoher Ölpreise und des Höchstpreissystems monatlich bis zu 20 Mrd. Won an rund 2.500 belastete SK-Tankstellen auszuzahlen.",
+        "body": "SK Energy gab am 10. bekannt, landesweit SK-Tankstellen, die nach anhaltend hohen Ölpreisen und der Einführung des Höchstpreissystems unter Betriebsdruck stehen, mit bis zu 20 Milliarden Won pro Monat zu unterstützen. Die Mittel laufen unter „Unterstützung bei hohen Ölpreisen und zur Krisenbewältigung“. Erfasst sind rund 2.500 SK-Tankstellen in Korea, ausgenommen direkt betriebene Standorte. Es ist der erste direkte Vor-Ort-Unterstützungsversuch der Raffineriebranche seit Beginn des Höchstpreissystems. Die erste Zahlung soll nach interner Prüfung frühestens in diesem Monat erfolgen. Der Zeitraum reicht ab 0 Uhr am 13. März bis zum Ende des Höchstpreissystems. Quelle: rss.donga.com"
+      },
+      "fr": {
+        "title": "SK Energy aidera 2 500 stations SK jusqu’à 20 milliards de wons par mois",
+        "excerpt": "SK Energy a annoncé le 10 qu’elle verserait jusqu’à 20 milliards de wons par mois à environ 2 500 stations SK touchées par les prix élevés du pétrole et le prix plafond.",
+        "body": "SK Energy a annoncé le 10 qu’elle verserait jusqu’à 20 milliards de wons par mois de « fonds de soutien face aux prix élevés du pétrole et à la crise » aux stations-service SK du pays confrontées à des difficultés d’exploitation après la persistance des prix élevés et l’application du système de prix plafond. Le dispositif vise environ 2 500 stations SK en Corée, hors stations exploitées directement. Il s’agit de la première tentative de soutien direct sur le terrain par l’industrie du raffinage depuis le lancement du prix plafond. Le premier versement pourrait intervenir dès ce mois-ci après examen interne. L’aide couvrira la période allant du 13 mars à 0 h jusqu’à la fin du système. Source: rss.donga.com"
+      },
+      "ar": {
+        "title": "إس كيه إنرجي تدعم 2500 محطة SK بما يصل إلى 20 مليار وون شهريا",
+        "excerpt": "قالت إس كيه إنرجي في العاشر إنها ستدفع ما يصل إلى 20 مليار وون شهريا لنحو 2500 محطة SK تواجه ضغوطا تشغيلية بسبب ارتفاع أسعار النفط ونظام السعر الأقصى.",
+        "body": "أعلنت إس كيه إنرجي في العاشر أنها ستقدم ما يصل إلى 20 مليار وون شهريا كـ«دعم لمواجهة ارتفاع أسعار النفط وتجاوز الأزمة» لمحطات SK في أنحاء البلاد التي تعاني صعوبات تشغيلية بعد استمرار الأسعار المرتفعة وتطبيق نظام السعر الأقصى. ويشمل الدعم نحو 2500 محطة SK داخل كوريا، باستثناء المحطات التي تديرها الشركة مباشرة. وتعد هذه أول محاولة دعم مباشر ميداني من قطاع التكرير منذ بدء نظام السعر الأقصى. ومن المتوقع تسليم الدفعة الأولى في أقرب وقت خلال هذا الشهر بعد مراجعة داخلية. ويمتد الدعم من الساعة 00:00 يوم 13 مارس حتى انتهاء نظام السعر الأقصى، مع الجمع بين دعم ثابت ودعم مرتبط بحجم المبيعات. المصدر: rss.donga.com"
+      },
+      "hi": {
+        "title": "SK Energy 2,500 SK पेट्रोल पंपों को हर महीने 20 अरब वोन तक सहायता देगी",
+        "excerpt": "SK Energy ने 10 तारीख को कहा कि ऊंचे तेल दाम और अधिकतम मूल्य प्रणाली से दबाव झेल रहे करीब 2,500 SK पेट्रोल पंपों को हर महीने 20 अरब वोन तक सहायता दी जाएगी।",
+        "body": "SK Energy ने 10 तारीख को घोषणा की कि लंबे समय से ऊंचे तेल दाम और अधिकतम मूल्य प्रणाली लागू होने के बाद संचालन संकट झेल रहे देशभर के SK पेट्रोल पंपों को हर महीने 20 अरब वोन तक का “ऊंचे तेल दाम और संकट-निवारण सहायता कोष” दिया जाएगा। सहायता का दायरा कंपनी द्वारा सीधे संचालित पंपों को छोड़कर कोरिया के करीब 2,500 SK पेट्रोल पंपों तक होगा। अधिकतम मूल्य प्रणाली शुरू होने के बाद रिफाइनिंग उद्योग की ओर से यह पहला प्रत्यक्ष फील्ड सपोर्ट प्रयास है। आंतरिक समीक्षा के बाद पहली सहायता इस महीने के भीतर दी जा सकती है। सहायता 13 मार्च रात 12 बजे से प्रणाली समाप्त होने तक लागू रहेगी। स्रोत: rss.donga.com"
+      },
+      "id": {
+        "title": "SK Energy Dukung 2.500 SPBU SK hingga 20 Miliar Won per Bulan",
+        "excerpt": "SK Energy pada 10 mengumumkan akan menyalurkan hingga 20 miliar won per bulan kepada sekitar 2.500 SPBU SK yang terbebani harga minyak tinggi dan sistem harga maksimum.",
+        "body": "SK Energy pada 10 menyatakan akan membayar hingga 20 miliar won per bulan dalam bentuk “dana dukungan harga minyak tinggi dan pemulihan krisis” kepada SPBU SK di seluruh negeri yang mengalami kesulitan operasional setelah harga minyak tetap tinggi dan sistem harga maksimum diberlakukan. Sasaran dukungan adalah sekitar 2.500 SPBU SK di Korea, tidak termasuk SPBU yang dioperasikan langsung. Ini menjadi upaya dukungan langsung pertama di lapangan dari industri penyulingan sejak sistem harga maksimum dimulai. Dana pertama diperkirakan disalurkan paling cepat bulan ini setelah tinjauan internal. Dukungan berlaku sejak pukul 00.00 pada 13 Maret hingga sistem harga maksimum berakhir. Sumber: rss.donga.com"
+      }
+    }
+  },
+  {
     "id": "bc5414c26658",
     "slug": "고물가-고임금-구인난-제빵업계-냉동생지서-생존-해법-615457",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Order Saham di Atas 100 Juta Won Cetak Rekor, Fokus ke Samsung dan SK Hynix",
         "excerpt": "Bulan lalu, order saham senilai 100 juta won atau lebih mencapai rekor 1,19 juta, dengan sepertiganya terkonsentrasi di Samsung Electronics dan SK Hynix.",
         "body": "Bulan lalu, order saham besar senilai 100 juta won atau lebih di pasar Korea mencapai 1,19 juta, tertinggi sepanjang sejarah. Lonjakan ini terjadi saat KOSPI melanjutkan reli setelah pertama kalinya menembus level 7.000, sementara investor individu bermodal besar meningkatkan aktivitas jual beli. Sepertiga dari seluruh order besar terkonsentrasi di Samsung Electronics dan SK Hynix. Data tersebut menunjukkan dana investor ritel mengalir ke saham semikonduktor berkapitalisasi besar, sehingga pengaruh investor individu ikut menguat dalam kenaikan pasar. Laporan asli tidak menyajikan jumlah order rinci per saham atau angka proyeksi lanjutan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a1aa2b4ad6bc",
-    "slug": "한국타이어-분석-안정적-수익과-주주환원-확대까지원가-상승은-리스크-요인-997502",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T05:55:50.625Z",
-    "updatedAt": "2026-05-10T05:55:50.625Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605106294i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605106294i",
-    "titleFingerprint": "e7ac7db4a8e0857dc267c11213df6c5b3c56a05e",
-    "dedupKeys": [
-      "a1aa2b4ad6bcf49518376a9f83447265459aba7a",
-      "e7ac7db4a8e0857dc267c11213df6c5b3c56a05e",
-      "0a80d69e12d298b60aa7960ae15641d320e4e894"
-    ],
-    "imageUrl": "/images/articles/a1aa2b4ad6bc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국타이어, 안정적 수익과 주주환원 확대 주목…원가 상승은 변수",
-        "excerpt": "한국타이어는 최근 분석에서 안정적 수익성과 주주환원 확대 가능성이 부각됐지만, 원가 상승 부담이 향후 실적의 주요 리스크 요인으로 제시됐다.",
-        "body": "한국타이어가 최근 분석에서 안정적인 수익 흐름과 주주환원 확대 가능성으로 주목받고 있다. 이번 분석은 회사의 수익성이 비교적 견조하게 유지되는 가운데, 주주가치 제고 움직임이 투자 판단의 핵심 요인으로 거론됐다는 점을 짚었다. 다만 원가 상승은 부담 요인으로 제시됐다. 원재료와 생산 관련 비용이 높아질 경우 수익성 안정 흐름에 영향을 줄 수 있기 때문이다. 향후 시장의 관심은 한국타이어가 안정적 이익 기반을 유지하면서 주주환원 확대를 이어갈 수 있는지에 모일 전망이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Hankook Tire Draws Attention for Stable Profit and Shareholder Returns",
-        "excerpt": "A recent analysis of Hankook Tire highlighted stable profitability and the potential for wider shareholder returns, while rising costs were cited as a key earnings risk.",
-        "body": "Hankook Tire is drawing attention in a recent analysis for its stable earnings profile and the possibility of expanded shareholder returns. The analysis noted that the company’s profitability has remained relatively steady, while moves to enhance shareholder value have become an important factor for investors to watch. However, rising costs were identified as a risk. Higher raw material and production-related expenses could weigh on the company’s ability to maintain stable profitability. Market attention is expected to focus on whether Hankook Tire can preserve its earnings base while continuing to expand shareholder returns. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "韓国タイヤ、安定収益と株主還元拡大に注目…コスト上昇はリスク",
-        "excerpt": "韓国タイヤは最近の分析で、安定した収益性と株主還元拡大の可能性が注目された一方、コスト上昇が今後の業績リスクとして示された。",
-        "body": "韓国タイヤは最近の分析で、安定した収益の流れと株主還元拡大の可能性により注目されている。今回の分析では、同社の収益性が比較的堅調に維持されるなか、株主価値を高める動きが投資判断の重要な要素として取り上げられた。ただし、コスト上昇は負担要因として示された。原材料や生産関連費用が高まれば、安定した収益性に影響を与える可能性があるためだ。今後は、韓国タイヤが安定した利益基盤を維持しながら株主還元拡大を続けられるかに市場の関心が集まりそうだ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "韩泰轮胎稳定收益与股东回报受关注，成本上升成风险",
-        "excerpt": "近期分析指出，韩泰轮胎稳定的盈利能力和扩大股东回报的可能性受到关注，但成本上升被列为未来业绩的主要风险因素。",
-        "body": "韩泰轮胎在近期分析中因稳定的收益走势和扩大股东回报的可能性而受到关注。该分析指出，在公司盈利能力相对稳健的情况下，提升股东价值的动向成为投资判断中的重要因素。不过，成本上升也被视为压力因素。如果原材料和生产相关费用继续增加，可能影响公司维持稳定盈利的能力。未来市场关注的焦点将是，韩泰轮胎能否在保持稳定利润基础的同时，继续扩大股东回报。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Hankook Tire destaca por beneficios estables y más retorno al accionista",
-        "excerpt": "Un análisis reciente de Hankook Tire resaltó su rentabilidad estable y la posible ampliación del retorno al accionista, aunque el aumento de costes figura como riesgo clave.",
-        "body": "Hankook Tire ha llamado la atención en un análisis reciente por su flujo de beneficios estable y la posibilidad de ampliar el retorno al accionista. El análisis señaló que la rentabilidad de la compañía se mantiene relativamente sólida, mientras que las medidas para mejorar el valor para los accionistas se han convertido en un factor relevante para la evaluación inversora. Sin embargo, el aumento de costes fue presentado como un riesgo. Un mayor gasto en materias primas y producción podría afectar la estabilidad de la rentabilidad. La atención del mercado se centrará en si Hankook Tire puede mantener su base de beneficios y seguir ampliando el retorno al accionista. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Hankook Tire atrai atenção por lucro estável e maior retorno ao acionista",
-        "excerpt": "Análise recente da Hankook Tire destacou rentabilidade estável e possível ampliação do retorno ao acionista, enquanto a alta de custos foi apontada como risco relevante.",
-        "body": "A Hankook Tire chamou atenção em uma análise recente por seu fluxo de lucros estável e pela possibilidade de ampliar o retorno aos acionistas. A análise observou que a rentabilidade da companhia se mantém relativamente firme, enquanto iniciativas para elevar o valor ao acionista passaram a ser um fator importante na avaliação dos investidores. Ainda assim, a alta de custos foi apontada como ponto de pressão. Despesas maiores com matérias-primas e produção podem afetar a manutenção da rentabilidade estável. O mercado deve observar se a Hankook Tire conseguirá preservar sua base de lucros enquanto continua ampliando o retorno aos acionistas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Hankook Tire: Stabile Gewinne und höhere Aktionärsrenditen im Fokus",
-        "excerpt": "Eine aktuelle Analyse zu Hankook Tire hebt stabile Profitabilität und mögliche höhere Aktionärsrenditen hervor, nennt steigende Kosten aber als zentrales Risiko.",
-        "body": "Hankook Tire steht in einer aktuellen Analyse wegen stabiler Erträge und der Möglichkeit einer Ausweitung der Aktionärsrenditen im Fokus. Die Analyse betont, dass die Profitabilität des Unternehmens relativ solide bleibt und Maßnahmen zur Stärkung des Aktionärswerts zu einem wichtigen Faktor für Anlageentscheidungen geworden sind. Zugleich wurden steigende Kosten als Belastungsfaktor genannt. Höhere Ausgaben für Rohstoffe und Produktion könnten die stabile Ertragslage beeinträchtigen. Der Markt dürfte künftig darauf achten, ob Hankook Tire seine Gewinnbasis halten und zugleich die Aktionärsrenditen ausweiten kann. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Hankook Tire: profits stables et retour accru aux actionnaires surveillés",
-        "excerpt": "Une analyse récente de Hankook Tire souligne une rentabilité stable et un possible retour accru aux actionnaires, tout en citant la hausse des coûts comme risque majeur.",
-        "body": "Hankook Tire retient l’attention dans une analyse récente grâce à un profil de bénéfices stable et à la possibilité d’un retour accru aux actionnaires. L’analyse indique que la rentabilité de l’entreprise reste relativement solide, tandis que les mesures visant à renforcer la valeur actionnariale deviennent un facteur important pour les investisseurs. Toutefois, la hausse des coûts a été présentée comme un risque. Des dépenses plus élevées liées aux matières premières et à la production pourraient peser sur la stabilité de la rentabilité. Le marché devrait suivre la capacité de Hankook Tire à préserver sa base de profits tout en poursuivant l’élargissement du retour aux actionnaires. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "هانكوك تاير تحت الضوء بفضل أرباح مستقرة وتوسع محتمل بعوائد المساهمين",
-        "excerpt": "أبرز تحليل حديث لهانكوك تاير استقرار الربحية وإمكان توسيع عوائد المساهمين، لكنه أشار إلى ارتفاع التكاليف كعامل خطر رئيسي على الأداء المقبل.",
-        "body": "تحظى هانكوك تاير باهتمام في تحليل حديث بسبب استقرار تدفق أرباحها وإمكان توسيع عوائد المساهمين. وأشار التحليل إلى أن ربحية الشركة ما زالت مستقرة نسبيا، في حين أصبحت خطوات تعزيز قيمة المساهمين عاملا مهما في تقييم المستثمرين. ومع ذلك، طُرح ارتفاع التكاليف كعامل ضغط. فزيادة نفقات المواد الخام والإنتاج قد تؤثر في قدرة الشركة على الحفاظ على ربحية مستقرة. ومن المتوقع أن يتركز اهتمام السوق على ما إذا كانت هانكوك تاير قادرة على الحفاظ على قاعدة أرباحها مع مواصلة توسيع عوائد المساهمين. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "हैंकूक टायर में स्थिर मुनाफे और शेयरधारक रिटर्न पर नजर, लागत जोखिम",
-        "excerpt": "हैंकूक टायर पर हालिया विश्लेषण में स्थिर लाभप्रदता और शेयरधारक रिटर्न बढ़ने की संभावना सामने आई, जबकि बढ़ती लागत को अहम जोखिम बताया गया।",
-        "body": "हैंकूक टायर हालिया विश्लेषण में स्थिर आय प्रवाह और शेयरधारक रिटर्न बढ़ाने की संभावना के कारण ध्यान में है। विश्लेषण के अनुसार कंपनी की लाभप्रदता अपेक्षाकृत मजबूत बनी हुई है और शेयरधारक मूल्य बढ़ाने से जुड़े कदम निवेशकों के लिए महत्वपूर्ण मूल्यांकन बिंदु बन गए हैं। हालांकि, लागत में वृद्धि को दबाव कारक बताया गया। कच्चे माल और उत्पादन से जुड़े खर्च बढ़ने पर स्थिर लाभप्रदता बनाए रखने की क्षमता प्रभावित हो सकती है। आगे बाजार की नजर इस बात पर रहेगी कि हैंकूक टायर अपनी लाभ आधार को बनाए रखते हुए शेयरधारक रिटर्न का विस्तार जारी रख पाती है या नहीं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Hankook Tire Disorot karena Laba Stabil dan Potensi Imbal Hasil Saham",
-        "excerpt": "Analisis terbaru Hankook Tire menyoroti profitabilitas stabil dan peluang perluasan imbal hasil pemegang saham, sementara kenaikan biaya menjadi risiko utama.",
-        "body": "Hankook Tire menjadi perhatian dalam analisis terbaru karena aliran laba yang stabil dan potensi perluasan imbal hasil bagi pemegang saham. Analisis tersebut mencatat bahwa profitabilitas perusahaan relatif terjaga, sementara langkah untuk meningkatkan nilai pemegang saham menjadi faktor penting dalam penilaian investasi. Namun, kenaikan biaya disebut sebagai faktor risiko. Peningkatan biaya bahan baku dan produksi dapat memengaruhi kemampuan perusahaan mempertahankan profitabilitas yang stabil. Ke depan, pasar akan mencermati apakah Hankook Tire mampu menjaga basis laba sambil terus memperluas imbal hasil bagi pemegang saham. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "3728f7ca1e0a",
-    "slug": "롯데웰푸드-분석-구조적-이익-개선-가능성을-충분히-반영하지-못한-주가-148915",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T05:54:56.813Z",
-    "updatedAt": "2026-05-10T05:54:56.813Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605106305i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605106305i",
-    "titleFingerprint": "feb8900d3991b062865c1a7412791bc723f453cb",
-    "dedupKeys": [
-      "3728f7ca1e0a247a26ed89f9713d4fdd40164778",
-      "feb8900d3991b062865c1a7412791bc723f453cb",
-      "d9d90cfa60c63293ef291a85f4ea31e0746a7053"
-    ],
-    "imageUrl": "/images/articles/3728f7ca1e0a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "롯데웰푸드 주가 분석, 구조적 이익 개선 가능성 아직 충분히 반영 못했다",
-        "excerpt": "한국경제는 롯데웰푸드 분석에서 현재 주가가 구조적 이익 개선 가능성을 충분히 반영하지 못했다는 평가를 전하며 투자자들이 수익성 변화에 주목하고 있다고 보도했다.",
-        "body": "한국경제(hankyung.com)는 롯데웰푸드에 대한 분석을 통해 회사 주가가 구조적 이익 개선 가능성을 충분히 반영하지 못하고 있다는 평가를 전했다. 이번 보도는 롯데웰푸드의 이익 체력이 단기 흐름을 넘어 구조적으로 개선될 여지가 있다는 점에 초점을 맞췄다. 구체적인 수치나 세부 실적 전망은 원문 요약에 제시되지 않았지만, 핵심 메시지는 현재 주가 수준이 향후 이익 개선 가능성을 온전히 가격에 반영하지 못했다는 데 있다. 이에 따라 시장에서는 롯데웰푸드의 수익성 변화와 주가 재평가 가능성이 관전 포인트로 부각된다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Lotte Wellfood Stock Analysis Says Profit Improvement Potential Is Not Fully Priced In",
-        "excerpt": "Hankyung reported in its Lotte Wellfood analysis that the current share price may not fully reflect the company’s potential for structural profit improvement, drawing investor attention to profitability changes.",
-        "body": "Hankyung.com reported an analysis of Lotte Wellfood saying the company’s share price does not fully reflect the potential for structural profit improvement. The article focused on the possibility that Lotte Wellfood’s earnings capacity could improve beyond short-term movements. No specific figures or detailed earnings forecasts were provided in the source summary, but the key point was that the current stock level may not fully price in future profit improvement. As a result, changes in profitability and the possibility of a stock revaluation are emerging as points to watch. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "ロッテウェルフード株価分析、構造的な利益改善余地を十分反映せず",
-        "excerpt": "韓国経済はロッテウェルフードの分析で、現在の株価が構造的な利益改善の可能性を十分に反映していないとの見方を伝え、収益性の変化に注目が集まっていると報じた。",
-        "body": "韓国経済(hankyung.com)は、ロッテウェルフードに関する分析で、同社の株価が構造的な利益改善の可能性を十分に反映していないとの評価を伝えた。記事は、ロッテウェルフードの利益体力が短期的な流れを超えて構造的に改善する余地がある点に焦点を当てている。原文要約には具体的な数値や詳細な業績見通しは示されていないが、核心は現在の株価水準が将来の利益改善可能性を完全には織り込んでいないという点だ。市場では収益性の変化と株価再評価の可能性が注目点となっている。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "乐天웰푸드股价分析：结构性利润改善潜力尚未充分反映",
-        "excerpt": "韩国经济报道，在对乐天웰푸드的分析中，当前股价可能尚未充分反映其结构性利润改善潜力，投资者正关注公司盈利能力变化。",
-        "body": "韩国经济(hankyung.com)在对乐天웰푸드的分析中表示，公司股价尚未充分反映结构性利润改善的可能性。报道重点指出，乐天웰푸드的盈利能力可能不只是短期波动，而存在结构性改善空间。原文摘要未提供具体数据或详细业绩预测，但核心信息是当前股价水平可能尚未完整计入未来利润改善潜力。因此，市场关注点转向公司盈利能力变化以及股价重新评估的可能性。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Análisis de Lotte Wellfood: la acción no reflejaría todo el potencial de mejora",
-        "excerpt": "Hankyung informó en su análisis de Lotte Wellfood que el precio actual de la acción no reflejaría plenamente el potencial de mejora estructural de beneficios, atrayendo la atención hacia la rentabilidad.",
-        "body": "Hankyung.com informó en un análisis sobre Lotte Wellfood que el precio de la acción no refleja plenamente la posibilidad de una mejora estructural de beneficios. La nota se centró en que la capacidad de ganancias de Lotte Wellfood podría mejorar de forma estructural, más allá de movimientos de corto plazo. El resumen original no incluyó cifras concretas ni previsiones detalladas, pero el mensaje central fue que el nivel actual de la acción no incorpora por completo la posible mejora futura de beneficios. Por ello, los cambios en rentabilidad y una posible revaloración bursátil se perfilan como puntos clave. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Análise da Lotte Wellfood vê melhora estrutural de lucro ainda não precificada",
-        "excerpt": "O Hankyung informou, em análise sobre a Lotte Wellfood, que a cotação atual pode não refletir totalmente o potencial de melhora estrutural dos lucros, levando investidores a observar a rentabilidade.",
-        "body": "O Hankyung.com publicou análise sobre a Lotte Wellfood indicando que o preço da ação não reflete plenamente a possibilidade de melhora estrutural dos lucros. A reportagem destacou que a capacidade de geração de lucro da empresa pode melhorar de forma estrutural, além dos movimentos de curto prazo. O resumo original não trouxe números específicos nem projeções detalhadas de resultados, mas a mensagem central foi que o nível atual da ação ainda não incorpora totalmente a possibilidade de melhora futura dos lucros. Assim, mudanças na rentabilidade e eventual reavaliação do papel tornam-se pontos de atenção. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Lotte-Wellfood-Analyse: Strukturelles Gewinnpotenzial noch nicht voll eingepreist",
-        "excerpt": "Hankyung berichtete in einer Analyse zu Lotte Wellfood, dass der aktuelle Aktienkurs das Potenzial struktureller Gewinnverbesserungen möglicherweise nicht vollständig widerspiegelt.",
-        "body": "Hankyung.com berichtete in einer Analyse zu Lotte Wellfood, dass der Aktienkurs des Unternehmens das Potenzial struktureller Gewinnverbesserungen nicht vollständig widerspiegele. Der Bericht stellte in den Mittelpunkt, dass sich die Ertragskraft von Lotte Wellfood über kurzfristige Entwicklungen hinaus strukturell verbessern könnte. Konkrete Zahlen oder detaillierte Gewinnprognosen wurden in der vorliegenden Zusammenfassung nicht genannt. Die Kernaussage lautet jedoch, dass das aktuelle Kursniveau mögliche künftige Gewinnverbesserungen noch nicht vollständig einpreist. Damit rücken Rentabilitätsveränderungen und eine mögliche Neubewertung der Aktie in den Fokus. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Analyse de Lotte Wellfood : le potentiel de bénéfices pas encore pleinement intégré",
-        "excerpt": "Hankyung a indiqué dans son analyse de Lotte Wellfood que le cours actuel ne refléterait pas entièrement le potentiel d’amélioration structurelle des bénéfices, attirant l’attention sur la rentabilité.",
-        "body": "Hankyung.com a rapporté, dans une analyse consacrée à Lotte Wellfood, que le cours de l’action ne reflète pas pleinement la possibilité d’une amélioration structurelle des bénéfices. L’article met l’accent sur le fait que la capacité bénéficiaire de Lotte Wellfood pourrait s’améliorer de façon structurelle, au-delà des mouvements de court terme. Le résumé d’origine ne fournit pas de chiffres précis ni de prévisions détaillées, mais le message principal est que le niveau actuel du titre n’intègre pas entièrement les perspectives d’amélioration future des profits. Les évolutions de rentabilité et une possible revalorisation du titre deviennent donc des points à surveiller. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "تحليل سهم لوتي ويلفود: تحسن الأرباح الهيكلي غير منعكس بالكامل في السعر",
-        "excerpt": "ذكرت هانكيونغ في تحليلها لشركة لوتي ويلفود أن سعر السهم الحالي قد لا يعكس بالكامل احتمال تحسن الأرباح بصورة هيكلية، ما يلفت الانتباه إلى تغيرات الربحية.",
-        "body": "ذكرت هانكيونغ عبر hankyung.com في تحليل عن لوتي ويلفود أن سعر سهم الشركة لا يعكس بالكامل إمكانية تحسن الأرباح بصورة هيكلية. وركز التقرير على أن قدرة الشركة على تحقيق الأرباح قد تتحسن بشكل يتجاوز التحركات قصيرة الأجل. ولم يتضمن ملخص النص الأصلي أرقاما محددة أو توقعات مفصلة للأداء، لكن الرسالة الأساسية هي أن مستوى السهم الحالي لا يستوعب تماما احتمال تحسن الأرباح مستقبلا. لذلك تبرز تغيرات الربحية وإمكانية إعادة تقييم السهم كنقاط متابعة في السوق. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "लोटे वेलफूड शेयर विश्लेषण: संरचनात्मक लाभ सुधार पूरी तरह कीमत में नहीं",
-        "excerpt": "Hankyung ने लोटे वेलफूड पर अपने विश्लेषण में बताया कि मौजूदा शेयर भाव कंपनी के संरचनात्मक लाभ सुधार की संभावना को पूरी तरह नहीं दर्शाता, इसलिए निवेशकों का ध्यान लाभप्रदता पर है।",
-        "body": "Hankyung.com ने लोटे वेलफूड पर अपने विश्लेषण में कहा कि कंपनी का शेयर भाव संरचनात्मक लाभ सुधार की संभावना को पूरी तरह प्रतिबिंबित नहीं करता। रिपोर्ट का मुख्य जोर इस बात पर था कि लोटे वेलफूड की कमाई की क्षमता अल्पकालिक उतार-चढ़ाव से आगे जाकर संरचनात्मक रूप से सुधर सकती है। मूल सारांश में कोई विशिष्ट आंकड़ा या विस्तृत आय अनुमान नहीं दिया गया है, लेकिन मुख्य संदेश यह है कि मौजूदा शेयर स्तर भविष्य के लाभ सुधार की संभावना को पूरी तरह कीमत में शामिल नहीं करता। ऐसे में लाभप्रदता में बदलाव और शेयर के पुनर्मूल्यांकन की संभावना बाजार के लिए प्रमुख बिंदु बनते हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Analisis Saham Lotte Wellfood: Potensi Perbaikan Laba Belum Sepenuhnya Tercermin",
-        "excerpt": "Hankyung melaporkan dalam analisis Lotte Wellfood bahwa harga saham saat ini belum sepenuhnya mencerminkan potensi perbaikan laba struktural, sehingga perubahan profitabilitas menjadi perhatian investor.",
-        "body": "Hankyung.com melaporkan analisis tentang Lotte Wellfood yang menyebut harga saham perusahaan belum sepenuhnya mencerminkan potensi perbaikan laba secara struktural. Laporan tersebut menyoroti kemungkinan bahwa kemampuan laba Lotte Wellfood dapat membaik melampaui pergerakan jangka pendek. Ringkasan sumber tidak memuat angka spesifik atau proyeksi kinerja terperinci, tetapi pesan utamanya adalah bahwa level saham saat ini belum sepenuhnya memasukkan potensi perbaikan laba di masa depan. Karena itu, perubahan profitabilitas dan kemungkinan penilaian ulang saham menjadi poin yang perlu diperhatikan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a0727fdafc5a",
-    "slug": "광주-여고생-살해-피의자-사이코패스-검사-결과-내일11일-공개-963883",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T05:53:56.194Z",
-    "updatedAt": "2026-05-10T05:53:56.194Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051063437",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051063437",
-    "titleFingerprint": "ff87af65cac399849bbe90cb655b6652c93494d1",
-    "dedupKeys": [
-      "a0727fdafc5a8d1c7d6e3d03b8abe517374ea1d1",
-      "ff87af65cac399849bbe90cb655b6652c93494d1",
-      "90e39c045b72ecb6b2603c10fba4f691723f2f0c"
-    ],
-    "imageUrl": "/images/articles/a0727fdafc5a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "광주 여고생 살해 피의자 사이코패스 검사 결과, 내일 11일 공개 예정",
-        "excerpt": "광주 도심에서 여고생을 살해하고 남고생에게 흉기를 휘두른 혐의로 구속된 24세 장모 씨의 사이코패스 진단 검사 결과가 내일인 11일 공개될 예정이다.",
-        "body": "광주 여고생 살해 사건 피의자 장모 씨(24)의 사이코패스 진단 검사 결과가 내일인 11일 공개될 예정이다. 장 씨는 지난 5일 0시 11분께 광주 광산구 월계동 한 대학교 인근 보행로에서 고교 2학년 A양(17)을 흉기로 찔러 숨지게 하고, 다른 고교생 B군(17)에게도 흉기를 휘두른 혐의로 구속됐다. 경찰은 장 씨를 대상으로 사이코패스, 즉 반사회적 인격장애 진단 검사를 시행했으며 범행 목적을 수사하고 있다. 앞서 경찰은 신상정보공개심의위원회를 열어 장 씨의 이름, 나이, 얼굴 사진 등을 30일간 공개하기로 했다. 검사 결과는 향후 수사와 사건 규명 과정에서 참고 자료가 될 전망이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Gwangju Teen Murder Suspect’s Psychopathy Test Result to Be Released May 11",
-        "excerpt": "The psychopathy assessment result for 24-year-old Jang, arrested over the killing of a high school girl and attack on a male student in Gwangju, is set to be released on May 11.",
-        "body": "The psychopathy assessment result for Jang, 24, the suspect in the Gwangju high school girl murder case, is expected to be released on May 11. Jang has been arrested on allegations of fatally stabbing a 17-year-old second-year high school girl on a walkway near a university in Wolgye-dong, Gwangsan-gu, Gwangju, at around 12:11 a.m. on May 5, and also attacking another 17-year-old male high school student with a weapon. Police conducted a psychopathy, or antisocial personality disorder, assessment on Jang and are investigating the motive for the crime. Police previously decided to disclose Jang’s name, age and facial photo for 30 days. The test result is expected to serve as reference material in the continuing investigation. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "光州女子高校生殺害容疑者、サイコパス検査結果を5月11日に公開へ",
-        "excerpt": "光州で女子高校生を殺害し男子高校生にも刃物を振るった疑いで拘束された24歳のチャン氏について、サイコパス診断検査の結果が5月11日に公開される予定です。",
-        "body": "光州の女子高校生殺害事件の容疑者、チャン氏（24）のサイコパス診断検査の結果が、5月11日に公開される予定です。チャン氏は5月5日午前0時11分ごろ、光州広域市光山区月渓洞の大学付近の歩道で高校2年生のAさん（17）を刃物で刺して死亡させ、別の高校生Bさん（17）にも刃物を振るった疑いで拘束されました。警察はチャン氏に対し、サイコパス、すなわち反社会性人格障害の診断検査を実施し、犯行目的を捜査しています。これに先立ち警察は、身上情報公開審議委員会を開き、チャン氏の氏名、年齢、顔写真などを30日間公開することを決めました。検査結果は今後の捜査と事件解明の参考資料になる見通しです。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "光州女高中生遇害案嫌疑人精神病态检测结果将于5月11日公布",
-        "excerpt": "因涉嫌在光州杀害一名女高中生并持刀袭击一名男高中生而被拘留的24岁张某，其精神病态诊断检测结果预计将于5月11日公布。",
-        "body": "光州女高中生遇害案嫌疑人张某（24岁）的精神病态诊断检测结果预计将于5月11日公布。张某涉嫌于5月5日0时11分左右，在光州广域市光山区月溪洞一所大学附近的人行道上，持刀刺死高中二年级女生A某（17岁），并向另一名高中生B某（17岁）挥刀，目前已被拘留。警方已对张某进行了精神病态，即反社会人格障碍诊断检测，并正在调查其犯罪目的。此前，警方召开身份信息公开审议委员会，决定将张某的姓名、年龄、面部照片等公开30天。检测结果预计将作为后续调查和厘清案件经过的参考资料。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Resultado del test de psicopatía del sospechoso del asesinato en Gwangju se publicará el 11 de mayo",
-        "excerpt": "El resultado de la evaluación de psicopatía de Jang, de 24 años, detenido por matar a una estudiante de secundaria y atacar a un alumno en Gwangju, se publicará el 11 de mayo.",
-        "body": "El resultado de la evaluación de psicopatía de Jang, de 24 años, sospechoso del asesinato de una estudiante de secundaria en Gwangju, se publicará el 11 de mayo. Jang fue detenido bajo sospecha de apuñalar mortalmente a una alumna de segundo año de secundaria, de 17 años, en una acera cercana a una universidad en Wolgye-dong, Gwangsan-gu, Gwangju, alrededor de las 00:11 del 5 de mayo, y de atacar también con un arma blanca a otro estudiante de secundaria, también de 17 años. La policía realizó a Jang una evaluación de psicopatía, o trastorno antisocial de la personalidad, y continúa investigando el motivo del crimen. Antes, las autoridades decidieron publicar durante 30 días su nombre, edad y fotografía facial. El resultado servirá como referencia en la investigación. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Resultado do teste de psicopatia de suspeito de matar estudante em Gwangju sai em 11 de maio",
-        "excerpt": "O resultado da avaliação de psicopatia de Jang, 24, preso por matar uma estudante do ensino médio e atacar um aluno em Gwangju, deve ser divulgado em 11 de maio.",
-        "body": "O resultado da avaliação de psicopatia de Jang, 24 anos, suspeito no caso do assassinato de uma estudante do ensino médio em Gwangju, deve ser divulgado em 11 de maio. Jang foi preso sob suspeita de esfaquear fatalmente uma aluna de 17 anos, do segundo ano do ensino médio, em uma calçada perto de uma universidade em Wolgye-dong, Gwangsan-gu, Gwangju, por volta de 0h11 de 5 de maio, e de também atacar com uma arma branca outro estudante de 17 anos. A polícia realizou em Jang uma avaliação de psicopatia, ou transtorno de personalidade antissocial, e investiga o motivo do crime. Antes disso, decidiu divulgar por 30 dias seu nome, idade e foto do rosto. O resultado deverá servir como referência para a investigação. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Psychopathie-Test des Verdächtigen im Gwangju-Schülerinnenmord wird am 11. Mai veröffentlicht",
-        "excerpt": "Das Ergebnis der Psychopathie-Untersuchung des 24-jährigen Jang, der wegen der Tötung einer Schülerin und des Angriffs auf einen Schüler in Gwangju festgenommen wurde, soll am 11. Mai veröffentlicht werden.",
-        "body": "Das Ergebnis der Psychopathie-Untersuchung des 24-jährigen Jang, Verdächtiger im Mordfall an einer Oberschülerin in Gwangju, soll am 11. Mai veröffentlicht werden. Jang wurde festgenommen, weil er am 5. Mai gegen 0:11 Uhr auf einem Gehweg nahe einer Universität in Wolgye-dong, Gwangsan-gu, Gwangju, eine 17-jährige Schülerin der zweiten Oberschulklasse mit einer Stichwaffe tödlich verletzt und auch einen weiteren 17-jährigen Oberschüler angegriffen haben soll. Die Polizei führte bei Jang eine Untersuchung auf Psychopathie beziehungsweise antisoziale Persönlichkeitsstörung durch und ermittelt zum Tatmotiv. Zuvor beschloss ein Ausschuss, Jangs Namen, Alter und Gesichtsfoto 30 Tage lang zu veröffentlichen. Das Ergebnis dürfte als Referenz für die weiteren Ermittlungen dienen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le test de psychopathie du suspect du meurtre d’une lycéenne à Gwangju publié le 11 mai",
-        "excerpt": "Le résultat de l’évaluation de psychopathie de Jang, 24 ans, arrêté pour le meurtre d’une lycéenne et l’attaque d’un lycéen à Gwangju, doit être publié le 11 mai.",
-        "body": "Le résultat de l’évaluation de psychopathie de Jang, 24 ans, suspect dans le meurtre d’une lycéenne à Gwangju, doit être publié le 11 mai. Jang a été arrêté pour avoir, selon les accusations, poignardé mortellement une élève de deuxième année de lycée âgée de 17 ans sur un trottoir près d’une université à Wolgye-dong, dans l’arrondissement de Gwangsan à Gwangju, vers 0 h 11 le 5 mai, et pour avoir également attaqué avec une arme blanche un autre lycéen de 17 ans. La police a mené une évaluation de psychopathie, ou trouble de la personnalité antisociale, et enquête sur le mobile du crime. Elle avait auparavant décidé de publier pendant 30 jours le nom, l’âge et la photo du visage de Jang. Le résultat devrait servir de référence dans l’enquête. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "نتيجة فحص السيكوباتية لمشتبه به في قتل طالبة بغوانغجو تُعلن في 11 مايو",
-        "excerpt": "من المقرر إعلان نتيجة فحص السيكوباتية لجانغ، البالغ 24 عاما والموقوف بتهمة قتل طالبة ثانوية ومهاجمة طالب آخر في غوانغجو، في 11 مايو.",
-        "body": "من المقرر إعلان نتيجة فحص السيكوباتية لجانغ، البالغ من العمر 24 عاما والمشتبه به في قضية قتل طالبة ثانوية في غوانغجو، في 11 مايو. وقد أوقف جانغ للاشتباه في أنه طعن طالبة في الصف الثاني الثانوي تبلغ 17 عاما حتى الموت على ممر قرب جامعة في وولغي-دونغ، غوانغسان-غو، بمدينة غوانغجو، نحو الساعة 00:11 يوم 5 مايو، كما هاجم طالبا ثانويا آخر يبلغ 17 عاما بسلاح أبيض. وأجرت الشرطة له فحص السيكوباتية، أي اضطراب الشخصية المعادية للمجتمع، وتحقق في دافع الجريمة. وكانت الشرطة قد قررت سابقا نشر اسمه وعمره وصورة وجهه لمدة 30 يوما. ومن المتوقع أن تكون النتيجة مرجعا في مسار التحقيق. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "ग्वांगजू छात्रा हत्या के संदिग्ध की साइकोपैथी जांच रिपोर्ट 11 मई को जारी होगी",
-        "excerpt": "ग्वांगजू में एक हाई स्कूल छात्रा की हत्या और एक छात्र पर चाकू से हमले के आरोप में गिरफ्तार 24 वर्षीय जांग की साइकोपैथी जांच का परिणाम 11 मई को जारी होने वाला है।",
-        "body": "ग्वांगजू हाई स्कूल छात्रा हत्या मामले के संदिग्ध 24 वर्षीय जांग की साइकोपैथी जांच का परिणाम 11 मई को जारी होने वाला है। जांग को इस आरोप में गिरफ्तार किया गया है कि उसने 5 मई को रात 12:11 बजे के आसपास ग्वांगजू के ग्वांगसान-गु, वोल्ग्ये-डोंग में एक विश्वविद्यालय के पास पैदल मार्ग पर 17 वर्षीय हाई स्कूल द्वितीय वर्ष की छात्रा A को चाकू मारकर मार डाला और एक अन्य 17 वर्षीय हाई स्कूल छात्र B पर भी चाकू से हमला किया। पुलिस ने जांग पर साइकोपैथी, यानी असामाजिक व्यक्तित्व विकार, की जांच की है और अपराध के उद्देश्य की जांच कर रही है। इससे पहले पुलिस ने जांग का नाम, उम्र और चेहरे की तस्वीर 30 दिनों तक सार्वजनिक करने का फैसला किया था। जांच परिणाम आगे की जांच और घटना की पुष्टि में संदर्भ सामग्री बन सकता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Hasil Tes Psikopati Tersangka Pembunuhan Siswi di Gwangju Dirilis 11 Mei",
-        "excerpt": "Hasil tes psikopati terhadap Jang, 24 tahun, yang ditahan atas dugaan membunuh siswi SMA dan menyerang seorang siswa di Gwangju, dijadwalkan dirilis pada 11 Mei.",
-        "body": "Hasil tes psikopati terhadap Jang, 24 tahun, tersangka dalam kasus pembunuhan siswi SMA di Gwangju, dijadwalkan dirilis pada 11 Mei. Jang ditahan atas dugaan menikam hingga tewas seorang siswi kelas dua SMA berusia 17 tahun di jalur pejalan kaki dekat sebuah universitas di Wolgye-dong, Gwangsan-gu, Gwangju, sekitar pukul 00.11 pada 5 Mei, serta menyerang seorang siswa SMA lain berusia 17 tahun dengan senjata tajam. Polisi telah melakukan tes psikopati, atau gangguan kepribadian antisosial, terhadap Jang dan menyelidiki tujuan kejahatan tersebut. Sebelumnya, polisi memutuskan untuk mempublikasikan nama, usia, dan foto wajah Jang selama 30 hari. Hasil tes itu diperkirakan menjadi bahan rujukan dalam penyidikan lanjutan. Sumber: hankyung.com."
       }
     }
   }
