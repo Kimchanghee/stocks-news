@@ -1,5 +1,230 @@
 [
   {
+    "id": "a9fcb6bc7775",
+    "slug": "매경증권대상-nh투자證-퇴직연금-대상에-삼성證-702752",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T10:08:15.976Z",
+    "updatedAt": "2026-05-11T10:08:15.976Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043582",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043582",
+    "titleFingerprint": "8e7951de665caa91b30991a37330568be53a103a",
+    "dedupKeys": [
+      "a9fcb6bc7775d546bdffe021dd5fc6369d83185e",
+      "8e7951de665caa91b30991a37330568be53a103a",
+      "b80aa160d30dec461bff5b053d6c195c63753aa6"
+    ],
+    "imageUrl": "/images/articles/a9fcb6bc7775.jpg",
+    "i18n": {
+      "ko": {
+        "title": "NH투자증권, 2026 매경 증권·연금대상 증권 부문 대상 수상",
+        "excerpt": "NH투자증권이 11일 서울 중구 매경미디어센터에서 열린 ‘2026 매일경제 증권·연금대상’에서 증권 부문 대상을 받았고, 삼성증권은 퇴직연금 부문 대상을 차지했다.",
+        "body": "NH투자증권이 11일 서울 중구 매경미디어센터에서 열린 ‘2026 매일경제 증권·연금대상’ 시상식에서 증권 부문 대상을 차지했다. 퇴직연금 부문 대상은 삼성증권이 거머쥐었다. 이번 시상식은 증권과 연금 분야를 대상으로 진행됐으며, 각 부문에서 두 회사가 최고상 수상사로 이름을 올렸다. NH투자증권의 증권 부문 대상과 삼성증권의 퇴직연금 부문 대상 수상은 국내 금융투자업계에서 두 회사의 존재감을 다시 확인한 사례로 평가된다. 관련 내용은 mk.co.kr 보도를 인용했다."
+      },
+      "en": {
+        "title": "NH Investment & Securities Wins Top Securities Prize at 2026 Maeil Awards",
+        "excerpt": "NH Investment & Securities won the securities grand prize at the 2026 Maeil Business Securities and Pension Awards held on May 11 in Seoul, while Samsung Securities took the retirement pension award.",
+        "body": "NH Investment & Securities won the grand prize in the securities category at the 2026 Maeil Business Securities and Pension Awards ceremony held on May 11 at the Maekyung Media Center in Jung-gu, Seoul. Samsung Securities received the grand prize in the retirement pension category. The awards ceremony covered the securities and pension sectors, with the two companies named as the top honorees in their respective categories. The results highlighted NH Investment & Securities in securities and Samsung Securities in retirement pensions within Korea’s financial investment industry. The information is cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "NH投資証券、2026毎経証券・年金大賞の証券部門で大賞",
+        "excerpt": "NH投資証券は5月11日、ソウル中区の毎経メディアセンターで開かれた「2026毎日経済証券・年金大賞」で証券部門大賞を受賞し、退職年金部門はサムスン証券が受賞した。",
+        "body": "NH投資証券は5月11日、ソウル中区の毎経メディアセンターで開かれた「2026毎日経済証券・年金大賞」授賞式で、証券部門の大賞を受賞した。退職年金部門の大賞はサムスン証券が獲得した。今回の授賞式は証券と年金分野を対象に行われ、各部門で両社が最高賞の受賞企業として名を連ねた。NH投資証券の証券部門大賞とサムスン証券の退職年金部門大賞受賞は、韓国の金融投資業界における両社の存在感を改めて示す事例となった。内容はmk.co.krの報道を引用した。"
+      },
+      "zh": {
+        "title": "NH投资证券获2026每日经济证券养老金大奖证券部门大奖",
+        "excerpt": "NH投资证券5月11日在首尔中区每日经济媒体中心举行的“2026每日经济证券·养老金大奖”中获得证券部门大奖，三星证券获得退休养老金部门大奖。",
+        "body": "NH投资证券5月11日在首尔中区每日经济媒体中心举行的“2026每日经济证券·养老金大奖”颁奖礼上，获得证券部门大奖。退休养老金部门大奖则由三星证券摘得。本次颁奖礼面向证券和养老金领域举行，两家公司分别成为各自部门的最高奖获奖者。NH投资证券获得证券部门大奖、三星证券获得退休养老金部门大奖，显示了两家公司在韩国金融投资行业中的存在感。相关内容引自mk.co.kr报道。"
+      },
+      "es": {
+        "title": "NH Investment & Securities gana el máximo premio bursátil Maeil 2026",
+        "excerpt": "NH Investment & Securities ganó el gran premio de valores en los Premios Maeil Business de Valores y Pensiones 2026, celebrados el 11 de mayo en Seúl; Samsung Securities ganó en pensiones de retiro.",
+        "body": "NH Investment & Securities obtuvo el gran premio en la categoría de valores durante la ceremonia de los Premios Maeil Business de Valores y Pensiones 2026, celebrada el 11 de mayo en el Maekyung Media Center, en Jung-gu, Seúl. Samsung Securities ganó el gran premio en la categoría de pensiones de retiro. La ceremonia abarcó los sectores de valores y pensiones, y ambas compañías fueron nombradas máximas galardonadas en sus respectivas áreas. El resultado destacó a NH Investment & Securities en valores y a Samsung Securities en pensiones de retiro dentro de la industria coreana de inversión financiera. La información cita a mk.co.kr."
+      },
+      "pt": {
+        "title": "NH Investment & Securities vence prêmio principal de valores Maeil 2026",
+        "excerpt": "A NH Investment & Securities ganhou o grande prêmio na área de valores no Maeil Business Securities and Pension Awards 2026, realizado em 11 de maio em Seul; a Samsung Securities venceu em previdência de aposentadoria.",
+        "body": "A NH Investment & Securities conquistou o grande prêmio na categoria de valores mobiliários na cerimônia do Maeil Business Securities and Pension Awards 2026, realizada em 11 de maio no Maekyung Media Center, em Jung-gu, Seul. A Samsung Securities recebeu o grande prêmio na categoria de previdência de aposentadoria. A premiação contemplou os setores de valores e pensões, com as duas empresas reconhecidas como as principais vencedoras em suas respectivas categorias. O resultado destacou a NH Investment & Securities em valores mobiliários e a Samsung Securities em previdência de aposentadoria no setor coreano de investimento financeiro. As informações citam mk.co.kr."
+      },
+      "de": {
+        "title": "NH Investment & Securities gewinnt Hauptpreis bei Maeil Awards 2026",
+        "excerpt": "NH Investment & Securities gewann am 11. Mai in Seoul den Hauptpreis in der Wertpapierkategorie der Maeil Business Securities and Pension Awards 2026; Samsung Securities erhielt den Preis für Betriebsrenten.",
+        "body": "NH Investment & Securities gewann den Hauptpreis in der Wertpapierkategorie bei der Verleihung der Maeil Business Securities and Pension Awards 2026, die am 11. Mai im Maekyung Media Center in Jung-gu, Seoul, stattfand. Samsung Securities erhielt den Hauptpreis in der Kategorie Renten- beziehungsweise Ruhestandsvorsorge. Die Veranstaltung deckte die Bereiche Wertpapiere und Pensionen ab, wobei beide Unternehmen in ihren jeweiligen Kategorien als wichtigste Preisträger genannt wurden. Das Ergebnis unterstreicht die Rolle von NH Investment & Securities im Wertpapierbereich und von Samsung Securities bei der Ruhestandsvorsorge innerhalb der koreanischen Finanzinvestmentbranche. Die Angaben berufen sich auf mk.co.kr."
+      },
+      "fr": {
+        "title": "NH Investment & Securities remporte le grand prix Maeil des valeurs 2026",
+        "excerpt": "NH Investment & Securities a remporté le grand prix de la catégorie valeurs mobilières aux Maeil Business Securities and Pension Awards 2026, organisés le 11 mai à Séoul; Samsung Securities a gagné pour les retraites.",
+        "body": "NH Investment & Securities a remporté le grand prix dans la catégorie valeurs mobilières lors de la cérémonie des Maeil Business Securities and Pension Awards 2026, tenue le 11 mai au Maekyung Media Center, à Jung-gu, Séoul. Samsung Securities a reçu le grand prix dans la catégorie des pensions de retraite. La cérémonie couvrait les secteurs des valeurs mobilières et des pensions, les deux entreprises étant désignées comme lauréates principales dans leurs catégories respectives. Ce résultat met en avant NH Investment & Securities dans les valeurs mobilières et Samsung Securities dans les pensions de retraite au sein du secteur coréen de l’investissement financier. Les informations citent mk.co.kr."
+      },
+      "ar": {
+        "title": "إن إتش للاستثمار والأوراق المالية تفوز بجائزة ماييل 2026 للأوراق المالية",
+        "excerpt": "فازت إن إتش للاستثمار والأوراق المالية بالجائزة الكبرى في فئة الأوراق المالية ضمن جوائز ماييل للأوراق المالية والمعاشات 2026 التي أقيمت في 11 مايو في سيول، بينما فازت سامسونغ للأوراق المالية بفئة تقاعد الموظفين.",
+        "body": "فازت إن إتش للاستثمار والأوراق المالية بالجائزة الكبرى في فئة الأوراق المالية خلال حفل جوائز ماييل للأوراق المالية والمعاشات 2026، الذي أقيم في 11 مايو في مركز مايك يونغ الإعلامي في حي جونغ غو بسيول. وحصلت سامسونغ للأوراق المالية على الجائزة الكبرى في فئة معاشات التقاعد. شمل الحفل قطاعي الأوراق المالية والمعاشات، وسجلت الشركتان اسميهما كأبرز فائزتين في الفئتين المعنيتين. ويبرز هذا الفوز حضور إن إتش للاستثمار والأوراق المالية في قطاع الأوراق المالية وحضور سامسونغ للأوراق المالية في تقاعد الموظفين ضمن صناعة الاستثمار المالي في كوريا. المعلومات منقولة عن mk.co.kr."
+      },
+      "hi": {
+        "title": "NH Investment & Securities ने Maeil 2026 सिक्योरिटीज शीर्ष पुरस्कार जीता",
+        "excerpt": "NH Investment & Securities ने 11 मई को सियोल में आयोजित 2026 Maeil Business Securities and Pension Awards में सिक्योरिटीज श्रेणी का शीर्ष पुरस्कार जीता, जबकि Samsung Securities ने रिटायरमेंट पेंशन श्रेणी जीती।",
+        "body": "NH Investment & Securities ने 11 मई को सियोल के जुंग-गु स्थित Maekyung Media Center में आयोजित 2026 Maeil Business Securities and Pension Awards समारोह में सिक्योरिटीज श्रेणी का ग्रैंड प्राइज जीता। रिटायरमेंट पेंशन श्रेणी का ग्रैंड प्राइज Samsung Securities को मिला। यह पुरस्कार समारोह सिक्योरिटीज और पेंशन क्षेत्रों को लेकर आयोजित किया गया था, जिसमें दोनों कंपनियां अपनी-अपनी श्रेणियों की शीर्ष विजेता रहीं। NH Investment & Securities की सिक्योरिटीज श्रेणी में जीत और Samsung Securities की रिटायरमेंट पेंशन श्रेणी में जीत ने कोरिया के वित्तीय निवेश उद्योग में दोनों कंपनियों की उपस्थिति को रेखांकित किया। जानकारी mk.co.kr से उद्धृत है।"
+      },
+      "id": {
+        "title": "NH Investment & Securities Raih Penghargaan Utama Sekuritas Maeil 2026",
+        "excerpt": "NH Investment & Securities meraih penghargaan utama kategori sekuritas pada Maeil Business Securities and Pension Awards 2026 yang digelar 11 Mei di Seoul, sementara Samsung Securities menang di kategori pensiun.",
+        "body": "NH Investment & Securities meraih penghargaan utama kategori sekuritas dalam seremoni Maeil Business Securities and Pension Awards 2026 yang digelar pada 11 Mei di Maekyung Media Center, Jung-gu, Seoul. Samsung Securities memperoleh penghargaan utama di kategori pensiun hari tua. Acara penghargaan ini mencakup sektor sekuritas dan pensiun, dengan kedua perusahaan tercatat sebagai penerima penghargaan tertinggi di kategori masing-masing. Hasil tersebut menyoroti NH Investment & Securities di bidang sekuritas dan Samsung Securities di bidang pensiun hari tua dalam industri investasi keuangan Korea. Informasi ini mengutip laporan mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "cde69eb866cc",
+    "slug": "언제까지-올라요-저-언제-팔아요1만2천피-전망까지-등장했다-244916",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T10:07:11.155Z",
+    "updatedAt": "2026-05-11T10:07:11.155Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043589",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043589",
+    "titleFingerprint": "578c23b4a80c07814fcf4ed70b14d2ef5380c0c1",
+    "dedupKeys": [
+      "cde69eb866ccab5ec6ad6819a07b34149d0843fe",
+      "578c23b4a80c07814fcf4ed70b14d2ef5380c0c1",
+      "c93d2b0ab8cd8c9f2111d612d68deb1ab58c121e"
+    ],
+    "imageUrl": "/images/articles/cde69eb866cc.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 급등에 1만2000 전망까지…반도체 투톱 랠리 주목",
+        "excerpt": "코스피가 반도체 투톱의 강한 상승세로 급등하며 사이드카가 발동됐고, SK하이닉스 시가총액이 마이크론을 추월한 가운데 증권가의 지수 전망도 상향됐다.",
+        "body": "코스피가 반도체 대형주의 빠른 질주에 힘입어 급등하면서 시장에서는 ‘언제까지 오를까’와 ‘언제 팔아야 할까’라는 질문이 커지고 있다. 급등 과정에서 사이드카가 발동됐고, SK하이닉스의 시가총액은 미국 마이크론을 추월했다. 반도체 투톱의 상승세가 지수 흐름을 주도하는 가운데 글로벌 투자은행과 국내 증권사의 전망도 잇따라 높아졌다. 골드만삭스가 코스피 전망을 올려 잡은 데 이어 JP모건은 목표치를 1만 포인트로 제시했다. 현대차증권은 1만2000도 가능하다는 전망을 내놨다. 다만 기사에 제시된 내용은 전망치와 시장 반응에 초점이 맞춰져 있으며, 실제 지수 흐름은 향후 반도체 주도주와 투자심리에 따라 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Rally Spurs 12,000-Point Calls as Chip Leaders Surge",
+        "excerpt": "The KOSPI jumped on strong gains by Korea’s two major chip stocks, triggering a sidecar, while SK hynix’s market value surpassed Micron and index forecasts were lifted.",
+        "body": "The KOSPI has surged as Korea’s leading semiconductor stocks accelerated, prompting investors to ask how long the rally can continue and when to sell. During the sharp rise, a sidecar trading curb was triggered, and SK hynix’s market capitalization surpassed that of U.S. chipmaker Micron. With the two chip leaders driving the index, forecasts from global investment banks and local brokerages have also moved higher. Goldman Sachs raised its KOSPI outlook, while JPMorgan presented a 10,000-point target. Hyundai Motor Securities said 12,000 could also be possible. The reported details focus on market reactions and index projections, while the actual path of the index may depend on semiconductor leaders and investor sentiment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI急騰で1万2000予想も、半導体2強の上昇に注目",
+        "excerpt": "KOSPIは半導体大手2銘柄の強い上昇で急騰し、サイドカーが発動。SKハイニックスの時価総額はマイクロンを上回り、指数見通しも引き上げられた。",
+        "body": "KOSPIは韓国の半導体大手株の急伸に支えられて大きく上昇し、市場では「いつまで上がるのか」「いつ売るべきか」という声が広がっている。急騰の過程ではサイドカーが発動され、SKハイニックスの時価総額は米マイクロンを追い越した。半導体2強の上昇が指数を主導するなか、海外投資銀行や国内証券会社の見通しも相次いで上方修正された。ゴールドマン・サックスがKOSPI見通しを引き上げたのに続き、JPモルガンは目標値を1万ポイントと提示した。現代車証券は1万2000も可能との見方を示した。報道内容は市場反応と見通しに焦点を当てており、実際の指数推移は半導体主導株と投資心理に左右され得る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI飙升引出12000点展望，半导体双雄行情受关注",
+        "excerpt": "KOSPI在两大半导体股强势上涨带动下急升并触发sidecar，SK海力士市值超过美光，券商和投行也上调指数展望。",
+        "body": "在韩国大型半导体股快速上涨的推动下，KOSPI大幅走高，市场上关于“还能涨多久”和“何时卖出”的疑问随之增加。上涨过程中触发了sidecar机制，SK海力士的市值也超过了美国美光。随着半导体双雄主导指数走势，全球投行和韩国本土券商的预测也接连上调。高盛已上调KOSPI展望，摩根大通则给出1万点目标。现代汽车证券表示，1万2000点也有可能。报道内容主要聚焦于市场反应和指数预测，实际走势仍可能取决于半导体龙头股表现及投资情绪。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI se dispara y surgen previsiones de 12.000 puntos",
+        "excerpt": "El KOSPI subió con fuerza por el avance de los dos grandes valores de semiconductores, activó un sidecar y elevó las previsiones tras superar SK hynix a Micron en capitalización.",
+        "body": "El KOSPI se disparó impulsado por el rápido avance de los principales valores surcoreanos de semiconductores, mientras aumentan las preguntas de los inversores sobre cuánto puede durar la subida y cuándo vender. Durante el fuerte movimiento se activó un sidecar, y la capitalización bursátil de SK hynix superó a la de la estadounidense Micron. Con los dos líderes de chips marcando el ritmo del índice, bancos de inversión globales y firmas locales también elevaron sus perspectivas. Goldman Sachs revisó al alza su visión del KOSPI, mientras JPMorgan presentó un objetivo de 10.000 puntos. Hyundai Motor Securities señaló que 12.000 también podría ser posible. La información se centra en reacciones del mercado y previsiones, y la evolución real dependerá de los líderes de semiconductores y del ánimo inversor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI dispara e previsões chegam a 12.000 pontos com chips em alta",
+        "excerpt": "O KOSPI avançou forte com a alta das duas principais ações de semicondutores, acionou um sidecar e viu projeções subirem após a SK hynix superar a Micron em valor de mercado.",
+        "body": "O KOSPI subiu com força impulsionado pela rápida valorização das principais ações sul-coreanas de semicondutores, enquanto investidores perguntam até quando a alta pode continuar e quando vender. No processo de forte avanço, um sidecar foi acionado, e o valor de mercado da SK hynix superou o da norte-americana Micron. Com as duas líderes de chips conduzindo o índice, bancos globais e corretoras locais também elevaram suas projeções. O Goldman Sachs aumentou sua estimativa para o KOSPI, enquanto o JPMorgan apresentou uma meta de 10.000 pontos. A Hyundai Motor Securities afirmou que 12.000 também pode ser possível. A reportagem se concentra nas reações do mercado e nas previsões, e o caminho real do índice pode depender das líderes de semicondutores e do sentimento dos investidores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Rally bringt Prognosen bis 12.000 Punkte in den Fokus",
+        "excerpt": "Der KOSPI sprang dank starker Gewinne der zwei großen Halbleiterwerte nach oben, löste einen Sidecar aus und erhielt höhere Ziele, während SK hynix Micron beim Börsenwert überholte.",
+        "body": "Der KOSPI ist dank des schnellen Anstiegs führender südkoreanischer Halbleiterwerte stark gestiegen, während Anleger fragen, wie lange die Rally dauern kann und wann ein Verkauf sinnvoll ist. Im Zuge des kräftigen Anstiegs wurde ein Sidecar ausgelöst, und die Marktkapitalisierung von SK hynix übertraf die des US-Unternehmens Micron. Da die beiden Chip-Schwergewichte den Index treiben, haben auch globale Investmentbanken und lokale Broker ihre Erwartungen angehoben. Goldman Sachs erhöhte den Ausblick für den KOSPI, während JPMorgan ein Ziel von 10.000 Punkten nannte. Hyundai Motor Securities erklärte, auch 12.000 Punkte seien möglich. Der Bericht konzentriert sich auf Marktreaktionen und Prognosen; der tatsächliche Indexverlauf kann von Halbleiterführern und Anlegerstimmung abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI s’envole et des prévisions à 12.000 points apparaissent",
+        "excerpt": "Le KOSPI a bondi grâce aux deux grands titres des semi-conducteurs, déclenchant un sidecar, tandis que SK hynix a dépassé Micron en capitalisation et que les objectifs montent.",
+        "body": "Le KOSPI a fortement progressé, porté par l’ascension rapide des grandes valeurs sud-coréennes des semi-conducteurs, alors que les investisseurs se demandent combien de temps la hausse peut durer et quand vendre. Pendant cette envolée, un sidecar a été déclenché, et la capitalisation boursière de SK hynix a dépassé celle de l’américain Micron. Les deux leaders des puces menant l’indice, les banques d’investissement mondiales et les maisons de courtage locales ont aussi relevé leurs perspectives. Goldman Sachs a augmenté sa prévision pour le KOSPI, tandis que JPMorgan a présenté un objectif de 10.000 points. Hyundai Motor Securities a indiqué que 12.000 points étaient également possibles. L’article porte sur les réactions du marché et les projections, l’évolution réelle pouvant dépendre des valeurs de semi-conducteurs et du sentiment des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صعود كوسبي يفتح توقعات 12000 نقطة مع اندفاع أسهم الرقائق",
+        "excerpt": "ارتفع مؤشر كوسبي بقوة بدعم من سهمي أشباه الموصلات الرئيسيين، ما أدى إلى تفعيل سايدكار، فيما تجاوزت قيمة SK hynix السوقية قيمة Micron وارتفعت التوقعات.",
+        "body": "ارتفع مؤشر كوسبي بقوة مع الاندفاع السريع لأسهم أشباه الموصلات الكبرى في كوريا، لتزداد أسئلة المستثمرين حول مدة استمرار الصعود وموعد البيع. وخلال موجة الارتفاع الحادة تم تفعيل آلية سايدكار، كما تجاوزت القيمة السوقية لشركة SK hynix قيمة شركة Micron الأميركية. ومع قيادة سهمي الرقائق الرئيسيين لحركة المؤشر، رفعت بنوك استثمار عالمية وشركات وساطة محلية توقعاتها. فقد رفع Goldman Sachs نظرته لمؤشر كوسبي، بينما قدم JPMorgan هدفا عند 10000 نقطة. وقالت Hyundai Motor Securities إن مستوى 12000 نقطة قد يكون ممكنا أيضا. تركز المعلومات الواردة على رد فعل السوق والتوقعات، بينما قد يعتمد المسار الفعلي للمؤشر على أسهم أشباه الموصلات القيادية ومعنويات المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI की तेज रैली में 12,000 अंक तक के अनुमान, चिप शेयर केंद्र में",
+        "excerpt": "दो प्रमुख सेमीकंडक्टर शेयरों की मजबूत तेजी से KOSPI उछला और sidecar लागू हुआ, जबकि SK hynix का बाजार मूल्य Micron से आगे निकला और सूचकांक अनुमान बढ़े।",
+        "body": "दक्षिण कोरिया के प्रमुख सेमीकंडक्टर शेयरों की तेज बढ़त से KOSPI में जोरदार उछाल आया, जिससे निवेशकों के बीच यह सवाल बढ़ा कि तेजी कब तक चलेगी और कब बेचना चाहिए। इस तीव्र चढ़ाई के दौरान sidecar लागू हुआ, और SK hynix का बाजार पूंजीकरण अमेरिकी कंपनी Micron से आगे निकल गया। चिप क्षेत्र की दो प्रमुख कंपनियों के सूचकांक को आगे बढ़ाने के बीच वैश्विक निवेश बैंकों और घरेलू ब्रोकरेज ने भी अपने अनुमान बढ़ाए। Goldman Sachs ने KOSPI के लिए अपना दृष्टिकोण ऊपर किया, जबकि JPMorgan ने 10,000 अंक का लक्ष्य दिया। Hyundai Motor Securities ने कहा कि 12,000 अंक भी संभव हो सकते हैं। रिपोर्ट बाजार प्रतिक्रिया और अनुमानों पर केंद्रित है; वास्तविक दिशा सेमीकंडक्टर नेतृत्व और निवेशक भावना पर निर्भर हो सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Reli KOSPI Picu Proyeksi 12.000 Poin, Saham Chip Jadi Sorotan",
+        "excerpt": "KOSPI melonjak berkat kenaikan kuat dua saham semikonduktor utama, memicu sidecar, sementara nilai pasar SK hynix melampaui Micron dan proyeksi indeks dinaikkan.",
+        "body": "KOSPI melonjak tajam didorong laju cepat saham semikonduktor utama Korea Selatan, sehingga investor mulai bertanya sampai kapan reli berlanjut dan kapan harus menjual. Dalam proses kenaikan kuat itu, sidecar terpicu, dan kapitalisasi pasar SK hynix melampaui perusahaan AS Micron. Ketika dua pemimpin chip menggerakkan indeks, bank investasi global dan sekuritas lokal juga menaikkan proyeksi. Goldman Sachs menaikkan pandangan untuk KOSPI, sementara JPMorgan memberi target 10.000 poin. Hyundai Motor Securities menyatakan level 12.000 juga mungkin tercapai. Laporan ini berfokus pada reaksi pasar dan proyeksi indeks, sementara arah aktual dapat bergantung pada saham semikonduktor utama dan sentimen investor. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0e56135a6912",
+    "slug": "코인시장-옥죄는-특금법-시행령fiu-13일-업계-만나-해법-찾을까-604820",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T10:05:50.495Z",
+    "updatedAt": "2026-05-11T10:05:50.495Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043595",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043595",
+    "titleFingerprint": "a5a9b2537cba9e2f35c7be3f525d36131e6177c2",
+    "dedupKeys": [
+      "0e56135a69124a4c9b1f1016d0bd3760ba4055f8",
+      "a5a9b2537cba9e2f35c7be3f525d36131e6177c2",
+      "d6a4e032385b97464334b2562fc586c08be68fd7"
+    ],
+    "imageUrl": "/images/articles/0e56135a6912.jpg",
+    "i18n": {
+      "ko": {
+        "title": "특금법 시행령 논란에 코인업계 긴급 회동…FIU, 13일 해법 찾나",
+        "excerpt": "FIU가 13일 닥사와 가상자산 거래소를 만나 1000만원 이상 거래 STR 의무화 논란을 논의한다. 업계는 보고 건수 폭증으로 운영 부담을 우려한다.",
+        "body": "금융정보분석원(FIU)이 13일 디지털자산거래소 공동협의체 닥사와 주요 가상자산 거래소를 만나 특금법 시행령 관련 긴급 회동을 갖는다. 쟁점은 가상자산 거래 때 1000만원 이상이면 의심거래보고(STR)를 의무화하는 방안이다. 업계는 이 기준이 적용되면 보고 건수가 기존보다 85배 늘어날 수 있어 정상적인 운영이 어렵다고 우려한다. 금융당국과 업계가 회동에서 보고 기준과 실무 부담을 놓고 접점을 찾을 수 있을지가 관심이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Crypto Market Faces Special Financial Act Decree Dispute as FIU Meets Industry on May 13",
+        "excerpt": "The FIU will meet DAXA and crypto exchanges on May 13 to discuss controversy over mandatory STR filing for transactions of 10 million won or more, amid industry concerns over surging reports.",
+        "body": "The Financial Intelligence Unit will hold an urgent meeting on May 13 with the Digital Asset Exchange Alliance and major crypto exchanges over the enforcement decree of the Special Financial Transactions Act. The key issue is a plan to require suspicious transaction reports for all virtual asset transactions of 10 million won or more. The industry warns that the rule could increase report volume by 85 times, making normal operations difficult. Attention is on whether regulators and exchanges can find common ground on reporting standards and operational burden. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "特定金融情報法施行令めぐり暗号資産業界が緊急協議、FIUは13日に解決策探るか",
+        "excerpt": "FIUは13日、DAXAと暗号資産取引所と会い、1000万ウォン以上の取引にSTRを義務付ける案を協議する。業界は報告件数の急増を懸念している。",
+        "body": "金融情報分析院（FIU）は13日、デジタル資産取引所共同協議体DAXAと主要暗号資産取引所と、特定金融情報法施行令をめぐる緊急会合を開く。争点は、暗号資産取引で1000万ウォン以上の場合に疑わしい取引報告（STR）を義務化する案だ。業界は、この基準が適用されれば報告件数が従来の85倍に増え、通常運営が困難になると懸念している。金融当局と業界が報告基準と実務負担をめぐり接点を見いだせるかが注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特金法施行令争议挤压加密市场，FIU将于13日会见行业寻求解法",
+        "excerpt": "FIU将于13日会见DAXA和虚拟资产交易所，讨论1000万韩元以上交易强制提交STR的争议，行业担忧报告数量暴增影响运营。",
+        "body": "韩国金融情报分析院（FIU）将于13日与数字资产交易所共同协议体DAXA及主要虚拟资产交易所举行紧急会议，讨论特金法施行令相关问题。争议焦点是虚拟资产交易金额达到1000万韩元以上时，是否一律强制提交可疑交易报告（STR）。行业方面担忧，如果该标准实施，报告数量可能较现有水平增加85倍，正常运营将变得困难。金融当局与行业能否在报告标准和实务负担之间找到交集，成为关注点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Decreto financiero especial presiona al cripto mercado: FIU se reúne con la industria el 13",
+        "excerpt": "La FIU se reunirá el 13 con DAXA y exchanges de criptoactivos para tratar la obligación de STR en operaciones de 10 millones de wones o más, cuestionada por el sector.",
+        "body": "La Unidad de Inteligencia Financiera de Corea del Sur celebrará el 13 una reunión urgente con DAXA, la alianza de exchanges de activos digitales, y principales plataformas de criptoactivos por el decreto de aplicación de la ley financiera especial. El punto central es la propuesta de exigir reportes de transacciones sospechosas para operaciones de activos virtuales de 10 millones de wones o más. El sector advierte que el volumen de reportes podría multiplicarse por 85, dificultando la operación normal. La atención está en si reguladores e industria hallarán un punto común sobre criterios de reporte y carga operativa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Decreto da lei financeira especial aperta cripto mercado, e FIU encontra setor no dia 13",
+        "excerpt": "A FIU se reunirá no dia 13 com a DAXA e exchanges de criptoativos para discutir a obrigação de STR em transações de 10 milhões de wons ou mais, alvo de críticas do setor.",
+        "body": "A Unidade de Inteligência Financeira da Coreia do Sul realizará no dia 13 uma reunião urgente com a DAXA, associação de exchanges de ativos digitais, e principais plataformas de criptoativos sobre o decreto de execução da lei financeira especial. O ponto central é a proposta de tornar obrigatório o relatório de transação suspeita para operações com ativos virtuais de 10 milhões de wons ou mais. O setor alerta que o número de relatórios pode aumentar 85 vezes, dificultando a operação normal. A atenção se volta para a possibilidade de reguladores e indústria encontrarem um acordo sobre critérios de reporte e carga prática. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Sonderfinanzgesetz-Dekret belastet Kryptomarkt: FIU trifft Branche am 13. Mai",
+        "excerpt": "Die FIU trifft am 13. Mai DAXA und Kryptobörsen, um die Pflicht zu STR-Meldungen bei Transaktionen ab 10 Millionen Won zu besprechen. Die Branche warnt vor stark steigenden Meldungen.",
+        "body": "Die südkoreanische Financial Intelligence Unit hält am 13. Mai ein dringendes Treffen mit der Digital Asset Exchange Alliance DAXA und großen Kryptobörsen zum Durchführungsdekret des Sonderfinanzgesetzes ab. Im Mittelpunkt steht der Plan, bei Transaktionen mit virtuellen Vermögenswerten ab 10 Millionen Won grundsätzlich Verdachtsmeldungen vorzuschreiben. Die Branche warnt, dass sich die Zahl der Meldungen um das 85-Fache erhöhen könnte und ein normaler Betrieb dadurch schwierig werde. Entscheidend ist, ob Aufsicht und Branche bei Meldekriterien und praktischer Belastung einen gemeinsamen Nenner finden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le décret financier spécial pèse sur la crypto: la FIU voit le secteur le 13 mai",
+        "excerpt": "La FIU rencontrera le 13 mai DAXA et des plateformes crypto pour discuter de l’obligation de STR dès 10 millions de wons, contestée par un secteur inquiet d’une explosion des rapports.",
+        "body": "La cellule sud-coréenne de renseignement financier tiendra le 13 mai une réunion urgente avec DAXA, l’alliance des plateformes d’actifs numériques, et de grands exchanges crypto au sujet du décret d’application de la loi financière spéciale. Le point clé est l’obligation de déposer un rapport de transaction suspecte pour toute transaction d’actifs virtuels de 10 millions de wons ou plus. Le secteur affirme que le volume de rapports pourrait être multiplié par 85, rendant l’exploitation normale difficile. L’enjeu sera de voir si autorités et industrie peuvent trouver un terrain d’entente sur les critères de déclaration et la charge opérationnelle. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مرسوم قانون المعاملات المالية الخاصة يضغط على سوق العملات المشفرة وFIU تلتقي القطاع في 13 مايو",
+        "excerpt": "تلتقي FIU في 13 مايو مع DAXA ومنصات تداول الأصول الافتراضية لبحث إلزام تقارير STR للمعاملات البالغة 10 ملايين وون فأكثر، وسط مخاوف تشغيلية من القطاع.",
+        "body": "تعقد وحدة الاستخبارات المالية الكورية FIU في 13 مايو اجتماعا عاجلا مع تحالف منصات الأصول الرقمية DAXA ومنصات رئيسية لتداول العملات المشفرة بشأن مرسوم تنفيذ قانون المعاملات المالية الخاصة. القضية الأساسية هي خطة إلزام تقديم تقرير معاملة مشبوهة STR عند تداول أصول افتراضية بقيمة 10 ملايين وون أو أكثر. ويحذر القطاع من أن تطبيق هذا المعيار قد يرفع عدد التقارير 85 مرة، ما يجعل التشغيل الطبيعي صعبا. ويتركز الاهتمام على ما إذا كانت السلطات المالية والقطاع سيجدان نقطة توافق بشأن معايير الإبلاغ والعبء العملي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "विशेष वित्तीय कानून 시행령 पर क्रिप्टो बाजार में विवाद, FIU 13 मई को उद्योग से मिलेगी",
+        "excerpt": "FIU 13 मई को DAXA और वर्चुअल एसेट एक्सचेंजों से मिलकर 1 करोड़ वॉन से अधिक लेनदेन पर STR अनिवार्यता पर चर्चा करेगी, जिस पर उद्योग ने भारी रिपोर्टिंग बोझ की चिंता जताई है।",
+        "body": "कोरिया की फाइनेंशियल इंटेलिजेंस यूनिट 13 मई को डिजिटल एसेट एक्सचेंज अलायंस DAXA और प्रमुख वर्चुअल एसेट एक्सचेंजों के साथ विशेष वित्तीय लेनदेन कानून के प्रवर्तन आदेश पर आपात बैठक करेगी। मुख्य मुद्दा यह है कि वर्चुअल एसेट लेनदेन 1 करोड़ वॉन या उससे अधिक होने पर संदिग्ध लेनदेन रिपोर्ट अनिवार्य की जाए। उद्योग का कहना है कि यह मानक लागू होने पर रिपोर्टों की संख्या 85 गुना बढ़ सकती है, जिससे सामान्य संचालन कठिन होगा। अब ध्यान इस पर है कि वित्तीय प्राधिकरण और उद्योग रिपोर्टिंग मानक तथा व्यावहारिक बोझ पर कोई साझा रास्ता निकाल पाते हैं या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Aturan Pelaksana UU Keuangan Khusus Tekan Pasar Kripto, FIU Temui Industri 13 Mei",
+        "excerpt": "FIU akan bertemu DAXA dan bursa aset virtual pada 13 Mei untuk membahas kewajiban STR atas transaksi 10 juta won atau lebih, di tengah kekhawatiran industri soal lonjakan laporan.",
+        "body": "Financial Intelligence Unit Korea Selatan akan menggelar pertemuan darurat pada 13 Mei dengan DAXA, asosiasi bursa aset digital, dan bursa aset virtual utama terkait aturan pelaksana UU Transaksi Keuangan Khusus. Isu utamanya adalah rencana mewajibkan laporan transaksi mencurigakan untuk transaksi aset virtual senilai 10 juta won atau lebih. Industri memperingatkan bahwa penerapan standar ini dapat membuat jumlah laporan melonjak 85 kali, sehingga operasi normal sulit dilakukan. Perhatian tertuju pada apakah otoritas keuangan dan industri dapat menemukan titik temu terkait standar pelaporan dan beban operasional. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "7e5a55a1f8db",
     "slug": "ai-인프라-투자-사이클-더-간다삼성전자-쓸어담아-주식-초고수는-지금-852101",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "PER Forward Jelaskan Mengapa Samsung dan SK Hynix Masih Bisa Terlihat Murah",
         "excerpt": "Kolom investor pemula mk.co.kr menjelaskan mengapa Samsung Electronics dan SK Hynix masih dapat disebut murah setelah naik, dengan konsep EPS, PER, dan PER forward.",
         "body": "Kolom investor pemula mk.co.kr membahas pandangan bahwa saham Samsung Electronics dan SK Hynix masih dapat terlihat murah meski sudah naik tajam, melalui konsep PER forward. Pada pembahasan sebelumnya dijelaskan bagaimana harga saham terbentuk: EPS, yaitu laba per saham sebagai rapor kinerja perusahaan, dikalikan dengan PER, rasio harga terhadap laba yang mencerminkan ekspektasi pasar. Kali ini fokusnya bergeser dari laba saat ini ke proyeksi laba masa depan. Jika harga saham naik tetapi EPS ke depan diperkirakan tumbuh lebih besar, beban PER dapat terlihat lebih rendah. Karena itu, investor perlu memeriksa indikator yang mencerminkan proyeksi laba dan ekspektasi pasar, bukan hanya tingkat kenaikan harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fe435c2b122a",
-    "slug": "맘대로-탈퇴-안돼-7시간반-대치대학-동아리서-무슨-일이종합-109825",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T19:01:02.811Z",
-    "updatedAt": "2026-05-10T19:01:02.811Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260508154551004",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260508154551004",
-    "titleFingerprint": "20743069eb15d50e3c1d2b824a41b57900d62a16",
-    "dedupKeys": [
-      "fe435c2b122a16f6bee8ebdea5111893a0743d36",
-      "20743069eb15d50e3c1d2b824a41b57900d62a16",
-      "6a552d20aaa0d2d475597ec029737e5a25be7d12"
-    ],
-    "imageUrl": "/images/articles/fe435c2b122a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대학 동아리 ‘탈퇴 불가’ 논란, 해외여행 이유로 시작된 7시간 반 대치",
-        "excerpt": "서울의 한 대학 동아리 프로젝트에서 해외여행을 이유로 탈퇴 의사를 밝힌 뒤 ‘맘대로 탈퇴할 수 없다’는 취지의 갈등이 이어지며 7시간 반 대치가 벌어졌다고 연합뉴스가 전했다.",
-        "body": "서울의 한 대학 동아리 프로젝트에서 한 참여자가 “해외여행을 가야 해서 프로젝트를 탈퇴하겠다”고 밝힌 뒤 갈등이 커져 7시간 반가량 대치가 벌어졌다고 연합뉴스가 보도했다. 보도에 따르면 쟁점은 구성원이 프로젝트에서 자유롭게 빠질 수 있는지, 동아리 내부 운영 방식이 어디까지 허용될 수 있는지에 모였다. 대학 동아리라는 자율적 조직 안에서도 참여자의 의사와 단체 운영 규칙이 충돌할 수 있다는 점이 드러났다. 향후 관련 논의는 동아리 활동에서 탈퇴 절차와 구성원 보호 기준을 어떻게 마련할지로 이어질 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "University club exit dispute: travel reason leads to 7.5-hour standoff",
-        "excerpt": "Yonhap reported that a university club project in Seoul saw a 7.5-hour standoff after a participant said they would leave because they had to travel abroad.",
-        "body": "A dispute at a university club project in Seoul escalated into a standoff lasting about seven and a half hours after one participant said, “I have to travel abroad, so I will leave the project,” Yonhap News Agency reported. According to the report, the issue centered on whether a member could freely withdraw from the project and how far a club’s internal operating rules could go. The case showed that even in an autonomous university club, a participant’s wishes and group rules can collide. Further discussion is expected to focus on how clubs should set withdrawal procedures and member protections. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "大学サークル退会めぐり対立、海外旅行理由に7時間半の膠着",
-        "excerpt": "ソウルの大学サークルのプロジェクトで、海外旅行を理由に離脱を申し出た参加者をめぐり、約7時間半にわたる対立が起きたと聯合ニュースが伝えた。",
-        "body": "ソウルの大学サークルのプロジェクトで、ある参加者が「海外旅行に行かなければならないため、プロジェクトを離脱する」と伝えた後、対立が拡大し、約7時間半にわたる膠着状態になったと聯合ニュースが報じた。報道によると、争点は構成員がプロジェクトから自由に抜けられるのか、サークル内部の運営方式がどこまで認められるのかに集まった。自律的な大学サークルでも、参加者の意思と団体の運営規則が衝突し得ることが示された。今後は退会手続きと構成員保護基準の整備が論点になりそうだ。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "大学社团退项争议：因出国旅行引发7个半小时对峙",
-        "excerpt": "韩联社报道称，首尔一所大学社团项目中，一名参与者以需要出国旅行为由提出退出后，引发约7个半小时的对峙。",
-        "body": "韩联社报道，首尔一所大学社团项目中，一名参与者表示“因为要去海外旅行，将退出项目”后，矛盾升级并出现约7个半小时的对峙。据报道，争议焦点在于成员能否自由退出项目，以及社团内部运营方式可以被允许到何种程度。事件显示，即便是在具有自治性质的大学社团中，参与者个人意愿与团体运营规则也可能发生冲突。今后相关讨论预计将集中在如何制定社团活动退出程序和成员保护标准。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "Disputa en club universitario: un viaje al extranjero deriva en pulso de 7,5 horas",
-        "excerpt": "Yonhap informó que un proyecto de un club universitario en Seúl vivió un pulso de unas 7,5 horas después de que una persona pidiera retirarse por un viaje al extranjero.",
-        "body": "Un proyecto de un club universitario en Seúl terminó en un enfrentamiento de unas siete horas y media después de que un participante dijera: “Tengo que viajar al extranjero, así que me retiraré del proyecto”, informó Yonhap. Según el reporte, el punto central fue si un integrante podía abandonar libremente el proyecto y hasta dónde podían llegar las normas internas de funcionamiento del club. El caso mostró que, incluso en una organización autónoma universitaria, la voluntad de un participante y las reglas del grupo pueden chocar. La discusión podría centrarse ahora en procedimientos de salida y criterios de protección para los miembros. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "Impasse em clube universitário: viagem ao exterior leva a confronto de 7h30",
-        "excerpt": "A Yonhap informou que um projeto de clube universitário em Seul teve um impasse de cerca de 7h30 após um participante pedir saída por precisar viajar ao exterior.",
-        "body": "Um projeto de clube universitário em Seul entrou em conflito por cerca de sete horas e meia depois que um participante disse: “Preciso viajar ao exterior, por isso vou deixar o projeto”, informou a Yonhap. Segundo a reportagem, a questão central foi se um integrante poderia sair livremente do projeto e até que ponto as regras internas de funcionamento do clube poderiam ser aplicadas. O caso mostrou que, mesmo em uma organização universitária autônoma, a vontade do participante e as normas do grupo podem entrar em choque. A discussão deve avançar para procedimentos de saída e critérios de proteção dos membros. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "Streit um Austritt aus Uni-Club: Auslandsreise führt zu 7,5 Stunden Pattsituation",
-        "excerpt": "Yonhap berichtete, dass ein Projekt eines Universitätsclubs in Seoul in eine rund 7,5-stündige Pattsituation geriet, nachdem ein Teilnehmer wegen einer Auslandsreise aussteigen wollte.",
-        "body": "In Seoul eskalierte ein Projekt eines Universitätsclubs zu einer Pattsituation von rund siebeneinhalb Stunden, nachdem ein Teilnehmer erklärt hatte: „Ich muss ins Ausland reisen, deshalb werde ich das Projekt verlassen“, berichtete Yonhap. Dem Bericht zufolge ging es im Kern darum, ob ein Mitglied ein Projekt frei verlassen kann und wie weit interne Betriebsregeln eines Clubs reichen dürfen. Der Fall zeigt, dass auch in autonomen Universitätsgruppen der Wille einzelner Teilnehmer und die Regeln der Organisation kollidieren können. Künftige Debatten dürften sich auf Austrittsverfahren und Schutzstandards für Mitglieder richten. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Conflit dans un club universitaire : un voyage à l’étranger déclenche 7 h 30 de blocage",
-        "excerpt": "Yonhap rapporte qu’un projet de club universitaire à Séoul a connu environ 7 h 30 de blocage après qu’un participant a demandé à partir en raison d’un voyage à l’étranger.",
-        "body": "À Séoul, un projet de club universitaire a débouché sur environ sept heures et demie de blocage après qu’un participant a déclaré : « Je dois partir à l’étranger, donc je quitte le projet », a rapporté Yonhap. Selon l’agence, le débat portait sur la possibilité pour un membre de se retirer librement du projet et sur les limites des règles internes de fonctionnement du club. L’affaire montre que, même dans une organisation universitaire autonome, la volonté d’un participant et les règles collectives peuvent entrer en conflit. Les discussions devraient porter sur les procédures de retrait et la protection des membres. Source : yna.co.kr"
-      },
-      "ar": {
-        "title": "نزاع في نادٍ جامعي: طلب انسحاب بسبب سفر خارجي ينتهي بمواجهة 7 ساعات ونصف",
-        "excerpt": "أفادت يونهاب بأن مشروعاً في نادٍ جامعي في سيول شهد مواجهة استمرت نحو 7 ساعات ونصف بعدما أعلن مشارك رغبته في الانسحاب لأنه مضطر للسفر إلى الخارج.",
-        "body": "أفادت وكالة يونهاب بأن مشروعاً في نادٍ جامعي في سيول شهد تصعيداً انتهى بمواجهة استمرت نحو سبع ساعات ونصف، بعدما قال أحد المشاركين: “يجب أن أسافر إلى الخارج، لذلك سأنسحب من المشروع”. ووفق التقرير، تمحورت القضية حول ما إذا كان يحق للعضو الانسحاب بحرية من المشروع، وإلى أي مدى يمكن قبول قواعد التشغيل الداخلية للنادي. وأظهر الحادث أن إرادة المشاركين وقواعد الجماعة قد تتصادم حتى داخل تنظيم جامعي مستقل. ومن المتوقع أن تتركز النقاشات المقبلة على إجراءات الانسحاب ومعايير حماية الأعضاء. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "विश्वविद्यालय क्लब में निकासी विवाद: विदेश यात्रा के कारण 7.5 घंटे गतिरोध",
-        "excerpt": "योनहाप के अनुसार, सियोल के एक विश्वविद्यालय क्लब प्रोजेक्ट में एक प्रतिभागी ने विदेश यात्रा के कारण हटने की बात कही, जिसके बाद लगभग 7.5 घंटे गतिरोध हुआ।",
-        "body": "योनहाप समाचार एजेंसी ने बताया कि सियोल के एक विश्वविद्यालय क्लब प्रोजेक्ट में एक प्रतिभागी ने कहा, “मुझे विदेश यात्रा पर जाना है, इसलिए मैं प्रोजेक्ट छोड़ूंगा,” जिसके बाद विवाद बढ़ा और करीब साढ़े सात घंटे तक गतिरोध रहा। रिपोर्ट के अनुसार, मुख्य मुद्दा यह था कि क्या कोई सदस्य प्रोजेक्ट से स्वतंत्र रूप से हट सकता है और क्लब के आंतरिक संचालन नियमों की सीमा क्या हो सकती है। इस मामले ने दिखाया कि स्वायत्त विश्वविद्यालय क्लब में भी प्रतिभागी की इच्छा और समूह के नियम टकरा सकते हैं। आगे चर्चा निकासी प्रक्रिया और सदस्यों की सुरक्षा के मानकों पर केंद्रित हो सकती है। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "Sengketa keluar dari klub kampus: alasan ke luar negeri berujung kebuntuan 7,5 jam",
-        "excerpt": "Yonhap melaporkan proyek klub kampus di Seoul mengalami kebuntuan sekitar 7,5 jam setelah seorang peserta menyatakan ingin keluar karena harus bepergian ke luar negeri.",
-        "body": "Sebuah proyek klub kampus di Seoul berubah menjadi kebuntuan sekitar tujuh setengah jam setelah seorang peserta mengatakan, “Saya harus pergi ke luar negeri, jadi saya akan keluar dari proyek,” lapor Yonhap. Menurut laporan itu, persoalannya berpusat pada apakah anggota dapat keluar dari proyek secara bebas dan sejauh mana aturan internal klub dapat diberlakukan. Kasus ini menunjukkan bahwa bahkan dalam organisasi kampus yang otonom, keinginan peserta dan aturan kelompok dapat berbenturan. Pembahasan ke depan diperkirakan mengarah pada prosedur keluar dan standar perlindungan anggota dalam kegiatan klub. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a95ebc1568be",
-    "slug": "더-커진-중동-리스크한국-산업-전반에-피해-눈덩이-705688",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T19:00:06.882Z",
-    "updatedAt": "2026-05-10T19:00:06.882Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510050700003",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510050700003",
-    "titleFingerprint": "563b63b1fc91a80ee56e61eb8527f08eb7c502d2",
-    "dedupKeys": [
-      "a95ebc1568be87a496138d914bac46b025c11798",
-      "563b63b1fc91a80ee56e61eb8527f08eb7c502d2",
-      "7ac533b8d750834cd22fd4637d9ae1abdb6e0612"
-    ],
-    "imageUrl": "/images/articles/a95ebc1568be.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중동 리스크 재고조, 나무호 외부 공격 확인에 한국 산업 피해 우려 확대",
-        "excerpt": "연합뉴스에 따르면 한국 국적 선박 나무호 화재가 외부 공격에 따른 것으로 확인되며 중동발 리스크가 다시 커지고 한국 산업 전반의 피해 우려가 확산되고 있다.",
-        "body": "서울발 연합뉴스 보도에 따르면 한국 국적 선박 나무호에서 발생한 화재가 외부 공격에 의한 것으로 확인되면서 중동발 리스크가 다시 고조될 수 있다는 우려가 커지고 있다. 이번 사안은 선박 안전 문제를 넘어 해상 운송과 에너지 수급, 수출입 흐름에 민감한 한국 산업 전반에 부담으로 작용할 수 있다는 점에서 주목된다. 제공된 원문 요약에는 구체적인 피해 규모나 추가 수치는 제시되지 않았지만, 중동 정세 불안이 확대될 경우 관련 산업의 비용과 운영 리스크가 커질 가능성이 제기된다. 출처: yna.co.kr."
-      },
-      "en": {
-        "title": "Middle East Risk Rises as Namuho Attack Confirmation Raises Korea Industry Concerns",
-        "excerpt": "Yonhap reported that a fire on the South Korean vessel Namuho was confirmed to have been caused by an external attack, renewing concerns over Middle East risks and broader industrial damage.",
-        "body": "According to a Yonhap report from Seoul, the fire on the South Korean-flagged vessel Namuho has been confirmed as the result of an external attack, raising concern that risks originating in the Middle East could intensify again. The case is drawing attention because it may affect not only vessel safety but also South Korean industries sensitive to maritime shipping, energy supply and import-export flows. The provided summary does not include specific damage figures or additional data, but it notes growing concern that wider instability in the Middle East could increase costs and operational risks across related sectors. Source: yna.co.kr."
-      },
-      "ja": {
-        "title": "中東リスク再燃、ナム号への外部攻撃確認で韓国産業に懸念拡大",
-        "excerpt": "聯合ニュースによると、韓国船籍のナム号火災が外部攻撃によるものと確認され、中東発のリスク再拡大と韓国産業全般への被害懸念が強まっている。",
-        "body": "ソウル発の聯合ニュース報道によると、韓国船籍のナム号で発生した火災は外部攻撃によるものと確認され、中東発のリスクが再び高まる可能性への懸念が広がっている。今回の事案は船舶の安全問題にとどまらず、海上輸送、エネルギー需給、輸出入の流れに敏感な韓国産業全般の負担になり得る点で注目される。提供された原文要約には具体的な被害規模や追加の数値は示されていないが、中東情勢の不安が広がれば、関連産業のコストと運営リスクが高まる可能性が指摘されている。出典: yna.co.kr."
-      },
-      "zh": {
-        "title": "中东风险再升温，Namuho遭外部攻击确认引发韩国产业担忧",
-        "excerpt": "韩联社报道称，韩国籍船舶Namuho火灾已确认由外部攻击造成，中东风险可能再度升高，韩国整体产业受损担忧随之扩大。",
-        "body": "据韩联社首尔报道，韩国籍船舶Namuho发生的火灾已被确认是外部攻击所致，由此引发外界对中东相关风险可能再次升高的担忧。此事受到关注，不仅因为涉及船舶安全，也因为韩国整体产业对海上运输、能源供应以及进出口流动较为敏感，相关负担可能扩大。所提供的原文摘要未列出具体损失规模或额外数据，但指出如果中东局势不安加剧，相关产业的成本和运营风险可能随之上升。来源: yna.co.kr."
-      },
-      "es": {
-        "title": "Riesgo de Medio Oriente aumenta tras ataque al Namuho y preocupa a la industria coreana",
-        "excerpt": "Yonhap informó que el incendio del buque surcoreano Namuho fue causado por un ataque externo, reavivando temores sobre riesgos de Medio Oriente y daños industriales.",
-        "body": "Según un reporte de Yonhap desde Seúl, el incendio ocurrido en el buque surcoreano Namuho fue confirmado como resultado de un ataque externo, lo que aumenta la preocupación por un posible repunte de los riesgos originados en Medio Oriente. El caso atrae atención porque puede ir más allá de la seguridad marítima y afectar a industrias surcoreanas sensibles al transporte por mar, el suministro energético y los flujos de importación y exportación. El resumen original proporcionado no incluye cifras concretas de daños ni datos adicionales, pero señala inquietud por mayores costos y riesgos operativos si se amplía la inestabilidad regional. Fuente: yna.co.kr."
-      },
-      "pt": {
-        "title": "Risco no Oriente Médio cresce após ataque ao Namuho preocupar indústria coreana",
-        "excerpt": "A Yonhap informou que o incêndio no navio sul-coreano Namuho foi causado por ataque externo, reacendendo temores sobre riscos no Oriente Médio e danos industriais.",
-        "body": "Segundo reportagem da Yonhap a partir de Seul, o incêndio no navio sul-coreano Namuho foi confirmado como resultado de um ataque externo, elevando a preocupação de que os riscos ligados ao Oriente Médio voltem a crescer. O caso chama atenção porque pode ir além da segurança da embarcação e pesar sobre setores da Coreia do Sul sensíveis ao transporte marítimo, ao fornecimento de energia e aos fluxos de importação e exportação. O resumo original fornecido não apresenta números específicos de perdas nem dados adicionais, mas aponta receio de aumento de custos e riscos operacionais caso a instabilidade regional se amplie. Fonte: yna.co.kr."
-      },
-      "de": {
-        "title": "Nahost-Risiko wächst nach bestätigtem Angriff auf Namuho und belastet Koreas Industrie",
-        "excerpt": "Yonhap berichtet, dass der Brand auf dem südkoreanischen Schiff Namuho durch einen externen Angriff ausgelöst wurde. Die Sorge vor Nahost-Risiken und Industrieschäden nimmt zu.",
-        "body": "Nach einem Yonhap-Bericht aus Seoul wurde der Brand auf dem südkoreanischen Schiff Namuho als Folge eines externen Angriffs bestätigt. Damit wächst die Sorge, dass vom Nahen Osten ausgehende Risiken erneut zunehmen könnten. Der Vorfall erhält Aufmerksamkeit, weil er nicht nur die Sicherheit von Schiffen betrifft, sondern auch südkoreanische Branchen belasten kann, die empfindlich auf Seetransport, Energieversorgung sowie Import- und Exportströme reagieren. Die bereitgestellte Zusammenfassung nennt keine konkreten Schadenszahlen oder zusätzlichen Daten, verweist aber auf die Sorge, dass eine Ausweitung der Unsicherheit in der Region Kosten und operative Risiken für betroffene Sektoren erhöhen könnte. Quelle: yna.co.kr."
-      },
-      "fr": {
-        "title": "Risque au Moyen-Orient ravivé après l’attaque du Namuho, inquiétude pour l’industrie coréenne",
-        "excerpt": "Yonhap indique que l’incendie du navire sud-coréen Namuho a été causé par une attaque externe, ravivant les craintes de risques au Moyen-Orient et de dommages industriels.",
-        "body": "Selon un reportage de Yonhap depuis Séoul, l’incendie survenu à bord du navire sud-coréen Namuho a été confirmé comme étant dû à une attaque externe, ce qui alimente la crainte d’une nouvelle montée des risques liés au Moyen-Orient. L’affaire retient l’attention car elle dépasse la seule sécurité maritime et peut peser sur les secteurs sud-coréens sensibles au transport par mer, à l’approvisionnement énergétique et aux flux d’importation et d’exportation. Le résumé original fourni ne présente pas de chiffres précis sur les dommages ni de données supplémentaires, mais souligne l’inquiétude concernant une hausse des coûts et des risques opérationnels si l’instabilité régionale s’étend. Source: yna.co.kr."
-      },
-      "ar": {
-        "title": "تصاعد مخاطر الشرق الأوسط بعد تأكيد هجوم خارجي على ناموهو يثير قلق الصناعة الكورية",
-        "excerpt": "ذكرت يونهاب أن حريق السفينة الكورية الجنوبية ناموهو تأكد أنه ناجم عن هجوم خارجي، ما يجدد المخاوف من مخاطر الشرق الأوسط وتأثيرها على قطاعات الصناعة.",
-        "body": "بحسب تقرير لوكالة يونهاب من سيئول، تأكد أن الحريق الذي وقع في السفينة الكورية الجنوبية ناموهو كان نتيجة هجوم خارجي، مما أثار مخاوف من احتمال تصاعد المخاطر القادمة من الشرق الأوسط مرة أخرى. وتحظى القضية بالاهتمام لأنها لا تتعلق بسلامة السفن فقط، بل قد تضغط أيضا على قطاعات كورية جنوبية حساسة للنقل البحري وإمدادات الطاقة وتدفقات الاستيراد والتصدير. ولا يتضمن الملخص الأصلي المقدم أرقاما محددة لحجم الأضرار أو بيانات إضافية، لكنه يشير إلى مخاوف من زيادة التكاليف والمخاطر التشغيلية إذا اتسع نطاق عدم الاستقرار في المنطقة. المصدر: yna.co.kr."
-      },
-      "hi": {
-        "title": "नमुहो पर बाहरी हमले की पुष्टि से मध्य पूर्व जोखिम बढ़ा, कोरियाई उद्योग चिंतित",
-        "excerpt": "योनहाप के अनुसार, दक्षिण कोरियाई जहाज नमुहो में आग बाहरी हमले से लगने की पुष्टि हुई है, जिससे मध्य पूर्व जोखिम और व्यापक औद्योगिक नुकसान की चिंता बढ़ी है।",
-        "body": "सियोल से योनहाप की रिपोर्ट के अनुसार, दक्षिण कोरियाई ध्वज वाले जहाज नमुहो में लगी आग को बाहरी हमले का परिणाम माना गया है, जिससे मध्य पूर्व से जुड़े जोखिमों के फिर से बढ़ने की आशंका तेज हुई है। यह मामला केवल जहाज सुरक्षा तक सीमित नहीं है, क्योंकि समुद्री परिवहन, ऊर्जा आपूर्ति और आयात-निर्यात प्रवाह पर निर्भर दक्षिण कोरियाई उद्योगों पर इसका बोझ पड़ सकता है। उपलब्ध मूल सारांश में नुकसान के ठोस आंकड़े या अतिरिक्त संख्याएं नहीं दी गई हैं, लेकिन इसमें संकेत है कि यदि मध्य पूर्व की अस्थिरता बढ़ती है तो संबंधित क्षेत्रों की लागत और परिचालन जोखिम बढ़ सकते हैं। स्रोत: yna.co.kr."
-      },
-      "id": {
-        "title": "Risiko Timur Tengah Meningkat Usai Serangan ke Namuho Picu Kekhawatiran Industri Korea",
-        "excerpt": "Yonhap melaporkan kebakaran kapal Korea Selatan Namuho dipastikan akibat serangan eksternal, memicu lagi kekhawatiran risiko Timur Tengah dan dampak bagi industri.",
-        "body": "Menurut laporan Yonhap dari Seoul, kebakaran pada kapal berbendera Korea Selatan Namuho telah dipastikan sebagai akibat serangan eksternal, sehingga memunculkan kekhawatiran bahwa risiko dari Timur Tengah dapat meningkat kembali. Peristiwa ini menjadi perhatian karena tidak hanya menyangkut keselamatan kapal, tetapi juga dapat membebani industri Korea Selatan yang sensitif terhadap transportasi laut, pasokan energi, serta arus impor dan ekspor. Ringkasan asli yang diberikan tidak mencantumkan angka kerugian konkret atau data tambahan, tetapi menyoroti kekhawatiran bahwa ketidakstabilan Timur Tengah yang meluas dapat menaikkan biaya dan risiko operasional di sektor terkait. Sumber: yna.co.kr."
-      }
-    }
-  },
-  {
-    "id": "f07beda80ef9",
-    "slug": "hbr커리어-전환과-확장의-기술-432289",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T18:59:08.057Z",
-    "updatedAt": "2026-05-10T18:59:08.057Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887900/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133887900/2",
-    "titleFingerprint": "a084ca41de179ab428784a1cae7db92167d02741",
-    "dedupKeys": [
-      "f07beda80ef9443c49ef436a213f46eebab0ccda",
-      "a084ca41de179ab428784a1cae7db92167d02741",
-      "72249d46defa832c73db4c30008cda88a01e4566"
-    ],
-    "imageUrl": "/images/articles/f07beda80ef9.jpg",
-    "i18n": {
-      "ko": {
-        "title": "HBR 커리어 크래프트, 커리어 전환과 확장 해법을 말하다",
-        "excerpt": "2026년 4월 18일 서울 서초구 흰물결아트센터에서 열린 제5회 HBR 커리어 크래프트에서 12명의 연사가 커리어 전환과 확장의 경험을 공유했다.",
-        "body": "2026년 4월 18일 서울 서초구 흰물결아트센터에서 HBR의 대표 프로그램 제5회 HBR 커리어 크래프트가 ‘커리어 전환과 확장의 기술’을 주제로 열렸다. 행사에는 정경화 비바리퍼블리카(토스) 브랜드 헤드, 정다정 에픽게임즈코리아 홍보&대외정책본부장 등 12명의 연사가 참여했다. 정경화 헤드는 권한 밖이라는 두려움을 내려놓고 문제를 제기한 순간들이 커리어 전환점이 됐다고 밝혔다. 정다정 본부장은 실제 취업의 75%가 강한 연결이 아닌 느슨한 연결에서 비롯된다며, 자신이 없는 자리에서 형성되는 개인 브랜딩 관리의 중요성을 강조했다. 행사에서는 AI가 경력 조언과 정서적 교류, 코칭, 상담 영역까지 들어오는 변화도 다뤘다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "HBR Career Craft Highlights How to Shift and Expand a Career",
-        "excerpt": "At the 5th HBR Career Craft in Seoul on April 18, 2026, 12 speakers shared candid lessons on career transitions, expansion, networking and AI at work.",
-        "body": "On April 18, 2026, HBR held its flagship program, the 5th HBR Career Craft, at Hinmulgyeol Art Center in Seocho-gu, Seoul, under the theme “The Art of Career Transition and Expansion.” Twelve speakers took part, including Jung Kyung-hwa, brand head at Viva Republica (Toss), and Jung Da-jeong, head of communications and public policy at Epic Games Korea. Jung Kyung-hwa said moments when she set aside fear that an issue was beyond her authority and raised problems became turning points in her career. Jung Da-jeong stressed that 75% of actual hiring comes from weak ties rather than strong ones, and that people should manage the personal branding formed when they are not in the room. The event also addressed AI entering career advice, emotional exchange, coaching and counseling at work. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "HBRキャリアクラフト、転職とキャリア拡張の技術を共有",
-        "excerpt": "2026年4月18日、ソウル瑞草区の白波アートセンターで開かれた第5回HBRキャリアクラフトで、12人の登壇者が経験を語った。",
-        "body": "2026年4月18日、ソウル瑞草区の白波アートセンターで、HBRの代表プログラムである第5回HBRキャリアクラフトが「キャリア転換と拡張の技術」をテーマに開催された。行事には、Viva Republica（Toss）のブランドヘッドであるチョン・ギョンファ氏、Epic Games Koreaの広報・対外政策本部長チョン・ダジョン氏ら12人の登壇者が参加した。チョン・ギョンファ氏は、自分の権限外だという恐れを手放し、問題を提起した瞬間がキャリアの転換点になったと述べた。チョン・ダジョン氏は、実際の就職の75%は強いつながりではなく弱いつながりから生まれるとして、自分がいない場で形成される個人ブランディングを管理すべきだと強調した。会場では、AIがキャリア助言、感情的交流、コーチング、相談にまで入り込む変化も扱われた。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "HBR Career Craft聚焦职业转型与扩展方法",
-        "excerpt": "2026年4月18日，第五届HBR Career Craft在首尔瑞草区白波艺术中心举行，12位演讲者分享职业转型与扩展经验。",
-        "body": "2026年4月18日，HBR代表项目第五届HBR Career Craft在首尔瑞草区白波艺术中心举行，主题为“职业转型与扩展的技术”。活动邀请了Viva Republica（Toss）品牌负责人郑京和、Epic Games Korea公关与对外政策本部长郑多情等12位演讲者。郑京和表示，放下“这超出我的权限”的恐惧并勇于提出问题的时刻，成为她职业生涯的转折点。郑多情强调，实际就业的75%并非来自强关系，而是来自弱关系，因此需要管理自己不在场时形成的个人品牌。活动还提到，AI正进入职业建议、情感交流、教练和咨询等职场领域。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "HBR Career Craft aborda claves para cambiar y ampliar la carrera",
-        "excerpt": "El 18 de abril de 2026, en el Hinmulgyeol Art Center de Seúl, 12 ponentes del 5.º HBR Career Craft compartieron experiencias sobre transición profesional.",
-        "body": "El 18 de abril de 2026, HBR celebró su programa insignia, el 5.º HBR Career Craft, en el Hinmulgyeol Art Center de Seocho-gu, Seúl, bajo el tema “El arte de la transición y expansión de la carrera”. Participaron 12 ponentes, entre ellos Jung Kyung-hwa, responsable de marca de Viva Republica (Toss), y Jung Da-jeong, directora de comunicación y política pública de Epic Games Korea. Jung Kyung-hwa dijo que los momentos en que dejó atrás el miedo a que algo estuviera fuera de su autoridad y planteó problemas se convirtieron en puntos de inflexión profesional. Jung Da-jeong subrayó que el 75% de los empleos reales surge de vínculos débiles, no fuertes, y que hay que gestionar la marca personal que se forma cuando uno no está presente. También se trató la entrada de la IA en asesoramiento profesional, intercambio emocional, coaching y consulta. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "HBR Career Craft debate transição e expansão de carreira",
-        "excerpt": "Em 18 de abril de 2026, no Hinmulgyeol Art Center, em Seul, 12 palestrantes do 5º HBR Career Craft compartilharam experiências de carreira.",
-        "body": "Em 18 de abril de 2026, a HBR realizou seu programa representativo, o 5º HBR Career Craft, no Hinmulgyeol Art Center, em Seocho-gu, Seul, com o tema “A arte da transição e expansão de carreira”. O evento reuniu 12 palestrantes, incluindo Jung Kyung-hwa, head de marca da Viva Republica (Toss), e Jung Da-jeong, chefe de comunicação e políticas públicas da Epic Games Korea. Jung Kyung-hwa afirmou que os momentos em que deixou de lado o medo de estar fora de sua autoridade e levantou problemas se tornaram pontos de virada em sua carreira. Jung Da-jeong destacou que 75% das contratações reais vêm de conexões fracas, não de conexões fortes, e que é preciso gerir a marca pessoal formada quando a pessoa não está presente. O evento também abordou a entrada da IA em aconselhamento de carreira, troca emocional, coaching e consulta. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "HBR Career Craft zeigt Wege für Karrierewechsel und Wachstum",
-        "excerpt": "Am 18. April 2026 teilten beim 5. HBR Career Craft in Seoul 12 Redner ihre Erfahrungen zu Karrierewechsel, Erweiterung, Netzwerken und KI am Arbeitsplatz.",
-        "body": "Am 18. April 2026 veranstaltete HBR sein Leitprogramm, den 5. HBR Career Craft, im Hinmulgyeol Art Center in Seocho-gu, Seoul, unter dem Thema “Die Kunst des Karrierewechsels und der Erweiterung”. Zwölf Redner nahmen teil, darunter Jung Kyung-hwa, Brand Head von Viva Republica (Toss), und Jung Da-jeong, Leiterin Kommunikation und Public Policy bei Epic Games Korea. Jung Kyung-hwa sagte, die Momente, in denen sie die Angst ablegte, etwas liege außerhalb ihrer Befugnis, und Probleme ansprach, seien Wendepunkte ihrer Karriere gewesen. Jung Da-jeong betonte, dass 75% tatsächlicher Beschäftigungen aus schwachen statt starken Verbindungen entstehen, und dass man das persönliche Branding steuern müsse, das in Abwesenheit entsteht. Auch der Einzug von KI in Karriereberatung, emotionalen Austausch, Coaching und Beratung wurde thematisiert. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "HBR Career Craft explore la transition et l’élargissement de carrière",
-        "excerpt": "Le 18 avril 2026 à Séoul, le 5e HBR Career Craft a réuni 12 intervenants qui ont partagé leurs expériences de transition et d’évolution professionnelle.",
-        "body": "Le 18 avril 2026, HBR a organisé son programme phare, le 5e HBR Career Craft, au Hinmulgyeol Art Center de Seocho-gu, à Séoul, sur le thème “L’art de la transition et de l’élargissement de carrière”. Douze intervenants y ont participé, dont Jung Kyung-hwa, responsable de marque chez Viva Republica (Toss), et Jung Da-jeong, directrice communication et politiques publiques d’Epic Games Korea. Jung Kyung-hwa a déclaré que les moments où elle a surmonté la peur que certains sujets dépassent son autorité et a soulevé des problèmes sont devenus des tournants de carrière. Jung Da-jeong a souligné que 75% des recrutements réels proviennent de liens faibles plutôt que de liens forts, et qu’il faut gérer l’image personnelle qui se forme en son absence. L’événement a aussi abordé l’arrivée de l’IA dans le conseil de carrière, les échanges émotionnels, le coaching et l’accompagnement. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "HBR Career Craft يناقش مهارات التحول والتوسع المهني",
-        "excerpt": "في 18 أبريل 2026، استضاف مركز هينمولغيول للفنون في سيول الدورة الخامسة من HBR Career Craft بمشاركة 12 متحدثا حول التحول المهني.",
-        "body": "في 18 أبريل 2026، أقامت HBR برنامجها الرئيسي، الدورة الخامسة من HBR Career Craft، في مركز هينمولغيول للفنون في سيوتشو غو بسيول، تحت عنوان “مهارة التحول والتوسع في المسار المهني”. شارك في الحدث 12 متحدثا، بينهم جونغ كيونغ هوا، رئيسة العلامة التجارية في Viva Republica (Toss)، وجونغ دا جونغ، رئيسة الاتصالات والسياسات العامة في Epic Games Korea. وقالت جونغ كيونغ هوا إن اللحظات التي تخلت فيها عن الخوف من أن تكون القضية خارج صلاحيتها وطرحت المشكلات أصبحت نقاط تحول في مسيرتها. وأكدت جونغ دا جونغ أن 75% من فرص التوظيف الفعلية تأتي من الروابط الضعيفة لا القوية، وأنه يجب إدارة العلامة الشخصية التي تتشكل في الأماكن التي لا يكون الشخص حاضرا فيها. كما تناول الحدث دخول الذكاء الاصطناعي إلى الإرشاد المهني والتبادل العاطفي والتدريب والاستشارة. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "HBR Career Craft ने करियर बदलाव और विस्तार की कला पर चर्चा की",
-        "excerpt": "18 अप्रैल 2026 को सियोल के हिनमुलग्योल आर्ट सेंटर में 5वें HBR Career Craft में 12 वक्ताओं ने करियर बदलाव और विस्तार के अनुभव साझा किए।",
-        "body": "18 अप्रैल 2026 को HBR ने अपना प्रमुख कार्यक्रम, 5वां HBR Career Craft, सियोल के सेओचो-गु स्थित हिनमुलग्योल आर्ट सेंटर में “करियर बदलाव और विस्तार की कला” विषय पर आयोजित किया। इसमें Viva Republica (Toss) की ब्रांड हेड जंग क्युंग-ह्वा और Epic Games Korea की कम्युनिकेशन व पब्लिक पॉलिसी प्रमुख जंग दा-जंग सहित 12 वक्ताओं ने हिस्सा लिया। जंग क्युंग-ह्वा ने कहा कि अपने अधिकार क्षेत्र से बाहर होने के डर को छोड़कर समस्याएं उठाने के क्षण उनके करियर के मोड़ बने। जंग दा-जंग ने जोर दिया कि वास्तविक रोजगार के 75% अवसर मजबूत संबंधों से नहीं, बल्कि ढीले संबंधों से आते हैं, इसलिए व्यक्ति को अपनी अनुपस्थिति में बनने वाली निजी ब्रांडिंग का प्रबंधन करना चाहिए। कार्यक्रम में करियर सलाह, भावनात्मक संवाद, कोचिंग और परामर्श में AI के प्रवेश पर भी चर्चा हुई। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "HBR Career Craft Bahas Cara Transisi dan Ekspansi Karier",
-        "excerpt": "Pada 18 April 2026 di Hinmulgyeol Art Center, Seoul, 12 pembicara HBR Career Craft ke-5 berbagi pengalaman tentang transisi dan ekspansi karier.",
-        "body": "Pada 18 April 2026, HBR menggelar program utamanya, HBR Career Craft ke-5, di Hinmulgyeol Art Center, Seocho-gu, Seoul, dengan tema “Seni Transisi dan Ekspansi Karier”. Acara ini menghadirkan 12 pembicara, termasuk Jung Kyung-hwa, brand head Viva Republica (Toss), dan Jung Da-jeong, kepala komunikasi serta kebijakan publik Epic Games Korea. Jung Kyung-hwa mengatakan bahwa momen ketika ia melepaskan rasa takut karena merasa suatu isu berada di luar wewenangnya dan berani mengangkat masalah menjadi titik balik karier. Jung Da-jeong menekankan bahwa 75% pekerjaan nyata berasal dari koneksi lemah, bukan koneksi kuat, sehingga personal branding yang terbentuk saat seseorang tidak hadir perlu dikelola. Acara ini juga membahas masuknya AI ke ranah nasihat karier, pertukaran emosional, coaching, dan konseling. Sumber: rss.donga.com"
       }
     }
   }
