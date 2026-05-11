@@ -1,5 +1,230 @@
 [
   {
+    "id": "3b497fc75ef6",
+    "slug": "한국투자증권-비과세-혜택-갖춘-krx-금현물-투자-이벤트-진행-155013",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T02:03:23.401Z",
+    "updatedAt": "2026-05-11T02:03:23.401Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043021",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043021",
+    "titleFingerprint": "b17a34e653d1339a57529c28bd0fb7e15f13fdb6",
+    "dedupKeys": [
+      "3b497fc75ef6268abeb91763be29bf39a71fe3e8",
+      "b17a34e653d1339a57529c28bd0fb7e15f13fdb6",
+      "253eb4056060eb30b5167cd36e7584dfaa62248b"
+    ],
+    "imageUrl": "/images/articles/3b497fc75ef6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국투자증권, 비과세 KRX 금현물 투자 이벤트로 금 투자 수요 공략",
+        "excerpt": "한국투자증권은 11일 금 투자 관심 확대에 맞춰 토스와 제휴해 KRX 금현물 거래 고객 대상 투자 이벤트를 진행한다고 밝혔다.",
+        "body": "한국투자증권은 11일 금 투자에 대한 높은 관심을 반영해 KRX 금현물 거래 고객을 대상으로 투자 이벤트를 진행한다고 밝혔다. 이번 이벤트는 토스와 제휴해 마련됐으며, 금 관련 투자 상품 이용자들이 보다 효율적으로 투자 기회를 살펴볼 수 있도록 하는 데 초점이 맞춰졌다. KRX 금현물은 비과세 혜택을 갖춘 금 투자 수단으로 소개되며, 금 투자 수요가 높아지는 흐름 속에서 관련 고객 접점을 넓히는 계기가 될 전망이다. 한국투자증권은 이번 제휴 이벤트를 통해 KRX 금현물 거래 고객의 참여를 유도한다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment & Securities Launches KRX Gold Spot Event With Tax Benefits",
+        "excerpt": "Korea Investment & Securities said on the 11th it will run an event with Toss for KRX gold spot trading customers amid growing interest in gold investing.",
+        "body": "Korea Investment & Securities announced on the 11th that it will hold an investment event for customers trading KRX gold spot, reflecting strong interest in gold investment. The event was arranged in partnership with Toss and focuses on helping users of gold-related investment products review opportunities more efficiently. KRX gold spot is presented as a gold investment option with tax-exempt benefits, and the campaign is expected to broaden customer contact points as demand for gold investing rises. Korea Investment & Securities aims to encourage participation from KRX gold spot trading customers through the partnership event. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国投資証券、非課税のKRX金現物投資イベントをTossと実施",
+        "excerpt": "韓国投資証券は11日、金投資への関心拡大を受け、Tossと提携してKRX金現物取引顧客向けイベントを行うと発表した。",
+        "body": "韓国投資証券は11日、金投資への高い関心を反映し、KRX金現物取引の顧客を対象に投資イベントを実施すると発表した。今回のイベントはTossとの提携で用意されたもので、金関連投資商品を利用する顧客がより効率的に投資機会を検討できるようにすることに重点を置く。KRX金現物は非課税メリットを備えた金投資手段として紹介されており、金投資需要が高まる流れの中で顧客接点を広げる契機になる見通しだ。韓国投資証券は今回の提携イベントを通じて、KRX金現物取引顧客の参加を促す。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国投资证券携手Toss推出享免税优势的KRX黄金现货活动",
+        "excerpt": "韩国投资证券11日表示，顺应黄金投资关注度上升，将与Toss合作面向KRX黄金现货交易客户开展投资活动。",
+        "body": "韩国投资证券11日表示，考虑到市场对黄金投资的高度关注，将面向KRX黄金现货交易客户开展投资活动。此次活动由韩国投资证券与Toss合作推出，重点在于帮助使用黄金相关投资产品的用户更高效地了解投资机会。KRX黄金现货被介绍为具备免税优惠的黄金投资方式，在黄金投资需求升温的背景下，预计将成为扩大相关客户接触面的契机。韩国投资证券计划通过此次合作活动，引导KRX黄金现货交易客户参与。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment & Securities lanza evento KRX oro spot con beneficio fiscal",
+        "excerpt": "Korea Investment & Securities anunció el día 11 un evento con Toss para clientes de KRX oro spot, ante el creciente interés por invertir en oro.",
+        "body": "Korea Investment & Securities informó el día 11 que realizará un evento de inversión dirigido a clientes que operan KRX oro spot, en respuesta al elevado interés por la inversión en oro. La iniciativa fue preparada en alianza con Toss y se centra en ayudar a los usuarios de productos de inversión relacionados con el oro a revisar oportunidades de manera más eficiente. KRX oro spot se presenta como una vía de inversión en oro con beneficios de exención fiscal, y se espera que el evento amplíe los puntos de contacto con clientes en un contexto de mayor demanda por oro. Korea Investment & Securities busca impulsar la participación de clientes de KRX oro spot mediante esta alianza. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment & Securities lança evento KRX ouro à vista com benefício fiscal",
+        "excerpt": "A Korea Investment & Securities informou no dia 11 que fará, com a Toss, um evento para clientes de KRX ouro à vista diante do maior interesse por ouro.",
+        "body": "A Korea Investment & Securities anunciou no dia 11 que realizará um evento de investimento para clientes que negociam KRX ouro à vista, refletindo o forte interesse por investimentos em ouro. A ação foi preparada em parceria com a Toss e tem como foco ajudar usuários de produtos de investimento ligados ao ouro a avaliar oportunidades de forma mais eficiente. O KRX ouro à vista é apresentado como uma alternativa de investimento em ouro com benefício de isenção fiscal, e o evento deve ampliar os pontos de contato com clientes em meio ao aumento da demanda por ouro. A Korea Investment & Securities pretende estimular a participação dos clientes de KRX ouro à vista por meio da parceria. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment & Securities startet KRX-Goldspot-Event mit Steuervorteil",
+        "excerpt": "Korea Investment & Securities kündigte am 11. ein gemeinsames Event mit Toss für KRX-Goldspot-Kunden an, da das Interesse an Goldanlagen steigt.",
+        "body": "Korea Investment & Securities gab am 11. bekannt, ein Investmentevent für Kunden durchzuführen, die KRX-Goldspot handeln. Damit reagiert das Unternehmen auf das hohe Interesse an Goldanlagen. Die Aktion wurde in Partnerschaft mit Toss vorbereitet und soll Nutzern goldbezogener Anlageprodukte helfen, Investitionsmöglichkeiten effizienter zu prüfen. KRX-Goldspot wird als Goldanlage mit steuerfreien Vorteilen vorgestellt. Vor dem Hintergrund steigender Nachfrage nach Goldinvestments dürfte die Kampagne die Kontaktpunkte zu entsprechenden Kunden ausweiten. Korea Investment & Securities will durch das Partnerschaftsevent die Teilnahme von KRX-Goldspot-Handelskunden fördern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment & Securities lance un événement KRX or spot avec avantage fiscal",
+        "excerpt": "Korea Investment & Securities a annoncé le 11 un événement avec Toss pour les clients KRX or spot, dans un contexte d’intérêt accru pour l’or.",
+        "body": "Korea Investment & Securities a annoncé le 11 qu’elle organiserait un événement d’investissement destiné aux clients négociant le KRX or spot, afin de refléter le fort intérêt pour l’investissement dans l’or. L’événement a été préparé en partenariat avec Toss et vise à aider les utilisateurs de produits d’investissement liés à l’or à examiner les opportunités plus efficacement. Le KRX or spot est présenté comme un moyen d’investir dans l’or avec des avantages d’exonération fiscale. Dans un contexte de demande croissante pour l’investissement aurifère, cette initiative devrait élargir les points de contact avec les clients concernés. Korea Investment & Securities entend encourager la participation des clients KRX or spot grâce à ce partenariat. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت تطلق فعالية KRX للذهب الفوري بمزايا إعفاء ضريبي",
+        "excerpt": "أعلنت كوريا إنفستمنت آند سيكيوريتيز في 11 من الشهر عن فعالية بالتعاون مع توس لعملاء تداول الذهب الفوري KRX مع تزايد الاهتمام بالذهب.",
+        "body": "أعلنت كوريا إنفستمنت آند سيكيوريتيز في 11 من الشهر أنها ستنظم فعالية استثمارية لعملاء تداول الذهب الفوري في KRX، تعبيرا عن الاهتمام المرتفع بالاستثمار في الذهب. وجاءت الفعالية بالتعاون مع توس، وتركز على مساعدة مستخدمي المنتجات الاستثمارية المرتبطة بالذهب على مراجعة الفرص بصورة أكثر كفاءة. ويُعرض الذهب الفوري KRX كوسيلة استثمار في الذهب تتمتع بمزايا إعفاء ضريبي، ومن المتوقع أن تسهم الحملة في توسيع نقاط التواصل مع العملاء في ظل ارتفاع الطلب على الاستثمار في الذهب. وتسعى كوريا إنفستمنت آند سيكيوريتيز من خلال هذه الفعالية المشتركة إلى تشجيع مشاركة عملاء تداول الذهب الفوري KRX. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment & Securities ने कर लाभ वाला KRX गोल्ड स्पॉट इवेंट शुरू किया",
+        "excerpt": "Korea Investment & Securities ने 11 तारीख को कहा कि सोने में बढ़ती रुचि को देखते हुए वह Toss के साथ KRX गोल्ड स्पॉट ग्राहकों के लिए इवेंट करेगी।",
+        "body": "Korea Investment & Securities ने 11 तारीख को घोषणा की कि वह KRX गोल्ड स्पॉट ट्रेडिंग ग्राहकों के लिए निवेश इवेंट आयोजित करेगी, क्योंकि सोने में निवेश को लेकर रुचि ऊंची बनी हुई है। यह इवेंट Toss के साथ साझेदारी में तैयार किया गया है और इसका उद्देश्य सोने से जुड़े निवेश उत्पादों के उपयोगकर्ताओं को अवसरों को अधिक कुशलता से देखने में मदद करना है। KRX गोल्ड स्पॉट को कर-मुक्त लाभ वाले सोना निवेश साधन के रूप में प्रस्तुत किया गया है। सोने में निवेश की मांग बढ़ने के बीच यह अभियान संबंधित ग्राहकों तक पहुंच बढ़ाने का अवसर बन सकता है। Korea Investment & Securities इस साझेदारी इवेंट के जरिए KRX गोल्ड स्पॉट ट्रेडिंग ग्राहकों की भागीदारी बढ़ाना चाहती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Investment & Securities Gelar Event KRX Gold Spot dengan Manfaat Bebas Pajak",
+        "excerpt": "Korea Investment & Securities pada tanggal 11 menyatakan akan menggelar event bersama Toss untuk nasabah KRX gold spot seiring tingginya minat investasi emas.",
+        "body": "Korea Investment & Securities pada tanggal 11 mengumumkan akan mengadakan event investasi bagi nasabah yang bertransaksi KRX gold spot, mencerminkan tingginya minat terhadap investasi emas. Event ini disiapkan melalui kerja sama dengan Toss dan berfokus membantu pengguna produk investasi terkait emas meninjau peluang secara lebih efisien. KRX gold spot diperkenalkan sebagai sarana investasi emas yang memiliki manfaat bebas pajak. Di tengah meningkatnya permintaan investasi emas, kampanye ini diperkirakan menjadi kesempatan untuk memperluas titik kontak dengan nasabah terkait. Korea Investment & Securities berupaya mendorong partisipasi nasabah KRX gold spot melalui event kemitraan ini. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "2a860431d451",
+    "slug": "반도체주-너무-올라-아찔-그래도-꽉-붙잡아야차익실현-말리는-증권사-228020",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T02:02:30.509Z",
+    "updatedAt": "2026-05-11T02:02:30.509Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12043032",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12043032",
+    "titleFingerprint": "95d5ba02ba453551899442448c3a25b4102a6636",
+    "dedupKeys": [
+      "2a860431d4519f97da727a39adf9eb7d1c3687af",
+      "95d5ba02ba453551899442448c3a25b4102a6636",
+      "5d008256ccde6b446f3fc21bcc34349a60261a4a"
+    ],
+    "imageUrl": "/images/articles/2a860431d451.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체주 급등에도 ‘보유’ 조언…한국투자증권 “여전히 저평가”",
+        "excerpt": "한국투자증권은 11일 고물가 우려가 진정되는 흐름 속 AI 투자 확대가 이어지고 있다며 반도체 업종 주가가 이익 증가에 비해 여전히 저평가돼 있다고 분석했다.",
+        "body": "한국투자증권은 11일 고물가 우려에도 인공지능(AI) 투자 확대 흐름이 이어지고 있다며 반도체 업종에 대해 차익실현보다 보유 관점이 필요하다고 밝혔다. 최근 반도체주는 상승세를 보였지만, 증권사는 이익 증가 속도와 비교하면 주가가 아직 저평가돼 있다고 판단했다. 고물가 우려가 진정되는 흐름도 투자심리에 부담을 덜어주는 요인으로 제시됐다. AI 관련 투자가 지속되는 만큼 반도체 업종의 실적 개선 기대가 주가 흐름의 핵심 변수로 남을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Semiconductor Rally Still Has Room, Korea Investment Says Sector Undervalued",
+        "excerpt": "Korea Investment & Securities said on May 11 that AI investment continues despite inflation concerns, and semiconductor shares remain undervalued relative to earnings growth.",
+        "body": "Korea Investment & Securities said on May 11 that investors should maintain a holding stance on semiconductor stocks rather than rush to take profits, as investment in artificial intelligence continues despite concerns over high inflation. Although semiconductor shares have recently risen, the brokerage judged that prices remain undervalued compared with the pace of earnings growth. It also cited easing inflation concerns as a factor reducing pressure on investor sentiment. As AI-related investment continues, expectations for improving semiconductor earnings are likely to remain a key driver of share-price trends. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "半導体株は上昇後も保有判断、韓国投資証券「なお割安」",
+        "excerpt": "韓国投資証券は11日、高インフレ懸念が和らぐ流れの中でAI投資拡大が続き、半導体株は利益増加に比べてなお割安だと分析した。",
+        "body": "韓国投資証券は11日、高インフレへの懸念がある中でも人工知能（AI）投資の拡大が続いているとして、半導体業種について利益確定より保有の観点が必要だと述べた。最近、半導体株は上昇しているが、同証券は利益増加の速度と比べれば株価はまだ割安だと判断した。高インフレ懸念が落ち着く流れも、投資心理への負担を和らげる要因として示された。AI関連投資が続く限り、半導体業種の業績改善期待が株価動向の重要な変数として残る見通しだ。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "半导体股大涨后仍建议持有，韩国投证称估值仍偏低",
+        "excerpt": "韩国投资证券11日表示，在高通胀担忧趋缓、AI投资持续扩大的背景下，半导体股相较盈利增长仍处于低估状态。",
+        "body": "韩国投资证券11日表示，尽管存在高通胀担忧，人工智能（AI）投资扩大的趋势仍在延续，因此对半导体行业应更多采取持有观点，而非急于获利了结。近期半导体股已经上涨，但该券商认为，与盈利增长速度相比，股价仍处于低估水平。高通胀担忧趋于缓和，也被视为减轻投资者情绪压力的因素。随着AI相关投资持续，半导体行业业绩改善预期预计仍将是影响股价走势的核心变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Semiconductores suben, pero Korea Investment aconseja mantener por baja valoración",
+        "excerpt": "Korea Investment & Securities dijo el 11 de mayo que la inversión en IA sigue pese a la inflación y que las acciones de semiconductores aún están infravaloradas frente a sus beneficios.",
+        "body": "Korea Investment & Securities afirmó el 11 de mayo que los inversores deberían mantener una visión de permanencia en las acciones de semiconductores, en lugar de apresurarse a tomar ganancias, porque la inversión en inteligencia artificial sigue creciendo pese a las preocupaciones por la alta inflación. Aunque el sector ha registrado alzas recientes, la firma considera que las cotizaciones siguen infravaloradas frente al ritmo de crecimiento de los beneficios. También señaló que la moderación de los temores inflacionarios reduce la presión sobre el ánimo inversor. Mientras continúe la inversión ligada a la IA, las expectativas de mejora de resultados seguirán siendo una variable clave para el sector. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Semicondutores sobem, mas Korea Investment vê setor ainda subavaliado",
+        "excerpt": "A Korea Investment & Securities afirmou em 11 de maio que o investimento em IA continua apesar da inflação e que ações de semicondutores seguem subavaliadas ante os lucros.",
+        "body": "A Korea Investment & Securities afirmou em 11 de maio que investidores devem manter uma visão de permanência em ações de semicondutores, em vez de realizar lucros rapidamente, pois o investimento em inteligência artificial continua avançando apesar das preocupações com inflação elevada. Embora os papéis do setor tenham subido recentemente, a corretora avalia que os preços ainda estão subavaliados em relação ao ritmo de crescimento dos lucros. A redução das preocupações inflacionárias também foi citada como fator que alivia a pressão sobre o sentimento do mercado. Com a continuidade dos investimentos ligados à IA, a expectativa de melhora nos resultados do setor deve seguir como variável central para as ações. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Halbleiteraktien trotz Rally halten, Korea Investment sieht weiter Unterbewertung",
+        "excerpt": "Korea Investment & Securities erklärte am 11. Mai, KI-Investitionen liefen trotz Inflationssorgen weiter, während Halbleiteraktien gemessen am Gewinnwachstum unterbewertet seien.",
+        "body": "Korea Investment & Securities erklärte am 11. Mai, Anleger sollten bei Halbleiteraktien eher eine Halteperspektive einnehmen als rasch Gewinne mitzunehmen, da die Investitionen in künstliche Intelligenz trotz Sorgen über hohe Inflation anhalten. Zwar sind Halbleiterwerte zuletzt gestiegen, doch die Wertpapierfirma sieht die Kurse im Vergleich zum Tempo des Gewinnwachstums weiterhin als unterbewertet an. Auch die nachlassenden Inflationssorgen wurden als Faktor genannt, der den Druck auf die Anlegerstimmung verringert. Solange KI-bezogene Investitionen fortgesetzt werden, dürften Erwartungen an bessere Ergebnisse im Halbleitersektor ein zentraler Einflussfaktor für die Kursentwicklung bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Semi-conducteurs en hausse, mais Korea Investment juge le secteur encore décoté",
+        "excerpt": "Korea Investment & Securities a indiqué le 11 mai que les investissements dans l’IA se poursuivent malgré l’inflation et que les semi-conducteurs restent sous-évalués face aux profits.",
+        "body": "Korea Investment & Securities a déclaré le 11 mai que les investisseurs devraient privilégier une approche de conservation des actions de semi-conducteurs plutôt qu’une prise de bénéfices rapide, car les investissements dans l’intelligence artificielle se poursuivent malgré les inquiétudes liées à une inflation élevée. Même si les titres du secteur ont récemment progressé, la société estime que les cours restent sous-évalués au regard du rythme de croissance des bénéfices. L’apaisement des craintes inflationnistes a aussi été présenté comme un facteur réduisant la pression sur le sentiment des investisseurs. Tant que les investissements liés à l’IA se poursuivent, les attentes d’amélioration des résultats du secteur devraient rester un moteur clé des cours. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسهم الرقائق بعد الصعود: كوريا للاستثمار ترى القطاع لا يزال دون قيمته",
+        "excerpt": "قالت كوريا للاستثمار للأوراق المالية في 11 مايو إن الاستثمار في الذكاء الاصطناعي مستمر رغم مخاوف التضخم، وإن أسهم الرقائق لا تزال مقومة بأقل من نمو الأرباح.",
+        "body": "قالت كوريا للاستثمار للأوراق المالية في 11 مايو إن المستثمرين في أسهم أشباه الموصلات يحتاجون إلى منظور الاحتفاظ بدلا من التسرع في جني الأرباح، لأن اتجاه توسيع الاستثمار في الذكاء الاصطناعي مستمر رغم مخاوف التضخم المرتفع. ورغم أن أسهم القطاع ارتفعت مؤخرا، ترى الشركة أن الأسعار لا تزال دون قيمتها مقارنة بوتيرة نمو الأرباح. كما أشارت إلى أن انحسار مخاوف التضخم يخفف العبء عن معنويات المستثمرين. ومع استمرار الاستثمارات المرتبطة بالذكاء الاصطناعي، من المتوقع أن تبقى توقعات تحسن أرباح قطاع الرقائق عاملا رئيسيا في حركة الأسعار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर शेयरों में तेजी के बाद भी होल्ड सलाह, Korea Investment ने कहा कम मूल्यांकन",
+        "excerpt": "Korea Investment & Securities ने 11 मई को कहा कि महंगाई चिंता के बावजूद AI निवेश जारी है और सेमीकंडक्टर शेयर मुनाफे की वृद्धि की तुलना में अब भी कम मूल्यांकित हैं।",
+        "body": "Korea Investment & Securities ने 11 मई को कहा कि ऊंची महंगाई को लेकर चिंता के बावजूद कृत्रिम बुद्धिमत्ता (AI) में निवेश विस्तार जारी है, इसलिए सेमीकंडक्टर शेयरों में जल्द मुनाफावसूली के बजाय होल्ड दृष्टिकोण जरूरी है। हाल में सेमीकंडक्टर शेयरों में तेजी आई है, लेकिन ब्रोकरेज का आकलन है कि मुनाफे की वृद्धि की गति की तुलना में शेयर भाव अभी भी कम मूल्यांकित हैं। महंगाई चिंता के शांत होने की प्रवृत्ति को भी निवेशक धारणा पर दबाव घटाने वाला कारण बताया गया। AI से जुड़े निवेश जारी रहने तक सेमीकंडक्टर क्षेत्र की कमाई सुधरने की उम्मीद शेयरों की दिशा का प्रमुख कारक बनी रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Semikonduktor Tetap Layak Dipegang, Korea Investment Nilai Masih Murah",
+        "excerpt": "Korea Investment & Securities pada 11 Mei menyebut investasi AI tetap berlanjut meski ada kekhawatiran inflasi, dan saham semikonduktor masih undervalued dibanding pertumbuhan laba.",
+        "body": "Korea Investment & Securities pada 11 Mei menyatakan investor sebaiknya melihat saham semikonduktor dari sudut pandang mempertahankan kepemilikan, bukan buru-buru merealisasikan keuntungan, karena tren perluasan investasi kecerdasan buatan (AI) masih berlanjut meski ada kekhawatiran inflasi tinggi. Meski saham semikonduktor belakangan naik, perusahaan sekuritas itu menilai harga saham masih undervalued dibanding laju pertumbuhan laba. Meredanya kekhawatiran inflasi juga disebut sebagai faktor yang mengurangi tekanan terhadap sentimen investor. Selama investasi terkait AI berlanjut, ekspektasi perbaikan kinerja sektor semikonduktor diperkirakan tetap menjadi variabel utama pergerakan harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "547820323f6e",
+    "slug": "mk시그널-엘빗-시스템즈-매도신호-포착-수익률-655-달성-410292",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T02:01:34.104Z",
+    "updatedAt": "2026-05-11T02:01:34.104Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043039",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043039",
+    "titleFingerprint": "9113f9c433da728a50f242a65a315ea6f93e2e24",
+    "dedupKeys": [
+      "547820323f6e7b249f3004d5631b5e50f349a02e",
+      "9113f9c433da728a50f242a65a315ea6f93e2e24",
+      "95ccb50fdcc145c5d4132ca64f9e5983ad86d5dd"
+    ],
+    "imageUrl": "/images/articles/547820323f6e.png",
+    "i18n": {
+      "ko": {
+        "title": "엘빗 시스템즈 매도신호 포착, MK시그널 수익률 65.5% 달성",
+        "excerpt": "AI 기자 MK시그널은 8일 엘빗 시스템즈(ESLT)에서 매도 신호가 포착됐다고 전하며 해당 신호 기준 수익률이 65.50%에 도달했다고 밝혔다.",
+        "body": "미국 주식 핫 이슈 종목을 분석하는 AI 기자 ‘MK시그널’은 8일 엘빗 시스템즈(ESLT)에서 매도 신호가 포착됐다고 전했다. MK시그널에 따르면 해당 종목은 신호 기준 수익률 65.50%를 달성했다. 엘빗 시스템즈는 이번 분석에서 매도 신호가 확인된 종목으로 제시됐으며, 보도는 미국 주식 투자자들이 주목할 만한 신호 변화와 누적 성과를 함께 다뤘다. 관련 수치가 공개되면서 투자자들은 기존 보유 전략과 차익 실현 여부를 점검할 수 있다. 다만 기사에 제시된 내용은 MK시그널의 포착 신호와 수익률 정보에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Elbit Systems Sell Signal Detected as MK Signal Return Hits 65.5%",
+        "excerpt": "AI reporter MK Signal said on the 8th that a sell signal was detected for Elbit Systems (ESLT), with the return tied to the signal reaching 65.50%.",
+        "body": "MK Signal, an AI reporter that analyzes hot U.S. stock issues, reported on the 8th that a sell signal was detected for Elbit Systems (ESLT). According to MK Signal, the stock achieved a 65.50% return based on the signal. Elbit Systems was presented in this analysis as a stock where a sell signal had been confirmed, and the report covered both the signal change and accumulated performance that U.S. stock investors may watch. With the figure disclosed, investors can review whether to maintain existing positions or consider profit-taking. The article, however, is limited to the signal detected by MK Signal and the stated return. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "エルビット・システムズに売りシグナル、MKシグナル収益率65.5%",
+        "excerpt": "AI記者「MKシグナル」は8日、エルビット・システムズ（ESLT）で売りシグナルを捉え、同シグナル基準の収益率が65.50%に達したと伝えた。",
+        "body": "米国株の注目銘柄を分析するAI記者「MKシグナル」は8日、エルビット・システムズ（ESLT）で売りシグナルが捉えられたと伝えた。MKシグナルによると、同銘柄はシグナル基準で収益率65.50%を達成した。今回の分析でエルビット・システムズは売りシグナルが確認された銘柄として示され、報道は米国株投資家が注目し得るシグナルの変化と累積成果をあわせて扱った。関連数値の公表により、投資家は既存保有戦略や利益確定の是非を点検できる。ただし記事内容はMKシグナルが捉えたシグナルと収益率情報に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "埃尔比特系统出现卖出信号，MK Signal收益率达65.5%",
+        "excerpt": "AI记者MK Signal称，8日埃尔比特系统（ESLT）出现卖出信号，按该信号计算的收益率已达到65.50%。",
+        "body": "分析美国股市热点个股的AI记者“MK Signal”8日表示，埃尔比特系统（ESLT）出现卖出信号。根据MK Signal，该股票按信号计算的收益率达到65.50%。在此次分析中，埃尔比特系统被列为确认出现卖出信号的个股，报道同时提及了美国股票投资者可能关注的信号变化和累计表现。随着相关数据公布，投资者可据此检查既有持仓策略以及是否进行获利了结。不过，报道内容仅限于MK Signal捕捉到的信号和收益率信息。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Elbit Systems activa señal de venta y MK Signal alcanza retorno de 65,5%",
+        "excerpt": "El reportero de IA MK Signal informó que el día 8 detectó una señal de venta en Elbit Systems (ESLT), con un retorno asociado del 65,50%.",
+        "body": "MK Signal, reportero de IA que analiza acciones destacadas de Estados Unidos, informó el día 8 que se detectó una señal de venta en Elbit Systems (ESLT). Según MK Signal, la acción alcanzó un retorno del 65,50% con base en esa señal. Elbit Systems fue presentada en este análisis como una compañía con señal de venta confirmada, y la nota abordó tanto el cambio de señal como el desempeño acumulado que pueden seguir los inversionistas en acciones estadounidenses. Con la cifra divulgada, los inversionistas pueden revisar su estrategia de tenencia y la posibilidad de tomar ganancias. El contenido se limita a la señal detectada por MK Signal y al retorno informado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Elbit Systems tem sinal de venda e MK Signal registra retorno de 65,5%",
+        "excerpt": "O repórter de IA MK Signal informou que, no dia 8, detectou sinal de venda em Elbit Systems (ESLT), com retorno associado de 65,50%.",
+        "body": "O MK Signal, repórter de IA que analisa ações em destaque nos Estados Unidos, informou no dia 8 que foi detectado um sinal de venda em Elbit Systems (ESLT). Segundo o MK Signal, a ação alcançou retorno de 65,50% com base nesse sinal. A Elbit Systems foi apresentada nesta análise como um papel com sinal de venda confirmado, e a reportagem tratou da mudança de sinal e do desempenho acumulado que investidores em ações americanas podem acompanhar. Com a divulgação do número, investidores podem revisar a estratégia de manutenção da posição e a possibilidade de realização de lucro. O conteúdo, porém, limita-se ao sinal captado pelo MK Signal e ao retorno informado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Elbit Systems mit Verkaufssignal, MK Signal meldet 65,5% Rendite",
+        "excerpt": "Der KI-Reporter MK Signal teilte mit, dass am 8. bei Elbit Systems (ESLT) ein Verkaufssignal erkannt wurde und die Signalrendite 65,50% erreichte.",
+        "body": "MK Signal, ein KI-Reporter zur Analyse wichtiger US-Aktienthemen, meldete am 8., dass bei Elbit Systems (ESLT) ein Verkaufssignal erkannt wurde. Laut MK Signal erzielte die Aktie auf Basis dieses Signals eine Rendite von 65,50%. Elbit Systems wurde in der Analyse als Titel mit bestätigtem Verkaufssignal vorgestellt, wobei der Bericht sowohl die Signaländerung als auch die kumulierte Entwicklung behandelte, die für Anleger in US-Aktien relevant sein kann. Mit der veröffentlichten Kennzahl können Investoren bestehende Haltestrategien und eine mögliche Gewinnmitnahme prüfen. Der Artikel beschränkt sich jedoch auf das von MK Signal erkannte Signal und die genannte Rendite. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Elbit Systems sous signal de vente, MK Signal affiche 65,5% de rendement",
+        "excerpt": "Le reporter IA MK Signal a indiqué que, le 8, un signal de vente avait été détecté sur Elbit Systems (ESLT), avec un rendement de 65,50%.",
+        "body": "MK Signal, reporter IA qui analyse les valeurs américaines les plus suivies, a indiqué le 8 qu’un signal de vente avait été détecté sur Elbit Systems (ESLT). Selon MK Signal, le titre a atteint un rendement de 65,50% sur la base de ce signal. Elbit Systems a été présenté dans cette analyse comme une valeur dont le signal de vente a été confirmé, et l’article a abordé à la fois l’évolution du signal et la performance cumulée susceptible d’intéresser les investisseurs en actions américaines. La publication de ce chiffre permet aux investisseurs de réexaminer leur stratégie de détention et une éventuelle prise de bénéfices. Le contenu reste toutefois limité au signal repéré par MK Signal et au rendement annoncé. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إشارة بيع على إلبيت سيستمز وعائد MK Signal يبلغ 65.5%",
+        "excerpt": "أفاد مراسل الذكاء الاصطناعي MK Signal بأنه رصد في اليوم الثامن إشارة بيع على سهم إلبيت سيستمز (ESLT)، مع بلوغ العائد المرتبط بها 65.50%.",
+        "body": "أفاد مراسل الذكاء الاصطناعي “MK Signal”، المتخصص في تحليل الأسهم الأمريكية محل الاهتمام، بأنه رصد في اليوم الثامن إشارة بيع على سهم إلبيت سيستمز (ESLT). ووفقاً لـ MK Signal، حقق السهم عائداً قدره 65.50% استناداً إلى تلك الإشارة. وقد عُرضت إلبيت سيستمز في هذا التحليل كسهم تأكدت عليه إشارة بيع، وتناول التقرير تغير الإشارة والأداء المتراكم الذي قد يهم مستثمري الأسهم الأمريكية. ومع نشر هذا الرقم، يمكن للمستثمرين مراجعة استراتيجية الاحتفاظ الحالية وإمكانية جني الأرباح. غير أن مضمون الخبر يقتصر على الإشارة التي رصدها MK Signal ومعلومة العائد المعلنة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Elbit Systems में बिक्री संकेत, MK Signal का रिटर्न 65.5% पहुंचा",
+        "excerpt": "AI रिपोर्टर MK Signal ने बताया कि 8 तारीख को Elbit Systems (ESLT) में बिक्री संकेत मिला और इस संकेत के आधार पर रिटर्न 65.50% रहा।",
+        "body": "अमेरिकी शेयरों के चर्चित मुद्दों का विश्लेषण करने वाले AI रिपोर्टर “MK Signal” ने 8 तारीख को बताया कि Elbit Systems (ESLT) में बिक्री संकेत मिला है। MK Signal के अनुसार, इस शेयर ने संकेत के आधार पर 65.50% रिटर्न हासिल किया। इस विश्लेषण में Elbit Systems को ऐसे शेयर के रूप में प्रस्तुत किया गया जिसमें बिक्री संकेत की पुष्टि हुई, और रिपोर्ट ने अमेरिकी शेयर निवेशकों के लिए ध्यान देने योग्य संकेत बदलाव और संचित प्रदर्शन दोनों को शामिल किया। संबंधित आंकड़ा सामने आने के बाद निवेशक अपनी मौजूदा होल्डिंग रणनीति और मुनाफावसूली की संभावना की समीक्षा कर सकते हैं। हालांकि लेख की जानकारी MK Signal द्वारा पकड़े गए संकेत और बताए गए रिटर्न तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Elbit Systems Muncul Sinyal Jual, Return MK Signal Capai 65,5%",
+        "excerpt": "Reporter AI MK Signal menyatakan pada tanggal 8 bahwa sinyal jual terdeteksi pada Elbit Systems (ESLT), dengan return berbasis sinyal mencapai 65,50%.",
+        "body": "MK Signal, reporter AI yang menganalisis saham-saham AS yang menjadi isu utama, menyampaikan pada tanggal 8 bahwa sinyal jual terdeteksi pada Elbit Systems (ESLT). Menurut MK Signal, saham tersebut mencatat return 65,50% berdasarkan sinyal itu. Dalam analisis ini, Elbit Systems disajikan sebagai saham dengan sinyal jual yang telah terkonfirmasi, sementara laporan tersebut membahas perubahan sinyal dan kinerja akumulatif yang dapat diperhatikan investor saham AS. Dengan angka tersebut dipublikasikan, investor dapat meninjau strategi kepemilikan yang ada dan kemungkinan realisasi keuntungan. Namun, isi artikel terbatas pada sinyal yang ditangkap MK Signal dan informasi return yang disebutkan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "040e8143d990",
     "slug": "mk시그널-케이에스피-ai-데이터센터용-엔진-공급-확대에-주가-상승세-mk시그널-추천-후-상승률-3563-기-794812",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "SK Energy Dukung 2.500 SPBU SK hingga 20 Miliar Won per Bulan",
         "excerpt": "SK Energy pada 10 mengumumkan akan menyalurkan hingga 20 miliar won per bulan kepada sekitar 2.500 SPBU SK yang terbebani harga minyak tinggi dan sistem harga maksimum.",
         "body": "SK Energy pada 10 menyatakan akan membayar hingga 20 miliar won per bulan dalam bentuk “dana dukungan harga minyak tinggi dan pemulihan krisis” kepada SPBU SK di seluruh negeri yang mengalami kesulitan operasional setelah harga minyak tetap tinggi dan sistem harga maksimum diberlakukan. Sasaran dukungan adalah sekitar 2.500 SPBU SK di Korea, tidak termasuk SPBU yang dioperasikan langsung. Ini menjadi upaya dukungan langsung pertama di lapangan dari industri penyulingan sejak sistem harga maksimum dimulai. Dana pertama diperkirakan disalurkan paling cepat bulan ini setelah tinjauan internal. Dukungan berlaku sejak pukul 00.00 pada 13 Maret hingga sistem harga maksimum berakhir. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "bc5414c26658",
-    "slug": "고물가-고임금-구인난-제빵업계-냉동생지서-생존-해법-615457",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T16:31:43.398Z",
-    "updatedAt": "2026-05-10T16:31:43.398Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894051/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894051/2",
-    "titleFingerprint": "4449519d456bf70d3cc0c12529b77f878cb7f8c9",
-    "dedupKeys": [
-      "bc5414c26658a6a39002d51eb877a8d3d45f9680",
-      "4449519d456bf70d3cc0c12529b77f878cb7f8c9",
-      "e3b53b3325d6bd6f9c76ac381eff56e305ba931a"
-    ],
-    "imageUrl": "/images/articles/bc5414c26658.jpg",
-    "i18n": {
-      "ko": {
-        "title": "냉동생지로 돌파구 찾는 제빵업계, 고물가·고임금·구인난 해법 주목",
-        "excerpt": "삼양사는 7일 인천 중구 인천2공장에서 520억 원을 투입해 준공한 냉동생지 생산 기지를 공개하며 제빵업계의 비용·인력 부담 완화 가능성을 제시했다.",
-        "body": "고물가, 고임금, 구인난이 겹친 제빵업계가 냉동생지에서 생존 해법을 찾고 있다. 7일 인천 중구 삼양사 인천2공장 4층에서는 520억 원을 투입해 2월 말 준공한 5280㎡ 규모의 냉동 빵 반죽 생산 기지가 공개됐다. 주력 제품인 페이스트리 라인에서는 반죽 위에 버터 시트를 올리고 접고 펴는 라미네이션 공정을 반복해 24겹의 결을 만든다. 이후 반죽은 쿨링 터널을 지나 두께 4.5㎜ 사각형 시트로 잘린 뒤 최대 90분간 급속동결된다. 완성된 시트는 베이커리 업체가 토핑만 얹어 바로 구울 수 있는 반제품이다. 양철호 삼양사 식자재유통BU장은 숙련공도 7∼8시간, 길게는 1박 2일이 걸리는 페이스트리 작업을 냉동생지로 대체하면 전체 베이킹 작업의 75∼90%를 줄일 수 있다고 설명했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Frozen Dough Gains Ground as Bakeries Face Inflation, Wages and Labor Shortages",
-        "excerpt": "Samyangsa unveiled on the 7th a frozen dough production base at its Incheon Plant 2, built with 52 billion won, highlighting a way to ease bakery labor and cost burdens.",
-        "body": "Bakery companies facing high prices, rising wages and hiring difficulties are looking to frozen dough as a survival solution. On the 7th, Samyangsa opened to visitors the fourth floor of its Incheon Plant 2 in Jung-gu, Incheon, where a 5,280-square-meter frozen bread dough production base was completed at the end of February with an investment of 52 billion won. On its main pastry line, butter sheets are placed on flattened dough, then wrapped, folded and rolled through repeated lamination to create 24 layers that determine the pastry’s crisp texture. The dough then passes through a cooling tunnel, is cut into 4.5 mm rectangular sheets and rapidly frozen for up to 90 minutes. The finished sheets are semi-finished dough that bakeries can bake immediately after adding toppings such as sausage or fruit. Samyangsa’s Yang Cheol-ho said frozen dough can eliminate about 75-90% of baking work that normally takes skilled workers 7-8 hours or up to two days. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "冷凍生地に活路、製パン業界が物価高・賃金高・人手不足の解決策に注目",
-        "excerpt": "三養社は7日、仁川第2工場で520億ウォンを投じて完成した冷凍生地生産拠点を公開し、製パン現場の負担軽減策を示した。",
-        "body": "物価高、賃金上昇、人手不足が重なる製パン業界が、冷凍生地に生き残りの解決策を見いだしている。7日に訪れた仁川市中区の三養社仁川第2工場4階には、同社が520億ウォンを投じ、2月末に完成させた5280㎡規模の冷凍パン生地生産拠点があった。主力のペストリーラインでは、薄く伸ばした生地の上にバターシートを載せ、包み込んだ後、折って伸ばすラミネーション工程を繰り返し、サクサクした食感を左右する24層を作る。その後、生地は冷却トンネルを通り、厚さ4.5ミリの四角いシートに切られ、最大90分間急速冷凍される。完成品は、ベーカリーがソーセージや果物などを載せてすぐ焼ける半製品の生地として使われる。三養社の梁哲鎬氏は、熟練工でも7～8時間、長ければ1泊2日かかる作業の75～90％を省けると説明した。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "冷冻面团成烘焙业突破口，应对高物价高工资与招工难",
-        "excerpt": "三养社7日公开位于仁川第二工厂、投资520亿韩元建成的冷冻面团生产基地，展示烘焙企业降低人力与作业负担的方案。",
-        "body": "在高物价、高工资和招工难叠加的情况下，烘焙业正从冷冻面团中寻找生存方案。7日，位于仁川中区的三养社仁川第二工厂4层对外展示了冷冻面包面团生产基地。该基地由三养社投资520亿韩元建设，面积5280平方米，于2月底竣工。在主力产品酥皮生产线上，黄油片落在擀成1至2厘米厚的面团上，导向滚轮将两侧面团抬起并包住黄油。随后反复进行放入黄油、折叠和擀开的层压工序，形成决定酥皮松脆口感的24层纹理。之后，面团通过冷却隧道，被切成厚4.5毫米的方形片，并进行最长90分钟的快速冷冻。完成的面片可作为半成品面团，供烘焙企业只添加香肠或水果等配料后立即烘烤。三养社梁哲镐表示，熟练工也需7至8小时、最长1晚2天的酥皮作业，使用冷冻面团可省去约75至90%的整体烘焙工序。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Masa congelada gana peso en panaderías ante inflación, salarios altos y falta de personal",
-        "excerpt": "Samyangsa mostró el día 7 su base de masa congelada en la planta Incheon 2, construida con 52.000 millones de wones para aliviar costos y escasez laboral.",
-        "body": "La industria panadera, presionada por precios altos, salarios elevados y dificultades para contratar, busca una salida en la masa congelada. El día 7, en el cuarto piso de la planta Incheon 2 de Samyangsa, en Jung-gu, Incheon, se presentó una base de producción de masa de pan congelada de 5.280 m², terminada a finales de febrero tras una inversión de 52.000 millones de wones. En la línea principal de hojaldre, una lámina de mantequilla cae sobre masa extendida de 1 a 2 cm; los rodillos levantan los lados y la envuelven. Luego se repite el proceso de laminado, con mantequilla, pliegues y estirado, hasta crear 24 capas que definen la textura crujiente. Después, la masa pasa por un túnel de enfriamiento, se corta en hojas rectangulares de 4,5 mm y se ultracongela hasta 90 minutos. Las panaderías pueden añadir salchicha, fruta u otros toppings y hornearla de inmediato. Yang Cheol-ho, de Samyangsa, dijo que este método puede omitir el 75-90% del trabajo que a un experto le toma 7-8 horas o hasta dos días. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Massa congelada vira saída para padarias sob inflação, salários altos e falta de mão de obra",
-        "excerpt": "A Samyangsa apresentou no dia 7 sua base de massa congelada na fábrica Incheon 2, concluída com 52 bilhões de won para reduzir etapas e pressão de pessoal.",
-        "body": "Com inflação, salários altos e dificuldade de contratar, o setor de panificação vê na massa congelada uma solução de sobrevivência. No dia 7, no quarto andar da fábrica Incheon 2 da Samyangsa, em Jung-gu, Incheon, foi apresentada uma base de produção de massa de pão congelada de 5.280 m², concluída no fim de fevereiro após investimento de 52 bilhões de won. Na principal linha de pastry, uma folha de manteiga é colocada sobre a massa aberta com 1 a 2 cm de espessura, enquanto rolos-guia levantam as laterais para envolvê-la. Em seguida, o processo de laminação, com manteiga, dobra e abertura da massa, é repetido para formar 24 camadas que definem a textura crocante. Depois, a massa passa por um túnel de resfriamento, é cortada em folhas retangulares de 4,5 mm e congelada rapidamente por até 90 minutos. As padarias podem apenas adicionar salsicha, frutas ou outras coberturas e assar. Yang Cheol-ho afirmou que a massa congelada pode eliminar 75-90% do trabalho que leva 7-8 horas, ou até dois dias, mesmo para especialistas. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Tiefgekühlter Teig als Ausweg für Bäckereien bei Inflation, hohen Löhnen und Personalmangel",
-        "excerpt": "Samyangsa stellte am 7. in Werk Incheon 2 eine für 52 Mrd. Won gebaute Produktionsbasis für Tiefkühlteig vor, die Arbeitsschritte in Bäckereien senken soll.",
-        "body": "Die Bäckereibranche sucht angesichts hoher Preise, hoher Löhne und schwieriger Personalsuche eine Lösung in tiefgekühltem Teig. Am 7. wurde im vierten Stock des Samyangsa-Werks Incheon 2 in Jung-gu, Incheon, eine Produktionsbasis für gefrorenen Brotteig vorgestellt. Samyangsa investierte 52 Mrd. Won in die 5.280 m² große Anlage, die Ende Februar fertiggestellt wurde. Auf der Hauptlinie für Blätterteig wird eine Butterplatte auf 1 bis 2 cm ausgerollten Teig gelegt; Führungsrollen heben die Seiten an und umhüllen die Butter. Danach wird der Laminierprozess aus Belegen, Falten und Ausrollen wiederholt, bis 24 Schichten entstehen, die die knusprige Textur bestimmen. Anschließend läuft der Teig durch einen Kühltunnel, wird in 4,5 mm dicke rechteckige Platten geschnitten und bis zu 90 Minuten schockgefrostet. Bäckereien können die Halbfertigware mit Wurst, Obst oder anderen Belägen versehen und sofort backen. Yang Cheol-ho von Samyangsa sagte, Tiefkühlteig könne 75-90% der Arbeit einsparen, die selbst Fachkräfte 7-8 Stunden oder bis zu zwei Tage kostet. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "La pâte surgelée s’impose dans la boulangerie face aux prix, salaires et pénurie de main-d’œuvre",
-        "excerpt": "Samyangsa a présenté le 7 son site de pâte surgelée à l’usine Incheon 2, construit pour 52 milliards de wons afin de réduire les tâches de boulangerie.",
-        "body": "Face à la hausse des prix, aux salaires élevés et aux difficultés de recrutement, l’industrie boulangère cherche une solution dans la pâte surgelée. Le 7, au quatrième étage de l’usine Incheon 2 de Samyangsa, à Jung-gu, Incheon, l’entreprise a présenté une base de production de pâte à pain surgelée de 5 280 m², achevée fin février après un investissement de 52 milliards de wons. Sur la principale ligne de pâte feuilletée, une plaque de beurre est posée sur une pâte étalée sur 1 à 2 cm, puis des rouleaux relèvent les côtés pour l’envelopper. Le laminage, qui consiste à ajouter le beurre, plier et étaler, est répété afin de former 24 couches déterminant le croustillant. La pâte passe ensuite dans un tunnel de refroidissement, est coupée en feuilles rectangulaires de 4,5 mm et surgelée jusqu’à 90 minutes. Les boulangers peuvent ajouter saucisse, fruits ou autres garnitures et cuire immédiatement. Yang Cheol-ho a indiqué que la pâte surgelée peut supprimer 75-90% d’un travail prenant 7-8 heures, voire deux jours, même à des ouvriers qualifiés. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "العجين المجمد يبرز كحل للمخابز وسط التضخم وارتفاع الأجور ونقص العمالة",
-        "excerpt": "كشفت ساميانغسا في 7 من الشهر عن قاعدة إنتاج العجين المجمد في مصنع إنتشون 2، التي أُنجزت باستثمار 52 مليار وون لتخفيف أعباء العمل والتكاليف.",
-        "body": "تبحث صناعة المخابز، وسط ارتفاع الأسعار والأجور وصعوبة التوظيف، عن حل للبقاء عبر العجين المجمد. في 7 من الشهر، عُرض في الطابق الرابع من مصنع ساميانغسا إنتشون 2 في جونغ غو، إنتشون، موقع إنتاج عجين الخبز المجمد الذي اكتمل في نهاية فبراير بمساحة 5280 مترا مربعا وباستثمار 52 مليار وون. في خط الفطائر الرئيسي، توضع طبقة زبدة فوق عجين مفرود بسماكة 1 إلى 2 سم، ثم ترفع البكرات الجانبين لتغليف الزبدة. وبعد ذلك تتكرر عملية التصفيح، أي وضع الزبدة والطي والفرد، لتكوين 24 طبقة تحدد القوام المقرمش. يمر العجين بعدها عبر نفق تبريد، ويقطع إلى صفائح مستطيلة بسماكة 4.5 ملم، ثم يجمد سريعا لمدة تصل إلى 90 دقيقة. وتستخدم المخابز هذه الصفائح كمنتج نصف جاهز يمكن خبزه مباشرة بعد إضافة النقانق أو الفاكهة. وقال يانغ تشول هو إن العجين المجمد يمكن أن يلغي 75 إلى 90% من عمل يستغرق من العامل الماهر 7 إلى 8 ساعات وقد يصل إلى يومين. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "महंगाई, ऊंची मजदूरी और भर्ती संकट में बेकरी उद्योग को जमे हुए आटे से राहत की राह",
-        "excerpt": "समयांगसा ने 7 तारीख को इंचियोन प्लांट 2 में 52 अरब वोन से बनी जमे हुए आटे की उत्पादन इकाई दिखाई, जो बेकरी काम और श्रम बोझ घटा सकती है।",
-        "body": "ऊंची महंगाई, बढ़ी मजदूरी और कर्मचारियों की कमी से जूझ रहा बेकरी उद्योग जमे हुए आटे में जीवित रहने का उपाय देख रहा है। 7 तारीख को इंचियोन के जंग-गु में समयांगसा के इंचियोन प्लांट 2 की चौथी मंजिल पर जमे हुए ब्रेड आटे की उत्पादन इकाई दिखाई गई। कंपनी ने 52 अरब वोन लगाकर 5280 वर्ग मीटर की यह इकाई फरवरी के अंत में पूरी की। मुख्य पेस्ट्री लाइन में 1 से 2 सेमी मोटे फैले आटे पर मक्खन की शीट रखी जाती है, फिर गाइड रोलर दोनों ओर का आटा उठाकर मक्खन को लपेटते हैं। इसके बाद मक्खन रखना, मोड़ना और बेलना यानी लैमिनेशन दोहराया जाता है, जिससे कुरकुरेपन को तय करने वाली 24 परतें बनती हैं। फिर आटा कूलिंग टनल से गुजरता है, 4.5 मिमी मोटी आयताकार शीट में कटता है और अधिकतम 90 मिनट तक तेजी से जमाया जाता है। बेकरी कंपनियां इस अर्ध-तैयार आटे पर सॉसेज या फल जैसे टॉपिंग रखकर तुरंत बेक कर सकती हैं। यांग चोल-हो ने कहा कि जिस पेस्ट्री काम में कुशल कर्मी को 7-8 घंटे या अधिकतम दो दिन लगते हैं, उसमें जमे हुए आटे से 75-90% प्रक्रिया घट सकती है। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Adonan Beku Jadi Jalan Keluar Industri Roti Saat Inflasi, Upah Tinggi dan Sulit Rekrut",
-        "excerpt": "Samyangsa pada tanggal 7 memperlihatkan basis produksi adonan beku di Pabrik Incheon 2, dibangun dengan 52 miliar won untuk memangkas beban kerja toko roti.",
-        "body": "Industri roti yang menghadapi harga tinggi, upah tinggi dan kesulitan merekrut pekerja mulai mencari solusi bertahan pada adonan beku. Pada tanggal 7, di lantai 4 Pabrik Incheon 2 milik Samyangsa di Jung-gu, Incheon, perusahaan memperlihatkan basis produksi adonan roti beku seluas 5.280 meter persegi yang selesai akhir Februari dengan investasi 52 miliar won. Pada lini pastry utama, lembaran mentega diletakkan di atas adonan setebal 1-2 cm, lalu roller pemandu mengangkat sisi adonan untuk membungkus mentega. Proses laminasi, yaitu menaruh mentega, melipat dan menggiling adonan, diulang untuk membentuk 24 lapisan yang menentukan tekstur renyah. Setelah melewati terowongan pendingin, adonan dipotong menjadi lembaran persegi panjang setebal 4,5 mm dan dibekukan cepat hingga 90 menit. Lembaran ini menjadi adonan setengah jadi yang dapat langsung dipanggang toko roti setelah diberi topping seperti sosis atau buah. Yang Cheol-ho mengatakan adonan beku dapat menghilangkan 75-90% pekerjaan pastry yang biasanya memakan 7-8 jam, bahkan hingga dua hari, bagi pekerja terampil. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "ec029f1a17b0",
-    "slug": "잔인한-금융-개선-포용금융추진단-이르면-이달-출범-930970",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T16:30:16.953Z",
-    "updatedAt": "2026-05-10T16:30:16.953Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894038/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894038/2",
-    "titleFingerprint": "547dd1e61b5ec628dfab8331c7e89a4bfe27cc04",
-    "dedupKeys": [
-      "ec029f1a17b0e27849445f4bc05d61fce7dbb0c9",
-      "547dd1e61b5ec628dfab8331c7e89a4bfe27cc04",
-      "9442cee98b6c778e2142945d2736892f0f32ff61"
-    ],
-    "imageUrl": "/images/articles/ec029f1a17b0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "포용금융추진단 이르면 이달 출범… ‘잔인한 금융’ 개선 속도",
-        "excerpt": "금융위원회가 이르면 이달 ‘포용금융추진단’을 출범시켜 저신용자 고금리 부담과 중저신용자 대출 부족 문제를 논의할 전망이다.",
-        "body": "금융당국이 취약계층을 소외시키는 이른바 ‘잔인한 금융’을 개선하기 위한 태스크포스(TF)를 이르면 이달 중 출범시킨다. 10일 금융권에 따르면 금융위원회는 이달 중 ‘포용금융추진단’(가칭) 첫 회의를 열기 위해 분과 구성 등을 논의하고 있다. 최근 이재명 대통령과 김용범 대통령정책실장이 금융의 공적 기능을 강조하며 저신용자 고금리 부담과 대출 기회 부족을 지적한 데 따른 조치다. 이 대통령은 6일 국무회의에서 상위 등급 중심 대출 관행을 비판했고, 김 실장도 중저신용자 대출 부족을 언급했다. 추진단은 현행 신용평가 체계와 신용이 높은 고객 중심 대출 관행을 빠르게 점검할 것으로 보인다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Inclusive Finance Task Force May Launch This Month to Address ‘Cruel Finance’",
-        "excerpt": "South Korea’s Financial Services Commission is expected to launch an Inclusive Finance Task Force this month to review high borrowing costs and loan access for low-credit borrowers.",
-        "body": "South Korean financial authorities are preparing to launch a task force as early as this month to improve what has been described as “cruel finance” that excludes vulnerable groups. According to financial industry sources on the 10th, the Financial Services Commission is discussing the structure of divisions ahead of the first meeting of the tentatively named Inclusive Finance Task Force. The move follows recent remarks by President Lee Jae-myung and Presidential Policy Chief Kim Yong-beom emphasizing the public role of finance and criticizing high interest burdens and limited loan access for some groups. President Lee criticized lending practices focused on top-rated borrowers at a Cabinet meeting on the 6th, while Kim pointed to the lack of loans for mid- and low-credit borrowers. The task force is expected to review the current credit evaluation system and lending practices centered on high-credit customers. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "包摂金融推進団、早ければ今月発足へ…「残酷な金融」改善急ぐ",
-        "excerpt": "金融委員会は早ければ今月、包摂金融推進団を発足させ、低信用者の高金利負担や中低信用者向け融資不足を議論する見通しだ。",
-        "body": "韓国の金融当局は、脆弱層を金融から遠ざけるいわゆる「残酷な金融」を改善するためのタスクフォースを、早ければ今月中に発足させる。金融業界が10日に明らかにしたところによると、金融委員会は今月中に仮称「包摂金融推進団」の初会合を開くため、分科構成などを協議している。最近、李在明大統領と金容範大統領政策室長が金融の公共的機能を強調し、一部階層が高金利を負担したり融資機会さえ得られない現実を指摘したことを受けた措置だ。李大統領は6日の閣議で上位等級中心の融資慣行を批判し、金室長も中低信用者向け融資の不足を指摘した。推進団は現行の信用評価体系と高信用顧客中心の融資慣行を点検するとみられる。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "包容金融推进团最快本月启动，着手改善“残酷金融”问题",
-        "excerpt": "韩国金融委员会预计最快本月启动“包容金融推进团”，讨论低信用人群高利率负担及中低信用借款人贷款不足问题。",
-        "body": "韩国金融当局最快将在本月成立一个工作组，以改善使弱势群体被排除在外的所谓“残酷金融”。据金融圈10日消息，金融委员会正就暂定名为“包容金融推进团”的首次会议进行分科设置等讨论，目标是在本月内召开。此举源于近期李在明总统和总统政策室长金容范连续强调金融的公共功能，并批评部分群体承担高利率或连贷款机会都难以获得的现实。李总统在6日国务会议上批评了只向高等级客户发放贷款的做法，金容范也指出金融圈对中低信用者贷款不足。推进团预计将快速检查现行信用评价体系以及以高信用客户为中心的贷款惯例。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Grupo de Finanzas Inclusivas podría lanzarse este mes contra la ‘finanza cruel’",
-        "excerpt": "La Comisión de Servicios Financieros de Corea del Sur prevé crear este mes un grupo para revisar las altas tasas a deudores de bajo crédito y la falta de préstamos.",
-        "body": "Las autoridades financieras de Corea del Sur preparan el lanzamiento, tan pronto como este mes, de un grupo de trabajo para mejorar la llamada “finanza cruel” que excluye a los sectores vulnerables. Según fuentes financieras citadas el día 10, la Comisión de Servicios Financieros debate la composición de divisiones para celebrar este mes la primera reunión del tentativo Grupo de Promoción de Finanzas Inclusivas. La medida sigue a los señalamientos recientes del presidente Lee Jae-myung y del jefe de Política Presidencial Kim Yong-beom, quienes subrayaron la función pública de las finanzas y criticaron la carga de altas tasas y la falta de acceso al crédito para algunos grupos. Lee cuestionó el día 6 las prácticas de préstamo centradas en clientes de máxima calificación, mientras Kim apuntó a la escasez de crédito para prestatarios de calificación media y baja. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Força-tarefa de finanças inclusivas pode sair este mês contra ‘finanças cruéis’",
-        "excerpt": "A Comissão de Serviços Financeiros da Coreia do Sul deve lançar neste mês um grupo para discutir juros altos a tomadores de baixo crédito e falta de empréstimos.",
-        "body": "As autoridades financeiras da Coreia do Sul preparam o lançamento, já neste mês, de uma força-tarefa para melhorar as chamadas “finanças cruéis”, que deixam grupos vulneráveis à margem. Segundo o setor financeiro no dia 10, a Comissão de Serviços Financeiros discute a formação de divisões para realizar ainda neste mês a primeira reunião do chamado Grupo de Promoção de Finanças Inclusivas. A iniciativa ocorre após o presidente Lee Jae-myung e o chefe de Política Presidencial Kim Yong-beom enfatizarem a função pública das finanças e criticarem a realidade em que alguns grupos arcam com juros altos ou sequer têm acesso a empréstimos. Lee criticou no dia 6 práticas voltadas apenas a clientes de melhor classificação, enquanto Kim apontou a falta de crédito para pessoas de média e baixa pontuação. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Taskforce für inklusive Finanzen könnte noch diesen Monat starten",
-        "excerpt": "Südkoreas Finanzaufsicht will voraussichtlich noch diesen Monat eine Taskforce einsetzen, um hohe Zinsen für Kreditnehmer mit schwacher Bonität zu prüfen.",
-        "body": "Südkoreas Finanzbehörden bereiten die Einrichtung einer Taskforce vor, die bereits in diesem Monat starten könnte, um die sogenannte „grausame Finanzpraxis“ gegenüber vulnerablen Gruppen zu verbessern. Nach Angaben aus Finanzkreisen vom 10. berät die Finanzdienstleistungskommission über die Zusammensetzung von Untergruppen, damit die erste Sitzung der vorläufig „Taskforce für inklusive Finanzen“ genannten Einheit noch in diesem Monat stattfinden kann. Hintergrund sind jüngste Äußerungen von Präsident Lee Jae-myung und Politikchef Kim Yong-beom, die die öffentliche Funktion des Finanzwesens betonten und hohe Zinslasten sowie fehlende Kreditmöglichkeiten für bestimmte Gruppen kritisierten. Lee beanstandete am 6. Kreditpraktiken zugunsten oberer Bonitätsklassen, Kim verwies auf fehlende Kredite für mittlere und schwächere Bonitäten. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Une task force sur la finance inclusive pourrait voir le jour ce mois-ci",
-        "excerpt": "La Commission des services financiers sud-coréenne devrait lancer ce mois-ci une task force sur les taux élevés supportés par les emprunteurs à faible crédit.",
-        "body": "Les autorités financières sud-coréennes préparent le lancement, dès ce mois-ci, d’une task force destinée à améliorer ce qui est qualifié de « finance cruelle » excluant les publics vulnérables. Selon des sources du secteur financier le 10, la Commission des services financiers discute de la composition de divisions en vue de tenir ce mois-ci la première réunion du groupe provisoirement nommé Promotion de la finance inclusive. Cette initiative suit les critiques récentes du président Lee Jae-myung et du chef de la politique présidentielle Kim Yong-beom, qui ont souligné la fonction publique de la finance et dénoncé les taux élevés ou l’absence d’accès au crédit pour certains groupes. Lee a critiqué le 6 les pratiques de prêt centrées sur les meilleurs profils, tandis que Kim a pointé le manque de prêts aux emprunteurs à crédit moyen ou faible. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "فريق للتمويل الشامل قد ينطلق هذا الشهر لمعالجة «التمويل القاسي»",
-        "excerpt": "تتجه لجنة الخدمات المالية في كوريا الجنوبية إلى إطلاق فريق هذا الشهر لبحث أعباء الفائدة المرتفعة على ضعاف الائتمان ونقص القروض.",
-        "body": "تستعد السلطات المالية في كوريا الجنوبية لإطلاق فريق عمل في أقرب وقت خلال هذا الشهر لتحسين ما يوصف بـ«التمويل القاسي» الذي يستبعد الفئات الضعيفة. ووفق ما ذكرته أوساط مالية في العاشر من الشهر، تناقش لجنة الخدمات المالية تشكيل الأقسام تمهيدا لعقد أول اجتماع لما يسمى مؤقتا «فريق دفع التمويل الشامل» خلال الشهر الجاري. وتأتي الخطوة بعد تصريحات حديثة للرئيس لي جاي ميونغ ورئيس السياسات الرئاسية كيم يونغ بوم شددا فيها على الوظيفة العامة للتمويل وانتقدا واقع تحمل بعض الفئات فوائد مرتفعة أو عدم حصولها حتى على فرص الاقتراض. وانتقد لي في اجتماع مجلس الوزراء يوم السادس ممارسات الإقراض المتركزة على أصحاب التصنيفات العليا، كما أشار كيم إلى نقص القروض لمتوسطي ومنخفضي الائتمان. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "‘क्रूर वित्त’ सुधारने को समावेशी वित्त टास्क फोर्स इसी महीने संभव",
-        "excerpt": "दक्षिण कोरिया का वित्तीय सेवा आयोग इस महीने समावेशी वित्त टास्क फोर्स शुरू कर कम क्रेडिट वालों पर ऊंचे ब्याज और कर्ज की कमी की समीक्षा कर सकता है।",
-        "body": "दक्षिण कोरिया के वित्तीय अधिकारी कमजोर वर्गों को बाहर करने वाली तथाकथित “क्रूर वित्त” व्यवस्था में सुधार के लिए इस महीने तक एक टास्क फोर्स शुरू करने की तैयारी कर रहे हैं। 10 तारीख को वित्तीय क्षेत्र के अनुसार, वित्तीय सेवा आयोग अस्थायी रूप से “समावेशी वित्त 추진단” कहे जा रहे समूह की पहली बैठक इसी महीने कराने के लिए उप-समूहों की संरचना पर चर्चा कर रहा है। यह कदम राष्ट्रपति ली जे-म्युंग और राष्ट्रपति नीति प्रमुख किम योंग-बोम की हालिया टिप्पणियों के बाद आया है, जिनमें वित्त की सार्वजनिक भूमिका पर जोर देते हुए कम क्रेडिट वालों पर ऊंचे ब्याज और कर्ज अवसरों की कमी की आलोचना की गई। ली ने 6 तारीख की कैबिनेट बैठक में उच्च रेटिंग ग्राहकों पर केंद्रित ऋण प्रथा की आलोचना की, जबकि किम ने मध्यम और कम क्रेडिट वालों के लिए ऋण की कमी बताई। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Satuan Tugas Keuangan Inklusif Bisa Diluncurkan Bulan Ini",
-        "excerpt": "Komisi Jasa Keuangan Korea Selatan diperkirakan meluncurkan satuan tugas bulan ini untuk membahas beban bunga tinggi bagi debitur kredit rendah dan minimnya pinjaman.",
-        "body": "Otoritas keuangan Korea Selatan bersiap meluncurkan satuan tugas paling cepat bulan ini untuk memperbaiki apa yang disebut “keuangan kejam” yang mengecualikan kelompok rentan. Menurut kalangan keuangan pada tanggal 10, Komisi Jasa Keuangan sedang membahas pembentukan divisi untuk menggelar rapat pertama kelompok yang sementara disebut Satuan Tugas Promosi Keuangan Inklusif pada bulan ini. Langkah ini menyusul pernyataan terbaru Presiden Lee Jae-myung dan Kepala Kebijakan Presiden Kim Yong-beom yang menekankan fungsi publik keuangan serta mengkritik beban bunga tinggi dan kurangnya kesempatan pinjaman bagi sebagian kelompok. Lee pada rapat kabinet tanggal 6 mengkritik praktik pinjaman yang berfokus pada peringkat atas, sementara Kim menyoroti kurangnya pinjaman bagi debitur berperingkat kredit menengah dan rendah. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "c0a0ae32efa1",
-    "slug": "국내-주식형-etf-순자산-첫-200조-돌파-282959",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T16:28:58.401Z",
-    "updatedAt": "2026-05-10T16:28:58.401Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894040/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260510/133894040/2",
-    "titleFingerprint": "5a374aaaa1fb79d99309b6b1b881be1eaa18bf7d",
-    "dedupKeys": [
-      "c0a0ae32efa1d11b5cbdbc63b8b08b53d52e7046",
-      "5a374aaaa1fb79d99309b6b1b881be1eaa18bf7d",
-      "20df9c76cf95f576e8fec8b7798edcd6fd423fb7"
-    ],
-    "imageUrl": "/images/articles/c0a0ae32efa1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내 주식형 ETF 순자산 첫 200조 돌파, 코스피 강세가 키운 자금 유입",
-        "excerpt": "10일 애프앤가이드에 따르면 7일 기준 국내 주식형 ETF 순자산이 212조8329억 원으로 처음 200조 원을 넘었다. 코스피 강세 속 전체 ETF 자산도 456조 원대로 늘었다.",
-        "body": "국내 증시가 강세를 이어가는 가운데 국내 상장 기업에 투자하는 국내 주식형 상장지수펀드(ETF)의 순자산이 처음으로 200조 원을 넘어섰다. 금융정보업체 애프앤가이드가 10일 집계한 자료에 따르면 7일 기준 국내 전체 ETF 순자산은 456조2392억 원이었다. 지난달 15일 전체 ETF 순자산이 처음 400조 원을 돌파한 뒤 한 달도 안 돼 50조 원 이상 늘어난 규모다. 이 가운데 국내 주식형 ETF 순자산은 212조8329억 원으로 집계됐다. 코스피가 장중 7,500을 넘는 등 호황을 보이면서 자금 유입이 확대된 것으로 풀이된다. 코스피 시가총액 약 6138조9436억 원 대비 국내 주식형 ETF 자산 비중은 약 3.5%로 역대 최대치였다. 2024년 12월 2.08%였던 비중은 지난해 말 2.68%로 높아졌고, 올해 들어 4개월 만에 0.9%포인트 더 상승했다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Korean Equity ETF Assets Top 200 Trillion Won for First Time as Kospi Rallies",
-        "excerpt": "According to FnGuide on May 10, net assets in Korean equity ETFs reached 212.8329 trillion won as of May 7, topping 200 trillion won for the first time amid a strong Kospi market.",
-        "body": "Net assets in domestic equity exchange-traded funds that invest in companies listed in Korea have exceeded 200 trillion won for the first time as the local stock market continues to rally. According to data compiled on May 10 by financial information provider FnGuide, total net assets of all ETFs in Korea stood at 456.2392 trillion won as of May 7. That was an increase of more than 50 trillion won in less than a month after total ETF assets first surpassed 400 trillion won on April 15. Among them, domestic equity ETF net assets reached 212.8329 trillion won. The inflow came as the Kospi remained buoyant, briefly rising above 7,500 during intraday trading. Domestic equity ETFs accounted for about 3.5% of the Kospi’s market capitalization of roughly 6,138.9436 trillion won, the highest share on record. The ratio was 2.08% in December 2024, rose to 2.68% at the end of last year, and increased by another 0.9 percentage point in four months this year. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "韓国株式型ETF純資産が初の200兆ウォン突破、KOSPI高が資金流入を後押し",
-        "excerpt": "金融情報会社FnGuideが10日に示した集計では、7日時点の韓国株式型ETF純資産は212兆8329億ウォンとなり、初めて200兆ウォンを超えた。",
-        "body": "韓国株式市場が堅調な流れを続けるなか、韓国上場企業に投資する国内株式型上場投資信託（ETF）の純資産が初めて200兆ウォンを突破した。金融情報会社FnGuideが10日に集計した資料によると、7日時点で韓国全体のETF純資産は456兆2392億ウォンだった。4月15日に全ETF純資産が初めて400兆ウォンを超えてから、1カ月足らずで50兆ウォン以上増えた計算だ。このうち国内株式型ETFの純資産は212兆8329億ウォンと集計された。KOSPIが取引時間中に7,500を超えるなど好況を示し、資金流入が拡大したとみられる。KOSPI時価総額約6138兆9436億ウォンに対する国内株式型ETF資産の比率は約3.5%で過去最大だった。2024年12月に2.08%だった比率は昨年末に2.68%へ上昇し、今年は4カ月でさらに0.9ポイント高まった。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "韩国股票型ETF净资产首次突破200万亿韩元，KOSPI走强带动资金流入",
-        "excerpt": "金融信息机构FnGuide 10日数据显示，截至7日，韩国股票型ETF净资产达212.8329万亿韩元，首次突破200万亿韩元，整体ETF资产也升至456万亿韩元以上。",
-        "body": "在韩国股市持续走强之际，投资于韩国上市企业的国内股票型交易所交易基金（ETF）净资产首次突破200万亿韩元。金融信息机构FnGuide 10日汇总的数据显示，截至7日，韩国全部ETF净资产为456.2392万亿韩元。自4月15日整体ETF净资产首次突破400万亿韩元以来，不到一个月便增加了逾50万亿韩元。其中，国内股票型ETF净资产为212.8329万亿韩元。随着KOSPI盘中一度升破7,500点，市场景气延续，资金流入随之扩大。相较KOSPI约6138.9436万亿韩元的总市值，国内股票型ETF资产占比约为3.5%，创历史最高。该比例在2024年12月仅为2.08%，去年底升至2.68%，今年前四个月又提高0.9个百分点。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "ETF de renta variable coreana superan por primera vez 200 billones de wones en activos",
-        "excerpt": "Según FnGuide el 10 de mayo, los ETF de renta variable coreana alcanzaron 212,8329 billones de wones en activos netos al 7 de mayo, superando por primera vez los 200 billones.",
-        "body": "Los activos netos de los fondos cotizados (ETF) de renta variable nacional que invierten en empresas listadas en Corea superaron por primera vez los 200 billones de wones, en medio de la fortaleza del mercado bursátil local. Según datos recopilados el 10 de mayo por la firma de información financiera FnGuide, los activos netos totales de todos los ETF en Corea eran de 456,2392 billones de wones al 7 de mayo. La cifra aumentó en más de 50 billones de wones en menos de un mes desde que el total de activos de ETF superó por primera vez los 400 billones el 15 de abril. Dentro de ese total, los ETF de renta variable coreana sumaron 212,8329 billones de wones. La entrada de fondos se produjo mientras el Kospi mantenía su auge y superaba los 7.500 puntos durante la sesión. Los activos de estos ETF representaron cerca del 3,5% de la capitalización del Kospi, de unos 6.138,9436 billones de wones, un máximo histórico. La proporción era del 2,08% en diciembre de 2024, subió al 2,68% a fines del año pasado y avanzó otros 0,9 puntos porcentuales en cuatro meses de este año. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "ETFs de ações coreanas passam de 200 trilhões de wons pela primeira vez com alta do Kospi",
-        "excerpt": "Segundo a FnGuide em 10 de maio, os ETFs de ações coreanas somavam 212,8329 trilhões de wons em ativos líquidos em 7 de maio, superando pela primeira vez a marca de 200 trilhões.",
-        "body": "Os ativos líquidos dos fundos de índice (ETFs) de ações domésticas que investem em empresas listadas na Coreia ultrapassaram 200 trilhões de wons pela primeira vez, enquanto o mercado acionário local mantém forte desempenho. De acordo com dados compilados em 10 de maio pela empresa de informações financeiras FnGuide, os ativos líquidos totais de todos os ETFs na Coreia somavam 456,2392 trilhões de wons em 7 de maio. O valor cresceu mais de 50 trilhões de wons em menos de um mês depois que os ativos totais de ETFs superaram pela primeira vez 400 trilhões em 15 de abril. Desse total, os ETFs de ações coreanas alcançaram 212,8329 trilhões de wons. A entrada de recursos ocorreu em meio ao avanço do Kospi, que passou de 7.500 pontos durante o pregão. Os ativos desses ETFs representaram cerca de 3,5% da capitalização de mercado do Kospi, estimada em 6.138,9436 trilhões de wons, o maior nível já registrado. A fatia era de 2,08% em dezembro de 2024, subiu para 2,68% no fim do ano passado e aumentou mais 0,9 ponto percentual em quatro meses deste ano. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Koreanische Aktien-ETFs überschreiten erstmals 200 Billionen Won an Nettovermögen",
-        "excerpt": "Laut FnGuide vom 10. Mai erreichte das Nettovermögen koreanischer Aktien-ETFs zum 7. Mai 212,8329 Billionen Won und überschritt damit erstmals die Marke von 200 Billionen Won.",
-        "body": "Das Nettovermögen inländischer Aktien-ETFs, die in in Korea gelistete Unternehmen investieren, hat erstmals die Marke von 200 Billionen Won überschritten, während der koreanische Aktienmarkt weiter stark bleibt. Nach Angaben des Finanzinformationsanbieters FnGuide vom 10. Mai belief sich das Nettovermögen aller ETFs in Korea zum 7. Mai auf 456,2392 Billionen Won. Seit das gesamte ETF-Vermögen am 15. April erstmals 400 Billionen Won überschritten hatte, kamen in weniger als einem Monat mehr als 50 Billionen Won hinzu. Davon entfielen 212,8329 Billionen Won auf inländische Aktien-ETFs. Die Zuflüsse nahmen zu, während der Kospi im Tagesverlauf über 7.500 Punkte stieg und die Marktstimmung stark blieb. Gemessen an der Kospi-Marktkapitalisierung von rund 6.138,9436 Billionen Won lag der Anteil inländischer Aktien-ETFs bei etwa 3,5% und damit auf einem Rekordhoch. Im Dezember 2024 hatte der Anteil noch 2,08% betragen, stieg bis Ende vergangenen Jahres auf 2,68% und legte in den ersten vier Monaten dieses Jahres um weitere 0,9 Prozentpunkte zu. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les ETF d’actions coréennes dépassent 200 000 milliards de wons pour la première fois",
-        "excerpt": "Selon FnGuide le 10 mai, les ETF d’actions coréennes affichaient 212 832,9 milliards de wons d’actifs nets au 7 mai, franchissant pour la première fois le seuil des 200 000 milliards.",
-        "body": "Les actifs nets des fonds indiciels cotés (ETF) investissant dans des sociétés cotées en Corée ont dépassé pour la première fois 200 000 milliards de wons, alors que le marché boursier local poursuit sa progression. D’après les données compilées le 10 mai par le fournisseur d’informations financières FnGuide, les actifs nets de l’ensemble des ETF en Corée atteignaient 456 239,2 milliards de wons au 7 mai. Ils ont ainsi augmenté de plus de 50 000 milliards de wons en moins d’un mois après avoir franchi pour la première fois 400 000 milliards de wons le 15 avril. Parmi eux, les ETF d’actions coréennes représentaient 212 832,9 milliards de wons. Les flux se sont renforcés alors que le Kospi restait dynamique, dépassant 7 500 points en séance. Les actifs de ces ETF équivalaient à environ 3,5% de la capitalisation du Kospi, estimée à 6 138 943,6 milliards de wons, un niveau record. Cette part n’était que de 2,08% en décembre 2024, puis de 2,68% à la fin de l’an dernier, avant de progresser encore de 0,9 point de pourcentage en quatre mois cette année. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "أصول صناديق الأسهم الكورية المتداولة تتجاوز 200 تريليون وون للمرة الأولى مع صعود كوسبي",
-        "excerpt": "أظهرت بيانات FnGuide في 10 مايو أن صافي أصول صناديق ETF للأسهم الكورية بلغ 212.8329 تريليون وون في 7 مايو، متجاوزا 200 تريليون وون للمرة الأولى.",
-        "body": "تجاوز صافي أصول صناديق المؤشرات المتداولة المحلية التي تستثمر في الشركات المدرجة في كوريا مستوى 200 تريليون وون للمرة الأولى، مع استمرار قوة سوق الأسهم المحلية. ووفقا لبيانات جمعتها شركة المعلومات المالية FnGuide في 10 مايو، بلغ صافي أصول جميع صناديق ETF في كوريا 456.2392 تريليون وون في 7 مايو. وجاء ذلك بزيادة تفوق 50 تريليون وون في أقل من شهر بعدما تجاوز إجمالي أصول صناديق ETF حاجز 400 تريليون وون للمرة الأولى في 15 أبريل. ومن هذا الإجمالي، بلغ صافي أصول صناديق ETF للأسهم الكورية 212.8329 تريليون وون. واتسعت التدفقات مع بقاء مؤشر كوسبي قويا وتجاوزه 7,500 نقطة أثناء التداول. وشكلت أصول هذه الصناديق نحو 3.5% من القيمة السوقية لكوسبي البالغة حوالي 6,138.9436 تريليون وون، وهو أعلى مستوى على الإطلاق. وكانت النسبة 2.08% في ديسمبر 2024، ثم ارتفعت إلى 2.68% بنهاية العام الماضي، وزادت 0.9 نقطة مئوية أخرى خلال أربعة أشهر من هذا العام. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "कोरियाई इक्विटी ETF की शुद्ध संपत्ति पहली बार 200 ट्रिलियन वॉन के पार",
-        "excerpt": "FnGuide के 10 मई के आंकड़ों के अनुसार, 7 मई तक कोरियाई इक्विटी ETF की शुद्ध संपत्ति 212.8329 ट्रिलियन वॉन रही और पहली बार 200 ट्रिलियन वॉन से ऊपर पहुंची।",
-        "body": "कोरिया में सूचीबद्ध कंपनियों में निवेश करने वाले घरेलू इक्विटी एक्सचेंज-ट्रेडेड फंड (ETF) की शुद्ध संपत्ति पहली बार 200 ट्रिलियन वॉन से ऊपर चली गई, जबकि स्थानीय शेयर बाजार में मजबूती जारी रही। वित्तीय सूचना कंपनी FnGuide द्वारा 10 मई को संकलित आंकड़ों के अनुसार, 7 मई तक कोरिया के सभी ETF की कुल शुद्ध संपत्ति 456.2392 ट्रिलियन वॉन थी। 15 अप्रैल को कुल ETF संपत्ति पहली बार 400 ट्रिलियन वॉन से ऊपर जाने के बाद एक महीने से भी कम समय में इसमें 50 ट्रिलियन वॉन से अधिक की वृद्धि हुई। इनमें घरेलू इक्विटी ETF की शुद्ध संपत्ति 212.8329 ट्रिलियन वॉन रही। Kospi के कारोबार के दौरान 7,500 से ऊपर जाने सहित बाजार की तेजी ने फंड प्रवाह को बढ़ाया। लगभग 6,138.9436 ट्रिलियन वॉन के Kospi बाजार पूंजीकरण की तुलना में घरेलू इक्विटी ETF संपत्ति की हिस्सेदारी करीब 3.5% रही, जो अब तक का उच्चतम स्तर है। यह अनुपात दिसंबर 2024 में 2.08% था, पिछले वर्ष के अंत में 2.68% हुआ और इस वर्ष चार महीनों में 0.9 प्रतिशत अंक और बढ़ा। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Aset ETF Saham Korea Tembus 200 Triliun Won Pertama Kali Saat Kospi Menguat",
-        "excerpt": "Menurut FnGuide pada 10 Mei, aset bersih ETF saham Korea mencapai 212,8329 triliun won per 7 Mei, menembus 200 triliun won untuk pertama kalinya di tengah penguatan Kospi.",
-        "body": "Aset bersih exchange-traded fund (ETF) saham domestik yang berinvestasi pada perusahaan tercatat di Korea untuk pertama kalinya melampaui 200 triliun won, seiring berlanjutnya penguatan pasar saham lokal. Berdasarkan data yang dihimpun perusahaan informasi keuangan FnGuide pada 10 Mei, total aset bersih seluruh ETF di Korea mencapai 456,2392 triliun won per 7 Mei. Jumlah itu bertambah lebih dari 50 triliun won dalam waktu kurang dari satu bulan setelah total aset ETF pertama kali menembus 400 triliun won pada 15 April. Dari total tersebut, aset bersih ETF saham Korea mencapai 212,8329 triliun won. Arus dana meningkat ketika Kospi tetap kuat, termasuk sempat bergerak di atas 7.500 dalam perdagangan intrahari. Dibandingkan kapitalisasi pasar Kospi sekitar 6.138,9436 triliun won, porsi aset ETF saham domestik mencapai sekitar 3,5%, level tertinggi sepanjang sejarah. Porsi itu hanya 2,08% pada Desember 2024, naik menjadi 2,68% pada akhir tahun lalu, lalu bertambah 0,9 poin persentase dalam empat bulan tahun ini. Sumber: rss.donga.com"
       }
     }
   }
