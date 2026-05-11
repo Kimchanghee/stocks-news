@@ -1,5 +1,230 @@
 [
   {
+    "id": "7650c8254529",
+    "slug": "호르무즈-봉쇄에-유가-껑충아람코-1분기-실적-뜀박질-156313",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T22:38:26.363Z",
+    "updatedAt": "2026-05-11T22:38:26.363Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190591",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190591",
+    "titleFingerprint": "a02dd0c64e16d7b547ef553869b509e50e36f15e",
+    "dedupKeys": [
+      "7650c825452951cb009168f218e1e65c90489717",
+      "a02dd0c64e16d7b547ef553869b509e50e36f15e",
+      "3a6173e27f213ad8433faa0d89ae340f40478608"
+    ],
+    "imageUrl": "/images/articles/7650c8254529.png",
+    "i18n": {
+      "ko": {
+        "title": "호르무즈 봉쇄에 유가 급등, 아람코 1분기 실적도 강세",
+        "excerpt": "호르무즈 봉쇄 여파로 국제 유가가 급등하면서 사우디 아람코의 1분기 실적이 개선된 것으로 전해졌다. 에너지 공급 불안이 실적 흐름의 핵심 배경으로 꼽힌다.",
+        "body": "호르무즈 봉쇄 여파로 국제 유가가 껑충 뛰면서 사우디 국영 석유기업 아람코의 1분기 실적이 강세를 보였다. 원유 수송의 핵심 통로로 꼽히는 호르무즈 해협이 봉쇄되자 에너지 공급 불안이 커졌고, 유가 상승이 아람코 실적 개선으로 이어진 흐름이다. 이번 소식은 지정학적 변수와 원유 시장 변동이 주요 산유 기업의 분기 실적에 직접적인 영향을 줄 수 있음을 보여준다. 향후 유가 흐름과 공급 차질 우려가 아람코 실적 전망의 핵심 변수로 주목된다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hormuz Blockade Lifts Oil Prices, Aramco Q1 Results Strengthen",
+        "excerpt": "International oil prices jumped after the Hormuz blockade, reportedly boosting Saudi Aramco’s first-quarter results as energy supply concerns drove market moves.",
+        "body": "Saudi state oil company Aramco posted stronger first-quarter results as international oil prices jumped following the Hormuz blockade. The closure of the Strait of Hormuz, a key route for crude shipments, heightened concerns over energy supply, and the rise in oil prices fed into Aramco’s improved performance. The report shows how geopolitical factors and swings in the crude market can directly affect quarterly results at major oil producers. Future oil price trends and worries over supply disruptions are likely to remain key variables for Aramco’s earnings outlook. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ホルムズ封鎖で原油高、アラムコの1四半期業績も強含み",
+        "excerpt": "ホルムズ封鎖の影響で国際原油価格が急伸し、サウジアラムコの第1四半期業績が改善したと伝えられた。供給不安が背景にある。",
+        "body": "ホルムズ封鎖の影響で国際原油価格が大きく上昇し、サウジ国営石油会社アラムコの第1四半期業績は強含みとなった。原油輸送の重要ルートとされるホルムズ海峡が封鎖されたことでエネルギー供給への不安が高まり、原油高がアラムコの業績改善につながった流れだ。今回の報道は、地政学的要因と原油市場の変動が主要産油企業の四半期業績に直接影響し得ることを示している。今後の原油価格と供給途絶への懸念が、アラムコの業績見通しの重要な変数として注目される。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "霍尔木兹封锁推高油价，沙特阿美一季度业绩走强",
+        "excerpt": "霍尔木兹封锁导致国际油价大幅上涨，沙特阿美一季度业绩据称随之改善。能源供应担忧成为业绩变化的关键背景。",
+        "body": "受霍尔木兹封锁影响，国际油价明显上涨，沙特国有石油公司沙特阿美第一季度业绩表现走强。作为原油运输关键通道的霍尔木兹海峡遭封锁后，能源供应不确定性升高，油价上涨推动了沙特阿美业绩改善。该消息显示，地缘政治因素和原油市场波动可能直接影响主要产油企业的季度业绩。未来油价走势以及供应中断担忧，预计仍将是沙特阿美业绩前景的重要变量。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Bloqueo de Ormuz dispara el petróleo y fortalece resultados de Aramco",
+        "excerpt": "El bloqueo de Ormuz elevó con fuerza los precios internacionales del crudo y habría mejorado los resultados del primer trimestre de Saudi Aramco por temores de suministro.",
+        "body": "Saudi Aramco, la petrolera estatal saudí, registró un desempeño más sólido en el primer trimestre después de que los precios internacionales del petróleo subieran con fuerza por el bloqueo de Ormuz. El cierre del estrecho de Ormuz, una ruta clave para el transporte de crudo, aumentó la preocupación por el suministro energético, y el alza del petróleo se reflejó en la mejora de los resultados de Aramco. La noticia muestra cómo los factores geopolíticos y la volatilidad del mercado del crudo pueden afectar directamente los resultados trimestrales de grandes productoras. La evolución del petróleo y los temores de interrupción del suministro seguirán siendo variables clave. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Bloqueio de Ormuz eleva petróleo e impulsiona resultados da Aramco",
+        "excerpt": "O bloqueio de Ormuz fez os preços internacionais do petróleo dispararem e teria melhorado os resultados do primeiro trimestre da Saudi Aramco, diante de temores de oferta.",
+        "body": "A Saudi Aramco, petrolífera estatal saudita, apresentou desempenho mais forte no primeiro trimestre após a alta acentuada dos preços internacionais do petróleo causada pelo bloqueio de Ormuz. O fechamento do estreito de Ormuz, rota essencial para o transporte de petróleo bruto, ampliou as preocupações com o fornecimento de energia, e a valorização do petróleo se refletiu na melhora dos resultados da Aramco. A notícia mostra que fatores geopolíticos e oscilações do mercado de petróleo podem afetar diretamente os resultados trimestrais de grandes produtoras. A trajetória dos preços e os receios de interrupção no fornecimento seguem como variáveis centrais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hormus-Blockade treibt Ölpreis, Aramco mit starkem Quartal",
+        "excerpt": "Die Blockade von Hormus ließ die internationalen Ölpreise stark steigen und soll die Ergebnisse von Saudi Aramco im ersten Quartal verbessert haben.",
+        "body": "Saudi Aramco, der staatliche Ölkonzern Saudi-Arabiens, zeigte im ersten Quartal eine stärkere Geschäftsentwicklung, nachdem die internationalen Ölpreise infolge der Hormus-Blockade deutlich gestiegen waren. Die Schließung der Straße von Hormus, einer zentralen Route für Rohöltransporte, verstärkte Sorgen über die Energieversorgung; der Ölpreisanstieg schlug sich in besseren Ergebnissen von Aramco nieder. Die Meldung zeigt, dass geopolitische Faktoren und Schwankungen am Rohölmarkt die Quartalsergebnisse großer Ölproduzenten direkt beeinflussen können. Künftige Ölpreise und mögliche Lieferstörungen bleiben wichtige Variablen für den Ausblick von Aramco. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le blocage d’Ormuz fait bondir le pétrole et soutient Aramco",
+        "excerpt": "Le blocage d’Ormuz a fait grimper les prix internationaux du pétrole et aurait amélioré les résultats du premier trimestre de Saudi Aramco, sur fond d’inquiétudes d’approvisionnement.",
+        "body": "Saudi Aramco, compagnie pétrolière publique saoudienne, a affiché des résultats plus solides au premier trimestre après la forte hausse des prix internationaux du pétrole liée au blocage d’Ormuz. La fermeture du détroit d’Ormuz, passage clé pour le transport de brut, a renforcé les inquiétudes sur l’approvisionnement énergétique, et la hausse du pétrole s’est traduite par une amélioration des performances d’Aramco. Cette information montre que les facteurs géopolitiques et les mouvements du marché du brut peuvent peser directement sur les résultats trimestriels des grands producteurs. L’évolution des prix du pétrole et les risques de rupture d’approvisionnement resteront des variables majeures. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إغلاق هرمز يرفع أسعار النفط ويدعم نتائج أرامكو في الربع الأول",
+        "excerpt": "أدى إغلاق هرمز إلى قفزة في أسعار النفط العالمية، ما انعكس على تحسن نتائج أرامكو السعودية في الربع الأول وسط مخاوف بشأن إمدادات الطاقة.",
+        "body": "سجلت أرامكو السعودية، شركة النفط الحكومية، أداء أقوى في الربع الأول بعدما ارتفعت أسعار النفط العالمية بفعل إغلاق هرمز. وأدى إغلاق مضيق هرمز، وهو ممر رئيسي لنقل الخام، إلى تصاعد القلق بشأن إمدادات الطاقة، لتنعكس زيادة أسعار النفط على تحسن نتائج أرامكو. وتوضح هذه الأنباء أن العوامل الجيوسياسية وتقلبات سوق الخام يمكن أن تؤثر مباشرة في النتائج الفصلية لكبرى شركات إنتاج النفط. وستظل اتجاهات أسعار النفط والمخاوف من تعطل الإمدادات من العوامل الأساسية في توقعات أداء أرامكو. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "होर्मुज बंदी से तेल कीमतें उछलीं, अरामको के Q1 नतीजे मजबूत",
+        "excerpt": "होर्मुज बंदी के बाद अंतरराष्ट्रीय तेल कीमतें तेजी से बढ़ीं, जिससे सऊदी अरामको के पहली तिमाही के नतीजों में सुधार बताया गया। आपूर्ति चिंता मुख्य वजह रही।",
+        "body": "होर्मुज बंदी के असर से अंतरराष्ट्रीय तेल कीमतें तेजी से बढ़ीं और सऊदी सरकारी तेल कंपनी अरामको के पहली तिमाही के नतीजे मजबूत रहे। कच्चे तेल की ढुलाई के अहम मार्ग माने जाने वाले होर्मुज जलडमरूमध्य के बंद होने से ऊर्जा आपूर्ति को लेकर चिंता बढ़ी, और तेल कीमतों की बढ़त अरामको के बेहतर प्रदर्शन में झलकी। यह खबर दिखाती है कि भू-राजनीतिक कारक और कच्चे तेल के बाजार में उतार-चढ़ाव प्रमुख तेल उत्पादक कंपनियों के तिमाही नतीजों को सीधे प्रभावित कर सकते हैं। आगे तेल कीमतों की दिशा और आपूर्ति बाधा की आशंका अरामको के प्रदर्शन के लिए मुख्य कारक रहेंगी। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Blokade Hormuz Dongkrak Harga Minyak, Kinerja Q1 Aramco Menguat",
+        "excerpt": "Blokade Hormuz membuat harga minyak internasional melonjak dan disebut memperbaiki kinerja kuartal pertama Saudi Aramco, seiring meningkatnya kekhawatiran pasokan energi.",
+        "body": "Saudi Aramco, perusahaan minyak milik negara Arab Saudi, mencatat kinerja kuartal pertama yang lebih kuat setelah harga minyak internasional melonjak akibat blokade Hormuz. Penutupan Selat Hormuz, jalur penting pengangkutan minyak mentah, meningkatkan kekhawatiran atas pasokan energi, sementara kenaikan harga minyak mendorong perbaikan kinerja Aramco. Kabar ini menunjukkan bahwa faktor geopolitik dan pergerakan pasar minyak mentah dapat berdampak langsung pada hasil kuartalan perusahaan produsen minyak besar. Ke depan, arah harga minyak dan kekhawatiran gangguan pasokan akan menjadi variabel utama bagi prospek kinerja Aramco. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "00220c034d47",
+    "slug": "1년간-주가-2배-뛴-한화인적분할-후에도-상승세-이어갈까-634242",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T22:37:24.359Z",
+    "updatedAt": "2026-05-11T22:37:24.359Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605084396i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605084396i",
+    "titleFingerprint": "9b92ab3167c91acdf3368d40a3c0d3b5cfb20657",
+    "dedupKeys": [
+      "00220c034d4714a2760b4e0377806f897343622d",
+      "9b92ab3167c91acdf3368d40a3c0d3b5cfb20657",
+      "593adabd3ddfa0b83a91efcf605875a72d35e4ea"
+    ],
+    "imageUrl": "/images/articles/00220c034d47.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한화 주가 1년 새 2배 상승…인적분할 이후 흐름 주목",
+        "excerpt": "한화 주가가 최근 1년간 두 배 수준으로 오른 가운데, 시장의 관심은 인적분할 이후에도 상승세가 이어질지에 모이고 있다.",
+        "body": "한화 주가가 최근 1년 동안 두 배 수준으로 상승하면서 투자자들의 관심이 인적분할 이후 흐름으로 옮겨가고 있다. 이번 사안의 핵심은 이미 큰 폭으로 오른 주가가 기업 구조 변화 이후에도 같은 상승 흐름을 유지할 수 있는지다. 원문은 한화의 1년 주가 상승과 인적분할 이후 전망에 초점을 맞추고 있다. 다만 향후 주가 방향은 원문 제목상 질문 형태로 제시됐으며, 추가적인 실적 수치나 확정 전망은 제공되지 않았다. 따라서 현재 확인 가능한 사실은 한화 주가가 1년간 약 2배 올랐고, 인적분할 이후 상승세 지속 여부가 시장의 관찰 대상이라는 점이다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Hanwha Shares Double in a Year as Focus Turns to Post-Spinoff Momentum",
+        "excerpt": "Hanwha’s share price has roughly doubled over the past year, drawing attention to whether its upward trend can continue after the planned spinoff.",
+        "body": "Hanwha’s share price has risen to roughly twice its level from a year ago, shifting investor attention to how the stock may move after the spinoff. The central issue is whether a stock that has already advanced sharply can maintain that momentum following a change in corporate structure. The original report focuses on Hanwha’s one-year share price rise and the outlook after the spinoff. However, the future direction of the stock is presented as a question in the original headline, and no additional earnings figures or confirmed forecast are provided. The verified facts are that Hanwha shares have risen about twofold over one year and that post-spinoff momentum is now being watched by the market. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "ハンファ株が1年で2倍に上昇、人的分割後の勢いに注目",
+        "excerpt": "ハンファの株価が直近1年で約2倍に上昇し、人的分割後も上昇基調が続くかどうかに市場の関心が集まっている。",
+        "body": "ハンファの株価が直近1年で約2倍に上昇し、投資家の関心は人的分割後の株価動向に移っている。焦点は、すでに大きく上昇した株価が企業構造の変化後も同じ勢いを維持できるかどうかだ。原文は、ハンファの1年間の株価上昇と人的分割後の見通しに焦点を当てている。ただし、今後の株価方向は原文タイトルで疑問形として示されており、追加の業績数値や確定的な見通しは示されていない。現時点で確認できる事実は、ハンファ株が1年間で約2倍に上昇し、人的分割後も上昇が続くかが市場の観察対象になっているという点だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "韩华股价一年翻倍，市场关注人事分拆后能否延续涨势",
+        "excerpt": "韩华股价近一年上涨至约两倍水平，市场关注焦点转向人事分拆后其上涨趋势是否还能持续。",
+        "body": "韩华股价在最近一年上涨至约两倍水平，投资者的关注点正转向人事分拆后的走势。当前核心问题是，已经大幅上涨的股价在企业结构发生变化后，能否继续保持同样的上升势头。原文聚焦韩华一年期股价上涨以及人事分拆后的前景。不过，未来股价方向在原文标题中以疑问形式呈现，并未提供更多业绩数据或确定性预测。因此，目前可确认的事实是，韩华股价一年内约上涨一倍，且人事分拆后涨势能否延续正成为市场观察重点。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Hanwha duplica su acción en un año y mira al impulso tras la escisión",
+        "excerpt": "La acción de Hanwha se ha duplicado aproximadamente en el último año, y el mercado observa si la tendencia alcista continuará tras la escisión.",
+        "body": "La acción de Hanwha ha subido hasta aproximadamente el doble de su nivel de hace un año, trasladando la atención de los inversores a su evolución después de la escisión. La cuestión central es si una acción que ya ha avanzado con fuerza puede mantener ese impulso tras un cambio en la estructura corporativa. El texto original se centra en el alza de la cotización de Hanwha durante un año y en las perspectivas posteriores a la escisión. Sin embargo, la dirección futura de la acción se plantea como una pregunta en el titular original, y no se aportan cifras adicionales de resultados ni una previsión confirmada. Los hechos verificables son que Hanwha ha subido cerca de dos veces en un año y que su impulso posterior a la escisión está bajo observación del mercado. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Ação da Hanwha dobra em um ano e mercado observa fase pós-cisão",
+        "excerpt": "A ação da Hanwha quase dobrou em um ano, levando o mercado a avaliar se a tendência de alta poderá continuar após a cisão.",
+        "body": "A ação da Hanwha subiu para cerca do dobro do nível registrado há um ano, deslocando a atenção dos investidores para o comportamento do papel após a cisão. A questão central é se uma ação que já avançou fortemente poderá manter esse ritmo depois de uma mudança na estrutura corporativa. O texto original destaca a valorização de um ano das ações da Hanwha e a perspectiva após a cisão. No entanto, a direção futura do papel aparece no título original em forma de pergunta, sem números adicionais de resultados ou previsão confirmada. Assim, os fatos disponíveis são que a ação da Hanwha subiu aproximadamente duas vezes em um ano e que a continuidade da alta após a cisão está sendo observada pelo mercado. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Hanwha-Aktie verdoppelt sich in einem Jahr, Blick auf Zeit nach Abspaltung",
+        "excerpt": "Die Hanwha-Aktie hat sich binnen eines Jahres etwa verdoppelt; nun richtet sich der Marktfokus auf die Frage, ob der Aufwärtstrend nach der Abspaltung anhält.",
+        "body": "Die Hanwha-Aktie ist in den vergangenen zwölf Monaten auf etwa das Doppelte gestiegen, wodurch sich der Fokus der Anleger auf die Entwicklung nach der Abspaltung verlagert. Im Mittelpunkt steht die Frage, ob eine bereits stark gestiegene Aktie nach einer Veränderung der Unternehmensstruktur ihren Aufwärtstrend fortsetzen kann. Der Originalbericht konzentriert sich auf den einjährigen Kursanstieg von Hanwha und den Ausblick nach der Abspaltung. Die künftige Kursrichtung wird im Originaltitel jedoch als Frage formuliert; zusätzliche Ergebniszahlen oder eine bestätigte Prognose werden nicht genannt. Gesichert ist daher, dass Hanwha binnen eines Jahres ungefähr doppelt so hoch notiert und dass die weitere Entwicklung nach der Abspaltung vom Markt beobachtet wird. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Hanwha double en Bourse sur un an, l’après-scission sous surveillance",
+        "excerpt": "L’action Hanwha a environ doublé en un an, et l’attention du marché se porte désormais sur la poursuite éventuelle de la hausse après la scission.",
+        "body": "L’action Hanwha a progressé jusqu’à environ deux fois son niveau d’il y a un an, ce qui déplace l’attention des investisseurs vers son évolution après la scission. La question centrale est de savoir si un titre déjà fortement monté peut conserver le même élan après un changement de structure d’entreprise. Le texte original met l’accent sur la hausse du cours de Hanwha sur un an et sur les perspectives après la scission. Toutefois, l’orientation future du titre est présentée sous forme de question dans le titre original, sans chiffres de résultats supplémentaires ni prévision confirmée. Les faits vérifiables sont donc que l’action Hanwha a environ doublé en un an et que la poursuite de sa hausse après la scission est observée par le marché. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سهم هانوا يتضاعف خلال عام والأنظار على مساره بعد الانقسام",
+        "excerpt": "ارتفع سهم هانوا إلى نحو ضعف مستواه خلال عام، فيما يترقب السوق ما إذا كان الزخم الصاعد سيستمر بعد الانقسام البشري.",
+        "body": "ارتفع سهم هانوا خلال العام الأخير إلى نحو ضعف مستواه السابق، ما نقل اهتمام المستثمرين إلى مساره بعد الانقسام البشري. وتتمثل القضية الأساسية في ما إذا كان السهم، بعد صعوده الكبير بالفعل، قادرا على الحفاظ على الزخم نفسه عقب تغير في هيكل الشركة. يركز النص الأصلي على ارتفاع سهم هانوا خلال عام واحد وعلى التوقعات بعد الانقسام. لكن اتجاه السهم في المستقبل ورد في العنوان الأصلي بصيغة سؤال، من دون تقديم أرقام أرباح إضافية أو توقع مؤكد. لذلك فإن الحقائق المتاحة حاليا هي أن سهم هانوا ارتفع بنحو الضعف خلال عام، وأن استمرار الصعود بعد الانقسام أصبح موضع متابعة في السوق. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Hanwha का शेयर एक साल में दोगुना, विभाजन के बाद रुझान पर नजर",
+        "excerpt": "Hanwha का शेयर पिछले एक साल में लगभग दोगुना हो गया है, जिससे बाजार का ध्यान इस पर है कि विभाजन के बाद तेजी जारी रहेगी या नहीं।",
+        "body": "Hanwha का शेयर पिछले एक साल में अपने पहले के स्तर से लगभग दोगुना हो गया है, जिससे निवेशकों का ध्यान विभाजन के बाद उसकी चाल पर केंद्रित हो गया है। मुख्य प्रश्न यह है कि पहले ही तेज बढ़त दर्ज कर चुका शेयर कंपनी संरचना में बदलाव के बाद भी वही तेजी बनाए रख पाएगा या नहीं। मूल रिपोर्ट Hanwha के एक साल के शेयर उछाल और विभाजन के बाद की संभावना पर केंद्रित है। हालांकि, भविष्य की दिशा मूल शीर्षक में प्रश्न के रूप में रखी गई है और अतिरिक्त आय आंकड़े या निश्चित अनुमान उपलब्ध नहीं कराए गए हैं। इसलिए फिलहाल पुष्टि योग्य तथ्य यह हैं कि Hanwha का शेयर एक साल में लगभग दो गुना हुआ है और विभाजन के बाद तेजी जारी रहती है या नहीं, यह बाजार की निगरानी में है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Saham Hanwha Naik Dua Kali Lipat Setahun, Fokus ke Pasca-Pemisahan",
+        "excerpt": "Saham Hanwha naik sekitar dua kali lipat dalam setahun terakhir, membuat pasar mencermati apakah tren penguatannya berlanjut setelah pemisahan.",
+        "body": "Saham Hanwha naik hingga sekitar dua kali lipat dalam satu tahun terakhir, sehingga perhatian investor beralih ke pergerakannya setelah pemisahan. Isu utamanya adalah apakah saham yang sudah naik tajam dapat mempertahankan momentum yang sama setelah perubahan struktur perusahaan. Naskah asli berfokus pada kenaikan harga saham Hanwha selama satu tahun dan prospek setelah pemisahan. Namun, arah harga saham ke depan disajikan sebagai pertanyaan dalam judul asli, tanpa tambahan angka kinerja atau proyeksi yang sudah dipastikan. Jadi fakta yang dapat dikonfirmasi saat ini adalah saham Hanwha naik sekitar dua kali lipat dalam setahun dan kelanjutan tren naik setelah pemisahan menjadi perhatian pasar. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "6f628f698b03",
+    "slug": "중동-불안에도반도체-업고-sp500나스닥-최고치-행진-뉴욕증시-브리핑-981441",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T22:36:29.361Z",
+    "updatedAt": "2026-05-11T22:36:29.361Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051295256",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051295256",
+    "titleFingerprint": "54faf296e56f2bd0c63b714bd556b7451a55c30f",
+    "dedupKeys": [
+      "6f628f698b03362238e624f6cb9047e51f45c1ba",
+      "54faf296e56f2bd0c63b714bd556b7451a55c30f",
+      "64ac929de90af273053378711de1916aa1428260"
+    ],
+    "imageUrl": "/images/articles/6f628f698b03.jpg",
+    "i18n": {
+      "ko": {
+        "title": "S&P500·나스닥 사상 최고치, 반도체 랠리·고용 호조가 중동 불안 눌렀다",
+        "excerpt": "8일 현지시간 뉴욕증시에서 S&P500과 나스닥이 반도체주 강세와 예상보다 견조한 고용 지표에 힘입어 사상 최고치를 다시 경신했다.",
+        "body": "8일 현지시간 미국 뉴욕증시에서 S&P500지수와 나스닥종합지수가 반도체주 강세와 고용 호조에 힘입어 나란히 사상 최고치를 다시 썼다. S&P500은 전장보다 61.82포인트, 0.84% 오른 7398.93에 마감했고 나스닥은 440.88포인트, 1.71% 상승한 2만6247.08에 거래를 마쳤다. 두 지수는 금요일 종가 기준 6주 연속 상승세를 이어갔다. 다우존스30산업평균지수는 12.19포인트, 0.02% 오른 4만9609.16으로 제한적인 흐름을 보였다. 중동발 유가 불안과 소비심리 악화에도 시장은 미국 경제의 견조한 흐름과 반도체 랠리에 더 주목했다. 인텔은 애플 계약 보도 영향으로 14% 급등했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "S&P 500 and Nasdaq Hit Records as Chip Rally and Jobs Data Offset Mideast Worries",
+        "excerpt": "On May 8 local time, the S&P 500 and Nasdaq reset record highs as semiconductor strength and firmer-than-expected U.S. jobs data outweighed oil and sentiment concerns.",
+        "body": "On May 8 local time, the S&P 500 and Nasdaq Composite both set fresh record highs in New York trading, supported by semiconductor gains and solid employment data. The S&P 500 closed up 61.82 points, or 0.84%, at 7,398.93, while the Nasdaq rose 440.88 points, or 1.71%, to 26,247.08. Based on Friday closes, the two indexes extended their winning streak to six weeks. The Dow Jones Industrial Average moved more narrowly, adding 12.19 points, or 0.02%, to 49,609.16. Despite oil-market unease linked to the Middle East and weaker consumer sentiment, investors focused more on the resilient U.S. economy and the semiconductor rally. Intel surged 14% after reports of an Apple contract. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "S&P500とナスダック最高値、半導体ラリーと雇用堅調が中東不安を上回る",
+        "excerpt": "現地時間8日のニューヨーク市場で、半導体株の上昇と予想以上に堅調な雇用指標を背景に、S&P500とナスダックが再び史上最高値を更新した。",
+        "body": "現地時間8日の米ニューヨーク株式市場で、S&P500指数とナスダック総合指数は、半導体株の強さと雇用の堅調さを支えにそろって史上最高値を更新した。S&P500は前日比61.82ポイント、0.84%高の7398.93で終了し、ナスダックは440.88ポイント、1.71%高の2万6247.08で取引を終えた。両指数は金曜日終値ベースで6週連続の上昇となった。ダウ工業株30種平均は12.19ポイント、0.02%高の4万9609.16と、比較的限定的な動きだった。中東発の原油不安や消費者心理の悪化にもかかわらず、市場は米経済の底堅さと半導体ラリーをより重視した。インテルはアップルとの契約報道を受けて14%急騰した。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "S&P500与纳指再创新高，半导体上涨和就业强劲抵消中东担忧",
+        "excerpt": "当地时间8日，纽约股市中S&P500和纳斯达克在半导体股走强及就业数据好于预期推动下，再次刷新历史高位。",
+        "body": "当地时间8日，美国纽约股市中，S&P500指数和纳斯达克综合指数在半导体股走强和就业表现稳健的推动下双双再创历史新高。S&P500较前一交易日上涨61.82点，涨幅0.84%，收于7398.93点；纳斯达克上涨440.88点，涨幅1.71%，收于26247.08点。按周五收盘价计算，两大指数已连续六周上涨。道琼斯工业平均指数走势相对有限，上涨12.19点，涨幅0.02%，收于49609.16点。尽管中东相关油价不安和消费者信心恶化带来压力，市场更关注美国经济的稳健走势和半导体板块上涨。受苹果合同相关报道影响，英特尔大涨14%。来源: hankyung.com"
+      },
+      "es": {
+        "title": "S&P 500 y Nasdaq marcan récords: chips y empleo sólido superan la tensión en Oriente Medio",
+        "excerpt": "El 8 de mayo, hora local, el S&P 500 y el Nasdaq renovaron máximos históricos gracias al avance de semiconductores y a datos laborales más firmes de lo previsto.",
+        "body": "El 8 de mayo, hora local, la bolsa de Nueva York vio al S&P 500 y al Nasdaq Composite renovar máximos históricos, impulsados por la fortaleza de los valores de semiconductores y por datos de empleo sólidos. El S&P 500 cerró con un alza de 61,82 puntos, o 0,84%, en 7.398,93, mientras que el Nasdaq subió 440,88 puntos, o 1,71%, hasta 26.247,08. Con base en los cierres de viernes, ambos índices encadenaron seis semanas de ganancias. El Dow Jones Industrial Average avanzó de forma más limitada, 12,19 puntos, o 0,02%, hasta 49.609,16. Pese a la inquietud por el petróleo vinculada a Oriente Medio y al deterioro de la confianza del consumidor, el mercado prestó más atención a la resistencia de la economía estadounidense y al rally de semiconductores. Intel se disparó un 14% tras informaciones sobre un contrato con Apple. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "S&P 500 e Nasdaq batem recordes com chips e emprego forte apesar da tensão no Oriente Médio",
+        "excerpt": "Em 8 de maio, no horário local, S&P 500 e Nasdaq renovaram máximas históricas com alta dos semicondutores e dados de emprego mais firmes que o esperado.",
+        "body": "Em 8 de maio, no horário local, a bolsa de Nova York viu o S&P 500 e o Nasdaq Composite renovarem máximas históricas, apoiados pela força das ações de semicondutores e por dados de emprego sólidos. O S&P 500 fechou em alta de 61,82 pontos, ou 0,84%, a 7.398,93, enquanto o Nasdaq avançou 440,88 pontos, ou 1,71%, para 26.247,08. Considerando os fechamentos de sexta-feira, os dois índices completaram seis semanas consecutivas de ganhos. O Dow Jones Industrial Average teve movimento mais limitado, subindo 12,19 pontos, ou 0,02%, para 49.609,16. Apesar da insegurança no petróleo ligada ao Oriente Médio e da piora da confiança do consumidor, o mercado deu mais peso à resiliência da economia dos EUA e ao rali dos semicondutores. A Intel saltou 14% após notícias sobre um contrato com a Apple. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "S&P 500 und Nasdaq auf Rekordhoch: Chip-Rally und starke Jobs überdecken Nahost-Sorgen",
+        "excerpt": "Am 8. Mai Ortszeit erreichten S&P 500 und Nasdaq neue Rekordstände, gestützt von Halbleiteraktien und solideren US-Arbeitsmarktdaten als erwartet.",
+        "body": "Am 8. Mai Ortszeit haben der S&P 500 und der Nasdaq Composite an der New Yorker Börse erneut Rekordstände erreicht, getragen von starken Halbleiterwerten und robusten Beschäftigungsdaten. Der S&P 500 schloss 61,82 Punkte oder 0,84% höher bei 7.398,93 Punkten, während der Nasdaq um 440,88 Punkte oder 1,71% auf 26.247,08 Punkte stieg. Auf Basis der Freitagsschlusskurse setzten beide Indizes ihre Gewinnserie die sechste Woche in Folge fort. Der Dow Jones Industrial Average bewegte sich deutlich verhaltener und legte um 12,19 Punkte oder 0,02% auf 49.609,16 Punkte zu. Trotz Ölpreisunsicherheit aus dem Nahen Osten und schwächerer Verbraucherstimmung achtete der Markt stärker auf die Widerstandskraft der US-Wirtschaft und die Halbleiter-Rally. Intel sprang nach Berichten über einen Apple-Vertrag um 14% an. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "S&P 500 et Nasdaq au plus haut, portés par les semi-conducteurs malgré le risque au Moyen-Orient",
+        "excerpt": "Le 8 mai, heure locale, le S&P 500 et le Nasdaq ont inscrit de nouveaux records grâce aux semi-conducteurs et à des données d’emploi américaines plus solides que prévu.",
+        "body": "Le 8 mai, heure locale, le S&P 500 et le Nasdaq Composite ont tous deux inscrit de nouveaux records à la Bourse de New York, soutenus par la hausse des valeurs de semi-conducteurs et par la solidité de l’emploi. Le S&P 500 a terminé en progression de 61,82 points, soit 0,84%, à 7.398,93 points, tandis que le Nasdaq a gagné 440,88 points, soit 1,71%, à 26.247,08 points. Sur la base des clôtures du vendredi, les deux indices ont enchaîné une sixième semaine de hausse. Le Dow Jones Industrial Average a évolué plus modestement, gagnant 12,19 points, soit 0,02%, à 49.609,16 points. Malgré les inquiétudes sur le pétrole liées au Moyen-Orient et la dégradation du moral des consommateurs, le marché s’est davantage concentré sur la résistance de l’économie américaine et le rally des semi-conducteurs. Intel a bondi de 14% après des informations sur un contrat avec Apple. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "S&P 500 وناسداك يسجلان قمما تاريخية بدعم الرقائق والوظائف رغم قلق الشرق الأوسط",
+        "excerpt": "في 8 مايو بالتوقيت المحلي، جدد مؤشرا S&P 500 وناسداك قممهما التاريخية بدعم من صعود أسهم أشباه الموصلات وبيانات توظيف أميركية أقوى من المتوقع.",
+        "body": "في 8 مايو بالتوقيت المحلي، سجل مؤشرا S&P 500 وناسداك المركب في بورصة نيويورك قمما تاريخية جديدة، بدعم من قوة أسهم أشباه الموصلات ومتانة بيانات التوظيف. أغلق S&P 500 مرتفعا 61.82 نقطة، أو 0.84%، عند 7398.93 نقطة، بينما صعد ناسداك 440.88 نقطة، أو 1.71%، إلى 26247.08 نقطة. وباحتساب إغلاقات أيام الجمعة، واصل المؤشران مكاسبهما للأسبوع السادس على التوالي. أما مؤشر داو جونز الصناعي فكانت حركته محدودة نسبيا، إذ ارتفع 12.19 نقطة، أو 0.02%، إلى 49609.16 نقطة. ورغم القلق المرتبط بأسعار النفط بسبب الشرق الأوسط وتراجع ثقة المستهلكين، ركز السوق أكثر على صلابة الاقتصاد الأميركي وصعود قطاع الرقائق. وقفز سهم إنتل 14% بعد تقارير عن عقد مع أبل. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "S&P 500 और Nasdaq रिकॉर्ड ऊंचाई पर, चिप रैली और मजबूत रोजगार ने मध्यपूर्व चिंता दबाई",
+        "excerpt": "स्थानीय समयानुसार 8 मई को S&P 500 और Nasdaq ने सेमीकंडक्टर शेयरों की मजबूती और उम्मीद से बेहतर रोजगार आंकड़ों के सहारे फिर रिकॉर्ड ऊंचाई बनाई।",
+        "body": "स्थानीय समयानुसार 8 मई को न्यूयॉर्क शेयर बाजार में S&P 500 सूचकांक और Nasdaq Composite ने सेमीकंडक्टर शेयरों की मजबूती और रोजगार आंकड़ों की ठोस स्थिति के सहारे फिर नए ऐतिहासिक उच्च स्तर बनाए। S&P 500 पिछले सत्र से 61.82 अंक, यानी 0.84%, बढ़कर 7398.93 पर बंद हुआ, जबकि Nasdaq 440.88 अंक, यानी 1.71%, चढ़कर 26247.08 पर बंद हुआ। शुक्रवार के बंद भाव के आधार पर दोनों सूचकांकों ने लगातार छठे सप्ताह बढ़त दर्ज की। Dow Jones Industrial Average की चाल अपेक्षाकृत सीमित रही और यह 12.19 अंक, यानी 0.02%, बढ़कर 49609.16 पर बंद हुआ। मध्यपूर्व से जुड़ी तेल कीमतों की चिंता और उपभोक्ता धारणा में कमजोरी के बावजूद बाजार ने अमेरिकी अर्थव्यवस्था की मजबूती और सेमीकंडक्टर रैली पर अधिक ध्यान दिया। Apple अनुबंध संबंधी रिपोर्ट के बाद Intel 14% उछला। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "S&P 500 dan Nasdaq Cetak Rekor, Reli Chip dan Data Kerja Kuat Redam Kekhawatiran Timur Tengah",
+        "excerpt": "Pada 8 Mei waktu setempat, S&P 500 dan Nasdaq kembali mencetak rekor tertinggi berkat penguatan saham semikonduktor dan data tenaga kerja AS yang lebih solid dari perkiraan.",
+        "body": "Pada 8 Mei waktu setempat, indeks S&P 500 dan Nasdaq Composite di bursa New York kembali mencetak rekor tertinggi, didukung penguatan saham semikonduktor dan data ketenagakerjaan yang solid. S&P 500 ditutup naik 61,82 poin, atau 0,84%, ke 7.398,93, sedangkan Nasdaq menguat 440,88 poin, atau 1,71%, ke 26.247,08. Berdasarkan penutupan hari Jumat, kedua indeks melanjutkan kenaikan selama enam minggu berturut-turut. Dow Jones Industrial Average bergerak lebih terbatas, naik 12,19 poin, atau 0,02%, ke 49.609,16. Meski ada kegelisahan harga minyak terkait Timur Tengah dan pelemahan sentimen konsumen, pasar lebih memperhatikan ketahanan ekonomi AS dan reli semikonduktor. Intel melonjak 14% setelah laporan mengenai kontrak dengan Apple. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "eb768091855e",
     "slug": "구윤철-올-성장률-2-넘는다확장재정으로-잠재성장률-높일-것-594621",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Hanon Systems Cetak Tertinggi 52 Pekan Saat Permintaan Mobil Hijau Eropa Pulih",
         "excerpt": "Hanon Systems menyentuh level tertinggi intraday 52 pekan karena pemulihan permintaan kendaraan ramah lingkungan di Eropa dan harapan perbaikan struktur keuangan.",
         "body": "Hanon Systems, perusahaan solusi manajemen termal otomotif, mencetak level tertinggi intraday dalam 52 pekan berkat pemulihan permintaan kendaraan ramah lingkungan di pasar Eropa dan ekspektasi perbaikan struktur keuangan. Saat Eropa juga bergerak dari mobil bermesin pembakaran internal menuju kendaraan elektrifikasi, pentingnya teknologi manajemen termal untuk mobil listrik dan ramah lingkungan kembali menjadi sorotan. Pasar mencermati strategi efisiensi biaya di seluruh perusahaan serta kemungkinan pulihnya permintaan terkait kendaraan listrik. Jika pemulihan pasar kendaraan ramah lingkungan berlanjut, ekspektasi kinerja dan perbaikan struktur keuangan dapat memengaruhi pergerakan saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d1ef99e58b6c",
-    "slug": "교보증권-국내주식-투자-이벤트-실시-600484",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T03:26:35.269Z",
-    "updatedAt": "2026-05-11T03:26:35.269Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043115",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043115",
-    "titleFingerprint": "79ec9110c6826384c2ec7a079fba2ebf82cc0853",
-    "dedupKeys": [
-      "d1ef99e58b6c310a94e5c2c2b16959ad133d4dfb",
-      "79ec9110c6826384c2ec7a079fba2ebf82cc0853",
-      "72e9f80a06c7a504d51f4d149be6f1b7fc2fb73c"
-    ],
-    "imageUrl": "/images/articles/d1ef99e58b6c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "교보증권 국내주식 투자 이벤트, 신규·기존 고객 대상 진행",
-        "excerpt": "교보증권은 11일 신규 및 기존 고객을 대상으로 국내주식형 펀드, 자문형랩, 투자일임계약 상품을 포함한 국내주식 투자 이벤트를 실시한다고 밝혔다.",
-        "body": "교보증권은 11일 신규 고객과 기존 고객을 대상으로 ‘국내주식 투자 이벤트’를 실시한다고 밝혔다. 이번 이벤트는 맞춤형 자산관리가 가능한 국내주식형 펀드, 자문형랩, 투자일임계약 상품을 중심으로 진행된다. 교보증권은 국내주식 투자에 관심이 있는 고객에게 관련 상품을 접할 기회를 제공하는 취지로 이번 이벤트를 마련했다. 신규 고객뿐 아니라 기존 고객도 대상에 포함돼 고객층 전반의 참여를 유도할 것으로 보인다. 다만 이벤트의 세부 조건과 혜택은 교보증권 안내를 통해 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kyobo Securities Launches Domestic Stock Investment Event for Clients",
-        "excerpt": "Kyobo Securities said on May 11 it will hold a domestic stock investment event for new and existing clients, covering equity funds, advisory wraps and discretionary investment contracts.",
-        "body": "Kyobo Securities announced on May 11 that it will hold a “domestic stock investment event” for both new and existing clients. The event centers on domestic equity funds, advisory wrap products and discretionary investment contract products that can support customized asset management. Kyobo Securities prepared the event to give clients interested in domestic stock investing an opportunity to access related products. Because existing clients as well as new clients are included, the event is expected to encourage participation across its customer base. Detailed conditions and benefits should be checked through Kyobo Securities’ official guidance. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "教保証券、国内株式投資イベントを新規・既存顧客向けに実施",
-        "excerpt": "教保証券は11日、新規および既存顧客を対象に、国内株式型ファンド、助言型ラップ、投資一任契約商品を含む国内株式投資イベントを実施すると発表した。",
-        "body": "教保証券は11日、新規顧客と既存顧客を対象に「国内株式投資イベント」を実施すると明らかにした。今回のイベントは、オーダーメイド型の資産管理が可能な国内株式型ファンド、助言型ラップ、投資一任契約商品を中心に行われる。教保証券は、国内株式投資に関心を持つ顧客に関連商品へ接する機会を提供する趣旨で今回のイベントを用意した。新規顧客だけでなく既存顧客も対象に含まれるため、幅広い顧客層の参加を促すものとみられる。ただし、イベントの詳細条件や特典は教保証券の案内で確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "教保证券面向新老客户推出韩国股票投资活动",
-        "excerpt": "教保证券11日表示，将面向新客户和现有客户开展韩国股票投资活动，涵盖韩国股票型基金、顾问型综合账户及投资全权委托合同产品。",
-        "body": "教保证券11日宣布，将面向新客户和现有客户开展“韩国股票投资活动”。此次活动以可进行定制化资产管理的韩国股票型基金、顾问型综合账户以及投资全权委托合同产品为中心。教保证券推出该活动，旨在为对韩国股票投资感兴趣的客户提供接触相关产品的机会。由于活动对象不仅包括新客户，也包括现有客户，预计将带动更广泛客户群体参与。不过，活动的具体条件和优惠内容仍需通过教保证券的正式 안내 확인。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kyobo Securities lanza evento de inversión en acciones coreanas",
-        "excerpt": "Kyobo Securities anunció el 11 de mayo un evento de inversión en acciones coreanas para clientes nuevos y actuales, con fondos de renta variable, wraps asesorados y contratos discrecionales.",
-        "body": "Kyobo Securities informó el 11 de mayo que realizará un “evento de inversión en acciones nacionales” dirigido a clientes nuevos y actuales. La iniciativa se centra en fondos de acciones coreanas, productos de wrap asesorado y contratos de gestión discrecional de inversiones que permiten una administración de activos personalizada. La firma preparó el evento para ofrecer a los clientes interesados en invertir en acciones coreanas una oportunidad de conocer productos relacionados. Al incluir tanto a clientes nuevos como existentes, se espera que fomente la participación de una base amplia de usuarios. Las condiciones y beneficios detallados deben consultarse en la información oficial de Kyobo Securities. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kyobo Securities realiza evento de investimento em ações coreanas",
-        "excerpt": "A Kyobo Securities anunciou em 11 de maio um evento de investimento em ações coreanas para clientes novos e atuais, incluindo fundos de ações, wraps consultivos e contratos discricionários.",
-        "body": "A Kyobo Securities informou em 11 de maio que realizará um “evento de investimento em ações domésticas” voltado a clientes novos e atuais. A iniciativa será centrada em fundos de ações coreanas, produtos de wrap consultivo e contratos de gestão discricionária de investimentos que permitem administração de ativos personalizada. A Kyobo Securities preparou o evento para oferecer aos clientes interessados em investir em ações coreanas uma oportunidade de conhecer produtos relacionados. Como inclui clientes novos e existentes, a ação deve incentivar a participação de uma base ampla de clientes. As condições e os benefícios detalhados devem ser verificados nos canais oficiais da Kyobo Securities. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kyobo Securities startet Investmentaktion für koreanische Aktien",
-        "excerpt": "Kyobo Securities kündigte am 11. Mai eine Investmentaktion für koreanische Aktien für Neu- und Bestandskunden an, darunter Aktienfonds, Beratungs-Wraps und Vermögensverwaltungsverträge.",
-        "body": "Kyobo Securities teilte am 11. Mai mit, eine „Investmentaktion für inländische Aktien“ für Neu- und Bestandskunden zu starten. Im Mittelpunkt stehen koreanische Aktienfonds, beratungsbasierte Wrap-Produkte und diskretionäre Investmentvertragsprodukte, die eine maßgeschneiderte Vermögensverwaltung ermöglichen. Kyobo Securities hat die Aktion vorbereitet, um Kunden mit Interesse an koreanischen Aktien Zugang zu entsprechenden Produkten zu bieten. Da nicht nur Neukunden, sondern auch Bestandskunden einbezogen werden, dürfte die Aktion die Teilnahme einer breiteren Kundengruppe fördern. Die genauen Bedingungen und Vorteile sollten über die Hinweise von Kyobo Securities geprüft werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Kyobo Securities lance un événement d’investissement en actions coréennes",
-        "excerpt": "Kyobo Securities a annoncé le 11 mai un événement d’investissement en actions coréennes destiné aux nouveaux clients et aux clients existants, avec fonds actions, wraps conseillés et mandats de gestion.",
-        "body": "Kyobo Securities a annoncé le 11 mai le lancement d’un « événement d’investissement en actions nationales » destiné aux nouveaux clients et aux clients existants. L’opération porte principalement sur des fonds d’actions coréennes, des produits de wrap avec conseil et des contrats de gestion discrétionnaire permettant une gestion d’actifs personnalisée. Kyobo Securities a préparé cet événement afin d’offrir aux clients intéressés par l’investissement en actions coréennes une occasion d’accéder à des produits liés. Comme les clients existants sont inclus aux côtés des nouveaux clients, l’initiative devrait encourager la participation d’un large éventail de clients. Les conditions et avantages détaillés doivent être vérifiés auprès de Kyobo Securities. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كيوبو للأوراق المالية تطلق فعالية للاستثمار في الأسهم المحلية",
-        "excerpt": "أعلنت كيوبو للأوراق المالية في 11 مايو أنها ستنظم فعالية للاستثمار في الأسهم المحلية للعملاء الجدد والحاليين، تشمل صناديق الأسهم الكورية وحسابات الاستشارات وعقود إدارة الاستثمار.",
-        "body": "أعلنت كيوبو للأوراق المالية في 11 مايو أنها ستنظم “فعالية للاستثمار في الأسهم المحلية” تستهدف العملاء الجدد والحاليين. وتركز الفعالية على صناديق الأسهم المحلية، ومنتجات الحسابات الاستثمارية ذات الطابع الاستشاري، وعقود إدارة الاستثمار بالوكالة، وهي منتجات تتيح إدارة أصول مخصصة. وأعدت كيوبو للأوراق المالية هذه الفعالية بهدف إتاحة فرصة للعملاء المهتمين بالاستثمار في الأسهم المحلية للتعرف إلى المنتجات ذات الصلة. وبما أن الفعالية تشمل العملاء الحاليين إلى جانب الجدد، فمن المتوقع أن تشجع مشاركة شريحة أوسع من العملاء. ويجب التحقق من الشروط والمزايا التفصيلية عبر إرشادات كيوبو للأوراق المالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "क्योबो सिक्योरिटीज ने घरेलू शेयर निवेश कार्यक्रम शुरू किया",
-        "excerpt": "क्योबो सिक्योरिटीज ने 11 मई को नए और मौजूदा ग्राहकों के लिए घरेलू शेयर निवेश कार्यक्रम की घोषणा की, जिसमें इक्विटी फंड, एडवाइजरी रैप और निवेश विवेकाधीन अनुबंध शामिल हैं।",
-        "body": "क्योबो सिक्योरिटीज ने 11 मई को घोषणा की कि वह नए और मौजूदा ग्राहकों के लिए “घरेलू शेयर निवेश कार्यक्रम” आयोजित करेगी। यह कार्यक्रम घरेलू शेयर-आधारित फंड, एडवाइजरी रैप और निवेश विवेकाधीन अनुबंध उत्पादों पर केंद्रित है, जिनके जरिए अनुकूलित परिसंपत्ति प्रबंधन संभव है। कंपनी ने यह कार्यक्रम घरेलू शेयर निवेश में रुचि रखने वाले ग्राहकों को संबंधित उत्पादों तक पहुंच का अवसर देने के उद्देश्य से तैयार किया है। इसमें नए ग्राहकों के साथ मौजूदा ग्राहकों को भी शामिल किया गया है, इसलिए व्यापक ग्राहक वर्ग की भागीदारी को बढ़ावा मिलने की उम्मीद है। कार्यक्रम की विस्तृत शर्तें और लाभ क्योबो सिक्योरिटीज की 안내를 통해 확인해야 합니다. स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kyobo Securities Gelar Event Investasi Saham Domestik untuk Nasabah",
-        "excerpt": "Kyobo Securities pada 11 Mei mengumumkan event investasi saham domestik bagi nasabah baru dan lama, mencakup reksa dana saham domestik, advisory wrap, dan kontrak pengelolaan investasi.",
-        "body": "Kyobo Securities pada 11 Mei mengumumkan akan menggelar “event investasi saham domestik” untuk nasabah baru dan nasabah lama. Event ini berfokus pada reksa dana saham domestik, produk advisory wrap, dan produk kontrak pengelolaan investasi yang memungkinkan pengelolaan aset secara khusus. Kyobo Securities menyiapkan event ini untuk memberi kesempatan kepada nasabah yang tertarik pada investasi saham domestik agar dapat mengenal produk terkait. Karena mencakup nasabah baru sekaligus nasabah lama, kegiatan ini diperkirakan mendorong partisipasi dari basis nasabah yang lebih luas. Syarat dan manfaat rinci perlu 확인 melalui 안내 resmi Kyobo Securities. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f79b3fbac1f0",
-    "slug": "토스증권-한국콜마-실적-잘못표기-또-반복했나7개월-전에도-오류-주장-나와-955767",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T03:25:40.182Z",
-    "updatedAt": "2026-05-11T03:25:40.182Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043125",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043125",
-    "titleFingerprint": "19b40cc72cf2704dd180d209935ad52fef0eed75",
-    "dedupKeys": [
-      "f79b3fbac1f0b62e0f312bdc58120ccea5d8b5ce",
-      "19b40cc72cf2704dd180d209935ad52fef0eed75",
-      "81f0e4c0d2c4a45fc98f905d42e9b386e9b84fd7"
-    ],
-    "imageUrl": "/images/articles/f79b3fbac1f0.png",
-    "i18n": {
-      "ko": {
-        "title": "토스증권, 한국콜마 실적 ‘어닝 쇼크’ 표기 논란 재점화",
-        "excerpt": "토스증권이 올해 1분기 사상 최대 분기 실적을 낸 한국콜마의 실적을 ‘어닝 쇼크’로 표기했다는 주장이 나오며 7개월 전 오류 논란이 다시 거론됐다.",
-        "body": "토스증권이 한국콜마의 올해 1분기 실적을 ‘어닝 쇼크’로 표기했다는 주장이 제기되며 실적 정보 표시 오류 논란이 다시 불거졌다. 한국콜마는 1분기에 사상 최대 분기 실적을 달성한 것으로 알려졌지만, 일부 주주는 이를 어닝 서프라이즈가 아닌 어닝 쇼크로 잘못 표시했다고 주장했다. 해당 주주는 지난해 3분기에도 유사한 오류가 있었다며 약 7개월 만에 같은 문제가 반복됐다고 지적했다. 증권 플랫폼의 실적 표기는 투자 판단에 참고되는 정보인 만큼 정확성 논란이 이어질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Toss Securities Faces Renewed Scrutiny Over Kolmar Korea Earnings Label",
-        "excerpt": "Toss Securities is again under scrutiny after a shareholder claimed Kolmar Korea’s record first-quarter results were mislabeled as an “earnings shock,” recalling a similar issue seven months ago.",
-        "body": "Toss Securities is facing renewed controversy after a claim that it labeled Kolmar Korea’s first-quarter results as an “earnings shock.” Kolmar Korea reportedly achieved its highest-ever quarterly performance in the first quarter, but a shareholder said the figures should have been shown as an earnings surprise, not an earnings shock. The shareholder argued that a similar error occurred in last year’s third quarter, suggesting the issue has repeated about seven months later. Because earnings labels on brokerage platforms can be used as reference points for investment decisions, questions over accuracy may continue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "トス証券、韓国コルマー実績を「業績ショック」表記か 再び論議",
-        "excerpt": "トス証券が今年1四半期に過去最高の四半期実績を出した韓国コルマーを「業績ショック」と表記したとの主張が出て、7カ月前の誤表記論議が再浮上した。",
-        "body": "トス証券が韓国コルマーの今年第1四半期実績を「業績ショック」と表記したとの主張が提起され、実績情報の表示ミスをめぐる論議が再び浮上した。韓国コルマーは第1四半期に過去最高の四半期実績を達成したとされるが、一部株主はこれを業績サプライズではなく業績ショックと誤って表示したと主張した。この株主は昨年第3四半期にも類似の誤りがあったとして、約7カ月ぶりに同じ問題が繰り返されたと指摘した。証券プラットフォームの実績表示は投資判断の参考情報となるため、正確性をめぐる議論が続く可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Toss证券被指再误标韩国科玛业绩，“盈利冲击”争议重现",
-        "excerpt": "有股东称，Toss证券将今年一季度创下史上最高季度业绩的韩国科玛标为“盈利冲击”，使7个月前的错误标注争议再次被提起。",
-        "body": "Toss证券被指将韩国科玛今年第一季度业绩标注为“盈利冲击”，有关业绩信息显示错误的争议再次浮出水面。据悉，韩国科玛今年第一季度实现史上最高季度业绩，但部分股东认为该业绩应被视为盈利惊喜，而非盈利冲击，并称平台存在误标。该股东还指出，去年第三季度也曾出现类似错误，约7个月后同样问题再次发生。由于证券平台上的业绩标注可能成为投资判断的参考信息，其准确性争议或将持续。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Toss Securities reaviva polémica por etiqueta de resultados de Kolmar Korea",
-        "excerpt": "Toss Securities vuelve a estar bajo cuestionamiento tras la afirmación de que marcó como “earnings shock” los resultados récord del primer trimestre de Kolmar Korea.",
-        "body": "Toss Securities volvió a quedar en el centro de una polémica después de que se afirmara que etiquetó los resultados del primer trimestre de Kolmar Korea como “earnings shock”. Según la información original, Kolmar Korea logró en ese periodo su mayor resultado trimestral histórico, pero un accionista sostuvo que debía mostrarse como una sorpresa positiva de resultados y no como un shock. El mismo accionista señaló que en el tercer trimestre del año pasado ya se había producido un error similar, por lo que el problema se habría repetido unos siete meses después. Dado que estas etiquetas en plataformas bursátiles pueden servir de referencia para decisiones de inversión, la discusión sobre su precisión podría continuar. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Toss Securities volta a ser questionada por rótulo de resultados da Kolmar Korea",
-        "excerpt": "A Toss Securities voltou ao centro da controvérsia após a alegação de que marcou como “earnings shock” o resultado recorde do primeiro trimestre da Kolmar Korea.",
-        "body": "A Toss Securities voltou a enfrentar controvérsia depois da alegação de que classificou os resultados do primeiro trimestre da Kolmar Korea como “earnings shock”. Segundo o relato original, a Kolmar Korea alcançou no período seu maior desempenho trimestral histórico, mas um acionista afirmou que o dado deveria aparecer como surpresa positiva de resultados, não como choque. O acionista disse ainda que um erro semelhante teria ocorrido no terceiro trimestre do ano passado, indicando repetição do problema cerca de sete meses depois. Como rótulos de resultados em plataformas de corretagem podem orientar decisões de investimento, a discussão sobre precisão pode continuar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Toss Securities erneut wegen Kolmar-Korea-Ergebnislabel in der Kritik",
-        "excerpt": "Toss Securities steht erneut in der Kritik, nachdem ein Aktionär behauptete, Kolmar Koreas Rekordergebnis im ersten Quartal sei als “Earnings Shock” ausgewiesen worden.",
-        "body": "Toss Securities sieht sich erneut mit Kritik konfrontiert, nachdem behauptet wurde, die Plattform habe Kolmar Koreas Ergebnis für das erste Quartal als “Earnings Shock” ausgewiesen. Kolmar Korea soll in diesem Quartal das höchste Quartalsergebnis seiner Geschichte erzielt haben, doch ein Aktionär erklärte, die Zahlen hätten als positive Ergebnisüberraschung und nicht als Schock dargestellt werden müssen. Derselbe Aktionär verwies darauf, dass es bereits im dritten Quartal des Vorjahres einen ähnlichen Fehler gegeben habe, sodass sich das Problem nach rund sieben Monaten wiederholt habe. Da Ergebniskennzeichnungen auf Brokerplattformen als Orientierung für Anlageentscheidungen dienen können, dürfte die Debatte über Genauigkeit anhalten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Toss Securities de nouveau critiqué pour l’étiquette des résultats de Kolmar Korea",
-        "excerpt": "Toss Securities est de nouveau mis en cause après l’affirmation selon laquelle les résultats record du premier trimestre de Kolmar Korea ont été indiqués comme un “earnings shock”.",
-        "body": "Toss Securities fait de nouveau face à une controverse après l’affirmation selon laquelle la plateforme aurait présenté les résultats du premier trimestre de Kolmar Korea comme un “earnings shock”. Selon les informations d’origine, Kolmar Korea a réalisé son meilleur résultat trimestriel historique au premier trimestre, mais un actionnaire a soutenu que ces chiffres auraient dû être indiqués comme une surprise positive de résultats, et non comme un choc. Il a également rappelé qu’une erreur similaire aurait eu lieu au troisième trimestre de l’an dernier, estimant que le même problème se répète environ sept mois plus tard. Comme ces libellés peuvent servir de repères aux investisseurs, le débat sur leur exactitude pourrait se poursuivre. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "توس سيكيوريتيز تواجه جدلا جديدا حول تصنيف نتائج كولمار كوريا",
-        "excerpt": "عادت توس سيكيوريتيز إلى دائرة الجدل بعد ادعاء بأن نتائج كولمار كوريا القياسية في الربع الأول صُنفت على أنها “صدمة أرباح” بدلا من مفاجأة إيجابية.",
-        "body": "تواجه توس سيكيوريتيز جدلا جديدا بعد طرح ادعاء بأنها وصفت نتائج كولمار كوريا للربع الأول من هذا العام بأنها “صدمة أرباح”. ووفقا للمعلومات الأصلية، حققت كولمار كوريا أعلى أداء فصلي في تاريخها خلال الربع الأول، لكن أحد المساهمين قال إن النتائج كان ينبغي عرضها كمفاجأة إيجابية في الأرباح لا كصدمة. وأشار المساهم نفسه إلى أن خطأ مشابها ظهر في الربع الثالث من العام الماضي، معتبرا أن المشكلة تكررت بعد نحو سبعة أشهر. وبما أن تصنيفات النتائج على منصات الأوراق المالية قد تُستخدم كمرجع في قرارات الاستثمار، فقد يستمر الجدل حول دقتها. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Toss Securities पर Kolmar Korea नतीजों की गलत लेबलिंग का विवाद फिर उठा",
-        "excerpt": "एक शेयरधारक ने दावा किया कि Toss Securities ने Kolmar Korea के रिकॉर्ड पहली तिमाही नतीजों को “earnings shock” लिखा, जिससे सात महीने पुराना विवाद फिर सामने आया।",
-        "body": "Toss Securities पर Kolmar Korea के इस साल की पहली तिमाही के नतीजों को “earnings shock” के रूप में दिखाने का दावा सामने आने के बाद विवाद फिर उठ गया है। मूल जानकारी के अनुसार, Kolmar Korea ने पहली तिमाही में अपना अब तक का सबसे बड़ा तिमाही प्रदर्शन दर्ज किया, लेकिन एक शेयरधारक ने कहा कि इसे earnings surprise के रूप में दिखाया जाना चाहिए था, न कि earnings shock के रूप में। उस शेयरधारक ने यह भी कहा कि पिछले साल की तीसरी तिमाही में भी ऐसा ही त्रुटि दावा सामने आया था, इसलिए करीब सात महीने बाद वही समस्या दोहराई गई। ब्रोकरेज प्लेटफॉर्म पर ऐसी लेबलिंग निवेश निर्णयों के संदर्भ में इस्तेमाल हो सकती है, इसलिए सटीकता पर सवाल जारी रह सकते हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Toss Securities kembali disorot soal label kinerja Kolmar Korea",
-        "excerpt": "Toss Securities kembali menuai sorotan setelah ada klaim bahwa kinerja kuartal I Kolmar Korea yang mencetak rekor ditandai sebagai “earnings shock”.",
-        "body": "Toss Securities kembali menghadapi kontroversi setelah muncul klaim bahwa hasil kuartal pertama Kolmar Korea diberi label “earnings shock”. Berdasarkan informasi awal, Kolmar Korea mencatat kinerja kuartalan tertinggi sepanjang sejarah pada kuartal pertama tahun ini, tetapi seorang pemegang saham menyatakan bahwa hasil tersebut seharusnya ditampilkan sebagai earnings surprise, bukan earnings shock. Pemegang saham itu juga menyebut kesalahan serupa pernah terjadi pada kuartal ketiga tahun lalu, sehingga masalah yang sama dinilai berulang sekitar tujuh bulan kemudian. Karena label kinerja di platform sekuritas dapat menjadi rujukan dalam keputusan investasi, perdebatan soal akurasi berpotensi berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1b98729d9bea",
-    "slug": "uck-2100억원에-만전식품-품는다-149028",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T03:24:34.129Z",
-    "updatedAt": "2026-05-11T03:24:34.129Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043127",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043127",
-    "titleFingerprint": "01c3fa6f2e2a9ad86d9bbbe4186fc122edf85ccc",
-    "dedupKeys": [
-      "1b98729d9bea70e24207f055821ded2c6a58c976",
-      "01c3fa6f2e2a9ad86d9bbbe4186fc122edf85ccc",
-      "9800830e23a5922811c9c22ad4ec9e03ff8abea5"
-    ],
-    "imageUrl": "/images/articles/1b98729d9bea.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국내 PEF 운용사 UCK파트너스, 2100억원에 ‘만전김’ 만전식품 품는다",
-        "excerpt": "국내 사모펀드 운용사 UCK파트너스가 5월 11일 보도된 레이더M 기사에 따르면 ‘만전김’을 판매하는 만전식품을 2100억원에 인수하는 거래에 나섰다.",
-        "body": "국내 사모펀드(PEF) 운용사 UCK파트너스가 ‘만전김’을 판매하는 만전식품을 2100억원에 품는다. 매일경제 자본시장 전문 유료매체 레이더M은 5월 11일 11시 42분 이 같은 내용을 보도했다. 이번 거래의 핵심 수치는 인수 금액 2100억원이며, 인수 대상은 김 제품 브랜드 ‘만전김’을 판매하는 만전식품이다. 식품 브랜드를 보유한 기업이 국내 PEF 운용사의 투자 대상으로 거론됐다는 점에서 관련 인수·합병 시장의 관심이 이어질 전망이다. 세부 거래 조건과 향후 일정은 제공된 원문 요약에 포함되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "UCK Partners to Acquire Manjeon Food, Seller of Manjeon Gim, for 210 Billion Won",
-        "excerpt": "UCK Partners, a South Korean private equity firm, is moving to acquire Manjeon Food, which sells the Manjeon Gim brand, for 210 billion won, according to a May 11 RadarM report.",
-        "body": "UCK Partners, a South Korean private equity fund manager, is set to acquire Manjeon Food, the company that sells the Manjeon Gim brand, for 210 billion won. Maeil Business Newspaper’s paid capital markets outlet RadarM reported the deal at 11:42 a.m. on May 11. The key disclosed figure is the 210 billion won acquisition price, and the target is Manjeon Food, known in the report for selling Manjeon Gim products. The transaction places a branded food company within the focus of a domestic private equity manager, drawing attention from the related M&A market. Further deal terms and the timetable were not included in the provided summary. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "UCKパートナーズ、2100億ウォンで「万田のり」販売の万田食品を買収へ",
-        "excerpt": "韓国のPEF運用会社UCKパートナーズが、5月11日のレーダーM報道によると、「万田のり」を販売する万田食品を2100億ウォンで買収する取引に乗り出した。",
-        "body": "韓国のプライベートエクイティファンド（PEF）運用会社UCKパートナーズが、「万田のり」を販売する万田食品を2100億ウォンで取得する。毎日経済の資本市場専門有料媒体レーダーMが5月11日午前11時42分に報じた。今回の取引で明らかになっている中心的な数値は買収額2100億ウォンで、対象企業はのり製品ブランド「万田のり」を販売する万田食品だ。食品ブランドを持つ企業が韓国国内PEF運用会社の投資対象として報じられたことで、関連するM&A市場の関心が続く見通しだ。詳細な取引条件や今後の日程は、提供された原文要約には含まれていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "UCK Partners拟以2100亿韩元收购销售“万田紫菜”的万田食品",
-        "excerpt": "据5月11日RadarM报道，韩国私募基金管理公司UCK Partners正推进以2100亿韩元收购销售“万田紫菜”的万田食品。",
-        "body": "韩国私募股权基金（PEF）管理公司UCK Partners将以2100亿韩元收购销售“万田紫菜”的万田食品。每日经济旗下资本市场专业付费媒体RadarM于5月11日11时42分报道了这一消息。此次交易披露的核心数字是收购金额2100亿韩元，收购对象为销售紫菜产品品牌“万田紫菜”的万田食品。拥有食品品牌的企业成为韩国本土PEF管理公司的投资对象，预计将继续受到相关并购市场关注。具体交易条件和后续时间表未包含在所提供的原文摘要中。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "UCK Partners comprará Manjeon Food, vendedora de Manjeon Gim, por 210.000 millones de wones",
-        "excerpt": "UCK Partners, gestora surcoreana de capital privado, avanza en la compra de Manjeon Food, que vende la marca Manjeon Gim, por 210.000 millones de wones, según RadarM el 11 de mayo.",
-        "body": "UCK Partners, gestora surcoreana de fondos de capital privado (PEF), adquirirá Manjeon Food, la empresa que vende la marca Manjeon Gim, por 210.000 millones de wones. RadarM, medio de pago especializado en mercado de capitales de Maeil Business Newspaper, informó la noticia el 11 de mayo a las 11:42. La cifra clave revelada es el precio de adquisición de 210.000 millones de wones, y el objetivo es Manjeon Food, vinculada en el reporte a los productos de algas Manjeon Gim. La operación sitúa a una compañía con marca alimentaria como objetivo de inversión de una gestora local de private equity, por lo que atraerá atención del mercado de fusiones y adquisiciones. El resumen facilitado no incluye condiciones detalladas ni calendario. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "UCK Partners comprará Manjeon Food, dona da marca Manjeon Gim, por 210 bilhões de wones",
-        "excerpt": "A gestora sul-coreana de private equity UCK Partners avança para adquirir a Manjeon Food, vendedora da marca Manjeon Gim, por 210 bilhões de wones, segundo o RadarM em 11 de maio.",
-        "body": "A UCK Partners, gestora sul-coreana de fundos de private equity (PEF), vai adquirir a Manjeon Food, empresa que vende a marca Manjeon Gim, por 210 bilhões de wones. O RadarM, veículo pago da Maeil Business Newspaper especializado em mercado de capitais, publicou a informação em 11 de maio, às 11h42. O principal número divulgado é o valor de aquisição de 210 bilhões de wones, e o alvo é a Manjeon Food, citada pelo relatório como vendedora dos produtos de alga Manjeon Gim. A operação coloca uma empresa com marca de alimentos no foco de uma gestora local de private equity, mantendo a atenção do mercado de fusões e aquisições. O resumo fornecido não traz condições detalhadas nem cronograma. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "UCK Partners übernimmt Manjeon Food, Verkäufer von Manjeon Gim, für 210 Mrd. Won",
-        "excerpt": "Der südkoreanische Private-Equity-Manager UCK Partners will laut einem RadarM-Bericht vom 11. Mai Manjeon Food, Verkäufer der Marke Manjeon Gim, für 210 Mrd. Won übernehmen.",
-        "body": "UCK Partners, ein südkoreanischer Private-Equity-Fondsmanager, übernimmt Manjeon Food, das Unternehmen hinter dem Verkauf der Marke Manjeon Gim, für 210 Mrd. Won. RadarM, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, berichtete dies am 11. Mai um 11:42 Uhr. Die zentrale veröffentlichte Kennzahl ist der Kaufpreis von 210 Mrd. Won; Ziel der Transaktion ist Manjeon Food, im Bericht als Verkäufer von Manjeon-Gim-Produkten genannt. Damit rückt ein Unternehmen mit einer Lebensmittelmarke in den Fokus eines heimischen Private-Equity-Managers, was die Aufmerksamkeit des M&A-Marktes auf sich ziehen dürfte. Detaillierte Bedingungen und ein Zeitplan waren in der bereitgestellten Zusammenfassung nicht enthalten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "UCK Partners va acquérir Manjeon Food, vendeur de Manjeon Gim, pour 210 milliards de wons",
-        "excerpt": "UCK Partners, gestionnaire sud-coréen de capital-investissement, va acquérir Manjeon Food, qui vend la marque Manjeon Gim, pour 210 milliards de wons, selon RadarM le 11 mai.",
-        "body": "UCK Partners, gestionnaire sud-coréen de fonds de capital-investissement (PEF), va acquérir Manjeon Food, société qui vend la marque Manjeon Gim, pour 210 milliards de wons. RadarM, média payant de Maeil Business Newspaper spécialisé dans les marchés de capitaux, a rapporté l’information le 11 mai à 11h42. Le chiffre clé communiqué est le prix d’acquisition de 210 milliards de wons, et la cible est Manjeon Food, citée comme vendeuse des produits d’algues Manjeon Gim. L’opération place une entreprise détentrice d’une marque alimentaire dans le champ d’investissement d’un gestionnaire local de private equity, attirant l’attention du marché des fusions-acquisitions. Les conditions détaillées et le calendrier ne figurent pas dans le résumé fourni. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "UCK Partners تستحوذ على Manjeon Food بائعة Manjeon Gim مقابل 210 مليارات وون",
-        "excerpt": "تتجه شركة UCK Partners الكورية الجنوبية لإدارة صناديق الملكية الخاصة إلى شراء Manjeon Food، التي تبيع علامة Manjeon Gim، مقابل 210 مليارات وون، وفق تقرير RadarM في 11 مايو.",
-        "body": "تستعد UCK Partners، وهي شركة كورية جنوبية لإدارة صناديق الملكية الخاصة، للاستحواذ على Manjeon Food، الشركة التي تبيع علامة Manjeon Gim، مقابل 210 مليارات وون. ونشر RadarM، الوسيط المدفوع المتخصص في أسواق رأس المال التابع لصحيفة Maeil Business Newspaper، التقرير في 11 مايو عند الساعة 11:42. الرقم الرئيسي المعلن هو قيمة الاستحواذ البالغة 210 مليارات وون، أما الهدف فهو Manjeon Food المرتبطة في التقرير بمنتجات Manjeon Gim. وتضع الصفقة شركة تملك علامة غذائية ضمن دائرة استثمار مدير محلي للملكية الخاصة، ما يجذب اهتمام سوق الاندماج والاستحواذ. لم يتضمن الملخص المقدم شروط الصفقة التفصيلية أو جدولها الزمني. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "UCK Partners 210 अरब वॉन में Manjeon Gim बेचने वाली Manjeon Food खरीदेगी",
-        "excerpt": "दक्षिण कोरियाई निजी इक्विटी प्रबंधक UCK Partners 11 मई की RadarM रिपोर्ट के अनुसार Manjeon Gim बेचने वाली Manjeon Food को 210 अरब वॉन में खरीदने की प्रक्रिया में है।",
-        "body": "दक्षिण कोरिया की निजी इक्विटी फंड (PEF) प्रबंधक UCK Partners, Manjeon Gim बेचने वाली Manjeon Food को 210 अरब वॉन में अधिग्रहित करेगी। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया RadarM ने 11 मई को सुबह 11:42 बजे यह जानकारी दी। इस सौदे का मुख्य खुलासा अधिग्रहण मूल्य 210 अरब वॉन है, और लक्ष्य कंपनी Manjeon Food है, जिसे रिपोर्ट में Manjeon Gim उत्पाद बेचने वाली कंपनी बताया गया है। खाद्य ब्रांड वाली कंपनी का घरेलू PEF प्रबंधक के निवेश लक्ष्य के रूप में सामने आना संबंधित विलय और अधिग्रहण बाजार का ध्यान खींच सकता है। उपलब्ध कराए गए मूल सारांश में विस्तृत शर्तें और आगे की समयसारिणी शामिल नहीं हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "UCK Partners Akuisisi Manjeon Food, Penjual Manjeon Gim, Senilai 210 Miliar Won",
-        "excerpt": "UCK Partners, manajer ekuitas swasta Korea Selatan, bergerak mengakuisisi Manjeon Food, penjual merek Manjeon Gim, senilai 210 miliar won, menurut laporan RadarM pada 11 Mei.",
-        "body": "UCK Partners, manajer dana ekuitas swasta (PEF) asal Korea Selatan, akan mengakuisisi Manjeon Food, perusahaan yang menjual merek Manjeon Gim, senilai 210 miliar won. RadarM, media berbayar Maeil Business Newspaper yang berfokus pada pasar modal, melaporkan kabar ini pada 11 Mei pukul 11.42. Angka utama yang diungkap adalah nilai akuisisi 210 miliar won, dengan target Manjeon Food, yang disebut dalam laporan sebagai penjual produk rumput laut Manjeon Gim. Transaksi ini menempatkan perusahaan pemilik merek makanan sebagai sasaran investasi manajer private equity domestik, sehingga menarik perhatian pasar merger dan akuisisi. Ringkasan sumber yang diberikan tidak memuat syarat rinci maupun jadwal berikutnya. Sumber: mk.co.kr"
       }
     }
   }
