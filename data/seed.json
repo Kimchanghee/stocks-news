@@ -1,5 +1,230 @@
 [
   {
+    "id": "8dd0bc665a11",
+    "slug": "내년-영업익-1000조-시대반도체가-바꾼-코스피-체급-641992",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T21:05:14.275Z",
+    "updatedAt": "2026-05-11T21:05:14.275Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051191291",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051191291",
+    "titleFingerprint": "73576718491cda0710ed56253f4cf0a083e405a4",
+    "dedupKeys": [
+      "8dd0bc665a11fdc44ce7eb5f5639e58334c710d0",
+      "73576718491cda0710ed56253f4cf0a083e405a4",
+      "9ba079883b798a601a1d3dbc92224809decd9010"
+    ],
+    "imageUrl": "/images/articles/8dd0bc665a11.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체 호황에 달라진 코스피 체급…삼성전자·SK하이닉스가 이끈 내년 영업익 1050조 전망",
+        "excerpt": "에프앤가이드는 5월 11일 유가증권시장 상장사 170곳의 내년 영업이익 전망치가 1050조2303억원으로 집계됐다고 밝혔다. AI발 반도체 호황이 코스피 체급을 키우고 있다.",
+        "body": "5월 11일 금융정보업체 에프앤가이드에 따르면 증권사 세 곳 이상의 실적 전망치가 있는 유가증권시장 상장사 170곳의 올해 영업이익 전망치는 849조5262억원, 내년 전망치는 1050조2303억원으로 집계됐다. 내년 전망치는 올해보다 23.6%, 지난해 확정치 271조2698억원보다 287.1% 높은 수준이다. 전망치 상향의 중심에는 삼성전자와 SK하이닉스가 있다. 두 회사의 합산 영업이익 전망치는 올해 587조6624억원, 내년 768조5790억원으로 각각 전체의 69%, 73%를 차지한다. AI가 촉발한 메모리 반도체 가격 상승과 장기공급계약이 배경으로 제시됐다. JP모간은 코스피 목표 지수로 10,000을 제시했고, 이날 코스피는 7822.24에 마감했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Semiconductor Boom Reshapes Kospi as Samsung and SK Hynix Drive 1,050 Trillion Won Profit Outlook",
+        "excerpt": "FnGuide said on May 11 that 170 Kospi-listed firms are forecast to post 1,050.2303 trillion won in operating profit next year as AI-led chip demand lifts market expectations.",
+        "body": "On May 11, financial data firm FnGuide said 170 Kospi-listed companies with earnings estimates from at least three brokerages are projected to post 849.5262 trillion won in operating profit this year and 1,050.2303 trillion won next year. The 2027 estimate is 23.6% above this year’s forecast and 287.1% higher than last year’s confirmed 271.2698 trillion won. Samsung Electronics and SK Hynix are at the center of the upward revisions. Their combined operating profit forecast is 587.6624 trillion won this year and 768.5790 trillion won next year, accounting for 69% and 73% of the total, respectively. Rising memory chip prices triggered by AI demand and long-term supply agreements were cited as key factors. JPMorgan presented a Kospi target of 10,000, while the index closed at 7,822.24 that day. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "半導体好況で変わるKOSPIの規模、サムスンとSKハイニックスが来年営業益1050兆ウォンをけん引",
+        "excerpt": "エフエヌガイドは5月11日、KOSPI上場170社の来年営業利益予想が1050兆2303億ウォンに達すると集計した。AI発の半導体好況が市場の規模感を押し上げている。",
+        "body": "金融情報会社エフエヌガイドによると、5月11日時点で証券会社3社以上の業績予想があるKOSPI上場170社の営業利益予想は、今年849兆5262億ウォン、来年1050兆2303億ウォンと集計された。来年の予想は今年比23.6%増、昨年確定値の271兆2698億ウォン比では287.1%増となる。上方修正の中心はサムスン電子とSKハイニックスだ。両社の合算営業利益予想は今年587兆6624億ウォン、来年768兆5790億ウォンで、それぞれ全体の69%、73%を占める。AIが引き起こしたメモリー半導体価格の上昇と長期供給契約が背景とされた。JPモルガンはKOSPI目標を10,000とし、この日の指数は7,822.24で引けた。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "半导体景气改写KOSPI体量，三星电子与SK海力士带动明年营业利润1050万亿韩元预期",
+        "excerpt": "FnGuide 5月11日表示，170家有三家以上券商预测的韩国主板上市公司明年营业利润预计达1050.2303万亿韩元，AI带动的芯片景气正在抬升KOSPI预期。",
+        "body": "金融信息公司FnGuide 5月11日数据显示，至少有三家券商给出业绩预测的170家韩国主板上市公司，今年营业利润预计为849.5262万亿韩元，明年为1050.2303万亿韩元。明年预测值较今年高23.6%，较去年确定值271.2698万亿韩元高287.1%。上调预期的核心是三星电子和SK海力士。两家公司合计营业利润预计今年为587.6624万亿韩元，明年为768.5790万亿韩元，分别占整体的69%和73%。报道指出，AI引发的存储半导体价格上涨以及长期供应合同是背景因素。摩根大通提出KOSPI目标位10,000点，当日指数收于7,822.24点。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El auge de semiconductores cambia el tamaño del Kospi y eleva la previsión de beneficio a 1.050 billones de wones",
+        "excerpt": "FnGuide informó el 11 de mayo que 170 empresas del Kospi tendrían 1.050,2303 billones de wones de beneficio operativo el próximo año, impulsadas por el ciclo de chips ligado a la IA.",
+        "body": "Según la firma de información financiera FnGuide, al 11 de mayo las 170 compañías del mercado Kospi con previsiones de al menos tres corredurías tendrían un beneficio operativo de 849,5262 billones de wones este año y de 1.050,2303 billones el próximo. La estimación para el próximo año supera en 23,6% la de este año y en 287,1% el dato confirmado del año pasado, de 271,2698 billones. Samsung Electronics y SK Hynix están en el centro de las revisiones al alza. Su beneficio operativo conjunto se estima en 587,6624 billones de wones este año y 768,5790 billones el próximo, equivalentes al 69% y 73% del total. El aumento de precios de memorias provocado por la IA y los contratos de suministro a largo plazo fueron citados como factores clave. JPMorgan fijó un objetivo de 10.000 para el Kospi, que cerró ese día en 7.822,24. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Boom dos semicondutores muda o porte do Kospi e leva previsão de lucro operacional a 1.050 trilhões de won",
+        "excerpt": "A FnGuide informou em 11 de maio que 170 empresas listadas no Kospi devem somar 1.050,2303 trilhões de won em lucro operacional no próximo ano, com impulso da demanda por chips ligada à IA.",
+        "body": "Segundo a empresa de informações financeiras FnGuide, em 11 de maio, 170 companhias listadas no Kospi com estimativas de pelo menos três corretoras tinham previsão de lucro operacional de 849,5262 trilhões de won neste ano e 1.050,2303 trilhões no próximo. A projeção para o próximo ano é 23,6% maior que a deste ano e 287,1% acima do resultado confirmado do ano passado, de 271,2698 trilhões. Samsung Electronics e SK Hynix estão no centro das revisões para cima. A previsão combinada das duas é de 587,6624 trilhões de won neste ano e 768,5790 trilhões no próximo, equivalentes a 69% e 73% do total. A alta dos preços de memória causada pela IA e contratos de fornecimento de longo prazo foram apontados como fatores. O JPMorgan indicou meta de 10.000 para o Kospi, que fechou o dia em 7.822,24. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Halbleiterboom verändert Gewicht des Kospi, Samsung und SK Hynix treiben Gewinnprognose auf 1.050 Billionen Won",
+        "excerpt": "FnGuide meldete am 11. Mai, dass 170 Kospi-Unternehmen im kommenden Jahr voraussichtlich 1.050,2303 Billionen Won operativen Gewinn erzielen, gestützt durch den KI-getriebenen Chipzyklus.",
+        "body": "Nach Angaben des Finanzdatenanbieters FnGuide vom 11. Mai werden 170 im Kospi gelistete Unternehmen, für die Schätzungen von mindestens drei Wertpapierhäusern vorliegen, in diesem Jahr voraussichtlich 849,5262 Billionen Won operativen Gewinn erzielen und im kommenden Jahr 1.050,2303 Billionen Won. Die Prognose für das kommende Jahr liegt 23,6% über der diesjährigen Schätzung und 287,1% über dem bestätigten Vorjahreswert von 271,2698 Billionen Won. Im Zentrum der Aufwärtsrevisionen stehen Samsung Electronics und SK Hynix. Ihr gemeinsamer operativer Gewinn wird auf 587,6624 Billionen Won in diesem Jahr und 768,5790 Billionen Won im kommenden Jahr geschätzt, was 69% beziehungsweise 73% des Gesamtwerts entspricht. Als Gründe wurden steigende Speicherchippreise durch KI-Nachfrage und langfristige Lieferverträge genannt. JPMorgan nannte ein Kospi-Ziel von 10.000; der Index schloss an dem Tag bei 7.822,24. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le boom des semi-conducteurs redéfinit le Kospi, Samsung et SK Hynix portent la prévision de bénéfice à 1 050 billions de wons",
+        "excerpt": "FnGuide a indiqué le 11 mai que 170 sociétés cotées au Kospi devraient atteindre 1 050,2303 billions de wons de bénéfice opérationnel l’an prochain, portées par la demande de puces liée à l’IA.",
+        "body": "Selon la société d’information financière FnGuide, au 11 mai, 170 entreprises cotées au Kospi disposant de prévisions d’au moins trois maisons de courtage devraient dégager 849,5262 billions de wons de bénéfice opérationnel cette année et 1 050,2303 billions l’an prochain. La prévision pour l’an prochain dépasse celle de cette année de 23,6% et le chiffre confirmé de l’an dernier, 271,2698 billions de wons, de 287,1%. Samsung Electronics et SK Hynix sont au centre des révisions à la hausse. Leur bénéfice opérationnel combiné est estimé à 587,6624 billions de wons cette année et 768,5790 billions l’an prochain, soit 69% et 73% du total. La hausse des prix des mémoires provoquée par l’IA et les contrats d’approvisionnement à long terme ont été cités comme facteurs. JPMorgan a fixé un objectif de 10 000 pour le Kospi, qui a clôturé ce jour-là à 7 822,24. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "طفرة أشباه الموصلات تعيد تشكيل وزن كوسبي مع توقع أرباح تشغيلية بـ1050 تريليون وون تقودها سامسونغ وSK هاينكس",
+        "excerpt": "قالت FnGuide في 11 مايو إن 170 شركة مدرجة في كوسبي يُتوقع أن تسجل 1050.2303 تريليون وون أرباحا تشغيلية العام المقبل، بدعم من دورة الرقائق المرتبطة بالذكاء الاصطناعي.",
+        "body": "قالت شركة البيانات المالية FnGuide في 11 مايو إن 170 شركة مدرجة في سوق كوسبي ولديها تقديرات أرباح من ثلاث شركات وساطة على الأقل يُتوقع أن تحقق 849.5262 تريليون وون أرباحا تشغيلية هذا العام و1050.2303 تريليون وون العام المقبل. وتزيد توقعات العام المقبل 23.6% عن تقديرات هذا العام و287.1% عن الرقم المؤكد للعام الماضي البالغ 271.2698 تريليون وون. وتقف سامسونغ إلكترونيكس وSK هاينكس في مركز هذه المراجعات الصعودية. وتبلغ توقعات أرباحهما التشغيلية المجمعة 587.6624 تريليون وون هذا العام و768.5790 تريليون وون العام المقبل، أي 69% و73% من الإجمالي. وذُكر أن ارتفاع أسعار شرائح الذاكرة بسبب الذكاء الاصطناعي وعقود التوريد طويلة الأجل من العوامل الرئيسية. وقدمت JPMorgan هدفا لمؤشر كوسبي عند 10,000، فيما أغلق المؤشر ذلك اليوم عند 7,822.24. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर उछाल से बदला Kospi का आकार, Samsung और SK Hynix से 1,050 ट्रिलियन वॉन लाभ अनुमान",
+        "excerpt": "FnGuide ने 11 मई को कहा कि Kospi में सूचीबद्ध 170 कंपनियों का अगले साल परिचालन लाभ 1,050.2303 ट्रिलियन वॉन रहने का अनुमान है, जिसे AI से जुड़ी चिप मांग सहारा दे रही है।",
+        "body": "वित्तीय सूचना कंपनी FnGuide के अनुसार, 11 मई तक कम से कम तीन ब्रोकरेज के अनुमान वाली Kospi-सूचीबद्ध 170 कंपनियों का परिचालन लाभ इस साल 849.5262 ट्रिलियन वॉन और अगले साल 1,050.2303 ट्रिलियन वॉन रहने का अनुमान है। अगले साल का अनुमान इस साल से 23.6% और पिछले साल के पक्के आंकड़े 271.2698 ट्रिलियन वॉन से 287.1% अधिक है। अनुमान बढ़ने के केंद्र में Samsung Electronics और SK Hynix हैं। दोनों कंपनियों का संयुक्त परिचालन लाभ इस साल 587.6624 ट्रिलियन वॉन और अगले साल 768.5790 ट्रिलियन वॉन आंका गया है, जो कुल का क्रमशः 69% और 73% है। AI से प्रेरित मेमोरी सेमीकंडक्टर कीमतों में तेजी और दीर्घकालिक आपूर्ति अनुबंधों को इसकी पृष्ठभूमि बताया गया। JPMorgan ने Kospi के लिए 10,000 का लक्ष्य रखा, जबकि उस दिन सूचकांक 7,822.24 पर बंद हुआ। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Boom Semikonduktor Mengubah Skala Kospi, Samsung dan SK Hynix Dorong Proyeksi Laba 1.050 Triliun Won",
+        "excerpt": "FnGuide pada 11 Mei menyebut 170 emiten Kospi diperkirakan membukukan laba operasi 1.050,2303 triliun won tahun depan, seiring permintaan chip yang dipicu AI.",
+        "body": "Menurut perusahaan informasi keuangan FnGuide pada 11 Mei, 170 emiten Kospi yang memiliki estimasi kinerja dari sedikitnya tiga sekuritas diproyeksikan mencatat laba operasi 849,5262 triliun won tahun ini dan 1.050,2303 triliun won tahun depan. Proyeksi tahun depan 23,6% lebih tinggi dari tahun ini dan 287,1% di atas angka pasti tahun lalu sebesar 271,2698 triliun won. Samsung Electronics dan SK Hynix menjadi pusat kenaikan estimasi tersebut. Proyeksi gabungan laba operasi keduanya mencapai 587,6624 triliun won tahun ini dan 768,5790 triliun won tahun depan, masing-masing setara 69% dan 73% dari total. Kenaikan harga memori akibat AI dan kontrak pasokan jangka panjang disebut sebagai latar belakangnya. JPMorgan menetapkan target Kospi 10.000, sementara indeks ditutup di 7.822,24 pada hari itu. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "5005f4cce57d",
+    "slug": "조너선-크레인-中-ai-역량-美만큼-강력지금이-레드테크-투자할-때-811726",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T21:03:48.591Z",
+    "updatedAt": "2026-05-11T21:03:48.591Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190561",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190561",
+    "titleFingerprint": "84012fabdf298a9c52f8af67cac87b3cd641c1ba",
+    "dedupKeys": [
+      "5005f4cce57decd0a790bb4858a6ea2b4c709efd",
+      "84012fabdf298a9c52f8af67cac87b3cd641c1ba",
+      "58d720ae37039337e1904c747d46c6543013fd07"
+    ],
+    "imageUrl": "/images/articles/5005f4cce57d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중국 AI·레드테크 투자 적기론…조너선 크레인 “미국만큼 강력”",
+        "excerpt": "조너선 크레인 크레인셰어스 CEO는 5월 11일 서울 여의도에서 중국 AI와 휴머노이드 경쟁력이 미국에 맞먹는다며 중국 기술주 투자 적기론을 밝혔다.",
+        "body": "조너선 크레인 크레인셰어스 창립자 겸 CEO는 5월 11일 서울 여의도에서 한국경제신문과 만나 “지금이 중국 시장에 투자할 적기”라고 말했다. 그는 지정학적 리스크로 투자심리가 위축됐지만 악재보다 호재가 많다고 진단했다. 크레인셰어스는 10조원 규모 중국 인터넷 ETF KWEB과 세계 최초 휴머노이드 로봇 ETF KOID를 운용한다. 크레인은 중국 기술주가 가치주 투자 구간에 들어섰고, AI 성과가 본격화하면 재평가가 가능하다고 봤다. 그는 중국의 AI 개발 역량과 데이터센터 인프라를 높게 평가하며 알리바바, 텐센트, 유니트리 등을 언급했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "China AI and Red Tech Investment Case Gains Weight as Jonathan Krane Sees U.S.-Level Strength",
+        "excerpt": "KraneShares CEO Jonathan Krane said in Seoul on May 11 that China’s AI and humanoid capabilities rival the U.S., making now a timely moment to consider Chinese tech stocks.",
+        "body": "Jonathan Krane, founder and CEO of KraneShares, told The Korea Economic Daily in Yeouido, Seoul, on May 11 that now is a timely moment to invest in the Chinese market. He said geopolitical risks have weakened sentiment, but positive factors outweigh negatives. KraneShares manages KWEB, a 10 trillion won China internet ETF, and KOID, described as the world’s first humanoid robot ETF. Krane said Chinese technology stocks have entered a value-investing phase and could be re-rated once AI results accelerate. He also cited China’s AI development capability, data-center infrastructure, and players such as Alibaba, Tencent and Unitree. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "中国AI・レッドテック投資に追い風、クレイン氏「米国並みに強力」",
+        "excerpt": "クレインシェアーズのジョナサン・クレインCEOは5月11日、ソウル汝矣島で中国AIとヒューマノイドの競争力が米国に匹敵すると述べ、中国技術株の投資好機を強調した。",
+        "body": "クレインシェアーズ創業者兼CEOのジョナサン・クレイン氏は5月11日、ソウル汝矣島で韓国経済新聞の取材に応じ、「今が中国市場に投資する適期だ」と述べた。地政学リスクで投資心理は萎縮しているものの、悪材料より好材料が多いとの見方だ。クレインシェアーズは10兆ウォン規模の中国インターネットETF「KWEB」と、世界初のヒューマノイドロボットETF「KOID」を運用している。クレイン氏は中国技術株がバリュー投資の局面に入り、AI関連成果が本格化すれば再評価され得るとした。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "中国AI与红色科技投资升温，Jonathan Krane称实力比肩美国",
+        "excerpt": "KraneShares首席执行官Jonathan Krane于5月11日在首尔汝矣岛表示，中国AI和人形机器人竞争力可与美国相比，现在是关注中国科技股的时点。",
+        "body": "KraneShares创始人兼首席执行官Jonathan Krane于5月11日在首尔汝矣岛接受《韩国经济新闻》采访时表示，现在是投资中国市场的合适时机。他认为，地缘政治风险压低了投资情绪，但利好因素多于利空。KraneShares管理规模达10万亿韩元的中国互联网ETF KWEB，以及被称为全球首只人形机器人ETF的KOID。Krane表示，中国科技股已进入价值投资区间，若AI成果全面显现，股价可能迎来重新评估。他还提到中国AI开发能力、数据中心基础设施，以及阿里巴巴、腾讯、宇树等主要企业。来源: hankyung.com"
+      },
+      "es": {
+        "title": "IA china y red tech ganan atractivo: Jonathan Krane ve una fuerza comparable a EE. UU.",
+        "excerpt": "Jonathan Krane, CEO de KraneShares, dijo el 11 de mayo en Yeouido, Seúl, que la IA y los humanoides de China compiten con EE. UU., reforzando el caso de invertir en tecnológicas chinas.",
+        "body": "Jonathan Krane, fundador y CEO de KraneShares, dijo el 11 de mayo en Yeouido, Seúl, a The Korea Economic Daily que ahora es un momento oportuno para invertir en el mercado chino. Señaló que los riesgos geopolíticos han debilitado el ánimo inversor, pero que los factores positivos superan a los negativos. KraneShares gestiona KWEB, un ETF de internet chino de 10 billones de wones, y KOID, presentado como el primer ETF mundial de robots humanoides. Krane afirmó que las tecnológicas chinas han entrado en una fase de inversión de valor y podrían revalorizarse cuando avancen los resultados en IA. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "IA chinesa e red tech entram no radar: Jonathan Krane vê força no nível dos EUA",
+        "excerpt": "Jonathan Krane, CEO da KraneShares, disse em 11 de maio em Yeouido, Seul, que a IA e os humanoides da China rivalizam com os EUA, defendendo o momento para ações de tecnologia chinesas.",
+        "body": "Jonathan Krane, fundador e CEO da KraneShares, disse em 11 de maio, em Yeouido, Seul, ao The Korea Economic Daily que este é um momento oportuno para investir no mercado chinês. Segundo ele, os riscos geopolíticos reduziram o apetite dos investidores, mas os fatores positivos superam os negativos. A KraneShares administra o KWEB, ETF de internet chinesa de 10 trilhões de won, e o KOID, apontado como o primeiro ETF mundial de robôs humanoides. Krane afirmou que as ações chinesas de tecnologia entraram em uma fase de investimento em valor e podem ser reavaliadas com avanços em IA. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Chinas KI und Red Tech im Fokus: Jonathan Krane sieht Stärke auf US-Niveau",
+        "excerpt": "KraneShares-CEO Jonathan Krane sagte am 11. Mai in Yeouido, Seoul, Chinas KI- und Humanoid-Kompetenz sei mit den USA vergleichbar und stütze den Blick auf chinesische Technologiewerte.",
+        "body": "Jonathan Krane, Gründer und CEO von KraneShares, sagte am 11. Mai in Yeouido, Seoul, der Korea Economic Daily, jetzt sei ein geeigneter Zeitpunkt für Investitionen im chinesischen Markt. Geopolitische Risiken hätten die Stimmung belastet, doch positive Faktoren überwögen. KraneShares verwaltet KWEB, einen China-Internet-ETF mit einem Volumen von 10 Billionen Won, sowie KOID, der als weltweit erster Humanoid-Roboter-ETF beschrieben wird. Krane sagte, chinesische Technologiewerte seien in eine Value-Investing-Phase eingetreten und könnten bei stärkeren KI-Ergebnissen neu bewertet werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "IA chinoise et red tech attirent l’attention: Jonathan Krane voit une force égale aux États-Unis",
+        "excerpt": "Jonathan Krane, CEO de KraneShares, a déclaré le 11 mai à Yeouido, Séoul, que l’IA et les humanoïdes chinois rivalisent avec les États-Unis, soutenant l’intérêt pour les valeurs technologiques chinoises.",
+        "body": "Jonathan Krane, fondateur et CEO de KraneShares, a déclaré le 11 mai à Yeouido, Séoul, au Korea Economic Daily que le moment était opportun pour investir sur le marché chinois. Selon lui, les risques géopolitiques ont pesé sur le sentiment, mais les facteurs positifs dépassent les négatifs. KraneShares gère KWEB, un ETF internet chinois de 10 000 milliards de wons, ainsi que KOID, présenté comme le premier ETF mondial de robots humanoïdes. Krane estime que les valeurs technologiques chinoises sont entrées dans une phase d’investissement value et pourraient être réévaluées avec les progrès de l’IA. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي الصيني وريد تك تحت الضوء: جوناثان كرين يرى قوة تضاهي أميركا",
+        "excerpt": "قال جوناثان كرين، الرئيس التنفيذي لـKraneShares، في سيول يوم 11 مايو إن قدرات الصين في الذكاء الاصطناعي والروبوتات الشبيهة بالبشر تضاهي الولايات المتحدة، ما يعزز طرح الاستثمار في أسهم التكنولوجيا الصينية.",
+        "body": "قال جوناثان كرين، مؤسس KraneShares ورئيسها التنفيذي، لصحيفة Korea Economic Daily في يوييدو بسيول يوم 11 مايو إن الوقت مناسب للاستثمار في السوق الصينية. وأوضح أن المخاطر الجيوسياسية أضعفت معنويات المستثمرين، لكن العوامل الإيجابية تفوق السلبية. تدير KraneShares صندوق KWEB لأسهم الإنترنت الصينية بحجم 10 تريليونات وون، وصندوق KOID الموصوف بأنه أول صندوق مؤشرات عالمي للروبوتات الشبيهة بالبشر. ورأى كرين أن أسهم التكنولوجيا الصينية دخلت مرحلة استثمار قيمة وقد يعاد تقييمها مع تقدم نتائج الذكاء الاصطناعي. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "चीन AI और रेड टेक पर दांव मजबूत, Jonathan Krane बोले क्षमता अमेरिका जितनी",
+        "excerpt": "KraneShares के CEO Jonathan Krane ने 11 मई को सियोल के येओइदो में कहा कि चीन की AI और ह्यूमनॉइड क्षमता अमेरिका के बराबर मजबूत है, इसलिए चीनी टेक शेयरों पर ध्यान देने का समय है।",
+        "body": "KraneShares के संस्थापक और CEO Jonathan Krane ने 11 मई को सियोल के येओइदो में Korea Economic Daily से कहा कि चीन के बाजार में निवेश के लिए यह उपयुक्त समय है। उनके अनुसार भू-राजनीतिक जोखिमों से निवेश भावना कमजोर हुई है, लेकिन सकारात्मक कारक नकारात्मक कारकों से अधिक हैं। KraneShares 10 ट्रिलियन वॉन आकार वाले चीन इंटरनेट ETF KWEB और दुनिया के पहले ह्यूमनॉइड रोबोट ETF कहे जाने वाले KOID का प्रबंधन करती है। Krane ने कहा कि चीनी टेक शेयर वैल्यू निवेश के चरण में हैं और AI उपलब्धियां तेज होने पर उनका पुनर्मूल्यांकन संभव है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AI China dan red tech makin menarik, Jonathan Krane sebut kekuatannya setara AS",
+        "excerpt": "CEO KraneShares Jonathan Krane pada 11 Mei di Yeouido, Seoul, mengatakan kemampuan AI dan humanoid China menyaingi AS, sehingga kini menjadi waktu tepat mencermati saham teknologi China.",
+        "body": "Jonathan Krane, pendiri sekaligus CEO KraneShares, mengatakan kepada The Korea Economic Daily di Yeouido, Seoul, pada 11 Mei bahwa sekarang adalah waktu yang tepat untuk berinvestasi di pasar China. Ia menilai risiko geopolitik memang menekan sentimen, tetapi faktor positif lebih banyak daripada negatif. KraneShares mengelola KWEB, ETF internet China senilai 10 triliun won, dan KOID, yang disebut sebagai ETF robot humanoid pertama di dunia. Krane mengatakan saham teknologi China telah masuk fase investasi nilai dan dapat dinilai ulang ketika capaian AI mulai menguat. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "95ea07f6ee87",
+    "slug": "1만피-설마-했는데삼전닉스-768조에-개미들-환호-614478",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T21:02:49.627Z",
+    "updatedAt": "2026-05-11T21:02:49.627Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051190171",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051190171",
+    "titleFingerprint": "60fddbaa4a5364f02a91fee6f165ccdd0cb3e0ee",
+    "dedupKeys": [
+      "95ea07f6ee877bb00fd8805c931793cd1f978777",
+      "60fddbaa4a5364f02a91fee6f165ccdd0cb3e0ee",
+      "aadf32599f80c5afef71ee5b63e548512f2529af"
+    ],
+    "imageUrl": "/images/articles/95ea07f6ee87.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼전닉스 768조 소식에 개인투자자 환호, ‘1만피’ 기대 재부상",
+        "excerpt": "hankyung.com은 ‘삼전닉스’로 불리는 삼성전자·SK하이닉스 관련 768조원 규모 소식에 개인투자자들이 환호했다고 전했다.",
+        "body": "hankyung.com은 ‘삼전닉스’로 불리는 삼성전자와 SK하이닉스 관련 768조원 규모 소식에 개인투자자들이 환호했다고 보도했다. 원문 제목은 “1만피? 설마 했는데”…삼전닉스 768조에 개미들 ‘환호’로, 국내 증시에서 대형 반도체주에 대한 관심이 다시 커진 분위기를 전한다. 제목에 언급된 ‘1만피’는 코스피 상승 기대를 상징하는 표현으로 제시됐고, 핵심 수치는 768조원이다. 이번 보도는 개인투자자들의 반응과 삼성전자·SK하이닉스에 쏠린 시장 관심을 중심으로 다뤄졌다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Samsung-SK Hynix 768 Trillion Won News Lifts Retail Investor Mood",
+        "excerpt": "hankyung.com reported that retail investors cheered news tied to Samsung Electronics and SK Hynix, known together as “Samjeon-nix,” and a 768 trillion won figure.",
+        "body": "hankyung.com reported that retail investors cheered news involving Samsung Electronics and SK Hynix, often grouped in Korea under the nickname “Samjeon-nix,” and a 768 trillion won figure. The original headline, “‘KOSPI 10,000? I doubted it’… retail investors cheer Samjeon-nix at 768 trillion,” points to renewed attention on major Korean semiconductor stocks. The phrase “KOSPI 10,000” was presented as a symbol of market expectations, while the key number cited was 768 trillion won. The report focused on retail investor reaction and market interest in Samsung Electronics and SK Hynix. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン・SKハイニックス768兆ウォン報道に個人投資家が歓喜",
+        "excerpt": "hankyung.comは、韓国で「サムジョンニックス」と呼ばれるサムスン電子とSKハイニックスに関する768兆ウォン規模の話題で個人投資家が沸いたと伝えた。",
+        "body": "hankyung.comは、韓国で「サムジョンニックス」と呼ばれるサムスン電子とSKハイニックスに関する768兆ウォン規模の話題を受け、個人投資家が歓喜したと報じた。原文の見出しは「1万ピ？まさかと思ったのに」…サムジョンニックス768兆に個人投資家が「歓呼」という内容で、韓国株式市場で大型半導体株への関心が再び高まった雰囲気を伝えている。見出しの「1万ピ」はKOSPI上昇期待を象徴する表現として示され、中心となる数値は768兆ウォンだった。報道は投資家の反応と市場の関心に焦点を当てた。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "三星电子与SK海力士768万亿韩元消息引散户欢呼",
+        "excerpt": "hankyung.com报道称，被称为“三电海力士”的三星电子和SK海力士相关768万亿韩元消息，引发韩国个人投资者欢呼。",
+        "body": "hankyung.com报道称，被韩国市场称为“三电海力士”的三星电子和SK海力士相关768万亿韩元规模消息，引发个人投资者欢呼。原文标题为“1万点？本以为不可能”…三电海力士768万亿韩元让散户“欢呼”，传递出韩国股市对大型半导体股关注再度升温的氛围。标题中的“1万点”被作为KOSPI上涨期待的象征性说法提出，核心数字则是768万亿韩元。该报道主要围绕个人投资者反应，以及市场对三星电子和SK海力士的关注展开。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Samsung y SK Hynix: 768 billones de wones entusiasman a minoristas",
+        "excerpt": "hankyung.com informó que los inversores minoristas celebraron una noticia vinculada a Samsung Electronics y SK Hynix, conocidas juntas como “Samjeon-nix”, y una cifra de 768 billones de wones.",
+        "body": "hankyung.com informó que los inversores minoristas celebraron una noticia relacionada con Samsung Electronics y SK Hynix, conocidas en Corea bajo el apodo de “Samjeon-nix”, y una cifra de 768 billones de wones. El titular original, “‘¿KOSPI en 10.000? Parecía imposible’… los minoristas celebran los 768 billones de Samjeon-nix”, refleja el renovado interés por las grandes acciones coreanas de semiconductores. La expresión “KOSPI 10.000” aparece como símbolo de expectativas alcistas, mientras que el dato central es 768 billones de wones. La nota se centró en la reacción de los pequeños inversores y la atención del mercado. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Samsung e SK Hynix: 768 trilhões de won animam investidores pessoa física",
+        "excerpt": "O hankyung.com informou que investidores pessoa física comemoraram notícia ligada a Samsung Electronics e SK Hynix, chamadas de “Samjeon-nix”, e ao valor de 768 trilhões de won.",
+        "body": "O hankyung.com informou que investidores pessoa física comemoraram uma notícia envolvendo Samsung Electronics e SK Hynix, frequentemente chamadas na Coreia de “Samjeon-nix”, e o valor de 768 trilhões de won. A manchete original, “‘KOSPI a 10.000? Parecia impossível’… investidores comemoram Samjeon-nix em 768 trilhões”, mostra a retomada do interesse por grandes ações coreanas de semicondutores. A expressão “KOSPI 10.000” foi usada como símbolo de expectativa de alta, enquanto o principal número citado foi 768 trilhões de won. A reportagem destacou a reação dos investidores e o foco do mercado nessas empresas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Samsung und SK Hynix: 768 Billionen Won lassen Kleinanleger jubeln",
+        "excerpt": "hankyung.com berichtete, dass Kleinanleger auf eine Nachricht zu Samsung Electronics und SK Hynix, zusammen „Samjeon-nix“ genannt, sowie eine Summe von 768 Billionen Won mit Jubel reagierten.",
+        "body": "hankyung.com berichtete, dass Kleinanleger auf eine Nachricht zu Samsung Electronics und SK Hynix, in Korea oft unter dem Spitznamen „Samjeon-nix“ zusammengefasst, sowie auf eine Zahl von 768 Billionen Won mit Jubel reagierten. Die ursprüngliche Überschrift, „KOSPI 10.000? Das hielt man kaum für möglich“… Kleinanleger jubeln über Samjeon-nix bei 768 Billionen, verweist auf neues Interesse an großen koreanischen Halbleiterwerten. „KOSPI 10.000“ wurde als Ausdruck von Markterwartungen genannt, die zentrale Zahl war 768 Billionen Won. Im Mittelpunkt standen Anlegerreaktionen und das Marktinteresse an Samsung Electronics und SK Hynix. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Samsung et SK Hynix: 768 billions de wons font réagir les particuliers",
+        "excerpt": "hankyung.com a rapporté que les investisseurs particuliers ont salué une information liée à Samsung Electronics et SK Hynix, surnommées “Samjeon-nix”, et au chiffre de 768 billions de wons.",
+        "body": "hankyung.com a rapporté que les investisseurs particuliers ont salué une information concernant Samsung Electronics et SK Hynix, souvent regroupées en Corée sous le surnom de “Samjeon-nix”, ainsi qu’un chiffre de 768 billions de wons. Le titre original, “KOSPI à 10 000 ? On n’y croyait pas”… les particuliers applaudissent Samjeon-nix à 768 billions, traduit un regain d’intérêt pour les grandes valeurs coréennes des semi-conducteurs. L’expression “KOSPI 10 000” y apparaît comme un symbole d’attentes de hausse, tandis que le chiffre clé est 768 billions de wons. L’article met l’accent sur la réaction des investisseurs et l’attention du marché. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سامسونغ وSK هاينكس: 768 تريليون وون تشعل حماس المستثمرين الأفراد",
+        "excerpt": "أفاد hankyung.com بأن المستثمرين الأفراد رحبوا بخبر مرتبط بسامسونغ إلكترونيكس وSK هاينكس، المعروفتين معا باسم “سامجون-نيكس”، وبالرقم 768 تريليون وون.",
+        "body": "أفاد hankyung.com بأن المستثمرين الأفراد رحبوا بخبر يتعلق بسامسونغ إلكترونيكس وSK هاينكس، اللتين يشار إليهما في كوريا باسم “سامجون-نيكس”، وبالرقم 768 تريليون وون. وجاء العنوان الأصلي بمعنى: “كوسبي عند 10 آلاف؟ بدا الأمر مستبعدا”… المستثمرون الأفراد يهتفون لسامجون-نيكس عند 768 تريليون، ما يعكس تجدد الاهتمام بأسهم أشباه الموصلات الكورية الكبرى. وورد تعبير “كوسبي 10 آلاف” كرمز لتوقعات صعود السوق، بينما كان الرقم المحوري هو 768 تريليون وون. وركز التقرير على رد فعل المستثمرين واهتمام السوق بسامسونغ إلكترونيكس وSK هاينكس. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "सैमसंग और SK हाइनिक्स की 768 ट्रिलियन वॉन खबर से खुदरा निवेशक उत्साहित",
+        "excerpt": "hankyung.com ने बताया कि “Samjeon-nix” कहे जाने वाले Samsung Electronics और SK Hynix से जुड़ी 768 ट्रिलियन वॉन की खबर पर खुदरा निवेशकों ने उत्साह दिखाया।",
+        "body": "hankyung.com ने बताया कि Samsung Electronics और SK Hynix, जिन्हें कोरिया में साथ मिलाकर “Samjeon-nix” कहा जाता है, से जुड़ी 768 ट्रिलियन वॉन की खबर पर खुदरा निवेशकों ने उत्साह दिखाया। मूल शीर्षक, “‘KOSPI 10,000? यकीन नहीं था’… 768 ट्रिलियन पर Samjeon-nix से खुदरा निवेशक ‘खुश’”, कोरियाई शेयर बाजार में बड़ी सेमीकंडक्टर कंपनियों को लेकर फिर बढ़ती दिलचस्पी का संकेत देता है। “KOSPI 10,000” को बाजार की बढ़त की उम्मीद के प्रतीक के रूप में रखा गया, जबकि प्रमुख आंकड़ा 768 ट्रिलियन वॉन है। रिपोर्ट में निवेशकों की प्रतिक्रिया और Samsung Electronics तथा SK Hynix पर बाजार के ध्यान को केंद्र में रखा गया। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Samsung dan SK Hynix 768 Triliun Won Bikin Investor Ritel Bersorak",
+        "excerpt": "hankyung.com melaporkan investor ritel menyambut kabar terkait Samsung Electronics dan SK Hynix, yang dijuluki “Samjeon-nix”, serta angka 768 triliun won.",
+        "body": "hankyung.com melaporkan bahwa investor ritel menyambut kabar terkait Samsung Electronics dan SK Hynix, yang di Korea kerap disebut bersama sebagai “Samjeon-nix”, serta angka 768 triliun won. Judul asli, “‘KOSPI 10.000? Awalnya tak percaya’… investor ritel bersorak atas Samjeon-nix di 768 triliun,” menunjukkan kembali meningkatnya perhatian pada saham semikonduktor besar Korea. Istilah “KOSPI 10.000” ditampilkan sebagai simbol ekspektasi kenaikan pasar, sementara angka utama yang disebut adalah 768 triliun won. Laporan itu berfokus pada reaksi investor ritel dan minat pasar terhadap Samsung Electronics serta SK Hynix. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "50675d02c3dc",
     "slug": "10년-전-한국판-노무라-꿈꾼-미래에셋-이젠-롤모델-뛰어넘었다-403993",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Kapitalisasi Bursa Korea Tembus 7.000 Triliun Won untuk Pertama Kali",
         "excerpt": "Kapitalisasi pasar saham Korea Selatan melampaui 7.000 triliun won untuk pertama kalinya di tengah reli pasar bullish, menurut laporan mk.co.kr.",
         "body": "Kapitalisasi pasar saham Korea Selatan melampaui 7.000 triliun won untuk pertama kalinya di tengah suasana pasar yang disebut bullish. Menurut laporan mk.co.kr, nilai pasar total bursa domestik untuk pertama kalinya melewati level 7.000 triliun won dan mencetak rekor baru. Kabar ini menunjukkan bahwa ukuran pasar membesar selama fase kenaikan yang kuat. Angka utama yang terkonfirmasi adalah kapitalisasi pasar saham domestik telah melampaui 7.000 triliun won dan level tersebut dicapai untuk pertama kalinya dalam sejarah. Pelaku pasar kini akan mencermati perubahan ukuran pasar serta apakah reli berlanjut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f01e8ca10ae2",
-    "slug": "원익ips-메모리-장기계약-수혜목표가-nh-583329",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T00:03:18.435Z",
-    "updatedAt": "2026-05-11T00:03:18.435Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051171336",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051171336",
-    "titleFingerprint": "d7160bcc794c17b5aca52c714b1fdf87452aa556",
-    "dedupKeys": [
-      "f01e8ca10ae29f8fbf48a178f9fa4fbc39a65c35",
-      "d7160bcc794c17b5aca52c714b1fdf87452aa556",
-      "fc19d1c30f60c8bcec114c617356932f183c4de8"
-    ],
-    "imageUrl": "/images/articles/f01e8ca10ae2.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원익IPS 목표가 상향, NH ‘메모리 장기계약 수혜’ 분석에 시장 주목",
-        "excerpt": "NH투자증권은 한국경제 보도를 통해 원익IPS가 메모리 장기계약 수혜를 받을 수 있다고 분석하며 목표가를 상향 조정했다고 전했다.",
-        "body": "NH투자증권은 한국경제 보도에서 원익IPS에 대해 메모리 장기계약 수혜가 예상된다며 목표가를 상향 조정했다. 보도 제목에 따르면 이번 판단의 핵심은 메모리 분야 장기계약이 원익IPS의 사업 환경에 긍정적으로 작용할 수 있다는 점이다. 원익IPS는 반도체 장비 관련 기업으로, 메모리 투자와 고객사 계약 흐름은 실적 기대를 가늠하는 주요 변수로 언급된다. NH의 목표가 상향은 이러한 계약 수혜 가능성을 반영한 조정으로 해석된다. 구체적인 목표가 수준과 세부 실적 전망은 원문에 제시된 범위 안에서 확인할 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Wonik IPS Target Raised as NH Cites Memory Long-Term Contract Benefit",
-        "excerpt": "NH Investment & Securities raised its target price for Wonik IPS, saying the company may benefit from long-term memory contracts, according to Hankyung.",
-        "body": "NH Investment & Securities raised its target price for Wonik IPS, according to a Hankyung report, citing expected benefits from long-term contracts in the memory segment. The core point of the report is that memory-related long-term agreements could have a positive effect on Wonik IPS’s business environment. Wonik IPS is a semiconductor equipment company, and memory investment trends and customer contract flows are key factors used to assess earnings expectations. NH’s target price increase reflects that possible contract-related benefit. Specific target price figures and detailed earnings assumptions should be checked within the original report. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ウォニックIPS目標株価引き上げ、NHがメモリ長期契約の恩恵を分析",
-        "excerpt": "NH投資証券は韓国経済の報道で、ウォニックIPSがメモリ長期契約の恩恵を受ける可能性があるとして目標株価を引き上げた。",
-        "body": "NH投資証券は韓国経済の報道で、ウォニックIPSについてメモリ分野の長期契約による恩恵が見込まれるとして、目標株価を引き上げた。報道の要点は、メモリ関連の長期契約がウォニックIPSの事業環境に前向きに作用し得るという点だ。ウォニックIPSは半導体装置関連企業であり、メモリ投資の流れや顧客契約の動向は業績期待を判断する主要な材料とされる。NHの目標株価引き上げは、こうした契約面での受益可能性を反映したものとみられる。具体的な目標株価や詳細な業績見通しは原文で確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Wonik IPS目标价上调，NH称其受益于存储器长期合约",
-        "excerpt": "据韩国经济报道，NH投资证券上调Wonik IPS目标价，认为该公司可能受益于存储器领域长期合约。",
-        "body": "据韩国经济报道，NH投资证券上调了Wonik IPS的目标价，理由是预计该公司将受益于存储器领域的长期合约。报道核心在于，存储器相关长期协议可能对Wonik IPS的经营环境产生积极影响。Wonik IPS是半导体设备相关企业，存储器投资趋势和客户合约变化通常被视为判断业绩预期的重要因素。NH此次上调目标价，可理解为反映了这种合约受益的可能性。具体目标价水平和详细业绩预测仍需以原文披露内容为准。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Wonik IPS sube en valoración: NH ve beneficio por contratos largos de memoria",
-        "excerpt": "NH Investment & Securities elevó el precio objetivo de Wonik IPS al señalar posibles beneficios por contratos de largo plazo en memoria, según Hankyung.",
-        "body": "NH Investment & Securities elevó el precio objetivo de Wonik IPS, según un reporte de Hankyung, al citar beneficios esperados de contratos de largo plazo en el segmento de memoria. El punto central es que estos acuerdos podrían influir positivamente en el entorno de negocio de Wonik IPS. La compañía opera en equipos para semiconductores, por lo que las inversiones en memoria y el flujo de contratos con clientes son variables clave para evaluar expectativas de resultados. El alza del precio objetivo por parte de NH refleja esa posible ventaja contractual. Las cifras concretas del objetivo y las previsiones detalladas deben verificarse en el reporte original. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Wonik IPS tem preço-alvo elevado pela NH com benefício de contratos de memória",
-        "excerpt": "A NH Investment & Securities elevou o preço-alvo da Wonik IPS ao apontar possível benefício de contratos de longo prazo em memória, segundo a Hankyung.",
-        "body": "A NH Investment & Securities elevou o preço-alvo da Wonik IPS, segundo reportagem da Hankyung, citando benefícios esperados de contratos de longo prazo no segmento de memória. O ponto central é que esses acordos ligados a memória podem ter efeito positivo sobre o ambiente de negócios da Wonik IPS. A empresa atua em equipamentos para semicondutores, e tendências de investimento em memória e contratos com clientes são variáveis importantes para avaliar expectativas de resultados. A elevação do preço-alvo pela NH reflete essa possível vantagem contratual. Valores específicos e projeções detalhadas devem ser conferidos no texto original. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Wonik IPS: NH hebt Kursziel wegen Vorteilen aus Memory-Langfristverträgen an",
-        "excerpt": "NH Investment & Securities hat laut Hankyung das Kursziel für Wonik IPS angehoben und verweist auf mögliche Vorteile aus langfristigen Memory-Verträgen.",
-        "body": "NH Investment & Securities hat laut einem Bericht von Hankyung das Kursziel für Wonik IPS angehoben. Begründet wurde dies mit erwarteten Vorteilen aus langfristigen Verträgen im Memory-Bereich. Der Kern der Meldung ist, dass solche Vereinbarungen das Geschäftsumfeld von Wonik IPS positiv beeinflussen könnten. Wonik IPS ist im Bereich Halbleiterausrüstung tätig; Investitionen in Speicherchips und Kundenvertragsströme gelten daher als wichtige Faktoren für Ergebniserwartungen. Die Kurszielanhebung durch NH spiegelt diese mögliche Vertragsbegünstigung wider. Konkrete Kurszielzahlen und detaillierte Prognosen sollten im Originalbericht geprüft werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Wonik IPS: NH relève l’objectif grâce aux contrats long terme en mémoire",
-        "excerpt": "NH Investment & Securities a relevé son objectif sur Wonik IPS, évoquant un possible bénéfice lié aux contrats de long terme dans la mémoire, selon Hankyung.",
-        "body": "NH Investment & Securities a relevé son objectif de cours sur Wonik IPS, selon un article de Hankyung, en citant des bénéfices attendus de contrats de long terme dans le segment de la mémoire. Le point central est que ces accords liés à la mémoire pourraient avoir un effet positif sur l’environnement d’activité de Wonik IPS. La société opère dans les équipements pour semi-conducteurs, et les investissements en mémoire ainsi que les contrats clients sont des variables importantes pour évaluer les attentes de résultats. Le relèvement de l’objectif par NH reflète cette possibilité. Les chiffres précis et les prévisions détaillées doivent être vérifiés dans l’article original. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لسهم Wonik IPS مع إشارة NH إلى عقود الذاكرة الطويلة",
-        "excerpt": "رفعت NH Investment & Securities السعر المستهدف لشركة Wonik IPS، مشيرة إلى احتمال استفادتها من عقود طويلة الأجل في قطاع الذاكرة، وفق هانكيونغ.",
-        "body": "رفعت NH Investment & Securities السعر المستهدف لشركة Wonik IPS، بحسب تقرير نشرته هانكيونغ، مستندة إلى توقعات باستفادة الشركة من عقود طويلة الأجل في قطاع الذاكرة. وتتمحور النقطة الأساسية حول أن الاتفاقات طويلة الأجل المرتبطة بالذاكرة قد تؤثر إيجابا في بيئة أعمال Wonik IPS. وتعمل الشركة في مجال معدات أشباه الموصلات، لذلك تعد اتجاهات الاستثمار في الذاكرة وتدفقات عقود العملاء عوامل مهمة لتقييم توقعات الأداء. ويعكس رفع السعر المستهدف من جانب NH هذه الاستفادة المحتملة من العقود. وينبغي الرجوع إلى النص الأصلي للتحقق من الأرقام المحددة والتوقعات التفصيلية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Wonik IPS लक्ष्य मूल्य बढ़ा, NH ने मेमोरी दीर्घकालिक अनुबंध लाभ बताया",
-        "excerpt": "NH Investment & Securities ने Hankyung के अनुसार Wonik IPS का लक्ष्य मूल्य बढ़ाया और मेमोरी क्षेत्र के दीर्घकालिक अनुबंधों से संभावित लाभ का हवाला दिया।",
-        "body": "Hankyung की रिपोर्ट के अनुसार, NH Investment & Securities ने Wonik IPS का लक्ष्य मूल्य बढ़ाया है। इसका कारण मेमोरी क्षेत्र में दीर्घकालिक अनुबंधों से अपेक्षित लाभ बताया गया है। रिपोर्ट का मुख्य बिंदु यह है कि मेमोरी से जुड़े दीर्घकालिक समझौते Wonik IPS के कारोबारी माहौल पर सकारात्मक असर डाल सकते हैं। Wonik IPS सेमीकंडक्टर उपकरण से जुड़ी कंपनी है, इसलिए मेमोरी निवेश की दिशा और ग्राहकों के अनुबंधों का प्रवाह आय अपेक्षाओं को समझने के लिए अहम माना जाता है। NH का लक्ष्य मूल्य बढ़ाना इसी संभावित अनुबंध लाभ को दर्शाता है। सटीक लक्ष्य मूल्य और विस्तृत अनुमान मूल रिपोर्ट में जांचे जाने चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Wonik IPS Dinaikkan, NH Soroti Manfaat Kontrak Jangka Panjang Memori",
-        "excerpt": "NH Investment & Securities menaikkan target harga Wonik IPS karena menilai perusahaan berpotensi mendapat manfaat dari kontrak jangka panjang memori, menurut Hankyung.",
-        "body": "NH Investment & Securities menaikkan target harga Wonik IPS, menurut laporan Hankyung, dengan alasan adanya potensi manfaat dari kontrak jangka panjang di segmen memori. Inti laporan tersebut adalah bahwa perjanjian jangka panjang terkait memori dapat berdampak positif pada lingkungan bisnis Wonik IPS. Perusahaan ini bergerak di bidang peralatan semikonduktor, sehingga tren investasi memori dan arus kontrak pelanggan menjadi faktor penting untuk menilai ekspektasi kinerja. Kenaikan target harga oleh NH mencerminkan kemungkinan manfaat kontrak tersebut. Angka target yang spesifik dan proyeksi terperinci perlu diperiksa dalam laporan asli. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "731ebee0e256",
-    "slug": "한국콜마-韓법인-창사-이래-최대-분기-실적목표가-유안타-257088",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T00:02:17.563Z",
-    "updatedAt": "2026-05-11T00:02:17.563Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051169986",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051169986",
-    "titleFingerprint": "e6129b2cb0f88b2d7588905641ebf4a7de3d4794",
-    "dedupKeys": [
-      "731ebee0e2562cd2071b0c0956db63f97e880984",
-      "e6129b2cb0f88b2d7588905641ebf4a7de3d4794",
-      "6bfdd0f851625b2770f1ba735c690fc38e590281"
-    ],
-    "imageUrl": "/images/articles/731ebee0e256.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국콜마 韓법인 사상 최대 분기 실적, 유안타 목표가 상향 배경은",
-        "excerpt": "유안타증권은 11일 한국콜마의 한국 법인이 창사 이래 최대 분기 실적을 기록했다며 목표주가를 높이고 실적 개선 흐름에 주목했다.",
-        "body": "유안타증권은 11일 한국콜마에 대해 한국 법인이 창사 이래 최대 분기 실적을 냈다며 목표주가를 상향했다. 한국콜마의 1분기 연결 매출은 7280억3600만원, 영업이익은 788억8600만원으로 전년 동기 대비 각각 11.48%, 31.61% 증가했다. 별도 기준 한국 법인 매출은 3430억4700만원, 영업이익은 512억3400만원을 기록했다. 국내 법인의 수익성 개선과 주문 확대가 전사 실적을 이끈 것으로 해석된다. 유안타증권은 이 같은 흐름을 반영해 목표가를 올렸고, 투자자들은 성수기 수요와 수익성 지속 여부를 주시할 전망이다. 출처: hankyung.com 인용"
-      },
-      "en": {
-        "title": "Kolmar Korea Unit Posts Record Quarter as Yuanta Raises Target Price",
-        "excerpt": "Yuanta Securities said on May 11 that Kolmar Korea’s domestic unit delivered its strongest quarterly performance since founding, prompting a target price increase.",
-        "body": "Yuanta Securities raised its target price for Kolmar Korea on May 11, citing the Korean unit’s strongest quarterly performance since the company was founded. Kolmar Korea reported first-quarter consolidated revenue of 728.036 billion won and operating profit of 78.886 billion won, up 11.48% and 31.61% year on year. On a separate basis, the Korean unit posted revenue of 343.047 billion won and operating profit of 51.234 billion won. The results indicate that stronger domestic profitability and expanded orders led overall earnings. Yuanta reflected this momentum in its higher target, while investors are expected to watch peak-season demand and margin sustainability. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓国コルマー韓国法人が過去最高四半期、ユアンタが目標株価上げ",
-        "excerpt": "ユアンタ証券は11日、韓国コルマーの韓国法人が創業以来最大の四半期業績を記録したとして、目標株価を引き上げた。",
-        "body": "ユアンタ証券は11日、韓国コルマーについて、韓国法人が創業以来最大の四半期業績を達成したとして目標株価を引き上げた。韓国コルマーの第1四半期連結売上高は7280億3600万ウォン、営業利益は788億8600万ウォンで、前年同期比それぞれ11.48%、31.61%増加した。単独基準の韓国法人売上高は3430億4700万ウォン、営業利益は512億3400万ウォンだった。国内法人の収益性改善と受注拡大が全社業績をけん引したとみられる。ユアンタ証券はこの流れを反映して目標株価を上げ、投資家は繁忙期需要と収益性の持続を注視する見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国科玛韩国法人创季度新高，元大证券上调目标价",
-        "excerpt": "元大证券11日表示，韩国科玛韩国法人录得公司成立以来最高季度业绩，因此上调目标股价并关注盈利改善。",
-        "body": "元大证券11日上调韩国科玛目标股价，理由是其韩国法人录得公司成立以来最高季度业绩。韩国科玛第一季度合并营收为7280.36亿韩元，营业利润为788.86亿韩元，同比分别增长11.48%和31.61%。按单独口径计算，韩国法人营收为3430.47亿韩元，营业利润为512.34亿韩元。市场解读认为，国内法人盈利能力改善和订单扩大推动了整体业绩。元大证券将这一趋势反映到目标价上调中，投资者预计将关注旺季需求及盈利能力能否持续。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Kolmar Korea marca récord trimestral local y Yuanta eleva precio objetivo",
-        "excerpt": "Yuanta Securities dijo el 11 de mayo que la filial coreana de Kolmar Korea logró su mayor resultado trimestral desde su fundación y elevó el precio objetivo.",
-        "body": "Yuanta Securities elevó el 11 de mayo el precio objetivo de Kolmar Korea, al señalar que su filial coreana registró el mayor resultado trimestral desde la fundación de la compañía. En el primer trimestre, Kolmar Korea obtuvo ingresos consolidados de 728.036 millones de wones y beneficio operativo de 78.886 millones, aumentos interanuales del 11,48% y 31,61%. En base separada, la filial coreana registró ingresos de 343.047 millones de wones y beneficio operativo de 51.234 millones. La mejora de rentabilidad local y el aumento de pedidos impulsaron los resultados del grupo. Yuanta reflejó esta tendencia en su alza de objetivo, mientras los inversores observarán la demanda de temporada alta y la continuidad de los márgenes. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Kolmar Korea tem trimestre recorde na Coreia e Yuanta eleva preço-alvo",
-        "excerpt": "A Yuanta Securities afirmou em 11 de maio que a unidade coreana da Kolmar Korea registrou o maior resultado trimestral desde a fundação e elevou o preço-alvo.",
-        "body": "A Yuanta Securities elevou em 11 de maio o preço-alvo da Kolmar Korea, citando o maior desempenho trimestral da unidade coreana desde a fundação da empresa. No primeiro trimestre, a Kolmar Korea registrou receita consolidada de 728,036 bilhões de won e lucro operacional de 78,886 bilhões de won, altas anuais de 11,48% e 31,61%. Em base separada, a unidade coreana teve receita de 343,047 bilhões de won e lucro operacional de 51,234 bilhões de won. A melhora da rentabilidade doméstica e a expansão de pedidos lideraram o resultado geral. A Yuanta incorporou esse movimento ao novo preço-alvo, e investidores devem acompanhar a demanda de alta temporada e a sustentação das margens. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Kolmar Korea mit Rekordquartal der Koreasparte, Yuanta hebt Kursziel an",
-        "excerpt": "Yuanta Securities erklärte am 11. Mai, die koreanische Einheit von Kolmar Korea habe ihr bestes Quartal seit Gründung erzielt, und hob das Kursziel an.",
-        "body": "Yuanta Securities hat am 11. Mai das Kursziel für Kolmar Korea angehoben, nachdem die koreanische Einheit das stärkste Quartal seit der Unternehmensgründung erzielt hatte. Kolmar Korea meldete im ersten Quartal einen Konzernumsatz von 728,036 Mrd. Won und einen operativen Gewinn von 78,886 Mrd. Won, ein Plus von 11,48% bzw. 31,61% gegenüber dem Vorjahr. Auf Einzelbasis erzielte die koreanische Einheit 343,047 Mrd. Won Umsatz und 51,234 Mrd. Won operativen Gewinn. Verbesserte Profitabilität im Inland und mehr Aufträge trieben die Gesamtleistung. Yuanta berücksichtigte diesen Trend im höheren Kursziel; Anleger dürften Nachfrage in der Hochsaison und Margenstabilität beobachten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Kolmar Korea signe un record trimestriel local, Yuanta relève son objectif",
-        "excerpt": "Yuanta Securities a indiqué le 11 mai que l’unité coréenne de Kolmar Korea avait réalisé son meilleur trimestre depuis sa création, justifiant une hausse d’objectif.",
-        "body": "Yuanta Securities a relevé le 11 mai son objectif de cours sur Kolmar Korea, estimant que l’unité coréenne avait signé le meilleur trimestre depuis la création de l’entreprise. Au premier trimestre, Kolmar Korea a publié un chiffre d’affaires consolidé de 728,036 milliards de wons et un bénéfice opérationnel de 78,886 milliards, en hausse de 11,48% et 31,61% sur un an. En données séparées, l’unité coréenne a réalisé 343,047 milliards de wons de revenus et 51,234 milliards de bénéfice opérationnel. L’amélioration de la rentabilité domestique et l’augmentation des commandes ont soutenu l’ensemble du groupe. Yuanta a intégré cette dynamique dans son relèvement, tandis que les investisseurs suivront la demande de haute saison et la tenue des marges. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كولمار كوريا تحقق رقما فصليا قياسيا محليا ويوانتا ترفع السعر المستهدف",
-        "excerpt": "قالت يوانتا للأوراق المالية في 11 مايو إن وحدة كولمار كوريا المحلية سجلت أقوى أداء فصلي منذ التأسيس، ما دفعها لرفع السعر المستهدف.",
-        "body": "رفعت يوانتا للأوراق المالية في 11 مايو السعر المستهدف لسهم كولمار كوريا، مشيرة إلى أن الوحدة الكورية حققت أكبر أداء فصلي منذ تأسيس الشركة. وسجلت كولمار كوريا في الربع الأول إيرادات موحدة قدرها 728.036 مليار وون وأرباحا تشغيلية قدرها 78.886 مليار وون، بزيادة سنوية 11.48% و31.61% على التوالي. وعلى أساس منفصل، بلغت إيرادات الوحدة الكورية 343.047 مليار وون والأرباح التشغيلية 51.234 مليار وون. ويعكس ذلك أن تحسن ربحية النشاط المحلي وتوسع الطلبات قادا نتائج الشركة ككل. وأدرجت يوانتا هذا الزخم في رفع السعر المستهدف، بينما يتوقع أن يراقب المستثمرون طلب موسم الذروة واستمرار الربحية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कोलमार कोरिया की स्थानीय इकाई का रिकॉर्ड तिमाही प्रदर्शन, यूआंटा ने लक्ष्य बढ़ाया",
-        "excerpt": "यूआंटा सिक्योरिटीज ने 11 मई को कहा कि कोलमार कोरिया की कोरियाई इकाई ने स्थापना के बाद सबसे बड़ा तिमाही प्रदर्शन किया, इसलिए लक्ष्य मूल्य बढ़ाया गया।",
-        "body": "यूआंटा सिक्योरिटीज ने 11 मई को कोलमार कोरिया का लक्ष्य मूल्य बढ़ाया, यह कहते हुए कि उसकी कोरियाई इकाई ने कंपनी की स्थापना के बाद सबसे बड़ा तिमाही प्रदर्शन दर्ज किया। पहली तिमाही में कोलमार कोरिया का समेकित राजस्व 728.036 अरब वॉन और परिचालन लाभ 78.886 अरब वॉन रहा, जो सालाना आधार पर क्रमशः 11.48% और 31.61% अधिक है। अलग आधार पर कोरियाई इकाई का राजस्व 343.047 अरब वॉन और परिचालन लाभ 51.234 अरब वॉन रहा। घरेलू इकाई की लाभप्रदता में सुधार और ऑर्डर विस्तार ने कुल प्रदर्शन को सहारा दिया। यूआंटा ने इसी रुझान को लक्ष्य वृद्धि में शामिल किया, जबकि निवेशक पीक सीजन मांग और मार्जिन की स्थिरता पर नजर रखेंगे। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Unit Korea Kolmar Cetak Rekor Kuartalan, Yuanta Naikkan Target Harga",
-        "excerpt": "Yuanta Securities pada 11 Mei menyebut unit Korea Kolmar Korea membukukan kinerja kuartalan terbesar sejak berdiri, sehingga target harga dinaikkan.",
-        "body": "Yuanta Securities menaikkan target harga Kolmar Korea pada 11 Mei, dengan alasan unit Korea mencatat kinerja kuartalan terbesar sejak perusahaan berdiri. Pada kuartal pertama, Kolmar Korea membukukan pendapatan konsolidasi 728,036 miliar won dan laba operasi 78,886 miliar won, masing-masing naik 11,48% dan 31,61% secara tahunan. Secara terpisah, unit Korea mencatat pendapatan 343,047 miliar won dan laba operasi 51,234 miliar won. Peningkatan profitabilitas domestik dan perluasan pesanan dinilai mendorong kinerja keseluruhan. Yuanta memasukkan tren ini dalam kenaikan target harga, sementara investor diperkirakan memantau permintaan musim puncak dan keberlanjutan margin. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5087a0deff7a",
-    "slug": "중동-불안-美中-정상회담코스피-7500-안착-여부-주목-544722",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T00:00:42.122Z",
-    "updatedAt": "2026-05-11T00:00:42.122Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605117026i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605117026i",
-    "titleFingerprint": "d46a0d132dc3218135ca2fca30c47d5692b68654",
-    "dedupKeys": [
-      "5087a0deff7a201b5dd684210f383274388a372d",
-      "d46a0d132dc3218135ca2fca30c47d5692b68654",
-      "2de54af73b7c0d3dfaadd767926edbce67ef020c"
-    ],
-    "imageUrl": "/images/articles/5087a0deff7a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중동 불안·미중 정상회담 변수, 코스피 7500 안착 여부에 시장 촉각",
-        "excerpt": "중동 불안과 미국·중국 정상회담이 증시 변수로 부각되면서 코스피가 7500선에 안착할 수 있을지 시장의 관심이 집중되고 있다.",
-        "body": "중동 지역 불안과 미국·중국 정상회담이 국내 증시의 주요 변수로 떠오르며 코스피 7500 안착 여부가 주목받고 있다. 시장은 지정학적 불확실성과 미중 관계 흐름이 투자 심리와 지수 방향에 어떤 영향을 줄지 살피고 있다. 원문은 코스피가 7500선에 안착할 수 있을지가 관심사라고 전했다. 관련 변수들이 증시에 미칠 영향은 향후 흐름을 통해 확인될 전망이다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Middle East Tensions and US-China Summit Put KOSPI 7500 in Focus",
-        "excerpt": "As Middle East unrest and a US-China summit emerge as stock market variables, investors are watching whether the KOSPI can settle above 7500.",
-        "body": "Middle East instability and the US-China summit have emerged as key variables for South Korea’s stock market, putting attention on whether the KOSPI can settle around the 7500 level. Markets are watching how geopolitical uncertainty and the direction of US-China relations may affect investor sentiment and the index. The original report said the key focus is whether the KOSPI can establish itself at 7500. The impact of these factors will be confirmed through future market moves. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "中東不安と米中首脳会談が変数、KOSPI 7500定着に市場注目",
-        "excerpt": "中東情勢の不安と米中首脳会談が株式市場の変数として浮上し、KOSPIが7500台に定着できるかに関心が集まっている。",
-        "body": "中東地域の不安と米国・中国の首脳会談が韓国株式市場の主要な変数として浮上し、KOSPIの7500定着可否が注目されている。市場は地政学的不確実性と米中関係の流れが投資心理や指数の方向にどのような影響を与えるかを見守っている。原文は、KOSPIが7500水準に定着できるかが関心事だと伝えた。関連要因の影響は今後の市場動向で確認される見通しだ。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "中东不安与美中峰会成变量，市场关注KOSPI能否站稳7500",
-        "excerpt": "随着中东不安和美中峰会成为股市变量，市场正在关注KOSPI能否在7500点位站稳。",
-        "body": "中东地区不安和美国、中国首脑会谈成为韩国股市的主要变量，KOSPI能否站稳7500受到关注。市场正在观察地缘政治不确定性以及美中关系走向将如何影响投资情绪和指数方向。原文称，KOSPI是否能够在7500点位站稳是关注焦点。相关因素对股市的影响仍有待后续走势确认。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Tensión en Oriente Medio y cumbre EE.UU.-China enfocan al KOSPI 7500",
-        "excerpt": "La inestabilidad en Oriente Medio y la cumbre entre EE.UU. y China ganan peso como variables bursátiles, mientras el mercado observa si el KOSPI se afianza en 7500.",
-        "body": "La inestabilidad en Oriente Medio y la cumbre entre Estados Unidos y China se han convertido en variables clave para la bolsa surcoreana, con la atención puesta en si el KOSPI puede afianzarse en el nivel de 7500. El mercado observa cómo la incertidumbre geopolítica y el rumbo de las relaciones entre Washington y Pekín podrían afectar el ánimo inversor y la dirección del índice. El texto original señaló que el foco está en la capacidad del KOSPI para asentarse en 7500. Su impacto se confirmará con la evolución posterior. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Tensão no Oriente Médio e cúpula EUA-China põem KOSPI 7500 no radar",
-        "excerpt": "A instabilidade no Oriente Médio e a cúpula entre EUA e China surgem como variáveis para a bolsa, enquanto o mercado observa se o KOSPI se firma em 7500.",
-        "body": "A instabilidade no Oriente Médio e a cúpula entre Estados Unidos e China surgem como variáveis importantes para o mercado acionário sul-coreano, colocando em foco se o KOSPI conseguirá se firmar no nível de 7500. O mercado acompanha como a incerteza geopolítica e o rumo das relações entre EUA e China podem influenciar o sentimento dos investidores e a direção do índice. O texto original afirmou que a questão central é se o KOSPI poderá se estabelecer em 7500. O impacto será confirmado pelos próximos movimentos. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Nahost-Unruhe und USA-China-Gipfel rücken KOSPI 7500 in den Fokus",
-        "excerpt": "Unruhe im Nahen Osten und ein Gipfel zwischen den USA und China werden zu Börsenfaktoren, während Anleger beobachten, ob sich der KOSPI bei 7500 hält.",
-        "body": "Die Unsicherheit im Nahen Osten und der Gipfel zwischen den USA und China sind zu wichtigen Variablen für den südkoreanischen Aktienmarkt geworden. Im Mittelpunkt steht, ob sich der KOSPI auf dem Niveau von 7500 etablieren kann. Der Markt beobachtet, wie geopolitische Unsicherheit und die Entwicklung der Beziehungen zwischen den USA und China die Anlegerstimmung und die Richtung des Index beeinflussen könnten. Der Originalbericht nannte die Frage, ob der KOSPI bei 7500 Fuß fassen kann, als zentrales Thema. Die Auswirkungen werden sich im weiteren Verlauf zeigen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Tensions au Moyen-Orient et sommet USA-Chine placent le KOSPI 7500 au centre",
-        "excerpt": "Les tensions au Moyen-Orient et le sommet entre les États-Unis et la Chine deviennent des variables de marché, tandis que les investisseurs surveillent le KOSPI à 7500.",
-        "body": "L’instabilité au Moyen-Orient et le sommet entre les États-Unis et la Chine apparaissent comme des variables majeures pour la Bourse sud-coréenne, attirant l’attention sur la capacité du KOSPI à s’installer au niveau de 7500. Le marché observe comment l’incertitude géopolitique et l’évolution des relations entre Washington et Pékin pourraient influencer le sentiment des investisseurs et l’orientation de l’indice. Le texte original indique que l’enjeu est de savoir si le KOSPI peut se stabiliser à 7500. Les effets seront confirmés par les prochains mouvements. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "توتر الشرق الأوسط وقمة أميركا والصين يضعان كوسبي 7500 تحت الأنظار",
-        "excerpt": "مع بروز اضطرابات الشرق الأوسط والقمة الأميركية الصينية كعوامل مؤثرة في الأسهم، يراقب السوق ما إذا كان كوسبي سيتمكن من الاستقرار عند 7500.",
-        "body": "برزت اضطرابات الشرق الأوسط والقمة بين الولايات المتحدة والصين كعاملين رئيسيين في سوق الأسهم الكورية الجنوبية، ما جعل قدرة مؤشر كوسبي على الاستقرار عند مستوى 7500 محط اهتمام. يراقب السوق كيف يمكن أن تؤثر حالة عدم اليقين الجيوسياسي ومسار العلاقات الأميركية الصينية في معنويات المستثمرين واتجاه المؤشر. وذكر النص الأصلي أن محور الاهتمام هو ما إذا كان كوسبي سيتمكن من التمركز عند 7500. وسيظهر أثر هذه العوامل من خلال التحركات اللاحقة للسوق. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "मध्य पूर्व तनाव और US-China शिखर बैठक से KOSPI 7500 पर बाजार की नजर",
-        "excerpt": "मध्य पूर्व की अस्थिरता और अमेरिका-चीन शिखर बैठक शेयर बाजार के प्रमुख कारक बनते हुए KOSPI के 7500 स्तर पर टिकने की संभावना पर ध्यान खींच रहे हैं।",
-        "body": "मध्य पूर्व क्षेत्र की अस्थिरता और अमेरिका-चीन शिखर बैठक दक्षिण कोरिया के शेयर बाजार के प्रमुख कारक के रूप में उभरे हैं, जिससे KOSPI के 7500 स्तर पर टिकने को लेकर ध्यान बढ़ा है। बाजार देख रहा है कि भू-राजनीतिक अनिश्चितता और अमेरिका-चीन संबंधों की दिशा निवेशक भावना और सूचकांक की चाल को कैसे प्रभावित कर सकती है। मूल रिपोर्ट में कहा गया कि मुख्य सवाल यह है कि KOSPI 7500 पर स्थिर हो पाएगा या नहीं। इन कारकों का असर आगे की बाजार चाल से स्पष्ट होगा। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Ketegangan Timur Tengah dan KTT AS-China Sorot KOSPI di Level 7500",
-        "excerpt": "Ketidakpastian Timur Tengah dan KTT AS-China menjadi variabel pasar saham, sementara investor mencermati apakah KOSPI dapat bertahan di level 7500.",
-        "body": "Ketidakpastian di Timur Tengah dan pertemuan puncak Amerika Serikat-China muncul sebagai variabel utama bagi pasar saham Korea Selatan, sehingga perhatian tertuju pada apakah KOSPI dapat bertahan di level 7500. Pasar mencermati bagaimana ketidakpastian geopolitik dan arah hubungan AS-China dapat memengaruhi sentimen investor serta pergerakan indeks. Teks asli menyebutkan bahwa fokus utama adalah apakah KOSPI mampu menetap di 7500. Dampak faktor-faktor tersebut akan terlihat dari pergerakan pasar berikutnya. Sumber: hankyung.com."
       }
     }
   }
