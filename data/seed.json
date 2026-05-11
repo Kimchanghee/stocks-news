@@ -1,5 +1,230 @@
 [
   {
+    "id": "d3508c42de45",
+    "slug": "국세청-하나금융-이어-메리츠증권도-세무조사-447701",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T12:29:30.864Z",
+    "updatedAt": "2026-05-11T12:29:30.864Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043556",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043556",
+    "titleFingerprint": "210ec625097615653e7ba7a6734f50cfcf0beeea",
+    "dedupKeys": [
+      "d3508c42de4599510898b35173ba2e10713fce9e",
+      "210ec625097615653e7ba7a6734f50cfcf0beeea",
+      "7f323709f4d5fe6b40c7c58bd951d2e7ee60011c"
+    ],
+    "imageUrl": "/images/articles/d3508c42de45.jpg",
+    "i18n": {
+      "ko": {
+        "title": "국세청 특별 세무조사 확대, 하나금융 이어 메리츠증권도 대상",
+        "excerpt": "국세청이 11일 메리츠증권에 대한 비정기 특별 세무조사에 착수했다. 지난 8일 하나금융지주와 하나은행 조사 이후 사흘 만에 주요 금융사를 잇달아 조사한 것이다.",
+        "body": "국세청이 11일 메리츠증권을 대상으로 비정기 특별 세무조사에 나섰다. 이는 지난 8일 하나금융지주와 하나은행에 대한 특별 세무조사에 착수한 지 사흘 만에 이뤄진 것으로, 주요 금융권을 대상으로 한 조사가 이어지는 흐름이다. 원문에 따르면 국세청은 하나금융 계열에 이어 주요 증권사인 메리츠증권까지 조사 대상에 포함했다. 이번 조사와 관련한 구체적인 배경이나 조사 범위는 원문에 추가로 제시되지 않았다. 금융권에서는 국세청의 잇따른 비정기 특별 세무조사 진행 여부와 향후 대상 확대 가능성에 관심이 모일 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Tax Agency Expands Special Audits, Targets Meritz Securities After Hana",
+        "excerpt": "South Korea’s tax agency began a non-regular special tax audit of Meritz Securities on May 11, three days after launching audits of Hana Financial Group and Hana Bank on May 8.",
+        "body": "South Korea’s National Tax Service began a non-regular special tax audit of Meritz Securities on May 11. The move came three days after the agency launched special tax audits of Hana Financial Group and Hana Bank on May 8, marking consecutive scrutiny of major financial institutions. According to the original report, Meritz Securities, a major securities firm, was added to the list of audit targets after the Hana Financial affiliates. The report did not provide further details on the specific background or scope of the latest audit. Market attention may now focus on whether the tax agency continues similar non-regular special audits across the financial sector. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国国税庁が特別税務調査を拡大、ハナ金融に続きメリッツ証券も対象",
+        "excerpt": "韓国国税庁は11日、メリッツ証券への非定期の特別税務調査に着手した。8日のハナ金融持株とハナ銀行への調査開始から3日後の動きだ。",
+        "body": "韓国国税庁は11日、メリッツ証券を対象に非定期の特別税務調査に入った。これは8日にハナ金融持株とハナ銀行への特別税務調査に着手してから3日後のことで、主要金融機関への調査が相次いでいる形だ。原文によると、国税庁はハナ金融系に続き、主要証券会社であるメリッツ証券も調査対象に含めた。今回の調査について、具体的な背景や調査範囲は原文では追加で示されていない。金融業界では、国税庁による非定期の特別税務調査が今後も続くのか、対象がさらに広がるのかに関心が集まる可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国国税厅扩大特别税务调查，继韩亚金融后转向Meritz证券",
+        "excerpt": "韩国国税厅11日对Meritz证券启动非定期特别税务调查，距8日对韩亚金融控股和韩亚银行展开特别税务调查仅过去三天。",
+        "body": "韩国国税厅11日对Meritz证券启动非定期特别税务调查。此前，国税厅已于8日对韩亚金融控股和韩亚银行展开特别税务调查，三天后又将主要证券公司纳入调查范围，显示对主要金融机构的调查接连进行。根据原文报道，国税厅在韩亚金融相关机构之后，将Meritz证券这一主要证券公司列为调查对象。原文未进一步说明此次调查的具体背景或调查范围。金融业界可能会关注国税厅是否继续推进类似非定期特别税务调查，以及未来调查对象是否会进一步扩大。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La agencia tributaria amplía auditorías especiales y apunta a Meritz tras Hana",
+        "excerpt": "La agencia tributaria surcoreana inició el 11 de mayo una auditoría fiscal especial no regular a Meritz Securities, tres días después de auditar a Hana Financial Group y Hana Bank.",
+        "body": "El Servicio Nacional de Impuestos de Corea del Sur inició el 11 de mayo una auditoría fiscal especial no regular a Meritz Securities. La medida se produjo tres días después de que el organismo comenzara auditorías especiales a Hana Financial Group y Hana Bank el 8 de mayo, lo que muestra una revisión consecutiva de importantes entidades financieras. Según el reporte original, Meritz Securities, una firma relevante de valores, fue incluida como objetivo tras las filiales de Hana Financial. El texto no ofreció más detalles sobre el contexto específico ni el alcance de la investigación. En el sector financiero, la atención podría centrarse en si la autoridad tributaria continúa con auditorías especiales no regulares y si amplía sus objetivos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Fisco amplia auditorias especiais e mira Meritz Securities após Hana",
+        "excerpt": "A autoridade tributária da Coreia do Sul iniciou em 11 de maio uma auditoria fiscal especial não regular na Meritz Securities, três dias após ações contra Hana Financial Group e Hana Bank.",
+        "body": "O Serviço Nacional de Impostos da Coreia do Sul iniciou em 11 de maio uma auditoria fiscal especial não regular na Meritz Securities. A medida ocorreu três dias depois de o órgão começar auditorias especiais no Hana Financial Group e no Hana Bank, em 8 de maio, indicando uma sequência de fiscalizações sobre importantes instituições financeiras. Segundo a reportagem original, a Meritz Securities, uma grande corretora, passou a integrar a lista de alvos após as empresas ligadas ao Hana Financial. O texto não apresentou detalhes adicionais sobre o contexto específico nem sobre o escopo da auditoria. No setor financeiro, a atenção pode se voltar para a continuidade dessas auditorias especiais não regulares e para uma possível ampliação dos alvos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Steuerbehörde weitet Sonderprüfungen aus: Nach Hana nun Meritz Securities",
+        "excerpt": "Südkoreas Steuerbehörde begann am 11. Mai eine außerplanmäßige Sondersteuerprüfung bei Meritz Securities, drei Tage nach Prüfungen bei Hana Financial Group und Hana Bank.",
+        "body": "Der südkoreanische National Tax Service hat am 11. Mai eine außerplanmäßige Sondersteuerprüfung bei Meritz Securities eingeleitet. Der Schritt erfolgte drei Tage nachdem die Behörde am 8. Mai Sondersteuerprüfungen bei Hana Financial Group und Hana Bank begonnen hatte, womit mehrere große Finanzunternehmen nacheinander geprüft werden. Dem ursprünglichen Bericht zufolge wurde Meritz Securities, ein bedeutendes Wertpapierhaus, nach den Hana-Financial-Einheiten in den Kreis der Prüfungsziele aufgenommen. Weitere Angaben zum konkreten Hintergrund oder Umfang der Prüfung wurden im Bericht nicht genannt. Im Finanzsektor dürfte nun im Fokus stehen, ob die Steuerbehörde weitere außerplanmäßige Sonderprüfungen durchführt und ob sich der Kreis der Betroffenen ausweitet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le fisc sud-coréen élargit ses contrôles spéciaux, Meritz visé après Hana",
+        "excerpt": "Le fisc sud-coréen a lancé le 11 mai un contrôle fiscal spécial non régulier visant Meritz Securities, trois jours après ceux visant Hana Financial Group et Hana Bank.",
+        "body": "Le Service national des impôts de Corée du Sud a lancé le 11 mai un contrôle fiscal spécial non régulier visant Meritz Securities. Cette mesure intervient trois jours après l’ouverture, le 8 mai, de contrôles fiscaux spéciaux visant Hana Financial Group et Hana Bank, signe d’examens successifs de grandes institutions financières. Selon l’article d’origine, Meritz Securities, une importante société de courtage, a été ajoutée aux cibles après les entités liées à Hana Financial. Le texte ne donne pas davantage de détails sur le contexte précis ni sur le périmètre du contrôle. Dans le secteur financier, l’attention pourrait désormais porter sur la poursuite de ces contrôles fiscaux spéciaux non réguliers et sur une éventuelle extension des cibles. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيئة الضرائب الكورية توسع التحقيقات الخاصة وتستهدف ميريتز بعد هانا",
+        "excerpt": "بدأت هيئة الضرائب في كوريا الجنوبية في 11 مايو تحقيقا ضريبيا خاصا غير دوري مع ميريتز للأوراق المالية، بعد ثلاثة أيام من تحقيقات شملت هانا المالية وبنك هانا.",
+        "body": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية في 11 مايو تحقيقا ضريبيا خاصا غير دوري مع ميريتز للأوراق المالية. وجاءت الخطوة بعد ثلاثة أيام من بدء تحقيقات ضريبية خاصة في 8 مايو مع هانا فايننشال غروب وبنك هانا، ما يعني أن مؤسسات مالية كبرى تخضع للتدقيق تباعا. ووفقا للتقرير الأصلي، أدرجت الهيئة ميريتز للأوراق المالية، وهي شركة وساطة رئيسية، ضمن أهداف التحقيق بعد كيانات هانا المالية. ولم يورد التقرير تفاصيل إضافية عن الخلفية المحددة أو نطاق التحقيق الأخير. وقد يتجه اهتمام القطاع المالي إلى ما إذا كانت الهيئة ستواصل هذه التحقيقات الضريبية الخاصة غير الدورية وما إذا كانت ستوسع نطاق الجهات المستهدفة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई कर एजेंसी ने विशेष जांच बढ़ाई, हाना के बाद Meritz Securities निशाने पर",
+        "excerpt": "दक्षिण कोरिया की कर एजेंसी ने 11 मई को Meritz Securities की अनियमित विशेष कर जांच शुरू की, 8 मई को Hana Financial Group और Hana Bank की जांच के तीन दिन बाद।",
+        "body": "दक्षिण कोरिया की नेशनल टैक्स सर्विस ने 11 मई को Meritz Securities के खिलाफ अनियमित विशेष कर जांच शुरू की। यह कदम 8 मई को Hana Financial Group और Hana Bank के खिलाफ विशेष कर जांच शुरू होने के तीन दिन बाद उठाया गया, जिससे प्रमुख वित्तीय संस्थानों पर लगातार जांच का संकेत मिलता है। मूल रिपोर्ट के अनुसार, Hana Financial से जुड़ी इकाइयों के बाद Meritz Securities, जो एक प्रमुख प्रतिभूति कंपनी है, को भी जांच के दायरे में शामिल किया गया। रिपोर्ट में इस जांच की विशेष पृष्ठभूमि या दायरे पर अतिरिक्त जानकारी नहीं दी गई। वित्तीय क्षेत्र में अब ध्यान इस बात पर रह सकता है कि क्या कर एजेंसी ऐसी अनियमित विशेष कर जांच जारी रखेगी और क्या लक्षित संस्थानों का दायरा बढ़ेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Otoritas Pajak Korea Perluas Audit Khusus, Meritz Jadi Sasaran Setelah Hana",
+        "excerpt": "Otoritas pajak Korea Selatan pada 11 Mei memulai audit pajak khusus nonreguler terhadap Meritz Securities, tiga hari setelah audit terhadap Hana Financial Group dan Hana Bank.",
+        "body": "National Tax Service Korea Selatan pada 11 Mei memulai audit pajak khusus nonreguler terhadap Meritz Securities. Langkah ini terjadi tiga hari setelah otoritas tersebut memulai audit pajak khusus terhadap Hana Financial Group dan Hana Bank pada 8 Mei, sehingga menunjukkan pemeriksaan beruntun terhadap lembaga keuangan besar. Menurut laporan asli, Meritz Securities, salah satu perusahaan sekuritas utama, dimasukkan sebagai target setelah entitas Hana Financial. Laporan itu tidak memberikan rincian tambahan mengenai latar belakang khusus atau ruang lingkup audit terbaru. Di sektor keuangan, perhatian dapat tertuju pada apakah otoritas pajak akan melanjutkan audit pajak khusus nonreguler serupa dan apakah targetnya akan diperluas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "22042c53ef2b",
+    "slug": "천장-안보이는-코스피-1만2천피-전망도-나왔다-233424",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T12:28:20.112Z",
+    "updatedAt": "2026-05-11T12:28:20.112Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043560",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043560",
+    "titleFingerprint": "d7f912e73b9872362999e0fb91189822556d77ee",
+    "dedupKeys": [
+      "22042c53ef2b26cbc100508e5bf9a94c63554734",
+      "d7f912e73b9872362999e0fb91189822556d77ee",
+      "23669b165f0398d3855d6efac20addb5701063df"
+    ],
+    "imageUrl": "/images/articles/22042c53ef2b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7800선 돌파, 반도체 투톱 질주에 1만2000 전망까지",
+        "excerpt": "코스피가 반도체 투톱의 강세에 힘입어 하루 새 324포인트 오르며 사상 처음 7800선을 돌파했고, 국내외 증권사들은 목표치를 ‘만스피’ 이상으로 높이고 있다.",
+        "body": "코스피가 반도체 투톱의 쾌속 질주에 힘입어 전인미답의 7800선을 돌파했다. 하루 새 324포인트 상승한 수준으로, 국내 증시의 강한 상승 흐름이 다시 확인됐다. 이번 상승의 중심에는 반도체 대표 종목들의 강세가 자리했다. 지수는 단기간에 큰 폭으로 오르며 시장의 관심을 집중시켰고, 국내외 증권사들은 앞다퉈 코스피 목표치를 ‘만스피’ 수준으로 제시하고 있다. 일부에서는 1만2000선 전망까지 나오며 향후 지수 상단에 대한 기대가 커졌다. 다만 기사에서 확인된 핵심은 반도체 투톱 주도, 7800선 돌파, 하루 324포인트 상승, 증권가 목표치 상향이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kospi Breaks 7,800 as Chip Leaders Fuel Talk of 12,000 Target",
+        "excerpt": "The Kospi rose 324 points in a single day to break 7,800 for the first time, powered by two major semiconductor stocks, as brokerages lift targets toward and beyond the 10,000 mark.",
+        "body": "The Kospi broke through the unprecedented 7,800 level, driven by a rapid rally in South Korea’s two leading semiconductor stocks. The index climbed 324 points in one day, confirming strong upward momentum in the local stock market. Semiconductor bellwethers stood at the center of the move, drawing market attention as the benchmark advanced sharply in a short period. Domestic and overseas securities firms are now rushing to raise Kospi targets toward the so-called “Manspi,” or 10,000-point level. Some forecasts have even mentioned 12,000, lifting expectations for the index’s possible upside. The confirmed facts are the chip-led rally, the 7,800 breakout, the 324-point daily gain, and higher brokerage targets. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが7800突破、半導体2強の急伸で1万2000観測も",
+        "excerpt": "KOSPIは半導体2強の上昇に支えられ、1日で324ポイント上昇して初の7800台を突破し、国内外の証券会社は目標値を「1万KOSPI」以上へ引き上げている。",
+        "body": "KOSPIは半導体2強の急伸に支えられ、前人未到の7800台を突破した。1日で324ポイント上昇した水準で、韓国株式市場の強い上昇基調が改めて確認された。今回の上昇の中心には、代表的な半導体銘柄の堅調さがあった。指数は短期間で大きく上昇し、市場の関心を集めた。こうした中、国内外の証券会社は相次いでKOSPIの目標値を「1万KOSPI」水準へ引き上げている。一部では1万2000台の見通しも出ており、今後の上値への期待が高まった。確認された要点は、半導体2強主導、7800突破、1日324ポイント上昇、証券業界の目標値引き上げである。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破7800点，半导体双强拉动下现12000点展望",
+        "excerpt": "KOSPI在半导体两大龙头快速上涨带动下，单日上涨324点并首次突破7800点，韩国及海外券商正将目标上调至“万斯皮”以上。",
+        "body": "在半导体两大龙头快速上涨的推动下，KOSPI突破了前所未有的7800点关口。该指数单日上涨324点，显示韩国股市的强劲上行走势再次得到确认。本轮上涨的核心来自代表性半导体个股的强势表现。指数在短时间内大幅攀升，吸引市场高度关注。与此同时，韩国国内外证券公司纷纷将KOSPI目标位上调至所谓“万斯皮”水平，即1万点附近。部分机构甚至提出1万2000点展望，使市场对未来上方空间的期待升温。已确认的重点包括半导体双强主导、突破7800点、单日上涨324点以及券商目标上调。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kospi supera 7.800 puntos con chips líderes y ya se habla de 12.000",
+        "excerpt": "El Kospi subió 324 puntos en un solo día y superó por primera vez los 7.800, impulsado por dos grandes valores de semiconductores, mientras corredoras elevan sus metas hacia 10.000 y más.",
+        "body": "El Kospi superó el nivel inédito de 7.800 puntos gracias al rápido avance de los dos principales valores de semiconductores de Corea del Sur. El índice ganó 324 puntos en una sola jornada, confirmando el fuerte impulso alcista del mercado local. En el centro del movimiento estuvieron las acciones representativas del sector de chips, que llevaron al índice a una subida marcada en poco tiempo y concentraron la atención del mercado. En este contexto, corredoras nacionales y extranjeras se apresuran a elevar sus objetivos para el Kospi hacia el llamado nivel de “Manspi”, o 10.000 puntos. Algunas previsiones incluso mencionan 12.000 puntos, aumentando las expectativas sobre el techo potencial del índice. Los hechos confirmados son el liderazgo de los chips, la ruptura de 7.800, la subida diaria de 324 puntos y el alza de metas de las corredoras. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kospi rompe 7.800 pontos com chips líderes e projeção chega a 12.000",
+        "excerpt": "O Kospi avançou 324 pontos em um dia e superou pela primeira vez os 7.800, impulsionado por duas grandes ações de semicondutores, enquanto corretoras elevam metas para 10.000 ou mais.",
+        "body": "O Kospi rompeu o nível inédito de 7.800 pontos, impulsionado pela rápida valorização das duas principais ações de semicondutores da Coreia do Sul. O índice subiu 324 pontos em apenas um dia, confirmando a forte tendência de alta do mercado acionário local. No centro do movimento estiveram os papéis representativos do setor de chips, que levaram o índice a uma alta expressiva em curto período e atraíram a atenção dos investidores. Nesse cenário, corretoras domésticas e estrangeiras passaram a elevar suas metas para o Kospi em direção ao chamado nível de “Manspi”, ou 10.000 pontos. Algumas projeções já mencionam 12.000 pontos, ampliando as expectativas sobre o possível limite superior do índice. Os fatos confirmados são a liderança dos chips, a quebra de 7.800, o ganho diário de 324 pontos e a elevação das metas por corretoras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kospi durchbricht 7.800 Punkte dank Chip-Schwergewichten, 12.000 im Blick",
+        "excerpt": "Der Kospi stieg an einem Tag um 324 Punkte und überschritt erstmals die Marke von 7.800, getragen von zwei führenden Halbleiterwerten, während Broker Ziele Richtung 10.000 und darüber anheben.",
+        "body": "Der Kospi hat die bislang unerreichte Marke von 7.800 Punkten überschritten, angetrieben vom schnellen Lauf der zwei führenden südkoreanischen Halbleiteraktien. Der Index legte an einem Tag um 324 Punkte zu und bestätigte damit die starke Aufwärtsbewegung am heimischen Aktienmarkt. Im Zentrum des Anstiegs standen die repräsentativen Chipwerte, die den Index binnen kurzer Zeit deutlich steigen ließen und die Aufmerksamkeit des Marktes bündelten. Vor diesem Hintergrund erhöhen in- und ausländische Wertpapierhäuser ihre Kospi-Ziele in Richtung des sogenannten „Manspi“, also der Marke von 10.000 Punkten. Teilweise ist sogar von 12.000 Punkten die Rede, was die Erwartungen an weiteres Aufwärtspotenzial verstärkt. Bestätigt sind die Chip-Führung, der Ausbruch über 7.800, der Tagesgewinn von 324 Punkten und höhere Brokerziele. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Kospi franchit 7 800 points, les semi-conducteurs portent l’objectif 12 000",
+        "excerpt": "Le Kospi a gagné 324 points en une journée et dépassé pour la première fois 7 800, porté par deux grands titres des semi-conducteurs, tandis que les maisons de courtage relèvent leurs objectifs.",
+        "body": "Le Kospi a franchi le seuil inédit de 7 800 points, soutenu par la progression rapide des deux principaux titres sud-coréens des semi-conducteurs. L’indice a gagné 324 points en une seule journée, confirmant la forte dynamique haussière du marché local. Au cœur de ce mouvement figurent les valeurs représentatives des puces, qui ont entraîné une hausse marquée de l’indice en peu de temps et concentré l’attention du marché. Dans ce contexte, des sociétés de courtage coréennes et étrangères relèvent leurs objectifs pour le Kospi vers le niveau dit de “Manspi”, soit 10 000 points. Certaines prévisions évoquent même 12 000 points, renforçant les attentes sur le potentiel de hausse. Les faits confirmés sont la poussée menée par les semi-conducteurs, le franchissement de 7 800, le gain quotidien de 324 points et la hausse des objectifs des courtiers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 7800 نقطة بدعم عمالقة الرقائق وتوقعات تصل إلى 12000",
+        "excerpt": "ارتفع مؤشر كوسبي 324 نقطة في يوم واحد متجاوزا مستوى 7800 لأول مرة، بدعم من سهمين رئيسيين في أشباه الموصلات، فيما ترفع شركات الوساطة أهدافها نحو 10000 وما فوق.",
+        "body": "تجاوز مؤشر كوسبي مستوى غير مسبوق عند 7800 نقطة، مدعوما بالصعود السريع لسهمين رئيسيين في قطاع أشباه الموصلات في كوريا الجنوبية. وارتفع المؤشر 324 نقطة في يوم واحد، ما أكد قوة الاتجاه الصاعد في سوق الأسهم المحلية. وجاءت أسهم الرقائق البارزة في قلب هذا التحرك، إذ دفعت المؤشر إلى مكاسب كبيرة خلال فترة قصيرة وجذبت انتباه السوق. وفي هذا السياق، سارعت شركات وساطة محلية وأجنبية إلى رفع أهدافها لمؤشر كوسبي نحو مستوى يعرف باسم “مانسبي”، أي 10000 نقطة. كما ظهرت بعض التوقعات التي تشير إلى 12000 نقطة، ما زاد التوقعات بشأن الحد الأعلى المحتمل للمؤشر. الحقائق المؤكدة هي قيادة أسهم أشباه الموصلات، اختراق 7800 نقطة، الارتفاع اليومي البالغ 324 نقطة، ورفع أهداف شركات الوساطة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोस्पी 7,800 के पार, चिप दिग्गजों की तेजी से 12,000 की चर्चा",
+        "excerpt": "कोस्पी ने दो प्रमुख सेमीकंडक्टर शेयरों की मजबूती से एक दिन में 324 अंक चढ़कर पहली बार 7,800 का स्तर पार किया, जबकि देशी-विदेशी ब्रोकरेज लक्ष्य 10,000 और उससे ऊपर ले जा रहे हैं।",
+        "body": "कोस्पी ने दक्षिण कोरिया के दो प्रमुख सेमीकंडक्टर शेयरों की तेज रफ्तार बढ़त के सहारे पहली बार 7,800 का अभूतपूर्व स्तर पार किया। सूचकांक एक ही दिन में 324 अंक चढ़ा, जिससे स्थानीय शेयर बाजार की मजबूत तेजी फिर सामने आई। इस उछाल के केंद्र में प्रतिनिधि चिप शेयरों की मजबूती रही, जिन्होंने कम समय में सूचकांक को बड़े स्तर तक ऊपर पहुंचाया और बाजार का ध्यान खींचा। इसी बीच घरेलू और विदेशी ब्रोकरेज कोस्पी के लक्ष्य को तथाकथित “मांसपी”, यानी 10,000 अंक के स्तर की ओर बढ़ा रहे हैं। कुछ अनुमानों में 12,000 अंक तक का जिक्र भी आया है, जिससे आगे की ऊपरी संभावना को लेकर उम्मीद बढ़ी है। पुष्टि किए गए तथ्य हैं सेमीकंडक्टर शेयरों की अगुवाई, 7,800 का突破, 324 अंक की दैनिक बढ़त और ब्रोकरेज लक्ष्यों में वृद्धि। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kospi Tembus 7.800, Reli Saham Chip Picu Proyeksi Hingga 12.000",
+        "excerpt": "Kospi naik 324 poin dalam sehari dan untuk pertama kalinya menembus 7.800, ditopang dua saham semikonduktor utama, sementara sekuritas menaikkan target menuju 10.000 atau lebih.",
+        "body": "Kospi menembus level yang belum pernah dicapai sebelumnya, 7.800, berkat laju cepat dua saham utama semikonduktor Korea Selatan. Indeks naik 324 poin dalam satu hari, menegaskan kembali kuatnya tren kenaikan di pasar saham domestik. Pusat kenaikan kali ini adalah saham-saham perwakilan sektor chip, yang mendorong indeks melonjak tajam dalam waktu singkat dan menarik perhatian pasar. Dalam situasi tersebut, perusahaan sekuritas domestik dan asing berlomba menaikkan target Kospi ke level yang disebut “Manspi”, yaitu 10.000 poin. Sebagian proyeksi bahkan menyebut 12.000 poin, sehingga ekspektasi terhadap batas atas indeks meningkat. Fakta yang terkonfirmasi adalah reli dipimpin saham semikonduktor, tembus 7.800, kenaikan harian 324 poin, dan peningkatan target dari sekuritas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "eaf4c3d59e58",
+    "slug": "포토-2026-매경-증권연금대상-수상자-한자리에-448596",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T12:26:58.971Z",
+    "updatedAt": "2026-05-11T12:26:58.972Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12043559",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043559",
+    "titleFingerprint": "192b180075b7cb06dabf9f9d24aa898761e9b694",
+    "dedupKeys": [
+      "eaf4c3d59e583bc3114ca55b71278aa4b9f6ead4",
+      "192b180075b7cb06dabf9f9d24aa898761e9b694",
+      "747f5f553049619e1af330a2d73220b8ef6b3f1d"
+    ],
+    "imageUrl": "/images/articles/eaf4c3d59e58.jpg",
+    "i18n": {
+      "ko": {
+        "title": "2026 매경 증권·연금대상 수상자 한자리에 모인 현장 포착",
+        "excerpt": "매경이 보도한 ‘2026 매경 증권·연금대상’ 포토 기사에서 수상자들이 한자리에 모인 모습이 소개됐다. 증권과 연금 분야 수상 현장을 기록한 사진 기사다.",
+        "body": "‘2026 매경 증권·연금대상’ 수상자들이 한자리에 모였다. 매경은 해당 시상식의 수상자들이 함께 자리한 현장을 포토 기사로 전했다. 이번 보도는 증권과 연금 분야를 다루는 ‘매경 증권·연금대상’ 수상자들의 모습을 사진으로 소개한 내용이다. 원문에 별도 요약이나 추가 수치, 세부 수상 내역은 제시되지 않았다. 투자자와 금융업계 독자는 이번 포토 기사를 통해 시상식 현장 분위기와 수상자들의 참석 장면을 확인할 수 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "2026 Maeil Business Securities and Pension Awards Winners Gather in One Photo",
+        "excerpt": "Maeil Business reported a photo article showing winners of the 2026 Maeil Business Securities and Pension Awards gathered together at the event.",
+        "body": "Winners of the 2026 Maeil Business Securities and Pension Awards gathered in one place. Maeil Business introduced the scene through a photo article showing the award recipients together. The report focuses on a photographed moment from the awards, which cover the securities and pension fields. The original item did not provide a separate summary, additional figures, or detailed award categories. Readers in the investment and financial sectors can use the photo article to see the atmosphere of the ceremony and the attendance of the winners. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "2026毎経証券・年金大賞の受賞者が一堂に、写真記事で紹介",
+        "excerpt": "毎経は「2026毎経証券・年金大賞」の写真記事で、受賞者が一堂に会した場面を紹介した。証券と年金分野の授賞式を伝える内容だ。",
+        "body": "「2026毎経証券・年金大賞」の受賞者が一堂に会した。毎経は、同授賞式の受賞者がともに並んだ場面を写真記事として伝えた。今回の報道は、証券と年金分野を扱う「毎経証券・年金大賞」の受賞者の姿を写真で紹介する内容だ。原文には別途の要約、追加の数値、詳細な受賞内訳は示されていない。投資家や金融業界の読者は、この写真記事を通じて授賞式の雰囲気と受賞者の出席場面を確認できる。出典: mk.co.kr。"
+      },
+      "zh": {
+        "title": "2026每日经济证券养老金大奖获奖者齐聚一堂画面公开",
+        "excerpt": "每日经济通过一篇图片报道介绍了“2026每日经济证券·养老金大奖”获奖者齐聚一堂的场景，记录证券与养老金领域颁奖现场。",
+        "body": "“2026每日经济证券·养老金大奖”的获奖者齐聚一堂。每日经济以图片报道形式呈现了该颁奖活动中获奖者共同出席的现场。此次报道主要通过照片介绍证券和养老金领域相关大奖获奖者的面貌。原文未提供单独摘要、额外数据或具体获奖明细。投资者和金融行业读者可通过这篇图片报道了解颁奖现场氛围，并确认获奖者出席的场景。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Ganadores de los Premios Maeil 2026 de Valores y Pensiones se reúnen",
+        "excerpt": "Maeil Business publicó una nota fotográfica sobre los ganadores de los Premios Maeil 2026 de Valores y Pensiones reunidos en un mismo lugar.",
+        "body": "Los ganadores de los Premios Maeil 2026 de Valores y Pensiones se reunieron en un mismo lugar. Maeil Business presentó la escena mediante una nota fotográfica en la que aparecen juntos los galardonados. La publicación se centra en una imagen del evento, dedicado a los ámbitos de valores y pensiones. El texto original no incluye un resumen separado, cifras adicionales ni detalles específicos sobre las categorías premiadas. Los lectores del sector financiero y de inversión pueden ver en esta nota el ambiente de la ceremonia y la presencia de los ganadores. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Vencedores do Prêmio Maeil 2026 de Valores e Previdência reunidos",
+        "excerpt": "O Maeil Business publicou uma reportagem fotográfica mostrando os vencedores do Prêmio Maeil 2026 de Valores e Previdência reunidos no evento.",
+        "body": "Os vencedores do Prêmio Maeil 2026 de Valores e Previdência estiveram reunidos em um só lugar. O Maeil Business apresentou a cena por meio de uma reportagem fotográfica com os premiados juntos. A publicação mostra, em foto, um momento do prêmio ligado aos setores de valores mobiliários e previdência. O texto original não traz resumo separado, números adicionais nem detalhes sobre categorias ou listas de vencedores. Leitores do mercado financeiro e de investimentos podem observar pela imagem o ambiente da cerimônia e a presença dos premiados. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Gewinner der Maeil Awards 2026 für Wertpapiere und Renten versammelt",
+        "excerpt": "Maeil Business berichtete in einem Fotoartikel über die Gewinner der Maeil Awards 2026 für Wertpapiere und Renten, die gemeinsam vor Ort waren.",
+        "body": "Die Gewinner der Maeil Awards 2026 für Wertpapiere und Renten kamen an einem Ort zusammen. Maeil Business zeigte die Szene in einem Fotoartikel, in dem die Preisträger gemeinsam zu sehen sind. Der Bericht stellt einen fotografischen Moment der Auszeichnung vor, die die Bereiche Wertpapiere und Renten behandelt. Im Original wurden keine gesonderte Zusammenfassung, keine zusätzlichen Zahlen und keine detaillierten Preiskategorien genannt. Leser aus Investment- und Finanzkreisen können über den Fotoartikel die Atmosphäre der Zeremonie und die Anwesenheit der Gewinner nachvollziehen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Les lauréats des Prix Maeil 2026 des titres et retraites réunis",
+        "excerpt": "Maeil Business a publié un article photo montrant les lauréats des Prix Maeil 2026 des titres et retraites réunis lors de la cérémonie.",
+        "body": "Les lauréats des Prix Maeil 2026 des titres et retraites se sont réunis au même endroit. Maeil Business a présenté la scène dans un article photo montrant les personnes récompensées ensemble. Le reportage met en avant un moment photographié de cette distinction liée aux secteurs des titres financiers et des retraites. Le texte original ne fournit pas de résumé séparé, de chiffres supplémentaires ni de détail sur les catégories récompensées. Les lecteurs du secteur financier et de l’investissement peuvent y observer l’ambiance de la cérémonie et la présence des lauréats. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "الفائزون بجوائز ماييل 2026 للأوراق المالية والمعاشات يجتمعون",
+        "excerpt": "نشرت ماييل بيزنس خبرا مصورا يعرض الفائزين بجوائز ماييل 2026 للأوراق المالية والمعاشات وهم مجتمعون في مكان واحد خلال المناسبة.",
+        "body": "اجتمع الفائزون بجوائز ماييل 2026 للأوراق المالية والمعاشات في مكان واحد. وقد عرضت ماييل بيزنس المشهد عبر خبر مصور يظهر الحاصلين على الجوائز معا. يركز التقرير على لقطة من فعالية الجائزة المرتبطة بمجالي الأوراق المالية والمعاشات. ولم يورد النص الأصلي ملخصا منفصلا أو أرقاما إضافية أو تفاصيل عن فئات الجوائز. ويمكن لقراء قطاع الاستثمار والمال الاطلاع من خلال الخبر المصور على أجواء الحفل وحضور الفائزين. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "2026 मैइल सिक्योरिटीज और पेंशन अवॉर्ड विजेता एक साथ नजर आए",
+        "excerpt": "मैइल बिजनेस ने 2026 मैइल सिक्योरिटीज और पेंशन अवॉर्ड के विजेताओं को एक साथ दिखाने वाली फोटो खबर प्रकाशित की।",
+        "body": "2026 मैइल सिक्योरिटीज और पेंशन अवॉर्ड के विजेता एक ही स्थान पर एकत्र हुए। मैइल बिजनेस ने इस समारोह में विजेताओं के साथ मौजूद होने का दृश्य फोटो लेख के रूप में प्रस्तुत किया। यह रिपोर्ट सिक्योरिटीज और पेंशन क्षेत्रों से जुड़े अवॉर्ड के विजेताओं की तस्वीर पर केंद्रित है। मूल सामग्री में अलग सारांश, अतिरिक्त आंकड़े या विस्तृत पुरस्कार श्रेणियां नहीं दी गई हैं। निवेश और वित्त क्षेत्र के पाठक इस फोटो खबर के जरिए समारोह का माहौल और विजेताओं की उपस्थिति देख सकते हैं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Pemenang Maeil Securities dan Pension Awards 2026 Berkumpul Bersama",
+        "excerpt": "Maeil Business memuat artikel foto yang menampilkan para pemenang Maeil Securities dan Pension Awards 2026 berkumpul di satu tempat.",
+        "body": "Para pemenang Maeil Securities dan Pension Awards 2026 berkumpul di satu tempat. Maeil Business menyajikan momen tersebut melalui artikel foto yang memperlihatkan para penerima penghargaan bersama. Laporan ini berfokus pada suasana penghargaan yang berkaitan dengan bidang sekuritas dan pensiun. Naskah asli tidak menyertakan ringkasan terpisah, angka tambahan, atau rincian kategori penghargaan. Pembaca di sektor investasi dan keuangan dapat melihat suasana acara serta kehadiran para pemenang melalui artikel foto tersebut. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "fb45a0b58879",
     "slug": "1년-만에-확-높아진-눈높이-목표가-상향-보고서-1331건-380727",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Ahn Kunjungi AS Bahas Alih OPCON dan Isu Kapal Selam Bertenaga Nuklir",
         "excerpt": "Menteri Pertahanan Korea Selatan Ahn Gyu-back berkunjung ke AS pada 10-14 Mei untuk pertama kalinya sejak menjabat guna meninjau isu keamanan tingkat tinggi.",
         "body": "Menteri Pertahanan Korea Selatan Ahn Gyu-back mengunjungi Amerika Serikat pada 10-14 Mei, kunjungan pertamanya sejak menjabat pada Juli tahun lalu. Lawatan ini dipandang sebagai langkah untuk mengelola ketegangan dalam hubungan Seoul-Washington melalui kanal tingkat tinggi, di tengah koordinasi soal waktu pengalihan kendali operasional masa perang, pembatasan berbagi informasi tentang Korea Utara, dan kasus Coupang. Kementerian Pertahanan menyatakan kunjungan tersebut bertujuan melakukan komunikasi langsung ant pejabat senior untuk memeriksa tindak lanjut kesepakatan KTT Korea Selatan-AS dan Security Consultative Meeting. Agenda utama mencakup pengalihan OPCON dan kapal selam bertenaga nuklir. Ahn mengatakan pada 10 Mei di Bandara Internasional Incheon bahwa pengalihan telah disiapkan secara “sistematis, stabil, dan konsisten,” sehingga percepatan proses tidak menjadi masalah besar. Dalam pertemuan dengan Menteri Pertahanan AS Pete Hegseth pada 11 Mei waktu setempat, ia diperkirakan meminta kerja sama agar pengalihan dapat dilakukan dalam masa pemerintahan saat ini. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "1f1475ce111f",
-    "slug": "반도체-뜨자-공장-유치-공약-봇물-공수표-우려속-기업은-곤혹-724938",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T20:01:55.003Z",
-    "updatedAt": "2026-05-10T20:01:55.003Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133894833/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133894833/2",
-    "titleFingerprint": "6877e61e2d86b340a2ba372268c2c8b8e998d049",
-    "dedupKeys": [
-      "1f1475ce111fe090d7ccbcd90124d3aeabacdb15",
-      "6877e61e2d86b340a2ba372268c2c8b8e998d049",
-      "fabc38b06ff978c2a18883163197efe2da3a9758"
-    ],
-    "imageUrl": "/images/articles/1f1475ce111f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 공장 유치 공약 확산, 6·3 지방선거 앞두고 현실성 논란과 ‘공수표’ 우려 커진다",
-        "excerpt": "6·3 지방선거를 앞두고 광역단체 16곳 중 6곳 후보들이 반도체 공장 유치를 공약으로 내세우면서, 초호황 기대와 현실성 논란이 동시에 커지고 있다.",
-        "body": "6·3 지방선거를 앞두고 반도체 공장 유치 공약이 지역과 정당을 가리지 않고 확산하고 있다. 10일 정치권과 재계에 따르면 광역단체장을 선출하는 16곳 중 경기·경북·전북·강원·전남광주·대구 등 6곳에 출마한 후보들이 관련 공약을 내걸었다. 기초단체장 후보와 당 대표까지 반도체 공장 유치를 강조하는 흐름도 이어지고 있다. 전남광주에서는 더불어민주당 전남광주통합특별시장 후보가 된 민형배 후보가 취임 1년 내 10조 원 규모 반도체 시설을 유치하겠다며 30조 원 규모 펀드 조성 계획을 제시했다. 반도체 초호황에 유권자 관심이 몰린 결과로 풀이되지만, 현실 가능성을 따지지 않은 ‘공수표’ 우려 속에 기업들도 곤혹스러운 상황이다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Semiconductor plant pledges spread before June 3 local elections, raising feasibility concerns",
-        "excerpt": "Ahead of the June 3 local elections, candidates in six of 16 metropolitan races have pledged to attract semiconductor plants, drawing voter interest and questions over feasibility.",
-        "body": "Pledges to attract semiconductor plants are spreading across regions and parties ahead of the June 3 local elections. According to political and business circles on the 10th, candidates running in six of the 16 metropolitan governments electing governors or mayors, including Gyeonggi, North Gyeongsang, North Jeolla, Gangwon, Jeonnam-Gwangju and Daegu, have made related promises. The trend also extends to basic local government candidates and party leaders. In Jeonnam-Gwangju, Min Hyung-bae, selected as the Democratic Party’s candidate for special integrated mayor, proposed creating a 30 trillion won fund while pledging to attract 10 trillion won in semiconductor facilities within a year of taking office. The pledges appear tied to voter attention during the semiconductor boom, but concerns are growing that some may be empty promises lacking realistic feasibility, leaving companies uneasy. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "半導体工場誘致公約が6月3日地方選前に拡大、実現性めぐり空手形懸念も浮上",
-        "excerpt": "6月3日の地方選を前に、広域自治体16カ所中6カ所の候補が半導体工場誘致を公約に掲げ、好況への期待と実現性への疑問が同時に広がっている。",
-        "body": "6月3日の地方選を前に、半導体工場誘致の公約が地域や政党を問わず広がっている。10日、政界と財界によると、広域自治体長を選ぶ16カ所のうち、京畿、慶北、全北、江原、全南光州、大邱など6カ所に出馬した候補が関連公約を掲げた。基礎自治体長候補や党代表まで半導体工場誘致を訴える流れも続く。全南光州では、最終予備選を経て共に民主党の全南光州統合特別市長候補となった閔炯培氏が、就任1年以内に10兆ウォン規模の半導体施設を誘致するとし、30兆ウォン規模のファンド造成計画を示した。半導体の超好況に有権者の関心が集まった結果とみられる一方、現実性を欠いた空手形との懸念が出ており、企業側も困惑している。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "半导体工厂招商承诺在6月3日地方选举前升温，现实性争议与空头支票担忧扩大",
-        "excerpt": "在6月3日地方选举前，16个广域团体中6地候选人提出吸引半导体工厂承诺，半导体热潮带来关注，也引发可行性争议。",
-        "body": "在6月3日地方选举前，吸引半导体工厂的竞选承诺正跨地区、跨政党扩散。据10日政界和商界消息，在选举广域团体长的16个地区中，京畿、庆北、全北、江原、全南光州、大邱等6地候选人提出了相关承诺。基础团体长候选人和党代表也在强调吸引半导体工厂。全南光州方面，经最终党内竞选成为共同民主党全南光州统合特别市长候选人的闵炯培表示，将在就任1年内吸引10万亿韩元规模的半导体设施，并提出设立30万亿韩元基金的计划。这被认为与半导体超景气吸引选民关注有关，但外界担心部分承诺未充分考虑现实可行性，企业也因此感到为难。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Promesas para atraer fábricas de semiconductores crecen antes de las elecciones locales del 3 de junio",
-        "excerpt": "Antes de las elecciones locales del 3 de junio, candidatos en seis de 16 gobiernos metropolitanos prometen atraer fábricas de semiconductores, entre expectativas y dudas de viabilidad.",
-        "body": "Antes de las elecciones locales del 3 de junio, las promesas de atraer fábricas de semiconductores se extienden por regiones y partidos. Según círculos políticos y empresariales citados el día 10, candidatos en seis de los 16 gobiernos metropolitanos donde se elegirán autoridades, incluidos Gyeonggi, Gyeongbuk, Jeonbuk, Gangwon, Jeonnam-Gwangju y Daegu, han presentado compromisos relacionados. La tendencia también alcanza a candidatos de gobiernos locales básicos y a líderes partidarios. En Jeonnam-Gwangju, Min Hyung-bae, elegido candidato del Partido Democrático para alcalde especial integrado, prometió atraer instalaciones de semiconductores por 10 billones de wones en su primer año y propuso crear un fondo de 30 billones. El auge del sector explica el interés electoral, pero crecen las dudas sobre promesas sin viabilidad clara, lo que incomoda a las empresas. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Promessas de atrair fábricas de semicondutores avançam antes das eleições locais de 3 de junho",
-        "excerpt": "Antes das eleições locais de 3 de junho, candidatos em seis de 16 governos metropolitanos prometem atrair fábricas de semicondutores, gerando expectativa e dúvidas sobre viabilidade.",
-        "body": "Às vésperas das eleições locais de 3 de junho, promessas de atrair fábricas de semicondutores se espalham por regiões e partidos. Segundo meios políticos e empresariais no dia 10, candidatos em seis dos 16 governos metropolitanos que escolherão seus líderes, incluindo Gyeonggi, Gyeongbuk, Jeonbuk, Gangwon, Jeonnam-Gwangju e Daegu, apresentaram compromissos relacionados. A pauta também aparece entre candidatos de governos locais básicos e líderes partidários. Em Jeonnam-Gwangju, Min Hyung-bae, escolhido candidato do Partido Democrático a prefeito especial integrado, prometeu atrair instalações de semicondutores de 10 trilhões de won em até um ano após a posse e propôs um fundo de 30 trilhões de won. O movimento reflete o interesse dos eleitores no boom do setor, mas há preocupação com promessas pouco realistas, deixando empresas em situação delicada. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Versprechen für Halbleiterfabriken nehmen vor Kommunalwahl am 3. Juni zu, Zweifel an Machbarkeit wachsen",
-        "excerpt": "Vor der Kommunalwahl am 3. Juni werben Kandidaten in sechs von 16 Metropolregionen mit Halbleiterfabriken; zugleich wachsen Interesse, Erwartungen und Zweifel an der Umsetzbarkeit.",
-        "body": "Vor der Kommunalwahl am 3. Juni breiten sich Versprechen zur Ansiedlung von Halbleiterfabriken über Regionen und Parteien hinweg aus. Nach Angaben aus Politik und Wirtschaft vom 10. haben Kandidaten in sechs der 16 Gebietskörperschaften, in denen Metropolchefs gewählt werden, entsprechende Zusagen gemacht, darunter Gyeonggi, Nord-Gyeongsang, Nord-Jeolla, Gangwon, Jeonnam-Gwangju und Daegu. Auch Kandidaten auf kommunaler Ebene und Parteivorsitzende greifen das Thema auf. In Jeonnam-Gwangju kündigte Min Hyung-bae, Kandidat der Demokratischen Partei für das Amt des integrierten Sonderbürgermeisters, an, binnen eines Jahres nach Amtsantritt Halbleiteranlagen im Wert von 10 Billionen Won anzuziehen, und schlug einen Fonds von 30 Billionen Won vor. Das Interesse der Wähler am Halbleiterboom gilt als Auslöser, doch die Sorge vor leeren Versprechen ohne realistische Grundlage wächst und bringt Unternehmen in Bedrängnis. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Les promesses d’attirer des usines de semi-conducteurs se multiplient avant le scrutin local du 3 juin",
-        "excerpt": "Avant les élections locales du 3 juin, des candidats dans six des 16 collectivités métropolitaines promettent d’attirer des usines de semi-conducteurs, suscitant attentes et doutes.",
-        "body": "À l’approche des élections locales du 3 juin, les promesses d’attirer des usines de semi-conducteurs se multiplient au-delà des régions et des partis. Selon des milieux politiques et économiques cités le 10, des candidats dans six des 16 collectivités métropolitaines appelées à élire leur dirigeant, dont Gyeonggi, Gyeongbuk, Jeonbuk, Gangwon, Jeonnam-Gwangju et Daegu, ont présenté des engagements liés au secteur. Des candidats à des collectivités de base et des chefs de parti mettent aussi en avant ce thème. À Jeonnam-Gwangju, Min Hyung-bae, devenu candidat du Parti démocrate au poste de maire spécial intégré, a promis d’attirer 10 000 milliards de wons d’installations de semi-conducteurs dans l’année suivant son entrée en fonctions et a proposé un fonds de 30 000 milliards. L’intérêt des électeurs pour le boom du secteur explique cette tendance, mais les craintes de promesses irréalistes placent les entreprises dans l’embarras. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "وعود جذب مصانع أشباه الموصلات تتسع قبل انتخابات 3 يونيو المحلية وسط مخاوف من ضعف الواقعية",
-        "excerpt": "قبل انتخابات 3 يونيو المحلية، طرح مرشحون في 6 من أصل 16 هيئة إقليمية وعودا بجذب مصانع أشباه الموصلات، ما أثار اهتمام الناخبين وتساؤلات حول قابلية التنفيذ.",
-        "body": "قبل انتخابات 3 يونيو المحلية، تنتشر وعود جذب مصانع أشباه الموصلات عبر المناطق والأحزاب. ووفقا لأوساط سياسية واقتصادية في اليوم العاشر، قدم مرشحون في 6 من أصل 16 هيئة إقليمية ستنتخب رؤساءها، بينها غيونغي وكيونغبوك وجيونبوك وغانغوون وجيونام-غوانغجو ودايغو، تعهدات مرتبطة بهذا الملف. كما يبرز الوعد نفسه لدى مرشحين لرئاسة هيئات محلية أساسية وزعماء أحزاب. في جيونام-غوانغجو، تعهد مين هيونغ-بيه، مرشح الحزب الديمقراطي لمنصب العمدة الخاص المتكامل بعد الجولة النهائية، بجذب منشآت لأشباه الموصلات بقيمة 10 تريليونات وون خلال عام من توليه المنصب، وطرح خطة لإنشاء صندوق بقيمة 30 تريليون وون. ويُنظر إلى ذلك كنتيجة لاهتمام الناخبين بطفرة القطاع، لكن المخاوف تتزايد من وعود غير واقعية تضع الشركات في موقف حرج. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "3 जून के स्थानीय चुनाव से पहले सेमीकंडक्टर कारखाना लाने के वादे बढ़े, व्यवहार्यता पर सवाल",
-        "excerpt": "3 जून के स्थानीय चुनाव से पहले 16 महानगरीय निकायों में से 6 के उम्मीदवारों ने सेमीकंडक्टर कारखाना लाने का वादा किया, जिससे उम्मीद और व्यवहार्यता संबंधी चिंता दोनों बढ़ीं।",
-        "body": "3 जून के स्थानीय चुनाव से पहले सेमीकंडक्टर कारखाने आकर्षित करने के वादे क्षेत्र और दलों की सीमा से आगे फैल रहे हैं। 10 तारीख को राजनीतिक और कारोबारी हलकों के अनुसार, जिन 16 महानगरीय निकायों में प्रमुख चुने जाने हैं, उनमें ग्योंगगी, ग्योंगबुक, जियोनबुक, गंगवोन, जियोनम-ग्वांगजू और डेगू सहित 6 जगहों के उम्मीदवारों ने ऐसे वादे किए हैं। बुनियादी स्थानीय निकायों के उम्मीदवार और पार्टी नेता भी इसी मुद्दे को आगे रख रहे हैं। जियोनम-ग्वांगजू में डेमोक्रेटिक पार्टी के एकीकृत विशेष मेयर उम्मीदवार बने मिन ह्युंग-बे ने पद संभालने के एक वर्ष के भीतर 10 ट्रिलियन वॉन के सेमीकंडक्टर संयंत्र आकर्षित करने और 30 ट्रिलियन वॉन का फंड बनाने की योजना पेश की। इसे सेमीकंडक्टर उछाल में मतदाताओं की रुचि से जोड़ा जा रहा है, लेकिन अव्यावहारिक वादों की चिंता के बीच कंपनियां असमंजस में हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Janji menarik pabrik semikonduktor meluas jelang pemilu lokal 3 Juni, kelayakan jadi sorotan",
-        "excerpt": "Menjelang pemilu lokal 3 Juni, kandidat di enam dari 16 wilayah metropolitan menjanjikan pabrik semikonduktor, memicu perhatian pemilih sekaligus kekhawatiran soal kelayakan.",
-        "body": "Menjelang pemilu lokal 3 Juni, janji menarik pabrik semikonduktor menyebar lintas wilayah dan partai. Menurut kalangan politik dan bisnis pada tanggal 10, kandidat di enam dari 16 pemerintahan metropolitan yang akan memilih kepala daerah, termasuk Gyeonggi, Gyeongbuk, Jeonbuk, Gangwon, Jeonnam-Gwangju, dan Daegu, mengajukan janji terkait. Arus yang sama juga terlihat pada kandidat kepala pemerintahan lokal dasar dan pemimpin partai. Di Jeonnam-Gwangju, Min Hyung-bae, yang menjadi kandidat Partai Demokrat untuk wali kota khusus terpadu, berjanji menarik fasilitas semikonduktor senilai 10 triliun won dalam satu tahun setelah menjabat dan mengusulkan pembentukan dana 30 triliun won. Janji ini dipandang terkait minat pemilih pada ledakan sektor semikonduktor, tetapi kekhawatiran atas janji yang kurang realistis membuat perusahaan berada dalam posisi sulit. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "c3cddc924abf",
-    "slug": "삼성전자-노사-막판-재협상-반도체-적자부서-3억-성과급-쟁점-899112",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T20:00:31.106Z",
-    "updatedAt": "2026-05-10T20:00:31.106Z",
-    "sourceName": "rss.donga.com",
-    "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260511/133894830/2",
-    "canonicalUrl": "https://www.donga.com/news/Economy/article/all/20260511/133894830/2",
-    "titleFingerprint": "0d027c5fc432e415af62abbdc139a87d656b72ee",
-    "dedupKeys": [
-      "c3cddc924abf260a997e14efc29e6acd844edbec",
-      "0d027c5fc432e415af62abbdc139a87d656b72ee",
-      "996abf0688f6fea9ea4e0a02829fb7ce2f636536"
-    ],
-    "imageUrl": "/images/articles/c3cddc924abf.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 노사 막판 재협상, 반도체 적자부서 성과급이 최대 쟁점",
-        "excerpt": "삼성전자 노사는 11일부터 이틀간 세종 중앙노동위원회에서 사후조정에 들어가며, 21일 예고된 총파업을 앞두고 성과급 규모를 두고 막판 합의를 시도한다.",
-        "body": "삼성전자와 삼성전자 노조가 11일부터 12일까지 세종 중앙노동위원회에서 사후조정에 나선다. 노사 입장 차가 좁혀지지 않자 정부가 적극 중재해 마련된 자리로, 노조가 예고한 21일 총파업을 열흘 앞두고 진행되는 막판 교섭이다. 사후조정은 조정 종료 이후 파업 등 쟁의행위가 임박한 상황에서 노사가 상호 동의해 다시 조정에 들어가는 절차다. 중노위는 중재자로 교섭을 진행하고 권고안을 제시하지만 강제성은 없다. 이번 협상의 핵심 쟁점은 적자를 보고 있는 파운드리 등 비메모리 사업부에 지급할 성과급 규모가 될 전망이다. 노조 측에서는 초기업노조와 전삼노 관계자들이 참여할 예정이다. 양측이 총파업 전 합의점을 찾을 수 있을지 주목된다. 출처: rss.donga.com"
-      },
-      "en": {
-        "title": "Samsung Electronics, unions resume last-minute talks over chip unit bonuses",
-        "excerpt": "Samsung Electronics and its unions will enter post-mediation talks at the National Labor Relations Commission in Sejong from May 11, seeking a deal before a planned May 21 general strike.",
-        "body": "Samsung Electronics and its unions will begin post-mediation talks at the National Labor Relations Commission in Sejong on May 11-12. The talks were arranged through active government mediation after the two sides failed to narrow their differences, and they come ten days before the unions’ planned general strike on May 21. Post-mediation is a procedure in which labor and management, by mutual consent, return to mediation after formal mediation has ended and industrial action such as a strike is approaching. The commission will conduct the talks as mediator and may present recommendations, but they are not binding. The central issue is expected to be the size of performance bonuses for loss-making non-memory businesses, including foundry operations. Representatives from the Samsung Group-wide union and the National Samsung Electronics Union are expected to attend. Attention is on whether both sides can reach an agreement before the strike. Source: rss.donga.com"
-      },
-      "ja": {
-        "title": "サムスン電子労使が土壇場再協議、半導体赤字部門の成果給が焦点",
-        "excerpt": "サムスン電子の労使は11日から2日間、世宗の中央労働委員会で事後調整に入り、21日に予告された全面ストを前に成果給規模を巡り合意を模索する。",
-        "body": "サムスン電子と同社労組は11日から12日まで、世宗の中央労働委員会で事後調整に入る。労使の立場の隔たりが縮まらない中、政府が積極的に仲裁して設けられた場で、労組が予告した21日の全面ストを10日後に控えた土壇場の交渉となる。事後調整は、調整終了後にストなど争議行為が迫った状況で、労使が相互同意の下に再び調整に入る手続きだ。中央労働委員会は仲裁者として交渉を進め、勧告案を示すが、強制力はない。今回の核心争点は、赤字を出しているファウンドリーなど非メモリー事業部に支給する成果給の規模になる見通しだ。労組側からは超企業労組と全国サムスン電子労組の関係者が参加する予定だ。全面スト前に双方が合意点を見いだせるか注目される。出典: rss.donga.com"
-      },
-      "zh": {
-        "title": "三星电子劳资最后再谈判，半导体亏损部门绩效奖金成焦点",
-        "excerpt": "三星电子劳资双方将从11日起两天在世宗中央劳动委员会进行事后调解，在21日预告总罢工前围绕绩效奖金规模寻求最后协议。",
-        "body": "三星电子与其工会将于11日至12日在世宗中央劳动委员会进行事后调解。由于劳资双方分歧持续，政府积极介入促成此次调解；这也是在工会预告21日总罢工前十天举行的最后阶段谈判。事后调解是指在调解程序结束后、罢工等争议行为临近时，劳资双方经相互同意再次进入调解的程序。中央劳动委员会将作为调解方主持谈判并提出建议案，但不具强制力。此次谈判的核心争议预计是向处于亏损状态的晶圆代工等非存储业务部门支付的绩效奖金规模。工会方面预计将有超企业工会和全国三星电子工会相关人士参加。外界关注双方能否在总罢工前达成协议。来源: rss.donga.com"
-      },
-      "es": {
-        "title": "Samsung Electronics y sindicatos reabren negociación por bonos en chips",
-        "excerpt": "Samsung Electronics y sus sindicatos iniciarán el 11 de mayo una mediación posterior en Sejong, buscando un acuerdo sobre bonos antes de la huelga general prevista para el 21.",
-        "body": "Samsung Electronics y sus sindicatos iniciarán los días 11 y 12 una mediación posterior en la Comisión Nacional de Relaciones Laborales, en Sejong. La reunión fue organizada mediante una mediación activa del gobierno después de que las posiciones de ambas partes siguieran sin acercarse, y llega diez días antes de la huelga general prevista por los sindicatos para el 21. La mediación posterior es un procedimiento en el que trabajadores y empresa, de común acuerdo, vuelven a una fase de mediación cuando ya terminó el proceso anterior y se aproxima una acción laboral como una huelga. La comisión actuará como mediadora y podrá presentar una recomendación, pero esta no será vinculante. El principal punto de disputa será previsiblemente el tamaño de los bonos por desempeño para divisiones no memoria con pérdidas, incluidas las operaciones de fundición. Participarán representantes sindicales de la organización supraempresarial y del Sindicato Nacional de Samsung Electronics. La atención está puesta en si lograrán un acuerdo antes de la huelga. Fuente: rss.donga.com"
-      },
-      "pt": {
-        "title": "Samsung Electronics e sindicatos retomam negociação sobre bônus em chips",
-        "excerpt": "Samsung Electronics e seus sindicatos entram em mediação posterior em Sejong a partir de 11 de maio, tentando acordo sobre bônus antes da greve geral prevista para o dia 21.",
-        "body": "A Samsung Electronics e seus sindicatos iniciarão, nos dias 11 e 12, uma mediação posterior na Comissão Nacional de Relações Trabalhistas, em Sejong. A reunião foi organizada com mediação ativa do governo depois que as diferenças entre as partes permaneceram sem solução, e ocorre dez dias antes da greve geral prevista pelos sindicatos para o dia 21. A mediação posterior é um procedimento em que trabalhadores e empresa, por consentimento mútuo, voltam à mediação após o encerramento da etapa anterior e quando uma ação trabalhista, como greve, está próxima. A comissão conduzirá as negociações como mediadora e poderá apresentar uma recomendação, mas sem força obrigatória. O principal ponto deve ser o tamanho dos bônus de desempenho para divisões não memória deficitárias, incluindo fundição. Representantes do sindicato supraempresarial e do Sindicato Nacional da Samsung Electronics devem participar. A atenção se volta para a possibilidade de acordo antes da greve. Fonte: rss.donga.com"
-      },
-      "de": {
-        "title": "Samsung Electronics verhandelt erneut mit Gewerkschaften über Chip-Boni",
-        "excerpt": "Samsung Electronics und seine Gewerkschaften gehen ab dem 11. Mai in Sejong in eine Nachschlichtung, um vor dem für den 21. Mai angekündigten Generalstreik eine Einigung zu suchen.",
-        "body": "Samsung Electronics und seine Gewerkschaften treten am 11. und 12. Mai bei der Nationalen Arbeitsbeziehungskommission in Sejong in eine Nachschlichtung ein. Das Treffen wurde durch aktive Vermittlung der Regierung angesetzt, nachdem sich die Positionen beider Seiten nicht angenähert hatten. Es findet zehn Tage vor dem von den Gewerkschaften für den 21. Mai angekündigten Generalstreik statt. Nachschlichtung ist ein Verfahren, bei dem Arbeitgeber und Arbeitnehmer nach dem Ende einer Schlichtung und bei bevorstehenden Arbeitskampfmaßnahmen wie einem Streik im gegenseitigen Einvernehmen erneut in die Vermittlung gehen. Die Kommission führt die Gespräche als Vermittlerin und kann Empfehlungen vorlegen, diese sind jedoch nicht bindend. Zentrales Thema dürfte die Höhe der Leistungsboni für verlustreiche Nicht-Speicher-Sparten sein, darunter das Foundry-Geschäft. Gewerkschaftsvertreter mehrerer Samsung-Organisationen sollen teilnehmen. Entscheidend ist nun, ob vor dem Streik eine Einigung gelingt. Quelle: rss.donga.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics et syndicats renouent le dialogue sur les primes des puces",
-        "excerpt": "Samsung Electronics et ses syndicats entament le 11 mai une médiation postérieure à Sejong, afin de tenter un accord sur les primes avant la grève générale prévue le 21.",
-        "body": "Samsung Electronics et ses syndicats engageront les 11 et 12 mai une médiation postérieure auprès de la Commission nationale des relations du travail, à Sejong. Cette réunion a été organisée grâce à une médiation active du gouvernement, alors que les positions des deux parties restaient éloignées. Elle intervient dix jours avant la grève générale annoncée par les syndicats pour le 21 mai. La médiation postérieure est une procédure dans laquelle salariés et direction, d’un commun accord, reviennent à la médiation après la fin d’une phase précédente et alors qu’une action collective, comme une grève, approche. La commission mènera les discussions comme médiatrice et pourra proposer une recommandation, sans caractère contraignant. Le principal point de friction devrait être le montant des primes de performance destinées aux activités non mémoire déficitaires, dont la fonderie. Des représentants syndicaux de plusieurs organisations de Samsung doivent participer. L’attention porte sur la possibilité d’un accord avant la grève. Source: rss.donga.com"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس والنقابات تستأنفان التفاوض حول مكافآت وحدات الرقائق",
-        "excerpt": "تبدأ سامسونغ إلكترونيكس ونقاباتها في 11 مايو وساطة لاحقة في سيجونغ، في محاولة للتوصل إلى اتفاق حول مكافآت الأداء قبل الإضراب العام المقرر في 21 مايو.",
-        "body": "تبدأ سامسونغ إلكترونيكس ونقاباتها يومي 11 و12 مايو وساطة لاحقة في لجنة علاقات العمل الوطنية في سيجونغ. وجاء الاجتماع بوساطة حكومية نشطة بعد استمرار تباعد مواقف الجانبين، وذلك قبل عشرة أيام من الإضراب العام الذي أعلنت النقابات أنه سيبدأ في 21 مايو. والوساطة اللاحقة هي إجراء يعود فيه العمال والإدارة، بموافقة متبادلة، إلى التفاوض بعد انتهاء مرحلة الوساطة السابقة وعندما تصبح إجراءات النزاع مثل الإضراب وشيكة. ستدير اللجنة المفاوضات بصفتها وسيطا ويمكنها تقديم توصية، لكنها غير ملزمة. ومن المتوقع أن يكون محور الخلاف حجم مكافآت الأداء التي ستدفع لوحدات الأعمال غير الذاكرة التي تسجل خسائر، ومنها نشاط المسابك. ومن المقرر أن يشارك ممثلون عن النقابات المعنية في سامسونغ. وينصب الاهتمام على ما إذا كان الطرفان سيتمكنان من التوصل إلى اتفاق قبل الإضراب. المصدر: rss.donga.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics और यूनियनों में अंतिम वार्ता, चिप इकाई बोनस पर विवाद",
-        "excerpt": "Samsung Electronics और उसकी यूनियनें 11 मई से सेजोंग में बाद-समायोजन वार्ता करेंगी, ताकि 21 मई की प्रस्तावित आम हड़ताल से पहले बोनस पर समझौता हो सके।",
-        "body": "Samsung Electronics और उसकी यूनियनें 11 और 12 मई को सेजोंग स्थित नेशनल लेबर रिलेशंस कमीशन में बाद-समायोजन वार्ता शुरू करेंगी। दोनों पक्षों के रुख में अंतर कम न होने पर सरकार की सक्रिय मध्यस्थता से यह बैठक तय की गई है। यह वार्ता यूनियनों द्वारा 21 मई के लिए घोषित आम हड़ताल से दस दिन पहले हो रही है। बाद-समायोजन वह प्रक्रिया है जिसमें औपचारिक समायोजन समाप्त होने के बाद, हड़ताल जैसी औद्योगिक कार्रवाई निकट होने पर, श्रमिक और प्रबंधन आपसी सहमति से फिर समायोजन में लौटते हैं। आयोग मध्यस्थ के रूप में वार्ता चलाएगा और सिफारिश दे सकता है, लेकिन वह बाध्यकारी नहीं होगी। मुख्य विवाद घाटे में चल रहे फाउंड्री सहित गैर-मेमोरी कारोबारों को दिए जाने वाले प्रदर्शन बोनस के आकार पर रहने की उम्मीद है। Samsung से जुड़ी यूनियन संस्थाओं के प्रतिनिधि इसमें भाग लेने वाले हैं। अब ध्यान इस पर है कि क्या दोनों पक्ष हड़ताल से पहले समझौते पर पहुंचते हैं। स्रोत: rss.donga.com"
-      },
-      "id": {
-        "title": "Samsung Electronics dan serikat kembali berunding soal bonus divisi chip",
-        "excerpt": "Samsung Electronics dan serikatnya akan menjalani mediasi lanjutan di Sejong mulai 11 Mei, berupaya mencapai kesepakatan bonus sebelum mogok umum yang dijadwalkan 21 Mei.",
-        "body": "Samsung Electronics dan serikat pekerjanya akan memulai mediasi lanjutan pada 11-12 Mei di Komisi Hubungan Tenaga Kerja Nasional di Sejong. Pertemuan ini disiapkan melalui mediasi aktif pemerintah setelah posisi kedua pihak tetap berjauhan, dan berlangsung sepuluh hari sebelum mogok umum yang dijadwalkan serikat pada 21 Mei. Mediasi lanjutan adalah prosedur ketika pekerja dan manajemen, atas persetujuan bersama, kembali ke proses mediasi setelah mediasi sebelumnya selesai dan aksi industrial seperti mogok sudah mendekat. Komisi akan memimpin perundingan sebagai mediator dan dapat mengajukan rekomendasi, tetapi tidak memiliki kekuatan mengikat. Isu utama diperkirakan adalah besaran bonus kinerja untuk bisnis non-memori yang merugi, termasuk foundry. Perwakilan dari serikat lintas perusahaan dan Serikat Nasional Samsung Electronics dijadwalkan hadir. Perhatian tertuju pada apakah kedua pihak dapat mencapai kesepakatan sebelum mogok. Sumber: rss.donga.com"
-      }
-    }
-  },
-  {
-    "id": "cd18a6c71d5b",
-    "slug": "7500-찍은-코스피-더-갈까-토해낼까-822608",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T19:59:11.384Z",
-    "updatedAt": "2026-05-10T19:59:11.384Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042786",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042786",
-    "titleFingerprint": "47fd3627143099a6d0bbb350a6130e38b11ab200",
-    "dedupKeys": [
-      "cd18a6c71d5bfb57a5ef2386abd44aa44ac7662e",
-      "47fd3627143099a6d0bbb350a6130e38b11ab200",
-      "25bdf69ef314e348caec558d2a19c99f0dfae2c2"
-    ],
-    "imageUrl": "/images/articles/cd18a6c71d5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7500선 돌파 후 향방 주목, 지난주 13% 급등세 지속될까",
-        "excerpt": "코스피는 지난주 13% 넘게 오르며 5월 8일 7498로 마감했고, 5월 7일 장중 7531까지 치솟아 7500선 이후 흐름에 관심이 쏠렸다.",
-        "body": "국내 증시는 지난주 코스피가 7500선에 근접하며 강한 상승 흐름을 보였다. 코스피는 한 주 동안 13% 넘게 뛰었고, 5월 8일 7498로 거래를 마쳤다. 앞서 5월 7일 장중에는 7531까지 올라 7500선을 넘어섰다. 지난주 국장을 설명하는 핵심 문장은 “7500 찍었다”로 요약됐다. 단기간 급등 폭이 컸던 만큼 시장의 관심은 이 상승세가 더 이어질지, 일부 되돌림이 나올지에 모이고 있다. 관련 수치와 흐름은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "KOSPI Nears 7,500 After 13% Weekly Surge as Market Eyes Next Move",
-        "excerpt": "The KOSPI jumped more than 13% last week, closed at 7,498 on May 8, and briefly reached 7,531 intraday on May 7, drawing attention to its path after 7,500.",
-        "body": "South Korea’s stock market showed strong momentum last week as the KOSPI approached the 7,500 level. The index rose more than 13% over the week and closed at 7,498 on May 8. A day earlier, on May 7, it climbed as high as 7,531 intraday, moving above the 7,500 mark. The week’s domestic market was summed up by the phrase, “It hit 7,500.” With the short-term gain already large, attention is now focused on whether the rally can continue or whether part of the advance will be given back. Figures and market context are cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPIが7500目前、週間13％超上昇後の行方に市場注目",
-        "excerpt": "KOSPIは先週13％超上昇し、5月8日に7498で終了。5月7日取引時間中には7531まで上昇し、7500台到達後の流れに関心が集まった。",
-        "body": "韓国株式市場では先週、KOSPIが7500水準に迫る強い上昇を見せた。指数は1週間で13％を超えて上昇し、5月8日に7498で取引を終えた。これに先立つ5月7日の取引時間中には7531まで上がり、7500を上回った。先週の韓国市場を表す言葉は「7500を付けた」に要約された。短期間の上昇幅が大きかっただけに、市場の関心はこの上昇がさらに続くのか、一部を吐き出す展開になるのかに向かっている。関連する数値と流れはmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "KOSPI站上7500后走势受关注，单周大涨逾13%",
-        "excerpt": "KOSPI上周上涨逾13%，5月8日收于7498点，并在5月7日盘中升至7531点，市场关注突破7500点后的走势。",
-        "body": "韩国股市上周表现出强劲上涨势头，KOSPI逼近并一度突破7500点。该指数一周内上涨超过13%，并于5月8日收于7498点。此前在5月7日盘中，KOSPI最高升至7531点，站上7500点关口。上周韩国市场可用一句话概括：“到达7500点。”由于短期涨幅较大，市场关注焦点转向这轮上涨是否会继续，或是否会出现部分回吐。相关数据和市场脉络引自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "KOSPI roza 7.500 tras subir más de 13% en la semana y el mercado mira el próximo paso",
-        "excerpt": "El KOSPI avanzó más de 13% la semana pasada, cerró en 7.498 el 8 de mayo y tocó 7.531 intradía el 7 de mayo, centrando la atención en su rumbo tras los 7.500.",
-        "body": "El mercado bursátil surcoreano mostró una fuerte tendencia alcista la semana pasada, con el KOSPI acercándose al nivel de 7.500. El índice subió más de 13% en la semana y cerró en 7.498 el 8 de mayo. Un día antes, el 7 de mayo, llegó a 7.531 durante la sesión, superando la barrera de 7.500. La frase que resumió la semana fue: “Llegó a 7.500”. Dado el gran avance en poco tiempo, la atención del mercado se centra en si la subida continuará o si parte de la ganancia será devuelta. Las cifras y el contexto se citan de mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI chega perto de 7.500 após alta semanal de mais de 13%",
-        "excerpt": "O KOSPI subiu mais de 13% na semana passada, fechou a 7.498 em 8 de maio e chegou a 7.531 no intradiário de 7 de maio, elevando o foco sobre seu rumo após 7.500.",
-        "body": "O mercado acionário sul-coreano mostrou forte movimento de alta na semana passada, com o KOSPI se aproximando do nível de 7.500. O índice avançou mais de 13% na semana e fechou a 7.498 em 8 de maio. Antes disso, em 7 de maio, chegou a 7.531 durante o pregão, superando a marca de 7.500. A frase que resumiu a semana foi: “Chegou a 7.500”. Como o avanço em curto prazo foi expressivo, a atenção do mercado se volta para saber se a alta continuará ou se parte do ganho será devolvida. Os números e o contexto foram citados de mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI nahe 7.500 nach Wochenplus von über 13%, Markt blickt auf nächsten Schritt",
-        "excerpt": "Der KOSPI stieg vergangene Woche um mehr als 13%, schloss am 8. Mai bei 7.498 und erreichte am 7. Mai intraday 7.531, womit der Fokus auf der Entwicklung nach 7.500 liegt.",
-        "body": "Der südkoreanische Aktienmarkt zeigte in der vergangenen Woche eine starke Aufwärtsbewegung, als sich der KOSPI der Marke von 7.500 näherte. Der Index legte im Wochenverlauf um mehr als 13% zu und schloss am 8. Mai bei 7.498. Zuvor war er am 7. Mai im Tagesverlauf bis auf 7.531 gestiegen und hatte damit die 7.500er-Marke überschritten. Die Woche am heimischen Markt ließ sich mit dem Satz zusammenfassen: „Er hat 7.500 erreicht.“ Wegen des kräftigen kurzfristigen Anstiegs richtet sich der Blick nun darauf, ob die Rally weitergeht oder ob ein Teil der Gewinne abgegeben wird. Zahlen und Kontext werden aus mk.co.kr zitiert."
-      },
-      "fr": {
-        "title": "Le KOSPI frôle 7 500 après une hausse hebdomadaire de plus de 13%",
-        "excerpt": "Le KOSPI a gagné plus de 13% la semaine dernière, clôturé à 7 498 le 8 mai et atteint 7 531 en séance le 7 mai, plaçant la suite après 7 500 au centre de l’attention.",
-        "body": "Le marché boursier sud-coréen a affiché une forte progression la semaine dernière, le KOSPI se rapprochant du niveau de 7 500. L’indice a gagné plus de 13% sur la semaine et a clôturé à 7 498 le 8 mai. La veille, le 7 mai, il avait grimpé jusqu’à 7 531 en séance, dépassant le seuil de 7 500. La semaine sur le marché national s’est résumée à cette formule: « Il a atteint 7 500. » Compte tenu de l’ampleur de la hausse en peu de temps, l’attention se porte désormais sur la poursuite éventuelle du mouvement ou sur un possible reflux partiel. Les chiffres et le contexte sont cités de mk.co.kr."
-      },
-      "ar": {
-        "title": "مؤشر كوسبي يقترب من 7500 بعد قفزة أسبوعية تتجاوز 13%",
-        "excerpt": "ارتفع مؤشر كوسبي بأكثر من 13% الأسبوع الماضي، وأغلق عند 7498 في 8 مايو، بعدما بلغ 7531 خلال جلسة 7 مايو، ما وجه الأنظار إلى مساره بعد مستوى 7500.",
-        "body": "أظهر سوق الأسهم الكوري الجنوبي زخما قويا الأسبوع الماضي مع اقتراب مؤشر كوسبي من مستوى 7500. فقد صعد المؤشر بأكثر من 13% خلال الأسبوع، وأغلق في 8 مايو عند 7498. وقبل ذلك، في جلسة 7 مايو، ارتفع خلال التداولات إلى 7531 متجاوزا مستوى 7500. ويمكن تلخيص أداء السوق المحلي في العبارة: “بلغ 7500”. وبسبب حجم الارتفاع الكبير خلال فترة قصيرة، تتركز أنظار السوق الآن على ما إذا كان الصعود سيستمر أم أن جزءا من المكاسب سيتراجع. الأرقام والسياق مستندان إلى تقرير mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के करीब, सप्ताह में 13% से ज्यादा उछाल के बाद अगली चाल पर नजर",
-        "excerpt": "KOSPI पिछले सप्ताह 13% से अधिक चढ़ा, 8 मई को 7,498 पर बंद हुआ और 7 मई को इंट्राडे में 7,531 तक पहुंचा, जिससे 7,500 के बाद की दिशा पर ध्यान गया।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में पिछले सप्ताह मजबूत तेजी दिखी, जब KOSPI 7,500 के स्तर के करीब पहुंचा। सूचकांक सप्ताह भर में 13% से अधिक चढ़ा और 8 मई को 7,498 पर बंद हुआ। इससे पहले 7 मई को कारोबार के दौरान यह 7,531 तक गया और 7,500 के स्तर को पार कर गया। पिछले सप्ताह के घरेलू बाजार को एक वाक्य में समेटा गया: “7,500 छू लिया।” कम समय में तेजी बड़ी रही, इसलिए बाजार की नजर अब इस पर है कि बढ़त आगे जारी रहेगी या उसका कुछ हिस्सा लौटेगा। आंकड़े और संदर्भ mk.co.kr की रिपोर्ट से उद्धृत हैं।"
-      },
-      "id": {
-        "title": "KOSPI Dekati 7.500 Setelah Melonjak Lebih dari 13% dalam Sepekan",
-        "excerpt": "KOSPI naik lebih dari 13% pekan lalu, ditutup di 7.498 pada 8 Mei, dan sempat mencapai 7.531 intraday pada 7 Mei, membuat arah setelah 7.500 menjadi sorotan.",
-        "body": "Pasar saham Korea Selatan menunjukkan tren kenaikan kuat pekan lalu ketika KOSPI mendekati level 7.500. Indeks tersebut melonjak lebih dari 13% dalam sepekan dan ditutup di 7.498 pada 8 Mei. Sebelumnya, pada perdagangan 7 Mei, KOSPI sempat naik hingga 7.531 intraday, melewati level 7.500. Pekan itu di pasar domestik diringkas dengan kalimat: “Sudah menyentuh 7.500.” Karena kenaikan jangka pendeknya besar, perhatian pasar kini tertuju pada apakah reli akan berlanjut atau sebagian kenaikan akan terkoreksi. Angka dan konteks dikutip dari laporan mk.co.kr."
       }
     }
   }
