@@ -1,0 +1,75 @@
+{
+  "id": "12cbae2a2dcb",
+  "slug": "가상자산거래소에-등장한-한국-반도체etf-토큰상장-3일만에-145억원-몰렸다-680045",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-11T08:47:19.649Z",
+  "updatedAt": "2026-05-11T08:47:19.649Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12043308",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12043308",
+  "titleFingerprint": "b871f0593813a54f29e4d37af4898a3b68a3217f",
+  "dedupKeys": [
+    "12cbae2a2dcb3e218d5f314a1c1a2e3cfea78f6a",
+    "b871f0593813a54f29e4d37af4898a3b68a3217f",
+    "73d1d0d44dbb50f3e9a9e0ff1da83eeadc5a30a7"
+  ],
+  "imageUrl": "/images/articles/12cbae2a2dcb.jpg",
+  "i18n": {
+    "ko": {
+      "title": "한국 반도체ETF 토큰, OKX 상장 3일 만에 145억원 유입",
+      "excerpt": "글로벌 가상자산거래소 OKX가 지난 8일 한국 반도체 ETF 기반 무기한 선물을 상장한 뒤 3일 만에 145억원이 몰리며 전통 금융자산으로 경쟁이 확산되고 있다.",
+      "body": "글로벌 가상자산거래소 OKX가 지난 8일 삼성전자와 SK하이닉스 비중이 큰 한국 반도체 ETF 기반 토큰을 무기한 선물로 상장했다. 상장 3일 만에 해당 상품에는 145억원이 유입됐다. 기초자산 ETF에서 삼성전자와 SK하이닉스가 차지하는 비중은 47%로 알려졌다. 이번 사례는 가상자산 시장의 무기한 선물 경쟁이 코인 중심을 넘어 전통 금융자산으로 번지고 있음을 보여준다. 투자자 관심은 한국 반도체 대표 종목과 ETF를 연계한 파생상품으로도 확장되는 모습이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Korean Semiconductor ETF Token Draws 14.5 Billion Won After OKX Listing",
+      "excerpt": "OKX listed a perpetual futures product based on a Korean semiconductor ETF on May 8, attracting 14.5 billion won in three days as competition expands into traditional assets.",
+      "body": "Global crypto exchange OKX listed a token based on a Korean semiconductor ETF as a perpetual futures product on May 8. Within three days of listing, 14.5 billion won flowed into the product. The underlying ETF is known to have a 47% combined weighting in Samsung Electronics and SK hynix. The case shows that competition in crypto perpetual futures is moving beyond coins and into traditional financial assets. Investor attention is also extending to derivatives linked to Korean semiconductor leaders and ETF products. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "韓国半導体ETFトークン、OKX上場3日で145億ウォン流入",
+      "excerpt": "OKXは5月8日、韓国半導体ETFを基にした無期限先物を上場し、3日で145億ウォンが集まった。競争は伝統的金融資産へ広がっている。",
+      "body": "世界的な暗号資産取引所OKXは5月8日、サムスン電子とSKハイニックスの比重が大きい韓国半導体ETFを基にしたトークンを無期限先物として上場した。上場から3日で同商品には145億ウォンが流入した。基礎資産となるETFでサムスン電子とSKハイニックスが占める比率は47%とされる。今回の事例は、暗号資産市場の無期限先物競争がコイン中心を越え、伝統的金融資産へ広がっていることを示す。投資家の関心は韓国半導体代表銘柄とETFを結び付けたデリバティブにも広がっている。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "韩国半导体ETF代币登陆OKX，3天吸引145亿韩元",
+      "excerpt": "OKX于5月8日上线基于韩国半导体ETF的永续期货，上市3天吸引145亿韩元，显示竞争正扩展至传统金融资产。",
+      "body": "全球加密资产交易所OKX于5月8日将一款基于韩国半导体ETF的代币作为永续期货上线，该ETF中三星电子和SK海力士占比较高。上市3天内，该产品吸引资金145亿韩元。据悉，基础ETF中三星电子和SK海力士合计权重为47%。这一案例显示，加密资产市场的永续期货竞争正从以代币为中心，扩展到传统金融资产。投资者关注也在延伸至与韩国半导体龙头股票和ETF相关的衍生产品。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Token de ETF coreano de semiconductores capta 14.500 millones de wones en OKX",
+      "excerpt": "OKX listó el 8 de mayo futuros perpetuos basados en un ETF coreano de semiconductores y atrajo 14.500 millones de wones en tres días.",
+      "body": "La bolsa global de criptoactivos OKX listó el 8 de mayo un token basado en un ETF coreano de semiconductores como contrato de futuros perpetuos. En los tres días posteriores a la cotización, el producto recibió 14.500 millones de wones. El ETF subyacente tiene una alta exposición a Samsung Electronics y SK hynix, que en conjunto representan el 47%. El caso muestra que la competencia en futuros perpetuos del mercado cripto se está extendiendo más allá de las monedas hacia activos financieros tradicionales. El interés inversor también se amplía a derivados vinculados con valores líderes de semiconductores coreanos y ETF. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Token de ETF coreano de semicondutores atrai 14,5 bilhões de won na OKX",
+      "excerpt": "A OKX listou em 8 de maio futuros perpétuos baseados em um ETF coreano de semicondutores, atraindo 14,5 bilhões de won em três dias.",
+      "body": "A exchange global de criptoativos OKX listou em 8 de maio um token baseado em um ETF coreano de semicondutores como contrato futuro perpétuo. Em três dias após a listagem, o produto recebeu 14,5 bilhões de won. O ETF subjacente tem forte peso em Samsung Electronics e SK hynix, que juntas representam 47%. O caso mostra que a competição em futuros perpétuos no mercado cripto está passando do foco em moedas para ativos financeiros tradicionais. O interesse dos investidores também se amplia para derivativos ligados a ações líderes de semicondutores da Coreia e a ETFs. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Koreanischer Halbleiter-ETF-Token sammelt 14,5 Mrd. Won auf OKX ein",
+      "excerpt": "OKX listete am 8. Mai Perpetual Futures auf Basis eines koreanischen Halbleiter-ETF und zog binnen drei Tagen 14,5 Mrd. Won an.",
+      "body": "Die globale Kryptobörse OKX hat am 8. Mai einen Token auf Basis eines koreanischen Halbleiter-ETF als Perpetual Future gelistet. Innerhalb von drei Tagen nach der Notierung flossen 14,5 Milliarden Won in das Produkt. Der zugrunde liegende ETF ist stark auf Samsung Electronics und SK hynix ausgerichtet; ihr gemeinsamer Anteil liegt bei 47%. Der Fall zeigt, dass der Wettbewerb bei Perpetual Futures im Kryptomarkt über Coins hinaus auf traditionelle Finanzanlagen übergreift. Das Interesse der Anleger richtet sich damit auch auf Derivate, die koreanische Halbleiter-Schwergewichte und ETF-Produkte verbinden. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Un token d’ETF semi-conducteurs coréen attire 14,5 milliards de wons sur OKX",
+      "excerpt": "OKX a coté le 8 mai des contrats à terme perpétuels liés à un ETF coréen de semi-conducteurs, attirant 14,5 milliards de wons en trois jours.",
+      "body": "La plateforme mondiale de cryptoactifs OKX a coté le 8 mai un token basé sur un ETF coréen de semi-conducteurs sous forme de contrat à terme perpétuel. En trois jours, le produit a attiré 14,5 milliards de wons. L’ETF sous-jacent accorde un poids important à Samsung Electronics et SK hynix, qui représentent ensemble 47%. Ce cas montre que la concurrence des contrats perpétuels dans le marché crypto s’étend au-delà des monnaies numériques vers les actifs financiers traditionnels. L’intérêt des investisseurs gagne aussi les produits dérivés reliant les grandes valeurs coréennes des semi-conducteurs et les ETF. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "رمز ETF كوري لأشباه الموصلات يجذب 14.5 مليار وون بعد إدراجه في OKX",
+      "excerpt": "أدرجت OKX في 8 مايو عقودا آجلة دائمة مبنية على ETF كوري لأشباه الموصلات، وجذبت 14.5 مليار وون خلال ثلاثة أيام.",
+      "body": "أدرجت بورصة الأصول المشفرة العالمية OKX في 8 مايو رمزا مبنيا على ETF كوري لأشباه الموصلات كعقد آجل دائم. وخلال ثلاثة أيام من الإدراج، تدفق إلى المنتج 14.5 مليار وون. ويضم صندوق ETF الأساسي وزنا كبيرا لشركتي Samsung Electronics وSK hynix، إذ تبلغ حصتهما المشتركة 47%. وتظهر هذه الحالة أن المنافسة في العقود الآجلة الدائمة داخل سوق العملات المشفرة تتجاوز العملات الرقمية لتصل إلى الأصول المالية التقليدية. كما يمتد اهتمام المستثمرين إلى المشتقات المرتبطة بأسهم أشباه الموصلات الكورية الكبرى ومنتجات ETF. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "OKX पर कोरियाई सेमीकंडक्टर ETF टोकन ने 3 दिन में 14.5 अरब वॉन जुटाए",
+      "excerpt": "OKX ने 8 मई को कोरियाई सेमीकंडक्टर ETF आधारित परपेचुअल फ्यूचर्स सूचीबद्ध किया, जिसमें तीन दिन में 14.5 अरब वॉन आए।",
+      "body": "वैश्विक क्रिप्टो एसेट एक्सचेंज OKX ने 8 मई को Samsung Electronics और SK hynix के बड़े वजन वाले कोरियाई सेमीकंडक्टर ETF पर आधारित टोकन को परपेचुअल फ्यूचर्स के रूप में सूचीबद्ध किया। सूचीबद्ध होने के तीन दिन के भीतर इस उत्पाद में 14.5 अरब वॉन का निवेश आया। आधार ETF में Samsung Electronics और SK hynix की संयुक्त हिस्सेदारी 47% बताई गई है। यह मामला दिखाता है कि क्रिप्टो बाजार में परपेचुअल फ्यूचर्स की प्रतिस्पर्धा कॉइन से आगे बढ़कर पारंपरिक वित्तीय परिसंपत्तियों तक फैल रही है। निवेशकों की रुचि कोरियाई सेमीकंडक्टर प्रमुख शेयरों और ETF से जुड़े डेरिवेटिव तक भी बढ़ रही है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Token ETF Semikonduktor Korea di OKX Serap 14,5 Miliar Won dalam 3 Hari",
+      "excerpt": "OKX mencatatkan futures perpetual berbasis ETF semikonduktor Korea pada 8 Mei dan menarik 14,5 miliar won dalam tiga hari.",
+      "body": "Bursa aset kripto global OKX mencatatkan token berbasis ETF semikonduktor Korea sebagai futures perpetual pada 8 Mei. Dalam tiga hari setelah pencatatan, produk itu menerima aliran dana 14,5 miliar won. ETF yang menjadi aset dasar memiliki porsi besar pada Samsung Electronics dan SK hynix, dengan bobot gabungan 47%. Kasus ini menunjukkan bahwa persaingan futures perpetual di pasar kripto bergerak melampaui koin menuju aset keuangan tradisional. Minat investor juga meluas ke derivatif yang menghubungkan saham semikonduktor utama Korea dan produk ETF. Sumber: mk.co.kr"
+    }
+  }
+}
