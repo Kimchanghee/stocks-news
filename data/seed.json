@@ -1,5 +1,230 @@
 [
   {
+    "id": "43b7bff8d11c",
+    "slug": "클래리티-법안-미국-상원처리-눈앞은행권-스테이블코인-이자-금지-총력전-677169",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T17:35:01.390Z",
+    "updatedAt": "2026-05-11T17:35:01.390Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042922",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042922",
+    "titleFingerprint": "4c68588faca4c4a1d212416d38244fa6a1b62360",
+    "dedupKeys": [
+      "43b7bff8d11c762afddaa84a713235ce245dd7a3",
+      "4c68588faca4c4a1d212416d38244fa6a1b62360",
+      "0f10be3653a17164487681c0bfb1e38abd58891d"
+    ],
+    "imageUrl": "/images/articles/43b7bff8d11c.png",
+    "i18n": {
+      "ko": {
+        "title": "클래리티 법안 상원 처리 임박…미 은행권, 스테이블코인 이자 금지 압박",
+        "excerpt": "미국 상원 처리를 앞둔 클래리티 법안을 두고 은행권이 예금 이탈 우려를 이유로 스테이블코인 이자 지급 전면 금지를 요구하며 막판 수정 압박에 나섰다.",
+        "body": "미국 상원 처리를 앞둔 ‘클래리티 법안’을 둘러싸고 은행권과 가상자산 업계의 충돌이 커지고 있다. 미국 은행권은 예금이 스테이블코인으로 빠져나갈 수 있다는 우려를 들어 법안 막판 수정과 코인 이자 지급 전면 금지를 촉구하고 있다. 이에 코인베이스는 은행권의 요구를 “은행의 횡포이자 경쟁 죽이기”라고 비판했다. 반면 틸리스 상원의원은 기존 타협안을 유지해야 한다며 은행권 요구에 반박했다. 상원 처리 국면에서 스테이블코인 이자 허용 여부가 핵심 쟁점으로 떠오른 가운데, 법안의 최종 문구가 금융권과 가상자산 업계의 경쟁 구도에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "CLARITY Act Nears Senate Action as US Banks Push Stablecoin Interest Ban",
+        "excerpt": "As the CLARITY Act nears US Senate action, banks are pressing for last-minute changes to fully ban stablecoin interest, citing concerns over deposit outflows.",
+        "body": "A dispute between US banks and the crypto industry is intensifying as the CLARITY Act approaches Senate action. The banking sector is demanding last-minute revisions and a full ban on interest payments on stablecoins, arguing that deposits could move out of banks and into coins. Coinbase criticized the request as “bank bullying” and an attempt to kill competition. Senator Tillis pushed back, saying the existing compromise should be maintained. As the bill moves through the Senate, whether stablecoin interest will be allowed has become a central issue, with the final wording expected to affect the competitive balance between banks and the digital asset industry. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クラリティ法案が米上院審議目前、銀行界がステーブルコイン利息禁止を圧迫",
+        "excerpt": "米上院での処理を控えるクラリティ法案を巡り、銀行界は預金流出への懸念からステーブルコインの利息支払い全面禁止を求めている。",
+        "body": "米上院での処理を目前にした「クラリティ法案」を巡り、銀行界と暗号資産業界の対立が強まっている。米銀行界は、預金がステーブルコインへ流出する可能性を理由に、法案の土壇場での修正とコインの利息支払い全面禁止を求めている。これに対しコインベースは、銀行界の要求を「銀行の横暴であり競争つぶし」だと批判した。一方、ティリス上院議員は既存の妥協案を維持すべきだとして銀行界の要求に反論した。上院での処理局面でステーブルコイン利息の可否が核心争点となる中、最終文言は金融界と暗号資産業界の競争構図に影響を与える見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "CLARITY法案临近美国参议院审议，银行业施压禁止稳定币付息",
+        "excerpt": "在CLARITY法案即将进入美国参议院处理之际，银行业以担心存款流出为由，要求全面禁止稳定币支付利息并进行最后修改。",
+        "body": "围绕即将由美国参议院处理的“CLARITY法案”，银行业与加密资产行业的冲突正在加剧。美国银行业担心存款可能流向稳定币，要求在最后阶段修改法案，并全面禁止稳定币支付利息。对此，Coinbase批评称，银行业的要求是“银行的蛮横行为，也是扼杀竞争”。另一方面，参议员Tillis反驳银行业诉求，表示应维持既有妥协方案。随着法案进入参议院处理阶段，是否允许稳定币付息已成为核心争议，最终文本预计将影响金融业与加密资产行业的竞争格局。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La Ley CLARITY se acerca al Senado y bancos de EE. UU. presionan contra intereses en stablecoins",
+        "excerpt": "Ante el avance de la Ley CLARITY en el Senado de EE. UU., los bancos piden cambios de última hora para prohibir intereses en stablecoins por temor a salidas de depósitos.",
+        "body": "La disputa entre la banca estadounidense y la industria de criptoactivos se intensifica mientras la Ley CLARITY se acerca a su tramitación en el Senado. El sector bancario pide revisiones de última hora y una prohibición total del pago de intereses sobre stablecoins, alegando el riesgo de que los depósitos salgan de los bancos hacia esas monedas. Coinbase criticó la exigencia como un “abuso de los bancos” y un intento de eliminar la competencia. El senador Tillis respondió que debe mantenerse el acuerdo de compromiso existente. En esta fase del Senado, permitir o no intereses en stablecoins se ha convertido en el tema central, y el texto final podría influir en la competencia entre la banca y el sector de activos digitales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lei CLARITY se aproxima do Senado dos EUA e bancos pressionam por veto a juros em stablecoins",
+        "excerpt": "Com a Lei CLARITY perto de tramitação no Senado dos EUA, bancos pedem mudanças finais para proibir juros em stablecoins, alegando risco de saída de depósitos.",
+        "body": "A disputa entre bancos dos EUA e a indústria de criptoativos cresce à medida que a Lei CLARITY se aproxima da tramitação no Senado. O setor bancário pede revisões de última hora e a proibição total do pagamento de juros sobre stablecoins, citando o receio de que depósitos migrem dos bancos para essas moedas. A Coinbase criticou a demanda como “abuso dos bancos” e uma tentativa de matar a concorrência. Já o senador Tillis rebateu, defendendo a manutenção do acordo de compromisso existente. Na fase de análise pelo Senado, a permissão ou não de juros em stablecoins tornou-se o ponto central, e a redação final deve afetar a competição entre o setor financeiro e a indústria de ativos digitais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "CLARITY-Gesetz vor US-Senat: Banken drängen auf Zinsverbot für Stablecoins",
+        "excerpt": "Kurz vor der Behandlung des CLARITY-Gesetzes im US-Senat fordern Banken wegen möglicher Einlagenabflüsse ein vollständiges Verbot von Stablecoin-Zinsen.",
+        "body": "Rund um das vor der Behandlung im US-Senat stehende CLARITY-Gesetz verschärft sich der Konflikt zwischen Banken und der Kryptoindustrie. Die US-Banken fordern Änderungen in letzter Minute und ein vollständiges Verbot von Zinszahlungen auf Stablecoins. Sie begründen dies mit der Sorge, dass Einlagen aus Banken in solche Coins abfließen könnten. Coinbase kritisierte die Forderung als “Bankenwillkür” und als Versuch, Wettbewerb zu ersticken. Senator Tillis widersprach und erklärte, der bestehende Kompromiss solle beibehalten werden. Während das Gesetz im Senat vorankommt, ist die Frage der Stablecoin-Zinsen zum Kernstreitpunkt geworden. Die endgültige Formulierung dürfte das Wettbewerbsverhältnis zwischen Finanzbranche und Digital-Asset-Sektor beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La loi CLARITY approche du Sénat américain, les banques veulent bannir les intérêts des stablecoins",
+        "excerpt": "À l’approche de l’examen de la loi CLARITY au Sénat américain, les banques réclament l’interdiction totale des intérêts sur stablecoins, craignant une fuite des dépôts.",
+        "body": "Le conflit entre les banques américaines et l’industrie des cryptoactifs s’intensifie alors que la loi CLARITY approche de son examen au Sénat. Le secteur bancaire demande des modifications de dernière minute et une interdiction totale du versement d’intérêts sur les stablecoins, en invoquant le risque de voir les dépôts quitter les banques pour ces coins. Coinbase a critiqué cette demande comme un “abus des banques” et une tentative d’étouffer la concurrence. Le sénateur Tillis a répliqué qu’il fallait maintenir le compromis existant. Dans cette phase sénatoriale, l’autorisation ou non des intérêts sur stablecoins est devenue l’enjeu central, et la formulation finale devrait influencer l’équilibre concurrentiel entre la finance et les actifs numériques. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قانون CLARITY يقترب من مجلس الشيوخ والبنوك الأمريكية تضغط لحظر فوائد العملات المستقرة",
+        "excerpt": "مع اقتراب قانون CLARITY من المعالجة في مجلس الشيوخ الأمريكي، تطالب البنوك بحظر كامل لفوائد العملات المستقرة خشية خروج الودائع من النظام المصرفي.",
+        "body": "يتصاعد الخلاف بين البنوك الأمريكية وقطاع الأصول المشفرة مع اقتراب قانون CLARITY من المعالجة في مجلس الشيوخ. وتطالب البنوك بتعديلات في اللحظة الأخيرة وبحظر كامل على دفع الفوائد على العملات المستقرة، مستندة إلى مخاوف من انتقال الودائع من البنوك إلى هذه العملات. وانتقدت كوينباس هذا الطلب واعتبرته “تسلطا من البنوك” ومحاولة لقتل المنافسة. في المقابل، رد السيناتور تيليس بأن التسوية القائمة يجب أن تبقى كما هي. ومع دخول القانون مرحلة مجلس الشيوخ، أصبحت مسألة السماح بفوائد العملات المستقرة محور الخلاف، ومن المتوقع أن تؤثر الصياغة النهائية في ميزان المنافسة بين القطاع المالي وصناعة الأصول الرقمية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "CLARITY कानून सीनेट के करीब, अमेरिकी बैंक स्टेबलकॉइन ब्याज पर रोक के लिए दबाव में",
+        "excerpt": "अमेरिकी सीनेट में CLARITY कानून की प्रक्रिया से पहले बैंक जमा निकासी की आशंका जताते हुए स्टेबलकॉइन पर ब्याज भुगतान पर पूर्ण रोक की मांग कर रहे हैं।",
+        "body": "अमेरिकी सीनेट में प्रक्रिया के करीब पहुंचे ‘CLARITY कानून’ को लेकर बैंकिंग क्षेत्र और क्रिप्टो उद्योग के बीच टकराव बढ़ रहा है। अमेरिकी बैंकिंग क्षेत्र को आशंका है कि जमा राशि स्टेबलकॉइन की ओर जा सकती है, इसलिए वह अंतिम समय में कानून में संशोधन और कॉइन पर ब्याज भुगतान पर पूर्ण प्रतिबंध की मांग कर रहा है। कॉइनबेस ने इस मांग को “बैंकों की मनमानी और प्रतिस्पर्धा खत्म करने की कोशिश” बताया। दूसरी ओर, सीनेटर टिलिस ने कहा कि मौजूदा समझौता बनाए रखा जाना चाहिए और बैंकिंग क्षेत्र की मांग का विरोध किया। सीनेट की प्रक्रिया में स्टेबलकॉइन ब्याज की अनुमति मुख्य मुद्दा बन गई है, और अंतिम भाषा वित्तीय क्षेत्र तथा डिजिटल एसेट उद्योग की प्रतिस्पर्धा को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "RUU CLARITY Dekati Senat AS, Bank Mendesak Larangan Bunga Stablecoin",
+        "excerpt": "Menjelang pembahasan RUU CLARITY di Senat AS, industri perbankan meminta perubahan akhir untuk melarang bunga stablecoin karena khawatir dana simpanan keluar.",
+        "body": "Ketegangan antara industri perbankan AS dan sektor aset kripto meningkat saat RUU CLARITY mendekati proses di Senat. Kalangan bank AS meminta revisi pada tahap akhir dan larangan penuh atas pembayaran bunga stablecoin, dengan alasan kekhawatiran dana simpanan dapat berpindah dari bank ke coin tersebut. Coinbase mengkritik permintaan itu sebagai “kesewenang-wenangan bank” dan upaya mematikan persaingan. Sebaliknya, Senator Tillis membantah tuntutan perbankan dan menyatakan kompromi yang sudah ada harus dipertahankan. Dalam proses Senat, boleh tidaknya bunga stablecoin menjadi isu utama, sementara rumusan akhir diperkirakan memengaruhi persaingan antara sektor keuangan dan industri aset digital. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "0d01058fa1aa",
+    "slug": "a16z-디지털애셋에-3억달러-베팅블록체인-인프라에-ma투자-집중-522814",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T17:33:52.421Z",
+    "updatedAt": "2026-05-11T17:33:52.421Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042923",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042923",
+    "titleFingerprint": "d4621e9f03d421d8a460d032092941c4312fbfba",
+    "dedupKeys": [
+      "0d01058fa1aa52d5890f23c1c037829b1c617a13",
+      "d4621e9f03d421d8a460d032092941c4312fbfba",
+      "ab1c8b383ffa08632084bfbd2ad7a0aebf8b8944"
+    ],
+    "imageUrl": "/images/articles/0d01058fa1aa.png",
+    "i18n": {
+      "ko": {
+        "title": "a16z, 디지털애셋 3억달러 투자 참여…블록체인 인프라 집중",
+        "excerpt": "디지털애셋이 3억달러 규모 투자 유치를 앞둔 가운데 a16z 등 월가 기관 투자자가 참여하며 전통금융과 코인 시장의 경계 변화에 관심이 쏠린다.",
+        "body": "디지털애셋이 3억달러 규모의 투자 유치를 앞두고 있으며, a16z를 비롯한 월가 기관 투자자들이 대거 참여한 것으로 전해졌다. 이번 자금 조달은 전통 금융권과 가상자산 시장의 경계가 빠르게 옅어지는 흐름 속에서 이뤄지고 있다. 원문에 따르면 a16z는 디지털애셋에 대한 베팅을 통해 블록체인 인프라 분야의 M&A와 투자에 집중하고 있다. 시장에서는 향후 5년 안에 전통금융과 코인 시장의 경계가 사라질 수 있다는 관측도 제기됐다. 이번 투자 움직임은 가상자산 인프라가 금융권의 핵심 투자 영역으로 부상하고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "a16z Joins Digital Asset’s $300 Million Funding Push, Targeting Blockchain Infrastructure",
+        "excerpt": "Digital Asset is nearing a $300 million funding round, with a16z and major Wall Street institutional investors joining as finance and crypto markets converge.",
+        "body": "Digital Asset is close to securing a $300 million investment round, with a16z and a large group of Wall Street institutional investors reportedly taking part. The fundraising comes as the boundary between traditional finance and the virtual asset, or cryptocurrency, market is narrowing rapidly. According to the original report, a16z is focusing its bet on Digital Asset as part of broader M&A and investment activity in blockchain infrastructure. The report also notes the view that the line between traditional finance and the coin market could disappear within five years. The move highlights how digital asset infrastructure is becoming a key investment focus for financial institutions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "a16z、デジタルアセットの3億ドル調達に参加…ブロックチェーン基盤へ集中",
+        "excerpt": "デジタルアセットが3億ドル規模の資金調達に近づき、a16zなどウォール街の機関投資家が参加し、伝統金融と暗号資産市場の接近が注目されている。",
+        "body": "デジタルアセットは3億ドル規模の投資誘致を目前にしており、a16zをはじめとするウォール街の機関投資家が多数参加したと伝えられた。今回の資金調達は、伝統的な金融業界と仮想資産、つまり暗号資産市場の境界が急速に薄れる流れの中で進んでいる。原文によると、a16zはデジタルアセットへの投資を通じ、ブロックチェーンインフラ分野のM&Aと投資に集中している。市場では、今後5年以内に伝統金融とコイン市場の境界がなくなる可能性があるとの見方も示された。今回の動きは、暗号資産インフラが金融機関の主要な投資領域として浮上していることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "a16z参与Digital Asset 3亿美元融资，聚焦区块链基础设施",
+        "excerpt": "Digital Asset即将完成3亿美元融资，a16z等华尔街机构投资者参与，传统金融与加密货币市场边界加速模糊。",
+        "body": "Digital Asset即将获得3亿美元规模投资，a16z以及多家华尔街机构投资者据称大举参与。本轮融资发生在传统金融与虚拟资产、即加密货币市场边界快速变淡的背景下。原文称，a16z通过押注Digital Asset，正把并购和投资重点放在区块链基础设施领域。报道还提到，市场上出现了未来5年内传统金融与币圈市场边界可能消失的观点。此次投资动向显示，数字资产基础设施正成为金融机构关注的核心投资领域。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "a16z se suma a la ronda de 300 millones de dólares de Digital Asset y mira blockchain",
+        "excerpt": "Digital Asset está cerca de captar 300 millones de dólares con la participación de a16z y grandes inversores institucionales de Wall Street, en medio de la convergencia entre finanzas y cripto.",
+        "body": "Digital Asset está cerca de cerrar una ronda de inversión de 300 millones de dólares, con la participación de a16z y numerosos inversores institucionales de Wall Street. La financiación llega mientras la frontera entre las finanzas tradicionales y el mercado de activos virtuales, o criptomonedas, se difumina con rapidez. Según el informe original, a16z apuesta por Digital Asset y concentra su actividad de M&A e inversión en infraestructura blockchain. El texto también recoge la visión de que, en un plazo de cinco años, la separación entre las finanzas tradicionales y el mercado de monedas podría desaparecer. El movimiento muestra que la infraestructura de activos digitales se está convirtiendo en un área clave de inversión para el sector financiero. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "a16z entra em rodada de US$ 300 milhões da Digital Asset com foco em blockchain",
+        "excerpt": "A Digital Asset está perto de captar US$ 300 milhões, com a participação da a16z e de grandes investidores institucionais de Wall Street, enquanto finanças tradicionais e cripto se aproximam.",
+        "body": "A Digital Asset está perto de concluir uma captação de US$ 300 milhões, com participação da a16z e de vários investidores institucionais de Wall Street. A rodada ocorre em um momento em que a fronteira entre o setor financeiro tradicional e o mercado de ativos virtuais, ou criptomoedas, se reduz rapidamente. Segundo a reportagem original, a a16z aposta na Digital Asset e concentra M&A e investimentos em infraestrutura de blockchain. O texto também aponta a visão de que, em até cinco anos, a divisão entre finanças tradicionais e o mercado de moedas digitais pode desaparecer. O movimento mostra que a infraestrutura de ativos digitais está se tornando uma área central de investimento para instituições financeiras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "a16z beteiligt sich an Digital-Asset-Runde über 300 Mio. Dollar mit Blockchain-Fokus",
+        "excerpt": "Digital Asset steht vor einer Finanzierungsrunde über 300 Millionen Dollar, an der a16z und große institutionelle Wall-Street-Investoren teilnehmen, während Finanz- und Kryptomärkte zusammenrücken.",
+        "body": "Digital Asset steht kurz vor einer Finanzierungsrunde über 300 Millionen Dollar, an der sich a16z und zahlreiche institutionelle Investoren von der Wall Street beteiligen sollen. Die Kapitalaufnahme erfolgt in einer Phase, in der die Grenze zwischen traditionellem Finanzwesen und dem Markt für virtuelle Vermögenswerte, also Kryptowährungen, rasch verschwimmt. Dem Originalbericht zufolge setzt a16z mit Digital Asset auf Blockchain-Infrastruktur und konzentriert dort M&A sowie Investitionen. Zudem wird die Einschätzung genannt, dass die Grenze zwischen traditioneller Finanzwelt und Coin-Markt innerhalb von fünf Jahren verschwinden könnte. Die Entwicklung zeigt, dass Infrastruktur für digitale Vermögenswerte zu einem wichtigen Investitionsfeld für Finanzinstitute wird. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "a16z rejoint le tour de 300 millions de dollars de Digital Asset, cap sur la blockchain",
+        "excerpt": "Digital Asset serait proche de lever 300 millions de dollars avec a16z et de grands investisseurs institutionnels de Wall Street, alors que finance traditionnelle et crypto convergent.",
+        "body": "Digital Asset serait sur le point de lever 300 millions de dollars, avec la participation d’a16z et de nombreux investisseurs institutionnels de Wall Street. Cette opération intervient alors que la frontière entre la finance traditionnelle et le marché des actifs virtuels, ou cryptomonnaies, s’estompe rapidement. Selon l’article original, a16z mise sur Digital Asset et concentre ses opérations de M&A ainsi que ses investissements sur l’infrastructure blockchain. Le texte évoque aussi l’idée que, d’ici cinq ans, la séparation entre la finance traditionnelle et le marché des coins pourrait disparaître. Ce mouvement montre que l’infrastructure des actifs numériques devient un domaine d’investissement majeur pour les institutions financières. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "a16z تشارك في تمويل Digital Asset بقيمة 300 مليون دولار وتركز على بنية البلوك تشين",
+        "excerpt": "تقترب Digital Asset من جمع 300 مليون دولار بمشاركة a16z ومستثمرين مؤسسيين كبار من وول ستريت، مع تسارع تقارب التمويل التقليدي وسوق العملات المشفرة.",
+        "body": "تقترب Digital Asset من الحصول على استثمار بقيمة 300 مليون دولار، وسط مشاركة واسعة من a16z وعدد من المستثمرين المؤسسيين في وول ستريت. يأتي هذا التمويل في وقت تتلاشى فيه بسرعة الحدود بين القطاع المالي التقليدي وسوق الأصول الافتراضية، أي العملات المشفرة. ووفق التقرير الأصلي، تراهن a16z على Digital Asset وتركز أنشطة الاندماج والاستحواذ والاستثمار على بنية البلوك تشين التحتية. كما أشار التقرير إلى طرح رؤية مفادها أن الحدود بين التمويل التقليدي وسوق العملات قد تختفي خلال خمس سنوات. وتظهر هذه الخطوة أن بنية الأصول الرقمية باتت مجالا استثماريا رئيسيا للمؤسسات المالية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "a16z ने Digital Asset की 30 करोड़ डॉलर फंडिंग में हिस्सा लिया, ब्लॉकचेन इंफ्रास्ट्रक्चर पर जोर",
+        "excerpt": "Digital Asset 30 करोड़ डॉलर की फंडिंग जुटाने के करीब है, जिसमें a16z और वॉल स्ट्रीट के बड़े संस्थागत निवेशक शामिल हैं, जबकि पारंपरिक वित्त और क्रिप्टो बाजार करीब आ रहे हैं।",
+        "body": "Digital Asset 30 करोड़ डॉलर के निवेश को जुटाने के करीब है, और इसमें a16z सहित वॉल स्ट्रीट के कई संस्थागत निवेशकों की बड़ी भागीदारी बताई गई है। यह फंडिंग ऐसे समय हो रही है जब पारंपरिक वित्त और वर्चुअल एसेट, यानी क्रिप्टोकरेंसी बाजार, के बीच की सीमा तेजी से धुंधली हो रही है। मूल रिपोर्ट के अनुसार, a16z Digital Asset पर दांव लगाते हुए ब्लॉकचेन इंफ्रास्ट्रक्चर क्षेत्र में M&A और निवेश पर ध्यान केंद्रित कर रही है। रिपोर्ट में यह दृष्टिकोण भी सामने आया कि अगले पांच वर्षों में पारंपरिक वित्त और कॉइन बाजार की सीमा खत्म हो सकती है। यह कदम दिखाता है कि डिजिटल एसेट इंफ्रास्ट्रक्चर वित्तीय संस्थानों के लिए प्रमुख निवेश क्षेत्र बन रहा है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "a16z Ikut Pendanaan Digital Asset US$300 Juta, Fokus ke Infrastruktur Blockchain",
+        "excerpt": "Digital Asset hampir meraih pendanaan US$300 juta, dengan partisipasi a16z dan investor institusi besar Wall Street saat batas keuangan tradisional dan kripto makin kabur.",
+        "body": "Digital Asset disebut hampir memperoleh investasi senilai US$300 juta, dengan partisipasi besar dari a16z dan sejumlah investor institusi Wall Street. Pendanaan ini berlangsung saat batas antara sektor keuangan tradisional dan pasar aset virtual, atau kripto, semakin cepat memudar. Menurut laporan asli, a16z menempatkan taruhan pada Digital Asset sambil memusatkan M&A dan investasi di bidang infrastruktur blockchain. Laporan itu juga memuat pandangan bahwa dalam lima tahun ke depan batas antara keuangan tradisional dan pasar koin dapat menghilang. Langkah ini menunjukkan bahwa infrastruktur aset digital menjadi area investasi utama bagi lembaga keuangan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "749d509ed5e3",
+    "slug": "스테이블코인이-카드-대체할-수-밖에-없는-이유ai에이전트-시대-다가온다-362901",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-11T17:32:49.648Z",
+    "updatedAt": "2026-05-11T17:32:49.648Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12042926",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042926",
+    "titleFingerprint": "c9b0fbcf362847c3a738d8caccdb9dc6f5ca70a5",
+    "dedupKeys": [
+      "749d509ed5e32643032f43ff01ba47fadf6abfeb",
+      "c9b0fbcf362847c3a738d8caccdb9dc6f5ca70a5",
+      "3d114895d15ea06d4583299f23bb11eddc1eacba"
+    ],
+    "imageUrl": "/images/articles/749d509ed5e3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스테이블코인 결제, 카드 대체 가능성 주목…AI에이전트 시대의 핵심 인프라",
+        "excerpt": "빈센트 척 퍼스트디지털 CEO는 아시아 최초 달러 스테이블코인 FDUSD 발행 경험을 바탕으로 AI 결제가 스테이블코인의 미래라고 밝혔다.",
+        "body": "빈센트 척 퍼스트디지털 CEO는 mk.co.kr 인터뷰에서 스테이블코인이 카드 결제를 대체할 수밖에 없는 이유로 AI에이전트 시대의 도래를 꼽았다. 퍼스트디지털은 아시아 최초의 달러 스테이블코인 FDUSD를 발행한 기업이다. 척 CEO는 AI 결제가 스테이블코인의 미래라고 강조하며, 자동화된 디지털 환경에서 즉시성과 효율성이 중요해질 것이라고 설명했다. 그는 원화 스테이블코인이 한국 결제 혁신을 이끌 수 있다고도 말했다. 관련 내용은 나스닥 SPAC 추진 맥락과 함께 소개됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Stablecoin Payments Gain Attention as AI Agents Point Beyond Cards",
+        "excerpt": "Vincent Chok, CEO of First Digital, said AI payments are the future of stablecoins, citing the firm’s issuance of Asia’s first dollar stablecoin, FDUSD.",
+        "body": "Vincent Chok, CEO of First Digital, said in an interview with mk.co.kr that the coming age of AI agents is why stablecoins may inevitably replace card payments. First Digital is the issuer of FDUSD, described as Asia’s first dollar stablecoin. Chok emphasized that AI payments represent the future of stablecoins, explaining that immediacy and efficiency will become more important in automated digital environments. He also said a won-denominated stablecoin could lead payment innovation in Korea. The remarks were presented alongside the context of a Nasdaq SPAC push. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ステーブルコイン決済、カード代替に注目…AIエージェント時代の基盤に",
+        "excerpt": "ファーストデジタルのビンセント・チョクCEOは、アジア初のドル建てステーブルコインFDUSD発行を踏まえ、AI決済が未来だと述べた。",
+        "body": "ファーストデジタルのビンセント・チョクCEOはmk.co.krのインタビューで、ステーブルコインがカード決済を代替せざるを得ない理由としてAIエージェント時代の到来を挙げた。ファーストデジタルはアジア初のドル建てステーブルコインFDUSDを発行した企業だ。チョクCEOは、AI決済がステーブルコインの未来だと強調し、自動化されたデジタル環境では即時性と効率性が重要になると説明した。また、ウォン建てステーブルコインが韓国の決済革新を主導し得るとも述べた。内容はナスダックSPAC推進の文脈とともに紹介された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "稳定币支付受关注：AI代理时代或推动其替代银行卡",
+        "excerpt": "First Digital首席执行官Vincent Chok表示，基于发行亚洲首个美元稳定币FDUSD的经验，AI支付将是稳定币的未来。",
+        "body": "First Digital首席执行官Vincent Chok在接受mk.co.kr采访时表示，AI代理时代的到来，是稳定币可能不得不取代银行卡支付的重要原因。First Digital是亚洲首个美元稳定币FDUSD的发行方。Chok强调，AI支付是稳定币的未来，并说明在自动化数字环境中，即时性和效率将变得更加重要。他还表示，韩元稳定币有望引领韩国支付创新。相关内容也与该公司推进纳斯达克SPAC的背景一并被介绍。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Pagos con stablecoins ganan foco ante la era de agentes de IA",
+        "excerpt": "Vincent Chok, CEO de First Digital, dijo que los pagos con IA son el futuro de las stablecoins, tras emitir FDUSD, la primera stablecoin en dólares de Asia.",
+        "body": "Vincent Chok, CEO de First Digital, afirmó en una entrevista con mk.co.kr que la llegada de la era de los agentes de IA explica por qué las stablecoins podrían verse destinadas a sustituir los pagos con tarjeta. First Digital emitió FDUSD, presentada como la primera stablecoin en dólares de Asia. Chok subrayó que los pagos con IA son el futuro de las stablecoins y explicó que la inmediatez y la eficiencia serán claves en entornos digitales automatizados. También dijo que una stablecoin en won podría impulsar la innovación de pagos en Corea. El tema se presentó junto al contexto de una iniciativa SPAC en Nasdaq. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Pagamentos com stablecoins avançam com era de agentes de IA",
+        "excerpt": "Vincent Chok, CEO da First Digital, afirmou que pagamentos por IA são o futuro das stablecoins, após a emissão da FDUSD, primeira stablecoin em dólar da Ásia.",
+        "body": "Vincent Chok, CEO da First Digital, disse em entrevista ao mk.co.kr que a chegada da era dos agentes de IA é o motivo pelo qual as stablecoins podem acabar substituindo pagamentos com cartão. A First Digital é emissora da FDUSD, apresentada como a primeira stablecoin em dólar da Ásia. Chok destacou que pagamentos por IA são o futuro das stablecoins e explicou que imediatismo e eficiência ganharão importância em ambientes digitais automatizados. Ele também afirmou que uma stablecoin em won pode liderar a inovação em pagamentos na Coreia. O tema foi apresentado junto ao contexto de uma iniciativa de SPAC na Nasdaq. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Stablecoin-Zahlungen rücken in den Fokus der AI-Agenten-Ära",
+        "excerpt": "Vincent Chok, CEO von First Digital, sagte, KI-Zahlungen seien die Zukunft von Stablecoins, gestützt auf die Ausgabe von FDUSD, Asiens erstem Dollar-Stablecoin.",
+        "body": "Vincent Chok, CEO von First Digital, sagte in einem Interview mit mk.co.kr, dass die kommende Ära der AI-Agenten ein Grund sei, warum Stablecoins Kartenzahlungen letztlich ersetzen könnten. First Digital ist Emittent von FDUSD, der als erster Dollar-Stablecoin Asiens beschrieben wird. Chok betonte, KI-Zahlungen seien die Zukunft von Stablecoins, und erklärte, dass Unmittelbarkeit und Effizienz in automatisierten digitalen Umgebungen wichtiger würden. Zudem sagte er, ein Won-Stablecoin könne Zahlungsinnovationen in Korea vorantreiben. Die Aussagen wurden im Kontext eines Nasdaq-SPAC-Vorhabens vorgestellt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les paiements en stablecoins s’imposent avec l’ère des agents IA",
+        "excerpt": "Vincent Chok, PDG de First Digital, a déclaré que les paiements par IA sont l’avenir des stablecoins, après l’émission de FDUSD, premier stablecoin en dollar d’Asie.",
+        "body": "Vincent Chok, PDG de First Digital, a déclaré dans une interview à mk.co.kr que l’arrivée de l’ère des agents IA explique pourquoi les stablecoins pourraient finir par remplacer les paiements par carte. First Digital est l’émetteur de FDUSD, présenté comme le premier stablecoin en dollar d’Asie. Chok a souligné que les paiements par IA représentent l’avenir des stablecoins, en expliquant que l’instantanéité et l’efficacité deviendront essentielles dans les environnements numériques automatisés. Il a aussi indiqué qu’un stablecoin en won pourrait mener l’innovation des paiements en Corée. Ces propos ont été présentés avec le contexte d’un projet de SPAC au Nasdaq. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مدفوعات العملات المستقرة تبرز مع اقتراب عصر وكلاء الذكاء الاصطناعي",
+        "excerpt": "قال فنسنت تشوك، الرئيس التنفيذي لـFirst Digital، إن مدفوعات الذكاء الاصطناعي هي مستقبل العملات المستقرة، استنادا إلى إصدار FDUSD في آسيا.",
+        "body": "قال فنسنت تشوك، الرئيس التنفيذي لشركة First Digital، في مقابلة مع mk.co.kr إن اقتراب عصر وكلاء الذكاء الاصطناعي يفسر لماذا قد تصبح العملات المستقرة بديلا لا مفر منه لمدفوعات البطاقات. وتعد First Digital جهة إصدار FDUSD، الموصوفة بأنها أول عملة مستقرة مقومة بالدولار في آسيا. وشدد تشوك على أن مدفوعات الذكاء الاصطناعي تمثل مستقبل العملات المستقرة، موضحا أن الفورية والكفاءة ستزداد أهميتهما في البيئات الرقمية المؤتمتة. كما قال إن عملة مستقرة مقومة بالوون قد تقود ابتكار المدفوعات في كوريا. وجاءت التصريحات ضمن سياق السعي إلى SPAC في ناسداك. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI एजेंट युग में स्टेबलकॉइन भुगतान पर फोकस, कार्ड का विकल्प बनने की संभावना",
+        "excerpt": "फर्स्ट डिजिटल के CEO विन्सेंट चोक ने कहा कि AI भुगतान स्टेबलकॉइन का भविष्य है, कंपनी ने एशिया का पहला डॉलर स्टेबलकॉइन FDUSD जारी किया है।",
+        "body": "फर्स्ट डिजिटल के CEO विन्सेंट चोक ने mk.co.kr को दिए इंटरव्यू में कहा कि AI एजेंट युग का आगमन वह कारण है जिसके चलते स्टेबलकॉइन कार्ड भुगतान का विकल्प बन सकते हैं। फर्स्ट डिजिटल ने FDUSD जारी किया है, जिसे एशिया का पहला डॉलर स्टेबलकॉइन बताया गया है। चोक ने जोर दिया कि AI भुगतान स्टेबलकॉइन का भविष्य है और स्वचालित डिजिटल वातावरण में तत्कालता तथा दक्षता अधिक महत्वपूर्ण होंगी। उन्होंने यह भी कहा कि वोन-आधारित स्टेबलकॉइन कोरिया में भुगतान नवाचार का नेतृत्व कर सकता है। यह टिप्पणी नैस्डैक SPAC 추진 संदर्भ के साथ पेश की गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pembayaran Stablecoin Disorot saat Era Agen AI Mulai Mendekat",
+        "excerpt": "Vincent Chok, CEO First Digital, mengatakan pembayaran AI adalah masa depan stablecoin, merujuk penerbitan FDUSD sebagai stablecoin dolar pertama di Asia.",
+        "body": "Vincent Chok, CEO First Digital, mengatakan dalam wawancara dengan mk.co.kr bahwa datangnya era agen AI menjadi alasan mengapa stablecoin dapat menggantikan pembayaran kartu. First Digital adalah penerbit FDUSD, yang disebut sebagai stablecoin dolar pertama di Asia. Chok menegaskan bahwa pembayaran AI adalah masa depan stablecoin, dengan menjelaskan bahwa kecepatan dan efisiensi akan makin penting dalam lingkungan digital otomatis. Ia juga mengatakan stablecoin berbasis won dapat memimpin inovasi pembayaran di Korea. Pernyataan itu disampaikan bersama konteks rencana SPAC Nasdaq. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "09f2df51acc0",
     "slug": "속보-급등장에-코스피-매수-사이드카-발동-818512",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "SK hynix disorot: dari ‘kuburan investor ritel’ jadi saham kaisar",
         "excerpt": "Money Talks Yonhap menyoroti alasan SK hynix menarik perhatian di tengah superboom semikonduktor, dengan bonus kinerja besar dan harga saham yang naik puluhan kali.",
         "body": "Perhatian pasar terhadap SK hynix kembali meningkat di tengah superboom semikonduktor terbaru. Dalam bagian kedua seri “Hynix yang Bergejolak”, Money Talks Yonhap membahas bagaimana SK hynix, yang pernah disebut investor individu sebagai “kuburan semut”, berubah menjadi “saham kaisar” setelah kenaikan harga saham yang tajam. Menurut ringkasan artikel, minat itu dipicu oleh pembayaran bonus kinerja yang besar dan harga saham yang naik puluhan kali. Intinya, kondisi industri chip yang kuat telah mengubah penilaian terhadap perusahaan dan para investornya. Hal yang perlu dicermati berikutnya adalah bagaimana ekspektasi dan valuasi SK hynix berlanjut dalam fase boom ini. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bb19c2c49ec7",
-    "slug": "8천피-넘보는-韓증시중복상장-규제-꺼낸-당국-체질-개선-속도-344315",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T22:00:07.403Z",
-    "updatedAt": "2026-05-10T22:00:07.403Z",
-    "sourceName": "yna.co.kr",
-    "sourceUrl": "https://www.yna.co.kr/view/AKR20260510023000002",
-    "canonicalUrl": "https://www.yna.co.kr/view/AKR20260510023000002",
-    "titleFingerprint": "b14d09aef4a42c9cf65645ebcdccfc1eb32f122f",
-    "dedupKeys": [
-      "bb19c2c49ec7d9a2a909b5e1c9f21b785af90e8d",
-      "b14d09aef4a42c9cf65645ebcdccfc1eb32f122f",
-      "3ff9b147a3b422cf5bc58d8b3bc3f20010a9832c"
-    ],
-    "imageUrl": "/images/articles/bb19c2c49ec7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7,500 돌파, 중복상장 규제 꺼낸 당국…韓증시 체질 개선 속도",
-        "excerpt": "코스피가 장중 7,500선을 넘어서며 사상 최고치를 새로 쓴 가운데 금융당국은 중복상장 규제를 꺼내 들고 한국 증시 체질 개선에 속도를 내고 있다.",
-        "body": "코스피가 장중 7,500선을 돌파하며 사상 최고치를 경신한 가운데, 금융당국이 증시 체질 개선을 위해 중복상장 규제를 주요 과제로 꺼내 들었다. 8,000선까지 바라보는 한국 증시의 상승세 속에서 당국은 시장 구조와 투자 환경을 정비하는 데 속도를 내는 분위기다. 이번 논의는 급등한 지수 수준에 걸맞은 제도 개선 필요성이 커진 상황과 맞물려 있다. 중복상장 규제는 상장 구조를 손보고 투자자 보호와 시장 신뢰를 높이기 위한 방안으로 제시됐다. 향후 규제 논의의 구체화 여부가 국내 증시의 체질 개선 흐름에 영향을 줄 전망이다. 출처: yna.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Tops 7,500 as Regulators Target Duplicate Listings to Reform Market",
-        "excerpt": "As the KOSPI broke above 7,500 intraday and set a record high, financial authorities moved to speed up market reform by raising duplicate-listing regulations.",
-        "body": "The KOSPI crossed the 7,500 mark during intraday trading and set a new all-time high, while financial authorities put duplicate-listing regulation on the agenda as part of efforts to improve the structure of South Korea’s stock market. With the market now looking toward the 8,000 level, regulators are moving faster to refine market rules and the investment environment. The discussion comes as the sharp rise in the index increases the need for institutional improvements that match the market’s scale. Duplicate-listing rules were presented as a way to reshape listing structures, protect investors, and strengthen market trust. How the regulatory debate develops is expected to affect the pace of reform in the domestic market. Source: yna.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7,500突破、重複上場規制で韓国株式市場改革に弾み",
-        "excerpt": "KOSPIが取引時間中に7,500を突破し過去最高値を更新する中、金融当局は重複上場規制を掲げ、韓国株式市場の体質改善を急いでいる。",
-        "body": "KOSPIは取引時間中に7,500を突破し、過去最高値を更新した。こうした中、金融当局は韓国株式市場の体質改善に向け、重複上場規制を主要課題として打ち出した。8,000台も視野に入る上昇局面で、当局は市場構造と投資環境の整備を急ぐ姿勢を示している。今回の議論は、急上昇した指数水準に見合う制度改善の必要性が高まる状況と重なる。重複上場規制は、上場構造を見直し、投資家保護と市場信頼を高める方策として提示された。今後、規制論議がどこまで具体化するかが、国内株式市場の改革の流れに影響するとみられる。出典: yna.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破7500点，韩国监管层提出重复上市监管加速市场改革",
-        "excerpt": "KOSPI盘中突破7500点并刷新历史新高之际，韩国金融监管部门提出重复上市监管，推动韩国股市体质改善提速。",
-        "body": "KOSPI在盘中突破7500点并刷新历史最高纪录，与此同时，韩国金融监管部门将重复上市监管列为改善股市体质的重要课题。在韩国股市上行并开始展望8000点的背景下，监管层正加快整顿市场结构和投资环境。此次讨论与指数快速上涨后制度完善需求上升的局面相呼应。重复上市监管被提出为调整上市结构、保护投资者并提升市场信任的措施。未来相关监管讨论能否进一步具体化，预计将影响韩国国内股市体质改善的推进节奏。来源: yna.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI supera 7.500 y Corea acelera reformas con control a dobles cotizaciones",
-        "excerpt": "Mientras el KOSPI superó los 7.500 puntos intradía y marcó un récord histórico, las autoridades financieras plantearon regular las dobles cotizaciones.",
-        "body": "El KOSPI superó los 7.500 puntos durante la sesión y renovó su máximo histórico, mientras las autoridades financieras incluyeron la regulación de las dobles cotizaciones como una tarea clave para mejorar la estructura del mercado bursátil surcoreano. Con la bolsa coreana mirando ahora hacia los 8.000 puntos, los reguladores buscan acelerar la revisión de la estructura del mercado y del entorno de inversión. El debate surge en un momento en que el fuerte avance del índice eleva la necesidad de mejoras institucionales acordes con el nuevo nivel del mercado. La regulación de dobles cotizaciones se presentó como una vía para revisar la estructura de listados, proteger a los inversores y reforzar la confianza. Su desarrollo marcará el ritmo de la reforma del mercado local. Fuente: yna.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI rompe 7.500 e Coreia mira regras sobre dupla listagem para reformar mercado",
-        "excerpt": "Com o KOSPI acima de 7.500 pontos no intradia e em recorde histórico, autoridades financeiras propuseram regular duplas listagens para melhorar o mercado.",
-        "body": "O KOSPI ultrapassou 7.500 pontos durante o pregão e renovou sua máxima histórica, enquanto as autoridades financeiras colocaram a regulação de duplas listagens na pauta para melhorar a estrutura do mercado acionário sul-coreano. Com a bolsa da Coreia já mirando o nível de 8.000 pontos, os reguladores buscam acelerar ajustes na estrutura do mercado e no ambiente de investimento. A discussão ocorre em um momento em que a forte alta do índice aumenta a necessidade de melhorias institucionais compatíveis com o novo patamar. A regra sobre duplas listagens foi apresentada como forma de revisar a estrutura de listagem, proteger investidores e fortalecer a confiança no mercado. A evolução do debate regulatório deve influenciar o ritmo das reformas locais. Fonte: yna.co.kr"
-      },
-      "de": {
-        "title": "KOSPI über 7.500: Südkorea prüft Doppelnotierungen zur Börsenreform",
-        "excerpt": "Der KOSPI stieg intraday über 7.500 Punkte und erreichte ein Rekordhoch, während Finanzbehörden Regeln für Doppelnotierungen zur Marktreform vorlegten.",
-        "body": "Der KOSPI überschritt im Tagesverlauf die Marke von 7.500 Punkten und erreichte ein neues Allzeithoch. Zugleich machten die Finanzbehörden die Regulierung von Doppelnotierungen zu einem zentralen Thema, um die Struktur des südkoreanischen Aktienmarkts zu verbessern. Da der Markt nun die Marke von 8.000 Punkten in den Blick nimmt, wollen die Behörden Marktstruktur und Anlageumfeld schneller ordnen. Die Debatte fällt in eine Phase, in der der starke Indexanstieg den Bedarf an institutionellen Verbesserungen erhöht. Regeln zu Doppelnotierungen wurden als Mittel genannt, um Listing-Strukturen zu überarbeiten, Anleger zu schützen und Vertrauen in den Markt zu stärken. Wie konkret die Regulierung wird, dürfte den Reformkurs beeinflussen. Quelle: yna.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI dépasse 7 500, Séoul vise les doubles cotations pour réformer la Bourse",
-        "excerpt": "Alors que le KOSPI a franchi 7 500 points en séance et battu un record, les autorités financières veulent encadrer les doubles cotations pour réformer le marché.",
-        "body": "Le KOSPI a franchi le seuil de 7 500 points en séance et inscrit un nouveau record historique. Dans le même temps, les autorités financières ont mis sur la table la régulation des doubles cotations comme axe majeur d’amélioration de la structure du marché boursier sud-coréen. Alors que la Bourse coréenne regarde désormais vers les 8 000 points, les régulateurs accélèrent la remise en ordre de la structure du marché et de l’environnement d’investissement. Ce débat intervient au moment où la forte hausse de l’indice renforce le besoin d’améliorations institutionnelles. L’encadrement des doubles cotations est présenté comme un moyen de revoir les structures de cotation, de protéger les investisseurs et de renforcer la confiance. Source: yna.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7500 نقطة وكوريا تطرح تنظيم الإدراج المزدوج لإصلاح السوق",
-        "excerpt": "مع تجاوز مؤشر كوسبي مستوى 7500 نقطة خلال التداول وتسجيله قمة تاريخية، طرحت السلطات المالية تنظيم الإدراج المزدوج لتسريع إصلاح سوق الأسهم.",
-        "body": "تجاوز مؤشر كوسبي مستوى 7500 نقطة خلال التداول وسجل أعلى مستوى تاريخي، في وقت وضعت السلطات المالية تنظيم الإدراج المزدوج على جدول الأعمال ضمن جهود تحسين بنية سوق الأسهم الكورية. ومع اقتراب السوق من النظر إلى مستوى 8000 نقطة، تتحرك الجهات التنظيمية لتسريع ترتيب هيكل السوق وبيئة الاستثمار. وتأتي هذه المناقشة في ظل تزايد الحاجة إلى تحسينات مؤسسية تتناسب مع الارتفاع الحاد في المؤشر. وقد طُرح تنظيم الإدراج المزدوج كوسيلة لإعادة النظر في هياكل الإدراج، وحماية المستثمرين، وتعزيز الثقة في السوق. ومن المتوقع أن يؤثر مدى تبلور النقاش التنظيمي لاحقا في مسار إصلاح السوق المحلية. المصدر: yna.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,500 के पार, दोहरी लिस्टिंग नियमों से कोरियाई बाजार सुधार तेज",
-        "excerpt": "KOSPI के इंट्राडे कारोबार में 7,500 के पार जाकर रिकॉर्ड ऊंचाई बनाने के बीच वित्तीय अधिकारियों ने दोहरी लिस्टिंग नियमों को बाजार सुधार का मुद्दा बनाया।",
-        "body": "KOSPI ने इंट्राडे कारोबार में 7,500 का स्तर पार किया और नया सर्वकालिक उच्च स्तर बनाया। इसी बीच वित्तीय अधिकारियों ने दक्षिण कोरिया के शेयर बाजार की संरचना सुधारने के लिए दोहरी लिस्टिंग पर नियमों को प्रमुख मुद्दे के रूप में उठाया। 8,000 के स्तर की ओर देखते बाजार में नियामक बाजार ढांचे और निवेश माहौल को दुरुस्त करने की गति बढ़ा रहे हैं। यह चर्चा ऐसे समय हो रही है जब सूचकांक की तेज बढ़त के साथ संस्थागत सुधारों की जरूरत भी बढ़ी है। दोहरी लिस्टिंग नियमों को लिस्टिंग संरचना सुधारने, निवेशकों की सुरक्षा और बाजार भरोसा बढ़ाने के उपाय के रूप में पेश किया गया। आगे यह नियामकीय बहस कितनी ठोस होती है, इससे घरेलू बाजार सुधार की दिशा प्रभावित होगी। स्रोत: yna.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Tembus 7.500, Korea Percepat Reformasi Bursa Lewat Aturan Listing Ganda",
-        "excerpt": "Saat KOSPI menembus 7.500 intraday dan mencetak rekor tertinggi, otoritas keuangan mengangkat aturan listing ganda untuk memperbaiki struktur pasar saham Korea.",
-        "body": "KOSPI menembus level 7.500 dalam perdagangan intraday dan mencetak rekor tertinggi sepanjang masa. Pada saat yang sama, otoritas keuangan mengangkat regulasi listing ganda sebagai agenda utama untuk memperbaiki struktur pasar saham Korea Selatan. Di tengah kenaikan pasar yang mulai menatap level 8.000, regulator bergerak lebih cepat menata struktur pasar dan lingkungan investasi. Pembahasan ini muncul ketika lonjakan indeks meningkatkan kebutuhan akan perbaikan kelembagaan yang sejalan dengan skala pasar. Aturan listing ganda diajukan sebagai cara untuk membenahi struktur pencatatan, melindungi investor, dan memperkuat kepercayaan pasar. Perkembangan konkret dari pembahasan regulasi ini diperkirakan memengaruhi laju reformasi pasar domestik. Sumber: yna.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b697dc7c5b17",
-    "slug": "구형-반도체-끝난줄-알았는데-공장-풀가동파운드리-주가-동반-반등-321389",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T21:59:07.638Z",
-    "updatedAt": "2026-05-10T21:59:07.638Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042846",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042846",
-    "titleFingerprint": "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
-    "dedupKeys": [
-      "b697dc7c5b17dc9f8977fc25b94f0dca0e29ddb3",
-      "5a8c5461c8ca10a49769b0831e8aa73eea2ae9d0",
-      "606fd5e99a1296fcb080653f8b367cd1f3e46e0b"
-    ],
-    "imageUrl": "/images/articles/b697dc7c5b17.jpg",
-    "i18n": {
-      "ko": {
-        "title": "범용 반도체 수요 급증에 파운드리 주가 반등, UMC 한 달 62% 상승",
-        "excerpt": "AI 데이터센터 투자 확대 여파로 최첨단 공정뿐 아니라 범용 반도체 수요가 빠르게 늘며 대만 UMC와 미국 글로벌파운드리 주가가 한 달 새 큰 폭으로 반등했다.",
-        "body": "인공지능(AI) 데이터센터 투자가 확대되면서 최첨단 공정을 앞세운 TSMC·삼성전자뿐 아니라 범용 반도체를 생산하는 파운드리에도 수요가 몰리고 있다. 한때 구형 반도체 시장의 성장세가 둔화될 것이라는 관측이 있었지만, 최근 수요 증가로 관련 공장이 풀가동되는 흐름이 나타났다. 대만 UMC 주가는 한 달 새 62% 올랐고, 미국 글로벌파운드리도 50% 상승했다. AI 인프라 확산이 다양한 반도체 수요를 동시에 끌어올리며 파운드리 업종 전반의 투자심리를 되살리는 모습이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Foundry stocks rebound as general-purpose chip demand lifts UMC 62% in a month",
-        "excerpt": "As AI data-center investment expands, demand is rising not only for cutting-edge chips but also for general-purpose semiconductors, lifting UMC and GlobalFoundries shares sharply in a month.",
-        "body": "Investment in artificial intelligence data centers is expanding, driving demand not only for advanced processes led by TSMC and Samsung Electronics but also for foundries that produce general-purpose semiconductors. Expectations that growth in older chip markets had run out of momentum are being challenged as recent demand has pushed related factories toward full operation. Taiwan’s UMC shares rose 62% in one month, while U.S.-based GlobalFoundries gained 50%. The spread of AI infrastructure is lifting demand across multiple semiconductor categories and reviving investor sentiment toward the foundry sector. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "汎用半導体需要が急増、ファウンドリー株反発でUMCは1カ月62％高",
-        "excerpt": "AIデータセンター投資の拡大を背景に、最先端工程だけでなく汎用半導体の需要も急増し、台湾UMCと米グローバルファウンドリーズ株が大きく反発した。",
-        "body": "人工知能（AI）データセンターへの投資拡大により、TSMCやサムスン電子が主導する最先端工程だけでなく、汎用半導体を生産するファウンドリーにも需要が集まっている。旧世代半導体市場の成長は鈍化するとの見方もあったが、足元の需要増で関連工場がフル稼働する流れが出ている。台湾UMCの株価は1カ月で62％上昇し、米グローバルファウンドリーズも50％高となった。AIインフラの拡大が幅広い半導体需要を押し上げ、ファウンドリー業種全体の投資心理を回復させている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "通用芯片需求升温带动晶圆代工股反弹，UMC一个月涨62%",
-        "excerpt": "随着AI数据中心投资扩大，需求不只集中在先进制程，也快速流向通用半导体，台湾UMC和美国GlobalFoundries股价一个月内大幅反弹。",
-        "body": "随着人工智能（AI）数据中心投资扩大，半导体需求不仅流向由台积电和三星电子主导的先进制程，也流向生产通用半导体的晶圆代工厂。此前市场一度认为旧型芯片增长可能放缓，但近期需求增加使相关工厂出现满负荷运转的趋势。台湾UMC股价一个月内上涨62%，美国GlobalFoundries也上涨50%。AI基础设施扩张正在同时拉动多类半导体需求，并带动晶圆代工行业整体投资情绪回升。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La demanda de chips generales impulsa a las fundiciones: UMC sube 62% en un mes",
-        "excerpt": "La expansión de la inversión en centros de datos de IA elevó la demanda de semiconductores generales, no solo de procesos avanzados, y disparó las acciones de UMC y GlobalFoundries.",
-        "body": "La inversión en centros de datos de inteligencia artificial está aumentando la demanda no solo de procesos avanzados liderados por TSMC y Samsung Electronics, sino también de fundiciones que producen semiconductores de uso general. Aunque se pensaba que el crecimiento del mercado de chips antiguos podía desacelerarse, el reciente aumento de la demanda ha llevado a que fábricas relacionadas operen a plena capacidad. Las acciones de la taiwanesa UMC subieron 62% en un mes, mientras que la estadounidense GlobalFoundries avanzó 50%. La expansión de la infraestructura de IA impulsa distintas categorías de semiconductores y reanima el ánimo inversor hacia las fundiciones. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Demanda por chips gerais reaquece fundições, e UMC salta 62% em um mês",
-        "excerpt": "Com a expansão dos investimentos em data centers de IA, a demanda cresce não só por processos avançados, mas também por semicondutores gerais, elevando UMC e GlobalFoundries.",
-        "body": "A ampliação dos investimentos em data centers de inteligência artificial está elevando a demanda não apenas por processos avançados liderados por TSMC e Samsung Electronics, mas também por fundições que produzem semicondutores de uso geral. Embora houvesse expectativa de desaceleração no mercado de chips mais antigos, a recente alta da demanda levou fábricas relacionadas a operar em plena capacidade. As ações da taiwanesa UMC subiram 62% em um mês, enquanto a norte-americana GlobalFoundries avançou 50%. A expansão da infraestrutura de IA impulsiona várias categorias de semicondutores e melhora o sentimento dos investidores em relação ao setor de fundição. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Nachfrage nach Standardchips treibt Foundry-Aktien: UMC steigt 62% in einem Monat",
-        "excerpt": "Der Ausbau von KI-Rechenzentren erhöht nicht nur die Nachfrage nach modernsten Prozessen, sondern auch nach Standardhalbleitern und lässt UMC sowie GlobalFoundries deutlich steigen.",
-        "body": "Die Ausweitung der Investitionen in Rechenzentren für künstliche Intelligenz erhöht die Halbleiternachfrage nicht nur bei modernsten Prozessen von TSMC und Samsung Electronics, sondern auch bei Foundries, die Standardhalbleiter produzieren. Obwohl das Wachstum älterer Chipmärkte zeitweise als abgeschwächt galt, sorgt die jüngste Nachfrage dafür, dass entsprechende Werke voll ausgelastet sind. Die Aktie von Taiwans UMC stieg innerhalb eines Monats um 62%, die US-Firma GlobalFoundries legte um 50% zu. Der Ausbau der KI-Infrastruktur hebt die Nachfrage in mehreren Chipkategorien und belebt die Anlegerstimmung im Foundry-Sektor. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La demande de puces générales relance les fondeurs, UMC gagne 62% en un mois",
-        "excerpt": "L’essor des investissements dans les centres de données d’IA dope la demande de semi-conducteurs généraux, au-delà des procédés avancés, et fait bondir UMC et GlobalFoundries.",
-        "body": "L’expansion des investissements dans les centres de données d’intelligence artificielle accroît la demande non seulement pour les procédés avancés dominés par TSMC et Samsung Electronics, mais aussi pour les fondeurs produisant des semi-conducteurs généralistes. Alors que certains anticipaient un ralentissement du marché des puces anciennes, la demande récente pousse les usines concernées vers une pleine utilisation. L’action du taïwanais UMC a progressé de 62% en un mois, tandis que l’américain GlobalFoundries a gagné 50%. Le déploiement de l’infrastructure d’IA soutient plusieurs catégories de puces et ravive l’intérêt des investisseurs pour le secteur des fonderies. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "طلب الرقائق العامة ينعش أسهم المسابك وUMC ترتفع 62% في شهر",
-        "excerpt": "مع اتساع الاستثمار في مراكز بيانات الذكاء الاصطناعي، زاد الطلب ليس فقط على العمليات المتقدمة بل أيضا على أشباه الموصلات العامة، فارتفعت أسهم UMC وGlobalFoundries بقوة.",
-        "body": "أدى توسع الاستثمار في مراكز بيانات الذكاء الاصطناعي إلى زيادة الطلب على أشباه الموصلات، ليس فقط في العمليات المتقدمة التي تقودها TSMC وسامسونغ إلكترونيكس، بل أيضا لدى المسابك التي تنتج رقائق عامة. ورغم أن سوق الرقائق الأقدم كان ينظر إليه سابقا على أنه قد يفقد الزخم، فإن الطلب الأخير دفع المصانع المرتبطة به نحو التشغيل الكامل. ارتفع سهم شركة UMC التايوانية 62% خلال شهر واحد، بينما صعد سهم GlobalFoundries الأميركية 50%. انتشار بنية الذكاء الاصطناعي يرفع الطلب على فئات متعددة من الرقائق ويعيد تنشيط شهية المستثمرين تجاه قطاع المسابك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सामान्य चिप मांग से फाउंड्री शेयरों में उछाल, UMC एक महीने में 62% चढ़ा",
-        "excerpt": "AI डेटा सेंटर निवेश बढ़ने से मांग केवल अत्याधुनिक प्रोसेस तक सीमित नहीं रही, बल्कि सामान्य सेमीकंडक्टरों तक भी फैल गई, जिससे UMC और GlobalFoundries के शेयर तेज चढ़े।",
-        "body": "कृत्रिम बुद्धिमत्ता डेटा सेंटरों में निवेश बढ़ने से सेमीकंडक्टर मांग केवल TSMC और Samsung Electronics की अगुवाई वाले अत्याधुनिक प्रोसेस तक सीमित नहीं है, बल्कि सामान्य सेमीकंडक्टर बनाने वाली फाउंड्री कंपनियों तक भी पहुंच रही है। पुराने चिप बाजार की वृद्धि धीमी पड़ने की धारणा के बावजूद हालिया मांग ने संबंधित कारखानों को पूर्ण क्षमता के करीब पहुंचा दिया है। ताइवान की UMC का शेयर एक महीने में 62% बढ़ा, जबकि अमेरिका की GlobalFoundries 50% चढ़ी। AI अवसंरचना का विस्तार कई तरह की चिप मांग को साथ-साथ उठा रहा है और फाउंड्री क्षेत्र के प्रति निवेशकों की धारणा सुधार रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Permintaan chip umum naik, saham foundry rebound; UMC melonjak 62% sebulan",
-        "excerpt": "Investasi pusat data AI yang terus meluas mendorong permintaan bukan hanya untuk proses tercanggih, tetapi juga semikonduktor umum, sehingga saham UMC dan GlobalFoundries naik tajam.",
-        "body": "Perluasan investasi pusat data kecerdasan buatan meningkatkan permintaan semikonduktor bukan hanya pada proses tercanggih yang dipimpin TSMC dan Samsung Electronics, tetapi juga pada foundry yang memproduksi semikonduktor umum. Meski pasar chip lama sempat diperkirakan kehilangan momentum pertumbuhan, kenaikan permintaan terbaru membuat pabrik terkait bergerak menuju operasi penuh. Saham UMC Taiwan naik 62% dalam satu bulan, sementara GlobalFoundries asal AS menguat 50%. Penyebaran infrastruktur AI mengangkat permintaan di berbagai kategori semikonduktor dan memulihkan sentimen investor terhadap sektor foundry. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "ce17cc0ed359",
-    "slug": "엔비디아랑-구글-어느-쪽이-유망하죠장단기-투자전략-들어보니-891107",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-10T21:58:13.393Z",
-    "updatedAt": "2026-05-10T21:58:13.393Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12042849",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12042849",
-    "titleFingerprint": "9d7463a3c4691f66814b4467742f25e4ac19e184",
-    "dedupKeys": [
-      "ce17cc0ed3596fec2935c72cdde6f48d26b8fe67",
-      "9d7463a3c4691f66814b4467742f25e4ac19e184",
-      "f35883dfce028b668a925b9b8002bf5be4647c75"
-    ],
-    "imageUrl": "/images/articles/ce17cc0ed359.jpg",
-    "i18n": {
-      "ko": {
-        "title": "엔비디아·구글 AI 투자전략 비교, GPU와 데이터센터 수요가 가른 핵심 포인트",
-        "excerpt": "mk.co.kr은 AI 패권 경쟁 속에서 엔비디아와 구글의 투자 매력을 비교하며 GPU, 메모리, 하이퍼스케일러 데이터센터 수요를 핵심 변수로 짚었다.",
-        "body": "AI 패권 경쟁이 글로벌 증시의 핵심 테마로 떠오른 가운데 mk.co.kr은 엔비디아와 구글 중 어느 쪽이 유망한지에 대한 장단기 투자전략을 다뤘다. 원문은 반도체 투자의 최대 수혜 분야로 GPU를 제시하며, 엔비디아가 GPU 수요에 힘입어 시가총액 왕좌에 올랐다고 설명했다. 메모리 반도체 업체 마이크론도 AI 수요 확대 속에 급성장한 사례로 언급됐다. 동시에 AI 시대의 ‘금광’으로 하이퍼스케일러 컴퓨팅과 데이터센터 수요가 부각됐고, 알파벳도 이 흐름과 연결된 기업으로 제시됐다. 투자 판단은 GPU 중심 반도체 성장성과 데이터센터 컴퓨팅 수요를 함께 비교하는 방식으로 정리됐다. 출처: mk.co.kr 인용."
-      },
-      "en": {
-        "title": "Nvidia vs Google AI investment strategy: GPU demand and data centers in focus",
-        "excerpt": "mk.co.kr compared Nvidia and Google’s investment appeal in the AI race, pointing to GPUs, memory chips and hyperscaler data-center demand as key variables.",
-        "body": "As the race for AI leadership becomes a central theme in global equities, mk.co.kr examined short- and long-term investment strategies around whether Nvidia or Google looks more promising. The original article identified GPUs as the biggest beneficiary area in semiconductor investing and said Nvidia rose to the top of market value on GPU demand. Micron was also cited as a memory-chip company growing rapidly as AI demand expands. At the same time, hyperscaler computing and data-center demand were described as a “gold mine” of the AI era, with Alphabet also presented as a company tied to that trend. The investment view was framed around comparing GPU-led semiconductor growth with data-center computing demand. Source: cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "エヌビディアとグーグルのAI投資戦略、GPUとデータセンター需要が焦点",
-        "excerpt": "mk.co.krはAI覇権競争の中でエヌビディアとグーグルの投資魅力を比較し、GPU、メモリー、ハイパースケーラーのデータセンター需要を主要変数に挙げた。",
-        "body": "AI覇権競争が世界株式市場の主要テーマとなる中、mk.co.krはエヌビディアとグーグルのどちらが有望かについて短期・長期の投資戦略を取り上げた。原文は半導体投資の最大受益分野としてGPUを示し、エヌビディアがGPU需要を追い風に時価総額の首位に立ったと説明した。メモリー半導体企業マイクロンも、AI需要拡大の中で急成長した例として言及された。同時に、AI時代の「金鉱」としてハイパースケーラーのコンピューティングとデータセンター需要が浮上し、アルファベットもこの流れに関係する企業として示された。投資判断は、GPU中心の半導体成長性とデータセンター計算需要を併せて比較する形で整理された。出典: mk.co.kr引用。"
-      },
-      "zh": {
-        "title": "英伟达与谷歌AI投资策略对比：GPU和数据中心需求成关键",
-        "excerpt": "mk.co.kr在AI霸权竞争背景下比较英伟达与谷歌的投资吸引力，并将GPU、内存和超大规模数据中心需求列为核心变量。",
-        "body": "在AI霸权竞争成为全球股市核心主题之际，mk.co.kr报道了围绕英伟达和谷歌哪一方更有前景的中短期与长期投资策略。原文指出，GPU是半导体投资中最大的受益领域，并称英伟达凭借GPU需求登上了市值王座。存储芯片企业美光也被作为在AI需求扩大中快速成长的案例提及。与此同时，超大规模计算和数据中心需求被称为AI时代的“金矿”，Alphabet也被列为与这一趋势相关的企业。报道将投资判断概括为同时比较以GPU为核心的半导体成长性和数据中心计算需求。来源：引用mk.co.kr。"
-      },
-      "es": {
-        "title": "Nvidia y Google en la estrategia de inversión en IA: GPU y centros de datos, claves",
-        "excerpt": "mk.co.kr comparó el atractivo inversor de Nvidia y Google en la carrera por la IA, destacando GPU, memoria y demanda de centros de datos de hiperescala.",
-        "body": "Mientras la competencia por el liderazgo en IA se convierte en un tema central de las bolsas globales, mk.co.kr analizó estrategias de inversión de corto y largo plazo sobre si Nvidia o Google parece más prometedora. El texto original señaló a las GPU como el mayor segmento beneficiado dentro de la inversión en semiconductores y explicó que Nvidia llegó a la cima por valor de mercado gracias a esa demanda. Micron también fue mencionada como una empresa de memoria que crece con fuerza por la expansión de la demanda de IA. A la vez, la computación de hiperescala y los centros de datos fueron descritos como una “mina de oro” de la era de la IA, con Alphabet vinculada a esa tendencia. La lectura inversora quedó centrada en comparar el crecimiento de semiconductores liderado por GPU con la demanda de cómputo en centros de datos. Fuente: citado de mk.co.kr."
-      },
-      "pt": {
-        "title": "Nvidia e Google na estratégia de IA: demanda por GPUs e data centers é decisiva",
-        "excerpt": "O mk.co.kr comparou o apelo de investimento de Nvidia e Google na corrida da IA, apontando GPUs, memória e demanda de data centers de hiperescala como variáveis-chave.",
-        "body": "Com a disputa pela liderança em IA se tornando um tema central nas bolsas globais, o mk.co.kr analisou estratégias de curto e longo prazo sobre qual empresa parece mais promissora, Nvidia ou Google. O texto original apontou as GPUs como a principal área beneficiada nos investimentos em semicondutores e afirmou que a Nvidia chegou ao topo em valor de mercado impulsionada por essa demanda. A Micron também foi citada como empresa de memória em rápido crescimento com a expansão da demanda por IA. Ao mesmo tempo, a computação de hiperescala e os data centers foram descritos como uma “mina de ouro” da era da IA, com a Alphabet ligada a esse movimento. A avaliação de investimento foi apresentada como uma comparação entre o crescimento dos semicondutores centrado em GPUs e a demanda por computação em data centers. Fonte: citado de mk.co.kr."
-      },
-      "de": {
-        "title": "Nvidia und Google im KI-Investmentvergleich: GPUs und Rechenzentren im Fokus",
-        "excerpt": "mk.co.kr verglich die Anlagechancen von Nvidia und Google im KI-Wettlauf und nannte GPUs, Speicherchips sowie Hyperscaler-Rechenzentren als zentrale Faktoren.",
-        "body": "Während der Wettlauf um die KI-Vorherrschaft zu einem zentralen Thema an den globalen Aktienmärkten wird, beleuchtete mk.co.kr kurz- und langfristige Investmentstrategien zu der Frage, ob Nvidia oder Google aussichtsreicher ist. Der Originaltext nannte GPUs als den größten Profiteur im Halbleiterinvestment und erklärte, Nvidia sei dank der GPU-Nachfrage an die Spitze nach Marktkapitalisierung gestiegen. Auch Micron wurde als Speicherchipunternehmen erwähnt, das im Zuge der wachsenden KI-Nachfrage stark wächst. Zugleich wurden Hyperscaler-Computing und Rechenzentrumsnachfrage als „Goldmine“ des KI-Zeitalters hervorgehoben, wobei Alphabet ebenfalls mit diesem Trend verbunden wurde. Die Investmentbewertung wurde als Vergleich zwischen GPU-getriebenem Halbleiterwachstum und Rechenzentrums-Computing-Nachfrage dargestellt. Quelle: zitiert nach mk.co.kr."
-      },
-      "fr": {
-        "title": "Nvidia et Google face à l’IA : GPU et centres de données au cœur de la stratégie",
-        "excerpt": "mk.co.kr a comparé l’attrait d’investissement de Nvidia et Google dans la course à l’IA, en mettant l’accent sur les GPU, la mémoire et les centres de données hyperscale.",
-        "body": "Alors que la course à la domination de l’IA devient un thème central des marchés mondiaux, mk.co.kr a analysé les stratégies d’investissement à court et long terme autour de Nvidia et Google. L’article d’origine a présenté les GPU comme le principal secteur bénéficiaire des investissements dans les semi-conducteurs et expliqué que Nvidia avait atteint le sommet de la capitalisation boursière grâce à cette demande. Micron a aussi été cité comme exemple d’entreprise de mémoire en forte croissance avec l’expansion de la demande liée à l’IA. Dans le même temps, le calcul hyperscale et les centres de données ont été décrits comme une « mine d’or » de l’ère de l’IA, Alphabet étant également associé à cette tendance. L’analyse d’investissement repose sur la comparaison entre la croissance des semi-conducteurs portée par les GPU et la demande de calcul des centres de données. Source : cité de mk.co.kr."
-      },
-      "ar": {
-        "title": "إنفيديا وغوغل في استراتيجية الاستثمار بالذكاء الاصطناعي: الطلب على GPU ومراكز البيانات يحسم",
-        "excerpt": "قارن mk.co.kr جاذبية الاستثمار في إنفيديا وغوغل وسط سباق الذكاء الاصطناعي، مشيرا إلى وحدات GPU والذاكرة وطلب مراكز بيانات الهايبرسكيل كعوامل رئيسية.",
-        "body": "مع تحول سباق الهيمنة في الذكاء الاصطناعي إلى محور رئيسي في أسواق الأسهم العالمية، تناول mk.co.kr استراتيجيات الاستثمار القصيرة والطويلة الأجل حول ما إذا كانت إنفيديا أم غوغل تبدو أكثر وعدا. أشار النص الأصلي إلى وحدات GPU بوصفها أكبر مجال مستفيد في استثمارات أشباه الموصلات، وذكر أن إنفيديا صعدت إلى قمة القيمة السوقية بفضل الطلب على هذه الوحدات. كما وردت ميكرون كمثال على شركة ذاكرة تنمو بسرعة مع توسع طلب الذكاء الاصطناعي. وفي الوقت نفسه، برزت حوسبة الهايبرسكيل وطلب مراكز البيانات بوصفهما “منجم ذهب” في عصر الذكاء الاصطناعي، مع ربط ألفابت بهذا الاتجاه أيضا. وجرى تلخيص قرار الاستثمار عبر مقارنة نمو أشباه الموصلات المدفوع بوحدات GPU مع طلب الحوسبة في مراكز البيانات. المصدر: اقتباس من mk.co.kr."
-      },
-      "hi": {
-        "title": "एनवीडिया बनाम गूगल AI निवेश रणनीति: GPU और डेटा सेंटर मांग अहम",
-        "excerpt": "mk.co.kr ने AI प्रभुत्व की दौड़ में एनवीडिया और गूगल के निवेश आकर्षण की तुलना की और GPU, मेमोरी तथा हाइपरस्केलर डेटा सेंटर मांग को मुख्य कारक बताया।",
-        "body": "AI प्रभुत्व की दौड़ वैश्विक शेयर बाजारों का प्रमुख विषय बनने के बीच mk.co.kr ने यह देखा कि एनवीडिया और गूगल में कौन अधिक संभावनाशील है और इसके लिए छोटी तथा लंबी अवधि की निवेश रणनीति क्या हो सकती है। मूल लेख ने सेमीकंडक्टर निवेश में GPU को सबसे बड़ा लाभार्थी क्षेत्र बताया और कहा कि GPU मांग के बल पर एनवीडिया बाजार पूंजीकरण के शिखर पर पहुंची। AI मांग बढ़ने के साथ तेज वृद्धि करने वाली मेमोरी कंपनी के रूप में माइक्रोन का भी उल्लेख किया गया। साथ ही, AI युग की “सोने की खान” के रूप में हाइपरस्केलर कंप्यूटिंग और डेटा सेंटर मांग को रेखांकित किया गया, और अल्फाबेट को भी इस प्रवाह से जुड़ी कंपनी के रूप में प्रस्तुत किया गया। निवेश निर्णय को GPU-केंद्रित सेमीकंडक्टर वृद्धि और डेटा सेंटर कंप्यूटिंग मांग की तुलना के रूप में समझाया गया। स्रोत: mk.co.kr से उद्धृत."
-      },
-      "id": {
-        "title": "Strategi investasi AI Nvidia dan Google: GPU serta data center jadi fokus utama",
-        "excerpt": "mk.co.kr membandingkan daya tarik investasi Nvidia dan Google dalam persaingan AI, dengan GPU, memori, dan permintaan data center hyperscaler sebagai variabel kunci.",
-        "body": "Ketika persaingan dominasi AI menjadi tema utama di pasar saham global, mk.co.kr membahas strategi investasi jangka pendek dan panjang terkait apakah Nvidia atau Google lebih menjanjikan. Artikel asli menyebut GPU sebagai bidang penerima manfaat terbesar dalam investasi semikonduktor dan menjelaskan bahwa Nvidia naik ke puncak nilai pasar berkat permintaan GPU. Micron juga disebut sebagai perusahaan memori yang tumbuh cepat seiring meluasnya permintaan AI. Pada saat yang sama, komputasi hyperscaler dan kebutuhan data center disorot sebagai “tambang emas” era AI, sementara Alphabet juga dikaitkan dengan arus tersebut. Penilaian investasi dirangkum dengan membandingkan pertumbuhan semikonduktor yang berpusat pada GPU dan permintaan komputasi data center. Sumber: dikutip dari mk.co.kr."
       }
     }
   }
