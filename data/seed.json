@@ -1,5 +1,230 @@
 [
   {
+    "id": "4720ef4249c6",
+    "slug": "리플-프라임-브로커리지-키운다뉴버거에서-2억달러-조달-810694",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T01:15:17.053Z",
+    "updatedAt": "2026-05-12T01:15:17.053Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044346",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044346",
+    "titleFingerprint": "4a595be7b724f47d6c67ed96b071cf9612f83c23",
+    "dedupKeys": [
+      "4720ef4249c636f7985648a2b6d871ccdcb9d328",
+      "4a595be7b724f47d6c67ed96b071cf9612f83c23",
+      "45eea91797edda158db1839ddb31a13fd5d30ff8"
+    ],
+    "imageUrl": "/images/articles/4720ef4249c6.png",
+    "i18n": {
+      "ko": {
+        "title": "리플, 뉴버거버만서 2억달러 조달…프라임 브로커리지 확장 속도",
+        "excerpt": "리플은 뉴버거버만에서 2억달러 규모의 부채를 조달해 히든로드 인수 이후 키워온 프라임 브로커리지 사업과 단일 신용공여 확대에 나섰다.",
+        "body": "블록체인 기반 결제·송금 네트워크 기업 리플(Ripple)이 프라임 브로커리지 사업 확대를 위해 뉴버거버만에서 2억달러 규모의 부채를 조달했다. 이번 자금 조달은 히든로드 인수 이후 관련 매출이 3배 늘어난 가운데 이뤄졌다. 리플은 주식과 코인을 아우르는 단일 신용공여를 확대하는 방향으로 프라임 브로커리지 역량을 키우고 있다. 히든로드 인수를 통해 확보한 중개·신용 인프라를 기반으로 기관 고객 대상 서비스 범위를 넓히려는 움직임이다. 자금 조달이 사업 확장 속도를 높일 수 있을지 주목된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Ripple Raises $200 Million From Neuberger to Expand Prime Brokerage",
+        "excerpt": "Ripple raised $200 million in debt from Neuberger Berman as it expands single credit offerings across stocks and crypto after revenue tripled following the Hidden Road acquisition.",
+        "body": "Ripple, the blockchain-based payments and remittance network company, has raised $200 million in debt from Neuberger Berman to expand its prime brokerage business. The financing comes after revenue from the business tripled following Ripple’s acquisition of Hidden Road. Ripple is strengthening its prime brokerage capabilities by expanding a single credit offering that covers both stocks and crypto. The move builds on brokerage and credit infrastructure gained through Hidden Road and is aimed at widening services for institutional clients. Attention now turns to whether the funding can accelerate that expansion. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "リップル、ニューバーガーから2億ドル調達しプライム仲介拡大",
+        "excerpt": "リップルはニューバーガー・バーマンから2億ドルの債務資金を調達し、ヒドゥンロード買収後に伸びたプライムブローカレッジ事業を拡大する。",
+        "body": "ブロックチェーン基盤の決済・送金ネットワーク企業リップル（Ripple）は、プライムブローカレッジ事業の拡大に向け、ニューバーガー・バーマンから2億ドル規模の債務資金を調達した。今回の資金調達は、ヒドゥンロード買収後に関連売上高が3倍に増えたなかで行われた。リップルは株式と暗号資産をまたぐ単一の信用供与を拡大し、プライムブローカレッジ機能を強化している。買収で得た仲介・信用インフラを基盤に、機関投資家向けサービスの範囲を広げる動きだ。資金が事業拡大を後押しするかが注目される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "Ripple获纽伯格2亿美元债务融资，加速扩张主经纪业务",
+        "excerpt": "Ripple从纽伯格伯曼获得2亿美元债务融资，在收购Hidden Road后相关收入增至三倍之际，扩大覆盖股票和加密货币的单一授信。",
+        "body": "区块链支付与汇款网络企业Ripple为扩大主经纪业务，从纽伯格伯曼获得2亿美元规模的债务融资。此次融资发生在Ripple收购Hidden Road后相关收入增长至三倍的背景下。Ripple正通过扩大覆盖股票和加密货币的单一授信，强化其主经纪业务能力。公司将以Hidden Road收购带来的经纪和信用基础设施为支撑，扩大面向机构客户的服务范围。市场将关注这笔资金能否进一步加快其业务扩张。来源：mk.co.kr。"
+      },
+      "es": {
+        "title": "Ripple capta 200 millones de dólares de Neuberger para crecer en prime brokerage",
+        "excerpt": "Ripple obtuvo 200 millones de dólares en deuda de Neuberger Berman para ampliar su oferta de crédito único en acciones y cripto tras triplicar ingresos con Hidden Road.",
+        "body": "Ripple, empresa de redes de pago y remesas basadas en blockchain, obtuvo 200 millones de dólares en deuda de Neuberger Berman para expandir su negocio de prime brokerage. La financiación llega después de que los ingresos relacionados se triplicaran tras la adquisición de Hidden Road. Ripple busca reforzar sus capacidades de prime brokerage ampliando una oferta de crédito único que cubre acciones y criptomonedas. El movimiento se apoya en la infraestructura de intermediación y crédito incorporada con Hidden Road y apunta a ampliar los servicios para clientes institucionales. La atención se centra ahora en si estos fondos acelerarán la expansión. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Ripple levanta US$ 200 milhões da Neuberger para ampliar prime brokerage",
+        "excerpt": "A Ripple captou US$ 200 milhões em dívida junto à Neuberger Berman para expandir crédito único em ações e cripto após triplicar receitas com a Hidden Road.",
+        "body": "A Ripple, empresa de rede de pagamentos e remessas baseada em blockchain, levantou US$ 200 milhões em dívida junto à Neuberger Berman para ampliar seu negócio de prime brokerage. A captação ocorre depois que a receita relacionada triplicou após a aquisição da Hidden Road. A Ripple está fortalecendo suas capacidades de prime brokerage ao expandir uma oferta de crédito único que cobre ações e criptoativos. A estratégia usa a infraestrutura de intermediação e crédito obtida com a Hidden Road para ampliar os serviços voltados a clientes institucionais. O foco agora é saber se o financiamento poderá acelerar essa expansão. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Ripple erhält 200 Millionen Dollar von Neuberger für Prime-Brokerage-Ausbau",
+        "excerpt": "Ripple nimmt bei Neuberger Berman 200 Millionen Dollar an Fremdkapital auf, um nach verdreifachten Erlösen seit Hidden Road einheitliche Kredite für Aktien und Krypto auszubauen.",
+        "body": "Ripple, ein auf Blockchain basierendes Zahlungs- und Überweisungsnetzwerk, hat von Neuberger Berman 200 Millionen Dollar an Fremdkapital aufgenommen, um sein Prime-Brokerage-Geschäft auszubauen. Die Finanzierung erfolgt, nachdem sich die entsprechenden Erlöse seit der Übernahme von Hidden Road verdreifacht haben. Ripple stärkt seine Prime-Brokerage-Kapazitäten, indem es eine einheitliche Kreditvergabe für Aktien und Kryptowährungen ausweitet. Grundlage sind die durch Hidden Road erworbene Brokerage- und Kreditinfrastruktur sowie der Ausbau von Dienstleistungen für institutionelle Kunden. Beobachtet wird nun, ob die Mittel das Wachstum beschleunigen. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Ripple lève 200 millions de dollars auprès de Neuberger pour son prime brokerage",
+        "excerpt": "Ripple a levé 200 millions de dollars de dette auprès de Neuberger Berman afin d’élargir son crédit unique actions-crypto après le triplement des revenus lié à Hidden Road.",
+        "body": "Ripple, entreprise de réseau de paiement et de transfert fondé sur la blockchain, a levé 200 millions de dollars de dette auprès de Neuberger Berman pour développer son activité de prime brokerage. Ce financement intervient après que les revenus liés à cette activité ont triplé à la suite de l’acquisition de Hidden Road. Ripple renforce ses capacités en élargissant une offre de crédit unique couvrant les actions et les cryptoactifs. L’entreprise s’appuie sur l’infrastructure de courtage et de crédit obtenue avec Hidden Road pour étendre ses services aux clients institutionnels. Reste à voir si ces fonds accéléreront l’expansion. Source : mk.co.kr."
+      },
+      "ar": {
+        "title": "ريبل تجمع 200 مليون دولار من نيوبيرغر لتوسيع الوساطة الرئيسية",
+        "excerpt": "جمعت ريبل ديونا بقيمة 200 مليون دولار من نيوبيرغر بيرمان لتوسيع تسهيلات ائتمانية موحدة للأسهم والعملات المشفرة بعد تضاعف إيرادات Hidden Road ثلاث مرات.",
+        "body": "جمعت شركة ريبل، وهي شبكة مدفوعات وتحويلات قائمة على البلوك تشين، ديونا بقيمة 200 مليون دولار من نيوبيرغر بيرمان لتوسيع أعمال الوساطة الرئيسية. وجاء التمويل بعدما تضاعفت الإيرادات المرتبطة بهذا النشاط ثلاث مرات عقب استحواذ ريبل على Hidden Road. تعمل الشركة على تعزيز قدراتها في الوساطة الرئيسية عبر توسيع تسهيلات ائتمانية موحدة تشمل الأسهم والعملات المشفرة. وتستند الخطوة إلى بنية الوساطة والائتمان التي حصلت عليها من خلال Hidden Road بهدف توسيع الخدمات المقدمة للعملاء المؤسسيين. وسيتركز الاهتمام على ما إذا كان التمويل سيزيد سرعة التوسع. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Ripple ने Neuberger से 20 करोड़ डॉलर जुटाए, प्राइम ब्रोकरेज विस्तार तेज",
+        "excerpt": "Ripple ने Neuberger Berman से 20 करोड़ डॉलर का कर्ज जुटाया ताकि Hidden Road अधिग्रहण के बाद तीन गुना बढ़े राजस्व के बीच शेयर और क्रिप्टो के लिए एकल क्रेडिट सुविधा बढ़ाई जा सके।",
+        "body": "ब्लॉकचेन आधारित भुगतान और रेमिटेंस नेटवर्क कंपनी Ripple ने अपने प्राइम ब्रोकरेज कारोबार के विस्तार के लिए Neuberger Berman से 20 करोड़ डॉलर का कर्ज जुटाया है। यह फंडिंग Hidden Road के अधिग्रहण के बाद संबंधित राजस्व तीन गुना बढ़ने के बीच हुई है। Ripple शेयरों और क्रिप्टो को कवर करने वाली एकल क्रेडिट सुविधा का विस्तार कर प्राइम ब्रोकरेज क्षमता मजबूत कर रही है। Hidden Road से मिली ब्रोकरेज और क्रेडिट इन्फ्रास्ट्रक्चर के आधार पर कंपनी संस्थागत ग्राहकों के लिए सेवाओं का दायरा बढ़ाना चाहती है। अब नजर इस पर है कि यह पूंजी विस्तार की रफ्तार बढ़ा पाएगी या नहीं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Ripple Raih Utang US$200 Juta dari Neuberger untuk Perluas Prime Brokerage",
+        "excerpt": "Ripple memperoleh pendanaan utang US$200 juta dari Neuberger Berman untuk memperluas fasilitas kredit tunggal saham dan kripto setelah pendapatan naik tiga kali pascaakuisisi Hidden Road.",
+        "body": "Ripple, perusahaan jaringan pembayaran dan remitansi berbasis blockchain, memperoleh pendanaan utang US$200 juta dari Neuberger Berman untuk memperluas bisnis prime brokerage. Pendanaan ini dilakukan setelah pendapatan terkait naik tiga kali lipat usai akuisisi Hidden Road. Ripple memperkuat kemampuan prime brokerage dengan memperluas fasilitas kredit tunggal yang mencakup saham dan kripto. Langkah ini bertumpu pada infrastruktur broker dan kredit yang diperoleh melalui Hidden Road untuk memperluas layanan bagi klien institusional. Perhatian kini tertuju pada apakah dana tersebut dapat mempercepat ekspansi bisnis. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "64b58862aeb3",
+    "slug": "인젝티브-뮤직카우-us리퍼블릭과-k-팝-저작권-rwa-3자-파트너십-206552",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T01:14:12.965Z",
+    "updatedAt": "2026-05-12T01:14:12.965Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044348",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044348",
+    "titleFingerprint": "ba5a5ce4a9198117d8bc2ef564082dc74b2361c4",
+    "dedupKeys": [
+      "64b58862aeb397cd761f28400ae0503bb8cb35ba",
+      "ba5a5ce4a9198117d8bc2ef564082dc74b2361c4",
+      "eadc81e6117b5cdd3d9997e998fdd23e24e6adc8"
+    ],
+    "imageUrl": "/images/articles/64b58862aeb3.png",
+    "i18n": {
+      "ko": {
+        "title": "인젝티브, 뮤직카우 US·리퍼블릭과 K-팝 저작권 RWA 협력",
+        "excerpt": "인젝티브가 뮤직카우 US, SEC 등록 투자 플랫폼 리퍼블릭과 K-팝·K-콘텐츠 저작권 RWA 토큰화 및 글로벌 협력을 추진한다.",
+        "body": "인젝티브는 음악 수익증권 플랫폼 뮤직카우 US, 미국 증권거래위원회(SEC) 등록 투자 플랫폼 리퍼블릭과 3자 파트너십을 맺고 K-팝·K-콘텐츠 저작권의 실물자산(RWA) 토큰화를 추진한다. 이번 협력은 음악 저작권 기반 수익증권과 블록체인 인프라, 등록 투자 플랫폼을 연결하는 구조다. K-팝과 K-콘텐츠 저작권을 글로벌 투자자에게 소개할 수 있는 기반을 마련하는 데 초점이 맞춰졌다. 향후 RWA 시장에서 콘텐츠 저작권의 활용 범위가 넓어질지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Injective Partners With Musicow US and Republic on K-Pop Copyright RWA",
+        "excerpt": "Injective is joining Musicow US and SEC-registered investment platform Republic to pursue RWA tokenization of K-pop and K-content copyrights globally.",
+        "body": "Injective has formed a three-way partnership with Musicow US, a music revenue securities platform, and Republic, an investment platform registered with the U.S. Securities and Exchange Commission (SEC), to pursue real-world asset (RWA) tokenization of K-pop and K-content copyrights. The collaboration connects music copyright-based revenue securities, blockchain infrastructure and a registered investment platform. Its focus is to build a foundation for introducing K-pop and K-content copyrights to global investors. The market will be watching whether content copyrights gain broader use in the RWA sector. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "Injective、Musicow US・RepublicとK-POP著作権RWAで提携",
+        "excerpt": "InjectiveはMusicow US、SEC登録投資プラットフォームRepublicと組み、K-POP・Kコンテンツ著作権のRWAトークン化とグローバル連携を進める。",
+        "body": "Injectiveは、音楽収益証券プラットフォームのMusicow US、米証券取引委員会（SEC）登録投資プラットフォームのRepublicと3者パートナーシップを結び、K-POP・Kコンテンツ著作権の実物資産（RWA）トークン化を推進する。今回の協力は、音楽著作権に基づく収益証券、ブロックチェーン基盤、登録投資プラットフォームをつなぐ構造だ。K-POPとKコンテンツ著作権をグローバル投資家に紹介する基盤づくりに焦点を当てる。今後、RWA市場でコンテンツ著作権の活用範囲が広がるか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Injective携手Musicow US、Republic推进K-Pop版权RWA",
+        "excerpt": "Injective与Musicow US及SEC注册投资平台Republic合作，推进K-pop和K-content版权的RWA代币化及全球协作。",
+        "body": "Injective与音乐收益证券平台Musicow US、美国证券交易委员会（SEC）注册投资平台Republic达成三方合作，推进K-pop和K-content版权的现实世界资产（RWA）代币化。此次合作将音乐版权收益证券、区块链基础设施和注册投资平台连接起来。合作重点是为向全球投资者介绍K-pop和K-content版权建立基础。未来内容版权在RWA市场中的应用范围是否扩大，值得关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Injective se une a Musicow US y Republic para RWA de derechos K-pop",
+        "excerpt": "Injective se asocia con Musicow US y Republic, plataforma registrada ante la SEC, para tokenizar como RWA derechos de K-pop y K-content con alcance global.",
+        "body": "Injective formó una alianza tripartita con Musicow US, plataforma de valores de ingresos musicales, y Republic, plataforma de inversión registrada ante la Comisión de Bolsa y Valores de Estados Unidos (SEC), para impulsar la tokenización de derechos de autor de K-pop y K-content como activos del mundo real (RWA). La cooperación conecta valores basados en ingresos por derechos musicales, infraestructura blockchain y una plataforma de inversión registrada. El foco está en crear una base para presentar esos derechos a inversores globales. El mercado observará si los derechos de contenido amplían su uso dentro del sector RWA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Injective fecha parceria com Musicow US e Republic para RWA de K-pop",
+        "excerpt": "A Injective se une à Musicow US e à Republic, plataforma registrada na SEC, para tokenizar direitos de K-pop e K-content como RWA em cooperação global.",
+        "body": "A Injective firmou uma parceria tripartite com a Musicow US, plataforma de valores mobiliários ligados a receitas musicais, e a Republic, plataforma de investimento registrada na Comissão de Valores Mobiliários dos EUA (SEC), para promover a tokenização de direitos autorais de K-pop e K-content como ativos do mundo real (RWA). A cooperação conecta valores baseados em receitas de direitos musicais, infraestrutura blockchain e uma plataforma de investimento registrada. O foco é criar uma base para apresentar esses direitos a investidores globais. O mercado acompanhará se os direitos de conteúdo ampliarão seu uso no setor de RWA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Injective kooperiert mit Musicow US und Republic bei K-Pop-Copyright-RWA",
+        "excerpt": "Injective arbeitet mit Musicow US und der SEC-registrierten Investmentplattform Republic zusammen, um K-Pop- und K-Content-Rechte als RWA zu tokenisieren.",
+        "body": "Injective hat eine Dreierpartnerschaft mit Musicow US, einer Plattform für Musik-Erlöswertpapiere, und Republic, einer bei der US-Börsenaufsicht SEC registrierten Investmentplattform, geschlossen, um Urheberrechte an K-Pop und K-Content als Real-World Assets (RWA) zu tokenisieren. Die Kooperation verbindet erlösbasierte Musikrechte-Wertpapiere, Blockchain-Infrastruktur und eine registrierte Investmentplattform. Im Mittelpunkt steht der Aufbau einer Grundlage, um K-Pop- und K-Content-Rechte globalen Investoren vorzustellen. Ob sich die Nutzung von Content-Rechten im RWA-Markt ausweitet, bleibt im Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Injective s’allie à Musicow US et Republic pour les RWA de droits K-pop",
+        "excerpt": "Injective s’associe à Musicow US et à Republic, plateforme enregistrée auprès de la SEC, pour tokeniser les droits K-pop et K-content en RWA à portée mondiale.",
+        "body": "Injective a conclu un partenariat tripartite avec Musicow US, plateforme de titres adossés à des revenus musicaux, et Republic, plateforme d’investissement enregistrée auprès de la Securities and Exchange Commission (SEC) américaine, afin de promouvoir la tokenisation des droits d’auteur K-pop et K-content en actifs du monde réel (RWA). Cette coopération relie des titres fondés sur les revenus de droits musicaux, une infrastructure blockchain et une plateforme d’investissement enregistrée. L’objectif est de créer une base pour présenter ces droits aux investisseurs mondiaux. Le marché suivra l’évolution de l’usage des droits de contenu dans le secteur des RWA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إنجكتيف تتعاون مع Musicow US وRepublic لترميز حقوق K-pop كأصول RWA",
+        "excerpt": "تتعاون إنجكتيف مع Musicow US ومنصة Republic المسجلة لدى SEC لدفع ترميز حقوق K-pop وK-content كأصول حقيقية RWA ضمن تعاون عالمي.",
+        "body": "أعلنت إنجكتيف عن شراكة ثلاثية مع Musicow US، منصة أوراق مالية قائمة على إيرادات الموسيقى، ومع Republic، منصة الاستثمار المسجلة لدى هيئة الأوراق المالية والبورصات الأميركية (SEC)، لدفع ترميز حقوق K-pop وK-content كأصول حقيقية (RWA). يربط التعاون بين أوراق مالية قائمة على إيرادات حقوق الموسيقى، وبنية بلوكتشين، ومنصة استثمار مسجلة. ويركز على بناء قاعدة لعرض حقوق K-pop وK-content على المستثمرين العالميين. وسيبقى الاهتمام منصبا على ما إذا كان استخدام حقوق المحتوى سيتوسع في سوق RWA. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Injective ने K-pop कॉपीराइट RWA के लिए Musicow US और Republic से साझेदारी की",
+        "excerpt": "Injective, Musicow US और SEC-पंजीकृत निवेश प्लेटफॉर्म Republic के साथ K-pop व K-content कॉपीराइट की RWA टोकनाइजेशन और वैश्विक सहयोग आगे बढ़ा रहा है।",
+        "body": "Injective ने म्यूजिक रेवेन्यू सिक्योरिटीज प्लेटफॉर्म Musicow US और अमेरिकी सिक्योरिटीज एंड एक्सचेंज कमीशन (SEC) में पंजीकृत निवेश प्लेटफॉर्म Republic के साथ त्रिपक्षीय साझेदारी की है। इसका उद्देश्य K-pop और K-content कॉपीराइट को real-world asset (RWA) के रूप में टोकनाइज करना है। यह सहयोग संगीत कॉपीराइट आधारित रेवेन्यू सिक्योरिटीज, ब्लॉकचेन इन्फ्रास्ट्रक्चर और पंजीकृत निवेश प्लेटफॉर्म को जोड़ता है। फोकस वैश्विक निवेशकों के सामने K-pop और K-content कॉपीराइट पेश करने की आधारशिला तैयार करने पर है। RWA बाजार में कंटेंट कॉपीराइट का उपयोग कितना बढ़ता है, इस पर नजर रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Injective Gandeng Musicow US dan Republic untuk RWA Hak Cipta K-pop",
+        "excerpt": "Injective bermitra dengan Musicow US dan Republic, platform investasi terdaftar SEC, untuk mendorong tokenisasi RWA hak cipta K-pop dan K-content secara global.",
+        "body": "Injective menjalin kemitraan tiga pihak dengan Musicow US, platform sekuritas pendapatan musik, dan Republic, platform investasi yang terdaftar di Komisi Sekuritas dan Bursa AS (SEC), untuk mendorong tokenisasi hak cipta K-pop dan K-content sebagai real-world asset (RWA). Kerja sama ini menghubungkan sekuritas berbasis pendapatan hak cipta musik, infrastruktur blockchain, dan platform investasi terdaftar. Fokusnya adalah membangun dasar untuk memperkenalkan hak cipta K-pop dan K-content kepada investor global. Pasar akan mencermati apakah pemanfaatan hak cipta konten dapat meluas di sektor RWA. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "8db65a526d9a",
+    "slug": "mk시그널-아파치-매도신호-포착-수익률-456-달성-889137",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T01:13:23.284Z",
+    "updatedAt": "2026-05-12T01:13:23.284Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044367",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044367",
+    "titleFingerprint": "07a627986fa1e6c6b8587ff8932945bc04bc9c79",
+    "dedupKeys": [
+      "8db65a526d9afad403a2591029f9788c52bed835",
+      "07a627986fa1e6c6b8587ff8932945bc04bc9c79",
+      "91d2d4258a56acd01bf42256e545fef3623e549e"
+    ],
+    "imageUrl": "/images/articles/8db65a526d9a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "아파치(APA) 매도신호 포착, MK시그널 수익률 45.68% 기록",
+        "excerpt": "MK시그널은 11일 미국 주식 핫 이슈 종목 아파치(APA)에서 매도 신호가 포착됐으며, 해당 신호 기준 수익률이 45.68%를 달성했다고 전했다.",
+        "body": "미국 주식 핫 이슈 종목을 분석하는 AI 기자 ‘MK시그널’은 11일 아파치(APA)에서 매도 신호가 포착됐다고 밝혔다. 이번 신호에 따르면 아파치는 MK시그널 기준 수익률 45.68%를 달성했다. 원문은 아파치가 미국 주식 시장에서 주목받는 종목으로 분석됐으며, 매도 신호 발생과 수익률 달성 사실을 핵심 내용으로 제시했다. 투자자 입장에서는 해당 신호가 종목 점검과 매매 판단 참고 자료가 될 수 있다. 다만 기사에 공개된 정보는 매도 신호 포착과 수익률 수치에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Apache (APA) Sell Signal Spotted as MK Signal Return Reaches 45.68%",
+        "excerpt": "MK Signal said on the 11th that a sell signal was detected for Apache (APA), a hot U.S. stock issue, with the signal-based return reaching 45.68%.",
+        "body": "MK Signal, an AI reporter that analyzes hot U.S. stock issues, said on the 11th that a sell signal was detected for Apache (APA). According to the signal, Apache achieved a 45.68% return based on MK Signal’s measure. The original report presented Apache as a stock drawing attention in the U.S. equity market and focused on the sell signal and the reported return. For investors, the signal may serve as a reference point when reviewing the stock and considering trading decisions. However, the disclosed information is limited to the sell signal and the return figure. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "アパッチ（APA）に売りシグナル、MKシグナル収益率45.68％",
+        "excerpt": "MKシグナルは11日、米国株の注目銘柄アパッチ（APA）で売りシグナルを検知し、同シグナル基準の収益率が45.68％に達したと伝えた。",
+        "body": "米国株の注目銘柄を分析するAI記者「MKシグナル」は11日、アパッチ（APA）で売りシグナルが検知されたと明らかにした。今回のシグナルによると、アパッチはMKシグナル基準で45.68％の収益率を達成した。原文では、アパッチが米国株式市場で注目される銘柄として分析され、売りシグナルの発生と収益率達成が主な内容として示された。投資家にとって、このシグナルは銘柄点検や売買判断の参考材料となり得る。ただし、記事で公開された情報は売りシグナルの検知と収益率の数値に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "阿帕奇（APA）出现卖出信号，MK Signal收益率达45.68%",
+        "excerpt": "MK Signal称，11日美国股票热点标的阿帕奇（APA）出现卖出信号，按该信号计算的收益率达到45.68%。",
+        "body": "分析美国股票热点标的的AI记者“MK Signal”11日表示，阿帕奇（APA）出现卖出信号。根据此次信号，阿帕奇按MK Signal标准实现了45.68%的收益率。原文将阿帕奇作为美国股市中受到关注的股票进行分析，并把卖出信号出现及收益率达成作为核心内容。对投资者而言，该信号可作为检查个股和参考交易判断的资料。不过，报道公开的信息仅限于卖出信号被捕捉以及收益率数值。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Apache (APA) activa señal de venta y MK Signal marca retorno de 45,68%",
+        "excerpt": "MK Signal informó que el día 11 detectó una señal de venta en Apache (APA), una acción destacada de EE. UU., con un retorno basado en la señal de 45,68%.",
+        "body": "MK Signal, el periodista de IA que analiza acciones estadounidenses de interés, informó el día 11 que se detectó una señal de venta en Apache (APA). Según la señal, Apache alcanzó un retorno de 45,68% bajo el criterio de MK Signal. El reporte original presentó a Apache como un valor seguido en el mercado bursátil estadounidense y centró la información en la aparición de la señal de venta y el retorno logrado. Para los inversionistas, esta señal puede servir como referencia al revisar el valor y considerar decisiones de compraventa. No obstante, la información publicada se limita a la señal de venta detectada y a la cifra de retorno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Apache (APA) tem sinal de venda e MK Signal registra retorno de 45,68%",
+        "excerpt": "A MK Signal informou que, no dia 11, detectou um sinal de venda em Apache (APA), ação em destaque nos EUA, com retorno baseado no sinal de 45,68%.",
+        "body": "A MK Signal, repórter de IA que analisa ações norte-americanas em destaque, informou no dia 11 que foi detectado um sinal de venda em Apache (APA). Segundo o sinal, Apache alcançou retorno de 45,68% pelo critério da MK Signal. A reportagem original apresentou Apache como uma ação observada no mercado acionário dos EUA e destacou a ocorrência do sinal de venda e o retorno obtido. Para investidores, esse sinal pode servir como referência na revisão do papel e na avaliação de decisões de compra e venda. Contudo, as informações divulgadas se limitam à detecção do sinal de venda e ao percentual de retorno. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Apache (APA) mit Verkaufssignal: MK Signal meldet 45,68% Rendite",
+        "excerpt": "MK Signal teilte mit, dass am 11. bei der US-Aktie Apache (APA) ein Verkaufssignal erkannt wurde und die signalbasierte Rendite 45,68% erreichte.",
+        "body": "MK Signal, ein KI-Reporter zur Analyse viel beachteter US-Aktien, erklärte am 11., dass bei Apache (APA) ein Verkaufssignal erkannt wurde. Dem Signal zufolge erzielte Apache nach MK-Signal-Maßstab eine Rendite von 45,68%. Der ursprüngliche Bericht stellte Apache als eine im US-Aktienmarkt beachtete Aktie dar und rückte das Auftreten des Verkaufssignals sowie die erreichte Rendite in den Mittelpunkt. Für Anleger kann dieses Signal als Referenz bei der Prüfung der Aktie und bei Handelsentscheidungen dienen. Die veröffentlichten Informationen beschränken sich jedoch auf das erkannte Verkaufssignal und die Renditezahl. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Apache (APA) reçoit un signal de vente, MK Signal affiche 45,68%",
+        "excerpt": "MK Signal a indiqué que le 11, un signal de vente a été détecté sur Apache (APA), valeur américaine suivie, avec un rendement de 45,68% selon ce signal.",
+        "body": "MK Signal, journaliste IA qui analyse les valeurs américaines les plus suivies, a indiqué le 11 qu’un signal de vente avait été détecté sur Apache (APA). Selon ce signal, Apache a atteint un rendement de 45,68% d’après le critère de MK Signal. L’article original présentait Apache comme une action observée sur le marché américain et mettait l’accent sur l’apparition du signal de vente ainsi que sur le rendement réalisé. Pour les investisseurs, ce signal peut servir de référence lors de l’examen du titre et de la prise de décisions de trading. Toutefois, les informations publiées se limitent au signal de vente détecté et au chiffre du rendement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إشارة بيع على أباتشي (APA) وعائد MK Signal يبلغ 45.68%",
+        "excerpt": "قالت MK Signal إن إشارة بيع رُصدت في 11 من الشهر على سهم أباتشي (APA)، أحد أسهم السوق الأميركية محل الاهتمام، مع عائد بلغ 45.68%.",
+        "body": "أعلنت MK Signal، وهي مراسل ذكاء اصطناعي يحلل الأسهم الأميركية محل الاهتمام، في 11 من الشهر أنه تم رصد إشارة بيع على سهم أباتشي (APA). ووفق هذه الإشارة، حقق السهم عائدا قدره 45.68% حسب معيار MK Signal. وقدم التقرير الأصلي أباتشي كسهم يحظى بالاهتمام في سوق الأسهم الأميركية، وركز على ظهور إشارة البيع وتحقيق نسبة العائد المذكورة. بالنسبة للمستثمرين، قد تكون هذه الإشارة مرجعا عند مراجعة السهم والنظر في قرارات التداول. ومع ذلك، فإن المعلومات المنشورة تقتصر على رصد إشارة البيع ورقم العائد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Apache (APA) में बिक्री संकेत, MK Signal रिटर्न 45.68% दर्ज",
+        "excerpt": "MK Signal ने बताया कि 11 तारीख को अमेरिकी शेयर Apache (APA) में बिक्री संकेत मिला और इस संकेत के आधार पर रिटर्न 45.68% तक पहुंचा।",
+        "body": "अमेरिकी शेयरों के चर्चित मुद्दों का विश्लेषण करने वाले AI रिपोर्टर ‘MK Signal’ ने 11 तारीख को बताया कि Apache (APA) में बिक्री संकेत मिला है। इस संकेत के अनुसार, Apache ने MK Signal के मानक पर 45.68% रिटर्न हासिल किया। मूल रिपोर्ट में Apache को अमेरिकी शेयर बाजार में ध्यान आकर्षित करने वाले शेयर के रूप में प्रस्तुत किया गया और बिक्री संकेत मिलने तथा रिटर्न हासिल होने को मुख्य तथ्य बताया गया। निवेशकों के लिए यह संकेत शेयर की समीक्षा और ट्रेडिंग निर्णयों पर विचार करते समय संदर्भ सामग्री हो सकता है। हालांकि, लेख में दी गई जानकारी बिक्री संकेत और रिटर्न के आंकड़े तक सीमित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Apache (APA) Muncul Sinyal Jual, Return MK Signal Capai 45,68%",
+        "excerpt": "MK Signal menyebut pada tanggal 11 sinyal jual terdeteksi pada Apache (APA), saham AS yang menjadi sorotan, dengan return berbasis sinyal mencapai 45,68%.",
+        "body": "MK Signal, reporter AI yang menganalisis saham-saham AS yang menjadi sorotan, menyatakan pada tanggal 11 bahwa sinyal jual terdeteksi pada Apache (APA). Berdasarkan sinyal tersebut, Apache mencatat return 45,68% menurut ukuran MK Signal. Laporan asli menempatkan Apache sebagai saham yang diperhatikan di pasar saham AS dan menyoroti munculnya sinyal jual serta pencapaian angka return. Bagi investor, sinyal ini dapat menjadi referensi saat meninjau saham dan mempertimbangkan keputusan transaksi. Namun, informasi yang dipublikasikan terbatas pada deteksi sinyal jual dan angka return. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5320cf2ce06d",
     "slug": "아직-ai-예고편sk하이닉스-목표주가-280만원오늘-나온-보고서-170047",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Daesung Hi-Tech Umumkan Obligasi Konversi KRW 10 Miliar, Harga KRW 9.688",
         "excerpt": "Emiten Kosdaq Daesung Hi-Tech pada 11 Mei 2026 mengumumkan penerbitan obligasi konversi ke-7 senilai KRW 10 miliar, dengan harga konversi ditetapkan KRW 9.688.",
         "body": "Daesung Hi-Tech, perusahaan yang tercatat di Kosdaq, pada 11 Mei 2026 mengumumkan akan menerbitkan obligasi konversi ke-7 dengan nilai total KRW 10 miliar. Berdasarkan keterbukaan tersebut, harga konversi ditetapkan KRW 9.688, dan periode pengajuan konversi dimulai pada 19 Mei 2027. Obligasi konversi adalah instrumen utang yang dapat diubah menjadi saham dengan syarat tertentu, sehingga nilai penerbitan dan harga konversi menjadi ketentuan utama bagi investor. Penerbitan ini akan berjalan sesuai jumlah dan jadwal yang telah diumumkan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a9fcb6bc7775",
-    "slug": "매경증권대상-nh투자證-퇴직연금-대상에-삼성證-702752",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T10:08:15.976Z",
-    "updatedAt": "2026-05-11T10:08:15.976Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043582",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043582",
-    "titleFingerprint": "8e7951de665caa91b30991a37330568be53a103a",
-    "dedupKeys": [
-      "a9fcb6bc7775d546bdffe021dd5fc6369d83185e",
-      "8e7951de665caa91b30991a37330568be53a103a",
-      "b80aa160d30dec461bff5b053d6c195c63753aa6"
-    ],
-    "imageUrl": "/images/articles/a9fcb6bc7775.jpg",
-    "i18n": {
-      "ko": {
-        "title": "NH투자증권, 2026 매경 증권·연금대상 증권 부문 대상 수상",
-        "excerpt": "NH투자증권이 11일 서울 중구 매경미디어센터에서 열린 ‘2026 매일경제 증권·연금대상’에서 증권 부문 대상을 받았고, 삼성증권은 퇴직연금 부문 대상을 차지했다.",
-        "body": "NH투자증권이 11일 서울 중구 매경미디어센터에서 열린 ‘2026 매일경제 증권·연금대상’ 시상식에서 증권 부문 대상을 차지했다. 퇴직연금 부문 대상은 삼성증권이 거머쥐었다. 이번 시상식은 증권과 연금 분야를 대상으로 진행됐으며, 각 부문에서 두 회사가 최고상 수상사로 이름을 올렸다. NH투자증권의 증권 부문 대상과 삼성증권의 퇴직연금 부문 대상 수상은 국내 금융투자업계에서 두 회사의 존재감을 다시 확인한 사례로 평가된다. 관련 내용은 mk.co.kr 보도를 인용했다."
-      },
-      "en": {
-        "title": "NH Investment & Securities Wins Top Securities Prize at 2026 Maeil Awards",
-        "excerpt": "NH Investment & Securities won the securities grand prize at the 2026 Maeil Business Securities and Pension Awards held on May 11 in Seoul, while Samsung Securities took the retirement pension award.",
-        "body": "NH Investment & Securities won the grand prize in the securities category at the 2026 Maeil Business Securities and Pension Awards ceremony held on May 11 at the Maekyung Media Center in Jung-gu, Seoul. Samsung Securities received the grand prize in the retirement pension category. The awards ceremony covered the securities and pension sectors, with the two companies named as the top honorees in their respective categories. The results highlighted NH Investment & Securities in securities and Samsung Securities in retirement pensions within Korea’s financial investment industry. The information is cited from mk.co.kr."
-      },
-      "ja": {
-        "title": "NH投資証券、2026毎経証券・年金大賞の証券部門で大賞",
-        "excerpt": "NH投資証券は5月11日、ソウル中区の毎経メディアセンターで開かれた「2026毎日経済証券・年金大賞」で証券部門大賞を受賞し、退職年金部門はサムスン証券が受賞した。",
-        "body": "NH投資証券は5月11日、ソウル中区の毎経メディアセンターで開かれた「2026毎日経済証券・年金大賞」授賞式で、証券部門の大賞を受賞した。退職年金部門の大賞はサムスン証券が獲得した。今回の授賞式は証券と年金分野を対象に行われ、各部門で両社が最高賞の受賞企業として名を連ねた。NH投資証券の証券部門大賞とサムスン証券の退職年金部門大賞受賞は、韓国の金融投資業界における両社の存在感を改めて示す事例となった。内容はmk.co.krの報道を引用した。"
-      },
-      "zh": {
-        "title": "NH投资证券获2026每日经济证券养老金大奖证券部门大奖",
-        "excerpt": "NH投资证券5月11日在首尔中区每日经济媒体中心举行的“2026每日经济证券·养老金大奖”中获得证券部门大奖，三星证券获得退休养老金部门大奖。",
-        "body": "NH投资证券5月11日在首尔中区每日经济媒体中心举行的“2026每日经济证券·养老金大奖”颁奖礼上，获得证券部门大奖。退休养老金部门大奖则由三星证券摘得。本次颁奖礼面向证券和养老金领域举行，两家公司分别成为各自部门的最高奖获奖者。NH投资证券获得证券部门大奖、三星证券获得退休养老金部门大奖，显示了两家公司在韩国金融投资行业中的存在感。相关内容引自mk.co.kr报道。"
-      },
-      "es": {
-        "title": "NH Investment & Securities gana el máximo premio bursátil Maeil 2026",
-        "excerpt": "NH Investment & Securities ganó el gran premio de valores en los Premios Maeil Business de Valores y Pensiones 2026, celebrados el 11 de mayo en Seúl; Samsung Securities ganó en pensiones de retiro.",
-        "body": "NH Investment & Securities obtuvo el gran premio en la categoría de valores durante la ceremonia de los Premios Maeil Business de Valores y Pensiones 2026, celebrada el 11 de mayo en el Maekyung Media Center, en Jung-gu, Seúl. Samsung Securities ganó el gran premio en la categoría de pensiones de retiro. La ceremonia abarcó los sectores de valores y pensiones, y ambas compañías fueron nombradas máximas galardonadas en sus respectivas áreas. El resultado destacó a NH Investment & Securities en valores y a Samsung Securities en pensiones de retiro dentro de la industria coreana de inversión financiera. La información cita a mk.co.kr."
-      },
-      "pt": {
-        "title": "NH Investment & Securities vence prêmio principal de valores Maeil 2026",
-        "excerpt": "A NH Investment & Securities ganhou o grande prêmio na área de valores no Maeil Business Securities and Pension Awards 2026, realizado em 11 de maio em Seul; a Samsung Securities venceu em previdência de aposentadoria.",
-        "body": "A NH Investment & Securities conquistou o grande prêmio na categoria de valores mobiliários na cerimônia do Maeil Business Securities and Pension Awards 2026, realizada em 11 de maio no Maekyung Media Center, em Jung-gu, Seul. A Samsung Securities recebeu o grande prêmio na categoria de previdência de aposentadoria. A premiação contemplou os setores de valores e pensões, com as duas empresas reconhecidas como as principais vencedoras em suas respectivas categorias. O resultado destacou a NH Investment & Securities em valores mobiliários e a Samsung Securities em previdência de aposentadoria no setor coreano de investimento financeiro. As informações citam mk.co.kr."
-      },
-      "de": {
-        "title": "NH Investment & Securities gewinnt Hauptpreis bei Maeil Awards 2026",
-        "excerpt": "NH Investment & Securities gewann am 11. Mai in Seoul den Hauptpreis in der Wertpapierkategorie der Maeil Business Securities and Pension Awards 2026; Samsung Securities erhielt den Preis für Betriebsrenten.",
-        "body": "NH Investment & Securities gewann den Hauptpreis in der Wertpapierkategorie bei der Verleihung der Maeil Business Securities and Pension Awards 2026, die am 11. Mai im Maekyung Media Center in Jung-gu, Seoul, stattfand. Samsung Securities erhielt den Hauptpreis in der Kategorie Renten- beziehungsweise Ruhestandsvorsorge. Die Veranstaltung deckte die Bereiche Wertpapiere und Pensionen ab, wobei beide Unternehmen in ihren jeweiligen Kategorien als wichtigste Preisträger genannt wurden. Das Ergebnis unterstreicht die Rolle von NH Investment & Securities im Wertpapierbereich und von Samsung Securities bei der Ruhestandsvorsorge innerhalb der koreanischen Finanzinvestmentbranche. Die Angaben berufen sich auf mk.co.kr."
-      },
-      "fr": {
-        "title": "NH Investment & Securities remporte le grand prix Maeil des valeurs 2026",
-        "excerpt": "NH Investment & Securities a remporté le grand prix de la catégorie valeurs mobilières aux Maeil Business Securities and Pension Awards 2026, organisés le 11 mai à Séoul; Samsung Securities a gagné pour les retraites.",
-        "body": "NH Investment & Securities a remporté le grand prix dans la catégorie valeurs mobilières lors de la cérémonie des Maeil Business Securities and Pension Awards 2026, tenue le 11 mai au Maekyung Media Center, à Jung-gu, Séoul. Samsung Securities a reçu le grand prix dans la catégorie des pensions de retraite. La cérémonie couvrait les secteurs des valeurs mobilières et des pensions, les deux entreprises étant désignées comme lauréates principales dans leurs catégories respectives. Ce résultat met en avant NH Investment & Securities dans les valeurs mobilières et Samsung Securities dans les pensions de retraite au sein du secteur coréen de l’investissement financier. Les informations citent mk.co.kr."
-      },
-      "ar": {
-        "title": "إن إتش للاستثمار والأوراق المالية تفوز بجائزة ماييل 2026 للأوراق المالية",
-        "excerpt": "فازت إن إتش للاستثمار والأوراق المالية بالجائزة الكبرى في فئة الأوراق المالية ضمن جوائز ماييل للأوراق المالية والمعاشات 2026 التي أقيمت في 11 مايو في سيول، بينما فازت سامسونغ للأوراق المالية بفئة تقاعد الموظفين.",
-        "body": "فازت إن إتش للاستثمار والأوراق المالية بالجائزة الكبرى في فئة الأوراق المالية خلال حفل جوائز ماييل للأوراق المالية والمعاشات 2026، الذي أقيم في 11 مايو في مركز مايك يونغ الإعلامي في حي جونغ غو بسيول. وحصلت سامسونغ للأوراق المالية على الجائزة الكبرى في فئة معاشات التقاعد. شمل الحفل قطاعي الأوراق المالية والمعاشات، وسجلت الشركتان اسميهما كأبرز فائزتين في الفئتين المعنيتين. ويبرز هذا الفوز حضور إن إتش للاستثمار والأوراق المالية في قطاع الأوراق المالية وحضور سامسونغ للأوراق المالية في تقاعد الموظفين ضمن صناعة الاستثمار المالي في كوريا. المعلومات منقولة عن mk.co.kr."
-      },
-      "hi": {
-        "title": "NH Investment & Securities ने Maeil 2026 सिक्योरिटीज शीर्ष पुरस्कार जीता",
-        "excerpt": "NH Investment & Securities ने 11 मई को सियोल में आयोजित 2026 Maeil Business Securities and Pension Awards में सिक्योरिटीज श्रेणी का शीर्ष पुरस्कार जीता, जबकि Samsung Securities ने रिटायरमेंट पेंशन श्रेणी जीती।",
-        "body": "NH Investment & Securities ने 11 मई को सियोल के जुंग-गु स्थित Maekyung Media Center में आयोजित 2026 Maeil Business Securities and Pension Awards समारोह में सिक्योरिटीज श्रेणी का ग्रैंड प्राइज जीता। रिटायरमेंट पेंशन श्रेणी का ग्रैंड प्राइज Samsung Securities को मिला। यह पुरस्कार समारोह सिक्योरिटीज और पेंशन क्षेत्रों को लेकर आयोजित किया गया था, जिसमें दोनों कंपनियां अपनी-अपनी श्रेणियों की शीर्ष विजेता रहीं। NH Investment & Securities की सिक्योरिटीज श्रेणी में जीत और Samsung Securities की रिटायरमेंट पेंशन श्रेणी में जीत ने कोरिया के वित्तीय निवेश उद्योग में दोनों कंपनियों की उपस्थिति को रेखांकित किया। जानकारी mk.co.kr से उद्धृत है।"
-      },
-      "id": {
-        "title": "NH Investment & Securities Raih Penghargaan Utama Sekuritas Maeil 2026",
-        "excerpt": "NH Investment & Securities meraih penghargaan utama kategori sekuritas pada Maeil Business Securities and Pension Awards 2026 yang digelar 11 Mei di Seoul, sementara Samsung Securities menang di kategori pensiun.",
-        "body": "NH Investment & Securities meraih penghargaan utama kategori sekuritas dalam seremoni Maeil Business Securities and Pension Awards 2026 yang digelar pada 11 Mei di Maekyung Media Center, Jung-gu, Seoul. Samsung Securities memperoleh penghargaan utama di kategori pensiun hari tua. Acara penghargaan ini mencakup sektor sekuritas dan pensiun, dengan kedua perusahaan tercatat sebagai penerima penghargaan tertinggi di kategori masing-masing. Hasil tersebut menyoroti NH Investment & Securities di bidang sekuritas dan Samsung Securities di bidang pensiun hari tua dalam industri investasi keuangan Korea. Informasi ini mengutip laporan mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "cde69eb866cc",
-    "slug": "언제까지-올라요-저-언제-팔아요1만2천피-전망까지-등장했다-244916",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T10:07:11.155Z",
-    "updatedAt": "2026-05-11T10:07:11.155Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043589",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043589",
-    "titleFingerprint": "578c23b4a80c07814fcf4ed70b14d2ef5380c0c1",
-    "dedupKeys": [
-      "cde69eb866ccab5ec6ad6819a07b34149d0843fe",
-      "578c23b4a80c07814fcf4ed70b14d2ef5380c0c1",
-      "c93d2b0ab8cd8c9f2111d612d68deb1ab58c121e"
-    ],
-    "imageUrl": "/images/articles/cde69eb866cc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 급등에 1만2000 전망까지…반도체 투톱 랠리 주목",
-        "excerpt": "코스피가 반도체 투톱의 강한 상승세로 급등하며 사이드카가 발동됐고, SK하이닉스 시가총액이 마이크론을 추월한 가운데 증권가의 지수 전망도 상향됐다.",
-        "body": "코스피가 반도체 대형주의 빠른 질주에 힘입어 급등하면서 시장에서는 ‘언제까지 오를까’와 ‘언제 팔아야 할까’라는 질문이 커지고 있다. 급등 과정에서 사이드카가 발동됐고, SK하이닉스의 시가총액은 미국 마이크론을 추월했다. 반도체 투톱의 상승세가 지수 흐름을 주도하는 가운데 글로벌 투자은행과 국내 증권사의 전망도 잇따라 높아졌다. 골드만삭스가 코스피 전망을 올려 잡은 데 이어 JP모건은 목표치를 1만 포인트로 제시했다. 현대차증권은 1만2000도 가능하다는 전망을 내놨다. 다만 기사에 제시된 내용은 전망치와 시장 반응에 초점이 맞춰져 있으며, 실제 지수 흐름은 향후 반도체 주도주와 투자심리에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Rally Spurs 12,000-Point Calls as Chip Leaders Surge",
-        "excerpt": "The KOSPI jumped on strong gains by Korea’s two major chip stocks, triggering a sidecar, while SK hynix’s market value surpassed Micron and index forecasts were lifted.",
-        "body": "The KOSPI has surged as Korea’s leading semiconductor stocks accelerated, prompting investors to ask how long the rally can continue and when to sell. During the sharp rise, a sidecar trading curb was triggered, and SK hynix’s market capitalization surpassed that of U.S. chipmaker Micron. With the two chip leaders driving the index, forecasts from global investment banks and local brokerages have also moved higher. Goldman Sachs raised its KOSPI outlook, while JPMorgan presented a 10,000-point target. Hyundai Motor Securities said 12,000 could also be possible. The reported details focus on market reactions and index projections, while the actual path of the index may depend on semiconductor leaders and investor sentiment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI急騰で1万2000予想も、半導体2強の上昇に注目",
-        "excerpt": "KOSPIは半導体大手2銘柄の強い上昇で急騰し、サイドカーが発動。SKハイニックスの時価総額はマイクロンを上回り、指数見通しも引き上げられた。",
-        "body": "KOSPIは韓国の半導体大手株の急伸に支えられて大きく上昇し、市場では「いつまで上がるのか」「いつ売るべきか」という声が広がっている。急騰の過程ではサイドカーが発動され、SKハイニックスの時価総額は米マイクロンを追い越した。半導体2強の上昇が指数を主導するなか、海外投資銀行や国内証券会社の見通しも相次いで上方修正された。ゴールドマン・サックスがKOSPI見通しを引き上げたのに続き、JPモルガンは目標値を1万ポイントと提示した。現代車証券は1万2000も可能との見方を示した。報道内容は市場反応と見通しに焦点を当てており、実際の指数推移は半導体主導株と投資心理に左右され得る。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI飙升引出12000点展望，半导体双雄行情受关注",
-        "excerpt": "KOSPI在两大半导体股强势上涨带动下急升并触发sidecar，SK海力士市值超过美光，券商和投行也上调指数展望。",
-        "body": "在韩国大型半导体股快速上涨的推动下，KOSPI大幅走高，市场上关于“还能涨多久”和“何时卖出”的疑问随之增加。上涨过程中触发了sidecar机制，SK海力士的市值也超过了美国美光。随着半导体双雄主导指数走势，全球投行和韩国本土券商的预测也接连上调。高盛已上调KOSPI展望，摩根大通则给出1万点目标。现代汽车证券表示，1万2000点也有可能。报道内容主要聚焦于市场反应和指数预测，实际走势仍可能取决于半导体龙头股表现及投资情绪。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI se dispara y surgen previsiones de 12.000 puntos",
-        "excerpt": "El KOSPI subió con fuerza por el avance de los dos grandes valores de semiconductores, activó un sidecar y elevó las previsiones tras superar SK hynix a Micron en capitalización.",
-        "body": "El KOSPI se disparó impulsado por el rápido avance de los principales valores surcoreanos de semiconductores, mientras aumentan las preguntas de los inversores sobre cuánto puede durar la subida y cuándo vender. Durante el fuerte movimiento se activó un sidecar, y la capitalización bursátil de SK hynix superó a la de la estadounidense Micron. Con los dos líderes de chips marcando el ritmo del índice, bancos de inversión globales y firmas locales también elevaron sus perspectivas. Goldman Sachs revisó al alza su visión del KOSPI, mientras JPMorgan presentó un objetivo de 10.000 puntos. Hyundai Motor Securities señaló que 12.000 también podría ser posible. La información se centra en reacciones del mercado y previsiones, y la evolución real dependerá de los líderes de semiconductores y del ánimo inversor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI dispara e previsões chegam a 12.000 pontos com chips em alta",
-        "excerpt": "O KOSPI avançou forte com a alta das duas principais ações de semicondutores, acionou um sidecar e viu projeções subirem após a SK hynix superar a Micron em valor de mercado.",
-        "body": "O KOSPI subiu com força impulsionado pela rápida valorização das principais ações sul-coreanas de semicondutores, enquanto investidores perguntam até quando a alta pode continuar e quando vender. No processo de forte avanço, um sidecar foi acionado, e o valor de mercado da SK hynix superou o da norte-americana Micron. Com as duas líderes de chips conduzindo o índice, bancos globais e corretoras locais também elevaram suas projeções. O Goldman Sachs aumentou sua estimativa para o KOSPI, enquanto o JPMorgan apresentou uma meta de 10.000 pontos. A Hyundai Motor Securities afirmou que 12.000 também pode ser possível. A reportagem se concentra nas reações do mercado e nas previsões, e o caminho real do índice pode depender das líderes de semicondutores e do sentimento dos investidores. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-Rally bringt Prognosen bis 12.000 Punkte in den Fokus",
-        "excerpt": "Der KOSPI sprang dank starker Gewinne der zwei großen Halbleiterwerte nach oben, löste einen Sidecar aus und erhielt höhere Ziele, während SK hynix Micron beim Börsenwert überholte.",
-        "body": "Der KOSPI ist dank des schnellen Anstiegs führender südkoreanischer Halbleiterwerte stark gestiegen, während Anleger fragen, wie lange die Rally dauern kann und wann ein Verkauf sinnvoll ist. Im Zuge des kräftigen Anstiegs wurde ein Sidecar ausgelöst, und die Marktkapitalisierung von SK hynix übertraf die des US-Unternehmens Micron. Da die beiden Chip-Schwergewichte den Index treiben, haben auch globale Investmentbanken und lokale Broker ihre Erwartungen angehoben. Goldman Sachs erhöhte den Ausblick für den KOSPI, während JPMorgan ein Ziel von 10.000 Punkten nannte. Hyundai Motor Securities erklärte, auch 12.000 Punkte seien möglich. Der Bericht konzentriert sich auf Marktreaktionen und Prognosen; der tatsächliche Indexverlauf kann von Halbleiterführern und Anlegerstimmung abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI s’envole et des prévisions à 12.000 points apparaissent",
-        "excerpt": "Le KOSPI a bondi grâce aux deux grands titres des semi-conducteurs, déclenchant un sidecar, tandis que SK hynix a dépassé Micron en capitalisation et que les objectifs montent.",
-        "body": "Le KOSPI a fortement progressé, porté par l’ascension rapide des grandes valeurs sud-coréennes des semi-conducteurs, alors que les investisseurs se demandent combien de temps la hausse peut durer et quand vendre. Pendant cette envolée, un sidecar a été déclenché, et la capitalisation boursière de SK hynix a dépassé celle de l’américain Micron. Les deux leaders des puces menant l’indice, les banques d’investissement mondiales et les maisons de courtage locales ont aussi relevé leurs perspectives. Goldman Sachs a augmenté sa prévision pour le KOSPI, tandis que JPMorgan a présenté un objectif de 10.000 points. Hyundai Motor Securities a indiqué que 12.000 points étaient également possibles. L’article porte sur les réactions du marché et les projections, l’évolution réelle pouvant dépendre des valeurs de semi-conducteurs et du sentiment des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صعود كوسبي يفتح توقعات 12000 نقطة مع اندفاع أسهم الرقائق",
-        "excerpt": "ارتفع مؤشر كوسبي بقوة بدعم من سهمي أشباه الموصلات الرئيسيين، ما أدى إلى تفعيل سايدكار، فيما تجاوزت قيمة SK hynix السوقية قيمة Micron وارتفعت التوقعات.",
-        "body": "ارتفع مؤشر كوسبي بقوة مع الاندفاع السريع لأسهم أشباه الموصلات الكبرى في كوريا، لتزداد أسئلة المستثمرين حول مدة استمرار الصعود وموعد البيع. وخلال موجة الارتفاع الحادة تم تفعيل آلية سايدكار، كما تجاوزت القيمة السوقية لشركة SK hynix قيمة شركة Micron الأميركية. ومع قيادة سهمي الرقائق الرئيسيين لحركة المؤشر، رفعت بنوك استثمار عالمية وشركات وساطة محلية توقعاتها. فقد رفع Goldman Sachs نظرته لمؤشر كوسبي، بينما قدم JPMorgan هدفا عند 10000 نقطة. وقالت Hyundai Motor Securities إن مستوى 12000 نقطة قد يكون ممكنا أيضا. تركز المعلومات الواردة على رد فعل السوق والتوقعات، بينما قد يعتمد المسار الفعلي للمؤشر على أسهم أشباه الموصلات القيادية ومعنويات المستثمرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI की तेज रैली में 12,000 अंक तक के अनुमान, चिप शेयर केंद्र में",
-        "excerpt": "दो प्रमुख सेमीकंडक्टर शेयरों की मजबूत तेजी से KOSPI उछला और sidecar लागू हुआ, जबकि SK hynix का बाजार मूल्य Micron से आगे निकला और सूचकांक अनुमान बढ़े।",
-        "body": "दक्षिण कोरिया के प्रमुख सेमीकंडक्टर शेयरों की तेज बढ़त से KOSPI में जोरदार उछाल आया, जिससे निवेशकों के बीच यह सवाल बढ़ा कि तेजी कब तक चलेगी और कब बेचना चाहिए। इस तीव्र चढ़ाई के दौरान sidecar लागू हुआ, और SK hynix का बाजार पूंजीकरण अमेरिकी कंपनी Micron से आगे निकल गया। चिप क्षेत्र की दो प्रमुख कंपनियों के सूचकांक को आगे बढ़ाने के बीच वैश्विक निवेश बैंकों और घरेलू ब्रोकरेज ने भी अपने अनुमान बढ़ाए। Goldman Sachs ने KOSPI के लिए अपना दृष्टिकोण ऊपर किया, जबकि JPMorgan ने 10,000 अंक का लक्ष्य दिया। Hyundai Motor Securities ने कहा कि 12,000 अंक भी संभव हो सकते हैं। रिपोर्ट बाजार प्रतिक्रिया और अनुमानों पर केंद्रित है; वास्तविक दिशा सेमीकंडक्टर नेतृत्व और निवेशक भावना पर निर्भर हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Reli KOSPI Picu Proyeksi 12.000 Poin, Saham Chip Jadi Sorotan",
-        "excerpt": "KOSPI melonjak berkat kenaikan kuat dua saham semikonduktor utama, memicu sidecar, sementara nilai pasar SK hynix melampaui Micron dan proyeksi indeks dinaikkan.",
-        "body": "KOSPI melonjak tajam didorong laju cepat saham semikonduktor utama Korea Selatan, sehingga investor mulai bertanya sampai kapan reli berlanjut dan kapan harus menjual. Dalam proses kenaikan kuat itu, sidecar terpicu, dan kapitalisasi pasar SK hynix melampaui perusahaan AS Micron. Ketika dua pemimpin chip menggerakkan indeks, bank investasi global dan sekuritas lokal juga menaikkan proyeksi. Goldman Sachs menaikkan pandangan untuk KOSPI, sementara JPMorgan memberi target 10.000 poin. Hyundai Motor Securities menyatakan level 12.000 juga mungkin tercapai. Laporan ini berfokus pada reaksi pasar dan proyeksi indeks, sementara arah aktual dapat bergantung pada saham semikonduktor utama dan sentimen investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0e56135a6912",
-    "slug": "코인시장-옥죄는-특금법-시행령fiu-13일-업계-만나-해법-찾을까-604820",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T10:05:50.495Z",
-    "updatedAt": "2026-05-11T10:05:50.495Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043595",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043595",
-    "titleFingerprint": "a5a9b2537cba9e2f35c7be3f525d36131e6177c2",
-    "dedupKeys": [
-      "0e56135a69124a4c9b1f1016d0bd3760ba4055f8",
-      "a5a9b2537cba9e2f35c7be3f525d36131e6177c2",
-      "d6a4e032385b97464334b2562fc586c08be68fd7"
-    ],
-    "imageUrl": "/images/articles/0e56135a6912.jpg",
-    "i18n": {
-      "ko": {
-        "title": "특금법 시행령 논란에 코인업계 긴급 회동…FIU, 13일 해법 찾나",
-        "excerpt": "FIU가 13일 닥사와 가상자산 거래소를 만나 1000만원 이상 거래 STR 의무화 논란을 논의한다. 업계는 보고 건수 폭증으로 운영 부담을 우려한다.",
-        "body": "금융정보분석원(FIU)이 13일 디지털자산거래소 공동협의체 닥사와 주요 가상자산 거래소를 만나 특금법 시행령 관련 긴급 회동을 갖는다. 쟁점은 가상자산 거래 때 1000만원 이상이면 의심거래보고(STR)를 의무화하는 방안이다. 업계는 이 기준이 적용되면 보고 건수가 기존보다 85배 늘어날 수 있어 정상적인 운영이 어렵다고 우려한다. 금융당국과 업계가 회동에서 보고 기준과 실무 부담을 놓고 접점을 찾을 수 있을지가 관심이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Crypto Market Faces Special Financial Act Decree Dispute as FIU Meets Industry on May 13",
-        "excerpt": "The FIU will meet DAXA and crypto exchanges on May 13 to discuss controversy over mandatory STR filing for transactions of 10 million won or more, amid industry concerns over surging reports.",
-        "body": "The Financial Intelligence Unit will hold an urgent meeting on May 13 with the Digital Asset Exchange Alliance and major crypto exchanges over the enforcement decree of the Special Financial Transactions Act. The key issue is a plan to require suspicious transaction reports for all virtual asset transactions of 10 million won or more. The industry warns that the rule could increase report volume by 85 times, making normal operations difficult. Attention is on whether regulators and exchanges can find common ground on reporting standards and operational burden. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "特定金融情報法施行令めぐり暗号資産業界が緊急協議、FIUは13日に解決策探るか",
-        "excerpt": "FIUは13日、DAXAと暗号資産取引所と会い、1000万ウォン以上の取引にSTRを義務付ける案を協議する。業界は報告件数の急増を懸念している。",
-        "body": "金融情報分析院（FIU）は13日、デジタル資産取引所共同協議体DAXAと主要暗号資産取引所と、特定金融情報法施行令をめぐる緊急会合を開く。争点は、暗号資産取引で1000万ウォン以上の場合に疑わしい取引報告（STR）を義務化する案だ。業界は、この基準が適用されれば報告件数が従来の85倍に増え、通常運営が困難になると懸念している。金融当局と業界が報告基準と実務負担をめぐり接点を見いだせるかが注目される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "特金法施行令争议挤压加密市场，FIU将于13日会见行业寻求解法",
-        "excerpt": "FIU将于13日会见DAXA和虚拟资产交易所，讨论1000万韩元以上交易强制提交STR的争议，行业担忧报告数量暴增影响运营。",
-        "body": "韩国金融情报分析院（FIU）将于13日与数字资产交易所共同协议体DAXA及主要虚拟资产交易所举行紧急会议，讨论特金法施行令相关问题。争议焦点是虚拟资产交易金额达到1000万韩元以上时，是否一律强制提交可疑交易报告（STR）。行业方面担忧，如果该标准实施，报告数量可能较现有水平增加85倍，正常运营将变得困难。金融当局与行业能否在报告标准和实务负担之间找到交集，成为关注点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Decreto financiero especial presiona al cripto mercado: FIU se reúne con la industria el 13",
-        "excerpt": "La FIU se reunirá el 13 con DAXA y exchanges de criptoactivos para tratar la obligación de STR en operaciones de 10 millones de wones o más, cuestionada por el sector.",
-        "body": "La Unidad de Inteligencia Financiera de Corea del Sur celebrará el 13 una reunión urgente con DAXA, la alianza de exchanges de activos digitales, y principales plataformas de criptoactivos por el decreto de aplicación de la ley financiera especial. El punto central es la propuesta de exigir reportes de transacciones sospechosas para operaciones de activos virtuales de 10 millones de wones o más. El sector advierte que el volumen de reportes podría multiplicarse por 85, dificultando la operación normal. La atención está en si reguladores e industria hallarán un punto común sobre criterios de reporte y carga operativa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Decreto da lei financeira especial aperta cripto mercado, e FIU encontra setor no dia 13",
-        "excerpt": "A FIU se reunirá no dia 13 com a DAXA e exchanges de criptoativos para discutir a obrigação de STR em transações de 10 milhões de wons ou mais, alvo de críticas do setor.",
-        "body": "A Unidade de Inteligência Financeira da Coreia do Sul realizará no dia 13 uma reunião urgente com a DAXA, associação de exchanges de ativos digitais, e principais plataformas de criptoativos sobre o decreto de execução da lei financeira especial. O ponto central é a proposta de tornar obrigatório o relatório de transação suspeita para operações com ativos virtuais de 10 milhões de wons ou mais. O setor alerta que o número de relatórios pode aumentar 85 vezes, dificultando a operação normal. A atenção se volta para a possibilidade de reguladores e indústria encontrarem um acordo sobre critérios de reporte e carga prática. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sonderfinanzgesetz-Dekret belastet Kryptomarkt: FIU trifft Branche am 13. Mai",
-        "excerpt": "Die FIU trifft am 13. Mai DAXA und Kryptobörsen, um die Pflicht zu STR-Meldungen bei Transaktionen ab 10 Millionen Won zu besprechen. Die Branche warnt vor stark steigenden Meldungen.",
-        "body": "Die südkoreanische Financial Intelligence Unit hält am 13. Mai ein dringendes Treffen mit der Digital Asset Exchange Alliance DAXA und großen Kryptobörsen zum Durchführungsdekret des Sonderfinanzgesetzes ab. Im Mittelpunkt steht der Plan, bei Transaktionen mit virtuellen Vermögenswerten ab 10 Millionen Won grundsätzlich Verdachtsmeldungen vorzuschreiben. Die Branche warnt, dass sich die Zahl der Meldungen um das 85-Fache erhöhen könnte und ein normaler Betrieb dadurch schwierig werde. Entscheidend ist, ob Aufsicht und Branche bei Meldekriterien und praktischer Belastung einen gemeinsamen Nenner finden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le décret financier spécial pèse sur la crypto: la FIU voit le secteur le 13 mai",
-        "excerpt": "La FIU rencontrera le 13 mai DAXA et des plateformes crypto pour discuter de l’obligation de STR dès 10 millions de wons, contestée par un secteur inquiet d’une explosion des rapports.",
-        "body": "La cellule sud-coréenne de renseignement financier tiendra le 13 mai une réunion urgente avec DAXA, l’alliance des plateformes d’actifs numériques, et de grands exchanges crypto au sujet du décret d’application de la loi financière spéciale. Le point clé est l’obligation de déposer un rapport de transaction suspecte pour toute transaction d’actifs virtuels de 10 millions de wons ou plus. Le secteur affirme que le volume de rapports pourrait être multiplié par 85, rendant l’exploitation normale difficile. L’enjeu sera de voir si autorités et industrie peuvent trouver un terrain d’entente sur les critères de déclaration et la charge opérationnelle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مرسوم قانون المعاملات المالية الخاصة يضغط على سوق العملات المشفرة وFIU تلتقي القطاع في 13 مايو",
-        "excerpt": "تلتقي FIU في 13 مايو مع DAXA ومنصات تداول الأصول الافتراضية لبحث إلزام تقارير STR للمعاملات البالغة 10 ملايين وون فأكثر، وسط مخاوف تشغيلية من القطاع.",
-        "body": "تعقد وحدة الاستخبارات المالية الكورية FIU في 13 مايو اجتماعا عاجلا مع تحالف منصات الأصول الرقمية DAXA ومنصات رئيسية لتداول العملات المشفرة بشأن مرسوم تنفيذ قانون المعاملات المالية الخاصة. القضية الأساسية هي خطة إلزام تقديم تقرير معاملة مشبوهة STR عند تداول أصول افتراضية بقيمة 10 ملايين وون أو أكثر. ويحذر القطاع من أن تطبيق هذا المعيار قد يرفع عدد التقارير 85 مرة، ما يجعل التشغيل الطبيعي صعبا. ويتركز الاهتمام على ما إذا كانت السلطات المالية والقطاع سيجدان نقطة توافق بشأن معايير الإبلاغ والعبء العملي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "विशेष वित्तीय कानून 시행령 पर क्रिप्टो बाजार में विवाद, FIU 13 मई को उद्योग से मिलेगी",
-        "excerpt": "FIU 13 मई को DAXA और वर्चुअल एसेट एक्सचेंजों से मिलकर 1 करोड़ वॉन से अधिक लेनदेन पर STR अनिवार्यता पर चर्चा करेगी, जिस पर उद्योग ने भारी रिपोर्टिंग बोझ की चिंता जताई है।",
-        "body": "कोरिया की फाइनेंशियल इंटेलिजेंस यूनिट 13 मई को डिजिटल एसेट एक्सचेंज अलायंस DAXA और प्रमुख वर्चुअल एसेट एक्सचेंजों के साथ विशेष वित्तीय लेनदेन कानून के प्रवर्तन आदेश पर आपात बैठक करेगी। मुख्य मुद्दा यह है कि वर्चुअल एसेट लेनदेन 1 करोड़ वॉन या उससे अधिक होने पर संदिग्ध लेनदेन रिपोर्ट अनिवार्य की जाए। उद्योग का कहना है कि यह मानक लागू होने पर रिपोर्टों की संख्या 85 गुना बढ़ सकती है, जिससे सामान्य संचालन कठिन होगा। अब ध्यान इस पर है कि वित्तीय प्राधिकरण और उद्योग रिपोर्टिंग मानक तथा व्यावहारिक बोझ पर कोई साझा रास्ता निकाल पाते हैं या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aturan Pelaksana UU Keuangan Khusus Tekan Pasar Kripto, FIU Temui Industri 13 Mei",
-        "excerpt": "FIU akan bertemu DAXA dan bursa aset virtual pada 13 Mei untuk membahas kewajiban STR atas transaksi 10 juta won atau lebih, di tengah kekhawatiran industri soal lonjakan laporan.",
-        "body": "Financial Intelligence Unit Korea Selatan akan menggelar pertemuan darurat pada 13 Mei dengan DAXA, asosiasi bursa aset digital, dan bursa aset virtual utama terkait aturan pelaksana UU Transaksi Keuangan Khusus. Isu utamanya adalah rencana mewajibkan laporan transaksi mencurigakan untuk transaksi aset virtual senilai 10 juta won atau lebih. Industri memperingatkan bahwa penerapan standar ini dapat membuat jumlah laporan melonjak 85 kali, sehingga operasi normal sulit dilakukan. Perhatian tertuju pada apakah otoritas keuangan dan industri dapat menemukan titik temu terkait standar pelaporan dan beban operasional. Sumber: mk.co.kr"
       }
     }
   }
