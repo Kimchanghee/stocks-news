@@ -1,5 +1,230 @@
 [
   {
+    "id": "5b961536a984",
+    "slug": "코스피-폭락-ai-국민배당금-언급-때문야권-공산당-본색-맹공-726589",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T17:54:06.476Z",
+    "updatedAt": "2026-05-12T17:54:06.476Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044833",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044833",
+    "titleFingerprint": "22ab1f48bcb5ee73b7c631d1b480b0f4eafa7bde",
+    "dedupKeys": [
+      "5b961536a98491ec5ad0b5e74e6b63e39da3fdfb",
+      "22ab1f48bcb5ee73b7c631d1b480b0f4eafa7bde",
+      "6785885ed5488aec93c9ac2a0bcba818c48ce910"
+    ],
+    "imageUrl": "/images/articles/5b961536a984.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피 급락과 AI 국민배당금 논란, 야권 공세로 번진 시장 충격",
+        "excerpt": "12일 코스피가 장중 사상 최고치 기록 후 하락 전환해 2% 넘게 밀리고 7700선을 내주자, 김용범 청와대 정책실장의 ‘AI 국민배당금’ 구상이 하락 원인으로 거론되며 정치권 공방이 커졌다.",
+        "body": "코스피가 12일 장중 사상 최고치를 기록한 뒤 하락 전환해 2% 넘게 내리며 7700선을 내줬다. 시장 하락의 배경으로 김용범 청와대 정책실장이 언급한 ‘AI 국민배당금’ 구상이 거론되면서 논란이 정치권으로 확산됐다. 야권은 해당 구상을 두고 “공산당 본색”이라며 강하게 비판했다. 이번 사안은 증시가 최고치 이후 급락한 시점과 정책 발언이 맞물리며 투자심리와 정치적 해석이 동시에 부각된 사례다. 향후 시장은 관련 발언의 해석과 정치권 반응에 따라 변동성을 이어갈 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Slump and ‘AI National Dividend’ Debate Trigger Political Backlash",
+        "excerpt": "On the 12th, the KOSPI reversed after hitting an intraday record high, fell more than 2%, and lost the 7,700 level, as Kim Yong-beom’s ‘AI national dividend’ idea was cited in the market decline debate.",
+        "body": "The KOSPI reversed lower on the 12th after reaching an intraday record high, falling more than 2% and giving up the 7,700 level. The decline drew attention as Kim Yong-beom, presidential policy chief, had mentioned the idea of an ‘AI national dividend,’ which was cited as a possible factor behind the market move. Opposition parties sharply criticized the idea, calling it the “true colors of communism.” The issue has grown into a political dispute as the market’s retreat from a record high coincided with the policy remarks. Investors may continue watching how the comments are interpreted and how political responses affect sentiment. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI急落と「AI国民配当」論争、野党批判で市場不安拡大",
+        "excerpt": "12日、KOSPIは取引時間中の史上最高値を記録した後に下落へ転じ、2％超下げて7700台を割り込み、金容範大統領室政策室長の「AI国民配当」構想が下落要因として取り沙汰された。",
+        "body": "KOSPIは12日、取引時間中に史上最高値を付けた後、下落に転じて2％超下げ、7700台を割り込んだ。市場下落の背景として、金容範大統領室政策室長が言及した「AI国民配当」構想が取り上げられ、論争は政界へ広がった。野党は同構想について「共産党の本性」と強く批判した。今回の事案は、株価指数が最高値から急落したタイミングと政策発言が重なり、投資心理と政治的解釈が同時に注目されたものだ。今後も発言の解釈や政界の反応によって、市場の変動性が続く可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI暴跌与“AI国民分红”争议，反对党猛攻引发关注",
+        "excerpt": "12日，KOSPI盘中创下历史新高后转跌，跌幅超过2%并失守7700点，金容范青瓦台政策室长提出的“AI国民分红”构想被指与下跌有关，引发政界争论。",
+        "body": "KOSPI于12日盘中创下历史新高后转为下跌，跌幅超过2%，并失守7700点。市场下跌的背景中，金容范青瓦台政策室长提到的“AI国民分红”构想被拿来讨论，争议也扩散至政界。反对党强烈批评该构想，称其暴露了“共产党本色”。此次事件发生在股指从高点急跌之际，又与政策发言相互重叠，使投资情绪和政治解读同时受到关注。未来市场可能继续受到相关发言解读及政界反应影响而保持波动。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Caída del KOSPI y debate por ‘dividendo nacional de IA’ elevan tensión política",
+        "excerpt": "El día 12, el KOSPI pasó de un máximo intradía histórico a caer más de 2% y perder los 7.700 puntos, mientras la idea de Kim Yong-beom sobre un ‘dividendo nacional de IA’ fue vinculada al retroceso.",
+        "body": "El KOSPI cayó el día 12 después de marcar un máximo intradía histórico, retrocediendo más de 2% y perdiendo el nivel de 7.700 puntos. En medio de la baja, se mencionó como trasfondo la propuesta de Kim Yong-beom, jefe de política de la oficina presidencial, sobre un ‘dividendo nacional de IA’, lo que llevó la controversia al terreno político. La oposición criticó con dureza la idea y la calificó como muestra del “verdadero rostro comunista”. El episodio combinó una fuerte caída bursátil tras un máximo con comentarios de política pública, afectando tanto el ánimo inversor como la lectura política. El mercado podría seguir atento a nuevas interpretaciones y reacciones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Queda do KOSPI e debate sobre ‘dividendo nacional de IA’ ampliam disputa política",
+        "excerpt": "No dia 12, o KOSPI virou para queda após atingir máxima histórica intradiária, recuou mais de 2% e perdeu os 7.700 pontos, enquanto a ideia de Kim Yong-beom sobre ‘dividendo nacional de IA’ foi citada no debate.",
+        "body": "O KOSPI virou para queda no dia 12 após registrar máxima histórica intradiária, recuando mais de 2% e perdendo o patamar de 7.700 pontos. A queda ganhou atenção porque a proposta de Kim Yong-beom, chefe de políticas da presidência, sobre um ‘dividendo nacional de IA’ foi mencionada como possível fator no movimento do mercado. A oposição reagiu com críticas fortes, chamando a ideia de “verdadeira face comunista”. O caso juntou a queda de um índice após recorde com uma fala de política pública, destacando o impacto sobre o sentimento dos investidores e a interpretação política. O mercado pode seguir volátil conforme novas reações surjam. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Einbruch und Debatte um ‘KI-Volksdividende’ verschärfen politischen Streit",
+        "excerpt": "Am 12. drehte der KOSPI nach einem Rekordhoch im Tagesverlauf ins Minus, verlor mehr als 2% und fiel unter 7.700 Punkte, während Kim Yong-beoms Idee einer ‘KI-Volksdividende’ als möglicher Auslöser diskutiert wurde.",
+        "body": "Der KOSPI drehte am 12. nach einem Rekordhoch im Tagesverlauf nach unten, verlor mehr als 2% und gab die Marke von 7.700 Punkten auf. Als Hintergrund des Rückgangs wurde die von Kim Yong-beom, dem politischen Stabschef des Präsidialamts, erwähnte Idee einer ‘KI-Volksdividende’ genannt, wodurch sich die Debatte auf die Politik ausweitete. Die Opposition griff den Vorschlag scharf an und sprach von den “wahren Farben des Kommunismus”. Der Fall verbindet einen starken Kursrückgang nach einem Höchststand mit einer politischen Äußerung und rückt damit Anlegerstimmung und politische Deutung zugleich in den Fokus. Der Markt dürfte weitere Reaktionen aufmerksam verfolgen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Chute du KOSPI et débat sur le ‘dividende national IA’ attisent la polémique",
+        "excerpt": "Le 12, le KOSPI a chuté de plus de 2% après un record intrajournalier et a perdu le seuil des 7.700 points, tandis que l’idée de Kim Yong-beom d’un ‘dividende national IA’ était évoquée dans la baisse.",
+        "body": "Le KOSPI a basculé en baisse le 12 après avoir atteint un record intrajournalier, reculant de plus de 2% et abandonnant le seuil des 7.700 points. Le repli du marché a été associé aux propos de Kim Yong-beom, chef de la politique à la présidence, sur un projet de ‘dividende national IA’, ce qui a fait passer la controverse sur le terrain politique. L’opposition a vivement critiqué cette idée, y voyant les “vraies couleurs du communisme”. L’affaire intervient alors que l’indice reculait brusquement après un sommet, donnant du poids à la fois au sentiment des investisseurs et aux interprétations politiques. Le marché pourrait rester sensible aux réactions à venir. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هبوط كوسبي وجدال ‘توزيعات الذكاء الاصطناعي الوطنية’ يشعلان هجوما سياسيا",
+        "excerpt": "في 12 من الشهر، تحول كوسبي إلى الهبوط بعد تسجيل مستوى قياسي خلال الجلسة، وتراجع بأكثر من 2% وفقد مستوى 7700، بينما ذُكرت فكرة كيم يونغ-بوم عن ‘توزيعات الذكاء الاصطناعي الوطنية’ ضمن أسباب الجدل.",
+        "body": "تحول مؤشر كوسبي في 12 من الشهر إلى الهبوط بعد أن سجل أعلى مستوى تاريخي خلال الجلسة، متراجعا بأكثر من 2% ومتنازلا عن مستوى 7700. وجاءت فكرة ‘توزيعات الذكاء الاصطناعي الوطنية’ التي ذكرها كيم يونغ-بوم، رئيس السياسات في المكتب الرئاسي، في صلب النقاش حول خلفية التراجع، ليمتد الجدل إلى الساحة السياسية. وهاجمت قوى المعارضة الفكرة بشدة ووصفتها بأنها تكشف “الوجه الحقيقي للشيوعية”. وتزامن هبوط المؤشر من ذروته مع التصريح السياسي، ما أبرز أثره على نفسية المستثمرين والتفسيرات السياسية. وقد يظل السوق حساسا لردود الفعل المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI गिरावट और ‘AI राष्ट्रीय लाभांश’ विवाद से राजनीतिक हमला तेज",
+        "excerpt": "12 तारीख को KOSPI दिन के कारोबार में रिकॉर्ड ऊंचाई छूने के बाद पलटकर 2% से अधिक गिरा और 7700 स्तर खो बैठा, जबकि किम योंग-बोम की ‘AI राष्ट्रीय लाभांश’ योजना को गिरावट की बहस से जोड़ा गया।",
+        "body": "KOSPI ने 12 तारीख को दिन के कारोबार में ऐतिहासिक ऊंचाई दर्ज करने के बाद गिरावट का रुख लिया, 2% से अधिक फिसला और 7700 स्तर गंवा दिया। बाजार की इस गिरावट के संदर्भ में राष्ट्रपति कार्यालय के नीति प्रमुख किम योंग-बोम द्वारा उल्लेखित ‘AI राष्ट्रीय लाभांश’ योजना चर्चा में आई और विवाद राजनीति तक फैल गया। विपक्ष ने इस विचार पर तीखा हमला करते हुए इसे “कम्युनिस्ट पार्टी का असली रूप” बताया। यह मामला ऐसे समय सामने आया जब सूचकांक रिकॉर्ड ऊंचाई से तेजी से नीचे आया और नीति संबंधी टिप्पणी उससे जुड़ गई। आगे बाजार संबंधित बयान की व्याख्या और राजनीतिक प्रतिक्रियाओं पर नजर रख सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Anjlok dan Polemik ‘Dividen Nasional AI’ Picu Serangan Oposisi",
+        "excerpt": "Pada tanggal 12, KOSPI berbalik turun setelah mencetak rekor intraday, melemah lebih dari 2% dan kehilangan level 7.700, sementara gagasan Kim Yong-beom soal ‘dividen nasional AI’ dikaitkan dengan pelemahan pasar.",
+        "body": "KOSPI pada tanggal 12 berbalik turun setelah mencetak rekor tertinggi intraday, melemah lebih dari 2% dan kehilangan level 7.700. Pelemahan pasar menjadi sorotan karena gagasan ‘dividen nasional AI’ yang disampaikan Kim Yong-beom, kepala kebijakan kantor kepresidenan, disebut dalam pembahasan penyebab penurunan. Oposisi mengkritik keras gagasan itu dan menyebutnya sebagai “wajah asli komunis”. Peristiwa ini mempertemukan penurunan tajam indeks setelah rekor dengan pernyataan kebijakan, sehingga sentimen investor dan tafsir politik sama-sama mengemuka. Pasar dapat terus bergerak volatil mengikuti interpretasi pernyataan tersebut dan respons politik berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5441ad6d26dc",
+    "slug": "1원만-보내도-트래블룰-특금법-개정안에-빈대-잡다-초가삼간-태울-판-813395",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T17:52:12.588Z",
+    "updatedAt": "2026-05-12T17:52:12.588Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044838",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044838",
+    "titleFingerprint": "a7182a1df314dd8be77fc6fd21ccf7c8867735d7",
+    "dedupKeys": [
+      "5441ad6d26dcc7de030fc5c96f53dd302b522e71",
+      "a7182a1df314dd8be77fc6fd21ccf7c8867735d7",
+      "95603e764bf23d8f3a9cbe399cbe7054e433ff2a"
+    ],
+    "imageUrl": "/images/articles/5441ad6d26dc.png",
+    "i18n": {
+      "ko": {
+        "title": "특금법 개정안 논란, 1원 송금도 트래블룰 적용 우려 커진다",
+        "excerpt": "12일 국회 세미나에서 특금법 시행령 개정안이 글로벌 기준과 어긋나고, 과도한 트래블룰 규제가 자금세탁 사각지대를 키울 수 있다는 지적이 나왔다.",
+        "body": "12일 국회에서 열린 특금법 시행령 개정안 관련 세미나에서 가상자산 규제 방향을 둘러싼 우려가 제기됐다. 참석자들은 개정안이 소액 이전까지 트래블룰 적용 대상으로 넓힐 수 있다며, ‘1원만 보내도 트래블룰이냐’는 비판을 내놨다. 배경에는 미국이 발행자에게 동결·소각 등 통제 의무를 부과하는 흐름이 있는 반면, 한국 특금법은 트래블룰 등에서 글로벌 기준과 역행할 수 있다는 문제의식이 있다. 과도한 규제가 오히려 합법 시장을 위축시키고 자금세탁 사각지대를 키울 수 있다는 전망도 나왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea’s Crypto Rules Face Scrutiny as Travel Rule May Reach Tiny Transfers",
+        "excerpt": "At a National Assembly seminar on May 12, speakers warned that revisions to Korea’s crypto AML rules could diverge from global standards and widen money-laundering blind spots.",
+        "body": "At a seminar held at the National Assembly on May 12 regarding revisions to the enforcement decree of Korea’s Specific Financial Information Act, concerns were raised over the direction of virtual asset regulation. Participants criticized the possibility that even very small transfers could fall under the Travel Rule, asking whether sending just 1 won would trigger compliance duties. The debate comes as the U.S. moves to require issuers to have control mechanisms such as freezing and burning, while Korea’s rules may run counter to global standards on the Travel Rule. Speakers warned that excessive regulation could shrink legitimate markets and instead expand blind spots for money laundering. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国特金法改正案に懸念、1ウォン送金もトラベルルール対象か",
+        "excerpt": "12日の国会セミナーで、特金法施行令改正案がグローバル基準に逆行し、過度なトラベルルール規制が資金洗浄の死角を広げる恐れが指摘された。",
+        "body": "12日、国会で開かれた特金法施行令改正案に関するセミナーで、仮想資産規制の方向性をめぐる懸念が示された。出席者は、改正案が少額移転までトラベルルールの対象に広げかねないとして、「1ウォンだけ送ってもトラベルルールなのか」と批判した。背景には、米国が発行者に凍結・焼却などの統制義務を課す流れがある一方、韓国の特金法はトラベルルールなどでグローバル基準に逆行する可能性があるとの問題意識がある。過度な規制は合法市場を萎縮させ、むしろ資金洗浄の死角を広げるとの見方も出た。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国特金法修订引争议，1韩元转账也或适用旅行规则",
+        "excerpt": "在12日国会研讨会上，有观点指出特金法施行令修订案可能偏离全球标准，过度旅行规则监管反而会扩大洗钱监管盲区。",
+        "body": "12日，在韩国国会举行的特金法施行令修订案相关研讨会上，围绕虚拟资产监管方向的担忧被提出。与会者批评称，修订案可能把小额转移也纳入旅行规则适用范围，并质疑“只转1韩元也要适用旅行规则吗”。这一争议的背景是，美国正要求发行方承担冻结、销毁等控制义务，而韩国特金法在旅行规则等方面可能与全球标准背道而驰。也有观点认为，过度监管可能压缩合法市场，反而扩大洗钱监管盲区。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La reforma cripto de Corea inquieta por aplicar la Travel Rule incluso a 1 won",
+        "excerpt": "En un seminario parlamentario del 12 de mayo, expertos advirtieron que la reforma de la ley coreana podría alejarse de estándares globales y ampliar zonas ciegas antilavado.",
+        "body": "En un seminario celebrado el 12 de mayo en la Asamblea Nacional sobre la revisión del decreto de aplicación de la Ley de Información Financiera Específica de Corea, se plantearon preocupaciones sobre la regulación de activos virtuales. Los participantes criticaron que la reforma pueda extender la Travel Rule incluso a transferencias mínimas, preguntando si enviar solo 1 won también activaría esa obligación. El debate surge mientras Estados Unidos exige a los emisores controles como congelación y quema, mientras la norma coreana podría ir contra estándares globales. También se advirtió que una regulación excesiva podría reducir el mercado legal y ampliar puntos ciegos de lavado de dinero. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Reforma cripto da Coreia gera alerta sobre Travel Rule até para 1 won",
+        "excerpt": "Em seminário no Parlamento em 12 de maio, participantes alertaram que a revisão da lei coreana pode contrariar padrões globais e ampliar brechas contra lavagem de dinheiro.",
+        "body": "Em seminário realizado em 12 de maio na Assembleia Nacional sobre a revisão do decreto de execução da Lei de Informações Financeiras Específicas da Coreia, surgiram preocupações sobre o rumo da regulação de ativos virtuais. Participantes criticaram a possibilidade de a proposta ampliar a Travel Rule até para transferências de baixo valor, questionando se enviar apenas 1 won também exigiria cumprimento da regra. O debate ocorre enquanto os EUA exigem que emissores tenham controles como congelamento e queima, ao passo que a lei coreana pode divergir de padrões globais. O alerta é que regulação excessiva pode encolher o mercado legal e ampliar pontos cegos de lavagem de dinheiro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas Kryptoreform kritisiert: Travel Rule womöglich schon bei 1 Won",
+        "excerpt": "Bei einem Seminar im Parlament am 12. Mai warnten Teilnehmer, Koreas Reform der Krypto-AML-Regeln könne globalen Standards widersprechen und Geldwäsche-Blindstellen vergrößern.",
+        "body": "Bei einem Seminar in der Nationalversammlung am 12. Mai zur Änderung der Durchführungsverordnung des koreanischen Gesetzes über spezifische Finanzinformationen wurden Bedenken zur Regulierung virtueller Vermögenswerte geäußert. Teilnehmer kritisierten, dass die Reform selbst Kleinstüberweisungen unter die Travel Rule fallen lassen könnte, und fragten, ob schon 1 Won ausreiche. Hintergrund ist, dass die USA Emittenten zu Kontrollmöglichkeiten wie Einfrieren und Vernichten verpflichten, während Koreas Regeln bei der Travel Rule globalen Standards zuwiderlaufen könnten. Gewarnt wurde auch, übermäßige Regulierung könne legale Märkte schwächen und Geldwäsche-Blindstellen vergrößern. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Réforme crypto coréenne: la Travel Rule pourrait viser même 1 won",
+        "excerpt": "Lors d’un séminaire parlementaire le 12 mai, des intervenants ont averti que la réforme coréenne pourrait s’écarter des normes mondiales et élargir les angles morts anti-blanchiment.",
+        "body": "Lors d’un séminaire tenu le 12 mai à l’Assemblée nationale sur la révision du décret d’application de la loi coréenne sur les informations financières spécifiques, des inquiétudes ont été exprimées sur la régulation des actifs virtuels. Des participants ont critiqué le risque d’étendre la Travel Rule même aux transferts minimes, demandant si l’envoi d’un seul won serait concerné. Le débat intervient alors que les États-Unis imposent aux émetteurs des contrôles comme le gel et la destruction, tandis que la loi coréenne pourrait s’écarter des normes mondiales. Une régulation excessive pourrait affaiblir le marché légal et accroître les zones aveugles du blanchiment. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جدل حول قانون كوري للعملات المشفرة: هل تطبق قاعدة السفر على وون واحد؟",
+        "excerpt": "في ندوة بالجمعية الوطنية يوم 12 مايو، حذر مشاركون من أن تعديل قواعد مكافحة غسل الأموال الكورية قد يخالف المعايير العالمية ويوسع الثغرات الرقابية.",
+        "body": "في ندوة عقدت بالجمعية الوطنية في 12 مايو بشأن تعديل المرسوم التنفيذي لقانون المعلومات المالية الخاصة في كوريا، أثيرت مخاوف حول اتجاه تنظيم الأصول الافتراضية. وانتقد مشاركون احتمال توسيع تطبيق قاعدة السفر ليشمل التحويلات الصغيرة جدا، متسائلين عما إذا كان إرسال وون واحد فقط سيخضع لها. يأتي الجدل بينما تتجه الولايات المتحدة إلى إلزام الجهات المصدرة بآليات تحكم مثل التجميد والحرق، في حين قد تسير القواعد الكورية، ومنها قاعدة السفر، عكس المعايير العالمية. وحذر المشاركون من أن الإفراط في التنظيم قد يضعف السوق القانونية ويوسع ثغرات مكافحة غسل الأموال. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरिया के क्रिप्टो नियमों पर विवाद, 1 वॉन भेजने पर भी Travel Rule?",
+        "excerpt": "12 मई को नेशनल असेंबली सेमिनार में चेतावनी दी गई कि कोरिया का संशोधन वैश्विक मानकों से हट सकता है और अत्यधिक Travel Rule नियमन मनी लॉन्ड्रिंग की अनदेखी बढ़ा सकता है।",
+        "body": "12 मई को नेशनल असेंबली में कोरिया के Specific Financial Information Act के प्रवर्तन आदेश संशोधन पर हुए सेमिनार में वर्चुअल एसेट नियमों की दिशा पर चिंता जताई गई। प्रतिभागियों ने आलोचना की कि संशोधन बहुत छोटी रकम के ट्रांसफर तक Travel Rule लागू कर सकता है और पूछा कि क्या सिर्फ 1 वॉन भेजने पर भी यह नियम लागू होगा। पृष्ठभूमि में अमेरिका का वह रुझान है जिसमें जारीकर्ताओं पर फ्रीज और बर्न जैसे नियंत्रण दायित्व लगाए जा रहे हैं, जबकि कोरियाई कानून Travel Rule सहित वैश्विक मानकों से उलट जा सकता है। चेतावनी दी गई कि अत्यधिक नियमन वैध बाजार को सिकोड़कर मनी लॉन्ड्रिंग की अनदेखी बढ़ा सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Revisi Aturan Kripto Korea Dipersoalkan, Travel Rule Bisa Kena 1 Won",
+        "excerpt": "Dalam seminar parlemen 12 Mei, peserta menilai revisi aturan Korea dapat bertentangan dengan standar global dan regulasi Travel Rule berlebihan bisa memperbesar celah pencucian uang.",
+        "body": "Dalam seminar di Majelis Nasional pada 12 Mei terkait revisi aturan pelaksana Undang-Undang Informasi Keuangan Khusus Korea, muncul kekhawatiran atas arah regulasi aset virtual. Peserta mengkritik kemungkinan revisi itu memperluas Travel Rule hingga transfer bernilai sangat kecil, dengan pertanyaan apakah mengirim 1 won saja juga harus tunduk pada aturan tersebut. Perdebatan ini terjadi saat AS mewajibkan penerbit memiliki kontrol seperti pembekuan dan pembakaran, sementara aturan Korea dinilai bisa berlawanan dengan standar global. Regulasi berlebihan juga diperingatkan dapat menyusutkan pasar legal dan justru memperbesar celah pencucian uang. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "410f4981606c",
+    "slug": "ib의-변심은-무죄씨티-삼성전자-목표주가-일주일만에-30만원46만원-상향-이유-들어보니-786828",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T17:50:28.620Z",
+    "updatedAt": "2026-05-12T17:50:28.620Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044846",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044846",
+    "titleFingerprint": "11ebfe9748bab6770721a7a2556472d20945df9e",
+    "dedupKeys": [
+      "410f4981606cbed7449250242f46f03d5446d795",
+      "11ebfe9748bab6770721a7a2556472d20945df9e",
+      "b0fb05db129e4ebcc492d84ace30231210c8d919"
+    ],
+    "imageUrl": "/images/articles/410f4981606c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 목표주가 46만원으로 상향…씨티가 본 메모리 반등 신호",
+        "excerpt": "씨티그룹은 최근 삼성전자 목표주가를 일주일 만에 30만원에서 46만원으로 올리고, SOCAMM2·HBM 가격 상승과 메모리 업황 개선 가능성을 근거로 제시했다.",
+        "body": "글로벌 투자은행 씨티그룹은 최근 삼성전자 목표주가를 일주일 만에 30만원에서 46만원으로 상향했다. 조정 배경으로는 SOCAMM2와 HBM 가격 상승에 따른 실적 전망 개선이 제시됐다. 씨티는 SK하이닉스 목표주가도 310만원으로 82% 올렸다. 파업 리스크를 반영하더라도 메모리 업황의 개선 여지가 크다는 판단이다. 이번 보고서는 고부가 메모리 가격 흐름과 실적 추정치 변화가 국내 반도체 대형주 평가에 영향을 주고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electronics Target Raised to 460,000 Won as Citi Sees Memory Upside",
+        "excerpt": "Citi Group recently lifted Samsung Electronics’ target price from 300,000 won to 460,000 won within a week, citing higher SOCAMM2 and HBM prices and room for memory-market recovery.",
+        "body": "Global investment bank Citi Group recently raised its target price for Samsung Electronics from 300,000 won to 460,000 won within one week. The revision was based on improved earnings forecasts tied to rising SOCAMM2 and HBM prices. Citi also lifted its target price for SK Hynix by 82% to 3.1 million won. Even after reflecting strike-related risks, the bank judged that the memory market still has significant room to improve. The report shows how high-value memory price trends and earnings estimate changes are affecting valuations of major Korean semiconductor stocks. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電子目標株価46万ウォンへ、シティが見たメモリー回復余地",
+        "excerpt": "シティグループは最近、サムスン電子の目標株価を1週間で30万ウォンから46万ウォンへ引き上げ、SOCAMM2・HBM価格上昇とメモリー市況改善を理由に挙げた。",
+        "body": "グローバル投資銀行のシティグループは最近、サムスン電子の目標株価を1週間で30万ウォンから46万ウォンに引き上げた。修正の背景には、SOCAMM2とHBMの価格上昇による業績見通しの改善がある。シティはSKハイニックスの目標株価も82％引き上げ、310万ウォンとした。ストライキリスクを反映しても、メモリー市況にはなお改善余地が大きいとの判断だ。今回の報告書は、高付加価値メモリーの価格動向と業績予想の変化が韓国半導体大手の評価に影響していることを示す。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电子目标价上调至46万韩元，花旗看好存储器复苏空间",
+        "excerpt": "花旗集团近日将三星电子目标价在一周内从30万韩元上调至46万韩元，理由是SOCAMM2、HBM价格上涨以及存储器景气改善空间扩大。",
+        "body": "全球投资银行花旗集团近日将三星电子目标股价在一周内从30万韩元上调至46万韩元。上调背景是SOCAMM2和HBM价格上涨带动业绩预期改善。花旗还将SK海力士目标价上调82%至310万韩元。该行认为，即使反映罢工风险，存储器行业景气仍有较大改善空间。此次报告显示，高附加值存储器价格走势和盈利预测变化，正在影响韩国主要半导体股票的估值。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electronics sube a 460.000 wones como objetivo tras la revisión de Citi",
+        "excerpt": "Citi Group elevó recientemente el precio objetivo de Samsung Electronics de 300.000 a 460.000 wones en una semana, por el alza de SOCAMM2 y HBM y la mejora prevista en memoria.",
+        "body": "El banco de inversión global Citi Group elevó recientemente el precio objetivo de Samsung Electronics de 300.000 a 460.000 wones en solo una semana. La revisión se apoyó en mejores previsiones de resultados por el aumento de los precios de SOCAMM2 y HBM. Citi también subió el objetivo de SK Hynix un 82%, hasta 3,1 millones de wones. Aun incorporando el riesgo de huelga, el banco considera que el mercado de memoria conserva amplio margen de mejora. El informe muestra cómo los precios de memorias de alto valor y los cambios en estimaciones de beneficios influyen en las grandes acciones coreanas de semiconductores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electronics tem preço-alvo elevado a 460 mil wons pelo Citi",
+        "excerpt": "O Citi Group elevou recentemente o preço-alvo da Samsung Electronics de 300 mil para 460 mil wons em uma semana, citando alta de SOCAMM2 e HBM e melhora no mercado de memória.",
+        "body": "O banco global de investimento Citi Group elevou recentemente o preço-alvo da Samsung Electronics de 300 mil para 460 mil wons em apenas uma semana. A revisão foi atribuída à melhora das projeções de lucro com a alta dos preços de SOCAMM2 e HBM. O Citi também aumentou o preço-alvo da SK Hynix em 82%, para 3,1 milhões de wons. Mesmo considerando o risco de greve, o banco avaliou que ainda há amplo espaço para melhora no setor de memória. O relatório mostra que os preços de memórias de maior valor agregado e as mudanças nas estimativas de resultados influenciam a avaliação das grandes empresas coreanas de semicondutores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electronics Kursziel steigt auf 460.000 Won: Citi sieht Speicherpotenzial",
+        "excerpt": "Citi Group hob das Kursziel für Samsung Electronics binnen einer Woche von 300.000 auf 460.000 Won an und verwies auf steigende SOCAMM2- und HBM-Preise sowie bessere Speicheraussichten.",
+        "body": "Die globale Investmentbank Citi Group hat das Kursziel für Samsung Electronics zuletzt innerhalb einer Woche von 300.000 auf 460.000 Won angehoben. Grundlage der Anpassung sind verbesserte Ergebniserwartungen durch steigende Preise für SOCAMM2 und HBM. Auch das Kursziel für SK Hynix erhöhte Citi um 82% auf 3,1 Millionen Won. Selbst unter Berücksichtigung von Streikrisiken sieht die Bank erheblichen Spielraum für eine Verbesserung des Speichermarkts. Der Bericht zeigt, dass Preisentwicklungen bei hochwertigen Speicherprodukten und veränderte Gewinnschätzungen die Bewertung großer koreanischer Halbleiterwerte beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electronics visé à 460 000 wons par Citi sur fond de reprise mémoire",
+        "excerpt": "Citi Group a récemment relevé l’objectif de Samsung Electronics de 300 000 à 460 000 wons en une semaine, citant la hausse des prix SOCAMM2 et HBM et l’amélioration du marché mémoire.",
+        "body": "La banque d’investissement mondiale Citi Group a récemment relevé l’objectif de cours de Samsung Electronics de 300 000 à 460 000 wons en une semaine. Cette révision repose sur de meilleures perspectives de résultats liées à la hausse des prix du SOCAMM2 et du HBM. Citi a aussi augmenté de 82% son objectif sur SK Hynix, à 3,1 millions de wons. Même en tenant compte du risque de grève, la banque estime que le marché de la mémoire conserve une importante marge d’amélioration. Le rapport montre que l’évolution des prix des mémoires à forte valeur ajoutée et les changements d’estimations de bénéfices pèsent sur la valorisation des grands groupes coréens de semi-conducteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سعر سامسونغ إلكترونيكس المستهدف يرتفع إلى 460 ألف وون بدعم ذاكرات HBM",
+        "excerpt": "رفعت سيتي غروب مؤخرا السعر المستهدف لسامسونغ إلكترونيكس من 300 ألف إلى 460 ألف وون خلال أسبوع، مستندة إلى صعود أسعار SOCAMM2 وHBM وتحسن آفاق سوق الذاكرة.",
+        "body": "رفعت مجموعة سيتي غروب، وهي بنك استثمار عالمي، السعر المستهدف لسهم سامسونغ إلكترونيكس مؤخرا من 300 ألف وون إلى 460 ألف وون خلال أسبوع واحد. وجاء التعديل بناء على تحسن توقعات الأرباح مع ارتفاع أسعار SOCAMM2 وHBM. كما رفعت سيتي السعر المستهدف لسهم SK Hynix بنسبة 82% إلى 3.1 مليون وون. وترى المجموعة أنه حتى بعد احتساب مخاطر الإضراب، لا يزال لدى سوق الذاكرة مجال كبير للتحسن. ويظهر التقرير أن اتجاهات أسعار الذاكرة عالية القيمة وتغير تقديرات الأرباح تؤثر في تقييم أسهم أشباه الموصلات الكورية الكبرى. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सैमसंग इलेक्ट्रॉनिक्स लक्ष्य 460,000 वॉन, Citi ने मेमोरी सुधार पर दांव बढ़ाया",
+        "excerpt": "Citi Group ने हाल में Samsung Electronics का लक्ष्य मूल्य एक सप्ताह में 300,000 वॉन से 460,000 वॉन किया, वजह SOCAMM2 और HBM कीमतों में तेजी तथा मेमोरी बाजार में सुधार की गुंजाइश है।",
+        "body": "वैश्विक निवेश बैंक Citi Group ने हाल में Samsung Electronics का लक्ष्य मूल्य एक सप्ताह के भीतर 300,000 वॉन से बढ़ाकर 460,000 वॉन कर दिया। इस बदलाव की वजह SOCAMM2 और HBM की कीमतों में बढ़ोतरी से आय अनुमान में सुधार बताई गई। Citi ने SK Hynix का लक्ष्य मूल्य भी 82% बढ़ाकर 31 लाख वॉन किया। बैंक का आकलन है कि हड़ताल जोखिम को शामिल करने के बाद भी मेमोरी उद्योग में सुधार की पर्याप्त गुंजाइश है। यह रिपोर्ट दिखाती है कि उच्च मूल्य वाली मेमोरी की कीमतों का रुझान और आय अनुमानों में बदलाव कोरियाई सेमीकंडक्टर बड़ी कंपनियों के मूल्यांकन को प्रभावित कर रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target Samsung Electronics Naik ke 460.000 Won, Citi Soroti Pemulihan Memori",
+        "excerpt": "Citi Group baru-baru ini menaikkan target harga Samsung Electronics dari 300.000 menjadi 460.000 won dalam sepekan, didorong kenaikan harga SOCAMM2 dan HBM serta prospek pemulihan memori.",
+        "body": "Bank investasi global Citi Group baru-baru ini menaikkan target harga Samsung Electronics dari 300.000 won menjadi 460.000 won dalam satu pekan. Revisi itu didasarkan pada membaiknya proyeksi kinerja akibat kenaikan harga SOCAMM2 dan HBM. Citi juga menaikkan target harga SK Hynix sebesar 82% menjadi 3,1 juta won. Meski memperhitungkan risiko pemogokan, bank tersebut menilai industri memori masih memiliki ruang perbaikan yang besar. Laporan ini menunjukkan bahwa tren harga memori bernilai tambah tinggi dan perubahan estimasi laba memengaruhi valuasi saham semikonduktor besar Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f79fb72009e2",
     "slug": "머니쇼-다시보기-오픈-484813",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Target Harga S-Oil Dinaikkan, Volatilitas Minyak dan Margin Kilang Tetap Jadi Fokus",
         "excerpt": "Shinhan Securities menaikkan target harga S-Oil karena menilai harga minyak dan margin kilang tetap berpotensi volatil bahkan setelah perang berakhir, lapor hankyung.com.",
         "body": "Shinhan Securities menaikkan target harga S-Oil sambil menilai bahwa volatilitas harga minyak internasional dan margin kilang dapat berlanjut bahkan setelah perang berakhir, lapor hankyung.com. Penilaian ini didasarkan pada pandangan bahwa berakhirnya perang tidak langsung menghapus ketidakpastian di pasar energi. Harga minyak mentah dan margin kilang merupakan variabel utama yang secara langsung memengaruhi profitabilitas perusahaan penyulingan, sementara fluktuasi yang lebih lebar dapat berdampak pada proyeksi kinerja dan sentimen investor. Menurut laporan tersebut, Shinhan mencerminkan kondisi ini dalam kenaikan target harga S-Oil. Informasi sumber yang diberikan tidak memuat target harga pasti atau angka rinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "accaa227639f",
-    "slug": "에스오일-유가-안정화-이후-본격-반등-전망-889558",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T23:31:48.029Z",
-    "updatedAt": "2026-05-11T23:31:48.029Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044220",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044220",
-    "titleFingerprint": "a2dd7108ad24ae4221b6ad1716051ff80186b4c1",
-    "dedupKeys": [
-      "accaa227639feec48894f2e5ee59e2835d776f46",
-      "a2dd7108ad24ae4221b6ad1716051ff80186b4c1",
-      "a2616a71feabc56a5c3ef11560bc7fd74c5a51e6"
-    ],
-    "imageUrl": "/images/articles/accaa227639f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에스오일, 유가 안정화 후 반등 기대…하나증권 목표가 13만원 유지",
-        "excerpt": "하나증권은 12일 에스오일에 대해 유가 안정화 이후 본격 반등이 가능할 것으로 보고 목표주가 13만원과 투자의견 ‘매수’를 유지했다.",
-        "body": "하나증권은 12일 에스오일(S-Oil)에 대해 유가 안정화 이후 본격적인 반등이 전망된다고 밝혔다. 보고서는 기존 목표주가 13만원을 유지했으며, 투자의견도 기존 ‘매수(BUY)’를 그대로 제시했다. 원문에 따르면 이번 판단의 핵심 배경은 유가 안정화 이후 실적과 투자심리 회복 가능성에 있다. 목표주가와 투자의견이 모두 유지됐다는 점은 증권사가 기존 평가를 바꾸지 않았다는 의미다. 다만 기사에 공개된 정보는 유가 안정화 이후 반등 전망과 목표주가 13만원 유지, 매수 의견 유지에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "S-Oil Rebound Seen After Oil Price Stabilization, Hana Keeps W130,000 Target",
-        "excerpt": "Hana Securities said on the 12th that S-Oil could rebound in earnest after oil prices stabilize, maintaining its W130,000 target price and BUY rating.",
-        "body": "Hana Securities said on the 12th that S-Oil is expected to stage a full rebound after oil prices stabilize. The firm maintained its existing target price of 130,000 won and also kept its investment rating at “BUY.” According to the original report, the key basis for the view is the possibility of recovery once oil prices become stable. Keeping both the target price and the rating unchanged indicates that the brokerage did not revise its existing assessment. The disclosed article information is limited to the rebound outlook after oil price stabilization, the 130,000 won target price, and the maintained BUY opinion. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "S-Oil、原油価格安定後に本格反発見通し…ハナ証券が目標13万ウォン維持",
-        "excerpt": "ハナ証券は12日、S-Oilについて原油価格の安定後に本格反発が見込まれるとして、目標株価13万ウォンと「買い」判断を維持した。",
-        "body": "ハナ証券は12日、S-Oilについて、原油価格が安定した後に本格的な反発が見込まれると明らかにした。同証券は従来の目標株価13万ウォンを維持し、投資判断も従来の「買い（BUY）」を据え置いた。原文によると、今回の判断の中心は原油価格安定後の回復可能性にある。目標株価と投資判断の双方が維持されたことは、証券会社が従来の評価を変更しなかったことを意味する。ただし、記事で公開された情報は、原油価格安定後の反発見通し、目標株価13万ウォン維持、買い判断維持に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "S-Oil油价稳定后有望反弹，韩亚证券维持13万韩元目标价",
-        "excerpt": "韩亚证券12日表示，S-Oil在油价稳定后有望正式反弹，并维持13万韩元目标价及“买入”投资评级。",
-        "body": "韩亚证券12日表示，S-Oil在油价稳定后预计将迎来正式反弹。该机构维持原有13万韩元目标价，同时继续维持“买入（BUY）”投资评级。根据原文，此次判断的核心背景在于油价稳定后业绩和投资情绪存在恢复可能。目标价和投资评级均未调整，意味着证券公司没有改变此前对该股的基本评价。不过，报道公开的信息仅限于油价稳定后的反弹展望、13万韩元目标价维持，以及买入评级维持。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "S-Oil podría repuntar tras estabilizarse el crudo; Hana mantiene meta de 130.000 wones",
-        "excerpt": "Hana Securities dijo el día 12 que S-Oil podría repuntar con fuerza tras la estabilización del petróleo y mantuvo su precio objetivo de 130.000 wones y recomendación de compra.",
-        "body": "Hana Securities señaló el día 12 que S-Oil podría iniciar un repunte pleno después de que los precios del petróleo se estabilicen. La firma mantuvo su precio objetivo previo de 130.000 wones y también conservó la recomendación de inversión en “compra (BUY)”. Según el reporte original, la base principal de esta evaluación es la posibilidad de recuperación una vez que el crudo se estabilice. Que tanto el precio objetivo como la recomendación se mantengan sin cambios indica que la correduría no modificó su valoración anterior. La información publicada se limita a la perspectiva de repunte tras la estabilización del petróleo, el objetivo de 130.000 wones y la recomendación de compra. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "S-Oil pode reagir após estabilização do petróleo; Hana mantém alvo de 130 mil won",
-        "excerpt": "A Hana Securities afirmou no dia 12 que a S-Oil pode ganhar força após a estabilização do petróleo, mantendo preço-alvo de 130 mil won e recomendação de compra.",
-        "body": "A Hana Securities informou no dia 12 que a S-Oil deve apresentar uma recuperação mais firme após a estabilização dos preços do petróleo. A corretora manteve o preço-alvo anterior de 130 mil won e também preservou a recomendação de investimento em “compra (BUY)”. Segundo o texto original, o ponto central da avaliação é a possibilidade de recuperação depois que o petróleo se estabilizar. A manutenção simultânea do preço-alvo e da recomendação mostra que a instituição não alterou sua avaliação existente. As informações divulgadas se limitam à perspectiva de alta após a estabilização do petróleo, ao preço-alvo de 130 mil won e à recomendação de compra mantida. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "S-Oil mit Erholungschance nach Ölpreis-Stabilisierung, Hana hält Ziel bei 130.000 Won",
-        "excerpt": "Hana Securities erklärte am 12., S-Oil könne nach einer Stabilisierung der Ölpreise deutlich anziehen, und beließ Kursziel und Kaufempfehlung unverändert.",
-        "body": "Hana Securities erklärte am 12., dass S-Oil nach einer Stabilisierung der Ölpreise eine stärkere Erholung erwarten lasse. Das Analysehaus beließ das bisherige Kursziel von 130.000 Won unverändert und bestätigte zugleich die Anlageempfehlung „BUY“. Nach dem Originalbericht liegt der Kern dieser Einschätzung in der möglichen Erholung nach stabileren Ölpreisen. Dass sowohl Kursziel als auch Empfehlung beibehalten wurden, zeigt, dass die Wertpapierfirma ihre bisherige Bewertung nicht geändert hat. Die im Artikel genannten Informationen beschränken sich auf die Erholungsperspektive nach der Ölpreis-Stabilisierung, das Kursziel von 130.000 Won und die bestätigte Kaufempfehlung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "S-Oil attendu en rebond après stabilisation du pétrole, Hana maintient 130 000 wons",
-        "excerpt": "Hana Securities a indiqué le 12 que S-Oil pourrait rebondir après la stabilisation des prix du pétrole, en maintenant son objectif de 130 000 wons et son avis d’achat.",
-        "body": "Hana Securities a déclaré le 12 que S-Oil devrait connaître un rebond plus net après la stabilisation des prix du pétrole. La société a maintenu son objectif de cours existant à 130 000 wons et a également conservé sa recommandation d’investissement à « achat (BUY) ». Selon l’article original, l’élément central de cette analyse est la possibilité d’une reprise une fois les prix du pétrole stabilisés. Le maintien à la fois de l’objectif de cours et de la recommandation signifie que la maison de courtage n’a pas modifié son évaluation précédente. Les informations publiées se limitent à la perspective de rebond après stabilisation du pétrole, à l’objectif de 130 000 wons et à l’avis d’achat maintenu. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إس أويل مرشحة للارتداد بعد استقرار النفط وهانا تبقي الهدف عند 130 ألف وون",
-        "excerpt": "قالت هانا للأوراق المالية في اليوم 12 إن إس أويل قد ترتد بقوة بعد استقرار أسعار النفط، مع الإبقاء على السعر المستهدف عند 130 ألف وون وتوصية الشراء.",
-        "body": "ذكرت هانا للأوراق المالية في اليوم 12 أن شركة إس أويل S-Oil من المتوقع أن تشهد ارتدادا فعليا بعد استقرار أسعار النفط. وأبقت الشركة على السعر المستهدف السابق عند 130 ألف وون، كما حافظت على توصية الاستثمار عند «شراء (BUY)». ووفقا للنص الأصلي، يرتبط أساس هذا التقييم بإمكان التعافي بعد استقرار أسعار النفط. إن بقاء السعر المستهدف والتوصية من دون تغيير يعني أن شركة الأوراق المالية لم تعدل تقييمها السابق. وتقتصر المعلومات المنشورة في الخبر على توقع الارتداد بعد استقرار النفط، والإبقاء على السعر المستهدف البالغ 130 ألف وون، واستمرار توصية الشراء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "S-Oil में तेल कीमत स्थिर होने के बाद तेजी की उम्मीद, Hana ने 130,000 वॉन लक्ष्य रखा",
-        "excerpt": "Hana Securities ने 12 तारीख को कहा कि तेल कीमतों के स्थिर होने के बाद S-Oil में मजबूत रिकवरी संभव है, और 130,000 वॉन लक्ष्य मूल्य व BUY रेटिंग बरकरार रखी।",
-        "body": "Hana Securities ने 12 तारीख को S-Oil के बारे में कहा कि तेल कीमतों के स्थिर होने के बाद इसमें वास्तविक रिकवरी की संभावना है। फर्म ने अपना मौजूदा लक्ष्य मूल्य 130,000 वॉन बनाए रखा और निवेश राय भी “BUY” पर बरकरार रखी। मूल रिपोर्ट के अनुसार, इस आकलन का मुख्य आधार तेल कीमतों की स्थिरता के बाद सुधार की संभावना है। लक्ष्य मूल्य और निवेश राय दोनों को बनाए रखना बताता है कि ब्रोकरेज ने अपने पूर्व मूल्यांकन में बदलाव नहीं किया। प्रकाशित जानकारी केवल तेल कीमत स्थिर होने के बाद रिकवरी की संभावना, 130,000 वॉन लक्ष्य मूल्य, और BUY राय बरकरार रहने तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "S-Oil Diproyeksi Rebound Setelah Harga Minyak Stabil, Hana Pertahankan Target 130 Ribu Won",
-        "excerpt": "Hana Securities pada tanggal 12 menyatakan S-Oil berpotensi rebound setelah harga minyak stabil, sambil mempertahankan target harga 130 ribu won dan rekomendasi beli.",
-        "body": "Hana Securities pada tanggal 12 menyatakan bahwa S-Oil diperkirakan dapat mencatat rebound penuh setelah harga minyak stabil. Perusahaan sekuritas tersebut mempertahankan target harga sebelumnya sebesar 130 ribu won dan juga tetap memberi rekomendasi investasi “beli (BUY)”. Menurut laporan asli, dasar utama penilaian ini adalah kemungkinan pemulihan setelah stabilisasi harga minyak. Dipertahankannya target harga dan rekomendasi menunjukkan bahwa sekuritas tidak mengubah penilaian sebelumnya. Informasi dalam artikel hanya mencakup prospek rebound setelah harga minyak stabil, target harga 130 ribu won, dan rekomendasi beli yang tetap dipertahankan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "04fcca44faea",
-    "slug": "삼성sk두산-주가-날더니-결국50대-그룹-시총-5400조-자산-첫-추월-155716",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T23:30:46.567Z",
-    "updatedAt": "2026-05-11T23:30:46.567Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044225",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044225",
-    "titleFingerprint": "68647646b1db59b03bb2177163826fa35fa02bca",
-    "dedupKeys": [
-      "04fcca44faead5505b06470794c053c27b5bcfce",
-      "68647646b1db59b03bb2177163826fa35fa02bca",
-      "a9f9b4155397d7eacfa84a80525e936b263d3e4f"
-    ],
-    "imageUrl": "/images/articles/04fcca44faea.jpg",
-    "i18n": {
-      "ko": {
-        "title": "50대 그룹 시총 5400조원 돌파, 삼성·SK·두산 강세에 자산 첫 추월",
-        "excerpt": "국내 50대 그룹 시가총액이 5년 새 187% 늘어 5400조원대에 이르며 공정자산을 처음 넘어섰다. 두산은 자산 대비 시총 비율 4.39배로 가장 높았다.",
-        "body": "국내 50대 그룹의 시가총액이 최근 5년 사이 급증하며 처음으로 공정자산을 넘어섰다. 삼성, SK, 두산 등 주요 그룹 주가가 강세를 보인 영향으로 50대 그룹 시총은 5400조원대에 도달했다. 같은 기간 시가총액은 187% 증가한 반면 자산은 51% 늘어나는 데 그쳤다. 이에 따라 자산 대비 시총 비율은 0.87배에서 1.66배로 높아졌다. 그룹별로는 두산이 4.39배로 가장 높았고, SK와 삼성이 뒤를 이었다. 자산 규모보다 시장 평가가 더 빠르게 커진 만큼 대형 그룹의 주가 흐름과 기업가치 재평가가 향후 시장의 핵심 변수로 주목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Top 50 Korean Groups’ Market Value Tops 5,400 Trillion Won, Assets Overtaken",
-        "excerpt": "The market capitalization of Korea’s 50 largest groups rose 187% over five years to the 5,400 trillion won range, surpassing fair assets for the first time, led by Samsung, SK and Doosan.",
-        "body": "The market capitalization of South Korea’s 50 largest business groups has surged over the past five years and exceeded their fair assets for the first time. Strong share prices at major groups including Samsung, SK and Doosan helped lift their combined market value to the 5,400 trillion won range. During the same period, market capitalization increased 187%, while assets rose 51%. As a result, the market-cap-to-assets ratio climbed from 0.87 times to 1.66 times. By group, Doosan posted the highest ratio at 4.39 times, followed by SK and Samsung. As market valuations have expanded faster than asset size, large-group share trends and corporate value reappraisals are set to remain key market factors. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国50大グループ時価総額5400兆ウォン台、三星・SK・斗山高で資産初超え",
-        "excerpt": "韓国50大グループの時価総額は5年で187%増え5400兆ウォン台に達し、公正資産を初めて上回った。斗山は資産比時価総額4.39倍で最高だった。",
-        "body": "韓国50大グループの時価総額がこの5年で急増し、初めて公正資産を上回った。三星、SK、斗山など主要グループの株価が堅調に推移した影響で、50大グループの時価総額は5400兆ウォン台に達した。同期間に時価総額は187%増加した一方、資産の伸びは51%にとどまった。この結果、資産に対する時価総額の比率は0.87倍から1.66倍へ上昇した。グループ別では斗山が4.39倍で最も高く、SKと三星が続いた。資産規模より市場評価が速く拡大したことで、大型グループの株価動向と企業価値の再評価が今後の市場の重要な焦点となる。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国50大集团市值达5400万亿韩元，三星SK斗山走强首次超资产",
-        "excerpt": "韩国50大集团市值5年增长187%，升至5400万亿韩元区间并首次超过公允资产。斗山资产对应市值比达4.39倍，位居最高。",
-        "body": "韩国50大集团的市值在过去5年间快速增长，并首次超过公允资产。受三星、SK、斗山等主要集团股价走强影响，50大集团总市值达到5400万亿韩元区间。同期，市值增长187%，而资产仅增加51%。因此，资产对应市值比率从0.87倍升至1.66倍。按集团来看，斗山以4.39倍居首，SK和三星随后。由于市场估值扩张速度快于资产规模增长，大型集团股价走势和企业价值重估将成为今后市场关注的核心变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Los 50 mayores grupos de Corea superan 5.400 billones de wones en valor bursátil",
-        "excerpt": "La capitalización bursátil de los 50 mayores grupos de Corea creció 187% en cinco años y alcanzó los 5.400 billones de wones, superando por primera vez sus activos justos.",
-        "body": "La capitalización bursátil de los 50 mayores grupos empresariales de Corea del Sur aumentó con fuerza en los últimos cinco años y superó por primera vez sus activos justos. El avance de las acciones de grandes grupos como Samsung, SK y Doosan elevó su valor combinado hasta el rango de 5.400 billones de wones. En el mismo periodo, la capitalización subió 187%, mientras que los activos crecieron 51%. Así, la relación entre valor bursátil y activos pasó de 0,87 veces a 1,66 veces. Por grupos, Doosan registró la proporción más alta, con 4,39 veces, seguido por SK y Samsung. Como la valoración de mercado ha crecido más rápido que los activos, la evolución bursátil y la revalorización corporativa de los grandes grupos serán variables clave. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "50 maiores grupos da Coreia chegam a 5.400 trilhões de won em valor de mercado",
-        "excerpt": "O valor de mercado dos 50 maiores grupos da Coreia cresceu 187% em cinco anos, chegou à faixa de 5.400 trilhões de won e superou pela primeira vez os ativos justos.",
-        "body": "O valor de mercado dos 50 maiores grupos empresariais da Coreia do Sul avançou fortemente nos últimos cinco anos e superou pela primeira vez seus ativos justos. A alta das ações de grandes grupos como Samsung, SK e Doosan levou a capitalização combinada à faixa de 5.400 trilhões de won. No mesmo período, o valor de mercado aumentou 187%, enquanto os ativos cresceram 51%. Com isso, a relação entre valor de mercado e ativos subiu de 0,87 vez para 1,66 vez. Por grupo, a Doosan registrou o maior índice, de 4,39 vezes, seguida por SK e Samsung. Como a avaliação de mercado cresceu mais rápido que o tamanho dos ativos, o desempenho das ações e a reavaliação do valor corporativo dos grandes grupos seguem como fatores centrais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Top-50-Konzerne Koreas erreichen 5.400 Billionen Won Börsenwert und überholen Assets",
-        "excerpt": "Der Börsenwert der 50 größten koreanischen Gruppen stieg in fünf Jahren um 187% auf rund 5.400 Billionen Won und übertraf erstmals die Fair-Assets. Doosan lag bei 4,39-mal.",
-        "body": "Die Marktkapitalisierung der 50 größten Unternehmensgruppen Südkoreas ist in den vergangenen fünf Jahren stark gestiegen und hat erstmals ihre Fair-Assets übertroffen. Kräftige Aktienkurse großer Gruppen wie Samsung, SK und Doosan hoben den gemeinsamen Börsenwert in den Bereich von 5.400 Billionen Won. Im selben Zeitraum legte die Marktkapitalisierung um 187% zu, während die Vermögenswerte nur um 51% wuchsen. Dadurch stieg das Verhältnis von Börsenwert zu Assets von 0,87 auf 1,66. Nach Gruppen lag Doosan mit 4,39 an der Spitze, gefolgt von SK und Samsung. Da die Marktbewertung schneller gewachsen ist als die Vermögensbasis, bleiben Aktienentwicklung und Neubewertung der Unternehmenswerte großer Gruppen zentrale Marktfaktoren. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les 50 grands groupes coréens dépassent 5 400 billions de wons en capitalisation",
-        "excerpt": "La capitalisation des 50 plus grands groupes coréens a bondi de 187% en cinq ans, atteignant 5 400 billions de wons et dépassant pour la première fois leurs actifs équitables.",
-        "body": "La capitalisation boursière des 50 plus grands groupes sud-coréens a fortement augmenté en cinq ans et a dépassé pour la première fois leurs actifs équitables. La vigueur des actions de grands groupes comme Samsung, SK et Doosan a porté leur valeur combinée dans la zone des 5 400 billions de wons. Sur la même période, la capitalisation a progressé de 187%, tandis que les actifs n’ont augmenté que de 51%. Le ratio capitalisation sur actifs est ainsi passé de 0,87 fois à 1,66 fois. Par groupe, Doosan affiche le niveau le plus élevé, à 4,39 fois, devant SK et Samsung. Comme la valorisation de marché croît plus vite que la taille des actifs, l’évolution boursière et la réévaluation de la valeur des grands groupes resteront des variables clés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "قيمة أكبر 50 مجموعة كورية تبلغ 5400 تريليون وون وتتجاوز الأصول لأول مرة",
-        "excerpt": "ارتفعت القيمة السوقية لأكبر 50 مجموعة كورية 187% خلال خمس سنوات إلى نطاق 5400 تريليون وون، متجاوزة الأصول العادلة لأول مرة، مع تصدر دوسان بنسبة 4.39 مرة.",
-        "body": "ارتفعت القيمة السوقية لأكبر 50 مجموعة أعمال في كوريا الجنوبية بقوة خلال السنوات الخمس الماضية وتجاوزت الأصول العادلة لأول مرة. وساعد صعود أسهم مجموعات كبرى مثل سامسونغ وSK ودوسان على رفع القيمة السوقية المجمعة إلى نطاق 5400 تريليون وون. وخلال الفترة نفسها زادت القيمة السوقية 187%، بينما ارتفعت الأصول 51% فقط. وبذلك صعدت نسبة القيمة السوقية إلى الأصول من 0.87 مرة إلى 1.66 مرة. وعلى مستوى المجموعات، سجلت دوسان أعلى نسبة عند 4.39 مرة، تلتها SK ثم سامسونغ. ومع نمو تقييمات السوق بوتيرة أسرع من حجم الأصول، تظل حركة أسهم المجموعات الكبرى وإعادة تقييم قيمتها من العوامل الرئيسية للسوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरिया के शीर्ष 50 समूहों का बाजार मूल्य 5,400 ट्रिलियन वॉन, पहली बार परिसंपत्तियों से ऊपर",
-        "excerpt": "कोरिया के 50 बड़े समूहों का बाजार पूंजीकरण पांच वर्षों में 187% बढ़कर 5,400 ट्रिलियन वॉन के दायरे में पहुंचा और पहली बार निष्पक्ष परिसंपत्तियों से आगे निकला।",
-        "body": "दक्षिण कोरिया के 50 सबसे बड़े कारोबारी समूहों का बाजार पूंजीकरण पिछले पांच वर्षों में तेज बढ़ा और पहली बार उनकी निष्पक्ष परिसंपत्तियों से ऊपर चला गया। सैमसंग, SK और डूसान जैसे प्रमुख समूहों के शेयरों में मजबूती से संयुक्त बाजार मूल्य 5,400 ट्रिलियन वॉन के दायरे में पहुंच गया। इसी अवधि में बाजार पूंजीकरण 187% बढ़ा, जबकि परिसंपत्तियां 51% ही बढ़ीं। इसके चलते परिसंपत्तियों के मुकाबले बाजार मूल्य का अनुपात 0.87 गुना से बढ़कर 1.66 गुना हो गया। समूहों में डूसान 4.39 गुना के साथ सबसे ऊपर रहा, उसके बाद SK और सैमसंग रहे। बाजार मूल्यांकन परिसंपत्ति आकार से तेज बढ़ने के कारण बड़े समूहों के शेयर रुझान और कॉरपोरेट वैल्यू का पुनर्मूल्यांकन आगे बाजार के प्रमुख कारक रहेंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Nilai Pasar 50 Grup Terbesar Korea Tembus 5.400 Triliun Won, Lampaui Aset",
-        "excerpt": "Kapitalisasi pasar 50 grup terbesar Korea naik 187% dalam lima tahun ke kisaran 5.400 triliun won dan untuk pertama kalinya melampaui aset wajar, dipimpin Samsung, SK, dan Doosan.",
-        "body": "Kapitalisasi pasar 50 grup bisnis terbesar Korea Selatan melonjak dalam lima tahun terakhir dan untuk pertama kalinya melampaui aset wajar mereka. Penguatan saham grup utama seperti Samsung, SK, dan Doosan mendorong nilai pasar gabungan ke kisaran 5.400 triliun won. Pada periode yang sama, kapitalisasi pasar naik 187%, sementara aset meningkat 51%. Akibatnya, rasio nilai pasar terhadap aset naik dari 0,87 kali menjadi 1,66 kali. Berdasarkan grup, Doosan mencatat rasio tertinggi sebesar 4,39 kali, diikuti SK dan Samsung. Karena valuasi pasar tumbuh lebih cepat daripada ukuran aset, pergerakan saham grup besar dan penilaian ulang nilai perusahaan akan tetap menjadi faktor utama pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6c110ec15059",
-    "slug": "엔비디아-올라탄-롯데에너지머티리얼즈-시총-4조-육박-708269",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T23:29:41.854Z",
-    "updatedAt": "2026-05-11T23:29:41.854Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044230",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044230",
-    "titleFingerprint": "2ac6b5e5458954ae9a795995d2449c5b4f3aae51",
-    "dedupKeys": [
-      "6c110ec15059018201260a3ec1459e6622f8b2b9",
-      "2ac6b5e5458954ae9a795995d2449c5b4f3aae51",
-      "7e0333f7cf17d1de465c5f083235743402114ec9"
-    ],
-    "imageUrl": "/images/articles/6c110ec15059.png",
-    "i18n": {
-      "ko": {
-        "title": "롯데에너지머티리얼즈, 엔비디아칩 소재 생산에 시총 4조원 육박",
-        "excerpt": "롯데에너지머티리얼즈가 올해 엔비디아칩 소재 생산 기대와 전기차 캐즘 탈피 흐름 속에 주가가 150% 넘게 오르며 시가총액 4조원에 근접했다.",
-        "body": "롯데에너지머티리얼즈가 올해 엔비디아칩 소재 본격 생산 기대를 타고 시가총액 4조원에 육박했다. 전기차 관련주 이미지에 묶여 전기차 캐즘, 즉 일시적 수요 부진 여파로 수년간 고전했지만, 엔비디아칩 소재 생산이 부각되며 투자심리가 바뀌고 있다. 올해 들어 주가는 150% 넘게 상승했다. 이 흐름은 기존 전기차 소재주에서 인공지능 반도체 공급망 관련주로 인식이 확장되는 계기가 되고 있다. 스틱인베스트먼트도 투자 7년 만에 대박을 기대할 수 있는 상황으로 전해졌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lotte Energy Materials Nears 4 Trillion Won Market Cap on Nvidia Chip Materials",
-        "excerpt": "Lotte Energy Materials has risen more than 150% this year as expectations grow for Nvidia chip material production, moving beyond its EV-related stock image.",
-        "body": "Lotte Energy Materials is nearing a market capitalization of 4 trillion won this year as expectations build around full-scale production of materials for Nvidia chips. The company had struggled for years under the impact of the EV chasm, a temporary slowdown in electric-vehicle demand, and was long viewed mainly as an EV-related stock. That perception is changing as Nvidia chip materials draw investor attention. Its share price has climbed more than 150% so far this year. The move suggests its image is expanding from an EV materials stock to a name linked with the AI semiconductor supply chain. STIC Investments is also said to be looking for a major payoff seven years after its investment. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロッテエナジーマテリアルズ、エヌビディア向け素材で時価総額4兆ウォン迫る",
-        "excerpt": "ロッテエナジーマテリアルズは今年、エヌビディア向けチップ素材生産への期待で株価が150%超上昇し、時価総額4兆ウォンに接近した。",
-        "body": "ロッテエナジーマテリアルズは今年、エヌビディア向けチップ素材の本格生産期待を追い風に、時価総額が4兆ウォンに迫っている。電気自動車関連株というイメージに縛られ、EVチズム、つまり一時的な需要低迷の影響で数年間苦戦してきたが、エヌビディア向け素材が注目され投資心理が変化している。今年に入って株価は150%超上昇した。この流れは、同社の認識が従来のEV素材株からAI半導体サプライチェーン関連株へ広がる契機になっている。スティックインベストメントも投資から7年で大きな成果を期待できる状況と伝えられている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "乐天能源材料借英伟达芯片材料升温，市值逼近4万亿韩元",
-        "excerpt": "乐天能源材料今年因英伟达芯片材料量产预期升温，摆脱电动车概念股形象，股价涨幅超过150%，市值接近4万亿韩元。",
-        "body": "乐天能源材料今年受英伟达芯片材料正式生产预期推动，市值已逼近4万亿韩元。该公司过去长期被视为电动车相关股票，并因电动车“需求寒冬”，即暂时性需求不振的影响而数年承压。不过，随着英伟达芯片材料受到关注，投资者情绪正在转变。今年以来，其股价涨幅已超过150%。这一变化使市场对公司的认知从传统电动车材料股，扩展至人工智能半导体供应链相关股票。报道还称，STIC Investment有望在投资7年后迎来可观回报。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lotte Energy Materials roza 4 billones de wones por materiales para chips Nvidia",
-        "excerpt": "Lotte Energy Materials sube más del 150% este año por las expectativas de producir materiales para chips Nvidia y dejar atrás su imagen ligada a vehículos eléctricos.",
-        "body": "Lotte Energy Materials se acerca este año a una capitalización de mercado de 4 billones de wones gracias a las expectativas de producción a gran escala de materiales para chips de Nvidia. La empresa había sufrido durante años por el chasm de los vehículos eléctricos, una desaceleración temporal de la demanda, y era vista sobre todo como una acción relacionada con ese sector. La atención sobre los materiales para chips de Nvidia está cambiando el ánimo inversor. Su acción ha subido más del 150% en lo que va de año. Este movimiento amplía su percepción desde proveedor de materiales para vehículos eléctricos hacia una compañía vinculada a la cadena de suministro de semiconductores de IA. STIC Investments también espera un gran resultado tras siete años de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lotte Energy Materials se aproxima de 4 trilhões de wons com materiais para chips Nvidia",
-        "excerpt": "A Lotte Energy Materials avança mais de 150% neste ano com expectativas de produzir materiais para chips Nvidia e superar a imagem ligada a veículos elétricos.",
-        "body": "A Lotte Energy Materials se aproxima neste ano de um valor de mercado de 4 trilhões de wons, impulsionada pela expectativa de produção em escala de materiais para chips da Nvidia. A empresa vinha enfrentando dificuldades por anos devido ao chasm dos veículos elétricos, uma fraqueza temporária da demanda, e era vista principalmente como uma ação ligada a esse setor. A atenção aos materiais para chips da Nvidia mudou o sentimento dos investidores. As ações já subiram mais de 150% no ano. Esse movimento amplia a percepção da companhia de fornecedora de materiais para veículos elétricos para nome ligado à cadeia de semicondutores de IA. A STIC Investments também é apontada como possível beneficiária de um grande retorno após sete anos de investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lotte Energy Materials nähert sich 4 Billionen Won dank Nvidia-Chipmaterialien",
-        "excerpt": "Lotte Energy Materials ist in diesem Jahr um mehr als 150% gestiegen, da Erwartungen an Nvidia-Chipmaterialien wachsen und das reine E-Auto-Image verblasst.",
-        "body": "Lotte Energy Materials nähert sich in diesem Jahr einer Marktkapitalisierung von 4 Billionen Won, gestützt auf Erwartungen an die umfassende Produktion von Materialien für Nvidia-Chips. Das Unternehmen hatte jahrelang unter dem EV-Chasm, einer vorübergehenden Nachfrageschwäche bei Elektrofahrzeugen, gelitten und wurde vor allem als E-Auto-bezogene Aktie wahrgenommen. Nun rücken Nvidia-Chipmaterialien in den Fokus und verändern die Anlegerstimmung. Der Aktienkurs ist seit Jahresbeginn um mehr als 150% gestiegen. Damit erweitert sich das Bild des Unternehmens von einem klassischen E-Auto-Materialwert zu einem Titel mit Bezug zur KI-Halbleiterlieferkette. Auch STIC Investments soll sieben Jahre nach dem Einstieg auf einen großen Erfolg hoffen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lotte Energy Materials frôle 4 billions de wons grâce aux matériaux pour puces Nvidia",
-        "excerpt": "Lotte Energy Materials gagne plus de 150% cette année, portée par les attentes autour des matériaux pour puces Nvidia et par un recul de son image liée aux VE.",
-        "body": "Lotte Energy Materials approche cette année une capitalisation boursière de 4 billions de wons grâce aux attentes liées à la production à grande échelle de matériaux pour les puces Nvidia. L’entreprise avait souffert pendant plusieurs années du chasm des véhicules électriques, une faiblesse temporaire de la demande, et restait surtout perçue comme une valeur liée aux VE. La mise en avant des matériaux pour puces Nvidia modifie désormais le sentiment des investisseurs. Son action a progressé de plus de 150% depuis le début de l’année. Ce mouvement élargit son image, de fournisseur de matériaux pour véhicules électriques à acteur associé à la chaîne d’approvisionnement des semi-conducteurs d’IA. STIC Investments pourrait aussi espérer un gain important sept ans après son investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لوت إنرجي ماتيريالز تقترب من 4 تريليونات وون بمواد رقائق إنفيديا",
-        "excerpt": "ارتفع سهم لوت إنرجي ماتيريالز بأكثر من 150% هذا العام مع توقعات إنتاج مواد لرقائق إنفيديا وتراجع صورتها كسهم مرتبط فقط بالسيارات الكهربائية.",
-        "body": "تقترب لوت إنرجي ماتيريالز هذا العام من قيمة سوقية تبلغ 4 تريليونات وون، مدفوعة بتوقعات الإنتاج الفعلي لمواد تستخدم في رقائق إنفيديا. وكانت الشركة قد عانت لسنوات من تأثير تباطؤ مؤقت في طلب السيارات الكهربائية، وبقيت صورتها مرتبطة بأسهم ذلك القطاع. لكن إبراز مواد رقائق إنفيديا غيّر معنويات المستثمرين تجاهها. وارتفع سعر السهم بأكثر من 150% منذ بداية العام. ويشير هذا التحول إلى اتساع النظرة إلى الشركة من مورد مواد للسيارات الكهربائية إلى اسم مرتبط بسلسلة توريد أشباه موصلات الذكاء الاصطناعي. كما يُتوقع أن تحقق STIC Investments مكسبا كبيرا بعد سبع سنوات من الاستثمار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Nvidia चिप सामग्री से Lotte Energy Materials का मार्केट कैप 4 ट्रिलियन वॉन के करीब",
-        "excerpt": "Lotte Energy Materials का शेयर इस साल 150% से अधिक चढ़ा है, क्योंकि Nvidia चिप सामग्री उत्पादन की उम्मीदें बढ़ीं और EV-लिंक्ड छवि कमजोर पड़ी।",
-        "body": "Lotte Energy Materials इस साल Nvidia चिप्स के लिए सामग्री के पूर्ण उत्पादन की उम्मीदों के बीच 4 ट्रिलियन वॉन के बाजार पूंजीकरण के करीब पहुंच गई है। कंपनी कई वर्षों तक इलेक्ट्रिक वाहन मांग में अस्थायी कमजोरी, यानी EV chasm, के असर से जूझती रही और उसे मुख्य रूप से EV-संबंधित शेयर माना जाता था। अब Nvidia चिप सामग्री पर ध्यान बढ़ने से निवेशकों की धारणा बदल रही है। इस साल अब तक शेयर 150% से अधिक चढ़ चुका है। यह बदलाव कंपनी की छवि को पारंपरिक EV सामग्री शेयर से आगे बढ़ाकर AI सेमीकंडक्टर सप्लाई चेन से जुड़े नाम तक ले जा रहा है। STIC Investments भी निवेश के सात साल बाद बड़े लाभ की उम्मीद कर रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lotte Energy Materials Dekati Kapitalisasi 4 Triliun Won Berkat Material Chip Nvidia",
-        "excerpt": "Lotte Energy Materials naik lebih dari 150% tahun ini karena ekspektasi produksi material chip Nvidia dan pergeseran dari citra saham terkait kendaraan listrik.",
-        "body": "Lotte Energy Materials tahun ini mendekati kapitalisasi pasar 4 triliun won berkat ekspektasi produksi penuh material untuk chip Nvidia. Perusahaan ini selama beberapa tahun tertekan oleh chasm kendaraan listrik, yaitu pelemahan sementara permintaan, dan lama dipandang terutama sebagai saham terkait EV. Namun perhatian pada material chip Nvidia mulai mengubah sentimen investor. Harga sahamnya telah naik lebih dari 150% sejak awal tahun. Perkembangan ini memperluas persepsi perusahaan dari saham material kendaraan listrik menjadi nama yang terkait dengan rantai pasok semikonduktor AI. STIC Investments juga disebut dapat mengharapkan hasil besar setelah tujuh tahun berinvestasi. Sumber: mk.co.kr"
       }
     }
   }
