@@ -1,0 +1,75 @@
+{
+  "id": "c955d67a87a6",
+  "slug": "미국-주식-돋보기-ai시대-cpu도-뜬다-퀄컴-주가-급등-963972",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-12T16:10:06.994Z",
+  "updatedAt": "2026-05-12T16:10:06.994Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12044989",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12044989",
+  "titleFingerprint": "1a3a7eb4a3c12a09fd528549ff4902e0c4e0468e",
+  "dedupKeys": [
+    "c955d67a87a63d43f20e25a874b8ab1a3cd54625",
+    "1a3a7eb4a3c12a09fd528549ff4902e0c4e0468e",
+    "83ee98974a2cbf8a478c2e3df6a3a97c88b08f45"
+  ],
+  "imageUrl": "/images/articles/c955d67a87a6.jpg",
+  "i18n": {
+    "ko": {
+      "title": "퀄컴 주가 급등, AI 에이전트 시대 CPU 경쟁 새 강자로 부상",
+      "excerpt": "스마트폰 핵심 칩 공급사 퀄컴이 AI 에이전트 시대 저전력 CPU 경쟁에서 새로운 강자로 주목받으며 주가가 급등했다는 소식이다.",
+      "body": "스마트폰 핵심 칩 공급사로 알려진 퀄컴이 인공지능(AI) 에이전트 시대 중앙처리장치(CPU) 경쟁에서 새로운 강자로 주목받고 있다. 이번 관심은 퀄컴이 저전력 CPU 설계에 특화된 기업이라는 점에서 비롯됐다. AI 활용이 확산되면서 전력 효율과 처리 성능을 함께 요구하는 CPU 경쟁이 부각되고, 퀄컴의 기술 역량이 다시 평가받는 흐름이다. 이에 따라 퀄컴 주가도 급등한 것으로 전해졌다. 시장은 스마트폰용 칩을 넘어 AI 시대 CPU 경쟁에서 퀄컴이 어떤 입지를 확보할지 주목하고 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "Qualcomm Stock Jumps as AI Agent Era Lifts CPU Competition",
+      "excerpt": "Qualcomm, best known as a key smartphone chip supplier, is drawing attention as a new contender in low-power CPU competition for the AI agent era.",
+      "body": "Qualcomm, widely known as a key supplier of smartphone chips, is gaining attention as a new strong contender in central processing unit, or CPU, competition for the artificial intelligence agent era. The focus stems from Qualcomm’s specialization in low-power CPU design. As AI use expands, competition is increasingly emphasizing CPUs that combine power efficiency with processing performance, prompting a fresh look at Qualcomm’s capabilities. The company’s stock has reportedly surged as a result. Investors are watching whether Qualcomm can secure a stronger position in AI-era CPU competition beyond smartphone chips. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "クアルコム株急騰、AIエージェント時代のCPU競争で存在感",
+      "excerpt": "スマートフォン向け主要チップ供給会社のクアルコムが、AIエージェント時代の低消費電力CPU競争で新たな有力企業として注目されている。",
+      "body": "スマートフォン向け主要チップ供給会社として知られるクアルコムが、人工知能（AI）エージェント時代の中央処理装置（CPU）競争で新たな有力企業として注目されている。関心の背景には、クアルコムが低消費電力CPU設計に特化している点がある。AI活用が広がるなか、電力効率と処理性能を同時に求めるCPU競争が浮上し、同社の技術力が改めて評価される流れだ。これを受け、クアルコム株も急騰したと伝えられている。市場はスマートフォン用チップを超え、AI時代のCPU競争で同社がどのような地位を確保するか注目している。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "高通股价急涨，AI代理时代CPU竞争中受关注",
+      "excerpt": "以智能手机核心芯片供应商闻名的高通，因低功耗CPU设计优势，在AI代理时代的CPU竞争中被视为新的强劲参与者。",
+      "body": "以智能手机核心芯片供应商闻名的高通，正因人工智能（AI）代理时代的中央处理器（CPU）竞争而受到关注，并被视为新的强劲参与者。市场关注的原因在于，高通专注于低功耗CPU设计。随着AI应用扩散，CPU竞争更加重视电源效率与处理性能的结合，高通的技术能力也因此被重新评估。受此影响，高通股价据称出现急涨。市场正在关注，高通能否在智能手机芯片之外，在AI时代CPU竞争中 확보新的地位。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Acciones de Qualcomm suben por la carrera de CPU en la era de IA",
+      "excerpt": "Qualcomm, conocida como proveedor clave de chips para smartphones, gana atención como nuevo actor fuerte en CPU de bajo consumo para agentes de IA.",
+      "body": "Qualcomm, conocida como proveedor clave de chips para smartphones, está atrayendo atención como un nuevo competidor fuerte en la carrera de unidades centrales de procesamiento, o CPU, para la era de los agentes de inteligencia artificial (IA). El interés se debe a que Qualcomm está especializada en el diseño de CPU de bajo consumo. A medida que se expande el uso de la IA, cobra relevancia la competencia por CPU que combinen eficiencia energética y capacidad de procesamiento, lo que lleva a una nueva valoración de sus capacidades tecnológicas. Según se informó, sus acciones subieron con fuerza. El mercado observa qué posición podrá asegurar Qualcomm más allá de los chips para smartphones. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Ações da Qualcomm disparam com disputa de CPUs na era da IA",
+      "excerpt": "A Qualcomm, conhecida como fornecedora central de chips para smartphones, ganha destaque como nova força em CPUs de baixo consumo para agentes de IA.",
+      "body": "A Qualcomm, conhecida como fornecedora central de chips para smartphones, está ganhando atenção como uma nova força na disputa por unidades centrais de processamento, ou CPUs, na era dos agentes de inteligência artificial (IA). O interesse vem do fato de a empresa ser especializada em projetos de CPU de baixo consumo. Com a expansão do uso de IA, cresce a importância de CPUs que combinem eficiência energética e desempenho de processamento, levando a uma reavaliação da capacidade tecnológica da Qualcomm. Como resultado, suas ações teriam disparado. O mercado acompanha se a empresa conseguirá firmar posição além dos chips para smartphones. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Qualcomm-Aktie springt an: CPU-Wettbewerb im KI-Agenten-Zeitalter",
+      "excerpt": "Qualcomm, bekannt als wichtiger Chipzulieferer für Smartphones, rückt im CPU-Wettbewerb der KI-Agenten-Ära dank stromsparender Designs in den Fokus.",
+      "body": "Qualcomm, bekannt als wichtiger Anbieter zentraler Smartphone-Chips, rückt im Wettbewerb um zentrale Prozessoren, also CPUs, für das Zeitalter der künstlichen Intelligenz (KI)-Agenten als neuer starker Akteur in den Fokus. Das Interesse beruht darauf, dass Qualcomm auf stromsparende CPU-Designs spezialisiert ist. Mit der Ausweitung der KI-Nutzung gewinnt der Wettbewerb um CPUs an Bedeutung, die Energieeffizienz und Rechenleistung verbinden. Dadurch werden Qualcomms technische Fähigkeiten neu bewertet. In der Folge soll die Aktie deutlich gestiegen sein. Der Markt beobachtet, welche Position Qualcomm über Smartphone-Chips hinaus im CPU-Wettbewerb der KI-Ära sichern kann. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "L’action Qualcomm bondit avec la bataille des CPU à l’ère de l’IA",
+      "excerpt": "Qualcomm, connu pour ses puces clés de smartphones, attire l’attention comme nouveau concurrent dans les CPU basse consommation pour agents IA.",
+      "body": "Qualcomm, connu comme fournisseur clé de puces pour smartphones, attire l’attention comme un nouveau concurrent solide dans la bataille des unités centrales de traitement, ou CPU, à l’ère des agents d’intelligence artificielle (IA). Cet intérêt vient de sa spécialisation dans la conception de CPU basse consommation. Avec l’essor des usages de l’IA, la concurrence met davantage l’accent sur des CPU combinant efficacité énergétique et performance de traitement, ce qui conduit à réévaluer les capacités technologiques de Qualcomm. Son action aurait ainsi fortement progressé. Le marché observe la place que Qualcomm pourra prendre au-delà des puces pour smartphones. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "سهم كوالكوم يقفز مع صعود منافسة المعالجات في عصر وكلاء الذكاء الاصطناعي",
+      "excerpt": "كوالكوم، المعروفة كمورد رئيسي لرقائق الهواتف الذكية، تحظى باهتمام كقوة جديدة في معالجات منخفضة الطاقة لعصر وكلاء الذكاء الاصطناعي.",
+      "body": "تحظى كوالكوم، المعروفة كمورد رئيسي لرقائق الهواتف الذكية، باهتمام متزايد كقوة جديدة في منافسة وحدات المعالجة المركزية CPU في عصر وكلاء الذكاء الاصطناعي. ويعود هذا الاهتمام إلى تخصص الشركة في تصميم معالجات منخفضة استهلاك الطاقة. ومع اتساع استخدام الذكاء الاصطناعي، تبرز المنافسة على معالجات تجمع بين كفاءة الطاقة وأداء المعالجة، ما يدفع إلى إعادة تقييم قدرات كوالكوم التقنية. ونتيجة لذلك، ورد أن سهم الشركة ارتفع بقوة. ويراقب السوق ما إذا كانت كوالكوم ستتمكن من ترسيخ موقع يتجاوز رقائق الهواتف الذكية في منافسة المعالجات بعصر الذكاء الاصطناعي. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "क्वालकॉम शेयर चढ़ा, AI एजेंट युग में CPU प्रतिस्पर्धा से मिला बल",
+      "excerpt": "स्मार्टफोन के प्रमुख चिप आपूर्तिकर्ता क्वालकॉम को AI एजेंट युग में कम ऊर्जा खपत वाले CPU मुकाबले में नए मजबूत खिलाड़ी के रूप में देखा जा रहा है।",
+      "body": "स्मार्टफोन के प्रमुख चिप आपूर्तिकर्ता के रूप में पहचानी जाने वाली क्वालकॉम अब कृत्रिम बुद्धिमत्ता (AI) एजेंट युग में सेंट्रल प्रोसेसिंग यूनिट, यानी CPU, प्रतिस्पर्धा में नए मजबूत खिलाड़ी के रूप में ध्यान खींच रही है। यह रुचि इस वजह से है कि क्वालकॉम कम ऊर्जा खपत वाले CPU डिजाइन में विशेषज्ञता रखती है। AI उपयोग के विस्तार के साथ ऐसे CPU की प्रतिस्पर्धा उभर रही है जिनमें ऊर्जा दक्षता और प्रोसेसिंग प्रदर्शन दोनों हों, जिससे कंपनी की तकनीकी क्षमता का फिर मूल्यांकन हो रहा है। इसी कारण क्वालकॉम के शेयर में तेज बढ़त बताई गई है। बाजार देख रहा है कि स्मार्टफोन चिप से आगे AI युग की CPU प्रतिस्पर्धा में कंपनी कैसी स्थिति बनाती है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Saham Qualcomm Melonjak saat CPU Ikut Naik di Era Agen AI",
+      "excerpt": "Qualcomm, dikenal sebagai pemasok chip utama smartphone, kini disorot sebagai pemain kuat baru dalam persaingan CPU hemat daya untuk era agen AI.",
+      "body": "Qualcomm, yang dikenal sebagai pemasok chip utama untuk smartphone, kini mendapat perhatian sebagai pemain kuat baru dalam persaingan central processing unit, atau CPU, pada era agen kecerdasan buatan (AI). Perhatian ini muncul karena Qualcomm memiliki spesialisasi dalam desain CPU berdaya rendah. Seiring meluasnya penggunaan AI, persaingan CPU yang menuntut efisiensi daya sekaligus kinerja pemrosesan semakin menonjol, sehingga kemampuan teknologi Qualcomm kembali dinilai. Saham Qualcomm pun dilaporkan melonjak. Pasar memperhatikan apakah perusahaan dapat mengamankan posisi dalam persaingan CPU era AI di luar chip smartphone. Sumber: mk.co.kr"
+    }
+  }
+}
