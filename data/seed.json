@@ -1,5 +1,230 @@
 [
   {
+    "id": "dbe18b16f5e3",
+    "slug": "nhn-분석-1분기-실적은-기대-못-미쳤지만-지금-사도-부담없는-주가-479393",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T21:18:29.610Z",
+    "updatedAt": "2026-05-12T21:18:29.610Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605121443i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605121443i",
+    "titleFingerprint": "ff61333cf442d9a238b0316197eb01b5399d9fb3",
+    "dedupKeys": [
+      "dbe18b16f5e3157fb32da31c86f1a77b00a89669",
+      "ff61333cf442d9a238b0316197eb01b5399d9fb3",
+      "1952e320c35c09c68366e7e36256086d3738c1ae"
+    ],
+    "imageUrl": "/images/articles/dbe18b16f5e3.jpg",
+    "i18n": {
+      "ko": {
+        "title": "NHN 1분기 실적 부진에도 주가 부담 낮다는 분석 주목",
+        "excerpt": "한국경제는 NHN의 1분기 실적이 기대에 못 미쳤지만, 현재 주가는 매수 부담이 크지 않다는 분석을 전했다.",
+        "body": "한국경제는 NHN에 대해 1분기 실적이 시장 기대에 미치지 못했지만 현재 주가 수준에서는 매수 부담이 크지 않다는 분석을 보도했다. 이번 분석의 핵심은 단기 실적 부진에도 주가가 이를 상당 부분 반영해 투자자 입장에서 진입 부담이 제한적이라는 점이다. 다만 원문은 구체적인 실적 수치나 목표주가, 투자의견 변화는 제시하지 않았다. 시장은 향후 실적 회복 여부와 주가 재평가 가능성을 함께 살필 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "NHN Shares Seen Less Burdensome Despite Weak Q1 Results",
+        "excerpt": "Hankyung reported that NHN’s first-quarter results missed expectations, but analysts still view the current share price as relatively undemanding.",
+        "body": "Hankyung reported an analysis of NHN stating that its first-quarter results fell short of expectations, while the current share price does not appear overly burdensome for buyers. The key point is that short-term earnings weakness may already be reflected to a meaningful degree in the stock price, limiting the burden of entry for investors. The original report did not provide detailed earnings figures, a target price, or a change in investment rating. Investors are expected to watch whether earnings recover and whether the stock can be revalued. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "NHN、1四半期決算は期待未達も株価負担は小さいとの分析",
+        "excerpt": "韓国経済新聞は、NHNの1四半期決算が期待を下回った一方、現在の株価は買い負担が大きくないとの分析を伝えた。",
+        "body": "韓国経済新聞はNHNについて、1四半期決算が市場の期待に届かなかったものの、現在の株価水準では買い負担が大きくないとの分析を報じた。今回の分析の要点は、短期的な業績不振にもかかわらず、株価がその影響を相当程度織り込んでおり、投資家にとって参入負担が限定的だという点にある。ただし原文では具体的な業績数値、目標株価、投資判断の変更は示されていない。市場は今後の業績回復の有無と株価再評価の可能性を注視するとみられる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "NHN一季度业绩逊预期 但股价负担较低受关注",
+        "excerpt": "韩国经济新闻报道称，NHN一季度业绩未达预期，但当前股价水平被分析认为买入负担并不高。",
+        "body": "韩国经济新闻报道称，关于NHN的分析认为，其一季度业绩未能达到市场预期，但以当前股价水平来看，买入负担并不大。该分析的核心在于，尽管短期业绩表现疲弱，股价可能已在相当程度上反映相关因素，因此投资者的进入压力相对有限。不过，原文未提供具体业绩数据、目标股价或投资评级变化。市场预计将继续关注NHN业绩能否恢复，以及股价是否存在重新评价的可能。出处: hankyung.com"
+      },
+      "es": {
+        "title": "NHN decepciona en el primer trimestre, pero su acción luce menos exigente",
+        "excerpt": "Hankyung informó que los resultados de NHN en el primer trimestre no cumplieron expectativas, aunque el precio actual no parece suponer una carga elevada.",
+        "body": "Hankyung informó de un análisis sobre NHN según el cual sus resultados del primer trimestre quedaron por debajo de las expectativas, pero el precio actual de la acción no parece implicar una carga elevada para comprar. La idea central es que la debilidad de corto plazo en los resultados podría estar ya reflejada en buena medida en la cotización, lo que limita el peso de entrada para los inversores. El texto original no incluyó cifras concretas de resultados, precio objetivo ni cambios en la recomendación. El mercado observará si los resultados se recuperan y si la acción puede ser reevaluada. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "NHN fica abaixo no 1º trimestre, mas ação é vista sem grande peso",
+        "excerpt": "O Hankyung informou que o resultado do primeiro trimestre da NHN ficou aquém das expectativas, mas o preço atual da ação não parece oneroso para compra.",
+        "body": "O Hankyung publicou uma análise sobre a NHN afirmando que os resultados do primeiro trimestre ficaram abaixo das expectativas, embora o nível atual da ação não pareça representar grande peso para uma compra. O ponto central é que a fraqueza de curto prazo nos resultados pode já estar refletida em parte relevante no preço, limitando a carga de entrada para investidores. O texto original não apresentou números detalhados de desempenho, preço-alvo ou mudança de recomendação. O mercado deve acompanhar a possível recuperação dos resultados e uma reavaliação da ação. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "NHN verfehlt Erwartungen im ersten Quartal, Aktie wirkt weniger belastend",
+        "excerpt": "Hankyung berichtete, dass NHN im ersten Quartal hinter den Erwartungen blieb, der aktuelle Aktienkurs aber als wenig belastend für Käufer gilt.",
+        "body": "Hankyung berichtete über eine Analyse zu NHN, wonach die Ergebnisse des ersten Quartals die Erwartungen verfehlt haben, der aktuelle Aktienkurs für Käufer jedoch nicht übermäßig belastend wirkt. Entscheidend ist, dass die kurzfristige Ergebnisschwäche im Kurs bereits zu einem erheblichen Teil eingepreist sein könnte und der Einstieg für Anleger daher begrenzt belastend erscheint. Der Originalbericht nannte keine konkreten Ergebniszahlen, kein Kursziel und keine Änderung der Anlageempfehlung. Der Markt dürfte nun auf eine mögliche Erholung der Ergebnisse und eine Neubewertung der Aktie achten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "NHN déçoit au premier trimestre, mais le cours paraît peu contraignant",
+        "excerpt": "Hankyung a indiqué que les résultats trimestriels de NHN ont manqué les attentes, mais que le cours actuel reste jugé peu contraignant à l’achat.",
+        "body": "Hankyung a rapporté une analyse selon laquelle NHN a publié des résultats du premier trimestre inférieurs aux attentes, tandis que le niveau actuel du cours ne semble pas représenter une charge importante pour un achat. Le point clé est que la faiblesse à court terme des résultats pourrait déjà être largement reflétée dans le prix de l’action, ce qui limite la contrainte d’entrée pour les investisseurs. L’article original ne fournit pas de chiffres détaillés, d’objectif de cours ni de changement de recommandation. Le marché devrait surveiller une éventuelle reprise des résultats et une revalorisation du titre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "سهم NHN تحت المجهر رغم ضعف نتائج الربع الأول وتراجع عبء الشراء",
+        "excerpt": "ذكرت هانكيونغ أن نتائج NHN في الربع الأول جاءت دون التوقعات، لكن السعر الحالي للسهم لا يبدو عبئاً كبيراً على الراغبين في الشراء.",
+        "body": "ذكرت هانكيونغ في تحليل عن NHN أن نتائج الشركة في الربع الأول جاءت دون توقعات السوق، إلا أن مستوى السعر الحالي للسهم لا يبدو مرتفع العبء على المستثمرين الراغبين في الشراء. وتتمثل النقطة الأساسية في أن ضعف الأداء قصير الأجل ربما انعكس بالفعل بدرجة كبيرة في سعر السهم، ما يجعل عبء الدخول محدوداً نسبياً. ولم يورد النص الأصلي أرقاماً تفصيلية للنتائج أو سعراً مستهدفاً أو تغييراً في توصية الاستثمار. ومن المتوقع أن يراقب السوق ما إذا كانت الأرباح ستتعافى وما إذا كان السهم سيحظى بإعادة تقييم. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "NHN के पहली तिमाही नतीजे कमजोर, फिर भी शेयर भाव पर बोझ कम",
+        "excerpt": "हैंक्युंग ने बताया कि NHN के पहली तिमाही नतीजे उम्मीद से कम रहे, लेकिन मौजूदा शेयर भाव पर खरीदारी का बोझ बड़ा नहीं माना जा रहा है।",
+        "body": "हैंक्युंग ने NHN पर एक विश्लेषण में बताया कि कंपनी के पहली तिमाही नतीजे बाजार की उम्मीदों पर खरे नहीं उतरे, फिर भी मौजूदा शेयर भाव पर खरीदारी का बोझ अधिक नहीं दिखता। मुख्य बात यह है कि अल्पकालिक कमजोर प्रदर्शन का असर शेयर भाव में काफी हद तक शामिल हो चुका हो सकता है, जिससे निवेशकों के लिए प्रवेश का दबाव सीमित रहता है। मूल रिपोर्ट में विस्तृत वित्तीय आंकड़े, लक्ष्य मूल्य या निवेश राय में बदलाव नहीं दिया गया। बाजार आगे नतीजों में सुधार और शेयर के पुनर्मूल्यांकन की संभावना पर नजर रखेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "NHN Gagal Penuhi Ekspektasi Q1, Namun Harga Saham Dinilai Ringan",
+        "excerpt": "Hankyung melaporkan bahwa kinerja NHN pada kuartal pertama tidak memenuhi ekspektasi, tetapi harga saham saat ini dinilai tidak terlalu memberatkan.",
+        "body": "Hankyung melaporkan analisis mengenai NHN yang menyebut kinerja kuartal pertama perusahaan tidak mencapai ekspektasi pasar, namun level harga saham saat ini tidak terlihat terlalu memberatkan untuk dibeli. Inti analisis tersebut adalah bahwa pelemahan kinerja jangka pendek kemungkinan sudah cukup banyak tercermin dalam harga saham, sehingga beban masuk bagi investor relatif terbatas. Artikel asli tidak menyajikan angka kinerja terperinci, target harga, atau perubahan rekomendasi investasi. Pasar diperkirakan akan mencermati pemulihan kinerja dan peluang revaluasi saham. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "bf77e70fcd08",
+    "slug": "코스콤다올투자증권-sto-플랫폼-맞손참여사-10곳으로-확대-242200",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T21:17:40.839Z",
+    "updatedAt": "2026-05-12T21:17:40.839Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051215476",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051215476",
+    "titleFingerprint": "9fdf780a521f5eb09bb7b0ff0ac96a09f3b780eb",
+    "dedupKeys": [
+      "bf77e70fcd08bc31c6ee43494302b09fee9d54df",
+      "9fdf780a521f5eb09bb7b0ff0ac96a09f3b780eb",
+      "31c7de8302236b3f7db237c660a2cac5d071d6ef"
+    ],
+    "imageUrl": "/images/articles/bf77e70fcd08.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스콤·다올투자증권 STO 플랫폼 협력, 참여사 10곳으로 확대",
+        "excerpt": "코스콤과 다올투자증권이 STO 플랫폼 협력에 나서며 관련 참여사가 10곳으로 늘었다고 한국경제가 보도했다. 토큰증권 인프라 구축 협력 확대가 핵심이다.",
+        "body": "코스콤과 다올투자증권이 STO 플랫폼 협력을 추진하며 토큰증권 관련 참여사 수가 10곳으로 확대됐다. 한국경제 보도에 따르면 양측은 STO 플랫폼 분야에서 손을 잡고 관련 사업 기반을 넓히는 데 나섰다. 이번 협력은 토큰증권 발행과 유통을 뒷받침할 플랫폼 참여 범위가 확대되고 있다는 점에서 주목된다. 참여사가 10곳으로 늘어난 만큼 관련 인프라 구축 논의와 사업 협력의 폭도 넓어질 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Koscom, Daol Investment Join STO Platform Push as Partners Rise to 10",
+        "excerpt": "Koscom and Daol Investment & Securities are cooperating on an STO platform, bringing the number of participating companies to 10, according to Hankyung.com.",
+        "body": "Koscom and Daol Investment & Securities are moving forward with cooperation on an STO platform, expanding the number of participating companies in the token securities initiative to 10. According to Hankyung.com, the two sides have joined hands in the STO platform field to broaden the foundation for related business. The cooperation is notable because it shows a wider range of participants supporting platforms for token securities issuance and distribution. With participating companies now at 10, discussions on infrastructure building and business cooperation are expected to widen. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コスコムとダオル投資証券、STOプラットフォームで協力 参加社10社に拡大",
+        "excerpt": "コスコムとダオル投資証券がSTOプラットフォームで協力し、参加企業が10社に増えたと韓国経済が報じた。トークン証券インフラ拡大が焦点だ。",
+        "body": "コスコムとダオル投資証券がSTOプラットフォームで協力を進め、トークン証券関連の参加企業数が10社に拡大した。韓国経済の報道によると、両社はSTOプラットフォーム分野で手を組み、関連事業の基盤を広げる方針だ。今回の協力は、トークン証券の発行と流通を支えるプラットフォームの参加範囲が広がっている点で注目される。参加企業が10社に増えたことで、関連インフラ構築の議論と事業協力の幅も広がる見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Koscom携手多奥投资证券推进STO平台，参与方增至10家",
+        "excerpt": "据韩国经济报道，Koscom与多奥投资证券将在STO平台领域合作，相关参与企业增至10家，重点在于扩大代币证券基础设施合作。",
+        "body": "Koscom与多奥投资证券正推进STO平台合作，代币证券相关参与企业数量已扩大至10家。据韩国经济报道，双方将在STO平台领域携手，扩大相关业务基础。此次合作受到关注，是因为支持代币证券发行和流通的平台参与范围正在扩大。随着参与企业增至10家，相关基础设施建设讨论和业务合作范围也有望进一步拓宽。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Koscom y Daol Investment impulsan plataforma STO; los socios suben a 10",
+        "excerpt": "Koscom y Daol Investment & Securities cooperarán en una plataforma STO, elevando a 10 las empresas participantes, según informó Hankyung.com.",
+        "body": "Koscom y Daol Investment & Securities avanzan en una cooperación para una plataforma STO, con lo que el número de empresas participantes relacionadas con valores tokenizados aumenta a 10. Según Hankyung.com, ambas partes se han unido en el campo de las plataformas STO para ampliar la base de sus negocios relacionados. La cooperación destaca porque muestra una ampliación del alcance de participación en plataformas que respaldan la emisión y distribución de valores tokenizados. Con 10 participantes, también se espera que crezcan las conversaciones sobre infraestructura y cooperación empresarial. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Koscom e Daol Investment fecham parceria em plataforma STO; participantes chegam a 10",
+        "excerpt": "Koscom e Daol Investment & Securities vão cooperar em uma plataforma STO, elevando para 10 o número de empresas participantes, informou o Hankyung.com.",
+        "body": "Koscom e Daol Investment & Securities avançam em uma cooperação para uma plataforma STO, ampliando para 10 o número de empresas participantes ligadas a valores mobiliários tokenizados. Segundo o Hankyung.com, as duas partes uniram forças no campo de plataformas STO para ampliar a base de negócios relacionados. A cooperação chama atenção porque mostra a expansão do alcance de participantes em plataformas que apoiam a emissão e a distribuição de valores tokenizados. Com 10 participantes, as discussões sobre infraestrutura e cooperação empresarial também devem ganhar amplitude. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Koscom und Daol Investment kooperieren bei STO-Plattform, Teilnehmerzahl steigt auf 10",
+        "excerpt": "Koscom und Daol Investment & Securities arbeiten bei einer STO-Plattform zusammen; die Zahl der beteiligten Unternehmen steigt laut Hankyung.com auf 10.",
+        "body": "Koscom und Daol Investment & Securities treiben eine Zusammenarbeit bei einer STO-Plattform voran, wodurch die Zahl der an Token-Wertpapieren beteiligten Unternehmen auf 10 steigt. Laut Hankyung.com haben sich beide Seiten im Bereich der STO-Plattformen zusammengeschlossen, um die Grundlage für entsprechende Geschäfte zu erweitern. Die Kooperation ist bemerkenswert, weil sie zeigt, dass sich der Teilnehmerkreis für Plattformen zur Unterstützung der Ausgabe und des Handels von Token-Wertpapieren vergrößert. Mit nun 10 Teilnehmern dürfte sich auch der Umfang von Infrastrukturgesprächen und geschäftlicher Zusammenarbeit ausweiten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Koscom et Daol Investment s’allient sur une plateforme STO; 10 participants désormais",
+        "excerpt": "Koscom et Daol Investment & Securities coopèrent sur une plateforme STO, portant à 10 le nombre d’entreprises participantes, selon Hankyung.com.",
+        "body": "Koscom et Daol Investment & Securities avancent dans une coopération autour d’une plateforme STO, portant à 10 le nombre d’entreprises participantes liées aux titres tokenisés. Selon Hankyung.com, les deux parties se sont associées dans le domaine des plateformes STO afin d’élargir la base des activités concernées. Cette coopération attire l’attention car elle montre l’élargissement du périmètre des participants aux plateformes soutenant l’émission et la distribution de titres tokenisés. Avec 10 participants, les discussions sur l’infrastructure et la coopération commerciale devraient aussi s’étendre. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسكوم وDaol Investment تتعاونان في منصة STO وعدد المشاركين يرتفع إلى 10",
+        "excerpt": "تتعاون كوسكوم وDaol Investment & Securities في منصة STO، ما يرفع عدد الشركات المشاركة إلى 10، بحسب ما أورد موقع Hankyung.com.",
+        "body": "تتجه كوسكوم وDaol Investment & Securities إلى التعاون في منصة STO، ليرتفع عدد الشركات المشاركة في مبادرة الأوراق المالية المرمزة إلى 10. وبحسب Hankyung.com، فقد اتفق الطرفان على العمل معا في مجال منصات STO لتوسيع قاعدة الأعمال المرتبطة بها. وتبرز أهمية هذا التعاون لأنه يشير إلى اتساع نطاق المشاركة في المنصات الداعمة لإصدار وتداول الأوراق المالية المرمزة. ومع وصول عدد المشاركين إلى 10، من المتوقع أن يتسع نطاق النقاشات حول بناء البنية التحتية والتعاون التجاري. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Koscom और Daol Investment की STO प्लेटफॉर्म साझेदारी, प्रतिभागी कंपनियां 10 हुईं",
+        "excerpt": "Hankyung.com के अनुसार Koscom और Daol Investment & Securities STO प्लेटफॉर्म पर सहयोग कर रही हैं, जिससे भागीदार कंपनियों की संख्या 10 हो गई है।",
+        "body": "Koscom और Daol Investment & Securities STO प्लेटफॉर्म पर सहयोग आगे बढ़ा रही हैं, जिससे टोकन सिक्योरिटीज से जुड़ी भागीदार कंपनियों की संख्या 10 हो गई है। Hankyung.com की रिपोर्ट के अनुसार, दोनों पक्ष STO प्लेटफॉर्म क्षेत्र में साथ आए हैं ताकि संबंधित कारोबार की आधारशिला को व्यापक किया जा सके। यह सहयोग इसलिए अहम है क्योंकि टोकन सिक्योरिटीज के निर्गम और वितरण को सहारा देने वाले प्लेटफॉर्म में भागीदारी का दायरा बढ़ रहा है। प्रतिभागी कंपनियां 10 होने के साथ, इन्फ्रास्ट्रक्चर निर्माण और कारोबारी सहयोग पर चर्चा का दायरा भी बढ़ने की उम्मीद है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Koscom dan Daol Investment Gandeng Platform STO, Peserta Bertambah Jadi 10",
+        "excerpt": "Koscom dan Daol Investment & Securities bekerja sama dalam platform STO, sehingga jumlah perusahaan peserta bertambah menjadi 10, menurut Hankyung.com.",
+        "body": "Koscom dan Daol Investment & Securities mendorong kerja sama platform STO, sehingga jumlah perusahaan peserta terkait sekuritas token bertambah menjadi 10. Menurut laporan Hankyung.com, kedua pihak bergandengan di bidang platform STO untuk memperluas dasar bisnis terkait. Kerja sama ini menjadi perhatian karena menunjukkan makin luasnya cakupan peserta pada platform yang mendukung penerbitan dan distribusi sekuritas token. Dengan jumlah peserta mencapai 10, pembahasan pembangunan infrastruktur dan kerja sama bisnis juga diperkirakan akan meluas. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "e8492dcd8f4c",
+    "slug": "교보생명-디지털자산-조직-신설블록체인-신사업-포석-966155",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T21:16:52.403Z",
+    "updatedAt": "2026-05-12T21:16:52.403Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051215306",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051215306",
+    "titleFingerprint": "6377d50d930da4047eecf52470e596a5db28558c",
+    "dedupKeys": [
+      "e8492dcd8f4c79dbbac59efc774dbe78a22acb09",
+      "6377d50d930da4047eecf52470e596a5db28558c",
+      "27c2cd9b43e8e196b60e75a1fdb8c7677f70b18e"
+    ],
+    "imageUrl": "/images/articles/e8492dcd8f4c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "교보생명 디지털자산 조직 신설, 블록체인 신사업 본격 준비",
+        "excerpt": "교보생명이 2026년 4월 디지털자산 전담 부서를 신설하고 STO·RWA·스테이블코인 등 블록체인 기반 신사업 준비에 들어갔다.",
+        "body": "교보생명이 디지털자산 전담 조직을 신설하고 블록체인 기반 신사업 구체화에 착수했다. 12일 hankyung.com에 따르면 교보생명은 지난달 디지털자산 전담 부서를 만들었고, 이를 위해 지난해 하반기부터 기획·개발 전문 인력을 확보해 왔다. 이번 조직은 디지털자산 법제화에 대비해 토큰증권(STO), 실물연계자산(RWA), 스테이블코인, 웹3 관련 사업을 검토하는 역할을 맡을 전망이다. 채용 공고에는 해외법인 설립, 국경 간 결제, 자체 디지털자산 지갑, 송금·수탁 서비스, RWA 플랫폼 개발 등이 포함됐다. 교보생명은 리플과 국채 거래 기술 검증을 점검했고, 서클의 아크 공개 테스트넷과 KDX 컨소시엄에도 참여했다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Kyobo Life Creates Digital Asset Unit to Prepare Blockchain Businesses",
+        "excerpt": "Kyobo Life set up a dedicated digital asset department in April 2026, moving to prepare blockchain businesses tied to STOs, RWAs, stablecoins and Web3.",
+        "body": "Kyobo Life has created a dedicated digital asset organization and begun detailing blockchain-based new businesses. According to hankyung.com on May 12, the insurer set up the department last month after securing planning and development specialists since the second half of last year. The unit is expected to prepare for digital asset legislation by reviewing token securities, real-world assets, stablecoins and Web3-related businesses. Recruitment notices mentioned an overseas digital asset entity, cross-border payments, a proprietary wallet, remittance and custody services, and an RWA platform. Kyobo Life also reviewed a Ripple testnet project for government bond trading technology and has joined Circle’s Arc public testnet and the KDX consortium. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "教保生命、デジタル資産組織を新設しブロックチェーン新事業を準備",
+        "excerpt": "教保生命は2026年4月にデジタル資産専門部署を新設し、STO、RWA、ステーブルコイン、Web3などブロックチェーン事業の準備に入った。",
+        "body": "教保生命がデジタル資産専門組織を新設し、ブロックチェーン基盤の新事業を具体化し始めた。hankyung.comが5月12日に報じたところによると、同社は先月、デジタル資産専門部署を設け、昨年下半期から企画・開発分野の専門人材を確保してきた。新部署はデジタル資産の法制化に備え、トークン証券、実物連動資産、ステーブルコイン、Web3関連事業を検討する見通しだ。採用公告には海外法人設立、越境決済、独自ウォレット、送金・カストディサービス、RWAプラットフォーム開発が含まれた。教保生命はリップルとの国債取引技術検証を点検し、サークルのArc公開テストネットとKDXコンソーシアムにも参加している。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "教保生命新设数字资产组织，筹备区块链新业务布局",
+        "excerpt": "教保生命于2026年4月新设数字资产专门部门，开始围绕STO、RWA、稳定币和Web3等区块链业务进行准备。",
+        "body": "教保生命新设数字资产专门组织，开始具体推进基于区块链的新业务。hankyung.com 5月12日报道称，教保生命上月成立数字资产专门部门，并自去年下半年起持续引进企划和开发领域专业人才。该部门预计将应对数字资产法制化，研究代币证券、现实世界资产、稳定币和Web3相关业务。招聘公告显示，公司正在考虑设立数字资产海外法人、跨境支付、自有数字资产钱包、汇款与托管服务，以及RWA平台开发。教保生命还检查了与Ripple进行的国债交易技术验证项目，并参与Circle的Arc公开测试网和KDX联盟。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Kyobo Life crea unidad de activos digitales para nuevos negocios blockchain",
+        "excerpt": "Kyobo Life creó en abril de 2026 un departamento de activos digitales para preparar negocios basados en blockchain, incluidos STO, RWA, stablecoins y Web3.",
+        "body": "Kyobo Life creó una organización dedicada a activos digitales y comenzó a concretar nuevos negocios basados en blockchain. Según hankyung.com el 12 de mayo, la aseguradora estableció el departamento el mes pasado tras incorporar desde la segunda mitad del año pasado talento especializado en planificación y desarrollo. La unidad prevé prepararse para la legislación de activos digitales revisando valores tokenizados, activos del mundo real, stablecoins y negocios Web3. Sus avisos de contratación mencionan una filial extranjera de activos digitales, pagos transfronterizos, una billetera propia, servicios de remesas y custodia, y una plataforma RWA. Kyobo Life también revisó con Ripple una prueba técnica de negociación de bonos soberanos y participa en la red pública Arc de Circle y en el consorcio KDX. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Kyobo Life cria unidade de ativos digitais para negócios em blockchain",
+        "excerpt": "A Kyobo Life criou em abril de 2026 um departamento de ativos digitais para preparar negócios em blockchain ligados a STO, RWA, stablecoins e Web3.",
+        "body": "A Kyobo Life criou uma organização dedicada a ativos digitais e começou a detalhar novos negócios baseados em blockchain. Segundo o hankyung.com em 12 de maio, a seguradora abriu o departamento no mês passado após buscar, desde o segundo semestre do ano anterior, especialistas em planejamento e desenvolvimento. A unidade deve se preparar para a legislação de ativos digitais avaliando valores mobiliários tokenizados, ativos do mundo real, stablecoins e negócios Web3. Anúncios de contratação citam uma empresa externa de ativos digitais, pagamentos internacionais, carteira própria, remessas, custódia e uma plataforma RWA. A Kyobo Life também revisou com a Ripple uma prova de tecnologia para negociação de títulos públicos e participa da testnet pública Arc da Circle e do consórcio KDX. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Kyobo Life gründet Digital-Asset-Einheit für Blockchain-Neugeschäft",
+        "excerpt": "Kyobo Life hat im April 2026 eine eigene Digital-Asset-Abteilung geschaffen und bereitet Blockchain-Geschäfte rund um STO, RWA, Stablecoins und Web3 vor.",
+        "body": "Kyobo Life hat eine eigene Organisation für digitale Vermögenswerte geschaffen und mit der Konkretisierung blockchainbasierter neuer Geschäfte begonnen. Laut hankyung.com vom 12. Mai richtete der Versicherer die Abteilung im vergangenen Monat ein und hatte seit der zweiten Hälfte des Vorjahres Fachkräfte für Planung und Entwicklung gewonnen. Die Einheit soll sich auf eine gesetzliche Regelung digitaler Vermögenswerte vorbereiten und Token Securities, Real-World Assets, Stablecoins sowie Web3-Geschäfte prüfen. In Stellenanzeigen wurden eine ausländische Digital-Asset-Gesellschaft, grenzüberschreitende Zahlungen, eine eigene Wallet, Überweisungs- und Verwahrdienste sowie eine RWA-Plattform genannt. Kyobo Life prüfte zudem mit Ripple einen Test für den Handel mit Staatsanleihen und beteiligt sich am Arc-Testnetz von Circle sowie am KDX-Konsortium. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Kyobo Life crée une unité actifs numériques pour préparer la blockchain",
+        "excerpt": "Kyobo Life a créé en avril 2026 un département dédié aux actifs numériques afin de préparer des activités blockchain liées aux STO, RWA, stablecoins et Web3.",
+        "body": "Kyobo Life a créé une organisation dédiée aux actifs numériques et commencé à préciser de nouvelles activités fondées sur la blockchain. Selon hankyung.com le 12 mai, l’assureur a mis en place ce département le mois dernier après avoir recruté depuis le second semestre de l’an passé des spécialistes de la planification et du développement. L’unité devrait préparer l’entreprise à la législation sur les actifs numériques en examinant les titres tokenisés, les actifs du monde réel, les stablecoins et les activités Web3. Les offres de recrutement mentionnent une entité étrangère d’actifs numériques, les paiements transfrontaliers, un portefeuille interne, les services de transfert et de conservation, ainsi qu’une plateforme RWA. Kyobo Life a aussi examiné avec Ripple un test technologique sur les obligations d’État et participe au testnet public Arc de Circle et au consortium KDX. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "كيوبو لايف تنشئ وحدة أصول رقمية استعدادا لأعمال البلوك تشين",
+        "excerpt": "أنشأت كيوبو لايف في أبريل 2026 قسما مخصصا للأصول الرقمية للتحضير لأعمال قائمة على البلوك تشين تشمل STO وRWA والعملات المستقرة وWeb3.",
+        "body": "أنشأت كيوبو لايف منظمة مخصصة للأصول الرقمية وبدأت تحديد أعمال جديدة قائمة على البلوك تشين. وبحسب hankyung.com في 12 مايو، أسست شركة التأمين القسم في الشهر الماضي بعد أن واصلت منذ النصف الثاني من العام الماضي استقطاب متخصصين في التخطيط والتطوير. ومن المتوقع أن يستعد القسم لتشريع الأصول الرقمية عبر دراسة الأوراق المالية الرمزية، والأصول المرتبطة بالعالم الحقيقي، والعملات المستقرة، وأعمال Web3. وتضمنت إعلانات التوظيف إنشاء كيان خارجي للأصول الرقمية، والمدفوعات العابرة للحدود، ومحفظة رقمية خاصة، وخدمات التحويل والحفظ، وتطوير منصة RWA. كما راجعت كيوبو لايف مع ريبل اختبارا تقنيا لتداول السندات الحكومية، وشاركت في شبكة Arc العامة التجريبية التابعة لسيركل واتحاد KDX. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "क्योबो लाइफ ने डिजिटल एसेट यूनिट बनाई, ब्लॉकचेन कारोबार की तैयारी",
+        "excerpt": "क्योबो लाइफ ने अप्रैल 2026 में डिजिटल एसेट विभाग बनाया और STO, RWA, स्टेबलकॉइन व Web3 से जुड़े ब्लॉकचेन कारोबार की तैयारी शुरू की।",
+        "body": "क्योबो लाइफ ने डिजिटल एसेट के लिए अलग संगठन बनाया है और ब्लॉकचेन आधारित नए कारोबारों को ठोस रूप देने की शुरुआत की है। hankyung.com ने 12 मई को बताया कि बीमा कंपनी ने पिछले महीने यह विभाग बनाया और इसके लिए पिछले साल की दूसरी छमाही से योजना और विकास क्षेत्र के विशेषज्ञों को जुटाया। यह इकाई डिजिटल एसेट कानून की तैयारी में टोकन सिक्योरिटीज, रियल-वर्ल्ड एसेट्स, स्टेबलकॉइन और Web3 कारोबारों की समीक्षा करेगी। भर्ती सूचनाओं में डिजिटल एसेट के लिए विदेशी इकाई, सीमा-पार भुगतान, अपनी डिजिटल वॉलेट, रेमिटेंस और कस्टडी सेवाएं तथा RWA प्लेटफॉर्म विकास शामिल हैं। क्योबो लाइफ ने Ripple के साथ सरकारी बॉन्ड ट्रेडिंग तकनीक की जांच की और Circle के Arc सार्वजनिक टेस्टनेट तथा KDX कंसोर्टियम में भी भाग लिया। स्रोत: hankyung.com।"
+      },
+      "id": {
+        "title": "Kyobo Life Bentuk Unit Aset Digital untuk Siapkan Bisnis Blockchain",
+        "excerpt": "Kyobo Life membentuk departemen aset digital pada April 2026 untuk menyiapkan bisnis blockchain terkait STO, RWA, stablecoin, dan Web3.",
+        "body": "Kyobo Life membentuk organisasi khusus aset digital dan mulai merinci bisnis baru berbasis blockchain. Menurut hankyung.com pada 12 Mei, perusahaan asuransi itu mendirikan departemen tersebut bulan lalu setelah sejak paruh kedua tahun lalu merekrut tenaga ahli perencanaan dan pengembangan. Unit ini diperkirakan menyiapkan respons terhadap legislasi aset digital dengan meninjau token securities, real-world assets, stablecoin, dan bisnis Web3. Iklan rekrutmen mencantumkan pendirian entitas luar negeri aset digital, pembayaran lintas negara, dompet digital sendiri, layanan remitansi dan kustodian, serta pengembangan platform RWA. Kyobo Life juga meninjau proyek uji teknologi perdagangan obligasi pemerintah bersama Ripple, serta bergabung dengan testnet publik Arc milik Circle dan konsorsium KDX. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "0f72ffcf6e6f",
     "slug": "금리인상-가능성-배제-못해공급망-압력지수-3년만에-최고-한경-프리미엄9-today-880808",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Aprogen Perkirakan Persetujuan Uji AP209 Akhir Mei, Dosis Awal Agustus",
         "excerpt": "Aprogen menyatakan persetujuan uji klinis AP209 untuk osteoartritis diperkirakan keluar akhir Mei atau awal Juni, dengan pemberian dosis pasien direncanakan awal Agustus.",
         "body": "Aprogen menyatakan telah mengajukan permohonan persetujuan uji klinis untuk AP209, kandidat obat osteoartritis yang sedang dikembangkan, kepada Kementerian Keamanan Pangan dan Obat Korea Selatan pada Maret, dan saat ini menjalani proses konsultasi serta pelengkapan. Perusahaan memperkirakan persetujuan dapat keluar paling cepat akhir Mei atau pada awal Juni. Setelah proses persetujuan selesai, Aprogen berencana memulai pemberian dosis kepada pasien pada awal Agustus. AP209 adalah obat baru osteoartritis yang dikembangkan perusahaan, dan waktu persetujuan uji klinis serta awal pemberian dosis akan menjadi faktor penting bagi kelanjutan pengembangan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3d44df874df0",
-    "slug": "a16z-서클의-새-블록체인-아크에-7500만달러-베팅비자페이팔-넘보는-스테이블코인-193093",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T03:24:13.271Z",
-    "updatedAt": "2026-05-12T03:24:13.271Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044331",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044331",
-    "titleFingerprint": "455c4aca76a939553f13f377084307eb73c40510",
-    "dedupKeys": [
-      "3d44df874df0608c4230a6b39043bf110a03221b",
-      "455c4aca76a939553f13f377084307eb73c40510",
-      "0b4b69b86465fc965793b8bc9c9545332318da05"
-    ],
-    "imageUrl": "/images/articles/3d44df874df0.png",
-    "i18n": {
-      "ko": {
-        "title": "a16z, 서클 새 블록체인 아크에 7500만달러 투자",
-        "excerpt": "a16z가 서클의 새 블록체인 아크 ARC 토큰에 7500만달러를 투자하며 기업용 통제·프라이버시 기능과 1초 내 정산을 앞세운 스테이블코인 결제 생태계에 베팅했다.",
-        "body": "글로벌 벤처캐피털 a16z가 서클의 새 블록체인 ‘아크’에 7500만달러를 투자했다. 투자 대상은 아크의 ARC 토큰으로, 서클은 스테이블코인 기반 결제·정산 인프라 확대를 추진하고 있다. 아크는 기업용 통제 기능과 프라이버시 기능을 탑재하고, 결제부터 회계 처리까지 1초 내 정산 완료를 내세운다. 골드만삭스와 비자 등 200여곳이 우군으로 거론되며, 기존 결제 네트워크와 핀테크 기업이 장악한 영역을 스테이블코인이 겨냥하는 구도다. 이번 투자는 서클의 블록체인 전략과 기업 결제 시장 공략에 힘을 싣는 사례로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "a16z Invests $75 Million in Circle’s New Arc Blockchain",
-        "excerpt": "a16z has invested $75 million in ARC tokens tied to Circle’s new Arc blockchain, backing a stablecoin payment network with enterprise controls, privacy features and settlement within one second.",
-        "body": "Global venture capital firm a16z has invested $75 million in Circle’s new blockchain, Arc. The investment targets Arc’s ARC token, as Circle pushes to expand stablecoin-based payment and settlement infrastructure. Arc offers enterprise control and privacy features, and says it can complete settlement from payment to accounting within one second. More than 200 allies, including Goldman Sachs and Visa, are cited around the project, placing stablecoins in a field long led by existing payment networks and fintech companies. The deal is seen as adding momentum to Circle’s blockchain strategy and its push into enterprise payments. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "a16z、サークル新ブロックチェーンArcに7500万ドル投資",
-        "excerpt": "a16zはサークルの新ブロックチェーンArcに関連するARCトークンへ7500万ドルを投資し、企業向け統制・プライバシー機能と1秒以内の決済を掲げるステーブルコイン基盤に賭けた。",
-        "body": "グローバルベンチャーキャピタルのa16zが、サークルの新ブロックチェーン「Arc」に7500万ドルを投資した。投資対象はArcのARCトークンで、サークルはステーブルコインを基盤にした決済・精算インフラの拡大を進めている。Arcは企業向けの統制機能とプライバシー機能を備え、支払いから会計処理まで1秒以内に精算を完了できる点を掲げる。ゴールドマン・サックスやVisaなど200社以上が支援勢力として挙げられ、既存の決済ネットワークやフィンテック企業が握る領域をステーブルコインが狙う構図だ。今回の投資は、サークルのブロックチェーン戦略と企業決済市場への攻勢を後押しする事例とみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "a16z向Circle新链Arc投资7500万美元，押注稳定币支付",
-        "excerpt": "a16z向Circle新区块链Arc相关ARC代币投资7500万美元，看好其企业级控制、隐私功能以及1秒内完成从支付到会计结算的稳定币基础设施。",
-        "body": "全球风险投资机构a16z向Circle的新区块链“Arc”投资7500万美元。此次投资对象为Arc的ARC代币，Circle正推进基于稳定币的支付与结算基础设施扩张。Arc配备企业级控制功能和隐私功能，并主打从支付到会计处理可在1秒内完成结算。高盛、Visa等200多家机构被列为支持方，显示稳定币正瞄准由传统支付网络和金融科技企业主导的领域。此次投资被视为为Circle的区块链战略及其进军企业支付市场提供支撑。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "a16z invierte 75 millones de dólares en Arc, la nueva blockchain de Circle",
-        "excerpt": "a16z invirtió 75 millones de dólares en tokens ARC de la nueva blockchain Arc de Circle, apostando por pagos con stablecoins, controles empresariales, privacidad y liquidación en menos de un segundo.",
-        "body": "La firma global de capital de riesgo a16z invirtió 75 millones de dólares en Arc, la nueva blockchain de Circle. La inversión se dirige al token ARC de Arc, mientras Circle busca ampliar la infraestructura de pagos y liquidación basada en stablecoins. Arc incorpora funciones de control empresarial y privacidad, y promete completar la liquidación desde el pago hasta la contabilidad en menos de un segundo. Goldman Sachs, Visa y más de 200 entidades figuran como aliados, en un contexto en el que las stablecoins apuntan a un mercado dominado por redes de pago y compañías fintech existentes. La operación refuerza la estrategia blockchain de Circle y su avance en pagos corporativos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "a16z investe US$ 75 milhões na Arc, nova blockchain da Circle",
-        "excerpt": "A a16z investiu US$ 75 milhões em tokens ARC da nova blockchain Arc da Circle, apostando em pagamentos com stablecoins, controles empresariais, privacidade e liquidação em até um segundo.",
-        "body": "A gestora global de venture capital a16z investiu US$ 75 milhões na Arc, nova blockchain da Circle. O investimento tem como alvo o token ARC da Arc, enquanto a Circle avança na expansão de uma infraestrutura de pagamentos e liquidação baseada em stablecoins. A Arc traz recursos de controle empresarial e privacidade, além de destacar a conclusão da liquidação, do pagamento à contabilidade, em até um segundo. Goldman Sachs, Visa e mais de 200 organizações aparecem como aliadas, em um cenário no qual as stablecoins miram áreas dominadas por redes de pagamento e fintechs tradicionais. A operação fortalece a estratégia blockchain da Circle e sua entrada no mercado de pagamentos corporativos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "a16z investiert 75 Millionen Dollar in Circles neue Blockchain Arc",
-        "excerpt": "a16z investiert 75 Millionen Dollar in ARC-Token von Circles neuer Blockchain Arc und setzt auf Stablecoin-Zahlungen mit Unternehmenskontrollen, Datenschutzfunktionen und Abwicklung binnen einer Sekunde.",
-        "body": "Die globale Venture-Capital-Gesellschaft a16z hat 75 Millionen Dollar in Circles neue Blockchain „Arc“ investiert. Ziel der Investition ist der ARC-Token von Arc, während Circle den Ausbau einer auf Stablecoins basierenden Zahlungs- und Abwicklungsinfrastruktur vorantreibt. Arc bietet Kontrollfunktionen für Unternehmen und Datenschutzfunktionen und stellt eine Abwicklung vom Zahlungsvorgang bis zur Buchhaltung innerhalb einer Sekunde in den Vordergrund. Goldman Sachs, Visa und mehr als 200 weitere Partner werden als Unterstützer genannt. Damit zielen Stablecoins auf ein Feld, das bislang von bestehenden Zahlungsnetzwerken und Fintech-Unternehmen geprägt ist. Die Investition gilt als Rückenwind für Circles Blockchain-Strategie und den Vorstoß in den Markt für Unternehmenszahlungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "a16z investit 75 millions de dollars dans Arc, la nouvelle blockchain de Circle",
-        "excerpt": "a16z a investi 75 millions de dollars dans les tokens ARC liés à la nouvelle blockchain Arc de Circle, misant sur des paiements en stablecoins avec contrôles d’entreprise, confidentialité et règlement en une seconde.",
-        "body": "La société mondiale de capital-risque a16z a investi 75 millions de dollars dans Arc, la nouvelle blockchain de Circle. L’investissement porte sur le token ARC d’Arc, alors que Circle cherche à étendre une infrastructure de paiement et de règlement fondée sur les stablecoins. Arc intègre des fonctions de contrôle pour les entreprises et de confidentialité, et met en avant un règlement complet, du paiement à la comptabilité, en une seconde. Goldman Sachs, Visa et plus de 200 acteurs sont cités parmi les alliés, dans un contexte où les stablecoins visent un domaine dominé par les réseaux de paiement existants et les fintechs. Cette opération soutient la stratégie blockchain de Circle et son offensive sur les paiements d’entreprise. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "a16z تستثمر 75 مليون دولار في بلوكتشين Arc الجديدة من Circle",
-        "excerpt": "استثمرت a16z مبلغ 75 مليون دولار في رموز ARC التابعة لبلوكتشين Arc الجديدة من Circle، مراهنة على مدفوعات العملات المستقرة مع أدوات تحكم مؤسسية وخصوصية وتسوية خلال ثانية.",
-        "body": "استثمرت شركة رأس المال الجريء العالمية a16z مبلغ 75 مليون دولار في بلوكتشين «Arc» الجديدة التابعة لـCircle. ويستهدف الاستثمار رموز ARC الخاصة بالشبكة، بينما تعمل Circle على توسيع بنية المدفوعات والتسوية القائمة على العملات المستقرة. وتوفر Arc وظائف تحكم مخصصة للشركات وميزات خصوصية، وتؤكد قدرتها على إتمام التسوية من الدفع إلى المحاسبة خلال ثانية واحدة. وترد أسماء Goldman Sachs وVisa وأكثر من 200 جهة ضمن الداعمين، في مشهد تستهدف فيه العملات المستقرة مجالا تهيمن عليه شبكات الدفع وشركات التكنولوجيا المالية القائمة. ويعد الاستثمار دعما لاستراتيجية Circle في البلوكتشين وتوجهها نحو سوق مدفوعات الشركات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "a16z ने Circle की नई Arc ब्लॉकचेन में 7.5 करोड़ डॉलर लगाए",
-        "excerpt": "a16z ने Circle की नई Arc ब्लॉकचेन से जुड़े ARC टोकन में 7.5 करोड़ डॉलर निवेश किए, जो एंटरप्राइज नियंत्रण, गोपनीयता और एक सेकंड में निपटान वाले स्टेबलकॉइन भुगतान ढांचे पर दांव है।",
-        "body": "वैश्विक वेंचर कैपिटल फर्म a16z ने Circle की नई ब्लॉकचेन “Arc” में 7.5 करोड़ डॉलर का निवेश किया है। यह निवेश Arc के ARC टोकन में है, जबकि Circle स्टेबलकॉइन आधारित भुगतान और सेटलमेंट इंफ्रास्ट्रक्चर का विस्तार कर रही है। Arc में कंपनियों के लिए नियंत्रण और गोपनीयता संबंधी सुविधाएं हैं, और यह भुगतान से लेकर लेखांकन तक एक सेकंड के भीतर निपटान पूरा करने का दावा करती है। Goldman Sachs और Visa सहित 200 से अधिक सहयोगियों का उल्लेख किया गया है, जिससे संकेत मिलता है कि स्टेबलकॉइन मौजूदा भुगतान नेटवर्क और फिनटेक कंपनियों के प्रभुत्व वाले क्षेत्र को निशाना बना रहे हैं। यह निवेश Circle की ब्लॉकचेन रणनीति और एंटरप्राइज भुगतान बाजार में उसकी पहल को बल देता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "a16z Investasi US$75 Juta di Blockchain Baru Circle, Arc",
-        "excerpt": "a16z menginvestasikan US$75 juta pada token ARC dari blockchain baru Circle, Arc, dengan taruhan pada pembayaran stablecoin, kontrol perusahaan, privasi, dan penyelesaian dalam satu detik.",
-        "body": "Perusahaan modal ventura global a16z menginvestasikan US$75 juta di blockchain baru Circle, “Arc”. Investasi tersebut menyasar token ARC milik Arc, sementara Circle mendorong perluasan infrastruktur pembayaran dan penyelesaian berbasis stablecoin. Arc dilengkapi fitur kontrol untuk perusahaan dan privasi, serta menonjolkan penyelesaian dari pembayaran hingga akuntansi dalam satu detik. Goldman Sachs, Visa, dan lebih dari 200 pihak disebut sebagai sekutu, dalam lanskap ketika stablecoin membidik area yang selama ini dikuasai jaringan pembayaran dan perusahaan fintech yang sudah ada. Investasi ini dinilai memperkuat strategi blockchain Circle dan langkahnya memasuki pasar pembayaran korporasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "366208a12360",
-    "slug": "mk시그널-심텍홀딩스-자회사-심텍-실적-턴어라운드-및-ai-기판-수요-폭증-등에-주가-상승세-mk시그널-추천-566443",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T03:23:09.540Z",
-    "updatedAt": "2026-05-12T03:23:09.540Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044332",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044332",
-    "titleFingerprint": "4003f20cbb5e6a7ef39db5599428e1d642ccae23",
-    "dedupKeys": [
-      "366208a12360b094d0893bbbbea3ab6f5acacd4d",
-      "4003f20cbb5e6a7ef39db5599428e1d642ccae23",
-      "5578602ae9a21f73e2022f751c5aefe7a85c1684"
-    ],
-    "imageUrl": "/images/articles/366208a12360.jpg",
-    "i18n": {
-      "ko": {
-        "title": "심텍홀딩스 주가 상승세, 심텍 턴어라운드·AI 기판 수요 주목",
-        "excerpt": "5월 12일 심텍홀딩스가 자회사 심텍의 실적 턴어라운드와 AI 기판 수요 확대 기대 속에 장 초반 상승세를 보였다.",
-        "body": "5월 12일 심텍홀딩스(036710)가 장 초반 상승세를 보이고 있다. 전 거래일 심텍홀딩스 주가는 종가 기준 5,790원으로 마감했으며, 이날 오전 9시 14분 기준 현재가는 5,840원으로 집계됐다. 상승 배경으로는 자회사 심텍의 실적 턴어라운드와 AI 기판 수요 폭증 등이 거론됐다. MK시그널은 심텍홀딩스를 추천한 뒤 상승률이 23.82%를 기록했다고 전했다. 시장에서는 자회사 실적 개선 기대와 AI 관련 기판 수요 흐름이 주가에 영향을 준 것으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Simtek Holdings Gains as Simtek Turnaround and AI Substrate Demand Draw Attention",
-        "excerpt": "On May 12, Simtek Holdings rose in early trading as investors watched subsidiary Simtek’s earnings turnaround and stronger AI substrate demand.",
-        "body": "Simtek Holdings (036710) was trading higher in early trading on May 12. The stock closed the previous session at 5,790 won and was quoted at 5,840 won as of 9:14 a.m. that day. The move was linked to a turnaround in earnings at subsidiary Simtek and a sharp increase in demand for AI substrates. MK Signal said the stock had risen 23.82% since its recommendation. Market attention centered on expectations for improved subsidiary performance and demand trends for AI-related substrates. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "シムテックホールディングス株が上昇、子会社回復とAI基板需要に注目",
-        "excerpt": "5月12日、シムテックホールディングスは子会社シムテックの業績ターンアラウンドとAI基板需要拡大期待を背景に朝方上昇した。",
-        "body": "5月12日、シムテックホールディングス（036710）が取引序盤に上昇している。前取引日の同社株価は終値基準で5,790ウォンとなり、この日は午前9時14分時点で5,840ウォンをつけた。上昇要因として、子会社シムテックの業績ターンアラウンドとAI基板需要の急増が挙げられた。MKシグナルは、同銘柄を推奨した後の上昇率が23.82%に達したと伝えた。市場では子会社の業績改善期待とAI関連基板の需要動向が株価に影響したとみられている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Simtek Holdings股价走强，子公司业绩反转与AI基板需求受关注",
-        "excerpt": "5月12日，Simtek Holdings在早盘上涨，市场关注其子公司Simtek业绩反转以及AI基板需求扩大预期。",
-        "body": "5月12日，Simtek Holdings（036710）早盘呈上涨走势。该股前一交易日以5,790韩元收盘，当天上午9点14分报5,840韩元。上涨背景被认为包括子公司Simtek业绩出现反转，以及AI基板需求大幅增加。MK Signal表示，自推荐该股以来，其涨幅已达23.82%。市场认为，子公司业绩改善预期和AI相关基板需求趋势对股价产生了影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Simtek Holdings sube por giro de Simtek y demanda de sustratos de IA",
-        "excerpt": "El 12 de mayo, Simtek Holdings avanzó en la apertura por el giro en resultados de su filial Simtek y la expectativa de mayor demanda de sustratos de IA.",
-        "body": "Simtek Holdings (036710) cotizaba al alza en las primeras operaciones del 12 de mayo. La acción cerró la sesión anterior en 5.790 wones y se situaba en 5.840 wones a las 9:14 de la mañana. El avance se vinculó al giro en los resultados de su filial Simtek y al fuerte aumento de la demanda de sustratos para IA. MK Signal indicó que la acción acumulaba una subida del 23,82% desde su recomendación. El mercado observó las expectativas de mejora de la filial y la evolución de la demanda de sustratos relacionados con IA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Simtek Holdings avança com virada da Simtek e demanda por substratos de IA",
-        "excerpt": "Em 12 de maio, a Simtek Holdings subiu no início do pregão com foco na virada de resultados da filial Simtek e na demanda crescente por substratos de IA.",
-        "body": "A Simtek Holdings (036710) operava em alta no início do pregão de 12 de maio. A ação fechou a sessão anterior a 5.790 won e era negociada a 5.840 won às 9h14. O movimento foi associado à virada nos resultados da subsidiária Simtek e ao forte aumento da demanda por substratos para IA. A MK Signal informou que o papel acumulava alta de 23,82% desde sua recomendação. O mercado acompanhou as expectativas de melhora da subsidiária e o fluxo de demanda por substratos ligados à IA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Simtek Holdings steigt: Turnaround bei Simtek und KI-Substratnachfrage im Fokus",
-        "excerpt": "Am 12. Mai legte Simtek Holdings im frühen Handel zu, gestützt auf den Ergebnis-Turnaround der Tochter Simtek und Erwartungen an KI-Substratnachfrage.",
-        "body": "Simtek Holdings (036710) notierte am 12. Mai im frühen Handel fester. Die Aktie hatte die vorherige Sitzung bei 5.790 Won beendet und stand um 9:14 Uhr bei 5.840 Won. Als Hintergrund wurden der Ergebnis-Turnaround der Tochtergesellschaft Simtek und ein kräftiger Anstieg der Nachfrage nach KI-Substraten genannt. MK Signal teilte mit, dass die Aktie seit der Empfehlung um 23,82% gestiegen sei. Am Markt richtete sich der Blick auf Erwartungen einer Ergebnisverbesserung der Tochter und die Nachfrage nach KI-bezogenen Substraten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Simtek Holdings progresse avec le redressement de Simtek et la demande IA",
-        "excerpt": "Le 12 mai, Simtek Holdings a monté en début de séance, porté par le redressement de sa filiale Simtek et la demande accrue de substrats pour l’IA.",
-        "body": "Simtek Holdings (036710) évoluait en hausse en début de séance le 12 mai. Le titre avait clôturé la séance précédente à 5.790 wons et s’établissait à 5.840 wons à 9h14. Cette progression a été attribuée au redressement des résultats de la filiale Simtek et à la forte hausse de la demande de substrats pour l’IA. MK Signal a indiqué que le titre avait gagné 23,82% depuis sa recommandation. Le marché a suivi les attentes d’amélioration des résultats de la filiale et l’évolution de la demande de substrats liés à l’IA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صعود سهم Simtek Holdings مع تحول أداء Simtek وطلب ركائز الذكاء الاصطناعي",
-        "excerpt": "في 12 مايو، ارتفع سهم Simtek Holdings في التعاملات المبكرة وسط متابعة تحول أداء وحدتها Simtek وزيادة الطلب على ركائز الذكاء الاصطناعي.",
-        "body": "سجل سهم Simtek Holdings (036710) ارتفاعا في التعاملات المبكرة يوم 12 مايو. وأغلق السهم في الجلسة السابقة عند 5,790 وون، وبلغ 5,840 وون عند الساعة 9:14 صباحا. وذُكر أن خلفية الصعود ترتبط بتحول أداء الشركة التابعة Simtek وزيادة قوية في الطلب على ركائز الذكاء الاصطناعي. وقالت MK Signal إن السهم ارتفع بنسبة 23.82% منذ توصيتها به. وتركز اهتمام السوق على توقعات تحسن أداء الشركة التابعة واتجاه الطلب على الركائز المرتبطة بالذكاء الاصطناعي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Simtek Holdings में तेजी, Simtek टर्नअराउंड और AI सब्सट्रेट मांग पर नजर",
-        "excerpt": "12 मई को Simtek Holdings शुरुआती कारोबार में चढ़ा, क्योंकि निवेशकों ने सहायक Simtek के नतीजों में सुधार और AI सब्सट्रेट मांग पर ध्यान दिया।",
-        "body": "12 मई को Simtek Holdings (036710) शुरुआती कारोबार में बढ़त पर रहा। पिछले कारोबारी सत्र में शेयर 5,790 वॉन पर बंद हुआ था और उस दिन सुबह 9:14 बजे यह 5,840 वॉन पर दर्ज किया गया। तेजी की वजहों में सहायक कंपनी Simtek के प्रदर्शन में टर्नअराउंड और AI सब्सट्रेट की मांग में तेज बढ़ोतरी का उल्लेख किया गया। MK Signal ने बताया कि सिफारिश के बाद शेयर में 23.82% की बढ़त हुई। बाजार का ध्यान सहायक कंपनी के बेहतर प्रदर्शन की उम्मीदों और AI से जुड़े सब्सट्रेट मांग रुझान पर रहा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Simtek Holdings Naik, Didukung Pemulihan Simtek dan Permintaan Substrat AI",
-        "excerpt": "Pada 12 Mei, Simtek Holdings menguat pada awal perdagangan seiring perhatian pada pemulihan kinerja anak usaha Simtek dan permintaan substrat AI.",
-        "body": "Simtek Holdings (036710) bergerak naik pada awal perdagangan 12 Mei. Pada sesi sebelumnya, saham ini ditutup di 5.790 won, lalu berada di 5.840 won pada pukul 09.14. Kenaikan tersebut dikaitkan dengan turnaround kinerja anak usaha Simtek serta lonjakan permintaan substrat AI. MK Signal menyebut saham ini telah naik 23,82% sejak direkomendasikan. Pasar menyoroti ekspektasi perbaikan kinerja anak usaha dan tren permintaan substrat terkait AI sebagai faktor yang memengaruhi harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4f56a64bacdd",
-    "slug": "8천피-눈앞에-두고-와르르외국인-3조-팔자에-코스피-3대-급락-184032",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T03:22:09.415Z",
-    "updatedAt": "2026-05-12T03:22:09.416Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044454",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044454",
-    "titleFingerprint": "c067c64991a0d3efba942f390a7d9ca616520b6e",
-    "dedupKeys": [
-      "4f56a64bacdd4d973a44b29ab7ff9e23b5c03c41",
-      "c067c64991a0d3efba942f390a7d9ca616520b6e",
-      "15696d8ab46a1de3e36a6919f60589f85b516238"
-    ],
-    "imageUrl": "/images/articles/4f56a64bacdd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7900선 돌파 뒤 급락, 외국인 3조 매도에 8천피 앞두고 흔들",
-        "excerpt": "코스피가 장중 사상 처음 7900선을 넘으며 8천피에 근접했지만, 외국인 3조원 매도와 차익 실현 물량이 겹치며 3%대 급락했다.",
-        "body": "코스피가 장중 사상 처음으로 7900선을 돌파하며 이른바 ‘8천피’에 바짝 다가섰지만, 외국인 매도 물량이 쏟아지면서 급락세로 전환했다. 원문에 따르면 외국인은 약 3조원 규모의 ‘팔자’에 나섰고, 지수는 3%대 하락을 기록했다. 최근 코스피가 빠르게 오른 뒤 차익 실현 매물이 한꺼번에 출회된 점이 낙폭을 키운 배경으로 제시됐다. 8000선 돌파 기대가 커졌던 시장은 단기 수급 부담을 확인하며 변동성이 확대됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Falls After Topping 7,900 as Foreign Selling Nears 3 Trillion Won",
-        "excerpt": "The KOSPI briefly topped 7,900 for the first time, nearing 8,000, but dropped more than 3% as foreign selling and profit-taking hit the market.",
-        "body": "The KOSPI briefly crossed the 7,900 mark for the first time in intraday trading, moving close to the symbolic 8,000 level, but then reversed sharply lower as foreign investors sold heavily. According to the original report, foreign selling reached about 3 trillion won, pushing the index down by more than 3%. The decline was linked to a wave of profit-taking after the market’s recent rapid gains. Expectations for a move toward 8,000 gave way to concerns over short-term supply pressure and wider volatility. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、7900突破後に急落　外国人3兆ウォン売りで8000目前に失速",
-        "excerpt": "KOSPIは取引時間中に初めて7900を突破し8000に接近したが、外国人の3兆ウォン規模の売りと利益確定売りで3％台下落した。",
-        "body": "KOSPIは取引時間中に史上初めて7900台を突破し、いわゆる8000の大台に迫ったが、外国人投資家の売りが膨らみ急落に転じた。原文によると、外国人は約3兆ウォン規模の売りに動き、指数は3％台の下落を記録した。最近の急上昇を受けた利益確定売りが一気に出たことが下げ幅を広げた要因とされた。8000突破への期待が高まっていた市場では、短期的な需給負担と変動性の拡大が確認された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破7900点后急跌，外资卖出3万亿韩元冲击8000点关口",
-        "excerpt": "KOSPI盘中首次突破7900点并逼近8000点，但外资约3万亿韩元卖出叠加获利回吐，指数大跌逾3%。",
-        "body": "KOSPI盘中史上首次突破7900点，距离所谓8000点关口仅一步之遥，但随后在外资抛售压力下急转直下。原文称，外资卖出规模约达3万亿韩元，指数跌幅达到3%以上。近期KOSPI快速上涨后，获利回吐盘集中涌出，被认为是扩大跌幅的主要背景。此前市场对突破8000点的期待升温，但本轮下跌显示短期资金供需压力上升，市场波动也随之扩大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cae tras superar 7.900 puntos por ventas extranjeras de 3 billones de wones",
-        "excerpt": "El KOSPI superó por primera vez los 7.900 puntos intradía y se acercó a 8.000, pero cayó más de 3% por ventas extranjeras y toma de ganancias.",
-        "body": "El KOSPI superó por primera vez los 7.900 puntos durante la sesión y se acercó al nivel simbólico de 8.000, pero giró bruscamente a la baja ante fuertes ventas de inversores extranjeros. Según el reporte original, las ventas extranjeras alcanzaron alrededor de 3 billones de wones y el índice cayó más de 3%. La baja se atribuyó a una salida concentrada de órdenes de toma de ganancias tras el reciente repunte del mercado. Las expectativas de superar los 8.000 puntos dieron paso a una mayor preocupación por la presión de oferta de corto plazo y la volatilidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI recua após superar 7.900 com venda estrangeira de 3 trilhões de wones",
-        "excerpt": "O KOSPI passou de 7.900 pontos pela primeira vez no intradia e se aproximou de 8.000, mas caiu mais de 3% com venda estrangeira e realização de lucros.",
-        "body": "O KOSPI superou pela primeira vez a marca de 7.900 pontos durante o pregão, aproximando-se do nível simbólico de 8.000, mas virou para forte queda com a pressão de venda de investidores estrangeiros. Segundo o texto original, os estrangeiros venderam cerca de 3 trilhões de wones, levando o índice a uma baixa superior a 3%. A queda foi associada à realização de lucros após a recente alta rápida do mercado. A expectativa de avanço até 8.000 pontos deu lugar à percepção de maior pressão de oferta no curto prazo e de volatilidade ampliada. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt nach Sprung über 7.900, Ausländer verkaufen für 3 Billionen Won",
-        "excerpt": "Der KOSPI stieg intraday erstmals über 7.900 Punkte und näherte sich 8.000, fiel dann aber wegen ausländischer Verkäufe und Gewinnmitnahmen um über 3%.",
-        "body": "Der KOSPI überschritt im Tagesverlauf erstmals die Marke von 7.900 Punkten und rückte damit nahe an die symbolische Schwelle von 8.000 Punkten heran. Anschließend drehte der Index jedoch deutlich ins Minus, als ausländische Investoren massiv verkauften. Dem Originalbericht zufolge beliefen sich die Verkäufe ausländischer Anleger auf rund 3 Billionen Won, wodurch der Index um mehr als 3% fiel. Als Hintergrund wurde genannt, dass nach dem jüngsten schnellen Anstieg gebündelt Gewinnmitnahmen einsetzten. Die Hoffnung auf 8.000 Punkte wich kurzfristigen Belastungen durch Angebot und höherer Volatilität. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI chute après 7 900 points, ventes étrangères de 3 000 milliards de wons",
-        "excerpt": "Le KOSPI a dépassé 7 900 points en séance pour la première fois et approché 8 000, avant de reculer de plus de 3% sous l’effet des ventes étrangères.",
-        "body": "Le KOSPI a franchi pour la première fois le seuil de 7 900 points en séance, se rapprochant du niveau symbolique de 8 000, avant de se retourner brutalement à la baisse sous la pression des ventes étrangères. Selon l’article original, les investisseurs étrangers ont vendu pour environ 3 000 milliards de wons, entraînant une baisse de plus de 3% de l’indice. Le recul a été lié à des prises de bénéfices concentrées après la récente forte progression du marché. Les attentes autour d’un passage à 8 000 points ont laissé place à une vigilance accrue sur la pression d’offre à court terme et la volatilité. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يهبط بعد تجاوز 7900 نقطة مع بيع أجانب بنحو 3 تريليونات وون",
-        "excerpt": "تجاوز كوسبي مستوى 7900 نقطة لأول مرة خلال الجلسة واقترب من 8000، لكنه هبط بأكثر من 3% بفعل بيع الأجانب وجني الأرباح.",
-        "body": "تجاوز مؤشر كوسبي خلال التداول مستوى 7900 نقطة للمرة الأولى في تاريخه مقتربا من حاجز 8000 نقطة، لكنه تحول سريعا إلى هبوط حاد مع تدفق أوامر بيع من المستثمرين الأجانب. ووفقا للنص الأصلي، بلغت مبيعات الأجانب نحو 3 تريليونات وون، ما دفع المؤشر إلى تراجع بأكثر من 3%. وجاءت الخسائر في سياق خروج مكثف لعمليات جني الأرباح بعد الصعود السريع الأخير للمؤشر. وتراجعت توقعات بلوغ مستوى 8000 أمام ضغوط العرض قصيرة الأجل واتساع التقلبات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,900 पार करने के बाद फिसला, विदेशी निवेशकों की 3 ट्रिलियन वॉन बिकवाली",
-        "excerpt": "KOSPI इंट्राडे में पहली बार 7,900 के ऊपर गया और 8,000 के करीब पहुंचा, लेकिन विदेशी बिकवाली और मुनाफावसूली से 3% से अधिक गिर गया।",
-        "body": "KOSPI ने कारोबार के दौरान पहली बार 7,900 का स्तर पार किया और प्रतीकात्मक 8,000 अंक के करीब पहुंच गया, लेकिन विदेशी निवेशकों की भारी बिकवाली के बाद सूचकांक तेज गिरावट में चला गया। मूल रिपोर्ट के अनुसार, विदेशी निवेशकों ने लगभग 3 ट्रिलियन वॉन की बिक्री की, जिससे सूचकांक 3% से अधिक गिरा। हालिया तेज तेजी के बाद एक साथ निकली मुनाफावसूली को गिरावट बढ़ाने वाला प्रमुख कारण बताया गया। 8,000 अंक पार करने की उम्मीदों के बीच बाजार ने अल्पकालिक आपूर्ति दबाव और बढ़ी हुई अस्थिरता देखी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Jatuh Setelah Tembus 7.900, Asing Jual Sekitar 3 Triliun Won",
-        "excerpt": "KOSPI sempat menembus 7.900 untuk pertama kalinya dan mendekati 8.000, tetapi turun lebih dari 3% akibat jual asing dan aksi ambil untung.",
-        "body": "KOSPI sempat menembus level 7.900 untuk pertama kalinya dalam perdagangan intrahari dan mendekati level simbolis 8.000, tetapi kemudian berbalik turun tajam karena tekanan jual investor asing. Menurut laporan asli, investor asing mencatat penjualan sekitar 3 triliun won, membuat indeks turun lebih dari 3%. Pelemahan dikaitkan dengan aksi ambil untung yang muncul bersamaan setelah kenaikan cepat belakangan ini. Ekspektasi menuju 8.000 berubah menjadi perhatian terhadap tekanan pasokan jangka pendek dan meningkatnya volatilitas. Sumber: mk.co.kr"
       }
     }
   }
