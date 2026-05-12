@@ -1,5 +1,230 @@
 [
   {
+    "id": "6696df975937",
+    "slug": "미래에셋-분기-1조-클럽-증권업계-처음-628372",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T13:22:22.427Z",
+    "updatedAt": "2026-05-12T13:22:22.427Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045042",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045042",
+    "titleFingerprint": "1ae86725c99a93a2cf68341beda80f374531b3a8",
+    "dedupKeys": [
+      "6696df9759374f6fb4501e7cf0422efe73846673",
+      "1ae86725c99a93a2cf68341beda80f374531b3a8",
+      "2befcdd28d2c1bd3e51e4ea75faca2825b5334c9"
+    ],
+    "imageUrl": "/images/articles/6696df975937.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋증권, 증권업계 첫 분기 순이익 1조원 돌파",
+        "excerpt": "미래에셋증권이 올 1분기 증권업계 최초로 분기 순이익 1조원을 넘어서며 브로커리지·WM 수수료 증가와 해외법인 실적 개선 효과를 확인했다.",
+        "body": "미래에셋증권이 올 1분기 증권업계에서 처음으로 분기 순이익 1조원을 돌파했다. 증시 호황으로 브로커리지, 즉 위탁매매 수수료 수익이 늘었고 WM(자산관리) 부문의 수수료 수익도 함께 증가한 것이 실적 개선의 배경으로 꼽힌다. 여기에 해외법인 실적 개선까지 맞물리며 분기 기준 ‘1조 클럽’에 진입했다. 이번 성과는 국내 증권사 수익 구조에서 시장 거래 활성화와 자산관리, 해외 사업의 기여도가 동시에 부각된 사례다. 향후 증시 흐름과 해외법인 실적 지속 여부가 실적 추세를 가늠할 변수로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mirae Asset Securities Tops 1 Trillion Won in Quarterly Profit, Industry First",
+        "excerpt": "Mirae Asset Securities became the first Korean brokerage to exceed 1 trillion won in quarterly net profit in Q1, helped by higher brokerage and WM fees and stronger overseas units.",
+        "body": "Mirae Asset Securities surpassed 1 trillion won in quarterly net profit in the first quarter, becoming the first firm in Korea’s securities industry to do so. The result was driven by a stock market boom that lifted brokerage commission income, along with higher fees from WM, or wealth management. Improved earnings at overseas subsidiaries also contributed to the milestone. The achievement places the company in the quarterly “1 trillion won club” and highlights how active market trading, asset management, and overseas operations all supported earnings. Future results are expected to depend on stock market conditions and whether overseas units continue to improve. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "未来アセット証券、業界初の四半期純利益1兆ウォン突破",
+        "excerpt": "未来アセット証券は今年第1四半期、証券業界で初めて四半期純利益1兆ウォンを突破し、委託売買・WM手数料増と海外法人の改善が寄与した。",
+        "body": "未来アセット証券は今年第1四半期、証券業界で初めて四半期純利益1兆ウォンを突破した。株式市場の好況を受け、ブローカレッジ、つまり委託売買の手数料収入が増え、WM（資産管理）部門の手数料収入も拡大したことが業績改善の背景とされる。さらに海外法人の業績改善も重なり、四半期ベースで「1兆ウォンクラブ」入りを果たした。今回の成果は、国内証券会社の収益構造において市場取引の活性化、資産管理、海外事業の寄与が同時に浮き彫りになった事例だ。今後は株式市場の流れと海外法人の改善継続が業績動向を左右する要因となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "未来资产证券季度净利润首破1万亿韩元，创行业首次",
+        "excerpt": "未来资产证券今年一季度成为韩国证券行业首家季度净利润突破1万亿韩元的公司，受益于经纪、财富管理手续费增长及海外法人业绩改善。",
+        "body": "未来资产证券今年第一季度成为韩国证券行业首家季度净利润突破1万亿韩元的公司。受股市景气推动，经纪业务即委托买卖手续费收入增加，WM（财富管理）部门的手续费收入也同步增长，被视为业绩改善的主要背景。此外，海外法人业绩改善也形成助力，使公司按季度进入“1万亿韩元俱乐部”。这一成果显示，在韩国证券公司的收入结构中，市场交易活跃、资产管理和海外业务的贡献同时凸显。未来业绩走势将取决于股市环境以及海外法人业绩能否持续改善。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mirae Asset Securities supera 1 billón de wones de beneficio trimestral, primera en el sector",
+        "excerpt": "Mirae Asset Securities fue la primera firma de valores coreana en superar 1 billón de wones de beneficio neto trimestral en el primer trimestre, por mayores comisiones y mejora exterior.",
+        "body": "Mirae Asset Securities superó en el primer trimestre 1 billón de wones de beneficio neto trimestral, convirtiéndose en la primera compañía del sector de valores de Corea en lograrlo. El resultado se apoyó en el auge bursátil, que elevó los ingresos por comisiones de corretaje o intermediación, y en el aumento de las comisiones del área de WM, gestión patrimonial. También contribuyó la mejora de resultados de las filiales en el extranjero. Con ello, la empresa entró en el “club de 1 billón de wones” trimestral. El caso muestra el peso combinado de la actividad de mercado, la gestión patrimonial y el negocio exterior. La evolución futura dependerá del mercado bursátil y de la continuidad de la mejora internacional. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mirae Asset Securities supera 1 trilhão de won em lucro trimestral, feito inédito no setor",
+        "excerpt": "A Mirae Asset Securities foi a primeira corretora coreana a passar de 1 trilhão de won em lucro líquido trimestral no 1º trimestre, com comissões maiores e melhora no exterior.",
+        "body": "A Mirae Asset Securities superou no primeiro trimestre 1 trilhão de won em lucro líquido trimestral, tornando-se a primeira empresa do setor de valores mobiliários da Coreia a atingir essa marca. O desempenho foi impulsionado pelo bom momento do mercado acionário, que elevou as receitas de corretagem, ou intermediação, e também pelas maiores comissões em WM, gestão de patrimônio. A melhora dos resultados das subsidiárias no exterior se somou a esse movimento. Assim, a companhia entrou no “clube de 1 trilhão de won” em base trimestral. O resultado evidencia a contribuição conjunta da negociação de mercado, da gestão de patrimônio e dos negócios internacionais. A trajetória futura dependerá do mercado acionário e da continuidade da melhora externa. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mirae Asset Securities überschreitet als erster Broker 1 Billion Won Quartalsgewinn",
+        "excerpt": "Mirae Asset Securities erzielte im ersten Quartal als erstes koreanisches Wertpapierhaus mehr als 1 Billion Won Nettogewinn, getragen von höheren Brokerage- und WM-Gebühren sowie Auslandstöchtern.",
+        "body": "Mirae Asset Securities hat im ersten Quartal als erstes Unternehmen der koreanischen Wertpapierbranche einen Quartalsnettogewinn von mehr als 1 Billion Won erzielt. Hintergrund war die starke Börsenlage, die die Provisionserträge aus Brokerage, also Auftragsvermittlung, erhöhte. Auch im WM-Bereich, der Vermögensverwaltung, stiegen die Gebühreneinnahmen. Hinzu kam eine Verbesserung der Ergebnisse der Auslandsgesellschaften. Damit erreichte das Unternehmen auf Quartalsbasis den “1-Billion-Won-Club”. Der Erfolg zeigt, wie Marktaktivität, Vermögensverwaltung und Auslandsgeschäft gemeinsam zur Ertragsstruktur eines koreanischen Wertpapierhauses beitragen können. Entscheidend für die weitere Entwicklung dürften der Börsenverlauf und die Fortsetzung der Verbesserungen im Ausland sein. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Mirae Asset Securities dépasse 1 000 milliards de wons de bénéfice trimestriel, une première",
+        "excerpt": "Mirae Asset Securities est devenu le premier courtier coréen à dépasser 1 000 milliards de wons de bénéfice net trimestriel au T1, grâce aux commissions et aux filiales étrangères.",
+        "body": "Mirae Asset Securities a dépassé au premier trimestre 1 000 milliards de wons de bénéfice net trimestriel, une première dans le secteur coréen des valeurs mobilières. Cette performance s’explique par la vigueur du marché boursier, qui a accru les revenus de commissions de courtage, ainsi que par la hausse des commissions de WM, ou gestion de patrimoine. L’amélioration des résultats des filiales étrangères a également contribué à ce cap. L’entreprise entre ainsi dans le “club des 1 000 milliards de wons” sur une base trimestrielle. Ce résultat met en évidence la contribution conjointe de l’activité de marché, de la gestion de patrimoine et des opérations à l’étranger. La suite dépendra de l’évolution des marchés et de la poursuite de l’amélioration internationale. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "ميراي أسيت سيكيوريتيز تتجاوز تريليون وون أرباحا فصلية لأول مرة في القطاع",
+        "excerpt": "أصبحت ميراي أسيت سيكيوريتيز أول شركة وساطة كورية تتجاوز تريليون وون من صافي الربح الفصلي في الربع الأول، بدعم من عمولات الوساطة وإدارة الثروات وتحسن الخارج.",
+        "body": "تجاوزت ميراي أسيت سيكيوريتيز في الربع الأول صافي ربح فصلي قدره تريليون وون، لتصبح أول شركة في قطاع الأوراق المالية الكوري تحقق هذا المستوى. وجاء الأداء مدعوما بازدهار سوق الأسهم، ما رفع إيرادات عمولات الوساطة، أي تداولات العملاء، إلى جانب زيادة عمولات WM، أو إدارة الثروات. كما ساهم تحسن نتائج الشركات التابعة في الخارج في بلوغ هذه المرحلة. وبذلك دخلت الشركة على أساس فصلي ما يسمى “نادي التريليون وون”. وتبرز هذه النتيجة مساهمة نشاط التداول في السوق وإدارة الأصول والأعمال الخارجية معا في أرباح شركات الأوراق المالية الكورية. وستتوقف الاتجاهات المقبلة على مسار سوق الأسهم واستمرار تحسن أداء الوحدات الخارجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मिराए एसेट सिक्योरिटीज का तिमाही शुद्ध लाभ 1 ट्रिलियन वॉन के पार, उद्योग में पहली बार",
+        "excerpt": "मिराए एसेट सिक्योरिटीज ने पहली तिमाही में 1 ट्रिलियन वॉन से अधिक तिमाही शुद्ध लाभ दर्ज किया, जिसे ब्रोकरेज, WM शुल्क और विदेशी इकाइयों की सुधार ने सहारा दिया।",
+        "body": "मिराए एसेट सिक्योरिटीज ने इस वर्ष पहली तिमाही में 1 ट्रिलियन वॉन से अधिक तिमाही शुद्ध लाभ दर्ज किया और कोरियाई सिक्योरिटीज उद्योग में ऐसा करने वाली पहली कंपनी बनी। शेयर बाजार की तेजी से ब्रोकरेज, यानी ग्राहक कारोबार पर मिलने वाले कमीशन, की आय बढ़ी। साथ ही WM, अर्थात वेल्थ मैनेजमेंट, खंड की शुल्क आय भी बढ़ी। विदेशी सहायक कंपनियों के प्रदर्शन में सुधार ने भी इस उपलब्धि में योगदान दिया। इस तरह कंपनी तिमाही आधार पर “1 ट्रिलियन वॉन क्लब” में शामिल हुई। यह नतीजा दिखाता है कि बाजार कारोबार की सक्रियता, संपत्ति प्रबंधन और विदेशी कारोबार ने मिलकर कमाई को सहारा दिया। आगे की दिशा शेयर बाजार की स्थिति और विदेशी इकाइयों में सुधार जारी रहने पर निर्भर करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Mirae Asset Securities Cetak Laba Kuartalan 1 Triliun Won, Pertama di Industri",
+        "excerpt": "Mirae Asset Securities menjadi perusahaan sekuritas Korea pertama yang menembus laba bersih kuartalan 1 triliun won pada kuartal I, didorong komisi brokerage, WM, dan kinerja luar negeri.",
+        "body": "Mirae Asset Securities pada kuartal pertama menembus laba bersih kuartalan 1 triliun won, menjadi yang pertama di industri sekuritas Korea. Kinerja ini didorong oleh kuatnya pasar saham yang meningkatkan pendapatan komisi brokerage, atau transaksi perantara. Komisi dari WM, yakni wealth management atau pengelolaan aset, juga ikut meningkat. Perbaikan kinerja entitas luar negeri turut memperkuat hasil tersebut. Dengan capaian ini, perusahaan masuk ke “klub 1 triliun won” secara kuartalan. Hasil ini menunjukkan kontribusi bersama dari aktivitas perdagangan pasar, pengelolaan aset, dan bisnis luar negeri dalam struktur pendapatan perusahaan sekuritas Korea. Ke depan, tren kinerja akan bergantung pada arah pasar saham dan berlanjutnya perbaikan di entitas luar negeri. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a2283028dcbd",
+    "slug": "하루새-주가-18-치솟은-lg전자-332462",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T13:20:35.935Z",
+    "updatedAt": "2026-05-12T13:20:35.935Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045045",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045045",
+    "titleFingerprint": "c534f1fb6b1bcef9b18d7639a9be836e6679df76",
+    "dedupKeys": [
+      "a2283028dcbd67888ce10dea3ad80a64a1dd7333",
+      "c534f1fb6b1bcef9b18d7639a9be836e6679df76",
+      "556ad8ecacc1cd9aa78bc3632dbd238e04b3fef0"
+    ],
+    "imageUrl": "/images/articles/a2283028dcbd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 주가 18% 급등, 로봇사업 신성장동력 기대에 매수세 집중",
+        "excerpt": "LG전자는 12일 한국거래소 기준 주가가 18% 오른 18만4900원에 거래되며 로봇사업이 신성장동력으로 주목받은 영향에 두 자릿수 급등세를 보였다.",
+        "body": "LG전자 주가가 12일 하루 새 두 자릿수 급등세를 보였다. 한국거래소에 따르면 이날 LG전자 주가는 18% 상승한 18만4900원에 거래됐다. 주가 상승의 배경으로는 로봇사업이 회사의 신성장동력으로 주목받은 점이 제시됐다. 기존 사업 외 성장 가능성에 시장의 관심이 모이며 매수세가 확대된 것으로 풀이된다. 이번 급등은 로봇사업에 대한 투자자 기대가 주가에 빠르게 반영된 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics Shares Jump 18% as Robot Business Draws Growth Attention",
+        "excerpt": "LG Electronics shares rose 18% to 184,900 won on May 12, according to the Korea Exchange, as its robot business attracted attention as a new growth driver.",
+        "body": "LG Electronics shares posted a double-digit surge in a single day on May 12. According to the Korea Exchange, the stock rose 18% to 184,900 won. The move came as the company’s robot business drew attention as a new growth engine. Market interest in growth potential beyond existing businesses appears to have strengthened buying momentum. The sharp rise is seen as a case in which investor expectations for the robot business were quickly reflected in the share price. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子株が18％急騰、ロボット事業の成長期待に買い集まる",
+        "excerpt": "LG電子は12日、韓国取引所基準で株価が18％上昇し18万4900ウォンとなり、ロボット事業が新たな成長動力として注目された影響で急騰した。",
+        "body": "LG電子の株価が12日、1日で二桁の急騰を見せた。韓国取引所によると、この日のLG電子株は18％上昇し、18万4900ウォンで取引された。株価上昇の背景には、同社のロボット事業が新たな成長動力として注目されたことが挙げられる。既存事業以外の成長可能性に市場の関心が集まり、買いが強まったとみられる。今回の急騰は、ロボット事業への投資家の期待が株価に素早く反映された事例と解釈される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子股价大涨18%，机器人业务成新增长动力受关注",
+        "excerpt": "据韩国交易所数据，LG电子12日股价上涨18%至184900韩元，因机器人业务被视为新增长动力而受到市场关注，单日涨幅达两位数。",
+        "body": "LG电子股价在12日单日出现两位数大涨。韩国交易所数据显示，当天LG电子股价上涨18%，报184900韩元。此次上涨的背景是该公司的机器人业务被市场视为新的增长动力并受到关注。随着投资者关注其现有业务之外的增长可能性，买盘随之扩大。此次股价急升可被解读为市场对机器人业务的期待迅速反映到股价中的案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Acciones de LG Electronics suben 18% por atención a su negocio robótico",
+        "excerpt": "LG Electronics subió un 18% hasta 184.900 wones el 12 de mayo, según la Bolsa de Corea, mientras su negocio de robots atraía atención como nuevo motor de crecimiento.",
+        "body": "Las acciones de LG Electronics registraron el 12 de mayo una subida de dos dígitos en una sola jornada. Según la Bolsa de Corea, el título avanzó un 18% hasta 184.900 wones. El movimiento se produjo mientras el negocio de robots de la compañía ganaba atención como nuevo motor de crecimiento. El interés del mercado en las posibilidades de expansión más allá de sus negocios existentes parece haber impulsado las compras. La fuerte alza se interpreta como un caso en el que las expectativas de los inversores sobre la robótica se reflejaron rápidamente en la cotización. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ações da LG Electronics saltam 18% com foco no negócio de robôs",
+        "excerpt": "A LG Electronics subiu 18% para 184.900 won em 12 de maio, segundo a Bolsa da Coreia, com seu negócio de robôs em destaque como novo motor de crescimento.",
+        "body": "As ações da LG Electronics registraram em 12 de maio uma alta de dois dígitos em apenas um dia. Segundo a Bolsa da Coreia, o papel avançou 18%, para 184.900 won. A valorização ocorreu enquanto o negócio de robôs da companhia chamava atenção como novo motor de crescimento. O interesse do mercado em possibilidades de expansão além dos negócios existentes parece ter reforçado as compras. A forte alta pode ser vista como um caso em que as expectativas dos investidores sobre robótica foram rapidamente refletidas no preço da ação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG-Electronics-Aktie steigt 18% wegen Fokus auf Robotikgeschäft",
+        "excerpt": "Die Aktie von LG Electronics stieg am 12. Mai laut Korea Exchange um 18% auf 184.900 Won, da das Robotikgeschäft als neuer Wachstumstreiber in den Fokus rückte.",
+        "body": "Die Aktie von LG Electronics verzeichnete am 12. Mai an einem einzigen Tag einen zweistelligen Kurssprung. Nach Angaben der Korea Exchange stieg der Kurs um 18% auf 184.900 Won. Hintergrund war die Aufmerksamkeit für das Robotikgeschäft des Unternehmens, das als neuer Wachstumstreiber gesehen wird. Das Marktinteresse an Wachstumsmöglichkeiten jenseits der bestehenden Geschäfte dürfte die Käufe verstärkt haben. Der starke Anstieg gilt als Beispiel dafür, wie Erwartungen der Anleger an das Robotikgeschäft rasch im Aktienkurs sichtbar wurden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’action LG Electronics bondit de 18% avec l’attention sur la robotique",
+        "excerpt": "LG Electronics a gagné 18% à 184 900 wons le 12 mai, selon la Korea Exchange, alors que son activité robotique attirait l’attention comme nouveau moteur de croissance.",
+        "body": "L’action LG Electronics a enregistré le 12 mai une hausse à deux chiffres en une seule séance. Selon la Korea Exchange, le titre a progressé de 18% à 184 900 wons. Cette hausse intervient alors que l’activité robotique de l’entreprise attire l’attention comme nouveau moteur de croissance. L’intérêt du marché pour des possibilités de croissance au-delà des activités existantes semble avoir renforcé les achats. Cette forte progression peut être interprétée comme un cas où les attentes des investisseurs envers la robotique se sont rapidement reflétées dans le cours. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم إل جي إلكترونيكس يقفز 18% مع الاهتمام بأعمال الروبوتات",
+        "excerpt": "ارتفع سهم إل جي إلكترونيكس في 12 مايو بنسبة 18% إلى 184900 وون، وفق بورصة كوريا، مع بروز أعمال الروبوتات كمحرك نمو جديد يحظى باهتمام السوق.",
+        "body": "سجل سهم إل جي إلكترونيكس في 12 مايو ارتفاعا من خانتين خلال يوم واحد. ووفقا لبورصة كوريا، صعد السهم بنسبة 18% إلى 184900 وون. وجاء هذا الارتفاع مع لفت أعمال الروبوتات التابعة للشركة الانتباه بوصفها محرك نمو جديدا. ويبدو أن اهتمام السوق بإمكانات النمو خارج الأعمال القائمة عزز وتيرة الشراء. ويمكن تفسير القفزة الحادة على أنها حالة انعكست فيها توقعات المستثمرين تجاه أعمال الروبوتات بسرعة على سعر السهم. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Electronics शेयर 18% उछला, रोबोट कारोबार पर बढ़ी बाजार की नजर",
+        "excerpt": "कोरिया एक्सचेंज के अनुसार, 12 मई को LG Electronics का शेयर 18% बढ़कर 184900 वॉन पर पहुंचा, क्योंकि रोबोट कारोबार नए विकास इंजन के रूप में चर्चा में आया।",
+        "body": "LG Electronics के शेयर ने 12 मई को एक ही दिन में दो अंकों की तेज बढ़त दर्ज की। कोरिया एक्सचेंज के अनुसार, कंपनी का शेयर 18% चढ़कर 184900 वॉन पर कारोबार कर रहा था। इस तेजी की पृष्ठभूमि में कंपनी के रोबोट कारोबार को नए विकास इंजन के रूप में मिल रहा ध्यान बताया गया। मौजूदा कारोबारों से अलग वृद्धि की संभावना पर बाजार की रुचि बढ़ने से खरीदारी मजबूत हुई मानी जाती है। यह उछाल रोबोट कारोबार को लेकर निवेशकों की उम्मीदों के शेयर मूल्य में तेजी से झलकने का उदाहरण माना जा सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham LG Electronics Melonjak 18% Saat Bisnis Robot Jadi Sorotan",
+        "excerpt": "Saham LG Electronics naik 18% ke 184.900 won pada 12 Mei menurut Bursa Korea, seiring bisnis robotnya mendapat perhatian sebagai mesin pertumbuhan baru.",
+        "body": "Saham LG Electronics mencatat lonjakan dua digit dalam satu hari pada 12 Mei. Menurut Bursa Korea, saham perusahaan naik 18% menjadi 184.900 won. Kenaikan ini terjadi saat bisnis robot LG Electronics menarik perhatian sebagai mesin pertumbuhan baru. Minat pasar terhadap potensi pertumbuhan di luar bisnis yang sudah ada tampaknya mendorong aksi beli. Lonjakan tersebut dapat dipahami sebagai contoh ketika ekspektasi investor terhadap bisnis robot cepat tercermin dalam harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3962417e2c82",
+    "slug": "577p-출렁-롤러코스피에-현기증-617995",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T13:18:51.602Z",
+    "updatedAt": "2026-05-12T13:18:51.602Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045044",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045044",
+    "titleFingerprint": "7cfacfaf505c907dfc39b2f2f096a65115d2d81c",
+    "dedupKeys": [
+      "3962417e2c82407ba5cefd8355d7c8c88c8b3f0f",
+      "7cfacfaf505c907dfc39b2f2f096a65115d2d81c",
+      "d5951d8edd855e5dd1bf61dcc11f43cee7fbe825"
+    ],
+    "imageUrl": "/images/articles/3962417e2c82.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000선 앞두고 급락 전환, 577포인트 출렁인 ‘롤러코스피’",
+        "excerpt": "코스피가 8000선을 눈앞에 둔 시점에서 6거래일 만에 하락 전환했다. 초반 2%대 강세에도 초과 세수 ‘국민배당금’ 논란이 투자심리를 흔들며 변동성이 커졌다.",
+        "body": "코스피가 8000선을 눈앞에 두고 6거래일 만에 하락 전환했다. 장 초반에는 2%대 강세로 출발했지만, 초과 세수에 대한 ‘국민배당금’ 논란이 투자심리를 흔들면서 지수 흐름이 급격히 불안정해졌다. 이날 코스피는 장중 한때 577포인트까지 출렁이며 ‘롤러코스피’라는 표현이 나올 만큼 큰 변동성을 보였다. 8000선 돌파 기대가 커진 상황에서 정책 관련 논란이 단기 매매심리에 영향을 준 것으로 풀이된다. 시장은 향후 해당 논란의 전개와 투자심리 회복 여부를 주시할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Reverses Near 8,000 as ‘Roller-KOSPI’ Swings 577 Points",
+        "excerpt": "The KOSPI turned lower after six sessions just as it neared the 8,000 mark. Despite opening over 2% higher, debate over a ‘national dividend’ from excess tax revenue shook sentiment.",
+        "body": "The KOSPI reversed lower after six trading sessions as it approached the 8,000 mark. The index opened with gains of more than 2%, but investor sentiment was shaken by controversy over a proposed ‘national dividend’ linked to excess tax revenue, making intraday moves sharply unstable. At one point, the KOSPI swung by as much as 577 points, prompting descriptions of a ‘roller-KOSPI.’ With expectations rising for a break above 8,000, the policy-related debate appeared to weigh on short-term trading sentiment. Markets are expected to watch how the controversy develops and whether investor confidence stabilizes. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、8000目前で下落転換　577ポイント揺れた「ローラーコスピ」",
+        "excerpt": "KOSPIは8000台を目前に6営業日ぶりに下落へ転じた。序盤は2％台の上昇で始まったが、超過税収を巡る「国民配当金」論争が投資心理を揺さぶった。",
+        "body": "KOSPIは8000台を目前に、6営業日ぶりに下落へ転じた。取引序盤は2％台の上昇で始まったものの、超過税収に関する「国民配当金」論争が投資心理を揺さぶり、指数の動きは急速に不安定になった。この日、KOSPIは取引時間中に一時577ポイントまで振れ、「ローラーコスピ」と表現されるほど大きな変動性を見せた。8000突破への期待が高まるなか、政策関連の論争が短期の売買心理に影響したとみられる。市場は今後、論争の展開と投資心理の回復を注視する見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI逼近8000点却转跌，盘中剧震577点成“过山车”",
+        "excerpt": "KOSPI在逼近8000点之际，时隔6个交易日转为下跌。尽管开盘一度上涨逾2%，但围绕超额税收“国民分红”的争议动摇了投资情绪。",
+        "body": "KOSPI在逼近8000点关口之际，时隔6个交易日转为下跌。当天早盘指数以逾2%的涨幅开局，但围绕超额税收相关“国民分红”的争议冲击投资者情绪，使盘中走势迅速转向不稳定。KOSPI盘中一度震荡达577点，因此被形容为“过山车KOSPI”。在市场对突破8000点的期待升温之时，政策相关争议被认为影响了短线交易心理。后续市场预计将关注该争议的发展，以及投资情绪能否恢复稳定。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI gira a la baja cerca de 8.000 tras oscilar 577 puntos",
+        "excerpt": "El KOSPI cayó tras seis sesiones al acercarse a los 8.000 puntos. Aunque abrió con alzas superiores al 2%, la polémica por el ‘dividendo nacional’ ligado a ingresos fiscales extra golpeó el ánimo inversor.",
+        "body": "El KOSPI cambió a terreno negativo después de seis sesiones mientras se acercaba a la barrera de los 8.000 puntos. El índice abrió con una subida de más del 2%, pero la controversia sobre un ‘dividendo nacional’ vinculado al exceso de ingresos fiscales sacudió la confianza de los inversores y volvió inestable la negociación intradía. En un momento de la sesión, el KOSPI llegó a oscilar 577 puntos, lo que llevó a describirlo como un ‘KOSPI de montaña rusa’. Con expectativas de superar los 8.000 puntos, el debate de política pública afectó el sentimiento de corto plazo. El mercado seguirá atento a su evolución y a la recuperación del ánimo inversor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI vira para queda perto dos 8.000 após oscilação de 577 pontos",
+        "excerpt": "O KOSPI caiu após seis pregões ao se aproximar dos 8.000 pontos. Mesmo abrindo com alta acima de 2%, a polêmica sobre o ‘dividendo nacional’ ligado à arrecadação extra abalou o sentimento dos investidores.",
+        "body": "O KOSPI passou a cair após seis pregões enquanto se aproximava da marca de 8.000 pontos. No início do dia, o índice abriu com alta superior a 2%, mas a controvérsia sobre um ‘dividendo nacional’ relacionado ao excesso de arrecadação tributária abalou o sentimento dos investidores e tornou o movimento intradiário instável. Em determinado momento, o KOSPI oscilou até 577 pontos, levando à descrição de um ‘KOSPI de montanha-russa’. Com a expectativa de rompimento dos 8.000 pontos em alta, a discussão de política pública pareceu pesar sobre o humor de curto prazo. O mercado deve acompanhar o desdobramento da polêmica e a recuperação da confiança. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI dreht kurz vor 8.000 ins Minus und schwankt um 577 Punkte",
+        "excerpt": "Der KOSPI fiel nach sechs Handelstagen, obwohl er der Marke von 8.000 Punkten nahekam. Trotz eines Starts mit über 2% Plus belastete die Debatte über eine ‘Volksdividende’ aus Steuermehreinnahmen die Stimmung.",
+        "body": "Der KOSPI drehte nach sechs Handelstagen ins Minus, während er sich der Marke von 8.000 Punkten näherte. Zu Handelsbeginn legte der Index noch um mehr als 2% zu, doch die Kontroverse über eine ‘Volksdividende’ im Zusammenhang mit Steuermehreinnahmen erschütterte die Anlegerstimmung und machte den Tagesverlauf stark unruhig. Zwischenzeitlich schwankte der KOSPI um bis zu 577 Punkte, weshalb von einem ‘Roller-KOSPI’ gesprochen wurde. In einer Phase wachsender Erwartungen an einen Ausbruch über 8.000 Punkte belastete die politische Debatte offenbar die kurzfristige Handelsstimmung. Der Markt dürfte nun den Fortgang der Kontroverse und eine mögliche Stabilisierung der Stimmung beobachten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI recule près des 8 000 après une oscillation de 577 points",
+        "excerpt": "Le KOSPI a basculé en baisse après six séances alors qu’il approchait les 8 000 points. Malgré une ouverture en hausse de plus de 2%, la polémique sur un ‘dividende national’ lié aux recettes fiscales excédentaires a pesé sur le moral des investisseurs.",
+        "body": "Le KOSPI est repassé en baisse après six séances alors qu’il s’approchait du seuil des 8 000 points. L’indice avait commencé la séance sur une hausse de plus de 2%, mais la controverse autour d’un ‘dividende national’ lié à l’excédent de recettes fiscales a ébranlé le sentiment des investisseurs et rendu les mouvements intrajournaliers très instables. À un moment de la séance, le KOSPI a oscillé jusqu’à 577 points, justifiant l’expression de ‘KOSPI montagnes russes’. Alors que les attentes d’un franchissement des 8 000 points augmentaient, ce débat de politique publique a semblé affecter le sentiment de court terme. Le marché suivra l’évolution de la controverse et la reprise éventuelle de la confiance. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتراجع قرب 8000 نقطة بعد تقلبات بلغت 577 نقطة",
+        "excerpt": "تحول مؤشر كوسبي إلى الهبوط بعد ست جلسات مع اقترابه من مستوى 8000 نقطة. ورغم افتتاحه على ارتفاع يفوق 2%، أثار الجدل حول ‘توزيع وطني’ من فائض الضرائب اضطرابا في معنويات المستثمرين.",
+        "body": "تحول مؤشر كوسبي إلى الهبوط بعد ست جلسات تداول مع اقترابه من مستوى 8000 نقطة. وكان المؤشر قد بدأ الجلسة على ارتفاع يتجاوز 2%، لكن الجدل بشأن ‘توزيع وطني’ مرتبط بفائض الإيرادات الضريبية هز معنويات المستثمرين وجعل حركة المؤشر خلال الجلسة شديدة الاضطراب. وفي إحدى مراحل التداول، تأرجح كوسبي بما يصل إلى 577 نقطة، ما دفع إلى وصفه بأنه يشبه قطارا سريعا من التقلبات. ومع تزايد التوقعات باختراق مستوى 8000 نقطة، بدا أن الجدل المرتبط بالسياسات أثر في شهية التداول قصيرة الأجل. ومن المتوقع أن تتابع السوق تطورات هذا الجدل ومدى تعافي ثقة المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "8,000 के करीब KOSPI पलटा, 577 अंकों की उथल-पुथल से बाजार चकराया",
+        "excerpt": "KOSPI 8,000 अंक के करीब पहुंचते हुए छह सत्रों बाद गिरावट में बदल गया। शुरुआती कारोबार में 2% से अधिक तेजी के बावजूद अतिरिक्त कर राजस्व से जुड़े ‘राष्ट्रीय लाभांश’ विवाद ने निवेशक भावना को झकझोर दिया।",
+        "body": "KOSPI 8,000 अंक के स्तर के करीब पहुंचते हुए छह कारोबारी सत्रों के बाद गिरावट में बदल गया। दिन की शुरुआत में सूचकांक 2% से अधिक मजबूत था, लेकिन अतिरिक्त कर राजस्व से जुड़े ‘राष्ट्रीय लाभांश’ विवाद ने निवेशकों की भावना को प्रभावित किया और इंट्राडे चाल अचानक अस्थिर हो गई। सत्र के दौरान KOSPI एक समय 577 अंकों तक झूला, जिससे इसे ‘रोलर-KOSPI’ जैसा कहा गया। 8,000 अंक पार करने की उम्मीदों के बीच नीति से जुड़े इस विवाद ने अल्पकालिक कारोबार मनोवृत्ति पर असर डाला माना जा रहा है। बाजार आगे विवाद की दिशा और निवेशक भरोसे की बहाली पर नजर रखेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Berbalik Turun Dekat 8.000, Berayun 577 Poin Bak Rollercoaster",
+        "excerpt": "KOSPI berbalik turun setelah enam sesi saat mendekati level 8.000. Meski dibuka menguat lebih dari 2%, polemik ‘dividen nasional’ dari kelebihan penerimaan pajak mengguncang sentimen investor.",
+        "body": "KOSPI berbalik melemah setelah enam sesi perdagangan ketika mendekati level 8.000. Pada awal sesi, indeks sempat dibuka menguat lebih dari 2%, tetapi polemik mengenai ‘dividen nasional’ terkait kelebihan penerimaan pajak mengguncang sentimen investor dan membuat pergerakan intraday menjadi sangat tidak stabil. Pada satu titik, KOSPI berayun hingga 577 poin, sehingga muncul sebutan ‘roller-KOSPI’. Di tengah meningkatnya harapan untuk menembus level 8.000, perdebatan kebijakan tersebut dinilai memengaruhi sentimen perdagangan jangka pendek. Pasar diperkirakan akan mencermati perkembangan polemik ini dan apakah kepercayaan investor kembali stabil. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8955d6eb9005",
     "slug": "은퇴-준비를-위한-마지막-골든타임-5년-621038",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "1.331 Laporan Naikkan Target Harga Saat Reli Semikonduktor Berlanjut",
         "excerpt": "Saat reli semikonduktor membawa KOSPI mendekati level 8.000, sekuritas menerbitkan 1.331 laporan kenaikan target harga, secara tidak biasa melampaui rekomendasi bertahan.",
         "body": "Reli semikonduktor yang membawa KOSPI mendekati level 8.000 membuat sekuritas makin cepat menaikkan target harga saham. Menurut naskah asli, laporan kenaikan target harga tercatat 1.331, secara tidak biasa lebih banyak daripada laporan yang mempertahankan target. Lonjakan estimasi laba saham semikonduktor unggulan disebut sebagai latar utama perubahan tersebut. Sentimen positif juga meluas, tidak hanya ke semikonduktor, tetapi juga ke saham sekuritas dan pertahanan. Artikel berfokus pada penyesuaian target harga serta perubahan suasana per sektor, sementara rincian prospek saham individual tetap terbatas pada informasi sumber. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "8dd0bc665a11",
-    "slug": "내년-영업익-1000조-시대반도체가-바꾼-코스피-체급-641992",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T21:05:14.275Z",
-    "updatedAt": "2026-05-11T21:05:14.275Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051191291",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051191291",
-    "titleFingerprint": "73576718491cda0710ed56253f4cf0a083e405a4",
-    "dedupKeys": [
-      "8dd0bc665a11fdc44ce7eb5f5639e58334c710d0",
-      "73576718491cda0710ed56253f4cf0a083e405a4",
-      "9ba079883b798a601a1d3dbc92224809decd9010"
-    ],
-    "imageUrl": "/images/articles/8dd0bc665a11.jpg",
-    "i18n": {
-      "ko": {
-        "title": "반도체 호황에 달라진 코스피 체급…삼성전자·SK하이닉스가 이끈 내년 영업익 1050조 전망",
-        "excerpt": "에프앤가이드는 5월 11일 유가증권시장 상장사 170곳의 내년 영업이익 전망치가 1050조2303억원으로 집계됐다고 밝혔다. AI발 반도체 호황이 코스피 체급을 키우고 있다.",
-        "body": "5월 11일 금융정보업체 에프앤가이드에 따르면 증권사 세 곳 이상의 실적 전망치가 있는 유가증권시장 상장사 170곳의 올해 영업이익 전망치는 849조5262억원, 내년 전망치는 1050조2303억원으로 집계됐다. 내년 전망치는 올해보다 23.6%, 지난해 확정치 271조2698억원보다 287.1% 높은 수준이다. 전망치 상향의 중심에는 삼성전자와 SK하이닉스가 있다. 두 회사의 합산 영업이익 전망치는 올해 587조6624억원, 내년 768조5790억원으로 각각 전체의 69%, 73%를 차지한다. AI가 촉발한 메모리 반도체 가격 상승과 장기공급계약이 배경으로 제시됐다. JP모간은 코스피 목표 지수로 10,000을 제시했고, 이날 코스피는 7822.24에 마감했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Semiconductor Boom Reshapes Kospi as Samsung and SK Hynix Drive 1,050 Trillion Won Profit Outlook",
-        "excerpt": "FnGuide said on May 11 that 170 Kospi-listed firms are forecast to post 1,050.2303 trillion won in operating profit next year as AI-led chip demand lifts market expectations.",
-        "body": "On May 11, financial data firm FnGuide said 170 Kospi-listed companies with earnings estimates from at least three brokerages are projected to post 849.5262 trillion won in operating profit this year and 1,050.2303 trillion won next year. The 2027 estimate is 23.6% above this year’s forecast and 287.1% higher than last year’s confirmed 271.2698 trillion won. Samsung Electronics and SK Hynix are at the center of the upward revisions. Their combined operating profit forecast is 587.6624 trillion won this year and 768.5790 trillion won next year, accounting for 69% and 73% of the total, respectively. Rising memory chip prices triggered by AI demand and long-term supply agreements were cited as key factors. JPMorgan presented a Kospi target of 10,000, while the index closed at 7,822.24 that day. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "半導体好況で変わるKOSPIの規模、サムスンとSKハイニックスが来年営業益1050兆ウォンをけん引",
-        "excerpt": "エフエヌガイドは5月11日、KOSPI上場170社の来年営業利益予想が1050兆2303億ウォンに達すると集計した。AI発の半導体好況が市場の規模感を押し上げている。",
-        "body": "金融情報会社エフエヌガイドによると、5月11日時点で証券会社3社以上の業績予想があるKOSPI上場170社の営業利益予想は、今年849兆5262億ウォン、来年1050兆2303億ウォンと集計された。来年の予想は今年比23.6%増、昨年確定値の271兆2698億ウォン比では287.1%増となる。上方修正の中心はサムスン電子とSKハイニックスだ。両社の合算営業利益予想は今年587兆6624億ウォン、来年768兆5790億ウォンで、それぞれ全体の69%、73%を占める。AIが引き起こしたメモリー半導体価格の上昇と長期供給契約が背景とされた。JPモルガンはKOSPI目標を10,000とし、この日の指数は7,822.24で引けた。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "半导体景气改写KOSPI体量，三星电子与SK海力士带动明年营业利润1050万亿韩元预期",
-        "excerpt": "FnGuide 5月11日表示，170家有三家以上券商预测的韩国主板上市公司明年营业利润预计达1050.2303万亿韩元，AI带动的芯片景气正在抬升KOSPI预期。",
-        "body": "金融信息公司FnGuide 5月11日数据显示，至少有三家券商给出业绩预测的170家韩国主板上市公司，今年营业利润预计为849.5262万亿韩元，明年为1050.2303万亿韩元。明年预测值较今年高23.6%，较去年确定值271.2698万亿韩元高287.1%。上调预期的核心是三星电子和SK海力士。两家公司合计营业利润预计今年为587.6624万亿韩元，明年为768.5790万亿韩元，分别占整体的69%和73%。报道指出，AI引发的存储半导体价格上涨以及长期供应合同是背景因素。摩根大通提出KOSPI目标位10,000点，当日指数收于7,822.24点。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El auge de semiconductores cambia el tamaño del Kospi y eleva la previsión de beneficio a 1.050 billones de wones",
-        "excerpt": "FnGuide informó el 11 de mayo que 170 empresas del Kospi tendrían 1.050,2303 billones de wones de beneficio operativo el próximo año, impulsadas por el ciclo de chips ligado a la IA.",
-        "body": "Según la firma de información financiera FnGuide, al 11 de mayo las 170 compañías del mercado Kospi con previsiones de al menos tres corredurías tendrían un beneficio operativo de 849,5262 billones de wones este año y de 1.050,2303 billones el próximo. La estimación para el próximo año supera en 23,6% la de este año y en 287,1% el dato confirmado del año pasado, de 271,2698 billones. Samsung Electronics y SK Hynix están en el centro de las revisiones al alza. Su beneficio operativo conjunto se estima en 587,6624 billones de wones este año y 768,5790 billones el próximo, equivalentes al 69% y 73% del total. El aumento de precios de memorias provocado por la IA y los contratos de suministro a largo plazo fueron citados como factores clave. JPMorgan fijó un objetivo de 10.000 para el Kospi, que cerró ese día en 7.822,24. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Boom dos semicondutores muda o porte do Kospi e leva previsão de lucro operacional a 1.050 trilhões de won",
-        "excerpt": "A FnGuide informou em 11 de maio que 170 empresas listadas no Kospi devem somar 1.050,2303 trilhões de won em lucro operacional no próximo ano, com impulso da demanda por chips ligada à IA.",
-        "body": "Segundo a empresa de informações financeiras FnGuide, em 11 de maio, 170 companhias listadas no Kospi com estimativas de pelo menos três corretoras tinham previsão de lucro operacional de 849,5262 trilhões de won neste ano e 1.050,2303 trilhões no próximo. A projeção para o próximo ano é 23,6% maior que a deste ano e 287,1% acima do resultado confirmado do ano passado, de 271,2698 trilhões. Samsung Electronics e SK Hynix estão no centro das revisões para cima. A previsão combinada das duas é de 587,6624 trilhões de won neste ano e 768,5790 trilhões no próximo, equivalentes a 69% e 73% do total. A alta dos preços de memória causada pela IA e contratos de fornecimento de longo prazo foram apontados como fatores. O JPMorgan indicou meta de 10.000 para o Kospi, que fechou o dia em 7.822,24. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Halbleiterboom verändert Gewicht des Kospi, Samsung und SK Hynix treiben Gewinnprognose auf 1.050 Billionen Won",
-        "excerpt": "FnGuide meldete am 11. Mai, dass 170 Kospi-Unternehmen im kommenden Jahr voraussichtlich 1.050,2303 Billionen Won operativen Gewinn erzielen, gestützt durch den KI-getriebenen Chipzyklus.",
-        "body": "Nach Angaben des Finanzdatenanbieters FnGuide vom 11. Mai werden 170 im Kospi gelistete Unternehmen, für die Schätzungen von mindestens drei Wertpapierhäusern vorliegen, in diesem Jahr voraussichtlich 849,5262 Billionen Won operativen Gewinn erzielen und im kommenden Jahr 1.050,2303 Billionen Won. Die Prognose für das kommende Jahr liegt 23,6% über der diesjährigen Schätzung und 287,1% über dem bestätigten Vorjahreswert von 271,2698 Billionen Won. Im Zentrum der Aufwärtsrevisionen stehen Samsung Electronics und SK Hynix. Ihr gemeinsamer operativer Gewinn wird auf 587,6624 Billionen Won in diesem Jahr und 768,5790 Billionen Won im kommenden Jahr geschätzt, was 69% beziehungsweise 73% des Gesamtwerts entspricht. Als Gründe wurden steigende Speicherchippreise durch KI-Nachfrage und langfristige Lieferverträge genannt. JPMorgan nannte ein Kospi-Ziel von 10.000; der Index schloss an dem Tag bei 7.822,24. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le boom des semi-conducteurs redéfinit le Kospi, Samsung et SK Hynix portent la prévision de bénéfice à 1 050 billions de wons",
-        "excerpt": "FnGuide a indiqué le 11 mai que 170 sociétés cotées au Kospi devraient atteindre 1 050,2303 billions de wons de bénéfice opérationnel l’an prochain, portées par la demande de puces liée à l’IA.",
-        "body": "Selon la société d’information financière FnGuide, au 11 mai, 170 entreprises cotées au Kospi disposant de prévisions d’au moins trois maisons de courtage devraient dégager 849,5262 billions de wons de bénéfice opérationnel cette année et 1 050,2303 billions l’an prochain. La prévision pour l’an prochain dépasse celle de cette année de 23,6% et le chiffre confirmé de l’an dernier, 271,2698 billions de wons, de 287,1%. Samsung Electronics et SK Hynix sont au centre des révisions à la hausse. Leur bénéfice opérationnel combiné est estimé à 587,6624 billions de wons cette année et 768,5790 billions l’an prochain, soit 69% et 73% du total. La hausse des prix des mémoires provoquée par l’IA et les contrats d’approvisionnement à long terme ont été cités comme facteurs. JPMorgan a fixé un objectif de 10 000 pour le Kospi, qui a clôturé ce jour-là à 7 822,24. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "طفرة أشباه الموصلات تعيد تشكيل وزن كوسبي مع توقع أرباح تشغيلية بـ1050 تريليون وون تقودها سامسونغ وSK هاينكس",
-        "excerpt": "قالت FnGuide في 11 مايو إن 170 شركة مدرجة في كوسبي يُتوقع أن تسجل 1050.2303 تريليون وون أرباحا تشغيلية العام المقبل، بدعم من دورة الرقائق المرتبطة بالذكاء الاصطناعي.",
-        "body": "قالت شركة البيانات المالية FnGuide في 11 مايو إن 170 شركة مدرجة في سوق كوسبي ولديها تقديرات أرباح من ثلاث شركات وساطة على الأقل يُتوقع أن تحقق 849.5262 تريليون وون أرباحا تشغيلية هذا العام و1050.2303 تريليون وون العام المقبل. وتزيد توقعات العام المقبل 23.6% عن تقديرات هذا العام و287.1% عن الرقم المؤكد للعام الماضي البالغ 271.2698 تريليون وون. وتقف سامسونغ إلكترونيكس وSK هاينكس في مركز هذه المراجعات الصعودية. وتبلغ توقعات أرباحهما التشغيلية المجمعة 587.6624 تريليون وون هذا العام و768.5790 تريليون وون العام المقبل، أي 69% و73% من الإجمالي. وذُكر أن ارتفاع أسعار شرائح الذاكرة بسبب الذكاء الاصطناعي وعقود التوريد طويلة الأجل من العوامل الرئيسية. وقدمت JPMorgan هدفا لمؤشر كوسبي عند 10,000، فيما أغلق المؤشر ذلك اليوم عند 7,822.24. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर उछाल से बदला Kospi का आकार, Samsung और SK Hynix से 1,050 ट्रिलियन वॉन लाभ अनुमान",
-        "excerpt": "FnGuide ने 11 मई को कहा कि Kospi में सूचीबद्ध 170 कंपनियों का अगले साल परिचालन लाभ 1,050.2303 ट्रिलियन वॉन रहने का अनुमान है, जिसे AI से जुड़ी चिप मांग सहारा दे रही है।",
-        "body": "वित्तीय सूचना कंपनी FnGuide के अनुसार, 11 मई तक कम से कम तीन ब्रोकरेज के अनुमान वाली Kospi-सूचीबद्ध 170 कंपनियों का परिचालन लाभ इस साल 849.5262 ट्रिलियन वॉन और अगले साल 1,050.2303 ट्रिलियन वॉन रहने का अनुमान है। अगले साल का अनुमान इस साल से 23.6% और पिछले साल के पक्के आंकड़े 271.2698 ट्रिलियन वॉन से 287.1% अधिक है। अनुमान बढ़ने के केंद्र में Samsung Electronics और SK Hynix हैं। दोनों कंपनियों का संयुक्त परिचालन लाभ इस साल 587.6624 ट्रिलियन वॉन और अगले साल 768.5790 ट्रिलियन वॉन आंका गया है, जो कुल का क्रमशः 69% और 73% है। AI से प्रेरित मेमोरी सेमीकंडक्टर कीमतों में तेजी और दीर्घकालिक आपूर्ति अनुबंधों को इसकी पृष्ठभूमि बताया गया। JPMorgan ने Kospi के लिए 10,000 का लक्ष्य रखा, जबकि उस दिन सूचकांक 7,822.24 पर बंद हुआ। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Boom Semikonduktor Mengubah Skala Kospi, Samsung dan SK Hynix Dorong Proyeksi Laba 1.050 Triliun Won",
-        "excerpt": "FnGuide pada 11 Mei menyebut 170 emiten Kospi diperkirakan membukukan laba operasi 1.050,2303 triliun won tahun depan, seiring permintaan chip yang dipicu AI.",
-        "body": "Menurut perusahaan informasi keuangan FnGuide pada 11 Mei, 170 emiten Kospi yang memiliki estimasi kinerja dari sedikitnya tiga sekuritas diproyeksikan mencatat laba operasi 849,5262 triliun won tahun ini dan 1.050,2303 triliun won tahun depan. Proyeksi tahun depan 23,6% lebih tinggi dari tahun ini dan 287,1% di atas angka pasti tahun lalu sebesar 271,2698 triliun won. Samsung Electronics dan SK Hynix menjadi pusat kenaikan estimasi tersebut. Proyeksi gabungan laba operasi keduanya mencapai 587,6624 triliun won tahun ini dan 768,5790 triliun won tahun depan, masing-masing setara 69% dan 73% dari total. Kenaikan harga memori akibat AI dan kontrak pasokan jangka panjang disebut sebagai latar belakangnya. JPMorgan menetapkan target Kospi 10.000, sementara indeks ditutup di 7.822,24 pada hari itu. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "5005f4cce57d",
-    "slug": "조너선-크레인-中-ai-역량-美만큼-강력지금이-레드테크-투자할-때-811726",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T21:03:48.591Z",
-    "updatedAt": "2026-05-11T21:03:48.591Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190561",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190561",
-    "titleFingerprint": "84012fabdf298a9c52f8af67cac87b3cd641c1ba",
-    "dedupKeys": [
-      "5005f4cce57decd0a790bb4858a6ea2b4c709efd",
-      "84012fabdf298a9c52f8af67cac87b3cd641c1ba",
-      "58d720ae37039337e1904c747d46c6543013fd07"
-    ],
-    "imageUrl": "/images/articles/5005f4cce57d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "중국 AI·레드테크 투자 적기론…조너선 크레인 “미국만큼 강력”",
-        "excerpt": "조너선 크레인 크레인셰어스 CEO는 5월 11일 서울 여의도에서 중국 AI와 휴머노이드 경쟁력이 미국에 맞먹는다며 중국 기술주 투자 적기론을 밝혔다.",
-        "body": "조너선 크레인 크레인셰어스 창립자 겸 CEO는 5월 11일 서울 여의도에서 한국경제신문과 만나 “지금이 중국 시장에 투자할 적기”라고 말했다. 그는 지정학적 리스크로 투자심리가 위축됐지만 악재보다 호재가 많다고 진단했다. 크레인셰어스는 10조원 규모 중국 인터넷 ETF KWEB과 세계 최초 휴머노이드 로봇 ETF KOID를 운용한다. 크레인은 중국 기술주가 가치주 투자 구간에 들어섰고, AI 성과가 본격화하면 재평가가 가능하다고 봤다. 그는 중국의 AI 개발 역량과 데이터센터 인프라를 높게 평가하며 알리바바, 텐센트, 유니트리 등을 언급했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "China AI and Red Tech Investment Case Gains Weight as Jonathan Krane Sees U.S.-Level Strength",
-        "excerpt": "KraneShares CEO Jonathan Krane said in Seoul on May 11 that China’s AI and humanoid capabilities rival the U.S., making now a timely moment to consider Chinese tech stocks.",
-        "body": "Jonathan Krane, founder and CEO of KraneShares, told The Korea Economic Daily in Yeouido, Seoul, on May 11 that now is a timely moment to invest in the Chinese market. He said geopolitical risks have weakened sentiment, but positive factors outweigh negatives. KraneShares manages KWEB, a 10 trillion won China internet ETF, and KOID, described as the world’s first humanoid robot ETF. Krane said Chinese technology stocks have entered a value-investing phase and could be re-rated once AI results accelerate. He also cited China’s AI development capability, data-center infrastructure, and players such as Alibaba, Tencent and Unitree. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "中国AI・レッドテック投資に追い風、クレイン氏「米国並みに強力」",
-        "excerpt": "クレインシェアーズのジョナサン・クレインCEOは5月11日、ソウル汝矣島で中国AIとヒューマノイドの競争力が米国に匹敵すると述べ、中国技術株の投資好機を強調した。",
-        "body": "クレインシェアーズ創業者兼CEOのジョナサン・クレイン氏は5月11日、ソウル汝矣島で韓国経済新聞の取材に応じ、「今が中国市場に投資する適期だ」と述べた。地政学リスクで投資心理は萎縮しているものの、悪材料より好材料が多いとの見方だ。クレインシェアーズは10兆ウォン規模の中国インターネットETF「KWEB」と、世界初のヒューマノイドロボットETF「KOID」を運用している。クレイン氏は中国技術株がバリュー投資の局面に入り、AI関連成果が本格化すれば再評価され得るとした。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "中国AI与红色科技投资升温，Jonathan Krane称实力比肩美国",
-        "excerpt": "KraneShares首席执行官Jonathan Krane于5月11日在首尔汝矣岛表示，中国AI和人形机器人竞争力可与美国相比，现在是关注中国科技股的时点。",
-        "body": "KraneShares创始人兼首席执行官Jonathan Krane于5月11日在首尔汝矣岛接受《韩国经济新闻》采访时表示，现在是投资中国市场的合适时机。他认为，地缘政治风险压低了投资情绪，但利好因素多于利空。KraneShares管理规模达10万亿韩元的中国互联网ETF KWEB，以及被称为全球首只人形机器人ETF的KOID。Krane表示，中国科技股已进入价值投资区间，若AI成果全面显现，股价可能迎来重新评估。他还提到中国AI开发能力、数据中心基础设施，以及阿里巴巴、腾讯、宇树等主要企业。来源: hankyung.com"
-      },
-      "es": {
-        "title": "IA china y red tech ganan atractivo: Jonathan Krane ve una fuerza comparable a EE. UU.",
-        "excerpt": "Jonathan Krane, CEO de KraneShares, dijo el 11 de mayo en Yeouido, Seúl, que la IA y los humanoides de China compiten con EE. UU., reforzando el caso de invertir en tecnológicas chinas.",
-        "body": "Jonathan Krane, fundador y CEO de KraneShares, dijo el 11 de mayo en Yeouido, Seúl, a The Korea Economic Daily que ahora es un momento oportuno para invertir en el mercado chino. Señaló que los riesgos geopolíticos han debilitado el ánimo inversor, pero que los factores positivos superan a los negativos. KraneShares gestiona KWEB, un ETF de internet chino de 10 billones de wones, y KOID, presentado como el primer ETF mundial de robots humanoides. Krane afirmó que las tecnológicas chinas han entrado en una fase de inversión de valor y podrían revalorizarse cuando avancen los resultados en IA. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "IA chinesa e red tech entram no radar: Jonathan Krane vê força no nível dos EUA",
-        "excerpt": "Jonathan Krane, CEO da KraneShares, disse em 11 de maio em Yeouido, Seul, que a IA e os humanoides da China rivalizam com os EUA, defendendo o momento para ações de tecnologia chinesas.",
-        "body": "Jonathan Krane, fundador e CEO da KraneShares, disse em 11 de maio, em Yeouido, Seul, ao The Korea Economic Daily que este é um momento oportuno para investir no mercado chinês. Segundo ele, os riscos geopolíticos reduziram o apetite dos investidores, mas os fatores positivos superam os negativos. A KraneShares administra o KWEB, ETF de internet chinesa de 10 trilhões de won, e o KOID, apontado como o primeiro ETF mundial de robôs humanoides. Krane afirmou que as ações chinesas de tecnologia entraram em uma fase de investimento em valor e podem ser reavaliadas com avanços em IA. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Chinas KI und Red Tech im Fokus: Jonathan Krane sieht Stärke auf US-Niveau",
-        "excerpt": "KraneShares-CEO Jonathan Krane sagte am 11. Mai in Yeouido, Seoul, Chinas KI- und Humanoid-Kompetenz sei mit den USA vergleichbar und stütze den Blick auf chinesische Technologiewerte.",
-        "body": "Jonathan Krane, Gründer und CEO von KraneShares, sagte am 11. Mai in Yeouido, Seoul, der Korea Economic Daily, jetzt sei ein geeigneter Zeitpunkt für Investitionen im chinesischen Markt. Geopolitische Risiken hätten die Stimmung belastet, doch positive Faktoren überwögen. KraneShares verwaltet KWEB, einen China-Internet-ETF mit einem Volumen von 10 Billionen Won, sowie KOID, der als weltweit erster Humanoid-Roboter-ETF beschrieben wird. Krane sagte, chinesische Technologiewerte seien in eine Value-Investing-Phase eingetreten und könnten bei stärkeren KI-Ergebnissen neu bewertet werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "IA chinoise et red tech attirent l’attention: Jonathan Krane voit une force égale aux États-Unis",
-        "excerpt": "Jonathan Krane, CEO de KraneShares, a déclaré le 11 mai à Yeouido, Séoul, que l’IA et les humanoïdes chinois rivalisent avec les États-Unis, soutenant l’intérêt pour les valeurs technologiques chinoises.",
-        "body": "Jonathan Krane, fondateur et CEO de KraneShares, a déclaré le 11 mai à Yeouido, Séoul, au Korea Economic Daily que le moment était opportun pour investir sur le marché chinois. Selon lui, les risques géopolitiques ont pesé sur le sentiment, mais les facteurs positifs dépassent les négatifs. KraneShares gère KWEB, un ETF internet chinois de 10 000 milliards de wons, ainsi que KOID, présenté comme le premier ETF mondial de robots humanoïdes. Krane estime que les valeurs technologiques chinoises sont entrées dans une phase d’investissement value et pourraient être réévaluées avec les progrès de l’IA. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "الذكاء الاصطناعي الصيني وريد تك تحت الضوء: جوناثان كرين يرى قوة تضاهي أميركا",
-        "excerpt": "قال جوناثان كرين، الرئيس التنفيذي لـKraneShares، في سيول يوم 11 مايو إن قدرات الصين في الذكاء الاصطناعي والروبوتات الشبيهة بالبشر تضاهي الولايات المتحدة، ما يعزز طرح الاستثمار في أسهم التكنولوجيا الصينية.",
-        "body": "قال جوناثان كرين، مؤسس KraneShares ورئيسها التنفيذي، لصحيفة Korea Economic Daily في يوييدو بسيول يوم 11 مايو إن الوقت مناسب للاستثمار في السوق الصينية. وأوضح أن المخاطر الجيوسياسية أضعفت معنويات المستثمرين، لكن العوامل الإيجابية تفوق السلبية. تدير KraneShares صندوق KWEB لأسهم الإنترنت الصينية بحجم 10 تريليونات وون، وصندوق KOID الموصوف بأنه أول صندوق مؤشرات عالمي للروبوتات الشبيهة بالبشر. ورأى كرين أن أسهم التكنولوجيا الصينية دخلت مرحلة استثمار قيمة وقد يعاد تقييمها مع تقدم نتائج الذكاء الاصطناعي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "चीन AI और रेड टेक पर दांव मजबूत, Jonathan Krane बोले क्षमता अमेरिका जितनी",
-        "excerpt": "KraneShares के CEO Jonathan Krane ने 11 मई को सियोल के येओइदो में कहा कि चीन की AI और ह्यूमनॉइड क्षमता अमेरिका के बराबर मजबूत है, इसलिए चीनी टेक शेयरों पर ध्यान देने का समय है।",
-        "body": "KraneShares के संस्थापक और CEO Jonathan Krane ने 11 मई को सियोल के येओइदो में Korea Economic Daily से कहा कि चीन के बाजार में निवेश के लिए यह उपयुक्त समय है। उनके अनुसार भू-राजनीतिक जोखिमों से निवेश भावना कमजोर हुई है, लेकिन सकारात्मक कारक नकारात्मक कारकों से अधिक हैं। KraneShares 10 ट्रिलियन वॉन आकार वाले चीन इंटरनेट ETF KWEB और दुनिया के पहले ह्यूमनॉइड रोबोट ETF कहे जाने वाले KOID का प्रबंधन करती है। Krane ने कहा कि चीनी टेक शेयर वैल्यू निवेश के चरण में हैं और AI उपलब्धियां तेज होने पर उनका पुनर्मूल्यांकन संभव है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "AI China dan red tech makin menarik, Jonathan Krane sebut kekuatannya setara AS",
-        "excerpt": "CEO KraneShares Jonathan Krane pada 11 Mei di Yeouido, Seoul, mengatakan kemampuan AI dan humanoid China menyaingi AS, sehingga kini menjadi waktu tepat mencermati saham teknologi China.",
-        "body": "Jonathan Krane, pendiri sekaligus CEO KraneShares, mengatakan kepada The Korea Economic Daily di Yeouido, Seoul, pada 11 Mei bahwa sekarang adalah waktu yang tepat untuk berinvestasi di pasar China. Ia menilai risiko geopolitik memang menekan sentimen, tetapi faktor positif lebih banyak daripada negatif. KraneShares mengelola KWEB, ETF internet China senilai 10 triliun won, dan KOID, yang disebut sebagai ETF robot humanoid pertama di dunia. Krane mengatakan saham teknologi China telah masuk fase investasi nilai dan dapat dinilai ulang ketika capaian AI mulai menguat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "95ea07f6ee87",
-    "slug": "1만피-설마-했는데삼전닉스-768조에-개미들-환호-614478",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T21:02:49.627Z",
-    "updatedAt": "2026-05-11T21:02:49.627Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051190171",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051190171",
-    "titleFingerprint": "60fddbaa4a5364f02a91fee6f165ccdd0cb3e0ee",
-    "dedupKeys": [
-      "95ea07f6ee877bb00fd8805c931793cd1f978777",
-      "60fddbaa4a5364f02a91fee6f165ccdd0cb3e0ee",
-      "aadf32599f80c5afef71ee5b63e548512f2529af"
-    ],
-    "imageUrl": "/images/articles/95ea07f6ee87.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼전닉스 768조 소식에 개인투자자 환호, ‘1만피’ 기대 재부상",
-        "excerpt": "hankyung.com은 ‘삼전닉스’로 불리는 삼성전자·SK하이닉스 관련 768조원 규모 소식에 개인투자자들이 환호했다고 전했다.",
-        "body": "hankyung.com은 ‘삼전닉스’로 불리는 삼성전자와 SK하이닉스 관련 768조원 규모 소식에 개인투자자들이 환호했다고 보도했다. 원문 제목은 “1만피? 설마 했는데”…삼전닉스 768조에 개미들 ‘환호’로, 국내 증시에서 대형 반도체주에 대한 관심이 다시 커진 분위기를 전한다. 제목에 언급된 ‘1만피’는 코스피 상승 기대를 상징하는 표현으로 제시됐고, 핵심 수치는 768조원이다. 이번 보도는 개인투자자들의 반응과 삼성전자·SK하이닉스에 쏠린 시장 관심을 중심으로 다뤄졌다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Samsung-SK Hynix 768 Trillion Won News Lifts Retail Investor Mood",
-        "excerpt": "hankyung.com reported that retail investors cheered news tied to Samsung Electronics and SK Hynix, known together as “Samjeon-nix,” and a 768 trillion won figure.",
-        "body": "hankyung.com reported that retail investors cheered news involving Samsung Electronics and SK Hynix, often grouped in Korea under the nickname “Samjeon-nix,” and a 768 trillion won figure. The original headline, “‘KOSPI 10,000? I doubted it’… retail investors cheer Samjeon-nix at 768 trillion,” points to renewed attention on major Korean semiconductor stocks. The phrase “KOSPI 10,000” was presented as a symbol of market expectations, while the key number cited was 768 trillion won. The report focused on retail investor reaction and market interest in Samsung Electronics and SK Hynix. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "サムスン・SKハイニックス768兆ウォン報道に個人投資家が歓喜",
-        "excerpt": "hankyung.comは、韓国で「サムジョンニックス」と呼ばれるサムスン電子とSKハイニックスに関する768兆ウォン規模の話題で個人投資家が沸いたと伝えた。",
-        "body": "hankyung.comは、韓国で「サムジョンニックス」と呼ばれるサムスン電子とSKハイニックスに関する768兆ウォン規模の話題を受け、個人投資家が歓喜したと報じた。原文の見出しは「1万ピ？まさかと思ったのに」…サムジョンニックス768兆に個人投資家が「歓呼」という内容で、韓国株式市場で大型半導体株への関心が再び高まった雰囲気を伝えている。見出しの「1万ピ」はKOSPI上昇期待を象徴する表現として示され、中心となる数値は768兆ウォンだった。報道は投資家の反応と市場の関心に焦点を当てた。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "三星电子与SK海力士768万亿韩元消息引散户欢呼",
-        "excerpt": "hankyung.com报道称，被称为“三电海力士”的三星电子和SK海力士相关768万亿韩元消息，引发韩国个人投资者欢呼。",
-        "body": "hankyung.com报道称，被韩国市场称为“三电海力士”的三星电子和SK海力士相关768万亿韩元规模消息，引发个人投资者欢呼。原文标题为“1万点？本以为不可能”…三电海力士768万亿韩元让散户“欢呼”，传递出韩国股市对大型半导体股关注再度升温的氛围。标题中的“1万点”被作为KOSPI上涨期待的象征性说法提出，核心数字则是768万亿韩元。该报道主要围绕个人投资者反应，以及市场对三星电子和SK海力士的关注展开。来源：hankyung.com。"
-      },
-      "es": {
-        "title": "Samsung y SK Hynix: 768 billones de wones entusiasman a minoristas",
-        "excerpt": "hankyung.com informó que los inversores minoristas celebraron una noticia vinculada a Samsung Electronics y SK Hynix, conocidas juntas como “Samjeon-nix”, y una cifra de 768 billones de wones.",
-        "body": "hankyung.com informó que los inversores minoristas celebraron una noticia relacionada con Samsung Electronics y SK Hynix, conocidas en Corea bajo el apodo de “Samjeon-nix”, y una cifra de 768 billones de wones. El titular original, “‘¿KOSPI en 10.000? Parecía imposible’… los minoristas celebran los 768 billones de Samjeon-nix”, refleja el renovado interés por las grandes acciones coreanas de semiconductores. La expresión “KOSPI 10.000” aparece como símbolo de expectativas alcistas, mientras que el dato central es 768 billones de wones. La nota se centró en la reacción de los pequeños inversores y la atención del mercado. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Samsung e SK Hynix: 768 trilhões de won animam investidores pessoa física",
-        "excerpt": "O hankyung.com informou que investidores pessoa física comemoraram notícia ligada a Samsung Electronics e SK Hynix, chamadas de “Samjeon-nix”, e ao valor de 768 trilhões de won.",
-        "body": "O hankyung.com informou que investidores pessoa física comemoraram uma notícia envolvendo Samsung Electronics e SK Hynix, frequentemente chamadas na Coreia de “Samjeon-nix”, e o valor de 768 trilhões de won. A manchete original, “‘KOSPI a 10.000? Parecia impossível’… investidores comemoram Samjeon-nix em 768 trilhões”, mostra a retomada do interesse por grandes ações coreanas de semicondutores. A expressão “KOSPI 10.000” foi usada como símbolo de expectativa de alta, enquanto o principal número citado foi 768 trilhões de won. A reportagem destacou a reação dos investidores e o foco do mercado nessas empresas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Samsung und SK Hynix: 768 Billionen Won lassen Kleinanleger jubeln",
-        "excerpt": "hankyung.com berichtete, dass Kleinanleger auf eine Nachricht zu Samsung Electronics und SK Hynix, zusammen „Samjeon-nix“ genannt, sowie eine Summe von 768 Billionen Won mit Jubel reagierten.",
-        "body": "hankyung.com berichtete, dass Kleinanleger auf eine Nachricht zu Samsung Electronics und SK Hynix, in Korea oft unter dem Spitznamen „Samjeon-nix“ zusammengefasst, sowie auf eine Zahl von 768 Billionen Won mit Jubel reagierten. Die ursprüngliche Überschrift, „KOSPI 10.000? Das hielt man kaum für möglich“… Kleinanleger jubeln über Samjeon-nix bei 768 Billionen, verweist auf neues Interesse an großen koreanischen Halbleiterwerten. „KOSPI 10.000“ wurde als Ausdruck von Markterwartungen genannt, die zentrale Zahl war 768 Billionen Won. Im Mittelpunkt standen Anlegerreaktionen und das Marktinteresse an Samsung Electronics und SK Hynix. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Samsung et SK Hynix: 768 billions de wons font réagir les particuliers",
-        "excerpt": "hankyung.com a rapporté que les investisseurs particuliers ont salué une information liée à Samsung Electronics et SK Hynix, surnommées “Samjeon-nix”, et au chiffre de 768 billions de wons.",
-        "body": "hankyung.com a rapporté que les investisseurs particuliers ont salué une information concernant Samsung Electronics et SK Hynix, souvent regroupées en Corée sous le surnom de “Samjeon-nix”, ainsi qu’un chiffre de 768 billions de wons. Le titre original, “KOSPI à 10 000 ? On n’y croyait pas”… les particuliers applaudissent Samjeon-nix à 768 billions, traduit un regain d’intérêt pour les grandes valeurs coréennes des semi-conducteurs. L’expression “KOSPI 10 000” y apparaît comme un symbole d’attentes de hausse, tandis que le chiffre clé est 768 billions de wons. L’article met l’accent sur la réaction des investisseurs et l’attention du marché. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "سامسونغ وSK هاينكس: 768 تريليون وون تشعل حماس المستثمرين الأفراد",
-        "excerpt": "أفاد hankyung.com بأن المستثمرين الأفراد رحبوا بخبر مرتبط بسامسونغ إلكترونيكس وSK هاينكس، المعروفتين معا باسم “سامجون-نيكس”، وبالرقم 768 تريليون وون.",
-        "body": "أفاد hankyung.com بأن المستثمرين الأفراد رحبوا بخبر يتعلق بسامسونغ إلكترونيكس وSK هاينكس، اللتين يشار إليهما في كوريا باسم “سامجون-نيكس”، وبالرقم 768 تريليون وون. وجاء العنوان الأصلي بمعنى: “كوسبي عند 10 آلاف؟ بدا الأمر مستبعدا”… المستثمرون الأفراد يهتفون لسامجون-نيكس عند 768 تريليون، ما يعكس تجدد الاهتمام بأسهم أشباه الموصلات الكورية الكبرى. وورد تعبير “كوسبي 10 آلاف” كرمز لتوقعات صعود السوق، بينما كان الرقم المحوري هو 768 تريليون وون. وركز التقرير على رد فعل المستثمرين واهتمام السوق بسامسونغ إلكترونيكس وSK هاينكس. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "सैमसंग और SK हाइनिक्स की 768 ट्रिलियन वॉन खबर से खुदरा निवेशक उत्साहित",
-        "excerpt": "hankyung.com ने बताया कि “Samjeon-nix” कहे जाने वाले Samsung Electronics और SK Hynix से जुड़ी 768 ट्रिलियन वॉन की खबर पर खुदरा निवेशकों ने उत्साह दिखाया।",
-        "body": "hankyung.com ने बताया कि Samsung Electronics और SK Hynix, जिन्हें कोरिया में साथ मिलाकर “Samjeon-nix” कहा जाता है, से जुड़ी 768 ट्रिलियन वॉन की खबर पर खुदरा निवेशकों ने उत्साह दिखाया। मूल शीर्षक, “‘KOSPI 10,000? यकीन नहीं था’… 768 ट्रिलियन पर Samjeon-nix से खुदरा निवेशक ‘खुश’”, कोरियाई शेयर बाजार में बड़ी सेमीकंडक्टर कंपनियों को लेकर फिर बढ़ती दिलचस्पी का संकेत देता है। “KOSPI 10,000” को बाजार की बढ़त की उम्मीद के प्रतीक के रूप में रखा गया, जबकि प्रमुख आंकड़ा 768 ट्रिलियन वॉन है। रिपोर्ट में निवेशकों की प्रतिक्रिया और Samsung Electronics तथा SK Hynix पर बाजार के ध्यान को केंद्र में रखा गया। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Samsung dan SK Hynix 768 Triliun Won Bikin Investor Ritel Bersorak",
-        "excerpt": "hankyung.com melaporkan investor ritel menyambut kabar terkait Samsung Electronics dan SK Hynix, yang dijuluki “Samjeon-nix”, serta angka 768 triliun won.",
-        "body": "hankyung.com melaporkan bahwa investor ritel menyambut kabar terkait Samsung Electronics dan SK Hynix, yang di Korea kerap disebut bersama sebagai “Samjeon-nix”, serta angka 768 triliun won. Judul asli, “‘KOSPI 10.000? Awalnya tak percaya’… investor ritel bersorak atas Samjeon-nix di 768 triliun,” menunjukkan kembali meningkatnya perhatian pada saham semikonduktor besar Korea. Istilah “KOSPI 10.000” ditampilkan sebagai simbol ekspektasi kenaikan pasar, sementara angka utama yang disebut adalah 768 triliun won. Laporan itu berfokus pada reaksi investor ritel dan minat pasar terhadap Samsung Electronics serta SK Hynix. Sumber: hankyung.com."
       }
     }
   }
