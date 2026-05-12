@@ -1,5 +1,230 @@
 [
   {
+    "id": "3d44df874df0",
+    "slug": "a16z-서클의-새-블록체인-아크에-7500만달러-베팅비자페이팔-넘보는-스테이블코인-193093",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T03:24:13.271Z",
+    "updatedAt": "2026-05-12T03:24:13.271Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044331",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044331",
+    "titleFingerprint": "455c4aca76a939553f13f377084307eb73c40510",
+    "dedupKeys": [
+      "3d44df874df0608c4230a6b39043bf110a03221b",
+      "455c4aca76a939553f13f377084307eb73c40510",
+      "0b4b69b86465fc965793b8bc9c9545332318da05"
+    ],
+    "imageUrl": "/images/articles/3d44df874df0.png",
+    "i18n": {
+      "ko": {
+        "title": "a16z, 서클 새 블록체인 아크에 7500만달러 투자",
+        "excerpt": "a16z가 서클의 새 블록체인 아크 ARC 토큰에 7500만달러를 투자하며 기업용 통제·프라이버시 기능과 1초 내 정산을 앞세운 스테이블코인 결제 생태계에 베팅했다.",
+        "body": "글로벌 벤처캐피털 a16z가 서클의 새 블록체인 ‘아크’에 7500만달러를 투자했다. 투자 대상은 아크의 ARC 토큰으로, 서클은 스테이블코인 기반 결제·정산 인프라 확대를 추진하고 있다. 아크는 기업용 통제 기능과 프라이버시 기능을 탑재하고, 결제부터 회계 처리까지 1초 내 정산 완료를 내세운다. 골드만삭스와 비자 등 200여곳이 우군으로 거론되며, 기존 결제 네트워크와 핀테크 기업이 장악한 영역을 스테이블코인이 겨냥하는 구도다. 이번 투자는 서클의 블록체인 전략과 기업 결제 시장 공략에 힘을 싣는 사례로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "a16z Invests $75 Million in Circle’s New Arc Blockchain",
+        "excerpt": "a16z has invested $75 million in ARC tokens tied to Circle’s new Arc blockchain, backing a stablecoin payment network with enterprise controls, privacy features and settlement within one second.",
+        "body": "Global venture capital firm a16z has invested $75 million in Circle’s new blockchain, Arc. The investment targets Arc’s ARC token, as Circle pushes to expand stablecoin-based payment and settlement infrastructure. Arc offers enterprise control and privacy features, and says it can complete settlement from payment to accounting within one second. More than 200 allies, including Goldman Sachs and Visa, are cited around the project, placing stablecoins in a field long led by existing payment networks and fintech companies. The deal is seen as adding momentum to Circle’s blockchain strategy and its push into enterprise payments. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "a16z、サークル新ブロックチェーンArcに7500万ドル投資",
+        "excerpt": "a16zはサークルの新ブロックチェーンArcに関連するARCトークンへ7500万ドルを投資し、企業向け統制・プライバシー機能と1秒以内の決済を掲げるステーブルコイン基盤に賭けた。",
+        "body": "グローバルベンチャーキャピタルのa16zが、サークルの新ブロックチェーン「Arc」に7500万ドルを投資した。投資対象はArcのARCトークンで、サークルはステーブルコインを基盤にした決済・精算インフラの拡大を進めている。Arcは企業向けの統制機能とプライバシー機能を備え、支払いから会計処理まで1秒以内に精算を完了できる点を掲げる。ゴールドマン・サックスやVisaなど200社以上が支援勢力として挙げられ、既存の決済ネットワークやフィンテック企業が握る領域をステーブルコインが狙う構図だ。今回の投資は、サークルのブロックチェーン戦略と企業決済市場への攻勢を後押しする事例とみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "a16z向Circle新链Arc投资7500万美元，押注稳定币支付",
+        "excerpt": "a16z向Circle新区块链Arc相关ARC代币投资7500万美元，看好其企业级控制、隐私功能以及1秒内完成从支付到会计结算的稳定币基础设施。",
+        "body": "全球风险投资机构a16z向Circle的新区块链“Arc”投资7500万美元。此次投资对象为Arc的ARC代币，Circle正推进基于稳定币的支付与结算基础设施扩张。Arc配备企业级控制功能和隐私功能，并主打从支付到会计处理可在1秒内完成结算。高盛、Visa等200多家机构被列为支持方，显示稳定币正瞄准由传统支付网络和金融科技企业主导的领域。此次投资被视为为Circle的区块链战略及其进军企业支付市场提供支撑。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "a16z invierte 75 millones de dólares en Arc, la nueva blockchain de Circle",
+        "excerpt": "a16z invirtió 75 millones de dólares en tokens ARC de la nueva blockchain Arc de Circle, apostando por pagos con stablecoins, controles empresariales, privacidad y liquidación en menos de un segundo.",
+        "body": "La firma global de capital de riesgo a16z invirtió 75 millones de dólares en Arc, la nueva blockchain de Circle. La inversión se dirige al token ARC de Arc, mientras Circle busca ampliar la infraestructura de pagos y liquidación basada en stablecoins. Arc incorpora funciones de control empresarial y privacidad, y promete completar la liquidación desde el pago hasta la contabilidad en menos de un segundo. Goldman Sachs, Visa y más de 200 entidades figuran como aliados, en un contexto en el que las stablecoins apuntan a un mercado dominado por redes de pago y compañías fintech existentes. La operación refuerza la estrategia blockchain de Circle y su avance en pagos corporativos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "a16z investe US$ 75 milhões na Arc, nova blockchain da Circle",
+        "excerpt": "A a16z investiu US$ 75 milhões em tokens ARC da nova blockchain Arc da Circle, apostando em pagamentos com stablecoins, controles empresariais, privacidade e liquidação em até um segundo.",
+        "body": "A gestora global de venture capital a16z investiu US$ 75 milhões na Arc, nova blockchain da Circle. O investimento tem como alvo o token ARC da Arc, enquanto a Circle avança na expansão de uma infraestrutura de pagamentos e liquidação baseada em stablecoins. A Arc traz recursos de controle empresarial e privacidade, além de destacar a conclusão da liquidação, do pagamento à contabilidade, em até um segundo. Goldman Sachs, Visa e mais de 200 organizações aparecem como aliadas, em um cenário no qual as stablecoins miram áreas dominadas por redes de pagamento e fintechs tradicionais. A operação fortalece a estratégia blockchain da Circle e sua entrada no mercado de pagamentos corporativos. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "a16z investiert 75 Millionen Dollar in Circles neue Blockchain Arc",
+        "excerpt": "a16z investiert 75 Millionen Dollar in ARC-Token von Circles neuer Blockchain Arc und setzt auf Stablecoin-Zahlungen mit Unternehmenskontrollen, Datenschutzfunktionen und Abwicklung binnen einer Sekunde.",
+        "body": "Die globale Venture-Capital-Gesellschaft a16z hat 75 Millionen Dollar in Circles neue Blockchain „Arc“ investiert. Ziel der Investition ist der ARC-Token von Arc, während Circle den Ausbau einer auf Stablecoins basierenden Zahlungs- und Abwicklungsinfrastruktur vorantreibt. Arc bietet Kontrollfunktionen für Unternehmen und Datenschutzfunktionen und stellt eine Abwicklung vom Zahlungsvorgang bis zur Buchhaltung innerhalb einer Sekunde in den Vordergrund. Goldman Sachs, Visa und mehr als 200 weitere Partner werden als Unterstützer genannt. Damit zielen Stablecoins auf ein Feld, das bislang von bestehenden Zahlungsnetzwerken und Fintech-Unternehmen geprägt ist. Die Investition gilt als Rückenwind für Circles Blockchain-Strategie und den Vorstoß in den Markt für Unternehmenszahlungen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "a16z investit 75 millions de dollars dans Arc, la nouvelle blockchain de Circle",
+        "excerpt": "a16z a investi 75 millions de dollars dans les tokens ARC liés à la nouvelle blockchain Arc de Circle, misant sur des paiements en stablecoins avec contrôles d’entreprise, confidentialité et règlement en une seconde.",
+        "body": "La société mondiale de capital-risque a16z a investi 75 millions de dollars dans Arc, la nouvelle blockchain de Circle. L’investissement porte sur le token ARC d’Arc, alors que Circle cherche à étendre une infrastructure de paiement et de règlement fondée sur les stablecoins. Arc intègre des fonctions de contrôle pour les entreprises et de confidentialité, et met en avant un règlement complet, du paiement à la comptabilité, en une seconde. Goldman Sachs, Visa et plus de 200 acteurs sont cités parmi les alliés, dans un contexte où les stablecoins visent un domaine dominé par les réseaux de paiement existants et les fintechs. Cette opération soutient la stratégie blockchain de Circle et son offensive sur les paiements d’entreprise. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "a16z تستثمر 75 مليون دولار في بلوكتشين Arc الجديدة من Circle",
+        "excerpt": "استثمرت a16z مبلغ 75 مليون دولار في رموز ARC التابعة لبلوكتشين Arc الجديدة من Circle، مراهنة على مدفوعات العملات المستقرة مع أدوات تحكم مؤسسية وخصوصية وتسوية خلال ثانية.",
+        "body": "استثمرت شركة رأس المال الجريء العالمية a16z مبلغ 75 مليون دولار في بلوكتشين «Arc» الجديدة التابعة لـCircle. ويستهدف الاستثمار رموز ARC الخاصة بالشبكة، بينما تعمل Circle على توسيع بنية المدفوعات والتسوية القائمة على العملات المستقرة. وتوفر Arc وظائف تحكم مخصصة للشركات وميزات خصوصية، وتؤكد قدرتها على إتمام التسوية من الدفع إلى المحاسبة خلال ثانية واحدة. وترد أسماء Goldman Sachs وVisa وأكثر من 200 جهة ضمن الداعمين، في مشهد تستهدف فيه العملات المستقرة مجالا تهيمن عليه شبكات الدفع وشركات التكنولوجيا المالية القائمة. ويعد الاستثمار دعما لاستراتيجية Circle في البلوكتشين وتوجهها نحو سوق مدفوعات الشركات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "a16z ने Circle की नई Arc ब्लॉकचेन में 7.5 करोड़ डॉलर लगाए",
+        "excerpt": "a16z ने Circle की नई Arc ब्लॉकचेन से जुड़े ARC टोकन में 7.5 करोड़ डॉलर निवेश किए, जो एंटरप्राइज नियंत्रण, गोपनीयता और एक सेकंड में निपटान वाले स्टेबलकॉइन भुगतान ढांचे पर दांव है।",
+        "body": "वैश्विक वेंचर कैपिटल फर्म a16z ने Circle की नई ब्लॉकचेन “Arc” में 7.5 करोड़ डॉलर का निवेश किया है। यह निवेश Arc के ARC टोकन में है, जबकि Circle स्टेबलकॉइन आधारित भुगतान और सेटलमेंट इंफ्रास्ट्रक्चर का विस्तार कर रही है। Arc में कंपनियों के लिए नियंत्रण और गोपनीयता संबंधी सुविधाएं हैं, और यह भुगतान से लेकर लेखांकन तक एक सेकंड के भीतर निपटान पूरा करने का दावा करती है। Goldman Sachs और Visa सहित 200 से अधिक सहयोगियों का उल्लेख किया गया है, जिससे संकेत मिलता है कि स्टेबलकॉइन मौजूदा भुगतान नेटवर्क और फिनटेक कंपनियों के प्रभुत्व वाले क्षेत्र को निशाना बना रहे हैं। यह निवेश Circle की ब्लॉकचेन रणनीति और एंटरप्राइज भुगतान बाजार में उसकी पहल को बल देता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "a16z Investasi US$75 Juta di Blockchain Baru Circle, Arc",
+        "excerpt": "a16z menginvestasikan US$75 juta pada token ARC dari blockchain baru Circle, Arc, dengan taruhan pada pembayaran stablecoin, kontrol perusahaan, privasi, dan penyelesaian dalam satu detik.",
+        "body": "Perusahaan modal ventura global a16z menginvestasikan US$75 juta di blockchain baru Circle, “Arc”. Investasi tersebut menyasar token ARC milik Arc, sementara Circle mendorong perluasan infrastruktur pembayaran dan penyelesaian berbasis stablecoin. Arc dilengkapi fitur kontrol untuk perusahaan dan privasi, serta menonjolkan penyelesaian dari pembayaran hingga akuntansi dalam satu detik. Goldman Sachs, Visa, dan lebih dari 200 pihak disebut sebagai sekutu, dalam lanskap ketika stablecoin membidik area yang selama ini dikuasai jaringan pembayaran dan perusahaan fintech yang sudah ada. Investasi ini dinilai memperkuat strategi blockchain Circle dan langkahnya memasuki pasar pembayaran korporasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "366208a12360",
+    "slug": "mk시그널-심텍홀딩스-자회사-심텍-실적-턴어라운드-및-ai-기판-수요-폭증-등에-주가-상승세-mk시그널-추천-566443",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T03:23:09.540Z",
+    "updatedAt": "2026-05-12T03:23:09.540Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044332",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044332",
+    "titleFingerprint": "4003f20cbb5e6a7ef39db5599428e1d642ccae23",
+    "dedupKeys": [
+      "366208a12360b094d0893bbbbea3ab6f5acacd4d",
+      "4003f20cbb5e6a7ef39db5599428e1d642ccae23",
+      "5578602ae9a21f73e2022f751c5aefe7a85c1684"
+    ],
+    "imageUrl": "/images/articles/366208a12360.jpg",
+    "i18n": {
+      "ko": {
+        "title": "심텍홀딩스 주가 상승세, 심텍 턴어라운드·AI 기판 수요 주목",
+        "excerpt": "5월 12일 심텍홀딩스가 자회사 심텍의 실적 턴어라운드와 AI 기판 수요 확대 기대 속에 장 초반 상승세를 보였다.",
+        "body": "5월 12일 심텍홀딩스(036710)가 장 초반 상승세를 보이고 있다. 전 거래일 심텍홀딩스 주가는 종가 기준 5,790원으로 마감했으며, 이날 오전 9시 14분 기준 현재가는 5,840원으로 집계됐다. 상승 배경으로는 자회사 심텍의 실적 턴어라운드와 AI 기판 수요 폭증 등이 거론됐다. MK시그널은 심텍홀딩스를 추천한 뒤 상승률이 23.82%를 기록했다고 전했다. 시장에서는 자회사 실적 개선 기대와 AI 관련 기판 수요 흐름이 주가에 영향을 준 것으로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Simtek Holdings Gains as Simtek Turnaround and AI Substrate Demand Draw Attention",
+        "excerpt": "On May 12, Simtek Holdings rose in early trading as investors watched subsidiary Simtek’s earnings turnaround and stronger AI substrate demand.",
+        "body": "Simtek Holdings (036710) was trading higher in early trading on May 12. The stock closed the previous session at 5,790 won and was quoted at 5,840 won as of 9:14 a.m. that day. The move was linked to a turnaround in earnings at subsidiary Simtek and a sharp increase in demand for AI substrates. MK Signal said the stock had risen 23.82% since its recommendation. Market attention centered on expectations for improved subsidiary performance and demand trends for AI-related substrates. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "シムテックホールディングス株が上昇、子会社回復とAI基板需要に注目",
+        "excerpt": "5月12日、シムテックホールディングスは子会社シムテックの業績ターンアラウンドとAI基板需要拡大期待を背景に朝方上昇した。",
+        "body": "5月12日、シムテックホールディングス（036710）が取引序盤に上昇している。前取引日の同社株価は終値基準で5,790ウォンとなり、この日は午前9時14分時点で5,840ウォンをつけた。上昇要因として、子会社シムテックの業績ターンアラウンドとAI基板需要の急増が挙げられた。MKシグナルは、同銘柄を推奨した後の上昇率が23.82%に達したと伝えた。市場では子会社の業績改善期待とAI関連基板の需要動向が株価に影響したとみられている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Simtek Holdings股价走强，子公司业绩反转与AI基板需求受关注",
+        "excerpt": "5月12日，Simtek Holdings在早盘上涨，市场关注其子公司Simtek业绩反转以及AI基板需求扩大预期。",
+        "body": "5月12日，Simtek Holdings（036710）早盘呈上涨走势。该股前一交易日以5,790韩元收盘，当天上午9点14分报5,840韩元。上涨背景被认为包括子公司Simtek业绩出现反转，以及AI基板需求大幅增加。MK Signal表示，自推荐该股以来，其涨幅已达23.82%。市场认为，子公司业绩改善预期和AI相关基板需求趋势对股价产生了影响。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Simtek Holdings sube por giro de Simtek y demanda de sustratos de IA",
+        "excerpt": "El 12 de mayo, Simtek Holdings avanzó en la apertura por el giro en resultados de su filial Simtek y la expectativa de mayor demanda de sustratos de IA.",
+        "body": "Simtek Holdings (036710) cotizaba al alza en las primeras operaciones del 12 de mayo. La acción cerró la sesión anterior en 5.790 wones y se situaba en 5.840 wones a las 9:14 de la mañana. El avance se vinculó al giro en los resultados de su filial Simtek y al fuerte aumento de la demanda de sustratos para IA. MK Signal indicó que la acción acumulaba una subida del 23,82% desde su recomendación. El mercado observó las expectativas de mejora de la filial y la evolución de la demanda de sustratos relacionados con IA. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Simtek Holdings avança com virada da Simtek e demanda por substratos de IA",
+        "excerpt": "Em 12 de maio, a Simtek Holdings subiu no início do pregão com foco na virada de resultados da filial Simtek e na demanda crescente por substratos de IA.",
+        "body": "A Simtek Holdings (036710) operava em alta no início do pregão de 12 de maio. A ação fechou a sessão anterior a 5.790 won e era negociada a 5.840 won às 9h14. O movimento foi associado à virada nos resultados da subsidiária Simtek e ao forte aumento da demanda por substratos para IA. A MK Signal informou que o papel acumulava alta de 23,82% desde sua recomendação. O mercado acompanhou as expectativas de melhora da subsidiária e o fluxo de demanda por substratos ligados à IA. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Simtek Holdings steigt: Turnaround bei Simtek und KI-Substratnachfrage im Fokus",
+        "excerpt": "Am 12. Mai legte Simtek Holdings im frühen Handel zu, gestützt auf den Ergebnis-Turnaround der Tochter Simtek und Erwartungen an KI-Substratnachfrage.",
+        "body": "Simtek Holdings (036710) notierte am 12. Mai im frühen Handel fester. Die Aktie hatte die vorherige Sitzung bei 5.790 Won beendet und stand um 9:14 Uhr bei 5.840 Won. Als Hintergrund wurden der Ergebnis-Turnaround der Tochtergesellschaft Simtek und ein kräftiger Anstieg der Nachfrage nach KI-Substraten genannt. MK Signal teilte mit, dass die Aktie seit der Empfehlung um 23,82% gestiegen sei. Am Markt richtete sich der Blick auf Erwartungen einer Ergebnisverbesserung der Tochter und die Nachfrage nach KI-bezogenen Substraten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Simtek Holdings progresse avec le redressement de Simtek et la demande IA",
+        "excerpt": "Le 12 mai, Simtek Holdings a monté en début de séance, porté par le redressement de sa filiale Simtek et la demande accrue de substrats pour l’IA.",
+        "body": "Simtek Holdings (036710) évoluait en hausse en début de séance le 12 mai. Le titre avait clôturé la séance précédente à 5.790 wons et s’établissait à 5.840 wons à 9h14. Cette progression a été attribuée au redressement des résultats de la filiale Simtek et à la forte hausse de la demande de substrats pour l’IA. MK Signal a indiqué que le titre avait gagné 23,82% depuis sa recommandation. Le marché a suivi les attentes d’amélioration des résultats de la filiale et l’évolution de la demande de substrats liés à l’IA. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صعود سهم Simtek Holdings مع تحول أداء Simtek وطلب ركائز الذكاء الاصطناعي",
+        "excerpt": "في 12 مايو، ارتفع سهم Simtek Holdings في التعاملات المبكرة وسط متابعة تحول أداء وحدتها Simtek وزيادة الطلب على ركائز الذكاء الاصطناعي.",
+        "body": "سجل سهم Simtek Holdings (036710) ارتفاعا في التعاملات المبكرة يوم 12 مايو. وأغلق السهم في الجلسة السابقة عند 5,790 وون، وبلغ 5,840 وون عند الساعة 9:14 صباحا. وذُكر أن خلفية الصعود ترتبط بتحول أداء الشركة التابعة Simtek وزيادة قوية في الطلب على ركائز الذكاء الاصطناعي. وقالت MK Signal إن السهم ارتفع بنسبة 23.82% منذ توصيتها به. وتركز اهتمام السوق على توقعات تحسن أداء الشركة التابعة واتجاه الطلب على الركائز المرتبطة بالذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Simtek Holdings में तेजी, Simtek टर्नअराउंड और AI सब्सट्रेट मांग पर नजर",
+        "excerpt": "12 मई को Simtek Holdings शुरुआती कारोबार में चढ़ा, क्योंकि निवेशकों ने सहायक Simtek के नतीजों में सुधार और AI सब्सट्रेट मांग पर ध्यान दिया।",
+        "body": "12 मई को Simtek Holdings (036710) शुरुआती कारोबार में बढ़त पर रहा। पिछले कारोबारी सत्र में शेयर 5,790 वॉन पर बंद हुआ था और उस दिन सुबह 9:14 बजे यह 5,840 वॉन पर दर्ज किया गया। तेजी की वजहों में सहायक कंपनी Simtek के प्रदर्शन में टर्नअराउंड और AI सब्सट्रेट की मांग में तेज बढ़ोतरी का उल्लेख किया गया। MK Signal ने बताया कि सिफारिश के बाद शेयर में 23.82% की बढ़त हुई। बाजार का ध्यान सहायक कंपनी के बेहतर प्रदर्शन की उम्मीदों और AI से जुड़े सब्सट्रेट मांग रुझान पर रहा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Simtek Holdings Naik, Didukung Pemulihan Simtek dan Permintaan Substrat AI",
+        "excerpt": "Pada 12 Mei, Simtek Holdings menguat pada awal perdagangan seiring perhatian pada pemulihan kinerja anak usaha Simtek dan permintaan substrat AI.",
+        "body": "Simtek Holdings (036710) bergerak naik pada awal perdagangan 12 Mei. Pada sesi sebelumnya, saham ini ditutup di 5.790 won, lalu berada di 5.840 won pada pukul 09.14. Kenaikan tersebut dikaitkan dengan turnaround kinerja anak usaha Simtek serta lonjakan permintaan substrat AI. MK Signal menyebut saham ini telah naik 23,82% sejak direkomendasikan. Pasar menyoroti ekspektasi perbaikan kinerja anak usaha dan tren permintaan substrat terkait AI sebagai faktor yang memengaruhi harga saham. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4f56a64bacdd",
+    "slug": "8천피-눈앞에-두고-와르르외국인-3조-팔자에-코스피-3대-급락-184032",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T03:22:09.415Z",
+    "updatedAt": "2026-05-12T03:22:09.416Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044454",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044454",
+    "titleFingerprint": "c067c64991a0d3efba942f390a7d9ca616520b6e",
+    "dedupKeys": [
+      "4f56a64bacdd4d973a44b29ab7ff9e23b5c03c41",
+      "c067c64991a0d3efba942f390a7d9ca616520b6e",
+      "15696d8ab46a1de3e36a6919f60589f85b516238"
+    ],
+    "imageUrl": "/images/articles/4f56a64bacdd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7900선 돌파 뒤 급락, 외국인 3조 매도에 8천피 앞두고 흔들",
+        "excerpt": "코스피가 장중 사상 처음 7900선을 넘으며 8천피에 근접했지만, 외국인 3조원 매도와 차익 실현 물량이 겹치며 3%대 급락했다.",
+        "body": "코스피가 장중 사상 처음으로 7900선을 돌파하며 이른바 ‘8천피’에 바짝 다가섰지만, 외국인 매도 물량이 쏟아지면서 급락세로 전환했다. 원문에 따르면 외국인은 약 3조원 규모의 ‘팔자’에 나섰고, 지수는 3%대 하락을 기록했다. 최근 코스피가 빠르게 오른 뒤 차익 실현 매물이 한꺼번에 출회된 점이 낙폭을 키운 배경으로 제시됐다. 8000선 돌파 기대가 커졌던 시장은 단기 수급 부담을 확인하며 변동성이 확대됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Falls After Topping 7,900 as Foreign Selling Nears 3 Trillion Won",
+        "excerpt": "The KOSPI briefly topped 7,900 for the first time, nearing 8,000, but dropped more than 3% as foreign selling and profit-taking hit the market.",
+        "body": "The KOSPI briefly crossed the 7,900 mark for the first time in intraday trading, moving close to the symbolic 8,000 level, but then reversed sharply lower as foreign investors sold heavily. According to the original report, foreign selling reached about 3 trillion won, pushing the index down by more than 3%. The decline was linked to a wave of profit-taking after the market’s recent rapid gains. Expectations for a move toward 8,000 gave way to concerns over short-term supply pressure and wider volatility. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、7900突破後に急落　外国人3兆ウォン売りで8000目前に失速",
+        "excerpt": "KOSPIは取引時間中に初めて7900を突破し8000に接近したが、外国人の3兆ウォン規模の売りと利益確定売りで3％台下落した。",
+        "body": "KOSPIは取引時間中に史上初めて7900台を突破し、いわゆる8000の大台に迫ったが、外国人投資家の売りが膨らみ急落に転じた。原文によると、外国人は約3兆ウォン規模の売りに動き、指数は3％台の下落を記録した。最近の急上昇を受けた利益確定売りが一気に出たことが下げ幅を広げた要因とされた。8000突破への期待が高まっていた市場では、短期的な需給負担と変動性の拡大が確認された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破7900点后急跌，外资卖出3万亿韩元冲击8000点关口",
+        "excerpt": "KOSPI盘中首次突破7900点并逼近8000点，但外资约3万亿韩元卖出叠加获利回吐，指数大跌逾3%。",
+        "body": "KOSPI盘中史上首次突破7900点，距离所谓8000点关口仅一步之遥，但随后在外资抛售压力下急转直下。原文称，外资卖出规模约达3万亿韩元，指数跌幅达到3%以上。近期KOSPI快速上涨后，获利回吐盘集中涌出，被认为是扩大跌幅的主要背景。此前市场对突破8000点的期待升温，但本轮下跌显示短期资金供需压力上升，市场波动也随之扩大。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cae tras superar 7.900 puntos por ventas extranjeras de 3 billones de wones",
+        "excerpt": "El KOSPI superó por primera vez los 7.900 puntos intradía y se acercó a 8.000, pero cayó más de 3% por ventas extranjeras y toma de ganancias.",
+        "body": "El KOSPI superó por primera vez los 7.900 puntos durante la sesión y se acercó al nivel simbólico de 8.000, pero giró bruscamente a la baja ante fuertes ventas de inversores extranjeros. Según el reporte original, las ventas extranjeras alcanzaron alrededor de 3 billones de wones y el índice cayó más de 3%. La baja se atribuyó a una salida concentrada de órdenes de toma de ganancias tras el reciente repunte del mercado. Las expectativas de superar los 8.000 puntos dieron paso a una mayor preocupación por la presión de oferta de corto plazo y la volatilidad. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI recua após superar 7.900 com venda estrangeira de 3 trilhões de wones",
+        "excerpt": "O KOSPI passou de 7.900 pontos pela primeira vez no intradia e se aproximou de 8.000, mas caiu mais de 3% com venda estrangeira e realização de lucros.",
+        "body": "O KOSPI superou pela primeira vez a marca de 7.900 pontos durante o pregão, aproximando-se do nível simbólico de 8.000, mas virou para forte queda com a pressão de venda de investidores estrangeiros. Segundo o texto original, os estrangeiros venderam cerca de 3 trilhões de wones, levando o índice a uma baixa superior a 3%. A queda foi associada à realização de lucros após a recente alta rápida do mercado. A expectativa de avanço até 8.000 pontos deu lugar à percepção de maior pressão de oferta no curto prazo e de volatilidade ampliada. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI fällt nach Sprung über 7.900, Ausländer verkaufen für 3 Billionen Won",
+        "excerpt": "Der KOSPI stieg intraday erstmals über 7.900 Punkte und näherte sich 8.000, fiel dann aber wegen ausländischer Verkäufe und Gewinnmitnahmen um über 3%.",
+        "body": "Der KOSPI überschritt im Tagesverlauf erstmals die Marke von 7.900 Punkten und rückte damit nahe an die symbolische Schwelle von 8.000 Punkten heran. Anschließend drehte der Index jedoch deutlich ins Minus, als ausländische Investoren massiv verkauften. Dem Originalbericht zufolge beliefen sich die Verkäufe ausländischer Anleger auf rund 3 Billionen Won, wodurch der Index um mehr als 3% fiel. Als Hintergrund wurde genannt, dass nach dem jüngsten schnellen Anstieg gebündelt Gewinnmitnahmen einsetzten. Die Hoffnung auf 8.000 Punkte wich kurzfristigen Belastungen durch Angebot und höherer Volatilität. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI chute après 7 900 points, ventes étrangères de 3 000 milliards de wons",
+        "excerpt": "Le KOSPI a dépassé 7 900 points en séance pour la première fois et approché 8 000, avant de reculer de plus de 3% sous l’effet des ventes étrangères.",
+        "body": "Le KOSPI a franchi pour la première fois le seuil de 7 900 points en séance, se rapprochant du niveau symbolique de 8 000, avant de se retourner brutalement à la baisse sous la pression des ventes étrangères. Selon l’article original, les investisseurs étrangers ont vendu pour environ 3 000 milliards de wons, entraînant une baisse de plus de 3% de l’indice. Le recul a été lié à des prises de bénéfices concentrées après la récente forte progression du marché. Les attentes autour d’un passage à 8 000 points ont laissé place à une vigilance accrue sur la pression d’offre à court terme et la volatilité. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يهبط بعد تجاوز 7900 نقطة مع بيع أجانب بنحو 3 تريليونات وون",
+        "excerpt": "تجاوز كوسبي مستوى 7900 نقطة لأول مرة خلال الجلسة واقترب من 8000، لكنه هبط بأكثر من 3% بفعل بيع الأجانب وجني الأرباح.",
+        "body": "تجاوز مؤشر كوسبي خلال التداول مستوى 7900 نقطة للمرة الأولى في تاريخه مقتربا من حاجز 8000 نقطة، لكنه تحول سريعا إلى هبوط حاد مع تدفق أوامر بيع من المستثمرين الأجانب. ووفقا للنص الأصلي، بلغت مبيعات الأجانب نحو 3 تريليونات وون، ما دفع المؤشر إلى تراجع بأكثر من 3%. وجاءت الخسائر في سياق خروج مكثف لعمليات جني الأرباح بعد الصعود السريع الأخير للمؤشر. وتراجعت توقعات بلوغ مستوى 8000 أمام ضغوط العرض قصيرة الأجل واتساع التقلبات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 7,900 पार करने के बाद फिसला, विदेशी निवेशकों की 3 ट्रिलियन वॉन बिकवाली",
+        "excerpt": "KOSPI इंट्राडे में पहली बार 7,900 के ऊपर गया और 8,000 के करीब पहुंचा, लेकिन विदेशी बिकवाली और मुनाफावसूली से 3% से अधिक गिर गया।",
+        "body": "KOSPI ने कारोबार के दौरान पहली बार 7,900 का स्तर पार किया और प्रतीकात्मक 8,000 अंक के करीब पहुंच गया, लेकिन विदेशी निवेशकों की भारी बिकवाली के बाद सूचकांक तेज गिरावट में चला गया। मूल रिपोर्ट के अनुसार, विदेशी निवेशकों ने लगभग 3 ट्रिलियन वॉन की बिक्री की, जिससे सूचकांक 3% से अधिक गिरा। हालिया तेज तेजी के बाद एक साथ निकली मुनाफावसूली को गिरावट बढ़ाने वाला प्रमुख कारण बताया गया। 8,000 अंक पार करने की उम्मीदों के बीच बाजार ने अल्पकालिक आपूर्ति दबाव और बढ़ी हुई अस्थिरता देखी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Jatuh Setelah Tembus 7.900, Asing Jual Sekitar 3 Triliun Won",
+        "excerpt": "KOSPI sempat menembus 7.900 untuk pertama kalinya dan mendekati 8.000, tetapi turun lebih dari 3% akibat jual asing dan aksi ambil untung.",
+        "body": "KOSPI sempat menembus level 7.900 untuk pertama kalinya dalam perdagangan intrahari dan mendekati level simbolis 8.000, tetapi kemudian berbalik turun tajam karena tekanan jual investor asing. Menurut laporan asli, investor asing mencatat penjualan sekitar 3 triliun won, membuat indeks turun lebih dari 3%. Pelemahan dikaitkan dengan aksi ambil untung yang muncul bersamaan setelah kenaikan cepat belakangan ini. Ekspektasi menuju 8.000 berubah menjadi perhatian terhadap tekanan pasokan jangka pendek dan meningkatnya volatilitas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "f23bf2212703",
     "slug": "삼성sds-범정부-ai-협업-설루션-선정에-8대-급등-767018",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "OKX Tokenisasi ETF Samjeonnix Saat Minat ke Samsung Electronics dan SK Hynix Naik",
         "excerpt": "Bursa aset kripto global OKX meluncurkan produk tokenisasi berbasis ETF terkait Samsung Electronics dan SK Hynix yang dapat diperdagangkan 24 jam.",
         "body": "Bursa aset kripto global OKX meluncurkan produk tokenisasi berbasis “ETF Samjeonnix” untuk menyasar tingginya minat investasi pada Samsung Electronics dan SK Hynix. Produk ini menggunakan ETF tersebut sebagai aset dasar dan dirancang agar dapat diperdagangkan selama 24 jam. Judul asli menyoroti ETF dengan porsi besar pada Samsung Electronics dan SK Hynix, yang digambarkan mendekati separuh. Di tengah meningkatnya perhatian terhadap saham semikonduktor utama Korea Selatan, OKX menawarkan cara memperdagangkan produk keuangan tradisional berupa ETF dalam bentuk token. Bagi investor, perubahan utama adalah perluasan waktu perdagangan. Namun, dalam informasi yang tersedia di artikel, struktur rinci produk maupun ketentuan tambahan belum dijelaskan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d3508c42de45",
-    "slug": "국세청-하나금융-이어-메리츠증권도-세무조사-447701",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T12:29:30.864Z",
-    "updatedAt": "2026-05-11T12:29:30.864Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043556",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043556",
-    "titleFingerprint": "210ec625097615653e7ba7a6734f50cfcf0beeea",
-    "dedupKeys": [
-      "d3508c42de4599510898b35173ba2e10713fce9e",
-      "210ec625097615653e7ba7a6734f50cfcf0beeea",
-      "7f323709f4d5fe6b40c7c58bd951d2e7ee60011c"
-    ],
-    "imageUrl": "/images/articles/d3508c42de45.jpg",
-    "i18n": {
-      "ko": {
-        "title": "국세청 특별 세무조사 확대, 하나금융 이어 메리츠증권도 대상",
-        "excerpt": "국세청이 11일 메리츠증권에 대한 비정기 특별 세무조사에 착수했다. 지난 8일 하나금융지주와 하나은행 조사 이후 사흘 만에 주요 금융사를 잇달아 조사한 것이다.",
-        "body": "국세청이 11일 메리츠증권을 대상으로 비정기 특별 세무조사에 나섰다. 이는 지난 8일 하나금융지주와 하나은행에 대한 특별 세무조사에 착수한 지 사흘 만에 이뤄진 것으로, 주요 금융권을 대상으로 한 조사가 이어지는 흐름이다. 원문에 따르면 국세청은 하나금융 계열에 이어 주요 증권사인 메리츠증권까지 조사 대상에 포함했다. 이번 조사와 관련한 구체적인 배경이나 조사 범위는 원문에 추가로 제시되지 않았다. 금융권에서는 국세청의 잇따른 비정기 특별 세무조사 진행 여부와 향후 대상 확대 가능성에 관심이 모일 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Tax Agency Expands Special Audits, Targets Meritz Securities After Hana",
-        "excerpt": "South Korea’s tax agency began a non-regular special tax audit of Meritz Securities on May 11, three days after launching audits of Hana Financial Group and Hana Bank on May 8.",
-        "body": "South Korea’s National Tax Service began a non-regular special tax audit of Meritz Securities on May 11. The move came three days after the agency launched special tax audits of Hana Financial Group and Hana Bank on May 8, marking consecutive scrutiny of major financial institutions. According to the original report, Meritz Securities, a major securities firm, was added to the list of audit targets after the Hana Financial affiliates. The report did not provide further details on the specific background or scope of the latest audit. Market attention may now focus on whether the tax agency continues similar non-regular special audits across the financial sector. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国国税庁が特別税務調査を拡大、ハナ金融に続きメリッツ証券も対象",
-        "excerpt": "韓国国税庁は11日、メリッツ証券への非定期の特別税務調査に着手した。8日のハナ金融持株とハナ銀行への調査開始から3日後の動きだ。",
-        "body": "韓国国税庁は11日、メリッツ証券を対象に非定期の特別税務調査に入った。これは8日にハナ金融持株とハナ銀行への特別税務調査に着手してから3日後のことで、主要金融機関への調査が相次いでいる形だ。原文によると、国税庁はハナ金融系に続き、主要証券会社であるメリッツ証券も調査対象に含めた。今回の調査について、具体的な背景や調査範囲は原文では追加で示されていない。金融業界では、国税庁による非定期の特別税務調査が今後も続くのか、対象がさらに広がるのかに関心が集まる可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国国税厅扩大特别税务调查，继韩亚金融后转向Meritz证券",
-        "excerpt": "韩国国税厅11日对Meritz证券启动非定期特别税务调查，距8日对韩亚金融控股和韩亚银行展开特别税务调查仅过去三天。",
-        "body": "韩国国税厅11日对Meritz证券启动非定期特别税务调查。此前，国税厅已于8日对韩亚金融控股和韩亚银行展开特别税务调查，三天后又将主要证券公司纳入调查范围，显示对主要金融机构的调查接连进行。根据原文报道，国税厅在韩亚金融相关机构之后，将Meritz证券这一主要证券公司列为调查对象。原文未进一步说明此次调查的具体背景或调查范围。金融业界可能会关注国税厅是否继续推进类似非定期特别税务调查，以及未来调查对象是否会进一步扩大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La agencia tributaria amplía auditorías especiales y apunta a Meritz tras Hana",
-        "excerpt": "La agencia tributaria surcoreana inició el 11 de mayo una auditoría fiscal especial no regular a Meritz Securities, tres días después de auditar a Hana Financial Group y Hana Bank.",
-        "body": "El Servicio Nacional de Impuestos de Corea del Sur inició el 11 de mayo una auditoría fiscal especial no regular a Meritz Securities. La medida se produjo tres días después de que el organismo comenzara auditorías especiales a Hana Financial Group y Hana Bank el 8 de mayo, lo que muestra una revisión consecutiva de importantes entidades financieras. Según el reporte original, Meritz Securities, una firma relevante de valores, fue incluida como objetivo tras las filiales de Hana Financial. El texto no ofreció más detalles sobre el contexto específico ni el alcance de la investigación. En el sector financiero, la atención podría centrarse en si la autoridad tributaria continúa con auditorías especiales no regulares y si amplía sus objetivos. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Fisco amplia auditorias especiais e mira Meritz Securities após Hana",
-        "excerpt": "A autoridade tributária da Coreia do Sul iniciou em 11 de maio uma auditoria fiscal especial não regular na Meritz Securities, três dias após ações contra Hana Financial Group e Hana Bank.",
-        "body": "O Serviço Nacional de Impostos da Coreia do Sul iniciou em 11 de maio uma auditoria fiscal especial não regular na Meritz Securities. A medida ocorreu três dias depois de o órgão começar auditorias especiais no Hana Financial Group e no Hana Bank, em 8 de maio, indicando uma sequência de fiscalizações sobre importantes instituições financeiras. Segundo a reportagem original, a Meritz Securities, uma grande corretora, passou a integrar a lista de alvos após as empresas ligadas ao Hana Financial. O texto não apresentou detalhes adicionais sobre o contexto específico nem sobre o escopo da auditoria. No setor financeiro, a atenção pode se voltar para a continuidade dessas auditorias especiais não regulares e para uma possível ampliação dos alvos. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Steuerbehörde weitet Sonderprüfungen aus: Nach Hana nun Meritz Securities",
-        "excerpt": "Südkoreas Steuerbehörde begann am 11. Mai eine außerplanmäßige Sondersteuerprüfung bei Meritz Securities, drei Tage nach Prüfungen bei Hana Financial Group und Hana Bank.",
-        "body": "Der südkoreanische National Tax Service hat am 11. Mai eine außerplanmäßige Sondersteuerprüfung bei Meritz Securities eingeleitet. Der Schritt erfolgte drei Tage nachdem die Behörde am 8. Mai Sondersteuerprüfungen bei Hana Financial Group und Hana Bank begonnen hatte, womit mehrere große Finanzunternehmen nacheinander geprüft werden. Dem ursprünglichen Bericht zufolge wurde Meritz Securities, ein bedeutendes Wertpapierhaus, nach den Hana-Financial-Einheiten in den Kreis der Prüfungsziele aufgenommen. Weitere Angaben zum konkreten Hintergrund oder Umfang der Prüfung wurden im Bericht nicht genannt. Im Finanzsektor dürfte nun im Fokus stehen, ob die Steuerbehörde weitere außerplanmäßige Sonderprüfungen durchführt und ob sich der Kreis der Betroffenen ausweitet. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le fisc sud-coréen élargit ses contrôles spéciaux, Meritz visé après Hana",
-        "excerpt": "Le fisc sud-coréen a lancé le 11 mai un contrôle fiscal spécial non régulier visant Meritz Securities, trois jours après ceux visant Hana Financial Group et Hana Bank.",
-        "body": "Le Service national des impôts de Corée du Sud a lancé le 11 mai un contrôle fiscal spécial non régulier visant Meritz Securities. Cette mesure intervient trois jours après l’ouverture, le 8 mai, de contrôles fiscaux spéciaux visant Hana Financial Group et Hana Bank, signe d’examens successifs de grandes institutions financières. Selon l’article d’origine, Meritz Securities, une importante société de courtage, a été ajoutée aux cibles après les entités liées à Hana Financial. Le texte ne donne pas davantage de détails sur le contexte précis ni sur le périmètre du contrôle. Dans le secteur financier, l’attention pourrait désormais porter sur la poursuite de ces contrôles fiscaux spéciaux non réguliers et sur une éventuelle extension des cibles. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هيئة الضرائب الكورية توسع التحقيقات الخاصة وتستهدف ميريتز بعد هانا",
-        "excerpt": "بدأت هيئة الضرائب في كوريا الجنوبية في 11 مايو تحقيقا ضريبيا خاصا غير دوري مع ميريتز للأوراق المالية، بعد ثلاثة أيام من تحقيقات شملت هانا المالية وبنك هانا.",
-        "body": "بدأت مصلحة الضرائب الوطنية في كوريا الجنوبية في 11 مايو تحقيقا ضريبيا خاصا غير دوري مع ميريتز للأوراق المالية. وجاءت الخطوة بعد ثلاثة أيام من بدء تحقيقات ضريبية خاصة في 8 مايو مع هانا فايننشال غروب وبنك هانا، ما يعني أن مؤسسات مالية كبرى تخضع للتدقيق تباعا. ووفقا للتقرير الأصلي، أدرجت الهيئة ميريتز للأوراق المالية، وهي شركة وساطة رئيسية، ضمن أهداف التحقيق بعد كيانات هانا المالية. ولم يورد التقرير تفاصيل إضافية عن الخلفية المحددة أو نطاق التحقيق الأخير. وقد يتجه اهتمام القطاع المالي إلى ما إذا كانت الهيئة ستواصل هذه التحقيقات الضريبية الخاصة غير الدورية وما إذا كانت ستوسع نطاق الجهات المستهدفة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई कर एजेंसी ने विशेष जांच बढ़ाई, हाना के बाद Meritz Securities निशाने पर",
-        "excerpt": "दक्षिण कोरिया की कर एजेंसी ने 11 मई को Meritz Securities की अनियमित विशेष कर जांच शुरू की, 8 मई को Hana Financial Group और Hana Bank की जांच के तीन दिन बाद।",
-        "body": "दक्षिण कोरिया की नेशनल टैक्स सर्विस ने 11 मई को Meritz Securities के खिलाफ अनियमित विशेष कर जांच शुरू की। यह कदम 8 मई को Hana Financial Group और Hana Bank के खिलाफ विशेष कर जांच शुरू होने के तीन दिन बाद उठाया गया, जिससे प्रमुख वित्तीय संस्थानों पर लगातार जांच का संकेत मिलता है। मूल रिपोर्ट के अनुसार, Hana Financial से जुड़ी इकाइयों के बाद Meritz Securities, जो एक प्रमुख प्रतिभूति कंपनी है, को भी जांच के दायरे में शामिल किया गया। रिपोर्ट में इस जांच की विशेष पृष्ठभूमि या दायरे पर अतिरिक्त जानकारी नहीं दी गई। वित्तीय क्षेत्र में अब ध्यान इस बात पर रह सकता है कि क्या कर एजेंसी ऐसी अनियमित विशेष कर जांच जारी रखेगी और क्या लक्षित संस्थानों का दायरा बढ़ेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Otoritas Pajak Korea Perluas Audit Khusus, Meritz Jadi Sasaran Setelah Hana",
-        "excerpt": "Otoritas pajak Korea Selatan pada 11 Mei memulai audit pajak khusus nonreguler terhadap Meritz Securities, tiga hari setelah audit terhadap Hana Financial Group dan Hana Bank.",
-        "body": "National Tax Service Korea Selatan pada 11 Mei memulai audit pajak khusus nonreguler terhadap Meritz Securities. Langkah ini terjadi tiga hari setelah otoritas tersebut memulai audit pajak khusus terhadap Hana Financial Group dan Hana Bank pada 8 Mei, sehingga menunjukkan pemeriksaan beruntun terhadap lembaga keuangan besar. Menurut laporan asli, Meritz Securities, salah satu perusahaan sekuritas utama, dimasukkan sebagai target setelah entitas Hana Financial. Laporan itu tidak memberikan rincian tambahan mengenai latar belakang khusus atau ruang lingkup audit terbaru. Di sektor keuangan, perhatian dapat tertuju pada apakah otoritas pajak akan melanjutkan audit pajak khusus nonreguler serupa dan apakah targetnya akan diperluas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "22042c53ef2b",
-    "slug": "천장-안보이는-코스피-1만2천피-전망도-나왔다-233424",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T12:28:20.112Z",
-    "updatedAt": "2026-05-11T12:28:20.112Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043560",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043560",
-    "titleFingerprint": "d7f912e73b9872362999e0fb91189822556d77ee",
-    "dedupKeys": [
-      "22042c53ef2b26cbc100508e5bf9a94c63554734",
-      "d7f912e73b9872362999e0fb91189822556d77ee",
-      "23669b165f0398d3855d6efac20addb5701063df"
-    ],
-    "imageUrl": "/images/articles/22042c53ef2b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7800선 돌파, 반도체 투톱 질주에 1만2000 전망까지",
-        "excerpt": "코스피가 반도체 투톱의 강세에 힘입어 하루 새 324포인트 오르며 사상 처음 7800선을 돌파했고, 국내외 증권사들은 목표치를 ‘만스피’ 이상으로 높이고 있다.",
-        "body": "코스피가 반도체 투톱의 쾌속 질주에 힘입어 전인미답의 7800선을 돌파했다. 하루 새 324포인트 상승한 수준으로, 국내 증시의 강한 상승 흐름이 다시 확인됐다. 이번 상승의 중심에는 반도체 대표 종목들의 강세가 자리했다. 지수는 단기간에 큰 폭으로 오르며 시장의 관심을 집중시켰고, 국내외 증권사들은 앞다퉈 코스피 목표치를 ‘만스피’ 수준으로 제시하고 있다. 일부에서는 1만2000선 전망까지 나오며 향후 지수 상단에 대한 기대가 커졌다. 다만 기사에서 확인된 핵심은 반도체 투톱 주도, 7800선 돌파, 하루 324포인트 상승, 증권가 목표치 상향이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Kospi Breaks 7,800 as Chip Leaders Fuel Talk of 12,000 Target",
-        "excerpt": "The Kospi rose 324 points in a single day to break 7,800 for the first time, powered by two major semiconductor stocks, as brokerages lift targets toward and beyond the 10,000 mark.",
-        "body": "The Kospi broke through the unprecedented 7,800 level, driven by a rapid rally in South Korea’s two leading semiconductor stocks. The index climbed 324 points in one day, confirming strong upward momentum in the local stock market. Semiconductor bellwethers stood at the center of the move, drawing market attention as the benchmark advanced sharply in a short period. Domestic and overseas securities firms are now rushing to raise Kospi targets toward the so-called “Manspi,” or 10,000-point level. Some forecasts have even mentioned 12,000, lifting expectations for the index’s possible upside. The confirmed facts are the chip-led rally, the 7,800 breakout, the 324-point daily gain, and higher brokerage targets. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが7800突破、半導体2強の急伸で1万2000観測も",
-        "excerpt": "KOSPIは半導体2強の上昇に支えられ、1日で324ポイント上昇して初の7800台を突破し、国内外の証券会社は目標値を「1万KOSPI」以上へ引き上げている。",
-        "body": "KOSPIは半導体2強の急伸に支えられ、前人未到の7800台を突破した。1日で324ポイント上昇した水準で、韓国株式市場の強い上昇基調が改めて確認された。今回の上昇の中心には、代表的な半導体銘柄の堅調さがあった。指数は短期間で大きく上昇し、市場の関心を集めた。こうした中、国内外の証券会社は相次いでKOSPIの目標値を「1万KOSPI」水準へ引き上げている。一部では1万2000台の見通しも出ており、今後の上値への期待が高まった。確認された要点は、半導体2強主導、7800突破、1日324ポイント上昇、証券業界の目標値引き上げである。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI突破7800点，半导体双强拉动下现12000点展望",
-        "excerpt": "KOSPI在半导体两大龙头快速上涨带动下，单日上涨324点并首次突破7800点，韩国及海外券商正将目标上调至“万斯皮”以上。",
-        "body": "在半导体两大龙头快速上涨的推动下，KOSPI突破了前所未有的7800点关口。该指数单日上涨324点，显示韩国股市的强劲上行走势再次得到确认。本轮上涨的核心来自代表性半导体个股的强势表现。指数在短时间内大幅攀升，吸引市场高度关注。与此同时，韩国国内外证券公司纷纷将KOSPI目标位上调至所谓“万斯皮”水平，即1万点附近。部分机构甚至提出1万2000点展望，使市场对未来上方空间的期待升温。已确认的重点包括半导体双强主导、突破7800点、单日上涨324点以及券商目标上调。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Kospi supera 7.800 puntos con chips líderes y ya se habla de 12.000",
-        "excerpt": "El Kospi subió 324 puntos en un solo día y superó por primera vez los 7.800, impulsado por dos grandes valores de semiconductores, mientras corredoras elevan sus metas hacia 10.000 y más.",
-        "body": "El Kospi superó el nivel inédito de 7.800 puntos gracias al rápido avance de los dos principales valores de semiconductores de Corea del Sur. El índice ganó 324 puntos en una sola jornada, confirmando el fuerte impulso alcista del mercado local. En el centro del movimiento estuvieron las acciones representativas del sector de chips, que llevaron al índice a una subida marcada en poco tiempo y concentraron la atención del mercado. En este contexto, corredoras nacionales y extranjeras se apresuran a elevar sus objetivos para el Kospi hacia el llamado nivel de “Manspi”, o 10.000 puntos. Algunas previsiones incluso mencionan 12.000 puntos, aumentando las expectativas sobre el techo potencial del índice. Los hechos confirmados son el liderazgo de los chips, la ruptura de 7.800, la subida diaria de 324 puntos y el alza de metas de las corredoras. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Kospi rompe 7.800 pontos com chips líderes e projeção chega a 12.000",
-        "excerpt": "O Kospi avançou 324 pontos em um dia e superou pela primeira vez os 7.800, impulsionado por duas grandes ações de semicondutores, enquanto corretoras elevam metas para 10.000 ou mais.",
-        "body": "O Kospi rompeu o nível inédito de 7.800 pontos, impulsionado pela rápida valorização das duas principais ações de semicondutores da Coreia do Sul. O índice subiu 324 pontos em apenas um dia, confirmando a forte tendência de alta do mercado acionário local. No centro do movimento estiveram os papéis representativos do setor de chips, que levaram o índice a uma alta expressiva em curto período e atraíram a atenção dos investidores. Nesse cenário, corretoras domésticas e estrangeiras passaram a elevar suas metas para o Kospi em direção ao chamado nível de “Manspi”, ou 10.000 pontos. Algumas projeções já mencionam 12.000 pontos, ampliando as expectativas sobre o possível limite superior do índice. Os fatos confirmados são a liderança dos chips, a quebra de 7.800, o ganho diário de 324 pontos e a elevação das metas por corretoras. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Kospi durchbricht 7.800 Punkte dank Chip-Schwergewichten, 12.000 im Blick",
-        "excerpt": "Der Kospi stieg an einem Tag um 324 Punkte und überschritt erstmals die Marke von 7.800, getragen von zwei führenden Halbleiterwerten, während Broker Ziele Richtung 10.000 und darüber anheben.",
-        "body": "Der Kospi hat die bislang unerreichte Marke von 7.800 Punkten überschritten, angetrieben vom schnellen Lauf der zwei führenden südkoreanischen Halbleiteraktien. Der Index legte an einem Tag um 324 Punkte zu und bestätigte damit die starke Aufwärtsbewegung am heimischen Aktienmarkt. Im Zentrum des Anstiegs standen die repräsentativen Chipwerte, die den Index binnen kurzer Zeit deutlich steigen ließen und die Aufmerksamkeit des Marktes bündelten. Vor diesem Hintergrund erhöhen in- und ausländische Wertpapierhäuser ihre Kospi-Ziele in Richtung des sogenannten „Manspi“, also der Marke von 10.000 Punkten. Teilweise ist sogar von 12.000 Punkten die Rede, was die Erwartungen an weiteres Aufwärtspotenzial verstärkt. Bestätigt sind die Chip-Führung, der Ausbruch über 7.800, der Tagesgewinn von 324 Punkten und höhere Brokerziele. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le Kospi franchit 7 800 points, les semi-conducteurs portent l’objectif 12 000",
-        "excerpt": "Le Kospi a gagné 324 points en une journée et dépassé pour la première fois 7 800, porté par deux grands titres des semi-conducteurs, tandis que les maisons de courtage relèvent leurs objectifs.",
-        "body": "Le Kospi a franchi le seuil inédit de 7 800 points, soutenu par la progression rapide des deux principaux titres sud-coréens des semi-conducteurs. L’indice a gagné 324 points en une seule journée, confirmant la forte dynamique haussière du marché local. Au cœur de ce mouvement figurent les valeurs représentatives des puces, qui ont entraîné une hausse marquée de l’indice en peu de temps et concentré l’attention du marché. Dans ce contexte, des sociétés de courtage coréennes et étrangères relèvent leurs objectifs pour le Kospi vers le niveau dit de “Manspi”, soit 10 000 points. Certaines prévisions évoquent même 12 000 points, renforçant les attentes sur le potentiel de hausse. Les faits confirmés sont la poussée menée par les semi-conducteurs, le franchissement de 7 800, le gain quotidien de 324 points et la hausse des objectifs des courtiers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتجاوز 7800 نقطة بدعم عمالقة الرقائق وتوقعات تصل إلى 12000",
-        "excerpt": "ارتفع مؤشر كوسبي 324 نقطة في يوم واحد متجاوزا مستوى 7800 لأول مرة، بدعم من سهمين رئيسيين في أشباه الموصلات، فيما ترفع شركات الوساطة أهدافها نحو 10000 وما فوق.",
-        "body": "تجاوز مؤشر كوسبي مستوى غير مسبوق عند 7800 نقطة، مدعوما بالصعود السريع لسهمين رئيسيين في قطاع أشباه الموصلات في كوريا الجنوبية. وارتفع المؤشر 324 نقطة في يوم واحد، ما أكد قوة الاتجاه الصاعد في سوق الأسهم المحلية. وجاءت أسهم الرقائق البارزة في قلب هذا التحرك، إذ دفعت المؤشر إلى مكاسب كبيرة خلال فترة قصيرة وجذبت انتباه السوق. وفي هذا السياق، سارعت شركات وساطة محلية وأجنبية إلى رفع أهدافها لمؤشر كوسبي نحو مستوى يعرف باسم “مانسبي”، أي 10000 نقطة. كما ظهرت بعض التوقعات التي تشير إلى 12000 نقطة، ما زاد التوقعات بشأن الحد الأعلى المحتمل للمؤشر. الحقائق المؤكدة هي قيادة أسهم أشباه الموصلات، اختراق 7800 نقطة، الارتفاع اليومي البالغ 324 نقطة، ورفع أهداف شركات الوساطة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोस्पी 7,800 के पार, चिप दिग्गजों की तेजी से 12,000 की चर्चा",
-        "excerpt": "कोस्पी ने दो प्रमुख सेमीकंडक्टर शेयरों की मजबूती से एक दिन में 324 अंक चढ़कर पहली बार 7,800 का स्तर पार किया, जबकि देशी-विदेशी ब्रोकरेज लक्ष्य 10,000 और उससे ऊपर ले जा रहे हैं।",
-        "body": "कोस्पी ने दक्षिण कोरिया के दो प्रमुख सेमीकंडक्टर शेयरों की तेज रफ्तार बढ़त के सहारे पहली बार 7,800 का अभूतपूर्व स्तर पार किया। सूचकांक एक ही दिन में 324 अंक चढ़ा, जिससे स्थानीय शेयर बाजार की मजबूत तेजी फिर सामने आई। इस उछाल के केंद्र में प्रतिनिधि चिप शेयरों की मजबूती रही, जिन्होंने कम समय में सूचकांक को बड़े स्तर तक ऊपर पहुंचाया और बाजार का ध्यान खींचा। इसी बीच घरेलू और विदेशी ब्रोकरेज कोस्पी के लक्ष्य को तथाकथित “मांसपी”, यानी 10,000 अंक के स्तर की ओर बढ़ा रहे हैं। कुछ अनुमानों में 12,000 अंक तक का जिक्र भी आया है, जिससे आगे की ऊपरी संभावना को लेकर उम्मीद बढ़ी है। पुष्टि किए गए तथ्य हैं सेमीकंडक्टर शेयरों की अगुवाई, 7,800 का突破, 324 अंक की दैनिक बढ़त और ब्रोकरेज लक्ष्यों में वृद्धि। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Kospi Tembus 7.800, Reli Saham Chip Picu Proyeksi Hingga 12.000",
-        "excerpt": "Kospi naik 324 poin dalam sehari dan untuk pertama kalinya menembus 7.800, ditopang dua saham semikonduktor utama, sementara sekuritas menaikkan target menuju 10.000 atau lebih.",
-        "body": "Kospi menembus level yang belum pernah dicapai sebelumnya, 7.800, berkat laju cepat dua saham utama semikonduktor Korea Selatan. Indeks naik 324 poin dalam satu hari, menegaskan kembali kuatnya tren kenaikan di pasar saham domestik. Pusat kenaikan kali ini adalah saham-saham perwakilan sektor chip, yang mendorong indeks melonjak tajam dalam waktu singkat dan menarik perhatian pasar. Dalam situasi tersebut, perusahaan sekuritas domestik dan asing berlomba menaikkan target Kospi ke level yang disebut “Manspi”, yaitu 10.000 poin. Sebagian proyeksi bahkan menyebut 12.000 poin, sehingga ekspektasi terhadap batas atas indeks meningkat. Fakta yang terkonfirmasi adalah reli dipimpin saham semikonduktor, tembus 7.800, kenaikan harian 324 poin, dan peningkatan target dari sekuritas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "eaf4c3d59e58",
-    "slug": "포토-2026-매경-증권연금대상-수상자-한자리에-448596",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T12:26:58.971Z",
-    "updatedAt": "2026-05-11T12:26:58.972Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043559",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043559",
-    "titleFingerprint": "192b180075b7cb06dabf9f9d24aa898761e9b694",
-    "dedupKeys": [
-      "eaf4c3d59e583bc3114ca55b71278aa4b9f6ead4",
-      "192b180075b7cb06dabf9f9d24aa898761e9b694",
-      "747f5f553049619e1af330a2d73220b8ef6b3f1d"
-    ],
-    "imageUrl": "/images/articles/eaf4c3d59e58.jpg",
-    "i18n": {
-      "ko": {
-        "title": "2026 매경 증권·연금대상 수상자 한자리에 모인 현장 포착",
-        "excerpt": "매경이 보도한 ‘2026 매경 증권·연금대상’ 포토 기사에서 수상자들이 한자리에 모인 모습이 소개됐다. 증권과 연금 분야 수상 현장을 기록한 사진 기사다.",
-        "body": "‘2026 매경 증권·연금대상’ 수상자들이 한자리에 모였다. 매경은 해당 시상식의 수상자들이 함께 자리한 현장을 포토 기사로 전했다. 이번 보도는 증권과 연금 분야를 다루는 ‘매경 증권·연금대상’ 수상자들의 모습을 사진으로 소개한 내용이다. 원문에 별도 요약이나 추가 수치, 세부 수상 내역은 제시되지 않았다. 투자자와 금융업계 독자는 이번 포토 기사를 통해 시상식 현장 분위기와 수상자들의 참석 장면을 확인할 수 있다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "2026 Maeil Business Securities and Pension Awards Winners Gather in One Photo",
-        "excerpt": "Maeil Business reported a photo article showing winners of the 2026 Maeil Business Securities and Pension Awards gathered together at the event.",
-        "body": "Winners of the 2026 Maeil Business Securities and Pension Awards gathered in one place. Maeil Business introduced the scene through a photo article showing the award recipients together. The report focuses on a photographed moment from the awards, which cover the securities and pension fields. The original item did not provide a separate summary, additional figures, or detailed award categories. Readers in the investment and financial sectors can use the photo article to see the atmosphere of the ceremony and the attendance of the winners. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "2026毎経証券・年金大賞の受賞者が一堂に、写真記事で紹介",
-        "excerpt": "毎経は「2026毎経証券・年金大賞」の写真記事で、受賞者が一堂に会した場面を紹介した。証券と年金分野の授賞式を伝える内容だ。",
-        "body": "「2026毎経証券・年金大賞」の受賞者が一堂に会した。毎経は、同授賞式の受賞者がともに並んだ場面を写真記事として伝えた。今回の報道は、証券と年金分野を扱う「毎経証券・年金大賞」の受賞者の姿を写真で紹介する内容だ。原文には別途の要約、追加の数値、詳細な受賞内訳は示されていない。投資家や金融業界の読者は、この写真記事を通じて授賞式の雰囲気と受賞者の出席場面を確認できる。出典: mk.co.kr。"
-      },
-      "zh": {
-        "title": "2026每日经济证券养老金大奖获奖者齐聚一堂画面公开",
-        "excerpt": "每日经济通过一篇图片报道介绍了“2026每日经济证券·养老金大奖”获奖者齐聚一堂的场景，记录证券与养老金领域颁奖现场。",
-        "body": "“2026每日经济证券·养老金大奖”的获奖者齐聚一堂。每日经济以图片报道形式呈现了该颁奖活动中获奖者共同出席的现场。此次报道主要通过照片介绍证券和养老金领域相关大奖获奖者的面貌。原文未提供单独摘要、额外数据或具体获奖明细。投资者和金融行业读者可通过这篇图片报道了解颁奖现场氛围，并确认获奖者出席的场景。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "Ganadores de los Premios Maeil 2026 de Valores y Pensiones se reúnen",
-        "excerpt": "Maeil Business publicó una nota fotográfica sobre los ganadores de los Premios Maeil 2026 de Valores y Pensiones reunidos en un mismo lugar.",
-        "body": "Los ganadores de los Premios Maeil 2026 de Valores y Pensiones se reunieron en un mismo lugar. Maeil Business presentó la escena mediante una nota fotográfica en la que aparecen juntos los galardonados. La publicación se centra en una imagen del evento, dedicado a los ámbitos de valores y pensiones. El texto original no incluye un resumen separado, cifras adicionales ni detalles específicos sobre las categorías premiadas. Los lectores del sector financiero y de inversión pueden ver en esta nota el ambiente de la ceremonia y la presencia de los ganadores. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Vencedores do Prêmio Maeil 2026 de Valores e Previdência reunidos",
-        "excerpt": "O Maeil Business publicou uma reportagem fotográfica mostrando os vencedores do Prêmio Maeil 2026 de Valores e Previdência reunidos no evento.",
-        "body": "Os vencedores do Prêmio Maeil 2026 de Valores e Previdência estiveram reunidos em um só lugar. O Maeil Business apresentou a cena por meio de uma reportagem fotográfica com os premiados juntos. A publicação mostra, em foto, um momento do prêmio ligado aos setores de valores mobiliários e previdência. O texto original não traz resumo separado, números adicionais nem detalhes sobre categorias ou listas de vencedores. Leitores do mercado financeiro e de investimentos podem observar pela imagem o ambiente da cerimônia e a presença dos premiados. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Gewinner der Maeil Awards 2026 für Wertpapiere und Renten versammelt",
-        "excerpt": "Maeil Business berichtete in einem Fotoartikel über die Gewinner der Maeil Awards 2026 für Wertpapiere und Renten, die gemeinsam vor Ort waren.",
-        "body": "Die Gewinner der Maeil Awards 2026 für Wertpapiere und Renten kamen an einem Ort zusammen. Maeil Business zeigte die Szene in einem Fotoartikel, in dem die Preisträger gemeinsam zu sehen sind. Der Bericht stellt einen fotografischen Moment der Auszeichnung vor, die die Bereiche Wertpapiere und Renten behandelt. Im Original wurden keine gesonderte Zusammenfassung, keine zusätzlichen Zahlen und keine detaillierten Preiskategorien genannt. Leser aus Investment- und Finanzkreisen können über den Fotoartikel die Atmosphäre der Zeremonie und die Anwesenheit der Gewinner nachvollziehen. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Les lauréats des Prix Maeil 2026 des titres et retraites réunis",
-        "excerpt": "Maeil Business a publié un article photo montrant les lauréats des Prix Maeil 2026 des titres et retraites réunis lors de la cérémonie.",
-        "body": "Les lauréats des Prix Maeil 2026 des titres et retraites se sont réunis au même endroit. Maeil Business a présenté la scène dans un article photo montrant les personnes récompensées ensemble. Le reportage met en avant un moment photographié de cette distinction liée aux secteurs des titres financiers et des retraites. Le texte original ne fournit pas de résumé séparé, de chiffres supplémentaires ni de détail sur les catégories récompensées. Les lecteurs du secteur financier et de l’investissement peuvent y observer l’ambiance de la cérémonie et la présence des lauréats. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "الفائزون بجوائز ماييل 2026 للأوراق المالية والمعاشات يجتمعون",
-        "excerpt": "نشرت ماييل بيزنس خبرا مصورا يعرض الفائزين بجوائز ماييل 2026 للأوراق المالية والمعاشات وهم مجتمعون في مكان واحد خلال المناسبة.",
-        "body": "اجتمع الفائزون بجوائز ماييل 2026 للأوراق المالية والمعاشات في مكان واحد. وقد عرضت ماييل بيزنس المشهد عبر خبر مصور يظهر الحاصلين على الجوائز معا. يركز التقرير على لقطة من فعالية الجائزة المرتبطة بمجالي الأوراق المالية والمعاشات. ولم يورد النص الأصلي ملخصا منفصلا أو أرقاما إضافية أو تفاصيل عن فئات الجوائز. ويمكن لقراء قطاع الاستثمار والمال الاطلاع من خلال الخبر المصور على أجواء الحفل وحضور الفائزين. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "2026 मैइल सिक्योरिटीज और पेंशन अवॉर्ड विजेता एक साथ नजर आए",
-        "excerpt": "मैइल बिजनेस ने 2026 मैइल सिक्योरिटीज और पेंशन अवॉर्ड के विजेताओं को एक साथ दिखाने वाली फोटो खबर प्रकाशित की।",
-        "body": "2026 मैइल सिक्योरिटीज और पेंशन अवॉर्ड के विजेता एक ही स्थान पर एकत्र हुए। मैइल बिजनेस ने इस समारोह में विजेताओं के साथ मौजूद होने का दृश्य फोटो लेख के रूप में प्रस्तुत किया। यह रिपोर्ट सिक्योरिटीज और पेंशन क्षेत्रों से जुड़े अवॉर्ड के विजेताओं की तस्वीर पर केंद्रित है। मूल सामग्री में अलग सारांश, अतिरिक्त आंकड़े या विस्तृत पुरस्कार श्रेणियां नहीं दी गई हैं। निवेश और वित्त क्षेत्र के पाठक इस फोटो खबर के जरिए समारोह का माहौल और विजेताओं की उपस्थिति देख सकते हैं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Pemenang Maeil Securities dan Pension Awards 2026 Berkumpul Bersama",
-        "excerpt": "Maeil Business memuat artikel foto yang menampilkan para pemenang Maeil Securities dan Pension Awards 2026 berkumpul di satu tempat.",
-        "body": "Para pemenang Maeil Securities dan Pension Awards 2026 berkumpul di satu tempat. Maeil Business menyajikan momen tersebut melalui artikel foto yang memperlihatkan para penerima penghargaan bersama. Laporan ini berfokus pada suasana penghargaan yang berkaitan dengan bidang sekuritas dan pensiun. Naskah asli tidak menyertakan ringkasan terpisah, angka tambahan, atau rincian kategori penghargaan. Pembaca di sektor investasi dan keuangan dapat melihat suasana acara serta kehadiran para pemenang melalui artikel foto tersebut. Sumber: mk.co.kr."
       }
     }
   }
