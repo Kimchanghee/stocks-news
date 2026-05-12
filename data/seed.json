@@ -1,5 +1,230 @@
 [
   {
+    "id": "f23bf2212703",
+    "slug": "삼성sds-범정부-ai-협업-설루션-선정에-8대-급등-767018",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T02:04:00.046Z",
+    "updatedAt": "2026-05-12T02:04:00.046Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044338",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044338",
+    "titleFingerprint": "01d6249f0812ccb24d95ec711120b7a78bec61bf",
+    "dedupKeys": [
+      "f23bf2212703dbc0f4c8f5e3f406f023ba4a50c4",
+      "01d6249f0812ccb24d95ec711120b7a78bec61bf",
+      "9666c8decd3dc00a6ca520520b916e9ee2684ee6"
+    ],
+    "imageUrl": "/images/articles/f23bf2212703.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성SDS, 범정부 AI 협업 설루션 선정 소식에 장 초반 8%대 급등",
+        "excerpt": "삼성에스디에스는 12일 오전 범정부 지능형 업무관리 플랫폼 ‘온AI’의 모바일 업무환경 구축 지원 소식이 전해지며 장 초반 8%대 급등했다.",
+        "body": "삼성에스디에스가 12일 장 초반 급등했다. 범정부 지능형 업무관리 플랫폼인 ‘온AI’의 모바일 업무환경 구축을 지원한다는 소식이 주가에 영향을 준 것으로 보인다. 이날 오전 9시 27분 현재 삼성에스디에스는 8%대 상승세를 나타냈다. 원문은 삼성에스디에스가 정부 차원의 AI 협업 설루션 관련 모바일 업무환경 구축에 참여한다는 점을 핵심 배경으로 제시했다. 이번 소식은 공공 업무관리 플랫폼의 지능화와 모바일 업무 지원 흐름 속에서 투자자 관심을 끌었다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung SDS jumps over 8% early on government AI collaboration solution news",
+        "excerpt": "Samsung SDS surged more than 8% in early trading on May 12 after news that it will support the mobile work environment for the governmentwide ‘OnAI’ intelligent work platform.",
+        "body": "Samsung SDS rose sharply in early trading on May 12. The move came after news that the company will support the mobile work environment for ‘OnAI,’ a governmentwide intelligent work management platform. As of 9:27 a.m. that day, Samsung SDS was up by more than 8%. The original report cited the company’s role in building a mobile work environment linked to a government AI collaboration solution as the key background. The news drew investor attention amid efforts to make public-sector work management platforms more intelligent and mobile-friendly. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスンSDS、政府AI協業ソリューション選定報道で序盤8％超急伸",
+        "excerpt": "サムスンSDSは12日午前、政府横断の知能型業務管理プラットフォーム「オンAI」のモバイル業務環境構築を支援するとの報道を受け、序盤に8％台急伸した。",
+        "body": "サムスンSDSは12日の取引序盤に急伸した。政府横断の知能型業務管理プラットフォーム「オンAI」のモバイル業務環境構築を支援するとのニュースが、株価に影響したとみられる。同日午前9時27分時点で、サムスンSDSは8％台の上昇を示した。原文は、同社が政府レベルのAI協業ソリューションに関連するモバイル業務環境構築に参加する点を主な背景として伝えた。公共業務管理プラットフォームの知能化とモバイル業務支援の流れの中で、投資家の関心を集めた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星SDS因入选政府AI协作解决方案消息早盘大涨逾8%",
+        "excerpt": "三星SDS在12日上午因将支持泛政府智能业务管理平台“OnAI”的移动办公环境建设消息，早盘股价上涨逾8%。",
+        "body": "三星SDS在12日早盘大幅上涨。消息称，该公司将支持泛政府智能业务管理平台“OnAI”的移动办公环境建设，这被认为影响了股价表现。当天上午9点27分，三星SDS涨幅超过8%。原文将三星SDS参与政府层面AI协作解决方案相关移动办公环境建设列为主要背景。该消息在公共业务管理平台智能化和移动办公支持趋势中，引发投资者关注。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung SDS sube más de 8% al inicio por solución de IA para el Gobierno",
+        "excerpt": "Samsung SDS se disparó más de 8% en la mañana del 12 de mayo tras conocerse que apoyará el entorno móvil de trabajo de ‘OnAI’, plataforma inteligente de gestión gubernamental.",
+        "body": "Samsung SDS subió con fuerza al inicio de la sesión del 12 de mayo. La reacción llegó después de conocerse que la empresa apoyará la construcción del entorno móvil de trabajo de ‘OnAI’, una plataforma inteligente de gestión laboral para todo el Gobierno. A las 9:27 a. m. de ese día, Samsung SDS avanzaba más de 8%. El informe original señaló como contexto clave la participación de la compañía en un entorno móvil vinculado a una solución gubernamental de colaboración con IA. La noticia atrajo atención inversora dentro del avance hacia plataformas públicas más inteligentes y móviles. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung SDS salta mais de 8% com notícia sobre solução de IA do governo",
+        "excerpt": "A Samsung SDS avançou mais de 8% no início do pregão de 12 de maio após a notícia de que apoiará o ambiente móvel de trabalho da plataforma governamental inteligente ‘OnAI’.",
+        "body": "A Samsung SDS subiu fortemente no início do pregão de 12 de maio. O movimento ocorreu após a notícia de que a empresa apoiará a construção do ambiente móvel de trabalho da ‘OnAI’, plataforma inteligente de gestão de trabalho para todo o governo. Às 9h27 daquele dia, a Samsung SDS registrava alta superior a 8%. A reportagem original apontou como principal contexto a participação da companhia em um ambiente móvel ligado a uma solução governamental de colaboração com IA. A notícia chamou a atenção de investidores em meio à digitalização inteligente de plataformas públicas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung SDS steigt früh um über 8% nach Bericht zu staatlicher KI-Lösung",
+        "excerpt": "Samsung SDS legte am Morgen des 12. Mai um mehr als 8% zu, nachdem bekannt wurde, dass das Unternehmen die mobile Arbeitsumgebung der staatlichen intelligenten Plattform ‘OnAI’ unterstützt.",
+        "body": "Samsung SDS ist am 12. Mai im frühen Handel deutlich gestiegen. Auslöser war die Nachricht, dass das Unternehmen den Aufbau der mobilen Arbeitsumgebung für ‘OnAI’ unterstützt, eine regierungsweite intelligente Plattform für Arbeitsmanagement. Um 9:27 Uhr lag Samsung SDS mehr als 8% im Plus. Der ursprüngliche Bericht nannte die Beteiligung des Unternehmens an einer mobilen Arbeitsumgebung im Zusammenhang mit einer staatlichen KI-Kollaborationslösung als zentralen Hintergrund. Die Meldung lenkte das Interesse der Anleger auf die Digitalisierung und Mobilisierung öffentlicher Arbeitsplattformen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung SDS bondit de plus de 8% après une nouvelle sur l’IA gouvernementale",
+        "excerpt": "Samsung SDS a gagné plus de 8% en début de séance le 12 mai après l’annonce de son soutien à l’environnement de travail mobile de la plateforme gouvernementale intelligente ‘OnAI’.",
+        "body": "Samsung SDS a fortement progressé en début de séance le 12 mai. Le mouvement a suivi l’annonce selon laquelle l’entreprise soutiendra la construction de l’environnement de travail mobile de ‘OnAI’, une plateforme intelligente de gestion du travail à l’échelle du gouvernement. À 9h27 ce jour-là, Samsung SDS affichait une hausse de plus de 8%. Le rapport original a présenté la participation de l’entreprise à un environnement mobile lié à une solution gouvernementale de collaboration par IA comme principal contexte. La nouvelle a attiré l’attention des investisseurs dans le cadre de l’intelligence accrue des plateformes publiques. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم سامسونغ SDS يقفز بأكثر من 8% بعد خبر حل تعاون حكومي بالذكاء الاصطناعي",
+        "excerpt": "قفز سهم سامسونغ SDS في صباح 12 مايو بأكثر من 8% بعد خبر دعمها بيئة العمل عبر الجوال لمنصة ‘OnAI’ الحكومية الذكية لإدارة الأعمال.",
+        "body": "ارتفع سهم سامسونغ SDS بقوة في بداية تداولات 12 مايو. وجاء التحرك بعد خبر يفيد بأن الشركة ستدعم بناء بيئة العمل عبر الجوال لمنصة ‘OnAI’، وهي منصة حكومية ذكية لإدارة الأعمال على نطاق واسع. وبحلول الساعة 9:27 صباحا في ذلك اليوم، كان سهم سامسونغ SDS مرتفعا بأكثر من 8%. وذكر التقرير الأصلي أن الخلفية الرئيسية هي مشاركة الشركة في بيئة عمل متنقلة مرتبطة بحل تعاون حكومي قائم على الذكاء الاصطناعي. وجذب الخبر اهتمام المستثمرين مع توجه منصات العمل العامة نحو مزيد من الذكاء ودعم الجوال. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "सरकारी AI सहयोग समाधान की खबर पर Samsung SDS शुरुआती कारोबार में 8% से अधिक उछला",
+        "excerpt": "Samsung SDS 12 मई की सुबह 8% से अधिक उछला, जब खबर आई कि कंपनी सरकारी बुद्धिमान कार्य प्रबंधन प्लेटफॉर्म ‘OnAI’ के मोबाइल कार्य वातावरण के निर्माण में सहयोग करेगी।",
+        "body": "Samsung SDS ने 12 मई के शुरुआती कारोबार में तेज बढ़त दर्ज की। यह तेजी उस खबर के बाद आई कि कंपनी सरकार-व्यापी बुद्धिमान कार्य प्रबंधन प्लेटफॉर्म ‘OnAI’ के मोबाइल कार्य वातावरण के निर्माण में सहयोग करेगी। उस दिन सुबह 9:27 बजे Samsung SDS 8% से अधिक ऊपर था। मूल रिपोर्ट ने कंपनी की भागीदारी को सरकारी AI सहयोग समाधान से जुड़े मोबाइल कार्य वातावरण निर्माण का मुख्य संदर्भ बताया। यह खबर सार्वजनिक कार्य प्रबंधन प्लेटफॉर्म को अधिक बुद्धिमान और मोबाइल समर्थ बनाने की दिशा में निवेशकों का ध्यान खींचती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Samsung SDS melonjak lebih dari 8% usai kabar solusi kolaborasi AI pemerintah",
+        "excerpt": "Samsung SDS naik lebih dari 8% pada awal perdagangan 12 Mei setelah kabar bahwa perusahaan akan mendukung lingkungan kerja mobile platform manajemen kerja cerdas pemerintah ‘OnAI’.",
+        "body": "Samsung SDS melonjak pada awal perdagangan 12 Mei. Kenaikan terjadi setelah kabar bahwa perusahaan akan mendukung pembangunan lingkungan kerja mobile untuk ‘OnAI’, platform manajemen kerja cerdas lintas pemerintah. Pada pukul 09.27 hari itu, Samsung SDS naik lebih dari 8%. Laporan asli menyebut keterlibatan perusahaan dalam pembangunan lingkungan kerja mobile yang terkait dengan solusi kolaborasi AI pemerintah sebagai latar utama. Kabar ini menarik perhatian investor di tengah arah platform kerja sektor publik yang makin cerdas dan mendukung kerja mobile. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "c9d3074e2b24",
+    "slug": "비보존-vvz-2471-대상포진후-신경통-국내-임상-2상-최종-대상자-투여-완료-526048",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T02:02:58.637Z",
+    "updatedAt": "2026-05-12T02:02:58.637Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044370",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044370",
+    "titleFingerprint": "d73de0cf792c5d125a706dca121ede6e536f4f60",
+    "dedupKeys": [
+      "c9d3074e2b24e853d4d5b38ab20790c347bc4ff1",
+      "d73de0cf792c5d125a706dca121ede6e536f4f60",
+      "1581ec9b3fd839932462e1c6be19080179d6d9c6"
+    ],
+    "imageUrl": "/images/articles/c9d3074e2b24.png",
+    "i18n": {
+      "ko": {
+        "title": "비보존 VVZ-2471, 대상포진후 신경통 국내 임상 2상 최종 투여 완료",
+        "excerpt": "비보존제약 관계사 비보존은 12일 경구용 비마약성 진통제 후보물질 VVZ-2471의 대상포진후 신경통 환자 대상 국내 임상 2상 최종 대상자 투여를 완료했다고 밝혔다.",
+        "body": "비보존제약 관계사 비보존은 12일 경구용 비마약성 진통제 후보물질 ‘VVZ-2471’의 대상포진후 신경통(PHN) 환자 대상 국내 임상 2상에서 최종 대상자에 대한 투여를 완료했다고 밝혔다. 이번 발표는 VVZ-2471의 국내 임상 2상 진행 과정에서 최종 대상자 투여가 끝났다는 내용이다. 대상포진후 신경통은 대상포진 이후 통증이 지속되는 질환으로, 이번 임상은 해당 환자를 대상으로 진행됐다. 회사가 밝힌 범위 내에서 추가 결과나 세부 수치는 공개되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Vivozon Completes Final Dosing in Korean Phase 2 Trial of VVZ-2471 for PHN",
+        "excerpt": "Vivozon, an affiliate of Vivozon Pharmaceutical, said on the 12th it completed dosing for the final participant in a Korean Phase 2 trial of oral non-opioid analgesic candidate VVZ-2471 for postherpetic neuralgia.",
+        "body": "Vivozon, an affiliate of Vivozon Pharmaceutical, said on the 12th that it completed dosing for the final participant in a Korean Phase 2 clinical trial of its oral non-opioid analgesic candidate, VVZ-2471, in patients with postherpetic neuralgia (PHN). The announcement marks a progress point in the domestic Phase 2 study, confirming that final-subject dosing has ended. PHN is a condition in which pain persists after shingles, and the trial was conducted in this patient group. No additional results or detailed figures were disclosed within the stated information. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ビボゾン、VVZ-2471の帯状疱疹後神経痛向け韓国第2相で最終投与完了",
+        "excerpt": "ビボゾン製薬の関係会社ビボゾンは12日、経口非麻薬性鎮痛薬候補VVZ-2471の帯状疱疹後神経痛患者向け韓国第2相で最終被験者への投与を完了したと明らかにした。",
+        "body": "ビボゾン製薬の関係会社ビボゾンは12日、経口非麻薬性鎮痛薬候補物質「VVZ-2471」について、帯状疱疹後神経痛（PHN）患者を対象とした韓国国内第2相臨床試験で、最終被験者への投与を完了したと明らかにした。今回の発表は、VVZ-2471の国内第2相試験の進行過程で最終被験者への投与が終了したという内容だ。帯状疱疹後神経痛は帯状疱疹後に痛みが続く疾患で、今回の臨床試験は同患者群を対象に行われた。会社が明らかにした範囲で追加結果や詳細数値は公開されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Vivozon口服镇痛候选药VVZ-2471完成韩国PHN二期最终受试者给药",
+        "excerpt": "Vivozon Pharmaceutical关联公司Vivozon于12日表示，口服非阿片类镇痛候选药VVZ-2471在韩国针对带状疱疹后神经痛患者的二期临床中已完成最终受试者给药。",
+        "body": "Vivozon Pharmaceutical关联公司Vivozon于12日表示，其口服非阿片类镇痛候选物“VVZ-2471”在韩国针对带状疱疹后神经痛（PHN）患者的二期临床试验中，已完成最终受试者给药。此次公告说明，VVZ-2471韩国二期临床推进过程中，最终受试者给药已经结束。带状疱疹后神经痛是带状疱疹后疼痛持续存在的疾病，本次临床试验即以该类患者为对象开展。根据公司已披露的信息，尚未公布追加结果或具体数据。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Vivozon completa la dosis final de VVZ-2471 en fase 2 coreana para neuralgia posherpética",
+        "excerpt": "Vivozon, afiliada de Vivozon Pharmaceutical, informó el día 12 que completó la administración al último participante en el ensayo clínico fase 2 en Corea de VVZ-2471 para pacientes con neuralgia posherpética.",
+        "body": "Vivozon, afiliada de Vivozon Pharmaceutical, informó el día 12 que completó la administración al último participante en el ensayo clínico fase 2 en Corea de su candidato analgésico oral no opioide “VVZ-2471” en pacientes con neuralgia posherpética (PHN). El anuncio marca un avance dentro del estudio nacional de fase 2, al confirmar que terminó la dosificación del sujeto final. La neuralgia posherpética es una afección en la que el dolor persiste después del herpes zóster, y el ensayo se realizó en ese grupo de pacientes. No se divulgaron resultados adicionales ni cifras detalladas dentro de la información comunicada. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Vivozon conclui dose final de VVZ-2471 em fase 2 coreana para neuralgia pós-herpética",
+        "excerpt": "A Vivozon, afiliada da Vivozon Pharmaceutical, informou no dia 12 que concluiu a administração ao último participante do estudo clínico fase 2 na Coreia de VVZ-2471 para neuralgia pós-herpética.",
+        "body": "A Vivozon, afiliada da Vivozon Pharmaceutical, informou no dia 12 que concluiu a administração ao último participante do ensaio clínico fase 2 na Coreia de seu candidato a analgésico oral não opioide “VVZ-2471” em pacientes com neuralgia pós-herpética (PHN). O comunicado representa um marco no andamento do estudo doméstico de fase 2, ao confirmar que a dosagem do participante final foi encerrada. A neuralgia pós-herpética é uma condição em que a dor persiste após o herpes-zóster, e o ensaio foi conduzido nesse grupo de pacientes. Não foram divulgados resultados adicionais nem números detalhados nas informações apresentadas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Vivozon schließt letzte Dosierung von VVZ-2471 in koreanischer Phase-2-Studie zu PHN ab",
+        "excerpt": "Vivozon, ein verbundenes Unternehmen von Vivozon Pharmaceutical, teilte am 12. mit, dass in der koreanischen Phase-2-Studie mit VVZ-2471 gegen postherpetische Neuralgie die letzte Versuchsperson dosiert wurde.",
+        "body": "Vivozon, ein verbundenes Unternehmen von Vivozon Pharmaceutical, teilte am 12. mit, dass in der koreanischen Phase-2-Studie seines oralen, nicht opioiden Schmerzmittelkandidaten “VVZ-2471” bei Patienten mit postherpetischer Neuralgie (PHN) die Verabreichung an die letzte Versuchsperson abgeschlossen wurde. Die Mitteilung markiert einen Fortschritt im Verlauf der inländischen Phase-2-Studie, da die finale Dosierung beendet ist. PHN ist eine Erkrankung, bei der Schmerzen nach einer Gürtelrose anhalten; die Studie wurde in dieser Patientengruppe durchgeführt. Weitere Ergebnisse oder detaillierte Zahlen wurden im Rahmen der Angaben nicht veröffentlicht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Vivozon achève la dernière administration de VVZ-2471 en phase 2 coréenne contre la NPH",
+        "excerpt": "Vivozon, société liée à Vivozon Pharmaceutical, a annoncé le 12 avoir terminé l’administration au dernier participant de l’essai clinique coréen de phase 2 de VVZ-2471 chez des patients atteints de névralgie post-zostérienne.",
+        "body": "Vivozon, société liée à Vivozon Pharmaceutical, a annoncé le 12 avoir terminé l’administration au dernier participant de l’essai clinique de phase 2 mené en Corée avec son candidat analgésique oral non opioïde “VVZ-2471” chez des patients atteints de névralgie post-zostérienne (NPH). Cette annonce marque une étape dans le déroulement de l’étude nationale de phase 2, confirmant la fin de l’administration au dernier sujet. La NPH est une affection dans laquelle la douleur persiste après un zona, et l’essai a été mené auprès de ce groupe de patients. Aucun résultat supplémentaire ni chiffre détaillé n’a été publié dans les informations communiquées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فيفوزون تكمل الجرعة الأخيرة من VVZ-2471 في المرحلة الثانية الكورية لألم الأعصاب بعد الهربس",
+        "excerpt": "أعلنت فيفوزون، التابعة لشركة Vivozon Pharmaceutical، في 12 من الشهر أنها أكملت إعطاء الجرعة للمشارك الأخير في تجربة المرحلة الثانية الكورية لمرشحها المسكن الفموي غير الأفيوني VVZ-2471 لدى مرضى ألم الأعصاب التالي للهربس.",
+        "body": "أعلنت فيفوزون، وهي شركة مرتبطة بـ Vivozon Pharmaceutical، في 12 من الشهر أنها أكملت إعطاء الجرعة للمشارك الأخير في تجربة سريرية كورية من المرحلة الثانية لمرشحها المسكن الفموي غير الأفيوني “VVZ-2471” لدى مرضى ألم الأعصاب التالي للهربس النطاقي (PHN). ويمثل الإعلان نقطة تقدم في مسار تجربة المرحلة الثانية المحلية، إذ يؤكد انتهاء إعطاء الدواء لآخر مشارك. ويعد ألم الأعصاب التالي للهربس حالة يستمر فيها الألم بعد الإصابة بالهربس النطاقي، وقد أجريت التجربة على هذه الفئة من المرضى. ولم تكشف الشركة، ضمن المعلومات المعلنة، عن نتائج إضافية أو أرقام تفصيلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Vivozon ने PHN के लिए VVZ-2471 के कोरियाई फेज 2 में अंतिम खुराक पूरी की",
+        "excerpt": "Vivozon Pharmaceutical से जुड़ी Vivozon ने 12 तारीख को कहा कि उसने पोस्टहर्पेटिक न्यूराल्जिया रोगियों में मौखिक गैर-ओपिओइड दर्दनिवारक उम्मीदवार VVZ-2471 के कोरियाई फेज 2 में अंतिम प्रतिभागी को दवा देना पूरा कर लिया है।",
+        "body": "Vivozon Pharmaceutical से संबद्ध Vivozon ने 12 तारीख को बताया कि उसने मौखिक गैर-ओपिओइड दर्दनिवारक उम्मीदवार “VVZ-2471” के लिए पोस्टहर्पेटिक न्यूराल्जिया (PHN) रोगियों पर चल रहे कोरियाई फेज 2 क्लिनिकल परीक्षण में अंतिम प्रतिभागी को दवा देना पूरा कर लिया है। यह घोषणा घरेलू फेज 2 अध्ययन की प्रगति में एक चरण को दर्शाती है, क्योंकि अंतिम प्रतिभागी की डोजिंग समाप्त हो गई है। पोस्टहर्पेटिक न्यूराल्जिया ऐसी स्थिति है जिसमें शिंगल्स के बाद दर्द बना रहता है, और यह परीक्षण इसी रोगी समूह पर किया गया। कंपनी द्वारा बताई गई जानकारी में अतिरिक्त परिणाम या विस्तृत आंकड़े जारी नहीं किए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Vivozon Selesaikan Dosis Akhir VVZ-2471 pada Fase 2 Korea untuk Neuralgia Pascaherpes",
+        "excerpt": "Vivozon, afiliasi Vivozon Pharmaceutical, menyatakan pada tanggal 12 bahwa pemberian obat kepada subjek terakhir dalam uji klinis fase 2 Korea untuk kandidat analgesik oral non-opioid VVZ-2471 pada pasien neuralgia pascaherpes telah selesai.",
+        "body": "Vivozon, afiliasi Vivozon Pharmaceutical, menyatakan pada tanggal 12 bahwa pemberian obat kepada subjek terakhir dalam uji klinis fase 2 di Korea untuk kandidat analgesik oral non-opioid “VVZ-2471” pada pasien neuralgia pascaherpes (PHN) telah selesai. Pengumuman ini menunjukkan perkembangan dalam proses uji fase 2 domestik VVZ-2471, dengan berakhirnya pemberian dosis kepada subjek terakhir. Neuralgia pascaherpes adalah kondisi ketika nyeri berlanjut setelah herpes zoster, dan uji klinis ini dilakukan pada kelompok pasien tersebut. Dalam informasi yang disampaikan perusahaan, belum ada hasil tambahan atau angka rinci yang dipublikasikan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3da115df9177",
+    "slug": "가상자산-해외로-160조-증발국회-모인-글로벌-리더들-원화-스테이블코인-촉구-572725",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T02:01:48.351Z",
+    "updatedAt": "2026-05-12T02:01:48.351Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044383",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044383",
+    "titleFingerprint": "66b0b8ce432710dd81001748e89f1413c9af82a5",
+    "dedupKeys": [
+      "3da115df9177c1198c47877458451b2f960197c0",
+      "66b0b8ce432710dd81001748e89f1413c9af82a5",
+      "d190c0c5998d89182b67df0a13def4bbe27a1e1d"
+    ],
+    "imageUrl": "/images/articles/3da115df9177.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원화 스테이블코인 촉구한 글로벌 리더들, 160조 해외 유출 해법은",
+        "excerpt": "국회에 모인 글로벌 리더들이 지난해 160조원 규모의 가상자산 해외 거래소 유출과 달러코인 잠식을 막기 위해 원화 스테이블코인 도입이 시급하다고 강조했다.",
+        "body": "국회에 모인 글로벌 리더들은 지난해 가상자산 160조원이 해외 거래소로 유출된 상황을 지적하며 원화 스테이블코인 도입을 촉구했다. 이들은 달러코인 중심 시장이 확대되는 가운데 원화 기반 결제 수단을 마련해야 자금 유출과 시장 잠식을 줄일 수 있다고 봤다. 특히 AI 에이전트가 자동으로 결제하는 시대가 다가오면서 스테이블코인의 활용 범위가 더 커질 수 있다는 점도 언급됐다. 증권사의 수탁·결제 인프라를 내재화하는 것이 필수 과제로 제시됐고, EU MiCA식 획일 규제에 대한 우려도 나왔다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Won Stablecoin Urged as Leaders Cite 160 Trillion Won Crypto Outflow",
+        "excerpt": "Global leaders gathered at the National Assembly said a won stablecoin is urgently needed to curb last year’s 160 trillion won outflow to overseas exchanges and dollar-coin dominance.",
+        "body": "Global leaders gathered at the National Assembly called for the introduction of a won-denominated stablecoin, pointing to the outflow of 160 trillion won in virtual assets to overseas exchanges last year. They argued that as dollar-based coins expand their grip on the market, Korea needs a won-based payment instrument to reduce capital leakage and market erosion. They also noted that the coming era of AI agents making automated payments could widen stablecoin use. Internalizing custody and settlement infrastructure at securities firms was presented as essential, while concerns were raised over uniform regulation modeled on the EU’s MiCA. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ウォン連動ステーブルコイン要請、160兆ウォン海外流出の対策に",
+        "excerpt": "国会に集まったグローバルリーダーらは、昨年160兆ウォン規模の暗号資産が海外取引所へ流出し、ドルコインの浸食を防ぐにはウォン連動ステーブルコインが急務だと強調した。",
+        "body": "国会に集まったグローバルリーダーらは、昨年、暗号資産160兆ウォンが海外取引所へ流出した状況を指摘し、ウォン連動ステーブルコインの導入を求めた。ドルコイン中心の市場が拡大する中、ウォン基盤の決済手段を整えることで資金流出と市場浸食を抑えられるとの見方を示した。特にAIエージェントが自動決済を行う時代が近づき、ステーブルコインの活用範囲がさらに広がる可能性にも触れた。証券会社のカストディー・決済インフラの内在化が必須課題として提示され、EUのMiCA型の画一的規制への懸念も示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "全球领袖呼吁韩元稳定币，应对160万亿韩元加密资产外流",
+        "excerpt": "在韩国国会聚集的全球领袖强调，为阻止去年160万亿韩元加密资产流向海外交易所及美元币侵蚀，亟须推出韩元稳定币。",
+        "body": "在韩国国会聚集的全球领袖指出，去年有160万亿韩元规模的加密资产流向海外交易所，并呼吁推出韩元稳定币。他们认为，在以美元币为中心的市场持续扩大的情况下，韩国需要建立基于韩元的支付工具，以减少资金外流和市场被侵蚀。与会者还提到，AI代理自动完成支付的时代正在到来，稳定币的应用范围可能进一步扩大。证券公司的托管和结算基础设施内置化被列为必要课题，同时也有人对欧盟MiCA式统一监管表示担忧。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Líderes piden stablecoin en won tras fuga cripto de 160 billones de wones",
+        "excerpt": "Líderes globales reunidos en la Asamblea Nacional afirmaron que urge una stablecoin en won para frenar la salida de 160 billones de wones a bolsas extranjeras y el avance de monedas en dólar.",
+        "body": "Líderes globales reunidos en la Asamblea Nacional pidieron introducir una stablecoin denominada en won, al señalar que el año pasado salieron 160 billones de wones en criptoactivos hacia bolsas extranjeras. Sostuvieron que, ante la expansión de un mercado centrado en monedas vinculadas al dólar, Corea necesita un medio de pago basado en el won para reducir la fuga de fondos y la erosión del mercado. También mencionaron que la llegada de una era en la que agentes de IA realizan pagos automáticos puede ampliar el uso de las stablecoins. Se planteó como esencial internalizar la infraestructura de custodia y liquidación en las firmas de valores, y surgieron inquietudes sobre una regulación uniforme al estilo MiCA de la UE. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Líderes cobram stablecoin em won após fuga cripto de 160 trilhões de won",
+        "excerpt": "Líderes globais reunidos na Assembleia Nacional disseram que uma stablecoin em won é urgente para conter a saída de 160 trilhões de won a corretoras externas e o avanço de moedas em dólar.",
+        "body": "Líderes globais reunidos na Assembleia Nacional defenderam a introdução de uma stablecoin denominada em won, citando a saída de 160 trilhões de won em criptoativos para corretoras estrangeiras no ano passado. Eles afirmaram que, com a expansão de um mercado centrado em moedas ligadas ao dólar, a Coreia precisa de um meio de pagamento baseado no won para reduzir a fuga de recursos e a perda de espaço no mercado. Também foi mencionado que a era de agentes de IA realizando pagamentos automáticos pode ampliar o uso das stablecoins. A internalização da infraestrutura de custódia e liquidação nas corretoras de valores foi apontada como essencial, enquanto surgiram preocupações com uma regulação uniforme ao estilo MiCA da UE. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Won-Stablecoin gefordert: Antwort auf 160 Billionen Won Krypto-Abfluss",
+        "excerpt": "Globale Führungskräfte im Parlament erklärten, ein Won-Stablecoin sei dringend nötig, um den Abfluss von 160 Billionen Won an Auslandsbörsen und die Dominanz von Dollar-Coins zu begrenzen.",
+        "body": "Globale Führungskräfte, die in der Nationalversammlung zusammenkamen, forderten die Einführung eines auf Won lautenden Stablecoins und verwiesen auf den Abfluss virtueller Vermögenswerte im Umfang von 160 Billionen Won an ausländische Börsen im vergangenen Jahr. Sie argumentierten, dass Korea angesichts eines wachsenden, von Dollar-Coins geprägten Marktes ein wonbasiertes Zahlungsmittel brauche, um Kapitalabfluss und Marktverdrängung zu verringern. Zudem wurde auf die nahende Ära automatischer Zahlungen durch KI-Agenten verwiesen, die den Einsatz von Stablecoins ausweiten könnte. Als zentrale Aufgabe wurde die Internalisierung von Verwahr- und Abwicklungsinfrastruktur bei Wertpapierfirmen genannt; zugleich gab es Bedenken gegenüber einer einheitlichen Regulierung nach EU-MiCA-Art. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un stablecoin en won réclamé face à 160 000 milliards de wons sortis",
+        "excerpt": "Des leaders mondiaux réunis à l’Assemblée nationale ont jugé urgent de créer un stablecoin en won pour freiner la sortie de 160 000 milliards de wons vers les plateformes étrangères et l’emprise des coins en dollar.",
+        "body": "Des leaders mondiaux réunis à l’Assemblée nationale ont appelé à l’introduction d’un stablecoin libellé en won, en soulignant que 160 000 milliards de wons d’actifs virtuels avaient été transférés vers des plateformes étrangères l’an dernier. Selon eux, alors que le marché centré sur les coins en dollar s’étend, la Corée doit disposer d’un moyen de paiement basé sur le won afin de limiter les sorties de capitaux et l’érosion du marché. Ils ont aussi évoqué l’arrivée d’une ère où des agents d’IA effectueront des paiements automatiques, ce qui pourrait élargir l’usage des stablecoins. L’internalisation des infrastructures de conservation et de règlement chez les sociétés de titres a été présentée comme essentielle, avec des inquiétudes sur une régulation uniforme de type MiCA de l’UE. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قادة عالميون يدعون لعملة مستقرة بالوون بعد خروج 160 تريليون وون",
+        "excerpt": "قال قادة عالميون اجتمعوا في الجمعية الوطنية إن إصدار عملة مستقرة بالوون بات ملحا للحد من خروج 160 تريليون وون إلى منصات خارجية ومنع هيمنة العملات المرتبطة بالدولار.",
+        "body": "دعا قادة عالميون اجتمعوا في الجمعية الوطنية إلى إدخال عملة مستقرة مقومة بالوون، مشيرين إلى خروج أصول افتراضية بقيمة 160 تريليون وون إلى منصات تداول خارجية في العام الماضي. ورأوا أنه مع توسع السوق المرتكزة على العملات المرتبطة بالدولار، تحتاج كوريا إلى وسيلة دفع قائمة على الوون للحد من تسرب الأموال وتآكل السوق. كما أشاروا إلى اقتراب عصر تنفذ فيه وكلاء الذكاء الاصطناعي المدفوعات تلقائيا، ما قد يوسع استخدام العملات المستقرة. وطرحت ضرورة دمج بنية الحفظ والتسوية داخل شركات الأوراق المالية، مع إبداء مخاوف من تنظيم موحد على غرار MiCA في الاتحاد الأوروبي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "160 ट्रिलियन वोन क्रिप्टो बहिर्वाह पर वोन स्टेबलकॉइन की मांग",
+        "excerpt": "नेशनल असेंबली में जुटे वैश्विक नेताओं ने कहा कि पिछले साल विदेशी एक्सचेंजों में गए 160 ट्रिलियन वोन के क्रिप्टो बहिर्वाह और डॉलर कॉइन के असर को रोकने के लिए वोन स्टेबलकॉइन जरूरी है।",
+        "body": "नेशनल असेंबली में जुटे वैश्विक नेताओं ने वोन आधारित स्टेबलकॉइन लाने की मांग की और बताया कि पिछले साल 160 ट्रिलियन वोन मूल्य की वर्चुअल संपत्तियां विदेशी एक्सचेंजों में चली गईं। उनका कहना था कि डॉलर कॉइन केंद्रित बाजार के विस्तार के बीच कोरिया को वोन आधारित भुगतान साधन चाहिए, ताकि पूंजी बहिर्वाह और बाजार क्षरण को कम किया जा सके। उन्होंने यह भी कहा कि AI एजेंटों द्वारा स्वचालित भुगतान का दौर आने से स्टेबलकॉइन का उपयोग और बढ़ सकता है। सिक्योरिटीज कंपनियों में कस्टडी और सेटलमेंट इंफ्रास्ट्रक्चर को आंतरिक बनाना जरूरी कार्य बताया गया, जबकि EU MiCA जैसी एकरूप नियमन पद्धति पर चिंता भी जताई गई। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Stablecoin Won Didorong Usai Aset Kripto 160 Triliun Won Mengalir Keluar",
+        "excerpt": "Para pemimpin global di Majelis Nasional menilai stablecoin berbasis won mendesak untuk menahan aliran 160 triliun won ke bursa luar negeri dan dominasi koin dolar.",
+        "body": "Para pemimpin global yang berkumpul di Majelis Nasional menyerukan pengenalan stablecoin berbasis won, dengan menyoroti aliran aset virtual senilai 160 triliun won ke bursa luar negeri pada tahun lalu. Mereka menilai, ketika pasar yang berpusat pada koin dolar terus meluas, Korea membutuhkan alat pembayaran berbasis won untuk mengurangi keluarnya dana dan terkikisnya pasar. Mereka juga menyebut datangnya era ketika agen AI melakukan pembayaran otomatis, yang dapat memperluas penggunaan stablecoin. Internalisasi infrastruktur kustodi dan penyelesaian di perusahaan sekuritas disebut sebagai tugas penting, sementara kekhawatiran atas regulasi seragam ala MiCA Uni Eropa juga muncul. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4720ef4249c6",
     "slug": "리플-프라임-브로커리지-키운다뉴버거에서-2억달러-조달-810694",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Pemenang Maeil Securities dan Pension Awards 2026 Berkumpul Bersama",
         "excerpt": "Maeil Business memuat artikel foto yang menampilkan para pemenang Maeil Securities dan Pension Awards 2026 berkumpul di satu tempat.",
         "body": "Para pemenang Maeil Securities dan Pension Awards 2026 berkumpul di satu tempat. Maeil Business menyajikan momen tersebut melalui artikel foto yang memperlihatkan para penerima penghargaan bersama. Laporan ini berfokus pada suasana penghargaan yang berkaitan dengan bidang sekuritas dan pensiun. Naskah asli tidak menyertakan ringkasan terpisah, angka tambahan, atau rincian kategori penghargaan. Pembaca di sektor investasi dan keuangan dapat melihat suasana acara serta kehadiran para pemenang melalui artikel foto tersebut. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "fb45a0b58879",
-    "slug": "1년-만에-확-높아진-눈높이-목표가-상향-보고서-1331건-380727",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T11:20:19.849Z",
-    "updatedAt": "2026-05-11T11:20:19.849Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043561",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043561",
-    "titleFingerprint": "ea86d53c7739cab67ff41dc4f88d109c554391dc",
-    "dedupKeys": [
-      "fb45a0b5887949c58b9b4ac0c75ac45f7529e00f",
-      "ea86d53c7739cab67ff41dc4f88d109c554391dc",
-      "55a07acb51838d748650dae22b3fd1370256ff89"
-    ],
-    "imageUrl": "/images/articles/fb45a0b58879.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000선 근접에 목표가 상향 1331건, 반도체 랠리 확산",
-        "excerpt": "반도체 랠리로 코스피가 8000선에 다가서자 증권가가 1년 새 높아진 이익 기대를 반영해 목표주가 상향 보고서 1331건을 내고 있다.",
-        "body": "반도체 랠리로 코스피가 8000선에 다가서면서 증권가의 목표주가 상향 움직임이 빨라지고 있다. 최근 1년 사이 높아진 시장 눈높이를 반영해 목표가 상향 보고서는 1331건에 달했다. 상향 흐름은 주도주인 ‘삼전닉스’를 중심으로 시작된 이익 전망 개선에서 출발했다. 반도체 업황 회복과 주가 상승이 맞물리며 기업 실적에 대한 기대가 커졌고, 이 같은 이익 눈높이 상향은 다른 업종으로도 확산되는 분위기다. 시장에서는 코스피 고점 부담 속에서도 실적 개선 기대가 목표주가 조정의 핵심 배경으로 작용하고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI nears 8,000 as analysts issue 1,331 target price hikes",
-        "excerpt": "As a semiconductor rally pushes the KOSPI toward 8,000, brokerages have issued 1,331 target price hike reports, reflecting sharply higher profit expectations over the past year.",
-        "body": "As the semiconductor rally drives the KOSPI closer to the 8,000 level, brokerages are moving faster to raise target prices. Over the past year, reports lifting target prices have reached 1,331, reflecting a much higher bar for earnings expectations. The upgrade trend began with improved profit forecasts for the market leaders known as “Samjeon-nix.” With the semiconductor cycle recovering and share prices rising, expectations for corporate earnings have increased. That higher profit outlook is now spreading to other sectors. Even as the market faces concerns about the KOSPI’s elevated level, expectations for better earnings remain the key reason behind target price adjustments. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI8000接近で目標株価引き上げ1331件、半導体ラリー波及",
-        "excerpt": "半導体ラリーでKOSPIが8000台に近づく中、証券業界は過去1年で高まった利益期待を反映し、目標株価引き上げ報告を1331件出している。",
-        "body": "半導体ラリーによりKOSPIが8000の水準に近づくなか、証券業界では目標株価を引き上げる動きが速まっている。過去1年で高まった市場の目線を反映し、目標株価引き上げの報告は1331件に達した。引き上げの流れは、主導株である「サムジョンニックス」を中心とした利益見通しの改善から始まった。半導体市況の回復と株価上昇が重なり、企業業績への期待が強まっている。こうした利益期待の上方修正は他業種にも広がる雰囲気だ。市場ではKOSPIの高値負担が意識される一方、業績改善期待が目標株価調整の主な背景となっている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI逼近8000点，目标价上调报告达1331份",
-        "excerpt": "在半导体行情推动KOSPI逼近8000点之际，券商反映过去一年显著抬升的盈利预期，已发布1331份目标价上调报告。",
-        "body": "随着半导体行情推动KOSPI逼近8000点，券商上调目标股价的动作正在加快。过去一年市场预期明显抬高，目标价上调报告已达1331份。这一上调趋势始于主导股“Samjeon-nix”相关盈利展望的改善。半导体景气复苏与股价上涨相互叠加，企业业绩预期随之升温。此类盈利预期上调也正在向其他行业扩散。市场虽然关注KOSPI处于高位带来的压力，但业绩改善预期仍是目标股价调整的核心背景。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI se acerca a 8.000 y suma 1.331 alzas de precios objetivo",
-        "excerpt": "El rally de semiconductores acerca al KOSPI a 8.000 puntos y las casas de bolsa reflejan mayores expectativas de beneficios con 1.331 informes de alza de precio objetivo.",
-        "body": "El rally de semiconductores está llevando al KOSPI cerca del nivel de 8.000 puntos, y las casas de bolsa aceleran las revisiones al alza de precios objetivo. En el último año, los informes que elevan precios objetivo llegaron a 1.331, reflejando expectativas de beneficios mucho más altas. La tendencia comenzó con la mejora de previsiones de ganancias en los valores líderes conocidos como “Samjeon-nix.” La recuperación del sector de semiconductores y el avance de las acciones han elevado las expectativas sobre resultados empresariales. Esa revisión al alza de las ganancias se extiende ahora a otros sectores. Aunque el mercado observa la presión de un KOSPI en niveles altos, la expectativa de mejora de beneficios sigue siendo el principal motivo de los ajustes. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI perto de 8.000 tem 1.331 altas de preço-alvo em relatórios",
-        "excerpt": "Com o rali dos semicondutores levando o KOSPI para perto de 8.000 pontos, corretoras publicaram 1.331 relatórios de aumento de preço-alvo em meio a maiores expectativas de lucro.",
-        "body": "O rali dos semicondutores está aproximando o KOSPI do nível de 8.000 pontos, enquanto as corretoras aceleram a elevação de preços-alvo. No último ano, os relatórios com aumento de preço-alvo chegaram a 1.331, refletindo expectativas de lucro mais altas. O movimento começou com a melhora das projeções de ganhos das ações líderes conhecidas como “Samjeon-nix.” A recuperação do setor de semicondutores, combinada à alta das ações, ampliou as expectativas para os resultados corporativos. Essa revisão para cima da visão sobre lucros também se espalha para outros setores. Mesmo com a preocupação sobre o nível elevado do KOSPI, a expectativa de melhora nos lucros segue como o principal fator dos ajustes. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI nähert sich 8.000: 1.331 Berichte heben Kursziele an",
-        "excerpt": "Die Halbleiter-Rally treibt den KOSPI in Richtung 8.000 Punkte, während Broker mit 1.331 Berichten höhere Kursziele und gestiegene Gewinnerwartungen einpreisen.",
-        "body": "Die Halbleiter-Rally bringt den KOSPI näher an die Marke von 8.000 Punkten, und Brokerhäuser beschleunigen ihre Anhebungen von Kurszielen. Im vergangenen Jahr erreichten Berichte mit höheren Kurszielen 1.331 Fälle und spiegeln deutlich gestiegene Gewinnerwartungen wider. Der Trend begann mit verbesserten Gewinnprognosen für die führenden Werte, die als “Samjeon-nix” bezeichnet werden. Die Erholung im Halbleitersektor und steigende Aktienkurse haben die Erwartungen an Unternehmensgewinne erhöht. Diese höhere Gewinnperspektive breitet sich nun auch auf andere Branchen aus. Trotz Belastungen durch das hohe KOSPI-Niveau bleiben Erwartungen besserer Ergebnisse der zentrale Grund für die Anpassungen der Kursziele. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KOSPI proche de 8 000 : 1 331 relèvements d’objectifs de cours",
-        "excerpt": "Le rally des semi-conducteurs rapproche le KOSPI de 8 000 points, tandis que les maisons de courtage publient 1 331 relèvements d’objectifs de cours sur fond d’attentes de bénéfices accrues.",
-        "body": "Le rally des semi-conducteurs rapproche le KOSPI du seuil des 8 000 points, et les maisons de courtage accélèrent les relèvements d’objectifs de cours. Sur un an, les rapports relevant les objectifs ont atteint 1 331, reflétant des attentes de bénéfices nettement plus élevées. Le mouvement a commencé avec l’amélioration des prévisions de profits pour les valeurs dominantes appelées “Samjeon-nix.” La reprise du cycle des semi-conducteurs et la hausse des cours ont renforcé les attentes concernant les résultats des entreprises. Cette révision à la hausse des perspectives de bénéfices s’étend désormais à d’autres secteurs. Malgré les inquiétudes liées au niveau élevé du KOSPI, l’espoir d’une amélioration des résultats reste le principal moteur des ajustements d’objectifs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يقترب من 8000 نقطة و1331 تقريرا يرفع الأسعار المستهدفة",
-        "excerpt": "مع دفع موجة أسهم أشباه الموصلات مؤشر كوسبي نحو 8000 نقطة، أصدرت شركات الوساطة 1331 تقريرا لرفع الأسعار المستهدفة تعكس ارتفاع توقعات الأرباح خلال عام.",
-        "body": "مع موجة صعود أشباه الموصلات التي تدفع مؤشر كوسبي إلى الاقتراب من مستوى 8000 نقطة، تتسارع تحركات شركات الوساطة لرفع الأسعار المستهدفة. وخلال العام الماضي، بلغ عدد التقارير التي رفعت الأسعار المستهدفة 1331 تقريرا، بما يعكس ارتفاعا واضحا في توقعات الأرباح. بدأ هذا الاتجاه من تحسن توقعات أرباح الأسهم القيادية المعروفة باسم “Samjeon-nix.” ومع تعافي دورة أشباه الموصلات وارتفاع أسعار الأسهم، زادت التوقعات بشأن أرباح الشركات. وينتشر رفع سقف توقعات الأرباح الآن إلى قطاعات أخرى. ورغم القلق من ارتفاع مستوى كوسبي، تبقى توقعات تحسن الأرباح العامل الرئيسي وراء تعديلات الأسعار المستهدفة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 8,000 के करीब, लक्ष्य मूल्य बढ़ाने वाली 1,331 रिपोर्टें",
-        "excerpt": "सेमीकंडक्टर रैली से KOSPI 8,000 के करीब पहुंचने पर ब्रोकरेज ने पिछले एक साल में बढ़ी लाभ उम्मीदों को दर्शाते हुए लक्ष्य मूल्य बढ़ाने वाली 1,331 रिपोर्टें जारी की हैं।",
-        "body": "सेमीकंडक्टर रैली के कारण KOSPI 8,000 के स्तर के करीब पहुंच रहा है और ब्रोकरेज कंपनियां लक्ष्य मूल्य बढ़ाने में तेजी दिखा रही हैं। पिछले एक साल में बाजार की ऊंची हुई अपेक्षाओं को दर्शाते हुए लक्ष्य मूल्य बढ़ाने वाली रिपोर्टों की संख्या 1,331 तक पहुंच गई। यह रुझान बाजार की अगुवाई करने वाले “Samjeon-nix” शेयरों की लाभ संभावनाओं में सुधार से शुरू हुआ। सेमीकंडक्टर उद्योग की रिकवरी और शेयर कीमतों की तेजी ने कंपनियों की आय को लेकर उम्मीदें बढ़ाई हैं। लाभ अनुमानों का यह ऊंचा स्तर अब अन्य क्षेत्रों में भी फैल रहा है। KOSPI के ऊंचे स्तर को लेकर दबाव के बावजूद, आय सुधार की उम्मीद लक्ष्य मूल्य समायोजन का मुख्य आधार बनी हुई है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI dekati 8.000, laporan kenaikan target harga capai 1.331",
-        "excerpt": "Rally semikonduktor mendorong KOSPI mendekati 8.000, sementara sekuritas menerbitkan 1.331 laporan kenaikan target harga seiring ekspektasi laba yang makin tinggi dalam setahun.",
-        "body": "Rally semikonduktor membawa KOSPI mendekati level 8.000, dan perusahaan sekuritas semakin cepat menaikkan target harga saham. Dalam satu tahun terakhir, laporan yang menaikkan target harga mencapai 1.331, mencerminkan ekspektasi laba pasar yang jauh lebih tinggi. Tren kenaikan ini dimulai dari membaiknya prospek laba saham-saham pemimpin yang disebut “Samjeon-nix.” Pemulihan siklus semikonduktor dan kenaikan harga saham meningkatkan harapan terhadap kinerja perusahaan. Kenaikan ekspektasi laba tersebut kini mulai menyebar ke sektor lain. Meski pasar memperhatikan beban dari level KOSPI yang tinggi, harapan perbaikan laba tetap menjadi latar utama penyesuaian target harga. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d3f6ac2bb418",
-    "slug": "옵트론텍-250억-원-규모-전환사채-발행-105328",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T11:19:16.244Z",
-    "updatedAt": "2026-05-11T11:19:16.244Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043569",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043569",
-    "titleFingerprint": "dccd2648d1f3bdf5d5238b370d55ef55b2802925",
-    "dedupKeys": [
-      "d3f6ac2bb4184d061bc37ed935cc2b54bbae258a",
-      "dccd2648d1f3bdf5d5238b370d55ef55b2802925",
-      "7f939b8ae23f10482736a1941756f74ff10ef8b8"
-    ],
-    "imageUrl": "/images/articles/d3f6ac2bb418.jpg",
-    "i18n": {
-      "ko": {
-        "title": "옵트론텍, 250억 원 전환사채 발행 공시…전환가액 1922원",
-        "excerpt": "코스닥 상장사 옵트론텍은 2026년 5월 11일 제18회 250억 원 규모 전환사채 발행을 공시했으며, 전환가액은 1922원으로 제시됐다.",
-        "body": "코스닥 상장사 옵트론텍은 2026년 5월 11일 제18회 250억 원 규모의 전환사채 발행을 공시했다. 이번 공시에 따르면 전환가액은 1922원이며, 전환 청구 기간은 2027년 5월 22일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 발행 규모와 전환가액, 청구 가능 시점은 투자자가 확인해야 할 핵심 항목이다. 이번 공시는 옵트론텍의 자금 조달 관련 주요 일정과 조건을 시장에 알린 것이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Optrontec Discloses 25 Billion Won Convertible Bond Issue at 1,922 Won",
-        "excerpt": "KOSDAQ-listed Optrontec disclosed on May 11, 2026 that it will issue its 18th convertible bond worth 25 billion won, with a conversion price of 1,922 won.",
-        "body": "KOSDAQ-listed Optrontec disclosed on May 11, 2026 that it will issue its 18th convertible bond worth 25 billion won. According to the disclosure, the conversion price is set at 1,922 won, and the conversion request period begins on May 22, 2027. A convertible bond can be converted into shares under specified conditions, making the issue size, conversion price, and conversion period key items for investors to review. The filing informs the market of the main schedule and terms related to Optrontec’s financing. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "オプトロンテック、250億ウォン転換社債発行を公示…転換価額は1922ウォン",
-        "excerpt": "KOSDAQ上場企業のオプトロンテックは2026年5月11日、第18回250億ウォン規模の転換社債発行を公示し、転換価額は1922ウォンとした。",
-        "body": "KOSDAQ上場企業のオプトロンテックは2026年5月11日、第18回250億ウォン規模の転換社債を発行すると公示した。今回の公示によると、転換価額は1922ウォンで、転換請求期間は2027年5月22日から始まる。転換社債は一定の条件に基づき株式へ転換できる社債であり、発行規模、転換価額、請求可能時期は投資家が確認すべき主要項目だ。今回の公示は、オプトロンテックの資金調達に関する主な日程と条件を市場に知らせるものだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Optrontec公告发行250亿韩元可转债，转股价为1922韩元",
-        "excerpt": "科斯达克上市公司Optrontec于2026年5月11日公告，将发行第18次、规模250亿韩元的可转换公司债，转股价为1922韩元。",
-        "body": "科斯达克上市公司Optrontec于2026年5月11日公告，将发行第18次、规模250亿韩元的可转换公司债。根据公告，本次可转债的转股价为1922韩元，转股请求期自2027年5月22日起开始。可转换公司债是在特定条件下可转换为股票的债券，因此发行规模、转股价以及可提出转股请求的时间，是投资者需要确认的核心事项。本次公告向市场披露了Optrontec融资相关的主要日程和条件。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Optrontec anuncia bonos convertibles por 25.000 millones de wones",
-        "excerpt": "La compañía Optrontec, cotizada en KOSDAQ, informó el 11 de mayo de 2026 la emisión de su 18.º bono convertible por 25.000 millones de wones.",
-        "body": "Optrontec, empresa cotizada en KOSDAQ, informó el 11 de mayo de 2026 que emitirá su 18.º bono convertible por un monto de 25.000 millones de wones. Según la comunicación, el precio de conversión se fijó en 1.922 wones y el período para solicitar la conversión comenzará el 22 de mayo de 2027. Un bono convertible puede transformarse en acciones bajo condiciones determinadas, por lo que el tamaño de la emisión, el precio de conversión y el inicio del período de solicitud son datos clave para los inversores. La publicación comunica al mercado los principales términos y fechas de esta financiación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Optrontec anuncia debêntures conversíveis de 25 bilhões de wones",
-        "excerpt": "A Optrontec, listada na KOSDAQ, divulgou em 11 de maio de 2026 a emissão de sua 18ª debênture conversível, no valor de 25 bilhões de wones.",
-        "body": "A Optrontec, empresa listada na KOSDAQ, divulgou em 11 de maio de 2026 que emitirá sua 18ª debênture conversível, no valor de 25 bilhões de wones. Conforme o comunicado, o preço de conversão é de 1.922 wones e o período para solicitar a conversão começa em 22 de maio de 2027. Uma debênture conversível pode ser convertida em ações sob condições definidas, tornando o valor da emissão, o preço de conversão e o prazo de solicitação pontos essenciais para investidores. O anúncio informa ao mercado os principais termos e datas ligados ao financiamento da Optrontec. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Optrontec meldet Wandelanleihe über 25 Milliarden Won zu 1.922 Won",
-        "excerpt": "Das an der KOSDAQ notierte Unternehmen Optrontec gab am 11. Mai 2026 die Ausgabe seiner 18. Wandelanleihe im Umfang von 25 Milliarden Won bekannt.",
-        "body": "Das an der KOSDAQ notierte Unternehmen Optrontec gab am 11. Mai 2026 bekannt, seine 18. Wandelanleihe im Umfang von 25 Milliarden Won auszugeben. Laut Mitteilung liegt der Wandlungspreis bei 1.922 Won, und der Zeitraum für Wandlungsanträge beginnt am 22. Mai 2027. Eine Wandelanleihe kann unter festgelegten Bedingungen in Aktien umgewandelt werden. Daher zählen Emissionsvolumen, Wandlungspreis und Beginn der Antragsfrist zu den zentralen Punkten für Anleger. Die Bekanntmachung informiert den Markt über die wichtigsten Termine und Bedingungen der Finanzierung von Optrontec. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Optrontec annonce 25 milliards de wons d’obligations convertibles",
-        "excerpt": "Optrontec, société cotée au KOSDAQ, a annoncé le 11 mai 2026 l’émission de sa 18e obligation convertible, d’un montant de 25 milliards de wons.",
-        "body": "Optrontec, société cotée au KOSDAQ, a annoncé le 11 mai 2026 qu’elle émettrait sa 18e obligation convertible pour un montant de 25 milliards de wons. Selon l’avis publié, le prix de conversion est fixé à 1 922 wons et la période de demande de conversion débutera le 22 mai 2027. Une obligation convertible peut être convertie en actions sous certaines conditions; le montant émis, le prix de conversion et le calendrier de demande sont donc des éléments clés à examiner pour les investisseurs. Cette annonce présente au marché les principales conditions et dates liées au financement d’Optrontec. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أوبترونتك تعلن إصدار سندات قابلة للتحويل بقيمة 25 مليار وون",
-        "excerpt": "أعلنت أوبترونتك المدرجة في كوسداك في 11 مايو 2026 إصدار سنداتها القابلة للتحويل رقم 18 بقيمة 25 مليار وون، وبسعر تحويل 1,922 وون.",
-        "body": "أعلنت شركة أوبترونتك المدرجة في كوسداك في 11 مايو 2026 أنها ستصدر سنداتها القابلة للتحويل رقم 18 بقيمة 25 مليار وون. ووفق الإفصاح، يبلغ سعر التحويل 1,922 وون، وتبدأ فترة طلب التحويل في 22 مايو 2027. والسند القابل للتحويل هو أداة دين يمكن تحويلها إلى أسهم وفق شروط محددة، لذلك تعد قيمة الإصدار وسعر التحويل وموعد بدء طلب التحويل من البنود الأساسية التي ينبغي على المستثمرين مراجعتها. ويعرض هذا الإفصاح للسوق الجدول والشروط الرئيسية المرتبطة بتمويل أوبترونتك. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Optrontec ने 25 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की घोषणा की",
-        "excerpt": "KOSDAQ में सूचीबद्ध Optrontec ने 11 मई 2026 को 25 अरब वॉन मूल्य के अपने 18वें कन्वर्टिबल बॉन्ड जारी करने की सूचना दी, जिसका रूपांतरण मूल्य 1,922 वॉन है।",
-        "body": "KOSDAQ में सूचीबद्ध Optrontec ने 11 मई 2026 को घोषणा की कि वह 25 अरब वॉन मूल्य के अपने 18वें कन्वर्टिबल बॉन्ड जारी करेगी। सूचना के अनुसार, रूपांतरण मूल्य 1,922 वॉन रखा गया है और रूपांतरण आवेदन अवधि 22 मई 2027 से शुरू होगी। कन्वर्टिबल बॉन्ड तय शर्तों के तहत शेयरों में बदला जा सकने वाला ऋणपत्र होता है, इसलिए जारी राशि, रूपांतरण मूल्य और आवेदन शुरू होने की तारीख निवेशकों के लिए प्रमुख बिंदु हैं। यह सूचना Optrontec की वित्तपोषण संबंधी मुख्य शर्तों और समय-सारिणी को बाजार के सामने रखती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Optrontec Umumkan Obligasi Konversi 25 Miliar Won, Harga 1.922 Won",
-        "excerpt": "Optrontec yang tercatat di KOSDAQ mengumumkan pada 11 Mei 2026 penerbitan obligasi konversi ke-18 senilai 25 miliar won dengan harga konversi 1.922 won.",
-        "body": "Optrontec, perusahaan yang tercatat di KOSDAQ, mengumumkan pada 11 Mei 2026 bahwa akan menerbitkan obligasi konversi ke-18 senilai 25 miliar won. Berdasarkan pengumuman tersebut, harga konversi ditetapkan sebesar 1.922 won, dan periode pengajuan konversi dimulai pada 22 Mei 2027. Obligasi konversi adalah surat utang yang dapat dikonversi menjadi saham berdasarkan syarat tertentu, sehingga nilai penerbitan, harga konversi, dan waktu pengajuan menjadi poin utama bagi investor. Pengumuman ini menyampaikan jadwal dan ketentuan utama terkait pendanaan Optrontec kepada pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2611a3ae9d27",
-    "slug": "대성하이텍-100억-원-규모-전환사채-발행-325835",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T11:18:22.437Z",
-    "updatedAt": "2026-05-11T11:18:22.437Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043570",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043570",
-    "titleFingerprint": "b9815116d36875d6f6efc4f8679dfe8b5a7c6fb3",
-    "dedupKeys": [
-      "2611a3ae9d27e1e9efbb59dcac75d86b06186f06",
-      "b9815116d36875d6f6efc4f8679dfe8b5a7c6fb3",
-      "c9faf55453ad4b4c074dad7b2551b8f8a519889e"
-    ],
-    "imageUrl": "/images/articles/2611a3ae9d27.jpg",
-    "i18n": {
-      "ko": {
-        "title": "대성하이텍, 100억 원 전환사채 발행 공시…전환가액 9688원",
-        "excerpt": "코스닥 상장사 대성하이텍은 2026년 5월 11일 제7회 100억 원 규모 전환사채 발행을 공시했으며, 전환가액은 9688원으로 제시됐다.",
-        "body": "코스닥 상장사 대성하이텍은 2026년 5월 11일 제7회 100억 원 규모의 전환사채 발행을 공시했다. 이번 공시에 따르면 전환가액은 9688원이며, 전환 청구 기간은 2027년 5월 19일부터 시작된다. 전환사채는 일정 조건에 따라 주식으로 전환할 수 있는 채권으로, 발행 규모와 전환가액은 투자자들이 확인하는 주요 조건이다. 대성하이텍의 이번 발행은 공시된 금액과 일정에 따라 진행될 예정이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Daesung Hi-Tech Discloses KRW 10 Billion Convertible Bond Issue",
-        "excerpt": "Kosdaq-listed Daesung Hi-Tech disclosed on May 11, 2026 that it will issue its seventh convertible bonds worth KRW 10 billion, with a conversion price of KRW 9,688.",
-        "body": "Kosdaq-listed Daesung Hi-Tech disclosed on May 11, 2026 that it will issue its seventh convertible bonds totaling KRW 10 billion. According to the filing, the conversion price is KRW 9,688, and the conversion request period begins on May 19, 2027. Convertible bonds are debt securities that can be converted into shares under specified conditions, making the issue size and conversion price key terms for investors to review. The company’s latest bond issuance is set to proceed according to the disclosed amount and schedule. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "大成ハイテック、100億ウォン転換社債発行を公示…転換価額9688ウォン",
-        "excerpt": "コスダック上場企業の大成ハイテックは2026年5月11日、第7回100億ウォン規模の転換社債発行を公示し、転換価額は9688ウォンと示した。",
-        "body": "コスダック上場企業の大成ハイテックは2026年5月11日、第7回100億ウォン規模の転換社債を発行すると公示した。今回の公示によると、転換価額は9688ウォンで、転換請求期間は2027年5月19日から始まる。転換社債は一定の条件に基づき株式へ転換できる債券であり、発行規模と転換価額は投資家が確認する主要条件となる。大成ハイテックの今回の発行は、公示された金額と日程に沿って進められる予定だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "大成Hi-Tech公告发行100亿韩元可转债，转股价9688韩元",
-        "excerpt": "科斯达克上市公司大成Hi-Tech于2026年5月11日公告，将发行第7次规模为100亿韩元的可转换债券，转股价为9688韩元。",
-        "body": "科斯达克上市公司大成Hi-Tech于2026年5月11日公告称，将发行第7次总额100亿韩元的可转换债券。根据公告，本次可转债的转股价格为9688韩元，转股申请期自2027年5月19日起开始。可转换债券是在一定条件下可转换为股票的债券，因此发行规模和转股价格是投资者关注的主要条款。大成Hi-Tech此次发行将按照公告披露的金额和时间安排推进。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Daesung Hi-Tech anuncia bonos convertibles por 10.000 millones de wones",
-        "excerpt": "La empresa del Kosdaq Daesung Hi-Tech informó el 11 de mayo de 2026 que emitirá su séptima serie de bonos convertibles por 10.000 millones de wones, con precio de conversión de 9.688 wones.",
-        "body": "Daesung Hi-Tech, compañía cotizada en el Kosdaq, informó el 11 de mayo de 2026 que emitirá su séptima serie de bonos convertibles por un total de 10.000 millones de wones. Según la comunicación, el precio de conversión es de 9.688 wones y el periodo para solicitar la conversión comenzará el 19 de mayo de 2027. Los bonos convertibles pueden transformarse en acciones bajo condiciones determinadas, por lo que el monto de emisión y el precio de conversión son datos clave para los inversores. La emisión se realizará conforme al importe y calendario divulgados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Daesung Hi-Tech anuncia emissão de debêntures conversíveis de 10 bi de wones",
-        "excerpt": "A Daesung Hi-Tech, listada na Kosdaq, informou em 11 de maio de 2026 que emitirá sua 7ª série de títulos conversíveis de 10 bilhões de wones, com preço de conversão de 9.688 wones.",
-        "body": "A Daesung Hi-Tech, empresa listada na Kosdaq, informou em 11 de maio de 2026 que emitirá sua 7ª série de títulos conversíveis no valor total de 10 bilhões de wones. Segundo o comunicado, o preço de conversão é de 9.688 wones, e o período para solicitar a conversão começa em 19 de maio de 2027. Títulos conversíveis são instrumentos de dívida que podem ser convertidos em ações sob condições definidas, tornando o valor da emissão e o preço de conversão termos relevantes para investidores. A emissão seguirá o montante e o cronograma divulgados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Daesung Hi-Tech meldet Wandelanleihe über 10 Mrd. Won zu 9.688 Won",
-        "excerpt": "Das Kosdaq-Unternehmen Daesung Hi-Tech gab am 11. Mai 2026 die Ausgabe seiner siebten Wandelanleihe über 10 Milliarden Won bekannt; der Wandlungspreis liegt bei 9.688 Won.",
-        "body": "Das an der Kosdaq gelistete Unternehmen Daesung Hi-Tech gab am 11. Mai 2026 bekannt, seine siebte Wandelanleihe im Umfang von 10 Milliarden Won auszugeben. Laut Mitteilung beträgt der Wandlungspreis 9.688 Won, und der Zeitraum für Wandlungsanträge beginnt am 19. Mai 2027. Wandelanleihen sind Schuldverschreibungen, die unter bestimmten Bedingungen in Aktien umgewandelt werden können. Daher zählen Emissionsvolumen und Wandlungspreis zu den zentralen Angaben für Investoren. Die Ausgabe soll entsprechend dem veröffentlichten Betrag und Zeitplan erfolgen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Daesung Hi-Tech annonce une obligation convertible de 10 milliards de wons",
-        "excerpt": "Daesung Hi-Tech, cotée au Kosdaq, a annoncé le 11 mai 2026 l’émission de sa 7e obligation convertible de 10 milliards de wons, avec un prix de conversion fixé à 9 688 wons.",
-        "body": "Daesung Hi-Tech, société cotée au Kosdaq, a annoncé le 11 mai 2026 l’émission de sa septième obligation convertible pour un montant total de 10 milliards de wons. Selon l’avis publié, le prix de conversion est fixé à 9 688 wons et la période de demande de conversion débutera le 19 mai 2027. Les obligations convertibles peuvent être transformées en actions sous certaines conditions; le montant émis et le prix de conversion sont donc des éléments clés pour les investisseurs. Cette émission suivra le montant et le calendrier communiqués. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "دايسونغ هاي-تك تعلن إصدار سندات قابلة للتحويل بقيمة 10 مليارات وون",
-        "excerpt": "أعلنت دايسونغ هاي-تك المدرجة في كوسداك في 11 مايو 2026 إصدار الدفعة السابعة من سندات قابلة للتحويل بقيمة 10 مليارات وون، مع سعر تحويل يبلغ 9,688 وون.",
-        "body": "أعلنت شركة دايسونغ هاي-تك المدرجة في كوسداك في 11 مايو 2026 أنها ستصدر الدفعة السابعة من سندات قابلة للتحويل بقيمة إجمالية تبلغ 10 مليارات وون. ووفق الإفصاح، يبلغ سعر التحويل 9,688 وون، وتبدأ فترة طلب التحويل في 19 مايو 2027. والسندات القابلة للتحويل هي أدوات دين يمكن تحويلها إلى أسهم وفق شروط محددة، لذلك يعد حجم الإصدار وسعر التحويل من البنود الرئيسية التي يراجعها المستثمرون. ومن المقرر أن تتم هذه العملية وفق المبلغ والجدول المعلنَين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Daesung Hi-Tech ने 10 अरब वॉन के कन्वर्टिबल बॉन्ड जारी करने की घोषणा की",
-        "excerpt": "कोस्डैक-सूचीबद्ध Daesung Hi-Tech ने 11 मई 2026 को 10 अरब वॉन के सातवें कन्वर्टिबल बॉन्ड जारी करने की सूचना दी, जिसका रूपांतरण मूल्य 9,688 वॉन है।",
-        "body": "कोस्डैक-सूचीबद्ध Daesung Hi-Tech ने 11 मई 2026 को घोषणा की कि वह कुल 10 अरब वॉन मूल्य के सातवें कन्वर्टिबल बॉन्ड जारी करेगी। फाइलिंग के अनुसार, रूपांतरण मूल्य 9,688 वॉन है और रूपांतरण अनुरोध अवधि 19 मई 2027 से शुरू होगी। कन्वर्टिबल बॉन्ड ऐसे ऋण साधन होते हैं जिन्हें निर्धारित शर्तों के तहत शेयरों में बदला जा सकता है, इसलिए जारी राशि और रूपांतरण मूल्य निवेशकों के लिए प्रमुख शर्तें हैं। कंपनी का यह निर्गम घोषित राशि और समय-सारिणी के अनुसार आगे बढ़ेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daesung Hi-Tech Umumkan Obligasi Konversi KRW 10 Miliar, Harga KRW 9.688",
-        "excerpt": "Emiten Kosdaq Daesung Hi-Tech pada 11 Mei 2026 mengumumkan penerbitan obligasi konversi ke-7 senilai KRW 10 miliar, dengan harga konversi ditetapkan KRW 9.688.",
-        "body": "Daesung Hi-Tech, perusahaan yang tercatat di Kosdaq, pada 11 Mei 2026 mengumumkan akan menerbitkan obligasi konversi ke-7 dengan nilai total KRW 10 miliar. Berdasarkan keterbukaan tersebut, harga konversi ditetapkan KRW 9.688, dan periode pengajuan konversi dimulai pada 19 Mei 2027. Obligasi konversi adalah instrumen utang yang dapat diubah menjadi saham dengan syarat tertentu, sehingga nilai penerbitan dan harga konversi menjadi ketentuan utama bagi investor. Penerbitan ini akan berjalan sesuai jumlah dan jadwal yang telah diumumkan. Sumber: mk.co.kr"
       }
     }
   }
