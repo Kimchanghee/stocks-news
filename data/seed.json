@@ -1,5 +1,230 @@
 [
   {
+    "id": "41e40338758d",
+    "slug": "속보-7999-찍었던-코스피-23-하락한-7643-마감-470101",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T21:52:44.588Z",
+    "updatedAt": "2026-05-12T21:52:44.588Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051212687",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051212687",
+    "titleFingerprint": "2c0ff7a4141e1f2aeba36554d5b4f321b30384a5",
+    "dedupKeys": [
+      "41e40338758d6922fb90d02db697fd3af798d18c",
+      "2c0ff7a4141e1f2aeba36554d5b4f321b30384a5",
+      "9962892a5c78fe5b521c3fdcf48ed7f9f75b76f4"
+    ],
+    "imageUrl": "/images/articles/41e40338758d.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 7999 터치 후 급락, 2.3% 내린 7643 마감",
+        "excerpt": "코스피가 한때 7999를 기록했지만 장 마감 기준 7643으로 내려앉으며 2.3% 하락했다. 한국경제 보도에 따르면 고점 이후 낙폭이 부각됐다.",
+        "body": "코스피가 한때 7999를 찍은 뒤 장 마감 기준 7643으로 내려앉았다. hankyung.com 보도에 따르면 이날 코스피는 2.3% 하락해 거래를 마쳤다. 원문에 제시된 핵심 수치는 장중 또는 앞선 흐름에서 확인된 7999와 종가 7643, 하락률 2.3%다. 지수는 8000선에 근접했던 수준에서 밀려 마감하면서 고점 대비 낙폭이 부각됐다. 다만 원문에는 하락 원인, 업종별 등락, 외국인·기관 수급 등 세부 배경은 포함되지 않았다. 향후 시장 흐름을 판단할 때는 종가 7643과 2.3% 하락폭이 우선 확인 지표로 남는다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Falls After Touching 7,999, Closes Down 2.3% at 7,643",
+        "excerpt": "The KOSPI briefly reached 7,999 but ended at 7,643, down 2.3%. According to hankyung.com, the drop from the earlier high stood out at the close.",
+        "body": "The KOSPI fell to a closing level of 7,643 after briefly touching 7,999. According to hankyung.com, the index finished the session down 2.3%. The key figures in the original report are 7,999, the level reached during or before the session’s move, the closing level of 7,643, and the 2.3% decline. The index had approached the 8,000 mark before retreating into the close, highlighting the gap from its high. The original report did not include details on the cause of the decline, sector moves, or foreign and institutional trading flows. For assessing the next market move, the 7,643 close and 2.3% drop remain the main confirmed reference points. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPI、7999到達後に下落 2.3％安の7643で取引終了",
+        "excerpt": "KOSPIは一時7999を付けたものの、終値は7643となり2.3％下落した。hankyung.comによると、高値からの下げ幅が目立つ展開となった。",
+        "body": "KOSPIは一時7999を付けた後、終値で7643まで下落した。hankyung.comの報道によると、この日のKOSPIは2.3％安で取引を終えた。原文で示された主要な数値は、取引中またはそれまでの流れで確認された7999、終値7643、下落率2.3％である。指数は8000に近い水準まで上昇した後、引けにかけて押し戻され、高値からの下落が目立った。ただし原文には、下落要因、業種別の騰落、外国人・機関投資家の売買動向などの詳細な背景は含まれていない。今後の市場動向を判断するうえでは、終値7643と2.3％の下落幅がまず確認すべき指標となる。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI触及7999后回落，收于7643点跌幅2.3%",
+        "excerpt": "KOSPI一度触及7999点，但收盘报7643点，下跌2.3%。据hankyung.com报道，指数从高位回落的幅度受到关注。",
+        "body": "KOSPI在一度触及7999点后，收盘回落至7643点。据hankyung.com报道，当日KOSPI以下跌2.3%结束交易。原文给出的核心数据包括盘中或此前走势中出现的7999点、收盘点位7643点以及2.3%的跌幅。指数曾接近8000点关口，但最终回落收盘，高位之后的下行幅度较为突出。不过，原文未披露下跌原因、行业涨跌情况，以及外资和机构资金流向等具体背景。判断后续市场走势时，7643点的收盘位和2.3%的跌幅仍是首先需要确认的指标。来源: hankyung.com"
+      },
+      "es": {
+        "title": "KOSPI cae tras tocar 7.999 y cierra en 7.643 con baja del 2,3%",
+        "excerpt": "El KOSPI llegó a tocar los 7.999 puntos, pero cerró en 7.643, con una caída del 2,3%. Según hankyung.com, destacó el retroceso desde el máximo.",
+        "body": "El KOSPI descendió hasta un cierre de 7.643 puntos después de haber tocado los 7.999. Según hankyung.com, el índice terminó la sesión con una baja del 2,3%. Las cifras clave del reporte original son los 7.999 puntos registrados durante la sesión o en el movimiento previo, el cierre en 7.643 y la caída del 2,3%. El índice se había acercado al nivel de 8.000 antes de retroceder hacia el cierre, lo que resaltó la distancia frente al máximo. El texto original no incluyó detalles sobre la causa de la caída, los movimientos por sectores ni los flujos de inversores extranjeros e institucionales. Para evaluar la evolución posterior del mercado, el cierre en 7.643 y la baja del 2,3% quedan como las principales referencias confirmadas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI recua após tocar 7.999 e fecha em 7.643, queda de 2,3%",
+        "excerpt": "O KOSPI chegou a 7.999 pontos, mas encerrou em 7.643, com queda de 2,3%. Segundo o hankyung.com, o recuo a partir da máxima ficou em destaque.",
+        "body": "O KOSPI caiu para 7.643 pontos no fechamento depois de tocar 7.999. Segundo o hankyung.com, o índice encerrou a sessão em queda de 2,3%. Os principais números do texto original são os 7.999 pontos registrados durante a sessão ou no movimento anterior, o fechamento em 7.643 e a baixa de 2,3%. O índice havia se aproximado da marca de 8.000 pontos antes de recuar até o encerramento, destacando a perda em relação ao pico. O original não trouxe detalhes sobre a causa da queda, o desempenho por setor nem os fluxos de investidores estrangeiros e institucionais. Para avaliar os próximos movimentos do mercado, o fechamento em 7.643 e a queda de 2,3% permanecem como as principais referências confirmadas. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI fällt nach Marke von 7.999 und schließt 2,3% tiefer bei 7.643",
+        "excerpt": "Der KOSPI erreichte zeitweise 7.999 Punkte, schloss aber bei 7.643 und verlor 2,3%. Laut hankyung.com stand der Rückgang vom Hoch im Fokus.",
+        "body": "Der KOSPI fiel zum Handelsschluss auf 7.643 Punkte, nachdem er zuvor zeitweise 7.999 erreicht hatte. Laut hankyung.com beendete der Index die Sitzung mit einem Minus von 2,3%. Die zentralen Zahlen der Originalmeldung sind 7.999 Punkte aus dem Handels- oder vorherigen Verlauf, der Schlussstand von 7.643 Punkten und der Rückgang um 2,3%. Der Index hatte sich der Marke von 8.000 Punkten genähert, gab bis zum Schluss jedoch nach, wodurch der Abstand zum Hoch deutlich wurde. Die Originalmeldung enthielt keine Angaben zu den Gründen des Rückgangs, zur Entwicklung einzelner Branchen oder zu Käufen und Verkäufen ausländischer und institutioneller Anleger. Für die weitere Markteinschätzung bleiben der Schlussstand von 7.643 und das Minus von 2,3% die wichtigsten bestätigten Referenzwerte. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI recule après 7 999 points et clôture à 7 643, en baisse de 2,3 %",
+        "excerpt": "Le KOSPI a brièvement atteint 7 999 points avant de finir à 7 643, en baisse de 2,3 %. Selon hankyung.com, le repli depuis le plus haut ressort nettement.",
+        "body": "Le KOSPI est retombé à 7 643 points en clôture après avoir brièvement atteint 7 999. Selon hankyung.com, l’indice a terminé la séance en baisse de 2,3 %. Les chiffres clés du texte original sont le niveau de 7 999 observé pendant la séance ou dans le mouvement précédent, la clôture à 7 643 et le recul de 2,3 %. L’indice s’était rapproché du seuil des 8 000 points avant de céder du terrain jusqu’à la clôture, ce qui met en évidence l’écart avec son plus haut. Le texte original ne précise pas les causes de la baisse, les variations par secteur ni les flux des investisseurs étrangers et institutionnels. Pour évaluer la suite du marché, la clôture à 7 643 et la baisse de 2,3 % restent les principaux repères confirmés. Source : hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يتراجع بعد ملامسة 7999 ويغلق عند 7643 بهبوط 2.3%",
+        "excerpt": "لامس مؤشر كوسبي مستوى 7999 لفترة وجيزة، لكنه أنهى التداول عند 7643 متراجعا 2.3%. وبحسب hankyung.com، برز الهبوط من المستوى المرتفع.",
+        "body": "تراجع مؤشر كوسبي إلى مستوى إغلاق بلغ 7643 بعد أن لامس في وقت سابق 7999. وبحسب تقرير hankyung.com، أنهى المؤشر الجلسة منخفضا 2.3%. الأرقام الأساسية الواردة في النص الأصلي هي 7999، وهو المستوى الذي ظهر أثناء الجلسة أو في المسار السابق، ومستوى الإغلاق 7643، ونسبة التراجع 2.3%. وكان المؤشر قد اقترب من مستوى 8000 قبل أن يتراجع مع الإغلاق، ما أبرز الفجوة عن المستوى المرتفع. ولم يتضمن النص الأصلي تفاصيل عن أسباب الهبوط أو تحركات القطاعات أو تدفقات المستثمرين الأجانب والمؤسسات. ولتقييم اتجاه السوق لاحقا، يبقى إغلاق 7643 والتراجع بنسبة 2.3% هما المرجعين المؤكدين الرئيسيين. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 7,999 छूने के बाद फिसला, 2.3% गिरकर 7,643 पर बंद",
+        "excerpt": "KOSPI ने एक समय 7,999 का स्तर छुआ, लेकिन 7,643 पर बंद हुआ और 2.3% गिरा। hankyung.com के अनुसार, ऊपरी स्तर से आई गिरावट प्रमुख रही।",
+        "body": "KOSPI एक समय 7,999 तक पहुंचने के बाद बंद होते समय 7,643 पर आ गया। hankyung.com की रिपोर्ट के अनुसार, सूचकांक ने सत्र 2.3% गिरावट के साथ समाप्त किया। मूल रिपोर्ट में दिए गए प्रमुख आंकड़े हैं: कारोबार के दौरान या पूर्ववर्ती रुझान में दिखा 7,999 का स्तर, 7,643 का बंद भाव और 2.3% की गिरावट। सूचकांक 8,000 के करीब पहुंचा था, लेकिन बंद होते-होते नीचे आ गया, जिससे उच्च स्तर से गिरावट स्पष्ट हुई। मूल रिपोर्ट में गिरावट के कारण, क्षेत्रों के प्रदर्शन या विदेशी और संस्थागत निवेशकों के प्रवाह का विवरण शामिल नहीं था। आगे बाजार की दिशा समझने के लिए 7,643 का बंद स्तर और 2.3% की गिरावट मुख्य पुष्ट संदर्भ बने रहेंगे। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Turun Setelah Sentuh 7.999, Ditutup di 7.643 Melemah 2,3%",
+        "excerpt": "KOSPI sempat menyentuh 7.999, tetapi ditutup di 7.643 dengan penurunan 2,3%. Menurut hankyung.com, pelemahan dari level tinggi menjadi sorotan.",
+        "body": "KOSPI turun ke level penutupan 7.643 setelah sempat menyentuh 7.999. Menurut hankyung.com, indeks mengakhiri sesi dengan pelemahan 2,3%. Angka utama dalam laporan asli adalah 7.999 yang terlihat selama sesi atau dalam pergerakan sebelumnya, level penutupan 7.643, serta penurunan 2,3%. Indeks sempat mendekati level 8.000 sebelum melemah hingga penutupan, sehingga jarak dari titik tingginya menjadi menonjol. Laporan asli tidak memuat rincian mengenai penyebab penurunan, pergerakan sektoral, maupun arus transaksi investor asing dan institusi. Untuk menilai arah pasar berikutnya, penutupan 7.643 dan penurunan 2,3% menjadi acuan terkonfirmasi utama. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "3d9a6069c25b",
+    "slug": "타임폴리오-etf-순자산-8조-돌파korea배당도-1조-넘어-210023",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T21:51:32.871Z",
+    "updatedAt": "2026-05-12T21:51:32.871Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051211446",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051211446",
+    "titleFingerprint": "27c1bdc21ff7ad5ecebcb6ae18024004ec8f7c6f",
+    "dedupKeys": [
+      "3d9a6069c25b761f1a9815025bf63497a93c3713",
+      "27c1bdc21ff7ad5ecebcb6ae18024004ec8f7c6f",
+      "b29bffdbb30304893f963e9373f9297e5bca6839"
+    ],
+    "imageUrl": "/images/articles/3d9a6069c25b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "타임폴리오 ETF 순자산 8조 돌파, 글로벌AI·Korea배당 ETF도 급성장",
+        "excerpt": "타임폴리오자산운용은 5월 12일 대표 액티브 ETF 2종의 순자산이 각각 2조원과 1조원을 넘어서며 전체 ETF 운용자산이 8조원을 돌파했다고 밝혔다.",
+        "body": "타임폴리오자산운용은 2026년 5월 12일 대표 액티브 ETF인 ‘TIME 글로벌AI인공지능액티브 ETF’와 ‘TIME Korea플러스배당액티브 ETF’의 순자산총액이 각각 2조원과 1조원을 넘어섰다고 밝혔다. 이에 따라 회사의 전체 ETF 운용자산은 8조원을 돌파했다. 한국거래소 기준 TIME 글로벌AI인공지능액티브 ETF 순자산은 2조1852억원으로 국내 상장 주식형 액티브 ETF 중 AUM 1위를 기록했다. 이 상품은 2023년 5월 상장 이후 AI 반도체, 전력 인프라, 데이터센터, AI 소프트웨어 등 글로벌 AI 밸류체인에 투자해왔다. TIME Korea플러스배당액티브 ETF는 국내 주도주와 고배당주를 함께 편입하는 월배당형 액티브 배당 전략 상품이다. 타임폴리오는 5월 19일 ‘TIME 글로벌휴머노이드로봇산업액티브 ETF’도 신규 상장할 예정이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Timefolio ETF AUM Tops 8 Trillion Won as AI and Korea Dividend Funds Grow",
+        "excerpt": "Timefolio Asset Management said on May 12 that two flagship active ETFs exceeded 2 trillion won and 1 trillion won in net assets, lifting total ETF assets above 8 trillion won.",
+        "body": "Timefolio Asset Management said on May 12, 2026, that net assets of its flagship active ETFs, TIME Global AI Artificial Intelligence Active ETF and TIME Korea Plus Dividend Active ETF, had surpassed 2 trillion won and 1 trillion won, respectively. The milestones pushed the company’s total ETF assets under management above 8 trillion won. According to Korea Exchange data, TIME Global AI Artificial Intelligence Active ETF had 2.1852 trillion won in net assets, ranking first by AUM among domestically listed equity active ETFs. Since listing in May 2023, the fund has invested across the global AI value chain, including AI semiconductors, power infrastructure, data centers and AI software. TIME Korea Plus Dividend Active ETF is a monthly dividend active strategy product combining Korean market leaders and high-dividend stocks. Timefolio also plans to list TIME Global Humanoid Robot Industry Active ETF on May 19. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "タイムフォリオETF純資産8兆ウォン突破、AI・韓国配当ETFも拡大",
+        "excerpt": "タイムフォリオ資産運用は5月12日、主力アクティブETF2本の純資産がそれぞれ2兆ウォン、1兆ウォンを超え、ETF全体の運用資産が8兆ウォンを突破したと発表した。",
+        "body": "タイムフォリオ資産運用は2026年5月12日、主力アクティブETFである「TIMEグローバルAI人工知能アクティブETF」と「TIME Koreaプラス配当アクティブETF」の純資産総額がそれぞれ2兆ウォン、1兆ウォンを超えたと明らかにした。これにより同社のETF全体の運用資産は8兆ウォンを突破した。韓国取引所基準でTIMEグローバルAI人工知能アクティブETFの純資産は2兆1852億ウォンとなり、韓国上場の株式型アクティブETFでAUM首位を記録した。同商品は2023年5月の上場以降、AI半導体、電力インフラ、データセンター、AIソフトウェアなど世界のAIバリューチェーンに投資してきた。TIME Koreaプラス配当アクティブETFは、韓国市場の主導株と高配当株を組み入れる月次分配型のアクティブ配当戦略商品だ。同社は5月19日に「TIMEグローバルヒューマノイドロボット産業アクティブETF」も新規上場する予定だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "Timefolio ETF净资产突破8万亿韩元，AI与韩国分红ETF同步扩张",
+        "excerpt": "Timefolio资产管理5月12日表示，两只旗舰主动型ETF净资产分别超过2万亿和1万亿韩元，推动公司ETF总管理资产突破8万亿韩元。",
+        "body": "Timefolio资产管理于2026年5月12日表示，旗下旗舰主动型ETF“TIME全球AI人工智能主动ETF”和“TIME Korea Plus分红主动ETF”的净资产总额分别突破2万亿韩元和1万亿韩元。由此，该公司整体ETF管理资产超过8万亿韩元。按韩国交易所数据，TIME全球AI人工智能主动ETF净资产为2.1852万亿韩元，在韩国上市股票型主动ETF中按AUM排名第一。该产品自2023年5月上市以来，投资于AI半导体、电力基础设施、数据中心、AI软件等全球人工智能价值链。TIME Korea Plus分红主动ETF则是将韩国市场主导股与高分红股共同纳入的月度分红型主动分红策略产品。Timefolio还计划于5月19日新上市“TIME全球人形机器人产业主动ETF”。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Timefolio supera 8 billones de wones en ETF con impulso de AI y dividendos",
+        "excerpt": "Timefolio Asset Management informó el 12 de mayo que dos ETF activos insignia superaron 2 billones y 1 billón de wones en activos netos, elevando sus ETF totales por encima de 8 billones.",
+        "body": "Timefolio Asset Management informó el 12 de mayo de 2026 que los activos netos de sus ETF activos insignia, TIME Global AI Artificial Intelligence Active ETF y TIME Korea Plus Dividend Active ETF, superaron respectivamente los 2 billones y 1 billón de wones. Con ello, los activos totales gestionados en ETF de la firma rebasaron los 8 billones de wones. Según la Bolsa de Corea, TIME Global AI Artificial Intelligence Active ETF alcanzó 2,1852 billones de wones en activos netos y ocupó el primer lugar por AUM entre los ETF activos de renta variable listados en Corea. Desde su salida a bolsa en mayo de 2023, invierte en la cadena global de valor de la IA, incluidos semiconductores, infraestructura eléctrica, centros de datos y software de IA. TIME Korea Plus Dividend Active ETF combina acciones líderes del mercado coreano y valores de alto dividendo en una estrategia activa de dividendo mensual. Timefolio prevé listar el 19 de mayo TIME Global Humanoid Robot Industry Active ETF. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Timefolio passa de 8 trilhões de won em ETFs com alta de IA e dividendos",
+        "excerpt": "A Timefolio Asset Management disse em 12 de maio que dois ETFs ativos principais superaram 2 trilhões e 1 trilhão de won em ativos líquidos, levando o total de ETFs acima de 8 trilhões.",
+        "body": "A Timefolio Asset Management informou em 12 de maio de 2026 que os ativos líquidos de seus principais ETFs ativos, TIME Global AI Artificial Intelligence Active ETF e TIME Korea Plus Dividend Active ETF, ultrapassaram 2 trilhões e 1 trilhão de won, respectivamente. Com isso, os ativos totais da empresa em ETFs superaram 8 trilhões de won. Segundo dados da Korea Exchange, o TIME Global AI Artificial Intelligence Active ETF tinha 2,1852 trilhões de won em ativos líquidos, liderando em AUM entre os ETFs ativos de ações listados na Coreia. Desde a listagem em maio de 2023, o fundo investe na cadeia global de valor de IA, incluindo semicondutores de IA, infraestrutura de energia, data centers e software de IA. O TIME Korea Plus Dividend Active ETF é uma estratégia ativa de dividendos mensais que combina líderes do mercado coreano e ações de alto dividendo. A Timefolio também planeja listar em 19 de maio o TIME Global Humanoid Robot Industry Active ETF. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Timefolio-ETF-Vermögen steigt über 8 Bio. Won, AI- und Dividendenfonds wachsen",
+        "excerpt": "Timefolio Asset Management teilte am 12. Mai mit, dass zwei aktive Flaggschiff-ETFs 2 Bio. und 1 Bio. Won Nettovermögen überschritten und das gesamte ETF-Vermögen über 8 Bio. Won hoben.",
+        "body": "Timefolio Asset Management erklärte am 12. Mai 2026, dass die Nettovermögen der aktiven Flaggschiff-ETFs TIME Global AI Artificial Intelligence Active ETF und TIME Korea Plus Dividend Active ETF jeweils über 2 Billionen Won und 1 Billion Won gestiegen seien. Damit überschritt das gesamte verwaltete ETF-Vermögen des Unternehmens 8 Billionen Won. Nach Angaben der Korea Exchange lag das Nettovermögen des TIME Global AI Artificial Intelligence Active ETF bei 2,1852 Billionen Won; unter in Korea gelisteten aktiven Aktien-ETFs belegte er damit Platz eins nach AUM. Seit der Notierung im Mai 2023 investiert der Fonds entlang der globalen KI-Wertschöpfungskette, darunter KI-Halbleiter, Strominfrastruktur, Rechenzentren und KI-Software. Der TIME Korea Plus Dividend Active ETF ist eine monatlich ausschüttende aktive Dividendenstrategie, die koreanische Marktführer und dividendenstarke Aktien kombiniert. Timefolio plant zudem, am 19. Mai den TIME Global Humanoid Robot Industry Active ETF neu zu listen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Timefolio dépasse 8 000 Mds de wons en ETF, porté par l’IA et les dividendes",
+        "excerpt": "Timefolio Asset Management a annoncé le 12 mai que deux ETF actifs phares avaient dépassé 2 000 Mds et 1 000 Mds de wons d’actifs nets, portant ses ETF totaux au-delà de 8 000 Mds.",
+        "body": "Timefolio Asset Management a annoncé le 12 mai 2026 que les actifs nets de ses ETF actifs phares, TIME Global AI Artificial Intelligence Active ETF et TIME Korea Plus Dividend Active ETF, avaient dépassé respectivement 2 000 milliards et 1 000 milliards de wons. Les actifs totaux sous gestion de ses ETF ont ainsi franchi 8 000 milliards de wons. Selon la Korea Exchange, le TIME Global AI Artificial Intelligence Active ETF affichait 2 185,2 milliards de wons d’actifs nets, au premier rang des ETF actifs actions cotés en Corée par AUM. Depuis sa cotation en mai 2023, le fonds investit dans la chaîne de valeur mondiale de l’IA, notamment les semi-conducteurs d’IA, les infrastructures électriques, les centres de données et les logiciels d’IA. Le TIME Korea Plus Dividend Active ETF est une stratégie active de dividende mensuel combinant valeurs leaders du marché coréen et actions à haut dividende. Timefolio prévoit aussi de coter le 19 mai le TIME Global Humanoid Robot Industry Active ETF. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "أصول صناديق Timefolio المتداولة تتجاوز 8 تريليونات وون بدعم الذكاء الاصطناعي والتوزيعات",
+        "excerpt": "قالت Timefolio Asset Management في 12 مايو إن صندوقين نشطين رئيسيين تجاوزا 2 تريليون و1 تريليون وون في صافي الأصول، ما رفع إجمالي أصول صناديقها المتداولة فوق 8 تريليونات وون.",
+        "body": "أعلنت Timefolio Asset Management في 12 مايو 2026 أن صافي أصول صندوقيها النشطين الرئيسيين، TIME Global AI Artificial Intelligence Active ETF وTIME Korea Plus Dividend Active ETF، تجاوز على التوالي 2 تريليون وون و1 تريليون وون. وبذلك تخطى إجمالي أصول صناديق الشركة المتداولة 8 تريليونات وون. ووفق بيانات بورصة كوريا، بلغ صافي أصول TIME Global AI Artificial Intelligence Active ETF نحو 2.1852 تريليون وون، محتلا المركز الأول من حيث الأصول المدارة بين صناديق الأسهم النشطة المدرجة في كوريا. ومنذ إدراجه في مايو 2023، استثمر الصندوق في سلسلة قيمة الذكاء الاصطناعي العالمية، بما يشمل أشباه موصلات الذكاء الاصطناعي، والبنية التحتية للطاقة، ومراكز البيانات، وبرمجيات الذكاء الاصطناعي. أما TIME Korea Plus Dividend Active ETF فهو منتج نشط للتوزيعات الشهرية يجمع بين أسهم قيادية في السوق الكورية وأسهم مرتفعة التوزيعات. وتعتزم Timefolio إدراج TIME Global Humanoid Robot Industry Active ETF في 19 مايو. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Timefolio ETF AUM 8 ट्रिलियन वॉन के पार, AI और डिविडेंड फंड भी बढ़े",
+        "excerpt": "Timefolio Asset Management ने 12 मई को कहा कि उसके दो प्रमुख सक्रिय ETF की शुद्ध संपत्ति 2 ट्रिलियन और 1 ट्रिलियन वॉन से ऊपर पहुंची, जिससे कुल ETF संपत्ति 8 ट्रिलियन वॉन से अधिक हो गई।",
+        "body": "Timefolio Asset Management ने 12 मई 2026 को बताया कि उसके प्रमुख सक्रिय ETF, TIME Global AI Artificial Intelligence Active ETF और TIME Korea Plus Dividend Active ETF, की शुद्ध संपत्ति क्रमशः 2 ट्रिलियन वॉन और 1 ट्रिलियन वॉन से अधिक हो गई। इसके साथ कंपनी की कुल ETF प्रबंधन संपत्ति 8 ट्रिलियन वॉन से ऊपर पहुंच गई। Korea Exchange के अनुसार, TIME Global AI Artificial Intelligence Active ETF की शुद्ध संपत्ति 2.1852 ट्रिलियन वॉन रही और यह कोरिया में सूचीबद्ध इक्विटी सक्रिय ETF में AUM के आधार पर पहले स्थान पर रहा। मई 2023 में सूचीबद्ध होने के बाद से यह फंड AI सेमीकंडक्टर, पावर इन्फ्रास्ट्रक्चर, डेटा सेंटर और AI सॉफ्टवेयर सहित वैश्विक AI वैल्यू चेन में निवेश करता रहा है। TIME Korea Plus Dividend Active ETF कोरियाई बाजार के अग्रणी शेयरों और उच्च डिविडेंड शेयरों को मिलाने वाली मासिक डिविडेंड सक्रिय रणनीति है। Timefolio 19 मई को TIME Global Humanoid Robot Industry Active ETF भी सूचीबद्ध करने की योजना रखती है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AUM ETF Timefolio Tembus 8 Triliun Won, Dana AI dan Dividen Ikut Naik",
+        "excerpt": "Timefolio Asset Management pada 12 Mei menyatakan dua ETF aktif unggulannya melampaui 2 triliun dan 1 triliun won dalam aset bersih, sehingga total aset ETF naik di atas 8 triliun won.",
+        "body": "Timefolio Asset Management menyatakan pada 12 Mei 2026 bahwa aset bersih dua ETF aktif unggulannya, TIME Global AI Artificial Intelligence Active ETF dan TIME Korea Plus Dividend Active ETF, masing-masing telah melampaui 2 triliun won dan 1 triliun won. Capaian itu membuat total aset kelolaan ETF perusahaan menembus 8 triliun won. Berdasarkan data Korea Exchange, TIME Global AI Artificial Intelligence Active ETF memiliki aset bersih 2,1852 triliun won dan menempati peringkat pertama berdasarkan AUM di antara ETF aktif saham yang tercatat di Korea. Sejak listing pada Mei 2023, produk ini berinvestasi di rantai nilai AI global, termasuk semikonduktor AI, infrastruktur listrik, pusat data, dan perangkat lunak AI. TIME Korea Plus Dividend Active ETF adalah strategi dividen aktif bulanan yang menggabungkan saham pemimpin pasar Korea dan saham berdividen tinggi. Timefolio juga berencana mencatatkan TIME Global Humanoid Robot Industry Active ETF pada 19 Mei. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "0512145f4c19",
+    "slug": "엘앤씨바이오-분석-리투오-흥행에-흑자전환전환청구권-행사-리스크는-유의-607900",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T21:50:10.728Z",
+    "updatedAt": "2026-05-12T21:50:10.728Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605121359i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605121359i",
+    "titleFingerprint": "ac9a5bd5c6df8335b8cc6d2e0be34cd9d1fa56e3",
+    "dedupKeys": [
+      "0512145f4c19d5610016bd4a60f3bc939dd509f7",
+      "ac9a5bd5c6df8335b8cc6d2e0be34cd9d1fa56e3",
+      "1f00343ce50c169eb416e9a7342955a0e981629f"
+    ],
+    "imageUrl": "/images/articles/0512145f4c19.png",
+    "i18n": {
+      "ko": {
+        "title": "엘앤씨바이오, 리투오 흥행에 영업 흑자전환…CB 리스크는 유의",
+        "excerpt": "엘앤씨바이오는 리투오 수요 확대와 본업 수익성 회복으로 2025년 연결 영업이익 42억원을 기록했지만 전환청구권 행사 가능성이 변수로 지목됐다.",
+        "body": "엘앤씨바이오는 2025년 연결 기준 매출 855억원, 영업이익 42억원을 기록하며 본업 수익성 회복과 영업 흑자전환을 확인했다. 핵심 배경은 ECM 기반 스킨부스터 리투오(Re2O)의 시장 확산이다. 리투오는 2024년 11월 출시 이후 병·의원 채널을 중심으로 수요가 빠르게 늘었고, 회사는 생산 인프라 확대와 해외 시장 대응을 병행하고 있다. 다만 당기순이익은 전환사채(CB) 관련 파생상품 평가손실 등 비현금성 요인으로 적자를 기록했다. 향후 리투오 성장세는 실적 개선 요인이지만, 전환청구권 행사에 따른 주식 수 증가 가능성은 투자자가 유의할 변수다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "L&C Bio Turns Operating Profit on Re2O Demand, but CB Risk Remains",
+        "excerpt": "L&C Bio posted 2025 consolidated operating profit of 4.2 billion won as Re2O demand lifted core profitability, while conversion-right exercise risk remains a key issue.",
+        "body": "L&C Bio reported 2025 consolidated revenue of 85.5 billion won and operating profit of 4.2 billion won, confirming a recovery in core profitability and a return to operating profit. The main driver was wider market adoption of Re2O, its ECM-based skin booster. Since its launch in November 2024, Re2O demand has grown quickly through clinic and hospital channels, while the company has expanded production infrastructure and prepared for overseas markets. However, net profit remained negative because of non-cash items including derivative valuation losses related to convertible bonds. Re2O’s growth may support future earnings, but possible share dilution from conversion-right exercises remains a risk for investors to monitor. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "L&Cバイオ、リトゥオ好調で営業黒字転換もCBリスクに注意",
+        "excerpt": "L&Cバイオはリトゥオ需要拡大と本業収益性の回復で2025年連結営業利益42億ウォンを計上したが、転換請求権行使の可能性が変数となる。",
+        "body": "L&Cバイオは2025年連結ベースで売上高855億ウォン、営業利益42億ウォンを記録し、本業収益性の回復と営業黒字転換を確認した。主な背景は、ECM基盤スキンブースター「リトゥオ（Re2O）」の市場浸透だ。リトゥオは2024年11月の発売以降、病院・クリニックチャネルを中心に需要が急速に伸び、同社は生産インフラの拡充と海外市場対応を並行して進めている。一方、当期純利益は転換社債（CB）関連デリバティブ評価損など非現金要因により赤字となった。今後のリトゥオ成長は業績改善要因だが、転換請求権行使による株式数増加の可能性には投資家の注意が必要だ。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "L&C Bio凭Re2O热销实现营业盈利，仍需关注可转债风险",
+        "excerpt": "L&C Bio因Re2O需求扩大和主营盈利能力恢复，2025年合并营业利润达42亿韩元，但转股请求权行使风险仍是变量。",
+        "body": "L&C Bio公布，2025年合并口径销售额为855亿韩元，营业利润为42亿韩元，显示主营业务盈利能力恢复并实现营业层面扭亏。主要推动因素是基于ECM的皮肤填充类产品Re2O在市场中的扩散。Re2O自2024年11月上市以来，在医院和诊所渠道的需求快速增长，公司也同步推进产能基础设施扩充和海外市场应对。不过，受可转债相关衍生品估值损失等非现金因素影响，公司净利润仍为亏损。未来Re2O增长有望支持业绩改善，但转股请求权行使可能带来的股本增加，是投资者需要关注的风险。来源: hankyung.com."
+      },
+      "es": {
+        "title": "L&C Bio vuelve a beneficio operativo por Re2O, con riesgo de conversión",
+        "excerpt": "L&C Bio registró en 2025 un beneficio operativo consolidado de 4.200 millones de wones gracias a la demanda de Re2O, aunque persiste el riesgo de conversión de bonos.",
+        "body": "L&C Bio informó ingresos consolidados de 85.500 millones de wones y beneficio operativo de 4.200 millones de wones en 2025, confirmando la recuperación de la rentabilidad de su negocio principal y el retorno al beneficio operativo. El factor clave fue la expansión en el mercado de Re2O, su skin booster basado en ECM. Desde su lanzamiento en noviembre de 2024, la demanda de Re2O creció con rapidez en hospitales y clínicas, mientras la empresa amplía infraestructura productiva y prepara su respuesta a mercados extranjeros. Sin embargo, el resultado neto siguió en pérdida por factores no monetarios, incluidos ajustes de valoración de derivados vinculados a bonos convertibles. El crecimiento de Re2O puede apoyar las ganancias, pero la posible dilución por ejercicio de derechos de conversión sigue siendo un riesgo. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "L&C Bio volta ao lucro operacional com Re2O, mas risco de CB pesa",
+        "excerpt": "A L&C Bio registrou lucro operacional consolidado de 4,2 bilhões de wons em 2025 com a demanda por Re2O, enquanto o exercício de direitos de conversão segue como risco.",
+        "body": "A L&C Bio registrou receita consolidada de 85,5 bilhões de wons e lucro operacional de 4,2 bilhões de wons em 2025, confirmando a recuperação da rentabilidade do negócio principal e a volta ao lucro operacional. O principal fator foi a expansão de mercado do Re2O, skin booster baseado em ECM. Desde o lançamento em novembro de 2024, a demanda pelo Re2O cresceu rapidamente em hospitais e clínicas, enquanto a empresa amplia sua infraestrutura de produção e prepara a atuação em mercados externos. Ainda assim, o lucro líquido ficou negativo por fatores não caixa, incluindo perdas de avaliação de derivativos ligados a bônus conversíveis. O crescimento do Re2O pode apoiar os resultados, mas a possível diluição por exercício de direitos de conversão segue como risco para investidores. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "L&C Bio schafft operativen Gewinn dank Re2O, doch CB-Risiko bleibt",
+        "excerpt": "L&C Bio erzielte 2025 einen konsolidierten operativen Gewinn von 4,2 Mrd. Won, gestützt durch Re2O-Nachfrage, während Wandlungsrechte ein Risiko bleiben.",
+        "body": "L&C Bio meldete für 2025 einen konsolidierten Umsatz von 85,5 Mrd. Won und einen operativen Gewinn von 4,2 Mrd. Won. Damit bestätigte das Unternehmen die Erholung der Profitabilität im Kerngeschäft und die Rückkehr in die operative Gewinnzone. Treiber war die stärkere Marktdurchdringung von Re2O, einem ECM-basierten Skinbooster. Seit der Einführung im November 2024 stieg die Nachfrage über Kliniken und Krankenhäuser rasch, während L&C Bio die Produktionsinfrastruktur ausbaut und Auslandsmärkte vorbereitet. Der Nettogewinn blieb jedoch wegen nicht zahlungswirksamer Faktoren negativ, darunter Bewertungsverluste auf Derivate im Zusammenhang mit Wandelanleihen. Re2O kann künftige Ergebnisse stützen, doch mögliche Verwässerung durch die Ausübung von Wandlungsrechten bleibt ein Risiko. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "L&C Bio renoue avec le bénéfice opérationnel grâce à Re2O, risque CB à suivre",
+        "excerpt": "L&C Bio a dégagé en 2025 un bénéfice opérationnel consolidé de 4,2 milliards de wons grâce à Re2O, mais le risque lié aux droits de conversion demeure.",
+        "body": "L&C Bio a annoncé pour 2025 un chiffre d’affaires consolidé de 85,5 milliards de wons et un bénéfice opérationnel de 4,2 milliards de wons, confirmant le redressement de la rentabilité de son activité principale et le retour au bénéfice opérationnel. Le moteur principal est la diffusion sur le marché de Re2O, son skin booster fondé sur l’ECM. Depuis son lancement en novembre 2024, la demande a progressé rapidement via les cliniques et hôpitaux, tandis que l’entreprise développe ses capacités de production et prépare les marchés étrangers. Le résultat net reste toutefois déficitaire en raison d’éléments non monétaires, dont des pertes de valorisation sur dérivés liés aux obligations convertibles. La croissance de Re2O peut soutenir les résultats, mais une dilution possible liée aux droits de conversion reste un risque. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "إل آند سي بايو تعود للربح التشغيلي بدعم Re2O مع بقاء مخاطر التحويل",
+        "excerpt": "سجلت إل آند سي بايو في 2025 ربحا تشغيليا موحدا قدره 4.2 مليار وون بفضل طلب Re2O، لكن احتمال ممارسة حقوق التحويل يبقى عاملا مهما.",
+        "body": "أعلنت إل آند سي بايو عن إيرادات موحدة قدرها 85.5 مليار وون وربح تشغيلي قدره 4.2 مليار وون في 2025، ما يؤكد تعافي ربحية النشاط الأساسي والعودة إلى الربح التشغيلي. وجاء العامل الرئيسي من توسع انتشار Re2O، وهو معزز للبشرة قائم على ECM. ومنذ إطلاقه في نوفمبر 2024، نما الطلب على Re2O بسرعة عبر قنوات العيادات والمستشفيات، بينما تعمل الشركة على توسيع البنية الإنتاجية والاستعداد للأسواق الخارجية. ومع ذلك، ظل صافي الربح سلبيا بسبب عوامل غير نقدية، منها خسائر تقييم مشتقات مرتبطة بالسندات القابلة للتحويل. نمو Re2O قد يدعم الأداء مستقبلا، لكن احتمال زيادة عدد الأسهم نتيجة ممارسة حقوق التحويل يبقى خطرا يجب على المستثمرين متابعته. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Re2O मांग से L&C Bio परिचालन लाभ में लौटी, CB जोखिम पर नजर जरूरी",
+        "excerpt": "L&C Bio ने Re2O की बढ़ती मांग और मुख्य कारोबार की लाभप्रदता में सुधार से 2025 में 4.2 अरब वॉन का समेकित परिचालन लाभ दर्ज किया, पर रूपांतरण अधिकार जोखिम बना है।",
+        "body": "L&C Bio ने 2025 में 85.5 अरब वॉन का समेकित राजस्व और 4.2 अरब वॉन का परिचालन लाभ दर्ज किया, जिससे मुख्य कारोबार की लाभप्रदता में सुधार और परिचालन स्तर पर लाभ में वापसी दिखी। इसका मुख्य कारण ECM-आधारित स्किन बूस्टर Re2O का बाजार में बढ़ता प्रसार रहा। नवंबर 2024 में लॉन्च के बाद Re2O की मांग अस्पतालों और क्लिनिक चैनलों में तेजी से बढ़ी, जबकि कंपनी उत्पादन ढांचे का विस्तार और विदेशी बाजारों की तैयारी कर रही है। हालांकि, परिवर्तनीय बॉन्ड से जुड़े डेरिवेटिव मूल्यांकन नुकसान जैसे गैर-नकद कारणों से शुद्ध लाभ घाटे में रहा। Re2O की वृद्धि भविष्य की कमाई को सहारा दे सकती है, लेकिन रूपांतरण अधिकारों के प्रयोग से शेयरों की संख्या बढ़ने की संभावना निवेशकों के लिए जोखिम है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "L&C Bio Cetak Laba Operasi Berkat Re2O, Risiko Konversi Tetap Perlu Dicermati",
+        "excerpt": "L&C Bio mencatat laba operasi konsolidasi 4,2 miliar won pada 2025 berkat permintaan Re2O dan pemulihan profitabilitas, namun risiko hak konversi tetap menjadi perhatian.",
+        "body": "L&C Bio mencatat pendapatan konsolidasi 85,5 miliar won dan laba operasi 4,2 miliar won pada 2025, menegaskan pemulihan profitabilitas bisnis utama serta kembalinya perusahaan ke laba operasi. Pendorong utamanya adalah perluasan pasar Re2O, skin booster berbasis ECM. Sejak diluncurkan pada November 2024, permintaan Re2O tumbuh cepat melalui kanal rumah sakit dan klinik, sementara perusahaan memperluas infrastruktur produksi dan menyiapkan pasar luar negeri. Namun, laba bersih masih negatif karena faktor nonkas, termasuk kerugian penilaian derivatif terkait obligasi konversi. Pertumbuhan Re2O dapat mendukung kinerja ke depan, tetapi potensi bertambahnya jumlah saham akibat pelaksanaan hak konversi tetap menjadi risiko bagi investor. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "dbe18b16f5e3",
     "slug": "nhn-분석-1분기-실적은-기대-못-미쳤지만-지금-사도-부담없는-주가-479393",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Koin Upbit Naik 9 dari 10, Bitcoin Pulih ke Level 120 Juta Won",
         "excerpt": "Demam AI mendorong aset berisiko, termasuk saham domestik dan global, sehingga pasar kripto rebound dan 9 dari 10 koin Upbit menguat.",
         "body": "Pasar aset kripto rebound ketika aset berisiko menguat secara luas berkat antusiasme terhadap kecerdasan buatan. Dengan pasar saham domestik dan luar negeri bergerak kuat, sentimen investor membaik, dan 9 dari 10 koin yang diperdagangkan di Upbit menunjukkan tren kenaikan. Bitcoin juga kembali menembus level 120 juta won dan melanjutkan pemulihan. Pergerakan ini menunjukkan bahwa ekspektasi terkait AI, yang mendorong pasar saham, turut memengaruhi suasana pasar kripto. Laporan asli berfokus pada latar belakang kenaikan dan tren pemulihan, tanpa menyajikan angka proyeksi tambahan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5f376d14f6ca",
-    "slug": "올해-81-뛴-코스피-8000피-향해-가는데28-오른-코스닥-3천스닥-시험대-452735",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T04:43:56.366Z",
-    "updatedAt": "2026-05-12T04:43:56.366Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044550",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044550",
-    "titleFingerprint": "05d96e23a477c975504cf84fa3f3e516f0409dda",
-    "dedupKeys": [
-      "5f376d14f6cae5addf177bfd7a16cc19b72c9e06",
-      "05d96e23a477c975504cf84fa3f3e516f0409dda",
-      "77e311bb455d6960d9ad07a8a2bcdfa5a7ac925d"
-    ],
-    "imageUrl": "/images/articles/5f376d14f6ca.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 81% 상승에 8000선 기대감…코스닥 28% 올라 ‘3천스닥’ 시험대",
-        "excerpt": "올해 국내 증시가 연일 사상 최고치를 새로 쓰는 가운데 코스피는 81% 뛰며 8000선 기대감을 키웠고, 코스닥은 28% 상승해 ‘3천스닥’ 가능성을 시험받고 있다.",
-        "body": "올해 국내 증시가 개장 때마다 사상 최고치를 갈아치우는 흐름을 보이는 가운데, 코스피와 코스닥의 상승률 격차가 뚜렷해지고 있다. 코스피는 올해 들어 81% 상승하며 8000선 기대감을 키우고 있는 반면, 코스닥은 28% 오르는 데 그쳐 상대적으로 낮은 상승률을 보였다. 두 시장 모두 강세를 이어가고 있지만, 상승 탄력은 코스피에 더 집중된 모습이다. 이에 따라 코스닥은 ‘3천스닥’으로 불리는 3000선 도달 가능성을 시험받는 국면에 놓였다. 국내 증시의 신고가 행진 속에서 투자자들의 관심은 코스피의 추가 상승 여력과 코스닥의 추격 여부로 나뉘고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Jumps 81% Toward 8,000 as KOSDAQ’s 28% Gain Tests 3,000",
-        "excerpt": "As South Korea’s stock market keeps setting record highs this year, KOSPI has risen 81% toward the 8,000 mark while KOSDAQ’s 28% gain puts the 3,000 level to the test.",
-        "body": "South Korea’s stock market has been rewriting record highs almost every time trading opens this year, but the performance gap between KOSPI and KOSDAQ is widening. KOSPI has climbed 81% so far this year, raising expectations for a move toward the 8,000 level. KOSDAQ, by contrast, has gained 28%, showing a comparatively weaker rise. Both markets remain strong, yet the upward momentum appears more concentrated in KOSPI. As a result, KOSDAQ is entering a phase where its ability to reach the so-called “3,000 KOSDAQ” level is being tested. Amid the record-setting rally, investors are watching both KOSPI’s further upside potential and whether KOSDAQ can catch up. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIは今年81％上昇し8000台視野、KOSDAQは28％高で3000台試す",
-        "excerpt": "韓国株式市場が連日で過去最高値を更新するなか、KOSPIは今年81％上昇して8000台への期待を高め、KOSDAQは28％高で3000台到達を試されている。",
-        "body": "今年の韓国株式市場は、取引が始まるたびに過去最高値を塗り替える流れを見せているが、KOSPIとKOSDAQの上昇率の差は広がっている。KOSPIは年初来で81％上昇し、8000台への期待を高めている。一方、KOSDAQは28％の上昇にとどまり、相対的に低い伸びとなった。両市場とも強い地合いを続けているものの、上昇の勢いはKOSPIにより集中している。これによりKOSDAQは、いわゆる「3000スダック」と呼ばれる3000台到達の可能性を試される局面に入った。最高値更新が続くなか、投資家の関心はKOSPIの追加上昇余地とKOSDAQの追随可否に分かれている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI今年涨81%冲向8000点，KOSDAQ涨28%考验3000点",
-        "excerpt": "韩国股市今年连续刷新历史高点之际，KOSPI上涨81%并提升8000点预期，KOSDAQ上涨28%，其能否站上3000点正受到市场检验。",
-        "body": "今年韩国股市几乎每逢开盘便刷新历史高点，但KOSPI与KOSDAQ之间的涨幅差距正在扩大。KOSPI今年以来上涨81%，令市场对其迈向8000点的期待升温。相比之下，KOSDAQ上涨28%，涨幅相对较低。两个市场均保持强势，但上涨动能更集中在KOSPI。由此，KOSDAQ进入了能否达到所谓“3000斯达克”即3000点水平的考验阶段。在韩国股市持续创出新高的背景下，投资者关注的焦点分为KOSPI是否还有进一步上行空间，以及KOSDAQ能否追赶。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI sube 81% y mira a 8.000; KOSDAQ avanza 28% y prueba los 3.000",
-        "excerpt": "Mientras la bolsa surcoreana encadena máximos históricos este año, el KOSPI sube 81% y apunta a 8.000 puntos, pero el KOSDAQ gana 28% y pone a prueba el nivel de 3.000.",
-        "body": "La bolsa surcoreana ha venido renovando máximos históricos casi cada vez que abre el mercado este año, pero la brecha de rentabilidad entre el KOSPI y el KOSDAQ se está ampliando. El KOSPI ha subido 81% en lo que va del año, aumentando las expectativas de un avance hacia los 8.000 puntos. En cambio, el KOSDAQ ha ganado 28%, un incremento relativamente menor. Ambos mercados mantienen una tendencia firme, aunque el impulso alcista parece concentrarse más en el KOSPI. Por ello, el KOSDAQ entra en una etapa en la que se pone a prueba su capacidad de alcanzar el llamado nivel de “3.000 KOSDAQ”. En medio de la racha de récords, los inversores observan el potencial adicional del KOSPI y si el KOSDAQ puede seguirle el paso. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI sobe 81% rumo a 8.000; KOSDAQ avança 28% e testa 3.000",
-        "excerpt": "Com a bolsa sul-coreana renovando máximas históricas neste ano, o KOSPI subiu 81% e mira 8.000 pontos, enquanto o KOSDAQ avançou 28% e testa o patamar de 3.000.",
-        "body": "A bolsa sul-coreana vem renovando máximas históricas quase sempre que o mercado abre neste ano, mas a diferença de desempenho entre KOSPI e KOSDAQ está aumentando. O KOSPI acumula alta de 81% no ano, elevando as expectativas de avanço rumo aos 8.000 pontos. Já o KOSDAQ subiu 28%, mostrando uma valorização relativamente menor. Os dois mercados seguem fortes, mas o impulso de alta parece mais concentrado no KOSPI. Assim, o KOSDAQ entra em uma fase na qual sua capacidade de alcançar o chamado nível de “3.000 KOSDAQ” passa a ser testada. Em meio à sequência de recordes, investidores acompanham tanto o potencial adicional do KOSPI quanto a possibilidade de o KOSDAQ recuperar terreno. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI steigt 81% Richtung 8.000, KOSDAQ mit 28% vor 3.000-Test",
-        "excerpt": "Während Südkoreas Aktienmarkt in diesem Jahr weiter Rekordhochs markiert, legt der KOSPI um 81% zu und nähert sich 8.000 Punkten, der KOSDAQ steigt 28% und testet 3.000.",
-        "body": "Südkoreas Aktienmarkt markiert in diesem Jahr nahezu bei jeder Eröffnung neue Rekordstände, doch die Renditelücke zwischen KOSPI und KOSDAQ wird größer. Der KOSPI ist seit Jahresbeginn um 81% gestiegen und verstärkt damit die Erwartungen an einen Anstieg in Richtung 8.000 Punkte. Der KOSDAQ legte dagegen um 28% zu und blieb damit vergleichsweise zurück. Beide Märkte zeigen weiter Stärke, doch die Aufwärtsdynamik konzentriert sich stärker auf den KOSPI. Damit steht der KOSDAQ vor der Prüfung, ob er das sogenannte Niveau von “3.000 KOSDAQ” erreichen kann. In der Rekordrally richtet sich der Blick der Anleger auf weiteres Potenzial des KOSPI und darauf, ob der KOSDAQ aufholen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI bondit de 81% vers 8 000, le KOSDAQ teste les 3 000 avec +28%",
-        "excerpt": "Alors que la Bourse sud-coréenne enchaîne les records cette année, le KOSPI gagne 81% et vise 8 000 points, tandis que le KOSDAQ progresse de 28% et teste le seuil de 3 000.",
-        "body": "La Bourse sud-coréenne renouvelle ses records historiques presque à chaque ouverture cette année, mais l’écart de performance entre le KOSPI et le KOSDAQ se creuse. Le KOSPI a progressé de 81% depuis le début de l’année, renforçant les attentes d’une avancée vers les 8 000 points. À l’inverse, le KOSDAQ a gagné 28%, une hausse relativement plus limitée. Les deux marchés restent bien orientés, mais la dynamique haussière paraît davantage concentrée sur le KOSPI. Le KOSDAQ entre ainsi dans une phase où sa capacité à atteindre le niveau dit des “3 000 KOSDAQ” est mise à l’épreuve. Dans cette série de records, les investisseurs suivent à la fois le potentiel supplémentaire du KOSPI et la possibilité pour le KOSDAQ de rattraper son retard. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يقفز 81% نحو 8000 نقطة وكوسداك يرتفع 28% لاختبار 3000",
-        "excerpt": "مع استمرار سوق الأسهم الكورية في تسجيل قمم تاريخية هذا العام، ارتفع كوسبي 81% مقتربا من 8000 نقطة، بينما صعد كوسداك 28% ليختبر مستوى 3000 نقطة.",
-        "body": "تشهد سوق الأسهم الكورية هذا العام موجة من تسجيل مستويات قياسية جديدة تقريبا مع كل افتتاح للتداول، لكن الفجوة بين أداء كوسبي وكوسداك تتسع. فقد ارتفع مؤشر كوسبي 81% منذ بداية العام، ما عزز التوقعات باتجاهه نحو مستوى 8000 نقطة. في المقابل، ارتفع كوسداك 28% فقط، مسجلا صعودا أقل نسبيا. ورغم أن السوقين يواصلان أداء قويا، فإن زخم الصعود يبدو أكثر تركيزا في كوسبي. وبذلك يدخل كوسداك مرحلة اختبار قدرته على بلوغ ما يعرف بمستوى “كوسداك 3000”. ومع استمرار موجة القمم القياسية، ينقسم اهتمام المستثمرين بين إمكانات الصعود الإضافية لكوسبي وما إذا كان كوسداك قادرا على اللحاق به. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 81% उछलकर 8,000 की ओर, KOSDAQ की 28% बढ़त पर 3,000 की परीक्षा",
-        "excerpt": "दक्षिण कोरिया का शेयर बाजार इस साल लगातार रिकॉर्ड ऊंचाई बना रहा है; KOSPI 81% चढ़कर 8,000 की उम्मीद बढ़ा रहा है, जबकि KOSDAQ 28% बढ़कर 3,000 स्तर की परीक्षा में है।",
-        "body": "दक्षिण कोरिया का शेयर बाजार इस साल लगभग हर बार खुलने पर नए ऐतिहासिक उच्च स्तर बना रहा है, लेकिन KOSPI और KOSDAQ की बढ़त में अंतर बढ़ता दिख रहा है। KOSPI इस साल अब तक 81% चढ़ा है, जिससे 8,000 स्तर की ओर बढ़ने की उम्मीद मजबूत हुई है। इसके विपरीत, KOSDAQ 28% बढ़ा है, जो अपेक्षाकृत कम तेजी है। दोनों बाजार मजबूत बने हुए हैं, लेकिन तेजी की गति KOSPI में अधिक केंद्रित दिखाई देती है। इसी कारण KOSDAQ अब उस चरण में है जहां तथाकथित “3,000 KOSDAQ” स्तर तक पहुंचने की संभावना की परीक्षा हो रही है। रिकॉर्ड ऊंचाइयों की इस दौड़ में निवेशकों की नजर KOSPI की आगे की बढ़त और KOSDAQ के पीछा कर पाने पर है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Melonjak 81% Menuju 8.000, KOSDAQ Naik 28% Uji Level 3.000",
-        "excerpt": "Saat pasar saham Korea Selatan terus mencetak rekor tertinggi tahun ini, KOSPI naik 81% dan menatap 8.000, sementara KOSDAQ menguat 28% dan menguji peluang menuju 3.000.",
-        "body": "Pasar saham Korea Selatan tahun ini terus mencetak rekor tertinggi hampir setiap kali perdagangan dibuka, tetapi selisih kenaikan antara KOSPI dan KOSDAQ makin melebar. KOSPI telah naik 81% sejak awal tahun, memperbesar ekspektasi menuju level 8.000. Sebaliknya, KOSDAQ menguat 28%, sehingga kenaikannya relatif lebih rendah. Kedua pasar masih bergerak kuat, tetapi momentum kenaikan terlihat lebih terkonsentrasi pada KOSPI. Karena itu, KOSDAQ memasuki fase untuk menguji kemungkinan mencapai level yang disebut “3.000 KOSDAQ”. Di tengah reli rekor ini, perhatian investor terbagi antara potensi kenaikan lanjutan KOSPI dan apakah KOSDAQ dapat mengejar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "713d32fb0cdc",
-    "slug": "효성굿스프링스-전력-효율-높인-펌프-솔루션-공개기계설비전시회-참가-974481",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T04:42:41.889Z",
-    "updatedAt": "2026-05-12T04:42:41.889Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12044553",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12044553",
-    "titleFingerprint": "e4b990926646a8907a1939dfbb4b548c3d1fde45",
-    "dedupKeys": [
-      "713d32fb0cdc27c686540fae8ae3a7107e229ca9",
-      "e4b990926646a8907a1939dfbb4b548c3d1fde45",
-      "f891ea2f05b0327db6313f33613b1f2611931d9a"
-    ],
-    "imageUrl": "/images/articles/713d32fb0cdc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "효성굿스프링스, 전력 3.2% 줄인 고효율 펌프 솔루션 첫 공개",
-        "excerpt": "효성굿스프링스가 13~15일 HVAC KOREA 2026에서 전력 사용량을 3.2% 절감한 고효율 펌프 솔루션을 처음 공개하고 데이터센터·건물 설비용 종합 솔루션을 전시한다.",
-        "body": "효성굿스프링스가 13일부터 15일까지 열리는 HVAC KOREA 2026에 참가해 전력 사용량을 3.2% 절감한 고효율 펌프 솔루션을 처음 선보인다. 이번 전시에서는 데이터센터와 건물 설비용 펌프를 포함한 종합 솔루션도 함께 소개한다. 회사는 전력 효율을 높인 펌프 솔루션을 통해 설비 운영 과정에서 에너지 사용을 줄이는 기술을 강조할 예정이다. HVAC KOREA 2026은 기계설비 관련 제품과 기술을 소개하는 전시회로, 효성굿스프링스는 현장에서 고효율 펌프 기술과 적용 분야를 알릴 계획이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hyosung Goodsprings to Unveil Pump Solution Cutting Power Use by 3.2%",
-        "excerpt": "Hyosung Goodsprings will debut a high-efficiency pump solution that reduces power consumption by 3.2% at HVAC KOREA 2026 from May 13 to 15, alongside solutions for data centers and building facilities.",
-        "body": "Hyosung Goodsprings will take part in HVAC KOREA 2026 from May 13 to 15 and unveil for the first time a high-efficiency pump solution that cuts power consumption by 3.2%. The company will also display comprehensive solutions, including pumps for data centers and building facilities. Through the new pump solution, Hyosung Goodsprings plans to highlight technology designed to improve power efficiency and reduce energy use during facility operation. HVAC KOREA 2026 is an exhibition introducing products and technologies related to mechanical facilities, and the company plans to present its high-efficiency pump technology and application areas at the event. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "暁星グッドスプリングス、電力3.2%削減の高効率ポンプを初公開",
-        "excerpt": "暁星グッドスプリングスは5月13～15日のHVAC KOREA 2026で、電力使用量を3.2%削減する高効率ポンプソリューションを初公開し、データセンター・建物設備向け総合ソリューションも展示する。",
-        "body": "暁星グッドスプリングスは5月13日から15日まで開かれるHVAC KOREA 2026に参加し、電力使用量を3.2%削減した高効率ポンプソリューションを初めて披露する。今回の展示では、データセンターや建物設備向けポンプを含む総合ソリューションも紹介する。同社は電力効率を高めたポンプソリューションを通じて、設備運用の過程でエネルギー使用を減らす技術を強調する予定だ。HVAC KOREA 2026は機械設備関連の製品と技術を紹介する展示会で、暁星グッドスプリングスは会場で高効率ポンプ技術と適用分野を知らせる計画だ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "晓星Goodsprings将首发节电3.2%的高效泵解决方案",
-        "excerpt": "晓星Goodsprings将于5月13日至15日在HVAC KOREA 2026首次展示可降低3.2%用电量的高效泵解决方案，并展出面向数据中心和建筑设备的综合方案。",
-        "body": "晓星Goodsprings将参加5月13日至15日举行的HVAC KOREA 2026，并首次推出可降低3.2%用电量的高效泵解决方案。本次展会上，公司还将介绍包括数据中心和建筑设备用泵在内的综合解决方案。晓星Goodsprings计划通过提升电力效率的泵解决方案，强调在设备运行过程中减少能源使用的相关技术。HVAC KOREA 2026是介绍机械设备相关产品和技术的展会，公司计划在现场展示高效泵技术及其应用领域。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hyosung Goodsprings presenta bomba eficiente que reduce 3,2% la electricidad",
-        "excerpt": "Hyosung Goodsprings estrenará del 13 al 15 de mayo en HVAC KOREA 2026 una solución de bombas de alta eficiencia que reduce 3,2% el consumo eléctrico y mostrará soluciones para centros de datos y edificios.",
-        "body": "Hyosung Goodsprings participará en HVAC KOREA 2026, que se celebrará del 13 al 15 de mayo, y presentará por primera vez una solución de bombas de alta eficiencia que reduce el consumo eléctrico en un 3,2%. En la exposición también mostrará soluciones integrales, incluidas bombas para centros de datos e instalaciones de edificios. Con esta solución, la compañía prevé destacar una tecnología que mejora la eficiencia eléctrica y reduce el uso de energía durante la operación de instalaciones. HVAC KOREA 2026 es una feria dedicada a productos y tecnologías de instalaciones mecánicas, donde Hyosung Goodsprings dará a conocer su tecnología de bombas eficientes y sus campos de aplicación. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hyosung Goodsprings estreia bomba eficiente que corta energia em 3,2%",
-        "excerpt": "A Hyosung Goodsprings apresentará de 13 a 15 de maio, na HVAC KOREA 2026, uma solução de bombas de alta eficiência que reduz o consumo de energia em 3,2%, além de soluções para data centers e edifícios.",
-        "body": "A Hyosung Goodsprings participará da HVAC KOREA 2026, realizada de 13 a 15 de maio, e apresentará pela primeira vez uma solução de bombas de alta eficiência que reduz o consumo de energia em 3,2%. Na feira, a empresa também exibirá soluções integradas, incluindo bombas para data centers e instalações prediais. Com a nova solução, a Hyosung Goodsprings pretende destacar uma tecnologia voltada a aumentar a eficiência elétrica e reduzir o uso de energia na operação de instalações. A HVAC KOREA 2026 é uma exposição de produtos e tecnologias relacionados a instalações mecânicas, onde a empresa apresentará sua tecnologia de bombas eficientes e áreas de aplicação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hyosung Goodsprings zeigt erstmals Pumpenlösung mit 3,2% weniger Strom",
-        "excerpt": "Hyosung Goodsprings stellt vom 13. bis 15. Mai auf der HVAC KOREA 2026 erstmals eine hocheffiziente Pumpenlösung vor, die den Stromverbrauch um 3,2% senkt, sowie Lösungen für Rechenzentren und Gebäudeanlagen.",
-        "body": "Hyosung Goodsprings nimmt vom 13. bis 15. Mai an der HVAC KOREA 2026 teil und stellt dort erstmals eine hocheffiziente Pumpenlösung vor, die den Stromverbrauch um 3,2% reduziert. Auf der Messe präsentiert das Unternehmen außerdem umfassende Lösungen, darunter Pumpen für Rechenzentren und Gebäudeanlagen. Mit der neuen Pumpenlösung will Hyosung Goodsprings eine Technologie hervorheben, die die Stromeffizienz erhöht und den Energieeinsatz im Anlagenbetrieb senkt. HVAC KOREA 2026 ist eine Ausstellung für Produkte und Technologien rund um mechanische Anlagen. Das Unternehmen plant, vor Ort seine hocheffiziente Pumpentechnologie und deren Anwendungsbereiche vorzustellen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hyosung Goodsprings dévoile une pompe réduisant l’électricité de 3,2%",
-        "excerpt": "Hyosung Goodsprings présentera du 13 au 15 mai à HVAC KOREA 2026 une solution de pompes à haute efficacité réduisant la consommation électrique de 3,2%, avec des solutions pour centres de données et bâtiments.",
-        "body": "Hyosung Goodsprings participera à HVAC KOREA 2026, organisé du 13 au 15 mai, et y dévoilera pour la première fois une solution de pompes à haute efficacité réduisant la consommation électrique de 3,2%. L’entreprise exposera aussi des solutions complètes, notamment des pompes destinées aux centres de données et aux installations de bâtiments. Avec cette solution, Hyosung Goodsprings entend mettre en avant une technologie améliorant l’efficacité électrique et diminuant l’énergie utilisée lors de l’exploitation des équipements. HVAC KOREA 2026 est un salon consacré aux produits et technologies liés aux installations mécaniques. L’entreprise y présentera sa technologie de pompes efficaces et ses domaines d’application. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هيوسونغ غودسبرينغز تكشف مضخة عالية الكفاءة تخفض الكهرباء 3.2%",
-        "excerpt": "تعرض هيوسونغ غودسبرينغز بين 13 و15 مايو في HVAC KOREA 2026 حلا لمضخات عالية الكفاءة يخفض استهلاك الكهرباء 3.2%، إلى جانب حلول لمراكز البيانات وتجهيزات المباني.",
-        "body": "تشارك هيوسونغ غودسبرينغز في معرض HVAC KOREA 2026 المنعقد من 13 إلى 15 مايو، حيث تكشف للمرة الأولى عن حل لمضخات عالية الكفاءة يخفض استهلاك الكهرباء بنسبة 3.2%. وستعرض الشركة أيضا حلولا شاملة تشمل مضخات مخصصة لمراكز البيانات وتجهيزات المباني. ومن خلال حل المضخات المعزز لكفاءة الطاقة، تعتزم الشركة إبراز تقنية تساعد على تقليل استخدام الطاقة أثناء تشغيل المرافق. ويعد HVAC KOREA 2026 معرضا يقدم المنتجات والتقنيات المرتبطة بالتجهيزات الميكانيكية، وتخطط هيوسونغ غودسبرينغز لعرض تقنية المضخات عالية الكفاءة ومجالات استخدامها في موقع الحدث. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hyosung Goodsprings 3.2% कम बिजली वाली उच्च दक्षता पंप तकनीक दिखाएगी",
-        "excerpt": "Hyosung Goodsprings 13 से 15 मई तक HVAC KOREA 2026 में पहली बार 3.2% बिजली खपत घटाने वाला उच्च दक्षता पंप समाधान पेश करेगी और डेटा सेंटर व भवन सुविधाओं के समाधान भी प्रदर्शित करेगी।",
-        "body": "Hyosung Goodsprings 13 से 15 मई तक आयोजित HVAC KOREA 2026 में भाग लेकर पहली बार ऐसा उच्च दक्षता पंप समाधान पेश करेगी जो बिजली खपत को 3.2% कम करता है। इस प्रदर्शनी में कंपनी डेटा सेंटर और भवन सुविधाओं के लिए पंप सहित समग्र समाधान भी दिखाएगी। कंपनी बिजली दक्षता बढ़ाने वाले इस पंप समाधान के माध्यम से सुविधा संचालन के दौरान ऊर्जा उपयोग घटाने वाली तकनीक पर जोर देने की योजना बना रही है। HVAC KOREA 2026 यांत्रिक सुविधाओं से जुड़े उत्पादों और तकनीकों को पेश करने वाली प्रदर्शनी है, जहां Hyosung Goodsprings अपनी उच्च दक्षता पंप तकनीक और उसके उपयोग क्षेत्रों को सामने रखेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hyosung Goodsprings Perkenalkan Pompa Hemat Listrik 3,2% di HVAC KOREA",
-        "excerpt": "Hyosung Goodsprings akan debutkan solusi pompa berefisiensi tinggi yang memangkas konsumsi listrik 3,2% pada HVAC KOREA 2026, 13-15 Mei, sekaligus memamerkan solusi untuk pusat data dan fasilitas gedung.",
-        "body": "Hyosung Goodsprings akan mengikuti HVAC KOREA 2026 yang digelar pada 13 hingga 15 Mei dan untuk pertama kalinya memperkenalkan solusi pompa berefisiensi tinggi yang mengurangi konsumsi listrik sebesar 3,2%. Dalam pameran ini, perusahaan juga akan menampilkan solusi terpadu, termasuk pompa untuk pusat data dan fasilitas gedung. Melalui solusi pompa yang meningkatkan efisiensi daya, Hyosung Goodsprings berencana menekankan teknologi yang mengurangi penggunaan energi selama pengoperasian fasilitas. HVAC KOREA 2026 merupakan pameran yang memperkenalkan produk dan teknologi terkait fasilitas mekanis, dan perusahaan akan memaparkan teknologi pompa efisien serta bidang penerapannya di lokasi acara. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5d8c3a36b099",
-    "slug": "에이프로젠-퇴행성관절염-신약-8월초-환자-투약-예정이르면-5월말-임상-승인-예상-343847",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T04:41:34.772Z",
-    "updatedAt": "2026-05-12T04:41:34.773Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044558",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044558",
-    "titleFingerprint": "2aa6974201c4ec177c2149518f2779a6e201dd84",
-    "dedupKeys": [
-      "5d8c3a36b099a1a9a31b2bae9978d9d7bbe60402",
-      "2aa6974201c4ec177c2149518f2779a6e201dd84",
-      "96cbdd5fd53207347c5056c7051b091880eab319"
-    ],
-    "imageUrl": "/images/articles/5d8c3a36b099.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에이프로젠 AP209 임상 승인 이르면 5월 말 예상, 8월 초 투약 계획",
-        "excerpt": "에이프로젠은 퇴행성관절염 신약 AP209의 임상시험 승인 절차가 5월 말 또는 6월 초 마무리될 것으로 보고, 8월 초 환자 투약을 예정하고 있다고 밝혔다.",
-        "body": "에이프로젠은 지난 3월 퇴행성관절염 신약 후보물질 AP209에 대한 임상시험 승인 신청서를 식품의약품안전처에 제출했으며, 현재 협의와 보완 절차를 진행 중이라고 밝혔다. 회사는 승인 시점이 이르면 5월 말, 늦어도 6월 초가 될 것으로 예상하고 있다. 승인 절차가 마무리되면 에이프로젠은 8월 초 환자 투약을 시작할 계획이다. AP209는 회사가 개발 중인 퇴행성관절염 신약으로, 이번 임상 승인 여부와 투약 개시 일정이 향후 개발 진행의 주요 변수가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Aprogen AP209 Trial Approval Expected by Late May, Dosing Planned in Early August",
-        "excerpt": "Aprogen said approval for its osteoarthritis drug candidate AP209 trial could come in late May or early June, with patient dosing planned for early August.",
-        "body": "Aprogen said it submitted a clinical trial application for AP209, its osteoarthritis drug candidate, to South Korea’s Ministry of Food and Drug Safety in March and is currently in discussions and supplementation procedures. The company expects approval as early as late May or, if later, in early June. Once the approval process is completed, Aprogen plans to begin dosing patients in early August. AP209 is an osteoarthritis treatment under development by the company, and the timing of trial approval and first patient dosing is expected to be a key factor in the next stage of development. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エイプロジェンAP209、早ければ5月末に治験承認へ 8月初旬投与計画",
-        "excerpt": "エイプロジェンは変形性関節症新薬AP209の治験承認が5月末または6月初めに見込まれ、8月初旬に患者投与を予定していると明らかにした。",
-        "body": "エイプロジェンは、3月に変形性関節症の新薬候補AP209に関する治験承認申請書を韓国食品医薬品安全処に提出し、現在協議と補完手続きを進めていると明らかにした。会社は承認時期について、早ければ5月末、遅くとも6月初めになると見込んでいる。承認手続きが完了すれば、エイプロジェンは8月初旬に患者への投与を開始する計画だ。AP209は同社が開発中の変形性関節症新薬で、治験承認の可否と投与開始時期が今後の開発進行における主要な要素になる見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Aprogen AP209临床审批最快5月底落地，计划8月初患者给药",
-        "excerpt": "Aprogen表示，退行性关节炎新药AP209临床试验审批预计5月底或6月初完成，公司计划于8月初启动患者给药。",
-        "body": "Aprogen表示，公司已于3月向韩国食品医药品安全处提交退行性关节炎新药候选物AP209的临床试验批准申请，目前正在进行协商和补充程序。公司预计，审批时间最快为5月底，或在6月初完成。若审批程序结束，Aprogen计划于8月初开始对患者给药。AP209是该公司正在开发的退行性关节炎新药，临床批准与首次患者给药时间将成为后续研发推进的重要变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Aprogen prevé aprobación clínica de AP209 a fines de mayo y dosis en agosto",
-        "excerpt": "Aprogen dijo que la aprobación del ensayo de AP209 para osteoartritis podría llegar a fines de mayo o inicios de junio, con dosis a pacientes previstas para agosto.",
-        "body": "Aprogen informó que en marzo presentó ante el Ministerio de Seguridad de Alimentos y Medicamentos de Corea del Sur la solicitud de aprobación para el ensayo clínico de AP209, su candidato a fármaco para la osteoartritis, y que actualmente avanza en consultas y complementos. La compañía espera que la aprobación llegue, como pronto, a fines de mayo o, en su defecto, a comienzos de junio. Una vez concluido el proceso, Aprogen planea iniciar la administración a pacientes a principios de agosto. AP209 es un nuevo fármaco para osteoartritis en desarrollo por la empresa, y el calendario de aprobación y dosificación será clave para la siguiente etapa. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Aprogen espera aprovação clínica do AP209 até fim de maio e dose em agosto",
-        "excerpt": "Aprogen afirmou que a aprovação do ensaio do AP209 para osteoartrite pode ocorrer no fim de maio ou início de junho, com administração a pacientes prevista para agosto.",
-        "body": "Aprogen informou que apresentou em março ao Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul o pedido de aprovação de ensaio clínico para o AP209, seu candidato a medicamento para osteoartrite, e que atualmente passa por consultas e complementações. A empresa espera que a aprovação ocorra já no fim de maio ou, no máximo, no início de junho. Após a conclusão do processo, a Aprogen planeja iniciar a administração em pacientes no começo de agosto. O AP209 é um novo medicamento para osteoartrite em desenvolvimento pela companhia, e o cronograma de aprovação e dosagem será relevante para a próxima fase. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Aprogen erwartet AP209-Studienzulassung bis Ende Mai, Dosierung Anfang August",
-        "excerpt": "Aprogen rechnet für den Osteoarthritis-Kandidaten AP209 mit einer Studienzulassung Ende Mai oder Anfang Juni und plant die erste Patientengabe Anfang August.",
-        "body": "Aprogen teilte mit, im März bei Südkoreas Ministerium für Lebensmittel- und Arzneimittelsicherheit einen Antrag auf Genehmigung einer klinischen Studie für AP209, einen Wirkstoffkandidaten gegen Osteoarthritis, eingereicht zu haben. Derzeit laufen Abstimmungen und Ergänzungen. Das Unternehmen erwartet die Zulassung frühestens Ende Mai oder andernfalls Anfang Juni. Nach Abschluss des Verfahrens plant Aprogen, Anfang August mit der Verabreichung an Patienten zu beginnen. AP209 ist ein von dem Unternehmen entwickeltes neues Osteoarthritis-Medikament; der Zeitpunkt der Studienzulassung und der ersten Dosierung dürfte für den weiteren Entwicklungsverlauf wichtig sein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Aprogen vise une approbation clinique d’AP209 fin mai et un dosage en août",
-        "excerpt": "Aprogen indique que l’essai clinique d’AP209 contre l’arthrose pourrait être approuvé fin mai ou début juin, avec une administration aux patients prévue début août.",
-        "body": "Aprogen a annoncé avoir déposé en mars auprès du ministère sud-coréen de la Sécurité des aliments et des médicaments une demande d’autorisation d’essai clinique pour AP209, son candidat médicament contre l’arthrose, et poursuivre actuellement les discussions et compléments requis. La société prévoit une approbation dès la fin mai, ou au plus tard début juin. Une fois la procédure achevée, Aprogen compte commencer l’administration aux patients début août. AP209 est un nouveau traitement contre l’arthrose en développement par l’entreprise, et le calendrier d’approbation ainsi que le début du dosage seront des éléments importants pour la suite du développement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أبروجين تتوقع موافقة تجربة AP209 بنهاية مايو وتخطط للجرعات في أوائل أغسطس",
-        "excerpt": "قالت أبروجين إن موافقة تجربة دواء AP209 لالتهاب المفاصل التنكسي قد تصدر في أواخر مايو أو أوائل يونيو، مع بدء إعطاء المرضى في أوائل أغسطس.",
-        "body": "أعلنت أبروجين أنها قدمت في مارس طلب الموافقة على تجربة سريرية لمرشحها الدوائي AP209 لعلاج التهاب المفاصل التنكسي إلى وزارة سلامة الغذاء والدواء في كوريا الجنوبية، وأنها تجري حاليا مشاورات وإجراءات استكمال. وتتوقع الشركة صدور الموافقة في أقرب تقدير بنهاية مايو أو في أوائل يونيو. وبعد اكتمال إجراءات الموافقة، تخطط أبروجين لبدء إعطاء الدواء للمرضى في أوائل أغسطس. ويعد AP209 دواء جديدا لالتهاب المفاصل التنكسي تطوره الشركة، ومن المتوقع أن يكون توقيت الموافقة وبدء الجرعات عاملا مهما في مسار التطوير المقبل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Aprogen AP209 ट्रायल मंजूरी मई अंत तक संभावित, अगस्त शुरुआत में डोजिंग योजना",
-        "excerpt": "Aprogen ने कहा कि ऑस्टियोआर्थराइटिस दवा AP209 के क्लिनिकल ट्रायल को मई अंत या जून शुरुआत में मंजूरी मिल सकती है और मरीजों को अगस्त शुरुआत में डोज देने की योजना है।",
-        "body": "Aprogen ने बताया कि उसने मार्च में ऑस्टियोआर्थराइटिस दवा उम्मीदवार AP209 के क्लिनिकल ट्रायल की मंजूरी के लिए आवेदन दक्षिण कोरिया के खाद्य एवं औषधि सुरक्षा मंत्रालय को सौंपा था और फिलहाल चर्चा तथा पूरक प्रक्रिया जारी है। कंपनी को उम्मीद है कि मंजूरी जल्द से जल्द मई के अंत में या जून की शुरुआत में मिल सकती है। मंजूरी प्रक्रिया पूरी होने के बाद Aprogen अगस्त की शुरुआत में मरीजों को डोज देना शुरू करने की योजना बना रही है। AP209 कंपनी द्वारा विकसित की जा रही ऑस्टियोआर्थराइटिस की नई दवा है, और ट्रायल मंजूरी तथा पहली डोजिंग का समय आगे के विकास के लिए अहम रहेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aprogen Perkirakan Persetujuan Uji AP209 Akhir Mei, Dosis Awal Agustus",
-        "excerpt": "Aprogen menyatakan persetujuan uji klinis AP209 untuk osteoartritis diperkirakan keluar akhir Mei atau awal Juni, dengan pemberian dosis pasien direncanakan awal Agustus.",
-        "body": "Aprogen menyatakan telah mengajukan permohonan persetujuan uji klinis untuk AP209, kandidat obat osteoartritis yang sedang dikembangkan, kepada Kementerian Keamanan Pangan dan Obat Korea Selatan pada Maret, dan saat ini menjalani proses konsultasi serta pelengkapan. Perusahaan memperkirakan persetujuan dapat keluar paling cepat akhir Mei atau pada awal Juni. Setelah proses persetujuan selesai, Aprogen berencana memulai pemberian dosis kepada pasien pada awal Agustus. AP209 adalah obat baru osteoartritis yang dikembangkan perusahaan, dan waktu persetujuan uji klinis serta awal pemberian dosis akan menjadi faktor penting bagi kelanjutan pengembangan. Sumber: mk.co.kr"
       }
     }
   }
