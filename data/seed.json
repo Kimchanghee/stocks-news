@@ -1,5 +1,230 @@
 [
   {
+    "id": "6883ae35b5aa",
+    "slug": "박현주의-투자-보국미래에셋-업계-최초-분기-순이익-1조-달성-508036",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T05:57:36.601Z",
+    "updatedAt": "2026-05-12T05:57:36.601Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051208476",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051208476",
+    "titleFingerprint": "601ac70f2d782cd43ab49212d096e1366f12e14f",
+    "dedupKeys": [
+      "6883ae35b5aadc46c9e6d27064634caafe423879",
+      "601ac70f2d782cd43ab49212d096e1366f12e14f",
+      "7bddc7ad21bd4f3e7d33828cbef3119e5d8a4e6b"
+    ],
+    "imageUrl": "/images/articles/6883ae35b5aa.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋, 업계 최초 분기 순이익 1조 달성…박현주 ‘투자 보국’ 성과 주목",
+        "excerpt": "미래에셋이 업계 최초로 분기 순이익 1조원을 달성했다. 박현주 회장의 ‘투자 보국’ 철학과 맞물린 성과로 평가되며 금융투자업계의 수익성 지표에 관심이 쏠린다.",
+        "body": "미래에셋이 업계 최초로 분기 순이익 1조원을 달성했다고 hankyung.com이 전했다. 이번 성과는 박현주 회장이 강조해 온 ‘투자 보국’ 기조와 함께 조명되고 있다. 핵심 수치는 분기 기준 순이익 1조원으로, 업계에서 처음 확인된 기록이라는 점이 기사 제목의 중심이다. 금융투자업계에서는 대형 증권사의 수익 체력과 사업 경쟁력을 가늠하는 지표로 분기 순이익이 주목받는다. 미래에셋의 이번 실적은 업계 내 수익성 경쟁과 경영 전략 평가에 영향을 줄 수 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Mirae Asset Hits Industry-First 1 Trillion Won Quarterly Net Profit, Spotlight on Park Hyun-joo",
+        "excerpt": "Mirae Asset became the first in its industry to post 1 trillion won in quarterly net profit, drawing attention to the result linked with Park Hyun-joo’s “investment for the nation” philosophy.",
+        "body": "Mirae Asset has achieved an industry-first quarterly net profit of 1 trillion won, according to hankyung.com. The result is being viewed alongside Chairman Park Hyun-joo’s long-emphasized idea of “investment for the nation.” The key figure is 1 trillion won in net profit for a single quarter, described in the source headline as the first such record in the industry. In the financial investment sector, quarterly net profit is watched as a measure of a major securities firm’s earnings capacity and business competitiveness. Mirae Asset’s performance may influence how profitability competition and management strategy are assessed across the industry. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "未来アセット、業界初の四半期純利益1兆ウォン達成…朴炫柱氏の投資報国に注目",
+        "excerpt": "未来アセットが業界で初めて四半期純利益1兆ウォンを達成した。朴炫柱会長の「投資報国」理念と結び付く成果として、金融投資業界の収益性指標に関心が集まっている。",
+        "body": "未来アセットが業界で初めて四半期純利益1兆ウォンを達成したと、hankyung.comが伝えた。今回の成果は、朴炫柱会長が強調してきた「投資報国」の基調とともに注目されている。中心となる数値は四半期ベースの純利益1兆ウォンで、業界で初めて確認された記録だという点が記事見出しの核心だ。金融投資業界では、大手証券会社の収益力と事業競争力を測る指標として四半期純利益が注視される。未来アセットの今回の実績は、業界内の収益性競争と経営戦略の評価に影響を与える可能性がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "未来资产季度净利润首次达1万亿韩元，朴炫柱“投资报国”成果受关注",
+        "excerpt": "未来资产成为业内首家实现季度净利润1万亿韩元的公司。这一成绩与朴炫柱会长提出的“投资报国”理念相联系，引发市场对金融投资行业盈利能力的关注。",
+        "body": "据 hankyung.com 报道，未来资产成为业内首家实现季度净利润1万亿韩元的公司。此次成绩也与朴炫柱会长长期强调的“投资报国”理念一同受到关注。核心数据是单季度净利润1万亿韩元，报道标题强调这是行业首次出现的纪录。在金融投资行业，季度净利润通常被视为衡量大型证券公司盈利能力和业务竞争力的重要指标。未来资产此次业绩，可能影响业内对盈利竞争和经营战略的评价。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Mirae Asset logra por primera vez en la industria 1 billón de wones de beneficio trimestral",
+        "excerpt": "Mirae Asset fue la primera de su industria en alcanzar 1 billón de wones de beneficio neto trimestral, un resultado vinculado a la filosofía de “inversión por la nación” de Park Hyun-joo.",
+        "body": "Mirae Asset alcanzó un beneficio neto trimestral de 1 billón de wones, el primero de este tipo en la industria, según informó hankyung.com. El resultado se observa junto con la filosofía de “inversión por la nación” que ha destacado el presidente Park Hyun-joo. La cifra clave es un beneficio neto de 1 billón de wones en un trimestre, señalado en el titular original como un récord inicial para el sector. En la industria de inversión financiera, el beneficio neto trimestral se sigue como indicador de capacidad de ganancias y competitividad de las grandes firmas de valores. Este desempeño de Mirae Asset puede influir en la evaluación de la rentabilidad y la estrategia de gestión del sector. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Mirae Asset atinge lucro trimestral inédito de 1 trilhão de wons no setor",
+        "excerpt": "A Mirae Asset tornou-se a primeira do setor a registrar 1 trilhão de wons em lucro líquido trimestral, resultado associado à filosofia de “investimento pela nação” de Park Hyun-joo.",
+        "body": "A Mirae Asset alcançou lucro líquido trimestral de 1 trilhão de wons, um feito inédito no setor, segundo o hankyung.com. O resultado é destacado junto à filosofia de “investimento pela nação” defendida pelo presidente Park Hyun-joo. O número central é o lucro líquido de 1 trilhão de wons em um único trimestre, apresentado no título original como o primeiro registro desse porte na indústria. No setor de investimentos financeiros, o lucro líquido trimestral é acompanhado como medida da capacidade de geração de resultados e da competitividade das grandes corretoras. O desempenho da Mirae Asset pode influenciar a avaliação da disputa por rentabilidade e das estratégias de gestão no setor. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Mirae Asset erzielt branchenweit erstmals 1 Billion Won Quartalsgewinn, Park Hyun-joo im Fokus",
+        "excerpt": "Mirae Asset hat als erstes Unternehmen der Branche einen Quartalsüberschuss von 1 Billion Won erreicht. Das Ergebnis wird mit Park Hyun-joos Leitidee des „Investierens für die Nation“ verbunden.",
+        "body": "Mirae Asset hat als erstes Unternehmen der Branche einen Quartalsüberschuss von 1 Billion Won erzielt, berichtete hankyung.com. Das Ergebnis wird im Zusammenhang mit der von Chairman Park Hyun-joo betonten Leitidee des „Investierens für die Nation“ betrachtet. Die zentrale Kennzahl ist ein Nettogewinn von 1 Billion Won in einem Quartal, der im Ursprungstitel als erste derartige Marke in der Branche hervorgehoben wird. In der Finanzinvestmentbranche gilt der Quartalsüberschuss als Maßstab für Ertragskraft und Wettbewerbsfähigkeit großer Wertpapierhäuser. Die Leistung von Mirae Asset kann die Bewertung von Profitabilitätswettbewerb und Managementstrategie in der Branche beeinflussen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Mirae Asset atteint le premier bénéfice trimestriel de 1 000 milliards de wons du secteur",
+        "excerpt": "Mirae Asset est devenu le premier acteur de son secteur à réaliser 1 000 milliards de wons de bénéfice net trimestriel, un résultat associé à la philosophie d’« investissement pour la nation » de Park Hyun-joo.",
+        "body": "Mirae Asset a réalisé un bénéfice net trimestriel de 1 000 milliards de wons, une première dans son secteur, selon hankyung.com. Ce résultat est mis en perspective avec la philosophie d’« investissement pour la nation » défendue par le président Park Hyun-joo. Le chiffre central est un bénéfice net de 1 000 milliards de wons sur un trimestre, présenté dans le titre d’origine comme un record inédit pour l’industrie. Dans le secteur de l’investissement financier, le bénéfice net trimestriel est suivi comme indicateur de la capacité bénéficiaire et de la compétitivité des grandes sociétés de courtage. La performance de Mirae Asset pourrait peser sur l’évaluation de la concurrence en matière de rentabilité et des stratégies de gestion. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "ميراي أسيت تحقق أول صافي ربح فصلي بقيمة تريليون وون في القطاع مع تسليط الضوء على بارك هيون جو",
+        "excerpt": "حققت ميراي أسيت أول صافي ربح فصلي في القطاع بقيمة تريليون وون، في نتيجة ترتبط بفلسفة بارك هيون جو حول “الاستثمار من أجل الوطن” وتجذب اهتمام قطاع الاستثمار المالي.",
+        "body": "أفاد موقع hankyung.com بأن ميراي أسيت حققت صافي ربح فصلي قدره تريليون وون، لتصبح الأولى في القطاع التي تصل إلى هذا الرقم. وتُسلط الأضواء على هذه النتيجة إلى جانب نهج “الاستثمار من أجل الوطن” الذي يؤكد عليه الرئيس بارك هيون جو. الرقم المحوري هو صافي ربح بقيمة تريليون وون خلال ربع واحد، وهو ما يبرزه العنوان الأصلي باعتباره أول سجل من نوعه في الصناعة. في قطاع الاستثمار المالي، يُنظر إلى صافي الربح الفصلي كمؤشر على قوة الأرباح والقدرة التنافسية لدى شركات الأوراق المالية الكبرى. وقد تؤثر نتيجة ميراي أسيت في تقييم المنافسة على الربحية واستراتيجيات الإدارة داخل القطاع. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Mirae Asset ने उद्योग में पहली बार तिमाही शुद्ध लाभ 1 ट्रिलियन वॉन हासिल किया",
+        "excerpt": "Mirae Asset ने उद्योग में पहली बार 1 ट्रिलियन वॉन का तिमाही शुद्ध लाभ दर्ज किया। यह उपलब्धि Park Hyun-joo की “राष्ट्र के लिए निवेश” सोच से जुड़ी मानी जा रही है।",
+        "body": "hankyung.com के अनुसार, Mirae Asset ने उद्योग में पहली बार 1 ट्रिलियन वॉन का तिमाही शुद्ध लाभ हासिल किया है। इस उपलब्धि को चेयरमैन Park Hyun-joo द्वारा जोर दिए गए “राष्ट्र के लिए निवेश” दृष्टिकोण के साथ देखा जा रहा है। मुख्य आंकड़ा एक तिमाही में 1 ट्रिलियन वॉन का शुद्ध लाभ है, जिसे मूल शीर्षक में उद्योग का पहला ऐसा रिकॉर्ड बताया गया है। वित्तीय निवेश उद्योग में तिमाही शुद्ध लाभ बड़ी प्रतिभूति कंपनियों की कमाई की क्षमता और कारोबारी प्रतिस्पर्धा को मापने वाला संकेतक माना जाता है। Mirae Asset का यह प्रदर्शन उद्योग में लाभप्रदता की प्रतिस्पर्धा और प्रबंधन रणनीति के आकलन को प्रभावित कर सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Mirae Asset Cetak Laba Bersih Kuartalan 1 Triliun Won, Pertama di Industri",
+        "excerpt": "Mirae Asset menjadi yang pertama di industrinya mencatat laba bersih kuartalan 1 triliun won, hasil yang dikaitkan dengan filosofi “investasi untuk negara” dari Park Hyun-joo.",
+        "body": "Mirae Asset mencatat laba bersih kuartalan 1 triliun won, yang pertama di industri, menurut hankyung.com. Capaian ini disorot bersama prinsip “investasi untuk negara” yang ditekankan Chairman Park Hyun-joo. Angka utama adalah laba bersih 1 triliun won dalam satu kuartal, disebut dalam judul sumber sebagai rekor pertama yang terkonfirmasi di industri. Di sektor investasi keuangan, laba bersih kuartalan menjadi indikator untuk menilai kekuatan pendapatan dan daya saing bisnis perusahaan sekuritas besar. Kinerja Mirae Asset ini dapat memengaruhi penilaian terhadap persaingan profitabilitas dan strategi manajemen di industri. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "b08cd0a194ed",
+    "slug": "mk-골든크로스-돌파종목-에이치브이엠295310-펩트론087010-979378",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T05:56:12.845Z",
+    "updatedAt": "2026-05-12T05:56:12.845Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044326",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044326",
+    "titleFingerprint": "8a440f3a790b528d96b15fc875891f2c9f9f855e",
+    "dedupKeys": [
+      "b08cd0a194ed70d6208a698f8f51b5d65ddf91b7",
+      "8a440f3a790b528d96b15fc875891f2c9f9f855e",
+      "0a36f1878683107d93c6e3aeb08ff598743eba19"
+    ],
+    "imageUrl": "/images/articles/b08cd0a194ed.jpg",
+    "i18n": {
+      "ko": {
+        "title": "에이치브이엠·펩트론, MK 골든크로스 돌파종목으로 분석",
+        "excerpt": "AI 기자 MK시그널은 mk.co.kr을 통해 오늘 국내 핫 이슈 골든크로스 종목으로 에이치브이엠(295310)과 펩트론(087010)을 분석했다고 전했다.",
+        "body": "AI 기자 ‘MK시그널’은 오늘 국내 증시에서 주목할 골든크로스 돌파종목으로 에이치브이엠(295310)과 펩트론(087010)을 분석했다. 원문은 국내 핫 이슈 종목을 분석하는 MK시그널 콘텐츠로, 제목에서 두 종목을 ‘MK 골든크로스 돌파종목’으로 제시했다. 요약에 따르면 이번 분석 대상은 에이치브이엠과 펩트론이며, 각각 종목코드 295310과 087010으로 표기됐다. 골든크로스 관련 종목으로 언급된 만큼 투자자들의 단기 관심이 이어질 수 있으나, 원문에는 추가 수치나 세부 전망은 공개되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "HVM and Peptron Named MK Golden Cross Breakout Stocks",
+        "excerpt": "AI reporter MK Signal said via mk.co.kr that it analyzed HVM (295310) and Peptron (087010) today as hot Korean golden cross breakout stocks.",
+        "body": "AI reporter “MK Signal” analyzed HVM (295310) and Peptron (087010) today as golden cross breakout stocks to watch in the Korean stock market. The original item is part of MK Signal’s coverage of hot domestic stocks, and its headline presents the two companies as “MK Golden Cross breakout stocks.” According to the summary, the stocks covered in this analysis are HVM and Peptron, listed with ticker codes 295310 and 087010. As they were mentioned in relation to a golden cross, they may draw short-term investor attention, but the original text did not provide additional figures or detailed forecasts. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "HVM・ペプトロン、MKゴールデンクロス突破銘柄に",
+        "excerpt": "AI記者MKシグナルはmk.co.krを通じ、今日の韓国市場の注目ゴールデンクロス銘柄としてHVM(295310)とペプトロン(087010)を分析したと伝えた。",
+        "body": "AI記者「MKシグナル」は今日、韓国株式市場で注目すべきゴールデンクロス突破銘柄としてHVM(295310)とペプトロン(087010)を分析した。原文は国内のホットイシュー銘柄を分析するMKシグナルのコンテンツで、見出しでは両銘柄を「MKゴールデンクロス突破銘柄」として提示している。要約によると、今回の分析対象はHVMとペプトロンで、それぞれ銘柄コード295310、087010と表記された。ゴールデンクロス関連銘柄として言及されたことで投資家の短期的な関心を集める可能性はあるが、原文には追加の数値や詳細な見通しは示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "HVM与Peptron被列为MK金叉突破关注股",
+        "excerpt": "AI记者MK Signal通过mk.co.kr表示，今日分析的韩国热门金叉突破个股为HVM(295310)和Peptron(087010)。",
+        "body": "AI记者“MK Signal”今日分析称，韩国股市值得关注的金叉突破个股为HVM(295310)和Peptron(087010)。原文属于MK Signal对韩国热门议题股票的分析内容，标题中将这两只股票列为“MK金叉突破个股”。摘要显示，本次分析对象为HVM和Peptron，股票代码分别标注为295310和087010。由于两家公司被提及为金叉相关个股，短期内可能受到投资者关注，但原文未披露更多具体数据或详细展望。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "HVM y Peptron figuran como acciones MK con cruce dorado",
+        "excerpt": "El reportero de IA MK Signal informó en mk.co.kr que hoy analizó HVM (295310) y Peptron (087010) como valores coreanos destacados por cruce dorado.",
+        "body": "El reportero de IA “MK Signal” analizó hoy a HVM (295310) y Peptron (087010) como acciones con ruptura de cruce dorado a seguir en el mercado bursátil coreano. El texto original forma parte del contenido de MK Signal dedicado a valores nacionales de alta atención, y el titular presenta a ambas compañías como “acciones MK de ruptura de cruce dorado”. Según el resumen, los valores analizados son HVM y Peptron, identificados con los códigos 295310 y 087010. Al ser mencionados por un cruce dorado, podrían atraer interés de corto plazo, aunque el original no ofrece cifras adicionales ni previsiones detalladas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "HVM e Peptron são citadas como ações MK de cruzamento dourado",
+        "excerpt": "O repórter de IA MK Signal informou no mk.co.kr que analisou hoje HVM (295310) e Peptron (087010) como ações coreanas em destaque por cruzamento dourado.",
+        "body": "O repórter de IA “MK Signal” analisou hoje HVM (295310) e Peptron (087010) como ações de rompimento por cruzamento dourado a observar no mercado acionário coreano. O texto original faz parte do conteúdo da MK Signal sobre ações domésticas em evidência, e o título apresenta as duas empresas como “ações MK de cruzamento dourado”. Segundo o resumo, os papéis analisados foram HVM e Peptron, identificados pelos códigos 295310 e 087010. Como foram mencionados em relação a um cruzamento dourado, podem atrair atenção de curto prazo dos investidores, mas o original não trouxe números adicionais nem perspectivas detalhadas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "HVM und Peptron als MK-Golden-Cross-Ausbruchswerte genannt",
+        "excerpt": "Der KI-Reporter MK Signal teilte über mk.co.kr mit, dass heute HVM (295310) und Peptron (087010) als koreanische Golden-Cross-Ausbruchswerte analysiert wurden.",
+        "body": "Der KI-Reporter „MK Signal“ analysierte heute HVM (295310) und Peptron (087010) als Golden-Cross-Ausbruchswerte, die am koreanischen Aktienmarkt im Fokus stehen. Der Originalbeitrag gehört zu den MK-Signal-Inhalten über stark beachtete inländische Aktien, und die Überschrift stellt beide Unternehmen als „MK Golden Cross breakout stocks“ dar. Laut Zusammenfassung sind HVM und Peptron die analysierten Werte, mit den Codes 295310 und 087010. Da sie im Zusammenhang mit einem Golden Cross genannt wurden, könnten sie kurzfristig Anlegerinteresse auf sich ziehen. Weitere Kennzahlen oder detaillierte Prognosen wurden im Original jedoch nicht veröffentlicht. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "HVM et Peptron cités comme valeurs MK à croisement doré",
+        "excerpt": "Le journaliste IA MK Signal a indiqué sur mk.co.kr avoir analysé aujourd’hui HVM (295310) et Peptron (087010) comme valeurs coréennes liées à un croisement doré.",
+        "body": "Le journaliste IA « MK Signal » a analysé aujourd’hui HVM (295310) et Peptron (087010) comme valeurs à surveiller pour un franchissement de croisement doré sur le marché boursier coréen. L’article original fait partie des contenus de MK Signal consacrés aux actions coréennes très suivies, et son titre présente les deux sociétés comme des « valeurs MK à croisement doré ». Selon le résumé, l’analyse porte sur HVM et Peptron, identifiées par les codes 295310 et 087010. Leur mention dans ce contexte peut attirer l’attention de court terme des investisseurs, mais le texte original ne fournit pas de chiffres supplémentaires ni de perspectives détaillées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "إدراج HVM وPeptron ضمن أسهم MK لاختراق التقاطع الذهبي",
+        "excerpt": "أفاد مراسل الذكاء الاصطناعي MK Signal عبر mk.co.kr بأنه حلل اليوم HVM (295310) وPeptron (087010) كأسهم كورية بارزة مرتبطة باختراق التقاطع الذهبي.",
+        "body": "حلل مراسل الذكاء الاصطناعي “MK Signal” اليوم سهمي HVM (295310) وPeptron (087010) بوصفهما من أسهم اختراق التقاطع الذهبي الجديرة بالمتابعة في سوق الأسهم الكورية. النص الأصلي يندرج ضمن محتوى MK Signal الذي يحلل الأسهم المحلية ذات الاهتمام المرتفع، ويعرض العنوان الشركتين على أنهما من “أسهم MK لاختراق التقاطع الذهبي”. ووفق الملخص، فإن موضوع التحليل هو HVM وPeptron، مع رمزي التداول 295310 و087010. وبما أنهما ذُكرا في سياق التقاطع الذهبي، فقد يجذبان اهتمام المستثمرين على المدى القصير، لكن النص الأصلي لم يقدم أرقاما إضافية أو توقعات تفصيلية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "HVM और Peptron MK गोल्डन क्रॉस ब्रेकआउट शेयरों में शामिल",
+        "excerpt": "AI रिपोर्टर MK Signal ने mk.co.kr के जरिए बताया कि आज HVM (295310) और Peptron (087010) को कोरियाई गोल्डन क्रॉस ब्रेकआउट शेयरों के रूप में विश्लेषित किया गया।",
+        "body": "AI रिपोर्टर “MK Signal” ने आज कोरियाई शेयर बाजार में ध्यान देने योग्य गोल्डन क्रॉस ब्रेकआउट शेयरों के रूप में HVM (295310) और Peptron (087010) का विश्लेषण किया। मूल सामग्री MK Signal की घरेलू हॉट इश्यू शेयरों पर केंद्रित रिपोर्ट का हिस्सा है, और शीर्षक में दोनों कंपनियों को “MK गोल्डन क्रॉस ब्रेकआउट शेयर” के रूप में प्रस्तुत किया गया है। सारांश के अनुसार, इस विश्लेषण का विषय HVM और Peptron हैं, जिनके कोड क्रमशः 295310 और 087010 हैं। गोल्डन क्रॉस से जुड़े उल्लेख के कारण ये शेयर अल्पकालिक निवेशक रुचि आकर्षित कर सकते हैं, लेकिन मूल पाठ में अतिरिक्त आंकड़े या विस्तृत पूर्वानुमान नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "HVM dan Peptron Masuk Saham MK Golden Cross Breakout",
+        "excerpt": "Reporter AI MK Signal melalui mk.co.kr menyatakan bahwa hari ini HVM (295310) dan Peptron (087010) dianalisis sebagai saham Korea bertema golden cross breakout.",
+        "body": "Reporter AI “MK Signal” hari ini menganalisis HVM (295310) dan Peptron (087010) sebagai saham golden cross breakout yang perlu diperhatikan di pasar saham Korea. Artikel asli merupakan bagian dari konten MK Signal yang membahas saham domestik dengan isu hangat, dan judulnya menampilkan kedua emiten tersebut sebagai “saham MK golden cross breakout”. Menurut ringkasan, objek analisis kali ini adalah HVM dan Peptron, masing-masing dengan kode saham 295310 dan 087010. Karena disebut dalam konteks golden cross, keduanya dapat menarik perhatian jangka pendek investor, tetapi teks asli tidak memuat angka tambahan atau prospek terperinci. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "04b32cc8141c",
+    "slug": "업비트-코인-10종목-중-9은-상승세분위기-좋아진-코인시장매일코인-170958",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-12T05:55:07.551Z",
+    "updatedAt": "2026-05-12T05:55:07.551Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12044542",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044542",
+    "titleFingerprint": "56a8c9c241e66952d52b792a3526e7799fa2ee91",
+    "dedupKeys": [
+      "04b32cc8141cc20f94d50499f433ea4ce075fe33",
+      "56a8c9c241e66952d52b792a3526e7799fa2ee91",
+      "ec9baf3777b0ac390a39d27f4f97e75c00deebb3"
+    ],
+    "imageUrl": "/images/articles/04b32cc8141c.png",
+    "i18n": {
+      "ko": {
+        "title": "업비트 코인 10종목 중 9종목 상승, 비트코인 1억2000만원 회복",
+        "excerpt": "AI 열풍으로 국내외 증시 등 위험자산 선호가 살아나며 가상자산시장이 반등했고, 업비트 코인 10종목 중 9종목이 상승세를 보였다.",
+        "body": "가상자산시장이 인공지능(AI) 열풍에 따른 위험자산 강세 속에 반등세를 보였다. 국내외 증시를 포함한 위험자산 전반이 강세를 보이면서 투자 심리가 개선됐고, 업비트 거래 코인도 10종목 중 9종목이 상승 흐름을 나타냈다. 비트코인은 1억2000만원선을 회복하며 회복세를 이어갔다. 이는 AI 관련 기대감이 증시를 넘어 가상자산시장 분위기에도 영향을 준 흐름으로 해석된다. 다만 원문은 상승 배경과 회복세를 중심으로 전했으며 추가 전망 수치는 제시하지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Upbit Coins Rise in 9 of 10 Listings as Bitcoin Reclaims 120 Million Won",
+        "excerpt": "As the AI boom lifted risk assets including Korean and global stocks, the crypto market rebounded, with 9 of 10 Upbit coins showing gains.",
+        "body": "The cryptocurrency market rebounded as risk assets strengthened on enthusiasm around artificial intelligence. With domestic and overseas stock markets broadly firm, investor sentiment improved, and 9 out of 10 coins traded on Upbit showed an upward trend. Bitcoin also recovered the 120 million won level and continued its rebound. The move suggests that AI-driven expectations affecting equity markets also helped improve the tone in the crypto market. The original report focused on the recovery trend and its background, without presenting additional forecast figures. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "アップビット銘柄の9割が上昇、ビットコインは1億2000万ウォン回復",
+        "excerpt": "AIブームで国内外株式などリスク資産が強含み、暗号資産市場も反発。アップビット銘柄は10種中9種が上昇した。",
+        "body": "暗号資産市場は、人工知能（AI）ブームを背景にリスク資産が全般的に強含むなか反発した。国内外の株式市場を含むリスク資産への選好が戻り、投資心理が改善したことで、アップビットで取引されるコインは10銘柄中9銘柄が上昇基調を示した。ビットコインも1億2000万ウォン台を回復し、持ち直しの流れを続けた。AI関連の期待感が株式市場を越えて暗号資産市場の雰囲気にも影響した動きと受け止められる。原文は上昇の背景と回復傾向を中心に伝え、追加の見通し数値は示していない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Upbit币种十有九涨，比特币重回1.2亿韩元关口",
+        "excerpt": "受AI热潮带动，韩国及海外股市等风险资产走强，加密资产市场反弹，Upbit 10个币种中有9个上涨。",
+        "body": "在人工智能（AI）热潮推动风险资产整体走强的背景下，加密资产市场出现反弹。包括韩国及海外股市在内的风险资产普遍表现强势，投资情绪有所改善，Upbit交易的币种中10个有9个呈现上涨走势。比特币也收复1.2亿韩元关口，延续回升态势。这一走势可被理解为AI相关预期不仅影响股市，也改善了加密资产市场氛围。原文主要报道上涨背景和恢复趋势，未给出进一步预测数据。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Upbit ve subir 9 de cada 10 monedas y bitcoin recupera 120 millones de wones",
+        "excerpt": "El auge de la IA impulsó activos de riesgo, incluidas bolsas locales y globales, y el mercado cripto rebotó con 9 de 10 monedas de Upbit al alza.",
+        "body": "El mercado de criptoactivos rebotó en medio de la fortaleza general de los activos de riesgo impulsada por el entusiasmo por la inteligencia artificial. Con las bolsas nacionales e internacionales firmes, mejoró el ánimo inversor y 9 de cada 10 monedas negociadas en Upbit mostraron una tendencia alcista. Bitcoin también recuperó el nivel de 120 millones de wones y mantuvo su recuperación. El movimiento indica que las expectativas ligadas a la IA, visibles en las bolsas, también influyeron en el tono del mercado cripto. El reporte original se centró en el contexto de la subida y la recuperación, sin ofrecer cifras adicionales de previsión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Upbit tem alta em 9 de 10 moedas, e bitcoin recupera 120 milhões de wones",
+        "excerpt": "Com o entusiasmo por IA elevando ativos de risco, incluindo bolsas locais e globais, o mercado cripto reagiu e 9 de 10 moedas da Upbit subiram.",
+        "body": "O mercado de criptoativos voltou a subir em meio à força generalizada dos ativos de risco impulsionada pelo entusiasmo com inteligência artificial. Com bolsas domésticas e internacionais em alta, o sentimento dos investidores melhorou, e 9 de cada 10 moedas negociadas na Upbit mostraram tendência positiva. O bitcoin também recuperou o nível de 120 milhões de wones e manteve o movimento de recuperação. O avanço indica que as expectativas ligadas à IA, que sustentam as ações, também influenciaram o clima do mercado cripto. A reportagem original destacou o pano de fundo da alta e a recuperação, sem apresentar projeções adicionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Upbit-Coins: 9 von 10 im Plus, Bitcoin zurück bei 120 Millionen Won",
+        "excerpt": "Der KI-Boom stärkte Risikoanlagen wie koreanische und internationale Aktien, wodurch auch der Kryptomarkt anzog und 9 von 10 Upbit-Coins stiegen.",
+        "body": "Der Markt für Kryptowährungen hat sich erholt, während Risikoanlagen durch die Begeisterung für künstliche Intelligenz insgesamt Stärke zeigten. Da inländische und internationale Aktienmärkte fest tendierten, verbesserte sich die Anlegerstimmung, und 9 von 10 auf Upbit gehandelten Coins verzeichneten eine Aufwärtsbewegung. Bitcoin eroberte zudem die Marke von 120 Millionen Won zurück und setzte seine Erholung fort. Die Entwicklung zeigt, dass KI-bezogene Erwartungen nicht nur Aktienmärkte, sondern auch die Stimmung am Kryptomarkt beeinflussten. Der Originalbericht konzentrierte sich auf Hintergrund und Erholung, ohne zusätzliche Prognosezahlen zu nennen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Upbit: 9 cryptos sur 10 en hausse, le bitcoin retrouve 120 millions de wons",
+        "excerpt": "Porté par l’essor de l’IA et le regain d’appétit pour les actifs risqués, le marché crypto a rebondi avec 9 cryptos Upbit sur 10 en hausse.",
+        "body": "Le marché des cryptoactifs a rebondi dans un contexte de vigueur générale des actifs risqués, soutenue par l’engouement pour l’intelligence artificielle. Alors que les marchés actions nationaux et internationaux progressaient, le sentiment des investisseurs s’est amélioré, et 9 cryptomonnaies sur 10 échangées sur Upbit ont affiché une tendance haussière. Le bitcoin a également retrouvé le seuil de 120 millions de wons et poursuivi son redressement. Ce mouvement montre que les attentes liées à l’IA, déjà visibles sur les marchés actions, ont aussi influencé l’ambiance du marché crypto. L’article original s’est concentré sur le contexte de la hausse et la reprise, sans fournir de prévisions chiffrées supplémentaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "عملات Upbit ترتفع في 9 من كل 10، وبيتكوين تستعيد 120 مليون وون",
+        "excerpt": "مع دعم طفرة الذكاء الاصطناعي للأصول عالية المخاطر، بما فيها الأسهم المحلية والعالمية، ارتد سوق العملات المشفرة وصعدت 9 من 10 عملات على Upbit.",
+        "body": "شهد سوق الأصول المشفرة تعافيا مع صعود الأصول عالية المخاطر عموما بدعم من الحماس للذكاء الاصطناعي. ومع قوة أسواق الأسهم المحلية والخارجية، تحسنت معنويات المستثمرين، وأظهرت 9 من كل 10 عملات متداولة على منصة Upbit اتجاها صاعدا. كما استعادت بيتكوين مستوى 120 مليون وون وواصلت مسار التعافي. ويعكس ذلك أن التوقعات المرتبطة بالذكاء الاصطناعي، التي دعمت أسواق الأسهم، أثرت أيضا في أجواء سوق العملات المشفرة. ركز التقرير الأصلي على خلفية الصعود ومسار التعافي، من دون تقديم أرقام إضافية للتوقعات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Upbit पर 10 में 9 कॉइन चढ़े, बिटकॉइन 12 करोड़ वॉन स्तर पर लौटा",
+        "excerpt": "AI उत्साह से कोरियाई और वैश्विक शेयरों सहित जोखिम वाली संपत्तियों में तेजी आई, जिससे क्रिप्टो बाजार उछला और Upbit के 10 में 9 कॉइन बढ़े।",
+        "body": "कृत्रिम बुद्धिमत्ता (AI) को लेकर उत्साह के बीच जोखिम वाली संपत्तियों में व्यापक मजबूती आने से क्रिप्टोकरेंसी बाजार में सुधार दिखा। घरेलू और विदेशी शेयर बाजारों सहित जोखिम संपत्तियों में तेजी से निवेशक धारणा बेहतर हुई, और Upbit पर कारोबार होने वाले 10 में से 9 कॉइन बढ़त के रुझान में रहे। बिटकॉइन ने भी 12 करोड़ वॉन का स्तर फिर हासिल किया और रिकवरी जारी रखी। यह संकेत देता है कि AI से जुड़ी उम्मीदों ने शेयर बाजारों से आगे बढ़कर क्रिप्टो बाजार के माहौल को भी प्रभावित किया। मूल रिपोर्ट ने तेजी की पृष्ठभूमि और रिकवरी पर ध्यान दिया, अतिरिक्त पूर्वानुमान आंकड़े नहीं दिए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Koin Upbit Naik 9 dari 10, Bitcoin Pulih ke Level 120 Juta Won",
+        "excerpt": "Demam AI mendorong aset berisiko, termasuk saham domestik dan global, sehingga pasar kripto rebound dan 9 dari 10 koin Upbit menguat.",
+        "body": "Pasar aset kripto rebound ketika aset berisiko menguat secara luas berkat antusiasme terhadap kecerdasan buatan. Dengan pasar saham domestik dan luar negeri bergerak kuat, sentimen investor membaik, dan 9 dari 10 koin yang diperdagangkan di Upbit menunjukkan tren kenaikan. Bitcoin juga kembali menembus level 120 juta won dan melanjutkan pemulihan. Pergerakan ini menunjukkan bahwa ekspektasi terkait AI, yang mendorong pasar saham, turut memengaruhi suasana pasar kripto. Laporan asli berfokus pada latar belakang kenaikan dan tren pemulihan, tanpa menyajikan angka proyeksi tambahan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5f376d14f6ca",
     "slug": "올해-81-뛴-코스피-8000피-향해-가는데28-오른-코스닥-3천스닥-시험대-452735",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Wavebridge Mulai Kustodi Aset Hashed Usai Luncurkan Layanan Digital",
         "excerpt": "Wavebridge pada 11 hari ini menyatakan mulai mengustodi aset Hashed, VC blockchain terkemuka Korea, segera setelah meluncurkan layanan kustodi.",
         "body": "Wavebridge pada 11 hari ini menyatakan telah mulai mengustodi aset Hashed, perusahaan modal ventura blockchain representatif di Korea, segera setelah meluncurkan layanan kustodi. Pengumuman ini muncul saat Wavebridge menyediakan layanan kustodi aset digital global untuk institusi dan korporasi. Hashed diperkenalkan sebagai salah satu perusahaan modal ventura blockchain utama di Korea. Dengan memulai kustodi aset Hashed tepat setelah peluncuran layanan, Wavebridge memperoleh contoh awal untuk bisnis kustodi aset digital yang menyasar institusi dan badan usaha. Operasional layanan serta potensi perluasan pelanggan akan menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "72f424abd207",
-    "slug": "mbk-日-알루미늄-기업-인수-626547",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T14:34:07.094Z",
-    "updatedAt": "2026-05-11T14:34:07.094Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043511",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043511",
-    "titleFingerprint": "c976f27f18fb819a538789f5d97f7a5b5ca20e57",
-    "dedupKeys": [
-      "72f424abd20783f8277d052a58b6dd1fc771a5bf",
-      "c976f27f18fb819a538789f5d97f7a5b5ca20e57",
-      "b6fd6ebd31a00c700f2c1885a768c49330da1aec"
-    ],
-    "imageUrl": "/images/articles/72f424abd207.jpg",
-    "i18n": {
-      "ko": {
-        "title": "MBK파트너스, 일본 알루미늄 제조업체 인수 추진…총액 1300억엔 규모",
-        "excerpt": "MBK파트너스가 11일 보도된 니혼게이자이신문 내용에 따라 일본 알루미늄 제조업체 인수를 추진하며, 부채 포함 총 인수 금액은 약 1300억엔으로 추정된다.",
-        "body": "투자펀드 MBK파트너스가 일본 알루미늄 제조업체를 인수한다. 11일 니혼게이자이신문(닛케이) 보도에 따르면 이번 거래의 총 인수 금액은 부채를 포함해 1300억엔, 한화 약 1조2200억원으로 추정된다. 인수 대상은 일본 알루미늄 제조업체로, 구체적인 거래 구조와 세부 조건은 원문에서 제한적으로 전해졌다. 이번 인수는 MBK파트너스가 일본 제조업 자산을 확보하는 거래로 주목된다. 알루미늄은 산업용 소재로 폭넓게 쓰이는 만큼, 인수 이후 해당 기업의 사업 운영과 재무 구조 변화가 관심을 받을 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "MBK Partners to Acquire Japanese Aluminum Maker in 130 Billion Yen Deal",
-        "excerpt": "MBK Partners is set to acquire a Japanese aluminum manufacturer, according to a May 11 Nikkei report, with the total deal value including debt estimated at 130 billion yen.",
-        "body": "Investment fund MBK Partners is acquiring a Japanese aluminum manufacturer. According to a May 11 report by the Nihon Keizai Shimbun, or Nikkei, the total acquisition value is estimated at 130 billion yen, including debt, equivalent to about 1.22 trillion won. The target is a Japanese aluminum producer, while detailed transaction terms and structure were only limited in the original report. The deal draws attention as MBK Partners moves to secure a manufacturing asset in Japan. As aluminum is widely used as an industrial material, changes in the company’s operations and financial structure after the acquisition are expected to be closely watched. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "MBKパートナーズ、日本のアルミメーカー買収へ…総額1300億円規模",
-        "excerpt": "MBKパートナーズは11日の日本経済新聞報道によると、日本のアルミニウムメーカーを買収する方針で、負債を含む総額は約1300億円と推定される。",
-        "body": "投資ファンドのMBKパートナーズが、日本のアルミニウムメーカーを買収する。11日の日本経済新聞（日経）の報道によると、今回の買収総額は負債を含めて1300億円、韓国ウォンで約1兆2200億ウォンと推定される。買収対象は日本のアルミニウム製造会社で、具体的な取引構造や詳細条件については原文で限定的に伝えられた。今回の買収は、MBKパートナーズが日本の製造業資産を確保する取引として注目される。アルミニウムは産業用素材として幅広く使われるため、買収後の事業運営や財務構造の変化が関心を集める見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "MBK Partners拟收购日本铝制造商，交易总额约1300亿日元",
-        "excerpt": "据5月11日《日本经济新闻》报道，MBK Partners将收购一家日本铝制造商，包含债务在内的总收购金额估计约为1300亿日元。",
-        "body": "投资基金MBK Partners将收购一家日本铝制造商。据5月11日《日本经济新闻》（日经）报道，本次交易的总收购金额包括债务在内估计为1300亿日元，约合1.22万亿韩元。收购对象为日本铝制造企业，具体交易结构和详细条件在原文中披露有限。此次收购因MBK Partners取得日本制造业资产而受到关注。铝作为工业材料用途广泛，因此收购完成后，该企业的业务运营和财务结构变化预计将成为市场关注点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "MBK Partners comprará fabricante japonés de aluminio por 130.000 millones de yenes",
-        "excerpt": "MBK Partners adquirirá un fabricante japonés de aluminio, según Nikkei el 11 de mayo, con un valor total estimado de 130.000 millones de yenes incluida la deuda.",
-        "body": "El fondo de inversión MBK Partners adquirirá un fabricante japonés de aluminio. Según informó el 11 de mayo el Nihon Keizai Shimbun, Nikkei, el valor total de la operación se estima en 130.000 millones de yenes, incluida la deuda, equivalentes a unos 1,22 billones de wones. El objetivo de adquisición es una empresa japonesa de fabricación de aluminio, mientras que la estructura y las condiciones detalladas de la transacción fueron comunicadas de forma limitada en el texto original. La operación llama la atención porque MBK Partners incorporará un activo manufacturero en Japón. Dado que el aluminio se usa ampliamente como material industrial, se prevé interés en los cambios operativos y financieros posteriores a la adquisición. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "MBK Partners comprará fabricante japonês de alumínio por 130 bilhões de ienes",
-        "excerpt": "A MBK Partners vai adquirir uma fabricante japonesa de alumínio, segundo o Nikkei em 11 de maio, com valor total estimado em 130 bilhões de ienes incluindo dívidas.",
-        "body": "O fundo de investimento MBK Partners vai adquirir uma fabricante japonesa de alumínio. Segundo reportagem de 11 de maio do Nihon Keizai Shimbun, o Nikkei, o valor total da aquisição é estimado em 130 bilhões de ienes, incluindo dívidas, cerca de 1,22 trilhão de wones. O alvo é uma empresa japonesa de fabricação de alumínio, enquanto a estrutura da transação e as condições detalhadas foram informadas de forma limitada no texto original. A aquisição chama atenção por representar a obtenção de um ativo industrial no Japão pela MBK Partners. Como o alumínio é amplamente usado como material industrial, mudanças na operação e na estrutura financeira da empresa após a compra devem atrair interesse. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "MBK Partners übernimmt japanischen Aluminiumhersteller für rund 130 Mrd. Yen",
-        "excerpt": "MBK Partners übernimmt laut Nikkei-Bericht vom 11. Mai einen japanischen Aluminiumhersteller; der Gesamtwert inklusive Schulden wird auf rund 130 Mrd. Yen geschätzt.",
-        "body": "Der Investmentfonds MBK Partners übernimmt einen japanischen Aluminiumhersteller. Nach einem Bericht der Nihon Keizai Shimbun, Nikkei, vom 11. Mai wird der Gesamtwert der Transaktion einschließlich Schulden auf 130 Milliarden Yen geschätzt, umgerechnet etwa 1,22 Billionen Won. Ziel der Übernahme ist ein japanisches Unternehmen aus der Aluminiumproduktion; konkrete Details zur Transaktionsstruktur und zu den Bedingungen wurden im Originalbericht nur begrenzt genannt. Die Übernahme findet Beachtung, weil MBK Partners damit ein Fertigungsasset in Japan sichert. Da Aluminium als Industriematerial breit eingesetzt wird, dürften mögliche Veränderungen im Betrieb und in der Finanzstruktur des Unternehmens nach der Übernahme im Fokus stehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "MBK Partners va acquérir un fabricant japonais d’aluminium pour 130 milliards de yens",
-        "excerpt": "MBK Partners va acquérir un fabricant japonais d’aluminium, selon le Nikkei du 11 mai, pour un montant total estimé à 130 milliards de yens dette comprise.",
-        "body": "Le fonds d’investissement MBK Partners va acquérir un fabricant japonais d’aluminium. Selon un article du Nihon Keizai Shimbun, le Nikkei, publié le 11 mai, le montant total de l’acquisition est estimé à 130 milliards de yens, dette comprise, soit environ 1,22 billion de wons. La cible est une entreprise japonaise de fabrication d’aluminium, tandis que la structure de l’opération et les conditions détaillées ont été rapportées de manière limitée dans le texte original. Cette acquisition retient l’attention car elle permet à MBK Partners de sécuriser un actif manufacturier au Japon. L’aluminium étant largement utilisé comme matériau industriel, l’évolution des activités et de la structure financière de l’entreprise après l’acquisition devrait être suivie. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "MBK Partners تستحوذ على شركة ألمنيوم يابانية بصفقة تقدر بـ130 مليار ين",
-        "excerpt": "تعتزم MBK Partners الاستحواذ على شركة يابانية لتصنيع الألمنيوم، وفق تقرير نيكاي في 11 مايو، بقيمة إجمالية تشمل الديون تقدر بنحو 130 مليار ين.",
-        "body": "تعتزم شركة الاستثمار MBK Partners الاستحواذ على شركة يابانية لتصنيع الألمنيوم. ووفق ما أوردته صحيفة نيهون كيزاي شيمبون، نيكاي، في 11 مايو، تقدر القيمة الإجمالية للصفقة، بما في ذلك الديون، بنحو 130 مليار ين، أي ما يعادل حوالي 1.22 تريليون وون كوري. والهدف هو شركة يابانية تعمل في تصنيع الألمنيوم، بينما وردت تفاصيل هيكل الصفقة وشروطها في النص الأصلي بشكل محدود. وتحظى الصفقة بالاهتمام لأنها تمثل حصول MBK Partners على أصل صناعي في اليابان. وبما أن الألمنيوم يستخدم على نطاق واسع كمادة صناعية، فمن المتوقع أن تتركز المتابعة على التغيرات في تشغيل الشركة وهيكلها المالي بعد الاستحواذ. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "MBK Partners जापानी एल्युमिनियम निर्माता खरीदेगी, सौदा 130 अरब येन का",
-        "excerpt": "11 मई की निक्केई रिपोर्ट के अनुसार MBK Partners एक जापानी एल्युमिनियम निर्माता का अधिग्रहण करेगी, जिसमें कर्ज सहित कुल मूल्य लगभग 130 अरब येन आंका गया है।",
-        "body": "निवेश फंड MBK Partners एक जापानी एल्युमिनियम निर्माता का अधिग्रहण करेगा। 11 मई को Nihon Keizai Shimbun, यानी निक्केई, की रिपोर्ट के अनुसार इस सौदे का कुल अधिग्रहण मूल्य कर्ज सहित 130 अरब येन अनुमानित है, जो लगभग 1.22 ट्रिलियन वॉन के बराबर है। अधिग्रहण का लक्ष्य जापान की एल्युमिनियम निर्माण कंपनी है, जबकि सौदे की संरचना और विस्तृत शर्तों की जानकारी मूल रिपोर्ट में सीमित रूप से दी गई। यह अधिग्रहण इसलिए ध्यान खींच रहा है क्योंकि MBK Partners जापान में एक विनिर्माण संपत्ति हासिल कर रहा है। एल्युमिनियम का औद्योगिक सामग्री के रूप में व्यापक उपयोग होता है, इसलिए अधिग्रहण के बाद कंपनी के संचालन और वित्तीय ढांचे में बदलाव पर नजर रहने की उम्मीद है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "MBK Partners Akuisisi Produsen Aluminium Jepang, Nilai 130 Miliar Yen",
-        "excerpt": "MBK Partners akan mengakuisisi produsen aluminium Jepang, menurut laporan Nikkei pada 11 Mei, dengan total nilai termasuk utang diperkirakan sekitar 130 miliar yen.",
-        "body": "Dana investasi MBK Partners akan mengakuisisi produsen aluminium Jepang. Menurut laporan Nihon Keizai Shimbun, atau Nikkei, pada 11 Mei, total nilai akuisisi diperkirakan mencapai 130 miliar yen termasuk utang, setara sekitar 1,22 triliun won. Target akuisisi adalah perusahaan manufaktur aluminium Jepang, sementara struktur transaksi dan ketentuan rinci hanya disampaikan secara terbatas dalam laporan asli. Akuisisi ini menarik perhatian karena MBK Partners memperoleh aset manufaktur di Jepang. Karena aluminium banyak digunakan sebagai material industri, perubahan dalam operasi bisnis dan struktur keuangan perusahaan setelah akuisisi diperkirakan akan menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "393dbae406ff",
-    "slug": "ai수혜-롯데에너지머티-시총-4조-육박-193097",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T14:32:50.804Z",
-    "updatedAt": "2026-05-11T14:32:50.804Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043512",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043512",
-    "titleFingerprint": "18a27f3d05449403949a2d2e86c36827886daf4f",
-    "dedupKeys": [
-      "393dbae406ff855214c73ee51ade73c9967c7173",
-      "18a27f3d05449403949a2d2e86c36827886daf4f",
-      "b0149d7ca3983a59b39fb322a25b2c2fd250f7ea"
-    ],
-    "imageUrl": "/images/articles/393dbae406ff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "롯데에너지머티리얼즈, AI 수혜 기대에 시총 4조원 육박하며 주가 급등",
-        "excerpt": "롯데에너지머티리얼즈 주가가 올해 들어 전기차 수요 부진 여파를 딛고 가파르게 상승하며, 엔비디아 밸류체인 합류 예정에 시가총액 4조원에 다가섰다.",
-        "body": "롯데에너지머티리얼즈 주가가 올해 들어 가파른 상승세를 보이며 시가총액 4조원에 육박했다. 전기차 캐즘, 즉 일시적 수요 부진의 여파로 수년간 고전하던 흐름에서 벗어나는 모습이다. 시장의 관심은 회사가 엔비디아 밸류체인에 합류할 예정이라는 점에 모이고 있다. 데이터센터 관련 핵심 소재로 연결되는 기대가 주가 상승의 배경으로 거론된다. 다만 원문은 구체적인 공급 규모나 실적 효과를 제시하지 않았다. 이번 움직임은 전기차 소재 기업으로 인식되던 롯데에너지머티리얼즈가 AI 인프라 수혜 기대를 함께 받는 흐름으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lotte Energy Materials nears 4 trillion won market cap on AI-linked rally",
-        "excerpt": "Lotte Energy Materials shares have climbed sharply this year after years of pressure from the EV demand slowdown, as planned entry into Nvidia’s value chain draws attention.",
-        "body": "Lotte Energy Materials shares have risen sharply this year, bringing the company’s market capitalization close to 4 trillion won. The move marks a shift after several difficult years caused by the EV chasm, or a temporary slowdown in demand. Market attention is focused on the company’s planned entry into Nvidia’s value chain. Expectations tied to key materials used in data centers are cited as a background factor behind the stock’s rise. The source article did not provide specific supply volumes or earnings impact. The move suggests Lotte Energy Materials, long viewed as an EV materials company, is also drawing attention as a potential beneficiary of AI infrastructure demand. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ロッテエナジーマテリアルズ、AI期待で時価総額4兆ウォンに接近",
-        "excerpt": "ロッテエナジーマテリアルズの株価は今年、EV需要低迷の影響から抜け出す形で急上昇し、エヌビディアのバリューチェーン参加予定が注目されている。",
-        "body": "ロッテエナジーマテリアルズの株価が今年に入り急上昇し、時価総額は4兆ウォンに迫っている。電気自動車のキャズム、すなわち一時的な需要低迷の影響で数年間苦戦してきた流れから抜け出す動きだ。市場の関心は、同社がエヌビディアのバリューチェーンに加わる予定である点に集まっている。データセンター関連の中核素材につながる期待が株価上昇の背景として挙げられる。ただし原文は具体的な供給規模や業績への影響を示していない。今回の動きは、EV素材企業として認識されてきた同社がAIインフラ関連の期待も受けている流れといえる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "乐天能源材料受AI概念推动，市值逼近4万亿韩元",
-        "excerpt": "乐天能源材料股价今年在摆脱电动汽车需求短暂低迷影响后快速上涨，计划进入英伟达价值链也吸引了市场关注。",
-        "body": "乐天能源材料股价今年以来快速上涨，市值已逼近4万亿韩元。此前，受电动汽车“鸿沟”影响，也就是需求暂时低迷的冲击，该公司股价数年来承压。市场关注的焦点在于，公司预计加入英伟达价值链。与数据中心核心材料相关的预期，被视为推动股价上涨的背景因素。原文并未提供具体供货规模或业绩影响。此次走势显示，长期被视为电动汽车材料企业的乐天能源材料，也开始受到AI基础设施受益预期的关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Lotte Energy Materials roza los 4 billones de wones por impulso ligado a IA",
-        "excerpt": "Las acciones de Lotte Energy Materials suben con fuerza este año tras años afectadas por la debilidad temporal de la demanda de vehículos eléctricos y por su prevista entrada en la cadena de Nvidia.",
-        "body": "Las acciones de Lotte Energy Materials han subido con fuerza este año y su capitalización bursátil se acerca a los 4 billones de wones. El movimiento supone un cambio tras varios años de dificultades provocadas por el chasm del vehículo eléctrico, es decir, una debilidad temporal de la demanda. La atención del mercado se centra en la prevista incorporación de la compañía a la cadena de valor de Nvidia. Las expectativas relacionadas con materiales clave para centros de datos se mencionan como contexto del avance bursátil. El texto original no presentó volúmenes concretos de suministro ni impacto en resultados. La subida muestra que la empresa, conocida por materiales para vehículos eléctricos, también atrae expectativas vinculadas a infraestructura de IA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Lotte Energy Materials se aproxima de 4 trilhões de won com impulso da IA",
-        "excerpt": "As ações da Lotte Energy Materials sobem com força neste ano após anos pressionadas pela desaceleração temporária da demanda por veículos elétricos e pela prevista entrada na cadeia da Nvidia.",
-        "body": "As ações da Lotte Energy Materials avançaram fortemente neste ano, levando o valor de mercado da empresa para perto de 4 trilhões de won. O movimento marca uma mudança após vários anos de dificuldades causadas pelo chasm dos veículos elétricos, ou uma desaceleração temporária da demanda. A atenção do mercado está voltada para a prevista entrada da companhia na cadeia de valor da Nvidia. Expectativas ligadas a materiais essenciais para data centers são apontadas como pano de fundo da alta das ações. O texto original não informou volumes específicos de fornecimento nem impacto nos resultados. A movimentação indica que a empresa, antes vista sobretudo como fornecedora de materiais para veículos elétricos, também recebe atenção por possíveis benefícios ligados à infraestrutura de IA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Lotte Energy Materials nähert sich 4 Billionen Won Marktwert dank KI-Fantasie",
-        "excerpt": "Die Aktie von Lotte Energy Materials steigt in diesem Jahr stark, nachdem sie jahrelang unter der schwächeren EV-Nachfrage litt; die geplante Aufnahme in Nvidias Wertschöpfungskette zieht Aufmerksamkeit auf sich.",
-        "body": "Die Aktie von Lotte Energy Materials ist in diesem Jahr kräftig gestiegen, die Marktkapitalisierung nähert sich 4 Billionen Won. Damit löst sich der Kurs von einer Phase, in der das Unternehmen mehrere Jahre unter dem EV-Chasm, also einer vorübergehenden Nachfrageschwäche bei Elektrofahrzeugen, gelitten hatte. Im Mittelpunkt des Marktinteresses steht die geplante Aufnahme des Unternehmens in Nvidias Wertschöpfungskette. Erwartungen rund um wichtige Materialien für Rechenzentren werden als Hintergrund des Kursanstiegs genannt. Der Originalbericht nennt jedoch keine konkreten Liefermengen oder Auswirkungen auf die Ergebnisse. Die Entwicklung zeigt, dass Lotte Energy Materials neben dem EV-Materialgeschäft auch mit Erwartungen an KI-Infrastruktur verbunden wird. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Lotte Energy Materials frôle 4 billions de wons de capitalisation avec l’IA",
-        "excerpt": "L’action Lotte Energy Materials progresse fortement cette année après des années pénalisées par le ralentissement temporaire de la demande de véhicules électriques, avec l’attention portée à son entrée prévue dans la chaîne de Nvidia.",
-        "body": "L’action Lotte Energy Materials a fortement progressé cette année, portant sa capitalisation boursière près de 4 billions de wons. Ce mouvement marque une sortie de plusieurs années difficiles liées au chasm des véhicules électriques, c’est-à-dire un affaiblissement temporaire de la demande. L’attention du marché se concentre sur l’entrée prévue de l’entreprise dans la chaîne de valeur de Nvidia. Les attentes autour de matériaux clés liés aux centres de données sont citées comme un facteur de contexte de la hausse du titre. L’article original ne donne toutefois pas de volumes d’approvisionnement précis ni d’effet chiffré sur les résultats. Cette évolution montre que Lotte Energy Materials, connue comme entreprise de matériaux pour véhicules électriques, attire aussi l’intérêt lié aux infrastructures d’IA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "لوتيه إنرجي ماتيريالز تقترب من قيمة سوقية 4 تريليونات وون بدعم توقعات الذكاء الاصطناعي",
-        "excerpt": "ارتفع سهم لوتيه إنرجي ماتيريالز بقوة هذا العام بعد سنوات من الضغط بسبب ضعف مؤقت في طلب السيارات الكهربائية، مع ترقب انضمامها إلى سلسلة قيمة إنفيديا.",
-        "body": "ارتفع سهم لوتيه إنرجي ماتيريالز بقوة منذ بداية هذا العام، لتقترب قيمتها السوقية من 4 تريليونات وون. ويعكس ذلك تحولا بعد سنوات من الصعوبات الناتجة عن ما يعرف بفجوة السيارات الكهربائية، أي الضعف المؤقت في الطلب. يتركز اهتمام السوق على أن الشركة من المقرر أن تنضم إلى سلسلة قيمة إنفيديا. وترد التوقعات المرتبطة بالمواد الأساسية لمراكز البيانات كخلفية لصعود السهم. ولم يذكر النص الأصلي أحجام توريد محددة أو أثرا رقميا على الأرباح. وتظهر هذه الحركة أن الشركة، التي عرفت كمنتج لمواد السيارات الكهربائية، باتت تجذب أيضا اهتماما مرتبطا بالبنية التحتية للذكاء الاصطناعي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "AI उम्मीदों से Lotte Energy Materials का बाजार मूल्य 4 ट्रिलियन वॉन के करीब",
-        "excerpt": "Lotte Energy Materials का शेयर इस साल तेज चढ़ा है, क्योंकि EV मांग की अस्थायी कमजोरी के वर्षों बाद Nvidia वैल्यू चेन में शामिल होने की योजना ने बाजार का ध्यान खींचा है।",
-        "body": "Lotte Energy Materials का शेयर इस साल तेज 상승 दिखा रहा है और कंपनी का बाजार पूंजीकरण 4 ट्रिलियन वॉन के करीब पहुंच गया है। यह रुझान कई वर्षों की कमजोरी के बाद आया है, जब इलेक्ट्रिक वाहन चasm यानी मांग की अस्थायी सुस्ती का असर कंपनी पर पड़ा था। बाजार का ध्यान इस बात पर है कि कंपनी Nvidia की वैल्यू चेन में शामिल होने वाली है। डेटा सेंटर से जुड़े प्रमुख सामग्री कारोबार की उम्मीदों को शेयर में तेजी की पृष्ठभूमि के रूप में देखा जा रहा है। मूल रिपोर्ट में आपूर्ति की ठोस मात्रा या कमाई पर असर का विवरण नहीं दिया गया। यह कदम दिखाता है कि EV सामग्री कंपनी के रूप में पहचानी जाने वाली Lotte Energy Materials अब AI इन्फ्रास्ट्रक्चर से जुड़ी उम्मीदों से भी ध्यान आकर्षित कर रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Lotte Energy Materials dekati kapitalisasi 4 triliun won berkat ekspektasi AI",
-        "excerpt": "Saham Lotte Energy Materials naik tajam tahun ini setelah bertahun-tahun tertekan oleh pelemahan sementara permintaan kendaraan listrik, sementara rencana masuk ke rantai nilai Nvidia menarik perhatian.",
-        "body": "Saham Lotte Energy Materials naik tajam sepanjang tahun ini, membuat kapitalisasi pasarnya mendekati 4 triliun won. Kenaikan ini menandai perubahan setelah beberapa tahun tertekan oleh chasm kendaraan listrik, yakni pelemahan sementara permintaan. Perhatian pasar tertuju pada rencana perusahaan untuk masuk ke rantai nilai Nvidia. Ekspektasi terkait material inti untuk pusat data disebut sebagai latar belakang penguatan saham. Namun, artikel asli tidak menyebutkan besaran pasokan tertentu maupun dampak terhadap kinerja. Pergerakan ini menunjukkan bahwa Lotte Energy Materials, yang selama ini dikenal sebagai perusahaan material kendaraan listrik, juga mulai mendapat perhatian karena ekspektasi manfaat dari infrastruktur AI. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "2d51833f70b4",
-    "slug": "코스피-8000-턱밑까지삼성전자-sk하이닉스-역사적-신고가-돌파-매경-자이앤트-133951",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-11T14:31:34.017Z",
-    "updatedAt": "2026-05-11T14:31:34.017Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12043553",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12043553",
-    "titleFingerprint": "71a85e9ed141c166cba752c182c4bf1708fab631",
-    "dedupKeys": [
-      "2d51833f70b4fe4f70032d73f3bb659c257048c4",
-      "71a85e9ed141c166cba752c182c4bf1708fab631",
-      "ddb0ac3f43384d78ba4dafe469872a31be96379e"
-    ],
-    "imageUrl": "/images/articles/2d51833f70b4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000 턱밑, 삼성전자·SK하이닉스 역사적 신고가 돌파",
-        "excerpt": "11일 매경 자이앤트 분석에 따르면 국내 증시는 신고가 종목이 많지 않았지만 반도체, 로봇, 자동차 등 특정 업종과 테마에 관심이 집중됐다.",
-        "body": "11일 국내 증시는 코스피가 8000선 턱밑까지 다가선 가운데 삼성전자와 SK하이닉스가 역사적 신고가를 돌파하며 시장의 주목을 받았다. 매경 자이앤트 텔레그램 분석에 따르면 전체 신고가 종목 수가 많지는 않았으나, 반도체와 로봇, 자동차 등 특정 업종 및 테마로 투자자 관심이 집중되는 흐름이 나타났다. 이는 지수 상승 국면에서도 시장 전반의 확산보다 일부 주도 업종 중심의 움직임이 두드러졌다는 점을 보여준다. 향후 국내 증시의 관심은 신고가를 기록한 대형 반도체주와 관련 테마의 흐름이 이어질지에 모일 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Nears 8,000 as Samsung Electronics and SK Hynix Hit Record Highs",
-        "excerpt": "According to Maeil Business Giant’s analysis on the 11th, Korean stocks had limited new highs overall, but attention centered on semiconductors, robots and autos.",
-        "body": "On the 11th, Korea’s stock market drew attention as the KOSPI approached the 8,000 mark and Samsung Electronics and SK Hynix broke through historic record highs. According to an analysis from Maeil Business Giant’s Telegram channel, the overall number of stocks hitting new highs was not large, but investor interest was concentrated in specific industries and themes, including semiconductors, robotics and automobiles. The move suggests that even as the index advanced, the market was led more by selected sectors than by broad-based strength. Investors are expected to watch whether the momentum in major semiconductor names and related themes continues. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIが8000目前、サムスン電子とSKハイニックスが過去最高値更新",
-        "excerpt": "11日の毎経ジャイアント分析によると、韓国株式市場では新高値銘柄は多くない一方、半導体、ロボット、自動車などに関心が集中した。",
-        "body": "11日の韓国株式市場では、KOSPIが8000目前まで迫るなか、サムスン電子とSKハイニックスが歴史的な過去最高値を突破し、市場の注目を集めた。毎経ジャイアントのテレグラム分析によると、新高値を付けた銘柄数は全体として多くなかったものの、半導体、ロボット、自動車など特定の業種やテーマに投資家の関心が集中する動きが見られた。指数上昇局面でも市場全体に広がる動きより、一部の主導業種を中心とした展開が目立った形だ。今後は大型半導体株と関連テーマの流れが続くかが焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI逼近8000点，三星电子与SK海力士创历史新高",
-        "excerpt": "据每日经济Giant 11日分析，韩国股市创新高个股并不多，但市场关注集中在半导体、机器人、汽车等特定行业和主题。",
-        "body": "11日，韩国股市在KOSPI逼近8000点之际受到关注，三星电子和SK海力士突破历史新高。根据每日经济Giant Telegram的分析，虽然整体创新高的个股数量并不算多，但投资者兴趣明显集中在半导体、机器人、汽车等特定行业和主题上。这显示出在指数上行过程中，市场并非全面扩散，而是以部分主导板块为中心的走势更加突出。接下来，市场关注点预计将集中在创下新高的大型半导体股及相关主题能否延续当前走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI roza los 8.000 puntos y Samsung Electronics y SK Hynix marcan récords",
-        "excerpt": "Según el análisis de Maeil Business Giant del día 11, la bolsa coreana tuvo pocos máximos nuevos, pero el interés se concentró en semiconductores, robots y autos.",
-        "body": "El día 11, la bolsa surcoreana atrajo la atención mientras el KOSPI se acercaba al nivel de 8.000 puntos y Samsung Electronics y SK Hynix superaban máximos históricos. Según el análisis del canal de Telegram Maeil Business Giant, el número total de valores que alcanzaron nuevos máximos no fue elevado, pero el interés de los inversores se concentró en sectores y temas específicos, como semiconductores, robótica y automóviles. El movimiento muestra que, incluso con el avance del índice, destacaron más algunos sectores líderes que una subida amplia de todo el mercado. La atención se centrará ahora en si continúa el impulso de los grandes valores de semiconductores y sus temas relacionados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI se aproxima de 8.000, Samsung Electronics e SK Hynix batem recordes",
-        "excerpt": "Segundo análise do Maeil Business Giant no dia 11, a bolsa coreana teve poucos novos recordes, mas o foco ficou em semicondutores, robôs e automóveis.",
-        "body": "No dia 11, o mercado acionário da Coreia do Sul ganhou destaque com o KOSPI se aproximando da marca de 8.000 pontos, enquanto Samsung Electronics e SK Hynix romperam máximas históricas. Segundo análise do canal Maeil Business Giant no Telegram, o número total de ações em novas máximas não foi grande, mas o interesse dos investidores se concentrou em setores e temas específicos, como semicondutores, robótica e automóveis. O movimento indica que, mesmo com a alta do índice, o mercado mostrou mais força em alguns setores líderes do que em uma recuperação ampla. A atenção deve seguir voltada para a continuidade do ritmo das grandes ações de semicondutores e temas relacionados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI nähert sich 8.000, Samsung Electronics und SK Hynix auf Rekordhoch",
-        "excerpt": "Laut Maeil Business Giant vom 11. gab es am koreanischen Aktienmarkt wenige neue Hochs, doch der Fokus lag auf Halbleitern, Robotik und Autos.",
-        "body": "Am 11. rückte der koreanische Aktienmarkt in den Fokus, als sich der KOSPI der Marke von 8.000 Punkten näherte und Samsung Electronics sowie SK Hynix historische Rekordstände erreichten. Laut einer Analyse des Telegram-Kanals Maeil Business Giant war die Gesamtzahl der Aktien mit neuen Hochs zwar nicht groß, doch das Anlegerinteresse konzentrierte sich auf bestimmte Branchen und Themen wie Halbleiter, Robotik und Automobile. Dies zeigt, dass der Indexanstieg weniger von einer breiten Marktbewegung als von ausgewählten führenden Sektoren geprägt war. Im Mittelpunkt steht nun, ob die Dynamik der großen Halbleiterwerte und verwandten Themen anhält. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI frôle 8 000, Samsung Electronics et SK Hynix au plus haut historique",
-        "excerpt": "Selon l’analyse de Maeil Business Giant du 11, peu de titres coréens ont signé des records, mais l’attention s’est concentrée sur semi-conducteurs, robotique et autos.",
-        "body": "Le 11, le marché actions sud-coréen a attiré l’attention alors que le KOSPI approchait le seuil des 8 000 points et que Samsung Electronics et SK Hynix franchissaient des sommets historiques. Selon l’analyse publiée sur le canal Telegram de Maeil Business Giant, le nombre total de titres atteignant de nouveaux plus hauts n’était pas élevé, mais l’intérêt des investisseurs s’est concentré sur certains secteurs et thèmes, notamment les semi-conducteurs, la robotique et l’automobile. Ce mouvement montre que la progression de l’indice a été portée davantage par quelques secteurs leaders que par une hausse généralisée du marché. L’attention devrait désormais se porter sur la poursuite de l’élan des grandes valeurs des semi-conducteurs et des thèmes associés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يقترب من 8000 وسامسونغ إلكترونيكس وSK هاينكس عند قمم تاريخية",
-        "excerpt": "بحسب تحليل ماييل بيزنس جاينت في 11، لم تكن الأسهم الكورية التي سجلت قمما جديدة كثيرة، لكن التركيز انصب على أشباه الموصلات والروبوتات والسيارات.",
-        "body": "في 11، لفتت سوق الأسهم الكورية الأنظار مع اقتراب مؤشر كوسبي من مستوى 8000، بينما اخترقت سامسونغ إلكترونيكس وSK هاينكس قمما تاريخية جديدة. ووفقا لتحليل قناة ماييل بيزنس جاينت على تليغرام، لم يكن عدد الأسهم التي سجلت مستويات قياسية جديدة كبيرا على مستوى السوق ككل، لكن اهتمام المستثمرين تركز في قطاعات وموضوعات محددة مثل أشباه الموصلات والروبوتات والسيارات. ويشير ذلك إلى أن صعود المؤشر برز من خلال قطاعات قيادية محددة أكثر من انتشاره على نطاق واسع في السوق. ومن المتوقع أن تتركز الأنظار على ما إذا كان زخم أسهم أشباه الموصلات الكبرى والموضوعات المرتبطة بها سيستمر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 8,000 के करीब, Samsung Electronics और SK Hynix ने रिकॉर्ड ऊंचाई तोड़ी",
-        "excerpt": "11 तारीख को Maeil Business Giant के विश्लेषण के अनुसार, कोरियाई बाजार में नए उच्च स्तर वाले शेयर कम थे, लेकिन सेमीकंडक्टर, रोबोट और ऑटो पर ध्यान केंद्रित रहा।",
-        "body": "11 तारीख को कोरिया के शेयर बाजार ने ध्यान खींचा, जब KOSPI 8,000 के स्तर के करीब पहुंचा और Samsung Electronics तथा SK Hynix ने ऐतिहासिक रिकॉर्ड ऊंचाइयों को पार किया। Maeil Business Giant के Telegram विश्लेषण के अनुसार, पूरे बाजार में नए उच्च स्तर बनाने वाले शेयरों की संख्या अधिक नहीं थी, लेकिन निवेशकों की रुचि सेमीकंडक्टर, रोबोटिक्स और ऑटोमोबाइल जैसे खास उद्योगों और थीमों पर केंद्रित रही। इससे संकेत मिलता है कि सूचकांक की बढ़त के बावजूद बाजार में व्यापक मजबूती की तुलना में कुछ अग्रणी क्षेत्रों की चाल अधिक प्रमुख रही। आगे ध्यान इस बात पर रहेगा कि बड़े सेमीकंडक्टर शेयरों और उनसे जुड़े थीमों की गति जारी रहती है या नहीं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Dekati 8.000, Samsung Electronics dan SK Hynix Cetak Rekor Tertinggi",
-        "excerpt": "Menurut analisis Maeil Business Giant pada 11, saham Korea yang mencetak rekor baru tidak banyak, tetapi fokus pasar tertuju pada semikonduktor, robot, dan otomotif.",
-        "body": "Pada 11, pasar saham Korea Selatan menjadi sorotan saat KOSPI mendekati level 8.000, sementara Samsung Electronics dan SK Hynix menembus rekor tertinggi historis. Menurut analisis kanal Telegram Maeil Business Giant, jumlah saham yang mencetak level tertinggi baru secara keseluruhan tidak banyak, tetapi minat investor terkonsentrasi pada sektor dan tema tertentu seperti semikonduktor, robotika, dan otomotif. Pergerakan ini menunjukkan bahwa dalam fase kenaikan indeks, pasar lebih banyak digerakkan oleh beberapa sektor unggulan daripada penguatan yang menyebar luas. Ke depan, perhatian pasar diperkirakan tertuju pada apakah momentum saham semikonduktor besar dan tema terkait dapat berlanjut. Sumber: mk.co.kr"
       }
     }
   }
