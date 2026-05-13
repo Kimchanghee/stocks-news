@@ -1,5 +1,230 @@
 [
   {
+    "id": "88d5fc0dc35b",
+    "slug": "반도체-언제까지-가나-싶었는데노사-협상-불발에-삼전닉스-동반-하락-284858",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T01:19:45.733Z",
+    "updatedAt": "2026-05-13T01:19:45.733Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045854",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045854",
+    "titleFingerprint": "369c8ca0c73f5aa2d9ffcbf8174909da6b70fe80",
+    "dedupKeys": [
+      "88d5fc0dc35bcee75f939526cf7b4052d20043c8",
+      "369c8ca0c73f5aa2d9ffcbf8174909da6b70fe80",
+      "1ce52d707ee8b2ea6eee16f5dca540d82a242c12"
+    ],
+    "imageUrl": "/images/articles/88d5fc0dc35b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·SK하이닉스 13일 동반 하락, 미국 반도체주 급락·삼성 노사 협상 불발 영향",
+        "excerpt": "13일 삼성전자와 SK하이닉스가 간밤 미국 증시 반도체주 급락세와 삼성전자 노사 협상 결렬이 겹친 영향으로 하락세를 보이고 있다.",
+        "body": "13일 국내 증시에서 삼성전자와 SK하이닉스가 동반 하락세를 보이고 있다. 간밤 미국 증시에서 반도체주가 급락한 데다 삼성전자의 노사 협상이 결렬됐다는 소식이 겹치며 투자자들의 경계감이 커진 영향이다. 원문은 미국 반도체주 약세와 삼성전자 노사 협상 불발이 이날 ‘삼전닉스’로 불리는 두 대형 반도체주의 주가 흐름에 부담으로 작용했다고 전했다. 구체적인 낙폭이나 협상 세부 내용은 제시되지 않았지만, 글로벌 반도체주 조정 분위기와 개별 기업 이슈가 동시에 반영된 장세로 풀이된다. 향후 주가 흐름은 미국 반도체주 변동성과 삼성전자 노사 협상 관련 추가 소식에 영향을 받을 수 있다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Samsung Electronics and SK Hynix Fall on U.S. Chip Selloff and Failed Samsung Labor Talks",
+        "excerpt": "Samsung Electronics and SK Hynix declined on the 13th as a sharp overnight fall in U.S. semiconductor stocks coincided with failed labor talks at Samsung Electronics.",
+        "body": "Samsung Electronics and SK Hynix moved lower in South Korean trading on the 13th. The decline came after semiconductor stocks in the U.S. market fell sharply overnight, while news that labor negotiations at Samsung Electronics had broken down added pressure. The original report said the weakness in U.S. chip shares and the failed Samsung labor talks weighed on the two major Korean semiconductor names often grouped by investors as “Samjeon-Nix.” No specific share-price declines or details of the negotiations were provided in the source. The session reflected the combined effect of global semiconductor-stock weakness and a company-specific labor issue. Future trading may be influenced by volatility in U.S. chip stocks and further updates on Samsung Electronics’ labor negotiations. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "サムスン電子とSKハイニックスが13日にそろって下落、米半導体株急落と労使交渉決裂が重荷",
+        "excerpt": "13日、サムスン電子とSKハイニックスは、前夜の米国市場で半導体株が急落したことに加え、サムスン電子の労使交渉が不調に終わった影響で下落している。",
+        "body": "13日の韓国株式市場で、サムスン電子とSKハイニックスがそろって下落している。前夜の米国市場で半導体株が急落したうえ、サムスン電子の労使交渉が決裂したとのニュースが重なり、両社株の重荷となった。原文は、米半導体株の弱さとサムスン電子の労使交渉不調が、投資家の間で「サムジョンニックス」と呼ばれる韓国の大型半導体2銘柄の株価に影響したと伝えている。具体的な下落率や交渉の詳細は示されていないが、世界的な半導体株の調整ムードと個別企業の労使問題が同時に反映された動きとみられる。今後は米半導体株の変動やサムスン電子の労使交渉に関する追加情報が注目される。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "三星电子与SK海力士13日同步下跌，受美国芯片股暴跌和三星劳资谈判破裂影响",
+        "excerpt": "13日，三星电子和SK海力士走低，原因是隔夜美国股市半导体板块大幅下跌，同时三星电子劳资谈判未能达成协议。",
+        "body": "13日，韩国股市中三星电子和SK海力士同步下跌。隔夜美国股市半导体股大幅走弱，加上三星电子劳资谈判破裂的消息，给两只韩国大型半导体股带来压力。原文称，美国半导体股疲软与三星电子劳资协商未果，共同影响了投资者常称为“三电海力士”组合的两家公司股价表现。报道未提供具体跌幅，也未说明谈判细节，但此次走势可被视为全球半导体股调整氛围与个别企业劳资议题同时反映在市场中的结果。后续股价表现可能继续受到美国半导体股波动以及三星电子劳资谈判相关新消息的影响。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Samsung Electronics y SK Hynix caen el día 13 por desplome de chips en EE. UU. y fallida negociación laboral",
+        "excerpt": "Samsung Electronics y SK Hynix bajan el día 13 después de la fuerte caída nocturna de las acciones de semiconductores en EE. UU. y el fracaso de las negociaciones laborales en Samsung.",
+        "body": "Samsung Electronics y SK Hynix cotizan a la baja en el mercado surcoreano el día 13. El movimiento se produjo después de que las acciones de semiconductores en Estados Unidos cayeran con fuerza durante la noche y de que se conociera que las negociaciones laborales de Samsung Electronics no lograron un acuerdo. El informe original señaló que la debilidad de los valores estadounidenses de chips y el fracaso de las conversaciones laborales de Samsung presionaron a los dos grandes nombres coreanos del sector, agrupados por algunos inversores como “Samjeon-Nix”. La fuente no ofreció porcentajes concretos de caída ni detalles de la negociación. La sesión refleja la combinación de un ajuste global en semiconductores y un factor específico de empresa. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Samsung Electronics e SK Hynix caem no dia 13 com queda dos chips nos EUA e impasse trabalhista na Samsung",
+        "excerpt": "Samsung Electronics e SK Hynix recuam no dia 13, pressionadas pela forte baixa das ações de semicondutores nos EUA durante a noite e pelo fracasso das negociações trabalhistas da Samsung.",
+        "body": "Samsung Electronics e SK Hynix operam em queda no mercado sul-coreano no dia 13. O recuo ocorreu após uma forte baixa das ações de semicondutores nos Estados Unidos durante a noite, somada à notícia de que as negociações trabalhistas da Samsung Electronics terminaram sem acordo. A reportagem original afirmou que a fraqueza dos papéis de chips nos EUA e o impasse nas conversas trabalhistas da Samsung pesaram sobre as duas grandes empresas coreanas de semicondutores conhecidas por investidores como “Samjeon-Nix”. A fonte não informou percentuais específicos de queda nem detalhes das negociações. O movimento reflete a combinação de ajuste global no setor de chips e uma questão específica da empresa. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Samsung Electronics und SK Hynix fallen am 13. wegen US-Chip-Ausverkauf und gescheiterten Samsung-Tarifgesprächen",
+        "excerpt": "Samsung Electronics und SK Hynix gaben am 13. nach, nachdem US-Halbleiteraktien über Nacht stark gefallen waren und die Arbeitsverhandlungen bei Samsung Electronics scheiterten.",
+        "body": "Samsung Electronics und SK Hynix notierten am 13. im südkoreanischen Handel schwächer. Auslöser waren ein starker Rückgang von Halbleiteraktien am US-Markt in der Nacht sowie die Nachricht, dass die Arbeitsverhandlungen bei Samsung Electronics ohne Einigung endeten. Der Originalbericht erklärte, die Schwäche der US-Chipwerte und das Scheitern der Samsung-Verhandlungen hätten die beiden großen koreanischen Halbleiteraktien belastet, die von Anlegern gemeinsam als „Samjeon-Nix“ bezeichnet werden. Konkrete Kursverluste oder Details zu den Gesprächen nannte die Quelle nicht. Die Entwicklung spiegelt damit sowohl die globale Korrektur im Halbleitersektor als auch ein unternehmensspezifisches Thema wider. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Samsung Electronics et SK Hynix reculent le 13, sous pression des puces américaines et des négociations sociales échouées",
+        "excerpt": "Samsung Electronics et SK Hynix baissent le 13 après la forte chute nocturne des valeurs américaines des semi-conducteurs et l’échec des négociations sociales chez Samsung Electronics.",
+        "body": "Samsung Electronics et SK Hynix évoluent en baisse sur le marché sud-coréen le 13. Le recul intervient après une forte chute des actions américaines de semi-conducteurs durant la nuit, à laquelle s’ajoute l’annonce de l’échec des négociations sociales chez Samsung Electronics. L’article original indique que la faiblesse des valeurs américaines des puces et l’absence d’accord entre la direction et les salariés de Samsung ont pesé sur les deux grands titres coréens du secteur, parfois regroupés par les investisseurs sous le nom de “Samjeon-Nix”. La source ne donne ni baisse chiffrée ni détail sur les discussions. Le mouvement reflète à la fois la correction mondiale des semi-conducteurs et un facteur propre à l’entreprise. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تراجع سامسونغ إلكترونيكس وSK هاينكس في 13 مع هبوط أسهم الرقائق الأميركية وفشل محادثات العمل",
+        "excerpt": "تراجعت سامسونغ إلكترونيكس وSK هاينكس في 13 بعد هبوط حاد لأسهم أشباه الموصلات في السوق الأميركية ليلا، بالتزامن مع فشل مفاوضات العمل في سامسونغ إلكترونيكس.",
+        "body": "شهدت السوق الكورية في 13 تراجعا متزامنا لسهمي سامسونغ إلكترونيكس وSK هاينكس. وجاء الضغط بعد هبوط حاد لأسهم أشباه الموصلات في السوق الأميركية خلال الليل، إضافة إلى خبر فشل مفاوضات العمل في سامسونغ إلكترونيكس. وذكر التقرير الأصلي أن ضعف أسهم الرقائق الأميركية وتعثر مفاوضات سامسونغ مع العمال أثرا في أداء الشركتين الكوريتين الكبيرتين في قطاع أشباه الموصلات، واللتين يشار إليهما بين بعض المستثمرين باسم “Samjeon-Nix”. ولم يورد المصدر نسبا محددة للتراجع أو تفاصيل عن المفاوضات. وتعكس الحركة تزامن أجواء تصحيح عالمية في أسهم الرقائق مع عامل خاص بالشركة. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Samsung Electronics और SK Hynix 13 तारीख को गिरे, अमेरिकी चिप शेयरों की तेज गिरावट और Samsung श्रम वार्ता विफलता का असर",
+        "excerpt": "13 तारीख को Samsung Electronics और SK Hynix में गिरावट आई, क्योंकि रातोंरात अमेरिकी सेमीकंडक्टर शेयर तेजी से टूटे और Samsung Electronics की श्रम वार्ता असफल रही।",
+        "body": "13 तारीख को दक्षिण कोरियाई बाजार में Samsung Electronics और SK Hynix दोनों में गिरावट देखी गई। यह दबाव रातोंरात अमेरिकी बाजार में सेमीकंडक्टर शेयरों की तेज कमजोरी और Samsung Electronics की श्रम वार्ता विफल होने की खबर के बाद आया। मूल रिपोर्ट के अनुसार, अमेरिकी चिप शेयरों की कमजोरी और Samsung की श्रम वार्ता का टूटना उन दो बड़ी कोरियाई सेमीकंडक्टर कंपनियों पर असर डाल रहा है जिन्हें कुछ निवेशक साथ में “Samjeon-Nix” कहते हैं। स्रोत ने गिरावट के विशिष्ट प्रतिशत या वार्ता के विस्तृत विवरण नहीं दिए। यह चाल वैश्विक सेमीकंडक्टर शेयरों में समायोजन और कंपनी-विशेष श्रम मुद्दे के संयुक्त प्रभाव को दिखाती है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Samsung Electronics dan SK Hynix Turun pada 13, Tertekan Anjloknya Saham Chip AS dan Gagalnya Negosiasi Buruh Samsung",
+        "excerpt": "Samsung Electronics dan SK Hynix melemah pada 13 setelah saham semikonduktor AS turun tajam semalam dan negosiasi buruh Samsung Electronics gagal mencapai kesepakatan.",
+        "body": "Samsung Electronics dan SK Hynix bergerak melemah di pasar Korea Selatan pada 13. Tekanan muncul setelah saham semikonduktor di bursa Amerika Serikat turun tajam semalam, bersamaan dengan kabar bahwa negosiasi buruh Samsung Electronics gagal mencapai kesepakatan. Laporan asli menyebut kelemahan saham chip AS dan gagalnya perundingan buruh Samsung membebani dua emiten semikonduktor besar Korea yang sering disebut investor sebagai “Samjeon-Nix”. Sumber tidak memberikan angka penurunan spesifik maupun rincian negosiasi. Pergerakan ini mencerminkan gabungan suasana koreksi global pada saham semikonduktor dan isu khusus perusahaan. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "9126016c470c",
+    "slug": "삼전-노사협상-결렬美-cpi-충격-원투펀치에-코스피-급락-출발-761463",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T01:18:09.955Z",
+    "updatedAt": "2026-05-13T01:18:09.955Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045859",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045859",
+    "titleFingerprint": "65204b84ea52b98c0b17eb1bd6ef554c295e6a08",
+    "dedupKeys": [
+      "9126016c470cecce997ade007e029473bd38a2da",
+      "65204b84ea52b98c0b17eb1bd6ef554c295e6a08",
+      "63ea4e550f99a517e055143b59e73e72c1ad126b"
+    ],
+    "imageUrl": "/images/articles/9126016c470c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 급락 출발, 삼성전자 노사협상 결렬·미 CPI 충격 겹쳤다",
+        "excerpt": "코스피가 이틀 연속 급락 출발하며 투자심리가 얼어붙었다. 삼성전자 노사협상 결렬과 미국 CPI 충격이 동시에 작용해 복합 악재 우려가 커졌다.",
+        "body": "코스피가 삼성전자 노사협상 결렬과 미국 CPI 충격이라는 악재가 겹치며 이틀 연속 급락 출발했다. 시장에서는 이번 하락을 단순 차익실현이 아니라 여러 악재가 동시에 부딪힌 조정으로 보는 분위기다. 특히 국내 대표 종목인 삼성전자의 노사 갈등이 투자심리에 부담을 준 가운데, 미국 소비자물가지수 충격까지 더해지며 위험자산 선호가 빠르게 위축됐다. 단기적으로는 주요 대형주 흐름과 대외 물가 변수에 따라 코스피 변동성이 이어질 가능성이 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Opens Sharply Lower as Samsung Labor Talks Fail and US CPI Hits Sentiment",
+        "excerpt": "The KOSPI opened sharply lower for a second straight session as investor sentiment froze amid failed Samsung Electronics labor talks and a US CPI shock.",
+        "body": "The KOSPI opened sharply lower for a second consecutive session as two negative factors hit sentiment at once: a breakdown in labor negotiations at Samsung Electronics and a shock from US consumer price data. Market participants are viewing the move not simply as profit-taking, but as a correction caused by multiple adverse factors colliding. Samsung Electronics, a key domestic heavyweight, added pressure through labor tensions, while the US CPI shock further weakened appetite for risk assets. In the near term, KOSPI volatility may continue depending on the movement of major large-cap stocks and external inflation variables. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI急落スタート、サムスン労使交渉決裂と米CPIショックが重荷",
+        "excerpt": "KOSPIは2営業日連続で急落して始まり、投資心理が冷え込んだ。サムスン電子の労使交渉決裂と米CPIショックが同時に響いた。",
+        "body": "KOSPIは、サムスン電子の労使交渉決裂と米消費者物価指数（CPI）ショックという悪材料が重なり、2営業日連続で急落して始まった。市場では今回の下落を単なる利益確定売りではなく、複数の悪材料が同時にぶつかった調整局面と見る雰囲気が広がっている。特に韓国を代表する大型株であるサムスン電子の労使対立が投資心理の負担となり、米CPIショックも加わってリスク資産選好が急速に弱まった。短期的には主要大型株の動きと対外的な物価要因によって、KOSPIの変動性が続く可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI开盘急跌，三星劳资谈判破裂与美国CPI冲击叠加",
+        "excerpt": "KOSPI连续第二个交易日急跌开盘，投资情绪迅速降温。三星电子劳资谈判破裂和美国CPI冲击同时压制市场。",
+        "body": "KOSPI在三星电子劳资谈判破裂和美国CPI冲击两大利空叠加下，连续第二个交易日急跌开盘。市场普遍认为，本轮下跌并非单纯获利回吐，而是多重负面因素同时碰撞引发的调整。尤其是韩国代表性大型股三星电子的劳资矛盾加重了投资心理压力，而美国消费者物价指数冲击进一步削弱了市场对风险资产的偏好。短期来看，KOSPI的波动可能会随着主要大型股走势和外部通胀变量而持续。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI abre con fuerte caída por Samsung y el golpe del IPC de EE. UU.",
+        "excerpt": "El KOSPI abrió con fuertes pérdidas por segunda sesión seguida, mientras el ánimo inversor se enfría por el fracaso de las negociaciones laborales en Samsung y el IPC de EE. UU.",
+        "body": "El KOSPI abrió con una fuerte caída por segunda sesión consecutiva, afectado al mismo tiempo por el fracaso de las negociaciones laborales en Samsung Electronics y por el impacto del índice de precios al consumidor de Estados Unidos. En el mercado, el retroceso no se interpreta solo como una toma de ganancias, sino como una corrección provocada por la coincidencia de varios factores negativos. Las tensiones laborales en Samsung Electronics, uno de los principales valores del mercado surcoreano, pesaron sobre el ánimo inversor, mientras que el golpe del IPC estadounidense redujo con rapidez el apetito por activos de riesgo. A corto plazo, la volatilidad del KOSPI podría continuar según el comportamiento de las grandes capitalizaciones y las variables externas de inflación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI abre em forte queda com impasse na Samsung e choque do CPI dos EUA",
+        "excerpt": "O KOSPI abriu em forte baixa pelo segundo pregão seguido, com o sentimento dos investidores pressionado pelo impasse trabalhista na Samsung e pelo CPI dos EUA.",
+        "body": "O KOSPI abriu em forte queda pelo segundo pregão consecutivo, pressionado ao mesmo tempo pelo fracasso nas negociações trabalhistas da Samsung Electronics e pelo choque causado pelo índice de preços ao consumidor dos Estados Unidos. No mercado, a queda é vista não apenas como realização de lucros, mas como uma correção provocada pela colisão de vários fatores negativos. As tensões trabalhistas na Samsung Electronics, uma das principais ações da Coreia do Sul, pesaram sobre o sentimento dos investidores, enquanto o impacto do CPI americano enfraqueceu rapidamente o apetite por ativos de risco. No curto prazo, a volatilidade do KOSPI pode continuar dependendo do desempenho das grandes empresas e das variáveis externas de inflação. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI startet stark im Minus: Samsung-Tarifstreit und US-CPI-Schock belasten",
+        "excerpt": "Der KOSPI eröffnete den zweiten Handelstag in Folge deutlich schwächer. Gescheiterte Arbeitsgespräche bei Samsung und der US-CPI-Schock belasteten die Stimmung.",
+        "body": "Der KOSPI eröffnete den zweiten Handelstag in Folge mit deutlichen Verlusten, nachdem sich zwei negative Faktoren überlagerten: das Scheitern der Arbeitsverhandlungen bei Samsung Electronics und der Schock durch US-Verbraucherpreisdaten. Am Markt wird der Rückgang nicht nur als Gewinnmitnahme gesehen, sondern als Korrektur, bei der mehrere Belastungsfaktoren gleichzeitig aufeinandertreffen. Besonders der Arbeitskonflikt bei Samsung Electronics, einem wichtigen Schwergewicht des koreanischen Marktes, drückte auf die Anlegerstimmung. Zugleich schwächte der US-CPI-Schock die Risikobereitschaft rasch. Kurzfristig dürfte die Volatilität des KOSPI von der Entwicklung großer Standardwerte und externen Inflationsfaktoren abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI ouvre en forte baisse, plombé par Samsung et le choc de l’IPC américain",
+        "excerpt": "Le KOSPI a ouvert en forte baisse pour la deuxième séance consécutive, l’échec des négociations sociales chez Samsung et le choc de l’IPC américain pesant sur le marché.",
+        "body": "Le KOSPI a ouvert en forte baisse pour la deuxième séance consécutive, sous l’effet combiné de l’échec des négociations sociales chez Samsung Electronics et du choc lié à l’indice des prix à la consommation américain. Sur le marché, ce repli n’est pas seulement perçu comme une prise de bénéfices, mais comme une correction née de la convergence de plusieurs facteurs défavorables. Les tensions sociales chez Samsung Electronics, valeur majeure du marché sud-coréen, ont pesé sur le moral des investisseurs, tandis que le choc de l’IPC américain a rapidement réduit l’appétit pour les actifs risqués. À court terme, la volatilité du KOSPI pourrait se poursuivre selon l’évolution des grandes capitalisations et des variables externes d’inflation. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يفتتح بهبوط حاد مع تعثر مفاوضات سامسونغ وصدمة مؤشر التضخم الأميركي",
+        "excerpt": "افتتح مؤشر كوسبي على هبوط حاد للجلسة الثانية على التوالي، مع تراجع شهية المستثمرين بعد تعثر مفاوضات سامسونغ العمالية وصدمة مؤشر أسعار المستهلك الأميركي.",
+        "body": "افتتح مؤشر كوسبي على هبوط حاد للجلسة الثانية على التوالي، بعدما تزامنت عاملان سلبيان: تعثر مفاوضات العمل في سامسونغ إلكترونيكس وصدمة مؤشر أسعار المستهلك في الولايات المتحدة. وينظر السوق إلى هذا التراجع على أنه ليس مجرد جني أرباح، بل تصحيح ناتج عن اصطدام عدة عوامل سلبية في وقت واحد. فقد زادت التوترات العمالية في سامسونغ إلكترونيكس، وهي من أبرز الأسهم الكورية، الضغط على معنويات المستثمرين، بينما أضعفت صدمة مؤشر التضخم الأميركي شهية المخاطرة بسرعة. وعلى المدى القصير، قد تستمر تقلبات كوسبي تبعا لحركة الأسهم القيادية الكبرى ومتغيرات التضخم الخارجية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI की तेज गिरावट: Samsung वार्ता विफल और अमेरिकी CPI झटके ने दबाव बढ़ाया",
+        "excerpt": "KOSPI लगातार दूसरे सत्र में तेज गिरावट के साथ खुला। Samsung Electronics की श्रम वार्ता विफल होने और अमेरिकी CPI झटके से निवेश भावना कमजोर हुई।",
+        "body": "KOSPI लगातार दूसरे सत्र में तेज गिरावट के साथ खुला, क्योंकि Samsung Electronics की श्रम वार्ता विफल होने और अमेरिकी उपभोक्ता मूल्य सूचकांक के झटके ने एक साथ बाजार पर दबाव डाला। बाजार में इस गिरावट को केवल मुनाफावसूली नहीं, बल्कि कई नकारात्मक कारकों के टकराव से आई गिरावट माना जा रहा है। दक्षिण कोरिया के प्रमुख बड़े शेयर Samsung Electronics में श्रम विवाद ने निवेशकों की भावना पर बोझ डाला, जबकि अमेरिकी CPI झटके ने जोखिम वाली परिसंपत्तियों के प्रति रुचि को तेजी से कमजोर किया। निकट अवधि में बड़े शेयरों की चाल और बाहरी मुद्रास्फीति कारकों के आधार पर KOSPI में उतार-चढ़ाव जारी रह सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Dibuka Anjlok, Negosiasi Samsung Gagal dan Guncangan CPI AS Menekan",
+        "excerpt": "KOSPI dibuka anjlok untuk sesi kedua beruntun karena sentimen investor membeku setelah negosiasi tenaga kerja Samsung gagal dan data CPI AS mengejutkan pasar.",
+        "body": "KOSPI dibuka anjlok untuk sesi kedua berturut-turut setelah dua faktor negatif muncul bersamaan: gagalnya negosiasi tenaga kerja di Samsung Electronics dan guncangan dari indeks harga konsumen Amerika Serikat. Pelaku pasar melihat penurunan ini bukan sekadar aksi ambil untung, melainkan koreksi akibat benturan beberapa sentimen buruk sekaligus. Konflik tenaga kerja di Samsung Electronics, salah satu saham utama Korea Selatan, menekan psikologi investor, sementara guncangan CPI AS semakin melemahkan minat terhadap aset berisiko. Dalam jangka pendek, volatilitas KOSPI dapat berlanjut bergantung pada pergerakan saham-saham berkapitalisasi besar dan faktor inflasi eksternal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "836d7804c396",
+    "slug": "미래운용-반도체top10커버드콜액티브-첫-분배금-지급주당-170원-271132",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T01:17:09.450Z",
+    "updatedAt": "2026-05-13T01:17:09.450Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045865",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045865",
+    "titleFingerprint": "1be5c29bd251188479956e28903b1cf128a86908",
+    "dedupKeys": [
+      "836d7804c39675da721508fc7aeabaf2a80f315b",
+      "1be5c29bd251188479956e28903b1cf128a86908",
+      "14b51d48e59ce032bc0cd137612af4cb0e72dee8"
+    ],
+    "imageUrl": "/images/articles/836d7804c396.jpg",
+    "i18n": {
+      "ko": {
+        "title": "TIGER 반도체TOP10커버드콜액티브 첫 분배금, 주당 170원 지급",
+        "excerpt": "미래에셋자산운용은 13일 TIGER 반도체TOP10커버드콜액티브 ETF가 이달 첫 분배금으로 주당 170원을 지급한다고 밝혔다. 전날 종가 기준 월 분배율은 1.27%다.",
+        "body": "미래에셋자산운용은 13일 ‘TIGER 반도체TOP10커버드콜액티브 상장지수펀드(ETF)’가 이달 첫 분배금으로 주당 170원을 지급한다고 밝혔다. 이번 분배금은 전날 종가 기준 월 1.27% 수준이다. 해당 ETF는 반도체 관련 상위 종목에 투자하면서 커버드콜 전략을 활용하는 액티브 ETF다. 첫 분배금 지급은 월 단위 현금흐름을 중시하는 투자자들에게 상품 구조와 분배 정책을 확인할 수 있는 사례로 평가된다. 반도체 섹터와 커버드콜 ETF에 대한 관심 속에서 향후 분배 지속성과 운용 성과가 투자 판단의 주요 요소가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active ETF Pays First Distribution",
+        "excerpt": "Mirae Asset Global Investments said on the 13th that the TIGER Semiconductor TOP10 Covered Call Active ETF will pay its first monthly distribution of 170 won per share, equal to a 1.27% monthly rate based on the previous close.",
+        "body": "Mirae Asset Global Investments said on the 13th that the ‘TIGER Semiconductor TOP10 Covered Call Active ETF’ will pay its first distribution this month at 170 won per share. The amount represents a monthly distribution rate of 1.27% based on the previous day’s closing price. The ETF is an active fund that invests in leading semiconductor-related stocks while using a covered call strategy. The first payout gives investors focused on monthly cash flow a clearer view of the fund’s distribution policy and structure. Amid interest in semiconductor-sector and covered call ETFs, future distribution continuity and operating performance are expected to remain key factors for investors. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "TIGER半導体TOP10カバードコールアクティブ、初分配金170ウォン",
+        "excerpt": "未来アセット資産運用は13日、TIGER半導体TOP10カバードコールアクティブETFが今月、初分配金として1口当たり170ウォンを支払うと発表した。前日終値基準の月分配率は1.27%だ。",
+        "body": "未来アセット資産運用は13日、「TIGER半導体TOP10カバードコールアクティブ上場投資信託（ETF）」が今月、初分配金として1口当たり170ウォンを支払うと明らかにした。今回の分配金は、前日の終値を基準に月1.27%の水準となる。同ETFは半導体関連の上位銘柄に投資しながら、カバードコール戦略を活用するアクティブETFだ。初分配金の支払いは、月次のキャッシュフローを重視する投資家にとって、商品構造と分配方針を確認できる事例となる。半導体セクターとカバードコールETFへの関心が続くなか、今後の分配継続性と運用成果が投資判断の主な要素になる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "TIGER半导体TOP10备兑看涨主动ETF首派每份170韩元",
+        "excerpt": "未来资产资管13日表示，TIGER半导体TOP10备兑看涨主动ETF本月将支付首笔分配金，每份170韩元；按前一日收盘价计算，月分配率为1.27%。",
+        "body": "未来资产资产管理13日表示，“TIGER半导体TOP10备兑看涨主动交易型开放式指数基金（ETF）”本月将支付首笔分配金，每份170韩元。此次分配金额按前一日收盘价计算，月分配率为1.27%。该ETF是一只主动型产品，投资于半导体相关龙头股票，同时运用备兑看涨策略。首笔分配金的支付，为重视月度现金流的投资者提供了观察产品结构和分配政策的依据。在市场关注半导体板块和备兑看涨ETF的背景下，未来分配的持续性和运作表现将成为投资判断的重要因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active paga primer dividendo",
+        "excerpt": "Mirae Asset Global Investments informó el día 13 que el ETF TIGER Semiconductor TOP10 Covered Call Active pagará este mes su primera distribución, de 170 wones por participación, equivalente a una tasa mensual del 1,27% según el cierre previo.",
+        "body": "Mirae Asset Global Investments informó el día 13 que el ETF ‘TIGER Semiconductor TOP10 Covered Call Active’ pagará este mes su primera distribución, de 170 wones por participación. El importe equivale a una tasa mensual del 1,27% según el precio de cierre del día anterior. El ETF es un fondo activo que invierte en principales valores relacionados con semiconductores y utiliza una estrategia de covered call. El primer pago permite a los inversores centrados en flujos de efectivo mensuales comprobar la estructura del producto y su política de distribución. En medio del interés por el sector de semiconductores y los ETF de covered call, la continuidad de las distribuciones y el desempeño de gestión seguirán siendo factores clave de evaluación. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active paga 1ª distribuição",
+        "excerpt": "A Mirae Asset Global Investments informou no dia 13 que o ETF TIGER Semiconductor TOP10 Covered Call Active pagará neste mês sua primeira distribuição, de 170 won por cota, uma taxa mensal de 1,27% com base no fechamento anterior.",
+        "body": "A Mirae Asset Global Investments informou no dia 13 que o ETF ‘TIGER Semiconductor TOP10 Covered Call Active’ pagará neste mês sua primeira distribuição, no valor de 170 won por cota. O montante corresponde a uma taxa mensal de 1,27% com base no preço de fechamento do dia anterior. O ETF é um fundo ativo que investe em principais ações ligadas a semicondutores e utiliza uma estratégia de covered call. O primeiro pagamento ajuda investidores focados em fluxo de caixa mensal a avaliar a estrutura do produto e sua política de distribuição. Com o interesse em ETFs de semicondutores e covered call, a continuidade das distribuições e o desempenho da gestão devem seguir como fatores importantes de decisão. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active zahlt erste Ausschüttung",
+        "excerpt": "Mirae Asset Global Investments teilte am 13. mit, dass der ETF TIGER Semiconductor TOP10 Covered Call Active in diesem Monat seine erste Ausschüttung von 170 Won je Anteil zahlt; auf Basis des Vortagsschlusses entspricht das 1,27% monatlich.",
+        "body": "Mirae Asset Global Investments teilte am 13. mit, dass der ‘TIGER Semiconductor TOP10 Covered Call Active ETF’ in diesem Monat seine erste Ausschüttung von 170 Won je Anteil zahlen wird. Der Betrag entspricht auf Basis des Schlusskurses vom Vortag einer monatlichen Ausschüttungsrate von 1,27%. Der ETF ist ein aktiv verwaltetes Produkt, das in führende Halbleiterwerte investiert und zugleich eine Covered-Call-Strategie nutzt. Die erste Auszahlung gibt Anlegern, die monatliche Zahlungsströme bevorzugen, einen konkreten Blick auf Produktstruktur und Ausschüttungspolitik. Angesichts des Interesses an Halbleiter- und Covered-Call-ETFs dürften Kontinuität der Ausschüttungen und Anlageergebnis wichtige Entscheidungsfaktoren bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active verse sa première distribution",
+        "excerpt": "Mirae Asset Global Investments a annoncé le 13 que l’ETF TIGER Semiconductor TOP10 Covered Call Active versera ce mois-ci sa première distribution, à 170 wons par part, soit un taux mensuel de 1,27% selon la clôture précédente.",
+        "body": "Mirae Asset Global Investments a annoncé le 13 que l’ETF ‘TIGER Semiconductor TOP10 Covered Call Active’ versera ce mois-ci sa première distribution, de 170 wons par part. Ce montant correspond à un taux mensuel de 1,27% sur la base du cours de clôture de la veille. Cet ETF actif investit dans les principales valeurs liées aux semi-conducteurs tout en utilisant une stratégie de covered call. Ce premier versement permet aux investisseurs recherchant des flux de trésorerie mensuels d’observer plus concrètement la structure du produit et sa politique de distribution. Dans un contexte d’intérêt pour les semi-conducteurs et les ETF covered call, la continuité des distributions et la performance de gestion devraient rester des critères majeurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صندوق TIGER Semiconductor TOP10 Covered Call Active يدفع أول توزيع",
+        "excerpt": "قالت ميراي أسيت غلوبال إنفستمنتس في 13 من الشهر إن صندوق TIGER Semiconductor TOP10 Covered Call Active ETF سيدفع هذا الشهر أول توزيع له بقيمة 170 وون للسهم، بما يعادل معدل توزيع شهري 1.27% استنادا إلى إغلاق اليوم السابق.",
+        "body": "قالت ميراي أسيت غلوبال إنفستمنتس في 13 من الشهر إن صندوق ‘TIGER Semiconductor TOP10 Covered Call Active ETF’ سيدفع هذا الشهر أول توزيع له بقيمة 170 وون لكل سهم. ويمثل هذا المبلغ معدل توزيع شهري قدره 1.27% بناء على سعر الإغلاق في اليوم السابق. الصندوق منتج نشط يستثمر في أسهم رئيسية مرتبطة بقطاع أشباه الموصلات، مع استخدام استراتيجية covered call. ويمنح أول توزيع المستثمرين المهتمين بالتدفقات النقدية الشهرية فرصة أوضح لمراجعة هيكل المنتج وسياسة التوزيع. ومع الاهتمام بصناديق أشباه الموصلات وصناديق covered call، ستظل استمرارية التوزيعات وأداء الإدارة عاملين مهمين في قرارات الاستثمار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active ETF का पहला वितरण 170 वॉन",
+        "excerpt": "Mirae Asset Global Investments ने 13 तारीख को कहा कि TIGER Semiconductor TOP10 Covered Call Active ETF इस महीने अपना पहला वितरण प्रति शेयर 170 वॉन देगा। पिछले बंद भाव के आधार पर मासिक वितरण दर 1.27% है।",
+        "body": "Mirae Asset Global Investments ने 13 तारीख को बताया कि ‘TIGER Semiconductor TOP10 Covered Call Active ETF’ इस महीने अपना पहला वितरण प्रति शेयर 170 वॉन के रूप में करेगा। यह राशि पिछले दिन के बंद भाव के आधार पर 1.27% की मासिक वितरण दर के बराबर है। यह ETF एक सक्रिय फंड है, जो प्रमुख सेमीकंडक्टर-संबंधित शेयरों में निवेश करता है और covered call रणनीति का उपयोग करता है। पहला वितरण मासिक नकदी प्रवाह को महत्व देने वाले निवेशकों को उत्पाद संरचना और वितरण नीति को समझने का आधार देता है। सेमीकंडक्टर सेक्टर और covered call ETF में रुचि के बीच, आगे वितरण की निरंतरता और परिचालन प्रदर्शन निवेश निर्णय के प्रमुख तत्व रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "TIGER Semiconductor TOP10 Covered Call Active bayar distribusi pertama",
+        "excerpt": "Mirae Asset Global Investments menyatakan pada tanggal 13 bahwa ETF TIGER Semiconductor TOP10 Covered Call Active akan membayar distribusi pertama bulan ini sebesar 170 won per unit, setara tingkat bulanan 1,27% berdasarkan penutupan sebelumnya.",
+        "body": "Mirae Asset Global Investments menyatakan pada tanggal 13 bahwa ‘TIGER Semiconductor TOP10 Covered Call Active ETF’ akan membayar distribusi pertama bulan ini sebesar 170 won per unit. Jumlah tersebut setara dengan tingkat distribusi bulanan 1,27% berdasarkan harga penutupan hari sebelumnya. ETF ini merupakan produk aktif yang berinvestasi pada saham-saham utama terkait semikonduktor sambil menggunakan strategi covered call. Pembayaran pertama ini memberi investor yang mengutamakan arus kas bulanan dasar untuk melihat struktur produk dan kebijakan distribusinya. Di tengah minat terhadap sektor semikonduktor dan ETF covered call, kesinambungan distribusi serta kinerja pengelolaan akan tetap menjadi faktor penting dalam keputusan investasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "65bf059854b7",
     "slug": "320억달러-토큰화-시장-겨냥-jp모건-두-번째-토큰화-mmf-jltxx-sec-서류-제출-180575",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Saham LG Electronics Melonjak 18% Saat Bisnis Robot Jadi Motor Pertumbuhan",
         "excerpt": "LG Electronics naik dua digit pada 12 Mei setelah bisnis robotnya disorot sebagai motor pertumbuhan baru, sementara sekuritas menaikkan target harga ke kisaran 190.000 won.",
         "body": "LG Electronics mencatat kenaikan dua digit di pasar saham pada 12 Mei, didorong ekspektasi terhadap bisnis robotnya. Menurut Korea Exchange, saham LG Electronics naik 18% dalam satu hari dan menunjukkan momentum penguatan yang kuat. Perhatian pasar tertuju pada bisnis robot, yang kini disorot sebagai pilar pertumbuhan baru menggantikan bisnis ponsel sebelumnya. Kalangan sekuritas juga menaikkan target harga LG Electronics ke kisaran 190.000 won, mencerminkan potensi pertumbuhan robotika. Penilaian bahwa bisnis robot merupakan motor pertumbuhan baru tampaknya memengaruhi sentimen investor. Pergerakan saham ke depan diperkirakan bergantung pada kinerja bisnis robot dan keberlanjutan ekspektasi pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b602da41be5f",
-    "slug": "미래에셋證-업계-첫-분기-순익-1조-돌파-256177",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T11:09:16.940Z",
-    "updatedAt": "2026-05-12T11:09:16.940Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051217841",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051217841",
-    "titleFingerprint": "d8ade1ed29c9de4b51e83220416427f7dbe59c0d",
-    "dedupKeys": [
-      "b602da41be5fc3b9e8e22458716226fc6e957dd9",
-      "d8ade1ed29c9de4b51e83220416427f7dbe59c0d",
-      "7e33471adb95a79b898a502940598f7db3f6c370"
-    ],
-    "imageUrl": "/images/articles/b602da41be5f.png",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권, 증권업계 첫 분기 순이익 1조원 돌파",
-        "excerpt": "미래에셋증권이 증권업계에서 처음으로 분기 순이익 1조원을 넘어섰다. 업계 첫 기록이라는 점에서 실적 규모와 시장 내 위상이 함께 주목받고 있다.",
-        "body": "미래에셋증권이 증권업계에서 처음으로 분기 순이익 1조원을 돌파했다. 이번 실적은 한 분기 기준 순이익이 1조원을 넘어선 첫 사례로, 국내 증권업계에서 의미 있는 기록으로 평가된다. 원문에 따르면 미래에셋증권은 업계 첫 분기 순익 1조 돌파라는 성과를 냈다. 구체적인 사업 부문별 기여도나 세부 수치는 원문에 제시되지 않았지만, 분기 단위 이익 규모가 1조원을 넘어섰다는 점은 회사의 수익성과 업계 내 존재감을 보여주는 지표다. 향후 시장은 이번 실적이 증권업계 경쟁 구도와 미래에셋증권의 위상에 어떤 영향을 줄지 주목할 것으로 보인다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Mirae Asset Securities Tops 1 Trillion Won in Quarterly Net Profit",
-        "excerpt": "Mirae Asset Securities became the first brokerage firm in its industry to exceed 1 trillion won in quarterly net profit, drawing attention to its earnings scale and market position.",
-        "body": "Mirae Asset Securities has become the first company in the securities industry to surpass 1 trillion won in quarterly net profit. The result marks the first time a brokerage has reported net profit above the 1 trillion won threshold for a single quarter, making it a notable milestone for South Korea’s securities sector. According to the original report, Mirae Asset Securities achieved the industry’s first quarterly net profit of more than 1 trillion won. The source did not provide detailed figures by business segment, but the size of the quarterly profit highlights the company’s profitability and presence in the market. Investors and the industry are expected to watch how this result affects Mirae Asset Securities’ standing and the broader competitive landscape. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "未来アセット証券、業界初の四半期純利益1兆ウォン突破",
-        "excerpt": "未来アセット証券が証券業界で初めて四半期純利益1兆ウォンを突破した。業界初の記録として、収益規模と市場での存在感に注目が集まっている。",
-        "body": "未来アセット証券が証券業界で初めて四半期純利益1兆ウォンを突破した。1四半期ベースの純利益が1兆ウォンを超えた初の事例であり、韓国の証券業界における意味ある記録と受け止められる。原文によると、未来アセット証券は業界初となる四半期純益1兆ウォン突破を達成した。事業部門別の寄与度や詳細な数値は原文に示されていないが、四半期単位の利益規模が1兆ウォンを上回った点は、同社の収益力と業界内での存在感を示す指標となる。今後、市場は今回の実績が証券業界の競争構図と同社の地位に与える影響を注視するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "未来资产证券季度净利润首破1万亿韩元，创行业纪录",
-        "excerpt": "未来资产证券成为证券行业首家季度净利润超过1万亿韩元的公司。这一行业首例纪录，使其盈利规模和市场地位受到关注。",
-        "body": "未来资产证券成为证券行业首家季度净利润突破1万亿韩元的公司。这是单个季度净利润超过1万亿韩元的首个案例，被视为韩国证券行业具有意义的纪录。根据原文，未来资产证券实现了行业首次季度净利润突破1万亿韩元的成绩。原文未列出各业务部门贡献或更详细数据，但季度利润规模超过1万亿韩元本身，显示出公司的盈利能力和在行业中的存在感。市场今后将关注这一业绩对证券行业竞争格局以及未来资产证券市场地位可能产生的影响。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Mirae Asset Securities supera 1 billón de wones de beneficio trimestral",
-        "excerpt": "Mirae Asset Securities fue la primera firma del sector de valores en superar 1 billón de wones de beneficio neto trimestral, un hito que destaca su escala y posición.",
-        "body": "Mirae Asset Securities se convirtió en la primera compañía del sector de valores en superar 1 billón de wones de beneficio neto trimestral. El resultado marca el primer caso en que el beneficio neto de un trimestre rebasa ese umbral, por lo que se considera un registro relevante para la industria bursátil surcoreana. Según el reporte original, Mirae Asset Securities logró el primer beneficio trimestral del sector por encima de 1 billón de wones. La fuente no incluyó aportes por área de negocio ni cifras más detalladas, pero el tamaño del beneficio trimestral muestra la rentabilidad de la empresa y su presencia en el mercado. El sector observará cómo este resultado influye en la posición de la compañía y en la competencia. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Mirae Asset Securities supera 1 trilhão de won em lucro trimestral",
-        "excerpt": "A Mirae Asset Securities foi a primeira corretora do setor a superar 1 trilhão de won em lucro líquido trimestral, chamando atenção para sua escala de ganhos e posição.",
-        "body": "A Mirae Asset Securities tornou-se a primeira empresa do setor de valores mobiliários a superar 1 trilhão de won em lucro líquido trimestral. O resultado representa o primeiro caso em que o lucro líquido de um único trimestre ultrapassa esse patamar, sendo visto como um marco relevante para a indústria sul-coreana de corretagem. Segundo o relato original, a Mirae Asset Securities alcançou o primeiro lucro trimestral do setor acima de 1 trilhão de won. A fonte não apresentou contribuições por segmento de negócio nem números detalhados, mas o volume do lucro trimestral evidencia a rentabilidade da companhia e sua presença no mercado. O setor deve acompanhar os efeitos desse resultado sobre a posição da empresa e a concorrência. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Mirae Asset Securities knackt erstmals 1 Billion Won Quartalsgewinn",
-        "excerpt": "Mirae Asset Securities hat als erstes Unternehmen der Wertpapierbranche einen Quartalsnettogewinn von mehr als 1 Billion Won erzielt und rückt damit stärker in den Fokus.",
-        "body": "Mirae Asset Securities hat als erstes Unternehmen der Wertpapierbranche einen Quartalsnettogewinn von mehr als 1 Billion Won erzielt. Damit wurde erstmals in einem einzelnen Quartal die Schwelle von 1 Billion Won beim Nettogewinn überschritten, was als bedeutende Marke für die südkoreanische Wertpapierbranche gilt. Dem Originalbericht zufolge erreichte Mirae Asset Securities als erstes Unternehmen der Branche diesen Quartalsnettogewinn. Details zu einzelnen Geschäftsbereichen oder weitere Kennzahlen wurden in der Quelle nicht genannt. Die Gewinnhöhe zeigt jedoch die Ertragskraft des Unternehmens und seine Präsenz im Markt. Beobachter dürften nun darauf achten, wie sich dieses Ergebnis auf die Stellung von Mirae Asset Securities und den Wettbewerb auswirkt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Mirae Asset Securities dépasse 1 000 milliards de wons de bénéfice trimestriel",
-        "excerpt": "Mirae Asset Securities est devenue la première société de courtage à dépasser 1 000 milliards de wons de bénéfice net trimestriel, un jalon pour le secteur.",
-        "body": "Mirae Asset Securities est devenue la première entreprise du secteur des valeurs mobilières à dépasser 1 000 milliards de wons de bénéfice net trimestriel. Ce résultat constitue le premier cas où le bénéfice net d’un seul trimestre franchit ce seuil, ce qui en fait un jalon notable pour le secteur sud-coréen du courtage. Selon le rapport original, Mirae Asset Securities a réalisé le premier bénéfice trimestriel du secteur supérieur à 1 000 milliards de wons. La source ne détaille pas les contributions par activité ni d’autres chiffres, mais l’ampleur du bénéfice trimestriel met en évidence la rentabilité de l’entreprise et sa présence sur le marché. Le secteur suivra l’effet de cette performance sur sa position et la concurrence. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ميراي أسيت سيكيوريتيز تتجاوز تريليون وون أرباحا فصلية لأول مرة",
-        "excerpt": "أصبحت ميراي أسيت سيكيوريتيز أول شركة في قطاع الأوراق المالية تتجاوز تريليون وون من صافي الربح الفصلي، ما يسلط الضوء على حجم أرباحها ومكانتها.",
-        "body": "أصبحت ميراي أسيت سيكيوريتيز أول شركة في قطاع الأوراق المالية تتجاوز تريليون وون من صافي الربح الفصلي. ويعد ذلك أول تسجيل لصافي ربح يتخطى تريليون وون في ربع واحد، وهو رقم له دلالة في صناعة الأوراق المالية الكورية الجنوبية. ووفقا للتقرير الأصلي، حققت ميراي أسيت سيكيوريتيز إنجازا هو الأول في القطاع بتجاوز صافي الربح الفصلي تريليون وون. ولم يورد المصدر تفاصيل مساهمة قطاعات الأعمال أو أرقاما إضافية، لكن حجم الربح الفصلي يعكس ربحية الشركة وحضورها في السوق. ومن المتوقع أن تتابع الأسواق أثر هذه النتيجة في مكانة الشركة وفي خريطة المنافسة داخل القطاع. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Mirae Asset Securities का तिमाही शुद्ध लाभ 1 ट्रिलियन वॉन के पार",
-        "excerpt": "Mirae Asset Securities प्रतिभूति उद्योग की पहली कंपनी बनी, जिसने तिमाही शुद्ध लाभ में 1 ट्रिलियन वॉन को पार किया। इस रिकॉर्ड ने उसकी आय क्षमता और बाजार स्थिति पर ध्यान खींचा।",
-        "body": "Mirae Asset Securities प्रतिभूति उद्योग की पहली कंपनी बन गई है, जिसने तिमाही शुद्ध लाभ में 1 ट्रिलियन वॉन को पार किया। किसी एक तिमाही में शुद्ध लाभ का इस स्तर से ऊपर जाना उद्योग के लिए पहला मामला है और दक्षिण कोरिया के प्रतिभूति क्षेत्र में एक महत्वपूर्ण रिकॉर्ड माना जा रहा है। मूल रिपोर्ट के अनुसार, Mirae Asset Securities ने उद्योग में पहली बार तिमाही शुद्ध लाभ 1 ट्रिलियन वॉन से अधिक दर्ज किया। स्रोत में व्यवसाय खंडों के योगदान या विस्तृत आंकड़े नहीं दिए गए, लेकिन तिमाही लाभ का आकार कंपनी की लाभप्रदता और बाजार में उसकी उपस्थिति को दिखाता है। बाजार अब देखेगा कि यह प्रदर्शन कंपनी की स्थिति और उद्योग की प्रतिस्पर्धा पर क्या असर डालता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Mirae Asset Securities Cetak Laba Bersih Kuartalan di Atas 1 Triliun Won",
-        "excerpt": "Mirae Asset Securities menjadi perusahaan sekuritas pertama yang melampaui laba bersih kuartalan 1 triliun won, menyoroti skala pendapatan dan posisinya di pasar.",
-        "body": "Mirae Asset Securities menjadi perusahaan pertama di industri sekuritas yang mencatat laba bersih kuartalan di atas 1 triliun won. Capaian ini merupakan kasus pertama ketika laba bersih dalam satu kuartal melewati ambang 1 triliun won, sehingga menjadi catatan penting bagi industri sekuritas Korea Selatan. Menurut laporan asli, Mirae Asset Securities meraih pencapaian pertama di industri dengan laba bersih kuartalan yang melampaui 1 triliun won. Sumber tidak memuat kontribusi per segmen bisnis atau angka rinci lainnya, tetapi besarnya laba kuartalan menunjukkan profitabilitas perusahaan dan kehadirannya di pasar. Pasar akan mencermati dampak hasil ini terhadap posisi Mirae Asset Securities dan persaingan industri. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "9279bc9c7f5b",
-    "slug": "삼전-노조-파업-걱정할-때-아냐목표가-2주-만에-바꿨다-810714",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T11:07:30.376Z",
-    "updatedAt": "2026-05-12T11:07:30.376Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051217851",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051217851",
-    "titleFingerprint": "fecf05fff411930a54a95abe096ae1cdfdb106e4",
-    "dedupKeys": [
-      "9279bc9c7f5b2f0e3a1f7f3d83b4098dfb27bfe3",
-      "fecf05fff411930a54a95abe096ae1cdfdb106e4",
-      "858c6e26106b069e39ffdb0734b8439248eb68c8"
-    ],
-    "imageUrl": "/images/articles/9279bc9c7f5b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 목표가 2주 만에 변경, 노조 파업보다 주목할 변수는",
-        "excerpt": "한국경제는 삼성전자를 둘러싼 노조 파업 우려보다 목표가가 2주 만에 바뀐 점에 시장의 관심이 쏠리고 있다고 보도했다.",
-        "body": "한국경제는 삼성전자를 둘러싼 시장의 초점이 노조 파업 우려에만 머물 상황이 아니라고 전했다. 보도 제목에 따르면 삼성전자에 대한 목표가는 불과 2주 만에 변경됐다. 이는 투자자들이 노조 이슈와 함께 증권가의 평가 변화에도 주목해야 한다는 맥락으로 읽힌다. 다만 원문에 제시된 정보는 제목과 출처 수준으로 제한돼 있어 목표가 조정의 방향, 구체적 금액, 조정 배경은 확인되지 않았다. 이번 보도는 삼성전자 주가와 투자심리에 영향을 줄 수 있는 평가 변화가 짧은 기간 안에 발생했다는 점을 부각한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samsung Electronics Target Price Changed in Two Weeks, Beyond Union Strike Concerns",
-        "excerpt": "The Korea Economic Daily reported that market attention around Samsung Electronics is shifting from union strike concerns to a target price change made within two weeks.",
-        "body": "The Korea Economic Daily reported that the market focus on Samsung Electronics should not be limited to concerns over a union strike. According to the reported headline, the target price for Samsung Electronics was changed in just two weeks. This suggests that investors may need to watch changes in brokerage assessments as well as labor-related issues. However, the available original information is limited to the headline and source, so the direction of the target price change, the exact figure, and the reason for the adjustment are not confirmed. The report highlights that a valuation change relevant to Samsung Electronics’ share price and investor sentiment occurred over a short period. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子の目標株価が2週間で変更、労組スト懸念以外の焦点",
-        "excerpt": "韓国経済新聞は、サムスン電子を巡り労組ストへの懸念だけでなく、2週間で目標株価が変更された点に市場の関心が集まっていると報じた。",
-        "body": "韓国経済新聞は、サムスン電子を巡る市場の焦点が労組ストへの懸念だけにとどまる状況ではないと伝えた。報道タイトルによると、サムスン電子の目標株価はわずか2週間で変更された。これは投資家が労組問題とともに、証券会社などによる評価の変化にも注目する必要があるという文脈で読める。ただし、原文で確認できる情報はタイトルと出典の範囲に限られており、目標株価変更の方向、具体的な金額、調整の背景は確認されていない。今回の報道は、サムスン電子の株価や投資心理に影響し得る評価変化が短期間で起きた点を強調している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三星电子目标价两周内调整，市场焦点不只工会罢工担忧",
-        "excerpt": "韩国经济新闻报道称，围绕三星电子的市场关注点不只在工会罢工担忧，目标价在两周内发生变化也引发关注。",
-        "body": "韩国经济新闻报道称，围绕三星电子的市场焦点不应只停留在工会罢工担忧上。根据报道标题，三星电子的目标价在短短两周内发生了调整。这意味着投资者在关注工会相关议题的同时，也需要留意证券市场评价的变化。不过，原文可用信息仅限于标题和来源，因此目标价调整方向、具体金额以及调整背景尚未确认。该报道强调，与三星电子股价和投资者情绪相关的估值变化在较短时间内出现。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samsung Electronics cambia precio objetivo en dos semanas, más allá de la huelga sindical",
-        "excerpt": "The Korea Economic Daily informó que la atención sobre Samsung Electronics no se limita a la huelga sindical, sino también al cambio del precio objetivo en dos semanas.",
-        "body": "The Korea Economic Daily informó que el foco del mercado sobre Samsung Electronics no debería limitarse a la preocupación por una huelga sindical. Según el titular, el precio objetivo de Samsung Electronics cambió en apenas dos semanas. Esto indica que los inversores podrían necesitar seguir tanto los temas laborales como los cambios en las valoraciones de mercado. Sin embargo, la información original disponible se limita al titular y a la fuente, por lo que no se confirma la dirección del ajuste, la cifra concreta ni el motivo del cambio. El reporte subraya que una variación de valoración relevante para la acción de Samsung Electronics y el ánimo inversor ocurrió en un corto periodo. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samsung Electronics muda preço-alvo em duas semanas, além da preocupação com greve",
-        "excerpt": "O Korea Economic Daily informou que a atenção sobre a Samsung Electronics vai além da greve sindical, com destaque para a mudança do preço-alvo em duas semanas.",
-        "body": "O Korea Economic Daily informou que o foco do mercado em torno da Samsung Electronics não deve ficar restrito à preocupação com uma greve sindical. Segundo o título da reportagem, o preço-alvo da Samsung Electronics foi alterado em apenas duas semanas. Isso sugere que investidores podem precisar acompanhar tanto questões trabalhistas quanto mudanças nas avaliações do mercado. No entanto, as informações originais disponíveis se limitam ao título e à fonte, portanto a direção do ajuste, o valor exato e o motivo da mudança não foram confirmados. A reportagem destaca que uma alteração de avaliação relevante para as ações da Samsung Electronics e para o sentimento dos investidores ocorreu em curto prazo. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samsung Electronics: Kursziel nach zwei Wochen geändert, Streik nicht einziger Fokus",
-        "excerpt": "The Korea Economic Daily berichtete, dass bei Samsung Electronics neben Sorgen über einen Gewerkschaftsstreik auch die Kurszieländerung binnen zwei Wochen im Fokus steht.",
-        "body": "The Korea Economic Daily berichtete, dass sich der Marktfokus bei Samsung Electronics nicht allein auf Sorgen über einen Gewerkschaftsstreik beschränken sollte. Dem Titel zufolge wurde das Kursziel für Samsung Electronics innerhalb von nur zwei Wochen geändert. Das deutet darauf hin, dass Anleger neben arbeitsbezogenen Themen auch Veränderungen in der Marktbewertung beachten müssen. Die verfügbaren Originalinformationen beschränken sich jedoch auf Titel und Quelle, weshalb Richtung, konkreter Betrag und Hintergrund der Kurszielanpassung nicht bestätigt sind. Der Bericht hebt hervor, dass eine für Aktienkurs und Anlegerstimmung relevante Bewertungsänderung bei Samsung Electronics in kurzer Zeit erfolgte. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samsung Electronics voit son objectif changé en deux semaines, au-delà de la grève",
-        "excerpt": "The Korea Economic Daily a rapporté que l’attention autour de Samsung Electronics ne porte pas seulement sur la grève syndicale, mais aussi sur le changement d’objectif en deux semaines.",
-        "body": "The Korea Economic Daily a rapporté que l’attention du marché autour de Samsung Electronics ne devrait pas se limiter aux inquiétudes liées à une grève syndicale. Selon le titre, l’objectif de cours de Samsung Electronics a été modifié en seulement deux semaines. Cela suggère que les investisseurs doivent suivre les questions sociales ainsi que les changements d’évaluation du marché. Toutefois, les informations originales disponibles se limitent au titre et à la source; la direction de l’ajustement, le montant précis et son motif ne sont donc pas confirmés. Le rapport souligne qu’un changement d’évaluation susceptible d’influencer l’action Samsung Electronics et le sentiment des investisseurs est intervenu sur une courte période. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس تغيّر السعر المستهدف خلال أسبوعين والأنظار لا تقتصر على الإضراب",
-        "excerpt": "ذكرت صحيفة كوريا الاقتصادية أن الاهتمام بسامسونغ إلكترونيكس لا يقتصر على مخاوف إضراب النقابة، بل يشمل تغيير السعر المستهدف خلال أسبوعين.",
-        "body": "ذكرت صحيفة كوريا الاقتصادية أن تركيز السوق على سامسونغ إلكترونيكس لا ينبغي أن يقتصر على المخاوف من إضراب النقابة. ووفق عنوان التقرير، تغير السعر المستهدف لسهم سامسونغ إلكترونيكس خلال أسبوعين فقط. ويشير ذلك إلى أن المستثمرين قد يحتاجون إلى متابعة القضايا العمالية إلى جانب تغيرات تقييم السوق. لكن المعلومات الأصلية المتاحة تقتصر على العنوان والمصدر، لذلك لم يتم تأكيد اتجاه تعديل السعر المستهدف أو الرقم المحدد أو خلفية التغيير. يبرز التقرير أن تغيرا في التقييم، قد يكون ذا صلة بسعر سهم سامسونغ إلكترونيكس ومعنويات المستثمرين، حدث خلال فترة قصيرة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Samsung Electronics का लक्ष्य मूल्य दो हफ्तों में बदला, हड़ताल से आगे बाजार की नजर",
-        "excerpt": "The Korea Economic Daily ने बताया कि Samsung Electronics पर बाजार का ध्यान केवल यूनियन हड़ताल की चिंता तक सीमित नहीं, बल्कि दो हफ्तों में लक्ष्य मूल्य बदलने पर भी है।",
-        "body": "The Korea Economic Daily ने बताया कि Samsung Electronics को लेकर बाजार का ध्यान केवल यूनियन हड़ताल की चिंता तक सीमित रहने की स्थिति में नहीं है। रिपोर्ट के शीर्षक के अनुसार, Samsung Electronics का लक्ष्य मूल्य सिर्फ दो हफ्तों में बदल दिया गया। इससे संकेत मिलता है कि निवेशकों को श्रम संबंधी मुद्दों के साथ बाजार मूल्यांकन में बदलावों पर भी नजर रखनी पड़ सकती है। हालांकि उपलब्ध मूल जानकारी शीर्षक और स्रोत तक सीमित है, इसलिए लक्ष्य मूल्य में बदलाव की दिशा, सटीक राशि और समायोजन की वजह की पुष्टि नहीं है। रिपोर्ट इस बात को रेखांकित करती है कि Samsung Electronics के शेयर मूल्य और निवेशक भावना से जुड़ा मूल्यांकन बदलाव कम समय में हुआ। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Target Harga Samsung Electronics Berubah Dua Pekan, Fokus Tak Hanya Mogok Serikat",
-        "excerpt": "The Korea Economic Daily melaporkan perhatian pada Samsung Electronics tidak hanya tertuju pada kekhawatiran mogok serikat, tetapi juga perubahan target harga dalam dua pekan.",
-        "body": "The Korea Economic Daily melaporkan bahwa fokus pasar terhadap Samsung Electronics tidak seharusnya hanya berhenti pada kekhawatiran mogok serikat pekerja. Berdasarkan judul laporan, target harga Samsung Electronics berubah hanya dalam dua pekan. Hal ini menunjukkan investor perlu mencermati isu ketenagakerjaan sekaligus perubahan penilaian pasar. Namun, informasi asli yang tersedia terbatas pada judul dan sumber, sehingga arah perubahan target harga, angka spesifik, dan alasan penyesuaian belum terkonfirmasi. Laporan ini menyoroti bahwa perubahan valuasi yang dapat berkaitan dengan harga saham Samsung Electronics dan sentimen investor terjadi dalam waktu singkat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e45501e15a8d",
-    "slug": "삼전닉스채권-내세운-kb운용-이번엔-현대차피지컬ai-타겟팅-118808",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T11:05:51.196Z",
-    "updatedAt": "2026-05-12T11:05:51.196Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051217831",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051217831",
-    "titleFingerprint": "bcdcfd704e39a95dbc67987ff8ab728274e0301d",
-    "dedupKeys": [
-      "e45501e15a8dacb0eb9df2f9185823f0521070ba",
-      "bcdcfd704e39a95dbc67987ff8ab728274e0301d",
-      "5aa06cbd5f714e1de5a2f479a217c790d198c05b"
-    ],
-    "imageUrl": "/images/articles/e45501e15a8d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KB운용, 현대차 피지컬AI ETF 상장…삼전닉스 채권 흥행 잇는다",
-        "excerpt": "KB자산운용은 12일 현대차그룹과 핵심 협력사에 투자하는 RISE 현대차고정피지컬AI ETF를 상장하며 ETF 라인업을 넓혔다.",
-        "body": "KB자산운용은 12일 현대차그룹과 핵심 협력사에 집중 투자하는 ‘RISE 현대차고정피지컬AI ETF’를 상장했다. 이 상품은 현대차를 25% 고정 편입하고, 자율주행·로보틱스·공장자동화와 관련성이 높은 상위 14개 종목에 투자하는 구조다. 주요 편입 종목은 현대차, 현대모비스, 기아, 레인보우로보틱스, LG이노텍, 현대오토에버 등이다. 앞서 KB운용의 ‘RISE 삼성전자SK하이닉스채권혼합50 ETF’는 삼성전자와 SK하이닉스를 각각 25%, 채권을 50% 담아 흥행했다. 이번 상품은 반도체·채권 혼합형 이후 피지컬 AI 생태계로 투자 범위를 넓힌 사례다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KB Asset Lists Hyundai Motor Physical AI ETF After Chip-Bond Success",
-        "excerpt": "KB Asset Management listed the RISE Hyundai Motor Fixed Physical AI ETF on May 12, targeting Hyundai Motor Group and key partner companies.",
-        "body": "KB Asset Management listed the RISE Hyundai Motor Fixed Physical AI ETF on May 12, focusing on Hyundai Motor Group and its key partners. The fund fixes Hyundai Motor at 25% and invests in the top 14 stocks most closely linked to autonomous driving, robotics and factory automation. Major holdings include Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek and Hyundai AutoEver. KB’s earlier RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF gained attention by holding 25% each in Samsung Electronics and SK Hynix and 50% in bonds. The new product expands its ETF theme from chips and bonds to the physical AI ecosystem. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KB運用、現代車フィジカルAI ETF上場…半導体債券型の次へ",
-        "excerpt": "KB資産運用は12日、現代自動車グループと主要協力企業に投資するRISE現代車固定フィジカルAI ETFを上場した。",
-        "body": "KB資産運用は12日、現代自動車グループと主要協力企業に重点投資する「RISE現代車固定フィジカルAI ETF」を上場した。同商品は現代自動車を25%固定で組み入れ、自動運転、ロボティクス、工場自動化との関連性が高い上位14銘柄に投資する仕組みだ。主な組み入れ予定銘柄は現代自動車、現代モービス、起亜、レインボーロボティクス、LGイノテック、現代オートエバーなど。KB運用は先に、サムスン電子とSKハイニックスを各25%、債券を50%組み入れるETFで注目を集めた。今回の商品は投資対象をフィジカルAI生態系へ広げるものだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KB资管上市现代汽车Physical AI ETF，延续芯片债券ETF热度",
-        "excerpt": "KB资产管理12日上市RISE现代汽车固定Physical AI ETF，投资现代汽车集团及核心合作企业，扩展ETF产品线。",
-        "body": "KB资产管理12日上市“RISE现代汽车固定Physical AI ETF”，重点投资现代汽车集团及核心合作企业。该产品将现代汽车固定纳入25%，并投资与自动驾驶、机器人、工厂自动化相关度较高的前14只股票。主要成分包括现代汽车、现代摩比斯、起亚、Rainbow Robotics、LG Innotek、Hyundai AutoEver等。此前，KB资管的RISE三星电子SK海力士债券混合50 ETF以三星电子和SK海力士各25%、债券50%的结构受到关注。此次新产品显示其投资主题从半导体与债券延伸至Physical AI生态。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KB Asset lanza ETF de Hyundai Motor y physical AI tras éxito chip-bonos",
-        "excerpt": "KB Asset Management listó el 12 de mayo el RISE Hyundai Motor Fixed Physical AI ETF, centrado en Hyundai Motor Group y socios clave.",
-        "body": "KB Asset Management listó el 12 de mayo el RISE Hyundai Motor Fixed Physical AI ETF, enfocado en Hyundai Motor Group y sus socios clave. El fondo mantiene una ponderación fija del 25% en Hyundai Motor e invierte en las 14 acciones más relacionadas con conducción autónoma, robótica y automatización fabril. Entre las principales posiciones figuran Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek y Hyundai AutoEver. Antes, su RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF atrajo atención al combinar 25% en Samsung Electronics, 25% en SK Hynix y 50% en bonos. El nuevo producto amplía el foco hacia el ecosistema de physical AI. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KB Asset lista ETF de Hyundai Motor e physical AI após chip-bonds",
-        "excerpt": "A KB Asset Management listou em 12 de maio o RISE Hyundai Motor Fixed Physical AI ETF, voltado ao Hyundai Motor Group e parceiros essenciais.",
-        "body": "A KB Asset Management listou em 12 de maio o RISE Hyundai Motor Fixed Physical AI ETF, com foco no Hyundai Motor Group e em parceiros estratégicos. O fundo mantém Hyundai Motor com peso fixo de 25% e investe nas 14 ações mais ligadas a direção autônoma, robótica e automação industrial. Entre os principais nomes estão Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek e Hyundai AutoEver. Antes, o RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF ganhou destaque ao alocar 25% em Samsung Electronics, 25% em SK Hynix e 50% em bonds. O novo ETF leva a linha para o ecossistema de physical AI. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KB Asset bringt Hyundai Motor Physical-AI-ETF nach Chip-Bond-Erfolg",
-        "excerpt": "KB Asset Management hat am 12. Mai den RISE Hyundai Motor Fixed Physical AI ETF gelistet, mit Fokus auf Hyundai Motor Group und Partner.",
-        "body": "KB Asset Management hat am 12. Mai den RISE Hyundai Motor Fixed Physical AI ETF gelistet, der sich auf Hyundai Motor Group und wichtige Partnerunternehmen konzentriert. Der Fonds gewichtet Hyundai Motor fest mit 25% und investiert in die 14 Aktien mit der höchsten Nähe zu autonomem Fahren, Robotik und Fabrikautomatisierung. Zu den wichtigsten Positionen zählen Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek und Hyundai AutoEver. Zuvor hatte KB mit dem RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF Aufmerksamkeit erzielt, der Samsung Electronics und SK Hynix zu je 25% sowie Anleihen zu 50% hält. Das neue Produkt erweitert den Fokus auf das Physical-AI-Ökosystem. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KB Asset lance un ETF Hyundai Motor Physical AI après les puces-obligations",
-        "excerpt": "KB Asset Management a coté le 12 mai le RISE Hyundai Motor Fixed Physical AI ETF, ciblant Hyundai Motor Group et ses partenaires clés.",
-        "body": "KB Asset Management a coté le 12 mai le RISE Hyundai Motor Fixed Physical AI ETF, centré sur Hyundai Motor Group et ses partenaires clés. Le fonds fixe la pondération de Hyundai Motor à 25% et investit dans les 14 valeurs les plus liées à la conduite autonome, à la robotique et à l’automatisation des usines. Les principales lignes comprennent Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek et Hyundai AutoEver. Auparavant, le RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF de KB avait retenu l’attention avec 25% chacun en Samsung Electronics et SK Hynix, et 50% en obligations. Ce nouveau produit élargit le thème vers l’écosystème de la physical AI. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "KB Asset تدرج ETF هيونداي للذكاء الفيزيائي بعد نجاح الرقائق والسندات",
-        "excerpt": "أدرجت KB Asset Management في 12 مايو صندوق RISE Hyundai Motor Fixed Physical AI ETF للاستثمار في مجموعة هيونداي موتور وشركائها الرئيسيين.",
-        "body": "أدرجت KB Asset Management في 12 مايو صندوق RISE Hyundai Motor Fixed Physical AI ETF، الذي يركز على مجموعة هيونداي موتور وشركاتها الشريكة الرئيسية. يثبت الصندوق وزن Hyundai Motor عند 25%، ويستثمر في أعلى 14 سهما ارتباطا بالقيادة الذاتية والروبوتات وأتمتة المصانع. وتشمل المكونات الرئيسية Hyundai Motor وHyundai Mobis وKia وRainbow Robotics وLG Innotek وHyundai AutoEver. وكان صندوق RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF قد لفت الانتباه سابقا عبر توزيع 25% لكل من Samsung Electronics وSK Hynix و50% في السندات. المنتج الجديد يوسع نطاق الاستثمار إلى منظومة الذكاء الفيزيائي. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KB Asset ने Hyundai Motor Physical AI ETF उतारा, चिप-बॉन्ड थीम के बाद",
-        "excerpt": "KB Asset Management ने 12 मई को RISE Hyundai Motor Fixed Physical AI ETF सूचीबद्ध किया, जो Hyundai Motor Group और प्रमुख साझेदारों पर केंद्रित है।",
-        "body": "KB Asset Management ने 12 मई को RISE Hyundai Motor Fixed Physical AI ETF सूचीबद्ध किया, जिसका फोकस Hyundai Motor Group और उसके प्रमुख साझेदारों पर है। यह फंड Hyundai Motor को 25% स्थिर भार देता है और स्वायत्त ड्राइविंग, रोबोटिक्स तथा फैक्ट्री ऑटोमेशन से सबसे अधिक जुड़े शीर्ष 14 शेयरों में निवेश करता है। प्रमुख होल्डिंग्स में Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek और Hyundai AutoEver शामिल हैं। इससे पहले KB का RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF Samsung Electronics और SK Hynix में 25-25% तथा बॉन्ड में 50% निवेश संरचना के कारण चर्चा में रहा था। नया उत्पाद निवेश थीम को physical AI इकोसिस्टम तक बढ़ाता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KB Asset Rilis ETF Hyundai Motor Physical AI Usai Sukses Chip-Obligasi",
-        "excerpt": "KB Asset Management pada 12 Mei mencatatkan RISE Hyundai Motor Fixed Physical AI ETF yang berfokus pada Hyundai Motor Group dan mitra utama.",
-        "body": "KB Asset Management pada 12 Mei mencatatkan RISE Hyundai Motor Fixed Physical AI ETF, yang berfokus pada Hyundai Motor Group dan mitra utamanya. ETF ini menetapkan bobot Hyundai Motor sebesar 25% dan berinvestasi pada 14 saham teratas yang paling terkait dengan kendaraan otonom, robotika, dan otomasi pabrik. Komponen utama mencakup Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek, dan Hyundai AutoEver. Sebelumnya, RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF milik KB menarik perhatian dengan komposisi 25% masing-masing di Samsung Electronics dan SK Hynix serta 50% di obligasi. Produk baru ini memperluas tema investasi ke ekosistem physical AI. Sumber: hankyung.com"
       }
     }
   }
