@@ -1,0 +1,75 @@
+{
+  "id": "e59c9f9b0698",
+  "slug": "천연기념물-진돗개-혈통-블록체인으로-관리한다-420310",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-13T20:45:32.526Z",
+  "updatedAt": "2026-05-13T20:45:32.526Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051342986",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051342986",
+  "titleFingerprint": "38e42891e986dd672f4d64340f18d80e2ea938c3",
+  "dedupKeys": [
+    "e59c9f9b06987104044e7d0caf6f393689e2d6bf",
+    "38e42891e986dd672f4d64340f18d80e2ea938c3",
+    "0a5433e8ee68800cfb4399e8fe14862bd078077b"
+  ],
+  "imageUrl": "/images/articles/e59c9f9b0698.jpg",
+  "i18n": {
+    "ko": {
+      "title": "진돗개 혈통관리 블록체인 도입, 천연기념물 보존 위한 DID 인증 시스템 연내 가동 추진",
+      "excerpt": "전남 진도군은 2026년 5월 블록체인 기반 진돗개 혈통인증관리 시스템 개발에 착수해 천연기념물 진돗개의 출생·성장·건강·분양 정보를 투명하게 관리할 계획이다.",
+      "body": "전남 진도군이 2026년 5월 천연기념물인 진돗개 혈통 관리를 위해 블록체인 기술을 적용한 ‘진돗개 혈통인증관리 시스템’ 개발에 착수한다. 진도군은 10월까지 개발을 마치고 연내 시스템을 가동할 방침이다. 핵심은 분산신원인증(DID) 기반으로 진돗개의 혈통을 관리·추적하는 구조다. DID는 신원 정보를 여러 장부에 분산 저장해 인증 효율성과 위·변조 방지 기능을 높이는 기술이다. 진도군은 혈통 심사를 거쳐 천연기념물로 지정된 약 1100마리에 모바일 혈통 증명서를 발급하고, 체내 RFID를 활용한 혈통 인증 서비스도 디지털화할 계획이다. 향후 운영 추이에 따라 NFT 발급 등 확장 방안도 검토한다. 출처: hankyung.com."
+    },
+    "en": {
+      "title": "Jindo Dog Bloodline Management to Use Blockchain as Jindo County Plans DID System Launch This Year",
+      "excerpt": "Jindo County in South Jeolla will begin developing a blockchain-based pedigree certification system in May 2026 to manage birth, growth, health and adoption records for Natural Monument Jindo dogs.",
+      "body": "Jindo County in South Jeolla Province will begin developing a blockchain-based pedigree certification system in May 2026 to manage the bloodlines of Jindo dogs, a designated Natural Monument. The county plans to complete development by October and operate the system before the end of the year. The project centers on a decentralized identity, or DID, structure to manage and trace pedigrees. DID stores identity data across multiple ledgers, improving authentication efficiency and helping prevent tampering. Jindo County plans to issue mobile pedigree certificates for about 1,100 Jindo dogs that have passed pedigree review and been designated as Natural Monuments. It will also digitize pedigree certification using RFID chips implanted in the dogs. Depending on how the system operates, the county will consider additional uses such as NFT issuance. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "珍島犬の血統管理にブロックチェーン導入、天然記念物保全へDID認証システム年内稼働へ",
+      "excerpt": "全羅南道珍島郡は2026年5月、天然記念物の珍島犬について、出生・成長・健康・分譲情報を透明に管理するブロックチェーン基盤の血統認証システム開発に着手する。",
+      "body": "全羅南道珍島郡は2026年5月、天然記念物である珍島犬の血統管理に向け、ブロックチェーン技術を適用した「珍島犬血統認証管理システム」の開発に着手する。珍島郡は10月までに開発を終え、年内にシステムを稼働させる方針だ。中核となるのは、分散型ID（DID）を基盤に珍島犬の血統を管理・追跡する仕組みである。DIDは身元情報を複数の台帳に分散して保存し、認証効率と改ざん防止機能を高める技術だ。珍島郡は血統審査を経て天然記念物に指定された約1100頭にモバイル血統証明書を発行し、体内RFIDを活用した血統認証サービスもデジタル化する計画だ。運用状況に応じ、NFT発行などの拡張策も検討する。出典: hankyung.com."
+    },
+    "zh": {
+      "title": "珍岛犬血统管理引入区块链，珍岛郡拟年内启用DID认证系统保护天然纪念物",
+      "excerpt": "韩国全罗南道珍岛郡将于2026年5月启动基于区块链的珍岛犬血统认证管理系统开发，以透明管理天然纪念物珍岛犬的出生、成长、健康和分养信息。",
+      "body": "韩国全罗南道珍岛郡将于2026年5月启动“珍岛犬血统认证管理系统”开发，把区块链技术用于天然纪念物珍岛犬的血统管理。珍岛郡计划在10月前完成开发，并在年内启用该系统。项目核心是建立基于分布式身份认证（DID）的血统管理和追踪结构。DID将身份信息分散存储在多个账本中，可提高认证效率并增强防篡改能力。珍岛郡计划为通过血统审查、被指定为天然纪念物的约1100只珍岛犬发放移动血统证明，并利用植入犬体内的RFID推进血统认证服务数字化。根据系统运行情况，珍岛郡还将研究发行NFT等扩展方案。来源: hankyung.com."
+    },
+    "es": {
+      "title": "Jindo gestionará con blockchain el linaje del perro Jindo y prevé activar un sistema DID este año",
+      "excerpt": "El condado de Jindo, en Jeolla del Sur, iniciará en mayo de 2026 un sistema blockchain para certificar el linaje del perro Jindo, monumento natural, y gestionar datos de nacimiento, crecimiento, salud y adopción.",
+      "body": "El condado de Jindo, en la provincia surcoreana de Jeolla del Sur, iniciará en mayo de 2026 el desarrollo de un sistema de certificación y gestión del linaje del perro Jindo, un monumento natural, basado en blockchain. La administración prevé completar el desarrollo en octubre y ponerlo en marcha antes de fin de año. El núcleo del proyecto es una estructura de identidad descentralizada, o DID, para administrar y rastrear los linajes. La DID distribuye la información de identidad en varios registros, lo que mejora la eficiencia de la autenticación y ayuda a evitar manipulaciones. Jindo planea emitir certificados móviles de linaje para unos 1.100 perros Jindo designados como monumento natural tras la revisión de su pedigrí, y digitalizar la certificación mediante RFID implantado. Según la evolución del sistema, también estudiará usos adicionales como la emisión de NFT. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "Jindo adotará blockchain na gestão da linhagem do cão Jindo e prevê sistema DID ainda este ano",
+      "excerpt": "O condado de Jindo, em Jeolla do Sul, iniciará em maio de 2026 um sistema em blockchain para certificar a linhagem do cão Jindo, monumento natural, e gerir dados de nascimento, crescimento, saúde e adoção.",
+      "body": "O condado de Jindo, na província sul-coreana de Jeolla do Sul, iniciará em maio de 2026 o desenvolvimento de um sistema de certificação e gestão da linhagem do cão Jindo, um monumento natural, com tecnologia blockchain. A administração pretende concluir o desenvolvimento até outubro e colocar o sistema em operação ainda este ano. O centro do projeto é uma estrutura de identidade descentralizada, ou DID, para gerir e rastrear linhagens. A DID armazena informações de identidade em vários registros, aumentando a eficiência da autenticação e a proteção contra adulterações. Jindo planeja emitir certificados móveis de linhagem para cerca de 1.100 cães Jindo designados como monumento natural após análise de pedigree, além de digitalizar a certificação com RFID implantado no corpo dos animais. Conforme a operação do sistema, o condado também avaliará usos adicionais, como emissão de NFT. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "Jindo-Hund-Abstammung soll per Blockchain verwaltet werden, DID-System noch dieses Jahr geplant",
+      "excerpt": "Der Landkreis Jindo in Süd-Jeolla startet im Mai 2026 die Entwicklung eines blockchainbasierten Zertifizierungssystems, um Geburt, Wachstum, Gesundheit und Abgabe von Jindo-Hunden als Naturdenkmal transparenter zu verwalten.",
+      "body": "Der Landkreis Jindo in der südkoreanischen Provinz Süd-Jeolla beginnt im Mai 2026 mit der Entwicklung eines blockchainbasierten Systems zur Zertifizierung und Verwaltung der Abstammung von Jindo-Hunden, die als Naturdenkmal geschützt sind. Die Entwicklung soll bis Oktober abgeschlossen werden, der Betrieb ist noch in diesem Jahr geplant. Kern des Projekts ist eine auf dezentraler Identität, DID, basierende Struktur zur Verwaltung und Nachverfolgung der Abstammung. DID speichert Identitätsdaten verteilt in mehreren Registern und soll die Authentifizierung effizienter sowie manipulationssicherer machen. Jindo will für rund 1.100 nach Abstammungsprüfung als Naturdenkmal ausgewiesene Hunde mobile Abstammungszertifikate ausstellen und die Zertifizierung über implantierte RFID-Chips digitalisieren. Je nach Betriebsergebnis werden auch Erweiterungen wie NFT-Ausgaben geprüft. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "Le pedigree du chien Jindo sera géré par blockchain, avec un système DID prévu cette année",
+      "excerpt": "Le comté de Jindo, dans le Jeolla du Sud, lancera en mai 2026 un système blockchain de certification du pedigree du chien Jindo, monument naturel, afin de gérer naissance, croissance, santé et cession.",
+      "body": "Le comté de Jindo, dans la province sud-coréenne du Jeolla du Sud, lancera en mai 2026 le développement d’un système de certification et de gestion du pedigree du chien Jindo, classé monument naturel, fondé sur la blockchain. Le développement doit être achevé d’ici octobre, avec une mise en service avant la fin de l’année. Le projet repose sur une identité décentralisée, ou DID, destinée à gérer et tracer les lignées. La DID répartit les informations d’identité dans plusieurs registres, ce qui améliore l’efficacité de l’authentification et limite les risques de falsification. Jindo prévoit d’émettre des certificats mobiles de pedigree pour environ 1 100 chiens Jindo désignés monuments naturels après examen de leur lignée, et de numériser la certification à l’aide de puces RFID implantées. Selon le fonctionnement du système, le comté étudiera aussi des extensions comme l’émission de NFT. Source: hankyung.com."
+    },
+    "ar": {
+      "title": "إدارة نسب كلاب جيندو بالبلوك تشين مع خطة لإطلاق نظام DID لحماية النصب الطبيعي هذا العام",
+      "excerpt": "تبدأ مقاطعة جيندو في جولا الجنوبية في مايو 2026 تطوير نظام قائم على البلوك تشين لتوثيق نسب كلاب جيندو المصنفة نصباً طبيعياً وإدارة بيانات الولادة والنمو والصحة والتبني بشفافية.",
+      "body": "تبدأ مقاطعة جيندو في إقليم جولا الجنوبية بكوريا الجنوبية في مايو 2026 تطوير نظام لتوثيق وإدارة نسب كلاب جيندو، المصنفة نصباً طبيعياً، باستخدام تقنية البلوك تشين. وتخطط المقاطعة لإنهاء التطوير بحلول أكتوبر وتشغيل النظام قبل نهاية العام. يقوم المشروع على بنية هوية لامركزية، أو DID، لإدارة وتتبع الأنساب. وتخزن DID بيانات الهوية في عدة سجلات، بما يعزز كفاءة التحقق ويساعد على منع التلاعب. وتعتزم جيندو إصدار شهادات نسب رقمية لنحو 1100 كلب جيندو اجتازت مراجعة النسب وصنفت كنصب طبيعي، مع رقمنة خدمة التحقق عبر شرائح RFID المزروعة في أجسام الكلاب. وبحسب سير تشغيل النظام، ستدرس المقاطعة استخدامات إضافية مثل إصدار NFT. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "जिंदो कुत्तों की वंशावली प्रबंधन में ब्लॉकचेन, प्राकृतिक स्मारक संरक्षण के लिए DID प्रणाली इस साल",
+      "excerpt": "दक्षिण जिओला की जिंदो काउंटी मई 2026 में प्राकृतिक स्मारक जिंदो कुत्तों के जन्म, विकास, स्वास्थ्य और गोद देने की जानकारी को पारदर्शी रूप से प्रबंधित करने के लिए ब्लॉकचेन आधारित वंश प्रमाणन प्रणाली विकसित करेगी।",
+      "body": "दक्षिण कोरिया के दक्षिण जिओला प्रांत की जिंदो काउंटी मई 2026 में प्राकृतिक स्मारक माने जाने वाले जिंदो कुत्तों की वंशावली प्रबंधन के लिए ब्लॉकचेन आधारित “जिंदो डॉग पेडिग्री सर्टिफिकेशन मैनेजमेंट सिस्टम” का विकास शुरू करेगी। काउंटी अक्टूबर तक विकास पूरा कर वर्ष के भीतर प्रणाली चलाने की योजना रखती है। परियोजना का मुख्य भाग विकेंद्रीकृत पहचान, यानी DID, पर आधारित संरचना है, जिससे वंशावली को प्रबंधित और ट्रैक किया जाएगा। DID पहचान जानकारी को कई लेजरों में वितरित रूप से संग्रहीत करता है, जिससे प्रमाणीकरण दक्षता बढ़ती है और छेड़छाड़ रोकने में मदद मिलती है। जिंदो काउंटी वंश समीक्षा के बाद प्राकृतिक स्मारक के रूप में 지정 लगभग 1,100 कुत्तों को मोबाइल वंश प्रमाणपत्र जारी करेगी और शरीर में लगे RFID से प्रमाणन सेवा को डिजिटल बनाएगी। संचालन के आधार पर NFT जारी करने जैसे विस्तार भी विचाराधीन हैं। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "Silsilah Anjing Jindo Dikelola dengan Blockchain, Sistem DID untuk Monumen Alam Ditargetkan Berjalan Tahun Ini",
+      "excerpt": "Jindo County di Jeolla Selatan akan mulai mengembangkan sistem sertifikasi silsilah berbasis blockchain pada Mei 2026 untuk mengelola data kelahiran, pertumbuhan, kesehatan, dan adopsi anjing Jindo yang berstatus monumen alam.",
+      "body": "Jindo County di Provinsi Jeolla Selatan, Korea Selatan, akan mulai mengembangkan sistem sertifikasi dan pengelolaan silsilah anjing Jindo berbasis blockchain pada Mei 2026. Anjing Jindo berstatus monumen alam. Pemerintah daerah menargetkan pengembangan selesai pada Oktober dan sistem beroperasi sebelum akhir tahun. Inti proyek ini adalah struktur identitas terdesentralisasi, atau DID, untuk mengelola dan melacak silsilah. DID menyimpan informasi identitas di beberapa buku besar sehingga meningkatkan efisiensi autentikasi dan membantu mencegah pemalsuan. Jindo County berencana menerbitkan sertifikat silsilah seluler untuk sekitar 1.100 anjing Jindo yang telah lolos pemeriksaan silsilah dan ditetapkan sebagai monumen alam. Layanan sertifikasi juga akan didigitalisasi dengan RFID yang tertanam di tubuh anjing. Bergantung pada operasional sistem, opsi lanjutan seperti penerbitan NFT juga akan dipertimbangkan. Sumber: hankyung.com."
+    }
+  }
+}
