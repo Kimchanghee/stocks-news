@@ -1,0 +1,75 @@
+{
+  "id": "adc84a385985",
+  "slug": "거래소-ai-자회사-페어랩스-활용한-인공지능-전환-속도-211269",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-13T22:52:57.661Z",
+  "updatedAt": "2026-05-13T22:52:57.661Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051342266",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051342266",
+  "titleFingerprint": "0bd0a26e7145cb5089016273f5fa3fb1e0f0d993",
+  "dedupKeys": [
+    "adc84a385985b05eb2762958a8fb6e5b7163a602",
+    "0bd0a26e7145cb5089016273f5fa3fb1e0f0d993",
+    "69e3c8d31a46bc828626c6f0b8ecba77f1ecdf58"
+  ],
+  "imageUrl": "/images/articles/adc84a385985.jpg",
+  "i18n": {
+    "ko": {
+      "title": "한국거래소, 페어랩스와 AI 전환 가속…자본시장 업무에 기술 도입 확대",
+      "excerpt": "한국거래소는 13일 지난 2월 인수한 AI 기술 스타트업 페어랩스와 함께 자본시장 핵심 업무에 인공지능 기술을 도입하며 AX 추진 속도를 높이고 있다고 밝혔다.",
+      "body": "한국거래소는 13일 지난 2월 인수한 AI 기술 스타트업 페어랩스와 함께 자본시장 핵심 업무에 인공지능 기술을 도입하며 인공지능 전환, AX에 속도를 내고 있다고 밝혔다. 양사는 AX 협의체를 통해 현업 아이디어를 데모 버전으로 구현하고 실무 피드백을 반영하는 방식을 적용 중이다. 우선 뉴스 데이터에서 횡령, 배임, 부도 등 상장법인의 중요 정보를 실시간 포착해 실무자에게 전달하는 솔루션을 도입했다. 또 AI가 공시 자료를 분석해 관리종목 지정·해제 등 시장조치가 필요한 종목을 체크하는 리포트 기능을 개발한다. 기업 매출 구성과 사업 영역을 AI로 분석해 산업분류체계 관리를 자동화하고 마이크로 섹터 지수도 개발할 예정이다. 페어랩스는 41억 원 규모 문화기술 연구개발 사업 주관 기관으로 선정됐다. 출처는 hankyung.com이다."
+    },
+    "en": {
+      "title": "Korea Exchange Speeds AI Shift With FairLabs Across Core Market Work",
+      "excerpt": "Korea Exchange said on May 13 that it is accelerating its AI transformation by applying FairLabs technology, acquired in February, to key capital-market operations.",
+      "body": "Korea Exchange said on May 13 that it is accelerating its artificial intelligence transformation, or AX, by working with FairLabs, the AI technology startup it acquired in February, to apply AI to core capital-market operations. The two sides are using an AX council to turn business ideas into demo versions and reflect practical feedback. The exchange has introduced a solution that detects key listed-company information such as embezzlement, breach of trust and default from news data in real time and sends it to staff. It is also developing a reporting function in which AI analyzes disclosures and checks stocks that may need market measures, including designation or removal from administrative-issue status. AI will also analyze revenue composition and business areas to automate industry classification management and develop micro-sector indexes. FairLabs was selected to lead a 4.1 billion won cultural technology R&D project. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "韓国取引所、FairLabs活用でAI転換を加速し市場業務に導入拡大",
+      "excerpt": "韓国取引所は5月13日、2月に買収したAI技術スタートアップFairLabsとともに、資本市場の中核業務へAI技術を導入しAXを加速していると発表した。",
+      "body": "韓国取引所は5月13日、2月に買収したAI技術スタートアップFairLabsと協力し、資本市場の中核業務に人工知能技術を導入してAI転換、AXを加速していると明らかにした。両社はAX協議体を通じ、現場のアイデアをデモ版として実装し、実務のフィードバックを反映する方式を採用している。まずニュースデータから横領、背任、不渡りなど上場法人の重要情報をリアルタイムで把握し、担当者に伝えるソリューションを導入した。またAIが開示資料を分析し、管理銘柄の指定や解除など市場措置が必要な銘柄を確認するリポート機能を開発する。企業の売上構成と事業領域をAIで分析し、産業分類体系の管理を自動化し、マイクロセクター指数も開発する予定だ。FairLabsは41億ウォン規模の文化技術研究開発事業の主管機関に選ばれた。出典はhankyung.com。"
+    },
+    "zh": {
+      "title": "韩国交易所借FairLabs加快AI转型，扩大资本市场核心业务应用",
+      "excerpt": "韩国交易所5月13日表示，正与2月收购的AI技术初创企业FairLabs合作，把人工智能技术导入资本市场核心业务，加快AX推进。",
+      "body": "韩国交易所5月13日表示，正与今年2月收购的AI技术初创企业FairLabs合作，将人工智能技术导入资本市场核心业务，加快人工智能转型，即AX。双方通过AX协商机制，把一线业务创意做成演示版本，并纳入实务反馈。交易所已先行引入一项解决方案，可从新闻数据中实时捕捉上市公司涉及挪用、背信、破产等重要信息，并传递给工作人员。交易所还将开发报告功能，由AI分析公告资料，检查是否存在需要采取市场措施的股票，包括管理品种的指定或解除。交易所计划用AI分析企业收入构成和业务领域，自动化管理产业分类体系，并开发微观行业指数。FairLabs近期被选为41亿韩元规模文化技术研发项目的主管机构。来源：hankyung.com。"
+    },
+    "es": {
+      "title": "Korea Exchange acelera su giro a IA con FairLabs en tareas clave",
+      "excerpt": "Korea Exchange dijo el 13 de mayo que acelera su transformación con IA al aplicar la tecnología de FairLabs, adquirida en febrero, a funciones centrales del mercado de capitales.",
+      "body": "Korea Exchange informó el 13 de mayo que está acelerando su transformación de inteligencia artificial, o AX, junto con FairLabs, la startup de tecnología de IA que adquirió en febrero, para aplicar esta tecnología a funciones centrales del mercado de capitales. Ambas partes usan un consejo de AX para convertir ideas operativas en versiones de demostración e incorporar comentarios del trabajo práctico. La bolsa ya introdujo una solución que detecta en tiempo real, a partir de datos de noticias, información relevante de compañías cotizadas como malversación, abuso de confianza e incumplimientos, y la entrega al personal. También desarrolla una función de informes en la que la IA analiza documentos de divulgación y revisa valores que podrían requerir medidas de mercado, como designación o salida de la categoría de administración especial. Además, analizará con IA la composición de ventas y áreas de negocio para automatizar la clasificación industrial y desarrollar índices de microsectores. FairLabs fue seleccionada para liderar un proyecto de I+D cultural de 4.100 millones de wones. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "Korea Exchange acelera virada para IA com FairLabs em áreas centrais",
+      "excerpt": "A Korea Exchange afirmou em 13 de maio que acelera sua transformação em IA ao aplicar a tecnologia da FairLabs, adquirida em fevereiro, a operações centrais do mercado de capitais.",
+      "body": "A Korea Exchange afirmou em 13 de maio que está acelerando sua transformação por inteligência artificial, ou AX, ao trabalhar com a FairLabs, startup de tecnologia de IA adquirida em fevereiro, para aplicar IA às principais operações do mercado de capitais. As duas empresas usam um conselho de AX para transformar ideias das áreas de negócio em versões de demonstração e incorporar feedback prático. A bolsa já introduziu uma solução que detecta em tempo real, em dados de notícias, informações importantes sobre companhias listadas, como apropriação indevida, quebra de confiança e inadimplência, e as envia aos funcionários. Também desenvolve uma função de relatório em que a IA analisa divulgações e identifica ações que podem exigir medidas de mercado, incluindo designação ou retirada de status administrativo. A IA ainda analisará composição de receitas e áreas de atuação para automatizar a gestão da classificação setorial e desenvolver índices de microssetores. A FairLabs foi escolhida para liderar um projeto de P&D em tecnologia cultural de 4,1 bilhões de wons. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "Korea Exchange beschleunigt KI-Wandel mit FairLabs im Kerngeschäft",
+      "excerpt": "Korea Exchange teilte am 13. Mai mit, dass sie mit der im Februar übernommenen KI-Startup FairLabs zentrale Kapitalmarktprozesse mit KI ausstattet und ihre AX beschleunigt.",
+      "body": "Korea Exchange erklärte am 13. Mai, sie beschleunige ihre Transformation durch künstliche Intelligenz, kurz AX, indem sie gemeinsam mit dem im Februar übernommenen KI-Technologie-Startup FairLabs KI in zentrale Abläufe des Kapitalmarkts einführt. Beide Seiten nutzen ein AX-Gremium, um Ideen aus der Praxis in Demoversionen umzusetzen und Feedback der Fachabteilungen einzuarbeiten. Zunächst wurde eine Lösung eingeführt, die aus Nachrichtendaten wichtige Informationen über börsennotierte Unternehmen wie Veruntreuung, Untreue und Zahlungsausfall in Echtzeit erkennt und an Mitarbeitende weiterleitet. Zudem wird eine Berichtsfunktion entwickelt, bei der KI Offenlegungsunterlagen analysiert und Aktien prüft, die Marktmaßnahmen erfordern könnten, etwa die Einstufung als Verwaltungswert oder deren Aufhebung. Außerdem soll KI Umsatzstruktur und Geschäftsfelder analysieren, um die Verwaltung der Branchenklassifikation zu automatisieren und Mikro-Sektor-Indizes zu entwickeln. FairLabs wurde als federführende Stelle für ein Kulturtechnologie-Forschungsprojekt im Umfang von 4,1 Milliarden Won ausgewählt. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "Korea Exchange accélère son virage IA avec FairLabs dans ses métiers clés",
+      "excerpt": "Korea Exchange a indiqué le 13 mai accélérer sa transformation IA en appliquant la technologie de FairLabs, acquise en février, aux fonctions centrales du marché des capitaux.",
+      "body": "Korea Exchange a annoncé le 13 mai accélérer sa transformation par l’intelligence artificielle, ou AX, avec FairLabs, la start-up de technologie IA qu’elle a acquise en février, afin d’introduire l’IA dans les fonctions centrales du marché des capitaux. Les deux entités utilisent un comité AX pour transformer les idées des équipes opérationnelles en versions de démonstration et intégrer les retours du terrain. Une première solution a été mise en place pour détecter en temps réel, dans les données d’actualité, des informations importantes sur les sociétés cotées, comme détournement de fonds, abus de confiance ou défaut, puis les transmettre aux collaborateurs. Une fonction de rapport est aussi en développement afin que l’IA analyse les documents d’information et repère les titres pouvant nécessiter des mesures de marché, dont la désignation ou la levée du statut de valeur sous gestion spéciale. L’IA servira également à analyser la composition du chiffre d’affaires et les domaines d’activité pour automatiser la gestion de la classification sectorielle et développer des indices de microsecteurs. FairLabs a été choisie pour piloter un projet de R&D en technologie culturelle de 4,1 milliards de wons. Source : hankyung.com."
+    },
+    "ar": {
+      "title": "بورصة كوريا تسرع تحول الذكاء الاصطناعي عبر FairLabs في أعمال السوق",
+      "excerpt": "قالت بورصة كوريا في 13 مايو إنها تسرع تحولها إلى الذكاء الاصطناعي عبر تطبيق تقنية FairLabs، التي استحوذت عليها في فبراير، في الأعمال الأساسية لسوق رأس المال.",
+      "body": "قالت بورصة كوريا في 13 مايو إنها تسرع تحولها إلى الذكاء الاصطناعي، أو AX، بالتعاون مع FairLabs، وهي شركة ناشئة متخصصة في تقنيات الذكاء الاصطناعي استحوذت عليها في فبراير، لتطبيق التقنية في الأعمال الأساسية لسوق رأس المال. ويستخدم الطرفان مجلسا خاصا بالتحول إلى الذكاء الاصطناعي لتحويل أفكار الإدارات العملية إلى نسخ تجريبية وإدخال ملاحظات فرق العمل. وبدأت البورصة بحل يرصد من بيانات الأخبار، وبشكل فوري، معلومات مهمة عن الشركات المدرجة مثل الاختلاس وخيانة الأمانة والتعثر، ثم يرسلها إلى الموظفين. كما تطور وظيفة تقارير يحلل فيها الذكاء الاصطناعي مواد الإفصاح ويفحص الأسهم التي قد تحتاج إلى إجراءات سوقية، بما في ذلك تصنيفها أو إخراجها من قائمة الأسهم الخاضعة للإدارة الخاصة. وستستخدم البورصة الذكاء الاصطناعي أيضا لتحليل هيكل مبيعات الشركات ومجالات أعمالها، بهدف أتمتة إدارة تصنيف الصناعات وتطوير مؤشرات للقطاعات الدقيقة. واختيرت FairLabs لقيادة مشروع بحث وتطوير في التكنولوجيا الثقافية بقيمة 4.1 مليار وون. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "Korea Exchange ने FairLabs के साथ AI बदलाव तेज किया, मुख्य बाजार कार्यों में विस्तार",
+      "excerpt": "Korea Exchange ने 13 मई को कहा कि वह फरवरी में खरीदी गई AI तकनीक स्टार्टअप FairLabs के साथ पूंजी बाजार के मुख्य कार्यों में AI लागू कर AX की गति बढ़ा रहा है।",
+      "body": "Korea Exchange ने 13 मई को कहा कि वह फरवरी में खरीदी गई AI तकनीक स्टार्टअप FairLabs के साथ पूंजी बाजार के मुख्य कार्यों में कृत्रिम बुद्धिमत्ता लागू कर अपने AI transformation, यानी AX, को तेज कर रहा है। दोनों पक्ष AX परिषद के जरिए व्यावसायिक इकाइयों के विचारों को डेमो संस्करणों में बदलते हैं और व्यावहारिक प्रतिक्रिया शामिल करते हैं। एक्सचेंज ने पहले एक समाधान लागू किया है, जो समाचार डेटा से सूचीबद्ध कंपनियों से जुड़ी अहम जानकारी, जैसे गबन, विश्वासघात और डिफॉल्ट, को वास्तविक समय में पकड़कर कर्मचारियों तक पहुंचाता है। वह एक रिपोर्ट फ़ंक्शन भी विकसित कर रहा है, जिसमें AI खुलासा दस्तावेजों का विश्लेषण करेगा और उन शेयरों की जांच करेगा जिन्हें बाजार उपायों की जरूरत हो सकती है, जैसे प्रशासनिक श्रेणी में डालना या हटाना। AI कंपनियों की राजस्व संरचना और कारोबारी क्षेत्रों का विश्लेषण कर उद्योग वर्गीकरण प्रबंधन को स्वचालित करेगा और माइक्रो-सेक्टर सूचकांक विकसित करेगा। FairLabs को 4.1 अरब वॉन के सांस्कृतिक तकनीक R&D प्रोजेक्ट का प्रमुख संस्थान चुना गया है। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "Korea Exchange Percepat Transformasi AI dengan FairLabs di Tugas Inti",
+      "excerpt": "Korea Exchange pada 13 Mei mengatakan mempercepat transformasi AI dengan menerapkan teknologi FairLabs, startup yang diakuisisi pada Februari, ke operasi inti pasar modal.",
+      "body": "Korea Exchange pada 13 Mei menyatakan sedang mempercepat transformasi kecerdasan buatan, atau AX, bersama FairLabs, startup teknologi AI yang diakuisisi pada Februari, untuk menerapkan AI pada operasi inti pasar modal. Keduanya memakai dewan AX untuk mengubah ide dari unit kerja menjadi versi demo dan memasukkan umpan balik praktis. Bursa telah memperkenalkan solusi yang mendeteksi secara real time informasi penting perusahaan tercatat, seperti penggelapan, pelanggaran kepercayaan, dan gagal bayar, dari data berita lalu menyampaikannya kepada staf. Bursa juga mengembangkan fungsi laporan di mana AI menganalisis dokumen keterbukaan dan memeriksa saham yang mungkin membutuhkan tindakan pasar, termasuk penetapan atau pencabutan status pengawasan khusus. AI juga akan menganalisis komposisi pendapatan dan area bisnis perusahaan untuk mengotomatisasi pengelolaan klasifikasi industri dan mengembangkan indeks mikro-sektor. FairLabs dipilih sebagai lembaga utama proyek litbang teknologi budaya senilai 4,1 miliar won. Sumber: hankyung.com."
+    }
+  }
+}
