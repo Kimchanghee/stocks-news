@@ -1,5 +1,230 @@
 [
   {
+    "id": "09439abaf76f",
+    "slug": "불장-코스피-공포지수-역대급-치솟아외국인은-5거래일째-순매도-407408",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T04:46:44.499Z",
+    "updatedAt": "2026-05-13T04:46:44.499Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12046054",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12046054",
+    "titleFingerprint": "e58c42ed9bf9a93b99667101959f9d544099cb5c",
+    "dedupKeys": [
+      "09439abaf76f7942822b07d769796322dd2a407a",
+      "e58c42ed9bf9a93b99667101959f9d544099cb5c",
+      "ce10bc527824247fec8ded576da5aed470054751"
+    ],
+    "imageUrl": "/images/articles/09439abaf76f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 공포지수 역대급 급등, 8천피 앞 숨고르기 속 외국인 순매도 지속",
+        "excerpt": "13일 오전 코스피가 8천선에 바짝 다가선 뒤 숨고르기에 들어간 가운데 한국형 공포지수가 장중 79.10까지 치솟고 외국인은 5거래일째 순매도했다.",
+        "body": "13일 오전 코스피가 8천선에 바짝 다가선 뒤 숨고르기 흐름을 보이는 가운데 ‘한국형 공포지수’가 역대급으로 상승했다. 원문에 따르면 해당 지수는 전일 대비 약 7% 오른 75.00선에서 움직였고, 장중 한때 79.10까지 치솟았다. 최근 강한 상승세 이후 시장의 변동성 경계감이 커진 것으로 풀이된다. 같은 날 외국인은 5거래일째 순매도를 이어가며 수급 부담을 더했다. 코스피가 고점 부근에서 속도 조절에 들어간 만큼 투자자들은 변동성 확대와 외국인 매매 흐름을 함께 주시하는 분위기다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Fear Gauge Surges to Historic Levels as Foreigners Sell for Fifth Day",
+        "excerpt": "On the morning of the 13th, as the KOSPI paused after nearing the 8,000 mark, Korea’s fear gauge jumped as high as 79.10 intraday while foreign investors sold for a fifth session.",
+        "body": "On the morning of the 13th, the KOSPI showed signs of taking a breather after moving close to the 8,000 level, while the so-called Korean fear index climbed to historic levels. According to the original report, the index was trading around the 75.00 level, up about 7% from the previous day, and surged as high as 79.10 during the session. The move reflects heightened caution over market volatility after the recent strong rally. Foreign investors also remained net sellers for a fifth consecutive trading day, adding pressure to market supply and demand. With the KOSPI adjusting its pace near recent highs, investors are watching both volatility and foreign trading flows. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI恐怖指数が歴史的急騰、8000目前の一服局面で外国人売り続く",
+        "excerpt": "13日午前、KOSPIが8000に迫った後に一服するなか、韓国型恐怖指数は一時79.10まで急騰し、外国人投資家は5営業日連続で売り越した。",
+        "body": "13日午前、KOSPIが8000台に迫った後、上昇の勢いをいったん緩めるなか、「韓国型恐怖指数」が歴史的な水準まで上昇した。原文によると、同指数は前日比で約7％上昇した75.00台で推移し、取引時間中には一時79.10まで急騰した。最近の強い上昇相場の後、市場では変動性への警戒感が高まったとみられる。同じ日、外国人投資家は5営業日連続で売り越しを続け、需給面の負担を強めた。KOSPIが高値圏で速度調整に入るなか、投資家は変動性の拡大と外国人の売買動向を同時に注視している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI恐慌指数飙至历史级高位，逼近8000点后外资连续五日净卖出",
+        "excerpt": "13日上午，KOSPI在逼近8000点后进入调整，韩国型恐慌指数盘中一度升至79.10，外资则连续第5个交易日净卖出。",
+        "body": "13日上午，KOSPI在逼近8000点后呈现短暂休整走势，与此同时，“韩国型恐慌指数”升至历史级别高位。原文显示，该指数较前一交易日上涨约7%，运行在75.00一线，盘中一度飙升至79.10。近期市场强劲上涨后，投资者对波动性扩大的警惕明显升温。同日，外资连续第5个交易日保持净卖出，进一步增加了市场供需压力。随着KOSPI在高位附近放缓步伐，投资者正同时关注波动率变化和外资买卖动向。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Índice de miedo del KOSPI se dispara a niveles récord y extranjeros venden cinco días",
+        "excerpt": "La mañana del día 13, mientras el KOSPI hacía una pausa tras acercarse a 8.000 puntos, el índice coreano de miedo subió hasta 79,10 intradía y los extranjeros vendieron por quinta rueda.",
+        "body": "La mañana del día 13, el KOSPI mostró una pausa después de acercarse al nivel de 8.000 puntos, mientras el llamado índice coreano de miedo subió a niveles históricos. Según el informe original, el indicador avanzaba cerca de un 7% frente al día anterior y se movía en torno a 75,00, tras alcanzar durante la sesión un máximo de 79,10. El movimiento refleja una mayor cautela ante la volatilidad tras el reciente fuerte avance del mercado. Ese mismo día, los inversores extranjeros continuaron como vendedores netos por quinta jornada consecutiva, sumando presión sobre la oferta y la demanda. Con el KOSPI moderando el ritmo cerca de máximos, el mercado observa la volatilidad y los flujos extranjeros. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Índice de medo do KOSPI dispara a nível histórico enquanto estrangeiros vendem mais",
+        "excerpt": "Na manhã do dia 13, com o KOSPI em pausa após se aproximar dos 8.000 pontos, o índice coreano de medo chegou a 79,10 no intradia e estrangeiros venderam pelo quinto pregão.",
+        "body": "Na manhã do dia 13, o KOSPI mostrou um movimento de pausa depois de se aproximar do nível de 8.000 pontos, enquanto o chamado índice coreano de medo subiu para patamares históricos. Segundo o relatório original, o indicador avançava cerca de 7% em relação ao dia anterior, na faixa de 75,00, e chegou a 79,10 durante o pregão. A alta indica maior cautela com a volatilidade após a recente forte valorização do mercado. No mesmo dia, investidores estrangeiros mantiveram venda líquida pelo quinto pregão consecutivo, aumentando a pressão sobre a dinâmica de oferta e demanda. Com o KOSPI ajustando o ritmo perto das máximas, investidores acompanham volatilidade e fluxo estrangeiro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Angstindex steigt auf Rekordniveau, Ausländer verkaufen fünften Tag",
+        "excerpt": "Am Morgen des 13. legte der KOSPI nach der Annäherung an 8.000 Punkte eine Pause ein, während Koreas Angstindex intraday bis 79,10 sprang und Ausländer weiter verkauften.",
+        "body": "Am Morgen des 13. zeigte der KOSPI eine Verschnaufpause, nachdem er sich der Marke von 8.000 Punkten genähert hatte. Zugleich stieg der sogenannte koreanische Angstindex auf ein historisch hohes Niveau. Laut dem Originalbericht lag der Index rund 7% über dem Vortag und bewegte sich um 75,00, nachdem er im Handelsverlauf bis auf 79,10 gestiegen war. Dies deutet auf eine erhöhte Vorsicht gegenüber Marktschwankungen nach der jüngsten starken Rally hin. Am selben Tag blieben ausländische Investoren den fünften Handelstag in Folge Nettoverkäufer und erhöhten damit den Druck auf Angebot und Nachfrage. Da der KOSPI nahe den Hochs das Tempo drosselt, achten Anleger auf Volatilität und ausländische Handelsströme. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’indice de peur du KOSPI bondit à un niveau historique, ventes étrangères prolongées",
+        "excerpt": "Le matin du 13, alors que le KOSPI marquait une pause après avoir approché 8 000 points, l’indice coréen de peur a atteint 79,10 en séance et les étrangers ont vendu pour un 5e jour.",
+        "body": "Le matin du 13, le KOSPI a montré des signes de pause après s’être rapproché du seuil des 8 000 points, tandis que le « nouvel indice coréen de peur » montait à un niveau historique. Selon le rapport original, l’indicateur évoluait autour de 75,00, en hausse d’environ 7% par rapport à la veille, et a grimpé jusqu’à 79,10 en séance. Cette hausse traduit une vigilance accrue face à la volatilité après la forte progression récente du marché. Le même jour, les investisseurs étrangers sont restés vendeurs nets pour la cinquième séance consécutive, ajoutant une pression sur l’équilibre offre-demande. Alors que le KOSPI ralentit près de ses sommets, les investisseurs surveillent la volatilité et les flux étrangers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مؤشر الخوف في كوسبي يقفز لمستوى تاريخي مع بيع أجنبي لليوم الخامس",
+        "excerpt": "صباح يوم 13، ومع دخول كوسبي مرحلة تهدئة بعد الاقتراب من مستوى 8000، صعد مؤشر الخوف الكوري إلى 79.10 أثناء الجلسة وواصل الأجانب البيع الصافي لليوم الخامس.",
+        "body": "صباح يوم 13، أظهر مؤشر كوسبي اتجاها إلى التقاط الأنفاس بعد أن اقترب كثيرا من مستوى 8000، في حين ارتفع ما يسمى بمؤشر الخوف الكوري إلى مستوى تاريخي. وبحسب التقرير الأصلي، تحرك المؤشر حول مستوى 75.00 مرتفعا بنحو 7% عن اليوم السابق، وقفز خلال التداولات إلى 79.10. وتعكس هذه الحركة زيادة الحذر من تقلبات السوق بعد موجة الصعود القوية الأخيرة. وفي اليوم نفسه، واصل المستثمرون الأجانب البيع الصافي للجلسة الخامسة على التوالي، ما أضاف ضغطا على جانب العرض والطلب. ومع تباطؤ كوسبي قرب مستوياته المرتفعة، يراقب المستثمرون اتساع التقلبات وتدفقات تداول الأجانب. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI फियर इंडेक्स रिकॉर्ड स्तर पर उछला, विदेशी निवेशकों की पांचवें दिन बिकवाली",
+        "excerpt": "13 तारीख की सुबह KOSPI के 8,000 के करीब पहुंचकर ठहरने के बीच कोरियाई फियर इंडेक्स इंट्राडे 79.10 तक चढ़ा और विदेशी निवेशक पांचवें सत्र में शुद्ध विक्रेता रहे।",
+        "body": "13 तारीख की सुबह KOSPI 8,000 के स्तर के करीब पहुंचने के बाद ठहराव दिखा रहा था, जबकि तथाकथित कोरियाई फियर इंडेक्स रिकॉर्ड स्तर तक चढ़ गया। मूल रिपोर्ट के अनुसार, यह सूचकांक पिछले दिन से करीब 7% बढ़कर 75.00 के आसपास चल रहा था और कारोबार के दौरान एक समय 79.10 तक पहुंच गया। हाल की तेज तेजी के बाद बाजार में अस्थिरता को लेकर सतर्कता बढ़ी है। उसी दिन विदेशी निवेशक लगातार पांचवें कारोबारी सत्र में शुद्ध विक्रेता बने रहे, जिससे मांग-आपूर्ति पर दबाव बढ़ा। KOSPI के ऊंचे स्तरों के पास गति कम करने के साथ निवेशक अस्थिरता और विदेशी कारोबार के रुझान पर नजर रख रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Indeks ketakutan KOSPI melonjak historis, asing jual bersih lima hari beruntun",
+        "excerpt": "Pada pagi tanggal 13, saat KOSPI beristirahat setelah mendekati level 8.000, indeks ketakutan Korea sempat melonjak ke 79,10 intraday dan asing jual bersih untuk hari kelima.",
+        "body": "Pada pagi tanggal 13, KOSPI menunjukkan pola jeda setelah mendekati level 8.000, sementara apa yang disebut indeks ketakutan Korea naik ke level historis. Menurut laporan asli, indeks tersebut bergerak di kisaran 75,00, naik sekitar 7% dari hari sebelumnya, dan sempat melonjak hingga 79,10 dalam perdagangan intraday. Kenaikan ini mencerminkan meningkatnya kewaspadaan terhadap volatilitas setelah reli kuat baru-baru ini. Pada hari yang sama, investor asing melanjutkan jual bersih untuk lima hari perdagangan berturut-turut, menambah tekanan pada sisi pasokan dan permintaan. Dengan KOSPI mengatur laju di dekat level tinggi, investor mencermati volatilitas dan arus transaksi asing. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "af4593666969",
+    "slug": "올해-코스피-전망치-95001만도-가능하다는-모건스탠리-왜-264096",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T04:45:39.108Z",
+    "updatedAt": "2026-05-13T04:45:39.108Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046058",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046058",
+    "titleFingerprint": "4f4f828ca05c56069387215f1e062146d2a57e43",
+    "dedupKeys": [
+      "af4593666969e9e4bc5a741ecbe7b09085f2d319",
+      "4f4f828ca05c56069387215f1e062146d2a57e43",
+      "e165279c14dd218767ff0e2e3b60c68124d7b54f"
+    ],
+    "imageUrl": "/images/articles/af4593666969.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 9500 전망 제시한 모건스탠리, 1만 가능성까지 거론",
+        "excerpt": "글로벌 투자은행 모건스탠리가 13일 올해 코스피 전망치를 9500으로 제시하고, 구조적 성장 가능성을 근거로 1만 도달 가능성도 언급했다.",
+        "body": "글로벌 투자은행(IB) 모건스탠리가 13일 올해 코스피 전망치를 9500으로 제시하며 1만도 가능하다고 밝혔다. 전날 내놓은 보고서에서 모건스탠리는 코스피가 구조적인 성장 흐름을 보일 수 있다는 취지로 전망을 제시했다. 이번 전망은 국내 증시의 추가 상승 가능성에 대한 관심을 키우는 내용이다. 다만 원문에 공개된 정보는 전망치와 1만 가능성 언급, 구조적 성장 판단에 한정된다. 출처: mk.co.kr 인용."
+      },
+      "en": {
+        "title": "Morgan Stanley Sets KOSPI Target at 9,500, Sees Path to 10,000",
+        "excerpt": "Morgan Stanley said on the 13th that it sees this year’s KOSPI at 9,500 and also raised the possibility of 10,000, citing structural growth potential.",
+        "body": "Global investment bank Morgan Stanley said on the 13th that it has set its forecast for this year’s KOSPI at 9,500 and that 10,000 is also possible. In a report released the previous day, Morgan Stanley presented the view that the KOSPI could show a structural growth trend. The outlook draws attention to the possibility of further gains in the Korean stock market. However, the information provided in the original text is limited to the target level, the mention of 10,000, and the assessment of structural growth. Source: cited from mk.co.kr."
+      },
+      "ja": {
+        "title": "モルガン・スタンレー、今年のKOSPI見通し9500に設定",
+        "excerpt": "モルガン・スタンレーは13日、今年のKOSPI見通しを9500とし、構造的成長の可能性を根拠に1万到達もあり得ると述べた。",
+        "body": "グローバル投資銀行のモルガン・スタンレーは13日、今年のKOSPI見通しを9500と提示し、1万も可能だと明らかにした。前日に公表した報告書で、同社はKOSPIが構造的な成長の流れを示し得るとの趣旨で見通しを示した。今回の見通しは、韓国株式市場の追加上昇の可能性に対する関心を高める内容だ。ただし、原文で確認できる情報は見通し水準、1万の可能性への言及、構造的成長判断に限られる。出典：mk.co.kr引用。"
+      },
+      "zh": {
+        "title": "摩根士丹利给出KOSPI 9500展望，并称或可达1万",
+        "excerpt": "摩根士丹利13日表示，将今年KOSPI展望定为9500，并以结构性增长可能性为依据，提到指数达到1万的可能。",
+        "body": "全球投资银行摩根士丹利13日表示，将今年KOSPI展望值定为9500，并称达到1万也有可能。该行在前一天发布的报告中提出，KOSPI可能呈现结构性增长趋势。上述展望使市场对韩国股市进一步上涨的可能性更加关注。不过，原文披露的信息仅限于9500展望值、1万可能性的表述，以及对结构性增长的判断。来源：引用mk.co.kr。"
+      },
+      "es": {
+        "title": "Morgan Stanley prevé el KOSPI en 9.500 y ve posible llegar a 10.000",
+        "excerpt": "Morgan Stanley dijo el día 13 que proyecta el KOSPI de este año en 9.500 y mencionó la posibilidad de 10.000 por el potencial de crecimiento estructural.",
+        "body": "El banco de inversión global Morgan Stanley dijo el día 13 que fijó su previsión para el KOSPI de este año en 9.500 y que 10.000 también es posible. En un informe publicado el día anterior, la firma presentó la visión de que el KOSPI podría mostrar una tendencia de crecimiento estructural. La previsión aumenta el interés por la posibilidad de nuevas subidas en el mercado bursátil coreano. Sin embargo, la información del texto original se limita al nivel previsto, la mención de 10.000 y la evaluación de crecimiento estructural. Fuente: citado de mk.co.kr."
+      },
+      "pt": {
+        "title": "Morgan Stanley projeta KOSPI a 9.500 e vê chance de chegar a 10.000",
+        "excerpt": "O Morgan Stanley afirmou no dia 13 que projeta o KOSPI deste ano em 9.500 e citou a possibilidade de 10.000 com base em crescimento estrutural.",
+        "body": "O banco de investimento global Morgan Stanley afirmou no dia 13 que definiu sua projeção para o KOSPI deste ano em 9.500 e que 10.000 também é possível. Em relatório divulgado no dia anterior, o banco apresentou a avaliação de que o KOSPI pode mostrar uma tendência de crescimento estrutural. A projeção chama atenção para a possibilidade de novas altas no mercado acionário coreano. No entanto, as informações do texto original se limitam ao nível projetado, à menção de 10.000 e à avaliação de crescimento estrutural. Fonte: citado de mk.co.kr."
+      },
+      "de": {
+        "title": "Morgan Stanley nennt KOSPI-Ziel von 9.500 und hält 10.000 für möglich",
+        "excerpt": "Morgan Stanley erklärte am 13., der KOSPI könne in diesem Jahr 9.500 erreichen, und nannte wegen strukturellen Wachstums auch 10.000 als möglich.",
+        "body": "Die globale Investmentbank Morgan Stanley erklärte am 13., sie setze ihre Prognose für den KOSPI in diesem Jahr auf 9.500 und halte auch 10.000 für möglich. In einem am Vortag veröffentlichten Bericht vertrat Morgan Stanley die Einschätzung, dass der KOSPI einen strukturellen Wachstumstrend zeigen könne. Die Prognose lenkt den Blick auf mögliches weiteres Aufwärtspotenzial am koreanischen Aktienmarkt. Die im Original genannten Informationen beschränken sich jedoch auf das Prognoseniveau, die Erwähnung von 10.000 und die Bewertung strukturellen Wachstums. Quelle: zitiert nach mk.co.kr."
+      },
+      "fr": {
+        "title": "Morgan Stanley vise un KOSPI à 9 500 et évoque même 10 000",
+        "excerpt": "Morgan Stanley a indiqué le 13 viser un KOSPI à 9 500 cette année et a aussi évoqué 10 000, en s’appuyant sur une perspective de croissance structurelle.",
+        "body": "La banque d’investissement mondiale Morgan Stanley a indiqué le 13 qu’elle fixait sa prévision pour le KOSPI cette année à 9 500 et que 10 000 était également possible. Dans un rapport publié la veille, elle a présenté l’idée que le KOSPI pourrait afficher une dynamique de croissance structurelle. Cette prévision attire l’attention sur la possibilité de nouvelles hausses du marché boursier coréen. Toutefois, les informations du texte original se limitent au niveau prévu, à la mention de 10 000 et à l’évaluation d’une croissance structurelle. Source : cité de mk.co.kr."
+      },
+      "ar": {
+        "title": "مورغان ستانلي يحدد توقع كوسبي عند 9500 ويطرح احتمال 10000",
+        "excerpt": "قال مورغان ستانلي في 13 إن توقعه لمؤشر كوسبي هذا العام يبلغ 9500، وذكر احتمال الوصول إلى 10000 استنادا إلى نمو هيكلي محتمل.",
+        "body": "قال بنك الاستثمار العالمي مورغان ستانلي في 13 إنه حدد توقعه لمؤشر كوسبي هذا العام عند 9500، وإن الوصول إلى 10000 ممكن أيضا. وفي تقرير صدر في اليوم السابق، عرض البنك رأيا مفاده أن كوسبي قد يظهر اتجاها من النمو الهيكلي. ويزيد هذا التوقع الاهتمام بإمكان تحقيق سوق الأسهم الكورية مزيدا من الارتفاع. ومع ذلك، فإن المعلومات الواردة في النص الأصلي تقتصر على مستوى التوقع، وذكر احتمال 10000، وتقييم النمو الهيكلي. المصدر: نقلا عن mk.co.kr."
+      },
+      "hi": {
+        "title": "मॉर्गन स्टैनली ने KOSPI लक्ष्य 9500 रखा, 10000 की संभावना भी बताई",
+        "excerpt": "मॉर्गन स्टैनली ने 13 तारीख को कहा कि इस वर्ष KOSPI का अनुमान 9500 है और संरचनात्मक वृद्धि की संभावना के आधार पर 10000 भी संभव है।",
+        "body": "वैश्विक निवेश बैंक मॉर्गन स्टैनली ने 13 तारीख को कहा कि उसने इस वर्ष KOSPI का अनुमान 9500 रखा है और 10000 तक पहुंचना भी संभव है। एक दिन पहले जारी रिपोर्ट में मॉर्गन स्टैनली ने यह दृष्टिकोण रखा कि KOSPI में संरचनात्मक वृद्धि की प्रवृत्ति दिख सकती है। यह अनुमान कोरियाई शेयर बाजार में आगे बढ़त की संभावना पर ध्यान बढ़ाता है। हालांकि मूल पाठ में उपलब्ध जानकारी अनुमान स्तर, 10000 की संभावना के उल्लेख और संरचनात्मक वृद्धि के आकलन तक सीमित है। स्रोत: mk.co.kr से उद्धृत।"
+      },
+      "id": {
+        "title": "Morgan Stanley Proyeksikan KOSPI 9.500, Sebut Peluang 10.000",
+        "excerpt": "Morgan Stanley pada 13 menyatakan proyeksi KOSPI tahun ini di 9.500 dan menyebut peluang mencapai 10.000 dengan dasar potensi pertumbuhan struktural.",
+        "body": "Bank investasi global Morgan Stanley pada 13 menyatakan telah menetapkan proyeksi KOSPI tahun ini di 9.500 dan bahwa 10.000 juga mungkin dicapai. Dalam laporan yang dirilis sehari sebelumnya, Morgan Stanley menyampaikan pandangan bahwa KOSPI dapat menunjukkan tren pertumbuhan struktural. Proyeksi ini menarik perhatian pada kemungkinan kenaikan lanjutan di pasar saham Korea. Namun, informasi dalam teks asli terbatas pada level proyeksi, penyebutan peluang 10.000, dan penilaian pertumbuhan struktural. Sumber: dikutip dari mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "4d3beefa90c0",
+    "slug": "도박은-투자-아닌-사기-김승연-넥스트증권-대표-청소년-도박-근절-앞장-979097",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T04:44:52.788Z",
+    "updatedAt": "2026-05-13T04:44:52.788Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046066",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046066",
+    "titleFingerprint": "59b2251cc9e2bf1ca70165f4a6df759963192297",
+    "dedupKeys": [
+      "4d3beefa90c0b8d45fb2817a8987e5818a7cd6bf",
+      "59b2251cc9e2bf1ca70165f4a6df759963192297",
+      "e6d429ecf576ee411af178df92576290c12114f4"
+    ],
+    "imageUrl": "/images/articles/4d3beefa90c0.png",
+    "i18n": {
+      "ko": {
+        "title": "청소년 불법도박 근절 캠페인 참여한 김승연 넥스트증권 대표",
+        "excerpt": "넥스트증권 김승연 대표가 서울경찰청 주관 ‘청소년 불법도박 근절’ 릴레이 캠페인에 참여해 도박은 투자가 아닌 사기라는 메시지를 전하고 한국신용평가를 다음 주자로 지목했다.",
+        "body": "넥스트증권 김승연 대표가 서울경찰청이 주관하는 ‘청소년 불법도박 근절’ 릴레이 캠페인에 참여했다. 김 대표는 “도박은 투자 아닌 사기”라는 취지의 메시지를 내세워 청소년 불법도박 예방의 필요성을 알렸다. 이번 캠페인은 릴레이 방식으로 진행되며, 넥스트증권은 카카오페이증권의 지목을 받아 참여했다. 김 대표는 다음 참여 기관으로 한국신용평가를 지목했다. 금융투자와 도박을 명확히 구분해야 한다는 메시지가 청소년 보호 캠페인의 핵심으로 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Next Securities CEO Kim Seung-yeon Joins Campaign Against Teen Illegal Gambling",
+        "excerpt": "Next Securities CEO Kim Seung-yeon joined the Seoul Metropolitan Police Agency’s relay campaign to prevent illegal youth gambling, saying gambling is not investment but fraud, and named Korea Ratings as the next participant.",
+        "body": "Next Securities CEO Kim Seung-yeon has joined the Seoul Metropolitan Police Agency’s relay campaign to eradicate illegal gambling among teenagers. Kim delivered the message that “gambling is not investment but fraud,” stressing the need to prevent illegal gambling by youth. The campaign is being conducted in relay format, and Next Securities took part after being nominated by Kakao Pay Securities. Kim then named Korea Ratings as the next participating organization. The campaign highlights the importance of clearly distinguishing financial investment from gambling as part of efforts to protect young people. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ネクスト証券の金承淵代表、青少年違法賭博根絶キャンペーンに参加",
+        "excerpt": "ネクスト証券の金承淵代表は、ソウル警察庁主催の青少年違法賭博根絶リレーキャンペーンに参加し、賭博は投資ではなく詐欺だと訴え、次の参加者に韓国信用評価を指名した。",
+        "body": "ネクスト証券の金承淵代表が、ソウル警察庁が主催する「青少年違法賭博根絶」リレーキャンペーンに参加した。金代表は「賭博は投資ではなく詐欺」という趣旨のメッセージを掲げ、青少年の違法賭博を防ぐ必要性を伝えた。今回のキャンペーンはリレー方式で行われ、ネクスト証券はカカオペイ証券から指名を受けて参加した。金代表は次の参加機関として韓国信用評価を指名した。金融投資と賭博を明確に区別すべきだという点が、青少年保護キャンペーンの核心として示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Next Securities代表金承渊参加青少年非法赌博根除接力活动",
+        "excerpt": "Next Securities代表金承渊参加首尔警察厅主办的青少年非法赌博根除接力活动，传递“赌博不是投资而是诈骗”的信息，并点名韩国信用评级为下一参与方。",
+        "body": "Next Securities代表金承渊参加了首尔警察厅主办的“青少年非法赌博根除”接力活动。金代表提出“赌博不是投资而是诈骗”的信息，强调预防青少年非法赌博的必要性。本次活动以接力方式进行，Next Securities是在Kakao Pay Securities点名后参与的。金代表随后指定韩国信用评级为下一家参与机构。此次活动的核心信息是，必须明确区分金融投资与赌博，并将这一认识用于青少年保护。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kim Seung-yeon de Next Securities se suma a campaña contra apuestas juveniles ilegales",
+        "excerpt": "Kim Seung-yeon, CEO de Next Securities, participó en la campaña en relevo de la Policía Metropolitana de Seúl contra el juego ilegal juvenil, afirmó que apostar no es invertir sino fraude y nominó a Korea Ratings.",
+        "body": "Kim Seung-yeon, CEO de Next Securities, participó en la campaña en relevo organizada por la Policía Metropolitana de Seúl para erradicar el juego ilegal entre adolescentes. Kim transmitió el mensaje de que “apostar no es invertir, sino fraude” y subrayó la necesidad de prevenir el juego ilegal juvenil. La iniciativa se realiza en formato de relevo, y Next Securities se sumó tras ser nominada por Kakao Pay Securities. Kim nombró a Korea Ratings como la siguiente organización participante. El mensaje central de la campaña es distinguir con claridad la inversión financiera del juego para proteger a los jóvenes. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kim Seung-yeon, da Next Securities, entra em campanha contra jogo ilegal juvenil",
+        "excerpt": "Kim Seung-yeon, CEO da Next Securities, participou da campanha em revezamento da Polícia Metropolitana de Seul contra o jogo ilegal entre jovens, disse que apostar não é investir, mas fraude, e indicou a Korea Ratings.",
+        "body": "Kim Seung-yeon, CEO da Next Securities, participou da campanha em revezamento organizada pela Polícia Metropolitana de Seul para erradicar o jogo ilegal entre adolescentes. Kim destacou a mensagem de que “jogo não é investimento, mas fraude” e reforçou a necessidade de prevenir apostas ilegais entre jovens. A campanha ocorre em formato de revezamento, e a Next Securities participou após ser indicada pela Kakao Pay Securities. Kim indicou a Korea Ratings como a próxima organização participante. A ação enfatiza que investimento financeiro e jogo devem ser claramente diferenciados para proteger os adolescentes. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Next-Securities-Chef Kim Seung-yeon unterstützt Kampagne gegen illegales Jugendglücksspiel",
+        "excerpt": "Kim Seung-yeon, CEO von Next Securities, nahm an der Relaiskampagne der Seoul Metropolitan Police gegen illegales Glücksspiel Jugendlicher teil, nannte Glücksspiel Betrug statt Investition und nominierte Korea Ratings.",
+        "body": "Kim Seung-yeon, CEO von Next Securities, hat an der von der Seoul Metropolitan Police Agency organisierten Relaiskampagne zur Ausrottung illegalen Glücksspiels unter Jugendlichen teilgenommen. Kim vermittelte die Botschaft, dass „Glücksspiel keine Investition, sondern Betrug“ sei, und betonte die Notwendigkeit der Prävention. Die Kampagne läuft im Relaisformat; Next Securities beteiligte sich nach der Nominierung durch Kakao Pay Securities. Kim benannte Korea Ratings als nächste teilnehmende Organisation. Im Mittelpunkt steht die klare Abgrenzung von Finanzinvestitionen und Glücksspiel zum Schutz Jugendlicher. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kim Seung-yeon de Next Securities rejoint la campagne contre les jeux illégaux des jeunes",
+        "excerpt": "Kim Seung-yeon, dirigeant de Next Securities, a participé à la campagne relais de la police métropolitaine de Séoul contre les jeux illégaux chez les jeunes, affirmant que le jeu n’est pas un investissement mais une fraude.",
+        "body": "Kim Seung-yeon, dirigeant de Next Securities, a participé à la campagne relais organisée par la police métropolitaine de Séoul pour éradiquer les jeux illégaux chez les adolescents. Il a porté le message selon lequel « le jeu n’est pas un investissement, mais une fraude », soulignant la nécessité de prévenir ces pratiques chez les jeunes. La campagne se déroule sous forme de relais, et Next Securities y a pris part après avoir été désignée par Kakao Pay Securities. Kim a nommé Korea Ratings comme prochaine organisation participante. L’action met en avant la distinction claire entre investissement financier et jeu afin de protéger les adolescents. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كيم سيونغ-يون من نكست سيكيوريتيز يشارك في حملة ضد قمار المراهقين غير القانوني",
+        "excerpt": "شارك كيم سيونغ-يون، رئيس نكست سيكيوريتيز، في حملة ترعاها شرطة سيول لمكافحة قمار الشباب غير القانوني، مؤكدا أن القمار ليس استثمارا بل احتيال، وسمى كوريا ريتنغز للمشاركة التالية.",
+        "body": "شارك كيم سيونغ-يون، رئيس نكست سيكيوريتيز، في حملة متسلسلة تنظمها شرطة سيول الحضرية للقضاء على القمار غير القانوني بين المراهقين. وقدم كيم رسالة مفادها أن “القمار ليس استثمارا بل احتيال”، مشددا على ضرورة الوقاية من القمار غير القانوني بين الشباب. وتتم الحملة بأسلوب التتابع، وقد شاركت نكست سيكيوريتيز بعد ترشيحها من كاكاو باي سيكيوريتيز. ثم رشح كيم مؤسسة كوريا ريتنغز لتكون الجهة التالية المشاركة. وتؤكد الحملة أهمية التمييز الواضح بين الاستثمار المالي والقمار لحماية المراهقين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "नेक्स्ट सिक्योरिटीज के किम स्यूंग-योन किशोर अवैध जुआ रोकथाम अभियान में शामिल",
+        "excerpt": "नेक्स्ट सिक्योरिटीज के सीईओ किम स्यूंग-योन ने सियोल मेट्रोपॉलिटन पुलिस एजेंसी के किशोर अवैध जुआ उन्मूलन रिले अभियान में भाग लिया, कहा कि जुआ निवेश नहीं बल्कि धोखाधड़ी है, और कोरिया रेटिंग्स को अगला प्रतिभागी नामित किया।",
+        "body": "नेक्स्ट सिक्योरिटीज के सीईओ किम स्यूंग-योन ने सियोल मेट्रोपॉलिटन पुलिस एजेंसी द्वारा आयोजित किशोर अवैध जुआ उन्मूलन रिले अभियान में भाग लिया। किम ने संदेश दिया कि “जुआ निवेश नहीं बल्कि धोखाधड़ी है” और किशोरों में अवैध जुए की रोकथाम की जरूरत पर जोर दिया। यह अभियान रिले प्रारूप में चल रहा है, और नेक्स्ट सिक्योरिटीज ने काकाओ पे सिक्योरिटीज द्वारा नामित किए जाने के बाद इसमें हिस्सा लिया। किम ने अगली सहभागी संस्था के रूप में कोरिया रेटिंग्स को नामित किया। अभियान का मुख्य संदेश वित्तीय निवेश और जुए के बीच स्पष्ट अंतर करना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "CEO Next Securities Kim Seung-yeon Ikut Kampanye Berantas Judi Ilegal Remaja",
+        "excerpt": "CEO Next Securities Kim Seung-yeon mengikuti kampanye estafet Kepolisian Metropolitan Seoul untuk memberantas judi ilegal remaja, menyampaikan bahwa judi bukan investasi melainkan penipuan, dan menunjuk Korea Ratings berikutnya.",
+        "body": "CEO Next Securities Kim Seung-yeon mengikuti kampanye estafet yang diselenggarakan Kepolisian Metropolitan Seoul untuk memberantas judi ilegal di kalangan remaja. Kim menyampaikan pesan bahwa “judi bukan investasi, melainkan penipuan” dan menekankan perlunya pencegahan judi ilegal remaja. Kampanye ini berlangsung dengan format estafet, dan Next Securities berpartisipasi setelah ditunjuk oleh Kakao Pay Securities. Kim kemudian menunjuk Korea Ratings sebagai organisasi peserta berikutnya. Pesan utama kampanye ini adalah membedakan secara jelas investasi keuangan dan perjudian demi melindungi remaja. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "30848cd7126f",
     "slug": "미국-유럽에서도-통했다호실적-낸-달바글로벌-주가도-상승-매경-자이앤트-924452",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Daol Investment dan Koscom Teken MOU Platform Sekuritas Token",
         "excerpt": "Daol Investment & Securities menandatangani MOU dengan Koscom untuk mendorong bisnis platform sekuritas token, termasuk kerja sama infrastruktur penerbitan dan lingkungan perdagangan stabil.",
         "body": "Daol Investment & Securities menandatangani nota kesepahaman dengan Koscom untuk mendorong bisnis platform sekuritas token. Kedua perusahaan akan memulai kerja sama penuh guna membangun infrastruktur penerbitan sekuritas token serta berkontribusi pada pemantapan pasar yang stabil dan pembentukan lingkungan perdagangan. Sekuritas token menggabungkan infrastruktur penerbitan dan distribusi sekuritas yang sudah ada dengan teknologi digital, sehingga pembangunan platform dan stabilitas operasional menjadi penting. Melalui kesepakatan ini, Daol Investment & Securities dan Koscom diperkirakan mempercepat landasan bisnis sekuritas token. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "6696df975937",
-    "slug": "미래에셋-분기-1조-클럽-증권업계-처음-628372",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T13:22:22.427Z",
-    "updatedAt": "2026-05-12T13:22:22.427Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045042",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045042",
-    "titleFingerprint": "1ae86725c99a93a2cf68341beda80f374531b3a8",
-    "dedupKeys": [
-      "6696df9759374f6fb4501e7cf0422efe73846673",
-      "1ae86725c99a93a2cf68341beda80f374531b3a8",
-      "2befcdd28d2c1bd3e51e4ea75faca2825b5334c9"
-    ],
-    "imageUrl": "/images/articles/6696df975937.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미래에셋증권, 증권업계 첫 분기 순이익 1조원 돌파",
-        "excerpt": "미래에셋증권이 올 1분기 증권업계 최초로 분기 순이익 1조원을 넘어서며 브로커리지·WM 수수료 증가와 해외법인 실적 개선 효과를 확인했다.",
-        "body": "미래에셋증권이 올 1분기 증권업계에서 처음으로 분기 순이익 1조원을 돌파했다. 증시 호황으로 브로커리지, 즉 위탁매매 수수료 수익이 늘었고 WM(자산관리) 부문의 수수료 수익도 함께 증가한 것이 실적 개선의 배경으로 꼽힌다. 여기에 해외법인 실적 개선까지 맞물리며 분기 기준 ‘1조 클럽’에 진입했다. 이번 성과는 국내 증권사 수익 구조에서 시장 거래 활성화와 자산관리, 해외 사업의 기여도가 동시에 부각된 사례다. 향후 증시 흐름과 해외법인 실적 지속 여부가 실적 추세를 가늠할 변수로 보인다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Mirae Asset Securities Tops 1 Trillion Won in Quarterly Profit, Industry First",
-        "excerpt": "Mirae Asset Securities became the first Korean brokerage to exceed 1 trillion won in quarterly net profit in Q1, helped by higher brokerage and WM fees and stronger overseas units.",
-        "body": "Mirae Asset Securities surpassed 1 trillion won in quarterly net profit in the first quarter, becoming the first firm in Korea’s securities industry to do so. The result was driven by a stock market boom that lifted brokerage commission income, along with higher fees from WM, or wealth management. Improved earnings at overseas subsidiaries also contributed to the milestone. The achievement places the company in the quarterly “1 trillion won club” and highlights how active market trading, asset management, and overseas operations all supported earnings. Future results are expected to depend on stock market conditions and whether overseas units continue to improve. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "未来アセット証券、業界初の四半期純利益1兆ウォン突破",
-        "excerpt": "未来アセット証券は今年第1四半期、証券業界で初めて四半期純利益1兆ウォンを突破し、委託売買・WM手数料増と海外法人の改善が寄与した。",
-        "body": "未来アセット証券は今年第1四半期、証券業界で初めて四半期純利益1兆ウォンを突破した。株式市場の好況を受け、ブローカレッジ、つまり委託売買の手数料収入が増え、WM（資産管理）部門の手数料収入も拡大したことが業績改善の背景とされる。さらに海外法人の業績改善も重なり、四半期ベースで「1兆ウォンクラブ」入りを果たした。今回の成果は、国内証券会社の収益構造において市場取引の活性化、資産管理、海外事業の寄与が同時に浮き彫りになった事例だ。今後は株式市場の流れと海外法人の改善継続が業績動向を左右する要因となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "未来资产证券季度净利润首破1万亿韩元，创行业首次",
-        "excerpt": "未来资产证券今年一季度成为韩国证券行业首家季度净利润突破1万亿韩元的公司，受益于经纪、财富管理手续费增长及海外法人业绩改善。",
-        "body": "未来资产证券今年第一季度成为韩国证券行业首家季度净利润突破1万亿韩元的公司。受股市景气推动，经纪业务即委托买卖手续费收入增加，WM（财富管理）部门的手续费收入也同步增长，被视为业绩改善的主要背景。此外，海外法人业绩改善也形成助力，使公司按季度进入“1万亿韩元俱乐部”。这一成果显示，在韩国证券公司的收入结构中，市场交易活跃、资产管理和海外业务的贡献同时凸显。未来业绩走势将取决于股市环境以及海外法人业绩能否持续改善。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Mirae Asset Securities supera 1 billón de wones de beneficio trimestral, primera en el sector",
-        "excerpt": "Mirae Asset Securities fue la primera firma de valores coreana en superar 1 billón de wones de beneficio neto trimestral en el primer trimestre, por mayores comisiones y mejora exterior.",
-        "body": "Mirae Asset Securities superó en el primer trimestre 1 billón de wones de beneficio neto trimestral, convirtiéndose en la primera compañía del sector de valores de Corea en lograrlo. El resultado se apoyó en el auge bursátil, que elevó los ingresos por comisiones de corretaje o intermediación, y en el aumento de las comisiones del área de WM, gestión patrimonial. También contribuyó la mejora de resultados de las filiales en el extranjero. Con ello, la empresa entró en el “club de 1 billón de wones” trimestral. El caso muestra el peso combinado de la actividad de mercado, la gestión patrimonial y el negocio exterior. La evolución futura dependerá del mercado bursátil y de la continuidad de la mejora internacional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Mirae Asset Securities supera 1 trilhão de won em lucro trimestral, feito inédito no setor",
-        "excerpt": "A Mirae Asset Securities foi a primeira corretora coreana a passar de 1 trilhão de won em lucro líquido trimestral no 1º trimestre, com comissões maiores e melhora no exterior.",
-        "body": "A Mirae Asset Securities superou no primeiro trimestre 1 trilhão de won em lucro líquido trimestral, tornando-se a primeira empresa do setor de valores mobiliários da Coreia a atingir essa marca. O desempenho foi impulsionado pelo bom momento do mercado acionário, que elevou as receitas de corretagem, ou intermediação, e também pelas maiores comissões em WM, gestão de patrimônio. A melhora dos resultados das subsidiárias no exterior se somou a esse movimento. Assim, a companhia entrou no “clube de 1 trilhão de won” em base trimestral. O resultado evidencia a contribuição conjunta da negociação de mercado, da gestão de patrimônio e dos negócios internacionais. A trajetória futura dependerá do mercado acionário e da continuidade da melhora externa. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Mirae Asset Securities überschreitet als erster Broker 1 Billion Won Quartalsgewinn",
-        "excerpt": "Mirae Asset Securities erzielte im ersten Quartal als erstes koreanisches Wertpapierhaus mehr als 1 Billion Won Nettogewinn, getragen von höheren Brokerage- und WM-Gebühren sowie Auslandstöchtern.",
-        "body": "Mirae Asset Securities hat im ersten Quartal als erstes Unternehmen der koreanischen Wertpapierbranche einen Quartalsnettogewinn von mehr als 1 Billion Won erzielt. Hintergrund war die starke Börsenlage, die die Provisionserträge aus Brokerage, also Auftragsvermittlung, erhöhte. Auch im WM-Bereich, der Vermögensverwaltung, stiegen die Gebühreneinnahmen. Hinzu kam eine Verbesserung der Ergebnisse der Auslandsgesellschaften. Damit erreichte das Unternehmen auf Quartalsbasis den “1-Billion-Won-Club”. Der Erfolg zeigt, wie Marktaktivität, Vermögensverwaltung und Auslandsgeschäft gemeinsam zur Ertragsstruktur eines koreanischen Wertpapierhauses beitragen können. Entscheidend für die weitere Entwicklung dürften der Börsenverlauf und die Fortsetzung der Verbesserungen im Ausland sein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Mirae Asset Securities dépasse 1 000 milliards de wons de bénéfice trimestriel, une première",
-        "excerpt": "Mirae Asset Securities est devenu le premier courtier coréen à dépasser 1 000 milliards de wons de bénéfice net trimestriel au T1, grâce aux commissions et aux filiales étrangères.",
-        "body": "Mirae Asset Securities a dépassé au premier trimestre 1 000 milliards de wons de bénéfice net trimestriel, une première dans le secteur coréen des valeurs mobilières. Cette performance s’explique par la vigueur du marché boursier, qui a accru les revenus de commissions de courtage, ainsi que par la hausse des commissions de WM, ou gestion de patrimoine. L’amélioration des résultats des filiales étrangères a également contribué à ce cap. L’entreprise entre ainsi dans le “club des 1 000 milliards de wons” sur une base trimestrielle. Ce résultat met en évidence la contribution conjointe de l’activité de marché, de la gestion de patrimoine et des opérations à l’étranger. La suite dépendra de l’évolution des marchés et de la poursuite de l’amélioration internationale. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ميراي أسيت سيكيوريتيز تتجاوز تريليون وون أرباحا فصلية لأول مرة في القطاع",
-        "excerpt": "أصبحت ميراي أسيت سيكيوريتيز أول شركة وساطة كورية تتجاوز تريليون وون من صافي الربح الفصلي في الربع الأول، بدعم من عمولات الوساطة وإدارة الثروات وتحسن الخارج.",
-        "body": "تجاوزت ميراي أسيت سيكيوريتيز في الربع الأول صافي ربح فصلي قدره تريليون وون، لتصبح أول شركة في قطاع الأوراق المالية الكوري تحقق هذا المستوى. وجاء الأداء مدعوما بازدهار سوق الأسهم، ما رفع إيرادات عمولات الوساطة، أي تداولات العملاء، إلى جانب زيادة عمولات WM، أو إدارة الثروات. كما ساهم تحسن نتائج الشركات التابعة في الخارج في بلوغ هذه المرحلة. وبذلك دخلت الشركة على أساس فصلي ما يسمى “نادي التريليون وون”. وتبرز هذه النتيجة مساهمة نشاط التداول في السوق وإدارة الأصول والأعمال الخارجية معا في أرباح شركات الأوراق المالية الكورية. وستتوقف الاتجاهات المقبلة على مسار سوق الأسهم واستمرار تحسن أداء الوحدات الخارجية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "मिराए एसेट सिक्योरिटीज का तिमाही शुद्ध लाभ 1 ट्रिलियन वॉन के पार, उद्योग में पहली बार",
-        "excerpt": "मिराए एसेट सिक्योरिटीज ने पहली तिमाही में 1 ट्रिलियन वॉन से अधिक तिमाही शुद्ध लाभ दर्ज किया, जिसे ब्रोकरेज, WM शुल्क और विदेशी इकाइयों की सुधार ने सहारा दिया।",
-        "body": "मिराए एसेट सिक्योरिटीज ने इस वर्ष पहली तिमाही में 1 ट्रिलियन वॉन से अधिक तिमाही शुद्ध लाभ दर्ज किया और कोरियाई सिक्योरिटीज उद्योग में ऐसा करने वाली पहली कंपनी बनी। शेयर बाजार की तेजी से ब्रोकरेज, यानी ग्राहक कारोबार पर मिलने वाले कमीशन, की आय बढ़ी। साथ ही WM, अर्थात वेल्थ मैनेजमेंट, खंड की शुल्क आय भी बढ़ी। विदेशी सहायक कंपनियों के प्रदर्शन में सुधार ने भी इस उपलब्धि में योगदान दिया। इस तरह कंपनी तिमाही आधार पर “1 ट्रिलियन वॉन क्लब” में शामिल हुई। यह नतीजा दिखाता है कि बाजार कारोबार की सक्रियता, संपत्ति प्रबंधन और विदेशी कारोबार ने मिलकर कमाई को सहारा दिया। आगे की दिशा शेयर बाजार की स्थिति और विदेशी इकाइयों में सुधार जारी रहने पर निर्भर करेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Mirae Asset Securities Cetak Laba Kuartalan 1 Triliun Won, Pertama di Industri",
-        "excerpt": "Mirae Asset Securities menjadi perusahaan sekuritas Korea pertama yang menembus laba bersih kuartalan 1 triliun won pada kuartal I, didorong komisi brokerage, WM, dan kinerja luar negeri.",
-        "body": "Mirae Asset Securities pada kuartal pertama menembus laba bersih kuartalan 1 triliun won, menjadi yang pertama di industri sekuritas Korea. Kinerja ini didorong oleh kuatnya pasar saham yang meningkatkan pendapatan komisi brokerage, atau transaksi perantara. Komisi dari WM, yakni wealth management atau pengelolaan aset, juga ikut meningkat. Perbaikan kinerja entitas luar negeri turut memperkuat hasil tersebut. Dengan capaian ini, perusahaan masuk ke “klub 1 triliun won” secara kuartalan. Hasil ini menunjukkan kontribusi bersama dari aktivitas perdagangan pasar, pengelolaan aset, dan bisnis luar negeri dalam struktur pendapatan perusahaan sekuritas Korea. Ke depan, tren kinerja akan bergantung pada arah pasar saham dan berlanjutnya perbaikan di entitas luar negeri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "a2283028dcbd",
-    "slug": "하루새-주가-18-치솟은-lg전자-332462",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T13:20:35.935Z",
-    "updatedAt": "2026-05-12T13:20:35.935Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045045",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045045",
-    "titleFingerprint": "c534f1fb6b1bcef9b18d7639a9be836e6679df76",
-    "dedupKeys": [
-      "a2283028dcbd67888ce10dea3ad80a64a1dd7333",
-      "c534f1fb6b1bcef9b18d7639a9be836e6679df76",
-      "556ad8ecacc1cd9aa78bc3632dbd238e04b3fef0"
-    ],
-    "imageUrl": "/images/articles/a2283028dcbd.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG전자 주가 18% 급등, 로봇사업 신성장동력 기대에 매수세 집중",
-        "excerpt": "LG전자는 12일 한국거래소 기준 주가가 18% 오른 18만4900원에 거래되며 로봇사업이 신성장동력으로 주목받은 영향에 두 자릿수 급등세를 보였다.",
-        "body": "LG전자 주가가 12일 하루 새 두 자릿수 급등세를 보였다. 한국거래소에 따르면 이날 LG전자 주가는 18% 상승한 18만4900원에 거래됐다. 주가 상승의 배경으로는 로봇사업이 회사의 신성장동력으로 주목받은 점이 제시됐다. 기존 사업 외 성장 가능성에 시장의 관심이 모이며 매수세가 확대된 것으로 풀이된다. 이번 급등은 로봇사업에 대한 투자자 기대가 주가에 빠르게 반영된 사례로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "LG Electronics Shares Jump 18% as Robot Business Draws Growth Attention",
-        "excerpt": "LG Electronics shares rose 18% to 184,900 won on May 12, according to the Korea Exchange, as its robot business attracted attention as a new growth driver.",
-        "body": "LG Electronics shares posted a double-digit surge in a single day on May 12. According to the Korea Exchange, the stock rose 18% to 184,900 won. The move came as the company’s robot business drew attention as a new growth engine. Market interest in growth potential beyond existing businesses appears to have strengthened buying momentum. The sharp rise is seen as a case in which investor expectations for the robot business were quickly reflected in the share price. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "LG電子株が18％急騰、ロボット事業の成長期待に買い集まる",
-        "excerpt": "LG電子は12日、韓国取引所基準で株価が18％上昇し18万4900ウォンとなり、ロボット事業が新たな成長動力として注目された影響で急騰した。",
-        "body": "LG電子の株価が12日、1日で二桁の急騰を見せた。韓国取引所によると、この日のLG電子株は18％上昇し、18万4900ウォンで取引された。株価上昇の背景には、同社のロボット事業が新たな成長動力として注目されたことが挙げられる。既存事業以外の成長可能性に市場の関心が集まり、買いが強まったとみられる。今回の急騰は、ロボット事業への投資家の期待が株価に素早く反映された事例と解釈される。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "LG电子股价大涨18%，机器人业务成新增长动力受关注",
-        "excerpt": "据韩国交易所数据，LG电子12日股价上涨18%至184900韩元，因机器人业务被视为新增长动力而受到市场关注，单日涨幅达两位数。",
-        "body": "LG电子股价在12日单日出现两位数大涨。韩国交易所数据显示，当天LG电子股价上涨18%，报184900韩元。此次上涨的背景是该公司的机器人业务被市场视为新的增长动力并受到关注。随着投资者关注其现有业务之外的增长可能性，买盘随之扩大。此次股价急升可被解读为市场对机器人业务的期待迅速反映到股价中的案例。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones de LG Electronics suben 18% por atención a su negocio robótico",
-        "excerpt": "LG Electronics subió un 18% hasta 184.900 wones el 12 de mayo, según la Bolsa de Corea, mientras su negocio de robots atraía atención como nuevo motor de crecimiento.",
-        "body": "Las acciones de LG Electronics registraron el 12 de mayo una subida de dos dígitos en una sola jornada. Según la Bolsa de Corea, el título avanzó un 18% hasta 184.900 wones. El movimiento se produjo mientras el negocio de robots de la compañía ganaba atención como nuevo motor de crecimiento. El interés del mercado en las posibilidades de expansión más allá de sus negocios existentes parece haber impulsado las compras. La fuerte alza se interpreta como un caso en el que las expectativas de los inversores sobre la robótica se reflejaron rápidamente en la cotización. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações da LG Electronics saltam 18% com foco no negócio de robôs",
-        "excerpt": "A LG Electronics subiu 18% para 184.900 won em 12 de maio, segundo a Bolsa da Coreia, com seu negócio de robôs em destaque como novo motor de crescimento.",
-        "body": "As ações da LG Electronics registraram em 12 de maio uma alta de dois dígitos em apenas um dia. Segundo a Bolsa da Coreia, o papel avançou 18%, para 184.900 won. A valorização ocorreu enquanto o negócio de robôs da companhia chamava atenção como novo motor de crescimento. O interesse do mercado em possibilidades de expansão além dos negócios existentes parece ter reforçado as compras. A forte alta pode ser vista como um caso em que as expectativas dos investidores sobre robótica foram rapidamente refletidas no preço da ação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "LG-Electronics-Aktie steigt 18% wegen Fokus auf Robotikgeschäft",
-        "excerpt": "Die Aktie von LG Electronics stieg am 12. Mai laut Korea Exchange um 18% auf 184.900 Won, da das Robotikgeschäft als neuer Wachstumstreiber in den Fokus rückte.",
-        "body": "Die Aktie von LG Electronics verzeichnete am 12. Mai an einem einzigen Tag einen zweistelligen Kurssprung. Nach Angaben der Korea Exchange stieg der Kurs um 18% auf 184.900 Won. Hintergrund war die Aufmerksamkeit für das Robotikgeschäft des Unternehmens, das als neuer Wachstumstreiber gesehen wird. Das Marktinteresse an Wachstumsmöglichkeiten jenseits der bestehenden Geschäfte dürfte die Käufe verstärkt haben. Der starke Anstieg gilt als Beispiel dafür, wie Erwartungen der Anleger an das Robotikgeschäft rasch im Aktienkurs sichtbar wurden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’action LG Electronics bondit de 18% avec l’attention sur la robotique",
-        "excerpt": "LG Electronics a gagné 18% à 184 900 wons le 12 mai, selon la Korea Exchange, alors que son activité robotique attirait l’attention comme nouveau moteur de croissance.",
-        "body": "L’action LG Electronics a enregistré le 12 mai une hausse à deux chiffres en une seule séance. Selon la Korea Exchange, le titre a progressé de 18% à 184 900 wons. Cette hausse intervient alors que l’activité robotique de l’entreprise attire l’attention comme nouveau moteur de croissance. L’intérêt du marché pour des possibilités de croissance au-delà des activités existantes semble avoir renforcé les achats. Cette forte progression peut être interprétée comme un cas où les attentes des investisseurs envers la robotique se sont rapidement reflétées dans le cours. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم إل جي إلكترونيكس يقفز 18% مع الاهتمام بأعمال الروبوتات",
-        "excerpt": "ارتفع سهم إل جي إلكترونيكس في 12 مايو بنسبة 18% إلى 184900 وون، وفق بورصة كوريا، مع بروز أعمال الروبوتات كمحرك نمو جديد يحظى باهتمام السوق.",
-        "body": "سجل سهم إل جي إلكترونيكس في 12 مايو ارتفاعا من خانتين خلال يوم واحد. ووفقا لبورصة كوريا، صعد السهم بنسبة 18% إلى 184900 وون. وجاء هذا الارتفاع مع لفت أعمال الروبوتات التابعة للشركة الانتباه بوصفها محرك نمو جديدا. ويبدو أن اهتمام السوق بإمكانات النمو خارج الأعمال القائمة عزز وتيرة الشراء. ويمكن تفسير القفزة الحادة على أنها حالة انعكست فيها توقعات المستثمرين تجاه أعمال الروبوتات بسرعة على سعر السهم. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "LG Electronics शेयर 18% उछला, रोबोट कारोबार पर बढ़ी बाजार की नजर",
-        "excerpt": "कोरिया एक्सचेंज के अनुसार, 12 मई को LG Electronics का शेयर 18% बढ़कर 184900 वॉन पर पहुंचा, क्योंकि रोबोट कारोबार नए विकास इंजन के रूप में चर्चा में आया।",
-        "body": "LG Electronics के शेयर ने 12 मई को एक ही दिन में दो अंकों की तेज बढ़त दर्ज की। कोरिया एक्सचेंज के अनुसार, कंपनी का शेयर 18% चढ़कर 184900 वॉन पर कारोबार कर रहा था। इस तेजी की पृष्ठभूमि में कंपनी के रोबोट कारोबार को नए विकास इंजन के रूप में मिल रहा ध्यान बताया गया। मौजूदा कारोबारों से अलग वृद्धि की संभावना पर बाजार की रुचि बढ़ने से खरीदारी मजबूत हुई मानी जाती है। यह उछाल रोबोट कारोबार को लेकर निवेशकों की उम्मीदों के शेयर मूल्य में तेजी से झलकने का उदाहरण माना जा सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham LG Electronics Melonjak 18% Saat Bisnis Robot Jadi Sorotan",
-        "excerpt": "Saham LG Electronics naik 18% ke 184.900 won pada 12 Mei menurut Bursa Korea, seiring bisnis robotnya mendapat perhatian sebagai mesin pertumbuhan baru.",
-        "body": "Saham LG Electronics mencatat lonjakan dua digit dalam satu hari pada 12 Mei. Menurut Bursa Korea, saham perusahaan naik 18% menjadi 184.900 won. Kenaikan ini terjadi saat bisnis robot LG Electronics menarik perhatian sebagai mesin pertumbuhan baru. Minat pasar terhadap potensi pertumbuhan di luar bisnis yang sudah ada tampaknya mendorong aksi beli. Lonjakan tersebut dapat dipahami sebagai contoh ketika ekspektasi investor terhadap bisnis robot cepat tercermin dalam harga saham. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "3962417e2c82",
-    "slug": "577p-출렁-롤러코스피에-현기증-617995",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T13:18:51.602Z",
-    "updatedAt": "2026-05-12T13:18:51.602Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045044",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045044",
-    "titleFingerprint": "7cfacfaf505c907dfc39b2f2f096a65115d2d81c",
-    "dedupKeys": [
-      "3962417e2c82407ba5cefd8355d7c8c88c8b3f0f",
-      "7cfacfaf505c907dfc39b2f2f096a65115d2d81c",
-      "d5951d8edd855e5dd1bf61dcc11f43cee7fbe825"
-    ],
-    "imageUrl": "/images/articles/3962417e2c82.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000선 앞두고 급락 전환, 577포인트 출렁인 ‘롤러코스피’",
-        "excerpt": "코스피가 8000선을 눈앞에 둔 시점에서 6거래일 만에 하락 전환했다. 초반 2%대 강세에도 초과 세수 ‘국민배당금’ 논란이 투자심리를 흔들며 변동성이 커졌다.",
-        "body": "코스피가 8000선을 눈앞에 두고 6거래일 만에 하락 전환했다. 장 초반에는 2%대 강세로 출발했지만, 초과 세수에 대한 ‘국민배당금’ 논란이 투자심리를 흔들면서 지수 흐름이 급격히 불안정해졌다. 이날 코스피는 장중 한때 577포인트까지 출렁이며 ‘롤러코스피’라는 표현이 나올 만큼 큰 변동성을 보였다. 8000선 돌파 기대가 커진 상황에서 정책 관련 논란이 단기 매매심리에 영향을 준 것으로 풀이된다. 시장은 향후 해당 논란의 전개와 투자심리 회복 여부를 주시할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Reverses Near 8,000 as ‘Roller-KOSPI’ Swings 577 Points",
-        "excerpt": "The KOSPI turned lower after six sessions just as it neared the 8,000 mark. Despite opening over 2% higher, debate over a ‘national dividend’ from excess tax revenue shook sentiment.",
-        "body": "The KOSPI reversed lower after six trading sessions as it approached the 8,000 mark. The index opened with gains of more than 2%, but investor sentiment was shaken by controversy over a proposed ‘national dividend’ linked to excess tax revenue, making intraday moves sharply unstable. At one point, the KOSPI swung by as much as 577 points, prompting descriptions of a ‘roller-KOSPI.’ With expectations rising for a break above 8,000, the policy-related debate appeared to weigh on short-term trading sentiment. Markets are expected to watch how the controversy develops and whether investor confidence stabilizes. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、8000目前で下落転換　577ポイント揺れた「ローラーコスピ」",
-        "excerpt": "KOSPIは8000台を目前に6営業日ぶりに下落へ転じた。序盤は2％台の上昇で始まったが、超過税収を巡る「国民配当金」論争が投資心理を揺さぶった。",
-        "body": "KOSPIは8000台を目前に、6営業日ぶりに下落へ転じた。取引序盤は2％台の上昇で始まったものの、超過税収に関する「国民配当金」論争が投資心理を揺さぶり、指数の動きは急速に不安定になった。この日、KOSPIは取引時間中に一時577ポイントまで振れ、「ローラーコスピ」と表現されるほど大きな変動性を見せた。8000突破への期待が高まるなか、政策関連の論争が短期の売買心理に影響したとみられる。市場は今後、論争の展開と投資心理の回復を注視する見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI逼近8000点却转跌，盘中剧震577点成“过山车”",
-        "excerpt": "KOSPI在逼近8000点之际，时隔6个交易日转为下跌。尽管开盘一度上涨逾2%，但围绕超额税收“国民分红”的争议动摇了投资情绪。",
-        "body": "KOSPI在逼近8000点关口之际，时隔6个交易日转为下跌。当天早盘指数以逾2%的涨幅开局，但围绕超额税收相关“国民分红”的争议冲击投资者情绪，使盘中走势迅速转向不稳定。KOSPI盘中一度震荡达577点，因此被形容为“过山车KOSPI”。在市场对突破8000点的期待升温之时，政策相关争议被认为影响了短线交易心理。后续市场预计将关注该争议的发展，以及投资情绪能否恢复稳定。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El KOSPI gira a la baja cerca de 8.000 tras oscilar 577 puntos",
-        "excerpt": "El KOSPI cayó tras seis sesiones al acercarse a los 8.000 puntos. Aunque abrió con alzas superiores al 2%, la polémica por el ‘dividendo nacional’ ligado a ingresos fiscales extra golpeó el ánimo inversor.",
-        "body": "El KOSPI cambió a terreno negativo después de seis sesiones mientras se acercaba a la barrera de los 8.000 puntos. El índice abrió con una subida de más del 2%, pero la controversia sobre un ‘dividendo nacional’ vinculado al exceso de ingresos fiscales sacudió la confianza de los inversores y volvió inestable la negociación intradía. En un momento de la sesión, el KOSPI llegó a oscilar 577 puntos, lo que llevó a describirlo como un ‘KOSPI de montaña rusa’. Con expectativas de superar los 8.000 puntos, el debate de política pública afectó el sentimiento de corto plazo. El mercado seguirá atento a su evolución y a la recuperación del ánimo inversor. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI vira para queda perto dos 8.000 após oscilação de 577 pontos",
-        "excerpt": "O KOSPI caiu após seis pregões ao se aproximar dos 8.000 pontos. Mesmo abrindo com alta acima de 2%, a polêmica sobre o ‘dividendo nacional’ ligado à arrecadação extra abalou o sentimento dos investidores.",
-        "body": "O KOSPI passou a cair após seis pregões enquanto se aproximava da marca de 8.000 pontos. No início do dia, o índice abriu com alta superior a 2%, mas a controvérsia sobre um ‘dividendo nacional’ relacionado ao excesso de arrecadação tributária abalou o sentimento dos investidores e tornou o movimento intradiário instável. Em determinado momento, o KOSPI oscilou até 577 pontos, levando à descrição de um ‘KOSPI de montanha-russa’. Com a expectativa de rompimento dos 8.000 pontos em alta, a discussão de política pública pareceu pesar sobre o humor de curto prazo. O mercado deve acompanhar o desdobramento da polêmica e a recuperação da confiança. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI dreht kurz vor 8.000 ins Minus und schwankt um 577 Punkte",
-        "excerpt": "Der KOSPI fiel nach sechs Handelstagen, obwohl er der Marke von 8.000 Punkten nahekam. Trotz eines Starts mit über 2% Plus belastete die Debatte über eine ‘Volksdividende’ aus Steuermehreinnahmen die Stimmung.",
-        "body": "Der KOSPI drehte nach sechs Handelstagen ins Minus, während er sich der Marke von 8.000 Punkten näherte. Zu Handelsbeginn legte der Index noch um mehr als 2% zu, doch die Kontroverse über eine ‘Volksdividende’ im Zusammenhang mit Steuermehreinnahmen erschütterte die Anlegerstimmung und machte den Tagesverlauf stark unruhig. Zwischenzeitlich schwankte der KOSPI um bis zu 577 Punkte, weshalb von einem ‘Roller-KOSPI’ gesprochen wurde. In einer Phase wachsender Erwartungen an einen Ausbruch über 8.000 Punkte belastete die politische Debatte offenbar die kurzfristige Handelsstimmung. Der Markt dürfte nun den Fortgang der Kontroverse und eine mögliche Stabilisierung der Stimmung beobachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI recule près des 8 000 après une oscillation de 577 points",
-        "excerpt": "Le KOSPI a basculé en baisse après six séances alors qu’il approchait les 8 000 points. Malgré une ouverture en hausse de plus de 2%, la polémique sur un ‘dividende national’ lié aux recettes fiscales excédentaires a pesé sur le moral des investisseurs.",
-        "body": "Le KOSPI est repassé en baisse après six séances alors qu’il s’approchait du seuil des 8 000 points. L’indice avait commencé la séance sur une hausse de plus de 2%, mais la controverse autour d’un ‘dividende national’ lié à l’excédent de recettes fiscales a ébranlé le sentiment des investisseurs et rendu les mouvements intrajournaliers très instables. À un moment de la séance, le KOSPI a oscillé jusqu’à 577 points, justifiant l’expression de ‘KOSPI montagnes russes’. Alors que les attentes d’un franchissement des 8 000 points augmentaient, ce débat de politique publique a semblé affecter le sentiment de court terme. Le marché suivra l’évolution de la controverse et la reprise éventuelle de la confiance. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يتراجع قرب 8000 نقطة بعد تقلبات بلغت 577 نقطة",
-        "excerpt": "تحول مؤشر كوسبي إلى الهبوط بعد ست جلسات مع اقترابه من مستوى 8000 نقطة. ورغم افتتاحه على ارتفاع يفوق 2%، أثار الجدل حول ‘توزيع وطني’ من فائض الضرائب اضطرابا في معنويات المستثمرين.",
-        "body": "تحول مؤشر كوسبي إلى الهبوط بعد ست جلسات تداول مع اقترابه من مستوى 8000 نقطة. وكان المؤشر قد بدأ الجلسة على ارتفاع يتجاوز 2%، لكن الجدل بشأن ‘توزيع وطني’ مرتبط بفائض الإيرادات الضريبية هز معنويات المستثمرين وجعل حركة المؤشر خلال الجلسة شديدة الاضطراب. وفي إحدى مراحل التداول، تأرجح كوسبي بما يصل إلى 577 نقطة، ما دفع إلى وصفه بأنه يشبه قطارا سريعا من التقلبات. ومع تزايد التوقعات باختراق مستوى 8000 نقطة، بدا أن الجدل المرتبط بالسياسات أثر في شهية التداول قصيرة الأجل. ومن المتوقع أن تتابع السوق تطورات هذا الجدل ومدى تعافي ثقة المستثمرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "8,000 के करीब KOSPI पलटा, 577 अंकों की उथल-पुथल से बाजार चकराया",
-        "excerpt": "KOSPI 8,000 अंक के करीब पहुंचते हुए छह सत्रों बाद गिरावट में बदल गया। शुरुआती कारोबार में 2% से अधिक तेजी के बावजूद अतिरिक्त कर राजस्व से जुड़े ‘राष्ट्रीय लाभांश’ विवाद ने निवेशक भावना को झकझोर दिया।",
-        "body": "KOSPI 8,000 अंक के स्तर के करीब पहुंचते हुए छह कारोबारी सत्रों के बाद गिरावट में बदल गया। दिन की शुरुआत में सूचकांक 2% से अधिक मजबूत था, लेकिन अतिरिक्त कर राजस्व से जुड़े ‘राष्ट्रीय लाभांश’ विवाद ने निवेशकों की भावना को प्रभावित किया और इंट्राडे चाल अचानक अस्थिर हो गई। सत्र के दौरान KOSPI एक समय 577 अंकों तक झूला, जिससे इसे ‘रोलर-KOSPI’ जैसा कहा गया। 8,000 अंक पार करने की उम्मीदों के बीच नीति से जुड़े इस विवाद ने अल्पकालिक कारोबार मनोवृत्ति पर असर डाला माना जा रहा है। बाजार आगे विवाद की दिशा और निवेशक भरोसे की बहाली पर नजर रखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Berbalik Turun Dekat 8.000, Berayun 577 Poin Bak Rollercoaster",
-        "excerpt": "KOSPI berbalik turun setelah enam sesi saat mendekati level 8.000. Meski dibuka menguat lebih dari 2%, polemik ‘dividen nasional’ dari kelebihan penerimaan pajak mengguncang sentimen investor.",
-        "body": "KOSPI berbalik melemah setelah enam sesi perdagangan ketika mendekati level 8.000. Pada awal sesi, indeks sempat dibuka menguat lebih dari 2%, tetapi polemik mengenai ‘dividen nasional’ terkait kelebihan penerimaan pajak mengguncang sentimen investor dan membuat pergerakan intraday menjadi sangat tidak stabil. Pada satu titik, KOSPI berayun hingga 577 poin, sehingga muncul sebutan ‘roller-KOSPI’. Di tengah meningkatnya harapan untuk menembus level 8.000, perdebatan kebijakan tersebut dinilai memengaruhi sentimen perdagangan jangka pendek. Pasar diperkirakan akan mencermati perkembangan polemik ini dan apakah kepercayaan investor kembali stabil. Sumber: mk.co.kr"
       }
     }
   }
