@@ -1,0 +1,75 @@
+{
+  "id": "ef4fae204833",
+  "slug": "베이시스-차익거래-플랫폼-비공개-테스트-완료-후-출시-405572",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-13T20:00:49.379Z",
+  "updatedAt": "2026-05-13T20:00:49.380Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051342636",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051342636",
+  "titleFingerprint": "6c0bae21ac2b6253e4895955a491fdeb4b9a7c6f",
+  "dedupKeys": [
+    "ef4fae20483386019dba30d2155909f1c2dd97f2",
+    "6c0bae21ac2b6253e4895955a491fdeb4b9a7c6f",
+    "bcaea03eab254a8de9c2cbcfa91505ee500882bd"
+  ],
+  "imageUrl": "/images/articles/ef4fae204833.jpg",
+  "i18n": {
+    "ko": {
+      "title": "암호화폐 차익거래 베이시스 정식 출시, 기관 비공개 테스트로 성능 검증 완료",
+      "excerpt": "베이시스는 2026년 5월 13일 일반 이용자 대상 암호화폐 차익거래 플랫폼을 정식 출시하고, 기관 대상 비공개 실거래 테스트 결과와 운영 성능을 공개했다.",
+      "body": "암호화폐 차익거래 플랫폼 베이시스가 2026년 5월 13일 비공개 테스트를 마치고 일반 이용자 대상 서비스를 시작했다. hankyung.com에 따르면 베이시스는 암호화폐 인프라 업체 베이스58랩스의 기술 지원으로 개발된 플랫폼이다. 최근 일부 기관투자자를 대상으로 진행한 실거래 테스트에서 실행 지연시간은 50마이크로초 미만, 처리량은 초당 10건 이상, 테스트 기간 가동률은 약 100%로 집계됐다. 회사 측은 토큰 발행 보상이나 외부 인센티브가 아니라 암호화폐 시장의 차익거래 수익을 이용자 보상 재원으로 활용한다고 설명했다. 현재 지원 자산은 비트코인, 이더리움, 솔라나, 팍스골드 등 4종이다. 헬게 스타델만 최고경영자는 정식 출시 전 시스템을 검증했으며 차익거래 인프라의 중요성이 커질 것이라고 밝혔다. 출처: hankyung.com"
+    },
+    "en": {
+      "title": "Basis Crypto Arbitrage Platform Launches After Private Institutional Testing",
+      "excerpt": "Basis officially launched its crypto arbitrage platform for general users on May 13, 2026, disclosing results from a private live-trading test with institutions and key operating metrics.",
+      "body": "Basis, a cryptocurrency arbitrage platform, began service for general users on May 13, 2026 after completing a private test. According to hankyung.com, Basis was developed with technical support from crypto infrastructure company Base58Labs. In a recent live-trading test involving selected institutional investors, execution latency was under 50 microseconds, throughput exceeded 10 transactions per second, and uptime during the test period was about 100%. The company said user rewards are funded by arbitrage gains generated in the cryptocurrency market, not by token issuance rewards or external incentives. The platform currently supports four assets: Bitcoin, Ethereum, Solana and PAX Gold. CEO Helge Stadelmann said the system had been verified before the official launch and that the importance of arbitrage infrastructure would grow as the crypto market matures. Source: hankyung.com"
+    },
+    "ja": {
+      "title": "暗号資産裁定取引のBasisが正式開始、機関向け非公開テストで性能を確認",
+      "excerpt": "Basisは2026年5月13日、一般利用者向けに暗号資産裁定取引プラットフォームを正式開始し、機関投資家向け非公開実取引テストの結果と運用性能を公表した。",
+      "body": "暗号資産裁定取引プラットフォームのBasisは2026年5月13日、非公開テストを終え、一般利用者向けサービスを開始した。hankyung.comによると、Basisは暗号資産インフラ企業Base58Labsの技術支援を受けて開発された。最近、一部の機関投資家を対象に実取引テストを実施し、実行遅延は50マイクロ秒未満、処理量は毎秒10件以上、テスト期間中の稼働率は約100％だった。会社側は、トークン発行による報酬や外部インセンティブではなく、暗号資産市場で発生する裁定取引収益を利用者報酬の原資にすると説明した。現在対応する資産はビットコイン、イーサリアム、ソラナ、PAXゴールドの4種類。ヘルゲ・スタデルマンCEOは、正式開始前にシステムを検証しており、裁定取引インフラの重要性は高まるとの見方を示した。出典: hankyung.com"
+    },
+    "zh": {
+      "title": "Basis加密货币套利平台正式上线，机构封闭测试完成性能验证",
+      "excerpt": "Basis于2026年5月13日面向普通用户正式推出加密货币套利平台，并公布了机构投资者封闭实盘测试结果及关键运营性能数据。",
+      "body": "加密货币套利平台Basis在完成封闭测试后，于2026年5月13日面向普通用户启动服务。据hankyung.com报道，Basis是在加密货币基础设施公司Base58Labs的技术支持下开发的平台。近期，平台面向部分机构投资者进行了实盘测试，结果显示执行延迟低于50微秒，吞吐量超过每秒10笔，测试期间可用率约为100%。公司方面表示，用户奖励资金并非来自代币发行奖励或外部激励，而是来自加密货币市场产生的套利收益。目前支持的资产包括比特币、以太坊、Solana和PAX Gold四种。首席执行官Helge Stadelmann表示，正式上线前已对系统进行验证，随着加密货币市场成熟，套利基础设施的重要性将进一步提升。来源: hankyung.com"
+    },
+    "es": {
+      "title": "Basis lanza su plataforma de arbitraje cripto tras una prueba privada institucional",
+      "excerpt": "Basis lanzó el 13 de mayo de 2026 su plataforma de arbitraje de criptomonedas para usuarios generales y divulgó los resultados de una prueba privada de negociación real con instituciones.",
+      "body": "La plataforma de arbitraje de criptomonedas Basis inició el 13 de mayo de 2026 su servicio para usuarios generales tras completar una prueba privada. Según hankyung.com, Basis fue desarrollada con apoyo técnico de la firma de infraestructura cripto Base58Labs. En una reciente prueba de negociación real con algunos inversores institucionales, la latencia de ejecución fue inferior a 50 microsegundos, el rendimiento superó las 10 operaciones por segundo y la disponibilidad durante el periodo de prueba fue de alrededor del 100%. La empresa explicó que las recompensas para usuarios se financian con beneficios de arbitraje generados en el mercado cripto, no con recompensas por emisión de tokens ni incentivos externos. Actualmente admite Bitcoin, Ethereum, Solana y PAX Gold. El CEO Helge Stadelmann señaló que el sistema fue verificado antes del lanzamiento oficial y que crecerá la importancia de la infraestructura de arbitraje. Fuente: hankyung.com"
+    },
+    "pt": {
+      "title": "Basis lança plataforma de arbitragem cripto após teste privado com instituições",
+      "excerpt": "A Basis lançou em 13 de maio de 2026 sua plataforma de arbitragem de criptomoedas para usuários gerais e divulgou resultados de um teste privado de negociação real com instituições.",
+      "body": "A plataforma de arbitragem de criptomoedas Basis iniciou em 13 de maio de 2026 o atendimento a usuários gerais após concluir um teste privado. Segundo o hankyung.com, a Basis foi desenvolvida com suporte técnico da empresa de infraestrutura cripto Base58Labs. Em um teste recente de negociação real com alguns investidores institucionais, a latência de execução ficou abaixo de 50 microssegundos, o processamento superou 10 transações por segundo e a disponibilidade no período de teste foi de cerca de 100%. A empresa informou que as recompensas aos usuários são financiadas por ganhos de arbitragem gerados no mercado de criptomoedas, e não por emissão de tokens ou incentivos externos. Atualmente, a plataforma suporta Bitcoin, Ethereum, Solana e PAX Gold. O CEO Helge Stadelmann afirmou que o sistema foi verificado antes do lançamento oficial e que a importância da infraestrutura de arbitragem deve crescer. Fonte: hankyung.com"
+    },
+    "de": {
+      "title": "Basis startet Krypto-Arbitrageplattform nach privatem Institutionentest",
+      "excerpt": "Basis hat am 13. Mai 2026 seine Krypto-Arbitrageplattform für allgemeine Nutzer gestartet und Ergebnisse eines privaten Live-Handelstests mit institutionellen Anlegern veröffentlicht.",
+      "body": "Die Krypto-Arbitrageplattform Basis hat am 13. Mai 2026 nach Abschluss eines privaten Tests den Dienst für allgemeine Nutzer gestartet. Laut hankyung.com wurde Basis mit technischer Unterstützung des Krypto-Infrastrukturunternehmens Base58Labs entwickelt. In einem jüngsten Live-Handelstest mit ausgewählten institutionellen Investoren lag die Ausführungslatenz unter 50 Mikrosekunden, der Durchsatz bei mehr als 10 Transaktionen pro Sekunde und die Verfügbarkeit während des Testzeitraums bei etwa 100%. Das Unternehmen erklärte, Nutzervergütungen würden aus Arbitrageerträgen des Kryptomarkts finanziert, nicht aus Token-Emissionsprämien oder externen Anreizen. Derzeit unterstützt die Plattform Bitcoin, Ethereum, Solana und PAX Gold. CEO Helge Stadelmann sagte, das System sei vor dem offiziellen Start geprüft worden; mit der Reifung des Kryptomarkts werde die Bedeutung von Arbitrageinfrastruktur zunehmen. Quelle: hankyung.com"
+    },
+    "fr": {
+      "title": "Basis lance sa plateforme d’arbitrage crypto après un test privé institutionnel",
+      "excerpt": "Basis a lancé le 13 mai 2026 sa plateforme d’arbitrage de cryptomonnaies pour le grand public et publié les résultats d’un test privé en conditions réelles avec des institutions.",
+      "body": "La plateforme d’arbitrage de cryptomonnaies Basis a ouvert son service aux utilisateurs généraux le 13 mai 2026 après avoir achevé un test privé. Selon hankyung.com, Basis a été développée avec l’appui technique de l’entreprise d’infrastructure crypto Base58Labs. Lors d’un récent test de négociation réelle mené auprès de certains investisseurs institutionnels, la latence d’exécution était inférieure à 50 microsecondes, le débit dépassait 10 transactions par seconde et le taux de disponibilité pendant la période de test était d’environ 100%. La société a indiqué que les récompenses des utilisateurs proviennent des revenus d’arbitrage générés sur le marché des cryptomonnaies, et non de récompenses liées à l’émission de jetons ni d’incitations externes. La plateforme prend actuellement en charge Bitcoin, Ethereum, Solana et PAX Gold. Le PDG Helge Stadelmann a déclaré que le système avait été vérifié avant le lancement officiel et que l’importance de l’infrastructure d’arbitrage allait croître. Source: hankyung.com"
+    },
+    "ar": {
+      "title": "إطلاق منصة Basis لمراجحة العملات المشفرة بعد اختبار خاص للمؤسسات",
+      "excerpt": "أطلقت Basis في 13 مايو 2026 منصة مراجحة العملات المشفرة للمستخدمين العامين، وكشفت نتائج اختبار تداول فعلي خاص شاركت فيه مؤسسات ومقاييس تشغيل رئيسية.",
+      "body": "بدأت منصة Basis لمراجحة العملات المشفرة خدمتها للمستخدمين العامين في 13 مايو 2026 بعد استكمال اختبار خاص. ووفقًا لموقع hankyung.com، طُورت Basis بدعم تقني من شركة البنية التحتية للعملات المشفرة Base58Labs. وفي اختبار تداول فعلي حديث شمل بعض المستثمرين المؤسسيين، بلغ زمن تأخر التنفيذ أقل من 50 ميكروثانية، وتجاوزت الطاقة الاستيعابية 10 معاملات في الثانية، وسجلت نسبة التشغيل خلال فترة الاختبار نحو 100%. وقالت الشركة إن مكافآت المستخدمين تُمول من أرباح المراجحة المتحققة في سوق العملات المشفرة، وليس من مكافآت إصدار الرموز أو الحوافز الخارجية. وتدعم المنصة حاليًا أربع أصول هي بيتكوين وإيثريوم وسولانا وPAX Gold. وذكر الرئيس التنفيذي هيلغه شتادلمن أن النظام خضع للتحقق قبل الإطلاق الرسمي، وأن أهمية بنية المراجحة ستزداد مع نضج سوق العملات المشفرة. المصدر: hankyung.com"
+    },
+    "hi": {
+      "title": "Basis क्रिप्टो आर्बिट्राज प्लेटफॉर्म संस्थागत निजी परीक्षण के बाद लॉन्च",
+      "excerpt": "Basis ने 13 मई 2026 को आम उपयोगकर्ताओं के लिए अपना क्रिप्टो आर्बिट्राज प्लेटफॉर्म लॉन्च किया और संस्थानों के साथ निजी लाइव-ट्रेडिंग परीक्षण के नतीजे व परिचालन आंकड़े जारी किए।",
+      "body": "क्रिप्टोकरेंसी आर्बिट्राज प्लेटफॉर्म Basis ने निजी परीक्षण पूरा करने के बाद 13 मई 2026 को आम उपयोगकर्ताओं के लिए सेवा शुरू की। hankyung.com के अनुसार, Basis को क्रिप्टो इन्फ्रास्ट्रक्चर कंपनी Base58Labs के तकनीकी सहयोग से विकसित किया गया है। हाल में कुछ संस्थागत निवेशकों के साथ किए गए लाइव-ट्रेडिंग परीक्षण में निष्पादन विलंब 50 माइक्रोसेकंड से कम रहा, थ्रूपुट प्रति सेकंड 10 से अधिक लेनदेन रहा और परीक्षण अवधि में अपटाइम लगभग 100% दर्ज हुआ। कंपनी ने कहा कि उपयोगकर्ता पुरस्कारों का स्रोत टोकन जारी करने के पुरस्कार या बाहरी प्रोत्साहन नहीं, बल्कि क्रिप्टो बाजार में उत्पन्न आर्बिट्राज लाभ होंगे। प्लेटफॉर्म अभी Bitcoin, Ethereum, Solana और PAX Gold सहित चार संपत्तियों को समर्थन देता है। सीईओ Helge Stadelmann ने कहा कि आधिकारिक लॉन्च से पहले प्रणाली की जांच की गई और क्रिप्टो बाजार के परिपक्व होने के साथ आर्बिट्राज इन्फ्रास्ट्रक्चर का महत्व बढ़ेगा। स्रोत: hankyung.com"
+    },
+    "id": {
+      "title": "Basis Luncurkan Platform Arbitrase Kripto Setelah Uji Privat Institusi",
+      "excerpt": "Basis resmi meluncurkan platform arbitrase kripto untuk pengguna umum pada 13 Mei 2026 dan mengungkap hasil uji perdagangan langsung privat dengan institusi serta metrik operasionalnya.",
+      "body": "Platform arbitrase kripto Basis mulai melayani pengguna umum pada 13 Mei 2026 setelah menyelesaikan uji privat. Menurut hankyung.com, Basis dikembangkan dengan dukungan teknis dari perusahaan infrastruktur kripto Base58Labs. Dalam uji perdagangan langsung terbaru yang melibatkan sejumlah investor institusi, latensi eksekusi tercatat di bawah 50 mikrodetik, throughput lebih dari 10 transaksi per detik, dan uptime selama periode uji sekitar 100%. Perusahaan menjelaskan bahwa imbalan pengguna didanai dari keuntungan arbitrase yang muncul di pasar kripto, bukan dari imbalan penerbitan token atau insentif eksternal. Saat ini platform mendukung empat aset: Bitcoin, Ethereum, Solana, dan PAX Gold. CEO Helge Stadelmann menyatakan sistem telah diverifikasi sebelum peluncuran resmi dan pentingnya infrastruktur arbitrase akan meningkat seiring matangnya pasar kripto. Sumber: hankyung.com"
+    }
+  }
+}
