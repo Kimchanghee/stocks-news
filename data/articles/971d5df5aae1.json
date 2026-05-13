@@ -1,0 +1,75 @@
+{
+  "id": "971d5df5aae1",
+  "slug": "dtcc체인링크-맞손24시간-실시간-글로벌-담보관리-시대-연다-975326",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-13T06:03:05.716Z",
+  "updatedAt": "2026-05-13T06:03:05.716Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12046148",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12046148",
+  "titleFingerprint": "441780ce4ff800d342b45ae3a9a264f550b3639d",
+  "dedupKeys": [
+    "971d5df5aae14cb4ab749389ac75ddaf165bf0a2",
+    "441780ce4ff800d342b45ae3a9a264f550b3639d",
+    "84d467afd229ef030541b0f333895faa8fcc99cb"
+  ],
+  "imageUrl": "/images/articles/971d5df5aae1.png",
+  "i18n": {
+    "ko": {
+      "title": "DTCC·체인링크 협력, 24시간 실시간 글로벌 담보관리 전환 본격화",
+      "excerpt": "미국 중앙예탁청산기관 DTCC가 체인링크 CRE를 전면 도입하고 4분기 담보관리 앱체인을 출시해 24시간 실시간 글로벌 담보관리 체계 구축에 나선다.",
+      "body": "세계 최대 시장 인프라 기관인 미국 중앙예탁청산기관 DTCC가 글로벌 오라클 네트워크 체인링크와 손잡고 ‘24시간 실시간’ 글로벌 담보관리 체계 전환을 추진한다. DTCC는 체인링크 CRE를 전면 도입하고, 올해 4분기 담보관리 앱체인을 출시할 계획이다. 이번 협력은 기존 시장 인프라에 블록체인 기반 오라클 기술을 접목해 담보관리 업무의 실시간성을 높이는 데 초점이 맞춰져 있다. DTCC가 핵심 인프라 기관이라는 점에서 글로벌 금융시장 담보관리 방식 변화에 관심이 커질 전망이다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "DTCC and Chainlink Push 24-Hour Real-Time Global Collateral Management",
+      "excerpt": "DTCC will fully adopt Chainlink CRE and launch a collateral management appchain in the fourth quarter to build a 24-hour real-time global collateral management framework.",
+      "body": "DTCC, the U.S. central securities depository and clearing institution and the world’s largest market infrastructure organization, is working with global oracle network Chainlink to move toward ‘24-hour real-time’ global collateral management. DTCC plans to fully adopt Chainlink CRE and launch a collateral management appchain in the fourth quarter. The collaboration focuses on applying blockchain-based oracle technology to existing market infrastructure to improve real-time collateral management operations. Given DTCC’s role as a core infrastructure institution, the initiative is expected to draw attention to changes in global financial market collateral management. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "DTCCとチェーンリンク、24時間リアルタイム担保管理へ本格始動",
+      "excerpt": "米中央預託清算機関DTCCはチェーンリンクCREを全面導入し、第4四半期に担保管理アプリチェーンを公開して24時間リアルタイム体制を進める。",
+      "body": "世界最大の市場インフラ機関である米中央預託清算機関DTCCが、グローバル・オラクルネットワークのチェーンリンクと連携し、「24時間リアルタイム」のグローバル担保管理体制への転換を進める。DTCCはチェーンリンクCREを全面導入し、今年第4四半期に担保管理アプリチェーンを立ち上げる計画だ。今回の協力は、既存の市場インフラにブロックチェーン基盤のオラクル技術を組み込み、担保管理業務のリアルタイム性を高めることに焦点を当てている。DTCCが中核インフラ機関であるだけに、グローバル金融市場の担保管理方式の変化に関心が集まりそうだ。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "DTCC携手Chainlink，推进24小时实时全球抵押品管理",
+      "excerpt": "美国中央证券存管清算机构DTCC将全面采用Chainlink CRE，并于第四季度推出抵押品管理应用链，推进24小时实时管理体系。",
+      "body": "全球最大市场基础设施机构、美国中央证券存管清算机构DTCC正与全球预言机网络Chainlink合作，推动全球抵押品管理向“24小时实时”体系转型。DTCC计划全面采用Chainlink CRE，并在今年第四季度推出抵押品管理应用链。此次合作的重点，是将基于区块链的预言机技术接入现有市场基础设施，以提升抵押品管理业务的实时性。鉴于DTCC在市场基础设施中的核心地位，此举预计将引发外界对全球金融市场抵押品管理方式变化的关注。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "DTCC y Chainlink impulsan gestión global de colateral en tiempo real 24 horas",
+      "excerpt": "DTCC adoptará plenamente Chainlink CRE y lanzará en el cuarto trimestre una appchain de gestión de colateral para avanzar hacia un sistema global en tiempo real 24 horas.",
+      "body": "DTCC, la institución estadounidense de depósito y compensación central y la mayor infraestructura de mercado del mundo, trabaja con la red global de oráculos Chainlink para avanzar hacia una gestión global de colateral ‘en tiempo real las 24 horas’. DTCC planea adoptar plenamente Chainlink CRE y lanzar en el cuarto trimestre una appchain de gestión de colateral. La colaboración se centra en incorporar tecnología de oráculos basada en blockchain a la infraestructura de mercado existente para aumentar la capacidad en tiempo real de las operaciones de colateral. Por el papel central de DTCC, la iniciativa atraerá atención sobre los cambios en la gestión de colateral de los mercados financieros globales. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "DTCC e Chainlink avançam em gestão global de garantias em tempo real 24 horas",
+      "excerpt": "A DTCC adotará integralmente o Chainlink CRE e lançará no quarto trimestre uma appchain de gestão de garantias para criar uma estrutura global em tempo real 24 horas.",
+      "body": "A DTCC, instituição central de depósito e compensação dos Estados Unidos e maior infraestrutura de mercado do mundo, está trabalhando com a rede global de oráculos Chainlink para avançar rumo à gestão global de garantias ‘em tempo real 24 horas’. A DTCC planeja adotar integralmente o Chainlink CRE e lançar uma appchain de gestão de garantias no quarto trimestre. A parceria busca aplicar tecnologia de oráculos baseada em blockchain à infraestrutura de mercado existente, elevando a capacidade em tempo real das operações de garantias. Como a DTCC é uma instituição central de infraestrutura, a iniciativa deve atrair atenção para mudanças na gestão de garantias nos mercados financeiros globais. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "DTCC und Chainlink treiben globale Echtzeit-Sicherheitenverwaltung rund um die Uhr voran",
+      "excerpt": "DTCC will Chainlink CRE vollständig einführen und im vierten Quartal eine Appchain für Sicherheitenverwaltung starten, um globale Echtzeitprozesse rund um die Uhr aufzubauen.",
+      "body": "DTCC, die US-amerikanische Zentralverwahr- und Clearinginstitution und weltweit größte Marktinfrastrukturorganisation, arbeitet mit dem globalen Oracle-Netzwerk Chainlink an einer globalen Sicherheitenverwaltung in ‘24-Stunden-Echtzeit’. DTCC plant, Chainlink CRE vollständig einzuführen und im vierten Quartal eine Appchain für Sicherheitenverwaltung zu starten. Die Zusammenarbeit zielt darauf, blockchainbasierte Oracle-Technologie in bestehende Marktinfrastruktur einzubinden und die Echtzeitfähigkeit der Sicherheitenverwaltung zu erhöhen. Da DTCC eine zentrale Infrastrukturinstitution ist, dürfte der Schritt Aufmerksamkeit auf mögliche Veränderungen der Sicherheitenverwaltung an den globalen Finanzmärkten lenken. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "DTCC et Chainlink lancent la gestion mondiale du collatéral en temps réel 24 h/24",
+      "excerpt": "DTCC adoptera pleinement Chainlink CRE et lancera au quatrième trimestre une appchain de gestion du collatéral afin de bâtir un dispositif mondial en temps réel 24 h/24.",
+      "body": "DTCC, l’institution américaine de dépôt central et de compensation et la plus grande infrastructure de marché au monde, s’associe au réseau mondial d’oracles Chainlink pour faire évoluer la gestion mondiale du collatéral vers un modèle ‘en temps réel 24 h/24’. DTCC prévoit d’adopter pleinement Chainlink CRE et de lancer au quatrième trimestre une appchain dédiée à la gestion du collatéral. Cette coopération vise à intégrer une technologie d’oracle fondée sur la blockchain à l’infrastructure de marché existante afin d’améliorer le traitement en temps réel des opérations de collatéral. Compte tenu du rôle central de DTCC, l’initiative devrait attirer l’attention sur l’évolution des pratiques de gestion du collatéral sur les marchés financiers mondiaux. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "DTCC وتشينلينك تدفعان إدارة الضمانات العالمية الفورية على مدار 24 ساعة",
+      "excerpt": "ستعتمد DTCC تقنية Chainlink CRE بالكامل وتطلق في الربع الرابع سلسلة تطبيقات لإدارة الضمانات لبناء نظام عالمي فوري يعمل على مدار الساعة.",
+      "body": "تعمل DTCC، مؤسسة الإيداع والتسوية المركزية الأميركية وأكبر مؤسسة بنية تحتية للأسواق في العالم، مع شبكة الأوراكل العالمية تشينلينك للانتقال إلى إدارة ضمانات عالمية ‘فورية على مدار 24 ساعة’. وتخطط DTCC لاعتماد Chainlink CRE بالكامل وإطلاق سلسلة تطبيقات لإدارة الضمانات في الربع الرابع من هذا العام. يركز التعاون على دمج تقنية الأوراكل القائمة على البلوك تشين في البنية التحتية الحالية للأسواق لرفع مستوى الفورية في عمليات إدارة الضمانات. وبالنظر إلى دور DTCC كمؤسسة بنية تحتية أساسية، من المتوقع أن يلفت المشروع الانتباه إلى تغير أساليب إدارة الضمانات في الأسواق المالية العالمية. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "DTCC और Chainlink से 24 घंटे रियल-टाइम वैश्विक कोलेटरल प्रबंधन की शुरुआत",
+      "excerpt": "DTCC Chainlink CRE को पूरी तरह अपनाएगी और चौथी तिमाही में कोलेटरल मैनेजमेंट ऐपचेन लॉन्च करेगी, जिससे 24 घंटे रियल-टाइम वैश्विक ढांचा बनेगा।",
+      "body": "दुनिया की सबसे बड़ी मार्केट इन्फ्रास्ट्रक्चर संस्था और अमेरिकी केंद्रीय डिपॉजिटरी-क्लियरिंग संस्था DTCC, वैश्विक ओरेकल नेटवर्क Chainlink के साथ मिलकर ‘24 घंटे रियल-टाइम’ वैश्विक कोलेटरल प्रबंधन की दिशा में बढ़ रही है। DTCC Chainlink CRE को पूरी तरह अपनाने और इस साल चौथी तिमाही में कोलेटरल मैनेजमेंट ऐपचेन लॉन्च करने की योजना बना रही है। यह सहयोग मौजूदा मार्केट इन्फ्रास्ट्रक्चर में ब्लॉकचेन आधारित ओरेकल तकनीक जोड़कर कोलेटरल प्रबंधन कार्यों की रियल-टाइम क्षमता बढ़ाने पर केंद्रित है। DTCC की केंद्रीय अवसंरचना भूमिका को देखते हुए, वैश्विक वित्तीय बाजारों में कोलेटरल प्रबंधन के तरीके में बदलाव पर ध्यान बढ़ने की संभावना है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "DTCC dan Chainlink Dorong Manajemen Agunan Global Real-Time 24 Jam",
+      "excerpt": "DTCC akan mengadopsi penuh Chainlink CRE dan meluncurkan appchain manajemen agunan pada kuartal IV untuk membangun sistem global real-time 24 jam.",
+      "body": "DTCC, lembaga penyimpanan dan kliring sentral Amerika Serikat sekaligus institusi infrastruktur pasar terbesar di dunia, bekerja sama dengan jaringan oracle global Chainlink untuk mendorong transisi menuju manajemen agunan global ‘real-time 24 jam’. DTCC berencana mengadopsi penuh Chainlink CRE dan meluncurkan appchain manajemen agunan pada kuartal IV tahun ini. Kerja sama ini berfokus pada penerapan teknologi oracle berbasis blockchain ke infrastruktur pasar yang sudah ada guna meningkatkan kemampuan real-time dalam operasi manajemen agunan. Karena DTCC merupakan institusi infrastruktur inti, langkah ini diperkirakan menarik perhatian terhadap perubahan cara pengelolaan agunan di pasar keuangan global. Sumber: mk.co.kr"
+    }
+  }
+}
