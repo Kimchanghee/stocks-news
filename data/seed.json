@@ -1,5 +1,230 @@
 [
   {
+    "id": "65bf059854b7",
+    "slug": "320억달러-토큰화-시장-겨냥-jp모건-두-번째-토큰화-mmf-jltxx-sec-서류-제출-180575",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T00:13:43.314Z",
+    "updatedAt": "2026-05-13T00:13:43.314Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045780",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045780",
+    "titleFingerprint": "ea50059b5f16176d2ea33fac9d1701aefe23b5c3",
+    "dedupKeys": [
+      "65bf059854b7fe1c4fea3be0f3f8e664e98ada03",
+      "ea50059b5f16176d2ea33fac9d1701aefe23b5c3",
+      "7424c581a90127f13747d271686e540a4b63f5e3"
+    ],
+    "imageUrl": "/images/articles/65bf059854b7.png",
+    "i18n": {
+      "ko": {
+        "title": "JP모건, 320억달러 토큰화 시장 겨냥 두 번째 MMF JLTXX 제출",
+        "excerpt": "JP모건이 12일 SEC에 이더리움 기반 토큰화 머니마켓펀드 JLTXX 서류를 제출하며 320억달러 규모로 커진 토큰화 자산 시장 공략에 나섰다.",
+        "body": "JP모건은 12일 미국 증권거래위원회(SEC)에 두 번째 토큰화 머니마켓펀드(MMF)인 JLTXX 관련 서류를 제출했다. 이 펀드는 이더리움 기반으로 운용되며 미 국채와 레포 등 단기 안전자산에 투자하는 구조다. 원문에 따르면 JLTXX는 지니어스법 준수를 전제로 설계됐으며, 토큰화 MMF 시장에서 블랙록과의 경쟁 구도가 예상된다. 토큰화 자산 시장은 320억달러 규모로 빠르게 성장한 것으로 소개됐다. 전통 금융사가 블록체인 기반 펀드 상품을 확대하면서 기관 투자자의 토큰화 자산 접근성도 주목받고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "JPMorgan Files JLTXX, Its Second Tokenized MMF, Targeting $32B Market",
+        "excerpt": "JPMorgan filed documents with the SEC on May 12 for JLTXX, an Ethereum-based tokenized money market fund aimed at the fast-growing $32 billion tokenized asset market.",
+        "body": "JPMorgan filed documents with the U.S. Securities and Exchange Commission on May 12 for JLTXX, its second tokenized money market fund. The fund is based on Ethereum and is structured to invest in short-term safe assets such as U.S. Treasuries and repurchase agreements. According to the original report, JLTXX is designed to comply with the Genius Act, setting up expected competition with BlackRock in the tokenized MMF market. The tokenized asset market was described as having grown rapidly to $32 billion. As traditional financial firms expand blockchain-based fund products, institutional access to tokenized assets is drawing attention. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "JPモルガン、320億ドル市場狙い第2のトークン化MMF JLTXXを申請",
+        "excerpt": "JPモルガンは12日、SECにイーサリアム基盤のトークン化MMF「JLTXX」の書類を提出し、320億ドル規模の市場攻略に動いた。",
+        "body": "JPモルガンは12日、米証券取引委員会（SEC）に第2のトークン化マネー・マーケット・ファンド（MMF）であるJLTXX関連書類を提出した。同ファンドはイーサリアムを基盤に運用され、米国債やレポ取引など短期の安全資産に投資する仕組みだ。原文によると、JLTXXはジーニアス法の遵守を前提に設計されており、トークン化MMF市場でブラックロックとの競争が予想される。トークン化資産市場は320億ドル規模へ急成長したと紹介された。伝統的金融機関がブロックチェーン基盤のファンド商品を拡大する中、機関投資家のアクセスにも注目が集まる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "摩根大通提交第二只代币化MMF JLTXX，瞄准320亿美元市场",
+        "excerpt": "摩根大通12日向SEC提交以太坊基础代币化货币市场基金JLTXX文件，进军已增长至320亿美元的代币化资产市场。",
+        "body": "摩根大通于12日向美国证券交易委员会（SEC）提交了第二只代币化货币市场基金（MMF）JLTXX的相关文件。该基金基于以太坊运作，计划投资美国国债、回购协议等短期安全资产。根据原文，JLTXX以遵守Genius Act为前提进行设计，预计将在代币化MMF市场与贝莱德展开正面竞争。报道还介绍称，代币化资产市场已快速增长至320亿美元规模。随着传统金融机构扩大基于区块链的基金产品，机构投资者进入代币化资产的便利性也受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "JPMorgan presenta JLTXX, su segundo MMF tokenizado, para mercado de $32.000M",
+        "excerpt": "JPMorgan presentó el 12 de mayo ante la SEC la documentación de JLTXX, un fondo monetario tokenizado sobre Ethereum para un mercado de activos tokenizados de $32.000 millones.",
+        "body": "JPMorgan presentó el 12 de mayo ante la Comisión de Bolsa y Valores de Estados Unidos (SEC) la documentación de JLTXX, su segundo fondo del mercado monetario tokenizado. El fondo operará sobre Ethereum y estará estructurado para invertir en activos seguros de corto plazo, como bonos del Tesoro de EE. UU. y repos. Según el informe original, JLTXX fue diseñado bajo el supuesto de cumplir con la Genius Act, lo que anticipa una competencia directa con BlackRock en el mercado de MMF tokenizados. El mercado de activos tokenizados fue descrito como un sector que creció rápidamente hasta los $32.000 millones. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "JPMorgan registra JLTXX, seu 2º MMF tokenizado, mirando mercado de US$32 bi",
+        "excerpt": "O JPMorgan apresentou em 12 de maio à SEC os documentos do JLTXX, fundo monetário tokenizado baseado em Ethereum voltado ao mercado de ativos tokenizados de US$32 bilhões.",
+        "body": "O JPMorgan apresentou em 12 de maio à Comissão de Valores Mobiliários dos EUA (SEC) os documentos referentes ao JLTXX, seu segundo fundo de mercado monetário tokenizado. O fundo será baseado em Ethereum e estruturado para investir em ativos seguros de curto prazo, como Treasuries dos EUA e operações de recompra. Segundo o texto original, o JLTXX foi desenhado com base no cumprimento da Genius Act, sinalizando uma disputa com a BlackRock no mercado de MMFs tokenizados. O mercado de ativos tokenizados foi apresentado como tendo crescido rapidamente para US$32 bilhões. A expansão de fundos em blockchain por instituições financeiras tradicionais ganha atenção. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "JPMorgan reicht JLTXX ein: zweiter tokenisierter MMF für 32-Mrd.-Dollar-Markt",
+        "excerpt": "JPMorgan reichte am 12. Mai bei der SEC Unterlagen für JLTXX ein, einen Ethereum-basierten tokenisierten Geldmarktfonds für den 32 Mrd. Dollar schweren Markt.",
+        "body": "JPMorgan hat am 12. Mai bei der US-Börsenaufsicht SEC Unterlagen für JLTXX eingereicht, den zweiten tokenisierten Geldmarktfonds des Instituts. Der Fonds basiert auf Ethereum und soll in kurzfristige sichere Anlagen wie US-Staatsanleihen und Repo-Geschäfte investieren. Dem Originalbericht zufolge wurde JLTXX unter der Voraussetzung der Einhaltung des Genius Act konzipiert, womit sich im Markt für tokenisierte MMFs ein Wettbewerb mit BlackRock abzeichnet. Der Markt für tokenisierte Vermögenswerte wurde als schnell auf 32 Mrd. Dollar gewachsen beschrieben. Mit dem Ausbau blockchainbasierter Fondsprodukte durch traditionelle Finanzhäuser rückt auch der Zugang institutioneller Anleger in den Fokus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "JPMorgan dépose JLTXX, son 2e MMF tokenisé, pour un marché de 32 Md$",
+        "excerpt": "JPMorgan a déposé le 12 mai auprès de la SEC le dossier de JLTXX, un fonds monétaire tokenisé basé sur Ethereum visant le marché des actifs tokenisés de 32 Md$.",
+        "body": "JPMorgan a déposé le 12 mai auprès de la Securities and Exchange Commission américaine (SEC) les documents relatifs à JLTXX, son deuxième fonds monétaire tokenisé. Le fonds repose sur Ethereum et doit investir dans des actifs sûrs de court terme, comme les bons du Trésor américain et les opérations de pension. Selon l’article d’origine, JLTXX est conçu dans le cadre du respect du Genius Act, ce qui annonce une concurrence avec BlackRock sur le marché des MMF tokenisés. Le marché des actifs tokenisés est présenté comme ayant rapidement atteint 32 milliards de dollars. L’extension des fonds basés sur la blockchain par les acteurs financiers traditionnels attire l’attention sur l’accès des investisseurs institutionnels. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "جيه بي مورغان يقدم JLTXX ثاني صندوق سوق نقدي مرمز لسوق بـ32 مليار دولار",
+        "excerpt": "قدمت جيه بي مورغان في 12 مايو إلى SEC مستندات صندوق JLTXX، وهو صندوق سوق نقدي مرمز قائم على إيثريوم يستهدف سوق الأصول المرمزة البالغ 32 مليار دولار.",
+        "body": "قدمت جيه بي مورغان في 12 مايو إلى هيئة الأوراق المالية والبورصات الأمريكية SEC مستندات تخص JLTXX، وهو ثاني صندوق سوق نقدي مرمز لديها. يعتمد الصندوق على إيثريوم، ويستثمر في أصول آمنة قصيرة الأجل مثل سندات الخزانة الأمريكية واتفاقيات إعادة الشراء. وبحسب التقرير الأصلي، صمم JLTXX على أساس الامتثال لقانون Genius Act، ما يمهد لمنافسة مع بلاك روك في سوق صناديق السوق النقدي المرمزة. وذكر التقرير أن سوق الأصول المرمزة نما بسرعة إلى 32 مليار دولار. ومع توسع المؤسسات المالية التقليدية في منتجات الصناديق القائمة على البلوكشين، يزداد الاهتمام بإتاحة هذه الأصول للمستثمرين المؤسسيين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "JPMorgan ने 32 अरब डॉलर बाजार के लिए दूसरा टोकनाइज्ड MMF JLTXX दाखिल किया",
+        "excerpt": "JPMorgan ने 12 मई को SEC में Ethereum आधारित टोकनाइज्ड मनी मार्केट फंड JLTXX के दस्तावेज दाखिल किए, जिसका लक्ष्य 32 अरब डॉलर का टोकनाइज्ड एसेट बाजार है।",
+        "body": "JPMorgan ने 12 मई को अमेरिकी सिक्योरिटीज एंड एक्सचेंज कमीशन (SEC) में अपने दूसरे टोकनाइज्ड मनी मार्केट फंड JLTXX से जुड़े दस्तावेज दाखिल किए। यह फंड Ethereum आधारित होगा और अमेरिकी ट्रेजरी तथा रेपो जैसे अल्पकालिक सुरक्षित एसेट्स में निवेश की संरचना रखेगा। मूल रिपोर्ट के अनुसार, JLTXX को Genius Act के अनुपालन को आधार बनाकर डिजाइन किया गया है, जिससे टोकनाइज्ड MMF बाजार में BlackRock के साथ मुकाबले की संभावना बनती है। रिपोर्ट में बताया गया कि टोकनाइज्ड एसेट बाजार तेजी से बढ़कर 32 अरब डॉलर तक पहुंच गया है। पारंपरिक वित्तीय संस्थानों के ब्लॉकचेन आधारित फंड उत्पाद बढ़ाने से संस्थागत निवेशकों की पहुंच पर भी ध्यान है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "JPMorgan Ajukan JLTXX, MMF Tokenisasi Kedua untuk Pasar US$32 Miliar",
+        "excerpt": "JPMorgan pada 12 Mei mengajukan dokumen JLTXX ke SEC, dana pasar uang tokenisasi berbasis Ethereum untuk membidik pasar aset tokenisasi senilai US$32 miliar.",
+        "body": "JPMorgan pada 12 Mei mengajukan dokumen kepada Komisi Sekuritas dan Bursa AS (SEC) untuk JLTXX, dana pasar uang tokenisasi keduanya. Dana ini berbasis Ethereum dan dirancang untuk berinvestasi pada aset aman jangka pendek seperti obligasi pemerintah AS dan repo. Menurut laporan asli, JLTXX dirancang dengan dasar kepatuhan terhadap Genius Act, sehingga diperkirakan membuka persaingan dengan BlackRock di pasar MMF tokenisasi. Pasar aset tokenisasi disebut telah tumbuh cepat hingga mencapai US$32 miliar. Ketika lembaga keuangan tradisional memperluas produk dana berbasis blockchain, akses investor institusional terhadap aset tokenisasi turut menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4a92dc93f6cd",
+    "slug": "코인-이자보다-미-국채가-낫다수익형-코인-판도-바꾸는-rwa-919242",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T00:12:47.350Z",
+    "updatedAt": "2026-05-13T00:12:47.350Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12045782",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045782",
+    "titleFingerprint": "bd08c2a1cd095eba74e343a508b2cc0878e90ce5",
+    "dedupKeys": [
+      "4a92dc93f6cdae683f12c58eac5b9323a6ecd089",
+      "bd08c2a1cd095eba74e343a508b2cc0878e90ce5",
+      "9e08b15e5c632e9ba45d38aa515767256a787e37"
+    ],
+    "imageUrl": "/images/articles/4a92dc93f6cd.png",
+    "i18n": {
+      "ko": {
+        "title": "RWA가 바꾸는 수익형 코인 판도, 기관 자금은 이자보다 미 국채로",
+        "excerpt": "디파이 시장이 기관과 미 국채 기반 RWA 중심으로 재편되는 가운데, sUSDe 공급량은 90일 만에 반토막 나고 기관들은 높은 이율보다 예측 가능성을 중시하고 있다.",
+        "body": "디파이 시장에서 ‘수익형 코인’의 경쟁 구도가 기관과 미 국채를 앞세운 RWA 중심으로 바뀌고 있다. mk.co.kr에 따르면 단순히 달러 가치를 추종하는 코인보다 미 국채 기반 자산의 예측 가능성이 부각되면서 기관 투자자들의 관심이 이동하고 있다. 대표적인 수익형 코인으로 거론된 sUSDe 공급량은 90일 만에 절반 수준으로 줄었다. 높은 이율만으로는 자금을 붙잡기 어려워졌고, 기관들은 수익률보다 구조와 위험의 예측 가능성을 더 따지는 흐름이다. 다만 관련 위험도가 1250%로 제시되며 월가의 심사대에 오른 점은 향후 RWA와 디파이 재편의 핵심 변수로 남아 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "RWA reshapes yield coins as institutions favor U.S. Treasuries over crypto interest",
+        "excerpt": "As DeFi shifts toward institutions and U.S. Treasury-based RWA, sUSDe supply has halved in 90 days and investors are prioritizing predictability over high yields.",
+        "body": "The competitive landscape for yield-generating coins in DeFi is shifting toward RWA backed by institutions and U.S. Treasuries. According to mk.co.kr, institutional investors are moving their attention from coins that simply track the dollar toward assets whose Treasury-linked structure offers greater predictability. Supply of sUSDe, cited as a representative yield coin, has fallen by half in 90 days. High interest rates alone are no longer enough to retain capital, as institutions place more weight on predictable structures and risks than on headline yield. Still, a cited risk level of 1250% has put these coins under Wall Street scrutiny, leaving risk assessment as a key factor in the next phase of RWA and DeFi restructuring. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "RWAが利回り型コインを再編、機関投資家は暗号資産金利より米国債へ",
+        "excerpt": "DeFi市場が機関投資家と米国債ベースのRWA中心に再編されるなか、sUSDeの供給量は90日で半減し、高利回りより予測可能性が重視されている。",
+        "body": "DeFi市場で「利回り型コイン」の競争構図が、機関投資家と米国債を前面に出すRWA中心へ変わっている。mk.co.krによると、単にドル価値を追うコインよりも、米国債ベース資産の予測可能性が注目され、機関投資家の関心が移っている。代表的な利回り型コインとして挙げられたsUSDeの供給量は90日で半分の水準に減少した。高い利率だけでは資金をつなぎ留めにくくなり、機関は利回りより構造とリスクの予測可能性を重視している。ただし、関連リスクが1250%と示され、ウォール街の審査対象になった点は、今後のRWAとDeFi再編の主要な変数として残る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "RWA重塑收益型代币格局，机构资金从加密利息转向美国国债",
+        "excerpt": "随着DeFi向机构和美国国债支持的RWA重组，sUSDe供应量在90天内减半，机构投资者正把重点从高利率转向可预测性。",
+        "body": "DeFi市场中“收益型代币”的竞争格局正在转向以机构和美国国债为核心的RWA。mk.co.kr报道称，相比只是追踪美元价值的代币，美国国债支持资产的可预测性更受关注，机构投资者的兴趣也随之转移。被视为代表性收益型代币的sUSDe，其供应量在90天内降至约一半。仅凭高利率已越来越难留住资金，机构更看重结构和风险的可预测性，而不是单纯收益率。不过，相关风险度被列为1250%，并进入华尔街审查视野，这仍将是未来RWA与DeFi重组的关键变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "RWA cambia los tokens de rendimiento: instituciones prefieren bonos del Tesoro",
+        "excerpt": "Mientras DeFi se reorganiza en torno a instituciones y RWA ligados a bonos del Tesoro de EE. UU., la oferta de sUSDe cayó a la mitad en 90 días y pesa más la previsibilidad.",
+        "body": "El mercado DeFi está viendo un cambio en la competencia de los llamados tokens de rendimiento, ahora más centrada en RWA respaldados por instituciones y bonos del Tesoro de EE. UU. Según mk.co.kr, los inversores institucionales están desplazando su atención desde monedas que solo siguen el valor del dólar hacia activos con mayor previsibilidad por su base en deuda pública estadounidense. La oferta de sUSDe, citado como token representativo, se redujo a la mitad en 90 días. Las tasas altas ya no bastan para retener capital; las instituciones priorizan la previsibilidad de la estructura y del riesgo frente al rendimiento. Aun así, un nivel de riesgo señalado en 1250% lo ha puesto bajo examen de Wall Street. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "RWA muda tokens de rendimento, e instituições preferem Treasuries a juros cripto",
+        "excerpt": "Com o DeFi se reorganizando em torno de instituições e RWA baseados em títulos do Tesouro dos EUA, a oferta de sUSDe caiu pela metade em 90 dias e a previsibilidade ganhou peso.",
+        "body": "O mercado DeFi está vendo a disputa dos chamados tokens de rendimento se deslocar para RWA apoiados por instituições e títulos do Tesouro dos EUA. Segundo o mk.co.kr, investidores institucionais passaram a olhar menos para moedas que apenas acompanham o dólar e mais para ativos cuja base em Treasuries oferece maior previsibilidade. A oferta de sUSDe, citada como exemplo de token de rendimento, caiu pela metade em 90 dias. Juros elevados, por si só, já não bastam para manter capital; instituições dão mais peso à previsibilidade da estrutura e dos riscos do que ao retorno. Ainda assim, o risco indicado de 1250% levou esses ativos ao crivo de Wall Street. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "RWA verändert Rendite-Coins: Institutionelle setzen eher auf US-Staatsanleihen",
+        "excerpt": "Während sich DeFi auf Institutionen und US-Treasury-basierte RWA ausrichtet, hat sich das sUSDe-Angebot in 90 Tagen halbiert; Berechenbarkeit zählt stärker als hohe Zinsen.",
+        "body": "Im DeFi-Markt verschiebt sich der Wettbewerb bei Rendite-Coins hin zu RWA, die auf Institutionen und US-Staatsanleihen ausgerichtet sind. Laut mk.co.kr richtet sich das Interesse institutioneller Anleger weg von Coins, die lediglich den Dollarwert abbilden, und hin zu Vermögenswerten mit besser berechenbarer Treasury-Struktur. Das Angebot von sUSDe, das als beispielhafter Rendite-Coin genannt wird, hat sich innerhalb von 90 Tagen halbiert. Hohe Zinssätze allein reichen nicht mehr aus, um Kapital zu halten; Institutionen achten stärker auf die Vorhersehbarkeit von Struktur und Risiko als auf Rendite. Ein genanntes Risikoniveau von 1250% bringt diese Coins jedoch auf den Prüfstand der Wall Street. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les RWA rebattent les cartes des coins à rendement, les institutions visent les Treasuries",
+        "excerpt": "Alors que la DeFi se recentre sur les institutions et les RWA liés aux bons du Trésor américain, l’offre de sUSDe a été divisée par deux en 90 jours et la prévisibilité prime.",
+        "body": "Dans la DeFi, la concurrence autour des coins à rendement se déplace vers les RWA soutenus par les institutions et les bons du Trésor américain. Selon mk.co.kr, les investisseurs institutionnels s’intéressent moins aux coins qui suivent simplement la valeur du dollar et davantage aux actifs dont la base en Treasuries offre une meilleure prévisibilité. L’offre de sUSDe, cité comme exemple de coin à rendement, a chuté de moitié en 90 jours. Les taux élevés ne suffisent plus à retenir les capitaux; les institutions privilégient la prévisibilité de la structure et des risques plutôt que le rendement seul. Toutefois, un niveau de risque indiqué à 1250% place ces actifs sous l’examen de Wall Street. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الأصول الحقيقية تغيّر عملات العائد والمؤسسات تفضّل سندات الخزانة الأميركية",
+        "excerpt": "مع إعادة تشكل DeFi حول المؤسسات والأصول الحقيقية المدعومة بسندات الخزانة الأميركية، انخفض معروض sUSDe إلى النصف خلال 90 يوما وباتت قابلية التنبؤ أهم من الفائدة المرتفعة.",
+        "body": "يشهد سوق DeFi تغيرا في منافسة عملات العائد مع انتقال التركيز إلى الأصول الحقيقية RWA المدعومة بالمؤسسات وسندات الخزانة الأميركية. وبحسب mk.co.kr، يتحول اهتمام المستثمرين المؤسسيين من العملات التي تلاحق قيمة الدولار فقط إلى أصول توفر قابلية أكبر للتنبؤ بفضل ارتباطها بسندات الخزانة. وقد انخفض معروض sUSDe، الذي ورد كمثال على عملات العائد، إلى النصف خلال 90 يوما. لم تعد الفائدة المرتفعة وحدها كافية للاحتفاظ برأس المال، إذ تركز المؤسسات أكثر على قابلية توقع الهيكل والمخاطر من العائد نفسه. لكن مستوى المخاطر المشار إليه عند 1250% وضع هذه العملات تحت تدقيق وول ستريت. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "RWA ने यील्ड कॉइन बाजार बदला, संस्थान क्रिप्टो ब्याज से ज्यादा अमेरिकी ट्रेजरी देख रहे",
+        "excerpt": "DeFi बाजार संस्थानों और अमेरिकी ट्रेजरी आधारित RWA की ओर मुड़ रहा है; sUSDe की आपूर्ति 90 दिनों में आधी हुई और संस्थान ऊंची दरों से अधिक अनुमानयोग्यता को महत्व दे रहे हैं।",
+        "body": "DeFi बाजार में ‘यील्ड कॉइन’ की प्रतिस्पर्धा संस्थानों और अमेरिकी ट्रेजरी पर आधारित RWA की ओर बदल रही है। mk.co.kr के अनुसार, संस्थागत निवेशकों का ध्यान उन कॉइन से हट रहा है जो केवल डॉलर मूल्य का अनुसरण करते हैं, और ऐसे एसेट की ओर जा रहा है जिनकी ट्रेजरी-आधारित संरचना अधिक अनुमानयोग्य मानी जा रही है। प्रतिनिधि यील्ड कॉइन के रूप में उल्लेखित sUSDe की आपूर्ति 90 दिनों में लगभग आधी रह गई। केवल ऊंची ब्याज दर पूंजी को बनाए रखने के लिए पर्याप्त नहीं रह गई है; संस्थान रिटर्न से अधिक संरचना और जोखिम की अनुमानयोग्यता को देख रहे हैं। हालांकि 1250% जोखिम स्तर का उल्लेख इसे वॉल स्ट्रीट की जांच के दायरे में रखता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "RWA mengubah koin imbal hasil, institusi memilih Treasury AS ketimbang bunga kripto",
+        "excerpt": "Saat DeFi bergeser ke RWA berbasis institusi dan obligasi Treasury AS, pasokan sUSDe turun separuh dalam 90 hari dan investor lebih mengejar prediktabilitas daripada bunga tinggi.",
+        "body": "Di pasar DeFi, persaingan koin berimbal hasil mulai bergeser ke RWA yang menonjolkan institusi dan obligasi Treasury AS. Menurut mk.co.kr, minat investor institusional bergerak dari koin yang hanya mengikuti nilai dolar menuju aset berbasis Treasury yang dinilai lebih dapat diprediksi. Pasokan sUSDe, yang disebut sebagai contoh koin berimbal hasil, turun menjadi sekitar separuh dalam 90 hari. Bunga tinggi saja tidak lagi cukup untuk menahan modal; institusi lebih menilai prediktabilitas struktur dan risiko dibanding angka imbal hasil. Namun, tingkat risiko yang disebut mencapai 1250% membuat koin ini masuk dalam pengawasan Wall Street dan tetap menjadi variabel penting dalam penataan ulang RWA serta DeFi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "09a19c160ee7",
+    "slug": "반도체-위력-대단하네국내-시총-4500조-급증-삼성sk하이닉스-56-껑충-586938",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T00:11:46.149Z",
+    "updatedAt": "2026-05-13T00:11:46.149Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12045792",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12045792",
+    "titleFingerprint": "d0e19c621391de6d929d868313e4c33982c262c0",
+    "dedupKeys": [
+      "09a19c160ee71c8d7fc8a4a8466f1bb839caaa6d",
+      "d0e19c621391de6d929d868313e4c33982c262c0",
+      "c4e3290479d9b2aa1c881aaba1a30a3bd51be444"
+    ],
+    "imageUrl": "/images/articles/09a19c160ee7.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체주 급등에 국내 시총 7088조원…삼성·SK하이닉스 56% 상승",
+        "excerpt": "이재명 정부 출범 이후 11개월 만에 국내 증시 시가총액이 2597조원에서 7088조원으로 급증했고, 반도체 강세 속 삼성과 SK하이닉스 시총이 56% 뛰었다.",
+        "body": "국내 증시 시가총액이 이재명 정부 출범 이후 11개월 만에 2597조원에서 7088조원으로 약 4491조원 늘어난 것으로 전해졌다. 반도체 업종의 강세가 두드러지면서 삼성과 SK하이닉스의 시가총액은 56% 상승했다. 그룹별로는 SK그룹이 LG와 현대차를 제치고 시총 2위에 안착했다. 효성, 미래에셋, LS 등도 동반 강세를 보인 것으로 나타났다. 이번 흐름은 국내 증시에서 반도체 대형주의 영향력이 여전히 크다는 점을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Market Cap Hits 7,088 Trillion Won as Samsung, SK Hynix Jump 56%",
+        "excerpt": "In the 11 months since the Lee Jae-myung administration began, Korea’s stock market value rose from 2,597 trillion won to 7,088 trillion won, led by semiconductor strength.",
+        "body": "Korea’s stock market capitalization reportedly rose from 2,597 trillion won to 7,088 trillion won in the 11 months since the Lee Jae-myung administration took office, an increase of about 4,491 trillion won. Semiconductor stocks stood out, with the combined market value of Samsung and SK Hynix rising 56%. By group, SK Group settled into second place in market capitalization, overtaking LG and Hyundai Motor. Hyosung, Mirae Asset and LS also posted strength. The move shows that major semiconductor stocks continue to carry significant weight in the Korean market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国株時価総額7088兆ウォンに急増、サムスン・SKハイニックス56％上昇",
+        "excerpt": "李在明政権発足後11カ月で韓国株式市場の時価総額は2597兆ウォンから7088兆ウォンへ拡大し、半導体株の強さが目立った。",
+        "body": "韓国株式市場の時価総額は、李在明政権発足後11カ月で2597兆ウォンから7088兆ウォンへ、約4491兆ウォン増えたと伝えられた。半導体業種の強さが際立ち、サムスンとSKハイニックスの時価総額は56％上昇した。グループ別では、SKグループがLGと現代自動車を抜いて時価総額2位に定着した。暁星、未来アセット、LSなどもそろって堅調だった。今回の流れは、韓国市場で半導体大型株の影響力がなお大きいことを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国股市市值升至7088万亿韩元，三星与SK海力士市值涨56%",
+        "excerpt": "李在明政府上台后11个月内，韩国股市总市值从2597万亿韩元增至7088万亿韩元，半导体板块强势推动主要企业上涨。",
+        "body": "据报道，李在明政府上台后11个月内，韩国股市总市值从2597万亿韩元增至7088万亿韩元，增加约4491万亿韩元。半导体行业表现突出，三星和SK海力士的市值上涨56%。按集团来看，SK集团超过LG和现代汽车，稳居市值第二位。晓星、未来资产、LS等也同步走强。这一走势显示，半导体大型股在韩国股市中的影响力依然显著。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La bolsa coreana sube a 7.088 billones de wones por el impulso de semiconductores",
+        "excerpt": "En 11 meses desde el inicio del gobierno de Lee Jae-myung, la capitalización bursátil de Corea pasó de 2.597 a 7.088 billones de wones, con Samsung y SK Hynix al alza.",
+        "body": "La capitalización del mercado bursátil surcoreano habría aumentado de 2.597 billones de wones a 7.088 billones en los 11 meses desde que comenzó el gobierno de Lee Jae-myung, un avance de unos 4.491 billones. La fortaleza de los semiconductores destacó, mientras el valor de mercado de Samsung y SK Hynix subió 56%. Por grupos, SK se consolidó en el segundo lugar por capitalización tras superar a LG y Hyundai Motor. Hyosung, Mirae Asset y LS también mostraron ganancias. El movimiento confirma el peso de los grandes valores de semiconductores en Corea. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bolsa coreana chega a 7.088 trilhões de won com alta de Samsung e SK Hynix",
+        "excerpt": "Nos 11 meses desde o início do governo Lee Jae-myung, o valor de mercado da bolsa coreana subiu de 2.597 para 7.088 trilhões de won, puxado por semicondutores.",
+        "body": "A capitalização do mercado acionário sul-coreano teria subido de 2.597 trilhões de won para 7.088 trilhões nos 11 meses desde o início do governo Lee Jae-myung, um aumento de cerca de 4.491 trilhões. A força dos semicondutores se destacou, com Samsung e SK Hynix avançando 56% em valor de mercado. Entre os grupos, o SK Group superou LG e Hyundai Motor e se firmou na segunda posição. Hyosung, Mirae Asset e LS também acompanharam a alta. O movimento mostra o peso ainda relevante das grandes ações de semicondutores na Coreia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreas Börsenwert steigt auf 7.088 Billionen Won, Samsung und SK Hynix plus 56%",
+        "excerpt": "Seit dem Start der Regierung Lee Jae-myung vor 11 Monaten stieg Koreas Börsenwert von 2.597 auf 7.088 Billionen Won, getragen von starken Halbleiterwerten.",
+        "body": "Die Marktkapitalisierung des südkoreanischen Aktienmarkts ist Berichten zufolge in den 11 Monaten seit Amtsantritt der Regierung Lee Jae-myung von 2.597 Billionen Won auf 7.088 Billionen Won gestiegen, ein Plus von rund 4.491 Billionen Won. Besonders stark waren Halbleiterwerte: Samsung und SK Hynix legten beim Börsenwert um 56% zu. Nach Konzernen rückte die SK Group vor LG und Hyundai Motor auf Platz zwei vor. Auch Hyosung, Mirae Asset und LS zeigten Stärke. Die Entwicklung unterstreicht den weiter großen Einfluss großer Halbleiteraktien in Korea. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La capitalisation coréenne atteint 7 088 billions de wons, Samsung et SK Hynix +56%",
+        "excerpt": "En 11 mois depuis le début du gouvernement Lee Jae-myung, la capitalisation boursière coréenne est passée de 2 597 à 7 088 billions de wons, portée par les semi-conducteurs.",
+        "body": "La capitalisation du marché boursier sud-coréen serait passée de 2 597 billions de wons à 7 088 billions en 11 mois depuis l’entrée en fonction du gouvernement Lee Jae-myung, soit une hausse d’environ 4 491 billions. Les semi-conducteurs ont nettement dominé, avec une progression de 56% de la valeur de marché de Samsung et SK Hynix. Par groupe, SK a dépassé LG et Hyundai Motor pour s’installer au deuxième rang. Hyosung, Mirae Asset et LS ont aussi progressé. Cette évolution montre le poids persistant des grandes valeurs des semi-conducteurs en Corée. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "القيمة السوقية الكورية تبلغ 7088 تريليون وون مع صعود سامسونغ وSK هاينكس 56%",
+        "excerpt": "خلال 11 شهرا منذ بدء حكومة لي جاي ميونغ، ارتفعت القيمة السوقية للأسهم الكورية من 2597 إلى 7088 تريليون وون بدعم واضح من أسهم أشباه الموصلات.",
+        "body": "أفادت التقارير بأن القيمة السوقية لسوق الأسهم الكورية ارتفعت من 2597 تريليون وون إلى 7088 تريليون وون خلال 11 شهرا منذ تولي حكومة لي جاي ميونغ، بزيادة تقارب 4491 تريليون وون. وبرزت قوة قطاع أشباه الموصلات، إذ صعدت القيمة السوقية لكل من سامسونغ وSK هاينكس بنسبة 56%. وعلى مستوى المجموعات، استقرت مجموعة SK في المركز الثاني من حيث القيمة السوقية بعد تجاوز LG وهيونداي موتور. كما سجلت هيوسونغ وميرا أسيت وLS أداء قويا. ويظهر هذا المسار استمرار تأثير أسهم أشباه الموصلات الكبرى في السوق الكورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई बाजार मूल्य 7,088 ट्रिलियन वॉन, Samsung और SK Hynix 56% चढ़े",
+        "excerpt": "ली जे-म्युंग सरकार शुरू होने के 11 महीनों में कोरिया के शेयर बाजार का मूल्य 2,597 से 7,088 ट्रिलियन वॉन हुआ, जिसमें सेमीकंडक्टर शेयरों ने बढ़त दिखाई।",
+        "body": "बताया गया है कि ली जे-म्युंग सरकार के गठन के 11 महीनों में दक्षिण कोरियाई शेयर बाजार का कुल बाजार पूंजीकरण 2,597 ट्रिलियन वॉन से बढ़कर 7,088 ट्रिलियन वॉन हो गया, यानी करीब 4,491 ट्रिलियन वॉन की वृद्धि। सेमीकंडक्टर क्षेत्र की मजबूती प्रमुख रही और Samsung तथा SK Hynix का बाजार मूल्य 56% बढ़ा। समूहों में SK Group ने LG और Hyundai Motor को पीछे छोड़ते हुए बाजार पूंजीकरण में दूसरा स्थान हासिल किया। Hyosung, Mirae Asset और LS में भी मजबूती दिखी। यह रुझान कोरियाई बाजार में बड़े सेमीकंडक्टर शेयरों के प्रभाव को दर्शाता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapitalisasi Bursa Korea Tembus 7.088 Triliun Won, Samsung dan SK Hynix Naik 56%",
+        "excerpt": "Dalam 11 bulan sejak pemerintahan Lee Jae-myung dimulai, kapitalisasi pasar saham Korea naik dari 2.597 menjadi 7.088 triliun won, didorong saham semikonduktor.",
+        "body": "Kapitalisasi pasar saham Korea Selatan dilaporkan naik dari 2.597 triliun won menjadi 7.088 triliun won dalam 11 bulan sejak pemerintahan Lee Jae-myung dimulai, bertambah sekitar 4.491 triliun won. Penguatan sektor semikonduktor menonjol, dengan nilai pasar Samsung dan SK Hynix naik 56%. Berdasarkan grup, SK Group menyalip LG dan Hyundai Motor untuk menetap di posisi kedua kapitalisasi pasar. Hyosung, Mirae Asset, dan LS juga ikut menguat. Pergerakan ini menunjukkan bahwa saham besar semikonduktor masih berpengaruh besar di pasar Korea. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "38686e132a91",
     "slug": "주문-꽉-찼다-잭팟고마진-슈퍼사이클-올라탄-k-조선-215058",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KB Asset Rilis ETF Hyundai Motor Physical AI Usai Sukses Chip-Obligasi",
         "excerpt": "KB Asset Management pada 12 Mei mencatatkan RISE Hyundai Motor Fixed Physical AI ETF yang berfokus pada Hyundai Motor Group dan mitra utama.",
         "body": "KB Asset Management pada 12 Mei mencatatkan RISE Hyundai Motor Fixed Physical AI ETF, yang berfokus pada Hyundai Motor Group dan mitra utamanya. ETF ini menetapkan bobot Hyundai Motor sebesar 25% dan berinvestasi pada 14 saham teratas yang paling terkait dengan kendaraan otonom, robotika, dan otomasi pabrik. Komponen utama mencakup Hyundai Motor, Hyundai Mobis, Kia, Rainbow Robotics, LG Innotek, dan Hyundai AutoEver. Sebelumnya, RISE Samsung Electronics SK Hynix Bond Mixed 50 ETF milik KB menarik perhatian dengan komposisi 25% masing-masing di Samsung Electronics dan SK Hynix serta 50% di obligasi. Produk baru ini memperluas tema investasi ke ekosistem physical AI. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "c5aa081c7076",
-    "slug": "산업용-ai-마키나락스-청약-증거금-139조원-모아-774479",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T10:15:45.879Z",
-    "updatedAt": "2026-05-12T10:15:45.879Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045111",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045111",
-    "titleFingerprint": "fd1a7e863000d04c91c5c6412e834911ae1fc067",
-    "dedupKeys": [
-      "c5aa081c707617b9060f16be70a98ebc1f397415",
-      "fd1a7e863000d04c91c5c6412e834911ae1fc067",
-      "069b37c1a9293694fa4fde1ead8d55dca8e985b0"
-    ],
-    "imageUrl": "/images/articles/c5aa081c7076.jpg",
-    "i18n": {
-      "ko": {
-        "title": "마키나락스 공모주 청약 증거금 13.9조원, 올해 최고 기록 경신",
-        "excerpt": "산업용 인공지능 기업 마키나락스가 5월 12일 보도 기준 공모주 청약에서 증거금 13.9조원을 모으며 올해 최고 청약 증거금 기록을 새로 썼다.",
-        "body": "산업용 인공지능(AI) 기업 마키나락스가 공모주 청약에서 13조9000억원의 증거금을 모으며 올해 최고 청약 증거금 기록을 경신했다. 매일경제 자본시장 전문 유료매체 레이더M은 이 같은 내용을 5월 12일 17시 17분 보도했다. 이번 기록은 산업용 AI 기업에 대한 투자자 관심이 청약 수요로 확인됐다는 점에서 주목된다. 다만 원문에 제시된 핵심 수치는 청약 증거금 13.9조원과 올해 최고 기록 경신이다. 향후 시장에서는 마키나락스 공모 결과와 산업용 AI 관련 기업에 대한 투자 흐름을 함께 살필 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "MakinaRocks IPO Subscriptions Draw 13.9 Trillion Won, 2026 High",
-        "excerpt": "Industrial AI company MakinaRocks drew 13.9 trillion won in IPO subscription deposits as of a May 12 report, setting this year’s highest total.",
-        "body": "Industrial artificial intelligence company MakinaRocks raised 13.9 trillion won in deposits through its public offering subscription, setting the highest IPO subscription deposit total of the year. Maeil Business Newspaper’s capital markets paid outlet Radar M reported the news at 17:17 on May 12. The figure highlights investor interest in an industrial AI company as reflected in subscription demand. The key facts provided in the original report are the 13.9 trillion won deposit total and the new yearly high. Market participants are expected to watch MakinaRocks’ offering results and related investment flows in industrial AI. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "マキナロックス、IPO申込証拠金13.9兆ウォンで今年最高更新",
-        "excerpt": "産業用AI企業マキナロックスは5月12日の報道基準でIPO申込証拠金13.9兆ウォンを集め、今年最高記録を更新した。",
-        "body": "産業用人工知能（AI）企業のマキナロックスが、公募株の申込で13兆9000億ウォンの証拠金を集め、今年最高の申込証拠金記録を更新した。毎日経済の資本市場専門有料媒体レーダーMが、5月12日17時17分に報じた。今回の記録は、産業用AI企業への投資家の関心が申込需要として確認された点で注目される。原文で示された主要事実は、申込証拠金13.9兆ウォンと今年最高記録の更新である。市場では今後、マキナロックスの公募結果と産業用AI関連企業への投資動向が注視される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "MakinaRocks认购保证金达13.9万亿韩元，刷新今年最高纪录",
-        "excerpt": "工业人工智能企业MakinaRocks据5月12日报道在公开认购中募集13.9万亿韩元保证金，刷新今年最高认购保证金纪录。",
-        "body": "工业人工智能（AI）企业MakinaRocks在公开募股认购中募集到13.9万亿韩元保证金，刷新了今年最高认购保证金纪录。每日经济旗下资本市场专业付费媒体Radar M于5月12日17时17分报道了这一消息。该纪录显示，投资者对工业AI企业的关注已反映在认购需求中。原文提供的核心信息为认购保证金13.9万亿韩元，以及刷新今年最高纪录。市场预计将继续关注MakinaRocks的公开募股结果，以及工业AI相关企业的投资动向。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "MakinaRocks capta 13,9 billones de wones en su suscripción, máximo anual",
-        "excerpt": "La empresa de IA industrial MakinaRocks reunió 13,9 billones de wones en depósitos de suscripción, según un reporte del 12 de mayo, marcando el máximo del año.",
-        "body": "La empresa de inteligencia artificial industrial MakinaRocks reunió 13,9 billones de wones en depósitos durante la suscripción de su oferta pública, renovando el mayor registro del año. Radar M, el medio de pago especializado en mercado de capitales de Maeil Business Newspaper, informó la noticia el 12 de mayo a las 17:17. La cifra muestra que el interés de los inversores por una compañía de IA industrial se reflejó en la demanda de suscripción. Los datos centrales del texto original son el monto de 13,9 billones de wones y el nuevo máximo anual. El mercado observará los resultados de la oferta de MakinaRocks y los flujos de inversión vinculados a la IA industrial. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "MakinaRocks reúne 13,9 trilhões de won em subscrições e bate recorde anual",
-        "excerpt": "A empresa de IA industrial MakinaRocks captou 13,9 trilhões de won em depósitos de subscrição, segundo reportagem de 12 de maio, renovando o maior valor do ano.",
-        "body": "A empresa de inteligência artificial industrial MakinaRocks reuniu 13,9 trilhões de won em depósitos na subscrição de sua oferta pública, renovando o maior volume registrado neste ano. A Radar M, mídia paga especializada em mercado de capitais do Maeil Business Newspaper, publicou a notícia em 12 de maio, às 17h17. O resultado chama atenção por mostrar o interesse dos investidores em uma empresa de IA industrial por meio da demanda de subscrição. Os principais dados do texto original são o depósito de 13,9 trilhões de won e a renovação do recorde anual. O mercado deve acompanhar os resultados da oferta da MakinaRocks e os fluxos de investimento em empresas ligadas à IA industrial. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "MakinaRocks sammelt 13,9 Billionen Won bei Zeichnung, Jahreshoch erreicht",
-        "excerpt": "Das Industrie-KI-Unternehmen MakinaRocks sammelte laut Bericht vom 12. Mai 13,9 Billionen Won an Zeichnungseinlagen und setzte damit den Jahreshöchstwert.",
-        "body": "Das Industrie-KI-Unternehmen MakinaRocks hat bei der Zeichnung seines öffentlichen Angebots Einlagen von 13,9 Billionen Won eingesammelt und damit den höchsten Zeichnungsbetrag des Jahres erreicht. Radar M, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, berichtete dies am 12. Mai um 17:17 Uhr. Die Zahl ist bemerkenswert, weil sich das Anlegerinteresse an einem Industrie-KI-Unternehmen in der Zeichnungsnachfrage zeigte. Die im Original genannten Kernfakten sind die 13,9 Billionen Won an Zeichnungseinlagen und der neue Jahresrekord. Der Markt dürfte nun die Ergebnisse des Angebots von MakinaRocks und Investitionsströme in Industrie-KI-Unternehmen beobachten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "MakinaRocks attire 13,9 billions de wons en souscription, record annuel",
-        "excerpt": "La société d’IA industrielle MakinaRocks a réuni 13,9 billions de wons de dépôts de souscription, selon un article du 12 mai, établissant le plus haut niveau de l’année.",
-        "body": "La société d’intelligence artificielle industrielle MakinaRocks a réuni 13,9 billions de wons de dépôts lors de la souscription de son offre publique, établissant le plus haut montant de l’année. Radar M, média payant spécialisé dans les marchés de capitaux de Maeil Business Newspaper, a publié l’information le 12 mai à 17h17. Ce record montre que l’intérêt des investisseurs pour une entreprise d’IA industrielle s’est traduit dans la demande de souscription. Les faits essentiels du texte original sont le montant de 13,9 billions de wons et le nouveau record annuel. Le marché devrait suivre les résultats de l’offre de MakinaRocks et les flux d’investissement liés à l’IA industrielle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ماكيناروكس تجمع 13.9 تريليون وون في اكتتابها وتسجل أعلى مستوى هذا العام",
-        "excerpt": "جمعت شركة الذكاء الاصطناعي الصناعي ماكيناروكس 13.9 تريليون وون كضمانات اكتتاب وفق تقرير 12 مايو، لتسجل أعلى قيمة لهذا العام.",
-        "body": "جمعت شركة ماكيناروكس المتخصصة في الذكاء الاصطناعي الصناعي 13.9 تريليون وون من ضمانات الاكتتاب في طرحها العام، مسجلة أعلى مستوى لضمانات الاكتتاب هذا العام. ونشرت رادار إم، الوسيلة المدفوعة المتخصصة في أسواق رأس المال التابعة لصحيفة ماييل الاقتصادية، الخبر في 12 مايو عند الساعة 17:17. ويبرز هذا الرقم اهتمام المستثمرين بشركة تعمل في مجال الذكاء الاصطناعي الصناعي كما ظهر في طلبات الاكتتاب. وتقتصر الحقائق الأساسية في النص الأصلي على مبلغ 13.9 تريليون وون وتسجيل أعلى رقم سنوي. ومن المتوقع أن يراقب السوق نتائج طرح ماكيناروكس وتدفقات الاستثمار في شركات الذكاء الاصطناعي الصناعي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "MakinaRocks ने IPO आवेदन में 13.9 ट्रिलियन वॉन जुटाए, साल का उच्चतम रिकॉर्ड",
-        "excerpt": "औद्योगिक AI कंपनी MakinaRocks ने 12 मई की रिपोर्ट के अनुसार IPO आवेदन जमा में 13.9 ट्रिलियन वॉन जुटाकर इस साल का सबसे ऊंचा रिकॉर्ड बनाया।",
-        "body": "औद्योगिक कृत्रिम बुद्धिमत्ता कंपनी MakinaRocks ने सार्वजनिक पेशकश के आवेदन में 13.9 ट्रिलियन वॉन की जमा राशि जुटाई और इस साल के सबसे ऊंचे IPO आवेदन जमा रिकॉर्ड को पार किया। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया Radar M ने यह खबर 12 मई को 17:17 बजे प्रकाशित की। यह आंकड़ा दिखाता है कि औद्योगिक AI कंपनी को लेकर निवेशकों की रुचि आवेदन मांग में दिखी। मूल रिपोर्ट में दिए गए प्रमुख तथ्य 13.9 ट्रिलियन वॉन की आवेदन जमा राशि और इस साल का नया उच्चतम रिकॉर्ड हैं। बाजार आगे MakinaRocks की पेशकश के परिणामों और औद्योगिक AI कंपनियों से जुड़े निवेश प्रवाह पर नजर रखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "MakinaRocks Raup Dana Pesanan IPO 13,9 Triliun Won, Tertinggi Tahun Ini",
-        "excerpt": "Perusahaan AI industri MakinaRocks mengumpulkan dana jaminan pemesanan 13,9 triliun won menurut laporan 12 Mei, mencetak rekor tertinggi tahun ini.",
-        "body": "Perusahaan kecerdasan buatan industri MakinaRocks mengumpulkan dana jaminan pemesanan sebesar 13,9 triliun won dalam penawaran saham publiknya, mencetak rekor tertinggi tahun ini. Radar M, media berbayar khusus pasar modal milik Maeil Business Newspaper, melaporkan berita tersebut pada 12 Mei pukul 17:17. Angka ini menarik perhatian karena menunjukkan minat investor terhadap perusahaan AI industri melalui permintaan pemesanan. Fakta utama dalam naskah asli adalah dana jaminan pemesanan 13,9 triliun won dan pembaruan rekor tertinggi tahun ini. Pasar akan mencermati hasil penawaran MakinaRocks serta arus investasi terkait perusahaan AI industri. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "e403b4b08b0c",
-    "slug": "kkr-한일-탱크터미널-동시-매각1조원-기대-858075",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T10:14:03.064Z",
-    "updatedAt": "2026-05-12T10:14:03.064Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045112",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045112",
-    "titleFingerprint": "c7968db179ea0f1290781680ed81b16aee082b1d",
-    "dedupKeys": [
-      "e403b4b08b0c4117a7aead89fbc7a3fe811bfc93",
-      "c7968db179ea0f1290781680ed81b16aee082b1d",
-      "0e791d15add7e23eef7cd8c11b42b6442f1dfe40"
-    ],
-    "imageUrl": "/images/articles/e403b4b08b0c.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KKR, 한국 CTK·일본 CTT 탱크터미널 패키지 매각 추진…1조원 기대",
-        "excerpt": "KKR이 5월 12일 한국 CTK와 일본 CTT 탱크터미널을 동시에 묶어 매각하는 패키지 딜을 추진하며, 거래 기대가는 1조원 수준으로 거론된다.",
-        "body": "KKR이 한국 CTK와 일본 CTT 탱크터미널을 동시에 매각하는 패키지 딜을 추진하고 있다. 5월 12일 매일경제 자본시장 전문 유료매체 레이더M 보도에 따르면 이번 거래는 한·일 탱크터미널 자산을 묶어 진행되는 구조다. 두 회사의 합산 EBITDA는 약 700억원으로 추산되며, 시장에서 기대하는 거래 규모는 1조원 수준으로 언급된다. 한국과 일본 자산을 함께 내놓는 방식인 만큼 매각 과정에서 패키지 딜의 가격 산정과 투자자 관심이 핵심 변수로 꼽힌다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KKR Pursues Korea CTK, Japan CTT Tank Terminal Package Sale Near W1tn",
-        "excerpt": "KKR is pursuing a package sale of Korea’s CTK and Japan’s CTT tank terminals, with market expectations pointing to a deal value of around 1 trillion won.",
-        "body": "KKR is moving to sell Korea’s CTK and Japan’s CTT tank terminals together through a package deal. According to a May 12 report by Radar M, Maeil Business Newspaper’s paid capital markets outlet, the transaction is structured around the simultaneous sale of tank terminal assets in Korea and Japan. The two companies’ combined EBITDA is estimated at about 70 billion won, while the expected transaction value is being discussed at around 1 trillion won. As the assets are being offered together, package pricing and investor interest are set to be key factors in the sale process. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KKR、韓国CTK・日本CTTタンクターミナル一括売却へ 1兆ウォン期待",
-        "excerpt": "KKRは5月12日、韓国CTKと日本CTTのタンクターミナルを同時に売却するパッケージ取引を進め、取引額は1兆ウォン規模とみられる。",
-        "body": "KKRは韓国CTKと日本CTTのタンクターミナルを同時に売却するパッケージ取引を進めている。5月12日の毎日経済の資本市場専門有料媒体「レーダーM」の報道によると、今回の取引は韓国と日本のタンクターミナル資産を一括して売却する構造だ。両社の合算EBITDAは約700億ウォンと推定され、市場で期待される取引規模は1兆ウォン水準とされる。韓日資産をまとめて出す方式であるため、売却過程ではパッケージ価格の算定と投資家の関心が主要な変数になる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KKR推进韩国CTK与日本CTT储罐码头打包出售 估值望达1万亿韩元",
-        "excerpt": "KKR于5月12日推进韩国CTK和日本CTT储罐码头同步打包出售，市场预期交易规模约为1万亿韩元。",
-        "body": "KKR正在推进将韩国CTK和日本CTT储罐码头同步出售的打包交易。据《每日经济》资本市场专业付费媒体Radar M 5月12日报道，本次交易以韩国和日本储罐码头资产合并出售为结构。两家公司合计EBITDA估计约为700亿韩元，市场提及的预期交易规模约为1万亿韩元。由于韩国和日本资产将以打包方式推出，出售过程中打包定价以及投资者关注度将成为核心变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KKR impulsa venta conjunta de CTK en Corea y CTT en Japón por cerca de W1 billón",
-        "excerpt": "KKR impulsa una venta en paquete de las terminales de tanques CTK en Corea y CTT en Japón, con una valoración esperada cercana a 1 billón de wones.",
-        "body": "KKR está avanzando con la venta simultánea de las terminales de tanques CTK, en Corea, y CTT, en Japón, mediante una operación en paquete. Según informó el 12 de mayo Radar M, el medio de pago especializado en mercado de capitales de Maeil Business Newspaper, la transacción agrupa activos de terminales de tanques en ambos países. El EBITDA combinado de las dos compañías se estima en unos 70.000 millones de wones, mientras que el valor esperado de la operación se menciona en torno a 1 billón de wones. Al ofrecerse los activos juntos, el precio del paquete y el interés de los inversores serán factores clave. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KKR avança com venda conjunta da CTK na Coreia e CTT no Japão por W1 tri",
-        "excerpt": "A KKR está promovendo a venda em pacote dos terminais de tanques CTK, na Coreia, e CTT, no Japão, com expectativa de valor próximo a 1 trilhão de won.",
-        "body": "A KKR está avançando com a venda simultânea dos terminais de tanques CTK, na Coreia, e CTT, no Japão, em uma operação em pacote. Segundo reportagem de 12 de maio do Radar M, veículo pago de mercado de capitais do Maeil Business Newspaper, a transação reúne ativos de terminais de tanques nos dois países. O EBITDA combinado das duas empresas é estimado em cerca de 70 bilhões de won, enquanto o valor esperado da operação é citado em torno de 1 trilhão de won. Como os ativos coreanos e japoneses serão oferecidos juntos, a precificação do pacote e o interesse dos investidores serão variáveis centrais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KKR plant Paketverkauf von Koreas CTK und Japans CTT Tankterminals für W1 Bio.",
-        "excerpt": "KKR treibt den Paketverkauf der Tankterminal-Betreiber CTK in Korea und CTT in Japan voran; der erwartete Transaktionswert liegt bei rund 1 Billion Won.",
-        "body": "KKR treibt den gleichzeitigen Verkauf der Tankterminals von CTK in Korea und CTT in Japan als Paketdeal voran. Laut einem Bericht von Radar M, dem kostenpflichtigen Kapitalmarktmedium der Maeil Business Newspaper, vom 12. Mai ist die Transaktion als gebündelter Verkauf koreanischer und japanischer Tankterminal-Assets angelegt. Das gemeinsame EBITDA der beiden Unternehmen wird auf etwa 70 Milliarden Won geschätzt, während der erwartete Transaktionswert bei rund 1 Billion Won genannt wird. Da die Assets gemeinsam angeboten werden, dürften Paketbewertung und Investoreninteresse zentrale Faktoren im Verkaufsprozess sein. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "KKR prépare la vente groupée des terminaux CTK en Corée et CTT au Japon",
-        "excerpt": "KKR prépare une vente groupée des terminaux de stockage CTK en Corée et CTT au Japon, avec une valeur de transaction attendue autour de 1 000 milliards de wons.",
-        "body": "KKR avance sur la vente simultanée des terminaux de stockage CTK en Corée et CTT au Japon dans le cadre d’une opération groupée. Selon un article publié le 12 mai par Radar M, média payant spécialisé dans les marchés de capitaux de Maeil Business Newspaper, la transaction réunit des actifs de terminaux de stockage situés en Corée et au Japon. L’EBITDA combiné des deux sociétés est estimé à environ 70 milliards de wons, tandis que la taille attendue de l’opération est évoquée autour de 1 000 milliards de wons. Le prix du package et l’intérêt des investisseurs seront donc des variables clés. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "KKR تمضي في بيع مجمع لمحطتي CTK الكورية وCTT اليابانية بقيمة متوقعة تريليون وون",
-        "excerpt": "تمضي KKR في صفقة بيع مجمعة لمحطتي خزانات CTK في كوريا وCTT في اليابان، مع توقعات بأن تبلغ قيمة الصفقة نحو تريليون وون.",
-        "body": "تمضي KKR في بيع متزامن لمحطتي خزانات CTK في كوريا وCTT في اليابان ضمن صفقة مجمعة. ووفق تقرير نشرته Radar M، الوسيلة المدفوعة المتخصصة في أسواق رأس المال التابعة لصحيفة Maeil Business Newspaper، في 12 مايو، تقوم الصفقة على جمع أصول محطات الخزانات في كوريا واليابان في عملية واحدة. ويقدر مجموع EBITDA للشركتين بنحو 70 مليار وون، بينما يجري الحديث في السوق عن قيمة متوقعة تقارب تريليون وون. وبما أن الأصول الكورية واليابانية ستعرض معا، فإن تسعير الحزمة واهتمام المستثمرين سيكونان عاملين رئيسيين في مسار البيع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KKR कोरिया CTK और जापान CTT टैंक टर्मिनल की पैकेज बिक्री बढ़ा रही है",
-        "excerpt": "KKR कोरिया की CTK और जापान की CTT टैंक टर्मिनल परिसंपत्तियों को एक साथ बेचने की पैकेज डील आगे बढ़ा रही है, जिसका अपेक्षित मूल्य करीब 1 ट्रिलियन वॉन है।",
-        "body": "KKR कोरिया की CTK और जापान की CTT टैंक टर्मिनल परिसंपत्तियों को एक साथ बेचने के लिए पैकेज डील आगे बढ़ा रही है। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया Radar M की 12 मई की रिपोर्ट के अनुसार, यह लेनदेन कोरिया और जापान के टैंक टर्मिनल एसेट्स को एक साथ बेचने की संरचना पर आधारित है। दोनों कंपनियों का संयुक्त EBITDA लगभग 70 अरब वॉन आंका गया है, जबकि बाजार में अपेक्षित सौदे का आकार करीब 1 ट्रिलियन वॉन बताया जा रहा है। चूंकि दोनों देशों की परिसंपत्तियां साथ रखी जा रही हैं, पैकेज मूल्य निर्धारण और निवेशकों की रुचि बिक्री प्रक्रिया के प्रमुख कारक होंगे। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KKR Dorong Penjualan Paket Terminal Tangki CTK Korea dan CTT Jepang Senilai W1 Triliun",
-        "excerpt": "KKR mendorong penjualan paket terminal tangki CTK di Korea dan CTT di Jepang, dengan nilai transaksi yang diperkirakan sekitar 1 triliun won.",
-        "body": "KKR tengah mendorong penjualan serentak terminal tangki CTK di Korea dan CTT di Jepang melalui skema transaksi paket. Menurut laporan Radar M, media berbayar khusus pasar modal milik Maeil Business Newspaper, pada 12 Mei, transaksi ini menggabungkan aset terminal tangki di Korea dan Jepang. EBITDA gabungan kedua perusahaan diperkirakan sekitar 70 miliar won, sementara nilai transaksi yang diharapkan disebut berada di kisaran 1 triliun won. Karena aset Korea dan Jepang ditawarkan bersama, penentuan harga paket dan minat investor akan menjadi faktor utama dalam proses penjualan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "fa6c69c5c93f",
-    "slug": "인기검색top5-lg전자-현대무벡스-영우디에스피-롯데쇼핑-삼성에스디에스-854854",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T10:11:08.871Z",
-    "updatedAt": "2026-05-12T10:11:08.871Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045117",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045117",
-    "titleFingerprint": "193ac79b0c597d7068f85a57e3668a6c640f3af3",
-    "dedupKeys": [
-      "fa6c69c5c93f7cfdb053265732f7c12be96ada5d",
-      "193ac79b0c597d7068f85a57e3668a6c640f3af3",
-      "351f55a96699c3bfb1afc8ef47242a38ac4fac5e"
-    ],
-    "imageUrl": "/images/articles/fa6c69c5c93f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LG전자·현대무벡스 인기검색 상위권, 라씨 매매비서 오늘 분석 종목 주가 흐름 주목",
-        "excerpt": "주식 AI 라씨 매매비서가 오늘 분석한 인기검색 종목에 LG전자, 현대무벡스, 영우디에스피, 롯데쇼핑, 삼성에스디에스가 올랐고 일부 종목 상승률이 공개됐다.",
-        "body": "주식 AI 라씨 매매비서가 오늘 분석한 인기검색 종목으로 LG전자, 현대무벡스, 영우디에스피, 롯데쇼핑, 삼성에스디에스가 제시됐다. 원문에 따르면 라씨 매매비서는 최적의 매매 타이밍을 실시간으로 전송해 투자자들에게 도움을 주는 서비스로 소개됐다. 공개된 수치에서는 LG전자가 +16.91%, 현대무벡스가 +9.30%로 표시됐다. 영우디에스피, 롯데쇼핑, 삼성에스디에스도 인기검색 TOP5 명단에 포함됐지만 추가 수치는 원문 요약에 명시되지 않았다. 이번 명단은 투자자 관심이 특정 대형주와 개별 종목에 집중된 흐름을 보여준다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "LG Electronics and Hyundai Movex Lead Today’s Popular Stock Searches, Rassi AI Data in Focus",
-        "excerpt": "Stock AI assistant Rassi named LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping and Samsung SDS among today’s popular search stocks, with some gains disclosed.",
-        "body": "Stock AI trading assistant Rassi identified LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping and Samsung SDS as today’s popular search stocks. According to the source, Rassi is introduced as a service that helps investors by sending optimal trading timing in real time. The figures disclosed in the original summary show LG Electronics at +16.91% and Hyundai Movex at +9.30%. Youngwoo DSP, Lotte Shopping and Samsung SDS were also included in the Top 5 list, but no additional figures were stated in the provided summary. The list shows investor attention centered on selected large-cap and individual stocks. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "LG電子と現代ムベックスが人気検索上位、ラッシーAIの本日分析銘柄に注目",
-        "excerpt": "株式AIラッシー売買秘書は本日、LG電子、現代ムベックス、Youngwoo DSP、ロッテショッピング、サムスンSDSを人気検索銘柄として示した。",
-        "body": "株式AIのラッシー売買秘書が本日分析した人気検索銘柄として、LG電子、現代ムベックス、Youngwoo DSP、ロッテショッピング、サムスンSDSが提示された。原文によると、ラッシー売買秘書は最適な売買タイミングをリアルタイムで送信し、投資家を支援するサービスとして紹介されている。公開された数値では、LG電子が+16.91%、現代ムベックスが+9.30%と表示された。Youngwoo DSP、ロッテショッピング、サムスンSDSもTOP5に含まれたが、追加の数値は提供された要約には明記されていない。今回のリストは、投資家の関心が特定の大型株と個別銘柄に向いている流れを示す。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "LG电子与现代Movex进入热门搜索前列，Rassi股票AI今日分析受关注",
-        "excerpt": "股票AI助手Rassi今日分析的热门搜索股票包括LG电子、现代Movex、Youngwoo DSP、乐天购物和三星SDS，部分涨幅已披露。",
-        "body": "股票AI交易助手Rassi今日分析的热门搜索股票包括LG电子、现代Movex、Youngwoo DSP、乐天购物和三星SDS。根据原文，Rassi交易助手被介绍为一项通过实时发送最佳买卖时机来帮助投资者的服务。已披露的数字显示，LG电子为+16.91%，现代Movex为+9.30%。Youngwoo DSP、乐天购物和三星SDS也进入热门搜索TOP5名单，但所提供摘要中未列明更多数值。该名单显示，投资者关注集中在部分大型股和个股上。来源：mk.co.kr。"
-      },
-      "es": {
-        "title": "LG Electronics y Hyundai Movex lideran búsquedas populares; foco en el análisis de Rassi AI",
-        "excerpt": "El asistente bursátil de IA Rassi incluyó hoy a LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping y Samsung SDS entre los valores más buscados.",
-        "body": "El asistente bursátil de IA Rassi presentó hoy como valores de búsqueda popular a LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping y Samsung SDS. Según el texto original, Rassi se describe como un servicio que ayuda a los inversores al enviar en tiempo real el momento óptimo de compra y venta. Entre las cifras divulgadas, LG Electronics aparece con +16,91% y Hyundai Movex con +9,30%. Youngwoo DSP, Lotte Shopping y Samsung SDS también figuran en el Top 5, aunque el resumen proporcionado no indica cifras adicionales. La lista muestra el interés de los inversores en determinados grandes valores y acciones individuales. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "LG Electronics e Hyundai Movex lideram buscas populares; análise da IA Rassi ganha foco",
-        "excerpt": "A assistente de ações com IA Rassi apontou hoje LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping e Samsung SDS entre os papéis mais buscados.",
-        "body": "A assistente de negociação com IA Rassi apresentou hoje LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping e Samsung SDS como ações de busca popular. Segundo o texto original, a Rassi é descrita como um serviço que ajuda investidores ao enviar em tempo real o momento ideal de compra e venda. Entre os números divulgados, LG Electronics aparece com +16,91% e Hyundai Movex com +9,30%. Youngwoo DSP, Lotte Shopping e Samsung SDS também integram o Top 5, mas o resumo fornecido não informa outros percentuais. A lista mostra a atenção dos investidores concentrada em determinadas grandes empresas e ações individuais. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "LG Electronics und Hyundai Movex vorn bei beliebten Suchen, Rassi-AI-Analyse im Blick",
-        "excerpt": "Der Aktien-KI-Assistent Rassi nannte heute LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping und Samsung SDS als beliebte Suchwerte; einige Zugewinne wurden genannt.",
-        "body": "Der Aktien-KI-Handelsassistent Rassi hat heute LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping und Samsung SDS als beliebte Suchwerte genannt. Laut Original wird Rassi als Dienst beschrieben, der Anleger unterstützt, indem er optimale Kauf- und Verkaufszeitpunkte in Echtzeit übermittelt. In den veröffentlichten Zahlen wurde LG Electronics mit +16,91% und Hyundai Movex mit +9,30% ausgewiesen. Youngwoo DSP, Lotte Shopping und Samsung SDS standen ebenfalls in der Top-5-Liste, weitere Werte wurden in der bereitgestellten Zusammenfassung jedoch nicht genannt. Die Liste zeigt, dass sich das Anlegerinteresse auf ausgewählte Großwerte und Einzeltitel richtet. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "LG Electronics et Hyundai Movex en tête des recherches populaires, l’analyse IA Rassi suivie",
-        "excerpt": "L’assistant boursier IA Rassi a cité aujourd’hui LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping et Samsung SDS parmi les valeurs les plus recherchées.",
-        "body": "L’assistant de trading boursier IA Rassi a présenté aujourd’hui LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping et Samsung SDS comme valeurs populaires dans les recherches. Selon le texte original, Rassi est décrit comme un service aidant les investisseurs en transmettant en temps réel le meilleur moment d’achat et de vente. Parmi les chiffres publiés, LG Electronics affiche +16,91% et Hyundai Movex +9,30%. Youngwoo DSP, Lotte Shopping et Samsung SDS figurent aussi dans le Top 5, mais aucun autre chiffre n’est précisé dans le résumé fourni. Cette liste montre l’attention des investisseurs portée à certaines grandes capitalisations et valeurs individuelles. Source : mk.co.kr."
-      },
-      "ar": {
-        "title": "إل جي إلكترونيكس وهيونداي موفكس تتصدران البحث الرائج مع متابعة تحليل Rassi للذكاء الاصطناعي",
-        "excerpt": "حدد مساعد تداول الأسهم بالذكاء الاصطناعي Rassi اليوم إل جي إلكترونيكس وهيونداي موفكس ويونغ وو DSP ولوت شوبينغ وسامسونغ SDS ضمن الأسهم الأكثر بحثا.",
-        "body": "حدد مساعد تداول الأسهم بالذكاء الاصطناعي Rassi اليوم أسهم إل جي إلكترونيكس وهيونداي موفكس ويونغ وو DSP ولوت شوبينغ وسامسونغ SDS ضمن قائمة الأسهم الرائجة في البحث. وبحسب النص الأصلي، يوصف Rassi بأنه خدمة تساعد المستثمرين عبر إرسال توقيت التداول الأمثل في الوقت الفعلي. وتشير الأرقام المنشورة إلى أن إل جي إلكترونيكس سجلت +16.91%، بينما سجلت هيونداي موفكس +9.30%. كما وردت يونغ وو DSP ولوت شوبينغ وسامسونغ SDS ضمن قائمة الخمسة الأوائل، لكن الملخص المقدم لم يذكر أرقاما إضافية. وتظهر القائمة تركيز اهتمام المستثمرين على بعض الأسهم الكبرى وأسهم منفردة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "LG Electronics और Hyundai Movex लोकप्रिय खोजों में आगे, Rassi AI के आज के विश्लेषण पर नजर",
-        "excerpt": "स्टॉक AI सहायक Rassi ने आज LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping और Samsung SDS को लोकप्रिय खोज वाले शेयरों में शामिल किया।",
-        "body": "स्टॉक AI ट्रेडिंग सहायक Rassi ने आज LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping और Samsung SDS को लोकप्रिय खोज वाले शेयरों के रूप में प्रस्तुत किया। मूल पाठ के अनुसार, Rassi को ऐसी सेवा बताया गया है जो निवेशकों की मदद के लिए वास्तविक समय में इष्टतम खरीद-बिक्री समय भेजती है। प्रकाशित आंकड़ों में LG Electronics +16.91% और Hyundai Movex +9.30% पर दिखे। Youngwoo DSP, Lotte Shopping और Samsung SDS भी TOP5 सूची में शामिल थे, लेकिन दिए गए सारांश में अतिरिक्त आंकड़े स्पष्ट नहीं थे। यह सूची दिखाती है कि निवेशकों का ध्यान कुछ बड़े शेयरों और व्यक्तिगत शेयरों पर केंद्रित है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "LG Electronics dan Hyundai Movex Pimpin Pencarian Populer, Analisis Rassi AI Jadi Sorotan",
-        "excerpt": "Asisten saham AI Rassi hari ini mencatat LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping, dan Samsung SDS sebagai saham pencarian populer.",
-        "body": "Asisten perdagangan saham berbasis AI Rassi hari ini menyebut LG Electronics, Hyundai Movex, Youngwoo DSP, Lotte Shopping, dan Samsung SDS sebagai saham dengan pencarian populer. Menurut teks asli, Rassi diperkenalkan sebagai layanan yang membantu investor dengan mengirimkan waktu transaksi optimal secara real time. Angka yang diungkap menunjukkan LG Electronics +16,91% dan Hyundai Movex +9,30%. Youngwoo DSP, Lotte Shopping, dan Samsung SDS juga masuk daftar Top 5, tetapi ringkasan yang diberikan tidak memuat angka tambahan. Daftar ini menunjukkan perhatian investor tertuju pada saham berkapitalisasi besar tertentu dan saham individual. Sumber: mk.co.kr."
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "id": "4a92dc93f6cd",
+  "slug": "코인-이자보다-미-국채가-낫다수익형-코인-판도-바꾸는-rwa-919242",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-13T00:12:47.350Z",
+  "updatedAt": "2026-05-13T00:12:47.350Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12045782",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12045782",
+  "titleFingerprint": "bd08c2a1cd095eba74e343a508b2cc0878e90ce5",
+  "dedupKeys": [
+    "4a92dc93f6cdae683f12c58eac5b9323a6ecd089",
+    "bd08c2a1cd095eba74e343a508b2cc0878e90ce5",
+    "9e08b15e5c632e9ba45d38aa515767256a787e37"
+  ],
+  "imageUrl": "/images/articles/4a92dc93f6cd.png",
+  "i18n": {
+    "ko": {
+      "title": "RWA가 바꾸는 수익형 코인 판도, 기관 자금은 이자보다 미 국채로",
+      "excerpt": "디파이 시장이 기관과 미 국채 기반 RWA 중심으로 재편되는 가운데, sUSDe 공급량은 90일 만에 반토막 나고 기관들은 높은 이율보다 예측 가능성을 중시하고 있다.",
+      "body": "디파이 시장에서 ‘수익형 코인’의 경쟁 구도가 기관과 미 국채를 앞세운 RWA 중심으로 바뀌고 있다. mk.co.kr에 따르면 단순히 달러 가치를 추종하는 코인보다 미 국채 기반 자산의 예측 가능성이 부각되면서 기관 투자자들의 관심이 이동하고 있다. 대표적인 수익형 코인으로 거론된 sUSDe 공급량은 90일 만에 절반 수준으로 줄었다. 높은 이율만으로는 자금을 붙잡기 어려워졌고, 기관들은 수익률보다 구조와 위험의 예측 가능성을 더 따지는 흐름이다. 다만 관련 위험도가 1250%로 제시되며 월가의 심사대에 오른 점은 향후 RWA와 디파이 재편의 핵심 변수로 남아 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "RWA reshapes yield coins as institutions favor U.S. Treasuries over crypto interest",
+      "excerpt": "As DeFi shifts toward institutions and U.S. Treasury-based RWA, sUSDe supply has halved in 90 days and investors are prioritizing predictability over high yields.",
+      "body": "The competitive landscape for yield-generating coins in DeFi is shifting toward RWA backed by institutions and U.S. Treasuries. According to mk.co.kr, institutional investors are moving their attention from coins that simply track the dollar toward assets whose Treasury-linked structure offers greater predictability. Supply of sUSDe, cited as a representative yield coin, has fallen by half in 90 days. High interest rates alone are no longer enough to retain capital, as institutions place more weight on predictable structures and risks than on headline yield. Still, a cited risk level of 1250% has put these coins under Wall Street scrutiny, leaving risk assessment as a key factor in the next phase of RWA and DeFi restructuring. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "RWAが利回り型コインを再編、機関投資家は暗号資産金利より米国債へ",
+      "excerpt": "DeFi市場が機関投資家と米国債ベースのRWA中心に再編されるなか、sUSDeの供給量は90日で半減し、高利回りより予測可能性が重視されている。",
+      "body": "DeFi市場で「利回り型コイン」の競争構図が、機関投資家と米国債を前面に出すRWA中心へ変わっている。mk.co.krによると、単にドル価値を追うコインよりも、米国債ベース資産の予測可能性が注目され、機関投資家の関心が移っている。代表的な利回り型コインとして挙げられたsUSDeの供給量は90日で半分の水準に減少した。高い利率だけでは資金をつなぎ留めにくくなり、機関は利回りより構造とリスクの予測可能性を重視している。ただし、関連リスクが1250%と示され、ウォール街の審査対象になった点は、今後のRWAとDeFi再編の主要な変数として残る。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "RWA重塑收益型代币格局，机构资金从加密利息转向美国国债",
+      "excerpt": "随着DeFi向机构和美国国债支持的RWA重组，sUSDe供应量在90天内减半，机构投资者正把重点从高利率转向可预测性。",
+      "body": "DeFi市场中“收益型代币”的竞争格局正在转向以机构和美国国债为核心的RWA。mk.co.kr报道称，相比只是追踪美元价值的代币，美国国债支持资产的可预测性更受关注，机构投资者的兴趣也随之转移。被视为代表性收益型代币的sUSDe，其供应量在90天内降至约一半。仅凭高利率已越来越难留住资金，机构更看重结构和风险的可预测性，而不是单纯收益率。不过，相关风险度被列为1250%，并进入华尔街审查视野，这仍将是未来RWA与DeFi重组的关键变量。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "RWA cambia los tokens de rendimiento: instituciones prefieren bonos del Tesoro",
+      "excerpt": "Mientras DeFi se reorganiza en torno a instituciones y RWA ligados a bonos del Tesoro de EE. UU., la oferta de sUSDe cayó a la mitad en 90 días y pesa más la previsibilidad.",
+      "body": "El mercado DeFi está viendo un cambio en la competencia de los llamados tokens de rendimiento, ahora más centrada en RWA respaldados por instituciones y bonos del Tesoro de EE. UU. Según mk.co.kr, los inversores institucionales están desplazando su atención desde monedas que solo siguen el valor del dólar hacia activos con mayor previsibilidad por su base en deuda pública estadounidense. La oferta de sUSDe, citado como token representativo, se redujo a la mitad en 90 días. Las tasas altas ya no bastan para retener capital; las instituciones priorizan la previsibilidad de la estructura y del riesgo frente al rendimiento. Aun así, un nivel de riesgo señalado en 1250% lo ha puesto bajo examen de Wall Street. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "RWA muda tokens de rendimento, e instituições preferem Treasuries a juros cripto",
+      "excerpt": "Com o DeFi se reorganizando em torno de instituições e RWA baseados em títulos do Tesouro dos EUA, a oferta de sUSDe caiu pela metade em 90 dias e a previsibilidade ganhou peso.",
+      "body": "O mercado DeFi está vendo a disputa dos chamados tokens de rendimento se deslocar para RWA apoiados por instituições e títulos do Tesouro dos EUA. Segundo o mk.co.kr, investidores institucionais passaram a olhar menos para moedas que apenas acompanham o dólar e mais para ativos cuja base em Treasuries oferece maior previsibilidade. A oferta de sUSDe, citada como exemplo de token de rendimento, caiu pela metade em 90 dias. Juros elevados, por si só, já não bastam para manter capital; instituições dão mais peso à previsibilidade da estrutura e dos riscos do que ao retorno. Ainda assim, o risco indicado de 1250% levou esses ativos ao crivo de Wall Street. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "RWA verändert Rendite-Coins: Institutionelle setzen eher auf US-Staatsanleihen",
+      "excerpt": "Während sich DeFi auf Institutionen und US-Treasury-basierte RWA ausrichtet, hat sich das sUSDe-Angebot in 90 Tagen halbiert; Berechenbarkeit zählt stärker als hohe Zinsen.",
+      "body": "Im DeFi-Markt verschiebt sich der Wettbewerb bei Rendite-Coins hin zu RWA, die auf Institutionen und US-Staatsanleihen ausgerichtet sind. Laut mk.co.kr richtet sich das Interesse institutioneller Anleger weg von Coins, die lediglich den Dollarwert abbilden, und hin zu Vermögenswerten mit besser berechenbarer Treasury-Struktur. Das Angebot von sUSDe, das als beispielhafter Rendite-Coin genannt wird, hat sich innerhalb von 90 Tagen halbiert. Hohe Zinssätze allein reichen nicht mehr aus, um Kapital zu halten; Institutionen achten stärker auf die Vorhersehbarkeit von Struktur und Risiko als auf Rendite. Ein genanntes Risikoniveau von 1250% bringt diese Coins jedoch auf den Prüfstand der Wall Street. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Les RWA rebattent les cartes des coins à rendement, les institutions visent les Treasuries",
+      "excerpt": "Alors que la DeFi se recentre sur les institutions et les RWA liés aux bons du Trésor américain, l’offre de sUSDe a été divisée par deux en 90 jours et la prévisibilité prime.",
+      "body": "Dans la DeFi, la concurrence autour des coins à rendement se déplace vers les RWA soutenus par les institutions et les bons du Trésor américain. Selon mk.co.kr, les investisseurs institutionnels s’intéressent moins aux coins qui suivent simplement la valeur du dollar et davantage aux actifs dont la base en Treasuries offre une meilleure prévisibilité. L’offre de sUSDe, cité comme exemple de coin à rendement, a chuté de moitié en 90 jours. Les taux élevés ne suffisent plus à retenir les capitaux; les institutions privilégient la prévisibilité de la structure et des risques plutôt que le rendement seul. Toutefois, un niveau de risque indiqué à 1250% place ces actifs sous l’examen de Wall Street. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "الأصول الحقيقية تغيّر عملات العائد والمؤسسات تفضّل سندات الخزانة الأميركية",
+      "excerpt": "مع إعادة تشكل DeFi حول المؤسسات والأصول الحقيقية المدعومة بسندات الخزانة الأميركية، انخفض معروض sUSDe إلى النصف خلال 90 يوما وباتت قابلية التنبؤ أهم من الفائدة المرتفعة.",
+      "body": "يشهد سوق DeFi تغيرا في منافسة عملات العائد مع انتقال التركيز إلى الأصول الحقيقية RWA المدعومة بالمؤسسات وسندات الخزانة الأميركية. وبحسب mk.co.kr، يتحول اهتمام المستثمرين المؤسسيين من العملات التي تلاحق قيمة الدولار فقط إلى أصول توفر قابلية أكبر للتنبؤ بفضل ارتباطها بسندات الخزانة. وقد انخفض معروض sUSDe، الذي ورد كمثال على عملات العائد، إلى النصف خلال 90 يوما. لم تعد الفائدة المرتفعة وحدها كافية للاحتفاظ برأس المال، إذ تركز المؤسسات أكثر على قابلية توقع الهيكل والمخاطر من العائد نفسه. لكن مستوى المخاطر المشار إليه عند 1250% وضع هذه العملات تحت تدقيق وول ستريت. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "RWA ने यील्ड कॉइन बाजार बदला, संस्थान क्रिप्टो ब्याज से ज्यादा अमेरिकी ट्रेजरी देख रहे",
+      "excerpt": "DeFi बाजार संस्थानों और अमेरिकी ट्रेजरी आधारित RWA की ओर मुड़ रहा है; sUSDe की आपूर्ति 90 दिनों में आधी हुई और संस्थान ऊंची दरों से अधिक अनुमानयोग्यता को महत्व दे रहे हैं।",
+      "body": "DeFi बाजार में ‘यील्ड कॉइन’ की प्रतिस्पर्धा संस्थानों और अमेरिकी ट्रेजरी पर आधारित RWA की ओर बदल रही है। mk.co.kr के अनुसार, संस्थागत निवेशकों का ध्यान उन कॉइन से हट रहा है जो केवल डॉलर मूल्य का अनुसरण करते हैं, और ऐसे एसेट की ओर जा रहा है जिनकी ट्रेजरी-आधारित संरचना अधिक अनुमानयोग्य मानी जा रही है। प्रतिनिधि यील्ड कॉइन के रूप में उल्लेखित sUSDe की आपूर्ति 90 दिनों में लगभग आधी रह गई। केवल ऊंची ब्याज दर पूंजी को बनाए रखने के लिए पर्याप्त नहीं रह गई है; संस्थान रिटर्न से अधिक संरचना और जोखिम की अनुमानयोग्यता को देख रहे हैं। हालांकि 1250% जोखिम स्तर का उल्लेख इसे वॉल स्ट्रीट की जांच के दायरे में रखता है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "RWA mengubah koin imbal hasil, institusi memilih Treasury AS ketimbang bunga kripto",
+      "excerpt": "Saat DeFi bergeser ke RWA berbasis institusi dan obligasi Treasury AS, pasokan sUSDe turun separuh dalam 90 hari dan investor lebih mengejar prediktabilitas daripada bunga tinggi.",
+      "body": "Di pasar DeFi, persaingan koin berimbal hasil mulai bergeser ke RWA yang menonjolkan institusi dan obligasi Treasury AS. Menurut mk.co.kr, minat investor institusional bergerak dari koin yang hanya mengikuti nilai dolar menuju aset berbasis Treasury yang dinilai lebih dapat diprediksi. Pasokan sUSDe, yang disebut sebagai contoh koin berimbal hasil, turun menjadi sekitar separuh dalam 90 hari. Bunga tinggi saja tidak lagi cukup untuk menahan modal; institusi lebih menilai prediktabilitas struktur dan risiko dibanding angka imbal hasil. Namun, tingkat risiko yang disebut mencapai 1250% membuat koin ini masuk dalam pengawasan Wall Street dan tetap menjadi variabel penting dalam penataan ulang RWA serta DeFi. Sumber: mk.co.kr"
+    }
+  }
+}
