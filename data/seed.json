@@ -1,5 +1,230 @@
 [
   {
+    "id": "67c408c2c1ae",
+    "slug": "중복상장-7년새-30-급감한-일본-전면금지-아닌-소수주주-보호-방점-341234",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T11:20:14.641Z",
+    "updatedAt": "2026-05-13T11:20:14.641Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046455",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046455",
+    "titleFingerprint": "393a3d0c07601ec99d6e23d9dd8a3f678832d99c",
+    "dedupKeys": [
+      "67c408c2c1ae78952dba078ef7afd2832739b8a2",
+      "393a3d0c07601ec99d6e23d9dd8a3f678832d99c",
+      "7c9c0a69b7f0fd91644207579facab84c62e647c"
+    ],
+    "imageUrl": "/images/articles/67c408c2c1ae.jpg",
+    "i18n": {
+      "ko": {
+        "title": "중복상장 심사 강화 속도…일본 7년새 30% 급감 사례 주목",
+        "excerpt": "금융당국과 한국거래소가 올 상반기 중복상장 규정 개정을 마무리하고 이르면 7월부터 ‘원칙 금지·예외 허용’ 심사 기준을 시행할 방침이다.",
+        "body": "금융당국과 한국거래소가 중복상장 심사 기준 마련에 속도를 내고 있다. 당국은 중복상장을 ‘원칙 금지·예외 허용’으로 다루는 방향에서 올 상반기 규정 개정을 마무리하고, 이르면 7월부터 제도를 시행할 예정이다. 원문은 일본에서 중복상장이 7년 사이 30% 급감한 흐름을 언급하며, 정책의 초점이 전면 금지보다 소수주주 보호에 놓여 있다고 전했다. 향후 심사 기준은 예외 허용 여부와 주주 보호 장치의 적정성을 가르는 핵심 잣대가 될 전망이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Dual Listings Face Tougher Review as Japan’s 30% Drop Draws Attention",
+        "excerpt": "Financial authorities and the Korea Exchange plan to finalize rule revisions in the first half and may apply a ‘ban in principle, exceptions allowed’ review framework from July.",
+        "body": "Financial authorities and the Korea Exchange are moving quickly to prepare review standards for dual listings. The authorities plan to complete rule revisions in the first half of this year and introduce the system as early as July, under a framework that bans dual listings in principle while allowing exceptions. The original report cited Japan, where dual listings have fallen 30% over seven years, and said the policy focus is on protecting minority shareholders rather than imposing a blanket ban. The standards are expected to become the key basis for judging exceptions and shareholder protection measures. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "重複上場の審査強化へ、日本の7年で30％減少事例に注目",
+        "excerpt": "金融当局と韓国取引所は今年上半期に重複上場規定の改正を終え、早ければ7月から「原則禁止・例外容認」の審査基準を施行する方針だ。",
+        "body": "金融当局と韓国取引所は、重複上場の審査基準づくりを急いでいる。当局は重複上場を「原則禁止・例外容認」とする方向で、今年上半期中に規定改正を終え、早ければ7月から制度を施行する予定だ。原文は、日本で重複上場が7年で30％急減した流れに触れ、政策の重点は全面禁止ではなく少数株主保護に置かれていると伝えた。今後の審査基準は、例外を認めるかどうかと株主保護措置の妥当性を判断する重要な物差しになる見通しだ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "重复上市审查加速收紧，日本7年减少30%案例受关注",
+        "excerpt": "金融监管部门和韩国交易所计划在今年上半年完成重复上市规则修订，最快7月起实施“原则禁止、例外允许”的审查标准。",
+        "body": "金融监管部门和韩国交易所正在加快制定重复上市审查标准。监管方计划在今年上半年完成规则修订，并最快从7月起实施相关制度，方向是对重复上市采取“原则禁止、例外允许”。原文提到，日本重复上市在7年间大幅减少30%，并指出政策重点并非全面禁止，而是保护少数股东。未来审查标准预计将成为判断是否允许例外以及股东保护措施是否充分的核心依据。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Revisión más estricta de dobles cotizaciones: Japón cayó 30% en 7 años",
+        "excerpt": "Las autoridades financieras y la Bolsa de Corea prevén cerrar en el primer semestre la revisión normativa y aplicar desde julio un marco de ‘prohibición en principio, excepciones permitidas’.",
+        "body": "Las autoridades financieras y la Bolsa de Corea están acelerando la preparación de criterios para revisar las dobles cotizaciones. El plan es finalizar la reforma normativa en el primer semestre de este año y aplicar el sistema, como pronto, desde julio, bajo el principio de prohibirlas en general y permitir excepciones. El texto original citó el caso de Japón, donde las dobles cotizaciones se redujeron 30% en siete años, y señaló que el foco de la política está en proteger a los accionistas minoritarios, no en una prohibición total. Los criterios serán clave para evaluar excepciones y medidas de protección. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Revisão de listagens duplicadas avança com caso do Japão, queda de 30%",
+        "excerpt": "Autoridades financeiras e a Bolsa da Coreia pretendem concluir no primeiro semestre a revisão das regras e aplicar desde julho um modelo de ‘proibição em princípio, exceções permitidas’.",
+        "body": "As autoridades financeiras e a Bolsa da Coreia estão acelerando a elaboração de critérios para analisar listagens duplicadas. A intenção é concluir a revisão das regras no primeiro semestre deste ano e implementar o sistema já em julho, com a abordagem de proibir em princípio e permitir exceções. O texto original citou o Japão, onde as listagens duplicadas caíram 30% em sete anos, e afirmou que o foco da política está na proteção dos acionistas minoritários, não em uma proibição total. Os novos critérios devem orientar a avaliação de exceções e de salvaguardas aos acionistas. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Strengere Prüfung von Doppelnotierungen: Japans 30%-Rückgang im Fokus",
+        "excerpt": "Finanzbehörden und Korea Exchange wollen die Regeln im ersten Halbjahr überarbeiten und frühestens ab Juli einen Rahmen mit ‘grundsätzlichem Verbot, Ausnahmen erlaubt’ anwenden.",
+        "body": "Die Finanzbehörden und die Korea Exchange beschleunigen die Ausarbeitung von Prüfkriterien für Doppelnotierungen. Die Behörden wollen die Regeländerungen in der ersten Jahreshälfte abschließen und das System frühestens ab Juli einführen, mit einem Ansatz, der Doppelnotierungen grundsätzlich untersagt, aber Ausnahmen zulässt. Der Originalbericht verwies auf Japan, wo Doppelnotierungen binnen sieben Jahren um 30% zurückgingen, und betonte, dass der Fokus nicht auf einem vollständigen Verbot, sondern auf dem Schutz von Minderheitsaktionären liegt. Die Kriterien dürften künftig über Ausnahmen und Schutzmaßnahmen entscheiden. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Double cotation: contrôle renforcé après la baisse de 30% observée au Japon",
+        "excerpt": "Les autorités financières et la Korea Exchange veulent finaliser au premier semestre la révision des règles et appliquer dès juillet un cadre de ‘principe d’interdiction, exceptions admises’.",
+        "body": "Les autorités financières et la Korea Exchange accélèrent la préparation de critères d’examen pour les doubles cotations. Elles prévoient de finaliser la révision des règles au premier semestre de cette année et de mettre en œuvre le dispositif dès juillet, selon une approche d’interdiction de principe avec exceptions possibles. Le texte original cite le Japon, où les doubles cotations ont chuté de 30% en sept ans, et indique que l’objectif porte sur la protection des actionnaires minoritaires plutôt que sur une interdiction totale. Ces critères devraient guider l’évaluation des exceptions et des protections offertes aux actionnaires. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "تشديد فحص الإدراج المزدوج مع تراجع اليابان 30% خلال سبع سنوات",
+        "excerpt": "تعتزم السلطات المالية وبورصة كوريا إنهاء تعديل قواعد الإدراج المزدوج في النصف الأول، وقد تطبق من يوليو إطار ‘الحظر من حيث المبدأ مع السماح بالاستثناءات’.",
+        "body": "تسرّع السلطات المالية وبورصة كوريا إعداد معايير فحص الإدراج المزدوج. وتخطط الجهات المعنية لإنهاء تعديل القواعد خلال النصف الأول من هذا العام، وبدء تطبيق النظام اعتبارا من يوليو على أقرب تقدير، وفق نهج يحظر الإدراج المزدوج من حيث المبدأ مع السماح بالاستثناءات. وذكر النص الأصلي أن الإدراجات المزدوجة في اليابان انخفضت 30% خلال سبع سنوات، موضحا أن تركيز السياسة ليس الحظر الكامل بل حماية مساهمي الأقلية. ومن المتوقع أن تصبح المعايير الجديدة أساسا لتقييم الاستثناءات ومدى كفاية إجراءات حماية المساهمين. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "दोहरी लिस्टिंग पर सख्त समीक्षा, जापान में 7 साल में 30% गिरावट पर नजर",
+        "excerpt": "वित्तीय प्राधिकरण और कोरिया एक्सचेंज इस वर्ष पहली छमाही में नियम संशोधन पूरा कर जुलाई से ‘सिद्धांततः प्रतिबंध, अपवाद की अनुमति’ वाला समीक्षा ढांचा लागू कर सकते हैं।",
+        "body": "वित्तीय प्राधिकरण और कोरिया एक्सचेंज दोहरी लिस्टिंग के लिए समीक्षा मानदंड तैयार करने में तेजी ला रहे हैं। योजना है कि इस वर्ष की पहली छमाही में नियम संशोधन पूरा किया जाए और जुलाई से जल्द से जल्द नई व्यवस्था लागू की जाए, जिसमें दोहरी लिस्टिंग को सिद्धांततः प्रतिबंधित रखते हुए अपवादों की अनुमति दी जाएगी। मूल रिपोर्ट ने जापान का उल्लेख किया, जहां सात वर्षों में दोहरी लिस्टिंग 30% घटी है, और बताया कि नीति का केंद्र पूर्ण प्रतिबंध नहीं बल्कि अल्पांश शेयरधारकों की सुरक्षा है। आगे ये मानदंड अपवादों और शेयरधारक सुरक्षा उपायों की पर्याप्तता तय करने का आधार बनेंगे। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kajian Dual Listing Diperketat, Kasus Jepang Turun 30% Jadi Sorotan",
+        "excerpt": "Otoritas keuangan dan Bursa Korea menargetkan revisi aturan rampung pada paruh pertama tahun ini dan dapat menerapkan kerangka ‘dilarang pada prinsipnya, pengecualian diizinkan’ mulai Juli.",
+        "body": "Otoritas keuangan dan Bursa Korea mempercepat penyusunan standar kajian untuk dual listing. Revisi aturan ditargetkan selesai pada paruh pertama tahun ini, dengan penerapan sistem paling cepat mulai Juli, memakai pendekatan bahwa dual listing dilarang pada prinsipnya namun pengecualian dapat diberikan. Naskah asli menyoroti Jepang, tempat dual listing turun 30% dalam tujuh tahun, serta menyebut fokus kebijakan bukan larangan total melainkan perlindungan pemegang saham minoritas. Ke depan, standar ini diperkirakan menjadi dasar utama untuk menilai pengecualian dan kecukupan perlindungan pemegang saham. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "422e8d86dca5",
+    "slug": "억만장자-etf로-부자-되세요-151499",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T11:19:18.630Z",
+    "updatedAt": "2026-05-13T11:19:18.630Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046454",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046454",
+    "titleFingerprint": "bbf6af432986e607deb0344096be6f9cfb3de1d7",
+    "dedupKeys": [
+      "422e8d86dca50ba873a24cc1f60d87a7349ebb19",
+      "bbf6af432986e607deb0344096be6f9cfb3de1d7",
+      "bd039054a667aa6d16863887a02fb558856b5114"
+    ],
+    "imageUrl": "/images/articles/422e8d86dca5.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 ETF 작명 경쟁 가열, ‘억만장자 ETF’처럼 정체성 앞세운 상품명 확산",
+        "excerpt": "미국 ETF 시장에서 운용사들이 투자 대상 지수 나열을 넘어 투자자 감성과 철학을 겨냥한 상품명으로 차별화 경쟁을 벌이고 있다.",
+        "body": "미국 상장지수펀드(ETF) 시장에서 상품의 정체성을 직접 드러내는 작명 경쟁이 뜨거워지고 있다. 과거에는 ETF 이름에 투자 대상 지수나 자산군을 나열하는 방식이 일반적이었지만, 최근에는 ‘억만장자 ETF’처럼 투자자의 감성과 투자 철학을 겨냥한 명칭이 속속 등장하고 있다. 이는 ETF 상품 수가 늘어나면서 투자자에게 한눈에 콘셉트를 전달하려는 흐름으로 풀이된다. 다만 원문 요약에는 개별 ETF의 운용 규모나 수익률 같은 구체 수치는 제시되지 않았다. 앞으로 ETF 시장에서는 수수료나 지수뿐 아니라 이름 자체가 상품 차별화의 중요한 요소로 부각될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US ETF Naming Race Heats Up as Funds Highlight Identity Like ‘Billionaire ETF’",
+        "excerpt": "In the US ETF market, issuers are moving beyond listing benchmark indexes and using names aimed at investor sentiment and investment philosophy.",
+        "body": "A naming race is intensifying in the US exchange-traded fund market as products increasingly display their identity directly through their names. In the past, ETF names commonly listed the target index or asset class, but newer products are appearing with labels such as “Billionaire ETF,” aimed at investor emotion and investment philosophy. The trend reflects efforts to communicate a fund’s concept at a glance as the number of ETF products grows. The original summary did not provide specific figures such as assets under management or returns for individual ETFs. Going forward, names themselves may become a key point of differentiation alongside fees and indexes in the ETF market. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米ETFの命名競争が過熱、「億万長者ETF」など商品性を前面に",
+        "excerpt": "米国ETF市場で、運用会社は指数名の羅列を超え、投資家心理や投資哲学に訴える商品名で差別化を進めている。",
+        "body": "米国の上場投資信託（ETF）市場で、商品の個性を直接示す命名競争が熱を帯びている。従来はETF名に投資対象の指数や資産クラスを並べる方式が一般的だったが、最近は「億万長者ETF」のように投資家の感情や投資哲学を意識した名称が相次いで登場している。ETF商品の数が増えるなか、投資家にコンセプトを一目で伝えようとする動きとみられる。ただし原文の要約では、個別ETFの運用資産や収益率など具体的な数値は示されていない。今後のETF市場では、手数料や指数だけでなく、名称そのものも商品の差別化要素として重要性を増しそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国ETF命名竞争升温，“亿万富翁ETF”等突出产品身份",
+        "excerpt": "美国ETF市场中，发行方正从罗列跟踪指数转向用瞄准投资者情绪和投资理念的名称来实现差异化。",
+        "body": "美国交易所交易基金（ETF）市场中，直接凸显产品身份的命名竞争正在升温。过去，ETF名称通常会列出投资对象指数或资产类别；但近期，类似“亿万富翁ETF”这样瞄准投资者情绪和投资理念的名称陆续出现。随着ETF产品数量增加，发行方希望让投资者一眼理解产品概念，这一趋势因此受到关注。不过，原文摘要并未提供个别ETF的资产管理规模或收益率等具体数据。展望未来，在ETF市场中，除费用和指数外，名称本身也可能成为产品差异化的重要因素。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Se intensifica la carrera de nombres en ETF de EE. UU. con fondos como ‘Billionaire ETF’",
+        "excerpt": "En el mercado estadounidense de ETF, los emisores dejan atrás la simple lista de índices y usan nombres dirigidos a la emoción y filosofía inversora.",
+        "body": "En el mercado estadounidense de fondos cotizados (ETF), se intensifica la competencia por nombres que revelen de forma directa la identidad del producto. Antes era habitual que el nombre de un ETF enumerara el índice o la clase de activo objetivo, pero ahora aparecen cada vez más denominaciones como “Billionaire ETF”, orientadas a la sensibilidad del inversor y a una filosofía de inversión. La tendencia refleja el intento de comunicar el concepto del fondo de un vistazo a medida que crece el número de ETF. El resumen original no ofreció cifras concretas, como activos bajo gestión o rentabilidad de fondos individuales. En adelante, el nombre podría ganar peso como factor de diferenciación junto con las comisiones y los índices. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Disputa por nomes de ETFs nos EUA cresce com fundos como ‘Billionaire ETF’",
+        "excerpt": "No mercado americano de ETFs, gestoras deixam de apenas listar índices e adotam nomes voltados à emoção e à filosofia de investimento.",
+        "body": "No mercado americano de fundos negociados em bolsa (ETFs), cresce a disputa por nomes que expressem diretamente a identidade do produto. No passado, era comum que o nome de um ETF listasse o índice ou a classe de ativos de referência, mas agora surgem denominações como “Billionaire ETF”, voltadas ao sentimento do investidor e à filosofia de investimento. A tendência mostra uma tentativa de comunicar o conceito do fundo de imediato, em meio ao aumento do número de ETFs disponíveis. O resumo original não apresentou dados específicos, como patrimônio sob gestão ou retorno de fundos individuais. Daqui em diante, o nome em si pode se tornar um fator relevante de diferenciação, ao lado de taxas e índices. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-ETF-Namenswettbewerb nimmt Fahrt auf, Fonds wie ‘Billionaire ETF’ setzen auf Identität",
+        "excerpt": "Im US-ETF-Markt gehen Anbieter über Indexlisten hinaus und nutzen Namen, die Anlegergefühle und Investmentphilosophien gezielt ansprechen.",
+        "body": "Im US-Markt für börsengehandelte Fonds (ETFs) verschärft sich der Wettbewerb um Namen, die die Identität eines Produkts direkt sichtbar machen. Früher war es üblich, im ETF-Namen den Zielindex oder die Anlageklasse aufzuzählen. Inzwischen treten jedoch zunehmend Bezeichnungen wie „Billionaire ETF“ auf, die auf Anlegeremotionen und eine bestimmte Investmentphilosophie zielen. Der Trend zeigt den Versuch, bei einer wachsenden Zahl von ETF-Produkten das Konzept auf einen Blick zu vermitteln. Die ursprüngliche Zusammenfassung nannte keine konkreten Zahlen wie verwaltetes Vermögen oder Renditen einzelner ETFs. Künftig dürfte der Name selbst neben Gebühren und Indexauswahl zu einem wichtigen Differenzierungsmerkmal werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La bataille des noms d’ETF s’intensifie aux États-Unis avec des fonds comme ‘Billionaire ETF’",
+        "excerpt": "Sur le marché américain des ETF, les émetteurs dépassent la simple mention des indices pour viser les émotions et la philosophie des investisseurs.",
+        "body": "Sur le marché américain des fonds négociés en Bourse (ETF), la concurrence autour des noms mettant directement en avant l’identité des produits s’intensifie. Autrefois, les noms d’ETF se limitaient souvent à énumérer l’indice suivi ou la classe d’actifs. Désormais, des appellations comme « Billionaire ETF » apparaissent, visant les émotions des investisseurs et une philosophie d’investissement. Cette tendance traduit la volonté de faire comprendre le concept d’un fonds en un coup d’œil alors que le nombre d’ETF augmente. Le résumé original ne fournit pas de chiffres précis, tels que les actifs sous gestion ou les performances de fonds individuels. À l’avenir, le nom lui-même pourrait devenir un facteur important de différenciation, aux côtés des frais et des indices. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "احتدام سباق أسماء صناديق ETF الأمريكية مع بروز منتجات مثل ‘Billionaire ETF’",
+        "excerpt": "في سوق صناديق ETF الأمريكية، ينتقل المصدرون من سرد المؤشرات إلى أسماء تستهدف مشاعر المستثمرين وفلسفة الاستثمار.",
+        "body": "يشهد سوق الصناديق المتداولة في البورصة الأمريكية (ETF) منافسة متزايدة في اختيار أسماء تكشف هوية المنتج بشكل مباشر. في السابق، كان من الشائع أن تتضمن أسماء صناديق ETF المؤشر المستهدف أو فئة الأصول، لكن أسماء مثل “Billionaire ETF” بدأت تظهر لاستهداف مشاعر المستثمرين وفلسفة الاستثمار. يعكس هذا الاتجاه محاولة إيصال فكرة الصندوق بسرعة مع تزايد عدد منتجات ETF في السوق. ولم يقدم الملخص الأصلي أرقاما محددة مثل حجم الأصول المدارة أو عوائد صناديق بعينها. ومن المتوقع أن يصبح الاسم نفسه عاملا مهما في تمييز المنتجات، إلى جانب الرسوم والمؤشرات. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी ETF नामकरण की होड़ तेज, ‘Billionaire ETF’ जैसे नामों से पहचान पर जोर",
+        "excerpt": "अमेरिकी ETF बाजार में जारीकर्ता अब केवल सूचकांक गिनाने के बजाय निवेशक भावना और निवेश दर्शन को लक्ष्य करने वाले नाम अपना रहे हैं।",
+        "body": "अमेरिकी एक्सचेंज-ट्रेडेड फंड (ETF) बाजार में ऐसे नामों की प्रतिस्पर्धा तेज हो रही है जो उत्पाद की पहचान को सीधे सामने रखते हैं। पहले ETF के नाम में निवेश लक्ष्य सूचकांक या एसेट क्लास को सूचीबद्ध करना आम था, लेकिन अब “Billionaire ETF” जैसे नाम सामने आ रहे हैं, जो निवेशक भावना और निवेश दर्शन को ध्यान में रखते हैं। ETF उत्पादों की संख्या बढ़ने के बीच यह रुझान निवेशकों को फंड की अवधारणा तुरंत समझाने की कोशिश के रूप में देखा जा रहा है। मूल सारांश में अलग-अलग ETF के प्रबंधनाधीन परिसंपत्ति आकार या रिटर्न जैसे ठोस आंकड़े नहीं दिए गए। आगे ETF बाजार में शुल्क और सूचकांक के साथ नाम भी उत्पाद भेदभाव का महत्वपूर्ण तत्व बन सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Persaingan Nama ETF AS Makin Panas, ‘Billionaire ETF’ Tonjolkan Identitas Produk",
+        "excerpt": "Di pasar ETF Amerika Serikat, penerbit mulai melampaui daftar indeks dan memakai nama yang menyasar emosi serta filosofi investasi investor.",
+        "body": "Di pasar exchange-traded fund (ETF) Amerika Serikat, persaingan penamaan yang langsung menampilkan identitas produk semakin memanas. Dahulu, nama ETF umumnya mencantumkan indeks target investasi atau kelas aset, tetapi kini mulai muncul nama seperti “Billionaire ETF” yang menyasar emosi investor dan filosofi investasi. Tren ini dipahami sebagai upaya menyampaikan konsep produk secara sekilas seiring bertambahnya jumlah ETF di pasar. Ringkasan asli tidak menyajikan angka spesifik seperti dana kelolaan atau imbal hasil ETF tertentu. Ke depan, nama produk sendiri dapat menjadi faktor pembeda penting di pasar ETF, selain biaya dan indeks acuan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "27348ea0fd77",
+    "slug": "은행원-말고-증권맨-사위-없나미래에셋그룹-시총-신한지주-추월했다-433508",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T11:18:18.500Z",
+    "updatedAt": "2026-05-13T11:18:18.500Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046625",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046625",
+    "titleFingerprint": "1763f544e50a827e8d1efbd4bca2ae5c7b382413",
+    "dedupKeys": [
+      "27348ea0fd77046463702dda5bf749b7329b8afd",
+      "1763f544e50a827e8d1efbd4bca2ae5c7b382413",
+      "b256a1ed66dcc624185eba27d91898bdb47702fd"
+    ],
+    "imageUrl": "/images/articles/27348ea0fd77.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미래에셋그룹 시총, 신한지주 추월…저축에서 투자로 바뀐 금융 판도",
+        "excerpt": "증시 활황과 거래대금 급증 속에서 미래에셋그룹 시가총액이 신한지주를 넘어섰고, 증권업 재평가와 주요 증권사 강세가 금융권 판도 변화를 드러냈다.",
+        "body": "증시 활황과 거래대금 증가가 맞물리며 미래에셋그룹의 시가총액이 신한지주를 추월했다. 저축 중심에서 투자 중심으로 금융 소비 흐름이 이동하면서 증권사의 시장 가치가 크게 부각된 결과다. 한국투자증권, 삼성증권, NH투자증권 등 주요 증권사도 강세를 보인 반면 KB·신한·하나지주 등 은행계 금융지주는 주춤한 흐름을 나타냈다. 거래대금 폭증은 증권사 이익 증가로 이어졌고, 자산관리 등 수익원 다변화도 재평가 요인으로 거론된다. 금융권의 무게중심이 은행에서 증권으로 이동하는 흐름이 이어질지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mirae Asset Market Cap Overtakes Shinhan as Investment-Led Finance Gains Ground",
+        "excerpt": "Amid a strong stock market and surging trading value, Mirae Asset Group’s market capitalization surpassed Shinhan Financial Group, highlighting a broader revaluation of securities firms.",
+        "body": "Mirae Asset Group’s market capitalization has overtaken Shinhan Financial Group as a buoyant stock market and rising trading value lift the securities industry. The shift reflects a broader move in financial behavior from savings toward investment, which has pushed up the market value of brokerage firms. Korea Investment & Securities, Samsung Securities and NH Investment & Securities also showed strength, while bank-centered financial groups such as KB, Shinhan and Hana were relatively sluggish. The surge in trading value has boosted securities firms’ earnings, and diversified revenue sources such as wealth management are also being cited as factors behind the revaluation. Attention is turning to whether the financial sector’s center of gravity will keep moving from banks to securities firms. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "未来アセット時価総額が新韓持株を逆転、貯蓄から投資へ金融勢力図が変化",
+        "excerpt": "株式市場の活況と売買代金の急増を背景に、未来アセットグループの時価総額が新韓持株を上回り、証券業の再評価が鮮明になった。",
+        "body": "株式市場の活況と売買代金の増加が重なり、未来アセットグループの時価総額が新韓持株を上回った。貯蓄中心から投資中心へと金融消費の流れが移るなか、証券会社の市場価値が大きく注目された結果だ。韓国投資証券、サムスン証券、NH投資証券など主要証券会社も堅調だった一方、KB・新韓・ハナ持株など銀行系金融持株は伸び悩んだ。売買代金の急増は証券会社の利益拡大につながり、資産管理など収益源の多角化も再評価要因として挙げられる。金融業界の重心が銀行から証券へ移る流れが続くか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "未来资产集团市值超过新韩金融，储蓄转向投资改写金融格局",
+        "excerpt": "在股市活跃和成交额激增背景下，未来资产集团市值超过新韩金融集团，证券行业重新估值与主要券商走强受到关注。",
+        "body": "随着股市走强和成交额增加，未来资产集团的市值已超过新韩金融集团。这一变化反映出金融消费从储蓄中心转向投资中心，证券公司的市场价值因此更加突出。韩国投资证券、三星证券、NH投资证券等主要券商表现强劲，而KB、新韩、韩亚等银行系金融控股公司则相对放缓。成交额激增带动证券公司利润增长，资产管理等收入来源多元化也被视为重新估值的因素。市场正关注金融业重心是否会继续从银行转向证券公司。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Mirae Asset supera a Shinhan en valor bursátil y evidencia el giro del ahorro a la inversión",
+        "excerpt": "Con el mercado accionario en auge y el fuerte aumento del volumen negociado, Mirae Asset Group superó a Shinhan Financial Group en capitalización bursátil.",
+        "body": "La capitalización bursátil de Mirae Asset Group superó a la de Shinhan Financial Group en medio de un mercado accionario activo y un aumento del valor negociado. El cambio refleja el paso del ahorro hacia la inversión en el comportamiento financiero, lo que elevó la valoración de las firmas de valores. Korea Investment & Securities, Samsung Securities y NH Investment & Securities también mostraron fortaleza, mientras que los grupos financieros bancarios KB, Shinhan y Hana se mantuvieron más rezagados. El fuerte crecimiento del volumen negociado impulsó las ganancias de las casas de bolsa, y la diversificación de ingresos, incluida la gestión patrimonial, también se cita como factor de revaloración. El mercado observa si el peso del sector financiero seguirá moviéndose de los bancos a las firmas de valores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Mirae Asset supera Shinhan em valor de mercado e mostra avanço das corretoras",
+        "excerpt": "Com a bolsa em alta e o forte aumento do volume negociado, o valor de mercado do Mirae Asset Group superou o do Shinhan Financial Group.",
+        "body": "O valor de mercado do Mirae Asset Group superou o do Shinhan Financial Group em meio à valorização da bolsa e ao aumento do volume negociado. A mudança reflete a passagem de um padrão financeiro centrado na poupança para outro mais voltado ao investimento, elevando a avaliação das corretoras. Korea Investment & Securities, Samsung Securities e NH Investment & Securities também tiveram desempenho forte, enquanto grupos financeiros bancários como KB, Shinhan e Hana ficaram mais fracos. A explosão do volume negociado impulsionou os lucros das corretoras, e a diversificação de receitas, como gestão de patrimônio, também é apontada como fator de reavaliação. O mercado acompanha se o centro de gravidade financeiro continuará migrando dos bancos para as corretoras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Mirae Asset überholt Shinhan beim Börsenwert und zeigt den Wandel vom Sparen zum Investieren",
+        "excerpt": "Bei lebhaftem Aktienmarkt und stark gestiegenem Handelsvolumen hat Mirae Asset Group Shinhan Financial Group beim Börsenwert überholt.",
+        "body": "Die Marktkapitalisierung der Mirae Asset Group hat die von Shinhan Financial Group übertroffen, getragen von einem starken Aktienmarkt und wachsendem Handelsvolumen. Der Schritt zeigt, wie sich Finanzverhalten vom Sparen hin zum Investieren verschiebt und Wertpapierhäuser stärker bewertet werden. Auch Korea Investment & Securities, Samsung Securities und NH Investment & Securities zeigten Stärke, während banknahe Finanzgruppen wie KB, Shinhan und Hana verhaltener liefen. Der sprunghafte Anstieg des Handelsvolumens erhöhte die Gewinne der Wertpapierfirmen, und diversifizierte Erlösquellen wie Vermögensverwaltung gelten ebenfalls als Gründe für die Neubewertung. Nun richtet sich der Blick darauf, ob sich das Gewicht im Finanzsektor weiter von Banken zu Wertpapierhäusern verlagert. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Mirae Asset dépasse Shinhan en capitalisation et confirme le basculement vers l’investissement",
+        "excerpt": "Porté par la vigueur de la Bourse et la hausse des transactions, Mirae Asset Group a dépassé Shinhan Financial Group en capitalisation boursière.",
+        "body": "La capitalisation boursière de Mirae Asset Group a dépassé celle de Shinhan Financial Group grâce à un marché actions dynamique et à la hausse des volumes échangés. Cette évolution reflète le passage d’une finance centrée sur l’épargne à une finance davantage tournée vers l’investissement, ce qui renforce la valeur des sociétés de courtage. Korea Investment & Securities, Samsung Securities et NH Investment & Securities ont aussi progressé, tandis que les groupes financiers bancaires KB, Shinhan et Hana ont marqué le pas. L’explosion des transactions a soutenu les bénéfices des sociétés de valeurs mobilières, et la diversification des revenus, notamment la gestion d’actifs, est également citée comme facteur de revalorisation. Le marché observe si le centre de gravité financier continuera de se déplacer des banques vers les courtiers. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "القيمة السوقية لمجموعة ميراى أسيت تتجاوز شينهان مع صعود شركات الوساطة",
+        "excerpt": "وسط انتعاش سوق الأسهم وقفزة في قيم التداول، تجاوزت القيمة السوقية لمجموعة ميراى أسيت شينهان المالية، ما أبرز إعادة تقييم قطاع الأوراق المالية.",
+        "body": "تجاوزت القيمة السوقية لمجموعة ميراى أسيت القيمة السوقية لمجموعة شينهان المالية مع انتعاش سوق الأسهم وزيادة قيم التداول. ويعكس ذلك انتقال السلوك المالي من الادخار إلى الاستثمار، ما رفع مكانة شركات الأوراق المالية في السوق. كما أظهرت Korea Investment & Securities وSamsung Securities وNH Investment & Securities أداء قويا، بينما تباطأت مجموعات مالية مصرفية مثل KB وشينهان وهانا. وأسهمت القفزة في قيم التداول في زيادة أرباح شركات الوساطة، كما تُذكر إدارة الأصول وتنويع مصادر الدخل كعوامل لإعادة التقييم. وتتركز الأنظار على ما إذا كان مركز الثقل المالي سيواصل الانتقال من البنوك إلى شركات الأوراق المالية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "मिराए एसेट का बाजार मूल्य शिनहान से आगे, बचत से निवेश की ओर बदला रुझान",
+        "excerpt": "तेज शेयर बाजार और ट्रेडिंग वैल्यू में उछाल के बीच मिराए एसेट ग्रुप का बाजार पूंजीकरण शिनहान फाइनेंशियल ग्रुप से आगे निकल गया।",
+        "body": "शेयर बाजार की तेजी और ट्रेडिंग वैल्यू में बढ़ोतरी के बीच मिराए एसेट ग्रुप का बाजार पूंजीकरण शिनहान फाइनेंशियल ग्रुप से आगे निकल गया। यह बदलाव दिखाता है कि वित्तीय उपभोग बचत केंद्रित मॉडल से निवेश केंद्रित मॉडल की ओर बढ़ रहा है, जिससे सिक्योरिटीज कंपनियों का बाजार मूल्य उभरा है। Korea Investment & Securities, Samsung Securities और NH Investment & Securities जैसी प्रमुख कंपनियां भी मजबूत रहीं, जबकि KB, Shinhan और Hana जैसे बैंकिंग वित्तीय समूह सुस्त दिखे। ट्रेडिंग वैल्यू में तेज वृद्धि से सिक्योरिटीज कंपनियों के लाभ बढ़े, और वेल्थ मैनेजमेंट जैसे विविध राजस्व स्रोतों को भी पुनर्मूल्यांकन का कारण बताया गया। अब ध्यान इस पर है कि वित्तीय क्षेत्र का केंद्र बैंकों से सिक्योरिटीज कंपनियों की ओर आगे भी खिसकेगा या नहीं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kapitalisasi Mirae Asset Lampaui Shinhan, Tren Keuangan Bergeser ke Investasi",
+        "excerpt": "Di tengah pasar saham yang ramai dan lonjakan nilai transaksi, kapitalisasi pasar Mirae Asset Group melampaui Shinhan Financial Group.",
+        "body": "Kapitalisasi pasar Mirae Asset Group melampaui Shinhan Financial Group seiring menguatnya pasar saham dan naiknya nilai transaksi. Perubahan ini mencerminkan pergeseran perilaku keuangan dari tabungan menuju investasi, sehingga nilai pasar perusahaan sekuritas semakin menonjol. Korea Investment & Securities, Samsung Securities, dan NH Investment & Securities juga menguat, sementara grup keuangan berbasis perbankan seperti KB, Shinhan, dan Hana cenderung tertahan. Lonjakan nilai transaksi mendorong kenaikan laba perusahaan sekuritas, dan diversifikasi sumber pendapatan seperti manajemen aset juga disebut sebagai faktor revaluasi. Pasar kini mencermati apakah pusat gravitasi sektor keuangan akan terus bergeser dari bank ke perusahaan sekuritas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "2e49de1bd60a",
     "slug": "삼전닉스-쏠림황제株-등장에-코스피-거래량-줄어도-대금-쑥-417191",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Anjlok 5%, Pernyataan Dividen AI Kim Yong-beom Jadi Sorotan",
         "excerpt": "Bloomberg menyebut penurunan intraday KOSPI lebih dari 5% pada tanggal 12 terkait pernyataan Kim Yong-beom soal pemulihan laba berlebih AI, kebingungan kebijakan, dan melemahnya sentimen investor.",
         "body": "Bloomberg melaporkan pada tanggal 12 bahwa pernyataan Kim Yong-beom, kepala kebijakan kantor kepresidenan, tentang “dividen publik AI” mungkin memengaruhi sentimen investor saat KOSPI turun lebih dari 5% dalam perdagangan intraday. Menurut laporan asli, KOSPI sempat naik hingga 7999.67 pada sesi tersebut sebelum jatuh lebih dari 5%. Media asing itu menilai rujukan Kim pada pemulihan “laba berlebih AI” dibaca sebagai kebingungan kebijakan, sehingga meningkatkan kegelisahan pasar. Setelah itu, Kim berupaya menjelaskan bahwa pernyataan tersebut bukan dimaksudkan sebagai pajak keuntungan tak terduga. Kontroversi ini dapat memengaruhi sentimen pasar saham domestik dan pengelolaan pesan kebijakan ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "5202cae1f63f",
-    "slug": "소비-양극화에백화점편의점-못-따라잡은-이마트-주가-849842",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T18:36:15.555Z",
-    "updatedAt": "2026-05-12T18:36:15.556Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044742",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044742",
-    "titleFingerprint": "783485ce0a068d43e63647d20808cf1e674f4117",
-    "dedupKeys": [
-      "5202cae1f63fe3c3bd0c338039cfe50438382941",
-      "783485ce0a068d43e63647d20808cf1e674f4117",
-      "dc4947bb94c67fd5c6810c7620fd7b2189186797"
-    ],
-    "imageUrl": "/images/articles/5202cae1f63f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "이마트 주가 5%대 급락, 소비 양극화 속 대형마트만 부진",
-        "excerpt": "이마트 주가가 올해 1분기 실적 발표를 하루 앞두고 5%대 급락했다. 소비 양극화가 이어지며 백화점·편의점 주가가 강세를 보인 반면 대형마트는 뒤처졌다.",
-        "body": "이마트 주가가 올해 1분기 실적 발표를 하루 앞두고 하루 만에 5%대 급락했다. 소비 양극화가 이어지면서 유통주 안에서도 업종별 흐름이 갈렸다. 백화점과 편의점 관련 주가는 강세를 보였지만, 대형마트 대표주인 이마트는 이를 따라잡지 못했다. 원문은 유통주 가운데 유독 대형마트 주가가 부진했다고 전했다. 투자자들은 실적 발표를 앞두고 대형마트 사업의 성장성과 소비 흐름 변화를 주시하는 분위기다. 이번 하락은 고가 소비와 근거리·소량 구매 수요가 부각되는 시장에서 대형마트가 상대적으로 약한 평가를 받고 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "E-Mart Shares Drop Over 5% as Hypermarkets Lag Retail Rally",
-        "excerpt": "E-Mart shares fell more than 5% a day before its first-quarter earnings release, trailing department store and convenience store stocks amid polarized consumption trends.",
-        "body": "E-Mart shares plunged more than 5% in a single day, one day before the company’s first-quarter earnings announcement. The move highlighted a split within retail stocks as consumer spending remains polarized. Department store and convenience store shares showed strength, while E-Mart, a leading hypermarket name, failed to keep pace. The original report said hypermarket stocks were notably weak among retail names. Investors are watching whether the upcoming earnings results will confirm concerns about large-format discount stores and changing consumption patterns. The decline suggests the market is assigning a weaker valuation to hypermarkets as premium spending and nearby small-basket purchases gain attention. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "イーマート株が5％超急落、消費二極化で大型スーパーが出遅れ",
-        "excerpt": "イーマート株は第1四半期決算発表を翌日に控え、1日で5％超下落した。消費二極化の中、百貨店・コンビニ株が強い一方で大型スーパーは劣勢となった。",
-        "body": "イーマート株は今年第1四半期の決算発表を翌日に控え、1日で5％台の急落となった。消費の二極化が続く中、流通株の中でも業態ごとに株価の流れが分かれた。百貨店やコンビニ関連株は堅調だった一方、大型スーパーを代表するイーマートはその流れについていけなかった。原文は、流通株の中で特に大型スーパー株が不振だったと伝えている。投資家は決算発表を前に、大型スーパー事業の成長性と消費動向の変化を注視している。今回の下落は、高額消費や近距離・少量購入需要が目立つ市場で、大型スーパーが相対的に弱い評価を受けていることを示す。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "易买得股价重挫逾5%，消费分化下大型超市掉队",
-        "excerpt": "易买得股价在今年一季度业绩发布前一日单日下跌逾5%。在消费分化持续的背景下，百货店和便利店股价走强，大型超市表现落后。",
-        "body": "易买得股价在今年第一季度业绩发布前一天，单日重挫5%以上。随着消费分化持续，零售股内部也出现不同走势。百货店和便利店相关股票表现强势，但作为大型超市代表的易买得未能跟上。原文称，在零售股中，大型超市股价尤其低迷。投资者在业绩发布前关注大型超市业务的增长性以及消费趋势变化。此次下跌显示，在高端消费和近距离、小额购买需求受到关注的市场中，大型超市正受到相对偏弱的评价。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "E-Mart cae más del 5% mientras hipermercados quedan rezagados",
-        "excerpt": "Las acciones de E-Mart cayeron más del 5% un día antes de sus resultados del primer trimestre, mientras grandes almacenes y tiendas de conveniencia avanzan por la polarización del consumo.",
-        "body": "Las acciones de E-Mart se desplomaron más del 5% en una sola jornada, un día antes de la publicación de sus resultados del primer trimestre. La caída reflejó la divergencia dentro del sector minorista ante la persistente polarización del consumo. Las acciones vinculadas a grandes almacenes y tiendas de conveniencia mostraron fortaleza, mientras E-Mart, representante de los hipermercados, no logró seguir ese ritmo. El informe original señaló que los hipermercados fueron especialmente débiles entre los valores minoristas. Los inversores observan si los resultados confirmarán las dudas sobre el crecimiento del negocio y los cambios en los hábitos de consumo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "E-Mart cai mais de 5% com hipermercados atrás no varejo",
-        "excerpt": "As ações da E-Mart recuaram mais de 5% na véspera dos resultados do primeiro trimestre, enquanto lojas de departamento e conveniência avançam com a polarização do consumo.",
-        "body": "As ações da E-Mart despencaram mais de 5% em um único dia, na véspera da divulgação dos resultados do primeiro trimestre. O movimento evidenciou a divisão entre ações do varejo, em meio à continuidade da polarização do consumo. Papéis ligados a lojas de departamento e lojas de conveniência mostraram força, enquanto a E-Mart, representante dos hipermercados, não conseguiu acompanhar. A reportagem original destacou que, entre as ações de varejo, os hipermercados tiveram desempenho particularmente fraco. Investidores acompanham se os resultados confirmarão preocupações sobre crescimento e mudanças nos padrões de consumo. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "E-Mart-Aktie fällt über 5%, Hypermärkte hinken Einzelhandel hinterher",
-        "excerpt": "Die E-Mart-Aktie fiel einen Tag vor den Zahlen zum ersten Quartal um mehr als 5%. Während Kaufhaus- und Convenience-Store-Aktien zulegten, blieben Hypermärkte zurück.",
-        "body": "Die Aktie von E-Mart brach an einem Tag um mehr als 5% ein, unmittelbar vor der Veröffentlichung der Ergebnisse für das erste Quartal. Der Rückgang zeigt die unterschiedliche Entwicklung innerhalb der Einzelhandelswerte, da die Polarisierung des Konsums anhält. Aktien von Kaufhäusern und Convenience-Stores zeigten Stärke, während E-Mart als führender Hypermarktwert nicht mithalten konnte. Der Originalbericht schrieb, dass gerade Hypermarkt-Aktien unter den Einzelhandelswerten schwach waren. Anleger achten nun darauf, ob die Zahlen Sorgen über Wachstum und veränderte Konsummuster bestätigen. Die Schwäche deutet auf eine zurückhaltendere Bewertung großer Märkte hin. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "E-Mart chute de plus de 5%, les hypermarchés à la traîne en Bourse",
-        "excerpt": "L’action E-Mart a perdu plus de 5% la veille de ses résultats du premier trimestre, alors que les valeurs des grands magasins et supérettes profitent de la polarisation de la consommation.",
-        "body": "L’action E-Mart a chuté de plus de 5% en une seule séance, à la veille de la publication de ses résultats du premier trimestre. Ce recul illustre la divergence entre valeurs de distribution alors que la polarisation de la consommation se poursuit. Les actions liées aux grands magasins et aux supérettes ont montré de la vigueur, tandis qu’E-Mart, représentatif des hypermarchés, n’a pas suivi. L’article d’origine indique que les hypermarchés se sont particulièrement distingués par leur faiblesse parmi les valeurs de détail. Les investisseurs surveillent si les résultats confirmeront les inquiétudes sur la croissance et l’évolution des habitudes d’achat. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم إي-مارت يهبط بأكثر من 5% مع تخلف المتاجر الكبرى عن قطاع التجزئة",
-        "excerpt": "هبط سهم إي-مارت بأكثر من 5% قبل يوم من إعلان نتائج الربع الأول، بينما أظهرت أسهم المتاجر متعددة الأقسام ومتاجر الراحة قوة وسط استمرار انقسام الاستهلاك.",
-        "body": "تراجع سهم إي-مارت بأكثر من 5% في يوم واحد، وذلك قبل يوم من إعلان نتائج الربع الأول لهذا العام. ويعكس الهبوط تباينا داخل أسهم قطاع التجزئة مع استمرار انقسام أنماط الاستهلاك. فقد أظهرت أسهم المتاجر متعددة الأقسام ومتاجر الراحة أداء قويا، بينما لم يتمكن إي-مارت، بوصفه من أبرز أسهم المتاجر الكبرى، من مجاراة هذا الاتجاه. وذكر التقرير الأصلي أن أسهم المتاجر الكبرى كانت الأضعف بشكل لافت بين أسهم التجزئة. ويراقب المستثمرون ما إذا كانت النتائج المقبلة ستؤكد المخاوف بشأن نمو هذا النشاط وتغير سلوك المستهلكين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ई-मार्ट शेयर 5% से अधिक लुढ़का, खपत विभाजन में हाइपरमार्केट पिछड़े",
-        "excerpt": "ई-मार्ट का शेयर पहली तिमाही के नतीजों से एक दिन पहले 5% से अधिक गिरा। खपत में ध्रुवीकरण के बीच डिपार्टमेंट स्टोर और कन्वीनियंस स्टोर शेयर मजबूत रहे।",
-        "body": "ई-मार्ट का शेयर इस साल की पहली तिमाही के नतीजे घोषित होने से एक दिन पहले एक ही दिन में 5% से अधिक गिर गया। खपत में ध्रुवीकरण जारी रहने से खुदरा शेयरों के भीतर अलग-अलग रुझान दिखे। डिपार्टमेंट स्टोर और कन्वीनियंस स्टोर से जुड़े शेयर मजबूत रहे, लेकिन बड़े मार्ट का प्रतिनिधि माने जाने वाला ई-मार्ट उस तेजी के साथ नहीं चल सका। मूल रिपोर्ट के अनुसार, खुदरा शेयरों में खास तौर पर बड़े मार्ट वाले शेयर कमजोर रहे। निवेशक नतीजों से पहले बड़े मार्ट कारोबार की वृद्धि और बदलते उपभोग पैटर्न पर नजर रख रहे हैं। यह गिरावट बताती है कि बाजार में बड़े मार्ट को अपेक्षाकृत कमजोर आंका जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham E-Mart Anjlok Lebih 5%, Hypermarket Tertinggal di Ritel",
-        "excerpt": "Saham E-Mart turun lebih dari 5% sehari sebelum rilis kinerja kuartal I. Di tengah polarisasi konsumsi, saham department store dan minimarket menguat, sementara hypermarket tertinggal.",
-        "body": "Saham E-Mart anjlok lebih dari 5% dalam satu hari, tepat sebelum perusahaan merilis kinerja kuartal pertama tahun ini. Penurunan itu menunjukkan perbedaan arah di antara saham ritel saat polarisasi konsumsi berlanjut. Saham department store dan minimarket mencatat penguatan, tetapi E-Mart sebagai wakil utama hypermarket tidak mampu mengikuti. Laporan asli menyebut saham hypermarket tampak paling lemah di antara saham ritel. Investor mencermati apakah hasil kinerja akan menegaskan kekhawatiran soal pertumbuhan bisnis hypermarket dan perubahan pola konsumsi. Pelemahan ini menunjukkan pasar menilai hypermarket relatif kurang kuat dibanding format ritel lain. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "70784d5a3353",
-    "slug": "8천피-딱-1포인트-남았는데코스피-외국인-매도세에-7600대-하락-마감-686957",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T18:34:34.782Z",
-    "updatedAt": "2026-05-12T18:34:34.782Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044783",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044783",
-    "titleFingerprint": "41bb27e34c7595e9300b0364db2cef8edc1e362a",
-    "dedupKeys": [
-      "70784d5a3353fdd4ad10e339d84d07327eaa1102",
-      "41bb27e34c7595e9300b0364db2cef8edc1e362a",
-      "872d7899f93184351b2961a20b95d03669a43501"
-    ],
-    "imageUrl": "/images/articles/70784d5a3353.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7999 찍고 하락 마감, 외국인 매도에 7600대로 후퇴",
-        "excerpt": "12일 코스피가 장중 7999까지 오르며 전고점을 새로 썼지만 외국인 매도세에 하락 전환, 전일보다 2.29% 내린 7643.15로 마감했다.",
-        "body": "12일 코스피는 장중 한때 7999까지 오르며 전고점을 새로 썼지만, 외국인 매도세가 이어지며 하락 전환해 약세로 장을 마쳤다. 이날 코스피는 전일 대비 179.09포인트, 2.29% 내린 7643.15에 마감했다. 8000선까지 단 1포인트를 남겨둔 장중 흐름과 달리 종가는 7600대로 밀렸다. 지수는 새 고점 기록 이후 매도 압력에 방향을 바꾸며 투자심리에 부담을 남겼다. 향후 흐름은 외국인 수급 변화가 주요 변수로 지목된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Hits 7,999 Intraday, Then Falls to 7,600s on Foreign Selling",
-        "excerpt": "On May 12, the KOSPI briefly reached 7,999 and set a new high, but turned lower as foreign selling pushed it down 2.29% to close at 7,643.15.",
-        "body": "On May 12, the KOSPI briefly climbed to 7,999 during trading, setting a new previous high, but reversed course and ended weaker as foreign investors sold shares. The index closed at 7,643.15, down 179.09 points, or 2.29%, from the previous session. Although it came within just one point of the 8,000 mark intraday, the closing level retreated to the 7,600 range. The shift after the new high left pressure on investor sentiment. Future moves are expected to depend closely on changes in foreign investor flows. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、取引中に7999到達も下落終値　外国人売りで7600台へ",
-        "excerpt": "12日のKOSPIは一時7999まで上昇して過去高値を更新したが、外国人投資家の売りで反落し、前日比2.29%安の7643.15で終えた。",
-        "body": "12日のKOSPIは取引時間中に一時7999まで上昇し、過去高値を更新した。しかし外国人投資家の売りが続き、下落に転じて軟調に取引を終えた。この日のKOSPIは前日比179.09ポイント、2.29%安の7643.15で引けた。8000台まであと1ポイントに迫った場中の動きとは異なり、終値は7600台まで押し戻された。新高値を付けた後の売り圧力が投資心理の重荷となった。今後の相場は外国人需給の変化が主な変数とみられる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI盘中触及7999后回落，外资抛售拖累收于7600点区间",
-        "excerpt": "5月12日，KOSPI盘中一度升至7999并刷新前高，但在外资卖盘影响下转跌，较前一交易日下跌2.29%，收于7643.15。",
-        "body": "5月12日，KOSPI盘中一度上涨至7999，刷新此前高点，但随后在外资持续卖出影响下转为下跌，并以弱势收盘。当天KOSPI较前一交易日下跌179.09点，跌幅2.29%，收于7643.15。盘中距离8000点仅差1点，但收盘时回落至7600点区间。指数在创下新高后受到卖压影响，给投资情绪带来负担。后续走势中，外资资金流向变化将成为主要变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI toca 7.999 en la sesión y cae a los 7.600 por ventas extranjeras",
-        "excerpt": "El 12 de mayo, el KOSPI llegó brevemente a 7.999 y marcó un nuevo máximo, pero giró a la baja por ventas extranjeras y cerró con una caída del 2,29% en 7.643,15.",
-        "body": "El 12 de mayo, el KOSPI subió durante la sesión hasta 7.999 y renovó su máximo previo, pero cambió de dirección y cerró débil por la presión vendedora de inversores extranjeros. El índice terminó en 7.643,15, con una baja de 179,09 puntos, o 2,29%, frente a la jornada anterior. Aunque quedó a solo un punto de los 8.000 durante el día, el cierre retrocedió a la zona de los 7.600. La presión de venta tras el nuevo máximo pesó sobre el ánimo inversor. La evolución futura dependerá en gran medida de los cambios en los flujos extranjeros. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI chega a 7.999 no intradia e cai aos 7.600 com venda estrangeira",
-        "excerpt": "Em 12 de maio, o KOSPI tocou 7.999 e renovou a máxima anterior, mas virou para queda com vendas de estrangeiros e fechou em 7.643,15, baixa de 2,29%.",
-        "body": "Em 12 de maio, o KOSPI chegou a 7.999 durante o pregão e renovou a máxima anterior, mas reverteu a direção e encerrou em baixa diante da venda por investidores estrangeiros. O índice fechou em 7.643,15, queda de 179,09 pontos, ou 2,29%, ante a sessão anterior. Embora tenha ficado a apenas 1 ponto da marca de 8.000 no intradia, o fechamento recuou para a faixa dos 7.600. A pressão vendedora após o novo topo pesou sobre o sentimento dos investidores. A trajetória futura deve depender das mudanças no fluxo estrangeiro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI erreicht intraday 7.999 und fällt durch Auslandsverkäufe auf 7.600er",
-        "excerpt": "Am 12. Mai stieg der KOSPI zeitweise auf 7.999 und markierte ein neues Hoch, drehte aber wegen Verkäufen ausländischer Anleger ins Minus und schloss 2,29% tiefer bei 7.643,15.",
-        "body": "Am 12. Mai kletterte der KOSPI im Handelsverlauf zeitweise auf 7.999 und erreichte damit ein neues vorheriges Hoch. Anschließend drehte der Index jedoch wegen anhaltender Verkäufe ausländischer Anleger nach unten und schloss schwächer. Der KOSPI beendete den Tag bei 7.643,15 Punkten, 179,09 Punkte oder 2,29% unter dem Vortag. Obwohl er intraday nur 1 Punkt von der Marke 8.000 entfernt war, fiel der Schlussstand in den Bereich der 7.600er zurück. Der Verkaufsdruck nach dem neuen Hoch belastete die Anlegerstimmung. Entscheidend bleibt die Entwicklung der ausländischen Kapitalflüsse. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI touche 7 999 en séance puis retombe vers 7 600 avec les ventes étrangères",
-        "excerpt": "Le 12 mai, le KOSPI a brièvement atteint 7 999 et inscrit un nouveau sommet, avant de reculer sous l’effet des ventes étrangères et de clôturer à 7 643,15, en baisse de 2,29%.",
-        "body": "Le 12 mai, le KOSPI a brièvement grimpé à 7 999 en séance, inscrivant un nouveau sommet précédent, mais il s’est retourné à la baisse et a terminé affaibli sous l’effet des ventes d’investisseurs étrangers. L’indice a clôturé à 7 643,15, en recul de 179,09 points, soit 2,29%, par rapport à la veille. Alors qu’il n’était plus qu’à 1 point du seuil des 8 000 en cours de séance, la clôture est revenue dans la zone des 7 600. La pression vendeuse après ce nouveau sommet a pesé sur le sentiment de marché. La suite dépendra surtout de l’évolution des flux étrangers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يلامس 7999 ثم يتراجع إلى نطاق 7600 بفعل مبيعات الأجانب",
-        "excerpt": "في 12 مايو، صعد كوسبي مؤقتا إلى 7999 مسجلا قمة جديدة، لكنه تحول للهبوط مع مبيعات المستثمرين الأجانب وأغلق منخفضا 2.29% عند 7643.15.",
-        "body": "في 12 مايو، ارتفع مؤشر كوسبي خلال الجلسة إلى 7999 نقطة مسجلا قمة سابقة جديدة، لكنه تحول لاحقا إلى الهبوط وأنهى التداولات على ضعف مع استمرار مبيعات المستثمرين الأجانب. أغلق المؤشر عند 7643.15 نقطة، منخفضا 179.09 نقطة أو 2.29% عن الجلسة السابقة. ورغم أنه اقترب خلال التداولات من مستوى 8000 بفارق نقطة واحدة فقط، فإن الإغلاق تراجع إلى نطاق 7600. ضغط البيع بعد تسجيل القمة الجديدة ترك عبئا على معنويات المستثمرين. وتبقى تغيرات تدفقات الأجانب عاملا رئيسيا في المسار المقبل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI इंट्राडे 7,999 छूकर फिसला, विदेशी बिकवाली से 7,600 दायरे में बंद",
-        "excerpt": "12 मई को KOSPI ने कारोबार के दौरान 7,999 तक पहुंचकर नया उच्च स्तर बनाया, लेकिन विदेशी बिकवाली से पलटकर 2.29% गिरते हुए 7,643.15 पर बंद हुआ।",
-        "body": "12 मई को KOSPI कारोबार के दौरान एक समय 7,999 तक चढ़ा और अपना पिछला उच्च स्तर पार कर गया, लेकिन विदेशी निवेशकों की बिकवाली जारी रहने से सूचकांक गिरावट में बदल गया और कमजोर बंद हुआ। 이날 सूचकांक पिछले सत्र से 179.09 अंक, यानी 2.29%, नीचे 7,643.15 पर बंद हुआ। दिन में 8,000 के स्तर से यह सिर्फ 1 अंक दूर था, लेकिन बंद होते समय 7,600 के दायरे में लौट आया। नए उच्च स्तर के बाद बिकवाली के दबाव ने निवेशक धारणा पर बोझ डाला। आगे की चाल में विदेशी निवेश प्रवाह का बदलाव मुख्य कारक माना जाएगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Sempat Sentuh 7.999 Lalu Turun ke 7.600-an karena Jual Asing",
-        "excerpt": "Pada 12 Mei, KOSPI sempat mencapai 7.999 dan mencetak rekor tertinggi baru, tetapi berbalik turun akibat aksi jual asing dan ditutup melemah 2,29% di 7.643,15.",
-        "body": "Pada 12 Mei, KOSPI sempat naik ke 7.999 dalam perdagangan intraday dan memperbarui level tertinggi sebelumnya, tetapi kemudian berbalik melemah karena tekanan jual investor asing. Indeks ditutup di 7.643,15, turun 179,09 poin atau 2,29% dibanding sesi sebelumnya. Meski sempat hanya berjarak 1 poin dari level 8.000, posisi penutupan mundur ke kisaran 7.600. Tekanan jual setelah rekor baru tersebut membebani sentimen investor. Pergerakan berikutnya akan sangat dipengaruhi perubahan arus dana asing. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0f521b9547dc",
-    "slug": "1만피-간다는데-조정-오면-땡큐지외국인-매도폭탄에-줍줍-나선-개미들-905381",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T18:32:51.451Z",
-    "updatedAt": "2026-05-12T18:32:51.451Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12044792",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12044792",
-    "titleFingerprint": "762f5c047e50ad7a1e88c5ca22d377be7294fbd3",
-    "dedupKeys": [
-      "0f521b9547dc74d9df7ee527ad340414fb7386fe",
-      "762f5c047e50ad7a1e88c5ca22d377be7294fbd3",
-      "a77dd7e3baf718ddb04173b2f33042446c1a39db"
-    ],
-    "imageUrl": "/images/articles/0f521b9547dc.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7640선 조정에 개인 매수 확대…외국인 반도체·자동차 매도",
-        "excerpt": "외국인 투자자들이 반도체와 자동차를 중심으로 대규모 차익실현 매도에 나서 코스피가 7640선까지 밀리자, 개인 투자자들은 이를 매수 기회로 판단했다.",
-        "body": "외국인 투자자들이 반도체와 자동차 업종을 중심으로 대규모 차익실현 매도에 나서면서 코스피가 7640선까지 밀렸다. 시장 조정이 나타난 가운데 개인 투자자들은 이를 매수 기회로 보고 ‘줍줍’에 나선 것으로 전해졌다. 원문은 외국인 매도 폭탄에도 개인들이 향후 지수 상승 기대를 바탕으로 조정 국면을 기회로 인식했다고 설명했다. KB증권은 SK하이닉스와 관련해 “하이닉스 예고편 불과”라고 언급했다. 이번 흐름은 외국인 매도와 개인 매수세가 엇갈리는 장세를 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Pullback to 7,640 Draws Retail Buying as Foreigners Sell Chips, Autos",
-        "excerpt": "Foreign investors took large profits mainly in semiconductors and autos, pushing the KOSPI down to the 7,640 range, while retail investors viewed the decline as a buying chance.",
-        "body": "Foreign investors carried out large-scale profit-taking, focused on semiconductor and automobile stocks, sending the KOSPI down to the 7,640 range. Amid the market correction, retail investors reportedly treated the decline as a buying opportunity and stepped in to accumulate shares. The original report said individuals saw the adjustment as a chance, despite heavy foreign selling, based on expectations for a further index rise. KB Securities commented on SK Hynix, saying it was “only a preview of Hynix.” The move highlights a market where foreign selling and retail buying are moving in opposite directions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI7640台へ調整、個人が買い拡大…外国人は半導体・自動車売り",
-        "excerpt": "外国人投資家が半導体と自動車を中心に大規模な利益確定売りを出し、KOSPIが7640台まで下落する中、個人投資家は買い機会と判断した。",
-        "body": "外国人投資家が半導体と自動車業種を中心に大規模な利益確定売りに動き、KOSPIは7640台まで下落した。市場に調整が出る中、個人投資家はこれを買い機会とみて株式を拾う動きに出たと伝えられた。原文は、外国人の売りが膨らんでも、個人は今後の指数上昇期待を背景に調整局面を機会として認識したと説明している。KB証券はSKハイニックスについて「ハイニックスの予告編にすぎない」と言及した。今回の流れは、外国人売りと個人買いが交錯する相場を示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI回落至7640点一线，散户加码买入，外资抛售芯片和汽车股",
-        "excerpt": "外资投资者集中抛售半导体和汽车股进行大规模获利了结，推动KOSPI跌至7640点一线，个人投资者则将回调视为买入机会。",
-        "body": "外资投资者围绕半导体和汽车行业展开大规模获利了结卖出，KOSPI因此回落至7640点一线。在市场出现调整的情况下，个人投资者据称将其视为买入机会，开始逢低吸纳。原文称，即使面对外资的集中卖出，个人投资者仍基于对指数后续上涨的期待，把调整阶段理解为机会。KB证券在谈到SK海力士时表示，这“只不过是海力士的预告片”。这一走势显示出外资卖出与个人买入相互对立的市场局面。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cae a la zona de 7.640 y minoristas compran ante ventas extranjeras",
-        "excerpt": "Inversores extranjeros tomaron ganancias de forma masiva en semiconductores y autos, llevando al KOSPI a la zona de 7.640, mientras los minoristas vieron una oportunidad de compra.",
-        "body": "Los inversores extranjeros realizaron una toma de ganancias a gran escala, centrada en los sectores de semiconductores y automóviles, y el KOSPI retrocedió hasta la zona de 7.640 puntos. En medio de la corrección del mercado, los inversores minoristas consideraron la caída como una oportunidad de compra y salieron a acumular acciones. El informe original señaló que, pese a la fuerte venta extranjera, los particulares interpretaron la corrección como una ocasión ante las expectativas de una subida posterior del índice. KB Securities dijo sobre SK Hynix que era “solo un adelanto de Hynix”. La situación muestra ventas extranjeras y compras minoristas en direcciones opuestas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI recua para 7.640 e varejo compra enquanto estrangeiros vendem chips e autos",
-        "excerpt": "Investidores estrangeiros realizaram lucros em larga escala, sobretudo em semicondutores e automóveis, levando o KOSPI à faixa de 7.640, enquanto pessoas físicas viram chance de compra.",
-        "body": "Investidores estrangeiros fizeram uma realização de lucros em larga escala, concentrada nos setores de semicondutores e automóveis, e o KOSPI caiu para a faixa de 7.640 pontos. Em meio à correção do mercado, investidores pessoas físicas teriam visto a queda como uma oportunidade de compra e passaram a acumular ações. A reportagem original explicou que, apesar da forte venda estrangeira, os investidores individuais interpretaram o ajuste como uma chance, apoiados na expectativa de alta futura do índice. A KB Securities afirmou sobre a SK Hynix que era “apenas uma prévia da Hynix”. O movimento mostra vendas estrangeiras e compras de pessoas físicas em direções opostas. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt auf 7.640, Privatanleger kaufen trotz Ausverkauf bei Chips und Autos",
-        "excerpt": "Ausländische Investoren nahmen vor allem bei Halbleiter- und Autowerten in großem Umfang Gewinne mit, wodurch der KOSPI auf 7.640 fiel; Privatanleger sahen darin eine Kaufchance.",
-        "body": "Ausländische Investoren haben in großem Umfang Gewinne mitgenommen, vor allem in den Sektoren Halbleiter und Automobile, wodurch der KOSPI bis in den Bereich von 7.640 Punkten zurückfiel. Während der Marktkorrektur betrachteten Privatanleger den Rückgang Berichten zufolge als Kaufgelegenheit und griffen zu. Der Originalbericht erklärte, dass Einzelanleger trotz der massiven Verkäufe aus dem Ausland die Korrektur wegen der Erwartung eines weiteren Indexanstiegs als Chance wahrnahmen. KB Securities sagte zu SK Hynix, dies sei „nur eine Vorschau auf Hynix“. Die Entwicklung zeigt einen Markt, in dem ausländische Verkäufe und Käufe von Privatanlegern auseinanderlaufen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI revient vers 7 640, les particuliers achètent malgré les ventes étrangères",
-        "excerpt": "Les investisseurs étrangers ont pris massivement leurs bénéfices dans les semi-conducteurs et l’automobile, faisant reculer le KOSPI vers 7 640, tandis que les particuliers y ont vu une occasion d’achat.",
-        "body": "Les investisseurs étrangers ont procédé à d’importantes prises de bénéfices, principalement dans les secteurs des semi-conducteurs et de l’automobile, ce qui a fait reculer le KOSPI vers la zone des 7 640 points. Dans ce contexte de correction, les investisseurs particuliers auraient considéré la baisse comme une occasion d’achat et se seraient positionnés. L’article original indique que, malgré les fortes ventes étrangères, les particuliers ont perçu l’ajustement comme une opportunité, sur fond d’attentes de hausse future de l’indice. KB Securities a déclaré à propos de SK Hynix qu’il ne s’agissait que d’« un aperçu de Hynix ». Cette évolution montre un marché partagé entre ventes étrangères et achats des particuliers. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "تراجع كوسبي إلى مستوى 7640 يدفع الأفراد للشراء رغم بيع الأجانب للرقائق والسيارات",
-        "excerpt": "اتجه المستثمرون الأجانب إلى جني أرباح واسع النطاق في أسهم أشباه الموصلات والسيارات، ما دفع كوسبي إلى مستوى 7640، بينما رأى المستثمرون الأفراد فرصة للشراء.",
-        "body": "نفذ المستثمرون الأجانب عمليات جني أرباح واسعة النطاق تركزت في قطاعات أشباه الموصلات والسيارات، ليتراجع مؤشر كوسبي إلى مستوى 7640. ومع ظهور تصحيح في السوق، اعتبر المستثمرون الأفراد هذا التراجع فرصة للشراء وبدأوا في اقتناص الأسهم، بحسب التقرير. وذكر النص الأصلي أن الأفراد رأوا مرحلة التصحيح فرصة رغم موجة البيع الأجنبية الكبيرة، استنادا إلى توقعات بارتفاع المؤشر لاحقا. وقالت KB Securities بشأن SK Hynix إن الأمر “ليس سوى عرض تمهيدي لهينكس”. ويظهر هذا المسار سوقا تتقاطع فيه مبيعات الأجانب مع مشتريات الأفراد. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 7,640 तक फिसला, विदेशी बिकवाली के बीच खुदरा निवेशकों ने खरीद बढ़ाई",
-        "excerpt": "विदेशी निवेशकों ने सेमीकंडक्टर और ऑटो शेयरों में बड़े पैमाने पर मुनाफावसूली की, जिससे KOSPI 7,640 के स्तर तक गिरा; खुदरा निवेशकों ने इसे खरीद का मौका माना।",
-        "body": "विदेशी निवेशकों ने सेमीकंडक्टर और ऑटोमोबाइल क्षेत्रों पर केंद्रित बड़े पैमाने की मुनाफावसूली की, जिससे KOSPI 7,640 के स्तर तक नीचे आ गया। बाजार में आई इस गिरावट के बीच व्यक्तिगत निवेशकों ने इसे खरीदारी का अवसर माना और शेयर जुटाने लगे। मूल रिपोर्ट के अनुसार, विदेशी निवेशकों की भारी बिकवाली के बावजूद व्यक्तियों ने सूचकांक में आगे बढ़त की उम्मीद के आधार पर इस करेक्शन को अवसर के रूप में देखा। KB Securities ने SK Hynix को लेकर कहा कि यह “Hynix का केवल प्रीव्यू” है। यह रुझान ऐसे बाजार को दिखाता है जहां विदेशी बिकवाली और व्यक्तिगत खरीदारी आमने-सामने हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Turun ke 7.640, Investor Ritel Membeli Saat Asing Lepas Chip dan Otomotif",
-        "excerpt": "Investor asing melakukan aksi ambil untung besar di saham semikonduktor dan otomotif hingga KOSPI turun ke kisaran 7.640, sementara investor individu melihatnya sebagai peluang beli.",
-        "body": "Investor asing melakukan aksi ambil untung dalam skala besar, terutama pada sektor semikonduktor dan otomotif, sehingga KOSPI turun ke kisaran 7.640. Di tengah koreksi pasar tersebut, investor individu dilaporkan menilai penurunan ini sebagai peluang beli dan mulai mengakumulasi saham. Laporan asli menjelaskan bahwa meski tekanan jual asing besar, investor ritel melihat fase koreksi sebagai kesempatan berdasarkan harapan kenaikan indeks berikutnya. KB Securities menyebut terkait SK Hynix bahwa ini “baru pratinjau Hynix”. Pergerakan ini menunjukkan pasar dengan arah yang berlawanan antara penjualan asing dan pembelian investor individu. Sumber: mk.co.kr"
       }
     }
   }
