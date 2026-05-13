@@ -1,5 +1,230 @@
 [
   {
+    "id": "605607447303",
+    "slug": "삼성전기-우리도-황제주ai서버-호재에-장중-100만원-돌파-351802",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T17:01:46.961Z",
+    "updatedAt": "2026-05-13T17:01:46.961Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046005",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046005",
+    "titleFingerprint": "97256c64020edbdfa019c2ff3ce52992efca14c2",
+    "dedupKeys": [
+      "6056074473031f900dfa646ce78b9175b2083c1d",
+      "97256c64020edbdfa019c2ff3ce52992efca14c2",
+      "9470111b9dd2a3d03a8f9376d52ef5e6be32457d"
+    ],
+    "imageUrl": "/images/articles/605607447303.png",
+    "i18n": {
+      "ko": {
+        "title": "삼성전기 주가 장중 100만원 돌파, AI서버·전장 호재에 황제주 등극",
+        "excerpt": "삼성전기가 13일 장중 6%대 상승하며 100만원을 넘어섰다. AI서버향 MLCC 수요와 전장 시장 성장 기대가 목표가 상향을 이끌었다.",
+        "body": "삼성전기가 13일 장중 6%대 상승세를 기록하며 주가 100만원을 돌파했다. 인공지능(AI) 서버와 전장(자동차 전자장치) 시장의 성장 기대가 투자심리를 끌어올리며 ‘황제주’ 반열에 오른 것이다. 원문에 따르면 삼성전기는 AI 서버향 MLCC(적층세라믹콘덴서) 수요 확대와 전장 시장 호재를 배경으로 증권가 목표가가 잇따라 상향됐다. 일부 목표가는 130만원까지 제시된 것으로 전해졌다. AI 인프라 투자와 자동차 전자화 흐름이 부품 수요 기대를 키우는 가운데, 향후 주가 흐름은 관련 시장 성장세와 실적 기대의 지속 여부에 영향을 받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Samsung Electro-Mechanics Tops 1 Million Won Intraday on AI Server, Auto Electronics Boost",
+        "excerpt": "Samsung Electro-Mechanics rose more than 6% intraday on the 13th, crossing 1 million won as AI server MLCC demand and auto electronics growth lifted price targets.",
+        "body": "Samsung Electro-Mechanics crossed 1 million won intraday on the 13th after gaining more than 6%, joining the ranks of Korea’s so-called high-priced “emperor stocks.” Investor sentiment was lifted by expectations for growth in artificial intelligence server demand and the automotive electronics market. According to the original report, demand for MLCCs used in AI servers and favorable conditions in the auto electronics sector prompted securities firms to raise target prices one after another. Some targets reportedly reached 1.3 million won. As AI infrastructure investment and vehicle electrification increase expectations for component demand, the stock’s next direction is likely to depend on whether market growth and earnings expectations continue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "サムスン電機が一時100万ウォン突破、AIサーバー・車載需要が追い風",
+        "excerpt": "サムスン電機は13日取引時間中に6％台上昇し100万ウォンを突破。AIサーバー向けMLCC需要と車載市場拡大期待で目標株価が相次ぎ引き上げられた。",
+        "body": "サムスン電機は13日、取引時間中に6％台の上昇を記録し、株価が100万ウォンを突破した。人工知能（AI）サーバーと車載（自動車電子装置）市場の成長期待が投資心理を押し上げ、韓国市場で高額株を指す「皇帝株」の仲間入りをした形だ。原文によると、AIサーバー向けMLCC（積層セラミックコンデンサー）の需要拡大と車載市場の好材料を背景に、証券各社の目標株価が相次いで引き上げられた。一部では130万ウォンの目標株価も提示されたという。AIインフラ投資と自動車の電子化が部品需要への期待を高めるなか、今後の株価は関連市場の成長と業績期待が続くかに左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "三星电机盘中突破100万韩元，AI服务器与车载电子利好推升股价",
+        "excerpt": "三星电机13日盘中上涨逾6%，股价突破100万韩元。AI服务器用MLCC需求和车载电子市场增长预期推动券商上调目标价。",
+        "body": "三星电机13日盘中涨幅超过6%，股价突破100万韩元，跻身韩国市场所谓“皇帝股”行列。人工智能（AI）服务器和车载电子市场的增长预期提振了投资情绪。根据原文，AI服务器用MLCC（多层陶瓷电容器）需求扩大，以及车载市场利好，促使证券机构接连上调三星电机目标价。据悉，部分目标价已被上调至130万韩元。随着AI基础设施投资和汽车电子化趋势提升零部件需求预期，后续股价走势将取决于相关市场增长和业绩预期能否持续。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "Samsung Electro-Mechanics supera 1 millón de wones intradía por impulso de servidores IA y autos",
+        "excerpt": "Samsung Electro-Mechanics subió más de 6% intradía el día 13 y superó 1 millón de wones, apoyada por la demanda de MLCC para servidores de IA y electrónica automotriz.",
+        "body": "Samsung Electro-Mechanics superó 1 millón de wones durante la sesión del día 13, tras avanzar más de 6% intradía. Las expectativas de crecimiento en servidores de inteligencia artificial (IA) y en el mercado de electrónica automotriz impulsaron el ánimo inversor y llevaron a la acción al grupo de valores coreanos conocidos como “acciones emperador” por su alto precio. Según el reporte original, la mayor demanda de MLCC para servidores de IA y las condiciones favorables del mercado automotriz llevaron a varias casas de bolsa a elevar sus precios objetivo. Algunos objetivos llegaron a 1,3 millones de wones. Con la inversión en infraestructura de IA y la electrificación del automóvil elevando las expectativas de demanda de componentes, la evolución futura dependerá de la continuidad del crecimiento del mercado y de las expectativas de beneficios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Samsung Electro-Mechanics passa de 1 milhão de wons no intradia com IA e eletrônica automotiva",
+        "excerpt": "A Samsung Electro-Mechanics subiu mais de 6% no intradia do dia 13 e superou 1 milhão de wons, apoiada por MLCC para servidores de IA e mercado automotivo.",
+        "body": "A Samsung Electro-Mechanics ultrapassou 1 milhão de wons durante o pregão do dia 13, após registrar alta intradiária superior a 6%. As expectativas de crescimento em servidores de inteligência artificial (IA) e no mercado de eletrônica automotiva elevaram o apetite dos investidores, colocando a ação entre os papéis coreanos de preço elevado chamados de “ações imperador”. Segundo a reportagem original, a expansão da demanda por MLCCs para servidores de IA e os fatores favoráveis no mercado automotivo levaram corretoras a elevar sucessivamente seus preços-alvo. Alguns chegaram a 1,3 milhão de wons. Com investimentos em infraestrutura de IA e eletrificação dos veículos aumentando a expectativa por componentes, o rumo da ação dependerá da continuidade desse crescimento e das projeções de lucro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Samsung Electro-Mechanics steigt intraday über 1 Mio. Won dank KI-Servern und Autoelektronik",
+        "excerpt": "Samsung Electro-Mechanics legte am 13. intraday um mehr als 6% zu und überschritt 1 Mio. Won, gestützt durch MLCC-Nachfrage für KI-Server und Autoelektronik.",
+        "body": "Samsung Electro-Mechanics überschritt am 13. während des Handels die Marke von 1 Million Won, nachdem die Aktie intraday um mehr als 6% gestiegen war. Erwartungen an Wachstum bei Servern für künstliche Intelligenz (KI) und im Markt für Autoelektronik stärkten die Anlegerstimmung und machten den Titel zu einer der hochpreisigen koreanischen sogenannten „Kaiseraktien“. Dem ursprünglichen Bericht zufolge führten steigende Nachfrage nach MLCCs für KI-Server und positive Faktoren im Autoelektronikmarkt dazu, dass Wertpapierhäuser ihre Kursziele nacheinander anhoben. Einige Ziele wurden Berichten zufolge bis auf 1,3 Millionen Won gesetzt. Da KI-Infrastrukturinvestitionen und die Elektrifizierung von Fahrzeugen die Nachfrageerwartungen für Komponenten erhöhen, dürfte der weitere Kursverlauf davon abhängen, ob Marktwachstum und Gewinnerwartungen anhalten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Samsung Electro-Mechanics franchit 1 million de wons en séance, porté par serveurs IA et automobile",
+        "excerpt": "Samsung Electro-Mechanics a gagné plus de 6% en séance le 13 et dépassé 1 million de wons, soutenu par les MLCC pour serveurs IA et l’électronique automobile.",
+        "body": "Samsung Electro-Mechanics a franchi 1 million de wons en séance le 13, après une hausse intrajournalière de plus de 6%. Les attentes de croissance liées aux serveurs d’intelligence artificielle (IA) et au marché de l’électronique automobile ont soutenu le sentiment des investisseurs, faisant entrer le titre parmi les actions coréennes très chères surnommées “actions empereurs”. Selon l’article original, l’augmentation de la demande de MLCC destinés aux serveurs IA et les facteurs favorables du marché automobile ont conduit les maisons de courtage à relever successivement leurs objectifs de cours. Certains objectifs auraient atteint 1,3 million de wons. Alors que l’investissement dans l’infrastructure IA et l’électronisation des véhicules renforcent les attentes de demande en composants, l’évolution du titre dépendra de la poursuite de cette croissance et des anticipations de résultats. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم Samsung Electro-Mechanics يتجاوز مليون وون بدعم خوادم الذكاء الاصطناعي وإلكترونيات السيارات",
+        "excerpt": "ارتفع سهم Samsung Electro-Mechanics بأكثر من 6% خلال جلسة 13 مايو متجاوزا مليون وون، مع دعم طلب MLCC لخوادم الذكاء الاصطناعي ونمو إلكترونيات السيارات.",
+        "body": "تجاوز سهم Samsung Electro-Mechanics مستوى مليون وون خلال جلسة يوم 13 مايو بعد ارتفاعه بأكثر من 6% أثناء التداول. وقد عززت توقعات نمو خوادم الذكاء الاصطناعي وسوق إلكترونيات السيارات شهية المستثمرين، ما أدخل السهم ضمن فئة الأسهم الكورية مرتفعة السعر المعروفة باسم “أسهم الإمبراطور”. ووفقا للتقرير الأصلي، فإن توسع الطلب على مكثفات MLCC المخصصة لخوادم الذكاء الاصطناعي والعوامل الإيجابية في سوق إلكترونيات السيارات دفعا شركات الأوراق المالية إلى رفع الأسعار المستهدفة تباعا. وذُكر أن بعض الأهداف وصلت إلى 1.3 مليون وون. ومع زيادة الاستثمار في بنية الذكاء الاصطناعي واتجاه كهربة السيارات، سيتوقف مسار السهم على استمرار نمو السوق وتوقعات الأرباح. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Samsung Electro-Mechanics शेयर 10 लाख वॉन के पार, AI सर्वर और ऑटो इलेक्ट्रॉनिक्स से तेजी",
+        "excerpt": "Samsung Electro-Mechanics का शेयर 13 मई को इंट्राडे में 6% से अधिक चढ़कर 10 लाख वॉन पार कर गया। AI सर्वर MLCC मांग और ऑटो इलेक्ट्रॉनिक्स बाजार ने लक्ष्य मूल्य बढ़ाए।",
+        "body": "Samsung Electro-Mechanics का शेयर 13 मई को कारोबार के दौरान 6% से अधिक बढ़ा और 10 लाख वॉन के स्तर को पार कर गया। कृत्रिम बुद्धिमत्ता (AI) सर्वर और ऑटोमोटिव इलेक्ट्रॉनिक्स बाजार में वृद्धि की उम्मीदों ने निवेशक भावना को मजबूत किया, जिससे यह कोरिया के उच्च मूल्य वाले तथाकथित “एम्परर स्टॉक्स” में शामिल हो गया। मूल रिपोर्ट के अनुसार, AI सर्वर के लिए MLCC (मल्टीलेयर सिरेमिक कैपेसिटर) की मांग बढ़ने और ऑटो इलेक्ट्रॉनिक्स बाजार की अनुकूल स्थिति के कारण ब्रोकरेज फर्मों ने लक्ष्य मूल्य लगातार बढ़ाए। कुछ लक्ष्य 13 लाख वॉन तक बताए गए। AI इंफ्रास्ट्रक्चर निवेश और वाहनों के इलेक्ट्रॉनिकीकरण से कंपोनेंट मांग की उम्मीद बढ़ रही है; आगे शेयर की दिशा बाजार वृद्धि और आय अपेक्षाओं की निरंतरता पर निर्भर करेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Samsung Electro-Mechanics Tembus 1 Juta Won Intraday Berkat Server AI dan Elektronik Otomotif",
+        "excerpt": "Samsung Electro-Mechanics naik lebih dari 6% intraday pada 13 Mei dan menembus 1 juta won, didorong permintaan MLCC server AI serta pasar elektronik otomotif.",
+        "body": "Samsung Electro-Mechanics menembus 1 juta won pada perdagangan intraday 13 Mei setelah naik lebih dari 6%. Ekspektasi pertumbuhan pada server kecerdasan buatan (AI) dan pasar elektronik otomotif mengangkat sentimen investor, sehingga saham ini masuk jajaran saham Korea berharga tinggi yang sering disebut “saham kaisar”. Menurut laporan asli, peningkatan permintaan MLCC untuk server AI dan katalis positif di pasar elektronik otomotif mendorong sejumlah perusahaan sekuritas menaikkan target harga secara berurutan. Beberapa target disebut mencapai 1,3 juta won. Seiring investasi infrastruktur AI dan elektrifikasi kendaraan meningkatkan ekspektasi permintaan komponen, pergerakan saham berikutnya akan dipengaruhi keberlanjutan pertumbuhan pasar dan ekspektasi kinerja. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "e096f9b358d3",
+    "slug": "한국-불장서-96억-대박-하이닉스-생큐일본인-계좌-인증에-술렁-886239",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T17:00:41.316Z",
+    "updatedAt": "2026-05-13T17:00:41.316Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046026",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046026",
+    "titleFingerprint": "8a4ff905f390d933d1b8360956ca6b22fbf06dc2",
+    "dedupKeys": [
+      "e096f9b358d38e00f3a4ceb2f9436232440b2c94",
+      "8a4ff905f390d933d1b8360956ca6b22fbf06dc2",
+      "0b7d2a95a327c96c5f81fb953aa587428a9e6ca7"
+    ],
+    "imageUrl": "/images/articles/e096f9b358d3.png",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 720% 수익 인증한 일본 투자자, 한국 증시 관심 키웠다",
+        "excerpt": "일본 투자자가 2024년 6월부터 자산 대부분을 SK하이닉스에 투자해 약 10억엔 규모 수익을 냈다고 밝히며 한국 계좌 개설 방법까지 공유해 주목받고 있다.",
+        "body": "일본인 투자자가 2024년 6월부터 자산의 90% 이상을 SK하이닉스에 집중 투자해 약 10억엔, 한화 약 96억원 규모의 수익을 거뒀다고 공개하면서 온라인에서 관심이 커지고 있다. 보도에 따르면 이 투자자는 2년 만에 SK하이닉스 투자 수익률이 720%에 달했다고 밝혔고, 중국 SNS를 통해 한국 주식 계좌 개설 방법도 공유했다. SK하이닉스가 한국 증시 강세의 대표 종목으로 주목받는 가운데, 해외 개인 투자자들의 한국 반도체주 접근 사례로 해석된다. 다만 공개된 내용은 해당 투자자의 계좌 인증과 발언에 기반한 것이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Japanese Investor’s 720% SK Hynix Gain Draws Attention to Korean Stocks",
+        "excerpt": "A Japanese investor said he put more than 90% of his assets into SK Hynix from June 2024 and made about 1 billion yen, while sharing how to open a Korean stock account.",
+        "body": "A Japanese investor has drawn online attention after saying he concentrated more than 90% of his assets in SK Hynix from June 2024 and earned about 1 billion yen, roughly 9.6 billion won. According to the report, the investor said his return on SK Hynix reached 720% in two years and also shared, on a Chinese social media platform, how to open a Korean stock account. As SK Hynix stands out as a leading stock in Korea’s strong market, the case is being viewed as an example of overseas retail investors accessing Korean semiconductor shares. The disclosed details are based on the investor’s account verification and statements. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックス720％利益を認証した日本人投資家、韓国株に注目集まる",
+        "excerpt": "日本人投資家が2024年6月から資産の大半をSKハイニックスに投じ、約10億円の利益を得たと明かし、韓国口座の開設方法も共有して注目されている。",
+        "body": "日本人投資家が2024年6月から資産の90％以上をSKハイニックスに集中投資し、約10億円、韓国ウォンで約96億ウォン規模の利益を得たと公開し、オンラインで関心が高まっている。報道によると、この投資家は2年でSKハイニックス投資の収益率が720％に達したと明らかにし、中国SNSを通じて韓国株式口座の開設方法も共有した。SKハイニックスが韓国株高を代表する銘柄として注目されるなか、海外個人投資家が韓国半導体株にアクセスした事例と受け止められている。ただし公開内容は同投資家の口座認証と発言に基づく。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "日本投资者晒SK海力士720%收益，韩国股市关注度升温",
+        "excerpt": "一名日本投资者称自2024年6月起将大部分资产投入SK海力士，获得约10亿日元收益，并分享韩国股票账户开设方法，引发关注。",
+        "body": "一名日本投资者公开称，自2024年6月起将90%以上资产集中投资于SK海力士，获得约10亿日元、约合96亿韩元的收益后，在网络上引发关注。据报道，该投资者表示，过去两年投资SK海力士的收益率达到720%，并通过中国社交平台分享了韩国股票账户的开设方法。在SK海力士作为韩国强势股市代表性个股受到关注之际，此事被视为海外个人投资者接触韩国半导体股票的案例。不过，公开内容基于该投资者的账户认证和相关发言。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Inversor japonés exhibe 720% en SK Hynix y aviva interés por acciones coreanas",
+        "excerpt": "Un inversor japonés dijo que desde junio de 2024 destinó más del 90% de sus activos a SK Hynix y ganó cerca de 1.000 millones de yenes, además de compartir cómo abrir una cuenta coreana.",
+        "body": "Un inversor japonés generó atención en internet tras afirmar que desde junio de 2024 concentró más del 90% de sus activos en SK Hynix y obtuvo cerca de 1.000 millones de yenes, unos 9.600 millones de wones. Según el reporte, el inversor dijo que la rentabilidad de su inversión en SK Hynix alcanzó el 720% en dos años y también compartió en una red social china cómo abrir una cuenta bursátil coreana. Mientras SK Hynix destaca como una de las acciones representativas del fuerte mercado coreano, el caso se interpreta como un ejemplo de acceso de inversores minoristas extranjeros a valores coreanos de semiconductores. La información divulgada se basa en la certificación de cuenta y declaraciones del inversor. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Investidor japonês mostra ganho de 720% com SK Hynix e amplia foco em ações coreanas",
+        "excerpt": "Um investidor japonês disse que desde junho de 2024 aplicou mais de 90% de seus ativos em SK Hynix e ganhou cerca de 1 bilhão de ienes, além de compartilhar como abrir conta na Coreia.",
+        "body": "Um investidor japonês chamou atenção online ao afirmar que, desde junho de 2024, concentrou mais de 90% de seus ativos em SK Hynix e obteve cerca de 1 bilhão de ienes, aproximadamente 9,6 bilhões de wones. Segundo a reportagem, ele disse que o retorno do investimento em SK Hynix chegou a 720% em dois anos e também compartilhou, em uma rede social chinesa, como abrir uma conta de ações na Coreia. Com a SK Hynix em destaque como uma das ações representativas da alta do mercado coreano, o caso é visto como exemplo de acesso de investidores individuais estrangeiros a ações coreanas de semicondutores. As informações divulgadas se baseiam na autenticação da conta e nas declarações do investidor. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Japanischer Investor meldet 720% Gewinn mit SK Hynix und lenkt Blick auf Koreas Aktien",
+        "excerpt": "Ein japanischer Investor sagte, er habe seit Juni 2024 über 90% seines Vermögens in SK Hynix investiert und rund 1 Milliarde Yen verdient, während er die Kontoeröffnung in Korea erklärte.",
+        "body": "Ein japanischer Investor sorgt online für Aufmerksamkeit, nachdem er erklärte, seit Juni 2024 mehr als 90% seines Vermögens in SK Hynix konzentriert und etwa 1 Milliarde Yen, rund 9,6 Milliarden Won, Gewinn erzielt zu haben. Dem Bericht zufolge sagte der Investor, seine Rendite mit SK Hynix habe in zwei Jahren 720% erreicht. Zudem teilte er in einem chinesischen sozialen Netzwerk, wie man ein koreanisches Aktienkonto eröffnet. Da SK Hynix als repräsentativer Wert der starken koreanischen Börse im Fokus steht, gilt der Fall als Beispiel dafür, wie ausländische Privatanleger Zugang zu koreanischen Halbleiteraktien suchen. Die veröffentlichten Angaben beruhen auf der Kontobestätigung und den Aussagen des Investors. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un investisseur japonais affiche 720% sur SK Hynix et attire l’attention sur Séoul",
+        "excerpt": "Un investisseur japonais affirme avoir placé depuis juin 2024 plus de 90% de ses actifs dans SK Hynix et gagné environ 1 milliard de yens, tout en partageant l’ouverture d’un compte coréen.",
+        "body": "Un investisseur japonais suscite l’attention en ligne après avoir déclaré avoir concentré depuis juin 2024 plus de 90% de ses actifs dans SK Hynix et réalisé environ 1 milliard de yens de gains, soit près de 9,6 milliards de wons. Selon l’article, il a indiqué que le rendement de son investissement dans SK Hynix avait atteint 720% en deux ans et a aussi partagé, sur un réseau social chinois, la méthode pour ouvrir un compte boursier coréen. Alors que SK Hynix est perçu comme une valeur emblématique de la vigueur du marché coréen, ce cas illustre l’accès d’investisseurs particuliers étrangers aux actions coréennes de semi-conducteurs. Les informations publiées reposent sur la certification du compte et les propos de l’investisseur. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مستثمر ياباني يعلن ربح 720% من SK Hynix ويزيد الاهتمام بالأسهم الكورية",
+        "excerpt": "قال مستثمر ياباني إنه خصص منذ يونيو 2024 أكثر من 90% من أصوله لسهم SK Hynix وحقق نحو مليار ين، كما شارك طريقة فتح حساب أسهم كوري.",
+        "body": "أثار مستثمر ياباني اهتماما واسعا على الإنترنت بعدما أعلن أنه منذ يونيو 2024 ركز أكثر من 90% من أصوله في سهم SK Hynix وحقق أرباحا تقارب مليار ين، أي نحو 9.6 مليار وون كوري. ووفقا للتقرير، قال المستثمر إن عائد استثماره في SK Hynix بلغ 720% خلال عامين، كما شارك عبر منصة تواصل اجتماعي صينية طريقة فتح حساب لتداول الأسهم الكورية. ومع بروز SK Hynix كسهم يمثل قوة السوق الكورية، ينظر إلى هذه الحالة كمثال على وصول المستثمرين الأفراد الأجانب إلى أسهم أشباه الموصلات الكورية. وتستند التفاصيل المنشورة إلى توثيق حساب المستثمر وتصريحاته. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SK Hynix में 720% लाभ दिखाने वाले जापानी निवेशक से कोरियाई शेयरों पर नजर",
+        "excerpt": "एक जापानी निवेशक ने कहा कि जून 2024 से उसने अपनी 90% से अधिक संपत्ति SK Hynix में लगाई और करीब 1 अरब येन कमाए, साथ ही कोरियाई खाता खोलने का तरीका भी साझा किया।",
+        "body": "एक जापानी निवेशक ने ऑनलाइन ध्यान खींचा है, जब उसने बताया कि जून 2024 से उसने अपनी 90% से अधिक संपत्ति SK Hynix में केंद्रित रूप से निवेश की और लगभग 1 अरब येन, यानी करीब 9.6 अरब वॉन, का लाभ हासिल किया। रिपोर्ट के अनुसार, निवेशक ने कहा कि दो वर्षों में SK Hynix निवेश पर उसका रिटर्न 720% तक पहुंचा। उसने चीनी सोशल मीडिया पर कोरियाई शेयर खाता खोलने की विधि भी साझा की। SK Hynix के कोरियाई शेयर बाजार की मजबूती का प्रतिनिधि स्टॉक माने जाने के बीच, यह मामला विदेशी खुदरा निवेशकों की कोरियाई सेमीकंडक्टर शेयरों तक पहुंच का उदाहरण माना जा रहा है। प्रकाशित जानकारी निवेशक के खाते के प्रमाणीकरण और बयानों पर आधारित है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Investor Jepang Ungkap Cuan 720% dari SK Hynix, Saham Korea Makin Disorot",
+        "excerpt": "Seorang investor Jepang mengatakan sejak Juni 2024 menaruh lebih dari 90% asetnya di SK Hynix dan meraih sekitar 1 miliar yen, sambil membagikan cara membuka rekening saham Korea.",
+        "body": "Seorang investor Jepang menarik perhatian online setelah mengaku sejak Juni 2024 memusatkan lebih dari 90% asetnya pada SK Hynix dan meraih keuntungan sekitar 1 miliar yen, atau kira-kira 9,6 miliar won. Menurut laporan, investor itu mengatakan imbal hasil investasinya di SK Hynix mencapai 720% dalam dua tahun dan juga membagikan cara membuka rekening saham Korea melalui media sosial China. Saat SK Hynix menjadi salah satu saham utama yang mewakili penguatan pasar Korea, kasus ini dipandang sebagai contoh akses investor ritel asing ke saham semikonduktor Korea. Informasi yang dipublikasikan didasarkan pada verifikasi rekening dan pernyataan investor tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "af0108c07dca",
+    "slug": "상승세-美-cpi에-비트코인-8만弗선-후퇴-매일코인-503491",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-13T16:59:44.130Z",
+    "updatedAt": "2026-05-13T16:59:44.130Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12046030",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046030",
+    "titleFingerprint": "c4486d2e219d8597befb51cefe1d76ea52457317",
+    "dedupKeys": [
+      "af0108c07dca286ce31d250399ce37250549363a",
+      "c4486d2e219d8597befb51cefe1d76ea52457317",
+      "3f0652ac2de45ce2d94dd16c180601cfd1970400"
+    ],
+    "imageUrl": "/images/articles/af0108c07dca.png",
+    "i18n": {
+      "ko": {
+        "title": "미 CPI 상승 충격에 비트코인 8만달러 초반 후퇴, 유가 급등도 부담",
+        "excerpt": "미 노동부가 발표한 4월 CPI가 전년 대비 3.8% 오른 가운데, 물가 지표 충격과 국제유가 급등 여파로 비트코인이 8만달러선 초반으로 내려앉았다.",
+        "body": "미국 물가 지표가 예상보다 강한 부담으로 작용하며 비트코인이 8만달러선 초반으로 후퇴했다. 미 노동부가 발표한 4월 소비자물가지수(CPI)는 전년 동월 대비 3.8% 상승했다. 여기에 국제유가 급등까지 겹치면서 위험자산 투자 심리가 위축된 것으로 전해졌다. 원문은 비트코인이 미국 CPI 충격과 유가 상승 여파로 8만달러 초반까지 내려앉았다고 설명했다. 물가 압력이 다시 부각되면서 가상자산 시장은 향후 미국 물가 흐름과 유가 움직임을 주시할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Bitcoin Slips to Low $80,000s as Hot US CPI and Oil Surge Weigh",
+        "excerpt": "Bitcoin fell back to the low $80,000 range after the U.S. Labor Department said April CPI rose 3.8% year over year, with rising prices and surging oil pressuring sentiment.",
+        "body": "Bitcoin retreated to the low $80,000 range as U.S. inflation data added pressure to risk assets. The U.S. Labor Department reported that the April Consumer Price Index rose 3.8% from a year earlier. The move came as a sharp rise in international oil prices added to concerns over inflation. According to the original report, Bitcoin moved lower in response to the CPI shock and the oil-price surge. With price pressures back in focus, the crypto market is expected to watch upcoming U.S. inflation trends and oil-price movements closely. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米CPI上昇でビットコイン8万ドル台前半へ後退、原油高も重荷",
+        "excerpt": "米労働省が発表した4月CPIは前年同月比3.8%上昇し、物価指標の衝撃と国際原油価格の急騰を受けてビットコインは8万ドル台前半へ下落した。",
+        "body": "米国の物価指標がリスク資産の重荷となり、ビットコインは8万ドル台前半へ後退した。米労働省が発表した4月の消費者物価指数（CPI）は前年同月比3.8%上昇した。さらに国際原油価格の急騰が重なり、投資家心理を圧迫したと伝えられている。原文は、ビットコインが米CPIの衝撃と原油高の影響で8万ドル台前半まで下落したと説明している。物価圧力が再び意識される中、暗号資産市場は今後の米インフレ動向と原油価格の推移を注視する見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国CPI升温拖累比特币回落至8万美元出头，油价急涨添压",
+        "excerpt": "美国劳工部公布的4月CPI同比上涨3.8%，在物价数据冲击和国际油价急涨影响下，比特币回落至8万美元出头区间。",
+        "body": "美国物价数据带来压力，比特币回落至8万美元出头。美国劳工部公布的4月消费者价格指数（CPI）同比上涨3.8%。与此同时，国际油价急涨进一步加重市场对通胀的担忧，风险资产投资情绪受到压制。原文称，受美国CPI冲击和油价上涨影响，比特币跌至8万美元初段。随着物价压力再度受到关注，虚拟资产市场预计将继续关注美国通胀走势和国际油价变化。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Bitcoin cae a la zona baja de US$80.000 por el alza del CPI en EE. UU.",
+        "excerpt": "El bitcoin retrocedió a la zona baja de US$80.000 después de que el Departamento de Trabajo de EE. UU. informara que el CPI de abril subió 3,8% interanual y el petróleo se disparara.",
+        "body": "El bitcoin retrocedió a la zona baja de US$80.000 mientras los datos de inflación de Estados Unidos presionaron a los activos de riesgo. El Departamento de Trabajo de EE. UU. informó que el índice de precios al consumidor (CPI) de abril subió 3,8% frente al mismo mes del año anterior. A esa presión se sumó el fuerte aumento de los precios internacionales del petróleo. Según el reporte original, la criptomoneda cayó por el impacto del CPI estadounidense y el avance del crudo. El mercado cripto seguirá atento a la inflación de EE. UU. y al movimiento del petróleo. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bitcoin recua para a faixa baixa de US$80 mil com CPI dos EUA e alta do petróleo",
+        "excerpt": "O bitcoin caiu para a faixa baixa de US$80 mil após o Departamento do Trabalho dos EUA informar alta anual de 3,8% no CPI de abril, enquanto o petróleo internacional disparou.",
+        "body": "O bitcoin recuou para a faixa baixa de US$80 mil depois que os dados de inflação dos Estados Unidos pesaram sobre os ativos de risco. O Departamento do Trabalho dos EUA informou que o Índice de Preços ao Consumidor (CPI) de abril subiu 3,8% em relação ao mesmo mês do ano anterior. A forte alta dos preços internacionais do petróleo também aumentou a pressão sobre o sentimento dos investidores. Segundo a reportagem original, o bitcoin caiu diante do choque do CPI dos EUA e da alta do petróleo. O mercado cripto deve acompanhar a inflação americana e os preços do petróleo. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Bitcoin fällt wegen höherem US-CPI und Ölpreissprung auf niedrige 80.000 Dollar",
+        "excerpt": "Bitcoin gab auf den niedrigen Bereich von 80.000 Dollar nach, nachdem das US-Arbeitsministerium für April einen CPI-Anstieg von 3,8% zum Vorjahr meldete und Ölpreise sprangen.",
+        "body": "Bitcoin ist auf den niedrigen Bereich von 80.000 Dollar zurückgefallen, nachdem US-Inflationsdaten Risikoanlagen belasteten. Das US-Arbeitsministerium meldete, dass der Verbraucherpreisindex (CPI) im April gegenüber dem Vorjahresmonat um 3,8% gestiegen ist. Zusätzlich verstärkte der starke Anstieg der internationalen Ölpreise die Inflationssorgen und drückte auf die Marktstimmung. Dem Originalbericht zufolge sank Bitcoin infolge des US-CPI-Schocks und der höheren Ölpreise. Der Kryptomarkt dürfte nun die weitere Entwicklung der US-Inflation und der Ölpreise aufmerksam verfolgen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le bitcoin recule vers les 80.000 dollars avec le CPI américain et la hausse du pétrole",
+        "excerpt": "Le bitcoin est revenu dans le bas de la zone des 80.000 dollars après un CPI américain d’avril en hausse de 3,8% sur un an et une flambée des prix internationaux du pétrole.",
+        "body": "Le bitcoin a reculé dans le bas de la zone des 80.000 dollars sous la pression des données d’inflation américaines. Le département américain du Travail a annoncé que l’indice des prix à la consommation (CPI) d’avril avait augmenté de 3,8% sur un an. La forte hausse des prix internationaux du pétrole a aussi renforcé les inquiétudes liées à l’inflation et pesé sur l’appétit pour le risque. Selon l’article original, le bitcoin a baissé sous l’effet du choc du CPI américain et du renchérissement du pétrole. Le marché des cryptoactifs devrait suivre l’inflation américaine et l’évolution du pétrole. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "بتكوين تتراجع إلى أوائل 80 ألف دولار مع ارتفاع CPI الأمريكي وقفزة النفط",
+        "excerpt": "تراجعت بتكوين إلى أوائل نطاق 80 ألف دولار بعد إعلان وزارة العمل الأمريكية ارتفاع مؤشر أسعار المستهلكين في أبريل 3.8% سنويا، بالتزامن مع قفزة أسعار النفط العالمية.",
+        "body": "تراجعت بتكوين إلى أوائل نطاق 80 ألف دولار بعدما ضغطت بيانات التضخم الأمريكية على الأصول عالية المخاطر. وأعلنت وزارة العمل الأمريكية أن مؤشر أسعار المستهلكين لشهر أبريل ارتفع 3.8% مقارنة بالشهر نفسه من العام السابق. كما زادت القفزة في أسعار النفط العالمية المخاوف المرتبطة بالتضخم وأثرت في شهية المستثمرين للمخاطرة. وذكر التقرير الأصلي أن بتكوين هبطت بفعل صدمة بيانات CPI الأمريكية وارتفاع النفط. ومن المتوقع أن تتابع سوق الأصول المشفرة مسار التضخم الأمريكي وتحركات أسعار النفط. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी CPI बढ़ने और तेल उछलने से बिटकॉइन 80,000 डॉलर के शुरुआती स्तर पर",
+        "excerpt": "अमेरिकी श्रम विभाग के अनुसार अप्रैल CPI सालाना 3.8% बढ़ा, जबकि अंतरराष्ट्रीय तेल कीमतों में उछाल के असर से बिटकॉइन 80,000 डॉलर के शुरुआती दायरे में उतर गया।",
+        "body": "अमेरिकी महंगाई आंकड़ों के दबाव से बिटकॉइन 80,000 डॉलर के शुरुआती दायरे में लौट गया। अमेरिकी श्रम विभाग ने बताया कि अप्रैल का उपभोक्ता मूल्य सूचकांक (CPI) पिछले साल के समान महीने की तुलना में 3.8% बढ़ा। इसके साथ अंतरराष्ट्रीय तेल कीमतों में तेज उछाल ने महंगाई को लेकर चिंता बढ़ाई और जोखिम वाली संपत्तियों के प्रति निवेशक भावना कमजोर की। मूल रिपोर्ट के अनुसार, अमेरिकी CPI के झटके और तेल कीमतों की तेजी के कारण बिटकॉइन नीचे आया। क्रिप्टो बाजार आगे अमेरिकी महंगाई और तेल कीमतों की चाल पर नजर रखेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bitcoin Turun ke Awal US$80.000 akibat CPI AS Naik dan Lonjakan Harga Minyak",
+        "excerpt": "Bitcoin melemah ke kisaran awal US$80.000 setelah Departemen Tenaga Kerja AS melaporkan CPI April naik 3,8% tahunan, sementara harga minyak internasional melonjak.",
+        "body": "Bitcoin turun ke kisaran awal US$80.000 setelah data inflasi Amerika Serikat menekan aset berisiko. Departemen Tenaga Kerja AS melaporkan bahwa indeks harga konsumen (CPI) April naik 3,8% dibanding bulan yang sama tahun sebelumnya. Lonjakan harga minyak internasional juga menambah kekhawatiran terhadap tekanan inflasi dan membebani sentimen investor. Menurut laporan asli, Bitcoin melemah akibat kejutan CPI AS dan kenaikan harga minyak. Pasar aset kripto diperkirakan akan mencermati arah inflasi AS serta pergerakan harga minyak ke depan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "5cd66ac03847",
     "slug": "어닝-서프라이즈-신세계-52주-신고가-달성-매경-자이앤트-768054",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Rekening terpadu asing dibuka, investor ritel AS bisa beli saham Samsung dan SK Hynix",
         "excerpt": "Samsung Securities menggandeng IBKR AS untuk layanan yang memungkinkan investor ritel asing memperdagangkan saham Korea langsung lewat aplikasi broker lokal.",
         "body": "Samsung Securities resmi memulai layanan perdagangan saham Korea berbasis rekening terpadu investor asing melalui kerja sama dengan Interactive Brokers (IBKR) dari Amerika Serikat. Dengan layanan ini, investor ritel di luar negeri, termasuk di AS, dapat membeli dan menjual saham Korea seperti Samsung Electronics dan SK Hynix secara langsung melalui aplikasi perusahaan sekuritas lokal. Sistem rekening terpadu ini bertujuan meningkatkan akses investor asing ke saham Korea, sehingga aliran dana investor individu luar negeri ke pasar saham Korea diharapkan bertambah. Laporan asli menyebut kebijakan ini juga dapat memberi efek positif pada pembahasan masuknya Korea ke indeks MSCI pasar maju. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "a16680728470",
-    "slug": "sp500-상승률-보라하락장-피하려고-가만-있으면-결국-손해-kiw-2026-675815",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T22:23:29.836Z",
-    "updatedAt": "2026-05-12T22:23:29.836Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605121052i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605121052i",
-    "titleFingerprint": "c99dec21b6ba091015be00de77718b166de95c87",
-    "dedupKeys": [
-      "a16680728470264fac01cf8a31a72a2f62498abb",
-      "c99dec21b6ba091015be00de77718b166de95c87",
-      "ed424e118688b792a4995f65b741d577737115b7"
-    ],
-    "imageUrl": "/images/articles/a16680728470.jpg",
-    "i18n": {
-      "ko": {
-        "title": "S&P500 상승률 주목…하락장 피하려다 놓치는 투자 기회",
-        "excerpt": "한국경제가 KIW 2026에서 소개한 S&P500 상승률 메시지는 하락장을 피하려고 가만히 있으면 장기적으로 손해를 볼 수 있다는 점을 짚었다.",
-        "body": "KIW 2026에서 S&P500 상승률을 둘러싼 투자 메시지가 주목받았다. 한국경제 보도에 따르면 핵심은 하락장을 피하려고 투자를 멈추거나 가만히 있는 전략이 결과적으로 손해로 이어질 수 있다는 점이다. 시장이 흔들릴 때 손실을 피하려는 판단은 자연스럽지만, 상승 구간을 놓치면 회복과 수익 기회를 함께 잃을 수 있다는 의미다. 이번 발언은 S&P500의 상승률을 근거로 장기 투자와 시장 참여의 중요성을 환기한 내용으로 해석된다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "S&P 500 Gains Highlight Risk of Missing Market Rebounds",
-        "excerpt": "At KIW 2026, The Korea Economic Daily highlighted a message on S&P 500 gains: staying still to avoid downturns can ultimately cost investors.",
-        "body": "At KIW 2026, an investment message centered on the S&P 500’s gains drew attention. According to The Korea Economic Daily, the key point was that stopping investment or staying on the sidelines to avoid a falling market can ultimately lead to losses. While trying to avoid damage during market volatility is understandable, missing rising periods can also mean losing recovery and return opportunities. The message used the S&P 500’s gains to underscore the importance of long-term investing and continued market participation. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "S&P500上昇率に注目、下落回避の待機が損失要因に",
-        "excerpt": "韓国経済新聞はKIW 2026で、S&P500の上昇率を踏まえ、下落相場を避けて動かないことが長期的に損失につながり得ると伝えた。",
-        "body": "KIW 2026で、S&P500の上昇率をめぐる投資メッセージが注目された。韓国経済新聞によると、要点は下落相場を避けようとして投資を止めたり、何もせず待機したりする戦略が、結果的に損失につながる可能性があるという点だ。市場が揺れる局面で損失を避けたい判断は自然だが、上昇局面を逃せば回復と収益の機会も失うことになる。今回の内容は、S&P500の上昇率を根拠に長期投資と市場参加の重要性を示したものといえる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "标普500涨幅受关注，躲避下跌或错失投资机会",
-        "excerpt": "韩国经济新闻在KIW 2026报道中指出，围绕标普500涨幅的信息显示，为躲避下跌而观望，长期看可能造成损失。",
-        "body": "在KIW 2026上，围绕标普500涨幅的投资信息受到关注。据韩国经济新闻报道，核心观点是，为了避开下跌行情而停止投资或保持观望，最终可能导致损失。市场波动时，投资者希望避免亏损是自然反应，但如果错过上涨阶段，也可能同时失去修复和收益机会。相关内容以标普500的涨幅为依据，强调长期投资和持续参与市场的重要性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Alzas del S&P 500 muestran el costo de quedar fuera del mercado",
-        "excerpt": "En KIW 2026, The Korea Economic Daily destacó que quedarse inmóvil para evitar caídas puede terminar perjudicando al inversor, según el caso del S&P 500.",
-        "body": "En KIW 2026, llamó la atención un mensaje de inversión centrado en las ganancias del S&P 500. Según The Korea Economic Daily, la idea principal fue que detener la inversión o permanecer al margen para evitar un mercado bajista puede terminar generando pérdidas. Aunque buscar protección ante la volatilidad es comprensible, perder los tramos de subida también implica dejar pasar oportunidades de recuperación y rentabilidad. El mensaje usó el avance del S&P 500 para recordar la importancia de la inversión de largo plazo y la participación continua en el mercado. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Alta do S&P 500 expõe risco de ficar fora para evitar quedas",
-        "excerpt": "No KIW 2026, o The Korea Economic Daily destacou que ficar parado para evitar quedas pode custar caro ao investidor, à luz dos ganhos do S&P 500.",
-        "body": "No KIW 2026, ganhou destaque uma mensagem de investimento centrada na valorização do S&P 500. Segundo o The Korea Economic Daily, o ponto principal foi que interromper investimentos ou ficar fora do mercado para evitar uma queda pode, no fim, gerar prejuízo. Embora seja natural tentar evitar perdas em períodos de volatilidade, perder os momentos de alta também pode significar abrir mão de oportunidades de recuperação e retorno. A mensagem usou os ganhos do S&P 500 para reforçar a importância do investimento de longo prazo e da participação contínua no mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "S&P-500-Gewinne zeigen Risiko des Wartens in schwachen Märkten",
-        "excerpt": "Bei KIW 2026 betonte The Korea Economic Daily anhand der S&P-500-Gewinne, dass Untätigkeit aus Angst vor Rückgängen Anleger langfristig schaden kann.",
-        "body": "Bei KIW 2026 sorgte eine Investmentbotschaft zu den Gewinnen des S&P 500 für Aufmerksamkeit. Laut The Korea Economic Daily lautete der Kernpunkt, dass ein Stopp von Investitionen oder reines Abwarten zur Vermeidung fallender Märkte am Ende zu Verlusten führen kann. Der Wunsch, sich in volatilen Phasen vor Verlusten zu schützen, ist nachvollziehbar. Wer jedoch Aufwärtsphasen verpasst, verliert auch Chancen auf Erholung und Rendite. Die Aussage stellte anhand der S&P-500-Entwicklung die Bedeutung langfristigen Investierens und kontinuierlicher Marktteilnahme heraus. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Hausse du S&P 500: rester à l’écart peut coûter aux investisseurs",
-        "excerpt": "Lors de KIW 2026, The Korea Economic Daily a souligné qu’éviter les baisses en restant immobile peut finir par pénaliser les investisseurs, selon le S&P 500.",
-        "body": "Lors de KIW 2026, un message d’investissement centré sur la progression du S&P 500 a retenu l’attention. Selon The Korea Economic Daily, l’idée clé est qu’arrêter d’investir ou rester à l’écart pour éviter un marché baissier peut finalement entraîner une perte. Il est naturel de vouloir limiter les pertes lorsque les marchés sont volatils, mais manquer les phases de hausse revient aussi à perdre des occasions de reprise et de rendement. Ce message s’appuie sur les gains du S&P 500 pour rappeler l’importance de l’investissement de long terme et d’une participation continue au marché. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "مكاسب S&P 500 تبرز كلفة الابتعاد خوفا من الهبوط",
-        "excerpt": "في KIW 2026، أوضحت صحيفة كوريا الاقتصادية أن البقاء خارج السوق لتجنب الهبوط قد يؤدي في النهاية إلى خسائر، استنادا إلى مكاسب S&P 500.",
-        "body": "في KIW 2026، لفتت رسالة استثمارية مرتبطة بمكاسب مؤشر S&P 500 الانتباه. وبحسب صحيفة كوريا الاقتصادية، فإن الفكرة الأساسية هي أن وقف الاستثمار أو البقاء على الهامش لتجنب سوق هابطة قد يؤدي في النهاية إلى خسارة. من الطبيعي أن يسعى المستثمر إلى تجنب الخسائر عند اضطراب السوق، لكن تفويت فترات الصعود قد يعني أيضا فقدان فرص التعافي والعائد. واستخدمت الرسالة مكاسب S&P 500 للتأكيد على أهمية الاستثمار طويل الأجل والاستمرار في المشاركة في السوق. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "S&P 500 की बढ़त बताती है गिरावट से बचने की निष्क्रियता का जोखिम",
-        "excerpt": "KIW 2026 में The Korea Economic Daily ने S&P 500 की बढ़त के संदर्भ में बताया कि गिरावट से बचने के लिए चुप बैठना अंततः नुकसानदेह हो सकता है।",
-        "body": "KIW 2026 में S&P 500 की बढ़त से जुड़ा निवेश संदेश ध्यान में रहा। The Korea Economic Daily के अनुसार मुख्य बात यह थी कि गिरते बाजार से बचने के लिए निवेश रोक देना या किनारे बैठना अंततः नुकसान में बदल सकता है। बाजार में उतार-चढ़ाव के समय नुकसान से बचने की सोच स्वाभाविक है, लेकिन तेजी के दौर छूटने पर रिकवरी और रिटर्न के अवसर भी छूट सकते हैं। यह संदेश S&P 500 की बढ़त के आधार पर लंबी अवधि के निवेश और बाजार में निरंतर भागीदारी के महत्व को रेखांकित करता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kenaikan S&P 500 Soroti Risiko Diam Saat Menghindari Pasar Turun",
-        "excerpt": "Di KIW 2026, The Korea Economic Daily menyoroti pesan dari kenaikan S&P 500: diam untuk menghindari pasar turun pada akhirnya bisa merugikan investor.",
-        "body": "Di KIW 2026, pesan investasi mengenai kenaikan S&P 500 menarik perhatian. Menurut The Korea Economic Daily, inti pesannya adalah bahwa menghentikan investasi atau tetap diam di luar pasar untuk menghindari penurunan dapat berujung pada kerugian. Saat pasar bergejolak, keinginan menghindari rugi memang wajar, tetapi melewatkan periode kenaikan juga berarti kehilangan peluang pemulihan dan imbal hasil. Pesan ini menggunakan kenaikan S&P 500 untuk menekankan pentingnya investasi jangka panjang dan partisipasi berkelanjutan di pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "0ae0208b4e1b",
-    "slug": "팔천피-턱밑-찍고-7600대-후퇴한-코스피반도체-쏠림-부작용-116495",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T22:22:41.062Z",
-    "updatedAt": "2026-05-12T22:22:41.062Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051212516",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051212516",
-    "titleFingerprint": "7f8a432465e6d118cf439bc56eaa3becab854194",
-    "dedupKeys": [
-      "0ae0208b4e1b4cfd4dddde06a1a50bf5a1cdb1e8",
-      "7f8a432465e6d118cf439bc56eaa3becab854194",
-      "25b0e060ef452ef976436c570ed7033a127544c0"
-    ],
-    "imageUrl": "/images/articles/0ae0208b4e1b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 7600대 후퇴, ‘팔천피’ 앞둔 증시 흔든 반도체 쏠림",
-        "excerpt": "코스피가 ‘팔천피’ 문턱까지 올랐다가 7600대로 밀려났다. 한국경제는 반도체 업종 집중에 따른 증시 쏠림 부작용이 지수 변동성을 키웠다고 전했다.",
-        "body": "코스피가 ‘팔천피’에 근접한 뒤 7600대로 후퇴했다. 한국경제에 따르면 최근 국내 증시는 지수 상승 기대가 커졌지만, 반도체 업종에 매수세와 관심이 집중되면서 시장 전반의 균형이 흔들리는 모습이 나타났다. 지수가 8000선 턱밑까지 오른 뒤 다시 7600대에 머문 흐름은 특정 업종 의존도가 높아질 때 나타날 수 있는 변동성을 보여준다. 시장에서는 반도체 중심의 쏠림이 이어질 경우 지수 흐름이 일부 대형주 움직임에 더 민감해질 수 있다는 점을 주목하고 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KOSPI Falls Back to 7,600s After Nearing 8,000 as Chip Bias Weighs",
-        "excerpt": "The KOSPI retreated to the 7,600 range after approaching the 8,000 mark, with Hankyung reporting that concentration in semiconductor stocks amplified market volatility.",
-        "body": "The KOSPI pulled back to the 7,600 range after moving close to the so-called 8,000 level. According to Hankyung, expectations for further gains had built in the domestic stock market, but buying interest and attention became concentrated in semiconductor names, disrupting broader market balance. The move from just below 8,000 back to the 7,600s highlights the volatility that can emerge when an index relies heavily on one sector. Market watchers are focusing on whether the semiconductor-centered bias could make the index more sensitive to moves in a few large-cap stocks. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KOSPIが7600台へ反落、8000目前で半導体集中の副作用",
-        "excerpt": "KOSPIは8000の節目に迫った後、7600台へ下落した。韓国経済は、半導体銘柄への集中が指数の変動性を高めたと伝えた。",
-        "body": "KOSPIは「8000」の節目に近づいた後、7600台へ後退した。韓国経済によると、最近の韓国株式市場では指数上昇への期待が高まった一方、買いと関心が半導体業種に集中し、市場全体のバランスが揺らぐ動きが出た。指数が8000目前まで上昇した後に再び7600台にとどまった流れは、特定業種への依存度が高まる際に生じ得る変動性を示している。市場では、半導体中心の偏りが続けば、指数が一部大型株の動きにより敏感になる可能性が注目されている。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "韩国KOSPI回落至7600点区间，逼近8000点后受半导体集中拖累",
-        "excerpt": "韩国KOSPI一度逼近8000点关口后回落至7600点区间。韩国经济报道称，半导体板块集中带来的市场偏向加剧了指数波动。",
-        "body": "韩国KOSPI在逼近所谓8000点关口后回落至7600点区间。据韩国经济报道，近期韩国股市对指数继续上涨的期待升温，但买盘和市场关注集中在半导体行业，使整体市场均衡受到影响。指数从8000点附近退回7600点区间的走势，显示出当市场对特定行业依赖度过高时可能出现的波动性。市场正在关注，如果半导体中心的集中现象延续，指数走势是否会对少数大型股的波动更加敏感。来源: hankyung.com."
-      },
-      "es": {
-        "title": "KOSPI retrocede a la zona de 7.600 tras rozar 8.000 por concentración en chips",
-        "excerpt": "El KOSPI cayó de nuevo a la zona de 7.600 tras acercarse a los 8.000 puntos, mientras Hankyung señaló que el sesgo hacia semiconductores elevó la volatilidad.",
-        "body": "El KOSPI retrocedió a la zona de 7.600 después de acercarse al nivel de 8.000 puntos. Según Hankyung, las expectativas de nuevas subidas habían aumentado en la bolsa surcoreana, pero las compras y la atención se concentraron en el sector de semiconductores, afectando el equilibrio general del mercado. El movimiento desde las inmediaciones de 8.000 hasta los 7.600 muestra la volatilidad que puede aparecer cuando un índice depende mucho de un solo sector. El mercado observa si la concentración en semiconductores hará que el índice sea más sensible a unos pocos valores de gran capitalización. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "KOSPI recua para faixa dos 7.600 após quase tocar 8.000 com foco em chips",
-        "excerpt": "O KOSPI voltou à faixa dos 7.600 depois de se aproximar dos 8.000 pontos, com o Hankyung apontando que a concentração em semicondutores elevou a volatilidade.",
-        "body": "O KOSPI recuou para a faixa dos 7.600 depois de se aproximar do nível de 8.000 pontos. Segundo o Hankyung, as expectativas de alta no mercado acionário sul-coreano cresceram, mas as compras e a atenção ficaram concentradas no setor de semicondutores, abalando o equilíbrio mais amplo do mercado. A queda de perto dos 8.000 para a faixa dos 7.600 mostra a volatilidade que pode surgir quando um índice depende fortemente de um setor específico. O mercado observa se o foco em semicondutores tornará o índice mais sensível ao movimento de algumas ações de grande porte. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KOSPI fällt nach Annäherung an 8.000 auf 7.600er-Zone wegen Chip-Fokus",
-        "excerpt": "Der KOSPI fiel nach dem Anlauf auf die Marke von 8.000 Punkten in den Bereich von 7.600 zurück. Hankyung verwies auf höhere Volatilität durch die Konzentration auf Halbleiterwerte.",
-        "body": "Der KOSPI ist nach einer Annäherung an die Marke von 8.000 Punkten in den Bereich von 7.600 zurückgefallen. Laut Hankyung waren die Erwartungen an weitere Kursgewinne am südkoreanischen Aktienmarkt gestiegen, doch Käufe und Aufmerksamkeit konzentrierten sich stark auf Halbleiterwerte und brachten das Marktgleichgewicht ins Wanken. Die Bewegung von knapp unter 8.000 zurück in die 7.600er-Zone zeigt die Volatilität, die entstehen kann, wenn ein Index stark von einem bestimmten Sektor abhängt. Beobachter achten nun darauf, ob der Halbleiterfokus den Index empfindlicher für Bewegungen weniger großer Aktien macht. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le KOSPI retombe vers 7 600 après avoir frôlé 8 000, lesté par les puces",
-        "excerpt": "Le KOSPI est revenu dans la zone des 7 600 après avoir approché 8 000 points, Hankyung signalant que la concentration sur les semi-conducteurs a accru la volatilité.",
-        "body": "Le KOSPI est retombé dans la zone des 7 600 après s’être rapproché du seuil de 8 000 points. Selon Hankyung, les attentes de hausse du marché sud-coréen s’étaient renforcées, mais les achats et l’attention se sont concentrés sur les semi-conducteurs, fragilisant l’équilibre global du marché. Le repli depuis les abords de 8 000 vers les 7 600 illustre la volatilité qui peut apparaître lorsqu’un indice dépend fortement d’un seul secteur. Les investisseurs surveillent si ce biais en faveur des semi-conducteurs rendra l’indice plus sensible aux mouvements de quelques grandes capitalisations. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوسبي يتراجع إلى نطاق 7600 بعد الاقتراب من 8000 بفعل تركّز أسهم الرقائق",
-        "excerpt": "تراجع مؤشر كوسبي إلى نطاق 7600 بعد اقترابه من مستوى 8000، وذكرت هانكيونغ أن التركّز في أسهم أشباه الموصلات زاد تقلبات السوق.",
-        "body": "تراجع مؤشر كوسبي إلى نطاق 7600 بعد أن اقترب من مستوى 8000. وبحسب هانكيونغ، ارتفعت التوقعات بمزيد من الصعود في سوق الأسهم الكورية، لكن عمليات الشراء والاهتمام تركزت في قطاع أشباه الموصلات، ما أضعف توازن السوق الأوسع. ويظهر الانتقال من قرب 8000 إلى نطاق 7600 التقلبات التي قد تظهر عندما يعتمد المؤشر بدرجة كبيرة على قطاع واحد. ويراقب السوق ما إذا كان استمرار التركّز حول أشباه الموصلات سيجعل حركة المؤشر أكثر حساسية لتحركات عدد محدود من الأسهم الكبرى. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KOSPI 8,000 के करीब से 7,600 दायरे में लौटा, चिप शेयरों पर निर्भरता असरदार",
-        "excerpt": "KOSPI 8,000 अंक के करीब पहुंचने के बाद 7,600 के दायरे में लौट आया। Hankyung के अनुसार, सेमीकंडक्टर शेयरों में अधिक केंद्रीकरण ने बाजार की अस्थिरता बढ़ाई।",
-        "body": "KOSPI 8,000 अंक के स्तर के करीब पहुंचने के बाद 7,600 के दायरे में वापस आ गया। Hankyung के अनुसार, दक्षिण कोरियाई शेयर बाजार में आगे बढ़त की उम्मीद बढ़ी थी, लेकिन खरीदारी और निवेशकों का ध्यान सेमीकंडक्टर क्षेत्र में केंद्रित हो गया, जिससे व्यापक बाजार का संतुलन कमजोर दिखा। 8,000 के करीब से 7,600 के दायरे में लौटना यह दिखाता है कि किसी एक क्षेत्र पर अधिक निर्भरता होने पर सूचकांक में अस्थिरता बढ़ सकती है। बाजार यह देख रहा है कि सेमीकंडक्टर-केंद्रित झुकाव जारी रहने पर सूचकांक कुछ बड़ी कंपनियों की चाल के प्रति और संवेदनशील हो सकता है या नहीं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KOSPI Turun ke 7.600-an Setelah Dekati 8.000, Tertekan Fokus Semikonduktor",
-        "excerpt": "KOSPI mundur ke kisaran 7.600 setelah mendekati level 8.000. Hankyung melaporkan konsentrasi pada saham semikonduktor memperbesar volatilitas indeks.",
-        "body": "KOSPI mundur ke kisaran 7.600 setelah sempat mendekati level 8.000. Menurut Hankyung, ekspektasi kenaikan di pasar saham Korea Selatan meningkat, tetapi arus beli dan perhatian investor terkonsentrasi pada sektor semikonduktor sehingga keseimbangan pasar yang lebih luas terganggu. Pergerakan dari dekat 8.000 kembali ke kisaran 7.600 menunjukkan volatilitas yang dapat muncul ketika indeks terlalu bergantung pada satu sektor tertentu. Pasar mencermati apakah bias pada semikonduktor akan membuat indeks lebih sensitif terhadap pergerakan beberapa saham berkapitalisasi besar. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "9a1ae73a427f",
-    "slug": "반도체-다음-타자-하루-새-18-폭등외인도-쓸어담았다-596352",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-12T22:21:47.860Z",
-    "updatedAt": "2026-05-12T22:21:47.860Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051217781",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051217781",
-    "titleFingerprint": "ec4e84a225a1538b99c4f5eca6b6d5fba1b110f1",
-    "dedupKeys": [
-      "9a1ae73a427f1c93ea574f2ac5e746f576d66457",
-      "ec4e84a225a1538b99c4f5eca6b6d5fba1b110f1",
-      "e69f7a3f638ba64d2d251433fbe13113facd98d9"
-    ],
-    "imageUrl": "/images/articles/9a1ae73a427f.jpg",
-    "i18n": {
-      "ko": {
-        "title": "로봇주 급부상, LG전자 하루 18% 급등…외국인 순매수도 K로봇에 집중",
-        "excerpt": "5월 12일 국내 증시에서 LG전자가 로봇 사업 재평가 기대에 18.0% 급등했고, 외국인은 두산로보틱스·LG전자·레인보우로보틱스 등 로봇주를 집중 매수했다.",
-        "body": "5월 12일 한국거래소에 따르면 LG전자는 전 거래일보다 18.0% 오른 18만4900원에 마감했다. 장중에는 19만5000원까지 올라 52주 신고가를 경신했다. 배경은 가전 기업을 넘어 로봇 완성품 사업자로 재평가받는 흐름이다. LG전자는 2028년 상업화를 목표로 가정용 휴머노이드 로봇 사업을 추진 중이다. 이달 외국인 순매수 상위 3개 종목은 두산로보틱스 2851억원, LG전자 2672억원, 레인보우로보틱스 2446억원으로 모두 로봇 관련 기업이었다. 로봇주 강세가 반도체 이후 국내 증시의 새 테마로 부상하는 모습이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Robot Stocks Surge as LG Electronics Jumps 18% and Foreign Buying Targets K-Robotics",
-        "excerpt": "On May 12, LG Electronics jumped 18.0% on a robotics revaluation, while foreign investors heavily bought Doosan Robotics, LG Electronics and Rainbow Robotics.",
-        "body": "According to the Korea Exchange on May 12, LG Electronics closed at 184,900 won, up 18.0% from the previous session. Intraday, it climbed as high as 195,000 won and set a 52-week high. The move reflects a market reassessment of LG Electronics as more than a home-appliance maker and as a finished-robot producer. The company is pursuing a home humanoid robot business with commercialization targeted for 2028. This month, the top three net foreign purchases were Doosan Robotics at 285.1 billion won, LG Electronics at 267.2 billion won and Rainbow Robotics at 244.6 billion won, all robotics-related names. Robotics is emerging as a new Korean market theme after semiconductors. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ロボット株が急浮上、LG電子が1日で18%高…外国人買いもKロボットへ集中",
-        "excerpt": "5月12日の韓国市場でLG電子はロボット事業の再評価を背景に18.0%急騰し、外国人投資家は主要Kロボット関連株を集中的に買い越した。",
-        "body": "韓国取引所によると、5月12日にLG電子は前営業日比18.0%高の18万4900ウォンで取引を終えた。取引時間中には19万5000ウォンまで上昇し、52週高値を更新した。背景には、同社が家電企業にとどまらずロボット完成品メーカーとして再評価される流れがある。LG電子は2028年の商用化を目標に家庭用ヒューマノイドロボット事業を進めている。今月の外国人投資家の買い越し上位3銘柄は、斗山ロボティクス2851億ウォン、LG電子2672億ウォン、レインボーロボティクス2446億ウォンで、いずれもロボット関連企業だった。半導体に続く新テーマとしてロボット株が浮上している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "机器人股快速升温，LG电子单日大涨18%…外资集中买入K机器人",
-        "excerpt": "5月12日，韩国股市中LG电子因机器人业务重估预期上涨18.0%，外资集中净买入斗山机器人、LG电子和彩虹机器人等相关个股。",
-        "body": "据韩国交易所5月12日消息，LG电子收于184900韩元，较前一交易日上涨18.0%。盘中一度升至195000韩元，刷新52周高点。上涨背景是市场开始将LG电子从单纯家电企业重新评估为机器人整机业务公司。LG电子正推进家用人形机器人业务，目标是在2028年实现商业化。本月外资净买入前三的个股分别为斗山机器人2851亿韩元、LG电子2672亿韩元、彩虹机器人2446亿韩元，均为机器人相关企业。机器人股正成为韩国股市继半导体之后的新主题。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Acciones de robótica repuntan: LG Electronics sube 18% y el capital extranjero compra K-robots",
-        "excerpt": "El 12 de mayo, LG Electronics subió 18,0% por la reevaluación de su negocio de robótica, mientras inversores extranjeros compraron con fuerza valores coreanos del sector.",
-        "body": "Según la Bolsa de Corea, el 12 de mayo LG Electronics cerró en 184.900 wones, un 18,0% más que en la sesión anterior. Durante la jornada llegó a 195.000 wones y marcó un máximo de 52 semanas. El avance responde a una reevaluación del mercado, que empieza a ver a LG Electronics no solo como fabricante de electrodomésticos, sino como productor de robots terminados. La empresa impulsa un negocio de robots humanoides para el hogar con comercialización prevista para 2028. Este mes, las tres mayores compras netas de extranjeros fueron Doosan Robotics, con 285.100 millones de wones, LG Electronics, con 267.200 millones, y Rainbow Robotics, con 244.600 millones, todas vinculadas a robótica. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Ações de robótica avançam: LG Electronics salta 18% e estrangeiros miram K-robots",
-        "excerpt": "Em 12 de maio, a LG Electronics subiu 18,0% com a reavaliação de seu negócio de robótica, enquanto estrangeiros compraram fortes ações coreanas do setor.",
-        "body": "Segundo a Bolsa da Coreia, em 12 de maio a LG Electronics fechou a 184.900 won, alta de 18,0% ante o pregão anterior. Durante a sessão, chegou a 195.000 won e renovou a máxima em 52 semanas. O movimento reflete a reavaliação da companhia, vista não apenas como fabricante de eletrodomésticos, mas como produtora de robôs completos. A LG Electronics desenvolve um negócio de robôs humanoides domésticos com meta de comercialização em 2028. Neste mês, as três maiores compras líquidas de estrangeiros foram Doosan Robotics, com 285,1 bilhões de won, LG Electronics, com 267,2 bilhões, e Rainbow Robotics, com 244,6 bilhões, todas ligadas à robótica. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Robotik-Aktien im Fokus: LG Electronics steigt 18%, Ausländer kaufen K-Robotik",
-        "excerpt": "Am 12. Mai legte LG Electronics wegen der Neubewertung seines Robotikgeschäfts um 18,0% zu, während ausländische Investoren stark in koreanische Robotikwerte gingen.",
-        "body": "Nach Angaben der Korea Exchange schloss LG Electronics am 12. Mai bei 184.900 Won und damit 18,0% über dem Vortag. Im Tagesverlauf stieg die Aktie bis auf 195.000 Won und erreichte ein 52-Wochen-Hoch. Hintergrund ist eine Neubewertung des Unternehmens: Der Markt betrachtet LG Electronics zunehmend nicht nur als Haushaltsgerätehersteller, sondern als Anbieter fertiger Roboter. Das Unternehmen treibt ein Geschäft mit humanoiden Heimrobotern voran und peilt eine Kommerzialisierung im Jahr 2028 an. Die drei größten Nettozukäufe ausländischer Investoren in diesem Monat waren Doosan Robotics mit 285,1 Mrd. Won, LG Electronics mit 267,2 Mrd. Won und Rainbow Robotics mit 244,6 Mrd. Won. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les valeurs robotiques montent: LG Electronics gagne 18% et les étrangers achètent la K-robotique",
-        "excerpt": "Le 12 mai, LG Electronics a bondi de 18,0% grâce à la réévaluation de son activité robotique, tandis que les investisseurs étrangers achetaient les titres coréens du secteur.",
-        "body": "Selon la Bourse de Corée, LG Electronics a clôturé le 12 mai à 184 900 wons, en hausse de 18,0% par rapport à la séance précédente. En séance, le titre a atteint 195 000 wons et signé un plus haut sur 52 semaines. Cette progression s’explique par une réévaluation de l’entreprise, désormais perçue au-delà de l’électroménager comme un fabricant de robots finis. LG Electronics développe une activité de robots humanoïdes domestiques avec un objectif de commercialisation en 2028. Ce mois-ci, les trois plus gros achats nets étrangers ont été Doosan Robotics, 285,1 milliards de wons, LG Electronics, 267,2 milliards, et Rainbow Robotics, 244,6 milliards, tous liés à la robotique. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "أسهم الروبوتات تتصدر المشهد: إل جي إلكترونيكس تقفز 18% والأجانب يشترون K-Robotics",
-        "excerpt": "في 12 مايو، ارتفع سهم إل جي إلكترونيكس 18.0% بدعم إعادة تقييم نشاط الروبوتات، فيما ركز المستثمرون الأجانب مشترياتهم على أسهم الروبوتات الكورية.",
-        "body": "وفقا لبورصة كوريا، أغلق سهم إل جي إلكترونيكس في 12 مايو عند 184900 وون، مرتفعا 18.0% عن الجلسة السابقة. وخلال التداول صعد إلى 195000 وون، مسجلا أعلى مستوى في 52 أسبوعا. ويعود ذلك إلى إعادة تقييم الشركة باعتبارها أكثر من شركة أجهزة منزلية، بل منتجا للروبوتات الكاملة. وتدفع إل جي إلكترونيكس نشاط الروبوتات البشرية المنزلية بهدف تجاري في 2028. هذا الشهر، كانت أكبر ثلاثة أسهم من حيث صافي شراء الأجانب هي دوسان روبوتكس بقيمة 285.1 مليار وون، وإل جي إلكترونيكس 267.2 مليار وون، ورينبو روبوتكس 244.6 مليار وون، وكلها شركات مرتبطة بالروبوتات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "रोबोटिक्स शेयरों में तेजी: LG Electronics 18% उछला, विदेशी निवेशकों की K-रोबोट्स में खरीद",
-        "excerpt": "12 मई को LG Electronics रोबोटिक्स कारोबार के पुनर्मूल्यांकन से 18.0% चढ़ा, जबकि विदेशी निवेशकों ने Doosan Robotics, LG Electronics और Rainbow Robotics में खरीदारी की।",
-        "body": "कोरिया एक्सचेंज के अनुसार, 12 मई को LG Electronics पिछले सत्र से 18.0% बढ़कर 184,900 वॉन पर बंद हुआ। कारोबार के दौरान यह 195,000 वॉन तक गया और 52-सप्ताह का उच्च स्तर छुआ। तेजी की वजह कंपनी को सिर्फ घरेलू उपकरण निर्माता नहीं, बल्कि तैयार रोबोट बनाने वाली कंपनी के रूप में फिर से आंका जाना है। LG Electronics 2028 में व्यावसायीकरण के लक्ष्य के साथ घरेलू ह्यूमनॉइड रोबोट कारोबार आगे बढ़ा रही है। इस महीने विदेशी निवेशकों की शुद्ध खरीद में शीर्ष तीन शेयर Doosan Robotics 285.1 अरब वॉन, LG Electronics 267.2 अरब वॉन और Rainbow Robotics 244.6 अरब वॉन रहे, और तीनों रोबोटिक्स से जुड़े हैं। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Saham robotika menguat: LG Electronics naik 18% dan asing memburu K-robotics",
-        "excerpt": "Pada 12 Mei, LG Electronics melonjak 18,0% karena revaluasi bisnis robotika, sementara investor asing banyak membeli Doosan Robotics, LG Electronics, dan Rainbow Robotics.",
-        "body": "Menurut Bursa Korea, pada 12 Mei LG Electronics ditutup di 184.900 won, naik 18,0% dari sesi sebelumnya. Dalam perdagangan intrahari, sahamnya sempat mencapai 195.000 won dan mencetak level tertinggi 52 minggu. Kenaikan ini terkait penilaian ulang pasar terhadap LG Electronics, bukan hanya sebagai perusahaan peralatan rumah tangga, tetapi sebagai produsen robot jadi. Perusahaan sedang mendorong bisnis robot humanoid rumah tangga dengan target komersialisasi pada 2028. Bulan ini, tiga pembelian bersih asing terbesar adalah Doosan Robotics 285,1 miliar won, LG Electronics 267,2 miliar won, dan Rainbow Robotics 244,6 miliar won, semuanya terkait robotika. Sumber: hankyung.com"
       }
     }
   }
