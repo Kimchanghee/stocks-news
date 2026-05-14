@@ -1,5 +1,230 @@
 [
   {
+    "id": "651a034dc32b",
+    "slug": "1분기에-작년-절반-번-한투순익-75-급증-104316",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T11:05:35.067Z",
+    "updatedAt": "2026-05-14T11:05:35.067Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047879",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047879",
+    "titleFingerprint": "39aa6da055fe53f5c51b673466396de9982d0133",
+    "dedupKeys": [
+      "651a034dc32b5e051a24135fa29db68624a83299",
+      "39aa6da055fe53f5c51b673466396de9982d0133",
+      "f77fb4da62e15ce98f4dffd084f5ed39f242a7f9"
+    ],
+    "imageUrl": "/images/articles/651a034dc32b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국투자증권 1분기 순익 75% 급증, 증시 랠리에 역대 최고 이익",
+        "excerpt": "한국투자증권은 올해 1분기 증시 랠리 속에 순이익이 75% 급증하며 역대 최고 분기 이익을 기록했다. 위탁매매, 운용, IB 부문이 실적을 뒷받침했다.",
+        "body": "한국투자증권이 올해 1분기 국내 증시 랠리에 힘입어 역대 최고 수준의 이익을 냈다. 원문에 따르면 한국투자증권의 1분기 순이익은 전년 대비 75% 급증했으며, 이는 작년 한 해 이익의 절반에 해당하는 규모로 제시됐다. 국내 증권사들이 증시 상승 흐름을 타고 ‘역대급’ 실적을 내는 가운데 한국투자증권도 위탁매매(BK), 운용(Trading), 기업금융(IB) 부문에서 실적을 뒷받침했다. 증시 거래와 운용 성과, 기업금융 부문의 기여가 함께 반영된 결과로 풀이된다. 향후 실적 흐름은 증시 랠리 지속 여부와 주요 사업 부문의 수익성에 영향을 받을 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Posts 75% Q1 Profit Jump on Stock Market Rally",
+        "excerpt": "Korea Investment & Securities posted record first-quarter profit as net income surged 75% amid a continuing stock market rally, supported by brokerage, trading and IB businesses.",
+        "body": "Korea Investment & Securities recorded its highest-ever first-quarter profit this year, helped by a rally in the domestic stock market. According to the source, the company’s first-quarter net income jumped 75% from a year earlier and was described as amounting to half of last year’s full-year profit. As local brokerages reported exceptional results on the back of rising stock prices, Korea Investment also benefited from brokerage, trading and investment banking operations. The result reflects contributions from market transactions, trading performance and corporate finance. Future earnings are expected to depend on whether the stock market rally continues and on profitability across its key businesses. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国投資証券、1四半期純利益75％急増 株高で過去最高益",
+        "excerpt": "韓国投資証券は今年1四半期、株式市場の上昇が続く中で純利益が75％急増し、過去最高の四半期利益を記録した。委託売買、運用、IBが支えた。",
+        "body": "韓国投資証券は今年第1四半期、国内株式市場の上昇に支えられ、過去最高水準の利益を上げた。原文によると、同社の第1四半期純利益は前年同期比75％急増し、昨年通年利益の半分に当たる規模とされた。国内証券会社が株高の流れを受けて「過去級」の業績を示す中、韓国投資証券も委託売買（BK）、運用（Trading）、企業金融（IB）部門が業績を下支えした。市場取引、運用成果、企業金融部門の寄与が反映された結果といえる。今後の業績は株式市場の上昇が続くか、主要事業部門の収益性に左右される見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国投资证券一季度净利大增75%，股市上涨推升创纪录业绩",
+        "excerpt": "韩国投资证券今年一季度在股市持续上涨背景下净利润大增75%，创下季度最高利润，券商经纪、交易和投行业务共同支撑业绩。",
+        "body": "韩国投资证券今年第一季度受韩国股市上涨推动，取得创纪录的利润水平。原文显示，该公司一季度净利润同比大增75%，规模相当于去年全年利润的一半。在韩国券商借助股市上行纷纷交出“历史级”业绩的背景下，韩国投资证券的委托买卖（BK）、运用（Trading）和企业金融（IB）部门也为业绩提供支撑。该结果反映了市场交易、运用成果以及企业金融业务的共同贡献。未来业绩走势预计将取决于股市上涨能否持续，以及主要业务部门的盈利能力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment eleva 75% su beneficio trimestral por el rally bursátil",
+        "excerpt": "Korea Investment & Securities logró en el primer trimestre un beneficio récord, con una subida del 75% en la ganancia neta, apoyada por corretaje, trading y banca de inversión.",
+        "body": "Korea Investment & Securities registró en el primer trimestre de este año su mayor beneficio histórico para ese periodo, impulsada por el rally del mercado bursátil local. Según la fuente, el beneficio neto del primer trimestre aumentó un 75% interanual y fue presentado como equivalente a la mitad de las ganancias de todo el año pasado. Mientras las firmas de valores nacionales muestran resultados excepcionales gracias al avance de la bolsa, Korea Investment también recibió apoyo de sus áreas de corretaje, trading y banca de inversión. El resultado refleja la contribución de las operaciones de mercado, el desempeño de gestión y la financiación corporativa. La evolución futura dependerá de si continúa el rally bursátil y de la rentabilidad de sus principales negocios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment vê lucro líquido saltar 75% no 1º trimestre com alta da bolsa",
+        "excerpt": "A Korea Investment & Securities registrou lucro recorde no primeiro trimestre, com alta de 75% no lucro líquido, apoiada por corretagem, trading e banco de investimento.",
+        "body": "A Korea Investment & Securities registrou no primeiro trimestre deste ano o maior lucro de sua história para o período, impulsionada pela alta do mercado acionário doméstico. Segundo a fonte, o lucro líquido do primeiro trimestre subiu 75% em relação ao ano anterior e foi descrito como equivalente à metade do lucro de todo o ano passado. Enquanto as corretoras locais apresentam resultados excepcionais com a valorização das ações, a Korea Investment também foi sustentada por corretagem, trading e banco de investimento. O resultado reflete contribuições das transações de mercado, do desempenho de gestão e das finanças corporativas. O desempenho futuro deve depender da continuidade do rali da bolsa e da rentabilidade das principais áreas de negócio. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment steigert Quartalsgewinn um 75% dank Aktienmarktrally",
+        "excerpt": "Korea Investment & Securities erzielte im ersten Quartal einen Rekordgewinn, nachdem der Nettogewinn in der anhaltenden Börsenrally um 75% gestiegen war.",
+        "body": "Korea Investment & Securities hat im ersten Quartal dieses Jahres dank der Rally am heimischen Aktienmarkt den höchsten Gewinn für diesen Zeitraum erzielt. Der Quelle zufolge stieg der Nettogewinn im ersten Quartal im Jahresvergleich um 75% und wurde als Betrag beschrieben, der der Hälfte des gesamten Vorjahresgewinns entspricht. Während südkoreanische Wertpapierhäuser von steigenden Kursen profitieren und außergewöhnliche Ergebnisse melden, wurde auch Korea Investment durch Brokerage, Trading und Investment Banking gestützt. Das Ergebnis spiegelt Beiträge aus Markttransaktionen, Handels- und Anlageergebnissen sowie Unternehmensfinanzierung wider. Die weitere Entwicklung dürfte davon abhängen, ob die Aktienmarktrally anhält und wie profitabel die wichtigsten Geschäftsbereiche bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment voit son bénéfice net bondir de 75% au 1er trimestre",
+        "excerpt": "Korea Investment & Securities a signé un bénéfice trimestriel record, avec un bénéfice net en hausse de 75%, porté par le rally boursier, le courtage, le trading et l’IB.",
+        "body": "Korea Investment & Securities a enregistré au premier trimestre de cette année son plus haut bénéfice pour cette période, soutenu par le rally du marché boursier local. Selon la source, son bénéfice net trimestriel a bondi de 75% sur un an et a été présenté comme équivalant à la moitié du bénéfice réalisé sur l’ensemble de l’an dernier. Alors que les sociétés de courtage sud-coréennes affichent des performances exceptionnelles grâce à la hausse des actions, Korea Investment a aussi été portée par le courtage, le trading et la banque d’investissement. Le résultat reflète les contributions des transactions de marché, des performances de gestion et du financement d’entreprise. La suite dépendra de la poursuite du rally boursier et de la rentabilité des principales activités. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قفزة 75% في صافي ربح كوريا إنفستمنت بالربع الأول مع صعود الأسهم",
+        "excerpt": "سجلت كوريا إنفستمنت آند سيكيوريتيز ربحا قياسيا في الربع الأول مع ارتفاع صافي الربح 75% وسط استمرار موجة صعود سوق الأسهم ودعم الوساطة والتداول والتمويل الاستثماري.",
+        "body": "حققت كوريا إنفستمنت آند سيكيوريتيز في الربع الأول من هذا العام أعلى مستوى أرباح لها لهذه الفترة، مدعومة بصعود سوق الأسهم المحلية. ووفقا للمصدر، ارتفع صافي ربح الشركة في الربع الأول بنسبة 75% على أساس سنوي، ووصف بأنه يعادل نصف أرباح العام الماضي بأكمله. وبينما تعرض شركات الأوراق المالية المحلية نتائج استثنائية مع ارتفاع السوق، استفادت كوريا إنفستمنت أيضا من أنشطة الوساطة، والتداول، والتمويل الاستثماري. وتعكس النتيجة مساهمات معاملات السوق وأداء إدارة الأصول والتمويل للشركات. ومن المتوقع أن يتوقف مسار الأرباح لاحقا على استمرار صعود سوق الأسهم وربحية قطاعات الأعمال الرئيسية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment का Q1 शुद्ध लाभ 75% उछला, शेयर बाजार रैली से रिकॉर्ड कमाई",
+        "excerpt": "Korea Investment & Securities ने शेयर बाजार की जारी तेजी के बीच पहली तिमाही में रिकॉर्ड लाभ दर्ज किया। शुद्ध लाभ 75% बढ़ा, जिसे ब्रोकरेज, ट्रेडिंग और IB ने सहारा दिया।",
+        "body": "Korea Investment & Securities ने इस साल की पहली तिमाही में घरेलू शेयर बाजार की तेजी के सहारे अपनी अब तक की सबसे ऊंची तिमाही कमाई दर्ज की। स्रोत के अनुसार, कंपनी का पहली तिमाही का शुद्ध लाभ पिछले वर्ष की तुलना में 75% बढ़ा और इसे पिछले पूरे साल के लाभ के आधे के बराबर बताया गया। जब घरेलू प्रतिभूति कंपनियां बाजार की तेजी से असाधारण नतीजे दिखा रही हैं, तब Korea Investment को भी ब्रोकरेज, ट्रेडिंग और निवेश बैंकिंग कारोबार से समर्थन मिला। यह परिणाम बाजार लेनदेन, ट्रेडिंग प्रदर्शन और कॉरपोरेट फाइनेंस के योगदान को दर्शाता है। आगे की कमाई इस बात पर निर्भर करेगी कि शेयर बाजार की तेजी जारी रहती है या नहीं और प्रमुख कारोबार कितने लाभदायक रहते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Laba Bersih Korea Investment Kuartal I Melonjak 75% Berkat Reli Saham",
+        "excerpt": "Korea Investment & Securities membukukan laba kuartal pertama tertinggi setelah laba bersih naik 75% di tengah reli pasar saham, didukung broker, trading, dan IB.",
+        "body": "Korea Investment & Securities mencatat laba tertinggi untuk kuartal pertama tahun ini, didorong reli pasar saham domestik. Menurut sumber, laba bersih kuartal pertama perusahaan melonjak 75% dibanding tahun sebelumnya dan disebut setara dengan separuh laba sepanjang tahun lalu. Saat perusahaan sekuritas lokal mencatat kinerja luar biasa berkat kenaikan pasar saham, Korea Investment juga ditopang oleh bisnis broker, trading, dan investment banking. Hasil ini mencerminkan kontribusi transaksi pasar, kinerja pengelolaan, serta pembiayaan korporasi. Ke depan, arah kinerja akan bergantung pada berlanjutnya reli pasar saham dan profitabilitas lini bisnis utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "af9863de790a",
+    "slug": "신한證-퇴직연금-수익률-2개-부문-증권업-1위-437298",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T11:04:05.498Z",
+    "updatedAt": "2026-05-14T11:04:05.498Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047881",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047881",
+    "titleFingerprint": "52a73a192aedfe2929e9f2daea4952aed4df731b",
+    "dedupKeys": [
+      "af9863de790ae2e2d3166b686208dcc0a53eb556",
+      "52a73a192aedfe2929e9f2daea4952aed4df731b",
+      "9152295ebafd86b971867efc6fd1abf2a4a175e7"
+    ],
+    "imageUrl": "/images/articles/af9863de790a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "신한투자증권, 퇴직연금 수익률 2개 부문 증권업 1위 달성",
+        "excerpt": "신한투자증권은 14일 올해 1분기 말 기준 퇴직연금 2개 부문에서 증권업권 수익률 1위를 기록했다고 밝혔다. 디폴트옵션 상품 성과가 주요 배경으로 제시됐다.",
+        "body": "신한투자증권은 14일 올해 1분기 말 기준 퇴직연금 2개 부문에서 증권업권 수익률 1위를 달성했다고 밝혔다. 회사에 따르면 디폴트옵션 부문의 ‘신한투자증권디폴트옵션중립투자형2호’가 수익률 17%를 기록하며 성과를 냈다. 퇴직연금 시장에서 수익률은 가입자의 장기 자산관리 성과와 직결되는 지표로 평가된다. 신한투자증권의 이번 발표는 증권업권 내 퇴직연금 운용 경쟁이 이어지는 가운데 나온 것이다. 향후 회사의 퇴직연금 상품 운용 성과와 가입자 선택 흐름이 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Shinhan Securities Tops Retirement Pension Returns in Two Categories",
+        "excerpt": "Shinhan Securities said on May 14 that it ranked first among securities firms in two retirement pension return categories as of the end of the first quarter this year, led by default-option performance.",
+        "body": "Shinhan Securities announced on May 14 that, as of the end of the first quarter this year, it ranked first in returns among securities firms in two retirement pension categories. According to the company, its default-option product, “Shinhan Securities Default Option Neutral Investment Type No. 2,” delivered a return of 17%. In the retirement pension market, returns are viewed as a key indicator directly tied to subscribers’ long-term asset management results. The announcement comes as competition continues among securities firms in retirement pension management. Market attention is expected to remain on the company’s pension product performance and subscriber choices. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "新韓投資証券、退職年金利回り2部門で証券業界1位に",
+        "excerpt": "新韓投資証券は14日、今年第1四半期末時点で退職年金の2部門において証券業界の利回り1位を達成したと発表した。デフォルトオプション商品の成果が背景にある。",
+        "body": "新韓投資証券は14日、今年第1四半期末時点で退職年金の2部門において、証券業界で利回り1位を達成したと明らかにした。同社によると、デフォルトオプション部門の「新韓投資証券デフォルトオプション中立投資型2号」が17%の利回りを記録し、成果を上げた。退職年金市場で利回りは、加入者の長期的な資産管理成果に直結する指標とされる。今回の発表は、証券業界内で退職年金運用をめぐる競争が続く中で行われた。今後、同社の退職年金商品の運用成果と加入者の選択動向が注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "新韩投资证券退休养老金收益率两项居证券业首位",
+        "excerpt": "新韩投资证券14日表示，截至今年第一季度末，公司在退休养老金两个领域的收益率位居证券业首位，默认选项产品表现成为主要背景。",
+        "body": "新韩投资证券14日表示，截至今年第一季度末，公司在退休养老金两个领域的收益率位居证券行业第一。公司称，默认选项领域的“新韩投资证券默认选项中立投资型2号”取得了17%的收益率。在退休养老金市场，收益率被视为直接关系到加入者长期资产管理成果的重要指标。此次发布是在证券行业退休养老金运用竞争持续的背景下作出的。未来，该公司退休养老金产品的运用表现以及加入者选择动向将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Shinhan Securities lidera rentabilidad de pensiones en dos áreas",
+        "excerpt": "Shinhan Securities informó el 14 de mayo que, al cierre del primer trimestre de este año, ocupó el primer lugar entre las firmas de valores en dos categorías de rentabilidad de pensiones de jubilación.",
+        "body": "Shinhan Securities anunció el 14 de mayo que, al cierre del primer trimestre de este año, logró el primer puesto en rentabilidad dentro del sector de valores en dos categorías de pensiones de jubilación. Según la compañía, el producto de opción por defecto “Shinhan Securities Default Option Neutral Investment Type No. 2” registró una rentabilidad del 17%. En el mercado de pensiones de jubilación, la rentabilidad se considera un indicador directamente vinculado al resultado de la gestión de activos a largo plazo de los afiliados. El anuncio llega mientras continúa la competencia por la gestión de pensiones entre las firmas de valores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Shinhan Securities lidera retorno de previdência em duas categorias",
+        "excerpt": "A Shinhan Securities informou em 14 de maio que, ao fim do primeiro trimestre deste ano, ficou em primeiro lugar entre as corretoras em duas categorias de retorno de planos de aposentadoria.",
+        "body": "A Shinhan Securities anunciou em 14 de maio que, ao fim do primeiro trimestre deste ano, alcançou o primeiro lugar em retorno no setor de corretoras em duas categorias de previdência de aposentadoria. Segundo a empresa, o produto de opção padrão “Shinhan Securities Default Option Neutral Investment Type No. 2” registrou retorno de 17%. No mercado de previdência, o retorno é visto como um indicador diretamente ligado ao desempenho de gestão de ativos de longo prazo dos participantes. O anúncio ocorre em meio à concorrência contínua entre corretoras na gestão de planos de aposentadoria. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Shinhan Securities führt bei Pensionsrenditen in zwei Kategorien",
+        "excerpt": "Shinhan Securities teilte am 14. Mai mit, dass das Unternehmen zum Ende des ersten Quartals dieses Jahres in zwei Kategorien der Altersvorsorge-Renditen unter Wertpapierfirmen den ersten Platz erreichte.",
+        "body": "Shinhan Securities gab am 14. Mai bekannt, dass das Unternehmen zum Ende des ersten Quartals dieses Jahres in zwei Kategorien der betrieblichen Altersvorsorge die höchste Rendite im Wertpapiersektor erzielt hat. Nach Angaben des Unternehmens erreichte das Default-Option-Produkt „Shinhan Securities Default Option Neutral Investment Type No. 2“ eine Rendite von 17%. Im Markt für Altersvorsorge gelten Renditen als wichtiger Indikator, der direkt mit dem langfristigen Vermögensaufbau der Teilnehmer verbunden ist. Die Mitteilung erfolgt vor dem Hintergrund anhaltenden Wettbewerbs unter Wertpapierfirmen bei der Pensionsverwaltung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Shinhan Securities en tête des rendements retraite dans deux catégories",
+        "excerpt": "Shinhan Securities a déclaré le 14 mai qu’à la fin du premier trimestre de cette année, elle occupait la première place du secteur des valeurs mobilières dans deux catégories de rendement retraite.",
+        "body": "Shinhan Securities a annoncé le 14 mai qu’à la fin du premier trimestre de cette année, elle avait atteint la première place du secteur des valeurs mobilières pour les rendements dans deux catégories de retraite. Selon la société, le produit d’option par défaut « Shinhan Securities Default Option Neutral Investment Type No. 2 » a enregistré un rendement de 17%. Sur le marché des retraites, le rendement est considéré comme un indicateur directement lié aux résultats de gestion d’actifs à long terme des adhérents. Cette annonce intervient alors que la concurrence se poursuit entre sociétés de valeurs mobilières dans la gestion des retraites. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "شينهان للاستثمار تتصدر عوائد التقاعد في فئتين بقطاع الأوراق المالية",
+        "excerpt": "أعلنت شينهان للاستثمار في 14 مايو أنها تصدرت عوائد خطط التقاعد في فئتين داخل قطاع شركات الأوراق المالية بنهاية الربع الأول من هذا العام، بدعم من أداء منتج الخيار الافتراضي.",
+        "body": "أعلنت شينهان للاستثمار في 14 مايو أنها حققت، بنهاية الربع الأول من هذا العام، المركز الأول في العوائد ضمن قطاع شركات الأوراق المالية في فئتين من خطط التقاعد. ووفقاً للشركة، سجل منتج الخيار الافتراضي “Shinhan Securities Default Option Neutral Investment Type No. 2” عائداً بلغ 17%. وفي سوق خطط التقاعد، تُعد العوائد مؤشراً يرتبط مباشرة بنتائج إدارة الأصول طويلة الأجل للمشتركين. ويأتي هذا الإعلان في ظل استمرار المنافسة بين شركات الأوراق المالية في إدارة خطط التقاعد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शिनहान सिक्योरिटीज दो सेवानिवृत्ति पेंशन श्रेणियों में शीर्ष पर",
+        "excerpt": "शिनहान सिक्योरिटीज ने 14 मई को कहा कि इस वर्ष पहली तिमाही के अंत तक उसने सेवानिवृत्ति पेंशन की दो श्रेणियों में प्रतिभूति उद्योग के भीतर रिटर्न में पहला स्थान हासिल किया।",
+        "body": "शिनहान सिक्योरिटीज ने 14 मई को घोषणा की कि इस वर्ष पहली तिमाही के अंत तक उसने सेवानिवृत्ति पेंशन की दो श्रेणियों में प्रतिभूति उद्योग के भीतर रिटर्न के मामले में पहला स्थान हासिल किया। कंपनी के अनुसार, डिफॉल्ट ऑप्शन श्रेणी के उत्पाद “Shinhan Securities Default Option Neutral Investment Type No. 2” ने 17% रिटर्न दर्ज किया। सेवानिवृत्ति पेंशन बाजार में रिटर्न को ग्राहकों के दीर्घकालिक परिसंपत्ति प्रबंधन परिणामों से सीधे जुड़ा संकेतक माना जाता है। यह घोषणा ऐसे समय आई है जब प्रतिभूति कंपनियों के बीच पेंशन प्रबंधन प्रतिस्पर्धा जारी है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Shinhan Securities Pimpin Imbal Hasil Pensiun di Dua Kategori",
+        "excerpt": "Shinhan Securities menyatakan pada 14 Mei bahwa hingga akhir kuartal pertama tahun ini, perusahaan menempati peringkat pertama imbal hasil industri sekuritas dalam dua kategori dana pensiun.",
+        "body": "Shinhan Securities mengumumkan pada 14 Mei bahwa hingga akhir kuartal pertama tahun ini, perusahaan meraih peringkat pertama imbal hasil di industri sekuritas dalam dua kategori dana pensiun. Menurut perusahaan, produk opsi default “Shinhan Securities Default Option Neutral Investment Type No. 2” mencatat imbal hasil 17%. Di pasar dana pensiun, imbal hasil dipandang sebagai indikator yang berkaitan langsung dengan hasil pengelolaan aset jangka panjang peserta. Pengumuman ini muncul saat persaingan pengelolaan dana pensiun di antara perusahaan sekuritas terus berlangsung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "310a62bec515",
+    "slug": "3개월만에-작년-반년치-벌어들였다코스피-불장에-증권사-함박웃음-413490",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T11:03:05.525Z",
+    "updatedAt": "2026-05-14T11:03:05.526Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048020",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048020",
+    "titleFingerprint": "aee99597464ed9b9c01b481a8a963a169bdb3e94",
+    "dedupKeys": [
+      "310a62bec51502f97eb29a954d0c00d23e7f701b",
+      "aee99597464ed9b9c01b481a8a963a169bdb3e94",
+      "58073e033434fd830515f6ea4229333d3edaf9bd"
+    ],
+    "imageUrl": "/images/articles/310a62bec515.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 사상 최고 행진에 증권사 실적 급증, 3개월 만에 작년 반년치 수익",
+        "excerpt": "국내 증시가 코스피 8000선을 목전에 두고 사상 최고치를 이어가면서 증권사들이 올해 1분기부터 지난해 반년치에 맞먹는 수익을 거둔 것으로 전해졌다.",
+        "body": "국내 증시가 연일 사상 최고치를 기록하며 코스피 8000선을 눈앞에 두자 증권사들이 올해 초부터 큰 폭의 실적 개선을 보이고 있다. 원문에 따르면 증권사들은 3개월 만에 지난해 반년치에 해당하는 수익을 벌어들인 것으로 전해졌다. 지난해 증권사들은 9조원대 수익을 올렸고, 올해는 순이익 10조원 돌파도 무난할 것으로 전망된다. 미래에셋증권은 분기 기준 1조원을 넘어선 것으로 언급됐다. 증시 활황이 거래와 운용 실적에 힘을 보태며 업계 전반의 수익성을 끌어올리는 흐름이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI record rally lifts broker earnings as three months match half of last year",
+        "excerpt": "As South Korea’s KOSPI nears the 8,000 mark and keeps setting record highs, securities firms reportedly earned in three months what matched about half of last year’s profit.",
+        "body": "South Korea’s stock market is continuing to set record highs, with the KOSPI approaching the 8,000 level, and securities firms are seeing a sharp improvement in earnings from the start of the year. According to the original report, brokerages earned in just three months an amount comparable to half of last year’s profit. Securities firms posted profit in the 9 trillion won range last year, and this year’s net profit is expected to surpass 10 trillion won without major difficulty. Mirae Asset Securities was cited as exceeding 1 trillion won on a quarterly basis. The market rally is supporting trading and investment performance across the sector. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI最高値更新で証券会社の業績急増、3カ月で昨年半年分の利益",
+        "excerpt": "韓国株式市場でKOSPIが8000に迫り過去最高値を更新するなか、証券会社は今年1四半期だけで昨年半年分に匹敵する利益を得たと伝えられた。",
+        "body": "韓国株式市場が連日で過去最高値を更新し、KOSPIが8000目前に迫るなか、証券会社の業績が年初から大きく改善している。原文によると、証券会社はわずか3カ月で昨年半年分に相当する利益を稼いだとされる。昨年、証券会社は9兆ウォン台の利益を上げており、今年は純利益10兆ウォン突破も無難との見方が示されている。未来アセット証券は四半期ベースで1兆ウォンを超えたと伝えられた。株式市場の活況が取引や運用実績を押し上げ、業界全体の収益性を高めている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI连创新高推升券商业绩，3个月赚到去年半年收益",
+        "excerpt": "韩国股市KOSPI逼近8000点并连续刷新历史高位，证券公司今年一季度据称已取得相当于去年半年水平的收益。",
+        "body": "韩国股市近日连续刷新历史高位，KOSPI逼近8000点，证券公司从年初开始出现明显的业绩改善。据原文报道，证券公司仅用3个月就赚得相当于去年半年水平的收益。去年证券公司收益达到9万亿韩元区间，今年净利润突破10万亿韩元被认为较为顺利。未来资产证券被提及季度收益已超过1万亿韩元。股市活跃带动交易和运用表现，正在提升证券行业整体盈利能力。出处: mk.co.kr"
+      },
+      "es": {
+        "title": "El récord del KOSPI dispara ganancias de corredoras: 3 meses igualan medio año previo",
+        "excerpt": "Con el KOSPI surcoreano cerca de los 8.000 puntos y marcando máximos históricos, las firmas de valores habrían ganado en tres meses casi lo de medio año de 2025.",
+        "body": "El mercado bursátil surcoreano sigue marcando máximos históricos y el KOSPI se acerca a los 8.000 puntos, lo que está impulsando una fuerte mejora de resultados en las firmas de valores desde comienzos de año. Según el texto original, las corredoras obtuvieron en solo tres meses un beneficio comparable al de medio año del año pasado. En 2025, el sector registró ganancias en el rango de 9 billones de wones, y este año se considera factible superar los 10 billones de wones de beneficio neto. Mirae Asset Securities fue mencionada por haber superado 1 billón de wones en el trimestre. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Alta recorde do KOSPI impulsiona corretoras, com 3 meses iguais a meio ano anterior",
+        "excerpt": "Com o KOSPI perto dos 8.000 pontos e renovando máximas históricas, corretoras sul-coreanas teriam lucrado em três meses o equivalente a meio ano passado.",
+        "body": "O mercado acionário sul-coreano segue renovando máximas históricas, com o KOSPI se aproximando dos 8.000 pontos, e as corretoras mostram forte melhora nos resultados desde o início do ano. Segundo o texto original, as empresas do setor ganharam em apenas três meses um valor comparável ao lucro de meio ano do ano passado. Em 2025, as corretoras registraram ganhos na faixa de 9 trilhões de wones, e neste ano a superação de 10 trilhões de wones em lucro líquido é vista como tranquila. A Mirae Asset Securities foi citada por ultrapassar 1 trilhão de wones no trimestre. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Rekordlauf treibt Brokergewinne: Drei Monate erreichen halbes Vorjahr",
+        "excerpt": "Da der KOSPI in Südkorea nahe an 8.000 Punkte rückt und Rekordstände markiert, erzielten Wertpapierhäuser in drei Monaten offenbar Erträge wie ein halbes Vorjahr.",
+        "body": "Der südkoreanische Aktienmarkt markiert weiter historische Höchststände, während der KOSPI auf die Marke von 8.000 Punkten zusteuert. Dadurch verbessern sich die Ergebnisse der Wertpapierhäuser seit Jahresbeginn deutlich. Dem Originalbericht zufolge verdienten die Broker in nur drei Monaten einen Betrag, der etwa dem Gewinn eines halben Vorjahres entspricht. Im vergangenen Jahr erzielten die Wertpapierfirmen Gewinne im Bereich von 9 Billionen Won; in diesem Jahr gilt ein Nettogewinn von mehr als 10 Billionen Won als gut erreichbar. Mirae Asset Securities wurde mit mehr als 1 Billion Won im Quartal genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le record du KOSPI dope les courtiers, trois mois égalant un semestre passé",
+        "excerpt": "Alors que le KOSPI sud-coréen approche 8 000 points et enchaîne les records, les sociétés de courtage auraient gagné en trois mois l’équivalent d’un semestre précédent.",
+        "body": "Le marché actions sud-coréen continue d’inscrire des records historiques, avec un KOSPI proche de 8 000 points, ce qui améliore fortement les résultats des sociétés de courtage depuis le début de l’année. Selon le texte original, les courtiers ont gagné en seulement trois mois un montant comparable à celui d’un semestre de l’an dernier. En 2025, les sociétés de valeurs mobilières avaient dégagé des bénéfices de l’ordre de 9 000 milliards de wons, et le bénéfice net de cette année devrait dépasser 10 000 milliards de wons sans difficulté majeure. Mirae Asset Securities aurait franchi 1 000 milliard de wons sur le trimestre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "صعود كوسبي القياسي يرفع أرباح شركات السمسرة في 3 أشهر إلى نصف العام الماضي",
+        "excerpt": "مع اقتراب مؤشر كوسبي الكوري من مستوى 8000 نقطة وتسجيله قمما تاريخية متتالية، حققت شركات الأوراق المالية في ثلاثة أشهر أرباحا تعادل نصف العام الماضي تقريبا.",
+        "body": "يواصل سوق الأسهم الكوري الجنوبي تسجيل مستويات قياسية، فيما يقترب مؤشر كوسبي من حاجز 8000 نقطة، ما أدى إلى تحسن كبير في نتائج شركات الأوراق المالية منذ بداية العام. ووفقا للنص الأصلي، جنت هذه الشركات خلال ثلاثة أشهر فقط ما يعادل أرباح نصف العام الماضي. وكانت شركات السمسرة قد حققت العام الماضي أرباحا في نطاق 9 تريليونات وون، بينما يبدو تجاوز صافي الربح هذا العام مستوى 10 تريليونات وون أمرا غير صعب. وذُكر أن ميراي أسيت للأوراق المالية تجاوزت 1 تريليون وون على أساس ربع سنوي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI की रिकॉर्ड तेजी से ब्रोकरेज मुनाफा उछला, 3 महीनों में पिछले आधे साल जितनी कमाई",
+        "excerpt": "दक्षिण कोरिया का KOSPI 8000 के करीब पहुंचकर लगातार रिकॉर्ड बना रहा है, जिससे प्रतिभूति कंपनियों ने तीन महीनों में पिछले साल के आधे साल के बराबर लाभ कमाया बताया गया।",
+        "body": "दक्षिण कोरिया का शेयर बाजार लगातार ऐतिहासिक ऊंचाई बना रहा है और KOSPI 8000 के स्तर के करीब है। इस तेजी से प्रतिभूति कंपनियों के नतीजों में साल की शुरुआत से बड़ा सुधार दिख रहा है। मूल रिपोर्ट के अनुसार, इन कंपनियों ने सिर्फ तीन महीनों में पिछले साल के आधे साल के बराबर कमाई की। पिछले साल प्रतिभूति कंपनियों ने 9 ट्रिलियन वॉन के दायरे में लाभ कमाया था, और इस साल शुद्ध लाभ 10 ट्रिलियन वॉन पार करना मुश्किल नहीं माना जा रहा है। Mirae Asset Securities का तिमाही आंकड़ा 1 ट्रिलियन वॉन से ऊपर बताया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Reli KOSPI cetak rekor dongkrak laba sekuritas, 3 bulan setara setengah tahun lalu",
+        "excerpt": "Saat KOSPI Korea Selatan mendekati level 8.000 dan terus mencetak rekor, perusahaan sekuritas disebut meraih laba tiga bulan yang setara sekitar setengah tahun lalu.",
+        "body": "Pasar saham Korea Selatan terus mencetak rekor tertinggi, dengan KOSPI mendekati level 8.000, sehingga kinerja perusahaan sekuritas membaik tajam sejak awal tahun. Menurut teks asli, perusahaan sekuritas memperoleh dalam hanya tiga bulan keuntungan yang sebanding dengan setengah tahun lalu. Tahun lalu, perusahaan sekuritas mencatat laba di kisaran 9 triliun won, dan tahun ini laba bersih dipandang dapat melampaui 10 triliun won tanpa kesulitan besar. Mirae Asset Securities disebut telah melewati 1 triliun won secara kuartalan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "8d919456d9eb",
     "slug": "젠슨-황-손잡고-중국-간-트럼프-美빅테크-동반-상승-147869",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Prospek Semikonduktor Disorot Setelah Mok Dae-gyun Sebut Reli Masih Berlanjut",
         "excerpt": "CEO KCGI Asset Management Mok Dae-gyun pada 13 Mei 2026 membahas semikonduktor, prinsip investasi, dan pandangan pasar dalam wawancara Hankyung PREMIUM9 TODAY.",
         "body": "Pada 13 Mei 2026, Hankyung PREMIUM9 TODAY menerbitkan wawancara dengan Mok Dae-gyun, CEO KCGI Asset Management, yang menyoroti prospek investasi semikonduktor dan prinsip investasinya. Dalam artikel itu, Mok mengatakan semikonduktor masih dapat bergerak lebih jauh dan menyampaikan agar investor tidak turun dari kuda yang sedang berlari. Ia diperkenalkan sebagai sosok yang membantu memulihkan pokok Insight Fund milik Mirae Asset Management, sekaligus pakar pasar berkembang dan pendukung analisis perusahaan. Wawancara tersebut membahas filosofi investasinya dan pandangan terhadap pasar. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "bf68b56cd1cc",
-    "slug": "하워드-막스의-ai시대-투자전략-공개-414387",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T18:34:23.778Z",
-    "updatedAt": "2026-05-13T18:34:23.778Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051345471",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051345471",
-    "titleFingerprint": "ace5f3c2a8584e1f41adcd481a165ff764873082",
-    "dedupKeys": [
-      "bf68b56cd1ccd01d3b6449c0097b96a23612cb32",
-      "ace5f3c2a8584e1f41adcd481a165ff764873082",
-      "b29a7bb10615452a5b8a0bee10aa8fe4850927d8"
-    ],
-    "imageUrl": "/images/articles/bf68b56cd1cc.png",
-    "i18n": {
-      "ko": {
-        "title": "하워드 막스 AI시대 투자전략, KIW 2026서 시장 리스크 논의",
-        "excerpt": "하워드 막스 오크트리캐피털 회장이 5월 14일 KIW 2026에서 AI 시대 투자 사이클과 리스크를 주제로 시장 변화와 투자 전략을 논의한다.",
-        "body": "하워드 막스 오크트리캐피털 회장이 5월 14일 ‘코리아 인베스트먼트 위크(KIW) 2026’ 셋째 날 행사에서 AI 시대 투자전략을 논의한다. 막스 회장은 윤석모 삼성증권 리서치센터장과 ‘AI 시대 투자 사이클과 리스크’를 주제로 대담하며, 시장 변화와 투자 전략을 짚을 예정이다. 한국경제에 따르면 이날 행사에서는 AI와 디지털 자산, K컬처 산업을 둘러싼 글로벌 투자 전략 논의가 이어진다. 막스 회장은 최근 AI 열풍 속 자산시장 과열 가능성과 장기 투자 원칙에 대한 의견을 제시할 예정이며, 삼성증권 수석연구위원들은 ‘AI 랠리, 이제 무엇을 보아야 하는가’를 주제로 향후 증시 방향성을 진단한다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Howard Marks to Discuss AI-Era Investment Strategy and Market Risk at KIW 2026",
-        "excerpt": "Howard Marks, chairman of Oaktree Capital, will discuss investment cycles and risks in the AI era at KIW 2026 on May 14.",
-        "body": "Howard Marks, chairman of Oaktree Capital, will discuss investment strategy for the AI era on May 14, the third day of Korea Investment Week 2026. Marks is scheduled to speak with Yoon Seok-mo, head of Samsung Securities’ research center, under the theme “Investment Cycles and Risks in the AI Era,” covering market changes and investment strategy. According to Hankyung, the day’s program will also feature global investment strategy discussions on AI, digital assets and K-culture industries. Marks is expected to address the possibility of overheating in asset markets amid the recent AI boom and share views on long-term investment principles. Senior researchers at Samsung Securities will assess the future direction of the stock market under the topic “AI Rally: What Should Investors Watch Now?” Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ハワード・マークス氏、KIW 2026でAI時代の投資戦略と市場リスクを議論",
-        "excerpt": "オークツリー・キャピタルのハワード・マークス会長は5月14日、KIW 2026でAI時代の投資サイクルとリスクを議論する。",
-        "body": "オークツリー・キャピタルのハワード・マークス会長は5月14日、「コリア・インベストメント・ウィーク（KIW）2026」3日目の行事でAI時代の投資戦略を議論する。マークス氏はサムスン証券リサーチセンター長のユン・ソクモ氏と「AI時代の投資サイクルとリスク」をテーマに対談し、市場の変化と投資戦略を取り上げる予定だ。韓国経済によると、この日はAI、デジタル資産、Kカルチャー産業をめぐるグローバル投資戦略の議論が続く。マークス氏は最近のAIブームの中で資産市場が過熱する可能性と長期投資原則について意見を示す見通しで、サムスン証券の主席研究委員らは「AIラリー、今何を見るべきか」をテーマに今後の株式市場の方向性を診断する。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "霍华德·马克斯将在KIW 2026讨论AI时代投资策略与市场风险",
-        "excerpt": "橡树资本董事长霍华德·马克斯将于5月14日在KIW 2026上讨论AI时代的投资周期、市场风险与投资策略。",
-        "body": "橡树资本董事长霍华德·马克斯将于5月14日在“韩国投资周（KIW）2026”第三天活动中讨论AI时代的投资策略。马克斯将与三星证券研究中心负责人尹锡模围绕“AI时代的投资周期与风险”展开对话，讨论市场变化和投资策略。据韩国经济报道，当天活动还将继续围绕AI、数字资产和K文化产业展开全球投资策略讨论。马克斯预计将就近期AI热潮下资产市场过热的可能性以及长期投资原则发表看法。三星证券首席研究委员们也将以“AI行情，现在应关注什么”为主题，评估未来股市方向。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Howard Marks analizará estrategia de inversión y riesgos de la era IA en KIW 2026",
-        "excerpt": "Howard Marks, presidente de Oaktree Capital, debatirá el 14 de mayo en KIW 2026 los ciclos de inversión y riesgos de la era de la IA.",
-        "body": "Howard Marks, presidente de Oaktree Capital, analizará el 14 de mayo la estrategia de inversión para la era de la inteligencia artificial durante la tercera jornada de Korea Investment Week 2026. Marks conversará con Yoon Seok-mo, director del centro de investigación de Samsung Securities, bajo el tema “Ciclos de inversión y riesgos en la era de la IA”, abordando cambios del mercado y estrategias de inversión. Según Hankyung, ese día continuarán las discusiones sobre estrategias globales de inversión en torno a la IA, los activos digitales y las industrias de K-culture. Marks prevé exponer su visión sobre la posible sobrecalentamiento de los mercados de activos ante el reciente auge de la IA y sobre los principios de inversión a largo plazo. Investigadores sénior de Samsung Securities evaluarán la dirección futura del mercado bursátil con el tema “Rally de IA: qué mirar ahora”. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Howard Marks discutirá estratégia de investimento e riscos da era da IA no KIW 2026",
-        "excerpt": "Howard Marks, presidente da Oaktree Capital, discutirá em 14 de maio no KIW 2026 os ciclos de investimento e riscos da era da IA.",
-        "body": "Howard Marks, presidente da Oaktree Capital, discutirá em 14 de maio a estratégia de investimento para a era da inteligência artificial no terceiro dia da Korea Investment Week 2026. Marks conversará com Yoon Seok-mo, chefe do centro de pesquisa da Samsung Securities, sob o tema “Ciclos de investimento e riscos na era da IA”, abordando mudanças de mercado e estratégias de investimento. Segundo o Hankyung, o evento desse dia também dará continuidade a discussões sobre estratégias globais de investimento ligadas a IA, ativos digitais e indústrias de K-culture. Marks deverá apresentar sua visão sobre a possibilidade de superaquecimento dos mercados de ativos em meio ao recente entusiasmo com IA e sobre princípios de investimento de longo prazo. Pesquisadores seniores da Samsung Securities avaliarão a direção futura do mercado acionário com o tema “Rali da IA: o que observar agora”. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Howard Marks spricht bei KIW 2026 über Anlagestrategie und Risiken im KI-Zeitalter",
-        "excerpt": "Howard Marks, Chairman von Oaktree Capital, diskutiert am 14. Mai bei KIW 2026 Anlagezyklen und Risiken im KI-Zeitalter.",
-        "body": "Howard Marks, Chairman von Oaktree Capital, wird am 14. Mai, dem dritten Tag der Korea Investment Week 2026, über Anlagestrategien im KI-Zeitalter sprechen. Marks ist für ein Gespräch mit Yoon Seok-mo, Leiter des Research Centers von Samsung Securities, zum Thema „Anlagezyklen und Risiken im KI-Zeitalter“ vorgesehen, bei dem Marktveränderungen und Investmentstrategien erörtert werden. Laut Hankyung setzt das Programm an diesem Tag auch die Diskussionen über globale Anlagestrategien rund um KI, digitale Vermögenswerte und K-Culture-Industrien fort. Marks soll seine Einschätzung zur möglichen Überhitzung der Vermögensmärkte im Zuge des jüngsten KI-Booms sowie zu langfristigen Anlageprinzipien darlegen. Senior Researcher von Samsung Securities bewerten unter dem Thema „KI-Rally: Worauf sollte man jetzt achten?“ die weitere Richtung des Aktienmarktes. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Howard Marks discutera stratégie d’investissement et risques de l’ère IA au KIW 2026",
-        "excerpt": "Howard Marks, président d’Oaktree Capital, discutera le 14 mai au KIW 2026 des cycles d’investissement et des risques liés à l’IA.",
-        "body": "Howard Marks, président d’Oaktree Capital, discutera le 14 mai de la stratégie d’investissement à l’ère de l’intelligence artificielle lors du troisième jour de Korea Investment Week 2026. Marks doit échanger avec Yoon Seok-mo, responsable du centre de recherche de Samsung Securities, sur le thème « Cycles d’investissement et risques à l’ère de l’IA », en abordant les évolutions du marché et les stratégies d’investissement. Selon Hankyung, la journée poursuivra aussi les discussions sur les stratégies mondiales d’investissement autour de l’IA, des actifs numériques et des industries de la K-culture. Marks devrait présenter son point de vue sur le risque de surchauffe des marchés d’actifs dans le contexte du récent engouement pour l’IA et sur les principes d’investissement à long terme. Des chercheurs seniors de Samsung Securities analyseront l’orientation future du marché boursier sous le thème « Rallye de l’IA : que faut-il regarder maintenant ? » Source: hankyung.com"
-      },
-      "ar": {
-        "title": "هوارد ماركس يناقش استراتيجية الاستثمار ومخاطر عصر الذكاء الاصطناعي في KIW 2026",
-        "excerpt": "يناقش هوارد ماركس، رئيس أوكتري كابيتال، في 14 مايو خلال KIW 2026 دورات الاستثمار والمخاطر في عصر الذكاء الاصطناعي.",
-        "body": "يناقش هوارد ماركس، رئيس أوكتري كابيتال، في 14 مايو استراتيجية الاستثمار في عصر الذكاء الاصطناعي خلال اليوم الثالث من Korea Investment Week 2026. ومن المقرر أن يتحاور ماركس مع يون سوك مو، رئيس مركز الأبحاث في سامسونغ للأوراق المالية، تحت عنوان “دورات الاستثمار والمخاطر في عصر الذكاء الاصطناعي”، مع تناول تغيرات السوق واستراتيجيات الاستثمار. وبحسب Hankyung، ستتواصل في ذلك اليوم مناقشات استراتيجيات الاستثمار العالمية حول الذكاء الاصطناعي والأصول الرقمية وصناعات الثقافة الكورية. ومن المتوقع أن يعرض ماركس رأيه في احتمال سخونة أسواق الأصول وسط موجة الاهتمام الأخيرة بالذكاء الاصطناعي، وفي مبادئ الاستثمار طويل الأجل. كما سيقيّم كبار الباحثين في سامسونغ للأوراق المالية اتجاه سوق الأسهم المقبل تحت عنوان “صعود الذكاء الاصطناعي: ما الذي يجب مراقبته الآن؟” المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "हावर्ड मार्क्स KIW 2026 में AI युग की निवेश रणनीति और बाजार जोखिम पर चर्चा करेंगे",
-        "excerpt": "ओकट्री कैपिटल के चेयरमैन हावर्ड मार्क्स 14 मई को KIW 2026 में AI युग के निवेश चक्र और जोखिमों पर चर्चा करेंगे।",
-        "body": "ओकट्री कैपिटल के चेयरमैन हावर्ड मार्क्स 14 मई को Korea Investment Week 2026 के तीसरे दिन AI युग की निवेश रणनीति पर चर्चा करेंगे। मार्क्स, Samsung Securities के रिसर्च सेंटर प्रमुख यून सियोक-मो के साथ “AI युग में निवेश चक्र और जोखिम” विषय पर बातचीत करेंगे, जिसमें बाजार बदलाव और निवेश रणनीति पर चर्चा होगी। Hankyung के अनुसार, उस दिन AI, डिजिटल एसेट और K-culture उद्योगों से जुड़ी वैश्विक निवेश रणनीतियों पर भी चर्चा जारी रहेगी। मार्क्स हालिया AI उत्साह के बीच एसेट बाजारों में ओवरहीटिंग की संभावना और दीर्घकालिक निवेश सिद्धांतों पर अपनी राय रख सकते हैं। Samsung Securities के वरिष्ठ शोधकर्ता “AI रैली: अब क्या देखना चाहिए?” विषय पर आगे के शेयर बाजार की दिशा का आकलन करेंगे। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Howard Marks Bahas Strategi Investasi Era AI dan Risiko Pasar di KIW 2026",
-        "excerpt": "Howard Marks, chairman Oaktree Capital, akan membahas siklus investasi dan risiko era AI pada 14 Mei di KIW 2026.",
-        "body": "Howard Marks, chairman Oaktree Capital, akan membahas strategi investasi era kecerdasan buatan pada 14 Mei, hari ketiga Korea Investment Week 2026. Marks dijadwalkan berdialog dengan Yoon Seok-mo, kepala pusat riset Samsung Securities, dengan tema “Siklus Investasi dan Risiko di Era AI,” mencakup perubahan pasar dan strategi investasi. Menurut Hankyung, agenda hari itu juga melanjutkan pembahasan strategi investasi global seputar AI, aset digital, dan industri K-culture. Marks diperkirakan menyampaikan pandangan tentang kemungkinan pasar aset mengalami overheating di tengah gelombang AI terbaru serta prinsip investasi jangka panjang. Para peneliti senior Samsung Securities akan menilai arah pasar saham ke depan lewat tema “Reli AI: Apa yang Perlu Dilihat Sekarang?” Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "134314434e2b",
-    "slug": "정은보-주식시장으로-자금-몰려20년-뒤엔-부동산-넘어설-것-193149",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T18:33:17.790Z",
-    "updatedAt": "2026-05-13T18:33:17.790Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051345491",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051345491",
-    "titleFingerprint": "7542f42466488a4b7e11d5500e3c3683cb5e0ad8",
-    "dedupKeys": [
-      "134314434e2b8e0dfbb4a33f094db50d1e07f93a",
-      "7542f42466488a4b7e11d5500e3c3683cb5e0ad8",
-      "2b5abd24d9d0f100990ee2a3eda54cdaf4164810"
-    ],
-    "imageUrl": "/images/articles/134314434e2b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "정은보, 주식시장 자금 이동 주목…20년 뒤 부동산 추월 전망",
-        "excerpt": "정은보 한국거래소 이사장은 13일 KIW 2026에서 밸류업 정책으로 금융·주식시장에 자금이 몰리며 20년 뒤 가계 금융자산 비중이 부동산을 넘어설 것으로 내다봤다.",
-        "body": "정은보 한국거래소 이사장은 13일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 한국 자본시장의 주주가치 제고 방향을 주제로 강연했다. 그는 밸류업 정책 시행으로 구조적 변화가 나타나고 있으며, 과거 주택 구매로 향하던 여유 자금이 최근 금융시장으로 몰리고 있다고 말했다. 올해 코스피지수는 80% 급등해 지난해 상승률 75.6%를 반년도 안 돼 넘어섰다. 정 이사장은 AI·반도체·방산·조선 등 유망 산업에 기술특례 상장 제도를 맞춤형으로 도입하고, 9월 프리·애프터마켓 도입과 내년 말 24시간 거래 추진도 언급했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Jung Eun-bo Sees Stock Market Funds Rising, Overtaking Property in 20 Years",
-        "excerpt": "KRX Chairman Jung Eun-bo said at KIW 2026 on May 13 that value-up policies are drawing money into financial and stock markets, with household financial assets expected to surpass real estate in 20 years.",
-        "body": "Jung Eun-bo, chairman of the Korea Exchange, spoke on May 13 at the Shilla Hotel in Seoul during Korea Investment Week (KIW) 2026 on ways to raise shareholder value in Korea’s capital market. He said structural change is emerging as value-up policies take effect, and surplus household money that once went into home purchases is now flowing into financial markets. The Kospi has surged 80% this year, already exceeding last year’s 75.6% gain in less than half a year. Jung also cited tailored special listing rules for promising industries such as AI, semiconductors, defense and shipbuilding, plus pre- and after-market trading from September and a push for 24-hour trading by the end of next year. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "鄭恩甫氏、株式市場への資金流入に注目…20年後に不動産超えを予想",
-        "excerpt": "韓国取引所の鄭恩甫理事長は5月13日のKIW 2026で、バリューアップ政策により金融・株式市場へ資金が集まり、20年後に家計の金融資産比率が不動産を上回ると述べた。",
-        "body": "韓国取引所の鄭恩甫理事長は13日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、韓国資本市場の株主価値向上の方向をテーマに講演した。鄭氏は、バリューアップ政策の実施で構造的な変化が起きており、かつて住宅購入に向かっていた余裕資金が最近は金融市場に集まっていると説明した。今年のKOSPI指数は80%急騰し、昨年の上昇率75.6%を半年足らずで上回った。AI、半導体、防衛、造船など有望産業向けの技術特例上場制度を個別に導入し、9月のプレ・アフターマーケット導入と来年末を目標にした24時間取引推進にも触れた。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "郑恩甫称资金流向股市，20年后金融资产或超房地产",
-        "excerpt": "韩国交易所理事长郑恩甫5月13日在KIW 2026表示，价值提升政策正推动资金进入金融和股票市场，预计20年后韩国家庭金融资产占比将超过房地产。",
-        "body": "韩国交易所理事长郑恩甫13日在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026上，就提升韩国资本市场股东价值的方向发表演讲。他表示，随着价值提升政策实施，市场正在出现结构性变化，过去用于购房的闲置资金近期正流向金融市场。今年KOSPI指数已大涨80%，不到半年就超过去年75.6%的全年涨幅。郑恩甫还提到，将为AI、半导体、军工、造船等有前景产业量身引入技术特例上市制度，并从9月起导入盘前和盘后交易，推动明年年底前实现24小时交易。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Jung Eun-bo ve capital hacia la bolsa y prevé que supere al ladrillo en 20 años",
-        "excerpt": "El presidente de Korea Exchange, Jung Eun-bo, dijo el 13 de mayo en KIW 2026 que la política de value-up atrae fondos a los mercados financiero y bursátil, y que en 20 años los activos financieros de los hogares superarán al inmobiliario.",
-        "body": "Jung Eun-bo, presidente de Korea Exchange, intervino el 13 de mayo en el hotel Shilla de Seúl durante Korea Investment Week (KIW) 2026, con una ponencia sobre cómo elevar el valor para los accionistas en el mercado de capitales coreano. Señaló que la política de value-up está generando cambios estructurales y que el dinero disponible de los hogares, antes dirigido a la compra de vivienda, fluye ahora hacia los mercados financieros. El Kospi ha subido 80% este año, superando en menos de medio año el avance de 75,6% registrado el año pasado. También mencionó reglas especiales de cotización para AI, semiconductores, defensa y construcción naval, además de mercado pre y post desde septiembre y negociación 24 horas para finales del próximo año. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Jung Eun-bo vê dinheiro migrando para ações e superar imóveis em 20 anos",
-        "excerpt": "O presidente da Korea Exchange, Jung Eun-bo, afirmou em 13 de maio no KIW 2026 que políticas de value-up atraem recursos aos mercados financeiro e acionário, e que ativos financeiros das famílias devem superar imóveis em 20 anos.",
-        "body": "Jung Eun-bo, presidente da Korea Exchange, falou em 13 de maio no hotel Shilla, em Seul, durante a Korea Investment Week (KIW) 2026, sobre caminhos para elevar o valor ao acionista no mercado de capitais coreano. Ele disse que a política de value-up está criando mudanças estruturais e que recursos excedentes das famílias, antes destinados à compra de moradias, vêm migrando para o mercado financeiro. O Kospi avançou 80% neste ano, superando em menos de meio ano a alta de 75,6% registrada no ano passado. Jung também citou listagens especiais sob medida para IA, semicondutores, defesa e construção naval, além de pré e pós-mercado em setembro e negociação 24 horas até o fim do próximo ano. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Jung Eun-bo sieht Geld in Aktien fließen und in 20 Jahren Immobilien überholen",
-        "excerpt": "KRX-Chef Jung Eun-bo sagte am 13. Mai bei der KIW 2026, Value-up-Politik lenke Kapital in Finanz- und Aktienmärkte; in 20 Jahren dürfte der Finanzanteil der Haushaltsvermögen Immobilien übertreffen.",
-        "body": "Jung Eun-bo, Chairman der Korea Exchange, sprach am 13. Mai im Shilla Hotel in Seoul bei der Korea Investment Week (KIW) 2026 über Wege zur Steigerung des Aktionärswerts am koreanischen Kapitalmarkt. Er sagte, durch die Value-up-Politik entstünden strukturelle Veränderungen, und freie Mittel der Haushalte, die früher in Wohnungskäufe geflossen seien, konzentrierten sich zuletzt auf die Finanzmärkte. Der Kospi ist in diesem Jahr um 80% gestiegen und hat damit den Vorjahresanstieg von 75,6% in weniger als einem halben Jahr übertroffen. Jung nannte zudem maßgeschneiderte Sonderlistings für KI, Halbleiter, Rüstung und Schiffbau sowie Pre- und After-Market-Handel ab September und 24-Stunden-Handel bis Ende kommenden Jahres. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Jung Eun-bo voit l’argent aller vers les actions et dépasser l’immobilier en 20 ans",
-        "excerpt": "Le président de Korea Exchange, Jung Eun-bo, a déclaré le 13 mai au KIW 2026 que la politique de value-up attire les fonds vers les marchés financiers et boursiers, les actifs financiers des ménages devant dépasser l’immobilier en 20 ans.",
-        "body": "Jung Eun-bo, président de Korea Exchange, est intervenu le 13 mai à l’hôtel Shilla de Séoul lors de Korea Investment Week (KIW) 2026 sur les moyens d’accroître la valeur actionnariale du marché coréen des capitaux. Il a déclaré que la politique de value-up provoque des changements structurels et que l’épargne disponible des ménages, autrefois orientée vers l’achat de logements, afflue désormais vers les marchés financiers. Le Kospi a bondi de 80% cette année, dépassant en moins de six mois la hausse de 75,6% enregistrée l’an dernier. Il a aussi évoqué des règles de cotation spéciales pour l’IA, les semi-conducteurs, la défense et la construction navale, ainsi que le pré et post-marché dès septembre et la cotation 24 heures sur 24 d’ici fin 2027. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "جونغ أون بو: الأموال تتجه إلى الأسهم وقد تتجاوز العقارات خلال 20 عاما",
-        "excerpt": "قال رئيس بورصة كوريا جونغ أون بو في 13 مايو خلال KIW 2026 إن سياسات رفع القيمة تجذب الأموال إلى الأسواق المالية وأسواق الأسهم، متوقعا أن تتجاوز الأصول المالية للأسر العقارات خلال 20 عاما.",
-        "body": "تحدث جونغ أون بو، رئيس بورصة كوريا، في 13 مايو بفندق شيلا في سول خلال أسبوع كوريا للاستثمار KIW 2026 عن اتجاهات تعزيز قيمة المساهمين في سوق رأس المال الكورية. وقال إن تنفيذ سياسات رفع القيمة أحدث تغيرا هيكليا، وإن الأموال الفائضة لدى الأسر، التي كانت تتجه سابقا إلى شراء المساكن، باتت تتدفق مؤخرا إلى الأسواق المالية. وارتفع مؤشر كوسبي هذا العام 80%، متجاوزا في أقل من نصف عام مكسب العام الماضي البالغ 75.6%. كما أشار إلى إدخال نظام إدراج خاص ومصمم لقطاعات واعدة مثل الذكاء الاصطناعي وأشباه الموصلات والدفاع وبناء السفن، وإطلاق تداول ما قبل وبعد السوق في سبتمبر، والسعي إلى تداول على مدار 24 ساعة بحلول نهاية العام المقبل. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "जंग उन-बो ने शेयर बाजार में धन प्रवाह देखा, 20 साल में रियल एस्टेट से आगे",
-        "excerpt": "कोरिया एक्सचेंज के चेयरमैन जंग उन-बो ने 13 मई को KIW 2026 में कहा कि वैल्यू-अप नीति से धन वित्तीय और शेयर बाजारों में जा रहा है, और 20 साल बाद परिवारों की वित्तीय संपत्ति रियल एस्टेट से अधिक हो सकती है।",
-        "body": "कोरिया एक्सचेंज के चेयरमैन जंग उन-बो ने 13 मई को सियोल के शिल्ला होटल में Korea Investment Week (KIW) 2026 में कोरियाई पूंजी बाजार में शेयरधारक मूल्य बढ़ाने की दिशा पर भाषण दिया। उन्होंने कहा कि वैल्यू-अप नीति लागू होने से संरचनात्मक बदलाव दिख रहा है और जो अतिरिक्त धन पहले घर खरीदने में जाता था, वह हाल में वित्तीय बाजारों की ओर जा रहा है। इस साल कोस्पी सूचकांक 80% उछला है और आधे साल से कम समय में पिछले साल की 75.6% बढ़त को पार कर चुका है। जंग ने AI, सेमीकंडक्टर, रक्षा और जहाज निर्माण जैसे संभावनाशील उद्योगों के लिए तकनीकी विशेष लिस्टिंग व्यवस्था, सितंबर से प्री और आफ्टर मार्केट, तथा अगले साल के अंत तक 24 घंटे ट्रेडिंग 추진 करने का भी उल्लेख किया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Jung Eun-bo Soroti Dana Masuk Saham, Bisa Lampaui Properti dalam 20 Tahun",
-        "excerpt": "Ketua Korea Exchange Jung Eun-bo mengatakan pada 13 Mei di KIW 2026 bahwa kebijakan value-up menarik dana ke pasar keuangan dan saham, dengan aset finansial rumah tangga diperkirakan melampaui properti dalam 20 tahun.",
-        "body": "Ketua Korea Exchange Jung Eun-bo berbicara pada 13 Mei di Hotel Shilla, Seoul, dalam Korea Investment Week (KIW) 2026 tentang arah peningkatan nilai pemegang saham di pasar modal Korea. Ia mengatakan kebijakan value-up mulai memunculkan perubahan struktural, sementara dana lebih rumah tangga yang dulu diarahkan untuk membeli rumah kini mengalir ke pasar keuangan. Indeks Kospi telah melonjak 80% tahun ini, melampaui kenaikan tahun lalu sebesar 75,6% dalam waktu kurang dari setengah tahun. Jung juga menyebut rencana aturan listing khusus yang disesuaikan untuk industri prospektif seperti AI, semikonduktor, pertahanan dan galangan kapal, serta pembukaan pre dan after market mulai September dan dorongan perdagangan 24 jam pada akhir tahun depan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "139366c814a3",
-    "slug": "웨스턴디지털-ai-붐에-백조로-거듭난-hdd-기업-197704",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T18:32:01.993Z",
-    "updatedAt": "2026-05-13T18:32:01.993Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605133370i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605133370i",
-    "titleFingerprint": "2d4e933da4dd729b287b09704e8724042bd41e09",
-    "dedupKeys": [
-      "139366c814a36723de636779374497808878226e",
-      "2d4e933da4dd729b287b09704e8724042bd41e09",
-      "b04a793f86db59eca4d69a7cabda61778963d653"
-    ],
-    "imageUrl": "/images/articles/139366c814a3.jpg",
-    "i18n": {
-      "ko": {
-        "title": "웨스턴디지털, AI 붐 속 HDD 기업 재평가로 주목",
-        "excerpt": "웨스턴디지털이 AI 확산 흐름 속에서 전통적 HDD 기업이라는 평가를 넘어 새롭게 주목받고 있다고 hankyung.com이 전했다.",
-        "body": "웨스턴디지털이 AI 붐 속에서 HDD 기업으로 다시 주목받고 있다. hankyung.com은 웨스턴디지털을 ‘AI 붐에 백조로 거듭난 HDD 기업’으로 소개했다. 기사에 따르면 시장의 관심은 AI 확산이 데이터 저장 수요와 관련 산업 평가에 어떤 의미를 갖는지에 맞춰져 있다. 전통적 저장장치 기업으로 인식되던 웨스턴디지털이 AI 흐름 속에서 재평가되는 점이 핵심이다. 향후 관전 포인트는 AI 관련 수요가 HDD 사업과 기업 가치 평가에 어떤 영향을 주는지다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Western Digital Gains Attention as AI Boom Revalues HDD Maker",
-        "excerpt": "Western Digital is drawing renewed attention as the AI boom prompts investors to reassess its identity as a traditional HDD company, according to hankyung.com.",
-        "body": "Western Digital is gaining renewed attention as an HDD company amid the AI boom. hankyung.com described the company as an HDD maker transformed into a “swan” by the AI boom. According to the article, market interest centers on what the spread of AI means for data storage demand and related industry valuations. The key point is that Western Digital, long viewed as a traditional storage-device company, is being reassessed in the AI era. The next focus is how AI-related demand may affect its HDD business and corporate valuation. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ウエスタンデジタル、AIブームでHDD企業として再評価",
-        "excerpt": "ウエスタンデジタルがAI拡大の流れの中で、従来型HDD企業という評価を超えて改めて注目されているとhankyung.comが伝えた。",
-        "body": "ウエスタンデジタルがAIブームの中でHDD企業として再び注目されている。hankyung.comは同社を「AIブームで白鳥に生まれ変わったHDD企業」と紹介した。記事によると、市場の関心はAIの普及がデータ保存需要と関連産業の評価にどのような意味を持つかに向かっている。従来型ストレージ企業と見られてきたウエスタンデジタルが、AIの流れの中で再評価されている点が核心だ。今後の焦点はAI関連需要がHDD事業と企業価値評価に与える影響だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "西部数据受AI热潮推动，HDD企业价值获重新关注",
-        "excerpt": "据hankyung.com报道，西部数据在AI扩散背景下正突破传统HDD企业形象，重新受到市场关注。",
-        "body": "西部数据在AI热潮中作为HDD企业重新受到关注。hankyung.com将其称为“在AI热潮中蜕变为白天鹅的HDD企业”。报道称，市场关注点在于AI扩散对数据存储需求以及相关行业估值意味着什么。长期被视为传统存储设备企业的西部数据，正在AI趋势下获得重新评价，这是报道的核心。未来观察重点是AI相关需求将如何影响其HDD业务和企业价值评估。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Western Digital atrae miradas por la revalorización de HDD con la IA",
-        "excerpt": "Western Digital vuelve a recibir atención mientras el auge de la IA impulsa una reevaluación de su perfil como empresa tradicional de discos HDD, según hankyung.com.",
-        "body": "Western Digital vuelve a llamar la atención como empresa de HDD en medio del auge de la IA. hankyung.com la presentó como una compañía de HDD que se transformó en un “cisne” gracias al boom de la inteligencia artificial. Según el artículo, el interés del mercado se centra en lo que la expansión de la IA implica para la demanda de almacenamiento de datos y la valoración de industrias relacionadas. El punto clave es que Western Digital, vista durante mucho tiempo como una firma tradicional de almacenamiento, está siendo reevaluada dentro de esta tendencia. La atención futura estará en el impacto de la demanda vinculada a la IA sobre su negocio de HDD y su valoración. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Western Digital ganha destaque com reavaliação dos HDDs na era da IA",
-        "excerpt": "A Western Digital volta ao radar com o avanço da IA, que leva o mercado a reavaliar sua imagem de empresa tradicional de HDDs, segundo o hankyung.com.",
-        "body": "A Western Digital volta a ganhar atenção como empresa de HDD em meio ao boom da IA. O hankyung.com apresentou a companhia como uma fabricante de HDD que se transformou em um “cisne” com o avanço da inteligência artificial. Segundo o artigo, o interesse do mercado está no significado da expansão da IA para a demanda por armazenamento de dados e para a avaliação de setores relacionados. O ponto central é que a Western Digital, antes vista principalmente como uma empresa tradicional de dispositivos de armazenamento, está sendo reavaliada nesse contexto. O foco daqui em diante será o efeito da demanda ligada à IA sobre seu negócio de HDD e sua avaliação corporativa. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Western Digital rückt durch KI-Boom als HDD-Anbieter neu in den Fokus",
-        "excerpt": "Western Digital wird im Zuge des KI-Booms neu beachtet, da der Markt die Rolle des traditionellen HDD-Unternehmens neu bewertet, berichtet hankyung.com.",
-        "body": "Western Digital rückt im KI-Boom als HDD-Unternehmen erneut in den Fokus. hankyung.com beschrieb den Konzern als HDD-Anbieter, der sich durch den KI-Boom in einen „Schwan“ verwandelt habe. Dem Artikel zufolge richtet sich das Marktinteresse darauf, was die Verbreitung von KI für die Nachfrage nach Datenspeicherung und die Bewertung verwandter Branchen bedeutet. Entscheidend ist, dass Western Digital, lange als traditioneller Speichergerätehersteller wahrgenommen, im KI-Umfeld neu bewertet wird. Künftig steht im Mittelpunkt, wie sich KI-bezogene Nachfrage auf das HDD-Geschäft und die Unternehmensbewertung auswirkt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Western Digital attire l’attention avec la revalorisation des HDD liée à l’IA",
-        "excerpt": "Western Digital revient au premier plan alors que l’essor de l’IA amène le marché à réévaluer son profil d’entreprise traditionnelle de HDD, selon hankyung.com.",
-        "body": "Western Digital attire de nouveau l’attention comme entreprise de HDD dans le contexte du boom de l’IA. hankyung.com l’a présentée comme un fabricant de HDD devenu un « cygne » grâce à l’essor de l’intelligence artificielle. Selon l’article, l’intérêt du marché porte sur ce que la diffusion de l’IA signifie pour la demande de stockage de données et la valorisation des secteurs associés. Le point central est que Western Digital, longtemps perçue comme une entreprise traditionnelle de dispositifs de stockage, est réévaluée dans cette dynamique. Le prochain sujet à suivre sera l’effet de la demande liée à l’IA sur son activité HDD et sa valorisation. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ويسترن ديجيتال تعود للواجهة مع إعادة تقييم أقراص HDD بفعل الذكاء الاصطناعي",
-        "excerpt": "تحظى ويسترن ديجيتال باهتمام متجدد مع اتساع موجة الذكاء الاصطناعي، ما يدفع السوق لإعادة تقييمها كشركة تقليدية في أقراص HDD، وفق hankyung.com.",
-        "body": "تحظى ويسترن ديجيتال باهتمام متجدد كشركة تعمل في أقراص HDD وسط طفرة الذكاء الاصطناعي. ووصفها موقع hankyung.com بأنها شركة HDD تحولت إلى «بجعة» بفضل هذه الطفرة. وبحسب المقال، يتركز اهتمام السوق على ما يعنيه انتشار الذكاء الاصطناعي لطلب تخزين البيانات وتقييم القطاعات المرتبطة به. النقطة الأساسية أن ويسترن ديجيتال، التي نُظر إليها طويلا كشركة تقليدية لأجهزة التخزين، تخضع لإعادة تقييم في ظل هذا الاتجاه. وسيكون محور المتابعة هو تأثير الطلب المرتبط بالذكاء الاصطناعي في أعمال HDD وتقييم الشركة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "AI बूम से Western Digital पर नजर, HDD कंपनी का पुनर्मूल्यांकन",
-        "excerpt": "hankyung.com के अनुसार, AI के प्रसार के बीच Western Digital पारंपरिक HDD कंपनी की छवि से आगे बढ़कर फिर से बाजार का ध्यान खींच रही है।",
-        "body": "AI बूम के बीच Western Digital एक HDD कंपनी के रूप में फिर से ध्यान खींच रही है। hankyung.com ने कंपनी को AI बूम से “हंस” में बदलती HDD कंपनी के रूप में पेश किया। लेख के अनुसार, बाजार की रुचि इस बात पर है कि AI का प्रसार डेटा स्टोरेज मांग और संबंधित उद्योगों के मूल्यांकन के लिए क्या मायने रखता है। मुख्य बात यह है कि लंबे समय से पारंपरिक स्टोरेज डिवाइस कंपनी मानी जाने वाली Western Digital को AI प्रवृत्ति में फिर से आंका जा रहा है। आगे ध्यान इस पर रहेगा कि AI से जुड़ी मांग उसके HDD कारोबार और कंपनी मूल्यांकन को कैसे प्रभावित करती है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Western Digital Disorot saat Boom AI Mengangkat Ulang Bisnis HDD",
-        "excerpt": "Western Digital kembali mendapat perhatian karena boom AI mendorong pasar menilai ulang posisinya sebagai perusahaan HDD tradisional, menurut hankyung.com.",
-        "body": "Western Digital kembali menjadi perhatian sebagai perusahaan HDD di tengah boom AI. hankyung.com menggambarkan perusahaan ini sebagai produsen HDD yang berubah menjadi “angsa” berkat boom kecerdasan buatan. Menurut artikel tersebut, perhatian pasar tertuju pada arti penyebaran AI bagi permintaan penyimpanan data dan valuasi industri terkait. Intinya, Western Digital yang lama dipandang sebagai perusahaan perangkat penyimpanan tradisional sedang dinilai ulang dalam arus AI. Fokus berikutnya adalah bagaimana permintaan terkait AI memengaruhi bisnis HDD dan valuasi perusahaan. Sumber: hankyung.com"
       }
     }
   }
