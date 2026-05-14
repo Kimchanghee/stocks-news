@@ -1,5 +1,230 @@
 [
   {
+    "id": "24926e5aff8e",
+    "slug": "또-신고가삼성전자-주가-30만원-눈앞-매경-자이앤트-191317",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T14:48:08.857Z",
+    "updatedAt": "2026-05-14T14:48:08.857Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047333",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047333",
+    "titleFingerprint": "57e0413db4ded9bf8fd469d75c0807cf525f2ef1",
+    "dedupKeys": [
+      "24926e5aff8e46d5605108a4ebaff19bfb8d53f2",
+      "57e0413db4ded9bf8fd469d75c0807cf525f2ef1",
+      "7d2e7772c35282a056befc10888fd9c110617196"
+    ],
+    "imageUrl": "/images/articles/24926e5aff8e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자 신고가 경신, 30만원 눈앞…국내 증시 끌어올린 강세",
+        "excerpt": "삼성전자는 14일 오전 9시56분 전 거래일보다 1만4250원(5.02%) 오른 29만8250원에 거래되며 역사적 신고가를 다시 돌파하고 국내 주식시장을 끌어올렸다.",
+        "body": "삼성전자가 14일 오전 9시56분 기준 전 거래일보다 1만4250원, 5.02% 오른 29만8250원에 거래되며 역사적 신고가를 다시 넘어섰다. 주가는 30만원에 바짝 다가서며 국내 주식시장을 끌어올리는 흐름을 보였다. 원문에 따르면 삼성전자는 또다시 신고가를 돌파했고, 이 강세가 국내 증시 전반의 상승 분위기에 영향을 주고 있다. 이번 보도에서 제시된 핵심 수치는 29만8250원, 상승 폭 1만4250원, 상승률 5.02%다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Samsung Electronics Hits Fresh Record High, Nears 300,000 Won as Market Rises",
+        "excerpt": "Samsung Electronics traded at 298,250 won at 9:56 a.m. on May 14, up 14,250 won or 5.02% from the previous session, breaking another record high and lifting the Korean stock market.",
+        "body": "Samsung Electronics again broke through a historic record high on May 14. As of 9:56 a.m., the stock was trading at 298,250 won, up 14,250 won, or 5.02%, from the previous trading day. The move brought the share price close to the 300,000 won mark and helped lift the domestic stock market. According to the original report, Samsung Electronics’ latest record-setting gain is contributing to a broader upward tone in Korean equities. The key figures cited are 298,250 won, a gain of 14,250 won, and a 5.02% rise. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "サムスン電子が最高値更新、30万ウォン目前で韓国株式市場を押し上げ",
+        "excerpt": "サムスン電子は5月14日午前9時56分、前営業日比1万4250ウォン（5.02%）高の29万8250ウォンで取引され、過去最高値を再び更新した。",
+        "body": "サムスン電子は5月14日午前9時56分時点で、前営業日より1万4250ウォン、5.02%上昇した29万8250ウォンで取引され、過去最高値を再び突破した。株価は30万ウォンに迫り、韓国国内の株式市場を押し上げる流れとなっている。原文によると、サムスン電子は再び最高値を更新し、この強い値動きが韓国株全体の上昇ムードに影響している。報道で示された主な数値は29万8250ウォン、上昇幅1万4250ウォン、上昇率5.02%である。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "三星电子再创新高逼近30万韩元，强势行情提振韩国股市",
+        "excerpt": "5月14日上午9时56分，三星电子较前一交易日上涨14250韩元，涨幅5.02%，报298250韩元，再次突破历史新高并带动韩国股市上行。",
+        "body": "三星电子5月14日上午9时56分报298250韩元，较前一交易日上涨14250韩元，涨幅为5.02%，再次突破历史新高。该股价格已逼近30万韩元，并呈现出带动韩国国内股市上扬的走势。根据原文报道，三星电子再度刷新高点，其强势表现正在影响韩国股市整体的上涨氛围。本次报道给出的核心数据为298250韩元、上涨14250韩元、涨幅5.02%。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Samsung Electronics marca nuevo máximo y roza los 300.000 wones en bolsa",
+        "excerpt": "Samsung Electronics cotizaba el 14 de mayo a las 9:56 a 298.250 wones, 14.250 wones o 5,02% más que en la sesión previa, tras superar otro máximo histórico y elevar el mercado surcoreano.",
+        "body": "Samsung Electronics volvió a superar un máximo histórico el 14 de mayo. A las 9:56, la acción cotizaba a 298.250 wones, un alza de 14.250 wones, equivalente al 5,02%, frente a la jornada anterior. El precio quedó muy cerca de los 300.000 wones y mostró una tendencia que impulsa al mercado bursátil surcoreano. Según el informe original, Samsung Electronics rompió de nuevo su récord, y esta fortaleza influye en el tono alcista del mercado local. Las cifras clave citadas son 298.250 wones, una subida de 14.250 wones y un avance del 5,02%. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Samsung Electronics renova máxima e se aproxima de 300 mil wons na bolsa",
+        "excerpt": "A Samsung Electronics era negociada em 14 de maio, às 9h56, a 298.250 wons, alta de 14.250 wons ou 5,02% ante o pregão anterior, renovando recorde histórico e impulsionando o mercado sul-coreano.",
+        "body": "A Samsung Electronics voltou a superar uma máxima histórica em 14 de maio. Às 9h56, a ação era negociada a 298.250 wons, alta de 14.250 wons, ou 5,02%, em relação ao pregão anterior. O preço ficou perto da marca de 300 mil wons e ajudou a elevar o mercado acionário doméstico. Segundo a reportagem original, a Samsung Electronics rompeu novamente seu recorde, e essa força influencia o clima positivo das ações sul-coreanas. Os principais números informados são 298.250 wons, alta de 14.250 wons e avanço de 5,02%. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Samsung Electronics erreicht Rekordhoch und nähert sich 300.000 Won",
+        "excerpt": "Samsung Electronics notierte am 14. Mai um 9:56 Uhr bei 298.250 Won, 14.250 Won oder 5,02% höher als am vorherigen Handelstag, und durchbrach erneut ein historisches Hoch.",
+        "body": "Samsung Electronics hat am 14. Mai erneut ein historisches Rekordhoch überschritten. Um 9:56 Uhr wurde die Aktie bei 298.250 Won gehandelt, ein Plus von 14.250 Won oder 5,02% gegenüber dem vorherigen Handelstag. Damit rückte der Kurs nahe an die Marke von 300.000 Won und stützte den südkoreanischen Aktienmarkt. Dem Originalbericht zufolge setzte Samsung Electronics erneut eine Bestmarke, und diese Stärke beeinflusst die allgemein freundliche Stimmung am heimischen Markt. Die genannten Kernzahlen sind 298.250 Won, ein Anstieg um 14.250 Won und ein Plus von 5,02%. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Samsung Electronics signe un nouveau record et approche les 300 000 wons",
+        "excerpt": "Samsung Electronics cotait le 14 mai à 9h56 à 298 250 wons, en hausse de 14 250 wons ou 5,02% par rapport à la séance précédente, franchissant un nouveau record historique.",
+        "body": "Samsung Electronics a de nouveau franchi un record historique le 14 mai. À 9h56, l’action se négociait à 298 250 wons, en hausse de 14 250 wons, soit 5,02%, par rapport à la séance précédente. Le cours s’est rapproché du seuil des 300 000 wons et a contribué à soutenir le marché boursier sud-coréen. Selon l’article original, Samsung Electronics a encore battu un record, et cette vigueur influence l’ambiance haussière du marché local. Les chiffres clés cités sont 298 250 wons, une hausse de 14 250 wons et une progression de 5,02%. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "سهم سامسونغ إلكترونيكس يسجل قمة جديدة ويقترب من 300 ألف وون",
+        "excerpt": "جرى تداول سهم سامسونغ إلكترونيكس في 14 مايو الساعة 9:56 صباحا عند 298250 وونا، مرتفعا 14250 وونا أو 5.02% عن الجلسة السابقة، ليكسر مستوى قياسيا جديدا ويدعم سوق الأسهم الكورية.",
+        "body": "سجل سهم سامسونغ إلكترونيكس في 14 مايو مستوى قياسيا تاريخيا جديدا. وبحلول الساعة 9:56 صباحا، جرى تداول السهم عند 298250 وونا، بارتفاع 14250 وونا، أو 5.02%، مقارنة بيوم التداول السابق. واقترب السعر بذلك من مستوى 300 ألف وون، في حركة ساعدت على رفع سوق الأسهم المحلية في كوريا. ووفقا للتقرير الأصلي، اخترق سهم سامسونغ إلكترونيكس مستوى قياسيا مرة أخرى، وأسهم هذا الزخم في دعم أجواء الصعود في السوق. الأرقام الأساسية الواردة هي 298250 وونا، وارتفاع 14250 وونا، ونسبة 5.02%. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Samsung Electronics का शेयर नए रिकॉर्ड पर, 300,000 वॉन के करीब पहुंचा",
+        "excerpt": "Samsung Electronics का शेयर 14 मई को सुबह 9:56 बजे पिछले सत्र से 14,250 वॉन यानी 5.02% बढ़कर 298,250 वॉन पर कारोबार कर रहा था, जिससे नया ऐतिहासिक उच्च स्तर बना और कोरियाई बाजार को सहारा मिला।",
+        "body": "Samsung Electronics ने 14 मई को फिर एक ऐतिहासिक उच्च स्तर पार किया। सुबह 9:56 बजे शेयर पिछले कारोबारी दिन से 14,250 वॉन, यानी 5.02%, बढ़कर 298,250 वॉन पर कारोबार कर रहा था। यह भाव 300,000 वॉन के करीब पहुंच गया और घरेलू शेयर बाजार को ऊपर ले जाने वाली चाल दिखी। मूल रिपोर्ट के अनुसार, Samsung Electronics ने फिर रिकॉर्ड ऊंचाई तोड़ी, और इसकी मजबूती कोरियाई शेयर बाजार के व्यापक सकारात्मक रुख को प्रभावित कर रही है। रिपोर्ट में दिए गए मुख्य आंकड़े 298,250 वॉन, 14,250 वॉन की बढ़त और 5.02% की तेजी हैं। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Samsung Electronics Cetak Rekor Baru, Harga Saham Dekati 300.000 Won",
+        "excerpt": "Samsung Electronics pada 14 Mei pukul 09.56 diperdagangkan di 298.250 won, naik 14.250 won atau 5,02% dari sesi sebelumnya, kembali menembus rekor tertinggi dan mengangkat pasar saham Korea.",
+        "body": "Samsung Electronics kembali menembus rekor tertinggi historis pada 14 Mei. Pada pukul 09.56, sahamnya diperdagangkan di 298.250 won, naik 14.250 won atau 5,02% dari hari perdagangan sebelumnya. Harga itu mendekati level 300.000 won dan menunjukkan pergerakan yang ikut mengangkat pasar saham domestik Korea. Menurut laporan asli, Samsung Electronics kembali mencetak rekor, dan penguatan ini memengaruhi sentimen kenaikan di pasar lokal. Angka utama yang disebutkan adalah 298.250 won, kenaikan 14.250 won, dan kenaikan 5,02%. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "9c2de97a80e1",
+    "slug": "美주식분석-ai모델-개발한-고3-투자고수-291371",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T14:46:57.896Z",
+    "updatedAt": "2026-05-14T14:46:57.896Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047759",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047759",
+    "titleFingerprint": "afa26278111774be161ca92ba27154890747648f",
+    "dedupKeys": [
+      "9c2de97a80e134698ab1f6e63fb40332f29701b2",
+      "afa26278111774be161ca92ba27154890747648f",
+      "9879d2bebc143282d1596c06a3582d0ef5c3d44c"
+    ],
+    "imageUrl": "/images/articles/9c2de97a80e1.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 주식분석 AI모델 만든 고3 투자고수, 개인투자자 정보 활용에 주목",
+        "excerpt": "고등학교 3학년 투자자가 미국 주식분석 AI모델을 개발했다. 주식 초보 시절 정보 탐색과 투자 판단 연결의 어려움을 겪은 경험이 개발 배경이 됐다.",
+        "body": "고등학교 3학년 투자자가 미국 주식분석 AI모델을 개발했다고 mk.co.kr이 전했다. 그는 처음 주식 투자를 시작했을 때 수많은 정보 속에서 어떤 정보를 어디서 찾아야 하는지, 이를 어떻게 투자 판단과 연결해 활용해야 하는지 몰랐다고 밝혔다. 이번 모델 개발은 개인투자자도 필요한 정보를 더 쉽게 찾고 투자 판단에 활용할 수 있도록 하려는 경험에서 출발했다. 원문은 이 학생을 ‘투자고수’로 소개하며, 미국 주식 분석에 AI를 접목한 사례로 다뤘다. 정보 과잉 환경에서 개인투자자가 신뢰할 만한 자료를 선별하고 해석하는 일이 중요해진 만큼, 해당 모델은 투자 정보 접근 방식에 대한 관심을 키우는 사례로 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "High School Senior Builds U.S. Stock Analysis AI Model for Retail Investors",
+        "excerpt": "A high school senior investor developed an AI model for U.S. stock analysis after struggling as a beginner to find the right information and connect it to investment decisions.",
+        "body": "A high school senior investor has developed an AI model for analyzing U.S. stocks, according to mk.co.kr. The student said that when first starting stock investing, they did not know what information to look for, where to find it, or how to connect and use it in investment decisions amid a flood of data. The model grew out of that experience, with the aim of helping individual investors more easily find relevant information and apply it to their own judgment. The original article introduced the student as an experienced young investor and covered the case as an example of applying AI to U.S. stock analysis. As retail investors face an overload of information, selecting and interpreting useful data has become more important. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米国株分析AIモデルを開発した高校3年生投資家、個人投資家支援に注目",
+        "excerpt": "高校3年生の投資家が米国株分析AIモデルを開発した。投資を始めた頃、情報探しと投資判断への活用に苦労した経験が背景にある。",
+        "body": "高校3年生の投資家が米国株を分析するAIモデルを開発したと、mk.co.krが伝えた。本人は、初めて株式投資を始めた時、膨大な情報の中でどの情報をどこで探し、それをどのように投資判断につなげて活用すべきか分からなかったと語った。今回のモデル開発は、その経験を生かし、個人投資家も必要な情報をより簡単に見つけ、投資判断に活用できるようにする発想から始まった。原文はこの生徒を「投資の達人」と紹介し、米国株分析にAIを組み合わせた事例として取り上げている。情報過多の環境で、有用な資料を選び解釈する重要性が高まる中、投資情報への接し方を考えさせる事例として注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高中三年级投资高手开发美国股票分析AI模型，聚焦个人投资者信息使用",
+        "excerpt": "一名高中三年级投资者开发了美国股票分析AI模型。其初入股市时曾苦于寻找信息并将其用于投资判断，这成为开发背景。",
+        "body": "据mk.co.kr报道，一名高中三年级投资者开发了用于分析美国股票的AI模型。他表示，刚开始进行股票投资时，面对大量信息，不知道该找哪些信息、去哪里找，也不知道如何把信息连接到投资判断并加以利用。此次模型开发正是基于这一经历，希望帮助个人投资者更容易找到所需信息，并用于自己的投资判断。原文将这名学生称为“投资高手”，并将其作为AI应用于美国股票分析的案例进行介绍。在信息过载的环境下，个人投资者筛选并解读有用资料变得更加重要，该模型也因此成为关注投资信息获取方式的一个案例。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Estudiante de secundaria crea modelo de IA para analizar acciones de EE. UU.",
+        "excerpt": "Un estudiante de último año de secundaria desarrolló un modelo de IA para analizar acciones estadounidenses tras vivir dificultades para encontrar información útil y aplicarla a decisiones de inversión.",
+        "body": "Un estudiante de último año de secundaria desarrolló un modelo de IA para analizar acciones de Estados Unidos, informó mk.co.kr. El joven explicó que, cuando comenzó a invertir en bolsa, no sabía qué información buscar, dónde encontrarla ni cómo conectarla con sus decisiones de inversión en medio de una avalancha de datos. El desarrollo del modelo partió de esa experiencia, con la idea de que los inversores particulares también puedan encontrar con más facilidad la información necesaria y usarla en sus propios criterios de inversión. El artículo original lo presenta como un joven inversor destacado y aborda el caso como una aplicación de IA al análisis de acciones estadounidenses. En un entorno de exceso de información, seleccionar e interpretar datos útiles se vuelve cada vez más relevante. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Estudante do ensino médio cria modelo de IA para analisar ações dos EUA",
+        "excerpt": "Um estudante do último ano do ensino médio desenvolveu um modelo de IA para análise de ações dos EUA após enfrentar dificuldades para encontrar informações e usá-las em decisões de investimento.",
+        "body": "Um estudante do último ano do ensino médio desenvolveu um modelo de IA para analisar ações dos Estados Unidos, segundo o mk.co.kr. Ele afirmou que, quando começou a investir em ações, não sabia que informações procurar, onde encontrá-las nem como conectá-las e utilizá-las em suas decisões de investimento em meio a um grande volume de dados. O modelo nasceu dessa experiência, com o objetivo de ajudar investidores individuais a localizar informações relevantes com mais facilidade e aplicá-las ao próprio julgamento. O texto original apresenta o estudante como um jovem investidor habilidoso e trata o caso como uma aplicação de IA à análise de ações americanas. Em um ambiente de excesso de informação, selecionar e interpretar dados úteis tornou-se mais importante. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Schüler entwickelt KI-Modell zur Analyse von US-Aktien für Privatanleger",
+        "excerpt": "Ein Schüler der Abschlussklasse entwickelte ein KI-Modell zur Analyse von US-Aktien, nachdem er als Anlageanfänger Probleme hatte, relevante Informationen zu finden und zu nutzen.",
+        "body": "Ein Schüler der Abschlussklasse hat ein KI-Modell zur Analyse von US-Aktien entwickelt, berichtete mk.co.kr. Er erklärte, dass er zu Beginn seiner Aktieninvestitionen angesichts der Informationsflut nicht wusste, welche Informationen er suchen sollte, wo er sie findet und wie er sie mit Anlageentscheidungen verknüpfen und nutzen kann. Die Entwicklung des Modells geht auf diese Erfahrung zurück und soll Privatanlegern helfen, benötigte Informationen leichter zu finden und für ihre eigenen Anlageentscheidungen zu verwenden. Der Originalartikel stellt den Schüler als versierten jungen Investor vor und behandelt den Fall als Beispiel für den Einsatz von KI in der Analyse von US-Aktien. In einem Umfeld mit Informationsüberfluss wird es für Privatanleger wichtiger, nützliche Daten auszuwählen und zu interpretieren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un lycéen crée un modèle d’IA pour analyser les actions américaines",
+        "excerpt": "Un lycéen en dernière année a développé un modèle d’IA d’analyse des actions américaines après avoir eu du mal, à ses débuts, à trouver les bonnes informations et à les utiliser pour investir.",
+        "body": "Un lycéen en dernière année a développé un modèle d’IA destiné à analyser les actions américaines, selon mk.co.kr. Il a expliqué que lorsqu’il a commencé à investir en Bourse, il ne savait pas quelles informations rechercher, où les trouver ni comment les relier à ses décisions d’investissement dans un flot massif de données. Le modèle est né de cette expérience, avec l’objectif d’aider les investisseurs particuliers à trouver plus facilement les informations nécessaires et à les utiliser dans leur propre jugement. L’article original le présente comme un jeune investisseur averti et traite ce cas comme un exemple d’application de l’IA à l’analyse des actions américaines. Dans un environnement marqué par la surabondance d’informations, choisir et interpréter des données utiles devient essentiel. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طالب ثانوي يطور نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية للمستثمرين الأفراد",
+        "excerpt": "طور طالب في السنة الأخيرة من المرحلة الثانوية نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية، مستندا إلى تجربته الأولى حين صعب عليه العثور على المعلومات وربطها بقرارات الاستثمار.",
+        "body": "أفاد موقع mk.co.kr بأن طالبا في السنة الأخيرة من المرحلة الثانوية طور نموذجا للذكاء الاصطناعي لتحليل الأسهم الأمريكية. وقال الطالب إنه عندما بدأ الاستثمار في الأسهم لأول مرة، لم يكن يعرف وسط سيل من المعلومات ما الذي يجب البحث عنه، وأين يجده، وكيف يربطه بقرارات الاستثمار ويستخدمه. وجاء تطوير النموذج انطلاقا من هذه التجربة، بهدف مساعدة المستثمرين الأفراد على العثور على المعلومات المطلوبة بسهولة أكبر واستخدامها في أحكامهم الاستثمارية. وقد قدم المقال الأصلي الطالب بوصفه مستثمرا شابا متمرسا، وتناول الحالة كمثال على دمج الذكاء الاصطناعي في تحليل الأسهم الأمريكية. ومع تزايد وفرة المعلومات، تبرز أهمية اختيار البيانات المفيدة وتفسيرها للمستثمر الفرد. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "हाई स्कूल सीनियर ने अमेरिकी शेयर विश्लेषण के लिए AI मॉडल बनाया",
+        "excerpt": "हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयरों के विश्लेषण के लिए AI मॉडल विकसित किया। शुरुआती निवेश दौर में सही जानकारी खोजने और उसे फैसलों से जोड़ने की कठिनाई इसकी पृष्ठभूमि बनी।",
+        "body": "mk.co.kr के अनुसार, हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयरों का विश्लेषण करने वाला AI मॉडल विकसित किया है। छात्र ने बताया कि जब उसने पहली बार शेयर निवेश शुरू किया, तो सूचनाओं की भारी भीड़ में उसे यह समझ नहीं आता था कि कौन सी जानकारी खोजनी है, उसे कहां खोजना है और उसे निवेश निर्णयों से जोड़कर कैसे उपयोग करना है। इसी अनुभव से मॉडल विकसित करने का विचार निकला, ताकि व्यक्तिगत निवेशक भी आवश्यक जानकारी अधिक आसानी से ढूंढ सकें और उसे अपने निवेश निर्णयों में उपयोग कर सकें। मूल लेख ने इस छात्र को एक कुशल युवा निवेशक के रूप में पेश किया और इसे अमेरिकी शेयर विश्लेषण में AI के उपयोग के उदाहरण के तौर पर देखा। सूचना की अधिकता वाले माहौल में उपयोगी डेटा चुनना और समझना और महत्वपूर्ण हो गया है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Siswa Kelas Akhir SMA Buat Model AI Analisis Saham AS untuk Investor Ritel",
+        "excerpt": "Seorang siswa kelas akhir SMA mengembangkan model AI untuk analisis saham AS setelah mengalami kesulitan mencari informasi yang tepat dan menghubungkannya dengan keputusan investasi.",
+        "body": "Seorang siswa kelas akhir SMA mengembangkan model AI untuk menganalisis saham Amerika Serikat, menurut mk.co.kr. Ia mengatakan bahwa saat pertama kali mulai berinvestasi saham, ia tidak tahu informasi apa yang harus dicari, di mana mencarinya, dan bagaimana menghubungkannya dengan keputusan investasi di tengah banjir informasi. Pengembangan model ini berangkat dari pengalaman tersebut, dengan tujuan membantu investor individu menemukan informasi yang dibutuhkan dengan lebih mudah dan menggunakannya dalam penilaian investasi mereka. Artikel asli memperkenalkan siswa ini sebagai investor muda yang mahir dan membahasnya sebagai contoh penerapan AI dalam analisis saham AS. Dalam lingkungan informasi yang berlebihan, kemampuan memilih dan menafsirkan data yang berguna menjadi semakin penting. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "3be6b75d9f75",
+    "slug": "미중-정상회담-첫날-뉴욕증시-일제히-상승-출발다우나스닥-각각-051-144507",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T14:45:46.595Z",
+    "updatedAt": "2026-05-14T14:45:46.595Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12048283",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048283",
+    "titleFingerprint": "8066b62c076f92d964943ed4d52c2cd2d9c80d4e",
+    "dedupKeys": [
+      "3be6b75d9f755d7a1a81273f034ec9fae53d61ee",
+      "8066b62c076f92d964943ed4d52c2cd2d9c80d4e",
+      "0277053d3106ac9e4463a8724e93589c26b50c94"
+    ],
+    "imageUrl": "/images/articles/3be6b75d9f75.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미중 정상회담 첫날 뉴욕증시 상승 출발, 다우·나스닥 0.51% 올라",
+        "excerpt": "도널드 트럼프 미국 대통령이 14일 현지시간 중국 베이징에서 시진핑 국가주석과 정상회담을 시작하자 뉴욕증시는 다우와 나스닥이 각각 0.51% 오르며 상승 출발했다.",
+        "body": "도널드 트럼프 미국 대통령이 중국 베이징을 찾아 시진핑 중국 국가주석과 정상회담을 시작한 첫날, 뉴욕증시는 14일 현지시간 일제히 상승 출발했다. 뉴욕증권거래소(NYSE)에 따르면 이날 장 초반 다우지수와 나스닥지수는 각각 0.51% 상승했다. 이번 흐름은 미중 정상회담이 시작된 가운데 주요 지수가 동시에 오름세로 출발했다는 점에서 시장의 초기 반응을 보여준다. 다만 원문은 장중 이후 흐름이나 회담 결과에 따른 추가 전망은 제시하지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "U.S.-China Summit Opens as Wall Street Rises, Dow and Nasdaq Up 0.51%",
+        "excerpt": "As U.S. President Donald Trump began talks with Chinese President Xi Jinping in Beijing on May 14 local time, Wall Street opened higher, with the Dow and Nasdaq each rising 0.51%.",
+        "body": "On the first day of U.S. President Donald Trump’s visit to Beijing for a summit with Chinese President Xi Jinping, Wall Street opened broadly higher on May 14 local time. According to the New York Stock Exchange, the Dow and Nasdaq each gained 0.51% in early trading. The move showed an initial market response as major indexes started the session in positive territory while the U.S.-China summit got under way. The original report did not provide later intraday moves or further forecasts tied to the summit outcome. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米中首脳会談初日、NY株式市場が上昇発進 ダウ・ナスダック0.51％高",
+        "excerpt": "ドナルド・トランプ米大統領が現地時間14日、中国・北京で習近平国家主席との首脳会談を始める中、NY株式市場はダウとナスダックがそれぞれ0.51％上昇して始まった。",
+        "body": "ドナルド・トランプ米大統領が中国・北京を訪れ、習近平国家主席との首脳会談を開始した初日、ニューヨーク株式市場は現地時間14日にそろって上昇して取引を始めた。ニューヨーク証券取引所（NYSE）によると、序盤にダウ平均とナスダック指数はいずれも0.51％上昇した。米中首脳会談が始まる中、主要指数が同時に上向きで出発した点が市場の初期反応として示された。ただし原文は、その後の相場展開や会談結果に基づく追加見通しには触れていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美中峰会首日美股集体高开，道指与纳指均涨0.51%",
+        "excerpt": "美国总统唐纳德·特朗普于当地时间14日在北京与中国国家主席习近平开始举行峰会之际，纽约股市集体高开，道指和纳指均上涨0.51%。",
+        "body": "美国总统唐纳德·特朗普访问中国北京，并与中国国家主席习近平开始举行峰会的首日，纽约股市于当地时间14日集体高开。据纽约证券交易所（NYSE）消息，当天早盘道琼斯指数和纳斯达克指数均上涨0.51%。这一走势显示，在美中峰会启动之际，主要股指同步以涨势开盘，反映出市场的初步反应。不过，原文未提供盘中后续走势，也未就峰会结果带来的进一步影响作出展望。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Cumbre EE. UU.-China impulsa apertura de Wall Street; Dow y Nasdaq suben 0,51%",
+        "excerpt": "Mientras Donald Trump inició el 14 de mayo, hora local, una cumbre con Xi Jinping en Pekín, Wall Street abrió al alza, con el Dow y el Nasdaq avanzando un 0,51% cada uno.",
+        "body": "En el primer día de la visita del presidente estadounidense Donald Trump a Pekín para iniciar una cumbre con el presidente chino Xi Jinping, Wall Street abrió al alza el 14 de mayo, hora local. Según la Bolsa de Nueva York (NYSE), el Dow Jones y el Nasdaq subieron un 0,51% cada uno en las primeras operaciones. El movimiento mostró la reacción inicial del mercado mientras los principales índices comenzaban la sesión en terreno positivo durante el inicio de la cumbre entre EE. UU. y China. El texto original no ofreció datos posteriores de la sesión ni previsiones adicionales ligadas al resultado de la reunión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Cúpula EUA-China abre com Wall Street em alta; Dow e Nasdaq sobem 0,51%",
+        "excerpt": "Enquanto Donald Trump iniciou em 14 de maio, no horário local, uma reunião de cúpula com Xi Jinping em Pequim, Wall Street abriu em alta, com Dow e Nasdaq subindo 0,51% cada.",
+        "body": "No primeiro dia da visita do presidente dos Estados Unidos, Donald Trump, a Pequim para iniciar uma reunião de cúpula com o presidente chinês Xi Jinping, Wall Street abriu em alta em 14 de maio, no horário local. Segundo a Bolsa de Valores de Nova York (NYSE), o Dow Jones e o Nasdaq avançaram 0,51% cada um no início do pregão. O movimento mostrou a reação inicial do mercado enquanto os principais índices começavam a sessão em território positivo durante o início da cúpula EUA-China. O texto original não informou movimentos posteriores do pregão nem previsões adicionais ligadas ao resultado da reunião. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-China-Gipfel startet, Wall Street höher: Dow und Nasdaq plus 0,51%",
+        "excerpt": "Während US-Präsident Donald Trump am 14. Mai Ortszeit in Peking Gespräche mit Chinas Präsident Xi Jinping begann, eröffnete die Wall Street höher; Dow und Nasdaq legten je 0,51% zu.",
+        "body": "Am ersten Tag des Besuchs von US-Präsident Donald Trump in Peking, wo er ein Gipfeltreffen mit Chinas Staatspräsident Xi Jinping begann, eröffnete die Wall Street am 14. Mai Ortszeit einheitlich höher. Nach Angaben der New York Stock Exchange (NYSE) stiegen der Dow Jones und der Nasdaq im frühen Handel jeweils um 0,51%. Die Bewegung zeigte die erste Marktreaktion, während die wichtigsten Indizes zum Start des US-China-Gipfels positiv in die Sitzung gingen. Der Originalbericht nannte keine späteren Intraday-Bewegungen und keine weiteren Prognosen zum Ergebnis des Treffens. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Sommet États-Unis-Chine: Wall Street ouvre en hausse, Dow et Nasdaq +0,51%",
+        "excerpt": "Alors que Donald Trump a entamé le 14 mai, heure locale, un sommet avec Xi Jinping à Pékin, Wall Street a ouvert en hausse, le Dow Jones et le Nasdaq gagnant chacun 0,51%.",
+        "body": "Au premier jour de la visite du président américain Donald Trump à Pékin pour entamer un sommet avec le président chinois Xi Jinping, Wall Street a ouvert en hausse le 14 mai, heure locale. Selon la Bourse de New York (NYSE), le Dow Jones et le Nasdaq ont chacun progressé de 0,51% en début de séance. Ce mouvement a montré la réaction initiale du marché alors que les principaux indices démarraient en territoire positif au moment de l’ouverture du sommet États-Unis-Chine. Le texte original ne fournit pas d’évolution ultérieure en séance ni de prévision supplémentaire liée au résultat de la rencontre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قمة أميركا والصين تواكب صعود وول ستريت وداو وناسداك يرتفعان 0.51%",
+        "excerpt": "مع بدء الرئيس الأميركي دونالد ترامب محادثاته مع الرئيس الصيني شي جين بينغ في بكين يوم 14 مايو بالتوقيت المحلي، افتتحت وول ستريت مرتفعة وصعد داو وناسداك 0.51% لكل منهما.",
+        "body": "في اليوم الأول من زيارة الرئيس الأميركي دونالد ترامب إلى بكين لبدء قمة مع الرئيس الصيني شي جين بينغ، افتتحت بورصة نيويورك تعاملات 14 مايو بالتوقيت المحلي على ارتفاع جماعي. ووفقاً لبورصة نيويورك، صعد مؤشرا داو جونز وناسداك بنسبة 0.51% لكل منهما في بداية التداول. ويظهر هذا التحرك رد الفعل الأولي للسوق مع بدء المؤشرات الرئيسية الجلسة في نطاق إيجابي تزامناً مع انطلاق القمة الأميركية الصينية. ولم يورد النص الأصلي تحركات لاحقة خلال الجلسة أو توقعات إضافية مرتبطة بنتائج القمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिका-चीन शिखर वार्ता के पहले दिन वॉल स्ट्रीट चढ़ा, डाउ-नैस्डैक 0.51% ऊपर",
+        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 14 मई स्थानीय समय पर बीजिंग में शी जिनपिंग के साथ शिखर वार्ता शुरू की, इसी बीच वॉल स्ट्रीट ऊंचा खुला और डाउ व नैस्डैक 0.51% चढ़े।",
+        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के चीन के बीजिंग दौरे और राष्ट्रपति शी जिनपिंग के साथ शिखर वार्ता शुरू करने के पहले दिन, 14 मई स्थानीय समय पर न्यूयॉर्क शेयर बाजार ने सामूहिक बढ़त के साथ कारोबार शुरू किया। न्यूयॉर्क स्टॉक एक्सचेंज (NYSE) के अनुसार शुरुआती कारोबार में डाउ जोन्स और नैस्डैक दोनों 0.51% बढ़े। यह रुझान दिखाता है कि अमेरिका-चीन शिखर वार्ता शुरू होने के बीच प्रमुख सूचकांक सकारात्मक दायरे में खुले और बाजार की शुरुआती प्रतिक्रिया अनुकूल रही। मूल रिपोर्ट में बाद की इंट्राडे चाल या वार्ता के परिणामों से जुड़ा अतिरिक्त अनुमान नहीं दिया गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KTT AS-China Dimulai, Wall Street Menguat; Dow dan Nasdaq Naik 0,51%",
+        "excerpt": "Saat Presiden AS Donald Trump memulai pertemuan puncak dengan Presiden China Xi Jinping di Beijing pada 14 Mei waktu setempat, Wall Street dibuka menguat dengan Dow dan Nasdaq masing-masing naik 0,51%.",
+        "body": "Pada hari pertama kunjungan Presiden Amerika Serikat Donald Trump ke Beijing untuk memulai pertemuan puncak dengan Presiden China Xi Jinping, Wall Street dibuka menguat secara serempak pada 14 Mei waktu setempat. Menurut Bursa Efek New York (NYSE), indeks Dow Jones dan Nasdaq masing-masing naik 0,51% pada awal perdagangan. Pergerakan ini menunjukkan reaksi awal pasar ketika indeks utama memulai sesi di zona positif bersamaan dengan dimulainya KTT AS-China. Laporan asli tidak memuat pergerakan lanjutan selama sesi atau proyeksi tambahan terkait hasil pertemuan tersebut. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "637f41005ded",
     "slug": "네이버-배민-인수설에-기대감-커지며-6-급등-516863",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "E-Mart: Pangsa Bisnis Inti dan Perbaikan Online Dinilai Dorong Fundamental",
         "excerpt": "IBK Investment & Securities pada tanggal 14 menilai perluasan pangsa bisnis inti E-Mart dan perbaikan kinerja divisi online akan mendorong fundamental, sambil mempertahankan target harga 120.000 won.",
         "body": "IBK Investment & Securities pada tanggal 14 menyatakan bahwa fundamental E-Mart diperkirakan akan dipimpin oleh perluasan pangsa pasar di bisnis intinya serta perbaikan kinerja divisi online. Karena itu, target harga E-Mart dipertahankan pada level sebelumnya, yaitu 120.000 won. Penilaian ini didasarkan pada adanya tren peningkatan pangsa di bisnis utama perusahaan dan munculnya kemungkinan perbaikan hasil dari operasi online. Perusahaan sekuritas tersebut memandang pemulihan daya saing bisnis inti dan perbaikan segmen online sebagai faktor utama yang memengaruhi kekuatan dasar perusahaan. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "42b21eee157d",
-    "slug": "코스콤우리투자증권-토큰증권-플랫폼-사업-협력-mou-450303",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T21:54:24.023Z",
-    "updatedAt": "2026-05-13T21:54:24.023Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051343216",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051343216",
-    "titleFingerprint": "df0a43a6653d3edceed090d23eb6244b561c36ad",
-    "dedupKeys": [
-      "42b21eee157d70cc53c249d14072793f5a5ea9b9",
-      "df0a43a6653d3edceed090d23eb6244b561c36ad",
-      "5c7fe257c986295e47a9d22879b186da646afdb9"
-    ],
-    "imageUrl": "/images/articles/42b21eee157d.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스콤·우리투자증권, 토큰증권 플랫폼 사업 협력 MOU 체결",
-        "excerpt": "코스콤과 우리투자증권이 토큰증권 플랫폼 사업 협력을 위한 MOU를 맺었다고 hankyung.com이 보도했다. 양사는 관련 플랫폼 사업에서 협력 기반을 마련했다.",
-        "body": "코스콤과 우리투자증권이 토큰증권 플랫폼 사업 협력을 위한 업무협약(MOU)을 체결했다. 이번 협약은 양사가 토큰증권 플랫폼 관련 사업에서 협력하기 위한 기반을 마련했다는 점에 초점이 맞춰졌다. 제공된 원문 정보에는 협약 체결의 구체적 시점, 투자 규모, 세부 추진 일정 등 추가 수치는 포함되지 않았다. 토큰증권 플랫폼 사업은 금융 인프라와 증권 서비스가 만나는 영역인 만큼, 이번 MOU는 양사의 사업 협력 범위를 확인하는 신호로 해석된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Koscom, Woori Investment Securities Sign MOU on Token Securities Platform",
-        "excerpt": "Koscom and Woori Investment Securities signed an MOU to cooperate on a token securities platform business, hankyung.com reported, setting a basis for related collaboration.",
-        "body": "Koscom and Woori Investment Securities have signed a memorandum of understanding to cooperate on a token securities platform business. The agreement focuses on creating a basis for collaboration between the two companies in platform-related token securities projects. The source information provided does not include additional figures such as the exact signing date, investment amount, or detailed implementation schedule. As token securities platforms sit at the intersection of financial infrastructure and securities services, the MOU signals the scope of business cooperation between the two parties. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "コスコムとウリ投資証券、トークン証券プラットフォームでMOU",
-        "excerpt": "コスコムとウリ投資証券がトークン証券プラットフォーム事業で協力するためのMOUを締結したとhankyung.comが報じた。",
-        "body": "コスコムとウリ投資証券は、トークン証券プラットフォーム事業で協力するための業務協約（MOU）を締結した。今回の協約は、両社がトークン証券プラットフォーム関連事業で協力する基盤を整えた点に焦点がある。提供された原文情報には、締結の具体的な時期、投資規模、詳細な推進日程などの追加数値は含まれていない。トークン証券プラットフォーム事業は金融インフラと証券サービスが交わる領域であり、今回のMOUは両社の事業協力範囲を示す動きといえる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "Koscom与友利投资证券签署代币证券平台业务合作MOU",
-        "excerpt": "据hankyung.com报道，Koscom与友利投资证券签署了代币证券平台业务合作MOU，为相关平台业务合作奠定基础。",
-        "body": "Koscom与友利投资证券已签署代币证券平台业务合作谅解备忘录（MOU）。此次协议的重点在于，两家公司为在代币证券平台相关业务中开展合作建立基础。所提供的原文信息未包含签署的具体时间、投资规模、详细推进日程等额外数据。代币证券平台业务连接金融基础设施与证券服务，因此此次MOU可被视为确认双方业务合作范围的信号。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Koscom y Woori Investment Securities firman MOU sobre plataforma de valores tokenizados",
-        "excerpt": "Koscom y Woori Investment Securities firmaron un MOU para cooperar en una plataforma de valores tokenizados, informó hankyung.com, creando una base de colaboración.",
-        "body": "Koscom y Woori Investment Securities firmaron un memorando de entendimiento para cooperar en el negocio de una plataforma de valores tokenizados. El acuerdo se centra en establecer una base de colaboración entre ambas compañías en proyectos relacionados con dicha plataforma. La información original proporcionada no incluye cifras adicionales, como la fecha exacta de la firma, el monto de inversión o un calendario detallado de ejecución. Dado que las plataformas de valores tokenizados conectan infraestructura financiera y servicios de valores, el MOU señala el alcance de cooperación empresarial entre las dos partes. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Koscom e Woori Investment Securities assinam MOU sobre plataforma de valores tokenizados",
-        "excerpt": "A Koscom e a Woori Investment Securities assinaram um MOU para cooperar em uma plataforma de valores tokenizados, informou o hankyung.com.",
-        "body": "A Koscom e a Woori Investment Securities assinaram um memorando de entendimento para cooperar no negócio de uma plataforma de valores tokenizados. O acordo tem como foco criar uma base de colaboração entre as duas empresas em projetos ligados a essa plataforma. As informações originais fornecidas não incluem dados adicionais, como a data exata da assinatura, o valor de investimento ou o cronograma detalhado de execução. Como plataformas de valores tokenizados conectam infraestrutura financeira e serviços de valores mobiliários, o MOU indica o escopo de cooperação empresarial entre as partes. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Koscom und Woori Investment Securities schließen MOU zu Token-Wertpapierplattform",
-        "excerpt": "Koscom und Woori Investment Securities haben laut hankyung.com ein MOU zur Zusammenarbeit im Geschäft mit einer Token-Wertpapierplattform unterzeichnet.",
-        "body": "Koscom und Woori Investment Securities haben eine Absichtserklärung zur Zusammenarbeit im Geschäft mit einer Token-Wertpapierplattform unterzeichnet. Die Vereinbarung zielt darauf ab, eine Grundlage für die Kooperation beider Unternehmen bei plattformbezogenen Token-Wertpapierprojekten zu schaffen. Die bereitgestellten Ausgangsinformationen enthalten keine weiteren Zahlen, etwa zum genauen Zeitpunkt der Unterzeichnung, zum Investitionsvolumen oder zu einem detaillierten Umsetzungsplan. Da Token-Wertpapierplattformen Finanzinfrastruktur und Wertpapierdienstleistungen verbinden, zeigt das MOU den Rahmen der geschäftlichen Zusammenarbeit beider Seiten. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Koscom et Woori Investment Securities signent un MOU sur une plateforme de titres tokenisés",
-        "excerpt": "Koscom et Woori Investment Securities ont signé un MOU pour coopérer dans une plateforme de titres tokenisés, selon hankyung.com, posant une base commune.",
-        "body": "Koscom et Woori Investment Securities ont signé un protocole d’accord afin de coopérer dans le secteur d’une plateforme de titres tokenisés. Cet accord vise à établir une base de collaboration entre les deux entreprises pour les activités liées à cette plateforme. Les informations sources fournies ne mentionnent pas de chiffres supplémentaires, comme la date exacte de signature, le montant d’investissement ou un calendrier détaillé de mise en œuvre. Les plateformes de titres tokenisés reliant infrastructure financière et services de valeurs mobilières, ce MOU indique le périmètre de coopération commerciale entre les deux parties. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كوسكوم وWoori Investment Securities توقعان مذكرة تفاهم لمنصة أوراق مالية مرمزة",
-        "excerpt": "وقعت كوسكوم وWoori Investment Securities مذكرة تفاهم للتعاون في أعمال منصة أوراق مالية مرمزة، وفق ما أورد hankyung.com، لتأسيس قاعدة تعاون.",
-        "body": "وقعت كوسكوم وWoori Investment Securities مذكرة تفاهم للتعاون في أعمال منصة للأوراق المالية المرمزة. يركز الاتفاق على وضع أساس للتعاون بين الشركتين في الأعمال المرتبطة بهذه المنصة. ولا تتضمن المعلومات الأصلية المقدمة أرقاما إضافية مثل الموعد الدقيق للتوقيع أو حجم الاستثمار أو جدول التنفيذ التفصيلي. وبما أن منصات الأوراق المالية المرمزة تقع عند تقاطع البنية التحتية المالية وخدمات الأوراق المالية، فإن مذكرة التفاهم تشير إلى نطاق التعاون التجاري بين الطرفين. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Koscom और Woori Investment Securities ने टोकन सिक्योरिटीज प्लेटफॉर्म MOU किया",
-        "excerpt": "Koscom और Woori Investment Securities ने टोकन सिक्योरिटीज प्लेटफॉर्म कारोबार में सहयोग के लिए MOU किया, hankyung.com ने रिपोर्ट किया।",
-        "body": "Koscom और Woori Investment Securities ने टोकन सिक्योरिटीज प्लेटफॉर्म कारोबार में सहयोग के लिए एक समझौता ज्ञापन पर हस्ताक्षर किए हैं। यह समझौता दोनों कंपनियों के बीच संबंधित प्लेटफॉर्म व्यवसाय में सहयोग की आधारशिला रखने पर केंद्रित है। उपलब्ध कराई गई मूल जानकारी में हस्ताक्षर की सटीक तारीख, निवेश राशि या विस्तृत कार्यान्वयन कार्यक्रम जैसे अतिरिक्त आंकड़े शामिल नहीं हैं। टोकन सिक्योरिटीज प्लेटफॉर्म वित्तीय अवसंरचना और सिक्योरिटीज सेवाओं को जोड़ने वाला क्षेत्र है, इसलिए यह MOU दोनों पक्षों के कारोबारी सहयोग के दायरे को दर्शाता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Koscom dan Woori Investment Securities Teken MOU Platform Sekuritas Token",
-        "excerpt": "Koscom dan Woori Investment Securities menandatangani MOU kerja sama bisnis platform sekuritas token, menurut hankyung.com, sebagai dasar kolaborasi terkait.",
-        "body": "Koscom dan Woori Investment Securities telah menandatangani nota kesepahaman untuk bekerja sama dalam bisnis platform sekuritas token. Perjanjian ini berfokus pada pembentukan dasar kolaborasi antara kedua perusahaan dalam proyek terkait platform tersebut. Informasi sumber yang diberikan tidak mencantumkan angka tambahan seperti tanggal pasti penandatanganan, nilai investasi, atau jadwal pelaksanaan terperinci. Karena platform sekuritas token berada di antara infrastruktur keuangan dan layanan sekuritas, MOU ini menunjukkan ruang lingkup kerja sama bisnis kedua pihak. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "6456f5cdea0b",
-    "slug": "인플레-우려에도-반도체-섹터-떴다뉴욕증시-sp500나스닥-또-사상-최고치-월가월부-197173",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T21:53:32.262Z",
-    "updatedAt": "2026-05-13T21:53:32.262Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047061",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047061",
-    "titleFingerprint": "e7157ece0e42ae4052be237f6047d7ce494cf1e4",
-    "dedupKeys": [
-      "6456f5cdea0bf88a56c9a36a0db48d52fcceb042",
-      "e7157ece0e42ae4052be237f6047d7ce494cf1e4",
-      "1a1be732410a65eb5b05e60802b59905c9f3f2cb"
-    ],
-    "imageUrl": "/images/articles/6456f5cdea0b.png",
-    "i18n": {
-      "ko": {
-        "title": "반도체·AI 빅테크 강세에 S&P500·나스닥 사상 최고치 경신",
-        "excerpt": "4월 생산자물가지수 급등으로 인플레이션 우려가 커졌지만, 반도체와 AI 관련 대형 기술주가 동반 상승하며 S&P500과 나스닥이 다시 사상 최고치를 기록했다.",
-        "body": "뉴욕증시에서 4월 생산자물가지수(PPI) 급등으로 인플레이션 우려가 커진 가운데서도 반도체 섹터와 인공지능(AI) 관련 대형 빅테크주가 일제히 오르며 S&P500과 나스닥이 또 사상 최고치를 경신했다. 물가 지표가 시장의 부담 요인으로 작용했지만, 투자자들은 AI 수요와 반도체 업종의 강세에 더 주목했다. 특히 기술주 중심의 매수세가 지수 상승을 이끌며 인플레이션 경계감과 성장주 기대가 맞서는 흐름이 나타났다. 향후 시장은 물가 지표와 AI·반도체 주도주의 지속성을 함께 확인할 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Semiconductor and AI Big Tech Rally Lifts S&P 500, Nasdaq to Records",
-        "excerpt": "Despite renewed inflation concerns after a sharp rise in April producer prices, semiconductor and AI-linked mega-cap tech stocks advanced, sending the S&P 500 and Nasdaq to fresh record highs.",
-        "body": "In New York trading, the S&P 500 and Nasdaq hit fresh record highs even as a sharp rise in the April Producer Price Index raised inflation concerns. Semiconductor shares and large artificial intelligence-related big tech stocks rose broadly, helping offset pressure from the price data. While the inflation indicator remained a burden for the market, investors focused more on AI demand and strength in the semiconductor sector. Buying in technology shares led the broader advance, showing a market caught between inflation caution and expectations for growth stocks. Investors are expected to keep watching price indicators and whether AI and semiconductor leaders can sustain momentum. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "半導体・AI大型株が上昇、S&P500とナスダックが最高値更新",
-        "excerpt": "4月の生産者物価指数が急上昇しインフレ懸念が強まったものの、半導体とAI関連の大型テック株がそろって上昇し、S&P500とナスダックは再び最高値を付けた。",
-        "body": "ニューヨーク株式市場では、4月の生産者物価指数（PPI）の急上昇でインフレ懸念が強まる中でも、半導体セクターと人工知能（AI）関連の大型テック株がそろって上昇し、S&P500とナスダックが再び史上最高値を更新した。物価指標は市場の重荷となったが、投資家はAI需要と半導体業種の強さにより注目した。特にハイテク株中心の買いが指数上昇を主導し、インフレ警戒感と成長株への期待が交錯する展開となった。今後は物価指標とAI・半導体主導株の持続力が焦点となる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "半导体与AI科技股走强，S&P500和纳指再创新高",
-        "excerpt": "尽管4月生产者价格指数大幅上升加剧通胀担忧，但半导体板块和AI相关大型科技股同步上涨，推动S&P500和纳斯达克再度创下历史新高。",
-        "body": "在纽约股市，4月生产者价格指数（PPI）大幅上升令通胀担忧升温，但半导体板块以及人工智能（AI）相关大型科技股集体走高，推动S&P500和纳斯达克再次刷新历史高点。物价指标虽成为市场压力因素，但投资者更关注AI需求以及半导体行业的强势表现。尤其是以科技股为中心的买盘带动指数上行，显示市场在通胀警惕与成长股期待之间拉锯。后续市场将继续观察物价数据，以及AI和半导体主导股能否延续涨势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Semiconductores y grandes tecnológicas de IA llevan al S&P 500 y Nasdaq a récords",
-        "excerpt": "Aunque el fuerte repunte del índice de precios al productor de abril elevó la preocupación por la inflación, los semiconductores y las grandes tecnológicas ligadas a la IA subieron y llevaron al S&P 500 y Nasdaq a nuevos máximos.",
-        "body": "En la Bolsa de Nueva York, el S&P 500 y el Nasdaq volvieron a marcar máximos históricos pese a que el fuerte aumento del índice de precios al productor (PPI) de abril elevó las preocupaciones por la inflación. El avance generalizado del sector de semiconductores y de las grandes tecnológicas vinculadas a la inteligencia artificial (IA) compensó la presión de los datos de precios. Aunque el indicador inflacionario pesó sobre el mercado, los inversionistas prestaron más atención a la demanda de IA y a la fortaleza de los semiconductores. Las compras en tecnológicas lideraron la subida de los índices, en un entorno dividido entre cautela inflacionaria y expectativas sobre acciones de crecimiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Semicondutores e big techs de IA levam S&P 500 e Nasdaq a novos recordes",
-        "excerpt": "Mesmo com o salto do índice de preços ao produtor de abril elevando temores de inflação, semicondutores e grandes empresas de tecnologia ligadas à IA avançaram e levaram S&P 500 e Nasdaq a máximas históricas.",
-        "body": "Na Bolsa de Nova York, o S&P 500 e o Nasdaq renovaram máximas históricas apesar do forte avanço do índice de preços ao produtor (PPI) de abril, que ampliou as preocupações com a inflação. O setor de semicondutores e as grandes empresas de tecnologia relacionadas à inteligência artificial (IA) subiram de forma ampla, ajudando a compensar a pressão dos dados de preços. Embora o indicador inflacionário tenha pesado sobre o mercado, investidores deram mais atenção à demanda por IA e à força dos semicondutores. As compras concentradas em tecnologia lideraram a alta dos índices, em meio ao contraste entre cautela com inflação e expectativas para ações de crescimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Halbleiter und KI-Big-Tech treiben S&P 500 und Nasdaq auf Rekordhochs",
-        "excerpt": "Trotz neuer Inflationssorgen nach dem starken Anstieg des Erzeugerpreisindex im April legten Halbleiterwerte und große KI-Technologietitel zu und trieben S&P 500 sowie Nasdaq erneut auf Rekordstände.",
-        "body": "An der New Yorker Börse erreichten der S&P 500 und der Nasdaq erneut historische Höchststände, obwohl der starke Anstieg des Erzeugerpreisindex (PPI) im April die Inflationssorgen verstärkte. Halbleiterwerte und große Technologiekonzerne mit Bezug zu künstlicher Intelligenz (KI) legten breit zu und milderten den Druck der Preisdaten. Zwar blieb der Inflationsindikator ein Belastungsfaktor für den Markt, doch Anleger richteten ihren Blick stärker auf die KI-Nachfrage und die Stärke der Halbleiterbranche. Käufe in Technologiewerten führten den Indexanstieg an und zeigten ein Spannungsfeld zwischen Inflationsvorsicht und Erwartungen an Wachstumsaktien. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Semi-conducteurs et géants de l’IA portent le S&P 500 et le Nasdaq à des records",
-        "excerpt": "Malgré les craintes d’inflation ravivées par la forte hausse des prix à la production en avril, les semi-conducteurs et les grandes valeurs technologiques liées à l’IA ont progressé, poussant le S&P 500 et le Nasdaq à de nouveaux records.",
-        "body": "À la Bourse de New York, le S&P 500 et le Nasdaq ont de nouveau atteint des sommets historiques malgré la forte hausse de l’indice des prix à la production (PPI) d’avril, qui a renforcé les inquiétudes sur l’inflation. Le secteur des semi-conducteurs et les grandes valeurs technologiques liées à l’intelligence artificielle (IA) ont progressé de concert, compensant la pression des données de prix. Même si l’indicateur d’inflation a pesé sur le marché, les investisseurs ont davantage retenu la demande d’IA et la vigueur des semi-conducteurs. Les achats sur les valeurs technologiques ont mené la hausse des indices. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الرقائق والذكاء الاصطناعي تدفع S&P 500 وناسداك إلى قمم قياسية",
-        "excerpt": "رغم تصاعد مخاوف التضخم بعد القفزة في مؤشر أسعار المنتجين لشهر أبريل، ارتفعت أسهم أشباه الموصلات وشركات التكنولوجيا الكبرى المرتبطة بالذكاء الاصطناعي، فبلغ S&P 500 وناسداك مستويات قياسية جديدة.",
-        "body": "في بورصة نيويورك، سجل مؤشرا S&P 500 وناسداك قمما تاريخية جديدة رغم أن الارتفاع الحاد في مؤشر أسعار المنتجين لشهر أبريل عزز مخاوف التضخم. فقد صعد قطاع أشباه الموصلات ومعه شركات التكنولوجيا الكبرى المرتبطة بالذكاء الاصطناعي بشكل جماعي، ما خفف ضغط بيانات الأسعار على السوق. ورغم أن مؤشر التضخم ظل عامل عبء، ركز المستثمرون بدرجة أكبر على الطلب على الذكاء الاصطناعي وقوة قطاع الرقائق. وقادت المشتريات في أسهم التكنولوجيا ارتفاع المؤشرات، في سوق يتأرجح بين الحذر من التضخم وتوقعات أسهم النمو. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "सेमीकंडक्टर और AI बिग टेक में तेजी, S&P 500 और नैस्डैक रिकॉर्ड ऊंचाई पर",
-        "excerpt": "अप्रैल के उत्पादक मूल्य सूचकांक में तेज उछाल से महंगाई की चिंता बढ़ी, फिर भी सेमीकंडक्टर और AI से जुड़ी बड़ी टेक कंपनियों में तेजी आई, जिससे S&P 500 और नैस्डैक नए रिकॉर्ड पर पहुंचे।",
-        "body": "न्यूयॉर्क शेयर बाजार में अप्रैल के उत्पादक मूल्य सूचकांक (PPI) में तेज वृद्धि से महंगाई को लेकर चिंता बढ़ी, लेकिन सेमीकंडक्टर सेक्टर और कृत्रिम बुद्धिमत्ता (AI) से जुड़ी बड़ी टेक कंपनियों में व्यापक तेजी ने S&P 500 और नैस्डैक को फिर रिकॉर्ड ऊंचाई पर पहुंचा दिया। मूल्य संकेतक बाजार पर दबाव बना रहा, फिर भी निवेशकों ने AI मांग और सेमीकंडक्टर उद्योग की मजबूती पर अधिक ध्यान दिया। टेक शेयरों में खरीदारी ने सूचकांकों की बढ़त का नेतृत्व किया, जिससे महंगाई सतर्कता और ग्रोथ शेयरों की उम्मीदों के बीच संतुलित बाजार रुझान दिखा। आगे बाजार कीमतों के आंकड़ों और AI-सेमीकंडक्टर नेतृत्व की मजबूती पर नजर रखेगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Semikonduktor dan Big Tech AI Dorong S&P 500, Nasdaq ke Rekor",
-        "excerpt": "Meski lonjakan indeks harga produsen April memicu kekhawatiran inflasi, saham semikonduktor dan big tech terkait AI menguat serempak, membawa S&P 500 dan Nasdaq kembali mencetak rekor tertinggi.",
-        "body": "Di bursa New York, S&P 500 dan Nasdaq kembali mencetak rekor tertinggi meski lonjakan indeks harga produsen (PPI) April memperbesar kekhawatiran inflasi. Sektor semikonduktor dan saham teknologi besar yang terkait dengan kecerdasan buatan (AI) menguat bersama, membantu meredam tekanan dari data harga. Walau indikator inflasi menjadi beban bagi pasar, investor lebih menyoroti permintaan AI dan kekuatan industri semikonduktor. Aksi beli pada saham teknologi memimpin kenaikan indeks, menunjukkan pasar yang bergerak di antara kewaspadaan inflasi dan harapan terhadap saham pertumbuhan. Ke depan, pasar akan memantau data harga serta keberlanjutan kepemimpinan AI dan semikonduktor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bc3cec2462cc",
-    "slug": "이-주식-추천해요광고이긴-한데-핀플루언서-이해관계-고지의무-검토-451998",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T21:52:35.346Z",
-    "updatedAt": "2026-05-13T21:52:35.346Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047065",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047065",
-    "titleFingerprint": "c4eee1fa92810f925d7c99b049898a756d6e1858",
-    "dedupKeys": [
-      "bc3cec2462cc6665767b70b25e88bac2c9cac652",
-      "c4eee1fa92810f925d7c99b049898a756d6e1858",
-      "b82bf840fb2e8bc00de9ccfdaeb2eaf64df35118"
-    ],
-    "imageUrl": "/images/articles/bc3cec2462cc.png",
-    "i18n": {
-      "ko": {
-        "title": "핀플루언서 이해관계 고지 의무 검토, 주식 추천 광고 투명성 높이나",
-        "excerpt": "당국이 증시 활황 속 핀플루언서의 주식 추천 광고, 협찬, 선행매매 여부를 투자자가 알 수 있도록 이해관계 고지 제도 마련 검토에 착수했다.",
-        "body": "당국이 증시 활황 속 영향력이 커진 핀플루언서의 주식 추천 활동에 대해 이해관계 고지 의무를 검토하고 있다. 유사투자자문업 등록 규정은 있지만, 실제 콘텐츠가 광고인지, 협찬을 받았는지, 추천 전 선행매매가 있었는지는 투자자가 확인하기 어려운 상황이다. 이에 따라 제도 마련이 추진되면 핀플루언서가 특정 종목을 추천할 때 금전적 이해관계나 광고성 여부를 더 명확히 밝히는 방향이 논의될 수 있다. 유럽에서는 관련 내용을 공시하도록 하는 사례가 있어 국내 규제 논의의 참고점으로 거론된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Finfluencer Disclosure Rules Under Review as Stock Promotion Transparency Draws Scrutiny",
-        "excerpt": "Authorities are reviewing rules requiring finfluencers to disclose interests behind stock recommendations, including ads, sponsorships and possible prior trading.",
-        "body": "Authorities have begun reviewing a disclosure framework for finfluencers whose stock recommendation content is gaining influence amid a buoyant market. Although registration rules exist for quasi-investment advisory businesses, investors often cannot tell whether a post is advertising, whether sponsorship money was involved, or whether the creator traded in advance of the recommendation. If new rules are introduced, finfluencers may be required to state more clearly any financial interest or promotional nature when recommending specific stocks. Europe’s requirement to disclose related information is being cited as a reference point for domestic discussions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "フィンフルエンサーの利害関係開示義務を検討、株推奨広告の透明性焦点",
-        "excerpt": "当局は株式市場の活況下で、フィンフルエンサーの銘柄推奨に広告、協賛、先行売買があるかを投資家が把握できる制度の検討に着手した。",
-        "body": "当局は、株式市場の活況で影響力が高まるフィンフルエンサーの銘柄推奨活動について、利害関係の開示義務を検討している。類似投資助言業の登録規定はあるものの、実際のコンテンツが広告なのか、協賛を受けたものなのか、推奨前に先行売買があったのかを投資家が確認しにくい状況だ。制度整備が進めば、特定銘柄を推奨する際に金銭的利害関係や広告性をより明確に示す方向が議論される可能性がある。欧州では関連内容の公示を義務付ける事例があり、国内規制論議の参考点として挙げられている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "金融网红利益关系披露义务受审视，股票推荐广告透明度成焦点",
-        "excerpt": "监管部门已着手研究金融网红利益关系披露制度，使投资者了解股票推荐背后是否存在广告、赞助或提前交易。",
-        "body": "在股市活跃背景下，监管部门正研究对影响力日益扩大的金融网红股票推荐活动设定利益关系披露义务。虽然已有类似投资咨询业登记规定，但投资者往往难以确认相关内容是否为广告、是否接受赞助，以及推荐前是否存在提前交易。如果制度推进，金融网红在推荐特定股票时，可能需要更明确说明金钱利益关系或广告性质。欧洲已有要求披露相关内容的做法，正被作为韩国国内监管讨论的参考。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Finfluencers bajo revisión: transparencia en anuncios y recomendaciones bursátiles",
-        "excerpt": "Las autoridades revisan reglas para que los finfluencers revelen intereses en recomendaciones de acciones, incluidos anuncios, patrocinios y posibles compras previas.",
-        "body": "Las autoridades han comenzado a revisar un marco de divulgación para los finfluencers, cuya influencia en las recomendaciones de acciones crece en medio del auge bursátil. Aunque existen normas de registro para negocios similares al asesoramiento de inversión, los inversores no siempre pueden saber si un contenido es publicidad, si hubo patrocinio o si el creador operó antes de recomendar una acción. Si avanza el sistema, podría exigirse que los finfluencers indiquen con mayor claridad cualquier interés financiero o carácter publicitario al mencionar valores concretos. En Europa ya existen obligaciones de divulgación relacionadas, citadas como referencia para el debate local. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Finfluencers na mira: regra de divulgação pode expor anúncios em recomendações",
-        "excerpt": "Autoridades avaliam exigir que finfluencers revelem interesses em recomendações de ações, como publicidade, patrocínio e possível negociação prévia.",
-        "body": "As autoridades começaram a avaliar um regime de divulgação para finfluencers, cuja influência nas recomendações de ações cresceu com o mercado aquecido. Embora existam regras de registro para atividades semelhantes à consultoria de investimento, investidores ainda têm dificuldade para saber se um conteúdo é publicidade, se recebeu patrocínio ou se houve negociação antes da recomendação. Com a criação de novas normas, finfluencers poderão ter de informar de forma mais clara qualquer interesse financeiro ou caráter promocional ao recomendar ações específicas. Na Europa, a divulgação de informações relacionadas já é obrigatória e serve de referência para o debate doméstico. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Finfluencer-Offenlegung im Fokus: Mehr Transparenz bei Aktientipps und Werbung",
-        "excerpt": "Die Behörden prüfen Regeln, nach denen Finfluencer Interessen hinter Aktientipps offenlegen müssen, etwa Werbung, Sponsoring oder mögliche Vorabkäufe.",
-        "body": "Die Behörden prüfen ein Offenlegungssystem für Finfluencer, deren Einfluss auf Aktientipps in einem lebhaften Börsenumfeld zunimmt. Zwar gibt es Registrierungsregeln für quasi-investmentberatende Anbieter, doch Anleger können oft nicht erkennen, ob Inhalte Werbung sind, ob Sponsoring vorliegt oder ob vor der Empfehlung bereits gehandelt wurde. Werden neue Regeln eingeführt, könnten Finfluencer verpflichtet werden, finanzielle Interessen oder Werbecharakter bei Empfehlungen einzelner Aktien klarer auszuweisen. In Europa gibt es bereits Pflichten zur Offenlegung entsprechender Informationen, die als Referenz für die inländische Regulierungsdebatte genannt werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Finfluenceurs: l’obligation de divulguer les intérêts derrière les conseils boursiers à l’étude",
-        "excerpt": "Les autorités examinent des règles obligeant les finfluenceurs à révéler les intérêts liés aux recommandations d’actions, dont publicité, sponsoring et transactions préalables.",
-        "body": "Les autorités ont lancé l’examen d’un dispositif de divulgation visant les finfluenceurs, dont l’influence sur les recommandations d’actions progresse dans un marché boursier dynamique. Des règles d’enregistrement existent pour les activités proches du conseil en investissement, mais les investisseurs peinent souvent à savoir si un contenu est publicitaire, s’il est sponsorisé ou si son auteur a acheté le titre avant de le recommander. Si le cadre avance, les finfluenceurs pourraient devoir préciser plus clairement tout intérêt financier ou caractère promotionnel lorsqu’ils recommandent une action précise. En Europe, la divulgation de ces informations est déjà obligatoire dans certains cas et sert de référence au débat local. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "مراجعة إلزام مؤثري المال بكشف المصالح وراء توصيات الأسهم والإعلانات",
-        "excerpt": "تدرس السلطات قواعد تلزم مؤثري المال بالإفصاح عن المصالح المرتبطة بتوصيات الأسهم، بما في ذلك الإعلانات والرعاية واحتمال التداول المسبق.",
-        "body": "بدأت السلطات مراجعة إطار يلزم مؤثري المال بالإفصاح عن المصالح المرتبطة بتوصيات الأسهم، مع تزايد تأثيرهم في ظل نشاط سوق الأسهم. ورغم وجود قواعد تسجيل للأنشطة الشبيهة بالاستشارات الاستثمارية، يصعب على المستثمرين معرفة ما إذا كان المحتوى إعلانيا، أو ممولا برعاية، أو ما إذا كان المؤثر قد تداول السهم قبل التوصية به. وإذا تم إعداد النظام، فقد يتعين على المؤثرين توضيح أي مصلحة مالية أو طبيعة إعلانية عند توصية سهم محدد. وتعد التجارب الأوروبية، حيث يلزم الإفصاح عن معلومات ذات صلة، مرجعا للنقاش التنظيمي المحلي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "फिनफ्लुएंसर खुलासा नियमों की समीक्षा, शेयर सिफारिश विज्ञापनों में पारदर्शिता पर जोर",
-        "excerpt": "प्राधिकरण फिनफ्लुएंसरों के लिए शेयर सिफारिशों से जुड़े हितों, विज्ञापन, प्रायोजन और संभावित पहले से ट्रेडिंग के खुलासे की व्यवस्था पर विचार कर रहे हैं।",
-        "body": "बाजार में तेजी के बीच प्रभावशाली हो रहे फिनफ्लुएंसरों की शेयर सिफारिशों को लेकर प्राधिकरण हितों के खुलासे की अनिवार्यता की समीक्षा कर रहे हैं। समान निवेश सलाह व्यवसायों के लिए पंजीकरण नियम मौजूद हैं, लेकिन निवेशकों के लिए यह जानना कठिन है कि सामग्री विज्ञापन है या नहीं, प्रायोजन मिला है या नहीं, और सिफारिश से पहले ट्रेडिंग हुई थी या नहीं। यदि नई व्यवस्था बनती है, तो फिनफ्लुएंसरों को किसी विशेष शेयर की सिफारिश करते समय वित्तीय हित या प्रचारात्मक प्रकृति को अधिक स्पष्ट रूप से बताना पड़ सकता है। यूरोप में संबंधित जानकारी के खुलासे की अनिवार्यता को घरेलू चर्चा के संदर्भ के रूप में देखा जा रहा है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aturan Pengungkapan Finfluencer Dikaji, Transparansi Rekomendasi Saham Jadi Sorotan",
-        "excerpt": "Otoritas mengkaji kewajiban finfluencer mengungkap kepentingan di balik rekomendasi saham, termasuk iklan, sponsor, dan kemungkinan transaksi sebelumnya.",
-        "body": "Otoritas mulai mengkaji kerangka pengungkapan untuk finfluencer, yang pengaruhnya dalam rekomendasi saham meningkat di tengah pasar yang aktif. Meski ada aturan pendaftaran bagi kegiatan serupa penasihat investasi, investor sering sulit mengetahui apakah suatu konten merupakan iklan, menerima sponsor, atau apakah pembuatnya telah bertransaksi sebelum memberi rekomendasi. Jika aturan baru disiapkan, finfluencer dapat diminta menjelaskan dengan lebih tegas kepentingan finansial atau sifat promosi saat merekomendasikan saham tertentu. Di Eropa, kewajiban mengungkap informasi terkait sudah diterapkan dan menjadi rujukan dalam pembahasan regulasi domestik. Sumber: mk.co.kr"
       }
     }
   }

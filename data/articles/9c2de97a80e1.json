@@ -1,0 +1,75 @@
+{
+  "id": "9c2de97a80e1",
+  "slug": "美주식분석-ai모델-개발한-고3-투자고수-291371",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-14T14:46:57.896Z",
+  "updatedAt": "2026-05-14T14:46:57.896Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12047759",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12047759",
+  "titleFingerprint": "afa26278111774be161ca92ba27154890747648f",
+  "dedupKeys": [
+    "9c2de97a80e134698ab1f6e63fb40332f29701b2",
+    "afa26278111774be161ca92ba27154890747648f",
+    "9879d2bebc143282d1596c06a3582d0ef5c3d44c"
+  ],
+  "imageUrl": "/images/articles/9c2de97a80e1.jpg",
+  "i18n": {
+    "ko": {
+      "title": "미국 주식분석 AI모델 만든 고3 투자고수, 개인투자자 정보 활용에 주목",
+      "excerpt": "고등학교 3학년 투자자가 미국 주식분석 AI모델을 개발했다. 주식 초보 시절 정보 탐색과 투자 판단 연결의 어려움을 겪은 경험이 개발 배경이 됐다.",
+      "body": "고등학교 3학년 투자자가 미국 주식분석 AI모델을 개발했다고 mk.co.kr이 전했다. 그는 처음 주식 투자를 시작했을 때 수많은 정보 속에서 어떤 정보를 어디서 찾아야 하는지, 이를 어떻게 투자 판단과 연결해 활용해야 하는지 몰랐다고 밝혔다. 이번 모델 개발은 개인투자자도 필요한 정보를 더 쉽게 찾고 투자 판단에 활용할 수 있도록 하려는 경험에서 출발했다. 원문은 이 학생을 ‘투자고수’로 소개하며, 미국 주식 분석에 AI를 접목한 사례로 다뤘다. 정보 과잉 환경에서 개인투자자가 신뢰할 만한 자료를 선별하고 해석하는 일이 중요해진 만큼, 해당 모델은 투자 정보 접근 방식에 대한 관심을 키우는 사례로 주목된다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "High School Senior Builds U.S. Stock Analysis AI Model for Retail Investors",
+      "excerpt": "A high school senior investor developed an AI model for U.S. stock analysis after struggling as a beginner to find the right information and connect it to investment decisions.",
+      "body": "A high school senior investor has developed an AI model for analyzing U.S. stocks, according to mk.co.kr. The student said that when first starting stock investing, they did not know what information to look for, where to find it, or how to connect and use it in investment decisions amid a flood of data. The model grew out of that experience, with the aim of helping individual investors more easily find relevant information and apply it to their own judgment. The original article introduced the student as an experienced young investor and covered the case as an example of applying AI to U.S. stock analysis. As retail investors face an overload of information, selecting and interpreting useful data has become more important. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "米国株分析AIモデルを開発した高校3年生投資家、個人投資家支援に注目",
+      "excerpt": "高校3年生の投資家が米国株分析AIモデルを開発した。投資を始めた頃、情報探しと投資判断への活用に苦労した経験が背景にある。",
+      "body": "高校3年生の投資家が米国株を分析するAIモデルを開発したと、mk.co.krが伝えた。本人は、初めて株式投資を始めた時、膨大な情報の中でどの情報をどこで探し、それをどのように投資判断につなげて活用すべきか分からなかったと語った。今回のモデル開発は、その経験を生かし、個人投資家も必要な情報をより簡単に見つけ、投資判断に活用できるようにする発想から始まった。原文はこの生徒を「投資の達人」と紹介し、米国株分析にAIを組み合わせた事例として取り上げている。情報過多の環境で、有用な資料を選び解釈する重要性が高まる中、投資情報への接し方を考えさせる事例として注目される。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "高中三年级投资高手开发美国股票分析AI模型，聚焦个人投资者信息使用",
+      "excerpt": "一名高中三年级投资者开发了美国股票分析AI模型。其初入股市时曾苦于寻找信息并将其用于投资判断，这成为开发背景。",
+      "body": "据mk.co.kr报道，一名高中三年级投资者开发了用于分析美国股票的AI模型。他表示，刚开始进行股票投资时，面对大量信息，不知道该找哪些信息、去哪里找，也不知道如何把信息连接到投资判断并加以利用。此次模型开发正是基于这一经历，希望帮助个人投资者更容易找到所需信息，并用于自己的投资判断。原文将这名学生称为“投资高手”，并将其作为AI应用于美国股票分析的案例进行介绍。在信息过载的环境下，个人投资者筛选并解读有用资料变得更加重要，该模型也因此成为关注投资信息获取方式的一个案例。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "Estudiante de secundaria crea modelo de IA para analizar acciones de EE. UU.",
+      "excerpt": "Un estudiante de último año de secundaria desarrolló un modelo de IA para analizar acciones estadounidenses tras vivir dificultades para encontrar información útil y aplicarla a decisiones de inversión.",
+      "body": "Un estudiante de último año de secundaria desarrolló un modelo de IA para analizar acciones de Estados Unidos, informó mk.co.kr. El joven explicó que, cuando comenzó a invertir en bolsa, no sabía qué información buscar, dónde encontrarla ni cómo conectarla con sus decisiones de inversión en medio de una avalancha de datos. El desarrollo del modelo partió de esa experiencia, con la idea de que los inversores particulares también puedan encontrar con más facilidad la información necesaria y usarla en sus propios criterios de inversión. El artículo original lo presenta como un joven inversor destacado y aborda el caso como una aplicación de IA al análisis de acciones estadounidenses. En un entorno de exceso de información, seleccionar e interpretar datos útiles se vuelve cada vez más relevante. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "Estudante do ensino médio cria modelo de IA para analisar ações dos EUA",
+      "excerpt": "Um estudante do último ano do ensino médio desenvolveu um modelo de IA para análise de ações dos EUA após enfrentar dificuldades para encontrar informações e usá-las em decisões de investimento.",
+      "body": "Um estudante do último ano do ensino médio desenvolveu um modelo de IA para analisar ações dos Estados Unidos, segundo o mk.co.kr. Ele afirmou que, quando começou a investir em ações, não sabia que informações procurar, onde encontrá-las nem como conectá-las e utilizá-las em suas decisões de investimento em meio a um grande volume de dados. O modelo nasceu dessa experiência, com o objetivo de ajudar investidores individuais a localizar informações relevantes com mais facilidade e aplicá-las ao próprio julgamento. O texto original apresenta o estudante como um jovem investidor habilidoso e trata o caso como uma aplicação de IA à análise de ações americanas. Em um ambiente de excesso de informação, selecionar e interpretar dados úteis tornou-se mais importante. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "Schüler entwickelt KI-Modell zur Analyse von US-Aktien für Privatanleger",
+      "excerpt": "Ein Schüler der Abschlussklasse entwickelte ein KI-Modell zur Analyse von US-Aktien, nachdem er als Anlageanfänger Probleme hatte, relevante Informationen zu finden und zu nutzen.",
+      "body": "Ein Schüler der Abschlussklasse hat ein KI-Modell zur Analyse von US-Aktien entwickelt, berichtete mk.co.kr. Er erklärte, dass er zu Beginn seiner Aktieninvestitionen angesichts der Informationsflut nicht wusste, welche Informationen er suchen sollte, wo er sie findet und wie er sie mit Anlageentscheidungen verknüpfen und nutzen kann. Die Entwicklung des Modells geht auf diese Erfahrung zurück und soll Privatanlegern helfen, benötigte Informationen leichter zu finden und für ihre eigenen Anlageentscheidungen zu verwenden. Der Originalartikel stellt den Schüler als versierten jungen Investor vor und behandelt den Fall als Beispiel für den Einsatz von KI in der Analyse von US-Aktien. In einem Umfeld mit Informationsüberfluss wird es für Privatanleger wichtiger, nützliche Daten auszuwählen und zu interpretieren. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "Un lycéen crée un modèle d’IA pour analyser les actions américaines",
+      "excerpt": "Un lycéen en dernière année a développé un modèle d’IA d’analyse des actions américaines après avoir eu du mal, à ses débuts, à trouver les bonnes informations et à les utiliser pour investir.",
+      "body": "Un lycéen en dernière année a développé un modèle d’IA destiné à analyser les actions américaines, selon mk.co.kr. Il a expliqué que lorsqu’il a commencé à investir en Bourse, il ne savait pas quelles informations rechercher, où les trouver ni comment les relier à ses décisions d’investissement dans un flot massif de données. Le modèle est né de cette expérience, avec l’objectif d’aider les investisseurs particuliers à trouver plus facilement les informations nécessaires et à les utiliser dans leur propre jugement. L’article original le présente comme un jeune investisseur averti et traite ce cas comme un exemple d’application de l’IA à l’analyse des actions américaines. Dans un environnement marqué par la surabondance d’informations, choisir et interpréter des données utiles devient essentiel. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "طالب ثانوي يطور نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية للمستثمرين الأفراد",
+      "excerpt": "طور طالب في السنة الأخيرة من المرحلة الثانوية نموذج ذكاء اصطناعي لتحليل الأسهم الأمريكية، مستندا إلى تجربته الأولى حين صعب عليه العثور على المعلومات وربطها بقرارات الاستثمار.",
+      "body": "أفاد موقع mk.co.kr بأن طالبا في السنة الأخيرة من المرحلة الثانوية طور نموذجا للذكاء الاصطناعي لتحليل الأسهم الأمريكية. وقال الطالب إنه عندما بدأ الاستثمار في الأسهم لأول مرة، لم يكن يعرف وسط سيل من المعلومات ما الذي يجب البحث عنه، وأين يجده، وكيف يربطه بقرارات الاستثمار ويستخدمه. وجاء تطوير النموذج انطلاقا من هذه التجربة، بهدف مساعدة المستثمرين الأفراد على العثور على المعلومات المطلوبة بسهولة أكبر واستخدامها في أحكامهم الاستثمارية. وقد قدم المقال الأصلي الطالب بوصفه مستثمرا شابا متمرسا، وتناول الحالة كمثال على دمج الذكاء الاصطناعي في تحليل الأسهم الأمريكية. ومع تزايد وفرة المعلومات، تبرز أهمية اختيار البيانات المفيدة وتفسيرها للمستثمر الفرد. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "हाई स्कूल सीनियर ने अमेरिकी शेयर विश्लेषण के लिए AI मॉडल बनाया",
+      "excerpt": "हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयरों के विश्लेषण के लिए AI मॉडल विकसित किया। शुरुआती निवेश दौर में सही जानकारी खोजने और उसे फैसलों से जोड़ने की कठिनाई इसकी पृष्ठभूमि बनी।",
+      "body": "mk.co.kr के अनुसार, हाई स्कूल के अंतिम वर्ष के एक निवेशक ने अमेरिकी शेयरों का विश्लेषण करने वाला AI मॉडल विकसित किया है। छात्र ने बताया कि जब उसने पहली बार शेयर निवेश शुरू किया, तो सूचनाओं की भारी भीड़ में उसे यह समझ नहीं आता था कि कौन सी जानकारी खोजनी है, उसे कहां खोजना है और उसे निवेश निर्णयों से जोड़कर कैसे उपयोग करना है। इसी अनुभव से मॉडल विकसित करने का विचार निकला, ताकि व्यक्तिगत निवेशक भी आवश्यक जानकारी अधिक आसानी से ढूंढ सकें और उसे अपने निवेश निर्णयों में उपयोग कर सकें। मूल लेख ने इस छात्र को एक कुशल युवा निवेशक के रूप में पेश किया और इसे अमेरिकी शेयर विश्लेषण में AI के उपयोग के उदाहरण के तौर पर देखा। सूचना की अधिकता वाले माहौल में उपयोगी डेटा चुनना और समझना और महत्वपूर्ण हो गया है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "Siswa Kelas Akhir SMA Buat Model AI Analisis Saham AS untuk Investor Ritel",
+      "excerpt": "Seorang siswa kelas akhir SMA mengembangkan model AI untuk analisis saham AS setelah mengalami kesulitan mencari informasi yang tepat dan menghubungkannya dengan keputusan investasi.",
+      "body": "Seorang siswa kelas akhir SMA mengembangkan model AI untuk menganalisis saham Amerika Serikat, menurut mk.co.kr. Ia mengatakan bahwa saat pertama kali mulai berinvestasi saham, ia tidak tahu informasi apa yang harus dicari, di mana mencarinya, dan bagaimana menghubungkannya dengan keputusan investasi di tengah banjir informasi. Pengembangan model ini berangkat dari pengalaman tersebut, dengan tujuan membantu investor individu menemukan informasi yang dibutuhkan dengan lebih mudah dan menggunakannya dalam penilaian investasi mereka. Artikel asli memperkenalkan siswa ini sebagai investor muda yang mahir dan membahasnya sebagai contoh penerapan AI dalam analisis saham AS. Dalam lingkungan informasi yang berlebihan, kemampuan memilih dan menafsirkan data yang berguna menjadi semakin penting. Sumber: mk.co.kr"
+    }
+  }
+}
