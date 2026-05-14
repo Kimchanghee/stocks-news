@@ -1,5 +1,230 @@
 [
   {
+    "id": "11d1eaaedd9b",
+    "slug": "불장에-증시로-머니무브-가속-상호금융서도-15조원-이탈-605513",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T13:09:52.798Z",
+    "updatedAt": "2026-05-14T13:09:52.798Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047854",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047854",
+    "titleFingerprint": "bfeb86741fed3f11e6fe37325ab103af3c5cab5c",
+    "dedupKeys": [
+      "11d1eaaedd9bbe8c71175704cd655eb3a01aa91e",
+      "bfeb86741fed3f11e6fe37325ab103af3c5cab5c",
+      "df9d338264989630ec2b3ec9167949ba2b20c792"
+    ],
+    "imageUrl": "/images/articles/11d1eaaedd9b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "불장 속 증시 머니무브 가속에 상호금융권도 자금 이탈, 1분기 수신 15조원 빠졌다",
+        "excerpt": "한국은행이 14일 밝힌 올해 1분기 상호금융권 수신잔액은 915조965억원으로, 국내 증시 강세와 높은 수익률 추구가 맞물리며 15조원 규모 자금 이탈이 나타났다.",
+        "body": "국내 증시가 역대급 강세를 이어가면서 높은 수익률을 좇는 자금 이동, 이른바 ‘머니무브’가 상호금융권으로 확산했다. 14일 한국은행에 따르면 올해 1분기 새마을금고·신협·농협·수협 등 상호금융권 수신잔액은 915조965억원으로 집계됐다. 증시 상승 흐름 속에 투자자금이 예금성 자금에서 주식시장으로 이동하며 상호금융권에서도 15조원 규모의 이탈이 나타난 것으로 전해졌다. 이는 국내 금융권 전반에서 수익률을 기준으로 자금 재배치가 진행되고 있음을 보여준다. 향후 증시 강세가 이어질 경우 예금성 자금의 추가 이동 여부가 금융권의 주요 관심사가 될 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Stock Market Money Move Accelerates as Mutual Finance Deposits Fall by 15 Trillion Won in Q1",
+        "excerpt": "The Bank of Korea said on the 14th that mutual finance deposits stood at 915.0965 trillion won in the first quarter, as strong domestic stocks and higher return-seeking drove a 15 trillion won outflow.",
+        "body": "As South Korea’s stock market continues its exceptional rally, the shift of funds toward equities in search of higher returns, often called a “money move,” has spread to the mutual finance sector. According to the Bank of Korea on the 14th, deposit balances at mutual finance institutions including Saemaul Geumgo, credit unions, agricultural cooperatives and fisheries cooperatives totaled 915.0965 trillion won in the first quarter of this year. Amid the market’s strength, funds reportedly moved from deposit-like products into the stock market, leading to an outflow of about 15 trillion won from mutual finance institutions. The figures show that capital is being reallocated across Korea’s financial sector based on yield. If the stock rally continues, further movement from deposit funds will remain a key issue. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "株高でマネームーブ加速、相互金融の預金も1四半期で15兆ウォン流出",
+        "excerpt": "韓国銀行が14日に明らかにした今年1四半期の相互金融圏の受信残高は915兆965億ウォンで、韓国株の強さと高利回り志向を背景に15兆ウォン規模の資金流出が起きた。",
+        "body": "韓国株式市場が記録的な強さを続けるなか、高い収益率を求めて資金が株式市場へ移る、いわゆる「マネームーブ」が相互金融圏にも広がっている。韓国銀行が14日に発表したところによると、今年1四半期のセマウル金庫、信用協同組合、農協、水協など相互金融圏の受信残高は915兆965億ウォンだった。株高の流れのなか、預金性資金から株式市場へ投資資金が移動し、相互金融圏でも15兆ウォン規模の流出が生じたとされる。これは韓国金融圏全体で収益率を基準に資金の再配置が進んでいることを示す。株高が続けば、預金性資金の追加移動が金融圏の注目点となりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "股市走强推动资金搬家加速，韩国互助金融一季度流出15万亿韩元",
+        "excerpt": "韩国央行14日表示，今年一季度互助金融机构存款余额为915.0965万亿韩元，在韩国股市强势和追逐高收益的背景下，出现约15万亿韩元资金流出。",
+        "body": "随着韩国股市持续出现罕见强势，追逐更高收益的资金流向股市，所谓“资金搬家”现象已扩散至互助金融领域。韩国银行14日数据显示，今年一季度，新村金库、信用合作社、农协、水协等互助金融机构的存款余额为915.0965万亿韩元。在股市上涨趋势下，投资资金从存款类资金转向股票市场，互助金融领域也出现约15万亿韩元的资金流出。该情况显示，韩国金融体系内正以收益率为标准进行资金再配置。若股市强势延续，存款类资金是否继续外流将成为金融业关注的重点。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El traslado de dinero a la bolsa se acelera y las finanzas mutuales pierden 15 billones de wones en el primer trimestre",
+        "excerpt": "El Banco de Corea informó el día 14 que los saldos captados por las finanzas mutuales sumaron 915,0965 billones de wones en el primer trimestre, con una salida de 15 billones por la fortaleza bursátil.",
+        "body": "La fuerte subida del mercado bursátil surcoreano ha acelerado el traslado de fondos hacia acciones en busca de mayores rentabilidades, un fenómeno conocido como “money move”, que ahora alcanza también al sector de finanzas mutuales. Según el Banco de Corea el día 14, los saldos de captación de entidades como Saemaul Geumgo, cooperativas de crédito, cooperativas agrícolas y pesqueras totalizaron 915,0965 billones de wones en el primer trimestre de este año. En medio del avance de la bolsa, los fondos de tipo depósito se habrían desplazado hacia el mercado accionario, generando una salida cercana a 15 billones de wones. El dato muestra una reasignación de capital basada en rentabilidad dentro del sistema financiero coreano. Si el impulso bursátil continúa, nuevas salidas desde depósitos serán un foco clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Migração de dinheiro para a bolsa acelera e finanças mútuas perdem 15 trilhões de won no 1º trimestre",
+        "excerpt": "O Banco da Coreia informou no dia 14 que os saldos captados pelo setor de finanças mútuas somaram 915,0965 trilhões de won no primeiro trimestre, com saída de 15 trilhões em meio à força das ações.",
+        "body": "Com o mercado acionário sul-coreano mantendo uma forte alta histórica, a migração de recursos para ações em busca de retornos maiores, conhecida como “money move”, chegou também ao setor de finanças mútuas. Segundo o Banco da Coreia no dia 14, os saldos de captação de instituições como Saemaul Geumgo, cooperativas de crédito, cooperativas agrícolas e cooperativas de pesca totalizaram 915,0965 trilhões de won no primeiro trimestre deste ano. Em meio à valorização das ações, recursos antes alocados em produtos semelhantes a depósitos migraram para o mercado acionário, provocando uma saída de cerca de 15 trilhões de won. O dado indica uma realocação de capital por rentabilidade no sistema financeiro coreano. Se a força da bolsa continuar, novas saídas de depósitos seguirão no radar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Geldstrom in Aktien beschleunigt sich: Mutual-Finance-Sektor verliert im ersten Quartal 15 Billionen Won",
+        "excerpt": "Die Bank of Korea teilte am 14. mit, dass die Einlagen im Mutual-Finance-Sektor im ersten Quartal 915,0965 Billionen Won betrugen, während starke Aktienmärkte Abflüsse von 15 Billionen Won auslösten.",
+        "body": "Der südkoreanische Aktienmarkt bleibt außergewöhnlich stark, und die Suche nach höheren Renditen verlagert immer mehr Kapital in Aktien. Dieser sogenannte „Money Move“ hat nun auch den Mutual-Finance-Sektor erreicht. Nach Angaben der Bank of Korea vom 14. beliefen sich die Einlagen bei Saemaul Geumgo, Kreditgenossenschaften, Agrargenossenschaften und Fischereigenossenschaften im ersten Quartal dieses Jahres auf 915,0965 Billionen Won. Im Zuge der Aktienrally sollen Anlegergelder aus einlagenähnlichen Produkten in den Aktienmarkt geflossen sein, wodurch im Mutual-Finance-Sektor rund 15 Billionen Won abgezogen wurden. Die Zahlen zeigen, dass Kapital im koreanischen Finanzsystem zunehmend nach Rendite umgeschichtet wird. Hält die Börsenstärke an, bleibt eine weitere Bewegung von Einlagengeldern ein zentrales Thema. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La ruée vers la Bourse s’accélère, les finances mutualistes perdent 15 000 milliards de wons au T1",
+        "excerpt": "La Banque de Corée a indiqué le 14 que les encours collectés par les institutions financières mutualistes atteignaient 915 096,5 milliards de wons au premier trimestre, avec 15 000 milliards de sorties.",
+        "body": "La Bourse sud-coréenne poursuit une progression exceptionnelle, poussant les capitaux à se diriger vers les actions à la recherche de rendements plus élevés. Ce mouvement, qualifié de “money move”, s’étend désormais au secteur financier mutualiste. Selon la Banque de Corée le 14, les encours de dépôts des institutions telles que Saemaul Geumgo, les coopératives de crédit, les coopératives agricoles et les coopératives de pêche ont atteint 915 096,5 milliards de wons au premier trimestre de cette année. Dans le contexte de hausse du marché, des fonds de type dépôt auraient migré vers les actions, entraînant une sortie d’environ 15 000 milliards de wons. Ces données montrent une réallocation des capitaux fondée sur le rendement dans le système financier coréen. Si la vigueur boursière se poursuit, de nouvelles sorties de dépôts resteront surveillées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "انتقال الأموال إلى الأسهم يتسارع مع خروج 15 تريليون وون من التمويل التعاوني في الربع الأول",
+        "excerpt": "قال بنك كوريا في 14 إن أرصدة الودائع لدى مؤسسات التمويل التعاوني بلغت 915.0965 تريليون وون في الربع الأول، مع خروج نحو 15 تريليون وون بفعل قوة سوق الأسهم والسعي للعوائد.",
+        "body": "مع استمرار القوة الاستثنائية في سوق الأسهم الكورية، اتسع انتقال الأموال نحو الأسهم بحثا عن عوائد أعلى، وهو ما يعرف باسم “حركة الأموال”، ليشمل قطاع التمويل التعاوني. ووفقا لبنك كوريا في 14، بلغت أرصدة الودائع لدى مؤسسات مثل سايماول غومغو، والاتحادات الائتمانية، والتعاونيات الزراعية والسمكية 915.0965 تريليون وون في الربع الأول من هذا العام. وفي ظل صعود الأسهم، انتقلت أموال استثمارية من منتجات شبيهة بالودائع إلى سوق الأسهم، ما أدى إلى خروج يقارب 15 تريليون وون من قطاع التمويل التعاوني. وتظهر الأرقام أن إعادة توزيع رأس المال داخل القطاع المالي الكوري تجري على أساس العائد. وإذا استمرت قوة الأسهم، فسيبقى احتمال انتقال مزيد من أموال الودائع موضع اهتمام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शेयर बाजार में मनी मूव तेज, सहकारी वित्त क्षेत्र से पहली तिमाही में 15 ट्रिलियन वॉन निकले",
+        "excerpt": "बैंक ऑफ कोरिया ने 14 तारीख को कहा कि पहली तिमाही में सहकारी वित्त संस्थानों की जमा शेष राशि 915.0965 ट्रिलियन वॉन रही, जबकि मजबूत शेयर बाजार और ऊंचे रिटर्न की तलाश से 15 ट्रिलियन वॉन निकले।",
+        "body": "दक्षिण कोरिया के शेयर बाजार में असाधारण तेजी जारी रहने के साथ ऊंचे रिटर्न की तलाश में धन का शेयरों की ओर जाना, जिसे “मनी मूव” कहा जाता है, अब सहकारी वित्त क्षेत्र तक फैल गया है। बैंक ऑफ कोरिया के अनुसार, 14 तारीख को जारी आंकड़ों में इस वर्ष की पहली तिमाही में सैमाउल गुमगो, क्रेडिट यूनियन, कृषि सहकारी और मत्स्य सहकारी जैसी संस्थाओं की जमा शेष राशि 915.0965 ट्रिलियन वॉन रही। शेयर बाजार की मजबूती के बीच जमा जैसे उत्पादों से धन शेयर बाजार की ओर गया और सहकारी वित्त क्षेत्र से करीब 15 ट्रिलियन वॉन की निकासी हुई। यह दर्शाता है कि कोरियाई वित्तीय क्षेत्र में पूंजी का पुनर्वितरण रिटर्न के आधार पर हो रहा है। यदि शेयर बाजार की तेजी जारी रहती है, तो जमा धन की आगे की आवाजाही प्रमुख मुद्दा रहेगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Money Move ke Bursa Makin Cepat, Dana Keuangan Mutual Keluar 15 Triliun Won pada Kuartal I",
+        "excerpt": "Bank of Korea pada tanggal 14 menyatakan saldo simpanan sektor keuangan mutual mencapai 915,0965 triliun won pada kuartal pertama, saat penguatan bursa dan pencarian imbal hasil memicu arus keluar 15 triliun won.",
+        "body": "Pasar saham Korea Selatan terus menguat secara luar biasa, mendorong perpindahan dana ke saham untuk mencari imbal hasil lebih tinggi. Fenomena yang disebut “money move” ini kini meluas ke sektor keuangan mutual. Menurut Bank of Korea pada tanggal 14, saldo simpanan lembaga seperti Saemaul Geumgo, koperasi kredit, koperasi pertanian, dan koperasi perikanan mencapai 915,0965 triliun won pada kuartal pertama tahun ini. Di tengah tren kenaikan bursa, dana yang sebelumnya berada pada produk seperti deposito dilaporkan berpindah ke pasar saham, menyebabkan arus keluar sekitar 15 triliun won dari sektor keuangan mutual. Angka ini menunjukkan realokasi modal berdasarkan imbal hasil di sektor keuangan Korea. Jika penguatan saham berlanjut, potensi perpindahan dana deposito berikutnya akan menjadi perhatian utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cfee1ca42664",
+    "slug": "중복상장-크게-줄어든-日전면-금지보다-소수주주-보호-강화-946582",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T13:07:40.336Z",
+    "updatedAt": "2026-05-14T13:07:40.336Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048197",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048197",
+    "titleFingerprint": "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
+    "dedupKeys": [
+      "cfee1ca42664228d9ca7df8c442f8f135907f9e4",
+      "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
+      "4ac430d72af6e5e57b792b8658e2ed3ec8d95653"
+    ],
+    "imageUrl": "/images/articles/cfee1ca42664.jpg",
+    "i18n": {
+      "ko": {
+        "title": "일본 중복상장 31% 감소…전면 금지보다 소수주주 보호 강화 주목",
+        "excerpt": "일본에서 상장 모회사를 둔 자회사가 7년 새 31% 줄어든 가운데, 금융당국과 한국거래소는 중복상장 원칙 금지·예외 허용 방침에 맞춘 심사기준 마련을 서두르고 있다.",
+        "body": "일본에서 상장 모회사를 둔 자회사가 7년 사이 31% 감소한 것으로 나타났다. 금융당국과 한국거래소는 중복상장에 대해 ‘원칙 금지·예외 허용’ 방침을 세우고 심사기준 마련에 속도를 내고 있다. 거래소는 내달 세부 규정을 마무리하고 7월 시행을 목표로 하는 것으로 전해졌다. 일본 사례는 중복상장을 전면 금지하기보다 소수주주 보호 장치를 강화하는 방향에 초점이 맞춰져 있다. 이는 국내 제도 설계에서도 상장 자회사 심사와 투자자 보호 기준을 어떻게 정교화할지가 핵심 쟁점이 될 수 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Japan Cuts Duplicate Listings by 31% as Focus Shifts to Minority Shareholder Protection",
+        "excerpt": "As listed subsidiaries of listed parent companies in Japan fell 31% over seven years, Korean regulators and the Korea Exchange are moving to set review standards under a ban-in-principle policy.",
+        "body": "Japan has seen a 31% decline over seven years in subsidiaries listed while their parent companies are also listed. Korea’s financial authorities and the Korea Exchange are accelerating work on review standards for duplicate listings under a policy of “prohibited in principle, allowed by exception.” The exchange is reportedly set to finalize detailed rules next month and aims to implement them in July. Japan’s case highlights a focus on strengthening minority shareholder protections rather than imposing a blanket ban on duplicate listings. For Korea, the key issue is how to refine listing reviews for subsidiaries and investor protection standards. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "日本の重複上場31％減、全面禁止より少数株主保護の強化に注目",
+        "excerpt": "日本で上場親会社を持つ子会社が7年で31％減少するなか、金融当局と韓国取引所は重複上場の原則禁止・例外許容方針に沿った審査基準作りを急いでいる。",
+        "body": "日本では、上場親会社を持つ子会社が7年間で31％減少したことが明らかになった。韓国の金融当局と韓国取引所は、重複上場について「原則禁止・例外許容」の方針を掲げ、審査基準の整備を急いでいる。取引所は来月に細部規定をまとめ、7月の施行を目指していると伝えられた。日本の事例は、重複上場を全面的に禁止するよりも、少数株主の保護装置を強化する方向に重点を置いている。韓国の制度設計でも、上場子会社の審査と投資家保護基準をどう精緻化するかが主要な論点になり得る。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "日本重复上市减少31%，焦点转向强化中小股东保护",
+        "excerpt": "日本拥有上市母公司的子公司7年内减少31%；与此同时，韩国金融监管部门和韩国交易所正加快制定重复上市原则禁止、例外允许的审查标准。",
+        "body": "日本拥有上市母公司的上市子公司在7年间减少了31%。韩国金融监管部门和韩国交易所正围绕重复上市“原则禁止、例外允许”的方针，加快制定审查标准。据悉，交易所将于下月完成细则，并以7月实施为目标。日本案例显示，相关制度重点并非全面禁止重复上市，而是强化对中小股东的保护机制。对韩国而言，未来制度设计的核心将是如何细化上市子公司的审查程序，以及如何完善投资者保护标准。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Japón reduce 31% las dobles cotizaciones y prioriza proteger a accionistas minoritarios",
+        "excerpt": "En Japón, las filiales con matrices cotizadas bajaron 31% en siete años, mientras los reguladores coreanos y la Bolsa de Corea aceleran criterios para limitar las dobles cotizaciones.",
+        "body": "En Japón, el número de filiales cotizadas que tienen una matriz también cotizada cayó 31% en siete años. Las autoridades financieras de Corea y la Bolsa de Corea están acelerando la elaboración de criterios de revisión bajo una política de “prohibición en principio y autorización por excepción” para las dobles cotizaciones. Según se informó, la bolsa finalizará las normas detalladas el próximo mes y apunta a aplicarlas en julio. El caso japonés pone el foco en reforzar la protección de los accionistas minoritarios, más que en imponer una prohibición total. Para Corea, el punto clave será cómo precisar la revisión de filiales cotizadas y los estándares de protección al inversionista. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Japão reduz dupla listagem em 31% e reforça foco na proteção de minoritários",
+        "excerpt": "No Japão, subsidiárias com controladoras listadas caíram 31% em sete anos, enquanto reguladores coreanos e a Korea Exchange aceleram critérios para restringir dupla listagem.",
+        "body": "No Japão, o número de subsidiárias listadas que têm uma controladora também listada caiu 31% em sete anos. As autoridades financeiras da Coreia e a Korea Exchange estão acelerando a preparação de critérios de análise sob a diretriz de “proibição em princípio e permissão por exceção” para casos de dupla listagem. A bolsa deve concluir as regras detalhadas no próximo mês e mira a implementação em julho. O caso japonês mostra uma ênfase maior no fortalecimento da proteção aos acionistas minoritários do que em uma proibição total. Para a Coreia, o ponto central será refinar a análise de subsidiárias listadas e os padrões de proteção ao investidor. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Japan senkt Doppelnotierungen um 31% und setzt stärker auf Minderheitenschutz",
+        "excerpt": "In Japan sank die Zahl börsennotierter Tochterfirmen mit ebenfalls gelisteter Mutter in sieben Jahren um 31%, während Korea neue Prüfstandards für Doppelnotierungen vorbereitet.",
+        "body": "In Japan ist die Zahl börsennotierter Tochtergesellschaften mit einer ebenfalls börsennotierten Muttergesellschaft binnen sieben Jahren um 31% gesunken. Koreas Finanzbehörden und die Korea Exchange treiben Prüfstandards für Doppelnotierungen voran, nach dem Grundsatz „grundsätzlich verboten, ausnahmsweise erlaubt“. Die Börse soll die Detailregeln im kommenden Monat abschließen und eine Einführung im Juli anstreben. Das japanische Beispiel legt den Schwerpunkt weniger auf ein vollständiges Verbot als auf stärkere Schutzmechanismen für Minderheitsaktionäre. Für Korea dürfte entscheidend sein, wie Prüfungen gelisteter Tochterfirmen und Standards zum Anlegerschutz präzisiert werden. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Au Japon, les doubles cotations reculent de 31% et la protection des minoritaires prime",
+        "excerpt": "Au Japon, les filiales de sociétés mères cotées ont diminué de 31% en sept ans, tandis que les autorités coréennes et la Korea Exchange préparent des critères de contrôle.",
+        "body": "Au Japon, le nombre de filiales cotées ayant une société mère elle aussi cotée a reculé de 31% en sept ans. Les autorités financières coréennes et la Korea Exchange accélèrent l’élaboration de critères d’examen pour les doubles cotations, selon le principe d’une interdiction de principe avec exceptions. La Bourse devrait finaliser les règles détaillées le mois prochain et viser une application en juillet. Le cas japonais met l’accent sur le renforcement de la protection des actionnaires minoritaires plutôt que sur une interdiction totale. Pour la Corée, l’enjeu central sera de préciser l’examen des filiales cotées et les normes de protection des investisseurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "اليابان تقلص الإدراج المزدوج 31% وتركز على حماية مساهمي الأقلية",
+        "excerpt": "تراجع عدد الشركات التابعة المدرجة في اليابان والمرتبطة بشركات أم مدرجة 31% خلال سبع سنوات، فيما تسرع الجهات الكورية وضع معايير لمراجعة الإدراج المزدوج.",
+        "body": "في اليابان، انخفض عدد الشركات التابعة المدرجة التي تملك شركات أم مدرجة أيضا بنسبة 31% خلال سبع سنوات. وتسرع السلطات المالية الكورية وبورصة كوريا إعداد معايير مراجعة للإدراج المزدوج وفق مبدأ “الحظر كقاعدة والسماح كاستثناء”. وذكرت التقارير أن البورصة ستنهي القواعد التفصيلية في الشهر المقبل، مع استهداف بدء التطبيق في يوليو. وتظهر التجربة اليابانية أن التركيز ينصب على تعزيز أدوات حماية مساهمي الأقلية بدلا من فرض حظر شامل على الإدراج المزدوج. وبالنسبة لكوريا، ستكون المسألة الرئيسية هي كيفية تدقيق مراجعة إدراج الشركات التابعة ومعايير حماية المستثمرين. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "जापान में दोहरी लिस्टिंग 31% घटी, अल्पांश शेयरधारक सुरक्षा पर जोर",
+        "excerpt": "जापान में सूचीबद्ध मूल कंपनी वाली सूचीबद्ध सहायक कंपनियां सात वर्षों में 31% घटीं, जबकि कोरियाई नियामक दोहरी लिस्टिंग पर समीक्षा मानक बनाने में तेजी ला रहे हैं।",
+        "body": "जापान में ऐसी सूचीबद्ध सहायक कंपनियों की संख्या सात वर्षों में 31% घट गई है जिनकी मूल कंपनियां भी सूचीबद्ध हैं। कोरिया के वित्तीय नियामक और कोरिया एक्सचेंज दोहरी लिस्टिंग के लिए “सिद्धांत रूप में रोक, अपवाद के रूप में अनुमति” नीति के तहत समीक्षा मानक तैयार करने में तेजी ला रहे हैं। बताया गया है कि एक्सचेंज अगले महीने विस्तृत नियम अंतिम रूप देगा और जुलाई में लागू करने का लक्ष्य रखता है। जापान का उदाहरण दिखाता है कि ध्यान पूर्ण प्रतिबंध के बजाय अल्पांश शेयरधारकों की सुरक्षा मजबूत करने पर है। कोरिया के लिए मुख्य मुद्दा सूचीबद्ध सहायक कंपनियों की समीक्षा और निवेशक सुरक्षा मानकों को अधिक स्पष्ट बनाना होगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Jepang Pangkas Listing Ganda 31%, Fokus Bergeser ke Perlindungan Pemegang Saham Minoritas",
+        "excerpt": "Di Jepang, anak usaha tercatat dengan induk yang juga tercatat turun 31% dalam tujuh tahun, sementara otoritas Korea dan Korea Exchange mempercepat standar peninjauan listing ganda.",
+        "body": "Di Jepang, jumlah anak usaha tercatat yang memiliki induk perusahaan juga tercatat turun 31% dalam tujuh tahun. Otoritas keuangan Korea dan Korea Exchange sedang mempercepat penyusunan standar peninjauan untuk listing ganda dengan prinsip “dilarang pada dasarnya, diizinkan sebagai pengecualian.” Bursa tersebut dilaporkan akan merampungkan aturan rinci bulan depan dan menargetkan penerapan pada Juli. Kasus Jepang menunjukkan fokus pada penguatan perlindungan pemegang saham minoritas, bukan larangan total atas listing ganda. Bagi Korea, isu utamanya adalah bagaimana memperjelas peninjauan anak usaha tercatat dan standar perlindungan investor. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "352eafa52a79",
+    "slug": "자고-일어나면-돈버는-증시-놔두고-왜상호금융서도-15조-빠졌다-334020",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T13:06:33.594Z",
+    "updatedAt": "2026-05-14T13:06:33.594Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12048246",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048246",
+    "titleFingerprint": "34afd988a2db565262be39d9c205b9df816df8d7",
+    "dedupKeys": [
+      "352eafa52a79ffffd2f524421a1f860ffcc7ad35",
+      "34afd988a2db565262be39d9c205b9df816df8d7",
+      "f08ffb4935c78c3b1cdb50f1856080bbed48d2e9"
+    ],
+    "imageUrl": "/images/articles/352eafa52a79.png",
+    "i18n": {
+      "ko": {
+        "title": "상호금융 15조 이탈, 증시 호황 속 1분기 머니무브 확산",
+        "excerpt": "국내 증시 강세가 이어진 1분기, 높은 수익률을 좇은 자금 이동이 상호금융권까지 번지며 15조원이 빠져나간 것으로 나타났다.",
+        "body": "국내 증시가 역대급 강세를 이어간 1분기, 높은 수익률을 기대한 투자자 자금이 증시로 이동하면서 상호금융권에서도 약 15조원이 빠져나갔다. 예금성 자금이 증시로 옮겨가는 이른바 ‘머니무브’가 은행권을 넘어 상호금융권까지 확산된 것이다. 상호금융권은 자금 유출을 막기 위해 고금리 특판 상품을 내놨지만, 증시 호황에 따른 투자 수요를 붙잡기에는 역부족이었다. 이번 흐름은 국내 증시 강세가 금융권 예수금 구조에도 영향을 주고 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Mutual Finance Loses 15 Trillion Won as Stock Rally Drives Q1 Money Move",
+        "excerpt": "In the first quarter, South Korea’s strong stock market drew funds seeking higher returns, causing about 15 trillion won to leave mutual finance firms.",
+        "body": "In the first quarter, as South Korea’s stock market continued its exceptional rally, investor funds moved toward equities in search of higher returns, leading to an outflow of about 15 trillion won from the mutual finance sector. The so-called “money move,” in which deposit-like funds shift into the stock market, has spread beyond banks to mutual finance institutions. These firms introduced high-interest special deposit products to slow the outflow, but they were not enough to counter demand created by the stock market boom. The trend shows that the strength of domestic equities is also affecting the deposit structure of financial institutions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "相互金融から15兆ウォン流出、株高で1四半期の資金移動拡大",
+        "excerpt": "韓国株式市場の強い上昇が続いた第1四半期、高い収益率を求める資金が株式市場へ向かい、相互金融から約15兆ウォンが流出した。",
+        "body": "韓国株式市場が記録的な強さを維持した第1四半期、高い収益率を期待する投資資金が株式市場へ移動し、相互金融業界から約15兆ウォンが流出した。預金性資金が株式市場へ移る、いわゆる「マネームーブ」が銀行圏を越えて相互金融にも広がった形だ。相互金融各社は資金流出を防ぐため高金利の特別販売商品を投入したが、株高による投資需要をつなぎ止めるには力不足だった。今回の流れは、国内株式市場の強さが金融機関の預金構造にも影響していることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "共同金融流失15万亿韩元，股市繁荣推动一季度资金迁移",
+        "excerpt": "在韩国股市一季度持续强势的背景下，追求高收益的资金流向股市，共同金融领域约15万亿韩元资金流出。",
+        "body": "今年第一季度，韩国股市延续罕见强势行情，期待更高收益的投资资金转向股市，导致共同金融领域约15万亿韩元资金流出。存款类资金流入股市的所谓“资金迁移”已经从银行业扩散至共同金融机构。为阻止资金外流，共同金融领域推出了高利率特别销售产品，但仍不足以留住因股市繁荣而增加的投资需求。此次趋势显示，韩国国内股市强势也正在影响金融机构的存款结构。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Finanzas mutuales pierden 15 billones de wones por auge bursátil en el 1T",
+        "excerpt": "En el primer trimestre, la fortaleza del mercado bursátil surcoreano atrajo fondos en busca de mayor rentabilidad y provocó salidas de unos 15 billones de wones.",
+        "body": "En el primer trimestre, mientras el mercado bursátil surcoreano mantenía una fortaleza histórica, los fondos de inversores que buscaban mayores rendimientos se trasladaron hacia las acciones, provocando una salida de unos 15 billones de wones del sector de finanzas mutuales. El llamado “money move”, en el que fondos similares a depósitos pasan al mercado bursátil, se extendió más allá de los bancos hacia estas entidades. El sector lanzó productos especiales con altos tipos de interés para frenar las salidas, pero no fue suficiente frente a la demanda generada por el auge bursátil. La tendencia muestra que la fortaleza de la bolsa local también afecta la estructura de depósitos del sistema financiero. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Finanças mútuas perdem 15 trilhões de won com alta da bolsa no 1º tri",
+        "excerpt": "No primeiro trimestre, a forte valorização da bolsa sul-coreana atraiu recursos em busca de maior retorno e levou à saída de cerca de 15 trilhões de won das finanças mútuas.",
+        "body": "No primeiro trimestre, enquanto a bolsa sul-coreana mantinha uma força histórica, recursos de investidores em busca de retornos mais altos migraram para o mercado acionário, causando uma saída de cerca de 15 trilhões de won do setor de finanças mútuas. O chamado “money move”, em que recursos semelhantes a depósitos passam para ações, avançou além dos bancos e chegou às instituições de finanças mútuas. O setor lançou produtos promocionais com juros elevados para conter a saída de recursos, mas isso não bastou diante da demanda criada pelo bom desempenho da bolsa. O movimento mostra que a força do mercado acionário doméstico também afeta a estrutura de depósitos das instituições financeiras. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "15 Billionen Won Abfluss aus Genossenschaftsfinanz wegen Börsenboom im Q1",
+        "excerpt": "Im ersten Quartal zog Südkoreas starker Aktienmarkt Gelder auf der Suche nach höheren Renditen an, wodurch rund 15 Billionen Won aus dem Genossenschaftsfinanzsektor abflossen.",
+        "body": "Im ersten Quartal setzte der südkoreanische Aktienmarkt seine außergewöhnliche Stärke fort. Anlegergelder, die höhere Renditen erwarteten, wanderten in Aktien, wodurch aus dem Genossenschaftsfinanzsektor rund 15 Billionen Won abflossen. Die sogenannte „Money Move“-Bewegung, bei der einlagenähnliche Gelder an den Aktienmarkt wechseln, hat sich damit über Banken hinaus auf Genossenschaftsfinanzinstitute ausgeweitet. Diese Institute brachten Sonderprodukte mit hohen Zinsen auf den Markt, um den Abfluss zu bremsen, doch das reichte angesichts der Nachfrage durch den Börsenboom nicht aus. Der Trend zeigt, dass die Stärke des heimischen Aktienmarkts auch die Einlagenstruktur der Finanzbranche beeinflusst. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "15 000 milliards de wons quittent la finance mutualiste avec le boom boursier du T1",
+        "excerpt": "Au premier trimestre, la vigueur du marché boursier sud-coréen a attiré les fonds en quête de rendements plus élevés, entraînant une sortie d’environ 15 000 milliards de wons.",
+        "body": "Au premier trimestre, alors que le marché boursier sud-coréen poursuivait une progression exceptionnelle, les capitaux d’investisseurs recherchant des rendements plus élevés se sont dirigés vers les actions, provoquant une sortie d’environ 15 000 milliards de wons du secteur de la finance mutualiste. Le « money move », qui voit des fonds assimilables à des dépôts migrer vers la Bourse, s’est étendu au-delà des banques vers ces institutions. Le secteur a lancé des produits promotionnels à taux élevé pour freiner les sorties, mais cela n’a pas suffi face à la demande née du boom boursier. Cette tendance montre que la vigueur des actions domestiques influence aussi la structure des dépôts des institutions financières. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "خروج 15 تريليون وون من التمويل التعاوني مع ازدهار الأسهم في الربع الأول",
+        "excerpt": "في الربع الأول، جذبت قوة سوق الأسهم الكورية الجنوبية أموالا تبحث عن عوائد أعلى، ما أدى إلى خروج نحو 15 تريليون وون من قطاع التمويل التعاوني.",
+        "body": "في الربع الأول، ومع استمرار سوق الأسهم الكورية الجنوبية في تسجيل قوة استثنائية، انتقلت أموال المستثمرين الباحثة عن عوائد أعلى إلى الأسهم، ما أدى إلى خروج نحو 15 تريليون وون من قطاع التمويل التعاوني. وانتشرت حركة الأموال المعروفة باسم “Money Move”، حيث تنتقل الأموال الشبيهة بالودائع إلى سوق الأسهم، من البنوك إلى مؤسسات التمويل التعاوني أيضا. وطرح القطاع منتجات ترويجية بفوائد مرتفعة للحد من خروج الأموال، لكنها لم تكن كافية أمام الطلب الاستثماري الناتج عن ازدهار الأسهم. ويظهر هذا الاتجاه أن قوة السوق المحلية تؤثر كذلك في هيكل الودائع لدى المؤسسات المالية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शेयर बाजार की तेजी में म्यूचुअल फाइनेंस से 15 ट्रिलियन वॉन निकले",
+        "excerpt": "पहली तिमाही में दक्षिण कोरिया के मजबूत शेयर बाजार ने ऊंचे रिटर्न की तलाश वाले धन को आकर्षित किया, जिससे म्यूचुअल फाइनेंस क्षेत्र से करीब 15 ट्रिलियन वॉन निकले।",
+        "body": "पहली तिमाही में दक्षिण कोरिया का शेयर बाजार असाधारण मजबूती बनाए रहा। ऊंचे रिटर्न की उम्मीद रखने वाले निवेशकों का पैसा शेयरों की ओर गया, जिससे म्यूचुअल फाइनेंस क्षेत्र से करीब 15 ट्रिलियन वॉन की निकासी हुई। जमा जैसे धन का शेयर बाजार में जाना, जिसे “मनी मूव” कहा जाता है, अब बैंकों से आगे बढ़कर म्यूचुअल फाइनेंस संस्थानों तक फैल गया है। इस क्षेत्र ने धन निकासी रोकने के लिए ऊंची ब्याज दर वाले विशेष उत्पाद पेश किए, लेकिन शेयर बाजार की तेजी से बनी निवेश मांग को थामने के लिए वे पर्याप्त नहीं रहे। यह प्रवृत्ति दिखाती है कि घरेलू शेयर बाजार की मजबूती वित्तीय संस्थानों की जमा संरचना को भी प्रभावित कर रही है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dana 15 Triliun Won Keluar dari Keuangan Mutual saat Bursa Menguat di Kuartal I",
+        "excerpt": "Pada kuartal pertama, penguatan pasar saham Korea Selatan menarik dana yang mengejar imbal hasil lebih tinggi, membuat sekitar 15 triliun won keluar dari sektor keuangan mutual.",
+        "body": "Pada kuartal pertama, ketika pasar saham Korea Selatan terus menunjukkan penguatan luar biasa, dana investor yang mengharapkan imbal hasil lebih tinggi berpindah ke saham, sehingga sekitar 15 triliun won keluar dari sektor keuangan mutual. Perpindahan dana mirip simpanan ke pasar saham, yang disebut “money move”, meluas dari perbankan ke lembaga keuangan mutual. Sektor ini meluncurkan produk promosi berbunga tinggi untuk menahan arus keluar dana, tetapi langkah tersebut belum cukup menghadapi permintaan investasi yang dipicu oleh reli bursa. Tren ini menunjukkan bahwa kekuatan pasar saham domestik juga memengaruhi struktur simpanan lembaga keuangan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "6a3114705f4e",
     "slug": "여의도-몰려온-홍콩-슈퍼리치반도체장비전력株-열공-147574",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Bank Sentral Borong Emas, Proyeksi US$5.500 Akhir Tahun Jadi Sorotan",
         "excerpt": "Di KIW 2026, pembelian emas oleh bank sentral global dan proyeksi harga US$5.500 pada akhir tahun menjadi perhatian pasar emas.",
         "body": "Di KIW 2026, peningkatan pembelian emas oleh bank sentral di seluruh dunia dan prospek harga emas pada akhir tahun menjadi isu utama. Laporan asli menyebutkan bahwa bank sentral di berbagai negara terus membeli emas, dan terkait hal itu harga emas dapat mencapai US$5.500 pada akhir tahun. Karena emas dipandang sebagai aset penting dalam cadangan bank sentral dan pasar keuangan internasional, langkah pembelian oleh bank sentral dipahami sebagai faktor yang dapat memengaruhi pasokan, permintaan, dan ekspektasi harga emas. Namun, laporan tersebut berfokus pada proyeksi yang disampaikan dan tidak memuat syarat tambahan atau angka rinci. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "84ec727c3ec0",
-    "slug": "ls일렉-데이터센터-배전-70-장악매출-10조-간다-243142",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T20:47:20.410Z",
-    "updatedAt": "2026-05-13T20:47:20.410Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605133900i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605133900i",
-    "titleFingerprint": "c538503b452d565ca881c041df0eef9287f645b3",
-    "dedupKeys": [
-      "84ec727c3ec0022fbfa362cff93772b55b1b59a1",
-      "c538503b452d565ca881c041df0eef9287f645b3",
-      "0e3ec4905d5af3af3924eff6f12ac4e828fbefce"
-    ],
-    "imageUrl": "/images/articles/84ec727c3ec0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "LS일렉, 데이터센터 배전 70% 장악…매출 10조 목표 주목",
-        "excerpt": "LS일렉이 데이터센터 배전 시장에서 70%를 장악했다는 보도와 함께 매출 10조원 목표가 부각되며 전력 인프라 사업의 성장성이 주목받고 있다.",
-        "body": "LS일렉이 데이터센터 배전 시장에서 70%를 장악했다는 보도가 나오며 매출 10조원 목표가 함께 주목받고 있다. 데이터센터는 안정적인 전력 공급이 핵심인 산업으로, 배전 설비 경쟁력이 사업 확대의 중요한 기반으로 평가된다. 이번 보도에서 제시된 핵심 수치는 데이터센터 배전 70% 장악과 매출 10조원 목표다. 관련 수치가 부각되면서 LS일렉의 전력 인프라 사업이 향후 실적 성장의 주요 축으로 거론되고 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "LS Electric’s 70% Data Center Power Distribution Share Puts 10 Trillion Won Sales Goal in Focus",
-        "excerpt": "LS Electric is drawing attention after a report said it controls 70% of data center power distribution, highlighting its goal of reaching 10 trillion won in sales.",
-        "body": "LS Electric is drawing attention after a report said it controls 70% of the data center power distribution market, with its 10 trillion won sales goal also in focus. Data centers require stable power supply, making distribution equipment competitiveness an important foundation for business expansion. The key figures cited in the report are a 70% share in data center power distribution and a 10 trillion won revenue target. As these numbers stand out, LS Electric’s power infrastructure business is being discussed as a major driver of future earnings growth. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "LSエレクトリック、データセンター配電70％掌握で売上10兆ウォン目標に注目",
-        "excerpt": "LSエレクトリックがデータセンター配電市場の70％を掌握したとの報道を受け、売上10兆ウォン目標と電力インフラ事業の成長性が注目されている。",
-        "body": "LSエレクトリックがデータセンター配電市場の70％を掌握したとの報道が出て、売上10兆ウォン目標もあわせて注目されている。データセンターは安定した電力供給が重要な産業であり、配電設備の競争力は事業拡大の重要な基盤と評価される。今回の報道で示された主な数値は、データセンター配電70％掌握と売上10兆ウォン目標だ。これらの数値が浮上し、LSエレクトリックの電力インフラ事業は今後の業績成長の主要な軸として語られている。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "LS Electric掌握数据中心配电70%份额，10万亿韩元营收目标受关注",
-        "excerpt": "据报道，LS Electric在数据中心配电市场掌握70%份额，同时其10万亿韩元营收目标受到关注，电力基础设施业务成长性凸显。",
-        "body": "据报道，LS Electric在数据中心配电市场掌握70%份额，其10万亿韩元营收目标也随之受到关注。数据中心是高度依赖稳定电力供应的行业，配电设备竞争力被视为业务扩张的重要基础。此次报道提出的核心数字是数据中心配电70%份额和10万亿韩元营收目标。随着相关数字受到关注，LS Electric的电力基础设施业务被认为是未来业绩增长的重要支柱。来源: hankyung.com"
-      },
-      "es": {
-        "title": "LS Electric domina el 70% de la distribución eléctrica para centros de datos y apunta a 10 billones de wones",
-        "excerpt": "LS Electric gana atención tras un reporte que le atribuye el 70% de la distribución eléctrica para centros de datos y destaca su meta de ventas de 10 billones de wones.",
-        "body": "LS Electric gana atención después de que un reporte señalara que controla el 70% del mercado de distribución eléctrica para centros de datos, junto con su meta de ventas de 10 billones de wones. Los centros de datos requieren un suministro eléctrico estable, por lo que la competitividad en equipos de distribución se considera una base importante para expandir el negocio. Las cifras clave del reporte son el 70% en distribución para centros de datos y el objetivo de ingresos de 10 billones de wones. Estos datos sitúan el negocio de infraestructura eléctrica de LS Electric como un eje relevante para el crecimiento futuro. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "LS Electric controla 70% da distribuição para data centers e mira vendas de 10 trilhões de won",
-        "excerpt": "A LS Electric chama atenção após reportagem apontar domínio de 70% na distribuição elétrica para data centers e destacar a meta de vendas de 10 trilhões de won.",
-        "body": "A LS Electric chama atenção após uma reportagem afirmar que a empresa controla 70% do mercado de distribuição elétrica para data centers, enquanto sua meta de vendas de 10 trilhões de won também ganha destaque. Data centers dependem de fornecimento elétrico estável, tornando a competitividade em equipamentos de distribuição uma base importante para expansão dos negócios. Os principais números citados são 70% na distribuição para data centers e a meta de receita de 10 trilhões de won. Com esses dados em evidência, o negócio de infraestrutura elétrica da LS Electric é visto como um eixo importante para o crescimento futuro. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "LS Electric hält 70% bei Rechenzentrum-Stromverteilung, Umsatzziel von 10 Billionen Won rückt in den Fokus",
-        "excerpt": "LS Electric steht im Fokus, nachdem ein Bericht einen Anteil von 70% bei der Stromverteilung für Rechenzentren und ein Umsatzziel von 10 Billionen Won nannte.",
-        "body": "LS Electric steht im Fokus, nachdem ein Bericht erklärte, das Unternehmen kontrolliere 70% des Marktes für Stromverteilung in Rechenzentren. Gleichzeitig rückt das Umsatzziel von 10 Billionen Won in den Blick. Rechenzentren benötigen eine stabile Stromversorgung, weshalb Wettbewerbsfähigkeit bei Verteilanlagen als wichtige Grundlage für Geschäftsausbau gilt. Die zentralen Zahlen des Berichts sind 70% Anteil bei der Rechenzentrum-Stromverteilung und ein Umsatzziel von 10 Billionen Won. Dadurch wird das Strominfrastrukturgeschäft von LS Electric als wichtiger Pfeiler künftigen Wachstums genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "LS Electric contrôle 70% de la distribution électrique des data centers et vise 10 billions de wons de ventes",
-        "excerpt": "LS Electric attire l’attention après un article indiquant qu’elle contrôle 70% de la distribution électrique des data centers et vise 10 billions de wons de ventes.",
-        "body": "LS Electric attire l’attention après un article indiquant que l’entreprise contrôle 70% du marché de la distribution électrique pour les data centers, tandis que son objectif de ventes de 10 billions de wons est également mis en avant. Les data centers nécessitent une alimentation électrique stable, ce qui fait de la compétitivité des équipements de distribution une base importante pour l’expansion de l’activité. Les chiffres clés cités sont une part de 70% dans la distribution des data centers et un objectif de chiffre d’affaires de 10 billions de wons. Ces éléments placent l’infrastructure électrique de LS Electric parmi les axes de croissance future. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "إل إس إلكتريك تسيطر على 70% من توزيع كهرباء مراكز البيانات وهدف 10 تريليونات وون يبرز",
-        "excerpt": "تلفت إل إس إلكتريك الأنظار بعد تقرير ذكر أنها تسيطر على 70% من توزيع الكهرباء لمراكز البيانات، مع بروز هدف مبيعات يبلغ 10 تريليونات وون.",
-        "body": "تلفت إل إس إلكتريك الأنظار بعد تقرير ذكر أنها تسيطر على 70% من سوق توزيع الكهرباء لمراكز البيانات، إلى جانب إبراز هدف مبيعات يبلغ 10 تريليونات وون. وتحتاج مراكز البيانات إلى إمداد كهربائي مستقر، لذلك تعد القدرة التنافسية في معدات التوزيع أساسا مهما لتوسيع الأعمال. الأرقام الرئيسية في التقرير هي السيطرة على 70% من توزيع كهرباء مراكز البيانات وهدف إيرادات قدره 10 تريليونات وون. ومع بروز هذه الأرقام، يجري الحديث عن أعمال البنية التحتية الكهربائية للشركة كمحور رئيسي لنمو الأرباح مستقبلا. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "LS Electric का डेटा सेंटर पावर डिस्ट्रीब्यूशन में 70% दबदबा, 10 ट्रिलियन वॉन बिक्री लक्ष्य पर नजर",
-        "excerpt": "LS Electric पर ध्यान बढ़ा है, क्योंकि रिपोर्ट में डेटा सेंटर पावर डिस्ट्रीब्यूशन में 70% हिस्सेदारी और 10 ट्रिलियन वॉन बिक्री लक्ष्य का उल्लेख किया गया है।",
-        "body": "LS Electric पर ध्यान बढ़ा है, क्योंकि एक रिपोर्ट में कहा गया कि कंपनी डेटा सेंटर पावर डिस्ट्रीब्यूशन बाजार का 70% नियंत्रित करती है और उसका 10 ट्रिलियन वॉन बिक्री लक्ष्य भी चर्चा में है। डेटा सेंटर के लिए स्थिर बिजली आपूर्ति आवश्यक है, इसलिए डिस्ट्रीब्यूशन उपकरणों की प्रतिस्पर्धी क्षमता कारोबार विस्तार का महत्वपूर्ण आधार मानी जाती है। रिपोर्ट के मुख्य आंकड़े डेटा सेंटर डिस्ट्रीब्यूशन में 70% हिस्सेदारी और 10 ट्रिलियन वॉन राजस्व लक्ष्य हैं। इन आंकड़ों के उभरने से LS Electric का पावर इंफ्रास्ट्रक्चर कारोबार भविष्य की आय वृद्धि का प्रमुख आधार माना जा रहा है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "LS Electric Kuasai 70% Distribusi Listrik Data Center, Target Penjualan 10 Triliun Won Jadi Sorotan",
-        "excerpt": "LS Electric menjadi perhatian setelah laporan menyebut perusahaan menguasai 70% distribusi listrik data center dan menyoroti target penjualan 10 triliun won.",
-        "body": "LS Electric menjadi perhatian setelah laporan menyebut perusahaan menguasai 70% pasar distribusi listrik untuk data center, bersamaan dengan target penjualan 10 triliun won. Data center membutuhkan pasokan listrik yang stabil, sehingga daya saing peralatan distribusi dinilai sebagai dasar penting untuk ekspansi bisnis. Angka utama dalam laporan tersebut adalah penguasaan 70% distribusi listrik data center dan target pendapatan 10 triliun won. Dengan angka itu, bisnis infrastruktur listrik LS Electric disebut sebagai salah satu poros penting bagi pertumbuhan kinerja ke depan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2ddb0b545650",
-    "slug": "해외-투자-줄여라-금감원-개입에-증권사-한숨-842421",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T20:46:29.587Z",
-    "updatedAt": "2026-05-13T20:46:29.588Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051344981",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051344981",
-    "titleFingerprint": "d4c23893dd01882df79dbdcf40eb3e1aa72b7663",
-    "dedupKeys": [
-      "2ddb0b545650972786bc3a47c4adc54ba585cae9",
-      "d4c23893dd01882df79dbdcf40eb3e1aa72b7663",
-      "2e981192f432e89f936311ce7b2cf46e475ee684"
-    ],
-    "imageUrl": "/images/articles/2ddb0b545650.png",
-    "i18n": {
-      "ko": {
-        "title": "금감원 해외 투자 축소 개입에 증권사 부담 커져",
-        "excerpt": "금융감독원이 증권사에 해외 투자 축소를 요구한 것으로 알려지면서 증권업계가 부담을 호소하고 있다. 한국경제 보도를 바탕으로 관련 상황을 정리했다.",
-        "body": "금융감독원이 증권사에 해외 투자를 줄이라는 취지로 개입한 것으로 알려지면서 증권업계의 부담이 커지고 있다. 한국경제 보도에 따르면 금감원의 요구는 해외 투자 확대 흐름 속에서 증권사들의 운용 전략에 직접적인 압박으로 작용하고 있다. 증권사들은 기존 투자 계획과 리스크 관리, 수익성 확보 사이에서 조정 부담을 안게 됐다. 이번 움직임은 해외 투자 관련 관리 강화 신호로 해석되며, 업계는 향후 감독 당국의 추가 메시지와 세부 기준을 주시할 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "FSS Push to Cut Overseas Investment Adds Pressure on Brokers",
-        "excerpt": "South Korea’s Financial Supervisory Service has reportedly urged securities firms to reduce overseas investment, adding pressure on brokerages, according to Hankyung.com.",
-        "body": "South Korea’s Financial Supervisory Service has reportedly intervened with securities firms, urging them to reduce overseas investment. According to Hankyung.com, the move is weighing on brokerages’ operating strategies amid their overseas investment activities. Securities firms now face the burden of adjusting existing investment plans while managing risk and profitability. The development is being read as a signal of tighter oversight on overseas investment, and the industry is expected to watch for further messages and detailed standards from regulators. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "金融監督院の海外投資縮小要請、証券会社に重荷",
-        "excerpt": "韓国の金融監督院が証券会社に海外投資の縮小を求めたとされ、証券業界に負担感が広がっている。韓国経済新聞の報道を基に整理した。",
-        "body": "韓国の金融監督院が証券会社に対し、海外投資を減らすよう求める形で介入したとされ、証券業界の負担が強まっている。韓国経済新聞によると、この要求は海外投資を進めてきた証券会社の運用戦略に直接的な圧力として作用している。証券会社は既存の投資計画、リスク管理、収益性確保の間で調整を迫られることになった。今回の動きは海外投資管理の強化を示すものと受け止められ、業界は今後の監督当局の追加メッセージや詳細基準を注視するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国金监院要求压缩海外投资，券商压力上升",
-        "excerpt": "据韩国经济新闻报道，韩国金融监督院要求证券公司减少海外投资，令券商业界面临更大经营和调整压力。",
-        "body": "韩国金融监督院据悉已介入证券公司海外投资问题，要求其减少相关投资，券商业界压力随之上升。据韩国经济新闻报道，在证券公司推进海外投资的背景下，这一要求正对其运营策略形成直接压力。证券公司需要在既有投资计划、风险管理和盈利能力之间进行调整。此次动向被视为海外投资监管趋严的信号，业界预计将继续关注监管部门后续信息及具体标准。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El regulador surcoreano presiona a corredoras para recortar inversión exterior",
-        "excerpt": "El Servicio de Supervisión Financiera de Corea del Sur habría pedido a las firmas de valores reducir inversiones en el exterior, elevando la carga del sector.",
-        "body": "El Servicio de Supervisión Financiera de Corea del Sur habría intervenido ante las firmas de valores para pedirles que reduzcan sus inversiones en el exterior. Según Hankyung.com, la solicitud ejerce presión directa sobre las estrategias operativas de las corredoras en medio de sus actividades de inversión internacional. Las firmas deben ajustar planes ya existentes mientras gestionan riesgos y buscan rentabilidad. El movimiento se interpreta como una señal de mayor control sobre la inversión exterior, por lo que el sector seguirá atento a nuevos mensajes y criterios del regulador. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Regulador sul-coreano pressiona corretoras a cortar investimento externo",
-        "excerpt": "O Serviço de Supervisão Financeira da Coreia do Sul teria pedido a corretoras que reduzam investimentos no exterior, aumentando a pressão sobre o setor.",
-        "body": "O Serviço de Supervisão Financeira da Coreia do Sul teria intervindo junto a corretoras para pedir a redução dos investimentos no exterior. Segundo o Hankyung.com, a solicitação pesa diretamente sobre as estratégias operacionais das empresas em meio às suas atividades de investimento internacional. As corretoras passam a ter de ajustar planos existentes enquanto administram riscos e buscam rentabilidade. O movimento é visto como sinal de maior fiscalização sobre investimentos externos, e o setor deve acompanhar novas mensagens e critérios detalhados do regulador. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Südkoreas Aufsicht drängt Broker zu weniger Auslandsinvestitionen",
-        "excerpt": "Die südkoreanische Finanzaufsicht soll Wertpapierhäuser aufgefordert haben, Auslandsinvestitionen zu senken. Für die Branche wächst damit der Anpassungsdruck.",
-        "body": "Die südkoreanische Finanzaufsicht FSS soll bei Wertpapierhäusern interveniert und sie aufgefordert haben, Auslandsinvestitionen zu reduzieren. Laut Hankyung.com setzt diese Forderung die operativen Strategien der Broker unter Druck, während sie im Ausland investieren. Die Unternehmen müssen bestehende Anlagepläne, Risikomanagement und Rentabilität neu austarieren. Der Schritt wird als Signal für eine strengere Kontrolle von Auslandsinvestitionen gewertet. Die Branche dürfte nun weitere Hinweise und konkrete Standards der Aufsicht genau verfolgen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le régulateur coréen pousse les courtiers à réduire l’investissement étranger",
-        "excerpt": "Le Service de supervision financière sud-coréen aurait demandé aux sociétés de courtage de réduire leurs investissements à l’étranger, alourdissant leur charge.",
-        "body": "Le Service de supervision financière sud-coréen serait intervenu auprès des sociétés de courtage pour leur demander de réduire les investissements à l’étranger. Selon Hankyung.com, cette demande pèse directement sur les stratégies opérationnelles des maisons de titres engagées dans des investissements internationaux. Elles doivent désormais ajuster leurs plans existants tout en gérant les risques et la rentabilité. Ce mouvement est interprété comme un signal de surveillance renforcée des investissements à l’étranger, et le secteur suivra les prochains messages et critères du régulateur. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "الرقابة المالية الكورية تضغط على شركات الوساطة لخفض الاستثمار الخارجي",
-        "excerpt": "أفادت هانكيونغ بأن هيئة الرقابة المالية في كوريا الجنوبية طلبت من شركات الأوراق المالية تقليص استثماراتها الخارجية، ما زاد الضغط على القطاع.",
-        "body": "أفادت تقارير بأن هيئة الرقابة المالية في كوريا الجنوبية تدخلت لدى شركات الأوراق المالية وطلبت منها خفض الاستثمارات الخارجية. وبحسب Hankyung.com، يشكل هذا الطلب ضغطا مباشرا على استراتيجيات تشغيل الشركات في ظل أنشطتها الاستثمارية خارج البلاد. وتواجه شركات الوساطة عبء تعديل خطط الاستثمار القائمة مع إدارة المخاطر والحفاظ على الربحية. وينظر إلى هذه الخطوة على أنها إشارة إلى تشديد الرقابة على الاستثمار الخارجي، فيما يترقب القطاع رسائل إضافية ومعايير تفصيلية من الجهة الرقابية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "दक्षिण कोरियाई नियामक की विदेशी निवेश कटौती मांग से ब्रोकरेज पर दबाव",
-        "excerpt": "Hankyung.com के अनुसार, दक्षिण कोरिया के वित्तीय पर्यवेक्षण सेवा ने प्रतिभूति कंपनियों से विदेशी निवेश घटाने को कहा है, जिससे क्षेत्र पर दबाव बढ़ा है।",
-        "body": "दक्षिण कोरिया की वित्तीय पर्यवेक्षण सेवा ने कथित तौर पर प्रतिभूति कंपनियों से विदेशी निवेश घटाने के लिए हस्तक्षेप किया है। Hankyung.com के अनुसार, यह मांग विदेशी निवेश गतिविधियों के बीच ब्रोकरेज कंपनियों की परिचालन रणनीतियों पर सीधा दबाव डाल रही है। कंपनियों को मौजूदा निवेश योजनाओं, जोखिम प्रबंधन और लाभप्रदता के बीच संतुलन बनाते हुए समायोजन करना होगा। इस कदम को विदेशी निवेश पर निगरानी मजबूत होने के संकेत के रूप में देखा जा रहा है, और उद्योग नियामक के आगे के संदेशों तथा विस्तृत मानकों पर नजर रखेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Regulator Korea Minta Investasi Luar Negeri Dikurangi, Sekuritas Tertekan",
-        "excerpt": "Menurut Hankyung.com, regulator keuangan Korea Selatan meminta perusahaan sekuritas mengurangi investasi luar negeri, sehingga beban penyesuaian industri meningkat.",
-        "body": "Financial Supervisory Service Korea Selatan dilaporkan turun tangan dan meminta perusahaan sekuritas mengurangi investasi luar negeri. Menurut Hankyung.com, permintaan tersebut memberi tekanan langsung pada strategi operasional perusahaan sekuritas di tengah aktivitas investasi luar negeri mereka. Perusahaan kini harus menyesuaikan rencana investasi yang sudah ada sambil mengelola risiko dan menjaga profitabilitas. Langkah ini dipandang sebagai sinyal penguatan pengawasan atas investasi luar negeri, dan industri diperkirakan akan mencermati pesan lanjutan serta standar rinci dari otoritas. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "e59c9f9b0698",
-    "slug": "천연기념물-진돗개-혈통-블록체인으로-관리한다-420310",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T20:45:32.526Z",
-    "updatedAt": "2026-05-13T20:45:32.526Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051342986",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051342986",
-    "titleFingerprint": "38e42891e986dd672f4d64340f18d80e2ea938c3",
-    "dedupKeys": [
-      "e59c9f9b06987104044e7d0caf6f393689e2d6bf",
-      "38e42891e986dd672f4d64340f18d80e2ea938c3",
-      "0a5433e8ee68800cfb4399e8fe14862bd078077b"
-    ],
-    "imageUrl": "/images/articles/e59c9f9b0698.jpg",
-    "i18n": {
-      "ko": {
-        "title": "진돗개 혈통관리 블록체인 도입, 천연기념물 보존 위한 DID 인증 시스템 연내 가동 추진",
-        "excerpt": "전남 진도군은 2026년 5월 블록체인 기반 진돗개 혈통인증관리 시스템 개발에 착수해 천연기념물 진돗개의 출생·성장·건강·분양 정보를 투명하게 관리할 계획이다.",
-        "body": "전남 진도군이 2026년 5월 천연기념물인 진돗개 혈통 관리를 위해 블록체인 기술을 적용한 ‘진돗개 혈통인증관리 시스템’ 개발에 착수한다. 진도군은 10월까지 개발을 마치고 연내 시스템을 가동할 방침이다. 핵심은 분산신원인증(DID) 기반으로 진돗개의 혈통을 관리·추적하는 구조다. DID는 신원 정보를 여러 장부에 분산 저장해 인증 효율성과 위·변조 방지 기능을 높이는 기술이다. 진도군은 혈통 심사를 거쳐 천연기념물로 지정된 약 1100마리에 모바일 혈통 증명서를 발급하고, 체내 RFID를 활용한 혈통 인증 서비스도 디지털화할 계획이다. 향후 운영 추이에 따라 NFT 발급 등 확장 방안도 검토한다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Jindo Dog Bloodline Management to Use Blockchain as Jindo County Plans DID System Launch This Year",
-        "excerpt": "Jindo County in South Jeolla will begin developing a blockchain-based pedigree certification system in May 2026 to manage birth, growth, health and adoption records for Natural Monument Jindo dogs.",
-        "body": "Jindo County in South Jeolla Province will begin developing a blockchain-based pedigree certification system in May 2026 to manage the bloodlines of Jindo dogs, a designated Natural Monument. The county plans to complete development by October and operate the system before the end of the year. The project centers on a decentralized identity, or DID, structure to manage and trace pedigrees. DID stores identity data across multiple ledgers, improving authentication efficiency and helping prevent tampering. Jindo County plans to issue mobile pedigree certificates for about 1,100 Jindo dogs that have passed pedigree review and been designated as Natural Monuments. It will also digitize pedigree certification using RFID chips implanted in the dogs. Depending on how the system operates, the county will consider additional uses such as NFT issuance. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "珍島犬の血統管理にブロックチェーン導入、天然記念物保全へDID認証システム年内稼働へ",
-        "excerpt": "全羅南道珍島郡は2026年5月、天然記念物の珍島犬について、出生・成長・健康・分譲情報を透明に管理するブロックチェーン基盤の血統認証システム開発に着手する。",
-        "body": "全羅南道珍島郡は2026年5月、天然記念物である珍島犬の血統管理に向け、ブロックチェーン技術を適用した「珍島犬血統認証管理システム」の開発に着手する。珍島郡は10月までに開発を終え、年内にシステムを稼働させる方針だ。中核となるのは、分散型ID（DID）を基盤に珍島犬の血統を管理・追跡する仕組みである。DIDは身元情報を複数の台帳に分散して保存し、認証効率と改ざん防止機能を高める技術だ。珍島郡は血統審査を経て天然記念物に指定された約1100頭にモバイル血統証明書を発行し、体内RFIDを活用した血統認証サービスもデジタル化する計画だ。運用状況に応じ、NFT発行などの拡張策も検討する。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "珍岛犬血统管理引入区块链，珍岛郡拟年内启用DID认证系统保护天然纪念物",
-        "excerpt": "韩国全罗南道珍岛郡将于2026年5月启动基于区块链的珍岛犬血统认证管理系统开发，以透明管理天然纪念物珍岛犬的出生、成长、健康和分养信息。",
-        "body": "韩国全罗南道珍岛郡将于2026年5月启动“珍岛犬血统认证管理系统”开发，把区块链技术用于天然纪念物珍岛犬的血统管理。珍岛郡计划在10月前完成开发，并在年内启用该系统。项目核心是建立基于分布式身份认证（DID）的血统管理和追踪结构。DID将身份信息分散存储在多个账本中，可提高认证效率并增强防篡改能力。珍岛郡计划为通过血统审查、被指定为天然纪念物的约1100只珍岛犬发放移动血统证明，并利用植入犬体内的RFID推进血统认证服务数字化。根据系统运行情况，珍岛郡还将研究发行NFT等扩展方案。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Jindo gestionará con blockchain el linaje del perro Jindo y prevé activar un sistema DID este año",
-        "excerpt": "El condado de Jindo, en Jeolla del Sur, iniciará en mayo de 2026 un sistema blockchain para certificar el linaje del perro Jindo, monumento natural, y gestionar datos de nacimiento, crecimiento, salud y adopción.",
-        "body": "El condado de Jindo, en la provincia surcoreana de Jeolla del Sur, iniciará en mayo de 2026 el desarrollo de un sistema de certificación y gestión del linaje del perro Jindo, un monumento natural, basado en blockchain. La administración prevé completar el desarrollo en octubre y ponerlo en marcha antes de fin de año. El núcleo del proyecto es una estructura de identidad descentralizada, o DID, para administrar y rastrear los linajes. La DID distribuye la información de identidad en varios registros, lo que mejora la eficiencia de la autenticación y ayuda a evitar manipulaciones. Jindo planea emitir certificados móviles de linaje para unos 1.100 perros Jindo designados como monumento natural tras la revisión de su pedigrí, y digitalizar la certificación mediante RFID implantado. Según la evolución del sistema, también estudiará usos adicionales como la emisión de NFT. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Jindo adotará blockchain na gestão da linhagem do cão Jindo e prevê sistema DID ainda este ano",
-        "excerpt": "O condado de Jindo, em Jeolla do Sul, iniciará em maio de 2026 um sistema em blockchain para certificar a linhagem do cão Jindo, monumento natural, e gerir dados de nascimento, crescimento, saúde e adoção.",
-        "body": "O condado de Jindo, na província sul-coreana de Jeolla do Sul, iniciará em maio de 2026 o desenvolvimento de um sistema de certificação e gestão da linhagem do cão Jindo, um monumento natural, com tecnologia blockchain. A administração pretende concluir o desenvolvimento até outubro e colocar o sistema em operação ainda este ano. O centro do projeto é uma estrutura de identidade descentralizada, ou DID, para gerir e rastrear linhagens. A DID armazena informações de identidade em vários registros, aumentando a eficiência da autenticação e a proteção contra adulterações. Jindo planeja emitir certificados móveis de linhagem para cerca de 1.100 cães Jindo designados como monumento natural após análise de pedigree, além de digitalizar a certificação com RFID implantado no corpo dos animais. Conforme a operação do sistema, o condado também avaliará usos adicionais, como emissão de NFT. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Jindo-Hund-Abstammung soll per Blockchain verwaltet werden, DID-System noch dieses Jahr geplant",
-        "excerpt": "Der Landkreis Jindo in Süd-Jeolla startet im Mai 2026 die Entwicklung eines blockchainbasierten Zertifizierungssystems, um Geburt, Wachstum, Gesundheit und Abgabe von Jindo-Hunden als Naturdenkmal transparenter zu verwalten.",
-        "body": "Der Landkreis Jindo in der südkoreanischen Provinz Süd-Jeolla beginnt im Mai 2026 mit der Entwicklung eines blockchainbasierten Systems zur Zertifizierung und Verwaltung der Abstammung von Jindo-Hunden, die als Naturdenkmal geschützt sind. Die Entwicklung soll bis Oktober abgeschlossen werden, der Betrieb ist noch in diesem Jahr geplant. Kern des Projekts ist eine auf dezentraler Identität, DID, basierende Struktur zur Verwaltung und Nachverfolgung der Abstammung. DID speichert Identitätsdaten verteilt in mehreren Registern und soll die Authentifizierung effizienter sowie manipulationssicherer machen. Jindo will für rund 1.100 nach Abstammungsprüfung als Naturdenkmal ausgewiesene Hunde mobile Abstammungszertifikate ausstellen und die Zertifizierung über implantierte RFID-Chips digitalisieren. Je nach Betriebsergebnis werden auch Erweiterungen wie NFT-Ausgaben geprüft. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le pedigree du chien Jindo sera géré par blockchain, avec un système DID prévu cette année",
-        "excerpt": "Le comté de Jindo, dans le Jeolla du Sud, lancera en mai 2026 un système blockchain de certification du pedigree du chien Jindo, monument naturel, afin de gérer naissance, croissance, santé et cession.",
-        "body": "Le comté de Jindo, dans la province sud-coréenne du Jeolla du Sud, lancera en mai 2026 le développement d’un système de certification et de gestion du pedigree du chien Jindo, classé monument naturel, fondé sur la blockchain. Le développement doit être achevé d’ici octobre, avec une mise en service avant la fin de l’année. Le projet repose sur une identité décentralisée, ou DID, destinée à gérer et tracer les lignées. La DID répartit les informations d’identité dans plusieurs registres, ce qui améliore l’efficacité de l’authentification et limite les risques de falsification. Jindo prévoit d’émettre des certificats mobiles de pedigree pour environ 1 100 chiens Jindo désignés monuments naturels après examen de leur lignée, et de numériser la certification à l’aide de puces RFID implantées. Selon le fonctionnement du système, le comté étudiera aussi des extensions comme l’émission de NFT. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "إدارة نسب كلاب جيندو بالبلوك تشين مع خطة لإطلاق نظام DID لحماية النصب الطبيعي هذا العام",
-        "excerpt": "تبدأ مقاطعة جيندو في جولا الجنوبية في مايو 2026 تطوير نظام قائم على البلوك تشين لتوثيق نسب كلاب جيندو المصنفة نصباً طبيعياً وإدارة بيانات الولادة والنمو والصحة والتبني بشفافية.",
-        "body": "تبدأ مقاطعة جيندو في إقليم جولا الجنوبية بكوريا الجنوبية في مايو 2026 تطوير نظام لتوثيق وإدارة نسب كلاب جيندو، المصنفة نصباً طبيعياً، باستخدام تقنية البلوك تشين. وتخطط المقاطعة لإنهاء التطوير بحلول أكتوبر وتشغيل النظام قبل نهاية العام. يقوم المشروع على بنية هوية لامركزية، أو DID، لإدارة وتتبع الأنساب. وتخزن DID بيانات الهوية في عدة سجلات، بما يعزز كفاءة التحقق ويساعد على منع التلاعب. وتعتزم جيندو إصدار شهادات نسب رقمية لنحو 1100 كلب جيندو اجتازت مراجعة النسب وصنفت كنصب طبيعي، مع رقمنة خدمة التحقق عبر شرائح RFID المزروعة في أجسام الكلاب. وبحسب سير تشغيل النظام، ستدرس المقاطعة استخدامات إضافية مثل إصدار NFT. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "जिंदो कुत्तों की वंशावली प्रबंधन में ब्लॉकचेन, प्राकृतिक स्मारक संरक्षण के लिए DID प्रणाली इस साल",
-        "excerpt": "दक्षिण जिओला की जिंदो काउंटी मई 2026 में प्राकृतिक स्मारक जिंदो कुत्तों के जन्म, विकास, स्वास्थ्य और गोद देने की जानकारी को पारदर्शी रूप से प्रबंधित करने के लिए ब्लॉकचेन आधारित वंश प्रमाणन प्रणाली विकसित करेगी।",
-        "body": "दक्षिण कोरिया के दक्षिण जिओला प्रांत की जिंदो काउंटी मई 2026 में प्राकृतिक स्मारक माने जाने वाले जिंदो कुत्तों की वंशावली प्रबंधन के लिए ब्लॉकचेन आधारित “जिंदो डॉग पेडिग्री सर्टिफिकेशन मैनेजमेंट सिस्टम” का विकास शुरू करेगी। काउंटी अक्टूबर तक विकास पूरा कर वर्ष के भीतर प्रणाली चलाने की योजना रखती है। परियोजना का मुख्य भाग विकेंद्रीकृत पहचान, यानी DID, पर आधारित संरचना है, जिससे वंशावली को प्रबंधित और ट्रैक किया जाएगा। DID पहचान जानकारी को कई लेजरों में वितरित रूप से संग्रहीत करता है, जिससे प्रमाणीकरण दक्षता बढ़ती है और छेड़छाड़ रोकने में मदद मिलती है। जिंदो काउंटी वंश समीक्षा के बाद प्राकृतिक स्मारक के रूप में 지정 लगभग 1,100 कुत्तों को मोबाइल वंश प्रमाणपत्र जारी करेगी और शरीर में लगे RFID से प्रमाणन सेवा को डिजिटल बनाएगी। संचालन के आधार पर NFT जारी करने जैसे विस्तार भी विचाराधीन हैं। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Silsilah Anjing Jindo Dikelola dengan Blockchain, Sistem DID untuk Monumen Alam Ditargetkan Berjalan Tahun Ini",
-        "excerpt": "Jindo County di Jeolla Selatan akan mulai mengembangkan sistem sertifikasi silsilah berbasis blockchain pada Mei 2026 untuk mengelola data kelahiran, pertumbuhan, kesehatan, dan adopsi anjing Jindo yang berstatus monumen alam.",
-        "body": "Jindo County di Provinsi Jeolla Selatan, Korea Selatan, akan mulai mengembangkan sistem sertifikasi dan pengelolaan silsilah anjing Jindo berbasis blockchain pada Mei 2026. Anjing Jindo berstatus monumen alam. Pemerintah daerah menargetkan pengembangan selesai pada Oktober dan sistem beroperasi sebelum akhir tahun. Inti proyek ini adalah struktur identitas terdesentralisasi, atau DID, untuk mengelola dan melacak silsilah. DID menyimpan informasi identitas di beberapa buku besar sehingga meningkatkan efisiensi autentikasi dan membantu mencegah pemalsuan. Jindo County berencana menerbitkan sertifikat silsilah seluler untuk sekitar 1.100 anjing Jindo yang telah lolos pemeriksaan silsilah dan ditetapkan sebagai monumen alam. Layanan sertifikasi juga akan didigitalisasi dengan RFID yang tertanam di tubuh anjing. Bergantung pada operasional sistem, opsi lanjutan seperti penerbitan NFT juga akan dipertimbangkan. Sumber: hankyung.com."
       }
     }
   }
