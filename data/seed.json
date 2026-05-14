@@ -1,5 +1,230 @@
 [
   {
+    "id": "99e8ba6250ec",
+    "slug": "나스닥은-고작-10-올랐는데60-수익률-낸-액티브-etf-비결은-279353",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T22:18:52.612Z",
+    "updatedAt": "2026-05-14T22:18:52.612Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605146191i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605146191i",
+    "titleFingerprint": "092a78233027187c3acbb6dfb2d8188c511f67df",
+    "dedupKeys": [
+      "99e8ba6250ecf266998fbe7a0bd0944402c17e2f",
+      "092a78233027187c3acbb6dfb2d8188c511f67df",
+      "93eb4835ed5d8d578f007b9e8bb5723bafc1ed2c"
+    ],
+    "imageUrl": "/images/articles/99e8ba6250ec.jpg",
+    "i18n": {
+      "ko": {
+        "title": "액티브 ETF 수익률 60%, 나스닥 10% 상승 앞선 비결은",
+        "excerpt": "한국경제는 나스닥 상승률이 10%에 그친 상황에서 60% 수익률을 낸 액티브 ETF 사례를 조명하며, 지수 추종과 다른 운용 성과의 차이를 짚었다.",
+        "body": "한국경제는 나스닥이 고작 10% 오른 가운데 60% 수익률을 기록한 액티브 ETF 사례를 보도했다. 이번 기사에서 핵심은 지수 전체의 상승률과 특정 액티브 ETF의 성과가 크게 벌어진 점이다. 액티브 ETF는 단순히 지수를 따라가는 상품과 달리 운용 전략에 따라 성과가 달라질 수 있다는 점에서 투자자 관심을 끌고 있다. 나스닥 10% 상승과 60% 수익률이라는 수치 차이는 ETF 선택에서 운용 방식과 종목 구성의 중요성을 보여준다. 향후 투자자들은 단기 수익률뿐 아니라 전략의 지속 가능성도 함께 살펴볼 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Active ETF Returns 60% as Nasdaq Gains Just 10%: What Stood Out",
+        "excerpt": "Hankyung reported on an active ETF that returned 60% while the Nasdaq rose only 10%, highlighting the performance gap between index moves and active management.",
+        "body": "Hankyung reported that an active ETF delivered a 60% return while the Nasdaq gained only 10%. The key point of the article is the wide gap between the broader index’s rise and the result achieved by a specific active ETF. Unlike products that simply track an index, active ETFs can show different outcomes depending on their management strategy. The contrast between a 10% Nasdaq gain and a 60% ETF return underscores the importance of investment approach and portfolio composition when choosing ETFs. Investors may need to look not only at short-term returns but also at whether the strategy can remain effective. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "アクティブETFが60%リターン、ナスダック10%高を上回った理由",
+        "excerpt": "韓国経済新聞は、ナスダックの上昇率が10%にとどまる中で60%のリターンを出したアクティブETFを取り上げ、運用成果の差に注目した。",
+        "body": "韓国経済新聞は、ナスダックがわずか10%上昇する中、60%のリターンを記録したアクティブETFの事例を報じた。記事の焦点は、市場全体を示す指数の上昇率と、特定のアクティブETFの成績に大きな開きが出た点にある。アクティブETFは単に指数に連動する商品とは異なり、運用戦略によって成果が変わり得る。ナスダック10%高とETF60%リターンという差は、ETF選びで運用方法や組み入れ銘柄が重要であることを示している。投資家は短期的な収益率だけでなく、戦略の持続性も確認する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "主动型ETF收益率达60%，为何远超纳指10%涨幅",
+        "excerpt": "韩国经济新闻报道称，在纳斯达克仅上涨10%的情况下，一只主动型ETF取得60%收益率，凸显指数表现与主动管理成果的差异。",
+        "body": "韩国经济新闻报道称，在纳斯达克仅上涨10%的情况下，一只主动型ETF取得了60%的收益率。报道的核心在于，整体指数涨幅与特定主动型ETF表现之间出现明显差距。与单纯跟踪指数的产品不同，主动型ETF的表现可能因管理策略而异。纳斯达克10%的涨幅和ETF 60%的收益率形成对比，显示投资者在选择ETF时需要关注运作方式和持仓结构。未来，投资者不仅要看短期收益率，也有必要评估相关策略是否具备持续性。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF activo logra 60% de rentabilidad frente al 10% del Nasdaq",
+        "excerpt": "Hankyung informó sobre un ETF activo que obtuvo 60% de rentabilidad mientras el Nasdaq subió solo 10%, destacando la brecha frente al desempeño del índice.",
+        "body": "Hankyung informó que un ETF activo registró una rentabilidad del 60% mientras el Nasdaq avanzó solo un 10%. El punto central del artículo es la amplia diferencia entre la subida del índice general y el resultado alcanzado por un ETF activo específico. A diferencia de los productos que simplemente replican un índice, los ETF activos pueden mostrar resultados distintos según su estrategia de gestión. La comparación entre el 10% del Nasdaq y el 60% del ETF subraya la importancia del método de inversión y la composición de la cartera al elegir ETF. Los inversores deberían observar no solo la rentabilidad de corto plazo, sino también la sostenibilidad de la estrategia. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETF ativo rende 60% enquanto Nasdaq sobe só 10%; entenda o contraste",
+        "excerpt": "O Hankyung destacou um ETF ativo que rendeu 60% enquanto o Nasdaq avançou apenas 10%, mostrando a diferença entre o índice e a gestão ativa.",
+        "body": "O Hankyung informou que um ETF ativo registrou retorno de 60% enquanto o Nasdaq subiu apenas 10%. O ponto central da notícia é a grande diferença entre a valorização do índice amplo e o desempenho obtido por um ETF ativo específico. Ao contrário de produtos que apenas acompanham um índice, ETFs ativos podem apresentar resultados distintos conforme a estratégia de gestão. A comparação entre a alta de 10% do Nasdaq e o retorno de 60% do ETF mostra a importância do método de gestão e da composição da carteira na escolha de ETFs. Investidores devem avaliar não só o retorno de curto prazo, mas também a sustentabilidade da estratégia. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Aktiver ETF erzielt 60% Rendite, während Nasdaq nur 10% zulegt",
+        "excerpt": "Hankyung berichtete über einen aktiven ETF mit 60% Rendite, obwohl der Nasdaq nur 10% stieg, und hob die Lücke zwischen Index und aktiver Verwaltung hervor.",
+        "body": "Hankyung berichtete, dass ein aktiver ETF eine Rendite von 60% erzielte, während der Nasdaq nur um 10% zulegte. Im Mittelpunkt steht die deutliche Differenz zwischen dem Anstieg des Gesamtindex und dem Ergebnis eines bestimmten aktiven ETF. Anders als Produkte, die lediglich einen Index nachbilden, können aktive ETFs je nach Verwaltungsstrategie unterschiedliche Ergebnisse liefern. Der Vergleich zwischen 10% Nasdaq-Plus und 60% ETF-Rendite zeigt, wie wichtig Anlagemethode und Portfoliozusammensetzung bei der ETF-Auswahl sind. Anleger sollten daher nicht nur kurzfristige Renditen, sondern auch die Tragfähigkeit der Strategie prüfen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "ETF actif à 60% de rendement contre 10% pour le Nasdaq",
+        "excerpt": "Hankyung a rapporté le cas d’un ETF actif ayant gagné 60% alors que le Nasdaq ne progressait que de 10%, soulignant l’écart avec la gestion indicielle.",
+        "body": "Hankyung a rapporté qu’un ETF actif avait enregistré un rendement de 60% alors que le Nasdaq ne gagnait que 10%. Le point central de l’article est l’écart important entre la progression de l’indice global et la performance obtenue par un ETF actif précis. Contrairement aux produits qui suivent simplement un indice, les ETF actifs peuvent afficher des résultats différents selon leur stratégie de gestion. La comparaison entre les 10% du Nasdaq et les 60% de l’ETF met en évidence l’importance de la méthode de gestion et de la composition du portefeuille dans le choix des ETF. Les investisseurs doivent aussi examiner la durabilité de la stratégie, au-delà du rendement de court terme. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صندوق ETF نشط يحقق 60% مقابل صعود ناسداك 10% فقط",
+        "excerpt": "ذكرت هانكيونغ أن صندوق ETF نشطا حقق عائدا قدره 60% بينما ارتفع ناسداك 10% فقط، ما يبرز الفارق بين أداء المؤشر والإدارة النشطة.",
+        "body": "ذكرت هانكيونغ أن صندوق ETF نشطا سجل عائدا قدره 60% في وقت ارتفع فيه مؤشر ناسداك 10% فقط. جوهر التقرير هو الفارق الكبير بين صعود المؤشر العام ونتيجة صندوق ETF نشط محدد. وعلى خلاف المنتجات التي تكتفي بتتبع المؤشر، يمكن أن تختلف نتائج صناديق ETF النشطة تبعا لاستراتيجية الإدارة. ويبرز الفرق بين ارتفاع ناسداك 10% وعائد الصندوق البالغ 60% أهمية أسلوب الإدارة وتكوين المحفظة عند اختيار صناديق ETF. وقد يحتاج المستثمرون إلى النظر ليس فقط إلى العائد قصير الأجل، بل أيضا إلى مدى استدامة الاستراتيجية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "सक्रिय ETF ने दिया 60% रिटर्न, Nasdaq की 10% बढ़त से कहीं आगे",
+        "excerpt": "Hankyung ने ऐसे सक्रिय ETF पर रिपोर्ट दी जिसने Nasdaq के केवल 10% चढ़ने के बीच 60% रिटर्न दिया, जिससे सक्रिय प्रबंधन और सूचकांक प्रदर्शन का अंतर दिखा।",
+        "body": "Hankyung ने रिपोर्ट किया कि Nasdaq के केवल 10% बढ़ने के दौरान एक सक्रिय ETF ने 60% रिटर्न दर्ज किया। लेख का मुख्य बिंदु व्यापक सूचकांक की बढ़त और एक खास सक्रिय ETF के प्रदर्शन के बीच बड़ा अंतर है। केवल सूचकांक को ट्रैक करने वाले उत्पादों से अलग, सक्रिय ETF का नतीजा प्रबंधन रणनीति के अनुसार बदल सकता है। Nasdaq की 10% बढ़त और ETF के 60% रिटर्न का अंतर दिखाता है कि ETF चुनते समय प्रबंधन पद्धति और पोर्टफोलियो संरचना महत्वपूर्ण हैं। निवेशकों को अल्पकालिक रिटर्न के साथ रणनीति की टिकाऊ क्षमता भी देखनी चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF aktif cetak return 60% saat Nasdaq hanya naik 10%",
+        "excerpt": "Hankyung melaporkan ETF aktif yang menghasilkan return 60% ketika Nasdaq hanya naik 10%, menyoroti jarak kinerja antara indeks dan pengelolaan aktif.",
+        "body": "Hankyung melaporkan bahwa sebuah ETF aktif mencatat return 60% ketika Nasdaq hanya naik 10%. Fokus utama artikel ini adalah selisih besar antara kenaikan indeks secara umum dan hasil yang dicapai oleh ETF aktif tertentu. Berbeda dari produk yang sekadar mengikuti indeks, ETF aktif dapat mencatat hasil berbeda sesuai strategi pengelolaannya. Perbandingan antara kenaikan Nasdaq 10% dan return ETF 60% menunjukkan pentingnya metode pengelolaan serta komposisi portofolio saat memilih ETF. Investor perlu melihat bukan hanya return jangka pendek, tetapi juga apakah strateginya dapat berkelanjutan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "55d129660d93",
+    "slug": "역대급-불장에서-혼자-폭락한전-담은-개미들-눈물-종목-713790",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T22:17:58.799Z",
+    "updatedAt": "2026-05-14T22:17:58.799Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051474636",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051474636",
+    "titleFingerprint": "2018c313d5fbbcab4f865221bea1e21f1ef07e24",
+    "dedupKeys": [
+      "55d129660d934157987f0fe14382c9e63a79bdd4",
+      "2018c313d5fbbcab4f865221bea1e21f1ef07e24",
+      "06f28522f3fba73ef23c9b1420d055d2276f6fd3"
+    ],
+    "imageUrl": "/images/articles/55d129660d93.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국전력 주가 홀로 급락, 역대급 불장 속 개미 투자자 손실 우려 커져",
+        "excerpt": "hankyung.com은 역대급 강세장 속에서도 한국전력 주가가 홀로 급락하며 한전을 담은 개인투자자들이 손실 우려에 직면했다고 전했다.",
+        "body": "hankyung.com은 ‘역대급 불장에서 혼자 폭락’이라는 제목으로 한국전력 주가 흐름을 전했다. 보도에 따르면 강세장이 이어지는 가운데 한국전력은 상대적으로 부진한 흐름을 보였고, 해당 종목을 매수한 개인투자자들의 부담이 커졌다. 원문에 제공된 정보는 제목과 출처에 한정돼 구체적인 하락률, 거래일, 매수 규모, 투자자 반응의 세부 내용은 확인되지 않았다. 이번 이슈는 강세장에서도 종목별 차별화가 커질 수 있음을 보여주는 사례로 제시됐다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Korea Electric Power Drops Alone in a Strong Market, Retail Investors Face Pressure",
+        "excerpt": "hankyung.com reported that Korea Electric Power fell sharply despite a powerful bull market, raising concerns for retail investors who had bought the stock.",
+        "body": "hankyung.com reported on Korea Electric Power’s share-price move under the headline that it “plunged alone in a historic bull market.” According to the provided source information, the broader market was strong, but Korea Electric Power showed relative weakness, adding pressure on individual investors who had bought the stock. The original material supplied here includes only the title and source, so specific figures such as the decline rate, trading date, purchase volume, or detailed investor reactions cannot be confirmed. The case was presented as an example of how stock-level divergence can appear even during a bull market. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "韓国電力株が強気相場で単独急落、個人投資家の損失懸念が拡大",
+        "excerpt": "hankyung.comは、歴史的な強気相場の中でも韓国電力株が単独で急落し、同株を買った個人投資家の負担が増していると伝えた。",
+        "body": "hankyung.comは「歴史的な強気相場で一人だけ急落」という趣旨の見出しで、韓国電力の株価動向を報じた。提供された情報によると、市場全体では強い相場が続く一方、韓国電力は相対的に低調な値動きとなり、同銘柄を買った個人投資家の負担が大きくなった。今回提示された原文情報は見出しと出典に限られているため、下落率、取引日、買い越し規模、投資家反応の詳細は確認できない。強気相場でも銘柄ごとの明暗が分かれ得る事例として取り上げられた。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "韩国电力股价在强势行情中独自下跌，散户投资者承压",
+        "excerpt": "hankyung.com报道称，在罕见强势行情中，韩国电力股价却独自大幅下跌，买入该股的个人投资者面临亏损压力。",
+        "body": "hankyung.com以“在史上级牛市中独自暴跌”为题报道了韩国电力的股价走势。根据所提供的原文信息，整体市场维持强势，但韩国电力表现相对低迷，使买入该股的个人投资者压力上升。此次提供的原文仅包含标题和出处，因此无法确认具体跌幅、交易日期、买入规模以及投资者反应等细节。该事件被呈现为即使在强势行情中，个股之间仍可能出现明显分化的案例。出处: hankyung.com."
+      },
+      "es": {
+        "title": "Korea Electric Power cae sola en pleno mercado alcista y presiona a minoristas",
+        "excerpt": "hankyung.com informó que Korea Electric Power cayó con fuerza pese al mercado alcista, aumentando la preocupación de los inversores minoristas que compraron la acción.",
+        "body": "hankyung.com informó sobre Korea Electric Power con un titular que señalaba que la acción “se desplomó sola en un mercado alcista histórico”. Según la información proporcionada, el mercado mantenía un tono fuerte, pero Korea Electric Power mostró un desempeño relativamente débil, lo que elevó la presión sobre los inversores particulares que habían comprado el valor. El material original disponible aquí solo incluye el título y la fuente, por lo que no se pueden confirmar datos como el porcentaje de caída, la fecha de negociación, el volumen comprado o reacciones detalladas de los inversores. El caso se presenta como ejemplo de divergencia entre valores incluso en una fase alcista. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Korea Electric Power cai sozinha em forte alta do mercado e pesa sobre minoristas",
+        "excerpt": "hankyung.com informou que a Korea Electric Power recuou fortemente apesar do mercado em alta, ampliando a preocupação de investidores pessoa física que compraram a ação.",
+        "body": "hankyung.com noticiou o movimento das ações da Korea Electric Power com um título indicando que o papel “despencou sozinho em um mercado altista histórico”. Segundo as informações fornecidas, o mercado mais amplo seguia forte, mas a Korea Electric Power teve desempenho relativamente fraco, aumentando a pressão sobre investidores individuais que haviam comprado a ação. O material original disponível aqui contém apenas o título e a fonte, portanto não é possível confirmar dados como percentual de queda, data de negociação, volume comprado ou reações detalhadas dos investidores. O caso foi apresentado como exemplo de divergência entre ações mesmo durante um mercado em alta. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Korea Electric Power fällt allein im starken Bullenmarkt, Privatanleger unter Druck",
+        "excerpt": "hankyung.com berichtete, dass Korea Electric Power trotz eines starken Bullenmarkts deutlich nachgab und Privatanleger, die die Aktie gekauft hatten, belastet wurden.",
+        "body": "hankyung.com berichtete über die Kursentwicklung von Korea Electric Power mit der Aussage, die Aktie sei in einem historischen Bullenmarkt „allein abgestürzt“. Den bereitgestellten Informationen zufolge blieb der Gesamtmarkt stark, während Korea Electric Power relativ schwach tendierte und damit den Druck auf Privatanleger erhöhte, die die Aktie gekauft hatten. Das hier vorliegende Ausgangsmaterial enthält nur Titel und Quelle, daher lassen sich konkrete Angaben wie Rückgangsquote, Handelstag, Kaufvolumen oder detaillierte Anlegerreaktionen nicht bestätigen. Der Fall wurde als Beispiel dafür dargestellt, dass auch in einem Bullenmarkt deutliche Unterschiede zwischen Einzeltiteln auftreten können. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Korea Electric Power chute seule en plein marché haussier, les particuliers sous pression",
+        "excerpt": "hankyung.com a rapporté que Korea Electric Power a fortement reculé malgré un marché haussier, pesant sur les investisseurs particuliers qui avaient acheté le titre.",
+        "body": "hankyung.com a rapporté l’évolution de Korea Electric Power avec un titre indiquant que l’action avait “chuté seule dans un marché haussier historique”. D’après les informations fournies, le marché restait globalement solide, mais Korea Electric Power a affiché une performance relativement faible, ce qui a accru la pression sur les investisseurs particuliers ayant acheté le titre. Le contenu original disponible ici se limite au titre et à la source; il n’est donc pas possible de confirmer le pourcentage de baisse, la date de cotation, le volume acheté ou les réactions détaillées des investisseurs. Ce cas illustre que des écarts importants entre valeurs peuvent apparaître même en marché haussier. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "سهم كوريا إلكتريك باور يهبط منفردا وسط سوق صاعدة ويضغط على المستثمرين الأفراد",
+        "excerpt": "أفاد hankyung.com بأن سهم كوريا إلكتريك باور تراجع بقوة رغم السوق الصاعدة، ما زاد القلق لدى المستثمرين الأفراد الذين اشتروا السهم.",
+        "body": "نشر hankyung.com تقريرا عن حركة سهم كوريا إلكتريك باور بعنوان يفيد بأنه “انهار منفردا في سوق صاعدة تاريخية”. ووفقا للمعلومات المقدمة، كان السوق الأوسع في حالة قوة، بينما أظهر سهم كوريا إلكتريك باور أداء أضعف نسبيا، ما زاد العبء على المستثمرين الأفراد الذين اشتروا السهم. المادة الأصلية المتاحة هنا تقتصر على العنوان والمصدر، لذلك لا يمكن تأكيد تفاصيل مثل نسبة الهبوط، تاريخ التداول، حجم الشراء أو ردود فعل المستثمرين. وتقدم القضية مثالا على أن التباين بين الأسهم قد يظهر حتى أثناء الأسواق الصاعدة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "मजबूत तेजी के बीच Korea Electric Power अकेला गिरा, खुदरा निवेशकों पर दबाव",
+        "excerpt": "hankyung.com ने बताया कि तेज बुल मार्केट के बावजूद Korea Electric Power में भारी गिरावट आई, जिससे इस शेयर को खरीदने वाले खुदरा निवेशकों की चिंता बढ़ी।",
+        "body": "hankyung.com ने Korea Electric Power के शेयर पर ऐसी हेडलाइन के साथ रिपोर्ट दी कि वह “ऐतिहासिक बुल मार्केट में अकेला गिरा।” उपलब्ध जानकारी के अनुसार, व्यापक बाजार मजबूत था, लेकिन Korea Electric Power का प्रदर्शन अपेक्षाकृत कमजोर रहा, जिससे इस शेयर को खरीदने वाले व्यक्तिगत निवेशकों पर दबाव बढ़ा। यहां उपलब्ध मूल सामग्री केवल शीर्षक और स्रोत तक सीमित है, इसलिए गिरावट की दर, कारोबार की तारीख, खरीद मात्रा या निवेशकों की विस्तृत प्रतिक्रिया की पुष्टि नहीं की जा सकती। यह मामला दिखाता है कि तेजी के बाजार में भी अलग-अलग शेयरों के प्रदर्शन में बड़ा अंतर हो सकता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Korea Electric Power Jatuh Sendiri Saat Pasar Menguat, Investor Ritel Tertekan",
+        "excerpt": "hankyung.com melaporkan bahwa Korea Electric Power turun tajam meski pasar sedang sangat bullish, menambah kekhawatiran investor ritel yang membeli saham itu.",
+        "body": "hankyung.com melaporkan pergerakan saham Korea Electric Power dengan judul bahwa saham tersebut “anjlok sendiri di tengah pasar bullish bersejarah”. Berdasarkan informasi yang diberikan, pasar secara luas berada dalam tren kuat, tetapi Korea Electric Power menunjukkan kinerja yang relatif lemah, sehingga menambah tekanan bagi investor individu yang membeli saham tersebut. Materi asli yang tersedia di sini hanya mencakup judul dan sumber, sehingga angka penurunan, tanggal perdagangan, volume pembelian, serta reaksi rinci investor tidak dapat dikonfirmasi. Kasus ini disajikan sebagai contoh bahwa perbedaan kinerja antar saham dapat muncul bahkan saat pasar sedang menguat. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "4db5b9ff9686",
+    "slug": "요즘-한국증시-안하면-바보홍콩-슈퍼리치도-여의도-날아와-열공-915804",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T22:16:43.681Z",
+    "updatedAt": "2026-05-14T22:16:43.681Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048653",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048653",
+    "titleFingerprint": "ecbdc45415273e7f050a5573ce9c60b97249e471",
+    "dedupKeys": [
+      "4db5b9ff9686f8b24a2a9cd7b7678b159281cc2c",
+      "ecbdc45415273e7f050a5573ce9c60b97249e471",
+      "04925d30370487ccc813ea4e980f7ef32797ec99"
+    ],
+    "imageUrl": "/images/articles/4db5b9ff9686.png",
+    "i18n": {
+      "ko": {
+        "title": "한국증시 열기 확산, 홍콩 슈퍼리치도 여의도서 AI 수혜주 질문",
+        "excerpt": "하나증권 ‘코리아 포럼’에 홍콩 초고액자산가와 헤지펀드 관계자들이 참석해 AI 수혜주, 삼성전자 파업 전망 등 한국증시 핵심 이슈를 집중 질의했다.",
+        "body": "하나증권이 연 ‘코리아 포럼’에서 홍콩 초고액자산가와 헤지펀드 관계자들이 한국증시 투자 기회를 확인하기 위해 여의도를 찾았다. 참석자들은 한국증시의 핵심 현장으로 꼽히는 여의도에서 AI 수혜주와 삼성전자 파업 전망 등 주요 이슈를 두고 질문을 쏟아냈다. 특히 삼성전자와 SK하이닉스 관련 레버리지 ETF 투자자는 수익률이 두 배가 됐다고 언급하며 한국 반도체주에 대한 관심을 드러냈다. 이번 포럼은 해외 고액자산가와 기관투자가들이 한국 시장을 직접 점검하는 자리였다는 점에서 최근 한국증시를 향한 글로벌 관심을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korean Stock Market Heat Draws Hong Kong Super-Rich to Yeouido",
+        "excerpt": "At Hana Securities’ Korea Forum, Hong Kong ultra-high-net-worth investors and hedge funds focused questions on AI beneficiaries, Samsung Electronics’ strike outlook and key Korean market issues.",
+        "body": "At Hana Securities’ Korea Forum, Hong Kong ultra-high-net-worth investors and hedge fund representatives visited Yeouido to assess investment opportunities in the Korean stock market. In what is considered the heart of Korea’s market, participants asked a series of questions about major issues including AI-related beneficiaries and the outlook for a Samsung Electronics strike. One investor in leveraged ETFs tied to Samsung Electronics and SK Hynix said the return had doubled, showing continued interest in Korean semiconductor stocks. The forum underscored growing global attention toward Korean equities as wealthy overseas investors and institutions checked the market directly. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国株ブーム拡大、香港富裕層も汝矣島でAI関連株に質問攻勢",
+        "excerpt": "ハナ証券の「コリアフォーラム」に香港の超富裕層やヘッジファンド関係者が参加し、AI恩恵株やサムスン電子のスト見通しなどを集中的に質問した。",
+        "body": "ハナ証券が開いた「コリアフォーラム」で、香港の超富裕層やヘッジファンド関係者が韓国株の投資機会を確認するため汝矣島を訪れた。韓国証券市場の中心地とされる汝矣島で、参加者はAI恩恵株やサムスン電子のストライキ見通しなど主要なテーマについて相次いで質問した。特にサムスン電子とSKハイニックス関連のレバレッジETF投資家は、収益率が2倍になったと述べ、韓国半導体株への関心を示した。今回のフォーラムは、海外の富裕層や機関投資家が韓国市場を直接点検する場となり、韓国株への世界的関心を示した。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国股市热度升温，香港超级富豪赴汝矣岛追问AI受益股",
+        "excerpt": "在韩亚证券“韩国论坛”上，香港超高净值人士和对冲基金人士围绕AI受益股、三星电子罢工前景等韩国股市核心议题集中提问。",
+        "body": "韩亚证券举办的“韩国论坛”上，香港超高净值人士和对冲基金相关人士为确认韩国股市投资机会来到汝矣岛。在被视为韩国股市核心地带的汝矣岛，参会者围绕AI受益股、三星电子罢工前景等主要议题接连提问。尤其有投资三星电子和SK海力士相关杠杆ETF的人士表示收益率已经翻倍，显示出对韩国半导体股的关注。此次论坛成为海外高净值人士和机构投资者直接考察韩国市场的场合，也反映出近期全球对韩国股市的兴趣。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La Bolsa coreana atrae a superricos de Hong Kong con foco en IA",
+        "excerpt": "En el Korea Forum de Hana Securities, grandes patrimonios de Hong Kong y hedge funds preguntaron por valores beneficiados por IA, la huelga en Samsung Electronics y temas clave del mercado coreano.",
+        "body": "En el Korea Forum organizado por Hana Securities, grandes patrimonios de Hong Kong y representantes de hedge funds acudieron a Yeouido para evaluar oportunidades de inversión en la Bolsa coreana. En el corazón del mercado bursátil de Corea, los asistentes formularon numerosas preguntas sobre asuntos clave como los valores beneficiados por la IA y las perspectivas de huelga en Samsung Electronics. Un inversor en ETF apalancados vinculados a Samsung Electronics y SK Hynix dijo que su rentabilidad se había duplicado, reflejando el interés por las acciones coreanas de semiconductores. El foro mostró la atención global hacia el mercado coreano al reunir a inversores ricos e institucionales extranjeros. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Bolsa coreana atrai super-ricos de Hong Kong com foco em ações de IA",
+        "excerpt": "No Korea Forum da Hana Securities, ultrarricos de Hong Kong e hedge funds questionaram sobre ações beneficiadas por IA, greve na Samsung Electronics e temas centrais do mercado coreano.",
+        "body": "No Korea Forum promovido pela Hana Securities, investidores ultrarricos de Hong Kong e representantes de hedge funds foram a Yeouido para avaliar oportunidades na Bolsa coreana. No centro do mercado acionário da Coreia, os participantes fizeram uma série de perguntas sobre temas importantes, como ações beneficiadas por IA e as perspectivas de greve na Samsung Electronics. Um investidor em ETFs alavancados ligados à Samsung Electronics e à SK Hynix afirmou que o retorno havia dobrado, mostrando interesse pelas ações coreanas de semicondutores. O fórum evidenciou a atenção global ao mercado coreano, ao reunir investidores estrangeiros de alta renda e institucionais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Koreanische Aktien locken Hongkongs Superreiche nach Yeouido",
+        "excerpt": "Beim Korea Forum von Hana Securities stellten vermögende Investoren aus Hongkong und Hedgefonds Fragen zu KI-Profiteuren, Samsung-Streikrisiken und zentralen Themen des koreanischen Markts.",
+        "body": "Beim Korea Forum von Hana Securities reisten vermögende Investoren aus Hongkong und Vertreter von Hedgefonds nach Yeouido, um Chancen am koreanischen Aktienmarkt zu prüfen. Im Herzen des koreanischen Markts stellten die Teilnehmer zahlreiche Fragen zu wichtigen Themen wie KI-Profiteuren und den Aussichten eines Streiks bei Samsung Electronics. Ein Anleger in gehebelte ETFs mit Bezug zu Samsung Electronics und SK Hynix sagte, die Rendite habe sich verdoppelt, was das Interesse an koreanischen Halbleiterwerten zeigte. Das Forum machte deutlich, dass ausländische Großanleger und Institutionen den koreanischen Markt direkt prüfen und das globale Interesse zunimmt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Bourse coréenne attire les super-riches de Hong Kong à Yeouido",
+        "excerpt": "Au Korea Forum de Hana Securities, grandes fortunes de Hong Kong et hedge funds ont interrogé les experts sur les valeurs liées à l’IA, la grève chez Samsung Electronics et les enjeux clés du marché coréen.",
+        "body": "Lors du Korea Forum organisé par Hana Securities, de très grandes fortunes de Hong Kong et des représentants de hedge funds se sont rendus à Yeouido pour examiner les opportunités d’investissement en Bourse coréenne. Dans ce centre névralgique du marché coréen, les participants ont multiplié les questions sur les valeurs bénéficiaires de l’IA et les perspectives de grève chez Samsung Electronics. Un investisseur en ETF à effet de levier liés à Samsung Electronics et SK Hynix a indiqué que son rendement avait doublé, illustrant l’intérêt pour les semi-conducteurs coréens. Ce forum a montré l’attention mondiale croissante portée aux actions coréennes. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "زخم الأسهم الكورية يجذب أثرياء هونغ كونغ إلى يويدو بحثا عن فرص الذكاء الاصطناعي",
+        "excerpt": "في منتدى كوريا التابع لهانا للأوراق المالية، ركز أثرياء هونغ كونغ وصناديق التحوط أسئلتهم على أسهم الذكاء الاصطناعي وإضراب سامسونغ إلكترونيكس وقضايا السوق الكورية.",
+        "body": "في منتدى كوريا الذي نظمته هانا للأوراق المالية، حضر مستثمرون من أصحاب الثروات الفائقة في هونغ كونغ وممثلون عن صناديق تحوط إلى يويدو لتقييم فرص الاستثمار في سوق الأسهم الكورية. وفي ما يعد قلب السوق الكورية، طرح المشاركون أسئلة متتالية حول قضايا رئيسية مثل الأسهم المستفيدة من الذكاء الاصطناعي وتوقعات إضراب سامسونغ إلكترونيكس. وقال مستثمر في صناديق ETF ذات رافعة مرتبطة بسامسونغ إلكترونيكس وSK Hynix إن العائد تضاعف، ما أبرز الاهتمام بأسهم أشباه الموصلات الكورية. أظهر المنتدى تزايد الاهتمام العالمي بالسوق الكورية. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "कोरियाई शेयर बाजार की तेजी ने हांगकांग के सुपर-रिच को येओइदो खींचा",
+        "excerpt": "हाना सिक्योरिटीज के Korea Forum में हांगकांग के अति-धनाढ्य निवेशकों और हेज फंडों ने AI लाभार्थी शेयरों, Samsung Electronics की हड़ताल और कोरियाई बाजार पर सवाल किए।",
+        "body": "हाना सिक्योरिटीज के Korea Forum में हांगकांग के अति-धनाढ्य निवेशक और हेज फंड प्रतिनिधि कोरियाई शेयर बाजार के अवसरों को समझने के लिए येओइदो पहुंचे। कोरिया के शेयर बाजार के केंद्र माने जाने वाले इस स्थान पर प्रतिभागियों ने AI से लाभ पाने वाले शेयरों और Samsung Electronics की हड़ताल की संभावना जैसे प्रमुख मुद्दों पर लगातार सवाल किए। Samsung Electronics और SK Hynix से जुड़े leveraged ETF में निवेश करने वाले एक निवेशक ने कहा कि रिटर्न दोगुना हो गया है, जिससे कोरियाई सेमीकंडक्टर शेयरों में रुचि दिखी। यह मंच विदेशी धनी और संस्थागत निवेशकों की कोरियाई बाजार में बढ़ती दिलचस्पी दिखाता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Bursa Korea Makin Panas, Superkaya Hong Kong Datangi Yeouido",
+        "excerpt": "Dalam Korea Forum Hana Securities, investor superkaya Hong Kong dan hedge fund menyoroti saham penerima manfaat AI, prospek mogok Samsung Electronics, serta isu utama pasar Korea.",
+        "body": "Dalam Korea Forum yang digelar Hana Securities, investor ultrakaya Hong Kong dan perwakilan hedge fund datang ke Yeouido untuk melihat peluang investasi di bursa Korea. Di kawasan yang menjadi pusat pasar saham Korea itu, peserta mengajukan banyak pertanyaan tentang isu utama seperti saham penerima manfaat AI dan prospek mogok di Samsung Electronics. Seorang investor ETF leverage yang terkait Samsung Electronics dan SK Hynix menyebut imbal hasilnya telah berlipat dua, menunjukkan minat terhadap saham semikonduktor Korea. Forum ini memperlihatkan meningkatnya perhatian global terhadap pasar Korea karena investor kaya dan institusi asing meninjaunya langsung. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "bf76b0437c71",
     "slug": "지금이-기회코스피에-꽂힌-홍콩-큰손들-몰려온-이유-893727",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "84% Penerima Dana Pensiun Pilih Sekaligus, Reformasi Jadi Sorotan",
         "excerpt": "Kementerian Ketenagakerjaan dan otoritas pengawas keuangan Korea menyebut dalam seminar bahwa 84% dari 600 ribu penerima baru dana pensiun tahun lalu memilih pembayaran sekaligus.",
         "body": "Kementerian Ketenagakerjaan dan Tenaga Kerja Korea bersama Layanan Pengawas Keuangan menyatakan dalam seminar perbaikan sistem bahwa dari 600 ribu orang yang mulai menerima dana pensiun tahun lalu, 84% memilih pembayaran sekaligus, bukan skema pembayaran berkala. Bahkan di antara mereka yang memilih skema pensiun, 82% mengambil periode pendek 10 tahun atau kurang, sehingga muncul pertanyaan apakah dana pensiun cukup berfungsi sebagai penopang pendapatan hari tua jangka panjang. Seminar tersebut membahas perbaikan struktur penerimaan, termasuk perluasan produk anuitas seumur hidup dan pensiun jangka panjang. Seiring bertambahnya lansia yang membutuhkan biaya hidup stabil setelah pensiun, kebutuhan untuk menyempurnakan aturan yang mendorong penerimaan berbentuk pensiun diperkirakan meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "4301879c6fd0",
-    "slug": "연-2-예금으론-답-없다급증하는-포모-투자에-빚투-경고음도-커져-440957",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T07:20:45.596Z",
-    "updatedAt": "2026-05-14T07:20:45.596Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047450",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047450",
-    "titleFingerprint": "2835953f2f8b9f90d8a40fbe17dc474ed2cf3afa",
-    "dedupKeys": [
-      "4301879c6fd043f98d06a053ba1cd0cd1edf9117",
-      "2835953f2f8b9f90d8a40fbe17dc474ed2cf3afa",
-      "8bd0dca13b3d13296580ad36eca84e764e5a8e86"
-    ],
-    "imageUrl": "/images/articles/4301879c6fd0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "예금금리 매력 저하에 증시 대기자금 급증…‘FOMO 투자’ 빚투 경고음",
-        "excerpt": "최근 국내 증시가 반등하고 연 2%대 예금금리의 매력이 낮아지면서 은행 예·적금 자금이 주식시장으로 이동할 조짐을 보이고, FOMO·빚투 위험 경고도 커지고 있다.",
-        "body": "최근 국내 증시가 반등하면서 은행 예·적금에 머물던 자금이 주식시장으로 이동할 조짐이 커지고 있다. 연 2%대 예금금리로는 기대 수익을 충족하기 어렵다는 인식이 확산되며 증시 대기자금이 늘고, 이른바 ‘FOMO 투자’가 MZ세대를 넘어 노년층으로도 번지는 분위기다. 예금금리의 매력이 낮아진 가운데 투자 기회를 놓치지 않으려는 머니무브가 가속화될 수 있다는 분석이 나온다. 다만 빚을 내 투자하는 ‘빚투’가 함께 늘 경우 시장이 디레버리징 국면에 들어설 때 변동성 위험이 커질 수 있다는 경고도 제기된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Lower Deposit Rate Appeal Fuels Stock Cash Surge and FOMO Debt-Investing Warnings",
-        "excerpt": "As South Korea’s stock market rebounds and 2% deposit rates lose appeal, money is showing signs of moving from bank savings into equities, raising FOMO and debt-investing concerns.",
-        "body": "As South Korea’s stock market has recently rebounded, funds that had been sitting in bank deposits and savings products are showing signs of moving into equities. The view that annual deposit rates in the 2% range are not enough to meet return expectations is spreading, lifting standby funds for the stock market. So-called FOMO investing appears to be expanding beyond MZ-generation investors to older age groups. With deposit rates losing appeal, analysts say the money move driven by fear of missing investment opportunities could accelerate. However, warnings are also growing that if debt-funded investing rises together, market volatility risks may increase when deleveraging begins. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "預金金利の魅力低下で株式待機資金が急増、FOMO投資と借入投資に警戒",
-        "excerpt": "韓国株式市場の反発と年2%台の預金金利の魅力低下を受け、銀行預金から株式市場へ資金が動く兆しが広がり、FOMO投資や借入投資への警戒も強まっている。",
-        "body": "最近、韓国株式市場が反発する中、銀行の預金・積立にとどまっていた資金が株式市場へ移る兆しが強まっている。年2%台の預金金利では期待収益を満たしにくいとの認識が広がり、株式市場の待機資金が増加している。いわゆる「FOMO投資」はMZ世代を超え、高齢層にも広がる雰囲気だ。預金金利の魅力が低下する中、投資機会を逃したくないというマネームーブが加速する可能性があるとの見方が出ている。ただし、借金で投資する「借入投資」が同時に増えれば、市場がデレバレッジ局面に入った際に変動性リスクが高まるとの警告もある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "存款利率吸引力下降推升股市待入资金，FOMO投资与借钱投资警报升温",
-        "excerpt": "近期韩国股市反弹、年化2%左右存款利率吸引力下降，银行存款资金出现流向股市的迹象，FOMO投资和借钱投资风险警告也在增加。",
-        "body": "近期韩国股市反弹，原本停留在银行定期存款和储蓄产品中的资金，出现转向股市的迹象。随着市场认为年化2%左右的存款利率难以满足收益期待，股市待入资金增加，所谓“FOMO投资”也有从MZ世代扩散至老年群体的趋势。在存款利率吸引力下降的背景下，为避免错过投资机会而出现的资金迁移可能加快。不过，也有警告指出，如果借钱投资同步增加，一旦市场进入去杠杆阶段，波动性风险可能扩大。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Menor atractivo de depósitos impulsa efectivo hacia bolsa y alerta por inversión FOMO con deuda",
-        "excerpt": "Con el repunte reciente de la bolsa surcoreana y depósitos al 2% menos atractivos, el dinero muestra señales de pasar del ahorro bancario a acciones, elevando alertas por FOMO y deuda.",
-        "body": "Con el reciente repunte del mercado bursátil surcoreano, los fondos que permanecían en depósitos y productos de ahorro bancarios muestran señales de trasladarse a la bolsa. Se extiende la percepción de que las tasas de depósito cercanas al 2% anual no bastan para cumplir las expectativas de rentabilidad, mientras aumenta el dinero en espera para invertir en acciones. La llamada inversión FOMO parece expandirse más allá de la generación MZ hacia los adultos mayores. En un contexto de menor atractivo de los depósitos, el movimiento de dinero motivado por no perder oportunidades de inversión podría acelerarse. Sin embargo, también crecen las advertencias de que, si aumenta la inversión con deuda, el riesgo de volatilidad podría intensificarse cuando el mercado entre en una fase de desapalancamiento. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Depósitos menos atraentes elevam caixa para ações e acendem alerta sobre FOMO com dívida",
-        "excerpt": "Com a recente recuperação da bolsa sul-coreana e juros de depósitos na faixa de 2% menos atraentes, recursos mostram sinais de migrar da poupança bancária para ações, elevando alertas sobre FOMO e dívida.",
-        "body": "Com a recente recuperação do mercado acionário sul-coreano, recursos que permaneciam em depósitos e produtos de poupança bancários mostram sinais de migração para a bolsa. Ganha força a percepção de que juros anuais de depósitos na faixa de 2% não bastam para atender às expectativas de retorno, enquanto aumenta o dinheiro em espera para investir em ações. O chamado investimento por FOMO parece se espalhar da geração MZ para grupos mais idosos. Com a menor atratividade dos depósitos, o movimento de dinheiro motivado pelo receio de perder oportunidades de investimento pode acelerar. Ainda assim, crescem os alertas de que, se o investimento financiado por dívida também aumentar, o risco de volatilidade pode crescer quando o mercado entrar em fase de desalavancagem. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Sinkende Attraktivität von Einlagen treibt Börsengelder und warnt vor FOMO auf Kredit",
-        "excerpt": "Nach der jüngsten Erholung des südkoreanischen Aktienmarkts und weniger attraktiven Einlagenzinsen um 2% zeigen Bankgelder Bewegung Richtung Aktien, während FOMO- und Kreditrisiken zunehmen.",
-        "body": "Nach der jüngsten Erholung des südkoreanischen Aktienmarkts zeigen Mittel, die zuvor in Bankeinlagen und Sparprodukten lagen, verstärkt Anzeichen einer Verlagerung in Aktien. Die Einschätzung, dass jährliche Einlagenzinsen im Bereich von 2% die Renditeerwartungen nicht erfüllen, verbreitet sich; zugleich nimmt das für den Aktienmarkt bereitstehende Kapital zu. Das sogenannte FOMO-Investieren scheint sich über die MZ-Generation hinaus auch auf ältere Anleger auszuweiten. Da die Attraktivität von Einlagen sinkt, könnte die aus Angst vor verpassten Chancen getriebene Geldbewegung an Tempo gewinnen. Zugleich wird gewarnt, dass bei zunehmenden kreditfinanzierten Anlagen die Volatilitätsrisiken steigen könnten, sobald der Markt in eine Deleveraging-Phase eintritt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Dépôts moins attractifs, afflux vers les actions et alerte sur l’investissement FOMO à crédit",
-        "excerpt": "Avec le rebond récent de la Bourse sud-coréenne et des dépôts à 2% moins séduisants, l’épargne bancaire montre des signes de transfert vers les actions, renforçant les alertes FOMO et dette.",
-        "body": "Avec le récent rebond du marché actions sud-coréen, les fonds qui restaient dans les dépôts et produits d’épargne bancaires montrent des signes de transfert vers la Bourse. L’idée que des taux de dépôt annuels autour de 2% ne suffisent pas à satisfaire les attentes de rendement se diffuse, tandis que les liquidités en attente d’investissement en actions augmentent. Le phénomène dit d’investissement FOMO semble dépasser la génération MZ et toucher aussi les personnes âgées. Alors que l’attrait des dépôts diminue, ce mouvement d’argent motivé par la peur de manquer des opportunités pourrait s’accélérer. Toutefois, les avertissements se multiplient: si l’investissement financé par l’emprunt progresse aussi, les risques de volatilité pourraient s’amplifier lors d’une phase de désendettement du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تراجع جاذبية الودائع يدفع أموالا نحو الأسهم ويزيد التحذير من استثمار FOMO بالدين",
-        "excerpt": "مع تعافي سوق الأسهم الكورية مؤخرا وتراجع جاذبية ودائع بعائد يقارب 2%، تظهر مؤشرات على انتقال أموال من الادخار المصرفي إلى الأسهم، مع تصاعد التحذيرات من FOMO والاقتراض للاستثمار.",
-        "body": "مع تعافي سوق الأسهم الكورية الجنوبية في الآونة الأخيرة، تظهر مؤشرات متزايدة على انتقال أموال كانت باقية في الودائع ومنتجات الادخار المصرفية إلى سوق الأسهم. وينتشر تصور بأن عوائد الودائع السنوية في نطاق 2% لا تكفي لتلبية توقعات العائد، ما يزيد الأموال المنتظرة لدخول الأسهم. ويبدو أن ما يسمى باستثمار FOMO يتسع من جيل MZ إلى الفئات الأكبر سنا. ومع تراجع جاذبية الودائع، قد تتسارع حركة الأموال المدفوعة بالخوف من تفويت فرص الاستثمار. لكن التحذيرات تتزايد أيضا من أن ارتفاع الاستثمار الممول بالاقتراض قد يرفع مخاطر التقلبات عندما يدخل السوق مرحلة خفض المديونية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कम आकर्षक जमा दरों से शेयरों में प्रतीक्षारत धन बढ़ा, FOMO और कर्ज निवेश पर चेतावनी",
-        "excerpt": "दक्षिण कोरिया के शेयर बाजार में हालिया तेजी और 2% जमा दरों की घटती अपील के बीच बैंक बचत से धन शेयरों की ओर जाने के संकेत हैं, जिससे FOMO और कर्ज निवेश की चेतावनी बढ़ी है।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में हालिया सुधार के साथ, बैंक जमा और बचत उत्पादों में ठहरा धन शेयर बाजार की ओर जाने के संकेत दे रहा है। यह धारणा फैल रही है कि सालाना 2% के आसपास जमा दरें अपेक्षित रिटर्न पूरा करने के लिए पर्याप्त नहीं हैं, जिससे शेयर बाजार में प्रवेश के लिए प्रतीक्षारत धन बढ़ रहा है। तथाकथित FOMO निवेश MZ पीढ़ी से आगे बुजुर्ग वर्गों तक फैलता दिख रहा है। जमा दरों की घटती अपील के बीच निवेश अवसर चूकने के डर से धन का यह स्थानांतरण तेज हो सकता है। हालांकि चेतावनी भी दी जा रही है कि यदि कर्ज लेकर निवेश बढ़ा, तो बाजार के डीलेवरेजिंग चरण में प्रवेश करने पर अस्थिरता का जोखिम बढ़ सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Daya Tarik Deposito Turun, Dana Siaga Saham Melonjak dan Peringatan FOMO Berutang Menguat",
-        "excerpt": "Saat bursa Korea Selatan pulih dan bunga deposito 2% kurang menarik, dana bank mulai menunjukkan tanda bergerak ke saham, sementara peringatan atas FOMO dan investasi berutang meningkat.",
-        "body": "Seiring pemulihan terbaru pasar saham Korea Selatan, dana yang sebelumnya berada di deposito dan produk tabungan bank menunjukkan tanda-tanda bergerak ke pasar saham. Pandangan bahwa bunga deposito tahunan di kisaran 2% sulit memenuhi ekspektasi imbal hasil makin menyebar, sehingga dana siaga untuk saham meningkat. Investasi yang disebut FOMO tampak meluas dari generasi MZ ke kelompok usia lanjut. Dengan menurunnya daya tarik deposito, perpindahan dana karena takut melewatkan peluang investasi dapat semakin cepat. Namun, peringatan juga muncul bahwa jika investasi dengan utang ikut meningkat, risiko volatilitas dapat membesar saat pasar memasuki fase deleveraging. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "381f9f2a98b0",
-    "slug": "속보-코스피-또-사상최고-79818000피-턱밑까지-진군-300938",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T07:19:31.728Z",
-    "updatedAt": "2026-05-14T07:19:31.728Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047605",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047605",
-    "titleFingerprint": "c46930940f6932830decdaf88f0cbbc3e613476d",
-    "dedupKeys": [
-      "381f9f2a98b0247b9122468928b921d55741606e",
-      "c46930940f6932830decdaf88f0cbbc3e613476d",
-      "39572a83b65b830944cb62127500d6cf74d74a2a"
-    ],
-    "imageUrl": "/images/articles/381f9f2a98b0.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 사상최고 7981 기록, 8000선 턱밑까지 상승",
-        "excerpt": "코스피가 속보 기준 또다시 사상최고치인 7981을 기록하며 8000선 바로 아래까지 올라섰다고 mk.co.kr이 전했다.",
-        "body": "코스피가 속보 기준 또다시 사상최고치인 7981을 기록하며 8000선 턱밑까지 올라섰다. 보도에 따르면 코스피는 사상 최고 수준을 다시 갈아치우며 ‘8000피’에 근접했다. 핵심 수치는 7981로, 8000선과의 거리는 19포인트에 불과하다. 이번 기록은 국내 증시 대표 지수인 코스피가 최고점 부근에서 움직이고 있음을 보여준다. 다만 원문에는 상승 배경이나 세부 업종, 거래대금 등 추가 수치는 제시되지 않았다. 향후 시장의 관심은 코스피가 8000선을 실제로 돌파할지에 모일 전망이다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "KOSPI Hits Record 7,981, Moving Within Reach of 8,000",
-        "excerpt": "KOSPI reached another all-time high of 7,981 in a breaking report, moving just below the 8,000 mark, according to mk.co.kr.",
-        "body": "KOSPI reached another all-time high of 7,981 in a breaking report, advancing to just below the 8,000 level. According to the report, the benchmark index renewed its record high and moved close to the so-called 8,000-point mark. The key figure is 7,981, only 19 points away from 8,000. The record shows that South Korea’s main stock index is trading near its highest level. However, the original report did not provide additional details such as the reason for the rise, sector data, or trading value. Market attention is expected to focus on whether KOSPI can actually break through 8,000. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "KOSPIが史上最高7981、8000目前まで上昇",
-        "excerpt": "KOSPIは速報ベースで再び史上最高値の7981を記録し、8000の目前まで上昇したとmk.co.krが伝えた。",
-        "body": "KOSPIは速報ベースで再び史上最高値の7981を記録し、8000の目前まで上昇した。報道によると、KOSPIは過去最高水準を更新し、いわゆる「8000ポイント」に近づいた。中心となる数値は7981で、8000まではわずか19ポイントとなっている。今回の記録は、韓国株式市場の代表指数であるKOSPIが最高値付近で推移していることを示す。ただし、原文では上昇の背景や業種別の動き、売買代金などの追加数値は示されていない。今後はKOSPIが実際に8000を突破するかに市場の関心が集まる見通しだ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "KOSPI再创历史新高7981点，逼近8000点关口",
-        "excerpt": "据mk.co.kr快讯报道，KOSPI再次创下7981点的历史新高，距离8000点关口仅一步之遥。",
-        "body": "据快讯报道，KOSPI再次创下7981点的历史新高，升至8000点关口下方。报道显示，KOSPI刷新历史最高水平，并接近所谓的8000点。关键数字为7981点，距离8000点仅差19点。这一纪录显示，韩国股市代表性指数KOSPI正运行在历史高位附近。不过，原文并未提供上涨背景、行业表现、成交额等进一步数据。后续市场关注点将集中在KOSPI能否真正突破8000点。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "KOSPI marca récord de 7.981 y queda cerca de los 8.000",
-        "excerpt": "El KOSPI volvió a marcar un máximo histórico de 7.981 en un reporte urgente y quedó justo por debajo de los 8.000, informó mk.co.kr.",
-        "body": "El KOSPI volvió a marcar un máximo histórico de 7.981 en un reporte urgente y avanzó hasta quedar justo por debajo del nivel de 8.000. Según la información, el índice de referencia renovó su máximo histórico y se acercó a la llamada marca de los 8.000 puntos. La cifra clave es 7.981, apenas 19 puntos por debajo de 8.000. Este registro muestra que el principal índice bursátil de Corea del Sur se mueve cerca de su nivel más alto. Sin embargo, el texto original no ofreció detalles adicionales sobre la causa del alza, sectores o valor negociado. La atención del mercado se centrará en si el KOSPI logra superar los 8.000. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "KOSPI bate recorde de 7.981 e se aproxima dos 8.000 pontos",
-        "excerpt": "O KOSPI voltou a atingir máxima histórica de 7.981 em notícia urgente e ficou logo abaixo dos 8.000 pontos, informou o mk.co.kr.",
-        "body": "O KOSPI voltou a atingir máxima histórica de 7.981 em notícia urgente e avançou para perto do nível de 8.000 pontos. Segundo a reportagem, o índice de referência renovou seu recorde e se aproximou da chamada marca dos 8.000 pontos. O número central é 7.981, apenas 19 pontos abaixo de 8.000. O registro mostra que o principal índice acionário da Coreia do Sul está se movendo perto de seu maior nível. No entanto, o texto original não trouxe detalhes adicionais sobre motivo da alta, setores ou volume financeiro. A atenção do mercado deve se concentrar em saber se o KOSPI poderá romper efetivamente os 8.000. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "KOSPI erreicht Rekord von 7.981 und rückt an 8.000 heran",
-        "excerpt": "Der KOSPI erreichte laut Eilmeldung erneut ein Allzeithoch von 7.981 Punkten und rückte knapp unter die Marke von 8.000, meldete mk.co.kr.",
-        "body": "Der KOSPI erreichte laut Eilmeldung erneut ein Allzeithoch von 7.981 Punkten und stieg damit bis knapp unter die Marke von 8.000. Dem Bericht zufolge erneuerte der Leitindex seinen historischen Höchststand und näherte sich der sogenannten 8.000-Punkte-Marke. Die zentrale Zahl lautet 7.981, nur 19 Punkte unter 8.000. Der Rekord zeigt, dass sich Südkoreas wichtigster Aktienindex nahe seinem höchsten Niveau bewegt. Der Originalbericht nannte jedoch keine weiteren Angaben zu den Gründen des Anstiegs, zu Branchen oder zum Handelsvolumen. Der Markt dürfte nun darauf achten, ob der KOSPI die 8.000 tatsächlich überschreitet. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Le KOSPI atteint un record à 7 981, tout près des 8 000",
-        "excerpt": "Le KOSPI a de nouveau inscrit un plus haut historique à 7 981 dans une alerte, se plaçant juste sous les 8 000, selon mk.co.kr.",
-        "body": "Le KOSPI a de nouveau inscrit un plus haut historique à 7 981 dans une alerte et s’est hissé juste sous le seuil des 8 000. Selon le reportage, l’indice de référence a renouvelé son record historique et s’est rapproché de la barre dite des 8 000 points. Le chiffre clé est 7 981, soit seulement 19 points de moins que 8 000. Ce record montre que le principal indice boursier sud-coréen évolue près de son niveau le plus élevé. Toutefois, le texte original ne fournit pas d’autres données sur les raisons de la hausse, les secteurs ou les volumes échangés. L’attention du marché devrait porter sur un éventuel franchissement effectif des 8 000 par le KOSPI. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "كوسبي يسجل قمة تاريخية عند 7981 ويقترب من 8000 نقطة",
-        "excerpt": "سجل مؤشر كوسبي مجددا مستوى تاريخيا عند 7981 نقطة في خبر عاجل، مقتربا من عتبة 8000 نقطة، بحسب mk.co.kr.",
-        "body": "سجل مؤشر كوسبي، وفق خبر عاجل، مستوى تاريخيا جديدا عند 7981 نقطة، متقدما إلى ما دون مستوى 8000 نقطة مباشرة. وبحسب التقرير، جدد المؤشر القياسي أعلى مستوى له واقترب مما يعرف بعتبة 8000 نقطة. الرقم الرئيسي هو 7981، أي بفارق 19 نقطة فقط عن 8000. ويظهر هذا الرقم أن المؤشر الرئيسي لسوق الأسهم في كوريا الجنوبية يتحرك قرب أعلى مستوياته. لكن النص الأصلي لم يقدم تفاصيل إضافية عن أسباب الارتفاع أو أداء القطاعات أو قيمة التداول. ومن المتوقع أن يتركز اهتمام السوق على ما إذا كان كوسبي سيتمكن فعليا من اختراق مستوى 8000 نقطة. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "KOSPI 7,981 के रिकॉर्ड उच्च स्तर पर, 8,000 के करीब पहुंचा",
-        "excerpt": "KOSPI ने ब्रेकिंग रिपोर्ट के अनुसार फिर 7,981 का सर्वकालिक उच्च स्तर दर्ज किया और 8,000 अंक के ठीक नीचे पहुंच गया, mk.co.kr ने बताया।",
-        "body": "KOSPI ने ब्रेकिंग रिपोर्ट के अनुसार फिर 7,981 का सर्वकालिक उच्च स्तर दर्ज किया और 8,000 के ठीक नीचे पहुंच गया। रिपोर्ट के मुताबिक, बेंचमार्क इंडेक्स ने अपना ऐतिहासिक उच्च स्तर फिर से तोड़ा और तथाकथित 8,000 अंक के करीब पहुंचा। मुख्य आंकड़ा 7,981 है, जो 8,000 से केवल 19 अंक कम है। यह रिकॉर्ड दिखाता है कि दक्षिण कोरिया का प्रमुख शेयर सूचकांक अपने उच्चतम स्तर के पास कारोबार कर रहा है। हालांकि, मूल रिपोर्ट में तेजी के कारण, सेक्टरों या कारोबार मूल्य जैसे अतिरिक्त आंकड़े नहीं दिए गए। अब बाजार की नजर इस पर रहेगी कि KOSPI वास्तव में 8,000 को पार करता है या नहीं। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "KOSPI Cetak Rekor 7.981, Melesat Mendekati Level 8.000",
-        "excerpt": "KOSPI kembali mencetak rekor tertinggi sepanjang masa di 7.981 dalam laporan kilat dan berada tepat di bawah level 8.000, menurut mk.co.kr.",
-        "body": "KOSPI kembali mencetak rekor tertinggi sepanjang masa di 7.981 dalam laporan kilat dan naik hingga tepat di bawah level 8.000. Menurut laporan tersebut, indeks acuan ini kembali memperbarui rekor tertingginya dan mendekati level 8.000 poin. Angka utama adalah 7.981, hanya terpaut 19 poin dari 8.000. Rekor ini menunjukkan bahwa indeks saham utama Korea Selatan bergerak di dekat level tertingginya. Namun, teks asli tidak memberikan rincian tambahan mengenai alasan kenaikan, sektor, atau nilai transaksi. Perhatian pasar selanjutnya diperkirakan tertuju pada apakah KOSPI benar-benar dapat menembus 8.000. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "3d920b4dbbad",
-    "slug": "오른-삼전-대신-빠진-닉스로로보스타도-관심-주식-초고수는-지금-503261",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T07:18:37.349Z",
-    "updatedAt": "2026-05-14T07:18:37.350Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047610",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047610",
-    "titleFingerprint": "d942690ae1556f608d782f354adb15d507d24a3d",
-    "dedupKeys": [
-      "3d920b4dbbadbf9beec984fbf6cb70f8de681cd4",
-      "d942690ae1556f608d782f354adb15d507d24a3d",
-      "97453358ae45108f19544d2cc0ffe17ebd07555d"
-    ],
-    "imageUrl": "/images/articles/3d920b4dbbad.png",
-    "i18n": {
-      "ko": {
-        "title": "하이닉스·로보스타로 몰린 초고수 매수세, 삼성전자 대신 선택한 종목",
-        "excerpt": "14일 오후 2시30분 기준 주식 투자 수익률 상위 1% 투자자들은 오른 삼성전자보다 빠진 하이닉스를 공격적으로 매집했고, 로보틱스 핵심 종목 로보스타에도 관심을 보였다.",
-        "body": "14일 오후 2시30분 기준 주식 투자 수익률 상위 1%로 분류되는 이른바 ‘초고수’ 투자자들은 삼성전자보다 하이닉스 쪽으로 매수세를 옮긴 것으로 나타났다. 원문은 오후 들어 오른 삼성전자 대신 빠진 하이닉스를 공격적으로 매집하는 흐름이 관찰됐다고 전했다. 로보틱스 핵심 종목으로 거론되는 로보스타에도 초고수들의 관심이 집중됐다. 이번 거래 동향은 단기 수익률 상위 투자자들이 반도체 대형주와 로봇 관련주 안에서 종목을 선별하고 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Top Investors Shift Buying to Hynix and Robostar Instead of Samsung Electronics",
-        "excerpt": "As of 2:30 p.m. on the 14th, the top 1% of stock investors were aggressively buying weaker Hynix shares rather than higher Samsung Electronics, while also focusing on robotics name Robostar.",
-        "body": "As of 2:30 p.m. on the 14th, investors ranked in the top 1% by stock investment returns, often called market “super experts,” appeared to be moving their buying interest from Samsung Electronics to Hynix. The original report said that in afternoon trading they aggressively accumulated Hynix, which had fallen, instead of Samsung Electronics, which had risen. Robostar, cited as a core robotics-related stock, also drew concentrated attention from these top investors. The trading trend shows that high-return investors were selectively looking within large semiconductor stocks and robotics-related names. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "上位1％投資家、サムスン電子よりハイニックスとロボスターに買い集中",
-        "excerpt": "14日午後2時30分時点で株式投資収益率上位1％の投資家は、上昇したサムスン電子より下落したハイニックスを積極的に買い集め、ロボスターにも関心を示した。",
-        "body": "14日午後2時30分時点で、株式投資収益率上位1％に分類されるいわゆる「超上級」投資家は、サムスン電子よりハイニックスへ買いの関心を移したことが分かった。原文は、午後に入り、上昇したサムスン電子の代わりに下落したハイニックスを積極的に買い集める動きが観察されたと伝えた。ロボティクスの中核銘柄として挙げられるロボスターにも、これら投資家の関心が集中した。今回の売買動向は、高収益投資家が半導体大型株とロボット関連株の中で銘柄を選別していることを示す。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "顶尖投资者转向买入海力士与Robostar，取代三星电子",
-        "excerpt": "截至14日下午2时30分，股票投资收益率前1%的投资者积极买入下跌的海力士，而非上涨的三星电子，同时也关注机器人核心股Robostar。",
-        "body": "截至14日下午2时30分，被归为股票投资收益率前1%的所谓“顶尖高手”投资者，买入兴趣似乎从三星电子转向了海力士。原文称，下午交易中可以观察到他们没有选择上涨的三星电子，而是积极吸纳下跌的海力士。被提及为机器人核心股票的Robostar也受到这些顶尖投资者集中关注。此次交易动向显示，高收益投资者正在大型半导体股和机器人相关股中进行选择性布局。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Grandes inversores compran Hynix y Robostar en lugar de Samsung Electronics",
-        "excerpt": "A las 14:30 del día 14, el 1% superior de inversores por rentabilidad bursátil compraba agresivamente Hynix, que caía, en vez de Samsung Electronics, que subía, y miraba Robostar.",
-        "body": "A las 14:30 del día 14, los inversores situados en el 1% superior por rentabilidad en acciones, conocidos como “superexpertos”, parecían trasladar sus compras de Samsung Electronics a Hynix. El reporte original señaló que durante la tarde se observó una acumulación agresiva de Hynix, que había retrocedido, en lugar de Samsung Electronics, que había subido. Robostar, mencionada como una acción clave del sector de robótica, también concentró la atención de estos inversores. La tendencia muestra una selección de valores dentro de grandes tecnológicas de semiconductores y acciones vinculadas a robots. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Investidores de elite miram Hynix e Robostar no lugar da Samsung Electronics",
-        "excerpt": "Às 14h30 do dia 14, investidores no top 1% de retorno em ações compravam agressivamente Hynix, que caía, em vez da Samsung Electronics, que subia, e também focavam Robostar.",
-        "body": "Às 14h30 do dia 14, investidores classificados entre o 1% superior em retorno com ações, chamados de “superespecialistas”, pareciam deslocar suas compras da Samsung Electronics para a Hynix. A reportagem original informou que, no período da tarde, foi observado um movimento de acumulação agressiva em Hynix, que recuava, em vez de Samsung Electronics, que avançava. A Robostar, citada como um papel central ligado à robótica, também recebeu atenção concentrada desses investidores. A tendência indica seleção de ações entre grandes nomes de semicondutores e papéis relacionados a robôs. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Top-Anleger kaufen Hynix und Robostar statt Samsung Electronics",
-        "excerpt": "Um 14:30 Uhr am 14. kauften die besten 1% der Aktienanleger aggressiv die gefallene Hynix statt der gestiegenen Samsung Electronics und richteten ihren Blick auch auf Robostar.",
-        "body": "Um 14:30 Uhr am 14. zeigten Anleger, die nach Aktienrendite zu den besten 1% zählen und als besonders erfahren gelten, eine Verlagerung ihres Kaufinteresses von Samsung Electronics zu Hynix. Der Originalbericht meldete, dass am Nachmittag ein aggressives Einsammeln der gefallenen Hynix zu beobachten war, während die gestiegene Samsung Electronics gemieden wurde. Auch Robostar, als Kernwert im Bereich Robotik genannt, zog konzentrierte Aufmerksamkeit dieser Anleger auf sich. Die Handelsdaten deuten darauf hin, dass renditestarke Investoren innerhalb großer Halbleiterwerte und robotiknaher Aktien selektiv vorgehen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les meilleurs investisseurs privilégient Hynix et Robostar à Samsung Electronics",
-        "excerpt": "À 14h30 le 14, les investisseurs du top 1% en rendement boursier achetaient activement Hynix en baisse plutôt que Samsung Electronics en hausse, avec un intérêt marqué pour Robostar.",
-        "body": "À 14h30 le 14, les investisseurs classés dans le premier 1% par rendement boursier, souvent décrits comme des investisseurs très aguerris, semblaient déplacer leurs achats de Samsung Electronics vers Hynix. Le rapport original indique qu’en séance de l’après-midi, ils ont accumulé agressivement Hynix, en repli, plutôt que Samsung Electronics, en hausse. Robostar, cité comme une valeur clé de la robotique, a également concentré leur attention. Cette tendance montre que les investisseurs les plus performants opèrent une sélection entre grands titres des semi-conducteurs et valeurs liées à la robotique. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كبار المستثمرين يتجهون إلى هاينكس وروبوستار بدلا من سامسونغ إلكترونيكس",
-        "excerpt": "حتى الساعة 2:30 بعد ظهر يوم 14، كان أعلى 1% من المستثمرين عائدا يشترون هاينكس المتراجعة بقوة بدلا من سامسونغ إلكترونيكس الصاعدة، مع اهتمام بروبوستار.",
-        "body": "حتى الساعة 2:30 بعد ظهر يوم 14، بدا أن المستثمرين المصنفين ضمن أعلى 1% من حيث عوائد الاستثمار في الأسهم، والذين يوصفون بأنهم الأكثر خبرة، ينقلون اهتمامهم الشرائي من سامسونغ إلكترونيكس إلى هاينكس. وذكر التقرير الأصلي أنه في تداولات ما بعد الظهر لوحظ تجميع قوي لسهم هاينكس المتراجع بدلا من سامسونغ إلكترونيكس التي ارتفعت. كما حظيت روبوستار، المذكورة كسهم محوري في قطاع الروبوتات، باهتمام مركز من هؤلاء المستثمرين. ويظهر هذا الاتجاه أنهم يختارون أسهما محددة داخل شركات أشباه الموصلات الكبرى والأسهم المرتبطة بالروبوتات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शीर्ष निवेशकों की खरीदारी सैमसंग इलेक्ट्रॉनिक्स से हटकर हाइनिक्स और रोबोस्टार पर",
-        "excerpt": "14 तारीख को दोपहर 2:30 बजे तक शेयर रिटर्न के शीर्ष 1% निवेशक चढ़े सैमसंग इलेक्ट्रॉनिक्स के बजाय गिरे हाइनिक्स को आक्रामक रूप से खरीद रहे थे और रोबोस्टार पर भी ध्यान दे रहे थे।",
-        "body": "14 तारीख को दोपहर 2:30 बजे तक शेयर निवेश रिटर्न के आधार पर शीर्ष 1% में गिने जाने वाले निवेशकों की खरीदारी सैमसंग इलेक्ट्रॉनिक्स से हटकर हाइनिक्स की ओर जाती दिखी। मूल रिपोर्ट के अनुसार, दोपहर के कारोबार में उन्होंने चढ़े हुए सैमसंग इलेक्ट्रॉनिक्स के बजाय गिरे हुए हाइनिक्स को आक्रामक रूप से जमा किया। रोबोटिक्स के प्रमुख शेयर के रूप में उल्लेखित रोबोस्टार पर भी इन निवेशकों का ध्यान केंद्रित रहा। यह व्यापार रुझान दिखाता है कि उच्च रिटर्न वाले निवेशक बड़े सेमीकंडक्टर शेयरों और रोबोटिक्स से जुड़े शेयरों के भीतर चुनिंदा तरीके से निवेश कर रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Investor Top 1% Beralih ke Hynix dan Robostar, Bukan Samsung Electronics",
-        "excerpt": "Pada pukul 14.30 tanggal 14, investor saham dengan imbal hasil 1% teratas agresif membeli Hynix yang melemah, bukan Samsung Electronics yang naik, dan juga mencermati Robostar.",
-        "body": "Pada pukul 14.30 tanggal 14, investor yang masuk 1% teratas berdasarkan imbal hasil investasi saham, sering disebut sebagai investor “super ahli”, tampak mengalihkan minat beli dari Samsung Electronics ke Hynix. Laporan asli menyebutkan bahwa pada perdagangan siang hingga sore terlihat aksi akumulasi agresif pada Hynix yang melemah, bukan pada Samsung Electronics yang menguat. Robostar, yang disebut sebagai saham inti di sektor robotik, juga menarik perhatian terpusat dari para investor tersebut. Tren transaksi ini menunjukkan bahwa investor berimbal hasil tinggi sedang memilih saham secara selektif di antara emiten semikonduktor besar dan saham terkait robot. Sumber: mk.co.kr"
       }
     }
   }
