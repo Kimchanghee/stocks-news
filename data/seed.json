@@ -1,5 +1,230 @@
 [
   {
+    "id": "6aec29fa748f",
+    "slug": "몸값-1조-딥엑스-지드래곤-소속사ipo-대어-집결-495747",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T17:58:45.783Z",
+    "updatedAt": "2026-05-14T17:58:45.783Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472741",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472741",
+    "titleFingerprint": "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
+    "dedupKeys": [
+      "6aec29fa748f3e6316ea986e2cba9b4c2beaefbc",
+      "3ee38f8449e8a64c5109e0d26e862a3bc36640f5",
+      "f8a01eb5ad2af41ba237c686ee0023beafac2a17"
+    ],
+    "imageUrl": "/images/articles/6aec29fa748f.png",
+    "i18n": {
+      "ko": {
+        "title": "딥엑스·갤럭시코퍼레이션 등 IPO 기대주, KIW 2026서 상장 로드맵 공개",
+        "excerpt": "코리아 인베스트먼트 위크 2026 마지막 날인 5월 15일 딥엑스와 갤럭시코퍼레이션 등 비상장 혁신기업들이 IPO 청사진과 성장 전략을 공개한다.",
+        "body": "코리아 인베스트먼트 위크(KIW) 2026 마지막 날인 5월 15일, 국내 대표 비상장 혁신기업들이 기업공개(IPO) 청사진을 투자자들에게 공개한다. 참여 기업에는 AI 반도체 스타트업 딥엑스, 지드래곤 소속사로 알려진 갤럭시코퍼레이션, 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 포함된다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세워 로봇·스마트카·산업용 기기 시장을 공략하고 있으며 현대자동차, 포스코DX 등과 협력해 로봇용 에지 브레인 칩 양산에 성공했다. 시장에서는 상장 시 기업가치가 1조원을 넘어설 것으로 보고 있다. 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 공개할 예정이다. 출처: 한국경제(hankyung.com)."
+      },
+      "en": {
+        "title": "DeepX, Galaxy Corporation and Other IPO Contenders to Unveil Plans at KIW 2026",
+        "excerpt": "On May 15, the final day of Korea Investment Week 2026, unlisted innovation firms including DeepX and Galaxy Corporation will present IPO plans and growth strategies.",
+        "body": "On May 15, the final day of Korea Investment Week (KIW) 2026, leading unlisted innovation companies in Korea will present their initial public offering plans to investors. Participants include AI semiconductor startup DeepX, Galaxy Corporation, known as G-Dragon’s agency, Habit Factory, Elice Group, LBox, Samhong Arcturion and A-Robot. DeepX targets robotics, smart cars and industrial devices with on-device AI semiconductors and ultra-low-power NPU technology. It has worked with Hyundai Motor and Posco DX and succeeded in mass-producing edge brain chips for robots. The market expects its corporate value to exceed 1 trillion won if it lists. Galaxy Corporation plans to disclose its U.S. listing plan and overseas fundraising strategy. Source: Korea Economic Daily (hankyung.com)."
+      },
+      "ja": {
+        "title": "DeepXやGalaxy CorporationなどIPO有望株、KIW 2026で上場計画を公開",
+        "excerpt": "KIW 2026最終日の5月15日、DeepXやGalaxy Corporationなど未上場の革新企業がIPO構想と成長戦略を投資家に示す予定だ。",
+        "body": "コリア・インベストメント・ウィーク（KIW）2026の最終日である5月15日、韓国の代表的な未上場革新企業が投資家に企業公開（IPO）の青写真を示す。参加企業には、AI半導体スタートアップのDeepX、G-DRAGONの所属事務所として知られるGalaxy Corporation、Habit Factory、Elice Group、LBox、Samhong Arcturion、A-Robotなどが含まれる。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を軸に、ロボット、スマートカー、産業機器市場を狙う。現代自動車、Posco DXなどと協力し、ロボット用エッジブレインチップの量産に成功した。市場では上場時の企業価値が1兆ウォンを超えるとみられている。Galaxy Corporationは米国上場計画と海外投資誘致戦略を公開する予定だ。出典：韓国経済新聞（hankyung.com）。"
+      },
+      "zh": {
+        "title": "DeepX、Galaxy Corporation等IPO热门企业将在KIW 2026公布上市路线图",
+        "excerpt": "在韩国投资周KIW 2026最后一天5月15日，DeepX、Galaxy Corporation等未上市创新企业将公布IPO蓝图和增长战略。",
+        "body": "韩国投资周（KIW）2026最后一天5月15日，韩国主要未上市创新企业将向投资者公布首次公开募股（IPO）蓝图。参与企业包括AI半导体初创公司DeepX、以G-Dragon所属公司而知名的Galaxy Corporation，以及Habit Factory、Elice Group、LBox、Samhong Arcturion、A-Robot等。DeepX以端侧AI半导体和超低功耗NPU技术为核心，进军机器人、智能汽车和工业设备市场。该公司与现代汽车、Posco DX等合作，并已成功量产机器人用边缘大脑芯片。市场预计其上市时企业价值将超过1万亿韩元。Galaxy Corporation计划公布美国上市计划和海外引资战略。来源：韩国经济新闻（hankyung.com）。"
+      },
+      "es": {
+        "title": "DeepX, Galaxy Corporation y otras candidatas a IPO presentarán planes en KIW 2026",
+        "excerpt": "El 15 de mayo, último día de Korea Investment Week 2026, firmas no cotizadas como DeepX y Galaxy Corporation expondrán sus planes de IPO y estrategias de crecimiento.",
+        "body": "El 15 de mayo, último día de Korea Investment Week (KIW) 2026, destacadas empresas innovadoras no cotizadas de Corea presentarán a los inversores sus planes de oferta pública inicial (IPO). Entre las participantes figuran la startup de semiconductores de IA DeepX, Galaxy Corporation, conocida como la agencia de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion y A-Robot. DeepX busca los mercados de robots, autos inteligentes y equipos industriales con semiconductores de IA en dispositivo y tecnología NPU de muy bajo consumo. Ha colaborado con Hyundai Motor y Posco DX y logró producir en masa chips edge brain para robots. El mercado prevé que su valoración supere 1 billón de wones si sale a bolsa. Galaxy Corporation revelará su plan de cotización en EE. UU. y su estrategia para atraer inversión extranjera. Fuente: Korea Economic Daily (hankyung.com)."
+      },
+      "pt": {
+        "title": "DeepX, Galaxy Corporation e outras apostas de IPO apresentarão planos na KIW 2026",
+        "excerpt": "No dia 15 de maio, último dia da Korea Investment Week 2026, empresas inovadoras não listadas como DeepX e Galaxy Corporation apresentarão planos de IPO e crescimento.",
+        "body": "No dia 15 de maio, último dia da Korea Investment Week (KIW) 2026, importantes empresas inovadoras não listadas da Coreia apresentarão a investidores seus planos de oferta pública inicial (IPO). Entre as participantes estão a startup de semicondutores de IA DeepX, a Galaxy Corporation, conhecida como agência de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion e A-Robot. A DeepX mira os mercados de robôs, carros inteligentes e equipamentos industriais com semicondutores de IA on-device e tecnologia NPU de ultrabaixo consumo. A empresa trabalhou com Hyundai Motor e Posco DX e conseguiu produzir em massa chips edge brain para robôs. O mercado espera que seu valor corporativo ultrapasse 1 trilhão de won se for listada. A Galaxy Corporation divulgará seu plano de listagem nos EUA e sua estratégia para atrair investimento externo. Fonte: Korea Economic Daily (hankyung.com)."
+      },
+      "de": {
+        "title": "DeepX, Galaxy Corporation und weitere IPO-Kandidaten zeigen Pläne auf der KIW 2026",
+        "excerpt": "Am 15. Mai, dem letzten Tag der Korea Investment Week 2026, stellen nicht börsennotierte Innovationsfirmen wie DeepX und Galaxy Corporation IPO-Pläne und Wachstumsstrategien vor.",
+        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week (KIW) 2026, stellen führende nicht börsennotierte Innovationsunternehmen aus Korea Investoren ihre Pläne für Börsengänge vor. Dazu gehören das KI-Halbleiter-Startup DeepX, Galaxy Corporation, bekannt als Agentur von G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion und A-Robot. DeepX zielt mit On-Device-KI-Halbleitern und extrem stromsparender NPU-Technologie auf Roboter, Smart Cars und Industrieanlagen. Das Unternehmen hat mit Hyundai Motor und Posco DX zusammengearbeitet und Edge-Brain-Chips für Roboter in Serie produziert. Der Markt erwartet bei einem Börsengang eine Bewertung von über 1 Billion Won. Galaxy Corporation will Pläne für eine US-Notierung und eine Strategie zur Gewinnung ausländischer Investoren offenlegen. Quelle: Korea Economic Daily (hankyung.com)."
+      },
+      "fr": {
+        "title": "DeepX, Galaxy Corporation et d’autres candidats à l’IPO dévoileront leurs plans à KIW 2026",
+        "excerpt": "Le 15 mai, dernier jour de Korea Investment Week 2026, des sociétés innovantes non cotées comme DeepX et Galaxy Corporation présenteront leurs plans d’IPO et de croissance.",
+        "body": "Le 15 mai, dernier jour de Korea Investment Week (KIW) 2026, de grandes entreprises innovantes non cotées en Corée présenteront aux investisseurs leurs projets d’introduction en Bourse. Les participants incluent la startup de semi-conducteurs IA DeepX, Galaxy Corporation, connue comme l’agence de G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion et A-Robot. DeepX vise les marchés des robots, des voitures intelligentes et des équipements industriels grâce à des semi-conducteurs IA embarqués et à une technologie NPU à très faible consommation. Elle a collaboré avec Hyundai Motor et Posco DX et a réussi la production de masse de puces edge brain pour robots. Le marché estime que sa valorisation pourrait dépasser 1 000 milliards de wons en cas de cotation. Galaxy Corporation présentera son projet de cotation aux États-Unis et sa stratégie de levée d’investissements étrangers. Source : Korea Economic Daily (hankyung.com)."
+      },
+      "ar": {
+        "title": "ديب إكس وغالاكسي كوربوريشن وشركات IPO واعدة تكشف خططها في KIW 2026",
+        "excerpt": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار 2026، تعرض شركات ابتكار غير مدرجة مثل ديب إكس وغالاكسي كوربوريشن خطط الطرح العام واستراتيجيات النمو.",
+        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار (KIW) 2026، ستعرض شركات ابتكار كورية غير مدرجة بارزة خططها للطرح العام الأولي أمام المستثمرين. وتشمل الشركات المشاركة ديب إكس، وهي شركة ناشئة في أشباه موصلات الذكاء الاصطناعي، وغالاكسي كوربوريشن المعروفة بأنها وكالة جي دراغون، إضافة إلى هابيت فاكتوري وإليس غروب وإل بوكس وسامه ونغ أركتوريون وإيه روبوت. تستهدف ديب إكس أسواق الروبوتات والسيارات الذكية والمعدات الصناعية عبر أشباه موصلات ذكاء اصطناعي تعمل على الجهاز وتقنية NPU فائقة الانخفاض في استهلاك الطاقة. وتعاونت مع هيونداي موتور وبوسكو دي إكس ونجحت في الإنتاج الكمي لرقائق edge brain للروبوتات. ويتوقع السوق أن تتجاوز قيمتها تريليون وون عند الإدراج. أما غالاكسي كوربوريشن فستكشف خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمارات الخارجية. المصدر: Korea Economic Daily (hankyung.com)."
+      },
+      "hi": {
+        "title": "DeepX, Galaxy Corporation और अन्य IPO दावेदार KIW 2026 में लिस्टिंग रोडमैप बताएंगे",
+        "excerpt": "Korea Investment Week 2026 के अंतिम दिन 15 मई को DeepX और Galaxy Corporation जैसी गैर-सूचीबद्ध नवोन्मेषी कंपनियां IPO योजना और विकास रणनीति पेश करेंगी।",
+        "body": "Korea Investment Week (KIW) 2026 के अंतिम दिन 15 मई को कोरिया की प्रमुख गैर-सूचीबद्ध नवोन्मेषी कंपनियां निवेशकों के सामने अपनी आरंभिक सार्वजनिक पेशकश (IPO) की रूपरेखा रखेंगी। इनमें AI सेमीकंडक्टर स्टार्टअप DeepX, G-Dragon की एजेंसी के रूप में पहचानी जाने वाली Galaxy Corporation, Habit Factory, Elice Group, LBox, Samhong Arcturion और A-Robot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अत्यल्प बिजली खपत वाली NPU तकनीक के साथ रोबोट, स्मार्ट कार और औद्योगिक उपकरण बाजारों को लक्षित कर रही है। कंपनी ने Hyundai Motor और Posco DX के साथ सहयोग किया है और रोबोटों के लिए edge brain चिप का बड़े पैमाने पर उत्पादन सफल किया है। बाजार का अनुमान है कि लिस्टिंग पर इसका कॉरपोरेट मूल्य 1 ट्रिलियन वोन से अधिक हो सकता है। Galaxy Corporation अमेरिका में लिस्टिंग योजना और विदेशी निवेश आकर्षित करने की रणनीति बताएगी। स्रोत: Korea Economic Daily (hankyung.com)."
+      },
+      "id": {
+        "title": "DeepX, Galaxy Corporation dan Calon IPO Lain Akan Paparkan Rencana di KIW 2026",
+        "excerpt": "Pada 15 Mei, hari terakhir Korea Investment Week 2026, perusahaan inovatif nonpublik seperti DeepX dan Galaxy Corporation akan memaparkan rencana IPO dan strategi pertumbuhan.",
+        "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, perusahaan inovatif nonpublik terkemuka Korea akan memaparkan rencana penawaran umum perdana (IPO) kepada investor. Pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation yang dikenal sebagai agensi G-Dragon, Habit Factory, Elice Group, LBox, Samhong Arcturion, dan A-Robot. DeepX membidik pasar robot, mobil pintar, dan perangkat industri dengan semikonduktor AI on-device serta teknologi NPU berdaya sangat rendah. Perusahaan ini bekerja sama dengan Hyundai Motor dan Posco DX serta berhasil memproduksi massal chip edge brain untuk robot. Pasar memperkirakan nilai perusahaannya akan melampaui 1 triliun won jika tercatat di bursa. Galaxy Corporation akan mengungkap rencana pencatatan di AS dan strategi menarik investasi luar negeri. Sumber: Korea Economic Daily (hankyung.com)."
+      }
+    }
+  },
+  {
+    "id": "b5873e028909",
+    "slug": "stx그린로지스-썬에이스-매각-추진-113824",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T17:57:29.413Z",
+    "updatedAt": "2026-05-14T17:57:29.413Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051472611",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051472611",
+    "titleFingerprint": "cdc6841a46720641e0bc9f5ef28470a6cf7ce591",
+    "dedupKeys": [
+      "b5873e028909636129a7c5b09fc147cd4daa2c65",
+      "cdc6841a46720641e0bc9f5ef28470a6cf7ce591",
+      "01578661f09ae7fbd6a0c2b249135ee27c8c1e2b"
+    ],
+    "imageUrl": "/images/articles/b5873e028909.jpg",
+    "i18n": {
+      "ko": {
+        "title": "STX그린로지스, 썬에이스 매각 추진…해운 자회사 전략 변화 주목",
+        "excerpt": "STX그린로지스가 썬에이스 매각을 추진하는 것으로 전해졌다. 이번 사안은 해운·물류 사업 포트폴리오 조정 가능성과 향후 전략 변화에 관심을 모은다.",
+        "body": "STX그린로지스가 썬에이스 매각을 추진하는 것으로 알려졌다. 누가 매각을 진행하는지, 대상이 무엇인지는 제목에서 확인되지만 매각 시점, 가격, 인수 후보, 구체적 방식 등은 원문에 별도로 제시되지 않았다. 이번 사안은 STX그린로지스의 해운·물류 사업 운영 방향과 자산 포트폴리오 조정 가능성을 보여주는 이슈로 해석된다. 다만 현재 공개된 정보만으로는 거래 성사 여부나 재무적 영향, 향후 일정은 단정하기 어렵다. 관련 내용은 hankyung.com 보도를 인용했다."
+      },
+      "en": {
+        "title": "STX Green Logis Moves to Sell Sun Ace, Drawing Attention to Shipping Strategy",
+        "excerpt": "STX Green Logis is reportedly pursuing the sale of Sun Ace, raising attention over possible portfolio adjustments and strategic changes in its shipping and logistics business.",
+        "body": "STX Green Logis is reported to be pursuing the sale of Sun Ace. The headline identifies the seller and the asset involved, but the original information does not specify the timing, sale price, potential buyer, or detailed transaction structure. The move is therefore being viewed as an issue tied to the company’s shipping and logistics strategy and possible portfolio adjustment. Based only on the information currently provided, it is not possible to conclude whether the sale will be completed, what financial impact it may have, or what schedule may follow. This article cites hankyung.com as the source."
+      },
+      "ja": {
+        "title": "STXグリーンロジス、サンエース売却を推進…海運戦略の変化に注目",
+        "excerpt": "STXグリーンロジスがサンエースの売却を推進していると伝えられた。海運・物流事業のポートフォリオ調整や今後の戦略変化に関心が集まる。",
+        "body": "STXグリーンロジスがサンエースの売却を推進しているとされる。誰が売却を進め、対象が何であるかは見出しから確認できるが、売却時期、価格、買い手候補、具体的な方式などは原文では別途示されていない。今回の事案は、同社の海運・物流事業の運営方針や資産ポートフォリオ調整の可能性を示すものとして受け止められる。ただし、現時点で公開された情報だけでは、取引成立の可否や財務的影響、今後の日程を断定することは難しい。内容はhankyung.comの報道を引用した。"
+      },
+      "zh": {
+        "title": "STX Green Logis推进出售Sun Ace，航运业务调整受关注",
+        "excerpt": "据报道，STX Green Logis正推进出售Sun Ace。该事项引发市场对其航运与物流业务组合调整及后续战略变化的关注。",
+        "body": "据悉，STX Green Logis正在推进出售Sun Ace。标题中可以确认出售主体和出售对象，但原文并未另行披露出售时间、价格、潜在买方或具体交易方式。此次事项被视为与该公司航运及物流业务运营方向、资产组合调整可能性相关的议题。不过，仅凭目前公开的信息，尚难判断交易是否会最终完成、可能带来的财务影响以及后续时间表。本文引用hankyung.com报道。"
+      },
+      "es": {
+        "title": "STX Green Logis impulsa la venta de Sun Ace y enfoca su estrategia naviera",
+        "excerpt": "STX Green Logis estaría impulsando la venta de Sun Ace, un movimiento que centra la atención en posibles ajustes de cartera y cambios estratégicos en logística marítima.",
+        "body": "STX Green Logis estaría impulsando la venta de Sun Ace. El titular permite identificar quién promueve la operación y cuál es el activo involucrado, pero la información original no detalla el momento de la venta, el precio, posibles compradores ni la estructura concreta de la transacción. Por ello, el asunto se interpreta como un tema vinculado a la dirección operativa del negocio marítimo y logístico de la compañía y a una posible revisión de su cartera de activos. Con la información disponible, no es posible afirmar si la operación se concretará, qué impacto financiero tendría ni cuál sería el calendario. La fuente citada es hankyung.com."
+      },
+      "pt": {
+        "title": "STX Green Logis avança com venda da Sun Ace e chama atenção no setor naval",
+        "excerpt": "A STX Green Logis estaria avançando com a venda da Sun Ace, trazendo foco a possíveis ajustes de portfólio e mudanças estratégicas em transporte marítimo e logística.",
+        "body": "A STX Green Logis estaria avançando com a venda da Sun Ace. O título permite identificar quem conduz a venda e qual é o ativo envolvido, mas a informação original não apresenta o momento da transação, o preço, potenciais compradores nem a estrutura detalhada do negócio. O caso é visto como um tema ligado à direção operacional da companhia em transporte marítimo e logística e à possível revisão de seu portfólio de ativos. Com base apenas nas informações atualmente disponíveis, não é possível concluir se a venda será concluída, qual será o impacto financeiro ou qual cronograma poderá ser seguido. A fonte citada é hankyung.com."
+      },
+      "de": {
+        "title": "STX Green Logis treibt Verkauf von Sun Ace voran, Fokus auf Schifffahrtsstrategie",
+        "excerpt": "STX Green Logis soll den Verkauf von Sun Ace vorantreiben. Der Schritt lenkt den Blick auf mögliche Portfolioanpassungen und strategische Änderungen im Schifffahrts- und Logistikgeschäft.",
+        "body": "STX Green Logis soll den Verkauf von Sun Ace vorantreiben. Aus der Überschrift gehen der Verkäufer und der betroffene Vermögenswert hervor, doch die ursprünglichen Angaben nennen keinen Zeitpunkt, keinen Preis, keine potenziellen Käufer und keine konkrete Transaktionsstruktur. Der Vorgang wird daher als Thema im Zusammenhang mit der Ausrichtung des Schifffahrts- und Logistikgeschäfts sowie einer möglichen Anpassung des Asset-Portfolios des Unternehmens gesehen. Auf Grundlage der derzeit verfügbaren Informationen lässt sich nicht feststellen, ob die Transaktion abgeschlossen wird, welche finanziellen Folgen sie hätte oder welcher Zeitplan gilt. Quelle ist hankyung.com."
+      },
+      "fr": {
+        "title": "STX Green Logis prépare la vente de Sun Ace, sa stratégie maritime surveillée",
+        "excerpt": "STX Green Logis préparerait la vente de Sun Ace, ce qui attire l’attention sur de possibles ajustements de portefeuille et sur l’évolution de sa stratégie maritime et logistique.",
+        "body": "STX Green Logis préparerait la vente de Sun Ace. Le titre permet d’identifier l’entreprise qui mène l’opération et l’actif concerné, mais l’information d’origine ne précise pas le calendrier, le prix, les acheteurs potentiels ni la structure détaillée de la transaction. Le dossier est donc considéré comme lié à l’orientation des activités maritimes et logistiques de la société ainsi qu’à une possible révision de son portefeuille d’actifs. À partir des seules informations actuellement disponibles, il n’est pas possible de conclure si la vente aboutira, quel serait son impact financier ou quel calendrier serait retenu. La source citée est hankyung.com."
+      },
+      "ar": {
+        "title": "STX Green Logis تمضي في بيع Sun Ace وسط ترقب لاستراتيجية الشحن",
+        "excerpt": "تتجه STX Green Logis إلى دفع عملية بيع Sun Ace، ما يسلط الضوء على احتمال تعديل محفظة أصولها وتغيرات في استراتيجية الشحن والخدمات اللوجستية.",
+        "body": "تفيد المعلومات بأن STX Green Logis تمضي في دفع عملية بيع Sun Ace. يوضح العنوان الجهة التي تسعى إلى البيع والأصل المستهدف، لكن النص الأصلي لا يذكر موعد البيع أو السعر أو المشترين المحتملين أو الهيكل التفصيلي للصفقة. لذلك ينظر إلى المسألة على أنها مرتبطة باتجاه أعمال الشركة في الشحن والخدمات اللوجستية وباحتمال تعديل محفظة الأصول. وبناء على المعلومات المتاحة حاليا فقط، لا يمكن الجزم بما إذا كانت الصفقة ستكتمل أو ما سيكون أثرها المالي أو جدولها الزمني. يستند هذا النص إلى تقرير hankyung.com."
+      },
+      "hi": {
+        "title": "STX Green Logis ने Sun Ace बिक्री की पहल की, शिपिंग रणनीति पर नजर",
+        "excerpt": "STX Green Logis कथित तौर पर Sun Ace की बिक्री आगे बढ़ा रही है। इससे उसके शिपिंग और लॉजिस्टिक्स कारोबार में पोर्टफोलियो बदलाव और रणनीतिक दिशा पर ध्यान गया है।",
+        "body": "STX Green Logis कथित तौर पर Sun Ace की बिक्री को आगे बढ़ा रही है। शीर्षक से यह स्पष्ट होता है कि बिक्री कौन कर रहा है और लक्ष्य संपत्ति क्या है, लेकिन मूल सूचना में बिक्री का समय, कीमत, संभावित खरीदार या सौदे की विस्तृत संरचना नहीं दी गई है। इसलिए इस मामले को कंपनी के शिपिंग और लॉजिस्टिक्स कारोबार की संचालन दिशा तथा परिसंपत्ति पोर्टफोलियो में संभावित समायोजन से जुड़ा मुद्दा माना जा रहा है। फिलहाल उपलब्ध जानकारी के आधार पर यह निष्कर्ष नहीं निकाला जा सकता कि सौदा पूरा होगा या नहीं, उसका वित्तीय असर क्या होगा या आगे की समयसीमा क्या रहेगी। स्रोत hankyung.com है।"
+      },
+      "id": {
+        "title": "STX Green Logis Dorong Penjualan Sun Ace, Strategi Pelayaran Jadi Sorotan",
+        "excerpt": "STX Green Logis disebut mendorong penjualan Sun Ace. Langkah ini menarik perhatian pada kemungkinan penyesuaian portofolio dan perubahan strategi bisnis pelayaran serta logistik.",
+        "body": "STX Green Logis disebut sedang mendorong penjualan Sun Ace. Judul tersebut mengidentifikasi pihak yang menjual dan aset yang menjadi objek transaksi, tetapi informasi asli tidak menjelaskan waktu penjualan, harga, calon pembeli, atau struktur transaksi secara rinci. Karena itu, isu ini dipandang terkait dengan arah operasi bisnis pelayaran dan logistik perusahaan serta kemungkinan penyesuaian portofolio aset. Berdasarkan informasi yang tersedia saat ini saja, belum dapat dipastikan apakah transaksi akan selesai, seperti apa dampak finansialnya, atau bagaimana jadwal berikutnya. Artikel ini mengutip hankyung.com sebagai sumber."
+      }
+    }
+  },
+  {
+    "id": "c9299ad43138",
+    "slug": "하워드-막스-ai-경쟁-과열최후의-승자-예측-어렵다-122978",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T17:56:24.937Z",
+    "updatedAt": "2026-05-14T17:56:24.937Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051473431",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051473431",
+    "titleFingerprint": "64300950fd38db6c5bc805d41ef2de8b1cc13014",
+    "dedupKeys": [
+      "c9299ad43138a2b130ca71f71e137353accc551a",
+      "64300950fd38db6c5bc805d41ef2de8b1cc13014",
+      "46ef76e5a0ff8f6fd19c67c1f646994a3b0fb83b"
+    ],
+    "imageUrl": "/images/articles/c9299ad43138.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 경쟁 과열 경고한 하워드 막스, 최후 승자 예측 어렵다",
+        "excerpt": "하워드 막스 오크트리캐피털 회장은 14일 서울 KIW 2026에서 AI 기업 투자는 복권과 같아 최종 승자 예측이 어렵다며 무리한 추격 투자를 경계해야 한다고 말했다.",
+        "body": "하워드 막스 오크트리캐피털 회장은 14일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 AI 기업 투자를 복권에 비유하며 최종 승자를 예측하기 어렵다고 말했다. 그는 AI 산업의 성장 가능성은 크지만 기업이 실제 이익을 얼마나 낼지 확인되기 전까지 현재 열광이 비합리적 과열인지 판단할 수 없다고 했다. 올 하반기 오픈AI와 앤스로픽 등 초대형 AI 기업의 IPO는 투자심리를 가늠할 지표로 제시됐다. 막스 회장은 아마존과 마이크로소프트 같은 하이퍼스케일러가 AI 주도권을 놓고 군비 경쟁을 벌이고 있다며, 승자 독식 구조에서도 가격 경쟁이 심하면 누구도 큰돈을 벌지 못할 수 있다고 지적했다. 다만 AI로 생산성과 효율성, 제품·서비스 질을 높이는 기업을 찾는다면 성과를 낼 수 있다고 덧붙였다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Howard Marks Warns AI Race Is Overheated as Final Winners Remain Hard to Pick",
+        "excerpt": "Howard Marks said at KIW 2026 in Seoul on May 14 that investing in AI companies is like buying lottery tickets, warning investors against chasing the sector before clear winners emerge.",
+        "body": "Howard Marks, chairman of Oaktree Capital, said on May 14 at Korea Investment Week (KIW) 2026 at The Shilla Seoul that investing in AI companies is like buying lottery tickets because the ultimate winners are hard to predict. He said the AI industry has strong growth potential, but investors cannot know whether today’s enthusiasm is irrational exuberance until companies prove how much profit they can generate. He pointed to IPOs expected in the second half from major AI companies such as OpenAI and Anthropic as key signals for investor sentiment. Marks said hyperscalers including Amazon and Microsoft are effectively in an arms race for AI leadership, and even in a winner-take-all market, aggressive price cuts could leave no one making much money. Still, he said companies that use AI to improve productivity, efficiency, and the quality of products and services could deliver good results. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AI競争の過熱を警告したハワード・マークス、最終勝者の予測は困難",
+        "excerpt": "ハワード・マークス氏は5月14日、ソウルのKIW 2026でAI企業への投資は宝くじのようなものだと述べ、最終勝者が見えない中での追随投資に警鐘を鳴らした。",
+        "body": "オークツリー・キャピタルのハワード・マークス会長は5月14日、ソウル新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、AI企業への投資を宝くじに例え、最終的な勝者を予測するのは難しいと述べた。AI産業の成長余地は大きいが、企業が実際にどれほど利益を生み出すか確認されるまでは、現在の熱狂が非合理的な過熱かどうか判断できないという。下半期に見込まれるOpenAIやAnthropicなど大型AI企業のIPOは、投資心理を測る重要な指標になるとした。マークス氏は、AmazonやMicrosoftのようなハイパースケーラーがAIの主導権をめぐり事実上の軍拡競争を繰り広げていると指摘。勝者総取りの構図になっても、価格競争が激しければ誰も大きな利益を得られない可能性があると述べた。一方で、AIで生産性や効率、製品・サービスの質を高める企業を見つければ成果を得られる可能性があると付け加えた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "霍华德·马克斯警示AI竞争过热，最终赢家仍难预测",
+        "excerpt": "橡树资本董事长霍华德·马克斯5月14日在首尔KIW 2026表示，投资AI企业如同购买彩票，最终赢家难以判断，投资者应警惕盲目追高。",
+        "body": "橡树资本董事长霍华德·马克斯5月14日在首尔新罗酒店举行的韩国投资周（KIW）2026上表示，投资AI企业就像购买彩票，因为很难预测谁会成为最终赢家。他指出，AI产业具备很大的增长潜力，但在企业实际能够创造多少利润得到验证之前，无法判断当前热潮是否属于非理性过热。他认为，下半年OpenAI、Anthropic等大型AI企业的IPO将成为观察投资情绪的重要指标。马克斯还表示，亚马逊和微软等超大规模云服务企业正在为争夺AI主导权展开事实上的军备竞赛；即便形成赢家通吃格局，如果企业竞相降价，也可能没有谁能赚到很多钱。不过，他补充说，若能找到通过AI提升生产率、效率以及产品和服务质量的企业，仍可能取得良好成果。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Howard Marks advierte sobre el exceso en la carrera de IA y ve difícil elegir ganadores",
+        "excerpt": "Howard Marks dijo el 14 de mayo en KIW 2026, en Seúl, que invertir en empresas de IA es como comprar lotería y pidió cautela ante compras impulsivas sin ganadores claros.",
+        "body": "Howard Marks, presidente de Oaktree Capital, dijo el 14 de mayo en Korea Investment Week (KIW) 2026, celebrada en el hotel Shilla de Seúl, que invertir en empresas de inteligencia artificial es como comprar billetes de lotería, porque resulta difícil prever quién será el ganador final. Señaló que la industria de IA tiene gran potencial de crecimiento, pero que no puede saberse si el entusiasmo actual es una exuberancia irracional hasta comprobar cuántos beneficios generan realmente las compañías. Indicó que las salidas a bolsa previstas en la segunda mitad del año de grandes empresas de IA como OpenAI y Anthropic serán una referencia clave para medir el ánimo inversor. Marks añadió que hiperescaladores como Amazon y Microsoft compiten por el liderazgo en IA en una especie de carrera armamentista. Incluso en una estructura de ganador único, una fuerte competencia de precios podría impedir que alguien gane mucho dinero. Aun así, dijo que las empresas que usen IA para elevar productividad, eficiencia y calidad de productos y servicios podrían lograr buenos resultados. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Howard Marks alerta para corrida aquecida em IA e vê difícil prever vencedores finais",
+        "excerpt": "Howard Marks afirmou em 14 de maio, na KIW 2026 em Seul, que investir em empresas de IA se parece com comprar loteria e alertou contra apostas de perseguição sem vencedores definidos.",
+        "body": "Howard Marks, presidente da Oaktree Capital, disse em 14 de maio, durante a Korea Investment Week (KIW) 2026 no hotel Shilla, em Seul, que investir em empresas de inteligência artificial é como comprar bilhetes de loteria, pois é difícil prever quem será o vencedor final. Ele afirmou que a indústria de IA tem grande potencial de crescimento, mas que não é possível saber se o entusiasmo atual é uma exuberância irracional até que as empresas comprovem quanto lucro conseguem gerar. Marks apontou os IPOs esperados no segundo semestre de grandes companhias de IA, como OpenAI e Anthropic, como indicadores importantes do sentimento dos investidores. Ele disse que hiperescaladores como Amazon e Microsoft travam praticamente uma corrida armamentista pela liderança em IA. Mesmo em uma estrutura de vencedor leva tudo, uma disputa intensa por preços pode fazer com que ninguém ganhe muito dinheiro. Ainda assim, acrescentou que empresas capazes de usar IA para elevar produtividade, eficiência e qualidade de produtos e serviços podem entregar bons resultados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Howard Marks warnt vor überhitztem KI-Wettlauf und schwer vorhersehbaren Gewinnern",
+        "excerpt": "Howard Marks sagte am 14. Mai auf der KIW 2026 in Seoul, Investitionen in KI-Firmen glichen einer Lotterie, und warnte vor übereilten Käufen ohne erkennbare Endgewinner.",
+        "body": "Howard Marks, Chairman von Oaktree Capital, sagte am 14. Mai auf der Korea Investment Week (KIW) 2026 im Shilla Hotel in Seoul, Investitionen in KI-Unternehmen seien wie der Kauf von Lotterielosen, weil der endgültige Gewinner schwer vorherzusagen sei. Die KI-Branche habe großes Wachstumspotenzial, doch ob die aktuelle Begeisterung eine irrationale Überhitzung sei, lasse sich erst beurteilen, wenn klar werde, wie viel Gewinn die Unternehmen tatsächlich erzielen. Die für die zweite Jahreshälfte erwarteten Börsengänge großer KI-Unternehmen wie OpenAI und Anthropic nannte er wichtige Indikatoren für die Anlegerstimmung. Marks sagte, Hyperscaler wie Amazon und Microsoft lieferten sich um die KI-Führungsrolle faktisch ein Wettrüsten. Selbst wenn sich eine Winner-takes-all-Struktur herausbilde, könne harter Preiswettbewerb dazu führen, dass niemand viel Geld verdient. Unternehmen, die mit KI Produktivität, Effizienz sowie die Qualität von Produkten und Dienstleistungen verbessern, könnten jedoch gute Ergebnisse erzielen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Howard Marks alerte sur la surchauffe de l’IA et des gagnants finaux difficiles à prévoir",
+        "excerpt": "Howard Marks a déclaré le 14 mai à la KIW 2026 de Séoul qu’investir dans les sociétés d’IA ressemble à une loterie et a appelé à éviter les achats de poursuite sans gagnants clairs.",
+        "body": "Howard Marks, président d’Oaktree Capital, a déclaré le 14 mai lors de la Korea Investment Week (KIW) 2026, à l’hôtel Shilla de Séoul, qu’investir dans les entreprises d’intelligence artificielle revient à acheter des billets de loterie, car il est difficile de prédire les gagnants finaux. Il a dit que le secteur de l’IA possède un fort potentiel de croissance, mais qu’il sera impossible de savoir si l’enthousiasme actuel est une exubérance irrationnelle tant que les bénéfices réels des entreprises ne seront pas confirmés. Les introductions en Bourse attendues au second semestre de grandes sociétés d’IA comme OpenAI et Anthropic serviront, selon lui, d’indicateurs importants du sentiment des investisseurs. Marks a ajouté que des hyperscalers tels qu’Amazon et Microsoft se livrent à une véritable course aux armements pour dominer l’IA. Même dans un marché où le gagnant rafle tout, une forte concurrence sur les prix pourrait empêcher quiconque de gagner beaucoup d’argent. Il a toutefois souligné que les entreprises utilisant l’IA pour améliorer productivité, efficacité et qualité des produits et services pourraient obtenir de bons résultats. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "هوارد ماركس يحذر من سخونة سباق الذكاء الاصطناعي وصعوبة توقع الفائز النهائي",
+        "excerpt": "قال هوارد ماركس في 14 مايو خلال KIW 2026 في سول إن الاستثمار في شركات الذكاء الاصطناعي يشبه شراء تذاكر اليانصيب، محذرا من ملاحقة القطاع قبل اتضاح الفائزين.",
+        "body": "قال هوارد ماركس، رئيس أوكتري كابيتال، في 14 مايو خلال أسبوع كوريا للاستثمار KIW 2026 في فندق شيلا بسول، إن الاستثمار في شركات الذكاء الاصطناعي يشبه شراء تذاكر اليانصيب لأن توقع الفائز النهائي صعب. وأوضح أن صناعة الذكاء الاصطناعي تملك إمكانات نمو كبيرة، لكن لا يمكن الحكم على ما إذا كانت الحماسة الحالية تمثل سخونة غير عقلانية قبل التأكد من حجم الأرباح التي تستطيع الشركات تحقيقها فعليا. واعتبر أن الطروحات العامة المتوقعة في النصف الثاني لشركات كبرى مثل OpenAI وAnthropic ستكون مؤشرا مهما على معنويات المستثمرين. وقال ماركس إن شركات الحوسبة السحابية العملاقة مثل أمازون ومايكروسوفت تخوض عمليا سباق تسلح للسيطرة على الذكاء الاصطناعي. وحتى إذا تشكل سوق يفوز فيه لاعب واحد بمعظم المكاسب، فإن المنافسة الشديدة على الأسعار قد تجعل الجميع عاجزين عن تحقيق أرباح كبيرة. لكنه أضاف أن الشركات التي تستخدم الذكاء الاصطناعي لرفع الإنتاجية والكفاءة وجودة المنتجات والخدمات قد تحقق نتائج جيدة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "हॉवर्ड मार्क्स ने AI दौड़ की गर्मी पर चेताया, अंतिम विजेता का अनुमान कठिन",
+        "excerpt": "हॉवर्ड मार्क्स ने 14 मई को सियोल में KIW 2026 में कहा कि AI कंपनियों में निवेश लॉटरी जैसा है और स्पष्ट विजेता सामने आने से पहले पीछा कर निवेश करने से सावधान रहना चाहिए।",
+        "body": "ओकट्री कैपिटल के चेयरमैन हॉवर्ड मार्क्स ने 14 मई को सियोल के शिला होटल में आयोजित Korea Investment Week (KIW) 2026 में कहा कि AI कंपनियों में निवेश लॉटरी खरीदने जैसा है, क्योंकि अंतिम विजेता का अनुमान लगाना कठिन है। उन्होंने कहा कि AI उद्योग में वृद्धि की बड़ी संभावना है, लेकिन कंपनियां वास्तव में कितना लाभ कमा सकती हैं, यह स्पष्ट होने से पहले मौजूदा उत्साह को गैर-तार्किक अति-उत्साह कहना संभव नहीं है। उन्होंने दूसरी छमाही में OpenAI और Anthropic जैसी बड़ी AI कंपनियों के संभावित IPO को निवेशक मनोभाव समझने का अहम संकेतक बताया। मार्क्स ने कहा कि Amazon और Microsoft जैसे हाइपरस्केलर AI नेतृत्व के लिए लगभग हथियारों की दौड़ में हैं। यदि विजेता-सब-कुछ ले जाने वाली संरचना बने, तब भी तीव्र मूल्य प्रतिस्पर्धा से कोई भी बहुत अधिक पैसा नहीं कमा सकता। हालांकि, उन्होंने जोड़ा कि AI के जरिए उत्पादकता, दक्षता और उत्पादों व सेवाओं की गुणवत्ता बढ़ाने वाली कंपनियां अच्छे नतीजे दे सकती हैं। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Howard Marks Peringatkan Persaingan AI Memanas, Pemenang Akhir Sulit Diprediksi",
+        "excerpt": "Howard Marks pada 14 Mei di KIW 2026 Seoul mengatakan investasi di perusahaan AI seperti membeli lotre, sehingga investor perlu berhati-hati mengejar sektor ini sebelum pemenang jelas.",
+        "body": "Howard Marks, chairman Oaktree Capital, mengatakan pada 14 Mei dalam Korea Investment Week (KIW) 2026 di Hotel Shilla Seoul bahwa investasi di perusahaan kecerdasan buatan seperti membeli tiket lotre, karena pemenang akhirnya sulit diprediksi. Ia mengatakan industri AI memiliki potensi pertumbuhan besar, tetapi antusiasme saat ini belum bisa dinilai sebagai euforia tidak rasional sebelum terlihat berapa besar laba yang benar-benar dapat dihasilkan perusahaan. Ia menyebut IPO yang diperkirakan berlangsung pada paruh kedua tahun ini dari perusahaan AI besar seperti OpenAI dan Anthropic sebagai indikator penting untuk membaca sentimen investor. Marks mengatakan hyperscaler seperti Amazon dan Microsoft pada dasarnya sedang menjalani perlombaan senjata untuk memimpin AI. Bahkan dalam struktur winner-take-all, persaingan harga yang agresif bisa membuat tidak ada pihak yang menghasilkan banyak uang. Namun, perusahaan yang memakai AI untuk meningkatkan produktivitas, efisiensi, serta kualitas produk dan layanan tetap berpeluang mencatat hasil baik. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "efd7af8092a1",
     "slug": "美국채월가-빌딩도-소액투자-블랙록골드만이-꽂힌-rwa-396698",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Cetak Rekor, Asing Jual Bersih 24 Triliun Won dalam 5 Sesi",
         "excerpt": "Saat KOSPI mencetak level tertinggi sepanjang masa, investor asing mencatat jual bersih 24 triliun won di bursa Korea Selatan selama lima sesi terakhir, memicu perhatian pada volatilitas.",
         "body": "KOSPI mencetak rekor tertinggi sepanjang masa di tengah pasar yang menguat, tetapi investor asing membukukan jual bersih dalam lima sesi perdagangan terakhir berturut-turut di pasar saham Korea Selatan. Menurut artikel asli, selama periode itu nilai jual melebihi beli, dengan jumlah jual bersih disebut sebesar 24 triliun won. Tekanan jual besar yang muncul saat indeks menembus rekor baru meningkatkan volatilitas pasar. Investor menilai beragam apakah langkah tersebut merupakan aksi ambil untung atau sinyal level puncak. Kalangan sekuritas mencermati perubahan arus dana asing sebagai faktor yang dapat memperbesar pergerakan jangka pendek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "221385936786",
-    "slug": "세기의-담판-나서는-트럼프-시진핑수혜주와-피해주는-908091",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T23:48:04.579Z",
-    "updatedAt": "2026-05-13T23:48:04.579Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605145226i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605145226i",
-    "titleFingerprint": "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
-    "dedupKeys": [
-      "2213859367869e4c8aca471810e4291c62f2f35e",
-      "bc9c0ea3e6af2a604429a6e0f838cecd75370098",
-      "c90f84ba937ba95ba5372e3e08983c200d88e7a9"
-    ],
-    "imageUrl": "/images/articles/221385936786.jpg",
-    "i18n": {
-      "ko": {
-        "title": "트럼프-시진핑 베이징 담판, 관세·대만·AI칩 변수에 수혜·피해주 촉각",
-        "excerpt": "도널드 트럼프 미국 대통령은 5월 13일 베이징에 도착해 14일 시진핑 중국 국가주석과 정상회담을 열고 관세, 대만, 이란, 반도체 수출 통제 등을 논의한다.",
-        "body": "도널드 트럼프 미국 대통령이 5월 13일 중국 베이징에 도착해 2박 3일 국빈 방문을 시작했다. 트럼프 대통령은 14일 오전 베이징 인민대회당에서 시진핑 중국 국가주석과 정상회담을 한다. 미국 대통령의 중국 방문은 2017년 11월 이후 9년 만이며, 두 정상의 대면은 지난해 10월 부산 회담 이후 약 6개월 만이다. 회담 의제는 무역·관세, 대만, 이란, 중국의 희토류 공급 통제, 미국의 첨단 반도체 수출 통제다. 젠슨 황 엔비디아 CEO가 일정에 합류하면서 H200 AI 칩의 중국 공급 여부도 변수로 떠올랐다. 다만 원문은 특정 수혜주와 피해주를 단정하지 않았다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Trump-Xi Beijing Summit Puts Tariffs, Taiwan and AI Chip Stocks in Focus",
-        "excerpt": "U.S. President Donald Trump arrived in Beijing on May 13 and will meet Chinese President Xi Jinping on May 14 to discuss tariffs, Taiwan, Iran and semiconductor export controls.",
-        "body": "U.S. President Donald Trump arrived in Beijing on May 13 for a two-night, three-day state visit to China. He is scheduled to meet Chinese President Xi Jinping on the morning of May 14 at the Great Hall of the People. It is the first visit to China by a U.S. president since November 2017, and the two leaders are meeting about six months after their October summit in Busan. The agenda includes trade and tariffs, Taiwan, Iran, China’s rare earth supply controls and U.S. export controls on advanced semiconductors. Nvidia CEO Jensen Huang’s late addition to the trip has also made H200 AI chip access to China a market variable. The original article did not name definite winners or losers among stocks. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "トランプ・習近平の北京会談、関税・台湾・AI半導体株に市場注目",
-        "excerpt": "トランプ米大統領は5月13日に北京へ到着し、14日に習近平国家主席と会談して関税、台湾、イラン、半導体輸出規制を協議する予定だ。",
-        "body": "ドナルド・トランプ米大統領は5月13日、中国・北京に到着し、2泊3日の国賓訪問を開始した。トランプ氏は14日午前、北京の人民大会堂で習近平国家主席と首脳会談を行う。米大統領の中国訪問は2017年11月以来9年ぶりで、両首脳の対面は昨年10月の釜山会談から約6カ月ぶりとなる。議題は貿易・関税、台湾、イラン、中国のレアアース供給規制、米国の先端半導体輸出規制だ。エヌビディアのジェンスン・フアンCEOが日程に合流したことで、H200 AIチップの中国供給も市場の変数になった。ただし原文は具体的な恩恵銘柄や打撃銘柄を断定していない。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "特朗普习近平北京会谈在即，关税、台湾与AI芯片股受关注",
-        "excerpt": "美国总统特朗普5月13日抵达北京，将于14日会见中国国家主席习近平，讨论关税、台湾、伊朗及半导体出口管制等议题。",
-        "body": "美国总统唐纳德·特朗普5月13日抵达北京，开始对中国进行为期三天两夜的国事访问。特朗普将于14日上午在北京人民大会堂同中国国家主席习近平举行会谈。这是美国总统自2017年11月以来时隔9年再次访华，也是两位领导人继去年10月釜山会谈后约6个月再次面对面会晤。议题包括贸易与关税、台湾、伊朗、中国稀土供应管制以及美国先进半导体出口管制。英伟达首席执行官黄仁勋临时加入访问行程，使H200 AI芯片能否供应中国成为市场变量。不过，原文并未明确点名受益股或受损股。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Cumbre Trump-Xi en Pekín centra la atención en aranceles, Taiwán y chips IA",
-        "excerpt": "Donald Trump llegó a Pekín el 13 de mayo y se reunirá el 14 con Xi Jinping para tratar aranceles, Taiwán, Irán y controles de exportación de semiconductores.",
-        "body": "El presidente de Estados Unidos, Donald Trump, llegó a Pekín el 13 de mayo para iniciar una visita de Estado de tres días y dos noches a China. Trump se reunirá la mañana del 14 de mayo con el presidente chino, Xi Jinping, en el Gran Palacio del Pueblo. Es la primera visita de un presidente estadounidense a China desde noviembre de 2017, y el encuentro entre ambos líderes llega unos seis meses después de su cumbre de octubre en Busan. La agenda incluye comercio y aranceles, Taiwán, Irán, los controles chinos sobre tierras raras y las restricciones estadounidenses a la exportación de semiconductores avanzados. La incorporación de Jensen Huang, CEO de Nvidia, también convirtió el suministro del chip H200 de IA a China en una variable del mercado. El texto original no identificó ganadores ni perdedores bursátiles concretos. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Encontro Trump-Xi em Pequim põe tarifas, Taiwan e chips de IA no radar",
-        "excerpt": "Donald Trump chegou a Pequim em 13 de maio e se reunirá com Xi Jinping no dia 14 para discutir tarifas, Taiwan, Irã e controles sobre exportações de semicondutores.",
-        "body": "O presidente dos Estados Unidos, Donald Trump, chegou a Pequim em 13 de maio para iniciar uma visita de Estado de três dias e duas noites à China. Trump deve se reunir na manhã de 14 de maio com o presidente chinês, Xi Jinping, no Grande Salão do Povo. É a primeira visita de um presidente americano à China desde novembro de 2017, e o encontro ocorre cerca de seis meses após a reunião entre os dois líderes em Busan, em outubro passado. A pauta inclui comércio e tarifas, Taiwan, Irã, controles chineses sobre terras raras e restrições dos EUA à exportação de semicondutores avançados. A entrada de Jensen Huang, CEO da Nvidia, na comitiva também tornou o fornecimento do chip H200 de IA à China uma variável de mercado. O texto original não apontou ações vencedoras ou perdedoras específicas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Trump-Xi-Gipfel in Peking rückt Zölle, Taiwan und KI-Chip-Aktien in den Fokus",
-        "excerpt": "Donald Trump traf am 13. Mai in Peking ein und will am 14. Mai mit Xi Jinping über Zölle, Taiwan, Iran und Exportkontrollen für Halbleiter sprechen.",
-        "body": "US-Präsident Donald Trump ist am 13. Mai in Peking eingetroffen und hat einen dreitägigen Staatsbesuch in China begonnen. Am Morgen des 14. Mai soll er Xi Jinping in der Großen Halle des Volkes treffen. Es ist der erste China-Besuch eines US-Präsidenten seit November 2017; zugleich kommen die beiden Staatschefs rund sechs Monate nach ihrem Treffen in Busan im vergangenen Oktober erneut zusammen. Auf der Agenda stehen Handel und Zölle, Taiwan, Iran, Chinas Kontrollen bei Seltenen Erden sowie US-Ausfuhrbeschränkungen für moderne Halbleiter. Dass Nvidia-Chef Jensen Huang der Reise kurzfristig beitrat, machte auch mögliche H200-KI-Chip-Lieferungen nach China zu einem Marktfaktor. Der Originalartikel nannte jedoch keine konkreten Gewinner- oder Verliereraktien. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Sommet Trump-Xi à Pékin : droits de douane, Taïwan et puces IA sous surveillance",
-        "excerpt": "Donald Trump est arrivé à Pékin le 13 mai et doit rencontrer Xi Jinping le 14 pour discuter des droits de douane, de Taïwan, de l’Iran et des contrôles sur les semi-conducteurs.",
-        "body": "Le président américain Donald Trump est arrivé à Pékin le 13 mai pour une visite d’État de trois jours et deux nuits en Chine. Il doit rencontrer le président chinois Xi Jinping le matin du 14 mai au Grand Palais du Peuple. Il s’agit de la première visite d’un président américain en Chine depuis novembre 2017, et de leur première rencontre en face à face depuis environ six mois, après le sommet de Busan en octobre dernier. Les sujets attendus sont le commerce et les droits de douane, Taïwan, l’Iran, les contrôles chinois sur les terres rares et les restrictions américaines à l’exportation de semi-conducteurs avancés. L’arrivée de Jensen Huang, patron de Nvidia, dans la délégation a aussi fait de l’accès de la Chine à la puce IA H200 une variable de marché. L’article original ne désigne pas d’actions gagnantes ou perdantes précises. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "قمة ترامب وشي في بكين تضع الرسوم وتايوان ورقائق الذكاء الاصطناعي تحت المجهر",
-        "excerpt": "وصل الرئيس الأميركي دونالد ترامب إلى بكين في 13 مايو، ويلتقي شي جين بينغ في 14 مايو لبحث الرسوم الجمركية وتايوان وإيران وضوابط تصدير أشباه الموصلات.",
-        "body": "وصل الرئيس الأميركي دونالد ترامب إلى بكين في 13 مايو، وبدأ زيارة دولة إلى الصين تستمر يومين وثلاثة أيام. ومن المقرر أن يلتقي ترامب الرئيس الصيني شي جين بينغ صباح 14 مايو في قاعة الشعب الكبرى في بكين. وتعد هذه أول زيارة لرئيس أميركي إلى الصين منذ نوفمبر 2017، كما يأتي اللقاء بعد نحو ستة أشهر من قمة الزعيمين في بوسان في أكتوبر الماضي. وتشمل الملفات المطروحة التجارة والرسوم الجمركية وتايوان وإيران، إضافة إلى قيود الصين على إمدادات المعادن النادرة وضوابط الولايات المتحدة على تصدير أشباه الموصلات المتقدمة. كما جعل انضمام جنسن هوانغ، الرئيس التنفيذي لإنفيديا، ملف توريد شريحة H200 للذكاء الاصطناعي إلى الصين عاملا مؤثرا في السوق. ولم يحدد النص الأصلي أسهما رابحة أو خاسرة بعينها. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "ट्रंप-शी बीजिंग वार्ता में टैरिफ, ताइवान और AI चिप शेयरों पर बाजार की नजर",
-        "excerpt": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 13 मई को बीजिंग पहुंचे और 14 मई को शी जिनपिंग से टैरिफ, ताइवान, ईरान और सेमीकंडक्टर निर्यात नियंत्रण पर बातचीत करेंगे।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप 13 मई को बीजिंग पहुंचे और चीन की दो रात, तीन दिन की राजकीय यात्रा शुरू की। ट्रंप 14 मई की सुबह बीजिंग के ग्रेट हॉल ऑफ द पीपल में चीनी राष्ट्रपति शी जिनपिंग से मुलाकात करेंगे। किसी अमेरिकी राष्ट्रपति की चीन यात्रा नवंबर 2017 के बाद 9 वर्षों में पहली है, जबकि दोनों नेताओं की आमने-सामने बैठक पिछले अक्टूबर में बुसान वार्ता के करीब छह महीने बाद हो रही है। एजेंडे में व्यापार और टैरिफ, ताइवान, ईरान, चीन के रेयर अर्थ आपूर्ति नियंत्रण और अमेरिका के उन्नत सेमीकंडक्टर निर्यात नियंत्रण शामिल हैं। Nvidia के CEO जेन्सेन हुआंग के यात्रा कार्यक्रम में शामिल होने से H200 AI चिप की चीन आपूर्ति भी बाजार का अहम कारक बन गई है। मूल लेख ने किसी खास लाभार्थी या प्रभावित शेयर का नाम निश्चित रूप से नहीं दिया। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "KTT Trump-Xi di Beijing Sorot Tarif, Taiwan, Iran dan Saham Chip AI",
-        "excerpt": "Donald Trump tiba di Beijing pada 13 Mei dan akan bertemu Xi Jinping pada 14 Mei untuk membahas tarif, Taiwan, Iran, serta kontrol ekspor semikonduktor.",
-        "body": "Presiden Amerika Serikat Donald Trump tiba di Beijing pada 13 Mei untuk memulai kunjungan kenegaraan selama tiga hari dua malam ke China. Trump dijadwalkan bertemu Presiden China Xi Jinping pada pagi 14 Mei di Balai Agung Rakyat, Beijing. Ini merupakan kunjungan pertama presiden AS ke China sejak November 2017, dan pertemuan tatap muka kedua pemimpin terjadi sekitar enam bulan setelah KTT mereka di Busan pada Oktober lalu. Agenda pembicaraan mencakup perdagangan dan tarif, Taiwan, Iran, kontrol pasokan logam tanah jarang China, serta pembatasan ekspor semikonduktor canggih oleh AS. Bergabungnya CEO Nvidia Jensen Huang dalam agenda kunjungan juga membuat pasokan chip AI H200 ke China menjadi variabel pasar. Artikel asli tidak menetapkan saham penerima manfaat atau pihak yang dirugikan secara spesifik. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "a666df73dd09",
-    "slug": "nc-리니지-클래식-흥행에-실적-개선-기대목표가-유진-749611",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T23:46:37.309Z",
-    "updatedAt": "2026-05-13T23:46:37.309Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051451966",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051451966",
-    "titleFingerprint": "1315e685a3f119b412b1b1ee822596330d38d2d4",
-    "dedupKeys": [
-      "a666df73dd09ab9617d52f20dd7864f86ca76293",
-      "1315e685a3f119b412b1b1ee822596330d38d2d4",
-      "c8115d116644342f487f010b597c540a585cd6ab"
-    ],
-    "imageUrl": "/images/articles/a666df73dd09.jpg",
-    "i18n": {
-      "ko": {
-        "title": "엔씨소프트, 리니지 클래식 흥행에 실적 개선 기대…유진 목표가 상향",
-        "excerpt": "유진은 한국경제 보도에서 엔씨소프트가 ‘리니지 클래식’ 흥행을 바탕으로 실적 개선을 기대할 수 있다며 목표주가를 올렸다고 밝혔다.",
-        "body": "유진은 한국경제 보도를 통해 엔씨소프트에 대해 ‘리니지 클래식’ 흥행을 근거로 실적 개선 기대가 커졌다고 평가했다. 이에 따라 엔씨소프트의 목표주가를 상향 조정했다. 이번 판단의 핵심은 기존 지식재산권(IP) 기반 게임인 ‘리니지 클래식’의 흥행이 회사 실적 회복 가능성을 높였다는 점이다. 보도에 제시된 내용은 목표주가 상향과 실적 개선 기대에 초점이 맞춰져 있으며, 구체적인 수치나 추가 전망은 원문에서 확인이 필요하다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "NCSoft Seen Improving on Lineage Classic Success as Eugene Raises Target",
-        "excerpt": "Eugene said in a Korea Economic Daily report that NCSoft may improve earnings on the success of Lineage Classic and raised its target price.",
-        "body": "Eugene, according to a Korea Economic Daily report, assessed that expectations for NCSoft’s earnings improvement have grown on the success of Lineage Classic. The firm therefore raised its target price for NCSoft. The key point behind the view is that the popularity of Lineage Classic, a game based on the company’s existing intellectual property, could increase the possibility of an earnings recovery. The reported information focuses on the target-price increase and earnings-improvement expectations, while specific figures or additional projections should be checked in the original article. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "NCソフト、リネージュクラシック好調で業績改善期待…ユージンが目標株価上げ",
-        "excerpt": "ユージンは韓国経済新聞の報道で、NCソフトが『リネージュクラシック』の興行を背景に業績改善を期待できるとして目標株価を引き上げた。",
-        "body": "ユージンは韓国経済新聞の報道を通じて、NCソフトについて『リネージュクラシック』の好調を根拠に業績改善への期待が高まったと評価した。これによりNCソフトの目標株価を引き上げた。今回の判断の核心は、既存の知的財産権（IP）を基盤とするゲーム『リネージュクラシック』の人気が、同社の業績回復の可能性を高めたという点だ。報道内容は目標株価の引き上げと業績改善期待に焦点を当てており、具体的な数値や追加見通しは原文で確認する必要がある。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "NCSoft因《天堂 Classic》热度获业绩改善预期，Eugene上调目标价",
-        "excerpt": "Eugene在韩国经济新闻报道中表示，NCSoft凭借《天堂 Classic》的市场热度有望改善业绩，并上调其目标股价。",
-        "body": "据韩国经济新闻报道，Eugene评价称，NCSoft因《天堂 Classic》的热度而使业绩改善预期升温。因此，Eugene上调了NCSoft的目标股价。此次判断的核心在于，基于公司既有知识产权（IP）的游戏《天堂 Classic》取得良好反响，提高了公司业绩恢复的可能性。报道内容聚焦于目标股价上调和业绩改善预期，具体数值或进一步展望需以原文为准。来源: hankyung.com"
-      },
-      "es": {
-        "title": "NCSoft mejora expectativas por Lineage Classic y Eugene eleva precio objetivo",
-        "excerpt": "Eugene dijo en un reporte de Korea Economic Daily que NCSoft puede mejorar sus resultados gracias al éxito de Lineage Classic y elevó su precio objetivo.",
-        "body": "Según un reporte de Korea Economic Daily, Eugene evaluó que han aumentado las expectativas de mejora de resultados para NCSoft gracias al éxito de Lineage Classic. Por ello, elevó el precio objetivo de la compañía. El punto central del análisis es que la buena recepción de Lineage Classic, un juego basado en una propiedad intelectual existente de la empresa, eleva la posibilidad de recuperación de sus resultados. La información reportada se centra en el alza del precio objetivo y en las expectativas de mejora, mientras que las cifras concretas o previsiones adicionales deben verificarse en el artículo original. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "NCSoft ganha expectativa com Lineage Classic e Eugene eleva preço-alvo",
-        "excerpt": "A Eugene afirmou em reportagem do Korea Economic Daily que a NCSoft pode melhorar resultados com o sucesso de Lineage Classic e elevou seu preço-alvo.",
-        "body": "Segundo reportagem do Korea Economic Daily, a Eugene avaliou que cresceram as expectativas de melhora nos resultados da NCSoft com o sucesso de Lineage Classic. Com isso, elevou o preço-alvo da empresa. O ponto central da avaliação é que a boa recepção de Lineage Classic, jogo baseado em propriedade intelectual existente da companhia, aumenta a possibilidade de recuperação dos resultados. A reportagem se concentra na elevação do preço-alvo e na expectativa de melhora operacional, enquanto números específicos ou projeções adicionais devem ser conferidos no texto original. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "NCSoft mit besseren Aussichten durch Lineage Classic, Eugene hebt Kursziel an",
-        "excerpt": "Eugene erklärte laut Korea Economic Daily, NCSoft könne dank des Erfolgs von Lineage Classic bessere Ergebnisse erzielen, und hob das Kursziel an.",
-        "body": "Eugene bewertete laut einem Bericht der Korea Economic Daily, dass die Erwartungen an eine Ergebnisverbesserung bei NCSoft durch den Erfolg von Lineage Classic gestiegen sind. Entsprechend wurde das Kursziel für NCSoft angehoben. Kern der Einschätzung ist, dass die Popularität von Lineage Classic, einem Spiel auf Basis bestehenden geistigen Eigentums des Unternehmens, die Möglichkeit einer Ergebniswende erhöht. Die berichteten Informationen konzentrieren sich auf die Kurszielanhebung und die Erwartung besserer Ergebnisse; konkrete Zahlen oder zusätzliche Prognosen sollten im Originalartikel geprüft werden. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "NCSoft attendu en amélioration grâce à Lineage Classic, Eugene relève l’objectif",
-        "excerpt": "Eugene a indiqué dans un article du Korea Economic Daily que NCSoft pourrait améliorer ses résultats grâce au succès de Lineage Classic et a relevé son objectif.",
-        "body": "Selon un article du Korea Economic Daily, Eugene estime que les attentes d’amélioration des résultats de NCSoft ont augmenté grâce au succès de Lineage Classic. La société a donc relevé son objectif de cours sur NCSoft. Le point central de cette analyse est que la popularité de Lineage Classic, jeu fondé sur une propriété intellectuelle existante de l’entreprise, renforce la possibilité d’un redressement des résultats. Les informations rapportées portent sur le relèvement de l’objectif de cours et les attentes d’amélioration, tandis que les chiffres précis ou projections supplémentaires doivent être vérifiés dans l’article original. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "NCSoft تتلقى توقعات أفضل بفضل Lineage Classic ويوجين ترفع السعر المستهدف",
-        "excerpt": "قالت يوجين في تقرير لصحيفة Korea Economic Daily إن NCSoft قد تشهد تحسنا في الأرباح بفضل نجاح Lineage Classic ورفعت السعر المستهدف للسهم.",
-        "body": "بحسب تقرير نشرته Korea Economic Daily، قيّمت يوجين أن توقعات تحسن نتائج NCSoft ارتفعت استنادا إلى نجاح Lineage Classic. وبناء على ذلك رفعت السعر المستهدف لسهم الشركة. يتمحور الحكم حول أن رواج Lineage Classic، وهي لعبة قائمة على ملكية فكرية قائمة لدى الشركة، يزيد احتمال تعافي الأداء المالي. ويركز ما ورد في التقرير على رفع السعر المستهدف وتوقعات تحسن النتائج، بينما ينبغي الرجوع إلى النص الأصلي للتحقق من أي أرقام محددة أو توقعات إضافية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Lineage Classic की सफलता से NCSoft पर बेहतर नतीजों की उम्मीद, Eugene ने लक्ष्य बढ़ाया",
-        "excerpt": "Korea Economic Daily की रिपोर्ट के अनुसार Eugene ने कहा कि Lineage Classic की सफलता से NCSoft के नतीजों में सुधार की उम्मीद है और लक्ष्य मूल्य बढ़ाया गया।",
-        "body": "Korea Economic Daily की रिपोर्ट के अनुसार Eugene ने NCSoft के बारे में आकलन किया कि Lineage Classic की सफलता के आधार पर कंपनी के नतीजों में सुधार की उम्मीद बढ़ी है। इसी वजह से NCSoft का लक्ष्य मूल्य ऊपर किया गया। इस राय का मुख्य आधार यह है कि कंपनी की मौजूदा बौद्धिक संपदा पर आधारित गेम Lineage Classic की लोकप्रियता से आय सुधार की संभावना बढ़ी है। रिपोर्ट में लक्ष्य मूल्य बढ़ाने और नतीजों में सुधार की उम्मीद पर जोर है; किसी ठोस संख्या या अतिरिक्त अनुमान के लिए मूल लेख देखना आवश्यक है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "NCSoft Diproyeksi Membaik Berkat Lineage Classic, Eugene Naikkan Target",
-        "excerpt": "Eugene menyatakan dalam laporan Korea Economic Daily bahwa NCSoft berpeluang mencatat perbaikan kinerja berkat sukses Lineage Classic dan menaikkan target harga.",
-        "body": "Menurut laporan Korea Economic Daily, Eugene menilai ekspektasi perbaikan kinerja NCSoft meningkat berkat keberhasilan Lineage Classic. Karena itu, target harga untuk NCSoft dinaikkan. Inti penilaian tersebut adalah bahwa popularitas Lineage Classic, gim berbasis kekayaan intelektual yang sudah dimiliki perusahaan, memperbesar peluang pemulihan kinerja. Informasi yang dilaporkan berfokus pada kenaikan target harga dan ekspektasi perbaikan kinerja, sementara angka spesifik atau proyeksi tambahan perlu diperiksa dalam artikel asli. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "8609c0661146",
-    "slug": "삼양식품-1분기-실적-예상치-웃돌아목표가-kb-222357",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T23:45:42.020Z",
-    "updatedAt": "2026-05-13T23:45:42.020Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051451306",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051451306",
-    "titleFingerprint": "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
-    "dedupKeys": [
-      "8609c06611463d3992f27386bb9698c504fbea6e",
-      "9859e7bfd66f4dc6239c58bb2166b20ba035c5cc",
-      "8e7d33da508635983b4b324a0a027d084208933a"
-    ],
-    "imageUrl": "/images/articles/8609c0661146.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼양식품 1분기 실적 예상치 상회, KB 목표가 상향 조정",
-        "excerpt": "KB증권은 삼양식품의 1분기 실적이 시장 예상치를 웃돌았다고 평가하며 목표가를 올렸다고 hankyung.com이 보도했다.",
-        "body": "삼양식품이 올해 1분기 실적에서 예상치를 웃돈 것으로 평가되며 증권가의 목표가 상향을 이끌었다. hankyung.com에 따르면 KB증권은 삼양식품의 1분기 실적이 기존 전망보다 양호했다고 보고 목표가를 올렸다. 이번 평가는 분기 실적이 시장 기대를 넘어섰다는 점에 초점이 맞춰졌다. 다만 원문에는 구체적인 매출, 영업이익, 목표주가 수치나 투자의견 변화는 제시되지 않았다. 시장은 삼양식품의 실적 흐름과 KB증권의 목표가 조정 배경을 주목할 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Samyang Foods Q1 Earnings Beat Estimates as KB Raises Target Price",
-        "excerpt": "KB Securities raised its target price on Samyang Foods after saying the company’s first-quarter results came in above expectations, hankyung.com reported.",
-        "body": "Samyang Foods’ first-quarter performance was assessed as better than expected, prompting KB Securities to raise its target price. According to hankyung.com, KB said Samyang Foods’ Q1 results were stronger than prior expectations and adjusted its target price upward. The report focuses on the company’s quarterly results exceeding market expectations. However, the original article did not provide specific figures for sales, operating profit, the revised target price, or any change in investment opinion. Investors are expected to watch Samyang Foods’ earnings trend and the rationale behind KB’s target price revision. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "三養食品の1四半期業績が予想上回る、KBが目標株価引き上げ",
-        "excerpt": "KB証券は三養食品の第1四半期業績が市場予想を上回ったと評価し、目標株価を引き上げたとhankyung.comが報じた。",
-        "body": "三養食品の今年第1四半期業績が予想を上回ったと評価され、証券会社による目標株価の引き上げにつながった。hankyung.comによると、KB証券は三養食品の第1四半期業績が従来の見通しより良好だったと判断し、目標株価を引き上げた。今回の評価は、四半期業績が市場の期待を超えた点に焦点が当てられている。ただし原文では、具体的な売上高、営業利益、目標株価の数値、投資判断の変更については示されていない。市場は三養食品の業績推移とKB証券の目標株価修正の背景に注目するとみられる。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "三养食品一季度业绩超预期，KB上调目标价引关注",
-        "excerpt": "据hankyung.com报道，KB证券认为三养食品一季度业绩高于市场预期，并上调了其目标价。",
-        "body": "三养食品今年一季度业绩被评价为高于预期，并带动券商上调目标价。据hankyung.com报道，KB证券认为三养食品第一季度业绩好于此前预期，因此上调了目标价。此次评价的重点在于该公司季度业绩超过市场期待。不过，原文未提供具体销售额、营业利润、调整后目标价数值或投资评级变化。市场预计将关注三养食品后续业绩走势，以及KB证券上调目标价的背景。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Samyang Foods supera previsiones en el primer trimestre y KB eleva precio objetivo",
-        "excerpt": "KB Securities elevó su precio objetivo para Samyang Foods tras evaluar que sus resultados del primer trimestre superaron las expectativas, informó hankyung.com.",
-        "body": "Samyang Foods fue evaluada como una compañía cuyos resultados del primer trimestre superaron las expectativas, lo que llevó a KB Securities a elevar su precio objetivo. Según hankyung.com, KB consideró que el desempeño trimestral de Samyang Foods fue mejor que las previsiones anteriores y ajustó al alza su precio objetivo. La valoración se centra en que los resultados del trimestre rebasaron las expectativas del mercado. Sin embargo, el texto original no presentó cifras concretas de ventas, beneficio operativo, nuevo precio objetivo ni cambios en la recomendación de inversión. El mercado seguirá atento a la evolución de resultados de Samyang Foods y al contexto de la revisión de KB. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Samyang Foods supera estimativas no 1º trimestre e KB eleva preço-alvo",
-        "excerpt": "A KB Securities elevou o preço-alvo da Samyang Foods após avaliar que os resultados do primeiro trimestre ficaram acima das expectativas, informou o hankyung.com.",
-        "body": "A Samyang Foods teve seu desempenho do primeiro trimestre avaliado como acima das expectativas, levando a KB Securities a elevar seu preço-alvo. Segundo o hankyung.com, a KB afirmou que os resultados do 1º trimestre da Samyang Foods foram melhores que as projeções anteriores e ajustou o preço-alvo para cima. A avaliação se concentra no fato de o resultado trimestral ter superado as expectativas do mercado. No entanto, o texto original não informou números específicos de receita, lucro operacional, novo preço-alvo ou mudança de recomendação. O mercado deve acompanhar a tendência dos resultados da Samyang Foods e os motivos da revisão feita pela KB. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Samyang Foods übertrifft Q1-Erwartungen, KB hebt Kursziel an",
-        "excerpt": "KB Securities hat das Kursziel für Samyang Foods angehoben, nachdem die Ergebnisse des ersten Quartals über den Erwartungen lagen, berichtete hankyung.com.",
-        "body": "Samyang Foods wurde für das erste Quartal besser als erwartet bewertet, was KB Securities zu einer Anhebung des Kursziels veranlasste. Laut hankyung.com erklärte KB, dass die Q1-Ergebnisse von Samyang Foods stärker als frühere Erwartungen ausgefallen seien, und passte das Kursziel nach oben an. Im Mittelpunkt der Einschätzung steht, dass die Quartalszahlen die Markterwartungen übertroffen haben. Der Originalbericht nannte jedoch keine konkreten Angaben zu Umsatz, operativem Gewinn, neuem Kursziel oder einer Änderung der Anlageempfehlung. Der Markt dürfte nun auf den weiteren Ergebnisverlauf von Samyang Foods und die Gründe für die Kurszielanhebung durch KB achten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Samyang Foods dépasse les attentes au T1, KB relève son objectif de cours",
-        "excerpt": "KB Securities a relevé son objectif de cours sur Samyang Foods après avoir jugé que les résultats du premier trimestre avaient dépassé les attentes, selon hankyung.com.",
-        "body": "Samyang Foods a été évalué comme ayant dépassé les attentes au premier trimestre, ce qui a conduit KB Securities à relever son objectif de cours. Selon hankyung.com, KB a estimé que les résultats du T1 de Samyang Foods étaient meilleurs que les prévisions précédentes et a ajusté son objectif à la hausse. L’évaluation met l’accent sur le fait que les résultats trimestriels ont dépassé les attentes du marché. Toutefois, l’article original ne fournit pas de chiffres précis sur le chiffre d’affaires, le résultat opérationnel, le nouvel objectif de cours ou un changement de recommandation. Le marché devrait suivre l’évolution des résultats de Samyang Foods et les raisons de la révision de KB. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ساميانغ فودز تتجاوز توقعات الربع الأول وKB ترفع السعر المستهدف",
-        "excerpt": "رفعت KB Securities السعر المستهدف لسهم ساميانغ فودز بعدما قيّمت نتائج الربع الأول بأنها جاءت فوق التوقعات، وفق ما نقل موقع hankyung.com.",
-        "body": "جاء أداء ساميانغ فودز في الربع الأول أعلى من التوقعات، ما دفع KB Securities إلى رفع السعر المستهدف للسهم. وبحسب hankyung.com، رأت KB أن نتائج ساميانغ فودز للربع الأول كانت أفضل من التقديرات السابقة، لذلك عدلت السعر المستهدف صعودا. يتركز التقييم على أن النتائج الفصلية تجاوزت توقعات السوق. ومع ذلك، لم يذكر النص الأصلي أرقاما محددة للمبيعات أو الأرباح التشغيلية أو السعر المستهدف المعدل أو أي تغيير في الرأي الاستثماري. ومن المتوقع أن يراقب السوق مسار أرباح ساميانغ فودز وخلفية تعديل KB للسعر المستهدف. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सामयांग फूड्स का पहली तिमाही प्रदर्शन अनुमान से बेहतर, KB ने लक्ष्य मूल्य बढ़ाया",
-        "excerpt": "KB Securities ने सामयांग फूड्स के पहली तिमाही नतीजों को अपेक्षा से बेहतर बताते हुए लक्ष्य मूल्य बढ़ाया, hankyung.com ने रिपोर्ट किया।",
-        "body": "सामयांग फूड्स के इस वर्ष की पहली तिमाही के नतीजों को अनुमान से बेहतर माना गया, जिसके बाद KB Securities ने लक्ष्य मूल्य बढ़ाया। hankyung.com के अनुसार, KB ने कहा कि सामयांग फूड्स का पहली तिमाही प्रदर्शन पहले के अनुमान से अच्छा रहा और इसलिए लक्ष्य मूल्य ऊपर किया गया। यह आकलन इस बात पर केंद्रित है कि तिमाही नतीजे बाजार की उम्मीदों से आगे रहे। हालांकि मूल रिपोर्ट में बिक्री, परिचालन लाभ, संशोधित लक्ष्य मूल्य या निवेश राय में बदलाव के ठोस आंकड़े नहीं दिए गए। बाजार अब सामयांग फूड्स की आय प्रवृत्ति और KB के लक्ष्य मूल्य संशोधन की पृष्ठभूमि पर नजर रखेगा। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Kinerja Kuartal I Samyang Foods Lampaui Estimasi, KB Naikkan Target Harga",
-        "excerpt": "KB Securities menaikkan target harga Samyang Foods setelah menilai kinerja kuartal pertama perusahaan melampaui ekspektasi, lapor hankyung.com.",
-        "body": "Samyang Foods dinilai mencatat kinerja kuartal pertama yang lebih baik dari perkiraan, sehingga KB Securities menaikkan target harga. Menurut hankyung.com, KB menilai hasil kuartal I Samyang Foods lebih kuat dibandingkan proyeksi sebelumnya dan menyesuaikan target harga ke atas. Penilaian ini berfokus pada hasil kuartalan yang melampaui ekspektasi pasar. Namun, artikel asli tidak mencantumkan angka spesifik untuk penjualan, laba operasi, target harga baru, atau perubahan rekomendasi investasi. Pasar diperkirakan akan memperhatikan tren kinerja Samyang Foods serta latar belakang revisi target harga oleh KB. Sumber: hankyung.com"
       }
     }
   }
