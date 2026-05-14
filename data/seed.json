@@ -1,5 +1,230 @@
 [
   {
+    "id": "7597b0db5d45",
+    "slug": "퀀트-투자에서-가장-중요한-건-인간ai는-조력자로-활용해야-kiw-2026-549354",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T19:24:24.672Z",
+    "updatedAt": "2026-05-14T19:24:24.672Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605147129i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605147129i",
+    "titleFingerprint": "f094c34939e7179d5c90296706e1d0dc33b90d8a",
+    "dedupKeys": [
+      "7597b0db5d45043380db3e3560a3c8424d6d1155",
+      "f094c34939e7179d5c90296706e1d0dc33b90d8a",
+      "2f0a6ed695f729171ee1ecec6b611b224a8b4b33"
+    ],
+    "imageUrl": "/images/articles/7597b0db5d45.jpg",
+    "i18n": {
+      "ko": {
+        "title": "퀀트 투자 핵심은 인간, AI는 조력자로 써야 한다는 KIW 2026 메시지",
+        "excerpt": "KIW 2026에서 퀀트 투자와 AI 활용을 둘러싼 핵심 메시지는 인간의 판단이 중심에 서야 하며 AI는 이를 보조하는 도구로 활용해야 한다는 점이었다.",
+        "body": "KIW 2026에서 퀀트 투자와 인공지능(AI)의 역할을 두고 가장 중요한 요소는 인간이라는 메시지가 제시됐다. 원문은 퀀트 투자에서 AI를 전면에 세우기보다 인간의 판단을 돕는 조력자로 활용해야 한다는 점을 제목으로 전했다. 퀀트 투자는 데이터와 모델을 활용하지만, 최종 의사결정과 운용 방향에서는 사람의 해석과 통제가 중요하다는 맥락이다. AI 활용이 확대되는 가운데 이번 메시지는 투자 과정에서 기술 의존만으로는 충분하지 않다는 점을 강조한다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Human Judgment Tops Quant Investing as AI Should Assist, KIW 2026 Says",
+        "excerpt": "At KIW 2026, the core message on quant investing and AI was that human judgment should remain central, while AI should be used as a supporting tool.",
+        "body": "At KIW 2026, a key message on quant investing and artificial intelligence was that the most important factor is the human. The original report highlighted in its headline that AI should not be placed at the center of quant investing, but used as an assistant to support human judgment. Quant investing relies on data and models, yet the context points to the importance of human interpretation and control in final decisions and portfolio direction. As AI use expands, the message stresses that relying on technology alone is not enough in the investment process. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "クオンツ投資の核心は人間、AIは補助役にすべきとのKIW 2026の示唆",
+        "excerpt": "KIW 2026では、クオンツ投資とAI活用をめぐり、人間の判断を中心に据え、AIはそれを支える補助ツールとして使うべきだとのメッセージが示された。",
+        "body": "KIW 2026で、クオンツ投資と人工知能（AI）の役割をめぐり、最も重要な要素は人間だというメッセージが示された。原文は、クオンツ投資でAIを前面に置くのではなく、人間の判断を助ける補助役として活用すべきだと見出しで伝えた。クオンツ投資はデータとモデルを活用するが、最終的な意思決定や運用方針では人間の解釈と統制が重要だという文脈である。AI活用が広がるなか、今回のメッセージは投資プロセスで技術依存だけでは十分でない点を強調している。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "量化投资关键仍是人，KIW 2026称AI应作为辅助工具使用",
+        "excerpt": "KIW 2026围绕量化投资与AI应用传递的核心信息是，人类判断应处于中心位置，AI应作为辅助工具来支持投资决策。",
+        "body": "在KIW 2026上，围绕量化投资和人工智能（AI）作用的核心信息是，最重要的因素仍然是人。原文标题指出，在量化投资中不应把AI置于最前端，而应将其作为帮助人类判断的辅助工具。量化投资依赖数据和模型，但在最终决策和投资运作方向上，人的解读与控制仍具有重要意义。随着AI应用扩大，这一信息强调，投资过程中仅依赖技术并不足够。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El factor humano lidera la inversión cuantitativa y la IA debe asistir, según KIW 2026",
+        "excerpt": "En KIW 2026, el mensaje central sobre inversión cuantitativa e IA fue que el juicio humano debe seguir al centro y que la IA debe usarse como apoyo.",
+        "body": "En KIW 2026 se planteó que, en la inversión cuantitativa y el papel de la inteligencia artificial, el elemento más importante es el ser humano. El texto original destacó en su titular que la IA no debe ocupar el centro de la inversión cuantitativa, sino utilizarse como una herramienta de apoyo al juicio humano. La inversión cuantitativa usa datos y modelos, pero el contexto subraya que la interpretación y el control de las personas son importantes en las decisiones finales y la dirección de la gestión. Con el avance del uso de IA, el mensaje recalca que depender solo de la tecnología no basta en el proceso inversor. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Fator humano é central no investimento quant e IA deve apoiar, diz KIW 2026",
+        "excerpt": "No KIW 2026, a mensagem central sobre investimento quantitativo e IA foi que o julgamento humano deve permanecer no centro, com a IA como ferramenta de apoio.",
+        "body": "No KIW 2026, foi apresentada a mensagem de que, no investimento quantitativo e no papel da inteligência artificial, o fator mais importante é o ser humano. O texto original destacou no título que a IA não deve ficar à frente do investimento quant, mas ser usada como assistente para apoiar o julgamento humano. O investimento quantitativo utiliza dados e modelos, mas o contexto indica que a interpretação e o controle humanos são importantes nas decisões finais e na direção da gestão. À medida que o uso de IA se expande, a mensagem reforça que depender apenas da tecnologia não é suficiente no processo de investimento. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Mensch bleibt Kern des Quant-Investierens, KI soll laut KIW 2026 nur unterstützen",
+        "excerpt": "Auf der KIW 2026 lautete die zentrale Botschaft zu Quant-Investing und KI: Menschliches Urteil soll im Mittelpunkt stehen, KI soll als Hilfsmittel dienen.",
+        "body": "Auf der KIW 2026 wurde zur Rolle von Quant-Investing und künstlicher Intelligenz die Botschaft formuliert, dass der wichtigste Faktor der Mensch ist. Der Originalbericht hob in der Überschrift hervor, dass KI beim Quant-Investing nicht in den Vordergrund gestellt, sondern als Helfer zur Unterstützung menschlicher Entscheidungen genutzt werden sollte. Quant-Investing verwendet Daten und Modelle, doch der Kontext betont die Bedeutung menschlicher Interpretation und Kontrolle bei endgültigen Entscheidungen und der Ausrichtung der Verwaltung. Mit der wachsenden Nutzung von KI unterstreicht die Aussage, dass reine Technologieabhängigkeit im Investmentprozess nicht ausreicht. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "L’humain reste clé dans l’investissement quantitatif, l’IA doit assister selon KIW 2026",
+        "excerpt": "Lors de KIW 2026, le message central sur l’investissement quantitatif et l’IA a été que le jugement humain doit rester au cœur, l’IA servant d’outil d’appui.",
+        "body": "Lors de KIW 2026, un message clé sur l’investissement quantitatif et le rôle de l’intelligence artificielle a été présenté: le facteur le plus important reste l’humain. Le texte original indiquait dans son titre que l’IA ne devrait pas être placée au premier plan de l’investissement quantitatif, mais utilisée comme un assistant soutenant le jugement humain. L’investissement quantitatif s’appuie sur des données et des modèles, mais le contexte souligne l’importance de l’interprétation et du contrôle humains dans les décisions finales et l’orientation de la gestion. Alors que l’usage de l’IA progresse, ce message rappelle que la seule dépendance à la technologie ne suffit pas dans le processus d’investissement. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "العنصر البشري أساس الاستثمار الكمي والذكاء الاصطناعي أداة مساعدة في KIW 2026",
+        "excerpt": "في KIW 2026، تمثلت الرسالة الأساسية بشأن الاستثمار الكمي والذكاء الاصطناعي في بقاء الحكم البشري في المركز واستخدام الذكاء الاصطناعي كأداة دعم.",
+        "body": "في KIW 2026 طُرحت رسالة مفادها أن أهم عنصر في الاستثمار الكمي ودور الذكاء الاصطناعي هو الإنسان. وأبرز النص الأصلي في عنوانه أن الذكاء الاصطناعي لا ينبغي أن يتصدر الاستثمار الكمي، بل يجب استخدامه كعامل مساعد يدعم الحكم البشري. يعتمد الاستثمار الكمي على البيانات والنماذج، لكن السياق يشير إلى أهمية تفسير الإنسان ورقابته في القرارات النهائية واتجاه الإدارة الاستثمارية. ومع اتساع استخدام الذكاء الاصطناعي، تؤكد هذه الرسالة أن الاعتماد على التقنية وحدها لا يكفي في عملية الاستثمار. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "क्वांट निवेश में मानव निर्णय अहम, KIW 2026 में AI को सहायक मानने का संदेश",
+        "excerpt": "KIW 2026 में क्वांट निवेश और AI पर मुख्य संदेश यह रहा कि मानव निर्णय केंद्र में रहना चाहिए और AI को समर्थन देने वाले उपकरण के रूप में इस्तेमाल करना चाहिए।",
+        "body": "KIW 2026 में क्वांट निवेश और कृत्रिम बुद्धिमत्ता की भूमिका पर यह संदेश सामने आया कि सबसे महत्वपूर्ण तत्व इंसान है। मूल रिपोर्ट ने अपने शीर्षक में बताया कि क्वांट निवेश में AI को आगे रखने के बजाय मानव निर्णय में मदद करने वाले सहायक के रूप में उपयोग करना चाहिए। क्वांट निवेश डेटा और मॉडलों का उपयोग करता है, लेकिन अंतिम निर्णय और संचालन की दिशा में मानवीय व्याख्या और नियंत्रण महत्वपूर्ण हैं। AI के उपयोग के विस्तार के बीच यह संदेश निवेश प्रक्रिया में केवल तकनीक पर निर्भर रहने को पर्याप्त नहीं मानता। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Manusia Tetap Kunci Investasi Kuant, AI Sebaiknya Jadi Pendukung di KIW 2026",
+        "excerpt": "Di KIW 2026, pesan utama tentang investasi kuantitatif dan AI adalah bahwa penilaian manusia harus tetap menjadi pusat, sementara AI dipakai sebagai alat bantu.",
+        "body": "Di KIW 2026, pesan mengenai investasi kuantitatif dan peran kecerdasan buatan adalah bahwa faktor terpenting tetap manusia. Teks asli menekankan dalam judulnya bahwa AI tidak seharusnya ditempatkan di depan dalam investasi kuantitatif, melainkan digunakan sebagai pendukung yang membantu penilaian manusia. Investasi kuantitatif memakai data dan model, tetapi konteksnya menunjukkan pentingnya interpretasi dan kontrol manusia dalam keputusan akhir serta arah pengelolaan. Seiring meluasnya penggunaan AI, pesan ini menegaskan bahwa bergantung pada teknologi saja tidak cukup dalam proses investasi. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "aacc2eb2fe40",
+    "slug": "1분기에만-1조-잭팟개미들-우르르-몰리자-역대급-실적-277444",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T19:23:29.780Z",
+    "updatedAt": "2026-05-14T19:23:29.780Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605146375i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605146375i",
+    "titleFingerprint": "b296e30bf024a0eb09323816e951aedf27127f99",
+    "dedupKeys": [
+      "aacc2eb2fe409a542296cb81a1920dc6881e5955",
+      "b296e30bf024a0eb09323816e951aedf27127f99",
+      "d9465c8ccc8ecbbf905b4ae839688931ae324751"
+    ],
+    "imageUrl": "/images/articles/aacc2eb2fe40.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한국투자증권 1분기 영업익 9599억, 개인자금 유입에 역대급 실적…위탁·WM·IB 고른 성장",
+        "excerpt": "한국투자증권은 2026년 1분기 연결 영업이익이 9599억원으로 전년 동기 대비 85% 늘었다고 14일 밝혔다. 위탁매매·WM·IB·운용이 고르게 성장했다.",
+        "body": "한국투자증권은 14일 잠정실적 공시를 통해 2026년 1분기 연결 기준 영업이익이 9599억원으로 전년 동기 대비 85% 증가했다고 밝혔다. 당기순이익은 7847억원으로 75% 늘었다. 지난해 증권업계 최초로 연간 영업이익과 순이익 2조원을 넘긴 뒤 1분기에도 흐름을 이어갔다. 이익 비중은 운용 39.1%, 위탁매매 33.3%, IB 18.6%, WM 9.0%였다. 증시 호조로 위탁매매 수익은 전분기보다 55% 늘었고, 금융상품 판매 호조로 WM 판매수수료는 71.6% 증가했다. 개인 고객 금융상품 잔고는 지난해 말 85조1000억원에서 최근 94조5000억원으로 확대됐다. 회사는 균형 잡힌 수익구조를 기반으로 성장 기반을 강화하겠다고 밝혔다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Korea Investment & Securities Q1 Operating Profit Hits KRW 959.9 Billion as Retail Funds Flow In",
+        "excerpt": "Korea Investment & Securities said on May 14 that Q1 2026 consolidated operating profit rose 85% year on year to KRW 959.9 billion, led by balanced growth in brokerage, WM, IB and trading.",
+        "body": "Korea Investment & Securities announced in a preliminary filing on May 14 that consolidated operating profit for the first quarter of 2026 reached KRW 959.9 billion, up 85% from a year earlier. Net profit rose 75% to KRW 784.7 billion. The company continued its strong run after becoming the first Korean securities firm last year to surpass KRW 2 trillion in both annual operating profit and net profit. By profit contribution, trading accounted for 39.1%, brokerage 33.3%, investment banking 18.6% and wealth management 9.0%. Brokerage-related revenue increased 55% from the previous quarter amid a strong stock market, while WM sales commissions jumped 71.6% on demand for bonds, promissory notes and funds. Retail clients’ financial product balances rose from KRW 85.1 trillion at the end of last year to KRW 94.5 trillion recently. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "韓国投資証券、1四半期営業益9599億ウォン…個人資金流入で過去級の好業績",
+        "excerpt": "韓国投資証券は14日、2026年第1四半期の連結営業利益が前年同期比85%増の9599億ウォンだったと発表。委託売買、WM、IB、運用がそろって伸びた。",
+        "body": "韓国投資証券は14日、暫定業績の公示を通じて、2026年第1四半期の連結営業利益が9599億ウォンとなり、前年同期比85%増加したと発表した。純利益は7847億ウォンで75%増えた。昨年、韓国証券業界で初めて年間営業利益と純利益がともに2兆ウォンを超えた後、今年第1四半期も好調を維持した。利益構成は運用39.1%、委託売買33.3%、IB18.6%、WM9.0%。株式市場の好調で委託売買関連収益は前四半期比55%増え、金融商品の販売好調によりWMの販売手数料は71.6%増加した。個人顧客の金融商品残高は昨年末の85兆1000億ウォンから最近94兆5000億ウォンに拡大した。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "韩国投资证券一季度营业利润达9599亿韩元，个人资金流入推动创纪录业绩",
+        "excerpt": "韩国投资证券5月14日表示，2026年一季度合并营业利润同比增长85%至9599亿韩元，证券经纪、财富管理、投行和交易业务均衡增长。",
+        "body": "韩国投资证券5月14日通过暂定业绩公告表示，2026年第一季度合并口径营业利润为9599亿韩元，同比增长85%。当期净利润为7847亿韩元，同比增长75%。该公司去年成为韩国证券行业首家年度营业利润和净利润均突破2万亿韩元的券商后，今年一季度延续了良好势头。利润构成中，交易运用占39.1%，证券经纪占33.3%，投资银行占18.6%，财富管理占9.0%。受股市向好影响，经纪相关收入较上一季度增长55%；债券、票据、基金等金融商品销售强劲，财富管理销售手续费增长71.6%。个人客户金融商品余额从去年末的85.1万亿韩元增至近期94.5万亿韩元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Korea Investment & Securities gana KRW 959.900 millones en el 1T por entrada de fondos minoristas",
+        "excerpt": "Korea Investment & Securities informó el 14 de mayo que su beneficio operativo consolidado del 1T de 2026 subió 85% interanual hasta KRW 959.900 millones, con crecimiento en corretaje, WM, IB y trading.",
+        "body": "Korea Investment & Securities informó el 14 de mayo, mediante resultados preliminares, que su beneficio operativo consolidado del primer trimestre de 2026 fue de KRW 959.900 millones, un aumento interanual del 85%. El beneficio neto creció 75% hasta KRW 784.700 millones. La firma mantuvo el impulso después de convertirse el año pasado en la primera sociedad de valores de Corea en superar KRW 2 billones tanto en beneficio operativo anual como en beneficio neto. Por aportación a las ganancias, trading representó 39,1%, corretaje 33,3%, banca de inversión 18,6% y gestión patrimonial 9,0%. Los ingresos de corretaje subieron 55% frente al trimestre previo por el buen tono bursátil, y las comisiones de WM aumentaron 71,6% por ventas de bonos, pagarés y fondos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Korea Investment & Securities lucra KRW 959,9 bi no 1º tri com entrada de recursos de investidores",
+        "excerpt": "A Korea Investment & Securities informou em 14 de maio que o lucro operacional consolidado do 1º tri de 2026 subiu 85% em um ano, a KRW 959,9 bilhões, com avanço em corretagem, WM, IB e trading.",
+        "body": "A Korea Investment & Securities divulgou em 14 de maio, em números preliminares, que o lucro operacional consolidado do primeiro trimestre de 2026 foi de KRW 959,9 bilhões, alta de 85% ante o mesmo período do ano anterior. O lucro líquido aumentou 75%, para KRW 784,7 bilhões. A companhia manteve o ritmo após se tornar, no ano passado, a primeira corretora da Coreia a superar KRW 2 trilhões em lucro operacional anual e lucro líquido. Na composição do resultado, trading respondeu por 39,1%, corretagem por 33,3%, banco de investimento por 18,6% e gestão patrimonial por 9,0%. A receita de corretagem cresceu 55% ante o trimestre anterior com o bom desempenho do mercado acionário, enquanto as comissões de WM subiram 71,6% com vendas de produtos financeiros. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Korea Investment & Securities erzielt im ersten Quartal 959,9 Mrd. Won Betriebsgewinn",
+        "excerpt": "Korea Investment & Securities meldete am 14. Mai für Q1 2026 einen konsolidierten Betriebsgewinn von 959,9 Mrd. Won, 85% mehr als im Vorjahr, getragen von Brokerage, WM, IB und Trading.",
+        "body": "Korea Investment & Securities teilte am 14. Mai in vorläufigen Zahlen mit, dass der konsolidierte Betriebsgewinn im ersten Quartal 2026 bei 959,9 Mrd. Won lag, ein Plus von 85% gegenüber dem Vorjahr. Der Nettogewinn stieg um 75% auf 784,7 Mrd. Won. Das Unternehmen setzte damit den starken Lauf fort, nachdem es im vergangenen Jahr als erstes koreanisches Wertpapierhaus sowohl beim jährlichen Betriebsgewinn als auch beim Nettogewinn die Marke von 2 Bio. Won überschritten hatte. Zum Gewinn trugen Trading 39,1%, Brokerage 33,3%, Investment Banking 18,6% und Wealth Management 9,0% bei. Brokerage-Erlöse legten wegen der guten Börsenlage gegenüber dem Vorquartal um 55% zu; WM-Verkaufsprovisionen stiegen dank Finanzproduktabsatz um 71,6%. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Korea Investment & Securities atteint 959,9 Mds KRW de bénéfice opérationnel au 1er trimestre",
+        "excerpt": "Korea Investment & Securities a annoncé le 14 mai un bénéfice opérationnel consolidé de 959,9 Mds KRW au 1T 2026, en hausse de 85% sur un an, porté par le courtage, la gestion, l’IB et le trading.",
+        "body": "Korea Investment & Securities a indiqué le 14 mai, dans des résultats provisoires, que son bénéfice opérationnel consolidé du premier trimestre 2026 avait atteint 959,9 milliards de wons, soit une hausse de 85% sur un an. Le bénéfice net a progressé de 75% à 784,7 milliards de wons. La société a prolongé sa dynamique après être devenue l’an dernier la première maison de titres coréenne à dépasser 2 000 milliards de wons de bénéfice opérationnel annuel et de bénéfice net. La contribution aux profits se répartit entre le trading à 39,1%, le courtage à 33,3%, la banque d’investissement à 18,6% et la gestion de patrimoine à 9,0%. Les revenus de courtage ont augmenté de 55% par rapport au trimestre précédent, tandis que les commissions de gestion ont bondi de 71,6% grâce aux ventes de produits financiers. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت تسجل 959.9 مليار وون ربحا تشغيليا في الربع الأول مع تدفق أموال الأفراد",
+        "excerpt": "أعلنت كوريا إنفستمنت آند سيكيوريتيز في 14 مايو أن ربحها التشغيلي المجمع للربع الأول 2026 ارتفع 85% إلى 959.9 مليار وون، بدعم من الوساطة وإدارة الثروات والاستثمار المصرفي والتداول.",
+        "body": "أعلنت كوريا إنفستمنت آند سيكيوريتيز في 14 مايو، عبر إفصاح أولي، أن الربح التشغيلي المجمع في الربع الأول من 2026 بلغ 959.9 مليار وون، بزيادة 85% على أساس سنوي. وارتفع صافي الربح 75% إلى 784.7 مليار وون. وواصلت الشركة الزخم بعد أن أصبحت العام الماضي أول شركة أوراق مالية كورية تتجاوز 2 تريليون وون في كل من الربح التشغيلي السنوي وصافي الربح. وتوزعت مساهمة الأرباح بين التداول وإدارة الأصول بنسبة 39.1%، والوساطة 33.3%، والخدمات المصرفية الاستثمارية 18.6%، وإدارة الثروات 9.0%. وزادت إيرادات الوساطة 55% عن الربع السابق مع تحسن سوق الأسهم، كما ارتفعت عمولات إدارة الثروات 71.6% بفضل مبيعات المنتجات المالية. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Korea Investment & Securities का Q1 परिचालन लाभ 959.9 अरब वॉन, खुदरा फंड प्रवाह से मजबूती",
+        "excerpt": "Korea Investment & Securities ने 14 मई को बताया कि 2026 की पहली तिमाही में समेकित परिचालन लाभ सालाना 85% बढ़कर 959.9 अरब वॉन रहा, जिसमें ब्रोकरेज, WM, IB और ट्रेडिंग का योगदान रहा।",
+        "body": "Korea Investment & Securities ने 14 मई को प्रारंभिक नतीजों में बताया कि 2026 की पहली तिमाही में उसका समेकित परिचालन लाभ 959.9 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि से 85% अधिक है। शुद्ध लाभ 75% बढ़कर 784.7 अरब वॉन रहा। कंपनी ने पिछले वर्ष कोरिया के प्रतिभूति उद्योग में पहली बार वार्षिक परिचालन लाभ और शुद्ध लाभ दोनों में 2 ट्रिलियन वॉन का स्तर पार किया था और इस तिमाही में भी गति बनाए रखी। लाभ में ट्रेडिंग का हिस्सा 39.1%, ब्रोकरेज 33.3%, निवेश बैंकिंग 18.6% और वेल्थ मैनेजमेंट 9.0% रहा। शेयर बाजार की मजबूती से ब्रोकरेज आय पिछली तिमाही से 55% बढ़ी, जबकि वित्तीय उत्पादों की बिक्री से WM बिक्री शुल्क 71.6% बढ़ा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Korea Investment & Securities Cetak Laba Operasi KRW 959,9 Miliar di Kuartal I Berkat Dana Ritel",
+        "excerpt": "Korea Investment & Securities pada 14 Mei melaporkan laba operasi konsolidasi kuartal I 2026 naik 85% yoy menjadi KRW 959,9 miliar, ditopang pertumbuhan brokerage, WM, IB, dan trading.",
+        "body": "Korea Investment & Securities pada 14 Mei mengumumkan melalui laporan kinerja sementara bahwa laba operasi konsolidasi kuartal pertama 2026 mencapai KRW 959,9 miliar, naik 85% dibanding periode yang sama tahun lalu. Laba bersih meningkat 75% menjadi KRW 784,7 miliar. Perusahaan melanjutkan tren kuat setelah tahun lalu menjadi perusahaan sekuritas pertama di Korea yang melampaui KRW 2 triliun untuk laba operasi tahunan dan laba bersih. Kontribusi laba berasal dari trading 39,1%, brokerage 33,3%, investment banking 18,6%, dan wealth management 9,0%. Pendapatan brokerage naik 55% dari kuartal sebelumnya seiring pasar saham yang kuat, sementara komisi penjualan WM melonjak 71,6% berkat penjualan produk keuangan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "c1069a0be640",
+    "slug": "ai-진짜-수혜주는-반도체에-가려져-있다강방천이-픽한-업종은-135995",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T19:22:05.718Z",
+    "updatedAt": "2026-05-14T19:22:05.718Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047928",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047928",
+    "titleFingerprint": "ab2305b99a4a3fc6ebd291171721c5471b0bff03",
+    "dedupKeys": [
+      "c1069a0be640151d9cd94d542e4ad84d3c278693",
+      "ab2305b99a4a3fc6ebd291171721c5471b0bff03",
+      "05d4e97ad2c772a6f74eda881673398df30149a0"
+    ],
+    "imageUrl": "/images/articles/c1069a0be640.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 수혜주, 반도체 밖에도 있다…강방천이 본 시장의 다음 질문",
+        "excerpt": "강방천 에셋플러스자산운용 설립자가 매경플러스 ‘한국의 위대한 투자자’ 시리즈에서 AI 수혜주와 시장 진단을 주제로 투자 관점을 밝혔다.",
+        "body": "강방천 에셋플러스자산운용 설립자는 매경플러스 ‘한국의 위대한 투자자’ 시리즈 첫 주인공으로 소개되며 AI 수혜주와 시장 흐름에 대한 진단을 내놨다. 원문은 그를 한국 투자업계의 살아 있는 전설로 설명하고, 미국 금융전문 저널에서도 조명된 인물이라고 전했다. 이번 3편은 ‘시장 진단’을 주제로, AI 투자 열풍 속에서 반도체에 가려진 실제 수혜 업종을 살펴보는 내용이다. AI 관련 투자 관심이 특정 종목과 업종에 집중되는 가운데, 강방천의 관점은 시장 참여자들이 수혜 구조를 더 넓게 점검해야 한다는 질문을 던진다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI Winners May Extend Beyond Semiconductors, Kang Bang-chun Says",
+        "excerpt": "Kang Bang-chun, founder of AssetPlus Investment Management, discussed AI beneficiaries and market diagnosis in Maeil Business Newspaper’s investor series.",
+        "body": "Kang Bang-chun, founder of AssetPlus Investment Management, was featured as the first figure in Maeil Business Newspaper’s MaeKyung Plus series, “Korea’s Great Investors,” where he shared a diagnosis of AI-related beneficiaries and market trends. The original article describes him as a living legend in Korea’s investment industry and notes that he has also been covered by a U.S. financial journal. This third installment focuses on market diagnosis and looks at industries that may be real AI beneficiaries but are overshadowed by semiconductors. As investor attention around AI remains concentrated in certain stocks and sectors, Kang’s view raises the question of whether market participants should examine the broader structure of beneficiaries. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIの本当の恩恵は半導体の外にも、姜邦天氏が見る市場",
+        "excerpt": "アセットプラス資産運用創業者の姜邦天氏が、毎経プラス「韓国の偉大な投資家」シリーズでAI受益株と市場診断を語った。",
+        "body": "アセットプラス資産運用の創業者である姜邦天氏は、毎経プラス「韓国の偉大な投資家」シリーズの最初の人物として紹介され、AI受益株と市場の流れについて診断を示した。原文は同氏を韓国投資業界の生きた伝説と説明し、米国の金融専門誌でも取り上げられた人物だと伝えている。今回の第3回は「市場診断」をテーマに、AI投資ブームの中で半導体に隠れた実際の受益業種を取り上げる内容だ。AI関連投資への関心が特定の銘柄や業種に集中する中、姜氏の見方は市場参加者に受益構造をより広く点検する必要があるのかという問いを投げかけている。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI受益股不只半导体，姜邦天解读市场下一道问题",
+        "excerpt": "AssetPlus资产运用创始人姜邦天在每日经济Plus“韩国伟大投资者”系列中，就AI受益股与市场判断提出观点。",
+        "body": "AssetPlus资产运用创始人姜邦天作为每日经济Plus“韩国伟大投资者”系列的首位人物登场，并就AI受益股和市场走势提出诊断。原文称他是韩国投资业界的活传奇，并提到他也曾受到美国金融专业期刊关注。本系列第三篇以“市场诊断”为主题，讨论在AI投资热潮中被半导体光环遮住的实际受益行业。当前AI相关投资关注集中在特定股票和行业之际，姜邦天的观点向市场参与者提出一个问题：是否应更广泛地审视AI受益结构。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ganadores de la IA pueden estar fuera de chips, según Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, fundador de AssetPlus Investment Management, expuso en la serie de MaeKyung Plus su visión sobre beneficiarios de la IA y el mercado.",
+        "body": "Kang Bang-chun, fundador de AssetPlus Investment Management, fue presentado como el primer protagonista de la serie de MaeKyung Plus “Grandes inversores de Corea” y ofreció un diagnóstico sobre los beneficiarios de la IA y la evolución del mercado. El artículo original lo describe como una leyenda viva del sector inversor coreano y señala que también fue destacado por una revista financiera estadounidense. Esta tercera entrega se centra en el diagnóstico del mercado y aborda sectores que podrían ser beneficiarios reales de la IA, pero que quedan opacados por los semiconductores. Mientras el interés inversor en IA se concentra en ciertas acciones y sectores, la visión de Kang plantea si los participantes del mercado deben revisar con más amplitud la estructura de beneficiarios. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Beneficiários da IA podem ir além dos chips, diz Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, fundador da AssetPlus Investment Management, apresentou na série da MaeKyung Plus sua leitura sobre beneficiários da IA e mercado.",
+        "body": "Kang Bang-chun, fundador da AssetPlus Investment Management, foi apresentado como o primeiro personagem da série da MaeKyung Plus “Grandes investidores da Coreia” e divulgou uma avaliação sobre beneficiários da IA e a dinâmica do mercado. O texto original o descreve como uma lenda viva do setor de investimentos coreano e afirma que ele também foi destacado por uma revista financeira dos Estados Unidos. Esta terceira parte tem como tema o diagnóstico de mercado e trata de setores que podem ser beneficiários reais da IA, mas ficam encobertos pelos semicondutores. Com o interesse em investimentos ligados à IA concentrado em certas ações e setores, a visão de Kang levanta a questão de examinar de forma mais ampla a estrutura de beneficiários. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI-Gewinner liegen nicht nur bei Chips, sagt Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, Gründer von AssetPlus Investment Management, sprach in der MaeKyung-Plus-Serie über KI-Profiteure und seine Marktdiagnose.",
+        "body": "Kang Bang-chun, Gründer von AssetPlus Investment Management, wurde als erste Persönlichkeit der MaeKyung-Plus-Serie „Koreas große Investoren“ vorgestellt und legte eine Einschätzung zu KI-Profiteuren und Markttrends vor. Der Originalartikel beschreibt ihn als lebende Legende der koreanischen Investmentbranche und erwähnt, dass er auch von einem US-Finanzfachjournal beachtet wurde. Der dritte Teil steht unter dem Thema Marktdiagnose und befasst sich mit Branchen, die reale Nutznießer der KI sein könnten, aber von Halbleitern überdeckt werden. Während sich das Anlegerinteresse an KI auf bestimmte Aktien und Sektoren konzentriert, wirft Kangs Sicht die Frage auf, ob Marktteilnehmer die Struktur der Profiteure breiter prüfen sollten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les gagnants de l’IA ne sont pas que les puces, selon Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, fondateur d’AssetPlus Investment Management, a livré dans la série MaeKyung Plus son diagnostic sur l’IA et les marchés.",
+        "body": "Kang Bang-chun, fondateur d’AssetPlus Investment Management, a été présenté comme le premier portrait de la série MaeKyung Plus « Les grands investisseurs de Corée » et a livré un diagnostic sur les bénéficiaires de l’IA et l’évolution du marché. L’article original le décrit comme une légende vivante du secteur coréen de l’investissement et indique qu’il a aussi été mis en lumière par une revue financière américaine. Ce troisième volet porte sur le diagnostic de marché et examine les secteurs qui pourraient être de véritables bénéficiaires de l’IA, mais restent éclipsés par les semi-conducteurs. Alors que l’intérêt des investisseurs pour l’IA se concentre sur certains titres et secteurs, la vision de Kang invite à examiner plus largement la structure des bénéficiaires. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مستفيدو الذكاء الاصطناعي قد يكونون خارج الرقائق، وفق كانغ بانغ تشون",
+        "excerpt": "كانغ بانغ تشون، مؤسس AssetPlus Investment Management، عرض في سلسلة MaeKyung Plus رؤيته حول المستفيدين من الذكاء الاصطناعي وتشخيص السوق.",
+        "body": "قدمت MaeKyung Plus كانغ بانغ تشون، مؤسس AssetPlus Investment Management، كأول شخصية في سلسلة «كبار المستثمرين في كوريا»، حيث عرض تشخيصه للمستفيدين من الذكاء الاصطناعي واتجاهات السوق. يصفه النص الأصلي بأنه أسطورة حية في قطاع الاستثمار الكوري، ويذكر أنه حظي أيضا باهتمام مجلة مالية أمريكية متخصصة. يركز الجزء الثالث على «تشخيص السوق»، ويتناول قطاعات قد تكون من المستفيدين الحقيقيين من الذكاء الاصطناعي لكنها محجوبة خلف قطاع أشباه الموصلات. ومع تركز اهتمام المستثمرين بالذكاء الاصطناعي في أسهم وقطاعات محددة، تطرح رؤية كانغ سؤالا حول ضرورة فحص هيكل المستفيدين على نطاق أوسع. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI के असली लाभार्थी चिप्स से बाहर भी, कांग बैंग-चुन का संकेत",
+        "excerpt": "AssetPlus Investment Management के संस्थापक कांग बैंग-चुन ने MaeKyung Plus की निवेशक श्रृंखला में AI लाभार्थियों और बाजार पर अपनी राय रखी।",
+        "body": "AssetPlus Investment Management के संस्थापक कांग बैंग-चुन को MaeKyung Plus की “कोरिया के महान निवेशक” श्रृंखला के पहले व्यक्तित्व के रूप में प्रस्तुत किया गया, जहां उन्होंने AI से जुड़े लाभार्थियों और बाजार प्रवाह पर अपना आकलन दिया। मूल लेख उन्हें कोरिया के निवेश उद्योग की जीवित किंवदंती बताता है और यह भी उल्लेख करता है कि एक अमेरिकी वित्तीय पत्रिका ने भी उन पर ध्यान दिया था। तीसरी कड़ी का विषय “बाजार निदान” है और इसमें ऐसे उद्योगों को देखा गया है जो AI के वास्तविक लाभार्थी हो सकते हैं, लेकिन सेमीकंडक्टर क्षेत्र की छाया में हैं। जब AI निवेश में रुचि कुछ शेयरों और क्षेत्रों पर केंद्रित है, कांग का दृष्टिकोण बाजार प्रतिभागियों के सामने लाभार्थी संरचना को व्यापक रूप से परखने का प्रश्न रखता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Pemenang AI Bisa Ada di Luar Semikonduktor, Kata Kang Bang-chun",
+        "excerpt": "Kang Bang-chun, pendiri AssetPlus Investment Management, membahas penerima manfaat AI dan diagnosis pasar dalam seri investor MaeKyung Plus.",
+        "body": "Kang Bang-chun, pendiri AssetPlus Investment Management, diperkenalkan sebagai tokoh pertama dalam seri MaeKyung Plus “Investor Hebat Korea” dan menyampaikan diagnosis tentang penerima manfaat AI serta arus pasar. Artikel asli menggambarkannya sebagai legenda hidup di industri investasi Korea dan menyebut bahwa ia juga pernah disorot oleh jurnal keuangan Amerika Serikat. Bagian ketiga ini bertema diagnosis pasar dan membahas sektor yang mungkin menjadi penerima manfaat nyata dari AI, tetapi tertutup oleh perhatian pada semikonduktor. Saat minat investasi terkait AI terpusat pada saham dan sektor tertentu, pandangan Kang mengajukan pertanyaan apakah pelaku pasar perlu memeriksa struktur penerima manfaat secara lebih luas. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "edf2846ea3a4",
     "slug": "하이닉스-이어-카카오까지미국-adr로-눈-돌린-까닭-572104",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Saham Semikonduktor Beri Sinyal Overbought Tertinggi Sejak Dotcom",
         "excerpt": "Reuters melaporkan pada 13 Mei bahwa saham semikonduktor AS menunjukkan tanda memasuki fase paling panas sejak runtuhnya gelembung dotcom.",
         "body": "Saham semikonduktor Amerika Serikat menunjukkan tanda memasuki fase overbought tertinggi sejak runtuhnya gelembung dotcom, lapor Reuters pada 13 Mei waktu setempat. Teks sumber menyebut pergerakan Indeks Semikonduktor Philadelphia, atau SOX, sebagai dasar penilaian sinyal panas tersebut. Saham semikonduktor tetap menjadi fokus pasar, dan optimisme investor masih berlanjut meski ada tanda overheating. Namun, sebagian angka dalam ringkasan asli yang diberikan tidak tercantum, sehingga level indeks secara spesifik tidak dapat dikonfirmasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "56095741b77a",
-    "slug": "mk시그널-덕산하이메탈-fcbga-점유율-확대-및-실적-기대감에-주가-상승세-mk시그널-추천-후-상승률-31-374784",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T01:20:33.155Z",
-    "updatedAt": "2026-05-14T01:20:33.155Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047222",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047222",
-    "titleFingerprint": "197f86d99fd65e62bc90d083f52c37bde64c239f",
-    "dedupKeys": [
-      "56095741b77a2968a3d3aa2f023bbc428fa9d47b",
-      "197f86d99fd65e62bc90d083f52c37bde64c239f",
-      "ebb11125b115b47752747a1aa7e112322d49cbf5"
-    ],
-    "imageUrl": "/images/articles/56095741b77a.png",
-    "i18n": {
-      "ko": {
-        "title": "덕산하이메탈 주가 상승세, FCBGA 점유율 확대와 실적 기대감 부각",
-        "excerpt": "5월 14일 덕산하이메탈(077360)이 FCBGA 점유율 확대와 실적 기대감 속에 장 초반 18,200원에 거래되며 MK시그널 추천 후 31.06% 상승률을 기록했다.",
-        "body": "5월 14일 오전 9시 13분 기준 덕산하이메탈(077360) 주가가 18,200원에 거래되며 상승세를 보이고 있다. 전 거래일 덕산하이메탈은 종가 기준 18,110원 상승으로 마감했다. 이번 주가 흐름은 FCBGA 점유율 확대와 향후 실적 기대감이 부각된 가운데 나타났다. MK시그널 추천 이후 덕산하이메탈의 상승률은 31.06%로 집계됐다. 시장에서는 관련 수치와 주가 흐름을 통해 투자자 관심이 이어지고 있음을 확인할 수 있다. 다만 기사에서 제시된 정보는 현재 주가와 추천 후 상승률, FCBGA 점유율 확대 및 실적 기대감에 한정된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Duksan Hi-Metal Shares Rise on FCBGA Share Gains and Earnings Hopes",
-        "excerpt": "On May 14, Duksan Hi-Metal (077360) traded at 18,200 won in early trading as expectations for FCBGA market-share expansion and earnings lifted shares after MK Signal’s call.",
-        "body": "As of 9:13 a.m. on May 14, Duksan Hi-Metal (077360) was trading at 18,200 won, showing an upward trend. In the previous session, Duksan Hi-Metal closed at 18,110 won on a closing-price basis. The move came as attention focused on the company’s expanding FCBGA share and expectations for future earnings. Since MK Signal recommended the stock, Duksan Hi-Metal has recorded a gain of 31.06%. The figures indicate continued investor interest in the stock’s price movement. The reported information is limited to the current share price, the post-recommendation gain, FCBGA share expansion, and earnings expectations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "徳山ハイメタル株が上昇、FCBGAシェア拡大と業績期待が材料",
-        "excerpt": "5月14日、徳山ハイメタル（077360）はFCBGAシェア拡大と業績期待を背景に、午前9時13分時点で18,200ウォンで取引されている。",
-        "body": "5月14日午前9時13分時点で、徳山ハイメタル（077360）の株価は18,200ウォンで取引され、上昇基調を示している。前取引日には終値ベースで18,110ウォン上昇して取引を終えた。今回の株価の動きは、FCBGAのシェア拡大と今後の業績期待が注目された中で現れた。MKシグナルの推奨後、徳山ハイメタルの上昇率は31.06％と集計された。関連数値と株価推移から、投資家の関心が続いていることがうかがえる。ただし、記事で示された情報は現在株価、推奨後上昇率、FCBGAシェア拡大、業績期待に限られる。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "德山高金属股价走强，FCBGA份额扩大与业绩预期受关注",
-        "excerpt": "5月14日，德山高金属（077360）因FCBGA份额扩大和业绩预期受到关注，上午9点13分报18,200韩元，MK Signal推荐后涨幅达31.06%。",
-        "body": "截至5月14日上午9点13分，德山高金属（077360）股价报18,200韩元，呈现上涨走势。前一交易日，德山高金属以收盘价18,110韩元结束交易。本轮股价表现出现在FCBGA份额扩大以及未来业绩预期受到关注的背景下。自MK Signal推荐以来，德山高金属累计涨幅为31.06%。相关价格和涨幅显示，投资者对该股的关注仍在持续。不过，报道所提供的信息仅限于当前股价、推荐后涨幅、FCBGA份额扩大以及业绩预期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Duksan Hi-Metal sube por mayor cuota FCBGA y expectativas de resultados",
-        "excerpt": "El 14 de mayo, Duksan Hi-Metal (077360) cotizaba a 18.200 wones a las 9:13, impulsada por la expansión de cuota FCBGA y expectativas de resultados.",
-        "body": "A las 9:13 del 14 de mayo, Duksan Hi-Metal (077360) cotizaba a 18.200 wones y mostraba una tendencia alcista. En la sesión anterior, la acción cerró en 18.110 wones según el precio de cierre. El movimiento se produjo mientras ganaban atención la expansión de su cuota en FCBGA y las expectativas sobre sus resultados futuros. Desde la recomendación de MK Signal, Duksan Hi-Metal acumula una subida del 31,06%. Las cifras reflejan que el interés de los inversores continúa centrado en la evolución del valor. La información citada se limita al precio actual, la subida tras la recomendación, la expansión en FCBGA y las expectativas de resultados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Duksan Hi-Metal avança com maior fatia em FCBGA e expectativa de lucro",
-        "excerpt": "Em 14 de maio, a Duksan Hi-Metal (077360) era negociada a 18.200 won às 9h13, com alta ligada à expansão em FCBGA e expectativas de desempenho.",
-        "body": "Às 9h13 de 14 de maio, a Duksan Hi-Metal (077360) era negociada a 18.200 won, mostrando tendência de alta. No pregão anterior, a ação encerrou a 18.110 won com base no preço de fechamento. O movimento ocorreu em meio ao destaque dado à expansão da participação em FCBGA e às expectativas de desempenho futuro. Desde a recomendação da MK Signal, a Duksan Hi-Metal registrou valorização de 31,06%. Os números indicam que o interesse dos investidores segue acompanhado a trajetória do papel. As informações apresentadas se limitam ao preço atual, à alta após a recomendação, à expansão em FCBGA e às expectativas de resultados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Duksan Hi-Metal steigt wegen FCBGA-Anteil und Ergebniserwartungen",
-        "excerpt": "Am 14. Mai notierte Duksan Hi-Metal (077360) um 9:13 Uhr bei 18.200 Won, gestützt durch Erwartungen an FCBGA-Anteilsgewinne und bessere Ergebnisse.",
-        "body": "Am 14. Mai um 9:13 Uhr wurde Duksan Hi-Metal (077360) bei 18.200 Won gehandelt und zeigte eine Aufwärtsbewegung. In der vorherigen Sitzung schloss die Aktie auf Schlusskursbasis bei 18.110 Won. Die Kursentwicklung erfolgte vor dem Hintergrund einer hervorgehobenen Ausweitung des FCBGA-Anteils und Erwartungen an die künftige Geschäftsentwicklung. Seit der Empfehlung durch MK Signal hat Duksan Hi-Metal einen Anstieg von 31,06 % verzeichnet. Die genannten Zahlen deuten auf anhaltendes Anlegerinteresse an der Aktie hin. Die Angaben beschränken sich auf den aktuellen Kurs, den Anstieg seit der Empfehlung, die FCBGA-Anteilsausweitung und die Ergebniserwartungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Duksan Hi-Metal progresse avec la hausse de part FCBGA et l’espoir de résultats",
-        "excerpt": "Le 14 mai, Duksan Hi-Metal (077360) cotait 18 200 wons à 9 h 13, portée par l’expansion de sa part FCBGA et les attentes de résultats.",
-        "body": "Le 14 mai à 9 h 13, Duksan Hi-Metal (077360) se négociait à 18 200 wons, affichant une tendance haussière. Lors de la séance précédente, l’action avait terminé à 18 110 wons sur la base du cours de clôture. Ce mouvement intervient alors que l’expansion de la part de marché en FCBGA et les attentes concernant les résultats futurs retiennent l’attention. Depuis la recommandation de MK Signal, Duksan Hi-Metal affiche une progression de 31,06 %. Ces chiffres montrent que l’intérêt des investisseurs pour l’évolution du titre se maintient. Les informations citées se limitent au cours actuel, à la hausse depuis la recommandation, à l’expansion en FCBGA et aux attentes de résultats. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "ارتفاع سهم دوكسان هاي ميتال بدعم توسع FCBGA وتوقعات الأداء",
-        "excerpt": "في 14 مايو، جرى تداول سهم دوكسان هاي ميتال (077360) عند 18,200 وون في الساعة 9:13 صباحا، مع بروز توسع حصة FCBGA وتوقعات النتائج.",
-        "body": "في الساعة 9:13 صباحا من يوم 14 مايو، جرى تداول سهم دوكسان هاي ميتال (077360) عند 18,200 وون، مسجلا اتجاها صاعدا. وفي الجلسة السابقة، أغلق السهم عند 18,110 وون على أساس سعر الإغلاق. جاء هذا التحرك مع بروز توسع حصة الشركة في FCBGA وتوقعات الأداء المستقبلي. ومنذ توصية MK Signal، سجل سهم دوكسان هاي ميتال ارتفاعا بنسبة 31.06%. وتشير هذه الأرقام إلى استمرار اهتمام المستثمرين بحركة السهم. وتقتصر المعلومات الواردة في التقرير على السعر الحالي، ونسبة الارتفاع بعد التوصية، وتوسع حصة FCBGA، وتوقعات الأداء. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "FCBGA हिस्सेदारी और नतीजों की उम्मीद से Duksan Hi-Metal शेयर में तेजी",
-        "excerpt": "14 मई को Duksan Hi-Metal (077360) सुबह 9:13 बजे 18,200 वॉन पर कारोबार कर रहा था, FCBGA हिस्सेदारी विस्तार और नतीजों की उम्मीद से शेयर चढ़ा।",
-        "body": "14 मई को सुबह 9:13 बजे Duksan Hi-Metal (077360) का शेयर 18,200 वॉन पर कारोबार कर रहा था और इसमें तेजी का रुझान दिखा। पिछले कारोबारी सत्र में यह शेयर बंद भाव के आधार पर 18,110 वॉन पर समाप्त हुआ था। यह चाल FCBGA हिस्सेदारी के विस्तार और भविष्य के प्रदर्शन को लेकर उम्मीदों के बीच आई। MK Signal की सिफारिश के बाद Duksan Hi-Metal में 31.06% की बढ़त दर्ज की गई है। उपलब्ध आंकड़े बताते हैं कि शेयर की चाल पर निवेशकों की रुचि बनी हुई है। रिपोर्ट में दी गई जानकारी वर्तमान शेयर भाव, सिफारिश के बाद बढ़त, FCBGA हिस्सेदारी विस्तार और प्रदर्शन अपेक्षाओं तक सीमित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Duksan Hi-Metal Naik, Didorong Ekspansi FCBGA dan Harapan Kinerja",
-        "excerpt": "Pada 14 Mei, Duksan Hi-Metal (077360) diperdagangkan di 18.200 won pukul 09.13, seiring perhatian pada ekspansi pangsa FCBGA dan ekspektasi kinerja.",
-        "body": "Pada 14 Mei pukul 09.13, saham Duksan Hi-Metal (077360) diperdagangkan di 18.200 won dan menunjukkan tren kenaikan. Pada sesi sebelumnya, Duksan Hi-Metal ditutup di 18.110 won berdasarkan harga penutupan. Pergerakan ini terjadi saat ekspansi pangsa FCBGA dan ekspektasi kinerja ke depan menjadi perhatian. Sejak direkomendasikan oleh MK Signal, Duksan Hi-Metal mencatat kenaikan 31,06%. Angka tersebut menunjukkan minat investor terhadap pergerakan saham ini masih berlanjut. Informasi dalam laporan terbatas pada harga saat ini, kenaikan setelah rekomendasi, ekspansi pangsa FCBGA, dan ekspektasi kinerja. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "f895faa08e89",
-    "slug": "mk-골든크로스-돌파종목-에이프로젠007460-레이저쎌412350-840481",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T01:19:36.252Z",
-    "updatedAt": "2026-05-14T01:19:36.253Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047229",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047229",
-    "titleFingerprint": "8f3d01a2aa8c5227f16c52533fd0ada8b98c6464",
-    "dedupKeys": [
-      "f895faa08e89a1d32df6a347333c4fdf7027d5ab",
-      "8f3d01a2aa8c5227f16c52533fd0ada8b98c6464",
-      "da1b87adfde2b02f40a868fcb62b4ec53c251f26"
-    ],
-    "imageUrl": "/images/articles/f895faa08e89.png",
-    "i18n": {
-      "ko": {
-        "title": "에이프로젠·레이저쎌, MK시그널 골든크로스 돌파종목 선정",
-        "excerpt": "MK시그널은 국내 증시에서 주목받는 핫 이슈 종목으로 에이프로젠(007460)과 레이저쎌(412350)을 골든크로스 돌파종목으로 분석했다.",
-        "body": "AI 기자 ‘MK시그널’은 국내 증시의 핫 이슈 종목을 분석하며 에이프로젠(007460)과 레이저쎌(412350)을 골든크로스 돌파종목으로 제시했다. 골든크로스는 시장에서 기술적 흐름을 살필 때 주목되는 신호로, 이번 분석은 두 종목이 해당 조건에 포착됐다는 점에 초점을 맞췄다. 기사에 따르면 MK시그널은 에이프로젠과 레이저쎌을 오늘의 핫 이슈 골든크로스 종목으로 다뤘다. 투자자는 관련 종목의 흐름과 공시, 시장 변동성을 함께 확인할 필요가 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Aprogen and Laserssel Named MK Signal Golden Cross Stocks",
-        "excerpt": "MK Signal analyzed Aprogen (007460) and Laserssel (412350) as hot domestic market stocks that broke through a golden cross signal.",
-        "body": "AI reporter “MK Signal” analyzed hot issues in the domestic stock market and highlighted Aprogen (007460) and Laserssel (412350) as stocks that broke through a golden cross. A golden cross is a technical signal watched by market participants, and the article focused on the two stocks being detected under that condition. According to the report, MK Signal covered Aprogen and Laserssel as today’s hot issue golden cross stocks. Investors need to check each stock’s movement, disclosures, and market volatility together. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "エイプロジェンとレーザーセル、MKシグナルのゴールデンクロス銘柄に",
-        "excerpt": "MKシグナルは韓国株式市場で注目されるホット銘柄として、エイプロジェン(007460)とレーザーセル(412350)をゴールデンクロス突破銘柄に分析した。",
-        "body": "AI記者「MKシグナル」は韓国株式市場のホットイシュー銘柄を分析し、エイプロジェン(007460)とレーザーセル(412350)をゴールデンクロス突破銘柄として提示した。ゴールデンクロスは市場でテクニカルな流れを見る際に注目されるシグナルで、今回の分析は両銘柄がその条件に捉えられた点に焦点を当てている。記事によると、MKシグナルはエイプロジェンとレーザーセルを今日のホットイシュー・ゴールデンクロス銘柄として扱った。投資家は各銘柄の値動き、開示、市場変動性を併せて確認する必要がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Aprogen与Laserssel入选MK Signal金叉突破个股",
-        "excerpt": "MK Signal将韩国市场受关注的热门个股Aprogen(007460)和Laserssel(412350)分析为金叉突破个股。",
-        "body": "AI记者“MK Signal”分析韩国股市热门议题个股，并将Aprogen(007460)和Laserssel(412350)列为金叉突破个股。金叉是市场观察技术走势时关注的信号，本次分析聚焦于这两只个股被捕捉到符合该条件。报道称，MK Signal把Aprogen和Laserssel作为今日热门金叉个股进行介绍。投资者需要同时确认相关个股走势、公告以及市场波动性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Aprogen y Laserssel figuran como acciones de cruce dorado de MK Signal",
-        "excerpt": "MK Signal analizó a Aprogen (007460) y Laserssel (412350) como acciones destacadas del mercado surcoreano que superaron una señal de cruce dorado.",
-        "body": "El reportero de IA “MK Signal” analizó acciones de actualidad en el mercado surcoreano y presentó a Aprogen (007460) y Laserssel (412350) como valores que superaron un cruce dorado. El cruce dorado es una señal técnica observada por el mercado, y el análisis se centra en que ambas acciones fueron detectadas bajo esa condición. Según el artículo, MK Signal trató a Aprogen y Laserssel como las acciones de cruce dorado destacadas del día. Los inversores deben revisar junto con ello la evolución de cada valor, sus comunicados y la volatilidad del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Aprogen e Laserssel entram na lista de cruzamento dourado da MK Signal",
-        "excerpt": "A MK Signal analisou Aprogen (007460) e Laserssel (412350) como ações em destaque no mercado sul-coreano que romperam um sinal de cruzamento dourado.",
-        "body": "O repórter de IA “MK Signal” analisou ações em evidência no mercado sul-coreano e apontou Aprogen (007460) e Laserssel (412350) como papéis que romperam um cruzamento dourado. O cruzamento dourado é um sinal técnico acompanhado pelo mercado, e a análise se concentrou no fato de as duas ações terem sido identificadas nessa condição. Segundo a reportagem, a MK Signal tratou Aprogen e Laserssel como as ações de cruzamento dourado em destaque do dia. Investidores devem verificar também o movimento dos papéis, comunicados e volatilidade do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Aprogen und Laserssel als Golden-Cross-Aktien von MK Signal genannt",
-        "excerpt": "MK Signal analysierte Aprogen (007460) und Laserssel (412350) als viel beachtete südkoreanische Aktien, die ein Golden-Cross-Signal durchbrochen haben.",
-        "body": "Der KI-Reporter „MK Signal“ analysierte aktuelle Schwerpunktaktien am südkoreanischen Markt und nannte Aprogen (007460) sowie Laserssel (412350) als Titel mit Golden-Cross-Durchbruch. Ein Golden Cross ist ein technisches Signal, das Marktteilnehmer beobachten; der Artikel konzentriert sich darauf, dass beide Aktien unter dieser Bedingung erfasst wurden. Dem Bericht zufolge behandelte MK Signal Aprogen und Laserssel als heutige Hot-Issue-Golden-Cross-Aktien. Anleger sollten zusätzlich Kursverlauf, Mitteilungen und Marktvolatilität prüfen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Aprogen et Laserssel cités par MK Signal parmi les valeurs à golden cross",
-        "excerpt": "MK Signal a analysé Aprogen (007460) et Laserssel (412350) comme des valeurs sud-coréennes suivies ayant franchi un signal de golden cross.",
-        "body": "Le journaliste IA « MK Signal » a analysé les valeurs d’actualité du marché sud-coréen et présenté Aprogen (007460) et Laserssel (412350) comme des actions ayant franchi un golden cross. Le golden cross est un signal technique surveillé par le marché, et l’analyse se concentre sur le fait que ces deux titres ont été repérés dans cette condition. Selon l’article, MK Signal a traité Aprogen et Laserssel comme les valeurs golden cross du jour. Les investisseurs doivent aussi vérifier l’évolution des titres, les publications et la volatilité du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أبروجين وليزرسل ضمن أسهم التقاطع الذهبي في تحليل MK Signal",
-        "excerpt": "حللت MK Signal سهمي أبروجين (007460) وليزرسل (412350) باعتبارهما من الأسهم الكورية اللافتة التي ظهرت ضمن أسهم اختراق التقاطع الذهبي.",
-        "body": "حلل مراسل الذكاء الاصطناعي “MK Signal” الأسهم محل الاهتمام في السوق الكورية، وقدم أبروجين (007460) وليزرسل (412350) كسهمين حققا إشارة اختراق التقاطع الذهبي. ويعد التقاطع الذهبي إشارة فنية يتابعها السوق عند قراءة الاتجاهات، وتركز التحليل على رصد السهمين ضمن هذا الشرط. وبحسب المقال، تناولت MK Signal أبروجين وليزرسل كأسهم التقاطع الذهبي الساخنة لليوم. وينبغي للمستثمرين متابعة حركة السهمين والإفصاحات وتقلبات السوق معا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Aprogen और Laserssel, MK Signal की गोल्डन क्रॉस सूची में शामिल",
-        "excerpt": "MK Signal ने घरेलू बाजार के चर्चित शेयरों में Aprogen (007460) और Laserssel (412350) को गोल्डन क्रॉस ब्रेकथ्रू शेयरों के रूप में विश्लेषित किया।",
-        "body": "AI रिपोर्टर “MK Signal” ने दक्षिण कोरियाई शेयर बाजार के चर्चित शेयरों का विश्लेषण करते हुए Aprogen (007460) और Laserssel (412350) को गोल्डन क्रॉस ब्रेकथ्रू शेयरों के रूप में प्रस्तुत किया। गोल्डन क्रॉस बाजार में तकनीकी रुझान देखते समय ध्यान देने योग्य संकेत माना जाता है, और यह विश्लेषण दोनों शेयरों के इसी शर्त में पकड़े जाने पर केंद्रित है। लेख के अनुसार, MK Signal ने Aprogen और Laserssel को आज के हॉट इश्यू गोल्डन क्रॉस शेयरों के रूप में लिया। निवेशकों को इनके भाव, खुलासों और बाजार अस्थिरता को साथ में देखना चाहिए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Aprogen dan Laserssel Masuk Saham Golden Cross Versi MK Signal",
-        "excerpt": "MK Signal menganalisis Aprogen (007460) dan Laserssel (412350) sebagai saham isu panas di pasar Korea Selatan yang menembus sinyal golden cross.",
-        "body": "Reporter AI “MK Signal” menganalisis saham isu panas di pasar Korea Selatan dan menyoroti Aprogen (007460) serta Laserssel (412350) sebagai saham yang menembus golden cross. Golden cross adalah sinyal teknikal yang diperhatikan pasar saat membaca arah pergerakan, dan analisis ini berfokus pada fakta bahwa kedua saham tersebut terdeteksi dalam kondisi itu. Menurut artikel tersebut, MK Signal membahas Aprogen dan Laserssel sebagai saham golden cross isu panas hari ini. Investor perlu turut memeriksa pergerakan saham, keterbukaan informasi, dan volatilitas pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d2948495ec30",
-    "slug": "젠큐릭스-droplex-pole-연구-국제학술지-게재-533618",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T01:18:46.285Z",
-    "updatedAt": "2026-05-14T01:18:46.285Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047258",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047258",
-    "titleFingerprint": "c12e1879dd29f5a66e1b9507b7326f8a3d8c5046",
-    "dedupKeys": [
-      "d2948495ec3027940f1434a4d4a26c2ac4f588fb",
-      "c12e1879dd29f5a66e1b9507b7326f8a3d8c5046",
-      "bef9a33433fdde349262d4ff4cff13079a4c5e63"
-    ],
-    "imageUrl": "/images/articles/d2948495ec30.jpg",
-    "i18n": {
-      "ko": {
-        "title": "젠큐릭스 Droplex POLE 연구 국제학술지 게재, 자궁내막암 POLE 변이검사 주목",
-        "excerpt": "젠큐릭스가 자궁내막암 POLE 변이 검출용 ddPCR 기반 검사 Droplex POLE Mutation Test 연구가 국제학술지에 게재됐다고 밝혔다. 정밀의료 진단 영역에서 해당 검사 기술의 연구 성과를 알린 소식이다.",
-        "body": "정밀의료 진단기업 젠큐릭스는 자궁내막암에서 POLE 변이를 검출하기 위한 자사의 디지털 PCR(ddPCR) 기반 검사 ‘드롭플렉스 POLE 뮤테이션 테스트(Droplex POLE Mutation Test)’ 관련 연구가 국제학술지에 게재됐다고 밝혔다. 이번 연구는 자궁내막암 POLE 변이 검출을 목표로 한 검사 기술을 다뤘으며, ddPCR 기반 접근법을 활용한 점이 핵심이다. POLE 변이 검출은 정밀의료 진단 분야에서 관련 검사 기술의 성능과 활용 가능성을 확인하는 과정과 맞닿아 있다. 젠큐릭스는 이번 학술지 게재를 통해 Droplex POLE 검사 연구 성과를 대외적으로 알리게 됐다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "GenCurix Droplex POLE Study Published, Spotlighting Endometrial Cancer Mutation Testing",
-        "excerpt": "GenCurix said research on its ddPCR-based Droplex POLE Mutation Test for detecting POLE mutations in endometrial cancer has been published in an international journal, highlighting a precision diagnostics milestone.",
-        "body": "Precision medicine diagnostics company GenCurix said its study on the Droplex POLE Mutation Test, a digital PCR(ddPCR)-based assay designed to detect POLE mutations in endometrial cancer, has been published in an international academic journal. The research focuses on a testing technology aimed at identifying POLE mutations in endometrial cancer, with its ddPCR-based approach at the center. POLE mutation detection is tied to the process of evaluating performance and potential use of related technologies in precision medical diagnostics. Through this journal publication, GenCurix has presented the research results of its Droplex POLE test externally. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ジェンキュリックスDroplex POLE研究が国際学術誌に掲載、子宮内膜がん変異検査に注目",
-        "excerpt": "ジェンキュリックスは、子宮内膜がんのPOLE変異検出向けddPCR基盤検査Droplex POLE Mutation Testの研究が国際学術誌に掲載されたと明らかにした。",
-        "body": "精密医療診断企業のジェンキュリックスは、子宮内膜がんでPOLE変異を検出するための自社のデジタルPCR(ddPCR)基盤検査「Droplex POLE Mutation Test」に関する研究が国際学術誌に掲載されたと発表した。今回の研究は、子宮内膜がんのPOLE変異検出を目的とする検査技術を扱っており、ddPCRに基づくアプローチを活用した点が中心となる。POLE変異検出は、精密医療診断分野で関連検査技術の性能と活用可能性を確認する過程と結びついている。ジェンキュリックスは今回の学術誌掲載を通じ、Droplex POLE検査の研究成果を対外的に示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "GenCurix Droplex POLE研究登上国际期刊，子宫内膜癌突变检测受关注",
-        "excerpt": "GenCurix表示，其用于检测子宫内膜癌POLE突变的ddPCR检测Droplex POLE Mutation Test相关研究已发表于国际学术期刊，展示了精准医疗诊断领域的研究成果。",
-        "body": "精准医疗诊断企业GenCurix表示，其用于在子宫内膜癌中检测POLE突变的数字PCR(ddPCR)检测产品“Droplex POLE Mutation Test”相关研究已发表于国际学术期刊。该研究围绕以子宫内膜癌POLE突变检测为目标的检测技术展开，核心在于采用ddPCR方法。POLE突变检测与精准医疗诊断领域中确认相关检测技术性能及应用可能性的过程相联系。通过此次期刊发表，GenCurix对外展示了Droplex POLE检测研究成果。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Estudio Droplex POLE de GenCurix se publica y enfoca prueba de mutaciones en cáncer endometrial",
-        "excerpt": "GenCurix informó que un estudio sobre su prueba Droplex POLE Mutation Test, basada en ddPCR para detectar mutaciones POLE en cáncer endometrial, fue publicado en una revista académica internacional.",
-        "body": "La empresa de diagnóstico de medicina de precisión GenCurix informó que un estudio sobre su Droplex POLE Mutation Test, una prueba basada en PCR digital(ddPCR) para detectar mutaciones POLE en cáncer endometrial, fue publicado en una revista académica internacional. La investigación aborda una tecnología de prueba orientada a identificar mutaciones POLE en cáncer endometrial y tiene como punto central el uso de un enfoque basado en ddPCR. La detección de mutaciones POLE se vincula con el proceso de confirmar el desempeño y la posible aplicación de tecnologías de diagnóstico relacionadas en medicina de precisión. Con esta publicación, GenCurix dio a conocer los resultados de investigación de su prueba Droplex POLE. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Estudo Droplex POLE da GenCurix é publicado e destaca teste de mutações em câncer endometrial",
-        "excerpt": "A GenCurix afirmou que pesquisa sobre seu Droplex POLE Mutation Test, exame baseado em ddPCR para detectar mutações POLE em câncer endometrial, foi publicada em periódico acadêmico internacional.",
-        "body": "A empresa de diagnósticos de medicina de precisão GenCurix informou que um estudo sobre o Droplex POLE Mutation Test, exame próprio baseado em PCR digital(ddPCR) para detectar mutações POLE em câncer endometrial, foi publicado em um periódico acadêmico internacional. A pesquisa trata de uma tecnologia de teste voltada à detecção de mutações POLE em câncer endometrial, tendo como ponto central a abordagem baseada em ddPCR. A detecção de mutações POLE está ligada ao processo de verificar o desempenho e a possível utilização de tecnologias de diagnóstico relacionadas na medicina de precisão. Com a publicação, a GenCurix divulgou externamente os resultados de pesquisa do teste Droplex POLE. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "GenCurix Droplex-POLE-Studie veröffentlicht, Fokus auf Mutationstest bei Endometriumkrebs",
-        "excerpt": "GenCurix teilte mit, dass eine Studie zu seinem ddPCR-basierten Droplex POLE Mutation Test zum Nachweis von POLE-Mutationen bei Endometriumkrebs in einer internationalen Fachzeitschrift erschienen ist.",
-        "body": "Das Präzisionsdiagnostikunternehmen GenCurix teilte mit, dass eine Studie zum Droplex POLE Mutation Test, einem eigenen auf digitaler PCR(ddPCR) basierenden Test zum Nachweis von POLE-Mutationen bei Endometriumkrebs, in einer internationalen wissenschaftlichen Fachzeitschrift veröffentlicht wurde. Die Studie behandelt eine Testtechnologie, die auf den Nachweis von POLE-Mutationen bei Endometriumkrebs ausgerichtet ist; zentral ist dabei der ddPCR-basierte Ansatz. Der Nachweis von POLE-Mutationen steht im Zusammenhang mit der Bewertung von Leistung und möglicher Nutzung entsprechender Diagnostiktechnologien in der Präzisionsmedizin. Mit der Veröffentlichung macht GenCurix die Forschungsergebnisse seines Droplex-POLE-Tests öffentlich. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "L’étude Droplex POLE de GenCurix publiée, focus sur le test des mutations du cancer endométrial",
-        "excerpt": "GenCurix a indiqué que l’étude sur son Droplex POLE Mutation Test, test fondé sur la ddPCR pour détecter les mutations POLE dans le cancer de l’endomètre, a été publiée dans une revue internationale.",
-        "body": "La société de diagnostic de médecine de précision GenCurix a annoncé que l’étude consacrée à son Droplex POLE Mutation Test, un test fondé sur la PCR numérique(ddPCR) destiné à détecter les mutations POLE dans le cancer de l’endomètre, a été publiée dans une revue scientifique internationale. Cette recherche porte sur une technologie de test visant la détection des mutations POLE dans le cancer de l’endomètre, avec une approche ddPCR au centre. La détection des mutations POLE s’inscrit dans le processus d’évaluation des performances et des possibilités d’utilisation des technologies de diagnostic liées à la médecine de précision. Avec cette publication, GenCurix présente les résultats de recherche de son test Droplex POLE. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "نشر دراسة GenCurix Droplex POLE يسلط الضوء على اختبار طفرات سرطان بطانة الرحم",
-        "excerpt": "قالت GenCurix إن دراسة حول اختبار Droplex POLE Mutation Test القائم على ddPCR لكشف طفرات POLE في سرطان بطانة الرحم نُشرت في مجلة أكاديمية دولية، في نتيجة بحثية بمجال التشخيص الدقيق.",
-        "body": "أعلنت شركة GenCurix المتخصصة في تشخيصات الطب الدقيق أن دراسة تتعلق باختبارها Droplex POLE Mutation Test، وهو اختبار قائم على تفاعل PCR الرقمي(ddPCR) لكشف طفرات POLE في سرطان بطانة الرحم، نُشرت في مجلة أكاديمية دولية. تتناول الدراسة تقنية اختبار تستهدف كشف طفرات POLE في سرطان بطانة الرحم، ويعد استخدام نهج ddPCR محورها الأساسي. يرتبط كشف طفرات POLE بعملية التحقق من أداء تقنيات الفحص ذات الصلة وإمكان استخدامها في مجال تشخيصات الطب الدقيق. ومن خلال هذا النشر الأكاديمي، عرضت GenCurix نتائج أبحاث اختبار Droplex POLE على نطاق أوسع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "GenCurix Droplex POLE अध्ययन प्रकाशित, एंडोमेट्रियल कैंसर म्यूटेशन टेस्ट पर ध्यान",
-        "excerpt": "GenCurix ने बताया कि एंडोमेट्रियल कैंसर में POLE म्यूटेशन का पता लगाने वाले ddPCR आधारित Droplex POLE Mutation Test पर उसका अध्ययन अंतरराष्ट्रीय अकादमिक जर्नल में प्रकाशित हुआ है।",
-        "body": "प्रिसिजन मेडिसिन डायग्नोस्टिक्स कंपनी GenCurix ने कहा कि एंडोमेट्रियल कैंसर में POLE म्यूटेशन का पता लगाने के लिए उसके डिजिटल PCR(ddPCR) आधारित परीक्षण “Droplex POLE Mutation Test” से जुड़ा अध्ययन एक अंतरराष्ट्रीय अकादमिक जर्नल में प्रकाशित हुआ है। यह शोध एंडोमेट्रियल कैंसर में POLE म्यूटेशन की पहचान को लक्ष्य बनाने वाली परीक्षण तकनीक पर केंद्रित है, जिसमें ddPCR आधारित दृष्टिकोण मुख्य है। POLE म्यूटेशन डिटेक्शन प्रिसिजन मेडिकल डायग्नोस्टिक्स क्षेत्र में संबंधित परीक्षण तकनीक के प्रदर्शन और उपयोग की संभावना को परखने की प्रक्रिया से जुड़ा है। इस प्रकाशन के जरिए GenCurix ने Droplex POLE परीक्षण के शोध परिणामों को सार्वजनिक रूप से प्रस्तुत किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Studi GenCurix Droplex POLE Terbit, Soroti Tes Mutasi POLE pada Kanker Endometrium",
-        "excerpt": "GenCurix menyatakan studi tentang Droplex POLE Mutation Test, tes berbasis ddPCR untuk mendeteksi mutasi POLE pada kanker endometrium, telah terbit di jurnal akademik internasional.",
-        "body": "Perusahaan diagnostik kedokteran presisi GenCurix menyatakan bahwa studi mengenai Droplex POLE Mutation Test, tes miliknya yang berbasis digital PCR(ddPCR) untuk mendeteksi mutasi POLE pada kanker endometrium, telah diterbitkan di jurnal akademik internasional. Studi ini membahas teknologi pengujian yang ditujukan untuk mendeteksi mutasi POLE pada kanker endometrium, dengan pendekatan berbasis ddPCR sebagai inti. Deteksi mutasi POLE berkaitan dengan proses memastikan kinerja dan kemungkinan pemanfaatan teknologi tes terkait di bidang diagnostik kedokteran presisi. Melalui publikasi jurnal ini, GenCurix menyampaikan hasil riset tes Droplex POLE kepada publik. Sumber: mk.co.kr"
       }
     }
   }
