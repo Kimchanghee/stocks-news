@@ -1,5 +1,230 @@
 [
   {
+    "id": "8d919456d9eb",
+    "slug": "젠슨-황-손잡고-중국-간-트럼프-美빅테크-동반-상승-147869",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T10:10:52.265Z",
+    "updatedAt": "2026-05-14T10:10:52.265Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047880",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047880",
+    "titleFingerprint": "bc264ca846be6476f9c135ade068763233c48b90",
+    "dedupKeys": [
+      "8d919456d9ebbe76bd21237e75b18499b3605e26",
+      "bc264ca846be6476f9c135ade068763233c48b90",
+      "e812b4e03ae6b7e848dd3b988c4b1ff4fec2a82d"
+    ],
+    "imageUrl": "/images/articles/8d919456d9eb.jpg",
+    "i18n": {
+      "ko": {
+        "title": "트럼프 방중·젠슨 황 동행에 美 기술주 동반 상승",
+        "excerpt": "미중 정상회담이 14일 시작되자 뉴욕증시에서 중국 사업 비중이 큰 미국 기술주가 강세를 보였다. 트럼프 대통령 방중 사절단에 젠슨 황 엔비디아 CEO가 동행한 점이 주목됐다.",
+        "body": "미국과 중국의 정상회담이 14일 시작된 가운데 뉴욕증시에서는 중국 사업 비중이 높은 미국 기술주들이 일제히 강세를 나타냈다. 도널드 트럼프 미국 대통령의 방중 사절단에 젠슨 황 엔비디아 최고경영자가 동행한 점이 시장의 관심을 끌었다. 원문은 중국 관련 매출과 사업 노출도가 큰 미국 빅테크 종목들이 회담 개시와 방중 일정 속에서 함께 상승했다고 전했다. 이번 흐름은 미중 정상회담을 둘러싼 투자자들의 주목이 기술주 전반으로 확산된 사례로 해석된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US Tech Stocks Rise as Trump Visits China With Jensen Huang",
+        "excerpt": "As the US-China summit began on the 14th, US technology stocks with high China exposure rose in New York, with Nvidia CEO Jensen Huang joining President Trump’s China delegation.",
+        "body": "As the US-China summit began on the 14th, US technology stocks with a large share of business tied to China moved broadly higher on the New York stock market. Attention focused on Nvidia CEO Jensen Huang accompanying US President Donald Trump’s delegation to China. The original report said major US big tech names with significant China-related revenue and business exposure rose together as the summit opened and the China visit got underway. The move shows investor attention around the US-China summit spreading across the technology sector. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "トランプ訪中にジェンスン・フアン同行、米ハイテク株が上昇",
+        "excerpt": "米中首脳会談が14日に始まる中、ニューヨーク市場では中国事業比率の高い米ハイテク株が上昇。トランプ大統領の訪中団にエヌビディアCEOが同行した点が注目された。",
+        "body": "米国と中国の首脳会談が14日に始まった中、ニューヨーク株式市場では中国事業の比重が大きい米国のハイテク株がそろって強含んだ。市場の関心は、ドナルド・トランプ米大統領の訪中使節団にエヌビディアのジェンスン・フアン最高経営責任者が同行した点に集まった。原文は、中国関連の売上や事業エクスポージャーが大きい米ビッグテック銘柄が、会談開始と訪中日程の中でともに上昇したと伝えた。この動きは、米中首脳会談をめぐる投資家の注目がハイテク株全般に広がった例といえる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "特朗普访华携黄仁勋同行，美科技股集体上涨",
+        "excerpt": "美中元首会谈14日启动之际，纽约股市中中国业务占比较高的美国科技股走强。英伟达CEO黄仁勋随特朗普总统访华代表团同行受到关注。",
+        "body": "美中元首会谈于14日开始之际，纽约股市中中国业务占比较高的美国科技股集体走强。市场关注的焦点之一，是英伟达首席执行官黄仁勋随美国总统唐纳德·特朗普的访华代表团同行。原文称，与中国相关营收和业务敞口较大的美国大型科技股，在会谈开启及访华行程推进之中同步上涨。这一走势显示，围绕美中元首会谈的投资者关注扩散至科技股板块。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Tecnológicas de EE.UU. suben con Trump en China y Jensen Huang",
+        "excerpt": "Con el inicio de la cumbre entre EE.UU. y China el día 14, las tecnológicas estadounidenses con alta exposición a China subieron en Nueva York, mientras Jensen Huang acompañó a Trump.",
+        "body": "Mientras la cumbre entre Estados Unidos y China comenzaba el día 14, las acciones tecnológicas estadounidenses con una elevada proporción de negocios en China avanzaron de forma generalizada en la Bolsa de Nueva York. La atención se centró en que Jensen Huang, director ejecutivo de Nvidia, acompañó a la delegación del presidente estadounidense Donald Trump en su visita a China. El informe original señaló que grandes tecnológicas de EE.UU. con ingresos y exposición empresarial vinculados a China subieron juntas durante el inicio de la cumbre y la agenda de la visita. El movimiento refleja la atención de los inversores sobre la cumbre. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Tecnológicas dos EUA sobem com Trump na China e Jensen Huang",
+        "excerpt": "Com o início da cúpula EUA-China no dia 14, ações de tecnologia americanas com forte exposição à China avançaram em Nova York, enquanto Jensen Huang acompanhou a delegação de Trump.",
+        "body": "Com o início da cúpula entre Estados Unidos e China no dia 14, ações de tecnologia dos EUA com grande participação de negócios ligados à China subiram de forma ampla na Bolsa de Nova York. A atenção do mercado se voltou para a presença de Jensen Huang, CEO da Nvidia, na delegação de visita à China do presidente americano Donald Trump. A reportagem original afirmou que grandes empresas de tecnologia dos EUA com receitas e exposição de negócios relacionadas à China avançaram juntas durante a abertura da reunião e a agenda da visita. O movimento mostra a atenção dos investidores ao encontro. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-Techwerte steigen bei Trumps China-Reise mit Jensen Huang",
+        "excerpt": "Zum Start des US-chinesischen Gipfels am 14. legten in New York US-Technologiewerte mit hohem China-Geschäft zu. Im Fokus stand Nvidia-Chef Jensen Huang in Trumps China-Delegation.",
+        "body": "Als der Gipfel zwischen den USA und China am 14. begann, legten an der New Yorker Börse US-Technologiewerte mit einem hohen Anteil am China-Geschäft breit zu. Besondere Aufmerksamkeit galt der Teilnahme von Nvidia-Chef Jensen Huang an der China-Delegation von US-Präsident Donald Trump. Der Originalbericht meldete, dass große US-Techaktien mit bedeutenden China-bezogenen Umsätzen und Geschäftsrisiken während des Gipfelstarts und der Besuchsagenda gemeinsam stiegen. Die Bewegung zeigt, dass sich der Anlegerfokus rund um den US-China-Gipfel auf den Technologiesektor ausweitete. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les techs américaines montent avec Trump en Chine et Jensen Huang",
+        "excerpt": "Alors que le sommet États-Unis-Chine a débuté le 14, les valeurs technologiques américaines très exposées à la Chine ont progressé à New York, avec Jensen Huang dans la délégation de Trump.",
+        "body": "Alors que le sommet entre les États-Unis et la Chine a débuté le 14, les actions technologiques américaines ayant une forte part d’activité en Chine ont progressé de concert à la Bourse de New York. L’attention du marché s’est portée sur la présence de Jensen Huang, directeur général de Nvidia, dans la délégation du président américain Donald Trump en Chine. L’article original indique que les grandes valeurs technologiques américaines liées aux revenus et aux activités en Chine ont monté ensemble pendant l’ouverture du sommet et le déplacement. Ce mouvement montre l’intérêt des investisseurs pour le sommet. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "أسهم التكنولوجيا الأميركية ترتفع مع زيارة ترامب للصين برفقة جنسن هوانغ",
+        "excerpt": "مع بدء القمة الأميركية الصينية في 14، ارتفعت في بورصة نيويورك أسهم التكنولوجيا الأميركية ذات الانكشاف الكبير على الصين، وسط اهتمام بمرافقة جنسن هوانغ لوفد ترامب.",
+        "body": "مع بدء القمة بين الولايات المتحدة والصين في 14، سجلت أسهم التكنولوجيا الأميركية ذات الحصة الكبيرة من الأعمال المرتبطة بالصين ارتفاعا جماعيا في بورصة نيويورك. وتركز اهتمام السوق على مرافقة جنسن هوانغ، الرئيس التنفيذي لشركة إنفيديا، لوفد الرئيس الأميركي دونالد ترامب في زيارته إلى الصين. وذكر التقرير الأصلي أن أسهم شركات التكنولوجيا الأميركية الكبرى ذات الإيرادات والانكشافات التجارية المرتبطة بالصين ارتفعت معا مع انطلاق القمة وجدول الزيارة. ويعكس هذا التحرك امتداد اهتمام المستثمرين بالقمة الأميركية الصينية إلى قطاع التكنولوجيا. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "ट्रंप की चीन यात्रा और जेन्सेन हुआंग के साथ से अमेरिकी टेक शेयर चढ़े",
+        "excerpt": "अमेरिका-चीन शिखर बैठक 14 तारीख को शुरू होते ही न्यूयॉर्क बाजार में चीन कारोबार पर निर्भर अमेरिकी टेक शेयर मजबूत हुए। ट्रंप के प्रतिनिधिमंडल में Nvidia CEO जेन्सेन हुआंग की मौजूदगी पर ध्यान रहा।",
+        "body": "अमेरिका और चीन की शिखर बैठक 14 तारीख को शुरू होने के बीच न्यूयॉर्क शेयर बाजार में चीन से जुड़े कारोबार का बड़ा हिस्सा रखने वाले अमेरिकी टेक शेयरों में एक साथ तेजी दिखी। बाजार का ध्यान इस बात पर गया कि Nvidia के मुख्य कार्यकारी अधिकारी जेन्सेन हुआंग, अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के चीन यात्रा प्रतिनिधिमंडल के साथ गए। मूल रिपोर्ट के अनुसार, चीन से जुड़े राजस्व और कारोबारी एक्सपोजर वाली बड़ी अमेरिकी टेक कंपनियों के शेयर बैठक शुरू होने और चीन यात्रा कार्यक्रम के दौरान साथ-साथ चढ़े। यह रुझान दिखाता है कि अमेरिका-चीन शिखर बैठक पर निवेशकों का ध्यान टेक सेक्टर तक फैल गया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham Teknologi AS Naik Saat Trump ke China Bersama Jensen Huang",
+        "excerpt": "Saat KTT AS-China dimulai pada 14, saham teknologi AS dengan porsi bisnis besar di China menguat di New York. Kehadiran CEO Nvidia Jensen Huang dalam delegasi Trump menjadi perhatian.",
+        "body": "Ketika KTT Amerika Serikat dan China dimulai pada 14, saham teknologi AS dengan porsi bisnis besar terkait China bergerak menguat secara serempak di Bursa New York. Perhatian pasar tertuju pada keikutsertaan Jensen Huang, CEO Nvidia, dalam delegasi kunjungan Presiden AS Donald Trump ke China. Laporan asli menyebut saham big tech AS dengan pendapatan dan eksposur bisnis terkait China naik bersama saat pembukaan pertemuan dan agenda kunjungan berlangsung. Pergerakan ini menunjukkan perhatian investor terhadap KTT AS-China menyebar ke sektor teknologi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a5320ca51527",
+    "slug": "반도체유통로봇-신고가-랠리삼성전자-역사적-신고가-돌파-매경-자이앤트-252452",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T10:09:50.849Z",
+    "updatedAt": "2026-05-14T10:09:50.849Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047945",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047945",
+    "titleFingerprint": "f59de8e23f423705315a2e61f41c8efd82f6744f",
+    "dedupKeys": [
+      "a5320ca51527e95184f084cc5c33d63bffb35c80",
+      "f59de8e23f423705315a2e61f41c8efd82f6744f",
+      "a9effb1331dd57b2c2ababbb682ccaa1406e0c6c"
+    ],
+    "imageUrl": "/images/articles/a5320ca51527.jpg",
+    "i18n": {
+      "ko": {
+        "title": "반도체·유통·로봇 신고가 랠리, 삼성전자 역사적 신고가 돌파",
+        "excerpt": "14일 국내 증시에서 반도체와 유통 업종을 중심으로 다수 종목이 신고가를 경신했고, 삼성전자는 역사적 신고가를 돌파하며 시장 관심을 끌었다.",
+        "body": "14일 국내 증시는 다수 종목이 신고가를 경신하며 활발한 흐름을 보였다. 시장의 관심은 특히 반도체와 유통 업종에 집중됐고, 삼성전자는 역사적 신고가를 돌파했다. 로봇 관련 종목과 금융 관련 종목도 강세를 나타내며 신고가 랠리에 힘을 보탰다. 이번 흐름은 특정 업종에만 머물지 않고 반도체, 유통, 로봇, 금융 등 여러 분야로 매수세가 확산된 점이 특징이다. 다만 원문은 구체적 지수 변동률이나 개별 종목별 수치를 제시하지 않았다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Semiconductor, Retail and Robot Stocks Hit Highs as Samsung Electronics Breaks Record",
+        "excerpt": "On the 14th, South Korean stocks were active as many names reached new highs, led by semiconductors and retail, while Samsung Electronics broke a historic record high.",
+        "body": "On the 14th, the South Korean stock market showed active trading as many stocks renewed their highs. Market attention focused especially on the semiconductor and retail sectors, while Samsung Electronics broke through a historic record high. Robot-related and finance-related stocks also showed strength, adding momentum to the rally in new highs. The move was notable because buying interest was not limited to one sector but spread across semiconductors, retail, robotics and finance. The original report did not provide specific index changes or individual stock figures. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "半導体・小売・ロボット株が高値更新、サムスン電子は歴史的高値突破",
+        "excerpt": "14日の韓国株式市場では半導体と小売を中心に多くの銘柄が高値を更新し、サムスン電子は歴史的な最高値を突破して注目を集めた。",
+        "body": "14日の韓国株式市場は、多くの銘柄が高値を更新し、活発な動きを見せた。市場の関心は特に半導体と小売業種に集まり、サムスン電子は歴史的な最高値を突破した。ロボット関連銘柄と金融関連銘柄も強含み、新高値ラリーを後押しした。今回の流れは、買いが特定の業種にとどまらず、半導体、小売、ロボット、金融など複数分野に広がった点が特徴だ。ただし原文では、具体的な指数変動率や個別銘柄別の数値は示されていない。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "半导体、零售与机器人股创新高，三星电子突破历史新高",
+        "excerpt": "14日韩国股市表现活跃，半导体和零售板块成为焦点，多只个股刷新高点，三星电子突破历史新高并吸引市场关注。",
+        "body": "14日，韩国股市表现活跃，多只个股刷新高点。市场关注尤其集中在半导体和零售板块，三星电子则突破历史新高。机器人相关股票和金融相关股票也表现强劲，为创新高行情增添动力。此次走势的特点是，买盘并未局限于单一行业，而是扩散至半导体、零售、机器人和金融等多个领域。不过，原文未提供具体指数涨跌幅或个股层面的详细数据。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Semiconductores, retail y robótica marcan máximos; Samsung Electronics rompe récord",
+        "excerpt": "El día 14, la bolsa surcoreana mostró actividad con múltiples acciones en nuevos máximos, lideradas por semiconductores y retail, mientras Samsung Electronics superó un récord histórico.",
+        "body": "El día 14, el mercado bursátil surcoreano mostró un tono activo, con numerosas acciones renovando máximos. La atención del mercado se concentró especialmente en los sectores de semiconductores y retail, mientras Samsung Electronics superó un máximo histórico. Las acciones vinculadas a robótica y finanzas también mostraron fortaleza y apoyaron el rally de nuevos máximos. El movimiento destacó porque las compras no se limitaron a un solo sector, sino que se extendieron a semiconductores, retail, robótica y finanzas. El texto original no ofreció variaciones concretas de índices ni cifras por acción. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Semicondutores, varejo e robótica renovam máximas; Samsung Electronics bate recorde",
+        "excerpt": "No dia 14, a bolsa sul-coreana teve forte atividade com várias ações em novas máximas, lideradas por semicondutores e varejo, enquanto a Samsung Electronics rompeu máxima histórica.",
+        "body": "No dia 14, o mercado acionário sul-coreano mostrou movimento ativo, com muitas ações renovando máximas. A atenção do mercado se concentrou especialmente nos setores de semicondutores e varejo, enquanto a Samsung Electronics rompeu uma máxima histórica. Ações ligadas a robótica e finanças também avançaram com força, reforçando o rali de novas máximas. O destaque do movimento foi a expansão das compras para vários segmentos, incluindo semicondutores, varejo, robótica e finanças, e não apenas para um setor específico. O texto original não apresentou variações de índices nem números detalhados por ação. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Halbleiter, Handel und Robotik auf Rekordkurs; Samsung Electronics erreicht Allzeithoch",
+        "excerpt": "Am 14. zeigte sich der südkoreanische Aktienmarkt lebhaft: Viele Werte markierten neue Hochs, angeführt von Halbleitern und Handel, während Samsung Electronics ein historisches Hoch überschritt.",
+        "body": "Am 14. zeigte sich der südkoreanische Aktienmarkt lebhaft, da zahlreiche Aktien neue Hochs erreichten. Das Marktinteresse konzentrierte sich besonders auf Halbleiter- und Handelswerte, während Samsung Electronics ein historisches Rekordhoch überschritt. Auch robotikbezogene und finanzbezogene Aktien zeigten Stärke und unterstützten die Rally neuer Hochs. Bemerkenswert war, dass sich die Käufe nicht auf einen einzelnen Sektor beschränkten, sondern sich auf Halbleiter, Handel, Robotik und Finanzen ausweiteten. Der Originalbericht nannte keine konkreten Indexveränderungen oder Einzelwerte. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Semi-conducteurs, distribution et robotique au plus haut; Samsung Electronics bat un record",
+        "excerpt": "Le 14, la Bourse sud-coréenne a été active, avec de nombreux titres à de nouveaux sommets, surtout dans les semi-conducteurs et la distribution, tandis que Samsung Electronics a franchi un record historique.",
+        "body": "Le 14, le marché boursier sud-coréen a affiché une séance active, de nombreux titres renouvelant leurs plus hauts. L’attention du marché s’est surtout portée sur les semi-conducteurs et la distribution, tandis que Samsung Electronics a franchi un plus haut historique. Les valeurs liées à la robotique et à la finance ont également montré de la vigueur, soutenant le rally de nouveaux sommets. Ce mouvement se distingue par une demande acheteuse étendue à plusieurs secteurs, dont les semi-conducteurs, la distribution, la robotique et la finance. Le texte original ne fournit pas de variations précises d’indices ni de chiffres par action. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "أسهم الرقائق والتجزئة والروبوتات تسجل قمما جديدة وسامسونغ إلكترونيكس تخترق رقما تاريخيا",
+        "excerpt": "في 14 من الشهر، شهدت سوق الأسهم الكورية نشاطا مع تسجيل عدة أسهم قمما جديدة، بقيادة الرقائق والتجزئة، بينما تجاوزت سامسونغ إلكترونيكس أعلى مستوى تاريخي.",
+        "body": "في 14 من الشهر، أظهرت سوق الأسهم الكورية نشاطا واضحا مع تجديد عدد من الأسهم قمما جديدة. وتركز اهتمام السوق خصوصا على قطاعي أشباه الموصلات والتجزئة، بينما اخترقت سامسونغ إلكترونيكس أعلى مستوى تاريخي. كما أظهرت الأسهم المرتبطة بالروبوتات والتمويل قوة، ما أضاف دعما إلى موجة القمم الجديدة. وتميزت الحركة بأن الطلب الشرائي لم يقتصر على قطاع واحد، بل امتد إلى أشباه الموصلات والتجزئة والروبوتات والتمويل. ولم يذكر النص الأصلي نسب تغير محددة للمؤشرات أو أرقاما تفصيلية للأسهم الفردية. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "सेमीकंडक्टर, रिटेल और रोबोटिक्स शेयर ऊंचाई पर; Samsung Electronics ने रिकॉर्ड तोड़ा",
+        "excerpt": "14 तारीख को दक्षिण कोरियाई बाजार में कई शेयर नए उच्च स्तर पर पहुंचे, सेमीकंडक्टर और रिटेल पर ध्यान रहा, जबकि Samsung Electronics ने ऐतिहासिक उच्च स्तर पार किया।",
+        "body": "14 तारीख को दक्षिण कोरियाई शेयर बाजार सक्रिय रहा और कई शेयरों ने नए उच्च स्तर बनाए। बाजार का ध्यान खास तौर पर सेमीकंडक्टर और रिटेल क्षेत्रों पर केंद्रित रहा, जबकि Samsung Electronics ने ऐतिहासिक उच्च स्तर को पार किया। रोबोटिक्स से जुड़े और वित्तीय शेयरों में भी मजबूती दिखी, जिससे नए उच्च स्तरों की रैली को सहारा मिला। इस रुझान की खास बात यह रही कि खरीदारी किसी एक क्षेत्र तक सीमित नहीं रही, बल्कि सेमीकंडक्टर, रिटेल, रोबोटिक्स और वित्त जैसे कई क्षेत्रों में फैली। मूल रिपोर्ट ने सूचकांक बदलाव या अलग-अलग शेयरों के विशिष्ट आंकड़े नहीं दिए। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Saham Semikonduktor, Ritel dan Robot Reli Rekor; Samsung Electronics Tembus Tertinggi",
+        "excerpt": "Pada 14, bursa Korea Selatan bergerak aktif dengan banyak saham mencetak rekor tertinggi, dipimpin semikonduktor dan ritel, sementara Samsung Electronics menembus level historis.",
+        "body": "Pada 14, pasar saham Korea Selatan bergerak aktif karena banyak saham memperbarui rekor tertinggi. Perhatian pasar terutama tertuju pada sektor semikonduktor dan ritel, sementara Samsung Electronics menembus rekor tertinggi historis. Saham terkait robot dan keuangan juga menguat, ikut mendorong reli rekor baru. Pergerakan ini menonjol karena minat beli tidak berhenti pada satu sektor, melainkan menyebar ke semikonduktor, ritel, robotika, dan keuangan. Namun, teks asli tidak menyajikan perubahan indeks yang spesifik atau angka rinci untuk masing-masing saham. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "90cb5206b685",
+    "slug": "美주식분석-ai모델-개발-고3-투자-정보-비대칭-허물-것-687157",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-14T10:08:36.070Z",
+    "updatedAt": "2026-05-14T10:08:36.070Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12047947",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047947",
+    "titleFingerprint": "6cf696dd36ea4c922e08bef182b5504416e703bb",
+    "dedupKeys": [
+      "90cb5206b6851f956ce3724872b68bc83ffd3b4b",
+      "6cf696dd36ea4c922e08bef182b5504416e703bb",
+      "b7cc4dcf015622c80ecd486904e127e5f1f008b5"
+    ],
+    "imageUrl": "/images/articles/90cb5206b685.jpg",
+    "i18n": {
+      "ko": {
+        "title": "미국 주식분석 AI 개발한 고3, 투자 정보 비대칭 해소에 도전",
+        "excerpt": "중학교 3학년 때 투자에 입문해 투자대회 최상위권에 오른 고3 학생이 시장 상태에 따라 판단 기준을 바꾸는 미국 주식분석 AI 모델을 개발했다.",
+        "body": "중학교 3학년 때 투자를 시작한 고등학교 3학년 학생이 자신의 투자 경험을 바탕으로 미국 주식분석 AI 모델을 개발했다. 이 학생은 투자대회에서 최상위권에 오른 경험을 토대로 시장 분석 과정에서 필요한 판단 기준을 AI가 스스로 바꾸도록 설계했다. 해당 모델은 시장 상태에 따라 분석 기준을 조정하고, 여러 금융정보를 종합적으로 해석해 실제 투자 판단으로 연결하는 것을 목표로 한다. 개발자는 투자 정보 비대칭을 허물겠다는 취지를 밝혔다. 개인 투자자가 복잡한 시장 정보를 해석하는 데 도움을 줄 수 있을지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "High School Senior Builds U.S. Stock AI to Reduce Investor Information Gaps",
+        "excerpt": "A high school senior who began investing in ninth grade and ranked near the top in investment contests has developed an AI model for analyzing U.S. stocks.",
+        "body": "A high school senior who started investing in the third year of middle school has developed an AI model for U.S. stock analysis based on personal investment experience. After ranking near the top in investment competitions, the student designed the model so that its judgment criteria can change according to market conditions. The AI aims to adjust its analysis standards by market state, interpret multiple pieces of financial information together, and connect them to real investment decisions. The developer said the goal is to break down information asymmetry in investing. Attention is on whether it can help individual investors interpret complex market information. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米国株分析AIを開発した高校3年生、投資情報の非対称性解消へ",
+        "excerpt": "中学3年で投資を始め、投資大会で最上位圏に入った高校3年生が、市場状況に応じて判断基準を変える米国株分析AIを開発した。",
+        "body": "中学3年生の時に投資を始めた高校3年生が、自身の投資経験をもとに米国株分析AIモデルを開発した。この学生は投資大会で最上位圏に入った経験を土台に、市場分析で必要な判断基準をAIが自ら変えられるよう設計した。モデルは市場の状態に応じて分析基準を調整し、複数の金融情報を総合的に解釈して実際の投資判断につなげることを目指す。開発者は投資情報の非対称性を崩したいとの考えを示した。個人投資家が複雑な市場情報を読み解く助けになるか注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "高中生开发美股分析AI，目标打破投资信息不对称",
+        "excerpt": "一名初三开始投资并在投资比赛中名列前茅的高三学生，开发了可随市场状态调整判断标准的美国股票分析AI模型。",
+        "body": "一名在初三时开始投资的高三学生，基于自己的投资经验开发了美国股票分析AI模型。该学生曾在投资比赛中位居最前列，并据此设计出能让AI在市场分析过程中自行改变判断标准的系统。该模型的目标是根据市场状态调整分析标准，综合解读多种金融信息，并将其连接到实际投资判断。开发者表示，希望借此打破投资信息不对称。它能否帮助个人投资者理解复杂的市场信息，正受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Estudiante de secundaria crea IA para acciones de EE. UU. y reducir brechas de información",
+        "excerpt": "Un estudiante de último año de secundaria, inversor desde tercero de secundaria y destacado en concursos, desarrolló una IA para analizar acciones de EE. UU.",
+        "body": "Un estudiante de último año de secundaria que comenzó a invertir en tercero de secundaria desarrolló un modelo de IA para analizar acciones de Estados Unidos a partir de su propia experiencia inversora. Tras ubicarse entre los primeros puestos en concursos de inversión, diseñó el modelo para que la IA cambie por sí misma sus criterios de juicio según las condiciones del mercado. El sistema busca ajustar sus estándares de análisis, interpretar de forma integral información financiera diversa y conectarla con decisiones reales de inversión. El desarrollador dijo que pretende derribar la asimetría de información en la inversión. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Aluno cria IA para ações dos EUA e mira reduzir assimetria de informação",
+        "excerpt": "Um aluno do último ano do ensino médio, que começou a investir no 9º ano e ficou entre os melhores em competições, desenvolveu uma IA para ações dos EUA.",
+        "body": "Um aluno do último ano do ensino médio que começou a investir no terceiro ano do ensino fundamental II desenvolveu um modelo de IA para análise de ações dos Estados Unidos com base em sua experiência. Depois de ficar entre os melhores em competições de investimento, ele projetou o modelo para que a IA altere seus critérios de julgamento conforme as condições do mercado. O sistema busca ajustar padrões de análise, interpretar de forma integrada várias informações financeiras e conectá-las a decisões reais de investimento. O desenvolvedor afirmou que pretende reduzir a assimetria de informação no investimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Schüler entwickelt KI für US-Aktienanalyse und will Informationslücken abbauen",
+        "excerpt": "Ein Oberstufenschüler, der in der neunten Klasse mit dem Investieren begann und bei Wettbewerben vorn lag, hat eine KI für US-Aktienanalyse entwickelt.",
+        "body": "Ein Schüler im letzten Highschool-Jahr, der in der dritten Klasse der Mittelschule mit dem Investieren begann, hat auf Basis seiner Anlageerfahrung ein KI-Modell zur Analyse von US-Aktien entwickelt. Nach Spitzenplatzierungen bei Investmentwettbewerben entwarf er das Modell so, dass die KI ihre Bewertungskriterien je nach Marktlage selbst anpassen kann. Das System soll Analysemaßstäbe verändern, verschiedene Finanzinformationen zusammen auswerten und diese mit tatsächlichen Anlageentscheidungen verbinden. Der Entwickler erklärte, er wolle Informationsasymmetrien beim Investieren abbauen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Un lycéen crée une IA d’analyse des actions américaines pour réduire l’asymétrie d’information",
+        "excerpt": "Un lycéen en dernière année, investisseur depuis le collège et très bien classé en concours, a développé une IA d’analyse des actions américaines.",
+        "body": "Un lycéen en dernière année, qui a commencé à investir en troisième année de collège, a développé un modèle d’IA d’analyse des actions américaines à partir de sa propre expérience d’investissement. Fort de classements parmi les meilleurs dans des concours d’investissement, il a conçu un système permettant à l’IA de modifier elle-même ses critères de jugement selon l’état du marché. Le modèle vise à ajuster ses standards d’analyse, interpréter de façon globale diverses informations financières et les relier à de véritables décisions d’investissement. Le développeur veut réduire l’asymétrie d’information dans l’investissement. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "طالب ثانوي يطور ذكاء اصطناعيا لتحليل الأسهم الأميركية وتقليص فجوة المعلومات",
+        "excerpt": "طالب في السنة الأخيرة من الثانوية بدأ الاستثمار في الصف الثالث الإعدادي وحقق مراكز متقدمة في مسابقات الاستثمار طور نموذجا لتحليل الأسهم الأميركية.",
+        "body": "طور طالب في السنة الأخيرة من المرحلة الثانوية، بدأ الاستثمار عندما كان في الصف الثالث الإعدادي، نموذجا للذكاء الاصطناعي لتحليل الأسهم الأميركية اعتمادا على خبرته الاستثمارية. واستند الطالب إلى تجربة حقق فيها مراكز ضمن الأعلى في مسابقات الاستثمار، فصمم النموذج بحيث يغير الذكاء الاصطناعي معايير الحكم بنفسه وفقا لحالة السوق. ويهدف النموذج إلى تعديل معايير التحليل حسب أوضاع السوق، وتفسير معلومات مالية متعددة بصورة شاملة، وربطها بقرارات استثمار فعلية. وقال المطور إن هدفه هو كسر عدم تماثل المعلومات في الاستثمار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी शेयर विश्लेषण AI बनाने वाले 12वीं के छात्र का लक्ष्य सूचना असमानता घटाना",
+        "excerpt": "कक्षा 9 से निवेश शुरू कर प्रतियोगिताओं में शीर्ष स्थान पाने वाले 12वीं के छात्र ने बाजार स्थिति के अनुसार मानदंड बदलने वाला अमेरिकी शेयर विश्लेषण AI बनाया।",
+        "body": "कक्षा 9 में निवेश शुरू करने वाले 12वीं के एक छात्र ने अपने निवेश अनुभव के आधार पर अमेरिकी शेयर विश्लेषण के लिए AI मॉडल विकसित किया है। निवेश प्रतियोगिताओं में शीर्ष श्रेणी में रहने के अनुभव को आधार बनाकर छात्र ने मॉडल को इस तरह डिजाइन किया कि AI बाजार विश्लेषण के दौरान अपने निर्णय मानदंड स्वयं बदल सके। यह मॉडल बाजार की स्थिति के अनुसार विश्लेषण मानक समायोजित करने, विभिन्न वित्तीय सूचनाओं की समग्र व्याख्या करने और उन्हें वास्तविक निवेश निर्णयों से जोड़ने का लक्ष्य रखता है। डेवलपर ने कहा कि उद्देश्य निवेश सूचना असमानता को तोड़ना है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Siswa SMA Kembangkan AI Analisis Saham AS untuk Kurangi Kesenjangan Informasi",
+        "excerpt": "Siswa kelas akhir SMA yang mulai berinvestasi saat kelas 9 dan meraih posisi teratas dalam kompetisi investasi mengembangkan AI analisis saham AS.",
+        "body": "Seorang siswa kelas akhir SMA yang mulai berinvestasi saat kelas 9 mengembangkan model AI untuk analisis saham Amerika Serikat berdasarkan pengalaman investasinya. Berbekal pengalaman meraih posisi teratas dalam kompetisi investasi, siswa tersebut merancang model agar AI dapat mengubah sendiri kriteria penilaian sesuai kondisi pasar. Model ini bertujuan menyesuaikan standar analisis berdasarkan keadaan pasar, menafsirkan berbagai informasi keuangan secara menyeluruh, lalu menghubungkannya dengan keputusan investasi nyata. Pengembang menyatakan ingin meruntuhkan asimetri informasi investasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "63536754afa4",
     "slug": "에코글로우-95억-원-규모-전환사채-발행-202489",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Western Digital Disorot saat Boom AI Mengangkat Ulang Bisnis HDD",
         "excerpt": "Western Digital kembali mendapat perhatian karena boom AI mendorong pasar menilai ulang posisinya sebagai perusahaan HDD tradisional, menurut hankyung.com.",
         "body": "Western Digital kembali menjadi perhatian sebagai perusahaan HDD di tengah boom AI. hankyung.com menggambarkan perusahaan ini sebagai produsen HDD yang berubah menjadi “angsa” berkat boom kecerdasan buatan. Menurut artikel tersebut, perhatian pasar tertuju pada arti penyebaran AI bagi permintaan penyimpanan data dan valuasi industri terkait. Intinya, Western Digital yang lama dipandang sebagai perusahaan perangkat penyimpanan tradisional sedang dinilai ulang dalam arus AI. Fokus berikutnya adalah bagaimana permintaan terkait AI memengaruhi bisnis HDD dan valuasi perusahaan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "d7f791f5dff5",
-    "slug": "반도체-수출규제-완화카드-꺼낼까미중-회담-증시-영향은-분석-312205",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T17:52:33.498Z",
-    "updatedAt": "2026-05-13T17:52:33.498Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051344016",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051344016",
-    "titleFingerprint": "3b4177298431e60828bf65c5e1ca5552911a3edc",
-    "dedupKeys": [
-      "d7f791f5dff52607196102da07915f7d3371f21a",
-      "3b4177298431e60828bf65c5e1ca5552911a3edc",
-      "b9fc5837d8abcd4a9d52ffa12835acaab075137f"
-    ],
-    "imageUrl": "/images/articles/d7f791f5dff5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "미·중 정상회담 앞두고 반도체 수출규제 완화 여부 주목…삼성전자·SK하이닉스 강세",
-        "excerpt": "5월 14일 베이징 미·중 정상회담을 앞두고 AI 반도체와 희토류가 핵심 의제로 거론되며 13일 삼성전자·SK하이닉스 등 국내 관련주가 상승했다.",
-        "body": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 5월 14일 베이징 정상회담을 앞두고 국내 증시가 반도체 수출규제 완화 가능성과 희토류 의제에 주목했다. 회담 하루 전인 13일 삼성전자는 1.79%, SK하이닉스는 7.68% 올랐고, SK하이닉스는 장중 199만원까지 상승했다. 유니온머티리얼은 8.5%, 유니온은 3.64%, 동국알앤에스는 1.8% 올랐다. 금융투자업계는 AI와 반도체 기술 문제가 핵심 의제로 다뤄질 것으로 봤다. NH투자증권은 중국이 희토류 카드를 앞세워 반도체 수출규제 완화를 끌어낼 경우 한국 메모리 업체에는 부정적이나, 현상 유지에 그치면 반사이익이 가능하다고 분석했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "US-China summit puts chip export controls in focus as Samsung Electronics and SK hynix rise",
-        "excerpt": "Ahead of the May 14 US-China summit in Beijing, AI chips and rare earths emerged as key agenda items, lifting Korean semiconductor and rare-earth-linked stocks on May 13.",
-        "body": "Ahead of the May 14 summit in Beijing between US President Donald Trump and Chinese President Xi Jinping, Korean markets focused on the possibility of eased semiconductor export controls and talks on rare earths. On May 13, the day before the meeting, Samsung Electronics rose 1.79% and SK hynix gained 7.68%, with SK hynix touching 1.99 million won intraday. Union Materials jumped 8.5%, while Union and DONGKUK R&S advanced 3.64% and 1.8%. Financial investment industry sources expected AI and semiconductor technology issues to be among the core agenda items. NH Investment & Securities said a Chinese push using rare earths to obtain chip export-control relief would be negative for Korean memory makers, but a freeze in conditions could offer them indirect benefits. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "米中首脳会談で半導体輸出規制の緩和に注目、サムスン電子とSKハイニックスが上昇",
-        "excerpt": "5月14日の北京での米中首脳会談を前に、AI半導体とレアアースが主要議題と見られ、13日に韓国の関連株が上昇した。",
-        "body": "ドナルド・トランプ米大統領と習近平中国国家主席による5月14日の北京での首脳会談を前に、韓国市場では半導体輸出規制の緩和可能性とレアアース議題に関心が集まった。会談前日の13日、サムスン電子は1.79%、SKハイニックスは7.68%上昇し、SKハイニックスは取引時間中に199万ウォンまで上げた。ユニオンマテリアルは8.5%、ユニオンは3.64%、東国R&Sは1.8%上昇した。金融投資業界はAIと半導体などの技術問題が主要議題の一つになると見ている。NH投資証券は、中国がレアアースをカードに半導体輸出規制の緩和を引き出す場合、韓国メモリー企業には悪材料だが、会談が現状維持にとどまれば反射利益が可能だと分析した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "美中峰会聚焦半导体出口管制是否放松，三星电子与SK海力士走强",
-        "excerpt": "5月14日北京美中峰会前，AI半导体和稀土被视为核心议题，13日三星电子、SK海力士等韩国相关股票上涨。",
-        "body": "在美国总统唐纳德·特朗普与中国国家主席习近平将于5月14日在北京举行峰会前，韩国股市关注半导体出口管制是否可能放松以及稀土议题。会谈前一天的13日，三星电子上涨1.79%，SK海力士上涨7.68%，SK海力士盘中一度升至199万韩元。Union Materials大涨8.5%，Union上涨3.64%，DONGKUK R&S上涨1.8%。金融投资业界预计，AI和半导体等技术问题将成为核心议题之一。NH投资证券分析称，如果中国以稀土作为筹码争取半导体出口管制放松，这对韩国存储芯片企业是不利情景；但若会谈仅维持现状，韩国企业可能获得间接受益。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La cumbre entre EE.UU. y China enfoca los controles a chips mientras suben Samsung y SK hynix",
-        "excerpt": "Antes de la cumbre del 14 de mayo en Pekín, los chips de IA y las tierras raras aparecen como temas clave, impulsando el 13 de mayo acciones coreanas vinculadas.",
-        "body": "Antes de la cumbre del 14 de mayo en Pekín entre el presidente estadounidense Donald Trump y el presidente chino Xi Jinping, el mercado coreano siguió la posible flexibilización de los controles a la exportación de semiconductores y la agenda de tierras raras. El 13 de mayo, un día antes de la reunión, Samsung Electronics subió 1,79% y SK hynix avanzó 7,68%, con SK hynix tocando 1,99 millones de wones durante la sesión. Union Materials saltó 8,5%, Union ganó 3,64% y DONGKUK R&S subió 1,8%. La industria financiera espera que la IA y los semiconductores sean temas centrales. NH Investment & Securities dijo que si China usa las tierras raras para obtener alivio en los controles de chips, sería negativo para las firmas coreanas de memoria; si solo se mantiene el statu quo, podrían beneficiarse indirectamente. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Cúpula EUA-China coloca controles de chips em foco enquanto Samsung e SK hynix avançam",
-        "excerpt": "Antes da cúpula de 14 de maio em Pequim, chips de IA e terras raras surgem como temas centrais, elevando em 13 de maio ações coreanas ligadas ao setor.",
-        "body": "Antes da cúpula de 14 de maio em Pequim entre o presidente dos EUA, Donald Trump, e o presidente da China, Xi Jinping, o mercado coreano voltou-se para a possível flexibilização dos controles de exportação de semicondutores e para a pauta de terras raras. Em 13 de maio, véspera da reunião, Samsung Electronics subiu 1,79% e SK hynix avançou 7,68%, com a SK hynix chegando a 1,99 milhão de won no intradia. Union Materials saltou 8,5%, Union ganhou 3,64% e DONGKUK R&S subiu 1,8%. O setor financeiro espera que IA e semicondutores sejam temas centrais. A NH Investment & Securities avaliou que, se a China usar terras raras para obter alívio nos controles de chips, isso seria negativo para fabricantes coreanos de memória; se houver apenas congelamento do quadro atual, eles podem ter benefício indireto. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "US-China-Gipfel rückt Chip-Exportkontrollen in den Fokus, Samsung und SK hynix legen zu",
-        "excerpt": "Vor dem US-China-Gipfel am 14. Mai in Peking gelten KI-Chips und Seltene Erden als Kernthemen; koreanische Halbleiter- und Rohstoffwerte stiegen am 13. Mai.",
-        "body": "Vor dem Gipfel am 14. Mai in Peking zwischen US-Präsident Donald Trump und Chinas Staatspräsident Xi Jinping richtete sich der Blick am koreanischen Aktienmarkt auf eine mögliche Lockerung der Halbleiter-Exportkontrollen und auf Seltene Erden. Am 13. Mai, einen Tag vor dem Treffen, stieg Samsung Electronics um 1,79%, SK hynix um 7,68%; SK hynix erreichte intraday 1,99 Millionen Won. Union Materials sprang um 8,5%, Union legte 3,64% zu und DONGKUK R&S gewann 1,8%. Finanzmarktakteure erwarten, dass KI und Halbleitertechnologie zu den zentralen Themen gehören. NH Investment & Securities analysierte, dass eine von China mit Seltenen Erden erreichte Lockerung der Chipkontrollen für koreanische Speicherhersteller negativ wäre; ein bloßes Einfrieren der Lage könnte ihnen jedoch indirekte Vorteile bringen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le sommet États-Unis-Chine met les contrôles des puces au centre, Samsung et SK hynix montent",
-        "excerpt": "Avant le sommet du 14 mai à Pékin, les puces d’IA et les terres rares sont vues comme des sujets clés, soutenant le 13 mai les valeurs coréennes liées.",
-        "body": "À l’approche du sommet du 14 mai à Pékin entre le président américain Donald Trump et le président chinois Xi Jinping, le marché coréen s’est concentré sur une possible détente des contrôles à l’exportation de semi-conducteurs et sur le dossier des terres rares. Le 13 mai, veille de la réunion, Samsung Electronics a gagné 1,79% et SK hynix 7,68%, SK hynix atteignant 1,99 million de wons en séance. Union Materials a bondi de 8,5%, Union a progressé de 3,64% et DONGKUK R&S de 1,8%. Le secteur financier s’attend à ce que l’IA et les semi-conducteurs soient des thèmes centraux. NH Investment & Securities estime qu’un assouplissement obtenu par la Chine grâce aux terres rares serait négatif pour les fabricants coréens de mémoire, mais qu’un simple statu quo pourrait leur apporter un bénéfice indirect. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "قمة أميركا والصين تضع قيود تصدير الرقائق في الواجهة مع صعود سامسونغ وSK hynix",
-        "excerpt": "قبل قمة 14 مايو في بكين، برزت رقائق الذكاء الاصطناعي والمعادن النادرة كملفين رئيسيين، ما دعم أسهم كورية مرتبطة بالقطاع في 13 مايو.",
-        "body": "قبل قمة 14 مايو في بكين بين الرئيس الأميركي دونالد ترامب والرئيس الصيني شي جين بينغ، ركزت السوق الكورية على احتمال تخفيف قيود تصدير أشباه الموصلات وملف المعادن النادرة. في 13 مايو، قبل الاجتماع بيوم، ارتفع سهم Samsung Electronics بنسبة 1.79% وصعد SK hynix بنسبة 7.68%، وبلغ سهم SK hynix خلال الجلسة 1.99 مليون وون. وقفز Union Materials بنسبة 8.5%، وارتفع Union بنسبة 3.64% وDONGKUK R&S بنسبة 1.8%. وتتوقع أوساط الاستثمار المالي أن تكون قضايا الذكاء الاصطناعي وتكنولوجيا أشباه الموصلات من الملفات الأساسية. وذكرت NH Investment & Securities أن استخدام الصين ورقة المعادن النادرة لانتزاع تخفيف في قيود الرقائق سيكون سلبيا لشركات الذاكرة الكورية، بينما قد يمنح تثبيت الوضع الحالي منفعة غير مباشرة لها. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "अमेरिका-चीन शिखर बैठक से चिप निर्यात नियंत्रण पर फोकस, Samsung और SK hynix चढ़े",
-        "excerpt": "14 मई को बीजिंग में होने वाली अमेरिका-चीन शिखर बैठक से पहले AI चिप और दुर्लभ मृदा प्रमुख मुद्दे माने गए, जिससे 13 मई को कोरियाई संबंधित शेयर चढ़े।",
-        "body": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और चीनी राष्ट्रपति शी जिनपिंग की 14 मई को बीजिंग में होने वाली शिखर बैठक से पहले कोरियाई बाजार ने सेमीकंडक्टर निर्यात नियंत्रण में संभावित ढील और दुर्लभ मृदा मुद्दे पर ध्यान दिया। बैठक से एक दिन पहले 13 मई को Samsung Electronics 1.79% और SK hynix 7.68% चढ़े; SK hynix इंट्राडे में 19.9 लाख वॉन तक पहुंचा। Union Materials 8.5% उछला, जबकि Union 3.64% और DONGKUK R&S 1.8% बढ़े। वित्तीय निवेश उद्योग का मानना है कि AI और सेमीकंडक्टर तकनीक प्रमुख एजेंडा होंगे। NH Investment & Securities के अनुसार, यदि चीन दुर्लभ मृदा कार्ड से चिप निर्यात नियंत्रण में ढील हासिल करता है तो यह कोरियाई मेमोरी कंपनियों के लिए नकारात्मक होगा, लेकिन स्थिति यथावत रहने पर उन्हें अप्रत्यक्ष लाभ मिल सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KTT AS-China soroti kontrol ekspor chip, Samsung Electronics dan SK hynix menguat",
-        "excerpt": "Menjelang KTT AS-China pada 14 Mei di Beijing, chip AI dan logam tanah jarang disebut agenda utama, mendorong saham terkait di Korea pada 13 Mei.",
-        "body": "Menjelang KTT 14 Mei di Beijing antara Presiden AS Donald Trump dan Presiden China Xi Jinping, pasar Korea mencermati kemungkinan pelonggaran kontrol ekspor semikonduktor dan isu logam tanah jarang. Pada 13 Mei, sehari sebelum pertemuan, Samsung Electronics naik 1,79% dan SK hynix menguat 7,68%, dengan SK hynix sempat menyentuh 1,99 juta won intraday. Union Materials melonjak 8,5%, Union naik 3,64%, dan DONGKUK R&S naik 1,8%. Kalangan investasi keuangan memperkirakan AI dan teknologi semikonduktor menjadi agenda inti. NH Investment & Securities menilai jika China memakai kartu logam tanah jarang untuk memperoleh pelonggaran kontrol ekspor chip, itu menjadi skenario negatif bagi produsen memori Korea; namun jika pertemuan hanya mempertahankan kondisi saat ini, perusahaan Korea bisa mendapat manfaat tidak langsung. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "7203d2943849",
-    "slug": "삼성전자-사고-삼성중공업는-팔고-주식-초고수는-지금-140127",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T17:51:20.456Z",
-    "updatedAt": "2026-05-13T17:51:20.456Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12045998",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12045998",
-    "titleFingerprint": "b94740830c821a1d645b0ade091bb5b8dd623b32",
-    "dedupKeys": [
-      "7203d2943849054214b4a21c8ad99f18c7155a7c",
-      "b94740830c821a1d645b0ade091bb5b8dd623b32",
-      "63c3120ff15cfd8f41c5f462f88d05b5d0e70b9c"
-    ],
-    "imageUrl": "/images/articles/7203d2943849.png",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자 순매수 집중, 초고수 투자자는 삼성중공업 매도 우위",
-        "excerpt": "13일 오전 상위 1% 초고수 투자자들은 삼성전자와 OCI홀딩스 등을 가장 많이 순매수했고, 삼성중공업과 펨트론은 매도 우위 종목으로 나타났다.",
-        "body": "13일 오전 국내 증시에서 상위 1% 초고수 투자자들의 매매 동향은 삼성전자에 매수세가 집중된 것으로 나타났다. mk.co.kr에 따르면 이들 투자자는 삼성전자, OCI홀딩스, 알테오젠, SK하이닉스, HD한국조선해양 순으로 가장 많이 순매수했다. 반면 삼성중공업과 펨트론은 순매도 상위 종목에 포함됐다. 이번 흐름은 초고수 투자자들이 반도체와 일부 바이오, 조선 관련 종목을 선별해 매수한 반면 일부 조선·장비주는 차익 실현 또는 비중 조절 대상으로 삼은 매매 결과로 해석될 수 있다. 다만 원문에 제시된 정보는 13일 오전 기준의 투자자 매매 동향이며, 개별 종목의 주가 전망이나 투자 판단은 포함하지 않는다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics Leads Net Buying as Top Investors Sell Samsung Heavy",
-        "excerpt": "On the morning of the 13th, the top 1% of expert investors bought Samsung Electronics and OCI Holdings most, while Samsung Heavy Industries and Pemtron led selling.",
-        "body": "On the morning of the 13th, trading by the top 1% of high-performing investors in the Korean stock market showed concentrated net buying in Samsung Electronics. According to mk.co.kr, these investors posted the largest net purchases in Samsung Electronics, followed by OCI Holdings, Alteogen, SK hynix and HD Korea Shipbuilding & Offshore Engineering. By contrast, Samsung Heavy Industries and Pemtron appeared among the leading net-sold stocks. The flow shows that elite investors selectively bought semiconductor, biotech and shipbuilding-related names while reducing exposure to some shipbuilding and equipment stocks. The original information reflects trading trends as of the morning of the 13th and does not include individual stock forecasts or investment advice. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子に買い集中、上位投資家はサムスン重工を売り越し",
-        "excerpt": "13日午前、上位1%の投資家はサムスン電子やOCIホールディングスなどを多く買い越し、サムスン重工業とPemtronは売り越し上位に入った。",
-        "body": "13日午前の韓国株式市場で、上位1%の超上級投資家の売買動向はサムスン電子への買いが目立つ内容となった。mk.co.krによると、これらの投資家はサムスン電子、OCIホールディングス、アルテオジェン、SKハイニックス、HD韓国造船海洋の順に最も多く買い越した。一方、サムスン重工業とPemtronは売り越し上位銘柄に含まれた。この流れは、半導体や一部バイオ、造船関連銘柄を選別して買う一方、一部の造船・装備株では持ち高調整が進んだ売買結果と受け止められる。ただし原文の情報は13日午前時点の売買動向であり、個別銘柄の株価見通しや投資判断は含まない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子获顶级投资者净买入，三星重工遭卖出居前",
-        "excerpt": "13日上午，前1%高手投资者净买入最多的是三星电子、OCI Holdings等，而三星重工和Pemtron则进入净卖出居前名单。",
-        "body": "13日上午，韩国股市前1%高手投资者的交易动向显示，资金主要净买入三星电子。据mk.co.kr报道，这些投资者净买入最多的股票依次为三星电子、OCI Holdings、Alteogen、SK海力士和HD韩国造船海洋。相反，三星重工和Pemtron被列入净卖出居前的股票。该动向显示，顶级投资者选择性买入半导体、部分生物科技及造船相关股票，同时对部分造船和设备类股票进行减持或仓位调整。不过，原文提供的信息仅为13日上午的交易动向，不包含个股股价展望或投资判断。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics lidera compras de grandes inversores; venden Samsung Heavy",
-        "excerpt": "La mañana del día 13, el 1% superior de inversores compró más Samsung Electronics y OCI Holdings, mientras Samsung Heavy Industries y Pemtron figuraron entre las ventas.",
-        "body": "La mañana del día 13, la actividad del 1% superior de inversores expertos en la bolsa surcoreana mostró una clara concentración de compras netas en Samsung Electronics. Según mk.co.kr, estos inversores compraron en mayor medida Samsung Electronics, seguido de OCI Holdings, Alteogen, SK hynix y HD Korea Shipbuilding & Offshore Engineering. En cambio, Samsung Heavy Industries y Pemtron aparecieron entre los principales valores vendidos en términos netos. El movimiento indica compras selectivas en semiconductores, algunas biotecnológicas y valores vinculados a la construcción naval, mientras se redujo exposición en ciertas acciones navales y de equipos. La información original corresponde a la mañana del día 13 y no incluye previsiones de precios ni recomendaciones de inversión. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics lidera compras dos grandes investidores; Samsung Heavy cai nas vendas",
-        "excerpt": "Na manhã do dia 13, o 1% superior dos investidores comprou mais Samsung Electronics e OCI Holdings, enquanto Samsung Heavy Industries e Pemtron lideraram vendas líquidas.",
-        "body": "Na manhã do dia 13, os movimentos do 1% superior dos investidores mais sofisticados no mercado sul-coreano mostraram compras líquidas concentradas em Samsung Electronics. Segundo o mk.co.kr, esses investidores mais compraram Samsung Electronics, seguida por OCI Holdings, Alteogen, SK hynix e HD Korea Shipbuilding & Offshore Engineering. Por outro lado, Samsung Heavy Industries e Pemtron apareceram entre as ações mais vendidas em termos líquidos. O fluxo mostra compras seletivas em semicondutores, algumas empresas de biotecnologia e nomes ligados à construção naval, enquanto parte das ações de construção naval e equipamentos foi reduzida. A informação original se refere à manhã do dia 13 e não inclui projeções de preço nem recomendação de investimento. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics führt Nettokäufe an, Top-Anleger verkaufen Samsung Heavy",
-        "excerpt": "Am Morgen des 13. kauften die obersten 1% der Anleger vor allem Samsung Electronics und OCI Holdings, während Samsung Heavy Industries und Pemtron verkauft wurden.",
-        "body": "Am Morgen des 13. zeigte die Handelsaktivität der besten 1% der Anleger am südkoreanischen Aktienmarkt eine deutliche Konzentration der Nettokäufe auf Samsung Electronics. Laut mk.co.kr kauften diese Investoren netto am meisten Samsung Electronics, gefolgt von OCI Holdings, Alteogen, SK hynix und HD Korea Shipbuilding & Offshore Engineering. Dagegen gehörten Samsung Heavy Industries und Pemtron zu den führenden Nettoverkäufen. Die Entwicklung zeigt selektive Käufe in Halbleiter-, einigen Biotech- und Schiffbauwerten, während bei bestimmten Schiffbau- und Ausrüstungsaktien Positionen reduziert wurden. Die Originalangaben beziehen sich auf den Morgen des 13. und enthalten keine Kursprognosen oder Anlageempfehlungen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics en tête des achats, Samsung Heavy vendu par les meilleurs investisseurs",
-        "excerpt": "Le matin du 13, les 1% d’investisseurs les plus performants ont surtout acheté Samsung Electronics et OCI Holdings, tandis que Samsung Heavy Industries et Pemtron ont été vendus.",
-        "body": "Le matin du 13, l’activité des 1% d’investisseurs les plus performants sur le marché sud-coréen a montré une concentration des achats nets sur Samsung Electronics. Selon mk.co.kr, ces investisseurs ont le plus acheté Samsung Electronics, puis OCI Holdings, Alteogen, SK hynix et HD Korea Shipbuilding & Offshore Engineering. À l’inverse, Samsung Heavy Industries et Pemtron figuraient parmi les principales valeurs vendues en net. Ce mouvement montre des achats sélectifs dans les semi-conducteurs, certaines biotechs et les valeurs liées à la construction navale, tandis que certaines actions de construction navale et d’équipement ont été allégées. Les informations originales reflètent la situation du matin du 13 et ne comprennent ni prévision de cours ni conseil d’investissement. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس تتصدر مشتريات كبار المستثمرين وبيع سامسونغ للصناعات الثقيلة",
-        "excerpt": "في صباح يوم 13، ركز أعلى 1% من المستثمرين مشترياتهم على سامسونغ إلكترونيكس وOCI Holdings، بينما جاءت سامسونغ للصناعات الثقيلة وPemtron ضمن أبرز المبيعات.",
-        "body": "في صباح يوم 13، أظهرت تحركات أعلى 1% من المستثمرين المحترفين في سوق الأسهم الكورية تركّز صافي الشراء في سهم سامسونغ إلكترونيكس. وبحسب mk.co.kr، جاءت أكبر عمليات صافي الشراء بالترتيب في سامسونغ إلكترونيكس، ثم OCI Holdings، وAlteogen، وSK hynix، وHD Korea Shipbuilding & Offshore Engineering. في المقابل، ظهرت سامسونغ للصناعات الثقيلة وPemtron ضمن الأسهم الأعلى في صافي البيع. ويعكس هذا التدفق شراء انتقائيا لأسهم أشباه الموصلات وبعض التكنولوجيا الحيوية والشركات المرتبطة ببناء السفن، مع تقليص مراكز في بعض أسهم بناء السفن والمعدات. وتقتصر المعلومات الأصلية على اتجاهات التداول صباح يوم 13 ولا تتضمن توقعات أسعار أو توصيات استثمارية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics में शीर्ष निवेशकों की खरीद, Samsung Heavy में बिकवाली",
-        "excerpt": "13 तारीख की सुबह शीर्ष 1% निवेशकों ने Samsung Electronics और OCI Holdings में सबसे अधिक शुद्ध खरीद की, जबकि Samsung Heavy Industries और Pemtron बिकवाली में रहे।",
-        "body": "13 तारीख की सुबह दक्षिण कोरियाई शेयर बाजार में शीर्ष 1% अनुभवी निवेशकों के सौदों में Samsung Electronics में शुद्ध खरीद सबसे अधिक दिखी। mk.co.kr के अनुसार, इन निवेशकों ने Samsung Electronics, OCI Holdings, Alteogen, SK hynix और HD Korea Shipbuilding & Offshore Engineering में क्रमशः सबसे अधिक शुद्ध खरीद की। इसके विपरीत, Samsung Heavy Industries और Pemtron शुद्ध बिकवाली वाले प्रमुख शेयरों में शामिल रहे। यह रुझान दिखाता है कि शीर्ष निवेशकों ने सेमीकंडक्टर, कुछ बायोटेक और जहाज निर्माण से जुड़े शेयरों को चुनकर खरीदा, जबकि कुछ जहाज निर्माण और उपकरण शेयरों में हिस्सेदारी घटाई। मूल जानकारी 13 तारीख की सुबह के ट्रेडिंग रुझानों तक सीमित है और इसमें किसी शेयर का मूल्य अनुमान या निवेश सलाह शामिल नहीं है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samsung Electronics Jadi Incaran Investor Top, Samsung Heavy Dilepas",
-        "excerpt": "Pada pagi tanggal 13, investor top 1% paling banyak membeli Samsung Electronics dan OCI Holdings, sementara Samsung Heavy Industries dan Pemtron masuk daftar jual bersih.",
-        "body": "Pada pagi tanggal 13, pergerakan transaksi investor top 1% di pasar saham Korea Selatan menunjukkan pembelian bersih yang terkonsentrasi pada Samsung Electronics. Menurut mk.co.kr, investor tersebut paling banyak melakukan pembelian bersih pada Samsung Electronics, diikuti OCI Holdings, Alteogen, SK hynix, dan HD Korea Shipbuilding & Offshore Engineering. Sebaliknya, Samsung Heavy Industries dan Pemtron termasuk dalam saham dengan penjualan bersih terbesar. Arus ini menunjukkan pembelian selektif pada saham semikonduktor, sebagian biotek, dan emiten terkait galangan kapal, sementara sebagian saham galangan kapal dan peralatan dikurangi. Informasi asli hanya mencerminkan tren transaksi pada pagi tanggal 13 dan tidak memuat proyeksi harga saham atau saran investasi. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "b13e11ef8bfe",
-    "slug": "유류비-급등-vs-역대급-항공-수요항공주-살아날까-785975",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-13T17:50:22.752Z",
-    "updatedAt": "2026-05-13T17:50:22.752Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12046001",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12046001",
-    "titleFingerprint": "5f6e0b3212d25a21b6ae23861a95daa58e08364d",
-    "dedupKeys": [
-      "b13e11ef8bfe357c3ae2463458be18497461f9e4",
-      "5f6e0b3212d25a21b6ae23861a95daa58e08364d",
-      "69737ea564e9599df5bf325cffe3f58cb50e188d"
-    ],
-    "imageUrl": "/images/articles/b13e11ef8bfe.png",
-    "i18n": {
-      "ko": {
-        "title": "유류비 급등에 흔들리는 항공주, 견조한 국제선 수요가 버팀목 될까",
-        "excerpt": "미국·이란 전쟁 여파로 유류비가 급등하면서 주요 항공사의 2분기 적자 우려가 커졌지만, 국제선 여객 수요와 운임 상승 기대가 항공주 변수로 떠올랐다.",
-        "body": "유류비 급등과 역대급 항공 수요가 맞물리면서 주요 항공주의 향방에 관심이 쏠리고 있다. 미국·이란 전쟁으로 유류비가 빠르게 오르자 주요 항공사들의 2분기 적자 가능성이 제기됐다. 항공사 비용 구조에서 연료비 부담이 커지는 만큼 단기 실적에는 부정적 요인으로 작용할 수 있다. 다만 국제선 여객 수요는 아직 견조한 흐름을 보이고 있어 항공 운임 상승에 따른 수혜 기대도 함께 나온다. 결국 항공주는 유류비 부담과 여객 수요, 운임 상승 가능성이 동시에 반영되는 국면에 놓였다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Airline Stocks Face Fuel Cost Surge as Resilient International Demand Offers Support",
-        "excerpt": "As fuel costs jump after the U.S.-Iran war, major airlines face concerns over second-quarter losses, while steady international passenger demand and higher fares remain key stock drivers.",
-        "body": "Airline stocks are drawing attention as soaring fuel costs collide with exceptionally strong travel demand. Following the U.S.-Iran war, fuel expenses have risen sharply, raising expectations that major airlines could post losses in the second quarter. Because fuel is a major part of airline cost structures, the increase may weigh on short-term earnings. Still, international passenger demand has remained firm, creating expectations that airlines could benefit from higher airfares. The outlook for airline stocks therefore depends on how fuel burdens, passenger demand, and fare increases are reflected together. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "燃料費急騰で揺れる航空株、堅調な国際線需要が支えになるか",
-        "excerpt": "米国・イラン戦争の影響で燃料費が急騰し、主要航空会社の第2四半期赤字懸念が強まる一方、国際線需要と運賃上昇期待が航空株の焦点となっている。",
-        "body": "燃料費の急騰と記録的な航空需要が重なり、主要航空株の行方に関心が集まっている。米国・イラン戦争を受けて燃料費が急速に上昇し、主要航空会社では第2四半期の赤字可能性が指摘されている。航空会社の費用構造では燃料費の負担が大きいため、短期業績にはマイナス要因となり得る。一方で、国際線の旅客需要はなお堅調で、航空運賃上昇による恩恵への期待も出ている。航空株は燃料費負担、旅客需要、運賃上昇の可能性が同時に反映される局面にある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "燃油成本飙升冲击航空股，坚挺国际航线需求能否支撑走势",
-        "excerpt": "受美国与伊朗战争影响，燃油成本快速上涨，主要航空公司第二季度亏损担忧升温，但国际旅客需求和票价上涨预期仍成为航空股变量。",
-        "body": "燃油成本飙升与创纪录航空需求并存，使主要航空股走势受到关注。美国与伊朗战争导致燃油费用快速上升，市场由此担心主要航空公司第二季度可能出现亏损。由于燃油支出在航空公司成本结构中占有重要位置，成本上升可能对短期业绩形成压力。不过，国际航线旅客需求目前仍保持坚挺，航空票价上升带来的受益预期也随之出现。因此，航空股正处在燃油负担、旅客需求和票价上涨可能性共同作用的阶段。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones aéreas bajo presión por combustible caro, con demanda internacional firme",
-        "excerpt": "La guerra entre EE. UU. e Irán disparó los costos de combustible y elevó el temor a pérdidas trimestrales en grandes aerolíneas, aunque la demanda internacional y tarifas más altas sostienen expectativas.",
-        "body": "Las acciones de aerolíneas vuelven al foco mientras el fuerte aumento del combustible coincide con una demanda aérea históricamente elevada. Tras la guerra entre Estados Unidos e Irán, los costos de combustible subieron con rapidez y se prevé que las principales aerolíneas puedan registrar pérdidas en el segundo trimestre. Dado el peso del combustible en la estructura de costos del sector, el impacto puede presionar los resultados de corto plazo. Sin embargo, la demanda de pasajeros internacionales sigue siendo sólida, lo que alimenta expectativas de beneficios por mayores tarifas aéreas. La evolución dependerá de combustible, demanda y precios. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Ações aéreas sentem alta do combustível, mas demanda internacional segue firme",
-        "excerpt": "A guerra entre EUA e Irã elevou os custos de combustível e trouxe risco de prejuízo no segundo trimestre para grandes aéreas, enquanto demanda internacional e tarifas maiores sustentam expectativas.",
-        "body": "As ações de companhias aéreas estão no centro das atenções com a combinação de combustível mais caro e demanda aérea historicamente forte. Após a guerra entre Estados Unidos e Irã, os custos de combustível subiram rapidamente, levando à expectativa de que grandes aéreas possam registrar prejuízo no segundo trimestre. Como o combustível pesa na estrutura de custos do setor, a alta tende a afetar os resultados de curto prazo. Ainda assim, a demanda por passageiros internacionais permanece firme, criando expectativa de benefício com tarifas aéreas mais altas. O cenário dependerá de custos, demanda e preços. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Airline-Aktien unter Druck durch Treibstoffkosten, doch Auslandsnachfrage stützt",
-        "excerpt": "Der Krieg zwischen den USA und Iran ließ Treibstoffkosten stark steigen und schürt Verlustsorgen für das zweite Quartal, während robuste internationale Nachfrage und höhere Flugpreise stützen könnten.",
-        "body": "Airline-Aktien rücken in den Fokus, weil stark steigende Treibstoffkosten auf eine außergewöhnlich hohe Flugnachfrage treffen. Nach dem Krieg zwischen den USA und Iran sind die Treibstoffkosten rasch gestiegen, wodurch bei großen Fluggesellschaften Verluste im zweiten Quartal erwartet werden. Da Kerosin einen großen Teil der Kostenstruktur ausmacht, kann dies die kurzfristigen Ergebnisse belasten. Gleichzeitig bleibt die Nachfrage im internationalen Passagierverkehr bislang robust. Dadurch entstehen Erwartungen, dass höhere Flugpreise den Airlines zugutekommen könnten. Entscheidend bleibt das Zusammenspiel aus Kosten, Nachfrage und Tarifen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les compagnies aériennes sous pression du carburant, soutenues par la demande internationale",
-        "excerpt": "La guerre entre les États-Unis et l’Iran fait grimper les coûts du carburant et nourrit la crainte de pertes au deuxième trimestre, mais la demande internationale et les tarifs plus élevés restent des soutiens.",
-        "body": "Les actions des compagnies aériennes attirent l’attention alors que la flambée du carburant coïncide avec une demande de transport aérien très forte. Après la guerre entre les États-Unis et l’Iran, les coûts du carburant ont rapidement augmenté, faisant craindre des pertes au deuxième trimestre pour les grandes compagnies. Comme le carburant pèse lourd dans leur structure de coûts, cette hausse peut peser sur les résultats à court terme. Toutefois, la demande de passagers internationaux reste solide, ce qui alimente l’espoir d’un bénéfice lié à la hausse des tarifs aériens. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الطيران بين قفزة الوقود وقوة الطلب الدولي على السفر الجوي",
-        "excerpt": "أدت حرب الولايات المتحدة وإيران إلى ارتفاع حاد في تكاليف الوقود وزادت مخاوف خسائر الربع الثاني لدى شركات الطيران الكبرى، بينما يبقى الطلب الدولي وتوقعات ارتفاع الأسعار عامل دعم.",
-        "body": "تتجه الأنظار إلى أسهم شركات الطيران مع تزامن ارتفاع تكاليف الوقود مع طلب قوي للغاية على السفر الجوي. فبعد حرب الولايات المتحدة وإيران، صعدت تكاليف الوقود بسرعة، ما أثار توقعات بتكبد شركات طيران كبرى خسائر في الربع الثاني. وبما أن الوقود يمثل عبئا مهما في هيكل تكاليف شركات الطيران، فقد يضغط ذلك على النتائج قصيرة الأجل. في المقابل، لا يزال الطلب على ركاب الخطوط الدولية متماسكا، ما يفتح باب التوقعات بالاستفادة من ارتفاع أسعار التذاكر. لذلك تتحرك أسهم الطيران بين عبء الوقود وقوة الطلب وإمكان زيادة الأسعار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "ईंधन लागत में उछाल से एयरलाइन शेयर दबाव में, अंतरराष्ट्रीय मांग बनी सहारा",
-        "excerpt": "अमेरिका-ईरान युद्ध के बाद ईंधन लागत तेजी से बढ़ी और प्रमुख एयरलाइनों में दूसरी तिमाही के घाटे की आशंका बढ़ी, लेकिन अंतरराष्ट्रीय यात्री मांग और किराया बढ़ने की उम्मीद अहम बनी हुई है।",
-        "body": "ईंधन लागत में तेज उछाल और रिकॉर्ड स्तर की हवाई मांग के बीच एयरलाइन शेयरों पर निवेशकों की नजर है। अमेरिका-ईरान युद्ध के बाद ईंधन खर्च तेजी से बढ़ा, जिससे प्रमुख एयरलाइनों के लिए दूसरी तिमाही में घाटे की आशंका जताई जा रही है। एयरलाइनों की लागत संरचना में ईंधन का बड़ा हिस्सा होने के कारण यह बढ़ोतरी निकट अवधि के नतीजों पर दबाव डाल सकती है। हालांकि, अंतरराष्ट्रीय मार्गों पर यात्री मांग अभी भी मजबूत है। इसी कारण हवाई किराए में वृद्धि से लाभ मिलने की उम्मीद भी सामने आ रही है। एयरलाइन शेयरों की दिशा ईंधन बोझ, मांग और किराए पर निर्भर रहेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Maskapai Tertekan Harga BBM, Permintaan Internasional Masih Menopang",
-        "excerpt": "Perang AS-Iran membuat biaya bahan bakar melonjak dan memunculkan kekhawatiran rugi kuartal kedua di maskapai besar, sementara permintaan internasional dan kenaikan tarif tetap menjadi penopang.",
-        "body": "Saham maskapai kembali menjadi perhatian saat lonjakan biaya bahan bakar bertemu dengan permintaan penerbangan yang sangat kuat. Setelah perang Amerika Serikat dan Iran, biaya bahan bakar naik cepat sehingga muncul perkiraan bahwa maskapai besar dapat mencatat rugi pada kuartal kedua. Karena bahan bakar merupakan bagian besar dari struktur biaya maskapai, kenaikan ini dapat menekan kinerja jangka pendek. Namun, permintaan penumpang rute internasional masih terjaga kuat, sehingga ada harapan manfaat dari kenaikan tarif penerbangan. Arah saham maskapai akan dipengaruhi beban bahan bakar, permintaan, dan peluang kenaikan tarif. Sumber: mk.co.kr"
       }
     }
   }
