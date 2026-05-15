@@ -1,5 +1,230 @@
 [
   {
+    "id": "093fe6d0174c",
+    "slug": "앤스로픽-몸값-9000억弗오픈ai-제쳤다-257153",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T18:53:57.391Z",
+    "updatedAt": "2026-05-15T18:53:57.391Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051597791",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051597791",
+    "titleFingerprint": "18dc9d4031e0521623dae758d5d966bf34e99e20",
+    "dedupKeys": [
+      "093fe6d0174c0fe98f841b08a8868fc0fbf979f1",
+      "18dc9d4031e0521623dae758d5d966bf34e99e20",
+      "d245e8a0b165ea842e8d8f913eba060c930cf7b2"
+    ],
+    "imageUrl": "/images/articles/093fe6d0174c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "앤스로픽 기업가치 9000억달러, 오픈AI 추월 보도에 AI업계 주목",
+        "excerpt": "hankyung.com은 앤스로픽의 몸값이 9000억달러로 평가되며 오픈AI를 제쳤다고 전했다. 생성형 AI 경쟁 구도와 기업가치 흐름을 보여주는 소식이다.",
+        "body": "앤스로픽의 기업가치가 9000억달러로 평가되며 오픈AI를 넘어섰다고 hankyung.com이 보도했다. 보도 제목은 ‘앤스로픽 몸값 9000억弗…오픈AI 제쳤다’로, 생성형 AI 기업 간 가치 평가 경쟁이 시장의 핵심 관심사로 떠올랐음을 보여준다. 원문에서 확인되는 핵심 수치는 앤스로픽의 몸값 9000억달러와 오픈AI 추월이다. 이번 보도는 AI 모델과 서비스 경쟁이 기업가치 평가로도 이어지고 있음을 시사한다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Anthropic Valuation Reportedly Hits $900 Billion, Overtaking OpenAI",
+        "excerpt": "hankyung.com reported that Anthropic’s valuation reached $900 billion and surpassed OpenAI, highlighting the shifting valuation race in generative AI.",
+        "body": "Anthropic’s corporate valuation has reportedly been assessed at $900 billion, putting it ahead of OpenAI, according to hankyung.com. The original headline states, “Anthropic valuation at $900 billion… overtakes OpenAI,” pointing to how closely investors and markets are watching the value race among generative AI companies. The key facts confirmed in the source are Anthropic’s $900 billion valuation and its move ahead of OpenAI. The report suggests that competition in AI models and services is also being reflected in company valuations. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "Anthropicの企業価値9000億ドル、OpenAI超え報道にAI業界注目",
+        "excerpt": "hankyung.comは、Anthropicの企業価値が9000億ドルと評価され、OpenAIを上回ったと報じた。生成AI企業の評価競争を示す内容だ。",
+        "body": "Anthropicの企業価値が9000億ドルと評価され、OpenAIを上回ったとhankyung.comが報じた。原文の見出しは「Anthropicの身代9000億ドル…OpenAIを抜いた」という趣旨で、生成AI企業の価値評価競争が市場の主要な関心事になっていることを示している。原文で確認できる中心情報は、Anthropicの9000億ドルという評価額とOpenAI超えだ。今回の報道は、AIモデルやサービスの競争が企業価値の評価にも反映されていることを示唆する。出典: hankyung.com."
+      },
+      "zh": {
+        "title": "Anthropic估值达9000亿美元，据报已超过OpenAI引关注",
+        "excerpt": "hankyung.com报道称，Anthropic估值被评为9000亿美元，并已超过OpenAI。这一消息凸显生成式AI企业估值竞争的变化。",
+        "body": "据hankyung.com报道，Anthropic的企业估值被评为9000亿美元，并已超过OpenAI。原文标题为“Anthropic身价9000亿美元……超过OpenAI”，显示生成式AI企业之间的估值竞争正成为市场关注焦点。原文可确认的核心信息包括Anthropic估值9000亿美元，以及其估值超过OpenAI。该报道表明，AI模型和服务层面的竞争也正在反映到企业价值评估之中。来源: hankyung.com."
+      },
+      "es": {
+        "title": "Anthropic alcanza valoración de 900.000 millones de dólares y supera a OpenAI",
+        "excerpt": "hankyung.com informó que Anthropic fue valorada en 900.000 millones de dólares y superó a OpenAI, una señal de la carrera de valoración en la IA generativa.",
+        "body": "Anthropic habría sido valorada en 900.000 millones de dólares y superado a OpenAI, según informó hankyung.com. El titular original señala que “la valoración de Anthropic llega a 900.000 millones de dólares y supera a OpenAI”, lo que muestra que la competencia de valoraciones entre empresas de IA generativa se ha convertido en un foco del mercado. Los datos centrales confirmados por la fuente son la valoración de 900.000 millones de dólares de Anthropic y su avance por encima de OpenAI. El reporte indica que la competencia en modelos y servicios de IA también se refleja en las valoraciones corporativas. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Anthropic chega a avaliação de US$ 900 bilhões e supera a OpenAI, diz site",
+        "excerpt": "O hankyung.com informou que a Anthropic foi avaliada em US$ 900 bilhões e superou a OpenAI, destacando a disputa por valor entre empresas de IA generativa.",
+        "body": "A Anthropic teria sido avaliada em US$ 900 bilhões, superando a OpenAI, segundo o hankyung.com. A manchete original afirma que a “avaliação da Anthropic chega a US$ 900 bilhões e supera a OpenAI”, mostrando que a disputa de valor entre empresas de IA generativa se tornou um foco do mercado. As informações centrais confirmadas na fonte são a avaliação de US$ 900 bilhões da Anthropic e sua posição acima da OpenAI. A reportagem indica que a competição em modelos e serviços de IA também está sendo refletida nas avaliações corporativas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Anthropic laut Bericht mit 900 Milliarden Dollar bewertet, vor OpenAI",
+        "excerpt": "hankyung.com berichtete, dass Anthropic mit 900 Milliarden Dollar bewertet wurde und OpenAI überholt hat. Das zeigt die Bewertungsdynamik im Bereich generativer KI.",
+        "body": "Anthropic ist laut hankyung.com mit 900 Milliarden Dollar bewertet worden und hat damit OpenAI überholt. Die ursprüngliche Schlagzeile besagt sinngemäß: „Anthropic-Bewertung 900 Milliarden Dollar… OpenAI überholt.“ Damit rückt die Bewertungsrivalität zwischen Unternehmen für generative KI in den Mittelpunkt des Marktinteresses. Die aus der Quelle bestätigten Kernangaben sind Anthropics Bewertung von 900 Milliarden Dollar und das Überholen von OpenAI. Der Bericht zeigt, dass der Wettbewerb bei KI-Modellen und -Diensten auch in Unternehmensbewertungen sichtbar wird. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Anthropic valorisée 900 milliards de dollars, devant OpenAI selon un rapport",
+        "excerpt": "hankyung.com rapporte qu’Anthropic a été valorisée 900 milliards de dollars et a dépassé OpenAI, illustrant la course aux valorisations dans l’IA générative.",
+        "body": "Anthropic aurait été valorisée 900 milliards de dollars et aurait dépassé OpenAI, selon hankyung.com. Le titre original indique que « la valorisation d’Anthropic atteint 900 milliards de dollars et dépasse OpenAI », ce qui montre que la concurrence des valorisations entre entreprises d’IA générative est devenue un sujet central pour le marché. Les faits confirmés par la source sont la valorisation de 900 milliards de dollars d’Anthropic et son passage devant OpenAI. Le rapport suggère que la concurrence dans les modèles et services d’IA se reflète aussi dans les valorisations d’entreprises. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "تقييم أنثروبيك يبلغ 900 مليار دولار ويتجاوز أوبن إيه آي وفق تقرير",
+        "excerpt": "أفاد موقع hankyung.com بأن تقييم أنثروبيك وصل إلى 900 مليار دولار متجاوزا أوبن إيه آي، في مؤشر على سباق التقييمات بين شركات الذكاء الاصطناعي التوليدي.",
+        "body": "أفاد موقع hankyung.com بأن قيمة شركة أنثروبيك قُدرت بنحو 900 مليار دولار، لتتجاوز أوبن إيه آي. ويشير العنوان الأصلي إلى أن «تقييم أنثروبيك بلغ 900 مليار دولار وتجاوز أوبن إيه آي»، ما يبرز تحول سباق التقييمات بين شركات الذكاء الاصطناعي التوليدي إلى محور اهتمام في السوق. الحقائق الأساسية المؤكدة في المصدر هي تقييم أنثروبيك عند 900 مليار دولار وتقدمها على أوبن إيه آي. ويعكس التقرير أن المنافسة في نماذج وخدمات الذكاء الاصطناعي تظهر أيضا في تقييمات الشركات. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Anthropic का मूल्यांकन 900 अरब डॉलर, OpenAI से आगे निकलने की रिपोर्ट",
+        "excerpt": "hankyung.com ने बताया कि Anthropic का मूल्यांकन 900 अरब डॉलर आंका गया और वह OpenAI से आगे निकल गई, जो जनरेटिव AI कंपनियों की वैल्यूएशन दौड़ को दिखाता है।",
+        "body": "hankyung.com के अनुसार, Anthropic का कॉरपोरेट मूल्यांकन 900 अरब डॉलर आंका गया है और उसने OpenAI को पीछे छोड़ दिया है। मूल शीर्षक में कहा गया है कि “Anthropic की वैल्यू 900 अरब डॉलर, OpenAI से आगे,” जिससे पता चलता है कि जनरेटिव AI कंपनियों के बीच मूल्यांकन की प्रतिस्पर्धा बाजार का प्रमुख विषय बन रही है। स्रोत में पुष्टि की गई मुख्य बातें Anthropic का 900 अरब डॉलर मूल्यांकन और OpenAI से आगे निकलना हैं। यह रिपोर्ट संकेत देती है कि AI मॉडल और सेवाओं की प्रतिस्पर्धा कंपनियों के मूल्यांकन में भी दिखाई दे रही है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Valuasi Anthropic Capai US$900 Miliar, Dilaporkan Menyalip OpenAI",
+        "excerpt": "hankyung.com melaporkan valuasi Anthropic mencapai US$900 miliar dan melampaui OpenAI, menyoroti persaingan valuasi di sektor AI generatif.",
+        "body": "Valuasi perusahaan Anthropic dilaporkan mencapai US$900 miliar dan melampaui OpenAI, menurut hankyung.com. Judul asli menyebut “valuasi Anthropic US$900 miliar… menyalip OpenAI,” yang menunjukkan bahwa persaingan valuasi di antara perusahaan AI generatif menjadi perhatian utama pasar. Fakta utama yang dikonfirmasi dari sumber adalah valuasi Anthropic sebesar US$900 miliar dan posisinya yang melewati OpenAI. Laporan ini menunjukkan bahwa persaingan dalam model dan layanan AI juga tercermin dalam penilaian nilai perusahaan. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "7d2b8ff1507b",
+    "slug": "국내-최초-법률-ai-에이전트-엘박스ai는-도구-본질은-법률-데이터-kiw-2026-477394",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T18:53:04.513Z",
+    "updatedAt": "2026-05-15T18:53:04.513Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159637i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159637i",
+    "titleFingerprint": "ae67892c10483d957724a6de82710108d5e32834",
+    "dedupKeys": [
+      "7d2b8ff1507b101260a9d648309ddf11e94b9522",
+      "ae67892c10483d957724a6de82710108d5e32834",
+      "47e40127f8caa9def86028d6c309c59f481c547e"
+    ],
+    "imageUrl": "/images/articles/7d2b8ff1507b.jpg",
+    "i18n": {
+      "ko": {
+        "title": "법률 AI 에이전트 엘박스, KIW 2026서 데이터 본질 앞세운 전략 공개",
+        "excerpt": "엘박스는 2026년 5월 15일 KIW 2026에서 국내 최초 법률 AI 에이전트로 소개되며 AI보다 법률 데이터가 핵심이라는 메시지를 제시했다.",
+        "body": "2026년 5월 15일 한국경제신문이 보도한 KIW 2026 현장에서 엘박스는 국내 최초 ‘법률 AI 에이전트’로 소개됐다. 이진 엘박스 대표는 ‘Agentic AI 시대, 법률 업무의 패러다임 전환’을 주제로 발표하며 “AI는 도구, 본질은 법률 데이터”라는 메시지를 전했다. KIW 2026은 한국경제신문과 삼성증권이 주관한 투자 콘퍼런스로, 엘박스 세션은 법률 업무에서 AI 활용의 초점이 기술 자체보다 신뢰할 수 있는 법률 데이터에 있음을 부각했다. 관련 논의는 리걸테크 경쟁력의 기준이 데이터 확보와 활용 역량으로 이동하고 있음을 보여준다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "LBOX Legal AI Agent Highlights Data Strategy at KIW 2026",
+        "excerpt": "LBOX was introduced on May 15, 2026, at KIW 2026 as Korea’s first legal AI agent, emphasizing that legal data is the core while AI remains a tool.",
+        "body": "At KIW 2026 on May 15, 2026, Hankyung reported that LBOX was introduced as Korea’s first “legal AI agent.” LBOX CEO Gene Lee presented on “The Evolution of Legal Practice in the Agentic AI Era” and delivered the message that “AI is a tool, while the essence is legal data.” KIW 2026, hosted by The Korea Economic Daily with Samsung Securities, framed the LBOX session around how AI can be used in legal work. The key point was that trusted legal data, rather than AI technology alone, is central to legal services. The discussion signals that legal tech competitiveness is being tied to data ownership and data-use capability. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "法律AIエージェントのエルボックス、KIW 2026でデータ重視を強調",
+        "excerpt": "エルボックスは2026年5月15日のKIW 2026で韓国初の法律AIエージェントとして紹介され、AIより法律データが本質だと示した。",
+        "body": "韓国経済新聞が2026年5月15日に報じたKIW 2026の場で、エルボックスは韓国初の「法律AIエージェント」として紹介された。エルボックスのイ・ジン代表は「Agentic AI時代における法律業務のパラダイム転換」をテーマに発表し、「AIは道具であり、本質は法律データだ」というメッセージを示した。KIW 2026は韓国経済新聞とサムスン証券が主催した投資カンファレンスで、同セッションは法律業務でのAI活用において、技術そのものより信頼できる法律データが重要である点を浮き彫りにした。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "法律AI代理LBOX亮相KIW 2026，强调法律数据才是核心",
+        "excerpt": "LBOX于2026年5月15日在KIW 2026被介绍为韩国首个法律AI代理，并强调AI只是工具，法律数据才是本质。",
+        "body": "据韩国经济新闻2026年5月15日报道，在KIW 2026现场，LBOX被介绍为韩国首个“法律AI代理”。LBOX代表Gene Lee以“Agentic AI时代法律业务的范式转变”为主题发表演讲，并传递出“AI是工具，本质是法律数据”的信息。KIW 2026是由韩国经济新闻和三星证券共同主办的投资会议，LBOX相关环节突出了法律业务应用AI时的核心并非技术本身，而是可信赖的法律数据。相关讨论显示，法律科技竞争力的标准正转向数据 확보和数据 활용能力。来源: hankyung.com"
+      },
+      "es": {
+        "title": "LBOX, agente de IA legal, destaca los datos en KIW 2026",
+        "excerpt": "LBOX fue presentada el 15 de mayo de 2026 en KIW 2026 como el primer agente de IA legal de Corea, subrayando que el dato legal es el núcleo.",
+        "body": "En KIW 2026, el 15 de mayo de 2026, Hankyung informó que LBOX fue presentada como el primer “agente de IA legal” de Corea. Gene Lee, CEO de LBOX, expuso sobre “la evolución de la práctica jurídica en la era de la IA agéntica” y transmitió el mensaje de que “la IA es una herramienta, mientras que la esencia son los datos legales”. KIW 2026, organizado por The Korea Economic Daily junto con Samsung Securities, situó la sesión de LBOX en el debate sobre el uso de IA en el trabajo jurídico. El punto central fue que los datos legales confiables pesan más que la tecnología por sí sola. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "LBOX, agente de IA jurídica, reforça dados legais no KIW 2026",
+        "excerpt": "A LBOX foi apresentada em 15 de maio de 2026 no KIW 2026 como o primeiro agente de IA jurídica da Coreia, destacando os dados legais.",
+        "body": "No KIW 2026, em 15 de maio de 2026, o Hankyung informou que a LBOX foi apresentada como o primeiro “agente de IA jurídica” da Coreia. Gene Lee, CEO da LBOX, falou sobre “a evolução da prática jurídica na era da IA agentic” e afirmou a mensagem de que “a IA é uma ferramenta, enquanto a essência são os dados jurídicos”. O KIW 2026, organizado pelo The Korea Economic Daily com a Samsung Securities, colocou a sessão da LBOX no contexto do uso de IA no trabalho jurídico. O foco foi mostrar que dados legais confiáveis são mais centrais do que a tecnologia isolada. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "LBOX als Legal-AI-Agent: KIW 2026 stellt Rechtsdaten in den Mittelpunkt",
+        "excerpt": "LBOX wurde am 15. Mai 2026 auf der KIW 2026 als Koreas erster Legal-AI-Agent vorgestellt und betonte Rechtsdaten als eigentlichen Kern.",
+        "body": "Auf der KIW 2026 berichtete Hankyung am 15. Mai 2026, dass LBOX als Koreas erster „Legal-AI-Agent“ vorgestellt wurde. LBOX-CEO Gene Lee sprach über „die Entwicklung der Rechtspraxis im Zeitalter agentischer KI“ und vermittelte die Botschaft: „KI ist ein Werkzeug, das Wesentliche sind Rechtsdaten.“ Die KIW 2026 wurde von The Korea Economic Daily gemeinsam mit Samsung Securities veranstaltet. Die LBOX-Session stellte heraus, dass der Einsatz von KI in juristischer Arbeit nicht allein von der Technologie abhängt, sondern von verlässlichen Rechtsdaten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "LBOX, agent d’IA juridique, met les données au centre à KIW 2026",
+        "excerpt": "LBOX a été présenté le 15 mai 2026 à KIW 2026 comme le premier agent d’IA juridique de Corée, en soulignant le rôle clé des données juridiques.",
+        "body": "Lors de KIW 2026, le 15 mai 2026, Hankyung a rapporté que LBOX avait été présenté comme le premier « agent d’IA juridique » de Corée. Gene Lee, CEO de LBOX, est intervenu sur « l’évolution de la pratique juridique à l’ère de l’IA agentique » et a porté le message selon lequel « l’IA est un outil, tandis que l’essence réside dans les données juridiques ». KIW 2026, organisé par The Korea Economic Daily avec Samsung Securities, a placé cette session dans le débat sur l’usage de l’IA dans le droit. Le point central était la fiabilité des données juridiques. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "إل بوكس تعرض وكيل ذكاء اصطناعي قانوني وتؤكد أهمية البيانات في KIW 2026",
+        "excerpt": "قُدمت إل بوكس في 15 مايو 2026 خلال KIW 2026 كأول وكيل ذكاء اصطناعي قانوني في كوريا، مع التأكيد أن جوهر العمل هو البيانات القانونية.",
+        "body": "في KIW 2026 بتاريخ 15 مايو 2026، أفادت هانكيونغ بأن إل بوكس قُدمت كأول “وكيل ذكاء اصطناعي قانوني” في كوريا. وتحدث جين لي، الرئيس التنفيذي لإل بوكس، عن “تحول نموذج العمل القانوني في عصر الذكاء الاصطناعي الوكيلي”، مقدما رسالة مفادها أن “الذكاء الاصطناعي أداة، أما الجوهر فهو البيانات القانونية”. ونظم مؤتمر KIW 2026 من قبل صحيفة كوريا الاقتصادية مع سامسونغ للأوراق المالية. وركزت جلسة إل بوكس على أن استخدام الذكاء الاصطناعي في القانون يعتمد على بيانات قانونية موثوقة أكثر من اعتماده على التقنية وحدها. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "LBOX ने KIW 2026 में कानूनी AI एजेंट और डेटा रणनीति पर जोर दिया",
+        "excerpt": "LBOX को 15 मई 2026 को KIW 2026 में कोरिया के पहले कानूनी AI एजेंट के रूप में पेश किया गया, जहां कानूनी डेटा को मूल बताया गया।",
+        "body": "15 मई 2026 को KIW 2026 में हानक्युंग की रिपोर्ट के अनुसार, LBOX को कोरिया के पहले “कानूनी AI एजेंट” के रूप में पेश किया गया। LBOX के सीईओ जीन ली ने “Agentic AI युग में कानूनी कार्य के प्रतिमान परिवर्तन” पर प्रस्तुति दी और यह संदेश रखा कि “AI एक उपकरण है, जबकि असली मूल कानूनी डेटा है।” KIW 2026 का आयोजन The Korea Economic Daily और Samsung Securities ने किया। LBOX सत्र ने दिखाया कि कानूनी काम में AI के उपयोग का केंद्र केवल तकनीक नहीं, बल्कि भरोसेमंद कानूनी डेटा है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "LBOX Soroti Data Hukum dalam Agen AI Legal di KIW 2026",
+        "excerpt": "LBOX diperkenalkan pada 15 Mei 2026 di KIW 2026 sebagai agen AI legal pertama di Korea, dengan pesan bahwa data hukum adalah inti utama.",
+        "body": "Pada KIW 2026 tanggal 15 Mei 2026, Hankyung melaporkan bahwa LBOX diperkenalkan sebagai “agen AI legal” pertama di Korea. CEO LBOX Gene Lee menyampaikan presentasi bertema “perubahan paradigma praktik hukum di era Agentic AI” dan menegaskan pesan bahwa “AI adalah alat, sementara esensinya adalah data hukum”. KIW 2026 diselenggarakan oleh The Korea Economic Daily bersama Samsung Securities. Sesi LBOX menyoroti bahwa pemanfaatan AI dalam pekerjaan hukum tidak hanya bergantung pada teknologi, tetapi terutama pada data hukum yang dapat dipercaya. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "58795ff2a13a",
+    "slug": "ai-투자-늘린-알리바바-4년만에-손실-731846",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T18:51:45.292Z",
+    "updatedAt": "2026-05-15T18:51:45.292Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598491",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598491",
+    "titleFingerprint": "a36338e9c9b3d5aae52dec314805068c4ddaec25",
+    "dedupKeys": [
+      "58795ff2a13aee4ad298ef8e4bf81a16750f7a0c",
+      "a36338e9c9b3d5aae52dec314805068c4ddaec25",
+      "280ebba77106ae75a0fef2421750345eeddbd4ae"
+    ],
+    "imageUrl": "/images/articles/58795ff2a13a.png",
+    "i18n": {
+      "ko": {
+        "title": "AI 투자 늘린 알리바바, 2026회계연도 영업손실 전환과 주가 하락",
+        "excerpt": "알리바바는 2026회계연도에 매출 2434억위안으로 3% 성장했지만 시장 전망을 밑돌고, AI 투자와 배달 경쟁 부담으로 영업손실 8억4800만위안을 기록했다.",
+        "body": "중국 알리바바는 14일(현지시간) 2026회계연도(2025년 4월~2026년 3월) 실적에서 매출 2434억위안을 기록했다고 밝혔다. 전년 대비 3% 늘었지만 시장 전망치 2472억위안에는 못 미쳤다. 영업손실은 8억4800만위안으로 적자 전환했고, 순이익은 1059억위안으로 4년 만에 처음 감소했다. 실적 부진 배경으로는 AI 투자 확대와 중국 내 배달 경쟁에 따른 쿠폰 비용 부담이 지목됐다. 블룸버그인텔리전스는 전자상거래 수익의 90%가 AI 모델 큐원(Qwen)에 쓰이고 있다고 분석했다. 우융밍 CEO는 AI 투자가 수익성으로 이어지기 시작했으며 3~5년 안에 구체적 결과가 나올 수 있다고 말했다. 알리바바 주가는 이날 3.22% 하락한 141.12달러에 마감했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Alibaba’s AI Spending Push Leads to Operating Loss and Share Decline",
+        "excerpt": "Alibaba reported fiscal 2026 revenue of 243.4 billion yuan, up 3%, but below market expectations, as AI spending and delivery competition led to an 848 million yuan operating loss.",
+        "body": "Alibaba of China reported results for fiscal 2026, covering April 2025 to March 2026, on May 14 local time. Revenue reached 243.4 billion yuan, up 3% from a year earlier, but missed the market forecast of 247.2 billion yuan. The company posted an operating loss of 848 million yuan, while net profit fell to 105.9 billion yuan, its first decline in four years. The weak performance was attributed to higher AI investment and costly coupon competition in China’s delivery market. Bloomberg Intelligence said Alibaba is using 90% of its e-commerce profit for its AI model Qwen. CEO Eddie Wu said AI investment is starting to support profitability and could show concrete results in three to five years. Alibaba shares closed down 3.22% at $141.12. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AI投資を拡大したアリババ、2026会計年度に営業赤字へ転落",
+        "excerpt": "アリババは2026会計年度の売上高が2434億元と3%増えたが市場予想を下回り、AI投資と宅配競争の負担で8億4800万元の営業損失を計上した。",
+        "body": "中国のアリババは14日現地時間、2026会計年度（2025年4月から2026年3月）の業績を発表した。売上高は2434億元で前年同期比3%増だったが、市場予想の2472億元には届かなかった。営業損失は8億4800万元となり赤字に転落し、純利益は1059億元で4年ぶりに減少した。業績不振の背景には、AI投資の拡大と中国国内の宅配競争で発生したクーポン費用の負担が挙げられた。ブルームバーグ・インテリジェンスは、電子商取引で得た利益の90%がAIモデル「Qwen」に使われていると分析した。呉泳銘CEOは、AI投資が収益性につながり始め、3から5年以内に具体的な成果が出る可能性があると述べた。株価は3.22%安の141.12ドルで引けた。出所: hankyung.com"
+      },
+      "zh": {
+        "title": "阿里巴巴加码AI投资，2026财年转为经营亏损并拖累股价",
+        "excerpt": "阿里巴巴2026财年营收为2434亿元，同比增长3%，但低于市场预期；受AI投资和配送竞争影响，录得8.48亿元经营亏损。",
+        "body": "中国阿里巴巴于当地时间14日公布2026财年（2025年4月至2026年3月）业绩。公司营收为2434亿元，同比增长3%，但低于市场预期的2472亿元。经营亏损为8.48亿元，转为亏损；净利润为1059亿元，为四年来首次下降。业绩承压的原因被指向AI投资扩大，以及中国本土配送竞争中优惠券投入带来的成本压力。彭博行业研究称，阿里巴巴将电商业务利润的90%用于自身AI模型通义千问（Qwen）。阿里巴巴CEO吴泳铭在电话会议上表示，AI投资已开始转化为盈利能力，未来3至5年内可能出现具体成果。阿里巴巴股价当日下跌3.22%，收于141.12美元。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Alibaba aumenta su inversión en IA y pasa a pérdida operativa en 2026",
+        "excerpt": "Alibaba registró ingresos fiscales de 243.400 millones de yuanes, un 3% más, pero por debajo de lo previsto; la inversión en IA y la competencia en reparto provocaron una pérdida operativa.",
+        "body": "Alibaba, de China, informó el 14 de mayo, hora local, sus resultados del ejercicio fiscal 2026, que abarca de abril de 2025 a marzo de 2026. Los ingresos fueron de 243.400 millones de yuanes, un 3% más interanual, pero por debajo de la previsión del mercado de 247.200 millones. La compañía registró una pérdida operativa de 848 millones de yuanes y el beneficio neto bajó a 105.900 millones, su primera caída en cuatro años. El deterioro se atribuyó al aumento de la inversión en IA y al coste de cupones por la competencia en reparto dentro de China. Bloomberg Intelligence señaló que Alibaba destina el 90% de las ganancias del comercio electrónico a su modelo de IA Qwen. El CEO Eddie Wu dijo que la inversión en IA empieza a traducirse en rentabilidad y podría mostrar resultados concretos en tres a cinco años. La acción cayó 3,22% hasta 141,12 dólares. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Alibaba amplia investimento em IA e registra perda operacional no ano fiscal 2026",
+        "excerpt": "A Alibaba teve receita de 243,4 bilhões de yuans no ano fiscal 2026, alta de 3%, mas abaixo das expectativas; investimentos em IA e competição em entregas geraram perda operacional.",
+        "body": "A Alibaba, da China, divulgou em 14 de maio, no horário local, os resultados do ano fiscal de 2026, de abril de 2025 a março de 2026. A receita chegou a 243,4 bilhões de yuans, alta anual de 3%, mas ficou abaixo da previsão de mercado de 247,2 bilhões. A empresa registrou perda operacional de 848 milhões de yuans, enquanto o lucro líquido caiu para 105,9 bilhões de yuans, a primeira queda em quatro anos. O desempenho fraco foi atribuído ao aumento dos investimentos em IA e aos custos de cupons na competição por entregas na China. A Bloomberg Intelligence afirmou que a Alibaba usa 90% do lucro do comércio eletrônico em seu modelo de IA Qwen. O CEO Eddie Wu disse que o investimento em IA começou a se converter em rentabilidade e pode gerar resultados concretos em três a cinco anos. As ações fecharam em queda de 3,22%, a 141,12 dólares. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Alibaba erhöht KI-Investitionen und rutscht im Geschäftsjahr 2026 operativ ins Minus",
+        "excerpt": "Alibaba erzielte im Geschäftsjahr 2026 einen Umsatz von 243,4 Milliarden Yuan, plus 3%, blieb aber unter den Erwartungen; KI-Ausgaben und Lieferwettbewerb führten zu Verlusten.",
+        "body": "Der chinesische Konzern Alibaba meldete am 14. Mai Ortszeit Zahlen für das Geschäftsjahr 2026, das von April 2025 bis März 2026 reicht. Der Umsatz stieg um 3% auf 243,4 Milliarden Yuan, blieb jedoch unter der Markterwartung von 247,2 Milliarden Yuan. Operativ entstand ein Verlust von 848 Millionen Yuan; der Nettogewinn sank auf 105,9 Milliarden Yuan und ging damit erstmals seit vier Jahren zurück. Als Gründe für die schwache Entwicklung wurden höhere KI-Investitionen und die Kosten des Gutscheinwettbewerbs im chinesischen Liefermarkt genannt. Bloomberg Intelligence erklärte, Alibaba verwende 90% des Gewinns aus dem E-Commerce für sein KI-Modell Qwen. CEO Eddie Wu sagte, KI-Investitionen begännen, zur Profitabilität beizutragen, und könnten in drei bis fünf Jahren konkrete Ergebnisse bringen. Die Aktie schloss 3,22% tiefer bei 141,12 Dollar. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Alibaba accroît ses investissements en IA et bascule en perte opérationnelle en 2026",
+        "excerpt": "Alibaba a publié un chiffre d’affaires de 243,4 milliards de yuans pour l’exercice 2026, en hausse de 3% mais sous les attentes, tandis que l’IA et la livraison ont pesé.",
+        "body": "Le groupe chinois Alibaba a annoncé le 14 mai, heure locale, ses résultats pour l’exercice 2026, couvrant la période d’avril 2025 à mars 2026. Le chiffre d’affaires a atteint 243,4 milliards de yuans, en hausse de 3% sur un an, mais sous la prévision du marché de 247,2 milliards. L’entreprise a enregistré une perte opérationnelle de 848 millions de yuans, tandis que le bénéfice net est tombé à 105,9 milliards, sa première baisse en quatre ans. Cette contre-performance est attribuée à l’augmentation des investissements en IA et au coût des coupons liés à la concurrence dans la livraison en Chine. Bloomberg Intelligence indique qu’Alibaba consacre 90% du bénéfice du commerce électronique à son modèle d’IA Qwen. Le PDG Eddie Wu a déclaré que l’investissement en IA commence à soutenir la rentabilité et pourrait produire des résultats concrets d’ici trois à cinq ans. L’action a clôturé en baisse de 3,22% à 141,12 dollars. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "علي بابا توسع إنفاق الذكاء الاصطناعي وتسجل خسارة تشغيلية في 2026",
+        "excerpt": "سجلت علي بابا إيرادات قدرها 243.4 مليار يوان في السنة المالية 2026، بزيادة 3% لكنها دون التوقعات، مع خسارة تشغيلية بسبب الذكاء الاصطناعي ومنافسة التوصيل.",
+        "body": "أعلنت شركة علي بابا الصينية في 14 مايو بالتوقيت المحلي نتائج السنة المالية 2026، الممتدة من أبريل 2025 إلى مارس 2026. بلغت الإيرادات 243.4 مليار يوان، بزيادة 3% على أساس سنوي، لكنها جاءت دون توقعات السوق البالغة 247.2 مليار يوان. وسجلت الشركة خسارة تشغيلية قدرها 848 مليون يوان، بينما انخفض صافي الربح إلى 105.9 مليار يوان في أول تراجع منذ أربع سنوات. وعزي ضعف الأداء إلى زيادة الاستثمار في الذكاء الاصطناعي وتكاليف القسائم الناتجة عن المنافسة في سوق التوصيل داخل الصين. وقالت بلومبرغ إنتليجنس إن علي بابا تنفق 90% من أرباح التجارة الإلكترونية على نموذجها للذكاء الاصطناعي Qwen. وذكر الرئيس التنفيذي إيدي وو أن استثمارات الذكاء الاصطناعي بدأت ترتبط بالربحية وقد تظهر نتائج ملموسة خلال ثلاث إلى خمس سنوات. وأغلق السهم منخفضا 3.22% عند 141.12 دولار. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Alibaba ने AI निवेश बढ़ाया, वित्त वर्ष 2026 में परिचालन घाटा दर्ज",
+        "excerpt": "Alibaba की वित्त वर्ष 2026 आय 243.4 अरब युआन रही, 3% बढ़ी लेकिन अनुमान से कम; AI निवेश और डिलीवरी प्रतिस्पर्धा से 84.8 करोड़ युआन का परिचालन घाटा हुआ।",
+        "body": "चीन की Alibaba ने 14 मई स्थानीय समय पर वित्त वर्ष 2026, यानी अप्रैल 2025 से मार्च 2026, के नतीजे जारी किए। राजस्व 243.4 अरब युआन रहा, जो एक साल पहले से 3% अधिक था, लेकिन 247.2 अरब युआन के बाजार अनुमान से कम रहा। कंपनी ने 84.8 करोड़ युआन का परिचालन घाटा दर्ज किया, जबकि शुद्ध लाभ 105.9 अरब युआन रहा और चार साल में पहली बार घटा। कमजोर प्रदर्शन की वजह AI निवेश में वृद्धि और चीन के भीतर डिलीवरी प्रतिस्पर्धा में कूपन खर्च का दबाव बताई गई। Bloomberg Intelligence ने कहा कि Alibaba ई-कॉमर्स से अर्जित लाभ का 90% अपने AI मॉडल Qwen पर खर्च कर रही है। CEO Eddie Wu ने कहा कि AI निवेश लाभप्रदता से जुड़ना शुरू हो गया है और तीन से पांच वर्षों में ठोस परिणाम दिख सकते हैं। Alibaba का शेयर 3.22% गिरकर 141.12 डॉलर पर बंद हुआ। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Alibaba Tambah Investasi AI, Tahun Fiskal 2026 Beralih ke Rugi Operasi",
+        "excerpt": "Alibaba mencatat pendapatan tahun fiskal 2026 sebesar 243,4 miliar yuan, naik 3% namun di bawah perkiraan; investasi AI dan persaingan pengiriman menekan laba.",
+        "body": "Alibaba dari China melaporkan kinerja tahun fiskal 2026, yang mencakup April 2025 hingga Maret 2026, pada 14 Mei waktu setempat. Pendapatan mencapai 243,4 miliar yuan, naik 3% dari tahun sebelumnya, tetapi masih di bawah perkiraan pasar sebesar 247,2 miliar yuan. Perusahaan mencatat rugi operasi 848 juta yuan, sementara laba bersih turun menjadi 105,9 miliar yuan, penurunan pertama dalam empat tahun. Pelemahan kinerja dikaitkan dengan peningkatan investasi AI dan beban kupon akibat persaingan layanan pengiriman di China. Bloomberg Intelligence menyebut Alibaba memakai 90% laba e-commerce untuk model AI Qwen. CEO Eddie Wu mengatakan investasi AI mulai terhubung dengan profitabilitas dan dapat menunjukkan hasil konkret dalam tiga hingga lima tahun. Saham Alibaba ditutup turun 3,22% ke 141,12 dolar AS. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "cd7710d9b9e8",
     "slug": "우량주-뛰자채권혼합-etf-뭉칫돈-664572",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Studi Newon soal Ekstrak Cissus dan Peningkatan GLP-1 Terbit di Jurnal Internasional",
         "excerpt": "Perusahaan lifecare global Newon pada tanggal 15 menyatakan uji pada manusia mengonfirmasi ekstrak cissus sebagai bahan yang diakui secara individual dapat meningkatkan sekresi hormon pengatur nafsu makan GLP-1.",
         "body": "Perusahaan spesialis lifecare global Newon pada tanggal 15 menyatakan bahwa ekstrak cissus, bahan yang diakui secara individual, telah dikonfirmasi melalui uji aplikasi pada manusia memiliki efek meningkatkan sekresi glucagon-like peptide-1 (GLP-1), hormon pengatur nafsu makan, dan hasil terkait telah diterbitkan di jurnal akademik internasional. GLP-1 dikenal sebagai hormon yang terkait dengan pengaturan nafsu makan, dan pengumuman ini berfokus pada konfirmasi fungsi ekstrak cissus dalam uji pada manusia. Newon juga menjelaskan bahwa bahan tersebut merupakan bahan yang diakui secara individual. Publikasi jurnal ini diperkirakan menjadi sarana untuk memperkenalkan dasar penelitian ekstrak cissus. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c7c571683bb3",
-    "slug": "증권운용저축은행거를-타선-없는-한국금융지주-목표가-35만원-상향-오늘-나온-보고서-190388",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T00:03:22.140Z",
-    "updatedAt": "2026-05-15T00:03:22.140Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048725",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048725",
-    "titleFingerprint": "7ed8345b3bd45ab147caabdf4ada42c149d3389a",
-    "dedupKeys": [
-      "c7c571683bb391e26a79e660da66d749a9ed3c8e",
-      "7ed8345b3bd45ab147caabdf4ada42c149d3389a",
-      "411fcc2bcdda2665874d0ef1d45d02440fc52995"
-    ],
-    "imageUrl": "/images/articles/c7c571683bb3.png",
-    "i18n": {
-      "ko": {
-        "title": "한국금융지주 목표주가 35만원 상향, 1분기 순이익 기대치 34% 웃돌아",
-        "excerpt": "KB증권은 한국금융지주의 1분기 순이익이 컨센서스를 34% 상회하고 비증권 자회사 수익성이 크게 개선됐다며 목표주가를 35만원으로 13% 올렸다.",
-        "body": "KB증권은 오늘 나온 보고서에서 한국금융지주의 목표주가를 기존보다 13% 높인 35만원으로 상향했다. 1분기 순이익이 시장 컨센서스를 34% 웃돈 데다 증권, 운용, 저축은행 등 주요 계열 전반에서 실적 개선이 확인됐기 때문이다. 보고서에 따르면 국내 증시 활황에 따른 거래대금 증가가 증권 부문에 긍정적으로 작용했고, 비증권 자회사들의 수익성도 대폭 개선됐다. KB증권은 이를 반영해 한국금융지주의 올해 연간 이익 전망치를 2조6700억원으로 올렸다. 이번 조정은 금융 계열 전반의 이익 체력이 강화됐다는 평가에 기반한다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea Investment Holdings target raised to 350,000 won as Q1 profit beats estimates",
-        "excerpt": "KB Securities raised Korea Investment Holdings’ target price by 13% to 350,000 won after first-quarter net profit beat consensus by 34% and non-brokerage units improved sharply.",
-        "body": "KB Securities raised its target price for Korea Investment Holdings by 13% to 350,000 won in a report released today. The move followed first-quarter net profit that exceeded market consensus by 34%, along with confirmed earnings improvement across key affiliates including securities, asset management and savings banking. According to the report, higher trading value amid a strong domestic stock market supported the securities business, while profitability at non-securities subsidiaries improved significantly. KB Securities also lifted its full-year profit forecast for Korea Investment Holdings to 2.67 trillion won. The revision reflects a view that earnings strength has broadened across the group’s financial units. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国金融持株の目標株価35万ウォンへ、1Q純利益が予想を34%上回る",
-        "excerpt": "KB証券は、韓国金融持株の1四半期純利益が市場予想を34%上回り、非証券子会社の収益性も大きく改善したとして目標株価を35万ウォンへ13%引き上げた。",
-        "body": "KB証券は本日公表したリポートで、韓国金融持株の目標株価を従来比13%引き上げ、35万ウォンとした。1四半期の純利益が市場コンセンサスを34%上回ったことに加え、証券、運用、貯蓄銀行など主要系列全般で業績改善が確認されたためだ。リポートによると、国内株式市場の活況に伴う売買代金の増加が証券部門にプラスに働き、非証券子会社の収益性も大幅に改善した。KB証券はこれを反映し、韓国金融持株の今年の年間利益見通しを2兆6700億ウォンに引き上げた。今回の調整は、金融系列全体の利益基盤が強まったとの評価に基づく。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国金融控股目标价上调至35万韩元，一季度净利超预期34%",
-        "excerpt": "KB证券称，韩国金融控股一季度净利润高于市场共识34%，非证券子公司盈利能力大幅改善，因此将目标价上调13%至35万韩元。",
-        "body": "KB证券在今日发布的报告中，将韩国金融控股目标价较此前上调13%至35万韩元。原因是该公司一季度净利润高于市场共识34%，且证券、资产管理、储蓄银行等主要子公司整体业绩改善得到确认。报告显示，韩国国内股市活跃带来的成交额增加，对证券业务形成正面作用；同时，非证券子公司的盈利能力也大幅改善。KB证券据此将韩国金融控股今年全年利润预期上调至2.67万亿韩元。此次调整基于其对集团金融业务整体盈利实力增强的评估。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Korea Investment Holdings sube a 350.000 won tras superar beneficios del 1T",
-        "excerpt": "KB Securities elevó un 13% el precio objetivo de Korea Investment Holdings a 350.000 won, tras un beneficio neto del primer trimestre 34% superior al consenso y mejora en filiales no bursátiles.",
-        "body": "KB Securities elevó hoy el precio objetivo de Korea Investment Holdings un 13%, hasta 350.000 won, en un nuevo informe. La decisión se produjo después de que el beneficio neto del primer trimestre superara en un 34% el consenso del mercado y de que se confirmara una mejora de resultados en áreas clave como valores, gestión de activos y caja de ahorros. Según el informe, el aumento del volumen negociado por la fortaleza del mercado bursátil local favoreció al negocio de valores, mientras que la rentabilidad de las filiales no bursátiles mejoró de forma marcada. KB Securities también elevó su previsión de beneficio anual para este año a 2,67 billones de won. La revisión se basa en una evaluación de mayor capacidad de beneficios en el conjunto financiero del grupo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Korea Investment Holdings tem preço-alvo elevado a 350 mil won após lucro do 1T",
-        "excerpt": "A KB Securities elevou em 13% o preço-alvo da Korea Investment Holdings para 350 mil won, após lucro líquido do primeiro trimestre superar o consenso em 34% e melhora nas subsidiárias não corretoras.",
-        "body": "A KB Securities elevou hoje o preço-alvo da Korea Investment Holdings em 13%, para 350 mil won, em relatório recém-divulgado. A revisão ocorreu porque o lucro líquido do primeiro trimestre superou o consenso do mercado em 34% e houve melhora de desempenho em afiliadas importantes, incluindo valores mobiliários, gestão de ativos e banco de poupança. Segundo o relatório, o aumento do volume negociado com a força do mercado acionário doméstico beneficiou a área de valores mobiliários, enquanto a rentabilidade das subsidiárias não ligadas a valores melhorou de forma expressiva. A KB Securities também elevou a previsão de lucro anual da Korea Investment Holdings para 2,67 trilhões de won. O ajuste reflete a avaliação de que a capacidade de geração de lucros se fortaleceu em todo o grupo financeiro. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Korea Investment Holdings: Kursziel auf 350.000 Won erhöht nach starkem Q1",
-        "excerpt": "KB Securities hob das Kursziel für Korea Investment Holdings um 13% auf 350.000 Won an, nachdem der Nettogewinn im ersten Quartal den Konsens um 34% übertraf und Nicht-Wertpapier-Töchter deutlich zulegten.",
-        "body": "KB Securities hat in einem heute veröffentlichten Bericht das Kursziel für Korea Investment Holdings um 13% auf 350.000 Won angehoben. Ausschlaggebend war, dass der Nettogewinn im ersten Quartal den Marktkonsens um 34% übertraf und in wichtigen Bereichen wie Wertpapiergeschäft, Vermögensverwaltung und Sparkasse eine Ergebnisverbesserung bestätigt wurde. Dem Bericht zufolge wirkte sich der Anstieg des Handelsvolumens durch den lebhaften heimischen Aktienmarkt positiv auf das Wertpapiergeschäft aus. Zugleich verbesserte sich die Profitabilität der Nicht-Wertpapier-Tochtergesellschaften deutlich. KB Securities erhöhte daher auch die Gewinnprognose für das Gesamtjahr auf 2,67 Billionen Won. Die Anpassung beruht auf der Einschätzung, dass sich die Ertragskraft der Finanzgruppe insgesamt gestärkt hat. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Korea Investment Holdings relevé à 350 000 wons après un bénéfice T1 supérieur",
-        "excerpt": "KB Securities a relevé de 13% l’objectif de cours de Korea Investment Holdings à 350 000 wons, après un bénéfice net du premier trimestre supérieur de 34% au consensus et une forte amélioration des filiales non titres.",
-        "body": "KB Securities a relevé aujourd’hui l’objectif de cours de Korea Investment Holdings de 13%, à 350 000 wons, dans un nouveau rapport. Cette décision fait suite à un bénéfice net du premier trimestre supérieur de 34% au consensus du marché, ainsi qu’à une amélioration confirmée des résultats dans les principales activités, notamment les titres, la gestion d’actifs et la banque d’épargne. Selon le rapport, la hausse des volumes de transaction liée au dynamisme du marché boursier national a soutenu l’activité titres, tandis que la rentabilité des filiales hors titres s’est nettement améliorée. KB Securities a aussi relevé sa prévision de bénéfice annuel à 2,67 billions de wons. Cette révision repose sur l’évaluation d’un renforcement de la capacité bénéficiaire de l’ensemble du groupe financier. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لكوريا إنفستمنت إلى 350 ألف وون بعد أرباح قوية بالربع الأول",
-        "excerpt": "رفعت KB Securities السعر المستهدف لسهم Korea Investment Holdings بنسبة 13% إلى 350 ألف وون، بعدما تجاوز صافي ربح الربع الأول التوقعات بنسبة 34% وتحسنت ربحية الوحدات غير المرتبطة بالأوراق المالية.",
-        "body": "رفعت KB Securities في تقرير صدر اليوم السعر المستهدف لسهم Korea Investment Holdings بنسبة 13% إلى 350 ألف وون. وجاء القرار بعدما تجاوز صافي ربح الربع الأول إجماع السوق بنسبة 34%، مع تأكد تحسن الأداء في وحدات رئيسية تشمل الأوراق المالية وإدارة الأصول وبنك الادخار. ووفق التقرير، ساعد ارتفاع قيمة التداولات بدعم من نشاط سوق الأسهم المحلية أعمال الأوراق المالية، بينما تحسنت ربحية الشركات التابعة غير العاملة في الأوراق المالية بشكل كبير. كما رفعت KB Securities توقعاتها لأرباح Korea Investment Holdings السنوية إلى 2.67 تريليون وون. ويستند هذا التعديل إلى تقييم بأن قوة الأرباح اتسعت عبر وحدات المجموعة المالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Korea Investment Holdings का लक्ष्य मूल्य 350,000 वॉन, पहली तिमाही लाभ अनुमान से 34% ऊपर",
-        "excerpt": "KB Securities ने Korea Investment Holdings का लक्ष्य मूल्य 13% बढ़ाकर 350,000 वॉन किया, क्योंकि पहली तिमाही का शुद्ध लाभ सहमति अनुमान से 34% ऊपर रहा और गैर-सिक्योरिटीज सहायक कंपनियों की लाभप्रदता सुधरी।",
-        "body": "KB Securities ने आज जारी रिपोर्ट में Korea Investment Holdings का लक्ष्य मूल्य 13% बढ़ाकर 350,000 वॉन कर दिया। यह बदलाव इसलिए किया गया क्योंकि पहली तिमाही का शुद्ध लाभ बाजार सहमति अनुमान से 34% अधिक रहा और सिक्योरिटीज, एसेट मैनेजमेंट तथा सेविंग्स बैंक जैसे प्रमुख सहयोगी कारोबारों में प्रदर्शन सुधार की पुष्टि हुई। रिपोर्ट के अनुसार, घरेलू शेयर बाजार की मजबूती से ट्रेडिंग वैल्यू बढ़ी, जिसका सिक्योरिटीज कारोबार पर सकारात्मक असर पड़ा। साथ ही, गैर-सिक्योरिटीज सहायक कंपनियों की लाभप्रदता में भी बड़ा सुधार हुआ। KB Securities ने Korea Investment Holdings के इस वर्ष के वार्षिक लाभ अनुमान को बढ़ाकर 2.67 ट्रिलियन वॉन कर दिया। यह संशोधन वित्तीय समूह की व्यापक आय क्षमता मजबूत होने के आकलन पर आधारित है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Korea Investment Holdings naik ke 350.000 won setelah laba Q1 lampaui estimasi",
-        "excerpt": "KB Securities menaikkan target harga Korea Investment Holdings sebesar 13% menjadi 350.000 won setelah laba bersih kuartal pertama melampaui konsensus 34% dan profitabilitas anak usaha nonsekuritas membaik tajam.",
-        "body": "KB Securities dalam laporan yang dirilis hari ini menaikkan target harga Korea Investment Holdings sebesar 13% menjadi 350.000 won. Kenaikan ini dilakukan setelah laba bersih kuartal pertama melampaui konsensus pasar sebesar 34% dan perbaikan kinerja terlihat di afiliasi utama seperti sekuritas, manajemen aset, dan bank tabungan. Menurut laporan tersebut, peningkatan nilai transaksi akibat kuatnya pasar saham domestik memberi dampak positif bagi bisnis sekuritas, sementara profitabilitas anak usaha nonsekuritas membaik secara signifikan. KB Securities juga menaikkan proyeksi laba tahunan Korea Investment Holdings tahun ini menjadi 2,67 triliun won. Revisi tersebut mencerminkan penilaian bahwa daya laba di seluruh unit keuangan grup semakin kuat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "770ccae9992a",
-    "slug": "나만-돈-못-벌고-있나포모에-신용융자로-삼성전자-담는-빚투-증가-633779",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T00:02:21.766Z",
-    "updatedAt": "2026-05-15T00:02:21.766Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048726",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048726",
-    "titleFingerprint": "d388e227de85e3eecd7d1e30a610c892892648ef",
-    "dedupKeys": [
-      "770ccae9992a06cd6b07d7b9684f83ac4fee0046",
-      "d388e227de85e3eecd7d1e30a610c892892648ef",
-      "d3d81a87ad4c2df9c24731ac0eb12254758efe24"
-    ],
-    "imageUrl": "/images/articles/770ccae9992a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 급등에 ‘빚투’ 증가, 포모가 신용융자 자극",
-        "excerpt": "최근 삼성전자와 SK하이닉스 주가가 연일 급등하자 상승장에 합류하지 못했다는 포모 심리가 커지며 신용융자로 주식을 사는 빚투가 증가하는 흐름이다.",
-        "body": "최근 삼성전자와 SK하이닉스 주가가 연일 급등하면서, 상승장에서 소외될 수 있다는 포모(FOMO) 심리가 개인 투자자들의 신용융자 매수로 이어지고 있다. 원문에 따르면 두 종목의 강한 상승세 속에 ‘나만 돈을 못 벌고 있는 것 아니냐’는 불안이 커지며 빚을 내 주식을 사는 이른바 빚투도 증가 추세다. 신용융자는 투자자가 증권사에서 돈을 빌려 주식을 매수하는 방식으로, 주가 상승기에는 수익 기회를 키울 수 있지만 하락 시 부담도 커진다. 삼성전자와 SK하이닉스의 급등이 투자심리를 자극하는 가운데, 과도한 차입 투자는 변동성 확대 시 손실 위험을 높일 수 있다는 점이 시장의 주목을 받고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Rally Fuels More Margin Buying on FOMO",
-        "excerpt": "As Samsung Electronics and SK Hynix shares continue to surge, investors fearing they have missed the rally are increasingly using margin loans to buy stocks.",
-        "body": "Shares of Samsung Electronics and SK Hynix have been rising sharply in recent sessions, and the rally is prompting more retail investors to buy with borrowed money as FOMO, or fear of missing out, spreads. According to the original report, anxiety that others are making money while they are not has encouraged more so-called debt-fueled investing through margin loans. Margin financing allows investors to borrow from brokerages to purchase shares. It can expand potential gains when prices rise, but it also increases the burden if prices fall. As the strong gains in Samsung Electronics and SK Hynix continue to influence investor sentiment, the market is watching the risk that excessive borrowing could deepen losses if volatility rises. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス急騰で信用買い増加、FOMOが刺激",
-        "excerpt": "サムスン電子とSKハイニックスの株価が連日急騰するなか、上昇相場に乗り遅れたとのFOMO心理から信用融資による株式購入が増えている。",
-        "body": "最近、サムスン電子とSKハイニックスの株価が連日急騰し、上昇相場から取り残されるのではないかというFOMO心理が個人投資家の信用融資を使った買いにつながっている。原文によると、両銘柄の強い上昇のなかで「自分だけがもうけていないのではないか」という不安が広がり、借金で株を買ういわゆるレバレッジ投資も増加傾向にある。信用融資は投資家が証券会社から資金を借りて株式を購入する仕組みで、株価上昇局面では収益機会を広げ得る一方、下落時には負担も大きくなる。サムスン電子とSKハイニックスの急騰が投資心理を刺激するなか、過度な借り入れ投資は変動性拡大時に損失リスクを高め得る点が注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子、SK海力士大涨带动融资买入，FOMO推升“借钱炒股”",
-        "excerpt": "近期三星电子和SK海力士股价连续大涨，未能参与上涨行情的投资者FOMO情绪升温，使用融资买入股票的“借钱投资”呈增加趋势。",
-        "body": "近期，三星电子和SK海力士股价连续大幅上涨，担心错过上涨行情的FOMO情绪正在推动个人投资者通过融资买入股票。原文称，在两只股票强劲上涨的背景下，“是不是只有我没赚到钱”的不安情绪扩大，借钱买股的所谓“借钱投资”也呈增加趋势。融资买入是投资者从证券公司借入资金购买股票的方式，在股价上涨阶段可能放大收益机会，但若股价下跌，负担也会随之加重。随着三星电子和SK海力士的急涨刺激投资心理，市场正关注过度借贷投资在波动性扩大时可能提高亏损风险。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics y SK Hynix suben con fuerza y el FOMO impulsa compras con margen",
-        "excerpt": "Las acciones de Samsung Electronics y SK Hynix siguen subiendo con fuerza, y el temor a quedar fuera del rally está llevando a más inversores a comprar con crédito de margen.",
-        "body": "Las acciones de Samsung Electronics y SK Hynix han registrado fuertes alzas en las últimas sesiones, y el temor a quedar fuera de la subida, conocido como FOMO, está llevando a más inversores minoristas a comprar con dinero prestado. Según el texto original, la ansiedad de que otros estén ganando dinero mientras uno no participa ha impulsado el aumento de la inversión endeudada mediante crédito de margen. Este tipo de financiación permite a los inversores pedir dinero prestado a una corredora para comprar acciones. Puede ampliar las oportunidades de ganancia cuando los precios suben, pero también aumenta la carga si caen. Con el repunte de Samsung Electronics y SK Hynix influyendo en el ánimo del mercado, se observa el riesgo de que un endeudamiento excesivo eleve las pérdidas si aumenta la volatilidad. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Alta de Samsung Electronics e SK Hynix eleva compras com margem movidas por FOMO",
-        "excerpt": "Com as ações de Samsung Electronics e SK Hynix em forte alta, investidores que temem ficar fora do rali recorrem mais a crédito de margem para comprar ações.",
-        "body": "As ações de Samsung Electronics e SK Hynix vêm subindo fortemente nos últimos pregões, e o receio de ficar fora da alta, conhecido como FOMO, está levando mais investidores pessoa física a comprar com dinheiro emprestado. Segundo o texto original, a ansiedade de que outros estejam ganhando dinheiro enquanto o investidor ficou de fora tem impulsionado a chamada aplicação endividada por meio de crédito de margem. Esse financiamento permite tomar recursos emprestados de corretoras para comprar ações. Ele pode ampliar oportunidades de ganho em períodos de alta, mas também aumenta o peso das perdas se os preços caírem. Com a disparada de Samsung Electronics e SK Hynix estimulando o sentimento do mercado, cresce a atenção ao risco de endividamento excessivo em caso de maior volatilidade. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix steigen stark, FOMO treibt Käufe auf Kredit",
-        "excerpt": "Nach den kräftigen Kursgewinnen bei Samsung Electronics und SK Hynix greifen Anleger aus Angst, die Rally zu verpassen, zunehmend zu kreditfinanzierten Aktienkäufen.",
-        "body": "Die Aktien von Samsung Electronics und SK Hynix sind zuletzt deutlich gestiegen. Die Rally schürt bei Privatanlegern FOMO, also die Angst, eine Marktbewegung zu verpassen, und führt vermehrt zu Aktienkäufen über Wertpapierkredite. Dem Originalbericht zufolge wächst inmitten der starken Kursanstiege die Sorge, nur selbst kein Geld zu verdienen, wodurch auch das sogenannte Investieren mit Schulden zunimmt. Bei Margin-Finanzierungen leihen sich Anleger Geld von Wertpapierhäusern, um Aktien zu kaufen. In steigenden Märkten kann dies die Gewinnchance vergrößern, bei fallenden Kursen aber auch die Belastung erhöhen. Da die Kursrally von Samsung Electronics und SK Hynix die Anlegerstimmung prägt, richtet sich der Blick auf das Risiko, dass übermäßige Kreditaufnahme bei höherer Volatilität Verluste verschärfen kann. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix flambent, le FOMO relance les achats à crédit",
-        "excerpt": "La forte hausse de Samsung Electronics et SK Hynix nourrit la peur de manquer le rally, poussant davantage d’investisseurs à acheter des actions via crédit sur marge.",
-        "body": "Les actions de Samsung Electronics et de SK Hynix progressent fortement ces derniers jours, et cette hausse alimente chez les investisseurs particuliers le FOMO, la peur de manquer le mouvement. Selon le texte original, l’inquiétude de voir les autres gagner de l’argent alors que l’on reste à l’écart favorise l’augmentation des achats d’actions financés par emprunt, via le crédit sur marge. Ce mécanisme permet à un investisseur d’emprunter auprès d’une société de courtage pour acheter des titres. Il peut accroître les possibilités de gain lorsque les cours montent, mais il augmente aussi la charge en cas de baisse. Alors que la flambée de Samsung Electronics et SK Hynix stimule le sentiment de marché, le risque lié à un recours excessif à l’endettement retient l’attention si la volatilité s’accentue. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "صعود سامسونغ إلكترونيكس وSK هاينكس يعزز الشراء بالهامش بفعل فومو",
-        "excerpt": "مع استمرار صعود أسهم سامسونغ إلكترونيكس وSK هاينكس بقوة، يدفع الخوف من تفويت الموجة مزيدا من المستثمرين إلى شراء الأسهم عبر التمويل بالهامش.",
-        "body": "ارتفعت أسهم سامسونغ إلكترونيكس وSK هاينكس بقوة في الجلسات الأخيرة، ما عزز لدى المستثمرين الأفراد شعور فومو، أي الخوف من تفويت موجة الصعود، ودفع بعضهم إلى الشراء بأموال مقترضة عبر التمويل بالهامش. ووفقا للنص الأصلي، فإن القلق من أن الآخرين يحققون أرباحا بينما بقي البعض خارج السوق زاد ما يسمى بالاستثمار القائم على الديون. ويتيح التمويل بالهامش للمستثمر اقتراض أموال من شركة وساطة لشراء الأسهم. وقد يوسع فرص الربح عند ارتفاع الأسعار، لكنه يزيد العبء إذا تراجعت. ومع تأثير الصعود الحاد لسامسونغ إلكترونيكس وSK هاينكس في نفسية المستثمرين، يتركز الاهتمام على خطر أن تؤدي المديونية المفرطة إلى تضخيم الخسائر إذا زادت التقلبات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix की तेज बढ़त से FOMO, मार्जिन खरीद बढ़ी",
-        "excerpt": "Samsung Electronics और SK Hynix के शेयरों में लगातार तेज उछाल के बीच रैली से छूट जाने का डर बढ़ा है, जिससे निवेशक मार्जिन लोन लेकर शेयर खरीद रहे हैं।",
-        "body": "हाल के सत्रों में Samsung Electronics और SK Hynix के शेयरों में तेज बढ़त जारी है। इस तेजी से बाहर रह जाने का डर, यानी FOMO, खुदरा निवेशकों को मार्जिन लोन के जरिए शेयर खरीदने की ओर ले जा रहा है। मूल रिपोर्ट के अनुसार, दोनों शेयरों की मजबूत बढ़त के बीच यह चिंता बढ़ी है कि कहीं सिर्फ मैं ही पैसा नहीं कमा रहा हूं, और कर्ज लेकर निवेश करने की प्रवृत्ति भी बढ़ रही है। मार्जिन फाइनेंसिंग में निवेशक ब्रोकरेज से पैसा उधार लेकर शेयर खरीदता है। कीमतें चढ़ने पर यह लाभ के अवसर बढ़ा सकती है, लेकिन गिरावट आने पर बोझ भी बढ़ता है। Samsung Electronics और SK Hynix की तेज रैली निवेश भावना को प्रभावित कर रही है, वहीं बाजार इस जोखिम पर ध्यान दे रहा है कि अत्यधिक उधारी अस्थिरता बढ़ने पर नुकसान को बड़ा कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Samsung Electronics dan SK Hynix Melonjak, FOMO Dorong Beli Margin",
-        "excerpt": "Saat saham Samsung Electronics dan SK Hynix terus melonjak, rasa takut tertinggal reli membuat semakin banyak investor membeli saham dengan pembiayaan margin.",
-        "body": "Saham Samsung Electronics dan SK Hynix belakangan terus mencatat kenaikan tajam, dan reli ini memicu FOMO, atau rasa takut tertinggal, di kalangan investor ritel. Kondisi tersebut mendorong sebagian investor membeli saham dengan dana pinjaman melalui pembiayaan margin. Menurut teks asli, kekhawatiran bahwa orang lain mendapat keuntungan sementara mereka tidak ikut serta membuat investasi berbasis utang ikut meningkat. Pembiayaan margin memungkinkan investor meminjam dana dari perusahaan sekuritas untuk membeli saham. Cara ini dapat memperbesar peluang keuntungan saat harga naik, tetapi juga menambah beban jika harga turun. Di tengah lonjakan Samsung Electronics dan SK Hynix yang memengaruhi sentimen investor, pasar menyoroti risiko bahwa pinjaman berlebihan dapat memperbesar kerugian bila volatilitas meningkat. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "9685c85fa298",
-    "slug": "삼전닉스-언제까지-들고-있어야-하나요증권가가-내놓은-답은-454896",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T00:01:18.626Z",
-    "updatedAt": "2026-05-15T00:01:18.626Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048729",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048729",
-    "titleFingerprint": "dec2ee85068f981ad877c2f42aa589251f70024f",
-    "dedupKeys": [
-      "9685c85fa2989d797af44136b6286537c96e228f",
-      "dec2ee85068f981ad877c2f42aa589251f70024f",
-      "ae67878431b12c774d8708a9645b4696914f511c"
-    ],
-    "imageUrl": "/images/articles/9685c85fa298.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 보유 고민, 증권가가 제시한 AI 반도체 전망",
-        "excerpt": "올해 삼성전자와 SK하이닉스 주가가 각각 129%, 191% 급등한 가운데 증권가는 AI 투자를 생존 경쟁으로 보고 내년 호황을 전망하면서도 상승 모멘텀 둔화를 경고했다.",
-        "body": "올해 국내 반도체 대표주인 삼성전자와 SK하이닉스가 급등하면서 투자자들의 보유 기간 고민이 커지고 있다. 코스피 시가총액 1, 2위인 두 종목은 각각 올해 129%, 191% 오른 것으로 전해졌다. 증권가에서는 삼성전자 목표가 50만원, SK하이닉스 목표가 310만원까지 제시됐다. 배경에는 AI 투자 확대가 있다. 증권가는 AI 투자를 기업의 ‘생존’ 문제로 보고 있으며, 내년에도 반도체 호황이 이어질 수 있다고 판단했다. 다만 단기 급등 이후 상승 모멘텀이 약해질 수 있다는 경고도 함께 나왔다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Electronics and SK Hynix Holding Debate: What Analysts Say on AI Chips",
-        "excerpt": "After Samsung Electronics and SK Hynix jumped 129% and 191% this year, analysts see AI investment as a survival race and expect strength next year, while warning momentum could weaken.",
-        "body": "Investors are questioning how long to hold South Korea’s leading chip stocks after sharp gains in Samsung Electronics and SK Hynix this year. The two companies, the largest and second-largest by market value on the Kospi, have reportedly risen 129% and 191%, respectively. Analysts have presented target prices as high as 500,000 won for Samsung Electronics and 3.1 million won for SK Hynix. The main backdrop is expanding AI investment. Market analysts view AI spending as a matter of corporate “survival” and believe the semiconductor boom could continue next year. However, they also warned that upward momentum may weaken after the rapid rally. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックス保有判断、証券街が示したAI半導体見通し",
-        "excerpt": "今年サムスン電子とSKハイニックスがそれぞれ129%、191%急騰する中、証券街はAI投資を生存競争と見て来年の好況を見込む一方、上昇モメンタム鈍化にも警鐘を鳴らした。",
-        "body": "今年、韓国を代表する半導体株であるサムスン電子とSKハイニックスが急騰し、投資家の間で保有をいつまで続けるべきかという悩みが強まっている。KOSPI時価総額1位、2位の両銘柄は、それぞれ今年129%、191%上昇したと伝えられた。証券街ではサムスン電子の目標株価を50万ウォン、SKハイニックスを310万ウォンまで提示する動きも出ている。背景にはAI投資の拡大がある。証券街はAI投資を企業の「生存」の問題と見ており、来年も半導体好況が続く可能性があると判断した。ただし、短期急騰後に上昇モメンタムが弱まる可能性があるとの警告も示された。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星电子与SK海力士还能持有多久？券商给出AI半导体判断",
-        "excerpt": "今年三星电子和SK海力士股价分别大涨129%和191%，券商认为AI投资已成生存竞争，并看好明年景气延续，同时提醒上涨动能可能减弱。",
-        "body": "今年韩国半导体代表股三星电子和SK海力士大幅上涨，投资者对持有多久的疑问正在增加。作为Kospi市值第一和第二的两家公司，据报道今年股价分别上涨129%和191%。券商方面已提出三星电子50万韩元、SK海力士310万韩元的目标价。其背景是AI投资扩大。券商认为，AI投资已成为企业“生存”问题，并判断明年半导体景气仍可能延续。不过，在短期快速上涨之后，上涨动能可能减弱的警告也同时出现。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Electronics y SK Hynix: qué dicen los analistas sobre mantenerlas por el auge de IA",
-        "excerpt": "Tras subir 129% y 191% este año, Samsung Electronics y SK Hynix siguen en foco: los analistas ven la inversión en IA como supervivencia y prevén bonanza en 2027, pero advierten menor impulso.",
-        "body": "Las fuertes subidas de Samsung Electronics y SK Hynix este año han aumentado la duda de los inversores sobre cuánto tiempo mantener estas acciones líderes de semiconductores en Corea del Sur. Las dos compañías, primera y segunda por capitalización bursátil en el Kospi, habrían avanzado 129% y 191%, respectivamente. En el mercado se han planteado precios objetivo de hasta 500.000 wones para Samsung Electronics y 3,1 millones de wones para SK Hynix. El trasfondo es la expansión de la inversión en IA. Los analistas consideran esa inversión una cuestión de “supervivencia” empresarial y creen que el auge de semiconductores podría continuar el próximo año. Aun así, también advierten que el impulso alcista podría debilitarse tras el rápido avance. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Electronics e SK Hynix: analistas avaliam até quando manter ações de chips com IA",
-        "excerpt": "Após altas de 129% e 191% no ano, Samsung Electronics e SK Hynix seguem no centro das atenções; analistas veem investimento em IA como sobrevivência e projetam força, mas alertam para perda de fôlego.",
-        "body": "As fortes altas de Samsung Electronics e SK Hynix neste ano aumentaram a dúvida dos investidores sobre por quanto tempo manter as principais ações de semicondutores da Coreia do Sul. As duas companhias, primeira e segunda em valor de mercado no Kospi, teriam subido 129% e 191%, respectivamente. Analistas chegaram a apresentar preços-alvo de 500.000 won para a Samsung Electronics e 3,1 milhões de won para a SK Hynix. O pano de fundo é a expansão dos investimentos em IA. O mercado vê esses investimentos como questão de “sobrevivência” corporativa e avalia que o ciclo favorável dos semicondutores pode continuar no próximo ano. Ainda assim, também há alerta de que o impulso de alta pode enfraquecer após o avanço rápido. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix halten? Analysten bewerten KI-Chip-Ausblick",
-        "excerpt": "Samsung Electronics und SK Hynix stiegen in diesem Jahr um 129% und 191%. Analysten sehen KI-Investitionen als Überlebensfrage und erwarten weiter gute Lage, warnen aber vor schwächerem Momentum.",
-        "body": "Nach den kräftigen Kursanstiegen von Samsung Electronics und SK Hynix in diesem Jahr fragen sich Anleger, wie lange sie die führenden südkoreanischen Halbleiterwerte halten sollen. Die beiden Unternehmen, Nummer eins und zwei nach Marktkapitalisierung im Kospi, sind Berichten zufolge um 129% beziehungsweise 191% gestiegen. Analysten nannten Kursziele von bis zu 500.000 Won für Samsung Electronics und 3,1 Millionen Won für SK Hynix. Hintergrund ist die Ausweitung der KI-Investitionen. Die Branche betrachtet KI-Ausgaben als Frage des unternehmerischen „Überlebens“ und hält eine anhaltende Halbleiter-Hochkonjunktur im kommenden Jahr für möglich. Zugleich wird gewarnt, dass das Aufwärtsmomentum nach dem schnellen Anstieg schwächer werden könnte. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix: les analystes évaluent la durée du rallye lié à l’IA",
-        "excerpt": "Après des hausses de 129% et 191% cette année, Samsung Electronics et SK Hynix restent scrutées; les analystes voient l’investissement IA comme vital, tout en signalant un possible essoufflement.",
-        "body": "La forte progression de Samsung Electronics et SK Hynix cette année accentue les interrogations des investisseurs sur la durée de détention des principales valeurs coréennes des semi-conducteurs. Les deux groupes, premier et deuxième du Kospi par capitalisation boursière, auraient gagné respectivement 129% et 191%. Des analystes ont avancé des objectifs allant jusqu’à 500.000 wons pour Samsung Electronics et 3,1 millions de wons pour SK Hynix. Le contexte principal est l’expansion des investissements dans l’IA. Les analystes considèrent ces dépenses comme une question de «survie» pour les entreprises et estiment que la conjoncture favorable des semi-conducteurs pourrait se poursuivre l’an prochain. Ils avertissent toutefois que le momentum haussier pourrait faiblir après la hausse rapide. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سامسونغ إلكترونيكس وSK هاينكس: ماذا يقول المحللون عن أسهم الرقائق والذكاء الاصطناعي؟",
-        "excerpt": "بعد صعود سامسونغ إلكترونيكس وSK هاينكس 129% و191% هذا العام، يرى المحللون أن الاستثمار في الذكاء الاصطناعي مسألة بقاء، مع توقع استمرار الرواج والتحذير من ضعف الزخم.",
-        "body": "أثارت القفزات القوية في أسهم سامسونغ إلكترونيكس وSK هاينكس هذا العام تساؤلات المستثمرين حول مدة الاحتفاظ بأبرز سهمين في قطاع أشباه الموصلات الكوري. الشركتان، وهما الأولى والثانية من حيث القيمة السوقية في مؤشر كوسبي، ارتفعتا بحسب التقرير 129% و191% على التوالي. وطرح محللون أهدافا سعرية تصل إلى 500 ألف وون لسامسونغ إلكترونيكس و3.1 مليون وون لـSK هاينكس. الخلفية الرئيسية هي توسع الاستثمار في الذكاء الاصطناعي. ويرى المحللون أن هذا الاستثمار أصبح مسألة «بقاء» للشركات، وأن ازدهار أشباه الموصلات قد يستمر في العام المقبل. لكنهم حذروا أيضا من احتمال ضعف زخم الصعود بعد الارتفاع السريع. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix पर पकड़ कब तक? AI चिप्स पर विश्लेषकों की राय",
-        "excerpt": "इस साल Samsung Electronics और SK Hynix में 129% और 191% की तेजी के बाद विश्लेषक AI निवेश को अस्तित्व की दौड़ मान रहे हैं और अगले साल मजबूती देखते हैं, लेकिन गति घटने की चेतावनी भी दे रहे हैं।",
-        "body": "इस साल Samsung Electronics और SK Hynix में तेज उछाल के बाद निवेशकों के बीच यह सवाल बढ़ा है कि दक्षिण कोरिया की प्रमुख सेमीकंडक्टर कंपनियों के शेयर कितने समय तक रखे जाएं। Kospi में बाजार पूंजीकरण के लिहाज से पहले और दूसरे स्थान पर मौजूद इन दोनों कंपनियों के शेयर क्रमशः 129% और 191% चढ़े बताए गए हैं। विश्लेषकों ने Samsung Electronics के लिए 500,000 वॉन और SK Hynix के लिए 3.1 मिलियन वॉन तक के लक्ष्य मूल्य पेश किए हैं। इसके पीछे AI निवेश का विस्तार है। बाजार इसे कंपनियों के लिए “अस्तित्व” का मुद्दा मान रहा है और अगले साल भी सेमीकंडक्टर में तेजी जारी रहने की संभावना देखता है। हालांकि, तेज चढ़ाई के बाद ऊपर जाने की गति कमजोर पड़ सकती है, ऐसी चेतावनी भी दी गई है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Samsung Electronics dan SK Hynix: Analis Menilai Prospek Saham Chip Berbasis AI",
-        "excerpt": "Setelah Samsung Electronics dan SK Hynix melonjak 129% dan 191% tahun ini, analis melihat investasi AI sebagai soal bertahan hidup dan memperkirakan kekuatan berlanjut, meski momentum bisa melemah.",
-        "body": "Lonjakan tajam Samsung Electronics dan SK Hynix tahun ini membuat investor mempertanyakan berapa lama harus mempertahankan saham semikonduktor utama Korea Selatan tersebut. Dua perusahaan dengan kapitalisasi pasar terbesar pertama dan kedua di Kospi itu dilaporkan naik masing-masing 129% dan 191% sepanjang tahun ini. Kalangan analis telah mengajukan target harga hingga 500.000 won untuk Samsung Electronics dan 3,1 juta won untuk SK Hynix. Latar utamanya adalah perluasan investasi AI. Analis memandang investasi AI sebagai persoalan “bertahan hidup” bagi perusahaan dan menilai boom semikonduktor dapat berlanjut tahun depan. Namun, mereka juga memperingatkan bahwa momentum kenaikan bisa melemah setelah reli cepat. Sumber: mk.co.kr"
       }
     }
   }
