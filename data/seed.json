@@ -1,5 +1,230 @@
 [
   {
+    "id": "43f81ea87a07",
+    "slug": "원화값-한-달여-만에-장중-1500원선-넘어코스피-7넘게-급락-696912",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T07:27:51.352Z",
+    "updatedAt": "2026-05-15T07:27:51.352Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049140",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049140",
+    "titleFingerprint": "19c2000e08fb8e01168caa88cb82c9af193b5982",
+    "dedupKeys": [
+      "43f81ea87a079bcb7124f98c92db5cd411d025c1",
+      "19c2000e08fb8e01168caa88cb82c9af193b5982",
+      "b82c3892593e3d92b5147a4aca8d82e20d9d993c"
+    ],
+    "imageUrl": "/images/articles/43f81ea87a07.jpg",
+    "i18n": {
+      "ko": {
+        "title": "원화값 장중 1500원선 돌파, 코스피 7%대 급락에 시장 긴장",
+        "excerpt": "15일 오후 서울 외환시장에서 달러당 원화값이 한 달여 만에 장중 1500원선을 넘고, 코스피가 7% 넘게 급락하며 금융시장 변동성이 커졌다.",
+        "body": "15일 오후 2시 13분 기준 서울 외환시장에서 달러당 원화값이 전 거래일 주간 거래 종가보다 오르며 한 달여 만에 장중 1500원선을 넘어섰다. 같은 시각 국내 증시에서는 코스피가 7%대 급락세를 보이고 있다. 환율이 1500원선을 다시 웃돌고 코스피 낙폭이 확대되면서 외환시장과 주식시장 전반의 변동성이 커진 모습이다. 이번 움직임은 원화 약세와 국내 증시 급락이 동시에 나타난 사례로, 투자자들은 장중 환율 흐름과 지수 낙폭을 주시하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Won Passes 1,500 Intraday as KOSPI Tumbles More Than 7%",
+        "excerpt": "On May 15 in Seoul, the won moved past 1,500 per dollar intraday for the first time in about a month, while the KOSPI plunged over 7%.",
+        "body": "As of 2:13 p.m. on May 15, the won traded above the 1,500-per-dollar level during intraday trading in Seoul’s foreign exchange market for the first time in about a month, rising from the previous daytime trading close. At the same time, South Korea’s KOSPI was falling by more than 7%. The return of the exchange rate above 1,500 and the sharp decline in the benchmark stock index highlighted increased volatility across both the currency and equity markets. Investors are watching the intraday exchange-rate move and the size of the index drop. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ウォン相場が一時1500ウォン台、KOSPIは7％超急落",
+        "excerpt": "15日午後、ソウル外国為替市場でウォン相場が約1カ月ぶりに一時1ドル＝1500ウォン台を超え、KOSPIは7％超下落した。",
+        "body": "15日午後2時13分時点で、ソウル外国為替市場ではウォン相場が前営業日の昼間取引終値から上昇し、約1カ月ぶりに取引時間中に1ドル＝1500ウォン台を超えた。同じ時刻、韓国株式市場ではKOSPIが7％台の急落を見せている。為替レートが再び1500ウォン台を上回り、KOSPIの下げ幅も拡大したことで、外国為替市場と株式市場の変動性が高まった形だ。投資家は取引時間中の為替の動きと指数の下落幅を注視している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩元盘中跌破1500关口，KOSPI重挫逾7%引发关注",
+        "excerpt": "5月15日下午，首尔外汇市场韩元对美元汇率约一个月来盘中首次越过1500关口，KOSPI指数同时下跌超过7%。",
+        "body": "截至5月15日下午2时13分，首尔外汇市场韩元对美元汇率较前一交易日白天交易收盘水平上行，约一个月来盘中首次越过1500关口。与此同时，韩国股市KOSPI指数正出现7%以上的急跌。汇率重新站上1500一线，加上基准股指跌幅扩大，显示外汇市场和股票市场波动性同步上升。此次走势体现出韩元走弱与韩国股市急跌同时出现，投资者正关注盘中汇率变化和指数跌幅。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El won supera los 1.500 por dólar intradía y el KOSPI cae más de 7%",
+        "excerpt": "El 15 de mayo por la tarde, el won superó los 1.500 por dólar intradía en Seúl por primera vez en cerca de un mes, mientras el KOSPI caía más de 7%.",
+        "body": "A las 14:13 del 15 de mayo, en el mercado cambiario de Seúl, el won superó durante la sesión el nivel de 1.500 por dólar por primera vez en cerca de un mes, tras subir frente al cierre de la negociación diurna anterior. Al mismo tiempo, el KOSPI registraba una fuerte caída superior al 7%. El regreso del tipo de cambio por encima de 1.500 y la ampliación de las pérdidas del índice bursátil reflejan una mayor volatilidad tanto en el mercado de divisas como en el de acciones. Los inversores observan el movimiento intradía del cambio y la magnitud del descenso del índice. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Won passa de 1.500 por dólar no intradia e KOSPI cai mais de 7%",
+        "excerpt": "Na tarde de 15 de maio, em Seul, o won superou 1.500 por dólar no intradia pela primeira vez em cerca de um mês, enquanto o KOSPI recuava mais de 7%.",
+        "body": "Às 14h13 de 15 de maio, no mercado de câmbio de Seul, o won ultrapassou durante o pregão o nível de 1.500 por dólar pela primeira vez em cerca de um mês, avançando em relação ao fechamento da negociação diurna anterior. No mesmo horário, o KOSPI registrava queda superior a 7%. A volta da taxa de câmbio acima de 1.500 e a ampliação das perdas do principal índice acionário indicam maior volatilidade nos mercados de câmbio e de ações. Investidores acompanham o movimento intradiário do câmbio e o tamanho da queda do índice. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Won überschreitet intraday 1.500 je Dollar, KOSPI stürzt über 7% ab",
+        "excerpt": "Am Nachmittag des 15. Mai stieg der Won in Seoul erstmals seit rund einem Monat intraday über 1.500 je Dollar, während der KOSPI um mehr als 7% fiel.",
+        "body": "Um 14:13 Uhr am 15. Mai überschritt der Won am Devisenmarkt in Seoul im Tagesverlauf erstmals seit rund einem Monat wieder die Marke von 1.500 je Dollar und lag über dem Schlussstand des vorherigen Tageshandels. Gleichzeitig fiel der südkoreanische Leitindex KOSPI um mehr als 7%. Dass der Wechselkurs erneut über 1.500 stieg und der Aktienindex deutlich nachgab, zeigt eine erhöhte Volatilität an den Devisen- und Aktienmärkten. Anleger beobachten den intraday verlaufenden Wechselkurs und das Ausmaß des Indexrückgangs. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le won franchit 1 500 pour un dollar en séance, le KOSPI chute de plus de 7%",
+        "excerpt": "Le 15 mai après-midi à Séoul, le won a dépassé 1 500 pour un dollar en séance pour la première fois depuis environ un mois, tandis que le KOSPI reculait de plus de 7%.",
+        "body": "À 14h13 le 15 mai, sur le marché des changes de Séoul, le won a dépassé en séance le seuil de 1 500 pour un dollar pour la première fois depuis environ un mois, au-dessus de la clôture de la séance diurne précédente. Au même moment, l’indice KOSPI chutait de plus de 7%. Le retour du taux de change au-dessus de 1 500 et l’élargissement de la baisse de l’indice boursier traduisent une volatilité accrue sur les marchés des changes et des actions. Les investisseurs suivent l’évolution intrajournalière du change et l’ampleur du recul de l’indice. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "الوون يتجاوز 1500 للدولار خلال الجلسة وكوسبي يهبط بأكثر من 7%",
+        "excerpt": "في ظهر 15 مايو بسوق الصرف في سيول، تجاوز الوون مستوى 1500 للدولار خلال الجلسة لأول مرة منذ نحو شهر، بينما هبط مؤشر كوسبي بأكثر من 7%.",
+        "body": "حتى الساعة 2:13 بعد الظهر في 15 مايو، تجاوز سعر الوون في سوق الصرف في سيول مستوى 1500 مقابل الدولار خلال التعاملات للمرة الأولى منذ نحو شهر، مرتفعا عن إغلاق التداول النهاري في الجلسة السابقة. وفي الوقت نفسه، كان مؤشر كوسبي الكوري الجنوبي يتراجع بأكثر من 7%. عودة سعر الصرف إلى ما فوق 1500 واتساع هبوط المؤشر أظهرا زيادة التقلبات في سوقي العملات والأسهم. ويتابع المستثمرون حركة سعر الصرف خلال الجلسة وحجم تراجع المؤشر. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "वॉन इंट्राडे 1,500 प्रति डॉलर के पार, KOSPI 7% से अधिक टूटा",
+        "excerpt": "15 मई की दोपहर सियोल विदेशी मुद्रा बाजार में वॉन करीब एक महीने बाद इंट्राडे 1,500 प्रति डॉलर से ऊपर गया, जबकि KOSPI 7% से अधिक गिरा।",
+        "body": "15 मई को दोपहर 2:13 बजे तक सियोल विदेशी मुद्रा बाजार में वॉन पिछले कारोबारी दिन के दिन के सत्र के बंद स्तर से ऊपर जाते हुए करीब एक महीने बाद इंट्राडे 1,500 प्रति डॉलर के स्तर को पार कर गया। इसी समय दक्षिण कोरिया का KOSPI सूचकांक 7% से अधिक की तेज गिरावट दिखा रहा था। विनिमय दर के फिर 1,500 से ऊपर जाने और शेयर सूचकांक की गिरावट बढ़ने से मुद्रा और इक्विटी दोनों बाजारों में अस्थिरता बढ़ती दिखी। निवेशक इंट्राडे विनिमय दर और सूचकांक की गिरावट पर नजर रख रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Won Tembus 1.500 per Dolar Intraday, KOSPI Anjlok Lebih dari 7%",
+        "excerpt": "Pada sore 15 Mei di pasar valas Seoul, won menembus 1.500 per dolar secara intraday untuk pertama kali dalam sekitar sebulan, sementara KOSPI turun lebih dari 7%.",
+        "body": "Pada pukul 14.13 tanggal 15 Mei, di pasar valuta asing Seoul, won bergerak melewati level 1.500 per dolar selama perdagangan intraday untuk pertama kali dalam sekitar satu bulan, lebih tinggi dari penutupan perdagangan siang hari sebelumnya. Pada saat yang sama, indeks KOSPI Korea Selatan turun lebih dari 7%. Kembalinya kurs ke atas 1.500 dan membesarnya penurunan indeks saham menunjukkan meningkatnya volatilitas di pasar valuta asing dan saham. Investor mencermati pergerakan kurs intraday serta besarnya penurunan indeks. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "354c7b590c49",
+    "slug": "db증권-1분기-당기순이익-304억원-전년比-476-658157",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T07:26:59.001Z",
+    "updatedAt": "2026-05-15T07:26:59.001Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049142",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049142",
+    "titleFingerprint": "153e83586e282408a3fba090aeb2ec529583f992",
+    "dedupKeys": [
+      "354c7b590c4978eeb0b0d480598741b958f05b85",
+      "153e83586e282408a3fba090aeb2ec529583f992",
+      "98cc5b526cf068b3b9630ffbe3984c7aeace2ed7"
+    ],
+    "imageUrl": "/images/articles/354c7b590c49.png",
+    "i18n": {
+      "ko": {
+        "title": "DB증권 1분기 순이익 304억원, 전년 대비 47.6% 증가",
+        "excerpt": "DB증권은 15일 공시에서 1분기 매출 1조751억원, 영업이익 302억원, 당기순이익 304억원을 기록했다고 밝혔다. 고객자산도 전년 대비 37.4% 늘었다.",
+        "body": "DB증권은 15일 공시를 통해 올해 1분기 매출 1조751억원, 영업이익 302억원, 당기순이익 304억원을 기록했다고 밝혔다. 당기순이익은 전년 동기 대비 47.6% 증가했다. 매출은 전년 동기 대비 145.9% 늘었고, 고객자산도 전년 대비 37.4% 증가한 것으로 집계됐다. 실적 개선과 고객자산 확대가 함께 나타나면서 1분기 수익성과 영업 기반 흐름을 보여주는 지표로 해석된다. 다만 공시에서 확인된 수치 외 추가 전망이나 세부 요인은 제시되지 않았다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "DB Financial Investment Q1 Net Profit Rises 47.6% to 30.4 Billion Won",
+        "excerpt": "DB Financial Investment said in a May 15 filing that Q1 revenue reached 1.0751 trillion won, operating profit 30.2 billion won, and net profit 30.4 billion won.",
+        "body": "DB Financial Investment said in a filing on May 15 that it recorded first-quarter revenue of 1.0751 trillion won, operating profit of 30.2 billion won, and net profit of 30.4 billion won. Net profit increased 47.6% from the same period a year earlier. Revenue rose 145.9% year over year, while customer assets grew 37.4% from a year earlier. The figures show both improved quarterly earnings and an expanded customer asset base. However, no additional outlook or detailed factors beyond the disclosed figures were provided. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "DB証券、1四半期純利益304億ウォン 前年比47.6%増",
+        "excerpt": "DB証券は15日の公示で、1四半期の売上高が1兆751億ウォン、営業利益が302億ウォン、純利益が304億ウォンだったと明らかにした。顧客資産も37.4%増えた。",
+        "body": "DB証券は15日の公示を通じ、今年1四半期の売上高が1兆751億ウォン、営業利益が302億ウォン、当期純利益が304億ウォンだったと発表した。当期純利益は前年同期比47.6%増加した。売上高は前年同期比145.9%増え、顧客資産も前年より37.4%拡大したと集計された。業績改善と顧客資産の増加が同時に表れ、1四半期の収益性と営業基盤の流れを示す数値となった。ただし、公示で確認された数値以外の追加見通しや詳細要因は示されていない。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "DB证券一季度净利润304亿韩元，同比增长47.6%",
+        "excerpt": "DB证券15日公告称，一季度营收为1.0751万亿韩元，营业利润302亿韩元，净利润304亿韩元；客户资产同比增长37.4%。",
+        "body": "DB证券15日通过公告表示，今年第一季度实现营收1.0751万亿韩元、营业利润302亿韩元、当期净利润304亿韩元。当期净利润较去年同期增长47.6%。营收同比增长145.9%，客户资产也较上年增加37.4%。这些数据反映出一季度盈利能力改善以及客户资产基础扩大。不过，除公告中确认的数字外，未提供额外展望或更详细的原因说明。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "DB Financial Investment gana 30.400 millones de wones en el 1T, un 47,6% más",
+        "excerpt": "DB Financial Investment informó el 15 de mayo que en el primer trimestre registró ingresos de 1,0751 billones de wones, beneficio operativo de 30.200 millones y beneficio neto de 30.400 millones.",
+        "body": "DB Financial Investment informó en una comunicación del 15 de mayo que registró en el primer trimestre ingresos de 1,0751 billones de wones, beneficio operativo de 30.200 millones de wones y beneficio neto de 30.400 millones de wones. El beneficio neto aumentó un 47,6% frente al mismo periodo del año anterior. Los ingresos crecieron un 145,9% interanual y los activos de clientes subieron un 37,4% respecto al año previo. Las cifras muestran una mejora de resultados y una ampliación de la base de activos de clientes en el trimestre. No se ofrecieron previsiones adicionales ni causas detalladas fuera de los datos divulgados. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "DB Financial Investment tem lucro líquido de 30,4 bi de wones no 1º tri, alta de 47,6%",
+        "excerpt": "A DB Financial Investment informou em 15 de maio que teve receita de 1,0751 trilhão de wones, lucro operacional de 30,2 bilhões e lucro líquido de 30,4 bilhões no 1º trimestre.",
+        "body": "A DB Financial Investment informou em comunicado em 15 de maio que registrou no primeiro trimestre receita de 1,0751 trilhão de wones, lucro operacional de 30,2 bilhões de wones e lucro líquido de 30,4 bilhões de wones. O lucro líquido aumentou 47,6% em relação ao mesmo período do ano anterior. A receita cresceu 145,9% na comparação anual, enquanto os ativos de clientes avançaram 37,4% ante o ano anterior. Os números indicam melhora nos resultados trimestrais e expansão da base de ativos de clientes. Não foram apresentadas projeções adicionais nem fatores detalhados além dos dados divulgados. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "DB Financial Investment steigert Q1-Nettogewinn um 47,6% auf 30,4 Mrd. Won",
+        "excerpt": "DB Financial Investment meldete am 15. Mai für das erste Quartal 1,0751 Bio. Won Umsatz, 30,2 Mrd. Won operativen Gewinn und 30,4 Mrd. Won Nettogewinn.",
+        "body": "DB Financial Investment teilte in einer Mitteilung vom 15. Mai mit, im ersten Quartal einen Umsatz von 1,0751 Billionen Won, einen operativen Gewinn von 30,2 Milliarden Won und einen Nettogewinn von 30,4 Milliarden Won erzielt zu haben. Der Nettogewinn stieg gegenüber dem Vorjahreszeitraum um 47,6%. Der Umsatz legte im Jahresvergleich um 145,9% zu, während die Kundenvermögen gegenüber dem Vorjahr um 37,4% wuchsen. Die Zahlen zeigen eine Ergebnisverbesserung und eine Ausweitung der Kundenvermögensbasis im Quartal. Weitere Prognosen oder detaillierte Ursachen über die veröffentlichten Daten hinaus wurden nicht genannt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "DB Financial Investment: bénéfice net du T1 en hausse de 47,6% à 30,4 Mds de wons",
+        "excerpt": "DB Financial Investment a déclaré le 15 mai un chiffre d’affaires trimestriel de 1 075,1 Mds de wons, un résultat opérationnel de 30,2 Mds et un bénéfice net de 30,4 Mds.",
+        "body": "DB Financial Investment a indiqué dans un avis publié le 15 mai avoir enregistré au premier trimestre un chiffre d’affaires de 1 075,1 milliards de wons, un résultat opérationnel de 30,2 milliards de wons et un bénéfice net de 30,4 milliards de wons. Le bénéfice net a progressé de 47,6% par rapport à la même période de l’an dernier. Le chiffre d’affaires a augmenté de 145,9% sur un an, tandis que les actifs des clients ont crû de 37,4% par rapport à l’année précédente. Ces chiffres montrent une amélioration des résultats et une base d’actifs clients élargie. Aucun autre élément de perspective ni facteur détaillé n’a été fourni au-delà des données publiées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "DB Financial Investment تحقق صافي ربح 30.4 مليار وون في الربع الأول بارتفاع 47.6%",
+        "excerpt": "أعلنت DB Financial Investment في إفصاح يوم 15 مايو أن إيرادات الربع الأول بلغت 1.0751 تريليون وون، والربح التشغيلي 30.2 مليار وون، وصافي الربح 30.4 مليار وون.",
+        "body": "أعلنت DB Financial Investment في إفصاح يوم 15 مايو أنها سجلت في الربع الأول إيرادات قدرها 1.0751 تريليون وون، وربحا تشغيليا قدره 30.2 مليار وون، وصافي ربح قدره 30.4 مليار وون. وارتفع صافي الربح بنسبة 47.6% مقارنة بالفترة نفسها من العام السابق. كما زادت الإيرادات بنسبة 145.9% على أساس سنوي، ونمت أصول العملاء بنسبة 37.4% مقارنة بالعام السابق. وتظهر هذه الأرقام تحسنا في الربحية الفصلية واتساع قاعدة أصول العملاء. ولم يقدم الإفصاح توقعات إضافية أو عوامل تفصيلية أخرى خارج الأرقام المعلنة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "DB Financial Investment का Q1 शुद्ध लाभ 47.6% बढ़कर 30.4 अरब वॉन",
+        "excerpt": "DB Financial Investment ने 15 मई की फाइलिंग में बताया कि पहली तिमाही में राजस्व 1.0751 ट्रिलियन वॉन, परिचालन लाभ 30.2 अरब वॉन और शुद्ध लाभ 30.4 अरब वॉन रहा।",
+        "body": "DB Financial Investment ने 15 मई को जारी फाइलिंग में कहा कि इस वर्ष पहली तिमाही में उसका राजस्व 1.0751 ट्रिलियन वॉन, परिचालन लाभ 30.2 अरब वॉन और शुद्ध लाभ 30.4 अरब वॉन रहा। शुद्ध लाभ पिछले वर्ष की समान अवधि की तुलना में 47.6% बढ़ा। राजस्व सालाना आधार पर 145.9% बढ़ा, जबकि ग्राहक परिसंपत्तियां पिछले वर्ष की तुलना में 37.4% बढ़ीं। ये आंकड़े तिमाही आय में सुधार और ग्राहक परिसंपत्ति आधार के विस्तार को दिखाते हैं। हालांकि, फाइलिंग में बताए गए आंकड़ों के अलावा कोई अतिरिक्त पूर्वानुमान या विस्तृत कारण नहीं दिए गए। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "DB Financial Investment Catat Laba Bersih Kuartal I 30,4 Miliar Won, Naik 47,6%",
+        "excerpt": "DB Financial Investment menyatakan dalam keterbukaan 15 Mei bahwa pendapatan kuartal I mencapai 1,0751 triliun won, laba operasi 30,2 miliar won, dan laba bersih 30,4 miliar won.",
+        "body": "DB Financial Investment menyatakan dalam keterbukaan pada 15 Mei bahwa pada kuartal pertama tahun ini perusahaan mencatat pendapatan 1,0751 triliun won, laba operasi 30,2 miliar won, dan laba bersih 30,4 miliar won. Laba bersih meningkat 47,6% dibandingkan periode yang sama tahun sebelumnya. Pendapatan naik 145,9% secara tahunan, sementara aset nasabah tumbuh 37,4% dibandingkan tahun sebelumnya. Angka-angka ini menunjukkan perbaikan profitabilitas kuartalan sekaligus perluasan basis aset nasabah. Namun, tidak ada prospek tambahan atau faktor rinci lain yang disampaikan di luar angka yang diumumkan. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7bb311ce50c8",
+    "slug": "속보-코스피-8천피-찍고-급변침61-급락한-7493-마감-153067",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T07:26:03.534Z",
+    "updatedAt": "2026-05-15T07:26:03.534Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049176",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049176",
+    "titleFingerprint": "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
+    "dedupKeys": [
+      "7bb311ce50c89d89284421e7cb2576bf4e89d4eb",
+      "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
+      "6acb4174445516b735a1856c22c1a6f2d8a40c5c"
+    ],
+    "imageUrl": "/images/articles/7bb311ce50c8.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 돌파 뒤 6.1% 급락, 7493 마감한 급변 장세",
+        "excerpt": "코스피가 15일 장 초반 8000선을 넘기며 ‘꿈의 8000피’를 돌파했지만 이후 하락 전환해 전일보다 488.23포인트, 6.12% 내린 7493에 마감했다.",
+        "body": "코스피가 15일 장 초반 8000선을 넘어서며 ‘꿈의 8000피’를 찍었지만, 이후 급격히 방향을 바꿔 7400선에서 거래를 마쳤다. 이날 코스피는 전일 대비 488.23포인트, 6.12% 하락한 7493에 마감했다. 장중 8000선 돌파라는 상징적 기록이 나온 직후 급락세로 전환되면서 시장 변동성이 크게 부각됐다. 지수는 8000선을 넘긴 뒤 상승분을 반납했고, 최종적으로 7500선 아래에서 마감하며 투자자들의 경계감을 키웠다. 이번 급변 장세는 단기 지수 흐름과 투자 심리에 영향을 줄 수 있는 흐름으로 평가된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Slides 6.1% After Briefly Topping 8,000, Closes at 7,493",
+        "excerpt": "The KOSPI crossed the 8,000 mark early on May 15, reaching the so-called dream level, but later reversed sharply and closed down 488.23 points, or 6.12%, at 7,493.",
+        "body": "The KOSPI briefly moved above the 8,000 line in early trading on May 15, touching what was described as the “dream 8,000” level, but then changed direction sharply and ended in the 7,400 range. The index closed at 7,493, down 488.23 points, or 6.12%, from the previous session. The sharp fall after the symbolic intraday break above 8,000 highlighted significant market volatility. After giving back its earlier gains, the index finished below 7,500, adding to investor caution. The session’s abrupt reversal may weigh on short-term index sentiment and market psychology. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、8000突破後に6.1％急落 7493で取引終了",
+        "excerpt": "KOSPIは15日序盤に8000台を上回り「夢の8000」を突破したが、その後急反落し、前日比488.23ポイント、6.12％安の7493で終えた。",
+        "body": "KOSPIは15日の取引序盤に8000台を上回り、「夢の8000」に到達したものの、その後急速に方向を変え、7400台で取引を終えた。この日のKOSPIは前日比488.23ポイント、6.12％下落した7493で引けた。取引中に8000台を突破する象徴的な記録を付けた直後に急落へ転じ、市場の変動性が大きく意識された。指数は8000台突破後に上げ幅を失い、最終的に7500を下回って終了したことで、投資家の警戒感が強まった。今回の急変相場は短期的な指数の流れと投資心理に影響を与える動きとみられる。出典：mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI冲上8000点后急跌6.1%，收于7493点",
+        "excerpt": "KOSPI在15日早盘突破8000点，触及所谓“梦想8000点”，但随后急转下跌，最终较前一交易日下跌488.23点，跌幅6.12%，收于7493点。",
+        "body": "KOSPI在15日早盘一度升破8000点，触及被称为“梦想8000点”的水平，但随后快速转向下跌，并在7400点区间收盘。当天KOSPI较前一交易日下跌488.23点，跌幅6.12%，收于7493点。盘中突破8000点这一象征性关口后立即出现急跌，凸显市场波动性明显扩大。指数在突破8000点后回吐涨幅，最终收在7500点下方，使投资者警惕情绪升温。此次行情急变被视为可能影响短期指数走势和投资心理的波动。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cae 6,1% tras superar los 8.000 y cierra en 7.493 puntos",
+        "excerpt": "El KOSPI superó los 8.000 puntos al inicio de la sesión del 15 de mayo, pero luego giró bruscamente a la baja y cerró en 7.493, con una caída de 488,23 puntos, o 6,12%.",
+        "body": "El KOSPI superó brevemente la barrera de los 8.000 puntos al inicio de la sesión del 15 de mayo, alcanzando el llamado nivel soñado de 8.000, pero después cambió de dirección con fuerza y terminó en la zona de los 7.400. El índice cerró en 7.493 puntos, 488,23 puntos menos que la sesión anterior, una caída del 6,12%. El brusco descenso tras romper un umbral simbólico puso de relieve la elevada volatilidad del mercado. Tras devolver las ganancias iniciales, el índice terminó por debajo de los 7.500 puntos, aumentando la cautela entre los inversores. Este giro abrupto puede influir en la tendencia de corto plazo y en el ánimo del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI cai 6,1% após superar 8.000 pontos e fecha em 7.493",
+        "excerpt": "O KOSPI passou dos 8.000 pontos no início do pregão de 15 de maio, mas depois virou forte para baixo e fechou em 7.493, queda de 488,23 pontos, ou 6,12%.",
+        "body": "O KOSPI ultrapassou brevemente a marca de 8.000 pontos no início do pregão de 15 de maio, atingindo o chamado nível dos sonhos, mas depois mudou rapidamente de direção e encerrou na faixa dos 7.400. O índice fechou em 7.493 pontos, queda de 488,23 pontos, ou 6,12%, ante a sessão anterior. A forte baixa logo após a superação simbólica dos 8.000 pontos destacou a elevada volatilidade do mercado. Depois de devolver os ganhos iniciais, o índice terminou abaixo de 7.500 pontos, ampliando a cautela dos investidores. A mudança brusca da sessão pode afetar o movimento de curto prazo do índice e o sentimento do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI fällt nach Sprung über 8.000 um 6,1% und schließt bei 7.493",
+        "excerpt": "Der KOSPI stieg am 15. Mai im frühen Handel über 8.000 Punkte, drehte danach jedoch stark ins Minus und schloss 488,23 Punkte beziehungsweise 6,12% tiefer bei 7.493.",
+        "body": "Der KOSPI überschritt am 15. Mai im frühen Handel kurz die Marke von 8.000 Punkten und erreichte damit das sogenannte Traumziel von 8.000. Danach änderte der Index jedoch abrupt die Richtung und beendete den Handel im Bereich von 7.400 Punkten. Der KOSPI schloss bei 7.493 Punkten, 488,23 Punkte oder 6,12% niedriger als am Vortag. Der starke Rückgang unmittelbar nach dem symbolischen Sprung über 8.000 machte die hohe Marktvolatilität deutlich. Nachdem die frühen Gewinne abgegeben wurden, endete der Index unter 7.500 Punkten und verstärkte die Vorsicht der Anleger. Die abrupte Wende könnte den kurzfristigen Indexverlauf und die Marktstimmung beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de 6,1% après avoir franchi 8 000, clôture à 7 493",
+        "excerpt": "Le KOSPI a dépassé les 8 000 points en début de séance le 15 mai, avant de se retourner brutalement et de clôturer à 7 493, en baisse de 488,23 points, soit 6,12%.",
+        "body": "Le KOSPI a brièvement franchi la barre des 8 000 points au début de la séance du 15 mai, atteignant le niveau qualifié de « 8 000 rêvé », avant de changer brusquement de direction et de terminer dans la zone des 7 400. L’indice a clôturé à 7 493 points, en baisse de 488,23 points, soit 6,12%, par rapport à la veille. La forte rechute après ce passage symbolique au-dessus de 8 000 a mis en évidence une volatilité marquée du marché. Après avoir effacé ses gains initiaux, l’indice a fini sous les 7 500 points, renforçant la prudence des investisseurs. Ce retournement soudain pourrait peser sur la tendance de court terme et le sentiment de marché. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يهبط 6.1% بعد تجاوز 8000 نقطة ويغلق عند 7493",
+        "excerpt": "تجاوز مؤشر كوسبي مستوى 8000 نقطة في بداية تداولات 15 مايو، لكنه تحول لاحقا إلى هبوط حاد وأغلق عند 7493 نقطة، متراجعا 488.23 نقطة أو 6.12%.",
+        "body": "تجاوز مؤشر كوسبي في بداية تداولات 15 مايو مستوى 8000 نقطة، ملامسا ما وُصف بمستوى «8000 الحلم»، لكنه غيّر اتجاهه بسرعة وأنهى الجلسة في نطاق 7400 نقطة. وأغلق المؤشر عند 7493 نقطة، منخفضا 488.23 نقطة عن الجلسة السابقة، أي بنسبة 6.12%. وجاء الهبوط الحاد بعد اختراق المستوى الرمزي 8000 ليبرز ارتفاع تقلبات السوق. وبعد أن تخلى المؤشر عن مكاسبه المبكرة، انتهى دون مستوى 7500 نقطة، ما زاد حذر المستثمرين. وقد يؤثر هذا التحول السريع في مسار المؤشر قصير الأجل ومعنويات السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI 8,000 पार करने के बाद 6.1% लुढ़का, 7,493 पर बंद",
+        "excerpt": "KOSPI ने 15 मई को शुरुआती कारोबार में 8,000 का स्तर पार कर ‘ड्रीम 8,000’ छुआ, लेकिन बाद में तेज गिरावट के साथ 488.23 अंक या 6.12% टूटकर 7,493 पर बंद हुआ।",
+        "body": "KOSPI ने 15 मई को शुरुआती कारोबार में 8,000 का स्तर पार कर तथाकथित ‘ड्रीम 8,000’ को छुआ, लेकिन इसके बाद सूचकांक ने तेजी से दिशा बदली और 7,400 के दायरे में बंद हुआ। उस दिन KOSPI पिछले सत्र से 488.23 अंक, यानी 6.12%, गिरकर 7,493 पर बंद हुआ। कारोबार के दौरान 8,000 का प्रतीकात्मक स्तर पार करने के तुरंत बाद आई तेज गिरावट ने बाजार की अस्थिरता को प्रमुखता से सामने रखा। सूचकांक ने शुरुआती बढ़त गंवा दी और अंत में 7,500 से नीचे बंद हुआ, जिससे निवेशकों की सतर्कता बढ़ी। यह अचानक बदलाव अल्पकालिक सूचकांक रुझान और बाजार धारणा को प्रभावित कर सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Anjlok 6,1% Usai Tembus 8.000, Ditutup di 7.493",
+        "excerpt": "KOSPI menembus level 8.000 pada awal perdagangan 15 Mei, mencapai level yang disebut impian 8.000, tetapi kemudian berbalik tajam dan ditutup turun 488,23 poin atau 6,12% di 7.493.",
+        "body": "KOSPI sempat bergerak di atas level 8.000 pada awal perdagangan 15 Mei, menyentuh level yang disebut sebagai “impian 8.000”, tetapi kemudian berbalik tajam dan mengakhiri perdagangan di kisaran 7.400. Indeks ditutup di 7.493, turun 488,23 poin atau 6,12% dibanding sesi sebelumnya. Penurunan tajam setelah penembusan simbolis 8.000 menyoroti besarnya volatilitas pasar. Setelah melepas kenaikan awal, indeks akhirnya ditutup di bawah 7.500, sehingga meningkatkan kewaspadaan investor. Perubahan arah yang cepat ini dapat memengaruhi pergerakan indeks jangka pendek dan sentimen pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "adde99ea3334",
     "slug": "가온전선-올-1분기-영업익-278억원-역대-최고美-aidc-수요-확대-수혜-995690",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Cisco Melonjak 18% Usai Pangkas 4.000 Pekerja dan Fokus Rebut Permintaan AI",
         "excerpt": "Cisco, perusahaan perangkat jaringan AS, memangkas sekitar 4.000 pekerja atau 5% karyawan, menegaskan fokus ke AI; sahamnya naik 18% pada perdagangan after-hours.",
         "body": "Cisco, perusahaan perangkat jaringan asal Amerika Serikat, melakukan pengurangan tenaga kerja besar-besaran dengan memangkas sekitar 4.000 karyawan, setara 5% dari total pekerjanya. Melalui langkah ini, perusahaan menyampaikan kepada pasar niat untuk menangkap permintaan kecerdasan buatan (AI), dan setelah pengumuman sahamnya melonjak 18% dalam perdagangan after-hours. Sebagai pemain kuat di perangkat jaringan, Cisco menonjolkan transformasi perusahaan yang berpusat pada AI sambil menata ulang struktur tenaga kerja yang ada. Pasar langsung bereaksi terhadap besarnya pemangkasan dan arah menuju AI. Laporan asli tidak menyebutkan nilai investasi tambahan atau rencana bisnis terperinci. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "0639f9382781",
-    "slug": "삼양식품-역대-최대-분기-실적-달성에-급등장-초반-13대-쑥-281604",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T15:39:46.041Z",
-    "updatedAt": "2026-05-14T15:39:46.041Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047267",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047267",
-    "titleFingerprint": "9868a8b19799ca54568e0fe06891bfd0514b8190",
-    "dedupKeys": [
-      "0639f9382781b02c123e3d0b7260d6f857ed0705",
-      "9868a8b19799ca54568e0fe06891bfd0514b8190",
-      "ce1a1cfc7aaed9cc2c77ffa7c44369400382882b"
-    ],
-    "imageUrl": "/images/articles/0639f9382781.png",
-    "i18n": {
-      "ko": {
-        "title": "삼양식품 주가 급등, 역대 최대 1분기 실적에 장 초반 13%대 상승",
-        "excerpt": "삼양식품이 14일 역대 최대 1분기 실적을 공개한 뒤 주가가 급등했다. 오전 9시25분 기준 전일 대비 7.64% 오른 139만4000원에 거래됐다.",
-        "body": "삼양식품이 역대 최대 1분기 실적을 공개하면서 14일 장 초반 주가가 급등했다. 이날 오전 9시25분 현재 삼양식품은 전 거래일보다 9만9000원, 7.64% 오른 139만4000원에 거래됐다. 장 초반에는 13%대 상승률을 보이며 실적 발표에 대한 투자자 반응이 주가에 반영됐다. 이번 흐름은 1분기 실적이 역대 최대치를 기록했다는 소식이 직접적인 배경으로 제시됐다. 시장에서는 실적 개선이 단기 주가 흐름에 영향을 준 것으로 해석된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samyang Foods shares jump after record first-quarter earnings, rising 13% early",
-        "excerpt": "Samyang Foods shares surged on May 14 after the company reported its strongest-ever first-quarter results, trading at 1,394,000 won, up 7.64%, at 9:25 a.m.",
-        "body": "Samyang Foods’ shares climbed sharply in early trading on May 14 after the company disclosed record first-quarter results. As of 9:25 a.m., the stock was trading at 1,394,000 won, up 99,000 won, or 7.64%, from the previous session. Earlier in the session, the share price rose by the 13% range, reflecting investor reaction to the earnings announcement. The direct background for the move was the company’s statement that first-quarter performance reached an all-time quarterly high. The report indicates that the improved results influenced short-term share price movement. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "三養食品株が急伸、過去最高の第1四半期業績で序盤13％台上昇",
-        "excerpt": "三養食品は14日、過去最高の第1四半期業績を発表した後に株価が急伸。午前9時25分時点で前日比7.64％高の139万4000ウォンで取引された。",
-        "body": "三養食品は過去最高の第1四半期業績を公表し、14日の取引序盤に株価が急伸した。同日午前9時25分現在、同社株は前営業日比9万9000ウォン、7.64％高の139万4000ウォンで取引された。序盤には13％台の上昇率を示し、業績発表への投資家の反応が株価に反映された。今回の動きは、第1四半期業績が過去最高を記録したとの発表が直接の背景とされる。市場では業績改善が短期的な株価動向に影響したと受け止められている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三养食品股价大涨，创纪录一季度业绩推动早盘涨逾13%",
-        "excerpt": "三养食品14日公布史上最高一季度业绩后股价急涨。上午9时25分，该股较前一交易日上涨7.64%，报139.4万韩元。",
-        "body": "三养食品在公布史上最高一季度业绩后，14日早盘股价大幅上涨。当天上午9时25分，三养食品较前一交易日上涨9.9万韩元，涨幅7.64%，报139.4万韩元。盘初该股一度录得13%区间的涨幅，显示投资者对业绩发布作出反应。此次股价变动的直接背景，是公司宣布一季度业绩达到历史最高水平。市场认为，业绩改善消息影响了短期股价走势。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samyang Foods se dispara tras resultados récord del primer trimestre y sube 13% al inicio",
-        "excerpt": "Samyang Foods subió con fuerza el 14 de mayo tras revelar su mayor resultado histórico del primer trimestre; a las 9:25 cotizaba en 1.394.000 wones, un 7,64% más.",
-        "body": "Las acciones de Samyang Foods subieron con fuerza en la apertura del 14 de mayo después de que la compañía publicara resultados récord para el primer trimestre. A las 9:25 a.m., el título cotizaba en 1.394.000 wones, 99.000 wones más que en la sesión anterior, equivalente a un alza del 7,64%. En los primeros compases llegó a moverse en el rango del 13%, reflejando la reacción de los inversionistas al anuncio. El antecedente directo fue que el desempeño del primer trimestre alcanzó un máximo histórico. La mejora de resultados fue señalada como factor del movimiento bursátil de corto plazo. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samyang Foods dispara após lucro recorde no 1º trimestre e avança 13% no início",
-        "excerpt": "A Samyang Foods subiu forte em 14 de maio após divulgar seu maior resultado histórico no primeiro trimestre; às 9h25, a ação avançava 7,64%, a 1.394.000 won.",
-        "body": "As ações da Samyang Foods subiram acentuadamente no início do pregão de 14 de maio depois que a empresa divulgou resultados recordes para o primeiro trimestre. Às 9h25, o papel era negociado a 1.394.000 won, alta de 99.000 won, ou 7,64%, em relação ao pregão anterior. Mais cedo, a valorização chegou à faixa de 13%, refletindo a reação dos investidores ao anúncio dos resultados. O pano de fundo direto foi a informação de que o desempenho do primeiro trimestre atingiu o maior nível da história. A melhora dos resultados influenciou o movimento de curto prazo da ação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samyang-Foods-Aktie springt nach Rekordquartal, früh um 13 Prozent im Plus",
-        "excerpt": "Samyang Foods legte am 14. Mai nach der Veröffentlichung eines Rekordergebnisses im ersten Quartal stark zu; um 9:25 Uhr notierte die Aktie 7,64% höher bei 1.394.000 Won.",
-        "body": "Die Aktie von Samyang Foods stieg am 14. Mai im frühen Handel deutlich, nachdem das Unternehmen ein Rekordergebnis für das erste Quartal veröffentlicht hatte. Um 9:25 Uhr wurde die Aktie bei 1.394.000 Won gehandelt, 99.000 Won oder 7,64% über dem vorherigen Schlusskurs. Zu Handelsbeginn lag der Anstieg zeitweise im Bereich von 13%, womit sich die Reaktion der Anleger auf die Ergebnisbekanntgabe zeigte. Direkter Hintergrund war die Mitteilung, dass die Ergebnisse des ersten Quartals ein historisches Hoch erreicht hätten. Die Ergebnisverbesserung prägte damit die kurzfristige Kursbewegung. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samyang Foods bondit après un premier trimestre record, jusqu’à 13% en début de séance",
-        "excerpt": "Samyang Foods a fortement progressé le 14 mai après l’annonce de résultats trimestriels records; à 9h25, l’action gagnait 7,64% à 1.394.000 wons.",
-        "body": "L’action Samyang Foods a fortement augmenté en début de séance le 14 mai après la publication de résultats record pour le premier trimestre. À 9h25, le titre s’échangeait à 1.394.000 wons, en hausse de 99.000 wons, soit 7,64%, par rapport à la séance précédente. Plus tôt dans la matinée, la progression avait atteint la zone des 13%, signe d’une réaction des investisseurs à l’annonce des résultats. Le facteur direct de ce mouvement est la communication d’un niveau historique pour les performances du premier trimestre. L’amélioration des résultats a ainsi pesé sur l’évolution boursière à court terme. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم ساميانغ فودز يقفز بعد نتائج قياسية للربع الأول ويرتفع 13% مبكرا",
-        "excerpt": "ارتفع سهم ساميانغ فودز بقوة في 14 مايو بعد إعلان أفضل نتائج فصلية للربع الأول في تاريخه، وبلغ 1,394,000 وون عند 9:25 صباحا بزيادة 7.64%.",
-        "body": "قفز سهم ساميانغ فودز في التعاملات المبكرة يوم 14 مايو بعد أن كشفت الشركة عن تحقيق أعلى نتائج للربع الأول في تاريخها. وعند الساعة 9:25 صباحا، جرى تداول السهم عند 1,394,000 وون، مرتفعا 99,000 وون، أو 7.64%، مقارنة بالجلسة السابقة. وفي بداية التداول وصل الارتفاع إلى نطاق 13%، ما عكس تفاعل المستثمرين مع إعلان النتائج. الخلفية المباشرة للحركة كانت إعلان الشركة أن أداء الربع الأول بلغ مستوى قياسيا تاريخيا. وتشير المعطيات إلى أن تحسن النتائج أثر في حركة السهم القصيرة الأجل. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "रिकॉर्ड पहली तिमाही नतीजों के बाद Samyang Foods शेयर उछला, शुरुआती कारोबार में 13% बढ़त",
-        "excerpt": "Samyang Foods ने 14 मई को अपनी अब तक की सबसे मजबूत पहली तिमाही के नतीजे जारी किए, जिसके बाद शेयर 9:25 बजे 7.64% बढ़कर 1,394,000 वॉन पर कारोबार कर रहा था।",
-        "body": "Samyang Foods के शेयर में 14 मई को शुरुआती कारोबार में तेज बढ़त दर्ज की गई, जब कंपनी ने अपनी अब तक की सबसे बड़ी पहली तिमाही के नतीजे जारी किए। सुबह 9:25 बजे शेयर पिछले सत्र से 99,000 वॉन, यानी 7.64%, बढ़कर 1,394,000 वॉन पर कारोबार कर रहा था। कारोबार की शुरुआत में बढ़त 13% के दायरे तक पहुंची, जिससे नतीजों की घोषणा पर निवेशकों की प्रतिक्रिया दिखी। इस तेजी की सीधी वजह कंपनी का यह खुलासा था कि पहली तिमाही का प्रदर्शन ऐतिहासिक उच्च स्तर पर पहुंच गया। बेहतर नतीजों ने अल्पकालिक शेयर चाल को प्रभावित किया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Samyang Foods melonjak usai kinerja kuartal I rekor, sempat naik 13% pagi ini",
-        "excerpt": "Samyang Foods melonjak pada 14 Mei setelah merilis kinerja kuartal I terbaik sepanjang sejarah; pukul 09.25 sahamnya naik 7,64% ke 1.394.000 won.",
-        "body": "Saham Samyang Foods naik tajam pada awal perdagangan 14 Mei setelah perusahaan mengumumkan kinerja kuartal pertama terbaik sepanjang sejarah. Pada pukul 09.25, saham tersebut diperdagangkan di 1.394.000 won, naik 99.000 won atau 7,64% dari sesi sebelumnya. Di awal perdagangan, kenaikan sempat berada di kisaran 13%, mencerminkan respons investor terhadap pengumuman kinerja. Latar langsung pergerakan ini adalah kabar bahwa hasil kuartal pertama mencetak rekor tertinggi. Perbaikan kinerja tersebut dipandang memengaruhi pergerakan harga saham dalam jangka pendek. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7f70648ad4f9",
-    "slug": "mk시그널-아메리칸-퍼블릭-에듀케이션-매도신호-포착-수익률-531-달성-773473",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T15:38:47.488Z",
-    "updatedAt": "2026-05-14T15:38:47.488Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047277",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047277",
-    "titleFingerprint": "7bcfec19aed27154e39236df7e7e0855544d4c3c",
-    "dedupKeys": [
-      "7f70648ad4f9f91c61cfe9532f4344774fbae8b5",
-      "7bcfec19aed27154e39236df7e7e0855544d4c3c",
-      "28656c8b48670321c6898358a2a541a5b4394f42"
-    ],
-    "imageUrl": "/images/articles/7f70648ad4f9.png",
-    "i18n": {
-      "ko": {
-        "title": "아메리칸 퍼블릭 에듀케이션, MK시그널 매도신호 포착",
-        "excerpt": "AI 기자 MK시그널은 13일 아메리칸 퍼블릭 에듀케이션(APEI)에서 매도 신호가 포착됐으며 해당 종목 수익률이 53.1%를 달성했다고 전했다.",
-        "body": "미국 주식 핫 이슈 종목을 분석하는 AI 기자 ‘MK시그널’은 13일 아메리칸 퍼블릭 에듀케이션(APEI)에서 매도 신호가 포착됐다고 밝혔다. 원문에 따르면 MK시그널은 해당 종목과 관련해 수익률 53.1%를 달성한 것으로 전했다. 아메리칸 퍼블릭 에듀케이션은 이번 신호 포착으로 미국 주식 투자자들의 관심 종목으로 다시 언급됐다. 매도 신호는 기존 보유자에게 차익 실현 여부를 점검하게 하는 참고 지표가 될 수 있다. 다만 원문은 구체적인 매매 가격, 신호 산출 방식, 향후 주가 전망에 대해서는 추가 정보를 제시하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "American Public Education Sell Signal Detected by MK Signal",
-        "excerpt": "AI reporter MK Signal said on the 13th that a sell signal was detected for American Public Education (APEI), with the stock achieving a 53.1% return.",
-        "body": "MK Signal, an AI reporter that analyzes hot U.S. stock issues, said on the 13th that a sell signal was detected for American Public Education (APEI). According to the original report, MK Signal said the stock achieved a return of 53.1%. With this signal, American Public Education was again mentioned as a stock drawing attention from U.S. equity investors. A sell signal may serve as a reference point for existing holders reviewing whether to realize gains. However, the original article did not provide additional details on trading prices, the signal calculation method, or future share-price prospects. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "アメリカン・パブリック・エデュケーション、MKシグナルで売りシグナル",
-        "excerpt": "AI記者のMKシグナルは13日、アメリカン・パブリック・エデュケーション（APEI）で売りシグナルを捉え、収益率が53.1％に達したと伝えた。",
-        "body": "米国株の注目銘柄を分析するAI記者「MKシグナル」は13日、アメリカン・パブリック・エデュケーション（APEI）で売りシグナルを捉えたと明らかにした。原文によると、MKシグナルは同銘柄について収益率53.1％を達成したと伝えた。今回のシグナルにより、同社株は米国株投資家の関心銘柄として再び言及された。売りシグナルは、既存保有者が利益確定の有無を点検する際の参考指標になり得る。ただし原文では、具体的な売買価格、シグナル算出方法、今後の株価見通しに関する追加情報は示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "American Public Education出现MK Signal卖出信号",
-        "excerpt": "AI记者MK Signal称，13日American Public Education（APEI）被捕捉到卖出信号，该股票收益率达到53.1%。",
-        "body": "分析美国股票热门标的的AI记者“MK Signal”13日表示，American Public Education（APEI）被捕捉到卖出信号。根据原文，MK Signal称该股票实现了53.1%的收益率。随着此次信号出现，American Public Education再次成为美国股票投资者关注的标的之一。卖出信号可作为既有持有人检查是否获利了结的参考指标。不过，原文未提供具体交易价格、信号计算方式或未来股价展望等追加信息。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "American Public Education activa señal de venta en MK Signal",
-        "excerpt": "El reportero de IA MK Signal informó que el día 13 detectó una señal de venta en American Public Education (APEI), con una rentabilidad alcanzada del 53,1%.",
-        "body": "MK Signal, reportero de IA que analiza acciones estadounidenses de interés, informó el día 13 que se detectó una señal de venta en American Public Education (APEI). Según el texto original, MK Signal señaló que la acción alcanzó una rentabilidad del 53,1%. Con esta señal, American Public Education volvió a ser mencionada como un valor observado por inversores en acciones de Estados Unidos. Una señal de venta puede servir como referencia para que los titulares actuales revisen si toman beneficios. Sin embargo, el artículo original no ofreció datos adicionales sobre precios de operación, método de cálculo de la señal ni perspectivas futuras de la acción. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "American Public Education tem sinal de venda no MK Signal",
-        "excerpt": "O repórter de IA MK Signal informou que, no dia 13, detectou um sinal de venda em American Public Education (APEI), com rentabilidade de 53,1%.",
-        "body": "O MK Signal, repórter de IA que analisa ações americanas em destaque, informou no dia 13 que foi detectado um sinal de venda em American Public Education (APEI). Segundo o texto original, o MK Signal afirmou que o papel alcançou rentabilidade de 53,1%. Com esse sinal, American Public Education voltou a ser citada como uma ação de interesse para investidores do mercado dos EUA. Um sinal de venda pode servir como referência para atuais detentores avaliarem a realização de lucros. No entanto, o artigo original não apresentou informações adicionais sobre preços de negociação, método de cálculo do sinal ou perspectivas futuras para a ação. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "American Public Education: MK Signal erkennt Verkaufssignal",
-        "excerpt": "Der KI-Reporter MK Signal meldete am 13., dass bei American Public Education (APEI) ein Verkaufssignal erkannt wurde und die Rendite 53,1% erreichte.",
-        "body": "MK Signal, ein KI-Reporter zur Analyse auffälliger US-Aktien, teilte am 13. mit, dass bei American Public Education (APEI) ein Verkaufssignal erkannt wurde. Dem Originalbericht zufolge erreichte die Aktie laut MK Signal eine Rendite von 53,1%. Durch dieses Signal wurde American Public Education erneut als Wert genannt, der bei Anlegern in US-Aktien Aufmerksamkeit erhält. Ein Verkaufssignal kann für bestehende Inhaber als Hinweis dienen, eine mögliche Gewinnmitnahme zu prüfen. Der Originalartikel nannte jedoch keine weiteren Angaben zu konkreten Handelspreisen, zur Berechnung des Signals oder zu künftigen Kursaussichten. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "American Public Education: signal de vente détecté par MK Signal",
-        "excerpt": "Le journaliste IA MK Signal a indiqué que, le 13, un signal de vente avait été détecté sur American Public Education (APEI), avec un rendement atteint de 53,1%.",
-        "body": "MK Signal, journaliste IA qui analyse les valeurs américaines très suivies, a indiqué le 13 qu’un signal de vente avait été détecté sur American Public Education (APEI). Selon le texte original, MK Signal a précisé que le titre avait atteint un rendement de 53,1%. Avec ce signal, American Public Education est de nouveau mentionnée parmi les actions surveillées par les investisseurs en actions américaines. Un signal de vente peut servir de référence aux détenteurs actuels lorsqu’ils examinent une éventuelle prise de bénéfices. Toutefois, l’article original ne fournit pas d’informations supplémentaires sur les prix de transaction, la méthode de calcul du signal ou les perspectives futures du cours. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أمريكان بابليك إديوكيشن تسجل إشارة بيع عبر MK Signal",
-        "excerpt": "قال مراسل الذكاء الاصطناعي MK Signal إن إشارة بيع رُصدت يوم 13 في سهم American Public Education (APEI)، مع تحقيق عائد بلغ 53.1%.",
-        "body": "أعلن مراسل الذكاء الاصطناعي “MK Signal”، المتخصص في تحليل الأسهم الأمريكية محل الاهتمام، يوم 13 أنه رصد إشارة بيع في سهم American Public Education (APEI). ووفق النص الأصلي، قال MK Signal إن السهم حقق عائدا نسبته 53.1%. ومع ظهور هذه الإشارة، عاد سهم American Public Education ليُذكر بين الأسهم التي تجذب اهتمام مستثمري السوق الأمريكية. وقد تمثل إشارة البيع مؤشرا مرجعيا للمساهمين الحاليين عند مراجعة قرار جني الأرباح. لكن النص الأصلي لم يقدم معلومات إضافية عن أسعار التداول المحددة أو طريقة احتساب الإشارة أو توقعات سعر السهم مستقبلا. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "American Public Education में MK Signal ने बिक्री संकेत पकड़ा",
-        "excerpt": "AI रिपोर्टर MK Signal ने बताया कि 13 तारीख को American Public Education (APEI) में बिक्री संकेत मिला और इस शेयर पर 53.1% रिटर्न हासिल हुआ।",
-        "body": "अमेरिकी शेयरों के चर्चित मुद्दों का विश्लेषण करने वाले AI रिपोर्टर ‘MK Signal’ ने 13 तारीख को बताया कि American Public Education (APEI) में बिक्री संकेत मिला है। मूल रिपोर्ट के अनुसार, MK Signal ने कहा कि इस शेयर पर 53.1% रिटर्न हासिल हुआ। इस संकेत के बाद American Public Education फिर से अमेरिकी शेयर निवेशकों की नजर में आए शेयर के रूप में उल्लेखित हुआ। बिक्री संकेत मौजूदा धारकों के लिए मुनाफावसूली पर विचार करने का संदर्भ बिंदु हो सकता है। हालांकि मूल लेख में विशिष्ट ट्रेडिंग मूल्य, संकेत की गणना पद्धति या आगे के शेयर मूल्य 전망 पर अतिरिक्त जानकारी नहीं दी गई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "American Public Education Muncul Sinyal Jual di MK Signal",
-        "excerpt": "Reporter AI MK Signal menyebut pada tanggal 13 bahwa sinyal jual terdeteksi pada American Public Education (APEI), dengan imbal hasil mencapai 53,1%.",
-        "body": "MK Signal, reporter AI yang menganalisis saham Amerika Serikat yang menjadi isu hangat, menyatakan pada tanggal 13 bahwa sinyal jual terdeteksi pada American Public Education (APEI). Menurut naskah asli, MK Signal menyebut saham tersebut mencapai imbal hasil 53,1%. Dengan munculnya sinyal ini, American Public Education kembali disebut sebagai saham yang menarik perhatian investor pasar saham AS. Sinyal jual dapat menjadi acuan bagi pemegang saham yang ada untuk meninjau apakah akan merealisasikan keuntungan. Namun, artikel asli tidak memberikan informasi tambahan mengenai harga transaksi, metode perhitungan sinyal, atau prospek harga saham ke depan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "c08612735a30",
-    "slug": "바이낸스-규제-준수에-2억달러-투자rwa스테이블코인이-다음-타자-426435",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T15:37:50.823Z",
-    "updatedAt": "2026-05-14T15:37:50.823Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047315",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047315",
-    "titleFingerprint": "e49d6b4ba3b8c7f3e67747007345e166338846af",
-    "dedupKeys": [
-      "c08612735a30d1481756fd87c8fbc3195e4d5f1e",
-      "e49d6b4ba3b8c7f3e67747007345e166338846af",
-      "0569c6730dc69058804e6c24d886935f078ae184"
-    ],
-    "imageUrl": "/images/articles/c08612735a30.jpg",
-    "i18n": {
-      "ko": {
-        "title": "바이낸스 2억달러 규제 준수 투자, RWA·스테이블코인 성장 주목",
-        "excerpt": "바이낸스가 UAE FSRA 라이선스를 취득하고 규제 준수에 2억달러를 투자했다고 밝혔다. 캐서린 첸은 기관 중심 전환과 RWA·스테이블코인 성장을 전망했다.",
-        "body": "바이낸스가 UAE FSRA 라이선스를 취득하고 규제 준수에 2억달러를 투자했다고 밝혔다. 캐서린 첸은 가상자산 시장의 주도권이 개인 중심에서 기관 중심으로 이동하고 있다고 설명했다. 배경으로 비트코인 ETF가 출시 2년 만에 600억달러 규모로 성장한 점이 제시됐다. 바이낸스는 제도권 참여 확대 속에서 토큰화 자산, 즉 RWA와 스테이블코인이 다음 성장 축이 될 것으로 봤다. 이는 가상자산 산업이 규제 대응과 기관 수요를 중심으로 재편되고 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Binance Puts $200 Million Into Compliance as RWA, Stablecoins Draw Focus",
-        "excerpt": "Binance said it secured a UAE FSRA license and invested $200 million in compliance, while Catherine Chen pointed to institutional leadership and growth in RWA and stablecoins.",
-        "body": "Binance said it has obtained a UAE FSRA license and invested $200 million in regulatory compliance. Catherine Chen said leadership in the virtual asset market is shifting from retail participants toward institutions. As context, the report cited Bitcoin ETFs growing to $60 billion within two years of launch. Binance sees tokenized real-world assets, or RWA, and stablecoins as the next areas of rapid growth as institutional participation expands. The development shows the virtual asset industry reorganizing around compliance and institutional demand. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "バイナンス、規制対応に2億ドル投資 RWA・ステーブルコインに注目",
-        "excerpt": "バイナンスはUAEのFSRAライセンス取得と規制順守への2億ドル投資を明らかにした。キャサリン・チェン氏は機関主導とRWA、ステーブルコインの成長を見込む。",
-        "body": "バイナンスはUAEのFSRAライセンスを取得し、規制順守に2億ドルを投資したと明らかにした。キャサリン・チェン氏は、暗号資産市場の主導権が個人中心から機関中心へ移っていると説明した。背景として、ビットコインETFが開始から2年で600億ドル規模に成長した点が挙げられた。バイナンスは制度圏の参加拡大の中で、トークン化資産であるRWAとステーブルコインが次の成長分野になると見ている。これは暗号資産業界が規制対応と機関需要を軸に再編されていることを示す。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "币安投入2亿美元合规建设，RWA与稳定币成下一增长焦点",
-        "excerpt": "币安称已取得阿联酋FSRA牌照，并在合规方面投入2亿美元。Catherine Chen指出，虚拟资产主导权正转向机构，RWA和稳定币有望增长。",
-        "body": "币安表示，已取得阿联酋FSRA牌照，并在监管合规方面投入2亿美元。Catherine Chen称，虚拟资产市场的主导权正从个人投资者转向机构。作为背景，报道提到比特币ETF在推出两年内规模增长至600亿美元。币安认为，随着合规体系和机构参与扩大，代币化现实资产RWA与稳定币将成为下一轮增长领域。这显示虚拟资产行业正围绕监管应对和机构需求进行重塑。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Binance invierte 200 millones de dólares en cumplimiento y mira a RWA y stablecoins",
-        "excerpt": "Binance dijo que obtuvo una licencia FSRA en Emiratos Árabes Unidos e invirtió 200 millones de dólares en cumplimiento, mientras Catherine Chen destacó el avance institucional y el crecimiento de RWA y stablecoins.",
-        "body": "Binance afirmó que obtuvo una licencia FSRA en Emiratos Árabes Unidos e invirtió 200 millones de dólares en cumplimiento regulatorio. Catherine Chen señaló que el liderazgo del mercado de activos virtuales se está desplazando de los usuarios minoristas hacia las instituciones. Como contexto, el informe citó que los ETF de bitcoin alcanzaron 60.000 millones de dólares en dos años desde su lanzamiento. Binance prevé que los activos tokenizados, o RWA, y las stablecoins sean los próximos motores de crecimiento a medida que aumente la participación institucional. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Binance investe US$ 200 milhões em compliance e mira RWA e stablecoins",
-        "excerpt": "A Binance disse que obteve licença FSRA nos Emirados Árabes Unidos e investiu US$ 200 milhões em compliance. Catherine Chen apontou avanço institucional e crescimento de RWA e stablecoins.",
-        "body": "A Binance informou que obteve uma licença FSRA nos Emirados Árabes Unidos e investiu US$ 200 milhões em conformidade regulatória. Catherine Chen afirmou que a liderança no mercado de ativos virtuais está passando dos investidores individuais para as instituições. Como contexto, o relatório citou que os ETFs de bitcoin chegaram a US$ 60 bilhões em dois anos desde o lançamento. A Binance vê ativos tokenizados, ou RWA, e stablecoins como os próximos eixos de crescimento com a maior participação institucional. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Binance investiert 200 Millionen Dollar in Compliance und setzt auf RWA, Stablecoins",
-        "excerpt": "Binance meldet eine FSRA-Lizenz in den VAE und 200 Millionen Dollar für Compliance. Catherine Chen sieht den Markt stärker institutionell geprägt und erwartet Wachstum bei RWA und Stablecoins.",
-        "body": "Binance erklärte, eine FSRA-Lizenz in den Vereinigten Arabischen Emiraten erhalten und 200 Millionen Dollar in regulatorische Compliance investiert zu haben. Catherine Chen sagte, die Führung im Markt für virtuelle Vermögenswerte verlagere sich von privaten Anlegern zu Institutionen. Als Hintergrund wurde genannt, dass Bitcoin-ETFs binnen zwei Jahren nach ihrem Start auf 60 Milliarden Dollar gewachsen sind. Binance erwartet, dass tokenisierte Vermögenswerte, also RWA, und Stablecoins die nächsten Wachstumsfelder werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Binance investit 200 millions de dollars dans la conformité et vise RWA, stablecoins",
-        "excerpt": "Binance indique avoir obtenu une licence FSRA aux Émirats arabes unis et investi 200 millions de dollars dans la conformité. Catherine Chen souligne le rôle croissant des institutions et des RWA.",
-        "body": "Binance a indiqué avoir obtenu une licence FSRA aux Émirats arabes unis et investi 200 millions de dollars dans la conformité réglementaire. Catherine Chen a expliqué que le leadership du marché des actifs virtuels se déplace des particuliers vers les institutions. En toile de fond, le rapport cite les ETF bitcoin, qui ont atteint 60 milliards de dollars en deux ans après leur lancement. Binance estime que les actifs tokenisés, ou RWA, et les stablecoins seront les prochains moteurs de croissance avec l’élargissement de la participation institutionnelle. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "بينانس تستثمر 200 مليون دولار في الامتثال وتركز على RWA والعملات المستقرة",
-        "excerpt": "قالت بينانس إنها حصلت على ترخيص FSRA في الإمارات واستثمرت 200 مليون دولار في الامتثال التنظيمي، فيما أشارت كاثرين تشين إلى انتقال الزخم نحو المؤسسات ونمو RWA والعملات المستقرة.",
-        "body": "قالت بينانس إنها حصلت على ترخيص FSRA في الإمارات واستثمرت 200 مليون دولار في الامتثال التنظيمي. وأوضحت كاثرين تشين أن قيادة سوق الأصول الافتراضية تنتقل من الأفراد إلى المؤسسات. وذكر التقرير أن صناديق ETF الخاصة بالبيتكوين نمت إلى 60 مليار دولار خلال عامين من إطلاقها. وترى بينانس أن الأصول المرمزة، أو RWA، والعملات المستقرة ستكون مجالات النمو التالية مع اتساع مشاركة المؤسسات. ويعكس ذلك إعادة تشكل صناعة الأصول الافتراضية حول الامتثال والطلب المؤسسي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Binance ने अनुपालन में 20 करोड़ डॉलर लगाए, RWA और stablecoins पर नजर",
-        "excerpt": "Binance ने कहा कि उसे UAE FSRA लाइसेंस मिला है और उसने अनुपालन में 20 करोड़ डॉलर लगाए हैं। Catherine Chen ने संस्थागत नेतृत्व और RWA व stablecoins की वृद्धि पर जोर दिया।",
-        "body": "Binance ने कहा कि उसने UAE FSRA लाइसेंस हासिल किया है और नियामकीय अनुपालन में 20 करोड़ डॉलर का निवेश किया है। Catherine Chen ने बताया कि वर्चुअल एसेट बाजार की अगुवाई खुदरा प्रतिभागियों से संस्थानों की ओर बढ़ रही है। संदर्भ के तौर पर रिपोर्ट में कहा गया कि बिटकॉइन ETF लॉन्च के दो वर्षों में 60 अरब डॉलर तक पहुंच गए। Binance के अनुसार, संस्थागत भागीदारी बढ़ने के बीच टोकनाइज्ड एसेट यानी RWA और stablecoins अगले विकास क्षेत्र होंगे। यह उद्योग के अनुपालन और संस्थागत मांग के आधार पर बदलने को दिखाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Binance Investasi US$200 Juta untuk Kepatuhan, RWA dan Stablecoin Jadi Fokus",
-        "excerpt": "Binance menyatakan telah memperoleh lisensi FSRA UEA dan berinvestasi US$200 juta untuk kepatuhan. Catherine Chen menyoroti pergeseran ke institusi serta pertumbuhan RWA dan stablecoin.",
-        "body": "Binance menyatakan telah memperoleh lisensi FSRA di Uni Emirat Arab dan menginvestasikan US$200 juta untuk kepatuhan regulasi. Catherine Chen menjelaskan bahwa kepemimpinan pasar aset virtual bergeser dari pelaku ritel menuju institusi. Sebagai konteks, laporan menyebut ETF bitcoin tumbuh menjadi US$60 miliar dalam dua tahun sejak diluncurkan. Binance melihat aset tokenisasi, atau RWA, dan stablecoin sebagai area pertumbuhan berikutnya seiring meningkatnya partisipasi institusional. Hal ini menunjukkan industri aset virtual dibentuk ulang oleh kepatuhan dan permintaan institusi. Sumber: mk.co.kr"
       }
     }
   }
