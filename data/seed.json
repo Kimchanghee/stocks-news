@@ -1,5 +1,230 @@
 [
   {
+    "id": "43fc06f73de0",
+    "slug": "청와대-블룸버그에-공식-항의사과-요구시장에-혼선-초래-568692",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T11:27:41.272Z",
+    "updatedAt": "2026-05-15T11:27:41.272Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049504",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049504",
+    "titleFingerprint": "081213b1dbf264c610fccfb0f45f1731983a557d",
+    "dedupKeys": [
+      "43fc06f73de08d0004032c69d853ecb6faf5d8ad",
+      "081213b1dbf264c610fccfb0f45f1731983a557d",
+      "4e49f7dc11abfe8ff590a5abb00726183b7ba1e7"
+    ],
+    "imageUrl": "/images/articles/43fc06f73de0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "청와대, 블룸버그 ‘국민배당금’ 보도에 공식 항의·사과 요구",
+        "excerpt": "청와대는 15일 블룸버그가 김용범 정책실장의 ‘국민배당금’ 제안을 AI 기업의 ‘초과 이익’ 배분으로 해석해 보도했다며 항의 서한을 보내고 공식 사과를 요구했다.",
+        "body": "청와대가 15일 미국 블룸버그 통신에 공식 항의 서한을 보내고 사과를 요구했다. 블룸버그가 김용범 정책실장의 ‘국민배당금’ 제안을 인공지능(AI) 기업의 ‘초과 이익’ 배분으로 해석해 보도했다는 이유에서다. 청와대는 해당 보도가 정책 취지와 다르게 전달돼 시장에 혼선을 초래했다고 판단한 것으로 전해졌다. 이번 사안은 AI 기업 이익 배분이라는 민감한 표현이 해외 매체 보도를 통해 확산되면서 정책 메시지와 시장 반응 사이의 간극을 드러냈다. 청와대의 공식 항의와 사과 요구가 블룸버그의 후속 대응으로 이어질지 주목된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Blue House Demands Bloomberg Apology Over ‘National Dividend’ Report",
+        "excerpt": "On the 15th, the Blue House said Bloomberg misinterpreted Kim Yong-beom’s ‘national dividend’ proposal as a plan to distribute AI firms’ ‘excess profits,’ prompting a protest letter and demand for an apology.",
+        "body": "The Blue House sent an official protest letter to Bloomberg on the 15th and demanded an apology. The move came after Bloomberg reported Kim Yong-beom’s ‘national dividend’ proposal as a distribution of ‘excess profits’ from artificial intelligence (AI) companies. The Blue House reportedly judged that the report conveyed the policy’s intent inaccurately and caused confusion in the market. The issue highlights the gap between policy messaging and market reaction after the sensitive phrase involving AI company profit distribution spread through an overseas media report. Attention now turns to whether the Blue House’s protest and apology demand will lead to a follow-up response from Bloomberg. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "青瓦台、ブルームバーグの『国民配当金』報道に公式抗議と謝罪要求",
+        "excerpt": "青瓦台は15日、ブルームバーグが金容範政策室長の『国民配当金』提案をAI企業の『超過利益』配分と解釈して報じたとして、抗議書簡を送り公式謝罪を求めた。",
+        "body": "青瓦台は15日、米ブルームバーグ通信に公式抗議書簡を送り、謝罪を要求した。ブルームバーグが金容範政策室長の『国民配当金』提案を、人工知能（AI）企業の『超過利益』配分と解釈して報じたためだ。青瓦台は、この報道が政策の趣旨と異なる形で伝わり、市場に混乱を招いたと判断したとされる。今回の件は、AI企業の利益配分という敏感な表現が海外メディアの報道を通じて広がり、政策メッセージと市場反応の間にある隔たりを示した。青瓦台の公式抗議と謝罪要求に対し、ブルームバーグが追加対応に出るかが注目される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "青瓦台就彭博“国民分红”报道正式抗议并要求道歉",
+        "excerpt": "青瓦台15日表示，彭博将金容范政策室长的“国民分红”提议解读为分配AI企业“超额利润”并进行报道，因此已发送抗议信并要求正式道歉。",
+        "body": "青瓦台15日向美国彭博通讯社发送正式抗议信，并要求其道歉。原因是彭博将金容范政策室长提出的“国民分红”方案，解读为分配人工智能（AI）企业“超额利润”并加以报道。据悉，青瓦台认为该报道偏离政策原意，给市场造成了混乱。此次事件显示，涉及AI企业利润分配的敏感表述经由海外媒体报道扩散后，政策信息与市场反应之间出现了落差。青瓦台的正式抗议和道歉要求是否会促使彭博作出后续回应，仍受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Casa Azul exige disculpa a Bloomberg por nota sobre ‘dividendo nacional’",
+        "excerpt": "La Casa Azul afirmó el día 15 que Bloomberg interpretó la propuesta de ‘dividendo nacional’ de Kim Yong-beom como reparto de ‘beneficios excedentes’ de firmas de IA, por lo que envió una protesta y pidió disculpas.",
+        "body": "La Casa Azul envió el día 15 una carta oficial de protesta a Bloomberg y exigió una disculpa. La medida se produjo después de que Bloomberg informara que la propuesta de ‘dividendo nacional’ de Kim Yong-beom, jefe de política, equivalía a distribuir ‘beneficios excedentes’ de empresas de inteligencia artificial (IA). Según se informó, la Casa Azul consideró que la nota transmitió de forma incorrecta el propósito de la política y provocó confusión en el mercado. El caso muestra la brecha entre el mensaje de política pública y la reacción del mercado tras difundirse, mediante un medio extranjero, una expresión sensible sobre reparto de beneficios de empresas de IA. Ahora se observa si Bloomberg dará una respuesta posterior. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Casa Azul exige desculpas da Bloomberg por reportagem sobre ‘dividendo nacional’",
+        "excerpt": "A Casa Azul disse no dia 15 que a Bloomberg interpretou a proposta de ‘dividendo nacional’ de Kim Yong-beom como distribuição de ‘lucros excedentes’ de empresas de IA, enviando protesto e exigindo desculpas.",
+        "body": "A Casa Azul enviou no dia 15 uma carta oficial de protesto à Bloomberg e exigiu um pedido de desculpas. A iniciativa ocorreu depois que a Bloomberg noticiou a proposta de ‘dividendo nacional’ de Kim Yong-beom, chefe de política, como uma distribuição de ‘lucros excedentes’ de empresas de inteligência artificial (IA). Segundo relatos, a Casa Azul avaliou que a reportagem transmitiu o objetivo da política de forma incorreta e causou confusão no mercado. O caso evidencia a distância entre a mensagem de política pública e a reação do mercado após uma expressão sensível sobre distribuição de lucros de empresas de IA se espalhar por meio de um veículo estrangeiro. Resta observar se a Bloomberg dará uma resposta posterior. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Blaues Haus fordert Bloomberg-Entschuldigung wegen Bericht zu ‘Volksdividende’",
+        "excerpt": "Das Blaue Haus erklärte am 15., Bloomberg habe Kim Yong-beoms Vorschlag einer ‘Volksdividende’ als Verteilung von ‘Übergewinnen’ von KI-Unternehmen gedeutet; deshalb wurde Protest eingelegt und eine Entschuldigung verlangt.",
+        "body": "Das Blaue Haus hat am 15. ein offizielles Protestschreiben an Bloomberg gesandt und eine Entschuldigung gefordert. Anlass war ein Bericht, in dem Bloomberg den Vorschlag einer ‘Volksdividende’ von Politikchef Kim Yong-beom als Verteilung von ‘Übergewinnen’ von Unternehmen im Bereich künstliche Intelligenz (KI) deutete. Das Blaue Haus soll zu der Einschätzung gelangt sein, dass der Bericht die politische Absicht falsch vermittelt und Verwirrung am Markt ausgelöst habe. Der Fall zeigt, wie eine sensible Formulierung zur Gewinnverteilung von KI-Unternehmen über ausländische Medien verbreitet wurde und eine Lücke zwischen politischer Botschaft und Marktreaktion entstand. Nun richtet sich der Blick darauf, ob Bloomberg auf Protest und Entschuldigungsforderung reagieren wird. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La Maison Bleue demande des excuses à Bloomberg pour l’article sur le ‘dividende national’",
+        "excerpt": "La Maison Bleue a indiqué le 15 que Bloomberg avait interprété la proposition de ‘dividende national’ de Kim Yong-beom comme une répartition des ‘profits excédentaires’ d’entreprises d’IA, puis a envoyé une protestation et demandé des excuses.",
+        "body": "La Maison Bleue a envoyé le 15 une lettre officielle de protestation à Bloomberg et a exigé des excuses. Cette démarche fait suite à un article dans lequel Bloomberg a présenté la proposition de ‘dividende national’ de Kim Yong-beom, chef de la politique, comme une répartition des ‘profits excédentaires’ d’entreprises d’intelligence artificielle (IA). Selon les informations rapportées, la Maison Bleue a estimé que l’article avait transmis l’intention de la politique de manière inexacte et provoqué de la confusion sur le marché. L’affaire met en évidence l’écart entre le message politique et la réaction du marché après la diffusion, par un média étranger, d’une formule sensible sur la répartition des profits des entreprises d’IA. L’attention porte désormais sur une éventuelle réponse de Bloomberg. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "البيت الأزرق يطالب بلومبرغ باعتذار رسمي عن تقرير ‘توزيع الأرباح الوطنية’",
+        "excerpt": "قال البيت الأزرق في 15 من الشهر إن بلومبرغ فسرت اقتراح كيم يونغ بوم بشأن ‘توزيع الأرباح الوطنية’ على أنه توزيع لـ‘الأرباح الفائضة’ لشركات الذكاء الاصطناعي، فأرسل خطاب احتجاج وطالب باعتذار رسمي.",
+        "body": "أرسل البيت الأزرق في 15 من الشهر خطاب احتجاج رسميا إلى وكالة بلومبرغ الأميركية وطالبها بالاعتذار. وجاء ذلك بعدما نشرت بلومبرغ تقريرا فسرت فيه اقتراح كيم يونغ بوم، رئيس السياسات، بشأن ‘توزيع الأرباح الوطنية’ على أنه توزيع لـ‘الأرباح الفائضة’ لشركات الذكاء الاصطناعي. ووفقا لما نقل، رأى البيت الأزرق أن التقرير نقل هدف السياسة بصورة مختلفة وأحدث ارتباكا في السوق. وتبرز هذه القضية الفجوة بين الرسالة السياسية ورد فعل السوق بعد انتشار تعبير حساس يتعلق بتوزيع أرباح شركات الذكاء الاصطناعي عبر وسيلة إعلام أجنبية. ويبقى التركيز الآن على ما إذا كانت بلومبرغ ستقدم ردا لاحقا على الاحتجاج وطلب الاعتذار. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "‘नेशनल डिविडेंड’ रिपोर्ट पर ब्लूमबर्ग से ब्लू हाउस ने मांगी माफी",
+        "excerpt": "ब्लू हाउस ने 15 तारीख को कहा कि ब्लूमबर्ग ने किम योंग-बोम के ‘नेशनल डिविडेंड’ प्रस्ताव को AI कंपनियों के ‘अतिरिक्त लाभ’ के वितरण के रूप में पेश किया, इसलिए विरोध पत्र भेजकर औपचारिक माफी मांगी गई।",
+        "body": "ब्लू हाउस ने 15 तारीख को अमेरिकी एजेंसी ब्लूमबर्ग को आधिकारिक विरोध पत्र भेजा और माफी की मांग की। यह कदम तब उठाया गया जब ब्लूमबर्ग ने नीति प्रमुख किम योंग-बोम के ‘नेशनल डिविडेंड’ प्रस्ताव को कृत्रिम बुद्धिमत्ता (AI) कंपनियों के ‘अतिरिक्त लाभ’ के वितरण के रूप में रिपोर्ट किया। बताया गया कि ब्लू हाउस ने माना कि इस रिपोर्ट ने नीति के उद्देश्य को अलग ढंग से पेश किया और बाजार में भ्रम पैदा किया। यह मामला दिखाता है कि AI कंपनियों के लाभ वितरण जैसी संवेदनशील अभिव्यक्ति विदेशी मीडिया रिपोर्ट के माध्यम से फैलने पर नीति संदेश और बाजार प्रतिक्रिया के बीच अंतर उभर सकता है। अब ध्यान इस पर है कि ब्लूमबर्ग इस आधिकारिक विरोध और माफी की मांग पर आगे क्या प्रतिक्रिया देता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Blue House Tuntut Permintaan Maaf Bloomberg soal Laporan ‘Dividen Nasional’",
+        "excerpt": "Blue House pada tanggal 15 menyatakan Bloomberg menafsirkan usulan ‘dividen nasional’ Kim Yong-beom sebagai pembagian ‘laba berlebih’ perusahaan AI, sehingga mengirim surat protes dan menuntut permintaan maaf resmi.",
+        "body": "Blue House pada tanggal 15 mengirim surat protes resmi kepada Bloomberg dan menuntut permintaan maaf. Langkah itu diambil setelah Bloomberg memberitakan usulan ‘dividen nasional’ dari Kepala Kebijakan Kim Yong-beom sebagai pembagian ‘laba berlebih’ perusahaan kecerdasan buatan (AI). Blue House dilaporkan menilai bahwa pemberitaan tersebut menyampaikan tujuan kebijakan secara tidak tepat dan menimbulkan kebingungan di pasar. Kasus ini menunjukkan jarak antara pesan kebijakan dan respons pasar setelah ungkapan sensitif mengenai pembagian laba perusahaan AI menyebar melalui media asing. Perhatian kini tertuju pada apakah protes resmi dan tuntutan permintaan maaf dari Blue House akan diikuti tanggapan lanjutan dari Bloomberg. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5a19fa7bf6ea",
+    "slug": "단독-김성주-국민연금-이사장-오늘-코스피-하락은-단기-조정-552560",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T11:26:38.015Z",
+    "updatedAt": "2026-05-15T11:26:38.015Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049511",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049511",
+    "titleFingerprint": "8c3da9b6c962d4616c7f373a8cb61fd4f4c89442",
+    "dedupKeys": [
+      "5a19fa7bf6eaf6fda0d0ead7b6c1785a451af5b8",
+      "8c3da9b6c962d4616c7f373a8cb61fd4f4c89442",
+      "93510d6098a742baae660f650f11bdd8663f397a"
+    ],
+    "imageUrl": "/images/articles/5a19fa7bf6ea.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 하락에 김성주 국민연금 이사장 “단기 조정 가능성” 진단",
+        "excerpt": "15일 국내 증시가 하락 마감한 가운데 김성주 국민연금공단 이사장은 하락 전환한 코스피에 대해 단기 조정일 가능성에 무게를 뒀다.",
+        "body": "15일 국내 증시가 하락 마감한 가운데 김성주 국민연금공단 이사장은 이날 코스피 하락을 단기 조정으로 볼 가능성에 무게를 뒀다. 매일경제에 따르면 김 이사장은 이날 매체와 만나 하락 전환한 코스피 흐름에 대해 “오늘 코스피 하락은 단기 조정”이라는 취지로 언급했다. 원문에서 구체적인 하락 폭이나 지수 수치는 제시되지 않았지만, 국내 증시가 하락세로 마감했다는 점과 국민연금 수장의 시장 판단이 함께 전해졌다. 이번 발언은 코스피가 하락 전환한 당일 나온 만큼 투자자들이 단기 변동성과 향후 흐름을 가늠하는 참고 발언으로 받아들일 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Drop Seen by NPS Chair Kim Sung-joo as Likely Short-Term Adjustment",
+        "excerpt": "As South Korean stocks closed lower on the 15th, National Pension Service Chairman Kim Sung-joo said the KOSPI’s decline may be a short-term adjustment.",
+        "body": "South Korean stocks closed lower on the 15th, and National Pension Service Chairman Kim Sung-joo indicated that the day’s KOSPI decline could be viewed as a short-term adjustment. According to Maeil Business Newspaper, Kim met the outlet that day and commented on the KOSPI’s shift into negative territory in terms suggesting that “today’s KOSPI decline is a short-term adjustment.” The original report did not provide a specific index level or percentage drop, but it reported both the weaker close in the domestic market and the market assessment from the head of the National Pension Service. Because the remarks came on the same day the KOSPI turned lower, investors may treat them as a reference point when assessing short-term volatility and the market’s next direction. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI下落、金成柱・国民年金理事長が「短期調整の可能性」と診断",
+        "excerpt": "15日に韓国株式市場が下落して取引を終える中、金成柱・国民年金公団理事長は下落に転じたKOSPIについて短期調整の可能性に重きを置いた。",
+        "body": "15日に韓国株式市場が下落して取引を終える中、金成柱・国民年金公団理事長は同日のKOSPI下落について、短期的な調整とみる可能性に重きを置いた。毎日経済によると、金理事長はこの日、同紙と会い、下落に転じたKOSPIの流れについて「今日のKOSPI下落は短期調整」との趣旨で言及した。原文では具体的な下落幅や指数水準は示されていないが、韓国株式市場が下落して引けた点と、国民年金トップの市場判断があわせて伝えられた。今回の発言はKOSPIが下落に転じた当日に出たもので、投資家が短期的な変動性と今後の流れを判断する際の参考発言として受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI下跌之际，韩国国民年金理事长金成柱称或为短期调整",
+        "excerpt": "15日韩国股市收跌，韩国国民年金公团理事长金成柱就转跌的KOSPI表示，更倾向于认为这可能是短期调整。",
+        "body": "15日韩国股市收盘下跌，韩国国民年金公团理事长金成柱当天表示，KOSPI的下跌更可能被视为短期调整。据每日经济报道，金成柱当天与该媒体会面时，就转为下跌的KOSPI走势作出表述，意思是“今天KOSPI下跌属于短期调整”。原文未给出具体跌幅或指数点位，但同时提到韩国国内股市收跌，以及国民年金负责人对市场的判断。由于这番话是在KOSPI转跌当天发表，投资者可将其作为观察短期波动和后续走势的参考信息。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Caída del KOSPI: Kim Sung-joo del fondo nacional la ve como ajuste corto",
+        "excerpt": "El día 15, la bolsa surcoreana cerró a la baja y Kim Sung-joo, presidente del Servicio Nacional de Pensiones, señaló que la caída del KOSPI podría ser un ajuste de corto plazo.",
+        "body": "La bolsa surcoreana cerró a la baja el día 15, y Kim Sung-joo, presidente del Servicio Nacional de Pensiones, dio más peso a la posibilidad de que la caída del KOSPI fuera un ajuste de corto plazo. Según Maeil Business Newspaper, Kim se reunió ese día con el medio y comentó el giro bajista del KOSPI en términos que apuntan a que “la caída de hoy del KOSPI es un ajuste de corto plazo”. El informe original no presentó una cifra concreta de caída ni el nivel del índice, pero sí informó del cierre negativo del mercado local y de la valoración del responsable del fondo nacional. Como las declaraciones llegaron el mismo día en que el KOSPI pasó a terreno negativo, pueden servir como referencia para inversores que evalúan la volatilidad inmediata y la evolución posterior. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Queda do KOSPI é vista por Kim Sung-joo como possível ajuste de curto prazo",
+        "excerpt": "No dia 15, a bolsa sul-coreana fechou em queda, e Kim Sung-joo, presidente do Serviço Nacional de Pensões, avaliou que o recuo do KOSPI pode ser um ajuste de curto prazo.",
+        "body": "A bolsa sul-coreana fechou em queda no dia 15, e Kim Sung-joo, presidente do Serviço Nacional de Pensões, indicou que o recuo do KOSPI naquele dia pode ser visto como um ajuste de curto prazo. Segundo o Maeil Business Newspaper, Kim se encontrou com o veículo naquele dia e comentou a virada negativa do KOSPI em termos que sugerem que “a queda de hoje do KOSPI é um ajuste de curto prazo”. O texto original não apresentou uma queda específica nem o nível do índice, mas relatou o fechamento negativo do mercado doméstico e a leitura de mercado do chefe do fundo nacional. Como a declaração saiu no mesmo dia em que o KOSPI passou a cair, ela pode ser usada por investidores como referência para avaliar a volatilidade de curto prazo e o rumo seguinte do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI-Rückgang: NPS-Chef Kim Sung-joo sieht wohl kurzfristige Korrektur",
+        "excerpt": "Am 15. schloss der südkoreanische Aktienmarkt schwächer; Kim Sung-joo, Vorsitzender des National Pension Service, wertete den KOSPI-Rückgang als mögliche kurzfristige Korrektur.",
+        "body": "Der südkoreanische Aktienmarkt schloss am 15. schwächer, und Kim Sung-joo, Vorsitzender des National Pension Service, legte nahe, dass der Rückgang des KOSPI an diesem Tag als kurzfristige Korrektur gesehen werden könnte. Laut Maeil Business Newspaper traf Kim an diesem Tag die Zeitung und äußerte sich zum ins Minus gedrehten KOSPI sinngemäß dahin, dass „der heutige KOSPI-Rückgang eine kurzfristige Korrektur“ sei. Der Originalbericht nannte keine konkrete Rückgangsrate und keinen Indexstand, berichtete aber sowohl über den schwächeren Schluss des heimischen Marktes als auch über die Einschätzung des Chefs des National Pension Service. Da die Aussage am selben Tag erfolgte, an dem der KOSPI nachgab, kann sie Anlegern als Bezugspunkt für die Bewertung kurzfristiger Volatilität und der weiteren Marktrichtung dienen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Repli du KOSPI: Kim Sung-joo du fonds national évoque un ajustement court terme",
+        "excerpt": "Le 15, la Bourse sud-coréenne a clôturé en baisse, et Kim Sung-joo, président du Service national des pensions, a estimé que le repli du KOSPI pourrait être un ajustement de court terme.",
+        "body": "La Bourse sud-coréenne a clôturé en baisse le 15, et Kim Sung-joo, président du Service national des pensions, a donné du poids à l’idée que le recul du KOSPI ce jour-là puisse être un ajustement de court terme. Selon le Maeil Business Newspaper, Kim a rencontré le média le même jour et a commenté le passage du KOSPI en territoire négatif dans des termes suggérant que « la baisse du KOSPI aujourd’hui est un ajustement de court terme ». L’article original ne fournit pas de niveau d’indice ni d’ampleur précise de la baisse, mais il rapporte à la fois la clôture négative du marché intérieur et l’analyse du responsable du fonds national. Comme ces propos sont intervenus le jour même où le KOSPI a reculé, les investisseurs peuvent les considérer comme un repère pour évaluer la volatilité à court terme et la trajectoire suivante du marché. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "تراجع كوسبي: كيم سونغ-جو يرى احتمال أن يكون تصحيحا قصير الأجل",
+        "excerpt": "في 15 من الشهر، أغلقت الأسهم الكورية الجنوبية على انخفاض، ورجح كيم سونغ-جو رئيس خدمة المعاشات الوطنية أن تراجع كوسبي قد يكون تصحيحا قصير الأجل.",
+        "body": "أغلقت الأسهم الكورية الجنوبية على انخفاض في 15 من الشهر، وقال كيم سونغ-جو، رئيس خدمة المعاشات الوطنية، إن هبوط كوسبي في ذلك اليوم قد يُنظر إليه على أنه تصحيح قصير الأجل. وبحسب صحيفة Maeil Business Newspaper، التقى كيم بالصحيفة في اليوم نفسه وعلّق على تحول كوسبي إلى الهبوط بما يفيد أن “تراجع كوسبي اليوم هو تصحيح قصير الأجل”. ولم يورد التقرير الأصلي مستوى محددا للمؤشر أو نسبة هبوط بعينها، لكنه نقل إغلاق السوق المحلية على انخفاض وتقييم رئيس صندوق التقاعد الوطني لاتجاه السوق. وبما أن التصريح صدر في اليوم نفسه الذي تحول فيه كوسبي إلى الهبوط، فقد يعده المستثمرون مرجعا عند تقييم التقلبات القصيرة الأجل والمسار التالي للسوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI गिरावट पर NPS प्रमुख किम सुंग-जू ने कहा, यह अल्पकालिक समायोजन हो सकता है",
+        "excerpt": "15 तारीख को दक्षिण कोरियाई शेयर बाजार गिरावट के साथ बंद हुआ, जबकि नेशनल पेंशन सर्विस के चेयरमैन किम सुंग-जू ने KOSPI की कमजोरी को अल्पकालिक समायोजन माना।",
+        "body": "15 तारीख को दक्षिण कोरियाई शेयर बाजार गिरावट के साथ बंद हुआ, और नेशनल पेंशन सर्विस के चेयरमैन किम सुंग-जू ने उस दिन KOSPI में आई गिरावट को अल्पकालिक समायोजन के रूप में देखने की संभावना को अधिक महत्व दिया। Maeil Business Newspaper के अनुसार, किम ने उसी दिन मीडिया संस्थान से मुलाकात की और गिरावट में बदले KOSPI के रुख पर इस आशय की टिप्पणी की कि “आज की KOSPI गिरावट अल्पकालिक समायोजन है।” मूल रिपोर्ट में गिरावट की विशिष्ट दर या सूचकांक स्तर नहीं दिया गया, लेकिन घरेलू बाजार के गिरकर बंद होने और नेशनल पेंशन प्रमुख के बाजार आकलन को साथ में बताया गया। चूंकि यह टिप्पणी उसी दिन आई जब KOSPI नीचे मुड़ा, निवेशक इसे अल्पकालिक उतार-चढ़ाव और आगे की दिशा समझने के लिए संदर्भ के रूप में देख सकते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Turun, Kim Sung-joo NPS Nilai Kemungkinan Koreksi Jangka Pendek",
+        "excerpt": "Pada tanggal 15, bursa saham Korea Selatan ditutup melemah, sementara Ketua National Pension Service Kim Sung-joo menilai penurunan KOSPI mungkin merupakan koreksi jangka pendek.",
+        "body": "Bursa saham Korea Selatan ditutup melemah pada tanggal 15, dan Ketua National Pension Service Kim Sung-joo memberi bobot pada kemungkinan bahwa penurunan KOSPI hari itu merupakan koreksi jangka pendek. Menurut Maeil Business Newspaper, Kim bertemu dengan media tersebut pada hari yang sama dan mengomentari KOSPI yang berbalik turun dengan maksud bahwa “penurunan KOSPI hari ini adalah koreksi jangka pendek”. Laporan asli tidak menyebutkan besaran penurunan atau level indeks secara spesifik, tetapi menyampaikan bahwa pasar domestik ditutup melemah serta pandangan pasar dari kepala dana pensiun nasional. Karena pernyataan itu muncul pada hari yang sama ketika KOSPI berbalik turun, investor dapat menjadikannya referensi dalam menilai volatilitas jangka pendek dan arah pasar berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "873f99eb0497",
+    "slug": "lg전자-주주입니다-이런-날이-있네요시퍼런-장에-홀로-불탔다-701821",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T11:25:33.897Z",
+    "updatedAt": "2026-05-15T11:25:33.898Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049515",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049515",
+    "titleFingerprint": "9f904e854edac3fc22bd442813f2d5ed9ce04653",
+    "dedupKeys": [
+      "873f99eb0497433c89a4b16faac2ed080deb644d",
+      "9f904e854edac3fc22bd442813f2d5ed9ce04653",
+      "4c6e49f420d3c3f3ed93bd9e56c664c10eaeda76"
+    ],
+    "imageUrl": "/images/articles/873f99eb0497.jpg",
+    "i18n": {
+      "ko": {
+        "title": "LG전자 주가, 검은 금요일 급락장서 홀로 강세…로봇 밸류체인 재평가 주목",
+        "excerpt": "검은 금요일 장세에서 단기 급등한 반도체주가 조정을 받고 외국인이 5조원 순매도한 가운데, LG전자 등 LG그룹주는 로봇 밸류체인 재평가로 상대적 강세를 보였다.",
+        "body": "검은 금요일로 불린 급락장에서 LG전자 주가가 홀로 강세를 보이며 투자자들의 눈길을 끌었다. 시장은 8천피를 찍은 뒤 하락했고, 단기 급등했던 반도체주는 가파른 조정을 받았다. 외국인은 5조원 규모로 순매도하며 낙폭을 키웠고, 글로벌 금리 급등 우려도 악재로 작용했다. 반면 LG그룹주는 로봇 밸류체인 재평가가 부각되며 차별화된 흐름을 보였다. LG전자 주가는 최근 일주일간 강세가 언급될 만큼 약세장 속에서도 돋보였다. 다만 전체 시장의 변동성이 커진 만큼 금리와 외국인 수급, 반도체 조정 흐름이 향후 주가의 주요 변수로 남아 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "LG Electronics Stock Stands Out in Black Friday Selloff as Robot Value Chain Gets Repriced",
+        "excerpt": "In a sharp Black Friday market drop, chip stocks corrected after a short rally and foreigners net sold 5 trillion won, while LG Group shares drew support from a robot value-chain reassessment.",
+        "body": "LG Electronics shares drew attention by showing relative strength in a market slump described as Black Friday. The market fell after touching the 8,000-point level, while semiconductor stocks that had risen sharply in the short term underwent a steep correction. Foreign investors net sold about 5 trillion won, deepening the decline, and concerns over a rapid rise in global interest rates also weighed on sentiment. By contrast, LG Group shares stood apart as investors reassessed their role in the robot value chain. LG Electronics was noted for its strength over the past week despite the weak broader market. Still, heightened volatility means global rates, foreign investor flows, and the semiconductor correction remain key variables for the stock outlook. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "LG電子株、ブラックフライデー相場で独歩高…ロボット価値連鎖の再評価に注目",
+        "excerpt": "ブラックフライデー相場で短期急騰した半導体株が調整し、外国人が5兆ウォンを売り越す中、LG電子などLGグループ株はロボット価値連鎖の再評価で相対的に強さを見せた。",
+        "body": "ブラックフライデーと呼ばれた急落相場で、LG電子株が相対的な強さを見せ投資家の注目を集めた。市場は8千ポイント台を付けた後に下落し、短期的に急騰していた半導体株は急な調整に入った。外国人投資家は5兆ウォン規模で売り越し、下げ幅を広げたほか、世界的な金利急騰への懸念も悪材料となった。一方、LGグループ株はロボットのバリューチェーン再評価が浮上し、差別化された動きを示した。LG電子株はこの1週間の強さが言及されるほど、弱い地合いの中でも目立った。今後は金利、外国人需給、半導体調整の流れが主な変数として残る。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "LG电子股价在黑色星期五跌市中逆势走强，机器人价值链重估受关注",
+        "excerpt": "在黑色星期五式下跌行情中，短期大涨的半导体股急速调整，外资净卖出5万亿韩元；与此同时，LG电子等LG集团股因机器人价值链重估表现相对强势。",
+        "body": "在被称为黑色星期五的急跌行情中，LG电子股价逆势走强，吸引投资者关注。市场在触及8000点后回落，短期快速上涨的半导体股出现陡峭调整。外资净卖出约5万亿韩元，进一步扩大跌幅，全球利率快速上升的担忧也成为利空。相比之下，LG集团相关股票因机器人价值链重新评估而呈现差异化走势。LG电子股价近期一周的强势表现受到提及，在弱市中显得突出。不过，市场波动加大，全球利率、外资资金流向以及半导体股调整仍将是后续股价的重要变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "LG Electronics resiste la venta del Black Friday bursátil por revaluación robótica",
+        "excerpt": "En una sesión de fuerte caída, los semiconductores corrigieron tras subir rápido y los extranjeros vendieron 5 billones de wones, mientras LG Electronics y el grupo LG destacaron por la revaluación de la cadena robótica.",
+        "body": "Las acciones de LG Electronics llamaron la atención al mostrar fortaleza en una sesión bajista descrita como Black Friday. El mercado cayó después de tocar los 8.000 puntos, mientras los valores de semiconductores, que habían subido con rapidez en el corto plazo, sufrieron una fuerte corrección. Los inversores extranjeros vendieron en neto alrededor de 5 billones de wones, ampliando las pérdidas, y el temor a un rápido aumento de las tasas globales también pesó como factor negativo. En contraste, las acciones del grupo LG mostraron un movimiento diferenciado por la revaluación de su cadena de valor vinculada a robots. LG Electronics destacó incluso en una semana de debilidad general. Las tasas, los flujos extranjeros y la corrección de chips seguirán siendo variables clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Ação da LG Electronics se destaca em queda forte com reavaliação da cadeia robótica",
+        "excerpt": "Em um pregão de forte queda, semicondutores corrigiram após alta rápida e estrangeiros venderam 5 trilhões de won, enquanto LG Electronics e ações do grupo LG avançaram com reavaliação da cadeia de robôs.",
+        "body": "As ações da LG Electronics chamaram atenção ao mostrar força em um mercado em queda descrito como Black Friday. O mercado recuou depois de tocar o nível de 8.000 pontos, enquanto papéis de semicondutores, que haviam subido rapidamente no curto prazo, passaram por uma correção acentuada. Investidores estrangeiros venderam cerca de 5 trilhões de won em termos líquidos, ampliando as perdas, e o receio de forte alta dos juros globais também pesou negativamente. Em contraste, ações do grupo LG tiveram desempenho diferenciado com a reavaliação da cadeia de valor ligada a robôs. A LG Electronics foi citada por sua força na última semana, mesmo em meio à fraqueza geral. Juros, fluxo estrangeiro e ajuste dos semicondutores seguem como variáveis. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "LG Electronics Aktie trotzt Black-Friday-Ausverkauf dank Neubewertung der Robotik-Kette",
+        "excerpt": "In einem scharfen Black-Friday-Rückgang korrigierten Halbleiterwerte nach kurzer Rally, Ausländer verkauften netto 5 Billionen Won, während LG Electronics und LG-Aktien von der Neubewertung der Robotik-Wertschöpfungskette profitierten.",
+        "body": "Die Aktie von LG Electronics fiel in einem als Black Friday bezeichneten schwachen Marktumfeld durch relative Stärke auf. Der Markt gab nach, nachdem er die Marke von 8.000 Punkten erreicht hatte, während Halbleiterwerte nach ihrem kurzfristig starken Anstieg eine deutliche Korrektur erlebten. Ausländische Investoren verkauften netto rund 5 Billionen Won und verstärkten damit den Rückgang. Auch Sorgen über schnell steigende globale Zinsen belasteten die Stimmung. Dagegen zeigten LG-Gruppenwerte eine abweichende Entwicklung, weil die Robotik-Wertschöpfungskette neu bewertet wurde. LG Electronics wurde wegen seiner Stärke in der vergangenen Woche hervorgehoben. Zinsen, ausländische Kapitalflüsse und die Halbleiterkorrektur bleiben wichtige Variablen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "LG Electronics résiste au Black Friday boursier grâce à la revalorisation robotique",
+        "excerpt": "Lors d’une forte baisse de marché, les semi-conducteurs ont corrigé après leur envolée et les étrangers ont vendu 5 billions de wons, tandis que LG Electronics et le groupe LG ont profité d’une revalorisation de la chaîne robotique.",
+        "body": "L’action LG Electronics a attiré l’attention en résistant dans un marché en forte baisse qualifié de Black Friday. Le marché a reculé après avoir atteint le niveau des 8.000 points, tandis que les valeurs de semi-conducteurs, qui avaient fortement monté à court terme, ont subi une correction marquée. Les investisseurs étrangers ont vendu pour environ 5 billions de wons en net, accentuant la baisse, et les inquiétudes liées à la hausse rapide des taux mondiaux ont également pesé. À l’inverse, les actions du groupe LG ont affiché une trajectoire différente grâce à la revalorisation de la chaîne de valeur liée aux robots. LG Electronics a été remarquée pour sa vigueur sur la semaine écoulée. Les taux, les flux étrangers et la correction des puces restent déterminants. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم إل جي إلكترونيكس يبرز وسط هبوط الجمعة السوداء مع إعادة تقييم سلسلة الروبوتات",
+        "excerpt": "في هبوط حاد وُصف بالجمعة السوداء، صححت أسهم أشباه الموصلات بعد صعود قصير، وباع الأجانب 5 تريليونات وون صافية، بينما دعمت إعادة تقييم سلسلة الروبوتات أسهم مجموعة إل جي.",
+        "body": "لفت سهم إل جي إلكترونيكس الأنظار بعدما أظهر قوة نسبية في سوق هابط وُصف بالجمعة السوداء. تراجع السوق بعد ملامسة مستوى 8000 نقطة، بينما دخلت أسهم أشباه الموصلات، التي ارتفعت بقوة في الأجل القصير، في تصحيح حاد. وباع المستثمرون الأجانب ما يقارب 5 تريليونات وون صافية، ما زاد من عمق الهبوط، كما شكلت المخاوف من الارتفاع السريع في أسعار الفائدة العالمية عاملا سلبيا. في المقابل، تحركت أسهم مجموعة إل جي بشكل مختلف مع بروز إعادة تقييم سلسلة القيمة المرتبطة بالروبوتات. وبرز سهم إل جي إلكترونيكس بقوته خلال الأسبوع الأخير رغم ضعف السوق العام. وتظل الفائدة وتدفقات الأجانب وتصحيح أشباه الموصلات عوامل رئيسية للمسار المقبل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "LG Electronics शेयर तेज गिरावट में भी मजबूत, रोबोट वैल्यू चेन रीरेटिंग पर नजर",
+        "excerpt": "ब्लैक फ्राइडे जैसी गिरावट में अल्पकालिक तेजी के बाद सेमीकंडक्टर शेयरों में तेज करेक्शन आया और विदेशी निवेशकों ने 5 ट्रिलियन वॉन की शुद्ध बिकवाली की, जबकि LG समूह के शेयर रोबोट वैल्यू चेन रीरेटिंग से टिके रहे।",
+        "body": "ब्लैक फ्राइडे कही गई तेज गिरावट वाली बाजार स्थिति में LG Electronics का शेयर सापेक्ष मजबूती दिखाते हुए निवेशकों के ध्यान में आया। बाजार 8,000 अंक के स्तर को छूने के बाद फिसला, जबकि कम समय में तेजी से चढ़े सेमीकंडक्टर शेयरों में तीखा करेक्शन दिखा। विदेशी निवेशकों ने करीब 5 ट्रिलियन वॉन की शुद्ध बिकवाली की, जिससे गिरावट और बढ़ी। वैश्विक ब्याज दरों में तेज बढ़ोतरी की चिंता भी नकारात्मक कारक रही। इसके उलट, LG समूह के शेयरों में रोबोट वैल्यू चेन के पुनर्मूल्यांकन से अलग चाल दिखी। LG Electronics का पिछले एक सप्ताह का मजबूत रुझान कमजोर बाजार में भी उल्लेखनीय रहा। आगे ब्याज दरें, विदेशी निवेश प्रवाह और सेमीकंडक्टर करेक्शन प्रमुख कारक रहेंगे। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Saham LG Electronics Menguat di Tengah Black Friday Bursa, Rantai Robot Dinilai Ulang",
+        "excerpt": "Dalam kejatuhan pasar yang disebut Black Friday, saham semikonduktor terkoreksi setelah reli singkat dan asing jual bersih 5 triliun won, sementara LG Electronics dan saham Grup LG ditopang revaluasi rantai robot.",
+        "body": "Saham LG Electronics menarik perhatian karena menunjukkan kekuatan relatif di tengah pasar yang melemah tajam dan disebut sebagai Black Friday. Pasar turun setelah menyentuh level 8.000 poin, sementara saham semikonduktor yang sebelumnya melonjak dalam jangka pendek mengalami koreksi tajam. Investor asing mencatat jual bersih sekitar 5 triliun won, memperbesar penurunan, dan kekhawatiran atas lonjakan suku bunga global juga menjadi sentimen negatif. Sebaliknya, saham Grup LG bergerak berbeda karena revaluasi rantai nilai robot mulai disorot. LG Electronics disebut menguat dalam sepekan terakhir meski pasar secara umum lemah. Ke depan, suku bunga, arus dana asing, dan koreksi semikonduktor tetap menjadi variabel utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d371d5124298",
     "slug": "전쟁發-벌크-운임-급등에-팬오션-주가-올해-56-쑥-125260",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Pemenang AI Bisa Ada di Luar Semikonduktor, Kata Kang Bang-chun",
         "excerpt": "Kang Bang-chun, pendiri AssetPlus Investment Management, membahas penerima manfaat AI dan diagnosis pasar dalam seri investor MaeKyung Plus.",
         "body": "Kang Bang-chun, pendiri AssetPlus Investment Management, diperkenalkan sebagai tokoh pertama dalam seri MaeKyung Plus “Investor Hebat Korea” dan menyampaikan diagnosis tentang penerima manfaat AI serta arus pasar. Artikel asli menggambarkannya sebagai legenda hidup di industri investasi Korea dan menyebut bahwa ia juga pernah disorot oleh jurnal keuangan Amerika Serikat. Bagian ketiga ini bertema diagnosis pasar dan membahas sektor yang mungkin menjadi penerima manfaat nyata dari AI, tetapi tertutup oleh perhatian pada semikonduktor. Saat minat investasi terkait AI terpusat pada saham dan sektor tertentu, pandangan Kang mengajukan pertanyaan apakah pelaku pasar perlu memeriksa struktur penerima manfaat secara lebih luas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "edf2846ea3a4",
-    "slug": "하이닉스-이어-카카오까지미국-adr로-눈-돌린-까닭-572104",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T18:41:23.446Z",
-    "updatedAt": "2026-05-14T18:41:23.446Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472451",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472451",
-    "titleFingerprint": "06a2608202366b18c42b1da85c7f3fa2110dbc68",
-    "dedupKeys": [
-      "edf2846ea3a49d3dfcc01e496c5c9aed273e1959",
-      "06a2608202366b18c42b1da85c7f3fa2110dbc68",
-      "9d1d236ff6061d82a7266a99c1f2568b4b78126b"
-    ],
-    "imageUrl": "/images/articles/edf2846ea3a4.png",
-    "i18n": {
-      "ko": {
-        "title": "카카오도 미국 ADR 검토, 하이닉스 이어 해외 투자자 접점 넓히나",
-        "excerpt": "카카오가 SK하이닉스에 이어 미국 ADR로 투자자 접점을 넓히는 방안을 주목받고 있다. 국내 기업들이 해외 자본시장 접근성을 높이려는 흐름이 배경이다.",
-        "body": "카카오가 SK하이닉스에 이어 미국 ADR에 눈을 돌린 배경이 주목받고 있다. 미국 ADR은 해외 투자자가 현지 시장에서 외국 기업 주식을 보다 쉽게 거래할 수 있도록 하는 방식으로, 국내 기업 입장에서는 글로벌 투자자와의 접점을 넓히는 수단이 될 수 있다. 원문은 하이닉스에 이어 카카오까지 미국 ADR에 관심을 보이는 이유를 다뤘다. 이는 국내 주요 기업들이 해외 자본시장 접근성과 투자자 기반 확대를 고민하고 있음을 보여준다. 다만 구체적인 추진 일정이나 조건은 원문 제목과 출처 정보에서 확인되지 않았다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Kakao Looks Toward U.S. ADRs After Hynix as Investor Access Gains Focus",
-        "excerpt": "Kakao is drawing attention for looking at U.S. ADRs after SK Hynix, reflecting Korean companies’ interest in broadening access to global investors.",
-        "body": "Kakao is drawing attention for turning its focus to U.S. ADRs after SK Hynix. An American depositary receipt allows overseas investors to trade foreign company shares more easily in the local U.S. market, and for Korean companies it can serve as a way to expand contact with global investors. The original report examined why Kakao, following Hynix, is looking toward U.S. ADRs. The move highlights how major Korean companies are considering broader access to overseas capital markets and a wider investor base. Specific timelines or conditions were not confirmed in the provided source information. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "カカオも米国ADRに注目、ハイニックスに続き投資家接点拡大か",
-        "excerpt": "カカオがSKハイニックスに続き米国ADRに目を向けている点が注目されている。韓国企業が海外投資家との接点拡大を模索する流れが背景にある。",
-        "body": "カカオがSKハイニックスに続いて米国ADRに目を向ける背景が注目されている。米国ADRは、海外投資家が米国市場で外国企業の株式をより取引しやすくする仕組みで、韓国企業にとってはグローバル投資家との接点を広げる手段になり得る。原文は、ハイニックスに続きカカオまで米国ADRに関心を示す理由を扱った。これは韓国の主要企業が海外資本市場へのアクセスと投資家基盤の拡大を検討していることを示す。ただし、具体的な推進時期や条件は提供された情報では確認されていない。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "继海力士后Kakao关注美国ADR，海外投资者通道受瞩目",
-        "excerpt": "Kakao继SK海力士之后关注美国ADR，引发市场注意。韩国企业希望扩大海外资本市场可及性和全球投资者接触面。",
-        "body": "Kakao继SK海力士之后把目光投向美国ADR，其背景受到关注。美国ADR是一种让海外投资者能够在美国本地市场更便捷交易外国企业股票的机制，对韩国企业而言，可成为扩大与全球投资者接触的方式。原文讨论了继海力士之后，Kakao也关注美国ADR的原因。这显示韩国主要企业正在思考如何提高海外资本市场可及性并扩大投资者基础。不过，根据所提供的标题和来源信息，具体推进时间或条件尚未得到确认。来源：hankyung.com."
-      },
-      "es": {
-        "title": "Kakao mira a los ADR en EE. UU. tras Hynix para ampliar acceso inversor",
-        "excerpt": "Kakao capta atención al mirar los ADR en EE. UU. después de SK Hynix, en medio del interés de empresas coreanas por llegar a más inversores globales.",
-        "body": "Kakao está llamando la atención por dirigir su mirada a los ADR en Estados Unidos después de SK Hynix. Un ADR permite que los inversores extranjeros negocien con mayor facilidad acciones de compañías no estadounidenses en el mercado local, y para las empresas coreanas puede ser una vía para ampliar el contacto con inversores globales. El texto original abordó por qué Kakao, tras Hynix, muestra interés en los ADR estadounidenses. Esto refleja que grandes compañías coreanas evalúan mejorar su acceso a los mercados de capitales del exterior y ampliar su base inversora. No se confirmaron plazos ni condiciones concretas en la información proporcionada. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Kakao mira ADRs nos EUA após Hynix para ampliar contato com investidores",
-        "excerpt": "A Kakao chama atenção ao olhar para ADRs nos EUA depois da SK Hynix, refletindo o interesse de empresas coreanas em ampliar acesso a investidores globais.",
-        "body": "A Kakao chama atenção por voltar seu foco aos ADRs nos Estados Unidos depois da SK Hynix. Um ADR permite que investidores estrangeiros negociem com mais facilidade ações de empresas de outros países no mercado norte-americano, e para companhias coreanas pode servir como forma de ampliar o contato com investidores globais. A reportagem original tratou do motivo pelo qual a Kakao, após a Hynix, observa os ADRs dos EUA. Isso mostra que grandes empresas coreanas avaliam ampliar o acesso aos mercados de capitais externos e sua base de investidores. Prazos ou condições específicas não foram confirmados nas informações fornecidas. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Kakao blickt nach Hynix auf US-ADRs und sucht breiteren Investorenzugang",
-        "excerpt": "Kakao rückt nach SK Hynix mit Blick auf US-ADRs in den Fokus. Dahinter steht das Interesse koreanischer Firmen an mehr Zugang zu globalen Investoren.",
-        "body": "Kakao steht im Fokus, weil das Unternehmen nach SK Hynix den Blick auf US-ADRs richtet. Ein American Depositary Receipt ermöglicht es ausländischen Investoren, Aktien ausländischer Unternehmen leichter am US-Markt zu handeln. Für koreanische Unternehmen kann dies ein Mittel sein, den Kontakt zu globalen Investoren zu erweitern. Der ursprüngliche Bericht behandelte, warum nach Hynix auch Kakao Interesse an US-ADRs zeigt. Das verweist darauf, dass große koreanische Unternehmen über besseren Zugang zu ausländischen Kapitalmärkten und eine breitere Investorenbasis nachdenken. Konkrete Zeitpläne oder Bedingungen wurden in den bereitgestellten Informationen nicht bestätigt. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Kakao regarde les ADR américains après Hynix pour élargir l’accès investisseurs",
-        "excerpt": "Kakao attire l’attention en s’intéressant aux ADR américains après SK Hynix, signe de l’intérêt des entreprises coréennes pour les investisseurs mondiaux.",
-        "body": "Kakao attire l’attention en tournant son regard vers les ADR américains après SK Hynix. Un ADR permet aux investisseurs étrangers de négocier plus facilement les actions d’une société étrangère sur le marché américain, et peut offrir aux entreprises coréennes un moyen d’élargir leurs contacts avec les investisseurs mondiaux. L’article original expliquait pourquoi Kakao, après Hynix, s’intéresse aux ADR américains. Cela montre que de grandes entreprises coréennes réfléchissent à un meilleur accès aux marchés de capitaux étrangers et à l’élargissement de leur base d’investisseurs. Aucun calendrier ni condition précise n’a été confirmé dans les informations fournies. Source : hankyung.com."
-      },
-      "ar": {
-        "title": "كاكاو تتجه إلى شهادات ADR الأميركية بعد هاينكس لتوسيع قاعدة المستثمرين",
-        "excerpt": "تجذب كاكاو الانتباه مع اهتمامها بشهادات ADR الأميركية بعد SK Hynix، في ظل سعي شركات كورية لتوسيع الوصول إلى المستثمرين العالميين.",
-        "body": "تجذب كاكاو الانتباه بعدما اتجهت إلى النظر في شهادات الإيداع الأميركية ADR عقب SK Hynix. تتيح هذه الشهادات للمستثمرين الأجانب تداول أسهم الشركات غير الأميركية بسهولة أكبر في السوق الأميركية، ويمكن أن تكون وسيلة للشركات الكورية لتوسيع التواصل مع المستثمرين العالميين. تناول النص الأصلي سبب اهتمام كاكاو، بعد هاينكس، بشهادات ADR الأميركية. ويعكس ذلك أن شركات كورية كبرى تدرس تحسين الوصول إلى أسواق رأس المال الخارجية وتوسيع قاعدة المستثمرين. ولم تؤكد المعلومات المتاحة جدولا زمنيا أو شروطا محددة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Hynix के बाद Kakao की नजर अमेरिकी ADR पर, वैश्विक निवेशक पहुंच पर जोर",
-        "excerpt": "SK Hynix के बाद Kakao का अमेरिकी ADR की ओर ध्यान आकर्षित कर रहा है। कोरियाई कंपनियां वैश्विक निवेशकों तक पहुंच बढ़ाने के विकल्प देख रही हैं।",
-        "body": "SK Hynix के बाद Kakao का अमेरिकी ADR की ओर ध्यान जाना चर्चा में है। American Depositary Receipt विदेशी निवेशकों को अमेरिकी बाजार में विदेशी कंपनियों के शेयर अपेक्षाकृत आसानी से खरीदने-बेचने की सुविधा देता है। कोरियाई कंपनियों के लिए यह वैश्विक निवेशकों से संपर्क बढ़ाने का एक माध्यम हो सकता है। मूल लेख में बताया गया कि Hynix के बाद Kakao तक अमेरिकी ADR पर क्यों ध्यान दे रही है। यह संकेत देता है कि प्रमुख कोरियाई कंपनियां विदेशी पूंजी बाजारों तक पहुंच और निवेशक आधार बढ़ाने पर विचार कर रही हैं। उपलब्ध जानकारी में किसी ठोस समयसीमा या शर्त की पुष्टि नहीं है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Kakao Lirik ADR AS Setelah Hynix untuk Perluas Akses Investor Global",
-        "excerpt": "Kakao menjadi sorotan karena melirik ADR AS setelah SK Hynix, mencerminkan minat perusahaan Korea memperluas akses ke investor global.",
-        "body": "Kakao menjadi sorotan karena mengarahkan perhatian ke ADR AS setelah SK Hynix. American depositary receipt memungkinkan investor luar negeri memperdagangkan saham perusahaan asing dengan lebih mudah di pasar Amerika Serikat, dan bagi perusahaan Korea dapat menjadi cara untuk memperluas kontak dengan investor global. Artikel asli membahas alasan Kakao, setelah Hynix, ikut menaruh perhatian pada ADR AS. Hal ini menunjukkan bahwa perusahaan besar Korea mempertimbangkan akses yang lebih luas ke pasar modal luar negeri dan perluasan basis investor. Namun, jadwal atau ketentuan spesifik tidak terkonfirmasi dari informasi yang tersedia. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "3d7a89f6d347",
-    "slug": "카카오모빌리티-美-adr-연내-상장-추진-125095",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T18:40:29.916Z",
-    "updatedAt": "2026-05-14T18:40:29.916Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472421",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472421",
-    "titleFingerprint": "16878d3d5c136e9249d88715973081de07ba93b6",
-    "dedupKeys": [
-      "3d7a89f6d3470fb8257989a8d052ad6ff8655ad6",
-      "16878d3d5c136e9249d88715973081de07ba93b6",
-      "17bc9a9641204bc797873ecd0257ca88c1d0921a"
-    ],
-    "imageUrl": "/images/articles/3d7a89f6d347.jpg",
-    "i18n": {
-      "ko": {
-        "title": "카카오모빌리티, 미국 ADR 연내 상장 추진…글로벌 투자자 접점 확대 주목",
-        "excerpt": "카카오모빌리티가 올해 안에 미국 ADR 상장을 추진한다고 한국경제가 보도했다. 국내 모빌리티 플랫폼의 해외 자본시장 접근 시도라는 점에서 투자자들의 관심이 모인다.",
-        "body": "카카오모빌리티가 올해 안에 미국 ADR 상장을 추진한다고 hankyung.com이 보도했다. 보도에 따르면 이번 사안의 핵심은 카카오모빌리티가 미국 시장에서 ADR 방식의 상장을 준비하고 있다는 점이다. ADR은 해외 기업 주식을 미국 시장에서 거래할 수 있도록 한 증권 형태로, 해외 투자자와의 접점을 넓히는 수단으로 활용된다. 다만 원문에 구체적인 일정, 공모 규모, 주관사, 상장 절차의 세부 내용은 제시되지 않았다. 이번 추진은 국내 모빌리티 기업이 미국 자본시장 접근을 검토하는 사례로 해석될 수 있다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Kakao Mobility Seeks U.S. ADR Listing This Year, Drawing Market Attention",
-        "excerpt": "Kakao Mobility is pursuing a U.S. ADR listing within this year, according to Hankyung.com, highlighting a Korean mobility platform’s move to access overseas capital markets.",
-        "body": "Kakao Mobility is seeking to list American Depositary Receipts in the United States within this year, according to hankyung.com. The key point of the report is that the company is preparing a U.S. market listing through the ADR structure. ADRs allow shares of foreign companies to be traded in the U.S. market and are often used to broaden access to overseas investors. The original report did not provide specific details such as the timetable, offering size, underwriters, or procedural steps. The move can be read as a Korean mobility company exploring access to the U.S. capital market. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "カカオモビリティ、年内に米ADR上場を推進…海外投資家との接点拡大へ",
-        "excerpt": "カカオモビリティが年内に米国ADR上場を推進していると韓国経済が報じた。韓国のモビリティプラットフォームによる海外資本市場への接近として注目される。",
-        "body": "カカオモビリティが年内に米国ADR上場を推進しているとhankyung.comが報じた。報道の要点は、同社がADR方式で米国市場への上場を準備しているという点だ。ADRは外国企業の株式を米国市場で取引できるようにする証券の形態で、海外投資家との接点を広げる手段として使われる。原文では具体的な日程、募集規模、主幹事、上場手続きの詳細は示されていない。今回の動きは、韓国のモビリティ企業が米国資本市場へのアクセスを検討する事例といえる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "Kakao Mobility推进年内赴美ADR上市，海外投资者关注升温",
-        "excerpt": "据韩国经济报道，Kakao Mobility正推进今年内在美国以ADR方式上市。此举显示韩国出行平台正在尝试接触海外资本市场，引发投资者关注。",
-        "body": "据hankyung.com报道，Kakao Mobility正推进今年内在美国发行并上市ADR。报道的核心在于，该公司正在准备通过ADR结构进入美国市场。ADR即美国存托凭证，是让外国公司股票可在美国市场交易的一种证券形式，常被用于扩大与海外投资者的接触。原文未披露具体时间表、发行规模、承销商或上市程序细节。此次推进可被视为韩国出行企业探索进入美国资本市场的案例。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Kakao Mobility busca cotizar ADR en EE. UU. este año y atrae atención inversora",
-        "excerpt": "Kakao Mobility impulsa una cotización ADR en Estados Unidos antes de fin de año, según Hankyung.com, en un intento de una plataforma coreana de movilidad por acceder a capital extranjero.",
-        "body": "Kakao Mobility está impulsando una cotización de ADR en Estados Unidos dentro de este año, según informó hankyung.com. El punto central del reporte es que la empresa prepara su entrada al mercado estadounidense mediante la estructura ADR. Los ADR permiten que acciones de compañías extranjeras se negocien en el mercado de EE. UU. y se utilizan para ampliar el acceso a inversores internacionales. El texto original no ofreció detalles sobre calendario, tamaño de la oferta, bancos colocadores ni pasos del proceso. La iniciativa puede entenderse como un caso de una firma coreana de movilidad que explora el acceso al mercado de capitales estadounidense. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Kakao Mobility busca listagem ADR nos EUA ainda este ano e chama atenção",
-        "excerpt": "A Kakao Mobility está buscando uma listagem ADR nos Estados Unidos ainda este ano, segundo o Hankyung.com, em movimento de uma plataforma coreana de mobilidade rumo ao mercado externo.",
-        "body": "A Kakao Mobility está buscando uma listagem de ADR nos Estados Unidos ainda este ano, segundo informou o hankyung.com. O ponto central da notícia é que a empresa prepara uma entrada no mercado americano por meio da estrutura de ADR. ADRs permitem que ações de empresas estrangeiras sejam negociadas nos EUA e costumam ser usados para ampliar o acesso a investidores internacionais. A reportagem original não trouxe detalhes sobre cronograma, tamanho da oferta, coordenadores ou etapas do processo. O movimento pode ser visto como uma empresa coreana de mobilidade avaliando acesso ao mercado de capitais dos EUA. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Kakao Mobility plant US-ADR-Listing noch in diesem Jahr und rückt in den Fokus",
-        "excerpt": "Kakao Mobility strebt laut Hankyung.com noch in diesem Jahr ein ADR-Listing in den USA an. Damit rückt der Zugang einer koreanischen Mobilitätsplattform zu ausländischen Kapitalmärkten in den Blick.",
-        "body": "Kakao Mobility strebt noch in diesem Jahr ein Listing von American Depositary Receipts in den USA an, wie hankyung.com berichtete. Kern der Meldung ist, dass das Unternehmen einen Börsengang am US-Markt über die ADR-Struktur vorbereitet. ADRs ermöglichen den Handel mit Aktien ausländischer Unternehmen am US-Markt und dienen häufig dazu, den Zugang zu internationalen Investoren zu erweitern. Der Originalbericht nannte keine konkreten Angaben zu Zeitplan, Emissionsvolumen, Konsortialbanken oder Verfahrensschritten. Der Schritt kann als Prüfung eines Zugangs zum US-Kapitalmarkt durch ein koreanisches Mobilitätsunternehmen verstanden werden. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Kakao Mobility vise une cotation ADR aux États-Unis cette année, le marché attentif",
-        "excerpt": "Kakao Mobility cherche à obtenir une cotation ADR aux États-Unis d’ici la fin de l’année, selon Hankyung.com, signe d’un accès envisagé par une plateforme coréenne de mobilité aux capitaux étrangers.",
-        "body": "Kakao Mobility cherche à coter des American Depositary Receipts aux États-Unis d’ici la fin de l’année, selon hankyung.com. Le point central du reportage est que l’entreprise prépare une entrée sur le marché américain via la structure ADR. Les ADR permettent aux actions d’entreprises étrangères d’être négociées sur le marché américain et servent souvent à élargir l’accès aux investisseurs internationaux. Le texte d’origine ne précise pas le calendrier, le montant de l’offre, les banques chefs de file ni les étapes de la procédure. Cette initiative peut être comprise comme l’examen par une entreprise coréenne de mobilité d’un accès au marché des capitaux américain. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "كاكاو موبيليتي تسعى لإدراج ADR في أميركا هذا العام وسط اهتمام المستثمرين",
-        "excerpt": "تسعى كاكاو موبيليتي إلى إدراج شهادات إيداع أميركية ADR في الولايات المتحدة خلال هذا العام، وفق hankyung.com، في خطوة تبرز محاولة منصة تنقل كورية الوصول إلى أسواق رأس المال الخارجية.",
-        "body": "تسعى كاكاو موبيليتي إلى إدراج شهادات إيداع أميركية في الولايات المتحدة خلال هذا العام، وفق ما أورد موقع hankyung.com. وتتمثل النقطة الأساسية في أن الشركة تستعد لدخول السوق الأميركية عبر هيكل ADR. وتتيح شهادات الإيداع الأميركية تداول أسهم الشركات الأجنبية في السوق الأميركية، وغالبا ما تستخدم لتوسيع الوصول إلى المستثمرين في الخارج. ولم يذكر النص الأصلي تفاصيل محددة بشأن الجدول الزمني أو حجم الطرح أو الجهات المديرة أو خطوات الإدراج. ويمكن فهم هذه الخطوة بوصفها حالة تدرس فيها شركة تنقل كورية الوصول إلى سوق رأس المال الأميركية. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Kakao Mobility इस साल अमेरिकी ADR लिस्टिंग की तैयारी में, निवेशकों की नजर",
-        "excerpt": "Hankyung.com के अनुसार Kakao Mobility इस साल के भीतर अमेरिका में ADR लिस्टिंग आगे बढ़ा रही है। यह कोरियाई मोबिलिटी प्लेटफॉर्म की विदेशी पूंजी बाजार तक पहुंच की कोशिश को दिखाता है।",
-        "body": "hankyung.com के अनुसार Kakao Mobility इस साल के भीतर अमेरिका में American Depositary Receipts की लिस्टिंग आगे बढ़ा रही है। रिपोर्ट का मुख्य बिंदु यह है कि कंपनी ADR ढांचे के जरिए अमेरिकी बाजार में लिस्टिंग की तैयारी कर रही है। ADR विदेशी कंपनियों के शेयरों को अमेरिकी बाजार में कारोबार योग्य बनाने वाली प्रतिभूति है और इसका उपयोग विदेशी निवेशकों तक पहुंच बढ़ाने के लिए किया जाता है। मूल रिपोर्ट में समय-सारिणी, ऑफर आकार, अंडरराइटर या लिस्टिंग प्रक्रिया के विस्तृत चरण नहीं दिए गए। यह कदम कोरियाई मोबिलिटी कंपनी द्वारा अमेरिकी पूंजी बाजार तक पहुंच तलाशने के रूप में देखा जा सकता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Kakao Mobility Kejar Listing ADR AS Tahun Ini, Akses Investor Global Disorot",
-        "excerpt": "Kakao Mobility mendorong listing ADR di Amerika Serikat tahun ini, menurut Hankyung.com, menandai upaya platform mobilitas Korea menjangkau pasar modal luar negeri.",
-        "body": "Kakao Mobility mendorong listing American Depositary Receipts di Amerika Serikat dalam tahun ini, menurut laporan hankyung.com. Inti laporan tersebut adalah bahwa perusahaan menyiapkan pencatatan di pasar AS melalui struktur ADR. ADR memungkinkan saham perusahaan asing diperdagangkan di pasar AS dan kerap digunakan untuk memperluas akses ke investor luar negeri. Laporan asli tidak menyebutkan rincian khusus mengenai jadwal, ukuran penawaran, penjamin emisi, atau tahapan prosedur listing. Langkah ini dapat dipahami sebagai contoh perusahaan mobilitas Korea yang menjajaki akses ke pasar modal AS. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "d160725874e8",
-    "slug": "증시랠리-올라탄-국민연금보름-만에-50조-더-벌었다-529715",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T18:39:28.542Z",
-    "updatedAt": "2026-05-14T18:39:28.542Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472511",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472511",
-    "titleFingerprint": "e68ea62643268f8d907e1a006571026a83d3377c",
-    "dedupKeys": [
-      "d160725874e88fd8ac03e304cf67da1b5a34a7fe",
-      "e68ea62643268f8d907e1a006571026a83d3377c",
-      "4a621625e44b1451936aedbbb5d042b9fc17f944"
-    ],
-    "imageUrl": "/images/articles/d160725874e8.png",
-    "i18n": {
-      "ko": {
-        "title": "국민연금, 글로벌 증시 랠리 올라타 보름 만에 50조원 더 벌었다",
-        "excerpt": "국민연금이 글로벌 증시 랠리에 힘입어 보름 만에 50조원 규모의 추가 수익을 거뒀다고 한국경제가 2026년 5월 14일 보도했다.",
-        "body": "국민연금이 최근 글로벌 증시 랠리에 올라타 보름 만에 50조원을 추가로 벌어들인 것으로 전해졌다. 한국경제는 2026년 5월 14일 국민연금의 운용 성과가 증시 강세 흐름과 맞물려 빠르게 불어났다고 보도했다. 배경에는 미국을 중심으로 인공지능(AI) 관련 기술주가 견조한 흐름을 이어간 점이 있다. 여기에 주요국 금리 인하 기대와 기업 실적 개선 전망이 글로벌 증시에 우호적으로 작용했다. 이번 수익 증가는 국민연금 기금 운용이 주식시장 흐름에 크게 영향을 받을 수 있음을 보여준다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "National Pension Service gains 50 trillion won in 15 days on global stock rally",
-        "excerpt": "South Korea’s National Pension Service earned an additional 50 trillion won in about 15 days, helped by a global equity rally, Hankyung reported on May 14, 2026.",
-        "body": "South Korea’s National Pension Service reportedly earned an additional 50 trillion won in just about 15 days as it benefited from the recent global stock market rally. Hankyung reported on May 14, 2026, that the fund’s investment performance grew rapidly in line with stronger equity markets. The backdrop was continued strength in U.S.-led artificial intelligence technology stocks. Expectations for interest-rate cuts in major economies and hopes for better corporate earnings also supported global markets. The gain shows how closely the pension fund’s returns can move with stock market trends. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "国民年金、世界株高に乗り15日で50兆ウォンを追加獲得",
-        "excerpt": "韓国の国民年金が世界的な株式市場の上昇を受け、約15日で50兆ウォン規模の追加収益を得たと、韓国経済新聞が2026年5月14日に報じた。",
-        "body": "韓国の国民年金が最近の世界的な株式市場の上昇に乗り、約15日で50兆ウォンを追加で稼いだと伝えられた。韓国経済新聞は2026年5月14日、国民年金の運用成果が株高の流れと連動して急速に拡大したと報じた。背景には、米国を中心に人工知能（AI）関連のハイテク株が堅調に推移したことがある。さらに主要国の利下げ期待や企業業績の改善見通しも、世界の株式市場に追い風となった。今回の収益増は、国民年金の運用成果が株式市場の動きに大きく左右され得ることを示している。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国国民年金搭上全球股市涨势，15天增赚50万亿韩元",
-        "excerpt": "韩国国民年金受益于全球股市上涨，约15天内新增收益达50万亿韩元，韩国经济新闻于2026年5月14日报道了这一消息。",
-        "body": "韩国国民年金近期搭上全球股市上涨行情，据称约15天内新增收益达50万亿韩元。韩国经济新闻2026年5月14日报道称，随着股市走强，国民年金的投资运营成果迅速扩大。其背景包括以美国为中心的人工智能相关科技股持续表现稳健。与此同时，主要经济体降息预期以及企业业绩改善展望，也对全球股市形成有利影响。此次收益增长显示，国民年金的基金运营成果可能明显受到股票市场走势影响。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El fondo nacional de pensiones de Corea gana 50 billones de wones en 15 días",
-        "excerpt": "El Servicio Nacional de Pensiones de Corea obtuvo 50 billones de wones adicionales en unos 15 días gracias al repunte bursátil global, informó Hankyung el 14 de mayo de 2026.",
-        "body": "El Servicio Nacional de Pensiones de Corea del Sur habría obtenido 50 billones de wones adicionales en apenas unos 15 días al beneficiarse del reciente repunte de las bolsas globales. Hankyung informó el 14 de mayo de 2026 que el desempeño de inversión del fondo creció rápidamente junto con la fortaleza de los mercados accionarios. El contexto incluye la solidez de las acciones tecnológicas vinculadas a la inteligencia artificial, especialmente en Estados Unidos. También ayudaron las expectativas de recortes de tasas en las principales economías y las perspectivas de mejora en las ganancias corporativas. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo nacional de pensões da Coreia ganha 50 trilhões de won em 15 dias",
-        "excerpt": "O Serviço Nacional de Pensões da Coreia obteve mais 50 trilhões de won em cerca de 15 dias, impulsionado pela alta global das bolsas, informou o Hankyung em 14 de maio de 2026.",
-        "body": "O Serviço Nacional de Pensões da Coreia do Sul teria ganho mais 50 trilhões de won em apenas cerca de 15 dias ao se beneficiar da recente alta dos mercados acionários globais. O Hankyung informou em 14 de maio de 2026 que o desempenho dos investimentos do fundo cresceu rapidamente em meio à força das bolsas. O pano de fundo foi a continuidade do bom desempenho das ações de tecnologia ligadas à inteligência artificial, lideradas pelos Estados Unidos. Expectativas de cortes de juros nas principais economias e perspectivas de melhora nos lucros corporativos também favoreceram os mercados globais. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Koreas Pensionsfonds verdient dank globaler Aktienrallye 50 Billionen Won in 15 Tagen",
-        "excerpt": "Der südkoreanische National Pension Service erzielte binnen rund 15 Tagen zusätzliche 50 Billionen Won, gestützt durch die globale Aktienrallye, berichtete Hankyung am 14. Mai 2026.",
-        "body": "Der südkoreanische National Pension Service hat Berichten zufolge innerhalb von rund 15 Tagen zusätzliche 50 Billionen Won verdient, getragen von der jüngsten Rallye an den globalen Aktienmärkten. Hankyung berichtete am 14. Mai 2026, dass sich die Anlageergebnisse des Fonds parallel zur Stärke der Börsen rasch verbessert hätten. Hintergrund war die anhaltend robuste Entwicklung von Technologiewerten rund um künstliche Intelligenz, vor allem in den USA. Erwartungen auf Zinssenkungen in wichtigen Ländern und Aussichten auf bessere Unternehmensergebnisse wirkten ebenfalls stützend auf die globalen Märkte. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le fonds national de pension coréen gagne 50 billions de wons en 15 jours",
-        "excerpt": "Le National Pension Service sud-coréen a gagné 50 billions de wons supplémentaires en environ 15 jours grâce au rally boursier mondial, a rapporté Hankyung le 14 mai 2026.",
-        "body": "Le National Pension Service sud-coréen aurait gagné 50 billions de wons supplémentaires en environ 15 jours, porté par le récent rally des marchés actions mondiaux. Hankyung a rapporté le 14 mai 2026 que la performance d’investissement du fonds avait rapidement progressé dans le sillage de la hausse des Bourses. Le contexte tient notamment à la solidité persistante des valeurs technologiques liées à l’intelligence artificielle, surtout aux États-Unis. Les attentes de baisse des taux dans les grandes économies et les perspectives d’amélioration des résultats d’entreprises ont aussi soutenu les marchés mondiaux. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق التقاعد الوطني الكوري يربح 50 تريليون وون خلال 15 يوما بدعم الأسهم",
-        "excerpt": "حقق صندوق التقاعد الوطني في كوريا الجنوبية 50 تريليون وون إضافية خلال نحو 15 يوما مستفيدا من صعود الأسهم العالمية، وفق ما ذكرته هانكيونغ في 14 مايو 2026.",
-        "body": "أفادت تقارير بأن صندوق التقاعد الوطني في كوريا الجنوبية حقق 50 تريليون وون إضافية خلال نحو 15 يوما، مستفيدا من موجة الصعود الأخيرة في أسواق الأسهم العالمية. وذكرت هانكيونغ في 14 مايو 2026 أن أداء استثمارات الصندوق نما بسرعة مع قوة أسواق الأسهم. وجاء ذلك في ظل استمرار الأداء المتماسك لأسهم التكنولوجيا المرتبطة بالذكاء الاصطناعي، ولا سيما في الولايات المتحدة. كما دعمت توقعات خفض أسعار الفائدة في الاقتصادات الكبرى وآفاق تحسن أرباح الشركات الأسواق العالمية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "कोरिया के राष्ट्रीय पेंशन फंड ने वैश्विक शेयर रैली से 15 दिन में 50 ट्रिलियन वॉन कमाए",
-        "excerpt": "दक्षिण कोरिया के नेशनल पेंशन सर्विस ने वैश्विक शेयर बाजारों की तेजी से लगभग 15 दिनों में 50 ट्रिलियन वॉन की अतिरिक्त कमाई की, Hankyung ने 14 मई 2026 को रिपोर्ट किया।",
-        "body": "दक्षिण कोरिया के नेशनल पेंशन सर्विस ने हालिया वैश्विक शेयर बाजार रैली का लाभ उठाते हुए लगभग 15 दिनों में 50 ट्रिलियन वॉन की अतिरिक्त कमाई की है। Hankyung ने 14 मई 2026 को बताया कि मजबूत शेयर बाजारों के साथ फंड का निवेश प्रदर्शन तेजी से बढ़ा। इसके पीछे अमेरिका केंद्रित कृत्रिम बुद्धिमत्ता से जुड़ी टेक्नोलॉजी कंपनियों के शेयरों की स्थिर मजबूती रही। प्रमुख देशों में ब्याज दर कटौती की उम्मीदों और कंपनियों की आय में सुधार की संभावनाओं ने भी वैश्विक बाजारों को समर्थन दिया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana pensiun nasional Korea meraih 50 triliun won dalam 15 hari berkat reli saham",
-        "excerpt": "National Pension Service Korea Selatan meraih tambahan 50 triliun won dalam sekitar 15 hari karena reli pasar saham global, menurut laporan Hankyung pada 14 Mei 2026.",
-        "body": "National Pension Service Korea Selatan dilaporkan meraih tambahan 50 triliun won hanya dalam sekitar 15 hari setelah ikut terdorong reli pasar saham global baru-baru ini. Hankyung melaporkan pada 14 Mei 2026 bahwa kinerja investasi dana tersebut tumbuh cepat seiring penguatan pasar saham. Latar belakangnya adalah saham teknologi terkait kecerdasan buatan, terutama di Amerika Serikat, yang tetap bergerak kuat. Ekspektasi pemangkasan suku bunga di negara-negara utama dan prospek perbaikan laba perusahaan juga menjadi faktor positif bagi pasar global. Sumber: hankyung.com"
       }
     }
   }
