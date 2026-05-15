@@ -1,5 +1,230 @@
 [
   {
+    "id": "61e0e3756155",
+    "slug": "미국-물가가-한국-반도체-발목잡는다위험신호-도미노처럼-온다는데-오늘-나온-보고서-879127",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T15:25:20.100Z",
+    "updatedAt": "2026-05-15T15:25:20.100Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048723",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048723",
+    "titleFingerprint": "2179938127fd07293c6e87dfda4cae8d00d0332f",
+    "dedupKeys": [
+      "61e0e375615596c1dac14b3cb1c9df7a35bd189d",
+      "2179938127fd07293c6e87dfda4cae8d00d0332f",
+      "3e0344bf4266ff6581c05e15d79043149857580c"
+    ],
+    "imageUrl": "/images/articles/61e0e3756155.png",
+    "i18n": {
+      "ko": {
+        "title": "미국 CPI 3.8% 급등, 한국 반도체 투자심리 흔드는 금리·신용 위험신호",
+        "excerpt": "4월 미국 CPI가 3.8% 오르고 근원물가도 들썩이면서 연준의 금리 인상 판단이 어려워지고, 한국 반도체 투자심리에도 악재가 될 수 있다는 보고서가 나왔다.",
+        "body": "4월 미국 소비자물가지수(CPI)가 전년 대비 3.8% 상승하고 근원물가도 불안한 흐름을 보이면서 한국 반도체 업종 투자심리에 부담이 커지고 있다는 분석이 나왔다. 보고서는 양극화된 미국 경제 상황에서 연준이 금리 인상 여부를 판단하기 어려운 국면에 놓였다고 짚었다. 미국과 이란 전쟁 여파로 촉발된 유가 급등 이후에는 장단기 금리차 확대 가능성도 제기됐다. 여기에 미국 신용위험이 높아질 경우 위험자산 선호가 약해져 반도체 투자심리에 악재가 될 수 있다는 설명이다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "US CPI Jump to 3.8% Raises Rate and Credit Risks for Korean Chip Sentiment",
+        "excerpt": "A report said April US CPI rose 3.8% and core prices also moved higher, complicating the Fed’s rate decision and weighing on investor sentiment toward Korean semiconductor stocks.",
+        "body": "A report said Korean semiconductor investor sentiment is facing pressure after the US consumer price index rose 3.8% year on year in April and core inflation also showed signs of strain. The report noted that a polarized US economy is making it difficult for the Federal Reserve to judge whether to raise interest rates. It also pointed to a possible widening of the yield spread after the oil price surge triggered by the aftermath of the US-Iran war. If US credit risk rises further, preference for risk assets could weaken, creating a negative factor for semiconductor investment sentiment. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "米CPI3.8％上昇、韓国半導体の投資心理を揺らす金利・信用リスク",
+        "excerpt": "4月の米CPIが3.8％上昇し、コア物価も不安定な動きを見せたことで、FRBの利上げ判断が難しくなり、韓国半導体の投資心理にも悪材料となるとの報告書が出た。",
+        "body": "4月の米消費者物価指数（CPI）が前年同月比3.8％上昇し、コア物価も不安定な流れを示すなか、韓国半導体業種の投資心理に負担が強まっているとの分析が出た。報告書は、二極化した米経済の状況で、FRBが利上げの是非を判断しにくい局面にあると指摘した。米国とイランの戦争の余波で誘発された原油価格急騰後には、長短金利差が拡大する可能性も示された。さらに米国の信用リスクが高まれば、リスク資産選好が弱まり、半導体投資心理の悪材料になり得るとの説明だ。出典: mk.co.kr."
+      },
+      "zh": {
+        "title": "美国CPI升至3.8%，利率与信用风险冲击韩国半导体投资情绪",
+        "excerpt": "报告称，4月美国CPI上涨3.8%，核心物价也出现波动，使美联储加息判断更困难，并可能对韩国半导体投资情绪构成不利影响。",
+        "body": "一份报告指出，4月美国消费者价格指数（CPI）同比上涨3.8%，核心物价也呈现不稳定走势，韩国半导体行业的投资情绪正面临压力。报告认为，在美国经济分化的背景下，美联储判断是否加息变得更加困难。美国与伊朗战争影响引发油价急涨之后，长短期利差也可能扩大。若美国信用风险进一步升高，风险资产偏好或将减弱，从而成为半导体投资情绪的不利因素。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "CPI de EE. UU. sube 3,8% y suma riesgos para chips coreanos por tasas y crédito",
+        "excerpt": "Un informe señaló que el CPI de EE. UU. subió 3,8% en abril y que la inflación subyacente también repuntó, complicando a la Fed y afectando el ánimo inversor en semiconductores coreanos.",
+        "body": "Un informe indicó que el sentimiento inversor hacia el sector de semiconductores de Corea enfrenta presión después de que el índice de precios al consumidor de EE. UU. subiera 3,8% interanual en abril y la inflación subyacente también mostrara señales de tensión. El informe señaló que la economía estadounidense, marcada por una polarización, dificulta la decisión de la Reserva Federal sobre una subida de tasas. También mencionó la posibilidad de una ampliación del diferencial entre tasas de corto y largo plazo tras el salto del petróleo provocado por las secuelas de la guerra entre EE. UU. e Irán. Si aumenta el riesgo crediticio en EE. UU., podría debilitarse la preferencia por activos de riesgo y afectar a los semiconductores. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "CPI dos EUA sobe 3,8% e eleva riscos de juros e crédito para chips coreanos",
+        "excerpt": "Um relatório apontou que o CPI dos EUA subiu 3,8% em abril e que o núcleo da inflação também avançou, dificultando a decisão do Fed e pesando sobre semicondutores coreanos.",
+        "body": "Um relatório afirmou que o sentimento dos investidores em relação ao setor de semicondutores da Coreia está sob pressão depois que o índice de preços ao consumidor dos EUA subiu 3,8% em abril, na comparação anual, e o núcleo da inflação também mostrou sinais de instabilidade. O relatório destacou que a economia americana polarizada dificulta a avaliação do Federal Reserve sobre uma alta de juros. Também apontou a possibilidade de ampliação da diferença entre juros de curto e longo prazo após a disparada do petróleo provocada pelos efeitos da guerra entre EUA e Irã. Se o risco de crédito nos EUA aumentar, a preferência por ativos de risco pode enfraquecer, afetando os semicondutores. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "US-CPI steigt auf 3,8% und belastet koreanische Chipwerte mit Zins- und Kreditrisiken",
+        "excerpt": "Ein Bericht sieht nach dem Anstieg des US-CPI um 3,8% im April und bewegter Kerninflation größere Unsicherheit für die Fed und Gegenwind für koreanische Halbleiteraktien.",
+        "body": "Ein Bericht kommt zu dem Schluss, dass die Anlegerstimmung für koreanische Halbleiterwerte unter Druck gerät, nachdem der US-Verbraucherpreisindex im April um 3,8% gegenüber dem Vorjahr gestiegen ist und auch die Kernpreise unruhige Signale zeigten. Der Bericht verweist darauf, dass die polarisierte US-Wirtschaft der Federal Reserve die Entscheidung über weitere Zinserhöhungen erschwert. Nach dem Ölpreissprung, der durch die Folgen des Kriegs zwischen den USA und Iran ausgelöst wurde, könne sich zudem die Spanne zwischen kurz- und langfristigen Zinsen ausweiten. Steigt das Kreditrisiko in den USA, könnte die Risikobereitschaft nachlassen und die Stimmung für Halbleiter belasten. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "CPI américain à 3,8%: taux et crédit pèsent sur les semi-conducteurs coréens",
+        "excerpt": "Un rapport indique que le CPI américain a progressé de 3,8% en avril et que l’inflation sous-jacente a aussi bougé, compliquant la décision de la Fed et pesant sur les puces coréennes.",
+        "body": "Un rapport estime que le sentiment d’investissement envers le secteur coréen des semi-conducteurs subit une pression après la hausse de 3,8% sur un an du CPI américain en avril et des signes de tension dans l’inflation sous-jacente. Le rapport souligne que la polarisation de l’économie américaine rend plus difficile la décision de la Réserve fédérale sur une hausse des taux. Il évoque aussi une possible extension de l’écart entre taux courts et longs après la flambée du pétrole déclenchée par les répercussions de la guerre entre les États-Unis et l’Iran. Si le risque de crédit américain augmente, l’appétit pour les actifs risqués pourrait reculer et nuire aux semi-conducteurs. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ارتفاع مؤشر أسعار المستهلك الأميركي 3.8% يضغط على معنويات أشباه الموصلات الكورية",
+        "excerpt": "ذكر تقرير أن مؤشر أسعار المستهلك الأميركي ارتفع 3.8% في أبريل، مع تحرك التضخم الأساسي أيضا، ما يصعب قرار الفيدرالي بشأن الفائدة ويضغط على أسهم الرقائق الكورية.",
+        "body": "أفاد تقرير بأن معنويات الاستثمار في قطاع أشباه الموصلات الكوري تتعرض لضغوط بعد ارتفاع مؤشر أسعار المستهلك في الولايات المتحدة 3.8% على أساس سنوي في أبريل، مع ظهور مؤشرات اضطراب في التضخم الأساسي. وأوضح التقرير أن الاقتصاد الأميركي المنقسم يجعل قرار مجلس الاحتياطي الفيدرالي بشأن رفع الفائدة أكثر صعوبة. كما أشار إلى احتمال اتساع الفارق بين عوائد الأجلين القصير والطويل بعد قفزة أسعار النفط التي أثارتها تداعيات الحرب بين الولايات المتحدة وإيران. وإذا ارتفعت مخاطر الائتمان الأميركية، فقد تضعف شهية المخاطرة، ما يشكل عاملا سلبيا لمعنويات الاستثمار في أشباه الموصلات. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "अमेरिकी CPI 3.8% बढ़ा, दरों और क्रेडिट जोखिम से कोरियाई चिप भावना पर दबाव",
+        "excerpt": "एक रिपोर्ट के अनुसार अप्रैल में अमेरिकी CPI 3.8% बढ़ा और कोर मुद्रास्फीति भी अस्थिर रही, जिससे फेड का दर निर्णय कठिन हुआ और कोरियाई सेमीकंडक्टर निवेश भावना पर दबाव आया।",
+        "body": "एक रिपोर्ट में कहा गया कि अप्रैल में अमेरिकी उपभोक्ता मूल्य सूचकांक सालाना आधार पर 3.8% बढ़ने और कोर कीमतों में भी अस्थिरता दिखने के बाद कोरिया के सेमीकंडक्टर क्षेत्र में निवेश भावना पर दबाव बढ़ रहा है। रिपोर्ट ने बताया कि ध्रुवीकृत अमेरिकी अर्थव्यवस्था के बीच फेडरल रिजर्व के लिए ब्याज दर बढ़ाने पर फैसला करना कठिन हो गया है। अमेरिका और ईरान युद्ध के प्रभाव से तेल कीमतों में उछाल के बाद अल्पकालिक और दीर्घकालिक दरों के अंतर के बढ़ने की संभावना भी जताई गई। यदि अमेरिकी क्रेडिट जोखिम बढ़ता है, तो जोखिम वाली संपत्तियों के प्रति पसंद कमजोर हो सकती है, जो सेमीकंडक्टर निवेश भावना के लिए नकारात्मक है। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "CPI AS Naik 3,8%, Risiko Suku Bunga dan Kredit Tekan Sentimen Chip Korea",
+        "excerpt": "Sebuah laporan menyebut CPI AS April naik 3,8% dan inflasi inti ikut bergerak, membuat keputusan suku bunga The Fed lebih sulit serta menekan sentimen saham semikonduktor Korea.",
+        "body": "Sebuah laporan menyatakan sentimen investor terhadap sektor semikonduktor Korea mendapat tekanan setelah indeks harga konsumen AS naik 3,8% secara tahunan pada April dan inflasi inti juga menunjukkan ketidakstabilan. Laporan itu menilai ekonomi AS yang terpolarisasi membuat Federal Reserve sulit menentukan apakah akan menaikkan suku bunga. Setelah lonjakan harga minyak yang dipicu dampak perang AS dan Iran, selisih imbal hasil jangka pendek dan jangka panjang juga berpotensi melebar. Jika risiko kredit AS meningkat, minat terhadap aset berisiko dapat melemah dan menjadi faktor negatif bagi sentimen investasi semikonduktor. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "647d7f296295",
+    "slug": "코스피-8000-세리머니-하자마자-급락-etf투자-3대-대응법은-944950",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T15:24:16.885Z",
+    "updatedAt": "2026-05-15T15:24:16.885Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/business/12048766",
+    "canonicalUrl": "https://www.mk.co.kr/news/business/12048766",
+    "titleFingerprint": "776d244d2f68c1df3ebc429854cffc3f79340cef",
+    "dedupKeys": [
+      "647d7f296295076d8876c046465322e4f7c5aeaf",
+      "776d244d2f68c1df3ebc429854cffc3f79340cef",
+      "07e7c507b3c75d5425145373cfd69249875a4d95"
+    ],
+    "imageUrl": "/images/articles/647d7f296295.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 세리머니 직후 급락, ETF 투자자가 확인할 3대 대응법",
+        "excerpt": "코스피 8000 세리머니 직후 급락이 나타나자 ETF 투자 대응법으로 분할매수, 동일가중, 글로벌 분산이 핵심 키워드로 제시됐다.",
+        "body": "코스피 8000 세리머니 직후 국내 증시가 급락하면서 ETF 투자자들이 어떤 방식으로 대응해야 하는지가 주목받고 있다. 보도에서 제시된 핵심 키워드는 분할매수, 동일가중, 글로벌 분산이다. 배경에는 반도체 업황 기대가 있다. 다만 2017년에도 ‘반도체 수퍼 사이클’이 있었지만 이후 2년 이상 하락했다는 점이 함께 언급됐다. 현재 시장에서는 ‘반도체 울트라 사이클’이나 ‘사이클 없이 쭉 간다’는 표현까지 나오지만, ETF 투자에서는 특정 흐름에 쏠리기보다 매수 시점을 나누고, 동일가중과 글로벌 분산으로 변동성을 관리하는 접근이 강조됐다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Kospi 8000 Celebration Followed by Drop: Three ETF Responses to Watch",
+        "excerpt": "After the Kospi 8000 celebration was followed by a sharp drop, ETF investors were pointed to three key responses: phased buying, equal weighting, and global diversification.",
+        "body": "After the Kospi 8000 celebration was followed by a sharp decline in the local market, attention turned to how ETF investors should respond. The key words presented in the report were phased buying, equal weighting, and global diversification. The backdrop is optimism around the semiconductor cycle. The report also noted that in 2017 there was a so-called semiconductor super cycle, but the market still fell for more than two years afterward. While expressions such as semiconductor ultra cycle and a market that keeps rising without a cycle are now being used, the ETF response highlighted was to avoid concentration, split purchase timing, and manage volatility through equal weighting and global diversification. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "KOSPI8000セレモニー直後に急落、ETF投資家が見るべき3対応策",
+        "excerpt": "KOSPI8000セレモニーの直後に市場が急落し、ETF投資の対応策として分割買い、均等加重、グローバル分散が重要キーワードに挙げられた。",
+        "body": "KOSPI8000セレモニーの直後に韓国株式市場が急落し、ETF投資家がどう対応すべきかに関心が集まっている。報道で示された核心キーワードは、分割買い、均等加重、グローバル分散だ。背景には半導体市況への期待がある。ただし2017年にも半導体スーパーサイクルがあったものの、その後2年以上下落した点もあわせて言及された。現在の市場では半導体ウルトラサイクルや、サイクルなしに上昇が続くとの表現も出ているが、ETF投資では特定の流れに偏らず、買い時を分け、均等加重とグローバル分散で変動性を管理する姿勢が強調された。出所: mk.co.kr."
+      },
+      "zh": {
+        "title": "KOSPI 8000庆祝后急跌，ETF投资者需关注三大应对法",
+        "excerpt": "KOSPI 8000庆祝后市场出现急跌，报道将ETF投资应对关键词概括为分批买入、等权配置和全球分散，以管理波动风险。",
+        "body": "KOSPI 8000庆祝活动之后，韩国股市出现急跌，ETF投资者应如何应对受到关注。报道提出的核心关键词是分批买入、等权配置和全球分散。其背景是市场对半导体景气的期待。不过报道也提到，2017年曾有“半导体超级周期”，但之后市场下跌超过两年。当前市场上出现“半导体超强周期”以及“没有周期也会持续上涨”等说法，但在ETF投资中，重点并非押注单一趋势，而是拆分买入时点，并通过等权和全球分散来管理波动。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Kospi 8000 cae tras la celebración: tres respuestas clave para ETF",
+        "excerpt": "Tras la celebración del Kospi 8000 y la posterior caída brusca, el reporte destacó tres claves para invertir en ETF: compras escalonadas, igual ponderación y diversificación global.",
+        "body": "Tras la celebración del Kospi 8000, el mercado local cayó con fuerza y creció la atención sobre cómo deberían responder los inversores en ETF. Las palabras clave presentadas en el reporte fueron compras escalonadas, igual ponderación y diversificación global. El contexto es la expectativa sobre el ciclo de semiconductores. Sin embargo, también se recordó que en 2017 hubo un llamado superciclo de semiconductores y aun así el mercado bajó durante más de dos años después. Aunque hoy se usan expresiones como ultraciclo de semiconductores o una subida continua sin ciclo, el enfoque para ETF subrayado fue evitar la concentración, dividir los momentos de compra y gestionar la volatilidad con igual ponderación y diversificación global. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Kospi 8000 cai após celebração: três respostas centrais para ETFs",
+        "excerpt": "Depois da celebração do Kospi 8000 e da queda acentuada do mercado, o relatório apontou três chaves para ETFs: compras parceladas, peso igual e diversificação global.",
+        "body": "Após a celebração do Kospi 8000, o mercado local caiu com força e a atenção se voltou para a resposta dos investidores em ETFs. As palavras-chave apresentadas no relatório foram compras parceladas, peso igual e diversificação global. O pano de fundo é a expectativa em torno do ciclo de semicondutores. Ainda assim, o texto lembrou que em 2017 também houve um chamado superciclo de semicondutores, mas o mercado caiu por mais de dois anos depois. Embora hoje apareçam expressões como ultraciclo de semicondutores e alta contínua sem ciclo, a resposta destacada para ETFs foi evitar concentração, dividir o momento de compra e administrar a volatilidade com peso igual e diversificação global. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Kospi-8000-Feier endet im Rückschlag: drei ETF-Antworten im Fokus",
+        "excerpt": "Nach der Kospi-8000-Feier und dem anschließenden starken Rückgang nennt der Bericht drei ETF-Schlüssel: gestaffelte Käufe, Gleichgewichtung und globale Streuung.",
+        "body": "Nach der Kospi-8000-Feier gab der heimische Aktienmarkt deutlich nach, und die Frage nach der Reaktion von ETF-Anlegern rückte in den Mittelpunkt. Als zentrale Stichworte nannte der Bericht gestaffelte Käufe, Gleichgewichtung und globale Streuung. Hintergrund ist die Erwartung an den Halbleiterzyklus. Zugleich wurde daran erinnert, dass es 2017 ebenfalls einen sogenannten Halbleiter-Superzyklus gab, der Markt danach aber mehr als zwei Jahre fiel. Auch wenn derzeit Begriffe wie Halbleiter-Ultrazyklus oder ein Anstieg ohne Zyklus verwendet werden, betonte der ETF-Ansatz, Konzentration zu vermeiden, Kaufzeitpunkte aufzuteilen und Volatilität über Gleichgewichtung und globale Streuung zu steuern. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Kospi 8000 en baisse après la célébration: trois réponses ETF à suivre",
+        "excerpt": "Après la célébration du Kospi 8000 suivie d’une forte baisse, le rapport met en avant trois clés pour les ETF: achats fractionnés, pondération égale et diversification mondiale.",
+        "body": "Après la célébration du Kospi 8000, le marché local a fortement reculé et l’attention s’est portée sur la manière dont les investisseurs en ETF doivent réagir. Les mots clés présentés dans le rapport sont les achats fractionnés, la pondération égale et la diversification mondiale. Le contexte est l’attente autour du cycle des semi-conducteurs. Le rapport rappelle toutefois qu’en 2017, un supercycle des semi-conducteurs avait déjà été évoqué, avant une baisse de plus de deux ans. Alors que des expressions comme ultracycle des semi-conducteurs ou hausse durable sans cycle circulent aujourd’hui, l’approche ETF mise en avant consiste à éviter la concentration, répartir les points d’achat et gérer la volatilité par la pondération égale et la diversification mondiale. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "هبوط كوسبي بعد احتفال 8000: ثلاث استجابات أساسية لمستثمري ETF",
+        "excerpt": "بعد احتفال كوسبي بمستوى 8000 ثم الهبوط الحاد، عرض التقرير ثلاث كلمات مفتاحية لاستثمار ETF: الشراء المجزأ، الوزن المتساوي، والتنويع العالمي.",
+        "body": "بعد احتفال كوسبي بمستوى 8000، تراجع السوق المحلي بحدة، واتجه الاهتمام إلى كيفية تعامل مستثمري صناديق ETF مع الموقف. الكلمات المفتاحية التي عرضها التقرير هي الشراء المجزأ، والوزن المتساوي، والتنويع العالمي. وتأتي الخلفية من توقعات دورة أشباه الموصلات. لكن التقرير أشار أيضا إلى أن عام 2017 شهد ما سمي بالدورة الفائقة لأشباه الموصلات، ومع ذلك هبط السوق لأكثر من عامين بعد ذلك. ورغم استخدام تعبيرات مثل الدورة فائقة القوة لأشباه الموصلات أو استمرار الصعود من دون دورة، فإن نهج ETF المطروح يركز على تجنب التركز، وتقسيم توقيت الشراء، وإدارة التقلب عبر الوزن المتساوي والتنويع العالمي. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Kospi 8000 जश्न के बाद गिरावट: ETF निवेशकों के लिए तीन अहम उपाय",
+        "excerpt": "Kospi 8000 के जश्न के तुरंत बाद तेज गिरावट आने पर रिपोर्ट ने ETF निवेश के लिए तीन प्रमुख उपाय बताए: चरणबद्ध खरीद, समान वेटिंग और वैश्विक विविधीकरण।",
+        "body": "Kospi 8000 के जश्न के बाद स्थानीय बाजार में तेज गिरावट आई और ETF निवेशकों की प्रतिक्रिया पर ध्यान गया। रिपोर्ट में मुख्य शब्द चरणबद्ध खरीद, समान वेटिंग और वैश्विक विविधीकरण बताए गए। इसकी पृष्ठभूमि सेमीकंडक्टर चक्र को लेकर उम्मीद है। हालांकि रिपोर्ट ने यह भी याद दिलाया कि 2017 में भी सेमीकंडक्टर सुपर साइकिल की बात थी, लेकिन उसके बाद बाजार दो साल से अधिक समय तक गिरा। आज सेमीकंडक्टर अल्ट्रा साइकिल या बिना चक्र लगातार बढ़त जैसी बातें हो रही हैं, फिर भी ETF निवेश में किसी एक रुझान पर अधिक निर्भर होने के बजाय खरीद का समय बांटना और समान वेटिंग तथा वैश्विक विविधीकरण से उतार-चढ़ाव संभालना प्रमुख बताया गया। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Kospi 8000 Turun Usai Selebrasi: Tiga Respons ETF yang Perlu Dilihat",
+        "excerpt": "Setelah selebrasi Kospi 8000 disusul penurunan tajam, laporan menyoroti tiga kata kunci investasi ETF: beli bertahap, bobot setara, dan diversifikasi global.",
+        "body": "Setelah selebrasi Kospi 8000, pasar saham lokal turun tajam dan perhatian tertuju pada cara investor ETF merespons. Kata kunci yang disampaikan dalam laporan adalah beli bertahap, bobot setara, dan diversifikasi global. Latar belakangnya adalah ekspektasi terhadap siklus semikonduktor. Namun laporan juga menyebut bahwa pada 2017 pernah ada apa yang disebut super cycle semikonduktor, tetapi pasar tetap turun selama lebih dari dua tahun setelahnya. Saat ini muncul ungkapan seperti ultra cycle semikonduktor atau kenaikan yang terus berlanjut tanpa siklus, tetapi pendekatan ETF yang ditekankan adalah menghindari konsentrasi, membagi waktu pembelian, serta mengelola volatilitas melalui bobot setara dan diversifikasi global. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
+    "id": "dfd355bfaac4",
+    "slug": "속보-코스피-결국-8000도-뚫었다꿈의-8000피-시대-개막-613292",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T15:23:11.473Z",
+    "updatedAt": "2026-05-15T15:23:11.473Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048770",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048770",
+    "titleFingerprint": "7c2dbcd6d0300634e78536aaf8ada256798e9f0f",
+    "dedupKeys": [
+      "dfd355bfaac4584271e537dfaf46bba116649486",
+      "7c2dbcd6d0300634e78536aaf8ada256798e9f0f",
+      "87b7e46a24e30376e5702e38e2f94632068f57c1"
+    ],
+    "imageUrl": "/images/articles/dfd355bfaac4.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 돌파, 장중 8001.40 기록하며 ‘꿈의 8000피’ 시대 개막",
+        "excerpt": "코스피가 14일 오전 장중 8000선을 넘어섰다. 오전 9시 23분 현재 전일 대비 19.99포인트 오른 8001.40을 기록하며 새 지수 구간에 진입했다.",
+        "body": "코스피가 14일 장중 8000선을 돌파하며 이른바 ‘꿈의 8000피’ 시대를 열었다. 이날 오전 9시 23분 현재 코스피는 전일 대비 19.99포인트, 0.25% 오른 8001.40에 거래됐다. 8000선 돌파는 국내 증시의 대표 지수인 코스피가 새로운 심리적 기준선을 넘어섰다는 점에서 시장의 주목을 받았다. 관련 수치상 지수는 전 거래일보다 소폭 상승하며 8000을 웃돌았고, 장중 기준으로 해당 구간에 진입했다. 향후 시장은 이 수준을 유지할 수 있을지와 추가 흐름에 관심을 둘 것으로 보인다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Breaks 8,000, Hits 8,001.40 Intraday as Milestone Era Opens",
+        "excerpt": "The KOSPI crossed the 8,000 mark during trading on the morning of the 14th, reaching 8,001.40 at 9:23 a.m., up 19.99 points, or 0.25%, from the previous session.",
+        "body": "The KOSPI broke above the 8,000 level intraday on the 14th, opening what was described as the era of the “dream 8,000 KOSPI.” As of 9:23 a.m. that day, the index was trading at 8,001.40, up 19.99 points, or 0.25%, from the previous session. The move drew attention because South Korea’s benchmark stock index crossed a new psychological threshold. According to the reported figures, the index rose modestly from the prior trading day and entered the 8,000 range on an intraday basis. Market attention is expected to focus on whether the index can hold this level and how it moves next. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが8000突破、場中8001.40を記録し節目の時代へ",
+        "excerpt": "KOSPIは14日午前の取引中に8000台を突破した。午前9時23分現在、前日比19.99ポイント、0.25%高の8001.40を記録した。",
+        "body": "KOSPIは14日の取引時間中に8000台を突破し、いわゆる「夢の8000ピ」時代を開いた。同日午前9時23分現在、KOSPIは前日比19.99ポイント、0.25%上昇した8001.40で取引された。8000台突破は、韓国株式市場の代表指数であるKOSPIが新たな心理的節目を超えた点で市場の注目を集めた。関連数値を見ると、指数は前取引日から小幅に上昇し、場中基準で8000台に入った。今後、市場はこの水準を維持できるか、また追加の流れに関心を向けるとみられる。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI突破8000点，盘中报8001.40点开启关键新阶段",
+        "excerpt": "KOSPI于14日上午盘中突破8000点。上午9时23分，该指数较前一交易日上涨19.99点，涨幅0.25%，报8001.40点。",
+        "body": "KOSPI在14日盘中突破8000点，开启了所谓“梦想8000点”的时代。当天上午9时23分，KOSPI报8001.40点，较前一交易日上涨19.99点，涨幅为0.25%。作为韩国股市代表性指数，KOSPI突破8000点这一新的心理关口，因此受到市场关注。从相关数据看，指数较前一交易日小幅上涨，并在盘中进入8000点区间。未来市场关注点预计将集中在该指数能否维持这一水平，以及后续走势如何。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "El KOSPI supera los 8.000 puntos y marca 8.001,40 en la sesión",
+        "excerpt": "El KOSPI superó los 8.000 puntos durante la mañana del día 14. A las 9:23, avanzaba 19,99 puntos, un 0,25%, hasta 8.001,40 frente a la sesión previa.",
+        "body": "El KOSPI superó durante la sesión del día 14 la barrera de los 8.000 puntos, abriendo la llamada era del “KOSPI de 8.000 puntos”. A las 9:23 de esa mañana, el índice cotizaba en 8.001,40, con un alza de 19,99 puntos, o 0,25%, respecto al cierre anterior. El avance llamó la atención porque el principal índice bursátil de Corea del Sur cruzó un nuevo umbral psicológico. Según las cifras publicadas, el índice subió ligeramente frente a la sesión previa y entró en la zona de los 8.000 puntos en términos intradía. El mercado seguirá atento a si puede mantener ese nivel y a sus próximos movimientos. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI rompe 8.000 pontos e chega a 8.001,40 no intradiário",
+        "excerpt": "O KOSPI ultrapassou a marca de 8.000 pontos na manhã do dia 14. Às 9h23, subia 19,99 pontos, ou 0,25%, para 8.001,40 ante o pregão anterior.",
+        "body": "O KOSPI rompeu a marca de 8.000 pontos durante o pregão do dia 14, abrindo a chamada era do “KOSPI dos 8.000 pontos”. Às 9h23 daquela manhã, o índice era negociado a 8.001,40, alta de 19,99 pontos, ou 0,25%, em relação ao pregão anterior. A superação dos 8.000 pontos chamou atenção porque o principal índice acionário da Coreia do Sul ultrapassou um novo nível psicológico. Pelos números divulgados, o índice avançou levemente ante a sessão anterior e entrou na faixa dos 8.000 pontos no intradiário. O mercado deve observar se esse patamar será mantido e qual será o próximo movimento. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI durchbricht 8.000 Punkte und erreicht intraday 8.001,40",
+        "excerpt": "Der KOSPI überschritt am Vormittag des 14. im Handel die Marke von 8.000 Punkten. Um 9:23 Uhr lag er bei 8.001,40, plus 19,99 Punkte oder 0,25%.",
+        "body": "Der KOSPI hat am 14. im Handelsverlauf die Marke von 8.000 Punkten überschritten und damit die sogenannte Ära des „Traum-KOSPI von 8.000“ eröffnet. Um 9:23 Uhr notierte der Index bei 8.001,40 Punkten, ein Plus von 19,99 Punkten oder 0,25% gegenüber dem Vortag. Der Schritt zog Aufmerksamkeit auf sich, weil Südkoreas wichtiger Leitindex damit eine neue psychologische Schwelle überschritt. Den genannten Zahlen zufolge stieg der Index gegenüber dem vorherigen Handelstag leicht und erreichte intraday den Bereich über 8.000 Punkten. Der Markt dürfte nun darauf achten, ob dieses Niveau gehalten werden kann und wie sich der Index weiter entwickelt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI franchit 8.000 points et atteint 8.001,40 en séance",
+        "excerpt": "Le KOSPI a dépassé les 8.000 points dans la matinée du 14. À 9h23, l’indice gagnait 19,99 points, soit 0,25%, à 8.001,40 par rapport à la veille.",
+        "body": "Le KOSPI a franchi en séance, le 14, le seuil des 8.000 points, ouvrant ce qui a été décrit comme l’ère du « KOSPI rêvé à 8.000 ». À 9h23 ce matin-là, l’indice se négociait à 8.001,40, en hausse de 19,99 points, soit 0,25%, par rapport à la séance précédente. Ce passage a retenu l’attention car l’indice de référence du marché sud-coréen a dépassé un nouveau seuil psychologique. D’après les chiffres rapportés, l’indice progressait légèrement par rapport au jour de Bourse précédent et entrait en séance dans la zone des 8.000 points. Le marché devrait suivre sa capacité à conserver ce niveau et son évolution suivante. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 8000 نقطة ويسجل 8001.40 أثناء التداول",
+        "excerpt": "تجاوز مؤشر كوسبي حاجز 8000 نقطة خلال تداولات صباح يوم 14. وفي الساعة 9:23 صباحا بلغ 8001.40 نقطة، مرتفعا 19.99 نقطة أو 0.25% عن الجلسة السابقة.",
+        "body": "تجاوز مؤشر كوسبي خلال تداولات يوم 14 مستوى 8000 نقطة، فاتحا ما وُصف بعصر “كوسبي الحلم عند 8000 نقطة”. وفي الساعة 9:23 صباحا من ذلك اليوم، جرى تداول المؤشر عند 8001.40 نقطة، بارتفاع 19.99 نقطة، أو 0.25%، مقارنة بالجلسة السابقة. وقد جذب اختراق مستوى 8000 نقطة اهتمام السوق لأن المؤشر الرئيسي للأسهم في كوريا الجنوبية تجاوز عتبة نفسية جديدة. وبحسب الأرقام المنشورة، ارتفع المؤشر بشكل طفيف عن يوم التداول السابق ودخل نطاق 8000 نقطة خلال الجلسة. ومن المتوقع أن يتركز اهتمام السوق على ما إذا كان المؤشر سيحافظ على هذا المستوى وعلى اتجاهه التالي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI ने 8,000 अंक पार किए, इंट्राडे में 8,001.40 पर पहुंचा",
+        "excerpt": "KOSPI ने 14 तारीख की सुबह कारोबार के दौरान 8,000 अंक पार किए। सुबह 9:23 बजे यह पिछले सत्र से 19.99 अंक यानी 0.25% बढ़कर 8,001.40 पर था।",
+        "body": "KOSPI ने 14 तारीख को कारोबार के दौरान 8,000 अंक का स्तर पार किया और तथाकथित “सपनों के 8,000 KOSPI” युग की शुरुआत की। उसी दिन सुबह 9:23 बजे KOSPI पिछले सत्र की तुलना में 19.99 अंक, यानी 0.25%, बढ़कर 8,001.40 पर कारोबार कर रहा था। 8,000 अंक का पार होना इसलिए बाजार के ध्यान में आया क्योंकि दक्षिण कोरिया के प्रमुख शेयर सूचकांक ने एक नई मनोवैज्ञानिक सीमा पार की। प्रकाशित आंकड़ों के अनुसार, सूचकांक पिछले कारोबारी दिन से हल्का चढ़ा और इंट्राडे आधार पर 8,000 के दायरे में प्रवेश किया। आगे बाजार की नजर इस पर रहेगी कि सूचकांक यह स्तर बनाए रख पाता है या नहीं और उसकी अगली चाल क्या होती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Tembus 8.000, Sentuh 8.001,40 pada Perdagangan Intrahari",
+        "excerpt": "KOSPI menembus level 8.000 pada perdagangan pagi tanggal 14. Pada pukul 09.23, indeks naik 19,99 poin atau 0,25% dari sesi sebelumnya ke 8.001,40.",
+        "body": "KOSPI menembus level 8.000 pada perdagangan intrahari tanggal 14, membuka era yang disebut sebagai “KOSPI impian 8.000”. Pada pukul 09.23 pagi hari itu, indeks diperdagangkan di 8.001,40, naik 19,99 poin atau 0,25% dibanding sesi sebelumnya. Tembusnya level 8.000 menarik perhatian karena indeks acuan pasar saham Korea Selatan melewati ambang psikologis baru. Berdasarkan angka yang dilaporkan, indeks naik tipis dari hari perdagangan sebelumnya dan masuk ke kisaran 8.000 secara intrahari. Ke depan, pasar diperkirakan akan memperhatikan apakah level ini dapat dipertahankan dan bagaimana pergerakan berikutnya. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "d292900e2ad9",
     "slug": "로봇피지컬-ai-시대-온다lg전자-역사적-신고가-돌파-매경-자이앤트-771168",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Bursa Korea Makin Panas, Superkaya Hong Kong Datangi Yeouido",
         "excerpt": "Dalam Korea Forum Hana Securities, investor superkaya Hong Kong dan hedge fund menyoroti saham penerima manfaat AI, prospek mogok Samsung Electronics, serta isu utama pasar Korea.",
         "body": "Dalam Korea Forum yang digelar Hana Securities, investor ultrakaya Hong Kong dan perwakilan hedge fund datang ke Yeouido untuk melihat peluang investasi di bursa Korea. Di kawasan yang menjadi pusat pasar saham Korea itu, peserta mengajukan banyak pertanyaan tentang isu utama seperti saham penerima manfaat AI dan prospek mogok di Samsung Electronics. Seorang investor ETF leverage yang terkait Samsung Electronics dan SK Hynix menyebut imbal hasilnya telah berlipat dua, menunjukkan minat terhadap saham semikonduktor Korea. Forum ini memperlihatkan meningkatnya perhatian global terhadap pasar Korea karena investor kaya dan institusi asing meninjaunya langsung. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "bf76b0437c71",
-    "slug": "지금이-기회코스피에-꽂힌-홍콩-큰손들-몰려온-이유-893727",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T21:48:01.210Z",
-    "updatedAt": "2026-05-14T21:48:01.210Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146591i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146591i",
-    "titleFingerprint": "c88c5cd79bcc5316615bb72667c4369d51208a38",
-    "dedupKeys": [
-      "bf76b0437c719621131ee922801d766b1786498d",
-      "c88c5cd79bcc5316615bb72667c4369d51208a38",
-      "7942dc7171b66e55cd7bb7ac3ccf5bb9f1fdcf8a"
-    ],
-    "imageUrl": "/images/articles/bf76b0437c71.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 투자 기회 찾는 홍콩 슈퍼리치 방한, 외국인통합계좌에 유동성 기대",
-        "excerpt": "10억달러 규모 자산을 굴리는 홍콩 슈퍼리치 40여 명이 2026년 5월 14일 한국을 찾아 코스피 투자 기회를 모색하고 외국인통합계좌 확대 흐름에 관심이 쏠렸다.",
-        "body": "10억달러, 약 1조4800억원 규모 자산을 운용하는 홍콩 슈퍼리치 고객 40여 명이 2026년 5월 14일 한국을 찾았다. 이들은 최근 상승세를 이어가는 코스피에서 투자 기회를 모색하기 위해 서울 여의도 하나증권 본사에서 열린 푸투증권 VIP 대상 한국 리서치에 참석했다. 푸투증권과 CSOP자산운용은 이틀간 국내 주요 상장사와 릴레이 IR 미팅을 진행할 예정이다. 외국인투자자가 해외 금융투자회사를 통해 국내 주식을 매매·결제할 수 있는 외국인통합계좌는 2017년 도입됐지만 활용은 제한적이었다. 하나증권은 지난해 엠퍼러증권과 서비스를 시작했고 6월 푸투증권과도 선보일 예정이다. 삼성증권도 IBKR과 출시를 밝혔다. 외국인 큰손 유입에 따른 국내 증시 유동성 확대 기대가 커지고 있다고 hankyung.com은 전했다."
-      },
-      "en": {
-        "title": "Hong Kong Super-Rich Seek KOSPI Opportunities as Omnibus Accounts Draw Attention",
-        "excerpt": "About 40 Hong Kong super-rich investors managing $1 billion in assets visited Korea on May 14, 2026, to explore KOSPI opportunities amid growing focus on foreign omnibus accounts.",
-        "body": "About 40 Hong Kong super-rich clients managing $1 billion, roughly 1.48 trillion won, visited Korea on May 14, 2026. They attended a Korea research session for Futu Securities VIP clients at Hana Securities headquarters in Yeouido, Seoul, to look for investment opportunities in the recently rising KOSPI. Futu Securities and CSOP Asset Management plan two days of relay IR meetings with major listed Korean companies. Foreign omnibus accounts, introduced in 2017, allow foreign investors to trade and settle Korean shares through overseas financial investment firms, but actual use has been limited. Hana Securities began the service with Emperor Securities last year and plans to launch it with Futu Securities in June. Samsung Securities also announced a service with IBKR. Expectations are rising that inflows from major foreign investors could expand liquidity in Korea’s stock market, hankyung.com reported."
-      },
-      "ja": {
-        "title": "KOSPI投資機会を探る香港富裕層が訪韓、外国人統合口座に期待高まる",
-        "excerpt": "10億ドル規模の資産を運用する香港の富裕層約40人が2026年5月14日に韓国を訪れ、KOSPIの投資機会と外国人統合口座の拡大に注目が集まった。",
-        "body": "10億ドル、約1兆4800億ウォン規模の資産を運用する香港のスーパーリッチ顧客約40人が2026年5月14日に韓国を訪れた。最近上昇基調が続くKOSPIで投資機会を探るため、ソウル汝矣島のハナ証券本社で開かれた富途証券VIP顧客向け韓国リサーチに参加した。富途証券とCSOP資産運用は2日間、韓国の主要上場企業と連続IRミーティングを行う予定だ。外国人投資家が海外金融投資会社を通じて韓国株を売買・決済できる外国人統合口座は2017年に導入されたが、活用は限定的だった。ハナ証券は昨年エンペラー証券とサービスを始め、6月には富途証券とも開始する予定。サムスン証券もIBKRとのサービス開始を明らかにした。外国人有力投資家の流入による韓国株式市場の流動性拡大への期待が高まっているとhankyung.comは伝えた。"
-      },
-      "zh": {
-        "title": "香港超级富豪寻找KOSPI机会，外国人综合账户引发流动性期待",
-        "excerpt": "管理10亿美元资产的约40名香港超级富豪于2026年5月14日访问韩国，寻找KOSPI投资机会，市场关注外国人综合账户扩容。",
-        "body": "管理10亿美元、约1.48万亿韩元资产的约40名香港超级富豪客户于2026年5月14日访问韩国。为寻找近期持续上涨的KOSPI投资机会，他们参加了在首尔汝矣岛韩亚证券总部举行的富途证券VIP客户韩国研究活动。富途证券和CSOP资产管理计划在两天内与韩国主要上市公司举行连续IR会议。外国人综合账户允许外国投资者通过海外金融投资公司买卖和结算韩国股票，该制度2017年推出，但实际使用有限。韩亚证券去年与英皇证券启动相关服务，并计划6月与富途证券推出服务。三星证券也宣布将与IBKR推出服务。hankyung.com报道称，随着外国大型投资者可能流入，韩国股市流动性扩大预期正在升温。"
-      },
-      "es": {
-        "title": "Superricos de Hong Kong buscan oportunidades en el KOSPI y crece el foco en cuentas ómnibus",
-        "excerpt": "Unos 40 superricos de Hong Kong que gestionan 1.000 millones de dólares visitaron Corea el 14 de mayo de 2026 para explorar oportunidades en el KOSPI y las cuentas ómnibus extranjeras.",
-        "body": "Unos 40 clientes superricos de Hong Kong, que gestionan 1.000 millones de dólares, alrededor de 1,48 billones de wones, visitaron Corea el 14 de mayo de 2026. Asistieron a una sesión de investigación sobre Corea para clientes VIP de Futu Securities en la sede de Hana Securities en Yeouido, Seúl, con el objetivo de buscar oportunidades en el KOSPI, que ha mantenido una tendencia alcista reciente. Futu Securities y CSOP Asset Management prevén celebrar durante dos días reuniones IR sucesivas con importantes empresas cotizadas coreanas. Las cuentas ómnibus para extranjeros, introducidas en 2017, permiten a inversores extranjeros comprar, vender y liquidar acciones coreanas mediante firmas financieras del exterior, pero su uso ha sido limitado. Hana Securities inició el servicio el año pasado con Emperor Securities y planea lanzarlo con Futu en junio. Samsung Securities también anunció un servicio con IBKR. Crecen las expectativas de que la entrada de grandes inversores extranjeros amplíe la liquidez del mercado bursátil coreano, informó hankyung.com."
-      },
-      "pt": {
-        "title": "Super-ricos de Hong Kong buscam oportunidades no KOSPI e ampliam foco em contas ómnibus",
-        "excerpt": "Cerca de 40 super-ricos de Hong Kong, que administram US$ 1 bilhão, visitaram a Coreia em 14 de maio de 2026 para avaliar oportunidades no KOSPI e contas ómnibus estrangeiras.",
-        "body": "Cerca de 40 clientes super-ricos de Hong Kong, que administram US$ 1 bilhão, aproximadamente 1,48 trilhão de wons, visitaram a Coreia em 14 de maio de 2026. Eles participaram de uma sessão de pesquisa sobre a Coreia para clientes VIP da Futu Securities na sede da Hana Securities, em Yeouido, Seul, para buscar oportunidades de investimento no KOSPI, que vem mantendo alta recente. A Futu Securities e a CSOP Asset Management planejam dois dias de reuniões de RI em sequência com grandes empresas coreanas listadas. As contas ómnibus para estrangeiros, introduzidas em 2017, permitem que investidores estrangeiros negociem e liquidem ações coreanas por meio de instituições financeiras no exterior, mas o uso tem sido limitado. A Hana Securities iniciou o serviço no ano passado com a Emperor Securities e planeja lançá-lo com a Futu em junho. A Samsung Securities também anunciou serviço com a IBKR. Crescem as expectativas de que a entrada de grandes investidores estrangeiros amplie a liquidez do mercado acionário coreano, informou hankyung.com."
-      },
-      "de": {
-        "title": "Hongkonger Superreiche suchen KOSPI-Chancen, Omnibus-Konten nähren Liquiditätshoffnung",
-        "excerpt": "Rund 40 superreiche Anleger aus Hongkong mit 1 Milliarde Dollar Vermögen reisten am 14. Mai 2026 nach Korea, um KOSPI-Chancen und ausländische Omnibus-Konten zu prüfen.",
-        "body": "Rund 40 superreiche Kunden aus Hongkong, die 1 Milliarde Dollar beziehungsweise etwa 1,48 Billionen Won verwalten, besuchten am 14. Mai 2026 Korea. Sie nahmen am Hauptsitz von Hana Securities in Yeouido, Seoul, an einer Korea-Research-Veranstaltung für VIP-Kunden von Futu Securities teil, um Anlagechancen im zuletzt steigenden KOSPI zu prüfen. Futu Securities und CSOP Asset Management planen über zwei Tage hinweg aufeinanderfolgende IR-Treffen mit wichtigen börsennotierten Unternehmen Koreas. Ausländische Omnibus-Konten, die 2017 eingeführt wurden, erlauben ausländischen Anlegern, koreanische Aktien über ausländische Finanzinvestmentfirmen zu handeln und abzuwickeln, wurden bisher aber nur begrenzt genutzt. Hana Securities startete den Dienst im vergangenen Jahr mit Emperor Securities und plant im Juni einen Start mit Futu. Samsung Securities kündigte ebenfalls einen Dienst mit IBKR an. Die Erwartungen steigen, dass Zuflüsse großer ausländischer Investoren die Liquidität am koreanischen Aktienmarkt erhöhen könnten, berichtete hankyung.com."
-      },
-      "fr": {
-        "title": "Des super-riches hongkongais visent le KOSPI, les comptes omnibus étrangers attirent l’attention",
-        "excerpt": "Environ 40 super-riches hongkongais gérant 1 milliard de dollars sont arrivés en Corée le 14 mai 2026 pour explorer le KOSPI et les comptes omnibus étrangers.",
-        "body": "Environ 40 clients super-riches de Hong Kong, qui gèrent 1 milliard de dollars, soit près de 1 480 milliards de wons, se sont rendus en Corée le 14 mai 2026. Ils ont participé à une session de recherche sur la Corée destinée aux clients VIP de Futu Securities au siège de Hana Securities, à Yeouido, Séoul, afin d’examiner les opportunités d’investissement sur le KOSPI, récemment orienté à la hausse. Futu Securities et CSOP Asset Management prévoient deux jours de réunions IR successives avec de grandes sociétés coréennes cotées. Les comptes omnibus étrangers, introduits en 2017, permettent aux investisseurs étrangers d’acheter, vendre et régler des actions coréennes via des sociétés financières étrangères, mais leur usage est resté limité. Hana Securities a lancé le service l’an dernier avec Emperor Securities et prévoit de le proposer avec Futu en juin. Samsung Securities a aussi annoncé un service avec IBKR. Les attentes montent quant à une hausse de la liquidité du marché coréen grâce à l’arrivée de grands investisseurs étrangers, a rapporté hankyung.com."
-      },
-      "ar": {
-        "title": "أثرياء هونغ كونغ يبحثون عن فرص في كوسبي وحسابات الأجانب الموحدة ترفع توقعات السيولة",
-        "excerpt": "زار نحو 40 من أثرياء هونغ كونغ الذين يديرون أصولا بقيمة مليار دولار كوريا في 14 مايو 2026 لبحث فرص كوسبي وسط اهتمام بالحسابات الموحدة للأجانب.",
-        "body": "زار نحو 40 عميلا من أثرياء هونغ كونغ، يديرون أصولا بقيمة مليار دولار، أي نحو 1.48 تريليون وون، كوريا في 14 مايو 2026. وشاركوا في جلسة أبحاث عن كوريا لعملاء فوتو سيكيوريتيز من كبار الشخصيات في مقر هانا سيكيوريتيز في يويدو بسيول، بحثا عن فرص استثمارية في مؤشر كوسبي الذي واصل صعوده مؤخرا. وتخطط فوتو سيكيوريتيز وCSOP لإدارة الأصول لعقد اجتماعات علاقات مستثمرين متتالية على مدى يومين مع شركات كورية كبرى مدرجة. وتتيح الحسابات الموحدة للأجانب، التي طرحت في 2017، للمستثمرين الأجانب تداول وتسوية الأسهم الكورية عبر شركات استثمار مالي خارجية، لكن استخدامها الفعلي ظل محدودا. بدأت هانا سيكيوريتيز الخدمة العام الماضي مع إمبراطور سيكيوريتيز، وتعتزم إطلاقها مع فوتو في يونيو. كما أعلنت سامسونغ سيكيوريتيز خدمة مع IBKR. وذكر hankyung.com أن التوقعات تتزايد بأن دخول مستثمرين أجانب كبار قد يوسع سيولة سوق الأسهم الكورية."
-      },
-      "hi": {
-        "title": "KOSPI अवसरों पर हांगकांग सुपर-रिच की नजर, विदेशी ओम्निबस खातों से तरलता उम्मीद",
-        "excerpt": "1 अरब डॉलर की संपत्ति संभालने वाले हांगकांग के करीब 40 सुपर-रिच निवेशक 14 मई 2026 को कोरिया पहुंचे, ताकि KOSPI अवसर और विदेशी ओम्निबस खाते देख सकें।",
-        "body": "1 अरब डॉलर, यानी लगभग 1.48 ट्रिलियन वॉन की संपत्ति संभालने वाले हांगकांग के करीब 40 सुपर-रिच ग्राहक 14 मई 2026 को कोरिया पहुंचे। वे हाल में चढ़ते KOSPI में निवेश अवसर तलाशने के लिए सियोल के येओइदो स्थित Hana Securities मुख्यालय में Futu Securities के VIP ग्राहकों के लिए आयोजित कोरिया रिसर्च सत्र में शामिल हुए। Futu Securities और CSOP Asset Management दो दिनों तक कोरिया की प्रमुख सूचीबद्ध कंपनियों के साथ लगातार IR बैठकों की योजना बना रहे हैं। विदेशी ओम्निबस खाते, जिन्हें 2017 में शुरू किया गया था, विदेशी निवेशकों को विदेशी वित्तीय निवेश कंपनियों के जरिए कोरियाई शेयरों की खरीद-बिक्री और निपटान की सुविधा देते हैं, लेकिन उनका उपयोग सीमित रहा। Hana Securities ने पिछले साल Emperor Securities के साथ सेवा शुरू की और जून में Futu के साथ इसे पेश करने की योजना है। Samsung Securities ने भी IBKR के साथ सेवा की घोषणा की है। hankyung.com के अनुसार, बड़े विदेशी निवेशकों के आने से कोरियाई शेयर बाजार की तरलता बढ़ने की उम्मीद मजबूत हो रही है।"
-      },
-      "id": {
-        "title": "Superkaya Hong Kong Cari Peluang KOSPI, Akun Omnibus Asing Jadi Sorotan Likuiditas",
-        "excerpt": "Sekitar 40 investor superkaya Hong Kong yang mengelola aset US$1 miliar mengunjungi Korea pada 14 Mei 2026 untuk mencari peluang KOSPI dan menyoroti akun omnibus asing.",
-        "body": "Sekitar 40 klien superkaya Hong Kong yang mengelola aset US$1 miliar, atau sekitar 1,48 triliun won, mengunjungi Korea pada 14 Mei 2026. Mereka menghadiri sesi riset Korea untuk klien VIP Futu Securities di kantor pusat Hana Securities di Yeouido, Seoul, untuk mencari peluang investasi di KOSPI yang belakangan terus menguat. Futu Securities dan CSOP Asset Management berencana menggelar pertemuan IR beruntun selama dua hari dengan perusahaan-perusahaan besar Korea yang tercatat di bursa. Akun omnibus asing, yang diperkenalkan pada 2017, memungkinkan investor asing memperdagangkan dan menyelesaikan saham Korea melalui perusahaan investasi keuangan luar negeri, tetapi penggunaannya masih terbatas. Hana Securities memulai layanan ini tahun lalu bersama Emperor Securities dan berencana meluncurkannya dengan Futu pada Juni. Samsung Securities juga mengumumkan layanan bersama IBKR. Ekspektasi meningkat bahwa masuknya investor asing besar dapat memperluas likuiditas pasar saham Korea, lapor hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "12bdcbb848c6",
-    "slug": "작년에-대박냈는데-올해는-그-두-배반도체-아닌데-불타는-이-기업-730263",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T21:46:36.446Z",
-    "updatedAt": "2026-05-14T21:46:36.446Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048636",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048636",
-    "titleFingerprint": "759ae97bf2f506ccfff5b54a519275d0088ca2dc",
-    "dedupKeys": [
-      "12bdcbb848c6358b79cfcd40cd87778066689ba8",
-      "759ae97bf2f506ccfff5b54a519275d0088ca2dc",
-      "a7b993b38ce62576b78b11ce2d2423baa507aa21"
-    ],
-    "imageUrl": "/images/articles/12bdcbb848c6.png",
-    "i18n": {
-      "ko": {
-        "title": "한국투자증권 1분기 순익 7847억, 반도체 밖 ‘불타는 성장’ 주목",
-        "excerpt": "한국투자증권은 올해 1분기 순이익 7847억원을 기록하며 MTS 개편, 글로벌 협력, 2.6조원 규모 IMA 자금운용 등 고른 수익구조를 입증했다.",
-        "body": "한국투자증권이 올해 1분기 순이익 7847억원을 기록하며 국내 증권사들의 실적 랠리 속에서 존재감을 키웠다. 증시 상승세가 이어지는 가운데 회사는 MTS 개편과 글로벌 협력 확대, 2조6000억원 규모 IMA 자금운용을 바탕으로 수익 기반을 넓혔다. 특정 부문에 치우치지 않고 부문별로 고른 수익구조를 보였다는 점도 유기적 선순환 성장의 근거로 제시됐다. 지난해 큰 성과를 낸 데 이어 올해는 더 큰 성장세가 부각되고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korea Investment Securities Posts Q1 Net Profit of 784.7 Billion Won",
-        "excerpt": "Korea Investment Securities recorded first-quarter net profit of 784.7 billion won, supported by an MTS overhaul, global partnerships and 2.6 trillion won in IMA fund management.",
-        "body": "Korea Investment Securities reported net profit of 784.7 billion won for the first quarter, strengthening its profile as domestic brokerage firms ride a strong market rally. The company expanded its earnings base through an overhaul of its mobile trading system, broader global cooperation and IMA fund management worth 2.6 trillion won. Its balanced revenue structure across divisions was cited as evidence of organic, virtuous-cycle growth. After a strong performance last year, the company’s growth momentum is drawing renewed attention this year. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国投資証券、1〜3月期純利益7847億ウォンで成長加速",
-        "excerpt": "韓国投資証券は今年1〜3月期に純利益7847億ウォンを記録し、MTS改編、グローバル協力、2.6兆ウォン規模のIMA運用が支えとなった。",
-        "body": "韓国投資証券は今年1〜3月期に純利益7847億ウォンを記録し、国内証券会社の好調な業績ラリーの中で存在感を高めた。株式市場の上昇が続くなか、同社はMTS改編、グローバル協力の拡大、2兆6000億ウォン規模のIMA資金運用を通じて収益基盤を広げた。特定部門に偏らず、部門別に均衡の取れた収益構造を示した点も、有機的な好循環成長の根拠とされた。昨年の大きな成果に続き、今年はさらに強い成長が注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国投资证券一季度净利7847亿韩元，增长动能受关注",
-        "excerpt": "韩国投资证券今年一季度实现净利润7847亿韩元，受益于MTS改版、全球合作以及2.6万亿韩元IMA资金运用。",
-        "body": "韩国投资证券今年一季度实现净利润7847亿韩元，在韩国证券公司业绩随股市上涨而走强的背景下提升了存在感。随着市场行情延续，公司通过MTS改版、扩大全球合作，以及运用2.6万亿韩元规模的IMA资金，拓宽了收益基础。其收入并未集中于单一业务，而是在各部门呈现较均衡结构，这被视为有机良性循环增长的依据。继去年取得亮眼成绩后，今年更强的增长势头正受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Korea Investment Securities gana 784.700 millones de wones en el 1T",
-        "excerpt": "Korea Investment Securities registró en el primer trimestre un beneficio neto de 784.700 millones de wones, apoyado en la renovación de MTS, cooperación global y 2,6 billones en IMA.",
-        "body": "Korea Investment Securities registró un beneficio neto de 784.700 millones de wones en el primer trimestre, ganando presencia mientras las corredoras surcoreanas disfrutan de una fuerte racha bursátil. Con el mercado al alza, la firma amplió su base de ingresos mediante la renovación de su MTS, mayor cooperación global y la gestión de 2,6 billones de wones en fondos IMA. La distribución equilibrada de beneficios por divisiones fue presentada como prueba de crecimiento orgánico en círculo virtuoso. Tras un sólido año anterior, su impulso de crecimiento vuelve a destacar este año. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Korea Investment Securities lucra 784,7 bi de won no 1º trimestre",
-        "excerpt": "A Korea Investment Securities registrou lucro líquido de 784,7 bilhões de won no 1º trimestre, com apoio da reformulação do MTS, cooperação global e 2,6 trilhões de won em IMA.",
-        "body": "A Korea Investment Securities registrou lucro líquido de 784,7 bilhões de won no primeiro trimestre, ampliando sua presença em meio à forte sequência de resultados das corretoras sul-coreanas. Com a alta do mercado acionário, a empresa expandiu sua base de receitas por meio da reformulação do MTS, do avanço da cooperação global e da gestão de 2,6 trilhões de won em recursos IMA. A estrutura de receitas equilibrada entre divisões foi apontada como evidência de crescimento orgânico em ciclo virtuoso. Depois do forte desempenho do ano passado, o ritmo de crescimento volta a chamar atenção neste ano. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Korea Investment Securities erzielt im 1. Quartal 784,7 Mrd. Won Gewinn",
-        "excerpt": "Korea Investment Securities meldete im ersten Quartal 784,7 Mrd. Won Nettogewinn, getragen von MTS-Umbau, globaler Zusammenarbeit und 2,6 Bio. Won IMA-Vermögensverwaltung.",
-        "body": "Korea Investment Securities erzielte im ersten Quartal einen Nettogewinn von 784,7 Mrd. Won und stärkte damit seine Position inmitten einer starken Ergebnisrally südkoreanischer Wertpapierhäuser. Bei anhaltend steigenden Aktienmärkten verbreiterte das Unternehmen seine Ertragsbasis durch den Umbau des MTS, erweiterte globale Kooperationen und die Verwaltung von IMA-Mitteln in Höhe von 2,6 Bio. Won. Die ausgewogene Ertragsstruktur über mehrere Geschäftsbereiche hinweg wurde als Beleg für organisches Wachstum in einem positiven Kreislauf gewertet. Nach starken Ergebnissen im Vorjahr rückt das Wachstum auch in diesem Jahr in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Korea Investment Securities affiche 784,7 Mds de wons de bénéfice au T1",
-        "excerpt": "Korea Investment Securities a dégagé au premier trimestre 784,7 milliards de wons de bénéfice net, soutenu par la refonte du MTS, des coopérations mondiales et 2,6 billions de wons en IMA.",
-        "body": "Korea Investment Securities a enregistré un bénéfice net de 784,7 milliards de wons au premier trimestre, renforçant sa visibilité alors que les sociétés de courtage sud-coréennes profitent d’un rally boursier. Dans ce contexte, l’entreprise a élargi sa base de revenus grâce à la refonte de son MTS, à l’expansion de ses coopérations mondiales et à la gestion de 2,6 billions de wons de fonds IMA. La répartition équilibrée des revenus entre les divisions a été présentée comme la preuve d’une croissance organique en cercle vertueux. Après une forte performance l’an dernier, sa dynamique de croissance attire de nouveau l’attention cette année. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "كوريا إنفستمنت سيكيوريتيز تحقق 784.7 مليار وون ربحا في الربع الأول",
-        "excerpt": "سجلت كوريا إنفستمنت سيكيوريتيز صافي ربح قدره 784.7 مليار وون في الربع الأول، بدعم من تحديث MTS والتعاون العالمي وإدارة 2.6 تريليون وون عبر IMA.",
-        "body": "سجلت كوريا إنفستمنت سيكيوريتيز صافي ربح بلغ 784.7 مليار وون في الربع الأول من هذا العام، معززة حضورها وسط موجة نتائج قوية لشركات الوساطة الكورية مع استمرار صعود سوق الأسهم. ووسعت الشركة قاعدة أرباحها عبر تحديث نظام التداول عبر الهاتف MTS، وتوسيع التعاون العالمي، وإدارة أموال IMA بحجم 2.6 تريليون وون. كما عُدّ توازن هيكل الإيرادات بين القطاعات دليلا على نمو عضوي قائم على دورة إيجابية. وبعد أداء قوي في العام الماضي، يبرز زخم النمو الأكبر هذا العام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Korea Investment Securities का Q1 शुद्ध लाभ 784.7 अरब वॉन पहुंचा",
-        "excerpt": "Korea Investment Securities ने पहली तिमाही में 784.7 अरब वॉन का शुद्ध लाभ दर्ज किया, जिसे MTS सुधार, वैश्विक सहयोग और 2.6 ट्रिलियन वॉन IMA प्रबंधन से सहारा मिला।",
-        "body": "Korea Investment Securities ने इस साल पहली तिमाही में 784.7 अरब वॉन का शुद्ध लाभ दर्ज किया और घरेलू ब्रोकरेज कंपनियों की मजबूत बाजार रैली के बीच अपनी उपस्थिति बढ़ाई। शेयर बाजार में तेजी जारी रहने के बीच कंपनी ने MTS सुधार, वैश्विक सहयोग के विस्तार और 2.6 ट्रिलियन वॉन के IMA फंड प्रबंधन के जरिए आय आधार को मजबूत किया। किसी एक विभाग पर निर्भर न होकर विभिन्न विभागों में संतुलित राजस्व संरचना दिखना जैविक और सकारात्मक चक्र वाले विकास का आधार बताया गया। पिछले साल की बड़ी उपलब्धि के बाद इस साल तेज वृद्धि पर फिर ध्यान है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Korea Investment Securities Catat Laba Bersih Kuartal I 784,7 Miliar Won",
-        "excerpt": "Korea Investment Securities membukukan laba bersih kuartal I sebesar 784,7 miliar won, didukung pembaruan MTS, kerja sama global, dan pengelolaan dana IMA 2,6 triliun won.",
-        "body": "Korea Investment Securities mencatat laba bersih 784,7 miliar won pada kuartal pertama tahun ini, memperkuat posisinya saat perusahaan sekuritas domestik menikmati reli kinerja seiring kenaikan pasar saham. Perusahaan memperluas basis pendapatan melalui pembaruan MTS, perluasan kerja sama global, serta pengelolaan dana IMA senilai 2,6 triliun won. Struktur pendapatan yang merata di berbagai divisi disebut sebagai bukti pertumbuhan organik dalam siklus positif. Setelah mencatat capaian besar tahun lalu, momentum pertumbuhan yang lebih kuat kembali menjadi perhatian tahun ini. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1a060c3e8113",
-    "slug": "코스피-대표선수-물갈이-됐다삼바-빠지고-삼성전기-톱10-차트인-693981",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T21:45:42.806Z",
-    "updatedAt": "2026-05-14T21:45:42.806Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048637",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048637",
-    "titleFingerprint": "5710fcb833c8e2aeff480b4fb4b211d5a209ea1c",
-    "dedupKeys": [
-      "1a060c3e8113de600b6376f6cdef49350117f958",
-      "5710fcb833c8e2aeff480b4fb4b211d5a209ea1c",
-      "8e9a78383c32c5059665ad6bd18955bc32119575"
-    ],
-    "imageUrl": "/images/articles/1a060c3e8113.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 톱10 재편, AI 수혜주 독식 속 삼성전기 새 진입",
-        "excerpt": "코스피 시가총액 상위 10위 구성이 AI 수혜주 중심으로 바뀌며 삼성바이오로직스·한화에어로스페이스·KB금융이 빠지고 삼성전기 등이 편입됐다.",
-        "body": "코스피 대표 종목의 시가총액 상위 10위 구성이 최근 AI 수혜주 중심으로 재편됐다. mk.co.kr에 따르면 삼성바이오로직스가 톱10에서 빠지고 삼성전기가 새로 이름을 올렸으며, 한화에어로스페이스와 KB금융 등도 제외됐다. 새로 편입된 종목에는 SK스퀘어와 두산에너빌리티, HD현대일렉트릭 등이 포함됐다. 특히 삼성전기는 주가가 1년 사이 10배로 뛰며 그룹 내 시가총액 순위에도 변화가 생겼다. 이번 변화는 AI 관련 기대가 코스피 대형주 판도를 흔들고 있음을 보여준다. 다만 향후 흐름은 관련 종목의 실적과 시장 평가에 따라 달라질 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Top 10 reshuffled as AI beneficiaries dominate and Samsung Electro-Mechanics enters",
-        "excerpt": "The KOSPI market-cap top 10 has shifted toward AI beneficiary stocks, with Samsung Biologics, Hanwha Aerospace and KB Financial out and Samsung Electro-Mechanics in.",
-        "body": "The composition of the KOSPI’s top 10 companies by market capitalization has recently been reshaped around AI beneficiary stocks. According to mk.co.kr, Samsung Biologics dropped out of the top 10, while Samsung Electro-Mechanics newly entered the group. Hanwha Aerospace and KB Financial were also excluded. Newly included names include SK Square, Doosan Enerbility and HD Hyundai Electric. Samsung Electro-Mechanics was notable as its share price rose tenfold over the past year, changing the market-cap ranking within the Samsung group. The shift shows how AI-related expectations are altering the lineup of Korea’s largest listed companies. Future moves may depend on earnings and market evaluations. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPIトップ10再編、AI関連株が席巻しサムスン電機が新規入り",
-        "excerpt": "KOSPIの時価総額上位10銘柄はAI恩恵株中心に変化し、サムスンバイオロジクス、ハンファエアロ、KB金融が外れ、サムスン電機などが入った。",
-        "body": "KOSPIを代表する時価総額上位10銘柄の構成が、最近AI恩恵株を中心に再編された。mk.co.krによると、サムスンバイオロジクスがトップ10から外れ、サムスン電機が新たに名を連ねた。ハンファエアロスペースやKB金融なども除外された。新たに組み入れられた銘柄には、SKスクエア、斗山エナビリティ、HD現代エレクトリックなどが含まれる。特にサムスン電機は株価が1年で10倍となり、グループ内の時価総額順位にも変化をもたらした。今回の変化は、AI関連期待がKOSPI大型株の構図を揺さぶっていることを示す。今後の流れは各銘柄の業績と市場評価に左右される可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI前十重排，AI受益股占据主导，三星电机新晋上榜",
-        "excerpt": "KOSPI市值前十阵容转向AI受益股，三星生物制剂、韩华航空航天、KB金融等退出，三星电机、SK Square等进入。",
-        "body": "韩国KOSPI市值前十代表股票近期围绕AI受益股重新洗牌。据mk.co.kr报道，三星生物制剂跌出前十，三星电机新晋进入榜单，韩华航空航天和KB金融等也被排除在外。新纳入的股票包括SK Square、斗山能源和HD现代电气等。尤其是三星电机，股价在一年内上涨10倍，也带动三星集团内部市值排名发生变化。此次变动显示，AI相关预期正在改变KOSPI大型股格局。不过，后续走势仍可能取决于相关公司的业绩和市场评价。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El top 10 del KOSPI se renueva: dominan valores ligados a IA y entra Samsung Electro-Mechanics",
-        "excerpt": "El top 10 por capitalización del KOSPI giró hacia valores beneficiados por la IA, con salidas de Samsung Biologics, Hanwha Aerospace y KB Financial.",
-        "body": "La composición de las diez mayores compañías del KOSPI por capitalización bursátil se ha reorganizado recientemente en torno a valores beneficiados por la IA. Según mk.co.kr, Samsung Biologics salió del top 10 y Samsung Electro-Mechanics ingresó por primera vez en el grupo. También quedaron fuera Hanwha Aerospace y KB Financial. Entre las nuevas incorporaciones figuran SK Square, Doosan Enerbility y HD Hyundai Electric. Samsung Electro-Mechanics destacó porque su acción se multiplicó por diez en un año, lo que alteró también el ranking de capitalización dentro del grupo Samsung. El cambio muestra cómo las expectativas ligadas a la IA están modificando el mapa de grandes valores del KOSPI. La evolución posterior dependerá de resultados y valoración del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Top 10 do KOSPI muda com domínio de ações ligadas à IA e entrada da Samsung Electro-Mechanics",
-        "excerpt": "O top 10 do KOSPI por valor de mercado passou a refletir ações beneficiadas pela IA, com saídas de Samsung Biologics, Hanwha Aerospace e KB Financial.",
-        "body": "A composição das dez maiores empresas do KOSPI por valor de mercado foi recentemente reorganizada em torno de ações beneficiadas pela IA. Segundo o mk.co.kr, a Samsung Biologics saiu do top 10, enquanto a Samsung Electro-Mechanics passou a integrar o grupo. Hanwha Aerospace e KB Financial também ficaram de fora. Entre as novas integrantes estão SK Square, Doosan Enerbility e HD Hyundai Electric. A Samsung Electro-Mechanics chamou atenção porque sua ação subiu dez vezes em um ano, provocando também mudanças no ranking de valor de mercado dentro do grupo Samsung. A alteração mostra como as expectativas relacionadas à IA estão mexendo com as grandes ações do KOSPI. A trajetória futura dependerá de resultados e avaliação do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-Top-10 neu geordnet: KI-Profiteure dominieren, Samsung Electro-Mechanics steigt ein",
-        "excerpt": "Die zehn größten KOSPI-Werte nach Marktkapitalisierung verschieben sich zu KI-Profiteuren; Samsung Biologics, Hanwha Aerospace und KB Financial fallen heraus.",
-        "body": "Die Zusammensetzung der zehn größten KOSPI-Unternehmen nach Marktkapitalisierung wurde zuletzt stärker auf KI-Profiteure ausgerichtet. Laut mk.co.kr fiel Samsung Biologics aus den Top 10, während Samsung Electro-Mechanics neu aufgenommen wurde. Auch Hanwha Aerospace und KB Financial schieden aus. Zu den neuen Mitgliedern zählen SK Square, Doosan Enerbility und HD Hyundai Electric. Besonders Samsung Electro-Mechanics stach hervor, weil sich der Aktienkurs binnen eines Jahres verzehnfachte und damit auch die Rangfolge nach Marktkapitalisierung innerhalb der Samsung-Gruppe veränderte. Die Verschiebung zeigt, wie KI-bezogene Erwartungen die Struktur der großen KOSPI-Werte beeinflussen. Der weitere Verlauf dürfte von Ergebnissen und Marktbewertung abhängen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le top 10 du KOSPI remanié: les valeurs liées à l’IA dominent, Samsung Electro-Mechanics entre",
-        "excerpt": "Le top 10 du KOSPI par capitalisation s’est recentré sur les bénéficiaires de l’IA, avec les sorties de Samsung Biologics, Hanwha Aerospace et KB Financial.",
-        "body": "La composition des dix premières capitalisations du KOSPI a récemment été remaniée autour des valeurs bénéficiant de l’IA. Selon mk.co.kr, Samsung Biologics est sortie du top 10, tandis que Samsung Electro-Mechanics y a fait son entrée. Hanwha Aerospace et KB Financial ont également été exclues. Parmi les nouvelles sociétés figurent SK Square, Doosan Enerbility et HD Hyundai Electric. Samsung Electro-Mechanics s’est particulièrement distinguée, son action ayant été multipliée par dix en un an, ce qui a aussi modifié le classement par capitalisation au sein du groupe Samsung. Ce changement montre que les attentes liées à l’IA redessinent les grandes valeurs du KOSPI. La suite dépendra des résultats et de l’évaluation du marché. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "إعادة ترتيب أكبر 10 أسهم في كوسبي مع هيمنة مستفيدي الذكاء الاصطناعي ودخول سامسونغ إلكترو-ميكانيكس",
-        "excerpt": "تحولت قائمة أكبر 10 شركات في كوسبي من حيث القيمة السوقية نحو أسهم مستفيدة من الذكاء الاصطناعي، مع خروج سامسونغ بايولوجكس وهانوا إيروسبيس وKB فايننشال.",
-        "body": "أعيد مؤخرا تشكيل قائمة أكبر عشر شركات في مؤشر كوسبي من حيث القيمة السوقية حول الأسهم المستفيدة من الذكاء الاصطناعي. ووفقا لـ mk.co.kr، خرجت سامسونغ بايولوجكس من القائمة، بينما دخلت سامسونغ إلكترو-ميكانيكس إليها. كما خرجت هانوا إيروسبيس وKB فايننشال. وتشمل الأسماء المنضمة حديثا SK Square وDoosan Enerbility وHD Hyundai Electric. وبرزت سامسونغ إلكترو-ميكانيكس بشكل خاص بعدما ارتفع سعر سهمها عشرة أضعاف خلال عام، ما أحدث تغييرا أيضا في ترتيب القيمة السوقية داخل مجموعة سامسونغ. ويظهر هذا التحول أن التوقعات المرتبطة بالذكاء الاصطناعي تعيد رسم خريطة الأسهم الكبرى في كوسبي. وقد يتوقف المسار المقبل على النتائج وتقييم السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI शीर्ष 10 में बड़ा फेरबदल, AI लाभार्थी शेयरों का दबदबा और Samsung Electro-Mechanics की एंट्री",
-        "excerpt": "KOSPI की बाजार पूंजीकरण शीर्ष 10 सूची AI लाभार्थी शेयरों की ओर मुड़ी, जिसमें Samsung Biologics, Hanwha Aerospace और KB Financial बाहर हुए।",
-        "body": "KOSPI में बाजार पूंजीकरण के आधार पर शीर्ष 10 कंपनियों की संरचना हाल में AI लाभार्थी शेयरों के इर्द-गिर्द बदल गई। mk.co.kr के अनुसार, Samsung Biologics शीर्ष 10 से बाहर हो गई, जबकि Samsung Electro-Mechanics ने नई एंट्री की। Hanwha Aerospace और KB Financial भी बाहर हो गए। नई शामिल कंपनियों में SK Square, Doosan Enerbility और HD Hyundai Electric शामिल हैं। Samsung Electro-Mechanics खास रही क्योंकि उसका शेयर मूल्य एक साल में 10 गुना हो गया, जिससे Samsung समूह के भीतर बाजार पूंजीकरण क्रम में भी बदलाव आया। यह बदलाव दिखाता है कि AI से जुड़ी उम्मीदें KOSPI के बड़े शेयरों की तस्वीर बदल रही हैं। आगे की दिशा संबंधित कंपनियों के नतीजों और बाजार मूल्यांकन पर निर्भर हो सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Top 10 KOSPI berubah: saham penerima manfaat AI mendominasi, Samsung Electro-Mechanics masuk",
-        "excerpt": "Daftar 10 besar KOSPI berdasarkan kapitalisasi pasar bergeser ke saham penerima manfaat AI, dengan Samsung Biologics, Hanwha Aerospace dan KB Financial keluar.",
-        "body": "Komposisi 10 besar perusahaan KOSPI berdasarkan kapitalisasi pasar baru-baru ini berubah dengan fokus pada saham penerima manfaat AI. Menurut mk.co.kr, Samsung Biologics keluar dari daftar, sementara Samsung Electro-Mechanics masuk untuk pertama kali. Hanwha Aerospace dan KB Financial juga tersingkir. Nama baru yang masuk mencakup SK Square, Doosan Enerbility dan HD Hyundai Electric. Samsung Electro-Mechanics menonjol karena harga sahamnya naik 10 kali lipat dalam satu tahun, sehingga turut mengubah peringkat kapitalisasi pasar di dalam grup Samsung. Perubahan ini menunjukkan bahwa ekspektasi terkait AI sedang menggeser peta saham besar KOSPI. Arah berikutnya dapat bergantung pada kinerja dan penilaian pasar. Sumber: mk.co.kr"
       }
     }
   }
