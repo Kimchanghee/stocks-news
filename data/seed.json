@@ -1,5 +1,230 @@
 [
   {
+    "id": "74dfc13f776e",
+    "slug": "내-주식-1000원도-안-돼속타는-개미들-나-떨고-있니-111594",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T16:14:06.058Z",
+    "updatedAt": "2026-05-15T16:14:06.058Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598441",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598441",
+    "titleFingerprint": "a09d21829607c0b891b41a64babecd2a092872e8",
+    "dedupKeys": [
+      "74dfc13f776e917fabdd4939edf1174f6eb247fb",
+      "a09d21829607c0b891b41a64babecd2a092872e8",
+      "fbc10f6ee2ae73f3df72e36824cf961643410c0a"
+    ],
+    "imageUrl": "/images/articles/74dfc13f776e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "1000원 미만 주식 불안 커진 개미들, 저가주 급락에 시선 집중",
+        "excerpt": "한국경제는 1000원에도 못 미치는 주식을 보유한 개인 투자자들의 불안감을 조명하며, 저가주 하락이 투자심리에 미치는 영향을 전했다.",
+        "body": "한국경제는 1000원에도 미치지 못하는 주식을 보유한 개인 투자자들의 불안감을 다뤘다. 기사 제목은 “내 주식 1000원도 안 돼?”라는 반응을 앞세워, 저가주를 보유한 개미 투자자들이 주가 수준을 확인하며 흔들리는 분위기를 전한다. 핵심 수치는 1000원이다. 주가가 이 선을 밑돌면 투자자들은 손실 확대 가능성과 회복 지연에 민감해질 수밖에 없다. 특정 종목이나 추가 수치는 제공된 원문에 포함되지 않았지만, 보도는 저가주 하락이 개인 투자심리에 부담으로 작용하고 있음을 보여준다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Stocks Under 1,000 Won Stir Retail Investor Anxiety as Low-Priced Shares Draw Attention",
+        "excerpt": "Hankyung reported on the anxiety of retail investors holding shares priced below 1,000 won, highlighting how falling low-priced stocks weigh on sentiment.",
+        "body": "Hankyung reported on the unease among retail investors holding shares worth less than 1,000 won. The headline, “My stock isn’t even 1,000 won?” captures the reaction of individual investors checking the price level of low-priced shares and feeling unsettled. The key figure is 1,000 won. When a stock trades below that line, investors naturally become more sensitive to the possibility of deeper losses and a delayed recovery. The supplied source does not include specific company names or additional figures, but the report shows that weakness in low-priced shares is adding pressure to retail investor sentiment. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "1000ウォン未満の株に個人投資家の不安、低位株下落へ関心集中",
+        "excerpt": "韓国経済新聞は、1000ウォンにも届かない株を保有する個人投資家の不安を取り上げ、低位株下落が投資心理に与える影響を伝えた。",
+        "body": "韓国経済新聞は、1000ウォンにも満たない株を保有する個人投資家の不安を報じた。見出しの「自分の株が1000ウォンにもならないのか」という反応は、低位株を持つ個人投資家が株価水準を確認し、動揺している雰囲気を示している。中心となる数字は1000ウォンだ。株価がこの水準を下回ると、投資家は損失拡大の可能性や回復の遅れに敏感にならざるを得ない。提供された原文には具体的な銘柄名や追加数値は含まれていないが、低位株の下落が個人投資家心理の負担になっていることを伝えている。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "低于1000韩元股票引发散户不安，低价股下跌受到关注",
+        "excerpt": "韩国经济新闻报道了持有低于1000韩元股票的个人投资者的不安，指出低价股下跌正在影响投资情绪。",
+        "body": "韩国经济新闻报道了持有价格不到1000韩元股票的个人投资者的不安。标题中“我的股票连1000韩元都不到吗？”这一反应，呈现了散户在确认低价股股价水平后感到动摇的氛围。核心数字是1000韩元。当股价跌破这一水平时，投资者自然会对亏损扩大和复苏延迟更加敏感。所提供的原文未包含具体公司名称或更多数据，但报道显示，低价股走弱正在给个人投资者情绪带来压力。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Acciones bajo 1.000 wones inquietan a minoristas mientras caen los valores baratos",
+        "excerpt": "Hankyung informó sobre la ansiedad de inversores minoristas con acciones por debajo de 1.000 wones y el impacto de los valores baratos en el sentimiento.",
+        "body": "Hankyung informó sobre la inquietud de inversores minoristas que poseen acciones valoradas en menos de 1.000 wones. El titular, “¿Mi acción ni siquiera vale 1.000 wones?”, resume la reacción de quienes revisan el nivel de precios de valores baratos y se sienten nerviosos. La cifra clave es 1.000 wones. Cuando una acción cae por debajo de ese umbral, los inversores se vuelven más sensibles a la posibilidad de mayores pérdidas y de una recuperación más lenta. La fuente proporcionada no incluye nombres concretos de empresas ni cifras adicionales, pero el reporte muestra que la caída de los valores baratos pesa sobre el ánimo de los inversores minoristas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Ações abaixo de 1.000 wons aumentam ansiedade de pequenos investidores",
+        "excerpt": "O Hankyung relatou a preocupação de investidores individuais com ações abaixo de 1.000 wons, mostrando como a queda de papéis baratos pesa no sentimento.",
+        "body": "O Hankyung relatou a inquietação de investidores individuais que possuem ações avaliadas em menos de 1.000 wons. A manchete, “Minha ação nem vale 1.000 wons?”, expressa a reação de pequenos investidores ao conferir o nível de preço de papéis baratos e se sentir pressionados. O número central é 1.000 wons. Quando uma ação fica abaixo desse patamar, investidores tendem a ficar mais sensíveis ao risco de perdas maiores e de uma recuperação mais lenta. A fonte fornecida não traz nomes específicos de empresas nem dados adicionais, mas a reportagem mostra que a fraqueza dos papéis baratos pesa sobre o sentimento dos investidores individuais. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Aktien unter 1.000 Won verunsichern Kleinanleger, Billigwerte im Fokus",
+        "excerpt": "Hankyung berichtete über die Sorge von Kleinanlegern mit Aktien unter 1.000 Won und darüber, wie fallende Billigwerte die Stimmung belasten.",
+        "body": "Hankyung berichtete über die Unruhe unter Kleinanlegern, die Aktien im Wert von weniger als 1.000 Won halten. Die Überschrift „Ist meine Aktie nicht einmal 1.000 Won wert?“ fasst die Reaktion einzelner Anleger zusammen, die das Kursniveau von Billigwerten prüfen und verunsichert sind. Die zentrale Zahl lautet 1.000 Won. Fällt eine Aktie unter diese Marke, reagieren Anleger sensibler auf mögliche weitere Verluste und eine verzögerte Erholung. Die bereitgestellte Quelle nennt keine konkreten Unternehmen oder zusätzlichen Kennzahlen, zeigt aber, dass die Schwäche niedrig bewerteter Aktien die Stimmung der Kleinanleger belastet. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les actions sous 1 000 wons inquiètent les particuliers, les titres bon marché scrutés",
+        "excerpt": "Hankyung a rapporté l’inquiétude des investisseurs particuliers détenant des actions sous 1 000 wons et l’effet de ces baisses sur le sentiment.",
+        "body": "Hankyung a rapporté l’inquiétude des investisseurs particuliers qui détiennent des actions valant moins de 1 000 wons. Le titre, « Mon action ne vaut même pas 1 000 wons ? », reflète la réaction d’épargnants qui vérifient le niveau des titres bon marché et se sentent fragilisés. Le chiffre central est 1 000 wons. Lorsqu’une action passe sous ce seuil, les investisseurs deviennent plus sensibles au risque de pertes accrues et de reprise retardée. La source fournie ne contient pas de noms d’entreprises précis ni de chiffres supplémentaires, mais le reportage montre que la faiblesse des actions bon marché pèse sur le moral des particuliers. Source : hankyung.com"
+      },
+      "ar": {
+        "title": "أسهم دون 1000 وون تزيد قلق المستثمرين الأفراد مع تراجع الأسهم الرخيصة",
+        "excerpt": "أفاد موقع هانكيونغ بأن المستثمرين الأفراد الذين يملكون أسهماً تقل عن 1000 وون يشعرون بالقلق، مع ضغط الأسهم الرخيصة على المعنويات.",
+        "body": "أفاد موقع هانكيونغ بقلق المستثمرين الأفراد الذين يملكون أسهماً تقل قيمتها عن 1000 وون. ويعكس العنوان، «هل سهمي لا يساوي حتى 1000 وون؟»، رد فعل المستثمرين الأفراد عند مراجعة مستويات أسعار الأسهم الرخيصة وشعورهم بالاضطراب. الرقم الأساسي هو 1000 وون. عندما يهبط السهم دون هذا المستوى، يصبح المستثمرون أكثر حساسية لاحتمال اتساع الخسائر وتأخر التعافي. لا يتضمن النص المقدم أسماء شركات محددة أو أرقاماً إضافية، لكنه يوضح أن ضعف الأسهم الرخيصة يضغط على معنويات المستثمرين الأفراد. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "1,000 वॉन से नीचे शेयरों ने छोटे निवेशकों की चिंता बढ़ाई",
+        "excerpt": "हैनक्यूंग ने 1,000 वॉन से कम कीमत वाले शेयर रखने वाले खुदरा निवेशकों की बेचैनी और सस्ते शेयरों की गिरावट से भावनाओं पर असर को बताया।",
+        "body": "हैनक्यूंग ने उन खुदरा निवेशकों की बेचैनी पर रिपोर्ट की जिनके पास 1,000 वॉन से कम कीमत वाले शेयर हैं। शीर्षक, “क्या मेरा शेयर 1,000 वॉन का भी नहीं?”, उन व्यक्तिगत निवेशकों की प्रतिक्रिया दिखाता है जो सस्ते शेयरों का मूल्य स्तर देखकर अस्थिर महसूस कर रहे हैं। मुख्य आंकड़ा 1,000 वॉन है। जब कोई शेयर इस स्तर से नीचे जाता है, तो निवेशक बड़े नुकसान और रिकवरी में देरी की संभावना को लेकर अधिक संवेदनशील हो जाते हैं। उपलब्ध मूल पाठ में किसी खास कंपनी का नाम या अतिरिक्त आंकड़े नहीं हैं, लेकिन रिपोर्ट दिखाती है कि सस्ते शेयरों की कमजोरी खुदरा निवेशक भावना पर दबाव डाल रही है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Saham di Bawah 1.000 Won Picu Cemas Investor Ritel Saat Saham Murah Disorot",
+        "excerpt": "Hankyung melaporkan kecemasan investor ritel yang memegang saham di bawah 1.000 won, menyoroti dampak pelemahan saham murah pada sentimen.",
+        "body": "Hankyung melaporkan kegelisahan investor ritel yang memegang saham bernilai kurang dari 1.000 won. Judul “Saham saya bahkan tidak sampai 1.000 won?” menggambarkan reaksi investor individu saat memeriksa level harga saham murah dan merasa goyah. Angka kuncinya adalah 1.000 won. Ketika harga saham berada di bawah garis itu, investor menjadi lebih sensitif terhadap kemungkinan kerugian yang lebih besar dan pemulihan yang tertunda. Sumber yang diberikan tidak memuat nama emiten tertentu atau angka tambahan, tetapi laporan tersebut menunjukkan bahwa pelemahan saham murah membebani sentimen investor ritel. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "107292250dc6",
+    "slug": "sk하이닉스-목표주가-300만원-또-나왔네sk증권-이어-kb증권도-상향조정-106586",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T16:12:55.025Z",
+    "updatedAt": "2026-05-15T16:12:55.025Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048718",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048718",
+    "titleFingerprint": "6722b0a0e8bde42e8b0e9a40e532854e4c81db0e",
+    "dedupKeys": [
+      "107292250dc6fe094d5b2d95ca5b678cd6391644",
+      "6722b0a0e8bde42e8b0e9a40e532854e4c81db0e",
+      "3efb1d32cd8c65e65c5f6c1f68676e72350aab6e"
+    ],
+    "imageUrl": "/images/articles/107292250dc6.jpg",
+    "i18n": {
+      "ko": {
+        "title": "SK하이닉스 목표주가 300만원, KB증권도 상향…2분기 실적 기대 커졌다",
+        "excerpt": "KB증권은 15일 SK하이닉스 목표주가를 300만원으로 올렸다. SK증권에 이은 상향 조정으로, 2분기 영업이익이 시장 예상치를 13% 웃돌 것으로 봤다.",
+        "body": "KB증권은 15일 SK하이닉스에 대한 목표주가를 300만원으로 상향 조정했다. 앞서 SK증권도 같은 수준의 목표주가를 제시한 데 이어 또 한 번 300만원 전망이 나온 것이다. KB증권은 올해 2분기 SK하이닉스 영업이익이 시장 예상치를 13% 웃도는 실적을 낼 것으로 봤다. 이번 조정은 증권가가 SK하이닉스의 단기 실적 흐름을 긍정적으로 평가하고 있음을 보여준다. 다만 원문에서 확인되는 핵심 근거는 목표주가 상향과 2분기 영업이익 전망치 상회 가능성에 한정된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "SK Hynix Target Price Raised to 3 Million Won by KB Securities After SK Securities",
+        "excerpt": "KB Securities raised its target price for SK Hynix to 3 million won on the 15th, following SK Securities, citing expectations that Q2 operating profit will beat market estimates by 13%.",
+        "body": "KB Securities on the 15th raised its target price for SK Hynix to 3 million won. The move follows SK Securities, which had also presented the same target price, marking another brokerage call at the 3 million won level. KB Securities said SK Hynix’s operating profit for the second quarter of this year is expected to exceed market expectations by 13%. The revision indicates that brokerages are viewing SK Hynix’s near-term earnings trend positively. However, the key facts confirmed in the source are limited to the target price increase and the expectation that second-quarter operating profit may come in above consensus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "SKハイニックス目標株価300万ウォン、KB証券も引き上げ",
+        "excerpt": "KB証券は15日、SKハイニックスの目標株価を300万ウォンに引き上げた。SK証券に続く上方修正で、4〜6月期営業利益は市場予想を13％上回ると見込んだ。",
+        "body": "KB証券は15日、SKハイニックスの目標株価を300万ウォンに引き上げた。先にSK証券も同じ水準の目標株価を提示しており、再び300万ウォンの見通しが示された形だ。KB証券は、今年第2四半期のSKハイニックスの営業利益が市場予想を13％上回る実績になると見ている。今回の修正は、証券業界がSKハイニックスの短期的な業績の流れを前向きに評価していることを示す。ただし、原文で確認できる主な根拠は、目標株価の引き上げと第2四半期営業利益が市場予想を上回る可能性に限られる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "SK海力士目标价300万韩元，KB证券继SK证券后上调",
+        "excerpt": "KB证券15日将SK海力士目标价上调至300万韩元，继SK证券之后给出同一水平，并预计其二季度营业利润将高出市场预期13%。",
+        "body": "KB证券15日将SK海力士的目标股价上调至300万韩元。此前SK证券也提出了相同水平的目标价，因此市场再次出现300万韩元的预期。KB证券认为，SK海力士今年第二季度营业利润将比市场预期高出13%。此次调整显示，证券行业对SK海力士短期业绩走势持积极评价。不过，原文可确认的核心依据仅限于目标价上调，以及第二季度营业利润可能超过市场预期这一判断。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "SK Hynix recibe precio objetivo de 3 millones de wones también de KB Securities",
+        "excerpt": "KB Securities elevó el día 15 su precio objetivo para SK Hynix a 3 millones de wones, tras SK Securities, al prever que el beneficio operativo del segundo trimestre supere el consenso en un 13%.",
+        "body": "KB Securities elevó el día 15 su precio objetivo para SK Hynix a 3 millones de wones. La decisión llega después de que SK Securities también presentara el mismo nivel de precio objetivo, por lo que vuelve a aparecer una previsión de 3 millones de wones. KB Securities estimó que el beneficio operativo de SK Hynix en el segundo trimestre de este año superará en un 13% las expectativas del mercado. El ajuste muestra que las firmas de valores evalúan de forma positiva la tendencia de resultados de corto plazo de SK Hynix. No obstante, los datos confirmados en la fuente se limitan al alza del precio objetivo y a la posible superación del consenso en el beneficio operativo trimestral. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "SK Hynix tem preço-alvo de 3 milhões de won também elevado pela KB Securities",
+        "excerpt": "A KB Securities elevou no dia 15 o preço-alvo da SK Hynix para 3 milhões de won, após a SK Securities, prevendo lucro operacional do 2º trimestre 13% acima do consenso.",
+        "body": "A KB Securities elevou no dia 15 seu preço-alvo para a SK Hynix a 3 milhões de won. A decisão veio depois de a SK Securities também apresentar o mesmo nível de preço-alvo, colocando novamente em destaque a projeção de 3 milhões de won. A KB Securities avaliou que o lucro operacional da SK Hynix no segundo trimestre deste ano deve superar as expectativas do mercado em 13%. A revisão indica que corretoras veem de forma positiva a trajetória de resultados de curto prazo da SK Hynix. Ainda assim, os fatos confirmados na fonte se limitam à elevação do preço-alvo e à possibilidade de o lucro operacional do segundo trimestre ficar acima do consenso. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "SK Hynix: KB Securities hebt Kursziel nach SK Securities auf 3 Mio. Won an",
+        "excerpt": "KB Securities hob am 15. das Kursziel für SK Hynix auf 3 Mio. Won an. Nach SK Securities rechnet auch KB damit, dass der Betriebsgewinn im zweiten Quartal die Markterwartung um 13% übertrifft.",
+        "body": "KB Securities hat am 15. das Kursziel für SK Hynix auf 3 Mio. Won angehoben. Zuvor hatte bereits SK Securities ein Kursziel auf demselben Niveau genannt, womit erneut eine Prognose von 3 Mio. Won vorliegt. KB Securities erwartet, dass der Betriebsgewinn von SK Hynix im zweiten Quartal dieses Jahres die Markterwartungen um 13% übertreffen wird. Die Anpassung zeigt, dass Wertpapierhäuser die kurzfristige Ergebnisentwicklung von SK Hynix positiv einschätzen. Die im Ausgangstext bestätigten Kerndaten beschränken sich jedoch auf die Anhebung des Kursziels und die Erwartung eines über dem Konsens liegenden Betriebsgewinns im zweiten Quartal. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "SK Hynix: KB Securities relève aussi l’objectif à 3 millions de wons",
+        "excerpt": "KB Securities a relevé le 15 son objectif de cours sur SK Hynix à 3 millions de wons, après SK Securities, en anticipant un bénéfice opérationnel du T2 supérieur de 13% au consensus.",
+        "body": "KB Securities a relevé le 15 son objectif de cours sur SK Hynix à 3 millions de wons. Cette décision intervient après que SK Securities a également présenté un objectif au même niveau, faisant de nouveau apparaître une estimation à 3 millions de wons. KB Securities estime que le bénéfice opérationnel de SK Hynix au deuxième trimestre de cette année dépassera les attentes du marché de 13%. Cette révision montre que les maisons de courtage évaluent positivement la dynamique de résultats à court terme de SK Hynix. Toutefois, les faits confirmés par la source se limitent à la hausse de l’objectif de cours et à la possibilité d’un bénéfice opérationnel trimestriel supérieur au consensus. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "سهم SK Hynix: KB Securities ترفع السعر المستهدف إلى 3 ملايين وون",
+        "excerpt": "رفعت KB Securities في 15 من الشهر السعر المستهدف لسهم SK Hynix إلى 3 ملايين وون، بعد SK Securities، متوقعة أن يتجاوز الربح التشغيلي للربع الثاني توقعات السوق بنسبة 13%.",
+        "body": "رفعت KB Securities في 15 من الشهر السعر المستهدف لسهم SK Hynix إلى 3 ملايين وون. وجاءت الخطوة بعد أن قدمت SK Securities أيضا سعرا مستهدفا عند المستوى نفسه، ما أعاد طرح توقع 3 ملايين وون. وترى KB Securities أن الربح التشغيلي لـ SK Hynix في الربع الثاني من هذا العام سيتجاوز توقعات السوق بنسبة 13%. ويشير هذا التعديل إلى أن شركات الأوراق المالية تنظر بإيجابية إلى مسار الأرباح القصير الأجل للشركة. ومع ذلك، فإن الحقائق المؤكدة في النص الأصلي تقتصر على رفع السعر المستهدف واحتمال تجاوز الربح التشغيلي للربع الثاني توقعات السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "SK Hynix का लक्ष्य मूल्य 30 लाख वॉन, KB Securities ने भी बढ़ाया अनुमान",
+        "excerpt": "KB Securities ने 15 तारीख को SK Hynix का लक्ष्य मूल्य 30 लाख वॉन कर दिया। SK Securities के बाद यह बढ़ोतरी आई है, और कंपनी ने दूसरी तिमाही का परिचालन लाभ बाजार अनुमान से 13% ऊपर रहने की उम्मीद जताई।",
+        "body": "KB Securities ने 15 तारीख को SK Hynix के लिए लक्ष्य मूल्य बढ़ाकर 30 लाख वॉन कर दिया। इससे पहले SK Securities ने भी इसी स्तर का लक्ष्य मूल्य प्रस्तुत किया था, इसलिए 30 लाख वॉन का अनुमान फिर सामने आया है। KB Securities के अनुसार, इस वर्ष दूसरी तिमाही में SK Hynix का परिचालन लाभ बाजार की अपेक्षा से 13% अधिक रह सकता है। यह संशोधन बताता है कि प्रतिभूति कंपनियां SK Hynix की निकट अवधि की आय प्रवृत्ति को सकारात्मक रूप से देख रही हैं। हालांकि मूल स्रोत में पुष्टि किए गए मुख्य तथ्य लक्ष्य मूल्य वृद्धि और दूसरी तिमाही के परिचालन लाभ के बाजार अनुमान से ऊपर रहने की संभावना तक सीमित हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Target Harga SK Hynix 3 Juta Won, KB Securities Ikut Naikkan Proyeksi",
+        "excerpt": "KB Securities pada tanggal 15 menaikkan target harga SK Hynix menjadi 3 juta won, mengikuti SK Securities, dengan perkiraan laba operasi kuartal II melampaui ekspektasi pasar sebesar 13%.",
+        "body": "KB Securities pada tanggal 15 menaikkan target harga untuk SK Hynix menjadi 3 juta won. Langkah ini menyusul SK Securities yang sebelumnya juga menetapkan target harga pada level yang sama, sehingga proyeksi 3 juta won kembali muncul. KB Securities memperkirakan laba operasi SK Hynix pada kuartal kedua tahun ini akan melampaui ekspektasi pasar sebesar 13%. Penyesuaian tersebut menunjukkan bahwa perusahaan sekuritas menilai positif arah kinerja jangka pendek SK Hynix. Namun, fakta utama yang terkonfirmasi dalam sumber hanya terbatas pada kenaikan target harga dan kemungkinan laba operasi kuartal kedua berada di atas konsensus pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "cec272ffd62a",
+    "slug": "스테이블코인-이자는-제한하고-sec-권한도-축소미국-클래러티-법안-상원-은행위-통과-233965",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T16:11:58.406Z",
+    "updatedAt": "2026-05-15T16:11:58.406Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048722",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048722",
+    "titleFingerprint": "68b1c854a5d0e955c5472483d163357984c24b74",
+    "dedupKeys": [
+      "cec272ffd62a7c56a655cc6b7af1383448512556",
+      "68b1c854a5d0e955c5472483d163357984c24b74",
+      "87a3459a81ea287b03be8afcc80284261fd9b791"
+    ],
+    "imageUrl": "/images/articles/cec272ffd62a.png",
+    "i18n": {
+      "ko": {
+        "title": "미국 클래러티 법안, 스테이블코인 이자 제한·SEC 권한 축소로 상원 은행위 통과",
+        "excerpt": "미국 상원 은행위원회가 가상자산 규제 교착을 풀기 위해 클래러티 법안을 통과시켰고, CFTC 권한 확대와 스테이블코인 보상 제한이 핵심으로 떠올랐다.",
+        "body": "미국 의회에서 수개월간 교착 상태에 놓였던 가상자산 규제 논의가 상원 은행위원회의 ‘클래러티 법안’ 통과로 진전을 보였다. 법안은 가상자산 시장에서 CFTC 관할권을 대폭 확대하고, SEC 권한은 상대적으로 축소하는 내용을 담았다. 스테이블코인과 관련해서는 이자를 제한하되 거래 보상은 허용하는 방향이 제시됐다. 표결에서는 민주당 의원 2명이 찬성표를 던지며 초당적 합의의 가능성을 보였다. 다만 트럼프 일가를 둘러싼 이해충돌 논란은 향후 입법 과정의 과제로 남았다. 법안이 최종 통과될 경우 미국 가상자산 감독 체계와 스테이블코인 사업 모델에 직접 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "US CLARITY Act Passes Senate Panel With Stablecoin Interest Limits and Smaller SEC Role",
+        "excerpt": "The US Senate Banking Committee passed the CLARITY Act to break a crypto regulation deadlock, highlighting expanded CFTC authority and limits on stablecoin rewards.",
+        "body": "Crypto regulation talks in the US Congress, stalled for months, moved forward as the Senate Banking Committee passed the CLARITY Act. The bill would significantly expand the CFTC’s jurisdiction over digital asset markets while reducing the SEC’s relative authority. On stablecoins, it would restrict interest payments but allow transaction-related rewards. Two Democratic senators voted in favor, pointing to the possibility of bipartisan agreement. However, controversy over potential conflicts of interest involving the Trump family remains an issue for the next stage of legislation. If the bill is ultimately enacted, it is expected to directly affect the US digital asset oversight framework and stablecoin business models. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "米クラリティ法案、ステーブルコイン利息制限とSEC権限縮小で上院委通過",
+        "excerpt": "米上院銀行委員会は暗号資産規制の停滞を打開するためクラリティ法案を通過させ、CFTC権限拡大とステーブルコイン報酬制限が焦点となった。",
+        "body": "米議会で数カ月にわたり停滞していた暗号資産規制の議論は、上院銀行委員会による「クラリティ法案」の通過で前進した。法案は暗号資産市場におけるCFTCの管轄権を大幅に拡大し、SECの権限を相対的に縮小する内容を含む。ステーブルコインについては利息を制限する一方、取引報酬は認める方向が示された。採決では民主党議員2人が賛成票を投じ、超党派合意の可能性を示した。ただし、トランプ一家をめぐる利益相反論争は今後の立法過程の課題として残る。最終的に成立すれば、米国の暗号資産監督体制とステーブルコイン事業モデルに直接影響するとみられる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "美国CLARITY法案获参院委员会通过，限制稳定币利息并削弱SEC权限",
+        "excerpt": "美国参议院银行委员会通过CLARITY法案，以打破加密资产监管僵局，核心包括扩大CFTC权限和限制稳定币奖励。",
+        "body": "美国国会围绕加密资产监管的讨论已僵持数月，随着参议院银行委员会通过“CLARITY法案”取得进展。该法案拟大幅扩大CFTC在数字资产市场的管辖权，同时相对缩小SEC权限。稳定币方面，法案提出限制利息，但允许交易相关奖励。表决中有2名民主党议员投下赞成票，显示出形成两党共识的可能性。不过，围绕特朗普家族的利益冲突争议仍是后续立法过程中的课题。若法案最终通过，预计将直接影响美国加密资产监管体系和稳定币商业模式。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ley CLARITY de EE. UU. avanza con límites a intereses de stablecoins y menor papel de la SEC",
+        "excerpt": "El Comité Bancario del Senado de EE. UU. aprobó la ley CLARITY para destrabar la regulación cripto, con más poder para la CFTC y límites a recompensas de stablecoins.",
+        "body": "El debate sobre la regulación de criptoactivos en el Congreso de Estados Unidos, estancado durante meses, avanzó con la aprobación de la ley CLARITY en el Comité Bancario del Senado. El proyecto amplía de forma significativa la jurisdicción de la CFTC sobre los mercados de activos digitales y reduce de manera relativa la autoridad de la SEC. En stablecoins, plantea limitar los intereses, aunque permite recompensas vinculadas a transacciones. Dos senadores demócratas votaron a favor, lo que mostró una posible base de acuerdo bipartidista. Sin embargo, la controversia por posibles conflictos de interés relacionados con la familia Trump sigue pendiente en el proceso legislativo. Si se aprueba finalmente, la norma impactaría directamente la supervisión cripto de EE. UU. y los modelos de negocio de stablecoins. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lei CLARITY dos EUA avança com limite a juros de stablecoins e menor poder da SEC",
+        "excerpt": "O Comitê Bancário do Senado dos EUA aprovou a Lei CLARITY para destravar a regulação cripto, com expansão da CFTC e restrições a recompensas de stablecoins.",
+        "body": "As discussões sobre regulação de criptoativos no Congresso dos Estados Unidos, paralisadas por meses, avançaram com a aprovação da Lei CLARITY pelo Comitê Bancário do Senado. O projeto amplia de forma significativa a jurisdição da CFTC sobre os mercados de ativos digitais e reduz relativamente a autoridade da SEC. Em relação às stablecoins, o texto limita o pagamento de juros, mas permite recompensas ligadas a transações. Dois senadores democratas votaram a favor, indicando possibilidade de consenso bipartidário. Ainda assim, a controvérsia sobre conflitos de interesse envolvendo a família Trump permanece como desafio no processo legislativo. Se for aprovado em definitivo, o projeto deve afetar diretamente a supervisão cripto dos EUA e os modelos de negócios de stablecoins. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "US-CLARITY-Gesetz passiert Senatsausschuss mit Stablecoin-Zinslimits und kleinerer SEC-Rolle",
+        "excerpt": "Der Bankenausschuss des US-Senats billigte das CLARITY-Gesetz, um den Kryptoregulierung-Stillstand zu lösen; zentral sind mehr CFTC-Macht und Stablecoin-Limits.",
+        "body": "Die seit Monaten festgefahrenen Beratungen zur Regulierung von Kryptoassets im US-Kongress haben mit der Verabschiedung des CLARITY-Gesetzes im Bankenausschuss des Senats Fortschritte gemacht. Der Entwurf würde die Zuständigkeit der CFTC für Märkte digitaler Vermögenswerte deutlich ausweiten und die Rolle der SEC relativ verringern. Bei Stablecoins sollen Zinszahlungen beschränkt werden, während transaktionsbezogene Vergütungen erlaubt bleiben. Zwei demokratische Senatoren stimmten dafür und signalisierten damit die Möglichkeit einer parteiübergreifenden Einigung. Offen bleibt jedoch die Kontroverse um mögliche Interessenkonflikte der Trump-Familie. Bei endgültiger Verabschiedung dürfte das Gesetz die US-Aufsicht über Kryptoassets und Geschäftsmodelle für Stablecoins direkt beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La loi CLARITY avance aux États-Unis avec limites sur les intérêts des stablecoins et recul de la SEC",
+        "excerpt": "La commission bancaire du Sénat américain a adopté la loi CLARITY pour sortir l’encadrement crypto de l’impasse, avec plus de pouvoirs pour la CFTC et des limites sur les stablecoins.",
+        "body": "Les discussions sur la régulation des cryptoactifs au Congrès américain, bloquées depuis plusieurs mois, ont progressé avec l’adoption de la loi CLARITY par la commission bancaire du Sénat. Le texte élargit fortement la compétence de la CFTC sur les marchés d’actifs numériques et réduit relativement l’autorité de la SEC. Pour les stablecoins, il prévoit de limiter les intérêts tout en autorisant les récompenses liées aux transactions. Deux sénateurs démocrates ont voté pour, montrant la possibilité d’un accord bipartisan. Toutefois, la controverse sur les conflits d’intérêts impliquant la famille Trump reste un point à résoudre dans la suite du processus législatif. En cas d’adoption finale, la loi devrait affecter directement la supervision crypto américaine et les modèles économiques des stablecoins. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قانون CLARITY الأميركي يمر في لجنة الشيوخ مع تقييد فوائد العملات المستقرة وتقليص دور SEC",
+        "excerpt": "أقرت لجنة البنوك في مجلس الشيوخ الأميركي قانون CLARITY لكسر جمود تنظيم الأصول المشفرة، مع توسيع صلاحيات CFTC وتقييد مكافآت العملات المستقرة.",
+        "body": "تقدمت مناقشات تنظيم الأصول المشفرة في الكونغرس الأميركي، بعد تعثر استمر أشهرا، مع إقرار لجنة البنوك في مجلس الشيوخ قانون CLARITY. يوسع مشروع القانون بشكل كبير اختصاص CFTC في أسواق الأصول الرقمية، بينما يقلص نسبيا صلاحيات SEC. وبالنسبة إلى العملات المستقرة، يقيد دفع الفوائد لكنه يسمح بالمكافآت المرتبطة بالمعاملات. وصوت عضوان ديمقراطيان لمصلحة المشروع، ما أظهر إمكانية التوصل إلى توافق بين الحزبين. لكن الجدل بشأن تضارب المصالح المرتبط بعائلة ترامب لا يزال تحديا في المراحل التشريعية المقبلة. وإذا أقر القانون نهائيا، فمن المتوقع أن يؤثر مباشرة في إطار الرقابة الأميركية على الأصول المشفرة ونماذج أعمال العملات المستقرة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "अमेरिकी CLARITY विधेयक सीनेट समिति से पारित, स्टेबलकॉइन ब्याज सीमित और SEC भूमिका घटेगी",
+        "excerpt": "अमेरिकी सीनेट बैंकिंग समिति ने क्रिप्टो नियमन की गतिरोध स्थिति तोड़ने के लिए CLARITY विधेयक पारित किया, जिसमें CFTC अधिकार विस्तार और स्टेबलकॉइन पुरस्कार सीमा मुख्य हैं।",
+        "body": "अमेरिकी कांग्रेस में कई महीनों से अटकी क्रिप्टो परिसंपत्ति नियमन चर्चा सीनेट बैंकिंग समिति द्वारा CLARITY विधेयक पारित किए जाने के बाद आगे बढ़ी। विधेयक डिजिटल परिसंपत्ति बाजारों में CFTC के अधिकार क्षेत्र को काफी बढ़ाता है और SEC की भूमिका को तुलनात्मक रूप से घटाता है। स्टेबलकॉइन के मामले में यह ब्याज भुगतान को सीमित करता है, लेकिन लेनदेन से जुड़े पुरस्कारों की अनुमति देता है। मतदान में दो डेमोक्रेट सीनेटरों ने समर्थन दिया, जिससे द्विदलीय सहमति की संभावना दिखी। हालांकि, ट्रंप परिवार से जुड़े हितों के टकराव का विवाद आगे की विधायी प्रक्रिया में चुनौती बना हुआ है। अंतिम मंजूरी मिलने पर यह कानून अमेरिकी क्रिप्टो निगरानी ढांचे और स्टेबलकॉइन कारोबारी मॉडलों पर सीधा प्रभाव डाल सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "RUU CLARITY AS Lolos Komite Senat, Bunga Stablecoin Dibatasi dan Wewenang SEC Dipangkas",
+        "excerpt": "Komite Perbankan Senat AS meloloskan RUU CLARITY untuk membuka kebuntuan regulasi kripto, dengan perluasan wewenang CFTC dan pembatasan imbalan stablecoin.",
+        "body": "Pembahasan regulasi aset kripto di Kongres Amerika Serikat yang macet selama berbulan-bulan bergerak maju setelah Komite Perbankan Senat meloloskan RUU CLARITY. RUU ini secara besar memperluas yurisdiksi CFTC atas pasar aset digital dan secara relatif mengurangi wewenang SEC. Untuk stablecoin, rancangan tersebut membatasi pembayaran bunga, tetapi tetap mengizinkan imbalan terkait transaksi. Dua senator Demokrat memberikan suara mendukung, menunjukkan kemungkinan tercapainya kesepakatan bipartisan. Namun, kontroversi konflik kepentingan yang melibatkan keluarga Trump masih menjadi pekerjaan rumah dalam proses legislasi berikutnya. Jika akhirnya disahkan, aturan ini diperkirakan berdampak langsung pada kerangka pengawasan kripto AS dan model bisnis stablecoin. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "61e0e3756155",
     "slug": "미국-물가가-한국-반도체-발목잡는다위험신호-도미노처럼-온다는데-오늘-나온-보고서-879127",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Ditutup Rekor 7.981,41, Level 8.000 Kini Makin Dekat",
         "excerpt": "KOSPI ditutup pada rekor tertinggi 7.981,41, membuat fokus pasar tertuju ke level 8.000. hankyung.com melaporkan indeks kini berada dalam jangkauan level itu.",
         "body": "KOSPI ditutup pada 7.981,41 dan mencetak rekor tertinggi baru berdasarkan harga penutupan. Menurut hankyung.com, indeks mengakhiri perdagangan di 7.981,41 dan bergerak sangat dekat ke level 8.000. Pasar kini menyoroti bahwa indeks telah masuk dalam jangkauan yang terlihat untuk apa yang disebut “KOSPI 8.000”. Angka penutupan ini menjadi indikator utama bahwa KOSPI telah berada di area tertinggi historis. Karena jarak menuju 8.000 tidak lagi besar, perhatian terhadap pergerakan indeks berikutnya diperkirakan meningkat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "99e8ba6250ec",
-    "slug": "나스닥은-고작-10-올랐는데60-수익률-낸-액티브-etf-비결은-279353",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T22:18:52.612Z",
-    "updatedAt": "2026-05-14T22:18:52.612Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146191i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146191i",
-    "titleFingerprint": "092a78233027187c3acbb6dfb2d8188c511f67df",
-    "dedupKeys": [
-      "99e8ba6250ecf266998fbe7a0bd0944402c17e2f",
-      "092a78233027187c3acbb6dfb2d8188c511f67df",
-      "93eb4835ed5d8d578f007b9e8bb5723bafc1ed2c"
-    ],
-    "imageUrl": "/images/articles/99e8ba6250ec.jpg",
-    "i18n": {
-      "ko": {
-        "title": "액티브 ETF 수익률 60%, 나스닥 10% 상승 앞선 비결은",
-        "excerpt": "한국경제는 나스닥 상승률이 10%에 그친 상황에서 60% 수익률을 낸 액티브 ETF 사례를 조명하며, 지수 추종과 다른 운용 성과의 차이를 짚었다.",
-        "body": "한국경제는 나스닥이 고작 10% 오른 가운데 60% 수익률을 기록한 액티브 ETF 사례를 보도했다. 이번 기사에서 핵심은 지수 전체의 상승률과 특정 액티브 ETF의 성과가 크게 벌어진 점이다. 액티브 ETF는 단순히 지수를 따라가는 상품과 달리 운용 전략에 따라 성과가 달라질 수 있다는 점에서 투자자 관심을 끌고 있다. 나스닥 10% 상승과 60% 수익률이라는 수치 차이는 ETF 선택에서 운용 방식과 종목 구성의 중요성을 보여준다. 향후 투자자들은 단기 수익률뿐 아니라 전략의 지속 가능성도 함께 살펴볼 필요가 있다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Active ETF Returns 60% as Nasdaq Gains Just 10%: What Stood Out",
-        "excerpt": "Hankyung reported on an active ETF that returned 60% while the Nasdaq rose only 10%, highlighting the performance gap between index moves and active management.",
-        "body": "Hankyung reported that an active ETF delivered a 60% return while the Nasdaq gained only 10%. The key point of the article is the wide gap between the broader index’s rise and the result achieved by a specific active ETF. Unlike products that simply track an index, active ETFs can show different outcomes depending on their management strategy. The contrast between a 10% Nasdaq gain and a 60% ETF return underscores the importance of investment approach and portfolio composition when choosing ETFs. Investors may need to look not only at short-term returns but also at whether the strategy can remain effective. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "アクティブETFが60%リターン、ナスダック10%高を上回った理由",
-        "excerpt": "韓国経済新聞は、ナスダックの上昇率が10%にとどまる中で60%のリターンを出したアクティブETFを取り上げ、運用成果の差に注目した。",
-        "body": "韓国経済新聞は、ナスダックがわずか10%上昇する中、60%のリターンを記録したアクティブETFの事例を報じた。記事の焦点は、市場全体を示す指数の上昇率と、特定のアクティブETFの成績に大きな開きが出た点にある。アクティブETFは単に指数に連動する商品とは異なり、運用戦略によって成果が変わり得る。ナスダック10%高とETF60%リターンという差は、ETF選びで運用方法や組み入れ銘柄が重要であることを示している。投資家は短期的な収益率だけでなく、戦略の持続性も確認する必要がある。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "主动型ETF收益率达60%，为何远超纳指10%涨幅",
-        "excerpt": "韩国经济新闻报道称，在纳斯达克仅上涨10%的情况下，一只主动型ETF取得60%收益率，凸显指数表现与主动管理成果的差异。",
-        "body": "韩国经济新闻报道称，在纳斯达克仅上涨10%的情况下，一只主动型ETF取得了60%的收益率。报道的核心在于，整体指数涨幅与特定主动型ETF表现之间出现明显差距。与单纯跟踪指数的产品不同，主动型ETF的表现可能因管理策略而异。纳斯达克10%的涨幅和ETF 60%的收益率形成对比，显示投资者在选择ETF时需要关注运作方式和持仓结构。未来，投资者不仅要看短期收益率，也有必要评估相关策略是否具备持续性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "ETF activo logra 60% de rentabilidad frente al 10% del Nasdaq",
-        "excerpt": "Hankyung informó sobre un ETF activo que obtuvo 60% de rentabilidad mientras el Nasdaq subió solo 10%, destacando la brecha frente al desempeño del índice.",
-        "body": "Hankyung informó que un ETF activo registró una rentabilidad del 60% mientras el Nasdaq avanzó solo un 10%. El punto central del artículo es la amplia diferencia entre la subida del índice general y el resultado alcanzado por un ETF activo específico. A diferencia de los productos que simplemente replican un índice, los ETF activos pueden mostrar resultados distintos según su estrategia de gestión. La comparación entre el 10% del Nasdaq y el 60% del ETF subraya la importancia del método de inversión y la composición de la cartera al elegir ETF. Los inversores deberían observar no solo la rentabilidad de corto plazo, sino también la sostenibilidad de la estrategia. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "ETF ativo rende 60% enquanto Nasdaq sobe só 10%; entenda o contraste",
-        "excerpt": "O Hankyung destacou um ETF ativo que rendeu 60% enquanto o Nasdaq avançou apenas 10%, mostrando a diferença entre o índice e a gestão ativa.",
-        "body": "O Hankyung informou que um ETF ativo registrou retorno de 60% enquanto o Nasdaq subiu apenas 10%. O ponto central da notícia é a grande diferença entre a valorização do índice amplo e o desempenho obtido por um ETF ativo específico. Ao contrário de produtos que apenas acompanham um índice, ETFs ativos podem apresentar resultados distintos conforme a estratégia de gestão. A comparação entre a alta de 10% do Nasdaq e o retorno de 60% do ETF mostra a importância do método de gestão e da composição da carteira na escolha de ETFs. Investidores devem avaliar não só o retorno de curto prazo, mas também a sustentabilidade da estratégia. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Aktiver ETF erzielt 60% Rendite, während Nasdaq nur 10% zulegt",
-        "excerpt": "Hankyung berichtete über einen aktiven ETF mit 60% Rendite, obwohl der Nasdaq nur 10% stieg, und hob die Lücke zwischen Index und aktiver Verwaltung hervor.",
-        "body": "Hankyung berichtete, dass ein aktiver ETF eine Rendite von 60% erzielte, während der Nasdaq nur um 10% zulegte. Im Mittelpunkt steht die deutliche Differenz zwischen dem Anstieg des Gesamtindex und dem Ergebnis eines bestimmten aktiven ETF. Anders als Produkte, die lediglich einen Index nachbilden, können aktive ETFs je nach Verwaltungsstrategie unterschiedliche Ergebnisse liefern. Der Vergleich zwischen 10% Nasdaq-Plus und 60% ETF-Rendite zeigt, wie wichtig Anlagemethode und Portfoliozusammensetzung bei der ETF-Auswahl sind. Anleger sollten daher nicht nur kurzfristige Renditen, sondern auch die Tragfähigkeit der Strategie prüfen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "ETF actif à 60% de rendement contre 10% pour le Nasdaq",
-        "excerpt": "Hankyung a rapporté le cas d’un ETF actif ayant gagné 60% alors que le Nasdaq ne progressait que de 10%, soulignant l’écart avec la gestion indicielle.",
-        "body": "Hankyung a rapporté qu’un ETF actif avait enregistré un rendement de 60% alors que le Nasdaq ne gagnait que 10%. Le point central de l’article est l’écart important entre la progression de l’indice global et la performance obtenue par un ETF actif précis. Contrairement aux produits qui suivent simplement un indice, les ETF actifs peuvent afficher des résultats différents selon leur stratégie de gestion. La comparaison entre les 10% du Nasdaq et les 60% de l’ETF met en évidence l’importance de la méthode de gestion et de la composition du portefeuille dans le choix des ETF. Les investisseurs doivent aussi examiner la durabilité de la stratégie, au-delà du rendement de court terme. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق ETF نشط يحقق 60% مقابل صعود ناسداك 10% فقط",
-        "excerpt": "ذكرت هانكيونغ أن صندوق ETF نشطا حقق عائدا قدره 60% بينما ارتفع ناسداك 10% فقط، ما يبرز الفارق بين أداء المؤشر والإدارة النشطة.",
-        "body": "ذكرت هانكيونغ أن صندوق ETF نشطا سجل عائدا قدره 60% في وقت ارتفع فيه مؤشر ناسداك 10% فقط. جوهر التقرير هو الفارق الكبير بين صعود المؤشر العام ونتيجة صندوق ETF نشط محدد. وعلى خلاف المنتجات التي تكتفي بتتبع المؤشر، يمكن أن تختلف نتائج صناديق ETF النشطة تبعا لاستراتيجية الإدارة. ويبرز الفرق بين ارتفاع ناسداك 10% وعائد الصندوق البالغ 60% أهمية أسلوب الإدارة وتكوين المحفظة عند اختيار صناديق ETF. وقد يحتاج المستثمرون إلى النظر ليس فقط إلى العائد قصير الأجل، بل أيضا إلى مدى استدامة الاستراتيجية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सक्रिय ETF ने दिया 60% रिटर्न, Nasdaq की 10% बढ़त से कहीं आगे",
-        "excerpt": "Hankyung ने ऐसे सक्रिय ETF पर रिपोर्ट दी जिसने Nasdaq के केवल 10% चढ़ने के बीच 60% रिटर्न दिया, जिससे सक्रिय प्रबंधन और सूचकांक प्रदर्शन का अंतर दिखा।",
-        "body": "Hankyung ने रिपोर्ट किया कि Nasdaq के केवल 10% बढ़ने के दौरान एक सक्रिय ETF ने 60% रिटर्न दर्ज किया। लेख का मुख्य बिंदु व्यापक सूचकांक की बढ़त और एक खास सक्रिय ETF के प्रदर्शन के बीच बड़ा अंतर है। केवल सूचकांक को ट्रैक करने वाले उत्पादों से अलग, सक्रिय ETF का नतीजा प्रबंधन रणनीति के अनुसार बदल सकता है। Nasdaq की 10% बढ़त और ETF के 60% रिटर्न का अंतर दिखाता है कि ETF चुनते समय प्रबंधन पद्धति और पोर्टफोलियो संरचना महत्वपूर्ण हैं। निवेशकों को अल्पकालिक रिटर्न के साथ रणनीति की टिकाऊ क्षमता भी देखनी चाहिए। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "ETF aktif cetak return 60% saat Nasdaq hanya naik 10%",
-        "excerpt": "Hankyung melaporkan ETF aktif yang menghasilkan return 60% ketika Nasdaq hanya naik 10%, menyoroti jarak kinerja antara indeks dan pengelolaan aktif.",
-        "body": "Hankyung melaporkan bahwa sebuah ETF aktif mencatat return 60% ketika Nasdaq hanya naik 10%. Fokus utama artikel ini adalah selisih besar antara kenaikan indeks secara umum dan hasil yang dicapai oleh ETF aktif tertentu. Berbeda dari produk yang sekadar mengikuti indeks, ETF aktif dapat mencatat hasil berbeda sesuai strategi pengelolaannya. Perbandingan antara kenaikan Nasdaq 10% dan return ETF 60% menunjukkan pentingnya metode pengelolaan serta komposisi portofolio saat memilih ETF. Investor perlu melihat bukan hanya return jangka pendek, tetapi juga apakah strateginya dapat berkelanjutan. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "55d129660d93",
-    "slug": "역대급-불장에서-혼자-폭락한전-담은-개미들-눈물-종목-713790",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T22:17:58.799Z",
-    "updatedAt": "2026-05-14T22:17:58.799Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051474636",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051474636",
-    "titleFingerprint": "2018c313d5fbbcab4f865221bea1e21f1ef07e24",
-    "dedupKeys": [
-      "55d129660d934157987f0fe14382c9e63a79bdd4",
-      "2018c313d5fbbcab4f865221bea1e21f1ef07e24",
-      "06f28522f3fba73ef23c9b1420d055d2276f6fd3"
-    ],
-    "imageUrl": "/images/articles/55d129660d93.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국전력 주가 홀로 급락, 역대급 불장 속 개미 투자자 손실 우려 커져",
-        "excerpt": "hankyung.com은 역대급 강세장 속에서도 한국전력 주가가 홀로 급락하며 한전을 담은 개인투자자들이 손실 우려에 직면했다고 전했다.",
-        "body": "hankyung.com은 ‘역대급 불장에서 혼자 폭락’이라는 제목으로 한국전력 주가 흐름을 전했다. 보도에 따르면 강세장이 이어지는 가운데 한국전력은 상대적으로 부진한 흐름을 보였고, 해당 종목을 매수한 개인투자자들의 부담이 커졌다. 원문에 제공된 정보는 제목과 출처에 한정돼 구체적인 하락률, 거래일, 매수 규모, 투자자 반응의 세부 내용은 확인되지 않았다. 이번 이슈는 강세장에서도 종목별 차별화가 커질 수 있음을 보여주는 사례로 제시됐다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Korea Electric Power Drops Alone in a Strong Market, Retail Investors Face Pressure",
-        "excerpt": "hankyung.com reported that Korea Electric Power fell sharply despite a powerful bull market, raising concerns for retail investors who had bought the stock.",
-        "body": "hankyung.com reported on Korea Electric Power’s share-price move under the headline that it “plunged alone in a historic bull market.” According to the provided source information, the broader market was strong, but Korea Electric Power showed relative weakness, adding pressure on individual investors who had bought the stock. The original material supplied here includes only the title and source, so specific figures such as the decline rate, trading date, purchase volume, or detailed investor reactions cannot be confirmed. The case was presented as an example of how stock-level divergence can appear even during a bull market. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "韓国電力株が強気相場で単独急落、個人投資家の損失懸念が拡大",
-        "excerpt": "hankyung.comは、歴史的な強気相場の中でも韓国電力株が単独で急落し、同株を買った個人投資家の負担が増していると伝えた。",
-        "body": "hankyung.comは「歴史的な強気相場で一人だけ急落」という趣旨の見出しで、韓国電力の株価動向を報じた。提供された情報によると、市場全体では強い相場が続く一方、韓国電力は相対的に低調な値動きとなり、同銘柄を買った個人投資家の負担が大きくなった。今回提示された原文情報は見出しと出典に限られているため、下落率、取引日、買い越し規模、投資家反応の詳細は確認できない。強気相場でも銘柄ごとの明暗が分かれ得る事例として取り上げられた。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "韩国电力股价在强势行情中独自下跌，散户投资者承压",
-        "excerpt": "hankyung.com报道称，在罕见强势行情中，韩国电力股价却独自大幅下跌，买入该股的个人投资者面临亏损压力。",
-        "body": "hankyung.com以“在史上级牛市中独自暴跌”为题报道了韩国电力的股价走势。根据所提供的原文信息，整体市场维持强势，但韩国电力表现相对低迷，使买入该股的个人投资者压力上升。此次提供的原文仅包含标题和出处，因此无法确认具体跌幅、交易日期、买入规模以及投资者反应等细节。该事件被呈现为即使在强势行情中，个股之间仍可能出现明显分化的案例。出处: hankyung.com."
-      },
-      "es": {
-        "title": "Korea Electric Power cae sola en pleno mercado alcista y presiona a minoristas",
-        "excerpt": "hankyung.com informó que Korea Electric Power cayó con fuerza pese al mercado alcista, aumentando la preocupación de los inversores minoristas que compraron la acción.",
-        "body": "hankyung.com informó sobre Korea Electric Power con un titular que señalaba que la acción “se desplomó sola en un mercado alcista histórico”. Según la información proporcionada, el mercado mantenía un tono fuerte, pero Korea Electric Power mostró un desempeño relativamente débil, lo que elevó la presión sobre los inversores particulares que habían comprado el valor. El material original disponible aquí solo incluye el título y la fuente, por lo que no se pueden confirmar datos como el porcentaje de caída, la fecha de negociación, el volumen comprado o reacciones detalladas de los inversores. El caso se presenta como ejemplo de divergencia entre valores incluso en una fase alcista. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Korea Electric Power cai sozinha em forte alta do mercado e pesa sobre minoristas",
-        "excerpt": "hankyung.com informou que a Korea Electric Power recuou fortemente apesar do mercado em alta, ampliando a preocupação de investidores pessoa física que compraram a ação.",
-        "body": "hankyung.com noticiou o movimento das ações da Korea Electric Power com um título indicando que o papel “despencou sozinho em um mercado altista histórico”. Segundo as informações fornecidas, o mercado mais amplo seguia forte, mas a Korea Electric Power teve desempenho relativamente fraco, aumentando a pressão sobre investidores individuais que haviam comprado a ação. O material original disponível aqui contém apenas o título e a fonte, portanto não é possível confirmar dados como percentual de queda, data de negociação, volume comprado ou reações detalhadas dos investidores. O caso foi apresentado como exemplo de divergência entre ações mesmo durante um mercado em alta. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Korea Electric Power fällt allein im starken Bullenmarkt, Privatanleger unter Druck",
-        "excerpt": "hankyung.com berichtete, dass Korea Electric Power trotz eines starken Bullenmarkts deutlich nachgab und Privatanleger, die die Aktie gekauft hatten, belastet wurden.",
-        "body": "hankyung.com berichtete über die Kursentwicklung von Korea Electric Power mit der Aussage, die Aktie sei in einem historischen Bullenmarkt „allein abgestürzt“. Den bereitgestellten Informationen zufolge blieb der Gesamtmarkt stark, während Korea Electric Power relativ schwach tendierte und damit den Druck auf Privatanleger erhöhte, die die Aktie gekauft hatten. Das hier vorliegende Ausgangsmaterial enthält nur Titel und Quelle, daher lassen sich konkrete Angaben wie Rückgangsquote, Handelstag, Kaufvolumen oder detaillierte Anlegerreaktionen nicht bestätigen. Der Fall wurde als Beispiel dafür dargestellt, dass auch in einem Bullenmarkt deutliche Unterschiede zwischen Einzeltiteln auftreten können. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Korea Electric Power chute seule en plein marché haussier, les particuliers sous pression",
-        "excerpt": "hankyung.com a rapporté que Korea Electric Power a fortement reculé malgré un marché haussier, pesant sur les investisseurs particuliers qui avaient acheté le titre.",
-        "body": "hankyung.com a rapporté l’évolution de Korea Electric Power avec un titre indiquant que l’action avait “chuté seule dans un marché haussier historique”. D’après les informations fournies, le marché restait globalement solide, mais Korea Electric Power a affiché une performance relativement faible, ce qui a accru la pression sur les investisseurs particuliers ayant acheté le titre. Le contenu original disponible ici se limite au titre et à la source; il n’est donc pas possible de confirmer le pourcentage de baisse, la date de cotation, le volume acheté ou les réactions détaillées des investisseurs. Ce cas illustre que des écarts importants entre valeurs peuvent apparaître même en marché haussier. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "سهم كوريا إلكتريك باور يهبط منفردا وسط سوق صاعدة ويضغط على المستثمرين الأفراد",
-        "excerpt": "أفاد hankyung.com بأن سهم كوريا إلكتريك باور تراجع بقوة رغم السوق الصاعدة، ما زاد القلق لدى المستثمرين الأفراد الذين اشتروا السهم.",
-        "body": "نشر hankyung.com تقريرا عن حركة سهم كوريا إلكتريك باور بعنوان يفيد بأنه “انهار منفردا في سوق صاعدة تاريخية”. ووفقا للمعلومات المقدمة، كان السوق الأوسع في حالة قوة، بينما أظهر سهم كوريا إلكتريك باور أداء أضعف نسبيا، ما زاد العبء على المستثمرين الأفراد الذين اشتروا السهم. المادة الأصلية المتاحة هنا تقتصر على العنوان والمصدر، لذلك لا يمكن تأكيد تفاصيل مثل نسبة الهبوط، تاريخ التداول، حجم الشراء أو ردود فعل المستثمرين. وتقدم القضية مثالا على أن التباين بين الأسهم قد يظهر حتى أثناء الأسواق الصاعدة. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "मजबूत तेजी के बीच Korea Electric Power अकेला गिरा, खुदरा निवेशकों पर दबाव",
-        "excerpt": "hankyung.com ने बताया कि तेज बुल मार्केट के बावजूद Korea Electric Power में भारी गिरावट आई, जिससे इस शेयर को खरीदने वाले खुदरा निवेशकों की चिंता बढ़ी।",
-        "body": "hankyung.com ने Korea Electric Power के शेयर पर ऐसी हेडलाइन के साथ रिपोर्ट दी कि वह “ऐतिहासिक बुल मार्केट में अकेला गिरा।” उपलब्ध जानकारी के अनुसार, व्यापक बाजार मजबूत था, लेकिन Korea Electric Power का प्रदर्शन अपेक्षाकृत कमजोर रहा, जिससे इस शेयर को खरीदने वाले व्यक्तिगत निवेशकों पर दबाव बढ़ा। यहां उपलब्ध मूल सामग्री केवल शीर्षक और स्रोत तक सीमित है, इसलिए गिरावट की दर, कारोबार की तारीख, खरीद मात्रा या निवेशकों की विस्तृत प्रतिक्रिया की पुष्टि नहीं की जा सकती। यह मामला दिखाता है कि तेजी के बाजार में भी अलग-अलग शेयरों के प्रदर्शन में बड़ा अंतर हो सकता है। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Korea Electric Power Jatuh Sendiri Saat Pasar Menguat, Investor Ritel Tertekan",
-        "excerpt": "hankyung.com melaporkan bahwa Korea Electric Power turun tajam meski pasar sedang sangat bullish, menambah kekhawatiran investor ritel yang membeli saham itu.",
-        "body": "hankyung.com melaporkan pergerakan saham Korea Electric Power dengan judul bahwa saham tersebut “anjlok sendiri di tengah pasar bullish bersejarah”. Berdasarkan informasi yang diberikan, pasar secara luas berada dalam tren kuat, tetapi Korea Electric Power menunjukkan kinerja yang relatif lemah, sehingga menambah tekanan bagi investor individu yang membeli saham tersebut. Materi asli yang tersedia di sini hanya mencakup judul dan sumber, sehingga angka penurunan, tanggal perdagangan, volume pembelian, serta reaksi rinci investor tidak dapat dikonfirmasi. Kasus ini disajikan sebagai contoh bahwa perbedaan kinerja antar saham dapat muncul bahkan saat pasar sedang menguat. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "4db5b9ff9686",
-    "slug": "요즘-한국증시-안하면-바보홍콩-슈퍼리치도-여의도-날아와-열공-915804",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T22:16:43.681Z",
-    "updatedAt": "2026-05-14T22:16:43.681Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048653",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048653",
-    "titleFingerprint": "ecbdc45415273e7f050a5573ce9c60b97249e471",
-    "dedupKeys": [
-      "4db5b9ff9686f8b24a2a9cd7b7678b159281cc2c",
-      "ecbdc45415273e7f050a5573ce9c60b97249e471",
-      "04925d30370487ccc813ea4e980f7ef32797ec99"
-    ],
-    "imageUrl": "/images/articles/4db5b9ff9686.png",
-    "i18n": {
-      "ko": {
-        "title": "한국증시 열기 확산, 홍콩 슈퍼리치도 여의도서 AI 수혜주 질문",
-        "excerpt": "하나증권 ‘코리아 포럼’에 홍콩 초고액자산가와 헤지펀드 관계자들이 참석해 AI 수혜주, 삼성전자 파업 전망 등 한국증시 핵심 이슈를 집중 질의했다.",
-        "body": "하나증권이 연 ‘코리아 포럼’에서 홍콩 초고액자산가와 헤지펀드 관계자들이 한국증시 투자 기회를 확인하기 위해 여의도를 찾았다. 참석자들은 한국증시의 핵심 현장으로 꼽히는 여의도에서 AI 수혜주와 삼성전자 파업 전망 등 주요 이슈를 두고 질문을 쏟아냈다. 특히 삼성전자와 SK하이닉스 관련 레버리지 ETF 투자자는 수익률이 두 배가 됐다고 언급하며 한국 반도체주에 대한 관심을 드러냈다. 이번 포럼은 해외 고액자산가와 기관투자가들이 한국 시장을 직접 점검하는 자리였다는 점에서 최근 한국증시를 향한 글로벌 관심을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Korean Stock Market Heat Draws Hong Kong Super-Rich to Yeouido",
-        "excerpt": "At Hana Securities’ Korea Forum, Hong Kong ultra-high-net-worth investors and hedge funds focused questions on AI beneficiaries, Samsung Electronics’ strike outlook and key Korean market issues.",
-        "body": "At Hana Securities’ Korea Forum, Hong Kong ultra-high-net-worth investors and hedge fund representatives visited Yeouido to assess investment opportunities in the Korean stock market. In what is considered the heart of Korea’s market, participants asked a series of questions about major issues including AI-related beneficiaries and the outlook for a Samsung Electronics strike. One investor in leveraged ETFs tied to Samsung Electronics and SK Hynix said the return had doubled, showing continued interest in Korean semiconductor stocks. The forum underscored growing global attention toward Korean equities as wealthy overseas investors and institutions checked the market directly. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "韓国株ブーム拡大、香港富裕層も汝矣島でAI関連株に質問攻勢",
-        "excerpt": "ハナ証券の「コリアフォーラム」に香港の超富裕層やヘッジファンド関係者が参加し、AI恩恵株やサムスン電子のスト見通しなどを集中的に質問した。",
-        "body": "ハナ証券が開いた「コリアフォーラム」で、香港の超富裕層やヘッジファンド関係者が韓国株の投資機会を確認するため汝矣島を訪れた。韓国証券市場の中心地とされる汝矣島で、参加者はAI恩恵株やサムスン電子のストライキ見通しなど主要なテーマについて相次いで質問した。特にサムスン電子とSKハイニックス関連のレバレッジETF投資家は、収益率が2倍になったと述べ、韓国半導体株への関心を示した。今回のフォーラムは、海外の富裕層や機関投資家が韓国市場を直接点検する場となり、韓国株への世界的関心を示した。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩国股市热度升温，香港超级富豪赴汝矣岛追问AI受益股",
-        "excerpt": "在韩亚证券“韩国论坛”上，香港超高净值人士和对冲基金人士围绕AI受益股、三星电子罢工前景等韩国股市核心议题集中提问。",
-        "body": "韩亚证券举办的“韩国论坛”上，香港超高净值人士和对冲基金相关人士为确认韩国股市投资机会来到汝矣岛。在被视为韩国股市核心地带的汝矣岛，参会者围绕AI受益股、三星电子罢工前景等主要议题接连提问。尤其有投资三星电子和SK海力士相关杠杆ETF的人士表示收益率已经翻倍，显示出对韩国半导体股的关注。此次论坛成为海外高净值人士和机构投资者直接考察韩国市场的场合，也反映出近期全球对韩国股市的兴趣。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "La Bolsa coreana atrae a superricos de Hong Kong con foco en IA",
-        "excerpt": "En el Korea Forum de Hana Securities, grandes patrimonios de Hong Kong y hedge funds preguntaron por valores beneficiados por IA, la huelga en Samsung Electronics y temas clave del mercado coreano.",
-        "body": "En el Korea Forum organizado por Hana Securities, grandes patrimonios de Hong Kong y representantes de hedge funds acudieron a Yeouido para evaluar oportunidades de inversión en la Bolsa coreana. En el corazón del mercado bursátil de Corea, los asistentes formularon numerosas preguntas sobre asuntos clave como los valores beneficiados por la IA y las perspectivas de huelga en Samsung Electronics. Un inversor en ETF apalancados vinculados a Samsung Electronics y SK Hynix dijo que su rentabilidad se había duplicado, reflejando el interés por las acciones coreanas de semiconductores. El foro mostró la atención global hacia el mercado coreano al reunir a inversores ricos e institucionales extranjeros. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Bolsa coreana atrai super-ricos de Hong Kong com foco em ações de IA",
-        "excerpt": "No Korea Forum da Hana Securities, ultrarricos de Hong Kong e hedge funds questionaram sobre ações beneficiadas por IA, greve na Samsung Electronics e temas centrais do mercado coreano.",
-        "body": "No Korea Forum promovido pela Hana Securities, investidores ultrarricos de Hong Kong e representantes de hedge funds foram a Yeouido para avaliar oportunidades na Bolsa coreana. No centro do mercado acionário da Coreia, os participantes fizeram uma série de perguntas sobre temas importantes, como ações beneficiadas por IA e as perspectivas de greve na Samsung Electronics. Um investidor em ETFs alavancados ligados à Samsung Electronics e à SK Hynix afirmou que o retorno havia dobrado, mostrando interesse pelas ações coreanas de semicondutores. O fórum evidenciou a atenção global ao mercado coreano, ao reunir investidores estrangeiros de alta renda e institucionais. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Koreanische Aktien locken Hongkongs Superreiche nach Yeouido",
-        "excerpt": "Beim Korea Forum von Hana Securities stellten vermögende Investoren aus Hongkong und Hedgefonds Fragen zu KI-Profiteuren, Samsung-Streikrisiken und zentralen Themen des koreanischen Markts.",
-        "body": "Beim Korea Forum von Hana Securities reisten vermögende Investoren aus Hongkong und Vertreter von Hedgefonds nach Yeouido, um Chancen am koreanischen Aktienmarkt zu prüfen. Im Herzen des koreanischen Markts stellten die Teilnehmer zahlreiche Fragen zu wichtigen Themen wie KI-Profiteuren und den Aussichten eines Streiks bei Samsung Electronics. Ein Anleger in gehebelte ETFs mit Bezug zu Samsung Electronics und SK Hynix sagte, die Rendite habe sich verdoppelt, was das Interesse an koreanischen Halbleiterwerten zeigte. Das Forum machte deutlich, dass ausländische Großanleger und Institutionen den koreanischen Markt direkt prüfen und das globale Interesse zunimmt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La Bourse coréenne attire les super-riches de Hong Kong à Yeouido",
-        "excerpt": "Au Korea Forum de Hana Securities, grandes fortunes de Hong Kong et hedge funds ont interrogé les experts sur les valeurs liées à l’IA, la grève chez Samsung Electronics et les enjeux clés du marché coréen.",
-        "body": "Lors du Korea Forum organisé par Hana Securities, de très grandes fortunes de Hong Kong et des représentants de hedge funds se sont rendus à Yeouido pour examiner les opportunités d’investissement en Bourse coréenne. Dans ce centre névralgique du marché coréen, les participants ont multiplié les questions sur les valeurs bénéficiaires de l’IA et les perspectives de grève chez Samsung Electronics. Un investisseur en ETF à effet de levier liés à Samsung Electronics et SK Hynix a indiqué que son rendement avait doublé, illustrant l’intérêt pour les semi-conducteurs coréens. Ce forum a montré l’attention mondiale croissante portée aux actions coréennes. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "زخم الأسهم الكورية يجذب أثرياء هونغ كونغ إلى يويدو بحثا عن فرص الذكاء الاصطناعي",
-        "excerpt": "في منتدى كوريا التابع لهانا للأوراق المالية، ركز أثرياء هونغ كونغ وصناديق التحوط أسئلتهم على أسهم الذكاء الاصطناعي وإضراب سامسونغ إلكترونيكس وقضايا السوق الكورية.",
-        "body": "في منتدى كوريا الذي نظمته هانا للأوراق المالية، حضر مستثمرون من أصحاب الثروات الفائقة في هونغ كونغ وممثلون عن صناديق تحوط إلى يويدو لتقييم فرص الاستثمار في سوق الأسهم الكورية. وفي ما يعد قلب السوق الكورية، طرح المشاركون أسئلة متتالية حول قضايا رئيسية مثل الأسهم المستفيدة من الذكاء الاصطناعي وتوقعات إضراب سامسونغ إلكترونيكس. وقال مستثمر في صناديق ETF ذات رافعة مرتبطة بسامسونغ إلكترونيكس وSK Hynix إن العائد تضاعف، ما أبرز الاهتمام بأسهم أشباه الموصلات الكورية. أظهر المنتدى تزايد الاهتمام العالمي بالسوق الكورية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "कोरियाई शेयर बाजार की तेजी ने हांगकांग के सुपर-रिच को येओइदो खींचा",
-        "excerpt": "हाना सिक्योरिटीज के Korea Forum में हांगकांग के अति-धनाढ्य निवेशकों और हेज फंडों ने AI लाभार्थी शेयरों, Samsung Electronics की हड़ताल और कोरियाई बाजार पर सवाल किए।",
-        "body": "हाना सिक्योरिटीज के Korea Forum में हांगकांग के अति-धनाढ्य निवेशक और हेज फंड प्रतिनिधि कोरियाई शेयर बाजार के अवसरों को समझने के लिए येओइदो पहुंचे। कोरिया के शेयर बाजार के केंद्र माने जाने वाले इस स्थान पर प्रतिभागियों ने AI से लाभ पाने वाले शेयरों और Samsung Electronics की हड़ताल की संभावना जैसे प्रमुख मुद्दों पर लगातार सवाल किए। Samsung Electronics और SK Hynix से जुड़े leveraged ETF में निवेश करने वाले एक निवेशक ने कहा कि रिटर्न दोगुना हो गया है, जिससे कोरियाई सेमीकंडक्टर शेयरों में रुचि दिखी। यह मंच विदेशी धनी और संस्थागत निवेशकों की कोरियाई बाजार में बढ़ती दिलचस्पी दिखाता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Bursa Korea Makin Panas, Superkaya Hong Kong Datangi Yeouido",
-        "excerpt": "Dalam Korea Forum Hana Securities, investor superkaya Hong Kong dan hedge fund menyoroti saham penerima manfaat AI, prospek mogok Samsung Electronics, serta isu utama pasar Korea.",
-        "body": "Dalam Korea Forum yang digelar Hana Securities, investor ultrakaya Hong Kong dan perwakilan hedge fund datang ke Yeouido untuk melihat peluang investasi di bursa Korea. Di kawasan yang menjadi pusat pasar saham Korea itu, peserta mengajukan banyak pertanyaan tentang isu utama seperti saham penerima manfaat AI dan prospek mogok di Samsung Electronics. Seorang investor ETF leverage yang terkait Samsung Electronics dan SK Hynix menyebut imbal hasilnya telah berlipat dua, menunjukkan minat terhadap saham semikonduktor Korea. Forum ini memperlihatkan meningkatnya perhatian global terhadap pasar Korea karena investor kaya dan institusi asing meninjaunya langsung. Sumber: mk.co.kr"
       }
     }
   }
