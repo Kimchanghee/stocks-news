@@ -1,5 +1,230 @@
 [
   {
+    "id": "a70740cc148f",
+    "slug": "빚투공매도-규모-나란히-사상-최대-736426",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T17:35:07.895Z",
+    "updatedAt": "2026-05-15T17:35:07.895Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598851",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598851",
+    "titleFingerprint": "285ed057884a7ad053b7ce8bb187dacf0ed62fe6",
+    "dedupKeys": [
+      "a70740cc148f93ec1c912a5173f9265cdd00ec9e",
+      "285ed057884a7ad053b7ce8bb187dacf0ed62fe6",
+      "edcb5d13a6eb9fb78bd30a40b51b7a4adfdeac55"
+    ],
+    "imageUrl": "/images/articles/a70740cc148f.png",
+    "i18n": {
+      "ko": {
+        "title": "빚투·공매도 규모 사상 최대, 국내 증시 수급 긴장 고조",
+        "excerpt": "한국경제에 따르면 국내 증시에서 투자자 신용거래를 뜻하는 ‘빚투’와 공매도 규모가 나란히 사상 최대 수준으로 커지며 시장 수급 부담이 부각됐다.",
+        "body": "국내 증시에서 투자자들이 빚을 내 주식을 사는 ‘빚투’와 주가 하락에 베팅하는 공매도 규모가 나란히 사상 최대를 기록했다. 한국경제 보도에 따르면 두 지표가 동시에 최대 수준으로 확대되면서 시장 참여자들의 매수 확대와 하락 베팅이 함께 커진 흐름이 확인됐다. 빚투는 상승 기대가 반영된 신용거래이고, 공매도는 향후 가격 하락 가능성에 무게를 둔 거래라는 점에서 서로 다른 투자 심리를 보여준다. 두 규모가 모두 커진 만큼 증시 수급 변동성과 투자자 부담이 함께 주목될 전망이다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Margin Buying and Short Selling Hit Record Highs in Korean Stocks",
+        "excerpt": "According to Hankyung, margin-financed stock buying and short selling in the Korean stock market both reached record highs, highlighting growing supply-demand pressure.",
+        "body": "In the Korean stock market, both margin-financed stock purchases, often described as buying with borrowed money, and short selling have reached record highs. According to a Hankyung report, the two indicators expanded to their highest levels at the same time, showing that increased buying activity and bets on falling prices are both present in the market. Margin buying reflects expectations for share-price gains, while short selling reflects positioning for possible declines. With both measures rising to record levels, market supply-demand volatility and investor risk are expected to remain in focus. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "信用買いと空売りが過去最大、韓国株市場で需給警戒強まる",
+        "excerpt": "韓国経済新聞によると、韓国株市場で信用取引による買いと空売りの規模がそろって過去最大となり、市場需給への負担が意識されている。",
+        "body": "韓国株市場で、投資家が借入資金で株式を買う信用買いと、株価下落に備える空売りの規模がそろって過去最大を記録した。韓国経済新聞の報道によれば、二つの指標が同時に最大水準へ拡大し、買い需要の増加と下落を見込む取引が同時に強まっていることが確認された。信用買いは株価上昇への期待を反映する一方、空売りは将来の価格下落の可能性を意識した取引だ。双方の規模が拡大したことで、市場需給の変動性と投資家負担が注目される見通しだ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "融资买入与卖空规模同创新高，韩国股市供需压力升温",
+        "excerpt": "据韩国经济新闻报道，韩国股市中以借款买股为代表的融资交易和卖空规模双双创下历史新高，市场供需压力受到关注。",
+        "body": "韩国股市中，投资者借钱买入股票的融资交易，以及押注股价下跌的卖空规模双双创下历史新高。据韩国经济新闻报道，这两项指标同时扩大至最高水平，显示市场中的买入力度和看跌交易同步增加。融资买入反映投资者对股价上涨的期待，而卖空则体现对未来价格可能下跌的布局。由于两类交易规模均已扩大至纪录水平，韩国股市的供需波动和投资者风险负担预计将继续受到关注。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Compras con margen y ventas en corto marcan récord en la bolsa coreana",
+        "excerpt": "Según Hankyung, las compras de acciones financiadas con deuda y las ventas en corto en el mercado bursátil coreano alcanzaron máximos históricos al mismo tiempo.",
+        "body": "En el mercado bursátil coreano, las compras de acciones financiadas con deuda y las ventas en corto alcanzaron simultáneamente máximos históricos. Según informó Hankyung, ambos indicadores se expandieron hasta niveles récord, lo que muestra que crecieron tanto la actividad compradora apalancada como las apuestas por caídas de precios. Las compras con margen reflejan expectativas de subidas en las acciones, mientras que las ventas en corto se basan en la posibilidad de descensos futuros. Con ambos volúmenes en máximos, la volatilidad de la oferta y la demanda del mercado y la carga para los inversores quedarán bajo observación. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Compras alavancadas e vendas a descoberto batem recorde na Coreia",
+        "excerpt": "Segundo o Hankyung, as compras de ações financiadas por dívida e as vendas a descoberto no mercado sul-coreano atingiram máximas históricas ao mesmo tempo.",
+        "body": "No mercado acionário sul-coreano, as compras de ações financiadas por dívida e as vendas a descoberto atingiram simultaneamente níveis recordes. Segundo o Hankyung, os dois indicadores avançaram para máximas históricas, mostrando que aumentaram tanto a compra alavancada quanto as apostas em queda dos preços. A compra com margem reflete expectativa de valorização das ações, enquanto a venda a descoberto se relaciona à possibilidade de queda futura. Com ambos os volumes em patamares recordes, a volatilidade da oferta e demanda do mercado e o peso sobre investidores devem seguir no foco. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Kreditkäufe und Leerverkäufe erreichen Rekorde am koreanischen Markt",
+        "excerpt": "Laut Hankyung haben kreditfinanzierte Aktienkäufe und Leerverkäufe am koreanischen Aktienmarkt gleichzeitig historische Höchststände erreicht.",
+        "body": "Am koreanischen Aktienmarkt haben kreditfinanzierte Aktienkäufe und Leerverkäufe gleichzeitig historische Höchststände erreicht. Laut einem Bericht von Hankyung stiegen beide Kennzahlen auf Rekordniveau, was zeigt, dass sowohl gehebelte Kaufaktivität als auch Wetten auf fallende Kurse zugenommen haben. Kreditkäufe spiegeln Erwartungen steigender Aktienkurse wider, während Leerverkäufe auf die Möglichkeit künftiger Kursrückgänge ausgerichtet sind. Da beide Volumina auf Rekordständen liegen, dürften Schwankungen bei Angebot und Nachfrage sowie die Belastung für Anleger weiter im Mittelpunkt stehen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Achats sur marge et ventes à découvert au plus haut en Corée",
+        "excerpt": "Selon Hankyung, les achats d’actions financés par emprunt et les ventes à découvert sur le marché coréen ont tous deux atteint des records historiques.",
+        "body": "Sur le marché boursier coréen, les achats d’actions financés par emprunt et les ventes à découvert ont simultanément atteint des niveaux record. Selon Hankyung, ces deux indicateurs ont progressé jusqu’à leurs plus hauts historiques, montrant une hausse à la fois des achats avec effet de levier et des paris sur une baisse des cours. Les achats sur marge traduisent des attentes de hausse des actions, tandis que les ventes à découvert reflètent un positionnement face à une possible baisse future. Avec ces deux volumes au plus haut, la volatilité de l’offre et de la demande ainsi que le risque pour les investisseurs devraient rester surveillés. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الشراء بالهامش والبيع على المكشوف يسجلان ذروة تاريخية في كوريا",
+        "excerpt": "بحسب هانكيونغ، بلغ حجم شراء الأسهم بالاقتراض والبيع على المكشوف في سوق الأسهم الكورية مستويات قياسية متزامنة، ما يبرز ضغط العرض والطلب.",
+        "body": "في سوق الأسهم الكورية، سجل كل من شراء الأسهم بأموال مقترضة، المعروف بالشراء بالهامش، والبيع على المكشوف مستويات قياسية في الوقت نفسه. ووفقا لتقرير هانكيونغ، اتسع المؤشران إلى أعلى مستوياتهما، ما يظهر زيادة نشاط الشراء الممول بالدين إلى جانب الرهانات على تراجع الأسعار. يعكس الشراء بالهامش توقعات بارتفاع أسعار الأسهم، بينما يعبر البيع على المكشوف عن تمركز لاحتمال انخفاض الأسعار مستقبلا. ومع بلوغ الحجمين مستويات قياسية، ستبقى تقلبات العرض والطلب ومخاطر المستثمرين محل اهتمام. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "कोरियाई बाजार में मार्जिन खरीद और शॉर्ट सेलिंग रिकॉर्ड ऊंचाई पर",
+        "excerpt": "Hankyung के अनुसार, कोरियाई शेयर बाजार में कर्ज लेकर शेयर खरीदने और शॉर्ट सेलिंग दोनों का आकार रिकॉर्ड स्तर पर पहुंच गया है।",
+        "body": "कोरियाई शेयर बाजार में कर्ज लेकर शेयर खरीदने की गतिविधि, जिसे मार्जिन खरीद कहा जाता है, और कीमतों में गिरावट पर दांव लगाने वाली शॉर्ट सेलिंग दोनों ने रिकॉर्ड ऊंचाई दर्ज की है। Hankyung की रिपोर्ट के अनुसार, दोनों संकेतक एक साथ अपने उच्चतम स्तर तक बढ़े, जिससे बाजार में उधार आधारित खरीद और गिरावट की उम्मीद वाले सौदे साथ-साथ बढ़ते दिखे। मार्जिन खरीद शेयर कीमतों में वृद्धि की उम्मीद को दर्शाती है, जबकि शॉर्ट सेलिंग भविष्य में संभावित गिरावट पर आधारित होती है। दोनों आकार रिकॉर्ड स्तर पर होने से बाजार की मांग-आपूर्ति अस्थिरता और निवेशक जोखिम पर ध्यान बना रहेगा। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Margin Buying dan Short Selling Capai Rekor di Bursa Korea",
+        "excerpt": "Menurut Hankyung, pembelian saham dengan utang dan short selling di pasar saham Korea sama-sama mencapai rekor tertinggi, menyoroti tekanan suplai-permintaan.",
+        "body": "Di pasar saham Korea, pembelian saham dengan dana pinjaman atau margin buying dan transaksi short selling sama-sama mencapai rekor tertinggi. Menurut laporan Hankyung, kedua indikator tersebut meningkat ke level maksimum secara bersamaan, menunjukkan bahwa aktivitas beli berbasis utang dan taruhan atas penurunan harga sama-sama membesar. Margin buying mencerminkan ekspektasi kenaikan harga saham, sedangkan short selling mencerminkan posisi terhadap kemungkinan penurunan harga di masa depan. Dengan kedua volume berada di level rekor, volatilitas suplai-permintaan pasar dan beban risiko investor diperkirakan tetap menjadi perhatian. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "4165d92c42a9",
+    "slug": "밀어올리는-개미-vs-끌어내리는-외인치열한-8000p-고지전-952043",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T17:34:14.676Z",
+    "updatedAt": "2026-05-15T17:34:14.676Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051598861",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051598861",
+    "titleFingerprint": "824d84f6c08d4839a4470834392dd5f0fc0baee1",
+    "dedupKeys": [
+      "4165d92c42a957a6c1c0f74f7ab4f79f8c92e9ab",
+      "824d84f6c08d4839a4470834392dd5f0fc0baee1",
+      "e7c0e2492796d13ab3ec71db07bffb486122d391"
+    ],
+    "imageUrl": "/images/articles/4165d92c42a9.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 돌파 후 7493.18 마감, 개인 매수·외국인 매도 격돌",
+        "excerpt": "15일 코스피는 장중 사상 처음 8000선을 넘었지만 차익 실현 매물과 외국인·기관 매도에 밀려 7493.18로 마감했다. 개인은 7조원 넘게 순매수하며 지수 하단을 받쳤다.",
+        "body": "15일 코스피지수는 오전 9시 7951.75로 출발해 오전 9시13분 사상 처음 8000선을 돌파했지만, 오후 들어 매물이 쏟아지며 7493.18에 마감했다. 하락률은 6.12%였고, 오후 1시28분에는 매도 사이드카로 5분간 거래가 정지됐다. 유가증권시장 시가총액 상위 100개 종목 중 91개가 하락했고, 삼성전자와 SK하이닉스도 각각 8.61%, 7.66% 내렸다. 외국인과 기관은 각각 5조6000억원, 1조7300억원어치를 순매도한 반면 개인은 7조원 넘게 순매수했다. 외국인은 7거래일 연속 31조원 넘게 팔았고 개인은 같은 기간 30조원 넘게 받아냈다. 증권가는 외국인 매도를 반도체 급등 후 포트폴리오 조정으로 해석하며 랠리 재개 가능성도 거론했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "KOSPI Tops 8,000 Then Closes at 7,493.18 as Retail and Foreign Flows Clash",
+        "excerpt": "On May 15, the KOSPI crossed 8,000 intraday for the first time, but profit-taking and selling by foreign and institutional investors pushed it down to 7,493.18. Retail investors bought more than 7 trillion won net.",
+        "body": "On May 15, the KOSPI opened at 7,951.75 and crossed the 8,000 mark for the first time at 9:13 a.m., but heavy selling later dragged it to a close of 7,493.18. The index fell 6.12%, and a sell-side sidecar halted trading for five minutes at 1:28 p.m. Among the top 100 stocks by market value on the main board, 91 ended lower, while Samsung Electronics and SK Hynix dropped 8.61% and 7.66%, respectively. Foreign investors and institutions net sold 5.6 trillion won and 1.73 trillion won, while individuals net bought more than 7 trillion won. Foreign investors have sold more than 31 trillion won over seven straight sessions since May 7, while individuals absorbed more than 30 trillion won. Brokerages viewed the foreign selling as portfolio adjustment after a sharp semiconductor rally and still cited the possibility of a renewed rally. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "KOSPIが8000突破後7493.18で終了、個人買いと外国人売りが衝突",
+        "excerpt": "15日のKOSPIは取引時間中に初めて8000を突破したが、利益確定売りと外国人・機関の売りに押され7493.18で終了した。個人は7兆ウォン超を買い越した。",
+        "body": "15日のKOSPI指数は午前9時に7951.75で始まり、午前9時13分に史上初めて8000を突破した。しかし午後に売り物が膨らみ、終値は7493.18となった。下落率は6.12%で、午後1時28分には売りサイドカーにより5分間取引が停止された。有価証券市場の時価総額上位100銘柄のうち91銘柄が下落し、サムスン電子とSKハイニックスもそれぞれ8.61%、7.66%下げた。外国人と機関はそれぞれ5兆6000億ウォン、1兆7300億ウォンを売り越した一方、個人は7兆ウォン超を買い越した。外国人は5月7日から7営業日連続で31兆ウォン超を売り、個人は同期間に30兆ウォン超を受け止めた。証券街では、外国人売りを半導体急騰後のポートフォリオ調整とみなし、ラリー再開の可能性も指摘した。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "KOSPI冲上8000后收于7493.18，散户买盘与外资卖盘激烈对峙",
+        "excerpt": "5月15日，KOSPI盘中首次突破8000点，但获利了结卖盘以及外资、机构抛售将指数压低至7493.18。散户净买入超过7万亿韩元。",
+        "body": "5月15日，KOSPI指数上午9时报7951.75开盘，9时13分首次突破8000点，但午后卖盘涌出，最终收于7493.18。指数跌幅为6.12%，下午1时28分还因卖出侧车机制暂停交易5分钟。主板市值前100只股票中有91只下跌，三星电子和SK海力士分别下跌8.61%和7.66%。外资和机构分别净卖出5.6万亿韩元、1.73万亿韩元，而个人投资者净买入超过7万亿韩元。自5月7日以来，外资连续7个交易日净卖出超过31万亿韩元，个人同期承接超过30万亿韩元。券商界认为，外资卖出是半导体股急涨后的投资组合调整，同时也提到行情重启的可能性。来源: hankyung.com"
+      },
+      "es": {
+        "title": "El KOSPI supera 8.000 y cierra en 7.493,18 entre compras minoristas y ventas extranjeras",
+        "excerpt": "El 15 de mayo, el KOSPI superó por primera vez los 8.000 puntos intradía, pero la toma de ganancias y las ventas de extranjeros e instituciones lo llevaron a cerrar en 7.493,18. Los minoristas compraron más de 7 billones de wones netos.",
+        "body": "El 15 de mayo, el KOSPI abrió en 7.951,75 y a las 9:13 superó por primera vez los 8.000 puntos, pero las ventas posteriores lo llevaron a cerrar en 7.493,18. La caída fue del 6,12%, y a las 13:28 se activó un sidecar de venta que detuvo la negociación durante cinco minutos. Entre las 100 mayores acciones por capitalización del mercado principal, 91 terminaron a la baja; Samsung Electronics y SK Hynix cedieron un 8,61% y un 7,66%, respectivamente. Los extranjeros y las instituciones vendieron en neto 5,6 billones y 1,73 billones de wones, mientras que los particulares compraron más de 7 billones. Desde el 7 de mayo, los extranjeros han vendido más de 31 billones durante siete sesiones seguidas, y los particulares han absorbido más de 30 billones. Las casas de bolsa interpretaron esas ventas como un ajuste de cartera tras el fuerte avance de semiconductores y mencionaron la posibilidad de reanudar el rally. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "KOSPI supera 8.000 e fecha a 7.493,18 em choque entre varejo e estrangeiros",
+        "excerpt": "Em 15 de maio, o KOSPI passou de 8.000 pontos pela primeira vez no intradia, mas realização de lucros e vendas de estrangeiros e instituições levaram o índice a 7.493,18. Pessoas físicas compraram mais de 7 trilhões de won em termos líquidos.",
+        "body": "Em 15 de maio, o KOSPI abriu a 7.951,75 e, às 9h13, superou pela primeira vez a marca de 8.000 pontos, mas a pressão vendedora depois levou o índice a fechar em 7.493,18. A queda foi de 6,12%, e às 13h28 um sidecar de venda interrompeu os negócios por cinco minutos. Entre as 100 maiores ações por valor de mercado na bolsa principal, 91 fecharam em baixa; Samsung Electronics e SK Hynix recuaram 8,61% e 7,66%, respectivamente. Estrangeiros e instituições venderam líquidos 5,6 trilhões e 1,73 trilhão de won, enquanto investidores individuais compraram mais de 7 trilhões. Desde 7 de maio, estrangeiros venderam mais de 31 trilhões em sete sessões seguidas, e pessoas físicas absorveram mais de 30 trilhões. Corretoras viram a venda estrangeira como ajuste de portfólio após a forte alta dos semicondutores e citaram chance de retomada do rali. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "KOSPI steigt über 8.000 und schließt bei 7.493,18: Privatanleger gegen Ausländer",
+        "excerpt": "Am 15. Mai überschritt der KOSPI im Tagesverlauf erstmals 8.000 Punkte, fiel aber durch Gewinnmitnahmen sowie Verkäufe ausländischer und institutioneller Anleger auf 7.493,18. Privatanleger kauften netto mehr als 7 Billionen Won.",
+        "body": "Am 15. Mai eröffnete der KOSPI bei 7.951,75 und überschritt um 9:13 Uhr erstmals die Marke von 8.000 Punkten, doch spätere Verkäufe drückten ihn bis zum Schluss auf 7.493,18. Der Rückgang betrug 6,12%; um 13:28 Uhr stoppte ein Verkaufs-Sidecar den Handel für fünf Minuten. Von den 100 größten Titeln nach Marktkapitalisierung im Hauptmarkt schlossen 91 tiefer, während Samsung Electronics und SK Hynix um 8,61% beziehungsweise 7,66% fielen. Ausländische Anleger und Institutionen verkauften netto 5,6 Billionen Won und 1,73 Billionen Won, während Privatanleger mehr als 7 Billionen Won netto kauften. Seit dem 7. Mai verkauften Ausländer sieben Sitzungen in Folge mehr als 31 Billionen Won; Privatanleger nahmen im selben Zeitraum mehr als 30 Billionen Won auf. Brokerhäuser werteten die Verkäufe als Portfolioanpassung nach dem starken Halbleiteranstieg und nannten weiter die Möglichkeit einer Rally-Fortsetzung. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Le KOSPI franchit 8.000 puis clôture à 7.493,18, entre achats des particuliers et ventes étrangères",
+        "excerpt": "Le 15 mai, le KOSPI a dépassé 8.000 points en séance pour la première fois, mais les prises de bénéfices et les ventes des étrangers et des institutions l’ont ramené à 7.493,18. Les particuliers ont acheté plus de 7.000 milliards de wons en net.",
+        "body": "Le 15 mai, le KOSPI a ouvert à 7.951,75 et franchi pour la première fois les 8.000 points à 9 h 13, avant d’être entraîné par les ventes et de clôturer à 7.493,18. La baisse a atteint 6,12%, et un sidecar vendeur a suspendu les échanges pendant cinq minutes à 13 h 28. Parmi les 100 premières capitalisations du marché principal, 91 ont fini en repli; Samsung Electronics et SK Hynix ont perdu 8,61% et 7,66%. Les investisseurs étrangers et les institutions ont vendu en net 5.600 milliards et 1.730 milliards de wons, tandis que les particuliers ont acheté plus de 7.000 milliards. Depuis le 7 mai, les étrangers ont vendu plus de 31.000 milliards de wons sur sept séances consécutives, et les particuliers ont absorbé plus de 30.000 milliards. Les sociétés de Bourse ont interprété ces ventes comme un ajustement de portefeuille après la forte hausse des semi-conducteurs et ont évoqué une possible reprise du rally. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "كوسبي يتجاوز 8000 ثم يغلق عند 7493.18 وسط صراع شراء الأفراد وبيع الأجانب",
+        "excerpt": "في 15 مايو، تجاوز مؤشر كوسبي مستوى 8000 نقطة خلال الجلسة للمرة الأولى، لكن جني الأرباح ومبيعات الأجانب والمؤسسات دفعته للإغلاق عند 7493.18. واشترى الأفراد صافي أكثر من 7 تريليونات وون.",
+        "body": "في 15 مايو، افتتح مؤشر كوسبي عند 7951.75 وتجاوز مستوى 8000 نقطة للمرة الأولى في الساعة 9:13 صباحا، لكنه تراجع لاحقا مع تدفق أوامر البيع ليغلق عند 7493.18. بلغت نسبة الهبوط 6.12%، وفي الساعة 1:28 ظهرا أوقفت آلية سايدكار البيع التداول لخمس دقائق. ومن بين أكبر 100 سهم من حيث القيمة السوقية في السوق الرئيسية، أغلقت 91 سهما على انخفاض، بينما هبط سهما سامسونغ إلكترونيكس وSK هاينكس 8.61% و7.66% على التوالي. باع الأجانب والمؤسسات صافيا بقيمة 5.6 تريليون و1.73 تريليون وون، في حين اشترى الأفراد أكثر من 7 تريليونات وون. ومنذ 7 مايو، باع الأجانب أكثر من 31 تريليون وون خلال سبع جلسات متتالية، بينما استوعب الأفراد أكثر من 30 تريليون وون. وفسرت شركات الوساطة بيع الأجانب على أنه تعديل محافظ بعد صعود قوي لأسهم أشباه الموصلات، مع الإشارة إلى احتمال استئناف الصعود. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "KOSPI 8,000 पार कर 7,493.18 पर बंद, खुदरा खरीद और विदेशी बिकवाली आमने-सामने",
+        "excerpt": "15 मई को KOSPI ने कारोबार के दौरान पहली बार 8,000 अंक पार किया, लेकिन मुनाफावसूली और विदेशी व संस्थागत बिकवाली से यह 7,493.18 पर बंद हुआ। खुदरा निवेशकों ने 7 ट्रिलियन वॉन से अधिक की शुद्ध खरीद की।",
+        "body": "15 मई को KOSPI सूचकांक 7,951.75 पर खुला और सुबह 9:13 बजे पहली बार 8,000 अंक के ऊपर गया, लेकिन बाद में बिकवाली बढ़ने से 7,493.18 पर बंद हुआ। गिरावट 6.12% रही, और दोपहर 1:28 बजे बिक्री साइडकार के कारण कारोबार पांच मिनट के लिए रुका। मुख्य बाजार की बाजार पूंजीकरण के हिसाब से शीर्ष 100 कंपनियों में से 91 गिरावट में बंद हुईं; Samsung Electronics और SK Hynix क्रमशः 8.61% और 7.66% टूटे। विदेशी निवेशकों और संस्थानों ने क्रमशः 5.6 ट्रिलियन वॉन और 1.73 ट्रिलियन वॉन की शुद्ध बिकवाली की, जबकि व्यक्तियों ने 7 ट्रिलियन वॉन से अधिक की शुद्ध खरीद की। 7 मई से विदेशी निवेशक लगातार सात सत्रों में 31 ट्रिलियन वॉन से अधिक बेच चुके हैं, जबकि व्यक्तियों ने इसी अवधि में 30 ट्रिलियन वॉन से अधिक खरीदकर संभाला। ब्रोकरेज जगत ने विदेशी बिकवाली को सेमीकंडक्टर शेयरों की तेज तेजी के बाद पोर्टफोलियो समायोजन माना और रैली फिर शुरू होने की संभावना भी बताई। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "KOSPI Tembus 8.000 lalu Ditutup 7.493,18, Beli Ritel Lawan Jual Asing",
+        "excerpt": "Pada 15 Mei, KOSPI untuk pertama kalinya menembus 8.000 secara intraday, tetapi aksi ambil untung serta penjualan investor asing dan institusi menekannya ke 7.493,18. Investor individu membeli bersih lebih dari 7 triliun won.",
+        "body": "Pada 15 Mei, indeks KOSPI dibuka di 7.951,75 dan pada pukul 09.13 untuk pertama kalinya menembus level 8.000, tetapi tekanan jual kemudian menyeretnya ditutup di 7.493,18. Penurunannya mencapai 6,12%, dan pada pukul 13.28 sidecar jual menghentikan perdagangan selama lima menit. Dari 100 saham terbesar berdasarkan kapitalisasi pasar di bursa utama, 91 ditutup melemah; Samsung Electronics dan SK Hynix masing-masing turun 8,61% dan 7,66%. Investor asing dan institusi menjual bersih 5,6 triliun won dan 1,73 triliun won, sementara individu membeli bersih lebih dari 7 triliun won. Sejak 7 Mei, investor asing menjual lebih dari 31 triliun won selama tujuh sesi beruntun, sedangkan individu menyerap lebih dari 30 triliun won. Kalangan sekuritas menilai penjualan asing sebagai penyesuaian portofolio setelah lonjakan saham semikonduktor dan masih menyebut peluang reli berlanjut. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "ade30095d24b",
+    "slug": "커피-1000잔-동나고-추가-좌석까지-꽉차-745431",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T17:32:41.449Z",
+    "updatedAt": "2026-05-15T17:32:41.449Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051599411",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051599411",
+    "titleFingerprint": "d4533d8c7a5b909f5079c0f1eea5389086d01ca5",
+    "dedupKeys": [
+      "ade30095d24be27f932bc44a82e7ec4e60e4b070",
+      "d4533d8c7a5b909f5079c0f1eea5389086d01ca5",
+      "b1142ef9475218e8f7f6ef6cf65a921fa5e3cde0"
+    ],
+    "imageUrl": "/images/articles/ade30095d24b.png",
+    "i18n": {
+      "ko": {
+        "title": "커피 1000잔 조기 소진, 추가 좌석까지 꽉 찬 현장 열기",
+        "excerpt": "hankyung.com은 커피 1000잔이 모두 동나고 추가로 마련된 좌석까지 가득 찼다고 전했다. 원문에는 행사명과 시간, 장소 등 세부 정보는 제시되지 않았다.",
+        "body": "hankyung.com에 따르면 한 현장에서 준비된 커피 1000잔이 모두 동났고, 추가로 마련된 좌석까지 꽉 찼다. 원문 제목은 ‘커피 1000잔 동나고 추가 좌석까지 꽉차’로, 현장의 높은 참여 열기를 보여주는 상황을 전했다. 다만 원문 제공 정보에는 구체적인 행사명, 개최 시점, 장소, 주최 측, 참석자 규모 등은 포함되지 않았다. 확인된 사실은 커피 1000잔이 소진됐고 추가 좌석도 모두 찼다는 점이다. 이는 현장 수요가 준비 물량과 좌석을 넘어섰다는 의미로 읽힌다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "1,000 Cups of Coffee Run Out as Extra Seats Also Fill Up",
+        "excerpt": "hankyung.com reported that 1,000 cups of coffee ran out and even additional seats were fully occupied. The original text did not provide the event name, time, or location.",
+        "body": "According to hankyung.com, 1,000 prepared cups of coffee ran out at a venue, and even the additional seats arranged for attendees were filled. The original headline, “1,000 cups of coffee run out and extra seats also fill up,” described a scene of strong turnout. However, the supplied source information did not include the event name, date, location, organizer, or total attendance. The confirmed facts are limited to the coffee supply being exhausted and the extra seating being fully occupied. This indicates demand at the site exceeded the prepared coffee and seating capacity. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "コーヒー1000杯が完売、追加座席まで満席になった現場",
+        "excerpt": "hankyung.comは、用意されたコーヒー1000杯がすべてなくなり、追加で設けられた座席まで満席になったと伝えた。行事名や日時、場所は示されていない。",
+        "body": "hankyung.comによると、ある現場で用意されたコーヒー1000杯がすべてなくなり、追加で設けられた座席までいっぱいになった。原文の見出しは「コーヒー1000杯がなくなり追加座席まで満席」で、現場の高い参加熱を示す状況を伝えている。ただし、提供された原文情報には具体的な行事名、開催時期、場所、主催者、参加者数などは含まれていない。確認できる事実は、コーヒー1000杯が消費され、追加座席も満席になったという点に限られる。これは現場の需要が準備された飲料と座席を上回ったことを示す。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "1000杯咖啡售罄，追加座位也被坐满的现场热度",
+        "excerpt": "hankyung.com报道称，现场准备的1000杯咖啡全部售罄，追加设置的座位也被坐满。原文未提供活动名称、时间、地点等细节。",
+        "body": "据hankyung.com报道，某现场准备的1000杯咖啡全部用尽，追加设置的座位也坐满。原文标题为“1000杯咖啡售罄，追加座位也坐满”，传达了现场参与热度较高的情况。不过，所提供的原文信息未包含具体活动名称、举办时间、地点、主办方或参加人数等内容。可确认的事实仅限于1000杯咖啡已经用尽，以及追加座位也被坐满。这意味着现场需求超过了原先准备的咖啡数量和座位安排。来源: hankyung.com"
+      },
+      "es": {
+        "title": "1.000 cafés se agotan y los asientos adicionales también se llenan",
+        "excerpt": "hankyung.com informó que se agotaron 1.000 cafés preparados y que incluso los asientos adicionales quedaron ocupados. El texto original no indicó nombre del evento, hora ni lugar.",
+        "body": "Según hankyung.com, en un lugar se agotaron los 1.000 cafés preparados y también se llenaron los asientos adicionales habilitados. El titular original, “Se agotan 1.000 cafés y los asientos adicionales también se llenan”, describe una escena de alta participación. Sin embargo, la información original proporcionada no incluye el nombre del evento, la fecha, el lugar, el organizador ni el número total de asistentes. Los hechos confirmados se limitan a que los 1.000 cafés se terminaron y que los asientos extra quedaron ocupados. Esto muestra que la demanda en el sitio superó la cantidad de café y los asientos previstos. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "1.000 cafés se esgotam e assentos adicionais também ficam lotados",
+        "excerpt": "O hankyung.com informou que 1.000 cafés preparados se esgotaram e que até os assentos adicionais ficaram ocupados. O texto original não trouxe nome do evento, data ou local.",
+        "body": "Segundo o hankyung.com, em um determinado local, os 1.000 cafés preparados se esgotaram e até os assentos adicionais instalados ficaram cheios. A manchete original, “1.000 cafés se esgotam e assentos adicionais também ficam lotados”, descreve uma cena de forte participação. No entanto, as informações fornecidas no texto original não incluem nome do evento, data, local, organizador ou número total de participantes. Os fatos confirmados se limitam ao esgotamento dos 1.000 cafés e à ocupação total dos assentos extras. Isso indica que a demanda no local superou a quantidade de café e os lugares preparados. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "1.000 Tassen Kaffee ausverkauft, zusätzliche Plätze ebenfalls voll",
+        "excerpt": "hankyung.com berichtete, dass 1.000 vorbereitete Tassen Kaffee vollständig vergriffen waren und auch zusätzliche Sitzplätze belegt wurden. Name, Zeit und Ort wurden nicht genannt.",
+        "body": "Nach Angaben von hankyung.com waren an einem Ort 1.000 vorbereitete Tassen Kaffee vollständig vergriffen, und auch die zusätzlich bereitgestellten Sitzplätze waren besetzt. Die ursprüngliche Überschrift lautete sinngemäß: „1.000 Tassen Kaffee gehen aus, zusätzliche Plätze ebenfalls voll“ und beschreibt eine starke Resonanz vor Ort. Die bereitgestellten Originalinformationen nennen jedoch keinen konkreten Veranstaltungsnamen, Zeitpunkt, Ort, Veranstalter oder die Gesamtzahl der Teilnehmer. Bestätigt ist nur, dass 1.000 Tassen Kaffee aufgebraucht wurden und auch die Zusatzplätze voll waren. Das zeigt, dass die Nachfrage vor Ort die vorbereiteten Getränke und Sitzplätze überstieg. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "1 000 cafés épuisés, les sièges ajoutés également tous occupés",
+        "excerpt": "hankyung.com a rapporté que 1 000 cafés préparés ont été épuisés et que même les sièges ajoutés étaient occupés. Le texte original ne précise ni événement, ni date, ni lieu.",
+        "body": "Selon hankyung.com, dans un lieu donné, les 1 000 cafés préparés ont tous été épuisés et les sièges supplémentaires installés ont également été occupés. Le titre original, « 1 000 cafés épuisés et sièges ajoutés également pleins », décrit une forte affluence sur place. Toutefois, les informations fournies dans le texte d’origine ne mentionnent pas le nom de l’événement, la date, le lieu, l’organisateur ni le nombre total de participants. Les faits confirmés se limitent à l’épuisement des 1 000 cafés et au remplissage des sièges supplémentaires. Cela indique que la demande sur place a dépassé les boissons et places prévues. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "نفاد 1000 كوب قهوة وامتلاء المقاعد الإضافية بالكامل",
+        "excerpt": "أفاد موقع hankyung.com بأن 1000 كوب قهوة نُفدت بالكامل، وأن المقاعد الإضافية التي جرى توفيرها امتلأت أيضا. ولم يذكر النص الأصلي اسم الفعالية أو وقتها أو مكانها.",
+        "body": "بحسب hankyung.com، نُفدت في أحد المواقع 1000 كوب قهوة كانت معدة مسبقا، كما امتلأت المقاعد الإضافية التي جرى توفيرها. وجاء العنوان الأصلي بمعنى “نفاد 1000 كوب قهوة وامتلاء المقاعد الإضافية”، في إشارة إلى حضور قوي في الموقع. لكن المعلومات الأصلية المتاحة لا تتضمن اسم الفعالية المحدد، أو تاريخها، أو مكانها، أو الجهة المنظمة، أو العدد الإجمالي للحضور. وتقتصر الوقائع المؤكدة على نفاد 1000 كوب قهوة وامتلاء المقاعد الإضافية. ويعني ذلك أن الطلب في الموقع تجاوز كمية القهوة وعدد المقاعد التي كانت معدة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "1,000 कप कॉफी खत्म, अतिरिक्त सीटें भी पूरी तरह भर गईं",
+        "excerpt": "hankyung.com ने बताया कि तैयार किए गए 1,000 कप कॉफी खत्म हो गए और अतिरिक्त सीटें भी पूरी तरह भर गईं। मूल जानकारी में आयोजन का नाम, समय या स्थान नहीं दिया गया।",
+        "body": "hankyung.com के अनुसार, एक स्थल पर तैयार किए गए 1,000 कप कॉफी पूरी तरह खत्म हो गए और अतिरिक्त रूप से लगाई गई सीटें भी भर गईं। मूल शीर्षक, “कॉफी के 1,000 कप खत्म और अतिरिक्त सीटें भी भरीं,” मौके पर मजबूत भागीदारी की स्थिति बताता है। हालांकि उपलब्ध मूल जानकारी में आयोजन का नाम, तारीख, स्थान, आयोजक या कुल उपस्थित लोगों की संख्या शामिल नहीं है। पुष्टि किए गए तथ्य केवल इतने हैं कि 1,000 कप कॉफी समाप्त हो गई और अतिरिक्त सीटें भी पूरी तरह भर गईं। इससे संकेत मिलता है कि स्थल पर मांग तैयार कॉफी और सीट व्यवस्था से अधिक रही। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "1.000 Cangkir Kopi Habis, Kursi Tambahan Juga Terisi Penuh",
+        "excerpt": "hankyung.com melaporkan bahwa 1.000 cangkir kopi yang disiapkan habis dan kursi tambahan juga terisi penuh. Teks asli tidak mencantumkan nama acara, waktu, atau lokasi.",
+        "body": "Menurut hankyung.com, di sebuah lokasi, 1.000 cangkir kopi yang telah disiapkan habis, dan kursi tambahan yang disediakan juga terisi penuh. Judul asli, “1.000 cangkir kopi habis dan kursi tambahan juga penuh,” menggambarkan tingginya antusiasme di tempat tersebut. Namun, informasi asli yang tersedia tidak mencakup nama acara, waktu pelaksanaan, lokasi, penyelenggara, atau jumlah total peserta. Fakta yang dapat dikonfirmasi hanya bahwa 1.000 cangkir kopi telah habis dan kursi tambahan juga penuh. Hal ini menunjukkan bahwa permintaan di lokasi melebihi jumlah kopi dan kapasitas kursi yang disiapkan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
     "id": "6acac83b854b",
     "slug": "최용호-대표-ai로봇-기반-엔터테크로-k컬처-격-높일-것-479652",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Hana Financial Investasi 1 Triliun Won di Dunamu, Perkuat Aliansi Stablecoin Won",
         "excerpt": "Hana Financial Group melalui Hana Bank memperoleh 6,55% saham Dunamu milik Kakao Investment, memperluas kerja sama stablecoin won dan STO.",
         "body": "Hana Financial Group bergerak memperkuat kerja sama stablecoin berbasis won dengan berinvestasi 1 triliun won di Dunamu, operator Upbit, bursa aset kripto terbesar di Korea Selatan, melalui Hana Bank. Hana Bank dilaporkan memperoleh 6,55% saham Dunamu yang dimiliki Kakao Investment. Investasi ini menjadi langkah Hana Financial untuk meningkatkan daya saing di bidang keuangan baru. Kedua perusahaan berencana bekerja sama secara luas dalam keuangan digital, termasuk stablecoin won dan STO. Saat hubungan antara aset kripto dan keuangan tradisional makin besar, kesepakatan ini diperkirakan memengaruhi ekspansi bisnis aset digital di sektor perbankan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "d8959ffeab2a",
-    "slug": "우리자산운용-미-단기채-공모주펀드-순자산-4000억-돌파-126420",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T23:12:12.418Z",
-    "updatedAt": "2026-05-14T23:12:12.418Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578856",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578856",
-    "titleFingerprint": "538e20f943edb5110a3b76bb3d9cd96e2aed4105",
-    "dedupKeys": [
-      "d8959ffeab2abe4d1f768c8057f0423f56f0170e",
-      "538e20f943edb5110a3b76bb3d9cd96e2aed4105",
-      "18691f108b95c87210ae3dd37fd781ca196e8c59"
-    ],
-    "imageUrl": "/images/articles/d8959ffeab2a.jpg",
-    "i18n": {
-      "ko": {
-        "title": "우리자산운용 미국 단기채 공모주펀드, 순자산 4000억 돌파…한 달 1000억 유입",
-        "excerpt": "우리자산운용은 14일 우리미국단기채공모주증권자투자신탁 펀드 순자산이 4000억원을 넘어섰다고 밝혔다. 단기채 수익과 글로벌 IPO 투자 전략이 자금 유입 배경으로 제시됐다.",
-        "body": "우리자산운용은 14일 ‘우리미국단기채공모주증권자투자신탁(채권혼합)’ 펀드의 순자산이 4000억원을 돌파했다고 밝혔다. 지난달 순자산 3000억원을 넘어선 뒤 한 달여 만에 1000억원이 추가로 유입된 것이다. 이 펀드는 미국 단기채를 중심으로 안정적인 캐리 수익을 확보하면서 글로벌 기업공개(IPO)에 참여해 초과 수익을 추구하는 채권혼합형 상품이다. 회사 측은 글로벌 자산운용사 누버거버먼과 협업해 해외 공모주 딜 소싱 역량을 확보하고, 공모가 대비 기업가치가 매력적인 종목을 선별 투자한다고 설명했다. 글로벌 대어급 IPO 기대감과 국내외 증시 강세도 공모주 펀드에 우호적 환경으로 거론됐다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Woori Asset’s U.S. Short-Term Bond IPO Fund Tops 400 Billion Won in Net Assets",
-        "excerpt": "Woori Asset Management said on May 14 that net assets of its Woori U.S. Short-Term Bond IPO Securities Fund exceeded 400 billion won, citing short-term bond income and global IPO investing.",
-        "body": "Woori Asset Management said on May 14 that net assets of the Woori U.S. Short-Term Bond IPO Securities Investment Trust, a bond-mixed fund, surpassed 400 billion won. The fund had crossed 300 billion won last month, meaning another 100 billion won flowed in within about a month. The product seeks stable carry income mainly from U.S. short-term bonds while pursuing additional returns through participation in global initial public offerings. The company said it works with global asset manager Neuberger Berman to strengthen overseas IPO deal-sourcing capabilities and selectively invests in quality names whose valuations look attractive versus offering prices. Expectations for major global IPOs and strength in domestic and overseas stock markets were also cited as favorable factors for IPO funds. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "ウリ資産運用の米短期債IPOファンド、純資産4000億ウォン突破",
-        "excerpt": "ウリ資産運用は14日、米短期債とグローバルIPO投資を組み合わせる同社ファンドの純資産が4000億ウォンを超えたと発表した。",
-        "body": "ウリ資産運用は14日、「ウリ米国短期債公募株証券子投資信託（債券混合）」ファンドの純資産が4000億ウォンを突破したと明らかにした。先月3000億ウォンを超えてから約1カ月で1000億ウォンが追加流入した計算だ。同ファンドは米国短期債を中心に安定的なキャリー収益を確保しつつ、グローバル企業公開（IPO）に参加して超過収益を追求する債券混合型商品。会社側は、グローバル運用会社ニューバーガー・バーマンとの協業により海外IPO案件のソーシング力を確保し、公募価格に対して企業価値が魅力的な銘柄を選別投資すると説明した。大型IPOへの期待と国内外株式市場の強さも、公募株ファンドに追い風とされた。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "友利资产运用美国短债IPO基金净资产突破4000亿韩元",
-        "excerpt": "友利资产运用14日表示，其美国短债IPO证券投资信托基金净资产已超过4000亿韩元，短债收益与全球IPO投资策略带动资金流入。",
-        "body": "友利资产运用14日表示，“友利美国短债IPO证券子投资信托（债券混合）”基金净资产已突破4000亿韩元。该基金上月刚超过3000亿韩元，约一个月内又流入1000亿韩元。该产品以美国短期债券为核心，力求获取稳定的持有收益，同时参与全球首次公开募股（IPO）以追求额外收益，属于债券混合型基金。公司方面称，通过与全球资产管理公司Neuberger Berman合作，强化海外IPO项目获取能力，并筛选相对发行价估值具有吸引力的优质标的进行投资。全球大型IPO预期以及韩国内外股市走强，也被视为公募股基金的有利环境。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Fondo de Woori Asset de bonos cortos e IPO de EE. UU. supera 400.000 millones de wones",
-        "excerpt": "Woori Asset Management informó el 14 de mayo que su fondo de bonos cortos estadounidenses e IPO globales superó 400.000 millones de wones en activos netos.",
-        "body": "Woori Asset Management informó el 14 de mayo que los activos netos de su fondo Woori U.S. Short-Term Bond IPO Securities Investment Trust, de tipo mixto con bonos, superaron los 400.000 millones de wones. El fondo había rebasado los 300.000 millones el mes pasado, por lo que recibió otros 100.000 millones en aproximadamente un mes. El producto busca ingresos estables de carry principalmente mediante bonos estadounidenses de corto plazo y, al mismo tiempo, rendimientos adicionales participando en ofertas públicas iniciales globales. La firma explicó que colabora con Neuberger Berman para reforzar la originación de operaciones de IPO en el extranjero y seleccionar valores de calidad con valoraciones atractivas frente al precio de oferta. Las expectativas sobre grandes IPO globales y la fortaleza de los mercados bursátiles también fueron citadas como factores favorables. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Fundo da Woori Asset de títulos curtos dos EUA e IPOs supera 400 bilhões de won",
-        "excerpt": "A Woori Asset Management disse em 14 de maio que seu fundo de títulos curtos dos EUA e IPOs globais passou de 400 bilhões de won em patrimônio líquido.",
-        "body": "A Woori Asset Management informou em 14 de maio que o patrimônio líquido do Woori U.S. Short-Term Bond IPO Securities Investment Trust, fundo misto de renda fixa, superou 400 bilhões de won. O produto havia passado de 300 bilhões de won no mês anterior, o que indica entrada adicional de 100 bilhões em cerca de um mês. O fundo busca renda estável de carry principalmente com títulos de curto prazo dos Estados Unidos e tenta acrescentar retorno por meio de participação em ofertas públicas iniciais globais. A empresa afirmou que trabalha com a gestora global Neuberger Berman para ampliar a capacidade de originação de IPOs no exterior e selecionar papéis de qualidade com avaliação atraente em relação ao preço de oferta. Expectativas por grandes IPOs globais e a força dos mercados acionários também foram citadas como ambiente favorável. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Woori-Asset-Fonds für US-Kurzläufer und IPOs knackt 400 Mrd. Won Nettovermögen",
-        "excerpt": "Woori Asset Management teilte am 14. Mai mit, dass sein Fonds für US-Kurzläufer und globale IPOs ein Nettovermögen von über 400 Mrd. Won erreicht hat.",
-        "body": "Woori Asset Management gab am 14. Mai bekannt, dass das Nettovermögen des Woori U.S. Short-Term Bond IPO Securities Investment Trust, eines gemischten Rentenfonds, die Marke von 400 Mrd. Won überschritten hat. Erst im Vormonat hatte der Fonds 300 Mrd. Won erreicht, womit innerhalb von rund einem Monat weitere 100 Mrd. Won zuflossen. Das Produkt zielt vor allem mit kurzfristigen US-Anleihen auf stabile Carry-Erträge und strebt zugleich Zusatzerträge durch Beteiligungen an globalen Börsengängen an. Das Unternehmen erklärte, es arbeite mit dem globalen Asset Manager Neuberger Berman zusammen, um die Beschaffung ausländischer IPO-Deals zu stärken, und investiere selektiv in hochwertige Titel mit attraktiver Bewertung gegenüber dem Ausgabepreis. Erwartungen an große globale IPOs sowie starke Aktienmärkte im In- und Ausland wurden ebenfalls als günstige Faktoren genannt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Le fonds Woori de dette courte américaine et d’IPO dépasse 400 milliards de wons",
-        "excerpt": "Woori Asset Management a annoncé le 14 mai que son fonds mêlant dette courte américaine et investissements en IPO mondiales dépassait 400 milliards de wons d’actifs nets.",
-        "body": "Woori Asset Management a indiqué le 14 mai que les actifs nets de son Woori U.S. Short-Term Bond IPO Securities Investment Trust, un fonds mixte obligataire, avaient dépassé 400 milliards de wons. Le fonds avait franchi 300 milliards de wons le mois précédent, ce qui représente 100 milliards de wons d’entrées supplémentaires en un peu plus d’un mois. Le produit cherche à obtenir un revenu de portage stable principalement via des obligations américaines de court terme, tout en visant un rendement additionnel grâce à la participation à des introductions en Bourse mondiales. La société a expliqué qu’elle coopère avec Neuberger Berman afin de renforcer l’accès aux opérations d’IPO à l’étranger et de sélectionner des titres de qualité dont la valorisation paraît attractive face au prix d’offre. Les attentes autour de grandes IPO mondiales et la vigueur des marchés actions ont aussi été citées comme facteurs favorables. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "صندوق ووري للسندات الأميركية القصيرة والاكتتابات يتجاوز 400 مليار وون",
-        "excerpt": "قالت ووري لإدارة الأصول في 14 مايو إن صافي أصول صندوقها للسندات الأميركية قصيرة الأجل والاكتتابات العالمية تجاوز 400 مليار وون.",
-        "body": "أعلنت ووري لإدارة الأصول في 14 مايو أن صافي أصول صندوق «ووري للسندات الأميركية قصيرة الأجل والاكتتابات العامة»، وهو صندوق مختلط السندات، تجاوز 400 مليار وون. وكان الصندوق قد تخطى 300 مليار وون الشهر الماضي، ما يعني دخول 100 مليار وون إضافية خلال نحو شهر. ويهدف المنتج إلى تحقيق دخل حمل مستقر بالتركيز على السندات الأميركية قصيرة الأجل، مع السعي إلى عوائد إضافية عبر المشاركة في الاكتتابات العامة العالمية. وذكرت الشركة أنها تتعاون مع مدير الأصول العالمي نيوبيرغر بيرمان لتعزيز القدرة على الوصول إلى صفقات الاكتتابات الخارجية، والاستثمار انتقائيا في شركات جيدة تبدو قيمتها جذابة مقارنة بسعر الطرح. كما ذُكرت توقعات الاكتتابات العالمية الكبيرة وقوة أسواق الأسهم المحلية والخارجية كعوامل مواتية لصناديق الاكتتابات. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "वूरी एसेट का अमेरिकी शॉर्ट बॉन्ड IPO फंड 400 अरब वॉन नेट एसेट से ऊपर",
-        "excerpt": "वूरी एसेट मैनेजमेंट ने 14 मई को कहा कि उसके अमेरिकी शॉर्ट-टर्म बॉन्ड और वैश्विक IPO निवेश वाले फंड की शुद्ध संपत्ति 400 अरब वॉन से ऊपर चली गई है।",
-        "body": "वूरी एसेट मैनेजमेंट ने 14 मई को बताया कि ‘वूरी यूएस शॉर्ट-टर्म बॉन्ड IPO सिक्योरिटीज इन्वेस्टमेंट ट्रस्ट’, जो एक बॉन्ड-मिश्रित फंड है, की शुद्ध संपत्ति 400 अरब वॉन से अधिक हो गई। यह फंड पिछले महीने 300 अरब वॉन से ऊपर गया था, यानी लगभग एक महीने में 100 अरब वॉन और जुड़ गए। यह उत्पाद मुख्य रूप से अमेरिकी अल्पकालिक बॉन्ड से स्थिर कैरी आय हासिल करने और वैश्विक प्रारंभिक सार्वजनिक निर्गमों में भागीदारी से अतिरिक्त रिटर्न पाने का प्रयास करता है। कंपनी ने कहा कि वह विदेशी IPO सौदों की सोर्सिंग क्षमता बढ़ाने के लिए वैश्विक एसेट मैनेजर Neuberger Berman के साथ काम करती है और पेशकश मूल्य की तुलना में आकर्षक वैल्यूएशन वाले अच्छे शेयरों को चुनकर निवेश करती है। बड़े वैश्विक IPO की उम्मीद और घरेलू-विदेशी शेयर बाजारों की मजबूती को भी ऐसे फंडों के लिए अनुकूल माहौल बताया गया। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana Obligasi Jangka Pendek AS dan IPO Woori Asset Tembus 400 Miliar Won",
-        "excerpt": "Woori Asset Management pada 14 Mei menyatakan dana obligasi jangka pendek AS dan IPO global miliknya telah melampaui 400 miliar won dalam aset bersih.",
-        "body": "Woori Asset Management menyatakan pada 14 Mei bahwa aset bersih Woori U.S. Short-Term Bond IPO Securities Investment Trust, sebuah dana campuran obligasi, telah menembus 400 miliar won. Dana tersebut baru melewati 300 miliar won pada bulan lalu, sehingga ada tambahan arus masuk 100 miliar won dalam sekitar satu bulan. Produk ini berupaya memperoleh pendapatan carry yang stabil terutama dari obligasi jangka pendek AS, sekaligus mengejar imbal hasil tambahan melalui partisipasi dalam penawaran umum perdana global. Perusahaan mengatakan bekerja sama dengan manajer aset global Neuberger Berman untuk memperkuat kemampuan memperoleh transaksi IPO luar negeri dan memilih emiten berkualitas dengan valuasi menarik dibanding harga penawaran. Harapan terhadap IPO global berskala besar serta penguatan pasar saham domestik dan luar negeri juga disebut sebagai lingkungan yang mendukung dana IPO. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "4e8f9c02e8e1",
-    "slug": "하나마이크론-sk하닉-협력-강화에-수익성-개선목표가-한국-322831",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T23:10:53.280Z",
-    "updatedAt": "2026-05-14T23:10:53.280Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051578866",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051578866",
-    "titleFingerprint": "1baba80e15546dd51d701520ce5c36d9c022e531",
-    "dedupKeys": [
-      "4e8f9c02e8e15cee6a0568a1c438159e818d0aa4",
-      "1baba80e15546dd51d701520ce5c36d9c022e531",
-      "be002bb060986051cb66b68e662c0023262d4a76"
-    ],
-    "imageUrl": "/images/articles/4e8f9c02e8e1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "하나마이크론 목표가 상향, SK하이닉스 협력 강화로 수익성 개선 기대",
-        "excerpt": "한국투자증권은 하나마이크론이 SK하이닉스와의 협력 강화로 수익성 개선이 예상된다며 목표주가를 상향했다. 반도체 후공정 수요와 고객사 협력이 핵심 배경이다.",
-        "body": "한국투자증권은 하나마이크론에 대해 SK하이닉스와의 협력 강화가 수익성 개선으로 이어질 수 있다고 평가하며 목표주가를 올렸다. 하나마이크론은 반도체 후공정 분야에서 고객사와의 협력 확대가 실적 개선 요인으로 거론되는 기업이다. 이번 판단은 SK하이닉스 관련 물량과 협력 관계가 강화될 경우 매출 안정성과 수익성 개선에 긍정적으로 작용할 수 있다는 분석에 기반한다. 증권가는 반도체 업황 회복과 후공정 수요 확대가 하나마이크론의 향후 실적 흐름에 영향을 줄 변수로 보고 있다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Hana Micron Target Raised on Stronger SK Hynix Ties and Margin Outlook",
-        "excerpt": "Korea Investment & Securities raised its target price for Hana Micron, citing expectations that stronger cooperation with SK Hynix could improve profitability through semiconductor back-end demand.",
-        "body": "Korea Investment & Securities raised its target price for Hana Micron, saying stronger cooperation with SK Hynix could lead to improved profitability. Hana Micron is a semiconductor back-end company whose earnings outlook is linked to broader customer cooperation. The assessment is based on the view that deeper ties and related volume from SK Hynix may support more stable sales and better margins. Analysts are watching the recovery in the semiconductor cycle and rising demand for back-end services as key variables for Hana Micron’s future performance. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "ハナマイクロン目標株価引き上げ、SKハイニックス連携強化で収益性改善へ",
-        "excerpt": "韓国投資証券は、ハナマイクロンについてSKハイニックスとの協力強化により収益性改善が見込まれるとして、目標株価を引き上げた。後工程需要が焦点だ。",
-        "body": "韓国投資証券は、ハナマイクロンについてSKハイニックスとの協力強化が収益性改善につながる可能性があると評価し、目標株価を引き上げた。ハナマイクロンは半導体後工程分野で、顧客企業との協力拡大が業績改善要因として挙げられる企業だ。今回の判断は、SKハイニックス関連の受注や協力関係が強まれば、売上の安定性と収益性改善にプラスに働くとの分析に基づく。証券業界は半導体市況の回復と後工程需要の拡大を、今後の業績を左右する変数とみている。出典: hankyung.com引用。"
-      },
-      "zh": {
-        "title": "Hana Micron目标价上调，强化与SK海力士合作有望改善盈利",
-        "excerpt": "韩国投资证券上调Hana Micron目标价，认为其与SK海力士合作加强，有望带动盈利能力改善。半导体后道需求和客户合作是主要背景。",
-        "body": "韩国投资证券上调了Hana Micron的目标价，理由是其与SK海力士的合作加强可能带来盈利能力改善。Hana Micron是半导体后道工序企业，客户合作扩大被视为改善业绩的因素。此次判断基于这样一种分析：如果来自SK海力士的相关订单和合作关系进一步加强，将有助于提升销售稳定性和盈利能力。证券界认为，半导体景气复苏以及后道工序需求扩大，将是影响Hana Micron未来业绩走势的关键变量。来源：引自hankyung.com。"
-      },
-      "es": {
-        "title": "Hana Micron sube precio objetivo por mayor cooperación con SK Hynix",
-        "excerpt": "Korea Investment & Securities elevó el precio objetivo de Hana Micron al prever una mejora de rentabilidad por una cooperación más estrecha con SK Hynix y mayor demanda de posprocesamiento.",
-        "body": "Korea Investment & Securities elevó el precio objetivo de Hana Micron al considerar que una cooperación más estrecha con SK Hynix puede traducirse en una mejora de la rentabilidad. Hana Micron opera en el segmento de posprocesamiento de semiconductores, donde la ampliación de la colaboración con clientes se cita como un factor para mejorar resultados. El análisis parte de que mayores volúmenes relacionados con SK Hynix y una relación más sólida pueden apoyar ventas más estables y mejores márgenes. El mercado observa la recuperación del ciclo de semiconductores y la demanda de posprocesamiento como variables clave. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Hana Micron tem preço-alvo elevado com maior cooperação com SK Hynix",
-        "excerpt": "A Korea Investment & Securities elevou o preço-alvo da Hana Micron ao apontar que a cooperação reforçada com a SK Hynix pode melhorar a rentabilidade e apoiar a demanda por back-end.",
-        "body": "A Korea Investment & Securities elevou o preço-alvo da Hana Micron, avaliando que a cooperação reforçada com a SK Hynix pode levar a uma melhora da rentabilidade. A Hana Micron atua no back-end de semicondutores, área em que a ampliação da colaboração com clientes é citada como fator de melhora nos resultados. A análise considera que volumes ligados à SK Hynix e uma relação mais forte podem apoiar maior estabilidade de receita e margens melhores. O mercado acompanha a recuperação do setor de semicondutores e a expansão da demanda por back-end como variáveis para o desempenho futuro. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Hana Micron: Kursziel steigt dank stärkerer Zusammenarbeit mit SK Hynix",
-        "excerpt": "Korea Investment & Securities hob das Kursziel für Hana Micron an. Grund ist die Erwartung, dass eine stärkere Zusammenarbeit mit SK Hynix die Profitabilität im Halbleiter-Backend verbessern kann.",
-        "body": "Korea Investment & Securities hat das Kursziel für Hana Micron angehoben und verweist darauf, dass eine stärkere Zusammenarbeit mit SK Hynix die Profitabilität verbessern könnte. Hana Micron ist im Backend-Geschäft für Halbleiter tätig, wo eine breitere Kooperation mit Kunden als Faktor für bessere Ergebnisse gilt. Die Einschätzung beruht auf der Annahme, dass SK-Hynix-bezogene Volumina und engere Beziehungen stabilere Umsätze und bessere Margen unterstützen können. Analysten sehen die Erholung des Halbleiterzyklus und die steigende Backend-Nachfrage als wichtige Einflussgrößen für die weitere Entwicklung. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Hana Micron relevé grâce au renforcement de sa coopération avec SK Hynix",
-        "excerpt": "Korea Investment & Securities a relevé son objectif de cours sur Hana Micron, estimant qu’un partenariat renforcé avec SK Hynix pourrait améliorer la rentabilité dans le back-end des semi-conducteurs.",
-        "body": "Korea Investment & Securities a relevé son objectif de cours sur Hana Micron, jugeant qu’une coopération renforcée avec SK Hynix pourrait améliorer la rentabilité. Hana Micron est active dans le back-end des semi-conducteurs, un segment où l’élargissement de la coopération avec les clients est cité comme facteur d’amélioration des résultats. L’analyse repose sur l’idée que les volumes liés à SK Hynix et des liens plus étroits peuvent soutenir la stabilité du chiffre d’affaires et les marges. Les analystes surveillent la reprise du cycle des semi-conducteurs et la demande de services back-end comme variables clés. Source: cité de hankyung.com."
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لهانا مايكـرون بدعم تعاون أقوى مع SK Hynix",
-        "excerpt": "رفعت Korea Investment & Securities السعر المستهدف لهانا مايكـرون، مشيرة إلى أن تعزيز التعاون مع SK Hynix قد يحسن الربحية مع نمو الطلب على خدمات ما بعد تصنيع أشباه الموصلات.",
-        "body": "رفعت Korea Investment & Securities السعر المستهدف لهانا مايكـرون، معتبرة أن تعزيز التعاون مع SK Hynix قد يؤدي إلى تحسن الربحية. تعمل هانا مايكـرون في مجال العمليات الخلفية لأشباه الموصلات، حيث يعد توسيع التعاون مع العملاء عاملا داعما لتحسن الأداء. يستند التقييم إلى أن زيادة الكميات المرتبطة بـ SK Hynix وتقوية العلاقة معها قد يدعمان استقرار المبيعات وتحسن الهوامش. ويراقب المحللون تعافي دورة أشباه الموصلات واتساع الطلب على خدمات العمليات الخلفية كعاملين مؤثرين في الأداء المستقبلي للشركة. المصدر: نقلا عن hankyung.com."
-      },
-      "hi": {
-        "title": "SK Hynix सहयोग मजबूत होने से Hana Micron का लक्ष्य भाव बढ़ाया गया",
-        "excerpt": "Korea Investment & Securities ने Hana Micron का लक्ष्य भाव बढ़ाया है। उसका आकलन है कि SK Hynix के साथ सहयोग मजबूत होने से सेमीकंडक्टर बैक-एंड मांग के जरिए लाभप्रदता सुधर सकती है।",
-        "body": "Korea Investment & Securities ने Hana Micron का लक्ष्य भाव बढ़ाते हुए कहा कि SK Hynix के साथ सहयोग मजबूत होना कंपनी की लाभप्रदता सुधार सकता है। Hana Micron सेमीकंडक्टर बैक-एंड क्षेत्र की कंपनी है, जहां ग्राहकों के साथ सहयोग बढ़ना आय सुधार का कारक माना जाता है। यह आकलन इस आधार पर है कि SK Hynix से जुड़े ऑर्डर और संबंध मजबूत होने पर बिक्री की स्थिरता तथा मार्जिन को मदद मिल सकती है। विश्लेषक सेमीकंडक्टर चक्र में सुधार और बैक-एंड मांग के विस्तार को Hana Micron के भविष्य के प्रदर्शन से जुड़े प्रमुख कारक मान रहे हैं। स्रोत: hankyung.com से उद्धृत।"
-      },
-      "id": {
-        "title": "Target Hana Micron Naik Berkat Kerja Sama Lebih Kuat dengan SK Hynix",
-        "excerpt": "Korea Investment & Securities menaikkan target harga Hana Micron karena menilai kerja sama yang lebih kuat dengan SK Hynix dapat memperbaiki profitabilitas melalui permintaan back-end semikonduktor.",
-        "body": "Korea Investment & Securities menaikkan target harga Hana Micron, dengan menilai bahwa kerja sama yang lebih kuat dengan SK Hynix dapat mendorong perbaikan profitabilitas. Hana Micron bergerak di bidang back-end semikonduktor, dan perluasan kerja sama dengan pelanggan disebut sebagai faktor peningkatan kinerja. Penilaian ini didasarkan pada pandangan bahwa volume terkait SK Hynix dan hubungan yang lebih erat dapat membantu stabilitas penjualan serta margin yang lebih baik. Pelaku pasar mencermati pemulihan siklus semikonduktor dan kenaikan permintaan back-end sebagai variabel utama bagi kinerja Hana Micron ke depan. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "e8f9a06317d5",
-    "slug": "삼성생명-요율인상에도-신계약-약진건강보험종신까지-호조-목표가-213343",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T23:09:35.356Z",
-    "updatedAt": "2026-05-14T23:09:35.356Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048673",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048673",
-    "titleFingerprint": "6396681ef76cde3e320653cc2e47de48a0404513",
-    "dedupKeys": [
-      "e8f9a06317d564c9ec0402af3229faa0db3dad4b",
-      "6396681ef76cde3e320653cc2e47de48a0404513",
-      "5a00f57b238b55ad4dc9cbff038d4c071db20845"
-    ],
-    "imageUrl": "/images/articles/e8f9a06317d5.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성생명 목표가 27만8000원 상향, 요율인상에도 신계약·건강보험 호조",
-        "excerpt": "대신증권은 15일 삼성생명이 요율인상에도 신계약에서 약진했고 건강보험과 종신보험까지 호조를 보였다며 목표주가를 22만원에서 27만8000원으로 올렸다.",
-        "body": "대신증권은 15일 삼성생명에 대해 요율인상에도 신계약이 약진했고 건강보험뿐 아니라 종신보험까지 호조를 보였다며 목표주가를 기존 22만원에서 27만8000원으로 상향 조정했다. 이번 조정은 보험료 요율 인상 환경에서도 신규 계약 흐름이 개선됐다는 평가를 반영한 것이다. 특히 건강보험 부문의 성과에 더해 종신보험까지 양호했다는 점이 긍정적으로 언급됐다. 증권사는 신계약 확대와 상품군 전반의 호조를 근거로 삼성생명에 대한 눈높이를 높였다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Samsung Life Target Raised to 278,000 Won as New Contracts Advance Despite Rate Hikes",
-        "excerpt": "Daishin Securities said on the 15th that Samsung Life’s new contracts advanced despite rate increases, with health and whole life insurance also performing well, lifting its target price.",
-        "body": "Daishin Securities on the 15th raised its target price for Samsung Life Insurance from 220,000 won to 278,000 won, saying new contracts advanced despite rate increases and that performance was strong not only in health insurance but also in whole life insurance. The revision reflects its view that new contract momentum improved even in an environment of higher premium rates. The firm specifically cited solid results in health insurance and favorable trends in whole life products. Based on broader product strength and new contract growth, it raised its valuation outlook for Samsung Life. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "サムスン生命の目標株価27万8000ウォンへ、新契約と健康保険が好調",
-        "excerpt": "大信証券は15日、サムスン生命について料率引き上げにもかかわらず新契約が伸び、健康保険や終身保険も好調だったとして目標株価を引き上げた。",
-        "body": "大信証券は15日、サムスン生命について、料率引き上げにもかかわらず新契約が伸び、健康保険だけでなく終身保険も好調だったとして、目標株価を従来の22万ウォンから27万8000ウォンへ引き上げた。今回の調整は、保険料率上昇の環境でも新規契約の流れが改善したとの評価を反映したものだ。特に健康保険部門の成果に加え、終身保険まで良好だった点が前向きに言及された。新契約の拡大と商品群全般の堅調さを根拠に、同社への見方を高めた。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "三星生命目标价上调至27.8万韩元，费率上调下新单仍走强",
-        "excerpt": "Daishin证券15日表示，三星生命即使在费率上调背景下新单仍明显增长，健康险和终身寿险表现良好，因此上调目标价。",
-        "body": "Daishin证券15日将三星生命的目标股价从原来的22万韩元上调至27.8万韩元，理由是即使在费率上调的情况下，新合同仍取得进展，且不仅健康保险表现良好，终身寿险也保持强势。此次调整反映了该机构对保费费率上升环境中新业务动能改善的评价。报告特别提到，健康保险部门成果稳健，终身寿险产品也呈现良好趋势。基于新合同扩大以及产品线整体表现向好，证券公司提高了对三星生命的估值预期。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Samsung Life sube a 278.000 wones: nuevos contratos avanzan pese a mayores tarifas",
-        "excerpt": "Daishin Securities dijo el día 15 que Samsung Life avanzó en nuevos contratos pese al alza de tarifas, con buen desempeño en seguros de salud y vida entera, y elevó su precio objetivo.",
-        "body": "Daishin Securities elevó el día 15 el precio objetivo de Samsung Life Insurance de 220.000 wones a 278.000 wones, al señalar que los nuevos contratos avanzaron pese al aumento de tarifas y que el buen desempeño se extendió no solo al seguro de salud, sino también al seguro de vida entera. La revisión refleja la evaluación de que el flujo de nuevos contratos mejoró incluso en un entorno de mayores primas. La firma destacó en particular los resultados del área de salud y la solidez de los productos de vida entera. Con base en la expansión de nuevos contratos y el buen tono de la cartera, elevó sus expectativas para Samsung Life. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Samsung Life tem alvo elevado a 278 mil won, com novos contratos em alta apesar de tarifas",
-        "excerpt": "A Daishin Securities disse no dia 15 que a Samsung Life avançou em novos contratos apesar do aumento de tarifas, com bom desempenho em saúde e vida inteira, e elevou o preço-alvo.",
-        "body": "A Daishin Securities elevou no dia 15 o preço-alvo da Samsung Life Insurance de 220 mil won para 278 mil won, afirmando que os novos contratos avançaram apesar do aumento das tarifas e que o desempenho foi positivo não apenas em seguros de saúde, mas também em seguros de vida inteira. A revisão reflete a avaliação de que o fluxo de novos contratos melhorou mesmo em um ambiente de prêmios mais altos. A corretora destacou os resultados em saúde e a boa tendência dos produtos de vida inteira. Com base na expansão dos novos contratos e no bom desempenho geral da linha de produtos, elevou sua visão sobre a Samsung Life. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Samsung Life: Kursziel auf 278.000 Won erhöht, Neuverträge trotz Tariferhöhungen stark",
-        "excerpt": "Daishin Securities erklärte am 15., Samsung Life habe trotz Tariferhöhungen bei Neuverträgen zugelegt; auch Kranken- und Lebensversicherungen liefen gut, weshalb das Kursziel stieg.",
-        "body": "Daishin Securities hat am 15. das Kursziel für Samsung Life Insurance von 220.000 Won auf 278.000 Won angehoben. Zur Begründung hieß es, die Neuverträge hätten trotz Tariferhöhungen deutlich zugelegt, und die Entwicklung sei nicht nur in der Krankenversicherung, sondern auch bei Lebensversicherungen gut gewesen. Die Anpassung spiegelt die Einschätzung wider, dass sich der Neugeschäftsfluss selbst in einem Umfeld höherer Prämien verbessert hat. Besonders positiv wurden die Ergebnisse im Krankenversicherungsgeschäft und die stabile Entwicklung bei Lebensversicherungsprodukten genannt. Auf Basis der breiteren Produktstärke hob das Haus seinen Blick auf Samsung Life an. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Samsung Life relevé à 278 000 wons, les nouveaux contrats résistent aux hausses de tarifs",
-        "excerpt": "Daishin Securities a indiqué le 15 que Samsung Life avait progressé en nouveaux contrats malgré les hausses de tarifs, avec une bonne tenue de l’assurance santé et vie entière.",
-        "body": "Daishin Securities a relevé le 15 son objectif de cours sur Samsung Life Insurance de 220 000 wons à 278 000 wons, estimant que les nouveaux contrats avaient progressé malgré les hausses de tarifs et que la bonne performance concernait non seulement l’assurance santé, mais aussi l’assurance vie entière. Cette révision traduit l’évaluation d’une amélioration du flux de nouveaux contrats dans un contexte de primes plus élevées. La société a notamment cité les résultats solides de la santé et la bonne tendance des produits de vie entière. Sur la base de l’expansion des nouveaux contrats et de la vigueur de l’ensemble des produits, elle a relevé ses attentes pour Samsung Life. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "رفع السعر المستهدف لسامسونغ لايف إلى 278 ألف وون مع قوة العقود الجديدة رغم زيادة الأسعار",
-        "excerpt": "قالت دايشين للأوراق المالية في اليوم 15 إن سامسونغ لايف حققت تقدما في العقود الجديدة رغم رفع الأسعار، مع أداء جيد في التأمين الصحي والتأمين مدى الحياة، ورفعت السعر المستهدف.",
-        "body": "رفعت دايشين للأوراق المالية في اليوم 15 السعر المستهدف لسامسونغ لايف للتأمين من 220 ألف وون إلى 278 ألف وون، موضحة أن العقود الجديدة حققت تقدما رغم زيادة الأسعار، وأن الأداء كان جيدا ليس فقط في التأمين الصحي بل أيضا في التأمين مدى الحياة. ويعكس هذا التعديل تقييما بأن تدفق العقود الجديدة تحسن حتى في بيئة ارتفاع أقساط التأمين. وذكرت الشركة بشكل خاص نتائج التأمين الصحي واتجاهات التأمين مدى الحياة الإيجابية. وبناء على توسع العقود الجديدة وقوة المنتجات عموما، رفعت نظرتها إلى سامسونغ لايف. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Samsung Life का लक्ष्य मूल्य 278,000 वॉन, दर वृद्धि के बावजूद नए अनुबंध मजबूत",
-        "excerpt": "Daishin Securities ने 15 तारीख को कहा कि दर वृद्धि के बावजूद Samsung Life के नए अनुबंधों में तेजी आई और स्वास्थ्य बीमा के साथ संपूर्ण जीवन बीमा भी अच्छा रहा, इसलिए लक्ष्य मूल्य बढ़ाया गया।",
-        "body": "Daishin Securities ने 15 तारीख को Samsung Life Insurance के लिए लक्ष्य मूल्य 220,000 वॉन से बढ़ाकर 278,000 वॉन कर दिया। फर्म ने कहा कि दर वृद्धि के बावजूद नए अनुबंधों में प्रगति हुई और प्रदर्शन केवल स्वास्थ्य बीमा में ही नहीं, बल्कि संपूर्ण जीवन बीमा में भी अच्छा रहा। यह संशोधन इस आकलन को दर्शाता है कि ऊंची प्रीमियम दरों के माहौल में भी नए अनुबंधों की गति बेहतर हुई। रिपोर्ट में स्वास्थ्य बीमा के परिणामों और संपूर्ण जीवन बीमा उत्पादों की अनुकूल स्थिति को विशेष रूप से उल्लेखित किया गया। नए अनुबंधों के विस्तार और उत्पाद समूहों की मजबूती के आधार पर Samsung Life पर दृष्टिकोण ऊंचा किया गया। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Target Samsung Life Naik ke 278.000 Won, Kontrak Baru Kuat Meski Tarif Dinaikkan",
-        "excerpt": "Daishin Securities pada tanggal 15 menyebut Samsung Life mencatat kemajuan kontrak baru meski tarif naik, dengan asuransi kesehatan dan jiwa seumur hidup sama-sama baik, lalu menaikkan target harga.",
-        "body": "Daishin Securities pada tanggal 15 menaikkan target harga Samsung Life Insurance dari 220.000 won menjadi 278.000 won. Alasannya, kontrak baru tetap mencatat kemajuan meski ada kenaikan tarif, sementara kinerja tidak hanya baik di asuransi kesehatan tetapi juga di asuransi jiwa seumur hidup. Revisi ini mencerminkan penilaian bahwa arus kontrak baru membaik bahkan dalam lingkungan premi yang lebih tinggi. Perusahaan sekuritas itu menyoroti hasil positif di segmen kesehatan serta tren baik pada produk jiwa seumur hidup. Berdasarkan perluasan kontrak baru dan kekuatan lini produk secara keseluruhan, pandangannya terhadap Samsung Life dinaikkan. Sumber: mk.co.kr"
       }
     }
   }
