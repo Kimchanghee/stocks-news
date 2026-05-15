@@ -1,5 +1,230 @@
 [
   {
+    "id": "5722cd3e5688",
+    "slug": "인프라부터-모델까지ai-풀스택으로-기업-혁신kiw-2026-194989",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T21:36:05.413Z",
+    "updatedAt": "2026-05-15T21:36:05.413Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159340i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159340i",
+    "titleFingerprint": "aad2970efecb891d2baee47e3a3b3550cbe7ad93",
+    "dedupKeys": [
+      "5722cd3e56887742d1b14911686d830d35a9937b",
+      "aad2970efecb891d2baee47e3a3b3550cbe7ad93",
+      "df688a8404acb313b10820c3778f0a095424a24c"
+    ],
+    "imageUrl": "/images/articles/5722cd3e5688.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 풀스택으로 기업 혁신 가속, 엘리스그룹 KIW 2026서 해법 제시",
+        "excerpt": "김재원 엘리스그룹 대표는 2026년 5월 15일 서울 신라호텔 KIW 2026에서 인프라부터 AI 모델·교육까지 묶은 풀스택 전략을 기업 문제 해결책으로 제시했다.",
+        "body": "김재원 엘리스그룹 대표는 2026년 5월 15일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 AI 풀스택 솔루션으로 기업 혁신을 지원하겠다고 밝혔다. 김 대표는 AI 에이전트 도입으로 토큰 소비량이 기하급수적으로 늘며 인프라 부족과 보안 문제가 기업의 최대 고민이 됐다고 설명했다. AI 풀스택은 하드웨어 인프라, 클라우드 소프트웨어, 실제 서비스되는 AI 모델과 교육까지 통합 제공하는 방식이다. 그는 기존 데이터센터 구축에는 3~5년이 걸리지만 엘리스의 모듈형 데이터센터는 설계부터 가동까지 4개월이면 충분하다고 말했다. 빠른 GPU 기술 주기에 맞춘 냉각 시스템과 공간 효율성도 장점으로 제시했다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "AI Full Stack for Enterprise Innovation: Elice Group’s KIW 2026 Plan",
+        "excerpt": "Elice Group CEO Kim Jaewon said at KIW 2026 in Seoul on May 15, 2026, that a full-stack AI strategy linking infrastructure, models and training can solve enterprise AI challenges.",
+        "body": "Elice Group CEO Kim Jaewon said on May 15, 2026, at Korea Investment Week (KIW) 2026 at The Shilla Seoul in Jangchung-dong that the company would support enterprise innovation with an AI full-stack solution. He said the adoption of AI agents is driving token consumption sharply higher, making infrastructure shortages and security key concerns for companies. AI full stack means an integrated offering covering hardware infrastructure, cloud software, AI models used in services and training. Kim said conventional data centers take three to five years to build, while Elice’s modular data center can move from design to operation in four months. He also cited cooling systems and space efficiency suited to fast GPU technology cycles. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "AIフルスタックで企業革新、EliceがKIW 2026で戦略提示",
+        "excerpt": "Eliceグループのキム・ジェウォン代表は2026年5月15日、ソウルのKIW 2026で、インフラからAIモデル・教育まで統合するフルスタック戦略を企業課題の解決策として示した。",
+        "body": "Eliceグループのキム・ジェウォン代表は2026年5月15日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク(KIW) 2026で、AIフルスタックソリューションにより企業革新を支援すると述べた。キム代表は、AIエージェントの導入でトークン消費量が幾何級数的に増え、インフラ不足とセキュリティが企業の最大の悩みになったと説明した。AIフルスタックは、ハードウェアインフラ、クラウドソフトウェア、実サービスに使われるAIモデル、教育までを統合提供する方式だ。既存データセンターは構築に3〜5年かかるが、Eliceのモジュール型データセンターは設計から稼働まで4カ月で十分だという。GPU技術の速い周期に合わせた冷却システムと空間効率も利点として挙げた。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "AI全栈推动企业创新，Elice Group在KIW 2026提出方案",
+        "excerpt": "Elice Group代表金在元于2026年5月15日在首尔KIW 2026表示，从基础设施到AI模型和教育的一体化全栈战略，可回应企业AI导入中的关键问题。",
+        "body": "Elice Group代表金在元于2026年5月15日在首尔奖忠洞新罗酒店举行的韩国投资周(KIW) 2026上表示，公司将以AI全栈解决方案支持企业创新。他说明，随着AI智能体的导入，token消耗量呈几何级数增长，基础设施不足和安全问题已成为企业最大顾虑。AI全栈是指把AI运行所需的硬件基础设施、管理这些设施的云软件、实际服务中的AI模型以及教育培训整合提供的方式。金代表表示，传统数据中心建设需要3至5年，而Elice的模块化数据中心从设计到运行只需4个月。他还强调，模块化方案可配合快速变化的GPU技术周期，提供优化的冷却系统和空间效率。来源: hankyung.com"
+      },
+      "es": {
+        "title": "AI full stack para innovar empresas: Elice expone su plan en KIW 2026",
+        "excerpt": "Kim Jaewon, CEO de Elice Group, dijo el 15 de mayo de 2026 en KIW 2026 en Seúl que integrar infraestructura, modelos de IA y formación puede resolver retos empresariales.",
+        "body": "Kim Jaewon, CEO de Elice Group, dijo el 15 de mayo de 2026 en Korea Investment Week (KIW) 2026, celebrada en el hotel The Shilla Seoul de Jangchung-dong, que la compañía apoyará la innovación empresarial con una solución de IA full stack. Explicó que la adopción de agentes de IA está elevando de forma exponencial el consumo de tokens, por lo que la falta de infraestructura y la seguridad se han convertido en las mayores preocupaciones de las empresas. La IA full stack integra infraestructura de hardware, software en la nube, modelos de IA usados en servicios reales y formación. Kim señaló que un centro de datos convencional tarda de tres a cinco años en construirse, mientras que el centro de datos modular de Elice puede pasar del diseño a la operación en cuatro meses. También destacó sistemas de refrigeración y eficiencia espacial adaptados al rápido ciclo tecnológico de las GPU. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "AI full stack impulsiona inovação: Elice apresenta plano no KIW 2026",
+        "excerpt": "Kim Jaewon, CEO do Elice Group, afirmou em 15 de maio de 2026 no KIW 2026, em Seul, que unir infraestrutura, modelos de IA e treinamento pode resolver desafios empresariais.",
+        "body": "Kim Jaewon, CEO do Elice Group, afirmou em 15 de maio de 2026, no Korea Investment Week (KIW) 2026, realizado no hotel The Shilla Seoul, em Jangchung-dong, que a empresa apoiará a inovação corporativa com uma solução de IA full stack. Ele disse que a adoção de agentes de IA está elevando exponencialmente o consumo de tokens, tornando a falta de infraestrutura e a segurança as maiores preocupações das empresas. IA full stack significa oferecer de forma integrada infraestrutura de hardware, software em nuvem, modelos de IA usados em serviços reais e treinamento. Kim afirmou que data centers convencionais levam de três a cinco anos para serem construídos, enquanto o data center modular da Elice pode ir do projeto à operação em quatro meses. Ele também apontou sistemas de resfriamento e eficiência de espaço adequados ao ciclo rápido das GPUs. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "AI-Full-Stack für Unternehmen: Elice stellt KIW-2026-Plan vor",
+        "excerpt": "Elice-Group-CEO Kim Jaewon sagte am 15. Mai 2026 auf der KIW 2026 in Seoul, ein integrierter Ansatz von Infrastruktur bis KI-Modell und Schulung könne zentrale Unternehmensprobleme lösen.",
+        "body": "Kim Jaewon, CEO der Elice Group, sagte am 15. Mai 2026 auf der Korea Investment Week (KIW) 2026 im Hotel The Shilla Seoul in Jangchung-dong, sein Unternehmen werde Unternehmensinnovation mit einer AI-Full-Stack-Lösung unterstützen. Durch die Einführung von KI-Agenten steige der Token-Verbrauch exponentiell, wodurch Infrastrukturknappheit und Sicherheit zu den größten Sorgen der Unternehmen geworden seien. AI Full Stack bezeichnet ein integriertes Angebot aus Hardware-Infrastruktur, Cloud-Software, tatsächlich eingesetzten KI-Modellen und Schulung. Kim sagte, klassische Rechenzentren benötigten drei bis fünf Jahre bis zur Fertigstellung, während das modulare Rechenzentrum von Elice vom Entwurf bis zum Betrieb nur vier Monate brauche. Zudem nannte er Kühlsysteme und Flächeneffizienz, die zum schnellen Technologiezyklus von GPUs passen. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "IA full stack et innovation: Elice détaille sa stratégie au KIW 2026",
+        "excerpt": "Kim Jaewon, PDG d’Elice Group, a déclaré le 15 mai 2026 au KIW 2026 à Séoul qu’une offre intégrée, de l’infrastructure aux modèles d’IA et à la formation, pouvait répondre aux défis des entreprises.",
+        "body": "Kim Jaewon, PDG d’Elice Group, a déclaré le 15 mai 2026 lors de la Korea Investment Week (KIW) 2026, organisée à l’hôtel The Shilla Seoul à Jangchung-dong, que l’entreprise soutiendrait l’innovation des sociétés avec une solution d’IA full stack. Selon lui, l’adoption des agents d’IA fait augmenter de façon exponentielle la consommation de tokens, ce qui place le manque d’infrastructures et la sécurité parmi les principales préoccupations des entreprises. L’IA full stack désigne une offre intégrée couvrant l’infrastructure matérielle, les logiciels cloud, les modèles d’IA utilisés dans les services et la formation. Kim a indiqué qu’un centre de données classique nécessite trois à cinq ans de construction, tandis que le centre de données modulaire d’Elice peut passer de la conception à l’exploitation en quatre mois. Il a aussi cité des systèmes de refroidissement et une efficacité spatiale adaptés au cycle rapide des GPU. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي كامل المكدس يدعم ابتكار الشركات في KIW 2026",
+        "excerpt": "قال كيم جاي وون، الرئيس التنفيذي لمجموعة Elice، في 15 مايو 2026 خلال KIW 2026 في سيول إن دمج البنية التحتية ونماذج الذكاء الاصطناعي والتدريب يمكن أن يعالج تحديات الشركات.",
+        "body": "قال كيم جاي وون، الرئيس التنفيذي لمجموعة Elice، في 15 مايو 2026 خلال أسبوع كوريا للاستثمار KIW 2026 في فندق شيلا سيول بمنطقة جانغتشونغ دونغ، إن الشركة ستدعم ابتكار الشركات عبر حل للذكاء الاصطناعي كامل المكدس. وأوضح أن تبني وكلاء الذكاء الاصطناعي يرفع استهلاك الرموز بشكل أسي، ما جعل نقص البنية التحتية والأمن من أكبر مخاوف الشركات. ويعني الذكاء الاصطناعي كامل المكدس تقديم منظومة موحدة تشمل بنية الأجهزة، وبرمجيات السحابة، ونماذج الذكاء الاصطناعي المستخدمة فعليا في الخدمات، والتدريب. وقال كيم إن مراكز البيانات التقليدية تحتاج إلى ثلاث إلى خمس سنوات للبناء، بينما يمكن لمركز بيانات Elice المعياري الانتقال من التصميم إلى التشغيل خلال أربعة أشهر. كما أشار إلى أنظمة تبريد وكفاءة في استخدام المساحة تناسب دورة تقنيات وحدات GPU السريعة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "AI फुल स्टैक से एंटरप्राइज नवाचार, Elice ने KIW 2026 में रखा रोडमैप",
+        "excerpt": "Elice Group के CEO किम जे-वोन ने 15 मई 2026 को सियोल में KIW 2026 में कहा कि इंफ्रास्ट्रक्चर, AI मॉडल और प्रशिक्षण को जोड़ने वाली फुल-स्टैक रणनीति कंपनियों की AI चुनौतियों का समाधान दे सकती है।",
+        "body": "Elice Group के CEO किम जे-वोन ने 15 मई 2026 को सियोल के जांगचुंग-डोंग स्थित The Shilla Seoul में आयोजित Korea Investment Week (KIW) 2026 में कहा कि कंपनी AI फुल-स्टैक समाधान के जरिए एंटरप्राइज नवाचार का समर्थन करेगी। उन्होंने बताया कि AI एजेंट अपनाने से टोकन खपत तेजी से, लगभग घातीय रूप से, बढ़ रही है और इंफ्रास्ट्रक्चर की कमी तथा सुरक्षा कंपनियों की सबसे बड़ी चिंताएं बन गई हैं। AI फुल स्टैक का अर्थ है हार्डवेयर इंफ्रास्ट्रक्चर, क्लाउड सॉफ्टवेयर, वास्तविक सेवाओं में उपयोग होने वाले AI मॉडल और प्रशिक्षण को एकीकृत रूप से उपलब्ध कराना। किम ने कहा कि पारंपरिक डेटा सेंटर बनाने में तीन से पांच साल लगते हैं, जबकि Elice का मॉड्यूलर डेटा सेंटर डिजाइन से संचालन तक चार महीने में तैयार हो सकता है। उन्होंने तेज GPU तकनीकी चक्र के अनुरूप कूलिंग सिस्टम और स्पेस एफिशिएंसी को भी प्रमुख लाभ बताया। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "AI full stack dorong inovasi perusahaan, Elice paparkan strategi di KIW 2026",
+        "excerpt": "CEO Elice Group Kim Jaewon mengatakan pada 15 Mei 2026 di KIW 2026 Seoul bahwa strategi full stack yang menggabungkan infrastruktur, model AI, dan pelatihan dapat menjawab tantangan perusahaan.",
+        "body": "CEO Elice Group Kim Jaewon mengatakan pada 15 Mei 2026 dalam Korea Investment Week (KIW) 2026 di The Shilla Seoul, Jangchung-dong, bahwa perusahaan akan mendukung inovasi korporasi dengan solusi AI full stack. Ia menjelaskan bahwa adopsi agen AI membuat konsumsi token meningkat secara eksponensial, sehingga kekurangan infrastruktur dan keamanan menjadi kekhawatiran terbesar perusahaan. AI full stack berarti penyediaan terpadu mulai dari infrastruktur perangkat keras, perangkat lunak cloud, model AI yang digunakan dalam layanan nyata, hingga pelatihan. Kim mengatakan pusat data konvensional membutuhkan tiga hingga lima tahun untuk dibangun, sedangkan pusat data modular Elice cukup empat bulan dari desain hingga beroperasi. Ia juga menyoroti sistem pendinginan dan efisiensi ruang yang sesuai dengan siklus teknologi GPU yang cepat. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "df668ea8ea6a",
+    "slug": "반도체우주-넘나드는-초정밀-모션-제어져스텍-k-부품-선봉kiw-2026-252626",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T21:34:53.447Z",
+    "updatedAt": "2026-05-15T21:34:53.447Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159289i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159289i",
+    "titleFingerprint": "4d9bca43bdfd0b8cd466a82fa9cc7d409e2d1d62",
+    "dedupKeys": [
+      "df668ea8ea6a6f8dfe011eff815172639c470591",
+      "4d9bca43bdfd0b8cd466a82fa9cc7d409e2d1d62",
+      "b9b007dece9bc441a2fb0d7d29df9e797fdec510"
+    ],
+    "imageUrl": "/images/articles/df668ea8ea6a.jpg",
+    "i18n": {
+      "ko": {
+        "title": "초정밀 모션 제어 져스텍, 반도체·우주 K-부품 선봉 주목",
+        "excerpt": "져스텍은 KIW 2026에서 반도체와 우주 분야를 아우르는 초정밀 모션 제어 역량으로 ‘K-부품’ 경쟁력을 보여주는 기업으로 소개됐다.",
+        "body": "져스텍이 KIW 2026에서 반도체와 우주 분야를 넘나드는 ‘초정밀 모션 제어’ 기업으로 조명됐다. 원문은 져스텍을 정밀한 움직임을 제어하는 기술을 바탕으로 ‘K-부품’의 선봉에 선 기업으로 소개했다. 반도체와 우주는 모두 높은 정밀도와 안정성이 요구되는 산업인 만큼, 관련 부품과 제어 기술의 중요성이 부각된다. 져스텍의 사례는 국내 부품 기업이 첨단 산업 공급망에서 존재감을 넓히는 흐름과 맞닿아 있다. 출처는 hankyung.com이다."
+      },
+      "en": {
+        "title": "Justek’s Ultra-Precision Motion Control Highlights K-Parts in Chips and Space",
+        "excerpt": "At KIW 2026, Justek was introduced as a company showing K-parts competitiveness through ultra-precision motion control spanning semiconductors and space.",
+        "body": "Justek was highlighted at KIW 2026 as an ultra-precision motion control company operating across the semiconductor and space sectors. The original report described Justek as a company at the forefront of “K-parts,” based on technology that controls precise movement. Because both semiconductors and space require high levels of precision and stability, the importance of related components and control technologies is being emphasized. Justek’s case reflects the broader presence of Korean component makers in advanced industrial supply chains. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "超精密モーション制御のジャステック、半導体・宇宙でK部品をけん引",
+        "excerpt": "ジャステックはKIW 2026で、半導体と宇宙分野を横断する超精密モーション制御力により「K部品」の競争力を示す企業として紹介された。",
+        "body": "ジャステックがKIW 2026で、半導体と宇宙分野をまたぐ「超精密モーション制御」企業として取り上げられた。原文は、精密な動きを制御する技術を基盤に、ジャステックを「K部品」の先頭に立つ企業として紹介している。半導体と宇宙はいずれも高い精度と安定性が求められる産業であり、関連部品と制御技術の重要性が浮き彫りになっている。ジャステックの事例は、韓国の部品企業が先端産業の供給網で存在感を広げる流れと重なる。出典はhankyung.com。"
+      },
+      "zh": {
+        "title": "Justek超精密运动控制受关注，领跑半导体与航天K零部件",
+        "excerpt": "Justek在KIW 2026上被介绍为凭借覆盖半导体与航天领域的超精密运动控制能力，展现“K零部件”竞争力的企业。",
+        "body": "Justek在KIW 2026上作为横跨半导体与航天领域的“超精密运动控制”企业受到关注。原文称，Justek凭借控制精密运动的技术，被介绍为站在“K零部件”前沿的企业。半导体和航天产业都要求高度精密性与稳定性，因此相关零部件和控制技术的重要性更加突出。Justek的案例也反映出韩国零部件企业正在先进产业供应链中扩大存在感。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Justek destaca en control de movimiento ultrapreciso para chips y espacio",
+        "excerpt": "En KIW 2026, Justek fue presentada como una empresa que muestra la competitividad de las K-parts con control de movimiento ultrapreciso para semiconductores y espacio.",
+        "body": "Justek fue destacada en KIW 2026 como una empresa de “control de movimiento ultrapreciso” que abarca los sectores de semiconductores y espacio. El texto original la presentó como una compañía situada a la vanguardia de las “K-parts” gracias a una tecnología que controla movimientos precisos. Como los semiconductores y el espacio exigen altos niveles de precisión y estabilidad, crece la relevancia de los componentes y las tecnologías de control relacionados. El caso de Justek se vincula con la mayor presencia de empresas coreanas de componentes en las cadenas de suministro de industrias avanzadas. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "Justek avança em controle de movimento ultrapreciso para chips e espaço",
+        "excerpt": "Na KIW 2026, a Justek foi apresentada como empresa que mostra a força das K-parts com controle de movimento ultrapreciso em semicondutores e espaço.",
+        "body": "A Justek foi destacada na KIW 2026 como uma empresa de “controle de movimento ultrapreciso” que atua entre os setores de semicondutores e espaço. O texto original apresentou a Justek como uma companhia na linha de frente das “K-parts”, com base em tecnologia que controla movimentos precisos. Como semicondutores e espaço exigem alto nível de precisão e estabilidade, cresce a importância de componentes e tecnologias de controle relacionados. O caso da Justek se conecta ao avanço da presença de fabricantes coreanos de componentes nas cadeias de suprimento de indústrias avançadas. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Justek setzt mit ultrapräziser Motion Control Akzente bei Chips und Raumfahrt",
+        "excerpt": "Auf der KIW 2026 wurde Justek als Unternehmen vorgestellt, das mit ultrapräziser Motion Control für Halbleiter und Raumfahrt die Stärke von K-Parts zeigt.",
+        "body": "Justek wurde auf der KIW 2026 als Unternehmen für „ultrapräzise Motion Control“ hervorgehoben, das die Bereiche Halbleiter und Raumfahrt verbindet. Der Originalbericht stellte Justek als Unternehmen an der Spitze der „K-Parts“ vor, gestützt auf Technologie zur Steuerung präziser Bewegungen. Da sowohl Halbleiter als auch Raumfahrt hohe Präzision und Stabilität verlangen, rückt die Bedeutung entsprechender Komponenten und Steuerungstechnologien stärker in den Vordergrund. Der Fall Justek steht für die wachsende Präsenz koreanischer Komponentenhersteller in Lieferketten fortgeschrittener Industrien. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Justek mise sur le contrôle de mouvement ultraprecis pour puces et espace",
+        "excerpt": "Lors de KIW 2026, Justek a été présentée comme une entreprise illustrant la compétitivité des K-parts grâce au contrôle de mouvement ultraprecis pour semi-conducteurs et espace.",
+        "body": "Justek a été mise en avant lors de KIW 2026 comme une entreprise de « contrôle de mouvement ultraprecis » couvrant les secteurs des semi-conducteurs et de l’espace. L’article original présente Justek comme une société à l’avant-garde des « K-parts », grâce à une technologie capable de contrôler des mouvements précis. Les semi-conducteurs comme l’espace exigeant une forte précision et une grande stabilité, l’importance des composants et technologies de contrôle associés ressort clairement. Le cas Justek s’inscrit dans la montée en visibilité des fabricants coréens de composants dans les chaînes d’approvisionnement des industries avancées. Source : hankyung.com."
+      },
+      "ar": {
+        "title": "جستك تبرز في التحكم الحركي فائق الدقة بين أشباه الموصلات والفضاء",
+        "excerpt": "في KIW 2026، قُدمت جستك كشركة تُظهر تنافسية مكونات K عبر قدرات التحكم الحركي فائق الدقة الممتدة بين أشباه الموصلات والفضاء.",
+        "body": "سُلّط الضوء على جستك في KIW 2026 بوصفها شركة تعمل في مجال «التحكم الحركي فائق الدقة» عبر قطاعي أشباه الموصلات والفضاء. وقدم النص الأصلي جستك كشركة تقف في طليعة «مكونات K» اعتمادا على تقنية تتحكم في الحركة الدقيقة. وبما أن أشباه الموصلات والفضاء يتطلبان مستويات عالية من الدقة والاستقرار، تبرز أهمية المكونات وتقنيات التحكم المرتبطة بهما. تعكس حالة جستك اتساع حضور شركات المكونات الكورية في سلاسل توريد الصناعات المتقدمة. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "Justek की अल्ट्रा-प्रिसिजन मोशन कंट्रोल तकनीक चिप और स्पेस K-पार्ट्स में आगे",
+        "excerpt": "KIW 2026 में Justek को सेमीकंडक्टर और अंतरिक्ष क्षेत्रों तक फैली अल्ट्रा-प्रिसिजन मोशन कंट्रोल क्षमता से K-पार्ट्स की प्रतिस्पर्धा दिखाने वाली कंपनी बताया गया।",
+        "body": "KIW 2026 में Justek को सेमीकंडक्टर और अंतरिक्ष क्षेत्रों को जोड़ने वाली “अल्ट्रा-प्रिसिजन मोशन कंट्रोल” कंपनी के रूप में रेखांकित किया गया। मूल रिपोर्ट ने सटीक गति को नियंत्रित करने वाली तकनीक के आधार पर Justek को “K-पार्ट्स” की अग्रिम पंक्ति में खड़ी कंपनी बताया। सेमीकंडक्टर और अंतरिक्ष, दोनों उद्योगों में उच्च सटीकता और स्थिरता की जरूरत होती है, इसलिए संबंधित पुर्जों और नियंत्रण तकनीकों का महत्व उभरता है। Justek का उदाहरण उन्नत औद्योगिक सप्लाई चेन में कोरियाई पुर्जा कंपनियों की बढ़ती उपस्थिति से जुड़ता है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "Justek Sorot Kontrol Gerak Ultra-Presisi untuk Semikonduktor dan Antariksa",
+        "excerpt": "Di KIW 2026, Justek diperkenalkan sebagai perusahaan yang menunjukkan daya saing K-parts lewat kontrol gerak ultra-presisi di semikonduktor dan antariksa.",
+        "body": "Justek disorot di KIW 2026 sebagai perusahaan “kontrol gerak ultra-presisi” yang menjangkau sektor semikonduktor dan antariksa. Naskah asli memperkenalkan Justek sebagai perusahaan di garis depan “K-parts” berkat teknologi yang mengendalikan gerakan presisi. Karena semikonduktor dan antariksa sama-sama menuntut tingkat presisi dan stabilitas tinggi, pentingnya komponen serta teknologi kontrol terkait semakin menonjol. Kasus Justek mencerminkan makin luasnya kehadiran perusahaan komponen Korea dalam rantai pasok industri maju. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
+    "id": "dce70d4c9936",
+    "slug": "3시간1초ai가-금융-중개-시장-패러다임-바꿀-것-kiw-2026-171949",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T21:34:01.585Z",
+    "updatedAt": "2026-05-15T21:34:01.585Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159376i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159376i",
+    "titleFingerprint": "19a69b7f36379eb797c4f3da74f1394992e17196",
+    "dedupKeys": [
+      "dce70d4c993602fecc655046387f599d4fbce5ca",
+      "19a69b7f36379eb797c4f3da74f1394992e17196",
+      "ecad8c8bec5286da2ba026f8ef90064fbcfc1706"
+    ],
+    "imageUrl": "/images/articles/dce70d4c9936.jpg",
+    "i18n": {
+      "ko": {
+        "title": "AI 금융중개 혁신, 해빗팩토리 “3시간 업무 1초로 단축” [KIW 2026]",
+        "excerpt": "정윤호 해빗팩토리 대표는 5월 15일 서울 신라호텔 KIW 2026에서 AI가 금융 중개 업무 시간을 3시간에서 1초로 줄이며 생산성을 바꿀 수 있다고 밝혔다.",
+        "body": "정윤호 해빗팩토리 대표는 2026년 5월 15일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026 넷째 날 행사에서 AI가 금융 중개 시장의 구조를 바꿀 것이라고 말했다. 해빗팩토리는 마이데이터와 30만 건의 보험 약관 데이터를 학습한 AI를 활용하는 핀테크 기업이다. 회사는 이 기술로 상담사 생산성을 10배 높이고, 기존에 3시간 걸리던 업무를 1초 수준으로 줄이는 효과를 제시했다. 국내 보험 시장을 넘어 미국 모기지 시장 진출도 추진하고 있다. hankyung.com에 따르면 정 대표는 오프라인 중심의 기존 금융 중개 비즈니스를 AI로 더 효율적인 구조로 만들고 있다고 설명했다."
+      },
+      "en": {
+        "title": "AI Financial Intermediation Shift: Habit Factory Says 3 Hours Can Become 1 Second at KIW 2026",
+        "excerpt": "Habit Factory CEO Jung Yun-ho said at KIW 2026 in Seoul on May 15 that AI could cut financial intermediation work from three hours to one second and reshape productivity.",
+        "body": "Habit Factory CEO Jung Yun-ho said on May 15, 2026, during the fourth day of Korea Investment Week 2026 at The Shilla Seoul in Jangchung-dong, that AI could change the structure of the financial intermediation market. Habit Factory is an AI fintech company using systems trained on MyData and 300,000 insurance policy terms. The company presented AI as a way to raise adviser productivity tenfold and reduce work that once took three hours to about one second. It is also moving beyond Korea’s insurance market and targeting the U.S. mortgage market. According to hankyung.com, Jung said the company is using AI to make offline-centered legacy financial brokerage more efficient."
+      },
+      "ja": {
+        "title": "AI金融仲介の転換点、ハビットファクトリー「3時間を1秒に」KIW 2026",
+        "excerpt": "ハビットファクトリーのチョン・ユンホ代表は5月15日、ソウルのKIW 2026で、AIが金融仲介業務を3時間から1秒へ短縮し生産性を変えると述べた。",
+        "body": "ハビットファクトリーのチョン・ユンホ代表は2026年5月15日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026の4日目に、AIが金融仲介市場の構造を変えると説明した。同社はマイデータと30万件の保険約款データを学習したAIを活用するフィンテック企業だ。この技術により相談員の生産性を10倍に高め、従来3時間かかった業務を1秒水準に短縮する効果を示した。韓国の保険市場を越え、米国の住宅ローン市場への進出も進めている。hankyung.comによると、チョン代表はオフライン中心だった既存の金融仲介ビジネスをAIでより効率的な構造にしていると述べた。"
+      },
+      "zh": {
+        "title": "AI金融中介变革：Habit Factory称3小时业务可缩至1秒｜KIW 2026",
+        "excerpt": "Habit Factory代表郑允浩5月15日在首尔KIW 2026表示，AI可将金融中介业务从3小时缩短至1秒，并改变顾问生产率。",
+        "body": "Habit Factory代表郑允浩于2026年5月15日在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026第四天活动上表示，AI将改变金融中介市场结构。Habit Factory是一家AI金融科技企业，使用学习了MyData和30万份保险条款数据的AI。公司称，该技术可将顾问生产率提高10倍，并把过去需要3小时的业务压缩到约1秒。除韩国保险市场外，公司也在推进进入美国抵押贷款市场。据hankyung.com报道，郑代表说明，公司正用AI把以线下为中心的传统金融中介业务改造成更高效的结构。"
+      },
+      "es": {
+        "title": "IA en intermediación financiera: Habit Factory dice que 3 horas pueden ser 1 segundo en KIW 2026",
+        "excerpt": "Jung Yun-ho, CEO de Habit Factory, dijo el 15 de mayo en KIW 2026 en Seúl que la IA puede reducir tareas financieras de tres horas a un segundo y elevar la productividad.",
+        "body": "Jung Yun-ho, CEO de Habit Factory, dijo el 15 de mayo de 2026, en el cuarto día de Korea Investment Week 2026 celebrado en The Shilla Seoul, que la IA puede cambiar la estructura del mercado de intermediación financiera. Habit Factory es una fintech de IA que utiliza modelos entrenados con MyData y 300.000 cláusulas de pólizas de seguros. La empresa presentó esta tecnología como una forma de multiplicar por diez la productividad de los asesores y reducir a cerca de un segundo tareas que antes tomaban tres horas. También busca avanzar más allá del mercado asegurador coreano hacia el mercado hipotecario de EE. UU. Según hankyung.com, Jung explicó que la compañía está usando IA para hacer más eficiente el negocio tradicional de intermediación financiera centrado en canales offline."
+      },
+      "pt": {
+        "title": "IA na intermediação financeira: Habit Factory vê 3 horas virarem 1 segundo no KIW 2026",
+        "excerpt": "Jung Yun-ho, CEO da Habit Factory, afirmou em 15 de maio no KIW 2026, em Seul, que a IA pode reduzir tarefas financeiras de três horas para um segundo e mudar a produtividade.",
+        "body": "Jung Yun-ho, CEO da Habit Factory, disse em 15 de maio de 2026, no quarto dia do Korea Investment Week 2026 no The Shilla Seoul, que a IA pode mudar a estrutura do mercado de intermediação financeira. A Habit Factory é uma fintech de IA que usa sistemas treinados com MyData e 300 mil termos de apólices de seguro. A empresa apresentou a tecnologia como meio de elevar em dez vezes a produtividade dos consultores e reduzir para cerca de um segundo tarefas que antes levavam três horas. Também busca ir além do mercado coreano de seguros e entrar no mercado de hipotecas dos EUA. Segundo o hankyung.com, Jung explicou que a empresa usa IA para tornar mais eficiente o negócio tradicional de intermediação financeira centrado no offline."
+      },
+      "de": {
+        "title": "KIW 2026: Habit Factory sieht KI als Wendepunkt für Finanzvermittlung von 3 Stunden auf 1 Sekunde",
+        "excerpt": "Habit-Factory-CEO Jung Yun-ho sagte am 15. Mai bei der KIW 2026 in Seoul, KI könne Finanzvermittlungsarbeit von drei Stunden auf eine Sekunde verkürzen.",
+        "body": "Jung Yun-ho, CEO von Habit Factory, sagte am 15. Mai 2026 am vierten Tag der Korea Investment Week 2026 im The Shilla Seoul, dass KI die Struktur des Finanzvermittlungsmarkts verändern könne. Habit Factory ist ein KI-Fintech, das Systeme nutzt, die mit MyData und 300.000 Versicherungsbedingungen trainiert wurden. Das Unternehmen stellte die Technologie als Weg dar, die Produktivität von Beratern um das Zehnfache zu erhöhen und Arbeit, die früher drei Stunden dauerte, auf etwa eine Sekunde zu verkürzen. Zudem zielt es über den koreanischen Versicherungsmarkt hinaus auf den US-Hypothekenmarkt. Laut hankyung.com erklärte Jung, das Unternehmen mache das bisher offline geprägte Finanzvermittlungsgeschäft mit KI effizienter."
+      },
+      "fr": {
+        "title": "IA et intermédiation financière : Habit Factory évoque 3 heures réduites à 1 seconde au KIW 2026",
+        "excerpt": "Jung Yun-ho, PDG de Habit Factory, a déclaré le 15 mai au KIW 2026 à Séoul que l’IA pouvait réduire des tâches financières de trois heures à une seconde.",
+        "body": "Jung Yun-ho, PDG de Habit Factory, a déclaré le 15 mai 2026, lors du quatrième jour de Korea Investment Week 2026 au Shilla Seoul, que l’IA pouvait changer la structure du marché de l’intermédiation financière. Habit Factory est une fintech d’IA qui utilise des systèmes entraînés sur MyData et 300 000 clauses de contrats d’assurance. L’entreprise a présenté cette technologie comme un moyen de multiplier par dix la productivité des conseillers et de ramener à environ une seconde des tâches qui prenaient auparavant trois heures. Elle vise aussi le marché américain du crédit immobilier au-delà de l’assurance coréenne. Selon hankyung.com, Jung a expliqué que l’entreprise utilise l’IA pour rendre plus efficace l’activité traditionnelle d’intermédiation financière centrée sur l’offline."
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي يغير الوساطة المالية: هابيت فاكتوري تتحدث عن تحويل 3 ساعات إلى ثانية في KIW 2026",
+        "excerpt": "قال جونغ يون-هو، رئيس هابيت فاكتوري، في 15 مايو خلال KIW 2026 في سيول إن الذكاء الاصطناعي يمكن أن يخفض عمل الوساطة المالية من ثلاث ساعات إلى ثانية واحدة.",
+        "body": "قال جونغ يون-هو، الرئيس التنفيذي لشركة هابيت فاكتوري، في 15 مايو 2026 خلال اليوم الرابع من أسبوع كوريا للاستثمار KIW 2026 في فندق شيلا سيول، إن الذكاء الاصطناعي يمكن أن يغير هيكل سوق الوساطة المالية. هابيت فاكتوري شركة تقنية مالية تعتمد على الذكاء الاصطناعي وتستخدم أنظمة دُربت على بيانات MyData و300 ألف بند من شروط وثائق التأمين. وطرحت الشركة التقنية كوسيلة لرفع إنتاجية المستشارين عشرة أضعاف وتقليص عمل كان يستغرق ثلاث ساعات إلى نحو ثانية واحدة. كما تسعى إلى التوسع من سوق التأمين الكورية إلى سوق الرهن العقاري الأميركية. وبحسب hankyung.com، أوضح جونغ أن الشركة تستخدم الذكاء الاصطناعي لجعل أعمال الوساطة المالية التقليدية المعتمدة على القنوات غير المتصلة أكثر كفاءة."
+      },
+      "hi": {
+        "title": "AI वित्तीय मध्यस्थता में बदलाव: Habit Factory ने KIW 2026 में 3 घंटे को 1 सेकंड बताया",
+        "excerpt": "Habit Factory के CEO जंग यून-हो ने 15 मई को सियोल में KIW 2026 में कहा कि AI वित्तीय मध्यस्थता के काम को तीन घंटे से एक सेकंड तक घटा सकता है।",
+        "body": "Habit Factory के CEO जंग यून-हो ने 15 मई 2026 को सियोल के शिला होटल में Korea Investment Week 2026 के चौथे दिन कहा कि AI वित्तीय मध्यस्थता बाजार की संरचना बदल सकता है। Habit Factory एक AI फिनटेक कंपनी है, जो MyData और बीमा पॉलिसियों की 300,000 शर्तों पर प्रशिक्षित AI का उपयोग करती है। कंपनी ने बताया कि यह तकनीक सलाहकारों की उत्पादकता 10 गुना बढ़ा सकती है और पहले तीन घंटे लगने वाले काम को लगभग एक सेकंड तक घटा सकती है। कंपनी कोरिया के बीमा बाजार से आगे अमेरिकी मॉर्गेज बाजार में भी प्रवेश कर रही है। hankyung.com के अनुसार, जंग ने कहा कि कंपनी AI से ऑफलाइन केंद्रित पारंपरिक वित्तीय मध्यस्थता कारोबार को अधिक कुशल बना रही है।"
+      },
+      "id": {
+        "title": "AI Ubah Intermediasi Keuangan: Habit Factory Sebut 3 Jam Jadi 1 Detik di KIW 2026",
+        "excerpt": "CEO Habit Factory Jung Yun-ho mengatakan pada 15 Mei di KIW 2026 Seoul bahwa AI dapat memangkas kerja intermediasi keuangan dari tiga jam menjadi satu detik.",
+        "body": "CEO Habit Factory Jung Yun-ho mengatakan pada 15 Mei 2026, dalam hari keempat Korea Investment Week 2026 di The Shilla Seoul, bahwa AI dapat mengubah struktur pasar intermediasi keuangan. Habit Factory adalah perusahaan fintech AI yang menggunakan sistem yang dilatih dengan MyData dan 300.000 data ketentuan polis asuransi. Perusahaan memaparkan teknologi ini sebagai cara untuk meningkatkan produktivitas konsultan 10 kali lipat dan memangkas pekerjaan yang sebelumnya memakan tiga jam menjadi sekitar satu detik. Perusahaan juga bergerak melampaui pasar asuransi Korea menuju pasar hipotek AS. Menurut hankyung.com, Jung menjelaskan bahwa perusahaan memakai AI untuk membuat bisnis intermediasi keuangan lama yang berpusat pada offline menjadi lebih efisien."
+      }
+    }
+  },
+  {
     "id": "dab227dff05e",
     "slug": "전쟁-때만큼-치솟은-코스피-변동성급등한만큼-조정도-크게-온다-890691",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Anjlok 6,1% Usai Tembus 8.000, Ditutup di 7.493",
         "excerpt": "KOSPI menembus level 8.000 pada awal perdagangan 15 Mei, mencapai level yang disebut impian 8.000, tetapi kemudian berbalik tajam dan ditutup turun 488,23 poin atau 6,12% di 7.493.",
         "body": "KOSPI sempat bergerak di atas level 8.000 pada awal perdagangan 15 Mei, menyentuh level yang disebut sebagai “impian 8.000”, tetapi kemudian berbalik tajam dan mengakhiri perdagangan di kisaran 7.400. Indeks ditutup di 7.493, turun 488,23 poin atau 6,12% dibanding sesi sebelumnya. Penurunan tajam setelah penembusan simbolis 8.000 menyoroti besarnya volatilitas pasar. Setelah melepas kenaikan awal, indeks akhirnya ditutup di bawah 7.500, sehingga meningkatkan kewaspadaan investor. Perubahan arah yang cepat ini dapat memengaruhi pergerakan indeks jangka pendek dan sentimen pasar. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "adde99ea3334",
-    "slug": "가온전선-올-1분기-영업익-278억원-역대-최고美-aidc-수요-확대-수혜-995690",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T06:07:18.689Z",
-    "updatedAt": "2026-05-15T06:07:18.689Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/business/12049076",
-    "canonicalUrl": "https://www.mk.co.kr/news/business/12049076",
-    "titleFingerprint": "0e70d59458f6f185b0e4cd8d4f680d778fe0864b",
-    "dedupKeys": [
-      "adde99ea3334e7bdc822ddea2cfed245c0f213a9",
-      "0e70d59458f6f185b0e4cd8d4f680d778fe0864b",
-      "9f6c89a4416ef97ca095f9fc4a60bc4f004b4d0e"
-    ],
-    "imageUrl": "/images/articles/adde99ea3334.jpg",
-    "i18n": {
-      "ko": {
-        "title": "가온전선 1분기 영업익 278억원 역대 최고, 미국 AI 데이터센터 수요 수혜",
-        "excerpt": "가온전선이 올해 1분기 미국 AI 데이터센터 확대에 따른 수출 증가와 미국 생산법인 성장세로 영업이익 278억원의 역대 최고 실적을 기록했다.",
-        "body": "가온전선이 올해 1분기 영업이익 278억원을 기록하며 역대 최고 실적을 냈다. 미국 인공지능(AI) 데이터센터 확대에 따른 수출 증가와 미국 생산법인의 본격적인 성장세가 실적 개선을 이끈 배경으로 꼽힌다. 특히 미국 빅테크 기업을 대상으로 한 버스덕트 공급 확대가 수혜 요인으로 제시됐다. AI 데이터센터 투자가 늘면서 관련 전력 인프라 수요가 커졌고, 가온전선은 이 흐름 속에서 수출 확대 효과를 본 것으로 전해졌다. 회사의 1분기 실적은 미국 시장에서의 공급 확대와 현지 생산 기반 성장세가 맞물린 결과다. 출처: mk.co.kr."
-      },
-      "en": {
-        "title": "Gaon Cable Posts Record Q1 Operating Profit on U.S. AI Data Center Demand",
-        "excerpt": "Gaon Cable recorded a record first-quarter operating profit of 27.8 billion won, helped by rising exports tied to U.S. AI data center growth and momentum at its U.S. production unit.",
-        "body": "Gaon Cable posted an operating profit of 27.8 billion won in the first quarter of this year, marking its highest quarterly performance on record. The improvement was driven by increased exports linked to the expansion of artificial intelligence data centers in the United States and the full-scale growth of its U.S. production subsidiary. A key factor cited was expanded bus duct supply to major U.S. big tech companies. As investment in AI data centers increased, demand for related power infrastructure also grew, allowing Gaon Cable to benefit from stronger exports. The first-quarter result reflects both broader supply in the U.S. market and growth in local production capacity. Source: mk.co.kr."
-      },
-      "ja": {
-        "title": "ガオン電線、第1四半期営業益278億ウォンで過去最高 米AIデータセンター需要が追い風",
-        "excerpt": "ガオン電線は今年第1四半期、米国AIデータセンター拡大に伴う輸出増加と米国生産法人の成長を背景に、営業利益278億ウォンの過去最高実績を記録した。",
-        "body": "ガオン電線は今年第1四半期に営業利益278億ウォンを記録し、過去最高の実績を達成した。米国での人工知能（AI）データセンター拡大に伴う輸出増加と、米国生産法人の本格的な成長が業績改善を支えた背景とされる。特に、米国の大手テック企業向けバスダクト供給の拡大が追い風として挙げられた。AIデータセンターへの投資が増えるなか、関連する電力インフラ需要も拡大し、ガオン電線はこの流れの中で輸出拡大の効果を得たと伝えられている。第1四半期の実績は、米国市場での供給拡大と現地生産基盤の成長が重なった結果だ。出典: mk.co.kr."
-      },
-      "zh": {
-        "title": "Gaon Cable一季度营业利润278亿韩元创新高，受益美国AI数据中心需求",
-        "excerpt": "Gaon Cable今年一季度受美国AI数据中心扩张带动出口增加及美国生产法人增长推动，营业利润达278亿韩元，创下历史最高业绩。",
-        "body": "Gaon Cable今年第一季度实现营业利润278亿韩元，创下历史最高业绩。业绩改善的背景在于美国人工智能（AI）数据中心扩张带来的出口增加，以及美国生产法人的正式增长势头。尤其是面向美国大型科技企业的母线槽供应扩大，被视为主要受益因素。随着AI数据中心投资增加，相关电力基础设施需求也随之扩大，Gaon Cable在这一趋势中获得了出口增长效果。据报道，公司第一季度业绩是美国市场供应扩大与当地生产基础成长共同作用的结果。来源: mk.co.kr."
-      },
-      "es": {
-        "title": "Gaon Cable logra beneficio operativo récord en el primer trimestre por demanda de centros de datos de IA en EE. UU.",
-        "excerpt": "Gaon Cable registró en el primer trimestre un beneficio operativo récord de 27.800 millones de wones, impulsado por mayores exportaciones ligadas a centros de datos de IA en EE. UU. y su filial local.",
-        "body": "Gaon Cable registró en el primer trimestre de este año un beneficio operativo de 27.800 millones de wones, su mejor resultado histórico. La mejora se atribuye al aumento de las exportaciones derivado de la expansión de los centros de datos de inteligencia artificial en Estados Unidos y al crecimiento pleno de su filial de producción estadounidense. En particular, se señaló como factor favorable la ampliación del suministro de bus duct a grandes tecnológicas de Estados Unidos. A medida que aumentó la inversión en centros de datos de IA, también creció la demanda de infraestructura eléctrica relacionada, lo que permitió a Gaon Cable beneficiarse de mayores exportaciones. El resultado trimestral refleja la combinación de más suministro en el mercado estadounidense y crecimiento de la base productiva local. Fuente: mk.co.kr."
-      },
-      "pt": {
-        "title": "Gaon Cable tem lucro operacional recorde no 1º trimestre com demanda de data centers de IA nos EUA",
-        "excerpt": "A Gaon Cable registrou lucro operacional recorde de 27,8 bilhões de won no 1º trimestre, apoiada por exportações ligadas à expansão de data centers de IA nos EUA e pela filial local.",
-        "body": "A Gaon Cable registrou no primeiro trimestre deste ano lucro operacional de 27,8 bilhões de won, alcançando o melhor desempenho de sua história. A melhora foi impulsionada pelo aumento das exportações relacionado à expansão de data centers de inteligência artificial nos Estados Unidos e pelo crescimento mais forte de sua subsidiária de produção no país. Um fator citado foi a ampliação do fornecimento de bus duct para grandes empresas de tecnologia dos EUA. Com o aumento dos investimentos em data centers de IA, cresceu também a demanda por infraestrutura elétrica associada, beneficiando as exportações da Gaon Cable. O resultado do trimestre reflete a expansão do fornecimento no mercado americano e o avanço da base produtiva local. Fonte: mk.co.kr."
-      },
-      "de": {
-        "title": "Gaon Cable erzielt Rekord-Betriebsgewinn im ersten Quartal dank US-Nachfrage nach KI-Rechenzentren",
-        "excerpt": "Gaon Cable erzielte im ersten Quartal mit 27,8 Milliarden Won einen Rekord-Betriebsgewinn, gestützt durch höhere Exporte für US-KI-Rechenzentren und Wachstum der US-Produktion.",
-        "body": "Gaon Cable erzielte im ersten Quartal dieses Jahres einen Betriebsgewinn von 27,8 Milliarden Won und damit das beste Ergebnis seiner Geschichte. Als Gründe gelten steigende Exporte im Zuge des Ausbaus von Rechenzentren für künstliche Intelligenz in den USA sowie das deutliche Wachstum der US-Produktionsgesellschaft. Besonders die Ausweitung der Lieferung von Busduct-Systemen an große US-Technologieunternehmen wurde als begünstigender Faktor genannt. Mit zunehmenden Investitionen in KI-Rechenzentren wuchs auch die Nachfrage nach entsprechender Strominfrastruktur, wovon Gaon Cable über höhere Exporte profitierte. Das Quartalsergebnis spiegelt die erweiterte Belieferung des US-Marktes und das Wachstum der lokalen Produktionsbasis wider. Quelle: mk.co.kr."
-      },
-      "fr": {
-        "title": "Gaon Cable signe un bénéfice opérationnel record au T1 grâce à la demande américaine en centres de données IA",
-        "excerpt": "Gaon Cable a dégagé au premier trimestre un bénéfice opérationnel record de 27,8 milliards de wons, porté par les exportations liées aux centres de données IA aux États-Unis et sa filiale locale.",
-        "body": "Gaon Cable a enregistré au premier trimestre de cette année un bénéfice opérationnel de 27,8 milliards de wons, son plus haut niveau historique. Cette amélioration s’explique par la hausse des exportations liée à l’expansion des centres de données d’intelligence artificielle aux États-Unis et par la croissance effective de sa filiale de production américaine. L’élargissement de la fourniture de bus ducts à de grands groupes technologiques américains a notamment été présenté comme un facteur favorable. Avec l’augmentation des investissements dans les centres de données IA, la demande d’infrastructures électriques associées a progressé, permettant à Gaon Cable de bénéficier d’un effet d’exportation accru. Le résultat du trimestre reflète à la fois l’expansion de l’offre sur le marché américain et la croissance de la base de production locale. Source: mk.co.kr."
-      },
-      "ar": {
-        "title": "غاون كابل تسجل أرباحا تشغيلية قياسية في الربع الأول بدعم طلب مراكز بيانات الذكاء الاصطناعي الأميركية",
-        "excerpt": "سجلت غاون كابل في الربع الأول أرباحا تشغيلية قياسية بلغت 27.8 مليار وون، مدعومة بزيادة الصادرات المرتبطة بتوسع مراكز بيانات الذكاء الاصطناعي في الولايات المتحدة ونمو وحدتها الإنتاجية هناك.",
-        "body": "سجلت غاون كابل في الربع الأول من هذا العام أرباحا تشغيلية بلغت 27.8 مليار وون، محققة أعلى أداء في تاريخها. وجاء تحسن النتائج بفضل زيادة الصادرات الناتجة عن توسع مراكز بيانات الذكاء الاصطناعي في الولايات المتحدة، إلى جانب النمو الفعلي لشركتها الإنتاجية الأميركية. وذُكر أن توسيع توريد أنظمة bus duct إلى شركات التكنولوجيا الأميركية الكبرى كان من عوامل الاستفادة الرئيسية. ومع زيادة الاستثمار في مراكز بيانات الذكاء الاصطناعي، ارتفع الطلب على بنية الطاقة المرتبطة بها، ما أتاح لغاون كابل الاستفادة من نمو الصادرات. وتعكس نتائج الربع الأول توسع الإمدادات في السوق الأميركية ونمو قاعدة الإنتاج المحلية. المصدر: mk.co.kr."
-      },
-      "hi": {
-        "title": "Gaon Cable का पहली तिमाही परिचालन लाभ 27.8 अरब वॉन के रिकॉर्ड स्तर पर, अमेरिकी AI डेटा सेंटर मांग से लाभ",
-        "excerpt": "Gaon Cable ने इस वर्ष पहली तिमाही में 27.8 अरब वॉन का रिकॉर्ड परिचालन लाभ दर्ज किया, जिसे अमेरिकी AI डेटा सेंटर विस्तार से निर्यात वृद्धि और अमेरिकी उत्पादन इकाई की तेजी ने सहारा दिया।",
-        "body": "Gaon Cable ने इस वर्ष पहली तिमाही में 27.8 अरब वॉन का परिचालन लाभ दर्ज किया, जो उसका अब तक का सर्वोच्च प्रदर्शन है। कंपनी के प्रदर्शन में सुधार का कारण अमेरिका में कृत्रिम बुद्धिमत्ता डेटा सेंटरों के विस्तार से निर्यात में वृद्धि और अमेरिकी उत्पादन इकाई की पूर्ण स्तर पर बढ़त को माना गया। विशेष रूप से अमेरिकी बड़ी टेक कंपनियों को bus duct आपूर्ति के विस्तार को लाभकारी कारक बताया गया। AI डेटा सेंटरों में निवेश बढ़ने के साथ संबंधित बिजली अवसंरचना की मांग भी बढ़ी, जिससे Gaon Cable को निर्यात विस्तार का लाभ मिला। पहली तिमाही का परिणाम अमेरिकी बाजार में आपूर्ति विस्तार और स्थानीय उत्पादन आधार की वृद्धि का संयुक्त प्रभाव दर्शाता है। स्रोत: mk.co.kr."
-      },
-      "id": {
-        "title": "Gaon Cable Cetak Laba Operasi Rekor Kuartal I Berkat Permintaan Pusat Data AI AS",
-        "excerpt": "Gaon Cable mencatat laba operasi kuartal I sebesar 27,8 miliar won, rekor tertinggi, didorong kenaikan ekspor dari perluasan pusat data AI di AS dan pertumbuhan unit produksi setempat.",
-        "body": "Gaon Cable mencatat laba operasi 27,8 miliar won pada kuartal pertama tahun ini, menjadi kinerja tertinggi sepanjang sejarah perusahaan. Peningkatan tersebut didorong oleh kenaikan ekspor seiring perluasan pusat data kecerdasan buatan di Amerika Serikat serta pertumbuhan penuh anak usaha produksi di AS. Secara khusus, perluasan pasokan bus duct kepada perusahaan teknologi besar AS disebut sebagai faktor yang memberi manfaat. Ketika investasi pusat data AI meningkat, permintaan atas infrastruktur kelistrikan terkait juga bertambah, sehingga Gaon Cable memperoleh efek dari ekspansi ekspor. Kinerja kuartal pertama mencerminkan perluasan pasokan di pasar AS dan pertumbuhan basis produksi lokal. Sumber: mk.co.kr."
-      }
-    }
-  },
-  {
-    "id": "08d24594fe2b",
-    "slug": "글로벌-코인거래소-okx-한국투자증권과-코인원-지분-공동-인수-韓-시장-본격-상륙-442585",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T06:06:18.403Z",
-    "updatedAt": "2026-05-15T06:06:18.403Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049087",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049087",
-    "titleFingerprint": "275c23584c20e0cff9e17e778305bccab07bb21f",
-    "dedupKeys": [
-      "08d24594fe2b5538faf92b96ad52389fba8d5769",
-      "275c23584c20e0cff9e17e778305bccab07bb21f",
-      "2191c50c52ff792a85c8aee4b84fd65c424f4721"
-    ],
-    "imageUrl": "/images/articles/08d24594fe2b.png",
-    "i18n": {
-      "ko": {
-        "title": "OKX, 한국투자증권과 코인원 지분 인수…한국 시장 진입 본격화",
-        "excerpt": "글로벌 가상자산 거래소 OKX가 한국투자증권과 함께 코인원 지분을 각각 약 20% 인수하며 국내 시장 진입을 본격화한다는 소식이 전해졌다.",
-        "body": "글로벌 대형 가상자산 거래소 OKX가 한국투자증권과 함께 국내 가상자산 거래소 코인원 지분을 공동 인수하며 한국 시장 진입에 나선다. 매각은 차명훈 코인원 대표가 보유한 구주와 신주 발행을 통해 진행되는 것으로 알려졌다. OKX와 한국투자증권은 각각 약 20%의 지분을 인수할 예정이며, 이번 거래에서 코인원의 기업가치는 최소 1400억원 이상으로 기대된다는 내용이 전해졌다. 이번 지분 인수는 글로벌 거래소와 국내 금융투자사의 공동 참여라는 점에서 코인원 지배구조와 국내 가상자산 시장 구도에 영향을 줄 수 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "OKX to Buy Coinone Stake With Korea Investment, Deepening Korea Push",
-        "excerpt": "Global crypto exchange OKX is set to acquire about a 20% stake in Coinone alongside Korea Investment & Securities, marking a fuller entry into South Korea’s market.",
-        "body": "Global major cryptocurrency exchange OKX is moving into South Korea by jointly acquiring a stake in local crypto exchange Coinone with Korea Investment & Securities. The sale is reported to proceed through existing shares held by Coinone CEO Cha Myung-hoon and the issuance of new shares. OKX and Korea Investment & Securities are each expected to acquire about 20% of Coinone. The deal is said to value Coinone at at least 140 billion won. The stake purchase could affect Coinone’s ownership structure and the competitive landscape of South Korea’s virtual asset market, as it brings together a global exchange and a domestic financial investment firm. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "OKX、韓国投資証券とCoinone株取得へ…韓国市場進出を本格化",
-        "excerpt": "大手暗号資産取引所OKXが韓国投資証券とともにCoinone株をそれぞれ約20％取得し、韓国市場への本格参入を進めると報じられた。",
-        "body": "世界的な大手暗号資産取引所OKXが、韓国投資証券とともに韓国の暗号資産取引所Coinoneの株式を共同取得し、韓国市場への参入に乗り出す。売却はCoinoneの車明勲代表が保有する既存株と新株発行を通じて進められると伝えられている。OKXと韓国投資証券はそれぞれ約20％の株式を取得する予定で、今回の取引でCoinoneの企業価値は少なくとも1400億ウォン以上と期待されるという。グローバル取引所と韓国の金融投資会社が共同で参加する点で、Coinoneの支配構造や韓国の暗号資産市場の構図に影響を与える可能性がある。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "OKX联手韩国投资证券收购Coinone股权，加速进入韩国市场",
-        "excerpt": "全球加密货币交易所OKX将与韩国投资证券共同收购Coinone各约20%股权，借此正式加快进入韩国虚拟资产市场。",
-        "body": "全球大型加密货币交易所OKX正与韩国投资证券共同收购韩国本土虚拟资产交易所Coinone股权，推进进入韩国市场。据悉，本次出售将通过Coinone代表车明勋所持旧股以及发行新股的方式进行。OKX和韩国投资证券预计将分别收购约20%的股权。消息称，在此次交易中，Coinone的企业价值有望至少达到1400亿韩元以上。此次股权收购由全球交易所与韩国本土金融投资公司共同参与，可能对Coinone的治理结构以及韩国虚拟资产市场格局产生影响。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "OKX comprará una participación en Coinone con Korea Investment y entra en Corea",
-        "excerpt": "El exchange global de criptoactivos OKX adquirirá cerca del 20% de Coinone junto con Korea Investment & Securities, reforzando su entrada en Corea del Sur.",
-        "body": "El gran exchange global de criptoactivos OKX avanza hacia el mercado surcoreano mediante la adquisición conjunta de una participación en Coinone con Korea Investment & Securities. Según la información, la venta se realizará mediante acciones existentes en manos del director ejecutivo de Coinone, Cha Myung-hoon, y la emisión de nuevas acciones. OKX y Korea Investment & Securities prevén adquirir cada uno alrededor del 20% de Coinone. En esta operación, se espera que la valoración de Coinone sea de al menos 140.000 millones de wones. La compra puede influir en la estructura accionarial de Coinone y en el mapa competitivo del mercado surcoreano de activos virtuales. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "OKX comprará fatia da Coinone com Korea Investment e mira mercado coreano",
-        "excerpt": "A exchange global OKX deve adquirir cerca de 20% da Coinone ao lado da Korea Investment & Securities, marcando avanço mais firme no mercado da Coreia do Sul.",
-        "body": "A grande exchange global de criptoativos OKX está avançando para o mercado sul-coreano ao adquirir, em conjunto com a Korea Investment & Securities, uma participação na exchange local Coinone. A venda deve ocorrer por meio de ações existentes detidas pelo CEO da Coinone, Cha Myung-hoon, e pela emissão de novas ações. OKX e Korea Investment & Securities devem comprar cerca de 20% cada uma. A operação deve avaliar a Coinone em pelo menos 140 bilhões de won. A entrada conjunta de uma exchange global e de uma empresa financeira de investimento local pode afetar a estrutura de controle da Coinone e o cenário do mercado de ativos virtuais na Coreia do Sul. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "OKX kauft mit Korea Investment Anteil an Coinone und drängt nach Südkorea",
-        "excerpt": "Die globale Kryptobörse OKX will gemeinsam mit Korea Investment & Securities jeweils rund 20% an Coinone übernehmen und damit den südkoreanischen Markt angehen.",
-        "body": "Die große globale Kryptobörse OKX bereitet den Eintritt in den südkoreanischen Markt vor, indem sie gemeinsam mit Korea Investment & Securities einen Anteil an der lokalen Kryptobörse Coinone übernimmt. Der Verkauf soll über Altaktien von Coinone-CEO Cha Myung-hoon sowie über die Ausgabe neuer Aktien erfolgen. OKX und Korea Investment & Securities sollen jeweils rund 20% erwerben. Bei der Transaktion wird für Coinone ein Unternehmenswert von mindestens 140 Milliarden Won erwartet. Da eine globale Börse und ein inländisches Finanzinvestmenthaus gemeinsam einsteigen, könnte der Deal die Eigentümerstruktur von Coinone und die Marktordnung für virtuelle Vermögenswerte in Südkorea beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "OKX va acheter une part de Coinone avec Korea Investment et vise la Corée",
-        "excerpt": "La plateforme crypto mondiale OKX doit acquérir environ 20% de Coinone aux côtés de Korea Investment & Securities, signalant son entrée renforcée en Corée du Sud.",
-        "body": "La grande plateforme mondiale d’actifs numériques OKX s’apprête à entrer sur le marché sud-coréen en acquérant conjointement une participation dans Coinone avec Korea Investment & Securities. L’opération passerait par la vente d’actions existantes détenues par le PDG de Coinone, Cha Myung-hoon, ainsi que par l’émission de nouvelles actions. OKX et Korea Investment & Securities devraient acquérir chacune environ 20% du capital. La transaction valoriserait Coinone à au moins 140 milliards de wons. Cette acquisition, menée par une plateforme mondiale et une société financière d’investissement locale, pourrait influencer la structure de contrôle de Coinone et l’équilibre du marché sud-coréen des actifs virtuels. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "OKX تستحوذ مع Korea Investment على حصة في Coinone وتدخل سوق كوريا",
-        "excerpt": "تعتزم منصة تداول الأصول المشفرة العالمية OKX شراء نحو 20% من Coinone إلى جانب Korea Investment & Securities، في خطوة تعزز دخولها إلى سوق كوريا الجنوبية.",
-        "body": "تتجه منصة تداول الأصول المشفرة العالمية الكبرى OKX إلى دخول سوق كوريا الجنوبية عبر الاستحواذ المشترك على حصة في منصة Coinone المحلية مع Korea Investment & Securities. وذكرت المعلومات أن البيع سيتم من خلال أسهم قديمة يملكها الرئيس التنفيذي لـCoinone تشا ميونغ هون، إضافة إلى إصدار أسهم جديدة. ومن المتوقع أن تستحوذ OKX وKorea Investment & Securities على نحو 20% لكل منهما. وتشير الصفقة إلى تقييم متوقع لـCoinone لا يقل عن 140 مليار وون. وقد يؤثر هذا الاستحواذ، بمشاركة منصة عالمية وشركة استثمار مالي محلية، في هيكل ملكية Coinone وخريطة سوق الأصول الافتراضية في كوريا الجنوبية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "OKX, Korea Investment के साथ Coinone हिस्सेदारी खरीदेगी; कोरिया में कदम तेज",
-        "excerpt": "वैश्विक क्रिप्टो एक्सचेंज OKX, Korea Investment & Securities के साथ Coinone में लगभग 20% हिस्सेदारी खरीदेगी, जिससे दक्षिण कोरिया बाजार में प्रवेश तेज होगा।",
-        "body": "वैश्विक बड़ी क्रिप्टो एसेट एक्सचेंज OKX, Korea Investment & Securities के साथ मिलकर दक्षिण कोरिया की क्रिप्टो एक्सचेंज Coinone में हिस्सेदारी खरीदते हुए कोरियाई बाजार में प्रवेश की तैयारी कर रही है। जानकारी के अनुसार, बिक्री Coinone के सीईओ Cha Myung-hoon के पास मौजूद पुराने शेयरों और नए शेयर जारी करने के माध्यम से होगी। OKX और Korea Investment & Securities प्रत्येक लगभग 20% हिस्सेदारी खरीदने की योजना में हैं। इस सौदे में Coinone का उद्यम मूल्य कम से कम 140 अरब वॉन से अधिक आंका जाने की उम्मीद है। वैश्विक एक्सचेंज और घरेलू वित्तीय निवेश कंपनी की संयुक्त भागीदारी Coinone की स्वामित्व संरचना और दक्षिण कोरिया के वर्चुअल एसेट बाजार पर असर डाल सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "OKX Akuisisi Saham Coinone Bersama Korea Investment, Masuk Pasar Korea",
-        "excerpt": "Bursa kripto global OKX akan mengakuisisi sekitar 20% saham Coinone bersama Korea Investment & Securities, menandai langkah lebih serius ke pasar Korea Selatan.",
-        "body": "Bursa aset kripto global besar OKX bergerak masuk ke pasar Korea Selatan dengan mengakuisisi saham bursa kripto lokal Coinone bersama Korea Investment & Securities. Penjualan tersebut dilaporkan dilakukan melalui saham lama yang dimiliki CEO Coinone Cha Myung-hoon dan penerbitan saham baru. OKX dan Korea Investment & Securities masing-masing diperkirakan mengambil sekitar 20% saham. Dalam transaksi ini, nilai perusahaan Coinone diharapkan setidaknya mencapai lebih dari 140 miliar won. Akuisisi saham yang melibatkan bursa global dan perusahaan investasi keuangan domestik ini dapat memengaruhi struktur kepemilikan Coinone serta peta pasar aset virtual Korea Selatan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "1e363e218bff",
-    "slug": "부동산펀드-시동-거는-한앤코-운용-전문가-영입나서-160423",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T06:05:26.438Z",
-    "updatedAt": "2026-05-15T06:05:26.438Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049113",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049113",
-    "titleFingerprint": "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
-    "dedupKeys": [
-      "1e363e218bffed753b8045e1f79665ea07368bd1",
-      "abcae414e1e4360eb0cbc6bbe9c2cf5f4d59569d",
-      "06d2c3900cedc1bf8898ede5cd786caf87257bbb"
-    ],
-    "imageUrl": "/images/articles/1e363e218bff.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한앤컴퍼니, 부동산펀드 본격화…신설 운용사 에이치캠 전문가 영입 추진",
-        "excerpt": "한앤컴퍼니가 5월 15일 보도 기준 신설 자산운용 법인 에이치캠을 통해 부동산펀드 사업 시동을 걸고 운용 전문가 영입에 나섰다.",
-        "body": "사모펀드 운용사 한앤컴퍼니가 신설 자산운용 법인 에이치캠(HC)을 통해 부동산펀드 사업을 본격화하고 있다. 5월 15일 14시18분 매일경제 자본시장 전문 유료매체 레이더M 보도에 따르면 한앤컴퍼니는 에이치캠을 중심으로 부동산펀드 운용을 준비하며 관련 전문가 영입에 나섰다. 이번 움직임은 기존 사모펀드 운용 역량을 바탕으로 자산운용 영역을 넓히려는 흐름으로 해석된다. 향후 전문 인력 확보 여부가 신설 법인의 운용 기반 구축과 부동산펀드 추진 속도에 영향을 줄 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Hahn & Company Moves Into Real Estate Funds With HC Hiring Push",
-        "excerpt": "As reported on May 15, Hahn & Company is preparing real estate fund operations through its new asset management entity HC and is seeking investment professionals.",
-        "body": "Private equity firm Hahn & Company is moving to launch real estate fund operations through its newly established asset management entity, HC. According to Radar M, Maeil Business Newspaper’s paid capital markets outlet, in a report published at 14:18 on May 15, Hahn & Company is preparing real estate fund management centered on HC and has begun recruiting relevant operating professionals. The move reflects an effort to expand its asset management reach based on its private equity operating capabilities. Securing specialist talent is expected to affect how quickly the new entity builds its operating base and advances real estate funds. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ハーン・アンド・カンパニー、不動産ファンド始動へHCで専門人材を採用へ",
-        "excerpt": "ハーン・アンド・カンパニーは5月15日の報道時点で、新設の資産運用会社HCを通じ不動産ファンド事業を準備し、運用専門家の採用に乗り出した。",
-        "body": "プライベートエクイティ運用会社のハーン・アンド・カンパニーは、新設した資産運用法人HCを通じて不動産ファンド事業を本格化させている。5月15日14時18分に毎日経済の資本市場専門有料媒体レーダーMが報じたところによると、同社はHCを中心に不動産ファンド運用を準備し、関連する運用専門家の採用に着手した。今回の動きは、既存のPEF運用能力を基盤に資産運用領域を広げる流れと受け止められる。今後、専門人材を確保できるかが、新設法人の運用基盤構築と不動産ファンド推進の速度に影響するとみられる。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "Hahn & Company启动房地产基金布局，新设HC推进专家招聘",
-        "excerpt": "据5月15日报道，Hahn & Company正通过新设资产管理法人HC筹备房地产基金业务，并开始引进相关投资运营专家。",
-        "body": "私募股权基金管理公司Hahn & Company正通过新设资产管理法人HC推进房地产基金业务。根据每日经济资本市场专业付费媒体Radar M于5月15日14时18分发布的报道，Hahn & Company正以HC为中心准备房地产基金管理，并已开始招聘相关运营专家。此举可被视为该公司基于既有私募基金管理能力，扩大资产管理领域的动作。未来能否 확보 전문人才，将影响新设法人运营基础的建立以及房地产基金推进速度。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Hahn & Company impulsa fondos inmobiliarios y busca expertos para HC",
-        "excerpt": "Según un reporte del 15 de mayo, Hahn & Company prepara fondos inmobiliarios a través de su nueva gestora HC y comenzó a buscar expertos en gestión.",
-        "body": "La firma de capital privado Hahn & Company está dando forma a su negocio de fondos inmobiliarios mediante su nueva sociedad de gestión de activos, HC. Según informó Radar M, el medio pago especializado en mercados de capitales de Maeil Business Newspaper, a las 14:18 del 15 de mayo, Hahn & Company prepara la gestión de fondos inmobiliarios centrada en HC y ha iniciado la contratación de profesionales especializados. El movimiento apunta a ampliar su presencia en gestión de activos sobre la base de sus capacidades en fondos de capital privado. La incorporación de talento será clave para construir la base operativa de la nueva entidad y definir el ritmo de avance de los fondos inmobiliarios. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Hahn & Company avança em fundos imobiliários e busca especialistas para HC",
-        "excerpt": "Segundo reportagem de 15 de maio, a Hahn & Company prepara fundos imobiliários por meio da nova gestora HC e iniciou a busca por especialistas em gestão.",
-        "body": "A gestora de private equity Hahn & Company está avançando no negócio de fundos imobiliários por meio da recém-criada gestora de ativos HC. De acordo com reportagem publicada às 14h18 de 15 de maio pelo Radar M, veículo pago especializado em mercado de capitais do Maeil Business Newspaper, a empresa prepara a gestão de fundos imobiliários centrada na HC e iniciou a contratação de profissionais da área. O movimento indica uma ampliação do escopo de gestão de ativos com base na experiência já acumulada em private equity. A capacidade de atrair especialistas deve influenciar a formação da base operacional da nova empresa e o ritmo de desenvolvimento dos fundos imobiliários. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Hahn & Company startet Immobilienfonds-Vorstoß und sucht Experten für HC",
-        "excerpt": "Laut einem Bericht vom 15. Mai bereitet Hahn & Company über die neue Asset-Management-Gesellschaft HC Immobilienfonds vor und sucht dafür Fachpersonal.",
-        "body": "Die Private-Equity-Gesellschaft Hahn & Company treibt über ihre neu gegründete Asset-Management-Einheit HC den Einstieg in Immobilienfonds voran. Wie Radar M, das kostenpflichtige Kapitalmarktmedium der Maeil Business Newspaper, am 15. Mai um 14:18 Uhr berichtete, bereitet Hahn & Company rund um HC die Verwaltung von Immobilienfonds vor und hat mit der Suche nach entsprechenden Fachleuten begonnen. Der Schritt deutet darauf hin, dass das Unternehmen seine bestehenden PEF-Kompetenzen nutzen will, um den Bereich Asset Management zu erweitern. Ob Spezialisten gewonnen werden können, dürfte den Aufbau der operativen Basis der neuen Gesellschaft und das Tempo der Immobilienfonds-Pläne beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Hahn & Company prépare des fonds immobiliers et recrute pour sa nouvelle entité HC",
-        "excerpt": "Selon un article du 15 mai, Hahn & Company prépare des fonds immobiliers via sa nouvelle société de gestion HC et cherche des spécialistes de l’investissement.",
-        "body": "La société de capital-investissement Hahn & Company accélère la préparation de fonds immobiliers par l’intermédiaire de sa nouvelle société de gestion d’actifs, HC. D’après Radar M, média payant de Maeil Business Newspaper spécialisé dans les marchés de capitaux, dans un article publié le 15 mai à 14h18, Hahn & Company prépare la gestion de fonds immobiliers autour de HC et a commencé à recruter des professionnels du secteur. Cette initiative s’inscrit dans une volonté d’élargir son champ de gestion d’actifs à partir de ses capacités existantes en private equity. La capacité à attirer des experts devrait peser sur la mise en place de la base opérationnelle de la nouvelle entité et sur le rythme d’avancement des fonds immobiliers. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "هان آند كومباني تتحرك نحو صناديق العقار وتبحث عن خبراء لإدارة HC",
-        "excerpt": "بحسب تقرير في 15 مايو، تستعد هان آند كومباني لإطلاق نشاط صناديق عقارية عبر شركة إدارة الأصول الجديدة HC وبدأت البحث عن خبراء تشغيل.",
-        "body": "تتحرك شركة هان آند كومباني، وهي مدير لصناديق الملكية الخاصة، لتفعيل نشاط صناديق العقار عبر كيان إدارة الأصول الجديد HC. ووفق تقرير نشرته Radar M، الوسيلة المدفوعة المتخصصة في أسواق رأس المال التابعة لصحيفة Maeil Business Newspaper، في الساعة 14:18 يوم 15 مايو، فإن الشركة تجهز لإدارة صناديق عقارية تتمحور حول HC وبدأت استقطاب خبراء ذوي صلة. تعكس هذه الخطوة سعيا إلى توسيع نطاق إدارة الأصول اعتمادا على قدراتها القائمة في إدارة صناديق الملكية الخاصة. ومن المتوقع أن يؤثر تأمين الكفاءات المتخصصة في بناء قاعدة تشغيل الكيان الجديد وسرعة دفع صناديق العقار. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Hahn & Company रियल एस्टेट फंड की तैयारी में, HC के लिए विशेषज्ञों की भर्ती शुरू",
-        "excerpt": "15 मई की रिपोर्ट के अनुसार, Hahn & Company अपनी नई एसेट मैनेजमेंट इकाई HC के जरिए रियल एस्टेट फंड तैयार कर रही है और संचालन विशेषज्ञों की भर्ती में जुटी है।",
-        "body": "प्राइवेट इक्विटी फंड मैनेजर Hahn & Company अपनी नई एसेट मैनेजमेंट इकाई HC के माध्यम से रियल एस्टेट फंड कारोबार को आगे बढ़ा रही है। Maeil Business Newspaper के पूंजी बाजार केंद्रित पेड मीडिया Radar M ने 15 मई को 14:18 बजे प्रकाशित रिपोर्ट में बताया कि कंपनी HC को केंद्र में रखकर रियल एस्टेट फंड प्रबंधन की तैयारी कर रही है और संबंधित संचालन विशेषज्ञों की भर्ती शुरू कर चुकी है। यह कदम मौजूदा PEF प्रबंधन क्षमता के आधार पर एसेट मैनेजमेंट क्षेत्र का विस्तार करने की दिशा में देखा जा रहा है। विशेषज्ञ प्रतिभा की उपलब्धता नई इकाई के संचालन आधार और रियल एस्टेट फंड की गति को प्रभावित कर सकती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Hahn & Company Siapkan Dana Real Estat, Rekrut Pakar untuk HC",
-        "excerpt": "Menurut laporan 15 Mei, Hahn & Company menyiapkan bisnis dana real estat melalui entitas manajemen aset baru HC dan mulai mencari pakar operasional.",
-        "body": "Manajer private equity Hahn & Company mulai mematangkan bisnis dana real estat melalui entitas manajemen aset baru, HC. Berdasarkan laporan Radar M, media berbayar khusus pasar modal milik Maeil Business Newspaper, yang terbit pada 15 Mei pukul 14.18, Hahn & Company sedang menyiapkan pengelolaan dana real estat yang berpusat pada HC dan mulai merekrut tenaga ahli terkait. Langkah ini menunjukkan upaya memperluas bidang manajemen aset dengan bertumpu pada kemampuan pengelolaan PEF yang sudah ada. Keberhasilan memperoleh tenaga spesialis diperkirakan akan memengaruhi pembentukan basis operasional entitas baru serta laju pengembangan dana real estat. Sumber: mk.co.kr"
       }
     }
   }
