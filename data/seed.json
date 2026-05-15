@@ -1,5 +1,230 @@
 [
   {
+    "id": "2d69e8e63344",
+    "slug": "京セラrd本部長日本の製造業の競争力はすりあわせ調整と統合-193933",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T13:36:47.016Z",
+    "updatedAt": "2026-05-15T13:36:47.016Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049344",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049344",
+    "titleFingerprint": "335c8aa658df7efa99a0dc4394bc921f77e141d5",
+    "dedupKeys": [
+      "2d69e8e633448cd3ae957c678fbbf69cb84d9c98",
+      "335c8aa658df7efa99a0dc4394bc921f77e141d5",
+      "bf9291876e89caa6975347c18628892beefa4c75"
+    ],
+    "imageUrl": "/images/articles/2d69e8e63344.png",
+    "i18n": {
+      "ko": {
+        "title": "교세라 R&D 본부장 “일본 제조업 경쟁력은 조정과 통합의 현장 기술”",
+        "excerpt": "교세라 연구개발을 이끄는 나카가와 쇼이치 R&D 본부장이 지난달 매일경제 인터뷰에서 일본 제조업 경쟁력의 핵심으로 ‘스리아와세’를 꼽았다.",
+        "body": "교세라의 연구개발(R&D)을 총괄하는 나카가와 쇼이치 R&D 본부장은 지난달 매일경제와의 인터뷰에서 일본 제조업의 경쟁력은 현장에서 축적된 기술과 사람, 그리고 ‘스리아와세’로 불리는 조정과 통합 역량에 있다고 밝혔다. 그는 산업 구조가 급변하는 상황에서도 현장 기반의 기술 축적이 경쟁력을 지탱한다고 설명했다. 또 “누구나 안 된다고 하는 일에 도전한다”는 태도가 연구개발의 중요한 방향이라고 강조했다. 이번 발언은 제조업 경쟁력이 단순한 설비나 개별 기술을 넘어 사람과 현장 경험, 통합 능력에 달려 있음을 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kyocera R&D chief says Japan’s manufacturing edge lies in coordination and integration",
+        "excerpt": "Kyocera R&D head Shoichi Nakagawa said in an interview with Maeil Business last month that Japan’s manufacturing strength is rooted in on-site know-how and “suriawase.”",
+        "body": "Shoichi Nakagawa, head of research and development at Kyocera, said in an interview with Maeil Business last month that the competitiveness of Japan’s manufacturing industry rests on technology and people accumulated on the factory floor, as well as the capability known as “suriawase,” or coordination and integration. He explained that even amid rapid changes in industrial structures, field-based technical accumulation continues to support competitiveness. Nakagawa also stressed the importance of a research and development attitude that challenges what everyone says cannot be done. His remarks highlight that manufacturing strength depends not only on equipment or individual technologies, but also on people, shop-floor experience and integration capability. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "京セラR&D本部長、日本製造業の競争力は調整と統合の現場力にあると強調",
+        "excerpt": "京セラの仲川彰一R&D本部長は先月、毎日経済とのインタビューで、日本の製造業の強みは現場技術と「すりあわせ」にあると語った。",
+        "body": "京セラの研究開発（R&D）を統括する仲川彰一R&D本部長は先月、毎日経済とのインタビューで、日本の製造業の競争力は現場で蓄積された技術と人、そして調整と統合を意味する「すりあわせ」の力にあると述べた。産業構造が急速に変化する中でも、現場を基盤にした技術の蓄積が競争力を支えていると説明した。また、「誰もがだめだと言うことに挑戦する」姿勢が研究開発の重要な方向だと強調した。今回の発言は、製造業の強さが設備や個別技術だけでなく、人材、現場経験、統合能力に左右されることを示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "京瓷研发负责人称，日本制造业竞争力来自现场技术与协调整合能力",
+        "excerpt": "京瓷研发负责人中川彰一上月接受《每日经济》采访时表示，日本制造业的核心竞争力在于现场积累的技术、人才与“磨合”。",
+        "body": "京瓷负责研究开发（R&D）的中川彰一上月在接受《每日经济》采访时表示，日本制造业的竞争力来自现场长期积累的技术和人才，以及被称为“磨合”的协调与整合能力。他说明，即使在产业结构快速变化的背景下，以现场为基础的技术积累仍在支撑竞争力。他还强调，研究开发的重要方向是挑战“所有人都认为不可能”的事情。上述发言显示，制造业实力不仅取决于设备或单项技术，也取决于人才、现场经验和整合能力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Jefe de I+D de Kyocera: la ventaja manufacturera de Japón está en coordinar e integrar",
+        "excerpt": "Shoichi Nakagawa, jefe de I+D de Kyocera, dijo el mes pasado a Maeil Business que la fortaleza manufacturera japonesa se basa en conocimiento de planta y “suriawase”.",
+        "body": "Shoichi Nakagawa, responsable de investigación y desarrollo (I+D) de Kyocera, dijo el mes pasado en una entrevista con Maeil Business que la competitividad de la industria manufacturera japonesa descansa en la tecnología y las personas acumuladas en el lugar de producción, así como en la capacidad conocida como “suriawase”, es decir, coordinación e integración. Explicó que, incluso ante cambios rápidos en la estructura industrial, la acumulación técnica basada en el terreno sigue sosteniendo la competitividad. También destacó como orientación clave de la I+D la actitud de desafiar aquello que todos consideran imposible. Sus declaraciones muestran que la fuerza manufacturera no depende solo de equipos o tecnologías individuales, sino también de personas, experiencia de planta e integración. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Chefe de P&D da Kyocera diz que força industrial do Japão está em coordenação e integração",
+        "excerpt": "Shoichi Nakagawa, chefe de P&D da Kyocera, afirmou à Maeil Business no mês passado que a competitividade japonesa vem do conhecimento de chão de fábrica e do “suriawase”.",
+        "body": "Shoichi Nakagawa, responsável por pesquisa e desenvolvimento (P&D) da Kyocera, disse no mês passado em entrevista à Maeil Business que a competitividade da indústria manufatureira japonesa se apoia na tecnologia e nas pessoas acumuladas no chão de fábrica, além da capacidade conhecida como “suriawase”, ou coordenação e integração. Ele explicou que, mesmo com mudanças rápidas na estrutura industrial, o acúmulo técnico baseado no campo continua sustentando a competitividade. Nakagawa também destacou como direção importante da P&D a postura de desafiar aquilo que todos dizem ser impossível. A declaração mostra que a força da manufatura depende não apenas de equipamentos ou tecnologias isoladas, mas também de pessoas, experiência prática e capacidade de integração. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kyocera-F&E-Chef: Japans Fertigungsstärke liegt in Abstimmung und Integration",
+        "excerpt": "Kyoceras F&E-Leiter Shoichi Nakagawa sagte im vergangenen Monat gegenüber Maeil Business, Japans Fertigungsstärke beruhe auf Wissen aus der Praxis und „Suriawase“.",
+        "body": "Shoichi Nakagawa, Leiter Forschung und Entwicklung (F&E) bei Kyocera, sagte im vergangenen Monat in einem Interview mit Maeil Business, die Wettbewerbsfähigkeit der japanischen Fertigungsindustrie beruhe auf der in der Produktion angesammelten Technik und den Menschen sowie auf der Fähigkeit namens „Suriawase“, also Abstimmung und Integration. Er erklärte, dass auch bei raschen Veränderungen der Industriestruktur der technische Erfahrungsschatz aus der Praxis die Wettbewerbsfähigkeit stütze. Zudem betonte Nakagawa, eine wichtige Ausrichtung der F&E sei die Haltung, Dinge anzugehen, die alle für unmöglich halten. Seine Aussagen zeigen, dass Fertigungsstärke nicht nur von Anlagen oder einzelnen Technologien abhängt, sondern auch von Menschen, Praxiserfahrung und Integrationsfähigkeit. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le chef R&D de Kyocera voit l’avantage manufacturier japonais dans la coordination",
+        "excerpt": "Shoichi Nakagawa, responsable R&D de Kyocera, a déclaré le mois dernier à Maeil Business que la force industrielle du Japon vient du savoir de terrain et du « suriawase ».",
+        "body": "Shoichi Nakagawa, responsable de la recherche et développement (R&D) de Kyocera, a déclaré le mois dernier dans une interview à Maeil Business que la compétitivité de l’industrie manufacturière japonaise repose sur les technologies et les personnes accumulées sur le terrain, ainsi que sur la capacité appelée « suriawase », c’est-à-dire coordination et intégration. Il a expliqué que, même face à une évolution rapide des structures industrielles, l’accumulation technique issue du terrain continue de soutenir la compétitivité. Il a aussi souligné que la R&D doit garder l’attitude consistant à défier ce que tout le monde juge impossible. Ces propos montrent que la force manufacturière ne dépend pas seulement des équipements ou des technologies individuelles, mais aussi des personnes, de l’expérience de terrain et de l’intégration. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "رئيس البحث والتطوير في كيوسيرا: قوة التصنيع الياباني في التنسيق والتكامل",
+        "excerpt": "قال شويتشي ناكاغاوا، رئيس البحث والتطوير في كيوسيرا، في مقابلة مع ماييل بيزنس الشهر الماضي إن قوة التصنيع الياباني تقوم على خبرة الميدان و«سورياواسي».",
+        "body": "قال شويتشي ناكاغاوا، رئيس البحث والتطوير في كيوسيرا، في مقابلة مع ماييل بيزنس الشهر الماضي إن تنافسية قطاع التصنيع الياباني تستند إلى التكنولوجيا والأشخاص الذين تراكمت خبراتهم في مواقع العمل، وإلى القدرة المعروفة باسم «سورياواسي»، أي التنسيق والتكامل. وأوضح أنه حتى مع التغير السريع في البنية الصناعية، فإن تراكم التقنية القائم على الميدان يواصل دعم القدرة التنافسية. كما شدد على أن من الاتجاهات المهمة في البحث والتطوير تبني موقف يتحدى ما يقول الجميع إنه غير ممكن. وتبرز تصريحاته أن قوة التصنيع لا تعتمد فقط على المعدات أو التقنيات الفردية، بل أيضا على الأشخاص والخبرة الميدانية والقدرة على التكامل. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्योसेरा R&D प्रमुख: जापान की विनिर्माण ताकत समन्वय और एकीकरण में है",
+        "excerpt": "क्योसेरा के R&D प्रमुख शोइची नाकागावा ने पिछले महीने Maeil Business से कहा कि जापानी विनिर्माण की ताकत साइट पर जमा तकनीक, लोगों और “सुरियावासे” में है।",
+        "body": "क्योसेरा में अनुसंधान एवं विकास (R&D) का नेतृत्व करने वाले शोइची नाकागावा ने पिछले महीने Maeil Business को दिए साक्षात्कार में कहा कि जापान के विनिर्माण उद्योग की प्रतिस्पर्धी क्षमता कारखाने के स्तर पर संचित तकनीक और लोगों, तथा “सुरियावासे” कही जाने वाली समन्वय और एकीकरण क्षमता पर आधारित है। उन्होंने समझाया कि औद्योगिक संरचना में तेज बदलाव के बीच भी साइट-आधारित तकनीकी संचय प्रतिस्पर्धा को सहारा देता है। नाकागावा ने यह भी कहा कि R&D की महत्वपूर्ण दिशा वह रवैया है जिसमें उन कामों को चुनौती दी जाती है जिन्हें हर कोई असंभव मानता है। उनके बयान दिखाते हैं कि विनिर्माण की ताकत केवल उपकरण या अलग-अलग तकनीकों पर नहीं, बल्कि लोगों,现场 अनुभव और एकीकरण क्षमता पर भी निर्भर करती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kepala R&D Kyocera: daya saing manufaktur Jepang ada pada koordinasi dan integrasi",
+        "excerpt": "Kepala R&D Kyocera Shoichi Nakagawa mengatakan kepada Maeil Business bulan lalu bahwa kekuatan manufaktur Jepang bertumpu pada pengetahuan lapangan dan “suriawase”.",
+        "body": "Shoichi Nakagawa, kepala riset dan pengembangan (R&D) Kyocera, mengatakan dalam wawancara dengan Maeil Business bulan lalu bahwa daya saing industri manufaktur Jepang bertumpu pada teknologi dan manusia yang terakumulasi di lapangan, serta kemampuan yang disebut “suriawase”, yakni koordinasi dan integrasi. Ia menjelaskan bahwa meski struktur industri berubah cepat, akumulasi teknologi berbasis tempat kerja tetap menopang daya saing. Nakagawa juga menekankan bahwa arah penting R&D adalah sikap untuk menantang hal yang dikatakan semua orang tidak mungkin. Pernyataan ini menunjukkan bahwa kekuatan manufaktur tidak hanya bergantung pada peralatan atau teknologi individual, tetapi juga pada manusia, pengalaman lapangan, dan kemampuan integrasi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "896a5ba729ab",
+    "slug": "京都企業哲学の真髄敬天愛人哲学者稲盛和夫-433451",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T13:35:42.285Z",
+    "updatedAt": "2026-05-15T13:35:42.285Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049345",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049345",
+    "titleFingerprint": "860f988b7fd03b3bfead0136eb53af9acb9aa8ae",
+    "dedupKeys": [
+      "896a5ba729ab0ad6e7ba030f0c81ba7afac08fb3",
+      "860f988b7fd03b3bfead0136eb53af9acb9aa8ae",
+      "6a0a6a95116951067ae8a34d7874ed60d8a350c4"
+    ],
+    "imageUrl": "/images/articles/896a5ba729ab.png",
+    "i18n": {
+      "ko": {
+        "title": "이나모리 가즈오 ‘경천애인’ 철학, AI 시대에도 작동하는 교토 기업의 기반",
+        "excerpt": "mk.co.kr은 이나모리 라이브러리 르포를 통해 교토 기업 철학의 핵심인 이나모리 가즈오의 ‘경천애인’이 사후에도 조직 운영 원리로 공유되고 있다고 전했다.",
+        "body": "일본 교토 남부의 이나모리 라이브러리를 다룬 mk.co.kr 르포는 철학자이자 경영자인 이나모리 가즈오의 ‘경천애인’ 철학을 조명했다. 보도에 따르면 이 철학은 기업에 흔들리지 않는 기반을 세운 경영 원리로 소개되며, 14개 언어로 번역돼 글로벌 현장에서 공유되고 있다. 이나모리 사후에도 개인의 신념에 머물지 않고 조직 안에서 작동하는 ‘구조’로 남아 있다는 점이 핵심이다. AI 시대에 일하는 방식이 바뀌더라도 이나모리 철학의 본질은 변하지 않는다는 메시지도 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kazuo Inamori’s Kyoten Aijin Philosophy Still Anchors Kyoto Business in the AI Era",
+        "excerpt": "mk.co.kr reported from the Inamori Library that Kazuo Inamori’s Kyoten Aijin philosophy remains a shared management principle even after his death.",
+        "body": "A mk.co.kr report from the Inamori Library in southern Kyoto, Japan, spotlighted the Kyoten Aijin philosophy of Kazuo Inamori, the philosopher and business leader. According to the report, the philosophy is presented as a management principle that built an unshakable foundation for companies and has been translated into 14 languages for global sharing. Its key point is that, even after Inamori’s death, it continues to function not merely as a personal belief but as a structure within organizations. The report also emphasized that even as work changes in the AI era, the essence of Inamori’s philosophy does not change. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "稲盛和夫の「敬天愛人」哲学、AI時代にも機能する京都企業の基盤",
+        "excerpt": "mk.co.krは稲盛ライブラリールポを通じ、京都企業哲学の核心である稲盛和夫の「敬天愛人」が没後も組織運営原理として共有されていると伝えた。",
+        "body": "日本・京都南部の稲盛ライブラリーを扱ったmk.co.krのルポは、哲学者であり経営者でもある稲盛和夫の「敬天愛人」哲学に焦点を当てた。報道によると、この哲学は企業に揺るがぬ基盤を築いた経営原理として紹介され、14言語に翻訳されて世界の現場で共有されている。稲盛氏の没後も個人の信念にとどまらず、組織の中で機能する「仕組み」として残っている点が核心だ。AI時代に働き方が変わっても、稲盛哲学の本質は変わらないというメッセージも示された。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "稻盛和夫“敬天爱人”哲学，在AI时代仍支撑京都企业根基",
+        "excerpt": "mk.co.kr在稻盛图书馆采访报道中称，作为京都企业哲学核心的稻盛和夫“敬天爱人”理念，在其身后仍作为组织运营原则被共享。",
+        "body": "mk.co.kr关于日本京都南部稻盛图书馆的报道，聚焦哲学家兼经营者稻盛和夫的“敬天爱人”哲学。报道指出，这一哲学被介绍为为企业建立稳固基础的经营原则，并已翻译成14种语言，在全球现场共享。其核心在于，即使稻盛和夫去世后，该理念也没有停留在个人信念层面，而是作为组织内部持续运作的“机制”保留下来。报道还传达了这样一个信息：即便AI时代改变了工作方式，稻盛哲学的本质也不会改变。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La filosofía Kyoten Aijin de Kazuo Inamori sigue sosteniendo a empresas de Kioto en la era de la IA",
+        "excerpt": "mk.co.kr informó desde la Biblioteca Inamori que la filosofía Kyoten Aijin de Kazuo Inamori, clave en Kioto, sigue compartiéndose como principio organizativo.",
+        "body": "Un reportaje de mk.co.kr sobre la Biblioteca Inamori, en el sur de Kioto, Japón, destacó la filosofía Kyoten Aijin de Kazuo Inamori, filósofo y empresario. Según el informe, esta filosofía se presenta como un principio de gestión que construyó una base firme para las empresas y fue traducida a 14 idiomas para compartirse globalmente. El punto central es que, incluso tras la muerte de Inamori, no quedó solo como una creencia personal, sino como una estructura que sigue funcionando dentro de las organizaciones. El reporte también señaló que, aunque cambie la forma de trabajar en la era de la IA, la esencia de la filosofía de Inamori no cambia. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Filosofia Kyoten Aijin de Kazuo Inamori segue como base das empresas de Kyoto na era da IA",
+        "excerpt": "O mk.co.kr relatou, a partir da Biblioteca Inamori, que a filosofia Kyoten Aijin de Kazuo Inamori continua compartilhada como princípio organizacional.",
+        "body": "Uma reportagem do mk.co.kr sobre a Biblioteca Inamori, no sul de Kyoto, Japão, destacou a filosofia Kyoten Aijin de Kazuo Inamori, filósofo e gestor empresarial. Segundo a reportagem, essa filosofia é apresentada como um princípio de gestão que construiu uma base firme para empresas e foi traduzida para 14 idiomas, sendo compartilhada globalmente. O ponto central é que, mesmo após a morte de Inamori, ela não permaneceu apenas como crença pessoal, mas como uma estrutura que continua funcionando dentro das organizações. A reportagem também indicou que, embora a forma de trabalhar mude na era da IA, a essência da filosofia de Inamori não muda. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kazuo Inamoris Kyoten-Aijin-Philosophie bleibt Kyotos Unternehmensbasis im KI-Zeitalter",
+        "excerpt": "mk.co.kr berichtete aus der Inamori Library, dass Kazuo Inamoris Kyoten-Aijin-Philosophie auch nach seinem Tod als Organisationsprinzip geteilt wird.",
+        "body": "Ein Bericht von mk.co.kr über die Inamori Library im Süden von Kyoto, Japan, beleuchtete die Kyoten-Aijin-Philosophie von Kazuo Inamori, Philosoph und Unternehmer. Dem Bericht zufolge wird diese Philosophie als Managementprinzip vorgestellt, das Unternehmen eine stabile Grundlage gab, und in 14 Sprachen übersetzt weltweit geteilt. Entscheidend ist, dass sie auch nach Inamoris Tod nicht nur persönlicher Glaube blieb, sondern als Struktur innerhalb von Organisationen weiter funktioniert. Der Bericht betonte außerdem, dass sich zwar die Arbeitsweise im KI-Zeitalter verändert, das Wesen von Inamoris Philosophie jedoch unverändert bleibt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La philosophie Kyoten Aijin de Kazuo Inamori reste un socle pour Kyoto à l’ère de l’IA",
+        "excerpt": "mk.co.kr rapporte depuis la bibliothèque Inamori que la philosophie Kyoten Aijin de Kazuo Inamori demeure un principe partagé d’organisation après sa mort.",
+        "body": "Un reportage de mk.co.kr consacré à la bibliothèque Inamori, dans le sud de Kyoto au Japon, a mis en lumière la philosophie Kyoten Aijin de Kazuo Inamori, philosophe et dirigeant d’entreprise. Selon l’article, cette philosophie est présentée comme un principe de management ayant bâti une base solide pour les entreprises et a été traduite en 14 langues pour être partagée à l’échelle mondiale. Le point central est qu’après la mort d’Inamori, elle ne reste pas une simple conviction personnelle, mais continue de fonctionner comme une structure au sein des organisations. Le reportage souligne aussi que, même si les façons de travailler changent à l’ère de l’IA, l’essence de la philosophie d’Inamori ne change pas. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "فلسفة كازو إيناموري «كيوتن آيجين» تبقى أساسا لشركات كيوتو في عصر الذكاء الاصطناعي",
+        "excerpt": "أفاد mk.co.kr من مكتبة إيناموري بأن فلسفة كازو إيناموري «كيوتن آيجين» ما زالت، بعد وفاته، مبدأ مشتركا في إدارة المنظمات.",
+        "body": "سلط تقرير نشره mk.co.kr عن مكتبة إيناموري في جنوب كيوتو باليابان الضوء على فلسفة «كيوتن آيجين» لكازو إيناموري، الفيلسوف ورجل الإدارة. وبحسب التقرير، تقدم هذه الفلسفة بوصفها مبدأ إداريا بنى أساسا راسخا للشركات، وقد ترجمت إلى 14 لغة لتتشاركها مواقع العمل عالميا. وتكمن النقطة الأساسية في أنها، حتى بعد وفاة إيناموري، لم تبق مجرد قناعة شخصية، بل استمرت كبنية تعمل داخل المنظمات. كما أشار التقرير إلى أن جوهر فلسفة إيناموري لا يتغير، حتى مع تغير أساليب العمل في عصر الذكاء الاصطناعي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "काजुओ इनामोरी की Kyoten Aijin दर्शन, AI युग में भी क्योटो कंपनियों का आधार",
+        "excerpt": "mk.co.kr ने इनामोरी लाइब्रेरी रिपोर्ट में बताया कि काजुओ इनामोरी का Kyoten Aijin दर्शन निधन के बाद भी संगठन संचालन के सिद्धांत के रूप में साझा हो रहा है।",
+        "body": "जापान के दक्षिणी क्योटो स्थित इनामोरी लाइब्रेरी पर mk.co.kr की रिपोर्ट ने दार्शनिक और प्रबंधक काजुओ इनामोरी के Kyoten Aijin दर्शन पर प्रकाश डाला। रिपोर्ट के अनुसार, यह दर्शन कंपनियों के लिए अडिग आधार बनाने वाले प्रबंधन सिद्धांत के रूप में प्रस्तुत किया गया है और 14 भाषाओं में अनुवादित होकर वैश्विक स्तर पर साझा किया जा रहा है। इसका मुख्य बिंदु यह है कि इनामोरी के निधन के बाद भी यह केवल व्यक्तिगत विश्वास नहीं रहा, बल्कि संगठनों के भीतर काम करने वाली एक संरचना के रूप में बचा हुआ है। रिपोर्ट ने यह संदेश भी दिया कि AI युग में काम करने के तरीके बदलें, तब भी इनामोरी दर्शन का सार नहीं बदलता। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Filosofi Kyoten Aijin Kazuo Inamori Tetap Menjadi Dasar Perusahaan Kyoto di Era AI",
+        "excerpt": "mk.co.kr melaporkan dari Inamori Library bahwa filosofi Kyoten Aijin Kazuo Inamori tetap dibagikan sebagai prinsip organisasi setelah wafatnya.",
+        "body": "Laporan mk.co.kr tentang Inamori Library di Kyoto selatan, Jepang, menyoroti filosofi Kyoten Aijin dari Kazuo Inamori, seorang filsuf sekaligus pemimpin bisnis. Menurut laporan itu, filosofi ini diperkenalkan sebagai prinsip manajemen yang membangun dasar kokoh bagi perusahaan dan telah diterjemahkan ke dalam 14 bahasa untuk dibagikan secara global. Poin utamanya adalah bahwa setelah wafatnya Inamori, filosofi tersebut tidak berhenti sebagai keyakinan pribadi, tetapi tetap berfungsi sebagai struktur di dalam organisasi. Laporan itu juga menyampaikan bahwa meski cara kerja berubah di era AI, esensi filosofi Inamori tidak berubah. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "f276f1d25e7c",
+    "slug": "セラミック-半導体部品が中核-宇宙核融合領域拡大へ-880868",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T13:34:47.486Z",
+    "updatedAt": "2026-05-15T13:34:47.486Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049346",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049346",
+    "titleFingerprint": "e04e269c502981964ef45367fa3e3a1224cfb74d",
+    "dedupKeys": [
+      "f276f1d25e7cd2c9bfeb89a75bfcb5e570b733c8",
+      "e04e269c502981964ef45367fa3e3a1224cfb74d",
+      "70038876a0910bf1c384693cc47d13fcad8a70a2"
+    ],
+    "imageUrl": "/images/articles/f276f1d25e7c.png",
+    "i18n": {
+      "ko": {
+        "title": "교세라, 세라믹·반도체 부품 앞세워 우주·핵융합 영역 확대",
+        "excerpt": "교토를 대표하는 기업으로 꼽히는 교세라가 세라믹과 반도체 부품을 핵심 축으로 삼아 우주와 핵융합 분야로 사업 영역을 넓히고 있다고 mk.co.kr이 전했다.",
+        "body": "교세라는 일본 교토를 대표하는 기업으로 거론되며, 세라믹과 반도체 부품을 중핵으로 우주·핵융합 영역 확대에 나서고 있다. mk.co.kr 보도에 따르면 일본인에게 교토를 대표하는 기업을 묻는다면 10명 중 6~7명은 교세라를 떠올릴 정도로 지역 정체성이 강하다. 회사명도 ‘교토 세라믹’의 줄임말로, 창업자는 ‘경영의 신’으로 불릴 만큼 상징성이 크다. 기존 핵심 소재·부품 역량이 첨단 산업으로 이어질지가 향후 관전점이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kyocera Uses Ceramics and Semiconductor Parts to Expand Into Space and Fusion",
+        "excerpt": "Kyocera, widely seen as a representative Kyoto company, is expanding toward space and nuclear fusion with ceramics and semiconductor parts at its core, mk.co.kr reported.",
+        "body": "Kyocera, often cited as a company that represents Kyoto, is moving to expand into the space and nuclear fusion fields with ceramics and semiconductor parts as its core. According to mk.co.kr, when Japanese people are asked to name a company that symbolizes Kyoto, six to seven out of ten think of Kyocera. The company name itself is an abbreviation of “Kyoto Ceramic,” showing its strong regional identity. Its founder is also described as a symbolic figure called a “god of management.” The key point ahead is whether its established materials and parts capabilities can extend into advanced industries. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "京セラ、セラミックと半導体部品を軸に宇宙・核融合分野へ拡大",
+        "excerpt": "京都を代表する企業とされる京セラが、セラミックと半導体部品を中核に、宇宙や核融合分野へ事業領域を広げているとmk.co.krが伝えた。",
+        "body": "京セラは日本の京都を代表する企業として挙げられ、セラミックと半導体部品を中核に宇宙・核融合領域の拡大に乗り出している。mk.co.krによると、日本人に京都を代表する企業を尋ねれば、10人中6〜7人は京セラを思い浮かべるほど地域のアイデンティティが強い。社名も「京都セラミック」の略語であり、創業者は「経営の神」と呼ばれる象徴的存在だ。既存の素材・部品力が先端産業へつながるかが今後の焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "京瓷以陶瓷和半导体零部件为核心，拓展航天与核聚变领域",
+        "excerpt": "据mk.co.kr报道，被视为京都代表企业的京瓷，正以陶瓷和半导体零部件为核心，扩大在航天和核聚变领域的业务布局。",
+        "body": "京瓷被认为是日本京都的代表性企业，正以陶瓷和半导体零部件为核心，推进向航天和核聚变领域的扩展。据mk.co.kr报道，如果询问日本人哪家公司最能代表京都，十人中有六到七人会想到京瓷，显示出其强烈的地域认同。公司名称本身就是“京都陶瓷”的缩写，创始人也被称为“经营之神”，具有鲜明象征意义。未来关注点在于，其既有材料和零部件能力能否延伸至尖端产业。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "Kyocera impulsa cerámica y piezas de semiconductores para crecer en espacio y fusión",
+        "excerpt": "Kyocera, considerada una empresa representativa de Kioto, amplía su alcance hacia el espacio y la fusión nuclear con cerámica y componentes de semiconductores, informó mk.co.kr.",
+        "body": "Kyocera, citada a menudo como una empresa que representa a Kioto, avanza en la expansión hacia los campos espacial y de fusión nuclear con la cerámica y las piezas de semiconductores como ejes centrales. Según mk.co.kr, si se pregunta a los japoneses por una compañía que simbolice Kioto, seis o siete de cada diez piensan en Kyocera. El propio nombre de la empresa es una abreviatura de “Kyoto Ceramic”, lo que refleja una fuerte identidad regional. Su fundador también es descrito como una figura simbólica llamada “dios de la gestión”. La atención se centra ahora en si sus capacidades en materiales y componentes podrán conectarse con industrias avanzadas. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kyocera aposta em cerâmica e semicondutores para avançar em espaço e fusão",
+        "excerpt": "A Kyocera, vista como uma empresa representativa de Kyoto, amplia atuação em espaço e fusão nuclear com cerâmica e peças de semicondutores como base, informou o mk.co.kr.",
+        "body": "A Kyocera, frequentemente citada como uma empresa que representa Kyoto, está avançando para ampliar sua atuação nos campos espacial e de fusão nuclear, tendo a cerâmica e as peças de semicondutores como núcleo. Segundo o mk.co.kr, quando japoneses são questionados sobre uma empresa que simboliza Kyoto, seis a sete em cada dez pensam na Kyocera. O próprio nome da companhia é uma abreviação de “Kyoto Ceramic”, mostrando forte identidade regional. Seu fundador também é descrito como uma figura simbólica chamada de “deus da gestão”. O ponto de atenção é se sua capacidade acumulada em materiais e componentes se conectará a indústrias avançadas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kyocera setzt auf Keramik und Halbleiterteile für Raumfahrt und Kernfusion",
+        "excerpt": "Kyocera, weithin als prägendes Unternehmen Kyotos gesehen, baut laut mk.co.kr mit Keramik und Halbleiterteilen als Kern seine Präsenz in Raumfahrt und Kernfusion aus.",
+        "body": "Kyocera gilt häufig als Unternehmen, das Kyoto repräsentiert, und treibt mit Keramik und Halbleiterteilen als Kern die Ausweitung in die Bereiche Raumfahrt und Kernfusion voran. Laut mk.co.kr denken sechs bis sieben von zehn Japanern an Kyocera, wenn sie nach einem Unternehmen gefragt werden, das Kyoto symbolisiert. Auch der Firmenname ist eine Abkürzung von “Kyoto Ceramic” und zeigt die starke regionale Identität. Der Gründer wird zudem als symbolische Figur beschrieben, die als “Gott des Managements” bezeichnet wird. Entscheidend wird sein, ob die vorhandenen Material- und Komponentenkompetenzen in fortgeschrittene Industrien hineinreichen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kyocera mise sur la céramique et les semi-conducteurs pour l’espace et la fusion",
+        "excerpt": "Kyocera, considérée comme une entreprise emblématique de Kyoto, étend ses activités vers l’espace et la fusion nucléaire autour de la céramique et des pièces pour semi-conducteurs, selon mk.co.kr.",
+        "body": "Kyocera, souvent citée comme une entreprise représentant Kyoto, cherche à élargir son champ d’activité vers l’espace et la fusion nucléaire en s’appuyant sur la céramique et les pièces pour semi-conducteurs. Selon mk.co.kr, lorsque l’on demande aux Japonais de nommer une entreprise symbolisant Kyoto, six à sept personnes sur dix pensent à Kyocera. Le nom même de l’entreprise est l’abréviation de “Kyoto Ceramic”, signe d’une forte identité régionale. Son fondateur est aussi décrit comme une figure symbolique appelée “dieu du management”. L’enjeu sera de voir si ses compétences existantes en matériaux et composants peuvent se prolonger dans les industries avancées. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "كيوسيرا توسع حضورها في الفضاء والاندماج عبر السيراميك وأجزاء الرقائق",
+        "excerpt": "أفاد mk.co.kr بأن كيوسيرا، المعروفة كشركة تمثل كيوتو، توسع مجالاتها نحو الفضاء والاندماج النووي بالاعتماد على السيراميك وأجزاء أشباه الموصلات.",
+        "body": "تُعد كيوسيرا من الشركات التي تمثل مدينة كيوتو في اليابان، وهي تتجه إلى توسيع نشاطها في مجالي الفضاء والاندماج النووي، مع جعل السيراميك وأجزاء أشباه الموصلات محور أعمالها. ووفقاً لما أورده mk.co.kr، فإن سؤال اليابانيين عن شركة تمثل كيوتو يدفع ستة إلى سبعة من كل عشرة إلى التفكير في كيوسيرا. كما أن اسم الشركة نفسه اختصار لعبارة “Kyoto Ceramic”، ما يعكس هوية محلية قوية. ويُوصف مؤسسها أيضاً بأنه شخصية رمزية تُدعى “إله الإدارة”. وتتركز المتابعة المقبلة على مدى قدرة خبراتها في المواد والمكونات على الامتداد إلى الصناعات المتقدمة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्योसेरा सिरेमिक और सेमीकंडक्टर पुर्जों से अंतरिक्ष व फ्यूजन क्षेत्र बढ़ा रही",
+        "excerpt": "mk.co.kr के अनुसार, क्योटो की प्रतिनिधि कंपनी मानी जाने वाली क्योसेरा सिरेमिक और सेमीकंडक्टर पुर्जों को आधार बनाकर अंतरिक्ष और परमाणु संलयन क्षेत्रों में विस्तार कर रही है।",
+        "body": "क्योसेरा को जापान के क्योटो का प्रतिनिधित्व करने वाली कंपनी के रूप में देखा जाता है और वह सिरेमिक तथा सेमीकंडक्टर पुर्जों को केंद्र में रखकर अंतरिक्ष और परमाणु संलयन क्षेत्रों में विस्तार कर रही है। mk.co.kr के अनुसार, यदि जापानी लोगों से क्योटो का प्रतीक मानी जाने वाली कंपनी पूछी जाए, तो दस में से छह से सात लोग क्योसेरा को याद करते हैं। कंपनी का नाम भी “Kyoto Ceramic” का संक्षेप है, जो उसकी मजबूत क्षेत्रीय पहचान दिखाता है। इसके संस्थापक को “प्रबंधन के देवता” कहे जाने वाली प्रतीकात्मक हस्ती बताया गया है। आगे ध्यान इस बात पर रहेगा कि सामग्री और पुर्जों की मौजूदा क्षमता उन्नत उद्योगों तक कैसे जुड़ती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kyocera Andalkan Keramik dan Komponen Semikonduktor untuk Ruang Angkasa serta Fusi",
+        "excerpt": "Kyocera, yang dipandang sebagai perusahaan representatif Kyoto, memperluas bisnis ke ruang angkasa dan fusi nuklir dengan keramik serta komponen semikonduktor sebagai inti, menurut mk.co.kr.",
+        "body": "Kyocera kerap disebut sebagai perusahaan yang mewakili Kyoto, Jepang, dan kini memperluas bidang usahanya ke ruang angkasa serta fusi nuklir dengan keramik dan komponen semikonduktor sebagai inti. Menurut mk.co.kr, ketika orang Jepang diminta menyebut perusahaan yang merepresentasikan Kyoto, enam hingga tujuh dari sepuluh orang akan memikirkan Kyocera. Nama perusahaan itu sendiri merupakan singkatan dari “Kyoto Ceramic”, yang menunjukkan identitas daerah yang kuat. Pendirinya juga digambarkan sebagai sosok simbolis yang disebut “dewa manajemen”. Fokus ke depan adalah apakah kemampuan material dan komponennya dapat tersambung ke industri maju. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "244d8acaed2b",
     "slug": "京都の代表企業-京セラ-製造業は終わらない-745829",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KOSPI Ditutup Rekor 7.981,41, Kian Dekat ke Level 8.000",
         "excerpt": "KOSPI naik 1,75% pada 14 Mei 2026 dan ditutup di 7.981,41, mencetak rekor penutupan dua hari beruntun berkat aksi beli investor ritel dan institusi.",
         "body": "KOSPI mengakhiri perdagangan 14 Mei 2026 di 7.981,41, naik 137,40 poin atau 1,75% dari sesi sebelumnya, sekaligus mencetak rekor penutupan tertinggi untuk hari kedua berturut-turut. Indeks sempat berbalik turun di tengah kekhawatiran inflasi Amerika Serikat, tetapi pembelian pada harga rendah mendorongnya kembali menguat. Di pasar utama, investor individu mencatat beli bersih 1,835 triliun won dan institusi 193 miliar won, sementara investor asing menjual bersih 2,144 triliun won. Samsung Electronics ditutup naik 4,23% ke 296.000 won, sedangkan SK Hynix turun 0,30% ke 1,97 juta won. KOSDAQ juga naik 1,20% ke 1.191,09. KB Securities menaikkan target KOSPI tahun ini menjadi 10.500. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "60cb8d89ede4",
-    "slug": "투자-대회-우승자가-찍었다8천피가-과열-오히려-줍줍찬스-kiw-2026-501222",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T20:46:04.533Z",
-    "updatedAt": "2026-05-14T20:46:04.533Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146840i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146840i",
-    "titleFingerprint": "44fb38da1fea0b04a1c8dd126cf405b681b502dc",
-    "dedupKeys": [
-      "60cb8d89ede42d308e94ca206ee96a1db829160e",
-      "44fb38da1fea0b04a1c8dd126cf405b681b502dc",
-      "81d8fa38c09752f5810f4bed774235ffb65f9fda"
-    ],
-    "imageUrl": "/images/articles/60cb8d89ede4.jpg",
-    "i18n": {
-      "ko": {
-        "title": "KIW 2026 투자대회 우승자 장재웅, ‘8천피 과열론’에 반도체 조정 매수론 제시",
-        "excerpt": "제3회 한경-타임폴리오 KIW 주식투자대회 우승자 장재웅 씨는 2026년 5월 14일 서울 신라호텔에서 실질 이익 성장과 주도주 조정 매수 전략을 강조했다.",
-        "body": "제3회 한경-타임폴리오 KIW 주식투자대회 우승자 장재웅 씨는 2026년 5월 14일 서울 중구 신라호텔에서 열린 KIW 2026 행사에서 향후 시장의 핵심 동력으로 ‘실질적인 이익 성장’을 제시했다. 그는 대회에서 시장 수익률을 30%포인트 웃돌며 1위에 올랐다. 장 씨는 상장사 영업이익 900조원 시대가 열리면 글로벌 투자은행들이 언급한 코스피 1만 포인트도 꿈의 숫자가 아니라고 말했다. AI 반도체 조정은 비중 확대 기회로 봤고, 로보틱스를 품은 현대차를 ‘원픽’으로 꼽았다. 바이오는 수급 쏠림으로 당분간 소외될 수 있다고 봤으며, 우승 비결로 대장주 장기 보유를 들었다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "KIW 2026 winner Jang Jae-woong says KOSPI heat is a chance to buy chip pullbacks",
-        "excerpt": "Jang Jae-woong, winner of the 3rd Hankyung-Timefolio KIW stock contest, said in Seoul on May 14, 2026 that real earnings growth and buying leading-stock pullbacks are key.",
-        "body": "Jang Jae-woong, winner of the 3rd Hankyung-Timefolio KIW Stock Investment Contest, spoke on May 14, 2026 at the KIW 2026 event at The Shilla Seoul in Jung-gu. He identified “real earnings growth” as the core driver for the market ahead. He won first place after outperforming the market return by 30 percentage points. Jang said that if listed companies enter an era of 900 trillion won in operating profit, the KOSPI 10,000 level mentioned by global investment banks would no longer be a dream number. He viewed AI semiconductor pullbacks as opportunities to raise exposure and named Hyundai Motor, with its robotics push, as his “one pick.” He said biotech could remain sidelined for now because of concentrated fund flows, and cited long-term holding of market leaders as his winning method. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "KIW 2026投資大会優勝者チャン・ジェウン氏、半導体調整は買い機会と指摘",
-        "excerpt": "第3回韓経・タイムフォリオKIW株式投資大会の優勝者チャン・ジェウン氏は2026年5月14日、ソウル新羅ホテルで実質的な利益成長と主導株の調整買いを強調した。",
-        "body": "第3回韓経・タイムフォリオKIW株式投資大会で優勝したチャン・ジェウン氏は、2026年5月14日にソウル中区の新羅ホテルで開かれたKIW 2026で、今後の市場を動かす中核要因として「実質的な利益成長」を挙げた。同氏は大会で市場収益率を30ポイント上回り、1位となった。上場企業の営業利益が900兆ウォンの時代に入れば、グローバル投資銀行が示したKOSPI1万ポイントも夢の数字ではないと述べた。AI半導体の調整は比率を高める機会と見ており、ロボティクスを取り込む現代自動車を「ワンピック」に選んだ。バイオは資金需給の偏りで当面取り残される可能性があるとし、優勝の秘訣には主導株の長期保有を挙げた。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "KIW 2026投资赛冠军张宰雄：半导体回调反是增持机会",
-        "excerpt": "第三届韩经-Timefolio KIW股票投资大赛冠军张宰雄于2026年5月14日在首尔新罗酒店表示，实际盈利增长和逢低买入龙头股是关键。",
-        "body": "第三届韩经-Timefolio KIW股票投资大赛冠军张宰雄于2026年5月14日在首尔中区新罗酒店举行的KIW 2026活动上表示，未来市场的核心动力是“实际盈利增长”。他在比赛中跑赢市场收益率30个百分点，获得第一名。张宰雄称，如果上市公司进入营业利润900万亿韩元时代，全球投行提到的KOSPI一万点将不再是梦想数字。他认为AI半导体回调反而是提高配置的机会，并把拥抱机器人业务的现代汽车列为“首选”。他还表示，生物科技板块可能因资金流向集中而暂时被冷落，自己的夺冠秘诀是长期持有龙头股。来源: hankyung.com."
-      },
-      "es": {
-        "title": "Ganador de KIW 2026 ve las caídas de semiconductores como oportunidad de compra",
-        "excerpt": "Jang Jae-woong, ganador del 3er concurso bursátil Hankyung-Timefolio KIW, dijo el 14 de mayo de 2026 en Seúl que el crecimiento real de beneficios y comprar líderes en corrección son claves.",
-        "body": "Jang Jae-woong, ganador del 3er Concurso de Inversión en Acciones Hankyung-Timefolio KIW, habló el 14 de mayo de 2026 en el evento KIW 2026 celebrado en el hotel Shilla de Jung-gu, Seúl. Señaló el “crecimiento real de beneficios” como motor central del mercado. Ganó el primer puesto tras superar la rentabilidad del mercado en 30 puntos porcentuales. Jang afirmó que, si las empresas cotizadas entran en una era de 900 billones de wones en beneficio operativo, el KOSPI en 10.000 puntos mencionado por bancos de inversión globales dejaría de ser un sueño. Vio las correcciones de semiconductores de IA como una oportunidad para elevar exposición y eligió a Hyundai Motor, con su apuesta por robótica, como su “favorita”. Dijo que biotecnología podría quedar rezagada por concentración de flujos y citó mantener líderes a largo plazo como clave de su victoria. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "Vencedor do KIW 2026 vê queda em chips de IA como chance de compra",
-        "excerpt": "Jang Jae-woong, vencedor do 3º concurso de ações Hankyung-Timefolio KIW, disse em 14 de maio de 2026, em Seul, que lucro real e compra de líderes em correção são centrais.",
-        "body": "Jang Jae-woong, vencedor do 3º Concurso de Investimento em Ações Hankyung-Timefolio KIW, falou em 14 de maio de 2026 no evento KIW 2026, no hotel Shilla, em Jung-gu, Seul. Ele apontou o “crescimento real dos lucros” como principal motor do mercado. Jang ficou em primeiro lugar ao superar o retorno do mercado em 30 pontos percentuais. Segundo ele, se as empresas listadas entrarem em uma era de 900 trilhões de won em lucro operacional, o KOSPI a 10.000 pontos citado por bancos de investimento globais deixará de ser apenas um sonho. Ele viu a correção dos semicondutores de IA como chance de aumentar exposição e escolheu a Hyundai Motor, com robótica, como sua “principal aposta”. Disse que biotecnologia pode seguir de lado por concentração de fluxos e citou manter líderes no longo prazo como segredo da vitória. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "KIW-2026-Sieger Jang sieht Chip-Rücksetzer als Kaufchance statt Überhitzung",
-        "excerpt": "Jang Jae-woong, Sieger des 3. Hankyung-Timefolio-KIW-Aktienwettbewerbs, sagte am 14. Mai 2026 in Seoul, reales Gewinnwachstum und Käufe bei führenden Aktien seien entscheidend.",
-        "body": "Jang Jae-woong, Sieger des 3. Hankyung-Timefolio KIW Stock Investment Contest, sprach am 14. Mai 2026 auf der KIW 2026 im Hotel Shilla in Jung-gu, Seoul. Als zentralen Markttreiber nannte er „reales Gewinnwachstum“. Er belegte den ersten Platz, nachdem er die Marktrendite um 30 Prozentpunkte übertroffen hatte. Jang sagte, wenn börsennotierte Unternehmen eine Ära von 900 Billionen Won operativem Gewinn erreichten, sei der von globalen Investmentbanken genannte KOSPI bei 10.000 Punkten keine Traumzahl mehr. Rücksetzer bei KI-Halbleitern sieht er als Chance, die Gewichtung zu erhöhen; Hyundai Motor mit Robotik nannte er seinen „One Pick“. Biotech könne wegen konzentrierter Kapitalflüsse vorerst außen vor bleiben. Als Erfolgsrezept nannte er das langfristige Halten von Marktführern. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Le lauréat KIW 2026 voit les replis des semi-conducteurs comme une occasion d’achat",
-        "excerpt": "Jang Jae-woong, gagnant du 3e concours boursier Hankyung-Timefolio KIW, a déclaré le 14 mai 2026 à Séoul que la croissance réelle des bénéfices et l’achat des leaders en repli étaient clés.",
-        "body": "Jang Jae-woong, gagnant du 3e concours d’investissement boursier Hankyung-Timefolio KIW, s’est exprimé le 14 mai 2026 lors de KIW 2026 à l’hôtel Shilla, dans le district de Jung-gu à Séoul. Il a désigné la “croissance réelle des bénéfices” comme moteur central du marché. Il a remporté la première place en dépassant le rendement du marché de 30 points de pourcentage. Selon lui, si les sociétés cotées entrent dans une ère de 900 billions de wons de bénéfice d’exploitation, le KOSPI à 10.000 points évoqué par des banques d’investissement mondiales ne sera plus un rêve. Il voit les replis des semi-conducteurs IA comme une occasion d’augmenter l’exposition et choisit Hyundai Motor, porté par la robotique, comme son “premier choix”. Il estime que la biotech pourrait rester à l’écart en raison de flux concentrés et cite la détention longue des leaders comme secret de sa victoire. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "فائز KIW 2026 يرى تراجع أشباه موصلات الذكاء الاصطناعي فرصة شراء",
-        "excerpt": "قال جانغ جاي وونغ، فائز مسابقة هانكيونغ-تايمفوليو KIW الثالثة للأسهم، في سيول يوم 14 مايو 2026 إن نمو الأرباح الحقيقي وشراء تراجعات الأسهم القيادية عاملان أساسيان.",
-        "body": "تحدث جانغ جاي وونغ، الفائز بمسابقة هانكيونغ-تايمفوليو KIW الثالثة للاستثمار في الأسهم، يوم 14 مايو 2026 في فعالية KIW 2026 بفندق شيلا في حي جونغ غو في سيول. واعتبر أن “نمو الأرباح الحقيقي” هو المحرك الأساسي للسوق في المرحلة المقبلة. وقد حل أولا في المسابقة بعدما تفوق على عائد السوق بـ30 نقطة مئوية. وقال جانغ إنه إذا دخلت الشركات المدرجة عصرا يبلغ فيه الربح التشغيلي 900 تريليون وون، فلن يكون وصول مؤشر كوسبي إلى 10 آلاف نقطة، كما ذكرت بنوك استثمار عالمية، رقما حالما. ورأى أن تراجع أشباه موصلات الذكاء الاصطناعي فرصة لزيادة الوزن، واختار هيونداي موتور، المدعومة بالروبوتات، كـ“خيار أول”. وأضاف أن قطاع التكنولوجيا الحيوية قد يبقى مهمشا مؤقتا بسبب تركز التدفقات، وأن سر فوزه هو الاحتفاظ طويل الأجل بالأسهم القيادية. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "KIW 2026 विजेता जांग जे-वूंग: AI चिप्स की गिरावट खरीद अवसर",
-        "excerpt": "तीसरी Hankyung-Timefolio KIW शेयर निवेश प्रतियोगिता के विजेता जांग जे-वूंग ने 14 मई 2026 को सियोल में कहा कि वास्तविक लाभ वृद्धि और अग्रणी शेयरों की गिरावट में खरीद अहम है।",
-        "body": "तीसरी Hankyung-Timefolio KIW शेयर निवेश प्रतियोगिता के विजेता जांग जे-वूंग ने 14 मई 2026 को सियोल के जंग-गु स्थित शिला होटल में KIW 2026 कार्यक्रम में बाजार की आगे की मुख्य ताकत के रूप में “वास्तविक लाभ वृद्धि” को बताया। उन्होंने प्रतियोगिता में बाजार रिटर्न से 30 प्रतिशत अंक अधिक प्रदर्शन कर पहला स्थान हासिल किया। जांग ने कहा कि यदि सूचीबद्ध कंपनियां 900 ट्रिलियन वॉन के परिचालन लाभ के दौर में प्रवेश करती हैं, तो वैश्विक निवेश बैंकों द्वारा बताए गए KOSPI 10,000 अंक अब सपना नहीं रहेंगे। उन्होंने AI सेमीकंडक्टर में गिरावट को वजन बढ़ाने का अवसर माना और रोबोटिक्स को अपनाने वाली Hyundai Motor को अपनी “वन पिक” बताया। उन्होंने कहा कि फंड फ्लो के झुकाव से बायोटेक कुछ समय उपेक्षित रह सकता है, और जीत का रहस्य अग्रणी शेयरों को लंबे समय तक रखना था। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "Juara KIW 2026 Jang Jae-woong: Koreksi chip AI adalah peluang beli",
-        "excerpt": "Jang Jae-woong, juara Kontes Investasi Saham Hankyung-Timefolio KIW ke-3, pada 14 Mei 2026 di Seoul menekankan pertumbuhan laba nyata dan pembelian saham pemimpin saat koreksi.",
-        "body": "Jang Jae-woong, juara Kontes Investasi Saham Hankyung-Timefolio KIW ke-3, berbicara pada 14 Mei 2026 dalam acara KIW 2026 di Hotel Shilla, Jung-gu, Seoul. Ia menyebut “pertumbuhan laba nyata” sebagai penggerak utama pasar ke depan. Jang meraih posisi pertama setelah mengungguli imbal hasil pasar sebesar 30 poin persentase. Ia mengatakan jika emiten memasuki era laba operasi 900 triliun won, level KOSPI 10.000 yang disebut bank investasi global tidak lagi menjadi angka impian. Ia memandang koreksi semikonduktor AI sebagai peluang untuk menambah porsi dan memilih Hyundai Motor, yang merangkul robotika, sebagai “pilihan utama”. Ia menilai biotek dapat tersisih sementara karena konsentrasi arus dana, dan menyebut kepemilikan jangka panjang atas saham pemimpin sebagai kunci kemenangan. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "5a72da71a500",
-    "slug": "삼전닉스-단일종목-레버리지-etf-14개-27일-출격-244745",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T20:44:44.713Z",
-    "updatedAt": "2026-05-14T20:44:44.713Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051469726",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051469726",
-    "titleFingerprint": "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
-    "dedupKeys": [
-      "5a72da71a50066a926935e5f487b575201cbaba8",
-      "b47b78ff59956d02b1d03aa6bd01808aa6a4345d",
-      "78e3f9f8005a9e367d9793a6b22ae54ba7006b41"
-    ],
-    "imageUrl": "/images/articles/5a72da71a500.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스 레버리지 ETF 14개, 27일 동시 출격",
-        "excerpt": "삼성전자와 SK하이닉스를 기초로 한 단일종목 레버리지 ETF 14개가 27일 출시된다. 반도체 대형주를 활용한 신규 ETF 상품 상장을 앞두고 투자자 관심이 집중된다.",
-        "body": "삼성전자와 SK하이닉스를 기초로 한 단일종목 레버리지 ETF 14개가 27일 시장에 나온다. 이번 상품은 국내 대표 반도체 대형주를 대상으로 한 레버리지형 상장지수펀드라는 점에서 관련 투자 수요와 맞물려 주목된다. 단일종목 ETF는 특정 종목의 움직임을 중심으로 설계되는 상품으로, 이번에는 삼성전자와 SK하이닉스가 핵심 기초자산으로 제시됐다. 출시 예정 규모는 총 14개이며, 상장 시점은 27일로 알려졌다. 투자자들은 개별 반도체 종목에 대한 방향성을 ETF 형태로 활용할 수 있게 된다. 출처: hankyung.com."
-      },
-      "en": {
-        "title": "Samsung Electronics, SK Hynix Leveraged Single-Stock ETFs Set for May 27 Launch",
-        "excerpt": "Fourteen leveraged single-stock ETFs based on Samsung Electronics and SK Hynix are set to launch on May 27, drawing attention to new ETF products tied to Korea’s major chip stocks.",
-        "body": "Fourteen leveraged single-stock ETFs based on Samsung Electronics and SK Hynix are scheduled to enter the market on May 27. The products are drawing attention because they are leveraged exchange-traded funds linked to Korea’s leading semiconductor stocks. A single-stock ETF is designed around the movement of a specific company’s shares, and in this case Samsung Electronics and SK Hynix are the key underlying assets. The planned lineup totals 14 ETFs, with the listing date reported as May 27. Investors will be able to use ETF products to express views on individual semiconductor names. Source: hankyung.com."
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックスのレバレッジETF14本、27日に登場",
-        "excerpt": "サムスン電子とSKハイニックスを対象にした単一銘柄レバレッジETF14本が27日に上場予定。韓国の主要半導体株に連動する新商品として関心を集めている。",
-        "body": "サムスン電子とSKハイニックスを基礎資産とする単一銘柄レバレッジETF14本が、27日に市場へ投入される予定だ。今回の商品は、韓国を代表する半導体大型株を対象にしたレバレッジ型上場投資信託である点が注目されている。単一銘柄ETFは特定企業の株価の動きを中心に設計される商品で、今回はサムスン電子とSKハイニックスが主要な基礎資産として示された。予定されている商品数は計14本で、上場日は27日と伝えられている。投資家は個別半導体株への見方をETF形式で活用できるようになる。出典: hankyung.com."
-      },
-      "zh": {
-        "title": "三星电子、SK海力士单一股票杠杆ETF 14只将于27日推出",
-        "excerpt": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF将于27日推出。围绕韩国大型半导体股的新ETF产品即将上市，受到投资者关注。",
-        "body": "以三星电子和SK海力士为基础资产的14只单一股票杠杆ETF计划于27日进入市场。此次产品因属于挂钩韩国代表性大型半导体股的杠杆型交易所交易基金而受到关注。单一股票ETF是围绕特定公司股价变动设计的产品，本次三星电子和SK海力士被列为核心基础资产。计划推出的产品共14只，上市时间据称为27日。投资者将能够通过ETF形式表达对个别半导体股票走势的看法。来源: hankyung.com."
-      },
-      "es": {
-        "title": "ETFs apalancados de Samsung Electronics y SK Hynix: 14 fondos llegan el día 27",
-        "excerpt": "Catorce ETFs apalancados de acción única basados en Samsung Electronics y SK Hynix se lanzarán el día 27, con foco en nuevos productos ligados a grandes valores coreanos de semiconductores.",
-        "body": "Catorce ETFs apalancados de acción única basados en Samsung Electronics y SK Hynix saldrán al mercado el día 27. Los productos llaman la atención porque son fondos cotizados apalancados vinculados a grandes compañías coreanas de semiconductores. Un ETF de acción única se diseña en torno al movimiento de una empresa concreta, y en este caso Samsung Electronics y SK Hynix figuran como los activos subyacentes clave. La línea prevista suma 14 ETFs y la fecha de cotización indicada es el día 27. Los inversores podrán utilizar estos ETFs para posicionarse sobre valores individuales del sector de semiconductores. Fuente: hankyung.com."
-      },
-      "pt": {
-        "title": "ETFs alavancados de Samsung Electronics e SK Hynix: 14 fundos chegam no dia 27",
-        "excerpt": "Catorze ETFs alavancados de ação única baseados em Samsung Electronics e SK Hynix serão lançados no dia 27, destacando novos produtos ligados às principais ações coreanas de chips.",
-        "body": "Catorze ETFs alavancados de ação única baseados em Samsung Electronics e SK Hynix devem chegar ao mercado no dia 27. Os produtos chamam atenção por serem fundos negociados em bolsa alavancados ligados a grandes empresas coreanas de semicondutores. Um ETF de ação única é estruturado em torno do movimento das ações de uma companhia específica, e neste caso Samsung Electronics e SK Hynix são os principais ativos subjacentes. A linha prevista soma 14 ETFs, com listagem informada para o dia 27. Investidores poderão usar esses ETFs para expressar visões sobre ações individuais de semicondutores. Fonte: hankyung.com."
-      },
-      "de": {
-        "title": "Samsung Electronics und SK Hynix: 14 gehebelte Single-Stock-ETFs starten am 27.",
-        "excerpt": "Vierzehn gehebelte Single-Stock-ETFs auf Samsung Electronics und SK Hynix sollen am 27. starten. Die neuen Produkte rücken Koreas große Halbleiterwerte in den Fokus der ETF-Anleger.",
-        "body": "Vierzehn gehebelte Single-Stock-ETFs auf Samsung Electronics und SK Hynix sollen am 27. an den Markt kommen. Die Produkte stehen im Fokus, weil sie gehebelte börsengehandelte Fonds auf führende koreanische Halbleiteraktien sind. Ein Single-Stock-ETF wird rund um die Kursbewegung eines bestimmten Unternehmens konzipiert; in diesem Fall bilden Samsung Electronics und SK Hynix die zentralen Basiswerte. Geplant sind insgesamt 14 ETFs, als Börsenstart wurde der 27. genannt. Anleger können damit Einschätzungen zu einzelnen Halbleiteraktien über ETF-Produkte umsetzen. Quelle: hankyung.com."
-      },
-      "fr": {
-        "title": "Samsung Electronics et SK Hynix: 14 ETF à levier sur actions uniques attendus le 27",
-        "excerpt": "Quatorze ETF à levier sur action unique liés à Samsung Electronics et SK Hynix doivent être lancés le 27, attirant l’attention sur de nouveaux produits adossés aux grandes valeurs coréennes des puces.",
-        "body": "Quatorze ETF à levier sur action unique, fondés sur Samsung Electronics et SK Hynix, doivent arriver sur le marché le 27. Ces produits retiennent l’attention car il s’agit de fonds cotés à effet de levier liés aux grandes valeurs coréennes des semi-conducteurs. Un ETF sur action unique est conçu autour de l’évolution du titre d’une société précise; ici, Samsung Electronics et SK Hynix constituent les principaux actifs sous-jacents. La gamme prévue compte 14 ETF, avec une cotation annoncée pour le 27. Les investisseurs pourront utiliser ces ETF pour exprimer une position sur des actions individuelles du secteur des semi-conducteurs. Source: hankyung.com."
-      },
-      "ar": {
-        "title": "14 صندوق ETF برافعة مالية لسامسونغ إلكترونيكس وSK هاينكس تنطلق في 27",
-        "excerpt": "من المقرر إطلاق 14 صندوق ETF برافعة مالية لسهم واحد تستند إلى سامسونغ إلكترونيكس وSK هاينكس في 27، مع تركيز المستثمرين على منتجات جديدة مرتبطة بأسهم الرقائق الكورية الكبرى.",
-        "body": "من المقرر أن تدخل السوق في 27 أربعة عشر صندوق ETF برافعة مالية لسهم واحد، تستند إلى سامسونغ إلكترونيكس وSK هاينكس. وتحظى هذه المنتجات بالاهتمام لأنها صناديق متداولة في البورصة برافعة مالية مرتبطة بشركات كورية كبرى في قطاع أشباه الموصلات. ويصمم صندوق السهم الواحد حول حركة سهم شركة محددة، وفي هذه الحالة تعد سامسونغ إلكترونيكس وSK هاينكس الأصلين الأساسيين الرئيسيين. ويبلغ عدد المنتجات المخطط لها 14 صندوقا، مع تحديد موعد الإدراج في 27. وسيتمكن المستثمرون من استخدام هذه الصناديق للتعبير عن رؤيتهم تجاه أسهم فردية في قطاع الرقائق. المصدر: hankyung.com."
-      },
-      "hi": {
-        "title": "Samsung Electronics और SK Hynix पर 14 leveraged single-stock ETF 27 को लॉन्च",
-        "excerpt": "Samsung Electronics और SK Hynix को आधार बनाकर 14 leveraged single-stock ETF 27 तारीख को लॉन्च होंगे। कोरिया के बड़े semiconductor शेयरों से जुड़े नए ETF उत्पाद निवेशकों का ध्यान खींच रहे हैं।",
-        "body": "Samsung Electronics और SK Hynix को आधार बनाकर 14 leveraged single-stock ETF 27 तारीख को बाजार में आने वाले हैं। ये उत्पाद इसलिए ध्यान में हैं क्योंकि ये कोरिया की प्रमुख semiconductor कंपनियों से जुड़े leveraged exchange-traded funds हैं। Single-stock ETF किसी खास कंपनी के शेयर की चाल को केंद्र में रखकर बनाया जाता है, और इस मामले में Samsung Electronics तथा SK Hynix प्रमुख underlying assets हैं। प्रस्तावित उत्पादों की संख्या कुल 14 है और listing की तारीख 27 बताई गई है। निवेशक ETF रूप में अलग-अलग semiconductor शेयरों पर अपनी दिशा संबंधी राय व्यक्त कर सकेंगे। स्रोत: hankyung.com."
-      },
-      "id": {
-        "title": "ETF Leverage Samsung Electronics dan SK Hynix: 14 Produk Meluncur pada 27",
-        "excerpt": "Empat belas ETF leverage saham tunggal berbasis Samsung Electronics dan SK Hynix akan diluncurkan pada 27, menyoroti produk baru yang terkait saham semikonduktor utama Korea.",
-        "body": "Empat belas ETF leverage saham tunggal berbasis Samsung Electronics dan SK Hynix dijadwalkan masuk pasar pada 27. Produk ini menarik perhatian karena merupakan reksa dana yang diperdagangkan di bursa dengan leverage dan terkait saham semikonduktor besar Korea. ETF saham tunggal dirancang mengikuti pergerakan saham perusahaan tertentu, dan dalam kasus ini Samsung Electronics serta SK Hynix menjadi aset dasar utama. Jumlah produk yang direncanakan mencapai 14 ETF, dengan tanggal pencatatan disebut pada 27. Investor dapat menggunakan produk ETF ini untuk mengambil pandangan atas saham semikonduktor individual. Sumber: hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "ae0fa323964e",
-    "slug": "내일의-kiw몸값-1조-딥엑스부터-지드래곤-소속사-ipo-무대-선다-462528",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T20:43:52.873Z",
-    "updatedAt": "2026-05-14T20:43:52.874Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146970i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146970i",
-    "titleFingerprint": "8c4f8c067c98f8650eadd4f00f16929f6e7e5d3b",
-    "dedupKeys": [
-      "ae0fa323964e47b89374f632ff76a635c8435ade",
-      "8c4f8c067c98f8650eadd4f00f16929f6e7e5d3b",
-      "f0f8bb23e7abc7e0bb9d1249a33c25429bd2a761"
-    ],
-    "imageUrl": "/images/articles/ae0fa323964e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "기업가치 1조 전망 딥엑스·지드래곤 소속사, KIW 2026서 IPO 청사진 공개",
-        "excerpt": "KIW 2026 마지막 날인 5월 15일 딥엑스, 갤럭시코퍼레이션, 해빗팩토리 등 비상장 혁신기업들이 IPO 전략과 성장 로드맵을 투자자 앞에서 공개한다.",
-        "body": "코리아 인베스트먼트 위크(KIW) 2026 마지막 날인 5월 15일, 국내 주요 비상장 혁신기업들이 기업공개(IPO) 청사진을 투자자들에게 공개한다. AI 반도체 스타트업 딥엑스와 지드래곤 소속사로 알려진 갤럭시코퍼레이션을 비롯해 해빗팩토리, 엘리스그룹, 엘박스, 삼홍아크튜리온, 에이로봇 등이 참여한다. 딥엑스는 온디바이스 AI 반도체와 초저전력 NPU 기술을 앞세우며, 시장에서는 상장 시 기업가치가 1조원을 넘어설 것으로 보고 있다. 갤럭시코퍼레이션은 미국 상장 계획과 해외 투자 유치 전략을 공개할 예정이다. hankyung.com에 따르면 이들 기업은 성장 전략과 상장 로드맵을 제시하며 AI, 엔터테인먼트, 핀테크, 리걸테크 분야 IPO 기대감을 높인다."
-      },
-      "en": {
-        "title": "DeepX, G-Dragon Agency to Reveal IPO Plans at KIW 2026 as Valuation Hopes Rise",
-        "excerpt": "On May 15, the final day of KIW 2026, unlisted innovators including DeepX, Galaxy Corporation and Habit Factory will present IPO strategies and growth roadmaps to investors.",
-        "body": "On May 15, the final day of Korea Investment Week (KIW) 2026, major unlisted Korean innovation companies will present their initial public offering plans to investors. Participants include AI chip startup DeepX, Galaxy Corporation, known as G-Dragon’s agency, as well as Habit Factory, Elice Group, LBox, Samhong Arcturion and A Robot. DeepX is pushing into on-device AI semiconductors with ultra-low-power NPU technology, and the market expects its valuation to exceed 1 trillion won if it lists. Galaxy Corporation is set to outline its U.S. listing plan and overseas fundraising strategy. According to hankyung.com, the companies will present growth strategies and listing roadmaps, drawing IPO attention across AI, entertainment, fintech and legal tech."
-      },
-      "ja": {
-        "title": "企業価値1兆ウォン期待のDeepXとG-DRAGON所属事務所、KIW 2026でIPO計画公開へ",
-        "excerpt": "KIW 2026最終日の5月15日、DeepX、ギャラクシーコーポレーション、ハビットファクトリーなど未上場革新企業がIPO戦略と成長ロードマップを投資家に示す。",
-        "body": "コリア・インベストメント・ウィーク（KIW）2026の最終日となる5月15日、韓国の主要な未上場革新企業が投資家に企業公開（IPO）の青写真を公開する。参加企業は、AI半導体スタートアップのDeepX、G-DRAGONの所属事務所として知られるギャラクシーコーポレーションのほか、ハビットファクトリー、Elice Group、LBox、Samhong Arcturion、A Robotなどだ。DeepXはオンデバイスAI半導体と超低消費電力NPU技術を前面に出しており、市場では上場時の企業価値が1兆ウォンを超えるとの見方がある。ギャラクシーコーポレーションは米国上場計画と海外投資誘致戦略を公開する予定。hankyung.comによると、各社は成長戦略と上場ロードマップを提示し、AI、エンタメ、フィンテック、リーガルテック分野のIPO期待を高める。"
-      },
-      "zh": {
-        "title": "估值有望破1万亿韩元，DeepX与权志龙经纪公司将在KIW 2026公布IPO蓝图",
-        "excerpt": "KIW 2026最后一天5月15日，DeepX、Galaxy Corporation、Habit Factory等未上市创新企业将向投资者展示IPO战略和增长路线图。",
-        "body": "韩国投资周（KIW）2026最后一天5月15日，韩国主要未上市创新企业将向投资者公布首次公开募股（IPO）蓝图。参会企业包括AI半导体初创公司DeepX、以权志龙经纪公司闻名的Galaxy Corporation，以及Habit Factory、Elice Group、LBox、Samhong Arcturion、A Robot等。DeepX主打端侧AI半导体和超低功耗NPU技术，市场认为其上市时企业价值可能超过1万亿韩元。Galaxy Corporation计划公布赴美上市方案和海外引资战略。据hankyung.com报道，这些企业将提出增长战略和上市路线图，提升市场对AI、娱乐、金融科技和法律科技领域IPO的关注。"
-      },
-      "es": {
-        "title": "DeepX y la agencia de G-Dragon presentarán sus planes de IPO en KIW 2026",
-        "excerpt": "El 15 de mayo, último día de KIW 2026, DeepX, Galaxy Corporation, Habit Factory y otras empresas innovadoras no cotizadas expondrán a inversores sus estrategias de IPO y crecimiento.",
-        "body": "El 15 de mayo, último día de Korea Investment Week (KIW) 2026, destacadas empresas innovadoras no cotizadas de Corea del Sur presentarán a inversores sus planes de oferta pública inicial (IPO). Participarán la startup de semiconductores de IA DeepX, Galaxy Corporation, conocida como la agencia de G-Dragon, además de Habit Factory, Elice Group, LBox, Samhong Arcturion y A Robot. DeepX impulsa semiconductores de IA en dispositivo con tecnología NPU de ultrabajo consumo, y el mercado prevé que su valoración supere 1 billón de wones si sale a bolsa. Galaxy Corporation expondrá su plan de cotización en Estados Unidos y su estrategia para captar inversión extranjera. Según hankyung.com, estas compañías presentarán estrategias de crecimiento y hojas de ruta de salida a bolsa, elevando el interés por IPO en IA, entretenimiento, fintech y legaltech."
-      },
-      "pt": {
-        "title": "DeepX e agência de G-Dragon vão apresentar planos de IPO na KIW 2026",
-        "excerpt": "Em 15 de maio, último dia da KIW 2026, DeepX, Galaxy Corporation, Habit Factory e outras empresas inovadoras não listadas apresentarão estratégias de IPO e crescimento a investidores.",
-        "body": "Em 15 de maio, último dia da Korea Investment Week (KIW) 2026, importantes empresas inovadoras não listadas da Coreia do Sul apresentarão a investidores seus planos de oferta pública inicial (IPO). Entre as participantes estão a startup de semicondutores de IA DeepX, a Galaxy Corporation, conhecida como agência de G-Dragon, além de Habit Factory, Elice Group, LBox, Samhong Arcturion e A Robot. A DeepX aposta em semicondutores de IA embarcada e tecnologia NPU de consumo ultrabaixo, e o mercado espera que sua avaliação supere 1 trilhão de won se for listada. A Galaxy Corporation deve revelar seu plano de listagem nos EUA e sua estratégia para captar investimento externo. Segundo o hankyung.com, as empresas apresentarão estratégias de crescimento e roteiros de listagem, aumentando o interesse por IPOs em IA, entretenimento, fintech e legaltech."
-      },
-      "de": {
-        "title": "DeepX und G-Dragon-Agentur legen IPO-Pläne auf der KIW 2026 vor",
-        "excerpt": "Am 15. Mai, dem letzten Tag der KIW 2026, stellen DeepX, Galaxy Corporation, Habit Factory und weitere nicht börsennotierte Innovationsfirmen Investoren ihre IPO-Strategien vor.",
-        "body": "Am 15. Mai, dem letzten Tag der Korea Investment Week (KIW) 2026, präsentieren führende nicht börsennotierte Innovationsunternehmen aus Südkorea Investoren ihre Pläne für einen Börsengang. Dazu zählen das KI-Chip-Startup DeepX, Galaxy Corporation, bekannt als Agentur von G-Dragon, sowie Habit Factory, Elice Group, LBox, Samhong Arcturion und A Robot. DeepX setzt auf On-Device-KI-Halbleiter und extrem stromsparende NPU-Technologie; der Markt erwartet bei einem Listing eine Bewertung von mehr als 1 Billion Won. Galaxy Corporation will Pläne für ein US-Listing und eine Strategie zur Gewinnung ausländischer Investoren vorstellen. Laut hankyung.com legen die Unternehmen Wachstumsstrategien und Listing-Roadmaps vor und erhöhen damit die Aufmerksamkeit für IPOs in KI, Unterhaltung, Fintech und Legaltech."
-      },
-      "fr": {
-        "title": "DeepX et l’agence de G-Dragon dévoileront leurs plans d’IPO à KIW 2026",
-        "excerpt": "Le 15 mai, dernier jour de KIW 2026, DeepX, Galaxy Corporation, Habit Factory et d’autres entreprises innovantes non cotées présenteront leurs stratégies d’IPO et de croissance aux investisseurs.",
-        "body": "Le 15 mai, dernier jour de Korea Investment Week (KIW) 2026, de grandes entreprises innovantes sud-coréennes non cotées présenteront aux investisseurs leur feuille de route d’introduction en Bourse. Parmi elles figurent la start-up de semi-conducteurs d’IA DeepX, Galaxy Corporation, connue comme l’agence de G-Dragon, ainsi que Habit Factory, Elice Group, LBox, Samhong Arcturion et A Robot. DeepX mise sur les semi-conducteurs d’IA embarquée et une technologie NPU à très faible consommation; le marché estime que sa valorisation pourrait dépasser 1 000 milliards de wons en cas de cotation. Galaxy Corporation doit exposer son projet de cotation aux États-Unis et sa stratégie de levée de fonds à l’étranger. Selon hankyung.com, ces sociétés présenteront stratégies de croissance et feuilles de route de cotation, renforçant l’intérêt pour les IPO dans l’IA, le divertissement, la fintech et la legaltech."
-      },
-      "ar": {
-        "title": "ديب إكس ووكالة جي دراغون تكشفان خطط الطرح العام في KIW 2026",
-        "excerpt": "في 15 مايو، اليوم الأخير من KIW 2026، تعرض شركات غير مدرجة مثل ديب إكس وغالاكسي كوربوريشن وهابيت فاكتوري استراتيجيات الطرح العام وخطط النمو أمام المستثمرين.",
-        "body": "في 15 مايو، اليوم الأخير من أسبوع كوريا للاستثمار KIW 2026، تعرض شركات ابتكار كورية غير مدرجة بارزة خططها للطرح العام الأولي أمام المستثمرين. وتشمل القائمة شركة ديب إكس الناشئة في أشباه موصلات الذكاء الاصطناعي، وغالاكسي كوربوريشن المعروفة بأنها وكالة جي دراغون، إلى جانب هابيت فاكتوري وإليس غروب وإل بوكس وسامهُنغ أركتوريون وإيه روبوت. تركز ديب إكس على أشباه موصلات الذكاء الاصطناعي على الجهاز وتقنية NPU فائقة الانخفاض في استهلاك الطاقة، ويتوقع السوق أن تتجاوز قيمتها تريليون وون عند الإدراج. ومن المقرر أن تكشف غالاكسي كوربوريشن خطة الإدراج في الولايات المتحدة واستراتيجية جذب الاستثمار الخارجي. ووفق hankyung.com، ستقدم هذه الشركات استراتيجيات النمو وخطط الإدراج، ما يعزز الاهتمام بطروحات الذكاء الاصطناعي والترفيه والتكنولوجيا المالية والتقنية القانونية."
-      },
-      "hi": {
-        "title": "DeepX और G-Dragon की एजेंसी KIW 2026 में IPO योजनाएं पेश करेंगी",
-        "excerpt": "KIW 2026 के अंतिम दिन 15 मई को DeepX, Galaxy Corporation, Habit Factory और अन्य गैर-सूचीबद्ध नवाचार कंपनियां निवेशकों के सामने IPO रणनीति और विकास रोडमैप रखेंगी।",
-        "body": "Korea Investment Week (KIW) 2026 के अंतिम दिन 15 मई को दक्षिण कोरिया की प्रमुख गैर-सूचीबद्ध नवाचार कंपनियां निवेशकों के सामने अपने प्रारंभिक सार्वजनिक निर्गम (IPO) की रूपरेखा पेश करेंगी। इनमें AI सेमीकंडक्टर स्टार्टअप DeepX, G-Dragon की एजेंसी के रूप में जानी जाने वाली Galaxy Corporation, साथ ही Habit Factory, Elice Group, LBox, Samhong Arcturion और A Robot शामिल हैं। DeepX ऑन-डिवाइस AI सेमीकंडक्टर और अल्ट्रा-लो-पावर NPU तकनीक पर जोर दे रही है, और बाजार को उम्मीद है कि सूचीबद्ध होने पर इसका मूल्यांकन 1 ट्रिलियन वॉन से ऊपर जा सकता है। Galaxy Corporation अमेरिकी लिस्टिंग योजना और विदेशी निवेश जुटाने की रणनीति बताएगी। hankyung.com के अनुसार, ये कंपनियां विकास रणनीति और लिस्टिंग रोडमैप पेश कर AI, मनोरंजन, फिनटेक और लीगलटेक क्षेत्रों में IPO उम्मीदों को बढ़ाएंगी।"
-      },
-      "id": {
-        "title": "DeepX dan Agensi G-Dragon Akan Paparkan Rencana IPO di KIW 2026",
-        "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation, Habit Factory, dan perusahaan inovatif nonpublik lain akan memaparkan strategi IPO dan peta jalan pertumbuhan kepada investor.",
-        "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, sejumlah perusahaan inovatif nonpublik utama Korea Selatan akan memaparkan cetak biru penawaran saham perdana (IPO) kepada investor. Pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation yang dikenal sebagai agensi G-Dragon, serta Habit Factory, Elice Group, LBox, Samhong Arcturion, dan A Robot. DeepX mengandalkan semikonduktor AI on-device dan teknologi NPU berdaya sangat rendah, sementara pasar memperkirakan valuasinya dapat melampaui 1 triliun won jika melantai di bursa. Galaxy Corporation akan mengungkap rencana pencatatan di Amerika Serikat dan strategi menarik investasi luar negeri. Menurut hankyung.com, perusahaan-perusahaan ini akan menyampaikan strategi pertumbuhan dan peta jalan pencatatan, sehingga meningkatkan perhatian pada IPO di sektor AI, hiburan, fintech, dan legaltech."
       }
     }
   }
