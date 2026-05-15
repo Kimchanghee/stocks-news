@@ -1,5 +1,230 @@
 [
   {
+    "id": "6cae60349f6a",
+    "slug": "바이낸스-cso-코인-프로젝트-지속적-보안감사-필요-매일코인-370611",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T04:44:09.794Z",
+    "updatedAt": "2026-05-15T04:44:09.794Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048997",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048997",
+    "titleFingerprint": "37cd1b143a10bf76dca4af44a1411464874e0c98",
+    "dedupKeys": [
+      "6cae60349f6a61f159ad42701c924e425e989ea4",
+      "37cd1b143a10bf76dca4af44a1411464874e0c98",
+      "47b53b8068b6a233a40978660e1ecc6074980342"
+    ],
+    "imageUrl": "/images/articles/6cae60349f6a.png",
+    "i18n": {
+      "ko": {
+        "title": "바이낸스 CSO, 코인 프로젝트에 지속 보안감사 필요성 강조",
+        "excerpt": "지미 수 바이낸스 최고보안책임자는 5월 5~7일 미국에서 코인 프로젝트 보안은 일회성 점검이 아니라 지속 감시와 업데이트로 지켜야 한다고 밝혔다.",
+        "body": "지미 수(Jimmy Su) 바이낸스 최고보안책임자(CSO)는 5월 5~7일 미국에서 코인 프로젝트가 지속적인 보안감사를 유지해야 한다고 강조했다. 그는 “보안은 문을 한 번 잠그는 것이 아니라 지속적으로 감시하고 업데이트해야 지킬 수 있다”고 말했다. 이번 발언은 코인 프로젝트의 보안 관리가 출시 전 점검이나 단발성 감사에 그쳐서는 안 된다는 메시지로 읽힌다. 원문에 구체적인 수치나 추가 사례는 제시되지 않았지만, 지미 수는 지속 감시와 업데이트를 핵심 조건으로 제시했다. 이에 따라 프로젝트 운영 주체에는 보안 점검 체계와 사후 대응 역량을 꾸준히 관리해야 한다는 부담이 커질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Binance CSO Says Crypto Projects Need Ongoing Security Audits",
+        "excerpt": "Binance Chief Security Officer Jimmy Su said during a May 5-7 U.S. event that crypto project security requires continuous monitoring and updates, not a one-time check.",
+        "body": "Binance Chief Security Officer Jimmy Su said during a May 5-7 event in the United States that crypto projects must maintain ongoing security audits. “Security is not protected by locking the door once; it must be continuously monitored and updated,” he said. The comment underscores that security management for coin projects should not stop at a pre-launch review or a single audit. The original report did not provide specific figures or additional cases, but Su identified continuous monitoring and updates as key conditions. As a result, project operators may face greater pressure to maintain security review systems and post-incident response capabilities. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "バイナンスCSO、コインプロジェクトに継続的な監査を要求",
+        "excerpt": "バイナンスのジミー・スー最高セキュリティ責任者は、5月5～7日に米国で、コイン事業の安全確保には継続監視と更新が必要だと述べた。",
+        "body": "バイナンスのジミー・スー最高セキュリティ責任者（CSO）は、5月5～7日に米国で、コインプロジェクトは継続的なセキュリティ監査を維持すべきだと強調した。スー氏は「セキュリティは一度ドアに鍵を掛ければ守れるものではなく、継続的に監視し更新してこそ守れる」と述べた。この発言は、コインプロジェクトの安全管理が公開前の点検や単発の監査で終わってはならないというメッセージと受け止められる。原文には具体的な数値や追加事例は示されていないが、同氏は継続監視と更新を重要条件に挙げた。出典：mk.co.kr"
+      },
+      "zh": {
+        "title": "币安CSO强调加密项目需持续安全审计与更新",
+        "excerpt": "币安首席安全官Jimmy Su在5月5日至7日美国活动中表示，加密项目安全不能只靠一次检查，而要持续监控和更新。",
+        "body": "币安首席安全官（CSO）Jimmy Su在5月5日至7日美国活动中强调，加密货币项目需要保持持续性的安全审计。他表示，安全并不是“把门锁一次”就能守住，而是必须持续监控并不断更新。这一说法显示，币种项目的安全管理不应停留在上线前检查或一次性审计。原文未提供具体数据或更多案例，但Jimmy Su将持续监控和更新列为核心条件。由此看，项目运营方可能需要持续维护安全检查机制和事后应对能力。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "CSO de Binance exige auditorías continuas para proyectos cripto",
+        "excerpt": "Jimmy Su, jefe de seguridad de Binance, dijo entre el 5 y el 7 de mayo en EE. UU. que la seguridad cripto requiere vigilancia y actualizaciones constantes.",
+        "body": "Jimmy Su, director de seguridad de Binance, afirmó entre el 5 y el 7 de mayo en Estados Unidos que los proyectos de monedas deben mantener auditorías de seguridad continuas. Según dijo, la seguridad no se protege cerrando la puerta una sola vez, sino mediante vigilancia y actualizaciones constantes. Su declaración apunta a que la gestión de seguridad de los proyectos cripto no debe limitarse a una revisión previa al lanzamiento ni a una auditoría puntual. El texto original no incluyó cifras concretas ni casos adicionales, pero Su señaló la supervisión continua y las actualizaciones como condiciones centrales. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "CSO da Binance defende auditoria contínua em projetos cripto",
+        "excerpt": "Jimmy Su, chefe de segurança da Binance, disse entre 5 e 7 de maio nos EUA que projetos cripto precisam de monitoramento e atualizações constantes.",
+        "body": "Jimmy Su, diretor de segurança da Binance, afirmou entre 5 e 7 de maio nos Estados Unidos que projetos de moedas digitais precisam manter auditorias de segurança contínuas. Segundo ele, a segurança não é preservada ao trancar a porta uma única vez, mas por meio de monitoramento e atualizações constantes. A declaração indica que a gestão de segurança desses projetos não deve se limitar a uma verificação antes do lançamento ou a uma auditoria isolada. O texto original não apresentou números específicos nem casos adicionais, mas Su apontou monitoramento contínuo e atualização como condições essenciais. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Binance-CSO fordert laufende Sicherheitsaudits für Coin-Projekte",
+        "excerpt": "Binance-Sicherheitschef Jimmy Su sagte vom 5. bis 7. Mai in den USA, Coin-Projekte müssten Sicherheit laufend überwachen und aktualisieren.",
+        "body": "Jimmy Su, Chief Security Officer von Binance, betonte bei einem Termin vom 5. bis 7. Mai in den USA, dass Coin-Projekte fortlaufende Sicherheitsaudits beibehalten müssen. Sicherheit werde nicht dadurch gewährleistet, dass man eine Tür einmal abschließe; sie müsse dauerhaft überwacht und aktualisiert werden, sagte er. Die Aussage macht deutlich, dass Sicherheitsmanagement bei Coin-Projekten nicht bei einer Prüfung vor dem Start oder einem einmaligen Audit enden sollte. Der Originalbericht nannte keine konkreten Zahlen oder weiteren Beispiele, doch Su stellte kontinuierliche Überwachung und Updates als zentrale Bedingungen heraus. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le CSO de Binance appelle à des audits continus des projets crypto",
+        "excerpt": "Jimmy Su, responsable sécurité de Binance, a déclaré du 5 au 7 mai aux États-Unis que la sécurité crypto exige surveillance et mises à jour continues.",
+        "body": "Jimmy Su, directeur de la sécurité de Binance, a souligné du 5 au 7 mai aux États-Unis que les projets de cryptomonnaies doivent maintenir des audits de sécurité continus. Selon lui, la sécurité ne consiste pas à verrouiller une porte une seule fois; elle doit être surveillée et mise à jour en permanence. Cette déclaration signifie que la gestion de la sécurité des projets de coins ne doit pas s’arrêter à un contrôle avant lancement ou à un audit ponctuel. Le texte original ne fournit pas de chiffres précis ni de cas supplémentaires, mais Su présente la surveillance continue et les mises à jour comme des conditions clés. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "مسؤول أمن بينانس يؤكد حاجة مشاريع العملات إلى تدقيق مستمر",
+        "excerpt": "قال جيمي سو، كبير مسؤولي الأمن في بينانس، خلال 5-7 مايو في الولايات المتحدة إن أمن مشاريع العملات يتطلب مراقبة وتحديثات مستمرة لا فحصا لمرة واحدة.",
+        "body": "أكد جيمي سو، كبير مسؤولي الأمن في بينانس، خلال الفترة من 5 إلى 7 مايو في الولايات المتحدة أن مشاريع العملات الرقمية تحتاج إلى الحفاظ على تدقيق أمني مستمر. وقال إن الأمن لا يتحقق بإغلاق الباب مرة واحدة، بل بالمراقبة والتحديث على نحو متواصل. وتشير هذه التصريحات إلى أن إدارة الأمن في مشاريع العملات يجب ألا تقتصر على فحص ما قبل الإطلاق أو تدقيق منفرد. ولم يورد النص الأصلي أرقاما محددة أو أمثلة إضافية، لكنه نقل عن سو أن المراقبة المستمرة والتحديثات شرطان أساسيان. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Binance CSO ने क्रिप्टो प्रोजेक्ट्स के लिए लगातार सुरक्षा ऑडिट पर जोर दिया",
+        "excerpt": "Binance के CSO Jimmy Su ने 5-7 मई को अमेरिका में कहा कि कॉइन प्रोजेक्ट्स की सुरक्षा एक बार की जांच नहीं, बल्कि लगातार निगरानी और अपडेट से बनी रहती है।",
+        "body": "Binance के मुख्य सुरक्षा अधिकारी Jimmy Su ने 5 से 7 मई तक अमेरिका में कहा कि कॉइन प्रोजेक्ट्स को लगातार सुरक्षा ऑडिट बनाए रखने की जरूरत है। उन्होंने कहा कि सुरक्षा दरवाजा एक बार बंद करने से नहीं बचती, बल्कि लगातार निगरानी और अपडेट से सुरक्षित रहती है। यह बयान बताता है कि कॉइन प्रोजेक्ट्स की सुरक्षा व्यवस्था लॉन्च से पहले की जांच या एकमुश्त ऑडिट तक सीमित नहीं होनी चाहिए। मूल रिपोर्ट में कोई विशेष आंकड़ा या अतिरिक्त उदाहरण नहीं दिया गया, लेकिन Su ने निरंतर निगरानी और अपडेट को मुख्य शर्त बताया। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "CSO Binance Tekankan Audit Keamanan Berkelanjutan untuk Proyek Koin",
+        "excerpt": "Jimmy Su, CSO Binance, mengatakan pada 5-7 Mei di AS bahwa keamanan proyek koin harus dijaga lewat pemantauan dan pembaruan berkelanjutan.",
+        "body": "Jimmy Su, Chief Security Officer Binance, menegaskan pada 5-7 Mei di Amerika Serikat bahwa proyek koin perlu mempertahankan audit keamanan secara berkelanjutan. Ia mengatakan keamanan bukan sekadar mengunci pintu sekali, melainkan harus dijaga melalui pemantauan dan pembaruan terus-menerus. Pernyataan ini menunjukkan bahwa pengelolaan keamanan proyek koin tidak boleh berhenti pada pemeriksaan sebelum peluncuran atau audit satu kali. Laporan asli tidak memuat angka tertentu atau contoh tambahan, tetapi Su menempatkan pemantauan berkelanjutan dan pembaruan sebagai syarat utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "dbf224c77c9e",
+    "slug": "속보-하락전환-코스피-급락에-매도-사이드카-발동-943781",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T04:43:12.936Z",
+    "updatedAt": "2026-05-15T04:43:12.936Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049036",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049036",
+    "titleFingerprint": "e8b3d39994ed302fa43a8682b0923006f866c114",
+    "dedupKeys": [
+      "dbf224c77c9e9644dc3c1d3b6597d2b1213a2015",
+      "e8b3d39994ed302fa43a8682b0923006f866c114",
+      "ec5173ef030caa305fe187e23e82a82186fe53aa"
+    ],
+    "imageUrl": "/images/articles/dbf224c77c9e.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 하락전환 후 급락, 매도 사이드카 발동…매일경제 속보로 전한 증시 변동성",
+        "excerpt": "매일경제는 속보를 통해 코스피가 하락 전환한 뒤 급락하면서 매도 사이드카가 발동됐다고 전했다. 국내 증시 변동성 확대와 매도 압력에 시장 관심이 쏠린다.",
+        "body": "매일경제(mk.co.kr)는 속보에서 코스피가 하락 전환한 뒤 급락했고, 이에 따라 매도 사이드카가 발동됐다고 전했다. 이번 보도는 국내 주식시장에서 지수가 하락세로 돌아선 뒤 낙폭이 커진 상황을 핵심으로 담고 있다. 매도 사이드카 발동은 급격한 시장 움직임 속에서 매도 압력이 커졌음을 보여주는 신호로 받아들여진다. 다만 원문 요약에는 구체적인 발동 시각, 코스피 낙폭, 관련 선물 가격 변동률 등 세부 수치는 제시되지 않았다. 투자자들은 향후 지수 흐름과 추가 변동성 확대 여부를 주시할 필요가 있다. 출처: mk.co.kr은 “[속보] ‘하락전환’ 코스피, 급락에 매도 사이드카 발동”이라고 보도했다."
+      },
+      "en": {
+        "title": "KOSPI Turns Lower and Plunges, Sell Sidecar Triggered in Breaking Market Move",
+        "excerpt": "Maeil Business reported that the KOSPI turned lower and dropped sharply, triggering a sell sidecar. Market attention is focused on rising volatility and selling pressure in Korean stocks.",
+        "body": "Maeil Business, via mk.co.kr, reported in a breaking alert that the KOSPI turned lower, fell sharply, and triggered a sell sidecar. The report focuses on a domestic stock market move in which the index shifted into negative territory and then extended its decline. The sell sidecar is being viewed as a signal that selling pressure increased amid rapid market movement. However, the original summary did not provide specific details such as the trigger time, the size of the KOSPI decline, or related futures price changes. Investors are likely to monitor the index’s next moves and whether volatility expands further. Source: mk.co.kr reported, “[Breaking] ‘Turned lower’ KOSPI triggers sell sidecar amid sharp drop.”"
+      },
+      "ja": {
+        "title": "KOSPIが下落転換後に急落、売りサイドカー発動と毎日経済が速報",
+        "excerpt": "毎日経済は速報で、KOSPIが下落に転じた後に急落し、売りサイドカーが発動されたと伝えた。韓国株市場の変動性拡大と売り圧力に関心が集まる。",
+        "body": "毎日経済（mk.co.kr）は速報で、KOSPIが下落に転じた後に急落し、これにより売りサイドカーが発動されたと伝えた。今回の報道は、韓国株式市場で指数が下落基調に転じた後、下げ幅を広げた状況を中心に伝えている。売りサイドカーの発動は、急激な市場変動の中で売り圧力が強まったことを示すシグナルと受け止められる。ただし原文の要約には、具体的な発動時刻、KOSPIの下落幅、関連する先物価格の変動率などの詳細数値は示されていない。投資家は今後の指数動向と追加的な変動性拡大の有無を注視する必要がある。出典：mk.co.krは「［速報］『下落転換』KOSPI、急落で売りサイドカー発動」と報じた。"
+      },
+      "zh": {
+        "title": "KOSPI转跌后急挫触发卖出Sidecar，韩媒快讯聚焦市场波动",
+        "excerpt": "《每日经济》快讯称，KOSPI转为下跌后急挫，并触发卖出Sidecar。韩国股市波动扩大与卖压升高，成为市场关注焦点。",
+        "body": "《每日经济》（mk.co.kr）在快讯中报道称，KOSPI转为下跌后出现急挫，并因此触发卖出Sidecar。该报道的核心是韩国股市指数由下跌转换后跌幅扩大。卖出Sidecar的触发被视为在市场快速波动中卖出压力加大的信号。不过，原文摘要未提供具体触发时间、KOSPI跌幅以及相关期货价格变动率等详细数据。投资者需继续关注指数后续走势，以及市场波动是否进一步扩大。来源：mk.co.kr报道称，“[快讯] ‘转跌’KOSPI因急挫触发卖出Sidecar”。"
+      },
+      "es": {
+        "title": "KOSPI gira a la baja y se desploma, activando sidecar de venta según alerta",
+        "excerpt": "Maeil Business informó en una alerta que el KOSPI giró a la baja y cayó con fuerza, activando un sidecar de venta. La atención se centra en la volatilidad y la presión vendedora en Corea.",
+        "body": "Maeil Business, a través de mk.co.kr, informó en una alerta que el KOSPI giró a la baja, cayó con fuerza y activó un sidecar de venta. La nota se centra en un movimiento del mercado bursátil surcoreano en el que el índice pasó a terreno negativo y amplió su descenso. La activación del sidecar de venta se interpreta como una señal de mayor presión vendedora en medio de un movimiento rápido del mercado. Sin embargo, el resumen original no incluyó datos concretos como la hora de activación, la magnitud de la caída del KOSPI o variaciones de precios de futuros relacionados. Los inversores seguirán atentos a la evolución del índice y a una posible ampliación de la volatilidad. Fuente: mk.co.kr informó: “[Última hora] KOSPI ‘gira a la baja’ y activa sidecar de venta por fuerte caída”."
+      },
+      "pt": {
+        "title": "KOSPI vira para queda e despenca, acionando sidecar de venda em alerta",
+        "excerpt": "O Maeil Business informou em alerta que o KOSPI virou para queda e recuou fortemente, acionando um sidecar de venda. O foco do mercado está na volatilidade e na pressão vendedora na Coreia.",
+        "body": "O Maeil Business, por meio do mk.co.kr, informou em alerta que o KOSPI virou para queda, recuou fortemente e acionou um sidecar de venda. A notícia destaca um movimento no mercado acionário sul-coreano em que o índice passou para território negativo e ampliou as perdas. O acionamento do sidecar de venda é visto como sinal de maior pressão vendedora em meio a uma movimentação rápida do mercado. No entanto, o resumo original não trouxe detalhes como horário de acionamento, tamanho da queda do KOSPI ou variações de preços de futuros relacionados. Investidores devem acompanhar os próximos movimentos do índice e a possibilidade de nova ampliação da volatilidade. Fonte: mk.co.kr informou: “[Urgente] KOSPI ‘vira para queda’ e aciona sidecar de venda após forte recuo”."
+      },
+      "de": {
+        "title": "KOSPI dreht ins Minus und stürzt ab, Verkaufs-Sidecar laut Eilmeldung ausgelöst",
+        "excerpt": "Maeil Business meldete, dass der KOSPI ins Minus drehte und stark fiel, wodurch ein Verkaufs-Sidecar ausgelöst wurde. Im Fokus stehen höhere Volatilität und Verkaufsdruck am koreanischen Aktienmarkt.",
+        "body": "Maeil Business berichtete über mk.co.kr in einer Eilmeldung, dass der KOSPI ins Minus drehte, stark fiel und ein Verkaufs-Sidecar ausgelöst wurde. Der Bericht konzentriert sich auf eine Bewegung am südkoreanischen Aktienmarkt, bei der der Index in negatives Terrain wechselte und seine Verluste ausweitete. Die Auslösung des Verkaufs-Sidecars wird als Signal für zunehmenden Verkaufsdruck während einer raschen Marktbewegung gesehen. Die ursprüngliche Zusammenfassung nannte jedoch keine konkreten Details wie den Zeitpunkt der Auslösung, das Ausmaß des KOSPI-Rückgangs oder Veränderungen zugehöriger Futures-Preise. Anleger dürften die weitere Indexentwicklung und eine mögliche Ausweitung der Volatilität beobachten. Quelle: mk.co.kr berichtete: „[Eilmeldung] ‘Ins Minus gedrehter’ KOSPI löst bei starkem Rückgang Verkaufs-Sidecar aus.“"
+      },
+      "fr": {
+        "title": "Le KOSPI bascule en baisse et chute, déclenchant un sidecar de vente",
+        "excerpt": "Maeil Business a rapporté en alerte que le KOSPI avait basculé en baisse avant de chuter fortement, déclenchant un sidecar de vente. Le marché surveille la volatilité et la pression vendeuse en Corée.",
+        "body": "Maeil Business, via mk.co.kr, a rapporté dans une alerte que le KOSPI avait basculé en baisse, chuté fortement et déclenché un sidecar de vente. L’information porte sur un mouvement du marché actions sud-coréen dans lequel l’indice est passé en territoire négatif avant d’accentuer son recul. Le déclenchement du sidecar de vente est perçu comme un signal d’une pression vendeuse accrue dans un contexte de mouvement rapide du marché. Toutefois, le résumé original ne fournit pas de détails précis comme l’heure du déclenchement, l’ampleur de la baisse du KOSPI ou les variations des contrats à terme liés. Les investisseurs devraient suivre l’évolution de l’indice et le risque d’une nouvelle hausse de la volatilité. Source : mk.co.kr a rapporté : « [Alerte] Le KOSPI ‘bascule en baisse’ et déclenche un sidecar de vente après une forte chute. »"
+      },
+      "ar": {
+        "title": "كوسبي يتحول للهبوط ويتراجع بقوة مع تفعيل سايدكار البيع وفق تنبيه عاجل",
+        "excerpt": "ذكرت صحيفة ماييل بيزنس في تنبيه عاجل أن مؤشر كوسبي تحول إلى الهبوط ثم تراجع بقوة، ما أدى إلى تفعيل سايدكار البيع وسط اهتمام بتقلبات السوق وضغوط البيع في كوريا.",
+        "body": "أفادت صحيفة ماييل بيزنس عبر mk.co.kr في تنبيه عاجل بأن مؤشر كوسبي تحول إلى الهبوط، ثم تراجع بقوة، ما أدى إلى تفعيل سايدكار البيع. يركز التقرير على حركة في سوق الأسهم الكورية الجنوبية انتقل فيها المؤشر إلى المنطقة السلبية ثم وسع خسائره. ويُنظر إلى تفعيل سايدكار البيع على أنه إشارة إلى زيادة ضغوط البيع وسط حركة سريعة في السوق. ومع ذلك، لم يورد الملخص الأصلي تفاصيل محددة مثل وقت التفعيل أو حجم تراجع كوسبي أو تغيرات أسعار العقود الآجلة ذات الصلة. ومن المرجح أن يراقب المستثمرون مسار المؤشر وما إذا كانت التقلبات ستتسع أكثر. المصدر: ذكرت mk.co.kr: «[عاجل] كوسبي ‘يتحول للهبوط’ ويفعل سايدكار البيع بعد تراجع حاد»."
+      },
+      "hi": {
+        "title": "KOSPI गिरावट में बदला और तेज टूटा, सेल साइडकार सक्रिय होने की ब्रेकिंग खबर",
+        "excerpt": "Maeil Business ने ब्रेकिंग खबर में बताया कि KOSPI गिरावट में बदलने के बाद तेजी से टूटा और सेल साइडकार सक्रिय हुआ। कोरियाई शेयर बाजार में अस्थिरता और बिकवाली दबाव पर ध्यान है।",
+        "body": "Maeil Business ने mk.co.kr के जरिए ब्रेकिंग खबर में बताया कि KOSPI गिरावट में बदला, तेज गिरा और इसके चलते सेल साइडकार सक्रिय हुआ। रिपोर्ट का मुख्य बिंदु यह है कि दक्षिण कोरियाई शेयर बाजार में सूचकांक नकारात्मक क्षेत्र में जाने के बाद और नीचे गया। सेल साइडकार सक्रिय होना तेज बाजार चाल के दौरान बिकवाली दबाव बढ़ने का संकेत माना जा रहा है। हालांकि मूल सारांश में सक्रिय होने का सटीक समय, KOSPI की गिरावट का आकार या संबंधित फ्यूचर्स कीमतों में बदलाव जैसे विस्तृत आंकड़े नहीं दिए गए। निवेशक आगे सूचकांक की दिशा और अस्थिरता के और बढ़ने की संभावना पर नजर रखेंगे। स्रोत: mk.co.kr ने बताया, “[ब्रेकिंग] ‘गिरावट में बदला’ KOSPI तेज गिरावट पर सेल साइडकार सक्रिय।”"
+      },
+      "id": {
+        "title": "KOSPI Berbalik Turun dan Anjlok, Sidecar Jual Terpicu dalam Kabar Kilat",
+        "excerpt": "Maeil Business melaporkan dalam kabar kilat bahwa KOSPI berbalik turun lalu anjlok, memicu sidecar jual. Perhatian pasar tertuju pada volatilitas dan tekanan jual di saham Korea.",
+        "body": "Maeil Business melalui mk.co.kr melaporkan dalam kabar kilat bahwa KOSPI berbalik turun, anjlok, dan memicu sidecar jual. Laporan ini menyoroti pergerakan pasar saham Korea Selatan ketika indeks masuk ke zona negatif lalu memperbesar penurunannya. Pemicu sidecar jual dipandang sebagai sinyal meningkatnya tekanan jual di tengah pergerakan pasar yang cepat. Namun, ringkasan asli tidak memuat rincian seperti waktu pemicu, besaran penurunan KOSPI, atau perubahan harga futures terkait. Investor kemungkinan akan memantau arah indeks berikutnya dan apakah volatilitas bertambah besar. Sumber: mk.co.kr melaporkan, “[Kabar kilat] KOSPI ‘berbalik turun’, sidecar jual terpicu akibat penurunan tajam.”"
+      }
+    }
+  },
+  {
+    "id": "ed0b81089137",
+    "slug": "단독-롯데그룹-뉴욕팰리스호텔-부지-인수자금-3억달러-증권사-자금으로-전액-조달-523449",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T04:42:03.792Z",
+    "updatedAt": "2026-05-15T04:42:03.792Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048758",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048758",
+    "titleFingerprint": "fa119d5f8dbf5de9df698c0caa030469ea2b1154",
+    "dedupKeys": [
+      "ed0b810891376ecf22158ef3dd69356064707650",
+      "fa119d5f8dbf5de9df698c0caa030469ea2b1154",
+      "6cfd83c22e88662494ea0ae8cbee5df0fb54523e"
+    ],
+    "imageUrl": "/images/articles/ed0b81089137.jpg",
+    "i18n": {
+      "ko": {
+        "title": "롯데그룹, 뉴욕팰리스호텔 부지 인수자금 3억달러 전액 조달",
+        "excerpt": "롯데호텔앤리조트가 5월 15일 롯데뉴욕팰리스 호텔 부지 인수에 필요한 3억달러 자금 조달을 증권사 자금으로 마무리했다.",
+        "body": "롯데호텔앤리조트가 롯데뉴욕팰리스 호텔 부지 인수 자금 조달을 마무리했다. 5월 15일 오전 8시58분 매일경제 자본시장 전문 유료매체 레이더M 보도에 따르면, 롯데그룹은 해당 부지 인수에 필요한 3억달러를 증권사 자금으로 전액 조달했다. 이번 조달은 뉴욕팰리스호텔 부지 인수와 관련한 자금 마련 절차가 완료됐다는 점에서 의미가 있다. 구체적인 조달 구조나 참여 증권사 등 추가 세부 내용은 원문에 제시된 범위 내에서 확인된다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Lotte Group Secures Full $300 Million Funding for New York Palace Hotel Site",
+        "excerpt": "Lotte Hotel & Resorts completed financing on May 15 for the Lotte New York Palace hotel site acquisition, raising the full $300 million through securities firms.",
+        "body": "Lotte Hotel & Resorts has completed financing for the acquisition of the Lotte New York Palace hotel site. According to RadarM, Maeil Business Newspaper’s paid capital markets outlet, reported at 08:58 on May 15, Lotte Group raised the entire $300 million needed for the site purchase through funds from securities firms. The financing is significant because it completes the funding process tied to the New York Palace hotel site acquisition. Additional details, including the specific financing structure or participating securities firms, are limited to what was presented in the original report. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "ロッテグループ、NYパレスホテル用地取得資金3億ドルを全額調達",
+        "excerpt": "ロッテホテル＆リゾートは5月15日、ロッテ・ニューヨーク・パレスホテル用地取得に必要な3億ドルを証券会社資金で調達し終えた。",
+        "body": "ロッテホテル＆リゾートは、ロッテ・ニューヨーク・パレスホテル用地の取得資金調達を完了した。5月15日午前8時58分に報じられた毎日経済の資本市場専門有料媒体「RadarM」によると、ロッテグループは同用地取得に必要な3億ドルを証券会社の資金で全額調達した。今回の調達は、ニューヨーク・パレスホテル用地取得に関する資金確保の手続きが完了した点で意味がある。具体的な調達構造や参加証券会社などの追加詳細は、原文で示された範囲内で確認される。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "乐天集团全额筹得纽约皇宫酒店地块收购资金3亿美元",
+        "excerpt": "乐天酒店与度假村5月15日完成乐天纽约皇宫酒店地块收购所需3亿美元融资，资金全部来自证券公司。",
+        "body": "乐天酒店与度假村已完成乐天纽约皇宫酒店地块收购资金的筹措。根据每日经济资本市场专业付费媒体RadarM于5月15日08时58分的报道，乐天集团通过证券公司资金全额筹得该地块收购所需的3亿美元。此次融资的意义在于，与纽约皇宫酒店地块收购相关的资金安排程序已经完成。关于具体融资结构、参与证券公司等更多细节，仅能在原报道披露范围内确认。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Lotte Group obtiene los 300 millones de dólares para el terreno del New York Palace",
+        "excerpt": "Lotte Hotel & Resorts completó el 15 de mayo la financiación de 300 millones de dólares para adquirir el terreno del Lotte New York Palace con fondos de corredoras.",
+        "body": "Lotte Hotel & Resorts completó la financiación para adquirir el terreno del hotel Lotte New York Palace. Según informó RadarM, el medio pago especializado en mercado de capitales de Maeil Business Newspaper, a las 08:58 del 15 de mayo, Lotte Group obtuvo la totalidad de los 300 millones de dólares necesarios mediante fondos de firmas de valores. La operación es relevante porque concluye el proceso de financiación vinculado a la compra del terreno del New York Palace. Otros detalles, como la estructura concreta o las firmas participantes, se limitan a lo indicado en el reporte original. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lotte Group capta US$ 300 milhões para terreno do New York Palace Hotel",
+        "excerpt": "A Lotte Hotel & Resorts concluiu em 15 de maio o financiamento de US$ 300 milhões para adquirir o terreno do Lotte New York Palace com recursos de corretoras.",
+        "body": "A Lotte Hotel & Resorts concluiu o financiamento para a aquisição do terreno do hotel Lotte New York Palace. Segundo o RadarM, veículo pago especializado em mercado de capitais do Maeil Business Newspaper, em reportagem publicada às 08h58 de 15 de maio, o Lotte Group levantou integralmente os US$ 300 milhões necessários com recursos de firmas de valores mobiliários. A captação é relevante por encerrar o processo de financiamento ligado à compra do terreno do New York Palace. Outros detalhes, como a estrutura da operação ou as instituições participantes, ficam restritos ao que consta no texto original. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Lotte Group finanziert 300-Millionen-Dollar-Kauf des New-York-Palace-Grundstücks",
+        "excerpt": "Lotte Hotel & Resorts schloss am 15. Mai die Finanzierung für den Erwerb des Lotte New York Palace Hotelgrundstücks ab, vollständig über Wertpapierhäuser.",
+        "body": "Lotte Hotel & Resorts hat die Finanzierung für den Erwerb des Grundstücks des Lotte New York Palace Hotels abgeschlossen. Laut RadarM, dem kostenpflichtigen Kapitalmarktmedium der Maeil Business Newspaper, das am 15. Mai um 08:58 Uhr berichtete, beschaffte Lotte Group die gesamten benötigten 300 Millionen US-Dollar über Mittel von Wertpapierfirmen. Die Finanzierung ist bedeutsam, weil damit der Mittelbeschaffungsprozess für den Grundstückserwerb des New York Palace Hotels abgeschlossen ist. Weitere Angaben, etwa zur genauen Struktur oder zu beteiligten Wertpapierhäusern, sind nur im Rahmen des Originalberichts bestätigt. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Lotte Group finance les 300 millions de dollars du terrain du New York Palace Hotel",
+        "excerpt": "Lotte Hotel & Resorts a finalisé le 15 mai le financement de 300 millions de dollars pour acquérir le terrain du Lotte New York Palace via des sociétés de titres.",
+        "body": "Lotte Hotel & Resorts a finalisé le financement destiné à l’acquisition du terrain de l’hôtel Lotte New York Palace. Selon RadarM, média payant spécialisé dans les marchés de capitaux du Maeil Business Newspaper, dans un article publié le 15 mai à 08h58, Lotte Group a levé la totalité des 300 millions de dollars nécessaires grâce à des fonds provenant de sociétés de titres. Cette opération marque l’achèvement du processus de financement lié à l’acquisition du terrain du New York Palace. Les autres détails, notamment la structure précise ou les sociétés participantes, restent limités aux informations du rapport original. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "مجموعة لوتيه تؤمّن 300 مليون دولار لشراء أرض فندق نيويورك بالاس",
+        "excerpt": "أنهت لوتيه للفنادق والمنتجعات في 15 مايو تمويل شراء أرض فندق لوتيه نيويورك بالاس، وجمعت كامل 300 مليون دولار عبر أموال شركات أوراق مالية.",
+        "body": "أنهت لوتيه للفنادق والمنتجعات تمويل الاستحواذ على أرض فندق لوتيه نيويورك بالاس. وبحسب تقرير نشرته RadarM، الوسيلة المدفوعة المتخصصة في أسواق رأس المال التابعة لصحيفة ماييل الاقتصادية، عند الساعة 08:58 في 15 مايو، جمعت مجموعة لوتيه كامل مبلغ 300 مليون دولار المطلوب لشراء الأرض من خلال أموال شركات أوراق مالية. وتكمن أهمية التمويل في اكتمال إجراءات توفير الأموال المرتبطة بالاستحواذ على أرض فندق نيويورك بالاس. أما التفاصيل الإضافية، مثل هيكل التمويل أو الشركات المشاركة، فتظل ضمن ما ورد في التقرير الأصلي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "लोटे समूह ने न्यूयॉर्क पैलेस होटल भूमि के लिए 30 करोड़ डॉलर जुटाए",
+        "excerpt": "लोटे होटल एंड रिसॉर्ट्स ने 15 मई को लोटे न्यूयॉर्क पैलेस होटल की भूमि खरीद के लिए जरूरी 30 करोड़ डॉलर की पूरी फंडिंग सिक्योरिटीज फर्मों से पूरी की।",
+        "body": "लोटे होटल एंड रिसॉर्ट्स ने लोटे न्यूयॉर्क पैलेस होटल की भूमि खरीद के लिए धन जुटाने की प्रक्रिया पूरी कर ली है। 15 मई को 08:58 बजे प्रकाशित मैइल बिजनेस न्यूजपेपर के पूंजी बाजार विशेष पेड मीडिया RadarM की रिपोर्ट के अनुसार, लोटे समूह ने भूमि खरीद के लिए जरूरी पूरे 30 करोड़ डॉलर सिक्योरिटीज फर्मों के धन से जुटाए। यह वित्तपोषण इसलिए अहम है क्योंकि न्यूयॉर्क पैलेस होटल भूमि अधिग्रहण से जुड़ी फंडिंग प्रक्रिया पूरी हो गई है। वित्तीय संरचना या भाग लेने वाली सिक्योरिटीज फर्मों जैसे अतिरिक्त विवरण मूल रिपोर्ट में दी गई सीमा तक ही उपलब्ध हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Lotte Group Danai Penuh US$300 Juta untuk Lahan New York Palace Hotel",
+        "excerpt": "Lotte Hotel & Resorts pada 15 Mei menyelesaikan pendanaan akuisisi lahan Lotte New York Palace Hotel senilai US$300 juta seluruhnya dari perusahaan sekuritas.",
+        "body": "Lotte Hotel & Resorts telah menyelesaikan pendanaan untuk akuisisi lahan hotel Lotte New York Palace. Menurut laporan RadarM, media berbayar khusus pasar modal milik Maeil Business Newspaper, yang terbit pukul 08.58 pada 15 Mei, Lotte Group memperoleh seluruh dana US$300 juta yang dibutuhkan melalui dana dari perusahaan sekuritas. Pendanaan ini penting karena menandai selesainya proses penyediaan dana terkait akuisisi lahan New York Palace Hotel. Rincian tambahan, termasuk struktur pendanaan atau perusahaan sekuritas yang terlibat, terbatas pada informasi yang disampaikan dalam laporan asli. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "018cc6a77942",
     "slug": "영업이익-1조-넘었다어닝-서프라이즈-한국금융지주-강세-매경-자이앤트-224307",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "KTT AS-China Dimulai, Wall Street Menguat; Dow dan Nasdaq Naik 0,51%",
         "excerpt": "Saat Presiden AS Donald Trump memulai pertemuan puncak dengan Presiden China Xi Jinping di Beijing pada 14 Mei waktu setempat, Wall Street dibuka menguat dengan Dow dan Nasdaq masing-masing naik 0,51%.",
         "body": "Pada hari pertama kunjungan Presiden Amerika Serikat Donald Trump ke Beijing untuk memulai pertemuan puncak dengan Presiden China Xi Jinping, Wall Street dibuka menguat secara serempak pada 14 Mei waktu setempat. Menurut Bursa Efek New York (NYSE), indeks Dow Jones dan Nasdaq masing-masing naik 0,51% pada awal perdagangan. Pergerakan ini menunjukkan reaksi awal pasar ketika indeks utama memulai sesi di zona positif bersamaan dengan dimulainya KTT AS-China. Laporan asli tidak memuat pergerakan lanjutan selama sesi atau proyeksi tambahan terkait hasil pertemuan tersebut. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "637f41005ded",
-    "slug": "네이버-배민-인수설에-기대감-커지며-6-급등-516863",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T13:52:30.181Z",
-    "updatedAt": "2026-05-14T13:52:30.181Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047820",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047820",
-    "titleFingerprint": "2914ec2cc7176ea61b92c866f185a011ccd6f23b",
-    "dedupKeys": [
-      "637f41005ded946a0bd9423f1f98f713a334e47f",
-      "2914ec2cc7176ea61b92c866f185a011ccd6f23b",
-      "9a6dbcff54a92c4e19d7ce927dd8d7b1dea87490"
-    ],
-    "imageUrl": "/images/articles/637f41005ded.jpg",
-    "i18n": {
-      "ko": {
-        "title": "네이버, 배민 인수설 기대감에 주가 6% 급등하며 시장 주목",
-        "excerpt": "네이버 주가가 배달의민족 운영사 우아한형제들 인수 기대감에 간만에 강세를 보이며 6% 급등했다. 다만 업계에서는 실제 인수 가능성을 신중하게 보고 있다.",
-        "body": "네이버 주가가 배달의민족 운영사 우아한형제들을 인수할 수 있다는 기대감이 커지며 간만에 강세를 보였다. 시장에서는 해당 인수설이 투자심리를 자극하면서 네이버 주가가 6% 급등한 것으로 풀이했다. 배달의민족은 국내 대표 배달 플랫폼이며, 우아한형제들은 이를 운영하는 기업이다. 다만 업계에서는 네이버가 우아한형제들을 실제로 인수할 가능성에 대해서는 신중한 시각을 보이는 것으로 전해졌다. 이번 주가 상승은 인수 기대감이 반영된 흐름이지만, 향후 주가 방향은 관련 논의의 현실성 여부에 따라 달라질 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Naver Shares Jump 6% on Baemin Acquisition Hopes, Drawing Market Attention",
-        "excerpt": "Naver shares rose sharply for the first time in a while, jumping 6% as investors reacted to expectations that it may acquire Woowa Brothers, operator of Baedal Minjok.",
-        "body": "Naver shares showed rare strength as expectations grew that the company could acquire Woowa Brothers, the operator of Baedal Minjok. Market watchers interpreted the 6% surge in Naver’s stock as a response to investor hopes surrounding the reported acquisition possibility. Baedal Minjok is a leading food delivery platform in South Korea, and Woowa Brothers is the company behind the service. However, industry observers are said to be cautious about the likelihood of Naver actually acquiring Woowa Brothers. The share price move reflects acquisition-related expectations, but the stock’s future direction may depend on whether such discussions prove realistic. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ネイバー株、配達の民族買収観測への期待で6％急騰し注目集める",
-        "excerpt": "ネイバー株は、配達の民族を運営するウアハン兄弟を買収するとの期待感を背景に久々の強さを見せ、6％急騰した。業界では実現可能性に慎重な見方もある。",
-        "body": "ネイバー株は、配達の民族を運営するウアハン兄弟を買収する可能性があるとの期待感が高まり、久々に強い動きを見せた。市場では、この買収観測が投資心理を刺激し、ネイバー株が6％急騰したと受け止められている。配達の民族は韓国を代表するフードデリバリープラットフォームで、ウアハン兄弟が同サービスを運営している。ただし業界では、ネイバーが実際にウアハン兄弟を買収する可能性について慎重な見方が伝えられている。今回の株価上昇は買収期待を反映した動きだが、今後の方向性は関連議論の現実性に左右される見通しだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "Naver受收购“外卖民族”传闻提振 股价大涨6%引关注",
-        "excerpt": "Naver股价久违走强，因市场期待其可能收购“外卖民族”运营商Woowa Brothers而大涨6%。不过业内对实际收购可能性仍持谨慎态度。",
-        "body": "随着市场对Naver可能收购“外卖民族”运营商Woowa Brothers的期待升温，Naver股价久违地表现强劲。市场认为，这一收购传闻刺激了投资情绪，推动Naver股价大涨6%。“外卖民族”是韩国具有代表性的外卖平台，Woowa Brothers则是该服务的运营公司。不过，据称业内对Naver实际收购Woowa Brothers的可能性仍持谨慎看法。此次股价上涨反映了收购期待，但未来走势或将取决于相关讨论是否具备现实性。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Naver sube 6% por expectativas de compra de Baemin y capta la atención del mercado",
-        "excerpt": "Las acciones de Naver repuntaron con fuerza y subieron 6% ante la expectativa de que pueda adquirir Woowa Brothers, operadora de Baedal Minjok, aunque el sector mantiene cautela.",
-        "body": "Las acciones de Naver mostraron una fortaleza poco habitual después de que crecieran las expectativas de que la compañía pudiera adquirir Woowa Brothers, operadora de Baedal Minjok. En el mercado se interpretó que el rumor de adquisición impulsó el ánimo inversor y llevó a las acciones de Naver a subir 6%. Baedal Minjok es una de las principales plataformas de reparto de comida de Corea del Sur, y Woowa Brothers es la empresa que la opera. Sin embargo, en la industria se mantiene una visión cautelosa sobre la posibilidad real de que Naver concrete la adquisición. La subida refleja expectativas de compra, pero la evolución futura dependerá de si esas conversaciones resultan realistas. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Naver salta 6% com expectativa de compra da Baemin e atrai atenção do mercado",
-        "excerpt": "As ações da Naver voltaram a ganhar força e subiram 6% com a expectativa de que a empresa possa adquirir a Woowa Brothers, operadora da Baedal Minjok, embora o setor veja cautela.",
-        "body": "As ações da Naver mostraram força após crescer a expectativa de que a companhia possa adquirir a Woowa Brothers, operadora da Baedal Minjok. O mercado avaliou que a especulação sobre a aquisição estimulou o sentimento dos investidores e levou os papéis da Naver a uma alta de 6%. A Baedal Minjok é uma das principais plataformas de entrega de comida da Coreia do Sul, e a Woowa Brothers é a empresa responsável por sua operação. Ainda assim, fontes do setor mantêm uma visão cautelosa sobre a possibilidade real de a Naver adquirir a Woowa Brothers. A alta reflete expectativas de aquisição, mas a direção futura das ações dependerá da viabilidade dessas discussões. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Naver-Aktie springt 6% wegen Baemin-Übernahmehoffnung und rückt in den Fokus",
-        "excerpt": "Die Naver-Aktie zeigte erstmals seit Längerem Stärke und stieg um 6%, da Anleger auf eine mögliche Übernahme von Woowa Brothers, Betreiber von Baedal Minjok, setzten.",
-        "body": "Die Naver-Aktie zeigte nach längerer Zeit wieder Stärke, nachdem Erwartungen zunahmen, dass das Unternehmen Woowa Brothers, den Betreiber von Baedal Minjok, übernehmen könnte. Am Markt wurde der Kursanstieg von 6% damit erklärt, dass die Übernahmespekulation die Anlegerstimmung beflügelte. Baedal Minjok ist eine führende Lieferplattform in Südkorea, während Woowa Brothers das Unternehmen hinter dem Dienst ist. Branchenkreise sollen jedoch vorsichtig beurteilen, wie wahrscheinlich eine tatsächliche Übernahme von Woowa Brothers durch Naver ist. Der aktuelle Kursanstieg spiegelt Übernahmeerwartungen wider, doch die weitere Entwicklung dürfte davon abhängen, ob entsprechende Gespräche realistisch sind. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Naver bondit de 6% grâce aux espoirs de rachat de Baemin et attire le marché",
-        "excerpt": "L’action Naver a nettement progressé, gagnant 6%, portée par l’espoir d’un rachat de Woowa Brothers, opérateur de Baedal Minjok, même si le secteur reste prudent.",
-        "body": "L’action Naver a affiché une vigueur inhabituelle après la montée des attentes autour d’un possible rachat de Woowa Brothers, l’opérateur de Baedal Minjok. Le marché estime que cette rumeur d’acquisition a soutenu le sentiment des investisseurs et entraîné une hausse de 6% du titre Naver. Baedal Minjok est l’une des principales plateformes de livraison de repas en Corée du Sud, et Woowa Brothers en assure l’exploitation. Toutefois, le secteur ferait preuve de prudence quant à la possibilité réelle que Naver acquière Woowa Brothers. Cette progression reflète les attentes liées à une acquisition, mais l’évolution future dépendra du caractère réaliste ou non des discussions. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سهم نافير يقفز 6% مع توقعات الاستحواذ على Baemin ويجذب اهتمام السوق",
-        "excerpt": "ارتفع سهم نافير بقوة بعد فترة من الهدوء، مسجلا قفزة قدرها 6% مع توقعات بإمكان استحواذها على Woowa Brothers، مشغلة Baedal Minjok، وسط حذر في القطاع.",
-        "body": "أظهر سهم نافير قوة لافتة بعد فترة من الأداء الهادئ، مع تنامي التوقعات بإمكان استحواذ الشركة على Woowa Brothers، وهي الجهة المشغلة لمنصة Baedal Minjok. وفسر السوق القفزة البالغة 6% في سهم نافير بأنها نتيجة لتحسن معنويات المستثمرين بسبب أنباء الاستحواذ المحتملة. وتعد Baedal Minjok منصة بارزة لتوصيل الطعام في كوريا الجنوبية، بينما تديرها شركة Woowa Brothers. ومع ذلك، تشير أوساط القطاع إلى الحذر في تقييم احتمال إتمام نافير لهذا الاستحواذ فعليا. يعكس صعود السهم توقعات مرتبطة بالصفقة، لكن اتجاهه المقبل قد يتوقف على مدى واقعية هذه المناقشات. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Baemin अधिग्रहण उम्मीदों से Naver शेयर 6% उछला, बाजार की नजरें टिकीं",
-        "excerpt": "Naver के शेयरों में लंबे समय बाद मजबूती आई और वे 6% चढ़े, क्योंकि निवेशकों ने Baedal Minjok की संचालक Woowa Brothers के संभावित अधिग्रहण की उम्मीदों पर प्रतिक्रिया दी।",
-        "body": "Naver के शेयरों में लंबे समय बाद मजबूती दिखी, क्योंकि यह उम्मीद बढ़ी कि कंपनी Baedal Minjok की संचालक Woowa Brothers का अधिग्रहण कर सकती है। बाजार ने Naver के शेयर में 6% की तेज बढ़त को इसी अधिग्रहण संबंधी उम्मीद से जुड़ी निवेशक धारणा का असर माना। Baedal Minjok दक्षिण कोरिया का प्रमुख फूड डिलीवरी प्लेटफॉर्म है और Woowa Brothers इसका संचालन करती है। हालांकि, उद्योग जगत में Naver द्वारा Woowa Brothers के वास्तविक अधिग्रहण की संभावना को लेकर सतर्क नजरिया बताया जा रहा है। मौजूदा तेजी अधिग्रहण उम्मीदों को दर्शाती है, लेकिन आगे शेयर की दिशा इस बात पर निर्भर कर सकती है कि संबंधित चर्चा कितनी वास्तविक साबित होती है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Naver Melonjak 6% oleh Harapan Akuisisi Baemin, Pasar Menyorot",
-        "excerpt": "Saham Naver kembali menguat dan melonjak 6% karena ekspektasi bahwa perusahaan dapat mengakuisisi Woowa Brothers, operator Baedal Minjok, meski industri masih berhati-hati.",
-        "body": "Saham Naver menunjukkan penguatan setelah lama tidak bergerak kuat, seiring meningkatnya ekspektasi bahwa perusahaan dapat mengakuisisi Woowa Brothers, operator Baedal Minjok. Pasar menilai rumor akuisisi tersebut mendorong sentimen investor dan membuat saham Naver melonjak 6%. Baedal Minjok adalah platform pesan-antar makanan utama di Korea Selatan, sementara Woowa Brothers merupakan perusahaan yang mengoperasikannya. Namun, kalangan industri disebut masih berhati-hati dalam menilai kemungkinan Naver benar-benar mengakuisisi Woowa Brothers. Kenaikan saham ini mencerminkan harapan akuisisi, tetapi arah berikutnya akan bergantung pada seberapa realistis pembahasan terkait. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "698b43233543",
-    "slug": "코스피-톱10-선수교체-삼성바이오-out-삼성전기-in-757945",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T13:51:24.432Z",
-    "updatedAt": "2026-05-14T13:51:24.432Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047846",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047846",
-    "titleFingerprint": "554db33a90f14c89b089a9105da8e22d2bb13aa9",
-    "dedupKeys": [
-      "698b432335435441c91d8b80aa187fb7c10353c0",
-      "554db33a90f14c89b089a9105da8e22d2bb13aa9",
-      "a28c20c464fa7d6c56699c42a7236e707a2966ee"
-    ],
-    "imageUrl": "/images/articles/698b43233543.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 시총 톱10 재편, 삼성바이오 빠지고 삼성전기 진입",
-        "excerpt": "AI 시대 도래로 산업 지형이 바뀌며 코스피 시가총액 상위 10위권도 재편됐다. AI 밸류체인 관련주가 톱10을 차지한 가운데 삼성바이오로직스가 빠지고 삼성전기가 들어섰다.",
-        "body": "인공지능(AI) 시대가 본격화하면서 코스피 시가총액 상위권의 구성이 바뀌고 있다. mk.co.kr에 따르면 코스피 시가총액 10위권 내 초대형주는 모두 AI 밸류체인 관련주로 채워졌고, 이 과정에서 삼성바이오로직스가 10위권 밖으로 밀려나고 삼성전기가 새로 진입했다. 산업 지형 변화가 증시의 대형주 판도에도 반영되는 모습이다. 주요 그룹사의 시가총액 순위에도 변화가 나타나면서 AI 관련 공급망과 부품, 반도체, 전자 업종에 대한 시장의 관심이 더 뚜렷해졌다. 이번 순위 변화는 AI가 단순한 기술 테마를 넘어 코스피 대표 기업의 구성을 흔드는 핵심 변수로 부상했음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Top 10 Reshaped as Samsung Bio Exits and Samsung Electro-Mechanics Enters",
-        "excerpt": "As the AI era changes the industrial landscape, KOSPI’s top 10 by market value has also shifted, with AI value-chain stocks taking every spot and Samsung Electro-Mechanics replacing Samsung Biologics.",
-        "body": "The rise of artificial intelligence is changing the makeup of KOSPI’s largest companies by market capitalization. According to mk.co.kr, all mega-cap stocks within the KOSPI top 10 are now related to the AI value chain. In that reshuffle, Samsung Biologics moved out of the top 10, while Samsung Electro-Mechanics newly entered. The shift shows how changes in the industrial landscape are being reflected in the stock market’s large-cap rankings. It also highlights stronger market attention on AI-linked supply chains, components, semiconductors and electronics. The latest ranking change suggests AI has become a key factor reshaping the composition of Korea’s benchmark stock index leaders. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI時価総額トップ10再編、サムスンバイオ退場しサムスン電機が入り",
-        "excerpt": "AI時代の到来で産業地図が変わり、KOSPI時価総額トップ10も再編された。AIバリューチェーン関連株が占める中、サムスンバイオロジクスが外れサムスン電機が入った。",
-        "body": "人工知能（AI）時代が本格化する中、KOSPIの時価総額上位銘柄の構成が変わっている。mk.co.krによると、KOSPI時価総額トップ10内の超大型株はすべてAIバリューチェーン関連株で占められた。この過程でサムスンバイオロジクスがトップ10圏外に押し出され、サムスン電機が新たに入った。産業構造の変化が株式市場の大型株順位にも反映されている形だ。主要グループ企業の時価総額順位にも変化が見られ、AI関連の供給網、部品、半導体、電子業種への市場の関心が一段と明確になった。今回の順位変動は、AIが単なる技術テーマを超え、KOSPIを代表する企業構成を揺さぶる核心要因になったことを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI市值前十重排：三星生物出局，三星电机入榜",
-        "excerpt": "随着AI时代到来改变产业格局，KOSPI市值前十也出现调整。AI价值链相关股票占据全部席位，三星生物制剂退出，三星电机新进入榜。",
-        "body": "人工智能（AI）时代加速到来，正在改变KOSPI市值龙头股的构成。据mk.co.kr报道，KOSPI市值前十中的超大型股票已全部由AI价值链相关企业占据。在这一调整中，三星生物制剂跌出前十，三星电机则新进入榜。产业格局的变化正反映到股市大型股排名之中。主要集团公司的市值排序也随之变化，市场对AI相关供应链、零部件、半导体和电子行业的关注更加明显。此次排名变化显示，AI已不只是技术主题，而是影响KOSPI代表性企业构成的关键变量。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El top 10 del KOSPI cambia: sale Samsung Biologics y entra Samsung Electro-Mechanics",
-        "excerpt": "La llegada de la era de la IA está cambiando el mapa industrial y también el top 10 del KOSPI por capitalización, ocupado por valores de la cadena de valor de IA.",
-        "body": "La expansión de la inteligencia artificial está modificando la composición de las mayores empresas del KOSPI por capitalización bursátil. Según mk.co.kr, todas las megacapitalizadas dentro del top 10 del KOSPI están vinculadas a la cadena de valor de la IA. En esa reorganización, Samsung Biologics quedó fuera de los diez primeros puestos y Samsung Electro-Mechanics ingresó en la lista. El cambio muestra cómo la transformación del mapa industrial se refleja también en el liderazgo bursátil. La variación en los rankings de las principales compañías de grupos empresariales refuerza el interés del mercado por cadenas de suministro, componentes, semiconductores y electrónica relacionados con IA. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Top 10 do KOSPI muda: Samsung Biologics sai e Samsung Electro-Mechanics entra",
-        "excerpt": "Com a chegada da era da IA alterando o cenário industrial, o top 10 do KOSPI por valor de mercado também foi reorganizado, agora dominado por ações ligadas à cadeia de valor da IA.",
-        "body": "A ascensão da inteligência artificial está mudando a composição das maiores empresas do KOSPI por valor de mercado. Segundo o mk.co.kr, todas as ações de megacapitalização dentro do top 10 do KOSPI estão ligadas à cadeia de valor da IA. Nessa reorganização, a Samsung Biologics saiu do grupo das dez maiores, enquanto a Samsung Electro-Mechanics entrou. A mudança mostra que a transformação do cenário industrial também aparece no ranking das grandes ações. As posições de mercado de importantes empresas de conglomerados também mudaram, reforçando o interesse por cadeias de suprimento, componentes, semicondutores e eletrônicos ligados à IA. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI-Top-10 neu gemischt: Samsung Biologics raus, Samsung Electro-Mechanics rein",
-        "excerpt": "Der Beginn des KI-Zeitalters verändert die Industrielandschaft und auch die KOSPI-Top-10 nach Marktkapitalisierung, die nun vollständig von KI-Wertschöpfungskettenwerten geprägt sind.",
-        "body": "Der Aufstieg der künstlichen Intelligenz verändert die Zusammensetzung der größten KOSPI-Unternehmen nach Marktkapitalisierung. Laut mk.co.kr gehören inzwischen alle Mega-Caps in den KOSPI-Top-10 zur KI-Wertschöpfungskette. Im Zuge dieser Neuordnung fiel Samsung Biologics aus den zehn größten Werten heraus, während Samsung Electro-Mechanics neu einzog. Damit spiegelt sich der Wandel der Industrielandschaft auch in den Ranglisten der großen Börsenwerte wider. Auch bei wichtigen Konzernunternehmen zeigen sich Verschiebungen, wodurch Lieferketten, Komponenten, Halbleiter und Elektronik mit KI-Bezug stärker in den Fokus rücken. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le top 10 du KOSPI se recompose : Samsung Biologics sort, Samsung Electro-Mechanics entre",
-        "excerpt": "Avec l’arrivée de l’ère de l’IA, le paysage industriel évolue et le top 10 du KOSPI par capitalisation change aussi, désormais occupé par des valeurs liées à la chaîne de valeur de l’IA.",
-        "body": "La montée de l’intelligence artificielle modifie la composition des plus grandes sociétés du KOSPI par capitalisation boursière. Selon mk.co.kr, toutes les très grandes capitalisations du top 10 du KOSPI sont désormais liées à la chaîne de valeur de l’IA. Dans ce rééquilibrage, Samsung Biologics est sortie des dix premières places, tandis que Samsung Electro-Mechanics y est entrée. Ce changement montre que la transformation du paysage industriel se reflète aussi dans le classement des grandes valeurs. Les positions des principales sociétés de groupes évoluent également, renforçant l’attention portée aux chaînes d’approvisionnement, composants, semi-conducteurs et secteurs électroniques liés à l’IA. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "تغيير في أكبر 10 شركات على كوسبي: خروج سامسونغ بايولوجكس ودخول سامسونغ إلكترو-ميكانيكس",
-        "excerpt": "مع تغيّر خريطة الصناعة بفعل عصر الذكاء الاصطناعي، تبدلت قائمة أكبر 10 شركات في كوسبي من حيث القيمة السوقية، لتشغلها أسهم مرتبطة بسلسلة قيمة الذكاء الاصطناعي.",
-        "body": "مع تسارع عصر الذكاء الاصطناعي، يتغير تكوين أكبر شركات مؤشر كوسبي من حيث القيمة السوقية. ووفقاً لـ mk.co.kr، أصبحت كل الأسهم العملاقة ضمن قائمة العشرة الأوائل في كوسبي مرتبطة بسلسلة قيمة الذكاء الاصطناعي. وفي هذا التعديل، خرجت سامسونغ بايولوجكس من القائمة، بينما دخلت سامسونغ إلكترو-ميكانيكس إليها. ويعكس ذلك انتقال التغيرات في الخريطة الصناعية إلى ترتيب الأسهم الكبرى في السوق. كما ظهرت تغيرات في ترتيب القيمة السوقية لشركات المجموعات الرئيسية، ما أبرز اهتمام السوق بسلاسل الإمداد والمكونات وأشباه الموصلات والإلكترونيات المرتبطة بالذكاء الاصطناعي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI टॉप 10 में बदलाव: Samsung Biologics बाहर, Samsung Electro-Mechanics अंदर",
-        "excerpt": "AI युग के आगमन से औद्योगिक परिदृश्य बदल रहा है और KOSPI के बाजार पूंजीकरण टॉप 10 में भी बदलाव आया है, जहां AI वैल्यू चेन से जुड़े शेयरों ने सभी स्थान ले लिए हैं।",
-        "body": "कृत्रिम बुद्धिमत्ता यानी AI का दौर तेज होने के साथ KOSPI की सबसे बड़ी कंपनियों की संरचना बदल रही है। mk.co.kr के अनुसार, KOSPI के बाजार पूंजीकरण टॉप 10 में शामिल सभी मेगा-कैप शेयर अब AI वैल्यू चेन से जुड़े हैं। इसी फेरबदल में Samsung Biologics टॉप 10 से बाहर हो गई, जबकि Samsung Electro-Mechanics ने नई जगह बनाई। यह बदलाव दिखाता है कि औद्योगिक परिदृश्य में बदलाव शेयर बाजार की बड़ी कंपनियों की रैंकिंग में भी दिखाई दे रहा है। प्रमुख समूह कंपनियों के बाजार मूल्य क्रम में भी परिवर्तन हुआ है, जिससे AI से जुड़ी सप्लाई चेन, पुर्जों, सेमीकंडक्टर और इलेक्ट्रॉनिक्स पर बाजार का ध्यान अधिक स्पष्ट हुआ है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Top 10 KOSPI Berubah: Samsung Biologics Keluar, Samsung Electro-Mechanics Masuk",
-        "excerpt": "Datangnya era AI mengubah lanskap industri sekaligus susunan 10 besar KOSPI berdasarkan kapitalisasi pasar, yang kini ditempati saham terkait rantai nilai AI.",
-        "body": "Perkembangan kecerdasan buatan atau AI mulai mengubah komposisi perusahaan terbesar di KOSPI berdasarkan kapitalisasi pasar. Menurut mk.co.kr, seluruh saham berkapitalisasi sangat besar dalam 10 besar KOSPI kini terkait dengan rantai nilai AI. Dalam perombakan itu, Samsung Biologics keluar dari jajaran 10 besar, sementara Samsung Electro-Mechanics masuk. Perubahan ini menunjukkan bahwa pergeseran lanskap industri juga tercermin pada peringkat saham besar di pasar. Urutan kapitalisasi pasar perusahaan grup utama ikut berubah, sehingga perhatian pasar pada rantai pasok, komponen, semikonduktor, dan elektronik terkait AI makin jelas. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "32e2428c0813",
-    "slug": "소외받던-지주사-주가-훨훨-올-들어-두산-118-sk-110-296857",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T13:50:22.276Z",
-    "updatedAt": "2026-05-14T13:50:22.276Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047845",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047845",
-    "titleFingerprint": "098cddbe61217031df7c652471d38399a5d00dc8",
-    "dedupKeys": [
-      "32e2428c08137ffa9e8524641c8ab184c3c8298f",
-      "098cddbe61217031df7c652471d38399a5d00dc8",
-      "182bbd2bdc2fff92a35f42f2aab69b1a560ebf87"
-    ],
-    "imageUrl": "/images/articles/32e2428c0813.jpg",
-    "i18n": {
-      "ko": {
-        "title": "지주사 주가 강세, 두산 118%·SK 110% 급등 배경은 AI 밸류체인",
-        "excerpt": "올해 들어 AI 밸류체인을 구축 중인 주요 그룹사가 코스피 흐름을 바꾸는 가운데 소외됐던 지주사 주가도 두산 118%, SK 110% 상승했다.",
-        "body": "올해 들어 코스피 시장에서 그동안 투자자 관심에서 밀려났던 주요 지주사 주가가 가파르게 오르고 있다. 인공지능(AI) 밸류체인을 구축 중인 주요 그룹사가 시장 지형을 재편하는 가운데 지주사에도 매수세가 확산된 영향이다. 원문에 따르면 두산 주가는 올 들어 118% 상승했고, SK도 110% 올랐다. 배경에는 AI 관련 그룹사의 재평가와 함께 정부의 상법 개정에 따른 기업 지배구조 변화 기대가 맞물린 것으로 제시됐다. 지주사 주가 흐름은 코스피 내 AI 밸류체인 관련 종목의 영향력이 커지는 상황과 함께 주목받고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Holding Company Stocks Rally as Doosan Jumps 118% and SK Gains 110% on AI Value Chain",
-        "excerpt": "This year, major groups building AI value chains are reshaping the KOSPI, while long-overlooked holding companies such as Doosan and SK have surged sharply.",
-        "body": "This year, shares of major holding companies that had long been overlooked by investors have risen sharply in the KOSPI market. The move comes as major business groups building artificial intelligence value chains reshape the market landscape and buying interest spreads to their holding companies. According to the original report, Doosan shares have climbed 118% so far this year, while SK has gained 110%. The article cited a revaluation of AI-related group companies and expectations tied to changes in corporate governance following the government’s Commercial Act revision. The trend is drawing attention as AI value-chain stocks gain influence in the KOSPI. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "持ち株会社株が急伸、斗山118%・SK110%上昇の背景はAIバリューチェーン",
-        "excerpt": "今年に入り、AIバリューチェーンを構築する主要グループがKOSPIの流れを変える中、出遅れていた持ち株会社株も急騰している。",
-        "body": "今年に入り、KOSPI市場でこれまで投資家の関心から外れていた主要持ち株会社の株価が急速に上昇している。人工知能（AI）バリューチェーンを構築中の主要グループ企業が市場の構図を変える中、持ち株会社にも買いが広がったためだ。原文によると、斗山の株価は年初来118%上昇し、SKも110%上昇した。背景として、AI関連グループ企業の再評価に加え、政府の商法改正に伴う企業統治変化への期待が挙げられている。持ち株会社株の動きは、KOSPI内でAIバリューチェーン関連銘柄の影響力が高まる状況とともに注目されている。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "控股公司股价走强，斗山涨118%、SK涨110%受AI价值链推动",
-        "excerpt": "今年以来，构建AI价值链的主要集团公司正在重塑KOSPI格局，此前被忽视的控股公司股价也快速上涨。",
-        "body": "今年以来，在KOSPI市场中，过去较少受到投资者关注的主要控股公司股价出现快速上涨。随着正在构建人工智能（AI）价值链的主要集团公司重塑市场格局，买盘也扩散至其控股公司。原文称，斗山股价今年以来上涨118%，SK上涨110%。报道提出的背景包括AI相关集团公司的重新估值，以及政府修订商法带来的企业治理变化预期。随着KOSPI中AI价值链相关股票影响力扩大，控股公司股价走势也受到关注。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Acciones holding repuntan: Doosan sube 118% y SK 110% por la cadena de valor de IA",
-        "excerpt": "Este año, los grandes grupos que construyen cadenas de valor de IA están cambiando el KOSPI, mientras holdings antes rezagadas como Doosan y SK se disparan.",
-        "body": "Este año, las acciones de importantes sociedades holding que habían quedado fuera del foco de los inversores están subiendo con fuerza en el mercado KOSPI. El avance ocurre mientras grandes grupos que construyen cadenas de valor de inteligencia artificial (IA) reconfiguran el mercado y el interés comprador se extiende a sus holdings. Según el reporte original, Doosan acumula una subida del 118% en lo que va de año y SK avanza un 110%. El artículo citó la revalorización de compañías vinculadas a la IA y las expectativas por cambios de gobierno corporativo tras la revisión de la Ley Comercial del Gobierno. La tendencia gana atención junto con el mayor peso de los valores ligados a la cadena de valor de IA en el KOSPI. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Holdings disparam: Doosan sobe 118% e SK avança 110% com cadeia de valor de IA",
-        "excerpt": "Neste ano, grandes grupos que constroem cadeias de valor de IA remodelam o KOSPI, enquanto holdings antes esquecidas, como Doosan e SK, sobem forte.",
-        "body": "Neste ano, ações de importantes holdings que antes ficavam fora do foco dos investidores passaram a subir com força no mercado KOSPI. O movimento ocorre enquanto grandes grupos que constroem cadeias de valor de inteligência artificial (IA) redesenham o mercado e o interesse comprador se espalha para suas holdings. Segundo a reportagem original, as ações da Doosan acumulam alta de 118% no ano, enquanto a SK avança 110%. O texto apontou como contexto a reavaliação de empresas ligadas à IA e expectativas relacionadas a mudanças de governança corporativa após a revisão da Lei Comercial pelo governo. A tendência chama atenção à medida que papéis ligados à cadeia de valor de IA ganham influência no KOSPI. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Holding-Aktien legen stark zu: Doosan plus 118%, SK plus 110% dank KI-Wertschöpfungskette",
-        "excerpt": "Seit Jahresbeginn verändern große Gruppen mit KI-Wertschöpfungsketten den KOSPI, während zuvor vernachlässigte Holdings wie Doosan und SK stark steigen.",
-        "body": "Seit Jahresbeginn steigen im KOSPI-Markt die Aktien großer Holdinggesellschaften deutlich, die zuvor von vielen Anlegern wenig beachtet wurden. Der Anstieg erfolgt, während wichtige Unternehmensgruppen beim Aufbau von Wertschöpfungsketten für künstliche Intelligenz (KI) die Marktstruktur verändern und Kaufinteresse auch auf deren Holdings übergreift. Dem Originalbericht zufolge legte Doosan in diesem Jahr bisher um 118% zu, SK um 110%. Als Hintergrund wurden eine Neubewertung KI-bezogener Konzernunternehmen sowie Erwartungen an Veränderungen der Corporate Governance nach der Änderung des Handelsgesetzes durch die Regierung genannt. Die Entwicklung der Holding-Aktien rückt damit gemeinsam mit dem wachsenden Einfluss von KI-Wertschöpfungsketten im KOSPI in den Fokus. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Les holdings s’envolent: Doosan gagne 118% et SK 110% grâce à la chaîne de valeur IA",
-        "excerpt": "Depuis le début de l’année, les groupes bâtissant des chaînes de valeur IA remodèlent le KOSPI, tandis que des holdings longtemps délaissées bondissent.",
-        "body": "Depuis le début de l’année, les actions de grandes sociétés holding longtemps restées en marge de l’attention des investisseurs progressent fortement sur le marché KOSPI. Ce mouvement intervient alors que de grands groupes construisant des chaînes de valeur liées à l’intelligence artificielle (IA) redessinent le paysage boursier et que les achats s’étendent à leurs holdings. Selon l’article d’origine, Doosan a gagné 118% depuis le début de l’année et SK 110%. Le texte cite la revalorisation des groupes liés à l’IA ainsi que les attentes de changement en matière de gouvernance d’entreprise après la révision de la loi commerciale par le gouvernement. Cette tendance retient l’attention alors que les valeurs liées à la chaîne de valeur IA pèsent davantage dans le KOSPI. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "أسهم الشركات القابضة ترتفع بقوة: دوسان 118% وSK نحو 110% مع سلسلة قيمة الذكاء الاصطناعي",
-        "excerpt": "منذ بداية العام، تعيد المجموعات التي تبني سلاسل قيمة للذكاء الاصطناعي تشكيل كوسبي، فيما ترتفع أسهم قابضة كانت مهمشة مثل دوسان وSK.",
-        "body": "منذ بداية العام، ارتفعت بقوة أسهم شركات قابضة رئيسية في سوق كوسبي بعدما كانت بعيدة عن اهتمام المستثمرين. ويأتي ذلك بينما تعيد مجموعات كبرى تبني سلاسل قيمة للذكاء الاصطناعي تشكيل خريطة السوق، ويمتد الاهتمام الشرائي إلى شركاتها القابضة. ووفق التقرير الأصلي، صعد سهم دوسان 118% منذ بداية العام، بينما ارتفع سهم SK بنسبة 110%. وأشار التقرير إلى أن الخلفية تشمل إعادة تقييم الشركات المرتبطة بالذكاء الاصطناعي، إضافة إلى توقعات بتغيرات في حوكمة الشركات بعد تعديل الحكومة للقانون التجاري. وتلقى حركة أسهم الشركات القابضة اهتماما مع تزايد تأثير أسهم سلسلة قيمة الذكاء الاصطناعي داخل كوسبي. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "होल्डिंग कंपनियों के शेयर तेज, Doosan 118% और SK 110% चढ़े; AI वैल्यू चेन बना कारण",
-        "excerpt": "इस साल AI वैल्यू चेन बना रहे प्रमुख समूह KOSPI की दिशा बदल रहे हैं, जबकि पहले उपेक्षित होल्डिंग कंपनियों Doosan और SK के शेयर तेजी से चढ़े हैं।",
-        "body": "इस साल KOSPI बाजार में वे प्रमुख होल्डिंग कंपनियां तेज उछाल दिखा रही हैं जो अब तक निवेशकों के ध्यान से दूर थीं। यह तेजी ऐसे समय आई है जब आर्टिफिशियल इंटेलिजेंस (AI) वैल्यू चेन बना रहे बड़े समूह बाजार की संरचना बदल रहे हैं और खरीदारी उनकी होल्डिंग कंपनियों तक फैल रही है। मूल रिपोर्ट के अनुसार, इस साल अब तक Doosan का शेयर 118% और SK का शेयर 110% चढ़ा है। रिपोर्ट में पृष्ठभूमि के रूप में AI से जुड़ी समूह कंपनियों के पुनर्मूल्यांकन और सरकार के वाणिज्यिक कानून संशोधन के बाद कॉरपोरेट गवर्नेंस में बदलाव की उम्मीदों का उल्लेख किया गया। KOSPI में AI वैल्यू चेन से जुड़े शेयरों का प्रभाव बढ़ने के साथ होल्डिंग कंपनियों की चाल भी ध्यान खींच रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Saham Holding Menguat: Doosan Naik 118% dan SK 110% Berkat Rantai Nilai AI",
-        "excerpt": "Tahun ini, grup besar yang membangun rantai nilai AI mengubah arah KOSPI, sementara saham holding yang dulu terabaikan seperti Doosan dan SK melesat.",
-        "body": "Tahun ini, saham perusahaan holding utama yang sebelumnya kurang mendapat perhatian investor naik tajam di pasar KOSPI. Kenaikan terjadi saat grup besar yang sedang membangun rantai nilai kecerdasan buatan (AI) mengubah peta pasar dan minat beli meluas ke perusahaan holding mereka. Menurut laporan asli, saham Doosan telah naik 118% sepanjang tahun ini, sementara SK menguat 110%. Artikel tersebut menyebut latar belakangnya berupa penilaian ulang terhadap perusahaan grup terkait AI serta ekspektasi perubahan tata kelola perusahaan setelah revisi Undang-Undang Dagang oleh pemerintah. Pergerakan saham holding kini menjadi sorotan seiring meningkatnya pengaruh saham terkait rantai nilai AI di KOSPI. Sumber: mk.co.kr"
       }
     }
   }
