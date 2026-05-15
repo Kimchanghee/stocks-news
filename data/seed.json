@@ -1,5 +1,230 @@
 [
   {
+    "id": "6eef390836f0",
+    "slug": "美-클래리티법-입법-진전에-디지털자산株-환호-405584",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T09:37:50.910Z",
+    "updatedAt": "2026-05-15T09:37:50.910Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049390",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049390",
+    "titleFingerprint": "b6a2830cd3dce2acb053bbf57f094459c98dfb78",
+    "dedupKeys": [
+      "6eef390836f0c4ba1c20983cd2c8d38dd9d5af83",
+      "b6a2830cd3dce2acb053bbf57f094459c98dfb78",
+      "77b28dd33fd12c7309bd71ec769d780492f9c2e1"
+    ],
+    "imageUrl": "/images/articles/6eef390836f0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "클래리티법 상원 은행위 통과에 디지털자산주 강세 주목",
+        "excerpt": "미국 디지털 자산 규제의 기본 틀이 될 클래리티법이 상원 은행위원회를 통과하며 본회의 상정 가능성이 커지자 뉴욕 증시의 관련 종목이 반응했다.",
+        "body": "미국에서 디지털 자산 규제의 뼈대가 될 클래리티법(CLARITY Act)이 상원 은행위원회를 통과했다. 법안이 조만간 상원 본회의에 오를 것으로 보이면서 뉴욕 증시에서는 디지털자산 관련 주식이 환호하는 흐름을 보였다. 클래리티법은 미국 내 디지털 자산 규제 체계를 정비하는 핵심 법안으로 거론된다. 상임위 문턱을 넘었다는 점은 입법 절차가 한 단계 진전됐다는 의미다. 시장은 규제 방향이 보다 분명해질 수 있다는 점에 주목하고 있다. 다만 향후 상원 본회의 논의와 최종 입법 여부는 계속 지켜봐야 할 변수다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "CLARITY Act Clears Senate Banking Panel, Digital Asset Stocks Draw Attention",
+        "excerpt": "The CLARITY Act, seen as a framework for U.S. digital asset regulation, passed the Senate Banking Committee, drawing a market response from related stocks in New York.",
+        "body": "The CLARITY Act, expected to form the backbone of U.S. digital asset regulation, has passed the Senate Banking Committee. As the bill appears likely to move to the full Senate soon, digital asset-related stocks in New York showed a positive response. The CLARITY Act is regarded as a key bill for organizing the regulatory framework for digital assets in the United States. Passing the committee stage means the legislative process has advanced by one step. Markets are watching the possibility that regulatory direction may become clearer. However, future debate in the full Senate and whether the bill ultimately becomes law remain variables to monitor. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "CLARITY法が上院銀行委通過、デジタル資産株に注目集まる",
+        "excerpt": "米国のデジタル資産規制の骨格となるCLARITY法が上院銀行委員会を通過し、本会議上程の可能性が高まる中、関連株が反応した。",
+        "body": "米国でデジタル資産規制の骨格になるとみられるCLARITY法が上院銀行委員会を通過した。同法案が近く上院本会議に上程されるとみられる中、ニューヨーク市場ではデジタル資産関連株が好反応を示した。CLARITY法は、米国内のデジタル資産規制体系を整備する主要法案として挙げられている。委員会段階を越えたことは、立法手続きが一歩前進したことを意味する。市場は規制の方向性がより明確になる可能性に注目している。ただし、今後の上院本会議での議論と最終的な成立 여부は引き続き見守る必要がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "CLARITY法案通过参议院银行委员会，数字资产股受关注",
+        "excerpt": "被视为美国数字资产监管框架基础的CLARITY法案通过参议院银行委员会，随着提交全院审议的可能性上升，相关股票作出反应。",
+        "body": "美国数字资产监管框架的核心法案CLARITY Act已通过参议院银行委员会。随着该法案被认为可能很快提交参议院全院审议，纽约股市中的数字资产相关股票出现积极反应。CLARITY Act被视为整理美国国内数字资产监管体系的重要法案。该法案跨过委员会阶段，意味着立法程序向前推进了一步。市场关注的是，监管方向有可能因此变得更加明确。不过，未来参议院全院讨论以及最终能否完成立法，仍是需要继续观察的变量。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La Ley CLARITY avanza en el Senado y anima a las acciones de activos digitales",
+        "excerpt": "La Ley CLARITY, base prevista para la regulación de activos digitales en EE. UU., pasó el Comité Bancario del Senado y provocó reacción en valores relacionados en Nueva York.",
+        "body": "La Ley CLARITY, considerada la base del marco regulatorio de activos digitales en Estados Unidos, superó el Comité Bancario del Senado. Ante la posibilidad de que el proyecto llegue pronto al pleno del Senado, las acciones vinculadas a activos digitales en la Bolsa de Nueva York mostraron una reacción positiva. La Ley CLARITY es señalada como una norma clave para ordenar el sistema regulatorio de activos digitales en el país. Haber pasado la etapa de comité significa que el proceso legislativo avanzó un paso. El mercado observa la posibilidad de que la dirección regulatoria se vuelva más clara. Aun así, el debate en el pleno del Senado y la aprobación final siguen siendo variables a vigilar. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lei CLARITY avança no Senado e impulsiona ações de ativos digitais",
+        "excerpt": "A Lei CLARITY, vista como base da regulação de ativos digitais nos EUA, passou pelo Comitê Bancário do Senado e levou ações relacionadas a reagirem em Nova York.",
+        "body": "A Lei CLARITY, apontada como a base da regulação de ativos digitais nos Estados Unidos, foi aprovada no Comitê Bancário do Senado. Com a expectativa de que o projeto chegue em breve ao plenário do Senado, ações ligadas a ativos digitais em Nova York tiveram reação positiva. A Lei CLARITY é considerada uma proposta central para organizar o sistema regulatório de ativos digitais no país. A passagem pelo comitê indica que o processo legislativo avançou uma etapa. O mercado acompanha a possibilidade de que a direção regulatória fique mais clara. Ainda assim, o debate no plenário do Senado e a aprovação final continuam sendo pontos a observar. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "CLARITY Act passiert Bankenausschuss, Digital-Asset-Aktien im Fokus",
+        "excerpt": "Der CLARITY Act, der als Grundlage für die US-Regulierung digitaler Vermögenswerte gilt, passierte den Bankenausschuss des Senats und bewegte verwandte Aktien in New York.",
+        "body": "Der CLARITY Act, der als Gerüst für die Regulierung digitaler Vermögenswerte in den USA gilt, hat den Bankenausschuss des Senats passiert. Da der Gesetzentwurf offenbar bald dem gesamten Senat vorgelegt werden könnte, reagierten in New York Aktien mit Bezug zu digitalen Vermögenswerten positiv. Der CLARITY Act wird als zentrales Gesetz zur Ordnung des US-Regulierungsrahmens für digitale Vermögenswerte genannt. Das Überschreiten der Ausschusshürde bedeutet, dass das Gesetzgebungsverfahren einen Schritt vorangekommen ist. Der Markt achtet darauf, ob die regulatorische Richtung dadurch klarer werden kann. Die weitere Beratung im Senat und die endgültige Verabschiedung bleiben jedoch abzuwarten. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le CLARITY Act franchit une étape au Sénat, les actions crypto réagissent",
+        "excerpt": "Le CLARITY Act, appelé à structurer la réglementation américaine des actifs numériques, a passé la commission bancaire du Sénat, soutenant les valeurs liées à New York.",
+        "body": "Le CLARITY Act, appelé à former l’ossature de la réglementation des actifs numériques aux États-Unis, a été adopté par la commission bancaire du Sénat. Alors que le texte pourrait bientôt être soumis à l’ensemble du Sénat, les actions liées aux actifs numériques à New York ont réagi favorablement. Le CLARITY Act est considéré comme un projet clé pour organiser le cadre réglementaire américain des actifs numériques. Le passage en commission signifie que la procédure législative a progressé d’une étape. Le marché surveille la possibilité d’une orientation réglementaire plus claire. Toutefois, les débats au Sénat et l’adoption finale restent des variables à suivre. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قانون CLARITY يتقدم في مجلس الشيوخ وأسهم الأصول الرقمية تلفت الأنظار",
+        "excerpt": "أقرّت لجنة البنوك في مجلس الشيوخ الأميركي قانون CLARITY، المتوقع أن يشكل إطارا لتنظيم الأصول الرقمية، ما دفع الأسهم المرتبطة بها في نيويورك للتفاعل.",
+        "body": "أقرّت لجنة البنوك في مجلس الشيوخ الأميركي قانون CLARITY Act، الذي يُتوقع أن يشكل أساس تنظيم الأصول الرقمية في الولايات المتحدة. ومع ترقب طرح مشروع القانون قريبا على الجلسة العامة لمجلس الشيوخ، أظهرت الأسهم المرتبطة بالأصول الرقمية في بورصة نيويورك تفاعلا إيجابيا. ويُنظر إلى قانون CLARITY باعتباره تشريعا محوريا لترتيب الإطار التنظيمي للأصول الرقمية داخل الولايات المتحدة. وتجاوز مرحلة اللجنة يعني أن المسار التشريعي تقدم خطوة إضافية. ويركز السوق على احتمال أن تصبح وجهة التنظيم أكثر وضوحا. لكن مناقشات الجلسة العامة والاعتماد النهائي لا يزالان من العوامل التي تستدعي المتابعة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "CLARITY Act सीनेट समिति से पास, डिजिटल एसेट शेयरों पर बाजार की नजर",
+        "excerpt": "अमेरिका में डिजिटल एसेट नियमन की रूपरेखा माने जा रहे CLARITY Act को सीनेट बैंकिंग कमेटी ने पारित किया, जिसके बाद न्यूयॉर्क में संबंधित शेयरों ने प्रतिक्रिया दी।",
+        "body": "अमेरिका में डिजिटल एसेट नियमन की बुनियादी रूपरेखा माने जा रहे CLARITY Act को सीनेट बैंकिंग कमेटी ने पारित कर दिया है। माना जा रहा है कि यह विधेयक जल्द ही सीनेट के पूर्ण सदन में जा सकता है, और इसी बीच न्यूयॉर्क शेयर बाजार में डिजिटल एसेट से जुड़े शेयरों ने सकारात्मक प्रतिक्रिया दिखाई। CLARITY Act को अमेरिका में डिजिटल एसेट नियामकीय ढांचे को व्यवस्थित करने वाला प्रमुख विधेयक माना जा रहा है। समिति की बाधा पार करना विधायी प्रक्रिया में एक कदम आगे बढ़ने का संकेत है। बाजार इस संभावना पर ध्यान दे रहा है कि नियमन की दिशा अधिक स्पष्ट हो सकती है। हालांकि सीनेट में आगे की चर्चा और अंतिम कानून बनना अभी देखने योग्य पहलू हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "CLARITY Act Lolos Komite Senat, Saham Aset Digital Jadi Sorotan",
+        "excerpt": "CLARITY Act, yang dinilai sebagai kerangka regulasi aset digital AS, lolos dari Komite Perbankan Senat dan memicu respons saham terkait di bursa New York.",
+        "body": "CLARITY Act, yang dipandang sebagai dasar regulasi aset digital di Amerika Serikat, telah lolos dari Komite Perbankan Senat. Seiring kemungkinan RUU itu segera dibawa ke sidang pleno Senat, saham-saham terkait aset digital di bursa New York menunjukkan respons positif. CLARITY Act disebut sebagai rancangan penting untuk menata kerangka regulasi aset digital di AS. Lolos dari tahap komite berarti proses legislasi maju satu langkah. Pasar mencermati peluang arah regulasi menjadi lebih jelas. Namun, pembahasan di sidang pleno Senat dan apakah RUU tersebut akhirnya menjadi undang-undang masih menjadi faktor yang perlu dipantau. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4e3a49279ed7",
+    "slug": "올-1분기-가상자산-한파에-빗썸-적자전환두나무도-매출-반토막-722369",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T09:36:06.216Z",
+    "updatedAt": "2026-05-15T09:36:06.216Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049439",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049439",
+    "titleFingerprint": "51898efaedf8415623b5dc3c52ba944d08546a5a",
+    "dedupKeys": [
+      "4e3a49279ed7cda7c5f0163502e4d853e68b37a2",
+      "51898efaedf8415623b5dc3c52ba944d08546a5a",
+      "75c2def58ace1411c408029caaafcb4178b9f19c"
+    ],
+    "imageUrl": "/images/articles/4e3a49279ed7.png",
+    "i18n": {
+      "ko": {
+        "title": "가상자산 한파에 빗썸 1분기 적자전환, 두나무 매출도 반토막",
+        "excerpt": "올해 1분기 가상자산 시장 침체와 거래대금 급감으로 국내 양대 거래소 빗썸은 적자로 돌아섰고 두나무는 매출이 반토막 났다.",
+        "body": "올해 1분기 국내 가상자산 거래소 양대 축인 빗썸과 두나무가 시장 침체의 직격탄을 맞았다. 가상자산 거래대금이 급감하면서 수수료 수익이 줄어든 영향으로 빗썸은 적자 전환했고, 두나무는 매출이 반토막 났으며 영업이익도 78% 감소했다. 장기화하는 ‘크립토 윈터’는 거래소의 핵심 수익 기반인 거래 수수료에 부담을 키우고 있다. 이에 따라 양사는 외형 성장보다 비용 관리와 내실 다지기에 무게를 두는 경쟁을 본격화할 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Crypto Winter Hits Q1: Bithumb Turns to Loss, Dunamu Revenue Halves",
+        "excerpt": "In Q1, South Korea’s top crypto exchanges were hit by a market slump and plunging trading value, sending Bithumb into loss and cutting Dunamu’s revenue in half.",
+        "body": "South Korea’s two leading virtual asset exchanges, Bithumb and Dunamu, were hit hard in the first quarter as the crypto market downturn continued. With trading value falling sharply, fee income came under direct pressure. Bithumb swung to a loss, while Dunamu’s revenue was cut in half and operating profit fell 78%. The prolonged “crypto winter” is weighing on exchanges’ core revenue base: trading commissions. As a result, the two companies are expected to focus more on cost control and strengthening fundamentals than on top-line growth. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "暗号資産冬の時代でビッサム1四半期赤字転落、ドゥナム売上半減",
+        "excerpt": "今年第1四半期、暗号資産市場の低迷と取引代金の急減により、韓国大手取引所のビッサムは赤字転落し、ドゥナムは売上が半減した。",
+        "body": "今年第1四半期、韓国の暗号資産取引所大手であるビッサムとドゥナムは、市場低迷の直撃を受けた。暗号資産の取引代金が急減し、手数料収入が圧迫されたため、ビッサムは赤字に転落した。ドゥナムは売上が半減し、営業利益も78%減少した。長引く「クリプトウィンター」は、取引所の中核収益である取引手数料に負担を強めている。今後、両社は外形成長よりもコスト管理と体質強化を重視する競争を本格化させる見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "加密资产寒冬冲击一季度：Bithumb转亏，Dunamu营收腰斩",
+        "excerpt": "今年一季度，虚拟资产市场低迷和交易额骤降重创韩国两大交易所，Bithumb转为亏损，Dunamu营收减半。",
+        "body": "今年一季度，韩国两大虚拟资产交易所Bithumb和Dunamu受到市场低迷的直接冲击。随着虚拟资产交易额大幅减少，手续费收入承压，Bithumb转为亏损；Dunamu营收则腰斩，营业利润下降78%。持续的“加密寒冬”正在削弱交易所的核心收入基础，即交易手续费。由此，两家公司预计将把重点从外延增长转向成本管理和夯实经营基本面，相关竞争也将正式加速。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Invierno cripto golpea el 1T: Bithumb entra en pérdidas y Dunamu reduce ingresos a la mitad",
+        "excerpt": "En el primer trimestre, la caída del mercado de criptoactivos y del volumen negociado llevó a Bithumb a pérdidas y redujo a la mitad los ingresos de Dunamu.",
+        "body": "En el primer trimestre de este año, Bithumb y Dunamu, las dos grandes bolsas de activos virtuales de Corea del Sur, sufrieron el impacto directo de la debilidad del mercado. La fuerte caída del valor negociado redujo los ingresos por comisiones. Bithumb pasó a pérdidas, mientras que los ingresos de Dunamu se redujeron a la mitad y su beneficio operativo cayó un 78%. El prolongado “invierno cripto” presiona la base central de ingresos de estas plataformas: las comisiones de negociación. Por ello, ambas compañías previsiblemente priorizarán el control de costes y el fortalecimiento interno. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Inverno cripto atinge 1º tri: Bithumb vira prejuízo e receita da Dunamu cai pela metade",
+        "excerpt": "No primeiro trimestre, a retração do mercado de criptoativos e a queda no volume negociado levaram a Bithumb ao prejuízo e cortaram a receita da Dunamu pela metade.",
+        "body": "No primeiro trimestre deste ano, Bithumb e Dunamu, as duas principais exchanges de ativos virtuais da Coreia do Sul, foram diretamente afetadas pela desaceleração do mercado. Com a forte queda no valor negociado, a receita de taxas foi pressionada. A Bithumb passou a registrar prejuízo, enquanto a receita da Dunamu caiu pela metade e o lucro operacional recuou 78%. O prolongado “inverno cripto” aumenta a pressão sobre a principal fonte de receita das exchanges: as comissões de negociação. Assim, as duas empresas devem concentrar esforços em controle de custos e fortalecimento interno. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Krypto-Winter belastet Q1: Bithumb rutscht in Verlust, Dunamu-Umsatz halbiert",
+        "excerpt": "Im ersten Quartal trafen Marktflaute und ein starker Rückgang des Handelsvolumens Südkoreas große Kryptobörsen: Bithumb schrieb Verlust, Dunamus Umsatz halbierte sich.",
+        "body": "Im ersten Quartal dieses Jahres wurden Bithumb und Dunamu, die zwei großen südkoreanischen Börsen für virtuelle Vermögenswerte, direkt von der anhaltenden Marktschwäche getroffen. Da der Handelswert stark zurückging, gerieten die Gebühreneinnahmen unter Druck. Bithumb rutschte in die Verlustzone, während sich Dunamus Umsatz halbierte und der operative Gewinn um 78% sank. Der anhaltende „Krypto-Winter“ belastet damit die zentrale Einnahmequelle der Börsen: Handelsgebühren. Beide Unternehmen dürften sich nun stärker auf Kostenkontrolle und solide interne Strukturen konzentrieren. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Hiver crypto au 1er trimestre : Bithumb passe dans le rouge, Dunamu voit ses revenus divisés par deux",
+        "excerpt": "Au premier trimestre, le ralentissement des cryptoactifs et la chute des montants échangés ont fait basculer Bithumb dans le rouge et réduit de moitié les revenus de Dunamu.",
+        "body": "Au premier trimestre de cette année, Bithumb et Dunamu, les deux grandes plateformes sud-coréennes d’actifs virtuels, ont été directement touchées par la faiblesse du marché. La forte baisse des montants échangés a pesé sur les revenus de commissions. Bithumb est passé dans le rouge, tandis que les revenus de Dunamu ont été divisés par deux et son bénéfice d’exploitation a chuté de 78%. Le long “hiver crypto” fragilise la principale source de revenus des plateformes: les commissions de transaction. Les deux sociétés devraient donc privilégier la maîtrise des coûts et le renforcement de leurs fondamentaux. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "شتاء العملات المشفرة يضغط على الربع الأول: بيثمب تتحول للخسارة ودونامو تنخفض إيراداتها للنصف",
+        "excerpt": "في الربع الأول، أدى ركود سوق الأصول الافتراضية وتراجع قيمة التداول إلى تحول بيثمب للخسارة وانخفاض إيرادات دونامو إلى النصف.",
+        "body": "في الربع الأول من هذا العام، تعرضت منصتا الأصول الافتراضية الرئيسيتان في كوريا الجنوبية، بيثمب ودونامو، لضربة مباشرة من ركود السوق. ومع الانخفاض الحاد في قيمة التداول، تضررت إيرادات الرسوم. تحولت بيثمب إلى الخسارة، بينما انخفضت إيرادات دونامو إلى النصف وتراجع ربحها التشغيلي بنسبة 78%. ويزيد استمرار “شتاء العملات المشفرة” الضغط على مصدر الدخل الأساسي للمنصات، وهو رسوم التداول. لذلك من المتوقع أن تركز الشركتان على ضبط التكاليف وتعزيز الأسس الداخلية بدلا من النمو الخارجي. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्रिप्टो सर्दी का Q1 असर: Bithumb घाटे में, Dunamu की आय आधी",
+        "excerpt": "पहली तिमाही में वर्चुअल एसेट बाजार की सुस्ती और ट्रेडिंग वैल्यू में तेज गिरावट से Bithumb घाटे में गया और Dunamu की आय आधी रह गई।",
+        "body": "इस साल की पहली तिमाही में दक्षिण कोरिया के दो प्रमुख वर्चुअल एसेट एक्सचेंज, Bithumb और Dunamu, बाजार की सुस्ती से सीधे प्रभावित हुए। वर्चुअल एसेट ट्रेडिंग वैल्यू में तेज गिरावट के कारण शुल्क आय पर दबाव पड़ा। Bithumb घाटे में चला गया, जबकि Dunamu की आय आधी रह गई और परिचालन लाभ 78% घटा। लंबे समय से चल रही “क्रिप्टो विंटर” स्थिति एक्सचेंजों की मुख्य आय, यानी ट्रेडिंग शुल्क, पर बोझ बढ़ा रही है। ऐसे में दोनों कंपनियां बाहरी विस्तार से अधिक लागत नियंत्रण और आंतरिक मजबूती पर ध्यान देंगी। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Crypto Winter Tekan Kuartal I: Bithumb Rugi, Pendapatan Dunamu Terpangkas Separuh",
+        "excerpt": "Pada kuartal I, pelemahan pasar aset virtual dan anjloknya nilai transaksi membuat Bithumb berbalik rugi dan pendapatan Dunamu turun separuh.",
+        "body": "Pada kuartal pertama tahun ini, dua bursa aset virtual utama Korea Selatan, Bithumb dan Dunamu, terkena dampak langsung pelemahan pasar. Nilai transaksi aset virtual yang turun tajam menekan pendapatan dari biaya transaksi. Bithumb berbalik mencatat rugi, sementara pendapatan Dunamu terpangkas separuh dan laba operasionalnya turun 78%. “Crypto winter” yang berkepanjangan membebani sumber pendapatan inti bursa, yaitu komisi perdagangan. Karena itu, kedua perusahaan diperkirakan akan lebih menekankan pengendalian biaya dan penguatan fundamental internal. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "5eadbd3b5713",
+    "slug": "1800만원-샤넬백-그돈이면-sk하이닉스나-담자확-바뀐-예물-공식-스드메의-문단속⑤-721881",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T09:35:09.994Z",
+    "updatedAt": "2026-05-15T09:35:09.994Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12049440",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049440",
+    "titleFingerprint": "55647b6deefb6e5366bc8b2625b4d20b1e5345a3",
+    "dedupKeys": [
+      "5eadbd3b571359bd7888ed8254cd1fd8ccc82569",
+      "55647b6deefb6e5366bc8b2625b4d20b1e5345a3",
+      "4c5167221c3658b6d87f14ce933ef29da982c247"
+    ],
+    "imageUrl": "/images/articles/5eadbd3b5713.png",
+    "i18n": {
+      "ko": {
+        "title": "예물 대신 SK하이닉스 투자, 1800만원 샤넬백보다 ‘스마트 웨딩’ 확산",
+        "excerpt": "청년층 예비부부 사이에서 고가 명품백과 착용이 어려운 주얼리를 줄이고 금융 투자로 예물을 대체하는 결혼 준비 방식이 부동산 부담 속에 확산되고 있다.",
+        "body": "청년층 사이에서 결혼 준비 공식이 달라지고 있다. 과거 예물로 여겨졌던 고가 명품백이나 일상적으로 착용하기 어려운 주얼리 대신, SK하이닉스 같은 금융 투자 대상을 선택하려는 흐름이 나타나고 있다. 이는 단순히 예물을 생략하는 수준을 넘어 결혼 비용을 더 실용적으로 배분하려는 ‘스마트 웨딩’ 경향으로 설명된다. 특히 부동산 부담이 커진 상황에서 예비부부들은 1800만원대 샤넬백처럼 상징성이 큰 소비보다 향후 자산 형성에 도움이 되는 선택지를 검토하고 있다. 이러한 변화는 결혼 준비에서 체면보다 실속을 중시하는 분위기를 보여준다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Wedding Gifts Shift to SK Hynix Investing as Smart Weddings Replace Luxury Bags",
+        "excerpt": "Young couples are changing wedding plans by cutting costly luxury bags and hard-to-wear jewelry, choosing financial investment instead amid growing housing pressure.",
+        "body": "A new wedding-preparation formula is emerging among young people. Instead of expensive luxury bags once treated as standard wedding gifts or jewelry that is difficult to wear in daily life, some couples are considering financial investments such as SK Hynix. The trend goes beyond simply skipping ceremonial gifts and reflects a more practical approach to allocating wedding costs, described as a “smart wedding.” With real estate burdens weighing heavily, couples are comparing symbolic purchases such as an 18 million won Chanel bag with options that may support future asset building. The shift shows a stronger preference for substance over appearances in wedding planning. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "結納品はシャネルバッグよりSKハイニックス投資へ、スマート婚が拡大",
+        "excerpt": "若い予備夫婦の間で、高額なブランドバッグや日常使いしにくいジュエリーを減らし、金融投資で結納品を代替する結婚準備が広がっている。",
+        "body": "若い世代の間で結婚準備の定式が変わりつつある。従来は結納品とみなされてきた高額なブランドバッグや、日常的に着用しにくいジュエリーの代わりに、SKハイニックスのような金融投資先を選ぼうとする動きが出ている。これは単なる「結納品省略」を超え、結婚費用をより実用的に配分する「スマートウェディング」の傾向と説明される。特に不動産負担が大きいなか、予備夫婦は1800万ウォン台のシャネルバッグのような象徴的消費より、将来の資産形成に役立つ選択肢を検討している。この変化は、結婚準備で体面より実利を重視する雰囲気を示している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "婚礼礼物转向SK海力士投资，1800万韩元香奈儿包不再是首选",
+        "excerpt": "韩国年轻准新人正在改变婚礼准备方式，减少高价名牌包和难以日常佩戴的珠宝，在房产负担下以金融投资替代传统礼物。",
+        "body": "韩国年轻人之间的婚礼准备公式正在发生变化。过去被视为婚礼礼物的高价名牌包，或日常难以佩戴的珠宝，正被一些准新人用SK海力士等金融投资对象取代。这一趋势不只是简单省略礼物，而是被解释为更务实分配婚礼费用的“智能婚礼”。在房地产负担加重的情况下，准新人开始比较1800万韩元左右香奈儿包这类象征性消费，以及有助于未来资产形成的选择。这样的变化显示，婚礼准备中比起面子，年轻人更重视实际利益。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Regalos de boda cambian a inversión en SK Hynix frente a bolsos Chanel",
+        "excerpt": "Entre jóvenes parejas coreanas crece la tendencia de reducir bolsos de lujo y joyas poco prácticas para sustituir los regalos de boda por inversión financiera.",
+        "body": "La fórmula de preparación matrimonial está cambiando entre los jóvenes. En lugar de bolsos de lujo caros, antes considerados regalos de boda, o joyas difíciles de usar a diario, algunas parejas estudian elegir inversiones financieras como SK Hynix. La tendencia va más allá de omitir los regalos ceremoniales y refleja una distribución más práctica de los gastos, descrita como “boda inteligente”. Con la presión inmobiliaria en aumento, los futuros matrimonios comparan consumos simbólicos, como un bolso Chanel de 18 millones de wones, con opciones que pueden ayudar a formar patrimonio. El cambio muestra una preferencia por la utilidad frente a la apariencia. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Presentes de casamento migram para investimento em SK Hynix em vez de Chanel",
+        "excerpt": "Entre jovens casais coreanos, cresce a troca de bolsas de luxo e joias pouco usuais por investimentos financeiros, em meio ao peso dos custos imobiliários.",
+        "body": "A forma de preparar o casamento está mudando entre os jovens. Em vez de bolsas de luxo caras, antes vistas como presentes tradicionais, ou joias difíceis de usar no dia a dia, alguns casais consideram investimentos financeiros como SK Hynix. A tendência vai além de simplesmente eliminar os presentes e reflete uma alocação mais prática dos custos do casamento, descrita como “casamento inteligente”. Com o aumento do peso imobiliário, noivos comparam consumos simbólicos, como uma bolsa Chanel de 18 milhões de won, com alternativas que podem contribuir para formar patrimônio no futuro. A mudança mostra mais foco em utilidade do que em aparência. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Hochzeitsgaben wandern von Chanel-Taschen zu SK-Hynix-Investments",
+        "excerpt": "Junge Paare in Korea ändern ihre Hochzeitsplanung: Statt teurer Luxustaschen und schwer tragbarem Schmuck rücken Finanzinvestitionen stärker in den Mittelpunkt.",
+        "body": "Unter jungen Menschen verändert sich die Formel der Hochzeitsvorbereitung. Statt teurer Luxustaschen, die früher als Hochzeitsgabe galten, oder Schmuck, der im Alltag schwer zu tragen ist, prüfen manche Paare Finanzinvestitionen wie SK Hynix. Der Trend geht über das bloße Weglassen von Geschenken hinaus und steht für eine praktischere Verteilung der Hochzeitskosten, die als „Smart Wedding“ beschrieben wird. Angesichts hoher Immobilienbelastungen vergleichen Verlobte symbolische Ausgaben wie eine Chanel-Tasche für rund 18 Millionen Won mit Optionen, die beim künftigen Vermögensaufbau helfen können. Der Wandel zeigt, dass Nutzen wichtiger wird als äußere Wirkung. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Les cadeaux de mariage passent des sacs Chanel aux investissements SK Hynix",
+        "excerpt": "Chez les jeunes couples coréens, les sacs de luxe et bijoux peu portables reculent au profit d’investissements financiers, sous la pression immobilière.",
+        "body": "La préparation du mariage évolue chez les jeunes. Au lieu de sacs de luxe coûteux, autrefois considérés comme des cadeaux de mariage, ou de bijoux difficiles à porter au quotidien, certains couples envisagent des investissements financiers comme SK Hynix. Cette tendance dépasse la simple suppression des présents et traduit une répartition plus pratique des dépenses, décrite comme un « smart wedding ». Face au poids de l’immobilier, les futurs mariés comparent des achats symboliques, comme un sac Chanel à 18 millions de wons, avec des options pouvant aider à constituer un patrimoine. Ce changement montre que l’utilité prend le pas sur l’apparence. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هدايا الزواج تتحول من حقيبة شانيل إلى استثمار في SK Hynix",
+        "excerpt": "بين الشباب المقبلين على الزواج في كوريا، يتراجع شراء الحقائب الفاخرة والمجوهرات صعبة الاستخدام يوميا لصالح استبدال الهدايا باستثمار مالي.",
+        "body": "تتغير معادلة التحضير للزواج بين الشباب. فبدلا من الحقائب الفاخرة مرتفعة الثمن التي كانت تعد من هدايا الزواج، أو المجوهرات التي يصعب ارتداؤها يوميا، يدرس بعض المقبلين على الزواج اختيار استثمارات مالية مثل SK Hynix. ولا يقتصر الاتجاه على حذف الهدايا، بل يعكس توجها أكثر عملية في توزيع تكاليف الزواج، يوصف باسم “الزواج الذكي”. ومع تزايد عبء العقارات، يقارن الأزواج بين إنفاق رمزي مثل حقيبة شانيل بنحو 18 مليون وون، وخيارات قد تساعد في بناء الأصول مستقبلا. ويظهر هذا التحول تفضيل الجدوى على المظهر في تجهيزات الزواج. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "शादी के उपहारों में Chanel बैग की जगह SK Hynix निवेश की ओर रुझान",
+        "excerpt": "कोरिया के युवा जोड़ों में महंगे लग्जरी बैग और रोजमर्रा में कठिन गहनों को घटाकर, रियल एस्टेट बोझ के बीच वित्तीय निवेश को उपहार बनाने का चलन बढ़ रहा है।",
+        "body": "युवाओं के बीच शादी की तैयारी का तरीका बदल रहा है। पहले जहां महंगे लग्जरी बैग या रोजमर्रा में पहनना कठिन गहने शादी के उपहार माने जाते थे, वहीं अब कुछ जोड़े SK Hynix जैसे वित्तीय निवेश विकल्पों पर विचार कर रहे हैं। यह रुझान केवल उपहार छोड़ने तक सीमित नहीं है, बल्कि शादी के खर्च को अधिक व्यावहारिक ढंग से बांटने वाली “स्मार्ट वेडिंग” प्रवृत्ति को दिखाता है। रियल एस्टेट का बोझ बढ़ने के बीच भावी दंपति 1.8 करोड़ वॉन के Chanel बैग जैसे प्रतीकात्मक खर्च की तुलना भविष्य की संपत्ति बनाने में सहायक विकल्पों से कर रहे हैं। यह बदलाव शादी में दिखावे से अधिक उपयोगिता को महत्व देता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Hadiah Pernikahan Bergeser ke Investasi SK Hynix, Bukan Tas Chanel",
+        "excerpt": "Di kalangan pasangan muda Korea, tas mewah dan perhiasan yang sulit dipakai sehari-hari mulai dikurangi dan diganti investasi finansial karena beban properti.",
+        "body": "Formula persiapan pernikahan di kalangan anak muda mulai berubah. Alih-alih membeli tas mewah mahal yang dulu dianggap sebagai hadiah pernikahan, atau perhiasan yang sulit dipakai sehari-hari, sebagian pasangan mempertimbangkan investasi finansial seperti SK Hynix. Tren ini bukan sekadar menghapus hadiah, tetapi mencerminkan pembagian biaya pernikahan yang lebih praktis, yang disebut “smart wedding”. Di tengah beratnya beban properti, calon pasangan membandingkan konsumsi simbolis seperti tas Chanel senilai sekitar 18 juta won dengan pilihan yang dapat membantu pembentukan aset di masa depan. Perubahan ini menunjukkan bahwa manfaat lebih diutamakan daripada gengsi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "4ac4c8bb185c",
     "slug": "장중-4-넘게-미끄러진-코스피-매도-사이드카-발동-304331",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Howard Marks Peringatkan Persaingan AI Memanas, Pemenang Akhir Sulit Diprediksi",
         "excerpt": "Howard Marks pada 14 Mei di KIW 2026 Seoul mengatakan investasi di perusahaan AI seperti membeli lotre, sehingga investor perlu berhati-hati mengejar sektor ini sebelum pemenang jelas.",
         "body": "Howard Marks, chairman Oaktree Capital, mengatakan pada 14 Mei dalam Korea Investment Week (KIW) 2026 di Hotel Shilla Seoul bahwa investasi di perusahaan kecerdasan buatan seperti membeli tiket lotre, karena pemenang akhirnya sulit diprediksi. Ia mengatakan industri AI memiliki potensi pertumbuhan besar, tetapi antusiasme saat ini belum bisa dinilai sebagai euforia tidak rasional sebelum terlihat berapa besar laba yang benar-benar dapat dihasilkan perusahaan. Ia menyebut IPO yang diperkirakan berlangsung pada paruh kedua tahun ini dari perusahaan AI besar seperti OpenAI dan Anthropic sebagai indikator penting untuk membaca sentimen investor. Marks mengatakan hyperscaler seperti Amazon dan Microsoft pada dasarnya sedang menjalani perlombaan senjata untuk memimpin AI. Bahkan dalam struktur winner-take-all, persaingan harga yang agresif bisa membuat tidak ada pihak yang menghasilkan banyak uang. Namun, perusahaan yang memakai AI untuk meningkatkan produktivitas, efisiensi, serta kualitas produk dan layanan tetap berpeluang mencatat hasil baik. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "efd7af8092a1",
-    "slug": "美국채월가-빌딩도-소액투자-블랙록골드만이-꽂힌-rwa-396698",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T17:13:23.212Z",
-    "updatedAt": "2026-05-14T17:13:23.212Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472671",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472671",
-    "titleFingerprint": "044e9df2b7ff44a183105331ba419a7291dd26ef",
-    "dedupKeys": [
-      "efd7af8092a181c6e07867377dcd9bf6d513f14e",
-      "044e9df2b7ff44a183105331ba419a7291dd26ef",
-      "c840f2a354bdca8524c54287752b9ce0fa02c436"
-    ],
-    "imageUrl": "/images/articles/efd7af8092a1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "RWA 소액투자 급부상, 美국채·월가 빌딩에 꽂힌 블랙록·골드만",
-        "excerpt": "블랙록과 골드만삭스가 주목하는 RWA가 미국 국채와 월가 빌딩 같은 실물자산의 소액투자 가능성을 앞세워 금융권 관심을 끌고 있다.",
-        "body": "미국 국채와 월가 빌딩 같은 실물자산을 소액으로 투자할 수 있는 RWA가 블랙록과 골드만삭스 등 글로벌 금융사의 관심을 받고 있다. RWA는 현실 자산을 투자 대상으로 연결하는 흐름으로, 고액 자산에 접근하기 어려웠던 투자자에게 새로운 선택지를 제시한다. 원문은 미국 국채와 월가 빌딩을 사례로 들며 대형 금융사가 이 분야에 주목하고 있다고 전했다. 다만 구체적인 투자 조건이나 상품 구조는 제시되지 않았다. 향후 RWA가 소액투자 시장에서 어떤 방식으로 확산될지가 관전 포인트다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "RWA Small Investing Gains Attention as BlackRock and Goldman Eye Real Assets",
-        "excerpt": "RWA is drawing attention from BlackRock and Goldman Sachs as it highlights small-investment access to real assets such as U.S. Treasuries and Wall Street buildings.",
-        "body": "RWA, which can allow small-scale investment in real assets such as U.S. Treasuries and Wall Street buildings, is attracting attention from global financial firms including BlackRock and Goldman Sachs. RWA links real-world assets to investment opportunities and presents a new option for investors who previously had difficulty accessing high-value assets. The original report cited U.S. Treasuries and Wall Street buildings as examples and said major financial firms are focusing on this area. However, specific investment terms or product structures were not provided. How RWA spreads in the small-investment market will be a key point to watch. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "RWA少額投資が浮上、米国債・ウォール街ビルに注目するブラックロックとゴールドマン",
-        "excerpt": "ブラックロックとゴールドマン・サックスが注目するRWAは、米国債やウォール街のビルなど実物資産への少額投資の可能性で関心を集めている。",
-        "body": "米国債やウォール街のビルのような実物資産に少額で投資できるRWAが、ブラックロックやゴールドマン・サックスなどグローバル金融会社の関心を集めている。RWAは現実の資産を投資対象につなげる流れで、高額資産にアクセスしにくかった投資家に新たな選択肢を示す。原文は米国債とウォール街のビルを例に挙げ、大手金融会社がこの分野に注目していると伝えた。ただし、具体的な投資条件や商品構造は示されていない。今後RWAが少額投資市場でどのように広がるかが注目点だ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "RWA小额投资升温，贝莱德与高盛关注美国国债和华尔街大楼",
-        "excerpt": "贝莱德和高盛关注的RWA，正以美国国债、华尔街大楼等实物资产的小额投资可能性吸引金融业目光。",
-        "body": "可让投资者小额投资美国国债和华尔街大楼等实物资产的RWA，正受到贝莱德、高盛等全球金融公司的关注。RWA是将现实资产连接到投资对象的趋势，为过去难以接触高价值资产的投资者提供新的选择。原文以美国国债和华尔街大楼为例，称大型金融公司正在关注这一领域。不过，报道未给出具体投资条件或产品结构。未来RWA将如何在小额投资市场扩散，是值得关注的重点。来源: hankyung.com"
-      },
-      "es": {
-        "title": "La inversión minorista en RWA atrae a BlackRock y Goldman con bonos de EE. UU. y edificios",
-        "excerpt": "BlackRock y Goldman Sachs observan los RWA, que destacan por abrir inversiones pequeñas en activos reales como bonos del Tesoro de EE. UU. y edificios de Wall Street.",
-        "body": "Los RWA, que pueden permitir inversiones pequeñas en activos reales como bonos del Tesoro de Estados Unidos y edificios de Wall Street, están atrayendo la atención de firmas financieras globales como BlackRock y Goldman Sachs. Los RWA conectan activos del mundo real con oportunidades de inversión y ofrecen una nueva opción a inversores que antes tenían difícil acceso a activos de alto valor. El reporte original citó los bonos estadounidenses y edificios de Wall Street como ejemplos, señalando que grandes firmas financieras miran este sector. No se detallaron condiciones de inversión ni estructuras de producto. La expansión de los RWA en la inversión minorista será un punto a seguir. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Investimento fracionado em RWA avança com BlackRock e Goldman de olho em ativos reais",
-        "excerpt": "BlackRock e Goldman Sachs observam os RWA, que ganham atenção ao permitir acesso a pequenos investimentos em Treasuries dos EUA e prédios de Wall Street.",
-        "body": "Os RWA, que podem permitir pequenos investimentos em ativos reais como Treasuries dos Estados Unidos e prédios de Wall Street, estão atraindo a atenção de instituições financeiras globais como BlackRock e Goldman Sachs. Os RWA conectam ativos do mundo real a oportunidades de investimento e oferecem uma nova alternativa a investidores que antes tinham dificuldade para acessar ativos de alto valor. A reportagem original citou os títulos públicos dos EUA e prédios de Wall Street como exemplos e afirmou que grandes instituições financeiras acompanham essa área. Não foram apresentados termos de investimento ou estruturas de produto específicas. A forma como os RWA se expandirão no mercado de pequenos investimentos será o ponto central. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "RWA-Kleinanlagen rücken in den Fokus: BlackRock und Goldman blicken auf US-Anleihen",
-        "excerpt": "BlackRock und Goldman Sachs richten den Blick auf RWA, die Kleinanlagen in reale Vermögenswerte wie US-Staatsanleihen und Gebäude an der Wall Street ermöglichen können.",
-        "body": "RWA, die Kleinanlagen in reale Vermögenswerte wie US-Staatsanleihen und Gebäude an der Wall Street ermöglichen können, ziehen die Aufmerksamkeit globaler Finanzfirmen wie BlackRock und Goldman Sachs auf sich. RWA verbinden reale Vermögenswerte mit Investitionsmöglichkeiten und bieten Anlegern, die bisher schwer Zugang zu hochpreisigen Assets hatten, eine neue Option. Der Originalbericht nannte US-Staatsanleihen und Wall-Street-Gebäude als Beispiele und berichtete, dass große Finanzfirmen diesen Bereich beobachten. Konkrete Anlagebedingungen oder Produktstrukturen wurden jedoch nicht genannt. Entscheidend wird sein, wie sich RWA im Markt für Kleinanlagen verbreiten. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les petits investissements en RWA séduisent BlackRock et Goldman via bons du Trésor et immeubles",
-        "excerpt": "BlackRock et Goldman Sachs s’intéressent aux RWA, qui mettent en avant l’accès à de petits investissements dans des actifs réels comme les bons du Trésor américain et les immeubles de Wall Street.",
-        "body": "Les RWA, qui peuvent permettre de petits investissements dans des actifs réels comme les bons du Trésor américain et les immeubles de Wall Street, attirent l’attention de groupes financiers mondiaux tels que BlackRock et Goldman Sachs. Les RWA relient des actifs du monde réel à des opportunités d’investissement et offrent une nouvelle option aux investisseurs qui avaient jusque-là du mal à accéder à des actifs de grande valeur. L’article original cite les bons du Trésor américain et les immeubles de Wall Street comme exemples, en indiquant que de grands acteurs financiers s’intéressent à ce domaine. Les conditions d’investissement ou structures de produits précises ne sont pas présentées. La manière dont les RWA se diffuseront sur le marché des petits investissements sera à suivre. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "استثمار RWA الصغير يبرز مع اهتمام بلاك روك وغولدمان بسندات أميركية ومبان في وول ستريت",
-        "excerpt": "تجذب RWA اهتمام بلاك روك وغولدمان ساكس لأنها تطرح إمكانية الاستثمار بمبالغ صغيرة في أصول حقيقية مثل سندات الخزانة الأميركية ومبان في وول ستريت.",
-        "body": "تحظى RWA، التي قد تتيح الاستثمار بمبالغ صغيرة في أصول حقيقية مثل سندات الخزانة الأميركية ومبان في وول ستريت، باهتمام شركات مالية عالمية مثل بلاك روك وغولدمان ساكس. وتقوم RWA بربط الأصول الواقعية بفرص الاستثمار، ما يقدم خيارا جديدا للمستثمرين الذين كان وصولهم إلى الأصول مرتفعة القيمة صعبا. وذكر التقرير الأصلي سندات الخزانة الأميركية ومباني وول ستريت كأمثلة، مشيرا إلى أن مؤسسات مالية كبرى تركز على هذا المجال. لكنه لم يقدم شروطا استثمارية محددة أو هياكل منتجات. وسيكون انتشار RWA في سوق الاستثمار الصغير نقطة متابعة رئيسية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "RWA छोटे निवेश पर फोकस, अमेरिकी बॉन्ड और वॉल स्ट्रीट इमारतों में ब्लैकरॉक-गोल्डमैन की दिलचस्पी",
-        "excerpt": "ब्लैकरॉक और गोल्डमैन सैक्स जिस RWA पर ध्यान दे रहे हैं, वह अमेरिकी ट्रेजरी और वॉल स्ट्रीट इमारतों जैसे वास्तविक परिसंपत्तियों में छोटे निवेश की संभावना से चर्चा में है।",
-        "body": "अमेरिकी ट्रेजरी और वॉल स्ट्रीट की इमारतों जैसी वास्तविक परिसंपत्तियों में छोटे स्तर पर निवेश की संभावना देने वाला RWA, ब्लैकरॉक और गोल्डमैन सैक्स जैसी वैश्विक वित्तीय कंपनियों का ध्यान खींच रहा है। RWA वास्तविक दुनिया की परिसंपत्तियों को निवेश अवसरों से जोड़ता है और उन निवेशकों को नया विकल्प देता है जिन्हें पहले उच्च मूल्य वाली परिसंपत्तियों तक पहुंचना कठिन था। मूल रिपोर्ट ने अमेरिकी ट्रेजरी और वॉल स्ट्रीट इमारतों को उदाहरण के रूप में बताया और कहा कि बड़ी वित्तीय कंपनियां इस क्षेत्र पर ध्यान दे रही हैं। हालांकि, निवेश की ठोस शर्तें या उत्पाद संरचना नहीं बताई गई। छोटे निवेश बाजार में RWA किस तरह फैलेगा, यह देखने वाली बात होगी। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Investasi Kecil RWA Mencuat, BlackRock dan Goldman Lirik Obligasi AS serta Gedung Wall Street",
-        "excerpt": "RWA yang menjadi perhatian BlackRock dan Goldman Sachs menarik minat karena membuka kemungkinan investasi kecil pada aset riil seperti obligasi pemerintah AS dan gedung Wall Street.",
-        "body": "RWA, yang dapat memungkinkan investasi kecil pada aset riil seperti obligasi pemerintah Amerika Serikat dan gedung Wall Street, menarik perhatian perusahaan keuangan global termasuk BlackRock dan Goldman Sachs. RWA menghubungkan aset dunia nyata dengan peluang investasi dan menawarkan pilihan baru bagi investor yang sebelumnya sulit mengakses aset bernilai tinggi. Laporan asli mencontohkan obligasi pemerintah AS dan gedung Wall Street, serta menyebut bahwa perusahaan keuangan besar sedang memperhatikan bidang ini. Namun, ketentuan investasi atau struktur produk yang spesifik tidak disampaikan. Cara RWA berkembang di pasar investasi kecil akan menjadi poin utama untuk dicermati. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "75919211cf70",
-    "slug": "모두-좋은-팔방미인-신세계를-다시-봐야-하는-이유-한경-premium9-today-855073",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T17:12:30.765Z",
-    "updatedAt": "2026-05-14T17:12:30.765Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051471951",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051471951",
-    "titleFingerprint": "81d841a760c510b759bc652607a3a4ec488e58f6",
-    "dedupKeys": [
-      "75919211cf70b2bee22312a7e73f5efefae2ad90",
-      "81d841a760c510b759bc652607a3a4ec488e58f6",
-      "f69eb888c17f45546fc46a775ea3f79dc37b924c"
-    ],
-    "imageUrl": "/images/articles/75919211cf70.png",
-    "i18n": {
-      "ko": {
-        "title": "신세계 1분기 어닝 서프라이즈, 백화점·패션·면세점 수익성 개선 주목",
-        "excerpt": "신세계는 2026년 5월 14일 보도에서 올해 1분기 어닝 서프라이즈를 기록했으며, 백화점·패션·면세점의 고른 수익성 개선과 목표주가 상승세가 주목됐다.",
-        "body": "신세계가 올해 1분기 어닝 서프라이즈를 기록하며 다시 주목받고 있다. 2026년 5월 14일 한국경제 보도에 따르면 신세계는 백화점뿐 아니라 패션과 면세점까지 수익성이 고르게 개선되며 실적 호조를 나타냈다. 특정 사업에만 의존하지 않고 여러 부문에서 성과가 나온 점이 이번 평가의 핵심이다. 이 같은 흐름 속에 증권가의 목표주가도 오름세를 보이고 있다. 한경 프리미엄9은 신세계의 실적 고공행진 배경을 심층적으로 다뤘다. 출처: hankyung.com 인용."
-      },
-      "en": {
-        "title": "Shinsegae Q1 Earnings Surprise Draws Attention as Profitability Improves Across Units",
-        "excerpt": "Shinsegae was highlighted on May 14, 2026 after posting a first-quarter earnings surprise, supported by improved profitability in department stores, fashion and duty-free operations.",
-        "body": "Shinsegae is drawing renewed market attention after posting an earnings surprise in the first quarter of this year. According to a Korea Economic Daily report on May 14, 2026, profitability improved evenly across its department store, fashion and duty-free businesses. The key point is that the stronger performance did not rely on only one business line, but came from several divisions at once. Against this backdrop, target prices for Shinsegae have also been moving higher. Hankyung Premium9 said it examined the reasons behind Shinsegae’s strong earnings momentum in depth. Source: cited from hankyung.com."
-      },
-      "ja": {
-        "title": "新世界の1四半期サプライズ決算、百貨店・ファッション・免税店の改善に注目",
-        "excerpt": "新世界は2026年5月14日の報道で、今年1四半期にサプライズ決算を記録し、百貨店、ファッション、免税店の収益性改善と目標株価の上昇が注目された。",
-        "body": "新世界が今年1四半期にサプライズ決算を記録し、改めて注目されている。2026年5月14日の韓国経済新聞の報道によると、新世界は百貨店だけでなく、ファッションと免税店でも収益性が均等に改善し、好調な業績を示した。特定の事業だけに依存せず、複数部門で成果が出た点が今回の評価の中心だ。こうした流れの中で、証券業界の目標株価も上昇傾向を見せている。韓経プレミアム9は、新世界の業績好調の背景を詳しく分析した。出典: hankyung.com引用。"
-      },
-      "zh": {
-        "title": "新世界一季度业绩超预期，百货、时尚与免税业务盈利改善受关注",
-        "excerpt": "据2026年5月14日报道，新世界今年一季度实现业绩超预期，百货、时尚和免税业务盈利能力均衡改善，目标股价上行也受到市场关注。",
-        "body": "新世界今年一季度实现业绩超预期，重新受到市场关注。据韩国经济新闻2026年5月14日报道，新世界不仅百货业务表现改善，时尚和免税店业务的盈利能力也同步提升，带动整体业绩向好。本次评价的核心在于，公司并非依赖单一业务，而是在多个板块同时取得成果。在这一趋势下，券商对新世界的目标股价也呈现上调势头。韩经Premium9对新世界业绩持续走强的背景进行了深入分析。来源：引自hankyung.com。"
-      },
-      "es": {
-        "title": "Shinsegae sorprende en el primer trimestre por mejoras en tiendas, moda y duty free",
-        "excerpt": "Shinsegae fue destacado el 14 de mayo de 2026 tras registrar una sorpresa de resultados en el primer trimestre, apoyada por mejoras de rentabilidad en grandes almacenes, moda y duty free.",
-        "body": "Shinsegae vuelve a captar la atención tras registrar una sorpresa de resultados en el primer trimestre de este año. Según informó Korea Economic Daily el 14 de mayo de 2026, la rentabilidad mejoró de forma equilibrada no solo en los grandes almacenes, sino también en los negocios de moda y duty free. El punto central es que el buen desempeño no dependió de una sola división, sino de avances en varias áreas. En este contexto, los precios objetivo de Shinsegae también muestran una tendencia al alza. Hankyung Premium9 analizó en profundidad las razones detrás de la sólida trayectoria de resultados de la compañía. Fuente: citado de hankyung.com."
-      },
-      "pt": {
-        "title": "Shinsegae surpreende no 1º trimestre com melhora em lojas, moda e duty free",
-        "excerpt": "A Shinsegae ganhou destaque em 14 de maio de 2026 após registrar surpresa nos resultados do primeiro trimestre, apoiada por melhora de rentabilidade em lojas de departamento, moda e duty free.",
-        "body": "A Shinsegae voltou a chamar atenção após registrar uma surpresa nos resultados do primeiro trimestre deste ano. Segundo reportagem do Korea Economic Daily em 14 de maio de 2026, a rentabilidade melhorou de forma equilibrada nas lojas de departamento, no negócio de moda e nas operações duty free. O ponto central é que o desempenho positivo não dependeu de apenas uma área, mas veio de vários segmentos. Nesse cenário, os preços-alvo para a Shinsegae também vêm mostrando tendência de alta. O Hankyung Premium9 analisou em profundidade os motivos por trás da forte trajetória de resultados da empresa. Fonte: citado de hankyung.com."
-      },
-      "de": {
-        "title": "Shinsegae überrascht im ersten Quartal mit besserer Profitabilität in mehreren Sparten",
-        "excerpt": "Shinsegae stand am 14. Mai 2026 im Fokus, nachdem das Unternehmen im ersten Quartal die Erwartungen übertraf, gestützt durch bessere Profitabilität in Kaufhäusern, Mode und Duty-free.",
-        "body": "Shinsegae rückt nach einer Ergebnisüberraschung im ersten Quartal dieses Jahres erneut in den Fokus. Laut einem Bericht der Korea Economic Daily vom 14. Mai 2026 verbesserte sich die Profitabilität nicht nur im Kaufhausgeschäft, sondern auch in den Bereichen Mode und Duty-free gleichmäßig. Entscheidend ist, dass die stärkere Entwicklung nicht von einer einzelnen Sparte abhing, sondern aus mehreren Geschäftsbereichen kam. Vor diesem Hintergrund zeigen auch die Kursziele für Shinsegae eine steigende Tendenz. Hankyung Premium9 analysierte die Gründe für die starke Ergebnisentwicklung des Unternehmens ausführlich. Quelle: zitiert nach hankyung.com."
-      },
-      "fr": {
-        "title": "Shinsegae surprend au 1er trimestre grâce aux grands magasins, à la mode et au duty free",
-        "excerpt": "Shinsegae a été mis en avant le 14 mai 2026 après une surprise de résultats au premier trimestre, portée par une amélioration de la rentabilité dans les grands magasins, la mode et le duty free.",
-        "body": "Shinsegae attire de nouveau l’attention après avoir enregistré une surprise de résultats au premier trimestre de cette année. Selon un article du Korea Economic Daily daté du 14 mai 2026, la rentabilité s’est améliorée de manière équilibrée dans les grands magasins, mais aussi dans la mode et le duty free. Le point clé est que la bonne performance ne repose pas sur une seule activité, mais sur plusieurs divisions à la fois. Dans ce contexte, les objectifs de cours de Shinsegae affichent également une tendance haussière. Hankyung Premium9 a analysé en profondeur les raisons de cette forte dynamique de résultats. Source: cité de hankyung.com."
-      },
-      "ar": {
-        "title": "شينسيغيه تحقق مفاجأة في أرباح الربع الأول مع تحسن متوازن في الأنشطة الرئيسية",
-        "excerpt": "برزت شينسيغيه في تقرير 14 مايو 2026 بعد تسجيل مفاجأة في أرباح الربع الأول، بدعم من تحسن ربحية المتاجر الكبرى والأزياء والسوق الحرة وارتفاع الأسعار المستهدفة.",
-        "body": "عادت شينسيغيه إلى دائرة الاهتمام بعد تسجيلها مفاجأة في أرباح الربع الأول من هذا العام. ووفق تقرير لصحيفة كوريا الاقتصادية في 14 مايو 2026، تحسنت الربحية بشكل متوازن في المتاجر الكبرى، وكذلك في قطاعي الأزياء والسوق الحرة. وتكمن أهمية التقييم في أن الأداء القوي لم يعتمد على نشاط واحد فقط، بل جاء من عدة قطاعات في الوقت نفسه. وفي ظل هذا الاتجاه، بدأت الأسعار المستهدفة لسهم شينسيغيه تظهر مسارا صاعدا. وتناول برنامج هانكيونغ بريميوم9 بشكل معمق أسباب استمرار قوة نتائج الشركة. المصدر: مقتبس من hankyung.com."
-      },
-      "hi": {
-        "title": "शिनसेगेई की पहली तिमाही में कमाई ने चौंकाया, कई कारोबारों में मुनाफा सुधरा",
-        "excerpt": "14 मई 2026 की रिपोर्ट में शिनसेगेई पहली तिमाही की उम्मीद से बेहतर कमाई के कारण चर्चा में रही, जिसे डिपार्टमेंट स्टोर, फैशन और ड्यूटी-फ्री कारोबार की बेहतर लाभप्रदता से समर्थन मिला।",
-        "body": "शिनसेगेई इस साल की पहली तिमाही में उम्मीद से बेहतर कमाई दर्ज करने के बाद फिर चर्चा में है। 14 मई 2026 को Korea Economic Daily की रिपोर्ट के अनुसार, कंपनी की लाभप्रदता केवल डिपार्टमेंट स्टोर में ही नहीं, बल्कि फैशन और ड्यूटी-फ्री कारोबार में भी समान रूप से सुधरी। इस मूल्यांकन का मुख्य बिंदु यह है कि प्रदर्शन किसी एक कारोबार पर निर्भर नहीं था, बल्कि कई क्षेत्रों से आया। इसी प्रवाह में शिनसेगेई के लक्ष्य शेयर मूल्य भी ऊपर की दिशा दिखा रहे हैं। Hankyung Premium9 ने कंपनी की मजबूत कमाई की पृष्ठभूमि का गहन विश्लेषण किया। स्रोत: hankyung.com से उद्धृत."
-      },
-      "id": {
-        "title": "Shinsegae Cetak Kejutan Laba Kuartal I, Profitabilitas Beberapa Unit Membaik",
-        "excerpt": "Shinsegae menjadi sorotan pada 14 Mei 2026 setelah mencatat kejutan laba kuartal pertama, didukung peningkatan profitabilitas di department store, fesyen, dan bisnis duty free.",
-        "body": "Shinsegae kembali mendapat perhatian setelah mencatat kejutan laba pada kuartal pertama tahun ini. Menurut laporan Korea Economic Daily pada 14 Mei 2026, profitabilitas membaik secara merata tidak hanya di department store, tetapi juga di bisnis fesyen dan duty free. Poin utama dari penilaian ini adalah kinerja yang lebih kuat tidak bergantung pada satu lini usaha saja, melainkan muncul dari beberapa divisi sekaligus. Dalam tren tersebut, target harga saham Shinsegae juga bergerak naik. Hankyung Premium9 mengulas secara mendalam alasan di balik laju kinerja Shinsegae yang kuat. Sumber: dikutip dari hankyung.com."
-      }
-    }
-  },
-  {
-    "id": "49d7ae16d53d",
-    "slug": "신한투자증권-1분기-퇴직연금-수익률-업계-톱-달성-728330",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T17:11:29.690Z",
-    "updatedAt": "2026-05-14T17:11:29.691Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472471",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472471",
-    "titleFingerprint": "f9eea7c948a643215ca40aec803722cfbabdb664",
-    "dedupKeys": [
-      "49d7ae16d53d32f7ad9f18efea0116c9af2a5609",
-      "f9eea7c948a643215ca40aec803722cfbabdb664",
-      "392c319e87f9241a92e0e61e66f7be30f0cf2278"
-    ],
-    "imageUrl": "/images/articles/49d7ae16d53d.png",
-    "i18n": {
-      "ko": {
-        "title": "신한투자증권 1분기 퇴직연금 수익률 업계 톱 달성, 성과 주목",
-        "excerpt": "신한투자증권이 1분기 퇴직연금 수익률에서 업계 톱을 달성했다. 퇴직연금 운용 성과가 증권업계 경쟁력의 핵심 지표로 부각되는 가운데 나온 결과다.",
-        "body": "신한투자증권이 1분기 퇴직연금 수익률에서 업계 톱을 달성했다고 hankyung.com이 보도했다. 이번 성과는 퇴직연금 운용 수익률을 기준으로 한 증권업계 비교에서 신한투자증권이 가장 앞선 결과를 냈다는 점에 의미가 있다. 퇴직연금은 장기 자산 운용 성과와 안정성이 함께 평가되는 분야로, 고객의 노후 자산 관리와 금융회사 운용 역량을 가늠하는 핵심 지표로 활용된다. 1분기 성과가 확인되면서 신한투자증권의 퇴직연금 운용 경쟁력에 대한 시장 관심도 커질 것으로 보인다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Shinhan Securities Tops Industry in Q1 Retirement Pension Returns",
-        "excerpt": "Shinhan Securities achieved the industry’s top retirement pension return in the first quarter, a result that highlights pension management performance as a key measure of brokerage competitiveness.",
-        "body": "Shinhan Securities achieved the industry’s top retirement pension return in the first quarter, according to hankyung.com. The result is significant because Shinhan Securities led the securities industry comparison based on retirement pension investment returns. Retirement pension management is an area where long-term asset performance and stability are both assessed, and it is widely used as a key indicator of a financial firm’s operating capability and customers’ retirement asset management. With the first-quarter performance confirmed, market attention is expected to focus on Shinhan Securities’ competitiveness in retirement pension management. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "新韓投資証券、1四半期の退職年金収益率で業界トップ達成",
-        "excerpt": "新韓投資証券が第1四半期の退職年金収益率で業界トップを達成した。退職年金運用成績が証券業界の競争力を示す重要指標として注目される中での結果だ。",
-        "body": "新韓投資証券が第1四半期の退職年金収益率で業界トップを達成したと、hankyung.comが報じた。今回の成果は、退職年金の運用収益率を基準にした証券業界の比較で、新韓投資証券が最も先行する結果を示した点に意味がある。退職年金は長期の資産運用成果と安定性がともに評価される分野であり、顧客の老後資産管理と金融会社の運用力を測る主要指標として活用される。第1四半期の成果が確認されたことで、新韓投資証券の退職年金運用競争力への市場の関心も高まりそうだ。出所: hankyung.com"
-      },
-      "zh": {
-        "title": "新韩投资证券一季度退休金收益率居行业首位，业绩受关注",
-        "excerpt": "新韩投资证券在第一季度退休金收益率方面达到行业最高水平。随着退休金运营表现成为证券业竞争力的重要指标，这一结果受到关注。",
-        "body": "据hankyung.com报道，新韩投资证券在第一季度退休金收益率方面达到行业最高水平。此次成绩的意义在于，以退休金运营收益率为标准进行证券行业比较时，新韩投资证券取得了领先结果。退休金业务同时考量长期资产运营成果和稳定性，是衡量客户养老资产管理以及金融公司运营能力的重要指标。随着第一季度成绩得到确认，市场对新韩投资证券退休金运营竞争力的关注预计将进一步提升。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Shinhan Securities lidera la rentabilidad de pensiones de retiro en el 1T",
-        "excerpt": "Shinhan Securities logró la mayor rentabilidad del sector en pensiones de retiro durante el primer trimestre, un resultado que subraya la importancia de la gestión previsional.",
-        "body": "Shinhan Securities logró la mayor rentabilidad del sector en pensiones de retiro durante el primer trimestre, según informó hankyung.com. El resultado es relevante porque la firma encabezó la comparación del sector de valores basada en la rentabilidad de la gestión de pensiones de retiro. Este negocio evalúa tanto el desempeño de largo plazo de los activos como la estabilidad, y se utiliza como un indicador clave de la capacidad operativa de una entidad financiera y de la gestión de los activos de jubilación de los clientes. Tras confirmarse el desempeño del primer trimestre, aumentará la atención del mercado sobre la competitividad de Shinhan Securities en pensiones de retiro. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Shinhan Securities lidera retornos de previdência no 1º trimestre",
-        "excerpt": "A Shinhan Securities alcançou o maior retorno do setor em previdência de aposentadoria no primeiro trimestre, destacando a gestão previdenciária como indicador de competitividade.",
-        "body": "A Shinhan Securities alcançou o maior retorno do setor em previdência de aposentadoria no primeiro trimestre, segundo o hankyung.com. O resultado é relevante porque a empresa liderou a comparação do setor de corretoras com base na rentabilidade da gestão de previdência. Essa área avalia tanto o desempenho de longo prazo dos ativos quanto a estabilidade, sendo usada como indicador central da capacidade de gestão de uma instituição financeira e da administração dos recursos de aposentadoria dos clientes. Com a confirmação do desempenho do primeiro trimestre, a competitividade da Shinhan Securities em previdência deve atrair maior atenção do mercado. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Shinhan Securities erzielt im 1. Quartal Top-Rendite bei Betriebsrenten",
-        "excerpt": "Shinhan Securities erreichte im ersten Quartal die höchste Rendite der Branche bei Rentenprodukten und rückt damit die Bedeutung der Vorsorgeverwaltung als Wettbewerbsfaktor in den Fokus.",
-        "body": "Shinhan Securities hat im ersten Quartal die branchenweit höchste Rendite bei Rentenprodukten erzielt, wie hankyung.com berichtete. Das Ergebnis ist bedeutsam, weil Shinhan Securities im Vergleich der Wertpapierbranche auf Basis der Rendite in der Rentenverwaltung an der Spitze lag. Die Verwaltung von Rentenvermögen ist ein Bereich, in dem langfristige Anlageergebnisse und Stabilität gemeinsam bewertet werden. Sie gilt als zentraler Indikator für die Fähigkeit eines Finanzunternehmens, Altersvorsorgevermögen von Kunden zu managen. Mit dem bestätigten Ergebnis des ersten Quartals dürfte die Wettbewerbsfähigkeit von Shinhan Securities in diesem Bereich stärker in den Fokus des Marktes rücken. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Shinhan Securities en tête des rendements retraite au 1er trimestre",
-        "excerpt": "Shinhan Securities a obtenu le meilleur rendement du secteur pour les régimes de retraite au premier trimestre, mettant en avant la performance de gestion comme indicateur clé.",
-        "body": "Shinhan Securities a obtenu le meilleur rendement du secteur pour les régimes de retraite au premier trimestre, selon hankyung.com. Ce résultat est significatif car la société a dominé la comparaison du secteur des valeurs mobilières fondée sur le rendement de la gestion des retraites. La retraite est un domaine où la performance de long terme des actifs et la stabilité sont évaluées ensemble, et elle sert d’indicateur clé de la capacité de gestion d’une institution financière ainsi que de l’administration des actifs de retraite des clients. La confirmation des résultats du premier trimestre devrait accroître l’attention du marché sur la compétitivité de Shinhan Securities dans ce segment. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "شينهان للاستثمار تتصدر عوائد معاشات التقاعد في الربع الأول",
-        "excerpt": "حققت شينهان للاستثمار أعلى عائد في القطاع لمعاشات التقاعد خلال الربع الأول، في نتيجة تبرز أهمية أداء إدارة التقاعد كمؤشر رئيسي للتنافسية المالية.",
-        "body": "حققت شينهان للاستثمار أعلى عائد في القطاع لمعاشات التقاعد خلال الربع الأول، بحسب ما أورد موقع hankyung.com. وتكتسب هذه النتيجة أهميتها لأنها تعني أن الشركة تقدمت في المقارنة داخل قطاع الأوراق المالية على أساس عوائد إدارة معاشات التقاعد. ويعد هذا المجال من المجالات التي يجري فيها تقييم أداء الأصول على المدى الطويل إلى جانب الاستقرار، كما يستخدم مؤشرا رئيسيا على قدرة المؤسسة المالية في إدارة أصول التقاعد للعملاء. ومع تأكيد أداء الربع الأول، من المتوقع أن يزداد اهتمام السوق بتنافسية شينهان للاستثمار في إدارة معاشات التقاعد. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "शिनहान सिक्योरिटीज ने पहली तिमाही में रिटायरमेंट पेंशन रिटर्न में शीर्ष स्थान पाया",
-        "excerpt": "शिनहान सिक्योरिटीज ने पहली तिमाही में रिटायरमेंट पेंशन रिटर्न के मामले में उद्योग में शीर्ष स्थान हासिल किया, जिससे पेंशन प्रबंधन प्रदर्शन एक अहम प्रतिस्पर्धी संकेतक के रूप में उभरा।",
-        "body": "hankyung.com के अनुसार, शिनहान सिक्योरिटीज ने पहली तिमाही में रिटायरमेंट पेंशन रिटर्न के मामले में उद्योग में शीर्ष स्थान हासिल किया। यह उपलब्धि इसलिए अहम है क्योंकि रिटायरमेंट पेंशन संचालन के रिटर्न को आधार बनाकर की गई प्रतिभूति उद्योग की तुलना में शिनहान सिक्योरिटीज सबसे आगे रही। रिटायरमेंट पेंशन ऐसा क्षेत्र है जहां दीर्घकालिक परिसंपत्ति प्रदर्शन और स्थिरता दोनों का मूल्यांकन किया जाता है। इसे ग्राहकों की सेवानिवृत्ति परिसंपत्ति प्रबंधन और वित्तीय कंपनी की संचालन क्षमता को मापने वाले प्रमुख संकेतक के रूप में देखा जाता है। पहली तिमाही का प्रदर्शन सामने आने के बाद इस क्षेत्र में शिनहान सिक्योरिटीज की प्रतिस्पर्धात्मकता पर बाजार का ध्यान बढ़ने की संभावना है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Shinhan Securities Puncaki Imbal Hasil Dana Pensiun Kuartal I",
-        "excerpt": "Shinhan Securities mencatat imbal hasil dana pensiun tertinggi di industri pada kuartal pertama, menegaskan kinerja pengelolaan pensiun sebagai indikator daya saing utama.",
-        "body": "Shinhan Securities mencatat imbal hasil dana pensiun tertinggi di industri pada kuartal pertama, menurut hankyung.com. Capaian ini penting karena Shinhan Securities memimpin perbandingan industri sekuritas berdasarkan imbal hasil pengelolaan dana pensiun. Dana pensiun merupakan bidang yang menilai kinerja aset jangka panjang sekaligus stabilitas, dan digunakan sebagai indikator utama kemampuan pengelolaan perusahaan keuangan serta manajemen aset pensiun nasabah. Dengan kinerja kuartal pertama yang telah dikonfirmasi, perhatian pasar terhadap daya saing Shinhan Securities dalam pengelolaan dana pensiun diperkirakan meningkat. Sumber: hankyung.com"
       }
     }
   }
