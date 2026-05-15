@@ -1,0 +1,75 @@
+{
+  "id": "028054e7f485",
+  "slug": "스타크넷-비트코인-프라이버시-솔루션-출시-398702",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-15T20:38:28.730Z",
+  "updatedAt": "2026-05-15T20:38:28.730Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051595806",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051595806",
+  "titleFingerprint": "3d36fb1aa93201cc2bb8669eebdd07fac1f65020",
+  "dedupKeys": [
+    "028054e7f4856106e78cd66d17de0186d1758f34",
+    "3d36fb1aa93201cc2bb8669eebdd07fac1f65020",
+    "5d5f7bb1f4def4ba4a1259167a67c147c685258a"
+  ],
+  "imageUrl": "/images/articles/028054e7f485.jpg",
+  "i18n": {
+    "ko": {
+      "title": "스타크넷 비트코인 프라이버시 솔루션 strkBTC 공개, 온체인 잔액·거래내역 보호 겨냥",
+      "excerpt": "이더리움 레이어2 솔루션 스타크넷은 15일 비트코인 보유자의 잔액과 거래 내역이 퍼블릭 블록체인에 공개되지 않도록 설계한 프라이버시 솔루션 strkBTC를 공개했다.",
+      "body": "이더리움 레이어2 솔루션 스타크넷이 15일 비트코인 보유자의 잔액 및 거래 내역을 퍼블릭 블록체인상에 공개하지 않도록 설계된 프라이버시 솔루션 ‘strkBTC’를 공개했다. 비트코인 거래는 공개 블록체인 특성상 주소 기반 정보가 외부에 노출될 수 있어, 이번 솔루션은 보유자 정보와 거래 기록 노출을 줄이는 데 초점을 맞춘 것으로 소개됐다. 원문에는 서비스 구조, 지원 범위, 이용 조건 등 추가 세부 수치는 제시되지 않았다. 출처: hankyung.com은 블루밍비트 보도를 인용해 이 같은 내용을 전했다."
+    },
+    "en": {
+      "title": "Starknet Unveils Bitcoin Privacy Solution strkBTC to Shield Balances and Transaction History",
+      "excerpt": "Starknet, an Ethereum Layer 2 solution, unveiled strkBTC on May 15, a Bitcoin privacy solution designed to keep holders’ balances and transaction histories from being exposed on public blockchains.",
+      "body": "Starknet, an Ethereum Layer 2 solution, unveiled ‘strkBTC’ on May 15, a privacy solution designed to prevent Bitcoin holders’ balances and transaction histories from being disclosed on public blockchains. Because Bitcoin transactions occur on a public blockchain, address-based information can be visible externally. The solution was introduced as a way to reduce exposure of holder information and transaction records. The original report did not provide further figures on service architecture, supported scope, or usage terms. Source: hankyung.com cited a Bloomingbit report for the news."
+    },
+    "ja": {
+      "title": "スタークネット、ビットコイン向けプライバシーソリューションstrkBTCを公開",
+      "excerpt": "イーサリアムのレイヤー2ソリューションであるスタークネットは15日、ビットコイン保有者の残高や取引履歴が公開ブロックチェーン上に表示されないよう設計したstrkBTCを公開した。",
+      "body": "イーサリアムのレイヤー2ソリューションであるスタークネットは15日、ビットコイン保有者の残高および取引履歴が公開ブロックチェーン上に開示されないよう設計されたプライバシーソリューション『strkBTC』を公開した。ビットコイン取引は公開ブロックチェーンの性質上、アドレスに基づく情報が外部から確認され得るため、今回のソリューションは保有者情報と取引記録の露出を抑えることに焦点を当てたものと紹介された。原文ではサービス構造、対応範囲、利用条件などの追加数値は示されていない。出典: hankyung.comはブルーミングビットの報道を引用して伝えた。"
+    },
+    "zh": {
+      "title": "Starknet推出比特币隐私解决方案strkBTC，聚焦链上余额与交易记录保护",
+      "excerpt": "以太坊二层解决方案Starknet于15日公布strkBTC，该比特币隐私方案旨在避免持有者余额和交易历史在公共区块链上被公开显示。",
+      "body": "以太坊二层解决方案Starknet于15日公布了隐私解决方案“strkBTC”，其设计目标是避免比特币持有者的余额及交易历史在公共区块链上被公开披露。由于比特币交易基于公共区块链运行，地址相关信息可能被外部查看，因此该方案被介绍为聚焦减少持有者信息和交易记录暴露的工具。原文未提供服务结构、支持范围、使用条件等进一步数据或细节。来源：hankyung.com援引Bloomingbit报道称上述消息。"
+    },
+    "es": {
+      "title": "Starknet presenta strkBTC, una solución de privacidad para Bitcoin centrada en saldos e historial",
+      "excerpt": "Starknet, solución de capa 2 de Ethereum, presentó el 15 de mayo strkBTC, diseñada para evitar que saldos e historiales de transacciones de titulares de Bitcoin se expongan en blockchains públicas.",
+      "body": "Starknet, una solución de capa 2 de Ethereum, presentó el 15 de mayo ‘strkBTC’, una solución de privacidad diseñada para impedir que los saldos y el historial de transacciones de los titulares de Bitcoin se revelen en blockchains públicas. Dado que las transacciones de Bitcoin se realizan en una blockchain pública, la información basada en direcciones puede quedar visible externamente. La solución fue presentada como una forma de reducir la exposición de información de titulares y registros de transacciones. El texto original no ofrece cifras adicionales sobre estructura del servicio, alcance compatible o condiciones de uso. Fuente: hankyung.com citó un reporte de Bloomingbit."
+    },
+    "pt": {
+      "title": "Starknet revela strkBTC, solução de privacidade para Bitcoin focada em saldos e transações",
+      "excerpt": "A Starknet, solução de camada 2 da Ethereum, apresentou em 15 de maio a strkBTC, criada para impedir que saldos e históricos de transações de detentores de Bitcoin sejam expostos em blockchains públicas.",
+      "body": "A Starknet, solução de camada 2 da Ethereum, apresentou em 15 de maio a ‘strkBTC’, uma solução de privacidade desenhada para impedir que saldos e históricos de transações de detentores de Bitcoin sejam divulgados em blockchains públicas. Como as transações de Bitcoin ocorrem em uma blockchain pública, informações baseadas em endereços podem ficar visíveis externamente. A solução foi apresentada como uma forma de reduzir a exposição de dados de detentores e registros de transações. O texto original não trouxe números adicionais sobre estrutura do serviço, escopo de suporte ou condições de uso. Fonte: hankyung.com citou reportagem da Bloomingbit."
+    },
+    "de": {
+      "title": "Starknet stellt Bitcoin-Datenschutzlösung strkBTC für Salden und Transaktionshistorien vor",
+      "excerpt": "Starknet, eine Ethereum-Layer-2-Lösung, stellte am 15. Mai strkBTC vor, eine Bitcoin-Datenschutzlösung, die Salden und Transaktionshistorien von Inhabern vor Offenlegung auf öffentlichen Blockchains schützen soll.",
+      "body": "Starknet, eine Ethereum-Layer-2-Lösung, stellte am 15. Mai ‘strkBTC’ vor, eine Datenschutzlösung, die verhindern soll, dass Salden und Transaktionshistorien von Bitcoin-Inhabern auf öffentlichen Blockchains offengelegt werden. Da Bitcoin-Transaktionen auf einer öffentlichen Blockchain stattfinden, können adressbasierte Informationen von außen sichtbar sein. Die Lösung wurde als Ansatz vorgestellt, um die Offenlegung von Inhaberdaten und Transaktionsaufzeichnungen zu verringern. Der Originalbericht nannte keine weiteren Zahlen zur Servicearchitektur, zum unterstützten Umfang oder zu Nutzungsbedingungen. Quelle: hankyung.com berief sich auf einen Bericht von Bloomingbit."
+    },
+    "fr": {
+      "title": "Starknet dévoile strkBTC, solution de confidentialité Bitcoin pour soldes et historiques",
+      "excerpt": "Starknet, solution de couche 2 d’Ethereum, a dévoilé le 15 mai strkBTC, conçue pour éviter l’exposition des soldes et historiques de transactions des détenteurs de Bitcoin sur les blockchains publiques.",
+      "body": "Starknet, solution de couche 2 d’Ethereum, a dévoilé le 15 mai ‘strkBTC’, une solution de confidentialité conçue pour empêcher la divulgation des soldes et historiques de transactions des détenteurs de Bitcoin sur les blockchains publiques. Les transactions Bitcoin se déroulant sur une blockchain publique, les informations liées aux adresses peuvent être visibles de l’extérieur. La solution a été présentée comme un moyen de réduire l’exposition des informations des détenteurs et des registres de transactions. Le texte original ne donne pas de chiffres supplémentaires sur l’architecture du service, le périmètre pris en charge ou les conditions d’utilisation. Source: hankyung.com a cité un reportage de Bloomingbit."
+    },
+    "ar": {
+      "title": "ستارك نت تكشف عن strkBTC لحماية خصوصية أرصدة البيتكوين وسجلات المعاملات",
+      "excerpt": "كشفت ستارك نت، حل الطبقة الثانية على إيثريوم، في 15 مايو عن strkBTC، وهو حل خصوصية للبيتكوين صمم لمنع ظهور أرصدة الحائزين وسجلات معاملاتهم على سلاسل الكتل العامة.",
+      "body": "كشفت ستارك نت، وهي حل من الطبقة الثانية على إيثريوم، في 15 مايو عن حل الخصوصية ‘strkBTC’ المصمم لمنع الكشف عن أرصدة حائزي البيتكوين وسجلات معاملاتهم على سلاسل الكتل العامة. وبما أن معاملات البيتكوين تتم على سلسلة كتل عامة، فقد تكون المعلومات المرتبطة بالعناوين مرئية من الخارج. وقد قُدم الحل بوصفه وسيلة لتقليل انكشاف معلومات الحائزين وسجلات المعاملات. ولم يورد النص الأصلي أرقاما إضافية عن بنية الخدمة أو نطاق الدعم أو شروط الاستخدام. المصدر: نقل hankyung.com الخبر عن تقرير لبلومينغبيت."
+    },
+    "hi": {
+      "title": "Starknet ने Bitcoin गोपनीयता समाधान strkBTC पेश किया, बैलेंस और लेनदेन इतिहास की सुरक्षा पर जोर",
+      "excerpt": "Ethereum Layer 2 समाधान Starknet ने 15 मई को strkBTC पेश किया, जिसे Bitcoin धारकों के बैलेंस और लेनदेन इतिहास को सार्वजनिक ब्लॉकचेन पर उजागर होने से रोकने के लिए डिजाइन किया गया है।",
+      "body": "Ethereum Layer 2 समाधान Starknet ने 15 मई को ‘strkBTC’ पेश किया, जो ऐसा गोपनीयता समाधान है जिसे Bitcoin धारकों के बैलेंस और लेनदेन इतिहास को सार्वजनिक ब्लॉकचेन पर उजागर होने से रोकने के लिए डिजाइन किया गया है। Bitcoin लेनदेन सार्वजनिक ब्लॉकचेन पर होते हैं, इसलिए पते से जुड़ी जानकारी बाहरी रूप से देखी जा सकती है। इस समाधान को धारक की जानकारी और लेनदेन रिकॉर्ड के खुलासे को कम करने पर केंद्रित बताया गया। मूल रिपोर्ट में सेवा संरचना, समर्थित दायरे या उपयोग शर्तों पर अतिरिक्त आंकड़े नहीं दिए गए। स्रोत: hankyung.com ने Bloomingbit की रिपोर्ट का हवाला देते हुए यह जानकारी दी।"
+    },
+    "id": {
+      "title": "Starknet Rilis Solusi Privasi Bitcoin strkBTC untuk Lindungi Saldo dan Riwayat Transaksi",
+      "excerpt": "Starknet, solusi Layer 2 Ethereum, pada 15 Mei memperkenalkan strkBTC, solusi privasi Bitcoin yang dirancang agar saldo dan riwayat transaksi pemegang tidak terekspos di blockchain publik.",
+      "body": "Starknet, solusi Layer 2 Ethereum, pada 15 Mei memperkenalkan ‘strkBTC’, solusi privasi yang dirancang untuk mencegah saldo dan riwayat transaksi pemegang Bitcoin terungkap di blockchain publik. Karena transaksi Bitcoin berlangsung di blockchain publik, informasi berbasis alamat dapat terlihat dari luar. Solusi ini diperkenalkan sebagai cara untuk mengurangi paparan informasi pemegang dan catatan transaksi. Laporan asli tidak menyajikan angka tambahan mengenai struktur layanan, cakupan dukungan, atau ketentuan penggunaan. Sumber: hankyung.com mengutip laporan Bloomingbit terkait kabar ini."
+    }
+  }
+}
