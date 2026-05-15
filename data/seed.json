@@ -1,5 +1,230 @@
 [
   {
+    "id": "4ac4c8bb185c",
+    "slug": "장중-4-넘게-미끄러진-코스피-매도-사이드카-발동-304331",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T08:30:56.115Z",
+    "updatedAt": "2026-05-15T08:30:56.115Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049065",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049065",
+    "titleFingerprint": "fd8e3580ca302303b18be01b3a7ce5d309b923a8",
+    "dedupKeys": [
+      "4ac4c8bb185c6ff546ebdacd60f9709af62b7e6f",
+      "fd8e3580ca302303b18be01b3a7ce5d309b923a8",
+      "a1c4dd93580d8cfcdbce6c269ba8ea4c938003af"
+    ],
+    "imageUrl": "/images/articles/4ac4c8bb185c.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 장중 4%대 급락, 코스피200 선물 5% 하락에 매도 사이드카 발동",
+        "excerpt": "15일 오후 코스피가 장중 4% 넘게 밀리고 코스피200 선물지수가 5% 이상 급락하면서 유가증권시장에 매도 사이드카가 발동됐다.",
+        "body": "15일 오후 유가증권시장에서 코스피가 장중 4% 넘게 하락했다. 코스피200 선물지수가 5% 이상 급락하면서 매도 사이드카가 발동됐다. 개인 투자자가 4조원 규모로 순매수했지만 외국인과 기관의 매도가 지수를 끌어내렸다. 시가총액 상위 종목인 삼성전자와 SK하이닉스도 장중 6%대 급락세를 보였다. 선물 급락에 따른 프로그램 매도 압력이 커지며 시장 변동성이 확대된 것으로 전해졌다. 투자자들은 외국인·기관 수급과 대형 반도체주의 낙폭을 주시하고 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "KOSPI Slides Over 4% Intraday as Sell Sidecar Triggered on Futures Drop",
+        "excerpt": "On the afternoon of the 15th, KOSPI fell more than 4% intraday and the KOSPI 200 futures index dropped over 5%, triggering a sell sidecar in the main market.",
+        "body": "On the afternoon of the 15th, South Korea’s KOSPI fell more than 4% during trading. A sell sidecar was triggered in the main stock market after the KOSPI 200 futures index plunged by more than 5%. Individual investors net bought about 4 trillion won, but selling by foreign and institutional investors weighed on the index. Major market-cap stocks Samsung Electronics and SK Hynix also dropped in the 6% range intraday. The sharp futures decline reportedly raised program-selling pressure and widened market volatility. Investors are watching foreign and institutional flows as well as the fall in major semiconductor shares. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPIが取引時間中に4％超急落、先物5％安で売りサイドカー発動",
+        "excerpt": "15日午後、KOSPIが取引時間中に4％超下落し、KOSPI200先物指数が5％以上急落したことで、有価証券市場で売りサイドカーが発動された。",
+        "body": "15日午後、韓国有価証券市場でKOSPIが取引時間中に4％を超えて下落した。KOSPI200先物指数が5％以上急落したため、売りサイドカーが発動された。個人投資家は4兆ウォン規模で買い越したが、外国人と機関投資家の売りが指数を押し下げた。時価総額上位銘柄のサムスン電子とSKハイニックスも取引時間中に6％台の急落となった。先物急落に伴うプログラム売り圧力が高まり、市場の変動性が拡大したと伝えられている。投資家は外国人・機関の需給と大型半導体株の下落幅を注視している。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "KOSPI盘中跌超4%，KOSPI200期货重挫5%触发卖出熔断",
+        "excerpt": "15日下午，KOSPI盘中下跌超过4%，KOSPI200期货指数跌逾5%，韩国有价证券市场触发卖出sidecar机制。",
+        "body": "15日下午，韩国有价证券市场中KOSPI盘中下跌超过4%。由于KOSPI200期货指数急跌逾5%，市场触发卖出sidecar机制。尽管个人投资者净买入约4万亿韩元，但外国投资者和机构投资者的抛售拖累指数。市值龙头三星电子和SK海力士盘中也一度跌至6%区间。报道称，期货急跌带来的程序化卖出压力上升，市场波动性扩大。投资者正关注外资和机构资金流向，以及大型半导体股的跌幅。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "KOSPI cae más de 4% intradía y activa sidecar de venta por desplome de futuros",
+        "excerpt": "La tarde del día 15, el KOSPI bajó más de 4% intradía y los futuros del KOSPI 200 cayeron más de 5%, activando un sidecar de venta en el mercado principal.",
+        "body": "La tarde del día 15, el KOSPI de Corea del Sur cayó más de 4% durante la sesión. En el mercado principal se activó un sidecar de venta después de que el índice de futuros KOSPI 200 se desplomara más de 5%. Los inversionistas minoristas compraron en neto alrededor de 4 billones de wones, pero las ventas de extranjeros e instituciones presionaron al índice. Samsung Electronics y SK Hynix, grandes valores por capitalización, también retrocedieron en torno al 6% intradía. Según se informó, la fuerte caída de los futuros elevó la presión de ventas programadas y amplió la volatilidad del mercado. Los inversionistas observan los flujos de extranjeros e instituciones y la caída de los grandes semiconductores. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "KOSPI cai mais de 4% no intradia e aciona sidecar de venda após futuros recuarem",
+        "excerpt": "Na tarde do dia 15, o KOSPI caiu mais de 4% no intradia e o índice futuro KOSPI 200 recuou mais de 5%, acionando um sidecar de venda no mercado principal.",
+        "body": "Na tarde do dia 15, o KOSPI da Coreia do Sul caiu mais de 4% durante o pregão. Um sidecar de venda foi acionado no mercado principal depois que o índice futuro KOSPI 200 despencou mais de 5%. Investidores individuais compraram cerca de 4 trilhões de wons em termos líquidos, mas as vendas de estrangeiros e instituições pressionaram o índice. Samsung Electronics e SK Hynix, ações de grande capitalização, também caíram na faixa de 6% no intradia. Segundo o relato, a forte queda dos futuros aumentou a pressão de vendas programadas e ampliou a volatilidade do mercado. Investidores acompanham os fluxos de estrangeiros e instituições e a queda das grandes ações de semicondutores. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KOSPI fällt intraday über 4%, Verkaufs-Sidecar nach Futures-Einbruch ausgelöst",
+        "excerpt": "Am Nachmittag des 15. fiel der KOSPI intraday um mehr als 4%, während der KOSPI-200-Future über 5% abrutschte und ein Verkaufs-Sidecar auslöste.",
+        "body": "Am Nachmittag des 15. fiel der südkoreanische KOSPI im Handel um mehr als 4%. Am Hauptmarkt wurde ein Verkaufs-Sidecar ausgelöst, nachdem der KOSPI-200-Futures-Index um mehr als 5% eingebrochen war. Privatanleger kauften netto rund 4 Billionen Won, doch Verkäufe ausländischer und institutioneller Investoren belasteten den Index. Samsung Electronics und SK Hynix, zwei große Schwergewichte, verloren intraday ebenfalls im Bereich von 6%. Berichten zufolge erhöhte der starke Futures-Rückgang den Druck durch programmgesteuerte Verkäufe und weitete die Marktvolatilität aus. Anleger beobachten die Kapitalflüsse ausländischer und institutioneller Investoren sowie die Verluste großer Halbleiterwerte. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 4% en séance, sidecar de vente déclenché",
+        "excerpt": "Dans l’après-midi du 15, le KOSPI a reculé de plus de 4% en séance et les contrats à terme KOSPI 200 ont chuté de plus de 5%, déclenchant un sidecar de vente.",
+        "body": "Dans l’après-midi du 15, le KOSPI sud-coréen a perdu plus de 4% en cours de séance. Un sidecar de vente a été déclenché sur le marché principal après une chute de plus de 5% de l’indice des contrats à terme KOSPI 200. Les investisseurs individuels ont acheté pour environ 4 000 milliards de wons en net, mais les ventes des investisseurs étrangers et institutionnels ont pesé sur l’indice. Samsung Electronics et SK Hynix, grandes capitalisations du marché, ont également reculé d’environ 6% en séance. Selon les informations rapportées, la forte baisse des contrats à terme a accru la pression des ventes programmées et amplifié la volatilité du marché. Les investisseurs surveillent les flux étrangers et institutionnels ainsi que le repli des grands titres de semi-conducteurs. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يهبط أكثر من 4% خلال الجلسة ويفعل آلية البيع بعد تراجع العقود",
+        "excerpt": "بعد ظهر يوم 15، تراجع مؤشر كوسبي بأكثر من 4% خلال الجلسة، وهبطت عقود كوسبي 200 الآجلة بأكثر من 5%، ما أدى إلى تفعيل آلية البيع في السوق الرئيسية.",
+        "body": "بعد ظهر يوم 15، هبط مؤشر كوسبي في سوق الأسهم الكورية بأكثر من 4% خلال التعاملات. وتم تفعيل آلية البيع في السوق الرئيسية بعدما تراجع مؤشر عقود كوسبي 200 الآجلة بأكثر من 5%. ورغم أن المستثمرين الأفراد سجلوا صافي شراء بنحو 4 تريليونات وون، فإن مبيعات المستثمرين الأجانب والمؤسسات ضغطت على المؤشر. كما تراجعت أسهم سامسونغ إلكترونيكس وSK هاينكس، وهما من أكبر الأسهم من حيث القيمة السوقية، في نطاق 6% خلال الجلسة. وذكرت التقارير أن الهبوط الحاد في العقود الآجلة زاد ضغط البيع البرنامجي ووسع تقلبات السوق. ويراقب المستثمرون تدفقات الأجانب والمؤسسات وتراجع أسهم أشباه الموصلات الكبرى. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "KOSPI इंट्राडे 4% से अधिक फिसला, फ्यूचर्स गिरावट पर सेल साइडकार लागू",
+        "excerpt": "15 तारीख की दोपहर KOSPI इंट्राडे 4% से अधिक गिरा और KOSPI 200 फ्यूचर्स इंडेक्स 5% से ज्यादा लुढ़का, जिससे मुख्य बाजार में सेल साइडकार लागू हुआ।",
+        "body": "15 तारीख की दोपहर दक्षिण कोरिया के शेयर बाजार में KOSPI कारोबार के दौरान 4% से अधिक गिर गया। KOSPI 200 फ्यूचर्स इंडेक्स के 5% से ज्यादा टूटने के बाद मुख्य बाजार में सेल साइडकार लागू किया गया। व्यक्तिगत निवेशकों ने करीब 4 ट्रिलियन वॉन की शुद्ध खरीदारी की, लेकिन विदेशी और संस्थागत निवेशकों की बिकवाली ने सूचकांक पर दबाव डाला। बाजार पूंजीकरण में प्रमुख Samsung Electronics और SK Hynix भी इंट्राडे 6% के दायरे में तेजी से गिरे। रिपोर्ट के अनुसार, फ्यूचर्स की तेज गिरावट से प्रोग्राम सेलिंग का दबाव बढ़ा और बाजार की अस्थिरता फैल गई। निवेशक विदेशी और संस्थागत प्रवाह तथा बड़ी सेमीकंडक्टर कंपनियों की गिरावट पर नजर रख रहे हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "KOSPI Anjlok Lebih dari 4% Intraday, Sidecar Jual Aktif Usai Futures Turun",
+        "excerpt": "Pada siang 15, KOSPI turun lebih dari 4% intraday dan indeks futures KOSPI 200 merosot lebih dari 5%, memicu sidecar jual di pasar saham utama.",
+        "body": "Pada siang 15, KOSPI di pasar saham Korea Selatan turun lebih dari 4% selama perdagangan. Sidecar jual diberlakukan di pasar utama setelah indeks futures KOSPI 200 merosot lebih dari 5%. Investor individu mencatat beli bersih sekitar 4 triliun won, tetapi aksi jual investor asing dan institusi menekan indeks. Saham berkapitalisasi besar Samsung Electronics dan SK Hynix juga jatuh di kisaran 6% secara intraday. Penurunan tajam futures dilaporkan meningkatkan tekanan jual program dan memperbesar volatilitas pasar. Investor mencermati arus dana asing dan institusi serta pelemahan saham semikonduktor utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "9d0bd0d7f760",
+    "slug": "금융위-조각투자증권-묶음-발행-허용한다-607347",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T08:29:56.681Z",
+    "updatedAt": "2026-05-15T08:29:56.681Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049138",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049138",
+    "titleFingerprint": "a0e11218e58cb28b0e3821449fef352abf7e940b",
+    "dedupKeys": [
+      "9d0bd0d7f760cc906e388d324e45392d4ca423ce",
+      "a0e11218e58cb28b0e3821449fef352abf7e940b",
+      "012306c471b134c96af6c4e3eff31f9a3b57ec89"
+    ],
+    "imageUrl": "/images/articles/9d0bd0d7f760.jpg",
+    "i18n": {
+      "ko": {
+        "title": "금융위, 조각투자증권 묶음 발행 허용…토큰증권 제도화 속도",
+        "excerpt": "금융위원회가 민관합동 토큰증권협의 2차 회의에서 동일종류 기초자산의 조각투자증권 묶음 발행을 허용하고 7월 중 가이드라인을 발표하겠다고 밝혔다.",
+        "body": "금융위원회는 민관합동 토큰증권협의 2차 회의에서 토큰증권 제도화에 맞춰 동일종류 기초자산을 일정 기준으로 묶어 조각투자증권을 발행할 수 있도록 허용하겠다고 밝혔다. 권대영 금융위 관계자는 장외거래소의 거래한도를 시장 유동성 확충에 도움이 되도록 설정하겠다고 말했다. 금융위는 관련 가이드라인을 7월 중 발표할 계획이다. 이번 방침은 조각투자증권 발행 방식과 장외 유통시장 설계에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "FSC to Allow Bundled Issuance of Fractional Investment Securities",
+        "excerpt": "South Korea’s Financial Services Commission said at a public-private token securities meeting that it will allow bundled issuance of fractional investment securities and release guidelines in July.",
+        "body": "South Korea’s Financial Services Commission said at the second public-private token securities council meeting that it will allow fractional investment securities to be issued in bundles based on the same type of underlying asset as part of token securities institutionalization. FSC official Kwon Dae-young said trading limits for the over-the-counter exchange will be set in a way that helps expand market liquidity. The FSC plans to announce related guidelines in July. The move is expected to affect issuance methods for fractional investment securities and the design of OTC trading. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "金融委、少額分散投資証券の一括発行を容認へ　制度化に弾み",
+        "excerpt": "韓国金融委員会は官民合同トークン証券協議の第2回会議で、同種の基礎資産を束ねた少額分散投資証券の発行を認め、7月中に指針を発表すると明らかにした。",
+        "body": "韓国金融委員会は官民合同トークン証券協議の第2回会議で、トークン証券の制度化に合わせ、同一種類の基礎資産を一定の基準で束ねて少額分散投資証券を発行できるようにすると明らかにした。金融委の権大永氏は、店頭取引所の取引限度を市場流動性の拡充に資する形で設定すると述べた。金融委は関連ガイドラインを7月中に発表する計画だ。今回の方針は、少額分散投資証券の発行方式と店頭流通市場の設計に影響するとみられる。出所: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国金融委将允许碎片化投资证券打包发行，加快代币证券制度化",
+        "excerpt": "韩国金融委员会在民官联合代币证券协商第二次会议上表示，将允许同类基础资产的碎片化投资证券打包发行，并于7月发布指南。",
+        "body": "韩国金融委员会在民官联合代币证券协商第二次会议上表示，将配合代币证券制度化，允许按照一定标准将同一类型基础资产打包发行碎片化投资证券。金融委相关人士权大永表示，场外交易所的交易限额将以有助于扩大市场流动性的方式设定。金融委计划在7月内发布相关指南。该方针预计将影响碎片化投资证券的发行方式以及场外流通市场设计。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "La FSC permitirá emitir en paquetes valores de inversión fraccionada",
+        "excerpt": "La Comisión de Servicios Financieros de Corea del Sur dijo en una reunión público-privada sobre valores tokenizados que permitirá emisiones agrupadas y publicará directrices en julio.",
+        "body": "La Comisión de Servicios Financieros de Corea del Sur informó en la segunda reunión del consejo público-privado sobre valores tokenizados que permitirá emitir valores de inversión fraccionada en paquetes basados en el mismo tipo de activo subyacente, en línea con la institucionalización de los valores tokenizados. Kwon Dae-young, de la FSC, dijo que los límites de negociación del mercado extrabursátil se fijarán para ayudar a ampliar la liquidez del mercado. La FSC prevé anunciar las directrices relacionadas en julio. La medida influirá en los métodos de emisión y en el diseño del mercado OTC. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "FSC permitirá emissão em pacotes de títulos de investimento fracionado",
+        "excerpt": "A Comissão de Serviços Financeiros da Coreia do Sul disse, em reunião público-privada sobre token securities, que permitirá emissões agrupadas e divulgará diretrizes em julho.",
+        "body": "A Comissão de Serviços Financeiros da Coreia do Sul informou, na segunda reunião do conselho público-privado sobre token securities, que permitirá a emissão de títulos de investimento fracionado em pacotes com base no mesmo tipo de ativo subjacente, acompanhando a institucionalização desses títulos. Kwon Dae-young, da FSC, afirmou que os limites de negociação da bolsa de balcão serão definidos de modo a ampliar a liquidez do mercado. A FSC planeja anunciar as diretrizes relacionadas em julho. A medida deve afetar os métodos de emissão e o desenho do mercado OTC. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "FSC erlaubt gebündelte Ausgabe von Fractional-Investment-Wertpapieren",
+        "excerpt": "Südkoreas Finanzaufsicht erklärte bei einem öffentlich-privaten Treffen zu Token-Wertpapieren, sie werde gebündelte Ausgaben erlauben und im Juli Leitlinien veröffentlichen.",
+        "body": "Südkoreas Financial Services Commission erklärte beim zweiten öffentlich-privaten Ratstreffen zu Token-Wertpapieren, sie werde im Zuge der Institutionalisierung von Token-Wertpapieren die gebündelte Ausgabe von Fractional-Investment-Wertpapieren auf Basis derselben Art von Basiswert zulassen. FSC-Vertreter Kwon Dae-young sagte, die Handelslimits der außerbörslichen Börse würden so festgelegt, dass sie zur Ausweitung der Marktliquidität beitragen. Die FSC will die entsprechenden Leitlinien im Juli veröffentlichen. Die Maßnahme dürfte Emissionsmethoden und die Gestaltung des OTC-Markts beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "La FSC autorisera l’émission groupée de titres d’investissement fractionné",
+        "excerpt": "La Commission sud-coréenne des services financiers a indiqué lors d’une réunion public-privé sur les titres tokenisés qu’elle autorisera les émissions groupées et publiera des lignes directrices en juillet.",
+        "body": "La Commission sud-coréenne des services financiers a déclaré, lors de la deuxième réunion du conseil public-privé sur les titres tokenisés, qu’elle autorisera l’émission groupée de titres d’investissement fractionné reposant sur le même type d’actif sous-jacent, dans le cadre de l’institutionnalisation des titres tokenisés. Kwon Dae-young, responsable de la FSC, a indiqué que les plafonds de négociation de la bourse de gré à gré seront fixés de manière à accroître la liquidité du marché. La FSC prévoit de publier les lignes directrices en juillet. Cette orientation devrait peser sur les modes d’émission et la conception du marché OTC. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "هيئة الخدمات المالية الكورية تسمح بإصدار مجمع لسندات الاستثمار المجزأ",
+        "excerpt": "قالت هيئة الخدمات المالية في كوريا الجنوبية خلال الاجتماع الثاني للمجلس المشترك حول الأوراق المالية الرمزية إنها ستسمح بالإصدار المجمع وتعلن الإرشادات في يوليو.",
+        "body": "قالت هيئة الخدمات المالية في كوريا الجنوبية خلال الاجتماع الثاني للمجلس المشترك بين القطاعين العام والخاص بشأن الأوراق المالية الرمزية إنها ستسمح بإصدار سندات الاستثمار المجزأ في حزم تستند إلى النوع نفسه من الأصول الأساسية، تماشيا مع إضفاء الطابع المؤسسي على الأوراق المالية الرمزية. وقال كوون داي يونغ من الهيئة إن حدود التداول في بورصة خارج المقصورة ستحدد بطريقة تساعد على توسيع سيولة السوق. وتخطط الهيئة لإعلان الإرشادات ذات الصلة في يوليو. ومن المتوقع أن تؤثر هذه الخطوة في طرق الإصدار وتصميم سوق التداول خارج المقصورة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "FSC फ्रैक्शनल निवेश प्रतिभूतियों की बंडल जारी करने की अनुमति देगा",
+        "excerpt": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने सार्वजनिक-निजी टोकन प्रतिभूति बैठक में कहा कि वह फ्रैक्शनल निवेश प्रतिभूतियों के बंडल निर्गम की अनुमति देगा और जुलाई में दिशानिर्देश जारी करेगा।",
+        "body": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने सार्वजनिक-निजी टोकन प्रतिभूति परिषद की दूसरी बैठक में कहा कि टोकन प्रतिभूतियों के संस्थानीकरण के तहत समान प्रकार की अंतर्निहित परिसंपत्तियों के आधार पर फ्रैक्शनल निवेश प्रतिभूतियों को बंडल में जारी करने की अनुमति दी जाएगी। FSC के अधिकारी क्वोन डे-यंग ने कहा कि ओवर-द-काउंटर एक्सचेंज की ट्रेडिंग सीमा बाजार तरलता बढ़ाने में मदद करने के तरीके से तय की जाएगी। आयोग जुलाई में संबंधित दिशानिर्देश घोषित करने की योजना बना रहा है। यह नीति निर्गम तरीकों और OTC बाजार संरचना को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "FSC Izinkan Penerbitan Paket Sekuritas Investasi Fraksional",
+        "excerpt": "Komisi Jasa Keuangan Korea Selatan mengatakan dalam rapat publik-swasta token securities bahwa penerbitan paket sekuritas investasi fraksional akan diizinkan dan panduan dirilis pada Juli.",
+        "body": "Komisi Jasa Keuangan Korea Selatan menyatakan dalam rapat kedua dewan publik-swasta tentang token securities bahwa, sejalan dengan pelembagaan token securities, sekuritas investasi fraksional dapat diterbitkan dalam paket berdasarkan jenis aset dasar yang sama. Pejabat FSC Kwon Dae-young mengatakan batas transaksi bursa over-the-counter akan ditetapkan agar membantu memperluas likuiditas pasar. FSC berencana mengumumkan panduan terkait pada Juli. Kebijakan ini diperkirakan memengaruhi metode penerbitan sekuritas investasi fraksional dan desain pasar OTC. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "673ab0234993",
+    "slug": "동인기연-1분기-매출-620억원영업이익-104-688468",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T08:28:52.359Z",
+    "updatedAt": "2026-05-15T08:28:52.359Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12049244",
+    "canonicalUrl": "https://www.mk.co.kr/news/economy/12049244",
+    "titleFingerprint": "659a7cad9d9408f88e4351baffe5f0125567079a",
+    "dedupKeys": [
+      "673ab0234993d4b5781cebf5904a5f525a9784ac",
+      "659a7cad9d9408f88e4351baffe5f0125567079a",
+      "4f5cc8887fb3ce2a7967274a39349ba72c2bbf91"
+    ],
+    "imageUrl": "/images/articles/673ab0234993.jpg",
+    "i18n": {
+      "ko": {
+        "title": "동인기연 1분기 매출 620억원, 중국 회복에 영업이익률 10.4% 기록",
+        "excerpt": "아웃도어 장비 제조기업 동인기연은 15일 올해 1분기 매출 620억원으로 1분기 기준 역대 최대 매출을 기록하고 영업이익이 54% 증가했다고 밝혔다.",
+        "body": "아웃도어 장비 제조 전문기업 동인기연은 15일 올해 1분기 매출액이 620억원을 기록했다고 밝혔다. 이는 1분기 기준 역대 최대 매출이다. 회사는 중국 시장 회복이 실적 개선에 영향을 준 것으로 설명했다. 같은 기간 영업이익률은 10.4%를 기록했으며, 영업이익은 전년 대비 54% 증가했다. 매출 확대와 수익성 개선이 함께 나타나며 1분기 실적 흐름이 강화됐다. 중국 시장 회복세가 이어질 경우 향후 실적에도 관심이 모일 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Dong In Kiyeon Q1 Sales Hit 62 Billion Won as China Recovery Lifts Profit Margin",
+        "excerpt": "Outdoor equipment manufacturer Dong In Kiyeon said on the 15th that Q1 sales reached 62 billion won, a record for the quarter, while operating profit rose 54%.",
+        "body": "Outdoor equipment manufacturer Dong In Kiyeon said on the 15th that its first-quarter revenue reached 62 billion won. The figure marks the company’s highest-ever sales for a first quarter. The company attributed the improvement in performance to a recovery in the Chinese market. During the same period, its operating margin stood at 10.4%, while operating profit increased 54% from a year earlier. The results show both revenue growth and improved profitability in the quarter. If the recovery in China continues, the company’s future performance is likely to remain in focus. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "東仁技研、1四半期売上620億ウォン 中国市場回復で営業利益率10.4%",
+        "excerpt": "アウトドア装備メーカーの東仁技研は15日、今年1四半期の売上高が620億ウォンとなり、1四半期として過去最高を記録し営業利益も54%増加したと発表した。",
+        "body": "アウトドア装備製造を手がける東仁技研は15日、今年第1四半期の売上高が620億ウォンを記録したと発表した。これは第1四半期基準で過去最高の売上高となる。同社は、中国市場の回復が業績改善に影響したと説明している。同期間の営業利益率は10.4%で、営業利益は前年同期比54%増加した。売上拡大と収益性改善が同時に表れ、第1四半期の業績の流れが強まった。中国市場の回復が続く場合、今後の業績にも関心が集まりそうだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "Dong In Kiyeon一季度销售额620亿韩元 中国复苏推升营业利润率至10.4%",
+        "excerpt": "户外装备制造企业Dong In Kiyeon于15日表示，今年一季度销售额达620亿韩元，创一季度历史新高，营业利润同比增长54%。",
+        "body": "户外装备专业制造企业Dong In Kiyeon于15日表示，今年第一季度销售额达到620亿韩元。这是一季度 기준下的历史最高销售额。公司说明，中国市场复苏对业绩改善产生了影响。同期营业利润率为10.4%，营业利润较去年同期增长54%。销售扩大与盈利能力改善同时出现，使第一季度业绩走势得到加强。如果中国市场复苏势头持续，今后业绩也将受到关注。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Dong In Kiyeon alcanza 62.000 millones de wones en ventas trimestrales por recuperación china",
+        "excerpt": "El fabricante de equipos outdoor Dong In Kiyeon informó el día 15 que sus ventas del primer trimestre llegaron a 62.000 millones de wones, máximo histórico para ese periodo, y que el beneficio operativo subió 54%.",
+        "body": "Dong In Kiyeon, fabricante especializado en equipos para actividades al aire libre, informó el día 15 que sus ingresos del primer trimestre alcanzaron 62.000 millones de wones. La cifra supone el mayor nivel de ventas de la compañía para un primer trimestre. La empresa explicó que la recuperación del mercado chino influyó en la mejora de los resultados. En el mismo periodo, el margen operativo fue del 10,4%, mientras que el beneficio operativo aumentó un 54% interanual. El trimestre mostró tanto expansión de ventas como mejora de rentabilidad. Si continúa la recuperación en China, la evolución futura de la compañía seguirá atrayendo atención. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Dong In Kiyeon registra 62 bilhões de wons em vendas no 1º trimestre com recuperação da China",
+        "excerpt": "A fabricante de equipamentos outdoor Dong In Kiyeon informou no dia 15 que as vendas do 1º trimestre chegaram a 62 bilhões de wons, recorde para o período, e que o lucro operacional subiu 54%.",
+        "body": "A Dong In Kiyeon, empresa especializada na fabricação de equipamentos outdoor, informou no dia 15 que sua receita no primeiro trimestre atingiu 62 bilhões de wons. O valor representa o maior faturamento da companhia já registrado para um primeiro trimestre. A empresa explicou que a recuperação do mercado chinês contribuiu para a melhora do desempenho. No mesmo período, a margem operacional foi de 10,4%, enquanto o lucro operacional cresceu 54% em relação ao ano anterior. Os resultados mostram expansão de vendas e melhora de rentabilidade no trimestre. Caso a recuperação na China continue, o desempenho futuro da empresa deve seguir em foco. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Dong In Kiyeon erzielt im ersten Quartal 62 Mrd. Won Umsatz dank China-Erholung",
+        "excerpt": "Der Outdoor-Ausrüster Dong In Kiyeon teilte am 15. mit, dass der Umsatz im ersten Quartal 62 Mrd. Won erreichte, ein Rekord für diesen Zeitraum, während der operative Gewinn um 54% stieg.",
+        "body": "Der auf Outdoor-Ausrüstung spezialisierte Hersteller Dong In Kiyeon teilte am 15. mit, dass der Umsatz im ersten Quartal 62 Milliarden Won erreichte. Dies ist der höchste Umsatz, den das Unternehmen je in einem ersten Quartal erzielt hat. Das Unternehmen erklärte, die Erholung des chinesischen Marktes habe zur Ergebnisverbesserung beigetragen. Im selben Zeitraum lag die operative Marge bei 10,4%, während der operative Gewinn gegenüber dem Vorjahr um 54% zunahm. Damit zeigten sich im Quartal sowohl Umsatzwachstum als auch eine verbesserte Profitabilität. Setzt sich die Erholung in China fort, dürfte die weitere Geschäftsentwicklung im Fokus bleiben. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Dong In Kiyeon atteint 62 milliards de wons de ventes au T1 grâce au redressement chinois",
+        "excerpt": "Le fabricant d’équipements outdoor Dong In Kiyeon a annoncé le 15 que ses ventes du premier trimestre avaient atteint 62 milliards de wons, un record pour cette période, avec un bénéfice opérationnel en hausse de 54%.",
+        "body": "Dong In Kiyeon, fabricant spécialisé dans les équipements outdoor, a annoncé le 15 que son chiffre d’affaires du premier trimestre avait atteint 62 milliards de wons. Ce montant représente un record historique pour un premier trimestre. L’entreprise a expliqué que la reprise du marché chinois avait contribué à l’amélioration des résultats. Sur la même période, la marge opérationnelle s’est établie à 10,4%, tandis que le bénéfice opérationnel a progressé de 54% sur un an. Le trimestre montre à la fois une hausse des ventes et une amélioration de la rentabilité. Si la reprise en Chine se poursuit, les performances futures de l’entreprise devraient rester suivies. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "دونغ إن كيون تسجل مبيعات فصلية بـ62 مليار وون مع تعافي الصين وهامش 10.4%",
+        "excerpt": "قالت شركة دونغ إن كيون المصنعة لمعدات الهواء الطلق في 15 إن مبيعات الربع الأول بلغت 62 مليار وون، وهو أعلى مستوى لهذا الربع، بينما زاد الربح التشغيلي 54%.",
+        "body": "قالت شركة دونغ إن كيون، المتخصصة في تصنيع معدات الأنشطة الخارجية، في 15 إن إيراداتها في الربع الأول من هذا العام بلغت 62 مليار وون. ويمثل هذا الرقم أعلى مبيعات تحققها الشركة في ربع أول. وأوضحت الشركة أن تعافي السوق الصينية كان له أثر في تحسن الأداء. وخلال الفترة نفسها بلغ هامش الربح التشغيلي 10.4%، بينما ارتفع الربح التشغيلي 54% مقارنة بالعام السابق. وتظهر النتائج نموا في المبيعات وتحسنا في الربحية خلال الربع. وإذا استمر تعافي السوق الصينية، فسيظل الأداء المستقبلي للشركة محل اهتمام. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Dong In Kiyeon की पहली तिमाही बिक्री 62 अरब वॉन, चीन सुधार से मार्जिन 10.4%",
+        "excerpt": "आउटडोर उपकरण निर्माता Dong In Kiyeon ने 15 तारीख को बताया कि पहली तिमाही की बिक्री 62 अरब वॉन रही, जो इस अवधि का रिकॉर्ड है, और परिचालन लाभ 54% बढ़ा।",
+        "body": "आउटडोर उपकरण निर्माण में विशेषज्ञ Dong In Kiyeon ने 15 तारीख को बताया कि इस वर्ष पहली तिमाही का राजस्व 62 अरब वॉन रहा। यह पहली तिमाही के आधार पर कंपनी की अब तक की सबसे अधिक बिक्री है। कंपनी ने कहा कि चीन के बाजार में सुधार ने प्रदर्शन बेहतर करने में योगदान दिया। इसी अवधि में परिचालन लाभ मार्जिन 10.4% रहा, जबकि परिचालन लाभ पिछले वर्ष की तुलना में 54% बढ़ा। नतीजों में बिक्री विस्तार और लाभप्रदता सुधार दोनों दिखाई दिए। यदि चीन के बाजार में सुधार जारी रहता है, तो कंपनी के आगामी प्रदर्शन पर ध्यान बना रह सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Dong In Kiyeon Bukukan Penjualan Kuartal I 62 Miliar Won, Margin Operasi 10,4%",
+        "excerpt": "Produsen perlengkapan outdoor Dong In Kiyeon menyatakan pada tanggal 15 bahwa penjualan kuartal I mencapai 62 miliar won, rekor untuk periode tersebut, sementara laba operasi naik 54%.",
+        "body": "Dong In Kiyeon, perusahaan spesialis manufaktur perlengkapan outdoor, menyatakan pada tanggal 15 bahwa pendapatan kuartal pertama tahun ini mencapai 62 miliar won. Angka tersebut merupakan penjualan tertinggi perusahaan untuk periode kuartal pertama. Perusahaan menjelaskan bahwa pemulihan pasar China memengaruhi perbaikan kinerja. Pada periode yang sama, margin operasi tercatat 10,4%, sementara laba operasi meningkat 54% dibanding tahun sebelumnya. Hasil ini menunjukkan pertumbuhan penjualan sekaligus peningkatan profitabilitas pada kuartal tersebut. Jika pemulihan pasar China berlanjut, kinerja perusahaan ke depan diperkirakan tetap menjadi perhatian. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "43f81ea87a07",
     "slug": "원화값-한-달여-만에-장중-1500원선-넘어코스피-7넘게-급락-696912",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Shinhan Securities Puncaki Imbal Hasil Dana Pensiun Kuartal I",
         "excerpt": "Shinhan Securities mencatat imbal hasil dana pensiun tertinggi di industri pada kuartal pertama, menegaskan kinerja pengelolaan pensiun sebagai indikator daya saing utama.",
         "body": "Shinhan Securities mencatat imbal hasil dana pensiun tertinggi di industri pada kuartal pertama, menurut hankyung.com. Capaian ini penting karena Shinhan Securities memimpin perbandingan industri sekuritas berdasarkan imbal hasil pengelolaan dana pensiun. Dana pensiun merupakan bidang yang menilai kinerja aset jangka panjang sekaligus stabilitas, dan digunakan sebagai indikator utama kemampuan pengelolaan perusahaan keuangan serta manajemen aset pensiun nasabah. Dengan kinerja kuartal pertama yang telah dikonfirmasi, perhatian pasar terhadap daya saing Shinhan Securities dalam pengelolaan dana pensiun diperkirakan meningkat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "440c31ee80b8",
-    "slug": "육각형-수익구조-짠-한투-1분기-영업익-1조원-육박-909785",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T16:28:22.646Z",
-    "updatedAt": "2026-05-14T16:28:22.646Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051472481",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051472481",
-    "titleFingerprint": "9f014a5bd097e7ecc1f4efceff2596fc66bb52b0",
-    "dedupKeys": [
-      "440c31ee80b83184188acca4cd15e36df29c96bb",
-      "9f014a5bd097e7ecc1f4efceff2596fc66bb52b0",
-      "45c75fd32eb0f3ab20791ab6bbafc53a23b7d73f"
-    ],
-    "imageUrl": "/images/articles/440c31ee80b8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "한국투자증권 1분기 영업익 9599억원, ‘육각형 수익구조’로 1조원 육박",
-        "excerpt": "한국투자증권은 2026년 1분기 연결 영업이익이 9599억원으로 전년 대비 85% 증가해 위탁매매·WM·IB·운용이 고르게 성장했다고 밝혔다.",
-        "body": "한국투자증권은 2026년 5월 14일 잠정실적 공시를 통해 올해 1분기 연결 기준 영업이익이 9599억원으로 전년 동기 대비 85% 늘었다고 밝혔다. 당기순이익은 7847억원으로 75% 증가했다. 이익 구성은 운용 39.1%, 위탁매매 33.3%, IB 18.6%, WM 9.0%로 분산됐다. 자산관리 부문은 채권, 발행어음, 수익증권 판매 호조로 판매수수료가 71.6% 급증했고, 개인 고객 금융상품 잔액은 지난해 말 85조1000억원에서 최근 94조5000억원으로 늘었다. 증시 호조로 위탁매매 수익은 전 분기보다 55%, 기업금융 수익은 전년보다 14.7% 증가했다. 1분기 말 별도 기준 자기자본은 12조7085억원으로 국내 증권업계 최대 규모를 유지했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Korea Investment Q1 Operating Profit Hits 959.9 Billion Won on Balanced Growth",
-        "excerpt": "Korea Investment & Securities said its Q1 2026 consolidated operating profit rose 85% to 959.9 billion won as brokerage, WM, IB and trading all expanded.",
-        "body": "Korea Investment & Securities said on May 14, 2026, through a preliminary earnings disclosure, that first-quarter consolidated operating profit reached 959.9 billion won, up 85% from a year earlier. Net profit rose 75% to 784.7 billion won. By segment, trading accounted for 39.1% of profit, brokerage 33.3%, investment banking 18.6% and wealth management 9.0%, showing a diversified earnings mix. In wealth management, strong sales of bonds, issued bills and beneficiary certificates lifted sales commissions by 71.6%. Individual clients’ financial product balances increased from 85.1 trillion won at the end of last year to 94.5 trillion won recently. Brokerage revenue rose 55% from the previous quarter amid a stronger stock market, while IB revenue grew 14.7% year on year. Separate-basis equity stood at 12.7085 trillion won at quarter-end, the largest in Korea’s securities industry. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "韓国投資証券、1-3月営業益9599億ウォンで1兆ウォンに接近",
-        "excerpt": "韓国投資証券は2026年1-3月期の連結営業利益が前年同期比85%増の9599億ウォンとなり、委託売買・WM・IB・運用がそろって伸びたと発表した。",
-        "body": "韓国投資証券は2026年5月14日、暫定業績の開示を通じて、1-3月期の連結営業利益が9599億ウォンとなり、前年同期比85%増加したと発表した。純利益は7847億ウォンで75%増えた。利益構成は運用が39.1%、委託売買が33.3%、IBが18.6%、WMが9.0%と分散した。資産管理部門では債券、発行手形、受益証券など金融商品の販売好調により販売手数料が71.6%急増した。個人顧客の金融商品残高は昨年末の85兆1000億ウォンから最近94兆5000億ウォンへ拡大した。株式市場の好調で委託売買関連収益は前四半期比55%、企業金融収益は前年比14.7%増加した。1-3月期末の単体自己資本は12兆7085億ウォンで、国内証券業界最大規模を維持した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "韩国投资证券一季度营业利润9599亿韩元，多元收益结构逼近1万亿",
-        "excerpt": "韩国投资证券称，2026年一季度合并营业利润同比增长85%至9599亿韩元，经纪、财富管理、投行和交易业务均实现增长。",
-        "body": "韩国投资证券于2026年5月14日通过预告业绩公告表示，今年一季度合并口径营业利润为9599亿韩元，同比增长85%。当期净利润为7847亿韩元，同比增长75%。利润构成方面，交易及运用业务占39.1%，经纪业务占33.3%，投资银行占18.6%，财富管理占9.0%，收益来源较为分散。财富管理部门受债券、发行票据和受益证券等金融产品销售良好带动，销售手续费大增71.6%。个人客户金融产品余额从去年末的85.1万亿韩元增至近期的94.5万亿韩元。受股市向好影响，经纪相关收入环比增长55%，企业金融收入同比增长14.7%。截至一季度末，单体口径资本为12.7085万亿韩元，维持韩国证券业最大规模。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Korea Investment roza 1 billón de wones en beneficio operativo trimestral",
-        "excerpt": "Korea Investment & Securities informó que su beneficio operativo consolidado del primer trimestre de 2026 subió 85% hasta 959.900 millones de wones por el crecimiento de corretaje, WM, IB y trading.",
-        "body": "Korea Investment & Securities informó el 14 de mayo de 2026, mediante resultados preliminares, que su beneficio operativo consolidado del primer trimestre fue de 959.900 millones de wones, un 85% más interanual. El beneficio neto aumentó 75% hasta 784.700 millones de wones. Por áreas, trading aportó el 39,1% de las ganancias, corretaje el 33,3%, banca de inversión el 18,6% y gestión patrimonial el 9,0%, mostrando una estructura diversificada. En gestión patrimonial, las ventas de bonos, pagarés emitidos y certificados de beneficiario impulsaron las comisiones de venta un 71,6%. El saldo de productos financieros de clientes individuales pasó de 85,1 billones de wones a fines del año pasado a 94,5 billones recientemente. Los ingresos por corretaje crecieron 55% frente al trimestre anterior y los de finanzas corporativas 14,7% interanual. El capital separado fue de 12,7085 billones de wones al cierre del trimestre. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Korea Investment chega perto de 1 trilhão de won em lucro operacional no 1º tri",
-        "excerpt": "A Korea Investment & Securities disse que o lucro operacional consolidado do 1º trimestre de 2026 subiu 85%, para 959,9 bilhões de won, com avanço em corretagem, WM, IB e trading.",
-        "body": "A Korea Investment & Securities informou em 14 de maio de 2026, em divulgação preliminar, que o lucro operacional consolidado do primeiro trimestre somou 959,9 bilhões de won, alta de 85% ante o ano anterior. O lucro líquido cresceu 75%, para 784,7 bilhões de won. Na composição dos ganhos, trading respondeu por 39,1%, corretagem por 33,3%, banco de investimento por 18,6% e gestão patrimonial por 9,0%, indicando receitas distribuídas. Em gestão patrimonial, a forte venda de títulos, notas emitidas e certificados de beneficiários elevou as comissões em 71,6%. O saldo de produtos financeiros de clientes pessoas físicas passou de 85,1 trilhões de won no fim do ano passado para 94,5 trilhões recentemente. A receita de corretagem subiu 55% sobre o trimestre anterior e a de finanças corporativas avançou 14,7% em um ano. O patrimônio separado era de 12,7085 trilhões de won no fim do trimestre. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Korea Investment steigert Q1-Betriebsgewinn auf 959,9 Milliarden Won",
-        "excerpt": "Korea Investment & Securities meldete für das erste Quartal 2026 einen Anstieg des konsolidierten Betriebsgewinns um 85% auf 959,9 Milliarden Won, getragen von Brokerage, WM, IB und Trading.",
-        "body": "Korea Investment & Securities teilte am 14. Mai 2026 in einer vorläufigen Ergebnisveröffentlichung mit, dass der konsolidierte Betriebsgewinn im ersten Quartal 959,9 Milliarden Won erreichte, 85% mehr als ein Jahr zuvor. Der Nettogewinn stieg um 75% auf 784,7 Milliarden Won. Nach Bereichen entfielen 39,1% des Gewinns auf Trading, 33,3% auf Brokerage, 18,6% auf Investment Banking und 9,0% auf Wealth Management. Im Wealth Management ließen starke Verkäufe von Anleihen, ausgegebenen Wechseln und Fondsanteilen die Verkaufsprovisionen um 71,6% steigen. Die Finanzproduktbestände privater Kunden wuchsen von 85,1 Billionen Won Ende vergangenen Jahres auf zuletzt 94,5 Billionen Won. Brokerage-Erträge legten dank freundlicher Aktienmärkte gegenüber dem Vorquartal um 55% zu, Corporate-Finance-Erträge um 14,7% zum Vorjahr. Das Eigenkapital auf Einzelbasis lag zum Quartalsende bei 12,7085 Billionen Won. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Korea Investment frôle 1 000 milliards de wons de bénéfice opérationnel au T1",
-        "excerpt": "Korea Investment & Securities a annoncé un bénéfice opérationnel consolidé en hausse de 85% au premier trimestre 2026, à 959,9 milliards de wons, porté par le courtage, la gestion de patrimoine, l’IB et le trading.",
-        "body": "Korea Investment & Securities a indiqué le 14 mai 2026, dans une publication de résultats provisoires, que son bénéfice opérationnel consolidé du premier trimestre avait atteint 959,9 milliards de wons, en hausse de 85% sur un an. Le bénéfice net a progressé de 75% à 784,7 milliards de wons. La contribution aux profits a été répartie entre le trading, à 39,1%, le courtage, à 33,3%, la banque d’investissement, à 18,6%, et la gestion de patrimoine, à 9,0%. Dans la gestion de patrimoine, les ventes solides d’obligations, de billets émis et de certificats de bénéficiaire ont fait bondir les commissions de vente de 71,6%. Les encours de produits financiers des clients particuliers sont passés de 85,1 billions de wons fin 2025 à 94,5 billions récemment. Les revenus de courtage ont augmenté de 55% par rapport au trimestre précédent et ceux de la finance d’entreprise de 14,7% sur un an. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوريا إنفستمنت تقترب من تريليون وون أرباحا تشغيلية في الربع الأول",
-        "excerpt": "أعلنت كوريا إنفستمنت آند سيكيوريتيز أن أرباحها التشغيلية المجمعة في الربع الأول من 2026 ارتفعت 85% إلى 959.9 مليار وون، بدعم من الوساطة وإدارة الثروات والمصرفية الاستثمارية والتداول.",
-        "body": "أعلنت كوريا إنفستمنت آند سيكيوريتيز في 14 مايو 2026، عبر إفصاح أولي عن النتائج، أن الربح التشغيلي المجمع في الربع الأول بلغ 959.9 مليار وون، بزيادة 85% على أساس سنوي. وارتفع صافي الربح 75% إلى 784.7 مليار وون. وتوزعت الأرباح بين التداول بنسبة 39.1%، والوساطة 33.3%، والمصرفية الاستثمارية 18.6%، وإدارة الثروات 9.0%. وفي إدارة الثروات، أدى الطلب القوي على السندات والأوراق المصدرة وشهادات المستفيدين إلى زيادة عمولات البيع 71.6%. وارتفع رصيد المنتجات المالية للعملاء الأفراد من 85.1 تريليون وون في نهاية العام الماضي إلى 94.5 تريليون وون مؤخرا. وزادت إيرادات الوساطة 55% مقارنة بالربع السابق، ونمت إيرادات تمويل الشركات 14.7% سنويا. وبلغ رأس المال على أساس منفصل 12.7085 تريليون وون في نهاية الربع. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Korea Investment का Q1 ऑपरेटिंग प्रॉफिट 959.9 अरब वॉन, 1 ट्रिलियन के करीब",
-        "excerpt": "Korea Investment & Securities ने कहा कि 2026 की पहली तिमाही में उसका समेकित ऑपरेटिंग प्रॉफिट 85% बढ़कर 959.9 अरब वॉन रहा, जिसमें ब्रोकरेज, WM, IB और ट्रेडिंग सभी ने योगदान दिया।",
-        "body": "Korea Investment & Securities ने 14 मई 2026 को प्रारंभिक नतीजों में बताया कि 2026 की पहली तिमाही में उसका समेकित ऑपरेटिंग प्रॉफिट 959.9 अरब वॉन रहा, जो पिछले वर्ष की समान अवधि से 85% अधिक है। शुद्ध लाभ 75% बढ़कर 784.7 अरब वॉन रहा। लाभ में ट्रेडिंग की हिस्सेदारी 39.1%, ब्रोकरेज की 33.3%, इन्वेस्टमेंट बैंकिंग की 18.6% और वेल्थ मैनेजमेंट की 9.0% रही। वेल्थ मैनेजमेंट में बॉन्ड, जारी बिल और बेनिफिशियरी सर्टिफिकेट जैसे वित्तीय उत्पादों की मजबूत बिक्री से बिक्री कमीशन 71.6% बढ़ा। व्यक्तिगत ग्राहकों के वित्तीय उत्पादों का शेष पिछले साल के अंत के 85.1 ट्रिलियन वॉन से हाल में 94.5 ट्रिलियन वॉन हो गया। शेयर बाजार की मजबूती से ब्रोकरेज आय पिछली तिमाही से 55% और कॉरपोरेट फाइनेंस आय सालाना 14.7% बढ़ी। तिमाही अंत में अलग आधार पर पूंजी 12.7085 ट्रिलियन वॉन रही। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Korea Investment Catat Laba Operasi Kuartal I 959,9 Miliar Won, Dekati 1 Triliun",
-        "excerpt": "Korea Investment & Securities menyatakan laba operasi konsolidasi kuartal I 2026 naik 85% menjadi 959,9 miliar won, didorong pertumbuhan broker, WM, IB, dan trading.",
-        "body": "Korea Investment & Securities pada 14 Mei 2026 menyatakan lewat pengumuman kinerja sementara bahwa laba operasi konsolidasi kuartal pertama mencapai 959,9 miliar won, naik 85% dari tahun sebelumnya. Laba bersih meningkat 75% menjadi 784,7 miliar won. Komposisi laba tersebar: trading 39,1%, broker 33,3%, investment banking 18,6%, dan wealth management 9,0%. Di wealth management, penjualan kuat obligasi, surat promes yang diterbitkan, dan sertifikat beneficiary mendorong komisi penjualan naik 71,6%. Saldo produk keuangan nasabah individu meningkat dari 85,1 triliun won pada akhir tahun lalu menjadi 94,5 triliun won baru-baru ini. Pendapatan broker naik 55% dari kuartal sebelumnya karena pasar saham menguat, sedangkan pendapatan corporate finance naik 14,7% secara tahunan. Ekuitas basis terpisah pada akhir kuartal mencapai 12,7085 triliun won. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "65fcabed55c1",
-    "slug": "삼전닉스-없인-못해美도-열풍-불더니-한국-주식에-꽂혔다-분석-259166",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T16:27:01.698Z",
-    "updatedAt": "2026-05-14T16:27:01.698Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051467266",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051467266",
-    "titleFingerprint": "158008a4dbc51b4723726e2bce5d10d3fe89e03c",
-    "dedupKeys": [
-      "65fcabed55c16ed5709df8b974f659f89513dbc3",
-      "158008a4dbc51b4723726e2bce5d10d3fe89e03c",
-      "425b6306b7db127605409519353eda7ac025bf8a"
-    ],
-    "imageUrl": "/images/articles/65fcabed55c1.jpg",
-    "i18n": {
-      "ko": {
-        "title": "삼성전자·SK하이닉스에 몰린 미국 자금, 한국 반도체주 재평가 확산",
-        "excerpt": "니혼게이자이는 5월 14일 코스피가 8000선에 육박한 가운데 미국 월가와 개인투자자 자금이 삼성전자·SK하이닉스 등 한국 반도체주로 유입되고 있다고 보도했다.",
-        "body": "니혼게이자이는 5월 14일 코스피가 8000선에 육박하는 고공 행진 속에서 뉴욕 헤지펀드와 미국 개인투자자 자금이 한국 주식 시장으로 몰리고 있다고 보도했다. 배경에는 고대역폭메모리(HBM)를 앞세운 삼성전자와 SK하이닉스 재평가가 있다. 두 종목 주가는 최근 1년 새 3배 가까이 올랐지만 예상 PER은 약 6배로, 미국 마이크론의 약 9배보다 낮다고 전했다. 미국 라운드힐의 메모리 반도체 ETF에는 출시 한 달 만에 60억달러 이상이 유입됐고, 국내 상장 ETF 1107개 중 삼성전자 편입 상품은 218개, SK하이닉스 편입 상품은 203개로 집계됐다. 반도체 비중 확대 흐름은 ETF 시장에서도 이어질 전망이다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "US Money Targets Samsung Electronics and SK Hynix as Korea Chip Stocks Reprice",
-        "excerpt": "Nikkei reported on May 14 that as the KOSPI neared 8,000, Wall Street funds and US retail investors were moving into Korean chip stocks led by Samsung Electronics and SK Hynix.",
-        "body": "Nikkei reported on May 14 that New York hedge funds and US retail investors are moving money into South Korea’s stock market as the KOSPI climbs close to 8,000. The shift is tied to a revaluation of Samsung Electronics and SK Hynix, whose high-bandwidth memory businesses are gaining attention. Their shares have risen nearly threefold over the past year, yet their expected PER is about 6 times, below Micron’s roughly 9 times. Roundhill’s US-listed memory semiconductor ETF attracted more than $6 billion within a month of launch. In Korea, 218 of 1,107 listed ETFs hold Samsung Electronics, while 203 hold SK Hynix. The semiconductor weighting in ETF markets is expected to keep rising. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "サムスン電子・SKハイニックスに米資金、韓国半導体株の再評価広がる",
-        "excerpt": "日本経済新聞は5月14日、KOSPIが8000台に迫るなか、米ウォール街と個人投資家の資金がサムスン電子、SKハイニックスなど韓国半導体株に流入していると報じた。",
-        "body": "日本経済新聞は5月14日、KOSPIが8000台に迫る上昇を続けるなか、ニューヨークのヘッジファンドと米個人投資家の資金が韓国株式市場に向かっていると報じた。背景には、高帯域幅メモリー（HBM）を軸にしたサムスン電子とSKハイニックスの再評価がある。両社株は過去1年で約3倍に上昇したが、予想PERは約6倍で、米マイクロンの約9倍を下回る。米ラウンドヒルのメモリー半導体ETFには設定から1カ月で60億ドル超が流入した。韓国上場ETF1107本のうち、サムスン電子組み入れは218本、SKハイニックスは203本だった。ETF市場で半導体比率はさらに高まる見通しだ。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "美国资金涌向三星电子和SK海力士，韩国半导体股重估升温",
-        "excerpt": "《日本经济新闻》5月14日报道，在KOSPI逼近8000点之际，华尔街和美国散户资金正流入以三星电子、SK海力士为代表的韩国半导体股。",
-        "body": "《日本经济新闻》5月14日报道，随着KOSPI逼近8000点并持续走高，纽约对冲基金和美国个人投资者资金正在流入韩国股市。推动这一变化的是以高带宽内存（HBM）为核心的三星电子和SK海力士重新估值。两家公司股价近一年上涨近3倍，但预期市盈率约为6倍，仍低于美国美光约9倍的水平。美国Roundhill推出的内存半导体ETF在上市一个月内吸引超过60亿美元资金。韩国上市的1107只ETF中，持有三星电子的有218只，持有SK海力士的有203只。ETF市场中半导体权重预计将继续上升。来源: hankyung.com"
-      },
-      "es": {
-        "title": "El dinero de EE. UU. mira a Samsung y SK Hynix mientras Corea revalora sus chips",
-        "excerpt": "Nikkei informó el 14 de mayo que, con el KOSPI cerca de 8.000 puntos, fondos de Wall Street e inversores minoristas de EE. UU. están entrando en acciones coreanas de chips como Samsung Electronics y SK Hynix.",
-        "body": "Nikkei informó el 14 de mayo que fondos de cobertura de Nueva York e inversores minoristas de Estados Unidos están llevando capital al mercado bursátil surcoreano mientras el KOSPI se aproxima a los 8.000 puntos. El movimiento se vincula a la revaloración de Samsung Electronics y SK Hynix por su exposición a memorias de alto ancho de banda (HBM). Sus acciones casi se triplicaron en el último año, pero su PER estimado ronda 6 veces, por debajo de las cerca de 9 veces de Micron. El ETF de semiconductores de memoria de Roundhill captó más de 6.000 millones de dólares en un mes. En Corea, 218 de 1.107 ETF listados incluyen Samsung Electronics y 203 incluyen SK Hynix. La presencia de semiconductores en los ETF podría seguir creciendo. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Capital dos EUA mira Samsung e SK Hynix com reavaliação dos chips coreanos",
-        "excerpt": "O Nikkei informou em 14 de maio que, com o KOSPI perto de 8.000 pontos, fundos de Wall Street e investidores individuais dos EUA estão entrando em ações coreanas de semicondutores, lideradas por Samsung Electronics e SK Hynix.",
-        "body": "O Nikkei informou em 14 de maio que hedge funds de Nova York e investidores individuais dos Estados Unidos estão direcionando recursos ao mercado acionário sul-coreano enquanto o KOSPI se aproxima de 8.000 pontos. O movimento reflete a reavaliação de Samsung Electronics e SK Hynix, impulsionadas por memórias de alta largura de banda (HBM). As ações das duas empresas quase triplicaram em um ano, mas o PER esperado é de cerca de 6 vezes, abaixo das cerca de 9 vezes da Micron. O ETF de semicondutores de memória da Roundhill recebeu mais de US$ 6 bilhões em um mês. Na Coreia, 218 dos 1.107 ETFs listados incluem Samsung Electronics e 203 incluem SK Hynix. A fatia dos semicondutores nos ETFs deve continuar aumentando. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "US-Kapital fließt in Samsung und SK Hynix, Koreas Chipaktien werden neu bewertet",
-        "excerpt": "Nikkei berichtete am 14. Mai, dass bei einem KOSPI nahe 8.000 Punkten Wall-Street-Fonds und US-Privatanleger verstärkt in koreanische Chipwerte wie Samsung Electronics und SK Hynix investieren.",
-        "body": "Nikkei berichtete am 14. Mai, dass New Yorker Hedgefonds und US-Privatanleger Kapital in den südkoreanischen Aktienmarkt lenken, während der KOSPI nahe an die Marke von 8.000 Punkten steigt. Im Zentrum steht die Neubewertung von Samsung Electronics und SK Hynix wegen ihrer Position bei High-Bandwidth-Memory (HBM). Die Aktien beider Unternehmen haben sich im vergangenen Jahr nahezu verdreifacht, doch das erwartete KGV liegt bei etwa 6 und damit unter Microns rund 9. In den Speicherhalbleiter-ETF von Roundhill flossen binnen eines Monats mehr als 6 Milliarden Dollar. In Korea halten 218 von 1.107 gelisteten ETFs Samsung Electronics, 203 halten SK Hynix. Der Halbleiteranteil am ETF-Markt dürfte weiter steigen. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Les capitaux américains misent sur Samsung et SK Hynix, les puces coréennes revalorisées",
-        "excerpt": "Nikkei a rapporté le 14 mai que, alors que le KOSPI approche 8 000 points, des fonds de Wall Street et des particuliers américains investissent dans les valeurs coréennes des semi-conducteurs comme Samsung Electronics et SK Hynix.",
-        "body": "Nikkei a rapporté le 14 mai que des hedge funds new-yorkais et des investisseurs particuliers américains dirigent des capitaux vers le marché actions sud-coréen, alors que le KOSPI se rapproche de 8 000 points. Cette dynamique repose sur la revalorisation de Samsung Electronics et SK Hynix grâce à la mémoire à haute bande passante (HBM). Leurs actions ont presque triplé en un an, mais leur PER attendu est d’environ 6 fois, contre près de 9 fois pour Micron. L’ETF de Roundhill consacré aux semi-conducteurs mémoire a attiré plus de 6 milliards de dollars en un mois. En Corée, 218 des 1 107 ETF cotés détiennent Samsung Electronics et 203 détiennent SK Hynix. Le poids des semi-conducteurs dans les ETF devrait continuer d’augmenter. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "الأموال الأميركية تتجه إلى سامسونغ وSK هاينكس مع إعادة تقييم أسهم الرقائق الكورية",
-        "excerpt": "ذكرت نيكي في 14 مايو أن اقتراب كوسبي من مستوى 8000 نقطة ترافق مع تدفق أموال وول ستريت والمستثمرين الأفراد الأميركيين إلى أسهم الرقائق الكورية بقيادة سامسونغ إلكترونيكس وSK هاينكس.",
-        "body": "ذكرت نيكي في 14 مايو أن صناديق التحوط في نيويورك والمستثمرين الأفراد في الولايات المتحدة يوجهون أموالا إلى سوق الأسهم الكورية الجنوبية مع اقتراب مؤشر كوسبي من 8000 نقطة. ويأتي ذلك مع إعادة تقييم سامسونغ إلكترونيكس وSK هاينكس بفضل ذاكرة النطاق الترددي العالي HBM. فقد ارتفعت أسهم الشركتين إلى نحو ثلاثة أمثالها خلال عام، لكن مضاعف الربحية المتوقع يقارب 6 مرات، وهو أقل من نحو 9 مرات لدى ميكرون. وجذب صندوق Roundhill المتداول لرقائق الذاكرة أكثر من 6 مليارات دولار خلال شهر من إطلاقه. وفي كوريا، تضم 218 من أصل 1107 صناديق متداولة سامسونغ إلكترونيكس، بينما تضم 203 صناديق SK هاينكس. ومن المتوقع أن تزداد حصة أشباه الموصلات في سوق الصناديق المتداولة. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "सैमसंग और SK हाइनिक्स पर अमेरिकी पैसा, कोरियाई चिप शेयरों का पुनर्मूल्यांकन तेज",
-        "excerpt": "निक्केई ने 14 मई को बताया कि KOSPI के 8,000 के करीब पहुंचने के बीच वॉल स्ट्रीट फंड और अमेरिकी खुदरा निवेशक सैमसंग इलेक्ट्रॉनिक्स और SK हाइनिक्स जैसे कोरियाई चिप शेयरों में पैसा लगा रहे हैं।",
-        "body": "निक्केई ने 14 मई को बताया कि KOSPI के 8,000 अंक के करीब पहुंचने के साथ न्यूयॉर्क हेज फंड और अमेरिकी खुदरा निवेशकों का पैसा दक्षिण कोरिया के शेयर बाजार में आ रहा है। इसका कारण हाई-बैंडविड्थ मेमोरी (HBM) के आधार पर Samsung Electronics और SK Hynix का पुनर्मूल्यांकन है। दोनों कंपनियों के शेयर पिछले एक वर्ष में लगभग तीन गुना बढ़े हैं, फिर भी उनका अनुमानित PER करीब 6 गुना है, जो Micron के लगभग 9 गुना से कम है। Roundhill के मेमोरी सेमीकंडक्टर ETF में लॉन्च के एक महीने के भीतर 6 अरब डॉलर से अधिक आए। कोरिया में सूचीबद्ध 1,107 ETF में से 218 Samsung Electronics और 203 SK Hynix रखते हैं। ETF बाजार में सेमीकंडक्टर का वजन आगे और बढ़ सकता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Dana AS Masuk ke Samsung dan SK Hynix, Saham Chip Korea Kian Dinilai Ulang",
-        "excerpt": "Nikkei melaporkan pada 14 Mei bahwa saat KOSPI mendekati 8.000, dana Wall Street dan investor ritel AS mengalir ke saham chip Korea seperti Samsung Electronics dan SK Hynix.",
-        "body": "Nikkei melaporkan pada 14 Mei bahwa hedge fund New York dan investor ritel Amerika Serikat mengalirkan dana ke pasar saham Korea Selatan saat KOSPI mendekati 8.000. Pergerakan ini terkait penilaian ulang terhadap Samsung Electronics dan SK Hynix berkat memori bandwidth tinggi (HBM). Saham kedua perusahaan hampir naik tiga kali lipat dalam setahun, tetapi PER perkiraannya sekitar 6 kali, masih di bawah Micron yang sekitar 9 kali. ETF semikonduktor memori milik Roundhill menarik lebih dari US$6 miliar dalam satu bulan sejak diluncurkan. Di Korea, 218 dari 1.107 ETF tercatat memegang Samsung Electronics, sementara 203 memegang SK Hynix. Porsi semikonduktor di pasar ETF diperkirakan terus meningkat. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "2e116c9333d9",
-    "slug": "직원-4000명-잘랐더니-주가-18-폭등낡은-인력-대신-ai-올인하는-기업-925180",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T16:25:45.029Z",
-    "updatedAt": "2026-05-14T16:25:45.029Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047221",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047221",
-    "titleFingerprint": "042f7872d1f2c1c553d77a8bc74753fade7c6163",
-    "dedupKeys": [
-      "2e116c9333d92444dabd4ce387f18835ea7d4bb7",
-      "042f7872d1f2c1c553d77a8bc74753fade7c6163",
-      "575a7fd792af7f7a666fa9e04450a5e50022d88b"
-    ],
-    "imageUrl": "/images/articles/2e116c9333d9.png",
-    "i18n": {
-      "ko": {
-        "title": "시스코, 직원 4000명 감원 후 시간외 주가 18% 급등...AI 수요 선점 나섰다",
-        "excerpt": "미국 네트워킹 장비기업 시스코가 직원 5%에 해당하는 약 4000명 감원을 단행하며 AI 중심 전환 의지를 드러냈고, 시간외거래에서 주가는 18% 급등했다.",
-        "body": "미국 네트워킹 장비기업 시스코가 직원의 5%에 해당하는 약 4000명을 줄이는 대규모 인력 감축을 단행했다. 회사는 이번 조치로 인공지능(AI) 수요를 선점하겠다는 의지를 시장에 전달했고, 발표 이후 시간외거래에서 주가가 18% 급등했다. 네트워킹 장비 강자인 시스코는 AI 중심의 기업 전환을 앞세우며 기존 인력 구조를 재편하는 모습이다. 시장은 감원 규모와 AI 투자 방향을 함께 반영하며 즉각 반응했다. 다만 원문은 구체적인 추가 투자 규모나 세부 사업 계획은 제시하지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Cisco Shares Jump 18% After 4,000 Job Cuts as Company Pivots Toward AI Demand",
-        "excerpt": "U.S. networking equipment maker Cisco cut about 4,000 jobs, or 5% of its workforce, signaling a stronger AI focus and sending shares up 18% in after-hours trading.",
-        "body": "U.S. networking equipment company Cisco carried out a large workforce reduction, cutting about 4,000 employees, equal to 5% of its staff. Through the move, the company signaled to the market its intention to capture surging demand for artificial intelligence, and its shares jumped 18% in after-hours trading after the announcement. Cisco, a major player in networking equipment, is presenting an AI-centered corporate shift while reorganizing its existing workforce structure. The market responded immediately, reflecting both the scale of the layoffs and the direction toward AI. The original report did not provide additional investment amounts or detailed business plans. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "シスコ、4000人削減後に時間外で株価18%急騰...AI需要取り込みへ",
-        "excerpt": "米ネットワーク機器大手シスコは従業員の5%にあたる約4000人を削減し、AI重視への転換姿勢を示したことで時間外取引の株価が18%急騰した。",
-        "body": "米国のネットワーク機器企業シスコは、従業員の5%にあたる約4000人を削減する大規模な人員削減を実施した。同社は今回の措置を通じて、人工知能（AI）需要を先取りする意思を市場に伝え、発表後の時間外取引で株価は18%急騰した。ネットワーク機器の有力企業であるシスコは、AI中心の企業転換を掲げながら既存の人員構造を再編している。市場は削減規模とAI投資の方向性を同時に織り込み、即座に反応した。ただし原文では、追加投資額や具体的な事業計画は示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "思科裁员4000人后盘后股价暴涨18%，全力押注AI需求",
-        "excerpt": "美国网络设备企业思科裁减约4000名员工，占员工总数5%，释放转向AI的信号，消息公布后其盘后股价上涨18%。",
-        "body": "美国网络设备企业思科实施了大规模裁员，裁减约4000名员工，相当于员工总数的5%。公司通过这一举措向市场传递了抢占人工智能（AI）需求的意图，消息公布后，思科股价在盘后交易中上涨18%。作为网络设备领域的重要企业，思科正以AI为核心推进企业转型，并调整既有人员结构。市场同时反映了裁员规模和AI方向，对消息作出即时反应。不过，原文并未提供具体追加投资规模或详细业务计划。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Cisco sube 18% tras recortar 4.000 empleos y reforzar su apuesta por la IA",
-        "excerpt": "Cisco, fabricante estadounidense de equipos de red, recortó unos 4.000 puestos, el 5% de su plantilla, y sus acciones subieron 18% fuera de hora por su giro hacia la IA.",
-        "body": "Cisco, empresa estadounidense de equipos de redes, llevó a cabo un amplio recorte de personal al eliminar unos 4.000 puestos, equivalentes al 5% de su plantilla. Con esta medida, la compañía transmitió al mercado su intención de adelantarse a la demanda de inteligencia artificial (IA), y sus acciones subieron 18% en las operaciones posteriores al cierre. Cisco, un actor fuerte en equipos de redes, está reorganizando su estructura laboral existente mientras impulsa una transformación centrada en la IA. El mercado reaccionó de inmediato al combinar la magnitud del recorte con la dirección estratégica hacia la IA. El texto original no presentó cifras adicionales de inversión ni planes de negocio detallados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Cisco salta 18% após cortar 4 mil vagas e mirar demanda crescente por IA",
-        "excerpt": "A Cisco, empresa americana de equipamentos de rede, cortou cerca de 4 mil funcionários, 5% do quadro, sinalizando foco em IA; as ações subiram 18% no after-market.",
-        "body": "A Cisco, empresa americana de equipamentos de rede, realizou um grande corte de pessoal ao reduzir cerca de 4 mil funcionários, o equivalente a 5% de sua força de trabalho. Com a medida, a companhia comunicou ao mercado sua intenção de capturar a demanda por inteligência artificial (IA), e suas ações subiram 18% nas negociações após o fechamento. Forte no setor de equipamentos de rede, a Cisco apresenta uma transição corporativa centrada em IA enquanto reorganiza sua estrutura de pessoal existente. O mercado reagiu de imediato, refletindo tanto o tamanho dos cortes quanto a direção voltada à IA. O texto original não informou valores adicionais de investimento nem planos de negócios detalhados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Cisco-Aktie steigt nach 4.000 Stellenstreichungen um 18%: Fokus auf KI-Nachfrage",
-        "excerpt": "Der US-Netzwerkausrüster Cisco streicht rund 4.000 Stellen, etwa 5% der Belegschaft, und signalisiert einen stärkeren KI-Fokus; die Aktie legte nachbörslich 18% zu.",
-        "body": "Der US-amerikanische Netzwerkausrüster Cisco hat einen umfangreichen Stellenabbau umgesetzt und rund 4.000 Beschäftigte gestrichen, was 5% der Belegschaft entspricht. Mit diesem Schritt vermittelte das Unternehmen dem Markt den Willen, die Nachfrage nach künstlicher Intelligenz (KI) frühzeitig zu nutzen; nach der Bekanntgabe stieg die Aktie im nachbörslichen Handel um 18%. Cisco, ein bedeutender Anbieter von Netzwerkausrüstung, stellt damit eine stärker KI-zentrierte Ausrichtung in den Vordergrund und ordnet seine bestehende Personalstruktur neu. Der Markt reagierte unmittelbar auf die Kombination aus Stellenabbau und KI-Strategie. Der Originalbericht nannte keine zusätzlichen Investitionssummen oder detaillierten Geschäftspläne. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Cisco bondit de 18% après 4.000 suppressions de postes et un virage vers l’IA",
-        "excerpt": "Cisco, groupe américain d’équipements réseau, a supprimé environ 4.000 emplois, soit 5% de ses effectifs, signalant son virage vers l’IA; l’action a gagné 18% hors séance.",
-        "body": "Cisco, entreprise américaine d’équipements de réseau, a procédé à une importante réduction d’effectifs en supprimant environ 4.000 postes, soit 5% de son personnel. Par cette mesure, la société a envoyé au marché le signal de sa volonté de capter la demande liée à l’intelligence artificielle (IA), et son action a bondi de 18% dans les échanges après clôture. Acteur majeur des équipements réseau, Cisco met en avant une transformation centrée sur l’IA tout en réorganisant sa structure de personnel existante. Le marché a réagi immédiatement, intégrant à la fois l’ampleur des suppressions de postes et l’orientation vers l’IA. Le texte d’origine ne mentionne pas de montant d’investissement supplémentaire ni de plan d’activité détaillé. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "سيسكو تقفز 18% بعد خفض 4000 وظيفة مع توجيه أوضح نحو طلب الذكاء الاصطناعي",
-        "excerpt": "خفضت سيسكو الأميركية لمعدات الشبكات نحو 4000 وظيفة، أي 5% من موظفيها، في إشارة إلى تركيز أكبر على الذكاء الاصطناعي، فصعد السهم 18% بعد الإغلاق.",
-        "body": "نفذت شركة سيسكو الأميركية المتخصصة في معدات الشبكات خفضا واسعا للوظائف شمل نحو 4000 موظف، أي ما يعادل 5% من قوتها العاملة. ومن خلال هذه الخطوة، أوصلت الشركة إلى السوق عزمها على اقتناص الطلب على الذكاء الاصطناعي، وبعد الإعلان ارتفع سهمها 18% في تداولات ما بعد الإغلاق. وتعرض سيسكو، وهي من الشركات القوية في معدات الشبكات، تحولا مؤسسيا يتمحور حول الذكاء الاصطناعي مع إعادة ترتيب هيكل العمالة القائم. وقد تفاعل السوق فورا مع حجم الخفض واتجاه الشركة نحو الذكاء الاصطناعي. ولم يذكر النص الأصلي حجم استثمارات إضافية أو خططا تفصيلية للأعمال. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "Cisco ने 4,000 नौकरियां घटाईं, AI मांग पर जोर से आफ्टर-आवर्स में शेयर 18% उछला",
-        "excerpt": "अमेरिकी नेटवर्किंग उपकरण कंपनी Cisco ने लगभग 4,000 कर्मचारियों, यानी 5% कार्यबल, की कटौती की और AI केंद्रित बदलाव का संकेत दिया; आफ्टर-आवर्स में शेयर 18% चढ़ा।",
-        "body": "अमेरिकी नेटवर्किंग उपकरण कंपनी Cisco ने बड़े पैमाने पर कर्मचारियों की कटौती करते हुए लगभग 4,000 लोगों को हटाया, जो उसके कार्यबल का 5% है। इस कदम के जरिए कंपनी ने बाजार को कृत्रिम बुद्धिमत्ता (AI) की मांग को पहले पकड़ने की अपनी मंशा दिखाई, और घोषणा के बाद आफ्टर-आवर्स ट्रेडिंग में उसका शेयर 18% उछल गया। नेटवर्किंग उपकरण क्षेत्र की प्रमुख कंपनी Cisco अब AI-केंद्रित कॉरपोरेट बदलाव को आगे रखकर मौजूदा कर्मचारी संरचना को पुनर्गठित कर रही है। बाजार ने कटौती के आकार और AI दिशा, दोनों को तुरंत कीमतों में शामिल किया। मूल रिपोर्ट में अतिरिक्त निवेश राशि या विस्तृत कारोबारी योजना नहीं दी गई। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Cisco Melonjak 18% Usai Pangkas 4.000 Pekerja dan Fokus Rebut Permintaan AI",
-        "excerpt": "Cisco, perusahaan perangkat jaringan AS, memangkas sekitar 4.000 pekerja atau 5% karyawan, menegaskan fokus ke AI; sahamnya naik 18% pada perdagangan after-hours.",
-        "body": "Cisco, perusahaan perangkat jaringan asal Amerika Serikat, melakukan pengurangan tenaga kerja besar-besaran dengan memangkas sekitar 4.000 karyawan, setara 5% dari total pekerjanya. Melalui langkah ini, perusahaan menyampaikan kepada pasar niat untuk menangkap permintaan kecerdasan buatan (AI), dan setelah pengumuman sahamnya melonjak 18% dalam perdagangan after-hours. Sebagai pemain kuat di perangkat jaringan, Cisco menonjolkan transformasi perusahaan yang berpusat pada AI sambil menata ulang struktur tenaga kerja yang ada. Pasar langsung bereaksi terhadap besarnya pemangkasan dan arah menuju AI. Laporan asli tidak menyebutkan nilai investasi tambahan atau rencana bisnis terperinci. Sumber: mk.co.kr"
       }
     }
   }
