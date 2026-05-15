@@ -1,5 +1,230 @@
 [
   {
+    "id": "244d8acaed2b",
+    "slug": "京都の代表企業-京セラ-製造業は終わらない-745829",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T12:56:59.371Z",
+    "updatedAt": "2026-05-15T12:56:59.371Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049347",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049347",
+    "titleFingerprint": "c98195f879bea5ec37c03eeef2bbd547c0202d43",
+    "dedupKeys": [
+      "244d8acaed2b0ef128cbdd3049dec4ef29811324",
+      "c98195f879bea5ec37c03eeef2bbd547c0202d43",
+      "a71bd5c6714e46c39bd19118048b64d79f9ee99c"
+    ],
+    "imageUrl": "/images/articles/244d8acaed2b.png",
+    "i18n": {
+      "ko": {
+        "title": "교세라, AI 시대에도 “제조업은 끝나지 않는다”는 자신감",
+        "excerpt": "일본 교토의 대표 기업 교세라는 AI 확산으로 제조업 위기론이 커지는 가운데, 이를 위기가 아닌 기회로 보고 있다고 mk.co.kr이 전했다.",
+        "body": "일본 교토를 대표하는 제조기업 교세라가 인공지능(AI) 등장으로 제조업의 미래를 우려하는 시각에 대해 “제조업은 끝나지 않는다”는 입장을 밝혔다. mk.co.kr에 따르면 교세라는 AI 확산을 제조업의 위기로만 보지 않고, 오히려 회사에 기회가 될 수 있다고 보고 있다. 교세라는 1959년 창업 이후 통기 기준으로 한 번도 적자를 내지 않은 일본의 대표 우량 기업으로 소개됐다. AI가 산업 구조를 바꾸는 가운데, 교세라의 발언은 전통 제조업이 기술 변화 속에서도 경쟁력을 이어갈 수 있다는 메시지로 읽힌다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kyocera Says Manufacturing Will Not End in the AI Era",
+        "excerpt": "Kyocera, a leading company from Kyoto, Japan, sees the spread of AI not simply as a manufacturing crisis but as an opportunity, mk.co.kr reported.",
+        "body": "Kyocera, a representative manufacturing company based in Kyoto, Japan, has said that manufacturing “will not end” despite concerns about the future of the sector following the rise of artificial intelligence. According to mk.co.kr, Kyocera does not view the spread of AI only as a threat to manufacturing, but rather as a potential opportunity for the company. Founded in 1959, Kyocera was described as a highly stable Japanese company that has never posted a full-year loss. As AI reshapes industrial structures, Kyocera’s stance signals that traditional manufacturing can continue to maintain competitiveness amid technological change. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "京セラ、AI時代にも「製造業は終わらない」と自信",
+        "excerpt": "京都を代表する企業である京セラは、AIの広がりで製造業危機論が強まる中、それを危機ではなく機会と見ているとmk.co.krが伝えた。",
+        "body": "日本・京都を代表する製造企業である京セラが、人工知能（AI）の登場によって製造業の将来を懸念する見方に対し、「製造業は終わらない」との立場を示した。mk.co.krによると、京セラはAIの拡大を製造業の危機としてだけではなく、むしろ同社にとって機会になり得ると見ている。京セラは1959年の創業以来、通期で一度も赤字を出していない日本の代表的な優良企業として紹介された。AIが産業構造を変える中、京セラの発言は、伝統的な製造業が技術変化の中でも競争力を維持できるというメッセージとして受け止められる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "京瓷称AI时代“制造业不会结束”，释放信心",
+        "excerpt": "据mk.co.kr报道，日本京都代表企业京瓷认为，在AI扩散引发制造业危机论之际，这并非单纯危机，而可能是机遇。",
+        "body": "日本京都的代表性制造企业京瓷表示，面对人工智能（AI）出现后外界对制造业未来的担忧，公司认为“制造业不会结束”。据mk.co.kr报道，京瓷并不把AI扩散只视为制造业危机，反而认为这可能成为公司的机会。京瓷自1959年创立以来，按全年业绩计算从未出现亏损，被介绍为日本代表性的优质企业。随着AI改变产业结构，京瓷的表态显示，传统制造业在技术变化中仍有可能延续竞争力。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kyocera afirma que la manufactura no terminará con la IA",
+        "excerpt": "Kyocera, empresa emblemática de Kioto, Japón, ve la expansión de la IA no solo como una crisis para la manufactura, sino como una oportunidad, informó mk.co.kr.",
+        "body": "Kyocera, una empresa manufacturera representativa de Kioto, Japón, afirmó que la manufactura “no terminará” pese a las preocupaciones sobre el futuro del sector tras la aparición de la inteligencia artificial. Según mk.co.kr, Kyocera no considera la expansión de la IA únicamente como una amenaza para la manufactura, sino también como una posible oportunidad para la compañía. Fundada en 1959, Kyocera fue presentada como una destacada empresa japonesa que nunca ha registrado pérdidas en un ejercicio anual completo. En un momento en que la IA transforma la estructura industrial, su postura sugiere que la manufactura tradicional puede mantener competitividad ante el cambio tecnológico. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kyocera diz que a manufatura não acabará na era da IA",
+        "excerpt": "A Kyocera, empresa símbolo de Kyoto, no Japão, vê a expansão da IA não apenas como crise para a manufatura, mas como oportunidade, informou o mk.co.kr.",
+        "body": "A Kyocera, uma empresa manufatureira representativa de Kyoto, no Japão, afirmou que a manufatura “não vai acabar” apesar das preocupações sobre o futuro do setor com o avanço da inteligência artificial. Segundo o mk.co.kr, a Kyocera não vê a disseminação da IA apenas como uma ameaça à manufatura, mas como uma possível oportunidade para a companhia. Fundada em 1959, a Kyocera foi descrita como uma grande empresa japonesa que nunca registrou prejuízo em um ano fiscal completo. Enquanto a IA altera estruturas industriais, a posição da Kyocera indica que a manufatura tradicional pode preservar competitividade em meio à mudança tecnológica. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kyocera sieht Fertigung auch im KI-Zeitalter nicht am Ende",
+        "excerpt": "Kyocera, ein führendes Unternehmen aus Kyoto, Japan, sieht die Ausbreitung von KI nicht nur als Krise für die Fertigung, sondern als Chance, berichtete mk.co.kr.",
+        "body": "Kyocera, ein repräsentatives Fertigungsunternehmen aus Kyoto in Japan, hat erklärt, dass die Fertigung trotz der Sorgen über die Zukunft der Branche durch künstliche Intelligenz „nicht enden“ werde. Laut mk.co.kr betrachtet Kyocera die Ausbreitung von KI nicht nur als Bedrohung für die Fertigungsindustrie, sondern vielmehr als mögliche Chance für das Unternehmen. Kyocera wurde 1959 gegründet und als eines der vorbildlichen japanischen Unternehmen beschrieben, das auf Jahresbasis noch nie einen Verlust ausgewiesen hat. Während KI industrielle Strukturen verändert, zeigt Kyoceras Haltung, dass traditionelle Fertigung auch im technologischen Wandel wettbewerbsfähig bleiben kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Kyocera affirme que l’industrie manufacturière survivra à l’IA",
+        "excerpt": "Kyocera, entreprise emblématique de Kyoto au Japon, voit l’essor de l’IA non seulement comme une crise pour l’industrie, mais aussi comme une opportunité, selon mk.co.kr.",
+        "body": "Kyocera, entreprise manufacturière représentative de Kyoto au Japon, a affirmé que l’industrie manufacturière « ne prendra pas fin » malgré les inquiétudes suscitées par l’arrivée de l’intelligence artificielle. Selon mk.co.kr, Kyocera ne considère pas la diffusion de l’IA uniquement comme une menace pour l’industrie manufacturière, mais plutôt comme une opportunité possible pour l’entreprise. Fondée en 1959, Kyocera a été présentée comme une grande société japonaise qui n’a jamais enregistré de perte sur un exercice annuel complet. Alors que l’IA transforme les structures industrielles, cette position suggère que la fabrication traditionnelle peut continuer à préserver sa compétitivité face au changement technologique. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كيوسيرا تؤكد أن التصنيع لن ينتهي في عصر الذكاء الاصطناعي",
+        "excerpt": "قالت كيوسيرا، إحدى أبرز شركات كيوتو اليابانية، إن انتشار الذكاء الاصطناعي لا يمثل أزمة للتصنيع فقط، بل قد يكون فرصة، وفق mk.co.kr.",
+        "body": "أعلنت كيوسيرا، الشركة الصناعية البارزة في كيوتو باليابان، أن «التصنيع لن ينتهي» رغم المخاوف المتزايدة بشأن مستقبل القطاع مع ظهور الذكاء الاصطناعي. ووفقًا لـ mk.co.kr، لا تنظر كيوسيرا إلى انتشار الذكاء الاصطناعي على أنه تهديد للصناعة التحويلية فحسب، بل تراه أيضًا فرصة محتملة للشركة. وتأسست كيوسيرا عام 1959، ووُصفت بأنها من الشركات اليابانية الممتازة التي لم تسجل خسارة سنوية كاملة قط. ومع تغيير الذكاء الاصطناعي للهياكل الصناعية، تعكس تصريحات كيوسيرا رسالة مفادها أن التصنيع التقليدي يمكنه مواصلة الحفاظ على قدرته التنافسية وسط التحول التقني. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "क्योसेरा का कहना है कि AI युग में विनिर्माण खत्म नहीं होगा",
+        "excerpt": "जापान के क्योटो की प्रमुख कंपनी क्योसेरा AI के प्रसार को विनिर्माण संकट भर नहीं, बल्कि अवसर के रूप में देखती है, mk.co.kr ने बताया।",
+        "body": "जापान के क्योटो की प्रतिनिधि विनिर्माण कंपनी क्योसेरा ने कहा है कि कृत्रिम बुद्धिमत्ता (AI) के उभार के बाद विनिर्माण क्षेत्र के भविष्य को लेकर चिंताओं के बावजूद “विनिर्माण खत्म नहीं होगा।” mk.co.kr के अनुसार, क्योसेरा AI के प्रसार को केवल विनिर्माण उद्योग के लिए खतरे के रूप में नहीं देखती, बल्कि इसे कंपनी के लिए संभावित अवसर मानती है। 1959 में स्थापित क्योसेरा को जापान की ऐसी उत्कृष्ट कंपनी बताया गया है जिसने पूरे वर्ष के आधार पर कभी घाटा दर्ज नहीं किया। जब AI औद्योगिक संरचना बदल रहा है, क्योसेरा का रुख संकेत देता है कि पारंपरिक विनिर्माण तकनीकी बदलाव के बीच भी प्रतिस्पर्धा बनाए रख सकता है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kyocera Sebut Manufaktur Tidak Akan Berakhir di Era AI",
+        "excerpt": "Kyocera, perusahaan utama dari Kyoto, Jepang, memandang penyebaran AI bukan semata krisis manufaktur, melainkan peluang, menurut laporan mk.co.kr.",
+        "body": "Kyocera, perusahaan manufaktur representatif dari Kyoto, Jepang, menyatakan bahwa manufaktur “tidak akan berakhir” meski muncul kekhawatiran tentang masa depan sektor ini setelah hadirnya kecerdasan buatan. Menurut mk.co.kr, Kyocera tidak melihat penyebaran AI hanya sebagai ancaman bagi manufaktur, tetapi juga sebagai peluang bagi perusahaan. Didirikan pada 1959, Kyocera digambarkan sebagai perusahaan unggulan Jepang yang tidak pernah mencatat rugi untuk kinerja setahun penuh. Saat AI mengubah struktur industri, sikap Kyocera menunjukkan bahwa manufaktur tradisional masih dapat mempertahankan daya saing di tengah perubahan teknologi. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "4070657a6777",
+    "slug": "al-が働き方を変えても経営の本質は変わらない-663238",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T12:56:01.869Z",
+    "updatedAt": "2026-05-15T12:56:01.869Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/world/12049348",
+    "canonicalUrl": "https://www.mk.co.kr/news/world/12049348",
+    "titleFingerprint": "fec96b9855255a8d41a652ed3fd01c46a0687bc6",
+    "dedupKeys": [
+      "4070657a6777c1ab863adc74594f7723056d02fc",
+      "fec96b9855255a8d41a652ed3fd01c46a0687bc6",
+      "83a328599ee1a447fa371127446a9b1bcb7acb41"
+    ],
+    "imageUrl": "/images/articles/4070657a6777.png",
+    "i18n": {
+      "ko": {
+        "title": "AI가 일하는 방식을 바꿔도 경영의 본질은 변하지 않는다는 교훈",
+        "excerpt": "mk.co.kr은 교토의 20층 교세라 본사와 1998년 세워진 파인세라믹관을 통해 AI 시대에도 경영의 본질은 변하지 않는다는 메시지를 전했다.",
+        "body": "mk.co.kr에 따르면 교토에서는 보기 드문 고층 건물인 20층 교세라 본사에 들어서면 가장 먼저 교세라의 창업부터 현재까지를 보여주는 ‘파인세라믹관’이 눈에 들어온다. 1998년 설립된 이 공간은 교세라의 출발점을 보여주는 장소로 소개됐다. 원문은 AI가 일하는 방식을 바꾸고 있는 상황에서도 기업이 돌아보아야 할 것은 기술 변화 자체보다 경영의 본질이라는 점을 강조한다. 교세라 본사와 파인세라믹관은 창업의 출발점과 현재를 함께 보여주는 상징적 배경으로 제시됐다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "AI May Change How People Work, but the Essence of Management Remains",
+        "excerpt": "mk.co.kr reported that Kyocera’s 20-story Kyoto headquarters and its Fine Ceramic Hall, established in 1998, underline that management’s essence remains unchanged in the AI era.",
+        "body": "According to mk.co.kr, visitors entering Kyocera’s 20-story headquarters, a rare high-rise building in Kyoto, first notice the “Fine Ceramic Hall,” which presents Kyocera’s history from its founding to the present. Established in 1998, the hall is described as a place that shows Kyocera’s starting point. The article stresses that even as AI changes the way people work, companies should focus not only on technological change but also on the enduring essence of management. Kyocera’s headquarters and the Fine Ceramic Hall are presented as a symbolic setting linking the company’s origins with its present. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "AIが働き方を変えても、経営の本質は変わらないという教訓",
+        "excerpt": "mk.co.krは、京都の20階建て京セラ本社と1998年設立のファインセラミック館を通じ、AI時代にも経営の本質は変わらないと伝えた。",
+        "body": "mk.co.krによると、京都では珍しい高層ビルである20階建ての京セラ本社に入ると、まず目に入るのは京セラの創業から現在までを示す「ファインセラミック館」だ。1998年に設立されたこの空間は、京セラの出発点を示す場所として紹介された。記事は、AIが働き方を変えている状況でも、企業が見つめるべきものは技術変化そのものだけでなく、経営の本質であると強調する。京セラ本社とファインセラミック館は、創業の原点と現在をともに示す象徴的な背景として描かれた。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "AI改变工作方式，但经营管理的本质并未改变",
+        "excerpt": "mk.co.kr报道，京都20层高的京瓷总部和1998年设立的精细陶瓷馆显示，在AI时代经营管理的本质依然不变。",
+        "body": "据mk.co.kr报道，进入京都少见的高层建筑、20层的京瓷总部后，首先映入眼帘的是展示京瓷从创立到现在历程的“精细陶瓷馆”。该馆设立于1998年，被介绍为展现京瓷出发点的空间。文章强调，即使AI正在改变人们的工作方式，企业需要回望的也不只是技术变化本身，而是经营管理的本质。京瓷总部和精细陶瓷馆被作为连接企业创立起点与当下的象征性背景呈现。来源：mk.co.kr"
+      },
+      "es": {
+        "title": "La IA cambia la forma de trabajar, pero no la esencia de la gestión",
+        "excerpt": "mk.co.kr informó que la sede de Kyocera en Kioto, de 20 pisos, y el Fine Ceramic Hall, creado en 1998, muestran que la esencia de la gestión no cambia en la era de la IA.",
+        "body": "Según mk.co.kr, al entrar en la sede de Kyocera en Kioto, un edificio de 20 pisos poco común en esa ciudad, lo primero que se ve es el “Fine Ceramic Hall”, que muestra la trayectoria de Kyocera desde su fundación hasta la actualidad. Creado en 1998, este espacio se presenta como un lugar que refleja el punto de partida de la compañía. El artículo subraya que, aunque la IA está cambiando la forma de trabajar, las empresas deben mirar no solo el cambio tecnológico, sino la esencia de la gestión. La sede de Kyocera y el Fine Ceramic Hall aparecen como un escenario simbólico que une el origen y el presente de la empresa. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "IA muda a forma de trabalhar, mas a essência da gestão permanece",
+        "excerpt": "O mk.co.kr informou que a sede de 20 andares da Kyocera em Kyoto e o Fine Ceramic Hall, criado em 1998, mostram que a essência da gestão não muda na era da IA.",
+        "body": "Segundo o mk.co.kr, ao entrar na sede da Kyocera em Kyoto, um edifício de 20 andares raro na cidade, a primeira coisa que chama a atenção é o “Fine Ceramic Hall”, que mostra a trajetória da Kyocera desde sua fundação até hoje. Criado em 1998, o espaço é apresentado como um local que revela o ponto de partida da empresa. O artigo destaca que, mesmo com a IA mudando a forma de trabalhar, as empresas devem olhar não apenas para a mudança tecnológica, mas para a essência da gestão. A sede da Kyocera e o Fine Ceramic Hall são descritos como um cenário simbólico que conecta a origem e o presente da companhia. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "KI verändert die Arbeit, doch der Kern von Management bleibt gleich",
+        "excerpt": "mk.co.kr berichtete, dass Kyoceras 20-stöckige Zentrale in Kyoto und die 1998 eröffnete Fine Ceramic Hall zeigen, dass der Kern von Management auch im KI-Zeitalter unverändert bleibt.",
+        "body": "Laut mk.co.kr fällt Besuchern beim Betreten der 20-stöckigen Kyocera-Zentrale, eines für Kyoto ungewöhnlichen Hochhauses, zuerst die „Fine Ceramic Hall“ auf. Sie zeigt die Geschichte Kyoceras von der Gründung bis zur Gegenwart. Der 1998 eingerichtete Raum wird als Ort beschrieben, der den Ausgangspunkt von Kyocera sichtbar macht. Der Artikel betont, dass Unternehmen auch dann, wenn KI die Arbeitsweise verändert, nicht nur den technologischen Wandel betrachten sollten, sondern den Kern des Managements. Die Kyocera-Zentrale und die Fine Ceramic Hall werden als symbolischer Hintergrund dargestellt, der Ursprung und Gegenwart des Unternehmens verbindet. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "L’IA transforme le travail, mais l’essence du management reste inchangée",
+        "excerpt": "mk.co.kr rapporte que le siège de Kyocera à Kyoto, haut de 20 étages, et le Fine Ceramic Hall, créé en 1998, rappellent que l’essence du management ne change pas à l’ère de l’IA.",
+        "body": "Selon mk.co.kr, en entrant dans le siège de Kyocera à Kyoto, un immeuble de 20 étages rare dans cette ville, le regard se porte d’abord sur le « Fine Ceramic Hall », qui présente l’histoire de Kyocera depuis sa fondation jusqu’à aujourd’hui. Créé en 1998, cet espace est décrit comme un lieu montrant le point de départ de l’entreprise. L’article souligne que, même si l’IA transforme les modes de travail, les entreprises doivent regarder non seulement le changement technologique, mais aussi l’essence du management. Le siège de Kyocera et le Fine Ceramic Hall sont présentés comme un cadre symbolique reliant les origines et le présent de l’entreprise. Source : mk.co.kr"
+      },
+      "ar": {
+        "title": "الذكاء الاصطناعي يغير العمل لكن جوهر الإدارة لا يتغير",
+        "excerpt": "ذكر mk.co.kr أن مقر كيوسيرا المؤلف من 20 طابقا في كيوتو وقاعة السيراميك الدقيقة التي تأسست عام 1998 يبرزان أن جوهر الإدارة لا يتغير في عصر الذكاء الاصطناعي.",
+        "body": "وفقا لـ mk.co.kr، عند دخول مقر كيوسيرا في كيوتو، وهو مبنى من 20 طابقا يعد نادرا بين المباني العالية في المدينة، يلفت الانتباه أولا “قاعة السيراميك الدقيقة” التي تعرض مسيرة كيوسيرا من التأسيس حتى الحاضر. وقد أُنشئت هذه القاعة في عام 1998، وتُقدَّم بوصفها مكانا يوضح نقطة انطلاق كيوسيرا. ويؤكد المقال أنه حتى مع تغيير الذكاء الاصطناعي لطريقة العمل، فإن ما ينبغي للشركات مراجعته ليس التغير التقني وحده، بل جوهر الإدارة. ويظهر مقر كيوسيرا والقاعة كخلفية رمزية تجمع بين بداية الشركة وحاضرها. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "AI काम का तरीका बदल सकता है, लेकिन प्रबंधन का मूल नहीं बदलता",
+        "excerpt": "mk.co.kr ने बताया कि क्योटो में क्योसेरा का 20 मंजिला मुख्यालय और 1998 में बना फाइन सिरेमिक हॉल AI युग में भी प्रबंधन के मूल के न बदलने का संदेश देते हैं।",
+        "body": "mk.co.kr के अनुसार, क्योटो में दुर्लभ ऊंची इमारत माने जाने वाले क्योसेरा के 20 मंजिला मुख्यालय में प्रवेश करते ही सबसे पहले “फाइन सिरेमिक हॉल” दिखाई देता है, जो क्योसेरा की स्थापना से अब तक की यात्रा दिखाता है। 1998 में स्थापित यह स्थान क्योसेरा की शुरुआत को दिखाने वाली जगह के रूप में प्रस्तुत किया गया है। लेख इस बात पर जोर देता है कि AI भले ही काम करने का तरीका बदल रहा हो, कंपनियों को केवल तकनीकी बदलाव नहीं, बल्कि प्रबंधन के मूल को भी देखना चाहिए। क्योसेरा मुख्यालय और फाइन सिरेमिक हॉल कंपनी की शुरुआत और वर्तमान को जोड़ने वाली प्रतीकात्मक पृष्ठभूमि के रूप में सामने आते हैं। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "AI Mengubah Cara Kerja, tetapi Esensi Manajemen Tetap Sama",
+        "excerpt": "mk.co.kr melaporkan bahwa kantor pusat Kyocera 20 lantai di Kyoto dan Fine Ceramic Hall yang berdiri pada 1998 menunjukkan esensi manajemen tetap tidak berubah di era AI.",
+        "body": "Menurut mk.co.kr, saat memasuki kantor pusat Kyocera 20 lantai, gedung tinggi yang jarang ditemui di Kyoto, hal pertama yang terlihat adalah “Fine Ceramic Hall” yang menampilkan perjalanan Kyocera dari pendirian hingga masa kini. Ruang yang didirikan pada 1998 ini diperkenalkan sebagai tempat yang menunjukkan titik awal Kyocera. Artikel tersebut menekankan bahwa meskipun AI mengubah cara orang bekerja, perusahaan perlu melihat bukan hanya perubahan teknologi, tetapi juga esensi manajemen. Kantor pusat Kyocera dan Fine Ceramic Hall disajikan sebagai latar simbolis yang memperlihatkan asal mula dan kondisi perusahaan saat ini. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "7ca0592c1e09",
+    "slug": "단기-급등에-파업-불안까지1차-지지선은-7000-396269",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T12:55:09.001Z",
+    "updatedAt": "2026-05-15T12:55:09.001Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049351",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049351",
+    "titleFingerprint": "7bc3e5cd29a4a34fcc6824db7ce79f7506355003",
+    "dedupKeys": [
+      "7ca0592c1e0981b6c9ad3c9f584a5305d81fc781",
+      "7bc3e5cd29a4a34fcc6824db7ce79f7506355003",
+      "9608f298e8f69e51e0eb1c8aee5563d49977291d"
+    ],
+    "imageUrl": "/images/articles/7ca0592c1e09.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8000 돌파 후 7500선 하회, 단기 급등·파업 불안에 7000 지지선 주목",
+        "excerpt": "15일 국내 증시는 코스피가 장중 사상 첫 8000선을 돌파한 뒤 매도세로 7500선 아래로 밀리며 단기 급등 부담과 파업 불안 속 7000선을 1차 지지선으로 주목했다.",
+        "body": "15일 국내 증시는 극심한 변동성을 드러냈다. 코스피는 장중 사상 처음으로 8000선을 돌파하며 새 기록을 쓰는 듯했지만, 이후 급격한 매도세가 쏟아지면서 7500선 아래로 수직 낙하했다. 단기 급등에 따른 부담이 커진 가운데 파업 불안까지 겹치며 투자심리가 흔들린 것으로 전해졌다. 시장에서는 급락 이후 1차 지지선으로 7000선이 거론된다. 지수가 8000선 돌파라는 상징적 기록을 남겼지만, 빠른 되돌림이 나타난 만큼 향후 변동성 관리와 매도 압력 완화 여부가 관건이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Kospi Falls Below 7,500 After Topping 8,000 as 7,000 Support Draws Focus",
+        "excerpt": "On the 15th, South Korea’s Kospi briefly topped 8,000 for the first time, then slid below 7,500 as selling pressure, short-term surge concerns and strike anxiety put 7,000 in focus.",
+        "body": "South Korea’s stock market showed extreme volatility on the 15th. The Kospi appeared to make history by breaking above the 8,000 level intraday for the first time, but heavy selling then hit the market and pushed the index sharply below 7,500. According to the original report, the burden from a short-term surge combined with strike-related anxiety weighed on investor sentiment. Market attention is now turning to 7,000 as the first support level after the steep drop. Although the index left a symbolic milestone by crossing 8,000, the rapid reversal means the key issue ahead is whether volatility can be managed and selling pressure can ease. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "KOSPI、8000突破後に7500割れ　短期急騰とスト不安で7000支持線に注目",
+        "excerpt": "15日の韓国株式市場では、KOSPIが取引時間中に史上初の8000を突破した後、売りに押され7500を下回り、7000が一次支持線として意識された。",
+        "body": "15日の韓国株式市場は激しい変動性を示した。KOSPIは取引時間中に史上初めて8000を突破し、新たな歴史を刻むかに見えたが、その後急速な売りが広がり、7500を下回る水準まで急落した。原文によると、短期急騰による負担が強まる中、ストライキへの不安も重なり、投資心理が揺れた。市場では急落後の一次支持線として7000が挙げられている。8000突破という象徴的な記録は残したものの、急な反落が出たため、今後は変動性の管理と売り圧力の緩和が焦点となる。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国Kospi冲破8000后跌破7500，短线急涨与罢工忧虑令7000支撑受关注",
+        "excerpt": "15日，韩国股市剧烈波动，Kospi盘中首次突破8000点后遭遇抛压跌破7500点，短线急涨负担和罢工忧虑使7000点成为首道支撑焦点。",
+        "body": "15日，韩国股市暴露出剧烈波动。Kospi盘中史上首次突破8000点，似乎将写下新的市场纪录，但随后急速卖盘涌出，指数垂直跌至7500点下方。原文称，在短期快速上涨带来压力的同时，罢工不安也叠加影响，投资情绪受到动摇。市场目前将7000点视为急跌后的第一道支撑线。虽然指数留下了突破8000点这一象征性纪录，但快速回落已经出现，后续关键在于能否控制波动并缓解卖压。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Kospi cae bajo 7.500 tras superar 8.000; el soporte de 7.000 gana atención",
+        "excerpt": "El día 15, el Kospi surcoreano superó por primera vez los 8.000 puntos intradía, pero luego cayó bajo 7.500 por ventas, el alza reciente y la inquietud por huelgas.",
+        "body": "El mercado bursátil surcoreano mostró una volatilidad extrema el día 15. El Kospi pareció escribir un nuevo capítulo al superar por primera vez los 8.000 puntos durante la sesión, pero después una fuerte ola de ventas lo empujó bruscamente por debajo de los 7.500. Según el reporte original, la carga del avance de corto plazo se combinó con la inquietud por huelgas y afectó el ánimo inversor. Tras la caída, el mercado observa los 7.000 puntos como primer nivel de soporte. Aunque el índice dejó el hito simbólico de haber superado los 8.000, el rápido retroceso hace que la gestión de la volatilidad y el alivio de la presión vendedora sean los puntos clave. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Kospi cai abaixo de 7.500 após superar 8.000; suporte de 7.000 entra no radar",
+        "excerpt": "No dia 15, o Kospi da Coreia do Sul passou de 8.000 pontos pela primeira vez no intradia, mas recuou abaixo de 7.500 com vendas, alta recente e temor de greve.",
+        "body": "O mercado acionário sul-coreano exibiu forte volatilidade no dia 15. O Kospi parecia registrar um novo marco ao superar pela primeira vez os 8.000 pontos durante o pregão, mas depois uma onda intensa de vendas levou o índice rapidamente para abaixo de 7.500. Segundo o relato original, o peso da alta de curto prazo se somou à preocupação com greves e abalou o sentimento dos investidores. Após a queda, o mercado passou a observar os 7.000 pontos como primeiro nível de suporte. Embora o índice tenha deixado o marco simbólico dos 8.000, a reversão rápida torna centrais a gestão da volatilidade e o alívio da pressão vendedora. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Kospi fällt nach Sprung über 8.000 unter 7.500, Marke von 7.000 rückt in den Fokus",
+        "excerpt": "Am 15. zeigte Südkoreas Aktienmarkt starke Schwankungen: Der Kospi überschritt erstmals intraday 8.000, fiel dann aber wegen Verkaufsdrucks, Rally-Belastung und Streiksorgen unter 7.500.",
+        "body": "Der südkoreanische Aktienmarkt zeigte am 15. extreme Volatilität. Der Kospi schien Geschichte zu schreiben, als er im Tagesverlauf erstmals die Marke von 8.000 überschritt. Danach setzte jedoch starker Verkaufsdruck ein, der den Index abrupt unter 7.500 drückte. Dem Originalbericht zufolge belasteten die Sorgen über den kurzfristigen starken Anstieg zusammen mit Streikunsicherheit die Anlegerstimmung. Nach dem Einbruch gilt am Markt die Marke von 7.000 als erste Unterstützung. Zwar bleibt der Sprung über 8.000 ein symbolischer Rekord, doch die schnelle Gegenbewegung macht nun entscheidend, ob die Volatilität kontrolliert und der Verkaufsdruck gemildert werden kann. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le Kospi passe sous 7 500 après un pic à 8 000, le support de 7 000 surveillé",
+        "excerpt": "Le 15, la Bourse sud-coréenne a fortement fluctué: le Kospi a franchi 8 000 en séance pour la première fois avant de tomber sous 7 500 sous l’effet des ventes et des craintes de grève.",
+        "body": "Le marché actions sud-coréen a affiché une volatilité extrême le 15. Le Kospi semblait écrire une nouvelle page d’histoire en franchissant pour la première fois le seuil de 8 000 points en séance, mais une vague rapide de ventes l’a ensuite fait chuter sous 7 500. Selon le rapport d’origine, le poids de la forte hausse de court terme s’est ajouté aux inquiétudes liées aux grèves, ébranlant le sentiment des investisseurs. Après ce recul brutal, le marché cite 7 000 points comme premier niveau de support. Même si l’indice a inscrit le jalon symbolique des 8 000, le retournement rapide place désormais la maîtrise de la volatilité et l’allègement de la pression vendeuse au centre de l’attention. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوسبي يهبط دون 7500 بعد اختراق 8000 وتركيز السوق يتجه إلى دعم 7000",
+        "excerpt": "في 15 من الشهر، شهدت الأسهم الكورية تقلبات حادة بعدما اخترق كوسبي مستوى 8000 لأول مرة خلال الجلسة، ثم هبط دون 7500 بفعل البيع ومخاوف الإضراب.",
+        "body": "شهد سوق الأسهم الكوري الجنوبي في 15 من الشهر تقلبات شديدة. فقد بدا أن مؤشر كوسبي يكتب تاريخا جديدا بعدما تجاوز مستوى 8000 نقطة لأول مرة خلال التعاملات، لكن موجة بيع حادة ظهرت لاحقا ودفعته بسرعة إلى ما دون 7500 نقطة. ووفقا للتقرير الأصلي، تزامن عبء الارتفاع السريع في الأجل القصير مع مخاوف مرتبطة بالإضرابات، ما أثر في معنويات المستثمرين. وبعد الهبوط، يتركز اهتمام السوق على مستوى 7000 نقطة بوصفه أول خط دعم. ورغم أن تجاوز 8000 نقطة يبقى علامة رمزية، فإن الانعكاس السريع يجعل إدارة التقلبات وتخفيف ضغط البيع محور المتابعة المقبلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "8000 पार करने के बाद Kospi 7500 से नीचे, 7000 समर्थन स्तर पर बाजार की नजर",
+        "excerpt": "15 तारीख को दक्षिण कोरियाई बाजार में भारी उतार-चढ़ाव रहा। Kospi पहली बार इंट्राडे 8000 के ऊपर गया, लेकिन बिकवाली, तेज बढ़त के दबाव और हड़ताल चिंता से 7500 से नीचे आ गया।",
+        "body": "15 तारीख को दक्षिण कोरिया के शेयर बाजार ने अत्यधिक अस्थिरता दिखाई। Kospi इंट्राडे कारोबार में पहली बार 8000 के स्तर को पार कर नया इतिहास लिखता दिखा, लेकिन इसके बाद तेज बिकवाली आई और सूचकांक तेजी से 7500 के नीचे फिसल गया। मूल रिपोर्ट के अनुसार, अल्पकालिक तेज उछाल का दबाव बढ़ने के बीच हड़ताल से जुड़ी चिंता भी जुड़ गई, जिससे निवेशक भावना डगमगाई। गिरावट के बाद बाजार 7000 को पहले समर्थन स्तर के रूप में देख रहा है। 8000 का पार होना प्रतीकात्मक रिकॉर्ड रहा, लेकिन तेज पलटाव के कारण आगे अस्थिरता पर नियंत्रण और बिकवाली दबाव कम होना अहम रहेगा। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Kospi Turun di Bawah 7.500 Setelah Tembus 8.000, Support 7.000 Jadi Fokus",
+        "excerpt": "Pada tanggal 15, pasar saham Korea Selatan bergejolak tajam saat Kospi sempat menembus 8.000 untuk pertama kalinya, lalu jatuh di bawah 7.500 karena aksi jual dan kecemasan mogok.",
+        "body": "Pasar saham Korea Selatan menunjukkan volatilitas ekstrem pada tanggal 15. Kospi sempat tampak mencetak sejarah baru dengan menembus level 8.000 untuk pertama kalinya dalam perdagangan intrahari, tetapi tekanan jual tajam kemudian muncul dan menyeret indeks turun cepat ke bawah 7.500. Menurut laporan asli, beban dari kenaikan jangka pendek berpadu dengan kecemasan terkait mogok kerja sehingga mengguncang sentimen investor. Setelah penurunan tersebut, pasar menyoroti level 7.000 sebagai support pertama. Meski indeks meninggalkan catatan simbolis di atas 8.000, pembalikan cepat membuat pengelolaan volatilitas dan meredanya tekanan jual menjadi perhatian utama. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
     "id": "1295ea07bd4f",
     "slug": "코스피-200-기업-투자10만원도-가능해요-경제교육-현장르포-754697",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "DeepX dan Agensi G-Dragon Akan Paparkan Rencana IPO di KIW 2026",
         "excerpt": "Pada 15 Mei, hari terakhir KIW 2026, DeepX, Galaxy Corporation, Habit Factory, dan perusahaan inovatif nonpublik lain akan memaparkan strategi IPO dan peta jalan pertumbuhan kepada investor.",
         "body": "Pada 15 Mei, hari terakhir Korea Investment Week (KIW) 2026, sejumlah perusahaan inovatif nonpublik utama Korea Selatan akan memaparkan cetak biru penawaran saham perdana (IPO) kepada investor. Pesertanya mencakup startup semikonduktor AI DeepX, Galaxy Corporation yang dikenal sebagai agensi G-Dragon, serta Habit Factory, Elice Group, LBox, Samhong Arcturion, dan A Robot. DeepX mengandalkan semikonduktor AI on-device dan teknologi NPU berdaya sangat rendah, sementara pasar memperkirakan valuasinya dapat melampaui 1 triliun won jika melantai di bursa. Galaxy Corporation akan mengungkap rencana pencatatan di Amerika Serikat dan strategi menarik investasi luar negeri. Menurut hankyung.com, perusahaan-perusahaan ini akan menyampaikan strategi pertumbuhan dan peta jalan pencatatan, sehingga meningkatkan perhatian pada IPO di sektor AI, hiburan, fintech, dan legaltech."
-      }
-    }
-  },
-  {
-    "id": "476aeec4dec7",
-    "slug": "화재증권-동반-성장메리츠금융-1분기-순익-9-증가한-6802억-588390",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T20:07:31.588Z",
-    "updatedAt": "2026-05-14T20:07:31.588Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/2026051470336",
-    "canonicalUrl": "https://www.hankyung.com/article/2026051470336",
-    "titleFingerprint": "b37051ba97fc4d8737f8d8d3b1ed91a5baa1fba7",
-    "dedupKeys": [
-      "476aeec4dec78d578061e5b29ff9f5e83409eb21",
-      "b37051ba97fc4d8737f8d8d3b1ed91a5baa1fba7",
-      "6993f772cb3b2d2da896444f0e00bd2a766de496"
-    ],
-    "imageUrl": "/images/articles/476aeec4dec7.jpg",
-    "i18n": {
-      "ko": {
-        "title": "메리츠금융 1분기 순익 6802억, 화재·증권 동반 성장에 9% 증가",
-        "excerpt": "메리츠금융은 1분기 화재와 증권 부문이 함께 성장하며 순이익이 전년 대비 9% 늘어난 6802억원을 기록했다고 밝혔다.",
-        "body": "메리츠금융은 1분기 순이익이 6802억원으로 전년 대비 9% 증가했다고 밝혔다. 이번 실적은 화재와 증권 부문이 동반 성장한 영향으로 요약된다. 핵심 금융 계열의 이익 기여가 함께 확대되면서 분기 순익 증가세를 이끌었다. 관련 수치로는 1분기 순이익 6802억원, 증가율 9%가 제시됐다. 시장에서는 화재와 증권의 동반 개선이 메리츠금융의 실적 안정성에 어떤 영향을 줄지 주목할 것으로 보인다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "Meritz Financial Q1 Net Profit Rises 9% to KRW 680.2 Billion on Insurance, Securities Growth",
-        "excerpt": "Meritz Financial said first-quarter net profit rose 9% year on year to KRW 680.2 billion as its fire insurance and securities businesses grew together.",
-        "body": "Meritz Financial reported first-quarter net profit of KRW 680.2 billion, up 9% from a year earlier. The result was attributed to simultaneous growth in its fire insurance and securities operations. Contributions from the group’s key financial businesses increased together, supporting the quarterly profit gain. The main figures disclosed were KRW 680.2 billion in first-quarter net profit and a 9% increase. Market attention is expected to focus on how the combined improvement in insurance and securities affects Meritz Financial’s earnings stability. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "メリッツ金融、1～3月期純利益6802億ウォン　火災・証券の成長で9%増",
-        "excerpt": "メリッツ金融は、火災保険と証券部門がともに伸び、1～3月期純利益が前年同期比9%増の6802億ウォンになったと明らかにした。",
-        "body": "メリッツ金融は、1～3月期の純利益が6802億ウォンとなり、前年同期比で9%増加したと発表した。今回の業績は、火災保険部門と証券部門が同時に成長した影響と整理される。主要金融事業の利益貢献がそろって拡大し、四半期純利益の増加を支えた。公表された主な数値は、1～3月期純利益6802億ウォン、増加率9%だ。市場では、火災保険と証券の同時改善がメリッツ金融の収益安定性にどう影響するかが注目される。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "Meritz金融一季度净利6802亿韩元，火灾保险与证券增长推动增9%",
-        "excerpt": "Meritz金融表示，一季度火灾保险和证券业务共同增长，净利润同比增加9%，达到6802亿韩元。",
-        "body": "Meritz金融表示，一季度净利润为6802亿韩元，同比增加9%。这一业绩主要来自火灾保险和证券业务的共同增长。核心金融业务的利润贡献同步扩大，带动季度净利润上升。相关数据包括一季度净利润6802亿韩元，以及9%的增长率。市场将关注火灾保险和证券业务的同步改善，将如何影响Meritz金融的业绩稳定性。来源: hankyung.com"
-      },
-      "es": {
-        "title": "Meritz Financial gana 680.200 millones de wones en el primer trimestre, un 9% más",
-        "excerpt": "Meritz Financial informó que su beneficio neto del primer trimestre subió un 9% interanual hasta 680.200 millones de wones, impulsado por seguros contra incendios y valores.",
-        "body": "Meritz Financial informó que su beneficio neto del primer trimestre fue de 680.200 millones de wones, un 9% más que un año antes. El resultado se explica por el crecimiento conjunto de sus negocios de seguros contra incendios y valores. La contribución de ganancias de sus principales áreas financieras aumentó al mismo tiempo y sostuvo el avance trimestral. Las cifras clave divulgadas fueron 680.200 millones de wones de beneficio neto y una tasa de crecimiento del 9%. El mercado observará cómo esta mejora conjunta influye en la estabilidad de resultados de Meritz Financial. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "Meritz Financial lucra 680,2 bilhões de won no 1º trimestre, alta de 9%",
-        "excerpt": "A Meritz Financial informou que o lucro líquido do primeiro trimestre subiu 9% ante o ano anterior, para 680,2 bilhões de won, com crescimento em seguros e valores mobiliários.",
-        "body": "A Meritz Financial informou que seu lucro líquido no primeiro trimestre foi de 680,2 bilhões de won, alta de 9% em relação ao ano anterior. O desempenho foi atribuído ao crescimento conjunto dos negócios de seguro contra incêndio e valores mobiliários. A contribuição de lucro das principais áreas financeiras aumentou ao mesmo tempo, sustentando o avanço trimestral. Os números destacados foram lucro líquido de 680,2 bilhões de won e crescimento de 9%. O mercado deve observar como essa melhora conjunta afeta a estabilidade dos resultados da Meritz Financial. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "Meritz Financial steigert Q1-Nettogewinn um 9% auf 680,2 Mrd. Won",
-        "excerpt": "Meritz Financial meldete für das erste Quartal einen um 9% gestiegenen Nettogewinn von 680,2 Mrd. Won, getragen von Wachstum bei Feuerversicherung und Wertpapieren.",
-        "body": "Meritz Financial teilte mit, dass der Nettogewinn im ersten Quartal 680,2 Mrd. Won erreichte und damit um 9% gegenüber dem Vorjahr stieg. Das Ergebnis wird auf das gemeinsame Wachstum der Bereiche Feuerversicherung und Wertpapiere zurückgeführt. Die Gewinnbeiträge der zentralen Finanzsparten legten gleichzeitig zu und stützten den Quartalsanstieg. Genannt wurden ein Nettogewinn von 680,2 Mrd. Won und eine Wachstumsrate von 9%. Der Markt dürfte beobachten, wie sich diese gemeinsame Verbesserung auf die Ergebnisstabilität von Meritz Financial auswirkt. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "Meritz Financial porte son bénéfice net trimestriel à 680,2 Mds de wons, +9%",
-        "excerpt": "Meritz Financial a annoncé un bénéfice net de 680,2 milliards de wons au premier trimestre, en hausse de 9%, grâce à la progression conjointe de l’assurance incendie et des titres.",
-        "body": "Meritz Financial a indiqué que son bénéfice net du premier trimestre s’est établi à 680,2 milliards de wons, en hausse de 9% sur un an. Cette performance s’explique par la croissance simultanée des activités d’assurance incendie et de titres. La contribution bénéficiaire des principales activités financières du groupe a progressé de concert, soutenant la hausse trimestrielle. Les chiffres communiqués sont un bénéfice net de 680,2 milliards de wons et une progression de 9%. Le marché suivra l’effet de cette amélioration conjointe sur la stabilité des résultats de Meritz Financial. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "ميريتز فايننشال ترفع صافي ربح الربع الأول 9% إلى 680.2 مليار وون",
-        "excerpt": "أعلنت ميريتز فايننشال أن صافي ربح الربع الأول زاد 9% على أساس سنوي إلى 680.2 مليار وون، بدعم نمو نشاطي التأمين ضد الحرائق والأوراق المالية.",
-        "body": "أعلنت ميريتز فايننشال أن صافي ربحها في الربع الأول بلغ 680.2 مليار وون، بزيادة 9% مقارنة بالعام السابق. وتلخصت النتيجة في نمو متزامن في نشاطي التأمين ضد الحرائق والأوراق المالية. فقد اتسعت مساهمة الأرباح من الأنشطة المالية الرئيسية معا، ما دعم زيادة الربح الفصلي. وتشمل الأرقام المعلنة صافي ربح قدره 680.2 مليار وون ونسبة نمو 9%. ومن المتوقع أن يراقب السوق أثر هذا التحسن المشترك في استقرار أرباح ميريتز فايننشال. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "Meritz Financial का Q1 शुद्ध लाभ 9% बढ़कर 680.2 अरब वॉन हुआ",
-        "excerpt": "Meritz Financial ने कहा कि अग्नि बीमा और प्रतिभूति कारोबार में साथ-साथ वृद्धि से पहली तिमाही का शुद्ध लाभ 9% बढ़कर 680.2 अरब वॉन रहा।",
-        "body": "Meritz Financial ने बताया कि पहली तिमाही में उसका शुद्ध लाभ 680.2 अरब वॉन रहा, जो पिछले वर्ष की तुलना में 9% अधिक है। यह प्रदर्शन अग्नि बीमा और प्रतिभूति कारोबार में एक साथ हुई वृद्धि से जुड़ा है। प्रमुख वित्तीय कारोबारों से लाभ योगदान साथ-साथ बढ़ा और तिमाही मुनाफे की वृद्धि को सहारा मिला। घोषित मुख्य आंकड़े पहली तिमाही का 680.2 अरब वॉन शुद्ध लाभ और 9% वृद्धि दर हैं। बाजार यह देखेगा कि बीमा और प्रतिभूति में यह संयुक्त सुधार Meritz Financial की आय स्थिरता को कैसे प्रभावित करता है। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "Laba Bersih Meritz Financial Kuartal I Naik 9% Jadi 680,2 Miliar Won",
-        "excerpt": "Meritz Financial menyatakan laba bersih kuartal pertama naik 9% secara tahunan menjadi 680,2 miliar won, didorong pertumbuhan bersama bisnis asuransi kebakaran dan sekuritas.",
-        "body": "Meritz Financial melaporkan laba bersih kuartal pertama sebesar 680,2 miliar won, naik 9% dibandingkan tahun sebelumnya. Kinerja ini dirangkum sebagai dampak pertumbuhan bersama pada bisnis asuransi kebakaran dan sekuritas. Kontribusi laba dari bisnis keuangan utama meningkat bersamaan dan mendorong kenaikan laba kuartalan. Angka yang disampaikan mencakup laba bersih kuartal pertama 680,2 miliar won dan tingkat kenaikan 9%. Pasar akan mencermati bagaimana perbaikan bersama ini memengaruhi stabilitas kinerja Meritz Financial. Sumber: hankyung.com"
-      }
-    }
-  },
-  {
-    "id": "7d9c1d6a649e",
-    "slug": "에이전트-ai가-전-산업-바꿀-것ai-버블론-반박한-블룸버그-수석-애널-kiw-2026-860105",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T20:06:34.703Z",
-    "updatedAt": "2026-05-14T20:06:34.703Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146339i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146339i",
-    "titleFingerprint": "4f428bfeface93d9acbe21d0c75e8eae71fb85b6",
-    "dedupKeys": [
-      "7d9c1d6a649ef0c2adfdb45746b0d8b6793052e5",
-      "4f428bfeface93d9acbe21d0c75e8eae71fb85b6",
-      "d6809d22fd5adaea8e8924b7b4ed077cdf3c8da0"
-    ],
-    "imageUrl": "/images/articles/7d9c1d6a649e.jpg",
-    "i18n": {
-      "ko": {
-        "title": "에이전트 AI 산업 전환론, 블룸버그 수석 애널이 AI 버블론 반박",
-        "excerpt": "맨딥 싱 블룸버그 인텔리전스 수석 기술 애널리스트는 5월 14일 KIW 2026에서 에이전트 AI가 코딩·금융·소비·헬스케어 등 전 산업을 바꿀 것이라며 AI 버블론을 반박했다.",
-        "body": "맨딥 싱 블룸버그 인텔리전스 수석 기술 애널리스트는 5월 14일 열린 코리아 인베스트먼트 위크(KIW) 2026에서 AI 투자 버블론을 정면으로 반박했다. 그는 AI가 단발성 프롬프트에 답하는 도구를 넘어, 스스로 검색하고 문서를 읽고 추론해 실행하는 에이전트형 시스템으로 이동하고 있다고 설명했다. 블룸버그 인텔리전스는 전 세계 2000여 개 기업과 135개 산업을 분석하는 리서치 기관이다. 싱 애널리스트는 에이전트 AI가 코딩을 시작으로 금융, 고객서비스, 전자상거래, 개인비서, 소비, 헬스케어 영역까지 확산될 것으로 봤다. 또 에이전트 AI는 데이터베이스 조회와 문서 분석, 추론을 반복해 최대 100만 토큰을 쓸 수 있어 데이터센터 투자를 키운다고 설명했다. hankyung.com은 올해 연간 데이터센터 투자 규모가 약 7500억달러에 이르며 2년 안에 1조달러 시대에 진입할 수 있다는 그의 발언을 전했다."
-      },
-      "en": {
-        "title": "Agent AI will reshape industries, Bloomberg analyst rejects AI bubble fears",
-        "excerpt": "Bloomberg Intelligence senior technology analyst Mandeep Singh said at KIW 2026 on May 14 that agent AI will transform coding, finance, consumer services and healthcare, rejecting claims of an AI investment bubble.",
-        "body": "Mandeep Singh, senior technology analyst at Bloomberg Intelligence, directly rejected the AI investment bubble argument at Korea Investment Week (KIW) 2026 on May 14. He said AI is moving beyond tools that answer a single prompt and toward agentic systems that search, read documents, reason and execute tasks on their own. Bloomberg Intelligence is a research organization that analyzes more than 2,000 companies and 135 industries worldwide. Singh said agent AI will spread from coding into finance, customer service, e-commerce, personal assistants, consumer fields and healthcare. He also said agent AI can repeatedly query databases, analyze documents and reason, using up to 1 million tokens, which is increasing demand for data-center investment. According to hankyung.com, Singh said annual data-center investment is reaching about $750 billion this year and could enter the $1 trillion era within two years."
-      },
-      "ja": {
-        "title": "エージェントAIが産業を変革、ブルームバーグ主席アナリストがバブル論に反論",
-        "excerpt": "ブルームバーグ・インテリジェンスのマンディープ・シン主席テクノロジーアナリストは5月14日のKIW 2026で、エージェントAIがコーディング、金融、消費、ヘルスケアを変えるとしてAIバブル論に反論した。",
-        "body": "ブルームバーグ・インテリジェンスのマンディープ・シン主席テクノロジーアナリストは、5月14日に開かれたコリア・インベストメント・ウィーク（KIW）2026で、AI投資バブル論に正面から反論した。シン氏は、AIが一度のプロンプトに答える道具を超え、自ら検索し、文書を読み、推論して実行するエージェント型システムへ移行していると説明した。ブルームバーグ・インテリジェンスは世界の2000社超と135産業を分析する調査機関だ。シン氏は、エージェントAIがコーディングを起点に金融、顧客サービス、電子商取引、個人アシスタント、消費、ヘルスケアへ広がると見ている。さらに、データベース照会、文書分析、推論を繰り返し、最大100万トークンを使うため、データセンター投資を押し上げると述べた。hankyung.comは、今年の年間データセンター投資が約7500億ドルに達し、2年以内に1兆ドル時代に入る可能性があるとの発言を伝えた。"
-      },
-      "zh": {
-        "title": "代理型AI将重塑产业，彭博资深分析师反驳AI泡沫论",
-        "excerpt": "彭博行业研究资深技术分析师Mandeep Singh在5月14日KIW 2026上表示，代理型AI将改变编程、金融、消费和医疗等领域，并反驳AI投资泡沫论。",
-        "body": "彭博行业研究资深技术分析师Mandeep Singh于5月14日在韩国投资周（KIW）2026上，正面反驳了AI投资泡沫论。他表示，AI正从一次性回答提示的工具，转向能够自主搜索、阅读文件、推理并执行任务的代理型系统。彭博行业研究是一家基于数据分析全球2000多家公司和135个行业的研究机构。Singh认为，代理型AI将从编程开始，扩展到金融、客户服务、电子商务、个人助理、消费和医疗健康等领域。他还指出，代理型AI会反复进行数据库查询、文档分析和推理，最多可使用100万token，因此会扩大数据中心投资需求。hankyung.com报道称，Singh表示今年年度数据中心投资规模约达7500亿美元，并可能在两年内进入1万亿美元时代。"
-      },
-      "es": {
-        "title": "La IA agente transformará industrias, analista de Bloomberg rechaza burbuja",
-        "excerpt": "Mandeep Singh, analista sénior de tecnología de Bloomberg Intelligence, dijo el 14 de mayo en KIW 2026 que la IA agente cambiará programación, finanzas, consumo y salud, rechazando la tesis de una burbuja de inversión en IA.",
-        "body": "Mandeep Singh, analista sénior de tecnología de Bloomberg Intelligence, rechazó de forma directa la tesis de una burbuja de inversión en IA durante Korea Investment Week (KIW) 2026, celebrada el 14 de mayo. Explicó que la IA está dejando de ser una herramienta que responde a una sola instrucción para convertirse en un sistema agente capaz de buscar, leer documentos, razonar y ejecutar tareas por sí mismo. Bloomberg Intelligence analiza con datos más de 2.000 empresas y 135 industrias en todo el mundo. Singh prevé que la IA agente se expanda desde la programación hacia finanzas, atención al cliente, comercio electrónico, asistentes personales, consumo y salud. También señaló que estos sistemas pueden consultar bases de datos, analizar documentos y razonar de forma repetida, usando hasta 1 millón de tokens, lo que impulsa la inversión en centros de datos. Según hankyung.com, Singh dijo que la inversión anual en centros de datos ronda los 750.000 millones de dólares este año y podría llegar a la era de 1 billón de dólares en dos años."
-      },
-      "pt": {
-        "title": "IA agente transformará setores, analista da Bloomberg rebate tese de bolha",
-        "excerpt": "Mandeep Singh, analista sênior de tecnologia da Bloomberg Intelligence, disse em 14 de maio no KIW 2026 que a IA agente mudará programação, finanças, consumo e saúde, rebatendo a tese de bolha em IA.",
-        "body": "Mandeep Singh, analista sênior de tecnologia da Bloomberg Intelligence, rebateu diretamente a tese de bolha de investimento em IA durante a Korea Investment Week (KIW) 2026, em 14 de maio. Ele afirmou que a IA está deixando de ser uma ferramenta que responde a um único prompt e avançando para sistemas agentes capazes de pesquisar, ler documentos, raciocinar e executar tarefas por conta própria. A Bloomberg Intelligence é uma casa de pesquisa que analisa, com base em dados, mais de 2.000 empresas e 135 setores no mundo. Singh disse que a IA agente deve se espalhar da programação para finanças, atendimento ao cliente, comércio eletrônico, assistentes pessoais, consumo e saúde. Também explicou que esses sistemas podem consultar bancos de dados, analisar documentos e raciocinar repetidamente, usando até 1 milhão de tokens, o que amplia o investimento em data centers. Segundo hankyung.com, Singh afirmou que o investimento anual em data centers chega a cerca de US$ 750 bilhões neste ano e pode entrar na era de US$ 1 trilhão em dois anos."
-      },
-      "de": {
-        "title": "Agentische KI verändert Branchen, Bloomberg-Analyst weist KI-Blasenwarnung zurück",
-        "excerpt": "Mandeep Singh, leitender Technologieanalyst von Bloomberg Intelligence, sagte am 14. Mai auf der KIW 2026, agentische KI werde Coding, Finanzen, Konsum und Gesundheitswesen verändern und widersprach der These einer KI-Investitionsblase.",
-        "body": "Mandeep Singh, leitender Technologieanalyst von Bloomberg Intelligence, hat auf der Korea Investment Week (KIW) 2026 am 14. Mai die These einer KI-Investitionsblase klar zurückgewiesen. Er sagte, KI entwickle sich von einem Werkzeug, das auf einzelne Prompts antwortet, zu agentischen Systemen, die selbst suchen, Dokumente lesen, schlussfolgern und Aufgaben ausführen. Bloomberg Intelligence analysiert datenbasiert mehr als 2.000 Unternehmen und 135 Branchen weltweit. Singh erwartet, dass sich agentische KI vom Coding aus auf Finanzen, Kundendienst, E-Commerce, persönliche Assistenten, Konsum und Gesundheitswesen ausbreitet. Zudem könnten solche Systeme Datenbanken abfragen, Dokumente analysieren und wiederholt Schlussfolgerungen ziehen, wobei sie bis zu 1 Million Tokens nutzen. Das treibe Investitionen in Rechenzentren an. Laut hankyung.com sagte Singh, die jährlichen Investitionen in Rechenzentren erreichten in diesem Jahr etwa 750 Milliarden Dollar und könnten binnen zwei Jahren die Marke von 1 Billion Dollar erreichen."
-      },
-      "fr": {
-        "title": "L’IA agentique transformera les secteurs, un analyste Bloomberg rejette la bulle",
-        "excerpt": "Mandeep Singh, analyste technologique senior chez Bloomberg Intelligence, a déclaré le 14 mai lors du KIW 2026 que l’IA agentique transformera le codage, la finance, la consommation et la santé, rejetant la thèse d’une bulle de l’IA.",
-        "body": "Mandeep Singh, analyste technologique senior chez Bloomberg Intelligence, a rejeté directement la thèse d’une bulle d’investissement dans l’IA lors de la Korea Investment Week (KIW) 2026, le 14 mai. Selon lui, l’IA dépasse l’outil répondant à une seule requête pour devenir un système agentique capable de chercher, lire des documents, raisonner et exécuter des tâches de façon autonome. Bloomberg Intelligence analyse plus de 2.000 entreprises et 135 secteurs dans le monde à partir de données. Singh estime que l’IA agentique se diffusera du codage vers la finance, le service client, le commerce électronique, les assistants personnels, la consommation et la santé. Il a aussi expliqué que ces systèmes peuvent interroger des bases de données, analyser des documents et raisonner de manière répétée, jusqu’à 1 million de tokens, ce qui accroît les investissements dans les centres de données. Selon hankyung.com, Singh a indiqué que l’investissement annuel dans les centres de données atteint environ 750 milliards de dollars cette année et pourrait entrer dans l’ère des 1.000 milliards de dollars d’ici deux ans."
-      },
-      "ar": {
-        "title": "الذكاء الاصطناعي الوكيل سيغير الصناعات ومحلل بلومبرغ يرفض فقاعة الذكاء الاصطناعي",
-        "excerpt": "قال مانديب سينغ، كبير محللي التكنولوجيا في بلومبرغ إنتليجنس، في 14 مايو خلال KIW 2026 إن الذكاء الاصطناعي الوكيل سيغير البرمجة والتمويل والاستهلاك والرعاية الصحية، رافضا نظرية فقاعة الاستثمار في الذكاء الاصطناعي.",
-        "body": "رفض مانديب سينغ، كبير محللي التكنولوجيا في بلومبرغ إنتليجنس، بشكل مباشر نظرية فقاعة الاستثمار في الذكاء الاصطناعي خلال أسبوع كوريا للاستثمار KIW 2026 في 14 مايو. وقال إن الذكاء الاصطناعي ينتقل من أداة تجيب عن مطالبة واحدة إلى أنظمة وكيلة تبحث ذاتيا، وتقرأ الوثائق، وتستنتج، ثم تنفذ المهام. وتعد بلومبرغ إنتليجنس مؤسسة أبحاث تحلل بالبيانات أكثر من 2000 شركة و135 صناعة حول العالم. ويرى سينغ أن الذكاء الاصطناعي الوكيل سينتشر من البرمجة إلى التمويل وخدمة العملاء والتجارة الإلكترونية والمساعدين الشخصيين والاستهلاك والرعاية الصحية. كما أوضح أن هذه الأنظمة قد تكرر الاستعلام من قواعد البيانات وتحليل الوثائق والاستدلال، وقد تستخدم ما يصل إلى مليون رمز، ما يزيد الحاجة إلى الاستثمار في مراكز البيانات. وذكر hankyung.com أن سينغ قال إن الاستثمار السنوي في مراكز البيانات يبلغ هذا العام نحو 750 مليار دولار وقد يدخل عصر تريليون دولار خلال عامين."
-      },
-      "hi": {
-        "title": "एजेंट AI उद्योगों को बदलेगा, ब्लूमबर्ग विश्लेषक ने AI बुलबुले की बात खारिज की",
-        "excerpt": "ब्लूमबर्ग इंटेलिजेंस के वरिष्ठ टेक्नोलॉजी विश्लेषक मंदीप सिंह ने 14 मई को KIW 2026 में कहा कि एजेंट AI कोडिंग, वित्त, उपभोक्ता सेवाओं और हेल्थकेयर को बदलेगा, और AI निवेश बुलबुले की धारणा को खारिज किया।",
-        "body": "ब्लूमबर्ग इंटेलिजेंस के वरिष्ठ टेक्नोलॉजी विश्लेषक मंदीप सिंह ने 14 मई को आयोजित Korea Investment Week (KIW) 2026 में AI निवेश बुलबुले की धारणा को सीधे खारिज किया। उन्होंने कहा कि AI अब केवल एक प्रॉम्प्ट का जवाब देने वाला औजार नहीं रह गया है, बल्कि ऐसे एजेंट सिस्टम की ओर बढ़ रहा है जो खुद खोज करता है, दस्तावेज पढ़ता है, तर्क करता है और काम पूरा करता है। ब्लूमबर्ग इंटेलिजेंस डेटा के आधार पर दुनिया की 2,000 से अधिक कंपनियों और 135 उद्योगों का विश्लेषण करता है। सिंह के अनुसार एजेंट AI कोडिंग से शुरू होकर वित्त, ग्राहक सेवा, ई-कॉमर्स, व्यक्तिगत सहायक, उपभोक्ता क्षेत्र और हेल्थकेयर तक फैलेगा। उन्होंने यह भी कहा कि एजेंट AI डेटाबेस क्वेरी, दस्तावेज विश्लेषण और तर्क की प्रक्रिया बार-बार कर सकता है और अधिकतम 10 लाख टोकन तक इस्तेमाल कर सकता है, जिससे डेटा सेंटर निवेश बढ़ता है। hankyung.com के अनुसार, सिंह ने कहा कि इस साल वार्षिक डेटा सेंटर निवेश करीब 750 अरब डॉलर तक पहुंच रहा है और दो वर्षों में 1 ट्रिलियन डॉलर के दौर में प्रवेश कर सकता है।"
-      },
-      "id": {
-        "title": "AI agen ubah industri, analis senior Bloomberg bantah isu gelembung AI",
-        "excerpt": "Mandeep Singh, analis teknologi senior Bloomberg Intelligence, pada 14 Mei di KIW 2026 mengatakan AI agen akan mengubah coding, keuangan, konsumsi dan kesehatan, sekaligus membantah pandangan gelembung investasi AI.",
-        "body": "Mandeep Singh, analis teknologi senior Bloomberg Intelligence, secara langsung membantah pandangan gelembung investasi AI dalam Korea Investment Week (KIW) 2026 pada 14 Mei. Ia mengatakan AI bergerak melampaui alat yang hanya menjawab satu prompt menjadi sistem agen yang dapat mencari sendiri, membaca dokumen, bernalar dan menjalankan tugas. Bloomberg Intelligence adalah lembaga riset yang menganalisis lebih dari 2.000 perusahaan dan 135 industri di seluruh dunia berbasis data. Singh menilai AI agen akan menyebar dari coding ke keuangan, layanan pelanggan, e-commerce, asisten pribadi, konsumsi dan kesehatan. Ia juga menjelaskan bahwa AI agen dapat berulang kali melakukan kueri basis data, analisis dokumen dan penalaran, memakai hingga 1 juta token, sehingga mendorong investasi pusat data. Menurut hankyung.com, Singh mengatakan investasi tahunan pusat data tahun ini mencapai sekitar 750 miliar dolar AS dan dapat memasuki era 1 triliun dolar AS dalam dua tahun."
-      }
-    }
-  },
-  {
-    "id": "6c1213a83e78",
-    "slug": "코스피-8000인데-버려진-종목-많다코스닥은-결코-저평가-아냐-kiw-2026-974626",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T20:05:09.150Z",
-    "updatedAt": "2026-05-14T20:05:09.150Z",
-    "sourceName": "hankyung.com",
-    "sourceUrl": "https://www.hankyung.com/article/202605146889i",
-    "canonicalUrl": "https://www.hankyung.com/article/202605146889i",
-    "titleFingerprint": "df9100b5a3cfab2b8ff0fb9b48fd124715cf411c",
-    "dedupKeys": [
-      "6c1213a83e78dc51782fc853505a20bb20370402",
-      "df9100b5a3cfab2b8ff0fb9b48fd124715cf411c",
-      "1b643d1b7cbcb3777cb2c3f7ac7b741cc4ad905c"
-    ],
-    "imageUrl": "/images/articles/6c1213a83e78.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000 시대에도 소외주 많다…코스닥 저평가론 경계 [KIW 2026]",
-        "excerpt": "박인희 씨앗자산운용 CIO는 5월14일 KIW 2026에서 코스피 강세가 AI에 쏠리며 저평가 소외주가 늘었고, 코스닥은 결코 저평가가 아니라고 진단했다.",
-        "body": "박인희 씨앗자산운용 최고투자책임자(CIO)는 5월14일 서울 장충동 신라호텔에서 열린 코리아 인베스트먼트 위크(KIW) 2026에서 코스피 강세장의 내부 격차를 지적했다. 그는 코스피 지수가 2000에서 8000이 됐는데도 버려진 종목이 많다고 말했다. AI 쏠림이 심화되며 시장 양극화가 커졌고, 저평가 소외 종목이 늘었다는 설명이다. 반면 코스닥의 핵심 업종 기업들은 충분히 오른 만큼 결코 저평가가 아니라고 봤다. 코스피 피크아웃 가능성에 대비해 공격적인 롱온리보다 리스크 관리를 병행하는 롱숏 전략이 필요하다고 강조했다. 출처: hankyung.com"
-      },
-      "en": {
-        "title": "KOSPI 8000 Still Leaves Many Stocks Behind, KOSDAQ Valuation Warning",
-        "excerpt": "Seed Asset Management CIO Park In-hee said at KIW 2026 on May 14 that AI-led concentration has deepened market polarization and that KOSDAQ is not undervalued.",
-        "body": "Park In-hee, chief investment officer of Seed Asset Management, addressed the internal gap in the KOSPI rally at Korea Investment Week 2026, held on May 14 at The Shilla Seoul in Jangchung-dong. He said that even after the KOSPI moved from 2000 to 8000, many stocks remained abandoned. His point was that stronger concentration in artificial intelligence has deepened market polarization and increased the number of neglected undervalued stocks. By contrast, he said key KOSDAQ-sector companies have already risen enough and that the market is by no means undervalued. He emphasized that, with a possible KOSPI peak-out in mind, investors need long-short strategies with risk control rather than aggressive long-only approaches. Source: hankyung.com"
-      },
-      "ja": {
-        "title": "KOSPI8000でも取り残された銘柄多数、KOSDAQ割安論に警戒",
-        "excerpt": "シアッ資産運用の朴仁熙CIOは5月14日のKIW 2026で、AI集中により市場の二極化が進み、KOSDAQは決して割安ではないと述べた。",
-        "body": "シアッ資産運用の朴仁熙最高投資責任者（CIO）は5月14日、ソウル・奨忠洞の新羅ホテルで開かれたコリア・インベストメント・ウィーク（KIW）2026で、KOSPI上昇相場の内部格差を指摘した。朴氏は、KOSPI指数が2000から8000になったにもかかわらず、なお見捨てられた銘柄が多いと述べた。AIへの資金集中が強まり、市場の二極化が深まり、割安な出遅れ銘柄が増えているという説明だ。一方で、KOSDAQの中核業種企業は十分に上昇しており、決して割安ではないとした。KOSPIのピークアウト懸念に備え、攻撃的なロングオンリーよりもリスク管理を伴うロング・ショート戦略が必要だと強調した。出典: hankyung.com"
-      },
-      "zh": {
-        "title": "KOSPI 8000仍有大量冷落股，KOSDAQ并非低估需警惕",
-        "excerpt": "Seed资产管理CIO朴仁熙5月14日在KIW 2026表示，AI集中加剧市场分化，低估冷门股增多，而KOSDAQ绝非低估。",
-        "body": "Seed资产管理首席投资官（CIO）朴仁熙5月14日在首尔奖忠洞新罗酒店举行的韩国投资周（KIW）2026上，指出了KOSPI强势行情内部的差距。他表示，KOSPI指数从2000点升至8000点，但仍有许多被市场冷落的股票。其解释是，资金向人工智能（AI）集中加剧，市场两极分化扩大，低估的冷门股票随之增加。相反，他认为KOSDAQ核心行业公司已经充分上涨，绝不是低估。面对KOSPI可能见顶的担忧，他强调，相比激进的只做多策略，更需要同时进行风险管理的多空策略。来源: hankyung.com"
-      },
-      "es": {
-        "title": "KOSPI 8000 deja muchas acciones rezagadas y KOSDAQ no está barato",
-        "excerpt": "Park In-hee, CIO de Seed Asset Management, dijo el 14 de mayo en KIW 2026 que la concentración en IA agrava la polarización y que KOSDAQ no está infravalorado.",
-        "body": "Park In-hee, director de inversiones de Seed Asset Management, señaló el 14 de mayo en Korea Investment Week 2026, celebrada en el hotel Shilla de Jangchung-dong, Seúl, la brecha interna del mercado alcista del KOSPI. Dijo que, aunque el índice KOSPI pasó de 2000 a 8000, todavía hay muchas acciones abandonadas. Según explicó, la concentración en inteligencia artificial se ha intensificado, la polarización del mercado se ha ampliado y han aumentado los valores rezagados e infravalorados. En cambio, afirmó que las empresas de sectores clave de KOSDAQ ya han subido lo suficiente y que el mercado no está en absoluto infravalorado. Ante la posibilidad de un pico del KOSPI, subrayó la necesidad de estrategias long-short con control de riesgo, más que enfoques agresivos solo largos. Fuente: hankyung.com"
-      },
-      "pt": {
-        "title": "KOSPI 8000 ainda deixa ações esquecidas; KOSDAQ não está barato",
-        "excerpt": "Park In-hee, CIO da Seed Asset Management, disse em 14 de maio no KIW 2026 que a concentração em IA ampliou a polarização e que o KOSDAQ não está subavaliado.",
-        "body": "Park In-hee, diretor de investimentos da Seed Asset Management, apontou em 14 de maio, no Korea Investment Week 2026 realizado no hotel Shilla, em Jangchung-dong, Seul, a diferença interna da alta do KOSPI. Ele afirmou que, embora o índice KOSPI tenha passado de 2000 para 8000, ainda há muitas ações abandonadas. Segundo ele, a concentração em inteligência artificial se intensificou, a polarização do mercado aumentou e cresceu o número de papéis negligenciados e subavaliados. Por outro lado, disse que as empresas dos principais setores do KOSDAQ já subiram o suficiente e que o mercado definitivamente não está subavaliado. Diante da possibilidade de pico do KOSPI, destacou a necessidade de estratégias long-short com gestão de risco, em vez de uma postura agressiva apenas comprada. Fonte: hankyung.com"
-      },
-      "de": {
-        "title": "KOSPI 8000 lässt viele Aktien zurück, KOSDAQ ist nicht unterbewertet",
-        "excerpt": "Seed-Asset-Management-CIO Park In-hee sagte am 14. Mai auf der KIW 2026, die KI-Konzentration verschärfe die Marktspaltung und KOSDAQ sei nicht unterbewertet.",
-        "body": "Park In-hee, Chief Investment Officer von Seed Asset Management, verwies am 14. Mai auf der Korea Investment Week 2026 im Shilla Hotel in Jangchung-dong, Seoul, auf die inneren Unterschiede der KOSPI-Rally. Er sagte, obwohl der KOSPI-Index von 2000 auf 8000 gestiegen sei, gebe es noch immer viele vernachlässigte Aktien. Die zunehmende Konzentration auf künstliche Intelligenz habe die Marktpolarisierung vertieft und die Zahl unterbewerteter, übersehener Titel erhöht. Dagegen seien Unternehmen in den Kernsektoren des KOSDAQ bereits ausreichend gestiegen; der Markt sei keineswegs unterbewertet. Mit Blick auf ein mögliches Peak-out des KOSPI betonte er, dass Long-Short-Strategien mit Risikomanagement wichtiger seien als aggressive Long-only-Ansätze. Quelle: hankyung.com"
-      },
-      "fr": {
-        "title": "KOSPI 8000 laisse encore des titres oubliés, KOSDAQ pas sous-évalué",
-        "excerpt": "Park In-hee, CIO de Seed Asset Management, a déclaré le 14 mai à KIW 2026 que la concentration sur l’IA accentue la polarisation et que KOSDAQ n’est pas sous-évalué.",
-        "body": "Park In-hee, directeur des investissements de Seed Asset Management, a souligné le 14 mai, lors de Korea Investment Week 2026 organisée à l’hôtel Shilla de Jangchung-dong à Séoul, les écarts internes du marché haussier du KOSPI. Il a déclaré que, même si l’indice KOSPI est passé de 2000 à 8000, de nombreuses actions restent abandonnées. Selon lui, la concentration croissante sur l’intelligence artificielle a renforcé la polarisation du marché et augmenté le nombre de titres négligés et sous-évalués. À l’inverse, il a estimé que les entreprises des secteurs clés du KOSDAQ ont déjà suffisamment progressé et que le marché n’est en aucun cas sous-évalué. Face au risque de pic du KOSPI, il a insisté sur la nécessité de stratégies long-short avec gestion du risque plutôt que d’approches long-only agressives. Source: hankyung.com"
-      },
-      "ar": {
-        "title": "كوسبي 8000 يترك أسهما كثيرة مهملة وكوسداك ليس رخيصا",
-        "excerpt": "قال بارك إن-هي، مدير الاستثمار في سيد لإدارة الأصول، في KIW 2026 يوم 14 مايو إن تركز السوق حول الذكاء الاصطناعي عمق الاستقطاب وإن كوسداك ليس مقيما بأقل من قيمته.",
-        "body": "قال بارك إن-هي، كبير مسؤولي الاستثمار في سيد لإدارة الأصول، يوم 14 مايو في أسبوع كوريا للاستثمار KIW 2026 المنعقد في فندق شيلا بحي جانغتشونغ دونغ في سيول، إن صعود كوسبي يخفي فجوة داخلية واسعة. وأوضح أنه رغم انتقال مؤشر كوسبي من 2000 إلى 8000، ما زالت هناك أسهم كثيرة متروكة. وفسر ذلك بتزايد التركز في الذكاء الاصطناعي، ما عمق استقطاب السوق وزاد عدد الأسهم المهملة والمقيمة بأقل من قيمتها. في المقابل، رأى أن شركات القطاعات الأساسية في كوسداك ارتفعت بما يكفي، وأن السوق ليس مقوما بأقل من قيمته أبدا. وشدد على أن احتمال بلوغ كوسبي ذروته يتطلب استراتيجيات شراء وبيع على المكشوف مع إدارة للمخاطر، لا مراكز شراء فقط بصورة هجومية. المصدر: hankyung.com"
-      },
-      "hi": {
-        "title": "KOSPI 8000 पर भी कई शेयर छूटे, KOSDAQ सस्ता नहीं",
-        "excerpt": "सीड एसेट मैनेजमेंट के CIO पार्क इन-ही ने 14 मई को KIW 2026 में कहा कि AI-केंद्रित तेजी से बाजार विभाजन बढ़ा है और KOSDAQ कम मूल्यांकित नहीं है।",
-        "body": "सीड एसेट मैनेजमेंट के मुख्य निवेश अधिकारी पार्क इन-ही ने 14 मई को सियोल के जांगचुंग-दोंग स्थित शिला होटल में आयोजित Korea Investment Week 2026 में KOSPI की तेजी के भीतर मौजूद अंतर पर बात की। उन्होंने कहा कि KOSPI सूचकांक 2000 से 8000 तक पहुंच गया, फिर भी कई शेयर अभी भी बाजार से उपेक्षित हैं। उनका कहना था कि कृत्रिम बुद्धिमत्ता पर बढ़ते झुकाव से बाजार का ध्रुवीकरण गहरा हुआ है और कम मूल्यांकित उपेक्षित शेयरों की संख्या बढ़ी है। इसके विपरीत, KOSDAQ के प्रमुख क्षेत्रों की कंपनियां पर्याप्त बढ़ चुकी हैं और यह बाजार किसी भी तरह कम मूल्यांकित नहीं है। KOSPI के पीक-आउट की आशंका को देखते हुए उन्होंने आक्रामक लॉन्ग-ओनली रणनीति के बजाय जोखिम प्रबंधन वाली लॉन्ग-शॉर्ट रणनीति की जरूरत बताई। स्रोत: hankyung.com"
-      },
-      "id": {
-        "title": "KOSPI 8000 Masih Sisakan Saham Terabaikan, KOSDAQ Tak Murah",
-        "excerpt": "Park In-hee, CIO Seed Asset Management, mengatakan pada 14 Mei di KIW 2026 bahwa konsentrasi pada AI memperlebar polarisasi pasar dan KOSDAQ tidak undervalued.",
-        "body": "Park In-hee, chief investment officer Seed Asset Management, menyoroti kesenjangan di dalam reli KOSPI pada Korea Investment Week 2026 yang digelar 14 Mei di Hotel Shilla, Jangchung-dong, Seoul. Ia mengatakan bahwa meski indeks KOSPI telah bergerak dari 2000 ke 8000, masih banyak saham yang ditinggalkan pasar. Menurutnya, konsentrasi yang semakin besar pada kecerdasan buatan memperdalam polarisasi pasar dan menambah jumlah saham terabaikan yang bernilai rendah. Sebaliknya, ia menilai perusahaan di sektor inti KOSDAQ sudah naik cukup jauh sehingga pasar itu sama sekali tidak undervalued. Menghadapi kemungkinan KOSPI mencapai puncak, ia menekankan perlunya strategi long-short dengan pengelolaan risiko, bukan pendekatan long-only yang agresif. Sumber: hankyung.com"
       }
     }
   }
