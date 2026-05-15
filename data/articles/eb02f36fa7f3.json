@@ -1,0 +1,75 @@
+{
+  "id": "eb02f36fa7f3",
+  "slug": "금융위-조각투자증권-묶음-발행-허용-602698",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-15T10:32:09.160Z",
+  "updatedAt": "2026-05-15T10:32:09.161Z",
+  "sourceName": "mk.co.kr",
+  "sourceUrl": "https://www.mk.co.kr/news/stock/12049388",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12049388",
+  "titleFingerprint": "821e91c4ca8a5aa4d40271e46df3eb8ce807ea76",
+  "dedupKeys": [
+    "eb02f36fa7f3eacddee4860ccde046f7138caac0",
+    "821e91c4ca8a5aa4d40271e46df3eb8ce807ea76",
+    "e65fdca38ee163141094c83cfa664f683f6f78b2"
+  ],
+  "imageUrl": "/images/articles/eb02f36fa7f3.jpg",
+  "i18n": {
+    "ko": {
+      "title": "조각투자증권 묶음 발행 허용 추진, 금융위 토큰증권 제도화 속도",
+      "excerpt": "금융위원회는 15일 권대영 부위원장 주재로 토큰증권 제도화에 맞춰 동일 종류 기초자산을 일정 범위에서 묶어 조각투자증권으로 발행할 수 있도록 허용할 방침을 밝혔다.",
+      "body": "금융위원회가 15일 권대영 부위원장 주재로 토큰증권 제도화에 발맞춰 조각투자증권의 ‘묶음 발행’을 허용할 방침이다. 핵심은 동일 종류의 기초자산을 일정 범위에서 묶어(pooling) 조각투자증권으로 발행할 수 있게 하는 것이다. 조각투자증권은 기초자산을 나누어 투자할 수 있도록 설계되는 만큼, 이번 방침은 발행 구조와 제도 정비 흐름과 맞물려 있다. 금융위가 같은 종류의 기초자산에 한해 일정 범위의 묶음 발행을 허용하면 토큰증권 제도화 과정에서 조각투자증권 발행 방식에도 변화가 생길 수 있다. 출처: mk.co.kr"
+    },
+    "en": {
+      "title": "FSC Moves to Allow Pooled Issuance of Fractional Investment Securities",
+      "excerpt": "South Korea’s Financial Services Commission said on the 15th it plans to allow fractional investment securities to be issued by pooling the same type of underlying assets within a set range as token securities are institutionalized.",
+      "body": "South Korea’s Financial Services Commission said on the 15th, at a meeting chaired by Vice Chairman Kwon Dae-young, that it plans to allow “pooled issuance” of fractional investment securities in line with the institutionalization of token securities. The key point is to permit the same type of underlying assets to be pooled within a certain range and issued as fractional investment securities. Because fractional investment securities are structured to divide access to underlying assets, the plan is tied to the broader effort to refine issuance rules and the token securities framework. If implemented, issuance methods for fractional investment securities could change within the permitted scope. Source: mk.co.kr"
+    },
+    "ja": {
+      "title": "金融委、同種資産のプールによる投資持分証券発行を容認へ",
+      "excerpt": "韓国金融委員会は15日、権大永副委員長の主宰で、トークン証券の制度化に合わせ、同一種類の基礎資産を一定範囲でまとめて投資持分証券として発行できるようにする方針を示した。",
+      "body": "韓国金融委員会は15日、権大永副委員長の主宰で、トークン証券の制度化に合わせて投資持分証券の「まとめ発行」を認める方針を示した。中心となる内容は、同一種類の基礎資産を一定範囲でプールし、投資持分証券として発行できるようにすることだ。投資持分証券は基礎資産を分割して投資できるよう設計されるため、今回の方針は発行構造と制度整備の流れに関連している。金融委が同種の基礎資産に限り一定範囲のまとめ発行を認めれば、トークン証券制度化の過程で発行方式にも変化が生じる可能性がある。出典: mk.co.kr"
+    },
+    "zh": {
+      "title": "韩国金融委拟允许碎片投资证券打包发行，配合代币证券制度化",
+      "excerpt": "韩国金融委员会15日由副委员长权大永主持相关工作，表示将配合代币证券制度化，允许同类基础资产在一定范围内打包发行碎片投资证券。",
+      "body": "韩国金融委员会15日由副委员长权大永主持相关工作，表示计划配合代币证券制度化，允许碎片投资证券进行“打包发行”。其核心是允许同一类型的基础资产在一定范围内进行 pooling，并以碎片投资证券形式发行。碎片投资证券本身是围绕基础资产拆分投资而设计，因此这一方针与发行结构和制度完善进程相衔接。若金融委仅针对同类基础资产允许一定范围内的打包发行，代币证券制度化过程中碎片投资证券的发行方式也可能随之调整。来源: mk.co.kr"
+    },
+    "es": {
+      "title": "La FSC permitirá emisiones agrupadas de valores de inversión fraccionada",
+      "excerpt": "La Comisión de Servicios Financieros de Corea del Sur dijo el día 15 que planea permitir la emisión de valores de inversión fraccionada agrupando activos subyacentes del mismo tipo dentro de un rango definido.",
+      "body": "La Comisión de Servicios Financieros de Corea del Sur informó el día 15, bajo la dirección del vicepresidente Kwon Dae-young, que planea permitir la “emisión agrupada” de valores de inversión fraccionada en línea con la institucionalización de los valores tokenizados. El punto central es permitir que activos subyacentes del mismo tipo se agrupen dentro de un rango determinado y se emitan como valores de inversión fraccionada. Dado que estos valores se diseñan para dividir la inversión en activos subyacentes, la medida se vincula con la estructura de emisión y el ajuste normativo. Fuente: mk.co.kr"
+    },
+    "pt": {
+      "title": "FSC planeja permitir emissão agrupada de títulos de investimento fracionado",
+      "excerpt": "A Comissão de Serviços Financeiros da Coreia do Sul informou no dia 15 que pretende permitir a emissão de títulos de investimento fracionado ao agrupar ativos subjacentes do mesmo tipo dentro de um limite definido.",
+      "body": "A Comissão de Serviços Financeiros da Coreia do Sul informou no dia 15, sob a condução do vice-presidente Kwon Dae-young, que pretende permitir a “emissão agrupada” de títulos de investimento fracionado em linha com a institucionalização dos títulos tokenizados. O ponto central é autorizar que ativos subjacentes do mesmo tipo sejam agrupados dentro de certo limite e emitidos como títulos de investimento fracionado. Como esses títulos são estruturados para dividir o investimento em ativos subjacentes, a medida se conecta ao desenho de emissão e ao avanço regulatório. Fonte: mk.co.kr"
+    },
+    "de": {
+      "title": "FSC will gebündelte Ausgabe von Bruchteil-Investmentpapieren erlauben",
+      "excerpt": "Die südkoreanische Finanzaufsicht FSC teilte am 15. mit, sie wolle im Zuge der Institutionalisierung von Token-Wertpapieren erlauben, gleichartige Basiswerte in einem festgelegten Rahmen zu bündeln und als Bruchteil-Investmentpapiere auszugeben.",
+      "body": "Die südkoreanische Financial Services Commission erklärte am 15. unter Leitung des stellvertretenden Vorsitzenden Kwon Dae-young, sie plane die „gebündelte Ausgabe“ von Bruchteil-Investmentpapieren im Einklang mit der Institutionalisierung von Token-Wertpapieren. Kernpunkt ist, dass Basiswerte derselben Art innerhalb eines bestimmten Rahmens gebündelt und als Bruchteil-Investmentpapiere ausgegeben werden dürfen. Da solche Papiere auf eine Aufteilung von Investitionen in Basiswerte ausgerichtet sind, steht die Maßnahme im Zusammenhang mit Emissionsstruktur und Regelwerk. Quelle: mk.co.kr"
+    },
+    "fr": {
+      "title": "La FSC veut autoriser l’émission groupée de titres d’investissement fractionné",
+      "excerpt": "La Commission des services financiers de Corée du Sud a indiqué le 15 qu’elle prévoit d’autoriser l’émission de titres d’investissement fractionné en regroupant des actifs sous-jacents de même nature dans un périmètre défini.",
+      "body": "La Commission des services financiers de Corée du Sud a indiqué le 15, sous la présidence du vice-président Kwon Dae-young, qu’elle prévoit d’autoriser l’« émission groupée » de titres d’investissement fractionné dans le cadre de l’institutionnalisation des titres tokenisés. Le principe est de permettre le regroupement d’actifs sous-jacents de même nature dans une certaine limite afin de les émettre sous forme de titres d’investissement fractionné. Ces titres étant conçus pour diviser l’investissement dans des actifs sous-jacents, la mesure s’inscrit dans l’ajustement des structures d’émission. Source: mk.co.kr"
+    },
+    "ar": {
+      "title": "لجنة الخدمات المالية الكورية تتجه للسماح بالإصدار المجمع لأوراق الاستثمار الجزئي",
+      "excerpt": "أعلنت لجنة الخدمات المالية في كوريا الجنوبية في 15 من الشهر، برئاسة نائب رئيسها كوون داي يونغ، أنها تعتزم السماح بتجميع الأصول الأساسية من النوع نفسه ضمن نطاق محدد لإصدار أوراق استثمار جزئي.",
+      "body": "أعلنت لجنة الخدمات المالية في كوريا الجنوبية في 15 من الشهر، برئاسة نائب رئيسها كوون داي يونغ، أنها تعتزم السماح بما يسمى “الإصدار المجمع” لأوراق الاستثمار الجزئي تماشيا مع إضفاء الطابع المؤسسي على الأوراق المالية الرمزية. ويتمثل جوهر الخطة في السماح بتجميع الأصول الأساسية من النوع نفسه ضمن نطاق معين وإصدارها كأوراق استثمار جزئي. وبما أن هذه الأوراق مصممة لتقسيم الاستثمار في الأصول الأساسية، فإن التوجه يرتبط بهيكل الإصدار ومسار تنظيم الأوراق الرمزية. المصدر: mk.co.kr"
+    },
+    "hi": {
+      "title": "FSC टोकन सिक्योरिटीज ढांचे के साथ फ्रैक्शनल निवेश सिक्योरिटीज की पूल्ड इश्यू को अनुमति देगा",
+      "excerpt": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने 15 तारीख को उपाध्यक्ष क्वोन डे-यंग की अध्यक्षता में कहा कि वह समान प्रकार की आधारभूत परिसंपत्तियों को तय दायरे में पूल कर फ्रैक्शनल निवेश सिक्योरिटीज जारी करने की अनुमति देने की योजना बना रहा है।",
+      "body": "दक्षिण कोरिया के वित्तीय सेवा आयोग ने 15 तारीख को उपाध्यक्ष क्वोन डे-यंग की अध्यक्षता में बताया कि वह टोकन सिक्योरिटीज के संस्थानीकरण के अनुरूप फ्रैक्शनल निवेश सिक्योरिटीज की “पूल्ड इश्यू” को अनुमति देने की योजना बना रहा है। इसका मुख्य बिंदु यह है कि समान प्रकार की आधारभूत परिसंपत्तियों को एक निश्चित दायरे में पूल कर फ्रैक्शनल निवेश सिक्योरिटीज के रूप में जारी किया जा सके। चूंकि ऐसी सिक्योरिटीज आधारभूत परिसंपत्तियों में निवेश को विभाजित करने के लिए बनाई जाती हैं, यह कदम जारी करने की संरचना और नियामकीय व्यवस्था से जुड़ा है। स्रोत: mk.co.kr"
+    },
+    "id": {
+      "title": "FSC Akan Izinkan Penerbitan Gabungan Sekuritas Investasi Fraksional",
+      "excerpt": "Komisi Jasa Keuangan Korea Selatan pada tanggal 15, dipimpin Wakil Ketua Kwon Dae-young, menyatakan akan mengizinkan aset dasar sejenis digabung dalam batas tertentu untuk menerbitkan sekuritas investasi fraksional.",
+      "body": "Komisi Jasa Keuangan Korea Selatan pada tanggal 15, di bawah pimpinan Wakil Ketua Kwon Dae-young, menyatakan rencana untuk mengizinkan “penerbitan gabungan” sekuritas investasi fraksional sejalan dengan pelembagaan sekuritas token. Intinya, aset dasar dengan jenis yang sama dapat digabungkan atau pooling dalam batas tertentu lalu diterbitkan sebagai sekuritas investasi fraksional. Karena sekuritas ini dirancang untuk membagi investasi atas aset dasar, kebijakan tersebut terkait dengan struktur penerbitan dan penataan aturan. Sumber: mk.co.kr"
+    }
+  }
+}
