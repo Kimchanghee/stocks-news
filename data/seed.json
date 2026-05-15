@@ -1,5 +1,230 @@
 [
   {
+    "id": "dd8e39c532dd",
+    "slug": "한미반도체-1분기-영업익-84억전년비-879-감소-472513",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T22:01:57.609Z",
+    "updatedAt": "2026-05-15T22:01:57.609Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/2026051592946",
+    "canonicalUrl": "https://www.hankyung.com/article/2026051592946",
+    "titleFingerprint": "9b373cdc9ac28acac7dc3f7f7b566453ffdc1166",
+    "dedupKeys": [
+      "dd8e39c532ddfb6a6158bf578a23548e5d985f2d",
+      "9b373cdc9ac28acac7dc3f7f7b566453ffdc1166",
+      "c171bf6b3fb8d173f20eb2252b61591505f93360"
+    ],
+    "imageUrl": "/images/articles/dd8e39c532dd.jpg",
+    "i18n": {
+      "ko": {
+        "title": "한미반도체 1분기 영업익 84억 원, 전년 대비 87.9% 급감",
+        "excerpt": "한미반도체는 1분기 영업이익이 84억 원으로 전년 동기보다 87.9% 감소했다고 hankyung.com 보도를 통해 전해졌다.",
+        "body": "한미반도체의 1분기 영업이익이 84억 원으로 집계되며 전년 동기 대비 87.9% 감소한 것으로 전해졌다. 이번 수치는 1분기 실적에서 영업이익 규모가 크게 줄었다는 점을 보여준다. 원문에서 확인된 핵심 내용은 영업이익 84억 원과 전년 대비 87.9% 감소라는 두 가지다. 실적 감소 폭이 큰 만큼 투자자들은 향후 실적 흐름과 관련 공시를 주시할 필요가 있다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Hanmi Semiconductor Q1 Operating Profit Falls 87.9% to 8.4 Billion Won",
+        "excerpt": "Hanmi Semiconductor’s first-quarter operating profit was 8.4 billion won, down 87.9% from a year earlier, according to hankyung.com.",
+        "body": "Hanmi Semiconductor’s first-quarter operating profit came in at 8.4 billion won, marking an 87.9% decline from the same period a year earlier. The figure shows a sharp contraction in operating profit for the quarter. The key facts confirmed in the original report are the operating profit amount of 8.4 billion won and the 87.9% year-on-year decrease. Given the scale of the decline, investors may need to watch future earnings trends and related disclosures. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "ハンミ半導体、第1四半期営業益84億ウォンで前年比87.9%減",
+        "excerpt": "ハンミ半導体の第1四半期営業利益は84億ウォンとなり、前年同期比87.9%減少したとhankyung.comが報じた。",
+        "body": "ハンミ半導体の第1四半期営業利益は84億ウォンと集計され、前年同期比で87.9%減少したと伝えられた。今回の数値は、第1四半期の営業利益規模が大きく縮小したことを示している。原文で確認された主な内容は、営業利益84億ウォンと前年同期比87.9%減という二点である。減少幅が大きいだけに、投資家は今後の業績推移と関連開示を注視する必要がある。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "韩美半导体一季度营业利润84亿韩元，同比下降87.9%",
+        "excerpt": "据hankyung.com报道，韩美半导体第一季度营业利润为84亿韩元，较上年同期下降87.9%。",
+        "body": "韩美半导体第一季度营业利润为84亿韩元，较上年同期下降87.9%。这一数据表明，该公司一季度营业利润规模明显收缩。原文中确认的核心信息为营业利润84亿韩元，以及同比下降87.9%这两项内容。由于降幅较大，投资者有必要关注其后续业绩走势和相关公告。来源: hankyung.com"
+      },
+      "es": {
+        "title": "Hanmi Semiconductor reduce 87,9% su beneficio operativo del 1T",
+        "excerpt": "Hanmi Semiconductor registró un beneficio operativo de 8.400 millones de wones en el primer trimestre, un 87,9% menos interanual, según hankyung.com.",
+        "body": "Hanmi Semiconductor registró en el primer trimestre un beneficio operativo de 8.400 millones de wones, lo que supone una caída del 87,9% frente al mismo periodo del año anterior. La cifra muestra una fuerte reducción del beneficio operativo trimestral. Los datos clave confirmados en el texto original son el beneficio operativo de 8.400 millones de wones y el descenso interanual del 87,9%. Dada la magnitud de la caída, los inversores deberán seguir la evolución de resultados y las comunicaciones relacionadas. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "Hanmi Semiconductor tem lucro operacional do 1T de 8,4 bi de wones",
+        "excerpt": "A Hanmi Semiconductor registrou lucro operacional de 8,4 bilhões de wones no primeiro trimestre, queda anual de 87,9%, segundo hankyung.com.",
+        "body": "A Hanmi Semiconductor registrou lucro operacional de 8,4 bilhões de wones no primeiro trimestre, uma queda de 87,9% em relação ao mesmo período do ano anterior. O número indica forte redução no lucro operacional trimestral. As informações centrais confirmadas no texto original são o lucro operacional de 8,4 bilhões de wones e a queda anual de 87,9%. Diante da amplitude do recuo, investidores podem acompanhar os próximos resultados e divulgações relacionadas. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Hanmi Semiconductor: operativer Gewinn im 1. Quartal sinkt um 87,9%",
+        "excerpt": "Hanmi Semiconductor erzielte im ersten Quartal einen operativen Gewinn von 8,4 Mrd. Won, 87,9% weniger als im Vorjahr, berichtet hankyung.com.",
+        "body": "Hanmi Semiconductor erzielte im ersten Quartal einen operativen Gewinn von 8,4 Milliarden Won, was einem Rückgang von 87,9% gegenüber dem Vorjahreszeitraum entspricht. Die Zahl zeigt eine deutliche Verringerung des operativen Quartalsgewinns. Die im Originalbericht bestätigten Kerndaten sind der operative Gewinn von 8,4 Milliarden Won und der Rückgang um 87,9% im Jahresvergleich. Angesichts des starken Rückgangs dürften Anleger die weitere Ergebnisentwicklung und entsprechende Mitteilungen beobachten. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Hanmi Semiconductor: bénéfice opérationnel du T1 en baisse de 87,9%",
+        "excerpt": "Hanmi Semiconductor a dégagé un bénéfice opérationnel de 8,4 milliards de wons au premier trimestre, en recul de 87,9% sur un an, selon hankyung.com.",
+        "body": "Hanmi Semiconductor a enregistré au premier trimestre un bénéfice opérationnel de 8,4 milliards de wons, en baisse de 87,9% par rapport à la même période de l’an dernier. Ce chiffre montre une forte contraction du bénéfice opérationnel trimestriel. Les éléments confirmés dans le texte original sont le montant de 8,4 milliards de wons et le recul annuel de 87,9%. Compte tenu de l’ampleur de la baisse, les investisseurs devront suivre les prochains résultats et les publications liées. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "هانمي سيميكونداكتور: أرباح الربع الأول التشغيلية تهبط 87.9%",
+        "excerpt": "بلغت الأرباح التشغيلية لهانمي سيميكونداكتور في الربع الأول 8.4 مليار وون، بانخفاض 87.9% على أساس سنوي، وفق hankyung.com.",
+        "body": "بلغت الأرباح التشغيلية لهانمي سيميكونداكتور في الربع الأول 8.4 مليار وون، متراجعة بنسبة 87.9% مقارنة بالفترة نفسها من العام السابق. وتوضح هذه الأرقام أن حجم الأرباح التشغيلية الفصلية انخفض بشكل كبير. وتقتصر المعلومات المؤكدة في النص الأصلي على رقم الأرباح التشغيلية البالغ 8.4 مليار وون ونسبة الانخفاض السنوية البالغة 87.9%. وبالنظر إلى حجم التراجع، قد يحتاج المستثمرون إلى متابعة مسار النتائج المقبلة والإفصاحات ذات الصلة. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "Hanmi Semiconductor का Q1 परिचालन लाभ 87.9% घटकर 8.4 अरब वॉन",
+        "excerpt": "Hanmi Semiconductor का पहली तिमाही का परिचालन लाभ 8.4 अरब वॉन रहा, जो सालाना आधार पर 87.9% कम है, hankyung.com के अनुसार।",
+        "body": "Hanmi Semiconductor का पहली तिमाही का परिचालन लाभ 8.4 अरब वॉन दर्ज किया गया, जो पिछले वर्ष की समान अवधि की तुलना में 87.9% कम है। यह आंकड़ा तिमाही परिचालन लाभ में बड़ी कमी दिखाता है। मूल रिपोर्ट में पुष्टि की गई मुख्य जानकारी परिचालन लाभ 8.4 अरब वॉन और सालाना आधार पर 87.9% गिरावट है। गिरावट के बड़े स्तर को देखते हुए निवेशकों को आगे के नतीजों और संबंधित खुलासों पर ध्यान देना पड़ सकता है। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "Laba Operasional Q1 Hanmi Semiconductor Turun 87,9% Jadi 8,4 Miliar Won",
+        "excerpt": "Hanmi Semiconductor mencatat laba operasional kuartal I sebesar 8,4 miliar won, turun 87,9% secara tahunan, menurut hankyung.com.",
+        "body": "Hanmi Semiconductor mencatat laba operasional kuartal pertama sebesar 8,4 miliar won, turun 87,9% dibandingkan periode yang sama tahun sebelumnya. Angka ini menunjukkan penyusutan tajam pada laba operasional kuartalan. Informasi utama yang dikonfirmasi dalam teks asli adalah laba operasional 8,4 miliar won dan penurunan tahunan 87,9%. Dengan besarnya penurunan tersebut, investor perlu mencermati tren kinerja berikutnya dan keterbukaan informasi terkait. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "328d620abe56",
+    "slug": "스페이스x-상장-아직인데수익률-상위권-휩쓴-우주-etf-431550",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T22:01:13.194Z",
+    "updatedAt": "2026-05-15T22:01:13.194Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605159164i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605159164i",
+    "titleFingerprint": "a95c0fc367c515d1b1366b5b561c9bde491bc752",
+    "dedupKeys": [
+      "328d620abe5690ae8e8a377973515407eef09d2a",
+      "a95c0fc367c515d1b1366b5b561c9bde491bc752",
+      "5ab10f4e1fff7e0c2dec1f948c2115ebbcf1ee31"
+    ],
+    "imageUrl": "/images/articles/328d620abe56.jpg",
+    "i18n": {
+      "ko": {
+        "title": "스페이스X 미상장에도 우주 ETF 수익률 상위권 장악, 투자자 관심 확대",
+        "excerpt": "한국경제는 2026년 5월 15일 스페이스X가 아직 상장하지 않았음에도 우주 테마 ETF가 수익률 상위권에 올랐다고 전했다.",
+        "body": "2026년 5월 15일 한국경제는 스페이스X가 아직 증시에 상장하지 않은 상황에서도 우주 테마 ETF가 수익률 상위권을 휩쓸었다고 보도했다. 핵심은 개별 비상장 기업에 직접 투자하기 어려운 국면에서도 우주 산업 관련 상장지수펀드가 시장의 주목을 받고 있다는 점이다. 이번 흐름은 스페이스X 상장 여부와 별개로 우주 테마가 ETF 시장에서 투자자 관심을 끄는 소재로 부상했음을 보여준다. 다만 원문은 구체적인 종목별 수익률이나 편입 비중을 제시하지 않았으므로, 성과 해석에는 확인이 필요하다. 출처: hankyung.com"
+      },
+      "en": {
+        "title": "Space ETF Returns Rise Before SpaceX Listing as Investor Interest Builds",
+        "excerpt": "Hankyung reported on May 15, 2026, that space-themed ETFs ranked near the top in returns even though SpaceX has not yet gone public.",
+        "body": "On May 15, 2026, Hankyung reported that space-themed ETFs swept the upper ranks of returns even though SpaceX has not yet listed on the stock market. The key point is that, while direct investment in an unlisted company remains difficult, exchange-traded funds tied to the space industry are drawing market attention. The trend shows that the space theme has become a notable focus in the ETF market regardless of SpaceX’s listing status. The original report did not provide specific return figures or portfolio weights, so performance should be interpreted with additional confirmation. Source: hankyung.com"
+      },
+      "ja": {
+        "title": "スペースX未上場でも宇宙ETFが収益率上位に、投資家の関心拡大",
+        "excerpt": "韓国経済新聞は2026年5月15日、スペースXがまだ上場していないにもかかわらず、宇宙テーマETFが収益率上位に入ったと報じた。",
+        "body": "韓国経済新聞は2026年5月15日、スペースXがまだ株式市場に上場していない状況でも、宇宙テーマETFが収益率上位を占めたと報じた。焦点は、未上場企業へ直接投資しにくい局面でも、宇宙産業に関連する上場投資信託が市場の注目を集めている点だ。この動きは、スペースXの上場有無とは別に、宇宙テーマがETF市場で投資家の関心を引く材料になっていることを示す。ただし原文は銘柄別の具体的な収益率や組入比率を示しておらず、成果の解釈には確認が必要だ。出典: hankyung.com"
+      },
+      "zh": {
+        "title": "SpaceX尚未上市，太空ETF收益率却跻身前列引关注",
+        "excerpt": "韩国经济新闻2026年5月15日报道，尽管SpaceX尚未上市，太空主题ETF仍进入收益率前列，受到投资者关注。",
+        "body": "韩国经济新闻于2026年5月15日报道称，在SpaceX尚未登陆股市的情况下，太空主题ETF仍横扫收益率前列。报道的核心在于，尽管投资者难以直接投资这家未上市公司，与太空产业相关的交易所交易基金仍获得市场关注。这一走势显示，无论SpaceX是否已经上市，太空主题都已成为ETF市场吸引投资者的重要题材。不过，原文未列出具体ETF的收益率或持仓比例，因此对相关表现仍需进一步核实后解读。来源: hankyung.com"
+      },
+      "es": {
+        "title": "ETF espaciales lideran rentabilidades pese a que SpaceX aún no cotiza",
+        "excerpt": "Hankyung informó el 15 de mayo de 2026 que los ETF temáticos espaciales se ubicaron entre los de mayor rentabilidad aunque SpaceX aún no salió a bolsa.",
+        "body": "El 15 de mayo de 2026, Hankyung informó que los ETF temáticos espaciales ocuparon puestos destacados en rentabilidad aunque SpaceX todavía no cotiza en bolsa. El punto central es que, aun cuando invertir directamente en una empresa no listada sigue siendo difícil, los fondos cotizados vinculados a la industria espacial están captando atención del mercado. Este movimiento muestra que el tema espacial se ha convertido en un foco relevante para los inversores en ETF, más allá del estado de la salida a bolsa de SpaceX. El texto original no ofreció cifras específicas de rentabilidad ni pesos de cartera, por lo que la lectura del desempeño requiere confirmación adicional. Fuente: hankyung.com"
+      },
+      "pt": {
+        "title": "ETFs espaciais avançam no ranking mesmo antes da listagem da SpaceX",
+        "excerpt": "O Hankyung informou em 15 de maio de 2026 que ETFs ligados ao setor espacial ficaram entre os maiores retornos, embora a SpaceX ainda não tenha aberto capital.",
+        "body": "Em 15 de maio de 2026, o Hankyung informou que ETFs temáticos do setor espacial ficaram entre os destaques de retorno mesmo com a SpaceX ainda fora da bolsa. O ponto principal é que, enquanto o investimento direto em uma empresa não listada continua difícil, fundos negociados em bolsa ligados à indústria espacial atraem atenção do mercado. O movimento indica que o tema espacial ganhou relevância no mercado de ETFs independentemente do status da listagem da SpaceX. O texto original não apresentou retornos específicos por produto nem pesos de composição, portanto a avaliação do desempenho exige verificação adicional. Fonte: hankyung.com"
+      },
+      "de": {
+        "title": "Weltraum-ETFs vorn bei Renditen, obwohl SpaceX noch nicht börsennotiert ist",
+        "excerpt": "Hankyung berichtete am 15. Mai 2026, dass Weltraum-ETFs trotz der noch ausstehenden SpaceX-Börsennotierung zu den renditestärksten Produkten zählten.",
+        "body": "Am 15. Mai 2026 berichtete Hankyung, dass thematische Weltraum-ETFs bei den Renditen weit oben lagen, obwohl SpaceX noch nicht an der Börse notiert ist. Der Kernpunkt: Auch wenn direkte Investitionen in ein nicht börsennotiertes Unternehmen schwierig bleiben, ziehen börsengehandelte Fonds mit Bezug zur Raumfahrtindustrie Aufmerksamkeit am Markt auf sich. Die Entwicklung zeigt, dass das Weltraumthema im ETF-Markt für Anleger relevant geworden ist, unabhängig vom Börsenstatus von SpaceX. Der Originalbericht nannte keine konkreten Renditezahlen oder Gewichtungen einzelner Produkte, daher sollte die Performance zusätzlich geprüft werden. Quelle: hankyung.com"
+      },
+      "fr": {
+        "title": "Les ETF spatiaux en tête des rendements avant même l’entrée en Bourse de SpaceX",
+        "excerpt": "Hankyung a rapporté le 15 mai 2026 que les ETF liés à l’espace figuraient parmi les meilleurs rendements alors que SpaceX n’est pas encore cotée.",
+        "body": "Le 15 mai 2026, Hankyung a rapporté que les ETF thématiques liés à l’espace figuraient parmi les meilleurs rendements alors que SpaceX n’est pas encore cotée en Bourse. L’élément central est que, même si l’investissement direct dans une société non cotée reste difficile, les fonds cotés liés à l’industrie spatiale attirent l’attention du marché. Cette tendance montre que le thème spatial devient un sujet d’intérêt pour les investisseurs en ETF, indépendamment du statut de cotation de SpaceX. Le texte original ne donne pas de rendements précis par produit ni de pondérations de portefeuille, ce qui appelle une vérification complémentaire. Source: hankyung.com"
+      },
+      "ar": {
+        "title": "صناديق الفضاء تتصدر العوائد رغم أن سبيس إكس لم تُدرج بعد في البورصة",
+        "excerpt": "ذكرت هانكيونغ في 15 مايو 2026 أن صناديق المؤشرات المتداولة المرتبطة بالفضاء جاءت ضمن أعلى العوائد رغم أن سبيس إكس لم تُطرح بعد للاكتتاب العام.",
+        "body": "في 15 مايو 2026، أفادت هانكيونغ بأن صناديق المؤشرات المتداولة ذات الطابع الفضائي جاءت ضمن المراتب العليا من حيث العوائد، رغم أن سبيس إكس لم تُدرج بعد في سوق الأسهم. وتتمثل النقطة الرئيسية في أن الاستثمار المباشر في شركة غير مدرجة لا يزال صعبا، لكن الصناديق المتداولة المرتبطة بصناعة الفضاء تجذب انتباه السوق. ويظهر هذا الاتجاه أن موضوع الفضاء أصبح محورا مهما في سوق صناديق المؤشرات، بصرف النظر عن حالة إدراج سبيس إكس. ولم يذكر النص الأصلي أرقاما محددة للعوائد أو أوزانا للمكونات، لذلك يتطلب تقييم الأداء تحققا إضافيا. المصدر: hankyung.com"
+      },
+      "hi": {
+        "title": "SpaceX की लिस्टिंग से पहले भी स्पेस ETF रिटर्न रैंकिंग में ऊपर",
+        "excerpt": "Hankyung ने 15 मई 2026 को बताया कि SpaceX के अभी सूचीबद्ध न होने के बावजूद स्पेस थीम वाले ETF रिटर्न के ऊपरी स्तरों में शामिल हुए।",
+        "body": "15 मई 2026 को Hankyung ने रिपोर्ट किया कि SpaceX के अभी शेयर बाजार में सूचीबद्ध न होने के बावजूद स्पेस थीम वाले ETF रिटर्न रैंकिंग में ऊपरी स्थानों पर रहे। मुख्य बात यह है कि गैर-सूचीबद्ध कंपनी में सीधे निवेश करना कठिन होने की स्थिति में भी अंतरिक्ष उद्योग से जुड़े एक्सचेंज ट्रेडेड फंड बाजार का ध्यान खींच रहे हैं। यह रुझान दिखाता है कि SpaceX की लिस्टिंग स्थिति से अलग, स्पेस थीम ETF बाजार में निवेशकों के लिए महत्वपूर्ण विषय बन गई है। मूल रिपोर्ट ने किसी विशेष ETF की रिटर्न संख्या या पोर्टफोलियो वजन नहीं दिया, इसलिए प्रदर्शन की व्याख्या अतिरिक्त पुष्टि के साथ करनी चाहिए। स्रोत: hankyung.com"
+      },
+      "id": {
+        "title": "ETF Antariksa Masuk Jajaran Return Teratas Meski SpaceX Belum IPO",
+        "excerpt": "Hankyung melaporkan pada 15 Mei 2026 bahwa ETF bertema antariksa masuk jajaran imbal hasil teratas meski SpaceX belum melantai di bursa.",
+        "body": "Pada 15 Mei 2026, Hankyung melaporkan bahwa ETF bertema antariksa menempati jajaran atas dari sisi imbal hasil meski SpaceX belum tercatat di pasar saham. Intinya, ketika investasi langsung pada perusahaan yang belum listing masih sulit dilakukan, reksa dana indeks yang diperdagangkan di bursa dan terkait industri antariksa menarik perhatian pasar. Pergerakan ini menunjukkan bahwa tema antariksa menjadi fokus investor di pasar ETF terlepas dari status listing SpaceX. Laporan asli tidak menyajikan angka return per produk atau bobot portofolio tertentu, sehingga penilaian kinerja tetap memerlukan verifikasi tambahan. Sumber: hankyung.com"
+      }
+    }
+  },
+  {
+    "id": "dfed144a6758",
+    "slug": "삼전닉스-이어-삼전현차까지몸집-커진-채권혼합etf-958918",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T22:00:07.041Z",
+    "updatedAt": "2026-05-15T22:00:07.041Z",
+    "sourceName": "hankyung.com",
+    "sourceUrl": "https://www.hankyung.com/article/202605158988i",
+    "canonicalUrl": "https://www.hankyung.com/article/202605158988i",
+    "titleFingerprint": "956846be1c22430ecee3dcdb1984c85b0bb63a87",
+    "dedupKeys": [
+      "dfed144a67586dabd1c3d5adf01db3441008d002",
+      "956846be1c22430ecee3dcdb1984c85b0bb63a87",
+      "a029139e6b58c930000dfa611580987765013b85"
+    ],
+    "imageUrl": "/images/articles/dfed144a6758.jpg",
+    "i18n": {
+      "ko": {
+        "title": "삼성전자·현대차 조합까지 확대된 채권혼합 ETF, ‘삼전닉스’ 이어 몸집 커졌다",
+        "excerpt": "hankyung.com은 삼성전자와 SK하이닉스를 담은 ‘삼전닉스’에 이어 삼성전자와 현대차를 결합한 채권혼합 ETF까지 등장하며 관련 상품의 규모가 커지고 있다고 전했다.",
+        "body": "삼성전자와 대형 대표주를 결합한 채권혼합 ETF가 시장에서 존재감을 키우고 있다. hankyung.com 보도에 따르면 삼성전자와 SK하이닉스를 함께 담은 이른바 ‘삼전닉스’ 상품에 이어 삼성전자와 현대차를 조합한 ‘삼전현차’ 유형까지 거론되며 채권혼합 ETF의 외연이 넓어졌다. 채권혼합 ETF는 주식과 채권을 함께 편입하는 구조로, 특정 대형주 조합을 앞세운 상품명이 투자자에게 직관적으로 전달되는 점이 특징이다. 보도 제목은 관련 상품군의 ‘몸집’이 커졌다는 흐름에 초점을 맞췄다. 이는 대형주와 채권을 함께 활용하는 ETF 라인업이 확대되고 있음을 보여준다. 출처: hankyung.com."
+      },
+      "en": {
+        "title": "Bond-mixed ETFs expand with Samsung Electronics and Hyundai Motor after ‘Samsung-Hynix’",
+        "excerpt": "hankyung.com reported that bond-mixed ETFs are growing as products combining Samsung Electronics with SK hynix are followed by ETFs pairing Samsung Electronics with Hyundai Motor.",
+        "body": "Bond-mixed ETFs that combine Samsung Electronics with major large-cap stocks are gaining a larger presence. According to hankyung.com, products known as “Samsung-Hynix,” which hold Samsung Electronics and SK hynix together, have been followed by a type pairing Samsung Electronics with Hyundai Motor, widening the scope of bond-mixed ETFs. These ETFs combine stocks and bonds, and their product names built around familiar large-cap combinations can be easily understood by investors. The report’s headline focused on the growing “scale” of this product category. The trend shows that ETF lineups using both large-cap equities and bonds are expanding. Source: hankyung.com."
+      },
+      "ja": {
+        "title": "サムスン電子・現代自動車型まで拡大、債券混合ETFが『サムスン・ハイニックス』後に成長",
+        "excerpt": "hankyung.comは、サムスン電子とSKハイニックスを組み合わせた商品に続き、サムスン電子と現代自動車を組み合わせた債券混合ETFまで登場し、関連商品の規模が拡大していると伝えた。",
+        "body": "サムスン電子と代表的な大型株を組み合わせた債券混合ETFの存在感が高まっている。hankyung.comの報道によると、サムスン電子とSKハイニックスを一緒に組み入れる、いわゆる「サムスン・ハイニックス」商品に続き、サムスン電子と現代自動車を組み合わせたタイプまで取り上げられ、債券混合ETFの裾野が広がった。債券混合ETFは株式と債券をともに組み入れる構造で、特定の大型株の組み合わせを前面に出した商品名が投資家に直感的に伝わる点が特徴だ。報道の見出しは、関連商品群の規模拡大に焦点を当てた。大型株と債券を併用するETFラインアップが広がっていることを示している。出典: hankyung.com。"
+      },
+      "zh": {
+        "title": "债券混合ETF扩容：继“三星电子+SK海力士”后又到“三星电子+现代汽车”",
+        "excerpt": "hankyung.com报道称，继同时纳入三星电子和SK海力士的产品之后，结合三星电子与现代汽车的债券混合ETF也受到关注，相关产品规模正在扩大。",
+        "body": "将三星电子与大型代表性股票结合的债券混合ETF正在提升市场存在感。据hankyung.com报道，继同时配置三星电子和SK海力士的所谓“三星电子+SK海力士”产品之后，三星电子与现代汽车组合的类型也被提及，债券混合ETF的外延进一步扩大。债券混合ETF采用同时纳入股票和债券的结构，以特定大型股组合命名，便于投资者直观理解。报道标题聚焦于相关产品群“体量”变大的趋势。这显示出同时运用大型股和债券的ETF产品线正在扩展。来源：hankyung.com。"
+      },
+      "es": {
+        "title": "Los ETF mixtos de bonos crecen: tras Samsung-SK hynix llega Samsung-Hyundai Motor",
+        "excerpt": "hankyung.com informó que los ETF mixtos de bonos ganan tamaño después de los productos con Samsung Electronics y SK hynix, con nuevas combinaciones de Samsung Electronics y Hyundai Motor.",
+        "body": "Los ETF mixtos de bonos que combinan Samsung Electronics con grandes valores representativos están ganando presencia. Según hankyung.com, después de los productos conocidos como “Samsung-SK hynix”, que incluyen juntas a Samsung Electronics y SK hynix, también se menciona una modalidad que combina Samsung Electronics con Hyundai Motor, ampliando el alcance de estos ETF. Su estructura incorpora acciones y bonos, y los nombres basados en grandes compañías conocidas resultan directos para los inversores. El titular del reporte destacó que esta categoría de productos está aumentando de tamaño. La tendencia muestra una ampliación de las líneas de ETF que utilizan grandes acciones y bonos. Fuente: hankyung.com."
+      },
+      "pt": {
+        "title": "ETFs mistos de bonds crescem: após Samsung-SK hynix, chega combinação Samsung-Hyundai",
+        "excerpt": "O hankyung.com informou que os ETFs mistos de bonds estão ganhando escala com produtos que, após Samsung Electronics e SK hynix, combinam Samsung Electronics e Hyundai Motor.",
+        "body": "ETFs mistos de bonds que combinam Samsung Electronics com grandes ações representativas vêm ganhando presença. Segundo o hankyung.com, depois dos produtos conhecidos como “Samsung-SK hynix”, que reúnem Samsung Electronics e SK hynix, também passou a ser citada uma modalidade que combina Samsung Electronics e Hyundai Motor, ampliando o alcance dos ETFs mistos de bonds. Esses ETFs incluem ações e bonds, e nomes baseados em combinações de grandes empresas são facilmente compreendidos pelos investidores. A manchete da reportagem destacou o aumento do “tamanho” desse grupo de produtos. A tendência mostra a expansão de linhas de ETF que usam grandes ações e bonds. Fonte: hankyung.com."
+      },
+      "de": {
+        "title": "Anleihe-Misch-ETFs wachsen: nach Samsung-SK hynix nun Samsung Electronics mit Hyundai Motor",
+        "excerpt": "hankyung.com berichtete, dass Anleihe-Misch-ETFs größer werden, nachdem auf Produkte mit Samsung Electronics und SK hynix nun Varianten mit Samsung Electronics und Hyundai Motor folgen.",
+        "body": "Anleihe-Misch-ETFs, die Samsung Electronics mit großen Leitwerten kombinieren, gewinnen an Präsenz. Laut hankyung.com folgten auf Produkte mit Samsung Electronics und SK hynix, die als „Samsung-SK hynix“ bezeichnet werden, auch Varianten, die Samsung Electronics mit Hyundai Motor verbinden. Damit erweitert sich der Rahmen der Anleihe-Misch-ETFs. Diese ETFs enthalten Aktien und Anleihen zugleich; Produktnamen mit bekannten Large-Cap-Kombinationen sind für Anleger unmittelbar verständlich. Die Schlagzeile des Berichts stellte das wachsende „Volumen“ dieser Produktgruppe heraus. Der Trend zeigt, dass ETF-Angebote mit großen Aktien und Anleihen breiter werden. Quelle: hankyung.com."
+      },
+      "fr": {
+        "title": "Les ETF mixtes obligataires s’étoffent: après Samsung-SK hynix, Samsung-Hyundai arrive",
+        "excerpt": "hankyung.com rapporte que les ETF mixtes obligataires prennent de l’ampleur, avec des produits associant Samsung Electronics à SK hynix puis Samsung Electronics à Hyundai Motor.",
+        "body": "Les ETF mixtes obligataires associant Samsung Electronics à de grandes valeurs représentatives gagnent en visibilité. Selon hankyung.com, après les produits surnommés “Samsung-SK hynix”, qui regroupent Samsung Electronics et SK hynix, un type combinant Samsung Electronics et Hyundai Motor est aussi évoqué, élargissant le champ des ETF mixtes obligataires. Ces ETF intègrent à la fois des actions et des obligations, et leurs noms fondés sur des combinaisons de grandes capitalisations sont faciles à comprendre pour les investisseurs. Le titre du reportage met l’accent sur la croissance de la taille de cette catégorie de produits. Cette évolution montre l’élargissement des gammes d’ETF utilisant grandes actions et obligations. Source: hankyung.com."
+      },
+      "ar": {
+        "title": "صناديق ETF المختلطة بالسندات تتوسع بعد سامسونغ وSK هاينكس إلى سامسونغ وهيونداي",
+        "excerpt": "أفاد hankyung.com بأن صناديق ETF المختلطة بالسندات تكبر حجما، بعدما ظهرت منتجات تجمع Samsung Electronics وSK hynix ثم أنواع تربط Samsung Electronics مع Hyundai Motor.",
+        "body": "تزيد صناديق ETF المختلطة بالسندات التي تجمع Samsung Electronics مع أسهم كبرى بارزة من حضورها في السوق. وبحسب hankyung.com، فبعد المنتجات المعروفة باسم “Samsung-SK hynix” التي تضم Samsung Electronics وSK hynix معا، جرى التطرق أيضا إلى نوع يجمع Samsung Electronics مع Hyundai Motor، ما يوسع نطاق هذه الصناديق. تقوم هذه الصناديق على هيكل يضم الأسهم والسندات معا، وتتميز بأن أسماءها المبنية على مجموعات من أسهم كبرى معروفة تصل إلى المستثمرين بصورة مباشرة. ركز عنوان التقرير على أن هذه الفئة من المنتجات أصبحت أكبر حجما. ويظهر ذلك اتساع خطوط ETF التي تستخدم الأسهم الكبرى والسندات معا. المصدر: hankyung.com."
+      },
+      "hi": {
+        "title": "बॉन्ड-मिश्रित ETF का दायरा बढ़ा: Samsung-SK hynix के बाद Samsung-Hyundai Motor",
+        "excerpt": "hankyung.com ने बताया कि Samsung Electronics और SK hynix वाले उत्पादों के बाद Samsung Electronics और Hyundai Motor को जोड़ने वाले बॉन्ड-मिश्रित ETF तक सामने आने से संबंधित उत्पादों का आकार बढ़ रहा है।",
+        "body": "Samsung Electronics को प्रमुख बड़े शेयरों के साथ जोड़ने वाले बॉन्ड-मिश्रित ETF बाजार में अपनी मौजूदगी बढ़ा रहे हैं। hankyung.com के अनुसार, Samsung Electronics और SK hynix को साथ रखने वाले तथाकथित “Samsung-SK hynix” उत्पादों के बाद Samsung Electronics और Hyundai Motor को मिलाने वाला प्रकार भी चर्चा में आया है, जिससे बॉन्ड-मिश्रित ETF का दायरा बढ़ा है। ऐसे ETF में शेयर और बॉन्ड दोनों शामिल होते हैं, और बड़े परिचित शेयरों के संयोजन पर आधारित नाम निवेशकों को सीधे समझ आते हैं। रिपोर्ट के शीर्षक ने इस उत्पाद वर्ग के बढ़ते “आकार” पर ध्यान दिया। यह दिखाता है कि बड़े शेयरों और बॉन्ड का साथ उपयोग करने वाली ETF लाइनअप विस्तृत हो रही है। स्रोत: hankyung.com."
+      },
+      "id": {
+        "title": "ETF campuran obligasi membesar: setelah Samsung-SK hynix, kini Samsung-Hyundai Motor",
+        "excerpt": "hankyung.com melaporkan ETF campuran obligasi makin besar setelah produk yang memadukan Samsung Electronics dan SK hynix diikuti kombinasi Samsung Electronics dan Hyundai Motor.",
+        "body": "ETF campuran obligasi yang memadukan Samsung Electronics dengan saham besar utama semakin menonjol di pasar. Menurut hankyung.com, setelah produk yang disebut “Samsung-SK hynix”, yaitu yang memasukkan Samsung Electronics dan SK hynix bersama, kini turut disebut tipe yang menggabungkan Samsung Electronics dengan Hyundai Motor, sehingga cakupan ETF campuran obligasi melebar. ETF ini memiliki struktur yang memuat saham dan obligasi sekaligus, sementara nama produk yang menonjolkan kombinasi saham besar mudah dipahami investor. Judul laporan menyoroti membesarnya “ukuran” kelompok produk tersebut. Tren ini menunjukkan lini ETF yang memakai saham besar dan obligasi bersama sedang meluas. Sumber: hankyung.com."
+      }
+    }
+  },
+  {
     "id": "5722cd3e5688",
     "slug": "인프라부터-모델까지ai-풀스택으로-기업-혁신kiw-2026-194989",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Dong In Kiyeon Bukukan Penjualan Kuartal I 62 Miliar Won, Margin Operasi 10,4%",
         "excerpt": "Produsen perlengkapan outdoor Dong In Kiyeon menyatakan pada tanggal 15 bahwa penjualan kuartal I mencapai 62 miliar won, rekor untuk periode tersebut, sementara laba operasi naik 54%.",
         "body": "Dong In Kiyeon, perusahaan spesialis manufaktur perlengkapan outdoor, menyatakan pada tanggal 15 bahwa pendapatan kuartal pertama tahun ini mencapai 62 miliar won. Angka tersebut merupakan penjualan tertinggi perusahaan untuk periode kuartal pertama. Perusahaan menjelaskan bahwa pemulihan pasar China memengaruhi perbaikan kinerja. Pada periode yang sama, margin operasi tercatat 10,4%, sementara laba operasi meningkat 54% dibanding tahun sebelumnya. Hasil ini menunjukkan pertumbuhan penjualan sekaligus peningkatan profitabilitas pada kuartal tersebut. Jika pemulihan pasar China berlanjut, kinerja perusahaan ke depan diperkirakan tetap menjadi perhatian. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "43f81ea87a07",
-    "slug": "원화값-한-달여-만에-장중-1500원선-넘어코스피-7넘게-급락-696912",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T07:27:51.352Z",
-    "updatedAt": "2026-05-15T07:27:51.352Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049140",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049140",
-    "titleFingerprint": "19c2000e08fb8e01168caa88cb82c9af193b5982",
-    "dedupKeys": [
-      "43f81ea87a079bcb7124f98c92db5cd411d025c1",
-      "19c2000e08fb8e01168caa88cb82c9af193b5982",
-      "b82c3892593e3d92b5147a4aca8d82e20d9d993c"
-    ],
-    "imageUrl": "/images/articles/43f81ea87a07.jpg",
-    "i18n": {
-      "ko": {
-        "title": "원화값 장중 1500원선 돌파, 코스피 7%대 급락에 시장 긴장",
-        "excerpt": "15일 오후 서울 외환시장에서 달러당 원화값이 한 달여 만에 장중 1500원선을 넘고, 코스피가 7% 넘게 급락하며 금융시장 변동성이 커졌다.",
-        "body": "15일 오후 2시 13분 기준 서울 외환시장에서 달러당 원화값이 전 거래일 주간 거래 종가보다 오르며 한 달여 만에 장중 1500원선을 넘어섰다. 같은 시각 국내 증시에서는 코스피가 7%대 급락세를 보이고 있다. 환율이 1500원선을 다시 웃돌고 코스피 낙폭이 확대되면서 외환시장과 주식시장 전반의 변동성이 커진 모습이다. 이번 움직임은 원화 약세와 국내 증시 급락이 동시에 나타난 사례로, 투자자들은 장중 환율 흐름과 지수 낙폭을 주시하고 있다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Won Passes 1,500 Intraday as KOSPI Tumbles More Than 7%",
-        "excerpt": "On May 15 in Seoul, the won moved past 1,500 per dollar intraday for the first time in about a month, while the KOSPI plunged over 7%.",
-        "body": "As of 2:13 p.m. on May 15, the won traded above the 1,500-per-dollar level during intraday trading in Seoul’s foreign exchange market for the first time in about a month, rising from the previous daytime trading close. At the same time, South Korea’s KOSPI was falling by more than 7%. The return of the exchange rate above 1,500 and the sharp decline in the benchmark stock index highlighted increased volatility across both the currency and equity markets. Investors are watching the intraday exchange-rate move and the size of the index drop. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "ウォン相場が一時1500ウォン台、KOSPIは7％超急落",
-        "excerpt": "15日午後、ソウル外国為替市場でウォン相場が約1カ月ぶりに一時1ドル＝1500ウォン台を超え、KOSPIは7％超下落した。",
-        "body": "15日午後2時13分時点で、ソウル外国為替市場ではウォン相場が前営業日の昼間取引終値から上昇し、約1カ月ぶりに取引時間中に1ドル＝1500ウォン台を超えた。同じ時刻、韓国株式市場ではKOSPIが7％台の急落を見せている。為替レートが再び1500ウォン台を上回り、KOSPIの下げ幅も拡大したことで、外国為替市場と株式市場の変動性が高まった形だ。投資家は取引時間中の為替の動きと指数の下落幅を注視している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "韩元盘中跌破1500关口，KOSPI重挫逾7%引发关注",
-        "excerpt": "5月15日下午，首尔外汇市场韩元对美元汇率约一个月来盘中首次越过1500关口，KOSPI指数同时下跌超过7%。",
-        "body": "截至5月15日下午2时13分，首尔外汇市场韩元对美元汇率较前一交易日白天交易收盘水平上行，约一个月来盘中首次越过1500关口。与此同时，韩国股市KOSPI指数正出现7%以上的急跌。汇率重新站上1500一线，加上基准股指跌幅扩大，显示外汇市场和股票市场波动性同步上升。此次走势体现出韩元走弱与韩国股市急跌同时出现，投资者正关注盘中汇率变化和指数跌幅。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El won supera los 1.500 por dólar intradía y el KOSPI cae más de 7%",
-        "excerpt": "El 15 de mayo por la tarde, el won superó los 1.500 por dólar intradía en Seúl por primera vez en cerca de un mes, mientras el KOSPI caía más de 7%.",
-        "body": "A las 14:13 del 15 de mayo, en el mercado cambiario de Seúl, el won superó durante la sesión el nivel de 1.500 por dólar por primera vez en cerca de un mes, tras subir frente al cierre de la negociación diurna anterior. Al mismo tiempo, el KOSPI registraba una fuerte caída superior al 7%. El regreso del tipo de cambio por encima de 1.500 y la ampliación de las pérdidas del índice bursátil reflejan una mayor volatilidad tanto en el mercado de divisas como en el de acciones. Los inversores observan el movimiento intradía del cambio y la magnitud del descenso del índice. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Won passa de 1.500 por dólar no intradia e KOSPI cai mais de 7%",
-        "excerpt": "Na tarde de 15 de maio, em Seul, o won superou 1.500 por dólar no intradia pela primeira vez em cerca de um mês, enquanto o KOSPI recuava mais de 7%.",
-        "body": "Às 14h13 de 15 de maio, no mercado de câmbio de Seul, o won ultrapassou durante o pregão o nível de 1.500 por dólar pela primeira vez em cerca de um mês, avançando em relação ao fechamento da negociação diurna anterior. No mesmo horário, o KOSPI registrava queda superior a 7%. A volta da taxa de câmbio acima de 1.500 e a ampliação das perdas do principal índice acionário indicam maior volatilidade nos mercados de câmbio e de ações. Investidores acompanham o movimento intradiário do câmbio e o tamanho da queda do índice. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Won überschreitet intraday 1.500 je Dollar, KOSPI stürzt über 7% ab",
-        "excerpt": "Am Nachmittag des 15. Mai stieg der Won in Seoul erstmals seit rund einem Monat intraday über 1.500 je Dollar, während der KOSPI um mehr als 7% fiel.",
-        "body": "Um 14:13 Uhr am 15. Mai überschritt der Won am Devisenmarkt in Seoul im Tagesverlauf erstmals seit rund einem Monat wieder die Marke von 1.500 je Dollar und lag über dem Schlussstand des vorherigen Tageshandels. Gleichzeitig fiel der südkoreanische Leitindex KOSPI um mehr als 7%. Dass der Wechselkurs erneut über 1.500 stieg und der Aktienindex deutlich nachgab, zeigt eine erhöhte Volatilität an den Devisen- und Aktienmärkten. Anleger beobachten den intraday verlaufenden Wechselkurs und das Ausmaß des Indexrückgangs. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le won franchit 1 500 pour un dollar en séance, le KOSPI chute de plus de 7%",
-        "excerpt": "Le 15 mai après-midi à Séoul, le won a dépassé 1 500 pour un dollar en séance pour la première fois depuis environ un mois, tandis que le KOSPI reculait de plus de 7%.",
-        "body": "À 14h13 le 15 mai, sur le marché des changes de Séoul, le won a dépassé en séance le seuil de 1 500 pour un dollar pour la première fois depuis environ un mois, au-dessus de la clôture de la séance diurne précédente. Au même moment, l’indice KOSPI chutait de plus de 7%. Le retour du taux de change au-dessus de 1 500 et l’élargissement de la baisse de l’indice boursier traduisent une volatilité accrue sur les marchés des changes et des actions. Les investisseurs suivent l’évolution intrajournalière du change et l’ampleur du recul de l’indice. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "الوون يتجاوز 1500 للدولار خلال الجلسة وكوسبي يهبط بأكثر من 7%",
-        "excerpt": "في ظهر 15 مايو بسوق الصرف في سيول، تجاوز الوون مستوى 1500 للدولار خلال الجلسة لأول مرة منذ نحو شهر، بينما هبط مؤشر كوسبي بأكثر من 7%.",
-        "body": "حتى الساعة 2:13 بعد الظهر في 15 مايو، تجاوز سعر الوون في سوق الصرف في سيول مستوى 1500 مقابل الدولار خلال التعاملات للمرة الأولى منذ نحو شهر، مرتفعا عن إغلاق التداول النهاري في الجلسة السابقة. وفي الوقت نفسه، كان مؤشر كوسبي الكوري الجنوبي يتراجع بأكثر من 7%. عودة سعر الصرف إلى ما فوق 1500 واتساع هبوط المؤشر أظهرا زيادة التقلبات في سوقي العملات والأسهم. ويتابع المستثمرون حركة سعر الصرف خلال الجلسة وحجم تراجع المؤشر. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "वॉन इंट्राडे 1,500 प्रति डॉलर के पार, KOSPI 7% से अधिक टूटा",
-        "excerpt": "15 मई की दोपहर सियोल विदेशी मुद्रा बाजार में वॉन करीब एक महीने बाद इंट्राडे 1,500 प्रति डॉलर से ऊपर गया, जबकि KOSPI 7% से अधिक गिरा।",
-        "body": "15 मई को दोपहर 2:13 बजे तक सियोल विदेशी मुद्रा बाजार में वॉन पिछले कारोबारी दिन के दिन के सत्र के बंद स्तर से ऊपर जाते हुए करीब एक महीने बाद इंट्राडे 1,500 प्रति डॉलर के स्तर को पार कर गया। इसी समय दक्षिण कोरिया का KOSPI सूचकांक 7% से अधिक की तेज गिरावट दिखा रहा था। विनिमय दर के फिर 1,500 से ऊपर जाने और शेयर सूचकांक की गिरावट बढ़ने से मुद्रा और इक्विटी दोनों बाजारों में अस्थिरता बढ़ती दिखी। निवेशक इंट्राडे विनिमय दर और सूचकांक की गिरावट पर नजर रख रहे हैं। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Won Tembus 1.500 per Dolar Intraday, KOSPI Anjlok Lebih dari 7%",
-        "excerpt": "Pada sore 15 Mei di pasar valas Seoul, won menembus 1.500 per dolar secara intraday untuk pertama kali dalam sekitar sebulan, sementara KOSPI turun lebih dari 7%.",
-        "body": "Pada pukul 14.13 tanggal 15 Mei, di pasar valuta asing Seoul, won bergerak melewati level 1.500 per dolar selama perdagangan intraday untuk pertama kali dalam sekitar satu bulan, lebih tinggi dari penutupan perdagangan siang hari sebelumnya. Pada saat yang sama, indeks KOSPI Korea Selatan turun lebih dari 7%. Kembalinya kurs ke atas 1.500 dan membesarnya penurunan indeks saham menunjukkan meningkatnya volatilitas di pasar valuta asing dan saham. Investor mencermati pergerakan kurs intraday serta besarnya penurunan indeks. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "354c7b590c49",
-    "slug": "db증권-1분기-당기순이익-304억원-전년比-476-658157",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T07:26:59.001Z",
-    "updatedAt": "2026-05-15T07:26:59.001Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049142",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049142",
-    "titleFingerprint": "153e83586e282408a3fba090aeb2ec529583f992",
-    "dedupKeys": [
-      "354c7b590c4978eeb0b0d480598741b958f05b85",
-      "153e83586e282408a3fba090aeb2ec529583f992",
-      "98cc5b526cf068b3b9630ffbe3984c7aeace2ed7"
-    ],
-    "imageUrl": "/images/articles/354c7b590c49.png",
-    "i18n": {
-      "ko": {
-        "title": "DB증권 1분기 순이익 304억원, 전년 대비 47.6% 증가",
-        "excerpt": "DB증권은 15일 공시에서 1분기 매출 1조751억원, 영업이익 302억원, 당기순이익 304억원을 기록했다고 밝혔다. 고객자산도 전년 대비 37.4% 늘었다.",
-        "body": "DB증권은 15일 공시를 통해 올해 1분기 매출 1조751억원, 영업이익 302억원, 당기순이익 304억원을 기록했다고 밝혔다. 당기순이익은 전년 동기 대비 47.6% 증가했다. 매출은 전년 동기 대비 145.9% 늘었고, 고객자산도 전년 대비 37.4% 증가한 것으로 집계됐다. 실적 개선과 고객자산 확대가 함께 나타나면서 1분기 수익성과 영업 기반 흐름을 보여주는 지표로 해석된다. 다만 공시에서 확인된 수치 외 추가 전망이나 세부 요인은 제시되지 않았다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "DB Financial Investment Q1 Net Profit Rises 47.6% to 30.4 Billion Won",
-        "excerpt": "DB Financial Investment said in a May 15 filing that Q1 revenue reached 1.0751 trillion won, operating profit 30.2 billion won, and net profit 30.4 billion won.",
-        "body": "DB Financial Investment said in a filing on May 15 that it recorded first-quarter revenue of 1.0751 trillion won, operating profit of 30.2 billion won, and net profit of 30.4 billion won. Net profit increased 47.6% from the same period a year earlier. Revenue rose 145.9% year over year, while customer assets grew 37.4% from a year earlier. The figures show both improved quarterly earnings and an expanded customer asset base. However, no additional outlook or detailed factors beyond the disclosed figures were provided. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "DB証券、1四半期純利益304億ウォン 前年比47.6%増",
-        "excerpt": "DB証券は15日の公示で、1四半期の売上高が1兆751億ウォン、営業利益が302億ウォン、純利益が304億ウォンだったと明らかにした。顧客資産も37.4%増えた。",
-        "body": "DB証券は15日の公示を通じ、今年1四半期の売上高が1兆751億ウォン、営業利益が302億ウォン、当期純利益が304億ウォンだったと発表した。当期純利益は前年同期比47.6%増加した。売上高は前年同期比145.9%増え、顧客資産も前年より37.4%拡大したと集計された。業績改善と顧客資産の増加が同時に表れ、1四半期の収益性と営業基盤の流れを示す数値となった。ただし、公示で確認された数値以外の追加見通しや詳細要因は示されていない。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "DB证券一季度净利润304亿韩元，同比增长47.6%",
-        "excerpt": "DB证券15日公告称，一季度营收为1.0751万亿韩元，营业利润302亿韩元，净利润304亿韩元；客户资产同比增长37.4%。",
-        "body": "DB证券15日通过公告表示，今年第一季度实现营收1.0751万亿韩元、营业利润302亿韩元、当期净利润304亿韩元。当期净利润较去年同期增长47.6%。营收同比增长145.9%，客户资产也较上年增加37.4%。这些数据反映出一季度盈利能力改善以及客户资产基础扩大。不过，除公告中确认的数字外，未提供额外展望或更详细的原因说明。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "DB Financial Investment gana 30.400 millones de wones en el 1T, un 47,6% más",
-        "excerpt": "DB Financial Investment informó el 15 de mayo que en el primer trimestre registró ingresos de 1,0751 billones de wones, beneficio operativo de 30.200 millones y beneficio neto de 30.400 millones.",
-        "body": "DB Financial Investment informó en una comunicación del 15 de mayo que registró en el primer trimestre ingresos de 1,0751 billones de wones, beneficio operativo de 30.200 millones de wones y beneficio neto de 30.400 millones de wones. El beneficio neto aumentó un 47,6% frente al mismo periodo del año anterior. Los ingresos crecieron un 145,9% interanual y los activos de clientes subieron un 37,4% respecto al año previo. Las cifras muestran una mejora de resultados y una ampliación de la base de activos de clientes en el trimestre. No se ofrecieron previsiones adicionales ni causas detalladas fuera de los datos divulgados. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "DB Financial Investment tem lucro líquido de 30,4 bi de wones no 1º tri, alta de 47,6%",
-        "excerpt": "A DB Financial Investment informou em 15 de maio que teve receita de 1,0751 trilhão de wones, lucro operacional de 30,2 bilhões e lucro líquido de 30,4 bilhões no 1º trimestre.",
-        "body": "A DB Financial Investment informou em comunicado em 15 de maio que registrou no primeiro trimestre receita de 1,0751 trilhão de wones, lucro operacional de 30,2 bilhões de wones e lucro líquido de 30,4 bilhões de wones. O lucro líquido aumentou 47,6% em relação ao mesmo período do ano anterior. A receita cresceu 145,9% na comparação anual, enquanto os ativos de clientes avançaram 37,4% ante o ano anterior. Os números indicam melhora nos resultados trimestrais e expansão da base de ativos de clientes. Não foram apresentadas projeções adicionais nem fatores detalhados além dos dados divulgados. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "DB Financial Investment steigert Q1-Nettogewinn um 47,6% auf 30,4 Mrd. Won",
-        "excerpt": "DB Financial Investment meldete am 15. Mai für das erste Quartal 1,0751 Bio. Won Umsatz, 30,2 Mrd. Won operativen Gewinn und 30,4 Mrd. Won Nettogewinn.",
-        "body": "DB Financial Investment teilte in einer Mitteilung vom 15. Mai mit, im ersten Quartal einen Umsatz von 1,0751 Billionen Won, einen operativen Gewinn von 30,2 Milliarden Won und einen Nettogewinn von 30,4 Milliarden Won erzielt zu haben. Der Nettogewinn stieg gegenüber dem Vorjahreszeitraum um 47,6%. Der Umsatz legte im Jahresvergleich um 145,9% zu, während die Kundenvermögen gegenüber dem Vorjahr um 37,4% wuchsen. Die Zahlen zeigen eine Ergebnisverbesserung und eine Ausweitung der Kundenvermögensbasis im Quartal. Weitere Prognosen oder detaillierte Ursachen über die veröffentlichten Daten hinaus wurden nicht genannt. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "DB Financial Investment: bénéfice net du T1 en hausse de 47,6% à 30,4 Mds de wons",
-        "excerpt": "DB Financial Investment a déclaré le 15 mai un chiffre d’affaires trimestriel de 1 075,1 Mds de wons, un résultat opérationnel de 30,2 Mds et un bénéfice net de 30,4 Mds.",
-        "body": "DB Financial Investment a indiqué dans un avis publié le 15 mai avoir enregistré au premier trimestre un chiffre d’affaires de 1 075,1 milliards de wons, un résultat opérationnel de 30,2 milliards de wons et un bénéfice net de 30,4 milliards de wons. Le bénéfice net a progressé de 47,6% par rapport à la même période de l’an dernier. Le chiffre d’affaires a augmenté de 145,9% sur un an, tandis que les actifs des clients ont crû de 37,4% par rapport à l’année précédente. Ces chiffres montrent une amélioration des résultats et une base d’actifs clients élargie. Aucun autre élément de perspective ni facteur détaillé n’a été fourni au-delà des données publiées. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "DB Financial Investment تحقق صافي ربح 30.4 مليار وون في الربع الأول بارتفاع 47.6%",
-        "excerpt": "أعلنت DB Financial Investment في إفصاح يوم 15 مايو أن إيرادات الربع الأول بلغت 1.0751 تريليون وون، والربح التشغيلي 30.2 مليار وون، وصافي الربح 30.4 مليار وون.",
-        "body": "أعلنت DB Financial Investment في إفصاح يوم 15 مايو أنها سجلت في الربع الأول إيرادات قدرها 1.0751 تريليون وون، وربحا تشغيليا قدره 30.2 مليار وون، وصافي ربح قدره 30.4 مليار وون. وارتفع صافي الربح بنسبة 47.6% مقارنة بالفترة نفسها من العام السابق. كما زادت الإيرادات بنسبة 145.9% على أساس سنوي، ونمت أصول العملاء بنسبة 37.4% مقارنة بالعام السابق. وتظهر هذه الأرقام تحسنا في الربحية الفصلية واتساع قاعدة أصول العملاء. ولم يقدم الإفصاح توقعات إضافية أو عوامل تفصيلية أخرى خارج الأرقام المعلنة. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "DB Financial Investment का Q1 शुद्ध लाभ 47.6% बढ़कर 30.4 अरब वॉन",
-        "excerpt": "DB Financial Investment ने 15 मई की फाइलिंग में बताया कि पहली तिमाही में राजस्व 1.0751 ट्रिलियन वॉन, परिचालन लाभ 30.2 अरब वॉन और शुद्ध लाभ 30.4 अरब वॉन रहा।",
-        "body": "DB Financial Investment ने 15 मई को जारी फाइलिंग में कहा कि इस वर्ष पहली तिमाही में उसका राजस्व 1.0751 ट्रिलियन वॉन, परिचालन लाभ 30.2 अरब वॉन और शुद्ध लाभ 30.4 अरब वॉन रहा। शुद्ध लाभ पिछले वर्ष की समान अवधि की तुलना में 47.6% बढ़ा। राजस्व सालाना आधार पर 145.9% बढ़ा, जबकि ग्राहक परिसंपत्तियां पिछले वर्ष की तुलना में 37.4% बढ़ीं। ये आंकड़े तिमाही आय में सुधार और ग्राहक परिसंपत्ति आधार के विस्तार को दिखाते हैं। हालांकि, फाइलिंग में बताए गए आंकड़ों के अलावा कोई अतिरिक्त पूर्वानुमान या विस्तृत कारण नहीं दिए गए। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "DB Financial Investment Catat Laba Bersih Kuartal I 30,4 Miliar Won, Naik 47,6%",
-        "excerpt": "DB Financial Investment menyatakan dalam keterbukaan 15 Mei bahwa pendapatan kuartal I mencapai 1,0751 triliun won, laba operasi 30,2 miliar won, dan laba bersih 30,4 miliar won.",
-        "body": "DB Financial Investment menyatakan dalam keterbukaan pada 15 Mei bahwa pada kuartal pertama tahun ini perusahaan mencatat pendapatan 1,0751 triliun won, laba operasi 30,2 miliar won, dan laba bersih 30,4 miliar won. Laba bersih meningkat 47,6% dibandingkan periode yang sama tahun sebelumnya. Pendapatan naik 145,9% secara tahunan, sementara aset nasabah tumbuh 37,4% dibandingkan tahun sebelumnya. Angka-angka ini menunjukkan perbaikan profitabilitas kuartalan sekaligus perluasan basis aset nasabah. Namun, tidak ada prospek tambahan atau faktor rinci lain yang disampaikan di luar angka yang diumumkan. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "7bb311ce50c8",
-    "slug": "속보-코스피-8천피-찍고-급변침61-급락한-7493-마감-153067",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-15T07:26:03.534Z",
-    "updatedAt": "2026-05-15T07:26:03.534Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12049176",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049176",
-    "titleFingerprint": "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
-    "dedupKeys": [
-      "7bb311ce50c89d89284421e7cb2576bf4e89d4eb",
-      "ca87df193d11e05af3e51b0158f2fb0a3514b28e",
-      "6acb4174445516b735a1856c22c1a6f2d8a40c5c"
-    ],
-    "imageUrl": "/images/articles/7bb311ce50c8.jpg",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000 돌파 뒤 6.1% 급락, 7493 마감한 급변 장세",
-        "excerpt": "코스피가 15일 장 초반 8000선을 넘기며 ‘꿈의 8000피’를 돌파했지만 이후 하락 전환해 전일보다 488.23포인트, 6.12% 내린 7493에 마감했다.",
-        "body": "코스피가 15일 장 초반 8000선을 넘어서며 ‘꿈의 8000피’를 찍었지만, 이후 급격히 방향을 바꿔 7400선에서 거래를 마쳤다. 이날 코스피는 전일 대비 488.23포인트, 6.12% 하락한 7493에 마감했다. 장중 8000선 돌파라는 상징적 기록이 나온 직후 급락세로 전환되면서 시장 변동성이 크게 부각됐다. 지수는 8000선을 넘긴 뒤 상승분을 반납했고, 최종적으로 7500선 아래에서 마감하며 투자자들의 경계감을 키웠다. 이번 급변 장세는 단기 지수 흐름과 투자 심리에 영향을 줄 수 있는 흐름으로 평가된다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "KOSPI Slides 6.1% After Briefly Topping 8,000, Closes at 7,493",
-        "excerpt": "The KOSPI crossed the 8,000 mark early on May 15, reaching the so-called dream level, but later reversed sharply and closed down 488.23 points, or 6.12%, at 7,493.",
-        "body": "The KOSPI briefly moved above the 8,000 line in early trading on May 15, touching what was described as the “dream 8,000” level, but then changed direction sharply and ended in the 7,400 range. The index closed at 7,493, down 488.23 points, or 6.12%, from the previous session. The sharp fall after the symbolic intraday break above 8,000 highlighted significant market volatility. After giving back its earlier gains, the index finished below 7,500, adding to investor caution. The session’s abrupt reversal may weigh on short-term index sentiment and market psychology. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "KOSPI、8000突破後に6.1％急落 7493で取引終了",
-        "excerpt": "KOSPIは15日序盤に8000台を上回り「夢の8000」を突破したが、その後急反落し、前日比488.23ポイント、6.12％安の7493で終えた。",
-        "body": "KOSPIは15日の取引序盤に8000台を上回り、「夢の8000」に到達したものの、その後急速に方向を変え、7400台で取引を終えた。この日のKOSPIは前日比488.23ポイント、6.12％下落した7493で引けた。取引中に8000台を突破する象徴的な記録を付けた直後に急落へ転じ、市場の変動性が大きく意識された。指数は8000台突破後に上げ幅を失い、最終的に7500を下回って終了したことで、投資家の警戒感が強まった。今回の急変相場は短期的な指数の流れと投資心理に影響を与える動きとみられる。出典：mk.co.kr"
-      },
-      "zh": {
-        "title": "KOSPI冲上8000点后急跌6.1%，收于7493点",
-        "excerpt": "KOSPI在15日早盘突破8000点，触及所谓“梦想8000点”，但随后急转下跌，最终较前一交易日下跌488.23点，跌幅6.12%，收于7493点。",
-        "body": "KOSPI在15日早盘一度升破8000点，触及被称为“梦想8000点”的水平，但随后快速转向下跌，并在7400点区间收盘。当天KOSPI较前一交易日下跌488.23点，跌幅6.12%，收于7493点。盘中突破8000点这一象征性关口后立即出现急跌，凸显市场波动性明显扩大。指数在突破8000点后回吐涨幅，最终收在7500点下方，使投资者警惕情绪升温。此次行情急变被视为可能影响短期指数走势和投资心理的波动。来源：mk.co.kr"
-      },
-      "es": {
-        "title": "KOSPI cae 6,1% tras superar los 8.000 y cierra en 7.493 puntos",
-        "excerpt": "El KOSPI superó los 8.000 puntos al inicio de la sesión del 15 de mayo, pero luego giró bruscamente a la baja y cerró en 7.493, con una caída de 488,23 puntos, o 6,12%.",
-        "body": "El KOSPI superó brevemente la barrera de los 8.000 puntos al inicio de la sesión del 15 de mayo, alcanzando el llamado nivel soñado de 8.000, pero después cambió de dirección con fuerza y terminó en la zona de los 7.400. El índice cerró en 7.493 puntos, 488,23 puntos menos que la sesión anterior, una caída del 6,12%. El brusco descenso tras romper un umbral simbólico puso de relieve la elevada volatilidad del mercado. Tras devolver las ganancias iniciales, el índice terminó por debajo de los 7.500 puntos, aumentando la cautela entre los inversores. Este giro abrupto puede influir en la tendencia de corto plazo y en el ánimo del mercado. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "KOSPI cai 6,1% após superar 8.000 pontos e fecha em 7.493",
-        "excerpt": "O KOSPI passou dos 8.000 pontos no início do pregão de 15 de maio, mas depois virou forte para baixo e fechou em 7.493, queda de 488,23 pontos, ou 6,12%.",
-        "body": "O KOSPI ultrapassou brevemente a marca de 8.000 pontos no início do pregão de 15 de maio, atingindo o chamado nível dos sonhos, mas depois mudou rapidamente de direção e encerrou na faixa dos 7.400. O índice fechou em 7.493 pontos, queda de 488,23 pontos, ou 6,12%, ante a sessão anterior. A forte baixa logo após a superação simbólica dos 8.000 pontos destacou a elevada volatilidade do mercado. Depois de devolver os ganhos iniciais, o índice terminou abaixo de 7.500 pontos, ampliando a cautela dos investidores. A mudança brusca da sessão pode afetar o movimento de curto prazo do índice e o sentimento do mercado. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "KOSPI fällt nach Sprung über 8.000 um 6,1% und schließt bei 7.493",
-        "excerpt": "Der KOSPI stieg am 15. Mai im frühen Handel über 8.000 Punkte, drehte danach jedoch stark ins Minus und schloss 488,23 Punkte beziehungsweise 6,12% tiefer bei 7.493.",
-        "body": "Der KOSPI überschritt am 15. Mai im frühen Handel kurz die Marke von 8.000 Punkten und erreichte damit das sogenannte Traumziel von 8.000. Danach änderte der Index jedoch abrupt die Richtung und beendete den Handel im Bereich von 7.400 Punkten. Der KOSPI schloss bei 7.493 Punkten, 488,23 Punkte oder 6,12% niedriger als am Vortag. Der starke Rückgang unmittelbar nach dem symbolischen Sprung über 8.000 machte die hohe Marktvolatilität deutlich. Nachdem die frühen Gewinne abgegeben wurden, endete der Index unter 7.500 Punkten und verstärkte die Vorsicht der Anleger. Die abrupte Wende könnte den kurzfristigen Indexverlauf und die Marktstimmung beeinflussen. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Le KOSPI chute de 6,1% après avoir franchi 8 000, clôture à 7 493",
-        "excerpt": "Le KOSPI a dépassé les 8 000 points en début de séance le 15 mai, avant de se retourner brutalement et de clôturer à 7 493, en baisse de 488,23 points, soit 6,12%.",
-        "body": "Le KOSPI a brièvement franchi la barre des 8 000 points au début de la séance du 15 mai, atteignant le niveau qualifié de « 8 000 rêvé », avant de changer brusquement de direction et de terminer dans la zone des 7 400. L’indice a clôturé à 7 493 points, en baisse de 488,23 points, soit 6,12%, par rapport à la veille. La forte rechute après ce passage symbolique au-dessus de 8 000 a mis en évidence une volatilité marquée du marché. Après avoir effacé ses gains initiaux, l’indice a fini sous les 7 500 points, renforçant la prudence des investisseurs. Ce retournement soudain pourrait peser sur la tendance de court terme et le sentiment de marché. Source : mk.co.kr"
-      },
-      "ar": {
-        "title": "كوسبي يهبط 6.1% بعد تجاوز 8000 نقطة ويغلق عند 7493",
-        "excerpt": "تجاوز مؤشر كوسبي مستوى 8000 نقطة في بداية تداولات 15 مايو، لكنه تحول لاحقا إلى هبوط حاد وأغلق عند 7493 نقطة، متراجعا 488.23 نقطة أو 6.12%.",
-        "body": "تجاوز مؤشر كوسبي في بداية تداولات 15 مايو مستوى 8000 نقطة، ملامسا ما وُصف بمستوى «8000 الحلم»، لكنه غيّر اتجاهه بسرعة وأنهى الجلسة في نطاق 7400 نقطة. وأغلق المؤشر عند 7493 نقطة، منخفضا 488.23 نقطة عن الجلسة السابقة، أي بنسبة 6.12%. وجاء الهبوط الحاد بعد اختراق المستوى الرمزي 8000 ليبرز ارتفاع تقلبات السوق. وبعد أن تخلى المؤشر عن مكاسبه المبكرة، انتهى دون مستوى 7500 نقطة، ما زاد حذر المستثمرين. وقد يؤثر هذا التحول السريع في مسار المؤشر قصير الأجل ومعنويات السوق. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "KOSPI 8,000 पार करने के बाद 6.1% लुढ़का, 7,493 पर बंद",
-        "excerpt": "KOSPI ने 15 मई को शुरुआती कारोबार में 8,000 का स्तर पार कर ‘ड्रीम 8,000’ छुआ, लेकिन बाद में तेज गिरावट के साथ 488.23 अंक या 6.12% टूटकर 7,493 पर बंद हुआ।",
-        "body": "KOSPI ने 15 मई को शुरुआती कारोबार में 8,000 का स्तर पार कर तथाकथित ‘ड्रीम 8,000’ को छुआ, लेकिन इसके बाद सूचकांक ने तेजी से दिशा बदली और 7,400 के दायरे में बंद हुआ। उस दिन KOSPI पिछले सत्र से 488.23 अंक, यानी 6.12%, गिरकर 7,493 पर बंद हुआ। कारोबार के दौरान 8,000 का प्रतीकात्मक स्तर पार करने के तुरंत बाद आई तेज गिरावट ने बाजार की अस्थिरता को प्रमुखता से सामने रखा। सूचकांक ने शुरुआती बढ़त गंवा दी और अंत में 7,500 से नीचे बंद हुआ, जिससे निवेशकों की सतर्कता बढ़ी। यह अचानक बदलाव अल्पकालिक सूचकांक रुझान और बाजार धारणा को प्रभावित कर सकता है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "KOSPI Anjlok 6,1% Usai Tembus 8.000, Ditutup di 7.493",
-        "excerpt": "KOSPI menembus level 8.000 pada awal perdagangan 15 Mei, mencapai level yang disebut impian 8.000, tetapi kemudian berbalik tajam dan ditutup turun 488,23 poin atau 6,12% di 7.493.",
-        "body": "KOSPI sempat bergerak di atas level 8.000 pada awal perdagangan 15 Mei, menyentuh level yang disebut sebagai “impian 8.000”, tetapi kemudian berbalik tajam dan mengakhiri perdagangan di kisaran 7.400. Indeks ditutup di 7.493, turun 488,23 poin atau 6,12% dibanding sesi sebelumnya. Penurunan tajam setelah penembusan simbolis 8.000 menyoroti besarnya volatilitas pasar. Setelah melepas kenaikan awal, indeks akhirnya ditutup di bawah 7.500, sehingga meningkatkan kewaspadaan investor. Perubahan arah yang cepat ini dapat memengaruhi pergerakan indeks jangka pendek dan sentimen pasar. Sumber: mk.co.kr"
       }
     }
   }
