@@ -1,5 +1,230 @@
 [
   {
+    "id": "018cc6a77942",
+    "slug": "영업이익-1조-넘었다어닝-서프라이즈-한국금융지주-강세-매경-자이앤트-224307",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T03:20:01.462Z",
+    "updatedAt": "2026-05-15T03:20:01.462Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12048998",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048998",
+    "titleFingerprint": "5af4c49abbaef2f9adec8928fe4b3421196fc279",
+    "dedupKeys": [
+      "018cc6a779424e1d04017d45360b6e5349f46a23",
+      "5af4c49abbaef2f9adec8928fe4b3421196fc279",
+      "49a1c85c4f5d1d869a5fe8fa7a08c4244f36528a"
+    ],
+    "imageUrl": "/images/articles/018cc6a77942.png",
+    "i18n": {
+      "ko": {
+        "title": "한국금융지주, 1분기 어닝 서프라이즈에 6%대 강세…영업이익 1조 돌파",
+        "excerpt": "한국금융지주는 15일 오전 10시17분 1분기 어닝 서프라이즈 영향으로 전 거래일보다 1만6000원 오른 27만4000원에 거래됐다.",
+        "body": "한국금융지주가 1분기 어닝 서프라이즈 발표 이후 15일 장중 강세를 보였다. 이날 오전 10시17분 한국금융지주는 전 거래일보다 1만6000원, 6.2% 오른 27만4000원에 거래됐다. 원문 제목에 따르면 한국금융지주의 영업이익은 1조원을 넘어선 것으로 전해졌다. 시장에서는 1분기 실적 개선이 주가 상승의 직접적인 배경으로 반영된 모습이다. 다만 향후 주가 흐름은 추가 실적 확인과 시장 수급에 따라 달라질 수 있다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "Korea Investment Holdings jumps over 6% after Q1 earnings surprise and operating profit tops 1 trillion won",
+        "excerpt": "Korea Investment Holdings traded at 274,000 won at 10:17 a.m. on May 15, up 16,000 won, or 6.2%, after reporting a first-quarter earnings surprise.",
+        "body": "Korea Investment Holdings strengthened intraday on May 15 after announcing a first-quarter earnings surprise. At 10:17 a.m., the stock was trading at 274,000 won, up 16,000 won, or 6.2%, from the previous session. According to the original headline, the company’s operating profit exceeded 1 trillion won. The share-price move reflected the market’s immediate response to improved first-quarter results. Future stock performance may depend on additional earnings confirmation and market supply-demand conditions. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "韓国金融持株、1Q好決算で6％超上昇…営業利益は1兆ウォン突破",
+        "excerpt": "韓国金融持株は15日午前10時17分、1四半期の業績サプライズを受け、前営業日比1万6000ウォン高の27万4000ウォンで取引された。",
+        "body": "韓国金融持株は、1四半期の業績サプライズ発表後、15日の取引中に強含んだ。同日午前10時17分時点で、同社株は前営業日比1万6000ウォン、6.2％高の27万4000ウォンで取引された。原文の見出しによると、韓国金融持株の営業利益は1兆ウォンを超えた。市場では、1四半期の業績改善が株価上昇の直接的な背景として受け止められた。今後の株価動向は追加の業績確認や市場需給に左右される可能性がある。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "韩国金融控股一季度业绩超预期股价涨逾6%，营业利润突破1万亿韩元",
+        "excerpt": "韩国金融控股5月15日上午10时17分因一季度业绩超预期，较前一交易日上涨1.6万韩元，报27.4万韩元。",
+        "body": "韩国金融控股在发布一季度业绩超预期消息后，于5月15日盘中走强。当天上午10时17分，该股较前一交易日上涨1.6万韩元，涨幅6.2%，报27.4万韩元。根据原文标题，韩国金融控股营业利润已超过1万亿韩元。市场反应显示，一季度业绩改善成为股价上涨的直接背景。不过，后续股价走势仍可能取决于进一步业绩确认以及市场供需情况。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Korea Investment Holdings sube más del 6% tras sorpresa de resultados y beneficio operativo sobre 1 billón de wones",
+        "excerpt": "Korea Investment Holdings cotizaba el 15 de mayo a las 10:17 a 274.000 wones, 16.000 wones o 6,2% más, tras una sorpresa de resultados del primer trimestre.",
+        "body": "Korea Investment Holdings mostró fortaleza intradía el 15 de mayo tras anunciar una sorpresa de resultados del primer trimestre. A las 10:17, la acción cotizaba a 274.000 wones, 16.000 wones o 6,2% por encima de la sesión anterior. Según el titular original, el beneficio operativo de la compañía superó 1 billón de wones. El movimiento reflejó la reacción inmediata del mercado a la mejora de los resultados trimestrales. La evolución posterior dependerá de nuevas confirmaciones de resultados y de la oferta y demanda del mercado. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Korea Investment Holdings sobe mais de 6% após surpresa no 1º trimestre e lucro operacional acima de 1 trilhão de won",
+        "excerpt": "A Korea Investment Holdings era negociada em 15 de maio, às 10h17, a 274.000 won, alta de 16.000 won ou 6,2%, após surpresa nos resultados do 1º trimestre.",
+        "body": "A Korea Investment Holdings avançou no pregão de 15 de maio após anunciar uma surpresa nos resultados do primeiro trimestre. Às 10h17, a ação era negociada a 274.000 won, alta de 16.000 won, ou 6,2%, frente ao fechamento anterior. Segundo o título original, o lucro operacional da empresa superou 1 trilhão de won. O movimento refletiu a resposta imediata do mercado à melhora dos resultados trimestrais. O desempenho futuro das ações pode depender de novas confirmações de resultados e das condições de oferta e demanda do mercado. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "Korea Investment Holdings steigt nach Q1-Überraschung über 6%, operativer Gewinn über 1 Billion Won",
+        "excerpt": "Korea Investment Holdings notierte am 15. Mai um 10:17 Uhr bei 274.000 Won, 16.000 Won oder 6,2% höher, nachdem das Unternehmen eine Q1-Ergebnisüberraschung meldete.",
+        "body": "Korea Investment Holdings legte am 15. Mai im Tagesverlauf zu, nachdem das Unternehmen eine Ergebnisüberraschung für das erste Quartal gemeldet hatte. Um 10:17 Uhr wurde die Aktie bei 274.000 Won gehandelt, 16.000 Won oder 6,2% über dem Vortag. Laut der ursprünglichen Überschrift überstieg der operative Gewinn des Unternehmens 1 Billion Won. Die Kursbewegung spiegelte die unmittelbare Marktreaktion auf die verbesserten Quartalszahlen wider. Der weitere Verlauf kann von zusätzlichen Ergebnisbestätigungen und der Marktliquidität abhängen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Korea Investment Holdings bondit de plus de 6% après une surprise au T1 et un résultat opérationnel au-delà de 1 000 milliards de wons",
+        "excerpt": "Korea Investment Holdings cotait le 15 mai à 10h17 à 274 000 wons, en hausse de 16 000 wons ou 6,2%, après une surprise sur ses résultats du premier trimestre.",
+        "body": "Korea Investment Holdings s’est renforcé en séance le 15 mai après l’annonce d’une surprise sur ses résultats du premier trimestre. À 10h17, l’action se négociait à 274 000 wons, en hausse de 16 000 wons, soit 6,2%, par rapport à la séance précédente. Selon le titre original, le résultat opérationnel de la société a dépassé 1 000 milliards de wons. Le mouvement traduit la réaction immédiate du marché à l’amélioration des résultats trimestriels. La suite dépendra de nouvelles confirmations de résultats et des conditions d’offre et de demande. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "كوريا إنفستمنت هولدينغز ترتفع بأكثر من 6% بعد مفاجأة أرباح الربع الأول وتجاوز الربح التشغيلي تريليون وون",
+        "excerpt": "تداول سهم كوريا إنفستمنت هولدينغز في 15 مايو عند الساعة 10:17 صباحا بسعر 274 ألف وون، مرتفعا 16 ألف وون أو 6.2% بعد مفاجأة نتائج الربع الأول.",
+        "body": "ارتفع سهم كوريا إنفستمنت هولدينغز خلال جلسة 15 مايو بعد إعلان مفاجأة في نتائج الربع الأول. وعند الساعة 10:17 صباحا، جرى تداول السهم عند 274 ألف وون، بزيادة 16 ألف وون أو 6.2% عن الجلسة السابقة. ووفقا للعنوان الأصلي، تجاوز الربح التشغيلي للشركة تريليون وون. يعكس التحرك استجابة السوق المباشرة لتحسن نتائج الربع الأول. وقد يعتمد مسار السهم لاحقا على تأكيدات إضافية للنتائج وظروف العرض والطلب في السوق. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "Korea Investment Holdings Q1 अर्निंग सरप्राइज के बाद 6% से अधिक चढ़ा, परिचालन लाभ 1 ट्रिलियन वॉन के पार",
+        "excerpt": "Korea Investment Holdings का शेयर 15 मई सुबह 10:17 बजे 274,000 वॉन पर कारोबार कर रहा था, Q1 अर्निंग सरप्राइज के बाद 16,000 वॉन या 6.2% ऊपर।",
+        "body": "Korea Investment Holdings ने पहली तिमाही के अर्निंग सरप्राइज की घोषणा के बाद 15 मई को इंट्राडे कारोबार में मजबूती दिखाई। सुबह 10:17 बजे शेयर पिछले सत्र से 16,000 वॉन, यानी 6.2%, बढ़कर 274,000 वॉन पर कारोबार कर रहा था। मूल शीर्षक के अनुसार, कंपनी का परिचालन लाभ 1 ट्रिलियन वॉन से अधिक रहा। बाजार की प्रतिक्रिया से संकेत मिला कि पहली तिमाही के बेहतर नतीजे शेयर बढ़त की सीधी वजह बने। आगे की चाल अतिरिक्त नतीजों की पुष्टि और बाजार की मांग-आपूर्ति पर निर्भर कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "Korea Investment Holdings menguat lebih dari 6% usai kejutan laba kuartal I dan laba operasi tembus 1 triliun won",
+        "excerpt": "Korea Investment Holdings diperdagangkan pada 15 Mei pukul 10.17 di 274.000 won, naik 16.000 won atau 6,2%, setelah melaporkan kejutan laba kuartal pertama.",
+        "body": "Korea Investment Holdings menguat intraday pada 15 Mei setelah mengumumkan kejutan laba kuartal pertama. Pada pukul 10.17, sahamnya diperdagangkan di 274.000 won, naik 16.000 won atau 6,2% dari sesi sebelumnya. Menurut judul asli, laba operasi perusahaan melampaui 1 triliun won. Pergerakan tersebut mencerminkan respons langsung pasar terhadap perbaikan kinerja kuartal pertama. Arah saham berikutnya dapat bergantung pada konfirmasi kinerja tambahan serta kondisi penawaran dan permintaan pasar. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "857e698a5bc7",
+    "slug": "가상자산-명확하게-클래리티법-미국-상원-본회의-간다디지털-자산-관련주-일제히-환호-904076",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T03:19:06.153Z",
+    "updatedAt": "2026-05-15T03:19:06.153Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049003",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049003",
+    "titleFingerprint": "7bccc9db707303081cd4f04449fe3d9132b5afab",
+    "dedupKeys": [
+      "857e698a5bc72b9554095c0d54eca1d82e27ab9a",
+      "7bccc9db707303081cd4f04449fe3d9132b5afab",
+      "d428fbe0f5a52f278e391ed2a79f070fc9280f9c"
+    ],
+    "imageUrl": "/images/articles/857e698a5bc7.png",
+    "i18n": {
+      "ko": {
+        "title": "클래리티법 상원 본회의行, 디지털 자산 관련주 기대감 확대",
+        "excerpt": "미국 디지털 자산 규제의 뼈대가 될 클래리티법이 상원 은행위원회를 통과해 본회의로 향하면서 코인베이스 등 관련주가 상승했다.",
+        "body": "미국에서 디지털 자산 규제의 핵심 틀이 될 클래리티법(CLARITY Act)이 상원 은행위원회를 통과해 상원 본회의로 향한다. 이 법안은 가상자산 규제의 경계를 더 명확히 하려는 취지로 추진되고 있으며, 관련 업계와 투자자들의 기대를 키웠다. 원문에 따르면 클래리티법 기대감 속에 코인베이스 주가는 5% 올랐고, 디지털 자산 관련주도 일제히 환호했다. 법안은 스테이블코인 보상 일부를 허용할 가능성이 있는 것으로 전해졌다. 향후 상원 본회의 논의가 미국 디지털 자산 시장의 규제 방향과 관련 기업 주가 흐름에 영향을 줄 전망이다. 출처: mk.co.kr"
+      },
+      "en": {
+        "title": "CLARITY Act Heads to Senate Floor as Digital Asset Stocks Rally",
+        "excerpt": "The CLARITY Act, set to shape U.S. digital asset regulation, passed the Senate Banking Committee and lifted shares including Coinbase.",
+        "body": "The CLARITY Act, expected to become a key framework for digital asset regulation in the United States, has passed the Senate Banking Committee and is headed to the full Senate. The bill is aimed at making the boundaries of crypto regulation clearer, raising expectations among the industry and investors. According to the original report, Coinbase shares rose 5% on optimism over the CLARITY Act, while digital asset-related stocks broadly welcomed the news. The bill is also expected to allow some stablecoin rewards. The upcoming Senate floor debate is likely to influence the regulatory direction of the U.S. digital asset market and the share performance of related companies. Source: mk.co.kr"
+      },
+      "ja": {
+        "title": "クラリティ法が米上院本会議へ、デジタル資産株に期待感",
+        "excerpt": "米国のデジタル資産規制の骨格となるクラリティ法が上院銀行委員会を通過し、コインベースなど関連株が上昇した。",
+        "body": "米国でデジタル資産規制の中核的な枠組みになるとみられるクラリティ法（CLARITY Act）が、上院銀行委員会を通過し、上院本会議へ進む。法案は暗号資産規制の境界をより明確にする目的で進められており、業界と投資家の期待を高めた。原文によると、クラリティ法への期待を背景にコインベース株は5%上昇し、デジタル資産関連株もそろって好感した。法案はステーブルコイン報酬の一部を認める可能性があると伝えられている。今後の上院本会議での議論は、米国デジタル資産市場の規制方向と関連企業の株価動向に影響を与える見通しだ。出典: mk.co.kr"
+      },
+      "zh": {
+        "title": "CLARITY法案将提交美国参议院全院，数字资产股受提振",
+        "excerpt": "美国数字资产监管框架关键法案CLARITY Act通过参议院银行委员会，推动Coinbase等相关股票上涨。",
+        "body": "被视为美国数字资产监管核心框架的CLARITY Act已通过参议院银行委员会，并将提交参议院全院审议。该法案旨在进一步明确加密资产监管边界，提升了行业和投资者预期。根据原文报道，在CLARITY法案预期推动下，Coinbase股价上涨5%，数字资产相关股票也普遍受到提振。报道称，该法案可能允许部分稳定币奖励。接下来参议院全院的讨论，预计将影响美国数字资产市场的监管方向以及相关企业股价走势。来源: mk.co.kr"
+      },
+      "es": {
+        "title": "Ley CLARITY avanza al pleno del Senado y anima acciones cripto",
+        "excerpt": "La ley CLARITY, clave para la regulación de activos digitales en EE. UU., pasó el Comité Bancario del Senado y elevó acciones como Coinbase.",
+        "body": "La ley CLARITY Act, que se perfila como un marco clave para regular los activos digitales en Estados Unidos, superó el Comité Bancario del Senado y pasará al pleno. La iniciativa busca aclarar los límites de la regulación de los criptoactivos, lo que aumentó las expectativas del sector y de los inversores. Según el reporte original, las acciones de Coinbase subieron un 5% por el optimismo en torno a la ley CLARITY, mientras que los valores vinculados a activos digitales reaccionaron al alza. El proyecto también podría permitir parte de las recompensas en stablecoins. El debate en el pleno del Senado podría influir en el rumbo regulatorio del mercado estadounidense de activos digitales y en las acciones del sector. Fuente: mk.co.kr"
+      },
+      "pt": {
+        "title": "Lei CLARITY vai ao plenário do Senado e impulsiona ações cripto",
+        "excerpt": "A Lei CLARITY, base potencial da regulação de ativos digitais nos EUA, passou pelo Comitê Bancário do Senado e elevou Coinbase e pares.",
+        "body": "A Lei CLARITY Act, vista como uma estrutura central para a regulação de ativos digitais nos Estados Unidos, foi aprovada no Comitê Bancário do Senado e seguirá para o plenário. O projeto busca tornar mais claros os limites da regulação de criptoativos, elevando as expectativas do setor e dos investidores. Segundo a reportagem original, as ações da Coinbase subiram 5% com o otimismo em torno da Lei CLARITY, enquanto papéis ligados a ativos digitais também reagiram positivamente. O texto poderá permitir parte das recompensas em stablecoins. A discussão no plenário do Senado deve influenciar a direção regulatória do mercado de ativos digitais dos EUA e o desempenho das empresas relacionadas. Fonte: mk.co.kr"
+      },
+      "de": {
+        "title": "CLARITY Act vor Senatsplenum: Digital-Asset-Aktien legen zu",
+        "excerpt": "Der CLARITY Act als möglicher Rahmen für US-Digitalasset-Regulierung passierte den Bankenausschuss des Senats und stützte Coinbase und andere Werte.",
+        "body": "Der CLARITY Act, der in den USA zu einem zentralen Rahmen für die Regulierung digitaler Vermögenswerte werden könnte, hat den Bankenausschuss des Senats passiert und geht nun ins Senatsplenum. Der Gesetzentwurf soll die Grenzen der Kryptoregulierung klarer fassen und schürte Erwartungen in Branche und Anlegerkreis. Dem Originalbericht zufolge stieg die Coinbase-Aktie wegen der Hoffnung auf den CLARITY Act um 5%, während Aktien mit Bezug zu digitalen Vermögenswerten insgesamt positiv reagierten. Das Gesetz dürfte zudem einen Teil der Stablecoin-Belohnungen erlauben. Die weitere Beratung im Senatsplenum könnte die regulatorische Richtung des US-Digitalasset-Marktes und die Kurse betroffener Unternehmen beeinflussen. Quelle: mk.co.kr"
+      },
+      "fr": {
+        "title": "Le CLARITY Act arrive au Sénat et soutient les actions crypto",
+        "excerpt": "Le CLARITY Act, futur cadre possible de la régulation des actifs numériques aux États-Unis, a franchi la commission bancaire du Sénat et porté Coinbase.",
+        "body": "Le CLARITY Act, appelé à devenir un cadre clé de la régulation des actifs numériques aux États-Unis, a été adopté par la commission bancaire du Sénat et va être examiné en séance plénière. Le texte vise à clarifier les frontières de la réglementation des cryptoactifs, renforçant les attentes du secteur et des investisseurs. Selon l’article d’origine, l’action Coinbase a gagné 5% grâce à l’optimisme autour du CLARITY Act, tandis que les valeurs liées aux actifs numériques ont également réagi favorablement. Le projet pourrait aussi autoriser une partie des récompenses en stablecoins. Le débat au Sénat devrait influencer l’orientation réglementaire du marché américain des actifs numériques et l’évolution des actions concernées. Source: mk.co.kr"
+      },
+      "ar": {
+        "title": "قانون CLARITY يتجه إلى مجلس الشيوخ وأسهم الأصول الرقمية ترتفع",
+        "excerpt": "تقدم قانون CLARITY، المرشح لتشكيل إطار تنظيم الأصول الرقمية في الولايات المتحدة، بعد مروره بلجنة البنوك في مجلس الشيوخ ودعم أسهم مثل Coinbase.",
+        "body": "اجتاز قانون CLARITY Act، المتوقع أن يشكل إطارا رئيسيا لتنظيم الأصول الرقمية في الولايات المتحدة، لجنة البنوك في مجلس الشيوخ وسيتجه إلى الجلسة العامة. يهدف مشروع القانون إلى جعل حدود تنظيم الأصول المشفرة أكثر وضوحا، ما عزز توقعات القطاع والمستثمرين. ووفقا للتقرير الأصلي، ارتفع سهم Coinbase بنسبة 5% وسط التفاؤل بقانون CLARITY، كما رحبت أسهم الشركات المرتبطة بالأصول الرقمية بالخبر. ومن المتوقع أن يسمح القانون بجزء من مكافآت العملات المستقرة. وقد تؤثر مناقشات الجلسة العامة في مجلس الشيوخ على اتجاه تنظيم سوق الأصول الرقمية الأميركية وحركة أسهم الشركات ذات الصلة. المصدر: mk.co.kr"
+      },
+      "hi": {
+        "title": "CLARITY Act सीनेट फ्लोर पर, डिजिटल एसेट शेयरों में तेजी",
+        "excerpt": "अमेरिका में डिजिटल एसेट रेगुलेशन की रूपरेखा माने जा रहे CLARITY Act ने सीनेट बैंकिंग कमेटी पार की, जिससे Coinbase समेत संबंधित शेयर चढ़े।",
+        "body": "अमेरिका में डिजिटल एसेट रेगुलेशन का अहम ढांचा बनने वाला CLARITY Act सीनेट बैंकिंग कमेटी से पारित होकर सीनेट के पूर्ण सदन में जाएगा। इस बिल का उद्देश्य क्रिप्टो एसेट रेगुलेशन की सीमाओं को अधिक स्पष्ट करना है, जिससे उद्योग और निवेशकों की उम्मीदें बढ़ीं। मूल रिपोर्ट के अनुसार, CLARITY Act को लेकर आशावाद के बीच Coinbase का शेयर 5% चढ़ा और डिजिटल एसेट से जुड़े शेयरों में भी सकारात्मक प्रतिक्रिया दिखी। बताया गया है कि बिल स्टेबलकॉइन रिवार्ड के कुछ हिस्से की अनुमति दे सकता है। आगे सीनेट में होने वाली चर्चा अमेरिकी डिजिटल एसेट बाजार की नियामकीय दिशा और संबंधित कंपनियों के शेयरों को प्रभावित कर सकती है। स्रोत: mk.co.kr"
+      },
+      "id": {
+        "title": "CLARITY Act Menuju Senat, Saham Aset Digital Menguat",
+        "excerpt": "CLARITY Act, calon kerangka regulasi aset digital AS, lolos Komite Perbankan Senat dan mendorong kenaikan Coinbase serta saham terkait.",
+        "body": "CLARITY Act, yang diperkirakan menjadi kerangka utama regulasi aset digital di Amerika Serikat, telah lolos dari Komite Perbankan Senat dan akan dibawa ke sidang penuh Senat. RUU ini bertujuan memperjelas batas regulasi aset kripto, sehingga meningkatkan ekspektasi industri dan investor. Menurut laporan asli, saham Coinbase naik 5% karena optimisme terhadap CLARITY Act, sementara saham terkait aset digital juga menyambut positif kabar tersebut. RUU itu disebut berpotensi mengizinkan sebagian imbalan stablecoin. Pembahasan berikutnya di sidang penuh Senat diperkirakan memengaruhi arah regulasi pasar aset digital AS dan pergerakan saham perusahaan terkait. Sumber: mk.co.kr"
+      }
+    }
+  },
+  {
+    "id": "a9c607a26507",
+    "slug": "메디아나-1분기-매출수익성-동반-성장-2분기-신제품-효과-본격화-기대-386050",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-05-15T03:18:10.570Z",
+    "updatedAt": "2026-05-15T03:18:10.570Z",
+    "sourceName": "mk.co.kr",
+    "sourceUrl": "https://www.mk.co.kr/news/stock/12049005",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12049005",
+    "titleFingerprint": "b8af7cb45b9b953168e0f43bdae81aec527183eb",
+    "dedupKeys": [
+      "a9c607a26507c29eeecceb97352e2935d14c75e2",
+      "b8af7cb45b9b953168e0f43bdae81aec527183eb",
+      "106df23a7db47ff95efc5467c14f7fbd0e382521"
+    ],
+    "imageUrl": "/images/articles/a9c607a26507.png",
+    "i18n": {
+      "ko": {
+        "title": "메디아나 1분기 매출 161억원, 수익성 동반 성장에 신제품 효과 주목",
+        "excerpt": "셀바스AI 계열사 메디아나는 올해 1분기 연결 기준 매출 161억원과 영업이익 16억원을 기록하며 최근 3개년 1분기 최대 매출을 달성했다.",
+        "body": "셀바스AI 계열사 메디아나는 올해 1분기 연결 기준 매출 161억원, 영업이익 16억원을 기록했다고 밝혔다. 매출은 최근 3개년 기준 1분기 최대 수준으로 집계됐으며, 수익성도 함께 성장한 것으로 제시됐다. 회사는 1분기 실적 개선을 바탕으로 2분기에는 신제품 효과가 본격화될 것으로 기대하고 있다. 이번 발표는 매출 성장과 영업이익 확보가 동시에 나타났다는 점에서 향후 분기 실적 흐름을 가늠할 지표로 주목된다. 출처: mk.co.kr."
+      },
+      "en": {
+        "title": "Mediana Q1 Revenue Hits KRW 16.1 Billion as Profitability Also Improves",
+        "excerpt": "Selvas AI affiliate Mediana posted consolidated Q1 revenue of KRW 16.1 billion and operating profit of KRW 1.6 billion, its highest first-quarter revenue in three years.",
+        "body": "Mediana, an affiliate of Selvas AI, said it recorded consolidated revenue of KRW 16.1 billion and operating profit of KRW 1.6 billion in the first quarter of this year. Revenue marked the company’s highest first-quarter level in the past three years, while profitability also improved. Based on the stronger first-quarter performance, the company expects the impact of new products to become more visible in the second quarter. The announcement is being watched as a sign of both sales growth and operating profit generation in the same period. Source: mk.co.kr."
+      },
+      "ja": {
+        "title": "メディアナ第1四半期売上161億ウォン、収益性も改善し新製品効果に注目",
+        "excerpt": "セルバスAI系列会社のメディアナは、今年第1四半期の連結売上高161億ウォン、営業利益16億ウォンを記録し、直近3年で最大の第1四半期売上となった。",
+        "body": "セルバスAIの系列会社であるメディアナは、今年第1四半期の連結基準で売上高161億ウォン、営業利益16億ウォンを記録したと明らかにした。売上高は直近3年を基準に第1四半期として最大水準となり、収益性も同時に伸びたと示された。同社は第1四半期の業績改善を踏まえ、第2四半期には新製品効果が本格化すると期待している。今回の発表は、売上成長と営業利益の確保が同時に表れた点で、今後の四半期業績の流れを測る材料として注目される。出所: mk.co.kr."
+      },
+      "zh": {
+        "title": "Mediana一季度营收达161亿韩元，盈利能力同步改善受关注",
+        "excerpt": "Selvas AI旗下公司Mediana今年一季度合并口径营收161亿韩元、营业利润16亿韩元，创近三年来一季度最高营收。",
+        "body": "Selvas AI旗下公司Mediana表示，今年第一季度按合并口径实现营收161亿韩元，营业利润16亿韩元。该营收为近三年来第一季度最高水平，同时公司也呈现盈利能力改善。基于第一季度业绩提升，公司预计第二季度新产品效果将正式显现。此次发布显示销售增长与营业利润取得同步出现，因此被视为观察后续季度业绩走势的一个指标。来源: mk.co.kr."
+      },
+      "es": {
+        "title": "Mediana alcanza KRW 16.100 millones en ingresos del 1T y mejora rentabilidad",
+        "excerpt": "La afiliada de Selvas AI, Mediana, registró en el primer trimestre ingresos consolidados de KRW 16.100 millones y beneficio operativo de KRW 1.600 millones.",
+        "body": "Mediana, afiliada de Selvas AI, informó que en el primer trimestre de este año registró ingresos consolidados de KRW 16.100 millones y beneficio operativo de KRW 1.600 millones. Los ingresos representaron el mayor nivel para un primer trimestre en los últimos tres años, mientras la rentabilidad también mejoró. Con base en el avance del primer trimestre, la compañía espera que el efecto de nuevos productos se materialice con más fuerza en el segundo trimestre. El anuncio llama la atención porque combina crecimiento de ventas y beneficio operativo en el mismo periodo. Fuente: mk.co.kr."
+      },
+      "pt": {
+        "title": "Mediana registra receita de KRW 16,1 bi no 1T e avanço simultâneo da rentabilidade",
+        "excerpt": "A afiliada da Selvas AI, Mediana, reportou receita consolidada de KRW 16,1 bilhões e lucro operacional de KRW 1,6 bilhão no primeiro trimestre deste ano.",
+        "body": "A Mediana, afiliada da Selvas AI, informou que registrou receita consolidada de KRW 16,1 bilhões e lucro operacional de KRW 1,6 bilhão no primeiro trimestre deste ano. A receita foi a maior para um primeiro trimestre nos últimos três anos, enquanto a rentabilidade também apresentou crescimento. Com base na melhora do desempenho no primeiro trimestre, a empresa espera que o efeito de novos produtos se torne mais evidente no segundo trimestre. O anúncio chama atenção por mostrar crescimento de vendas e geração de lucro operacional no mesmo período. Fonte: mk.co.kr."
+      },
+      "de": {
+        "title": "Mediana erzielt im ersten Quartal 16,1 Mrd. Won Umsatz und höhere Profitabilität",
+        "excerpt": "Die Selvas-AI-Tochter Mediana meldete für das erste Quartal einen Konzernumsatz von 16,1 Mrd. Won und ein operatives Ergebnis von 1,6 Mrd. Won.",
+        "body": "Mediana, ein Unternehmen aus dem Umfeld von Selvas AI, teilte mit, im ersten Quartal dieses Jahres auf Konzernbasis einen Umsatz von 16,1 Mrd. Won und ein operatives Ergebnis von 1,6 Mrd. Won erzielt zu haben. Der Umsatz erreichte den höchsten Wert für ein erstes Quartal in den vergangenen drei Jahren, zugleich verbesserte sich die Profitabilität. Auf Grundlage der besseren Zahlen im ersten Quartal erwartet das Unternehmen, dass sich der Effekt neuer Produkte im zweiten Quartal stärker entfaltet. Die Meldung gilt als Hinweis auf gleichzeitiges Umsatzwachstum und operative Ertragskraft. Quelle: mk.co.kr."
+      },
+      "fr": {
+        "title": "Mediana réalise 16,1 milliards de wons de revenus au 1er trimestre et améliore sa rentabilité",
+        "excerpt": "La société Mediana, affiliée à Selvas AI, a enregistré au premier trimestre un chiffre d’affaires consolidé de 16,1 milliards de wons et un résultat opérationnel de 1,6 milliard.",
+        "body": "Mediana, société affiliée à Selvas AI, a annoncé avoir enregistré au premier trimestre de cette année un chiffre d’affaires consolidé de 16,1 milliards de wons et un résultat opérationnel de 1,6 milliard de wons. Ce chiffre d’affaires constitue le plus haut niveau pour un premier trimestre sur les trois dernières années, tandis que la rentabilité a également progressé. Forte de cette amélioration, l’entreprise s’attend à ce que l’effet de nouveaux produits se concrétise davantage au deuxième trimestre. L’annonce retient l’attention car elle montre à la fois une croissance des ventes et un résultat opérationnel positif. Source: mk.co.kr."
+      },
+      "ar": {
+        "title": "ميديانا تسجل إيرادات 16.1 مليار وون في الربع الأول مع تحسن الربحية",
+        "excerpt": "أعلنت ميديانا التابعة لسيلفاس AI أنها سجلت في الربع الأول إيرادات موحدة قدرها 16.1 مليار وون وأرباحا تشغيلية قدرها 1.6 مليار وون، وهو أعلى مستوى ربع أول في ثلاث سنوات.",
+        "body": "أعلنت ميديانا، التابعة لشركة سيلفاس AI، أنها سجلت في الربع الأول من هذا العام إيرادات موحدة بلغت 16.1 مليار وون وأرباحا تشغيلية بلغت 1.6 مليار وون. ويمثل هذا الرقم أعلى إيرادات للربع الأول خلال السنوات الثلاث الأخيرة، كما أشارت الشركة إلى نمو الربحية أيضا. وبناء على تحسن نتائج الربع الأول، تتوقع الشركة أن يبدأ تأثير المنتجات الجديدة بالظهور بصورة أوضح في الربع الثاني. ويحظى الإعلان بالاهتمام لأنه يجمع بين نمو المبيعات وتحقيق أرباح تشغيلية في الفترة نفسها. المصدر: mk.co.kr."
+      },
+      "hi": {
+        "title": "Mediana की पहली तिमाही आय 16.1 अरब वॉन, लाभप्रदता में भी सुधार",
+        "excerpt": "Selvas AI की सहयोगी Mediana ने इस साल पहली तिमाही में 16.1 अरब वॉन की समेकित आय और 1.6 अरब वॉन का परिचालन लाभ दर्ज किया, जो तीन वर्षों में सबसे अधिक पहली तिमाही आय है।",
+        "body": "Selvas AI की सहयोगी Mediana ने बताया कि इस साल पहली तिमाही में उसने समेकित आधार पर 16.1 अरब वॉन की आय और 1.6 अरब वॉन का परिचालन लाभ दर्ज किया। आय पिछले तीन वर्षों में पहली तिमाही के लिए सबसे ऊंचे स्तर पर रही, जबकि लाभप्रदता में भी सुधार दिखा। पहली तिमाही के बेहतर प्रदर्शन के आधार पर कंपनी को उम्मीद है कि दूसरी तिमाही में नए उत्पादों का प्रभाव अधिक स्पष्ट होगा। यह घोषणा इसलिए ध्यान खींचती है क्योंकि इसी अवधि में बिक्री वृद्धि और परिचालन लाभ दोनों सामने आए। स्रोत: mk.co.kr."
+      },
+      "id": {
+        "title": "Mediana Bukukan Pendapatan KRW 16,1 Miliar di Kuartal I, Profitabilitas Ikut Naik",
+        "excerpt": "Afiliasi Selvas AI, Mediana, mencatat pendapatan konsolidasi KRW 16,1 miliar dan laba operasional KRW 1,6 miliar pada kuartal pertama tahun ini, tertinggi untuk kuartal I dalam tiga tahun terakhir.",
+        "body": "Mediana, afiliasi Selvas AI, menyatakan bahwa pada kuartal pertama tahun ini perusahaan mencatat pendapatan konsolidasi KRW 16,1 miliar dan laba operasional KRW 1,6 miliar. Pendapatan tersebut menjadi level tertinggi untuk kuartal pertama dalam tiga tahun terakhir, sementara profitabilitas juga ikut meningkat. Berdasarkan perbaikan kinerja kuartal pertama, perusahaan memperkirakan dampak produk baru akan mulai terlihat lebih penuh pada kuartal kedua. Pengumuman ini menarik perhatian karena menunjukkan pertumbuhan penjualan dan perolehan laba operasional pada periode yang sama. Sumber: mk.co.kr."
+      }
+    }
+  },
+  {
     "id": "786d7351f9fb",
     "slug": "lg전자-로봇-신사업-기대에-52주-신고가-경신지주사도-상한가-609305",
     "channelId": "STOCKS",
@@ -4271,231 +4496,6 @@
         "title": "Saham Holding Menguat: Doosan Naik 118% dan SK 110% Berkat Rantai Nilai AI",
         "excerpt": "Tahun ini, grup besar yang membangun rantai nilai AI mengubah arah KOSPI, sementara saham holding yang dulu terabaikan seperti Doosan dan SK melesat.",
         "body": "Tahun ini, saham perusahaan holding utama yang sebelumnya kurang mendapat perhatian investor naik tajam di pasar KOSPI. Kenaikan terjadi saat grup besar yang sedang membangun rantai nilai kecerdasan buatan (AI) mengubah peta pasar dan minat beli meluas ke perusahaan holding mereka. Menurut laporan asli, saham Doosan telah naik 118% sepanjang tahun ini, sementara SK menguat 110%. Artikel tersebut menyebut latar belakangnya berupa penilaian ulang terhadap perusahaan grup terkait AI serta ekspektasi perubahan tata kelola perusahaan setelah revisi Undang-Undang Dagang oleh pemerintah. Pergerakan saham holding kini menjadi sorotan seiring meningkatnya pengaruh saham terkait rantai nilai AI di KOSPI. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "11d1eaaedd9b",
-    "slug": "불장에-증시로-머니무브-가속-상호금융서도-15조원-이탈-605513",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T13:09:52.798Z",
-    "updatedAt": "2026-05-14T13:09:52.798Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12047854",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12047854",
-    "titleFingerprint": "bfeb86741fed3f11e6fe37325ab103af3c5cab5c",
-    "dedupKeys": [
-      "11d1eaaedd9bbe8c71175704cd655eb3a01aa91e",
-      "bfeb86741fed3f11e6fe37325ab103af3c5cab5c",
-      "df9d338264989630ec2b3ec9167949ba2b20c792"
-    ],
-    "imageUrl": "/images/articles/11d1eaaedd9b.jpg",
-    "i18n": {
-      "ko": {
-        "title": "불장 속 증시 머니무브 가속에 상호금융권도 자금 이탈, 1분기 수신 15조원 빠졌다",
-        "excerpt": "한국은행이 14일 밝힌 올해 1분기 상호금융권 수신잔액은 915조965억원으로, 국내 증시 강세와 높은 수익률 추구가 맞물리며 15조원 규모 자금 이탈이 나타났다.",
-        "body": "국내 증시가 역대급 강세를 이어가면서 높은 수익률을 좇는 자금 이동, 이른바 ‘머니무브’가 상호금융권으로 확산했다. 14일 한국은행에 따르면 올해 1분기 새마을금고·신협·농협·수협 등 상호금융권 수신잔액은 915조965억원으로 집계됐다. 증시 상승 흐름 속에 투자자금이 예금성 자금에서 주식시장으로 이동하며 상호금융권에서도 15조원 규모의 이탈이 나타난 것으로 전해졌다. 이는 국내 금융권 전반에서 수익률을 기준으로 자금 재배치가 진행되고 있음을 보여준다. 향후 증시 강세가 이어질 경우 예금성 자금의 추가 이동 여부가 금융권의 주요 관심사가 될 전망이다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Stock Market Money Move Accelerates as Mutual Finance Deposits Fall by 15 Trillion Won in Q1",
-        "excerpt": "The Bank of Korea said on the 14th that mutual finance deposits stood at 915.0965 trillion won in the first quarter, as strong domestic stocks and higher return-seeking drove a 15 trillion won outflow.",
-        "body": "As South Korea’s stock market continues its exceptional rally, the shift of funds toward equities in search of higher returns, often called a “money move,” has spread to the mutual finance sector. According to the Bank of Korea on the 14th, deposit balances at mutual finance institutions including Saemaul Geumgo, credit unions, agricultural cooperatives and fisheries cooperatives totaled 915.0965 trillion won in the first quarter of this year. Amid the market’s strength, funds reportedly moved from deposit-like products into the stock market, leading to an outflow of about 15 trillion won from mutual finance institutions. The figures show that capital is being reallocated across Korea’s financial sector based on yield. If the stock rally continues, further movement from deposit funds will remain a key issue. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "株高でマネームーブ加速、相互金融の預金も1四半期で15兆ウォン流出",
-        "excerpt": "韓国銀行が14日に明らかにした今年1四半期の相互金融圏の受信残高は915兆965億ウォンで、韓国株の強さと高利回り志向を背景に15兆ウォン規模の資金流出が起きた。",
-        "body": "韓国株式市場が記録的な強さを続けるなか、高い収益率を求めて資金が株式市場へ移る、いわゆる「マネームーブ」が相互金融圏にも広がっている。韓国銀行が14日に発表したところによると、今年1四半期のセマウル金庫、信用協同組合、農協、水協など相互金融圏の受信残高は915兆965億ウォンだった。株高の流れのなか、預金性資金から株式市場へ投資資金が移動し、相互金融圏でも15兆ウォン規模の流出が生じたとされる。これは韓国金融圏全体で収益率を基準に資金の再配置が進んでいることを示す。株高が続けば、預金性資金の追加移動が金融圏の注目点となりそうだ。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "股市走强推动资金搬家加速，韩国互助金融一季度流出15万亿韩元",
-        "excerpt": "韩国央行14日表示，今年一季度互助金融机构存款余额为915.0965万亿韩元，在韩国股市强势和追逐高收益的背景下，出现约15万亿韩元资金流出。",
-        "body": "随着韩国股市持续出现罕见强势，追逐更高收益的资金流向股市，所谓“资金搬家”现象已扩散至互助金融领域。韩国银行14日数据显示，今年一季度，新村金库、信用合作社、农协、水协等互助金融机构的存款余额为915.0965万亿韩元。在股市上涨趋势下，投资资金从存款类资金转向股票市场，互助金融领域也出现约15万亿韩元的资金流出。该情况显示，韩国金融体系内正以收益率为标准进行资金再配置。若股市强势延续，存款类资金是否继续外流将成为金融业关注的重点。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "El traslado de dinero a la bolsa se acelera y las finanzas mutuales pierden 15 billones de wones en el primer trimestre",
-        "excerpt": "El Banco de Corea informó el día 14 que los saldos captados por las finanzas mutuales sumaron 915,0965 billones de wones en el primer trimestre, con una salida de 15 billones por la fortaleza bursátil.",
-        "body": "La fuerte subida del mercado bursátil surcoreano ha acelerado el traslado de fondos hacia acciones en busca de mayores rentabilidades, un fenómeno conocido como “money move”, que ahora alcanza también al sector de finanzas mutuales. Según el Banco de Corea el día 14, los saldos de captación de entidades como Saemaul Geumgo, cooperativas de crédito, cooperativas agrícolas y pesqueras totalizaron 915,0965 billones de wones en el primer trimestre de este año. En medio del avance de la bolsa, los fondos de tipo depósito se habrían desplazado hacia el mercado accionario, generando una salida cercana a 15 billones de wones. El dato muestra una reasignación de capital basada en rentabilidad dentro del sistema financiero coreano. Si el impulso bursátil continúa, nuevas salidas desde depósitos serán un foco clave. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Migração de dinheiro para a bolsa acelera e finanças mútuas perdem 15 trilhões de won no 1º trimestre",
-        "excerpt": "O Banco da Coreia informou no dia 14 que os saldos captados pelo setor de finanças mútuas somaram 915,0965 trilhões de won no primeiro trimestre, com saída de 15 trilhões em meio à força das ações.",
-        "body": "Com o mercado acionário sul-coreano mantendo uma forte alta histórica, a migração de recursos para ações em busca de retornos maiores, conhecida como “money move”, chegou também ao setor de finanças mútuas. Segundo o Banco da Coreia no dia 14, os saldos de captação de instituições como Saemaul Geumgo, cooperativas de crédito, cooperativas agrícolas e cooperativas de pesca totalizaram 915,0965 trilhões de won no primeiro trimestre deste ano. Em meio à valorização das ações, recursos antes alocados em produtos semelhantes a depósitos migraram para o mercado acionário, provocando uma saída de cerca de 15 trilhões de won. O dado indica uma realocação de capital por rentabilidade no sistema financeiro coreano. Se a força da bolsa continuar, novas saídas de depósitos seguirão no radar. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Geldstrom in Aktien beschleunigt sich: Mutual-Finance-Sektor verliert im ersten Quartal 15 Billionen Won",
-        "excerpt": "Die Bank of Korea teilte am 14. mit, dass die Einlagen im Mutual-Finance-Sektor im ersten Quartal 915,0965 Billionen Won betrugen, während starke Aktienmärkte Abflüsse von 15 Billionen Won auslösten.",
-        "body": "Der südkoreanische Aktienmarkt bleibt außergewöhnlich stark, und die Suche nach höheren Renditen verlagert immer mehr Kapital in Aktien. Dieser sogenannte „Money Move“ hat nun auch den Mutual-Finance-Sektor erreicht. Nach Angaben der Bank of Korea vom 14. beliefen sich die Einlagen bei Saemaul Geumgo, Kreditgenossenschaften, Agrargenossenschaften und Fischereigenossenschaften im ersten Quartal dieses Jahres auf 915,0965 Billionen Won. Im Zuge der Aktienrally sollen Anlegergelder aus einlagenähnlichen Produkten in den Aktienmarkt geflossen sein, wodurch im Mutual-Finance-Sektor rund 15 Billionen Won abgezogen wurden. Die Zahlen zeigen, dass Kapital im koreanischen Finanzsystem zunehmend nach Rendite umgeschichtet wird. Hält die Börsenstärke an, bleibt eine weitere Bewegung von Einlagengeldern ein zentrales Thema. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "La ruée vers la Bourse s’accélère, les finances mutualistes perdent 15 000 milliards de wons au T1",
-        "excerpt": "La Banque de Corée a indiqué le 14 que les encours collectés par les institutions financières mutualistes atteignaient 915 096,5 milliards de wons au premier trimestre, avec 15 000 milliards de sorties.",
-        "body": "La Bourse sud-coréenne poursuit une progression exceptionnelle, poussant les capitaux à se diriger vers les actions à la recherche de rendements plus élevés. Ce mouvement, qualifié de “money move”, s’étend désormais au secteur financier mutualiste. Selon la Banque de Corée le 14, les encours de dépôts des institutions telles que Saemaul Geumgo, les coopératives de crédit, les coopératives agricoles et les coopératives de pêche ont atteint 915 096,5 milliards de wons au premier trimestre de cette année. Dans le contexte de hausse du marché, des fonds de type dépôt auraient migré vers les actions, entraînant une sortie d’environ 15 000 milliards de wons. Ces données montrent une réallocation des capitaux fondée sur le rendement dans le système financier coréen. Si la vigueur boursière se poursuit, de nouvelles sorties de dépôts resteront surveillées. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "انتقال الأموال إلى الأسهم يتسارع مع خروج 15 تريليون وون من التمويل التعاوني في الربع الأول",
-        "excerpt": "قال بنك كوريا في 14 إن أرصدة الودائع لدى مؤسسات التمويل التعاوني بلغت 915.0965 تريليون وون في الربع الأول، مع خروج نحو 15 تريليون وون بفعل قوة سوق الأسهم والسعي للعوائد.",
-        "body": "مع استمرار القوة الاستثنائية في سوق الأسهم الكورية، اتسع انتقال الأموال نحو الأسهم بحثا عن عوائد أعلى، وهو ما يعرف باسم “حركة الأموال”، ليشمل قطاع التمويل التعاوني. ووفقا لبنك كوريا في 14، بلغت أرصدة الودائع لدى مؤسسات مثل سايماول غومغو، والاتحادات الائتمانية، والتعاونيات الزراعية والسمكية 915.0965 تريليون وون في الربع الأول من هذا العام. وفي ظل صعود الأسهم، انتقلت أموال استثمارية من منتجات شبيهة بالودائع إلى سوق الأسهم، ما أدى إلى خروج يقارب 15 تريليون وون من قطاع التمويل التعاوني. وتظهر الأرقام أن إعادة توزيع رأس المال داخل القطاع المالي الكوري تجري على أساس العائد. وإذا استمرت قوة الأسهم، فسيبقى احتمال انتقال مزيد من أموال الودائع موضع اهتمام. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शेयर बाजार में मनी मूव तेज, सहकारी वित्त क्षेत्र से पहली तिमाही में 15 ट्रिलियन वॉन निकले",
-        "excerpt": "बैंक ऑफ कोरिया ने 14 तारीख को कहा कि पहली तिमाही में सहकारी वित्त संस्थानों की जमा शेष राशि 915.0965 ट्रिलियन वॉन रही, जबकि मजबूत शेयर बाजार और ऊंचे रिटर्न की तलाश से 15 ट्रिलियन वॉन निकले।",
-        "body": "दक्षिण कोरिया के शेयर बाजार में असाधारण तेजी जारी रहने के साथ ऊंचे रिटर्न की तलाश में धन का शेयरों की ओर जाना, जिसे “मनी मूव” कहा जाता है, अब सहकारी वित्त क्षेत्र तक फैल गया है। बैंक ऑफ कोरिया के अनुसार, 14 तारीख को जारी आंकड़ों में इस वर्ष की पहली तिमाही में सैमाउल गुमगो, क्रेडिट यूनियन, कृषि सहकारी और मत्स्य सहकारी जैसी संस्थाओं की जमा शेष राशि 915.0965 ट्रिलियन वॉन रही। शेयर बाजार की मजबूती के बीच जमा जैसे उत्पादों से धन शेयर बाजार की ओर गया और सहकारी वित्त क्षेत्र से करीब 15 ट्रिलियन वॉन की निकासी हुई। यह दर्शाता है कि कोरियाई वित्तीय क्षेत्र में पूंजी का पुनर्वितरण रिटर्न के आधार पर हो रहा है। यदि शेयर बाजार की तेजी जारी रहती है, तो जमा धन की आगे की आवाजाही प्रमुख मुद्दा रहेगी। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Money Move ke Bursa Makin Cepat, Dana Keuangan Mutual Keluar 15 Triliun Won pada Kuartal I",
-        "excerpt": "Bank of Korea pada tanggal 14 menyatakan saldo simpanan sektor keuangan mutual mencapai 915,0965 triliun won pada kuartal pertama, saat penguatan bursa dan pencarian imbal hasil memicu arus keluar 15 triliun won.",
-        "body": "Pasar saham Korea Selatan terus menguat secara luar biasa, mendorong perpindahan dana ke saham untuk mencari imbal hasil lebih tinggi. Fenomena yang disebut “money move” ini kini meluas ke sektor keuangan mutual. Menurut Bank of Korea pada tanggal 14, saldo simpanan lembaga seperti Saemaul Geumgo, koperasi kredit, koperasi pertanian, dan koperasi perikanan mencapai 915,0965 triliun won pada kuartal pertama tahun ini. Di tengah tren kenaikan bursa, dana yang sebelumnya berada pada produk seperti deposito dilaporkan berpindah ke pasar saham, menyebabkan arus keluar sekitar 15 triliun won dari sektor keuangan mutual. Angka ini menunjukkan realokasi modal berdasarkan imbal hasil di sektor keuangan Korea. Jika penguatan saham berlanjut, potensi perpindahan dana deposito berikutnya akan menjadi perhatian utama. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "cfee1ca42664",
-    "slug": "중복상장-크게-줄어든-日전면-금지보다-소수주주-보호-강화-946582",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T13:07:40.336Z",
-    "updatedAt": "2026-05-14T13:07:40.336Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/stock/12048197",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12048197",
-    "titleFingerprint": "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
-    "dedupKeys": [
-      "cfee1ca42664228d9ca7df8c442f8f135907f9e4",
-      "7805cb9628f695242fb730f9e5ed2c6fe0a45693",
-      "4ac430d72af6e5e57b792b8658e2ed3ec8d95653"
-    ],
-    "imageUrl": "/images/articles/cfee1ca42664.jpg",
-    "i18n": {
-      "ko": {
-        "title": "일본 중복상장 31% 감소…전면 금지보다 소수주주 보호 강화 주목",
-        "excerpt": "일본에서 상장 모회사를 둔 자회사가 7년 새 31% 줄어든 가운데, 금융당국과 한국거래소는 중복상장 원칙 금지·예외 허용 방침에 맞춘 심사기준 마련을 서두르고 있다.",
-        "body": "일본에서 상장 모회사를 둔 자회사가 7년 사이 31% 감소한 것으로 나타났다. 금융당국과 한국거래소는 중복상장에 대해 ‘원칙 금지·예외 허용’ 방침을 세우고 심사기준 마련에 속도를 내고 있다. 거래소는 내달 세부 규정을 마무리하고 7월 시행을 목표로 하는 것으로 전해졌다. 일본 사례는 중복상장을 전면 금지하기보다 소수주주 보호 장치를 강화하는 방향에 초점이 맞춰져 있다. 이는 국내 제도 설계에서도 상장 자회사 심사와 투자자 보호 기준을 어떻게 정교화할지가 핵심 쟁점이 될 수 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Japan Cuts Duplicate Listings by 31% as Focus Shifts to Minority Shareholder Protection",
-        "excerpt": "As listed subsidiaries of listed parent companies in Japan fell 31% over seven years, Korean regulators and the Korea Exchange are moving to set review standards under a ban-in-principle policy.",
-        "body": "Japan has seen a 31% decline over seven years in subsidiaries listed while their parent companies are also listed. Korea’s financial authorities and the Korea Exchange are accelerating work on review standards for duplicate listings under a policy of “prohibited in principle, allowed by exception.” The exchange is reportedly set to finalize detailed rules next month and aims to implement them in July. Japan’s case highlights a focus on strengthening minority shareholder protections rather than imposing a blanket ban on duplicate listings. For Korea, the key issue is how to refine listing reviews for subsidiaries and investor protection standards. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "日本の重複上場31％減、全面禁止より少数株主保護の強化に注目",
-        "excerpt": "日本で上場親会社を持つ子会社が7年で31％減少するなか、金融当局と韓国取引所は重複上場の原則禁止・例外許容方針に沿った審査基準作りを急いでいる。",
-        "body": "日本では、上場親会社を持つ子会社が7年間で31％減少したことが明らかになった。韓国の金融当局と韓国取引所は、重複上場について「原則禁止・例外許容」の方針を掲げ、審査基準の整備を急いでいる。取引所は来月に細部規定をまとめ、7月の施行を目指していると伝えられた。日本の事例は、重複上場を全面的に禁止するよりも、少数株主の保護装置を強化する方向に重点を置いている。韓国の制度設計でも、上場子会社の審査と投資家保護基準をどう精緻化するかが主要な論点になり得る。出所: mk.co.kr"
-      },
-      "zh": {
-        "title": "日本重复上市减少31%，焦点转向强化中小股东保护",
-        "excerpt": "日本拥有上市母公司的子公司7年内减少31%；与此同时，韩国金融监管部门和韩国交易所正加快制定重复上市原则禁止、例外允许的审查标准。",
-        "body": "日本拥有上市母公司的上市子公司在7年间减少了31%。韩国金融监管部门和韩国交易所正围绕重复上市“原则禁止、例外允许”的方针，加快制定审查标准。据悉，交易所将于下月完成细则，并以7月实施为目标。日本案例显示，相关制度重点并非全面禁止重复上市，而是强化对中小股东的保护机制。对韩国而言，未来制度设计的核心将是如何细化上市子公司的审查程序，以及如何完善投资者保护标准。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Japón reduce 31% las dobles cotizaciones y prioriza proteger a accionistas minoritarios",
-        "excerpt": "En Japón, las filiales con matrices cotizadas bajaron 31% en siete años, mientras los reguladores coreanos y la Bolsa de Corea aceleran criterios para limitar las dobles cotizaciones.",
-        "body": "En Japón, el número de filiales cotizadas que tienen una matriz también cotizada cayó 31% en siete años. Las autoridades financieras de Corea y la Bolsa de Corea están acelerando la elaboración de criterios de revisión bajo una política de “prohibición en principio y autorización por excepción” para las dobles cotizaciones. Según se informó, la bolsa finalizará las normas detalladas el próximo mes y apunta a aplicarlas en julio. El caso japonés pone el foco en reforzar la protección de los accionistas minoritarios, más que en imponer una prohibición total. Para Corea, el punto clave será cómo precisar la revisión de filiales cotizadas y los estándares de protección al inversionista. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Japão reduz dupla listagem em 31% e reforça foco na proteção de minoritários",
-        "excerpt": "No Japão, subsidiárias com controladoras listadas caíram 31% em sete anos, enquanto reguladores coreanos e a Korea Exchange aceleram critérios para restringir dupla listagem.",
-        "body": "No Japão, o número de subsidiárias listadas que têm uma controladora também listada caiu 31% em sete anos. As autoridades financeiras da Coreia e a Korea Exchange estão acelerando a preparação de critérios de análise sob a diretriz de “proibição em princípio e permissão por exceção” para casos de dupla listagem. A bolsa deve concluir as regras detalhadas no próximo mês e mira a implementação em julho. O caso japonês mostra uma ênfase maior no fortalecimento da proteção aos acionistas minoritários do que em uma proibição total. Para a Coreia, o ponto central será refinar a análise de subsidiárias listadas e os padrões de proteção ao investidor. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "Japan senkt Doppelnotierungen um 31% und setzt stärker auf Minderheitenschutz",
-        "excerpt": "In Japan sank die Zahl börsennotierter Tochterfirmen mit ebenfalls gelisteter Mutter in sieben Jahren um 31%, während Korea neue Prüfstandards für Doppelnotierungen vorbereitet.",
-        "body": "In Japan ist die Zahl börsennotierter Tochtergesellschaften mit einer ebenfalls börsennotierten Muttergesellschaft binnen sieben Jahren um 31% gesunken. Koreas Finanzbehörden und die Korea Exchange treiben Prüfstandards für Doppelnotierungen voran, nach dem Grundsatz „grundsätzlich verboten, ausnahmsweise erlaubt“. Die Börse soll die Detailregeln im kommenden Monat abschließen und eine Einführung im Juli anstreben. Das japanische Beispiel legt den Schwerpunkt weniger auf ein vollständiges Verbot als auf stärkere Schutzmechanismen für Minderheitsaktionäre. Für Korea dürfte entscheidend sein, wie Prüfungen gelisteter Tochterfirmen und Standards zum Anlegerschutz präzisiert werden. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "Au Japon, les doubles cotations reculent de 31% et la protection des minoritaires prime",
-        "excerpt": "Au Japon, les filiales de sociétés mères cotées ont diminué de 31% en sept ans, tandis que les autorités coréennes et la Korea Exchange préparent des critères de contrôle.",
-        "body": "Au Japon, le nombre de filiales cotées ayant une société mère elle aussi cotée a reculé de 31% en sept ans. Les autorités financières coréennes et la Korea Exchange accélèrent l’élaboration de critères d’examen pour les doubles cotations, selon le principe d’une interdiction de principe avec exceptions. La Bourse devrait finaliser les règles détaillées le mois prochain et viser une application en juillet. Le cas japonais met l’accent sur le renforcement de la protection des actionnaires minoritaires plutôt que sur une interdiction totale. Pour la Corée, l’enjeu central sera de préciser l’examen des filiales cotées et les normes de protection des investisseurs. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "اليابان تقلص الإدراج المزدوج 31% وتركز على حماية مساهمي الأقلية",
-        "excerpt": "تراجع عدد الشركات التابعة المدرجة في اليابان والمرتبطة بشركات أم مدرجة 31% خلال سبع سنوات، فيما تسرع الجهات الكورية وضع معايير لمراجعة الإدراج المزدوج.",
-        "body": "في اليابان، انخفض عدد الشركات التابعة المدرجة التي تملك شركات أم مدرجة أيضا بنسبة 31% خلال سبع سنوات. وتسرع السلطات المالية الكورية وبورصة كوريا إعداد معايير مراجعة للإدراج المزدوج وفق مبدأ “الحظر كقاعدة والسماح كاستثناء”. وذكرت التقارير أن البورصة ستنهي القواعد التفصيلية في الشهر المقبل، مع استهداف بدء التطبيق في يوليو. وتظهر التجربة اليابانية أن التركيز ينصب على تعزيز أدوات حماية مساهمي الأقلية بدلا من فرض حظر شامل على الإدراج المزدوج. وبالنسبة لكوريا، ستكون المسألة الرئيسية هي كيفية تدقيق مراجعة إدراج الشركات التابعة ومعايير حماية المستثمرين. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "जापान में दोहरी लिस्टिंग 31% घटी, अल्पांश शेयरधारक सुरक्षा पर जोर",
-        "excerpt": "जापान में सूचीबद्ध मूल कंपनी वाली सूचीबद्ध सहायक कंपनियां सात वर्षों में 31% घटीं, जबकि कोरियाई नियामक दोहरी लिस्टिंग पर समीक्षा मानक बनाने में तेजी ला रहे हैं।",
-        "body": "जापान में ऐसी सूचीबद्ध सहायक कंपनियों की संख्या सात वर्षों में 31% घट गई है जिनकी मूल कंपनियां भी सूचीबद्ध हैं। कोरिया के वित्तीय नियामक और कोरिया एक्सचेंज दोहरी लिस्टिंग के लिए “सिद्धांत रूप में रोक, अपवाद के रूप में अनुमति” नीति के तहत समीक्षा मानक तैयार करने में तेजी ला रहे हैं। बताया गया है कि एक्सचेंज अगले महीने विस्तृत नियम अंतिम रूप देगा और जुलाई में लागू करने का लक्ष्य रखता है। जापान का उदाहरण दिखाता है कि ध्यान पूर्ण प्रतिबंध के बजाय अल्पांश शेयरधारकों की सुरक्षा मजबूत करने पर है। कोरिया के लिए मुख्य मुद्दा सूचीबद्ध सहायक कंपनियों की समीक्षा और निवेशक सुरक्षा मानकों को अधिक स्पष्ट बनाना होगा। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Jepang Pangkas Listing Ganda 31%, Fokus Bergeser ke Perlindungan Pemegang Saham Minoritas",
-        "excerpt": "Di Jepang, anak usaha tercatat dengan induk yang juga tercatat turun 31% dalam tujuh tahun, sementara otoritas Korea dan Korea Exchange mempercepat standar peninjauan listing ganda.",
-        "body": "Di Jepang, jumlah anak usaha tercatat yang memiliki induk perusahaan juga tercatat turun 31% dalam tujuh tahun. Otoritas keuangan Korea dan Korea Exchange sedang mempercepat penyusunan standar peninjauan untuk listing ganda dengan prinsip “dilarang pada dasarnya, diizinkan sebagai pengecualian.” Bursa tersebut dilaporkan akan merampungkan aturan rinci bulan depan dan menargetkan penerapan pada Juli. Kasus Jepang menunjukkan fokus pada penguatan perlindungan pemegang saham minoritas, bukan larangan total atas listing ganda. Bagi Korea, isu utamanya adalah bagaimana memperjelas peninjauan anak usaha tercatat dan standar perlindungan investor. Sumber: mk.co.kr"
-      }
-    }
-  },
-  {
-    "id": "352eafa52a79",
-    "slug": "자고-일어나면-돈버는-증시-놔두고-왜상호금융서도-15조-빠졌다-334020",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-05-14T13:06:33.594Z",
-    "updatedAt": "2026-05-14T13:06:33.594Z",
-    "sourceName": "mk.co.kr",
-    "sourceUrl": "https://www.mk.co.kr/news/economy/12048246",
-    "canonicalUrl": "https://www.mk.co.kr/news/economy/12048246",
-    "titleFingerprint": "34afd988a2db565262be39d9c205b9df816df8d7",
-    "dedupKeys": [
-      "352eafa52a79ffffd2f524421a1f860ffcc7ad35",
-      "34afd988a2db565262be39d9c205b9df816df8d7",
-      "f08ffb4935c78c3b1cdb50f1856080bbed48d2e9"
-    ],
-    "imageUrl": "/images/articles/352eafa52a79.png",
-    "i18n": {
-      "ko": {
-        "title": "상호금융 15조 이탈, 증시 호황 속 1분기 머니무브 확산",
-        "excerpt": "국내 증시 강세가 이어진 1분기, 높은 수익률을 좇은 자금 이동이 상호금융권까지 번지며 15조원이 빠져나간 것으로 나타났다.",
-        "body": "국내 증시가 역대급 강세를 이어간 1분기, 높은 수익률을 기대한 투자자 자금이 증시로 이동하면서 상호금융권에서도 약 15조원이 빠져나갔다. 예금성 자금이 증시로 옮겨가는 이른바 ‘머니무브’가 은행권을 넘어 상호금융권까지 확산된 것이다. 상호금융권은 자금 유출을 막기 위해 고금리 특판 상품을 내놨지만, 증시 호황에 따른 투자 수요를 붙잡기에는 역부족이었다. 이번 흐름은 국내 증시 강세가 금융권 예수금 구조에도 영향을 주고 있음을 보여준다. 출처: mk.co.kr"
-      },
-      "en": {
-        "title": "Mutual Finance Loses 15 Trillion Won as Stock Rally Drives Q1 Money Move",
-        "excerpt": "In the first quarter, South Korea’s strong stock market drew funds seeking higher returns, causing about 15 trillion won to leave mutual finance firms.",
-        "body": "In the first quarter, as South Korea’s stock market continued its exceptional rally, investor funds moved toward equities in search of higher returns, leading to an outflow of about 15 trillion won from the mutual finance sector. The so-called “money move,” in which deposit-like funds shift into the stock market, has spread beyond banks to mutual finance institutions. These firms introduced high-interest special deposit products to slow the outflow, but they were not enough to counter demand created by the stock market boom. The trend shows that the strength of domestic equities is also affecting the deposit structure of financial institutions. Source: mk.co.kr"
-      },
-      "ja": {
-        "title": "相互金融から15兆ウォン流出、株高で1四半期の資金移動拡大",
-        "excerpt": "韓国株式市場の強い上昇が続いた第1四半期、高い収益率を求める資金が株式市場へ向かい、相互金融から約15兆ウォンが流出した。",
-        "body": "韓国株式市場が記録的な強さを維持した第1四半期、高い収益率を期待する投資資金が株式市場へ移動し、相互金融業界から約15兆ウォンが流出した。預金性資金が株式市場へ移る、いわゆる「マネームーブ」が銀行圏を越えて相互金融にも広がった形だ。相互金融各社は資金流出を防ぐため高金利の特別販売商品を投入したが、株高による投資需要をつなぎ止めるには力不足だった。今回の流れは、国内株式市場の強さが金融機関の預金構造にも影響していることを示している。出典: mk.co.kr"
-      },
-      "zh": {
-        "title": "共同金融流失15万亿韩元，股市繁荣推动一季度资金迁移",
-        "excerpt": "在韩国股市一季度持续强势的背景下，追求高收益的资金流向股市，共同金融领域约15万亿韩元资金流出。",
-        "body": "今年第一季度，韩国股市延续罕见强势行情，期待更高收益的投资资金转向股市，导致共同金融领域约15万亿韩元资金流出。存款类资金流入股市的所谓“资金迁移”已经从银行业扩散至共同金融机构。为阻止资金外流，共同金融领域推出了高利率特别销售产品，但仍不足以留住因股市繁荣而增加的投资需求。此次趋势显示，韩国国内股市强势也正在影响金融机构的存款结构。来源: mk.co.kr"
-      },
-      "es": {
-        "title": "Finanzas mutuales pierden 15 billones de wones por auge bursátil en el 1T",
-        "excerpt": "En el primer trimestre, la fortaleza del mercado bursátil surcoreano atrajo fondos en busca de mayor rentabilidad y provocó salidas de unos 15 billones de wones.",
-        "body": "En el primer trimestre, mientras el mercado bursátil surcoreano mantenía una fortaleza histórica, los fondos de inversores que buscaban mayores rendimientos se trasladaron hacia las acciones, provocando una salida de unos 15 billones de wones del sector de finanzas mutuales. El llamado “money move”, en el que fondos similares a depósitos pasan al mercado bursátil, se extendió más allá de los bancos hacia estas entidades. El sector lanzó productos especiales con altos tipos de interés para frenar las salidas, pero no fue suficiente frente a la demanda generada por el auge bursátil. La tendencia muestra que la fortaleza de la bolsa local también afecta la estructura de depósitos del sistema financiero. Fuente: mk.co.kr"
-      },
-      "pt": {
-        "title": "Finanças mútuas perdem 15 trilhões de won com alta da bolsa no 1º tri",
-        "excerpt": "No primeiro trimestre, a forte valorização da bolsa sul-coreana atraiu recursos em busca de maior retorno e levou à saída de cerca de 15 trilhões de won das finanças mútuas.",
-        "body": "No primeiro trimestre, enquanto a bolsa sul-coreana mantinha uma força histórica, recursos de investidores em busca de retornos mais altos migraram para o mercado acionário, causando uma saída de cerca de 15 trilhões de won do setor de finanças mútuas. O chamado “money move”, em que recursos semelhantes a depósitos passam para ações, avançou além dos bancos e chegou às instituições de finanças mútuas. O setor lançou produtos promocionais com juros elevados para conter a saída de recursos, mas isso não bastou diante da demanda criada pelo bom desempenho da bolsa. O movimento mostra que a força do mercado acionário doméstico também afeta a estrutura de depósitos das instituições financeiras. Fonte: mk.co.kr"
-      },
-      "de": {
-        "title": "15 Billionen Won Abfluss aus Genossenschaftsfinanz wegen Börsenboom im Q1",
-        "excerpt": "Im ersten Quartal zog Südkoreas starker Aktienmarkt Gelder auf der Suche nach höheren Renditen an, wodurch rund 15 Billionen Won aus dem Genossenschaftsfinanzsektor abflossen.",
-        "body": "Im ersten Quartal setzte der südkoreanische Aktienmarkt seine außergewöhnliche Stärke fort. Anlegergelder, die höhere Renditen erwarteten, wanderten in Aktien, wodurch aus dem Genossenschaftsfinanzsektor rund 15 Billionen Won abflossen. Die sogenannte „Money Move“-Bewegung, bei der einlagenähnliche Gelder an den Aktienmarkt wechseln, hat sich damit über Banken hinaus auf Genossenschaftsfinanzinstitute ausgeweitet. Diese Institute brachten Sonderprodukte mit hohen Zinsen auf den Markt, um den Abfluss zu bremsen, doch das reichte angesichts der Nachfrage durch den Börsenboom nicht aus. Der Trend zeigt, dass die Stärke des heimischen Aktienmarkts auch die Einlagenstruktur der Finanzbranche beeinflusst. Quelle: mk.co.kr"
-      },
-      "fr": {
-        "title": "15 000 milliards de wons quittent la finance mutualiste avec le boom boursier du T1",
-        "excerpt": "Au premier trimestre, la vigueur du marché boursier sud-coréen a attiré les fonds en quête de rendements plus élevés, entraînant une sortie d’environ 15 000 milliards de wons.",
-        "body": "Au premier trimestre, alors que le marché boursier sud-coréen poursuivait une progression exceptionnelle, les capitaux d’investisseurs recherchant des rendements plus élevés se sont dirigés vers les actions, provoquant une sortie d’environ 15 000 milliards de wons du secteur de la finance mutualiste. Le « money move », qui voit des fonds assimilables à des dépôts migrer vers la Bourse, s’est étendu au-delà des banques vers ces institutions. Le secteur a lancé des produits promotionnels à taux élevé pour freiner les sorties, mais cela n’a pas suffi face à la demande née du boom boursier. Cette tendance montre que la vigueur des actions domestiques influence aussi la structure des dépôts des institutions financières. Source: mk.co.kr"
-      },
-      "ar": {
-        "title": "خروج 15 تريليون وون من التمويل التعاوني مع ازدهار الأسهم في الربع الأول",
-        "excerpt": "في الربع الأول، جذبت قوة سوق الأسهم الكورية الجنوبية أموالا تبحث عن عوائد أعلى، ما أدى إلى خروج نحو 15 تريليون وون من قطاع التمويل التعاوني.",
-        "body": "في الربع الأول، ومع استمرار سوق الأسهم الكورية الجنوبية في تسجيل قوة استثنائية، انتقلت أموال المستثمرين الباحثة عن عوائد أعلى إلى الأسهم، ما أدى إلى خروج نحو 15 تريليون وون من قطاع التمويل التعاوني. وانتشرت حركة الأموال المعروفة باسم “Money Move”، حيث تنتقل الأموال الشبيهة بالودائع إلى سوق الأسهم، من البنوك إلى مؤسسات التمويل التعاوني أيضا. وطرح القطاع منتجات ترويجية بفوائد مرتفعة للحد من خروج الأموال، لكنها لم تكن كافية أمام الطلب الاستثماري الناتج عن ازدهار الأسهم. ويظهر هذا الاتجاه أن قوة السوق المحلية تؤثر كذلك في هيكل الودائع لدى المؤسسات المالية. المصدر: mk.co.kr"
-      },
-      "hi": {
-        "title": "शेयर बाजार की तेजी में म्यूचुअल फाइनेंस से 15 ट्रिलियन वॉन निकले",
-        "excerpt": "पहली तिमाही में दक्षिण कोरिया के मजबूत शेयर बाजार ने ऊंचे रिटर्न की तलाश वाले धन को आकर्षित किया, जिससे म्यूचुअल फाइनेंस क्षेत्र से करीब 15 ट्रिलियन वॉन निकले।",
-        "body": "पहली तिमाही में दक्षिण कोरिया का शेयर बाजार असाधारण मजबूती बनाए रहा। ऊंचे रिटर्न की उम्मीद रखने वाले निवेशकों का पैसा शेयरों की ओर गया, जिससे म्यूचुअल फाइनेंस क्षेत्र से करीब 15 ट्रिलियन वॉन की निकासी हुई। जमा जैसे धन का शेयर बाजार में जाना, जिसे “मनी मूव” कहा जाता है, अब बैंकों से आगे बढ़कर म्यूचुअल फाइनेंस संस्थानों तक फैल गया है। इस क्षेत्र ने धन निकासी रोकने के लिए ऊंची ब्याज दर वाले विशेष उत्पाद पेश किए, लेकिन शेयर बाजार की तेजी से बनी निवेश मांग को थामने के लिए वे पर्याप्त नहीं रहे। यह प्रवृत्ति दिखाती है कि घरेलू शेयर बाजार की मजबूती वित्तीय संस्थानों की जमा संरचना को भी प्रभावित कर रही है। स्रोत: mk.co.kr"
-      },
-      "id": {
-        "title": "Dana 15 Triliun Won Keluar dari Keuangan Mutual saat Bursa Menguat di Kuartal I",
-        "excerpt": "Pada kuartal pertama, penguatan pasar saham Korea Selatan menarik dana yang mengejar imbal hasil lebih tinggi, membuat sekitar 15 triliun won keluar dari sektor keuangan mutual.",
-        "body": "Pada kuartal pertama, ketika pasar saham Korea Selatan terus menunjukkan penguatan luar biasa, dana investor yang mengharapkan imbal hasil lebih tinggi berpindah ke saham, sehingga sekitar 15 triliun won keluar dari sektor keuangan mutual. Perpindahan dana mirip simpanan ke pasar saham, yang disebut “money move”, meluas dari perbankan ke lembaga keuangan mutual. Sektor ini meluncurkan produk promosi berbunga tinggi untuk menahan arus keluar dana, tetapi langkah tersebut belum cukup menghadapi permintaan investasi yang dipicu oleh reli bursa. Tren ini menunjukkan bahwa kekuatan pasar saham domestik juga memengaruhi struktur simpanan lembaga keuangan. Sumber: mk.co.kr"
       }
     }
   }
