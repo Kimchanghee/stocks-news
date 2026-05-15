@@ -1,0 +1,75 @@
+{
+  "id": "e9bea92e5810",
+  "slug": "이제는-ai-효율전쟁한국-기업들에-기회-충분하다-828219",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-05-15T16:55:52.603Z",
+  "updatedAt": "2026-05-15T16:55:52.604Z",
+  "sourceName": "hankyung.com",
+  "sourceUrl": "https://www.hankyung.com/article/2026051599421",
+  "canonicalUrl": "https://www.hankyung.com/article/2026051599421",
+  "titleFingerprint": "a162d17b25f6e90f8a825d9ee081fb47282c1955",
+  "dedupKeys": [
+    "e9bea92e581053fe9a1227e84c3b51c56b68ef77",
+    "a162d17b25f6e90f8a825d9ee081fb47282c1955",
+    "24466f348f2335d729a6d1964502a11b67dad6f8"
+  ],
+  "imageUrl": "/images/articles/e9bea92e5810.jpg",
+  "i18n": {
+    "ko": {
+      "title": "AI 효율전쟁 본격화, 한국 AI 기업들이 보는 초저전력·에지 기회",
+      "excerpt": "2026년 5월 15일 서울 KIW 2026에서 국내 AI 기업들은 연산 중심 경쟁이 효율·온디바이스·에지 AI로 이동하며 한국 기업에 기회가 있다고 진단했다.",
+      "body": "2026년 5월 15일 서울 장충동 신라호텔에서 열린 ‘코리아 인베스트먼트 위크(KIW) 2026’에서 기업공개를 앞둔 국내 AI 기업들이 AI 시장의 경쟁축이 연산 성능에서 효율로 이동하고 있다고 밝혔다. 포인투테크놀로지는 GPU 연결 병목을 줄이는 인터커넥트 기술 ‘이튜브’를 소개했고, 엘리스그룹은 설계부터 가동까지 4개월이 걸리는 모듈형 데이터센터를 제시했다. 딥엑스는 자율주행차·로봇 등 실시간 처리가 필요한 기기에서 온디바이스 AI가 불가피하다고 봤고, 모빌린트는 에지 AI 시장이 연평균 20% 이상 성장한다고 설명했다. 모빌린트 NPU는 20~25W 전력으로 고성능 추론을 수행하며 GPU보다 전력 대비 성능이 높다고 소개됐다. 출처: hankyung.com."
+    },
+    "en": {
+      "title": "AI Efficiency Race Accelerates as Korean AI Firms See Edge and Low-Power Openings",
+      "excerpt": "At KIW 2026 in Seoul on May 15, 2026, Korean AI companies said competition is shifting from raw computing power to efficiency, on-device processing and edge AI.",
+      "body": "At Korea Investment Week (KIW) 2026, held on May 15, 2026, at the Shilla Hotel in Jangchung-dong, Seoul, Korean AI companies preparing for IPOs said the AI market is moving from a focus on computing power to a battle over efficiency. Point2 Technology presented its e-Tube interconnect technology for reducing GPU connection bottlenecks, while Ellice Group proposed modular data centers that take four months from design to operation. DeepX said on-device AI will be necessary for autonomous vehicles and robots that require real-time processing, and Mobilint said the edge AI market is growing at more than 20% annually. Mobilint said its NPU can perform high-end inference using 20 to 25 watts and offers better performance per watt than GPUs. Source: hankyung.com."
+    },
+    "ja": {
+      "title": "AI効率競争が本格化、韓国AI企業が見る低電力・エッジAIの商機",
+      "excerpt": "2026年5月15日にソウルで開かれたKIW 2026で、韓国AI企業は競争軸が演算性能から効率、オンデバイス、エッジAIへ移ると説明した。",
+      "body": "2026年5月15日、ソウル・奨忠洞の新羅ホテルで開かれた「コリア・インベストメント・ウィーク（KIW）2026」で、上場を控える韓国AI企業は、AI市場の競争軸が演算性能から効率へ移っていると述べた。ポインツーテクノロジーはGPU接続のボトルネックを減らすインターコネクト技術「e-Tube」を紹介し、エリスグループは設計から稼働まで4カ月のモジュール型データセンターを提示した。ディープエックスは自動運転車やロボットなどリアルタイム処理が必要な機器ではオンデバイスAIが不可避だとし、モビリントはエッジAI市場が年平均20%以上成長していると説明した。モビリントのNPUは20〜25Wで高性能推論を行い、GPUより電力当たり性能が高いという。出典: hankyung.com."
+    },
+    "zh": {
+      "title": "AI效率战升温，韩国AI企业看好低功耗芯片与边缘AI机会",
+      "excerpt": "2026年5月15日在首尔举行的KIW 2026上，韩国AI企业表示，竞争焦点正从算力转向效率、端侧处理和边缘AI。",
+      "body": "2026年5月15日，在首尔奖忠洞新罗酒店举行的“韩国投资周（KIW）2026”上，准备上市的韩国AI企业表示，AI市场的竞争重心正从计算性能转向效率。Point2 Technology介绍了用于缓解GPU连接瓶颈的互连技术“e-Tube”，Ellice Group提出从设计到运行只需4个月的模块化数据中心方案。DeepX认为，自动驾驶汽车、机器人等需要实时处理的设备将不可避免地走向端侧AI；Mobilint则表示，边缘AI市场年均增长超过20%。Mobilint称，其NPU以20至25瓦功耗即可执行高性能推理，单位功耗性能高于GPU。来源: hankyung.com."
+    },
+    "es": {
+      "title": "La carrera por la eficiencia en IA abre oportunidades para firmas coreanas de edge AI",
+      "excerpt": "En KIW 2026, celebrado en Seúl el 15 de mayo de 2026, empresas coreanas de IA dijeron que la competencia pasa del cómputo bruto a la eficiencia y al edge AI.",
+      "body": "En Korea Investment Week (KIW) 2026, celebrada el 15 de mayo de 2026 en el hotel Shilla de Jangchung-dong, Seúl, empresas coreanas de IA próximas a salir a bolsa afirmaron que el mercado está pasando de competir por capacidad de cálculo a competir por eficiencia. Point2 Technology presentó e-Tube, una tecnología de interconexión para reducir cuellos de botella al conectar GPU, y Ellice Group propuso centros de datos modulares que tardan cuatro meses desde el diseño hasta la operación. DeepX dijo que la IA en dispositivo será necesaria para vehículos autónomos y robots que requieren procesamiento en tiempo real. Mobilint señaló que el mercado de edge AI crece más de 20% anual y que su NPU ejecuta inferencia avanzada con 20 a 25 W, con mejor rendimiento por vatio que las GPU. Fuente: hankyung.com."
+    },
+    "pt": {
+      "title": "Disputa por eficiência em IA avança e abre espaço para empresas coreanas de edge AI",
+      "excerpt": "No KIW 2026, em Seul, em 15 de maio de 2026, empresas coreanas de IA disseram que a disputa está migrando de poder computacional para eficiência e edge AI.",
+      "body": "Na Korea Investment Week (KIW) 2026, realizada em 15 de maio de 2026 no hotel Shilla, em Jangchung-dong, Seul, empresas coreanas de IA que se preparam para IPO disseram que o mercado está deixando de competir apenas por capacidade de processamento e passando a disputar eficiência. A Point2 Technology apresentou a tecnologia de interconexão e-Tube, voltada a reduzir gargalos nas conexões de GPUs, enquanto o Ellice Group propôs data centers modulares que levam quatro meses do projeto à operação. A DeepX afirmou que a IA no dispositivo será necessária para carros autônomos e robôs que exigem processamento em tempo real. A Mobilint disse que o mercado de edge AI cresce mais de 20% ao ano e que sua NPU faz inferência avançada com 20 a 25 W, com desempenho por watt superior ao de GPUs. Fonte: hankyung.com."
+    },
+    "de": {
+      "title": "KIW 2026: Koreas KI-Firmen sehen Chancen im Effizienzrennen und bei Edge AI",
+      "excerpt": "Auf der KIW 2026 in Seoul sagten koreanische KI-Unternehmen am 15. Mai 2026, der Wettbewerb verlagere sich von Rechenleistung zu Effizienz und Edge AI.",
+      "body": "Auf der Korea Investment Week (KIW) 2026, die am 15. Mai 2026 im Shilla Hotel in Jangchung-dong, Seoul, stattfand, erklärten koreanische KI-Unternehmen vor geplanten Börsengängen, dass sich der KI-Markt von reiner Rechenleistung zu Effizienz verlagert. Point2 Technology stellte die Interconnect-Technologie e-Tube vor, die Engpässe bei GPU-Verbindungen verringern soll, während Ellice Group modulare Rechenzentren präsentierte, die von der Planung bis zum Betrieb vier Monate benötigen. DeepX sagte, On-Device-KI werde für autonome Fahrzeuge und Roboter mit Echtzeitverarbeitung notwendig. Mobilint erklärte, der Edge-AI-Markt wachse jährlich um mehr als 20%, und seine NPU könne mit 20 bis 25 Watt leistungsstarke Inferenz liefern, mit höherer Leistung pro Watt als GPUs. Quelle: hankyung.com."
+    },
+    "fr": {
+      "title": "La bataille de l’efficacité IA s’ouvre, les entreprises coréennes misent sur l’edge AI",
+      "excerpt": "Lors du KIW 2026 à Séoul le 15 mai 2026, des entreprises coréennes d’IA ont dit que la concurrence passe du calcul brut à l’efficacité et à l’edge AI.",
+      "body": "Lors de la Korea Investment Week (KIW) 2026, organisée le 15 mai 2026 à l’hôtel Shilla de Jangchung-dong, à Séoul, des entreprises coréennes d’IA préparant leur introduction en Bourse ont déclaré que le marché passait d’une concurrence centrée sur la puissance de calcul à une concurrence centrée sur l’efficacité. Point2 Technology a présenté e-Tube, une technologie d’interconnexion destinée à réduire les goulets d’étranglement entre GPU, tandis qu’Ellice Group a proposé des centres de données modulaires opérationnels quatre mois après la conception. DeepX a estimé que l’IA embarquée deviendra nécessaire pour les véhicules autonomes et les robots exigeant un traitement en temps réel. Mobilint a indiqué que le marché de l’edge AI croît de plus de 20% par an et que son NPU réalise une inférence avancée avec 20 à 25 W, avec une meilleure performance par watt que les GPU. Source: hankyung.com."
+    },
+    "ar": {
+      "title": "سباق كفاءة الذكاء الاصطناعي يتسارع وشركات كوريا تراهن على الحافة والطاقة المنخفضة",
+      "excerpt": "في KIW 2026 بسيول يوم 15 مايو 2026، قالت شركات ذكاء اصطناعي كورية إن المنافسة تتحول من قوة الحوسبة إلى الكفاءة والمعالجة على الأجهزة والذكاء الطرفي.",
+      "body": "في أسبوع كوريا للاستثمار KIW 2026، الذي عُقد في 15 مايو 2026 في فندق شيلا بمنطقة جانغتشونغ دونغ في سيول، قالت شركات ذكاء اصطناعي كورية تستعد للطرح العام إن سوق الذكاء الاصطناعي ينتقل من التركيز على قدرة الحوسبة إلى سباق الكفاءة. عرضت Point2 Technology تقنية الربط e-Tube لتقليل اختناقات توصيل وحدات GPU، وقدمت Ellice Group مراكز بيانات معيارية تستغرق أربعة أشهر من التصميم إلى التشغيل. وقالت DeepX إن الذكاء الاصطناعي على الجهاز سيصبح ضروريا للسيارات ذاتية القيادة والروبوتات التي تحتاج إلى معالجة فورية. وذكرت Mobilint أن سوق الذكاء الاصطناعي الطرفي ينمو بأكثر من 20% سنويا، وأن وحدة NPU الخاصة بها تنفذ استدلالا عاليا بقدرة 20 إلى 25 واط وبأداء أفضل لكل واط من وحدات GPU. المصدر: hankyung.com."
+    },
+    "hi": {
+      "title": "AI दक्षता की दौड़ तेज, कोरियाई कंपनियां लो-पावर और एज AI में अवसर देख रहीं",
+      "excerpt": "15 मई 2026 को सियोल में KIW 2026 में कोरियाई AI कंपनियों ने कहा कि प्रतिस्पर्धा कंप्यूटिंग शक्ति से दक्षता, ऑन-डिवाइस और एज AI की ओर बढ़ रही है।",
+      "body": "15 मई 2026 को सियोल के जांगचुंग-डोंग स्थित शिला होटल में आयोजित Korea Investment Week (KIW) 2026 में IPO की तैयारी कर रहीं कोरियाई AI कंपनियों ने कहा कि AI बाजार में मुकाबला अब केवल कंप्यूटिंग शक्ति से हटकर दक्षता पर केंद्रित हो रहा है। Point2 Technology ने GPU कनेक्शन की बाधा घटाने वाली इंटरकनेक्ट तकनीक e-Tube पेश की, जबकि Ellice Group ने ऐसे मॉड्यूलर डेटा सेंटर का प्रस्ताव रखा जिसे डिजाइन से संचालन तक चार महीने लगते हैं। DeepX ने कहा कि स्वचालित वाहनों और रोबोट जैसे रियल-टाइम प्रोसेसिंग वाले उपकरणों के लिए ऑन-डिवाइस AI जरूरी होगा। Mobilint ने बताया कि एज AI बाजार सालाना 20% से अधिक बढ़ रहा है और उसका NPU 20 से 25 वाट में उच्च प्रदर्शन इन्फरेंस करता है, जिससे प्रति वाट प्रदर्शन GPU से बेहतर है। स्रोत: hankyung.com."
+    },
+    "id": {
+      "title": "Perang Efisiensi AI Menguat, Perusahaan Korea Bidik Peluang Edge dan Daya Rendah",
+      "excerpt": "Pada KIW 2026 di Seoul, 15 Mei 2026, perusahaan AI Korea mengatakan persaingan bergeser dari daya komputasi mentah ke efisiensi, on-device, dan edge AI.",
+      "body": "Pada Korea Investment Week (KIW) 2026 yang digelar 15 Mei 2026 di Shilla Hotel, Jangchung-dong, Seoul, perusahaan AI Korea yang bersiap IPO mengatakan pasar AI bergerak dari persaingan kekuatan komputasi menuju efisiensi. Point2 Technology memperkenalkan teknologi interkoneksi e-Tube untuk mengurangi kemacetan koneksi GPU, sementara Ellice Group mengusulkan pusat data modular yang membutuhkan empat bulan dari desain hingga operasi. DeepX menilai on-device AI akan diperlukan untuk kendaraan otonom dan robot yang membutuhkan pemrosesan real-time. Mobilint mengatakan pasar edge AI tumbuh lebih dari 20% per tahun dan NPU miliknya menjalankan inferensi berkinerja tinggi dengan daya 20 hingga 25 W, dengan kinerja per watt lebih baik daripada GPU. Sumber: hankyung.com."
+    }
+  }
+}
