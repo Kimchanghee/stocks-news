@@ -1,0 +1,382 @@
+{
+  "id": "16ecc1263dce",
+  "slug": "단일종목-2배-etf-증권사만-배불려-350172",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-06-22T09:07:43.047Z",
+  "updatedAt": "2026-06-22T09:07:43.047Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12080212",
+  "titleFingerprint": "084f7621225e044aed88f0175de972eb7b19050f",
+  "dedupKeys": [
+    "16ecc1263dce7ebadeb66ef203a5faeace5f2055",
+    "084f7621225e044aed88f0175de972eb7b19050f",
+    "60829c7af66ed8950c985f0ff8d3be536df96130"
+  ],
+  "imageUrl": "/images/articles/16ecc1263dce.jpg",
+  "i18n": {
+    "ko": {
+      "title": "단일종목 2배 ETF 논란 확산, 삼성전자·SK하이닉스 레버리지에 금감원장 경고",
+      "excerpt": "이찬진 금융감독원장은 삼성전자·SK하이닉스 단일종목 2배 레버리지 ETF가 개인투자자의 단기 매매를 부추기고 수수료 수익은 증권사에 집중시키는 구조라며 감독 강화 필요성을 분명히 했다.",
+      "metaDescription": "삼성전자·SK하이닉스 단일종목 2배 ETF에 대한 금감원장 우려가 커졌다. 레버리지 구조, 수수료 집중, 개인투자자 손실 위험과 국내 규제 전망을 짚었다.",
+      "summary": "삼성전자와 SK하이닉스를 기초자산으로 한 단일종목 2배 ETF가 금융감독 당국의 강한 경고를 받았다. 이찬진 금융감독원장은 해당 상품이 투자자 보호보다 증권사 수익을 키우는 방향으로 작동한다고 봤다. 하루 수익률을 두 배로 추종하는 구조는 상승 때만큼 하락 때도 손실을 키운다. 국내 ETF 시장의 판매 관행과 위험 고지가 더 엄격해질 전망이다.",
+      "body": "단일종목 2배 ETF를 둘러싼 감독 당국의 경고가 한층 선명해졌다. 이찬진 금융감독원장은 삼성전자와 SK하이닉스를 기초자산으로 삼는 단일종목 레버리지 ETF가 투자자 보호보다 판매·중개 수익을 앞세우는 구조로 흘렀고, 결과적으로 증권사 수익만 키우는 결과를 낳고 있다고 판단했다. 국내 반도체 대표주에 2배로 베팅하는 상품은 이름은 간단하지만 위험은 단순하지 않다.\n\n## 대형주를 기초로 한 고위험 상품\n단일종목 2배 ETF는 하루 수익률을 기초자산 움직임의 두 배로 맞추는 상품이다. 삼성전자가 하루 5% 오르면 상품은 약 10% 상승을 목표로 하고, 반대로 5% 내리면 약 10% 손실을 낸다. SK하이닉스가 10% 급락하면 투자금 100만원은 비용 반영 전 80만원 수준까지 줄 수 있다. 문제는 이 배율이 장기 수익률의 두 배를 보장하지 않는다는 점이다. 매일 포지션을 다시 맞추는 구조 때문에 등락이 반복되면 원금 훼손이 빨라지고, 거래가 잦아질수록 투자자는 비용과 스프레드를 부담한다.\n\n## 수수료는 확정, 수익은 불확실\n증권사는 매매 중개, 유동성 공급, 관련 파생거래 과정에서 수익 기회를 얻는다. 투자자는 원화로 손쉽게 반도체 대형주 변동성에 접근하지만, 손실 역시 두 배 속도로 체감한다. 삼성전자와 SK하이닉스는 코스피 시가총액 최상위권 종목이라 개인투자자의 관심이 높고, 이 점이 상품 판매의 핵심 동력이 됐다. 그러나 대형 우량주라는 인식이 레버리지 위험을 낮추지는 않는다. 기초종목이 익숙하다는 이유로 단기 투기성 상품을 장기 보유 수단처럼 받아들이면 손실 가능성은 커진다.\n\n## 규제와 투자 관행 변화 불가피\n금융감독원은 상품 설명, 위험 고지, 판매 채널, 투자자 적합성 점검을 더 엄격히 볼 가능성이 크다. 국내 ETF 시장이 빠르게 커지는 상황에서 단일종목 2배 ETF는 선택권 확대와 과도한 위험 전가 사이의 경계에 서 있다. 앞으로는 운용사와 증권사가 수수료 수익보다 투자자 이해 가능성을 우선해야 한다. 개인투자자는 2배라는 문구를 수익 확대가 아니라 손실 확대 장치로 먼저 읽어야 한다. 단기 방향성에 대한 확신, 손절 기준, 보유 기간이 명확하지 않다면 삼성전자·SK하이닉스 단일종목 2배 ETF는 국내 주식 계좌에서 가장 공격적인 상품군으로 분류돼야 한다.",
+      "keywords": [
+        "단일종목 2배 ETF",
+        "삼성전자 ETF",
+        "SK하이닉스 ETF",
+        "레버리지 ETF",
+        "금융감독원",
+        "이찬진",
+        "증권사 수수료",
+        "개인투자자",
+        "국내 ETF 시장",
+        "단일종목 2배 ETF 논란 확산, 삼"
+      ],
+      "faq": [
+        {
+          "q": "단일종목 2배 ETF란 무엇인가?",
+          "a": "삼성전자나 SK하이닉스 같은 한 종목의 하루 수익률을 두 배로 추종하도록 설계된 레버리지 ETF다."
+        },
+        {
+          "q": "금융감독원장이 우려한 이유는 무엇인가?",
+          "a": "투자자 손실 위험은 커지는 반면 거래 수수료와 중개 수익은 증권사에 집중될 수 있는 구조이기 때문이다."
+        },
+        {
+          "q": "개인투자자는 무엇을 확인해야 하나?",
+          "a": "2배 수익 가능성보다 2배 손실 가능성, 일일 재조정 구조, 보유 기간, 손절 기준을 먼저 확인해야 한다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Single-Stock 2x ETFs Face Scrutiny as Korea Regulator Warns on Broker Gains",
+      "excerpt": "Lee Chan-jin, governor of Korea’s Financial Supervisory Service, warned that 2x single-stock ETFs tied to Samsung Electronics and SK hynix risk encouraging short-term trading while concentrating fee income at brokerages.",
+      "metaDescription": "Korea’s regulator is scrutinizing Samsung Electronics and SK hynix 2x single-stock ETFs, citing leverage risk, broker fee gains and investor protection concerns.",
+      "summary": "Korea’s single-stock 2x ETFs tied to Samsung Electronics and SK hynix have drawn a sharp regulatory warning. FSS Governor Lee Chan-jin sees a structure that benefits brokerages more reliably than retail investors. Daily 2x leverage can magnify both gains and losses. Sales practices and risk disclosures in Korea’s ETF market are likely to face closer review.",
+      "body": "Single-stock 2x ETFs in Korea are now under sharper regulatory pressure. Lee Chan-jin, governor of the Financial Supervisory Service, has made clear that leveraged ETFs built on Samsung Electronics and SK hynix are drifting toward a model that lifts brokerage revenue while leaving retail investors with outsized risk.\n\n## A Familiar Stock Can Still Be High Risk\nA 2x single-stock ETF seeks to deliver twice the daily move of one underlying share. If Samsung Electronics rises 5% in a session, the product targets about a 10% gain. If it falls 5%, the loss target is about 10%. A 10% drop in SK hynix can reduce a 1 million won position to roughly 800,000 won before costs. The leverage does not guarantee twice the long-term return because exposure is reset every day.\n\n## Fees Are Clear, Returns Are Not\nBrokerages can earn from trading, market making and related hedging activity. Investors gain easy won-denominated access to semiconductor volatility, but losses arrive at double speed. Because Samsung Electronics and SK hynix are among Korea’s most watched blue chips, familiar names can make a speculative product look deceptively simple.\n\n## Tougher Oversight Ahead\nThe FSS is expected to examine product explanations, risk notices, sales channels and investor suitability more closely. For retail investors, the phrase 2x should first mean amplified loss risk, not just amplified upside.",
+      "keywords": [
+        "single-stock 2x ETF",
+        "Samsung Electronics ETF",
+        "SK hynix ETF",
+        "leveraged ETF",
+        "Financial Supervisory Service",
+        "Lee Chan-jin",
+        "brokerage fees",
+        "retail investors",
+        "Korea ETF market",
+        "Single-Stock 2x ETFs"
+      ],
+      "faq": [
+        {
+          "q": "What is a single-stock 2x ETF?",
+          "a": "It is a leveraged ETF designed to track twice the daily return of one underlying stock, such as Samsung Electronics or SK hynix."
+        },
+        {
+          "q": "Why is the regulator concerned?",
+          "a": "The structure can increase retail investor losses while giving brokerages recurring trading and fee opportunities."
+        },
+        {
+          "q": "What should investors check first?",
+          "a": "They should review the daily reset mechanism, possible 2x losses, costs, holding period and exit rules."
+        }
+      ]
+    },
+    "ja": {
+      "title": "単一銘柄2倍ETFに警戒感、サムスン電子・SKハイニックス商品へ監督強化",
+      "excerpt": "李燦振金融監督院長は、サムスン電子とSKハイニックスを対象にした単一銘柄2倍レバレッジETFが短期売買を促し、手数料収益を証券会社に集中させる構造だと警戒を強めた。",
+      "metaDescription": "サムスン電子・SKハイニックス単一銘柄2倍ETFに監督当局が警戒。レバレッジ構造、手数料集中、個人投資家の損失リスクを整理。",
+      "summary": "サムスン電子とSKハイニックスを原資産とする単一銘柄2倍ETFが、韓国の監督当局から強い警告を受けた。李燦振金融監督院長は、投資家保護より証券会社の収益を押し上げる構造を問題視している。日次2倍の仕組みは利益だけでなく損失も拡大する。韓国ETF市場では販売慣行とリスク説明の点検が強まる見通しだ。",
+      "body": "韓国の単一銘柄2倍ETFに対する監督当局の警戒が強まっている。李燦振金融監督院長は、サムスン電子とSKハイニックスを原資産とするレバレッジETFについて、個人投資家の保護より証券会社の販売・仲介収益を拡大させる面が大きいと判断している。\n\n## 大型株でも高リスク商品\n単一銘柄2倍ETFは、原資産の1日の値動きの2倍を目標にする。サムスン電子が1日で5%上がれば約10%の上昇を狙い、5%下がれば約10%の損失となる。SKハイニックスが10%下落すれば、100万ウォンの投資は費用控除前で約80万ウォンに減る可能性がある。日々リバランスするため、長期収益が単純に2倍になるわけではない。\n\n## 手数料は確実、収益は不確実\n証券会社は売買仲介、流動性供給、ヘッジ取引で収益機会を得る。一方、投資家はウォン建てで半導体大型株の変動性に接近できるが、損失も2倍の速度で受ける。身近な優良株という印象は、レバレッジリスクを小さくしない。\n\n## 販売管理の強化へ\n金融監督院は商品説明、リスク告知、販売チャネル、投資家適合性をより厳しく見る可能性が高い。個人投資家は2倍を利益拡大ではなく、まず損失拡大の仕組みとして読む必要がある。",
+      "keywords": [
+        "単一銘柄2倍ETF",
+        "サムスン電子ETF",
+        "SKハイニックスETF",
+        "レバレッジETF",
+        "金融監督院",
+        "李燦振",
+        "証券会社手数料",
+        "個人投資家",
+        "韓国ETF市場",
+        "単一銘柄2倍ETFに警戒感、サムスン電子"
+      ],
+      "faq": [
+        {
+          "q": "単一銘柄2倍ETFとは何か。",
+          "a": "サムスン電子やSKハイニックスなど一つの銘柄の日次リターンを2倍で追うよう設計されたETFだ。"
+        },
+        {
+          "q": "監督当局が懸念する理由は何か。",
+          "a": "投資家の損失リスクが大きい一方、売買や手数料収益が証券会社に集まりやすいためだ。"
+        },
+        {
+          "q": "個人投資家が確認すべき点は何か。",
+          "a": "日次リバランス、2倍損失の可能性、費用、保有期間、損切り基準を確認すべきだ。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "单一股票2倍ETF引发监管警示，三星电子与SK海力士杠杆产品受关注",
+      "excerpt": "韩国金融监督院院长李灿振指出，挂钩三星电子和SK海力士的单一股票2倍杠杆ETF容易刺激个人投资者短线交易，并把手续费和中介收益集中到证券公司。",
+      "metaDescription": "韩国监管层关注三星电子、SK海力士单一股票2倍ETF，重点涉及杠杆风险、券商手续费收益和个人投资者保护。",
+      "summary": "挂钩三星电子和SK海力士的单一股票2倍ETF受到韩国金融监管层强烈警示。李灿振认为，该类产品更容易放大证券公司收益，而不是强化投资者保护。日内2倍杠杆会同步放大上涨和下跌。韩国ETF市场的销售说明和风险提示预计将更严格。",
+      "body": "韩国单一股票2倍ETF正面临更强监管压力。金融监督院院长李灿振明确指出，以三星电子和SK海力士为标的的杠杆ETF，正在形成一种让证券公司获得更多销售和交易收益、而个人投资者承担高风险的结构。\n\n## 大盘蓝筹也可能是高风险产品\n单一股票2倍ETF追求标的股票单日涨跌幅的两倍。三星电子单日上涨5%，产品目标涨幅约为10%；若下跌5%，目标损失约为10%。SK海力士若下跌10%，100万韩元投资在扣除费用前可能降至约80万韩元。由于每日重新调整仓位，长期收益并不等于标的长期收益的两倍。\n\n## 手续费确定，收益不确定\n证券公司可从交易中介、流动性供给和相关对冲中获得收入。投资者则能用韩元账户便捷参与半导体龙头股波动，但亏损也会以两倍速度扩大。三星电子和SK海力士虽是韩国市场核心股票，熟悉的名称并不能降低杠杆风险。\n\n## 监管审查趋严\n金融监督院可能更严格检查产品说明、风险告知、销售渠道和投资者适当性。个人投资者看到2倍时，应先理解为亏损放大机制，而不是单纯的收益放大机会。",
+      "keywords": [
+        "单一股票2倍ETF",
+        "三星电子ETF",
+        "SK海力士ETF",
+        "杠杆ETF",
+        "韩国金融监督院",
+        "李灿振",
+        "券商手续费",
+        "个人投资者",
+        "韩国ETF市场",
+        "单一股票2倍ETF引发监管警示，三星电子"
+      ],
+      "faq": [
+        {
+          "q": "什么是单一股票2倍ETF？",
+          "a": "它是以三星电子或SK海力士等单一股票为标的，追求其单日收益两倍表现的杠杆ETF。"
+        },
+        {
+          "q": "监管层为何担忧？",
+          "a": "因为投资者亏损风险被放大，而交易和手续费收益可能更稳定地流向证券公司。"
+        },
+        {
+          "q": "投资者应重点看什么？",
+          "a": "应关注每日再平衡、两倍亏损可能、交易成本、持有期限和止损规则。"
+        }
+      ]
+    },
+    "es": {
+      "title": "ETF 2x de acciones individuales en Corea enfrentan alerta por ganancias de brókeres",
+      "excerpt": "Lee Chan-jin, jefe del Servicio de Supervisión Financiera de Corea, advirtió que los ETF 2x ligados a Samsung Electronics y SK hynix pueden fomentar operaciones cortas y concentrar comisiones en las firmas de valores.",
+      "metaDescription": "Corea revisa los ETF 2x de Samsung Electronics y SK hynix por riesgo de apalancamiento, comisiones para brókeres y protección de inversores minoristas.",
+      "summary": "Los ETF 2x de acciones individuales ligados a Samsung Electronics y SK hynix recibieron una advertencia regulatoria en Corea. Lee Chan-jin considera que la estructura favorece a las firmas de valores más que a los inversores minoristas. El apalancamiento diario duplica tanto ganancias como pérdidas. Las ventas y avisos de riesgo del mercado ETF coreano queda",
+      "body": "Los ETF 2x de acciones individuales en Corea quedaron bajo mayor presión regulatoria. Lee Chan-jin, jefe del Servicio de Supervisión Financiera, ve en los productos apalancados sobre Samsung Electronics y SK hynix una estructura que aumenta ingresos de corretaje mientras deja a los minoristas con riesgos elevados.\n\n## Una acción conocida no elimina el riesgo\nUn ETF 2x de una sola acción busca duplicar el movimiento diario del valor subyacente. Si Samsung Electronics sube 5% en una sesión, el producto apunta a cerca de 10%. Si cae 5%, la pérdida objetivo ronda 10%. Una baja de 10% en SK hynix puede reducir una inversión de 1 millón de wones a unos 800.000 wones antes de costos. El reajuste diario impide asumir que el retorno largo será simplemente el doble.\n\n## Comisiones claras, retorno incierto\nLas firmas de valores ganan por intermediación, provisión de liquidez y coberturas. El inversor accede en wones a la volatilidad de grandes tecnológicas coreanas, pero también absorbe pérdidas al doble de velocidad. Que Samsung Electronics y SK hynix sean nombres familiares no reduce el riesgo del apalancamiento.\n\n## Mayor control de ventas\nEl regulador coreano probablemente revisará con más rigor explicaciones del producto, advertencias, canales de venta e idoneidad del inversor. Para el minorista, 2x debe leerse primero como pérdida ampliada, no solo como mayor potencial alcista.",
+      "keywords": [
+        "ETF 2x de acción individual",
+        "ETF Samsung Electronics",
+        "ETF SK hynix",
+        "ETF apalancado",
+        "Servicio de Supervisión Financiera",
+        "Lee Chan-jin",
+        "comisiones de brókeres",
+        "inversores minoristas",
+        "mercado ETF de Corea",
+        "ETF 2x de acciones i"
+      ],
+      "faq": [
+        {
+          "q": "¿Qué es un ETF 2x de acción individual?",
+          "a": "Es un ETF apalancado diseñado para seguir el doble del rendimiento diario de una sola acción, como Samsung Electronics o SK hynix."
+        },
+        {
+          "q": "¿Por qué preocupa al regulador?",
+          "a": "Porque puede ampliar pérdidas de minoristas mientras genera comisiones y actividad recurrente para las firmas de valores."
+        },
+        {
+          "q": "¿Qué debe revisar un inversor?",
+          "a": "Debe revisar reajuste diario, posibilidad de pérdidas 2x, costos, plazo de tenencia y reglas de salida."
+        }
+      ]
+    },
+    "pt": {
+      "title": "ETFs 2x de ação única na Coreia entram em alerta por ganhos das corretoras",
+      "excerpt": "Lee Chan-jin, chefe do Serviço de Supervisão Financeira da Coreia, alertou que ETFs 2x ligados a Samsung Electronics e SK hynix podem estimular operações curtas e concentrar receitas de taxas nas corretoras.",
+      "metaDescription": "Coreia avalia ETFs 2x de Samsung Electronics e SK hynix por risco de alavancagem, taxas para corretoras e proteção ao investidor pessoa física.",
+      "summary": "Os ETFs 2x de ação única ligados a Samsung Electronics e SK hynix receberam forte alerta regulatório na Coreia. Lee Chan-jin vê uma estrutura que favorece receitas das corretoras mais do que a proteção do investidor. A alavancagem diária amplia ganhos e perdas. O mercado coreano de ETFs deve enfrentar maior rigor em venda e divulgação de risco.",
+      "body": "Os ETFs 2x de ação única na Coreia passaram a enfrentar pressão regulatória mais forte. Lee Chan-jin, chefe do Serviço de Supervisão Financeira, vê nos produtos alavancados sobre Samsung Electronics e SK hynix uma estrutura que aumenta receitas de corretoras enquanto transfere risco elevado ao investidor pessoa física.\n\n## Ação conhecida não significa baixo risco\nUm ETF 2x de ação única busca entregar duas vezes o movimento diário do ativo. Se Samsung Electronics sobe 5% no dia, o produto mira cerca de 10%. Se cai 5%, a perda alvo fica perto de 10%. Uma queda de 10% em SK hynix pode reduzir 1 milhão de wones para cerca de 800 mil wones antes de custos. Como a exposição é reajustada todos os dias, o retorno de longo prazo não é simplesmente o dobro.\n\n## Taxas são certas, retorno não\nCorretoras podem ganhar com intermediação, liquidez e operações de hedge. O investidor acessa em wones a volatilidade das grandes ações de semicondutores, mas sente perdas em dobro. Nomes fortes como Samsung Electronics e SK hynix não tornam o produto conservador.\n\n## Supervisão mais dura\nO regulador deve olhar com mais rigor explicações, avisos de risco, canais de venda e adequação do investidor. Para o varejo, 2x deve significar primeiro risco de perda ampliada.",
+      "keywords": [
+        "ETF 2x de ação única",
+        "ETF Samsung Electronics",
+        "ETF SK hynix",
+        "ETF alavancado",
+        "Serviço de Supervisão Financeira",
+        "Lee Chan-jin",
+        "taxas de corretoras",
+        "investidor pessoa física",
+        "mercado de ETFs da Coreia",
+        "ETFs 2x de ação únic"
+      ],
+      "faq": [
+        {
+          "q": "O que é um ETF 2x de ação única?",
+          "a": "É um ETF alavancado que busca acompanhar duas vezes o retorno diário de uma única ação, como Samsung Electronics ou SK hynix."
+        },
+        {
+          "q": "Por que há preocupação regulatória?",
+          "a": "Porque perdas do investidor podem ser ampliadas enquanto corretoras capturam taxas e receitas de negociação."
+        },
+        {
+          "q": "O que o investidor deve checar?",
+          "a": "Rebalanceamento diário, perdas em dobro, custos, prazo de permanência e regra de saída."
+        }
+      ]
+    },
+    "de": {
+      "title": "Einzelaktien-2x-ETFs in Korea unter Druck wegen Vorteilen für Brokerhäuser",
+      "excerpt": "Lee Chan-jin, Leiter der koreanischen Finanzaufsicht, warnt, dass 2x-ETFs auf Samsung Electronics und SK hynix kurzfristigen Handel fördern und Gebühreneinnahmen bei Wertpapierfirmen bündeln können.",
+      "metaDescription": "Koreas Aufsicht prüft 2x-ETFs auf Samsung Electronics und SK hynix wegen Hebelrisiko, Brokergebühren und Schutz privater Anleger.",
+      "summary": "Einzelaktien-2x-ETFs auf Samsung Electronics und SK hynix stehen in Korea unter schärferer Beobachtung. Lee Chan-jin sieht eine Struktur, die Brokerhäuser verlässlicher begünstigt als Privatanleger. Der tägliche 2x-Hebel vergrößert Gewinne und Verluste. Vertrieb und Risikohinweise im koreanischen ETF-Markt dürften strenger geprüft werden.",
+      "body": "Koreas Einzelaktien-2x-ETFs geraten stärker unter regulatorischen Druck. Lee Chan-jin, Leiter der Finanzaufsicht, sieht bei gehebelten Produkten auf Samsung Electronics und SK hynix ein Modell, das Brokererlöse erhöht und Privatanlegern hohe Risiken überlässt.\n\n## Bekannte Aktien bleiben riskant\nEin Einzelaktien-2x-ETF soll die tägliche Bewegung einer Aktie verdoppeln. Steigt Samsung Electronics an einem Tag um 5%, zielt das Produkt auf etwa 10%. Fällt die Aktie um 5%, liegt der Zielverlust ebenfalls bei rund 10%. Ein Rückgang von 10% bei SK hynix kann 1 Million Won vor Kosten auf etwa 800.000 Won drücken. Wegen der täglichen Anpassung ist die langfristige Rendite nicht automatisch doppelt so hoch.\n\n## Gebühren sind sicherer als Erträge\nWertpapierfirmen verdienen an Handel, Liquidität und Absicherung. Anleger erhalten einfachen Zugang zur Volatilität koreanischer Halbleiterwerte, tragen Verluste aber mit doppelter Geschwindigkeit. Der gute Ruf von Samsung Electronics und SK hynix senkt das Hebelrisiko nicht.\n\n## Strengere Aufsicht erwartet\nDie Finanzaufsicht dürfte Produktinformationen, Risikohinweise, Vertriebskanäle und Geeignetheit genauer prüfen. Für Privatanleger bedeutet 2x zuerst ein vergrößertes Verlustrisiko.",
+      "keywords": [
+        "Einzelaktien-2x-ETF",
+        "Samsung Electronics ETF",
+        "SK hynix ETF",
+        "gehebelter ETF",
+        "Finanzaufsicht Korea",
+        "Lee Chan-jin",
+        "Brokergebühren",
+        "Privatanleger",
+        "koreanischer ETF-Markt",
+        "Einzelaktien-2x-ETFs"
+      ],
+      "faq": [
+        {
+          "q": "Was ist ein Einzelaktien-2x-ETF?",
+          "a": "Ein gehebelter ETF, der das Doppelte der täglichen Rendite einer einzelnen Aktie wie Samsung Electronics oder SK hynix anstrebt."
+        },
+        {
+          "q": "Warum ist die Aufsicht besorgt?",
+          "a": "Weil Verluste privater Anleger größer werden können, während Broker wiederkehrende Handels- und Gebühreneinnahmen erzielen."
+        },
+        {
+          "q": "Was sollten Anleger prüfen?",
+          "a": "Tägliche Neugewichtung, mögliche 2x-Verluste, Kosten, Haltedauer und klare Ausstiegsregeln."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Les ETF 2x sur une seule action en Corée inquiètent pour les gains des courtiers",
+      "excerpt": "Lee Chan-jin, chef du Service coréen de supervision financière, alerte sur les ETF 2x liés à Samsung Electronics et SK hynix, susceptibles d’encourager le trading court et de concentrer les commissions chez les courtiers.",
+      "metaDescription": "La Corée surveille les ETF 2x sur Samsung Electronics et SK hynix pour risque de levier, commissions des courtiers et protection des particuliers.",
+      "summary": "Les ETF 2x sur une seule action liés à Samsung Electronics et SK hynix font l’objet d’un avertissement réglementaire en Corée. Lee Chan-jin juge que leur structure favorise davantage les revenus des courtiers que la protection des investisseurs. Le levier quotidien double gains et pertes. Les pratiques de vente et les avertissements de risque devraient être ",
+      "body": "Les ETF 2x sur une seule action en Corée sont désormais sous pression réglementaire accrue. Lee Chan-jin, chef du Service de supervision financière, estime que les produits à levier sur Samsung Electronics et SK hynix créent surtout des revenus pour les courtiers tout en exposant les particuliers à des risques élevés.\n\n## Une grande valeur reste risquée\nUn ETF 2x sur une action cherche à reproduire deux fois le mouvement quotidien du titre. Si Samsung Electronics gagne 5% en séance, le produit vise environ 10%. S’il perd 5%, la perte cible est proche de 10%. Une chute de 10% de SK hynix peut ramener 1 million de wons à environ 800.000 wons avant frais. Le réajustement quotidien empêche de considérer le rendement long terme comme simplement doublé.\n\n## Frais certains, rendement incertain\nLes courtiers peuvent gagner sur l’intermédiation, la liquidité et les couvertures. L’investisseur accède facilement, en wons, à la volatilité des leaders coréens des semi-conducteurs, mais les pertes se matérialisent aussi deux fois plus vite. Un nom familier ne rend pas le levier moins dangereux.\n\n## Contrôle renforcé\nLa supervision devrait porter plus durement sur les explications, les risques, les canaux de vente et l’adéquation au profil. Pour un particulier, 2x doit d’abord signifier risque de perte amplifiée.",
+      "keywords": [
+        "ETF 2x action unique",
+        "ETF Samsung Electronics",
+        "ETF SK hynix",
+        "ETF à levier",
+        "supervision financière coréenne",
+        "Lee Chan-jin",
+        "commissions de courtage",
+        "investisseurs particuliers",
+        "marché ETF coréen",
+        "Les ETF 2x sur une s"
+      ],
+      "faq": [
+        {
+          "q": "Qu’est-ce qu’un ETF 2x sur une seule action ?",
+          "a": "C’est un ETF à levier visant deux fois la performance quotidienne d’un seul titre, comme Samsung Electronics ou SK hynix."
+        },
+        {
+          "q": "Pourquoi le régulateur s’inquiète-t-il ?",
+          "a": "Parce que les pertes des particuliers peuvent être amplifiées tandis que les courtiers captent frais et revenus de négociation."
+        },
+        {
+          "q": "Que doit vérifier un investisseur ?",
+          "a": "Le réajustement quotidien, le risque de perte 2x, les coûts, la durée de détention et la règle de sortie."
+        }
+      ]
+    },
+    "ar": {
+      "title": "صناديق الأسهم المفردة برافعة 2x في كوريا تحت الرقابة بسبب مكاسب شركات الوساطة",
+      "excerpt": "حذر لي تشان-جين، رئيس هيئة الرقابة المالية في كوريا، من أن صناديق ETF برافعة 2x المرتبطة بسامسونغ إلكترونكس وSK hynix قد تدفع الأفراد إلى التداول القصير وتجمع الرسوم لدى شركات الوساطة.",
+      "metaDescription": "كوريا تراقب صناديق ETF برافعة 2x على سامسونغ إلكترونكس وSK hynix بسبب مخاطر الرافعة ورسوم الوسطاء وحماية المستثمرين الأفراد.",
+      "summary": "تلقت صناديق ETF للأسهم المفردة برافعة 2x على سامسونغ إلكترونكس وSK hynix تحذيرا تنظيميا قويا في كوريا. يرى لي تشان-جين أن هيكلها يخدم إيرادات شركات الوساطة أكثر من حماية المستثمرين الأفراد. الرافعة اليومية تضاعف المكاسب والخسائر معا. ومن المتوقع تشديد فحص ممارسات البيع وإفصاحات المخاطر.",
+      "body": "تواجه صناديق ETF للأسهم المفردة برافعة 2x في كوريا ضغطا رقابيا متزايدا. لي تشان-جين، رئيس هيئة الرقابة المالية، يرى أن المنتجات المرتبطة بسامسونغ إلكترونكس وSK hynix تمنح شركات الوساطة فرصا أوضح للرسوم والتداول، بينما يتحمل المستثمر الفرد مخاطر عالية.\n\n## السهم المعروف لا يعني خطرا منخفضا\nيسعى صندوق 2x إلى تحقيق ضعف الحركة اليومية للسهم الأساسي. إذا ارتفع سهم سامسونغ إلكترونكس 5% في يوم واحد، يستهدف المنتج نحو 10%. وإذا هبط 5%، تكون الخسارة المستهدفة نحو 10%. هبوط SK hynix بنسبة 10% قد يخفض استثمارا قدره مليون وون إلى نحو 800 ألف وون قبل التكاليف. إعادة الضبط اليومية تعني أن العائد الطويل لا يساوي ببساطة الضعف.\n\n## الرسوم مؤكدة والعائد غير مضمون\nتحقق شركات الوساطة دخلا من التنفيذ وتوفير السيولة والتحوط. يحصل المستثمر على وصول سهل بالوون إلى تقلبات أسهم أشباه الموصلات الكبرى، لكنه يواجه خسائر مضاعفة. شهرة سامسونغ وSK hynix لا تلغي خطر الرافعة.\n\n## رقابة أشد قادمة\nمن المرجح أن تركز الهيئة على شرح المنتج، وتحذيرات المخاطر، وقنوات البيع، وملاءمة المستثمر. كلمة 2x يجب أن تعني أولا تضخيما للخسارة، لا فرصة ربح فقط.",
+      "keywords": [
+        "ETF سهم مفرد 2x",
+        "ETF سامسونغ إلكترونكس",
+        "ETF SK hynix",
+        "ETF برافعة مالية",
+        "هيئة الرقابة المالية الكورية",
+        "لي تشان-جين",
+        "رسوم الوساطة",
+        "المستثمرون الأفراد",
+        "سوق ETF الكوري",
+        "صناديق الأسهم المفرد"
+      ],
+      "faq": [
+        {
+          "q": "ما هو ETF السهم المفرد برافعة 2x؟",
+          "a": "هو صندوق يسعى لتتبع ضعف العائد اليومي لسهم واحد مثل سامسونغ إلكترونكس أو SK hynix."
+        },
+        {
+          "q": "لماذا توجد مخاوف رقابية؟",
+          "a": "لأن خسائر المستثمرين قد تتضاعف بينما تستفيد شركات الوساطة من الرسوم ونشاط التداول."
+        },
+        {
+          "q": "ما الذي يجب على المستثمر فحصه؟",
+          "a": "إعادة الضبط اليومية، احتمال خسارة مضاعفة، التكاليف، مدة الاحتفاظ، وقاعدة الخروج."
+        }
+      ]
+    },
+    "hi": {
+      "title": "कोरिया में सिंगल-स्टॉक 2x ETF पर सख्ती, ब्रोकर कमाई को लेकर चेतावनी",
+      "excerpt": "कोरिया के वित्तीय पर्यवेक्षण प्रमुख ली चान-जिन ने चेताया कि Samsung Electronics और SK hynix से जुड़े सिंगल-स्टॉक 2x ETF छोटे निवेशकों को अल्पकालिक ट्रेडिंग की ओर धकेल सकते हैं और फीस आय ब्रोकरेज के पास केंद्रित कर सकते हैं।",
+      "metaDescription": "कोरिया में Samsung Electronics और SK hynix 2x ETF पर निगरानी बढ़ी। लीवरेज जोखिम, ब्रोकरेज फीस और खुदरा निवेशक सुरक्षा मुख्य मुद्दे हैं।",
+      "summary": "Samsung Electronics और SK hynix से जुड़े सिंगल-स्टॉक 2x ETF पर कोरिया में कड़ी नियामकीय चेतावनी आई है। ली चान-जिन मानते हैं कि यह ढांचा निवेशक सुरक्षा से अधिक ब्रोकरेज आय को मजबूत करता है। दैनिक 2x लीवरेज लाभ और नुकसान दोनों को बढ़ाता है। ETF बिक्री और जोखिम खुलासे पर सख्त नजर रह सकती है।",
+      "body": "कोरिया में सिंगल-स्टॉक 2x ETF अब ज्यादा नियामकीय दबाव में हैं। वित्तीय पर्यवेक्षण प्रमुख ली चान-जिन ने Samsung Electronics और SK hynix आधारित लीवरेज ETF को ऐसी संरचना माना है जिसमें ब्रोकरेज को फीस और ट्रेडिंग आय मिलती है, जबकि खुदरा निवेशक बड़ा जोखिम उठाते हैं।\n\n## परिचित शेयर भी जोखिम भरा हो सकता है\nसिंगल-स्टॉक 2x ETF किसी एक शेयर की दैनिक चाल का दोगुना लक्ष्य रखता है। Samsung Electronics एक दिन में 5% चढ़े तो उत्पाद लगभग 10% लाभ का लक्ष्य रखता है। 5% गिरावट पर नुकसान भी लगभग 10% हो सकता है। SK hynix में 10% गिरावट से 10 लाख वॉन का निवेश लागत से पहले करीब 8 लाख वॉन रह सकता है। रोज रीसेट होने से लंबी अवधि का रिटर्न सीधे दोगुना नहीं होता।\n\n## फीस स्पष्ट, रिटर्न अनिश्चित\nब्रोकरेज को ट्रेडिंग, लिक्विडिटी और हेजिंग से कमाई मिल सकती है। निवेशक वॉन में कोरियाई सेमीकंडक्टर दिग्गजों की अस्थिरता खरीदता है, लेकिन नुकसान भी दोगुनी गति से आता है। बड़े नाम लीवरेज जोखिम को कम नहीं करते।\n\n## निगरानी कड़ी होगी\nउत्पाद विवरण, जोखिम चेतावनी, बिक्री चैनल और निवेशक उपयुक्तता पर जांच बढ़ सकती है। खुदरा निवेशक के लिए 2x का अर्थ पहले नुकसान का विस्तार होना चाहिए, केवल लाभ का अवसर नहीं।",
+      "keywords": [
+        "सिंगल-स्टॉक 2x ETF",
+        "Samsung Electronics ETF",
+        "SK hynix ETF",
+        "लीवरेज ETF",
+        "कोरिया वित्तीय पर्यवेक्षण",
+        "Lee Chan-jin",
+        "ब्रोकरेज फीस",
+        "खुदरा निवेशक",
+        "कोरिया ETF बाजार",
+        "कोरिया में सिंगल-स्ट"
+      ],
+      "faq": [
+        {
+          "q": "सिंगल-स्टॉक 2x ETF क्या है?",
+          "a": "यह ऐसा लीवरेज ETF है जो Samsung Electronics या SK hynix जैसे एक शेयर की दैनिक रिटर्न का दोगुना लक्ष्य रखता है।"
+        },
+        {
+          "q": "नियामक को चिंता क्यों है?",
+          "a": "क्योंकि छोटे निवेशकों का नुकसान बढ़ सकता है, जबकि ट्रेडिंग और फीस आय ब्रोकरेज को मिलती है।"
+        },
+        {
+          "q": "निवेशक को क्या जांचना चाहिए?",
+          "a": "दैनिक रीसेट, दोगुने नुकसान की संभावना, लागत, होल्डिंग अवधि और निकास नियम।"
+        }
+      ]
+    },
+    "id": {
+      "title": "ETF 2x Saham Tunggal Korea Disorot karena Keuntungan Lebih Besar bagi Sekuritas",
+      "excerpt": "Lee Chan-jin, kepala Financial Supervisory Service Korea, memperingatkan bahwa ETF 2x berbasis Samsung Electronics dan SK hynix dapat mendorong trading jangka pendek serta memusatkan pendapatan biaya pada perusahaan sekuritas.",
+      "metaDescription": "Korea menyoroti ETF 2x Samsung Electronics dan SK hynix karena risiko leverage, pendapatan biaya sekuritas, dan perlindungan investor ritel.",
+      "summary": "ETF 2x saham tunggal berbasis Samsung Electronics dan SK hynix mendapat peringatan keras dari regulator Korea. Lee Chan-jin menilai strukturnya lebih menguntungkan perusahaan sekuritas daripada melindungi investor ritel. Leverage harian memperbesar laba dan rugi. Praktik penjualan serta pengungkapan risiko di pasar ETF Korea berpeluang diperketat.",
+      "body": "ETF 2x saham tunggal di Korea kini berada di bawah tekanan pengawasan yang lebih kuat. Lee Chan-jin, kepala Financial Supervisory Service, menilai produk leverage berbasis Samsung Electronics dan SK hynix cenderung memperbesar pendapatan perusahaan sekuritas, sementara investor ritel menanggung risiko tinggi.\n\n## Saham Terkenal Tetap Berisiko\nETF 2x saham tunggal menargetkan dua kali pergerakan harian saham dasar. Jika Samsung Electronics naik 5% dalam sehari, produk menargetkan kenaikan sekitar 10%. Jika turun 5%, target rugi sekitar 10%. Penurunan 10% pada SK hynix dapat membuat investasi 1 juta won menjadi sekitar 800.000 won sebelum biaya. Karena eksposur diatur ulang setiap hari, imbal hasil jangka panjang tidak otomatis dua kali lipat.\n\n## Biaya Pasti, Hasil Tidak Pasti\nPerusahaan sekuritas dapat memperoleh pendapatan dari perantara transaksi, penyediaan likuiditas, dan lindung nilai. Investor mendapat akses mudah dalam won ke volatilitas saham semikonduktor besar Korea, tetapi kerugian juga terasa dua kali lebih cepat. Nama besar Samsung Electronics dan SK hynix tidak mengurangi risiko leverage.\n\n## Pengawasan Akan Lebih Ketat\nRegulator diperkirakan meninjau penjelasan produk, peringatan risiko, kanal penjualan, dan kesesuaian investor. Bagi investor ritel, 2x harus dibaca lebih dulu sebagai risiko kerugian yang diperbesar.",
+      "keywords": [
+        "ETF 2x saham tunggal",
+        "ETF Samsung Electronics",
+        "ETF SK hynix",
+        "ETF leverage",
+        "Financial Supervisory Service",
+        "Lee Chan-jin",
+        "biaya sekuritas",
+        "investor ritel",
+        "pasar ETF Korea"
+      ],
+      "faq": [
+        {
+          "q": "Apa itu ETF 2x saham tunggal?",
+          "a": "Ini adalah ETF leverage yang dirancang mengikuti dua kali imbal hasil harian satu saham, seperti Samsung Electronics atau SK hynix."
+        },
+        {
+          "q": "Mengapa regulator khawatir?",
+          "a": "Karena kerugian investor ritel dapat membesar sementara sekuritas memperoleh biaya dan pendapatan transaksi."
+        },
+        {
+          "q": "Apa yang perlu dicek investor?",
+          "a": "Mekanisme reset harian, potensi rugi 2x, biaya, jangka waktu kepemilikan, dan aturan keluar."
+        }
+      ]
+    }
+  }
+}
