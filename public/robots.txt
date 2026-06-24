@@ -19,9 +19,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Amazonbot
-Allow: /
-
 Sitemap: https://stockmarketnews.online/sitemap.xml
 Host: stockmarketnews.online
 IndexNow-Key: b1f877b662bfd5fc01ef6da415868578
