@@ -6,7 +6,7 @@ type Props = {
   className?: string;
 };
 
-const DEFAULT_ADSTERRA_KEY = '79e8b8aa44a86272e06fed27822619a7';
+const DEFAULT_ADSTERRA_KEY = '7dc22939e3fff61e91fedc9f777126e3';
 const DEFAULT_ADSTERRA_HOST = 'molecularshindy.com';
 
 function normalizeAdsterraKey(value?: string) {
