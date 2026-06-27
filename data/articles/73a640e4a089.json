@@ -1,0 +1,383 @@
+{
+  "id": "73a640e4a089",
+  "slug": "주식원자재비상장주까지-무기한-선물의-무한-확장한국은엠블록레터-290903",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-06-27T16:33:14.878Z",
+  "updatedAt": "2026-06-27T16:33:14.878Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12084455",
+  "titleFingerprint": "a215d71407d807d6cb9987d52956e42333ea3048",
+  "dedupKeys": [
+    "73a640e4a08963d1c6aa61829553a867480cb785",
+    "a215d71407d807d6cb9987d52956e42333ea3048",
+    "e9f6fe12c2caafde676a7ab47df3d5e7021a99a6"
+  ],
+  "imageUrl": "/images/articles/73a640e4a089.png",
+  "i18n": {
+    "ko": {
+      "title": "무기한 선물, 비트코인 넘어 주식·원자재·비상장주로 확장…한국 투자자 보호 과제",
+      "excerpt": "비트코인과 이더리움에 머물던 무기한 선물이 2026년 주식지수, 원자재, 비상장주 가격까지 넓어지고 있다. 24시간 레버리지 거래와 자금비용 구조가 한국 투자자에게 새 기회, 환전·세금·청산 위험, 국내 규제 과제를 동시에 던진다.",
+      "metaDescription": "무기한 선물이 암호화폐를 넘어 주식·원자재·비상장주로 확장 중이다. 미국 시장 거래액 급증, 24시간 레버리지 구조, 자금비용, 청산 위험, 원화 환산, 국내 규제 공백과 제도권 편입 가능성을 한국 투자자 관점에서 정리했다.",
+      "summary": "무기한 선물은 만기 없이 기초자산 가격을 추종하는 레버리지 파생상품이다. 시장은 비트코인과 이더리움 중심에서 주식지수, 원자재, 비상장주 가격으로 빠르게 넓어지고 있다. 미국에서는 수조원대 거래가 이미 발생했고, 한국은 현물 중심 가상자산 시장과 파생상품 규제의 경계에서 제도 정비가 필요하다.",
+      "body": "무기한 선물(Perp)은 만기일 없이 가격 방향에 베팅하는 파생상품이다. 한때 비트코인과 이더리움 중심이던 시장이 이제 주식지수, 원자재, 비상장주 가격까지 겨냥하며 전통 금융의 거래 시간과 상장 절차를 압박하고 있다. 한국 시장의 핵심 쟁점은 수익 기회보다 규제 공백, 레버리지 관리, 투자자 보호다.\n\n## 24시간 파생상품이 전통 시장을 흔든다\n무기한 선물은 일반 선물처럼 만기가 없어 롤오버 부담이 작고, 현물 가격과 괴리를 줄이기 위해 매수·매도 포지션 사이에 자금비용이 오간다. 거래는 대개 24시간 이어지고 증거금 기반 레버리지가 붙는다. 이 구조는 주말과 야간에도 포지션을 조정하려는 투자자에게 편하지만, 급락 때 자동청산이 한꺼번에 몰리는 취약점도 만든다. 최근 글로벌 거래권에서는 암호화폐뿐 아니라 미국 주식지수, 금·원유 같은 원자재, 상장 전 기업 지분을 추종하는 합성 계약까지 실험대에 올랐다.\n\n## 수치로 본 확장 속도\n미국 규제권에 들어온 암호화폐 무기한 선물은 출시 몇 주 만에 한 플랫폼에서 누적 거래액 85억달러를 넘었다. 달러당 1400원으로 단순 환산하면 약 11조9000억원이다. 다른 대형 사업자의 미국형 무기한 계약은 2025년 7월 이후 명목 거래액이 2110억달러, 약 295조원에 이르렀다. 일부 주가지수 연계 상품은 최대 20배 레버리지 구조로 설계됐다. 전통 거래소 주가가 이 변화에 민감하게 움직인 이유는 분명하다. 무기한 선물은 거래 시간을 사실상 무제한으로 늘리고, 투자자가 개별 주식·원자재·비상장 자산 가격을 하나의 앱에서 거래하도록 만든다.\n\n## 한국 투자자의 기회와 위험\n한국에서는 국내 가상자산 거래소가 현물 중심으로 운영되고, 고배율 파생상품은 별도 인가와 투자자 보호 장치 없이는 제도권 상품으로 자리 잡기 어렵다. 그 공백 때문에 일부 투자자는 해외 거래소나 탈중앙화 플랫폼을 이용한다. 이 경우 원화 환전, 해외 송금, 세금 신고, 분쟁 해결, 접속 제한 위험을 함께 부담한다. 코스피200 선물·옵션처럼 관리되는 장내 파생시장과 달리, 글로벌 퍼프는 자금비용, 가격지수 산출, 청산 규칙을 투자자가 직접 확인해야 한다.\n\n한국의 선택지는 서두른 허용보다 단계적 정비에 가깝다. 허용 가능한 기초자산, 개인투자자 레버리지 한도, 실시간 위험고지, 시장 급변 시 거래정지, 원화 결제 여부가 먼저 정리될 가능성이 크다. 무기한 선물이 주식·원자재·비상장주까지 확장될수록 한국 투자자는 상품명보다 구조를 먼저 읽어야 한다. 수익 기회는 커졌지만, 손실 속도도 24시간으로 빨라졌다.",
+      "keywords": [
+        "무기한 선물",
+        "퍼프",
+        "Perp",
+        "암호화폐 파생상품",
+        "주식 선물",
+        "원자재 선물",
+        "비상장주",
+        "레버리지",
+        "한국 가상자산 규제",
+        "투자자 보호"
+      ],
+      "faq": [
+        {
+          "q": "무기한 선물은 일반 선물과 무엇이 다른가?",
+          "a": "일반 선물은 만기일이 있지만 무기한 선물은 만기가 없다. 대신 자금비용을 통해 계약 가격이 현물 가격에서 크게 벗어나지 않도록 조정한다."
+        },
+        {
+          "q": "주식·원자재·비상장주 무기한 선물은 실제 자산을 사는 것인가?",
+          "a": "대부분은 실제 주식이나 원자재를 보유하는 구조가 아니라 가격을 추종하는 현금결제형 파생상품이다. 비상장주 연계 상품도 지분권이나 의결권을 주는 투자가 아니다."
+        },
+        {
+          "q": "한국 투자자는 무엇을 먼저 확인해야 하나?",
+          "a": "거래소의 인가 여부, 레버리지 한도, 자금비용 산식, 강제청산 기준, 원화 환전 비용, 세금 신고, 분쟁 해결 절차를 확인해야 한다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Perpetual Futures Expand From Bitcoin to Stocks, Commodities and Private Shares",
+      "excerpt": "Perpetual futures are moving beyond Bitcoin and Ether in 2026 into stock indexes, commodities and private-company price exposure. Their 24-hour leverage model creates new access, funding-cost risk and regulatory questions for Korean investo",
+      "metaDescription": "Perpetual futures are expanding from crypto to stocks, commodities and private shares. The article explains leverage, funding costs, liquidation risk, won conversion and Korea’s regulatory challenges.",
+      "summary": "Perpetual futures are leveraged derivatives that track asset prices without an expiry date. The market is expanding from Bitcoin and Ether into equity indexes, commodities and private-company exposure. U.S. volumes have already reached multibillion-dollar scale, while Korea must reconcile spot-centered crypto markets with derivatives oversight and investor p",
+      "body": "Perpetual futures, or perps, are derivatives with no expiry date. A market once led by Bitcoin and Ether is moving into stock indexes, commodities and synthetic prices of private companies. For Korean investors, leverage and legal protection now matter as much as access.\n\n## Around-the-clock leverage\nPerps use margin and periodic funding payments to pull contract prices toward the underlying asset. They make overnight and weekend positioning easier, but shocks can trigger fast auto-liquidations. Global venues are testing contracts linked to U.S. equity indexes, gold, oil and pre-IPO company values.\n\n## Scale and Korea\nOne regulated U.S. crypto perp venue passed 8.5 billion dollars in cumulative volume within weeks, about 11.9 trillion won at 1,400 won per dollar. Another operator has processed 211 billion dollars since July 2025, about 295 trillion won, and some stock-index products allow up to 20 times leverage. Korean crypto exchanges remain mainly spot markets, so high-leverage perps would need separate approval, margin rules, risk notices, market halts and settlement standards. Offshore or decentralized use adds FX, tax, access and dispute risk.",
+      "keywords": [
+        "perpetual futures",
+        "perps",
+        "crypto derivatives",
+        "stock futures",
+        "commodity futures",
+        "private shares",
+        "leverage",
+        "Korea crypto regulation",
+        "funding rate",
+        "investor protection"
+      ],
+      "faq": [
+        {
+          "q": "How are perpetual futures different from regular futures?",
+          "a": "Regular futures have an expiry date. Perpetual futures do not, and they use funding payments to keep contract prices close to the spot market."
+        },
+        {
+          "q": "Do stock, commodity or private-share perps mean ownership of the asset?",
+          "a": "Usually no. They are cash-settled derivatives tracking price exposure, not ownership of shares, commodities, voting rights or dividends."
+        },
+        {
+          "q": "What should Korean investors check first?",
+          "a": "They should check venue authorization, leverage limits, funding formulas, liquidation rules, won conversion costs, tax reporting and dispute procedures."
+        }
+      ]
+    },
+    "ja": {
+      "title": "無期限先物、ビットコインから株式・商品・未公開株価格へ拡大",
+      "excerpt": "2026年、無期限先物はビットコインとイーサリアム中心の市場から株価指数、商品、未公開企業の価格エクスポージャーへ広がっている。24時間レバレッジ取引は韓国投資家に新たな機会と規制課題を同時にもたらす。",
+      "metaDescription": "無期限先物が暗号資産から株式、商品、未公開株価格へ拡大。レバレッジ、資金調達料、清算リスク、ウォン換算、韓国の規制課題を整理する。",
+      "summary": "無期限先物は満期なしで資産価格を追跡するレバレッジ型デリバティブだ。市場はビットコインとイーサリアムから株価指数、商品、未公開株価格へ急速に広がっている。米国ではすでに巨額取引が生まれ、韓国では現物中心の暗号資産市場とデリバティブ規制の整備が焦点になる。",
+      "body": "無期限先物、いわゆるパープは満期日がないデリバティブだ。ビットコインとイーサリアム中心だった市場は、株価指数、商品、未公開企業の合成価格へ広がっている。韓国の投資家にとって重要なのは、アクセスのしやすさだけでなく、レバレッジ管理と法的保護だ。\n\n## 24時間型のレバレッジ\n無期限先物は証拠金と定期的な資金調達料で、契約価格を原資産価格に近づける。夜間や週末にもポジションを調整できる一方、相場急変時には自動清算が短時間で連鎖しやすい。世界の取引圏では米国株指数、金、原油、上場前企業価値に連動する契約が試されている。\n\n## 規模と韓国\n米国の規制下に入った暗号資産パープは、あるプラットフォームで数週間以内に累計85億ドル、1ドル1400ウォン換算で約11.9兆ウォンを超えた。別の大手事業者は2025年7月以降2110億ドル、約295兆ウォンの名目取引を処理した。一部の商品は最大20倍のレバレッジを採用する。韓国の暗号資産取引所は主に現物市場であり、高倍率パープには別途認可、証拠金規則、リスク告知、取引停止、決済基準が必要になる。海外や分散型市場の利用には為替、税務、接続制限、紛争リスクが伴う。",
+      "keywords": [
+        "無期限先物",
+        "パープ",
+        "暗号資産デリバティブ",
+        "株式先物",
+        "商品先物",
+        "未公開株",
+        "レバレッジ",
+        "韓国暗号資産規制",
+        "資金調達料",
+        "投資家保護"
+      ],
+      "faq": [
+        {
+          "q": "無期限先物は通常の先物と何が違うのか。",
+          "a": "通常の先物には満期日があるが、無期限先物には満期がない。資金調達料で契約価格と現物価格の乖離を調整する。"
+        },
+        {
+          "q": "株式・商品・未公開株の無期限先物は実物資産の保有を意味するのか。",
+          "a": "多くは価格を追跡する現金決済型デリバティブであり、株式保有、議決権、配当、実物商品の所有を意味しない。"
+        },
+        {
+          "q": "韓国投資家は何を確認すべきか。",
+          "a": "取引所の認可、レバレッジ上限、資金調達料の算式、強制清算基準、ウォン換算費用、税務申告、紛争解決手続きを確認する必要がある。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "永续期货从比特币扩展至股票、大宗商品和未上市股价格",
+      "excerpt": "2026年，永续期货正从比特币和以太坊市场扩展到股票指数、大宗商品和未上市公司价格敞口。24小时杠杆交易为韩国投资者带来新机会，也带来资金费率、清算和监管风险。",
+      "metaDescription": "永续期货正从加密资产扩展到股票、大宗商品和未上市股价格。本文解析杠杆、资金费率、清算风险、韩元换算和韩国监管挑战。",
+      "summary": "永续期货是一种没有到期日、通过杠杆跟踪资产价格的衍生品。市场正从比特币和以太坊扩展到股票指数、大宗商品和未上市股价格。美国交易量已达到数十亿美元规模，韩国则需要在现货型加密市场和衍生品监管之间建立更清晰的制度。",
+      "body": "永续期货是没有到期日的衍生品。过去以比特币和以太坊为中心的市场，正在转向股票指数、大宗商品以及未上市公司价格的合成敞口。对韩国投资者而言，关键不只是能否交易，而是杠杆、资金费率和法律保护。\n\n## 24小时杠杆结构\n永续期货通过保证金和定期资金费率，使合约价格接近标的资产价格。它方便投资者在夜间和周末调整仓位，但在市场急跌时也可能引发连续自动清算。全球平台已开始测试与美国股指、黄金、原油和上市前公司估值相关的合约。\n\n## 规模与韩国影响\n进入美国监管框架的加密永续期货，在某平台上线数周内累计交易额超过85亿美元，按1美元兑1400韩元粗略折算约11.9万亿韩元。另一大型运营商自2025年7月以来处理的美式永续合约名义交易额达到2110亿美元，约295万亿韩元。部分股指产品采用最高20倍杠杆。韩国加密交易所仍以现货为主，高杠杆永续期货若进入制度内，需要单独审批、保证金规则、实时风险提示、停牌机制和清算标准。使用海外或去中心化平台则意味着汇率、税务、访问限制和纠纷风险。",
+      "keywords": [
+        "永续期货",
+        "Perp",
+        "加密衍生品",
+        "股票期货",
+        "商品期货",
+        "未上市股",
+        "杠杆",
+        "韩国加密监管",
+        "资金费率",
+        "投资者保护"
+      ],
+      "faq": [
+        {
+          "q": "永续期货和普通期货有什么不同？",
+          "a": "普通期货有到期日，永续期货没有到期日，并通过资金费率让合约价格尽量接近现货价格。"
+        },
+        {
+          "q": "股票、大宗商品或未上市股永续期货等于持有真实资产吗？",
+          "a": "通常不是。它们多为现金结算的价格跟踪型衍生品，不代表股票所有权、投票权、分红或实物商品所有权。"
+        },
+        {
+          "q": "韩国投资者应先确认什么？",
+          "a": "应确认平台资质、杠杆上限、资金费率计算、强制清算规则、韩元换汇成本、税务申报和纠纷处理程序。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Futuros perpetuos saltan de bitcoin a acciones, materias primas y empresas privadas",
+      "excerpt": "En 2026, los futuros perpetuos avanzan desde bitcoin y ether hacia índices bursátiles, materias primas y precios sintéticos de compañías privadas. El modelo de apalancamiento 24 horas abre oportunidades y riesgos regulatorios para los inver",
+      "metaDescription": "Los futuros perpetuos se expanden de cripto a acciones, materias primas y empresas privadas. Claves: apalancamiento, funding, liquidación, conversión a won y regulación coreana.",
+      "summary": "Los futuros perpetuos son derivados apalancados sin vencimiento que siguen el precio de un activo. El mercado se mueve de bitcoin y ether a índices bursátiles, materias primas y exposición a empresas privadas. En Estados Unidos ya hay volúmenes multimillonarios, mientras Corea debe definir reglas para derivados, márgenes y protección al inversor.",
+      "body": "Los futuros perpetuos, o perps, son derivados sin fecha de vencimiento. El mercado que nació alrededor de bitcoin y ether se está extendiendo a índices bursátiles, materias primas y precios sintéticos de empresas privadas. Para Corea, el punto central es la protección del inversor frente al apalancamiento.\n\n## Apalancamiento continuo\nEstos contratos usan margen y pagos periódicos de funding para acercar el precio del contrato al activo subyacente. Permiten operar de noche y en fin de semana, pero una caída brusca puede acelerar liquidaciones automáticas. Las plataformas globales ya prueban productos ligados a índices de EE. UU., oro, petróleo y valoraciones pre-OPI.\n\n## Datos y efecto en Corea\nUn mercado regulado de perps cripto en EE. UU. superó 8.500 millones de dólares en volumen acumulado en pocas semanas, unos 11,9 billones de wones a 1.400 wones por dólar. Otro operador acumula 211.000 millones de dólares desde julio de 2025, cerca de 295 billones de wones. Algunos productos sobre índices permiten hasta 20 veces de apalancamiento. En Corea, los exchanges cripto siguen centrados en contado; los perps exigirían autorización separada, reglas de margen, avisos de riesgo, pausas de mercado y normas de liquidación. El uso de plataformas extranjeras o descentralizadas añade riesgo cambiario, fiscal y legal.",
+      "keywords": [
+        "futuros perpetuos",
+        "perps",
+        "derivados cripto",
+        "futuros sobre acciones",
+        "materias primas",
+        "empresas privadas",
+        "apalancamiento",
+        "regulación cripto Corea",
+        "funding",
+        "protección del inversor"
+      ],
+      "faq": [
+        {
+          "q": "¿En qué se diferencian los futuros perpetuos de los futuros tradicionales?",
+          "a": "Los futuros tradicionales vencen en una fecha concreta. Los perpetuos no vencen y usan pagos de funding para mantener el contrato cerca del precio spot."
+        },
+        {
+          "q": "¿Un perp sobre acciones, materias primas o empresas privadas da propiedad real?",
+          "a": "Normalmente no. Es un derivado liquidado en efectivo que replica el precio, sin acciones, votos, dividendos ni propiedad física."
+        },
+        {
+          "q": "¿Qué debe revisar primero un inversor coreano?",
+          "a": "Autorización de la plataforma, límite de apalancamiento, fórmula de funding, reglas de liquidación, coste de cambio a wones, impuestos y proceso de reclamación."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Futuros perpétuos avançam do bitcoin para ações, commodities e empresas privadas",
+      "excerpt": "Em 2026, futuros perpétuos deixam de ser um produto centrado em bitcoin e ether e passam a mirar índices de ações, commodities e preços de empresas privadas. A negociação alavancada 24 horas amplia oportunidades e riscos para investidores c",
+      "metaDescription": "Futuros perpétuos expandem de cripto para ações, commodities e empresas privadas. Entenda alavancagem, funding, liquidação, conversão para won e regulação na Coreia.",
+      "summary": "Futuros perpétuos são derivativos alavancados sem vencimento que acompanham o preço de ativos. O mercado avança de bitcoin e ether para índices acionários, commodities e exposição a empresas privadas. Nos EUA, volumes bilionários já surgiram; na Coreia, a regulação precisa tratar margem, autorização e proteção do investidor.",
+      "body": "Futuros perpétuos, ou perps, são derivativos sem data de vencimento. O mercado antes concentrado em bitcoin e ether agora se expande para índices de ações, commodities e preços sintéticos de empresas privadas. Para a Coreia, a questão central é combinar acesso com controle de alavancagem e proteção jurídica.\n\n## Alavancagem 24 horas\nPerps usam margem e pagamentos periódicos de funding para aproximar o contrato do preço do ativo. A estrutura facilita posições durante noites e fins de semana, mas choques de mercado podem provocar liquidações automáticas rápidas. Plataformas globais testam contratos ligados a índices dos EUA, ouro, petróleo e empresas pré-IPO.\n\n## Escala e Coreia\nUma plataforma regulada de perps cripto nos EUA superou 8,5 bilhões de dólares em volume acumulado em poucas semanas, cerca de 11,9 trilhões de wons a 1.400 wons por dólar. Outro operador movimentou 211 bilhões de dólares desde julho de 2025, perto de 295 trilhões de wons. Alguns produtos de índice acionário usam até 20 vezes de alavancagem. Exchanges cripto coreanas seguem majoritariamente no mercado à vista; perps alavancados exigiriam autorização própria, regras de margem, alertas de risco, pausas de negociação e padrões de liquidação. Plataformas externas ou descentralizadas trazem risco cambial, fiscal, de acesso e disputa.",
+      "keywords": [
+        "futuros perpétuos",
+        "perps",
+        "derivativos cripto",
+        "futuros de ações",
+        "commodities",
+        "empresas privadas",
+        "alavancagem",
+        "regulação cripto Coreia",
+        "funding",
+        "proteção do investidor"
+      ],
+      "faq": [
+        {
+          "q": "Como futuros perpétuos diferem de futuros comuns?",
+          "a": "Futuros comuns têm vencimento. Futuros perpétuos não vencem e usam funding para manter o contrato próximo do preço à vista."
+        },
+        {
+          "q": "Perps de ações, commodities ou empresas privadas dão posse real?",
+          "a": "Em geral, não. São derivativos liquidados em dinheiro que acompanham preços, sem ações, voto, dividendos ou entrega física."
+        },
+        {
+          "q": "O que investidores coreanos devem verificar primeiro?",
+          "a": "Autorização da plataforma, limite de alavancagem, cálculo do funding, regras de liquidação, custo de conversão para won, impostos e solução de disputas."
+        }
+      ]
+    },
+    "de": {
+      "title": "Perpetual Futures wachsen von Bitcoin zu Aktien, Rohstoffen und Privatfirmen",
+      "excerpt": "Perpetual Futures reichen 2026 über Bitcoin und Ether hinaus und erfassen Aktienindizes, Rohstoffe und synthetische Preise privater Unternehmen. Der 24-Stunden-Hebelhandel schafft Chancen, aber auch Funding-, Liquidations- und Regulierungsr",
+      "metaDescription": "Perpetual Futures expandieren von Krypto zu Aktien, Rohstoffen und Privatfirmen. Analyse zu Hebel, Funding, Liquidation, Won-Umrechnung und Koreas Regulierung.",
+      "summary": "Perpetual Futures sind gehebelte Derivate ohne Verfalltermin, die Assetpreise abbilden. Der Markt wächst von Bitcoin und Ether hin zu Aktienindizes, Rohstoffen und privaten Unternehmenswerten. In den USA gibt es bereits Milliardenvolumen; Korea muss Spot-Kryptomärkte, Derivateaufsicht und Anlegerschutz enger verzahnen.",
+      "body": "Perpetual Futures, kurz Perps, sind Derivate ohne Verfalltermin. Der Markt, der lange von Bitcoin und Ether geprägt war, bewegt sich nun in Richtung Aktienindizes, Rohstoffe und synthetische Preise privater Unternehmen. Für koreanische Anleger zählen damit Hebelkontrolle und Rechtsschutz genauso wie der Marktzugang.\n\n## Hebel rund um die Uhr\nPerps nutzen Margin und regelmäßige Funding-Zahlungen, damit der Kontraktpreis nahe am Basiswert bleibt. Das erleichtert Positionen nachts und am Wochenende, kann bei Schocks aber schnelle automatische Liquidationen auslösen. Globale Handelsplätze testen Produkte auf US-Aktienindizes, Gold, Öl und Bewertungen vor Börsengängen.\n\n## Größenordnung und Korea\nEin regulierter US-Markt für Krypto-Perps erreichte binnen Wochen mehr als 8,5 Milliarden Dollar Volumen, etwa 11,9 Billionen Won bei 1.400 Won je Dollar. Ein anderer Betreiber verarbeitete seit Juli 2025 rund 211 Milliarden Dollar, etwa 295 Billionen Won. Manche Aktienindexprodukte erlauben bis zu 20-fachen Hebel. Koreas Kryptobörsen bleiben überwiegend Spotmärkte. Gehebelte Perps bräuchten separate Genehmigung, Marginregeln, Risikohinweise, Handelsstopps und klare Abwicklung. Ausländische oder dezentrale Plattformen bringen Wechselkurs-, Steuer-, Zugangs- und Streitrisiken mit sich.",
+      "keywords": [
+        "Perpetual Futures",
+        "Perps",
+        "Krypto-Derivate",
+        "Aktienfutures",
+        "Rohstoffe",
+        "Privatunternehmen",
+        "Hebel",
+        "Krypto-Regulierung Korea",
+        "Funding Rate",
+        "Anlegerschutz"
+      ],
+      "faq": [
+        {
+          "q": "Wie unterscheiden sich Perpetual Futures von normalen Futures?",
+          "a": "Normale Futures haben einen Verfalltermin. Perpetual Futures laufen ohne festen Verfall und nutzen Funding-Zahlungen, um nahe am Spotpreis zu bleiben."
+        },
+        {
+          "q": "Bedeuten Perps auf Aktien, Rohstoffe oder Privatfirmen echten Besitz?",
+          "a": "Meist nicht. Es sind bar abgerechnete Derivate auf Preisbewegungen, ohne Aktienbesitz, Stimmrecht, Dividende oder physische Lieferung."
+        },
+        {
+          "q": "Was sollten koreanische Anleger zuerst prüfen?",
+          "a": "Zulassung des Handelsplatzes, Hebelgrenzen, Funding-Formel, Liquidationsregeln, Won-Umrechnung, Steuerpflicht und Streitbeilegung."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Les contrats perpétuels passent du bitcoin aux actions, matières premières et sociétés privées",
+      "excerpt": "En 2026, les contrats à terme perpétuels s’étendent au-delà du bitcoin et de l’ether vers les indices actions, les matières premières et les prix synthétiques d’entreprises privées. Leur levier 24 heures crée des opportunités et des risques",
+      "metaDescription": "Les contrats perpétuels passent des cryptos aux actions, matières premières et sociétés privées. Focus sur levier, funding, liquidation, conversion en won et régulation coréenne.",
+      "summary": "Les contrats perpétuels sont des dérivés à effet de levier sans échéance qui suivent le prix d’un actif. Le marché quitte le seul univers bitcoin-ether pour les indices actions, matières premières et entreprises privées. Les volumes américains se chiffrent déjà en milliards, tandis que la Corée doit préciser l’encadrement des dérivés et la protection des inv",
+      "body": "Les contrats à terme perpétuels, ou perps, n’ont pas de date d’échéance. Le marché dominé par le bitcoin et l’ether s’étend aux indices actions, aux matières premières et aux prix synthétiques d’entreprises privées. Pour les investisseurs coréens, l’enjeu est autant la protection que l’accès.\n\n## Levier en continu\nCes contrats utilisent de la marge et des paiements périodiques de funding pour rapprocher leur prix de l’actif sous-jacent. Ils facilitent les positions de nuit et le week-end, mais un choc peut déclencher des liquidations automatiques rapides. Les plateformes mondiales testent déjà des contrats liés aux indices américains, à l’or, au pétrole et aux valorisations pré-IPO.\n\n## Taille du marché et Corée\nUne plateforme américaine régulée de perps crypto a dépassé 8,5 milliards de dollars de volume cumulé en quelques semaines, soit environ 11,9 billions de wons à 1.400 wons par dollar. Un autre acteur a traité 211 milliards de dollars depuis juillet 2025, près de 295 billions de wons. Certains produits sur indices offrent jusqu’à 20 fois de levier. En Corée, les plateformes crypto restent surtout au comptant; des perps à fort levier exigeraient autorisation, règles de marge, alertes de risque, suspensions de marché et normes de règlement. Les plateformes étrangères ou décentralisées ajoutent des risques de change, fiscaux, d’accès et de litige.",
+      "keywords": [
+        "contrats perpétuels",
+        "perps",
+        "dérivés crypto",
+        "futures actions",
+        "matières premières",
+        "sociétés privées",
+        "levier",
+        "régulation crypto Corée",
+        "funding",
+        "protection des investisseurs"
+      ],
+      "faq": [
+        {
+          "q": "Quelle différence entre contrat perpétuel et future classique ?",
+          "a": "Un future classique a une échéance. Un contrat perpétuel n’en a pas et utilise le funding pour rester proche du prix au comptant."
+        },
+        {
+          "q": "Un perp sur action, matière première ou société privée donne-t-il une propriété réelle ?",
+          "a": "Généralement non. C’est un dérivé réglé en espèces qui suit un prix, sans action, droit de vote, dividende ni livraison physique."
+        },
+        {
+          "q": "Que doivent vérifier les investisseurs coréens ?",
+          "a": "L’autorisation de la plateforme, le levier, le calcul du funding, les règles de liquidation, les coûts de conversion en won, les impôts et les recours."
+        }
+      ]
+    },
+    "ar": {
+      "title": "العقود الدائمة تنتقل من بتكوين إلى الأسهم والسلع وأسعار الشركات الخاصة",
+      "excerpt": "في 2026، تتوسع العقود المستقبلية الدائمة من بتكوين وإيثريوم إلى مؤشرات الأسهم والسلع وأسعار الشركات غير المدرجة. يفتح التداول المرفوع على مدار الساعة فرصا جديدة لمستثمري كوريا، لكنه يزيد مخاطر التمويل والتصفية والتنظيم.",
+      "metaDescription": "العقود الدائمة تتوسع من العملات المشفرة إلى الأسهم والسلع والشركات الخاصة. شرح للرافعة، رسوم التمويل، التصفية، التحويل إلى الوون وتحديات التنظيم في كوريا.",
+      "summary": "العقود المستقبلية الدائمة مشتقات مرفوعة بلا تاريخ انتهاء تتبع أسعار الأصول. السوق ينتقل من بتكوين وإيثريوم إلى مؤشرات الأسهم والسلع وأسعار الشركات الخاصة. في الولايات المتحدة ظهرت أحجام بمليارات الدولارات، بينما تحتاج كوريا إلى قواعد أوضح للمشتقات والهامش وحماية المستثمرين.",
+      "body": "العقود المستقبلية الدائمة، أو Perps، هي مشتقات بلا تاريخ انتهاء. السوق الذي كان يتمحور حول بتكوين وإيثريوم يتجه الآن إلى مؤشرات الأسهم والذهب والنفط والأسعار الاصطناعية للشركات غير المدرجة. بالنسبة إلى كوريا، المسألة ليست الوصول فقط، بل ضبط الرافعة وحماية المستثمر.\n\n## رافعة على مدار الساعة\nتستخدم هذه العقود الهامش ومدفوعات تمويل دورية لإبقاء سعر العقد قريبا من الأصل الأساسي. هذا يسمح بتعديل المراكز ليلا وفي عطلة نهاية الأسبوع، لكنه قد يسرع التصفية الآلية عند الصدمات. منصات عالمية تختبر عقودا مرتبطة بمؤشرات أمريكية وبالذهب والنفط وتقييمات ما قبل الطرح العام.\n\n## الحجم وكوريا\nمنصة أمريكية منظمة لعقود العملات المشفرة الدائمة تجاوزت 8.5 مليار دولار من الحجم التراكمي خلال أسابيع، أي نحو 11.9 تريليون وون عند 1400 وون للدولار. مشغل آخر عالج 211 مليار دولار منذ يوليو 2025، أي نحو 295 تريليون وون. بعض منتجات مؤشرات الأسهم تسمح برافعة تصل إلى 20 مرة. بورصات العملات المشفرة الكورية ما زالت تركز على السوق الفورية؛ لذلك تحتاج العقود الدائمة عالية الرافعة إلى ترخيص مستقل، قواعد هامش، تنبيهات مخاطر، إيقاف تداول ومعايير تسوية. استخدام منصات خارجية أو لامركزية يضيف مخاطر الصرف والضرائب والوصول والنزاعات.",
+      "keywords": [
+        "العقود الدائمة",
+        "Perps",
+        "مشتقات العملات المشفرة",
+        "عقود الأسهم",
+        "السلع",
+        "الشركات الخاصة",
+        "الرافعة المالية",
+        "تنظيم العملات المشفرة في كوريا",
+        "رسوم التمويل",
+        "حماية المستثمر"
+      ],
+      "faq": [
+        {
+          "q": "ما الفرق بين العقود الدائمة والعقود المستقبلية التقليدية؟",
+          "a": "العقود التقليدية لها تاريخ انتهاء. العقود الدائمة لا تنتهي وتستخدم مدفوعات التمويل لإبقاء السعر قريبا من السوق الفورية."
+        },
+        {
+          "q": "هل تعني عقود الأسهم أو السلع أو الشركات الخاصة ملكية حقيقية؟",
+          "a": "غالبا لا. هي مشتقات تسوى نقدا وتتبع السعر فقط، ولا تمنح أسهما أو تصويتا أو توزيعات أو سلعا فعلية."
+        },
+        {
+          "q": "ما الذي يجب أن يتحقق منه المستثمر الكوري أولا؟",
+          "a": "ترخيص المنصة، حدود الرافعة، طريقة حساب التمويل، قواعد التصفية، تكلفة تحويل الوون، الضرائب وآلية حل النزاعات."
+        }
+      ]
+    },
+    "hi": {
+      "title": "परपेचुअल फ्यूचर्स बिटकॉइन से आगे शेयर, कमोडिटी और निजी कंपनियों तक",
+      "excerpt": "2026 में परपेचुअल फ्यूचर्स बिटकॉइन और ईथर से निकलकर शेयर सूचकांक, कमोडिटी और निजी कंपनियों के सिंथेटिक मूल्य तक फैल रहे हैं। 24 घंटे लीवरेज ट्रेडिंग कोरियाई निवेशकों के लिए अवसर के साथ फंडिंग, लिक्विडेशन और नियामकीय जोखिम भी लाती है।",
+      "metaDescription": "परपेचुअल फ्यूचर्स क्रिप्टो से शेयर, कमोडिटी और निजी कंपनियों तक फैल रहे हैं। लीवरेज, फंडिंग लागत, लिक्विडेशन, वॉन रूपांतरण और कोरिया के नियमन को समझें।",
+      "summary": "परपेचुअल फ्यूचर्स बिना समाप्ति तारीख वाले लीवरेज डेरिवेटिव हैं जो परिसंपत्ति कीमतों को ट्रैक करते हैं। बाजार बिटकॉइन और ईथर से आगे शेयर सूचकांकों, कमोडिटी और निजी कंपनी मूल्य तक जा रहा है। अमेरिका में अरबों डॉलर का कारोबार दिख चुका है, जबकि कोरिया को डेरिवेटिव निगरानी और निवेशक सुरक्षा स्पष्ट करनी होगी।",
+      "body": "परपेचुअल फ्यूचर्स, या परप्स, ऐसे डेरिवेटिव हैं जिनकी कोई समाप्ति तारीख नहीं होती। जो बाजार पहले बिटकॉइन और ईथर पर केंद्रित था, वह अब शेयर सूचकांकों, कमोडिटी और निजी कंपनियों के सिंथेटिक मूल्य तक फैल रहा है। कोरियाई निवेशकों के लिए मुख्य मुद्दा केवल पहुंच नहीं, बल्कि लीवरेज और कानूनी सुरक्षा है।\n\n## चौबीस घंटे लीवरेज\nये अनुबंध मार्जिन और नियमित फंडिंग भुगतान से कॉन्ट्रैक्ट कीमत को आधार परिसंपत्ति के करीब रखते हैं। रात और सप्ताहांत में पोजिशन लेना आसान होता है, लेकिन झटके में ऑटो-लिक्विडेशन तेज हो सकता है। वैश्विक प्लेटफॉर्म अमेरिकी सूचकांकों, सोना, तेल और प्री-आईपीओ कंपनियों से जुड़े उत्पाद आजमा रहे हैं।\n\n## पैमाना और कोरिया\nअमेरिका में विनियमित एक क्रिप्टो परप प्लेटफॉर्म ने कुछ ही हफ्तों में 8.5 अरब डॉलर का संचयी वॉल्यूम पार किया, जो 1 डॉलर बराबर 1,400 वॉन पर लगभग 11.9 ट्रिलियन वॉन है। एक अन्य ऑपरेटर ने जुलाई 2025 से 211 अरब डॉलर, करीब 295 ट्रिलियन वॉन का नाममात्र कारोबार संभाला। कुछ शेयर सूचकांक उत्पाद 20 गुना तक लीवरेज देते हैं। कोरिया के क्रिप्टो एक्सचेंज अभी मुख्य रूप से स्पॉट बाजार हैं; उच्च लीवरेज परप्स के लिए अलग अनुमति, मार्जिन नियम, जोखिम चेतावनी, ट्रेडिंग रोक और सेटलमेंट मानक चाहिए। विदेशी या विकेंद्रीकृत प्लेटफॉर्म विदेशी मुद्रा, कर, पहुंच और विवाद जोखिम जोड़ते हैं।",
+      "keywords": [
+        "परपेचुअल फ्यूचर्स",
+        "परप्स",
+        "क्रिप्टो डेरिवेटिव",
+        "शेयर फ्यूचर्स",
+        "कमोडिटी",
+        "निजी कंपनियां",
+        "लीवरेज",
+        "कोरिया क्रिप्टो नियमन",
+        "फंडिंग रेट",
+        "निवेशक सुरक्षा"
+      ],
+      "faq": [
+        {
+          "q": "परपेचुअल फ्यूचर्स सामान्य फ्यूचर्स से कैसे अलग हैं?",
+          "a": "सामान्य फ्यूचर्स की समाप्ति तारीख होती है। परपेचुअल फ्यूचर्स की समाप्ति नहीं होती और वे फंडिंग भुगतान से कीमत को स्पॉट बाजार के करीब रखते हैं।"
+        },
+        {
+          "q": "क्या शेयर, कमोडिटी या निजी कंपनी परप्स वास्तविक स्वामित्व देते हैं?",
+          "a": "आम तौर पर नहीं। ये नकद निपटान वाले डेरिवेटिव हैं जो मूल्य ट्रैक करते हैं, शेयर, वोट, डिविडेंड या भौतिक संपत्ति नहीं देते।"
+        },
+        {
+          "q": "कोरियाई निवेशकों को पहले क्या जांचना चाहिए?",
+          "a": "प्लेटफॉर्म की अनुमति, लीवरेज सीमा, फंडिंग फॉर्मूला, लिक्विडेशन नियम, वॉन रूपांतरण लागत, टैक्स रिपोर्टिंग और विवाद प्रक्रिया।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Perpetual Futures Meluas dari Bitcoin ke Saham, Komoditas dan Saham Privat",
+      "excerpt": "Pada 2026, perpetual futures bergerak dari Bitcoin dan Ether menuju indeks saham, komoditas dan eksposur harga perusahaan privat. Model leverage 24 jam membuka peluang baru bagi investor Korea, sekaligus risiko funding, likuidasi dan regula",
+      "metaDescription": "Perpetual futures meluas dari kripto ke saham, komoditas dan perusahaan privat. Simak leverage, biaya funding, risiko likuidasi, konversi won dan regulasi Korea.",
+      "summary": "Perpetual futures adalah derivatif berleverage tanpa tanggal jatuh tempo yang mengikuti harga aset. Pasarnya berkembang dari Bitcoin dan Ether ke indeks saham, komoditas dan harga perusahaan privat. Volume di AS sudah bernilai miliaran dolar, sementara Korea perlu memperjelas pengawasan derivatif, margin dan perlindungan investor.",
+      "body": "Perpetual futures, atau perps, adalah derivatif tanpa tanggal jatuh tempo. Pasar yang dulu didominasi Bitcoin dan Ether kini bergerak ke indeks saham, komoditas dan harga sintetis perusahaan privat. Bagi investor Korea, isu utamanya bukan sekadar akses, tetapi kontrol leverage dan perlindungan hukum.\n\n## Leverage 24 jam\nPerps memakai margin dan pembayaran funding berkala agar harga kontrak tetap dekat dengan aset acuan. Struktur ini memudahkan posisi malam hari dan akhir pekan, tetapi guncangan pasar dapat memicu likuidasi otomatis cepat. Platform global menguji kontrak terkait indeks saham AS, emas, minyak dan valuasi pra-IPO.\n\n## Skala dan Korea\nSatu platform perps kripto teregulasi di AS melampaui 8,5 miliar dolar volume kumulatif dalam beberapa minggu, sekitar 11,9 triliun won pada kurs 1.400 won per dolar. Operator lain memproses 211 miliar dolar sejak Juli 2025, hampir 295 triliun won. Beberapa produk indeks saham memakai leverage hingga 20 kali. Bursa kripto Korea masih terutama pasar spot; perps berleverage tinggi membutuhkan izin terpisah, aturan margin, peringatan risiko, penghentian pasar dan standar penyelesaian. Penggunaan platform luar negeri atau terdesentralisasi menambah risiko valas, pajak, akses dan sengketa.",
+      "keywords": [
+        "perpetual futures",
+        "perps",
+        "derivatif kripto",
+        "futures saham",
+        "komoditas",
+        "perusahaan privat",
+        "leverage",
+        "regulasi kripto Korea",
+        "funding rate",
+        "perlindungan investor"
+      ],
+      "faq": [
+        {
+          "q": "Apa bedanya perpetual futures dengan futures biasa?",
+          "a": "Futures biasa memiliki tanggal jatuh tempo. Perpetual futures tidak memiliki jatuh tempo dan memakai pembayaran funding agar harga kontrak dekat dengan harga spot."
+        },
+        {
+          "q": "Apakah perps saham, komoditas atau perusahaan privat memberi kepemilikan nyata?",
+          "a": "Umumnya tidak. Produk ini adalah derivatif tunai yang mengikuti harga, bukan kepemilikan saham, hak suara, dividen atau aset fisik."
+        },
+        {
+          "q": "Apa yang harus dicek investor Korea terlebih dahulu?",
+          "a": "Izin platform, batas leverage, rumus funding, aturan likuidasi, biaya konversi won, pelaporan pajak dan prosedur penyelesaian sengketa."
+        }
+      ]
+    }
+  }
+}
