@@ -1,5 +1,378 @@
 [
   {
+    "id": "085d54d8088f",
+    "slug": "속보-코스피-8대-급락에-서킷브레이커-발동-966825",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-06-28T18:59:42.598Z",
+    "updatedAt": "2026-06-28T18:59:42.608Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12083910",
+    "titleFingerprint": "9d25fdff0dc6dbeca0e4a68a74f56ffb9872233a",
+    "dedupKeys": [
+      "085d54d8088fc4b1e3c2a903d171498203ffa947",
+      "9d25fdff0dc6dbeca0e4a68a74f56ffb9872233a",
+      "d359de58f4027f62822bb34c99163e9946681b9d"
+    ],
+    "imageUrl": "/images/articles/085d54d8088f.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 8%대 급락에 서킷브레이커 발동, 유가증권시장 거래 일시 중단",
+        "excerpt": "코스피가 장중 8% 넘게 급락하며 유가증권시장에 서킷브레이커가 발동됐다. 장 초반 매도 사이드카에 이어 거래 중단 조치까지 이어지며 국내 증시 투자심리가 급격히 얼어붙었다.",
+        "metaDescription": "코스피가 장중 8%대 급락으로 서킷브레이커가 발동되며 유가증권시장 거래가 일시 중단됐다. 매도 사이드카 이후 변동성이 확대됐다.",
+        "summary": "코스피가 장중 8% 넘게 밀리며 유가증권시장 전체 거래를 일시 중단하는 서킷브레이커가 발동됐다. 장 초반에는 매도 사이드카가 먼저 작동했고, 이후 낙폭이 확대되며 시장 안정 장치가 연달아 가동됐다. 급락은 국내 주식형 자산과 원화 표시 투자상품 전반의 변동성을 키웠다. 단기적으로는 수급 회복과 대형주 낙폭 축소 여부가 핵심 변수가 될 전망이다.",
+        "body": "코스피가 장중 8% 넘게 급락하면서 유가증권시장 거래가 일시 중단됐다. 장 초반 매도 사이드카가 먼저 발동된 데 이어 지수 낙폭이 더 커지자 서킷브레이커까지 작동했다. 국내 증시의 핵심 안전장치가 잇달아 가동된 것은 매도 압력이 단순한 조정 수준을 넘어 시장 전반의 유동성과 심리에 충격을 줬다는 의미다.\n\n## 서킷브레이커 발동 배경\n서킷브레이커는 주가지수가 단시간에 급격히 하락할 때 투자자의 과도한 투매를 막고 주문을 재점검할 시간을 주기 위해 거래를 일시 정지하는 제도다. 이날 코스피는 개장 직후부터 매도 우위 흐름이 뚜렷했다. 프로그램 매도와 현물 매물이 동시에 늘어나며 먼저 매도 사이드카가 발동됐고, 이후 지수 하락률이 8%대를 넘어서면서 유가증권시장 전체 거래 중단으로 확대됐다. 사이드카가 선물시장 급변에 따른 프로그램 매매를 제한하는 장치라면, 서킷브레이커는 시장 전체의 급락을 멈춰 세우는 더 강한 단계의 안정 장치다.\n\n## 구체 수치와 시장 충격\n이번 급락의 핵심 수치는 코스피 장중 하락률 8%대다. 지수 단위로는 하루 변동폭이 평소보다 크게 확대됐고, 대형주와 중소형주를 가리지 않고 매도 주문이 집중됐다. 특히 코스피200 관련 상장지수펀드, 레버리지 ETF, 인버스 ETF, 주가연계증권 등 지수 연동 상품의 가격 변동성이 커졌다. 국내 투자자 입장에서는 원화 기준 평가손익이 즉각 흔들리는 장면이다. 예를 들어 1,000만원을 코스피 추종 상품에 투자한 경우 지수가 8% 하락하면 단순 계산상 평가액은 약 920만원 수준으로 줄어든다. 환율과 해외 증시 흐름까지 겹치면 외국인 수급 변화가 원화 자산 전반에 추가 압력으로 작용할 수 있다.\n\n## 투자자 영향과 전망\n거래가 멈춘 시간은 투자자에게 손실 확정의 시간이 아니라 호가와 주문 전략을 다시 점검하는 시간으로 기능한다. 다만 거래 재개 뒤에도 변동성이 곧바로 잦아든다고 단정하기는 어렵다. 반대매매, 신용융자 물량, 레버리지 상품의 리밸런싱 수요가 겹치면 낙폭이 재확대될 수 있다. 개인 투자자는 시장가 주문보다 지정가 주문을 우선 검토하고, 단기 반등만 보고 과도한 레버리지를 늘리는 전략은 신중해야 한다. 향후 관건은 외국인과 기관의 순매도 강도 완화, 대형주 저가 매수 유입, 원화 환율 안정 여부다. 증시는 단기 충격을 흡수하는 과정에 들어갔지만, 투자심리 회복에는 거래 재개 이후 실제 매수세가 확인되는 시간이 필요할 전망이다.",
+        "keywords": [
+          "코스피",
+          "서킷브레이커",
+          "매도 사이드카",
+          "유가증권시장",
+          "국내 증시",
+          "주식시장 급락",
+          "코스피 급락",
+          "투자심리",
+          "ETF 변동성",
+          "코스피 8%대 급락에 서킷브레이커 발"
+        ],
+        "faq": [
+          {
+            "q": "코스피 서킷브레이커는 왜 발동됐나?",
+            "a": "코스피가 장중 8% 넘게 급락하면서 시장 전체의 과도한 매도 흐름을 진정시키기 위해 유가증권시장 거래가 일시 중단됐다."
+          },
+          {
+            "q": "매도 사이드카와 서킷브레이커는 무엇이 다른가?",
+            "a": "매도 사이드카는 선물 급변에 따른 프로그램 매매를 제한하는 장치이고, 서킷브레이커는 지수 급락 때 시장 전체 거래를 일시 중단하는 더 강한 안정 장치다."
+          },
+          {
+            "q": "개인 투자자는 무엇을 주의해야 하나?",
+            "a": "거래 재개 이후에도 변동성이 이어질 수 있어 시장가 추격 매매, 과도한 레버리지, 신용융자 확대는 신중하게 판단해야 한다."
+          }
+        ]
+      },
+      "en": {
+        "title": "KOSPI Plunges More Than 8%, Circuit Breaker Halts Main Board Trading",
+        "excerpt": "The KOSPI fell more than 8% intraday, triggering a circuit breaker that temporarily halted trading on South Korea’s main stock market after an earlier sell-side program trading curb.",
+        "metaDescription": "KOSPI dropped more than 8% intraday, triggering a circuit breaker and a temporary trading halt after an earlier sell-side sidecar.",
+        "summary": "The KOSPI dropped more than 8% intraday, forcing a temporary halt in main board trading. A sell-side sidecar had already been activated earlier in the session before the decline deepened. The move sharply raised volatility across Korean equities and index-linked products. Market attention now turns to whether institutional and foreign selling eases after tra",
+        "body": "The KOSPI fell more than 8% during the session, triggering a circuit breaker and temporarily halting trading on South Korea’s main stock market. The selloff began early, with a sell-side sidecar activated first, and intensified as broader selling pressure spread across the market.\n\n## Why the Halt Was Triggered\nA circuit breaker is designed to pause trading when an index falls sharply in a short period. Its purpose is to slow panic selling and give investors time to reassess orders. In this session, the earlier sidecar signaled stress in program trading, while the later circuit breaker marked a broader market-level shock.\n\n## Market Impact\nThe key figure is the KOSPI’s intraday fall of more than 8%. Such a move affects large caps, mid caps, ETFs, leveraged funds, inverse products and other index-linked securities. For a Korean investor holding a KOSPI-tracking product worth 10 million won, an 8% drop implies a simple mark-to-market decline to about 9.2 million won, before fees, tracking error or currency effects.\n\n## What Comes Next\nTrading halts do not remove losses; they create a pause for order books and risk controls to reset. Volatility may remain high after reopening, especially if margin selling, credit positions or leveraged ETF rebalancing add pressure. The next test is whether foreign and institutional selling slows and whether large-cap bargain buying appears.",
+        "keywords": [
+          "KOSPI",
+          "circuit breaker",
+          "sell-side sidecar",
+          "Korean stock market",
+          "market halt",
+          "equity selloff",
+          "ETF volatility",
+          "investor sentiment",
+          "KOSPI Plunges More T"
+        ],
+        "faq": [
+          {
+            "q": "Why was the KOSPI circuit breaker triggered?",
+            "a": "It was triggered because the KOSPI fell more than 8% intraday, prompting a temporary halt in main board trading."
+          },
+          {
+            "q": "How is a sidecar different from a circuit breaker?",
+            "a": "A sidecar limits program trading linked to sharp futures moves, while a circuit breaker temporarily stops broader market trading."
+          },
+          {
+            "q": "What should retail investors watch now?",
+            "a": "They should watch post-reopening volatility, avoid rushed market orders and be cautious with leverage or credit-based trading."
+          }
+        ]
+      },
+      "ja": {
+        "title": "KOSPIが8％超急落、サーキットブレーカー発動で取引一時停止",
+        "excerpt": "KOSPIは取引時間中に8％を超えて急落し、韓国有価証券市場でサーキットブレーカーが発動された。序盤の売りサイドカーに続く措置で、投資心理は急速に冷え込んだ。",
+        "metaDescription": "KOSPIが取引時間中に8％超下落し、サーキットブレーカーにより韓国有価証券市場の取引が一時停止された。",
+        "summary": "KOSPIが取引時間中に8％を超えて下落し、市場全体の取引を一時停止するサーキットブレーカーが発動された。序盤には売りサイドカーも作動していた。韓国株、ETF、指数連動商品に大きな変動が広がった。今後は売り圧力の緩和と大型株への買い戻しが焦点となる。",
+        "body": "KOSPIは取引時間中に8％を超えて急落し、韓国有価証券市場の取引が一時停止された。寄り付き後から売り注文が優勢となり、まず売りサイドカーが発動。その後も下落幅が拡大し、市場全体を止めるサーキットブレーカーに移行した。\n\n## 発動の背景\nサーキットブレーカーは、株価指数が短時間で急落した際に投資家へ注文を見直す時間を与え、過度な投げ売りを抑える制度だ。サイドカーは先物急変に伴うプログラム売買を制限する仕組みであり、サーキットブレーカーは市場全体の取引を一時停止するより強い安全装置となる。\n\n## 市場への影響\n今回の中心数値はKOSPIの8％超の下落だ。大型株から中小型株まで売りが広がり、KOSPI200連動ETF、レバレッジETF、インバース商品などの変動性も高まった。1,000万ウォン相当の指数連動商品を保有していた場合、単純計算では評価額が約920万ウォンまで下がる規模となる。\n\n## 今後の焦点\n取引停止は損失を消す措置ではなく、需給と注文を再確認する時間だ。再開後も信用取引の整理やレバレッジ商品の調整で値動きが荒くなる可能性がある。焦点は外国人と機関投資家の売りが弱まるか、大型株に押し目買いが入るかに移る。",
+        "keywords": [
+          "KOSPI",
+          "サーキットブレーカー",
+          "売りサイドカー",
+          "韓国株",
+          "取引停止",
+          "株価急落",
+          "ETF変動性",
+          "投資心理",
+          "KOSPIが8％超急落、サーキットブレー"
+        ],
+        "faq": [
+          {
+            "q": "KOSPIのサーキットブレーカーはなぜ発動されたのか。",
+            "a": "KOSPIが取引時間中に8％を超えて急落し、市場全体の取引を一時停止する条件に達したためだ。"
+          },
+          {
+            "q": "サイドカーとサーキットブレーカーの違いは何か。",
+            "a": "サイドカーはプログラム売買を制限し、サーキットブレーカーは市場全体の取引を一時停止する。"
+          },
+          {
+            "q": "個人投資家は何に注意すべきか。",
+            "a": "取引再開後も変動性が続く可能性があるため、成行での追随売買や過度なレバレッジには注意が必要だ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "KOSPI盘中暴跌逾8%，触发熔断并暂停主板交易",
+        "excerpt": "KOSPI盘中跌幅超过8%，韩国有价证券市场触发熔断并暂停交易。早盘卖出侧程序交易限制已先行启动，市场情绪迅速转弱。",
+        "metaDescription": "KOSPI盘中下跌逾8%，触发熔断机制并暂停韩国主板交易，早盘卖出侧限制后市场波动进一步扩大。",
+        "summary": "KOSPI盘中跌幅超过8%，韩国主板市场交易被临时暂停。早盘卖出侧边车机制已先行启动，随后跌幅扩大至熔断水平。韩国股票、ETF和指数挂钩产品波动显著上升。后续重点在于外资与机构卖压是否缓和。",
+        "body": "KOSPI盘中暴跌超过8%，韩国有价证券市场交易被临时暂停。开盘后卖盘迅速占据优势，卖出侧边车机制先行启动，随后指数跌幅继续扩大，触发市场级熔断。\n\n## 熔断为何启动\n熔断机制用于在股指短时间急跌时暂停交易，给投资者重新评估订单和风险的时间。边车机制主要限制与期货急变相关的程序交易，而熔断则是暂停整个市场交易的更强稳定措施。本次两项机制接连启动，显示抛售压力已从局部交易扩散至市场整体。\n\n## 对韩国资产的影响\n核心数据是KOSPI盘中跌幅超过8%。这一幅度会影响大型股、中小盘股、KOSPI200相关ETF、杠杆ETF、反向ETF及其他指数挂钩产品。以1000万韩元的KOSPI跟踪产品为例，若指数下跌8%，简单估算市值将降至约920万韩元，不计费用、跟踪误差和汇率影响。\n\n## 后市观察\n交易暂停并不消除损失，而是为订单簿和风险控制提供短暂缓冲。复牌后，保证金卖出、信用交易压力和杠杆产品再平衡仍可能放大波动。市场将重点观察外资和机构净卖出是否减弱，以及大型股是否出现低位买盘。",
+        "keywords": [
+          "KOSPI",
+          "熔断机制",
+          "卖出边车",
+          "韩国股市",
+          "交易暂停",
+          "股市暴跌",
+          "ETF波动",
+          "投资情绪",
+          "KOSPI盘中暴跌逾8%，触发熔断并暂停"
+        ],
+        "faq": [
+          {
+            "q": "KOSPI为何触发熔断？",
+            "a": "因为KOSPI盘中跌幅超过8%，达到暂停韩国主板交易的熔断条件。"
+          },
+          {
+            "q": "边车和熔断有什么区别？",
+            "a": "边车主要限制程序交易，熔断则暂停市场整体交易，是更强的稳定机制。"
+          },
+          {
+            "q": "个人投资者应注意什么？",
+            "a": "复牌后波动可能延续，应谨慎使用市价单、杠杆和信用交易。"
+          }
+        ]
+      },
+      "es": {
+        "title": "KOSPI cae más de 8% y activa un cortacircuitos con pausa de negociación",
+        "excerpt": "El KOSPI cayó más de 8% intradía y activó un cortacircuitos que suspendió temporalmente la negociación en el principal mercado surcoreano tras una restricción vendedora inicial.",
+        "metaDescription": "El KOSPI bajó más de 8% intradía, activó un cortacircuitos y suspendió temporalmente la negociación tras una señal vendedora previa.",
+        "summary": "El KOSPI cayó más de 8% durante la sesión y provocó una suspensión temporal de la negociación. Antes ya se había activado una restricción vendedora por movimientos bruscos del mercado. La volatilidad se extendió a acciones coreanas, ETF y productos ligados a índices. El foco pasa a la reacción de extranjeros e instituciones tras la reapertura.",
+        "body": "El KOSPI se desplomó más de 8% durante la sesión y activó un cortacircuitos que suspendió temporalmente la negociación en el principal mercado bursátil de Corea del Sur. La presión vendedora apareció desde el inicio, primero con una restricción tipo sidecar, y luego se amplió hasta alcanzar el nivel de interrupción del mercado.\n\n## Por qué se activó\nEl cortacircuitos pausa la negociación cuando un índice cae con fuerza en poco tiempo. Su objetivo es frenar ventas precipitadas y permitir que los inversores revisen órdenes y riesgos. El sidecar limita operaciones programadas ligadas a movimientos de futuros, mientras que el cortacircuitos detiene el mercado de forma más amplia.\n\n## Impacto en el mercado\nLa cifra clave es una caída intradía superior al 8%. Ese movimiento afecta grandes compañías, medianas y pequeñas capitalizaciones, ETF ligados al KOSPI200, fondos apalancados, productos inversos y valores estructurados. Para un inversor con 10 millones de wones en un producto que replica el KOSPI, una baja del 8% reduce el valor teórico a unos 9,2 millones de wones.\n\n## Perspectiva\nLa pausa no elimina pérdidas; da tiempo para reajustar libros de órdenes y controles de riesgo. Tras la reapertura, la volatilidad puede continuar si aparecen ventas por margen, crédito o rebalanceo de ETF apalancados. La clave será si se modera la venta extranjera e institucional y si entran compras en grandes valores.",
+        "keywords": [
+          "KOSPI",
+          "cortacircuitos",
+          "sidecar vendedor",
+          "bolsa de Corea",
+          "pausa de negociación",
+          "caída bursátil",
+          "volatilidad ETF",
+          "sentimiento inversor",
+          "KOSPI cae más de 8%"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué se activó el cortacircuitos del KOSPI?",
+            "a": "Porque el KOSPI cayó más de 8% intradía y alcanzó el nivel que exige suspender temporalmente la negociación."
+          },
+          {
+            "q": "¿Qué diferencia hay entre sidecar y cortacircuitos?",
+            "a": "El sidecar restringe operaciones programadas; el cortacircuitos detiene temporalmente la negociación del mercado."
+          },
+          {
+            "q": "¿Qué deben vigilar los inversores minoristas?",
+            "a": "Deben vigilar la volatilidad tras la reapertura y evitar órdenes impulsivas o un aumento excesivo del apalancamiento."
+          }
+        ]
+      },
+      "pt": {
+        "title": "KOSPI despenca mais de 8% e aciona circuit breaker na bolsa coreana",
+        "excerpt": "O KOSPI caiu mais de 8% durante o pregão e acionou um circuit breaker que suspendeu temporariamente as negociações no principal mercado da Coreia do Sul após um sidecar vendedor.",
+        "metaDescription": "KOSPI cai mais de 8% no intradiário, aciona circuit breaker e interrompe temporariamente negociações após sidecar vendedor.",
+        "summary": "O KOSPI recuou mais de 8% no intradiário e levou à suspensão temporária das negociações. Um sidecar vendedor já havia sido ativado no início do pregão. A queda elevou a volatilidade em ações coreanas, ETFs e produtos vinculados a índices. O mercado agora observa se a venda de estrangeiros e instituições perde força.",
+        "body": "O KOSPI caiu mais de 8% durante o pregão e acionou um circuit breaker, interrompendo temporariamente as negociações no principal mercado acionário da Coreia do Sul. A pressão vendedora surgiu logo na abertura, primeiro com um sidecar de venda, e depois se espalhou até atingir o nível de parada do mercado.\n\n## Motivo da interrupção\nO circuit breaker é usado quando um índice cai de forma abrupta em curto período. A pausa dá tempo para investidores revisarem ordens e riscos. O sidecar limita operações programadas ligadas a fortes movimentos nos futuros; o circuit breaker, por sua vez, suspende a negociação do mercado como um todo.\n\n## Efeito sobre os ativos\nO dado central é a queda superior a 8% do KOSPI no intradiário. Esse movimento afeta blue chips, ações médias e pequenas, ETFs ligados ao KOSPI200, fundos alavancados, produtos inversos e instrumentos estruturados. Para quem tinha 10 milhões de wones em um produto que replica o índice, uma baixa de 8% implica valor teórico perto de 9,2 milhões de wones.\n\n## Próximos pontos\nA interrupção não apaga perdas; ela reorganiza o livro de ofertas e os controles de risco. Após a retomada, a volatilidade pode seguir elevada com chamadas de margem, crédito e rebalanceamento de ETFs alavancados. O foco será a intensidade da venda estrangeira e institucional e a possível entrada de compradores em grandes ações.",
+        "keywords": [
+          "KOSPI",
+          "circuit breaker",
+          "sidecar vendedor",
+          "bolsa coreana",
+          "interrupção de negociação",
+          "queda das ações",
+          "volatilidade de ETF",
+          "sentimento do investidor",
+          "KOSPI despenca mais"
+        ],
+        "faq": [
+          {
+            "q": "Por que o circuit breaker do KOSPI foi acionado?",
+            "a": "Porque o KOSPI caiu mais de 8% durante o pregão, atingindo o nível que suspende temporariamente as negociações."
+          },
+          {
+            "q": "Qual é a diferença entre sidecar e circuit breaker?",
+            "a": "O sidecar restringe negociações programadas; o circuit breaker interrompe temporariamente o mercado inteiro."
+          },
+          {
+            "q": "O que investidores pessoa física devem observar?",
+            "a": "Devem acompanhar a volatilidade na reabertura e evitar ordens impulsivas, alavancagem excessiva e aumento de crédito."
+          }
+        ]
+      },
+      "de": {
+        "title": "KOSPI bricht über 8 Prozent ein, Circuit Breaker stoppt Handel zeitweise",
+        "excerpt": "Der KOSPI fiel im Tagesverlauf um mehr als 8 Prozent. Ein Circuit Breaker stoppte den Handel am südkoreanischen Hauptmarkt zeitweise, nachdem zuvor ein Verkaufs-Sidecar ausgelöst worden war.",
+        "metaDescription": "KOSPI fällt intraday mehr als 8 Prozent, Circuit Breaker stoppt den Handel zeitweise nach vorherigem Verkaufs-Sidecar.",
+        "summary": "Der KOSPI verlor im Tagesverlauf mehr als 8 Prozent und löste eine vorübergehende Handelsunterbrechung aus. Zuvor war bereits ein Verkaufs-Sidecar aktiviert worden. Die Volatilität erfasste koreanische Aktien, ETFs und indexgebundene Produkte. Entscheidend wird nun, ob ausländische und institutionelle Verkäufe nachlassen.",
+        "body": "Der KOSPI brach im Handelsverlauf um mehr als 8 Prozent ein und löste einen Circuit Breaker aus. Der Handel am südkoreanischen Hauptmarkt wurde zeitweise unterbrochen. Schon zu Beginn dominierten Verkaufsaufträge, worauf zunächst ein Verkaufs-Sidecar aktiviert wurde. Danach weitete sich der Rückgang auf ein marktweites Stressniveau aus.\n\n## Warum der Stopp erfolgte\nEin Circuit Breaker pausiert den Handel, wenn ein Index in kurzer Zeit stark fällt. Die Maßnahme soll panikartige Verkäufe bremsen und Marktteilnehmern Zeit geben, Aufträge und Risiken zu prüfen. Ein Sidecar begrenzt programmierte Geschäfte nach starken Futures-Bewegungen; der Circuit Breaker stoppt dagegen den breiteren Markt.\n\n## Folgen für Anleger\nDie zentrale Zahl ist der intraday Rückgang des KOSPI um mehr als 8 Prozent. Betroffen sind große Indexwerte, Nebenwerte, KOSPI200-ETFs, gehebelte Fonds, inverse Produkte und strukturierte Wertpapiere. Wer 10 Millionen Won in einem KOSPI-Produkt hielt, sähe bei 8 Prozent Minus rechnerisch einen Wert von etwa 9,2 Millionen Won, ohne Gebühren und Abweichungen.\n\n## Ausblick\nDie Pause nimmt Verluste nicht zurück; sie verschafft dem Orderbuch und Risikomanagement Zeit. Nach Wiederaufnahme kann die Schwankung hoch bleiben, falls Margin-Verkäufe, Kreditpositionen oder ETF-Anpassungen zusätzlichen Druck erzeugen. Der Markt achtet nun auf nachlassende Verkäufe von Ausländern und Institutionen sowie mögliche Käufe in großen Titeln.",
+        "keywords": [
+          "KOSPI",
+          "Circuit Breaker",
+          "Verkaufs-Sidecar",
+          "koreanischer Aktienmarkt",
+          "Handelsstopp",
+          "Börseneinbruch",
+          "ETF-Volatilität",
+          "Anlegerstimmung",
+          "KOSPI bricht über 8"
+        ],
+        "faq": [
+          {
+            "q": "Warum wurde der KOSPI-Circuit-Breaker ausgelöst?",
+            "a": "Weil der KOSPI im Tagesverlauf um mehr als 8 Prozent fiel und damit die Schwelle für eine Handelsunterbrechung erreichte."
+          },
+          {
+            "q": "Was unterscheidet Sidecar und Circuit Breaker?",
+            "a": "Das Sidecar begrenzt programmierte Geschäfte; der Circuit Breaker unterbricht den Handel des Gesamtmarkts zeitweise."
+          },
+          {
+            "q": "Worauf sollten Privatanleger achten?",
+            "a": "Sie sollten nach Wiederaufnahme mit hoher Volatilität rechnen und vorsichtig mit Marktorders, Hebel und Wertpapierkrediten umgehen."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le KOSPI chute de plus de 8 %, un coupe-circuit suspend les échanges",
+        "excerpt": "Le KOSPI a perdu plus de 8 % en séance, déclenchant un coupe-circuit et une suspension temporaire des échanges sur le marché principal sud-coréen après un premier mécanisme vendeur.",
+        "metaDescription": "Le KOSPI chute de plus de 8 % en séance, déclenchant un coupe-circuit et une suspension temporaire après un mécanisme vendeur.",
+        "summary": "Le KOSPI a reculé de plus de 8 % en séance, provoquant une suspension temporaire des échanges. Un mécanisme vendeur avait déjà été activé au début de la journée. La volatilité s’est propagée aux actions coréennes, aux ETF et aux produits indexés. Le marché surveille désormais le comportement des investisseurs étrangers et institutionnels.",
+        "body": "Le KOSPI a chuté de plus de 8 % en séance, déclenchant un coupe-circuit qui a suspendu temporairement les échanges sur le principal marché actions de Corée du Sud. La pression vendeuse est apparue dès l’ouverture. Un mécanisme vendeur de type sidecar a d’abord été activé, puis la baisse s’est étendue à l’ensemble du marché.\n\n## Pourquoi le dispositif a été déclenché\nLe coupe-circuit interrompt les échanges lorsqu’un indice recule très rapidement. Il vise à réduire les ventes de panique et à laisser aux investisseurs le temps de revoir leurs ordres. Le sidecar limite surtout les transactions programmées liées aux mouvements des contrats à terme, tandis que le coupe-circuit suspend le marché plus largement.\n\n## Effets sur les actifs coréens\nLe chiffre central est une baisse intrajournalière supérieure à 8 %. Elle touche grandes capitalisations, valeurs moyennes, ETF liés au KOSPI200, fonds à effet de levier, produits inverses et instruments structurés. Pour un placement de 10 millions de wons dans un produit répliquant le KOSPI, une baisse de 8 % ramène théoriquement la valeur à environ 9,2 millions de wons.\n\n## Perspectives\nLa suspension n’efface pas les pertes; elle permet de réorganiser les carnets d’ordres et les contrôles de risque. Après la reprise, la volatilité peut rester élevée si des ventes sur marge ou des rééquilibrages d’ETF amplifient le mouvement. La suite dépendra du ralentissement des ventes étrangères et institutionnelles et de l’arrivée d’achats sur les grandes valeurs.",
+        "keywords": [
+          "KOSPI",
+          "coupe-circuit",
+          "sidecar vendeur",
+          "bourse coréenne",
+          "suspension des échanges",
+          "chute boursière",
+          "volatilité ETF",
+          "sentiment des investisseurs",
+          "Le KOSPI chute de pl"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi le coupe-circuit du KOSPI a-t-il été déclenché ?",
+            "a": "Parce que le KOSPI a chuté de plus de 8 % en séance, atteignant le seuil de suspension temporaire des échanges."
+          },
+          {
+            "q": "Quelle est la différence entre sidecar et coupe-circuit ?",
+            "a": "Le sidecar limite les transactions programmées; le coupe-circuit suspend temporairement le marché dans son ensemble."
+          },
+          {
+            "q": "Que doivent surveiller les particuliers ?",
+            "a": "Ils doivent surveiller la volatilité après la reprise et rester prudents avec les ordres au marché, le crédit et l’effet de levier."
+          }
+        ]
+      },
+      "ar": {
+        "title": "كوسبي يهبط بأكثر من 8% ويفعل قاطع التداول في السوق الكورية",
+        "excerpt": "هبط مؤشر كوسبي بأكثر من 8% خلال الجلسة، ما أدى إلى تفعيل قاطع التداول وتعليق التعاملات مؤقتا في السوق الرئيسية بكوريا الجنوبية بعد تفعيل آلية بيع مبكرة.",
+        "metaDescription": "كوسبي يهبط بأكثر من 8% خلال الجلسة ويفعل قاطع التداول، مع تعليق مؤقت للتعاملات بعد آلية بيع مبكرة.",
+        "summary": "تراجع مؤشر كوسبي بأكثر من 8% خلال الجلسة، فتم تعليق التداول مؤقتا في السوق الرئيسية. كانت آلية بيع قد فعلت في بداية التعاملات قبل أن تتسع الخسائر. ارتفعت التقلبات في الأسهم الكورية وصناديق المؤشرات والمنتجات المرتبطة بالمؤشر. التركيز ينتقل الآن إلى قوة البيع من الأجانب والمؤسسات.",
+        "body": "هبط مؤشر كوسبي بأكثر من 8% خلال الجلسة، ما أدى إلى تفعيل قاطع التداول وتعليق التعاملات مؤقتا في السوق الرئيسية بكوريا الجنوبية. ظهرت ضغوط البيع منذ الافتتاح، فتم تفعيل آلية بيع مبكرة أولا، ثم اتسعت الخسائر حتى وصلت إلى مستوى إيقاف السوق.\n\n## سبب التفعيل\nقاطع التداول يوقف التعاملات مؤقتا عندما يهبط المؤشر بسرعة كبيرة خلال فترة قصيرة. الهدف هو تهدئة البيع المندفع ومنح المستثمرين وقتا لمراجعة الأوامر والمخاطر. آلية البيع المبكرة تحد من التداولات المبرمجة المرتبطة بحركة العقود الآجلة، أما قاطع التداول فيوقف السوق على نطاق أوسع.\n\n## الأثر على الأصول الكورية\nالرقم الأساسي هو هبوط كوسبي بأكثر من 8% خلال الجلسة. هذا التحرك يؤثر في الأسهم الكبرى والمتوسطة والصغيرة وصناديق KOSPI200 والصناديق ذات الرافعة والمنتجات العكسية. من يملك منتجا يتتبع كوسبي بقيمة 10 ملايين وون قد يرى قيمته النظرية تنخفض إلى نحو 9.2 مليون وون عند هبوط 8%، من دون احتساب الرسوم أو فروق التتبع.\n\n## التوقعات\nتعليق التداول لا يلغي الخسائر، بل يمنح السوق وقتا لإعادة ترتيب الأوامر وضوابط المخاطر. بعد استئناف التداول قد تبقى التقلبات مرتفعة إذا ظهرت مبيعات هامشية أو إعادة توازن في الصناديق ذات الرافعة. العامل الحاسم سيكون تراجع بيع الأجانب والمؤسسات وظهور طلب على الأسهم الكبرى.",
+        "keywords": [
+          "كوسبي",
+          "قاطع التداول",
+          "آلية بيع",
+          "سوق كوريا الجنوبية",
+          "تعليق التداول",
+          "هبوط الأسهم",
+          "تقلبات صناديق المؤشرات",
+          "معنويات المستثمرين",
+          "كوسبي يهبط بأكثر من"
+        ],
+        "faq": [
+          {
+            "q": "لماذا تم تفعيل قاطع التداول في كوسبي؟",
+            "a": "لأن مؤشر كوسبي هبط بأكثر من 8% خلال الجلسة، ما استدعى تعليق التداول مؤقتا في السوق الرئيسية."
+          },
+          {
+            "q": "ما الفرق بين آلية البيع وقاطع التداول؟",
+            "a": "آلية البيع تحد من التداولات المبرمجة، بينما قاطع التداول يعلق التعاملات في السوق ككل مؤقتا."
+          },
+          {
+            "q": "ما الذي يجب أن ينتبه إليه المستثمر الفرد؟",
+            "a": "ينبغي مراقبة التقلب بعد استئناف التداول وتجنب أوامر السوق المتسرعة والرافعة المالية المفرطة."
+          }
+        ]
+      },
+      "hi": {
+        "title": "KOSPI में 8% से अधिक गिरावट, सर्किट ब्रेकर से कारोबार अस्थायी रूप से रुका",
+        "excerpt": "KOSPI में सत्र के दौरान 8% से अधिक गिरावट आई और दक्षिण कोरिया के मुख्य शेयर बाजार में सर्किट ब्रेकर सक्रिय हुआ। शुरुआती बिकवाली साइडकार के बाद निवेश धारणा तेजी से कमजोर हुई।",
+        "metaDescription": "KOSPI में 8% से अधिक इंट्राडे गिरावट के बाद सर्किट ब्रेकर सक्रिय हुआ और मुख्य बाजार में कारोबार अस्थायी रूप से रुका।",
+        "summary": "KOSPI सत्र के दौरान 8% से अधिक गिरा, जिससे मुख्य बाजार में कारोबार अस्थायी रूप से रोकना पड़ा। इससे पहले शुरुआती कारोबार में बिकवाली साइडकार सक्रिय हुआ था। गिरावट से कोरियाई शेयरों, ETF और इंडेक्स-लिंक्ड उत्पादों में अस्थिरता बढ़ी। अब नजर विदेशी और संस्थागत बिकवाली की तीव्रता पर रहेगी।",
+        "body": "KOSPI में सत्र के दौरान 8% से अधिक गिरावट आई और दक्षिण कोरिया के मुख्य शेयर बाजार में सर्किट ब्रेकर सक्रिय हो गया। कारोबार अस्थायी रूप से रोक दिया गया। शुरुआत से ही बिकवाली का दबाव मजबूत था। पहले बिकवाली साइडकार सक्रिय हुआ, फिर गिरावट बढ़कर बाजार-स्तरीय रुकावट तक पहुंच गई।\n\n## सर्किट ब्रेकर क्यों लगा\nसर्किट ब्रेकर तब लगाया जाता है जब कोई सूचकांक कम समय में तेज गिरावट दिखाता है। इसका उद्देश्य घबराहट में बिकवाली को धीमा करना और निवेशकों को ऑर्डर तथा जोखिम दोबारा जांचने का समय देना है। साइडकार मुख्य रूप से फ्यूचर्स में तेज बदलाव से जुड़ी प्रोग्राम ट्रेडिंग को सीमित करता है, जबकि सर्किट ब्रेकर पूरे बाजार को अस्थायी रूप से रोकता है।\n\n## बाजार पर असर\nमुख्य आंकड़ा KOSPI की 8% से अधिक इंट्राडे गिरावट है। इसका असर बड़ी कंपनियों, मिडकैप, स्मॉलकैप, KOSPI200 ETF, लीवरेज्ड ETF, इनवर्स उत्पाद और संरचित उत्पादों पर पड़ता है। यदि किसी निवेशक ने KOSPI ट्रैकिंग उत्पाद में 1 करोड़ वॉन लगाए हों, तो 8% गिरावट पर सैद्धांतिक मूल्य करीब 92 लाख वॉन रह जाता है।\n\n## आगे की दिशा\nकारोबार रुकना नुकसान मिटाता नहीं, बल्कि ऑर्डर बुक और जोखिम नियंत्रण को रीसेट करने का समय देता है। दोबारा कारोबार शुरू होने के बाद भी मार्जिन बिक्री, क्रेडिट पोजिशन और लीवरेज्ड ETF रीबैलेंसिंग से अस्थिरता बनी रह सकती है। बाजार अब विदेशी और संस्थागत बिकवाली में कमी तथा बड़ी कंपनियों में निचले स्तर की खरीद पर नजर रखेगा।",
+        "keywords": [
+          "KOSPI",
+          "सर्किट ब्रेकर",
+          "बिकवाली साइडकार",
+          "कोरियाई शेयर बाजार",
+          "कारोबार रोक",
+          "शेयर बाजार गिरावट",
+          "ETF अस्थिरता",
+          "निवेशक धारणा",
+          "KOSPI में 8% से अधिक"
+        ],
+        "faq": [
+          {
+            "q": "KOSPI में सर्किट ब्रेकर क्यों सक्रिय हुआ?",
+            "a": "क्योंकि KOSPI सत्र के दौरान 8% से अधिक गिर गया और मुख्य बाजार में कारोबार रोकने की स्थिति बन गई।"
+          },
+          {
+            "q": "साइडकार और सर्किट ब्रेकर में क्या अंतर है?",
+            "a": "साइडकार प्रोग्राम ट्रेडिंग को सीमित करता है, जबकि सर्किट ब्रेकर पूरे बाजार का कारोबार अस्थायी रूप से रोकता है।"
+          },
+          {
+            "q": "रिटेल निवेशकों को क्या सावधानी रखनी चाहिए?",
+            "a": "दोबारा कारोबार शुरू होने के बाद अस्थिरता रह सकती है, इसलिए मार्केट ऑर्डर, लीवरेज और क्रेडिट ट्रेडिंग में सावधानी जरूरी है।"
+          }
+        ]
+      },
+      "id": {
+        "title": "KOSPI Anjlok Lebih dari 8%, Circuit Breaker Hentikan Perdagangan Sementara",
+        "excerpt": "KOSPI jatuh lebih dari 8% intraday dan memicu circuit breaker di pasar utama Korea Selatan. Sebelumnya, sidecar jual sudah aktif pada awal sesi, menekan sentimen investor.",
+        "metaDescription": "KOSPI turun lebih dari 8% intraday, memicu circuit breaker dan penghentian sementara perdagangan setelah sidecar jual aktif.",
+        "summary": "KOSPI turun lebih dari 8% dalam sesi perdagangan dan memicu penghentian sementara di pasar utama. Sidecar jual telah aktif lebih dulu pada awal sesi. Volatilitas meningkat pada saham Korea, ETF, dan produk berbasis indeks. Perhatian kini tertuju pada apakah tekanan jual asing dan institusi mulai mereda.",
+        "body": "KOSPI anjlok lebih dari 8% dalam sesi perdagangan dan memicu circuit breaker, sehingga perdagangan di pasar utama Korea Selatan dihentikan sementara. Tekanan jual muncul sejak pembukaan. Sidecar jual aktif lebih dulu, lalu penurunan melebar hingga mencapai level penghentian pasar.\n\n## Alasan Penghentian\nCircuit breaker digunakan ketika indeks turun tajam dalam waktu singkat. Tujuannya adalah menahan aksi jual panik dan memberi waktu bagi investor untuk meninjau pesanan serta risiko. Sidecar membatasi perdagangan program yang dipicu pergerakan futures, sedangkan circuit breaker menghentikan perdagangan pasar secara lebih luas.\n\n## Dampak Pasar\nAngka utama adalah penurunan KOSPI lebih dari 8% intraday. Pergerakan ini berdampak pada saham besar, saham menengah dan kecil, ETF berbasis KOSPI200, ETF leverage, produk inverse, serta instrumen terstruktur. Bagi investor dengan 10 juta won dalam produk pelacak KOSPI, penurunan 8% berarti nilai teoritis turun menjadi sekitar 9,2 juta won, sebelum biaya dan selisih pelacakan.\n\n## Prospek\nPenghentian perdagangan tidak menghapus kerugian, tetapi memberi jeda untuk menata ulang buku pesanan dan kontrol risiko. Setelah perdagangan dibuka kembali, volatilitas dapat berlanjut jika terjadi penjualan margin, tekanan kredit, atau rebalancing ETF leverage. Fokus pasar adalah meredanya jual asing dan institusi serta munculnya pembelian pada saham berkapitalisasi besar.",
+        "keywords": [
+          "KOSPI",
+          "circuit breaker",
+          "sidecar jual",
+          "pasar saham Korea",
+          "penghentian perdagangan",
+          "anjloknya saham",
+          "volatilitas ETF",
+          "sentimen investor",
+          "KOSPI Anjlok Lebih d"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa circuit breaker KOSPI aktif?",
+            "a": "Karena KOSPI turun lebih dari 8% intraday, sehingga perdagangan pasar utama dihentikan sementara."
+          },
+          {
+            "q": "Apa perbedaan sidecar dan circuit breaker?",
+            "a": "Sidecar membatasi perdagangan program, sedangkan circuit breaker menghentikan sementara perdagangan pasar secara keseluruhan."
+          },
+          {
+            "q": "Apa yang perlu diperhatikan investor ritel?",
+            "a": "Investor perlu mewaspadai volatilitas setelah perdagangan dibuka kembali dan berhati-hati terhadap order pasar, leverage, serta transaksi kredit."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "45cf12672507",
     "slug": "속보-코스피-또-출렁58-급락한-8411-마감-718871",
     "channelId": "STOCKS",
@@ -11236,59 +11609,6 @@
           {
             "q": "개인 투자자는 어떤 점을 주의해야 하나?",
             "a": "장전·장후 거래는 정규장보다 유동성이 낮아 가격 변동이 커질 수 있다. 미국 증시, 환율, 반도체 업황, 개별 기업 실적을 함께 확인해야 한다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "6cb143e00c33",
-    "slug": "252만원-뚫은-sk하이닉스sk스퀘어도-함께-날았다-매경-자이앤트-876383",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-06-17T07:59:01.851Z",
-    "updatedAt": "2026-06-17T07:59:01.851Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12076513",
-    "titleFingerprint": "1fc391eba91804b91472ab42a4e0764c159b95eb",
-    "dedupKeys": [
-      "6cb143e00c339917c10b40b363211a3069ecadf0",
-      "1fc391eba91804b91472ab42a4e0764c159b95eb",
-      "59809d8c4dd95c1e6aa02928ec1f6f8b827c4566"
-    ],
-    "imageUrl": "/images/articles/6cb143e00c33.png",
-    "i18n": {
-      "ko": {
-        "title": "SK하이닉스 252만원 돌파 신고가…SK스퀘어·SK 동반 강세 배경",
-        "excerpt": "SK하이닉스가 17일 AI 메모리 수요 확대 기대 속에 252만원선을 돌파하며 신고가를 썼고, 지분 가치와 투자 기대가 맞물린 SK스퀘어와 SK도 나란히 최고가를 새로 썼다.",
-        "metaDescription": "SK하이닉스가 AI 메모리 수요 기대감에 252만원을 돌파하며 신고가를 기록했다. SK스퀘어와 SK도 동반 상승하며 SK그룹 반도체 가치가 재평가되고 있다.",
-        "summary": "SK하이닉스가 17일 인공지능 시대 메모리 수요 확대 기대를 바탕으로 252만원선을 넘어서며 신고가를 기록했다. SK스퀘어와 SK도 동반 신고가를 경신하며 그룹 내 반도체 지분 가치가 부각됐다. 차세대 메모리 개발과 미국 시장 투자 확대 기대가 국내 증시의 핵심 모멘텀으로 작용하고 있다.",
-        "body": "SK하이닉스가 17일 252만원선을 돌파하며 신고가를 새로 썼다. 인공지능(AI) 서버 확산으로 고성능 메모리 수요가 빠르게 늘어날 것이라는 기대가 주가를 밀어 올렸다. SK하이닉스 강세는 단일 종목에 그치지 않았다. SK스퀘어와 SK도 같은 날 나란히 신고가를 기록하며 SK그룹 반도체 밸류체인 전반에 대한 재평가가 진행됐다.\n\n## AI 메모리 수요가 주가 재평가를 이끌었다\n이번 상승의 핵심은 AI 인프라 투자 확대다. 글로벌 빅테크와 데이터센터 사업자는 대규모 연산을 처리하기 위해 고대역폭 메모리와 차세대 D램 수요를 늘리고 있다. SK하이닉스는 AI 반도체에 들어가는 고부가 메모리 분야에서 시장 기대를 집중적으로 받고 있다. 단순 범용 메모리 업황 회복보다 수익성이 높은 제품군의 비중 확대가 투자 판단의 중심으로 이동했다.\n\n국내 투자자에게 중요한 지점은 원화 기준 주가 수준이다. SK하이닉스가 252만원을 넘어섰다는 것은 AI 메모리 기대가 이미 국내 증시 가격에 강하게 반영되고 있다는 의미다. 반도체 대형주는 코스피 지수 기여도가 크기 때문에 SK하이닉스의 신고가는 개인투자자 포트폴리오, 국내 주식형 펀드, 연기금 운용 성과에도 직접적인 영향을 준다.\n\n## SK스퀘어와 SK도 지분 가치 기대가 반영됐다\nSK스퀘어와 SK의 동반 신고가는 지주·투자회사 성격의 종목에도 반도체 가치가 확산되고 있음을 보여준다. SK스퀘어는 SK하이닉스 지분 가치와 투자 포트폴리오 재평가가 주가에 반영되는 구조다. SK 역시 그룹 핵심 자산의 가치 상승과 미래 투자 기대가 맞물리며 시장의 관심을 받았다.\n\n이날 흐름은 국내 증시에서 반도체가 다시 주도 업종으로 자리 잡고 있음을 보여준다. 배터리, 플랫폼, 바이오 등 성장주가 구간별로 순환매를 보였지만, AI 투자 사이클에서는 메모리 반도체의 실적 가시성이 가장 빠르게 부각되고 있다. 특히 차세대 메모리 개발과 미국 시장 투자 확대는 한국 기업이 글로벌 AI 공급망 안에서 어떤 위치를 차지할지를 가르는 핵심 변수다.\n\n## 관건은 실적 확인과 투자 지속성이다\n향후 주가 흐름은 AI 메모리 주문 증가가 실제 실적 개선으로 얼마나 빠르게 연결되는지에 달려 있다. 고부가 메모리 판매 비중, 평균판매단가, 설비투자 부담, 환율 흐름이 모두 변수다. 원·달러 환율이 높은 구간에서는 수출 기업의 원화 매출 환산에 유리한 측면이 있지만, 장비와 소재 조달 비용 부담도 함께 커질 수 있다.\n\n국내 규제와 정책 환경도 중요하다. 반도체 세제 지원, 전력 인프라, 첨단산업 투자 인허가 속도는 기업의 중장기 경쟁력에 영향을 미친다. 투자자는 신고가 자체보다 AI 메모리 수요가 장기 계약과 실적 추정치 상향으로 이어지는지를 확인해야 한다. 현재 시장은 SK하이닉스를 중심으로 SK스퀘어와 SK까지 확산되는 반도체 가치 재평가 국면에 진입했다. 다만 급등 이후에는 단기 차익 실현 매물이 나올 수 있어 실적 발표와 수주 흐름을 함께 점검하는 전략이 필요하다.",
-        "keywords": [
-          "SK하이닉스",
-          "SK하이닉스 주가",
-          "SK하이닉스 신고가",
-          "SK스퀘어",
-          "SK 주가",
-          "AI 메모리",
-          "고대역폭 메모리",
-          "반도체주",
-          "코스피",
-          "미국 투자"
-        ],
-        "faq": [
-          {
-            "q": "SK하이닉스 주가가 왜 신고가를 기록했나?",
-            "a": "AI 서버 확산으로 고성능 메모리 수요가 늘어날 것이라는 기대가 커졌고, 차세대 메모리 개발과 미국 시장 투자 확대 기대가 주가 상승을 이끌었다."
-          },
-          {
-            "q": "SK스퀘어와 SK도 함께 오른 이유는 무엇인가?",
-            "a": "SK하이닉스 가치 상승이 지분 가치와 그룹 핵심 자산 재평가로 이어지면서 SK스퀘어와 SK에도 매수세가 유입됐다."
-          },
-          {
-            "q": "투자자가 앞으로 확인해야 할 핵심 변수는 무엇인가?",
-            "a": "AI 메모리 주문 증가가 실제 매출과 이익 개선으로 연결되는지, 고부가 메모리 비중과 환율, 설비투자 부담, 반도체 정책 지원이 지속되는지를 봐야 한다."
           }
         ]
       }
