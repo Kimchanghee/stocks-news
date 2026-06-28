@@ -227,7 +227,7 @@ export function AffiliateShowcase({ locale, placement = 'article' }: Props) {
       {placement === 'article' && hasAdsterra && (
         <div className="safe-inline-adsterra-news">
           <p>{channelLabel('advertisement', locale)}</p>
-          <AdSlot network="adsterra" format="banner" size={{ w: 300, h: 250 }} className="safe-inline-adsterra-frame" />
+          <AdSlot network="adsterra" zoneId="7dc22939e3fff61e91fedc9f777126e3" format="banner" size={{ w: 300, h: 250 }} className="safe-inline-adsterra-frame" />
         </div>
       )}
 
