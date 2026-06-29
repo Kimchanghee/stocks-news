@@ -1,5 +1,760 @@
 [
   {
+    "id": "3c19cf14d501",
+    "slug": "메모리-etf-투자열풍-나스닥100-qqq-압도-392822",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-06-29T10:21:27.527Z",
+    "updatedAt": "2026-06-29T10:21:27.527Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12085860",
+    "titleFingerprint": "951bc4f4114c5b5320aff3b81651326412eb86c1",
+    "dedupKeys": [
+      "3c19cf14d5019ffccec5685e64b3ccc17e53daeb",
+      "951bc4f4114c5b5320aff3b81651326412eb86c1",
+      "0b78c22bf6387909089ca021c17c117d08d5c4c9"
+    ],
+    "imageUrl": "/images/articles/3c19cf14d501.jpg",
+    "i18n": {
+      "ko": {
+        "title": "메모리 ETF 투자열풍, 삼성전자·SK하이닉스 급등에 나스닥100 QQQ 압도한 AI 자금 이동",
+        "excerpt": "2026년 AI 데이터센터 증설로 HBM·DRAM 수요가 급증하자 삼성전자·SK하이닉스·마이크론을 담은 미국 메모리 ETF에 자금이 몰렸다. 상장 두 달여 만에 순자산이 200억달러대까지 불어나 원화로 28조원 안팎의 테마 자금이 형성됐다.",
+        "metaDescription": "삼성전자·SK하이닉스 주가 급등과 AI 메모리 수요가 미국 메모리 ETF 자금 유입을 키웠다. DRAM ETF가 QQQ를 앞선 배경, 원화 환산 규모, 해외 ETF 세금·환율 리스크와 국내 반도체 수급 영향을 정리했다.",
+        "summary": "미국 메모리 ETF가 AI 인프라 투자 확산을 타고 나스닥100 ETF QQQ보다 강한 단기 성과를 냈다. 삼성전자·SK하이닉스·마이크론 등 HBM·DRAM 공급사가 핵심 편입 종목으로 부각됐다. 대표 상품은 상장 두 달여 만에 200억달러대 순자산을 형성했다. 다만 집중형 ETF인 만큼 QQQ보다 변동성과 산업 사이클 위험이 크다.",
+        "body": "메모리 반도체에 집중하는 미국 상장 ETF가 2026년 AI 인프라 장세의 중심으로 떠올랐다. 삼성전자와 SK하이닉스, 마이크론 등 HBM·DRAM 공급사의 주가 급등이 ETF 수익률과 자금 유입을 동시에 밀어 올리며 나스닥100 대표 ETF인 QQQ의 단기 성과를 크게 앞섰다. 다만 QQQ가 100개 혁신 대형주에 분산 투자하는 장기 핵심 ETF라면, 메모리 ETF는 특정 산업과 일부 종목에 수익과 위험이 집중된 고변동 상품이다.\n\n## AI 병목이 메모리로 이동\nAI 데이터센터 투자가 그래픽처리장치에서 고대역폭메모리, D램, 낸드, SSD로 확산되며 투자자 시선이 메모리 공급망으로 이동했다. 한국 기업의 존재감이 특히 크다. 삼성전자와 SK하이닉스는 HBM과 범용 D램 가격 상승의 직접 수혜주로 분류되고, 미국 마이크론·샌디스크, 일본 키옥시아까지 묶은 메모리 ETF가 AI 하드웨어 부족을 사는 대표 상품이 됐다. 미국 반도체 ETF 상당수는 미국 상장 종목 중심이라 한국 거래소에 상장된 삼성전자와 SK하이닉스를 충분히 담기 어렵다. 이 공백을 메모리 특화 ETF가 메우면서 미국 개인과 기관, 한국 투자자의 역외 수요가 한꺼번에 유입됐다.\n\n## 두 달 만에 200억달러대 테마 자금\n대표 상품인 DRAM 메모리 ETF는 2026년 4월 2일 상장된 뒤 50일 안팎에 순자산 100억달러를 넘어섰고, 이후 200억달러대 규모까지 불어났다. 원화로는 환율 1,400원 적용 시 28조원 안팎이다. 상장 초기 수익률은 한때 160% 안팎까지 치솟아 같은 기간 QQQ를 압도했다. QQQ는 운용보수 0.18%로 나스닥100의 100개 대형 성장주를 담는 저비용 분산형 상품이고, DRAM은 운용보수 0.65%의 액티브 ETF로 삼성전자·SK하이닉스·마이크론·키옥시아·샌디스크 등 메모리와 저장장치 기업에 집중한다. 성격 자체가 다르기 때문에 단기 수익률만으로 우열을 고정할 수는 없다.\n\n## 한국 투자자 영향과 전망\n국내 투자자에게 이번 열풍은 한국 반도체를 미국 ETF로 다시 사는 구조다. 해외 상장 ETF 매매차익, 배당 원천징수, 환전 스프레드, 야간 거래 변동성을 함께 계산해야 한다. 메모리 ETF 매수세가 이어지면 삼성전자·SK하이닉스의 외국인 수급과 국내 반도체 소부장 주가에도 온기가 번질 수 있다. 반대로 AI 설비투자 둔화, HBM 단가 조정, 수출 규제, 공급 증설에 따른 재고 부담이 커지면 ETF는 QQQ보다 큰 낙폭을 보일 수 있다. 메모리 가격 상승과 AI 서버 투자 사이클은 우호적이지만, 집중 ETF는 핵심 위성 자산이지 시장 전체를 대체하는 상품은 아니다.",
+        "keywords": [
+          "메모리 ETF",
+          "DRAM ETF",
+          "QQQ",
+          "삼성전자",
+          "SK하이닉스",
+          "HBM",
+          "AI 반도체",
+          "나스닥100",
+          "해외 ETF",
+          "반도체 투자"
+        ],
+        "faq": [
+          {
+            "q": "메모리 ETF가 QQQ보다 좋은 투자상품인가요?",
+            "a": "단정할 수 없다. 메모리 ETF는 단기 수익률과 자금 유입 속도에서 QQQ를 앞섰지만, QQQ는 100개 대형주에 분산 투자하는 저비용 핵심 ETF이고 메모리 ETF는 산업 집중도가 높다."
+          },
+          {
+            "q": "왜 삼성전자와 SK하이닉스가 메모리 ETF의 핵심인가요?",
+            "a": "두 회사는 HBM, D램, 낸드 등 AI 서버에 필요한 메모리 공급망의 중심에 있다. 미국 상장 반도체 ETF가 충분히 담기 어려운 한국 대형주 노출을 메모리 ETF가 제공한다."
+          },
+          {
+            "q": "국내 투자자는 무엇을 확인해야 하나요?",
+            "a": "해외 상장 ETF 매매차익 과세, 배당 원천징수, 환율 변동, 야간 거래 시간, 일부 종목 집중도를 함께 봐야 한다. 레버리지 상품은 장기 보유에 더 큰 위험이 있다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Memory ETF Frenzy Rides Samsung and SK Hynix to Outpace Nasdaq-100 QQQ",
+        "excerpt": "AI data-center expansion in 2026 has pushed HBM and DRAM demand sharply higher, drawing heavy money into U.S. memory ETFs holding Samsung Electronics, SK Hynix and Micron. Assets swelled into the $20 billion range within just over two month",
+        "metaDescription": "Samsung, SK Hynix and AI memory demand are driving flows into U.S. memory ETFs. See why DRAM ETFs have outpaced QQQ and what Korean investors should watch.",
+        "summary": "U.S.-listed memory ETFs have become a major AI infrastructure trade, delivering far stronger short-term performance than Nasdaq-100 ETF QQQ. Samsung Electronics, SK Hynix and Micron sit at the center of the HBM and DRAM supply chain. A leading DRAM ETF moved into the $20 billion asset range within just over two months. The trade offers precision exposure, bu",
+        "body": "U.S.-listed ETFs focused on memory chips have moved to the center of the 2026 AI infrastructure rally. Rising shares of Samsung Electronics, SK Hynix and Micron, the main suppliers of HBM and DRAM, lifted both ETF returns and inflows, leaving short-term QQQ performance far behind. The comparison needs context: QQQ is a diversified core ETF holding 100 Nasdaq-100 growth companies, while a memory ETF concentrates return and risk in one industry.\n\n## AI Bottleneck Moves to Memory\nAI data-center spending has expanded from graphics processors into high-bandwidth memory, DRAM, NAND and SSDs. That shift has pulled investor attention toward the memory supply chain. Samsung Electronics and SK Hynix are direct beneficiaries of stronger HBM and commodity DRAM pricing, while Micron, SanDisk and Kioxia broaden the global basket. Many U.S. semiconductor ETFs are built around U.S.-listed stocks, limiting exposure to Korean-listed Samsung and SK Hynix. Memory-focused ETFs fill that gap for U.S. institutions, retail investors and Korean investors buying offshore products.\n\n## A $20 Billion Theme in Two Months\nThe representative DRAM memory ETF listed on April 2, 2026, crossed $10 billion in assets in roughly 50 days and later moved into the $20 billion range. At an exchange rate of 1,400 won per dollar, that is about 28 trillion won. Its early return at one point reached roughly 160%, far above QQQ over the same stretch. QQQ charges 0.18% and offers low-cost exposure to 100 large Nasdaq growth companies. DRAM charges 0.65% and actively concentrates in memory and storage names such as Samsung, SK Hynix, Micron, Kioxia and SanDisk. The two products serve different portfolio roles.\n\n## Korean Market Impact and Outlook\nFor Korean investors, the boom creates an unusual loop: buying Korean semiconductor exposure through a U.S.-listed ETF. Taxes on overseas ETF gains, dividend withholding, FX spreads and overnight trading volatility all matter. Continued inflows can support foreign demand for Samsung and SK Hynix and spill into Korean semiconductor suppliers. A slowdown in AI capex, HBM price pressure, export controls or oversupply could also make the ETF fall more sharply than QQQ. Memory pricing and AI server demand remain supportive, but this is a satellite exposure, not a substitute for the whole market.",
+        "keywords": [
+          "memory ETF",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "AI chips",
+          "Nasdaq-100",
+          "semiconductor ETF",
+          "Korean stocks"
+        ],
+        "faq": [
+          {
+            "q": "Is a memory ETF better than QQQ?",
+            "a": "Not necessarily. Memory ETFs have outpaced QQQ in short-term performance and inflow speed, but QQQ is a lower-cost diversified core ETF while memory ETFs are highly concentrated."
+          },
+          {
+            "q": "Why are Samsung and SK Hynix central to memory ETFs?",
+            "a": "They are major suppliers of HBM, DRAM and NAND used in AI servers. Memory ETFs give U.S. investors exposure that many U.S.-listed semiconductor ETFs cannot fully provide."
+          },
+          {
+            "q": "What should Korean investors check first?",
+            "a": "They should review overseas ETF taxation, dividend withholding, exchange-rate risk, overnight trading hours and portfolio concentration before buying."
+          }
+        ]
+      },
+      "ja": {
+        "title": "メモリーETF投資熱、サムスン電子・SKハイニックス高騰でQQQを圧倒",
+        "excerpt": "2026年のAIデータセンター増設でHBMとDRAM需要が急拡大し、サムスン電子、SKハイニックス、マイクロンを組み入れる米国メモリーETFに資金が流入した。上場から約2カ月で純資産は200億ドル台に達した。",
+        "metaDescription": "サムスン電子とSKハイニックスの株価上昇、AIメモリー需要が米国メモリーETFへの資金流入を押し上げた。QQQとの違い、円・ウォン換算、リスクを解説。",
+        "summary": "米国上場のメモリーETFはAIインフラ投資の拡大を背景に、ナスダック100 ETFのQQQを短期成績で大きく上回った。中核はサムスン電子、SKハイニックス、マイクロンなどHBM・DRAM供給企業だ。代表的なDRAM ETFは上場から約2カ月で200億ドル台の資産規模に成長した。ただし集中型ETFであり、QQQより変動性と景気循環リスクが大きい。",
+        "body": "メモリー半導体に集中投資する米国上場ETFが、2026年のAIインフラ相場の中心に浮上した。サムスン電子、SKハイニックス、マイクロンなどHBM・DRAM供給企業の株価上昇がETFの収益率と資金流入を同時に押し上げ、ナスダック100を追うQQQの短期成績を大きく上回った。ただしQQQは100社の大型成長株に分散する中核ETFで、メモリーETFは一つの産業と少数銘柄にリスクが集中する商品だ。\n\n## AIのボトルネックはメモリーへ\nAIデータセンター投資はGPUから高帯域幅メモリー、DRAM、NAND、SSDへ広がっている。投資家の視線はメモリー供給網へ移った。サムスン電子とSKハイニックスはHBMと汎用DRAM価格上昇の直接的な恩恵を受ける企業であり、マイクロン、サンディスク、キオクシアを含むETFがAIハードウェア不足に投資する代表商品となった。多くの米国半導体ETFは米国上場銘柄中心で、韓国市場の大型株を十分に組み入れにくい。\n\n## 2カ月で200億ドル台のテーマ資金\n代表的なDRAMメモリーETFは2026年4月2日の上場後、約50日で純資産100億ドルを突破し、その後200億ドル台まで拡大した。1ドル1400ウォンなら約28兆ウォンに相当する。上場初期の収益率は一時160%前後まで上昇し、同期間のQQQを圧倒した。QQQの経費率は0.18%で、DRAMは0.65%のアクティブETFとしてメモリー・ストレージ企業に集中する。\n\n## 韓国投資家への影響\n韓国投資家にとっては、韓国半導体を米国ETF経由で買い戻す構造だ。海外ETFの譲渡益課税、配当源泉徴収、為替スプレッド、夜間取引の変動性を確認する必要がある。資金流入が続けばサムスン電子とSKハイニックス、韓国半導体素材・部品株にも追い風となる。AI投資減速、HBM価格調整、輸出規制、供給過剰が進めばQQQより下落幅が大きくなり得る。",
+        "keywords": [
+          "メモリーETF",
+          "DRAM ETF",
+          "QQQ",
+          "サムスン電子",
+          "SKハイニックス",
+          "HBM",
+          "AI半導体",
+          "ナスダック100",
+          "韓国株",
+          "半導体投資"
+        ],
+        "faq": [
+          {
+            "q": "メモリーETFはQQQより優れた投資商品ですか。",
+            "a": "一概には言えない。短期収益率と資金流入では上回ったが、QQQは分散型の中核ETFで、メモリーETFは産業集中度が高い。"
+          },
+          {
+            "q": "なぜサムスン電子とSKハイニックスが重要ですか。",
+            "a": "両社はAIサーバーに必要なHBM、DRAM、NAND供給網の中心にあり、米国ETFで取りにくい韓国大型株の露出を提供する。"
+          },
+          {
+            "q": "韓国投資家は何を確認すべきですか。",
+            "a": "海外ETF課税、配当源泉徴収、為替変動、取引時間、少数銘柄への集中度を確認すべきだ。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "存储ETF投资热潮借三星电子和SK海力士上涨，短期压过纳指100 QQQ",
+        "excerpt": "2026年AI数据中心扩张推升HBM和DRAM需求，持有三星电子、SK海力士和美光的美国存储ETF吸引大量资金。上市两个多月后，相关产品资产规模已进入200亿美元区间。",
+        "metaDescription": "三星电子、SK海力士股价上涨和AI存储需求推动美国存储ETF资金流入。本文梳理DRAM ETF为何跑赢QQQ、韩元换算规模及韩国投资者风险。",
+        "summary": "美国上市存储ETF成为AI基础设施交易的核心，短期表现明显强于纳斯达克100 ETF QQQ。三星电子、SK海力士和美光是HBM、DRAM供应链中的关键公司。代表性DRAM ETF上市两个多月后资产规模进入200亿美元区间。但它属于高度集中型ETF，波动性和产业周期风险高于QQQ。",
+        "body": "聚焦存储芯片的美国上市ETF，已成为2026年AI基础设施行情的中心。三星电子、SK海力士和美光等HBM、DRAM供应商股价大涨，同时推高ETF回报和资金流入，短期表现明显超过追踪纳斯达克100的QQQ。不过，两者性质不同。QQQ分散投资100家大型成长公司，而存储ETF把收益和风险集中在一个行业及少数股票上。\n\n## AI瓶颈转向存储\nAI数据中心投资正在从GPU扩展到高带宽存储、DRAM、NAND和SSD。投资者的焦点转向存储供应链。三星电子和SK海力士直接受益于HBM和通用DRAM价格上涨，美光、闪迪、铠侠也被纳入全球存储篮子。许多美国半导体ETF以美国上市股票为主，难以充分配置韩国交易所上市的三星电子和SK海力士。存储ETF填补了这一空白，吸引美国机构、散户和韩国投资者的离岸需求。\n\n## 两个月形成200亿美元级主题资金\n代表性DRAM存储ETF于2026年4月2日上市，约50天内资产突破100亿美元，随后进入200亿美元区间。按1美元兑1400韩元计算，相当于约28万亿韩元。上市初期回报一度接近160%，远高于同期QQQ。QQQ费率为0.18%，提供低成本分散化成长股敞口；DRAM费率为0.65%，主动集中投资三星电子、SK海力士、美光、铠侠、闪迪等存储和数据储存企业。\n\n## 对韩国市场的影响\n对韩国投资者而言，这是一种通过美国ETF重新买入韩国半导体的结构。海外ETF资本利得税、股息预扣税、汇率点差和夜盘波动都需要计入成本。若资金继续流入，三星电子、SK海力士的外资需求以及韩国半导体材料、零部件股票可能受益。若AI资本开支放缓、HBM价格调整、出口管制或供给过剩出现，存储ETF跌幅可能大于QQQ。",
+        "keywords": [
+          "存储ETF",
+          "DRAM ETF",
+          "QQQ",
+          "三星电子",
+          "SK海力士",
+          "HBM",
+          "AI芯片",
+          "纳斯达克100",
+          "韩国股票",
+          "半导体投资"
+        ],
+        "faq": [
+          {
+            "q": "存储ETF一定比QQQ更好吗？",
+            "a": "不能这样判断。存储ETF短期收益和资金流入更强，但QQQ是低成本分散化核心ETF，存储ETF的行业集中度更高。"
+          },
+          {
+            "q": "为什么三星电子和SK海力士是核心？",
+            "a": "两家公司处在AI服务器所需HBM、DRAM和NAND供应链核心位置，存储ETF提供了许多美国半导体ETF难以覆盖的韩国大型股敞口。"
+          },
+          {
+            "q": "韩国投资者应注意什么？",
+            "a": "需要关注海外ETF税务、股息预扣、汇率波动、夜间交易时间和少数股票集中风险。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Fiebre por ETF de memoria: Samsung y SK Hynix impulsan un avance que supera a QQQ",
+        "excerpt": "La expansión de centros de datos de IA en 2026 disparó la demanda de HBM y DRAM, llevando dinero a ETF estadounidenses de memoria con Samsung Electronics, SK Hynix y Micron. En poco más de dos meses, los activos llegaron al rango de 20.000 ",
+        "metaDescription": "Samsung, SK Hynix y la demanda de memoria para IA impulsan los ETF de memoria en EE. UU. Claves frente a QQQ, escala en wones y riesgos para inversores coreanos.",
+        "summary": "Los ETF de memoria cotizados en EE. UU. se convirtieron en una operación central de infraestructura de IA y superaron a QQQ en el corto plazo. Samsung Electronics, SK Hynix y Micron concentran la exposición a HBM y DRAM. Un ETF DRAM líder alcanzó el rango de 20.000 millones de dólares en activos en poco más de dos meses. La oportunidad es precisa, pero más v",
+        "body": "Los ETF estadounidenses centrados en chips de memoria se han ubicado en el centro del rally de infraestructura de IA de 2026. La subida de Samsung Electronics, SK Hynix y Micron, proveedores clave de HBM y DRAM, elevó al mismo tiempo rentabilidad y entradas de capital, muy por encima de QQQ en el corto plazo. La comparación exige matiz: QQQ es un ETF diversificado con 100 grandes compañías del Nasdaq-100; un ETF de memoria concentra riesgo y retorno en una sola industria.\n\n## El cuello de botella pasa a la memoria\nLa inversión en centros de datos de IA se expandió desde procesadores gráficos hacia HBM, DRAM, NAND y SSD. La cadena de suministro de memoria ganó protagonismo. Samsung y SK Hynix son beneficiarios directos de precios más fuertes en HBM y DRAM, mientras Micron, SanDisk y Kioxia completan la cesta global. Muchos ETF estadounidenses de semiconductores se centran en acciones listadas en EE. UU., por lo que no capturan plenamente a Samsung y SK Hynix, cotizadas en Corea.\n\n## Un tema de 20.000 millones de dólares\nEl ETF DRAM representativo salió a bolsa el 2 de abril de 2026, superó 10.000 millones de dólares de activos en unos 50 días y luego entró en el rango de 20.000 millones. Con 1.400 wones por dólar, equivale a unos 28 billones de wones. Su rentabilidad inicial llegó a rondar el 160%, superando ampliamente a QQQ. QQQ cobra 0,18% y ofrece exposición diversificada y barata; DRAM cobra 0,65% y concentra posiciones en memoria y almacenamiento.\n\n## Impacto para Corea\nPara inversores coreanos, la operación equivale a recomprar semiconductores coreanos a través de un ETF estadounidense. Deben considerar impuestos sobre ETF extranjeros, retención de dividendos, tipo de cambio y volatilidad nocturna. Si continúan las entradas, Samsung, SK Hynix y proveedores coreanos pueden recibir apoyo. Si se enfría la inversión en IA o aparece exceso de oferta, el ETF puede caer más que QQQ.",
+        "keywords": [
+          "ETF de memoria",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "chips de IA",
+          "Nasdaq-100",
+          "acciones coreanas",
+          "semiconductores"
+        ],
+        "faq": [
+          {
+            "q": "¿Un ETF de memoria es mejor que QQQ?",
+            "a": "No necesariamente. Ha rendido más en el corto plazo, pero QQQ es un ETF diversificado y de menor costo, mientras el ETF de memoria está muy concentrado."
+          },
+          {
+            "q": "¿Por qué Samsung y SK Hynix son claves?",
+            "a": "Ambas compañías están en el centro del suministro de HBM, DRAM y NAND para servidores de IA, una exposición que muchos ETF estadounidenses no cubren por completo."
+          },
+          {
+            "q": "¿Qué debe revisar un inversor coreano?",
+            "a": "Impuestos de ETF extranjeros, retención de dividendos, riesgo cambiario, horario de negociación y concentración por sectores y acciones."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Febre dos ETFs de memória leva Samsung e SK Hynix a superar o QQQ no curto prazo",
+        "excerpt": "A expansão de data centers de IA em 2026 elevou a demanda por HBM e DRAM, atraindo capital para ETFs de memória nos EUA com Samsung Electronics, SK Hynix e Micron. Em pouco mais de dois meses, os ativos chegaram à faixa de US$ 20 bilhões.",
+        "metaDescription": "Samsung, SK Hynix e demanda de memória para IA impulsionam ETFs de memória nos EUA. Entenda por que DRAM superou QQQ, escala em won e riscos para investidores coreanos.",
+        "summary": "ETFs de memória listados nos EUA viraram uma das principais apostas em infraestrutura de IA e superaram o QQQ no curto prazo. Samsung Electronics, SK Hynix e Micron estão no centro da cadeia de HBM e DRAM. Um ETF DRAM líder entrou na faixa de US$ 20 bilhões em ativos em pouco mais de dois meses. A exposição é precisa, mas mais concentrada e volátil que QQQ.",
+        "body": "ETFs listados nos EUA com foco em chips de memória chegaram ao centro do rali de infraestrutura de IA em 2026. A alta de Samsung Electronics, SK Hynix e Micron, fornecedores de HBM e DRAM, impulsionou retornos e entradas de capital, deixando o QQQ para trás no curto prazo. A diferença é estrutural: QQQ é um ETF diversificado com 100 grandes empresas do Nasdaq-100; um ETF de memória concentra risco e retorno em um setor.\n\n## O gargalo da IA migra para memória\nO investimento em data centers de IA se espalhou de GPUs para HBM, DRAM, NAND e SSDs. A cadeia de memória passou a atrair o mercado. Samsung e SK Hynix se beneficiam diretamente de preços mais fortes de HBM e DRAM, enquanto Micron, SanDisk e Kioxia ampliam a cesta global. Muitos ETFs de semicondutores dos EUA privilegiam ações listadas nos EUA e não capturam plenamente Samsung e SK Hynix, negociadas na Coreia.\n\n## Tema de US$ 20 bilhões em dois meses\nO ETF DRAM de referência foi listado em 2 de abril de 2026, passou de US$ 10 bilhões em ativos em cerca de 50 dias e depois avançou para a faixa de US$ 20 bilhões. A 1.400 won por dólar, isso equivale a cerca de 28 trilhões de won. O retorno inicial chegou perto de 160%, muito acima do QQQ no mesmo período. QQQ cobra 0,18% e oferece exposição diversificada; DRAM cobra 0,65% e concentra posições em memória e armazenamento.\n\n## Impacto para a Coreia\nPara investidores coreanos, o movimento significa recomprar semicondutores coreanos por meio de um ETF dos EUA. Tributação de ETF estrangeiro, retenção sobre dividendos, câmbio e volatilidade noturna precisam entrar na conta. Entradas contínuas podem apoiar Samsung, SK Hynix e fornecedores coreanos. Se o capex de IA desacelerar, se o HBM ajustar preço ou se houver excesso de oferta, o ETF pode cair mais que QQQ.",
+        "keywords": [
+          "ETF de memória",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "chips de IA",
+          "Nasdaq-100",
+          "ações coreanas",
+          "semicondutores"
+        ],
+        "faq": [
+          {
+            "q": "Um ETF de memória é melhor que QQQ?",
+            "a": "Não necessariamente. O desempenho recente foi superior, mas QQQ é diversificado e barato, enquanto o ETF de memória tem concentração setorial elevada."
+          },
+          {
+            "q": "Por que Samsung e SK Hynix são centrais?",
+            "a": "Elas são grandes fornecedoras de HBM, DRAM e NAND usados em servidores de IA, exposição que muitos ETFs dos EUA não conseguem oferecer plenamente."
+          },
+          {
+            "q": "O que investidores coreanos devem observar?",
+            "a": "Tributos sobre ETF estrangeiro, retenção de dividendos, variação cambial, horário de negociação e concentração em poucos papéis."
+          }
+        ]
+      },
+      "de": {
+        "title": "Memory-ETF-Boom: Samsung und SK Hynix lassen Nasdaq-100-ETF QQQ zurück",
+        "excerpt": "Der Ausbau von KI-Rechenzentren hat 2026 die Nachfrage nach HBM und DRAM stark erhöht. US-Memory-ETFs mit Samsung Electronics, SK Hynix und Micron ziehen kräftig Kapital an und wuchsen in gut zwei Monaten in den Bereich von 20 Milliarden Do",
+        "metaDescription": "Samsung, SK Hynix und KI-Speichernachfrage treiben US-Memory-ETFs. Warum DRAM QQQ kurzfristig schlägt, welche Won-Größe entsteht und welche Risiken bleiben.",
+        "summary": "US-gelistete Memory-ETFs sind zu einem Kerntrade der KI-Infrastruktur geworden und haben QQQ kurzfristig deutlich übertroffen. Samsung Electronics, SK Hynix und Micron stehen im Zentrum der HBM- und DRAM-Lieferkette. Ein führender DRAM-ETF erreichte in gut zwei Monaten den Bereich von 20 Milliarden Dollar an Vermögen. Die Chance ist gezielt, aber konzentrier",
+        "body": "US-gelistete ETFs mit Fokus auf Speicherchips sind 2026 ins Zentrum der KI-Infrastruktur-Rally gerückt. Steigende Kurse von Samsung Electronics, SK Hynix und Micron, den zentralen Anbietern von HBM und DRAM, erhöhten zugleich ETF-Renditen und Zuflüsse. Kurzfristig blieb QQQ deutlich zurück. Der Vergleich braucht Einordnung: QQQ investiert breit in 100 große Nasdaq-100-Wachstumswerte; ein Memory-ETF bündelt Rendite und Risiko in einer Branche.\n\n## Der KI-Engpass wandert zum Speicher\nInvestitionen in KI-Rechenzentren reichen inzwischen über Grafikprozessoren hinaus zu HBM, DRAM, NAND und SSDs. Dadurch rückt die Speicherlieferkette in den Fokus. Samsung und SK Hynix profitieren direkt von höheren Preisen für HBM und Standard-DRAM, während Micron, SanDisk und Kioxia den globalen Korb ergänzen. Viele US-Halbleiter-ETFs halten vor allem US-gelistete Aktien und erfassen die in Korea notierten Schwergewichte Samsung und SK Hynix nur begrenzt.\n\n## 20-Milliarden-Dollar-Thema in zwei Monaten\nDer repräsentative DRAM-Memory-ETF startete am 2. April 2026, überschritt nach rund 50 Tagen 10 Milliarden Dollar Vermögen und stieg danach in den Bereich von 20 Milliarden Dollar. Bei 1.400 Won je Dollar entspricht das etwa 28 Billionen Won. Die Anfangsrendite erreichte zeitweise rund 160% und lag damit weit über QQQ. QQQ kostet 0,18% und bietet günstige Diversifikation; DRAM kostet 0,65% und konzentriert sich aktiv auf Speicher- und Storage-Unternehmen.\n\n## Wirkung für Korea\nFür koreanische Anleger entsteht eine Schleife: koreanische Halbleiter über einen US-ETF kaufen. Steuern auf Auslands-ETFs, Dividendenabzug, Wechselkurs und Nachthandelsschwankungen zählen mit. Anhaltende Zuflüsse können Samsung, SK Hynix und koreanische Zulieferer stützen. Schwächeres KI-Capex, fallende HBM-Preise, Exportkontrollen oder Überangebot könnten den ETF stärker belasten als QQQ.",
+        "keywords": [
+          "Memory ETF",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "KI-Chips",
+          "Nasdaq-100",
+          "koreanische Aktien",
+          "Halbleiter"
+        ],
+        "faq": [
+          {
+            "q": "Ist ein Memory-ETF besser als QQQ?",
+            "a": "Nicht zwingend. Memory-ETFs waren kurzfristig stärker, doch QQQ ist breiter gestreut und günstiger. Memory-ETFs tragen ein höheres Konzentrationsrisiko."
+          },
+          {
+            "q": "Warum sind Samsung und SK Hynix so wichtig?",
+            "a": "Sie liefern zentrale HBM-, DRAM- und NAND-Komponenten für KI-Server und bieten eine Korea-Exponierung, die viele US-Halbleiter-ETFs kaum abdecken."
+          },
+          {
+            "q": "Was sollten koreanische Anleger prüfen?",
+            "a": "Steuern auf ausländische ETFs, Dividendenabzug, Wechselkursrisiken, Handelszeiten und die Konzentration auf wenige Aktien."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Ruée sur les ETF mémoire: Samsung et SK Hynix distancent le QQQ à court terme",
+        "excerpt": "L’expansion des centres de données IA en 2026 a dopé la demande de HBM et de DRAM, attirant des capitaux vers les ETF mémoire américains exposés à Samsung Electronics, SK Hynix et Micron. Les actifs ont atteint la zone des 20 milliards de d",
+        "metaDescription": "Samsung, SK Hynix et la demande de mémoire IA alimentent les ETF mémoire aux États-Unis. Pourquoi DRAM dépasse QQQ, taille en wons et risques pour investisseurs coréens.",
+        "summary": "Les ETF mémoire cotés aux États-Unis sont devenus un placement clé de l’infrastructure IA et ont largement dépassé QQQ à court terme. Samsung Electronics, SK Hynix et Micron dominent l’exposition HBM et DRAM. Un ETF DRAM majeur a atteint la zone des 20 milliards de dollars d’actifs en un peu plus de deux mois. L’exposition est ciblée, mais plus concentrée et",
+        "body": "Les ETF américains spécialisés dans les puces mémoire occupent désormais le centre du rallye 2026 lié à l’infrastructure IA. La hausse de Samsung Electronics, SK Hynix et Micron, fournisseurs majeurs de HBM et de DRAM, a porté à la fois les rendements et les flux entrants. QQQ a été largement dépassé sur courte période. Mais QQQ reste un ETF diversifié sur 100 grandes sociétés du Nasdaq-100, tandis qu’un ETF mémoire concentre rendement et risque sur un seul secteur.\n\n## Le goulot d’étranglement passe à la mémoire\nLes dépenses en centres de données IA ne concernent plus seulement les processeurs graphiques. Elles s’étendent à la HBM, à la DRAM, à la NAND et aux SSD. La chaîne mémoire attire donc le marché. Samsung et SK Hynix bénéficient directement de prix plus fermes de HBM et de DRAM, tandis que Micron, SanDisk et Kioxia complètent l’exposition mondiale. De nombreux ETF semi-conducteurs américains privilégient les actions cotées aux États-Unis et capturent mal les géants coréens.\n\n## Un thème à 20 milliards de dollars\nL’ETF DRAM représentatif a été lancé le 2 avril 2026, a dépassé 10 milliards de dollars d’actifs en environ 50 jours, puis est entré dans la zone des 20 milliards. À 1 400 wons pour un dollar, cela représente près de 28 000 milliards de wons. Son rendement initial a brièvement approché 160%, très au-dessus de QQQ. QQQ facture 0,18% et offre une exposition diversifiée; DRAM facture 0,65% et se concentre activement sur mémoire et stockage.\n\n## Impact pour la Corée\nPour les investisseurs coréens, le mouvement revient à acheter des semi-conducteurs coréens via un ETF américain. Fiscalité des ETF étrangers, retenue sur dividendes, change et volatilité nocturne doivent être intégrés. Des flux persistants peuvent soutenir Samsung, SK Hynix et les fournisseurs coréens. Un ralentissement des dépenses IA, une correction des prix HBM, des contrôles à l’exportation ou une surcapacité pourraient faire baisser l’ETF davantage que QQQ.",
+        "keywords": [
+          "ETF mémoire",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "puces IA",
+          "Nasdaq-100",
+          "actions coréennes",
+          "semi-conducteurs"
+        ],
+        "faq": [
+          {
+            "q": "Un ETF mémoire est-il meilleur que QQQ ?",
+            "a": "Pas forcément. Il a mieux performé à court terme, mais QQQ est plus diversifié et moins coûteux, alors que l’ETF mémoire est très concentré."
+          },
+          {
+            "q": "Pourquoi Samsung et SK Hynix sont-ils centraux ?",
+            "a": "Ils sont au cœur de l’offre de HBM, DRAM et NAND utilisée dans les serveurs IA, une exposition que beaucoup d’ETF américains couvrent mal."
+          },
+          {
+            "q": "Que doivent vérifier les investisseurs coréens ?",
+            "a": "La fiscalité des ETF étrangers, la retenue sur dividendes, le risque de change, les horaires de marché et la concentration du portefeuille."
+          }
+        ]
+      },
+      "ar": {
+        "title": "طفرة صناديق ETF للذاكرة تدفع سامسونغ وSK هاينكس لتجاوز QQQ قصير الأجل",
+        "excerpt": "توسع مراكز بيانات الذكاء الاصطناعي في 2026 رفع الطلب على HBM وDRAM، فاندفعت الأموال إلى صناديق ETF أميركية للذاكرة تضم سامسونغ إلكترونيكس وSK هاينكس ومايكرون. خلال أكثر قليلا من شهرين، وصلت الأصول إلى نطاق 20 مليار دولار.",
+        "metaDescription": "ارتفاع سامسونغ وSK هاينكس وطلب ذاكرة الذكاء الاصطناعي يدفعان صناديق ETF للذاكرة في أميركا. مقارنة DRAM مع QQQ ومخاطر المستثمرين الكوريين.",
+        "summary": "أصبحت صناديق ETF الأميركية المتخصصة في شرائح الذاكرة إحدى صفقات البنية التحتية للذكاء الاصطناعي، وتفوقت على QQQ في الأداء القصير. تقف سامسونغ إلكترونيكس وSK هاينكس ومايكرون في قلب سلسلة HBM وDRAM. وصل صندوق DRAM بارز إلى نطاق 20 مليار دولار من الأصول خلال أكثر قليلا من شهرين. غير أن التركيز القطاعي يجعل المخاطر والتقلبات أعلى من QQQ.",
+        "body": "انتقلت صناديق ETF الأميركية التي تركز على شرائح الذاكرة إلى قلب موجة البنية التحتية للذكاء الاصطناعي في 2026. صعود أسهم سامسونغ إلكترونيكس وSK هاينكس ومايكرون، وهي من موردي HBM وDRAM الرئيسيين، رفع العوائد والتدفقات معا، متجاوزا أداء QQQ القصير. لكن المقارنة تحتاج إلى تمييز واضح: QQQ صندوق متنوع يضم 100 شركة نمو في ناسداك 100، أما صندوق الذاكرة فيركز العائد والمخاطر في صناعة واحدة.\n\n## اختناق الذكاء الاصطناعي ينتقل إلى الذاكرة\nإنفاق مراكز بيانات الذكاء الاصطناعي لم يعد محصورا في معالجات الرسوميات، بل امتد إلى HBM وDRAM وNAND وSSD. لذلك تحولت أنظار المستثمرين إلى سلسلة توريد الذاكرة. تستفيد سامسونغ وSK هاينكس مباشرة من ارتفاع أسعار HBM وDRAM، بينما تضيف مايكرون وسانديسك وكيوكسيا بعدا عالميا للسلة. كثير من صناديق أشباه الموصلات الأميركية تركز على الأسهم المدرجة في الولايات المتحدة، ولا تمنح تعرضا كافيا لأسهم كوريا الكبرى.\n\n## موضوع بقيمة 20 مليار دولار خلال شهرين\nأدرج صندوق DRAM للذاكرة في 2 أبريل 2026، وتجاوز 10 مليارات دولار من الأصول في نحو 50 يوما، ثم دخل نطاق 20 مليار دولار. عند 1400 وون للدولار، يعادل ذلك نحو 28 تريليون وون. بلغ العائد الأولي في مرحلة ما قرب 160%، أعلى بكثير من QQQ. تبلغ رسوم QQQ نحو 0.18% مع تنويع واسع، بينما تبلغ رسوم DRAM نحو 0.65% مع تركيز نشط على شركات الذاكرة والتخزين.\n\n## الأثر على كوريا\nبالنسبة للمستثمرين الكوريين، يعني ذلك شراء تعرض لشركات أشباه موصلات كورية عبر صندوق أميركي. يجب احتساب ضرائب صناديق الخارج، اقتطاع التوزيعات، مخاطر الصرف وتقلبات التداول الليلي. استمرار التدفقات قد يدعم سامسونغ وSK هاينكس وموردي كوريا. أما تباطؤ إنفاق الذكاء الاصطناعي أو هبوط أسعار HBM أو قيود التصدير أو فائض المعروض فقد يجعل الهبوط أكبر من QQQ.",
+        "keywords": [
+          "ETF الذاكرة",
+          "DRAM ETF",
+          "QQQ",
+          "سامسونغ إلكترونيكس",
+          "SK هاينكس",
+          "HBM",
+          "شرائح الذكاء الاصطناعي",
+          "ناسداك 100",
+          "الأسهم الكورية",
+          "أشباه الموصلات"
+        ],
+        "faq": [
+          {
+            "q": "هل صندوق ETF للذاكرة أفضل من QQQ؟",
+            "a": "ليس بالضرورة. تفوق في الأداء القصير وسرعة التدفقات، لكن QQQ أكثر تنويعا وأقل تكلفة، بينما صندوق الذاكرة أكثر تركيزا."
+          },
+          {
+            "q": "لماذا تعد سامسونغ وSK هاينكس محوريتين؟",
+            "a": "الشركتان في قلب إمدادات HBM وDRAM وNAND المستخدمة في خوادم الذكاء الاصطناعي، وهو تعرض لا توفره صناديق أميركية كثيرة بالكامل."
+          },
+          {
+            "q": "ما الذي يجب على المستثمر الكوري فحصه؟",
+            "a": "ضرائب صناديق الخارج، اقتطاع التوزيعات، تقلب العملة، ساعات التداول الليلية وتركيز المحفظة في أسهم قليلة."
+          }
+        ]
+      },
+      "hi": {
+        "title": "मेमोरी ETF की तेजी में Samsung और SK Hynix ने Nasdaq-100 QQQ को पीछे छोड़ा",
+        "excerpt": "2026 में AI डेटा सेंटर विस्तार से HBM और DRAM की मांग तेज हुई, जिससे Samsung Electronics, SK Hynix और Micron वाले अमेरिकी मेमोरी ETF में भारी पूंजी आई। दो महीने से थोड़े अधिक समय में संपत्ति 20 अरब डॉलर के दायरे में पहुंच गई।",
+        "metaDescription": "Samsung, SK Hynix और AI मेमोरी मांग अमेरिकी मेमोरी ETF में पूंजी ला रहे हैं। DRAM ETF ने QQQ को क्यों पछाड़ा, वॉन में आकार और कोरियाई निवेशक जोखिम समझें।",
+        "summary": "अमेरिका में सूचीबद्ध मेमोरी ETF AI इंफ्रास्ट्रक्चर निवेश का प्रमुख साधन बन गए और छोटी अवधि में QQQ से काफी आगे निकले। Samsung Electronics, SK Hynix और Micron HBM और DRAM आपूर्ति श्रृंखला के केंद्र में हैं। प्रमुख DRAM ETF दो महीने से थोड़े अधिक समय में 20 अरब डॉलर संपत्ति दायरे तक पहुंचा। लेकिन यह QQQ से ज्यादा केंद्रित और अस्थिर उत्पाद है।",
+        "body": "मेमोरी चिप पर केंद्रित अमेरिकी ETF 2026 की AI इंफ्रास्ट्रक्चर तेजी के केंद्र में आ गए हैं। Samsung Electronics, SK Hynix और Micron जैसे HBM और DRAM आपूर्तिकर्ताओं के शेयर चढ़ने से ETF रिटर्न और पूंजी प्रवाह दोनों बढ़े, और छोटी अवधि में QQQ पीछे रह गया। फर्क महत्वपूर्ण है: QQQ Nasdaq-100 की 100 बड़ी विकास कंपनियों में फैला ETF है, जबकि मेमोरी ETF एक उद्योग और कुछ शेयरों पर केंद्रित है।\n\n## AI की रुकावट मेमोरी में खिसकी\nAI डेटा सेंटर निवेश GPU से आगे HBM, DRAM, NAND और SSD तक फैल गया है। इससे निवेशकों का ध्यान मेमोरी सप्लाई चेन पर गया। Samsung और SK Hynix HBM और सामान्य DRAM कीमतों में मजबूती के सीधे लाभार्थी हैं, जबकि Micron, SanDisk और Kioxia वैश्विक बास्केट को पूरा करते हैं। कई अमेरिकी सेमीकंडक्टर ETF अमेरिकी सूचीबद्ध शेयरों पर केंद्रित रहते हैं, इसलिए कोरिया में सूचीबद्ध Samsung और SK Hynix की पूरी भागीदारी नहीं मिलती।\n\n## दो महीने में 20 अरब डॉलर का थीम\nमुख्य DRAM मेमोरी ETF 2 अप्रैल 2026 को सूचीबद्ध हुआ, करीब 50 दिन में 10 अरब डॉलर संपत्ति पार कर गया और बाद में 20 अरब डॉलर दायरे में पहुंचा। 1 डॉलर 1,400 वॉन मानने पर यह लगभग 28 ट्रिलियन वॉन है। शुरुआती रिटर्न एक समय करीब 160% तक गया, जो QQQ से बहुत अधिक था। QQQ का खर्च 0.18% है और वह विविध एक्सपोजर देता है; DRAM का खर्च 0.65% है और वह मेमोरी व स्टोरेज कंपनियों पर सक्रिय रूप से केंद्रित है।\n\n## कोरियाई निवेशकों पर असर\nकोरियाई निवेशकों के लिए यह अमेरिकी ETF के जरिए कोरियाई सेमीकंडक्टर एक्सपोजर खरीदने जैसा है। विदेशी ETF कर, डिविडेंड विदहोल्डिंग, मुद्रा जोखिम और रात के कारोबार की अस्थिरता को देखना जरूरी है। प्रवाह जारी रहा तो Samsung, SK Hynix और कोरियाई सप्लायर्स को सहारा मिल सकता है। AI खर्च धीमा पड़ा, HBM कीमतें घटीं, निर्यात नियम सख्त हुए या अतिरिक्त आपूर्ति आई तो ETF QQQ से ज्यादा गिर सकता है।",
+        "keywords": [
+          "मेमोरी ETF",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "AI चिप",
+          "Nasdaq-100",
+          "कोरियाई शेयर",
+          "सेमीकंडक्टर निवेश"
+        ],
+        "faq": [
+          {
+            "q": "क्या मेमोरी ETF QQQ से बेहतर है?",
+            "a": "जरूरी नहीं। छोटी अवधि में रिटर्न और प्रवाह बेहतर रहे, लेकिन QQQ कम लागत वाला विविध ETF है और मेमोरी ETF अधिक केंद्रित है।"
+          },
+          {
+            "q": "Samsung और SK Hynix इतने अहम क्यों हैं?",
+            "a": "दोनों AI सर्वर के लिए जरूरी HBM, DRAM और NAND आपूर्ति श्रृंखला के केंद्र में हैं और अमेरिकी ETF में कोरियाई बड़े शेयरों का एक्सपोजर देते हैं।"
+          },
+          {
+            "q": "कोरियाई निवेशकों को क्या देखना चाहिए?",
+            "a": "विदेशी ETF कर, डिविडेंड विदहोल्डिंग, विनिमय दर, रात के ट्रेडिंग समय और कुछ शेयरों पर केंद्रित जोखिम की जांच करनी चाहिए।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Demam ETF Memori, Samsung dan SK Hynix Dorong Kinerja Kalahkan QQQ",
+        "excerpt": "Ekspansi pusat data AI pada 2026 membuat permintaan HBM dan DRAM melonjak, menarik dana ke ETF memori AS yang memegang Samsung Electronics, SK Hynix, dan Micron. Dalam sedikit lebih dari dua bulan, asetnya masuk kisaran US$20 miliar.",
+        "metaDescription": "Samsung, SK Hynix, dan permintaan memori AI mendorong ETF memori AS. Simak alasan DRAM ETF mengungguli QQQ, ukuran dalam won, dan risiko investor Korea.",
+        "summary": "ETF memori yang tercatat di AS menjadi perdagangan utama infrastruktur AI dan mengungguli QQQ dalam jangka pendek. Samsung Electronics, SK Hynix, dan Micron berada di pusat rantai pasok HBM dan DRAM. ETF DRAM utama masuk kisaran aset US$20 miliar dalam sedikit lebih dari dua bulan. Namun konsentrasi sektor membuat risikonya lebih tinggi daripada QQQ.",
+        "body": "ETF AS yang berfokus pada chip memori kini berada di pusat reli infrastruktur AI 2026. Kenaikan saham Samsung Electronics, SK Hynix, dan Micron sebagai pemasok utama HBM dan DRAM mengangkat imbal hasil serta arus dana, membuat kinerja jangka pendek QQQ tertinggal. Perbedaannya jelas: QQQ adalah ETF inti yang tersebar pada 100 perusahaan pertumbuhan Nasdaq-100, sedangkan ETF memori memusatkan risiko dan imbal hasil pada satu industri.\n\n## Hambatan AI Bergeser ke Memori\nInvestasi pusat data AI meluas dari prosesor grafis ke HBM, DRAM, NAND, dan SSD. Perhatian investor pun bergeser ke rantai pasok memori. Samsung dan SK Hynix menjadi penerima manfaat langsung dari harga HBM dan DRAM yang lebih kuat, sementara Micron, SanDisk, dan Kioxia melengkapi keranjang global. Banyak ETF semikonduktor AS berfokus pada saham yang tercatat di AS, sehingga sulit memberi eksposur penuh ke Samsung dan SK Hynix yang tercatat di Korea.\n\n## Tema US$20 Miliar dalam Dua Bulan\nETF DRAM memori utama tercatat pada 2 April 2026, menembus aset US$10 miliar dalam sekitar 50 hari, lalu naik ke kisaran US$20 miliar. Dengan kurs 1.400 won per dolar, nilainya sekitar 28 triliun won. Imbal hasil awal sempat mendekati 160%, jauh di atas QQQ. QQQ mengenakan biaya 0,18% dan menawarkan diversifikasi murah; DRAM mengenakan 0,65% dan aktif terkonsentrasi pada perusahaan memori serta penyimpanan.\n\n## Dampak bagi Korea\nBagi investor Korea, tren ini berarti membeli kembali eksposur semikonduktor Korea melalui ETF AS. Pajak ETF luar negeri, pemotongan dividen, risiko kurs, dan volatilitas perdagangan malam perlu dihitung. Arus dana lanjutan dapat menopang Samsung, SK Hynix, dan pemasok semikonduktor Korea. Jika belanja AI melambat, harga HBM terkoreksi, aturan ekspor mengetat, atau pasokan berlebih muncul, ETF ini dapat turun lebih dalam daripada QQQ.",
+        "keywords": [
+          "ETF memori",
+          "DRAM ETF",
+          "QQQ",
+          "Samsung Electronics",
+          "SK Hynix",
+          "HBM",
+          "chip AI",
+          "Nasdaq-100",
+          "saham Korea",
+          "semikonduktor"
+        ],
+        "faq": [
+          {
+            "q": "Apakah ETF memori lebih baik daripada QQQ?",
+            "a": "Belum tentu. ETF memori unggul dalam jangka pendek, tetapi QQQ lebih terdiversifikasi dan berbiaya rendah, sedangkan ETF memori sangat terkonsentrasi."
+          },
+          {
+            "q": "Mengapa Samsung dan SK Hynix penting?",
+            "a": "Keduanya berada di pusat pasokan HBM, DRAM, dan NAND untuk server AI, memberi eksposur saham besar Korea yang tidak selalu tercakup ETF AS."
+          },
+          {
+            "q": "Apa yang perlu dicek investor Korea?",
+            "a": "Pajak ETF luar negeri, pemotongan dividen, risiko nilai tukar, jam perdagangan malam, dan konsentrasi pada sedikit saham."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "2192056e4db0",
+    "slug": "서러운-서른살-코스닥-1달된-삼전닉스-레버리지에-휘청-956528",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-06-29T10:16:40.161Z",
+    "updatedAt": "2026-06-29T10:16:40.162Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12085897",
+    "titleFingerprint": "13c6b9d6f3f9131f66e21e28a8999e2a9f82f1e1",
+    "dedupKeys": [
+      "2192056e4db0be61393f2317ff60c03217935534",
+      "13c6b9d6f3f9131f66e21e28a8999e2a9f82f1e1",
+      "631b3ca8918fbd11426d4a51c70834c7463769a0"
+    ],
+    "imageUrl": "/images/articles/2192056e4db0.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스닥 900선 회복, 서른살 시장 삼전닉스 레버리지 쏠림 완화에 성장주 매수 사이드카 발동",
+        "excerpt": "출범 30년을 맞은 코스닥이 반도체 대형주와 상장 한 달 안팎의 삼전닉스 레버리지 상품에 갇혔던 수급이 풀리며 900선을 회복했다. 자금이 성장주 전반으로 번지자 매수 사이드카가 발동됐고, 국내 투자자는 쏠림 완화와 단기 변동성 확대를 함께 확인했다.",
+        "metaDescription": "코스닥이 반도체 쏠림 완화로 900선을 회복하고 매수 사이드카가 발동됐다. 삼전닉스 레버리지 집중 수급이 성장주로 확산된 배경과 투자 영향을 짚는다.",
+        "summary": "서른살 코스닥이 900선을 회복하며 모처럼 존재감을 되찾았다. 삼성전자·SK하이닉스 중심의 대형 반도체 수급과 한 달 된 삼전닉스 레버리지 상품에 쏠렸던 자금이 성장주 전반으로 이동했다. 매수 사이드카 발동은 강한 위험선호 회복을 보여주지만, 레버리지 상품의 일간 추종 구조와 코스닥 변동성은 투자자가 함께 봐야 할 변수다.",
+        "body": "코스닥이 900선을 되찾으며 출범 30년의 무게를 다시 증명했다. 한동안 국내 증시 자금은 삼성전자와 SK하이닉스 등 대형 반도체주, 그리고 상장 한 달 안팎의 삼전닉스 레버리지 상품으로 압축됐다. 그 과정에서 바이오, 2차전지, 게임, 소프트웨어 같은 코스닥 성장주는 실적 변화보다 수급 공백에 더 크게 눌렸다. 이날 흐름은 달랐다. 반도체 쏠림이 완화되자 원화 자금이 중소형 성장주로 넓게 퍼졌고 지수는 900선을 회복했다. 매수 주문이 급격히 몰리면서 국내 시장 안정장치인 매수 사이드카도 발동됐다.\n\n## 삼전닉스 레버리지 쏠림의 역풍\n삼전닉스 레버리지 상품은 삼성전자와 SK하이닉스 중심의 반도체 상승 기대를 짧은 기간에 집중 흡수했다. 상장 후 약 한 달 만에 시장의 화제를 독점하면서 코스닥은 서른살 생일에도 상대적 소외를 겪었다. 레버리지 상품은 일간 수익률을 확대해 추종하는 구조여서 방향이 맞을 때는 매수세를 키우지만, 관심이 한쪽에 머물면 다른 성장 산업의 가격 발견은 늦어진다. 이번 반등은 그 왜곡이 일부 풀린 결과다.\n\n## 900선 회복과 매수 사이드카의 의미\n900선은 코스닥 투자심리를 가르는 상징적 기준이다. 지수가 800대에 머무를 때 개인 투자자는 종목별 실적보다 유동성 부족을 더 크게 의식했다. 900선 회복은 매도 압력이 줄고 성장주 전반에 위험자금이 돌아왔다는 신호다. 매수 사이드카는 급등을 무조건 긍정 신호로만 읽을 수 없다는 경고도 담고 있다. 프로그램 매매가 빠르게 움직일 만큼 주문 불균형이 컸다는 뜻이기 때문이다.\n\n## 국내 투자자 영향과 전망\n국내 투자자에게 이번 장세는 반도체 대형주 추격 매수와 코스닥 성장주 분산 매수 사이의 균형을 다시 묻는다. 원화 기준 포트폴리오에서 특정 레버리지 상품 비중이 커진 투자자는 지수 반등기에도 변동성 관리가 필요하다. 코스닥이 900선 위에 안착하려면 바이오 임상, 2차전지 수주, 소프트웨어 이익 회복처럼 업종별 실적 재료가 뒤따라야 한다. 반도체가 다시 자금을 독식하면 반등 폭은 제한될 수 있다. 반대로 수급 확산이 이어지면 서른살 코스닥은 단순한 기술적 반등을 넘어 국내 성장주 재평가의 출발점이 될 전망이다.",
+        "keywords": [
+          "코스닥",
+          "코스닥 900선",
+          "매수 사이드카",
+          "삼전닉스 레버리지",
+          "반도체 쏠림",
+          "성장주 반등",
+          "국내 증시",
+          "레버리지 상품",
+          "코스닥 900선 회복, 서른살 시장"
+        ],
+        "faq": [
+          {
+            "q": "코스닥 900선 회복의 핵심 원인은 무엇인가요?",
+            "a": "반도체 대형주와 삼전닉스 레버리지 상품에 집중됐던 자금이 바이오, 2차전지, 게임, 소프트웨어 등 성장주 전반으로 확산된 점이 핵심입니다."
+          },
+          {
+            "q": "매수 사이드카는 투자자에게 어떤 의미인가요?",
+            "a": "매수 주문이 급격히 몰려 프로그램 매매를 일시적으로 제한한 시장 안정장치입니다. 강한 매수세의 신호이지만 단기 변동성 확대 가능성도 함께 봐야 합니다."
+          },
+          {
+            "q": "삼전닉스 레버리지 상품 쏠림은 왜 변수인가요?",
+            "a": "레버리지 상품은 일간 수익률을 확대해 추종하므로 방향성이 맞으면 수익 기회가 커지지만, 특정 테마에 자금이 과도하게 몰리면 코스닥 다른 성장주의 가격 발견이 늦어질 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "KOSDAQ Reclaims 900 as Samjeon-Nix Leverage Crowding Eases",
+        "excerpt": "KOSDAQ, now in its 30th year, recovered the 900 level as money moved out of crowded large-chip and Samjeon-Nix leveraged trades into broader growth stocks, triggering a buy-side sidecar.",
+        "metaDescription": "KOSDAQ regained 900 and triggered a buy-side sidecar as semiconductor crowding eased and capital rotated from Samjeon-Nix leverage products into growth shares.",
+        "summary": "KOSDAQ regained relevance by moving back above 900. Funds that had been concentrated in Samsung Electronics, SK Hynix and a one-month-old Samjeon-Nix leveraged product spread into growth sectors. The buy-side sidecar showed renewed risk appetite, but leverage mechanics and KOSDAQ volatility remain key investor risks.",
+        "body": "KOSDAQ reclaimed the 900 line and restored weight to a market entering its 30th year. For weeks, local money had been compressed into Samsung Electronics, SK Hynix and a newly listed Samjeon-Nix leveraged product. That left biotechnology, batteries, gaming and software shares under pressure from thin demand rather than only weak fundamentals. The tone changed as semiconductor crowding eased. Won-denominated liquidity moved into small and mid-cap growth stocks, and a surge of buy orders triggered a buy-side sidecar.\n\n## From Chip Crowding to Growth Rotation\nThe Samjeon-Nix leveraged product absorbed expectations for gains in Korea’s two dominant chip names in a short period. Leveraged products amplify daily returns, so they can strengthen momentum when the direction is right. But when attention stays in one trade, price discovery in other growth industries slows.\n\n## What the 900 Line Means\nThe 900 level is a psychological marker for KOSDAQ investors. A recovery above it signals that selling pressure has eased and risk capital is returning. The sidecar is also a warning: order imbalance was large enough to activate a market stabilizer. The next test is whether earnings catalysts in biotech, batteries and software can keep money broadening beyond semiconductors.",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "buy-side sidecar",
+          "Samjeon-Nix leverage",
+          "semiconductor crowding",
+          "growth stocks",
+          "Korean stocks",
+          "leveraged product",
+          "KOSDAQ Reclaims 900"
+        ],
+        "faq": [
+          {
+            "q": "Why did KOSDAQ recover the 900 level?",
+            "a": "Money rotated from large semiconductor stocks and Samjeon-Nix leveraged products into broader growth sectors such as biotech, batteries, gaming and software."
+          },
+          {
+            "q": "What does a buy-side sidecar mean?",
+            "a": "It is a market stabilizer that temporarily restricts program trading when buy orders surge. It signals strong demand but also higher short-term volatility."
+          },
+          {
+            "q": "Why is Samjeon-Nix leverage crowding important?",
+            "a": "Leveraged products magnify daily moves. When too much money crowds into one semiconductor theme, other KOSDAQ growth stocks can be left behind."
+          }
+        ]
+      },
+      "ja": {
+        "title": "コスダック900回復、サムジョンニクス・レバレッジ集中緩和で買いサイドカー発動",
+        "excerpt": "発足30年を迎えたコスダックは、大型半導体株と上場約1カ月のサムジョンニクス・レバレッジ商品に偏っていた資金が成長株全般へ広がり、900台を回復した。",
+        "metaDescription": "コスダックが半導体偏重の緩和で900台を回復し、買いサイドカーが発動した。サムジョンニクス・レバレッジ集中から成長株へ資金が広がった。",
+        "summary": "30年目のコスダックが900台を回復し、久しぶりに存在感を取り戻した。サムスン電子、SKハイニックス、上場約1カ月のサムジョンニクス・レバレッジ商品に集中していた資金が成長株へ移った。買いサイドカーは強いリスク選好を示す一方、レバレッジ商品の構造と変動性には注意が必要だ。",
+        "body": "コスダックは900台を回復し、発足30年の市場として再び存在感を示した。国内資金はしばらくサムスン電子、SKハイニックスなど大型半導体株と、上場約1カ月のサムジョンニクス・レバレッジ商品に集中していた。そのためバイオ、二次電池、ゲーム、ソフトウエアなどの成長株は需給不足に押された。半導体偏重が和らぐと、ウォン建て資金は中小型成長株へ広がり、買い注文の急増で買いサイドカーも発動した。\n\n## 偏重から循環へ\nサムジョンニクス・レバレッジ商品は韓国の代表的半導体2銘柄への期待を短期間で吸収した。レバレッジ商品は日々の値動きを拡大して追随するため、方向が合えば買いを強める。ただし関心が一つのテーマに偏ると、他の成長産業の価格形成は遅れる。\n\n## 900台の意味\n900台は投資心理の重要な節目だ。回復は売り圧力の低下とリスク資金の帰還を示す。買いサイドカーは需給の強さを映すが、注文不均衡の大きさも示す。今後はバイオ、電池、ソフトウエアの業績材料が資金循環を支えられるかが焦点となる。",
+        "keywords": [
+          "コスダック",
+          "コスダック900",
+          "買いサイドカー",
+          "サムジョンニクス・レバレッジ",
+          "半導体偏重",
+          "成長株反発",
+          "韓国株",
+          "レバレッジ商品",
+          "コスダック900回復、サムジョンニクス・"
+        ],
+        "faq": [
+          {
+            "q": "コスダック900台回復の主因は何ですか。",
+            "a": "大型半導体株とサムジョンニクス・レバレッジ商品に集中していた資金が、バイオ、二次電池、ゲーム、ソフトウエアなどへ広がったためです。"
+          },
+          {
+            "q": "買いサイドカーは何を意味しますか。",
+            "a": "買い注文が急増した際にプログラム売買を一時的に制限する安定装置です。強い買い需要と短期変動性の両方を示します。"
+          },
+          {
+            "q": "サムジョンニクス・レバレッジ集中はなぜ重要ですか。",
+            "a": "日々の値動きを拡大して追随する商品であり、資金が一つの半導体テーマに偏ると他の成長株の価格形成が遅れやすいためです。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "科斯达克重回900点，三星海力士杠杆拥挤降温引发买入侧车",
+        "excerpt": "迎来成立30年的科斯达克重回900点。此前集中在大型半导体股和上市约一个月的三星海力士杠杆产品中的资金扩散至成长股，买入侧车随之启动。",
+        "metaDescription": "科斯达克因半导体拥挤交易降温重回900点，并触发买入侧车。资金从三星海力士杠杆产品扩散至韩国成长股。",
+        "summary": "科斯达克重回900点，30年市场重新获得关注。原本集中在三星电子、SK海力士和三星海力士杠杆产品的资金，开始流向成长股板块。买入侧车显示风险偏好回升，但杠杆产品的日内跟踪结构和科斯达克波动仍是关键变量。",
+        "body": "科斯达克重回900点，重新证明了成立30年市场的存在感。此前韩国股市资金长期集中在三星电子、SK海力士等大型半导体股，以及上市约一个月的三星海力士杠杆产品中。生物科技、二次电池、游戏和软件等成长股因此受到流动性缺口压制。随着半导体拥挤交易降温，韩元资金扩散至中小成长股，指数收复900点，买单快速涌入并触发买入侧车。\n\n## 从半导体集中到成长轮动\n三星海力士杠杆产品在短时间内吸收了对韩国两大芯片股上涨的期待。杠杆产品放大每日收益，方向正确时会强化买盘，但若资金长期停留在单一主题，其他成长行业的价格发现就会变慢。\n\n## 900点的含义\n900点是科斯达克投资心理的重要分界。站回这一位置，意味着卖压下降、风险资金回流。买入侧车并非单纯利好，它也说明订单失衡已足以启动市场稳定机制。后续能否站稳，取决于生物科技、电池和软件等板块的业绩材料能否接上。",
+        "keywords": [
+          "科斯达克",
+          "科斯达克900点",
+          "买入侧车",
+          "三星海力士杠杆",
+          "半导体拥挤",
+          "成长股反弹",
+          "韩国股市",
+          "杠杆产品",
+          "科斯达克重回900点，三星海力士杠杆拥挤"
+        ],
+        "faq": [
+          {
+            "q": "科斯达克为何重回900点？",
+            "a": "资金从大型半导体股和三星海力士杠杆产品中流出，扩散到生物科技、二次电池、游戏和软件等成长板块。"
+          },
+          {
+            "q": "买入侧车意味着什么？",
+            "a": "这是买单急剧增加时暂时限制程序化交易的市场稳定机制，显示买盘强劲，也提示短期波动可能扩大。"
+          },
+          {
+            "q": "三星海力士杠杆拥挤为何重要？",
+            "a": "杠杆产品会放大每日走势，资金过度集中于半导体主题时，其他科斯达克成长股的价格发现可能被延迟。"
+          }
+        ]
+      },
+      "es": {
+        "title": "KOSDAQ recupera 900 puntos al ceder la concentración en apalancados Samjeon-Nix",
+        "excerpt": "El KOSDAQ, en su trigésimo año, recuperó los 900 puntos cuando el dinero salió de grandes semiconductores y productos apalancados Samjeon-Nix hacia acciones de crecimiento, activando un sidecar comprador.",
+        "metaDescription": "KOSDAQ volvió a 900 puntos y activó un sidecar comprador al relajarse la concentración en semiconductores y rotar capital hacia acciones de crecimiento coreanas.",
+        "summary": "El KOSDAQ recuperó visibilidad al volver sobre los 900 puntos. Fondos antes concentrados en Samsung Electronics, SK Hynix y un producto apalancado Samjeon-Nix de un mes se movieron a sectores de crecimiento. El sidecar comprador refleja apetito por riesgo, aunque la estructura apalancada y la volatilidad siguen siendo riesgos.",
+        "body": "El KOSDAQ recuperó los 900 puntos y dio peso a un mercado que cumple 30 años. Durante semanas, el dinero local quedó comprimido en Samsung Electronics, SK Hynix y un producto apalancado Samjeon-Nix recién listado. Biotecnología, baterías, videojuegos y software sufrieron más por falta de demanda que por un cambio claro en fundamentos. Al aliviarse la concentración en semiconductores, la liquidez en wones se extendió a acciones de crecimiento medianas y pequeñas, y el salto de órdenes de compra activó un sidecar comprador.\n\n## De chips a crecimiento\nEl producto Samjeon-Nix absorbió en poco tiempo las expectativas sobre los dos grandes chips coreanos. El apalancamiento amplifica los rendimientos diarios y puede reforzar el impulso, pero una sola operación dominante retrasa el descubrimiento de precios en otros sectores.\n\n## Qué significa 900\nLos 900 puntos son una barrera psicológica para el KOSDAQ. Superarla indica menor presión vendedora y retorno del capital de riesgo. El sidecar también advierte que el desequilibrio de órdenes fue elevado. La continuidad dependerá de catalizadores en biotecnología, baterías y software.",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "sidecar comprador",
+          "Samjeon-Nix apalancado",
+          "semiconductores",
+          "acciones de crecimiento",
+          "bolsa coreana",
+          "producto apalancado",
+          "KOSDAQ recupera 900"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué el KOSDAQ recuperó los 900 puntos?",
+            "a": "Porque el capital rotó desde semiconductores grandes y productos apalancados Samjeon-Nix hacia biotecnología, baterías, videojuegos y software."
+          },
+          {
+            "q": "¿Qué es un sidecar comprador?",
+            "a": "Es un mecanismo de estabilidad que limita temporalmente operaciones programadas cuando se disparan las compras. Señala demanda fuerte y posible volatilidad."
+          },
+          {
+            "q": "¿Por qué importa la concentración en Samjeon-Nix?",
+            "a": "Los productos apalancados amplifican movimientos diarios. Si demasiado dinero se concentra en un tema de chips, otras acciones de crecimiento quedan rezagadas."
+          }
+        ]
+      },
+      "pt": {
+        "title": "KOSDAQ volta aos 900 pontos com alívio da concentração em alavancados Samjeon-Nix",
+        "excerpt": "O KOSDAQ, em seu 30º ano, recuperou os 900 pontos quando o capital saiu de grandes semicondutores e produtos alavancados Samjeon-Nix para ações de crescimento, acionando um sidecar comprador.",
+        "metaDescription": "KOSDAQ recuperou 900 pontos e acionou sidecar comprador com menor concentração em semicondutores e rotação para ações de crescimento coreanas.",
+        "summary": "O KOSDAQ voltou a ganhar força ao superar os 900 pontos. Recursos concentrados em Samsung Electronics, SK Hynix e um produto alavancado Samjeon-Nix com cerca de um mês migraram para setores de crescimento. O sidecar comprador indica apetite por risco, mas alavancagem e volatilidade seguem no radar.",
+        "body": "O KOSDAQ retomou os 900 pontos e reforçou a relevância de um mercado que chega aos 30 anos. Nas últimas semanas, o dinheiro local ficou concentrado em Samsung Electronics, SK Hynix e em um produto alavancado Samjeon-Nix recém-listado. Biotecnologia, baterias, jogos e software foram pressionados por falta de fluxo, não apenas por fundamentos. Com o alívio da concentração em semicondutores, a liquidez em won se espalhou por ações de crescimento de médio e pequeno porte, e a forte entrada de ordens de compra acionou um sidecar comprador.\n\n## Da concentração à rotação\nO produto Samjeon-Nix absorveu rapidamente a expectativa de alta nas duas principais ações de chips da Coreia. Produtos alavancados ampliam retornos diários e podem fortalecer o movimento, mas quando um tema domina o fluxo, outros setores crescentes perdem formação de preço.\n\n## O peso dos 900 pontos\nOs 900 pontos são um marco psicológico para investidores do KOSDAQ. A retomada mostra menor pressão vendedora e retorno do capital de risco. O sidecar também alerta para desequilíbrio intenso de ordens. A sustentação dependerá de catalisadores em biotecnologia, baterias e software.",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "sidecar comprador",
+          "Samjeon-Nix alavancado",
+          "semicondutores",
+          "ações de crescimento",
+          "bolsa coreana",
+          "produto alavancado",
+          "KOSDAQ volta aos 900"
+        ],
+        "faq": [
+          {
+            "q": "Por que o KOSDAQ voltou aos 900 pontos?",
+            "a": "Porque o capital saiu de grandes semicondutores e produtos Samjeon-Nix alavancados para setores como biotecnologia, baterias, jogos e software."
+          },
+          {
+            "q": "O que significa sidecar comprador?",
+            "a": "É um mecanismo que limita temporariamente negociações programadas quando compras disparam. Indica demanda forte e risco de volatilidade no curto prazo."
+          },
+          {
+            "q": "Por que a concentração em Samjeon-Nix importa?",
+            "a": "Produtos alavancados ampliam movimentos diários. Se o fluxo fica preso em um tema de chips, outras ações de crescimento podem ficar subavaliadas."
+          }
+        ]
+      },
+      "de": {
+        "title": "KOSDAQ erobert 900 zurück, Samjeon-Nix-Hebeltrade verliert Dominanz",
+        "excerpt": "Der KOSDAQ im 30. Jahr stieg zurück über 900 Punkte, nachdem Kapital aus großen Halbleiterwerten und Samjeon-Nix-Hebelprodukten in breitere Wachstumsaktien floss und einen Kauf-Sidecar auslöste.",
+        "metaDescription": "Der KOSDAQ gewann die Marke von 900 zurück und löste einen Kauf-Sidecar aus, weil Halbleiter-Crowding nachließ und Kapital in koreanische Wachstumswerte rotierte.",
+        "summary": "Der KOSDAQ meldete sich mit der Rückkehr über 900 Punkte zurück. Geld, das zuvor in Samsung Electronics, SK Hynix und einem rund einen Monat alten Samjeon-Nix-Hebelprodukt gebündelt war, floss in Wachstumssektoren. Der Kauf-Sidecar zeigt stärkere Risikobereitschaft, doch Hebelstruktur und Volatilität bleiben zentrale Risiken.",
+        "body": "Der KOSDAQ hat die Marke von 900 Punkten zurückerobert und dem 30 Jahre alten Markt neues Gewicht gegeben. In den vergangenen Wochen konzentrierte sich lokales Kapital auf Samsung Electronics, SK Hynix und ein frisch gelistetes Samjeon-Nix-Hebelprodukt. Biotech, Batterien, Gaming und Software litten eher unter fehlender Nachfrage als unter klar schwächeren Fundamentaldaten. Als das Halbleiter-Crowding nachließ, floss Won-Liquidität in kleine und mittelgroße Wachstumswerte. Die Kaufaufträge nahmen so schnell zu, dass ein Kauf-Sidecar ausgelöst wurde.\n\n## Rotation statt Einbahnhandel\nDas Samjeon-Nix-Produkt bündelte die Erwartung steigender Kurse bei Koreas zwei großen Chipwerten. Hebelprodukte verstärken tägliche Bewegungen und können Momentum erhöhen. Bleibt der Markt jedoch in einem Thema gefangen, verzögert sich die Preisfindung in anderen Wachstumsbranchen.\n\n## Bedeutung der 900 Punkte\nDie Marke von 900 ist ein psychologischer Prüfstein. Ihre Rückkehr signalisiert nachlassenden Verkaufsdruck und neues Risikokapital. Der Sidecar mahnt zugleich, dass das Orderungleichgewicht erheblich war. Entscheidend wird, ob Biotech, Batterien und Software eigene Gewinnimpulse liefern.",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "Kauf-Sidecar",
+          "Samjeon-Nix Hebel",
+          "Halbleiter-Crowding",
+          "Wachstumsaktien",
+          "koreanische Aktien",
+          "Hebelprodukt",
+          "KOSDAQ erobert 900 z"
+        ],
+        "faq": [
+          {
+            "q": "Warum stieg der KOSDAQ wieder über 900 Punkte?",
+            "a": "Kapital rotierte aus großen Halbleiterwerten und Samjeon-Nix-Hebelprodukten in Biotech, Batterien, Gaming und Software."
+          },
+          {
+            "q": "Was bedeutet ein Kauf-Sidecar?",
+            "a": "Er ist ein Marktstabilisator, der programmierte Geschäfte bei starkem Kaufdruck vorübergehend begrenzt. Er zeigt Nachfrage, aber auch Volatilitätsrisiko."
+          },
+          {
+            "q": "Warum ist Samjeon-Nix-Crowding wichtig?",
+            "a": "Hebelprodukte verstärken Tagesbewegungen. Zu viel Kapital in einem Chipthema kann die Bewertung anderer KOSDAQ-Wachstumswerte verzerren."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le KOSDAQ repasse 900 points, le levier Samjeon-Nix perd son emprise",
+        "excerpt": "Le KOSDAQ, trentenaire, a retrouvé les 900 points lorsque les capitaux ont quitté les grandes valeurs de puces et les produits à effet de levier Samjeon-Nix pour les actions de croissance, déclenchant un sidecar acheteur.",
+        "metaDescription": "Le KOSDAQ a repris 900 points et déclenché un sidecar acheteur avec l’apaisement de la concentration sur les semi-conducteurs et la rotation vers la croissance coréenne.",
+        "summary": "Le KOSDAQ a retrouvé de la visibilité en repassant au-dessus de 900 points. Les capitaux concentrés sur Samsung Electronics, SK Hynix et un produit à effet de levier Samjeon-Nix récent se sont dirigés vers les valeurs de croissance. Le sidecar acheteur traduit un retour du risque, mais l’effet de levier et la volatilité restent à surveiller.",
+        "body": "Le KOSDAQ a regagné les 900 points et redonné du poids à un marché qui entre dans sa trentième année. Depuis plusieurs semaines, l’argent local se concentrait sur Samsung Electronics, SK Hynix et un produit à effet de levier Samjeon-Nix récemment coté. Les biotechs, batteries, jeux vidéo et logiciels subissaient surtout un manque de flux. Lorsque la concentration sur les semi-conducteurs s’est allégée, la liquidité en won s’est diffusée vers les petites et moyennes valeurs de croissance. L’afflux d’ordres d’achat a déclenché un sidecar acheteur.\n\n## De la puce à la croissance\nLe produit Samjeon-Nix a absorbé rapidement les attentes de hausse sur les deux grands noms coréens des semi-conducteurs. Les produits à levier amplifient les rendements quotidiens et peuvent renforcer l’élan, mais une thématique unique ralentit la découverte des prix ailleurs.\n\n## Le seuil des 900 points\nLes 900 points sont un repère psychologique. Leur reprise signale moins de pression vendeuse et le retour du capital risqué. Le sidecar montre aussi un déséquilibre d’ordres marqué. La suite dépendra des catalyseurs dans la biotech, les batteries et les logiciels.",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "sidecar acheteur",
+          "Samjeon-Nix levier",
+          "semi-conducteurs",
+          "actions de croissance",
+          "Bourse coréenne",
+          "produit à levier",
+          "Le KOSDAQ repasse 90"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi le KOSDAQ a-t-il repris 900 points ?",
+            "a": "Les capitaux ont quitté les grandes valeurs de semi-conducteurs et les produits Samjeon-Nix à levier pour aller vers la biotech, les batteries, les jeux et les logiciels."
+          },
+          {
+            "q": "Que signifie un sidecar acheteur ?",
+            "a": "C’est un mécanisme qui limite temporairement le trading programmé lorsque les achats s’emballent. Il signale une forte demande et une volatilité accrue."
+          },
+          {
+            "q": "Pourquoi la concentration Samjeon-Nix compte-t-elle ?",
+            "a": "Les produits à levier amplifient les mouvements quotidiens. Trop de capitaux sur un seul thème de puces peut retarder la revalorisation d’autres valeurs de croissance."
+          }
+        ]
+      },
+      "ar": {
+        "title": "كوسداك يستعيد مستوى 900 مع تراجع زخم رافعة سامجون-نيكس واتساع شراء النمو",
+        "excerpt": "استعاد كوسداك، في عامه الثلاثين، مستوى 900 بعد انتقال السيولة من أسهم الرقائق الكبرى ومنتج سامجون-نيكس ذي الرافعة المدرج منذ نحو شهر إلى أسهم النمو، ما فعّل سايدكار شراء.",
+        "metaDescription": "كوسداك يعود إلى 900 ويفعل سايدكار شراء مع تراجع تركز السيولة في الرقائق ومنتجات سامجون-نيكس ذات الرافعة واتساعها نحو أسهم النمو الكورية.",
+        "summary": "استعاد كوسداك حضوره بعد العودة فوق 900 نقطة. السيولة التي تركزت في سامسونغ إلكترونيكس وSK هاينكس ومنتج سامجون-نيكس ذي الرافعة تحركت نحو قطاعات النمو. سايدكار الشراء يعكس عودة شهية المخاطرة، لكن بنية الرافعة وتقلب كوسداك يظلان عاملين حاسمين.",
+        "body": "استعاد كوسداك مستوى 900 وأعاد تأكيد وزن سوق يبلغ عامه الثلاثين. خلال الأسابيع الماضية انحصر جزء كبير من السيولة المحلية في سامسونغ إلكترونيكس وSK هاينكس ومنتج سامجون-نيكس ذي الرافعة المدرج حديثا. لذلك تعرضت أسهم التكنولوجيا الحيوية والبطاريات والألعاب والبرمجيات لضغط نقص الطلب. ومع تراجع تركز الرهانات على الرقائق، انتقلت السيولة المقومة بالوون إلى أسهم النمو الصغيرة والمتوسطة، ودفع تدفق أوامر الشراء إلى تفعيل سايدكار شراء.\n\n## من تركز الرقائق إلى دوران النمو\nامتص منتج سامجون-نيكس توقعات الصعود في أكبر سهمين كوريين للرقائق خلال فترة قصيرة. منتجات الرافعة تضخم العائد اليومي وقد تقوي الزخم، لكنها عندما تحتجز الأموال في موضوع واحد تؤخر تسعير قطاعات النمو الأخرى.\n\n## معنى مستوى 900\nمستوى 900 حاجز نفسي لمستثمري كوسداك. تجاوزه يعني تراجع ضغط البيع وعودة رأس المال الباحث عن المخاطر. في المقابل، يشير سايدكار الشراء إلى اختلال كبير في الأوامر. استمرار الصعود يتوقف على محفزات الأرباح في التكنولوجيا الحيوية والبطاريات والبرمجيات.",
+        "keywords": [
+          "كوسداك",
+          "كوسداك 900",
+          "سايدكار شراء",
+          "رافعة سامجون نيكس",
+          "تراجع تركز الرقائق",
+          "أسهم النمو",
+          "السوق الكورية",
+          "منتج ذو رافعة",
+          "كوسداك يستعيد مستوى"
+        ],
+        "faq": [
+          {
+            "q": "لماذا استعاد كوسداك مستوى 900؟",
+            "a": "لأن السيولة انتقلت من أسهم الرقائق الكبرى ومنتجات سامجون-نيكس ذات الرافعة إلى التكنولوجيا الحيوية والبطاريات والألعاب والبرمجيات."
+          },
+          {
+            "q": "ماذا يعني سايدكار الشراء؟",
+            "a": "هو آلية استقرار تحد مؤقتا من التداولات المبرمجة عند قفزة أوامر الشراء. يدل على طلب قوي وعلى احتمال تقلب قصير الأجل."
+          },
+          {
+            "q": "لماذا يهم تركز سامجون-نيكس؟",
+            "a": "منتجات الرافعة تضخم الحركة اليومية. عندما تتكدس السيولة في موضوع الرقائق، قد يتأخر تسعير أسهم النمو الأخرى في كوسداك."
+          }
+        ]
+      },
+      "hi": {
+        "title": "KOSDAQ 900 पर लौटा, Samjeon-Nix लीवरेज भीड़ घटने से ग्रोथ शेयरों में खरीद",
+        "excerpt": "30वें वर्ष में KOSDAQ ने 900 का स्तर फिर पाया, क्योंकि बड़े सेमीकंडक्टर शेयरों और करीब एक महीने पुराने Samjeon-Nix लीवरेज उत्पाद में फंसा पैसा ग्रोथ शेयरों में फैला और बाय साइडकार सक्रिय हुआ।",
+        "metaDescription": "KOSDAQ 900 पर लौटा और बाय साइडकार सक्रिय हुआ, क्योंकि सेमीकंडक्टर भीड़ घटकर Samjeon-Nix लीवरेज से कोरियाई ग्रोथ शेयरों में पूंजी फैली।",
+        "summary": "KOSDAQ ने 900 के ऊपर लौटकर अपनी मौजूदगी फिर मजबूत की। Samsung Electronics, SK Hynix और एक महीने पुराने Samjeon-Nix लीवरेज उत्पाद में केंद्रित पैसा ग्रोथ सेक्टरों में गया। बाय साइडकार जोखिम लेने की इच्छा दिखाता है, लेकिन लीवरेज संरचना और KOSDAQ की अस्थिरता अहम जोखिम बने हुए हैं।",
+        "body": "KOSDAQ ने 900 का स्तर वापस पाया और अपने 30वें वर्ष में बाजार की अहमियत फिर दिखा दी। कुछ हफ्तों तक स्थानीय पैसा Samsung Electronics, SK Hynix और नए Samjeon-Nix लीवरेज उत्पाद में सिमटा रहा। इससे बायोटेक, बैटरी, गेमिंग और सॉफ्टवेयर जैसे ग्रोथ शेयर मांग की कमी से दबे रहे। जैसे ही सेमीकंडक्टर भीड़ कम हुई, वोन आधारित पूंजी छोटे और मझोले ग्रोथ शेयरों में फैली। खरीद आदेशों की तेज बढ़त ने बाय साइडकार सक्रिय कर दिया।\n\n## चिप भीड़ से ग्रोथ रोटेशन\nSamjeon-Nix उत्पाद ने कोरिया के दो प्रमुख चिप शेयरों की तेजी की उम्मीद को कम समय में खींच लिया। लीवरेज उत्पाद दैनिक रिटर्न को बढ़ाते हैं, इसलिए सही दिशा में वे गति बढ़ा सकते हैं। लेकिन एक ही थीम में पैसा फंसने पर दूसरे ग्रोथ सेक्टरों की कीमत खोज धीमी हो जाती है।\n\n## 900 स्तर का संकेत\n900 KOSDAQ निवेशकों के लिए मनोवैज्ञानिक स्तर है। इसके ऊपर वापसी बिकवाली दबाव घटने और जोखिम पूंजी लौटने का संकेत है। साइडकार यह भी बताता है कि ऑर्डर असंतुलन बड़ा था। आगे टिकाव बायोटेक, बैटरी और सॉफ्टवेयर की कमाई से जुड़े संकेतों पर निर्भर रहेगा।",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "बाय साइडकार",
+          "Samjeon-Nix लीवरेज",
+          "सेमीकंडक्टर भीड़",
+          "ग्रोथ शेयर",
+          "कोरियाई बाजार",
+          "लीवरेज उत्पाद",
+          "KOSDAQ 900 पर लौटा,"
+        ],
+        "faq": [
+          {
+            "q": "KOSDAQ 900 पर क्यों लौटा?",
+            "a": "क्योंकि पैसा बड़े सेमीकंडक्टर शेयरों और Samjeon-Nix लीवरेज उत्पादों से निकलकर बायोटेक, बैटरी, गेमिंग और सॉफ्टवेयर में गया।"
+          },
+          {
+            "q": "बाय साइडकार का मतलब क्या है?",
+            "a": "यह बाजार स्थिरता तंत्र है जो खरीद आदेशों की तेज बढ़त पर प्रोग्राम ट्रेडिंग को अस्थायी रूप से सीमित करता है। यह मजबूत मांग और अस्थिरता दोनों दिखाता है।"
+          },
+          {
+            "q": "Samjeon-Nix लीवरेज भीड़ क्यों अहम है?",
+            "a": "लीवरेज उत्पाद दैनिक चाल को बढ़ाते हैं। ज्यादा पैसा एक चिप थीम में फंसने पर KOSDAQ के दूसरे ग्रोथ शेयर पीछे रह सकते हैं।"
+          }
+        ]
+      },
+      "id": {
+        "title": "KOSDAQ pulih ke 900 saat kerumunan leverage Samjeon-Nix mereda dan saham tumbuh diburu",
+        "excerpt": "KOSDAQ yang memasuki usia 30 tahun kembali ke level 900 setelah dana keluar dari saham semikonduktor besar dan produk leverage Samjeon-Nix berusia sekitar sebulan menuju saham pertumbuhan, memicu buy sidecar.",
+        "metaDescription": "KOSDAQ kembali ke 900 dan memicu buy sidecar saat konsentrasi semikonduktor mereda serta dana beralih dari leverage Samjeon-Nix ke saham tumbuh Korea.",
+        "summary": "KOSDAQ kembali menonjol setelah menembus lagi level 900. Dana yang sebelumnya terkonsentrasi pada Samsung Electronics, SK Hynix dan produk leverage Samjeon-Nix berusia sekitar sebulan menyebar ke sektor pertumbuhan. Buy sidecar menunjukkan minat risiko pulih, tetapi struktur leverage dan volatilitas KOSDAQ tetap perlu diawasi.",
+        "body": "KOSDAQ merebut kembali level 900 dan menegaskan posisi pasar yang berusia 30 tahun. Selama beberapa pekan, dana lokal terkonsentrasi pada Samsung Electronics, SK Hynix dan produk leverage Samjeon-Nix yang baru tercatat. Saham bioteknologi, baterai, gim dan perangkat lunak tertekan oleh minimnya aliran dana. Ketika kerumunan di semikonduktor mereda, likuiditas berbasis won menyebar ke saham pertumbuhan kecil dan menengah. Lonjakan order beli kemudian memicu buy sidecar.\n\n## Dari chip ke pertumbuhan\nProduk Samjeon-Nix menyerap ekspektasi kenaikan pada dua nama chip utama Korea dalam waktu singkat. Produk leverage memperbesar imbal hasil harian dan dapat menguatkan momentum. Namun ketika dana terkunci pada satu tema, pembentukan harga di sektor pertumbuhan lain melambat.\n\n## Arti level 900\nLevel 900 adalah batas psikologis bagi investor KOSDAQ. Pemulihan di atasnya menandakan tekanan jual mereda dan modal berisiko kembali. Sidecar juga memperingatkan bahwa ketimpangan order cukup besar. Keberlanjutan reli bergantung pada katalis laba di bioteknologi, baterai dan perangkat lunak.",
+        "keywords": [
+          "KOSDAQ",
+          "KOSDAQ 900",
+          "buy sidecar",
+          "leverage Samjeon-Nix",
+          "semikonduktor",
+          "saham pertumbuhan",
+          "bursa Korea",
+          "produk leverage",
+          "KOSDAQ pulih ke 900"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa KOSDAQ kembali ke level 900?",
+            "a": "Dana beralih dari saham semikonduktor besar dan produk leverage Samjeon-Nix ke bioteknologi, baterai, gim dan perangkat lunak."
+          },
+          {
+            "q": "Apa arti buy sidecar?",
+            "a": "Buy sidecar adalah mekanisme stabilisasi yang sementara membatasi perdagangan program saat order beli melonjak. Ini menunjukkan permintaan kuat dan potensi volatilitas."
+          },
+          {
+            "q": "Mengapa kerumunan Samjeon-Nix penting?",
+            "a": "Produk leverage memperbesar pergerakan harian. Jika dana terlalu terkonsentrasi pada tema chip, saham pertumbuhan KOSDAQ lain bisa tertinggal."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "132df86cce91",
     "slug": "주식에-돈-태우고-기도가-절로-나와요코스피-공포지수-역대-최고-324566",
     "channelId": "STOCKS",
@@ -12801,112 +13556,6 @@
           {
             "q": "코스피 사상 최고치가 국내 투자자에게 주는 의미는 무엇인가요?",
             "a": "종가 기준 최고치 경신은 국내 증시의 위험자산 선호가 강화됐다는 신호다. 다만 FOMC 결과, 유가 흐름, 원달러 환율에 따라 단기 변동성은 이어질 수 있다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "03872386d326",
-    "slug": "증시-변동성-경고등-켠-금감원빚투레버리지-투자-피해-우려-839085",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-06-17T13:24:46.914Z",
-    "updatedAt": "2026-06-17T13:24:46.914Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12076357",
-    "titleFingerprint": "e48fc79071d30f0ff18ccdb95b94ac4fec233e2c",
-    "dedupKeys": [
-      "03872386d3268bbe5b98b51b6fc9a1eabe246758",
-      "e48fc79071d30f0ff18ccdb95b94ac4fec233e2c",
-      "0b4fdcc51c968180e13231d17c4c63daa69d7dcb"
-    ],
-    "imageUrl": "/images/articles/03872386d326.jpg",
-    "i18n": {
-      "ko": {
-        "title": "증시 변동성 경고등 켠 금감원, 빚투·레버리지 투자 피해 우려 확산",
-        "excerpt": "금융감독원이 17일 긴급 시장 간담회를 열고 국내 증시 변동성 확대와 신용공여 급증, 단일종목 레버리지 투자 과열에 따른 개인투자자 피해 가능성을 집중 점검했다.",
-        "metaDescription": "금감원이 17일 긴급 시장 간담회에서 빚투와 레버리지 투자 과열을 경고했다. 신용공여 급증, 반대매매 위험, 외국인 매도 흐름을 점검했다.",
-        "summary": "금융감독원이 국내 증시 변동성 확대 국면에서 빚투와 레버리지 투자 위험을 경고했다. 전문가들은 신용공여 증가가 주가 하락 시 반대매매를 키울 수 있다고 진단했다. 단일종목 레버리지 상품을 활용한 투기적 매매도 주요 위험 요인으로 지목됐다. 다만 최근 외국인 매도를 증시 이탈로 단정하기는 이르다는 평가가 우세하다.",
-        "body": "금융감독원이 국내 증시 변동성에 경고등을 켰다. 17일 열린 긴급 시장 간담회에서 당국과 시장 전문가들은 개인투자자의 신용거래 확대, 단일종목 레버리지 상품 투자 과열, 외국인 매도 흐름을 집중 점검했다. 결론은 분명하다. 상승장 기대에 기대어 빚을 내 투자하는 이른바 빚투가 빠르게 늘어나는 상황에서 주가가 흔들릴 경우 반대매매와 손실 확대가 동시에 발생할 수 있다.\n\n## 신용공여 급증이 키운 반대매매 위험\n최근 국내 증시는 대외 금리, 환율, 글로벌 기술주 흐름, 외국인 수급 변화에 민감하게 반응하고 있다. 이런 환경에서 신용공여가 빠르게 늘면 시장 하락 충격은 개인투자자에게 먼저 전가된다. 신용거래는 주가 상승기에는 수익률을 높이는 수단처럼 보이지만, 담보비율이 낮아지면 증권사가 보유 주식을 강제로 처분하는 반대매매가 발생한다. 이 과정에서 투자자는 손실을 확정하고, 시장에는 추가 매도 물량이 쏟아져 변동성이 더 커질 수 있다.\n\n간담회에서는 특히 투자자들이 단기 상승률이 높은 종목에 신용융자와 미수거래를 결합하는 행태가 위험 요인으로 거론됐다. 주가가 단기간에 급등한 종목일수록 작은 조정에도 담보 부족이 빠르게 나타날 수 있다. 원화 기준 투자자산의 평가손실이 커지는 동시에 환율 변동까지 겹치면 해외 주식이나 해외 지수 연계 상품을 함께 보유한 투자자의 부담도 커진다.\n\n## 단일종목 레버리지 투자도 점검 대상\n단일종목 레버리지 상품을 활용한 투기적 매매도 도마에 올랐다. 특정 종목의 일일 등락률을 2배 안팎으로 추종하는 구조는 방향을 맞히면 수익이 커지지만, 반대로 움직이면 손실도 빠르게 누적된다. 특히 횡보장이나 급등락 장세에서는 복리 효과와 변동성 손실이 겹쳐 기초자산 주가 흐름과 체감 수익률이 크게 달라질 수 있다.\n\n국내 투자자 입장에서는 상품 구조를 정확히 이해하는 것이 핵심이다. 레버리지 상품은 장기 보유보다 단기 매매 성격이 강하고, 손실 제한 장치가 없으면 원금 훼손 속도가 빠르다. 금융당국은 투자자 보호 관점에서 증권사의 신용공여 관리, 투자위험 고지, 고위험 상품 판매 관행을 상시 점검할 필요가 있다고 보고 있다.\n\n## 외국인 매도는 이탈보다 조정 흐름\n최근 외국인 매도가 이어졌지만 이를 국내 증시 이탈로 단정하기는 이르다. 글로벌 포트폴리오 조정, 환율 흐름, 차익 실현, 업종별 밸류에이션 부담이 복합적으로 작용할 수 있기 때문이다. 외국인 수급은 코스피와 코스닥의 단기 방향성에 큰 영향을 주지만, 매도 자체만으로 중장기 투자심리 훼손을 판단하기는 어렵다.\n\n금감원은 국내외 위험 요인에 대한 상시 점검을 강화한다. 핵심 감시 대상은 신용공여 증가 속도, 반대매매 규모, 레버리지 상품 거래 집중도, 외국인 수급 변화, 환율과 금리 변동이다. 개인투자자는 대출을 활용한 투자 비중을 줄이고, 담보비율과 손절 기준을 사전에 정해야 한다. 변동성이 커진 장세에서는 수익률보다 생존 가능한 포지션 관리가 먼저다. 국내 증시는 당분간 수급과 정책 점검 결과에 따라 등락이 이어질 전망이다.",
-        "keywords": [
-          "증시 변동성",
-          "금감원",
-          "빚투",
-          "레버리지 투자",
-          "신용공여",
-          "반대매매",
-          "외국인 매도",
-          "개인투자자",
-          "국내 증시",
-          "증시 변동성 경고등 켠 금감원, 빚투"
-        ],
-        "faq": [
-          {
-            "q": "금감원이 증시 변동성을 경고한 이유는 무엇인가요?",
-            "a": "신용공여가 빠르게 늘고 레버리지 투자가 확대되면서 주가 하락 시 반대매매와 개인투자자 손실이 커질 수 있기 때문입니다."
-          },
-          {
-            "q": "단일종목 레버리지 투자는 왜 위험한가요?",
-            "a": "특정 종목의 등락률을 배수로 추종하기 때문에 방향을 틀리면 손실이 빠르게 커집니다. 변동성이 큰 장세에서는 기초자산 흐름과 실제 수익률 차이도 확대될 수 있습니다."
-          },
-          {
-            "q": "외국인 매도는 국내 증시 이탈 신호인가요?",
-            "a": "현재로서는 외국인 매도를 증시 이탈로 단정하기 어렵습니다. 글로벌 자금 조정, 환율, 차익 실현 등 여러 요인이 함께 작용할 수 있습니다."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "d6293058a149",
-    "slug": "ai-인프라-상승세-탄-가온전선1주당-08주-무상증자-결정에-상한가-매경-자이앤트-242551",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-06-17T13:24:14.780Z",
-    "updatedAt": "2026-06-17T13:24:14.780Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12076369",
-    "titleFingerprint": "af301407f3b2644125f54224c201d8fb043d9f8e",
-    "dedupKeys": [
-      "d6293058a1491a69a8917dd62dc0fd10c6db3c7d",
-      "af301407f3b2644125f54224c201d8fb043d9f8e",
-      "9fd9a3bc71d75742fe3068482b8defd8e5c534f1"
-    ],
-    "imageUrl": "/images/articles/d6293058a149.jpg",
-    "i18n": {
-      "ko": {
-        "title": "가온전선 무상증자 상한가, AI 전력 인프라 수요가 전선주 재평가 이끌었다",
-        "excerpt": "가온전선이 AI 전력 인프라 성장 기대와 1주당 0.8주 무상증자 결정에 힘입어 장중 상한가를 기록했다. 주주가치 제고와 투자자 저변 확대 전략이 전력기기·전선주 강세 흐름과 맞물렸다.",
-        "metaDescription": "가온전선이 1주당 0.8주 무상증자를 결정하며 장중 상한가를 기록했다. AI 전력 인프라 수요 확대와 전선주 재평가 흐름이 주가 상승을 이끌었다.",
-        "summary": "가온전선이 1주당 0.8주를 배정하는 무상증자를 결정하며 장중 상한가에 올랐다. AI 데이터센터 확산으로 전력 인프라 수요가 커지는 가운데 전선·전력기기 업종 전반에 매수세가 유입됐다. 이번 무상증자는 주주가치 제고와 유통주식 수 확대를 통한 투자자 접근성 개선에 초점이 맞춰졌다.",
-        "body": "가온전선이 AI 전력 인프라 확대 기대와 무상증자 결정이 맞물리며 장중 상한가를 기록했다. 회사는 보통주 1주당 0.8주를 배정하는 무상증자를 추진하며 주주가치 제고와 투자자 저변 확대를 전면에 내세웠다. 생성형 AI 확산, 데이터센터 증설, 전력망 투자 확대가 전선·전력기기 업종의 핵심 성장 논리로 부상한 가운데 가온전선 주가는 정책 기대와 수급 효과를 동시에 반영했다.\n\n## AI 인프라가 끌어올린 전선주 투자심리\nAI 산업의 고성장은 반도체와 서버에만 머물지 않는다. 대규모 데이터센터는 안정적인 전력 공급, 고압 송전, 배전 설비, 전력 케이블을 필수로 요구한다. 전력 사용량이 급증하는 구조에서는 전선과 전력기기 기업의 수주 환경이 개선될 가능성이 커진다. 국내 증시에서도 전력망 증설, 노후 설비 교체, 신재생에너지 연계망 확대가 겹치며 관련 종목의 재평가가 진행되고 있다.\n\n가온전선은 전력 케이블과 통신 케이블 사업을 기반으로 국내 전력 인프라 투자 사이클과 맞닿아 있다. AI 데이터센터 투자가 늘수록 전력 공급망의 안정성과 용량 확대가 중요해지고, 이는 전선 수요를 뒷받침하는 요인으로 작용한다. 한국에서도 수도권 데이터센터 집중, 전력 계통 부담, 송배전망 보강 필요성이 커지면서 전선 업종에 대한 시장 관심이 높아졌다.\n\n## 1주당 0.8주 무상증자, 유동성 확대 효과\n이번 무상증자의 핵심 수치는 1주당 0.8주다. 기존 주주가 10주를 보유했다면 신주 8주를 추가로 받는 구조다. 무상증자는 회사의 자본잉여금 등을 자본금으로 전입해 신주를 배정하는 방식으로, 현금 유입을 동반하는 유상증자와는 성격이 다르다. 기업가치가 즉시 커지는 조치는 아니지만 유통주식 수가 늘어나 거래 접근성이 개선될 수 있다.\n\n투자자 관점에서는 권리락 이후 주가 조정과 실제 신주 상장까지의 일정, 단기 수급 변동을 함께 봐야 한다. 무상증자 발표 직후 주가가 급등하는 경우가 많지만, 이는 주주환원 기대와 거래 활성화 기대가 먼저 반영된 결과다. 본질적인 평가는 결국 전력 케이블 수요, 수주 경쟁력, 원재료 가격 부담, 마진 개선 여부가 결정한다.\n\n## 국내 투자자 영향과 향후 관전 포인트\n가온전선의 상한가는 AI 인프라 테마가 국내 전선주로 확산되고 있음을 보여준다. 한국 증시에서 전력기기·전선주는 과거 경기민감 업종으로 분류됐지만, 최근에는 AI 데이터센터와 전력망 투자라는 구조적 성장 키워드가 붙었다. 특히 전력 공급 병목이 글로벌 산업 이슈로 떠오르면서 국내 관련 기업도 단순 제조업을 넘어 인프라 수혜주로 평가받고 있다.\n\n다만 주가 급등 국면에서는 기대와 실적의 간극을 점검해야 한다. 무상증자는 주주 친화적 신호로 해석될 수 있으나 매출과 이익을 직접 늘리는 요인은 아니다. 향후 관전 포인트는 AI·데이터센터 관련 전력 인프라 투자가 실제 수주로 연결되는 속도, 국내 전력망 보강 정책의 집행 강도, 구리 등 원재료 가격 변동이다. 가온전선 주가는 단기적으로 무상증자 수급과 테마 강도에 민감하게 움직이고, 중장기적으로는 전력 인프라 투자 확대가 실적으로 확인되는지가 방향을 가를 전망이다.",
-        "keywords": [
-          "가온전선",
-          "가온전선 무상증자",
-          "가온전선 상한가",
-          "AI 전력 인프라",
-          "전선주",
-          "전력기기주",
-          "무상증자",
-          "데이터센터 전력",
-          "국내 전력망",
-          "가온전선 무상증자 상한가, AI 전력"
-        ],
-        "faq": [
-          {
-            "q": "가온전선 무상증자 비율은 얼마인가요?",
-            "a": "가온전선은 보통주 1주당 0.8주를 배정하는 무상증자를 결정했다. 기존 10주 보유 주주는 조건 충족 시 신주 8주를 추가로 받는 구조다."
-          },
-          {
-            "q": "가온전선 주가가 상한가를 기록한 이유는 무엇인가요?",
-            "a": "AI 데이터센터 확산에 따른 전력 인프라 수요 기대와 1주당 0.8주 무상증자 결정이 겹치며 투자심리가 강하게 개선됐다."
-          },
-          {
-            "q": "무상증자는 기업가치를 바로 높이나요?",
-            "a": "무상증자는 유통주식 수를 늘리고 투자 접근성을 높일 수 있지만 현금 유입을 동반하지 않는다. 중장기 기업가치는 수주, 매출, 이익 개선 여부가 결정한다."
           }
         ]
       }
