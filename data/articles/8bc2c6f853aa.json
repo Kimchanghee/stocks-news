@@ -1,0 +1,372 @@
+{
+  "id": "8bc2c6f853aa",
+  "slug": "여기-290층인데-구조대-오나요메타발-쇼크에-휘청반도체주의-전망-442158",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-07-03T00:26:05.556Z",
+  "updatedAt": "2026-07-03T00:26:05.557Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12089555",
+  "titleFingerprint": "7b1a449f4bfc06bb59e3c587a738c9dfea4db21e",
+  "dedupKeys": [
+    "8bc2c6f853aa0f039dcaa620c42531f6c5a1ce7a",
+    "7b1a449f4bfc06bb59e3c587a738c9dfea4db21e",
+    "68bc6296d5165daa0e3de31351d3bfaf84ceb7af"
+  ],
+  "imageUrl": "/images/articles/8bc2c6f853aa.jpg",
+  "i18n": {
+    "ko": {
+      "title": "메타 네오클라우드 검토에 반도체주 흔들, SK하이닉스 29만원대 투자자 반등 시점 촉각",
+      "excerpt": "2026년 7월 3일 국내 반도체주는 메타의 유휴 컴퓨터 자원 외부 판매 검토로 투자심리가 흔들렸다. SK하이닉스 29만원대 매수자와 삼성전자 투자자는 AI 서버 수요 전망 변화에 주목하고 있다.",
+      "metaDescription": "메타 네오클라우드 검토가 삼성전자·SK하이닉스 등 반도체주 투자심리를 흔들었다. AI 서버, HBM 수요와 국내 증시 영향을 짚었다.",
+      "summary": "메타가 유휴 컴퓨터 자원을 외부에 판매하는 네오클라우드 사업을 검토하면서 국내 반도체주가 압박을 받고 있다. SK하이닉스 29만원대 투자자는 반등 시점을 따지고, 삼성전자 투자자는 메모리 수요 변화에 주목한다. 단기 조정은 밸류에이션 부담을 키우지만 AI 서버와 HBM의 구조적 수요는 여전히 핵심 변수다.",
+      "body": "메타의 네오클라우드 사업 검토가 국내 반도체주 투자심리를 흔들고 있다. 페이스북과 인스타그램을 운영하는 메타가 남는 컴퓨터 자원을 외부 고객에게 판매하는 방안을 들여다보면서, AI 인프라 투자가 곧바로 서버·메모리 주문 증가로 이어진다는 단순한 공식에 균열이 생겼다. SK하이닉스를 29만원대에 매수한 투자자는 반등 시점을 가장 민감하게 지켜보고 있고, 삼성전자 투자자 역시 메모리 업황 회복의 속도를 다시 계산하는 분위기다.\n\n## 메타 네오클라우드가 던진 질문\n네오클라우드는 대형 플랫폼 기업이 보유한 데이터센터와 컴퓨팅 자원 가운데 즉시 사용하지 않는 용량을 외부에 빌려주는 사업 모델이다. 이 모델이 현실화되면 빅테크가 새 장비를 계속 사들이는 속도와, 기존 장비를 재활용해 수익을 내는 속도가 함께 비교된다. 반도체 시장에는 두 가지 신호가 동시에 들어온다. 하나는 AI 연산 수요가 충분히 커서 유휴 자원까지 상품화될 수 있다는 긍정적 신호다. 다른 하나는 단기적으로 신규 서버 증설 속도가 기대보다 느려질 수 있다는 부담이다.\n\n## 29만원대 SK하이닉스 투자자의 계산\nSK하이닉스 29만원대는 개인 투자자에게 심리적 기준선이다. 1주 매수 금액을 29만원으로 보면 10주는 290만원, 100주는 2900만원이다. 주가가 10% 움직일 때 1주당 손익 변동은 2만9000원, 100주 기준으로는 290만원이다. 이 때문에 단기 뉴스 하나에도 체감 변동성이 커진다. SK하이닉스는 AI 서버용 고부가 메모리 기대가 주가에 크게 반영돼 있어, 네오클라우드 이슈가 실제 주문 감소로 이어지는지보다 투자자들이 성장 속도를 어떻게 재평가하느냐가 먼저 가격에 반영된다. 삼성전자는 범용 D램, 낸드, 서버 메모리 회복 기대가 함께 걸려 있어 같은 뉴스에도 더 넓은 업황 판단을 받는다.\n\n## 국내 시장 영향과 전망\n국내 투자자는 메타의 사업 검토를 확정 계약이나 국내 상장사의 실적 가이던스로 받아들여서는 안 된다. 국내 공시와 거래 환경에서는 실제 매출, 수주, 설비투자 계획 변화가 확인돼야 실적 추정치가 안정적으로 바뀐다. 다만 반도체주는 미래 이익을 앞당겨 반영하는 업종이어서, AI 인프라 지출 방식의 변화 가능성만으로도 단기 조정이 나타날 수 있다. 향후 관건은 빅테크의 신규 서버 투자 축소가 아니라 유휴 자원 판매와 신규 설비투자가 병행되는지 여부다. 병행된다면 HBM과 고성능 D램 수요는 유지될 가능성이 크다. 반대로 클라우드 재판매가 신규 장비 발주를 늦추는 흐름으로 굳어지면 SK하이닉스와 삼성전자의 밸류에이션 부담은 더 오래 이어질 전망이다.",
+      "keywords": [
+        "메타 네오클라우드",
+        "반도체주 전망",
+        "SK하이닉스",
+        "삼성전자",
+        "AI 서버",
+        "HBM",
+        "메모리 반도체",
+        "국내 증시",
+        "메타 네오클라우드 검토에 반도체주 흔"
+      ],
+      "faq": [
+        {
+          "q": "메타 네오클라우드가 왜 반도체주에 영향을 주나?",
+          "a": "유휴 컴퓨터 자원을 외부에 판매하면 빅테크의 신규 서버 투자 속도에 대한 기대가 달라질 수 있어 메모리 반도체 수요 전망이 재평가된다."
+        },
+        {
+          "q": "SK하이닉스 29만원대 투자자는 무엇을 봐야 하나?",
+          "a": "AI 서버 투자, HBM 수요, 빅테크 설비투자 지속 여부를 함께 봐야 한다. 단기 뉴스보다 실제 주문과 실적 전망 변화가 더 중요하다."
+        },
+        {
+          "q": "삼성전자에도 같은 영향이 있나?",
+          "a": "있다. 삼성전자는 서버용 메모리와 범용 D램·낸드 업황 영향을 함께 받기 때문에 네오클라우드 이슈가 메모리 수요 판단에 영향을 줄 수 있다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Meta neocloud review shakes chip stocks as SK Hynix buyers watch rebound",
+      "excerpt": "On July 3, 2026, Korean chip stocks came under pressure as Meta reviewed selling idle computing resources. SK Hynix investors near 290,000 won and Samsung Electronics holders are reassessing AI server demand.",
+      "metaDescription": "Meta’s neocloud review is weighing on Samsung Electronics and SK Hynix sentiment, raising questions over AI servers, HBM demand and Korean chip stocks.",
+      "summary": "Meta’s review of a neocloud business has shaken Korean semiconductor sentiment. Investors who bought SK Hynix near 290,000 won are watching for a rebound, while Samsung Electronics holders are reassessing memory demand. The key question is whether idle compute sales slow new server investment or coexist with AI infrastructure expansion.",
+      "body": "Meta’s neocloud review has become a fresh test for semiconductor stocks. The operator of Facebook and Instagram is examining a model that would sell unused computing capacity to outside customers. That challenges the simple assumption that every increase in AI infrastructure spending immediately turns into more servers and memory orders.\n\n## Why neocloud matters\nA neocloud model turns idle data-center capacity into a marketable service. For chipmakers, the signal is mixed. Strong demand for AI computing is positive, but the reuse of existing capacity may slow the pace of new server purchases in the short term.\n\n## SK Hynix at 290,000 won\nFor SK Hynix investors, 290,000 won is a sensitive level. Ten shares represent 2.9 million won, and 100 shares equal 29 million won. A 10% move changes value by 29,000 won per share, or 2.9 million won for 100 shares. That makes headline-driven volatility painful. Samsung Electronics is also exposed through server memory, DRAM and NAND expectations.\n\n## Outlook\nThe issue should not be treated as confirmed guidance for Korean listed companies. Actual orders, capital spending plans and earnings revisions still matter most. If idle compute sales coexist with new AI server investment, HBM and premium DRAM demand can remain firm. If resale capacity delays new equipment orders, valuation pressure on SK Hynix and Samsung Electronics may last longer.",
+      "keywords": [
+        "Meta neocloud",
+        "semiconductor stocks",
+        "SK Hynix",
+        "Samsung Electronics",
+        "AI servers",
+        "HBM",
+        "memory chips",
+        "Korean market",
+        "Meta neocloud review"
+      ],
+      "faq": [
+        {
+          "q": "Why does Meta’s neocloud review affect chip stocks?",
+          "a": "It could change expectations for how quickly big tech firms buy new servers and memory chips."
+        },
+        {
+          "q": "What should SK Hynix investors watch?",
+          "a": "They should watch AI server spending, HBM demand and whether big tech keeps expanding data centers."
+        },
+        {
+          "q": "Does this affect Samsung Electronics too?",
+          "a": "Yes. Samsung Electronics is exposed through server memory, DRAM and NAND demand expectations."
+        }
+      ]
+    },
+    "ja": {
+      "title": "メタのネオクラウド検討で半導体株が動揺、SKハイニックス29万ウォン台に視線",
+      "excerpt": "2026年7月3日、メタが遊休コンピューター資源の外部販売を検討し、韓国半導体株の投資心理が揺れた。SKハイニックスとサムスン電子の投資家はAIサーバー需要を見直している。",
+      "metaDescription": "メタのネオクラウド検討がサムスン電子とSKハイニックスの投資心理を圧迫。AIサーバー、HBM需要、韓国市場への影響を解説。",
+      "summary": "メタのネオクラウド構想が韓国半導体株の評価を揺らしている。SKハイニックスを29万ウォン台で保有する投資家は反発時点を探り、サムスン電子の投資家もメモリー需要を再点検している。焦点は遊休資源販売が新規サーバー投資を遅らせるかどうかだ。",
+      "body": "メタのネオクラウド検討は、韓国半導体株に新たな不安材料となった。フェイスブックとインスタグラムを運営するメタは、使われていないコンピューター資源を外部顧客に販売する事業モデルを検討している。AIインフラ投資がそのままサーバーとメモリー注文に直結するという前提が揺らいだ。\n\n## ネオクラウドの意味\nネオクラウドは、データセンターの余剰計算能力を商品化する仕組みだ。AI演算需要が大きいことは好材料だが、既存設備の活用が新規サーバー導入を一時的に遅らせる可能性もある。\n\n## 29万ウォン台の計算\nSKハイニックスの29万ウォン台は心理的な節目だ。10株なら290万ウォン、100株なら2900万ウォンの投資額になる。株価が10%動けば1株あたり2万9000ウォン、100株で290万ウォンの変動だ。サムスン電子もサーバーメモリー、DRAM、NANDの回復期待を通じて影響を受ける。\n\n## 見通し\nこの検討だけで韓国上場企業の業績見通しが確定するわけではない。実際の受注、設備投資、利益予想の変化が重要だ。遊休資源販売と新規AIサーバー投資が並行すれば、HBMと高性能DRAM需要は維持される。新規発注が遅れれば、SKハイニックスとサムスン電子の評価負担は長引く見通しだ。",
+      "keywords": [
+        "メタ ネオクラウド",
+        "半導体株",
+        "SKハイニックス",
+        "サムスン電子",
+        "AIサーバー",
+        "HBM",
+        "メモリー半導体",
+        "韓国株",
+        "メタのネオクラウド検討で半導体株が動揺、"
+      ],
+      "faq": [
+        {
+          "q": "なぜメタのネオクラウドが半導体株に影響するのか。",
+          "a": "ビッグテックの新規サーバー購入速度とメモリー需要予想が変わる可能性があるためだ。"
+        },
+        {
+          "q": "SKハイニックス投資家は何を見るべきか。",
+          "a": "AIサーバー投資、HBM需要、ビッグテックの設備投資継続性を確認する必要がある。"
+        },
+        {
+          "q": "サムスン電子にも影響はあるのか。",
+          "a": "ある。サーバーメモリー、DRAM、NAND需要の見通しが同じ材料で見直されるためだ。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "Meta新云业务评估冲击半导体股，SK海力士29万韩元买盘关注反弹",
+      "excerpt": "2026年7月3日，Meta评估向外部出售闲置计算资源，韩国半导体股投资情绪受压。SK海力士29万韩元附近买入者和三星电子投资者重新审视AI服务器需求。",
+      "metaDescription": "Meta评估新云业务令三星电子、SK海力士承压，AI服务器、HBM需求和韩国半导体股前景成为市场焦点。",
+      "summary": "Meta评估将闲置计算资源对外销售，引发韩国半导体股波动。SK海力士29万韩元附近的投资者关注反弹时点，三星电子投资者也在重新评估存储芯片需求。关键在于闲置算力销售会否延缓新的AI服务器投资。",
+      "body": "Meta的新云业务评估正在考验韩国半导体股。运营Facebook和Instagram的Meta正研究把未充分使用的计算资源出售给外部客户。这使市场重新思考一个核心问题：AI基础设施支出是否一定会同步转化为新服务器和存储芯片订单。\n\n## 新云模式的影响\n新云模式把数据中心的闲置算力商品化。对芯片企业而言，这既说明AI算力需求足够庞大，也意味着现有设备利用率提升后，新服务器采购节奏可能短期放缓。\n\n## SK海力士29万韩元的压力\n对SK海力士投资者来说，29万韩元是敏感价位。10股约为290万韩元，100股约为2900万韩元。股价波动10%，每股变化2.9万韩元，100股对应290万韩元。三星电子同样受到服务器内存、DRAM和NAND复苏预期影响。\n\n## 市场展望\n该业务仍处于评估阶段，不能直接视为韩国上市公司业绩指引。真正影响估值的是订单、资本开支和盈利预测变化。若闲置算力销售与新AI服务器投资并行，HBM和高端DRAM需求仍可保持韧性。若转售算力推迟新设备订单，SK海力士和三星电子的估值压力将延续。",
+      "keywords": [
+        "Meta新云",
+        "半导体股",
+        "SK海力士",
+        "三星电子",
+        "AI服务器",
+        "HBM",
+        "存储芯片",
+        "韩国股市",
+        "Meta新云业务评估冲击半导体股，SK海"
+      ],
+      "faq": [
+        {
+          "q": "Meta新云业务为何影响半导体股？",
+          "a": "它可能改变大型科技公司购买新服务器和存储芯片的节奏预期。"
+        },
+        {
+          "q": "SK海力士投资者应关注什么？",
+          "a": "应关注AI服务器投资、HBM需求以及大型科技公司是否继续扩建数据中心。"
+        },
+        {
+          "q": "三星电子也会受影响吗？",
+          "a": "会。三星电子的服务器内存、DRAM和NAND需求预期都会受到相关判断影响。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Meta sacude a los chips con su neocloud y SK Hynix mira el nivel de 290.000 wones",
+      "excerpt": "El 3 de julio de 2026, las acciones coreanas de semiconductores sintieron presión por el análisis de Meta para vender capacidad informática ociosa. Inversores de SK Hynix y Samsung Electronics revisan la demanda de servidores de IA.",
+      "metaDescription": "La revisión de neocloud de Meta presiona a Samsung Electronics y SK Hynix. Claves sobre servidores de IA, HBM y acciones coreanas de chips.",
+      "summary": "La evaluación de Meta para vender recursos informáticos ociosos golpea el ánimo en semiconductores coreanos. Quienes compraron SK Hynix cerca de 290.000 wones buscan señales de rebote, mientras Samsung Electronics queda expuesta a la revisión de la demanda de memoria. El punto clave es si la reventa de capacidad retrasa nuevas compras de servidores.",
+      "body": "La revisión de Meta sobre un negocio de neocloud se convirtió en un factor de presión para los semiconductores coreanos. La compañía que opera Facebook e Instagram analiza vender capacidad informática no utilizada a clientes externos. Esa posibilidad cuestiona la idea de que todo gasto en infraestructura de IA se traduzca de inmediato en más servidores y memoria.\n\n## Qué cambia con neocloud\nEl modelo convierte capacidad ociosa de centros de datos en un servicio comercial. Para los fabricantes de chips, la señal es doble: confirma una fuerte demanda de cómputo de IA, pero también puede moderar temporalmente las compras de nuevos equipos.\n\n## El nivel de 290.000 wones\nPara SK Hynix, 290.000 wones por acción es una referencia sensible. Diez acciones equivalen a 2,9 millones de wones y 100 acciones a 29 millones. Un movimiento del 10% implica 29.000 wones por acción, o 2,9 millones para 100 acciones. Samsung Electronics también queda vinculada a memoria de servidores, DRAM y NAND.\n\n## Perspectiva\nLa evaluación de Meta no equivale a una guía de resultados para empresas coreanas. Mandan los pedidos reales, el gasto de capital y las revisiones de beneficios. Si la venta de capacidad ociosa convive con nuevas inversiones en IA, la demanda de HBM y DRAM premium puede sostenerse. Si retrasa pedidos de equipos, la presión sobre SK Hynix y Samsung Electronics puede prolongarse.",
+      "keywords": [
+        "Meta neocloud",
+        "acciones de semiconductores",
+        "SK Hynix",
+        "Samsung Electronics",
+        "servidores de IA",
+        "HBM",
+        "chips de memoria",
+        "bolsa coreana",
+        "Meta sacude a los ch"
+      ],
+      "faq": [
+        {
+          "q": "¿Por qué el neocloud de Meta afecta a los chips?",
+          "a": "Porque puede cambiar las expectativas sobre la velocidad con que las grandes tecnológicas compran servidores y memoria."
+        },
+        {
+          "q": "¿Qué debe vigilar un inversor de SK Hynix?",
+          "a": "La inversión en servidores de IA, la demanda de HBM y la continuidad del gasto de capital de las tecnológicas."
+        },
+        {
+          "q": "¿También afecta a Samsung Electronics?",
+          "a": "Sí. Sus expectativas dependen de memoria para servidores, DRAM y NAND."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Meta pressiona chips com neocloud e SK Hynix no nível de 290 mil won entra no foco",
+      "excerpt": "Em 3 de julho de 2026, ações coreanas de semicondutores sentiram pressão com a análise da Meta para vender recursos computacionais ociosos. Investidores de SK Hynix e Samsung Electronics reavaliam a demanda por servidores de IA.",
+      "metaDescription": "A análise de neocloud da Meta pesa sobre Samsung Electronics e SK Hynix, com foco em servidores de IA, HBM e ações coreanas de chips.",
+      "summary": "A possível venda de recursos computacionais ociosos pela Meta abalou o sentimento em semicondutores coreanos. Investidores de SK Hynix perto de 290 mil won observam o ponto de recuperação, enquanto Samsung Electronics sente a revisão das expectativas de memória. A dúvida é se a capacidade ociosa reduzirá compras de novos servidores.",
+      "body": "A análise da Meta sobre um negócio de neocloud criou pressão sobre ações coreanas de semicondutores. A empresa que opera Facebook e Instagram estuda vender capacidade computacional não utilizada a clientes externos. Isso questiona a leitura de que todo investimento em infraestrutura de IA vira imediatamente novos pedidos de servidores e memória.\n\n## O que o neocloud muda\nO modelo transforma capacidade ociosa de data centers em serviço comercial. Para fabricantes de chips, o sinal é misto: a demanda por computação de IA é forte, mas o uso de equipamentos existentes pode desacelerar compras no curto prazo.\n\n## SK Hynix a 290 mil won\nPara investidores de SK Hynix, 290 mil won por ação é um nível sensível. Dez ações somam 2,9 milhões de won e 100 ações somam 29 milhões. Uma oscilação de 10% representa 29 mil won por ação, ou 2,9 milhões em 100 ações. Samsung Electronics também é afetada por expectativas de memória de servidores, DRAM e NAND.\n\n## Perspectiva\nA análise da Meta não é orientação de lucro para empresas coreanas. Pedidos reais, planos de investimento e revisões de resultados continuam decisivos. Se a venda de capacidade ociosa ocorrer junto com novos servidores de IA, HBM e DRAM premium podem seguir firmes. Se ela atrasar encomendas de equipamentos, a pressão sobre SK Hynix e Samsung Electronics pode durar mais.",
+      "keywords": [
+        "Meta neocloud",
+        "ações de semicondutores",
+        "SK Hynix",
+        "Samsung Electronics",
+        "servidores de IA",
+        "HBM",
+        "chips de memória",
+        "mercado coreano",
+        "Meta pressiona chips"
+      ],
+      "faq": [
+        {
+          "q": "Por que o neocloud da Meta afeta semicondutores?",
+          "a": "Porque pode mudar a expectativa sobre a velocidade de compra de novos servidores e chips de memória pelas big techs."
+        },
+        {
+          "q": "O que investidores de SK Hynix devem observar?",
+          "a": "Investimentos em servidores de IA, demanda por HBM e continuidade dos gastos das grandes empresas de tecnologia."
+        },
+        {
+          "q": "Samsung Electronics também é afetada?",
+          "a": "Sim. A empresa depende das expectativas para memória de servidores, DRAM e NAND."
+        }
+      ]
+    },
+    "de": {
+      "title": "Metas Neocloud-Prüfung belastet Chipwerte, SK Hynix bei 290.000 Won im Blick",
+      "excerpt": "Am 3. Juli 2026 gerieten koreanische Halbleiterwerte unter Druck, weil Meta den Verkauf ungenutzter Rechenressourcen prüft. Anleger von SK Hynix und Samsung Electronics bewerten die Nachfrage nach KI-Servern neu.",
+      "metaDescription": "Metas Neocloud-Prüfung belastet Samsung Electronics und SK Hynix. Entscheidend sind KI-Server, HBM-Nachfrage und koreanische Chipwerte.",
+      "summary": "Metas Prüfung eines Neocloud-Geschäfts drückt auf die Stimmung bei koreanischen Halbleiteraktien. Anleger, die SK Hynix nahe 290.000 Won gekauft haben, suchen nach Erholungssignalen. Samsung Electronics bleibt über Server-Speicher, DRAM und NAND betroffen. Entscheidend ist, ob der Verkauf ungenutzter Kapazität neue Serverkäufe bremst.",
+      "body": "Metas Neocloud-Prüfung ist ein neuer Belastungsfaktor für koreanische Halbleiteraktien. Der Betreiber von Facebook und Instagram prüft, ungenutzte Rechenkapazität an externe Kunden zu verkaufen. Damit wird die Annahme schwächer, dass jeder zusätzliche KI-Infrastrukturausbau sofort mehr Server- und Speicherbestellungen auslöst.\n\n## Warum Neocloud wichtig ist\nDas Modell macht freie Kapazitäten in Rechenzentren zu einem verkaufbaren Dienst. Für Chiphersteller ist das Signal gemischt. Es zeigt hohe Nachfrage nach KI-Rechenleistung, kann aber kurzfristig neue Serverkäufe verlangsamen.\n\n## SK Hynix bei 290.000 Won\nFür SK-Hynix-Anleger ist 290.000 Won je Aktie eine sensible Marke. Zehn Aktien entsprechen 2,9 Millionen Won, 100 Aktien 29 Millionen Won. Eine Bewegung von 10% bedeutet 29.000 Won je Aktie oder 2,9 Millionen Won bei 100 Aktien. Samsung Electronics ist über Server-Speicher, DRAM und NAND ebenfalls betroffen.\n\n## Ausblick\nDie Prüfung ist keine Ergebnisprognose für koreanische Börsenunternehmen. Entscheidend bleiben reale Aufträge, Investitionspläne und Gewinnrevisionen. Wenn der Verkauf freier Kapazität neben neuen KI-Serverinvestitionen läuft, kann die Nachfrage nach HBM und Premium-DRAM stabil bleiben. Verzögert er neue Bestellungen, dürfte der Bewertungsdruck auf SK Hynix und Samsung Electronics länger anhalten.",
+      "keywords": [
+        "Meta Neocloud",
+        "Halbleiteraktien",
+        "SK Hynix",
+        "Samsung Electronics",
+        "KI-Server",
+        "HBM",
+        "Speicherchips",
+        "koreanischer Markt",
+        "Metas Neocloud-Prüfu"
+      ],
+      "faq": [
+        {
+          "q": "Warum beeinflusst Metas Neocloud-Prüfung Chipwerte?",
+          "a": "Sie kann Erwartungen an neue Serverkäufe und Speicherchipnachfrage der großen Technologiekonzerne verändern."
+        },
+        {
+          "q": "Was sollten SK-Hynix-Anleger beobachten?",
+          "a": "KI-Serverinvestitionen, HBM-Nachfrage und die Investitionspläne großer Plattformunternehmen."
+        },
+        {
+          "q": "Ist Samsung Electronics ebenfalls betroffen?",
+          "a": "Ja. Server-Speicher, DRAM und NAND hängen ebenfalls an den Nachfrageerwartungen."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Le projet neocloud de Meta secoue les puces, SK Hynix à 290.000 wons sous surveillance",
+      "excerpt": "Le 3 juillet 2026, les valeurs coréennes des semi-conducteurs ont été fragilisées par l’étude de Meta sur la vente de ressources informatiques inutilisées. Les investisseurs de SK Hynix et Samsung Electronics réévaluent la demande de serveu",
+      "metaDescription": "L’étude neocloud de Meta pèse sur Samsung Electronics et SK Hynix. Serveurs IA, HBM et actions coréennes de semi-conducteurs sont au centre.",
+      "summary": "La réflexion de Meta sur la vente de ressources informatiques inutilisées pèse sur les semi-conducteurs coréens. Les investisseurs entrés sur SK Hynix près de 290.000 wons guettent un rebond, tandis que Samsung Electronics reste exposé aux attentes de mémoire. La question centrale est l’effet sur les nouveaux achats de serveurs IA.",
+      "body": "L’étude par Meta d’un modèle neocloud met les valeurs coréennes des semi-conducteurs sous pression. L’opérateur de Facebook et Instagram examine la vente de capacité informatique inutilisée à des clients externes. Cette option remet en cause l’idée qu’une hausse des dépenses d’infrastructure IA entraîne automatiquement davantage de commandes de serveurs et de mémoire.\n\n## Ce que change le neocloud\nLe modèle transforme la capacité libre des centres de données en service vendable. Pour les fabricants de puces, le signal est double. Il confirme une forte demande de calcul IA, mais peut ralentir à court terme l’achat de nouveaux équipements.\n\n## SK Hynix à 290.000 wons\nPour SK Hynix, 290.000 wons par action est un seuil sensible. Dix actions représentent 2,9 millions de wons, et 100 actions 29 millions. Une variation de 10% vaut 29.000 wons par action, soit 2,9 millions pour 100 actions. Samsung Electronics est aussi concerné via la mémoire serveur, la DRAM et la NAND.\n\n## Perspective\nCette étude ne constitue pas une prévision de résultats pour les sociétés coréennes cotées. Les commandes réelles, les plans d’investissement et les révisions de bénéfices restent décisifs. Si la vente de capacité inutilisée accompagne de nouveaux serveurs IA, la demande de HBM et de DRAM haut de gamme peut tenir. Si elle retarde les commandes d’équipements, la pression sur SK Hynix et Samsung Electronics durera plus longtemps.",
+      "keywords": [
+        "Meta neocloud",
+        "semi-conducteurs",
+        "SK Hynix",
+        "Samsung Electronics",
+        "serveurs IA",
+        "HBM",
+        "puces mémoire",
+        "marché coréen",
+        "Le projet neocloud d"
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi le neocloud de Meta touche-t-il les semi-conducteurs ?",
+          "a": "Il peut modifier les attentes sur le rythme d’achat de nouveaux serveurs et de puces mémoire."
+        },
+        {
+          "q": "Que doivent surveiller les investisseurs de SK Hynix ?",
+          "a": "Les dépenses en serveurs IA, la demande de HBM et les plans d’investissement des grandes plateformes."
+        },
+        {
+          "q": "Samsung Electronics est-il aussi concerné ?",
+          "a": "Oui. Ses perspectives dépendent aussi de la mémoire serveur, de la DRAM et de la NAND."
+        }
+      ]
+    },
+    "ar": {
+      "title": "دراسة ميتا للسحابة الجديدة تضغط على أسهم الرقائق وتركز الأنظار على إس كيه هاينكس",
+      "excerpt": "في 3 يوليو 2026 تعرضت أسهم أشباه الموصلات الكورية لضغط بعد دراسة ميتا بيع موارد حوسبة غير مستخدمة. مستثمرو إس كيه هاينكس وسامسونغ إلكترونيكس يعيدون تقييم طلب خوادم الذكاء الاصطناعي.",
+      "metaDescription": "دراسة ميتا لنموذج السحابة الجديدة تضغط على سامسونغ إلكترونيكس وإس كيه هاينكس مع تركيز على خوادم الذكاء الاصطناعي وHBM.",
+      "summary": "أثارت دراسة ميتا لبيع موارد حوسبة غير مستخدمة توترا في أسهم أشباه الموصلات الكورية. مستثمرو إس كيه هاينكس قرب 290 ألف وون يترقبون التعافي، بينما يعيد مستثمرو سامسونغ إلكترونيكس تقييم طلب الذاكرة. العامل الحاسم هو تأثير ذلك في مشتريات الخوادم الجديدة.",
+      "body": "تحولت دراسة ميتا لنشاط سحابي جديد إلى عامل ضغط على أسهم أشباه الموصلات الكورية. الشركة المشغلة لفيسبوك وإنستغرام تدرس بيع طاقة حوسبة غير مستخدمة لعملاء خارجيين. هذا يضعف الافتراض البسيط بأن كل إنفاق إضافي على بنية الذكاء الاصطناعي يعني مباشرة طلبات جديدة على الخوادم والذاكرة.\n\n## معنى النموذج الجديد\nيقوم النموذج على تحويل السعة الفائضة في مراكز البيانات إلى خدمة قابلة للبيع. الإشارة مزدوجة لشركات الرقائق: الطلب على حوسبة الذكاء الاصطناعي قوي، لكن استخدام المعدات القائمة قد يبطئ شراء خوادم جديدة على المدى القصير.\n\n## مستوى 290 ألف وون\nبالنسبة إلى إس كيه هاينكس، يمثل 290 ألف وون للسهم مستوى حساسا. عشر أسهم تعادل 2.9 مليون وون، و100 سهم تعادل 29 مليون وون. تحرك 10% يعني 29 ألف وون للسهم أو 2.9 مليون وون لكل 100 سهم. سامسونغ إلكترونيكس تتأثر أيضا عبر ذاكرة الخوادم وDRAM وNAND.\n\n## التوقعات\nهذه الدراسة ليست توجيها ماليا للشركات الكورية المدرجة. الأهم هو الطلب الفعلي وخطط الإنفاق الرأسمالي وتعديلات الأرباح. إذا تزامن بيع السعة الفائضة مع استثمارات جديدة في خوادم الذكاء الاصطناعي، فقد يبقى طلب HBM وDRAM المتقدمة متماسكا. وإذا أخر طلبات المعدات الجديدة، فقد يستمر الضغط على إس كيه هاينكس وسامسونغ إلكترونيكس.",
+      "keywords": [
+        "ميتا سحابة جديدة",
+        "أسهم أشباه الموصلات",
+        "إس كيه هاينكس",
+        "سامسونغ إلكترونيكس",
+        "خوادم الذكاء الاصطناعي",
+        "HBM",
+        "رقائق الذاكرة",
+        "السوق الكورية",
+        "دراسة ميتا للسحابة ا"
+      ],
+      "faq": [
+        {
+          "q": "لماذا تؤثر دراسة ميتا في أسهم الرقائق؟",
+          "a": "لأنها قد تغير توقعات سرعة شراء شركات التكنولوجيا الكبرى لخوادم جديدة ورقائق ذاكرة."
+        },
+        {
+          "q": "ما الذي يجب أن يراقبه مستثمرو إس كيه هاينكس؟",
+          "a": "إنفاق خوادم الذكاء الاصطناعي، طلب HBM، واستمرار استثمارات شركات التكنولوجيا الكبرى."
+        },
+        {
+          "q": "هل تتأثر سامسونغ إلكترونيكس أيضا؟",
+          "a": "نعم، لأنها مرتبطة بتوقعات ذاكرة الخوادم وDRAM وNAND."
+        }
+      ]
+    },
+    "hi": {
+      "title": "Meta के neocloud आकलन से चिप शेयर दबाव में, SK Hynix के 290,000 won स्तर पर नजर",
+      "excerpt": "3 जुलाई 2026 को Meta द्वारा निष्क्रिय कंप्यूटिंग संसाधन बेचने की समीक्षा से कोरियाई सेमीकंडक्टर शेयरों पर दबाव आया। SK Hynix और Samsung Electronics निवेशक AI सर्वर मांग को फिर आंक रहे हैं।",
+      "metaDescription": "Meta की neocloud समीक्षा ने Samsung Electronics और SK Hynix पर दबाव डाला। AI सर्वर, HBM मांग और कोरियाई चिप शेयरों पर असर जानें।",
+      "summary": "Meta की निष्क्रिय कंप्यूटिंग संसाधन बेचने की समीक्षा ने कोरियाई सेमीकंडक्टर शेयरों की धारणा बदली है। SK Hynix को 290,000 won के पास खरीदने वाले निवेशक रिकवरी देख रहे हैं। Samsung Electronics में भी मेमोरी मांग का आकलन बदला है। मुख्य सवाल नए AI सर्वर निवेश की गति है।",
+      "body": "Meta की neocloud समीक्षा कोरियाई सेमीकंडक्टर शेयरों के लिए नया दबाव बनी है। Facebook और Instagram चलाने वाली कंपनी बाहरी ग्राहकों को खाली पड़ी कंप्यूटिंग क्षमता बेचने का मॉडल देख रही है। इससे यह सीधा अनुमान कमजोर हुआ कि AI इंफ्रास्ट्रक्चर खर्च हमेशा तुरंत नए सर्वर और मेमोरी ऑर्डर में बदलता है।\n\n## neocloud का असर\nयह मॉडल डेटा सेंटर की खाली क्षमता को बेचने योग्य सेवा बनाता है। चिप कंपनियों के लिए संकेत मिला-जुला है। AI कंप्यूटिंग मांग मजबूत है, लेकिन मौजूदा उपकरणों का बेहतर उपयोग नए सर्वर खरीद को कुछ समय के लिए धीमा कर सकता है।\n\n## SK Hynix का 290,000 won स्तर\nSK Hynix निवेशकों के लिए 290,000 won प्रति शेयर संवेदनशील स्तर है। 10 शेयर 29 लाख won और 100 शेयर 2.9 करोड़ won के बराबर हैं। 10% उतार-चढ़ाव प्रति शेयर 29,000 won और 100 शेयर पर 29 लाख won बदलता है। Samsung Electronics भी सर्वर मेमोरी, DRAM और NAND उम्मीदों से प्रभावित है।\n\n## आगे की दिशा\nMeta की समीक्षा को कोरियाई सूचीबद्ध कंपनियों की आय गाइडेंस नहीं माना जा सकता। असली ऑर्डर, पूंजीगत खर्च और मुनाफा अनुमान अहम रहेंगे। यदि खाली क्षमता की बिक्री नए AI सर्वर निवेश के साथ चलती है, तो HBM और प्रीमियम DRAM मांग टिक सकती है। यदि इससे नए उपकरण ऑर्डर टलते हैं, तो SK Hynix और Samsung Electronics पर मूल्यांकन दबाव लंबा चलेगा।",
+      "keywords": [
+        "Meta neocloud",
+        "सेमीकंडक्टर शेयर",
+        "SK Hynix",
+        "Samsung Electronics",
+        "AI सर्वर",
+        "HBM",
+        "मेमोरी चिप",
+        "कोरियाई बाजार",
+        "Meta के neocloud आकल"
+      ],
+      "faq": [
+        {
+          "q": "Meta की neocloud समीक्षा चिप शेयरों को क्यों प्रभावित करती है?",
+          "a": "यह बड़ी टेक कंपनियों की नए सर्वर और मेमोरी चिप खरीद की गति पर बाजार की उम्मीद बदल सकती है।"
+        },
+        {
+          "q": "SK Hynix निवेशकों को क्या देखना चाहिए?",
+          "a": "AI सर्वर निवेश, HBM मांग और बड़ी टेक कंपनियों के डेटा सेंटर खर्च की निरंतरता देखनी चाहिए।"
+        },
+        {
+          "q": "क्या Samsung Electronics भी प्रभावित है?",
+          "a": "हां। सर्वर मेमोरी, DRAM और NAND की मांग उम्मीदें उसी बदलाव से प्रभावित होती हैं।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Rencana neocloud Meta tekan saham chip, level SK Hynix 290.000 won jadi sorotan",
+      "excerpt": "Pada 3 Juli 2026, saham semikonduktor Korea tertekan setelah Meta meninjau penjualan sumber daya komputasi menganggur. Investor SK Hynix dan Samsung Electronics menilai ulang permintaan server AI.",
+      "metaDescription": "Tinjauan neocloud Meta menekan Samsung Electronics dan SK Hynix. Fokus pasar beralih ke server AI, HBM, dan saham chip Korea.",
+      "summary": "Tinjauan Meta untuk menjual sumber daya komputasi menganggur mengguncang sentimen saham semikonduktor Korea. Investor SK Hynix di sekitar 290.000 won memantau peluang rebound, sementara Samsung Electronics terkena penilaian ulang permintaan memori. Kuncinya adalah dampak terhadap pembelian server AI baru.",
+      "body": "Tinjauan Meta atas bisnis neocloud menjadi tekanan baru bagi saham semikonduktor Korea. Operator Facebook dan Instagram itu mengkaji penjualan kapasitas komputasi yang belum terpakai kepada pelanggan eksternal. Hal ini menggoyahkan asumsi bahwa setiap belanja infrastruktur AI langsung berubah menjadi pesanan server dan memori baru.\n\n## Arti neocloud bagi chip\nModel neocloud menjadikan kapasitas kosong pusat data sebagai layanan komersial. Bagi pembuat chip, sinyalnya campuran. Permintaan komputasi AI memang besar, tetapi pemanfaatan perangkat yang sudah ada dapat memperlambat pembelian server baru dalam jangka pendek.\n\n## SK Hynix di 290.000 won\nBagi investor SK Hynix, 290.000 won per saham adalah level sensitif. Sepuluh saham bernilai 2,9 juta won dan 100 saham bernilai 29 juta won. Pergerakan 10% berarti 29.000 won per saham, atau 2,9 juta won untuk 100 saham. Samsung Electronics juga terdampak melalui ekspektasi memori server, DRAM, dan NAND.\n\n## Prospek\nTinjauan Meta belum menjadi panduan kinerja bagi emiten Korea. Pesanan nyata, belanja modal, dan revisi laba tetap lebih penting. Jika penjualan kapasitas menganggur berjalan bersama investasi server AI baru, permintaan HBM dan DRAM premium dapat bertahan. Jika justru menunda pesanan perangkat baru, tekanan valuasi pada SK Hynix dan Samsung Electronics bisa berlangsung lebih lama.",
+      "keywords": [
+        "Meta neocloud",
+        "saham semikonduktor",
+        "SK Hynix",
+        "Samsung Electronics",
+        "server AI",
+        "HBM",
+        "chip memori",
+        "pasar Korea",
+        "Rencana neocloud Met"
+      ],
+      "faq": [
+        {
+          "q": "Mengapa neocloud Meta memengaruhi saham chip?",
+          "a": "Karena model ini dapat mengubah ekspektasi kecepatan pembelian server baru dan chip memori oleh perusahaan teknologi besar."
+        },
+        {
+          "q": "Apa yang perlu dipantau investor SK Hynix?",
+          "a": "Belanja server AI, permintaan HBM, dan kelanjutan investasi pusat data oleh perusahaan teknologi besar."
+        },
+        {
+          "q": "Apakah Samsung Electronics juga terdampak?",
+          "a": "Ya. Ekspektasi memori server, DRAM, dan NAND ikut dipengaruhi oleh isu yang sama."
+        }
+      ]
+    }
+  }
+}
