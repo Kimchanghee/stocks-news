@@ -1,0 +1,373 @@
+{
+  "id": "843f39ad7784",
+  "slug": "흔들리는-k증시-연일-터지는-비상장치사이드카-서킷브레이커-뭐길래-823980",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-08-02T21:21:48.361Z",
+  "updatedAt": "2026-08-02T21:21:48.361Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12114451",
+  "titleFingerprint": "ff3cd9b349c444f93d224f240e55039fdad4dc59",
+  "dedupKeys": [
+    "843f39ad778439b87bc7d2989cbf16ce1ef711ff",
+    "ff3cd9b349c444f93d224f240e55039fdad4dc59",
+    "979b4b9a91ae6e2c3bd562502b448f7707d394f4"
+  ],
+  "imageUrl": "/images/articles/843f39ad7784.jpg",
+  "i18n": {
+    "ko": {
+      "title": "K증시 비상장치 연속 작동, 사이드카·서킷브레이커 변동성 기준과 개인투자자 대응법",
+      "excerpt": "최근 국내 증시는 지수 급등락과 투자심리 위축이 겹치며 사이드카와 서킷브레이커 같은 시장 안정장치에 대한 관심이 커지고 있다.",
+      "metaDescription": "K증시 변동성이 커지며 사이드카와 서킷브레이커의 발동 기준, 거래 정지 효과, 개인투자자 대응 전략이 핵심 변수로 떠올랐다.",
+      "summary": "한국 주식시장은 최근 지수 급등락이 반복되며 고변동성 장세에 들어섰다. 사이드카는 선물시장 급변 때 프로그램 매매를 잠시 멈추는 장치이고, 서킷브레이커는 현물시장 급락 때 전체 거래를 단계적으로 중단한다. 두 제도는 공포를 없애는 장치가 아니라 주문 쏠림을 늦추는 안전판이다. 개인투자자는 발동 자체보다 환율, 외국인 수급, 신용잔고와 같은 후속 변수를 함께 봐야 한다.",
+      "body": "국내 주식시장의 핵심 변수는 방향보다 속도다. 최근 K증시는 하루 사이 지수가 크게 오르내리는 장세가 이어지며 사이드카와 서킷브레이커 같은 비상장치가 투자 판단의 핵심 용어로 떠올랐다. 두 제도는 주가 하락을 막기 위한 가격 방어책이 아니라, 주문이 한쪽으로 몰릴 때 시장 참가자가 정보를 다시 확인할 시간을 주는 거래 안정장치다.\n\n## 사이드카는 프로그램 매매의 급가속을 멈춘다\n사이드카는 선물가격이 급격히 움직일 때 현물시장 프로그램 매매 주문의 효력을 일시 정지하는 제도다. 코스피200 선물이 전일 종가보다 5% 이상, 코스닥150 선물이 6% 이상 변동한 상태가 1분 이상 이어지면 발동될 수 있다. 발동되면 프로그램 매매 호가 효력이 5분간 정지되고 이후 자동 해제된다. 하루 한 차례만 작동하며 장 마감 직전에는 적용되지 않는다. 핵심은 전체 거래 정지가 아니라 선물과 현물을 잇는 기계적 매매 흐름을 잠시 늦추는 데 있다.\n\n## 서킷브레이커는 시장 전체의 숨 고르기다\n서킷브레이커는 충격이 더 클 때 작동한다. 코스피나 코스닥 지수가 전일 종가 대비 8% 이상 하락해 1분간 지속되면 1단계가 발동되고, 15% 이상 하락하면 2단계가 가능하다. 각 단계에서는 주식 거래가 20분간 멈춘 뒤 10분간 단일가 매매 절차를 거쳐 재개된다. 낙폭이 20% 이상으로 확대되면 3단계가 적용돼 해당 시장의 거래가 종료된다. 투자자에게는 매도 기회가 사라지는 시간이기도 하지만, 동시에 패닉성 주문이 가격을 더 왜곡하는 것을 막는 완충 시간이다.\n\n## 개인투자자는 발동보다 이후 흐름을 봐야 한다\n비상장치가 작동했다는 사실만으로 바닥이나 꼭지를 단정하기는 어렵다. 원화 약세가 동반되면 외국인 자금 이탈 우려가 커지고, 신용융자 잔고가 높은 종목은 반대매매 압력까지 겹칠 수 있다. 반대로 과도한 매도 이후 환율이 안정되고 기관 매수세가 들어오면 낙폭 과대 업종부터 반등이 나타날 수 있다. 국내 투자자는 지수 낙폭, 선물 베이시스, 환율, 거래대금, 신용잔고를 함께 점검해야 한다. 당분간 K증시는 정책 대응, 글로벌 금리 기대, 반도체와 2차전지 대형주의 수급에 따라 큰 폭의 등락을 반복할 전망이다. 현금 비중을 유지하고 레버리지 포지션을 줄이는 전략이 고변동성 국면의 기본 대응으로 꼽힌다.",
+      "keywords": [
+        "K증시",
+        "사이드카",
+        "서킷브레이커",
+        "한국 주식시장",
+        "코스피",
+        "코스닥",
+        "시장 변동성",
+        "프로그램 매매",
+        "개인투자자 대응",
+        "K증시 비상장치 연속 작동, 사이드카"
+      ],
+      "faq": [
+        {
+          "q": "사이드카와 서킷브레이커의 가장 큰 차이는 무엇인가?",
+          "a": "사이드카는 선물가격 급변 때 프로그램 매매를 5분간 제한하는 장치이고, 서킷브레이커는 지수 급락 때 시장 전체 거래를 단계적으로 멈추는 장치다."
+        },
+        {
+          "q": "서킷브레이커가 발동되면 주식을 바로 팔 수 있나?",
+          "a": "거래 정지 시간에는 매매가 체결되지 않는다. 정지 후 단일가 절차를 거쳐 거래가 재개되며, 3단계에서는 해당 시장 거래가 종료된다."
+        },
+        {
+          "q": "개인투자자는 비상장치 발동 때 무엇을 확인해야 하나?",
+          "a": "지수 낙폭만 보지 말고 환율, 외국인 순매매, 선물 베이시스, 거래대금, 신용잔고를 함께 확인해야 변동성의 지속 여부를 판단할 수 있다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Korean Stock Safeguards: Sidecar and Circuit Breaker Rules in a Volatile Market",
+      "excerpt": "Korea’s stock market has entered a high-volatility phase as sharp index swings raise investor anxiety and bring sidecars and circuit breakers into focus.",
+      "metaDescription": "Korean equities face heightened volatility. Learn how sidecars and circuit breakers work, when they activate, and what retail investors should monitor.",
+      "summary": "Korean stocks are moving through an unusually volatile stretch. A sidecar slows program trading when futures prices move sharply, while a circuit breaker halts the broader cash market during steep index declines. These tools do not guarantee a rebound; they give the market time to absorb information. Investors should watch the won, foreign flows, margin bala",
+      "body": "The main issue in Korea’s stock market is no longer direction alone, but speed. Recent swings in the KOSPI and KOSDAQ have pushed emergency market safeguards into the center of investor attention. Sidecars and circuit breakers are not price-support tools. They are designed to slow one-way order flows and give market participants time to reassess information.\n\n## Sidecar Slows Program Trading\nA sidecar can be triggered when futures prices move sharply. In the KOSPI market, a move of 5% or more in KOSPI 200 futures from the previous close that lasts at least one minute can activate the measure. In the KOSDAQ market, the comparable threshold is 6% for KOSDAQ 150 futures. Once activated, program trading orders are suspended for five minutes and then automatically resume. The mechanism can operate only once a day and is not applied near the close. Its focus is not the whole market, but the mechanical link between futures and cash stocks.\n\n## Circuit Breaker Halts the Market\nA circuit breaker is used when the shock is broader. If the KOSPI or KOSDAQ falls 8% from the previous close for one minute, the first stage may halt trading. A 15% decline can trigger the second stage. In both cases, trading stops for 20 minutes and resumes through a 10-minute single-price call auction. A 20% drop leads to the third stage, ending trading for the day in that market.\n\n## What Investors Should Watch\nAn activation does not mark a bottom or a top by itself. A weaker won can increase concerns about foreign outflows, and heavily margined stocks may face forced selling pressure. If the currency stabilizes and institutional buying returns, oversold sectors can rebound first. Retail investors should track index declines, futures basis, exchange rates, turnover, foreign flows and margin debt. High volatility is likely to continue as policy signals, global rate expectations, and demand for major semiconductor and battery shares drive Korean market direction.",
+      "keywords": [
+        "Korean stocks",
+        "sidecar",
+        "circuit breaker",
+        "KOSPI",
+        "KOSDAQ",
+        "market volatility",
+        "program trading",
+        "retail investors",
+        "Korean Stock Safegua"
+      ],
+      "faq": [
+        {
+          "q": "What is the key difference between a sidecar and a circuit breaker?",
+          "a": "A sidecar restricts program trading for five minutes after sharp futures moves, while a circuit breaker halts the broader stock market after steep index declines."
+        },
+        {
+          "q": "Can investors sell immediately during a circuit breaker halt?",
+          "a": "No. Orders do not trade during the halt. Trading resumes through a call auction unless the third stage ends trading for the day."
+        },
+        {
+          "q": "What should retail investors check after an activation?",
+          "a": "They should review exchange rates, foreign net buying or selling, futures basis, trading value and margin balances, not just the index drop."
+        }
+      ]
+    },
+    "ja": {
+      "title": "韓国株の非常措置、サイドカーとサーキットブレーカーの発動基準と投資家対応",
+      "excerpt": "韓国株式市場では指数の急騰急落が続き、投資家心理の不安定化とともにサイドカーやサーキットブレーカーへの関心が高まっている。",
+      "metaDescription": "韓国株の変動性拡大で注目されるサイドカーとサーキットブレーカーの仕組み、発動基準、個人投資家の確認ポイントを整理する。",
+      "summary": "韓国株式市場は急激な上下動が続く高変動性局面に入っている。サイドカーは先物価格の急変時にプログラム売買を一時停止し、サーキットブレーカーは指数急落時に市場全体の取引を段階的に止める。どちらも反発を保証する制度ではなく、注文集中を緩和する安全装置だ。投資家はウォン相場、外国人需給、信用残高を併せて確認する必要がある。",
+      "body": "韓国株式市場の焦点は、上がるか下がるかだけでなく動く速さに移っている。KOSPIとKOSDAQで大きな値動きが続き、サイドカーとサーキットブレーカーが投資判断に欠かせない用語となった。両制度は株価を支える政策ではなく、一方向に注文が集中した際に市場参加者が情報を見直す時間を確保するための取引安定装置だ。\n\n## サイドカーはプログラム売買を減速させる\nサイドカーは先物価格が急変した時に、現物市場のプログラム売買注文を一時的に止める制度だ。KOSPI200先物が前日終値比5%以上、KOSDAQ150先物が6%以上変動し、その状態が1分以上続くと発動される可能性がある。発動後はプログラム売買の効力が5分間停止し、その後自動的に解除される。1日に1回だけ作動し、引け間際には適用されない。市場全体ではなく、先物と現物をつなぐ機械的な売買を抑える仕組みだ。\n\n## サーキットブレーカーは市場全体を止める\nサーキットブレーカーは衝撃がより大きい場合に発動する。KOSPIまたはKOSDAQが前日終値比8%以上下落して1分続けば第1段階、15%以上なら第2段階が可能だ。各段階では20分間取引が停止し、10分間の板寄せを経て再開される。下落率が20%以上に広がると第3段階となり、その市場の取引は終了する。\n\n## 投資家は発動後の流れを見るべきだ\n非常措置の発動だけで底値や天井を判断することはできない。ウォン安が重なれば外国人資金流出への警戒が強まり、信用取引の多い銘柄には強制売却圧力も出やすい。個人投資家は指数下落率、先物ベーシス、為替、売買代金、外国人売買、信用残高を総合的に見る必要がある。韓国市場は当面、政策対応、世界金利見通し、半導体と二次電池大型株の需給に左右される展開が続く見込みだ。",
+      "keywords": [
+        "韓国株",
+        "サイドカー",
+        "サーキットブレーカー",
+        "KOSPI",
+        "KOSDAQ",
+        "市場変動性",
+        "プログラム売買",
+        "個人投資家",
+        "韓国株の非常措置、サイドカーとサーキット"
+      ],
+      "faq": [
+        {
+          "q": "サイドカーとサーキットブレーカーの違いは何か。",
+          "a": "サイドカーは先物価格の急変時にプログラム売買を5分間制限し、サーキットブレーカーは指数急落時に市場全体の取引を止める制度だ。"
+        },
+        {
+          "q": "サーキットブレーカー中に株を売れるのか。",
+          "a": "取引停止中は売買が成立しない。停止後に板寄せを経て再開されるが、第3段階ではその日の取引が終了する。"
+        },
+        {
+          "q": "個人投資家は何を確認すべきか。",
+          "a": "指数の下落率だけでなく、為替、外国人売買、先物ベーシス、売買代金、信用残高を確認する必要がある。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "韩国股市紧急机制升温：Sidecar与熔断规则及投资者应对",
+      "excerpt": "韩国股市近期剧烈波动，指数频繁大涨大跌，投资者对Sidecar和熔断机制的触发条件与市场影响关注度迅速上升。",
+      "metaDescription": "韩国股市波动加剧，Sidecar和熔断机制成为焦点。本文梳理触发标准、交易暂停效果及个人投资者应关注的关键变量。",
+      "summary": "韩国股市正处于高波动阶段，KOSPI和KOSDAQ的快速涨跌放大了市场不安。Sidecar在期货价格剧烈变动时暂停程序化交易，熔断机制则在现货指数大幅下跌时分阶段暂停全市场交易。两项机制并不保证反弹，而是为市场降速。投资者应同时观察韩元汇率、外资流向、融资余额和成交额。",
+      "body": "韩国股市当前最大的变量不是方向，而是速度。KOSPI和KOSDAQ近期频繁出现大幅波动，使Sidecar和熔断机制成为投资判断中的核心词。两项制度并非托市工具，而是在订单单边集中时，为市场参与者重新确认信息争取时间的交易稳定装置。\n\n## Sidecar减缓程序化交易\nSidecar主要针对期货价格急变。当KOSPI200期货较前一交易日收盘价波动5%以上并持续1分钟，或KOSDAQ150期货波动6%以上并持续1分钟时，相关机制可能启动。启动后，程序化交易报价效力暂停5分钟，随后自动恢复。该机制每日只启动一次，临近收盘时不适用。它暂停的不是整个市场，而是期货与现货之间的机械化交易链条。\n\n## 熔断机制暂停全市场\n熔断机制适用于更大冲击。当KOSPI或KOSDAQ较前一日收盘下跌8%以上并持续1分钟时，可触发第一阶段；跌幅达到15%以上时，可触发第二阶段。前两阶段均暂停交易20分钟，之后通过10分钟集合竞价恢复。若跌幅扩大至20%以上，第三阶段启动，当日该市场交易结束。\n\n## 投资者应看后续变量\n紧急机制启动本身不能证明市场见底或见顶。若韩元走弱，外资流出压力会加大；融资余额较高的股票还可能承受被动卖出压力。若汇率企稳、机构买盘回流，超跌板块可能率先反弹。个人投资者应综合观察指数跌幅、期货基差、汇率、成交额、外资净买卖和融资余额。韩国市场短期仍将受政策回应、全球利率预期、半导体和二次电池龙头股资金流向影响。",
+      "keywords": [
+        "韩国股市",
+        "Sidecar",
+        "熔断机制",
+        "KOSPI",
+        "KOSDAQ",
+        "市场波动",
+        "程序化交易",
+        "个人投资者",
+        "韩国股市紧急机制升温：Sidecar与熔"
+      ],
+      "faq": [
+        {
+          "q": "Sidecar和熔断机制有什么不同？",
+          "a": "Sidecar是在期货剧烈波动时暂停程序化交易5分钟，熔断机制是在指数大幅下跌时暂停整个市场交易。"
+        },
+        {
+          "q": "熔断期间可以立即卖出股票吗？",
+          "a": "不可以。暂停期间交易不会成交，之后通过集合竞价恢复；若进入第三阶段，当日交易结束。"
+        },
+        {
+          "q": "个人投资者应关注哪些指标？",
+          "a": "除指数跌幅外，还应关注韩元汇率、外资净买卖、期货基差、成交额和融资余额。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Bolsa coreana en alerta: reglas de sidecar y circuit breaker ante la alta volatilidad",
+      "excerpt": "La bolsa surcoreana atraviesa fuertes oscilaciones en sus índices, elevando la inquietud inversora y el interés por los mecanismos sidecar y circuit breaker.",
+      "metaDescription": "La volatilidad en Corea del Sur pone el foco en sidecar y circuit breaker: criterios de activación, pausas de negociación y señales para minoristas.",
+      "summary": "El mercado bursátil surcoreano vive una fase de alta volatilidad con cambios bruscos en KOSPI y KOSDAQ. El sidecar frena temporalmente la negociación programada cuando los futuros se mueven con fuerza, mientras el circuit breaker detiene el mercado al contado ante caídas severas. No son garantías de rebote, sino mecanismos para reducir el desorden. Los inver",
+      "body": "La variable central de la bolsa surcoreana ya no es solo la dirección, sino la velocidad del movimiento. Las fuertes oscilaciones recientes del KOSPI y el KOSDAQ han colocado los mecanismos de emergencia en el centro de la toma de decisiones. El sidecar y el circuit breaker no sostienen precios; buscan frenar órdenes concentradas en una sola dirección y dar tiempo al mercado para procesar información.\n\n## El sidecar frena la negociación programada\nEl sidecar se activa por movimientos bruscos en futuros. En KOSPI, una variación de 5% o más en los futuros KOSPI 200 frente al cierre previo, sostenida al menos un minuto, puede activar la medida. En KOSDAQ, el umbral comparable es 6% para futuros KOSDAQ 150. Al activarse, las órdenes de negociación programada quedan suspendidas cinco minutos y luego se reanudan automáticamente. Solo puede operar una vez al día y no se aplica cerca del cierre. Su objetivo es el vínculo mecánico entre futuros y acciones al contado.\n\n## El circuit breaker detiene el mercado\nEl circuit breaker responde a choques más amplios. Si KOSPI o KOSDAQ cae 8% frente al cierre anterior durante un minuto, puede activarse la primera fase. Con una caída de 15% procede la segunda. En ambas, la negociación se detiene 20 minutos y vuelve mediante una subasta de precio único de 10 minutos. Una caída de 20% activa la tercera fase y cierra el mercado por el día.\n\n## Qué debe mirar el inversor\nLa activación no confirma por sí sola un suelo o un techo. Un won más débil puede aumentar la salida de capital extranjero, y las acciones con alto crédito pueden sufrir ventas forzadas. Si la divisa se estabiliza y entran compras institucionales, los sectores sobrevendidos pueden liderar el rebote. El inversor minorista debe revisar caída del índice, base de futuros, tipo de cambio, volumen, flujos extranjeros y deuda de margen.",
+      "keywords": [
+        "bolsa coreana",
+        "sidecar",
+        "circuit breaker",
+        "KOSPI",
+        "KOSDAQ",
+        "volatilidad",
+        "negociación programada",
+        "inversor minorista",
+        "Bolsa coreana en ale"
+      ],
+      "faq": [
+        {
+          "q": "¿Cuál es la diferencia entre sidecar y circuit breaker?",
+          "a": "El sidecar limita la negociación programada durante cinco minutos por movimientos fuertes en futuros; el circuit breaker detiene el mercado por caídas severas del índice."
+        },
+        {
+          "q": "¿Se puede vender durante un circuit breaker?",
+          "a": "No. Durante la pausa no se ejecutan operaciones. La negociación vuelve por subasta, salvo en la tercera fase, que cierra el mercado."
+        },
+        {
+          "q": "¿Qué señales conviene revisar?",
+          "a": "Tipo de cambio, flujos extranjeros, base de futuros, volumen negociado y saldos de margen, además de la caída del índice."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Bolsa coreana sob alerta: sidecar e circuit breaker ganham peso na volatilidade",
+      "excerpt": "A bolsa da Coreia do Sul enfrenta fortes oscilações nos índices, ampliando a cautela dos investidores e a atenção aos mecanismos sidecar e circuit breaker.",
+      "metaDescription": "Com a volatilidade na bolsa coreana, entenda os gatilhos de sidecar e circuit breaker, seus efeitos na negociação e os sinais para investidores.",
+      "summary": "O mercado acionário sul-coreano passa por uma fase de alta volatilidade, com movimentos bruscos no KOSPI e no KOSDAQ. O sidecar pausa a negociação programada quando os futuros se movem com força, enquanto o circuit breaker interrompe o mercado à vista em quedas severas. Essas ferramentas reduzem a pressão de ordens, mas não garantem recuperação. Câmbio, flux",
+      "body": "A variável principal da bolsa sul-coreana deixou de ser apenas a direção e passou a ser a velocidade do movimento. As oscilações recentes do KOSPI e do KOSDAQ colocaram os mecanismos de emergência no centro da análise. Sidecar e circuit breaker não são instrumentos para sustentar preços; eles desaceleram fluxos concentrados de ordens e dão tempo para o mercado processar novas informações.\n\n## Sidecar reduz a velocidade dos robôs\nO sidecar pode ser acionado quando os preços dos futuros se movem de forma abrupta. No KOSPI, uma variação de 5% ou mais nos futuros KOSPI 200 em relação ao fechamento anterior, mantida por pelo menos um minuto, pode ativar a medida. No KOSDAQ, o limite é de 6% para os futuros KOSDAQ 150. Após o acionamento, as ordens de negociação programada ficam suspensas por cinco minutos e depois retornam automaticamente. O mecanismo funciona uma vez ao dia e não vale perto do fechamento.\n\n## Circuit breaker interrompe o mercado\nO circuit breaker é usado em choques maiores. Se o KOSPI ou o KOSDAQ cair 8% ante o fechamento anterior por um minuto, a primeira etapa pode ser ativada. Uma queda de 15% permite a segunda etapa. Em ambas, as negociações param por 20 minutos e retornam por leilão de preço único de 10 minutos. Se a queda chegar a 20%, a terceira etapa encerra o pregão daquele mercado.\n\n## O foco vem depois do acionamento\nO acionamento não prova fundo nem topo. A desvalorização do won pode ampliar o risco de saída de estrangeiros, enquanto ações com alto saldo de margem podem sofrer vendas forçadas. Se o câmbio estabilizar e houver compra institucional, setores muito descontados podem reagir primeiro. O investidor deve acompanhar queda do índice, base dos futuros, câmbio, volume, fluxo estrangeiro e dívida de margem.",
+      "keywords": [
+        "bolsa coreana",
+        "sidecar",
+        "circuit breaker",
+        "KOSPI",
+        "KOSDAQ",
+        "volatilidade",
+        "negociação programada",
+        "investidor pessoa física",
+        "Bolsa coreana sob al"
+      ],
+      "faq": [
+        {
+          "q": "Qual é a diferença entre sidecar e circuit breaker?",
+          "a": "O sidecar suspende a negociação programada por cinco minutos após forte movimento dos futuros; o circuit breaker interrompe o mercado após queda severa do índice."
+        },
+        {
+          "q": "É possível vender durante o circuit breaker?",
+          "a": "Não. Durante a pausa, ordens não são executadas. O mercado retorna por leilão, exceto na terceira etapa, que encerra o pregão."
+        },
+        {
+          "q": "O que o investidor deve observar?",
+          "a": "Câmbio, fluxo estrangeiro, base dos futuros, volume negociado e saldos de margem, além da queda do índice."
+        }
+      ]
+    },
+    "de": {
+      "title": "Koreanische Börse im Stress: Sidecar und Circuit Breaker als Regeln der Volatilität",
+      "excerpt": "Der südkoreanische Aktienmarkt schwankt stark, wodurch Anleger verunsichert sind und Sidecar sowie Circuit Breaker als Schutzmechanismen in den Fokus rücken.",
+      "metaDescription": "Hohe Volatilität in Korea: So funktionieren Sidecar und Circuit Breaker, wann sie greifen und welche Signale Privatanleger beachten sollten.",
+      "summary": "Südkoreas Aktienmarkt befindet sich in einer Phase hoher Volatilität. Der Sidecar bremst Program Trading bei starken Futures-Bewegungen, während der Circuit Breaker den Kassamarkt bei schweren Indexverlusten stoppt. Beide Mechanismen garantieren keine Erholung, sondern verschaffen Zeit. Entscheidend bleiben Won-Wechselkurs, ausländische Kapitalflüsse, Margin",
+      "body": "Am südkoreanischen Aktienmarkt zählt derzeit nicht nur die Richtung, sondern vor allem die Geschwindigkeit. Die jüngsten Ausschläge bei KOSPI und KOSDAQ haben Notfallmechanismen in den Mittelpunkt der Anlageentscheidung gerückt. Sidecar und Circuit Breaker sind keine Instrumente zur Kursstützung. Sie sollen einseitige Orderströme bremsen und dem Markt Zeit geben, Informationen neu zu bewerten.\n\n## Sidecar bremst Program Trading\nDer Sidecar greift bei abrupten Bewegungen am Terminmarkt. Bei KOSPI-200-Futures kann eine Veränderung von mindestens 5% gegenüber dem Vortagesschluss, die eine Minute anhält, die Maßnahme auslösen. Bei KOSDAQ-150-Futures liegt die Schwelle bei 6%. Danach werden Program-Trading-Orders fünf Minuten lang ausgesetzt und automatisch wieder zugelassen. Der Mechanismus kann nur einmal pro Tag greifen und gilt nicht kurz vor Handelsschluss. Er zielt auf die mechanische Verbindung zwischen Futures und Kassamarkt.\n\n## Circuit Breaker stoppt den Markt\nDer Circuit Breaker kommt bei stärkeren Schocks zum Einsatz. Fällt KOSPI oder KOSDAQ um mindestens 8% gegenüber dem Vortagesschluss und hält dies eine Minute an, kann Stufe eins ausgelöst werden. Bei 15% ist Stufe zwei möglich. In beiden Fällen ruht der Handel 20 Minuten und wird über eine zehnminütige Auktion wieder aufgenommen. Bei 20% Verlust beendet Stufe drei den Handel des Tages.\n\n## Anleger müssen Folgevariablen prüfen\nEine Aktivierung signalisiert allein weder Boden noch Hoch. Ein schwächerer Won kann ausländische Abflüsse verstärken, während Aktien mit hoher Margin-Finanzierung unter Zwangsverkäufen leiden können. Stabilisiert sich die Währung und kehren institutionelle Käufe zurück, können überverkaufte Sektoren zuerst reagieren. Privatanleger sollten Indexrückgang, Futures-Basis, Wechselkurs, Umsatz, Auslandsflüsse und Margin-Bestände gemeinsam prüfen.",
+      "keywords": [
+        "koreanische Börse",
+        "Sidecar",
+        "Circuit Breaker",
+        "KOSPI",
+        "KOSDAQ",
+        "Volatilität",
+        "Program Trading",
+        "Privatanleger",
+        "Koreanische Börse im"
+      ],
+      "faq": [
+        {
+          "q": "Was unterscheidet Sidecar und Circuit Breaker?",
+          "a": "Der Sidecar begrenzt Program Trading fünf Minuten lang nach starken Futures-Bewegungen; der Circuit Breaker stoppt den Markt bei massiven Indexverlusten."
+        },
+        {
+          "q": "Kann man während eines Circuit Breakers verkaufen?",
+          "a": "Nein. Während der Pause werden keine Geschäfte ausgeführt. Danach startet der Handel per Auktion, außer Stufe drei beendet den Handelstag."
+        },
+        {
+          "q": "Welche Daten sollten Anleger prüfen?",
+          "a": "Wechselkurs, ausländische Nettokäufe, Futures-Basis, Handelsvolumen und Margin-Bestände neben dem Indexverlust."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Bourse coréenne sous tension : sidecar et circuit breaker face à la volatilité",
+      "excerpt": "La Bourse sud-coréenne connaît de fortes variations d’indices, renforçant l’inquiétude des investisseurs et l’attention portée aux mécanismes d’urgence.",
+      "metaDescription": "Volatilité en Corée du Sud : comprendre le sidecar et le circuit breaker, leurs seuils de déclenchement et les signaux clés pour investisseurs.",
+      "summary": "Le marché actions sud-coréen traverse une phase de forte volatilité. Le sidecar ralentit le trading programmé lorsque les contrats à terme bougent brutalement, tandis que le circuit breaker suspend le marché au comptant lors de fortes baisses d’indices. Ces dispositifs n’assurent pas un rebond, ils réduisent la pression d’ordres. Le won, les flux étrangers, ",
+      "body": "La variable majeure de la Bourse sud-coréenne n’est plus seulement la direction, mais la vitesse du mouvement. Les récentes variations du KOSPI et du KOSDAQ ont placé les dispositifs d’urgence au centre de l’analyse. Le sidecar et le circuit breaker ne soutiennent pas les cours; ils ralentissent les flux d’ordres concentrés et donnent au marché le temps de réévaluer les informations.\n\n## Le sidecar freine le trading programmé\nLe sidecar peut être déclenché par un mouvement brutal des contrats à terme. Sur le KOSPI, une variation d’au moins 5% des contrats KOSPI 200 par rapport à la clôture précédente, maintenue pendant une minute, peut activer le dispositif. Sur le KOSDAQ, le seuil est de 6% pour les contrats KOSDAQ 150. Une fois activé, les ordres de trading programmé sont suspendus pendant cinq minutes, puis reprennent automatiquement. Le mécanisme ne fonctionne qu’une fois par jour et ne s’applique pas près de la clôture.\n\n## Le circuit breaker arrête le marché\nLe circuit breaker intervient lors d’un choc plus large. Si le KOSPI ou le KOSDAQ recule de 8% par rapport à la clôture précédente pendant une minute, la première étape peut s’enclencher. Une baisse de 15% permet la deuxième étape. Dans les deux cas, les échanges s’arrêtent 20 minutes puis reprennent via une enchère de prix unique de 10 minutes. À 20% de baisse, la troisième étape met fin à la séance.\n\n## Les investisseurs doivent regarder l’après\nUn déclenchement ne prouve ni un plancher ni un sommet. Un won plus faible peut accentuer les sorties de capitaux étrangers, tandis que les titres fortement financés à crédit peuvent subir des ventes forcées. Si la devise se stabilise et que les achats institutionnels reviennent, les secteurs survendus peuvent rebondir en premier. Les particuliers doivent suivre baisse de l’indice, base des futures, change, volumes, flux étrangers et encours de marge.",
+      "keywords": [
+        "Bourse coréenne",
+        "sidecar",
+        "circuit breaker",
+        "KOSPI",
+        "KOSDAQ",
+        "volatilité",
+        "trading programmé",
+        "investisseurs particuliers",
+        "Bourse coréenne sous"
+      ],
+      "faq": [
+        {
+          "q": "Quelle est la différence entre sidecar et circuit breaker ?",
+          "a": "Le sidecar suspend le trading programmé cinq minutes après un fort mouvement des futures; le circuit breaker arrête le marché lors d’une forte baisse d’indice."
+        },
+        {
+          "q": "Peut-on vendre pendant un circuit breaker ?",
+          "a": "Non. Aucune transaction n’est exécutée pendant la pause. Le marché reprend par enchère, sauf en troisième étape où la séance se termine."
+        },
+        {
+          "q": "Que doivent surveiller les particuliers ?",
+          "a": "Le change, les flux étrangers, la base des futures, les volumes et les encours de marge, en plus de la baisse de l’indice."
+        }
+      ]
+    },
+    "ar": {
+      "title": "بورصة كوريا تحت ضغط التقلبات: قواعد سايدكار وقاطع التداول للمستثمرين",
+      "excerpt": "تشهد سوق الأسهم الكورية تقلبات حادة في المؤشرات، ما يزيد قلق المستثمرين ويرفع الاهتمام بآليتي سايدكار وقاطع التداول.",
+      "metaDescription": "مع ارتفاع تقلبات الأسهم الكورية، تعرف إلى آلية سايدكار وقاطع التداول، معايير التفعيل، أثر وقف التداول، وما يجب أن يراقبه المستثمر.",
+      "summary": "تمر سوق الأسهم الكورية بمرحلة تقلب مرتفع مع تحركات حادة في كوسبي وكوسداك. سايدكار يبطئ التداول البرنامجي عند تغير العقود الآجلة بقوة، بينما يوقف قاطع التداول السوق الفورية عند هبوط المؤشرات بشدة. الآليتان لا تضمنان ارتداد الأسعار، بل تمنحان السوق وقتا لاستيعاب الصدمة. سعر الوون، تدفقات الأجانب، أرصدة الهامش وحجم التداول تبقى مؤشرات حاسمة.",
+      "body": "لم تعد المشكلة الرئيسية في سوق الأسهم الكورية هي الاتجاه فقط، بل سرعة الحركة. التقلبات الأخيرة في كوسبي وكوسداك جعلت آليات الطوارئ جزءا أساسيا من قرار الاستثمار. سايدكار وقاطع التداول ليسا أدوات لدعم الأسعار، بل نظامان لإبطاء تدفق الأوامر في اتجاه واحد ومنح المشاركين وقتا لإعادة تقييم المعلومات.\n\n## سايدكار يبطئ التداول البرنامجي\nيمكن تفعيل سايدكار عندما تتحرك أسعار العقود الآجلة بعنف. في سوق كوسبي، قد يؤدي تغير عقود كوسبي 200 الآجلة بنسبة 5% أو أكثر مقارنة بالإغلاق السابق واستمراره دقيقة واحدة إلى التفعيل. في كوسداك، يبلغ الحد 6% لعقود كوسداك 150 الآجلة. عند التفعيل تتوقف أوامر التداول البرنامجي خمس دقائق ثم تستأنف تلقائيا. تعمل الآلية مرة واحدة يوميا ولا تطبق قرب الإغلاق. هدفها ليس وقف السوق كلها، بل تخفيف الرابط الآلي بين العقود الآجلة والأسهم الفورية.\n\n## قاطع التداول يوقف السوق\nيستخدم قاطع التداول عندما تكون الصدمة أوسع. إذا هبط كوسبي أو كوسداك 8% عن الإغلاق السابق واستمر ذلك دقيقة واحدة، يمكن تفعيل المرحلة الأولى. عند هبوط 15% تصبح المرحلة الثانية ممكنة. في المرحلتين يتوقف التداول 20 دقيقة ثم يعود عبر مزاد سعر واحد لمدة 10 دقائق. إذا بلغ الهبوط 20% تنهي المرحلة الثالثة تداول ذلك السوق لليوم.\n\n## ما بعد التفعيل هو الأهم\nالتفعيل وحده لا يعني قاعا أو قمة. ضعف الوون قد يزيد مخاطر خروج الأموال الأجنبية، والأسهم ذات التمويل الهامشي المرتفع قد تواجه بيعا إجباريا. إذا استقر سعر الصرف وعادت مشتريات المؤسسات، قد ترتد القطاعات المتراجعة أولا. على المستثمر الفردي متابعة هبوط المؤشر، أساس العقود الآجلة، سعر الصرف، حجم التداول، تدفقات الأجانب وأرصدة الهامش معا.",
+      "keywords": [
+        "الأسهم الكورية",
+        "سايدكار",
+        "قاطع التداول",
+        "كوسبي",
+        "كوسداك",
+        "تقلب السوق",
+        "التداول البرنامجي",
+        "المستثمر الفردي",
+        "بورصة كوريا تحت ضغط"
+      ],
+      "faq": [
+        {
+          "q": "ما الفرق بين سايدكار وقاطع التداول؟",
+          "a": "سايدكار يوقف التداول البرنامجي خمس دقائق بعد حركة قوية في العقود الآجلة، أما قاطع التداول فيوقف السوق عند هبوط حاد في المؤشر."
+        },
+        {
+          "q": "هل يمكن البيع أثناء وقف قاطع التداول؟",
+          "a": "لا. لا تنفذ الصفقات أثناء الوقف. يعود التداول عبر مزاد، إلا في المرحلة الثالثة حيث تنتهي جلسة السوق."
+        },
+        {
+          "q": "ما الذي يجب أن يراقبه المستثمر الفردي؟",
+          "a": "سعر الصرف، صافي تعاملات الأجانب، أساس العقود الآجلة، حجم التداول وأرصدة الهامش إلى جانب هبوط المؤشر."
+        }
+      ]
+    },
+    "hi": {
+      "title": "कोरियाई शेयर बाजार में अलर्ट: साइडकार और सर्किट ब्रेकर के नियम व निवेशक रणनीति",
+      "excerpt": "दक्षिण कोरिया के शेयर बाजार में तेज उतार-चढ़ाव से निवेशकों की चिंता बढ़ी है और साइडकार तथा सर्किट ब्रेकर जैसे सुरक्षा तंत्र चर्चा में हैं।",
+      "metaDescription": "कोरियाई शेयर बाजार की ऊंची अस्थिरता में साइडकार और सर्किट ब्रेकर कैसे काम करते हैं, कब लागू होते हैं और निवेशकों को क्या देखना चाहिए।",
+      "summary": "कोरियाई शेयर बाजार तेज अस्थिरता के दौर से गुजर रहा है। साइडकार वायदा कीमतों की तीखी चाल पर प्रोग्राम ट्रेडिंग को अस्थायी रूप से रोकता है, जबकि सर्किट ब्रेकर बड़े सूचकांक गिरावट पर पूरे नकद बाजार को रोकता है। ये तंत्र तेजी लौटने की गारंटी नहीं देते, बल्कि बाजार को सांस लेने का समय देते हैं। वॉन, विदेशी प्रवाह, मार्जिन और कारोबार मूल्य महत्वपूर्ण संकेतक हैं।",
+      "body": "कोरियाई शेयर बाजार में मुख्य सवाल अब केवल दिशा नहीं, बल्कि चाल की गति है। KOSPI और KOSDAQ में हाल की तेज हलचल ने आपात बाजार तंत्रों को निवेश निर्णय के केंद्र में ला दिया है। साइडकार और सर्किट ब्रेकर कीमतें बचाने की व्यवस्था नहीं हैं। इनका काम एकतरफा ऑर्डर दबाव को धीमा करना और बाजार को सूचना समझने का समय देना है।\n\n## साइडकार प्रोग्राम ट्रेडिंग रोकता है\nसाइडकार वायदा कीमतों की तेज चाल पर सक्रिय हो सकता है। KOSPI बाजार में KOSPI 200 फ्यूचर्स पिछले बंद स्तर से 5% या अधिक बदलें और यह स्थिति कम से कम एक मिनट रहे, तो उपाय लागू हो सकता है। KOSDAQ में KOSDAQ 150 फ्यूचर्स के लिए सीमा 6% है। सक्रिय होने पर प्रोग्राम ट्रेडिंग ऑर्डर पांच मिनट के लिए रुकते हैं और फिर अपने आप शुरू होते हैं। यह दिन में केवल एक बार चलता है और बंद होने के करीब लागू नहीं होता। इसका लक्ष्य पूरा बाजार नहीं, बल्कि फ्यूचर्स और नकद शेयरों की यांत्रिक कड़ी है।\n\n## सर्किट ब्रेकर पूरा बाजार रोकता है\nसर्किट ब्रेकर बड़े झटके में लागू होता है। KOSPI या KOSDAQ पिछले बंद स्तर से 8% गिरकर एक मिनट टिके तो पहला चरण लागू हो सकता है। 15% गिरावट पर दूसरा चरण संभव है। दोनों में कारोबार 20 मिनट रुकता है और 10 मिनट की एकल मूल्य नीलामी से फिर शुरू होता है। 20% गिरावट पर तीसरा चरण उस दिन का कारोबार समाप्त कर देता है।\n\n## निवेशक बाद की तस्वीर देखें\nसक्रिय होना अपने आप तल या शिखर साबित नहीं करता। कमजोर वॉन विदेशी निकासी की चिंता बढ़ा सकता है और अधिक मार्जिन वाले शेयरों में मजबूर बिक्री बढ़ सकती है। यदि मुद्रा स्थिर हो और संस्थागत खरीद लौटे, तो ज्यादा गिरे सेक्टर पहले उछल सकते हैं। खुदरा निवेशकों को सूचकांक गिरावट, फ्यूचर्स बेसिस, विनिमय दर, कारोबार मूल्य, विदेशी प्रवाह और मार्जिन बैलेंस साथ देखना चाहिए।",
+      "keywords": [
+        "कोरियाई शेयर",
+        "साइडकार",
+        "सर्किट ब्रेकर",
+        "KOSPI",
+        "KOSDAQ",
+        "बाजार अस्थिरता",
+        "प्रोग्राम ट्रेडिंग",
+        "खुदरा निवेशक",
+        "कोरियाई शेयर बाजार म"
+      ],
+      "faq": [
+        {
+          "q": "साइडकार और सर्किट ब्रेकर में क्या अंतर है?",
+          "a": "साइडकार वायदा में तेज चाल पर प्रोग्राम ट्रेडिंग पांच मिनट रोकता है, जबकि सर्किट ब्रेकर सूचकांक की बड़ी गिरावट पर पूरे बाजार को रोकता है।"
+        },
+        {
+          "q": "सर्किट ब्रेकर के दौरान क्या शेयर बेचे जा सकते हैं?",
+          "a": "नहीं। रुकावट के दौरान सौदे निष्पादित नहीं होते। तीसरे चरण को छोड़कर कारोबार नीलामी के जरिए दोबारा शुरू होता है।"
+        },
+        {
+          "q": "निवेशक किन संकेतों को देखें?",
+          "a": "सूचकांक गिरावट के साथ विनिमय दर, विदेशी खरीद-बिक्री, फ्यूचर्स बेसिस, कारोबार मूल्य और मार्जिन बैलेंस देखें।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Bursa Korea Bergejolak: Aturan Sidecar dan Circuit Breaker untuk Investor Ritel",
+      "excerpt": "Pasar saham Korea Selatan bergerak sangat volatil, membuat investor mencermati sidecar dan circuit breaker sebagai mekanisme darurat perdagangan.",
+      "metaDescription": "Volatilitas bursa Korea meningkat. Pahami sidecar dan circuit breaker, kriteria aktivasi, dampak penghentian transaksi, serta sinyal bagi investor.",
+      "summary": "Bursa saham Korea Selatan berada dalam fase volatilitas tinggi dengan ayunan besar pada KOSPI dan KOSDAQ. Sidecar menahan perdagangan program ketika kontrak berjangka bergerak tajam, sedangkan circuit breaker menghentikan pasar tunai saat indeks jatuh dalam. Keduanya bukan jaminan rebound, melainkan penahan tekanan pesanan. Investor perlu memantau won, arus ",
+      "body": "Variabel utama bursa Korea Selatan kini bukan hanya arah, tetapi kecepatan pergerakan. Ayunan tajam KOSPI dan KOSDAQ membuat mekanisme darurat menjadi bagian penting dari keputusan investasi. Sidecar dan circuit breaker bukan alat penopang harga. Keduanya dirancang untuk memperlambat arus pesanan satu arah dan memberi waktu bagi pelaku pasar untuk menilai ulang informasi.\n\n## Sidecar Menahan Perdagangan Program\nSidecar dapat aktif ketika harga kontrak berjangka bergerak ekstrem. Di pasar KOSPI, perubahan 5% atau lebih pada kontrak berjangka KOSPI 200 dari penutupan sebelumnya yang bertahan satu menit dapat memicu mekanisme ini. Di KOSDAQ, ambangnya 6% untuk kontrak berjangka KOSDAQ 150. Setelah aktif, pesanan perdagangan program dihentikan lima menit lalu kembali otomatis. Mekanisme ini hanya berlaku sekali sehari dan tidak diterapkan dekat penutupan. Fokusnya adalah hubungan mekanis antara futures dan saham tunai.\n\n## Circuit Breaker Menghentikan Pasar\nCircuit breaker digunakan saat guncangan lebih luas. Jika KOSPI atau KOSDAQ turun 8% dari penutupan sebelumnya selama satu menit, tahap pertama dapat aktif. Penurunan 15% memungkinkan tahap kedua. Pada dua tahap itu, perdagangan berhenti 20 menit dan dibuka kembali melalui lelang satu harga selama 10 menit. Jika penurunan mencapai 20%, tahap ketiga mengakhiri perdagangan pasar tersebut pada hari itu.\n\n## Investor Perlu Melihat Lanjutan Pasar\nAktivasi mekanisme darurat tidak otomatis menandai dasar atau puncak pasar. Pelemahan won dapat memperbesar risiko keluarnya dana asing, sementara saham dengan margin tinggi bisa tertekan jual paksa. Jika kurs stabil dan pembelian institusi kembali, sektor yang terlalu jatuh dapat memantul lebih dulu. Investor ritel perlu memeriksa penurunan indeks, basis futures, kurs, nilai transaksi, arus asing, dan saldo margin secara bersamaan.",
+      "keywords": [
+        "bursa Korea",
+        "sidecar",
+        "circuit breaker",
+        "KOSPI",
+        "KOSDAQ",
+        "volatilitas pasar",
+        "perdagangan program",
+        "investor ritel",
+        "Bursa Korea Bergejol"
+      ],
+      "faq": [
+        {
+          "q": "Apa perbedaan sidecar dan circuit breaker?",
+          "a": "Sidecar membatasi perdagangan program selama lima menit setelah pergerakan tajam futures, sedangkan circuit breaker menghentikan pasar saat indeks jatuh besar."
+        },
+        {
+          "q": "Bisakah investor menjual saat circuit breaker aktif?",
+          "a": "Tidak. Selama penghentian, transaksi tidak dieksekusi. Perdagangan kembali melalui lelang, kecuali tahap ketiga yang menutup pasar hari itu."
+        },
+        {
+          "q": "Apa yang harus dipantau investor ritel?",
+          "a": "Selain penurunan indeks, perhatikan kurs won, transaksi asing, basis futures, nilai transaksi, dan saldo margin."
+        }
+      ]
+    }
+  }
+}
