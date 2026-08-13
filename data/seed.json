@@ -1,5 +1,771 @@
 [
   {
+    "id": "60616e01a979",
+    "slug": "ai투자-수요-확인-코스피-4거래일째-반등-253681",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-08-13T12:29:45.540Z",
+    "updatedAt": "2026-08-13T12:29:45.540Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12126890",
+    "titleFingerprint": "282d59151a6371ef56736ca3bb5b700fa52814be",
+    "dedupKeys": [
+      "60616e01a97999f03e13a0095eca5b9c1681c8b7",
+      "282d59151a6371ef56736ca3bb5b700fa52814be",
+      "7e999e460ee56049f5946d47616eff10cfbed835"
+    ],
+    "imageUrl": "/images/articles/60616e01a979.jpg",
+    "i18n": {
+      "ko": {
+        "title": "코스피 4거래일 연속 반등, AI 투자 수요 확인에 외국인 매수 확대와 반도체주 강세",
+        "excerpt": "13일 국내 증시는 미국 7월 CPI가 예상치에 부합하며 금리 불안을 낮추고, 코어위브·네비우스 등 네오클라우드 실적이 AI 인프라 수요를 확인하면서 외국인 매수 속 코스피가 4거래일 연속 반등했다. 삼성전자와 SK하이닉스 등 반도체 대형주가 수급의 중심에 섰다.",
+        "metaDescription": "미국 CPI 안도와 코어위브·네비우스 실적 호조가 AI 투자 수요를 재확인했다. 외국인 매수세가 유입되며 코스피는 4거래일 연속 반등했고 반도체·AI 인프라주가 강세를 보였다. 금리 경계와 고평가 부담은 단기 변수다.",
+        "summary": "코스피가 미국발 안도와 외국인 순매수에 힘입어 4거래일 연속 반등했다. 미국 7월 CPI는 시장 예상에 부합하며 금리 인상 우려를 낮췄고, 코어위브와 네비우스의 2분기 실적은 AI 연산 수요가 여전히 강하다는 신호를 줬다. 달러당 1,400원대 환율로 환산하면 코어위브 수주잔고 1,000억달러대는 140조원을 웃돈다. 국내 반도체와 AI 인프라주는 수혜 기대가 커졌지만 차익실현과 밸류에이션 부담은 남아 있다.",
+        "body": "코스피의 4거래일 연속 반등은 단순한 낙폭 만회가 아니라 AI 투자 수요에 대한 재확인이 수급을 되돌린 장세로 정리된다. 13일 국내 증시는 미국 7월 소비자물가지수(CPI)가 예상 범위 안에 들어오며 금리 불안을 누그러뜨린 데다, 네오클라우드 기업들의 실적이 AI 인프라 수요를 숫자로 보여주자 외국인 매수세가 다시 유입됐다. 반도체 대형주와 AI 서버 밸류체인, 전력·데이터센터 관련주가 시장의 중심에 섰고 코스피는 나흘째 상승 흐름을 이어갔다.\n\n## 물가 안도와 AI 실적이 동시에 작동\n미국 7월 CPI는 예상치에 부합하며 9월 통화정책을 둘러싼 긴장도를 낮췄다. 금리 인상 가능성은 약 40% 수준으로 후퇴했고, 나스닥100은 0.74%, 나스닥종합지수는 0.5% 상승했다. 위험자산 선호가 되살아난 가운데 기술주 안에서는 AI 인프라가 가장 강했다. 코어위브는 2분기 매출 25억7,500만달러를 기록해 전년 대비 112% 성장했고, 매출 잔고는 1,040억달러로 확대됐다. 3분기 초 신규 고객 약정만 250억달러에 달했고, 올해 매출 전망은 124억~132억달러로 제시됐다. 네비우스도 매출 5억8,230만달러, 전년 대비 454% 증가를 기록했고 조정 EBITDA는 2억3,620만달러로 흑자 체력을 증명했다.\n\n## 한국 반도체와 원화 기준 파급력\n달러당 1,400원대 환율을 적용하면 코어위브의 분기 매출은 약 3조6,000억원, 매출 잔고는 145조원을 웃돈다. 네비우스의 분기 매출도 약 8,000억원 규모다. 이 숫자는 한국 증시에서 삼성전자, SK하이닉스, HBM 장비, 고성능 D램, eSSD, 전력기기, 냉각·변전 설비 관련주의 투자 논리를 직접 자극한다. AI 클라우드 사업자가 서버를 더 짓고 GPU를 더 임대하면 메모리 탑재량과 전력 인프라 수요가 함께 늘어난다. 국내에서는 데이터센터 전력망, 입지 인허가, 전기요금 체계, 단일종목 레버리지 상품 규제 같은 요인도 주가 변동성을 키우거나 완화하는 변수로 작동한다.\n\n## 전망과 투자자 체크포인트\n이번 반등의 핵심은 AI 투자 사이클이 꺾였는지가 아니라 투자 재원이 실제 매출과 장기 계약으로 연결되는지다. 코어위브와 네비우스의 수치는 수요가 아직 공급을 앞선다는 쪽에 힘을 실었다. 다만 높은 자본지출, 부채 비용, 고객 집중도는 여전히 부담이다. 코어위브의 올해 자본지출 전망은 350억~390억달러로 원화 49조~55조원 안팎에 이른다. 코스피가 추가 상승을 이어가려면 외국인 매수의 연속성, 원·달러 환율 안정, 엔비디아 실적과 가이던스, 국내 반도체 기업의 하반기 주문 가시성이 함께 확인돼야 한다. 지금의 반등은 AI 인프라 수요 확인에 따른 정상화 국면이지만, 추격 매수보다 실적과 수급을 함께 확인하는 대응이 필요하다.",
+        "keywords": [
+          "코스피",
+          "AI 투자",
+          "외국인 매수",
+          "미국 CPI",
+          "네오클라우드",
+          "코어위브",
+          "네비우스",
+          "반도체주",
+          "SK하이닉스",
+          "삼성전자"
+        ],
+        "faq": [
+          {
+            "q": "코스피가 4거래일 연속 반등한 핵심 이유는 무엇인가?",
+            "a": "미국 CPI가 예상치에 부합해 금리 불안이 낮아졌고, 코어위브와 네비우스 실적이 AI 인프라 수요를 확인하면서 외국인 매수세가 유입됐다."
+          },
+          {
+            "q": "네오클라우드 실적이 한국 증시에 중요한 이유는 무엇인가?",
+            "a": "네오클라우드는 GPU와 AI 서버를 대규모로 임대하는 사업자다. 매출과 수주잔고가 늘면 HBM, D램, eSSD, 전력 설비 등 한국 반도체 밸류체인 수요 기대가 커진다."
+          },
+          {
+            "q": "이번 반등이 상승 추세 전환을 뜻하나?",
+            "a": "수요 확인은 긍정적이지만 높은 자본지출, 부채 비용, 고객 집중도, 환율 변동성이 남아 있다. 외국인 매수 지속과 주요 AI 기업 가이던스 확인이 필요하다."
+          }
+        ]
+      },
+      "en": {
+        "title": "KOSPI Rises for Fourth Session as AI Investment Demand Revives Foreign Buying and Chip Stocks",
+        "excerpt": "South Korean stocks rose for a fourth straight session on Aug. 13 as July U.S. CPI matched expectations and strong neocloud earnings from CoreWeave and Nebius confirmed demand for AI infrastructure, drawing foreign buying into chip-heavy KO",
+        "metaDescription": "KOSPI extended its rebound as U.S. CPI calmed rate fears and CoreWeave, Nebius earnings confirmed AI infrastructure demand. Foreign buying lifted Korean chip and AI supply-chain stocks, though valuati",
+        "summary": "KOSPI rose for a fourth consecutive session as U.S. inflation relief and foreign buying improved risk appetite. July CPI met expectations, while CoreWeave and Nebius reported strong second-quarter numbers that reinforced demand for AI compute. CoreWeave’s $104 billion backlog equals more than 140 trillion won at a 1,400 won exchange-rate level. Korean semico",
+        "body": "KOSPI’s fourth straight rebound was driven by more than a technical bounce. Investors saw confirmation that AI infrastructure demand is still converting into revenue and contracts. July U.S. CPI matched expectations, reducing rate anxiety, while neocloud companies delivered strong earnings. CoreWeave reported $2.575 billion in second-quarter revenue, up 112% from a year earlier, with a $104 billion backlog and $25 billion of new early-third-quarter commitments. Nebius posted $582.3 million in revenue, up 454%, and $236.2 million in adjusted EBITDA.\n\nFor Korean investors, the numbers matter directly. At roughly 1,400 won per dollar, CoreWeave’s backlog is worth more than 145 trillion won, a scale that supports demand expectations for HBM, DRAM, eSSD, AI servers, power equipment and cooling systems. Foreign buying returned to KOSPI as Samsung Electronics, SK hynix and other AI-linked stocks regained attention. Nasdaq 100’s 0.74% rise and gains of about 19% in CoreWeave and 34% in Nebius also strengthened sentiment.\n\nThe rally does not remove all risk. CoreWeave’s 2026 capital spending outlook of $35 billion to $39 billion shows how expensive the AI buildout remains. Debt costs, customer concentration, Korean FX volatility, data-center power permits and leveraged product regulation can still amplify swings. The next test is whether foreign inflows continue and Nvidia’s upcoming guidance confirms the same AI demand signal.",
+        "keywords": [
+          "KOSPI",
+          "AI investment",
+          "foreign buying",
+          "U.S. CPI",
+          "neocloud",
+          "CoreWeave",
+          "Nebius",
+          "semiconductor stocks",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "Why did KOSPI rise for a fourth session?",
+            "a": "U.S. CPI matched expectations, easing rate concerns, while CoreWeave and Nebius earnings confirmed strong AI infrastructure demand and encouraged foreign buying."
+          },
+          {
+            "q": "Why do neocloud earnings matter for Korea?",
+            "a": "Neocloud companies rent GPU-based AI compute. Their growth supports demand for Korean HBM, DRAM, eSSD, servers and power infrastructure."
+          },
+          {
+            "q": "Does this rebound confirm a new uptrend?",
+            "a": "Not yet. AI demand is positive, but high capex, debt costs, valuation pressure, FX volatility and customer concentration still need monitoring."
+          }
+        ]
+      },
+      "ja": {
+        "title": "KOSPIが4営業日連続反発、AI投資需要の確認で外国人買いと半導体株が主導",
+        "excerpt": "13日の韓国株式市場は、米7月CPIが予想内に収まり金利不安が後退したことに加え、コアウィーブとネビウスの好決算でAIインフラ需要が確認され、外国人買いを背景にKOSPIが4営業日連続で反発した。",
+        "metaDescription": "米CPIへの安心感とコアウィーブ、ネビウスの好決算がAI投資需要を再確認した。外国人買いでKOSPIは4営業日連続高となり、韓国半導体とAIインフラ関連株が強含んだ。",
+        "summary": "KOSPIは米国発の安心感と外国人買いで4営業日連続の反発となった。米7月CPIは予想に沿い、追加利上げ懸念を和らげた。コアウィーブとネビウスの2四半期決算はAI計算需要の強さを示した。コアウィーブの1,040億ドルの受注残は、1ドル1,400ウォン台換算で140兆ウォンを超える規模だ。",
+        "body": "KOSPIの4営業日連続反発は、単なる自律反発ではない。AIインフラ需要が売上と長期契約に結び付いているとの確認が、外国人資金を韓国株に戻した。米7月CPIは予想範囲に収まり、金利上昇への警戒を弱めた。ナスダック100は0.74%、ナスダック総合は0.5%上昇し、リスク選好が回復した。\n\n焦点はネオクラウド企業の数字だった。コアウィーブの2四半期売上高は25億7,500万ドルで前年同期比112%増、受注残は1,040億ドルに拡大した。3四半期初めの新規顧客コミットメントは250億ドルに達した。ネビウスも売上高5億8,230万ドル、前年同期比454%増、調整後EBITDA2億3,620万ドルを記録した。\n\n韓国市場では、これがサムスン電子、SKハイニックス、HBM、DRAM、eSSD、AIサーバー、電力設備、冷却関連株への需要期待につながる。ただし、コアウィーブの年間設備投資見通しは350億から390億ドルと重い。債務費用、顧客集中、ウォン相場、データセンターの電力認可が今後の変動要因となる。",
+        "keywords": [
+          "KOSPI",
+          "AI投資",
+          "外国人買い",
+          "米CPI",
+          "ネオクラウド",
+          "コアウィーブ",
+          "ネビウス",
+          "半導体株",
+          "SKハイニックス",
+          "サムスン電子"
+        ],
+        "faq": [
+          {
+            "q": "KOSPIが4営業日続伸した理由は何ですか。",
+            "a": "米CPIが予想に沿って金利不安が後退し、コアウィーブとネビウスの決算がAIインフラ需要を確認したためです。"
+          },
+          {
+            "q": "ネオクラウド決算は韓国株にどう影響しますか。",
+            "a": "GPUクラウド需要が強いほど、韓国のHBM、DRAM、eSSD、AIサーバー関連企業への期待が高まります。"
+          },
+          {
+            "q": "反発は上昇トレンド転換ですか。",
+            "a": "需要確認は前向きですが、設備投資負担、債務費用、ウォン相場、顧客集中の確認が必要です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "KOSPI连续四个交易日反弹，AI投资需求确认带动外资回流和芯片股走强",
+        "excerpt": "8月13日韩国股市延续反弹。美国7月CPI符合预期，利率担忧降温；CoreWeave和Nebius等新云企业业绩验证AI基础设施需求，外资买盘推动KOSPI连续第四个交易日上涨。",
+        "metaDescription": "美国CPI缓和利率压力，CoreWeave和Nebius业绩确认AI基础设施需求。外资回流推升KOSPI连续四日反弹，韩国半导体和AI基础设施链条走强。",
+        "summary": "KOSPI在美国通胀数据缓和和外资买入推动下连续第四个交易日反弹。美国7月CPI符合预期，削弱加息担忧。CoreWeave和Nebius的二季度业绩显示AI算力需求仍然强劲。按1美元约1,400韩元折算，CoreWeave的1,040亿美元订单积压超过140万亿韩元，强化了韩国半导体产业链预期。",
+        "body": "KOSPI的连续四日反弹并非单纯技术修复，而是AI投资需求被财报数字重新确认后的资金回流。美国7月CPI符合预期，市场对9月加息的担忧降温，纳斯达克100上涨0.74%，纳斯达克综合指数上涨0.5%。风险偏好回升后，外资重新买入韩国大型科技和半导体股票。\n\n新云企业成为本轮情绪修复的核心。CoreWeave二季度收入25.75亿美元，同比增长112%，订单积压升至1,040亿美元，并在三季度初新增250亿美元客户承诺。Nebius收入5.823亿美元，同比增长454%，调整后EBITDA达到2.362亿美元。CoreWeave股价上涨约19%，Nebius上涨约34%，显示投资者重新定价AI算力需求。\n\n对韩国市场而言，这些数字直接指向HBM、DRAM、eSSD、AI服务器、电力设备和数据中心冷却需求。按1美元约1,400韩元计算，CoreWeave订单积压超过145万亿韩元。三星电子、SK海力士及AI基础设施链条受益预期升温。不过，高资本开支、债务成本、客户集中度、韩元汇率和韩国数据中心电力审批仍是后续风险。",
+        "keywords": [
+          "KOSPI",
+          "AI投资",
+          "外资买入",
+          "美国CPI",
+          "新云",
+          "CoreWeave",
+          "Nebius",
+          "半导体股",
+          "SK海力士",
+          "三星电子"
+        ],
+        "faq": [
+          {
+            "q": "KOSPI为何连续四个交易日反弹？",
+            "a": "美国CPI符合预期降低利率担忧，CoreWeave和Nebius业绩确认AI基础设施需求，外资买盘随之回流。"
+          },
+          {
+            "q": "新云业绩为何影响韩国股市？",
+            "a": "新云企业扩张GPU算力，会增加HBM、DRAM、eSSD、服务器和电力设备需求，韩国半导体链条直接受益。"
+          },
+          {
+            "q": "这是否意味着上涨趋势已经确立？",
+            "a": "尚不能确认。AI需求是利好，但高资本开支、债务、客户集中和汇率波动仍需观察。"
+          }
+        ]
+      },
+      "es": {
+        "title": "KOSPI sube por cuarto día mientras la demanda de inversión en IA impulsa compras extranjeras",
+        "excerpt": "La bolsa surcoreana avanzó el 13 de agosto por cuarta sesión consecutiva. El IPC de julio en EE. UU. cumplió las previsiones y los resultados de CoreWeave y Nebius confirmaron la demanda de infraestructura de IA, atrayendo compras extranjer",
+        "metaDescription": "El KOSPI extendió su rebote con alivio por el IPC de EE. UU. y fuertes resultados de CoreWeave y Nebius. La demanda de infraestructura de IA impulsó compras extranjeras en semiconductores coreanos.",
+        "summary": "El KOSPI encadenó cuatro sesiones al alza gracias al alivio inflacionario en EE. UU. y al regreso de compras extranjeras. El IPC de julio se ajustó a lo esperado, reduciendo temores de tasas. CoreWeave y Nebius mostraron cifras sólidas que confirmaron la demanda de cómputo de IA. La cartera de pedidos de CoreWeave, de 104.000 millones de dólares, supera los ",
+        "body": "El cuarto rebote consecutivo del KOSPI refleja una señal más profunda que una recuperación técnica. La demanda de infraestructura de IA volvió a verse en ingresos, pedidos y contratos. El IPC de julio en EE. UU. estuvo en línea con las previsiones, reduciendo la ansiedad por tasas, mientras el Nasdaq 100 avanzó 0,74% y el Nasdaq Composite ganó 0,5%.\n\nCoreWeave registró ingresos trimestrales de 2.575 millones de dólares, un aumento interanual de 112%, con una cartera de 104.000 millones y nuevos compromisos por 25.000 millones al inicio del tercer trimestre. Nebius reportó 582,3 millones de dólares de ingresos, un salto de 454%, y EBITDA ajustado de 236,2 millones. Sus acciones subieron cerca de 19% y 34%, respectivamente.\n\nPara Corea, el impacto pasa por Samsung Electronics, SK hynix, HBM, DRAM, eSSD, servidores de IA, equipos eléctricos y refrigeración de centros de datos. Sin embargo, el gasto de capital de CoreWeave, previsto entre 35.000 y 39.000 millones de dólares, muestra que el ciclo sigue siendo costoso. Deuda, concentración de clientes, won y permisos eléctricos serán claves.",
+        "keywords": [
+          "KOSPI",
+          "inversión en IA",
+          "compras extranjeras",
+          "IPC de EE. UU.",
+          "neocloud",
+          "CoreWeave",
+          "Nebius",
+          "semiconductores",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué subió el KOSPI por cuarta sesión?",
+            "a": "Porque el IPC de EE. UU. redujo temores de tasas y los resultados de CoreWeave y Nebius confirmaron una fuerte demanda de infraestructura de IA."
+          },
+          {
+            "q": "¿Por qué importan las neocloud para Corea?",
+            "a": "Su expansión eleva la demanda de HBM, DRAM, eSSD, servidores, energía y refrigeración, áreas vinculadas a la cadena coreana de semiconductores."
+          },
+          {
+            "q": "¿El rebote confirma una tendencia alcista?",
+            "a": "Todavía no. La demanda es positiva, pero persisten riesgos por capex, deuda, concentración de clientes y volatilidad cambiaria."
+          }
+        ]
+      },
+      "pt": {
+        "title": "KOSPI avança pelo quarto pregão com demanda por IA, compra estrangeira e força em chips",
+        "excerpt": "A bolsa sul-coreana subiu em 13 de agosto pelo quarto pregão seguido. O CPI de julho dos EUA veio em linha com as expectativas e os resultados de CoreWeave e Nebius confirmaram demanda por infraestrutura de IA, atraindo compras estrangeiras",
+        "metaDescription": "KOSPI ampliou a recuperação com alívio no CPI dos EUA e resultados fortes de CoreWeave e Nebius. A demanda por infraestrutura de IA impulsionou estrangeiros e ações de semicondutores na Coreia.",
+        "summary": "O KOSPI subiu pelo quarto pregão consecutivo com alívio inflacionário nos EUA e retorno de compras estrangeiras. O CPI de julho ficou dentro do esperado, reduzindo temores de juros. CoreWeave e Nebius divulgaram números fortes que reforçaram a demanda por computação de IA. O backlog de US$104 bilhões da CoreWeave supera 140 trilhões de won em câmbio de 1.400",
+        "body": "A quarta alta consecutiva do KOSPI não foi apenas recuperação técnica. O mercado reagiu à confirmação de que a demanda por infraestrutura de IA está virando receita e contratos. O CPI de julho dos EUA veio em linha com as expectativas, reduzindo a tensão sobre juros. O Nasdaq 100 subiu 0,74% e o Nasdaq Composite avançou 0,5%, reforçando o apetite por risco.\n\nA CoreWeave registrou receita de US$2,575 bilhões no segundo trimestre, alta anual de 112%, com backlog de US$104 bilhões e US$25 bilhões em novos compromissos no início do terceiro trimestre. A Nebius teve receita de US$582,3 milhões, avanço de 454%, e EBITDA ajustado de US$236,2 milhões. As ações subiram cerca de 19% e 34%, respectivamente.\n\nPara a Coreia, esses dados sustentam expectativas para Samsung Electronics, SK hynix, HBM, DRAM, eSSD, servidores de IA, energia e refrigeração. O risco continua no custo da expansão: a CoreWeave projeta capex de US$35 bilhões a US$39 bilhões em 2026. Dívida, concentração de clientes, won e licenças de energia ainda podem ampliar a volatilidade.",
+        "keywords": [
+          "KOSPI",
+          "investimento em IA",
+          "compra estrangeira",
+          "CPI dos EUA",
+          "neocloud",
+          "CoreWeave",
+          "Nebius",
+          "semicondutores",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "Por que o KOSPI subiu pelo quarto pregão?",
+            "a": "O CPI dos EUA reduziu temores de juros e os resultados de CoreWeave e Nebius confirmaram demanda forte por infraestrutura de IA."
+          },
+          {
+            "q": "Por que neoclouds importam para a Coreia?",
+            "a": "Elas ampliam a demanda por HBM, DRAM, eSSD, servidores e infraestrutura elétrica, áreas ligadas à cadeia coreana de chips."
+          },
+          {
+            "q": "A alta confirma uma tendência definitiva?",
+            "a": "Ainda não. A demanda é positiva, mas capex alto, dívida, câmbio e concentração de clientes seguem como riscos."
+          }
+        ]
+      },
+      "de": {
+        "title": "KOSPI steigt den vierten Tag in Folge, weil KI-Investitionen Ausländerkäufe und Chipwerte stützen",
+        "excerpt": "Der südkoreanische Aktienmarkt legte am 13. August zum vierten Mal in Folge zu. Der US-Verbraucherpreisindex entsprach den Erwartungen, während starke Zahlen von CoreWeave und Nebius die Nachfrage nach KI-Infrastruktur bestätigten.",
+        "metaDescription": "Der KOSPI erholte sich weiter, weil der US-CPI Zinsängste senkte und CoreWeave sowie Nebius starke KI-Infrastrukturnachfrage zeigten. Ausländer kauften koreanische Chipwerte.",
+        "summary": "Der KOSPI stieg zum vierten Mal in Folge, getragen von US-Inflationsentlastung und ausländischen Käufen. Der Juli-CPI lag im Rahmen der Erwartungen und dämpfte Zinssorgen. CoreWeave und Nebius lieferten starke Quartalszahlen und bestätigten die Nachfrage nach KI-Rechenleistung. CoreWeaves Auftragsbestand von 104 Milliarden Dollar entspricht bei 1.400 Won je ",
+        "body": "Der vierte KOSPI-Anstieg in Folge war mehr als eine technische Gegenbewegung. Entscheidend war die Bestätigung, dass KI-Infrastruktur Nachfrage in Umsatz und langfristige Verträge umwandelt. Der US-CPI für Juli entsprach den Erwartungen und reduzierte die Sorge vor höheren Zinsen. Der Nasdaq 100 gewann 0,74%, der Nasdaq Composite 0,5%.\n\nCoreWeave erzielte im zweiten Quartal 2,575 Milliarden Dollar Umsatz, ein Plus von 112% zum Vorjahr. Der Auftragsbestand stieg auf 104 Milliarden Dollar, hinzu kamen 25 Milliarden Dollar neue Kundenverpflichtungen zu Beginn des dritten Quartals. Nebius meldete 582,3 Millionen Dollar Umsatz, plus 454%, und ein bereinigtes EBITDA von 236,2 Millionen Dollar. Die Aktien legten etwa 19% beziehungsweise 34% zu.\n\nFür Korea stärkt dies die Erwartungen an Samsung Electronics, SK hynix, HBM, DRAM, eSSD, KI-Server, Stromtechnik und Kühlung. Doch der Ausbau bleibt teuer. CoreWeave erwartet 2026 Investitionen von 35 bis 39 Milliarden Dollar. Schuldenkosten, Kundenkonzentration, Won-Schwankungen und Genehmigungen für Rechenzentrumsstrom bleiben wichtige Risiken.",
+        "keywords": [
+          "KOSPI",
+          "KI-Investitionen",
+          "Ausländerkäufe",
+          "US-CPI",
+          "Neocloud",
+          "CoreWeave",
+          "Nebius",
+          "Halbleiteraktien",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "Warum stieg der KOSPI zum vierten Mal in Folge?",
+            "a": "Der US-CPI dämpfte Zinssorgen, und die Ergebnisse von CoreWeave und Nebius bestätigten starke Nachfrage nach KI-Infrastruktur."
+          },
+          {
+            "q": "Warum sind Neocloud-Zahlen für Korea wichtig?",
+            "a": "Wachsende GPU-Clouds erhöhen die Nachfrage nach HBM, DRAM, eSSD, Servern und Stromausrüstung aus der koreanischen Lieferkette."
+          },
+          {
+            "q": "Ist der Aufschwung schon ein neuer Trend?",
+            "a": "Noch nicht. Die Nachfrage ist positiv, aber hohe Investitionen, Schulden, Kundenkonzentration und Währungsrisiken bleiben."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le KOSPI rebondit pour la quatrième séance avec la demande d’IA et les achats étrangers",
+        "excerpt": "La Bourse sud-coréenne a progressé le 13 août pour une quatrième séance consécutive. L’IPC américain de juillet a rassuré sur les taux, tandis que les résultats de CoreWeave et Nebius ont confirmé la demande en infrastructures d’IA.",
+        "metaDescription": "Le KOSPI prolonge son rebond grâce à l’IPC américain et aux bons résultats de CoreWeave et Nebius. Les achats étrangers soutiennent les semi-conducteurs coréens et l’infrastructure IA.",
+        "summary": "Le KOSPI a enchaîné une quatrième hausse, porté par l’apaisement de l’inflation américaine et le retour des achats étrangers. L’IPC de juillet est resté conforme aux attentes, réduisant les craintes de taux. CoreWeave et Nebius ont publié des chiffres solides confirmant la demande de calcul IA. Le carnet de commandes de CoreWeave, à 104 milliards de dollars,",
+        "body": "La quatrième hausse consécutive du KOSPI dépasse le simple rebond technique. Le marché a réagi à la preuve que la demande d’infrastructure IA se transforme en revenus et en contrats. L’IPC américain de juillet a correspondu aux attentes, calmant les tensions sur les taux. Le Nasdaq 100 a gagné 0,74% et le Nasdaq Composite 0,5%.\n\nCoreWeave a réalisé 2,575 milliards de dollars de chiffre d’affaires trimestriel, en hausse de 112% sur un an, avec un carnet de commandes de 104 milliards et 25 milliards de nouveaux engagements au début du troisième trimestre. Nebius a publié 582,3 millions de dollars de revenus, soit +454%, et un EBITDA ajusté de 236,2 millions. Les actions ont progressé d’environ 19% et 34%.\n\nPour la Corée, ces chiffres soutiennent Samsung Electronics, SK hynix, la HBM, la DRAM, l’eSSD, les serveurs IA, l’électricité et le refroidissement. Le risque demeure dans le coût de l’expansion: CoreWeave prévoit 35 à 39 milliards de dollars de capex en 2026. Dette, concentration clients, won et autorisations électriques restent à surveiller.",
+        "keywords": [
+          "KOSPI",
+          "investissement IA",
+          "achats étrangers",
+          "IPC américain",
+          "neocloud",
+          "CoreWeave",
+          "Nebius",
+          "semi-conducteurs",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi le KOSPI a-t-il monté pour la quatrième séance?",
+            "a": "L’IPC américain a réduit les craintes de taux et les résultats de CoreWeave et Nebius ont confirmé une forte demande d’infrastructure IA."
+          },
+          {
+            "q": "Pourquoi les neoclouds comptent-elles pour la Corée?",
+            "a": "Leur expansion accroît la demande de HBM, DRAM, eSSD, serveurs IA et équipements électriques liés à la chaîne coréenne."
+          },
+          {
+            "q": "Ce rebond confirme-t-il une tendance haussière?",
+            "a": "Pas encore. La demande est favorable, mais capex élevé, dette, change et concentration des clients restent des risques."
+          }
+        ]
+      },
+      "ar": {
+        "title": "كوسبي يرتفع للجلسة الرابعة مع تأكيد طلب استثمارات الذكاء الاصطناعي وعودة الشراء الأجنبي",
+        "excerpt": "ارتفعت الأسهم الكورية الجنوبية في 13 أغسطس للجلسة الرابعة على التوالي. جاء مؤشر أسعار المستهلكين الأمريكي لشهر يوليو مطابقا للتوقعات، بينما أكدت نتائج CoreWeave وNebius قوة الطلب على بنية الذكاء الاصطناعي.",
+        "metaDescription": "واصل كوسبي التعافي مع هدوء مخاوف الفائدة بعد بيانات التضخم الأمريكية ونتائج قوية من CoreWeave وNebius. الشراء الأجنبي دعم أسهم الرقائق والبنية التحتية للذكاء الاصطناعي في كوريا.",
+        "summary": "صعد كوسبي للجلسة الرابعة بدعم من تراجع قلق التضخم الأمريكي وعودة الشراء الأجنبي. بيانات يوليو لمؤشر أسعار المستهلكين جاءت ضمن التوقعات وخففت مخاوف رفع الفائدة. نتائج CoreWeave وNebius أظهرت أن الطلب على حوسبة الذكاء الاصطناعي لا يزال قويا. دفتر طلبات CoreWeave البالغ 104 مليارات دولار يتجاوز 140 تريليون وون عند سعر صرف 1,400 وون للدولار.",
+        "body": "لم يكن صعود كوسبي للجلسة الرابعة مجرد ارتداد فني. العامل الأهم كان تأكيد أن طلب بنية الذكاء الاصطناعي يتحول إلى إيرادات وعقود طويلة. مؤشر أسعار المستهلكين الأمريكي لشهر يوليو جاء متوافقا مع التوقعات، ما خفف ضغط الفائدة. ارتفع ناسداك 100 بنسبة 0.74% وناسداك المركب 0.5%، فعادت شهية المخاطرة.\n\nحققت CoreWeave إيرادات فصلية قدرها 2.575 مليار دولار، بزيادة 112% سنويا، مع دفتر طلبات بلغ 104 مليارات دولار والتزامات عملاء جديدة بقيمة 25 مليار دولار في بداية الربع الثالث. أما Nebius فسجلت إيرادات 582.3 مليون دولار، بنمو 454%، وEBITDA معدلة قدرها 236.2 مليون دولار. أسهم الشركتين ارتفعت بنحو 19% و34%.\n\nبالنسبة لكوريا، تدعم هذه الأرقام توقعات الطلب على Samsung Electronics وSK hynix وHBM وDRAM وeSSD وخوادم الذكاء الاصطناعي ومعدات الطاقة والتبريد. لكن الإنفاق الرأسمالي المرتفع، تكاليف الدين، تركز العملاء، تقلب الوون وتصاريح كهرباء مراكز البيانات تظل عوامل خطر مهمة.",
+        "keywords": [
+          "كوسبي",
+          "استثمار الذكاء الاصطناعي",
+          "شراء أجنبي",
+          "التضخم الأمريكي",
+          "نيو كلاود",
+          "CoreWeave",
+          "Nebius",
+          "أسهم الرقائق",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "لماذا ارتفع كوسبي للجلسة الرابعة؟",
+            "a": "لأن بيانات التضخم الأمريكية خففت قلق الفائدة، ونتائج CoreWeave وNebius أكدت قوة طلب بنية الذكاء الاصطناعي."
+          },
+          {
+            "q": "لماذا تهم شركات نيو كلاود السوق الكورية؟",
+            "a": "توسعها يزيد الطلب على HBM وDRAM وeSSD والخوادم ومعدات الطاقة، وهي مجالات مرتبطة بسلسلة الرقائق الكورية."
+          },
+          {
+            "q": "هل يعني الارتفاع بدء اتجاه صاعد مؤكد؟",
+            "a": "ليس بعد. الطلب إيجابي، لكن الإنفاق الرأسمالي والديون وتذبذب العملة وتركز العملاء ما زالت تحتاج مراقبة."
+          }
+        ]
+      },
+      "hi": {
+        "title": "KOSPI चौथे सत्र में चढ़ा, AI निवेश मांग की पुष्टि से विदेशी खरीद और चिप शेयर मजबूत",
+        "excerpt": "13 अगस्त को दक्षिण कोरियाई शेयर बाजार लगातार चौथे सत्र में बढ़ा। अमेरिका का जुलाई CPI अनुमान के अनुरूप रहा और CoreWeave तथा Nebius के मजबूत नतीजों ने AI इंफ्रास्ट्रक्चर मांग की पुष्टि की, जिससे विदेशी खरीद लौटी।",
+        "metaDescription": "अमेरिकी CPI से दरों की चिंता घटी और CoreWeave, Nebius के नतीजों ने AI इंफ्रास्ट्रक्चर मांग को मजबूत दिखाया। विदेशी खरीद से KOSPI और कोरियाई सेमीकंडक्टर शेयर चढ़े।",
+        "summary": "KOSPI ने अमेरिकी महंगाई राहत और विदेशी खरीद के सहारे चौथे सत्र में बढ़त दर्ज की। जुलाई CPI अनुमान के अनुरूप रहा, जिससे दर बढ़ोतरी की चिंता कम हुई। CoreWeave और Nebius के तिमाही आंकड़ों ने AI कंप्यूट मांग की मजबूती दिखाई। CoreWeave का 104 अरब डॉलर का ऑर्डर बैकलॉग 1,400 वॉन प्रति डॉलर पर 140 ट्रिलियन वॉन से अधिक बैठता है।",
+        "body": "KOSPI की चौथी लगातार बढ़त केवल तकनीकी उछाल नहीं थी। बाजार ने देखा कि AI इंफ्रास्ट्रक्चर मांग वास्तविक राजस्व और लंबी अवधि के अनुबंधों में बदल रही है। अमेरिका का जुलाई CPI अनुमान के अनुरूप रहा, जिससे ब्याज दरों की चिंता घटी। Nasdaq 100 में 0.74% और Nasdaq Composite में 0.5% की बढ़त ने जोखिम लेने की भावना मजबूत की।\n\nCoreWeave ने दूसरी तिमाही में 2.575 अरब डॉलर राजस्व दर्ज किया, जो सालाना 112% अधिक है। उसका बैकलॉग 104 अरब डॉलर रहा और तीसरी तिमाही की शुरुआत में 25 अरब डॉलर की नई ग्राहक प्रतिबद्धताएं जुड़ीं। Nebius का राजस्व 582.3 मिलियन डॉलर रहा, सालाना 454% वृद्धि के साथ, और समायोजित EBITDA 236.2 मिलियन डॉलर रहा। दोनों शेयर लगभग 19% और 34% चढ़े।\n\nकोरिया के लिए यह Samsung Electronics, SK hynix, HBM, DRAM, eSSD, AI सर्वर, बिजली उपकरण और कूलिंग मांग से जुड़ा संकेत है। फिर भी CoreWeave का 2026 capex अनुमान 35 से 39 अरब डॉलर है। कर्ज लागत, ग्राहक एकाग्रता, वॉन की चाल और डेटा सेंटर बिजली मंजूरियां अभी भी जोखिम हैं।",
+        "keywords": [
+          "KOSPI",
+          "AI निवेश",
+          "विदेशी खरीद",
+          "अमेरिकी CPI",
+          "नियोक्लाउड",
+          "CoreWeave",
+          "Nebius",
+          "सेमीकंडक्टर शेयर",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "KOSPI लगातार चौथे सत्र में क्यों चढ़ा?",
+            "a": "अमेरिकी CPI अनुमान के अनुरूप रहा और CoreWeave, Nebius के नतीजों ने AI इंफ्रास्ट्रक्चर मांग की मजबूती दिखाई, जिससे विदेशी खरीद बढ़ी।"
+          },
+          {
+            "q": "नियोक्लाउड नतीजे कोरिया के लिए क्यों अहम हैं?",
+            "a": "GPU क्लाउड विस्तार HBM, DRAM, eSSD, AI सर्वर और बिजली उपकरणों की मांग बढ़ाता है, जिनसे कोरियाई सेमीकंडक्टर श्रृंखला जुड़ी है।"
+          },
+          {
+            "q": "क्या यह स्थायी तेजी की शुरुआत है?",
+            "a": "अभी नहीं। मांग सकारात्मक है, लेकिन ऊंचा capex, कर्ज लागत, ग्राहक एकाग्रता और मुद्रा जोखिम पर नजर जरूरी है।"
+          }
+        ]
+      },
+      "id": {
+        "title": "KOSPI naik empat sesi beruntun, permintaan investasi AI dorong beli asing dan saham chip",
+        "excerpt": "Bursa Korea Selatan naik pada 13 Agustus untuk sesi keempat berturut-turut. CPI AS Juli sesuai ekspektasi, sementara hasil CoreWeave dan Nebius menegaskan permintaan infrastruktur AI dan menarik kembali pembelian asing ke saham chip Korea.",
+        "metaDescription": "KOSPI melanjutkan rebound setelah CPI AS meredakan kekhawatiran suku bunga dan hasil CoreWeave serta Nebius menguatkan permintaan infrastruktur AI. Investor asing kembali membeli saham semikonduktor K",
+        "summary": "KOSPI naik untuk sesi keempat karena tekanan inflasi AS mereda dan pembelian asing kembali masuk. CPI Juli sesuai perkiraan, menurunkan kecemasan kenaikan suku bunga. CoreWeave dan Nebius membukukan kinerja kuat yang menegaskan permintaan komputasi AI. Backlog CoreWeave sebesar US$104 miliar setara lebih dari 140 triliun won pada kurs 1.400 won per dolar.",
+        "body": "Kenaikan KOSPI selama empat sesi bukan hanya pantulan teknikal. Pasar merespons bukti bahwa permintaan infrastruktur AI sudah berubah menjadi pendapatan dan kontrak jangka panjang. CPI AS Juli sesuai ekspektasi, sehingga kekhawatiran suku bunga mereda. Nasdaq 100 naik 0,74% dan Nasdaq Composite menguat 0,5%, memulihkan minat pada aset berisiko.\n\nCoreWeave mencatat pendapatan kuartal kedua US$2,575 miliar, naik 112% secara tahunan, dengan backlog US$104 miliar dan komitmen pelanggan baru US$25 miliar pada awal kuartal ketiga. Nebius membukukan pendapatan US$582,3 juta, tumbuh 454%, dan EBITDA disesuaikan US$236,2 juta. Saham CoreWeave naik sekitar 19% dan Nebius sekitar 34%.\n\nBagi Korea, angka ini mendukung ekspektasi atas Samsung Electronics, SK hynix, HBM, DRAM, eSSD, server AI, peralatan listrik dan pendinginan pusat data. Namun risikonya belum hilang. Capex CoreWeave 2026 diperkirakan US$35 miliar hingga US$39 miliar. Biaya utang, konsentrasi pelanggan, volatilitas won dan izin listrik data center tetap menjadi penentu arah berikutnya.",
+        "keywords": [
+          "KOSPI",
+          "investasi AI",
+          "pembelian asing",
+          "CPI AS",
+          "neocloud",
+          "CoreWeave",
+          "Nebius",
+          "saham semikonduktor",
+          "SK hynix",
+          "Samsung Electronics"
+        ],
+        "faq": [
+          {
+            "q": "Mengapa KOSPI naik empat sesi beruntun?",
+            "a": "CPI AS sesuai ekspektasi dan menekan kekhawatiran suku bunga, sementara hasil CoreWeave dan Nebius menegaskan kuatnya permintaan infrastruktur AI."
+          },
+          {
+            "q": "Mengapa neocloud penting bagi pasar Korea?",
+            "a": "Ekspansi GPU cloud meningkatkan permintaan HBM, DRAM, eSSD, server dan peralatan listrik yang terhubung dengan rantai semikonduktor Korea."
+          },
+          {
+            "q": "Apakah rebound ini sudah memastikan tren naik?",
+            "a": "Belum. Permintaan AI positif, tetapi capex tinggi, utang, konsentrasi pelanggan dan volatilitas kurs masih perlu dipantau."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4b38d3350c29",
+    "slug": "코스피에-푹-빠진-세계-최대-국부펀드이-업종선-과감하게-발-뺐다-361844",
+    "channelId": "STOCKS",
+    "category": "stocks",
+    "publishedAt": "2026-08-13T12:21:28.844Z",
+    "updatedAt": "2026-08-13T12:21:28.845Z",
+    "sourceName": "",
+    "sourceUrl": "",
+    "canonicalUrl": "https://www.mk.co.kr/news/stock/12127032",
+    "titleFingerprint": "c0b0363407d55468ff56be3d1c1d5e36a61b6dd8",
+    "dedupKeys": [
+      "4b38d3350c29a18f805335a89fd41a40c9d172b6",
+      "c0b0363407d55468ff56be3d1c1d5e36a61b6dd8",
+      "17635cc245e9f43d6c10a6cd7e35caa85cbac910"
+    ],
+    "imageUrl": "/images/articles/4b38d3350c29.png",
+    "i18n": {
+      "ko": {
+        "title": "코스피 보유액 80조원 찍은 노르웨이 국부펀드, 6개월 새 삼성전기 늘리고 방산·지주 줄였다",
+        "excerpt": "세계 최대 국부펀드인 노르웨이 정부연기금(GPFG)이 최근 6개월 동안 코스피 보유액을 약 80조원으로 두 배 키웠다. 삼성전자·SK하이닉스 추가 매수는 멈췄고 삼성전기 비중은 늘린 반면 SK스퀘어와 LIG넥스원은 줄였다.",
+        "metaDescription": "노르웨이 정부연기금(GPFG)의 코스피 보유액이 최근 6개월 새 약 80조원으로 두 배 확대됐다. 삼성전기 지분 확대, 삼성전자·SK하이닉스 정체, SK스퀘어·LIG넥스원 축소가 한국 증시 수급의 새 신호로 부상했다.",
+        "summary": "노르웨이 정부연기금(GPFG)이 한국 유가증권시장 보유액을 최근 6개월 새 약 80조원으로 키우며 코스피 영향력을 빠르게 넓혔다. 다만 삼성전자와 SK하이닉스에 대한 추가 매집은 확인되지 않아 반도체 대형주 쏠림은 완화됐다. 대신 삼성전기 지분율을 1%포인트 높이고 SK스퀘어와 LIG넥스원은 처분해 업종별 선별 전략을 분명히 했다.",
+        "body": "세계 최대 국부펀드인 노르웨이 정부연기금(GPFG)이 코스피 노출을 빠르게 키우면서도 업종별로는 선명한 선택을 했다. 최근 6개월 동안 GPFG가 보유한 한국 유가증권시장 주식 가치는 약 80조원으로 불어나 반년 전보다 두 배 수준이 됐다. 그러나 한국 대표 반도체주인 삼성전자와 SK하이닉스 추가 매집은 나타나지 않았다. 늘린 곳은 삼성전기였고, 줄인 곳은 SK스퀘어와 LIG넥스원이었다. 코스피 전체에는 강한 베팅, 개별 업종에는 엄격한 선별이라는 결론이다.\n\n## 80조원으로 커진 코스피 장기자금\nGPFG의 한국 주식 확대는 단기 매매보다 장기 포트폴리오 재배분의 성격이 짙다. 원화 기준 약 80조원은 국내 증시에서 외국인 장기자금의 존재감을 단번에 드러내는 규모다. 원화 변동성이 반복되는 환경에서도 한국 주식을 늘렸다는 점은 코스피 대형주의 유동성, 배당 여력, 글로벌 공급망 내 지위를 함께 평가한 결과로 해석된다. 국내 시장에서는 외국인 보유 비중과 대량보유 공시가 수급 판단의 핵심 지표로 쓰인다. 국민연금과 해외 연기금의 보유 변화는 패시브 자금, 액티브 펀드, 개인투자자 심리에 동시에 영향을 준다.\n\n## 삼성전기 확대, 반도체 투톱은 정체\n가장 눈에 띄는 변화는 삼성전기다. GPFG의 삼성전기 지분율은 1%포인트 높아졌다. 삼성전자와 SK하이닉스 추가 매집이 없었던 흐름과 뚜렷하게 대비된다. 이는 한국 기술주 안에서도 메모리 반도체 대형주 일변도보다 전자부품과 소재·부품 밸류체인을 따로 보는 시각이 강해졌다는 신호다. 삼성전기는 코스피 전기·전자 업종에 속하지만, 주가 민감도는 반도체 업황뿐 아니라 부품 수요와 고객사 투자 사이클에도 영향을 받는다. 장기자금이 이 종목을 늘렸다는 사실은 전자부품 업종의 이익 회복 가능성에 대한 시장 관심을 키울 수 있다.\n\n## 방산·지주 축소가 던진 신호\n반대로 SK스퀘어와 LIG넥스원은 처분 대상에 올랐다. SK스퀘어는 투자 지분과 계열 포트폴리오 가치에 따라 할인율 논쟁이 큰 종목이고, LIG넥스원은 방산 수주 기대가 주가에 빠르게 반영돼 온 종목이다. GPFG의 매도는 두 회사의 기초체력 부정이라기보다 높아진 기대와 포트폴리오 균형을 동시에 조정한 움직임으로 읽힌다. 국내 투자자에게 중요한 질문은 단순히 어떤 종목을 샀느냐가 아니다. 80조원 규모의 해외 장기자금이 대형 반도체를 더 사지 않고 전자부품을 늘린 반면 지주·방산을 줄였다는 순서가 더 중요하다. 향후 코스피 수급은 환율, 실적 전망, 외국인 지분 공시, 업종별 밸류에이션 부담에 따라 차별화될 전망이다.",
+        "keywords": [
+          "코스피",
+          "노르웨이 정부연기금",
+          "GPFG",
+          "국부펀드",
+          "삼성전기",
+          "삼성전자",
+          "SK하이닉스",
+          "SK스퀘어",
+          "LIG넥스원",
+          "외국인 수급"
+        ],
+        "faq": [
+          {
+            "q": "노르웨이 정부연기금의 코스피 보유액은 얼마나 늘었나?",
+            "a": "최근 6개월 새 약 80조원으로 늘어 반년 전보다 두 배 수준이 됐다."
+          },
+          {
+            "q": "삼성전자와 SK하이닉스를 추가로 샀나?",
+            "a": "추가 매집은 나타나지 않았다. 반도체 대형주보다 삼성전기 지분 확대가 더 두드러졌다."
+          },
+          {
+            "q": "처분한 종목은 무엇이며 의미는?",
+            "a": "SK스퀘어와 LIG넥스원을 줄였다. 지주·방산 업종의 밸류에이션 부담과 포트폴리오 균형 조정 신호로 해석된다."
+          }
+        ]
+      },
+      "en": {
+        "title": "KOSPI 80 Trillion Won Bet: Norway GPFG Lifts Components, Cuts Defense",
+        "excerpt": "Norway’s Government Pension Fund Global, the world’s largest sovereign wealth fund, doubled its KOSPI holdings in six months to about 80 trillion won. It did not add Samsung Electronics or SK Hynix, but raised Samsung Electro-Mechanics and ",
+        "metaDescription": "Norway’s GPFG doubled its KOSPI holdings to about 80 trillion won in six months, lifting Samsung Electro-Mechanics while cutting SK Square and LIG Nex1.",
+        "summary": "Norway’s Government Pension Fund Global has expanded its Korean stock exposure to about 80 trillion won over six months. The move did not include additional buying of Samsung Electronics or SK Hynix. Instead, GPFG raised its Samsung Electro-Mechanics stake by 1 percentage point and disposed of SK Square and LIG Nex1.",
+        "body": "Norway’s Government Pension Fund Global, the world’s largest sovereign wealth fund, has sharply increased its KOSPI exposure while making a clear sector choice. Its holdings in Korea’s main stock market doubled over six months to about 80 trillion won. Yet it did not add to Samsung Electronics or SK Hynix. The main increase was Samsung Electro-Mechanics, while SK Square and LIG Nex1 were reduced.\n\n## Bigger Korea Allocation\nThe 80 trillion won position gives long-term foreign capital greater weight in Seoul trading. For Korean investors, foreign ownership ratios and large-shareholding disclosures influence liquidity expectations, index flows and retail sentiment. The move points to confidence in KOSPI exposure, not a blanket purchase of every blue chip.\n\n## Sector Split\nSamsung Electro-Mechanics shows a tilt toward electronic components inside Korea’s technology chain. No extra buying in Samsung Electronics and SK Hynix weakens a pure memory-chip interpretation. The sale of SK Square and LIG Nex1 points to caution on holding-company discounts and defense valuations. Future KOSPI flows are likely to diverge by earnings visibility, won volatility and sector valuation.",
+        "keywords": [
+          "KOSPI",
+          "Norway GPFG",
+          "sovereign wealth fund",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "foreign capital",
+          "KOSPI 80 Trillion Wo"
+        ],
+        "faq": [
+          {
+            "q": "How large are GPFG’s KOSPI holdings?",
+            "a": "They rose to about 80 trillion won over the past six months, roughly double the previous level."
+          },
+          {
+            "q": "Did GPFG buy more Samsung Electronics or SK Hynix?",
+            "a": "No additional accumulation appeared in those two semiconductor leaders."
+          },
+          {
+            "q": "Which stocks were reduced?",
+            "a": "SK Square and LIG Nex1 were disposed of, signaling selective caution toward holding-company and defense valuations."
+          }
+        ]
+      },
+      "ja": {
+        "title": "KOSPI保有80兆ウォンのノルウェー政府年金基金、サムスン電機を増やし防衛・持株を削減",
+        "excerpt": "世界最大の政府系ファンドであるノルウェー政府年金基金GPFGは、6カ月でKOSPI保有額を約80兆ウォンへ倍増させた。サムスン電子とSKハイニックスの追加買いはなく、サムスン電機を増やしSKスクエアとLIGネクスワンを減らした。",
+        "metaDescription": "ノルウェー政府年金基金GPFGのKOSPI保有額が6カ月で約80兆ウォンへ倍増。サムスン電機を増やし、SKスクエアとLIGネクスワンを削減した。",
+        "summary": "ノルウェー政府年金基金GPFGは韓国株保有を6カ月で約80兆ウォンへ拡大し、KOSPIでの存在感を強めた。ただしサムスン電子とSKハイニックスの追加買いは見られなかった。代わりにサムスン電機の持ち分を1ポイント高め、SKスクエアとLIGネクスワンを処分した。",
+        "body": "世界最大の政府系ファンドであるノルウェー政府年金基金GPFGは、KOSPIへの投資を大きく増やしながら、業種別には明確な選別を進めた。韓国有価証券市場の保有額は6カ月で約80兆ウォンとなり、半年前の約2倍に拡大した。一方、韓国半導体の代表銘柄であるサムスン電子とSKハイニックスの追加取得はなかった。増やしたのはサムスン電機で、減らしたのはSKスクエアとLIGネクスワンだった。\n\n## 80兆ウォンの長期資金\nこの規模は韓国市場で外国長期資金の影響力を大きく示す。韓国では外国人保有比率や大量保有開示が需給判断の重要な材料になる。GPFGの動きはKOSPI全体への信頼を示すが、すべての大型株を一律に買う姿勢ではない。\n\n## 業種選別の焦点\nサムスン電機の持ち分は1ポイント上昇した。半導体大手への追加買いがない流れと対照的で、電子部品と素材・部品のバリューチェーンを別に評価する姿勢が強まった形だ。SKスクエアとLIGネクスワンの処分は、持株会社ディスカウントと防衛株の評価負担への警戒を示す。今後のKOSPI需給は業績、ウォン相場、業種別バリュエーションで差が出る見通しだ。",
+        "keywords": [
+          "KOSPI",
+          "ノルウェー政府年金基金",
+          "GPFG",
+          "政府系ファンド",
+          "サムスン電機",
+          "サムスン電子",
+          "SKハイニックス",
+          "SKスクエア",
+          "LIGネクスワン",
+          "KOSPI保有80兆ウォンのノルウェー政"
+        ],
+        "faq": [
+          {
+            "q": "GPFGのKOSPI保有額はいくらか。",
+            "a": "最近6カ月で約80兆ウォンとなり、半年前の約2倍に拡大した。"
+          },
+          {
+            "q": "サムスン電子とSKハイニックスを追加取得したのか。",
+            "a": "両銘柄の追加買いは見られず、サムスン電機の増加が目立った。"
+          },
+          {
+            "q": "処分した銘柄は何か。",
+            "a": "SKスクエアとLIGネクスワンを減らし、持株会社と防衛株への選別姿勢を示した。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "挪威主权基金持有韩股约80万亿韩元，增持三星电机并削减防务与控股股",
+        "excerpt": "全球最大主权财富基金挪威政府养老基金GPFG在六个月内将KOSPI持仓扩大至约80万亿韩元。其未追加买入三星电子和SK海力士，却提高三星电机持股，并减持SK Square和LIG Nex1。",
+        "metaDescription": "挪威政府养老基金GPFG六个月内将KOSPI持仓扩大至约80万亿韩元，增持三星电机，减持SK Square与LIG Nex1。",
+        "summary": "挪威政府养老基金GPFG在六个月内把韩国主板持仓扩大至约80万亿韩元，增强了在KOSPI的影响力。三星电子和SK海力士没有出现追加买入。基金转而将三星电机持股比例提高1个百分点，并处置SK Square和LIG Nex1。",
+        "body": "全球最大主权财富基金挪威政府养老基金GPFG正在扩大KOSPI敞口，同时进行明确的行业筛选。其韩国有价证券市场持仓在六个月内增至约80万亿韩元，约为半年前的两倍。不过，韩国半导体代表股三星电子和SK海力士并未出现追加买入。增持对象是三星电机，减持对象则是SK Square和LIG Nex1。\n\n## 80万亿韩元长期资金\n这一规模让外国长期资本在韩国股市的存在感明显上升。对韩国投资者而言，外资持股比例和大宗持股披露会影响流动性预期、指数资金和散户情绪。GPFG的行动显示其看好KOSPI整体敞口，但并非无差别买入所有大型股。\n\n## 行业分化信号\n三星电机持股比例提高1个百分点，和未追加买入三星电子、SK海力士形成对比。这显示资金更重视韩国科技链中的电子零部件，而不是单纯押注存储半导体。SK Square和LIG Nex1被处置，反映对控股公司折价和防务股估值的谨慎。未来KOSPI资金流向将更多取决于盈利可见度、韩元波动和行业估值。",
+        "keywords": [
+          "KOSPI",
+          "挪威政府养老基金",
+          "GPFG",
+          "主权财富基金",
+          "三星电机",
+          "三星电子",
+          "SK海力士",
+          "SK Square",
+          "LIG Nex1",
+          "挪威主权基金持有韩股约80万亿韩元，增持"
+        ],
+        "faq": [
+          {
+            "q": "GPFG的KOSPI持仓规模有多大？",
+            "a": "六个月内增至约80万亿韩元，约为半年前的两倍。"
+          },
+          {
+            "q": "基金是否追加买入三星电子和SK海力士？",
+            "a": "没有出现追加买入，三星电机的持股增加更为突出。"
+          },
+          {
+            "q": "哪些股票被减持？",
+            "a": "SK Square和LIG Nex1被处置，显示对控股公司和防务股估值的选择性谨慎。"
+          }
+        ]
+      },
+      "es": {
+        "title": "KOSPI en 80 billones de wones: GPFG sube Samsung Electro-Mechanics y recorta defensa",
+        "excerpt": "El fondo soberano noruego GPFG, el mayor del mundo, duplicó en seis meses sus posiciones en el KOSPI hasta unos 80 billones de wones. No aumentó Samsung Electronics ni SK Hynix, elevó Samsung Electro-Mechanics y redujo SK Square y LIG Nex1.",
+        "metaDescription": "El GPFG noruego duplicó su exposición al KOSPI hasta unos 80 billones de wones, elevando Samsung Electro-Mechanics y recortando SK Square y LIG Nex1.",
+        "summary": "El Government Pension Fund Global de Noruega amplió sus tenencias en acciones coreanas hasta unos 80 billones de wones en seis meses. No hubo compras adicionales de Samsung Electronics ni SK Hynix. El ajuste clave fue una subida de 1 punto porcentual en Samsung Electro-Mechanics y la venta de SK Square y LIG Nex1.",
+        "body": "El Government Pension Fund Global de Noruega, el mayor fondo soberano del mundo, aumentó con fuerza su exposición al KOSPI, pero con una selección sectorial clara. Sus acciones en el mercado principal de Corea alcanzaron unos 80 billones de wones en seis meses, cerca del doble del nivel previo. No hubo compras adicionales de Samsung Electronics ni de SK Hynix. El incremento se concentró en Samsung Electro-Mechanics, mientras se redujeron SK Square y LIG Nex1.\n\n## Más capital a largo plazo\nUna posición de 80 billones de wones aumenta el peso del capital extranjero estable en Seúl. Para los inversores coreanos, la proporción de propiedad extranjera y las comunicaciones de grandes participaciones influyen en liquidez, flujos de índices y ánimo minorista. El movimiento respalda la exposición al KOSPI, no una compra generalizada de todos los líderes.\n\n## Lectura sectorial\nSamsung Electro-Mechanics subió 1 punto porcentual en la cartera, señalando interés por componentes electrónicos dentro de la cadena tecnológica coreana. La ausencia de más compras en Samsung Electronics y SK Hynix limita la lectura de una apuesta pura por memoria. Las ventas de SK Square y LIG Nex1 reflejan cautela sobre descuentos de holding y valoraciones de defensa.",
+        "keywords": [
+          "KOSPI",
+          "GPFG Noruega",
+          "fondo soberano",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "capital extranjero",
+          "KOSPI en 80 billones"
+        ],
+        "faq": [
+          {
+            "q": "¿Cuánto posee GPFG en el KOSPI?",
+            "a": "Sus tenencias subieron a unos 80 billones de wones en seis meses, casi el doble del nivel anterior."
+          },
+          {
+            "q": "¿Compró más Samsung Electronics o SK Hynix?",
+            "a": "No aparecieron compras adicionales en esos dos líderes de semiconductores."
+          },
+          {
+            "q": "¿Qué valores redujo?",
+            "a": "Redujo SK Square y LIG Nex1, señal de cautela selectiva en holdings y defensa."
+          }
+        ]
+      },
+      "pt": {
+        "title": "KOSPI a 80 trilhões de wons: GPFG amplia Samsung Electro-Mechanics e corta defesa",
+        "excerpt": "O fundo soberano norueguês GPFG, o maior do mundo, dobrou em seis meses sua posição no KOSPI para cerca de 80 trilhões de wons. Não ampliou Samsung Electronics nem SK Hynix, mas elevou Samsung Electro-Mechanics e reduziu SK Square e LIG Nex",
+        "metaDescription": "O GPFG da Noruega dobrou sua exposição ao KOSPI para cerca de 80 trilhões de wons, aumentando Samsung Electro-Mechanics e cortando SK Square e LIG Nex1.",
+        "summary": "O Government Pension Fund Global da Noruega elevou suas posições em ações coreanas para cerca de 80 trilhões de wons em seis meses. Samsung Electronics e SK Hynix não tiveram compras adicionais. O fundo aumentou a participação em Samsung Electro-Mechanics em 1 ponto percentual e vendeu SK Square e LIG Nex1.",
+        "body": "O Government Pension Fund Global da Noruega, maior fundo soberano do mundo, ampliou fortemente a exposição ao KOSPI, mas com seleção setorial clara. As posições no principal mercado acionário coreano chegaram a cerca de 80 trilhões de wons em seis meses, quase o dobro do nível anterior. Não houve compras adicionais de Samsung Electronics ou SK Hynix. O aumento ficou em Samsung Electro-Mechanics, enquanto SK Square e LIG Nex1 foram reduzidas.\n\n## Mais capital de longo prazo\nUma posição de 80 trilhões de wons dá maior peso ao capital estrangeiro estável em Seul. Para investidores coreanos, participação estrangeira e divulgações de grandes posições afetam expectativas de liquidez, fluxos de índices e sentimento de varejo. O movimento mostra confiança no KOSPI, não uma compra indiscriminada de blue chips.\n\n## Divisão por setor\nA fatia em Samsung Electro-Mechanics subiu 1 ponto percentual, indicando interesse por componentes eletrônicos na cadeia tecnológica coreana. A falta de compras extras em Samsung Electronics e SK Hynix reduz a leitura de aposta pura em memória. A venda de SK Square e LIG Nex1 sinaliza cautela com descontos de holdings e avaliações de defesa.",
+        "keywords": [
+          "KOSPI",
+          "GPFG Noruega",
+          "fundo soberano",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "capital estrangeiro",
+          "KOSPI a 80 trilhões"
+        ],
+        "faq": [
+          {
+            "q": "Qual é o tamanho da posição do GPFG no KOSPI?",
+            "a": "Ela chegou a cerca de 80 trilhões de wons em seis meses, quase o dobro do nível anterior."
+          },
+          {
+            "q": "O fundo comprou mais Samsung Electronics ou SK Hynix?",
+            "a": "Não houve compras adicionais nesses dois líderes de semicondutores."
+          },
+          {
+            "q": "Quais ações foram reduzidas?",
+            "a": "SK Square e LIG Nex1 foram vendidas, indicando cautela em holdings e defesa."
+          }
+        ]
+      },
+      "de": {
+        "title": "KOSPI-Wette über 80 Billionen Won: Norwegens GPFG erhöht Komponenten und kürzt Rüstung",
+        "excerpt": "Norwegens Government Pension Fund Global, der größte Staatsfonds der Welt, verdoppelte seine KOSPI-Bestände in sechs Monaten auf rund 80 Billionen Won. Samsung Electronics und SK Hynix wurden nicht aufgestockt, Samsung Electro-Mechanics dag",
+        "metaDescription": "Norwegens GPFG verdoppelte seine KOSPI-Position auf rund 80 Billionen Won, erhöhte Samsung Electro-Mechanics und reduzierte SK Square sowie LIG Nex1.",
+        "summary": "Norwegens Government Pension Fund Global baute seine koreanischen Aktienbestände in sechs Monaten auf rund 80 Billionen Won aus. Zusätzliche Käufe von Samsung Electronics und SK Hynix blieben aus. Stattdessen stieg der Anteil an Samsung Electro-Mechanics um 1 Prozentpunkt, während SK Square und LIG Nex1 verkauft wurden.",
+        "body": "Norwegens Government Pension Fund Global, der größte Staatsfonds der Welt, hat seine KOSPI-Exponierung kräftig erhöht und zugleich klar nach Sektoren ausgewählt. Die Bestände am koreanischen Hauptmarkt stiegen in sechs Monaten auf rund 80 Billionen Won und damit etwa auf das Doppelte. Zusätzliche Käufe von Samsung Electronics und SK Hynix gab es nicht. Aufgestockt wurde Samsung Electro-Mechanics, reduziert wurden SK Square und LIG Nex1.\n\n## Mehr Langfristkapital\nEine Position von 80 Billionen Won stärkt das Gewicht ausländischen Langfristkapitals in Seoul. Für koreanische Anleger prägen Ausländeranteile und Meldungen großer Beteiligungen Erwartungen zu Liquidität, Indexflüssen und Privatanlegerstimmung. Der Schritt zeigt Vertrauen in den KOSPI, aber keinen Pauschalkauf aller Schwergewichte.\n\n## Sektorale Lesart\nDer Anteil an Samsung Electro-Mechanics stieg um 1 Prozentpunkt und signalisiert Interesse an elektronischen Komponenten in Koreas Technologiekette. Die fehlenden Zukäufe bei Samsung Electronics und SK Hynix sprechen gegen eine reine Speicherchip-Wette. Verkäufe von SK Square und LIG Nex1 deuten auf Vorsicht bei Holdingabschlägen und Rüstungsbewertungen.",
+        "keywords": [
+          "KOSPI",
+          "Norwegen GPFG",
+          "Staatsfonds",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "Auslandskapital",
+          "KOSPI-Wette über 80"
+        ],
+        "faq": [
+          {
+            "q": "Wie groß ist die KOSPI-Position des GPFG?",
+            "a": "Sie stieg in sechs Monaten auf rund 80 Billionen Won und lag damit etwa doppelt so hoch wie zuvor."
+          },
+          {
+            "q": "Wurden Samsung Electronics und SK Hynix aufgestockt?",
+            "a": "Nein, bei diesen beiden Halbleiterführern gab es keine zusätzlichen Käufe."
+          },
+          {
+            "q": "Welche Aktien wurden reduziert?",
+            "a": "SK Square und LIG Nex1 wurden verkauft, was selektive Vorsicht bei Holdings und Rüstung zeigt."
+          }
+        ]
+      },
+      "fr": {
+        "title": "KOSPI à 80 billions de wons: le GPFG norvégien renforce les composants et coupe la défense",
+        "excerpt": "Le GPFG norvégien, plus grand fonds souverain mondial, a doublé en six mois ses avoirs sur le KOSPI à environ 80 billions de wons. Il n’a pas renforcé Samsung Electronics ni SK Hynix, mais a accru Samsung Electro-Mechanics et réduit SK Squa",
+        "metaDescription": "Le GPFG norvégien a doublé son exposition au KOSPI à environ 80 billions de wons, augmentant Samsung Electro-Mechanics et réduisant SK Square et LIG Nex1.",
+        "summary": "Le Government Pension Fund Global de Norvège a porté ses actions coréennes à environ 80 billions de wons en six mois. Aucun achat supplémentaire n’est apparu sur Samsung Electronics ou SK Hynix. Le fonds a relevé sa participation dans Samsung Electro-Mechanics de 1 point et cédé SK Square et LIG Nex1.",
+        "body": "Le Government Pension Fund Global de Norvège, plus grand fonds souverain mondial, a fortement accru son exposition au KOSPI tout en opérant une sélection sectorielle nette. Ses avoirs sur le principal marché coréen ont atteint environ 80 billions de wons en six mois, soit près du double. Samsung Electronics et SK Hynix n’ont pas été renforcés. La hausse concerne Samsung Electro-Mechanics, tandis que SK Square et LIG Nex1 ont été réduits.\n\n## Plus de capital long terme\nUne position de 80 billions de wons donne davantage de poids au capital étranger durable à Séoul. Pour les investisseurs coréens, les taux de détention étrangère et les déclarations de grandes participations influencent la liquidité, les flux indiciels et le moral des particuliers. Le mouvement traduit une confiance dans le KOSPI, pas un achat uniforme de toutes les grandes valeurs.\n\n## Lecture sectorielle\nLa participation dans Samsung Electro-Mechanics a augmenté de 1 point, signalant un intérêt pour les composants électroniques de la chaîne technologique coréenne. L’absence d’achats supplémentaires sur Samsung Electronics et SK Hynix limite l’idée d’un pari pur sur la mémoire. Les ventes de SK Square et LIG Nex1 indiquent une prudence sur les décotes de holdings et les valorisations de défense.",
+        "keywords": [
+          "KOSPI",
+          "GPFG Norvège",
+          "fonds souverain",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "capital étranger",
+          "KOSPI à 80 billions"
+        ],
+        "faq": [
+          {
+            "q": "Quelle est la taille des avoirs KOSPI du GPFG ?",
+            "a": "Ils ont atteint environ 80 billions de wons en six mois, près du double du niveau précédent."
+          },
+          {
+            "q": "Le fonds a-t-il acheté davantage Samsung Electronics ou SK Hynix ?",
+            "a": "Aucun achat supplémentaire n’est apparu sur ces deux leaders des semi-conducteurs."
+          },
+          {
+            "q": "Quels titres ont été réduits ?",
+            "a": "SK Square et LIG Nex1 ont été cédés, signe de prudence envers les holdings et la défense."
+          }
+        ]
+      },
+      "ar": {
+        "title": "رهان كوسبي عند 80 تريليون وون: صندوق النرويج يزيد المكونات ويخفض الدفاع",
+        "excerpt": "ضاعف صندوق التقاعد الحكومي النرويجي GPFG، أكبر صندوق ثروة سيادي في العالم، حيازته في كوسبي خلال ستة أشهر إلى نحو 80 تريليون وون. لم يزد Samsung Electronics أو SK Hynix، بل رفع Samsung Electro-Mechanics وخفض SK Square وLIG Nex1.",
+        "metaDescription": "ضاعف صندوق GPFG النرويجي انكشافه على كوسبي إلى نحو 80 تريليون وون، مع زيادة Samsung Electro-Mechanics وخفض SK Square وLIG Nex1.",
+        "summary": "رفع صندوق التقاعد الحكومي النرويجي GPFG حيازاته في الأسهم الكورية إلى نحو 80 تريليون وون خلال ستة أشهر. لم تظهر مشتريات إضافية في Samsung Electronics أو SK Hynix. بدلا من ذلك، زاد الصندوق حصته في Samsung Electro-Mechanics بنقطة مئوية واحدة وباع SK Square وLIG Nex1.",
+        "body": "زاد صندوق التقاعد الحكومي النرويجي GPFG، أكبر صندوق ثروة سيادي في العالم، انكشافه على كوسبي بقوة مع اختيار قطاعي واضح. بلغت حيازاته في السوق الكورية الرئيسية نحو 80 تريليون وون خلال ستة أشهر، أي ما يقارب ضعف المستوى السابق. لم تظهر مشتريات إضافية في Samsung Electronics أو SK Hynix. الزيادة الأبرز كانت في Samsung Electro-Mechanics، بينما جرى خفض SK Square وLIG Nex1.\n\n## رأسمال طويل الأجل\nحجم 80 تريليون وون يمنح رأس المال الأجنبي طويل الأجل وزنا أكبر في سوق سول. بالنسبة للمستثمرين الكوريين، تؤثر نسب الملكية الأجنبية وإفصاحات الحيازات الكبيرة في توقعات السيولة وتدفقات المؤشرات ومعنويات الأفراد. التحرك يعني ثقة في كوسبي ككل، لا شراء عشوائيا لكل الأسهم الكبرى.\n\n## قراءة القطاعات\nارتفعت حصة Samsung Electro-Mechanics بنقطة مئوية واحدة، ما يشير إلى اهتمام بالمكونات الإلكترونية داخل سلسلة التكنولوجيا الكورية. غياب الزيادة في Samsung Electronics وSK Hynix يضعف قراءة الرهان الخالص على شرائح الذاكرة. بيع SK Square وLIG Nex1 يظهر حذرا تجاه خصومات الشركات القابضة وتقييمات الدفاع.",
+        "keywords": [
+          "كوسبي",
+          "GPFG النرويج",
+          "صندوق سيادي",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "رأس المال الأجنبي",
+          "رهان كوسبي عند 80 تر"
+        ],
+        "faq": [
+          {
+            "q": "ما حجم حيازة GPFG في كوسبي؟",
+            "a": "ارتفعت إلى نحو 80 تريليون وون خلال ستة أشهر، أي قرابة ضعف المستوى السابق."
+          },
+          {
+            "q": "هل اشترى الصندوق مزيدا من Samsung Electronics أو SK Hynix؟",
+            "a": "لم تظهر مشتريات إضافية في هذين الاسمين القياديين في أشباه الموصلات."
+          },
+          {
+            "q": "ما الأسهم التي خفضها؟",
+            "a": "خفض SK Square وLIG Nex1، في إشارة إلى حذر انتقائي تجاه القابضات والدفاع."
+          }
+        ]
+      },
+      "hi": {
+        "title": "KOSPI में 80 ट्रिलियन वॉन दांव: नॉर्वे GPFG ने कंपोनेंट बढ़ाए, डिफेंस घटाया",
+        "excerpt": "दुनिया के सबसे बड़े सॉवरेन वेल्थ फंड नॉर्वे GPFG ने छह महीनों में KOSPI होल्डिंग लगभग 80 ट्रिलियन वॉन तक दोगुनी कर दी। Samsung Electronics और SK Hynix में अतिरिक्त खरीद नहीं हुई, जबकि Samsung Electro-Mechanics बढ़ी और SK Square तथा LIG Nex1",
+        "metaDescription": "नॉर्वे GPFG ने KOSPI एक्सपोजर छह महीनों में लगभग 80 ट्रिलियन वॉन तक दोगुना किया, Samsung Electro-Mechanics बढ़ाई और SK Square व LIG Nex1 घटाए।",
+        "summary": "नॉर्वे के Government Pension Fund Global ने छह महीनों में कोरियाई शेयर होल्डिंग लगभग 80 ट्रिलियन वॉन तक बढ़ाई। Samsung Electronics और SK Hynix में अतिरिक्त खरीद नहीं दिखी। फंड ने Samsung Electro-Mechanics में हिस्सेदारी 1 प्रतिशत अंक बढ़ाई और SK Square तथा LIG Nex1 बेचे।",
+        "body": "दुनिया के सबसे बड़े सॉवरेन वेल्थ फंड नॉर्वे GPFG ने KOSPI में एक्सपोजर तेज़ी से बढ़ाया, लेकिन सेक्टर चयन साफ रखा। कोरिया के मुख्य शेयर बाजार में उसकी होल्डिंग छह महीनों में लगभग 80 ट्रिलियन वॉन हो गई, जो पहले से करीब दोगुनी है। Samsung Electronics और SK Hynix में अतिरिक्त खरीद नहीं हुई। बढ़ोतरी Samsung Electro-Mechanics में दिखी, जबकि SK Square और LIG Nex1 घटाए गए।\n\n## लंबी अवधि की पूंजी\n80 ट्रिलियन वॉन की स्थिति सियोल बाजार में विदेशी लंबी अवधि की पूंजी का वजन बढ़ाती है। कोरियाई निवेशकों के लिए विदेशी स्वामित्व अनुपात और बड़ी हिस्सेदारी के खुलासे तरलता, इंडेक्स फ्लो और खुदरा भावना को प्रभावित करते हैं। यह कदम KOSPI पर भरोसा दिखाता है, सभी ब्लू-चिप शेयरों की अंधाधुंध खरीद नहीं।\n\n## सेक्टर संकेत\nSamsung Electro-Mechanics में हिस्सेदारी 1 प्रतिशत अंक बढ़ी, जो कोरिया की टेक चेन में इलेक्ट्रॉनिक कंपोनेंट्स की ओर झुकाव दिखाती है। Samsung Electronics और SK Hynix में नई खरीद न होना इसे सिर्फ मेमोरी चिप दांव नहीं रहने देता। SK Square और LIG Nex1 की बिक्री होल्डिंग कंपनी डिस्काउंट और डिफेंस वैल्यूएशन पर सतर्कता दिखाती है।",
+        "keywords": [
+          "KOSPI",
+          "नॉर्वे GPFG",
+          "सॉवरेन वेल्थ फंड",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "विदेशी पूंजी",
+          "KOSPI में 80 ट्रिलिय"
+        ],
+        "faq": [
+          {
+            "q": "GPFG की KOSPI होल्डिंग कितनी है?",
+            "a": "यह छह महीनों में लगभग 80 ट्रिलियन वॉन हो गई, यानी पहले से करीब दोगुनी।"
+          },
+          {
+            "q": "क्या Samsung Electronics या SK Hynix में और खरीद हुई?",
+            "a": "इन दोनों सेमीकंडक्टर नेताओं में अतिरिक्त खरीद नहीं दिखी।"
+          },
+          {
+            "q": "कौन से शेयर घटाए गए?",
+            "a": "SK Square और LIG Nex1 बेचे गए, जो होल्डिंग और डिफेंस वैल्यूएशन पर चयनात्मक सतर्कता दिखाते हैं।"
+          }
+        ]
+      },
+      "id": {
+        "title": "Taruhan KOSPI 80 Triliun Won: GPFG Norwegia Naikkan Komponen dan Pangkas Pertahanan",
+        "excerpt": "Government Pension Fund Global Norwegia, dana kekayaan negara terbesar dunia, menggandakan kepemilikan KOSPI dalam enam bulan menjadi sekitar 80 triliun won. Tidak ada tambahan pada Samsung Electronics atau SK Hynix, sementara Samsung Elect",
+        "metaDescription": "GPFG Norwegia menggandakan eksposur KOSPI menjadi sekitar 80 triliun won, menaikkan Samsung Electro-Mechanics dan memangkas SK Square serta LIG Nex1.",
+        "summary": "Government Pension Fund Global Norwegia memperbesar kepemilikan saham Korea menjadi sekitar 80 triliun won dalam enam bulan. Tidak terlihat tambahan pembelian pada Samsung Electronics dan SK Hynix. Dana itu menaikkan porsi Samsung Electro-Mechanics sebesar 1 poin persentase dan melepas SK Square serta LIG Nex1.",
+        "body": "Government Pension Fund Global Norwegia, dana kekayaan negara terbesar dunia, menaikkan eksposur KOSPI secara tajam sambil tetap selektif per sektor. Kepemilikannya di pasar utama Korea mencapai sekitar 80 triliun won dalam enam bulan, hampir dua kali lipat dari posisi sebelumnya. Tidak ada tambahan pembelian pada Samsung Electronics dan SK Hynix. Kenaikan utama terjadi pada Samsung Electro-Mechanics, sedangkan SK Square dan LIG Nex1 dikurangi.\n\n## Modal Jangka Panjang\nPosisi 80 triliun won membuat modal asing jangka panjang lebih berpengaruh di Seoul. Bagi investor Korea, rasio kepemilikan asing dan pengungkapan kepemilikan besar memengaruhi ekspektasi likuiditas, arus indeks, dan sentimen ritel. Langkah ini menunjukkan keyakinan pada KOSPI, bukan pembelian merata semua saham unggulan.\n\n## Sinyal Sektor\nPorsi Samsung Electro-Mechanics naik 1 poin persentase, menandai minat pada komponen elektronik dalam rantai teknologi Korea. Tidak adanya tambahan di Samsung Electronics dan SK Hynix mengurangi tafsir sebagai taruhan murni pada cip memori. Penjualan SK Square dan LIG Nex1 menunjukkan kehati-hatian terhadap diskon perusahaan holding dan valuasi pertahanan.",
+        "keywords": [
+          "KOSPI",
+          "GPFG Norwegia",
+          "dana kekayaan negara",
+          "Samsung Electro-Mechanics",
+          "Samsung Electronics",
+          "SK Hynix",
+          "SK Square",
+          "LIG Nex1",
+          "modal asing",
+          "Taruhan KOSPI 80 Tri"
+        ],
+        "faq": [
+          {
+            "q": "Berapa besar kepemilikan GPFG di KOSPI?",
+            "a": "Kepemilikannya naik menjadi sekitar 80 triliun won dalam enam bulan, hampir dua kali lipat dari sebelumnya."
+          },
+          {
+            "q": "Apakah GPFG menambah Samsung Electronics atau SK Hynix?",
+            "a": "Tidak ada tambahan pembelian pada dua pemimpin semikonduktor tersebut."
+          },
+          {
+            "q": "Saham apa yang dikurangi?",
+            "a": "SK Square dan LIG Nex1 dikurangi, menandakan kehati-hatian selektif pada holding dan pertahanan."
+          }
+        ]
+      }
+    }
+  },
+  {
     "id": "c23bc950bd7d",
     "slug": "대화하듯-주식-거래토스증권-오픈api-출시-925821",
     "channelId": "STOCKS",
@@ -21908,772 +22674,6 @@
           {
             "q": "Apa makna KOSDAQ masuk posisi 10 pencarian?",
             "a": "Itu menunjukkan saham pertumbuhan dan teknologi menengah kecil tetap dipantau di samping saham semikonduktor besar."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "7139f2868baf",
-    "slug": "성장-자신-없으면-돈-쌓지말고-배당부터8천피에도-한국증시가-싼-이유-여의도란도란-150143",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-07-05T06:14:53.807Z",
-    "updatedAt": "2026-07-05T06:14:53.808Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12090492",
-    "titleFingerprint": "098d88f9a38dff9582aa852fd64395a7622a77c8",
-    "dedupKeys": [
-      "7139f2868baff1a58fdbf5fa771656b2a35cb1c9",
-      "098d88f9a38dff9582aa852fd64395a7622a77c8",
-      "a377b6a9b9df0606ab42c19e7e4519f37afa5058"
-    ],
-    "imageUrl": "/images/articles/7139f2868baf.png",
-    "i18n": {
-      "ko": {
-        "title": "코스피 8000 시대에도 한국증시 저평가, PBR 1배 미만 기업이 가른다",
-        "excerpt": "코스피가 장기 상승 국면에서 S&P500을 앞질렀지만 반도체 효과를 제외하면 한국 상장사의 과반이 PBR 1배 미만에 머물러 주주환원과 성장 비전이 핵심 변수로 떠올랐다.",
-        "metaDescription": "코스피 8000 시대에도 한국증시가 저평가된 이유는 반도체 쏠림과 낮은 PBR이다. 배당, 자사주, 성장 비전이 기업가치를 가른다.",
-        "summary": "코스피는 장기 수익률에서 S&P500을 넘어서는 구간에 진입했지만 한국증시 전체가 비싸졌다고 보기 어렵다. 반도체 대형주의 착시를 걷어내면 상장사 과반은 여전히 PBR 1배 미만이다. 성장성을 증명하지 못하는 기업은 현금을 쌓기보다 배당과 자사주 소각으로 자본 효율을 높여야 한다. 한국 시장의 다음 재평가는 주주환원과 사업 비전의 검증에서 갈린다.",
-        "body": "코스피 8000 시대가 열려도 한국증시의 저평가 논란은 끝나지 않는다. 지수는 역사적 고점을 새로 쓰고 S&P500을 넘어서는 성과를 냈지만, 시장 내부를 들여다보면 상승의 상당 부분은 반도체 대형주가 만든 집중 효과다. 반도체를 제외하면 한국 상장사의 절반 이상은 여전히 주가순자산비율, PBR 1배를 밑돈다. 장부가치보다 낮은 가격에 거래되는 기업이 많다는 뜻이다. 성장을 자신하지 못하는 기업이 현금을 쌓아두는 시대는 빠르게 저물고 있다.\n\n## 반도체가 가린 코스피의 민낯\n1980년 1월 한국 코스피는 100선에서 출발했다. 이후 수십 년 동안 외환위기, 금융위기, 코로나19 충격을 지나며 기업 이익과 수출 산업은 커졌다. 지수가 8000선을 바라보는 국면은 한국 기업의 체력이 달라졌다는 신호다. 그러나 지수 상승을 곧바로 모든 상장사의 재평가로 해석하기는 어렵다. 시가총액 상위 반도체 기업의 이익 전망과 글로벌 인공지능 투자 사이클이 지수를 강하게 끌어올렸기 때문이다. 원화 기준 시가총액은 커졌지만, 업종별 온도 차는 더 벌어졌다.\n\nPBR 1배 미만 기업이 과반이라는 사실은 투자자에게 분명한 질문을 던진다. 시장은 왜 이 기업들의 순자산을 온전히 인정하지 않는가. 답은 낮은 자기자본이익률, 불투명한 자본 배분, 약한 주주환원, 설득력 부족한 성장 전략에 있다. 기업이 보유한 현금과 자산이 실제 이익 성장으로 연결되지 않으면 주가는 장부가치 아래에서 움직인다. 한국 투자자가 말하는 코리아 디스카운트는 단순한 할인율 문제가 아니라 자본 효율의 문제다.\n\n## 성장 없으면 배당이 먼저다\n기업가치 제고의 기준은 더 엄격해졌다. 성장 기업은 연구개발, 설비투자, 해외 진출을 통해 미래 현금흐름을 입증해야 한다. 반대로 뚜렷한 성장 계획이 없는 기업은 남는 자본을 배당, 자사주 매입과 소각, 부채 축소로 돌려야 한다. 국내 밸류업 정책도 이 방향과 맞물린다. 정부와 거래소가 요구하는 핵심은 주가를 억지로 끌어올리는 구호가 아니라 이사회가 자본 비용보다 높은 수익을 만들 수 있는지 보여주는 것이다.\n\n원화 약세와 고금리 환경은 이 압박을 더 키운다. 투자자는 예금, 채권, 미국 주식과 비교해 한국 주식의 기대수익률을 따진다. 배당수익률이 낮고 이익 성장도 약한 기업은 선택받기 어렵다. 반면 안정적인 현금흐름을 바탕으로 배당을 늘리고 자사주를 소각하는 기업은 낮은 PBR에서 벗어날 가능성이 커진다. 국민연금과 기관투자가의 스튜어드십 코드, 소액주주의 의결권 행사 확대도 경영진의 자본 배분 결정을 더 촘촘히 감시하게 만든다.\n\n## 시장 재평가는 선별적으로 온다\n앞으로의 한국증시는 지수보다 기업별 차별화가 더 중요해진다. 반도체 슈퍼사이클이 이어지면 코스피 전체 지수는 추가 상승 동력을 얻을 수 있다. 하지만 지수 상승이 곧 모든 종목의 상승을 뜻하지는 않는다. 낮은 PBR만으로는 투자 매력이 부족하다. 시장은 낮은 가격보다 낮은 가격이 해소될 이유를 요구한다.\n\n투자자가 확인해야 할 핵심은 세 가지다. 첫째, 기업이 자기자본이익률을 높일 현실적 계획을 갖고 있는가. 둘째, 남는 현금을 주주에게 돌려줄 정책이 명확한가. 셋째, 이사회와 경영진이 목표 PBR, 배당성향, 자사주 소각 원칙을 숫자로 제시하는가. 이 조건을 충족하는 기업은 코스피 8000 이후에도 재평가를 받을 수 있다. 그렇지 못한 기업은 현금 보유액이 많아도 시장에서 도태될 가능성이 커진다. 한국증시가 싸다는 말은 더 이상 모든 기업에 주어지는 면죄부가 아니다. 싸지만 바뀌는 기업만 살아남는 장세가 시작됐다.",
-        "keywords": [
-          "코스피 8000",
-          "한국증시 저평가",
-          "PBR 1배 미만",
-          "코리아 디스카운트",
-          "배당 확대",
-          "자사주 소각",
-          "반도체 주식",
-          "밸류업 정책",
-          "주주환원",
-          "코스피 8000 시대에도 한국증시 저"
-        ],
-        "faq": [
-          {
-            "q": "코스피가 올랐는데도 한국증시가 저평가됐다는 이유는 무엇인가?",
-            "a": "지수 상승이 반도체 대형주에 집중됐고, 반도체 효과를 제외하면 상장사 과반이 PBR 1배 미만에 머물러 있기 때문이다."
-          },
-          {
-            "q": "PBR 1배 미만은 어떤 의미인가?",
-            "a": "주가가 회사의 장부상 순자산가치보다 낮게 평가된다는 뜻이다. 시장이 성장성, 수익성, 자본 배분을 충분히 신뢰하지 않는 경우가 많다."
-          },
-          {
-            "q": "성장성이 약한 기업은 무엇을 해야 하나?",
-            "a": "현금을 무작정 쌓기보다 배당 확대, 자사주 매입과 소각, 부채 축소 등으로 자본 효율과 주주환원을 높여야 한다."
-          }
-        ]
-      },
-      "en": {
-        "title": "KOSPI at 8,000 Still Looks Cheap as Korea’s Low-PBR Stocks Face a Test",
-        "excerpt": "Even as the KOSPI outpaces the S&P 500 in a long rally, more than half of listed Korean companies remain below 1 times book value once the semiconductor effect is stripped out.",
-        "metaDescription": "Korea’s stock market remains undervalued despite a KOSPI 8,000 era, with low PBR stocks, dividends, buybacks and growth credibility in focus.",
-        "summary": "The KOSPI has entered a powerful long-term rally, but the broader Korean market is not uniformly expensive. Semiconductor giants have lifted the index, while many listed companies still trade below book value. Firms without a credible growth path face pressure to return capital through dividends and buybacks. Korea’s next re-rating will depend on shareholder",
-        "body": "A KOSPI 8,000 era does not end the debate over Korea’s stock market discount. The index has reached new highs and has outperformed the S&P 500 over key long-term periods, but the rally is heavily shaped by large semiconductor names. Excluding that effect, more than half of Korean listed companies still trade below 1 times price-to-book value. That means the market values many firms at less than their accounting net assets.\n\n## Semiconductors Mask the Broader Market\nThe KOSPI began near 100 in January 1980 and has climbed through currency crises, global financial shocks and the pandemic. The move toward 8,000 reflects stronger Korean exporters and larger corporate earnings. Yet the index cannot be read as a full-market re-rating. Semiconductor leaders tied to artificial intelligence investment have done much of the lifting, while many domestic, industrial and mid-cap names remain overlooked.\n\nA PBR below 1 sends a clear message. Investors doubt whether assets and cash on the balance sheet can produce enough future profit. Weak return on equity, vague capital allocation, limited dividends and unclear growth plans all keep valuations depressed. The Korea discount is no longer only about macro risk; it is about whether boards can earn more than their cost of capital.\n\n## Without Growth, Cash Should Go Back\nCompanies with real growth prospects must prove them through investment, exports, research and future cash flow. Companies without that proof need to raise dividends, buy back and cancel shares, or reduce debt. Korea’s value-up agenda points in the same direction. The market wants numbers, not slogans: target returns, payout ratios and capital plans.\n\nFor investors, the next phase is likely to be selective. A continuing semiconductor cycle may support the headline KOSPI, but low valuation alone is not enough. Stocks need a clear reason for the discount to narrow. Firms that improve return on equity and shareholder returns can break away from low PBR levels. Firms that simply hold cash without a convincing plan risk falling further behind.",
-        "keywords": [
-          "KOSPI 8000",
-          "Korean stocks",
-          "low PBR",
-          "Korea discount",
-          "dividends",
-          "share buybacks",
-          "semiconductor stocks",
-          "value-up program",
-          "shareholder returns",
-          "KOSPI at 8,000 Still"
-        ],
-        "faq": [
-          {
-            "q": "Why can Korean stocks still look cheap after a strong KOSPI rally?",
-            "a": "Because much of the index gain is concentrated in semiconductor leaders, while more than half of listed companies remain below 1 times book value."
-          },
-          {
-            "q": "What does a PBR below 1 mean?",
-            "a": "It means the market values a company below its book net assets, often because investors doubt its profitability, growth or capital allocation."
-          },
-          {
-            "q": "What should low-growth companies do?",
-            "a": "They should improve capital efficiency through dividends, share buybacks, cancellations and clearer balance-sheet discipline."
-          }
-        ]
-      },
-      "ja": {
-        "title": "KOSPI8000時代でも韓国株は割安、PBR1倍割れ企業が選別の焦点",
-        "excerpt": "KOSPIは長期上昇局面でS&P500を上回ったが、半導体効果を除くと韓国上場企業の過半がPBR1倍未満にとどまり、成長戦略と株主還元が焦点になっている。",
-        "metaDescription": "KOSPI8000時代でも韓国株が割安とされる理由は半導体偏重と低PBR。配当、自社株消却、成長力が再評価を左右する。",
-        "summary": "KOSPIは力強い上昇局面に入ったが、韓国株全体が割高になったわけではない。半導体大手が指数を押し上げる一方、上場企業の多くはPBR1倍未満にある。成長を示せない企業は現金を抱えるより配当や自社株消却を進める必要がある。次の再評価は資本効率で決まる。",
-        "body": "KOSPIが8000を視野に入れても、韓国株の割安論は消えない。指数は高値を更新し、長期成績でS&P500を上回る場面も出ている。しかし上昇の大部分は大型半導体株が作った集中効果だ。半導体を除けば、韓国上場企業の過半はなおPBR1倍未満で取引されている。これは市場が多くの企業を帳簿上の純資産より低く評価していることを意味する。\n\n## 半導体が隠す市場の実像\nKOSPIは1980年1月に100水準から始まり、通貨危機、金融危機、コロナ禍を経て成長した。8000水準への接近は韓国企業の収益力が強まった証拠だ。ただし指数上昇を市場全体の再評価と見るのは早い。人工知能投資サイクルに乗った半導体企業が指数を強く押し上げ、内需株や中小型株との温度差は広がっている。\n\nPBR1倍割れは明確な警告だ。投資家は資産や現金が将来利益に結びつくかを疑っている。低いROE、不透明な資本配分、弱い配当政策、説得力を欠く成長戦略が評価を抑えている。韓国ディスカウントは単なるマクロ要因ではなく、資本効率の問題になっている。\n\n## 成長がなければ還元が先\n成長企業は研究開発、設備投資、海外展開で将来キャッシュフローを示す必要がある。成長を証明できない企業は、余剰資金を配当、自社株買いと消却、債務削減に回すべきだ。韓国のバリューアップ政策も同じ方向を向く。市場が求めるのはスローガンではなく、目標ROE、配当性向、自己株消却の具体的な数字だ。\n\n今後の韓国株は指数より銘柄選別が重要になる。半導体サイクルが続けばKOSPIはさらに上昇余地を得るが、低PBRだけでは投資理由にならない。割安が解消される根拠を示す企業だけが再評価を受ける。現金を抱えるだけの企業は市場から置き去りにされる可能性が高い。",
-        "keywords": [
-          "KOSPI8000",
-          "韓国株",
-          "低PBR",
-          "韓国ディスカウント",
-          "配当拡大",
-          "自社株消却",
-          "半導体株",
-          "バリューアップ",
-          "株主還元",
-          "KOSPI8000時代でも韓国株は割安、"
-        ],
-        "faq": [
-          {
-            "q": "KOSPIが上昇しても韓国株が割安とされる理由は何ですか。",
-            "a": "上昇が半導体大手に集中し、半導体効果を除くと上場企業の過半がPBR1倍未満にあるためです。"
-          },
-          {
-            "q": "PBR1倍未満は何を意味しますか。",
-            "a": "株価が帳簿上の純資産を下回る評価で、収益性や成長性、資本配分への信頼が低い状態を示します。"
-          },
-          {
-            "q": "成長力が弱い企業に必要な対応は何ですか。",
-            "a": "現金を抱え込まず、配当拡大、自社株買いと消却、債務削減で資本効率を高めることです。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "KOSPI迈向8000点仍显低估，韩国低PBR企业迎来分化考验",
-        "excerpt": "KOSPI在长期涨势中跑赢S&P500，但剔除半导体带来的指数效应后，韩国过半上市公司仍低于1倍市净率，股东回报和成长证明成为核心变量。",
-        "metaDescription": "韩国股市在KOSPI 8000点时代仍显低估，原因在于半导体集中上涨和低PBR企业众多，分红与回购将决定重估。",
-        "summary": "KOSPI进入强势上涨阶段，但韩国股市并非全面变贵。半导体龙头推高指数，许多上市公司仍低于账面净资产估值。无法证明成长性的企业需要通过分红、回购和注销股份提高资本效率。韩国市场下一轮重估将取决于股东回报和经营愿景。",
-        "body": "即使KOSPI迈向8000点，韩国股市低估问题仍未结束。指数刷新高位，并在部分长期区间跑赢S&P500，但上涨并不均衡。大型半导体公司贡献了相当部分涨幅，剔除这一影响后，韩国过半上市公司仍以低于1倍市净率交易。这意味着市场给许多企业的定价低于其账面净资产。\n\n## 半导体掩盖了市场全貌\nKOSPI在1980年1月从100点附近起步，经历亚洲金融危机、全球金融危机和疫情冲击后持续扩张。指数走向8000点，显示韩国出口企业和盈利能力增强。但这不能简单解释为整个市场完成重估。受人工智能投资周期带动的半导体龙头强力拉升指数，而内需、传统制造和中小市值公司仍明显滞后。\n\nPBR低于1倍释放了清晰信号。投资者不相信资产负债表上的现金和资产能转化为足够利润。低ROE、资本配置不透明、分红不足、成长战略缺乏说服力，都会压低估值。韩国折价不再只是宏观风险问题，更是资本效率和公司治理问题。\n\n## 没有成长就应先回报股东\n真正具备成长性的公司需要通过研发、设备投资和海外扩张证明未来现金流。无法证明成长的公司，则应把多余资金用于分红、回购并注销股份或降低债务。韩国的企业价值提升政策也指向这一方向。市场需要的不是口号，而是明确的ROE目标、分红率和回购注销原则。\n\n未来韩国股市将更强调个股筛选。若半导体周期延续，KOSPI仍有上行动力，但低估值本身不足以构成买入理由。投资者需要看到折价收窄的具体原因。能够改善资本回报并强化股东回报的企业，有机会摆脱低PBR；只持有现金却缺乏计划的企业，将面临被市场淘汰的压力。",
-        "keywords": [
-          "KOSPI 8000",
-          "韩国股市",
-          "低PBR",
-          "韩国折价",
-          "分红",
-          "股票回购",
-          "半导体股票",
-          "企业价值提升",
-          "股东回报",
-          "KOSPI迈向8000点仍显低估，韩国低"
-        ],
-        "faq": [
-          {
-            "q": "为什么KOSPI上涨后韩国股市仍被认为低估？",
-            "a": "因为上涨集中在半导体龙头，剔除该因素后，过半上市公司仍低于1倍市净率。"
-          },
-          {
-            "q": "PBR低于1倍意味着什么？",
-            "a": "意味着市场给公司的估值低于账面净资产，通常反映对盈利能力、成长性和资本配置的怀疑。"
-          },
-          {
-            "q": "成长性不足的企业应如何应对？",
-            "a": "应减少无目的现金积累，通过分红、回购注销和降债提升资本效率。"
-          }
-        ]
-      },
-      "es": {
-        "title": "KOSPI rumbo a 8.000 aún luce barato: el reto de las acciones coreanas de bajo PBR",
-        "excerpt": "Aunque el KOSPI ha superado al S&P 500 en el ciclo de largo plazo, más de la mitad de las empresas coreanas cotiza por debajo de 1 vez valor en libros al excluir semiconductores.",
-        "metaDescription": "La bolsa coreana sigue infravalorada pese al KOSPI 8.000 por la concentración en semiconductores y los bajos PBR. Dividendos y recompras serán clave.",
-        "summary": "El KOSPI vive una fase fuerte, pero la revalorización no alcanza a todo el mercado coreano. Los grandes semiconductores elevan el índice, mientras muchas empresas siguen por debajo de su valor contable. Las compañías sin crecimiento claro deben devolver capital mediante dividendos y recompras. La próxima revalorización dependerá de eficiencia de capital y re",
-        "body": "La llegada del KOSPI a la zona de 8.000 puntos no elimina el debate sobre la infravaloración de Corea. El índice marca máximos y ha superado al S&P 500 en tramos relevantes de largo plazo, pero el avance está muy concentrado en grandes compañías de semiconductores. Al excluir ese efecto, más de la mitad de las cotizadas coreanas sigue negociándose por debajo de 1 vez su valor en libros.\n\n## Los semiconductores ocultan la foto completa\nEl KOSPI partió cerca de 100 puntos en enero de 1980 y creció tras crisis cambiarias, financieras y sanitarias. El ascenso hacia 8.000 refleja una mayor escala de beneficios y exportaciones. Sin embargo, no equivale a una revalorización de todo el mercado. Las empresas vinculadas al ciclo global de inteligencia artificial han impulsado el índice, mientras sectores domésticos, industriales y medianas compañías permanecen rezagados.\n\nUn PBR inferior a 1 muestra desconfianza. El mercado no reconoce plenamente los activos y el efectivo porque duda de que se conviertan en beneficios futuros. Baja rentabilidad sobre capital, mala asignación de recursos, dividendos limitados y planes de crecimiento poco claros sostienen el descuento coreano.\n\n## Sin crecimiento, primero retorno al accionista\nLas compañías con crecimiento real deben probarlo con inversión, investigación, exportaciones y flujo de caja futuro. Las que no puedan hacerlo deben elevar dividendos, recomprar y cancelar acciones o reducir deuda. La agenda coreana de mejora de valor se mueve en esa dirección: menos discursos y más metas concretas de ROE, payout y recompras.\n\nLa siguiente fase será selectiva. Un ciclo fuerte de semiconductores puede seguir apoyando al KOSPI, pero una valoración baja no basta. Los inversores exigirán una razón clara para que el descuento se cierre. Las empresas que mejoren la eficiencia del capital podrán salir del bajo PBR; las que solo acumulen efectivo quedarán bajo mayor presión.",
-        "keywords": [
-          "KOSPI 8000",
-          "bolsa coreana",
-          "PBR bajo",
-          "descuento Corea",
-          "dividendos",
-          "recompras de acciones",
-          "semiconductores",
-          "valor para accionistas",
-          "eficiencia de capital",
-          "KOSPI rumbo a 8.000"
-        ],
-        "faq": [
-          {
-            "q": "¿Por qué Corea sigue pareciendo barata si el KOSPI sube?",
-            "a": "Porque la subida está concentrada en semiconductores y muchas cotizadas siguen por debajo de 1 vez valor en libros."
-          },
-          {
-            "q": "¿Qué implica un PBR inferior a 1?",
-            "a": "Implica que el mercado valora la empresa por debajo de sus activos netos contables, normalmente por dudas sobre rentabilidad o crecimiento."
-          },
-          {
-            "q": "¿Qué deben hacer las empresas sin crecimiento claro?",
-            "a": "Deben mejorar la eficiencia del capital con dividendos, recompras, cancelación de acciones y menor deuda."
-          }
-        ]
-      },
-      "pt": {
-        "title": "KOSPI a 8.000 ainda parece barato: ações coreanas de baixo PBR entram em teste",
-        "excerpt": "Mesmo com o KOSPI superando o S&P 500 no ciclo de longo prazo, mais da metade das empresas coreanas segue abaixo de 1 vez valor patrimonial ao excluir semicondutores.",
-        "metaDescription": "A bolsa coreana continua descontada apesar do KOSPI 8.000. Baixo PBR, dividendos, recompras e crescimento definirão a reavaliação.",
-        "summary": "O KOSPI vive uma alta forte, mas o mercado coreano não ficou caro por completo. Gigantes de semicondutores puxam o índice, enquanto muitas empresas ainda negociam abaixo do valor patrimonial. Companhias sem crescimento convincente precisam devolver capital por dividendos e recompras. A próxima reavaliação dependerá de eficiência de capital.",
-        "body": "O avanço do KOSPI rumo a 8.000 pontos não encerra a discussão sobre o desconto da bolsa coreana. O índice renovou máximas e superou o S&P 500 em partes relevantes do ciclo de longo prazo, mas a alta está concentrada em grandes nomes de semicondutores. Sem esse efeito, mais da metade das empresas listadas na Coreia ainda negocia abaixo de 1 vez o valor patrimonial.\n\n## Semicondutores escondem a realidade ampla\nO KOSPI começou perto de 100 pontos em janeiro de 1980 e cresceu após crises cambiais, financeiras e sanitárias. A aproximação dos 8.000 pontos mostra empresas exportadoras mais fortes e lucros maiores. Ainda assim, não significa que todo o mercado foi reavaliado. Companhias ligadas à inteligência artificial e aos chips sustentaram grande parte da alta, enquanto setores domésticos e empresas médias ficaram para trás.\n\nPBR abaixo de 1 é um recado direto. O mercado não reconhece integralmente caixa e ativos porque duvida da capacidade de gerar lucro futuro. Retorno sobre patrimônio baixo, alocação de capital pouco clara, dividendos fracos e estratégia de crescimento vaga mantêm o desconto coreano vivo.\n\n## Sem crescimento, o capital deve voltar\nEmpresas com crescimento real precisam prová-lo por pesquisa, investimento, exportações e fluxo de caixa. Empresas sem essa prova devem elevar dividendos, recomprar e cancelar ações ou reduzir dívida. A agenda de valorização corporativa da Coreia segue essa lógica. Investidores querem metas numéricas de ROE, payout e recompras, não apenas intenções.\n\nA próxima fase será seletiva. Um ciclo favorável de semicondutores pode continuar sustentando o KOSPI, mas baixo preço não basta. O mercado exigirá motivos concretos para o desconto diminuir. Empresas que aumentarem retorno ao acionista podem sair do baixo PBR. As que apenas acumularem caixa correm o risco de perder relevância.",
-        "keywords": [
-          "KOSPI 8000",
-          "bolsa coreana",
-          "PBR baixo",
-          "desconto Coreia",
-          "dividendos",
-          "recompra de ações",
-          "semicondutores",
-          "retorno ao acionista",
-          "eficiência de capital",
-          "KOSPI a 8.000 ainda"
-        ],
-        "faq": [
-          {
-            "q": "Por que a bolsa coreana ainda parece barata com o KOSPI em alta?",
-            "a": "Porque a alta está concentrada em semicondutores e muitas empresas seguem abaixo de 1 vez valor patrimonial."
-          },
-          {
-            "q": "O que significa PBR abaixo de 1?",
-            "a": "Significa que o mercado avalia a empresa abaixo de seus ativos líquidos contábeis, geralmente por dúvida sobre lucro e crescimento."
-          },
-          {
-            "q": "O que empresas de baixo crescimento devem fazer?",
-            "a": "Devem melhorar a eficiência de capital com dividendos, recompras, cancelamento de ações e redução de dívida."
-          }
-        ]
-      },
-      "de": {
-        "title": "KOSPI bei 8.000 bleibt günstig: Koreas Aktien mit niedrigem PBR vor Bewährungsprobe",
-        "excerpt": "Der KOSPI hat den S&P 500 in wichtigen Langfristphasen übertroffen, doch ohne Halbleitereffekt notiert mehr als die Hälfte der koreanischen Börsenfirmen unter Buchwert.",
-        "metaDescription": "Koreas Aktienmarkt bleibt trotz KOSPI 8.000 günstig. Niedrige PBRs, Dividenden, Rückkäufe und Wachstum entscheiden über die Neubewertung.",
-        "summary": "Der KOSPI steigt kräftig, doch der koreanische Markt ist nicht insgesamt teuer geworden. Halbleiterwerte treiben den Index, viele Unternehmen handeln weiter unter Buchwert. Firmen ohne glaubwürdiges Wachstum müssen Kapital über Dividenden und Aktienrückkäufe zurückgeben. Die nächste Neubewertung hängt von Kapitaldisziplin ab.",
-        "body": "Ein KOSPI bei 8.000 Punkten beendet die Diskussion über den Korea-Abschlag nicht. Der Index erreicht neue Höchststände und hat den S&P 500 in wichtigen Langfristabschnitten übertroffen. Doch ein großer Teil der Bewegung kommt von großen Halbleiterwerten. Ohne diesen Effekt handelt mehr als die Hälfte der koreanischen börsennotierten Unternehmen weiter unter einem Kurs-Buchwert-Verhältnis von 1.\n\n## Halbleiter verdecken die Breite\nDer KOSPI startete im Januar 1980 nahe 100 Punkten und wuchs durch Währungs-, Finanz- und Pandemieschocks hindurch. Der Anstieg Richtung 8.000 zeigt stärkere Exporteure und höhere Gewinne. Er bedeutet aber keine vollständige Neubewertung des Marktes. Unternehmen aus dem Halbleiter- und KI-Zyklus haben den Index stark getragen, während Binnenwerte, Industrieunternehmen und mittelgroße Titel zurückblieben.\n\nEin PBR unter 1 ist ein klares Signal. Anleger zweifeln daran, dass Vermögenswerte und Liquidität in künftige Gewinne münden. Niedrige Eigenkapitalrendite, unklare Kapitalallokation, schwache Dividenden und wenig überzeugende Wachstumspläne drücken die Bewertung. Der Korea-Abschlag ist damit vor allem eine Frage der Kapitaleffizienz.\n\n## Ohne Wachstum zählt Rückgabe\nWachstumsunternehmen müssen ihre Perspektive durch Forschung, Investitionen, Exportausbau und Cashflow belegen. Unternehmen ohne diesen Nachweis sollten Dividenden erhöhen, Aktien zurückkaufen und einziehen oder Schulden senken. Koreas Value-up-Agenda weist in dieselbe Richtung. Der Markt verlangt konkrete Ziele für ROE, Ausschüttung und Rückkäufe.\n\nDie nächste Marktphase wird selektiv. Ein starker Halbleiterzyklus kann den KOSPI weiter stützen, doch niedrige Bewertung allein reicht nicht. Anleger verlangen Gründe, warum der Abschlag verschwindet. Firmen mit besserer Kapitalrendite und klarer Aktionärsrendite können sich vom niedrigen PBR lösen. Firmen, die nur Liquidität halten, geraten stärker unter Druck.",
-        "keywords": [
-          "KOSPI 8000",
-          "koreanische Aktien",
-          "niedriger PBR",
-          "Korea-Abschlag",
-          "Dividenden",
-          "Aktienrückkäufe",
-          "Halbleiteraktien",
-          "Value-up",
-          "Aktionärsrendite",
-          "KOSPI bei 8.000 blei"
-        ],
-        "faq": [
-          {
-            "q": "Warum wirkt Koreas Markt trotz KOSPI-Rally günstig?",
-            "a": "Weil die Rally stark auf Halbleiter konzentriert ist und viele Unternehmen weiter unter dem Buchwert handeln."
-          },
-          {
-            "q": "Was bedeutet ein PBR unter 1?",
-            "a": "Es bedeutet, dass der Markt ein Unternehmen niedriger bewertet als seine bilanziellen Nettovermögenswerte."
-          },
-          {
-            "q": "Was sollten Unternehmen ohne klares Wachstum tun?",
-            "a": "Sie sollten Kapital effizienter einsetzen, etwa durch Dividenden, Aktienrückkäufe, Einziehungen und Schuldenabbau."
-          }
-        ]
-      },
-      "fr": {
-        "title": "KOSPI à 8 000 mais actions coréennes encore décotées, le test des faibles PBR",
-        "excerpt": "Le KOSPI a dépassé le S&P 500 sur certaines périodes longues, mais hors effet semi-conducteurs, plus de la moitié des sociétés coréennes cotent sous leur valeur comptable.",
-        "metaDescription": "La Bourse coréenne reste décotée malgré un KOSPI à 8 000. Faibles PBR, dividendes, rachats d’actions et croissance guideront la revalorisation.",
-        "summary": "Le KOSPI progresse fortement, mais la hausse ne concerne pas tout le marché coréen. Les semi-conducteurs tirent l’indice, tandis que de nombreuses entreprises restent sous leur valeur comptable. Les sociétés sans croissance crédible doivent privilégier dividendes et rachats. La prochaine revalorisation dépendra de l’efficacité du capital.",
-        "body": "Un KOSPI proche de 8 000 points ne met pas fin au débat sur la décote coréenne. L’indice inscrit de nouveaux sommets et a dépassé le S&P 500 sur des séquences longues, mais l’essentiel de l’élan vient des grandes valeurs des semi-conducteurs. Hors cet effet, plus de la moitié des sociétés cotées coréennes se négocient encore sous 1 fois la valeur comptable.\n\n## Les semi-conducteurs masquent le marché\nLe KOSPI a commencé près de 100 points en janvier 1980 et a traversé crises de change, crises financières et pandémie. Sa marche vers 8 000 reflète des exportateurs plus solides et des bénéfices plus élevés. Mais elle ne signifie pas que tout le marché a été revalorisé. Les valeurs liées à l’intelligence artificielle et aux puces ont porté l’indice, alors que les secteurs domestiques et les moyennes capitalisations restent en retrait.\n\nUn PBR inférieur à 1 traduit une défiance nette. Le marché ne valorise pas pleinement les actifs et la trésorerie, car il doute de leur transformation en profits futurs. Faible rentabilité des fonds propres, allocation du capital opaque, dividendes limités et stratégie de croissance insuffisante entretiennent la décote coréenne.\n\n## Sans croissance, retour du capital\nLes entreprises en croissance doivent le prouver par l’investissement, la recherche, l’exportation et les flux de trésorerie futurs. Celles qui ne peuvent pas le faire doivent relever les dividendes, racheter puis annuler des actions ou réduire la dette. L’agenda coréen de revalorisation va dans ce sens. Les investisseurs veulent des objectifs chiffrés de ROE, de distribution et de rachats.\n\nLa prochaine phase sera sélective. Un cycle porteur des semi-conducteurs peut soutenir le KOSPI, mais une faible valorisation ne suffit pas. Le marché exigera une raison concrète de réduire la décote. Les entreprises qui améliorent le rendement du capital peuvent sortir du faible PBR. Celles qui accumulent simplement du cash resteront sous pression.",
-        "keywords": [
-          "KOSPI 8000",
-          "actions coréennes",
-          "faible PBR",
-          "décote coréenne",
-          "dividendes",
-          "rachats d’actions",
-          "semi-conducteurs",
-          "value-up",
-          "rendement actionnaire",
-          "KOSPI à 8 000 mais a"
-        ],
-        "faq": [
-          {
-            "q": "Pourquoi les actions coréennes restent-elles décotées malgré la hausse du KOSPI ?",
-            "a": "Parce que la hausse est concentrée dans les semi-conducteurs et que beaucoup d’entreprises cotent encore sous leur valeur comptable."
-          },
-          {
-            "q": "Que signifie un PBR inférieur à 1 ?",
-            "a": "Cela signifie que le marché valorise l’entreprise sous ses actifs nets comptables, souvent par doute sur sa rentabilité."
-          },
-          {
-            "q": "Que doivent faire les entreprises sans croissance claire ?",
-            "a": "Elles doivent améliorer l’efficacité du capital par dividendes, rachats, annulations d’actions et réduction de dette."
-          }
-        ]
-      },
-      "ar": {
-        "title": "كوسبي نحو 8000 نقطة لكن الأسهم الكورية لا تزال رخيصة بفعل انخفاض PBR",
-        "excerpt": "رغم تفوق كوسبي على S&P 500 في مراحل طويلة، فإن استبعاد أثر أشباه الموصلات يكشف بقاء أكثر من نصف الشركات الكورية المدرجة دون مرة واحدة من القيمة الدفترية.",
-        "metaDescription": "السوق الكورية تبقى منخفضة التقييم رغم كوسبي 8000 بسبب تركّز الصعود في الرقائق وانخفاض PBR. التوزيعات وإعادة الشراء ستحدد إعادة التقييم.",
-        "summary": "ارتفاع كوسبي لا يعني أن السوق الكورية كلها أصبحت مرتفعة السعر. شركات أشباه الموصلات تقود المؤشر، بينما تتداول شركات كثيرة دون قيمتها الدفترية. الشركات التي لا تثبت نموا واضحا تحتاج إلى إعادة رأس المال عبر التوزيعات وإعادة شراء الأسهم. إعادة التقييم المقبلة ستعتمد على كفاءة رأس المال.",
-        "body": "وصول كوسبي إلى منطقة 8000 نقطة لا ينهي الجدل حول خصم الأسهم الكورية. المؤشر يسجل مستويات مرتفعة وتفوق على S&P 500 في فترات طويلة مهمة، لكن الصعود يتركز بقوة في شركات أشباه الموصلات الكبرى. عند استبعاد هذا الأثر، يبقى أكثر من نصف الشركات الكورية المدرجة دون نسبة سعر إلى قيمة دفترية تبلغ مرة واحدة.\n\n## الرقائق تخفي الصورة الأوسع\nبدأ كوسبي قرب 100 نقطة في يناير 1980، ثم نما عبر أزمات العملة والتمويل والجائحة. الاقتراب من 8000 نقطة يعكس قوة أكبر للمصدرين الكوريين وارتفاعا في الأرباح. لكنه لا يعني أن كل السوق أعيد تقييمها. شركات الرقائق المرتبطة بدورة الاستثمار في الذكاء الاصطناعي رفعت المؤشر، بينما بقيت قطاعات محلية وصناعية وشركات متوسطة خلفها.\n\nانخفاض PBR دون 1 يحمل رسالة واضحة. السوق لا يمنح الأصول والنقد قيمتها الكاملة لأنه يشك في قدرتها على توليد أرباح مستقبلية. ضعف العائد على حقوق الملكية، وغموض توزيع رأس المال، وانخفاض التوزيعات، وعدم وضوح خطط النمو، كلها عوامل تبقي الخصم الكوري قائما.\n\n## بلا نمو، يجب إعادة رأس المال\nالشركات ذات النمو الحقيقي عليها إثبات ذلك عبر البحث والاستثمار والتوسع الخارجي والتدفقات النقدية. أما الشركات التي لا تقدم دليلا مقنعا على النمو، فعليها زيادة التوزيعات أو إعادة شراء الأسهم وإلغاؤها أو خفض الديون. برنامج رفع القيمة في كوريا يتحرك في الاتجاه نفسه. المستثمرون يريدون أهدافا رقمية للعائد على حقوق الملكية ونسبة التوزيع وإعادة الشراء.\n\nالمرحلة المقبلة ستكون انتقائية. استمرار دورة أشباه الموصلات قد يدعم كوسبي، لكن انخفاض التقييم وحده لا يكفي. السوق سيطلب سببا واضحا لانكماش الخصم. الشركات التي تحسن كفاءة رأس المال وعائد المساهمين يمكن أن تخرج من فخ PBR المنخفض، بينما ستتعرض الشركات التي تراكم النقد فقط لضغط أكبر.",
-        "keywords": [
-          "كوسبي 8000",
-          "الأسهم الكورية",
-          "PBR منخفض",
-          "الخصم الكوري",
-          "التوزيعات",
-          "إعادة شراء الأسهم",
-          "أشباه الموصلات",
-          "رفع القيمة",
-          "عائد المساهمين",
-          "كوسبي نحو 8000 نقطة"
-        ],
-        "faq": [
-          {
-            "q": "لماذا تبدو الأسهم الكورية رخيصة رغم صعود كوسبي؟",
-            "a": "لأن الصعود يتركز في شركات أشباه الموصلات، بينما تبقى شركات كثيرة دون مرة واحدة من القيمة الدفترية."
-          },
-          {
-            "q": "ماذا يعني PBR أقل من 1؟",
-            "a": "يعني أن السوق يقيم الشركة بأقل من صافي أصولها الدفترية، غالبا بسبب الشك في الربحية أو النمو."
-          },
-          {
-            "q": "ماذا يجب أن تفعل الشركات ضعيفة النمو؟",
-            "a": "عليها تحسين كفاءة رأس المال عبر التوزيعات، إعادة شراء الأسهم وإلغائها، وخفض الديون."
-          }
-        ]
-      },
-      "hi": {
-        "title": "KOSPI 8000 के दौर में भी कोरियाई शेयर सस्ते, कम PBR कंपनियों की परीक्षा",
-        "excerpt": "KOSPI ने लंबी अवधि में S&P 500 को पीछे छोड़ा है, लेकिन सेमीकंडक्टर प्रभाव हटाने पर कोरिया की आधे से अधिक सूचीबद्ध कंपनियां अब भी 1 गुना बुक वैल्यू से नीचे हैं।",
-        "metaDescription": "KOSPI 8000 के बावजूद कोरियाई बाजार कम PBR और सेमीकंडक्टर केंद्रित तेजी से डिस्काउंट पर है। डिविडेंड और बायबैक अहम होंगे।",
-        "summary": "KOSPI की तेजी मजबूत है, लेकिन पूरा कोरियाई बाजार महंगा नहीं हुआ। सेमीकंडक्टर दिग्गज सूचकांक को उठा रहे हैं, जबकि कई कंपनियां बुक वैल्यू से नीचे हैं। जिन कंपनियों के पास स्पष्ट वृद्धि नहीं है, उन्हें डिविडेंड और बायबैक से पूंजी लौटानी होगी। अगला री-रेटिंग चरण पूंजी दक्षता पर निर्भर करेगा।",
-        "body": "KOSPI के 8000 अंक के दौर में पहुंचने से कोरियाई शेयरों के डिस्काउंट की बहस खत्म नहीं होती। सूचकांक ने नए उच्च स्तर बनाए और लंबी अवधि के कई चरणों में S&P 500 से बेहतर प्रदर्शन किया, लेकिन तेजी का बड़ा हिस्सा सेमीकंडक्टर बड़ी कंपनियों से आया है। इस प्रभाव को हटाने पर कोरिया की आधे से अधिक सूचीबद्ध कंपनियां अब भी 1 गुना प्राइस-टू-बुक वैल्यू से नीचे कारोबार कर रही हैं।\n\n## सेमीकंडक्टर ने पूरी तस्वीर छिपाई\nKOSPI जनवरी 1980 में करीब 100 अंक से शुरू हुआ था। मुद्रा संकट, वित्तीय संकट और महामारी के बाद भी कोरियाई निर्यात और कॉरपोरेट मुनाफा बढ़े। 8000 की ओर बढ़ना कंपनियों की क्षमता में सुधार दिखाता है, लेकिन यह पूरे बाजार की री-रेटिंग नहीं है। आर्टिफिशियल इंटेलिजेंस निवेश चक्र से जुड़े चिप शेयरों ने सूचकांक को उठाया, जबकि घरेलू, औद्योगिक और मिडकैप कंपनियां पीछे रहीं।\n\n1 से कम PBR साफ संकेत देता है। बाजार मानता है कि बैलेंस शीट पर मौजूद संपत्ति और नकद भविष्य के मुनाफे में पर्याप्त रूप से नहीं बदलेंगे। कम ROE, अस्पष्ट पूंजी आवंटन, कमजोर डिविडेंड और कमजोर वृद्धि योजना मूल्यांकन को दबाए रखते हैं। कोरिया डिस्काउंट अब सिर्फ मैक्रो जोखिम नहीं, बल्कि पूंजी दक्षता का सवाल है।\n\n## वृद्धि नहीं तो पूंजी लौटे\nसच्ची वृद्धि वाली कंपनियों को रिसर्च, निवेश, निर्यात और भविष्य के कैश फ्लो से इसे साबित करना होगा। जिन कंपनियों के पास ऐसा प्रमाण नहीं है, उन्हें डिविडेंड बढ़ाना, शेयर वापस खरीदकर रद्द करना या कर्ज घटाना चाहिए। कोरिया की वैल्यू-अप नीति भी इसी दिशा में है। निवेशक ROE, payout और बायबैक के स्पष्ट लक्ष्य चाहते हैं।\n\nअगला चरण चुनिंदा होगा। सेमीकंडक्टर चक्र मजबूत रहा तो KOSPI को सहारा मिल सकता है, लेकिन कम मूल्यांकन अकेले पर्याप्त नहीं है। बाजार डिस्काउंट घटने की ठोस वजह मांगेगा। जो कंपनियां पूंजी रिटर्न और शेयरधारक रिटर्न सुधारेंगी, वे कम PBR से बाहर निकल सकती हैं। केवल नकद जमा करने वाली कंपनियां दबाव में रहेंगी।",
-        "keywords": [
-          "KOSPI 8000",
-          "कोरियाई शेयर",
-          "कम PBR",
-          "कोरिया डिस्काउंट",
-          "डिविडेंड",
-          "शेयर बायबैक",
-          "सेमीकंडक्टर शेयर",
-          "वैल्यू अप",
-          "शेयरधारक रिटर्न",
-          "KOSPI 8000 के दौर मे"
-        ],
-        "faq": [
-          {
-            "q": "KOSPI बढ़ने के बाद भी कोरियाई शेयर सस्ते क्यों दिखते हैं?",
-            "a": "क्योंकि तेजी सेमीकंडक्टर बड़ी कंपनियों में केंद्रित है और कई कंपनियां अब भी 1 गुना बुक वैल्यू से नीचे हैं।"
-          },
-          {
-            "q": "PBR 1 से कम होने का क्या मतलब है?",
-            "a": "इसका मतलब है कि बाजार कंपनी को उसकी बुक नेट एसेट वैल्यू से कम मूल्य देता है, अक्सर मुनाफे या वृद्धि पर संदेह के कारण।"
-          },
-          {
-            "q": "कम वृद्धि वाली कंपनियों को क्या करना चाहिए?",
-            "a": "उन्हें डिविडेंड, शेयर बायबैक, शेयर रद्दीकरण और कर्ज कटौती से पूंजी दक्षता सुधारनी चाहिए।"
-          }
-        ]
-      },
-      "id": {
-        "title": "KOSPI 8000 Tetap Murah: Saham Korea Ber-PBR Rendah Hadapi Ujian",
-        "excerpt": "Meski KOSPI mengungguli S&P 500 dalam tren panjang, lebih dari separuh emiten Korea masih diperdagangkan di bawah 1 kali nilai buku jika efek semikonduktor dikeluarkan.",
-        "metaDescription": "Pasar saham Korea tetap terdiskon meski KOSPI menuju 8000. PBR rendah, dividen, buyback dan pertumbuhan akan menentukan re-rating.",
-        "summary": "KOSPI naik kuat, tetapi pasar Korea belum sepenuhnya mahal. Saham semikonduktor besar mengangkat indeks, sementara banyak emiten masih berada di bawah nilai buku. Perusahaan tanpa pertumbuhan jelas perlu mengembalikan modal lewat dividen dan buyback. Re-rating berikutnya bergantung pada efisiensi modal.",
-        "body": "KOSPI menuju 8000 tidak mengakhiri perdebatan soal valuasi murah pasar saham Korea. Indeks mencetak level tinggi dan mengungguli S&P 500 dalam sejumlah periode jangka panjang, tetapi kenaikan sangat dipengaruhi saham semikonduktor besar. Jika efek itu dikeluarkan, lebih dari separuh emiten Korea masih diperdagangkan di bawah 1 kali price-to-book value.\n\n## Semikonduktor Menutupi Gambaran Besar\nKOSPI bermula dekat 100 poin pada Januari 1980, lalu tumbuh melewati krisis mata uang, krisis keuangan, dan pandemi. Pergerakan menuju 8000 menunjukkan eksportir dan laba korporasi Korea yang lebih kuat. Namun, itu bukan berarti seluruh pasar sudah mengalami re-rating. Perusahaan chip yang terkait siklus investasi kecerdasan buatan menjadi penggerak utama, sementara sektor domestik, industri, dan emiten menengah tertinggal.\n\nPBR di bawah 1 memberi sinyal jelas. Pasar belum sepenuhnya menghargai aset dan kas karena meragukan kemampuannya menghasilkan laba masa depan. ROE rendah, alokasi modal yang tidak jelas, dividen lemah, dan rencana pertumbuhan yang kurang meyakinkan membuat diskon Korea bertahan.\n\n## Tanpa Pertumbuhan, Modal Harus Kembali\nPerusahaan dengan pertumbuhan nyata harus membuktikannya lewat riset, investasi, ekspor, dan arus kas masa depan. Perusahaan yang tidak bisa membuktikan pertumbuhan perlu menaikkan dividen, membeli kembali lalu membatalkan saham, atau mengurangi utang. Agenda value-up Korea bergerak ke arah yang sama. Investor menginginkan target ROE, payout, dan buyback yang terukur.\n\nFase berikutnya akan selektif. Siklus semikonduktor yang kuat dapat terus menopang KOSPI, tetapi valuasi rendah saja tidak cukup. Pasar membutuhkan alasan konkret agar diskon menyempit. Emiten yang meningkatkan efisiensi modal dan imbal hasil pemegang saham berpeluang keluar dari PBR rendah. Emiten yang hanya menumpuk kas akan menghadapi tekanan lebih besar.",
-        "keywords": [
-          "KOSPI 8000",
-          "saham Korea",
-          "PBR rendah",
-          "diskon Korea",
-          "dividen",
-          "buyback saham",
-          "semikonduktor",
-          "value-up",
-          "imbal hasil pemegang saham",
-          "KOSPI 8000 Tetap Mur"
-        ],
-        "faq": [
-          {
-            "q": "Mengapa saham Korea masih terlihat murah saat KOSPI naik?",
-            "a": "Karena kenaikan terkonsentrasi pada semikonduktor, sementara banyak emiten masih diperdagangkan di bawah 1 kali nilai buku."
-          },
-          {
-            "q": "Apa arti PBR di bawah 1?",
-            "a": "Artinya pasar menilai perusahaan lebih rendah dari nilai aset bersih pembukuannya, biasanya karena keraguan atas profitabilitas atau pertumbuhan."
-          },
-          {
-            "q": "Apa yang perlu dilakukan perusahaan dengan pertumbuhan lemah?",
-            "a": "Perusahaan perlu meningkatkan efisiensi modal melalui dividen, buyback, pembatalan saham, dan pengurangan utang."
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "df6d1d68e75b",
-    "slug": "sk하이닉스가-가장-싸다매수세-집중-주식-초고수는-지금-562931",
-    "channelId": "STOCKS",
-    "category": "stocks",
-    "publishedAt": "2026-07-03T08:16:34.439Z",
-    "updatedAt": "2026-07-03T08:16:34.439Z",
-    "sourceName": "",
-    "sourceUrl": "",
-    "canonicalUrl": "https://www.mk.co.kr/news/stock/12089875",
-    "titleFingerprint": "19691e41c391ba723171055866b9034b179fecba",
-    "dedupKeys": [
-      "df6d1d68e75b639b9be50928b10a1af4b6f920f9",
-      "19691e41c391ba723171055866b9034b179fecba",
-      "f9704b87c28dc5a0bec00c2297a720d266bfd28c"
-    ],
-    "imageUrl": "/images/articles/df6d1d68e75b.png",
-    "i18n": {
-      "ko": {
-        "title": "SK하이닉스 저가 매력 부각, 초고수 매수세 오후에도 집중된 반도체주 수급 흐름",
-        "excerpt": "3일 오후 국내 증시에서 투자 수익률 상위 1% 고수들의 매수세가 SK하이닉스에 집중됐다. 삼성전자는 순매도 1위에 올랐지만 주가는 상승 흐름을 유지했다.",
-        "metaDescription": "SK하이닉스가 3일 오후 초고수 투자자의 집중 매수 종목으로 부상했다. 삼성전자는 순매도 1위에도 상승하며 반도체 수급 차별화가 나타났다.",
-        "summary": "3일 오후 2시 30분 기준 투자 수익률 상위 1% 투자자들은 SK하이닉스를 가장 적극적으로 사들였다. DB하이텍도 매수 상위권에 포함되며 반도체주 전반의 관심이 이어졌다. 삼성전자는 순매도 1위였지만 주가 상승세를 보이며 대형 반도체주의 수급이 엇갈렸다.",
-        "body": "SK하이닉스가 3일 오후 국내 증시에서 투자 수익률 상위 1% 투자자들의 핵심 매수 종목으로 떠올랐다. 오전에 이어 오후에도 매수세가 이어지며 저가 매력과 반도체 업황 회복 기대가 동시에 반영됐다. 삼성전자는 같은 시간대 순매도 1위에 올랐지만 주가는 상승 흐름을 유지해 대형 반도체주 안에서도 종목별 수급 판단이 갈리는 모습이다.\n\n## SK하이닉스 매수세가 오후까지 이어진 이유\n3일 오후 2시 30분 기준 상위 투자자들의 매수 흐름은 SK하이닉스에 가장 강하게 모였다. 핵심 배경은 가격 부담 완화다. 최근 반도체주는 인공지능 서버, 고대역폭메모리, 데이터센터 투자 확대와 연결되며 중장기 성장 기대를 받아 왔지만 단기 주가 변동성도 컸다. 이 과정에서 SK하이닉스는 상대적으로 싸다는 인식이 강화됐고, 빠른 매매 판단을 중시하는 고수익 투자자들이 재진입 기회를 포착한 것으로 해석된다. 국내 투자자 입장에서는 원화 기준 반도체 대형주의 가격 매력이 커질수록 외국인 수급, 원달러 환율, 수출주 실적 전망을 함께 확인할 필요가 있다.\n\n## DB하이텍도 매수 상위권, 삼성전자는 순매도 1위\nSK하이닉스와 함께 DB하이텍도 매수 상위 종목에 이름을 올렸다. 이는 메모리뿐 아니라 시스템 반도체와 파운드리 관련 종목으로 관심이 확산되고 있음을 보여준다. 반면 삼성전자는 오후에도 순매도 1위에 머물렀다. 다만 순매도와 주가 방향은 항상 같은 의미가 아니다. 삼성전자는 매도 우위에도 상승세를 보이며 저가 매수, 기관·외국인 수급, 지수 편입 비중에 따른 기계적 매매가 복합적으로 작용한 흐름을 나타냈다. 코스피에서 삼성전자와 SK하이닉스가 차지하는 시가총액 비중이 큰 만큼 두 종목의 엇갈린 수급은 지수 체감 흐름에도 직접 영향을 준다.\n\n## 투자자 영향과 향후 관전 포인트\n이번 수급은 반도체주 안에서도 선택과 집중이 강화되고 있다는 신호다. SK하이닉스 매수세는 고대역폭메모리와 서버용 메모리 수요 기대가 여전히 유효하다는 판단을 반영한다. 다만 단기 급등 이후에는 차익 실현이 나올 수 있어 실적 추정치, 메모리 가격, 환율, 미국 기술주 흐름을 함께 봐야 한다. 국내 개인투자자는 순매수 상위 종목만 따라가기보다 매수 시간대와 거래대금, 장 마감 수급 변화를 확인해야 한다. 3일 오후 흐름만 놓고 보면 초고수 투자자들은 삼성전자보다 SK하이닉스의 가격 매력과 반등 탄력에 더 높은 점수를 주고 있다.",
-        "keywords": [
-          "SK하이닉스",
-          "삼성전자",
-          "DB하이텍",
-          "반도체주",
-          "초고수 투자자",
-          "주식 수급",
-          "코스피",
-          "고대역폭메모리",
-          "국내 증시",
-          "SK하이닉스 저가 매력 부각, 초고수"
-        ],
-        "faq": [
-          {
-            "q": "3일 오후 초고수 투자자들이 가장 많이 산 종목은 무엇인가?",
-            "a": "3일 오후 2시 30분 기준 투자 수익률 상위 1% 투자자들의 매수세는 SK하이닉스에 가장 집중됐다."
-          },
-          {
-            "q": "삼성전자는 왜 주목받았나?",
-            "a": "삼성전자는 오후에도 순매도 1위였지만 주가는 상승세를 보여 매도 우위와 가격 흐름이 엇갈린 대표 사례가 됐다."
-          },
-          {
-            "q": "이번 수급이 국내 투자자에게 주는 의미는 무엇인가?",
-            "a": "반도체주 안에서도 SK하이닉스, DB하이텍 등으로 선택적 매수세가 나타나고 있어 실적 전망과 수급 변화를 함께 확인해야 한다."
-          }
-        ]
-      },
-      "en": {
-        "title": "SK hynix draws elite investor buying as perceived value leads Korea chip trade",
-        "excerpt": "On July 3, Korea’s top 1% return investors kept buying SK hynix into the afternoon, while Samsung Electronics ranked first in net selling yet continued to rise.",
-        "metaDescription": "SK hynix became the main afternoon buy among Korea’s top-performing investors on July 3, while Samsung Electronics rose despite leading net selling.",
-        "summary": "As of 2:30 p.m. on July 3, top 1% return investors were buying SK hynix most aggressively. DB HiTek also ranked among favored purchases, extending interest across chip stocks. Samsung Electronics led net selling but still rose, showing a split in semiconductor flows.",
-        "body": "SK hynix emerged as the key afternoon buying target in Korea’s stock market on July 3 among investors in the top 1% by returns. Buying continued from the morning session, reflecting both perceived value and expectations for a semiconductor recovery. Samsung Electronics, meanwhile, ranked first in net selling during the same period but maintained an upward price trend, showing that flows inside large-cap chip stocks were divided.\n\n## Why SK hynix kept attracting buyers\nAs of 2:30 p.m., the strongest buying from elite investors was concentrated in SK hynix. The main driver was valuation appeal. Korean chip shares have been tied to demand for AI servers, high-bandwidth memory and data-center investment, but short-term volatility has also been high. Against that backdrop, SK hynix was viewed as relatively inexpensive, giving fast-moving investors a reason to re-enter. For Korean investors, won-denominated price levels, foreign flows, the dollar-won exchange rate and export earnings expectations remain important checks.\n\n## DB HiTek joins buy list, Samsung leads selling\nDB HiTek also appeared among the top buy names, signaling that attention is spreading beyond memory chips to system semiconductors and foundry-related stocks. Samsung Electronics stayed at the top of the net-selling list in the afternoon. Yet net selling does not always dictate price direction. Samsung’s rise despite selling pressure suggests a mix of dip buying, institutional or foreign demand, and index-linked trading. Because Samsung Electronics and SK hynix carry heavy weight in the Kospi, their diverging flows can shape how investors experience the broader market.\n\n## What investors should watch next\nThe session points to more selective buying within the semiconductor sector. Demand for SK hynix reflects continued confidence in high-bandwidth memory and server memory demand. Still, profit-taking can follow sharp rebounds, so earnings estimates, memory prices, exchange rates and U.S. technology shares need to be monitored together. Retail investors should not simply chase top net-buy lists; they should also check timing, trading value and closing flows. Based on the July 3 afternoon pattern, elite investors assigned greater near-term value and rebound potential to SK hynix than to Samsung Electronics.",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "chip stocks",
-          "Korea stocks",
-          "elite investors",
-          "Kospi",
-          "high-bandwidth memory",
-          "semiconductor flows",
-          "SK hynix draws elite"
-        ],
-        "faq": [
-          {
-            "q": "Which stock did top investors buy most on July 3 afternoon?",
-            "a": "As of 2:30 p.m. on July 3, buying by top 1% return investors was most concentrated in SK hynix."
-          },
-          {
-            "q": "Why was Samsung Electronics notable?",
-            "a": "Samsung Electronics ranked first in net selling during the afternoon but still traded higher, showing a split between flows and price action."
-          },
-          {
-            "q": "What does this mean for Korean retail investors?",
-            "a": "Selective buying is emerging within chip stocks, so investors should track earnings expectations, trading value and end-of-day flows."
-          }
-        ]
-      },
-      "ja": {
-        "title": "SKハイニックスに割安感、上位投資家の買いが午後も集中した韓国半導体株",
-        "excerpt": "3日午後の韓国株市場で、投資収益率上位1%の投資家の買いはSKハイニックスに集中した。サムスン電子は売り越し首位ながら上昇を維持した。",
-        "metaDescription": "3日午後、SKハイニックスが上位投資家の集中買い銘柄となった。サムスン電子は売り越し首位でも上昇し、半導体株の需給差が鮮明になった。",
-        "summary": "3日午後2時30分時点で、収益率上位1%の投資家はSKハイニックスを最も積極的に買った。DBハイテックも買い上位に入り、半導体株への関心が続いた。サムスン電子は売り越し首位だったが株価は上昇し、大型半導体株の需給が分かれた。",
-        "body": "SKハイニックスは3日午後、韓国株市場で投資収益率上位1%の投資家が最も注目する買い銘柄となった。午前に続いて午後も買いが入り、割安感と半導体市況回復への期待が同時に反映された。サムスン電子は同じ時間帯に売り越し首位となったが、株価は上昇基調を保ち、大型半導体株の中でも銘柄別判断が分かれた。\n\n## SKハイニックスに買いが続いた背景\n3日午後2時30分時点で、上位投資家の買いはSKハイニックスに最も強く集まった。背景は価格負担の低下だ。韓国の半導体株はAIサーバー、高帯域幅メモリー、データセンター投資拡大と結びつき、中長期成長期待を受けてきた一方、短期の変動性も大きかった。その過程でSKハイニックスは相対的に安いとの見方が強まり、機動的な投資家が再参入の機会を捉えた。韓国市場を見る投資家には、ウォン建て価格、外国人資金、ドルウォン相場、輸出株の業績見通しが重要になる。\n\n## DBハイテックも買い上位、サムスンは売り越し首位\nSKハイニックスとともにDBハイテックも買い上位に入った。メモリーだけでなく、システム半導体やファウンドリー関連銘柄へ関心が広がっていることを示す。サムスン電子は午後も売り越し首位にとどまった。ただし売り越しと株価方向は常に一致しない。サムスン電子は売り優勢にもかかわらず上昇し、押し目買い、機関・外国人需給、指数連動売買が複合的に働いた。KOSPIで両社の時価総額比重が大きいため、この需給差は指数の体感にも直結する。\n\n## 投資家への意味と注目点\n今回の需給は、半導体株の中で選別買いが強まっていることを示す。SKハイニックスへの買いは、高帯域幅メモリーとサーバー用メモリー需要への期待がなお有効であるとの判断を映す。ただし短期反発後には利益確定も出やすく、業績予想、メモリー価格、為替、米国ハイテク株の動きを合わせて見る必要がある。個人投資家は買い上位だけを追うのではなく、買いの時間帯、売買代金、大引けの需給変化を確認すべきだ。3日午後の動きでは、上位投資家はサムスン電子よりSKハイニックスの割安感と反発力を高く評価している。",
-        "keywords": [
-          "SKハイニックス",
-          "サムスン電子",
-          "DBハイテック",
-          "半導体株",
-          "韓国株",
-          "上位投資家",
-          "KOSPI",
-          "高帯域幅メモリー",
-          "需給",
-          "SKハイニックスに割安感、上位投資家の買"
-        ],
-        "faq": [
-          {
-            "q": "3日午後に上位投資家が最も買った銘柄は何ですか。",
-            "a": "3日午後2時30分時点で、収益率上位1%投資家の買いはSKハイニックスに最も集中しました。"
-          },
-          {
-            "q": "サムスン電子はなぜ注目されましたか。",
-            "a": "午後も売り越し首位だった一方で株価は上昇し、需給と値動きが分かれたためです。"
-          },
-          {
-            "q": "今回の需給は投資家に何を示しますか。",
-            "a": "半導体株の中でも選別買いが進んでおり、業績見通しと売買代金、終盤の需給確認が重要です。"
-          }
-        ]
-      },
-      "zh": {
-        "title": "SK海力士低估值吸引买盘，韩国高手投资者午后集中布局芯片股",
-        "excerpt": "7月3日下午，韩国收益率前1%的投资者继续买入SK海力士。三星电子虽位居净卖出首位，但股价仍保持上涨走势。",
-        "metaDescription": "7月3日下午，SK海力士成为韩国高收益投资者集中买入对象。三星电子净卖出居首却上涨，半导体股资金分化明显。",
-        "summary": "截至7月3日下午2时30分，收益率前1%的投资者最积极买入SK海力士。DB HiTek也进入买入前列，显示半导体板块关注延续。三星电子虽为净卖出首位，但股价上涨，大型芯片股资金流向出现分化。",
-        "body": "SK海力士在7月3日下午成为韩国股市中收益率前1%投资者的核心买入标的。买盘从上午延续至下午，反映出低估值吸引力和半导体景气修复预期。三星电子同一时段位居净卖出首位，但股价仍保持上涨，显示大型半导体股内部的资金判断出现分化。\n\n## SK海力士为何继续获得买盘\n截至下午2时30分，高收益投资者的买入最集中于SK海力士。主要原因是价格压力下降。韩国半导体股受益于AI服务器、高带宽内存和数据中心投资扩张预期，但短期波动也较大。在这一过程中，SK海力士被视为相对便宜，重视交易节奏的投资者因此捕捉再入场机会。对韩国市场投资者而言，韩元计价股价、外资流向、美元兑韩元汇率以及出口股盈利预期都需要同步观察。\n\n## DB HiTek进入买入前列，三星电子净卖出居首\n除SK海力士外，DB HiTek也进入买入前列。这表明关注度正从存储芯片扩展到系统半导体和代工相关股票。三星电子午后仍位居净卖出首位。不过，净卖出并不总是等同于股价下跌。三星电子在卖压下仍上涨，说明逢低买入、机构和外资资金、指数权重交易共同发挥作用。由于三星电子和SK海力士在KOSPI中权重很高，两者资金流向差异会直接影响投资者对大盘的感受。\n\n## 对投资者的影响与后续观察\n本次资金流说明半导体板块内部的选择性买入正在加强。SK海力士买盘反映出市场仍认可高带宽内存和服务器内存需求前景。但短期反弹后可能出现获利了结，因此需要同时关注业绩预期、内存价格、汇率和美国科技股走势。韩国个人投资者不应只追随净买入榜，还应确认买入时段、成交金额和收盘前资金变化。以7月3日下午走势看，高收益投资者对SK海力士的价格吸引力和反弹弹性评价高于三星电子。",
-        "keywords": [
-          "SK海力士",
-          "三星电子",
-          "DB HiTek",
-          "半导体股",
-          "韩国股市",
-          "高收益投资者",
-          "KOSPI",
-          "高带宽内存",
-          "资金流向",
-          "SK海力士低估值吸引买盘，韩国高手投资者"
-        ],
-        "faq": [
-          {
-            "q": "7月3日下午高收益投资者最集中买入哪只股票？",
-            "a": "截至7月3日下午2时30分，收益率前1%的投资者买入最集中于SK海力士。"
-          },
-          {
-            "q": "三星电子为何受到关注？",
-            "a": "三星电子午后位居净卖出首位，但股价仍上涨，显示资金流与价格走势并不完全一致。"
-          },
-          {
-            "q": "这对韩国个人投资者意味着什么？",
-            "a": "半导体股内部出现选择性买入，投资者应同时关注盈利预期、成交金额和收盘前资金变化。"
-          }
-        ]
-      },
-      "es": {
-        "title": "SK hynix atrae compras de élite por valoración y marca el pulso chip coreano",
-        "excerpt": "El 3 de julio por la tarde, los inversores coreanos del 1% superior por rentabilidad concentraron sus compras en SK hynix. Samsung lideró ventas netas, pero siguió subiendo.",
-        "metaDescription": "SK hynix fue la principal compra de inversores coreanos de alto rendimiento el 3 de julio. Samsung subió pese a liderar ventas netas en semiconductores.",
-        "summary": "A las 14:30 del 3 de julio, los inversores del 1% superior por rentabilidad compraban SK hynix con mayor intensidad. DB HiTek también figuró entre las compras destacadas. Samsung Electronics lideró las ventas netas, aunque su acción avanzó, reflejando flujos divididos en chips.",
-        "body": "SK hynix se convirtió el 3 de julio por la tarde en el principal objetivo de compra de los inversores coreanos ubicados en el 1% superior por rentabilidad. La demanda continuó desde la mañana y reflejó tanto atractivo de valoración como expectativas de recuperación del ciclo de semiconductores. Samsung Electronics, en cambio, encabezó las ventas netas durante el mismo tramo, pero mantuvo una cotización al alza, señal de una lectura dividida dentro de las grandes acciones de chips.\n\n## Por qué SK hynix siguió recibiendo compras\nA las 14:30, el flujo comprador de los inversores más rentables se concentraba con fuerza en SK hynix. El motivo central fue la percepción de precio atractivo. Las acciones coreanas de semiconductores han estado ligadas a servidores de inteligencia artificial, memoria de alto ancho de banda e inversión en centros de datos, aunque con fuerte volatilidad de corto plazo. En ese contexto, SK hynix fue vista como relativamente barata, lo que abrió una oportunidad de reentrada para operadores rápidos. Para el inversor local, el precio en wones, los flujos extranjeros, el tipo de cambio dólar-won y las perspectivas de exportación siguen siendo variables clave.\n\n## DB HiTek entra en compras, Samsung lidera ventas\nDB HiTek también apareció entre los valores más comprados, lo que muestra que el interés se extiende más allá de la memoria hacia semiconductores de sistema y negocios vinculados a fundición. Samsung Electronics siguió como el valor con mayor venta neta por la tarde. Sin embargo, venta neta y dirección del precio no siempre coinciden. Su avance pese a la presión vendedora sugiere compras en caídas, demanda institucional o extranjera y operaciones ligadas a índices. Dado el peso de Samsung y SK hynix en el Kospi, esta divergencia influye directamente en la percepción del mercado coreano.\n\n## Impacto y próximos focos\nEl movimiento confirma una compra más selectiva dentro del sector semiconductor. La demanda por SK hynix refleja confianza en memoria de alto ancho de banda y memoria para servidores. Aun así, tras rebotes rápidos puede aparecer toma de ganancias, por lo que conviene vigilar estimaciones de beneficios, precios de memoria, divisas y tecnológicas estadounidenses. Los minoristas no deberían seguir solo los rankings de compra neta; también deben revisar horario de compra, valor negociado y flujos al cierre. En la tarde del 3 de julio, los inversores de élite asignaron mayor atractivo relativo y potencial de rebote a SK hynix que a Samsung Electronics.",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "semiconductores",
-          "bolsa coreana",
-          "inversores de élite",
-          "Kospi",
-          "memoria HBM",
-          "flujos de mercado",
-          "SK hynix atrae compr"
-        ],
-        "faq": [
-          {
-            "q": "¿Qué acción compraron más los inversores de élite el 3 de julio por la tarde?",
-            "a": "A las 14:30 del 3 de julio, las compras del 1% superior por rentabilidad se concentraron principalmente en SK hynix."
-          },
-          {
-            "q": "¿Por qué destacó Samsung Electronics?",
-            "a": "Samsung lideró las ventas netas por la tarde, pero su acción siguió subiendo, mostrando una divergencia entre flujo y precio."
-          },
-          {
-            "q": "¿Qué implica para los inversores minoristas?",
-            "a": "La compra selectiva en semiconductores exige revisar beneficios esperados, volumen negociado y cambios de flujo al cierre."
-          }
-        ]
-      },
-      "pt": {
-        "title": "SK hynix atrai compras de elite por preço e lidera fluxo em chips coreanos",
-        "excerpt": "Na tarde de 3 de julho, investidores coreanos no 1% superior de rentabilidade concentraram compras em SK hynix. A Samsung liderou vendas líquidas, mas continuou subindo.",
-        "metaDescription": "SK hynix virou a principal compra de investidores coreanos de alto desempenho em 3 de julho. Samsung subiu apesar de liderar vendas líquidas.",
-        "summary": "Às 14h30 de 3 de julho, investidores do 1% superior em rentabilidade compravam SK hynix com mais intensidade. DB HiTek também apareceu entre os nomes mais comprados. Samsung Electronics liderou vendas líquidas, mas avançou, mostrando fluxos divergentes em semicondutores.",
-        "body": "A SK hynix tornou-se, na tarde de 3 de julho, o principal alvo de compra dos investidores coreanos no 1% superior de rentabilidade. O fluxo comprador continuou desde a manhã, refletindo atratividade de preço e expectativas de recuperação do ciclo de semicondutores. A Samsung Electronics, por sua vez, liderou as vendas líquidas no mesmo período, mas manteve alta nas ações, evidenciando uma leitura dividida entre as grandes empresas de chips.\n\n## Por que a SK hynix seguiu atraindo compras\nÀs 14h30, a maior concentração de compras dos investidores mais rentáveis estava em SK hynix. O fator central foi a percepção de valuation mais barato. As ações coreanas de semicondutores vêm sendo associadas a servidores de inteligência artificial, memória de alta largura de banda e investimentos em data centers, mas também enfrentam volatilidade no curto prazo. Nesse cenário, a SK hynix foi vista como relativamente descontada, abrindo espaço para reentrada. Para investidores expostos à Coreia, preço em won, fluxo estrangeiro, câmbio dólar-won e perspectivas de exportadoras precisam ser acompanhados juntos.\n\n## DB HiTek entra na lista e Samsung lidera vendas\nA DB HiTek também apareceu entre as principais compras, sinalizando que o interesse vai além de memória e alcança semicondutores de sistema e papéis ligados a foundry. A Samsung Electronics permaneceu como a maior venda líquida da tarde. Ainda assim, venda líquida não significa necessariamente queda de preço. A alta da Samsung apesar da pressão vendedora sugere compras em queda, demanda institucional ou estrangeira e operações vinculadas a índices. Como Samsung e SK hynix têm peso relevante no Kospi, seus fluxos divergentes influenciam a leitura do mercado coreano.\n\n## Impacto e pontos de atenção\nO movimento mostra compra mais seletiva dentro do setor de semicondutores. A demanda por SK hynix indica que a expectativa para memória de alta largura de banda e memória de servidores segue válida. Porém, após altas rápidas, a realização de lucros pode aparecer, exigindo atenção a estimativas de lucro, preços de memória, câmbio e ações de tecnologia dos EUA. O investidor pessoa física não deve apenas seguir rankings de compra líquida; é preciso observar horário, valor negociado e fluxo no fechamento. Na tarde de 3 de julho, os investidores de elite atribuíram maior atratividade e potencial de recuperação à SK hynix do que à Samsung Electronics.",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "semicondutores",
-          "bolsa coreana",
-          "investidores de elite",
-          "Kospi",
-          "memória HBM",
-          "fluxo de ações",
-          "SK hynix atrai compr"
-        ],
-        "faq": [
-          {
-            "q": "Qual ação foi mais comprada pelos investidores de elite em 3 de julho à tarde?",
-            "a": "Às 14h30 de 3 de julho, as compras do 1% superior de rentabilidade se concentraram principalmente em SK hynix."
-          },
-          {
-            "q": "Por que a Samsung Electronics chamou atenção?",
-            "a": "A Samsung liderou vendas líquidas à tarde, mas suas ações subiram, mostrando diferença entre fluxo e preço."
-          },
-          {
-            "q": "O que isso significa para investidores individuais?",
-            "a": "A seleção dentro de semicondutores aumentou, tornando importante acompanhar lucros esperados, volume negociado e fluxo no fechamento."
-          }
-        ]
-      },
-      "de": {
-        "title": "SK hynix zieht Top-Investoren an, Bewertung stützt Koreas Chipaktien-Handel",
-        "excerpt": "Am Nachmittag des 3. Juli konzentrierten Koreas Anleger im obersten Rendite-Prozent ihre Käufe auf SK hynix. Samsung führte die Nettoverkäufe an, stieg aber weiter.",
-        "metaDescription": "SK hynix wurde am 3. Juli zur wichtigsten Kaufposition koreanischer Top-Anleger. Samsung stieg trotz höchster Nettoverkäufe weiter.",
-        "summary": "Um 14:30 Uhr am 3. Juli kauften Anleger im obersten Rendite-Prozent besonders stark SK hynix. Auch DB HiTek lag unter den bevorzugten Käufen. Samsung Electronics führte die Nettoverkäufe an, gewann aber dennoch an Wert, was geteilte Chip-Flows zeigt.",
-        "body": "SK hynix rückte am Nachmittag des 3. Juli im koreanischen Aktienmarkt zum zentralen Kaufziel der Anleger im obersten Rendite-Prozent auf. Die Käufe setzten sich nach dem Vormittag fort und spiegelten sowohl Bewertungsattraktivität als auch Erwartungen an eine Erholung des Halbleiterzyklus wider. Samsung Electronics führte zur gleichen Zeit die Nettoverkäufe an, hielt jedoch einen Aufwärtstrend, was auf unterschiedliche Einschätzungen innerhalb großer Chipwerte hindeutet.\n\n## Warum SK hynix weiter gekauft wurde\nUm 14:30 Uhr konzentrierten sich die stärksten Käufe der Top-Anleger auf SK hynix. Ausschlaggebend war die Wahrnehmung eines günstigeren Preisniveaus. Koreanische Halbleiteraktien profitieren von Erwartungen an KI-Server, High-Bandwidth-Memory und Investitionen in Rechenzentren, bleiben kurzfristig aber volatil. In diesem Umfeld galt SK hynix als relativ günstig, wodurch aktive Anleger eine Wiedereinstiegschance sahen. Für Investoren im koreanischen Markt bleiben Won-Preise, ausländische Kapitalströme, Dollar-Won-Kurs und Exportgewinnerwartungen entscheidend.\n\n## DB HiTek ebenfalls gefragt, Samsung meistverkauft\nDB HiTek erschien ebenfalls unter den meistgekauften Titeln. Das zeigt, dass sich das Interesse von Speicherchips auf Systemhalbleiter und Foundry-nahe Werte ausweitet. Samsung Electronics blieb am Nachmittag Spitzenreiter bei den Nettoverkäufen. Nettoverkäufe bestimmen jedoch nicht immer die Kursrichtung. Der Anstieg von Samsung trotz Verkaufsdruck deutet auf Käufe bei Schwäche, institutionelle oder ausländische Nachfrage und indexgebundene Transaktionen hin. Da Samsung und SK hynix ein hohes Gewicht im Kospi haben, prägen ihre unterschiedlichen Flows die Wahrnehmung des Gesamtmarktes.\n\n## Bedeutung und nächste Faktoren\nDie Bewegung zeigt eine stärkere Selektion innerhalb des Halbleitersektors. Die Nachfrage nach SK hynix spiegelt anhaltendes Vertrauen in High-Bandwidth-Memory und Server-Speicher wider. Nach schnellen Erholungen kann jedoch Gewinnmitnahme einsetzen, weshalb Gewinnschätzungen, Speicherpreise, Wechselkurse und US-Technologiewerte gemeinsam beobachtet werden müssen. Privatanleger sollten nicht nur Ranglisten der Nettokäufe folgen, sondern Kaufzeitpunkt, Handelswert und Schlussflüsse prüfen. Am Nachmittag des 3. Juli bewerteten Top-Anleger SK hynix gegenüber Samsung Electronics als attraktiver und reboundstärker.",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "Halbleiteraktien",
-          "koreanischer Aktienmarkt",
-          "Top-Investoren",
-          "Kospi",
-          "High-Bandwidth-Memory",
-          "Kapitalflüsse",
-          "SK hynix zieht Top-I"
-        ],
-        "faq": [
-          {
-            "q": "Welche Aktie kauften Top-Anleger am Nachmittag des 3. Juli am stärksten?",
-            "a": "Um 14:30 Uhr am 3. Juli konzentrierten sich die Käufe der Anleger im obersten Rendite-Prozent am stärksten auf SK hynix."
-          },
-          {
-            "q": "Warum stand Samsung Electronics im Fokus?",
-            "a": "Samsung führte die Nettoverkäufe an, stieg aber weiter, was eine Abweichung zwischen Kapitalfluss und Kursentwicklung zeigte."
-          },
-          {
-            "q": "Was bedeutet das für Privatanleger?",
-            "a": "Innerhalb von Chipaktien nimmt die Selektion zu, daher sollten Gewinnschätzungen, Handelsvolumen und Schlussflüsse geprüft werden."
-          }
-        ]
-      },
-      "fr": {
-        "title": "SK hynix attire les achats des meilleurs investisseurs grâce à sa valorisation",
-        "excerpt": "Le 3 juillet après-midi, les investisseurs coréens du premier centile de performance ont concentré leurs achats sur SK hynix. Samsung a mené les ventes nettes mais a progressé.",
-        "metaDescription": "SK hynix est devenu le principal achat des meilleurs investisseurs coréens le 3 juillet. Samsung a monté malgré sa première place en ventes nettes.",
-        "summary": "À 14h30 le 3 juillet, les investisseurs du 1% le plus performant achetaient surtout SK hynix. DB HiTek figurait aussi parmi les valeurs recherchées. Samsung Electronics dominait les ventes nettes tout en progressant, signe de flux divergents dans les semi-conducteurs.",
-        "body": "SK hynix est devenu le 3 juillet après-midi la principale cible d’achat des investisseurs coréens classés dans le 1% supérieur par rendement. Les achats se sont poursuivis après la matinée, reflétant un attrait de valorisation et des attentes de reprise du cycle des semi-conducteurs. Samsung Electronics, de son côté, occupait la première place des ventes nettes sur la même période, mais conservait une tendance haussière, montrant une divergence au sein des grandes valeurs de puces.\n\n## Pourquoi SK hynix a continué d’attirer les achats\nÀ 14h30, les achats les plus marqués des investisseurs les plus performants se concentraient sur SK hynix. Le facteur principal était la perception d’un prix plus abordable. Les actions coréennes de semi-conducteurs profitent des attentes liées aux serveurs d’intelligence artificielle, à la mémoire à haut débit et aux investissements dans les centres de données, tout en restant volatiles à court terme. Dans ce contexte, SK hynix a été jugé relativement bon marché, offrant un point de retour aux investisseurs rapides. Pour les investisseurs exposés à la Corée, les cours en wons, les flux étrangers, le change dollar-won et les perspectives des exportateurs restent essentiels.\n\n## DB HiTek dans les achats, Samsung en tête des ventes\nDB HiTek est également apparu parmi les valeurs les plus achetées, signe que l’intérêt dépasse la mémoire pour toucher les semi-conducteurs système et les valeurs liées à la fonderie. Samsung Electronics est resté en tête des ventes nettes l’après-midi. Toutefois, ventes nettes et direction du cours ne coïncident pas toujours. La hausse de Samsung malgré la pression vendeuse suggère des achats sur repli, une demande institutionnelle ou étrangère et des transactions liées aux indices. Le poids de Samsung et SK hynix dans le Kospi rend ces flux déterminants pour la perception du marché coréen.\n\n## Impact et points à surveiller\nCette séance confirme une sélection plus forte dans les semi-conducteurs. La demande pour SK hynix reflète la confiance dans la mémoire à haut débit et la mémoire serveur. Après un rebond rapide, des prises de bénéfices restent possibles, ce qui impose de surveiller estimations de résultats, prix de la mémoire, changes et valeurs technologiques américaines. Les particuliers ne doivent pas seulement suivre les classements d’achats nets; ils doivent aussi examiner l’heure des achats, le montant échangé et les flux de clôture. Le 3 juillet après-midi, les meilleurs investisseurs ont attribué davantage d’attrait et de potentiel de rebond à SK hynix qu’à Samsung Electronics.",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "semi-conducteurs",
-          "Bourse coréenne",
-          "meilleurs investisseurs",
-          "Kospi",
-          "mémoire HBM",
-          "flux de marché",
-          "SK hynix attire les"
-        ],
-        "faq": [
-          {
-            "q": "Quelle action les meilleurs investisseurs ont-ils le plus achetée le 3 juillet après-midi ?",
-            "a": "À 14h30 le 3 juillet, les achats du 1% le plus performant se concentraient surtout sur SK hynix."
-          },
-          {
-            "q": "Pourquoi Samsung Electronics a-t-il retenu l’attention ?",
-            "a": "Samsung était en tête des ventes nettes l’après-midi, mais son cours montait encore, montrant une divergence entre flux et prix."
-          },
-          {
-            "q": "Quel enseignement pour les particuliers ?",
-            "a": "La sélection s’intensifie dans les semi-conducteurs; il faut suivre résultats attendus, montants échangés et flux de clôture."
-          }
-        ]
-      },
-      "ar": {
-        "title": "إس كيه هاينكس تجذب مشتريات المستثمرين المحترفين مع بروز جاذبية السعر في أسهم الرقائق الكورية",
-        "excerpt": "في بعد ظهر 3 يوليو، ركز المستثمرون الكوريون ضمن أعلى 1% من حيث العائد مشترياتهم على إس كيه هاينكس. سامسونغ تصدرت صافي البيع لكنها واصلت الصعود.",
-        "metaDescription": "إس كيه هاينكس أصبحت أبرز سهم شراء للمستثمرين الكوريين الأعلى عائدا في 3 يوليو، بينما ارتفعت سامسونغ رغم تصدرها صافي البيع.",
-        "summary": "حتى الساعة 2:30 بعد ظهر 3 يوليو، كان المستثمرون ضمن أعلى 1% من حيث العائد يشترون إس كيه هاينكس بأكبر وتيرة. كما دخلت DB HiTek قائمة الشراء. سامسونغ إلكترونيكس تصدرت صافي البيع لكنها ارتفعت، ما أبرز تباين التدفقات في أسهم الرقائق.",
-        "body": "برزت إس كيه هاينكس في بعد ظهر 3 يوليو كأهم هدف شراء في سوق الأسهم الكورية لدى المستثمرين الواقعين ضمن أعلى 1% من حيث العائد. استمرت المشتريات منذ جلسة الصباح، بما يعكس جاذبية السعر وتوقعات تعافي دورة أشباه الموصلات. في المقابل، تصدرت سامسونغ إلكترونيكس صافي البيع خلال الفترة نفسها، لكنها حافظت على اتجاه صاعد، وهو ما أظهر اختلافا واضحا داخل أسهم الرقائق الكبرى.\n\n## لماذا استمر الشراء في إس كيه هاينكس\nحتى الساعة 2:30 بعد الظهر، تركزت أقوى مشتريات المستثمرين الأعلى أداء في إس كيه هاينكس. السبب الرئيسي كان تراجع عبء السعر. أسهم أشباه الموصلات الكورية ارتبطت بتوقعات خوادم الذكاء الاصطناعي، والذاكرة ذات النطاق الترددي العالي، وتوسع الاستثمار في مراكز البيانات، لكنها شهدت تقلبات قصيرة الأجل. في هذا السياق، بدت إس كيه هاينكس أرخص نسبيا، ما منح المستثمرين النشطين فرصة عودة. بالنسبة للمستثمرين في السوق الكورية، تبقى الأسعار بالوون، وتدفقات الأجانب، وسعر الدولار مقابل الوون، وتوقعات أرباح شركات التصدير عوامل أساسية.\n\n## DB HiTek ضمن الشراء وسامسونغ تتصدر البيع\nظهرت DB HiTek أيضا بين الأسهم الأكثر شراء، ما يعني أن الاهتمام يمتد من الذاكرة إلى أشباه الموصلات النظامية والأسهم المرتبطة بخدمات التصنيع. سامسونغ إلكترونيكس بقيت في صدارة صافي البيع بعد الظهر. لكن صافي البيع لا يعني دائما هبوط السعر. صعود سامسونغ رغم ضغط البيع يشير إلى شراء عند الانخفاض، وطلب مؤسسي أو أجنبي، وتداول مرتبط بالمؤشرات. وبسبب الوزن الكبير لسامسونغ وإس كيه هاينكس في مؤشر كوسبي، تؤثر هذه التدفقات المتباينة مباشرة في قراءة السوق الكورية.\n\n## ما الذي يجب مراقبته\nتؤكد الحركة أن الشراء داخل قطاع أشباه الموصلات أصبح أكثر انتقائية. الطلب على إس كيه هاينكس يعكس استمرار الثقة في الذاكرة ذات النطاق الترددي العالي وذاكرة الخوادم. ومع ذلك، قد تظهر عمليات جني أرباح بعد الارتفاعات السريعة، لذلك يجب متابعة تقديرات الأرباح وأسعار الذاكرة وسعر الصرف وأسهم التكنولوجيا الأمريكية معا. لا ينبغي للمستثمر الفردي الاكتفاء بقوائم صافي الشراء، بل عليه مراجعة توقيت الشراء وقيمة التداول وتدفقات الإغلاق. في بعد ظهر 3 يوليو، منح المستثمرون المحترفون إس كيه هاينكس تقييما أعلى من سامسونغ من حيث جاذبية السعر وقوة الارتداد.",
-        "keywords": [
-          "إس كيه هاينكس",
-          "سامسونغ إلكترونيكس",
-          "DB HiTek",
-          "أسهم الرقائق",
-          "السوق الكورية",
-          "المستثمرون المحترفون",
-          "كوسبي",
-          "ذاكرة HBM",
-          "تدفقات الأسهم",
-          "إس كيه هاينكس تجذب م"
-        ],
-        "faq": [
-          {
-            "q": "ما السهم الذي ركز عليه كبار المستثمرين بعد ظهر 3 يوليو؟",
-            "a": "حتى الساعة 2:30 بعد ظهر 3 يوليو، تركزت مشتريات المستثمرين ضمن أعلى 1% من حيث العائد على إس كيه هاينكس."
-          },
-          {
-            "q": "لماذا لفتت سامسونغ إلكترونيكس الانتباه؟",
-            "a": "تصدرت سامسونغ صافي البيع بعد الظهر، لكنها ارتفعت في السعر، ما أظهر اختلافا بين التدفقات وحركة السهم."
-          },
-          {
-            "q": "ماذا يعني ذلك للمستثمرين الأفراد؟",
-            "a": "يعني أن الانتقاء داخل أسهم الرقائق يزداد، لذا يجب متابعة الأرباح المتوقعة وقيمة التداول وتدفقات نهاية الجلسة."
-          }
-        ]
-      },
-      "hi": {
-        "title": "SK hynix में सस्ते मूल्य का आकर्षण, कोरियाई चिप शेयरों में शीर्ष निवेशकों की खरीद केंद्रित",
-        "excerpt": "3 जुलाई की दोपहर को रिटर्न के लिहाज से शीर्ष 1% कोरियाई निवेशकों की खरीद SK hynix में केंद्रित रही। Samsung Electronics नेट बिकवाली में शीर्ष पर रही, फिर भी शेयर चढ़ा।",
-        "metaDescription": "3 जुलाई को SK hynix शीर्ष प्रदर्शन करने वाले कोरियाई निवेशकों की प्रमुख खरीद बना। Samsung Electronics नेट बिकवाली में आगे रहते हुए भी चढ़ा।",
-        "summary": "3 जुलाई दोपहर 2:30 बजे तक शीर्ष 1% रिटर्न वाले निवेशकों ने SK hynix को सबसे अधिक खरीदा। DB HiTek भी खरीद सूची में रहा, जिससे चिप शेयरों में रुचि बनी रही। Samsung Electronics नेट बिकवाली में शीर्ष पर था, लेकिन शेयर बढ़ा, जिससे बड़े सेमीकंडक्टर शेयरों में अलग-अलग प्रवाह दिखा।",
-        "body": "SK hynix 3 जुलाई की दोपहर को कोरियाई शेयर बाजार में रिटर्न के लिहाज से शीर्ष 1% निवेशकों की मुख्य खरीद बन गया। सुबह से जारी खरीद दोपहर में भी बनी रही, जिसमें सस्ते मूल्य का आकर्षण और सेमीकंडक्टर चक्र में सुधार की उम्मीद दोनों शामिल रहे। उसी समय Samsung Electronics नेट बिकवाली में पहले स्थान पर रहा, लेकिन उसका शेयर ऊपर रहा, जिससे बड़े चिप शेयरों के भीतर निवेशकों की राय अलग दिखी।\n\n## SK hynix में खरीद क्यों बनी रही\nदोपहर 2:30 बजे तक शीर्ष निवेशकों की सबसे मजबूत खरीद SK hynix में केंद्रित थी। प्रमुख कारण मूल्य आकर्षण था। कोरियाई सेमीकंडक्टर शेयर AI सर्वर, हाई-बैंडविड्थ मेमोरी और डेटा सेंटर निवेश से जुड़े हुए हैं, लेकिन अल्पकालिक उतार-चढ़ाव भी तेज रहा है। इस माहौल में SK hynix अपेक्षाकृत सस्ता माना गया और सक्रिय निवेशकों ने फिर से प्रवेश का अवसर देखा। कोरिया में निवेश करने वालों के लिए वोन में कीमत, विदेशी प्रवाह, डॉलर-वोन विनिमय दर और निर्यात कंपनियों की आय उम्मीदें अहम हैं।\n\n## DB HiTek भी खरीद में, Samsung बिकवाली में शीर्ष\nSK hynix के साथ DB HiTek भी प्रमुख खरीद शेयरों में शामिल रहा। यह संकेत देता है कि रुचि मेमोरी से आगे सिस्टम सेमीकंडक्टर और फाउंड्री से जुड़े शेयरों तक फैल रही है। Samsung Electronics दोपहर में भी नेट बिकवाली में शीर्ष पर रहा। हालांकि नेट बिकवाली हमेशा कीमत गिरने का संकेत नहीं देती। बिकवाली दबाव के बावजूद Samsung का चढ़ना गिरावट पर खरीद, संस्थागत या विदेशी मांग और सूचकांक आधारित ट्रेडिंग का संयुक्त असर दिखाता है। Kospi में Samsung और SK hynix का वजन बड़ा है, इसलिए इनके अलग प्रवाह पूरे बाजार की धारणा को प्रभावित करते हैं।\n\n## निवेशकों के लिए संकेत\nयह प्रवाह दिखाता है कि सेमीकंडक्टर सेक्टर में चयनात्मक खरीद मजबूत हो रही है। SK hynix की मांग हाई-बैंडविड्थ मेमोरी और सर्वर मेमोरी की मांग पर भरोसा दर्शाती है। फिर भी तेज उछाल के बाद मुनाफावसूली हो सकती है, इसलिए आय अनुमान, मेमोरी कीमतें, विनिमय दर और अमेरिकी टेक शेयरों को साथ देखना चाहिए। खुदरा निवेशकों को केवल नेट खरीद सूची का पीछा नहीं करना चाहिए; खरीद का समय, कारोबार मूल्य और बंद होते समय का प्रवाह भी देखना चाहिए। 3 जुलाई की दोपहर के रुझान में शीर्ष निवेशकों ने Samsung की तुलना में SK hynix को अधिक मूल्य आकर्षण और रिकवरी क्षमता दी।",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "सेमीकंडक्टर शेयर",
-          "कोरियाई बाजार",
-          "शीर्ष निवेशक",
-          "Kospi",
-          "हाई बैंडविड्थ मेमोरी",
-          "शेयर प्रवाह",
-          "SK hynix में सस्ते म"
-        ],
-        "faq": [
-          {
-            "q": "3 जुलाई की दोपहर शीर्ष निवेशकों ने किस शेयर को सबसे ज्यादा खरीदा?",
-            "a": "3 जुलाई दोपहर 2:30 बजे तक शीर्ष 1% रिटर्न वाले निवेशकों की खरीद सबसे अधिक SK hynix में केंद्रित थी।"
-          },
-          {
-            "q": "Samsung Electronics क्यों चर्चा में रहा?",
-            "a": "Samsung दोपहर में नेट बिकवाली में शीर्ष पर रहा, लेकिन शेयर बढ़ता रहा, जिससे प्रवाह और कीमत में अंतर दिखा।"
-          },
-          {
-            "q": "खुदरा निवेशकों के लिए इसका क्या मतलब है?",
-            "a": "सेमीकंडक्टर शेयरों में चयनात्मक खरीद बढ़ रही है, इसलिए आय अनुमान, कारोबार मूल्य और बंद होने से पहले के प्रवाह पर ध्यान जरूरी है।"
-          }
-        ]
-      },
-      "id": {
-        "title": "SK hynix menarik beli investor elite saat valuasi murah memimpin saham chip Korea",
-        "excerpt": "Pada sore 3 Juli, investor Korea dengan imbal hasil 1% teratas memusatkan pembelian pada SK hynix. Samsung Electronics memimpin jual bersih, tetapi tetap naik.",
-        "metaDescription": "SK hynix menjadi pembelian utama investor top Korea pada 3 Juli. Samsung Electronics tetap naik meski menempati posisi jual bersih terbesar.",
-        "summary": "Hingga pukul 14.30 pada 3 Juli, investor dengan imbal hasil 1% teratas paling agresif membeli SK hynix. DB HiTek juga masuk daftar beli utama, menunjukkan minat pada saham chip masih kuat. Samsung Electronics memimpin jual bersih, tetapi harga sahamnya naik.",
-        "body": "SK hynix menjadi target beli utama di pasar saham Korea pada sore 3 Juli bagi investor dengan imbal hasil 1% teratas. Pembelian berlanjut dari sesi pagi, mencerminkan daya tarik harga dan harapan pemulihan siklus semikonduktor. Samsung Electronics, di sisi lain, menempati posisi jual bersih terbesar pada periode yang sama, tetapi harga sahamnya tetap bergerak naik, memperlihatkan perbedaan arus di antara saham chip berkapitalisasi besar.\n\n## Mengapa SK hynix terus dibeli\nHingga pukul 14.30, pembelian terkuat investor top terkonsentrasi pada SK hynix. Faktor utamanya adalah harga yang dinilai lebih menarik. Saham semikonduktor Korea terkait dengan permintaan server AI, high-bandwidth memory, dan investasi pusat data, namun volatilitas jangka pendek tetap tinggi. Dalam kondisi itu, SK hynix dipandang relatif murah, sehingga investor aktif melihat peluang masuk kembali. Bagi investor di pasar Korea, harga dalam won, arus investor asing, kurs dolar-won, dan prospek laba emiten ekspor perlu dipantau bersama.\n\n## DB HiTek masuk daftar beli, Samsung teratas dijual\nDB HiTek juga muncul di jajaran saham yang banyak dibeli. Ini menunjukkan minat tidak hanya pada memori, tetapi juga semikonduktor sistem dan saham terkait foundry. Samsung Electronics tetap menjadi saham dengan jual bersih terbesar pada sore hari. Namun, jual bersih tidak selalu berarti harga turun. Kenaikan Samsung di tengah tekanan jual menunjukkan adanya beli saat koreksi, permintaan institusi atau asing, serta transaksi terkait indeks. Karena Samsung dan SK hynix memiliki bobot besar di Kospi, perbedaan arus keduanya langsung memengaruhi persepsi pasar Korea.\n\n## Dampak dan hal yang perlu dipantau\nPergerakan ini menunjukkan pembelian yang makin selektif di sektor semikonduktor. Permintaan pada SK hynix mencerminkan keyakinan bahwa prospek high-bandwidth memory dan memori server masih kuat. Namun setelah kenaikan cepat, aksi ambil untung bisa muncul, sehingga estimasi laba, harga memori, kurs, dan saham teknologi AS perlu diperhatikan. Investor ritel tidak sebaiknya hanya mengikuti daftar beli bersih; waktu pembelian, nilai transaksi, dan arus menjelang penutupan juga penting. Dari pola sore 3 Juli, investor top memberi nilai lebih tinggi pada daya tarik harga dan potensi rebound SK hynix dibanding Samsung Electronics.",
-        "keywords": [
-          "SK hynix",
-          "Samsung Electronics",
-          "DB HiTek",
-          "saham semikonduktor",
-          "pasar saham Korea",
-          "investor elite",
-          "Kospi",
-          "high-bandwidth memory",
-          "arus saham",
-          "SK hynix menarik bel"
-        ],
-        "faq": [
-          {
-            "q": "Saham apa yang paling banyak dibeli investor top pada sore 3 Juli?",
-            "a": "Hingga pukul 14.30 pada 3 Juli, pembelian investor dengan imbal hasil 1% teratas paling terkonsentrasi pada SK hynix."
-          },
-          {
-            "q": "Mengapa Samsung Electronics menjadi perhatian?",
-            "a": "Samsung memimpin jual bersih pada sore hari, tetapi harga sahamnya tetap naik, menunjukkan perbedaan antara arus dana dan pergerakan harga."
-          },
-          {
-            "q": "Apa artinya bagi investor ritel?",
-            "a": "Pembelian selektif di saham chip meningkat, sehingga investor perlu memantau prospek laba, nilai transaksi, dan arus menjelang penutupan."
           }
         ]
       }
