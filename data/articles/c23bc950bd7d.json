@@ -1,0 +1,383 @@
+{
+  "id": "c23bc950bd7d",
+  "slug": "대화하듯-주식-거래토스증권-오픈api-출시-925821",
+  "channelId": "STOCKS",
+  "category": "stocks",
+  "publishedAt": "2026-08-13T08:08:33.870Z",
+  "updatedAt": "2026-08-13T08:08:33.870Z",
+  "sourceName": "",
+  "sourceUrl": "",
+  "canonicalUrl": "https://www.mk.co.kr/news/stock/12126661",
+  "titleFingerprint": "f96260d27715c2ad13f3d704ca7a8a1d5890801e",
+  "dedupKeys": [
+    "c23bc950bd7d6b5e501356b0a137bfc44eb5d96d",
+    "f96260d27715c2ad13f3d704ca7a8a1d5890801e",
+    "95ef68626fd2cccb223d6005c80d484ef83440dc"
+  ],
+  "imageUrl": "/images/articles/c23bc950bd7d.jpg",
+  "i18n": {
+    "ko": {
+      "title": "토스증권 오픈API 정식 출시, AI 대화형 주식 주문·계좌 조회와 국내 증권 플랫폼 경쟁 본격화",
+      "excerpt": "토스증권이 2026년 8월 13일 AI와 대화하듯 주식 주문과 계좌 조회를 처리할 수 있는 오픈API 서비스를 정식 출시했다. 대형언어모델 연동형 거래 인터페이스로 개발자와 핀테크 서비스의 활용 범위가 넓어지고 국내 증권 API 경쟁도 빨라진다.",
+      "metaDescription": "토스증권 오픈API 정식 출시로 AI 대화형 주식 주문과 계좌 조회가 가능해졌다. 대형언어모델 연동 구조, 국내 전자금융·자본시장 규제, 핀테크 경쟁, 투자자 경험 변화, 개발자 활용 포인트와 증권 플랫폼 영향을 정리했다.",
+      "summary": "토스증권이 2026년 8월 13일 AI와 대화하듯 주식 주문과 계좌 조회를 할 수 있는 오픈API를 정식 출시했다. 핵심은 대형언어모델과 연결되는 거래 인터페이스다. 개발자는 증권 기능을 외부 서비스에 붙일 수 있고 투자자는 복잡한 메뉴 대신 자연어 기반 거래 경험을 기대할 수 있다. 국내 시장에서는 보안, 본인확인, 투자자 보호 체계가 확산 속도를 좌우할 전망이다.",
+      "body": "토스증권이 2026년 8월 13일 오픈API 서비스를 정식 출시하며 AI 대화형 주식 거래 경쟁의 출발선을 넓혔다. 이번 서비스는 인공지능과 대화하듯 주식 주문과 계좌 조회를 처리할 수 있도록 설계됐다. 핵심은 대형언어모델(LLM)이 거래 기능을 이해하고 호출하기 쉬운 형태의 API다. 투자자는 복잡한 메뉴를 직접 찾는 방식에서 벗어나 보유 종목 확인, 계좌 상태 점검, 주문 실행으로 이어지는 과정을 더 자연스럽게 경험할 수 있다.\n\n## 증권 거래가 대화형 인터페이스로 이동\n국내 주식 거래는 모바일 앱 중심으로 빠르게 옮겨왔지만, 주문 화면과 계좌 메뉴는 여전히 사용자가 구조를 익혀야 하는 방식이었다. 오픈API는 이 구조를 외부 개발자와 서비스가 활용할 수 있는 접점으로 바꾼다. AI 비서, 자산관리 앱, 투자 데이터 서비스가 토스증권의 주문·조회 기능을 연결하면 사용자는 검색창이나 대화창에서 거래 전후 정보를 확인하는 흐름을 접할 수 있다. 특히 LLM 기반 서비스는 문장을 해석해 필요한 기능을 호출하는 데 강점이 있어 증권사의 API 개방 수준이 사용자 경험을 좌우하는 변수로 커진다.\n\n## 확인된 기능과 국내 규제 맥락\n이번 출시에서 확인되는 핵심 축은 2026년 8월 13일 정식 서비스 시작, 주식 주문, 계좌 조회, LLM 연동형 API다. 기능을 숫자로 나누면 거래 실행과 자산 확인이라는 2대 기능 축, 이를 대화형 서비스로 잇는 1개 기술 축으로 정리된다. 금액이나 수수료 수치가 공개 변수로 제시된 사안은 아니어서 원화 환산 이슈는 제한적이다. 대신 국내 투자자에게 중요한 지표는 본인확인, 권한 부여, 오류 주문 방지, 이상거래 대응, 투자자 보호 절차다. 실제 주문이 이뤄지는 서비스인 만큼 전자금융거래와 자본시장 규제 안에서 인증과 통제 수준이 신뢰를 결정한다.\n\n## 시장 영향과 전망\n토스증권 오픈API 출시는 증권사가 더 이상 자체 앱 안에서만 고객 경험을 설계하지 않는다는 신호다. 개발자는 거래 기능을 서비스 안에 얹을 수 있고, 핀테크 기업은 투자 정보와 실행을 한 화면에서 묶는 상품을 만들 수 있다. 국내 증권업계에는 API 품질, 응답 속도, 보안 체계, AI 친화적 문서화가 새로운 경쟁 요소로 떠오른다. 개인투자자에게는 편의성이 커지지만 자연어 주문의 오해 가능성도 함께 관리돼야 한다. 시장은 대화형 금융 서비스가 실제 주문 영역으로 들어오는 초기 국면에 들어섰고, 앞으로 계좌관리·자산배분·리스크 알림까지 확장될 가능성이 크다.",
+      "keywords": [
+        "토스증권",
+        "오픈API",
+        "AI 주식거래",
+        "대화형 주식 주문",
+        "계좌 조회",
+        "대형언어모델",
+        "LLM",
+        "핀테크",
+        "국내 증권사",
+        "투자자 보호"
+      ],
+      "faq": [
+        {
+          "q": "토스증권 오픈API는 무엇인가?",
+          "a": "AI와 대화하듯 주식 주문과 계좌 조회를 처리할 수 있도록 만든 토스증권의 API 서비스다."
+        },
+        {
+          "q": "이번 서비스의 핵심 기술은 무엇인가?",
+          "a": "대형언어모델(LLM)과 연결되는 거래 인터페이스가 핵심이다. 자연어 흐름을 주문과 조회 기능으로 이어주는 구조다."
+        },
+        {
+          "q": "국내 투자자에게 어떤 영향이 있나?",
+          "a": "거래 접근성은 높아질 수 있지만 실제 주문 서비스인 만큼 본인확인, 권한 관리, 오류 주문 방지, 투자자 보호 체계가 중요해진다."
+        }
+      ]
+    },
+    "en": {
+      "title": "Toss Securities OpenAPI Launches AI Stock Orders and Account Checks",
+      "excerpt": "Toss Securities launched its OpenAPI on August 13, 2026, enabling stock orders and account inquiries through an AI conversation flow. The LLM-ready interface expands use cases for developers and fintech services in Korea.",
+      "metaDescription": "Toss Securities OpenAPI enables AI-style stock orders and account checks through an LLM-ready interface, sharpening Korea’s brokerage API and fintech competition.",
+      "summary": "Toss Securities launched an OpenAPI on August 13, 2026, for stock orders and account inquiries through an AI-like conversation. Its core is a trading interface built for large language model connectivity. Developers can embed brokerage functions into outside services, while investors may gain a more natural trading experience. In Korea, security, identity ch",
+      "body": "Toss Securities launched its OpenAPI on August 13, 2026, widening the starting line for conversational stock trading in Korea. The service is designed so stock orders and account inquiries can move through an AI dialogue flow. Its core is an API structure that a large language model can understand and call for trading functions.\n\n## Trading Moves Into Conversation\nKorean stock trading has shifted rapidly to mobile apps, yet order screens and account menus still require users to learn each app’s structure. OpenAPI changes that access point for developers and outside services. AI assistants, wealth apps and investment data tools can connect order and inquiry functions so users check portfolio status, account data and trade actions in a more natural flow.\n\n## Regulation And Market Impact\nThe confirmed data points are the August 13 launch, two functional pillars of stock orders and account inquiries, and one technical pillar tied to LLM integration. No fee or monetary figure defines this launch, so won conversion is not central. For Korean investors, the key issues are authentication, permission control, mistaken-order prevention, abnormal-trade monitoring and investor protection. Brokerage competition will increasingly depend on API quality, speed, security and AI-friendly documentation.",
+      "keywords": [
+        "Toss Securities",
+        "OpenAPI",
+        "AI stock trading",
+        "conversational trading",
+        "account inquiry",
+        "large language model",
+        "LLM",
+        "Korean fintech",
+        "brokerage API",
+        "investor protection"
+      ],
+      "faq": [
+        {
+          "q": "What is the Toss Securities OpenAPI?",
+          "a": "It is an API service that enables stock orders and account inquiries through an AI-style conversation flow."
+        },
+        {
+          "q": "What is the core technology behind the service?",
+          "a": "The core is a trading interface designed to connect with large language models and route natural-language flows to order and inquiry functions."
+        },
+        {
+          "q": "How could it affect Korean investors?",
+          "a": "It may make trading access more natural, but authentication, permission controls, mistaken-order prevention and investor protection remain central."
+        }
+      ]
+    },
+    "ja": {
+      "title": "トス証券オープンAPI正式開始、AI対話型の株式注文・口座照会が韓国証券競争を加速",
+      "excerpt": "トス証券は2026年8月13日、AIと会話するように株式注文と口座照会を処理できるオープンAPIを正式開始した。大規模言語モデル連携型の取引インターフェースにより、開発者とフィンテックサービスの活用範囲が広がる。",
+      "metaDescription": "トス証券のオープンAPIにより、AI対話型の株式注文と口座照会が可能になった。LLM連携、韓国規制、証券API競争、投資家体験への影響を整理する。",
+      "summary": "トス証券は2026年8月13日、AIと会話するように株式注文と口座照会を行えるオープンAPIを正式開始した。中核は大規模言語モデルと接続する取引インターフェースだ。開発者は証券機能を外部サービスに組み込める。韓国市場では認証、セキュリティ、投資家保護が普及速度を左右する。",
+      "body": "トス証券は2026年8月13日、オープンAPIを正式開始し、AI対話型の株式取引競争を一段と前に進めた。このサービスは、AIと会話するように株式注文と口座照会を処理できる設計になっている。中核は、大規模言語モデル(LLM)が取引機能を理解し、呼び出しやすいAPI構造だ。\n\n## 取引画面から会話型へ\n韓国の株式取引はモバイルアプリ中心に移行したが、注文画面や口座メニューは依然として利用者が構造を覚える必要があった。オープンAPIはその接点を外部開発者とサービスに開く。AIアシスタント、資産管理アプリ、投資データサービスが注文・照会機能を接続すれば、利用者はポートフォリオ確認、口座状態の把握、注文実行までを自然な流れで扱える。\n\n## 規制と市場への影響\n確認される要点は、8月13日の正式開始、株式注文と口座照会という2つの機能軸、LLM連携という1つの技術軸だ。金額や手数料が中心の案件ではないため、ウォン換算の論点は限定的だ。韓国の投資家に重要なのは本人確認、権限管理、誤注文防止、異常取引対応、投資家保護である。今後の証券会社競争ではAPI品質、応答速度、セキュリティ、AIに適した文書化が重要な差別化要素になる。",
+      "keywords": [
+        "トス証券",
+        "オープンAPI",
+        "AI株式取引",
+        "対話型取引",
+        "口座照会",
+        "大規模言語モデル",
+        "LLM",
+        "韓国フィンテック",
+        "証券API",
+        "投資家保護"
+      ],
+      "faq": [
+        {
+          "q": "トス証券オープンAPIとは何ですか。",
+          "a": "AIと会話するように株式注文と口座照会を処理できるAPIサービスです。"
+        },
+        {
+          "q": "中核技術は何ですか。",
+          "a": "大規模言語モデル(LLM)と接続する取引インターフェースが中核です。自然言語の流れを注文や照会機能につなげます。"
+        },
+        {
+          "q": "韓国の投資家への影響は何ですか。",
+          "a": "取引の使いやすさは高まる可能性がある一方、本人確認、権限管理、誤注文防止、投資家保護が重要になります。"
+        }
+      ]
+    },
+    "zh": {
+      "title": "Toss证券OpenAPI正式上线，AI对话式股票下单与账户查询推动韩国券商平台竞争升级",
+      "excerpt": "Toss证券于2026年8月13日正式上线OpenAPI服务，可通过类似AI对话的流程完成股票下单和账户查询。面向大语言模型的交易接口扩大了开发者和金融科技服务的应用空间。",
+      "metaDescription": "Toss证券OpenAPI正式上线，支持AI对话式股票下单和账户查询。本文梳理LLM连接结构、韩国金融监管、券商API竞争和投资者体验变化。",
+      "summary": "Toss证券于2026年8月13日正式上线OpenAPI，可通过AI对话式流程处理股票下单和账户查询。核心是连接大语言模型的交易接口。开发者可将券商功能接入外部服务，投资者有望减少复杂菜单操作。韩国市场的认证、安全和投资者保护将决定普及速度。",
+      "body": "Toss证券于2026年8月13日正式上线OpenAPI服务，扩大了韩国AI对话式股票交易的竞争起点。该服务被设计为可像与人工智能对话一样处理股票下单和账户查询。其核心是大语言模型(LLM)容易理解并调用交易功能的API结构。\n\n## 股票交易走向对话界面\n韩国股票交易已快速转向移动应用，但下单页面和账户菜单仍要求用户熟悉平台结构。OpenAPI把这一入口开放给外部开发者和服务。AI助手、资产管理应用和投资数据服务接入Toss证券的下单与查询功能后，用户可在搜索框或对话框中完成持仓确认、账户状态查看和交易动作。\n\n## 监管语境与市场影响\n本次上线的明确要点包括8月13日正式服务、股票下单和账户查询两大功能，以及LLM连接这一技术轴。该事项不以金额或手续费数据为核心，因此韩元换算并非重点。对韩国投资者而言，更关键的是身份认证、授权管理、防止误下单、异常交易应对和投资者保护。未来券商竞争将更多取决于API质量、响应速度、安全体系以及面向AI服务的文档能力。",
+      "keywords": [
+        "Toss证券",
+        "OpenAPI",
+        "AI股票交易",
+        "对话式交易",
+        "账户查询",
+        "大语言模型",
+        "LLM",
+        "韩国金融科技",
+        "券商API",
+        "投资者保护"
+      ],
+      "faq": [
+        {
+          "q": "Toss证券OpenAPI是什么。",
+          "a": "这是一项可通过AI对话式流程处理股票下单和账户查询的API服务。"
+        },
+        {
+          "q": "这项服务的核心技术是什么。",
+          "a": "核心是连接大语言模型(LLM)的交易接口，把自然语言流程连接到下单和查询功能。"
+        },
+        {
+          "q": "它对韩国投资者有什么影响。",
+          "a": "交易入口可能更自然，但身份认证、权限管理、防误单和投资者保护仍是关键。"
+        }
+      ]
+    },
+    "es": {
+      "title": "Toss Securities lanza OpenAPI para órdenes bursátiles con IA y consultas de cuenta",
+      "excerpt": "Toss Securities lanzó el 13 de agosto de 2026 su OpenAPI para procesar órdenes de acciones y consultas de cuenta mediante un flujo conversacional con IA. La interfaz preparada para LLM amplía el uso por desarrolladores y fintech en Corea.",
+      "metaDescription": "OpenAPI de Toss Securities habilita órdenes bursátiles y consultas de cuenta con IA. Claves sobre LLM, regulación coreana, competencia fintech e impacto inversor.",
+      "summary": "Toss Securities lanzó el 13 de agosto de 2026 una OpenAPI para órdenes de acciones y consultas de cuenta en formato de conversación con IA. El eje es una interfaz de negociación conectable a grandes modelos de lenguaje. Los desarrolladores pueden integrar funciones bursátiles en servicios externos. En Corea, seguridad, verificación de identidad y protección ",
+      "body": "Toss Securities lanzó el 13 de agosto de 2026 su OpenAPI y abrió una nueva fase para la negociación bursátil conversacional en Corea. El servicio permite que órdenes de acciones y consultas de cuenta se procesen como si el usuario dialogara con una IA. El núcleo es una estructura API que un gran modelo de lenguaje puede entender y activar para funciones de trading.\n\n## Del menú a la conversación\nLa inversión bursátil coreana ya es principalmente móvil, pero las pantallas de orden y los menús de cuenta aún exigen conocer la arquitectura de cada app. OpenAPI convierte ese punto de acceso en una herramienta para desarrolladores y servicios externos. Asistentes de IA, apps patrimoniales y servicios de datos pueden conectar funciones de orden y consulta para que el usuario revise posiciones, estado de cuenta y operaciones en un flujo más natural.\n\n## Regulación e impacto\nLos datos centrales son el lanzamiento del 13 de agosto, dos funciones principales, órdenes y consultas, y un eje técnico ligado a LLM. No hay una cifra de comisión o importe que haga relevante una conversión a wones. Para el inversor coreano pesan más la autenticación, los permisos, la prevención de órdenes erróneas, el control de operaciones anómalas y la protección del cliente. La competencia entre brókeres dependerá de calidad API, velocidad, seguridad y documentación apta para IA.",
+      "keywords": [
+        "Toss Securities",
+        "OpenAPI",
+        "trading con IA",
+        "órdenes bursátiles",
+        "consulta de cuenta",
+        "gran modelo de lenguaje",
+        "LLM",
+        "fintech coreana",
+        "API bursátil",
+        "protección del inversor"
+      ],
+      "faq": [
+        {
+          "q": "¿Qué es la OpenAPI de Toss Securities?",
+          "a": "Es un servicio API que permite procesar órdenes de acciones y consultas de cuenta mediante un flujo conversacional con IA."
+        },
+        {
+          "q": "¿Cuál es la tecnología central?",
+          "a": "La base es una interfaz de negociación conectada a grandes modelos de lenguaje para llevar lenguaje natural a órdenes y consultas."
+        },
+        {
+          "q": "¿Cómo impacta al inversor coreano?",
+          "a": "Puede hacer más natural el acceso a la inversión, pero autenticación, permisos, prevención de errores y protección del inversor siguen siendo claves."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Toss Securities lança OpenAPI para ordens de ações com IA e consultas de conta",
+      "excerpt": "A Toss Securities lançou em 13 de agosto de 2026 sua OpenAPI para executar ordens de ações e consultas de conta em um fluxo conversacional com IA. A interface pronta para LLM amplia o uso por desenvolvedores e fintechs na Coreia.",
+      "metaDescription": "OpenAPI da Toss Securities permite ordens de ações e consultas de conta com IA. Veja LLM, regulação coreana, disputa fintech e impacto para investidores.",
+      "summary": "A Toss Securities lançou em 13 de agosto de 2026 uma OpenAPI para ordens de ações e consultas de conta em formato de conversa com IA. O núcleo é uma interface de negociação conectável a grandes modelos de linguagem. Desenvolvedores podem incorporar funções de corretagem a serviços externos. Na Coreia, segurança, autenticação e proteção ao investidor orientar",
+      "body": "A Toss Securities lançou em 13 de agosto de 2026 sua OpenAPI e ampliou a disputa por negociação acionária conversacional na Coreia. O serviço foi desenhado para permitir ordens de ações e consultas de conta em um fluxo semelhante a uma conversa com IA. O centro técnico é uma estrutura de API que grandes modelos de linguagem conseguem entender e acionar para funções de trading.\n\n## A negociação vira conversa\nA negociação de ações na Coreia migrou rapidamente para aplicativos móveis, mas telas de ordem e menus de conta ainda exigem aprendizado da estrutura de cada app. A OpenAPI abre esse ponto de contato para desenvolvedores e serviços externos. Assistentes de IA, apps de gestão patrimonial e serviços de dados de investimento podem conectar ordens e consultas, permitindo ao usuário verificar posições, conta e execução em um fluxo mais natural.\n\n## Regulação e mercado\nOs pontos confirmados são o lançamento em 13 de agosto, duas funções centrais, ordens e consultas, e um eixo técnico ligado a LLM. Não há valor ou tarifa que torne a conversão para won um fator central. Para investidores coreanos, pesam autenticação, gestão de permissões, prevenção de ordens incorretas, resposta a transações anormais e proteção ao investidor. A competição entre corretoras tende a passar por qualidade da API, velocidade, segurança e documentação preparada para IA.",
+      "keywords": [
+        "Toss Securities",
+        "OpenAPI",
+        "negociação com IA",
+        "ordens de ações",
+        "consulta de conta",
+        "grande modelo de linguagem",
+        "LLM",
+        "fintech coreana",
+        "API de corretora",
+        "proteção ao investidor"
+      ],
+      "faq": [
+        {
+          "q": "O que é a OpenAPI da Toss Securities?",
+          "a": "É um serviço de API para processar ordens de ações e consultas de conta por meio de um fluxo conversacional com IA."
+        },
+        {
+          "q": "Qual é a tecnologia central?",
+          "a": "A base é uma interface de negociação ligada a grandes modelos de linguagem, conectando linguagem natural a funções de ordem e consulta."
+        },
+        {
+          "q": "Qual o impacto para investidores coreanos?",
+          "a": "O acesso pode ficar mais natural, mas autenticação, permissões, prevenção de erros e proteção ao investidor continuam decisivos."
+        }
+      ]
+    },
+    "de": {
+      "title": "Toss Securities startet OpenAPI für KI-Aktienorders und Kontoprüfungen",
+      "excerpt": "Toss Securities startete am 13. August 2026 seine OpenAPI für Aktienorders und Kontoabfragen in einem KI-Dialogfluss. Die LLM-fähige Schnittstelle erweitert Einsatzmöglichkeiten für Entwickler und Fintech-Dienste in Korea.",
+      "metaDescription": "Toss Securities OpenAPI ermöglicht KI-gestützte Aktienorders und Kontoabfragen. Überblick zu LLM-Anbindung, Koreas Regulierung, Fintech-Wettbewerb und Anlegerwirkung.",
+      "summary": "Toss Securities startete am 13. August 2026 eine OpenAPI für Aktienorders und Kontoabfragen über einen KI-ähnlichen Dialog. Kern ist eine Handelsschnittstelle für große Sprachmodelle. Entwickler können Brokerage-Funktionen in externe Dienste einbinden. In Korea werden Sicherheit, Identitätsprüfung und Anlegerschutz die Verbreitung prägen.",
+      "body": "Toss Securities startete am 13. August 2026 seine OpenAPI und verbreiterte damit den Wettbewerb um dialogbasierten Aktienhandel in Korea. Der Dienst ist so angelegt, dass Aktienorders und Kontoabfragen wie in einem Gespräch mit einer KI verarbeitet werden können. Kern ist eine API-Struktur, die ein großes Sprachmodell verstehen und für Handelsfunktionen aufrufen kann.\n\n## Handel Wird Gesprächsbasiert\nDer koreanische Aktienhandel ist stark in mobile Apps gewandert, doch Ordermasken und Kontomenüs verlangen weiterhin Kenntnis der jeweiligen App-Struktur. OpenAPI öffnet diesen Zugang für Entwickler und externe Dienste. KI-Assistenten, Vermögens-Apps und Investmentdatendienste können Order- und Abfragefunktionen verbinden, sodass Nutzer Positionen, Kontostatus und Handelsaktionen natürlicher prüfen können.\n\n## Regulierung Und Marktfolgen\nDie zentralen Daten sind der Start am 13. August, zwei Funktionssäulen, Aktienorders und Kontoabfragen, sowie eine technische Säule der LLM-Anbindung. Gebühren oder Beträge stehen nicht im Mittelpunkt, daher ist eine Won-Umrechnung hier nicht entscheidend. Für koreanische Anleger zählen Authentifizierung, Berechtigungen, Schutz vor Fehlorders, Überwachung ungewöhnlicher Transaktionen und Anlegerschutz. Der Wettbewerb der Broker wird stärker von API-Qualität, Tempo, Sicherheit und KI-tauglicher Dokumentation abhängen.",
+      "keywords": [
+        "Toss Securities",
+        "OpenAPI",
+        "KI Aktienhandel",
+        "dialogbasierter Handel",
+        "Kontoabfrage",
+        "großes Sprachmodell",
+        "LLM",
+        "koreanische Fintechs",
+        "Brokerage API",
+        "Anlegerschutz"
+      ],
+      "faq": [
+        {
+          "q": "Was ist die OpenAPI von Toss Securities?",
+          "a": "Sie ist ein API-Dienst, der Aktienorders und Kontoabfragen über einen KI-Dialogfluss ermöglicht."
+        },
+        {
+          "q": "Was ist die Kerntechnologie?",
+          "a": "Kern ist eine Handelsschnittstelle für große Sprachmodelle, die natürliche Sprache mit Order- und Abfragefunktionen verbindet."
+        },
+        {
+          "q": "Was bedeutet das für koreanische Anleger?",
+          "a": "Der Zugang kann natürlicher werden, doch Authentifizierung, Berechtigungen, Fehlorder-Schutz und Anlegerschutz bleiben zentral."
+        }
+      ]
+    },
+    "fr": {
+      "title": "Toss Securities lance OpenAPI pour ordres boursiers IA et suivi de compte",
+      "excerpt": "Toss Securities a lancé le 13 août 2026 son OpenAPI pour traiter des ordres d’actions et des consultations de compte dans un flux conversationnel avec l’IA. L’interface adaptée aux LLM élargit les usages pour développeurs et fintechs en Cor",
+      "metaDescription": "OpenAPI de Toss Securities permet ordres boursiers et consultations de compte avec IA. Points clés sur LLM, régulation coréenne, concurrence fintech et investisseurs.",
+      "summary": "Toss Securities a lancé le 13 août 2026 une OpenAPI pour ordres d’actions et consultations de compte via un dialogue avec l’IA. Le cœur du service est une interface de trading connectable aux grands modèles de langage. Les développeurs peuvent intégrer des fonctions de courtage à des services externes. En Corée, sécurité, identité et protection des investiss",
+      "body": "Toss Securities a lancé le 13 août 2026 son OpenAPI, ouvrant une nouvelle étape pour le trading conversationnel en Corée. Le service permet de traiter des ordres d’actions et des consultations de compte comme dans un échange avec une IA. Son cœur technique est une structure d’API qu’un grand modèle de langage peut comprendre et appeler pour des fonctions de trading.\n\n## Le Trading Passe Au Dialogue\nLe marché boursier coréen s’est largement déplacé vers les applications mobiles, mais les écrans d’ordre et les menus de compte exigent encore d’apprendre la logique de chaque app. OpenAPI ouvre ce point d’accès aux développeurs et services externes. Assistants IA, applications patrimoniales et services de données d’investissement peuvent connecter ordres et consultations pour permettre un suivi plus naturel des positions, du compte et des opérations.\n\n## Régulation Et Effets De Marché\nLes éléments établis sont le lancement du 13 août, deux fonctions principales, ordres et consultations, et un axe technique lié aux LLM. Aucun montant ni frais ne place la conversion en wons au centre du sujet. Pour les investisseurs coréens, l’essentiel porte sur l’authentification, les autorisations, la prévention des ordres erronés, la surveillance des transactions anormales et la protection des clients. La concurrence entre courtiers dépendra davantage de la qualité API, de la vitesse, de la sécurité et d’une documentation adaptée à l’IA.",
+      "keywords": [
+        "Toss Securities",
+        "OpenAPI",
+        "trading IA",
+        "ordre boursier",
+        "consultation de compte",
+        "grand modèle de langage",
+        "LLM",
+        "fintech coréenne",
+        "API de courtage",
+        "protection des investisseurs"
+      ],
+      "faq": [
+        {
+          "q": "Qu’est-ce que l’OpenAPI de Toss Securities ?",
+          "a": "C’est un service API permettant de traiter des ordres d’actions et des consultations de compte dans un flux conversationnel avec l’IA."
+        },
+        {
+          "q": "Quelle est la technologie centrale ?",
+          "a": "Le cœur est une interface de trading connectée aux grands modèles de langage, reliant langage naturel, ordres et consultations."
+        },
+        {
+          "q": "Quel impact pour les investisseurs coréens ?",
+          "a": "L’accès au trading peut devenir plus naturel, mais authentification, autorisations, prévention d’erreurs et protection des investisseurs restent essentielles."
+        }
+      ]
+    },
+    "ar": {
+      "title": "توس سيكيوريتيز تطلق OpenAPI لأوامر الأسهم عبر الذكاء الاصطناعي وفحص الحسابات",
+      "excerpt": "أطلقت توس سيكيوريتيز في 13 أغسطس 2026 خدمة OpenAPI لمعالجة أوامر الأسهم والاستعلام عن الحسابات عبر تدفق يشبه الحوار مع الذكاء الاصطناعي. الواجهة الجاهزة للنماذج اللغوية الكبرى توسع استخدامات المطورين وخدمات التقنية المالية في كوريا.",
+      "metaDescription": "OpenAPI من توس سيكيوريتيز تتيح أوامر أسهم واستعلامات حساب بأسلوب حواري مع الذكاء الاصطناعي، مع قراءة في LLM والتنظيم الكوري وتأثيرها على المستثمرين.",
+      "summary": "أطلقت توس سيكيوريتيز في 13 أغسطس 2026 خدمة OpenAPI لأوامر الأسهم والاستعلام عن الحسابات عبر حوار مع الذكاء الاصطناعي. جوهر الخدمة واجهة تداول قابلة للاتصال بالنماذج اللغوية الكبرى. يستطيع المطورون دمج وظائف الوساطة في خدمات خارجية. في كوريا، ستحدد المصادقة والأمن وحماية المستثمر سرعة الانتشار.",
+      "body": "أطلقت توس سيكيوريتيز في 13 أغسطس 2026 خدمة OpenAPI ووسعت مسار المنافسة في التداول الحواري للأسهم في كوريا. صممت الخدمة لمعالجة أوامر الأسهم والاستعلام عن الحسابات كما لو أن المستخدم يتحدث مع نظام ذكاء اصطناعي. جوهرها بنية API يمكن للنموذج اللغوي الكبير فهمها واستدعاؤها لتنفيذ وظائف التداول.\n\n## التداول ينتقل إلى واجهة حوارية\nانتقل تداول الأسهم في كوريا بسرعة إلى تطبيقات الهاتف، لكن شاشات الأوامر وقوائم الحسابات ما زالت تتطلب معرفة بنية كل تطبيق. تفتح OpenAPI هذه النقطة أمام المطورين والخدمات الخارجية. يمكن لمساعدي الذكاء الاصطناعي وتطبيقات إدارة الثروات وخدمات بيانات الاستثمار ربط وظائف الأوامر والاستعلام، ليتمكن المستخدم من مراجعة المراكز وحالة الحساب وخطوات التداول بتدفق أكثر طبيعية.\n\n## التنظيم وأثر السوق\nالعناصر المؤكدة هي إطلاق 13 أغسطس، ووظيفتان أساسيتان هما أوامر الأسهم والاستعلام عن الحسابات، ومحور تقني واحد مرتبط بـ LLM. لا توجد أرقام رسوم أو مبالغ تجعل تحويل الوون محوريا. بالنسبة للمستثمر الكوري، الأهم هو التحقق من الهوية، وإدارة الصلاحيات، ومنع الأوامر الخاطئة، ورصد التداول غير المعتاد، وحماية المستثمر. ستعتمد منافسة شركات الوساطة أكثر على جودة API والسرعة والأمان والتوثيق الملائم للذكاء الاصطناعي.",
+      "keywords": [
+        "توس سيكيوريتيز",
+        "OpenAPI",
+        "تداول الأسهم بالذكاء الاصطناعي",
+        "تداول حواري",
+        "استعلام الحساب",
+        "النماذج اللغوية الكبرى",
+        "LLM",
+        "التقنية المالية الكورية",
+        "API الوساطة",
+        "حماية المستثمر"
+      ],
+      "faq": [
+        {
+          "q": "ما هي OpenAPI من توس سيكيوريتيز؟",
+          "a": "هي خدمة API تتيح معالجة أوامر الأسهم والاستعلام عن الحسابات عبر تدفق حواري مع الذكاء الاصطناعي."
+        },
+        {
+          "q": "ما التقنية الأساسية في الخدمة؟",
+          "a": "الأساس هو واجهة تداول متصلة بالنماذج اللغوية الكبرى، تربط اللغة الطبيعية بوظائف الأوامر والاستعلام."
+        },
+        {
+          "q": "ما أثرها على المستثمرين في كوريا؟",
+          "a": "قد تجعل الوصول إلى التداول أكثر طبيعية، لكن المصادقة والصلاحيات ومنع الأخطاء وحماية المستثمر تظل عوامل حاسمة."
+        }
+      ]
+    },
+    "hi": {
+      "title": "टॉस सिक्योरिटीज OpenAPI शुरू, AI संवाद से स्टॉक ऑर्डर और खाता जांच",
+      "excerpt": "टॉस सिक्योरिटीज ने 13 अगस्त 2026 को OpenAPI सेवा शुरू की, जिससे AI से बातचीत जैसे प्रवाह में स्टॉक ऑर्डर और खाता पूछताछ हो सकती है। LLM-तैयार ट्रेडिंग इंटरफेस डेवलपर और कोरियाई फिनटेक उपयोग को बढ़ाता है।",
+      "metaDescription": "टॉस सिक्योरिटीज OpenAPI AI संवाद शैली में स्टॉक ऑर्डर और खाता जांच सक्षम करती है। LLM, कोरियाई नियम, फिनटेक प्रतिस्पर्धा और निवेशक असर समझें।",
+      "summary": "टॉस सिक्योरिटीज ने 13 अगस्त 2026 को OpenAPI शुरू की, जो AI जैसी बातचीत के जरिए स्टॉक ऑर्डर और खाता पूछताछ सक्षम करती है। इसका केंद्र बड़े भाषा मॉडल से जुड़ने वाला ट्रेडिंग इंटरफेस है। डेवलपर बाहरी सेवाओं में ब्रोकरेज कार्य जोड़ सकते हैं। कोरिया में सुरक्षा, पहचान सत्यापन और निवेशक संरक्षण अपनाने की गति तय करेंगे।",
+      "body": "टॉस सिक्योरिटीज ने 13 अगस्त 2026 को OpenAPI सेवा शुरू की और कोरिया में संवाद आधारित स्टॉक ट्रेडिंग की प्रतिस्पर्धा को आगे बढ़ाया। यह सेवा इस तरह बनाई गई है कि स्टॉक ऑर्डर और खाता पूछताछ AI से बातचीत जैसे प्रवाह में संसाधित हो सकें। इसका तकनीकी केंद्र ऐसी API संरचना है जिसे बड़ा भाषा मॉडल समझकर ट्रेडिंग कार्यों के लिए कॉल कर सकता है।\n\n## ट्रेडिंग संवाद इंटरफेस की ओर\nकोरिया में शेयर ट्रेडिंग तेजी से मोबाइल ऐप पर आ गई है, फिर भी ऑर्डर स्क्रीन और खाता मेनू के लिए उपयोगकर्ता को ऐप की बनावट समझनी पड़ती है। OpenAPI इस प्रवेश बिंदु को डेवलपर और बाहरी सेवाओं के लिए खोलती है। AI सहायक, वेल्थ मैनेजमेंट ऐप और निवेश डेटा सेवाएं ऑर्डर व पूछताछ कार्यों को जोड़कर उपयोगकर्ता को होल्डिंग, खाता स्थिति और ट्रेड कार्रवाई अधिक स्वाभाविक तरीके से दिखा सकती हैं।\n\n## नियम और बाजार प्रभाव\nमुख्य तथ्य 13 अगस्त की शुरुआत, दो कार्य स्तंभ, स्टॉक ऑर्डर और खाता पूछताछ, तथा LLM से जुड़ा एक तकनीकी स्तंभ हैं। कोई शुल्क या राशि इस लॉन्च का केंद्र नहीं है, इसलिए वॉन रूपांतरण बड़ा मुद्दा नहीं है। कोरियाई निवेशकों के लिए पहचान सत्यापन, अनुमति नियंत्रण, गलत ऑर्डर रोकथाम, असामान्य ट्रेड निगरानी और निवेशक संरक्षण अधिक महत्वपूर्ण हैं। ब्रोकरेज प्रतिस्पर्धा API गुणवत्ता, गति, सुरक्षा और AI-अनुकूल दस्तावेजीकरण पर निर्भर होगी।",
+      "keywords": [
+        "टॉस सिक्योरिटीज",
+        "OpenAPI",
+        "AI स्टॉक ट्रेडिंग",
+        "संवाद आधारित ट्रेडिंग",
+        "खाता पूछताछ",
+        "बड़ा भाषा मॉडल",
+        "LLM",
+        "कोरियाई फिनटेक",
+        "ब्रोकरेज API",
+        "निवेशक संरक्षण"
+      ],
+      "faq": [
+        {
+          "q": "टॉस सिक्योरिटीज OpenAPI क्या है?",
+          "a": "यह API सेवा है जो AI संवाद जैसे प्रवाह में स्टॉक ऑर्डर और खाता पूछताछ सक्षम करती है।"
+        },
+        {
+          "q": "इसकी मुख्य तकनीक क्या है?",
+          "a": "मुख्य तकनीक बड़े भाषा मॉडल से जुड़ा ट्रेडिंग इंटरफेस है, जो प्राकृतिक भाषा को ऑर्डर और पूछताछ कार्यों से जोड़ता है।"
+        },
+        {
+          "q": "कोरियाई निवेशकों पर असर क्या होगा?",
+          "a": "ट्रेडिंग पहुंच अधिक स्वाभाविक हो सकती है, लेकिन पहचान सत्यापन, अनुमति नियंत्रण, गलती रोकथाम और निवेशक संरक्षण जरूरी रहेंगे।"
+        }
+      ]
+    },
+    "id": {
+      "title": "Toss Securities Meluncurkan OpenAPI untuk Order Saham AI dan Cek Akun",
+      "excerpt": "Toss Securities meluncurkan OpenAPI pada 13 Agustus 2026 untuk memproses order saham dan pengecekan akun lewat alur percakapan dengan AI. Antarmuka siap LLM ini memperluas penggunaan bagi pengembang dan layanan fintech di Korea.",
+      "metaDescription": "OpenAPI Toss Securities memungkinkan order saham dan cek akun bergaya percakapan AI. Simak LLM, regulasi Korea, kompetisi fintech, dan dampaknya bagi investor.",
+      "summary": "Toss Securities meluncurkan OpenAPI pada 13 Agustus 2026 untuk order saham dan pengecekan akun melalui percakapan AI. Intinya adalah antarmuka trading yang terhubung dengan large language model. Pengembang dapat menanamkan fungsi broker ke layanan eksternal. Di Korea, keamanan, verifikasi identitas, dan perlindungan investor akan menentukan adopsi.",
+      "body": "Toss Securities meluncurkan OpenAPI pada 13 Agustus 2026 dan memperluas persaingan trading saham berbasis percakapan di Korea. Layanan ini dirancang agar order saham dan pengecekan akun dapat diproses seperti dialog dengan AI. Intinya adalah struktur API yang dapat dipahami dan dipanggil oleh large language model untuk fungsi trading.\n\n## Trading Beralih Ke Percakapan\nPerdagangan saham di Korea sudah cepat berpindah ke aplikasi mobile, tetapi layar order dan menu akun masih menuntut pengguna memahami struktur aplikasi. OpenAPI membuka titik akses itu bagi pengembang dan layanan eksternal. Asisten AI, aplikasi manajemen aset, dan layanan data investasi dapat menghubungkan fungsi order dan pengecekan sehingga pengguna meninjau portofolio, status akun, dan aksi trading dalam alur yang lebih alami.\n\n## Regulasi Dan Dampak Pasar\nPoin yang jelas adalah peluncuran 13 Agustus, dua pilar fungsi yaitu order saham dan pengecekan akun, serta satu pilar teknis berupa koneksi LLM. Tidak ada angka biaya atau nilai transaksi yang membuat konversi won menjadi fokus. Bagi investor Korea, isu utama adalah autentikasi, kontrol izin, pencegahan order keliru, pemantauan transaksi tidak normal, dan perlindungan investor. Persaingan broker akan makin ditentukan kualitas API, kecepatan, keamanan, dan dokumentasi yang ramah AI.",
+      "keywords": [
+        "Toss Securities",
+        "OpenAPI",
+        "trading saham AI",
+        "trading percakapan",
+        "cek akun",
+        "large language model",
+        "LLM",
+        "fintech Korea",
+        "API broker",
+        "perlindungan investor"
+      ],
+      "faq": [
+        {
+          "q": "Apa itu OpenAPI Toss Securities?",
+          "a": "Ini adalah layanan API yang memungkinkan order saham dan pengecekan akun diproses melalui alur percakapan dengan AI."
+        },
+        {
+          "q": "Apa teknologi intinya?",
+          "a": "Intinya adalah antarmuka trading yang terhubung dengan large language model dan mengaitkan bahasa natural dengan fungsi order serta pengecekan."
+        },
+        {
+          "q": "Apa dampaknya bagi investor Korea?",
+          "a": "Akses trading bisa menjadi lebih alami, tetapi autentikasi, kontrol izin, pencegahan kesalahan, dan perlindungan investor tetap penting."
+        }
+      ]
+    }
+  }
+}
