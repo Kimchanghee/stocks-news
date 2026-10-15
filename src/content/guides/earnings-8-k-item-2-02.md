@@ -94,4 +94,4 @@ A short checklist:
 - **Check guidance language.** Forward-looking statements are accompanied by cautionary language; guidance is a projection, not a reported result.
 - **Wait for the 10-Q.** Segment detail, legal contingencies and cash-flow notes appear in the periodic report.
 
-On the [Filings Docket home page](/), every Item 2.02 8-K from the 100 companies we track is labeled "earnings results", with a link to the original filing index so you can open Exhibit 99.1 directly.
+On the [Filings Docket home page](/), every Item 2.02 8-K from the 100 companies we track is described in plain English as released earnings or financial results, with a link to the original filing so you can open Exhibit 99.1 directly.

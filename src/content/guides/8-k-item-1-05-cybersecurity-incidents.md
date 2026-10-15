@@ -81,4 +81,4 @@ For readers, this means the item number itself carries information:
 
 An Item 1.05 8-K is a disclosure of facts the company has determined to be material. It is not a forensic report, it does not prove the attack is contained, and absence of a filing does not prove no incident occurred. Read it as the company's official, time-stamped account, and compare it with later filings.
 
-On the [Filings Docket](/), any 8-K from our 100 tracked companies that lists Item 1.05 is flagged in the register so it stands out from routine filings. The [Form 8-K explainer](/forms/8-k/) lists every 8-K item with its plain-English meaning.
+On the [Filings Docket](/), every 8-K from our 100 tracked companies is described by its item numbers in plain English, so an Item 1.05 filing reads as a material cybersecurity incident rather than a routine current report. The [Form 8-K explainer](/forms/8-k/) lists every 8-K item with its plain-English meaning.
