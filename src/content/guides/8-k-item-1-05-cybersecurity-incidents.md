@@ -1,6 +1,6 @@
 ---
 title: "8-K Item 1.05: How Companies Disclose Material Cyber Attacks"
-description: "How SEC Form 8-K Item 1.05 works: the four-business-day clock after a materiality finding, what must be disclosed, the national-security delay and Item 8.01 use."
+description: "How SEC Form 8-K Item 1.05 works: the four-business-day clock after a materiality finding, what must be disclosed, the security delay and Item 8.01 use."
 h1: "What is an Item 1.05 cybersecurity 8-K?"
 question: "What does an Item 1.05 8-K disclose?"
 answer: "Item 1.05 of Form 8-K requires a U.S. public company to disclose a cybersecurity incident within four business days after it determines the incident is material. The filing must describe the material aspects of the incident's nature, scope and timing, and its material or reasonably likely material impact on the company."

@@ -1,6 +1,6 @@
 ---
 title: "What Is a CIK and an Accession Number on SEC EDGAR?"
-description: "How EDGAR identifies every filer and every filing: the 10-digit CIK, the 18-digit accession number, what each part means and how to build a filing URL from them."
+description: "How EDGAR identifies every filer and every filing: the 10-digit CIK, the 18-digit accession number, what each part means and how to build a filing URL."
 h1: "What are a CIK and an accession number?"
 question: "What is a CIK number and an accession number?"
 answer: "A CIK, or Central Index Key, is the permanent number EDGAR assigns to each filer, shown as up to ten digits. An accession number identifies one filing, in the form 0000320193-26-000020: the submitter's CIK, a two-digit year and a sequence number. Together they locate any filing on sec.gov."

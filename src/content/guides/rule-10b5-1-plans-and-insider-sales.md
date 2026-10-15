@@ -1,6 +1,6 @@
 ---
 title: "Rule 10b5-1 Plans: Reading Insider Sales on Form 4 Filings"
-description: "What a Rule 10b5-1 trading plan is, the 2023 cooling-off periods for directors and officers, the Form 4 checkbox and why a planned sale says little about outlook."
+description: "What a Rule 10b5-1 trading plan is, the 2023 cooling-off periods for directors and officers, the Form 4 checkbox and why a planned sale says little on outlook."
 h1: "What is a Rule 10b5-1 plan, and how does it show up on Form 4?"
 question: "What is a Rule 10b5-1 trading plan?"
 answer: "A Rule 10b5-1 plan is a written plan, adopted while an insider has no material non-public information, that sets future trades in advance. Since February 2023 directors and officers must wait a cooling-off period of at least 90 days before the first trade, and Form 4 has a checkbox marking trades made under such a plan."

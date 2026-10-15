@@ -1,6 +1,6 @@
 ---
 title: "Large Accelerated Filer Status: Thresholds and SEC Deadlines"
-description: "How the SEC sorts companies into large accelerated, accelerated and non-accelerated filers by public float and revenue, and how that status sets 10-K and 10-Q due dates."
+description: "How the SEC sorts companies into large accelerated, accelerated and non-accelerated filers by public float and revenue, and how that sets 10-K and 10-Q dates."
 h1: "What is a large accelerated filer, and why does it matter?"
 question: "What is a large accelerated filer?"
 answer: "A large accelerated filer is a U.S. reporting company with a public float of $700 million or more, measured on the last business day of its second fiscal quarter, that has reported for at least 12 months. It must file its 10-K within 60 days of year end and each 10-Q within 40 days."

@@ -1,6 +1,6 @@
 ---
 title: "NT 10-K and NT 10-Q: What a Late Filing Notice Really Means"
-description: "How SEC Rule 12b-25 works: the one-business-day notice, the 15-day and 5-day extensions, what Part III and Part IV reveal, and why an NT filing deserves a close read."
+description: "How SEC Rule 12b-25 works: the one-business-day notice, the 15-day and 5-day extensions, what Parts III and IV reveal, and why an NT notice deserves a read."
 h1: "What does an NT 10-K or NT 10-Q filing mean?"
 question: "What is an NT 10-K filing?"
 answer: "An NT 10-K or NT 10-Q is a Form 12b-25 notice that a company cannot file its annual or quarterly report on time. Filed within one business day of the deadline, it gives a 15-calendar-day extension for a 10-K or 5 days for a 10-Q, and it must explain why the report is late."

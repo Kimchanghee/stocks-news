@@ -1,6 +1,6 @@
 ---
 title: "How to Read a 10-K: A 30-Minute Routine for Annual Reports"
-description: "A section-by-section routine for reading a 10-K annual report: business, risk factors, MD&A, the financial statements and notes, controls, and the auditor's report."
+description: "A section-by-section routine for reading a 10-K annual report: business, risk factors, MD&A, financial statements and notes, controls and the auditor's report."
 h1: "How should you read a 10-K annual report?"
 question: "How do you read a 10-K?"
 answer: "Read a 10-K in this order: Item 1 to learn the business, Item 1A for the main risks, Item 7 (MD&A) for management's explanation of results, then the Item 8 financial statements, notes and auditor's report. Finish with Item 9A on internal controls and the list of exhibits."

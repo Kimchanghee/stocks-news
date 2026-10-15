@@ -1,6 +1,6 @@
 ---
 title: "How to Search SEC EDGAR: Company, Form and Full-Text Search"
-description: "A practical walkthrough of SEC EDGAR search: finding a company by name, ticker or CIK, filtering by form type and date, using full-text search, and the free data APIs."
+description: "A practical walkthrough of SEC EDGAR search: finding a company by name, ticker or CIK, filtering by form type and date, full-text search and the free data APIs."
 h1: "How do you search SEC EDGAR for a company's filings?"
 question: "How do you search SEC EDGAR?"
 answer: "Start at sec.gov/edgar/search: type a company name, ticker or CIK to open its filing list, then filter by form type and date. For words inside documents, use EDGAR full-text search, which covers filings from 2001 onward. Programmers can use the free JSON APIs on data.sec.gov."

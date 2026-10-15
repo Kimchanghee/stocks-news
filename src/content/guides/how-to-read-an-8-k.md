@@ -1,6 +1,6 @@
 ---
 title: "How to Read an 8-K Filing in Five Minutes, Step by Step"
-description: "A practical method for reading any Form 8-K: decode the item numbers, find the event date, open the right exhibit and spot the rare items that signal real trouble."
+description: "A practical method for reading any Form 8-K: decode the item numbers, find the event date, open the right exhibit and spot the rare items that signal trouble."
 h1: "How do you read an 8-K filing quickly?"
 question: "How do you read an 8-K?"
 answer: "Read an 8-K from the outside in: check the item numbers on the cover to learn what kind of event it is, note the event date, read the short narrative under each item, then open the exhibits listed under Item 9.01, where press releases and agreements carry the detail."
