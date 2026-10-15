@@ -1,0 +1,33 @@
+---
+import Doc from '../components/Doc.astro';
+import { site } from '../site.config';
+const updated = '2026-10-16';
+---
+<Doc title="Privacy Policy: Analytics, AdSense Cookies and Your Choices" description="What data stockmarketnews.online collects, how Google Analytics and Google AdSense use cookies, consent for visitors in the EEA, UK and Switzerland, and how to opt out."
+  path="/privacy/" h1="What data does this site collect?" kicker="Privacy policy" updated={updated}
+  answer="We do not ask you to register and we do not collect names or payment details. Like most websites, we use Google Analytics to count visits and Google AdSense to show ads; both may use cookies or similar identifiers, subject to consent where the law requires it.">
+  <h2>Who is responsible</h2>
+  <p>This policy covers {site.domain} ("{site.name}"). Contact: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
+  <h2>Information collected automatically</h2>
+  <p>Our hosting provider processes standard request data (IP address, browser user agent, requested URL, time) to deliver pages and protect against abuse. We do not combine this with other data to identify you.</p>
+  <h2>Google Analytics (GA4)</h2>
+  <p>When enabled, Google Analytics 4 measures page views and a few events, such as clicks on links to SEC.gov, to tell us which pages are useful. GA4 uses cookies or similar identifiers and Google processes the data under its own terms. You can opt out with the <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener">Google Analytics opt-out browser add-on</a>.</p>
+  <h2>Google AdSense and third-party cookies</h2>
+  <p>We show ads served by Google AdSense. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to this and other websites. Google's use of advertising cookies enables it and its partners to serve ads based on your visits to this site and other sites on the internet.</p>
+  <ul>
+    <li>You can opt out of personalized advertising in <a href="https://adssettings.google.com/" rel="noopener">Google's Ads Settings</a>.</li>
+    <li>You can opt out of some third-party vendors' use of cookies for personalized advertising at <a href="https://www.aboutads.info/choices/" rel="noopener">aboutads.info</a>.</li>
+    <li>Learn how Google uses information from sites that use its services at <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">policies.google.com/technologies/partner-sites</a>.</li>
+  </ul>
+  <h2>Consent in the EEA, UK and Switzerland</h2>
+  <p>For visitors in the European Economic Area, the United Kingdom and Switzerland, advertising and analytics storage are set to "denied" by default using Google Consent Mode, and a consent message from a Google-certified consent management platform asks for your choice before personalized ads or analytics cookies are used. You can change your choice at any time through the privacy and cookie settings link shown by that message.</p>
+  <h2>Your choices</h2>
+  <ul>
+    <li>Block or delete cookies in your browser settings; the site works without them.</li>
+    <li>Depending on where you live, you may have rights to access, correct or delete personal data. Because we hold no account data, requests about analytics or advertising data are best directed to Google, but you may also email us.</li>
+  </ul>
+  <h2>Children</h2>
+  <p>This site is not directed at children under 13 and we do not knowingly collect their data.</p>
+  <h2>Changes</h2>
+  <p>We will update this page if our practices change and revise the date above.</p>
+</Doc>

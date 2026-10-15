@@ -1,0 +1,34 @@
+---
+import Base from '../../layouts/Base.astro';
+import { site } from '../../site.config';
+import { getCollection } from 'astro:content';
+import { fmtDate } from '../../lib/sec';
+
+const forms = (await getCollection('forms')).sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id));
+const updated = forms.map((g) => g.data.updated).sort().at(-1)!;
+const title = 'SEC Form Types Explained: 8-K, 10-K, 10-Q, S-1, 13D, Form 4';
+const description = 'What each common SEC form is for, who files it, when it is due and what to read first: 8-K, 10-K, 10-Q, S-1, Schedule 13D/13G, Form 4 and DEF 14A proxies.';
+const answer = `These ${forms.length} explainers cover the SEC forms that make up most of a large company's filing record. Each one says who files the form, what triggers it, the deadline and which part to read first, with links to the SEC's own form instructions.`;
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Forms', path: '/forms/' }];
+const ld = [{ '@type': 'CollectionPage', name: 'SEC form explainers', url: `${site.url}/forms/`, dateModified: updated, hasPart: forms.map((g) => ({ '@type': 'TechArticle', headline: g.data.h1, url: `${site.url}/forms/${g.id}/`, dateModified: g.data.updated })) }];
+---
+<Base title={title} description={description} path="/forms/" ogImage="/og/forms.png" crumbs={crumbs} jsonLd={ld} modified={updated}>
+  <section class="caption">
+    <p class="caption__kicker">Form explainers · {forms.length} forms</p>
+    <h1>What does each SEC form mean?</h1>
+    <p class="caption__meta">Last updated <time datetime={updated}>{fmtDate(updated)}</time></p>
+    <p class="caption__lede" data-answer>{answer}</p>
+  </section>
+  <ol class="index-list">
+    {forms.map((g) => (
+      <li>
+        <span><span class="stamp">{g.data.form ?? g.id.toUpperCase()}</span></span>
+        <div>
+          <h2 style="margin:0;font-size:inherit"><a class="title" href={`/forms/${g.id}/`}>{g.data.h1}</a></h2>
+          <p>{g.data.answer}</p>
+        </div>
+      </li>
+    ))}
+  </ol>
+  <p class="muted" style="margin:2rem 0">For step-by-step reading methods, see the <a href="/guides/">guides</a>; for what was filed this week, the <a href="/">docket</a>.</p>
+</Base>

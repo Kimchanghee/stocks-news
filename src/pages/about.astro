@@ -1,0 +1,30 @@
+---
+import Doc from '../components/Doc.astro';
+import { site } from '../site.config';
+import { snapshot } from '../lib/data';
+import { fmtDate } from '../lib/sec';
+const updated = '2026-10-16';
+---
+<Doc title="About The Filings Docket at stockmarketnews.online" description="Who runs The Filings Docket, why it explains SEC EDGAR filings in plain English instead of publishing market news, and the editorial standards every page follows."
+  path="/about/" h1="What is The Filings Docket?" kicker="About" updated={updated} ldType="AboutPage"
+  answer={`The Filings Docket is an independent reference site at ${site.domain} that lists recent SEC EDGAR filings from ${snapshot.companies.length} large U.S. public companies and explains what each filing type means in plain English, with a link to the original document on SEC.gov.`}>
+  <h2>Why it exists</h2>
+  <p>Most stock-market news reports the reaction to a filing rather than the filing. We think readers are better served by seeing the record itself: which company filed, which form, which 8-K item, on which date, and what that form is legally for. The docket does that for a fixed watchlist and links every entry to the SEC's archive.</p>
+  <h2>What we publish</h2>
+  <ul>
+    <li><strong>The docket</strong>: the last seven days of filings from the watchlist, grouped by day and form, rebuilt from EDGAR data on each refresh.</li>
+    <li><strong>Company records</strong>: each company's recent filings, its filing lag history and a projected window for its next 10-Q or 10-K, computed from SEC deadline rules.</li>
+    <li><strong>Form explainers and guides</strong>: original articles on how to read filings, each with dated SEC sources.</li>
+  </ul>
+  <h2>What we do not publish</h2>
+  <p>No price predictions, buy or sell ratings, stock tips, AI-generated news stories or paid placements. Summaries describe the form type and 8-K item codes the company itself reported; they do not characterize the company's prospects.</p>
+  <h2>Editorial standards</h2>
+  <ul>
+    <li>Every factual claim about SEC rules links to SEC.gov or the Code of Federal Regulations, and each article shows the date its sources were checked.</li>
+    <li>Data pages show the snapshot date. The current EDGAR snapshot was retrieved {fmtDate(snapshot.asOf)}. If a refresh fails, we keep the last good data and say so rather than fill gaps.</li>
+    <li>Corrections are made in place and the page's updated date changes. Report an error to <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</li>
+  </ul>
+  <h2>Independence and funding</h2>
+  <p>The site is not affiliated with or endorsed by the U.S. Securities and Exchange Commission. It is funded by display advertising served by Google AdSense; advertisers have no influence on content. We do not use affiliate links. See the <a href="/privacy/">privacy policy</a> and <a href="/disclaimer/">disclaimer</a>.</p>
+  <p>How the data is collected is described on the <a href="/methodology/">methodology page</a>.</p>
+</Doc>

@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import { site } from '../../site.config';
+import { getCollection } from 'astro:content';
+import { fmtDate } from '../../lib/sec';
+
+const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id));
+const updated = guides.map((g) => g.data.updated).sort().at(-1)!;
+const title = 'SEC Filing Guides: How to Read 8-K, 10-K and 10-Q Reports';
+const description = 'Plain-English guides to reading SEC filings: 8-K items, 10-K and 10-Q reports, deadlines, insider trading plans and EDGAR search, each sourced to SEC.gov.';
+const answer = `${guides.length} guides explain how to read and find U.S. corporate filings: what each 8-K item means, how 10-K and 10-Q reports differ and when they are due, and how insiders and large holders report. Every guide links its SEC sources and shows when the facts were last checked.`;
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Guides', path: '/guides/' }];
+const ld = [{ '@type': 'CollectionPage', name: 'SEC filing guides', url: `${site.url}/guides/`, dateModified: updated, hasPart: guides.map((g) => ({ '@type': 'Article', headline: g.data.h1, url: `${site.url}/guides/${g.id}/`, dateModified: g.data.updated })) }];
+---
+<Base title={title} description={description} path="/guides/" ogImage="/og/guides.png" crumbs={crumbs} jsonLd={ld} modified={updated}>
+  <section class="caption">
+    <p class="caption__kicker">Guides · {guides.length} entries</p>
+    <h1>How do you read corporate filings?</h1>
+    <p class="caption__meta">Last updated <time datetime={updated}>{fmtDate(updated)}</time></p>
+    <p class="caption__lede" data-answer>{answer}</p>
+  </section>
+  <ol class="index-list">
+    {guides.map((g, i) => (
+      <li>
+        <span class="mono muted">No. {String(i + 1).padStart(2, '0')}</span>
+        <div>
+          <h2 style="margin:0;font-size:inherit"><a class="title" href={`/guides/${g.id}/`}>{g.data.h1}</a></h2>
+          <p>{g.data.answer}</p>
+          <p class="mono">Updated <time datetime={g.data.updated}>{fmtDate(g.data.updated)}</time> · {g.data.sources.length} sources</p>
+        </div>
+      </li>
+    ))}
+  </ol>
+  <p class="muted" style="margin:2rem 0">Looking for one specific form? See the <a href="/forms/">form explainers</a>. New guides are announced in the <a href="/feed.xml">RSS feed</a>.</p>
+</Base>

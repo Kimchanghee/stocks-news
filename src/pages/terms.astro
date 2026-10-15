@@ -1,0 +1,21 @@
+---
+import Doc from '../components/Doc.astro';
+import { site } from '../site.config';
+const updated = '2026-10-16';
+---
+<Doc title="Terms of Use for The Filings Docket at stockmarketnews.online" description="The terms for using stockmarketnews.online: information only, no warranty, acceptable use of the pages and data, intellectual property, external links and liability limits."
+  path="/terms/" h1="What are the terms for using this site?" kicker="Terms of use" updated={updated}
+  answer="You may read, link to and quote this site for any lawful purpose with attribution. The content is provided as-is for general information, without warranty, and is not investment advice. Automated scraping that burdens the site is not permitted; use the SEC's own data APIs instead.">
+  <h2>Use of content</h2>
+  <p>Original text, design and computed summaries on {site.domain} belong to {site.name}. You may quote short passages with a link back. SEC filings themselves are public records and remain available from SEC.gov.</p>
+  <h2>No warranty</h2>
+  <p>We work to keep information accurate and current, but the site is provided "as is" and "as available" without warranties of any kind. Data can be delayed, incomplete or wrong; always verify against the original filing.</p>
+  <h2>Limitation of liability</h2>
+  <p>To the extent permitted by law, {site.name} is not liable for any loss arising from use of, or reliance on, the site. Nothing here is investment, legal or tax advice; see the <a href="/disclaimer/">disclaimer</a>.</p>
+  <h2>Acceptable use</h2>
+  <p>Do not attempt to disrupt the site, bypass its security or send automated traffic at a rate that degrades service. Search engines and AI crawlers are welcome to index the site under our <a href="/robots.txt">robots.txt</a>.</p>
+  <h2>Advertising and links</h2>
+  <p>Ads are served by Google AdSense; see the <a href="/privacy/">privacy policy</a>. External links are provided for reference; we do not control external sites.</p>
+  <h2>Changes and contact</h2>
+  <p>We may update these terms and will change the date above when we do. Questions: <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.</p>
+</Doc>

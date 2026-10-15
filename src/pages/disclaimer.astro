@@ -1,0 +1,18 @@
+---
+import Doc from '../components/Doc.astro';
+import { site } from '../site.config';
+const updated = '2026-10-16';
+---
+<Doc title="Disclaimer: Not Investment Advice, Not Affiliated With SEC" description="The Filings Docket summarizes public SEC filings for information only. It is not investment, legal or tax advice, is not affiliated with the SEC and may contain errors or delays."
+  path="/disclaimer/" h1="What are the limits of this information?" kicker="Disclaimer" updated={updated}
+  answer="Everything on The Filings Docket is general information about public SEC filings. It is not investment, legal, accounting or tax advice, it is not a recommendation to buy or sell any security, and the original filing on SEC.gov is always the authoritative record.">
+  <h2>Not advice</h2>
+  <p>We describe what forms are and what companies filed. We do not know your circumstances and do not recommend any security or strategy. Consult a qualified professional before making financial decisions.</p>
+  <h2>Data may be delayed or incomplete</h2>
+  <p>Filing data is a snapshot of the SEC's EDGAR submissions data taken at the time shown on each page. It can lag EDGAR, can miss filings if a refresh fails, and covers only the companies on our watchlist. Plain-English summaries are derived from form types and 8-K item codes and may simplify. Projected report windows are calculations from SEC deadline rules and past filing dates, not company announcements.</p>
+  <h2>No affiliation</h2>
+  <p>{site.name} and {site.domain} are independent and are not affiliated with, endorsed by or sponsored by the U.S. Securities and Exchange Commission or any company named on the site. Company names and tickers are used only to identify filers.</p>
+  <h2>External links</h2>
+  <p>Links to SEC.gov and other sites are provided for verification. We are not responsible for content on external sites.</p>
+  <p>See also the <a href="/terms/">terms of use</a> and <a href="/methodology/">methodology</a>.</p>
+</Doc>
