@@ -1,0 +1,177 @@
+---
+import Base from '../layouts/Base.astro';
+import { site } from '../site.config';
+import { docket, upcoming, asOf, isStale, staleDays, snapshot, companyPath, nameOf, itemFrequency } from '../lib/data';
+import { fmtDate, fmtShort, addDays, filingDocUrl, filingIndexUrl, EIGHT_K_ITEMS } from '../lib/sec';
+import { buildDescription, pickLength } from '../lib/seo';
+
+const DAYS = 7;
+const entries = docket(DAYS);
+const from = addDays(asOf, -(DAYS - 1));
+const groups = [
+  { id: 'all', label: 'All entries' },
+  { id: 'current', label: '8-K events' },
+  { id: 'periodic', label: '10-Q / 10-K' },
+  { id: 'proxy', label: 'Proxy' },
+  { id: 'ownership', label: '13D / 13G' },
+  { id: 'insider', label: 'Insider (3/4/5/144)' },
+  { id: 'offering', label: 'Offerings' },
+  { id: 'other', label: 'Other' },
+] as const;
+const countBy = (g: string) => (g === 'all' ? entries.length : entries.filter((e) => e.group === g).length);
+const filingsBy = (g: string) => entries.filter((e) => e.group === g).reduce((n, e) => n + e.count, 0);
+const days = [...new Set(entries.map((e) => e.filed))];
+const totalFilings = entries.reduce((n, e) => n + e.count, 0);
+const companiesFiling = new Set(entries.map((e) => e.company.cik)).size;
+const eightKs = filingsBy('current');
+const periodic = filingsBy('periodic');
+const insider = filingsBy('insider');
+const freq = itemFrequency(DAYS);
+const topItem = freq.items.find(([code]) => code !== '9.01');
+const next = upcoming().filter((x) => x.next.expected >= asOf).slice(0, 8);
+
+const answer = `In the seven days from ${fmtDate(from)} to ${fmtDate(asOf)}, the 100 companies on this docket made ${totalFilings} SEC filings: ${eightKs} current reports (8-K), ${periodic} periodic reports and ${insider} insider forms, from ${companiesFiling} different companies.`;
+
+const title = pickLength([
+  'SEC Filings Today: 8-K, 10-Q & 10-K Docket Explained',
+  'SEC Filings This Week, Explained in Plain English',
+], 50, 60);
+const description = buildDescription([
+  'A daily docket of SEC EDGAR filings from 100 large U.S. companies: every 8-K, 10-Q, 10-K, proxy and ownership filing,',
+  'explained in plain English with links to the source.',
+  'Updated from SEC EDGAR.',
+]);
+let n = 0;
+---
+<Base title={title} description={description} path="/" jsonLd={[
+  { '@type': 'Dataset', '@id': `${site.url}/#docket`, name: 'SEC filings docket: 100 large U.S. companies', description: answer,
+    url: `${site.url}/`, dateModified: asOf, temporalCoverage: `${from}/${asOf}`, isAccessibleForFree: true,
+    creator: { '@id': `${site.url}/#org` }, isBasedOn: snapshot.sourceUrl, license: 'https://www.sec.gov/privacy#dissemination' },
+]}>
+  <section class="caption">
+    <p class="caption__kicker">Docket · {fmtShort(from)} – {fmtDate(asOf)}</p>
+    <h1>What did large U.S. companies file with the SEC this week?</h1>
+    <p class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time><br />Source: SEC EDGAR</p>
+    <p class="caption__lede">{answer}</p>
+  </section>
+
+  {isStale && (
+    <p class="notice notice--stale"><strong>Stale snapshot</strong> — this docket was last refreshed from EDGAR on {fmtDate(asOf)}, {staleDays} days before this page was built. Newer filings are not shown; check <a href="https://www.sec.gov/edgar/search/">EDGAR search</a> for the latest.</p>
+  )}
+
+  <div class="columns">
+    <section aria-labelledby="register-h">
+      <h2 id="register-h" class="sr-only">Filing register</h2>
+      <fieldset class="filter" id="docket-filter">
+        <legend>Show</legend>
+        <div class="filter__opts">
+          {groups.map((g) => (
+            <label><input type="radio" name="g" value={g.id} checked={g.id === 'all'} disabled={countBy(g.id) === 0} /> {g.label} <span class="num">{countBy(g.id)}</span></label>
+          ))}
+        </div>
+      </fieldset>
+      <p class="muted" id="filter-status" role="status" aria-live="polite" style="font-size:var(--t-sm);margin:0 0 .5rem">Showing all {entries.length} entries.</p>
+
+      {entries.length === 0 ? (
+        <p class="empty">No filings were recorded for these companies between {fmtDate(from)} and {fmtDate(asOf)}. Weekends and federal holidays have no EDGAR filings.</p>
+      ) : (
+        <div class="register">
+          {days.map((d, di) => (
+            <>
+              <section class="register__day" aria-label={fmtDate(d)} data-day>
+                <div class="register__dayhead">
+                  <h3><time datetime={d}>{fmtDate(d)}</time></h3>
+                  <span class="num">{entries.filter((e) => e.filed === d).reduce((s, e) => s + e.count, 0)} filings</span>
+                </div>
+                {entries.filter((e) => e.filed === d).map((e) => {
+                  n++;
+                  const f = e.filings[0];
+                  return (
+                    <article class={`entry entry--${e.group}`} data-group={e.group}>
+                      <span class="entry__no">No. {String(n).padStart(3, '0')}</span>
+                      <span><span class={e.group === 'insider' || e.group === 'ownership' ? 'stamp stamp--quiet' : 'stamp'}>{e.form}</span></span>
+                      <span class="entry__co"><a href={companyPath(e.company)}>{nameOf(e.company)}</a><span class="num">{e.company.ticker} · CIK {e.company.cik}</span></span>
+                      <span class="entry__what">
+                        {e.count > 1 ? `${e.count} filings: ${e.plain.charAt(0).toLowerCase() + e.plain.slice(1)}` : e.plain}.
+                        <span class="entry__links">
+                          {e.count === 1 ? (
+                            <><a href={filingDocUrl(e.company.cik, f.acc, f.doc)} rel="noopener">Read filing<span class="sr-only"> {e.form} by {nameOf(e.company)}</span></a><a href={filingIndexUrl(e.company.cik, f.acc)} rel="noopener">Index<span class="sr-only"> for {f.acc}</span></a><span class="muted">{f.acc}</span></>
+                          ) : (
+                            e.filings.slice(0, 4).map((x, i) => <a href={filingDocUrl(e.company.cik, x.acc, x.doc)} rel="noopener">#{i + 1}<span class="sr-only"> {e.form} {x.acc}</span></a>)
+                          )}
+                          {e.count > 4 && <a href={`https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${e.company.cik}&type=${encodeURIComponent(e.form)}`} rel="noopener">all {e.count}</a>}
+                        </span>
+                      </span>
+                    </article>
+                  );
+                })}
+              </section>
+              {di === 0 && <div class="ad-slot" aria-hidden="true"><span class="ad-slot__label">Advertisement</span></div>}
+            </>
+          ))}
+        </div>
+      )}
+    </section>
+
+    <aside>
+      <section class="aside-block" aria-labelledby="due-h">
+        <h2 id="due-h">Coming due</h2>
+        {next.length === 0 ? <p class="empty">No periodic reports are projected in the snapshot window.</p> : (
+          <table class="ledger">
+            <thead><tr><th scope="col">Company</th><th scope="col">Form</th><th scope="col" class="num">Expected</th></tr></thead>
+            <tbody>
+              {next.map(({ c, next: x }) => (
+                <tr><td><a href={companyPath(c)}>{c.ticker}</a></td><td class="mono">{x.form}</td><td class="num">{fmtShort(x.windowStart)}{x.windowEnd !== x.windowStart && `–${fmtShort(x.windowEnd)}`}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+        <p><a href="/calendar/">Full 10-Q / 10-K due-date calendar</a></p>
+      </section>
+      <section class="aside-block" aria-labelledby="key-h">
+        <h2 id="key-h">Docket key</h2>
+        <ul style="padding-left:1.1rem;margin:0">
+          <li><a href="/forms/8-k/">8-K</a>: a material event, filed within four business days</li>
+          <li><a href="/forms/10-q/">10-Q</a> / <a href="/forms/10-k/">10-K</a>: quarterly and annual reports</li>
+          <li><a href="/forms/def-14a/">DEF 14A</a>: proxy statement before a vote</li>
+          <li><a href="/forms/schedule-13d-13g/">13D / 13G</a>: someone owns more than 5%</li>
+          <li><a href="/forms/form-4/">Form 4</a>: an insider bought, sold or received shares</li>
+        </ul>
+      </section>
+      {topItem && (
+        <section class="aside-block" aria-labelledby="item-h">
+          <h2 id="item-h">Most-cited 8-K item this week</h2>
+          <p><strong>Item {topItem[0]}</strong> — {EIGHT_K_ITEMS[topItem[0]]?.title ?? 'Unlisted item'}: cited in {topItem[1]} of {freq.total} current reports filed {fmtShort(from)}–{fmtShort(asOf)}. <a href="/forms/8-k/">What 8-K items mean</a>.</p>
+        </section>
+      )}
+      <section class="aside-block" aria-labelledby="src-h">
+        <h2 id="src-h">Where this comes from</h2>
+        <p>Every entry is read from the SEC's <a href={snapshot.sourceUrl}>EDGAR submissions API</a>. The watchlist is the {snapshot.universe.toLowerCase()}. <a href="/methodology/">How the docket is built</a>.</p>
+      </section>
+    </aside>
+  </div>
+
+  <script>
+    const fs = document.getElementById('docket-filter');
+    const status = document.getElementById('filter-status');
+    if (fs && status) {
+      fs.addEventListener('change', (ev) => {
+        const t = ev.target as HTMLInputElement;
+        const g = t.value;
+        let shown = 0;
+        document.querySelectorAll<HTMLElement>('.entry').forEach((el) => {
+          const on = g === 'all' || el.dataset.group === g;
+          el.hidden = !on;
+          if (on) shown++;
+        });
+        document.querySelectorAll<HTMLElement>('[data-day]').forEach((day) => {
+          day.hidden = !day.querySelector('.entry:not([hidden])');
+        });
+        const label = t.parentElement?.textContent?.replace(/\d+\s*$/, '').trim() ?? g;
+        status.textContent = shown ? `Showing ${shown} ${g === 'all' ? '' : label + ' '}entries.` : 'No entries of this type in the last seven days.';
+        const w = window as unknown as { gtag?: (...a: unknown[]) => void };
+        w.gtag?.('event', 'tool_used', { tool: 'docket_filter', value: g });
+      });
+    }
+  </script>
+</Base>

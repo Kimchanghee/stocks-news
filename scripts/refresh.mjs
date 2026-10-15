@@ -18,6 +18,8 @@ const MATERIAL = new Set(['10-K', '10-K/A', '10-Q', '10-Q/A', '8-K', '8-K/A', 'D
   'SC 13D', 'SC 13D/A', 'SC 13G', 'SC 13G/A', 'SCHEDULE 13D', 'SCHEDULE 13D/A', 'SCHEDULE 13G', 'SCHEDULE 13G/A',
   'NT 10-K', 'NT 10-Q', '11-K', '10-KT', 'ARS', '25-NSE', '15-12B', 'SD']);
 const INSIDER = new Set(['3', '4', '5', '3/A', '4/A', '5/A', '144']);
+// High-volume debt/structured-note paperwork: counted, not listed individually.
+const COUNT_ONLY = /^(424B\d|FWP)$/;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 let last = 0;
@@ -42,11 +44,14 @@ const daysBetween = (a, b) => Math.round((Date.parse(b) - Date.parse(a)) / 86400
 
 function trimFilings(recent, asOfDate) {
   const out = [];
+  const counts = {};
   for (let i = 0; i < recent.accessionNumber.length; i++) {
     const form = recent.form[i];
     const filed = recent.filingDate[i];
     const age = daysBetween(filed, asOfDate);
     const periodic = ['10-K', '10-Q', '10-K/A', '10-Q/A', '10-KT'].includes(form);
+    if (age <= 45) counts[form] = (counts[form] ?? 0) + 1;
+    if (COUNT_ONLY.test(form)) continue;
     if (INSIDER.has(form)) { if (age > 45) continue; }
     else if (!(age <= 45 || (periodic && age <= 1200) || (MATERIAL.has(form) && age <= 400))) continue;
     out.push({
@@ -55,7 +60,7 @@ function trimFilings(recent, asOfDate) {
       doc: recent.primaryDocument[i] || '', desc: recent.primaryDocDescription[i] || '',
     });
   }
-  return out;
+  return { filings: out, counts45: counts };
 }
 
 async function main() {
@@ -84,7 +89,7 @@ async function main() {
     const cik = String(t.cik_str).padStart(10, '0');
     try {
       const sub = await get(SUB_URL(cik));
-      const filings = trimFilings(sub.filings.recent, asOfDate);
+      const { filings, counts45 } = trimFilings(sub.filings.recent, asOfDate);
       // Watchlist = domestic operating companies that file 10-K reports (foreign private issuers file 20-F instead).
       if (sub.entityType !== 'operating' || !filings.some((f) => f.form === '10-K')) { skipped++; continue; }
       companies.push({
@@ -92,7 +97,7 @@ async function main() {
         name: sub.name, sic: sub.sic ?? '', sicDescription: sub.sicDescription ?? '',
         category: (sub.category ?? '').replace(/<br\s*\/?>/g, '; '),
         fiscalYearEnd: sub.fiscalYearEnd ?? '', stateOfIncorporation: sub.stateOfIncorporationDescription || sub.stateOfIncorporation || '',
-        fetchedAt: new Date().toISOString(), filings,
+        fetchedAt: new Date().toISOString(), counts45, filings,
       });
       fetched++;
     } catch (e) {
