@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { site } from '../site.config';
 import { docket, upcoming, asOf, isStale, staleDays, snapshot, companyPath, nameOf, itemFrequency } from '../lib/data';
-import { fmtDate, fmtShort, addDays, filingDocUrl, filingIndexUrl, EIGHT_K_ITEMS } from '../lib/sec';
+import { fmtDate, fmtShort, addDays, filingDocUrl, filingIndexUrl, EIGHT_K_ITEMS, stampLabel, plural } from '../lib/sec';
 import { buildDescription, pickLength } from '../lib/seo';
 
 const DAYS = 7;
@@ -30,7 +30,7 @@ const freq = itemFrequency(DAYS);
 const topItem = freq.items.find(([code]) => code !== '9.01');
 const next = upcoming().filter((x) => x.next.expected >= asOf).slice(0, 8);
 
-const answer = `In the seven days from ${fmtDate(from)} to ${fmtDate(asOf)}, the 100 companies on this docket made ${totalFilings} SEC filings: ${eightKs} current reports (8-K), ${periodic} periodic reports and ${insider} insider forms, from ${companiesFiling} different companies.`;
+const answer = `In the seven days from ${fmtDate(from)} to ${fmtDate(asOf)}, the 100 companies on this docket made ${plural(totalFilings, 'SEC filing')}: ${plural(eightKs, 'current report')} (8-K), ${plural(periodic, 'periodic report')} and ${plural(insider, 'insider form')}, from ${plural(companiesFiling, 'company', 'companies')}.`;
 
 const title = pickLength([
   'SEC Filings Today: 8-K, 10-Q & 10-K Docket Explained',
@@ -89,7 +89,7 @@ let n = 0;
                   return (
                     <article class={`entry entry--${e.group}`} data-group={e.group}>
                       <span class="entry__no">No. {String(n).padStart(3, '0')}</span>
-                      <span><span class={e.group === 'insider' || e.group === 'ownership' ? 'stamp stamp--quiet' : 'stamp'}>{e.form}</span></span>
+                      <span><span class={e.group === 'insider' || e.group === 'ownership' ? 'stamp stamp--quiet' : 'stamp'} title={e.form}>{stampLabel(e.form)}</span></span>
                       <span class="entry__co"><a href={companyPath(e.company)}>{nameOf(e.company)}</a><span class="num">{e.company.ticker} · CIK {e.company.cik}</span></span>
                       <span class="entry__what">
                         {e.count > 1 ? `${e.count} filings: ${e.plain.charAt(0).toLowerCase() + e.plain.slice(1)}` : e.plain}.

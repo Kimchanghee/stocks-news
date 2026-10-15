@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import { site } from '../site.config';
+import { companies, asOf, companyPath, nameOf, snapshot } from '../lib/data';
+import { fmtDate, addDays, plural } from '../lib/sec';
+import { pickLength, buildDescription } from '../lib/seo';
+
+const yearAgo = addDays(asOf, -364);
+const rows = companies.map((c) => ({
+  c,
+  eightK: c.filings.filter((f) => f.form.startsWith('8-K') && f.filed >= yearAgo).length,
+  last: c.filings.filter((f) => !/^(3|4|5|144)(\/A)?$/.test(f.form)).sort((a, b) => (a.filed < b.filed ? 1 : -1))[0],
+}));
+const most = [...rows].sort((a, b) => b.eightK - a.eightK)[0];
+const sics = new Set(companies.map((c) => c.sicDescription).filter(Boolean)).size;
+const answer = `This docket follows ${companies.length} U.S. public companies that file annual reports on Form 10-K, across ${sics} SEC industry codes. In the year to ${fmtDate(asOf)}, ${nameOf(most.c)} filed the most current reports (${plural(most.eightK, 'Form 8-K')}).`;
+const title = pickLength(['SEC Filing Records for 100 Large U.S. Companies', 'Company Filing Records: 100 Large U.S. Companies on EDGAR'], 50, 60);
+const description = buildDescription([
+  'Browse the SEC filing records of 100 large U.S. public companies: CIK, filer status, fiscal year end, 8-K count and latest filing, each linked to a detailed docket page.',
+  'Data from EDGAR.',
+]);
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Companies', path: '/companies/' }];
+---
+<Base title={title} description={description} path="/companies/" ogImage="/og/companies.png" crumbs={crumbs} modified={asOf} jsonLd={[
+  { '@type': 'ItemList', name: 'Companies on the Filings Docket', numberOfItems: companies.length,
+    itemListElement: rows.map((r, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(companyPath(r.c), site.url).href, name: nameOf(r.c) })) },
+]}>
+  <section class="caption">
+    <p class="caption__kicker">Watchlist · {companies.length} registrants</p>
+    <h1>Which companies does the Filings Docket follow?</h1>
+    <p class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></p>
+    <p class="caption__lede">{answer}</p>
+  </section>
+  <div class="prose" style="margin:1.25rem 0">
+    <p>The list is the {snapshot.universe.toLowerCase()} (<a href={snapshot.universeUrl}>source file</a>). Foreign private issuers that file Form 20-F instead of a 10-K, and funds, are skipped. The SEC does not describe the order of that file; we use it only as a reproducible way to pick large, actively traded registrants, not as a ranking. <a href="/methodology/">Methodology</a>.</p>
+  </div>
+  <div class="table-scroll">
+    <table class="ledger">
+      <caption>SEC EDGAR, retrieved {fmtDate(asOf)}. "8-Ks" counts current reports filed {fmtDate(yearAgo)}–{fmtDate(asOf)}.</caption>
+      <thead><tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Industry (SIC)</th><th scope="col" class="num">FYE</th><th scope="col" class="num">8-Ks</th><th scope="col" class="num">Latest filing</th></tr></thead>
+      <tbody>
+        {rows.map(({ c, eightK, last }) => (
+          <tr>
+            <td><a href={companyPath(c)}>{nameOf(c)}</a></td>
+            <td class="mono">{c.ticker}</td>
+            <td>{c.sicDescription || '—'}</td>
+            <td class="num">{c.fiscalYearEnd ? `${c.fiscalYearEnd.slice(0, 2)}/${c.fiscalYearEnd.slice(2)}` : '—'}</td>
+            <td class="num">{eightK}</td>
+            <td class="num">{last ? `${last.form} · ${last.filed}` : '—'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

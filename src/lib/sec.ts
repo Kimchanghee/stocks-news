@@ -92,6 +92,9 @@ export const FORM_MEANING: Record<string, string> = {
 };
 
 export const formMeaning = (form: string): string => FORM_MEANING[form] ?? 'Other SEC filing';
+/** Short label that fits a docket stamp (SCHEDULE 13D/A -> 13D/A). */
+export const stampLabel = (form: string): string => form.replace(/^(SCHEDULE|SC) /, '');
+export const plural = (n: number, one: string, many = one + 's') => `${n} ${n === 1 ? one : many}`;
 
 /** Docket groupings used for the home-page filter. */
 export function formGroup(form: string): 'periodic' | 'current' | 'proxy' | 'ownership' | 'insider' | 'offering' | 'other' {

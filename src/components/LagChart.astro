@@ -1,0 +1,35 @@
+---
+// Build-time SVG: days from period end to filing for recent periodic reports, against the deadline.
+import { fmtShort } from '../lib/sec';
+interface Props { rows: { period: string; filed: string; days: number; form: string }[]; deadline10q: number; deadline10k: number; label: string }
+const { rows, deadline10q, deadline10k, label } = Astro.props;
+const data = [...rows].sort((a, b) => (a.period < b.period ? -1 : 1));
+const W = 720, rowH = 30, top = 28, left = 150, right = 70;
+const H = top + data.length * rowH + 34;
+const max = Math.max(deadline10k, ...data.map((d) => d.days)) + 5;
+const x = (d: number) => left + (d / max) * (W - left - right);
+---
+<figure style="margin:1rem 0 0">
+  <svg class="timeline" viewBox={`0 0 ${W} ${H}`} role="img" aria-labelledby="lagchart-t lagchart-d">
+    <title id="lagchart-t">{label}</title>
+    <desc id="lagchart-d">{data.map((d) => `${d.form} for period ended ${d.period}: filed ${d.days} days later`).join('; ')}.</desc>
+    <line x1={left} y1={top - 8} x2={left} y2={H - 26} stroke="#16140f" stroke-width="1.5" />
+    {[deadline10q, deadline10k].map((dl, i) => (
+      <g>
+        <line x1={x(dl)} y1={top - 8} x2={x(dl)} y2={H - 26} stroke="#9b1c1c" stroke-width="1.2" stroke-dasharray="4 3" />
+        <text x={x(dl)} y={top - 12 - i * 0} text-anchor={i === 0 ? 'end' : 'start'} dx={i === 0 ? -4 : 4} font-family="IBM Plex Mono, monospace" font-size="11" fill="#9b1c1c">{i === 0 ? `10-Q due: ${dl}d` : `10-K due: ${dl}d`}</text>
+      </g>
+    ))}
+    {data.map((d, i) => {
+      const y = top + i * rowH;
+      return (
+        <g>
+          <text x={left - 10} y={y + 15} text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="12" fill="#3f3a31">{d.form} · {fmtShort(d.period)} {d.period.slice(2, 4)}</text>
+          <rect x={left} y={y + 4} width={Math.max(2, x(d.days) - left)} height={rowH - 12} fill={d.form === '10-K' ? '#16140f' : '#5e574a'} />
+          <text x={x(d.days) + 6} y={y + 15} font-family="IBM Plex Mono, monospace" font-size="12" fill="#16140f">{d.days}d</text>
+        </g>
+      );
+    })}
+    <text x={left} y={H - 8} font-family="IBM Plex Mono, monospace" font-size="11" fill="#5e574a">days from period end to filing date →</text>
+  </svg>
+</figure>

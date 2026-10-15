@@ -6,7 +6,7 @@ Concept: "The Filings Docket" — SEC EDGAR filings explained in plain English (
 ## Milestones
 - [x] M0 Old AI-news app removed (commit "Remove old AI news app for v2 static rebuild"), pushed
 - [x] M1 Scaffold (Astro 5 static, wrangler.jsonc, site.config.ts) + refresh script + real data snapshot
-- [ ] M2 Design system + layout + DESIGN_REFERENCES.md
+- [x] M2 Design system + layout + DESIGN_REFERENCES.md
 - [ ] M3 Core data/tool pages
 - [ ] M4 Trust/legal pages + 404
 - [ ] M5 Guides (>=10) + content collection + RSS
@@ -18,3 +18,4 @@ Concept: "The Filings Docket" — SEC EDGAR filings explained in plain English (
 ## Log
 - 2026-10-15: M0 done.
 - M1: Astro 5.18 static scaffold, refresh.mjs (SEC submissions, 100 cos, ~7 req/s), snapshot asOf 2026-10-15, lib/sec.ts (8-K items, deadlines, Rule 0-3 roll, next-report projection), Base layout + docket.css, home docket page builds. NOTE: acceptanceDateTime in submissions API is not true UTC (Apple 10-Q shows 14:01Z for a 06:01 ET filing) -> we show filing dates only.
+- M2/M3 (partial): docket.css, home register w/ form filter, /company/[slug]/ x100 (next-report projection + lag SVG + 8-K item table), /calendar/, /companies/. Builds 103 pages. QA screenshots via scripts/shots.cjs (system Chrome; _pw-browsers missing). Next: content collection (forms + guides), legal pages, SEO files, gate.

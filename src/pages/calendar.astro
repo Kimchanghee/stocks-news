@@ -1,0 +1,85 @@
+---
+import Base from '../layouts/Base.astro';
+import { site } from '../site.config';
+import { upcoming, asOf, companyPath, nameOf, isStale, staleDays } from '../lib/data';
+import { fmtDate, fmtShort, slugTicker, plural } from '../lib/sec';
+import { pickLength, buildDescription } from '../lib/seo';
+
+const rows = upcoming();
+const pending = rows.filter((r) => r.next.status !== 'upcoming');
+const later = rows.filter((r) => r.next.status === 'later-than-usual');
+const tenK = rows.filter((r) => r.next.form === '10-K');
+const first = rows.find((r) => r.next.expected >= asOf);
+const weekEnd = rows.filter((r) => r.next.windowStart <= fmtIso(7)).length;
+function fmtIso(days: number) { const d = new Date(Date.parse(asOf + 'T00:00:00Z') + days * 86400000); return d.toISOString().slice(0, 10); }
+
+const answer = `As of ${fmtDate(asOf)}, ${plural(pending.length, 'company', 'companies')} on this list have closed a fiscal period and still owe a 10-Q or 10-K; ${plural(weekEnd, 'report window', 'report windows')} open within the next seven days${first ? `, starting with ${nameOf(first.c)} (${first.c.ticker}) around ${fmtDate(first.next.expected)}` : ''}.`;
+const title = pickLength(['10-Q and 10-K Due Dates: Expected Filing Calendar', 'When Are 10-Q and 10-K Reports Due? Filing Calendar'], 50, 60);
+const description = buildDescription([
+  'Expected 10-Q and 10-K filing windows for 100 large U.S. companies, computed from SEC deadlines and each company\'s own filing history.',
+  'Updated from EDGAR.',
+]);
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Due dates', path: '/calendar/' }];
+---
+<Base title={title} description={description} path="/calendar/" ogImage="/og/calendar.png" crumbs={crumbs} modified={asOf} jsonLd={[
+  { '@type': 'Dataset', name: 'Expected 10-Q and 10-K filing windows', description: answer, url: `${site.url}/calendar/`, dateModified: asOf,
+    creator: { '@id': `${site.url}/#org` }, isBasedOn: 'https://www.sec.gov/search-filings/edgar-application-programming-interfaces', isAccessibleForFree: true },
+]}>
+  <section class="caption">
+    <p class="caption__kicker">Calendar · projected from filings as of {fmtDate(asOf)}</p>
+    <h1>When are the next 10-Q and 10-K reports due?</h1>
+    <p class="caption__meta">{rows.length} companies<br />{tenK.length} annual (10-K) next</p>
+    <p class="caption__lede">{answer}</p>
+  </section>
+  {isStale && <p class="notice notice--stale"><strong>Stale snapshot</strong> — computed from filings retrieved {staleDays} days before this build.</p>}
+
+  <div class="prose" style="margin:1.5rem 0">
+    <p>Each window runs from the company's fastest to slowest filing over its recent reports of the same type, capped at the SEC deadline (Form 10-Q: 40 days after quarter end for large accelerated and accelerated filers, 45 for others; Form 10-K: 60, 75 or 90 days). A weekend or federal-holiday deadline moves to the next business day. These are projections from history, not company announcements. <a href="/guides/10-q-10-k-filing-deadlines/">How the deadlines work</a>.</p>
+    {later.length > 0 && <p><strong>Later than usual:</strong> {later.map((r, i) => <>{i > 0 && ', '}<a href={companyPath(r.c)}>{r.c.ticker}</a></>)} — period closed and the usual window has passed, but the SEC deadline has not.</p>}
+  </div>
+
+  <label class="search" style="display:block">
+    <span class="smallcaps" style="font-family:var(--mono);font-size:var(--t-xs)">Find a company</span><br />
+    <input id="cal-q" type="search" inputmode="search" autocomplete="off" placeholder="Ticker or name, e.g. MSFT" aria-describedby="cal-status" />
+  </label>
+  <p id="cal-status" role="status" aria-live="polite" class="muted" style="font-size:var(--t-sm)">{rows.length} companies listed, earliest expected first.</p>
+
+  <div class="table-scroll">
+    <table class="ledger" id="cal">
+      <caption>Expected windows computed {fmtDate(asOf)} from SEC EDGAR filing history; period ends are estimates.</caption>
+      <thead><tr><th scope="col">Company</th><th scope="col">Form</th><th scope="col" class="num">Period ends ~</th><th scope="col" class="num">Expected window</th><th scope="col" class="num">SEC deadline</th><th scope="col">Status</th></tr></thead>
+      <tbody>
+        {rows.map(({ c, next }) => (
+          <tr id={slugTicker(c.ticker)} data-q={`${c.ticker} ${nameOf(c)} ${c.name}`.toLowerCase()}>
+            <td><a href={companyPath(c)}>{nameOf(c)}</a> <span class="muted mono">{c.ticker}</span></td>
+            <td class="mono">{next.form}</td>
+            <td class="num">{fmtShort(next.periodEnd)}</td>
+            <td class="num">{fmtShort(next.windowStart)}{next.windowEnd !== next.windowStart && `–${fmtShort(next.windowEnd)}`}</td>
+            <td class="num">{fmtShort(next.due)}</td>
+            <td>{next.status === 'upcoming' ? 'Period open' : next.status === 'period-closed' ? 'Report pending' : next.status === 'later-than-usual' ? 'Later than usual' : 'Past deadline'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p id="cal-empty" class="empty" hidden>No company matches that search. Try a ticker such as AAPL or a word from the name.</p>
+
+  <script>
+    const q = document.getElementById('cal-q') as HTMLInputElement | null;
+    const status = document.getElementById('cal-status');
+    const empty = document.getElementById('cal-empty');
+    let tracked = false;
+    q?.addEventListener('input', () => {
+      const v = q.value.trim().toLowerCase();
+      let n = 0;
+      document.querySelectorAll<HTMLTableRowElement>('#cal tbody tr').forEach((tr) => {
+        const on = !v || (tr.dataset.q ?? '').includes(v);
+        tr.hidden = !on; if (on) n++;
+      });
+      if (status) status.textContent = v ? `${n} matching ${n === 1 ? 'company' : 'companies'}.` : `${n} companies listed, earliest expected first.`;
+      if (empty) empty.hidden = n !== 0;
+      const w = window as unknown as { gtag?: (...a: unknown[]) => void };
+      if (!tracked && v) { tracked = true; w.gtag?.('event', 'tool_used', { tool: 'calendar_search' }); }
+    });
+  </script>
+</Base>

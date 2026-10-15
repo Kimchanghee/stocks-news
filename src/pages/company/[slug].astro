@@ -1,0 +1,171 @@
+---
+import Base from '../../layouts/Base.astro';
+import LagChart from '../../components/LagChart.astro';
+import { site } from '../../site.config';
+import { companies, asOf, isStale, staleDays, nameOf, companyPath, upcoming } from '../../lib/data';
+import {
+  type Company, fmtDate, fmtShort, projectNextReport, filerStatus, deadlineDays, diffDays, addDays, formMeaning, plainEnglish,
+  filingDocUrl, filingIndexUrl, edgarCompanyUrl, slugTicker, EIGHT_K_ITEMS, stampLabel, plural, formGroup,
+} from '../../lib/sec';
+import { pickLength, buildDescription } from '../../lib/seo';
+
+export function getStaticPaths() {
+  return companies.map((c) => ({ params: { slug: slugTicker(c.ticker) }, props: { c } }));
+}
+const { c } = Astro.props as { c: Company };
+const name = nameOf(c);
+const next = projectNextReport(c, asOf);
+const status = filerStatus(c.category);
+const fye = c.fiscalYearEnd ? fmtShort(`2000-${c.fiscalYearEnd.slice(0, 2)}-${c.fiscalYearEnd.slice(2)}`) : 'not stated';
+const periodicRows = c.filings.filter((f) => (f.form === '10-K' || f.form === '10-Q') && f.period)
+  .sort((a, b) => (a.filed < b.filed ? 1 : -1)).slice(0, 8)
+  .map((f) => ({ period: f.period, filed: f.filed, days: diffDays(f.period, f.filed), form: f.form }));
+const recent = c.filings.filter((f) => formGroup(f.form) !== 'insider').sort((a, b) => (a.filed < b.filed ? 1 : a.filed > b.filed ? -1 : a.accepted < b.accepted ? 1 : -1)).slice(0, 25);
+const yearAgo = addDays(asOf, -364);
+const eightK = c.filings.filter((f) => f.form.startsWith('8-K') && f.filed >= yearAgo);
+const itemCounts = new Map<string, number>();
+for (const f of eightK) for (const it of f.items.split(',').map((s) => s.trim()).filter(Boolean)) itemCounts.set(it, (itemCounts.get(it) ?? 0) + 1);
+const items = [...itemCounts.entries()].sort((a, b) => b[1] - a[1]);
+const insider45 = Object.entries(c.counts45 ?? {}).filter(([f]) => /^(3|4|5)(\/A)?$/.test(f)).reduce((n, [, v]) => n + v, 0);
+const form144 = c.counts45?.['144'] ?? 0;
+const structured45 = Object.entries(c.counts45 ?? {}).filter(([f]) => /^(424B\d|FWP)$/.test(f)).reduce((n, [, v]) => n + v, 0);
+const rankOnCalendar = upcoming().findIndex((x) => x.c.cik === c.cik) + 1;
+
+const formWord = next?.form === '10-K' ? 'annual report (Form 10-K)' : 'quarterly report (Form 10-Q)';
+let answer = '';
+if (!next) answer = `${name} has no 10-K or 10-Q in the EDGAR records we hold, so no next-report window can be computed.`;
+else {
+  const win = next.windowStart === next.windowEnd ? `on or about ${fmtDate(next.windowStart)}` : `between ${fmtDate(next.windowStart)} and ${fmtDate(next.windowEnd)}`;
+  const basis = next.basis ? `based on its last ${plural(next.basis.n, next.form + ' filing')}` : 'based on the SEC deadline alone';
+  answer = next.status === 'later-than-usual'
+    ? `${name} had not filed its ${formWord} for the period ending about ${fmtDate(next.periodEnd)} as of ${fmtDate(asOf)}, which is later than its usual timing (${basis}); the SEC deadline for a ${status} filer is ${fmtDate(next.due)}.`
+    : `${name} is expected to file its next ${formWord}, for the period ending about ${fmtDate(next.periodEnd)}, ${win}, ${basis}. The SEC deadline for a ${status} filer is ${fmtDate(next.due)}.`;
+}
+const h1 = `When will ${name} file its next ${next?.form ?? '10-Q'}?`;
+const title = pickLength([
+  `${name} (${c.ticker}) SEC Filings & Next ${next?.form ?? '10-Q'} Date`,
+  `${name} (${c.ticker}) SEC Filings and Next ${next?.form ?? '10-Q'} Date`,
+  `${name} (${c.ticker}) SEC Filings, 8-Ks & Next ${next?.form ?? '10-Q'} Date`,
+  `${c.ticker} SEC Filings: Next ${next?.form ?? '10-Q'} Date, 8-Ks, Insider Forms`,
+  `${c.ticker} SEC Filings Explained: Next ${next?.form ?? '10-Q'} Date and Recent 8-Ks`,
+  `${name} SEC Filings & Next ${next?.form ?? '10-Q'}`,
+], 50, 60);
+const description = buildDescription([
+  `${name} (${c.ticker}) SEC filings in plain English:`,
+  next ? `next ${next.form} expected ${fmtShort(next.windowStart)}${next.windowEnd !== next.windowStart ? '–' + fmtShort(next.windowEnd) : ''}, deadline ${fmtShort(next.due)}.` : 'recent 8-K, 10-Q and 10-K filings.',
+  `${plural(eightK.length, '8-K')} in the past year,`,
+  'recent filings and links to EDGAR.',
+  'Recent 8-K, 10-Q and 10-K filings with links to EDGAR.',
+  'Data from SEC EDGAR.',
+  'Source: SEC.',
+]);
+const path = companyPath(c);
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Companies', path: '/companies/' }, { name: `${name} (${c.ticker})`, path }];
+const subUrl = `https://data.sec.gov/submissions/CIK${c.cik}.json`;
+---
+<Base title={title} description={description} path={path} ogImage={`/og/company/${slugTicker(c.ticker)}.png`} crumbs={crumbs} modified={asOf} jsonLd={[
+  { '@type': 'Dataset', name: `${name} SEC filing record`, description: answer, url: new URL(path, site.url).href, dateModified: asOf,
+    creator: { '@id': `${site.url}/#org` }, isBasedOn: subUrl, isAccessibleForFree: true,
+    about: { '@type': 'Corporation', name: c.name, tickerSymbol: c.ticker, identifier: `CIK ${c.cik}` } },
+]}>
+  <section class="caption">
+    <p class="caption__kicker">In re: {c.name} · CIK {c.cik}</p>
+    <h1>{h1}</h1>
+    <p class="caption__meta">{c.ticker}{c.exchanges.length ? ` · ${c.exchanges.join(', ')}` : ''}<br />Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></p>
+  </section>
+
+  {(isStale || c.stale) && (
+    <p class="notice notice--stale"><strong>Stale record</strong> — {c.stale ? `EDGAR could not be reached for ${name} on the last refresh; this is the last good record, fetched ${c.fetchedAt.slice(0, 10)}.` : `snapshot is ${staleDays} days old.`} Check <a href={edgarCompanyUrl(c.cik)}>EDGAR</a> for newer filings.</p>
+  )}
+
+  <div class="columns columns--wide">
+    <article>
+      <p class="answer">{answer}</p>
+
+      {next && (
+        <>
+          <h2 style="font-size:var(--t-lg);margin:2rem 0 .3rem">How the next-report window is calculated</h2>
+          <div class="prose">
+            <p>{name}'s most recent periodic report on file is a Form {next.lastPeriodic?.form} for the period ended {fmtDate(next.lastPeriodic?.period ?? '')}, filed {fmtDate(next.lastPeriodic?.filed ?? '')}. Its fiscal year ends around {fye}, so the next period should close about {fmtDate(next.periodEnd)}, and that report is a {next.form === '10-K' ? 'year-end Form 10-K' : 'Form 10-Q'}.</p>
+            <p>SEC rules give a {status} filer {deadlineDays(next.form, status)} days after period end to file a {next.form}, which lands on {fmtDate(next.due)} after moving off weekends and federal holidays.
+              {next.basis && ` Over its last ${plural(next.basis.n, next.form)}, ${name} filed between ${next.basis.min} and ${next.basis.max} days after period end (median ${next.basis.median} days), which gives the expected window above.`}
+              {' '}Period ends are estimated from the company's own calendar and may shift by a few days in 52/53-week fiscal years.</p>
+          </div>
+          {periodicRows.length > 1 && <LagChart rows={periodicRows} deadline10q={deadlineDays('10-Q', status)} deadline10k={deadlineDays('10-K', status)} label={`${name}: days from period end to 10-Q/10-K filing`} />}
+        </>
+      )}
+
+      <h2 style="font-size:var(--t-lg);margin:2.2rem 0 .5rem">Recent filings by {name}</h2>
+      {recent.length === 0 ? <p class="empty">No non-insider filings in the snapshot window.</p> : (
+        <div class="table-scroll">
+          <table class="ledger">
+            <caption>Most recent {recent.length} filings excluding insider Forms 3/4/5/144 · SEC EDGAR, retrieved {fmtDate(asOf)}</caption>
+            <thead><tr><th scope="col">Filed</th><th scope="col">Form</th><th scope="col">What it is</th><th scope="col">Document</th></tr></thead>
+            <tbody>
+              {recent.map((f) => (
+                <tr>
+                  <td class="num"><time datetime={f.filed}>{fmtShort(f.filed)} {f.filed.slice(0, 4)}</time></td>
+                  <td><span class={formGroup(f.form) === 'ownership' ? 'stamp stamp--quiet' : 'stamp'} title={f.form}>{stampLabel(f.form)}</span></td>
+                  <td>{plainEnglish(f)}</td>
+                  <td class="mono" style="white-space:nowrap"><a href={filingDocUrl(c.cik, f.acc, f.doc)} rel="noopener">Open<span class="sr-only"> {f.form} filed {f.filed}</span></a> · <a href={filingIndexUrl(c.cik, f.acc)} rel="noopener">Index<span class="sr-only"> {f.acc}</span></a></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+
+      <div class="ad-slot" aria-hidden="true"><span class="ad-slot__label">Advertisement</span></div>
+
+      <h2 style="font-size:var(--t-lg);margin:2rem 0 .5rem">What {name}'s 8-Ks were about in the past year</h2>
+      {items.length === 0 ? <p class="empty">No Form 8-K filings between {fmtDate(yearAgo)} and {fmtDate(asOf)} in the records we hold.</p> : (
+        <div class="prose">
+          <p>{name} filed {plural(eightK.length, 'Form 8-K current report')} between {fmtDate(yearAgo)} and {fmtDate(asOf)}. Each report lists the item numbers it covers; the counts below show how often each item appeared.</p>
+          <table>
+            <thead><tr><th scope="col">Item</th><th scope="col">Meaning</th><th scope="col">Times</th></tr></thead>
+            <tbody>{items.map(([code, n]) => <tr><td class="mono">{code}</td><td>{EIGHT_K_ITEMS[code]?.title ?? 'Unlisted item'}</td><td class="num">{n}</td></tr>)}</tbody>
+          </table>
+          <p>See <a href="/forms/8-k/">what each 8-K item means</a>.</p>
+        </div>
+      )}
+    </article>
+
+    <aside>
+      <section class="aside-block">
+        <h2>Registrant</h2>
+        <dl class="kv">
+          <dt>SEC name</dt><dd>{c.name}</dd>
+          <dt>Ticker</dt><dd>{c.tickers.join(', ')}</dd>
+          <dt>CIK</dt><dd class="num">{c.cik}</dd>
+          <dt>Filer status</dt><dd>{c.category || 'not stated'}</dd>
+          <dt>Fiscal year end</dt><dd>{fye}</dd>
+          <dt>Industry (SIC)</dt><dd>{c.sicDescription || '—'}{c.sic && ` (${c.sic})`}</dd>
+          <dt>Incorporated</dt><dd>{c.stateOfIncorporation || '—'}</dd>
+        </dl>
+      </section>
+      {next && (
+        <section class="aside-block">
+          <h2>Next periodic report</h2>
+          <p class="big-date">{fmtShort(next.windowStart)}{next.windowEnd !== next.windowStart && `–${fmtShort(next.windowEnd)}`}</p>
+          <p>Form {next.form} · deadline {fmtDate(next.due)}{rankOnCalendar > 0 && <> · <a href={`/calendar/#${slugTicker(c.ticker)}`}>see on calendar</a></>}</p>
+        </section>
+      )}
+      <section class="aside-block">
+        <h2>Last 45 days, other paperwork</h2>
+        <ul style="padding-left:1.1rem;margin:0">
+          <li>{plural(insider45, 'insider ownership form')} (Forms 3/4/5) — <a href="/forms/form-4/">what Form 4 means</a></li>
+          <li>{plural(form144, 'Form 144 notice')} of proposed sales</li>
+          {structured45 > 0 && <li>{plural(structured45, 'prospectus supplement')} (424B / FWP), typically debt or structured notes</li>}
+        </ul>
+      </section>
+      <section class="aside-block">
+        <h2>Primary sources</h2>
+        <ul style="padding-left:1.1rem;margin:0">
+          <li><a href={edgarCompanyUrl(c.cik)} rel="noopener">{c.name} on EDGAR</a></li>
+          <li><a href={subUrl} rel="noopener">EDGAR submissions JSON</a></li>
+          <li><a href="https://www.sec.gov/files/form10-q.pdf" rel="noopener">Form 10-Q instructions (deadlines)</a></li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+</Base>
