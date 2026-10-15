@@ -1,0 +1,2 @@
+const urls = process.argv.slice(2).length ? process.argv.slice(2) : require('fs').readFileSync(0,'utf8').split(/\s+/).filter(Boolean);
+(async()=>{ for (const u of urls){ try{ const r=await fetch(u,{method:'GET',headers:{'User-Agent':'stockmarketnews.online filings desk contact@stockmarketnews.online'},redirect:'follow',signal:AbortSignal.timeout(15000)}); console.log(r.status, u, r.url!==u?'-> '+r.url:''); }catch(e){console.log('ERR',u,e.cause?.code||e.message)} await new Promise(r=>setTimeout(r,200)); } })();

@@ -1,0 +1,45 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleShell from '../../components/ArticleShell.astro';
+import { relatedLinks } from '../../lib/content';
+import { latestOf, asOf, companyPath, nameOf } from '../../lib/data';
+import { fmtDate, fmtShort, plainEnglish, filingDocUrl, stampLabel } from '../../lib/sec';
+
+export async function getStaticPaths() {
+  const forms = await getCollection('forms');
+  return forms.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const path = `/forms/${entry.id}/`;
+const rel = await relatedLinks(entry.data.related, path);
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Forms', path: '/forms/' }, { name: entry.data.form ?? entry.data.h1, path }];
+const re = entry.data.match ? new RegExp(entry.data.match) : null;
+const latest = re ? latestOf((f) => re.test(f), 10) : [];
+---
+<ArticleShell data={entry.data} path={path} kind="form" ogImage={`/og/forms/${entry.id}.png`} crumbs={crumbs} relatedLinks={rel}>
+  <Content />
+  <section slot="after" aria-labelledby="latest-h" style="margin-top:2.5rem">
+    <h2 id="latest-h" style="font-size:var(--t-lg);margin:0 0 .5rem">Latest {entry.data.form} filings on the docket</h2>
+    {latest.length === 0 ? (
+      <p class="empty">None of the 100 companies we follow filed a {entry.data.form} in the period covered by the snapshot of {fmtDate(asOf)}.</p>
+    ) : (
+      <div class="table-scroll">
+        <table class="ledger">
+          <caption>Most recent {latest.length} from SEC EDGAR, retrieved {fmtDate(asOf)}.</caption>
+          <thead><tr><th scope="col">Filed</th><th scope="col">Company</th><th scope="col">Form</th><th scope="col">What it says</th></tr></thead>
+          <tbody>
+            {latest.map(({ c, f }) => (
+              <tr>
+                <td class="num">{fmtShort(f.filed)} {f.filed.slice(0, 4)}</td>
+                <td><a href={companyPath(c)}>{nameOf(c)}</a></td>
+                <td><a class="mono" href={filingDocUrl(c.cik, f.acc, f.doc)} rel="noopener" title={f.form}>{stampLabel(f.form)}</a></td>
+                <td>{plainEnglish(f)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    )}
+  </section>
+</ArticleShell>

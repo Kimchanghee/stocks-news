@@ -1,0 +1,18 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleShell from '../../components/ArticleShell.astro';
+import { relatedLinks } from '../../lib/content';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const path = `/guides/${entry.id}/`;
+const rel = await relatedLinks(entry.data.related, path);
+const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Guides', path: '/guides/' }, { name: entry.data.h1, path }];
+---
+<ArticleShell data={entry.data} path={path} kind="guide" ogImage={`/og/guides/${entry.id}.png`} crumbs={crumbs} relatedLinks={rel}>
+  <Content />
+</ArticleShell>

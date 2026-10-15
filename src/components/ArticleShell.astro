@@ -1,0 +1,90 @@
+---
+// Shared renderer for guides and form explainers: direct answer, body, FAQ, sources; LD built from the same frontmatter.
+import Base from '../layouts/Base.astro';
+import { site } from '../site.config';
+import { fmtDate } from '../lib/sec';
+
+interface Props {
+  data: {
+    title: string; description: string; h1: string; question: string; answer: string; data_asof: string; published: string; updated: string;
+    sources: { title: string; url: string }[]; faq: { q: string; a: string }[]; related: string[]; form?: string;
+  };
+  path: string;
+  kind: 'guide' | 'form';
+  ogImage: string;
+  crumbs: { name: string; path: string }[];
+  relatedLinks: { href: string; title: string }[];
+}
+const { data, path, kind, ogImage, crumbs, relatedLinks } = Astro.props;
+const url = new URL(path, site.url).href;
+const ld: Record<string, unknown>[] = [
+  {
+    '@type': kind === 'form' ? 'TechArticle' : 'Article',
+    headline: data.h1,
+    description: data.description,
+    abstract: data.answer,
+    datePublished: data.published,
+    dateModified: data.updated,
+    inLanguage: 'en-US',
+    url,
+    mainEntityOfPage: url,
+    image: new URL(ogImage, site.url).href,
+    author: { '@id': `${site.url}/#org` },
+    publisher: { '@id': `${site.url}/#org` },
+    citation: data.sources.map((s) => ({ '@type': 'CreativeWork', name: s.title, url: s.url })),
+  },
+];
+if (data.faq.length) {
+  ld.push({
+    '@type': 'FAQPage',
+    mainEntity: data.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+---
+<Base title={data.title} description={data.description} path={path} ogImage={ogImage} ogType="article" crumbs={crumbs} jsonLd={ld} published={data.published} modified={data.updated}>
+  <section class="caption">
+    <p class="caption__kicker">{kind === 'form' ? `Form explainer${data.form ? ' · ' + data.form : ''}` : 'Guide'}</p>
+    <h1>{data.h1}</h1>
+    <p class="caption__meta">Updated <time datetime={data.updated}>{fmtDate(data.updated)}</time><br />Facts checked {fmtDate(data.data_asof)}</p>
+  </section>
+  <div class="columns columns--wide">
+    <article>
+      <p class="answer" data-answer>{data.answer}</p>
+      <slot name="before" />
+      <div class="prose">
+        <slot />
+      </div>
+      <slot name="after" />
+      {data.faq.length > 0 && (
+        <section class="faq" aria-labelledby="faq-h">
+          <h2 id="faq-h">Questions readers ask</h2>
+          <dl>
+            {data.faq.map((f) => (<><dt>{f.q}</dt><dd>{f.a}</dd></>))}
+          </dl>
+        </section>
+      )}
+      <section class="sources" aria-labelledby="src-h">
+        <h2 id="src-h">Sources</h2>
+        <ol>
+          {data.sources.map((s) => <li><a href={s.url} rel="noopener">{s.title}</a></li>)}
+        </ol>
+        <p class="muted">Sources checked {fmtDate(data.data_asof)}. Rules change; the linked SEC text is authoritative. This page is general information, not legal or investment advice.</p>
+      </section>
+    </article>
+    <aside>
+      {relatedLinks.length > 0 && (
+        <section class="aside-block">
+          <h2>Related</h2>
+          <ul style="padding-left:1.1rem;margin:0">
+            {relatedLinks.map((r) => <li><a href={r.href}>{r.title}</a></li>)}
+          </ul>
+        </section>
+      )}
+      <section class="aside-block">
+        <h2>On the docket</h2>
+        <p><a href="/">This week's filings</a> from 100 large U.S. companies, and the <a href="/calendar/">10-Q / 10-K due-date calendar</a>.</p>
+      </section>
+      <div class="ad-slot" aria-hidden="true" style="min-height:250px"><span class="ad-slot__label">Advertisement</span></div>
+    </aside>
+  </div>
+</Base>
