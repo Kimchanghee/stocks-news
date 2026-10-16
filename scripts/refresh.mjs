@@ -4,6 +4,7 @@
 import { readFile, writeFile, rename, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { selectedCandidates, mergeCompany } from './retention.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'src', 'data', 'companies.json');
@@ -65,42 +66,39 @@ function trimFilings(recent, asOfDate) {
 
 async function main() {
   let previous = null;
-  try { previous = JSON.parse(await readFile(OUT, 'utf8')); } catch { /* first run */ }
+  try { previous = JSON.parse(await readFile(OUT, 'utf8')); } catch (e) { if (e.code !== 'ENOENT') throw e; /* first run only */ }
   const prevByCik = new Map((previous?.companies ?? []).map((c) => [c.cik, c]));
   const asOfDate = new Date().toISOString().slice(0, 10);
 
-  let tickers;
-  try { tickers = Object.values(await get(TICKERS_URL)); }
-  catch (e) {
-    console.error('[refresh] company_tickers.json failed:', e.message, '- keeping last good snapshot', previous?.asOf ?? '(none)');
-    process.exit(previous ? 0 : 1);
-  }
-  const seen = new Set();
-  const candidates = [];
-  for (const t of tickers) {
-    if (!seen.has(t.cik_str)) { seen.add(t.cik_str); candidates.push(t); }
-    if (candidates.length >= MAX_CANDIDATES) break;
-  }
+  // Ticker-file ordering selects the initial universe only. Later refreshes address
+  // the existing CIKs directly; absence from a ticker roster proves no listing status.
+  const tickers = previous ? [] : Object.values(await get(TICKERS_URL));
+  const candidates = selectedCandidates(previous, tickers, MAX_CANDIDATES);
 
   const companies = [];
   let fetched = 0, reused = 0, skipped = 0;
   for (const [rank, t] of candidates.entries()) {
-    if (companies.length >= TARGET) break;
+    if (!previous && companies.length >= TARGET) break;
     const cik = String(t.cik_str).padStart(10, '0');
     try {
       const sub = await get(SUB_URL(cik));
+      if (String(sub.cik).padStart(10, '0') !== cik) { const error = new Error('SEC response CIK mismatch'); error.retention = true; throw error; }
       const { filings, counts45 } = trimFilings(sub.filings.recent, asOfDate);
       // Watchlist = domestic operating companies that file 10-K reports (foreign private issuers file 20-F instead).
-      if (sub.entityType !== 'operating' || !filings.some((f) => f.form === '10-K')) { skipped++; continue; }
-      companies.push({
-        cik, rank: rank + 1, ticker: t.ticker, tickers: sub.tickers?.length ? sub.tickers : [t.ticker], exchanges: sub.exchanges ?? [],
+      if (!previous && (sub.entityType !== 'operating' || !filings.some((f) => f.form === '10-K'))) { skipped++; continue; }
+      const retained = prevByCik.get(cik);
+      companies.push(mergeCompany(retained, {
+        cik, rank: rank + 1, ticker: t.ticker, tickers: retained ? (sub.tickers ?? []) : (sub.tickers?.length ? sub.tickers : [t.ticker]), exchanges: sub.exchanges ?? [],
         name: sub.name, sic: sub.sic ?? '', sicDescription: sub.sicDescription ?? '',
         category: (sub.category ?? '').replace(/<br\s*\/?>/g, '; '),
         fiscalYearEnd: sub.fiscalYearEnd ?? '', stateOfIncorporation: sub.stateOfIncorporationDescription || sub.stateOfIncorporation || '',
         fetchedAt: new Date().toISOString(), counts45, filings,
-      });
+      }));
       fetched++;
     } catch (e) {
+      // A reachable but conflicting identity is not a network failure/stale record.
+      // Abort before writing rather than inventing a current/inactive listing claim.
+      if (e.retention) throw e;
       const prev = prevByCik.get(cik);
       if (prev) { companies.push({ ...prev, stale: true }); reused++; console.warn('[refresh] reuse last good', t.ticker, e.message); }
       else console.warn('[refresh] skip', t.ticker, e.message);
