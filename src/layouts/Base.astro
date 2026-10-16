@@ -95,7 +95,7 @@ const fontCss = `@font-face{font-family:'Source Serif 4 Variable';font-style:nor
   <script is:inline set:html={consentScript}></script>
   {site.ga4Id && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${site.ga4Id}`}></script>}
   {gaScript && <script is:inline set:html={gaScript}></script>}
-  <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>
+  {site.adsEnabled && <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsenseClient}`} crossorigin="anonymous"></script>}
   <script type="application/ld+json" set:html={ld}></script>
 </head>
 <body>

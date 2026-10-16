@@ -90,6 +90,18 @@ if (!key || !fs.existsSync(path.join(DIST, key + '.txt'))) failures.push({ page:
 const ads = fs.existsSync(path.join(DIST, 'ads.txt')) ? fs.readFileSync(path.join(DIST, 'ads.txt'), 'utf8').trim() : '';
 if (ads !== 'google.com, pub-4490818204529253, DIRECT, f08c47fec0942fa0') failures.push({ page: '/ads.txt', errs: ['ads.txt content'] });
 
+// Ads gate: AdSense loader must be absent unless PUBLIC_ADS_ENABLED=true; verification meta and ads.txt stay regardless.
+{
+  const adsOn = process.env.PUBLIC_ADS_ENABLED === 'true';
+  for (const f of walk(DIST).filter((f) => f.endsWith('.html'))) {
+    const h = fs.readFileSync(f, 'utf8');
+    const loader = /pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js/.test(h) || /class="adsbygoogle"/.test(h);
+    const rel = f.slice(DIST.length);
+    if (!adsOn && loader) failures.push({ page: rel, errs: ['AdSense loader/ad unit present while PUBLIC_ADS_ENABLED is not true'] });
+    if (adsOn && !/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js\?client=ca-pub-4490818204529253/.test(h)) failures.push({ page: rel, errs: ['ads enabled but AdSense loader missing'] });
+  }
+}
+
 for (const f of failures) console.log(`FAIL ${f.page}\n  - ${f.errs.join('\n  - ')}`);
 console.log(`gate: ${checked} pages checked, ${sitemapUrls.size} sitemap URLs, ${failures.length} failing`);
 process.exit(failures.length ? 1 : 0);

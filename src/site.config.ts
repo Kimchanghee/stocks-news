@@ -16,6 +16,8 @@ export const site = {
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string | undefined) ?? '',
   naverVerification: '',
   adsenseClient: 'ca-pub-4490818204529253',
+  /** Ad loading is OFF unless the build sets PUBLIC_ADS_ENABLED=true (AdSense account / certified CMP not yet verified). */
+  adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
   /** IndexNow key; the matching key file is public/<key>.txt */
   indexNowKey: '6f1c3a9e2b7d4e58a0c94f17d2b8e3a1',
   /** Affiliate URLs (none configured; CTAs render only when set). */
