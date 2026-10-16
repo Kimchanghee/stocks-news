@@ -53,7 +53,7 @@ a:hover { text-decoration-thickness: 2px; }
 .num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
 .smallcaps { font-variant-caps: all-small-caps; letter-spacing: 0.06em; }
 .muted { color: var(--ink-3); }
-.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; border: 0; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; }
 
 /* ---------- Masthead ---------- */
 .masthead { border-bottom: 3px double var(--rule); padding-top: 0.9rem; }
@@ -124,7 +124,7 @@ a:hover { text-decoration-thickness: 2px; }
 /* ---------- Layout ---------- */
 .columns { display: grid; grid-template-columns: minmax(0, 1fr) 20rem; gap: 2.75rem; padding: 1.5rem 0 3rem; }
 .columns--wide { grid-template-columns: minmax(0, 1fr) 17rem; }
-@media (max-width: 980px) { .columns, .columns--wide { grid-template-columns: 1fr; gap: 2rem; } }
+@media (max-width: 980px) { .columns, .columns--wide { grid-template-columns: minmax(0, 1fr); gap: 2rem; } }
 .aside-block { border-top: 2px solid var(--rule); padding-top: 0.6rem; margin-bottom: 2rem; }
 .aside-block h2, .aside-block h3 { font: 600 var(--t-xs)/1.4 var(--mono); letter-spacing: 0.1em; text-transform: uppercase; margin: 0 0 0.6rem; }
 .aside-block p, .aside-block li { font-size: var(--t-sm); }
@@ -138,7 +138,7 @@ a:hover { text-decoration-thickness: 2px; }
 .filter .num { color: var(--ink-3); font-size: var(--t-xs); }
 
 /* ---------- Tables ---------- */
-.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border-top: 2px solid var(--rule); }
+.table-scroll { position: relative; overflow-x: auto; -webkit-overflow-scrolling: touch; border-top: 2px solid var(--rule); }
 table.ledger { width: 100%; border-collapse: collapse; font-size: var(--t-sm); }
 table.ledger caption { text-align: left; font: 500 var(--t-xs)/1.5 var(--mono); color: var(--ink-3); padding: 0.4rem 0; caption-side: bottom; }
 table.ledger th { text-align: left; font: 600 var(--t-xs)/1.3 var(--mono); letter-spacing: 0.06em; text-transform: uppercase; border-bottom: 1px solid var(--rule); padding: 0.55rem 0.75rem 0.45rem 0; vertical-align: bottom; }
