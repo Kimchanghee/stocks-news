@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { site } from '../site.config';
 import { upcoming, asOf, companyPath, nameOf, isStale, staleDays } from '../lib/data';
-import { fmtDate, fmtShort, slugTicker, plural } from '../lib/sec';
+import { fmtDate, fmtShort, slugTicker, plural, startsWithinDays } from '../lib/sec';
 import { pickLength, buildDescription } from '../lib/seo';
 
 const rows = upcoming();
@@ -10,8 +10,7 @@ const pending = rows.filter((r) => r.next.status !== 'upcoming');
 const later = rows.filter((r) => r.next.status === 'later-than-usual');
 const tenK = rows.filter((r) => r.next.form === '10-K');
 const first = rows.find((r) => r.next.expected >= asOf);
-const weekEnd = rows.filter((r) => r.next.windowStart <= fmtIso(7)).length;
-function fmtIso(days: number) { const d = new Date(Date.parse(asOf + 'T00:00:00Z') + days * 86400000); return d.toISOString().slice(0, 10); }
+const weekEnd = rows.filter((r) => startsWithinDays(r.next.windowStart, asOf, 7)).length;
 
 const answer = `As of ${fmtDate(asOf)}, ${plural(pending.length, 'company', 'companies')} on this list have closed a fiscal period and still owe a 10-Q or 10-K; ${plural(weekEnd, 'report window', 'report windows')} open within the next seven days${first ? `, starting with ${nameOf(first.c)} (${first.c.ticker}) around ${fmtDate(first.next.expected)}` : ''}.`;
 const title = pickLength(['10-Q and 10-K Due Dates: Expected Filing Calendar', 'When Are 10-Q and 10-K Reports Due? Filing Calendar'], 50, 60);

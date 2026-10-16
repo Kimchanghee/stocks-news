@@ -139,6 +139,11 @@ export const toMs = (d: string) => Date.parse(d + 'T00:00:00Z');
 export const fromMs = (ms: number) => new Date(ms).toISOString().slice(0, 10);
 export const addDays = (d: string, n: number) => fromMs(toMs(d) + n * DAY);
 export const diffDays = (a: string, b: string) => Math.round((toMs(b) - toMs(a)) / DAY);
+/** Inclusive forward-looking window; never count windows that already opened. */
+export function startsWithinDays(start: string, asOf: string, days: number): boolean {
+  const offset = diffDays(asOf, start);
+  return Number.isFinite(offset) && offset >= 0 && offset <= days;
+}
 
 export function isBusinessDay(d: string): boolean {
   const wd = new Date(toMs(d)).getUTCDay();

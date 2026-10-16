@@ -13,7 +13,7 @@ Concept: "The Filings Docket" — SEC EDGAR filings explained in plain English (
 - [x] M6 SEO files (sitemap, robots, llms.txt, ads.txt, IndexNow, OG PNGs, JSON-LD)
 - [x] M7 gate.mjs + tests + refresh-build.ps1
 - [x] M8 QA (build/check/gate, curl crawl, Playwright 1440/390, scorecard, measure.md)
-- [ ] M9 Final report
+- [x] M9 Final report (FINAL_REPORT.md; local verification only, not deployment)
 
 ## Log
 - 2026-10-15: M0 done.
@@ -24,3 +24,5 @@ Concept: "The Filings Docket" — SEC EDGAR filings explained in plain English (
 - 2026-10-16 09:08 KST: M6 partial: feed.xml, llms.txt, llms-full.txt (Astro endpoints), robots/ads/IndexNow key in public/, scripts/postbuild.mjs (sharded sitemaps from built HTML, lastmod=article:modified_time), scripts/gate.mjs (129 pages, 0 failing). Fixed descriptions + data-answer on data pages. Next: tests, refresh-build.ps1, DESIGN_REFERENCES.md (missing!), content/backlog.md, seo/scorecard.md + measure.md, astro check, QA.
 - 09:20: M7 done: tests/sec.test.ts (10 hand-computed cases pass, `pnpm test`), scripts/refresh-build.ps1, DESIGN_REFERENCES.md, content/backlog.md, seo/measure.md; astro check 0 errors (tests excluded from tsconfig). Next: M8 seo/scorecard.md (curl vs preview), Playwright shots, then etfnewsdaily.
 - 09:25: M8 done. Fonts now self-defined @font-face font-display:optional + preload (CLS 0 on 8 pages x 2 widths; was up to 0.25), .columns minmax(0,1fr) + sr-only/table-scroll fix (390 overflow 0). seo/scorecard.md before(402)/after. QA evidence qa/shots/report.json, qa/crawl.txt (gitignored). stockmarketnews COMPLETE except final report. Next: etfnewsdaily.
+
+- 2026-10-16 final pass: corrected calendar forward-seven-day count (15 -> 14), added boundary regression, fail-fast crawler checks and isolated local screenshot runner. Build stages passed after runtime interruption recovery; gate 129/129; check 0 errors/0 warnings (2 unused-import hints); tests 11/11. Fresh 1440/390 screenshots and curl in qa/final-*. See FINAL_REPORT.md for launch gaps.

@@ -15,6 +15,11 @@ const { chromium } = require(qa);
   const report = [];
   for (const width of [1440, 390]) {
     const ctx = await browser.newContext({ viewport: { width, height: width === 390 ? 844 : 900 }, deviceScaleFactor: 1 });
+    // Local UI QA must not generate ad impressions or analytics traffic.
+    await ctx.route('**/*', route => {
+      const url = new URL(route.request().url());
+      return url.hostname === '127.0.0.1' || url.hostname === 'localhost' ? route.continue() : route.abort();
+    });
     const page = await ctx.newPage();
     for (const p of paths) {
       await page.goto(base + p, { waitUntil: 'networkidle' }).catch(() => page.goto(base + p));

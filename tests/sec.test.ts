@@ -5,7 +5,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   addDays, diffDays, rollForward, isBusinessDay, dueDate, deadlineDays, filerStatus, nextQuarterEnd, isFiscalYearEnd,
-  lagStats, projectNextReport, plainEnglish, describe8K, filingIndexUrl, slugTicker, type Filing,
+  lagStats, projectNextReport, plainEnglish, describe8K, filingIndexUrl, slugTicker, startsWithinDays, type Filing,
 } from '../src/lib/sec.ts';
 import { pickLength, buildDescription } from '../src/lib/seo.ts';
 
@@ -97,4 +97,13 @@ test('SEO length helpers', () => {
   assert.equal(pickLength(['short', 'x'.repeat(55), 'y'.repeat(58)], 50, 60), 'x'.repeat(55));
   const d = buildDescription(['a'.repeat(100) + '.', 'b'.repeat(70) + '.', 'c'.repeat(50) + '.']);
   assert.equal(d.length, 153);
+});
+
+
+test('next-seven-days window excludes past starts and includes both boundaries', () => {
+  assert.equal(startsWithinDays('2026-10-14', '2026-10-15', 7), false);
+  assert.equal(startsWithinDays('2026-10-15', '2026-10-15', 7), true);
+  assert.equal(startsWithinDays('2026-10-22', '2026-10-15', 7), true);
+  assert.equal(startsWithinDays('2026-10-23', '2026-10-15', 7), false);
+  assert.equal(startsWithinDays('invalid', '2026-10-15', 7), false);
 });

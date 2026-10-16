@@ -5,6 +5,7 @@ param([string]$Base = 'http://127.0.0.1:4331', [string]$Out = 'qa/crawl.txt',
   [string[]]$Pages = @('/', '/company/aapl/', '/calendar/', '/guides/how-to-read-an-8-k/', '/forms/8-k/'),
   [string[]]$Files = @('/sitemap-index.xml', '/sitemap-companies.xml', '/robots.txt', '/llms.txt', '/llms-full.txt', '/ads.txt', '/feed.xml'),
   [string[]]$Missing = @('/no-such-page/', '/company/zzzz/'))
+$failures = @()
 $lines = @("# crawl check $Base $(Get-Date -Format s)")
 foreach ($u in $Pages) {
   $code = curl.exe -s -o NUL -w '%{http_code}' "$Base$u"
@@ -18,13 +19,16 @@ foreach ($u in $Pages) {
   foreach ($m in [regex]::Matches($html, '<script type="application/ld\+json">([\s\S]*?)</script>')) {
     try { $j = $m.Groups[1].Value | ConvertFrom-Json -Depth 50; $ldOk++; $types += ($j.'@graph' | ForEach-Object { $_.'@type' }) } catch { $ldBad++ }
   }
+  if ($code -ne "200" -or $h1 -ne 1 -or $ldOk -lt 1 -or $ldBad -gt 0 -or !$c -or $r -match "noindex") { $failures += "Invalid page: $u" }
   $lines += "$code $u | h1=$h1 | title($($t.Length))=$t | desc($($d.Length)) | canonical=$c | robots=$r | LD ok=$ldOk bad=$ldBad types=$($types -join ',')"
 }
-foreach ($u in $Files) { $code = curl.exe -s -o NUL -w '%{http_code}' "$Base$u"; $len = (curl.exe -s "$Base$u" | Out-String).Length; $lines += "$code $u ($len chars)" }
-foreach ($u in $Missing) { $code = curl.exe -s -o NUL -w '%{http_code}' "$Base$u"; $lines += "$code $u (must be 404)" }
+foreach ($u in $Files) { $code = curl.exe -s -o NUL -w '%{http_code}' "$Base$u"; $len = (curl.exe -s "$Base$u" | Out-String).Length; $lines += "$code $u ($len chars)"; if ($code -ne "200" -or $len -lt 1) { $failures += "Missing file: $u" } }
+foreach ($u in $Missing) { $code = curl.exe -s -o NUL -w '%{http_code}' "$Base$u"; $lines += "$code $u (must be 404)"; if ($code -ne "404") { $failures += "Soft/missing 404: $u" } }
 $lines += '--- robots.txt'; $lines += (curl.exe -s "$Base/robots.txt" | Out-String).Trim()
 $lines += '--- ads.txt'; $lines += (curl.exe -s "$Base/ads.txt" | Out-String).Trim()
 $lines += '--- sitemap-index.xml'; $lines += (curl.exe -s "$Base/sitemap-index.xml" | Out-String).Trim()
 New-Item -ItemType Directory -Force (Split-Path $Out) | Out-Null
 $lines | Set-Content $Out -Encoding utf8
 $lines
+
+if ($failures.Count -gt 0) { $failures | Write-Error; exit 1 }
