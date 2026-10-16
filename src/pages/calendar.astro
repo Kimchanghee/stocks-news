@@ -29,7 +29,7 @@ const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Due dates', path: '/cale
     <p class="caption__kicker">Calendar · projected from filings as of {fmtDate(asOf)}</p>
     <h1>When are the next 10-Q and 10-K reports due?</h1>
     <p class="caption__meta">{rows.length} companies<br />{tenK.length} annual (10-K) next</p>
-    <p class="caption__lede">{answer}</p>
+    <p class="caption__lede" data-answer>{answer}</p>
   </section>
   {isStale && <p class="notice notice--stale"><strong>Stale snapshot</strong> — computed from filings retrieved {staleDays} days before this build.</p>}
 
@@ -63,6 +63,7 @@ const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Due dates', path: '/cale
     </table>
   </div>
   <p id="cal-empty" class="empty" hidden>No company matches that search. Try a ticker such as AAPL or a word from the name.</p>
+  <p class="muted" style="margin:1.5rem 0 2.5rem">Sources: filing dates and periods from the <a href="https://www.sec.gov/search-filings/edgar-application-programming-interfaces">SEC EDGAR submissions API</a>; deadlines from <a href="https://www.sec.gov/files/form10-q.pdf">Form 10-Q</a> and <a href="https://www.sec.gov/files/form10-k.pdf">Form 10-K</a> General Instructions and Exchange Act <a href="https://www.ecfr.gov/current/title-17/section-240.0-3">Rule 0-3</a> (weekend and holiday roll-forward). Projections are estimates; see the <a href="/methodology/">methodology</a>.</p>
 
   <script>
     const q = document.getElementById('cal-q') as HTMLInputElement | null;

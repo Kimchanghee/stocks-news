@@ -9,7 +9,7 @@ const ld = [{ '@type': 'Dataset', name: 'Filings Docket EDGAR snapshot', descrip
   url: `${site.url}/methodology/`, dateModified: s.asOf, temporalCoverage: `../${s.asOf}`, creator: { '@id': `${site.url}/#org` },
   isBasedOn: s.sourceUrl, isAccessibleForFree: true }];
 ---
-<Doc title="Methodology: How The Filings Docket Uses SEC EDGAR Data" description="Where the docket's filing data comes from, how often it refreshes, how next-report windows and deadlines are computed, and the known limits of the SEC submissions data."
+<Doc title="Methodology: How The Filings Docket Uses SEC EDGAR Data" description="Where the docket's filing data comes from, how often it refreshes, how next-report windows and deadlines are computed, and the limits of SEC submissions data."
   path="/methodology/" h1="How is the Filings Docket built?" kicker="Methodology & data sources" updated={updated} extraLd={ld}
   answer={`Every entry comes from the SEC's public EDGAR submissions API. The current snapshot was retrieved ${fmtDate(s.asOf)} for ${s.companies.length} companies. Deadlines use the SEC's 10-K and 10-Q rules; next-report windows combine those rules with each company's own filing history.`}>
   <h2>Data sources</h2>

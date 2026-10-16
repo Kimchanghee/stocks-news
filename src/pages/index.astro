@@ -36,14 +36,10 @@ const title = pickLength([
   'SEC Filings Today: 8-K, 10-Q & 10-K Docket Explained',
   'SEC Filings This Week, Explained in Plain English',
 ], 50, 60);
-const description = buildDescription([
-  'A daily docket of SEC EDGAR filings from 100 large U.S. companies: every 8-K, 10-Q, 10-K, proxy and ownership filing,',
-  'explained in plain English with links to the source.',
-  'Updated from SEC EDGAR.',
-]);
+const description = 'A daily docket of SEC EDGAR filings from 100 large U.S. companies: each 8-K, 10-Q, 10-K, proxy and ownership filing explained in plain English, with sources.';
 let n = 0;
 ---
-<Base title={title} description={description} path="/" jsonLd={[
+<Base title={title} description={description} path="/" modified={asOf} jsonLd={[
   { '@type': 'Dataset', '@id': `${site.url}/#docket`, name: 'SEC filings docket: 100 large U.S. companies', description: answer,
     url: `${site.url}/`, dateModified: asOf, temporalCoverage: `${from}/${asOf}`, isAccessibleForFree: true,
     creator: { '@id': `${site.url}/#org` }, isBasedOn: snapshot.sourceUrl, license: 'https://www.sec.gov/privacy#dissemination' },
@@ -52,7 +48,7 @@ let n = 0;
     <p class="caption__kicker">Docket · {fmtShort(from)} – {fmtDate(asOf)}</p>
     <h1>What did large U.S. companies file with the SEC this week?</h1>
     <p class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time><br />Source: SEC EDGAR</p>
-    <p class="caption__lede">{answer}</p>
+    <p class="caption__lede" data-answer>{answer}</p>
   </section>
 
   {isStale && (

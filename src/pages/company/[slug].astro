@@ -53,10 +53,12 @@ const title = pickLength([
 const description = buildDescription([
   `${name} (${c.ticker}) SEC filings in plain English:`,
   next ? `next ${next.form} expected ${fmtShort(next.windowStart)}${next.windowEnd !== next.windowStart ? '–' + fmtShort(next.windowEnd) : ''}, deadline ${fmtShort(next.due)}.` : 'recent 8-K, 10-Q and 10-K filings.',
-  `${plural(eightK.length, '8-K')} in the past year,`,
-  'recent filings and links to EDGAR.',
+  `${plural(eightK.length, '8-K')} in the past year.`,
   'Recent 8-K, 10-Q and 10-K filings with links to EDGAR.',
+  'Recent filings linked to SEC EDGAR.',
+  'Filings linked to SEC EDGAR.',
   'Data from SEC EDGAR.',
+  'Source: SEC EDGAR.',
   'Source: SEC.',
 ]);
 const path = companyPath(c);
@@ -80,7 +82,7 @@ const subUrl = `https://data.sec.gov/submissions/CIK${c.cik}.json`;
 
   <div class="columns columns--wide">
     <article>
-      <p class="answer">{answer}</p>
+      <p class="answer" data-answer>{answer}</p>
 
       {next && (
         <>

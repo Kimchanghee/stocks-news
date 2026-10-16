@@ -10,7 +10,7 @@ const title = 'SEC Filing Guides: How to Read 8-K, 10-K and 10-Q Reports';
 const description = 'Plain-English guides to reading SEC filings: 8-K items, 10-K and 10-Q reports, deadlines, insider trading plans and EDGAR search, each sourced to SEC.gov.';
 const answer = `${guides.length} guides explain how to read and find U.S. corporate filings: what each 8-K item means, how 10-K and 10-Q reports differ and when they are due, and how insiders and large holders report. Every guide links its SEC sources and shows when the facts were last checked.`;
 const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Guides', path: '/guides/' }];
-const ld = [{ '@type': 'CollectionPage', name: 'SEC filing guides', url: `${site.url}/guides/`, dateModified: updated, hasPart: guides.map((g) => ({ '@type': 'Article', headline: g.data.h1, url: `${site.url}/guides/${g.id}/`, dateModified: g.data.updated })) }];
+const ld = [{ '@type': 'CollectionPage', name: 'Guides', url: `${site.url}/guides/`, dateModified: updated, hasPart: guides.map((g) => ({ '@type': 'Article', headline: g.data.h1, url: `${site.url}/guides/${g.id}/`, dateModified: g.data.updated })) }];
 ---
 <Base title={title} description={description} path="/guides/" ogImage="/og/guides.png" crumbs={crumbs} jsonLd={ld} modified={updated}>
   <section class="caption">
@@ -31,5 +31,5 @@ const ld = [{ '@type': 'CollectionPage', name: 'SEC filing guides', url: `${site
       </li>
     ))}
   </ol>
-  <p class="muted" style="margin:2rem 0">Looking for one specific form? See the <a href="/forms/">form explainers</a>. New guides are announced in the <a href="/feed.xml">RSS feed</a>.</p>
+  <p class="muted" style="margin:2rem 0">Looking for one specific form? See the <a href="/forms/">form explainers</a>. New guides are announced in the <a href="/feed.xml">RSS feed</a>. Primary sources start at <a href="https://www.sec.gov/edgar/search/">EDGAR full-text search</a> and the SEC's <a href="https://www.investor.gov/introduction-investing/getting-started/researching-investments/using-edgar-research-investments">Using EDGAR</a> guide on Investor.gov.</p>
 </Base>

@@ -16,8 +16,7 @@ const sics = new Set(companies.map((c) => c.sicDescription).filter(Boolean)).siz
 const answer = `This docket follows ${companies.length} U.S. public companies that file annual reports on Form 10-K, across ${sics} SEC industry codes. In the year to ${fmtDate(asOf)}, ${nameOf(most.c)} filed the most current reports (${plural(most.eightK, 'Form 8-K')}).`;
 const title = pickLength(['SEC Filing Records for 100 Large U.S. Companies', 'Company Filing Records: 100 Large U.S. Companies on EDGAR'], 50, 60);
 const description = buildDescription([
-  'Browse the SEC filing records of 100 large U.S. public companies: CIK, filer status, fiscal year end, 8-K count and latest filing, each linked to a detailed docket page.',
-  'Data from EDGAR.',
+  'Browse SEC filing records of 100 large U.S. public companies: CIK, filer status, fiscal year end, 8-K count and latest filing, each linked to its docket page.',
 ]);
 const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Companies', path: '/companies/' }];
 ---
@@ -29,7 +28,7 @@ const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Companies', path: '/comp
     <p class="caption__kicker">Watchlist · {companies.length} registrants</p>
     <h1>Which companies does the Filings Docket follow?</h1>
     <p class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></p>
-    <p class="caption__lede">{answer}</p>
+    <p class="caption__lede" data-answer>{answer}</p>
   </section>
   <div class="prose" style="margin:1.25rem 0">
     <p>The list is the {snapshot.universe.toLowerCase()} (<a href={snapshot.universeUrl}>source file</a>). Foreign private issuers that file Form 20-F instead of a 10-K, and funds, are skipped. The SEC does not describe the order of that file; we use it only as a reproducible way to pick large, actively traded registrants, not as a ranking. <a href="/methodology/">Methodology</a>.</p>

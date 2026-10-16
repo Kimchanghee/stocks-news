@@ -10,7 +10,7 @@ const title = 'SEC Form Types Explained: 8-K, 10-K, 10-Q, S-1, 13D, Form 4';
 const description = 'What each common SEC form is for, who files it, when it is due and what to read first: 8-K, 10-K, 10-Q, S-1, Schedule 13D/13G, Form 4 and DEF 14A proxies.';
 const answer = `These ${forms.length} explainers cover the SEC forms that make up most of a large company's filing record. Each one says who files the form, what triggers it, the deadline and which part to read first, with links to the SEC's own form instructions.`;
 const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Forms', path: '/forms/' }];
-const ld = [{ '@type': 'CollectionPage', name: 'SEC form explainers', url: `${site.url}/forms/`, dateModified: updated, hasPart: forms.map((g) => ({ '@type': 'TechArticle', headline: g.data.h1, url: `${site.url}/forms/${g.id}/`, dateModified: g.data.updated })) }];
+const ld = [{ '@type': 'CollectionPage', name: 'Form explainers', url: `${site.url}/forms/`, dateModified: updated, hasPart: forms.map((g) => ({ '@type': 'TechArticle', headline: g.data.h1, url: `${site.url}/forms/${g.id}/`, dateModified: g.data.updated })) }];
 ---
 <Base title={title} description={description} path="/forms/" ogImage="/og/forms.png" crumbs={crumbs} jsonLd={ld} modified={updated}>
   <section class="caption">
@@ -30,5 +30,5 @@ const ld = [{ '@type': 'CollectionPage', name: 'SEC form explainers', url: `${si
       </li>
     ))}
   </ol>
-  <p class="muted" style="margin:2rem 0">For step-by-step reading methods, see the <a href="/guides/">guides</a>; for what was filed this week, the <a href="/">docket</a>.</p>
+  <p class="muted" style="margin:2rem 0">For step-by-step reading methods, see the <a href="/guides/">guides</a>; for what was filed this week, the <a href="/">docket</a>. The SEC's own <a href="https://www.sec.gov/forms">list of forms and instructions</a> is the authoritative reference.</p>
 </Base>
