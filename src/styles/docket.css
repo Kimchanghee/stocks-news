@@ -147,7 +147,7 @@ table.ledger td.num, table.ledger th.num { text-align: right; white-space: nowra
 table.ledger tr:target, table.ledger tr.is-today { background: var(--marker); }
 
 /* ---------- Prose ---------- */
-.prose { max-width: var(--measure); }
+.prose { max-width: var(--measure); overflow-wrap: break-word; }
 .prose h2 { font-size: var(--t-lg); line-height: 1.2; margin: 2.2rem 0 0.6rem; font-weight: 650; letter-spacing: -0.005em; }
 .prose h3 { font-size: var(--t-md); margin: 1.6rem 0 0.4rem; font-weight: 650; }
 .prose p, .prose li { line-height: 1.68; }
