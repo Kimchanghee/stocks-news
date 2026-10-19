@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { site } from '../site.config';
 import { docket, upcoming, asOf, isStale, staleDays, snapshot, companyPath, nameOf, itemFrequency } from '../lib/data';
 import { fmtDate, fmtShort, addDays, filingDocUrl, filingIndexUrl, EIGHT_K_ITEMS, stampLabel, plural } from '../lib/sec';
@@ -102,7 +103,7 @@ let n = 0;
                   );
                 })}
               </section>
-              {di === 0 && <div class="ad-slot" aria-hidden="true"><span class="ad-slot__label">Advertisement</span></div>}
+              {di === 0 && <AdSlot />}
             </>
           ))}
         </div>

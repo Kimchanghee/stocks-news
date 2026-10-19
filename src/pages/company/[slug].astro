@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import LagChart from '../../components/LagChart.astro';
 import { site } from '../../site.config';
 import { companies, asOf, isStale, staleDays, nameOf, companyPath, upcoming } from '../../lib/data';
@@ -117,7 +118,7 @@ const subUrl = `https://data.sec.gov/submissions/CIK${c.cik}.json`;
         </div>
       )}
 
-      <div class="ad-slot" aria-hidden="true"><span class="ad-slot__label">Advertisement</span></div>
+      <AdSlot />
 
       <h2 style="font-size:var(--t-lg);margin:2rem 0 .5rem">What {name}'s 8-Ks were about in the past year</h2>
       {items.length === 0 ? <p class="empty">No Form 8-K filings between {fmtDate(yearAgo)} and {fmtDate(asOf)} in the records we hold.</p> : (
