@@ -3,8 +3,8 @@
 import { readFileSync, readdirSync } from 'node:fs';
 
 const dist = new URL('../dist/', import.meta.url);
-const files = readdirSync(dist).filter((f) => /^sitemap(-\d+)?\.xml$/.test(f));
-const urls = [...new Set(files.flatMap((f) => [...readFileSync(new URL(f, dist), 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1])))];
+const files = readdirSync(dist).filter((f) => /^sitemap[\w-]*\.xml$/.test(f));
+const urls = [...new Set(files.flatMap((f) => [...readFileSync(new URL(f, dist), 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1])))].filter((u) => !u.endsWith('.xml'));
 const keyFile = readdirSync(new URL('../public/', import.meta.url)).find((f) => /^[a-f0-9]{32}\.txt$/.test(f));
 if (!keyFile || !urls.length) {
   console.error('indexnow: missing key file or sitemap URLs');
