@@ -72,9 +72,9 @@ const subUrl = `https://data.sec.gov/submissions/CIK${c.cik}.json`;
     about: { '@type': 'Corporation', name: c.name, tickerSymbol: c.ticker, identifier: `CIK ${c.cik}` } },
 ]}>
   <section class="caption">
-    <p class="caption__kicker">In re: {c.name} · CIK {c.cik}</p>
+    <div class="caption__kicker">In re: {c.name} · CIK {c.cik}</div>
     <h1>{h1}</h1>
-    <p class="caption__meta">{c.ticker}{c.exchanges.length ? ` · ${c.exchanges.join(', ')}` : ''}<br />Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></p>
+    <div class="caption__meta">{c.ticker}{c.exchanges.length ? ` · ${c.exchanges.join(', ')}` : ''}<br />Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></div>
   </section>
 
   {(isStale || c.stale) && (

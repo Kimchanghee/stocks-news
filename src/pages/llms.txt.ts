@@ -14,6 +14,8 @@ export const GET: APIRoute = async () => {
     '',
     `> ${site.description}`,
     '',
+    `Last updated: ${snapshot.asOf} (EDGAR snapshot date; data as of ${fmtDate(snapshot.asOf)}).`,
+    '',
     `Filing data: ${snapshot.source}, snapshot dated ${fmtDate(snapshot.asOf)} (${snapshot.sourceUrl}). ${d.length} docket entries in the 7 days ending ${fmtDate(snapshot.asOf)}. Not investment advice; the SEC document is the authoritative record. Independent, not affiliated with the SEC.`,
     '',
     '## Core pages',

@@ -14,9 +14,9 @@ const ld = [{ '@type': 'CollectionPage', name: 'Form explainers', url: `${site.u
 ---
 <Base title={title} description={description} path="/forms/" ogImage="/og/forms.png" crumbs={crumbs} jsonLd={ld} modified={updated}>
   <section class="caption">
-    <p class="caption__kicker">Form explainers · {forms.length} forms</p>
+    <div class="caption__kicker">Form explainers · {forms.length} forms</div>
     <h1>What does each SEC form mean?</h1>
-    <p class="caption__meta">Last updated <time datetime={updated}>{fmtDate(updated)}</time></p>
+    <div class="caption__meta">Last updated <time datetime={updated}>{fmtDate(updated)}</time></div>
     <p class="caption__lede" data-answer>{answer}</p>
   </section>
   <ol class="index-list">

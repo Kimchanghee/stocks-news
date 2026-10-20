@@ -44,9 +44,9 @@ if (data.faq.length) {
 ---
 <Base title={data.title} description={data.description} path={path} ogImage={ogImage} ogType="article" crumbs={crumbs} jsonLd={ld} published={data.published} modified={data.updated}>
   <section class="caption">
-    <p class="caption__kicker">{kind === 'form' ? `Form explainer${data.form ? ' · ' + data.form : ''}` : 'Guide'}</p>
+    <div class="caption__kicker">{kind === 'form' ? `Form explainer${data.form ? ' · ' + data.form : ''}` : 'Guide'}</div>
     <h1>{data.h1}</h1>
-    <p class="caption__meta">Updated <time datetime={data.updated}>{fmtDate(data.updated)}</time><br />Facts checked {fmtDate(data.data_asof)}</p>
+    <div class="caption__meta">Updated <time datetime={data.updated}>{fmtDate(data.updated)}</time><br />Facts checked {fmtDate(data.data_asof)}</div>
   </section>
   <div class="columns columns--wide">
     <article>

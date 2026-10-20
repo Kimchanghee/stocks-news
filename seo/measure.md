@@ -36,3 +36,9 @@ Ask in ChatGPT (search on), Perplexity and Google AI Overviews; record whether s
 [Re-measure] deploy + 14 days
 [Result]     ...
 ```
+
+## 2026-10-20 five-lane pass
+- Re-measure date: 2026-11-03 (+14 days from this source release).
+- Numeric baseline: pending console data (GSC/Bing exports are owner-held). Values are unknown, not zero.
+- Citation probes (record engine, date, answer, cited URL as O/X): What does 8-K Item 5.02 (officer departure) mean? / What is Form 144 and does it mean an insider sold? / What is a 10-K/A or 10-Q/A and why is one filed? / Which of the 100 companies filed an 8-K this week? / What is The Filings Docket?
+- Leading indicator: AI-crawler visits (GPTBot, OAI-SearchBot, ClaudeBot, Claude-SearchBot, PerplexityBot, Perplexity-User) in Cloudflare analytics where available.

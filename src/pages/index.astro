@@ -46,9 +46,9 @@ let n = 0;
     creator: { '@id': `${site.url}/#org` }, isBasedOn: snapshot.sourceUrl, license: 'https://www.sec.gov/privacy#dissemination' },
 ]}>
   <section class="caption">
-    <p class="caption__kicker">Docket · {fmtShort(from)} – {fmtDate(asOf)}</p>
+    <div class="caption__kicker">Docket · {fmtShort(from)} – {fmtDate(asOf)}</div>
     <h1>What did large U.S. companies file with the SEC this week?</h1>
-    <p class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time><br />Source: SEC EDGAR</p>
+    <div class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time><br />Source: SEC EDGAR</div>
     <p class="caption__lede" data-answer>{answer}</p>
   </section>
 

@@ -14,9 +14,9 @@ const ld = [{ '@type': 'CollectionPage', name: 'Guides', url: `${site.url}/guide
 ---
 <Base title={title} description={description} path="/guides/" ogImage="/og/guides.png" crumbs={crumbs} jsonLd={ld} modified={updated}>
   <section class="caption">
-    <p class="caption__kicker">Guides · {guides.length} entries</p>
+    <div class="caption__kicker">Guides · {guides.length} entries</div>
     <h1>How do you read corporate filings?</h1>
-    <p class="caption__meta">Last updated <time datetime={updated}>{fmtDate(updated)}</time></p>
+    <div class="caption__meta">Last updated <time datetime={updated}>{fmtDate(updated)}</time></div>
     <p class="caption__lede" data-answer>{answer}</p>
   </section>
   <ol class="index-list">

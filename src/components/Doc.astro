@@ -15,9 +15,9 @@ const ld = [{ '@type': ldType, '@id': url + '#page', url, name: h1, description,
 ---
 <Base title={title} description={description} path={path} ogImage={ogImage} crumbs={crumbs} jsonLd={ld} modified={updated}>
   <section class="caption">
-    <p class="caption__kicker">{kicker}</p>
+    <div class="caption__kicker">{kicker}</div>
     <h1>{h1}</h1>
-    <p class="caption__meta">Updated <time datetime={updated}>{fmtDate(updated)}</time></p>
+    <div class="caption__meta">Updated <time datetime={updated}>{fmtDate(updated)}</time></div>
   </section>
   <div class="columns columns--wide">
     <article>

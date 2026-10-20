@@ -25,9 +25,9 @@ const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Companies', path: '/comp
     itemListElement: rows.map((r, i) => ({ '@type': 'ListItem', position: i + 1, url: new URL(companyPath(r.c), site.url).href, name: nameOf(r.c) })) },
 ]}>
   <section class="caption">
-    <p class="caption__kicker">Watchlist · {companies.length} registrants</p>
+    <div class="caption__kicker">Watchlist · {companies.length} registrants</div>
     <h1>Which companies does the Filings Docket follow?</h1>
-    <p class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></p>
+    <div class="caption__meta">Snapshot <time datetime={asOf}>{fmtDate(asOf)}</time></div>
     <p class="caption__lede" data-answer>{answer}</p>
   </section>
   <div class="prose" style="margin:1.25rem 0">

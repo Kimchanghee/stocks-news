@@ -25,9 +25,9 @@ const crumbs = [{ name: 'Docket', path: '/' }, { name: 'Due dates', path: '/cale
     creator: { '@id': `${site.url}/#org` }, isBasedOn: 'https://www.sec.gov/search-filings/edgar-application-programming-interfaces', isAccessibleForFree: true },
 ]}>
   <section class="caption">
-    <p class="caption__kicker">Calendar · projected from filings as of {fmtDate(asOf)}</p>
+    <div class="caption__kicker">Calendar · projected from filings as of {fmtDate(asOf)}</div>
     <h1>When are the next 10-Q and 10-K reports due?</h1>
-    <p class="caption__meta">{rows.length} companies<br />{tenK.length} annual (10-K) next</p>
+    <div class="caption__meta">{rows.length} companies<br />{tenK.length} annual (10-K) next</div>
     <p class="caption__lede" data-answer>{answer}</p>
   </section>
   {isStale && <p class="notice notice--stale"><strong>Stale snapshot</strong> — computed from filings retrieved {staleDays} days before this build.</p>}
